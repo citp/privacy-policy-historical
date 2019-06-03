@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the rpgmakerweb.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231032017id_/https%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgmakerweb.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603074834id_/http%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RPG Maker | How To Make A Video Game!
 
-Last updated: November 29, 2018
-
-## Note for residents of member states of the European Economic Area (EEA)
-
-DEGICA Co., Ltd. is a company based in Japan. The European Commission has not yet approved that Japan offers an adequate level of data protection. We take all the possible security measures, but there might be some risk when you transfer your personal information. Please read and agree to our privacy policy below before you submit your information to us. 
+Last updated: October 12, 2018
 
 We (DEGICA Co., Ltd.) may collect your personal information in order to provide our services, including EC sites operation, digital content sales and international promotion support. We fully understand the importance of safeguarding your privacy and endeavor to handle your personal information appropriately so that you can do business with us with peace of mind. To this end, we publish our Privacy Policy here. 
 
@@ -54,18 +50,19 @@ We use your information for the purposes specified below. We shall not use it fo
   * To utilize information for services such as analysis, marketing, and information dissemination, etc., as statistical data in which individuals or corporations are anonymized
   * To perform identity verification
   * To prevent, investigate, and identify fraud, cyber-attacks, and other illegal activities or violations of our services’ terms of use, and to protect our legal rights
+  * To utilize information for personnel recruitment
 
 
 
 We may retain information about you for as long as it is necessary to fulfill the purposes described above. In order to secure your information, we take all the security measures described in “6. Security” 
 
-## 4\. Sharing and Disclosure of Your Information
+## 4\. Sharing and Provision of Your Information
 
-We shall not sell or rent your personal information to third parties. However, we may share your information with our partners or disclose it to a third party in the following circumstances. 
+We shall not sell or rent your personal information to third parties. However, we may share your information with our partners or provide it to a third party in the following circumstances. 
 
   * When you have provided consent in advance
   * When necessary for our partners to perform outsourced duties (transmitting email, processing payments, etc.)
-  * When necessary to disclose statistical data in which individuals or corporations are anonymized
+  * When necessary to provide statistical data in which individuals or corporations are anonymized
   * When necessary to sell our business in whole or in part
   * When required by law
   * Cases of urgent necessity in which there is imminent danger to the life, body, or property of an individual, and in which it is difficult to obtain the consent of the person
@@ -76,7 +73,7 @@ We shall not sell or rent your personal information to third parties. However, w
 
 ## 5\. Your Rights
 
-When we receive your request of disclosure, correction, amendment, deletion, suspension of use, or notification of the purposes of use of your information, we shall take care of it promptly within a reasonable scope. Under the GDPR (General Data Protection Regulation), those residing in the European Economic Area (EEA) countries have the rights to revoke consent to provide personal information, to raise objections regarding the handling of personal information, and to file complaints with the competent supervisory authorities. 
+When we receive your request of disclosure, correction, amendment, deletion, erasing, suspension of use, or notification of the purposes of use of your information, we shall take care of it promptly within a reasonable scope. Under the GDPR (General Data Protection Regulation), those residing in the European Economic Area (EEA) countries have the rights to revoke consent to provide personal information, to raise objections regarding the handling of personal information, and to file complaints with the competent supervisory authorities. 
 
 ## 6\. Security
 
