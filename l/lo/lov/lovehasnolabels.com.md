@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehasnolabels.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002181608id_/https%3A//www.adcouncil.org/About-Us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehasnolabels.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604013504id_/https%3A//www.adcouncil.org/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | AdCouncil
 
