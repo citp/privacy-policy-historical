@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontier.co.uk privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909165441id_/https%3A//www.frontier.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontier.co.uk privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603140601id_/https%3A//www.frontier.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Frontier
 
@@ -369,6 +369,8 @@ We publish online games and these require users of the Service to have a usernam
 
 
 
+There are certain features within our games that make game data public on other Services. The information made public varies between game and feature, however players will be notified of this information before they start using the feature. In some cases, players may prevent this information being made public by not using the specific feature. Otherwise, players will need to stop using the game in its entirety.
+
 Within our Services, certain games allow for players to play the game their own way and create their own story. Some of our games therefore generate logs which show certain player interactions. This allows players to build up their own story outside the game. When a player interacts with a second player under certain circumstances, the second player’s username will appear in the original player’s logs. The information which is in these logs is information which has already been made public by players interacting with our Services.
 
 How this information is used is up to the player and Frontier Developments cannot control how this is used. This feature is fundamental to using certain Services. If you do not wish your username to appear in these logs, then do not interact with the Services. If you terminate your game account, your username will still remain on players' computers within these logs.
@@ -403,6 +405,10 @@ If a service provider needs to access information about you to perform services 
 **_Links to Third party sites_**
 
 The Service may include links that direct you to other websites or services whose privacy practices may differ from ours. If you submit information to any of those third party sites, your information is governed by their privacy policies, not this one. We strongly recommend that you carefully read the privacy policy of any website you visit.
+
+_**Third party game services**_
+
+The Service can share information with Third party game services only when you have given Frontier permission via the Frontier Auth service.
 
 **Compliance with Enforcement Requests and Applicable Laws; Enforcement of Our Rights**
 
