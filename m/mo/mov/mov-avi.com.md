@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mov-avi.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224034608id_/https%3A//www.movavi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mov-avi.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604002417id_/https%3A//www.movavi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -145,9 +145,6 @@ Hotjar is a technology service that helps us better understand user experience (
  **SurveyMonkey**  
 We use SurveyMonkey, Inc. to collect some survey and questionnaire data.
 
- **MarketLinc**  
-We use the MarketLinc Intelligent Live Sales Chat Solution for advanced targeting analytics, proactive live sales chat interaction, and performance attribution reporting. This enables us to make our chat interactions appear when most appropriate and to be able to continually report on, and improve, the appearance and effectiveness of our chat system and communications.
-
  **Google Tag Manager**  
 We use Google Tag Manager, a tag management system that allows us to quickly and easily update tracking codes and related code fragments collectively known as "tags" on our website or mobile app.
 
@@ -173,5 +170,5 @@ We highly value your trust and are always ready to answer your questions about t
 If you have any questions or concerns, contact us at userfeedback@movavi.com.
 
  **Registered office**  
-Movavi Software Ltd  
-7 Naxou, 4542 Apsiou, Cyprus
+Movavi Software Limited  
+Office 201, 3 Krinou Street, Agios Athanasios Municipality, 4103 Limassol, Cyprus
