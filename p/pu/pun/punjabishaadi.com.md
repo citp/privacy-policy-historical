@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punjabishaadi.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819113551id_/https%3A//www.punjabishaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabishaadi.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603034001id_/https%3A//www.punjabishaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
 
 # Shaadi.com Privacy PolicyIndian matrimonial web site - free listing matrimonials - PunjabiShaadi.com
 
@@ -6,7 +6,7 @@ Your privacy is important to us, and so is being transparent about how we collec
 
   1. What information does Shaadi.com collect from you? 
 
-Shaadi.com is an advertising platform providing targeted advertising services for the purpose of matchmaking ("Service"). In order to do provide the services, we ask for certain personal information which is displayed on the site on behalf of you to find the perfect life partner.
+Shaadi.com is an advertising platform providing targeted advertising services for the purpose of matchmaking ("Service"). In order to do provide the services, we ask for certain personal information which is displayed on the site on behalf of you to find the perfect life partner. You hereby provide your consent to collect, process, and share of your personal information in order to provide the service.
 
 **Shaadi.com gathers following types of information:**
 
@@ -28,7 +28,10 @@ In order to avail the service you provide the following information:-
       * **User activity**  
 We collect information about your activity on our services, such as date and time you logged in, features you've been using, searches, clicks and pages visited by you, your interaction with other users including messages exchanged.
       * **Device Information**  
-We collect information from and about the device(s) such as IP address, device ID and type, device-specification and apps settings, app error reports, browser type and version, operating system, identifiers associated with cookies or other technologies that may uniquely identify your device or browser;
+We collect information from and about the device(s) such as IP address, device ID and type, device-specification and apps settings, app error reports, browser type and version, operating system, identifiers associated with cookies or other technologies that may uniquely identify your device or browser.
+      * SMS permission
+
+We need SMS permission for authenticating transactions via OTP, sent by the Payment Gateway.
     3. **Information we receive from others**  
 In addition to the information you provide us directly, we receive information about you from others, such as: 
       * **Social Media**  
@@ -58,7 +61,7 @@ we will disclose your personally identifiable information as required by law and
 
   4. How to access and/or control your information? 
 
-You have been provided with tools to manage your information. You have the rights to access, rectify, update information that you provided to us and that's associated with your shaadi.com account directly by logging into your account. You can update your privacy option by clicking [here](https://web.archive.org/my-shaadi/my-account/privacy-settings).
+You have been provided with tools to manage your information. You have the rights to access, rectify, update information that you provided to us and that's associated with your shaadi.com account directly by logging into your account.
 
 In addition to aforesaid privacy control, a member from EU have the following rights 
 
@@ -87,7 +90,7 @@ We and our third-party partners, such as our advertising and analytics partners,
 
   8. How we transfer information we collect Internationally? 
 
-We collect information globally and primarily store that information in the United States and other jurisdiction. We may transfer, process and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services. Information collected within the European Economic Area ("EEA") may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. Whenever we transfer your information, we take steps to protect it and make use of standard contractual data protection clauses, which have been approved by the European Commission. 
+We collect information globally and primarily store that information in India and other jurisdiction. We may transfer, process and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services. Information collected within the European Economic Area ("EEA") may, for example, be transferred to countries outside of the EEA for the purposes as described in this policy. Whenever we transfer your information, we take adequate steps to protect it and it is done with standard contractual data protection. 
 
   9. How will I know of changes in Shaadi.com privacy policy? 
 
