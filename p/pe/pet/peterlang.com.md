@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peterlang.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920232632id_/https%3A//www.peterlang.com/page/privacy/datenschutz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterlang.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603172429id_/https%3A//www.peterlang.com/page/privacy/datenschutz) for the most accurate reproduction.*
 
 # Privacy Policy for Website Visitors and Customers
 
