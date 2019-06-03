@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolvingwisdom.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011130330id_/http%3A//evolvingwisdom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolvingwisdom.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603034635id_/https%3A//evolvingwisdom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Evolving Wisdom
 
@@ -41,7 +41,7 @@ Evolving Wisdom takes all necessary industry standard precautions to maintain th
 
 This policy may be changed at any time at Evolving Wisdom’s discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised February 28, 2014.
 
-If you have any questions or concerns regarding our privacy policy please contact us [here](http://evolvingwisdom.com/contact/). You may also send a letter to:
+If you have any questions or concerns regarding our privacy policy please contact us [here](https://evolvingwisdom.com/contact/). You may also send a letter to:
 
 Evolving Wisdom, LLC  
 Attn: Evolving Wisdom Support Team  
