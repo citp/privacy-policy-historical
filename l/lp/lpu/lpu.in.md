@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lpu.in privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901194629id_/https%3A//www.lpu.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpu.in privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603143048id_/https%3A//www.lpu.in/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -15,7 +15,7 @@ While we make our best efforts to protect the privacy of users however we cannot
 
 This privacy policy may be revised/modified/amended at any point of time at the sole discretion of the University.
 
-﻿ 
+﻿
 
 #### **Admissions for 2017-2018 are closed, except for the following programmes.**  
 
@@ -32,4 +32,4 @@ The last date to apply for admission is 31st August 2017.
 
 To enquire for admission in programmes other than mentioned above, [Click Here](https://www.lpu.in/contact_us/contact-us.php)
 
-The photographs of the students, who attended the 8th Convocation are attached under the following links. Students can download the photographs based on the line number allocated to them, for the ceremony. 
+The photographs of the students, who attended the 9th Convocation are attached under the following links. Students can download the photographs based on the line number allocated to them, for the ceremony. 
