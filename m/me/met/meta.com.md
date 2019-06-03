@@ -1,91 +1,182 @@
-> *The following text is extracted and transformed from the meta.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207114911id_/http%3A//www.meta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meta.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604011911id_/https%3A//meta.org/privacy) for the most accurate reproduction.*
 
-# Meta - AI for Science
+# Meta
 
-**This Statement is an addition to the Terms of Use. Therefore, the general definitions and provisions of the Terms of Use apply here.**
+### 1\. What information does Meta collect about you?
 
-Meta Inc. ("Meta") doing business as Meta operates the meta.com and Meta.Science Websites in full compliance with the Canadian laws on privacy and data protection. We respect your privacy and therefore protect your personal data.
+We collect a variety of information from you, depending on whether you are a Meta user or author, and we do so in a few different ways:
 
-For your convenience, we have arranged all information on privacy and data amp; in a "Questions & Answers" section. Nevertheless, this statement is a binding agreement between the Meta and each User. You, as the User, expressly consent to storage and processing of your personal data, as described and defined in this statement.
+### 1.1 From you.
 
-**What is master data?**
+**We collect certain information from you when you provide it to us directly.**
 
-Master data, in this statement, means all data related directly to a User as a person, irrespective of your actual usage of the Service. This includes, for example, your Username, e-mail address and other contact information, information about which Research Institutes, Groups, Concepts, Geographical Locations, Author Names and Published Works you are associated with. This also encompasses information that is written into a User's Profile page.
+  * **User profile information**. When you sign up to use Meta, you provide us with your first and last name, email address, and whether you actively conduct or assist with biomedical or life sciences research. You may provide additional information in your profile such as your affiliated organization, organization email address and field of study. 
+  * **Feed preferences**. The magic of Meta lies in our ability to deliver new, relevant scientific articles to your feed based on the research areas you are interested in. To do so, you provide us with the topics, concepts, researchers, journals and other criteria you are interested in seeing in your Feed(s).
+  * **Surveys and user experience research**. You may choose to participate in one of our surveys or user feedback sessions.
+  * **Content you share**. You may share content, such as descriptions of feeds or lists of articles you have created, with other Meta users. 
+  * **Customer support**. If you contact us with a support request or comments, you may provide us with information, such as your contact and a description of the issue, so we can respond.
+  * **Information from third party services. You have the option to link your Meta account to accounts from other third party. When you do this, Meta will share information with these services. For example, you may decide to link your Meta account to third party reference management services such as Mendeley, EndNote and Zotero, which allows you to share information about papers from those services with Meta and vice versa.**
 
-**What master data is collected and stored by Meta?**
 
-Meta stores data you enter and submit on the Meta service; i.e., if you submit your biography to your profile page, Meta will store it. Or, if you join a Group or Institute or follow a Topic, Meta will store that information. If you choose a Paper to Save to Library, Meta will store that information.
 
-**What master data is processed by Meta and why?**
+_We use the information that you provide to us, share on the Services or ask us to obtain from third party services._
 
-Meta will process your data in order to run the Web service. For example, if any internet user visits your profile page, we process your data in order to show your profile page. Very basic data (e.g. your name) is visible to all users. Meta reserves the right to process your master data to generate anonymous statistics, such as publication view counts. Such anonymous statistics will contain no information about you or any other individual user.
+### 1.2 From your browser or device.
 
-**Does Meta process my e-mail address and send e-mails?**
+**Whenever you use any website, certain information gets created and logged automatically. The same is true when you use Meta. Here is what we collect:**
 
-Meta will process your email address solely to send e-mails to you containing information or notifications about the Service. Meta reserves the right to attach some content to those e-mails, containing advertisements and endorsements for products and services of any third party.
+  * **Log data**. When you use our Services (including through your computer or mobile device), we gather certain information automatically and store it in log files. This information includes IP addresses, Internet service provider, referring/exit pages, date/time stamp, clickstream data, log-in times, duration of time spent on our Services, or navigation of our Services while logged in. 
+  * **Device data**. In addition to log data, we collect information about the device you’re using Meta on, including type of device, browser type, operating system, settings, unique device identifiers and crash data that help us understand when something goes awry.
+  * **Engagement data**. We will collect information about the way you use Meta, such as the articles you click on, open, or add to your Library, and the things you search for in Meta. 
+  * **Cookie data**. We also use “cookies” (small text files sent by your computer each time you visit our website, unique to your Meta account or your browser) or similar technologies. For more detailed information about how we use cookies, please see our [Cookies Policy](https://meta.org/cookies/).
 
-**How can I see what master data is stored and how can I change or delete it?**
 
-You can see and edit your data on your profile pages. You can also delete all your master data except for your name, your e-mail address and your password. If you wish to cancel your Meta account, contact the Meta Support team. Selecting to cancel your account will permanently delete your account, and remove all personalized data from our services. If you choose to have your account cancelled, Meta will not continue store to any personal data.
 
-##  III: Traffic Data
+_Like many websites, we automatically collect certain technical information when you interact with the Services._
 
-**What is traffic data?**
+### 1.3 From third parties and public sources, and inferred information.
 
-Traffic data is data about your Meta usage. This is mainly tracking information on log-in times, duration, and activities while logged in. Traffic data also includes your IP address/es and information sent automatically by your Web browser such as your browser software, and preferred languages.
+**The scientific articles we process contain information about their authors. We use information from several sources to build our Knowledge Graph:**
 
-**What traffic does Meta collect and store?**
+  * **Repositories of publication information**. We index and refine our Knowledge Graph with information contained about articles gathered from services such as PubMed, CrossRef and bioRxiv. Such information will include the first and last names of authors, titles, affiliated organizations, article bibliometrics, and any other biographical information contained therein.
+  * **Publisher partners**. Meta has relationships with publisher partners that enable access to historical and newly published journal articles. We use information in these articles, such as first and last names of authors, titles, and affiliated organizations, in order to refine our Knowledge Graph. 
+  * **Data we infer**. We analyse articles in order to create the Knowledge Graph, which connects papers, researchers, scientific concepts and journals. We also use Eigenfactor® ([learn more about Eigenfactor and Meta here](http://support.meta.com/knowledgebase/articles/1079980-learn-more-about-eigenfactor-in-meta)) and other algorithms to predict the probable future impact of articles. This enables us to sort papers within your Feeds so that recent papers with the highest predicted Eigenfactor surface to the top of your Feed(s).
 
-Meta collects your traffic data, as defined above, and will store that data for the duration of your session. A session starts when you log in and ends when you log out. During that period, your data is connected to your IP address and your user account, which has your personal information. After your session ends, Meta reserves the right to store traffic data.
 
-**What master data is processed by Meta and why?**
 
-Meta will process your data in order to run the Web service. For example, if any internet user visits your profile page, we process your data in order to show your profile page. Very basic data (e.g. your name) is visible to all users. Meta reserves the right to process your master data to generate anonymous statistics, such as publication view counts. Such anonymous statistics will contain no information about you or any other individual user.
+_We analyse papers in order to create our knowledge graph and to infer the likely impact of those papers. This enables us put the most relevant content at the top of your Feed._
 
-**What traffic data is processed by Meta and why?**
+### 2\. How does Meta use this information?
 
-During your session, Meta needs to process traffic data to provide the Service. After the session, Meta reserves the right to process traffic data to generate anonymous statistics. Meta uses this information to improve its services and user experience. Meta may also process traffic data for security and fraud-detection reasons. The number of profile pages you viewed is a security measure for the protection of personal data. Processing this information helps Meta detect and prevent "data harvesting", meaning automatic retrieval of profile pages to gain many users' personal data.
+### 2.1 Providing and maintaining the Services.
 
-**How can I view stored traffic data, change or delete it?**
+We use the information we collect to provide the Services to you. We seek to show you content that is tailored to your research interests. In order to do that and to perform our obligations set out in the [Terms of Use](https://meta.org/terms/), it is necessary for us to use your information to:
 
-Please contact the Meta support team for any requests related to viewing, changing or deleting your traffic data. When you cancel your Meta account, we automatically delete your personal traffic data.
+  * create and verify your account;
+  * identify when you use Meta and provide you with the Services you request;
+  * suggest concepts, researchers, and journals you might want to add to your Feed(s) based on your engagement with Meta and expressed research interests; 
+  * if requested, send you regular email updates of the top research in your Feed(s); and 
+  * respond to your questions and comments.
 
-##  IV: Cookies
 
-**What are cookies?**
 
-Cookies are small files with information that are not stored by Meta, but by your Web browser. A cookie is generated when Meta sends such request to your Web browser and your Web browser accepts it; later, your Web browser will send that cookie back to Meta on request.
+We also have good grounds (or “legitimate interests”) in using information received from publisher partners and public resources to create our Knowledge Graph and to predict the impact of publications; this is done by analysing published information to assist biomedical research and contributes to our mission of curing, preventing or managing all diseases by the end of this century.
 
-**What data is stored in cookies and why will it be processed?**
+### 2.2 Improving and developing the Services.
 
-If you choose this option, there will be a cookie for your login information, so that you are automatically logged in when you visit Meta. Do not use this option if the computer you use is not under your exclusive control, because other people using your computer will be able to log in to Meta without your password. Furthermore, cookies can store information about the usage of certain pages or functions within Meta. To generate such pages or functions dynamically, the information stored in the cookie will be processed randomly. Meta will never store cookie data. Cookie data is always stored on your hard drive, and will never be processed independently from your usage of the Meta website.
+**We also have a legitimate interest in using information to improve the Services. We both benefit when we use your information to:**
 
-##  V: Transmission of data
+  * conduct analytics on how users are using Meta and what they are doing to enhance the content or usability of our Services; and
+  * improve Meta by soliciting survey feedback from users, and testing and developing new features.
 
-**Will Meta sell personal data to any third parties?**
 
-No. Meta will absolutely not sell personal data.
 
-**What about other third parties processing data on behalf of Meta?**
+### 2.3 Email updates.
 
-Meta reserves the right to appoint certain tasks to third parties, such as database or software development. For that purpose, it might be necessary for personal data to be shared with and processed by such third parties. In this case, Meta remains fully responsible for your personal data and will bind any and all third parties to a written agreement ensuring they comply with this statement on privacy and data protection. Meta is committed to your privacy, hence we are dedicated to choosing contractors that are trustworthy and who will operate in strict accordance with laws on privacy and data protection.
+**We will send you Meta product updates using your email. You may opt out in your profile or the emails themselves.**
 
-**Advertising Services**
+_We use your data for three purposes: (i) providing our Services; (ii) making them better; and (iii) to keep you updated about new features._
 
-Meta uses AdWords and Facebook re-marketing pixels in the website. These advertising services use cookies to collect anonymous data about your activities that does not personally or directly identify you when you visit our website. This information may include the content you view, the date and time that you view this content, registrations, or your location information associated with your IP address. We use the information we collect to serve you more relevant advertisements and content (referred to as “Retargeting”). We collect information about where you saw the ads we serve you and what ads you clicked on. You can opt out of Google's use of cookies by visiting Google's Ads Settings (<http://www.google.com/settings/ads>). Alternatively, you can opt out of Facebook or a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page (http://www.networkadvertising.org/managing/opt_out.asp). Users may opt out of Google Analytics by visiting the Google Analytics Opt-out Page (<https://tools.google.com/dlpage/gaoptout>).
+### 3\. How does Meta share this information?
 
-##  VI: Privacy and Data Protection Supervision
+Some of the ways we use your information require us to share information with third parties. We share your information with:
 
-**Whom can I contact if I have a request or complaint about Privacy or Data Protection?**
+### 3.1 Other Meta users.
 
-Meta considers privacy and data protection to be very important issues, as they directly affect the trust between us and our valued users. Therefore, Meta has implemented specific measures to supervise data protection issues. For any requests or complaints relating to privacy and data protection, please contact us directly [privacy@meta.com](mailto:privacy@meta.com).
+**Certain information is accessible by all Meta users such as the first and last names, affiliated institutions and titles of authors associated with journals we have in our Knowledge Graph. Also, Meta allows you to share certain information with other Meta users, such as your Feeds or lists of articles.**
 
-##  VII: Changes to Statement on Privacy and Data Protection
+### 3.2 Publisher partners.
 
-**How does Meta notify Users of changes in this Statement on Privacy and Data Protection?**
+We may provide publisher partners with tools and analytics that give them information about their papers, such as how well they are doing in comparison to similar papers from other publishers.
 
-By using the Service, you expressly agree to this Statement on Privacy and Data Protection.
+### 3.3 Advertising networks.
 
-We may modify this Statement on Privacy and Data Protection from time to time. You’ll be notified of any changes to this Agreement and asked to review them and consent to the changes the next time you log in to the Meta.Science Website. When you consent by clicking "I Agree", you agree to be bound by those changes.
+In order to encourage users to sign up for Meta or to promote new papers and features to existing Meta users, we may share your information with advertising networks so that we can place advertisements for our Services on other websites you visit. 
 
-Meta will not make any binding changes to this Statement on Privacy and Data Protection without you being notified and consenting as described above.
+### 3.4 Third party services.
+
+We will share your personal information when you tell us to do so. For example, you may decide to link your Meta account to third party reference management services such as Mendeley, EndNote and Zotero. In doing so, you will be able to share articles you saved in your Meta Library with these services.
+
+### 3.5 Third party service providers.
+
+Meta shares your information with third parties who provide services to us, such as database or software developers. We may also share your information with analytics providers that assist us to improve and optimize our Services. 
+
+### 3.6 Within the CZI family.
+
+**We may share some or all of your information with our affiliates, subsidiaries, joint ventures, or other companies under a common control, in which case we will require them to honor this Privacy Policy.**
+
+### 3.7 Business reorganization.
+
+Meta may share some or all of your information in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of insolvency, bankruptcy, or receivership, information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the information collected by us and will assume the rights and obligations regarding your information as described in this Privacy Policy or as otherwise provided by law.
+
+### 3.8 Legal and safety reasons.
+
+Meta may disclose information if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Meta; (c) to protect or defend the rights or property of Meta or users of our Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our [Terms of Use](https://meta.org/terms/).
+
+_We share certain information in Meta. We also share information with our affiliates, service providers and partners, and where necessary for legal and safety reasons._
+
+### 4\. What choices do you have regarding how Meta collects and shares this information?
+
+Our goal is to give you simple and meaningful choices regarding your information. For example, you can edit information in your profile at any time, choose whether you want to receive marketing communications from us in your account settings, and close your account at any time by contacting us at **privacy@meta.org**.
+
+You also have choices available to you through the device your use to access the Services. For example, the browser you use may let you control cookies and other types of local data storage.
+
+_We provide controls over how your information is used._
+
+### 5\. What are your rights in relation to this information?
+
+If you’re a European Economic Area (EEA) user, you may also benefit from a number of rights in relation to the information that we process. To exercise these rights, you may contact us at **privacy@** **meta.org**. You may:
+
+### 5.1 Access the information we hold about you.
+
+**You can access this information by logging into your Meta account.**
+
+### 5.2 Have your information corrected or deleted.
+
+**You can also rectify, restrict, limit or delete some of your information by logging into your Meta account. There, you may update your profile information, delete any Feeds you created and remove any articles you have saved in your Library. If you believe information in your author profile or associated with your articles is incorrect, please let us know at contact@meta.org.**
+
+### 5.3 Have the information you provided to given back to you in a machine readable form.
+
+You may do this where we hold this information with your consent or for the performance of a contract with you, where it’s technically feasible.
+
+### 5.4 Object to us processing your information.
+
+If we process your information based on our legitimate interests explained above, you can object to this processing in certain circumstances. In such cases, we will stop processing your information unless we have compelling legitimate grounds to continue processing or where it is needed for legal reasons. If we use your data for direct marketing, you can always object using the unsubscribe link in such communications or changing your account settings.
+
+### 5.5 Revoke consent.
+
+Where you have previously provided your consent, you have the right to withdraw your consent to the processing of your information at any time. For example, you can withdraw your consent to email marketing by using the unsubscribe link in such communications or by changing your account settings.
+
+### 5.6 Complain.
+
+If you wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority.
+
+_If you live in certain countries, you may have certain rights in relation to your information._
+
+### 6\. How long do we retain the information we collect about you?
+
+We may retain your information for as your account is active and as necessary in light of the purposes set out in this Privacy Policy, subject to any legal obligations to further retain such information. If you wish to delete your Meta account, you may contact us at **privacy@** **meta.org**.
+
+_We don’t keep your data for longer than necessary. You can contact us to delete your account._
+
+### 7\. Data transfers
+
+Meta is a global service. By using Meta, you authorize us to transfer and store your information outside your home country, including in the United States, for the purposes described in this Privacy Policy. 
+
+If you want to use the Services, you need to agree to our [Terms of Use](https://meta.org/terms/), which set out the contract between Meta and its users. As we operate in countries worldwide (including in the United States) and use technical infrastructure in the United States to deliver the Services to you, in accordance with the contract between us, we need to transfer your personal information to the United States and to other jurisdictions as necessary to provide the Services. In other words, we can’t provide you with the Services and perform our contract with you without moving your personal information around the world.
+
+The privacy protections and the rights of authorities to access your information in these countries may not be the same as in your home country.
+
+_We’re based in the US. If you use our Service we need to transfer your data to the US and other countries._
+
+### 8\. Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time, particularly as our Services evolve. We will take steps to notify you of any changes to our Privacy Policy.
+
+### 9\. Contact us
+
+If you have any questions, concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following:
+
+Chan Zuckerberg Initiative, LLC  
+435 Tasso St, Palo Alto CA  
+privacy@meta.org
