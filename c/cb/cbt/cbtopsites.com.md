@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the cbtopsites.com privacy policy that was archived on 2016-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160905212631id_/http%3A//cbtopsites.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtopsites.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603110011id_/https%3A//cbtopsites.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer of cbtopsites.com
 
 Navigation: Main Page
+
+* * *
 
 The privacy of our visitors to cbtopsites.com is important to us. At cbtopsites.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit cbtopsites.com, and how we safeguard your information. We never sell your personal information to third parties. cbtopsites.com is committed to maintaining the privacy of personal information that you provide to us when using any of our online services. This Privacy Policy describes how we treat the information we receive when you transmit data through cbtopsites.com . 
 
@@ -58,13 +60,15 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 ### Comments and Questions.
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by submitting your inquiry to our Customer Service department or email to **admin at cbtopsites.com**. 
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by submitting your inquiry to our Customer Service department or email to **admin at cbtopsites.com**.   
+Navigation: Main Page
 
 * * *
 
-[Go to Top](http://cbtopsites.com/privacy_policy.php#content "Go to the top of this page")   email to: admin at cbtopsites.com © 2005-2016 CBTopSites.com   [Privacy Policy & Disclaimer](http://cbtopsites.com/privacy_policy.php) [Affiliates](http://cbtopsites.com/site/downlod "Webmasters and Affiliates earn money")
-
 * * *
+
+[Bookmark & Share](https://api.addthis.com/oexchange/0.8/offer?url=https://cbtopsites.com/privacy_policy.php&pubid=ra-5088d1906acc6cf7&title=Privacy+Policy+and+Disclaimer+of+cbtopsites.com "Bookmark and Share")[Top](https://cbtopsites.com/privacy_policy.php#content "Go to the top of this page")   email to: admin at cbtopsites.com © 2005-2019 CBTopSites.com [Affiliates](https://cbtopsites.com/affiliates/ "Webmasters and Affiliates earn money")   
+Disclosure : CBTopSites.com or it's affiliates may receive compensation for sales. 
 
 Link :       HTML :   
 
