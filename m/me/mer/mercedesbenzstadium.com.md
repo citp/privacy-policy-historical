@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercedesbenzstadium.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214061507id_/https%3A//mercedesbenzstadium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedesbenzstadium.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603030337id_/https%3A//mercedesbenzstadium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercedes Benz Stadium
 
