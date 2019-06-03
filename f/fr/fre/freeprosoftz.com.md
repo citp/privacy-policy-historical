@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freeprosoftz.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202042710id_/http%3A//freeprosoftz.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeprosoftz.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603140914id_/http%3A//freeprosoftz.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy – FreeProSoftz
 
-[](http://linkex103.site/go.php?a_aid=58f75a3807b91&chan=code50&fn=Privacy%20Policy)
+[](http://hestorepher.pro/FPS?q=Privacy%20Policy)
 
 ### 1\. INTRODUCTION
 
@@ -26,8 +26,6 @@ In operating the Site, we collect personal information from you in a couple diff
 
 (c) SPONSORS AND ADVERTISERS. We may decide to accept sponsorship and advertisements on the Site. Should this occur, you should assume said sponsors and advertisers will be given access to the impressions and click data on their marketing pieces. Your personally identifiable information will never be revealed to them by us.
 
-[](http://linkex103.site/go.php?a_aid=58f75a3807b91&chan=code50&fn=Privacy%20Policy) [](http://linkex103.site/go.php?a_aid=58f75a3807b91&chan=code50&fn=Privacy%20Policy)
-
 ### 3\. USE AND SHARING OF INFORMATION
 
 **3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?**
@@ -46,7 +44,7 @@ In operating the Site, we collect personal information from you in a couple diff
 
 The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss to you or to any third party arising out of any such loss, misuse, or alteration.
 
-[](http://linkex103.site/go.php?a_aid=58f75a3807b91&chan=code50&fn=Privacy%20Policy) [](http://linkex103.site/go.php?a_aid=58f75a3807b91&chan=code50&fn=Privacy%20Policy)
+[](http://hestorepher.pro/FPS?q=Privacy%20Policy) [](http://hestorepher.pro/FPS?q=Privacy%20Policy)
 
 ### 5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
 
@@ -60,10 +58,12 @@ From time-to-time, the Site may contain links to other websites. If you choose t
 
 If you have any questions about this Policy or our practices related to this Site, please feel contact us using the “Contact” link on the menu located at the top of the site.
 
+[](http://hestorepher.pro/FPS?q=Privacy%20Policy) [](http://hestorepher.pro/FPS?q=Privacy%20Policy)
+
 **6.2. UPDATES AND CHANGES**
 
 We reserve the right, at any time, to add to, change, update, or modify this Policy to reflect changes in our Privacy Policy. We shall post any such changes on the Site in a conspicuous area. You may then choose whether you wish to accept said policy changes or discontinue using the Site. Any such change, update, or modification will be effective 30 days after posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
 
 (a) If you have signed up for email communications from us, we will notify you of the privacy policy changes by email as well.
 
-[](http://linkex103.site/go.php?a_aid=58f75a3807b91&chan=code50&fn=Privacy%20Policy)
+[](http://hestorepher.pro/FPS?q=Privacy%20Policy)
