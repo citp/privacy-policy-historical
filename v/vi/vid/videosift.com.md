@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videosift.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704124843id_/https%3A//videosift.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosift.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603081545id_/https%3A//videosift.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
