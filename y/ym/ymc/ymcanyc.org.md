@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ymcanyc.org privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203144631id_/https%3A//www.ymcanyc.org/association/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymcanyc.org privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603145829id_/https%3A//ymcanyc.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | New York City's YMCA
+# Privacy Policy | NEW YORK CITY'S YMCA
 
 You do not have to provide personal information to use our Website.  However, particular services provided through the Website require that you furnish personal information.  We collect such personal information only when you provide it to us, for example, in registering for camps and conferences; pledging support through the Web Pledge; becoming a YMCA member; updating information in the Alumni Network; registering for a YMCA Guest Room; and purchasing items from our Internet store or catalogs; and when taking part in promotional opportunities or registering for general information on programs and services.  You may be asked to provide your contact information (such as your name, postal address, telephone numbers and/or email address), financial information (such as credit card numbers) and demographic information (such as your Zip code, age, or income level) in connection with your use of such services.
 
@@ -8,7 +8,7 @@ Contact information is used to respond to your inquiries; to notify you in conne
 
 We use IP addresses to calculate Website usage levels. Whenever you are on the Internet, a number (an IP address) is automatically assigned to your computer.  This number is identified and logged automatically whenever you visit our Website.  Collecting IP addresses is standard practice on the Internet, and is done automatically by many Websites.
 
-We may also disclose personal information if we believe that we are required to do so (i) by law, (ii) to comply with legal process or governmental requests, (iii) to enforce our [User Agreement](https://web.archive.org/association/pages/termsofuse) or (iv) to protect the rights, property, or safety of the YMCA, its users or the public.
+We may also disclose personal information if we believe that we are required to do so (i) by law, (ii) to comply with legal process or governmental requests, (iii) to enforce our [User Agreement](https://web.archive.org/about/terms-of-use) or (iv) to protect the rights, property, or safety of the YMCA, its users or the public.
 
 Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online.  For some services, we either collect and transfer personal information to a third party service provider in order to verify and process your credit card. We encourage you to ask questions and to be cautious before you disclose your personal information to others.
 
