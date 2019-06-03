@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 9jamovies.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530202010id_/http%3A//9jamovies.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9jamovies.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603153932id_/http%3A//9jamovies.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# 9jamovies.com - Privacy - Top Education Articles - 9J Magazine - content marketing
+# 9jamovies.com - Privacy - 9J Magazine - content marketing - Top Article Magazine
 
 Privacy 
 
