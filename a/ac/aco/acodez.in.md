@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acodez.in privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204190728id_/https%3A//acodez.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acodez.in privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603024955id_/https%3A//acodez.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Web Solutions Blog
 
