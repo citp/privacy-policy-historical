@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yatedo.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230020513id_/http%3A//about.yatedo.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatedo.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604002625id_/http%3A//about.yatedo.com/en/privacy-policy) for the most accurate reproduction.*
 
 # About Yatedo - Privacy Policy
 
@@ -14,7 +14,7 @@ Matthieu Mélin, Astura, 26 avenue George V, 75008 Paris.
 
 ## 2\. Purposes and legal basis of the treatment
 
-Yatedo collects some of your personal data made publicly available on the Internet and indexes them in the form of a profile in order to provide a subscription based people search engine service called «  **Yatedo Talent**  » to its customers («  **Users**  ») for recruitment purposes.
+Yatedo collects some of your personal data made publicly available on the Internet and indexes them in the form of a profile in order to provide a subscription based people search engine service called « **Pipler**  » to its customers («  **Users**  ») for recruitment purposes.
 
 The processing carried out by Yatedo thus falls under article 6.1 (f) of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of personal data («  **GDPR**  »), pursuant to which personal data processing is lawful if it is necessary for the purpose of the legitimate interests pursued by the controller.
 
@@ -39,7 +39,7 @@ If you exercise your rights of access, rectification, erasure, restriction or to
 
 ## 4\. Recipients of your personal data
 
-Yatedo discloses your personal data to Yatedo Talent Users and to its technical services suppliers.
+Yatedo discloses your personal data to Pipler Users and to its technical services suppliers.
 
 ## 5\. Your rights
 
@@ -110,9 +110,9 @@ Your personal data, collected from Sources Websites, are stored:
 
 
 
-Yatedo’s web crawlers are set so that Yatedo Talent Users cannot access your profile on Yatedo Talent if your personal data are no longer publicly available;
+Yatedo’s web crawlers are set so that Pipler Users cannot access your profile on Pipler if your personal data are no longer publicly available;
 
-  * **or until you ask Yatedo to erase your profile:** if so, Yatedo will store the Sources Websites URL to make sure not to index your profile anymore on Yatedo Talent.
+  * **or until you ask Yatedo to erase your profile:** if so, Yatedo will store the Sources Websites URL to make sure not to index your profile anymore on Pipler.
 
 
 
@@ -124,6 +124,6 @@ When you exercise your rights of access, rectification, erasure, restriction or 
 
 Yatedo’s databases are hosted in the European Union.
 
-However, Yatedo Talent service may be used by a User who is not located in a EEA country. If such third-country has not been granted an adequacy decision by the European Commission as stated by article 45 of the GDPR, Yatedo and its client will sign standard contractual clauses according to article 46 of the GDPR to cover the transfer of personal data.
+However, Pipler service may be used by a User who is not located in a EEA country. If such third-country has not been granted an adequacy decision by the European Commission as stated by article 45 of the GDPR, Yatedo and its client will sign standard contractual clauses according to article 46 of the GDPR to cover the transfer of personal data.
 
 You can get a copy of these standard contractual clauses by contacting us at the following address: [privacy@yatedo.com](mailto:privacy@yatedo.com).
