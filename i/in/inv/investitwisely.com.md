@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investitwisely.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627042107id_/http%3A//www.investitwisely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investitwisely.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603173531id_/http%3A//www.investitwisely.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Invest It Wisely
+# Privacy Policy
 
 Your privacy is important to Invest It Wisely. This privacy statement provides information about the personal information that Invest It Wisely collects, and the ways in which Invest It Wisely uses that personal information. We never sell your personal information to third parties. This privacy policy may be updated; please check this page occasionally to keep up to date with any changes.
 
