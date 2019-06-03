@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingworld.org privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203130242id_/https%3A//www.nursingworld.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingworld.org privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603052534id_/http%3A//www.nursingworld.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy from the ANA Enterprise | ANA Enterprise
 
@@ -19,13 +19,13 @@ You can request to access, update, or correct your personal information. You may
 If you desire to exercise any of your rights under GDPR, please contact the ANA Enterprise’s Data Protection Officer at:
 
 > ANA Enterprise  
->  Office of General Counsel  
->  Attn: Data Protection Officer  
->  8515 Georgia Ave., Suite 400  
->  Silver Spring, MD 20910  
->  United States of America  
->  Telephone: +1-301-628-5000  
->  Email: [DPO@ana.org](mailto:DPO@ana.org)
+> Office of General Counsel  
+> Attn: Data Protection Officer  
+> 8515 Georgia Ave., Suite 400  
+> Silver Spring, MD 20910  
+> United States of America  
+> Telephone: +1-301-628-5000  
+> Email: [DPO@ana.org](mailto:DPO@ana.org)
 
 In the event you consider our processing of your personal information not to be compliant with the applicable data protection laws, you can file a complaint:
 
@@ -109,7 +109,7 @@ From time to time we may use web beacons, pixel tags, clear gifs, or other techn
 
 Google Remarketing is a dynamic interactive online advertising behavioral algorithm and process that provides for you to receive targeted ads across many sites based on your suspected interests gathered from your operation of this Site and other websites. It achieves this by connecting your activities on this Site with the AdWords advertising network and the DoubleClick Cookie. This means that you may see ads on other sites behaviorally targeted to you with the intent of being something that is in your frame of interest based on your use of this Site and other sites where Google Remarketing is operating. Cookies are used to track your behavior for this advertising remarketing. While this does not track PII, it may be possible to combine this information with PII about you. You can opt out of the cookie for remarketing tracking here: [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/?c=1#!/).
 
-You can also opt out of Google Remarketing by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout). Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), [Policies](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=143465), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363).
+You can also opt out of Google Remarketing by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout). Google has additional information available about their Remarketing Privacy Guidelines, [Policies](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=143465), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363).
 
 ### Do Not Track
 
@@ -142,10 +142,10 @@ Please be advised that while we strive to protect your personally identifiable d
 Your privacy is important to the ANA Enterprise. If you have any questions or concerns regarding this Privacy Policy, please contact us at:
 
 > ANA Enterprise  
->  Office of General Counsel  
->  Attn: Data Privacy and Security Officer  
->  8515 Georgia Ave., Suite 400  
->  Silver Spring, MD 20910  
->  United States of America  
->  Telephone: +1-301-628-5000  
->  Email: [DPO@ana.org](email:DPO@ana.org)
+> Office of General Counsel  
+> Attn: Data Privacy and Security Officer  
+> 8515 Georgia Ave., Suite 400  
+> Silver Spring, MD 20910  
+> United States of America  
+> Telephone: +1-301-628-5000  
+> Email: [DPO@ana.org](mailto:DPO@ana.org)
