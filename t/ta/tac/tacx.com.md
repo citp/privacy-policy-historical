@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tacx.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916141627id_/https%3A//tacx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacx.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603064557id_/https%3A//tacx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Tacx
+# Privacy policy | Tacx
 
 Tacx is an innovative company with great passion for sport and technique. This passion drives the organization and can be seen in all departments; from purchasing to production and product development to logistics.
 
@@ -387,4 +387,6 @@ Looking for the privacy policy before May 25th 2018? Please find them [here](htt
 
 Last updated May 24th, 2018.
 
-This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](https://tacx.com/cookie-policy/)
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](https://tacx.com/it/cookie-policy/)
+
+Please note: due to the upcoming holidays all orders placed between May 29th and June 2nd will be processed after June 3rd and be shipped after this date as soon as possible. Our apologies for any inconvenience this may cause. Dismiss
