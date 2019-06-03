@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starhealth.in privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917184455id_/https%3A//starhealth.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starhealth.in privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603210559id_/https%3A//www.starhealth.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |StarHealth.in
 
