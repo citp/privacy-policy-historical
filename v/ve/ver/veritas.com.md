@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veritas.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811181517id_/http%3A//veritas.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veritas.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603124104id_/http%3A//www.veritas.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -21,9 +21,9 @@ If you have questions or concerns about your privacy, please write to us:
 
 Veritas Technologies, LLC – Privacy Program Office
 
-500 E. Middlefield Road
+2625 Augustine Drive,
 
-Mountain View CA 94043
+Santa Clara CA 95054
 
 U.S.A.
 
@@ -50,9 +50,9 @@ If you have questions or concerns about your privacy, please write to us:
 
 Veritas Technologies, LLC – Privacy Program Office
 
-500 E. Middlefield Road
+2625 Augustine Drive,
 
-Mountain View CA 94043
+Santa Clara CA 95054
 
 U.S.A.
 
@@ -95,9 +95,9 @@ If you have questions or concerns about your privacy, please write to us:
 
 Veritas Technologies, LLC – Privacy Program Office
 
-500 E. Middlefield Road
+2625 Augustine Drive,
 
-Mountain View CA 94043
+Santa Clara CA 95054
 
 U.S.A.
 
