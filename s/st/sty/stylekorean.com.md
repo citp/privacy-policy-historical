@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylekorean.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226010236id_/http%3A//www.stylekorean.com/shop/cs_privacy_security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylekorean.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603055508id_/http%3A//www.stylekorean.com/shop/cs_privacy_security.php) for the most accurate reproduction.*
 
 # Customer Support | PRIVACY AND SECURITY | K-Beauty & Korean Skin Care and Beauty Shop | Kbeauty NO.1 STYLEKOREAN.COM
 
