@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitsboosterpro.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202023100id_/http%3A//hitsboosterpro.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsboosterpro.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603110718id_/http%3A//hitsboosterpro.com/privacy_policy.php) for the most accurate reproduction.*
 
 # HitsBoosterPro.com
 
@@ -11,9 +11,6 @@ For information about our Disclaimers, [click here](http://hitsboosterpro.com/di
 For information about our Anti-Spam Policy, [click here](http://hitsboosterpro.com/anti-spam_policy.php).
 
 This Privacy Policy describes the information that we gather on or through the Service, how we use and disclose such information, and the steps we take to protect such information. By visiting the Site, or by purchasing or using the Service, you accept the privacy practices described in this Policy.
-
-  
-
 
 ## Definitions
 
@@ -30,9 +27,6 @@ This Privacy Policy describes the information that we gather on or through the S
 **"User"** means an employee, agent, or representative of a Client, who primarily uses the restricted areas of the Site for the purpose of accessing the Service in such capacity.
 
 **"Visitor"** means an individual other than a User, who uses the public area, but has no access to the restricted areas of the Site or Service.
-
-  
-
 
 ## Collection of Personal Information
 
@@ -51,9 +45,6 @@ We use cookies and web beacons to provide information on how you use our web ser
 **Integrated / Third Party Services**
 
 Other automated technologies that HitsBoosterPro uses include the use of third party widgets and plugins such as Facebook Like buttons and pop up ad technologies to ensure you see the advert once per session etc. That information is subject to the privacy policies of those providers.
-
-  
-
 
 ## How We Use the Information We Collect
 
@@ -75,16 +66,13 @@ We use your email address to validate and confirm that you are the account holde
 
 Automated cookies and web beacons are used for tracking purposes to see from where Members have come and to keep session information to make sure that certain ads are only delivered once per session and not every page load.
 
-  
-
-
 ## To Whom We Disclose Information
 
-We do not share your email address with any third parties and never sell member information. We do allow third parties to advertise using our services and we do promote other services to you via email but all promotions are delivered from our systems and no personal information is shared with them from us. You may share information with them if you join their site or purchase their products or services.
+We do not share your email address with any third parties and never sell member information. We do allow third parties to advertise using our services and we do promote other services to you via email but all promotions are delivered from our systems and no personal information is shared with them from us. You may share information with them if you join their site or purchase their services.
 
 **Service Providers**
 
-We may provide identifiable information including Name, Email Address, and Internet Protocol (IP) Addresses to law enforcement if requested to help with any investigation. We may also provide such information to payment processors if the terms of purchasing or use of their services require it to conduct lawful business.
+We may provide information including Name, Email Address and Internet Protocol (IP) Addresses to both payment processors and or law enforcement if requested to do so by law and or the terms of purchasing using their services to help with any investigation or information request they need to conduct lawful business.
 
 We may use your information in our other businesses but all communication will come via the account and system that you signed up for and not our other services unless you register there and give separate permission there.
 
@@ -92,7 +80,7 @@ Any information collected by third party apps or plugins including but not limit
 
 **Change of Ownership**
 
-Should the website and/or business be sold the information collected will be passed over to the new business or website owner. However, it will remain intact in the confines of the site. As part of any sales agreement, the new owner will be required to comply and follow this Privacy Policy until notifying Users of any changes.
+Should the website and or business be sold, the information collected will be passed over to the new business or website owner. However, it will remain intact in the confines of the site. The new owner will be as part of any sales agreement, the new owner will be required to comply and follow this Privacy Policy until notifying Users of any changes.
 
 **Law Enforcement, Legal Process and Compliance**
 
@@ -118,15 +106,9 @@ To request the information we retain on you or to get us to delete or edit your 
 
 You can request your Password at any time using the Password Retrieval Link on the login page. For security reasons all Passwords are encrypted and our staff have no access to them. Make sure your email address is correct and up-to-date because the only way to request it is through that link.
 
-  
-
-
 ## Third-Party Services
 
 We promote and link to other third party websites and services. When visiting or using one of these other services or websites you should ensure you review their privacy policies and Terms of Service. HitsBoosterPro is not responsible for the policies and practices of any third party service or site.
-
-  
-
 
 ## Cookies & Other Tracking Information Used
 
@@ -151,7 +133,6 @@ You can control and delete cookies and enable and disable javascript in your bro
 
   * behaviorally targeted advertising cookies - These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaigns. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
 
-  
 
 
 ## Our Commitment To Children's Privacy
@@ -159,9 +140,6 @@ You can control and delete cookies and enable and disable javascript in your bro
 Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
 
 Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services. It is not our intention to offer products or services to minors.
-
-  
-
 
 ## Data Security
 
@@ -175,9 +153,6 @@ Although we take security very seriously, should the worst happen and any data i
 
 Passwords are encrypted and even the staff at HitsBoosterPro do not have access to that so please use the Password retrieval tool to regain lost Passwords.
 
-  
-
-
 ## Data Retention
 
 We only retain the Personal Data collected from a User for as long as the User's account is active or otherwise for a limited period of time as long as we need it to fulfill the purposes for which we have initially collected it, unless otherwise required by law. We will retain and use information as necessary to comply with our legal obligations, resolve disputes, and enforce our Agreements as follows:
@@ -187,15 +162,11 @@ We only retain the Personal Data collected from a User for as long as the User's
 
   * backups are kept for 1 month.
 
-  
 
 
 ## Change Notice
 
 HitsBoosterPro may change this Privacy Policy from time to time. If we make a change we will change it here on this page and update the last updated date at the bottom of the page. We encourage you to return to this page from time to time to check for updates and revisions.
-
-  
-
 
 ## Questions/Comments/Concerns or How To Reach Us
 
