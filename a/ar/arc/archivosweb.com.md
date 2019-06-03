@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archivosweb.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201230403id_/http%3A//www.archivosweb.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archivosweb.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603045052id_/http%3A//archivosweb.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
