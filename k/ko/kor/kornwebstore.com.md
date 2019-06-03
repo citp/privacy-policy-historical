@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kornwebstore.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224194138id_/http%3A//www.roadrunnerrecords.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kornwebstore.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603143348id_/http%3A//www.roadrunnerrecords.com/privacy_policy) for the most accurate reproduction.*
 
 # privacy policy
 
