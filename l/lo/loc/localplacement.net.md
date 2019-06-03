@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localplacement.net privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130063428id_/http%3A//internetmarketing.localedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localplacement.net privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603145156id_/http%3A//internetmarketing.localedge.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | LocalEdge Internet Marketing
 
 This Privacy Policy governs your use of this web site and any content made available from or through this web site located at www.LocalEdgeMedia.com, including any subdomains thereof (the “Web Site”). The Web Site is made available by LocalEdge, A Division of Hearst Communications, Inc. ( “Publisher” or “we” or “us”).
 
