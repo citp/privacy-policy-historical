@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010014538id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603191222id_/https%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
 
 # Current Science - Privacy Policy
 
 Guest Editorial
 
-Water resource management in India  
-Sharad K. Jain
+Formal structures of mentorship in universities and research institutions will benefit both science and scientists  
+Gaiti Hasan
 
-Water is a key natural resource which is fundamental to life, livelihood, food, energy and water security and sustainable development...
+As the number of science researchers grows in India, existing science academics need to consider how they can contribute meaningfully to support this growth of...
 
-[...read more](https://web.archive.org/web/20171010014538id_/http%3A//www.currentscience.ac.in/php/Volumes/113/07/1211.pdf)
+[...read more](https://web.archive.org/web/20190603191222id_/https%3A//www.currentscience.ac.in/php/Volumes/116/10/1615.pdf)
 
 Privacy Policy
 
