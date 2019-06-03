@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serpfox.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305185726id_/https%3A//serpfox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serpfox.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603085324id_/https%3A//serpfox.com/privacy) for the most accurate reproduction.*
 
 # Smart Rank Tracking Made Simple | Serpfox
 
@@ -10,7 +10,7 @@ We may collect non-personal identification information about Users whenever they
 
 Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Serpfox may collect and use Users personal information for the following purposes: 
+Serpfox may collect and use Users personal information for the following purposes:
 
   * _To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
