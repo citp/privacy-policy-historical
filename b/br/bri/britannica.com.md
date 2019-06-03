@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014193020id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603141741id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
 
 # Encyclopædia Britannica, Inc. Corporate Site
 
@@ -141,7 +141,7 @@ You can update your personal information and change your marketing preferences a
 
 This Privacy Policy only governs information collected on the Britannica Services by Britannica. Our Services contain links to websites or content (including advertisements on our free, ad-supported Services) operated and maintained by third parties, over which we have no control. We encourage you to review the privacy policy of a third-party website before disclosing any personal information to the website. Do not supply Personal Information to these sites unless you have verified their security and privacy policies.
 
-### Information Collected Automatically- **Opt Out** & [Cookie Policy](https://web.archive.org/web/20181014193020id_/http%3A//corporate.britannica.com/cookie_policy.html)
+### Information Collected Automatically- **Opt Out** & [Cookie Policy](https://web.archive.org/web/20190603141741id_/http%3A//corporate.britannica.com/cookie_policy.html)
 
 #### Britannica Activities & Opting Out
 
