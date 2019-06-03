@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vue.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223154147id_/https%3A//home.pearsonvue.com/privacy%23cookies-and-web-beacons) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vue.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603043000id_/https%3A//home.pearsonvue.com/privacy%23cookies-and-web-beacons) for the most accurate reproduction.*
 
 # Privacy and cookies policy :: Pearson VUE
 
