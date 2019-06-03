@@ -1,254 +1,408 @@
-> *The following text is extracted and transformed from the practicalfishkeeping.co.uk privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212025252id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalfishkeeping.co.uk privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604005228id_/http%3A//www.warnersgroup.co.uk/about-warners-group/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy 2018-07-03 — Bauer Media Group: Legal
+# Privacy Policy - Customers - Warners Group Publications Plc
 
-**The Bauer Media Group consists of:**
+### Warners Group Publications plc Privacy Policy
 
-Bauer Consumer Media Ltd, whose registered office is at Media House, Peterborough Business Park, Lynch Wood, Peterborough, PE2 6EA. Registered in England and Wales company number 01176085, VAT no. 918 5617 01.
+The Maltings, West Street, Bourne, Lincs. PE10 9PH – Tel:+44 (0)1778 391000 
 
- **And**
+**Last Updated: 23 May 2018**
 
-Bauer Radio Ltd, whose registered office is at Media House, Peterborough Business Park, Lynch Wood, Peterborough, PE2 6EA. Registered in England and Wales company number 01394141, VAT no. 918 5617 01.
+This policy applies to all Warners Group Publications Plc websites, including but not limited to these brands:
 
- **And**
+ [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-OAL-logo.jpg) |  [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-Birdguides-logo.jpg) |  [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-CCGB-logo.jpg) |  [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-HAC-logo.jpg) | [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-Mil-logo.jpg) |  [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-WOR-logo.jpg)  
+---|---|---|---|---|---  
+ [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-TTG-logo.jpg) |  [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-rm-web-logo.jpg) | [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-painters-logo.jpg) | [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-Pianist-logo.jpg) |  [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-family-tree-logo.jpg) |  [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-your-cat-logo.jpg)  
+ [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-writing-logo.jpg) | [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-your-dog-logo.jpg) | [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-radio-enthusiast-logo.jpg) | [](https://www.warnersgroup.co.uk/wp-content/uploads/2018/05/generic-history-scotland-logo.jpg)  
+  
+**Introduction**
 
-H Bauer Publishing, whose registered office is at Academic House, 24-28 Oval Road, London, NW1 7DT. Registered in England and Wales company number LP003328, VAT no 918 5617 01.
+Welcome to Warners Group Publications Plc’s privacy notice.  
+Warners Group Publications Plc respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
- **Please scroll down to see the details of our Privacy Policy**
+This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Alternatively you can download a pdf version of the policy here [[LINK](https://www.warnersgroup.co.uk/wp-content/uploads/2018/06/WGP-Privacy-Policy-May18.pdf)]. Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.
 
- **1.    ****Our Data Promise to you**
+1\. [IMPORTANT INFORMATION AND WHO WE ARE]  
+2\. [THE DATA WE COLLECT ABOUT YOU]  
+3\. [HOW IS YOUR PERSONAL DATA COLLECTED]  
+4\. [HOW WE USE YOUR PERSONAL DATA]  
+5\. [DISCLOSURES OF YOUR PERSONAL DATA]  
+6\. [INTERNATIONAL TRANSFERS]  
+7\. [DATA SECURITY]  
+8\. [DATA RETENTION]  
+9\. [YOUR LEGAL RIGHTS]  
+10\. [GLOSSARY]
 
-The Bauer Media Group is absolutely committed to respecting and protecting your data whilst it is in our care. We collect your personal information because it helps us to understand your needs and guides the way in which we interact and communicate with you about our products and services now and in the future. We have strict policies and procedures in place to protect your data when you send it to us; when we process it in order to provide you with the services you have requested; or, where you have given us your permission to do so, to send you information that we think you'll find interesting, and thereafter when we store your data on our secure servers.
+* * *
 
-We are registered with the Information Commissioner's Office, the regulator of General Data Protection Regulations (GDPR) and other relevant legislation and abide by its requirements.
+  
+**1\. IMPORTANT INFORMATION AND WHO WE ARE**
 
- **2.    ****The lawful bases Bauer Media Group process personal data**
+**Purpose of this privacy notice**
 
-Bauer Media Group rely upon four of these lawful ways to collect, use, store and process personal data: Consent, Contractual; Legitimate Interests and Legal Obligations
+This privacy notice aims to give you information on how Warners Group Publications Plc collects and processes your personal data through your use of this website, including any data you may provide through this website when you create an account, sign up to one of our email newsletters, enter a competition, complete a survey or purchase a product, event ticket or service.
 
- **To perform our contractual obligations to you**.
+This website is not intended for children and we do not knowingly collect data relating to children.
 
-We and our external companies process your information to perform our contractual obligations to you when we use your information to provide you with the Services.  For example, when you purchase a subscription from us, we process your payment and contact information as necessary to confirm the subscription and we process your contact information and other details to provide you with support services in regard to your subscription. If you exhibited at an event, we will process your payment and contact information as necessary to provide the services.
+It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them.
 
- **To pursue our legitimate interests.**
+**Controller**
 
-We process your information to meet our legitimate interests when we use your information to provide you with the Services to communicate with you and for our advertising, events and marketing purposes.  In such cases we have balanced our interests with your interests and believe that these activities will not have a negative impact on your privacy rights. You can withdraw your consent at any time, by using the unsubscribe link or emailing [Bauer Data Protection Officer](mailto:dataprotectionofficer@bauermedia.co.uk)
+Warners Group Publications Plc is the controller and responsible for your personal data (collectively referred to as  “Warners Group Publications Plc “, “we”, “us” or “our” in this privacy notice.
 
- **To comply with our legal obligations.**
+We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise [ _your legal rights_], please contact the data privacy manager using the details set out below.
 
-We process and share your information as necessary to comply with our legal obligations when we use your information to protect our rights or the rights of others and when we share your information with other parties where required by law or as necessary to protect our rights. For example, we are required to collect certain information from you when processing your subscription payment for tax or financial reporting reasons.
+**Contact details**
 
- **With your consent.**
+Our full details are:
 
-We obtain your consent to process your information when we are required to do so by law.  In relation to Cookies and Similar Technologies, we obtain your consent as described in our [Cookie Policy](https://web.archive.org/cookie-policy).  If consent is the legal basis on which we process your personal information, you can withdraw your consent at any time, by using the unsubscribe link or emailing [Bauer Data Protection Officer](mailto:dataprotectionofficer@bauermedia.co.uk).
+Full name of legal entity: Warners Group Publications Plc
 
- **3.    ****What Personal Data do we collect?**
+Name or title of data protection officer: Head of Governance
 
-The Bauer Media Group collects Personal Data in a number of ways, such as, when you give us a paper form to subscribe to a magazine, enter a competition, exhibit at an event or provide details at an event or when you interact with us via a website, mobile app or other digital services (“Services”). This Personal Data could include:
+Email address: _[dataprotectionofficer@warnersgroup.co.uk](mailto:dataprotectionofficer@warnersgroup.co.uk) _
 
-  * Contact information, your name; postal address; email address; phone number.
-  * Comments, photos, videos and other content that you choose to publish or share with us.
-  * Payment information for subscriptions or purchases made through our websites, mobile application or other digital services.
-  * Your vehicle registration number if you are requesting a vehicle valuation.
-  * Your dietary and accessibility requirements if you are attending one of our events.
-  * Information you provide when participating in a competition; survey; event or apply for a job.
-  * Location information, when you permit the digital service to access device location. To prevent this access, please refer to instructions provided by your mobile service provider.
-  * Information we obtain from other sources, such as our business partners, and social media platforms
+Postal address: Warners Group Publications Plc, The Maltings, West Street, Bourne, LINCS PE10 9PH
 
+You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please [contact us](mailto:subsprocessing@warnersgroup.co.uk?subject=WGP%20Privacy%20Policy%20Enquiry) in the first instance.
 
+**Changes to the privacy notice and your duty to inform us of changes**
 
-You may give us information about other people, such as the name and email of a contact if you are attending an event or the name and address of a gift subscription recipient. Please ensure that you are authorised or have the person’s permission to do so.
+This version was last updated on 23 May 2018.
 
- **4.    ****How do we keep it secure?**
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
-We hold your personal data on our secure systems, mainly based with the UK and the European Economic Area (EEA). Our staff are trained in data security, and our staff policies and procedures help our staff to understand what is required of them under their obligations to us, and also their responsibilities under GDPR and other privacy legislation.
+**Third-party links**
 
-When we ask another organisation to provide a service for us, we ensure that they have appropriate security measures in place. If we or our service providers transfer any information out of the European Economic Area (EEA), it will only be transferred with the correct protection in place. This includes the use of Model Contractual Arrangements as approved by the European Commission and the EU-US Privacy Shield
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
- **5.    ****How do we collect Personal Data?**
+  
+**2\. THE DATA WE COLLECT ABOUT YOU**
 
-We collect your details when you register on one of our websites; subscribe to our service; place an order on our website; search for a product; correspond with us by phone, e-mail or otherwise; register to attend one of our events; participate in discussion boards or other social media functions on our website; enter a competition or promotion; apply for a job.
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).  
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:
 
-With regard to each of your visits to our websites we may automatically collect the following information:
+  * **Identity Data** includes first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender.
+  * **Contact Data** includes billing address, delivery address, email address and telephone numbers.
+  * **Financial Data** includes bank account and sortcode for direct debit payments. We are audited and accredited to the Payment Card Industry Data Security Standard (PCIDSS) for all debit and credit card payments.
+  * **Transaction Data** includes details about payments to and from you and other details of products and services you have purchased from us]
+  * **Technical Data** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+  * **Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
+  * **Usage Data** includes information about how you use our website, products and services.
+  * **Marketing and Communications Data** includes your preferences in receiving marketing from us and your communication preferences.
 
-  * technical information, including the Internet Protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
-  * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
 
 
+We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
 
-We will always be transparent about how we plan to use your data so that you have the choice whether or not to give it to us. We respect your preferences and will do our best to make sure that we keep our promises.
+We do not collect any **Special Categories of Personal Data** about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
 
-If you give us your consent to send you further marketing messages we may contact you from time-to-time with carefully selected offers and promotions from our network of carefully selected partners, from which you may always opt-out or unsubscribe. It is not our practice to contact you if you have made it clear that you do not wish to hear from us about our products and services.
+**If you fail to provide personal data**
 
-We may need to authenticate your identity to provide you with access to subscriber-only services. We might also send you surveys or invite you to enter a competition or receive a newsletter, for instance. If you do not wish to participate you may simply decline our invitations.
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
 
-Our iPad, Android and other "apps" may collect user data, which we use to learn about our readers and improve our apps.
+  
+**3\. HOW IS YOUR PERSONAL DATA COLLECTED?**
 
-To understand how our "apps" are used we may use the service Google Analytics to provide us with anonymous statistical information about your use of our app(s).
+We use different methods to collect data from and about you including through:
 
-As part of our Google Analytics tracking we have implemented the following features:  
-Remarketing, Google Analytics Demographics and Interest Reporting.  
-Visitors can opt-out of Google Analytics for Display Advertising by visiting here  
-<https://tools.google.com/dlpage/gaoptout/>
+  * **Direct interactions.** You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you: 
+    * apply for our products or services;
+    * create an account on our website;
+    * subscribe to our service or publications;
+    * request marketing to be sent to you;
+    * enter a competition, promotion or survey; or
+    * give us some feedback.
 
-We use this information for reporting purposes and to advertise online. Third-party vendors, including Google, may show your ads on sites across the Internet. We may use the cookies relating to Google Analytics together with third party cookies to inform, optimise and serve ads based on a user's part visits to our websites. For more information please see our [Cookie Policy](https://web.archive.org/cookie-policy).
 
- **6.    ****How do we use your Personal Data?**
+  * **Automated technologies or interactions.** As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies.
+  * **Third parties or publicly available sources.** We may receive personal data about you from various third parties and public sources as set out below : 
+    * Technical Data from the following parties: 
+      * analytics providers such as Google based outside the EU;
+      * advertising networks such as Google Adwords based outside the EU; and
+      * search information providers.
 
- **Fulfilment of a service**
 
-We will use your personal data when fulfilling a product or service that you have requested. For example, when you subscribe to a magazine; register to access online content; register to attend an event; enter a prize draw/competition or apply for a job.
+  * Contact, Financial and Transaction Data from providers of technical, payment and delivery services such as Sagepay and Paypal for card payments based inside and outside of the EU.
 
- **Marketing**
 
-We will only send you direct marketing when you have either provided consent for example by ticking a box or where we believe we can demonstrate a legitimate interest and have balanced this with your interests and privacy. You can opt out of receiving direct marketing at any time by clicking on the unsubscribe link on our emails or emailing [Bauer Data Protection Officer](mailto:dataprotectionofficer@bauermedia.co.uk)
 
- **Events**
+  
+**4\. HOW WE USE YOUR PERSONAL DATA**
 
-If you register to attend, sponsor or exhibit at one of our events such consumer events, a B2B event such as a conference; awards or roundtable events, we will share your details such as your name, job title and company name, with the events sponsors to ensure that the activity is specific to the audience, suppliers of event services such as shell scheme supplier. We also may share the delegate list with the venue for health and safety purposes.
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
-Exhibitors and or sponsors may ask to scan your badge at the event to gain your consent to contact you in the future. If you do not wish your details to be shared, you can choose not to have your badge scanned.
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
 
-Please note that at some events photographs and video footage **** may be taken and used for post event publicity. If you have any objection please email [Bauer Data Protection Officer](mailto:dataprotectionofficer@bauermedia.co.uk)
 
- **7.    ****Do we share that data with any other companies** **?**
 
-Except as otherwise stated in this Privacy Policy or in the data collection statements that will always be visible when we collect your information and where we give you the opportunity to select your preferences, we may release your data to external companies that we use to process your orders, to supply you with a prize in the event you win a competition, or charge your credit card, for instance. Every supplier we use has to go through a rigorous up-front process to ensure that their processes are at least as good as our own, and they are required to sign a contract that defines what their responsibilities and liabilities are. We make site visits regularly whether our suppliers are in the UK, the EEA or outside the EEA, where we require an EU approved model contract to be signed.
+Click [here] to find out more about the types of lawful basis that we will rely on to process your personal data.
 
-If you send in a comment, we may post it on our site or use it as a testimonial without mentioning your full name or publishing any information that would identify you. Furthermore, in some circumstances we may display some of your information such as your username and age. Others may be able to see your personal data if you post any information on bulletin boards or forums and may be used to send you unsolicited communications over which we have no control.
+Generally we do not rely on consent as a legal basis for processing your personal data.
 
-We may share some of your information with advertisers, ad servers and ad networks to deliver targeted advertising both on our websites and on selected partner websites but this will not include any information which directly identifies you. However, by interacting with or viewing an advert, you should be aware that the third party may make the assumption that you meet the targeting criteria used to display the advert.
+**Purposes for which we will use your personal data**
 
-These activities may involve the use of cookies and other similar technologies. To learn more or to see how you can opt out of targeted advertising, for more information please read our [Cookie Policy](https://web.archive.org/cookie-policy).
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
 
-Please take care when using social networking sites to which we may invite you to join that you do not disclose anything that you might later wish to retract.
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please [contact us](mailto:subsprocessing@warnersgroup.co.uk?subject=WGP%20Privacy%20Policy%20Enquiry) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
 
-There are certain times when we may have a legal obligation to disclose your data in good faith where it is required by law or to respond to subpoenas or warrants served on us, or where we have a requirement to protect or defend the rights of The Bauer Media Group or any users of our servers. We will always ensure that those requesting the information have the legal right to do so.
+**Purpose/Activity** | **Type of data** | **Lawful basis for processing including basis of legitimate interest**  
+---|---|---  
+To register you as a new customer, or potential customer | (a) Identity 
 
-If another company should acquire any of our companies or our assets, including our database, that company will have the right of possession to the Personal Data collected by us and will assume the rights and obligations formerly attributable to us and will use the data in line with the terms under which you submitted it or as described in this Privacy Policy.
+(b) Contact
 
- **8.    ****The information we may collect from you about others**
+| Performance of a contract with you  
+To process and deliver your order including: 
 
-Sometimes we may offer you the chance to invite a family member or a friend to enjoy a particular service. In such circumstances, we will collect both your personal details and those of your friend or family member. We will ask your consent to mention your name when we contact the person or persons you have recommended and we will only use this information once and not save it in our database, unless they have entered a competition, for example, when the information will be stored purely for that purpose. If they decide to take up any of our invitations then their data will be treated exactly the same as your own, using the terms under which the data was collected and the information as described in this Privacy Policy, which they will be made aware of at the time of our invitation.
+(a) Manage payments, fees and charges
 
- **9.    ****Leaving our website and moving on to third party websites**
+(b) Collect and recover money owed to us
 
-When you click on advertisements or links on any of our sites, you will leave that site and go to a third-party site, which is outside of our control. When we place an advertisement on one of our sites, it does not signify that we are endorsing that advertiser's product or service. We do not accept responsibility for content, which we have no control over, and our Privacy Policy does not apply to these companies, sites or content; and if such third-party sites collect Personal Data, we cannot control how this data is processed, stored or used. We advise that you read their data collection statements, which accompany any registration and their Privacy Policies, before you submit your personal information.
+| (a) Identity 
 
- **10.** **Cookies and how we use them**
+(b) Contact
 
-"Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. The Bauer Media Group uses cookies for a number of reasons:
+(c) Financial
 
-  * To provide you with a more personal and interactive experience on our sites.
-  * For statistical purposes to track how many users we have and how often they visit our websites.
-  * We use organisation to collect anonymous user information so they can analyse how the website is being used and the number of visitors.
-  * We and our advertisers may use statistical cookies to track who has seen an advert and clicked on it.
-  * To show you adverts that you may be interested in and to control the number of time you see them and measures the effectiveness of the ad campaign.
-  * We may use ‘Flash’ cookies to store your preference for your media player. If we do not use them, it may not be possible for you to watch some video content.
+(d) Transaction
 
+(e) Marketing and Communications
 
+| (a) Performance of a contract with you 
 
-You have the ability to accept or decline cookies, when you use the website for the first time via “see all options” link on the “pop up” banner, but please be aware that for some parts of our sites to work, you will need to accept cookies.
+(b) Necessary for our legitimate interests (to recover debts due to us)  
+  
+To manage our relationship with you which will include: 
 
-For more information about third party cookies generated by advertisers, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or [www.youronlinechoices.com](http://www.youronlinechoices.com/)
+(a) Notifying you about changes to our terms or privacy policy
 
-For more information on how the Bauer Media Group use cookies please read our [Cookie Policy](https://web.archive.org/cookie-policy).
+(b) Asking you to leave a review or take a survey
 
- **11.** **Our Apps**
+| (a) Identity 
 
-If you use any of our apps on your mobile device we will process the following information:
+(b) Contact
 
-  * Your location, you may decline this request, but this may mean that we cannot offer relevant services;
-  * Your device ID, this will be processed automatically;
-  * Your email address, if you create an account;
-  * Your age and gender, if you provide it.
+(c) Profile
 
+(d) Marketing and Communications
 
+| (a) Performance of a contract with you 
 
- **12.** **Online Behavioural Advertising**
+(b) Necessary to comply with a legal obligation
 
-We use an advertising service called online behavioural advertising (OBA). This allows us to deliver targeted advertising to the visitors of our websites. It works by showing you adverts that are based on your browsing patterns and the way you have interacted with the website. For example, if you have been reading a lot of car articles, you may be shown more adverts for cars.
+(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)  
+  
+To enable you to partake in a prize draw, competition or complete a survey | (a) Identity 
 
-None of the OBA techniques used will collect personal information such as your name, email address, postal address or phone number.
+(b) Contact
 
-If you would like more information regarding OBA and how to opt out, please read our please read our [Cookie Policy](https://web.archive.org/cookie-policy). Or visit [www.youronlinechoices.com](http://www.youronlinechoices.com/)
+(c) Profile
 
- **13.** **Logging in using social networking**
+(d) Usage
 
-If you login to our sites using a Facebook login or a Google login, you are granting permission to Facebook and/or Google to share your user details with Bauer Media Group. This will include your name, email address, date of birth and location which will then be used to form a Bauer Media Group identity. This will also allow Bauer Media Group and Facebook and/or Google to share your networks, user ID and any other information you choose to share according to your Facebook and/or Google account settings. If you remove the Bauer Media Group app from your Facebook and/or Google settings, we will no longer have access to this information.
+(e) Marketing and Communications
 
- **14.** **Opting out on Receipt of Email Marketing Communications**
+| (a) Performance of a contract with you 
 
- **Email**
+(b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)  
+  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) | (a) Identity 
 
-If you receive a marketing email from one of our brands, you will have the option to “opt-out” by clicking on the unsubscribe link provided at the bottom of each and every message we send you. If you wish to unsubscribe from all brand lists please contact [Bauer Data Protection Officer](mailto:dataprotectionofficer@bauermedia.co.uk) Please be aware that this will not unsubscribe you from our service based messages, such as subscription rewards and subscription reminders.  If you wish to be opted out of reward emails, please contact [Bauer Data Protection Officer](mailto:dataprotectionofficer@bauermedia.co.uk).
+(b) Contact
 
- **SMS**
+(c) Technical
 
-If you receive a marketing SMS text, please text “STOP” to any message received.
+| (a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise) 
 
- **Phone**
+(b) Necessary to comply with a legal obligation  
+  
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you | (a) Identity 
 
-If you receive a marketing call from Bauer, please let the call operator know you do not wish to receive any further calls.
+(b) Contact
 
-If you wish to stop all marketing communications from Bauer, please email [Bauer Data Protection Officer](mailto:dataprotectionofficer@bauermedia.co.uk)
+(c) Profile
 
- **15.** **Telephone and Mailing Preference Services**
+(d) Usage
 
-The Telephone Preference Service (TPS), the Corporate Telephone Preference Service (CTPS) and the Mailing Preference Service (MPS) allow you to choose to opt out of unsolicited marketing. However, if you are registered on any of the preference services, which are general opt-out registers, you may still receive marketing communications from us if you have given us your consent previously or if you subsequently give us that consent or if we are contacting you under legitimate interests.
+(e) Marketing and Communications
 
- **16.** **Marketing to Children**
+(f) Technical
 
-We do not knowingly collect personal information from children under the age of 16 for marketing purposes.
+| Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | (a) Technical 
 
- **17.** **Using our websites from outside the UK**
+(b) Usage
 
-Our servers are situated in the EEA and when you submit your details and in whichever country you are situated you agree to the data being transferred to the EEA and processed under the terms of GDPR and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not add your personal details on the website.
+| Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+To make suggestions and recommendations to you about goods or services that may be of interest to you | (a) Identity 
 
- **18.** **How you can gain access to the personal data we collect about you**
+(b) Contact
 
-Under GDPR, you have a number of rights, which are aimed at giving you control about how your personal data is used by us.
+(c) Technical
 
- **Access your personal data**
+(d) Usage
 
-You have the right to see what information we hold about you and the purposes for which we are using it. This is known as a Subject Access Request. In responding to such a request, we may ask for proof of your identity, to ensure that we do not send you personal data to another person. We will respond to any requests as soon as possible, but at least within 30 days.
+(e) Profile
 
-Please click [here](https://www.bauerlegal.co.uk/subject-access-request-form) to make a Subject Access Request
+| Necessary for our legitimate interests (to develop our products/services and grow our business)  
+  
+**Marketing**  
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. We have established a privacy centre where you can view and make certain decisions about your personal data use via your profile page on each website.
 
- **Amend your personal data**
+**Promotional offers from us**
 
-You may ask us to make any changes that you consider necessary to make the information accurate, please let us know and we will rectify this as soon as possible. Please write to or email:
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
 
-[Bauer Data Protection Officer](mailto:dataprotectionofficer@bauermedia.co.uk)  
-Bauer Media Group  
-Media House  
-Peterborough Business Park  
-Lynch Wood  
-Peterborough  
-PE2 6EA
+You will receive marketing communications from us if you have requested information from us or purchased goods or services from us and, in each case, you have not opted out of receiving that marketing.
 
-We will require that you satisfactorily identify yourself to demonstrate your entitlement to view this data.
+**Third-party marketing**
 
- **Delete your personal data**
+We will not share your personal data with any company outside Warners Group for marketing purposes.
 
-If you wish for your personal data to be deleted we will review any request on a case-by-case basis. We will respond to you as soon as possible, at least within 30 days of receiving your request.
+**Opting out**
 
- **19.** **How long do we keep your personal data?**
+You can ask us to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by [contacting us](mailto:subsprocessing@warnersgroup.co.uk?subject=WGP%20Privacy%20Policy%20Enquiry) at any time.
 
-We hold personal data for different purposes and the length of time we keep your information will vary depending on the services or products we are providing. We will only keep your data for a reasonable period of time, which is based on the purpose for which we are using your data. Once that purpose has been fulfilled, we will securely delete that data or anonymise your information (so that we, or anyone else, can no longer tell that data relates to you) unless we are required to retain the data longer for legal, tax or accounting reasons.
+Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, product/service experience or other transactions.
 
-We have a detailed retention policy for ensuring that we do not hold personal data for any longer than we justifiably need to. For further information on our retention policy contact Bauer Data Protection Officer.
+**Cookies**
 
- **20.** **Questions regarding this Privacy Policy**
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our [Cookie Policy](https://web.archive.org/about-warners-group/cookie-policy/).
 
-If you have comments or questions related to this Privacy Policy please email [Bauer Data Protection Officer](mailto:dataprotectionofficer@bauermedia.co.uk) and we will respond as promptly and as fully as we can.
+**Change of purpose**
 
-Complaints will be dealt with by the Data Protection Officer and will be responded to within 30 days. If you are not satisfied with the response you should refer your complaint to the ICO [ico.org.uk/concerns/](https://ico.org.uk/concerns/)
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](mailto:subsprocessing@warnersgroup.co.uk?subject=WGP%20Privacy%20Policy%20Enquiry).
 
- **21.** **Changes to this Privacy Policy**
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
-This Privacy Policy will be amended from time-to-time if we make any important changes in the way that we collect, store and use personal data. We may notify you by sending an email to your last known email address or writing to your last known postal address to direct you to the Privacy Policy if the changes are material. Our dispatch of a communication to you will, in any event, constitute notification.
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
 
-Any changes will be effective immediately.
+  
+**5\. DISCLOSURES OF YOUR PERSONAL DATA**
 
-This Privacy Policy was last revised in July 2018
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
+
+  * External Third Parties as set out in the [Glossary].
+  * Specific third parties such as: 
+    * SagePay and Paypal who process payments on our behalf;
+    * Oath for advertising delivery;
+    * Some of our magazine brands may share your personal data with a third-party auditing organisation (ABC) so they can verify aggregated statistics about circulation and usage of our products or review our policies, processes and procedures for compliance with relevant standards. You can view their privacy policy by following this link [www.abc.org.uk/privacy-policy](https://www.abc.org.uk/privacy-policy)
+    * The Ticket Factory who sell some tickets on our behalf for events.
+
+
+  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
+
+
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+  
+**6\. INTERNATIONAL TRANSFERS**
+
+If we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
+
+  * We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries.
+  * Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see European Commission: Model contracts for the transfer of personal data to third countries.
+  * Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. For further details, see European Commission: EU-US Privacy Shield.
+
+
+
+Please [contact us](mailto:subsprocessing@warnersgroup.co.uk?subject=WGP%20Privacy%20Policy%20Enquiry) if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+
+  
+**7\. DATA SECURITY**
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed.
+
+In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+  
+**8\. DATA RETENTION**
+
+**How long will you use my personal data for?**
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+Details of retention periods for different aspects of your personal data are available in our retention policy which you can request from us by [contacting us](mailto:subsprocessing@warnersgroup.co.uk?subject=WGP%20Privacy%20Policy%20Enquiry). In some circumstances you can ask us to delete your data: see [Request erasure] below for further information.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+  
+**9\. YOUR LEGAL RIGHTS**
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights:
+
+  * [Request access to your personal data].
+  * [Request correction of your personal data].
+  * [Request erasure of your personal data].
+  * [Object to processing of your personal data].
+  * [Request restriction of processing your personal data].
+  * [Request transfer of your personal data].
+  * [Right to withdraw consent].
+
+
+
+If you wish to exercise any of the rights set out above, please [contact us](mailto:subsprocessing@warnersgroup.co.uk?subject=WGP%20Privacy%20Policy%20Enquiry).
+
+**No fee usually required**
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+**What we may need from you**
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+**Time limit to respond**
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+* * *
+
+  
+**10\. GLOSSARY**
+
+**LAWFUL BASIS**
+
+**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by [contacting us](mailto:subsprocessing@warnersgroup.co.uk?subject=WGP%20Privacy%20Policy%20Enquiry).
+
+**Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+**Comply with a legal or regulatory obligation** means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+**THIRD PARTIES**
+
+**External Third Parties**
+
+  * Service providers acting as processors, such as Gordon & Gotch, Red Hot Penny, Bottomline, and Communicator based in the EEA who provide IT, system administration services & email marketing tools. Other providers MailChimp and Survey Monkey are based outside of the EEA but are members of the USA Privacy Shield.
+  * Mailing Houses, product suppliers and competition sponsors acting as processors, based in the EEA.
+  * Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based in the EEA who provide consultancy, banking, legal, insurance and accounting services.
+  * HM Revenue & Customs, regulators and other authorities acting as processors or joint controllers based in the United Kingdom.
+
+
+
+**YOUR LEGAL RIGHTS**
+
+**You have the right to:**
+
+**Request access** to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it. [[Click here to open a form](https://web.archive.org/wp-content/uploads/2018/05/Data-Subject-Access-Request-Form-V1-010218.pdf)]
+
+**Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+**Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+
+**Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+
+**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+
+**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+
+**Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+* * *
