@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildmyincomedaily.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610004428id_/http%3A//www.buildmyincomedaily.com/terms%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildmyincomedaily.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603225521id_/http%3A//www.buildmyincomedaily.com/terms%23Privacy) for the most accurate reproduction.*
 
 # BuildMyIncomeDaily.com Making ...Success A LifeStyle - Terms and Conditions
 
@@ -114,7 +114,7 @@ Refund Policy | Earnings/Income Disclaimer | PRIVACY
 > 
 > 10\. Changes to Privacy Policy. If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
 > 
-> To learn more about the Build My Income Daily.com system and how it functions, please visit our [FAQs.](https://web.archive.org/web/20160610004428id_/http%3A//www.buildmyincomedaily.com/faqs)
+> To learn more about the Build My Income Daily.com system and how it functions, please visit our [FAQs.](https://web.archive.org/web/20190603225521id_/http%3A//www.buildmyincomedaily.com/faqs)
 
 ​  
   
