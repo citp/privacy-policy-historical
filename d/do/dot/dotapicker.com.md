@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotapicker.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522033211id_/http%3A//dotapicker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotapicker.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603213357id_/http%3A//dotapicker.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
