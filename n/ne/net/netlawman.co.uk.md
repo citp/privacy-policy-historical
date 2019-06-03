@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010020901id_/https%3A//www.netlawman.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603193008id_/https%3A//www.netlawman.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice For The Net Lawman UK Site
 
