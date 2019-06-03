@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucks.co.uk privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821121304id_/https%3A//www.starbucks.co.uk/about-us/company-information/online-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.co.uk privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603111234id_/https%3A//www.starbucks.co.uk/about-us/company-information/online-policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Starbucks Coffee Company
 
@@ -160,7 +160,7 @@ If you have an unresolved privacy or data use concern that has not been addresse
 
 Under certain conditions, more fully described on the Privacy Shield website here: <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8 "TRUSTe")
 
   
 
