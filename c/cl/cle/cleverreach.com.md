@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverreach.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904075726id_/https%3A//www.cleverreach.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverreach.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603114129id_/https%3A//www.cleverreach.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CleverReach
 
@@ -149,7 +149,7 @@ If you no longer wish to receive our newsletter, you can simply unsubscribe at a
 
 You can contact us via web forms. To use our contact form, we usually only need your email address. You can provide further information, but you do not have to. By submitting the respective form, you agree that the data you provide will be electronically recorded and stored for up to 6 years. In the contractual relationship, the legal basis of the processing is Art. 6 (1) (b) GDPR, otherwise Art. 6 (1) (f) GDPR. The web page operator has a justified interest to lead your exchange and to process your inquiry appropriately. In this respect, we use your data exclusively for processing your inquiry.
 
-For processing your support or contact inquiry we use the software solution Zendesk, offered by Zendesk Inc, 1019 Market St, San Francisco, CA 94103, USA. Your data will be stored and processed on the servers hosted by Zendesk within the EU. We have concluded an order processing agreement with Zendesk pursuant to Art. 28 GDPR, by which we oblige the provider to protect our customers’ data and not to pass it on to third parties.
+To process your support or contact inquiry we use the software solution Zendesk, offered by Zendesk Inc., 1019 Market St, San Francisco, CA 94103, USA. Your data will be processed on the servers hosted by Zendesk exclusively in the USA and within the scope of GDPR. In the case of data processing by Zendesk, an adequate level of data protection results from the corresponding participation in the EU-US Privacy Shield Agreement (Art. 45 (1) GDPR). We have also concluded a contract with Zendesk for the processing of orders pursuant to Art. 28 GDPR, whereby we oblige the provider to process the data of our customers strictly in accordance with instructions, to protect them and not to pass them on to third parties. Personal data will not be transferred to third parties within the meaning of Art. 4 (10) GDPR.
 
 * * *
 
