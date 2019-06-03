@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommykatandkids.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507082943id_/http%3A//www.mommykatandkids.com/rules-and-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommykatandkids.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603180415id_/https%3A//www.mommykatandkids.com/rules-and-policies) for the most accurate reproduction.*
 
 # Privacy Policy - Mommy Kat and Kids
 
@@ -185,3 +185,5 @@ S7K 3J8 Canada
 info@mommykatandkids.com
 
 This policy was last modified on May 4, 2018
+
+[](https://www.pinterest.com/pin/create/button/)
