@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usask.ca privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220072756id_/http%3A//www.usask.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usask.ca privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603194607id_/https%3A//privacy.usask.ca/statement.php) for the most accurate reproduction.*
 
 # Website Privacy Statement - Access to Information and Privacy - University of Saskatchewan
 
@@ -17,9 +17,9 @@ Some University of Saskatchewan websites may distribute a small file to your bro
 
 In order to improve website performance and user experience, some University of Saskatchewan websites use a third party web analytics service. Summary reports will be used to improve usability on our sites and to help support the online needs of visitors.
 
-Some personal information, including but not limited to name and e-mail address, may be provided voluntarily by users of University of Saskatchewan websites to request services such as newsletter sign up, image download, online surveys and other similar services.
+Some personal information, including but not limited to name and e-mail address, may be provided voluntarily by users of University of Saskatchewan websites to request services such as newsletter sign up or other communications, image download, online surveys, event registration and other similar services.
 
-Personal information provided voluntarily in an e-mail or by filling out a form will be used only for internal purposes such as responding to your message. This information may also be shared with our customer service representatives, Webmaster, Web Administrator or other employees as a means to continually improve customer service.
+Personal information provided voluntarily in an e-mail or by filling out a form will be used only for the purposes for which it is collected. This information may also be shared with our customer service representatives, Webmaster, Web Administrator or other employees as a means to continually improve customer service.
 
 University of Saskatchewan websites contain links to other sites. While the University of Saskatchewan endeavours to link to other sites that have similar high standards and respect for privacy, we are not responsible for the privacy practices or the content of other sites. 
 
