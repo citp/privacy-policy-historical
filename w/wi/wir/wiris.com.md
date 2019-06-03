@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the wiris.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230180542id_/http%3A//www.wiris.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiris.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603151800id_/http%3A//www.wiris.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WIRIS | math & science
 
-_Version 1.1_  
-_August 13th, 2018_
+_Version 1.2_  
+_April 2nd, 2019_
 
 ## Terms of use
 
@@ -74,7 +74,7 @@ We collect and process information about you only where we have legal bases for 
 
 If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place. Where we are using your information because we have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services.
 
-## How we share information we collect
+## How we don't share information we collect
 
 We don’t share the information we collect about you with third parties. We are not in the business of selling information about you to advertisers or other third parties.
 
@@ -135,5 +135,6 @@ Please note this Privacy Policy may change from time to time. We expect most suc
 ## Addendums
 
   * [MathType Privacy Policy](http://www.wiris.com/mathtype/privacy-policy). Details about what information we collect and how we use that information for MathType users.
+  * [Wiris Quizzes Privacy Policy](http://www.wiris.com/en/quizzes/privacy-policy). Details about what information we collect and how we use that information for Wiris Quizzes users.
 
 
