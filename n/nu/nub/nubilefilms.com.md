@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nubilefilms.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227142409id_/https%3A//nubilefilms.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nubilefilms.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603191659id_/https%3A//nubilefilms.com/page/privacy_policy%3Fcoupon%3D58729%26c%3D0) for the most accurate reproduction.*
 
 # Nubile Films - Privacy Policy
 
