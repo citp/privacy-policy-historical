@@ -1,166 +1,186 @@
-> *The following text is extracted and transformed from the librarika.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606214426id_/https%3A//librarika.com/spages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the librarika.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603145507id_/https%3A//librarika.com/spages/privacy-policy) for the most accurate reproduction.*
 
 # Librarika: Privacy Policy
 
-Last modified: May 11, 2013
+Last modified: May 24, 2018
 
-**Librarika** , a service of **Raynux** , follows same privacy policy of Raynux that is explained below.
+### 1\. Introduction
 
-There are many different ways you can use our services by creating a service account or instances, sharing information or creating new content or joining a service or related services managed by the service or app administrator. When you share information with us, for example by creating a Library on [Librarika](https://librarika.com/), joining a library managed by service or app administrator, we can make those services even better to show you more relevant Information and data or to make sharing information or data with others easily. As you use our services, we want you to be clear how we're using information and the ways in which you can protect your privacy.
+**Librarika** , a service of **Raynux** , values the privacy and security of the information that you share with us. This Privacy Statement applies to the information collected by librarika, registered librarika libraries and related services. This Privacy Statement also apply to other information Librarika receives from Europe though other means such as customer quries, support emails, community posting etc. This Statement describes how Librarika collects, uses, shares, protects, or otherwise processes your personal information. 
 
-### Our Privacy Policy explains:
+**By using this website, you agree to the terms of this Privacy Statement.**
 
-  * What information and data we collect and why we collect it.
-  * How we use that information and data.
-  * The choices we offer, including how to access and update information.
+### 2\. Collection and Use of Information
 
+Librarika collects personal information to set up and manage accounts for our library services and to handle loans of library materials and related services from Librarika. 
 
+You may need to provide Librarika with personal information such as:
 
-We've tried to keep it as simple as possible. Your privacy matters to Raynux, so whether you are new to our services or a seasoned user, please do take the time to get to know our practices and if you have any questions, please contact us.
+  * names; phone numbers; mailing, billing, shipping, and email addresses; password; bio; profile picture; social network user identifier;
 
-### Information and Data we collect
 
-We collect information and data to provide better services to all of our users
 
-#### We collect information and data in two ways:
+Librarika uses such information for:
 
-  * **Information you give us.** For example, many of our services require you to sign up for a service Account. When you do, we'll ask for personal information, like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible Service Profile (Example: Librarika profile), which may include your name and photo. 
+  * website registration; enabling joining of library services, write reviews
+  * providing customer service; important service notification and reminders;
+  * marketing and surveys; sending service update notices;
+  * measuring, improving, and customizing our services; and
+  * fulfilling other technical, logistical, financial, tax, legal, compliance, administrative, or back office functions.
 
-  * **Information we get from your use of our services.** We may collect information about the services that you use and how you use them. This information includes: 
 
-    * **Device information**
 
-We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Raynux, may associate your device identifiers or phone number with your Service Account. 
+####  Member or Patron Information 
 
-    * **Log information**
+Librarika collects information on each patrons of its registered libraries. This information is usually submitted by library officials through their library dashboard or when a user join a library in the platform. Such information may include patron name; patron no; patron mailing and email addresses; patron picture; patron phone; 
 
-When you use our services or view content provided by Raynux, we may automatically collect and store certain information in server logs. This may include: 
+Librarika uses such information for enabling librarians to handle their daily library activities such as check-in/check-out of library materials, generate barcodes, generate loan receipts, identify books borrowed by patrons, etc. These informations are purely stored for the specific library and only used for that dedicate purpose. Librarika carefully separates partons personal info with the system users personal info to ensure better data security. 
 
-      * details of how you used our service. 
-      * Internet protocol address. 
-      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
-      * cookies that may uniquely identify your browser or your Service Account.
-    * **Location information**
+#### Community Information
 
-When you use a location-enabled Raynux service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers. 
+Librarika collects information from you to post or review entries to our discover section, community website, forums or issues site. Such information may include your email address, Internet Protocol address, user name, date and time of signup, and date and time of posts/reviews to the forum. 
 
-    * **Unique application numbers**
+Librarika uses this information for the secure and efficient functioning of our website, to provide you with access to our community site, to detect and prevent violations of our legal agreements, and as part of any legal obligations related to our community website. 
 
-Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Raynux when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
+####  Transaction Information 
 
-    * **Local storage**
+Librarika collects information on each transaction processed through its third party payment processor. Such information may include the amount of the transaction; the plan subscribed; the identity of the customer; the sale and order number; the transaction and recurring date, payment type; currency; location; Internet Protocol address; and websites visited. Librarika does store any bank account or credit card information in its database. 
 
-We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches. 
+Librarika uses such information for refunds, for customer service, for website optimization, or for other administrative or business purposes. Librarika may share information related to the transactions you conduct through our website with your co-library admins of your library for the purposes disclosed in this Privacy Statement. Librarika retains transaction information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations. 
 
-    * **Cookies and anonymous identifiers**
+#### Customer Service Correspondence
 
-We use various technologies to collect and store information when you visit a service, and this may include sending one or more cookies or anonymous identifiers to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as features that may appear on other sites.
+Librarika also collects information involving customer service correspondence. This information may include emails, internet chats, faxes, or telephone calls directed to our customer service centers. Librarika processes this information to provide customer service, handle complaints or disputes, measure and improve our customer service, detect and prevent fraud, and detect and prevent violations of our legal agreements. Librarika retains customer service information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations. 
 
+#### Cookies and Logs
 
+Librarika collects information related to your use of our website using cookies and log information.
 
+Cookies are small files containing strings of text stored on your computer. Librarika uses cookies to authenticate you as a user when you log in, track your session to keep it active, deliver content specific to your preferences and interests, and provide other functions. 
 
-### How we use information or data we collect
+Log information may include web requests, Internet Protocol address, operating system, browser type, browser language, date and time of your request, and cookies that may uniquely identify your browser. Librarika uses this information to enhance the functionality of the website and to make your access more convenient, secure, and efficient. 
 
-We use the information and data we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Raynux and our users.
+Librarika also uses information gathered from logs and cookies to monitor website performance; improve website design, functionality, and security; and assemble web analytics and activity trends. Librarika retains such information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations. 
 
-When you contact Raynux, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
+You may stop your browser from accepting cookies. The Help portion of your browser should explain how to configure your browser’s cookie handling. You may have limited functionality if you block cookies set by our website. 
 
-We may use information collected from cookies and other technologies, to improve your user experience and the overall quality of our services. We may combine personal information from one service with information, including personal information for example to make it easier to share things with people you know.
+#### Amazon Ads
 
-We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
+Librarika uses Amazon Ads, to show you ads in limited scale that we think may interest you. Amazon Ads may use cookies, web beacons, and other means to help Librarika analyze how users use the site. You may find Amazon Ads’s Privacy Statement and GDPR policy at <https://advertising.amazon.com/ad-specs/en>. 
 
-### Transparency and choice
+#### Google Analytics
 
-People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
+Librarika uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help Librarika analyze how users use the site. You may find Google’s Privacy Policy at <https://policies.google.com/technologies/partner-sites>. 
 
-  * Review and control certain types of information tied to your account by using our Dashboard.
-  * View and edit your user or service preferences.
-  * Control who you share information with where such control is available.
+#### 2Checkout
 
+Librarika uses 2Checkout.com also knows as "2Checkout" or "2CO", a payment processor to process subscription payments on its behalf. 2Checkout may use cookies, logs, web beacons or other means to identify and validate your transactions. You may find 2Checkout’s privacy statement at <https://www.2checkout.com/policies/privacy-policy>. 
 
+#### Facebook Login
 
-You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it's important to remember that many of our services may not function properly if your cookies are disabled.
+Librarika uses Facebook Login to log you into the website smoothly. This login method is an additional alternative to our regular login mechanism which you can enable / disable any time. Facebook may use cookies, logs, web beacons or other means to provide the login service. You may find Facebook’s privacy statement at <https://www.facebook.com/about/privacy>. 
 
-### Information and data you share
+###  3\. Choice 
 
-Our services let you share information with others. Remember that when you share information publicly, it may be index-able by search engines like Google, Bing, Yahoo etc. Our services provide you with different options on sharing and removing your content.
+We will seek your consent prior to using your personal information in a manner incompatible with the purposes we described in our Privacy Statement at the time of collection. You may choose not to provide any personal information to Librarika, in which case we will be unable to provide services to you. 
 
-### Accessing and updating your personal information
+### 4\. Sharing of Information
 
-Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
+Librarika only shares information as described in this Privacy Statement. Librarika shares information with the following categories of third parties. Such third parties are prohibited by law or by contract from processing personal information for purposes other than those disclosed in this Privacy Statement. 
 
-We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical.
+#### Organizations that Provide Services to Us
 
-### Information we share
+Librarika discloses personal information to other organizations that perform services on our behalf. We require such organizations to use such information solely for the purposes of providing services to us and to protect the personal information with appropriate safeguards. 
 
-We do not share personal information with companies, organizations and individuals outside of Raynux.
+Such organizations include cloud service providers; payment processors; acquirers; auditors; database managers; customer service providers and representatives; and others who perform technical, logistical, financial, tax, legal, compliance, or administrative functions on our behalf. 
 
-  * **With your consent**
+These organizations may perform functions such as cloud infrastructure managing, processing credit and debit card payments, providing customer service, processing data, sending postal mail and email, and providing other financial, technical, logistical, tax, legal, compliance, or administrative functions. 
 
-We will share personal information with companies, organizations or individuals outside of Raynux when we have your consent to do so. We require opt-in consent for the sharing of any **sensitive personal information**.
+#### Librarians
 
-  * **With domain or service or app administrators**
+Librarika discloses personal information to its librarians. Librarika provides library management services to its registered libraries enabling library materials and services available to their patrons for reading or accessing through their librarika library website. You join willingly by either accepting the email invitation or submitting member access requests. During this time your name, email address, profile picture, etc is shared with the joining library. We share personal information with respective library officials to complete thier library activities, resolve customer comments or complaints, and for administrative and analytical purposes like accounting, billing and audits, information system management, and other uses. 
 
-If your Service Account is managed for you by a domain or service or app administrator (for example, for library members in Librarika) then your domain or app administrator and re-sellers who provide user support to your organization will have access to your Service Account information (including your email and other data). Your domain or app administrator may be able to: 
+#### Patrons
 
-    * view statistics regarding your account, like statistics regarding applications you install. 
-    * change your account password. 
-    * suspend or terminate your account access. 
-    * access or retain information stored as part of your account. 
-    * receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request. 
-    * restrict your ability to delete or edit information or privacy settings.
+Librarika discloses personal information to its patrons. Librarika provides library management services to librarians who make library materials and services available to their patrons for reading or accessing through their librarika library website. We may share personal information with patrons to complete activities, resolve customer comments or complaints, and for administrative purposes like accounting, billing and audits, and other uses. 
 
-Please refer to your domain administrator's privacy policy for more information. 
+#### Business Sale or Merger
 
-  * **For external processing**
+Librarika may share personal information in the event of a sale or merger of all or any portion of its business units. Such information remains subject to the promises made in any pre-existing Privacy Statement, unless an individual consents otherwise. 
 
-We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+#### Other
 
-  * **For legal reasons**
+Librarika may disclose personal information where: 
 
-We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+  * required by law or by an order or requirement of a court, administrative agency, or other government entity, or by court rules concerning the production of records;
+  * Librarika has reasonable grounds to believe that use or disclosure is necessary to protect the rights, privacy, property, or safety of our users or others;
+  * Librarika has reasonable grounds to believe that the information relates to the breach of an agreement or violation of the law that has been, is being, or is about to be committed;
+  * it is necessary for fraud protection, risk reduction, or the establishment or collection of funds owed to us;
+  * it is necessary to enforce or apply our legal agreements, to pursue remedies, or to limit damages to Librarika;
+  * the information is public;
+  * you have provided consent or with your direction; or
+  * other reasons allow it or other laws require it.
 
-    * meet any applicable law, regulation, legal process or enforceable governmental request. 
-    * enforce applicable Terms of Service, including investigation of potential violations. 
-    * detect, prevent, or otherwise address fraud, security or technical issues. 
-    * protect against harm to the rights, property or safety of Raynux, our users or the public as required or permitted by law.
 
 
+When we are required or permitted to disclose information, we will not disclose more information than is necessary to fulfill the disclosure purpose. 
 
-We may share aggregated, non-personally identifiable information publicly and with our partners like publishers. For example, we may share information publicly to show trends about the general use of our services.
+Librarika may disclose aggregate or statistical information to our business partners, for public relations purposes, or other purposes.
 
-If Raynux or any of its product or service is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
+### 5\. Access
 
-### Information security
+At your request, we will provide you with reasonable access to your personal information, so that you can review what we have stored and, if you choose, request corrections to it. You may request access by writing to us at the address listed in the Contact Information section below. After you request access, we will provide the personal information that you request as soon as practically possible and generally no later than thirty days following the request. If you wish to correct your personal information, please send us a written explanation of the particular information that you believe should be corrected. Where information will not or cannot be accessed or amended, we will tell you the reasons. 
 
-We work hard to protect Raynux and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+Librarika stores, collects, and otherwise processes information mainly in Amsterdam, Netherlands. We mostly access the data from our end computers located in Bangladesh.
 
-  * We encrypt many of our services using SSL.
-  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
-  * We restrict access to personal information to Raynux employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+If you are residing in the European Union/ the European Economic Area, you have the right to:
 
+  * access your personal information, rectify it, restrict or object to its processing, or request its deletion,
+  * to receive the personal information you provided to Librarika or to transmit it to another company. More specifically, based on the European Union laws, you may request and receive copies of the personal information that you have provided to us in a structured, commonly used, and machine-readable format and/or request us to transmit this information to another service provider (where technically feasible).
+  * to withdraw any consent provided,
+  * to opt out of some collection or uses of your personal information, including the use of cookies and similar technologies, the use of your personal information for marketing purposes, and the use for data analyses,
+  * where applicable, to lodge a complaint with your supervisory authority.
 
 
-### Application
 
-Our Privacy Policy applies to all of the services offered by Raynux and its affiliates, including services offered on other sites, but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+We encourage to contact us and we will respond in due time to settle all your questions and requests to the extent permitted by law.
 
-Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that include Raynux services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who may use cookies and other technologies to serve and offer relevant data or information.
+### 6\. Security
 
-### Enforcement
+Librarika combines technical and physical safeguards with employee policies and procedures to protect your information. We work to protect your personal information during transmission by using Secure Sockets Layer software, which encrypts the information that you provide online at our website. We will use commercially reasonable efforts to protect your information. We will also continue to assess new technology for protecting information and upgrade our information security systems when appropriate. 
 
-We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
+Further, we permit only authorized Librarika employees and third parties to access any personal information. If an employee misuses personal information, we may take disciplinary action, up to and including termination of employment. If any third party individual or organization misuses personal information, we will take action, up to and including termination of any agreement between Librarika and that individual or organization. 
 
-### Security and bugs
+### 7\. Data Integrity
 
-We do our best to keep your information secure, but we need your help. Your password and other critical information must be kept safe on your side. We try to keep our services up, bug-free and safe, but can't make guarantees about any part of our services or products.
+Librarika processes personal information only for the purposes it was originally collected and in accordance with this Privacy Statement. Librarika takes commercially reasonable steps to ensure that the personal data is relevant, reliable for its intended use, accurate, complete, and current for the purposes for which it is used. Librarika retains information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations. 
 
-### Changes
+### 8\. Children
 
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including notice on web interface, for certain services, email notification of privacy policy changes).
+Librarika does not offer account login services to children, any library activities or communications for childrens should be facilitied by adults on their behalf (teachers or parents or leagal gurdians). We do not knowingly collect, maintain, or use personal information from children under age 13 to be used for account logins or other purposes unless otherwise stated in this statement. If you are under age 13, do not share personal information with us. 
 
-### How can I contact Raynux?
+In the European Union, the age limitation is 16. Thus, if this jurisdiction applies to you, Librarika will not knowingly collect, maintain, or use personal information from children under age 16. 
 
-Raynux welcomes your feedback regarding this Privacy Policy. If you have questions, comments or concerns about this policy, please contact us by email at [info [at] raynux dot com](mailto:info@raynux.com) or by mail through: 
+For school libraries, where students / childrens are the main library users, library administrators (as data controller under EU GDPR law) will be fully liable to ensure necessary legal consent (parental, legal gurdians) and may enter students / childrens data into the system for library management purpose only. 
+
+### 9\. Links to Other Websites
+
+When you click on a link on this website that takes you to a website operated by another company, you will be subject to that company’s privacy practices. 
+
+### 10\. Controlling Unsolicited Email
+
+We may send you information about our products and services. You may log into the settings section and update your Preferences to stop receiving this information. You may also opt out of Librarika’s marketing list or update your information by notifying us at [info@raynux.com](mailto:info@raynux.com) at any time. 
+
+### 11\. Amendments
+
+Librarika may amend this Privacy Statement on one or more occasions by posting a revised statement on this website or a similar website that replaces this website. If the changes are significant, Librarika will provide a more prominent notice (including notice on web interface, for certain services, email notification or other means).
+
+### 12\. Data Transfer
+
+We use cloud servers located in various part of the world for backup and faster content delivery purposes (CDN) and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy. 
+
+### 13\. Contact Information
+
+Librarika welcomes your feedback regarding this Privacy Policy. If you have questions, comments or concerns about this policy, please contact us by email at [info@raynux.com](mailto:info@raynux.com) or by mail through: 
 
 Raynux, 373, Road 10, Block C, Bashundhara RA, Dhaka -1212 Bangladesh 
