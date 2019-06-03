@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the londonpass.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002040037id_/https%3A//www.londonpass.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonpass.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603051040id_/https%3A//www.londonpass.com/privacy.php) for the most accurate reproduction.*
 
 # London Pass Privacy Policy - Leisure Pass Group
+
+[](https://web.archive.org/)
 
 Leisure Pass Group (“LPG”/”we”/”us”) is committed to protecting your privacy. We will only use the information that we collect about you lawfully in accordance with UK Data Protection Legislation.  LPG is registered with the Information Commissioner’s Office in accordance with that legislation.
 
@@ -44,7 +46,7 @@ We process personal information collected via the London Pass website for the pu
 
 
 
-We retain e-mail addresses for marketing purposes and for customer service purposes, such as contacting customers who have not checked out to see if there was a problem with their use of the site.
+When purchasing a London Pass, customers from EU countries will be given the choice to opt-in to receive marketing communication by checking a box. These communications include but are not limited to emails, SMS and push notifications, giving information, tips and promotions on upgrades and third party offers relevant to a customer’s trip, and promotions on other city passes. Non-EU customers will have the option to uncheck a box to opt out from receiving these communications. All recipients can unsubscribe from marketing communication at any time, by clicking on the unsubscribe process included in every message.
 
 **1.5       ** **Your personal rights and how to contact us**
 
@@ -92,3 +94,5 @@ We will hold your personal information on our systems indefinitely or until you 
 **3.            COOKIES**
 
 We use cookies on our website and in relation to the App.  For details of our cookie policy please refer to our **[Cookie Policy](https://www.londonpass.com/cookies.php)**
+
+## Trusted by over 3 million customers, here's what they have to say
