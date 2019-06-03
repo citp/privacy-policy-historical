@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlsonwagonlit.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202061746id_/http%3A//carlsonwagonlit.com/legal/global-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlsonwagonlit.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603214427id_/http%3A//carlsonwagonlit.com/legal/global-privacy-policy) for the most accurate reproduction.*
 
 # CWT Global Privacy Policy and Notice
 
@@ -8,7 +8,7 @@ _The Global Privacy Policy is available in English and in the following language
 
 _Your privacy matters_
 
-_Carlson Wagonlit Travel (CWT Global B.V. and its affiliates, together CWT) is a travel management company with operations in many countries around the world. We provide business travel and hospitality, as well as meetings and events, services to our corporate clients._
+_CWT (CWT Global B.V. and its affiliates, together CWT) is a travel management company with operations in many countries around the world. We provide business travel and hospitality, as well as meetings and events, services to our corporate clients._
 
 _CWT is committed to transparency and respecting your online privacy, and recognises the need for appropriate protection and management of the personal data you share with us._
 
