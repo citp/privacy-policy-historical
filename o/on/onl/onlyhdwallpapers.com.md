@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyhdwallpapers.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122224222id_/https%3A//onlyhdwallpapers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyhdwallpapers.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603235402id_/https%3A//onlyhdwallpapers.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -44,6 +44,10 @@ We adopt appropriate data collection, storage and processing practices and secur
 ### Sharing your personal information
 
 We do not sell, trade, rent or share Users personal identification information to other 3rd party. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+### Copyright
+
+All the images are copyrighted by their respective owners. Please do not ask for permissions to use these images in your projects, as we do not own the copyrights for them. As our content is user-submitted, some of it will inevitably be the work of others. We strive to respect copyright law, so if you own the rights to an image you find on the site, you can [contact](https://web.archive.org/contact) us with details to have the relevant images removed. We can also add you to an upload blacklist to prevent this from happening in the future. Alternatively, if you would just like to be credited for your work, you can simply email us and ask for it.
 
 ### Advertising
 
