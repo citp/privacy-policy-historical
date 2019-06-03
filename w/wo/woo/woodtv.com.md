@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the woodtv.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618193104id_/http%3A//www.woodtv.com/more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodtv.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603190206id_/https%3A//www.woodtv.com/more/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WOODTV
+# Privacy Policy
 
 **Updated: November 06, 2017**
 
