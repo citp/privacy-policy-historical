@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainpower.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818094701id_/http%3A//www.domainpower.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainpower.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603085312id_/http%3A//www.domainpower.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | DomainPower
 
@@ -140,7 +140,7 @@ We cooperate with government, law enforcement officials, or private parties to e
 
 ### Notice to Non-US Customers and Users
 
-We may transfer Customer or User Information outside the country in which it is collected (e.g., to the United States), which may not offer the same level of protection for Personal Information as the country in which the Customer or User resides; however, Bidtellect still adheres to the Privacy Shield Framework of the US/UE and US/Swiss to provide contractual safeguards to ensure Information is processed in a way that offers an adequate level of protection when it is shared between or among Bidtellect Services and vendors.
+We may transfer Customer or User Information outside the country in which it is collected (e.g., to the United States), which may not offer the same level of protection for Personal Information as the country in which the Customer or User resides; however, Bidtellect provides contractual safeguards to ensure Information is processed in a way that offers an adequate level of protection when it is shared between or among Bidtellect Services and vendors.
 
 By providing Information, including Personal Information, under this Privacy Policy, the Customer or the User expressly consents to the use of such Information in accordance with this Privacy Policy and to the transfer of the Information to another country (e.g., the United States).
 
