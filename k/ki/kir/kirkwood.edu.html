@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kirkwood.edu privacy policy that was archived on 2018-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230065709id_/https%3A//www.kirkwood.edu/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kirkwood.edu privacy policy that was archived on 2019-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190603071724id_/https%3A//www.kirkwood.edu/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
     <meta charset="UTF-8">
@@ -44,442 +44,450 @@
     <script src="/includes/jquery_packages/owl-carousel-2.3.4/owl.carousel.min.js"></script>
     <link rel="stylesheet" href="/includes/jquery_packages/owl-carousel-2.3.4/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="/includes/css/class_slider.css">
-<!--<link rel="stylesheet" href="/includes/css/ClassSlider/class_slider.css"/>-->
-
+    <!--<link rel="stylesheet" href="/includes/css/ClassSlider/class_slider.css"/>-->
     <script src="/includes/fonts/fontawesome-free-5.1.0-web/js/all.js"></script>
-
 </head>
+    <!-- Header Template ID 107 -->
 <body>
-<script>
-    $(function(){
+    
+    <script>
+        $(function(){
             $(document).foundation();
-    });
+        });
+        var $desktopSearch;
+        var $mobileSearch;
+        var $mobileSearchText;
 
-    var $desktopSearch;
-    var $mobileSearch;
-    var $mobileSearchText;
-
-    function closeDesktopSearch() {
-        $desktopSearch.removeClass("in-search");
-    }
-
-    function closeMobileSearch(){
-        $mobileSearch.slideUp(250);
-    }
-
-    function openMobileSearch(){
-        $mobileSearch.slideDown(250);
-        $mobileSearchText.focus();
-    }
-
-    function toggleMobileSearch(){
-        if ($mobileSearch.is(":visible")){
-            closeMobileSearch();
-        } else {
-            openMobileSearch();
+        function closeDesktopSearch() {
+            $desktopSearch.removeClass("in-search");
         }
-    }
 
-    $(function () {
-        $desktopSearch = $("#desktop_header_white_right");
-        $mobileSearch = $("#mobile_search_wrapper");
-        $mobileSearchText = $("#mobile_search");
+        function closeMobileSearch() {
+            $mobileSearch.slideUp(250);
+        }
 
-        $("#homepage_search").focusout(closeDesktopSearch);
-        $("#mobile_search").focusout(closeMobileSearch);
-    });
-</script>
+        function openMobileSearch() {
+            $mobileSearch.slideDown(250);
+            $mobileSearchText.focus();
+        }
 
-<div class="off-canvas position-left is-closed hide-for-large bg-white p-2" id="mobile_menu" data-off-canvas="" data-nested="" data-content-overlay="false">
-    <button type="button" class="close-button" data-close=""><span aria-hidden="true">×</span></button>
+        function toggleMobileSearch() {
+            if ($mobileSearch.is(":visible")) {
+                closeMobileSearch();
+            } else {
+                openMobileSearch();
+            }
+        }
 
-    <h4>Menu</h4>
-    <div id="mobile_menu_drilldown_wrapper">
-        <ul class="vertical menu drilldown" data-drilldown="">
-                            <li>
+        $(function () {
+            $desktopSearch = $("#desktop_header_white_right");
+            $mobileSearch = $("#mobile_search_wrapper");
+            $mobileSearchText = $("#mobile_search");
+
+            $("#homepage_search").focusout(closeDesktopSearch);
+            $("#mobile_search").focusout(closeMobileSearch);
+        });
+    </script>
+    
+    <a class="sr-only" href="#main_content">Skip to main content</a>
+
+    <div class="off-canvas position-left is-closed hide-for-large bg-white p-2" id="mobile_menu" data-off-canvas="" data-nested="" data-content-overlay="false">
+        <button type="button" class="close-button" data-close=""><span aria-hidden="true">×</span></button>
+
+        <h4>Menu</h4>
+        <div id="mobile_menu_drilldown_wrapper">
+            <ul class="vertical menu drilldown" data-drilldown="">
+                <li>
                     <a href="https://hub.kirkwood.edu">MyHub</a>
                 </li>
-                                <li>
+                <li>
                     <a href="https://eaglenet.kirkwood.edu/">EagleNet</a>
                 </li>
-                                <li>
+                <li>
                     <a href="https://talon.kirkwood.edu/d2l/lp/auth/saml/login">Talon</a>
                 </li>
-                                <li>
+                <li>
                     <a href="https://outlook.com/owa/saml2.kirkwood.edu">Student Email</a>
                 </li>
-                                <li>
+                <li>
                     <a href="#" role="button">
-                        Future Students                    </a>
+                        Future Students </a>
                     <ul class="menu vertical nested">
-                                                    <li>
-                                <a href="/apply">
-                                    Apply                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/admissions">
-                                    Admissions                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/adult">
-                                    Adult Learner                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/visit">
-                                    Campus Visit                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/housing">
-                                    Housing                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/scholarships">
-                                    Scholarships                                </a>
-                            </li>
-                                                </ul>
+                        <li>
+                            <a href="/apply">
+                                Apply </a>
+                        </li>
+                        <li>
+                            <a href="/admissions">
+                                Admissions </a>
+                        </li>
+                        <li>
+                            <a href="/adult">
+                                Adult Learner </a>
+                        </li>
+                        <li>
+                            <a href="/visit">
+                                Campus Visit </a>
+                        </li>
+                        <li>
+                            <a href="/housing">
+                                Housing </a>
+                        </li>
+                        <li>
+                            <a href="/scholarships">
+                                Scholarships </a>
+                        </li>
+                    </ul>
                 </li>
-                                <li>
+                <li>
                     <a href="#" role="button">
-                        Life on Campus                    </a>
+                        Life on Campus </a>
                     <ul class="menu vertical nested">
-                                                    <li>
-                                <a href="/students">
-                                    Current Students                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/studentlife">
-                                    Student Life                                </a>
-                            </li>
-                                                        <li>
-                                <a href="http://www.kirkwoodeagles.com">
-                                    Athletics                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/ballantyne">
-                                    Visual &amp; Performing Arts                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/reccenter">
-                                    Rec Center                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/deanofstudents">
-                                    Student Support                                </a>
-                            </li>
-                                                </ul>
+                        <li>
+                            <a href="/students">
+                                Current Students </a>
+                        </li>
+                        <li>
+                            <a href="/studentlife">
+                                Student Life </a>
+                        </li>
+                        <li>
+                            <a href="http://www.kirkwoodeagles.com">
+                                Athletics </a>
+                        </li>
+                        <li>
+                            <a href="/ballantyne">
+                                Visual &amp; Performing Arts </a>
+                        </li>
+                        <li>
+                            <a href="/reccenter">
+                                Rec Center </a>
+                        </li>
+                        <li>
+                            <a href="/deanofstudents">
+                                Student Support </a>
+                        </li>
+                    </ul>
                 </li>
-                                <li>
+                <li>
                     <a href="#" role="button">
-                        Academics                    </a>
+                        Academics </a>
                     <ul class="menu vertical nested">
-                                                    <li>
-                                <a href="/academics">
-                                    Academics                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/programs">
-                                    Majors/Programs                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/studentservices">
-                                    Academic Resources                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/international">
-                                    International Programs                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/distancelearning">
-                                    Online Classes                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/earncredit">
-                                    College Credit in High School                                </a>
-                            </li>
-                                                </ul>
+                        <li>
+                            <a href="/academics">
+                                Academics </a>
+                        </li>
+                        <li>
+                            <a href="/programs">
+                                Majors/Programs </a>
+                        </li>
+                        <li>
+                            <a href="/studentservices">
+                                Academic Resources </a>
+                        </li>
+                        <li>
+                            <a href="/international">
+                                International Programs </a>
+                        </li>
+                        <li>
+                            <a href="/distancelearning">
+                                Online Classes </a>
+                        </li>
+                        <li>
+                            <a href="/earncredit">
+                                College Credit in High School </a>
+                        </li>
+                    </ul>
                 </li>
-                                <li>
+                <li>
                     <a href="#" role="button">
-                        Continuing Education                    </a>
+                        Continuing Education </a>
                     <ul class="menu vertical nested">
-                                                    <li>
-                                <a href="/ce">
-                                    Continuing Education                                </a>
-                            </li>
-                                                        <li>
-                                <a href="https://kirkwood.augusoft.net/index.cfm?fuseaction=1010&amp;&amp;">
-                                    Courses by Category                                </a>
-                            </li>
-                                                        <li>
-                                <a href="https://kirkwood.augusoft.net/index.cfm?fuseaction=1070&amp;">
-                                    Search for a Class                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/ktos">
-                                    Corporate Training                                </a>
-                            </li>
-                                                </ul>
+                        <li>
+                            <a href="/ce">
+                                Continuing Education </a>
+                        </li>
+                        <li>
+                            <a href="https://kirkwood.augusoft.net/index.cfm?fuseaction=1010&amp;&amp;">
+                                Courses by Category </a>
+                        </li>
+                        <li>
+                            <a href="https://kirkwood.augusoft.net/index.cfm?fuseaction=1070&amp;">
+                                Search for a Class </a>
+                        </li>
+                        <li>
+                            <a href="/ktos">
+                                Corporate Training </a>
+                        </li>
+                    </ul>
                 </li>
-                                <li>
+                <li>
                     <a href="#" role="button">
-                        Alumni &amp; Giving                    </a>
+                        Alumni &amp; Giving </a>
                     <ul class="menu vertical nested">
-                                                    <li>
-                                <a href="/foundation">
-                                    Foundation                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/site/index.php?p=13168">
-                                    Give to Kirkwood                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/alumni">
-                                    Alumni &amp; Friends                                </a>
-                            </li>
-                                                </ul>
+                        <li>
+                            <a href="/foundation">
+                                Foundation </a>
+                        </li>
+                        <li>
+                            <a href="/site/index.php?p=13168">
+                                Give to Kirkwood </a>
+                        </li>
+                        <li>
+                            <a href="/alumni">
+                                Alumni &amp; Friends </a>
+                        </li>
+                    </ul>
                 </li>
-                                <li>
+                <li>
                     <a href="#" role="button">
-                        About Us                    </a>
+                        About Us </a>
                     <ul class="menu vertical nested">
-                                                    <li>
-                                <a href="/ataglance">
-                                    At a Glance                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/site/index.php?p=39436">
-                                    Leadership                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/site/index.php?p=25509">
-                                    Mission, Vision and Values                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/site/index.php?p=2032">
-                                    Board of Trustees                                </a>
-                            </li>
-                                                        <li>
-                                <a href="https://kirkwoodonlinenews.org">
-                                    News &amp; Events                                </a>
-                            </li>
-                                                        <li>
-                                <a href="/hr">
-                                    Human Resources                                </a>
-                            </li>
-                                                </ul>
+                        <li>
+                            <a href="/ataglance">
+                                At a Glance </a>
+                        </li>
+                        <li>
+                            <a href="/site/index.php?p=39436">
+                                Leadership </a>
+                        </li>
+                        <li>
+                            <a href="/site/index.php?p=25509">
+                                Mission, Vision and Values </a>
+                        </li>
+                        <li>
+                            <a href="/site/index.php?p=2032">
+                                Board of Trustees </a>
+                        </li>
+                        <li>
+                            <a href="https://kirkwoodonlinenews.org">
+                                News &amp; Events </a>
+                        </li>
+                        <li>
+                            <a href="/hr">
+                                Human Resources </a>
+                        </li>
+                    </ul>
                 </li>
-                        </ul>
+                                <li> <hr> </li>
+                <li> Page Links </li>
+                <!-- display links -->
+                                <li><a href="/helpdesk">TS Service &amp; Support</a></li>
+                                                                <!--display related links-->
+                            </ul>
+        </div>
     </div>
-</div>
 
-<div data-sticky-container="">
-    <div data-sticky="" data-top-anchor="1" data-margin-top="0" data-sticky-on="small" id="header_sticky">
-        <div class="bg-white" id="header_white">
-            <div class="grid-x align-justify align-middle">
-                <div class="cell shrink grid-x" style="position: relative;">
-                    <div class="hide-for-large cell shrink flex-container">
-                        <button class="button m-0 kirkwood hollow border-0" type="button" data-open="mobile_menu" style="height: 100%;" title="Open Menu">
-                            <span aria-hidden="true"><i class="fas fa-bars"></i></span>
-                            <span class="show-for-sr">Open Menu</span>
-                        </button>
-                    </div>
-                    <div class="cell auto">
-                        <a href="https://www.kirkwood.edu">
-                            <img id="nameplate" src="/includes/homepageFoundation2018/img/kirkwood_nameplate_blue.png" alt="Kirkwood Community College Logo">
-                        </a>
-                    </div>
-                </div>
-
-                <div class="cell auto flex-container align-right align-center base-search show-for-large" style="position: relative" id="desktop_header_white_right" data-toggler=".in-search">
-                    <div class="flex-child-auto flex-container align-right align-middle" style="position: relative">
-                        <div id="header_top_links" class="flex-container align-middle align-right" style="position: absolute; flex-wrap: nowrap;">
-                                                            <a class="px-2" href="https://hub.kirkwood.edu">MyHub</a>
-                                                                <a class="px-2" href="https://eaglenet.kirkwood.edu/">EagleNet</a>
-                                                                <a class="px-2" href="https://talon.kirkwood.edu/d2l/lp/auth/saml/login">Talon</a>
-                                                                <a class="px-2" href="https://outlook.com/owa/saml2.kirkwood.edu">Student Email</a>
-                                                        </div>
+    <div data-sticky-container="">
+        <div data-sticky="" data-top-anchor="1" data-margin-top="0" data-sticky-on="small" id="header_sticky">
+            <div class="bg-white" id="header_white">
+                <div class="grid-x align-justify align-middle">
+                    <div class="cell shrink grid-x" style="position: relative;">
+                        <div class="hide-for-large cell shrink flex-container">
+                            <button class="button m-0 kirkwood hollow border-0" type="button" data-open="mobile_menu" style="height: 100%;" title="Open Menu">
+                                <span aria-hidden="true"><i class="fas fa-bars"></i></span>
+                                <span class="show-for-sr">Open Menu</span>
+                            </button>
+                        </div>
+                        <div class="cell auto">
+                            <a href="https://www.kirkwood.edu">
+                                <img id="nameplate" src="/includes/homepageFoundation2018/img/kirkwood_nameplate_blue.png" alt="Kirkwood Community College Logo">
+                            </a>
+                        </div>
                     </div>
 
-                    <div class="flex-container align-right align-center pr-2" style="z-index: 1;">
-                        <button class="button kirkwood hollow border-0 m-0" id="desktop_search" title="Open Search Box" data-toggle="desktop_header_white_right" onclick="$('#homepage_search').focus();">
+                    <div class="cell auto flex-container align-right align-center base-search show-for-large" style="position: relative" id="desktop_header_white_right" data-toggler=".in-search">
+                        <div class="flex-child-auto flex-container align-right align-middle" style="position: relative">
+                            <div id="header_top_links" class="flex-container align-middle align-right" style="position: absolute; flex-wrap: nowrap;">
+                                <a class="px-2" href="https://hub.kirkwood.edu">MyHub</a>
+                                <a class="px-2" href="https://eaglenet.kirkwood.edu/">EagleNet</a>
+                                <a class="px-2" href="https://talon.kirkwood.edu/d2l/lp/auth/saml/login">Talon</a>
+                                <a class="px-2" href="https://outlook.com/owa/saml2.kirkwood.edu">Student Email</a>
+                            </div>
+                        </div>
+
+                        <div class="flex-container align-right align-center pr-2" style="z-index: 1;">
+                            <button class="button kirkwood hollow border-0 m-0 bg-white" id="desktop_search" title="Open Search Box" data-toggle="desktop_header_white_right" onclick="$('#homepage_search').focus();">
+                                <span aria-hidden="true"><i class="fas fa-fw fa-search"></i></span>
+                                <span class="show-for-sr">Open search box</span>
+                            </button>
+
+                            <div class="search-wrapper flex-container align-right align-middle flex-child-auto">
+                                <form action="/search" method="get" class="flex-child-auto">
+                                    <input type="text" placeholder="Search Kirkwood" id="homepage_search" tabindex="-1" name="q" class="m-0">
+                                </form>
+
+                                <button class="button kirkwood hollow border-0 m-0" onclick="closeDesktopSearch();">
+                                    <span aria-hidden="true"><i class="fas fa-fw fa-times"></i></span>
+                                    <span class="show-for-sr">Close search box</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="cell shrink hide-for-large">
+                        <button class="button kirkwood hollow border-0 m-0" title="Open Search Box" onclick="toggleMobileSearch();">
                             <span aria-hidden="true"><i class="fas fa-fw fa-search"></i></span>
                             <span class="show-for-sr">Open search box</span>
                         </button>
-
-                        <div class="search-wrapper flex-container align-right align-middle flex-child-auto">
-                            <form action="https://www.kirkwood.edu/search" method="get" class="flex-child-auto">
-                                <input type="text" placeholder="Search Kirkwood" id="homepage_search" tabindex="-1" name="q" class="m-0">
-                            </form>
-
-                            <button class="button kirkwood hollow border-0 m-0" onclick="closeDesktopSearch();">
-                                <span aria-hidden="true"><i class="fas fa-fw fa-times"></i></span>
-                                <span class="show-for-sr">Close search box</span>
-                            </button>
+                    </div>
+                </div>
+            </div>
+            <div class="bg-white hide-for-large flex-container p-2" id="mobile_search_wrapper">
+                <form action="/search" method="get" class="flex-child-auto">
+                    <input type="text" id="mobile_search" name="q" class="m-0" placeholder="Search Kirkwood" tabindex="-1">
+                </form>
+            </div>
+            <div class="bg-kirkwood show-for-large" id="header_blue">
+                <div class="grid-container">
+                    <div class="grid-x ">
+                        <div class="cell">
+                            <ul class="dropdown menu flex-container align-spaced" data-dropdown-menu="" id="header_dropdown_menu">
+                                <li>
+                                    <a href="#Future Students" role="button">Future Students <span aria-hidden="true"><i class="fas fa-fw fa-caret-down"></i></span></a>
+                                    <ul class="menu">
+                                        <li>
+                                            <a href="/apply">Apply</a>
+                                        </li>
+                                        <li>
+                                            <a href="/admissions">Admissions</a>
+                                        </li>
+                                        <li>
+                                            <a href="/adult">Adult Learner</a>
+                                        </li>
+                                        <li>
+                                            <a href="/visit">Campus Visit</a>
+                                        </li>
+                                        <li>
+                                            <a href="/housing">Housing</a>
+                                        </li>
+                                        <li>
+                                            <a href="/scholarships">Scholarships</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#Life on Campus" role="button">Life on Campus <span aria-hidden="true"><i class="fas fa-fw fa-caret-down"></i></span></a>
+                                    <ul class="menu">
+                                        <li>
+                                            <a href="/students">Current Students</a>
+                                        </li>
+                                        <li>
+                                            <a href="/studentlife">Student Life</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.kirkwoodeagles.com">Athletics</a>
+                                        </li>
+                                        <li>
+                                            <a href="/ballantyne">Visual &amp; Performing Arts</a>
+                                        </li>
+                                        <li>
+                                            <a href="/reccenter">Rec Center</a>
+                                        </li>
+                                        <li>
+                                            <a href="/deanofstudents">Student Support</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#Academics" role="button">Academics <span aria-hidden="true"><i class="fas fa-fw fa-caret-down"></i></span></a>
+                                    <ul class="menu">
+                                        <li>
+                                            <a href="/academics">Academics</a>
+                                        </li>
+                                        <li>
+                                            <a href="/programs">Majors/Programs</a>
+                                        </li>
+                                        <li>
+                                            <a href="/studentservices">Academic Resources</a>
+                                        </li>
+                                        <li>
+                                            <a href="/international">International Programs</a>
+                                        </li>
+                                        <li>
+                                            <a href="/distancelearning">Online Classes</a>
+                                        </li>
+                                        <li>
+                                            <a href="/earncredit">College Credit in High School</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#Continuing Education" role="button">Continuing Education <span aria-hidden="true"><i class="fas fa-fw fa-caret-down"></i></span></a>
+                                    <ul class="menu">
+                                        <li>
+                                            <a href="/ce">Continuing Education</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://kirkwood.augusoft.net/index.cfm?fuseaction=1010&amp;&amp;">Courses
+                                                by Category</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://kirkwood.augusoft.net/index.cfm?fuseaction=1070&amp;">Search
+                                                for a Class</a>
+                                        </li>
+                                        <li>
+                                            <a href="/ktos">Corporate Training</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#Alumni &amp; Giving" role="button">Alumni &amp; Giving <span aria-hidden="true"><i class="fas fa-fw fa-caret-down"></i></span></a>
+                                    <ul class="menu">
+                                        <li>
+                                            <a href="/foundation">Foundation</a>
+                                        </li>
+                                        <li>
+                                            <a href="/site/index.php?p=13168">Give to Kirkwood</a>
+                                        </li>
+                                        <li>
+                                            <a href="/alumni">Alumni &amp; Friends</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#About Us" role="button">About Us <span aria-hidden="true"><i class="fas fa-fw fa-caret-down"></i></span></a>
+                                    <ul class="menu">
+                                        <li>
+                                            <a href="/ataglance">At a Glance</a>
+                                        </li>
+                                        <li>
+                                            <a href="/site/index.php?p=39436">Leadership</a>
+                                        </li>
+                                        <li>
+                                            <a href="/site/index.php?p=25509">Mission, Vision and Values</a>
+                                        </li>
+                                        <li>
+                                            <a href="/site/index.php?p=2032">Board of Trustees</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://kirkwoodonlinenews.org">News &amp; Events</a>
+                                        </li>
+                                        <li>
+                                            <a href="/hr">Human Resources</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
-
-                <div class="cell shrink hide-for-large">
-                    <button class="button kirkwood hollow border-0 m-0" title="Open Search Box" onclick="toggleMobileSearch();">
-                        <span aria-hidden="true"><i class="fas fa-fw fa-search"></i></span>
-                        <span class="show-for-sr">Open search box</span>
-                    </button>
-                </div>
             </div>
-        </div>
-        <div class="bg-white hide-for-large flex-container p-2" id="mobile_search_wrapper">
-            <form action="https://www.kirkwood.edu/search" method="get" class="flex-child-auto">
-                <input type="text" id="mobile_search" name="q" class="m-0" placeholder="Search Kirkwood" tabindex="-1">
-            </form>
-        </div>
-        <div class="bg-kirkwood show-for-large" id="header_blue">
-            <div class="grid-container">
-                <div class="grid-x ">
-                    <div class="cell">
-                        <ul class="dropdown menu flex-container align-spaced" data-dropdown-menu="" id="header_dropdown_menu">
-                                                            <li>
-                                    <a href="#Future Students" role="button">Future Students <span aria-hidden="true"><i class="fas fa-fw fa-caret-down"></i></span></a>
-                                    <ul class="menu">
-                                                                                    <li>
-                                                <a href="/apply">Apply</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/admissions">Admissions</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/adult">Adult Learner</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/visit">Campus Visit</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/housing">Housing</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/scholarships">Scholarships</a>
-                                            </li>
-                                                                                </ul>
-                                </li>
-                                                                <li>
-                                    <a href="#Life on Campus" role="button">Life on Campus <span aria-hidden="true"><i class="fas fa-fw fa-caret-down"></i></span></a>
-                                    <ul class="menu">
-                                                                                    <li>
-                                                <a href="/students">Current Students</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/studentlife">Student Life</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="http://www.kirkwoodeagles.com">Athletics</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/ballantyne">Visual &amp; Performing Arts</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/reccenter">Rec Center</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/deanofstudents">Student Support</a>
-                                            </li>
-                                                                                </ul>
-                                </li>
-                                                                <li>
-                                    <a href="#Academics" role="button">Academics <span aria-hidden="true"><i class="fas fa-fw fa-caret-down"></i></span></a>
-                                    <ul class="menu">
-                                                                                    <li>
-                                                <a href="/academics">Academics</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/programs">Majors/Programs</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/studentservices">Academic Resources</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/international">International Programs</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/distancelearning">Online Classes</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/earncredit">College Credit in High School</a>
-                                            </li>
-                                                                                </ul>
-                                </li>
-                                                                <li>
-                                    <a href="#Continuing Education" role="button">Continuing Education <span aria-hidden="true"><i class="fas fa-fw fa-caret-down"></i></span></a>
-                                    <ul class="menu">
-                                                                                    <li>
-                                                <a href="/ce">Continuing Education</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="https://kirkwood.augusoft.net/index.cfm?fuseaction=1010&amp;&amp;">Courses by Category</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="https://kirkwood.augusoft.net/index.cfm?fuseaction=1070&amp;">Search for a Class</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/ktos">Corporate Training</a>
-                                            </li>
-                                                                                </ul>
-                                </li>
-                                                                <li>
-                                    <a href="#Alumni &amp; Giving" role="button">Alumni &amp; Giving <span aria-hidden="true"><i class="fas fa-fw fa-caret-down"></i></span></a>
-                                    <ul class="menu">
-                                                                                    <li>
-                                                <a href="/foundation">Foundation</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/site/index.php?p=13168">Give to Kirkwood</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/alumni">Alumni &amp; Friends</a>
-                                            </li>
-                                                                                </ul>
-                                </li>
-                                                                <li>
-                                    <a href="#About Us" role="button">About Us <span aria-hidden="true"><i class="fas fa-fw fa-caret-down"></i></span></a>
-                                    <ul class="menu">
-                                                                                    <li>
-                                                <a href="/ataglance">At a Glance</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/site/index.php?p=39436">Leadership</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/site/index.php?p=25509">Mission, Vision and Values</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/site/index.php?p=2032">Board of Trustees</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="https://kirkwoodonlinenews.org">News &amp; Events</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="/hr">Human Resources</a>
-                                            </li>
-                                                                                </ul>
-                                </li>
-                                                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
 
+        </div>
     </div>
-</div>
-<!-- Department 1450 -->
-<!-- Page 38445 -->
-<!-- Template ID 107 -->
+    <!-- Department 1450 -->
+    <!-- Page 38445 -->
+    <!-- Header Template ID 107 -->
 
 
 
 
 
 
-<!--Template 109-->
-<div class="page_contents_wrap bg-light grid-x">
-    <div class="medium-8 small-12 p-4">
+<!--Template 112-->
+<div class="page_contents_wrap bg-light grid-x align-center">
+    <div class="cell medium-8 small-12 p-4">
                 <nav role="navigation">
             <ul class="breadcrumbs">
                 <li><a href="/technologyservices">Technology Services</a></li><li><a href="/privacypolicy">Privacy Policy</a></li>
@@ -532,14 +540,6 @@ Periodically, this privacy statement may be updated to accommodate changes to ou
 If you have any questions or comments about our stance and approach to Privacy, you may send us an email <a href="mailto:privacy@kirkwood.edu">privacy@kirkwood.edu</a><br>
 <br>
 <span style="color:#999999;"><span style="font-size:10px;">last revision date: 05/24/2018</span></span>    </div>
-    <div class="medium-4 small-12 p-4" style="padding-left:0px!important;padding-top:0px!important;margin-top:-1px;">
-        <div style="border-left: 1px solid #005399;padding-top:9.3px;margin-left:-1px;">
-                        <ul class="vertical menu">
-                <!-- display links -->
-                                <li><a href="/helpdesk">TS Service &amp; Support</a></li>
-                            </ul>
-                    </div>
-    </div>
 </div><!--page-contents--><!--Template ID 108 -->
 
 <!-- Divider -->
@@ -627,7 +627,7 @@ If you have any questions or comments about our stance and approach to Privacy, 
     <div class="grid-x grid-padding-x footer">
         <div class="cell large-9">
             <div class="flex-container flex-dir-column large-flex-dir-row">
-                <div class="pr-4 pb-2 pb-large-0">© 2018</div>
+                <div class="pr-4 pb-2 pb-large-0">© 2019</div>
                 <div class="pr-4 pb-2 pb-large-0">6301 Kirkwood Blvd. SW, Cedar Rapids, Iowa 52404</div>
                 <div class="pr-4 pb-2 pb-large-0">
                     <a href="tel:+13193985411" class="link-inherit">
