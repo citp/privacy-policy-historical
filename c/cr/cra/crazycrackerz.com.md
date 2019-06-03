@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazycrackerz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005445id_/http%3A//crazycrackerz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazycrackerz.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604004408id_/http%3A//crazycrackerz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — CrazyCrackerz.com
 
@@ -25,15 +25,13 @@ Any of the information we collect from you may be used in one of the following w
 • To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-• To process transactions  
-
+• To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 • To administer a contest, promotion, survey or other site feature
 
-• To send periodic emails  
-
+• To send periodic emails
 
 > The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
