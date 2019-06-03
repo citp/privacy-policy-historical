@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roombookingsystem.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230063905id_/http%3A//www.schoolcloudsystems.co.uk/privacy-notice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roombookingsystem.co.uk privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603095348id_/http%3A//www.schoolcloudsystems.co.uk/privacy-notice.asp) for the most accurate reproduction.*
 
 # School Cloud Systems - Contact Us
 
