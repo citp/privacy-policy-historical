@@ -1,15 +1,36 @@
-<!--The following is the downloaded HTML source of the voanews.com privacy policy that was archived on 2018-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221171339id_/https%3A//www.voanews.com/p/5338.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the voanews.com privacy policy that was archived on 2019-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190603203918id_/https%3A//www.voanews.com/p/5338.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr" class="js"><head>
 <script src="https://tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.js" type="text/javascript" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N8MP7P"></script><script src="//tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.sync.js"></script> <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
 <script type="text/javascript">
 //a general 'js' detection, must be on top level in <head>, due to CSS performance
 document.documentElement.className = "js";
-var cacheBuster = "107";
+var cacheBuster = "117";
 var appBaseUrl = "/";
 var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
 var isLoggingEnabled = true;
+var pwaEnabled;
+</script>
+<script type="text/javascript">
+// register service worker if supported
+// Serviceworker file needs to exist in root folder, because it defines its scope = it can itercept only requests below it in the tree structure
+window.addEventListener('load', function () {
+if ('serviceWorker' in navigator && (pwaEnabled || typeof OneSignal != 'undefined')) {
+var sw = '/OneSignalSDKWorker.js';
+if (typeof OneSignal != 'undefined') {
+sw = sw + '?appId='+OneSignal.config.appId;
+}
+if (pwaEnabled) {
+sw = sw.indexOf('?') > -1 ? sw + ',pwa=true' : sw + '?pwa=true';
+}
+navigator.serviceWorker.register(sw).then(function (registration) {
+console.log('ServiceWorker registration successful with scope: ', registration.scope);
+}, function (err) {
+console.log('ServiceWorker registration failed: ', err);
+});
+}
+});
 </script>
 <meta charset="utf-8">
 <title>Privacy Notice VOA News</title>
@@ -35,10 +56,12 @@ var isLoggingEnabled = true;
 <meta content="VOA" property="og:site_name">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@voanews">
-<link href="/Content/responsive/VOA/en-US/VOA-en-US.css?&amp;av=7.29.0.0&amp;cb=107" rel="stylesheet">
-<script src="/Scripts/responsive/infographics.b?v=SoOwxR3GP1g_2rVvUJRa8ALUqwaBS2Bj7UH6Ua1r74Y1?&amp;av=7.29.0.0&amp;cb=107"></script>
-<script src="/Scripts/responsive/loader.b?v=6RR_RBAPlPBhXA2I_CLVsCYBpS1QmrKMrmzYdbRWUkQ1?&amp;av=7.29.0.0&amp;cb=107"></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"MenuSection","inLanguage":"en-US","mainEntityOfPage":"https://www.voanews.com/p/5338.html","url":"https://www.voanews.com/p/5338.html","headline":"Privacy Notice","name":"Privacy Notice","author":{"@type":"Organization","name":"VOA"},"creator":{"@type":"Organization","name":"VOA"},"image":{"@type":"ImageObject","url":"https://www.voanews.com/Content/responsive/VOA/en-US/img/logo-amp.png","width":1080,"height":608},"datePublished":"2019-06-03","dateModified":"2019-06-03 20:39:19Z","keywords":"Voice of America, VOA, privacy notice ","publisher":{"@type":"Organization","url":"https://www.voanews.com","sameAs":["https://www.facebook.com/voiceofamerica","https://twitter.com/voanews","https://www.youtube.com/user/VOAvideo","https://www.instagram.com/voanews/","/rssfeeds","/podcasts","/subscribe.html"],"name":"VOA","logo":{"@type":"ImageObject","url":"https://www.voanews.com/Content/responsive/VOA/en-US/img/logo-amp.png","width":150,"height":60}},"description":"Privacy notice for English website, Voice of America "}</script>
+<link href="/Content/responsive/VOA/en-US/VOA-en-US.css?&amp;av=7.32.0.0&amp;cb=117" rel="stylesheet">
+<script src="/Scripts/responsive/infographics.b?v=HJdvKzzr83Zig6Z_kvpz_S_k_jghQSfpmGkIFpPWqko1?&amp;av=7.32.0.0&amp;cb=117"></script>
+<script src="/Scripts/responsive/loader.b?v=ikvvZzFaGjZXlZ2Oq-NbHnrZPDPG9TJyujdM2YTzhQQ1&amp;av=7.32.0.0&amp;cb=117"></script>
 <link rel="shortcut icon" href="/Content/responsive/VOA/img/webApp/favicon.ico">
+<link rel="apple-touch-icon" sizes="152x152" href="/Content/responsive/VOA/img/webApp/ico-152x152.png">
 <link rel="apple-touch-icon" sizes="144x144" href="/Content/responsive/VOA/img/webApp/ico-144x144.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/Content/responsive/VOA/img/webApp/ico-114x114.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/Content/responsive/VOA/img/webApp/ico-72x72.png">
@@ -61,7 +84,7 @@ if (renderGtm === "true") {
 </script>
 <!--Analytics tag js version start-->
 <script type="text/javascript">
-var utag_data={entity:"VOA",language:"English",language_service:"VOA English",short_language_service:"ENG",property_id:"461",platform:"Responsive",platform_short:"R",runs_js:"Yes",page_title:"Privacy Notice",page_type:"Section",page_name:"Privacy Notice",short_headline:"Privacy Notice",long_headline:"Privacy Notice",headline:"Privacy Notice",content_type:"index",subcontent_type:"section index",enviro_type:"prod",pub_year:"2015",pub_month:"07",pub_day:"14",pub_hour:"00",pub_minute:"00",pub_weekday:"Tuesday",slug:"privacy-notice-responsive",section:"Privacy Notice",english_section:"privacy-notice-responsive"};
+var utag_data={entity:"VOA",language:"English",language_service:"VOA English",short_language_service:"ENG",property_id:"461",platform:"Responsive",platform_short:"R",runs_js:"Yes",page_title:"Privacy Notice",page_type:"section index",page_name:"Privacy Notice",short_headline:"Privacy Notice",long_headline:"Privacy Notice",content_type:"index",subcontent_type:"section index",enviro_type:"prod",url:"https://www.voanews.comp/5338.html",domain:"www.voanews.com",pub_year:"2015",pub_month:"07",pub_day:"14",pub_hour:"00",pub_minute:"00",pub_weekday:"Tuesday",slug:"privacy-notice-responsive",section:"privacy notice",english_section:"privacy-notice-responsive"};
 if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
 var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
 if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
@@ -70,7 +93,7 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <!--Analytics tag js version end-->
 <!-- Analytics tag management NoScript -->
 <noscript>
-<img style="position: absolute" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoaenglish-bbgprod-bbgentityvoa-bbgunitvoaenglish/1/G.4--NS/478209781?pageName=voa%3aeng%3ar%3asection%3aprivacy+notice&amp;c6=privacy+notice&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=privacy+notice&amp;v7=D=c7&amp;c16=voa+english&amp;v16=D=c16&amp;c5=privacy-notice-responsive&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=index&amp;v4=D=c4&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" border="0" width="1" height="1" /></noscript>
+<img style="position: absolute" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoaenglish-bbgprod-bbgentityvoa-bbgunitvoaenglish/1/G.4--NS/1628858250?pageName=voa%3aeng%3ar%3asection%20index%3aprivacy%20notice&amp;c6=privacy%20notice&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c16=voa%20english&amp;v16=D=c16&amp;c5=privacy-notice-responsive&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=index&amp;v4=D=c4&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" border="0" width="1" height="1" /></noscript>
 <!-- End of Analytics tag management NoScript -->
 <!--*** Accessibility links - For ScreenReaders only ***-->
 <section>
@@ -105,7 +128,7 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 </a>
 </li>
 <li class="action action-menu">
-<a href="/navigation.html">
+<a href="/navigation.html" class="link-js">
 <span class="ico ico-menu"></span>
 <span class="arrow-open"></span>
 </a>
@@ -114,8 +137,8 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <div class="actions">
 <div class="actions__safe-wrap">
 <div class="action action-entity-sites">
-<a href="/navigation/allsites" class="" data-smoothscroll="disabled">
-<span class="ico ico-languages"></span> <span class="name">Languages</span>
+<a href="/navigation/allsites" class="action__link" data-smoothscroll="disabled">
+<span class="ico ico-languages"></span> <span class="action__txt action__txt--entity-sites">Languages</span>
 <span class="arrow-open"></span>
 </a>
 </div>
@@ -140,11 +163,6 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <li>
 <a href="https://www.instagram.com/voanews/" title="Follow us on Instagram" class="btn btn--rounded btn-instagram" target="_blank">
 <span class="ico ico-instagram ico--nobg"></span>
-</a>
-</li>
-<li>
-<a href="https://plus.google.com/112189007157857171173/posts" title="Follow us on Google+" class="btn btn--rounded btn-g-plus" target="_blank">
-<span class="ico ico-g-plus ico--nobg"></span>
 </a>
 </li>
 </ul>
@@ -260,7 +278,7 @@ World
 </div>
 </li>
 <li class=" item">
-<a class="handler" href="/p/6290.html">Technology</a> </li>
+<a class="handler" href="https://www.voanews.com/p/press-freedom.html">Press Freedom</a> </li>
 <li class=" item">
 <a class="handler" href="/p/6289.html">Science &amp; Health</a> </li>
 <li class=" item">
@@ -291,6 +309,7 @@ World
 <div class="container">
 <ul class="items">
 <li class="item" id="tube-116">
+<span class="tube-name">VOA English TV</span>
 <div class="inner">
 <ul>
 <li class="media-block-wrap hlight">
@@ -300,18 +319,69 @@ World
 <ul>
 <li>
 <div class="media-block horizontal has-img size-3">
-<a href="/a/4710940.html" class="img-wrap" title="Africa 54">
+<a href="/a/4943755.html" class="img-wrap" title="Africa 54">
 <div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/99B4E6F9-DEB4-440A-927F-FFE5E900C7EF_w66_r1.jpg" src="">
+<img data-src="https://gdb.voanews.com/99B4E6F9-DEB4-440A-927F-FFE5E900C7EF_w66_r1.jpg" src="" alt=" ">
 </div>
 <span class="ico ico-video ico--media-type"></span>
 </a>
 <div class="content">
-<a href="/a/4710940.html">
+<a href="/a/4943755.html">
 <h4 class="media-block__title">
 <span class="title">Africa 54</span>
 </h4>
 </a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="media-block-wrap upcoming indent-time">
+<h3 class="section-head">Upcoming</h3>
+<div class="">
+<ul class="">
+<li>
+<div class="media-block horizontal with-date date--time size-4">
+<div class="content">
+<span class="date date--time">12:30 - 12:59</span>
+<h4 class="media-block__title">
+<span class="ico ico-video"></span>
+<span class="title">Africa 54</span>
+</h4>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="item" id="tube-233">
+<span class="tube-name">VOA English TVMC09</span>
+<div class="inner">
+<ul>
+<li class="media-block-wrap hlight">
+<a class="tube-name" href="/Navigation/LiveVideo/#tube-233">VOA English TVMC09</a>
+<h3 class="section-head">Latest show</h3>
+<div>
+<ul>
+</ul>
+</div>
+</li>
+<li class="media-block-wrap upcoming indent-time">
+<h3 class="section-head">Upcoming</h3>
+<div class="">
+<ul class="">
+<li>
+<div class="media-block horizontal with-date date--time size-4">
+<div class="content">
+<span class="date date--time">12:30 - 13:00</span>
+<h4 class="media-block__title">
+<span class="ico ico-video"></span>
+<span class="title">Shaka: Extra Time</span>
+</h4>
 </div>
 </div>
 </li>
@@ -346,18 +416,18 @@ World
 <ul>
 <li>
 <div class="media-block horizontal with-date date--time has-img size-3">
-<a href="/live/audio/60" class="img-wrap" title="International Edition 1305 EDT">
+<a href="/live/audio/60" class="img-wrap" title="African Beat">
 <div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/1F6D96BC-0584-48FA-BE84-23F2B0884B6B_cx0_cy21_cw0_w66_r1.png" src="">
+<img data-src="https://gdb.voanews.com/38CEF907-F6F1-40A7-AC67-CDE6A3271344_w66_r1.png" src="" alt=" ">
 </div>
 <span class="ico ico-audio ico--media-type"></span>
 </a>
 <div class="content">
-<span class="date date--time">12:05 - 12:30</span>
+<span class="date date--time">16:00 - 17:00</span>
 <a href="/live/audio/60">
 <h4 class="media-block__title">
 <span class="badge badge--live">LIVE</span>
-<span class="title">International Edition 1305 EDT</span>
+<span class="title">African Beat</span>
 </h4>
 </a>
 </div>
@@ -373,18 +443,7 @@ World
 <li>
 <div class="media-block horizontal with-date date--time size-4">
 <div class="content">
-<span class="date date--time">12:30 - 13:00</span>
-<h4 class="media-block__title">
-<span class="ico ico-audio"></span>
-<span class="title">Sonny Side of Sports</span>
-</h4>
-</div>
-</div>
-</li>
-<li>
-<div class="media-block horizontal with-date date--time size-4">
-<div class="content">
-<span class="date date--time">13:00 - 13:05</span>
+<span class="date date--time">17:00 - 17:05</span>
 <h4 class="media-block__title">
 <span class="ico ico-audio"></span>
 <span class="title">VOA Newscasts</span>
@@ -395,10 +454,21 @@ World
 <li>
 <div class="media-block horizontal with-date date--time size-4">
 <div class="content">
-<span class="date date--time">13:05 - 13:30</span>
+<span class="date date--time">17:05 - 17:30</span>
 <h4 class="media-block__title">
 <span class="ico ico-audio"></span>
-<span class="title">Africa News Tonight</span>
+<span class="title">Soul Lounge</span>
+</h4>
+</div>
+</div>
+</li>
+<li>
+<div class="media-block horizontal with-date date--time size-4">
+<div class="content">
+<span class="date date--time">17:30 - 18:00</span>
+<h4 class="media-block__title">
+<span class="ico ico-audio"></span>
+<span class="title">Soul Lounge</span>
 </h4>
 </div>
 </div>
@@ -420,18 +490,18 @@ World
 <ul>
 <li>
 <div class="media-block horizontal with-date date--time has-img size-3">
-<a href="/live/audio/91" class="img-wrap" title="International Edition">
+<a href="/live/audio/91" class="img-wrap" title="African Beat">
 <div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/1F6D96BC-0584-48FA-BE84-23F2B0884B6B_cx0_cy21_cw0_w66_r1.png" src="">
+<img data-src="https://gdb.voanews.com/ECD44AC9-6733-4671-9989-0E9DF3940696_w66_r1.jpg" src="" alt=" ">
 </div>
 <span class="ico ico-audio ico--media-type"></span>
 </a>
 <div class="content">
-<span class="date date--time">12:00 - 12:30</span>
+<span class="date date--time">16:00 - 17:00</span>
 <a href="/live/audio/91">
 <h4 class="media-block__title">
 <span class="badge badge--live">LIVE</span>
-<span class="title">International Edition</span>
+<span class="title">African Beat</span>
 </h4>
 </a>
 </div>
@@ -447,18 +517,7 @@ World
 <li>
 <div class="media-block horizontal with-date date--time size-4">
 <div class="content">
-<span class="date date--time">12:30 - 13:00</span>
-<h4 class="media-block__title">
-<span class="ico ico-audio"></span>
-<span class="title">Sonny Side of Sports</span>
-</h4>
-</div>
-</div>
-</li>
-<li>
-<div class="media-block horizontal with-date date--time size-4">
-<div class="content">
-<span class="date date--time">13:00 - 13:05</span>
+<span class="date date--time">17:00 - 17:05</span>
 <h4 class="media-block__title">
 <span class="ico ico-audio"></span>
 <span class="title">VOA Newscasts</span>
@@ -469,10 +528,21 @@ World
 <li>
 <div class="media-block horizontal with-date date--time size-4">
 <div class="content">
-<span class="date date--time">13:05 - 13:30</span>
+<span class="date date--time">18:00 - 18:05</span>
 <h4 class="media-block__title">
 <span class="ico ico-audio"></span>
-<span class="title">African News Tonight</span>
+<span class="title">VOA Newscasts</span>
+</h4>
+</div>
+</div>
+</li>
+<li>
+<div class="media-block horizontal with-date date--time size-4">
+<div class="content">
+<span class="date date--time">21:00 - 21:05</span>
+<h4 class="media-block__title">
+<span class="ico ico-audio"></span>
+<span class="title">VOA Newscasts</span>
 </h4>
 </div>
 </div>
@@ -496,7 +566,7 @@ World
 <div class="media-block horizontal has-img size-3">
 <a href="/live/audio/92" class="img-wrap" title="VOA1 – The Hits">
 <div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/00000000-0000-0000-0000-000000000000_w66_r1.gif" src="">
+<img data-src="https://gdb.voanews.com/38CEF907-F6F1-40A7-AC67-CDE6A3271344_w66_r1.png" src="" alt=" ">
 </div>
 <span class="ico ico-audio ico--media-type"></span>
 </a>
@@ -507,6 +577,46 @@ World
 <span class="title">VOA1 – The Hits</span>
 </h4>
 </a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="media-block-wrap upcoming indent-time">
+<h3 class="section-head">Upcoming</h3>
+<div class="">
+<ul class="">
+<li>
+<div class="media-block horizontal with-date date--time size-4">
+<div class="content">
+<span class="date date--time">18:05 - 18:30</span>
+<h4 class="media-block__title">
+<span class="ico ico-audio"></span>
+<span class="title">Soul Lounge</span>
+</h4>
+</div>
+</div>
+</li>
+<li>
+<div class="media-block horizontal with-date date--time size-4">
+<div class="content">
+<span class="date date--time">18:30 - 19:00</span>
+<h4 class="media-block__title">
+<span class="ico ico-audio"></span>
+<span class="title">Soul Lounge</span>
+</h4>
+</div>
+</div>
+</li>
+<li>
+<div class="media-block horizontal with-date date--time size-4">
+<div class="content">
+<span class="date date--time">11:05 - 12:00</span>
+<h4 class="media-block__title">
+<span class="ico ico-audio"></span>
+<span class="title">Border Crossings</span>
+</h4>
 </div>
 </div>
 </li>
@@ -527,14 +637,14 @@ World
 <ul>
 <li>
 <div class="media-block horizontal has-img size-3">
-<a href="/a/4690237.html" class="img-wrap" title="VOA Newscasts">
+<a href="/a/4924083.html" class="img-wrap" title="VOA Newscasts">
 <div class="thumb thumb16_9">
-<img data-src="https://gdb.voanews.com/24BC5993-7DFA-4E90-ACB8-3F49BA4EB924_w66_r1.png" src="">
+<img data-src="https://gdb.voanews.com/24BC5993-7DFA-4E90-ACB8-3F49BA4EB924_w66_r1.png" src="" alt=" ">
 </div>
 <span class="ico ico-audio ico--media-type"></span>
 </a>
 <div class="content">
-<a href="/a/4690237.html">
+<a href="/a/4924083.html">
 <h4 class="media-block__title">
 <span class="title">VOA Newscasts</span>
 </h4>
@@ -552,7 +662,7 @@ World
 <li>
 <div class="media-block horizontal with-date date--time size-4">
 <div class="content">
-<span class="date date--time">13:00 - 13:04</span>
+<span class="date date--time">17:00 - 17:04</span>
 <h4 class="media-block__title">
 <span class="ico ico-audio"></span>
 <span class="title">VOA Newscasts</span>
@@ -563,7 +673,7 @@ World
 <li>
 <div class="media-block horizontal with-date date--time size-4">
 <div class="content">
-<span class="date date--time">14:00 - 14:04</span>
+<span class="date date--time">18:00 - 18:04</span>
 <h4 class="media-block__title">
 <span class="ico ico-audio"></span>
 <span class="title">VOA Newscasts</span>
@@ -574,7 +684,7 @@ World
 <li>
 <div class="media-block horizontal with-date date--time size-4">
 <div class="content">
-<span class="date date--time">15:00 - 15:04</span>
+<span class="date date--time">19:00 - 19:04</span>
 <h4 class="media-block__title">
 <span class="ico ico-audio"></span>
 <span class="title">VOA Newscasts</span>
@@ -691,13 +801,13 @@ World
 <li class="c-hlights__item">
 <a href="/live/audio/60">
 <span class="ico ico-audio"></span>
-International Edition 1305 EDT
+African Beat
 </a>
 </li>
 <li class="c-hlights__item">
 <a href="/live/audio/91">
 <span class="ico ico-audio"></span>
-International Edition
+African Beat
 </a>
 </li>
 <li class="c-hlights__item">
@@ -872,11 +982,6 @@ Follow Us
 </a>
 </li>
 <li>
-<a href="https://plus.google.com/112189007157857171173/posts" title="Follow us on Google+" class="btn btn--rounded btn-g-plus" target="_blank">
-<span class="ico ico-g-plus ico--rounded"></span>
-</a>
-</li>
-<li>
 <a href="/rssfeeds" title="RSS" class="btn btn--rounded btn-rss">
 <span class="ico ico-rss ico--rounded"></span>
 </a>
@@ -1039,7 +1144,7 @@ document.getElementsByTagName("body")[0].className += " is-not-mobile";
 }
 }
 </script>
-<script src="/conf.js?x=107" type="text/javascript"></script>
+<script src="/conf.js?x=117" type="text/javascript"></script>
 <div class="responsive-indicator">
 <div class="visible-xs-block">XS</div>
 <div class="visible-sm-block">SM</div>
