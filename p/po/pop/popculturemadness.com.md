@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the popculturemadness.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617051748id_/https%3A//popculturemadness.com/PCM/privacy-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popculturemadness.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603142319id_/https%3A//popculturemadness.com/PCM/privacy-copyright) for the most accurate reproduction.*
 
-# Privacy & Copyright | Pop Culture Madness!
+# Privacy & Copyright -
 
 **Privacy & Copyright**
 
-PopCultureMadness.com respects the principles of copyright. The images on this website, including,  photographs, art,  drawings, paintings, prints, or other two-dimensional work of art, and the copyright for it is most likely owned by either the artist who produced the image, the photographer(s), the person who commissioned or bought the work, or the heirs thereof.
+Pop Culture Madness respects the principles of copyright. The images on this website, including,  photographs, art,  drawings, paintings, prints, or other two-dimensional work of art, and the copyright for it is most likely owned by either the artist who produced the image, the person who commissioned or bought the work, or the heirs thereof.
 
-It is believed that the use of low-resolution images of works of art and other visual identifiers such as drawing and/or photographs qualifies as fair use under United States copyright law for both critical commentary and educational use, although several paid-for sources for photography are used for our websites, in addition to our own staff. We actively try to give credit when known.  If you use any of our pictures for your website, we ask that you give credit to the photographer and a link to the source website.
+It is believed that the use of low-resolution images of works of art and other visual identifiers such as drawing and/or photographs qualifies as fair use under United States copyright law for both critical commentary and educational use, although we use several paid-for sources for photography we use for our websites. If you use any of our pictures for your website, we ask that you give credit to the photographer and a link to the source website.
 
-If you are the owner(s) of any of these works, we will gladly link to your website or include specific copyright information, or work with you to insure proper credit for the information and creative content included on each page of the website. The websites in the Pop Culture Madness network include: [Pop Culture Madness](https://popculturemadness.com/), [PCM World News](https://www.pcmworldenews.com/) , [World of Pop Culture](https://www.worldofpopculture.com/), [PCM Lifestyle](https://pcmlifestyle.com/) , [PopCulture.us](https://www.pop-culture.us/) , [Hot Pop Songs](https://www.hotpopsongs.com/), [PCM Television](https://www.pcm-tv.com/) , [PCM Reviews](https://www.pcmreviews.com/news/) , [Pop Culture.net](https://www.pop-culture.net/) , [aMyth](https://www.amyth.com/), [unskinnypop.com](https://www.unskinnypop.com/) ,[TheRockRevival](https://therockrevival.com/), [AgeoftheNerd](https://ageofthenerd.com/) and  [Try It Today](thhp://tryittoday.com)
+If you are the owner(s) of any of these works, we will gladly link to your website or include specific copyright information, or work with you to insure proper credit for the information and creative content included on each page of the website. See our **Digital Millennium Copyright Act** section below.
 
-[Fair Use Checklist](https://copyright.columbia.edu/copyright/fair-use/fair-use-checklist/)
+The websites in the Pop Culture Madness network include: [Pop Culture Madness](https://popculturemadness.com/), [PCM World News](http://www.pcmworldenews.com/) , [World of Pop Culture](http://www.worldofpopculture.com/), [PCM Lifestyle](https://pcmlifestyle.com/) , [PopCulture.us](http://www.pop-culture.us/) , [Hot Pop Songs](http://www.hotpopsongs.com/), [PCM Reviews](https://www.pcmreviews.com/news/) , [Pop Culture.net](http://www.pop-culture.net/) , [aMyth](http://www.amyth.com/), [unskinnypop.com](http://www.unskinnypop.com/) , [Try It Today.com](https://tryittoday.com/), [AgeoftheNerd.com](http://ageofthenerd.com/), [TVGrapevine.com](https://:www.tvgrapevine.com), [GameON.media](https://gameon.media/), [DangermanMedia.com](https://dangermanmedia.com/)
 
-Everything else © copyright 1999-2017 Pop Culture Madness, unless stated otherwise.
+**[Fair Use Checklist](http://copyright.columbia.edu/copyright/fair-use/fair-use-checklist/)**
+
+Everything else © copyright 1999-2019 Pop Culture Madness, unless stated otherwise.
 
 _Privacy Statement: We will not sell, give or share any personal information, including e-mail addresses, of any of our visitors to anyone outside of Pop Culture Madness. com or our affiliated network sites. We do not accept any stealth or spyware advertisers or third party sponsors of such programs. Pop Culture Madness. com and affiliated sites do not send spam, offer get-rich-quick schemes, offer or suggest “enhancement” devices or medications via e-mail._
 
@@ -24,15 +26,80 @@ PCM does use third-party advertising companies, such as google, to serve ads whe
 
 This Privacy Policy covers all of the sites on the Pop Culture Madness network.
 
-The Privacy Policy governs your access to and use of the PCM, websites, and applications offered by Pop Culture Madness (the “PCM”). Please read this statement carefully before using or proceeding to access PCM. Your use of PCM indicates that you have read and understood this Privacy Policy and indicates your agreement to abide by the Terms of Use in effect and to be subject to this policy.
+The Privacy Policy governs your access to and use of the PCM, websites, and applications offered by Pop Culture Madness (“PCM”). Please  
+read this statement carefully before using or proceeding to access PCM. Your use of PCM indicates that you have read and understood this Privacy Policy and indicates your agreement to abide by the Terms of Use in effect and to be subject to this policy.
 
 PCM or third parties may collect information from our users at several different websites on PCM.
+
+Disclaimer – Pop Culture Madness (PCM) and our affiliated sites is protected from liability under the DMCA (Digital Millenium Copyright Act) and “Safe Harbor” provisions.
+
+The articles are written by volunteers who do not make a profit off of their work. As we strive to maintain and uphold our journalism integrity; if we are asked to take down anything due to copyright infringement we will and it will not be put back up after that. No questions asked. Visit our General Use Page for details.
+
+General Use:  
+The information contained in this website is for general information purposes only. The information is provided by Pop Culture Madness or any of our affiliated sites, and while we endeavor to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+
+In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+
+Through this website you are able to link to other websites which are not under the control of PCM or any of our affiliated sites . We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+
+Every effort is made to keep the website up and running smoothly. However, Pop Culture Madness and our affiliated sites takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+
+User-Generated Material  
+For the purposes of this condition, the term “user-generated material” shall refer to any information, content, or any other media uploaded, posted, emailed, submitted, or otherwise communicated to Pop Culture Madness or any of our affiliated sites via any method or any other content communication or submission medium or forum.
+
+By sharing any contribution or user-generated content (including any text, photographs, graphics, video, audio or any other type of media or content) with Pop Culture Madness, or any of our affiliated sites, you agree to grant us, free of charge, permission to use the material in any way we deem fit (including the modification, reproduction, re-purposing, or deletion of it). You hereby confirm that your contribution is your own original work, is not defamatory and does not infringe upon any laws of the country from which you are utilizing this site, nor the laws of Canada, The United States of America or the European Union and that you have the full rights to accept this condition. You also maintain your own full reprinting or publishing rights without further compensation to, or permission needed from, Pop Culture Madness and/or it’s affiated sites.
+
+Image Use
+
+Pop Culture Madness and our affiliated sites claim no credit for any images posted on this site unless otherwise noted. Images on this site are copyright to its respectful owners. If there is an image appearing on this site that belongs to you and do not wish for it appear on this (or affilaited) site, please E-mail us report@popculturemadness.com with a link to said story with the image and it will be promptly removed, or accredited as per your request.
+
+For purposes of these Terms of Use, “content” is defined as any information, data, communications, software, photos, video, graphics, music, sounds, and other material and services that can be viewed by users on our site. This includes message boards, chat, and other original content.
+
+By accepting these Terms of Use, you acknowledge and agree that all content presented to you on this site is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws, and is the sole property of Pop Culture Madness and/or its affiliated websites and properties. You are only permitted to use the content as expressly authorized by us or the specific content provider. Except for a single copy made for personal use only, you may not copy, reproduce, modify, republish, upload, post, transmit, or distribute any documents or information from this site in any form or by any means without prior written permission from us or the specific content provider, and you are solely responsible for obtaining permission before reusing any copyrighted material that is available on this site. Any unauthorized use of the materials appearing on this site may violate copyright, trademark and other applicable laws and could result in criminal or civil penalties.
+
+Neither we or our affiliates warrant or represent that your use of materials displayed on, or obtained through, this site will not infringe the rights of third parties. See “UserÂ’s Materials” below for a description of the procedures to be followed in the event that any party believes that content posted on this site infringes on any patent, trademark, trade secret, copyright, right of publicity, or other proprietary right of any party.
+
+All custom graphics, icons, logos and service names are registered trademarks, trademarks or service marks of Pop Culture Madness or its Affiliates. All other trademarks or service marks are property of their respective owners. Nothing in these Terms of Use grants you any right to use any trademark, service mark, logo, and/or the name of Cosmic Book News or its Affiliates.
+
+**Unauthorized Use of Materials**
+
+Subject to our Privacy Policy, any communication or material that you transmit to this site or to us, whether by electronic mail, post, or other means, for any reason, will be treated as non-confidential and non-proprietary. While you retain all rights in such communications or material, you grant us and our agents and affiliates a non-exclusive, paid-up, perpetual, and worldwide right to copy, distribute, display, perform, publish, translate, adapt, modify, and otherwise use such material for any purpose regardless of the form or medium (now known or not currently known) in which it is used.
+
+Please do not submit confidential or proprietary information to us unless we have mutually agreed in writing otherwise. We are also unable to accept your unsolicited ideas or proposals, so please do not submit them to us in any circumstance.
+
+It is our policy to expeditiously respond to proper notices of alleged copyright infringement that comply with the United States Digital Millennium Copyright Act (DMCA), (the text of which can be found at the U.S. Copyright Office Web Site, [https://www.copyright.gov](https://www.copyright.gov/)).
+
+It is expected that all users of any part of the Pop Culture Madness network will comply with applicable copyright laws. If, however, we receive proper notification of claimed copyright infringement, our response to such notices will include removing or disabling access to material claimed to be the subject of infringing activity and/or terminating contributors, regardless of whether we may be liable for such infringement under United States law or the laws of another jurisdiction.
+
+**Digital Millennium Copyright Act**
+
+We respect the intellectual property of others, and we ask you to do the same. If you or any user of this site believes its copyright, trademark or other property rights have been infringed by a posting on this site, you or the user should send notification to our Designated Agent (as identified below) immediately. To be effective, the notification must include:
+
+1\. Identify in sufficient detail the copyrighted work that you believe has been infringed upon or other information sufficient to specify the copyrighted work being infringed). A link to the pages in question will suffice.  
+2\. Identify the material that you claim is infringing the copyrighted work listed in item #1 above.  
+3\. Provide information reasonably sufficient to permit us to contact you (email address is preferred, a phone number can keep it friendly).  
+4\. Provide information, if possible, sufficient to permit us to notify the owner/administrator of the allegedly infringing webpage or other content (email address is preferred, along with a phone number).  
+5\. Include the following statement: “I have a good faith belief that use of the copyrighted materials described above as allegedly infringing is not authorized by the copyright owner, its agent, or the law.”  
+6\. Include the following statement: “I swear, under penalty of perjury, that the information in the notification is accurate and that I am the copyright owner or am authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.”  
+7\. Sign the paper.  
+8\. Send the written communication to the following addresses:  
+*for a phyiscal address, we require a verbal conversation via telephone.
+
+Designated Agent for Claimed Infringement:
+
+Contact: Joe Hummel III  
+joehummeliii@gmail.com
+
+You acknowledge and agree that upon receipt of a notice of a claim of copyright infringement, we may immediately remove the identified materials from our site without liability to you or any other party and that the claims of the complaining party and the party that originally posted the materials will be referred to the United States Copyright Office for adjudication as provided in the Digital Millennium Copyright Act.
+
+In accordance with Section 512(i)(1)(A) of the DMCA, Pop Culture Madness.com and our affiliated websites and properties will, in appropriate circumstances, disable and/or terminate the accounts of contributors who are repeat infringers.
 
 **Mailing Lists & Service Emails**
 
 PCM may launch a mailing list, in order to provide subscribers with relevant information – breaking news, or weekly or daily round-ups, for example. In order to sign up to receive regular emails from a site’s mailing list, users must submit information including a valid email address and demographic information such as location and interests. Entering any PCM or affiliated contest may put you on our mailing list.
 
-This information may be used in aggregate form in order to assess general user interest in various internal and third party products and PCM. Your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list may receive regular emails from the site.
+This information may be used in aggregate form in order to assess general user interest in various internal and third party products  
+and PCM. Your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list may receive regular emails from the site.
 
 PCM may from time to time track user email usage in a continued effort to improve our PCM. Most of the time, these communications will consist of content from the site in question, but we may occasionally send out an email from a third party sponsor. Since editorial independence is critical to us, you can be sure that we will always mark sponsored content as such, including in emails. If you do not wish to receive emails from third party advertisers, please do not sign up for the mailing list.
 
@@ -73,9 +140,9 @@ PCM does not provide any Personally Identifiable Information to third-party adve
 Opt-out – As part of our commitment to transparency and your privacy, we provide the following links to opt-out of cookies provided by both our first party ad server and many third party advertising partners who may be engaging in online behavioral advertising:
 
 First Party Opt-out – Please visit this link to opt-out of cookies from  
-our first party ad serving vendor, Google: [//www.google.com/privacy/ads/](https://www.google.com/privacy/ads/)
+our first party ad serving vendor, Google: [http://www.google.com/privacy/ads/](https://www.google.com/privacy/ads/)
 
-Third Party and Online Behavioral Advertising Opt-out – Please visit this link to opt-out of cookies from over 50+ major third party behavioral advertising providers: [//www.aboutads.info/choices/](https://www.aboutads.info/choices/)
+Third Party and Online Behavioral Advertising Opt-out – Please visit this link to opt-out of cookies from over 50+ major third party behavioral advertising providers: <http://www.aboutads.info/choices/>
 
 **Contests, Sweepstakes, and Promotions**
 
@@ -91,6 +158,6 @@ PCM has technical, administrative and physical safeguards in place to help prote
 
 Whenever PCM changes its privacy policy, we will post those changes to this Privacy Policy page, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. The prior version of our Privacy Policy is found here and more on why we’ve made the most recent changes here. You are responsible for reviewing and becoming familiar with any changes to this agreement.
 
-If you become aware of a security issue, please email us at office[at] popculturemadness [dot] com. We will work with you to address any problems.
+If you become aware of a security issue, please email our webmaster at joehummeliii[at] gmail [dot] com. We will work with you to address any problems.
 
-If you have any questions or suggestions regarding our privacy policy, please contact the office[at] popculturemadness [dot] com., or by mail to Pop Culture Madness, 336 East Edgewater Way, Newark DE 19702
+If you have any questions or suggestions regarding our privacy policy, please the above address.
