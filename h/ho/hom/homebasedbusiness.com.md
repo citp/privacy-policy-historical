@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebasedbusiness.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201063109id_/http%3A//homebasedbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebasedbusiness.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604002129id_/http%3A//homebasedbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home Based Business
 
