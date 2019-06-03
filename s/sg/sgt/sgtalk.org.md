@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sgtalk.org privacy policy that was archived on 2018-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180720200751id_/http%3A//sgtalk.org/mybb/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgtalk.org privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603133041id_/https%3A//sgtalk.org/mybb/privacy.html) for the most accurate reproduction.*
 
 # 
 
-This Privacy Policy governs the manner in which SG Talk collects, uses, maintains and discloses information collected from users (each, a "User") of the [sgtalk.org](https://web.archive.org/web/20180720200751id_/http%3A//sgtalk.org/mybb/sgtalk.org) website ("Site"). This privacy policy applies to the Site and all products and services offered by SG Talk.
+This Privacy Policy governs the manner in which SG Talk collects, uses, maintains and discloses information collected from users (each, a "User") of the [sgtalk.org](https://web.archive.org/web/20190603133041id_/https%3A//sgtalk.org/mybb/sgtalk.org) website ("Site"). This privacy policy applies to the Site and all products and services offered by SG Talk.
 
 **Personal identification information**
 
@@ -47,9 +47,9 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[SG Talk](https://web.archive.org/web/20180720200751id_/http%3A//sgtalk.org/mybb/sgtalk.org)  
-[sgtalk.org](https://web.archive.org/web/20180720200751id_/http%3A//sgtalk.org/mybb/sgtalk.org)  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+[SG Talk](https://web.archive.org/web/20190603133041id_/https%3A//sgtalk.org/mybb/sgtalk.org)  
+[sgtalk.org](https://web.archive.org/web/20190603133041id_/https%3A//sgtalk.org/mybb/sgtalk.org)  
+alleggsinonebasket@gmail.com  
+alleggsinonebasket@gmail.com
 
 This document was last updated on June 09, 2014
