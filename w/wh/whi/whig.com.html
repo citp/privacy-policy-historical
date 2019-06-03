@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the whig.com privacy policy that was archived on 2018-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181203172745id_/https%3A//www.whig.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whig.com privacy policy that was archived on 2019-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190603134700id_/https%3A//www.whig.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <!--begin static inclusion of WSI assets-->
     <link href="/css/wsi.css" rel="stylesheet">
-    <script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=4&amp;cb=1418766772"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://webwidgets.wsi.com/wxwidget.loader.js?cid=551399521"></script>
+    <script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=9&amp;cb=1889554494"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://webwidgets.wsi.com/wxwidget.loader.js?cid=551399521"></script>
     <!--end static inclusion of WSI assets-->
     <meta charset="ISO-8859-1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -36,7 +36,8 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdn.syncronex.com/libs/v1.7/syncLoginSdk.js"></script>
     <!-- GOOGLE TAG MANAGER DATA LAYER - INSERT EXTRA DATA METRICS HERE -->
     <script>
       var _sf_startpt=(new Date()).getTime();
@@ -60,7 +61,7 @@
       dimension1 = "|";
       for(i = 1; i < 6; i++){
         if(dataLayer[0]['ArticleByline' + i]){
-            dimension1 = dimension1 + dataLayer[0]['ArticleByline' + i] + "|";
+          dimension1 = dimension1 + dataLayer[0]['ArticleByline' + i] + "|";
         }
       }
       dimension1 = dimension1.replace('&apos;', "'");
@@ -142,14 +143,46 @@
             <li class="smlarge"><a href="https://www.whig.com/classifieds"><strong>Classifieds</strong></a></li>
           </ul>
         </div>
-        <div class="col-sm-2 text-center small">December 3, 2018</div>
+        <div class="col-sm-2 text-center small">June 3, 2019</div>
         <div class="col-sm-5">
           <ul class="pull-right list-inline">
-            
-            <li class="smlarge"><a href="https://syncaccess-qni-hw.syncronex.com/qni/hw/account/logon?op=fedAuth&amp;returnURL=https://www.whig.com/apps/pbcs.dll/exec?name=requesttoken.php5"><strong>Log In</strong></a></li>
+            <li class="smlarge font-color-666666 check-status-view"><strong>Checking status...</strong></li>
+            <li class="smlarge font-color-666666 logged-in-view" style="display:none;"><strong>Welcome <span id="userNameSpan">???</span></strong></li>
+            <li class="smlarge logged-out-view dropdown" style="display:none;">
+              <a title="User dashboard" class="dropdown-toggle" href="" data-toggle="dropdown"><strong>Log In</strong></a>
+              <div class="dropdown-menu padding-20 padding-top-0 padding-bottom-0">
+                <form class="form logged-out-view" id="newLoginForm">
+                  <div>
+                    <div class="form-group">
+                      <h4>Sign in</h4>
+                      <div class="border-top-c3c3c3 margin-top-15"></div>
+                    </div>
+                    <div class="has-error" style="display:none" id="loginForError"><div class="control-label">User Name or Password is incorrect</div></div>
+                    <div class="form-group"><input type="email" class="form-control" id="inputEmail" placeholder="Email address"></div>
+                    <div class="form-group"><input type="password" class="form-control" id="inputPassword" placeholder="Password"></div>
+                    <div class="form-group">
+                      <div class="pull-right"><a href="https://syncaccess-qni-hw.syncronex.com/portal/#/resetpasswordrequest">Forgot your password?</a></div><br><br>
+                      <button id="submit" type="button" class="btn btn-default background-0098d1 font-color-white">SIGN IN</button>
+                    </div>
+                    <div class="form-group">
+                    <div class="form-group">
+                      <div class="border-top-c3c3c3 margin-top-15"></div>
+                      <h4>Are you a subscriber without a login?</h4>
+                      <a class="btn btn-default background-0098d1-force font-color-white" href="https://syncaccess-qni-hw.syncronex.com/portal/#/activation">ACTIVATE YOUR ACCOUNT</a>
+                    </div>
+                    <div class="form-group">
+                      <div class="border-top-c3c3c3 margin-top-15"></div>
+                      <h4>Do you want unlimited online access?</h4>
+                      <a class="btn btn-default background-0098d1-force font-color-white" href="/subscribe">SUBSCRIBE NOW</a>
+                    </div>
+                  </div>
+                
+              </div></form>
+            </div></li>
             <li class="divider font-color-d5d5d5 smlarge">|</li>
-            <li class="smlarge"><a href="/subscribe"><strong>Subscribe</strong></a></li>
-
+            <li class="smlarge font-color-666666 check-status-view"><strong>...</strong></li>
+            <li class="smlarge logged-in-view" style="display:none;"><a id="btnLogout" href="javascript:void(0)"><strong>Logout</strong></a></li>
+            <li class="smlarge logged-out-view" style="display:none;"><a href="/subscribe"><strong>Subscribe</strong></a></li>
             <li class="divider font-color-d5d5d5 smlarge">|</li>
             <li class="smlarge"><a href="https://www.whig.com/contact-us"><strong>Customer Service</strong></a></li>
           </ul>
@@ -219,19 +252,19 @@
                             <div class="col-xs-6 padding-right-5">
                               <ul class="list-unstyled">
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/News/Local-Briefs" class="text-uppercase" target="_self">Local Briefs</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/News/Region-News" class="text-uppercase" target="_self">Region News</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/News/Weird-News" class="text-uppercase" target="_self">Weird News</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/News/National-News" class="text-uppercase" target="_self">National News</a></li>
-                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/News/World-News" class="text-uppercase" target="_self">World News</a></li>
-                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/News/Illinois" class="text-uppercase" target="_self">Illinois News</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Business" class="text-uppercase" target="_self">Business</a></li>
                               </ul>
                             </div>
                             <div class="col-xs-6 padding-left-5">
                               <ul class="list-unstyled">
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/News/World-News" class="text-uppercase" target="_self">World News</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/News/Illinois" class="text-uppercase" target="_self">Illinois News</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/News/Missouri" class="text-uppercase" target="_self">Missouri News</a></li>
-                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/lifestories" class="text-uppercase" target="_self">Life Stories</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/news/20under40" class="text-uppercase" target="_self">20 Under 40</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/mumstheword" class="text-uppercase" target="_self">Mum's the Word</a></li>
-                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/trump" class="text-uppercase" target="_self">President Trump</a></li>
-                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/News/Quincy" class="text-uppercase" target="_self">Quincy News</a></li>
                               </ul>
                             </div>
                           </div>
@@ -267,15 +300,14 @@
                             <div class="col-xs-6 padding-right-5">
                               <ul class="list-unstyled">
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/Sports/Schucks-Clipboard" class="text-uppercase" target="_self">Schuck's Clipboard</a></li>
-                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/sports/david-adam" class="text-uppercase" target="_self">David Adam</a></li>
-                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/mikesell" class="text-uppercase" target="_self">Mat Mikesell</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Sports/Baseball" class="text-uppercase" target="_self">Baseball</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Sports/Softball" class="text-uppercase" target="_self">Softball</a></li>
                               </ul>
                             </div>
                             <div class="col-xs-6 padding-left-5">
                               <ul class="list-unstyled">
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Sports/Track" class="text-uppercase" target="_self">Track</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/sports/National-Sports" class="text-uppercase" target="_self">National Sports</a></li>
-                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Sports/Basketball" class="text-uppercase" target="_self">Basketball</a></li>
-                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Sports/Football" class="text-uppercase" target="_self">Football</a></li>
                               </ul>
                             </div>
                           </div>
@@ -370,7 +402,6 @@
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/Lifestyles/Food" class="text-uppercase" target="_self">Food</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/Lifestyles/Health" class="text-uppercase" target="_self">Health</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/Lifestyles/History" class="text-uppercase" target="_self">History</a></li>
-                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Lifestyles/Community/Youth" class="text-uppercase" target="_self">Youth</a></li>
                               </ul>
                             </div>
                           </div>
@@ -405,20 +436,20 @@
                           <div class="row margin-0">
                             <div class="col-xs-6 padding-right-5">
                               <ul class="list-unstyled">
-                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Local-Q" class="text-uppercase" target="_self">TheLocalQ.com</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/tv-listings" class="text-uppercase" target="_self">TV Listings</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/contests" class="text-uppercase" target="_self">Contests</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/clubwhig" class="text-uppercase" target="_self">Club Whig</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/menu" class="text-uppercase" target="_self">The Menu</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Things-to-Do" class="text-uppercase" target="_self">Things to Do </a></li>
                               </ul>
                             </div>
                             <div class="col-xs-6 padding-left-5">
                               <ul class="list-unstyled">
-                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Things-to-Do" class="text-uppercase" target="_self">Things to Do </a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/crossword" class="text-uppercase" target="_self">Crossword</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/sudoku" class="text-uppercase" target="_self">Sudoku</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/mahjong" class="text-uppercase" target="_self">Mahjong</a></li>
                                 <li class="margin-bottom-10 large-md text-uppercase"><a href="/trivia" class="text-uppercase" target="_self">Trivia</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Entertainment/Arts" class="text-uppercase" target="_self">Arts</a></li>
                               </ul>
                             </div>
                           </div>
@@ -443,11 +474,13 @@
             <div class="row">
               <div class="col-xs-7">
                 <ul class="list-inline margin-bottom-0 line-height-30 margin-left-5">
-                  
-                  <li class="font-color-white small"><a href="https://syncaccess-qni-hw.syncronex.com/qni/hw/account/logon?op=fedAuth&amp;returnURL=https://www.whig.com/apps/pbcs.dll/exec?name=requesttoken.php5"><strong>Log In</strong></a></li>
+                  <li class="font-color-white small logged-in-view" style="display:none;"><strong>Welcome <span id="userNameSpan1">???</span></strong></li>
+                  <li class="font-color-white small logged-out-view" style="display:none;"><a href="javascript:void(0)" onclick="if($('#mobileloginbox').is(':hidden')){$('#mobileloginbox').show();}else{$('#mobileloginbox').hide();}"><strong>Log In</strong></a></li>
+                  <li class="font-color-white small check-status-view"><strong>Checking status...</strong></li>
                   <li class="divider font-color-d5d5d5">|</li>
-                  <li class="font-color-white small"><a href="/subscribe"><strong>Subscribe</strong></a></li>
-
+                  <li class="font-color-white small logged-in-view" style="display:none;"><a href="javascript:void(0)" id="btnLogout1"><strong>Logout</strong></a></li>
+                  <li class="font-color-white small logged-out-view" style="display:none;"><a href="/subscribe"><strong>Subscribe</strong></a></li>
+                  <li class="font-color-white small check-status-view"><strong>...</strong></li>
                 </ul>
               </div>
               <div class="col-xs-5">
@@ -459,6 +492,35 @@
               </div>
             </div>
           </div>
+        </div>
+      </div>
+      <div class="row hidden-md hidden-lg" style="display:none" id="mobileloginbox">
+        <div class="col-xs-12">
+          <form class="form logged-out-view" id="newLoginForm1">
+            <div>
+              <div class="form-group">
+                <h4>Sign in</h4>
+                <div class="border-top-c3c3c3 margin-top-15"></div>
+              </div>
+              <div class="has-error" style="display:none" id="loginForError1"><div class="control-label">User Name or Password is incorrect</div></div>
+              <div class="form-group"><input type="email" class="form-control" id="inputEmail1" placeholder="Email address"></div>
+              <div class="form-group"><input type="password" class="form-control" id="inputPassword1" placeholder="Password"></div>
+              <div class="form-group">
+                <div class="pull-right"><a href="https://syncaccess-qni-hw.syncronex.com/portal/#/resetpasswordrequest">Forgot your password?</a></div><br><br>
+                <button id="submit1" type="button" class="btn btn-default background-0098d1 font-color-white">SIGN IN</button>
+              </div>
+              <div class="form-group">
+                <div class="border-top-c3c3c3 margin-top-15"></div>
+                <h4>Are you a subscriber without a login?</h4>
+                <a class="btn btn-default background-0098d1-force font-color-white" href="https://syncaccess-qni-hw.syncronex.com/portal/#/activation">ACTIVATE YOUR ACCOUNT</a>
+              </div>
+              <div class="form-group">
+                <div class="border-top-c3c3c3 margin-top-15"></div>
+                <h4>Do you want unlimited online access?</h4>
+                <a class="btn btn-default background-0098d1-force font-color-white" href="/subscribe">SUBSCRIBE NOW</a>
+              </div>
+            </div>
+          </form>
         </div>
       </div>
 
@@ -473,7 +535,7 @@
         </div>
       </div>
       <div class="row margin-bottom-15 hidden-md hidden-lg">
-        <div class="col-xs-12 small">December 3, 2018</div>
+        <div class="col-xs-12 small">June 3, 2019</div>
       </div>
 
 <!-- ARTICLE OBJECT-->
@@ -495,7 +557,7 @@
 
           
 
-          <div class="margin-bottom-10">Posted: Dec. 3, 2018 12:01 am </div>
+          <div class="margin-bottom-10">Posted: Jun. 3, 2019 12:01 am </div>
           <div class="pull-right margin-left-10 margin-top-10">
             <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.whig.com%2Fprivacy" target="_new" class="btn btn-block btn-social"><i class="fa fa-facebook social-facebook"></i></a>
             <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.whig.com%2Fprivacy" target="_new" class="btn btn-block btn-social"><i class="fa fa-twitter social-twitter"></i></a>
@@ -568,8 +630,13 @@
 
 
             
+  
+<!--News Alert-->
+
+
+
+<!-- End News Alert -->
           </div>
-          
 <!-- EMBED CODE START -->
 
 <!-- EMBED CODE END -->
@@ -592,76 +659,73 @@
               <div class="border-top-c3c3c3 margin-top-15"></div>
               <h4>Most Read</h4>
 <!-- CONTENTSTATSITEM 14 -->
-              <a rel="nofollow" href="/20181202/he-was-such-a-strong-human-being-mackenzies-legacy-is-much-more-than-soccer-success">
+              <a rel="nofollow" href="/20190602/classic-rosters-chock-full-of-talent">
                 <div class="row">
                   <div class="col-xs-2 col-sm-1 col-md-2 col-lg-1">
                     <span class="most-read margin-0 font-color-727272"><exlarge>1</exlarge></span>
                   </div>
                   <div class="col-xs-6 col-sm-7 col-md-6 col-lg-7">
-                    'He was such a strong human being': Mackenzie's legacy is much more than soccer success
+                    Classic rosters chock full of talent
                   </div>
                   <div class="col-xs-4 text-right">
-                    <img src="https://www.whig.com/apps/pbcsi.dll/storyimage/WH/20181201/ARTICLE/312029982/AR/0/AR-312029982.jpg&amp;imageversion=1200by700" class="img-responsive" alt="'He was such a strong human being': Mackenzie's legacy is much more than soccer success">
+                    <img src="https://www.whig.com/apps/pbcsi.dll/storyimage/WH/20190602/ARTICLE/306029990/AR/0/AR-306029990.jpg&amp;imageversion=1200by700" class="img-responsive" alt="Classic rosters chock full of talent">
                   </div>
                 </div>
               </a>
 <!-- CONTENTSTATSITEM 14 -->
               <div class="border-top-e5e5e5 margin-top-5 margin-bottom-5"></div>
-              <a rel="nofollow" href="/20181203/quincy-woman-takes-her-life-after-seeing-witch-doctor">
+              <a rel="nofollow" href="/20190531/traffic-flowing-again-after-evacuation-of-west-quincy-mo">
                 <div class="row">
                   <div class="col-xs-2 col-sm-1 col-md-2 col-lg-1">
                     <span class="most-read margin-0 font-color-727272"><exlarge>2</exlarge></span>
                   </div>
                   <div class="col-xs-6 col-sm-7 col-md-6 col-lg-7">
-                    Quincy woman takes her life after seeing witch doctor
+                    Traffic flowing again after evacuation of West Quincy, Mo.
                   </div>
                   <div class="col-xs-4 text-right">
-                    <img src="https://www.whig.com/apps/pbcsi.dll/storyimage/WH/20181202/ARTICLE/312039998/AR/0/AR-312039998.jpg&amp;imageversion=1200by700" class="img-responsive" alt="Quincy woman takes her life after seeing witch doctor">
+                    <img src="https://www.whig.com/apps/pbcsi.dll/storyimage/WH/20190531/ARTICLE/305319839/AR/0/AR-305319839.jpg&amp;imageversion=1200by700" class="img-responsive" alt="Traffic flowing again after evacuation of West Quincy, Mo.">
                   </div>
                 </div>
               </a>
 <!-- CONTENTSTATSITEM 14 -->
               <div class="border-top-e5e5e5 margin-top-5 margin-bottom-5"></div>
-              <a rel="nofollow" href="/20181202/hannibal-seeking-retired-learjet-for-possible-airport-display-honoring-lear">
+              <a rel="nofollow" href="/20190602/volunteers-fill-more-than-100k-sandbags-in-quincy-on-saturday">
                 <div class="row">
                   <div class="col-xs-2 col-sm-1 col-md-2 col-lg-1">
                     <span class="most-read margin-0 font-color-727272"><exlarge>3</exlarge></span>
                   </div>
                   <div class="col-xs-6 col-sm-7 col-md-6 col-lg-7">
-                    Hannibal seeking retired Learjet for possible airport display honoring Lear
+                    Volunteers fill more than 100K sandbags in Quincy on Saturday
                   </div>
                   <div class="col-xs-4 text-right">
-                    <img src="https://www.whig.com/apps/pbcsi.dll/storyimage/WH/20181202/ARTICLE/312029999/AR/0/AR-312029999.jpg&amp;imageversion=1200by700" class="img-responsive" alt="Hannibal seeking retired Learjet for possible airport display honoring Lear">
+                    <img src="https://www.whig.com/apps/pbcsi.dll/storyimage/WH/20190602/ARTICLE/306029995/AR/0/AR-306029995.jpg&amp;imageversion=1200by700" class="img-responsive" alt="Volunteers fill more than 100K sandbags in Quincy on Saturday">
                   </div>
                 </div>
               </a>
 <!-- CONTENTSTATSITEM 14 -->
               <div class="border-top-e5e5e5 margin-top-5 margin-bottom-5"></div>
-              <a rel="nofollow" href="/20181201/oswego-guard-burns-blue-devils-with-another-game-winning-shot">
+              <a rel="nofollow" href="/20190531/autopsy-set-in-death-investigation-for-body-found-on-kochs-lane">
                 <div class="row">
                   <div class="col-xs-2 col-sm-1 col-md-2 col-lg-1">
                     <span class="most-read margin-0 font-color-727272"><exlarge>4</exlarge></span>
                   </div>
-                  <div class="col-xs-6 col-sm-7 col-md-6 col-lg-7">
-                    Oswego guard burns Blue Devils with another game-winning shot
-                  </div>
-                  <div class="col-xs-4 text-right">
-                    <img src="https://www.whig.com/apps/pbcsi.dll/storyimage/WH/20181201/ARTICLE/312019820/AR/0/AR-312019820.jpg&amp;imageversion=1200by700" class="img-responsive" alt="Oswego guard burns Blue Devils with another game-winning shot">
+                  <div class="col-xs-10 col-sm-11 col-md-10 col-lg-11">
+                    Authorities identify man found dead
                   </div>
                 </div>
               </a>
 <!-- CONTENTSTATSITEM 14 -->
               <div class="border-top-e5e5e5 margin-top-5 margin-bottom-5"></div>
-              <a rel="nofollow" href="/20181130/four-graduate-from-adams-county-drug-court-in-20th-class">
+              <a rel="nofollow" href="/20190601/levee-workers-prepare-for-new-river-crest">
                 <div class="row">
                   <div class="col-xs-2 col-sm-1 col-md-2 col-lg-1">
                     <span class="most-read margin-0 font-color-727272"><exlarge>5</exlarge></span>
                   </div>
                   <div class="col-xs-6 col-sm-7 col-md-6 col-lg-7">
-                    Four graduate from Adams County Drug Court in 20th class
+                    Levee workers prepare for new river crest
                   </div>
                   <div class="col-xs-4 text-right">
-                    <img src="https://www.whig.com/apps/pbcsi.dll/storyimage/WH/20181130/ARTICLE/311309813/AR/0/AR-311309813.jpg&amp;imageversion=1200by700" class="img-responsive" alt="Four graduate from Adams County Drug Court in 20th class">
+                    <img src="https://www.whig.com/apps/pbcsi.dll/storyimage/WH/20190531/ARTICLE/306019998/AR/0/AR-306019998.jpg&amp;imageversion=1200by700" class="img-responsive" alt="Levee workers prepare for new river crest">
                   </div>
                 </div>
               </a>
@@ -689,14 +753,7 @@
                   <div class="border-top-c3c3c3 margin-top-15"></div>
           <div class="row">
             <div class="col-xs-12">
-              <h4 class="margin-bottom-0">Sign up for Email Alerts</h4>
-            </div>
-          </div>
-          <div class="row margin-bottom-0 margin-top-0">
-            <div class="col-xs-12">
-            <!--[if lte IE 8]> 
-            <div style="width: 100%; background: red; border: 1px black; padding-top: 10px; padding-bottom: 10px; color: #fff; text-align: center; font-weight: bold; font-size: 18px"> Sorry, you are using an unsupported browser. This page will not display correctly. <br /> <a href="https://www.whatbrowser.org" style="color: #fff;" target="_blank"> Please click here to upgrade to a newer browser. </a> </div> <![endif]--> 
-            <script src="https://embed-407659.secondstreetapp.com/Scripts/dist/embed.js" data-ss-embed="promotion" data-opguid="ec595fb5-1e4e-4aa0-a781-276501205845" data-routing="hash">/**/</script>
+              <script src="https://embed.secondstreetapp.com/Scripts/dist/optin.js" data-ss-embed="optin" data-design-id="276404"></script>
             </div>
           </div>
 
@@ -723,8 +780,8 @@
  <li class="divider font-color-d5d5d5 hidden-xs smlarge">|</li> <li class="margin-bottom-10"><a href="/contests">Contests</a></li>
  <li class="divider font-color-d5d5d5 hidden-xs smlarge">|</li> <li class="margin-bottom-10"><a href="http://www.whig.com/Games">Games</a></li>
  <li class="divider font-color-d5d5d5 hidden-xs smlarge">|</li> <li class="margin-bottom-10"><a href="http://www.hannibalmag.com">Hannibal Magazine</a></li>
+ <li class="divider font-color-d5d5d5 hidden-xs smlarge">|</li> <li class="margin-bottom-10"><a href="https://syncaccess-qni-hw.syncronex.com/portal/#/subscriptionmanagement/main">Manage My Account</a></li>
  <li class="divider font-color-d5d5d5 hidden-xs smlarge">|</li> <li class="margin-bottom-10"><a href="/alerts">News Alerts</a></li>
- <li class="divider font-color-d5d5d5 hidden-xs smlarge">|</li> <li class="margin-bottom-10"><a href="http://www.thelocalq.com/">TheLocalQ.com</a></li>
  <li class="divider font-color-d5d5d5 hidden-xs smlarge">|</li> <li class=""><a href="http://www.whig.com/whignow">Whig Now App</a></li>
 </ul>
         </div>
@@ -736,7 +793,7 @@
           <a href="tel:+1(217)2235100">(217) 223-5100</a>  ·  <a href="tel:+1(800)3739444">(800) 373-9444</a>
         </div>
         <div class="col-xs-12 col-sm-6 text-right margin-top-15 margin-bottom-15">
-          © Copyright 2018 <strong>The Herald-Whig</strong><br>
+          © Copyright 2019 <strong>The Herald-Whig</strong><br>
           <a href="https://www.whig.com/privacy">Privacy Policy</a> - <a href="https://www.whig.com/terms">Terms of Service</a><br>
           <a href="https://quincymediacareers.com/">Quincy Media Careers</a>
         </div>
@@ -757,17 +814,23 @@
     <script src="https://syncaccess-qni-hw.syncronex.com/qni/hw/api/scripts/syncwall"></script>
     <script src="https://www.whig.com/js/bootstrap.min.js"></script>
     <script src="https://www.whig.com/js/jquery.mobile.custom.min.js"></script>
-    <script src="https://www.whig.com/js/custom.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js"></script>
+    <script>
+      var sdk = window.syncLoginSdk;
+      sdk.applicationOrigin = 'https://syncaccess-qni-hw.syncronex.com';
+      sdk.apiTimeout = 5000;
+    </script>
+    <script src="https://www.whig.com/js/custom.js?ver=2"></script>
     <script src=""></script>
   <script type="text/javascript">
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=1418766772';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=9&cb=1889554494';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
 </script>
 
  
-<!--Updated: 2018/12/03 10:43:18--></body></html>
+<!--Updated: 2019/06/03 07:37:48--></body></html>
