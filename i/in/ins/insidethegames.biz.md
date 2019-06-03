@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231230107id_/https%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603150617id_/https%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [ ](https://www.insidethegames.biz/paralympics/winter-paralympics/2018)
+
+[](https://g.adspeed.net/ad.php?do=clk&aid=433135&oid=17289&wd=728&ht=150&pair=asemail)
 
 * * *
 
@@ -11,7 +13,7 @@
 Dunsar Media Company Limited ("We") are committed to protecting and respecting your privacy.  
 This policy (together with our [terms of use](https://web.archive.org/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Dunsar Media Company Limited of 63 Wolverton Road, Stony Stratford, Milton Keynes, Buckinghamshire, England, MK11 1EQ.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Dunsar Media Company Limited of Unit 3 Blundells Road, Bradville, Milton Keynes, Buckinghamshire, MK13 7HA, Great Britain.
 
 ### Information we may collect from you
 
