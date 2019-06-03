@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rihannanow.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125121404id_/http%3A//www.rihannanow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rihannanow.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603084716id_/http%3A//www.rihannanow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rihanna
 
