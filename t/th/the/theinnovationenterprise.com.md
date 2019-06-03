@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinnovationenterprise.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924235301id_/https%3A//www.theinnovationenterprise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinnovationenterprise.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603225234id_/https%3A//www.theinnovationenterprise.com/privacy) for the most accurate reproduction.*
 
 # The Innovation Enterprise
 
@@ -6,7 +6,7 @@
 
 Effective Date: 6/13/18
 
-Argyle Executive Forum, LLC and our affiliate brands including The Innovation Enterprise, CFO.com, and Proformative, (collectively “Argyle,” “we,” “our,” or “us”) provide this privacy policy to assist you in understanding how we collect, use, share, and otherwise process personal data that we receive through our digital properties, including data received from our web site [www.argyleforum.com](https://web.archive.org/web/20180924235301id_/https%3A//www.theinnovationenterprise.com/www.argyleforum.com), [www.channels.theinnovationenterprise.com](https://web.archive.org/web/20180924235301id_/https%3A//www.theinnovationenterprise.com/www.channels.theinnovationenterprise.com), [www.theinnovationenterprise.com](https://web.archive.org/web/20180924235301id_/https%3A//www.theinnovationenterprise.com/www.theinnovationenterprise.com), [www.ieondemand.com](https://web.archive.org/web/20180924235301id_/https%3A//www.theinnovationenterprise.com/www.ieondemand.com), [ww2.cfo.com](https://web.archive.org/web/20180924235301id_/https%3A//www.theinnovationenterprise.com/ww2.cfo.com) and [www.proformative.com](https://web.archive.org/web/20180924235301id_/https%3A//www.theinnovationenterprise.com/www.proformative.com), data received from affiliate brand web sites, or data received from third party sources, and to assist you in making informed decisions when using our web site and our products and services. 
+Argyle Executive Forum, LLC and our affiliate brands including The Innovation Enterprise, CFO.com, and Proformative, (collectively “Argyle,” “we,” “our,” or “us”) provide this privacy policy to assist you in understanding how we collect, use, share, and otherwise process personal data that we receive through our digital properties, including data received from our web site [www.argyleforum.com](https://web.archive.org/web/20190603225234id_/https%3A//www.theinnovationenterprise.com/www.argyleforum.com), [www.channels.theinnovationenterprise.com](https://web.archive.org/web/20190603225234id_/https%3A//www.theinnovationenterprise.com/www.channels.theinnovationenterprise.com), [www.theinnovationenterprise.com](https://web.archive.org/web/20190603225234id_/https%3A//www.theinnovationenterprise.com/www.theinnovationenterprise.com), [www.ieondemand.com](https://web.archive.org/web/20190603225234id_/https%3A//www.theinnovationenterprise.com/www.ieondemand.com), [ww2.cfo.com](https://web.archive.org/web/20190603225234id_/https%3A//www.theinnovationenterprise.com/ww2.cfo.com) and [www.proformative.com](https://web.archive.org/web/20190603225234id_/https%3A//www.theinnovationenterprise.com/www.proformative.com), data received from affiliate brand web sites, or data received from third party sources, and to assist you in making informed decisions when using our web site and our products and services. 
 
 ### What Information Does Argyle Collect?
 
@@ -110,7 +110,7 @@ As described in this privacy policy, we may also make your personal information 
 
 ### Changes to Our Privacy Policy
 
-If we change our information practices, we will post those changes on [www.argyleforum.com](https://web.archive.org/web/20180924235301id_/https%3A//www.theinnovationenterprise.com/www.argyleforum.com). Please visit this page periodically to learn of any updates.
+If we change our information practices, we will post those changes on [www.argyleforum.com](https://web.archive.org/web/20190603225234id_/https%3A//www.theinnovationenterprise.com/www.argyleforum.com). Please visit this page periodically to learn of any updates.
 
 ### Contact
 
