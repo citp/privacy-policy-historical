@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizzagogo.co.uk privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202124601id_/http%3A//www.pizzagogo.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzagogo.co.uk privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603142239id_/http%3A//www.pizzagogo.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Pizza GoGo
 
@@ -41,15 +41,15 @@ When you interact with us through our Services, we may collect information from 
 **c. Aggregated information:** In an ongoing effort to better understand and serve our customers of the Services, we may conduct research on our customer demographics, interests and behaviour based on the information collected. We may also disclose aggregated and anonymized user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes. 
 
 **d. Cookies:** Like almost all online websites we employ cookies and similar technologies to keep track of your local device's settings and which account you are logged into. See below section "Cookies" for more. In addition to Cookies we may also use web beacons and single pixel gifs to log Email opens.  
-See our [Cookies Policy](https://web.archive.org/web/20181202124601id_/http%3A//www.pizzagogo.co.uk/cookie-policy) for more information. 
+See our [Cookies Policy](https://web.archive.org/web/20190603142239id_/http%3A//www.pizzagogo.co.uk/cookie-policy) for more information. 
 
 **e. Cookies (third party):** We use third party web site analytic tools such as Google Analytics on our Website that employ cookies to collect certain information concerning your use of our Services. However, you can disable cookies by changing your browser settings. Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider's website via your help screen.  
 We use IP Anonymization on Google Analytics.  
-See our [Cookies Policy](https://web.archive.org/web/20181202124601id_/http%3A//www.pizzagogo.co.uk/cookie-policy) for more information. 
+See our [Cookies Policy](https://web.archive.org/web/20190603142239id_/http%3A//www.pizzagogo.co.uk/cookie-policy) for more information. 
 
 ## Cookies
 
-Please view our separate [Cookies Policy](https://web.archive.org/web/20181202124601id_/http%3A//www.pizzagogo.co.uk/cookie-policy). 
+Please view our separate [Cookies Policy](https://web.archive.org/web/20190603142239id_/http%3A//www.pizzagogo.co.uk/cookie-policy). 
 
 We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the services run by Pizza GoGo Limited. 
 
