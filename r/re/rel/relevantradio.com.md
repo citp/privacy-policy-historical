@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203223936id_/https%3A//relevantradio.com/donor-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603183848id_/https%3A//relevantradio.com/donor-privacy-policy) for the most accurate reproduction.*
 
 # Donor Privacy Policy - Relevant Radio
 
