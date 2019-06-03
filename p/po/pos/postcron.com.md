@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcron.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905175059id_/https%3A//postcron.com/en/terms_conditions_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcron.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604004209id_/https%3A//postcron.com/en/terms_conditions_privacy_policy) for the most accurate reproduction.*
 
 # Postcron - Terms and Conditions / Privacy Policy
 
