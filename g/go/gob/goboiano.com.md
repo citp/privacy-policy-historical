@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goboiano.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128020124id_/https%3A//goboiano.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goboiano.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603195531id_/https%3A//goboiano.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
