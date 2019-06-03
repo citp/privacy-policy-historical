@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirkwood.edu privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230065709id_/https%3A//www.kirkwood.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkwood.edu privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603071724id_/https%3A//www.kirkwood.edu/privacypolicy) for the most accurate reproduction.*
 
 # Kirkwood Community College - Technology Services
 
