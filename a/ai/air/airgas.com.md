@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airgas.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202135538id_/http%3A//airgas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgas.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603154217id_/http%3A//airgas.com/privacy) for the most accurate reproduction.*
 
 # Airgas
 
@@ -13,7 +13,7 @@ By using the Site, you consent to the collection and use of your information by 
 We may collect and retain information from you when you register on the Site, place an order for products or services, respond to communication such as e-mail, or participate in another Site feature. The information we learn from customers helps us personalize and continually improve your buying experience on the Site. Here are the types of information we gather:
 
   * Information You Give Us: When you are ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our Site without providing such information, but then you might not be able to take advantage of many features of the Site.
-  * Automatic Information: We receive and store certain types of information whenever you interact with us, including IP addresses and session identifiers. Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our Site. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+  * Automatic Information: We receive and store certain types of information wheneveryou interact with us, including IP addresses and session identifiers. Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our Site. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
   * Information from Other Sources: For reasons such as improving personalization of our service (for example, providing better product recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to our account information. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
 
 
@@ -92,3 +92,9 @@ To obtain this information from Company please send an email message to [eservic
 ### 13\. Children’s privacy
 
 We do not knowingly intend to collect personally identifiable information from children under 13 years of age. If a child has provided us with personally identifiable information, a parent or guardian of that child may send an email message to [eservice@airgas.com](mailto:eservice@airgas.com) with “Request for Child Information Removal” on the subject line and the name and age of the child in the body of the message. We will then make reasonable efforts to delete the child’s information from the database that stores information for the Site.
+
+### 14\. Contact Us - GDPR
+
+For any request or complaint relating to the processing of your personal data and the exercise of your rights under the General Data Protection Regulation (GDPR), you can use the contact form available [here.](https://www.airgas.com/ContactUs)
+
+This form is made available in order to be put in contact with our services in charge of the protection of personal data under GDPR in the application of Airgas’ personal data protection policy.
