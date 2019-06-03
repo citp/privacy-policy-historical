@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brooklynbowl.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624012751id_/https%3A//www.brooklynbowl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynbowl.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603112525id_/https%3A//www.brooklynbowl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brooklyn Bowl
 
-**Last Modified May 25, 2018**
+**Last Modified  April 26, 2019**
 
 We at Brooklyn Bowl are connected to you by our love for experiencing live music together. This means that sharing is one of our highest values. But maintaining the privacy of the personal information you entrust to us is just as important. This Privacy Policy explains how we use and share the information we collect through Brooklyn Bowl’s websites (collectively, the “Website”).
 
@@ -60,7 +60,7 @@ Brooklyn Bowl may share your information about you with its third party partners
 
 We may also disclose your personal information to third party service providers we engage as contractors or agents to perform services for us, such as providing payment processing and email marketing services. We share information with these contractors only to the extent reasonably necessary for them to perform these services on our behalf, and pursuant to confidentiality obligations.
 
-Brooklyn Bowl’s Website provides you with direct access to ticketing partners such as Ticketfly and AXS. Our agreements with these companies allows us to access certain information, including name, zip code and email address, they collect from you in connection with your ticket purchases.
+Brooklyn Bowl’s Website provides you with direct access to our ticketing partner Ticketfly. Our agreement with this company allows us to access certain information, including name, zip code and email address, they collect from you in connection with your ticket purchases.
 
 The Website contains social media widgets, video players and other devices that provide functionality from other third parties including: social media services such as Facebook, Instagram and others; content providers such as YouTube; music services such as Spotify and Pandora; and advertisers and advertising service providers. The placement of these widgets and of advertising units on the Website may permit these third parties to see information about you and your activities via cookies, web beacons and other technologies they place and/or access on your browser or device, even if you do not interact with them. We also utilize analytics tools for social media and advertising management and reporting which similarly access non-personally identifiable information via these technologies, including Google Analytics and Falcon Social.
 
