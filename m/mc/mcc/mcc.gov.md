@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcc.gov privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817181732id_/https%3A//www.mcc.gov/resources/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcc.gov privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603140125id_/https%3A//www.mcc.gov/resources/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy, Policies & Notices
 
@@ -19,7 +19,7 @@ General log information collected may include, but is not limited to:
   * Internet Domain (e.g. “yourcompany.com” or “youruniversity.edu”)
   * Internet Protocol (IP) address
   * Operating System
-  * Brower used to access the site (e.g. Internet Explorer, Safari, Firefox, Chrome)
+  * Browser used to access the site (e.g. Internet Explorer, Safari, Firefox, Chrome)
   * Date & Time of access
   * Pages viewed upon visit
   * Demographic categories (e.g., age range and gender)
@@ -44,42 +44,41 @@ There are two common kinds of Cookies:
 
 
 
-Because of MCC’s multi-web server configuration, any page that is served securely, where the URL starts with https:// (also known as SSL or secure socket layer), sets a persistent cookie that expires and is deleted after one hour. Typically, the only pages served securely are those containing web forms. This cookie ensures that you—the user—stay on the same web server and maintain the secure connection through the process of completing and submitting the web form. To opt-out of having this cookie set, visit [Web Measurement and Customization Opt-out](http://www.usa.gov/optout-instructions.shtml) at USA.gov.
+Because of MCC’s multi-web server configuration, any page that is served securely, where the URL starts with https:// (also known as SSL or secure socket layer), sets a persistent cookie that expires and is deleted after one hour. Typically, the only pages served securely are those containing web forms. This cookie ensures that you—the user—stay on the same web server and maintain the secure connection through the process of completing and submitting the web form. To opt-out of having this cookie set, visit [Web Measurement and Customization Opt-out](https://www.usa.gov/optout-instructions) at USA.gov.
 
 Please be aware that some of the links on the MCC website may point you to a non‐MCC site that may place persistent cookies on your computer. You can expect to be notified that you are leaving the MCC site when you select one of these links.
 
-For more information on how to “opt-out” of cookies, visit [Web Measurement and Customization Opt-out](http://www.usa.gov/optout-instructions.shtml) at USA.gov.  Users opting-out of this web measurement technology will have the same access to content as users who do not.  
+For more information on how to “opt-out” of cookies, visit [Web Measurement and Customization Opt-out](https://www.usa.gov/optout-instructions) at USA.gov. Users opting-out of this web measurement technology will have the same access to content as users who do not.
 
 ### Third-Party Website Measurement and Customization Technologies
 
 This website uses Google Analytics Premium to measure the number of visitors to its different sections, to find out what information is most viewed, and to help us make our website more useful to our visitors.
 
-Google Analytics places a persistent cookie on your computer to provide this information. This cookie does not store any personally identifiable information. (This is classified as a tier 2 tracking technology according to [OMB Memo 10-22](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf).) Learn more about [Google Analytics cookie usage on websites](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies).  
-  To opt-out of this cookie being placed on your computer, visit:
+Google Analytics places a persistent cookie on your computer to provide this information. This cookie does not store any personally identifiable information. (This is classified as a tier 2 tracking technology according to [OMB Memo 10-22](https://policy.cio.gov/web-policy/analytics).) Learn more about [Google Analytics cookie usage on websites](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies).
 
-  * [Web Measurement and Customization Opt-out](http://www.usa.gov/optout-instructions.shtml) at USA.gov,
+To opt-out of this cookie being placed on your computer, visit:
+
+  * [Web Measurement and Customization Opt-out](https://www.usa.gov/optout-instructions) at USA.gov,
   * [Opt out of Google Analytics Cookies](https://tools.google.com/dlpage/gaoptout?hl=en)
 
 
 
-Users opting-out of this web measurement technology will have the same access to content as users who do not. 
+Users opting-out of this web measurement technology will have the same access to content as users who do not.
 
-Some pages on our site may include web content or functionality from third parties, such as embedded videos hosted by non-MCC services.  For example, as of August 1, 2013, content or functionality from the following third parties may be present on some mcc.gov pages:
+Some pages on our site may include web content or functionality from third parties, such as embedded videos hosted by non-MCC services. For example, as of August 1, 2013, content or functionality from the following third parties may be present on some mcc.gov pages:
 
-  * BitsOnTheRun.com ([Privacy Policy](http://www.longtailvideo.com/privacy/));
+  * Adobe Fonts ([Privacy Policy](http://www.adobe.com/privacy.html));
   * cloud.typography ([Privacy Policy](http://www.typography.com/home/privacy.php));
-  * Google (main [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)) 
-    * Charts API ([Privacy Policy](http://www.google.com/intl/en/privacy/));
-    * Maps API ([Privacy Policy](http://www.google.com/intl/en/privacy/));
-  * SlideshowPro.com ([Privacy Policy](http://slideshowpro.net/legal/));
-  * Typekit ([Privacy Policy](http://www.adobe.com/privacy.html)); and
-  * YouTube.com ([Privacy Policy](http://www.google.com/intl/en/policies/privacy/));
+  * Google ([Privacy Policy](https://policies.google.com/privacy?hl=en))
+  * JWPlayer ([Privacy Policy](https://www.jwplayer.com/privacy/));
+  * Mapbox ([Privacy Policy](https://www.mapbox.com/privacy/)); and
+  * YouTube.com ([Privacy Policy](https://policies.google.com/privacy?hl=en))
 
 
 
-This list will be updated on a regular basis to reflect the third party providers of content or functionality that are commonly used on our website.  If you would like to receive content that is posted using one of these third-party providers without utilizing the third-party provider, please [contact us](http://www.mcc.gov/pages/contact).
+This list will be updated on a regular basis to reflect the third party providers of content or functionality that are commonly used on our website. If you would like to receive content that is posted using one of these third-party providers without utilizing the third-party provider, please [contact us](https://www.mcc.gov/contact-us).
 
-These third parties may use web measurement and customization technologies (such as cookies) in conjunction with the provision of this content or functionality.  You should consult the privacy policies of these third parties for further information.  We do not knowingly use third-party tools that place a multi-session cookie prior to the user interacting with the tool, for example by playing an embedded video.  If you become aware of a third-party tool on mcc.gov that places a multi-session cookie prior to any user interaction, please [contact us](http://www.mcc.gov/pages/contact).
+These third parties may use web measurement and customization technologies (such as cookies) in conjunction with the provision of this content or functionality. You should consult the privacy policies of these third parties for further information. We do not knowingly use third-party tools that place a multi-session cookie prior to the user interacting with the tool, for example by playing an embedded video. If you become aware of a third-party tool on mcc.gov that places a multi-session cookie prior to any user interaction, please [contact us](https://www.mcc.gov/contact-us).
 
 ### Sharing of Information
 
@@ -87,35 +86,41 @@ We do not sell, rent, or otherwise provide your personal information to outside 
 
 ### Visiting Official Millennium Challenge Corporation Pages on Third-Party Websites
 
-MCC maintains official pages or accounts on several third-party websites in order to better engage with the American public. Those websites are listed below.  Your activity on those third-party sites is governed by the security and privacy policies of the third party sites.  Users of third-party sites are often sharing information with the general public, user community, and/or the third-party operating the third-party site.  These actors may use this information in a variety of ways.  Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be used.  You should also adjust privacy settings on your account on any third-party site to match your preferences.
+MCC maintains official pages or accounts on several third-party websites in order to better engage with the American public. Those websites are listed below. Your activity on those third-party sites is governed by the security and privacy policies of the third party sites. Users of third-party sites are often sharing information with the general public, user community, and/or the third-party operating the third-party site. These actors may use this information in a variety of ways. Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be used. You should also adjust privacy settings on your account on any third-party site to match your preferences.
 
-Information which you voluntarily submit to or publish on an MCC page or a third-party site may be treated as public information.  We may, for example, publish compilations of comments collected through these MCC pages or provide them to national leaders, members of the press or other individuals outside of the federal government.
+Information which you voluntarily submit to or publish on an MCC page or a third-party site may be treated as public information. We may, for example, publish compilations of comments collected through these MCC pages or provide them to national leaders, members of the press or other individuals outside of the federal government.
 
-We exercise discretion to protect voluntarily submitted information if its disclosure would raise privacy concerns.  Except as described above, we do not sell, rent, exchange, or otherwise disclose this information to persons or organizations outside MCC.  In some cases, we may share information with other federal agencies in response to lawful law enforcement requests or to protect mcc.gov from security threats.
+We exercise discretion to protect voluntarily submitted information if its disclosure would raise privacy concerns. Except as described above, we do not sell, rent, exchange, or otherwise disclose this information to persons or organizations outside MCC. In some cases, we may share information with other federal agencies in response to lawful law enforcement requests or to protect mcc.gov from security threats.
 
 If you seek assistance on a matter within the jurisdiction of a federal agency, we may share your information with that agency for the limited purpose of addressing your request for assistance.
 
 Below is the current list of official MCC pages on third-party websites:
 
-#### Social Networks
+#### Social Networks and Multimedia
 
   * Facebook 
-    * [MCC’s Page](http://www.facebook.com/millenniumchallengecorp)
+    * [MCC’s Page](http://www.facebook.com/mccgov)
     * [Facebook’s Privacy Policy](http://www.facebook.com/privacy/explanation)
+  * Flickr 
+    * [MCC’s Page](https://www.flickr.com/photos/136328675@N08/albums)
+    * [Flickr’s Privacy Policy](https://www.flickr.com/help/privacy)
+  * Instagram 
+    * [@mccgov](https://www.instagram.com/mccgov)
+    * [Instagram’s Privacy Policy](https://www.instagram.com/legal/privacy/)
+  * Medium 
+    * [MCC’s Page](https://medium.com/@MCCgov)
+    * [Medium’s Privacy Policy](https://medium.com/policy/f03bf92035c9)
+  * SoundCloud 
+    * [MCC’s Page](https://soundcloud.com/millenniumchallenge)
+    * [SoundCloud’s Privacy Policy](https://soundcloud.com/pages/privacy)
   * Twitter 
-    * [@MCCGov](https://twitter.com/mccgov)
+    * [@MCCgov](https://twitter.com/mccgov)
     * [Twitter’s Privacy Policy](http://twitter.com/privacy)
 
-
-
-#### Video & Multimedia
 
   * YouTube 
     * [MCC’s Page](http://www.youtube.com/millenniumchallenge)
     * [YouTube’s Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
-  * iTunes 
-    * [MCC Podcasts](http://itunes.apple.com/us/podcast/mcc-podcasts/id311937935)
-    * [iTunes Privacy Policy](http://www.apple.com/privacy/)
 
 
 
@@ -131,7 +136,7 @@ In order to ensure that MCC meets or exceeds the requirements of Section 508 of 
 
 MCC links to other U.S. Government websites (domain names usually ending in “.gov”) and private organizations that we believe are relevant to our mission (domain names usually ending in “.edu,” “.com,” etc.). Once you connect with one of these linked sites, you are subject to the disclaimers, security, and privacy policies of that site.
 
-You may link to the MCC website or any of its content. MCC requests only that your identify that the link is to an Internet resource.
+You may link to the MCC website or any of its content. MCC requests only that you identify that the link is to an Internet resource.
 
 ## Disclaimers
 
@@ -164,7 +169,7 @@ Include your name, mailing address, fax number, e-mail address, telephone number
   * Describe clearly the information you believe is in error and requires correction.
   * Include the source of the information (for example, the name and date of the report or data product), the exact location of the error (for example, the page, figure, table, or Web page address), and a detailed description of the information to be corrected.
   * A copy of the specific information that the Request for Correction covers would assist the MCC in its review of your Request for Correction.
-  * State specifically why the information should be corrected and, if possible, recommend specifically how it should be corrected. 
+  * State specifically why the information should be corrected and, if possible, recommend specifically how it should be corrected.
 
 
 
