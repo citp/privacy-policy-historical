@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tnsglobal.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230173918id_/http%3A//www.tnsglobal.com/what-we-do/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnsglobal.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603111651id_/http%3A//www.tnsglobal.com/what-we-do/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy & Cookies | Kantar TNS
+# Privacy policy & Cookies | Kantar
 
 ## Privacy & Cookies Policy - tnsglobal.com
 
