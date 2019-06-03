@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208133541id_/https%3A//www.lawguru.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603100036id_/https%3A//www.lawguru.com/support/privacy_policy) for the most accurate reproduction.*
 
 # Legal Forms - Leases, Contracts, Agreements, Letters - Free Preview - LawGuru.com
 
