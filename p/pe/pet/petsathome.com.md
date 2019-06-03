@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220210428id_/http%3A//www.petsathome.com/shop/en/pets/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603182202id_/https%3A//www.petsathome.com/shop/en/pets/privacy-policy%3Fcm_mmc%3Dglobalfooter-_-TitleLink-_-Privacy_Policy-_-Oct_18) for the most accurate reproduction.*
 
 # Privacy Policy | Pets At Home
 
@@ -191,7 +191,7 @@ Back to top
 
 ### 8\. Cookies and similar tracking technology
 
-We use cookies and similar tracking technology (collectively, “Cookies”) to collect and use personal information about you. For further information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Notice [here](http://www.petsathome.com/shop/en/pets/our-cookies-policy).
+We use cookies and similar tracking technology (collectively, “Cookies”) to collect and use personal information about you. For further information about the types of Cookies we use, why, and how you can control Cookies, please see our Cookie Notice [here](https://www.petsathome.com/shop/en/pets/our-cookies-policy).
 
 Back to top
 
