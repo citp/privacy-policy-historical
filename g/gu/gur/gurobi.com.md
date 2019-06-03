@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurobi.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230045710id_/http%3A//www.gurobi.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurobi.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603223809id_/http%3A//www.gurobi.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -207,7 +207,7 @@ This Website uses Google Analytics, a web analytics service provided by Google I
 
 ### e. Marketo
 
-This Website uses Marketo, an e-mail, marketing automation and analytics service provided by Marketo, Inc., 901 Mariners Island Blvd., Suite 500, San Mateo, CA 94404, USA to assist us in sending e-mails in accordance with a person’s marketing preferences. Gurobi Optimization also uses Marketo for marketing automation and analytics on our website. Marketo uses cookies on our Website which can be rejected as explained above in section 11 c). You can also opt-out from Marketo tracking by [clicking this link](https://web.archive.org/web/20181230045710id_/http%3A//www.gurobi.com/company/privacy?marketo_opt_out=true), where we place a mkto_opt_out cookie in your browser to notify Marketo to stop tracking your use of our Website in this browser. To stop Marketo tracking on other browsers or devices, please visit this link with every browser you use on our Website.
+This Website uses Marketo, an e-mail, marketing automation and analytics service provided by Marketo, Inc., 901 Mariners Island Blvd., Suite 500, San Mateo, CA 94404, USA to assist us in sending e-mails in accordance with a person’s marketing preferences. Gurobi Optimization also uses Marketo for marketing automation and analytics on our website. Marketo uses cookies on our Website which can be rejected as explained above in section 11 c). You can also opt-out from Marketo tracking by [clicking this link](https://web.archive.org/web/20190603223809id_/http%3A//www.gurobi.com/company/privacy?marketo_opt_out=true), where we place a mkto_opt_out cookie in your browser to notify Marketo to stop tracking your use of our Website in this browser. To stop Marketo tracking on other browsers or devices, please visit this link with every browser you use on our Website.
 
 * * *
 
