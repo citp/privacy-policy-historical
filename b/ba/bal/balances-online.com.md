@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balances-online.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201142711id_/http%3A//www.balances-online.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balances-online.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603232802id_/http%3A//www.balances-online.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Balances Online | Analytical Balances Online: buy electronic scale and weighing balance
 
