@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fnp.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926132517id_/https%3A//www.fnp.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnp.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603102628id_/https%3A//www.fnp.com/info/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy Information - Ferns N Petals
 
 ###### Privacy Policy
 
@@ -83,4 +83,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
 
 Name - Mr. Umakant Bhardwaj  
-Email Id - [umakant.bharadwaj@fnp.com](mailto:umakant.bharadwaj@fnp.com)
+Email Id - [umakant.bhardwaj@fnp.com](mailto:umakant.bhardwaj@fnp.com)
