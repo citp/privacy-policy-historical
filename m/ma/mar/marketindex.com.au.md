@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the marketindex.com.au privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920123010id_/http%3A//www.marketindex.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketindex.com.au privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604064530id_/https%3A//www.marketindex.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Market Index
 
 ## **SHORT**
 
 No personally identifiable information is collected from visitors unless the visitor takes manual action to ensure it occurs (e.g. sends us an email, comments on a post, signs up to a mailing list, interacts with us via Social Media etc.).
+
+Market Index doesn't sell a product or service so we only use the information you provide for correspondence purposes. All emails contain an "Unsubscribe" button.
 
 Market Index use analytics (e.g. Google Analytics) to improve the website experience. These involve “cookies” to passively collect anonymous statistics (e.g. pages visited, browser used etc.).
 
@@ -15,7 +17,11 @@ This following document sets forth the Privacy Policy for Market Index Pty Ltd a
 Market Index is committed to providing you with the best possible customer service experience. Market Index is bound by the Privacy Act 1988 (Crh), which sets out a number of principles concerning the privacy of individuals.
 
 **Collection of your personal information**  
-There are many aspects of the site which can be viewed without providing personal information, however, there are circumstances where you may optionally provide personally identifiable information. For example, if you contact the Webmaster you will be submitting personally identifiable information (your email and any content contained within). Summiting a comment on a post, joining a mailing list or using social media can also involve personally identifiable information. We will never rent, share or sell any of your personally identifiable information.
+There are many aspects of the site which can be viewed without providing personal information, however, there are circumstances where you may optionally provide personally identifiable information. For example, if you contact the Webmaster you will be submitting personally identifiable information (your email and any content contained within). Submiting a comment on a post, joining a mailing list or using social media can also involve personally identifiable information. We will never rent, share or sell any of your personally identifiable information.
+
+As Market Index doesn't sell a product or service (we are an information website), we only use the information you provide for correspondence purposes. I.e. responding to your email, sending emails you have subscribed to, social media comments and blog post notifications.
+
+The only people that have access to your email are Market Index staff and our third-party email provider. We will remove your email address from our database immediately upon request, or you can click the “Unsubscribe” button located at the bottom of every email. [Contact us](https://web.archive.org/contact) if you have any questions.
 
 **Anonymous User Data**  
 For each visitor to reach the site, we expressively collect the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the Site, page access times and referring website address. This collected information is used solely internally for the purpose of gauging visitor traffic, trends and delivering personalised content to you while you are at this website. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only, data collected from the time of the policy change forward will adhere to our updated practices.
