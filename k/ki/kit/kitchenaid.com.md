@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kitchenaid.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928040747id_/https%3A//www.kitchenaid.com/resources/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenaid.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604153744id_/https%3A//www.kitchenaid.com/resources/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Notice | KitchenAid
+
+Skip to main content
 
 Privacy Notice to our customers in the United States and Canada
 
