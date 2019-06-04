@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chippewaboots.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001034712id_/http%3A//www.chippewaboots.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chippewaboots.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604210211id_/https%3A//www.chippewaboots.com/policies/privacy) for the most accurate reproduction.*
 
 # Justin Brands Privacy Policy
 
