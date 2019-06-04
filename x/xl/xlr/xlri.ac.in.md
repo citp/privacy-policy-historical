@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xlri.ac.in privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721205818id_/https%3A//www.xlri.ac.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xlri.ac.in privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604144050id_/https%3A//www.xlri.ac.in/privacy-policy.html) for the most accurate reproduction.*
 
 # XLRI - Privacy Policy
 
