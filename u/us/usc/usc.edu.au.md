@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620141443id_/https%3A//www.usc.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605010458id_/https%3A//www.usc.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy | University of the Sunshine Coast, Queensland, Australia
 
-The University of the Sunshine Coast collects and uses personal information about its students, staff and others in order to operate effectively, in compliance with Queensland’s Information Privacy Act (2009).
+The University of the Sunshine Coast collects and uses personal information about its students, staff and others in order to operate effectively, in compliance with [Queensland’s Information Privacy Act (2009).](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2009-014)
 
 Personal information held by the University is collected and managed in a responsible, secure manner, and will not be released to third parties without your consent, unless required by law.
 
