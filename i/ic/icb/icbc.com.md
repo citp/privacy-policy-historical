@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520011144id_/http%3A//www.icbc.com/Pages/Privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604044511id_/http%3A//www.icbc.com/Pages/Privacy-statement.aspx) for the most accurate reproduction.*
 
 # Website privacy statement
 
@@ -29,7 +29,7 @@ Your privacy is important to us. This privacy statement describes the informatio
 
 
 
-### Email caution
+###  Email caution
 
 Please note, email is not a secure method of transmitting sensitive personal information and by using this website and/or online services you accept this risk. Email you send to us is not encrypted. Your email may be intercepted by other Internet users, without your knowledge or permission, while in transit to us. We don't recommend emailing information that you consider confidential to us.
 
@@ -63,7 +63,20 @@ Our website contains links to other websites. Please be aware that privacy polic
 
   * The Insurance Corporation of British Columbia (ICBC) will collect information that relates directly to and is necessary for an operating program or activity of ICBC. Personal information that is collected is done so under the authority of s. 26(c) of the Freedom of Information and Protection of Privacy Act for the purposes of engaging and consulting with the public. Please be aware that any information collected may be stored and/or accessed outside of Canada on servers not belonging to ICBC.
 
-  * To protect your own privacy and the privacy of others, please do not include any personal information including phone numbers and email addresses in the body of your comment. Please do not share personal information about others, including pictures.
+  * To protect your own privacy and the privacy of others, please do not include any personal information including phone numbers and email addresses in the body of your comment. Please do not share personal information about others, including pictures.  
+
+
+
+
+
+## Qmatic SMS texting service
+
+  * ICBC sometimes allows visitors to our driver licensing offices to sign up for an SMS text message that will let them know when they are close to the front of the queue.
+
+  * If you have signed up for this service, you will receive up to three text messages from us. The first message confirms your sign-up to the service and provides a link to contact us. The second message tells you to return to the office soon. The third message closes the ticket, and may include a link to a survey for you to provide your feedback.
+
+  * If you have not signed up for this service and are receiving SMS text messages from us in error, or if you have decided you do not wish to be notified via SMS to return to the office, you can end the service by replying with STOP.  
+
 
 
 
@@ -72,5 +85,5 @@ Our website contains links to other websites. Please be aware that privacy polic
 
 ICBC may revise this privacy statement from time to time to reflect changes to our website, social media and online services. 
 
-Last updated: January 4, 2017   
+Last updated: July 31, 2018  
 
