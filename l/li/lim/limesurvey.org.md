@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limesurvey.org privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818043759id_/https%3A//www.limesurvey.org/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limesurvey.org privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605004110id_/https%3A//www.limesurvey.org/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
