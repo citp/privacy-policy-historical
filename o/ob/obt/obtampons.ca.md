@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obtampons.ca privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127025303id_/http%3A//www.edgewell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obtampons.ca privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604163942id_/http%3A//www.ob-tampons.com/privacy-policy) for the most accurate reproduction.*
 
 # Edgewell Personal Care - Privacy Policy
 
