@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goconqr.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926192202id_/https%3A//www.goconqr.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goconqr.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605010756id_/https%3A//www.goconqr.com/en/privacy_policy) for the most accurate reproduction.*
 
 # GoConqr - Privacy Policy
 
@@ -75,7 +75,7 @@ If you wish to opt out of interest based advertising you can do so by following 
 
 **Data collected by other advertising companies:**
 
-Advertisers sometimes include their own web beacons (or those of their advertising partners) within their advertisements on our platform, enabling them to set and read their own cookie. GoConqr partners with third-party ad companies to deliver advertisements to the platform. These third-parties may place cookies on your device and collect data about your online activities across websites or online services. These companies currently include, but are not limited to:  [AppNexus](https://www.appnexus.com/en/company/platform-privacy-policy),  [AdSparc](http://www.adsparc.com/AdSparc-Privacy-Policy-9-2016.pdf),  [Google](https://www.google.com/policies/technologies/partner-sites/) (& [Google partners](https://support.google.com/dfp_premium/answer/9012903) ),  [Rubicon](https://rubiconproject.com/privacy-policy/),  [Sovrn](https://www.sovrn.com/privacy-policy/) and  [PulsePoint](https://www.pulsepoint.com/privacy-policy).  You may find more information about each company’s practices, including the choices that it offers, by clicking on the company’s name above. Many of them are also members of the NAI or DAA, which each providing a simple way to opt out of ad targeting from participating companies. 
+Advertisers sometimes include their own web beacons (or those of their advertising partners) within their advertisements on our platform, enabling them to set and read their own cookie. GoConqr partners with third-party ad companies to deliver advertisements to the platform. These third-parties may place cookies on your device and collect data about your online activities across websites or online services. These companies currently include, but are not limited to:  [AppNexus](https://www.appnexus.com/en/company/platform-privacy-policy),  [Google](https://www.google.com/policies/technologies/partner-sites/) (& [Google partners](https://support.google.com/dfp_premium/answer/9012903) ),  [Rubicon](https://rubiconproject.com/privacy-policy/),  [Sovrn](https://www.sovrn.com/privacy-policy/) and  [PulsePoint](https://www.pulsepoint.com/privacy-policy).  You may find more information about each company’s practices, including the choices that it offers, by clicking on the company’s name above. Many of them are also members of the NAI or DAA, which each providing a simple way to opt out of ad targeting from participating companies. 
 
 **Children and advertising:**
 
@@ -227,7 +227,7 @@ We also have a number of protections dealing with the personal data of persons u
 
 ###  Mobile Apps 
 
-GoConqr has a range of Mobile Applications (“Apps”) on the iOS and Android platforms that allow you to access the platform in a manner optimised for mobile. Our Apps use third party service providers to provide functionality to our users. 
+GoConqr has a range of Mobile Applications (“Apps”) on the iOS and Android platforms (available until July 1st 2019) that allow you to access the platform in a manner optimised for mobile. Our Apps use third party service providers to provide functionality to our users. 
 
 The data gathered by the third party providers relates to the aggregate usage of our service. Our partners include Fabric, Crashlytics, Firebase, Apple and Google Playstore. You may have separate data policies with Apple and Google relating to the download and purchase of mobile apps through their app stores. Compliance with app store policies is assumed when accessing the GoConqr mobile apps. 
 
