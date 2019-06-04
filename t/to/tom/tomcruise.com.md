@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomcruise.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106112358id_/http%3A//www.tomcruise.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomcruise.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604122946id_/http%3A//www.tomcruise.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Official Tom Cruise Website
 
