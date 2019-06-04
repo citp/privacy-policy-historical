@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipinfo.io privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919194710id_/https%3A//ipinfo.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipinfo.io privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604220317id_/https%3A//ipinfo.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IPinfo IP Address Geolocation API
 
