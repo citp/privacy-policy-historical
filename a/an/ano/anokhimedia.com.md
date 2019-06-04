@@ -1,31 +1,31 @@
-> *The following text is extracted and transformed from the anokhimedia.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309062335id_/https%3A//anokhimedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anokhimedia.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604120539id_/https%3A//www.anokhimedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ANOKHI MEDIA
 
 Your privacy is important to us. Anmeco OptiMedia Communications Inc. (hereinafter referred to as AMC), its subsidiaries and affiliates (collectively, “ANOKHI”, “us”, “we”) are committed to maintaining the privacy, security and accuracy of the personal information they collect, use and disclose in accordance with applicable legislation. This privacy policy (the “Privacy Policy”) is a statement of principles and guidelines concerning the protection of personal information of our individual clients, individual service providers and other individuals (“you”) (with the exception of our personnel, whose personal information is collected, used and disclosed in accordance with AMC’s Personnel Privacy Policy).
 
- **1\. Who is Anmeco OptiMedia Communications Inc.?**
+**1\. Who is Anmeco OptiMedia Communications Inc.?**
 
 Anmeco OptiMedia Communications Inc. (AMC). is the “parent” of a group of subsidiary companies focusing on the print and media sectors. Through its multimedia marketing facilities, AMC increasingly is developing the geographic platforms and complete service offering needed to cover the entire domestic and international South Asian market. AMC is Canada’s leading South Asian multimedia company, both online and offline.
 
 This Privacy Policy applies to our collection, use and disclosure of personal information regarding the clients and consumers of our products and services, including our online and print publication ANOKHI Magazine.
 
- **2\. What personal information do we collect?**
+**2\. What personal information do we collect?**
 
 Canadian privacy legislation defines personal information broadly as information about “an identifiable individual” or as information that allows an individual to be identified. The types of personal information that we may collect from you from time to time include: your name, address, telephone number, e-mail address, your forwarding address (e.g. during a vacation), previous address(es), payment information (for billing purposes), your mailing preferences (such as “no scents”, “no wrappers”, etc.), delivery instructions, and individual customer service preferences (such as “do not solicit”). In addition, from time to time, we may ask you to provide us with more detailed information regarding your interests, occupation, and background. For example, we sometimes ask our customers to complete surveys in order to get a better sense of who they are and what issues, products or services may be of interest to them and our readership. Finally, from time to time, we may acquire demographic and other information about you (e.g. your occupation and interests) from an outside organisation, but only if you have previously agreed to allow such an organization to disclose the information to companies such as AMC.
 
- **3\. Why do we collect your personal information?**
+**3\. Why do we collect your personal information?**
 
 We collect your personal information for the following purposes:
 
-  *  **(a) To provide the product, service or information you requested**  
+  * **(a) To provide the product, service or information you requested**  
 If you are a customer of one of our publications, we use your name and address (postal and/or e-mail) in order to deliver the product, service or information you requested and to follow up with you about the transaction (i.e., send a bill, notify you that your subscription is expiring, etc.). If you enter into a contest offered through one of our websites or printed publications, we use your personal information to administer the contest on our own behalf or on behalf of our sponsors.
-  *  **(b) To process payment**  
+  * **(b) To process payment**  
 Your credit card number, debit card number, or banking information for pre-authorized payments is used only for processing payments and for presenting you with payment options – not for marketing purposes.
-  *  **(c) To send you information**  
+  * **(c) To send you information**  
 From time to time we may send you further information about the publication, its offers, or other products produced or presented under the ANOKHI Brand.
-  *  **(d) Other purposes**  
-In addition, from time to time, we may use your personal information for the following purposes:
+  * **(d) Other purposes**  
+In addition, from time to time, we may use your personal information for the following purposes: 
     * to detect and protect AMC and other third parties against error, fraud, theft and other illegal activity, and to audit compliance with AMC policies and contractual obligations;
     * to understand your needs and preferences, including to contact and communicate with you and to conduct surveys, research and evaluations;
     * to obtain audited statements regarding numbers of subscribers per publication;
@@ -34,7 +34,7 @@ In addition, from time to time, we may use your personal information for the fol
 
 
 
- **4\. To whom do we disclose your personal information?**
+**4\. To whom do we disclose your personal information?**
 
 We may disclose your personal information to the following third parties in the following circumstances:
 
@@ -48,7 +48,7 @@ We may disclose your personal information to the following third parties in the 
 
 If you would prefer for us NOT to share your information as described above in sections 4(a)-4(d), simply inform us at [support@anokhimedia.com](mailto:support@anokhimedia.com).
 
- **5\. Control of your personal information**
+**5\. Control of your personal information**
 
 At the Anmeco OptiMedia Communications Inc. we want you to be able to maintain control over how we use your personal information. Most specifically:
 
@@ -61,15 +61,15 @@ At the Anmeco OptiMedia Communications Inc. we want you to be able to maintain c
 
 As mentioned previously, we may not be able to provide you with our services if you withdraw your consent to our use of some of your personal information, in a secure and proper manner.
 
- **6\. Where is your personal information stored?**
+**6\. Where is your personal information stored?**
 
 Your personal information is stored in secured servers, located either at our offices or at the offices of our service providers. For access to your personal information, contact us at [support@anokhimedia.com](mailto:support@anokhimedia.com) or call 905-501-9907
 
- **7\. How can you access your personal information?**
+**7\. How can you access your personal information?**
 
 Upon written request, subject to certain exceptions, AMC will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. Contact us as provided in Item 6 above.
 
- **8\. How do we protect your personal information?**
+**8\. How do we protect your personal information?**
 
 We make every reasonable effort to protect against the loss, misuse, and alteration of personal information under our control. Our security policies are periodically reviewed and enhanced as necessary.
 
@@ -77,7 +77,7 @@ Only authorized employees and suppliers have access to your personal information
 
 Where applicable, AMC does or will operate secure data networks protected by industry standard firewall and password protection systems. Credit card information is processed using industry-standard encryption and security, and via PayPal.com. We do not collect personal information from bulletin boards, or forums (blogs). However, we cannot guarantee that personal information voluntarily disclosed in chat rooms or discussion boards (blogs) will not be collected and used by others, which may result in unsolicited messages to you from other parties.
 
- **9\. Privacy and our websites**
+**9\. Privacy and our websites**
 
 In some instances AMC collects personal information through its various web sites. In this section, we provide you with additional information regarding such collection.
 
@@ -105,11 +105,11 @@ Individuals Under 18 – No personal information should be submitted or posted o
 
 No information collected from online guests under 18 years of age is used for any marketing or promotional purposes whatsoever by AMC. Unless otherwise disclosed at collection, we do not provide any personal information collected through any AMC web site from individuals under 18 years old, regardless of its source, to any third party for any purpose whatsoever.
 
- **10\. Changes to the Privacy Policy**
+**10\. Changes to the Privacy Policy**
 
 AMC reserves the right to modify or supplement this Privacy Policy at any time. If we make a change to this Privacy Policy, we will post such change on our web sites. However, AMC will obtain the necessary consents required under applicable Privacy Laws if it seeks to collect, use or disclose an individual’s personal information for purposes other than those to which consent is obtained unless otherwise required or permitted by law.
 
- **11\. Contact Us**
+**11\. Contact Us**
 
 If you have any questions regarding compliance with this Privacy Policy and applicable Privacy Laws, please contact us at:
 
