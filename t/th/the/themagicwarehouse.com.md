@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themagicwarehouse.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205083554id_/http%3A//themagicwarehouse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themagicwarehouse.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604235337id_/http%3A//themagicwarehouse.com/privacy.html) for the most accurate reproduction.*
 
 # The Magic Warehouse - Discount Magic Tricks
 
