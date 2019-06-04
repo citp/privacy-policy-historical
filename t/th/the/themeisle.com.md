@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the themeisle.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903102914id_/https%3A//themeisle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeisle.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605014553id_/https%3A//themeisle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice | ThemeIsle
+# Privacy Notice @ ThemeIsle
 
-_Effective Date:  31 May 2018   _ _Notice Version: 1.1_
+**Effective Date:  31 May 2018   Notice Version: 1.1**
 
-This document governs the privacy notice of our website _themeisle.com_. It describes how Vertigo Studio S.R.L. (known as „Themeisle”, „We” or „Site”), the owner and operator of the _themeisle.com_ website, uses and protects any „Personal Data” when you use this website.
+This document governs the privacy notice of our website  _themeisle.com_. It describes how Vertigo Studio S.R.L. (known as „Themeisle”, „We” or „Site”), the owner and operator of the  _themeisle.com_  website, uses and protects any „Personal Data” when you use this website.
 
 Please read our privacy notice carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personal Data.
 
 We may change this privacy notice from time to time by updating this page. You should check this page from time to time to ensure that you agree with any changes.
 
-**Topics Covered in Our Privacy notice**
+##  **Topics Covered in Our Privacy notice**
 
   * Your Rights
   * Our Use of Cookies
@@ -35,33 +35,33 @@ We may change this privacy notice from time to time by updating this page. You s
 
 ## Your Rights
 
-**When using our website and submitting personal data (PD) to us, you may have certain rights under the General Data Protection Regulation (GDPR) and other laws. Depending on the legal basis for processing your PD, you may have some or all of the following rights:**
+When using our website and submitting personal data (PD) to us, you may have certain rights under the General Data Protection Regulation (GDPR) and other laws. Depending on the legal basis for processing your PD, you may have some or all of the following rights:
 
-_The right to be informed_
+ _The right to be informed_
 
 You have the right to be informed about the personal data we collect from you, and how we process it.
 
-_The right of access_
+ _The right of access_
 
 You have the right to get confirmation that your personal data is being processed and have the ability to access your personal data.
 
-_The right to rectification_
+ _The right to rectification_
 
 You have the right to have your personal data corrected if it is inaccurate or incomplete.
 
-_The right to erasure (right to be forgotten)_
+ _The right to erasure (right to be forgotten)_
 
 You have the right to request the removal or deletion of your personal data if there is no compelling reason for us to continue processing it.
 
-_The right to restrict processing_
+ _The right to restrict processing_
 
 You have a right to ‘block’ or restrict the processing of your personal data. When your personal data is restricted, we are permitted to store your data, but not to process it further.
 
-_The right to data portability_
+ _The right to data portability_
 
 You have the right to request and get your personal data that you provided to us and use it for your own purposes. We will provide your data to you within 30 days of your request. To request your personal data, please contact us using the information at the top of this privacy notice.
 
-_The right to object_
+ _The right to object_
 
 You have the right to object to us processing your personal data for the following reasons:
 
@@ -72,11 +72,11 @@ You have the right to object to us processing your personal data for the followi
 
 
 
-_Automated individual decision-making and profiling_
+ _Automated individual decision-making and profiling_
 
 You will have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you.
 
-_Filing a Complaint with Authorities_
+ _Filing a Complaint with Authorities_
 
 You have the right to file a complaint with supervisory authorities if your information has not been processed in compliance with the General Data Protection Regulation. If the supervisory authorities fail to address your complaint properly, you may have the right to a judicial remedy.
 
@@ -88,39 +88,39 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 If you disable cookies installation or you delete cookies from your computer’s hard disk you may be unable to use some of the features of our website, products and services.
 
-[Cookie Settings] (link catre pop-up din OneTrust)
+[Cookie Settings](https://themeisle.com/cookie-policy)
 
-**By agreeing to accept our use of cookies, you are giving us, and third parties we partner with, permission to place, store, and access some or all the cookies described below on your computer.**
+ **By agreeing to accept our use of cookies, you are giving us, and third parties we partner with, permission to place, store, and access some or all the cookies described below on your computer.**
 
-_Strictly Necessary Cookies_
+ _Strictly Necessary Cookies_
 
 These cookies are necessary for proper functioning of the website, such as displaying content, logging in, validating your session, responding to your request for services, and other functions. Most web browsers can be set to disable the use of cookies. However, if you disable these cookies, you may not be able to access features on our website correctly or at all.
 
-_Performance Cookies_
+ _Performance Cookies_
 
 These cookies collect information about the use of the website, such as pages visited, traffic sources, users’ interests, content management, and other website measurements.
 
-_Functional Cookies_     
+ _Functional Cookies_      
 
 These cookies enable the website to remember a user’s choices – such as their language, user name, and other personal choices – while using the website. They can also be used to deliver services, such as letting a user make a blog post, listen to audio, or watch videos on the website.
 
-_Media Cookies_
+ _Media Cookies_
 
 These cookies can be used to improve a website’s performance and provide special features and content. They can be placed by third parties who provide services to us or by our company.
 
-_Advertising or Targeting Cookies_
+ _Advertising or Targeting Cookies_
 
 These cookies are usually placed and used by advertising companies to develop a profile of your browsing interests and serve advertisements on other websites that are related to your interests. You will see less advertising if you disable these cookies.
 
-_Session Cookies_
+ _Session Cookies_
 
 These cookies allow websites to link the actions of a user during a browser session. They may be used for a variety of purposes, such as remembering what a user has put in their shopping cart as they browse a website. Session cookies also permit users to be recognized as they navigate a website so that any item or page changes they make are remembered from page to page. Session cookies expire after a browser session; thus, they are not stored long term.
 
-_Persistent Cookies_
+ _Persistent Cookies_
 
 These cookies are stored on a user’s device in between browser sessions, which allows the user’s preferences or actions across a site (or, in some cases, across different sites) to be remembered. Persistent cookies may be used for a variety of purposes, including remembering users’ choices and preferences when using a website or to target advertising to them.
 
-_We may also use cookies for:_
+ _We may also use cookies for:_
 
   * Help remember and process the items in the shopping cart
   * Allowing you to share content with social networks
@@ -140,7 +140,7 @@ We may also use trusted third-party services that track this information on our 
 
 Most web browsers can be set to disable the use of cookies. However, if you disable cookies, you may not be able to access features on our website correctly or at all.
 
-_Web Beacons_
+ _Web Beacons_
 
 We may also use a technology called web beacons to collect general information about your use of our website and your use of special promotions or newsletters. The information we collect through web beacons allows us to statistically monitor the number of people who open our emails. Web beacons also help us to understand the behavior of our customers, members, and visitors.
 
@@ -160,11 +160,11 @@ Why do I see ads by Google for products I’ve viewed?
 
 Our website uses a remarketing advertising service. Our remarketing service is provided by Google and other companies that show our ads on websites across the Internet. With remarketing you may see ads for our products you have previously looked at. As an example, suppose you visit a website that sells computers, but you do not buy a computer on your first visit to that website. The website’s owner might like to encourage you to revisit his/her site and buy a computer by showing you his/her ads again on other websites that you visit. We use remarketing for similar purposes. For this to happen, Google will read a cookie that is already in your browser, or they place a cookie in your browser when you visit our site or other sites using remarketing.
 
-You can opt out of Google’s use of cookies and remarketing at this link: https://support.google.com/ads/answer/2662922?hl=en or you can opt out using the Network Advertising Initiative opt out page at: http://optout.networkadvertising.org/#!/ 
+You can opt out of Google’s use of cookies and remarketing at this link: https://support.google.com/ads/answer/2662922?hl=en or you can opt out using the Network Advertising Initiative opt out page at: http://optout.networkadvertising.org/#!/
 
 Facebook Remarketing
 
-Third parties, including Facebook, may use cookies, web beacons, and other storage technologies to collect or receive information from our website and elsewhere on the internet, and use that information to provide measurement services and target ads. With Facebook remarketing you may see our ads on Facebook after you have visited our site. For this to happen, Facebook uses a Custom Audience Pixel that is activated when a visitor lands on a webpage and a unique “cookie” is placed in their browser. Facebook lookalike audience targeting allows us to show ads on Facebook to people who are similar to those who have already visited or made a purchase from our website. To opt out of Facebook’s collection and use of information for ad targeting visit: [https://www.facebook.com/help/568137493302217](https://www.facebook.com/help/568137493302217)
+Third parties, including Facebook, may use cookies, web beacons, and other storage technologies to collect or receive information from our website and elsewhere on the internet, and use that information to provide measurement services and target ads. With Facebook remarketing you may see our ads on Facebook after you have visited our site. For this to happen, Facebook uses a Custom Audience Pixel that is activated when a visitor lands on a webpage and a unique “cookie” is placed in their browser. Facebook lookalike audience targeting allows us to show ads on Facebook to people who are similar to those who have already visited or made a purchase from our website. To opt out of Facebook’s collection and use of information for ad targeting visit: <https://www.facebook.com/help/568137493302217>
 
 ## What personal information do we collect?
 
@@ -191,13 +191,13 @@ We may use the information we collect from you for the following main purposes:
 
 
 
-**Grounds for Using Your Personal Data**
+##  **Grounds for Using Your Personal Data**
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we are relying on the following lawful grounds to collect and process any personal data you may have provided:
 
-  * **Legitimate Business Interests** : To provide you with information requested from us relating to our products or services and to provide information on other products which we feel may be of interest to you if you have consented to receive such information. To notify you about any changes to our Website, such as improvements or service/product changes, that may affect our service. If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you.
-  * **Performance of Contract** : To meet our contractual commitments to you and in performance of contractual obligations to you.
-  * **User Consent** : We may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated goods and services which we consider may be of interest to you. We or they may contact you about these goods and services by any of the methods that you consented to at the time your information was collected. If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means for which you provided consent. If you do not want us to use your data for ourselves or third-parties, you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data.
+  *  **Legitimate Business Interests** : To provide you with information requested from us relating to our products or services and to provide information on other products which we feel may be of interest to you if you have consented to receive such information. To notify you about any changes to our Website, such as improvements or service/product changes, that may affect our service. If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you.
+  *  **Performance of Contract** : To meet our contractual commitments to you and in performance of contractual obligations to you.
+  *  **User Consent** : We may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated goods and services which we consider may be of interest to you. We or they may contact you about these goods and services by any of the methods that you consented to at the time your information was collected. If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means for which you provided consent. If you do not want us to use your data for ourselves or third-parties, you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data.
 
 
 
@@ -223,31 +223,27 @@ We may also release information when it’s release is appropriate to comply wit
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other similar uses.
 
-**Communications and Emails**
+##  **Communications and Emails**
 
 When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: friends@themeisle.com
 
-**Legally Required Releases of Information**
+##  **Legally Required Releases of Information**
 
 We may be legally required to disclose your PD if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties, including you and/or other users or members; or (e) necessary to protect the legal rights, personal/real property, or personal safety of our company, users, employees, and affiliates.
 
-**Disclosures to Successors**
+##  **Disclosures to Successors**
 
 If our business is sold or merges in whole or in part with another business that would become responsible for providing the website to you, we retain the right to transfer your PD to the new business. The new business would retain the right to use your PD according to the terms of this privacy notice as well as to any changes to this privacy notice as instituted by the new business. We also retain the right to transfer your PD if our company files for bankruptcy and some or all of our assets are sold to another individual or business.
 
-**Support Discussion**
+##  **Support Discussion**
 
-Our website offer the ability for users to communicate with the Support Team through email or other mechanisms.If you choose to open a ticket, you should use care when exposing any PD, as such information is not protected by our privacy notice nor are we liable if you choose to disclose your PD through such postings.
+Our website offer the ability for users to communicate with the Support Team through email or other mechanisms. If you choose to open a ticket, you should use care when exposing any PD, as such information is not protected by our privacy notice nor are we liable if you choose to disclose your PD through such postings.
 
-## Retaining and Destroying Your (PD)
-
-We retain information that we collect from you (including your PD) only for as long as we need it for legal, business, or tax purposes. Your information may be retained in electronic form, paper form, or a combination of both. When your information is no longer needed, we will destroy, delete, or erase it.
-
-## Updating Your (PD)
+### Updating Your (PD)
 
 You can update your PD using services found on our website. If no such services exist, you can contact us using the contact information found at the top of this notice and we will help you. However, we may keep your PD as needed to enforce our agreements and to comply with any legal obligations.
 
-## Revoking Your Consent for Using Your PD
+### Revoking Your Consent for Using Your PD
 
 You have the right to revoke your consent for us to use your PD at any time. Such an opt out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates and business partners, (ii) disclosures to third-party service providers that provide certain services for our business, such as credit card processing, computer system services, shipping, data management services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments, or as otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept. If you want to revoke your consent for us to use your PD, send us an email with your request to: friends@themeisle.com
 
@@ -285,13 +281,14 @@ We may include or offer third-party products or services on our website. These t
 
 ## COPPA (Children Online Privacy Protection Act)
 
-We do not knowingly collect PD from children under the age of 16. If you are a parent or guardian and believe that your child is using our website, please contact us. Before we remove any information, we may ask for proof of identification to prevent malicious removal of account information. If we discover that a child is accessing our website, we will delete his/her information within a reasonable period of time. You acknowledge that we do not verify the age of our users nor do we have any liability to do so.
+We do not knowingly collect PD from children under the age of 16. If you are a parent or guardian and believe that your child is using our website, please contact us. Before we remove any information, we may ask for proof of identification to prevent malicious removal of account information. If we discover that a child is accessing our website, we will delete his/her information within a reasonable period of time. You acknowledge that we do not verify the age of our users nor do we have any liability to do so.  
+
 
 ## Questions About Our Privacy notice
 
 If you have any questions about our privacy notice, please contact us using the information of this privacy notice.
 
-**Data Controller Contact Information**
+##  **Data Controller Contact Information**
 
 Vertigo Studio SRL.
 
@@ -301,4 +298,4 @@ Vertigo Studio SRL.
 
 Romania
 
-Email: friends@themeisle.com
+[Contact Us](https://web.archive.org/contact/)
