@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aza.org privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829113237id_/https%3A//www.aza.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aza.org privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604072841id_/https%3A//www.aza.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,12 @@ We also use certain standard Internet technologies to collect other information 
 AZA uses cookies, tokens, and from time to time may use other tracking technologies in order to make the results available for your on-site searches. Token-based authentication is a security technique that authenticates the users who attempt to log in to a server, a network, or some other secure system, using a security token provided by the server.  Tokens are used in the login process to the Members Only section of the Site. The token controls the login process expire after 24 hours, unless you use "Member log out", which removes the cookie immediately. The AZA Network uses a cookie, which is a small file that is sent out by a website, accepted by the user's browser, and placed on the user's hard drive. You can always set your browser to warn of cookies being placed, and then chose which cookies you want to accept, or you can set your browser to reject all cookies. AZA does not match any information gathered by cookies or tokens with personal information you may have voluntarily submitted to AZA.
 
 AZA may use third-party network advertising companies to serve ads on the Site. Such third-party advertising companies may set up and access cookies or tokens on your browser in order to serve these ads and they may use cookies and other technology to collect information about your online activities on this and other websites. However, AZA will not provide your personal information to any of these companies, except as may be otherwise permitted by you or this Privacy Policy.
+
+The AZA websites use Google Analytics,  a service that transmits website traffic data to Google servers in the United States. The data that AZA receives from Google Analytics does not identify individual users. AZA uses reports provided by Google Analytics to help us understand website traffic and webpage usage.  Users have the choice to opt-out of Google Analytics and Advertising cookies altogether at [Google Analytics Opt-Out Add-on](https://tools.google.com/dlpage/gaoptout?hl=en "Hyperlink to Google web page titled Analytics Opt-Out Add-on").
+
+Also, AZA and third-party vendors including Google use first-party cookies (the Google Analytics cookie) and third-party cookies (for example, the DoubleClick cookie) together to inform, optimize, and serve ads based on past visits to our website. More specifically, the AZA website has implemented and uses display advertising, and AZA uses Google Analytics to improve user experience and implement marketing strategies. If you would like to opt out of Google Analytics for Display Advertising, you may use the Ads Preference Manager at the Google website.
+
+In any event, AZA will not match your personally identifiable data in our possession with the aggregate non-identifiable data from Google Analytics. Nor will AZA share your personally identifiable data with Google or Google Analytics.  AZA complies with all applicable laws and regulations that protect your privacy. 
 
 ### USE OF INFORMATION
 
