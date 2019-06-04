@@ -1,47 +1,27 @@
-> *The following text is extracted and transformed from the rizonesoft.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303135023id_/http%3A//www.rizonesoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rizonesoft.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604220921id_/https%3A//www.rizonesoft.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Rizonesoft
+# Privacy Policy - Rizonesoft
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-## What personal information do we collect from the people that visit Rizonesoft.com?
+## Comments
 
-When filling in a form or commenting on a topic, as appropriate, you may be asked to enter your name, email address or other details to help us better serve you.
+When you leave comments on Rizonesoft.com we may collect your name, email address and site URL, depending on the information you choose to include in the comment form. Additionally, we collect a timestamp, your **IP address** and browser user agent string to help spam detection. An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-## When do we collect information?
+## Contact forms
 
-We collect information from you when you fill out a form or enter information on our site. For example; when commenting on a topic.
+The contact form submission data — IP address, user agent, name, email address, website, and message — is submitted to the Akismet service for the sole purpose of spam checking. The actual submission data is stored in the database of the site on which it was submitted and is emailed directly to the owner of the form (i.e. the site author who published the page on which the contact form resides). This email will include the submitter’s IP address, timestamp, name, email address, website, and message.
 
-## How do we use your information?
+## Cookies
 
-We may use the information we collect from you when you, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To improve our website in order to better serve you.
+### We use cookies to:
 
-
-
-## How do we protect your information?
-
-  * We do not use vulnerability scanning and/or scanning to PCI standards.
-  * We only provide articles and information. We never ask for credit card numbers.
-  * We use regular Malware Scanning.
-
-
-
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.
-
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
-
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
-
-## Do we use ‘cookies’?
-
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-## We use cookies to:
-
-  * Understand and save user’s preferences for future visits.
+  * If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+  * If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+  * When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+  * If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
   * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
 
@@ -51,14 +31,6 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 ### If users disable cookies in their browser:
 
 If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.
-
-## Third-party disclosure
-
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
-
-## Third-party links
-
-We do not include or offer third-party products or services on our website.
 
 ## Google
 
@@ -82,6 +54,58 @@ We, along with third-party vendors such as Google use first-party cookies (such 
 #### Opting out:
 
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+Protect
+
+Data Used: In order to check login activity and potentially block fraudulent attempts, the following information is used: attempting user’s IP address, attempting user’s email address/username (i.e. according to the value they were attempting to use during the login process), and all IP-related HTTP headers attached to the attempting user.
+
+Activity Tracked: Failed login attempts (these include IP address and user agent). We also set a cookie (jpp_math_pass) for 1 day to remember if/when a user has successfully completed a math captcha to prove that they’re a real human. Learn more about this cookie.
+
+Data Synced (?): Failed login attempts, which contain the user’s IP address, attempted username or email address, and user agent information.
+
+WordPress.com Stats
+
+Data Used: IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, country code. Important: The site owner does not have access to any of this information via this feature. For example, a site owner can see that a specific post has 285 views, but he/she cannot see which specific users/accounts viewed that post. Stats logs — containing visitor IP addresses and WordPress.com usernames (if available) — are retained by Automattic for 28 days and are used for the sole purpose of powering this feature.
+
+Activity Tracked: Post and page views, video plays (if videos are hosted by WordPress.com), outbound link clicks, referring URLs and search engine terms, and country. When this module is enabled, Jetpack also tracks performance on each page load that includes the Javascript file used for tracking stats. This is exclusively for aggregate performance tracking across Jetpack sites in order to make sure that our plugin and code is not causing performance issues. This includes the tracking of page load times and resource loading duration (image files, Javascript files, CSS files, etc.). The site owner has the ability to force this feature to honor DNT settings of visitors. By default, DNT is currently not honored.
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## How do we protect your information?
+
+  * We do not use vulnerability scanning and/or scanning to PCI standards.
+  * We only provide articles and information. We never ask for credit card numbers.
+  * We use regular Malware Scanning.
+
+
+
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+## Third-party disclosure
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
+
+## Third-party links
+
+We do not include or offer third-party products or services on our website.
 
 ## California Online Privacy Protection Act
 
