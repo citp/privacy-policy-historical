@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilepriceindia.co.in privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205084512id_/http%3A//www.mobilepriceindia.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilepriceindia.co.in privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604231842id_/http%3A//www.mobilepriceindia.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mobile Prices India
 
