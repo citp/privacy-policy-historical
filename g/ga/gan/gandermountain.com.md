@@ -1,155 +1,233 @@
-> *The following text is extracted and transformed from the gandermountain.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206041846id_/http%3A//www.gandermountain.com/help-center/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gandermountain.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604032034id_/https%3A//cdn.gandermountain.com/gander-outdoors/help-center/privacy-policy.pdf) for the most accurate reproduction.*
 
-# Privacy Policy | Help Center | Gander Mountain
+# Your Privacy Rights
 
-This Privacy Policy (this “Policy”) explains how **Gander Mountain** , Overton’s, and other members of the **Gander** Mountain family of businesses (collectively, “the Gander Mountain family of businesses,” “we,” “us,” and “our”) protect your privacy when you use the following Web sites (our “Sites”):
-
-[GanderMountain.com](http://www.gandermountain.com/ "Gander Mountain")
-
-[Overtons.com](http://www.overtons.com/ "Overton’s")
-
-[OvertonsOutdoors.com](http://www.overtonsoutdoors.com/ "OvertonsOutdoors")
-
-Gander Mountain Company (“Gander Mountain”) owns the Site located at GanderMountain.com. Overton’s, Inc. (“Overton’s”) owns the Sites located at Overtons.com and OvertonsOutdoors.com. Consumers Marine Electronics, Inc. (“Consumers Marine”) owns the Site located at ConsumerMarine.com. When we wish to describe how one particular Site uses or shares information you submit to it, we will do so by describing how the “Owner” of the Site uses or shares your information. 
-
-This Policy covers the “personal information” we collect through our Sites. “Personal information” is information that identifies you personally, either alone or in combination with other information available to us. Examples of personal information include your name, address, e-mail address, telephone number, and the information you provide when you request a catalog, subscribe to a newsletter, or make a purchase at one of our online stores. 
-
-The terms “you” and “your,” when used in this Policy, mean any user of our Sites. 
-
-This Policy is part of the Terms and Conditions that govern your use of our Sites. To review our Terms and Conditions, [ click here](https://web.archive.org/customer-service/terms-conditions.shtml "Terms & Conditions")
-
-**Your Consent to This Policy**   
-Please take a few minutes to review this Policy. By accessing or using our Sites, you are agreeing to the terms of this Policy. IF YOU DO NOT AGREE TO THE COLLECTION, USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION AS SET FORTH IN THIS POLICY, PLEASE EXIT AND DO NOT USE OUR SITES. 
-
-**Changes to This Policy**   
-As we add new features and functionality to our Sites, we may need to update or revise this Policy. We reserve the right to do so, at any time and without prior notice, by posting the revised version on our Sites. These changes will be effective as of the date we post the revised version on our Sites. They will apply only to the personal information we collect after we have posted the revised version. Your use of one of our Sites following any such change constitutes your consent to the terms of the revised Policy. For this reason, it is important to review this Policy regularly. If we modify this Policy, we will provide a notice at the top of this Policy for at least thirty days after the new effective date. 
-
-You may access the current version of this Policy at any time by clicking on the link marked “Privacy Policy” at the bottom of each page of our Sites. 
-
-**Privacy Notices**   
-This Policy may be supplemented or amended from time to time by privacy notices (“Privacy Notices”) provided at the time we collect your personal information. For example, certain pages of our Sites may contain Privacy Notices providing details about the personal information we collect on those pages, why we need that information, and choices you may have about the ways we use that information. Our Privacy Notices are part of this Policy. 
-
-**Country-Specific Notices**   
-Privacy requirements vary from country to country. To meet these requirements we may include certain “country-specific notices” as part of this Policy. If any of the terms of a country-specific notice are different than the general terms of this Policy, the terms of the country-specific notice will supplement or amend this Policy, but only to the extent that the laws of that country apply to the collection of personal information through our Sites. 
-
-**What Personal Information Do We Collect When You Use Our Sites?**   
-Information You Provide. We collect the personal information you knowingly provide (using your mouse and keyboard) when you use our Sites. The information we collect depends on how you use our Sites. For example: 
-
-If you sign up to receive e-mail communications from us, we collect your name and e-mail address and any related information you provide. 
-
-If you make a purchase at one of our online stores, we collect the information you submit when you place your order, including your credit card and shipping information. If you ship an item to another person, we collect the information you provide about that person, such as his/her name, address and other contact information. 
-
-If you participate in one of our sweepstakes, we collect the information you submit to enter the sweepstakes. 
-
-If you upload photographs, comments or other user generated content (“User Generated Content”) to our Sites, including to any “Bragging Board,” we collect that information also. All User Generated Content you upload to our Site must comply with our [ Terms and Conditions](https://web.archive.org/customer-service/terms-conditions.shtml "Terms & Conditions"). 
-
-Information Sent to Us by Your Web Browser. We collect information that is sent to us automatically by your Web browser. This information typically includes your IP address, the name and version of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit. Please check your browser if you want to learn what information your browser sends or how to change your settings. 
-
-This information does not identify you personally. Generally, we use this information to improve our Site and make it more compatible with the technology used by our visitors. In most cases, we do not link the information sent by your browser to information that identifies you personally. However, if you have created a user identity, for example, by signing up to use a password-protected area of our Sites, we may link your IP address to information that identifies you personally. We may also link your IP address to personally identifiable information you submit in placing an order. In addition, when you access our Sites by clicking on a link in an e-mail or other electronic communication you receive from us, your browser tells us that someone has clicked on a particular link in a communication addressed to you. We collect that information to improve the effectiveness of our marketing efforts. We may also review our server logs—which contain visitors’ IP addresses—for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we may share our server logs with the appropriate investigative authorities who could use that information to trace and identify individuals. 
-
-Cookies and Similar Technologies. We use "cookies" and other Web technologies to collect information and support certain features of our Sites. For example, we may use these technologies to collect information about the ways visitors use our Sites—which pages they visit, which links they use, and how long they stay on each page; to support the features and functionality of our Sites—for example, to track the items in your shopping cart; to save you the trouble of reentering information already in our database; and to prompt the settings you established on previous visits to our Sites; and to personalize your experience when you use our Sites. 
-
-Generally, the information we collect using these Web technologies does not identify you personally. If, however, you have created a user identity, for example, by signing up to use a password-protected area of our Sites, we may link this information we collect using Web technologies to other information that identifies you personally. 
-
-If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also delete our cookies as soon as you leave our Sites. Although you are not required to accept our cookies when you visit our Sites, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of our Sites. 
-
-Supplemental Information. From time to time, we may supplement the information you give us with information from other sources, such as information validating your address or demographic information based on your zip code. We may also supplement the information you give us with information we collect from you through other channels. For example, if you shop at one of our stores, we may supplement the information you provide online with information we collect at the store. 
-
-**How Do We Use Your Personal Information?**
-
-  * Generally, we use the personal information we collect through our Sites
-  * to provide the information, products and services you request;
-  * for security, credit or fraud prevention purposes;
-  * to provide you with effective customer service;
-  * to provide you with a personalized experience when you use our Sites;
-  * to contact you with special offers and other information we believe will be of interest to you;
-  * to contact you with information and notices related to your use of our Sites;
-  * to invite you to participate in surveys and provide feedback to us;
-  * to better understand your needs and interests;
-  * to improve the content, functionality and usability of our Sites;
-  * to improve our products and services;
-  * to improve our marketing and promotional efforts; and
-  * for any other purpose identified in an applicable Privacy Notice, Country-Specific Notice, or other agreement between you and us
+Your Privacy Rights
+We appreciate the trust you place in CWGS Enterprises, LLC and the Camping World and Good
+Sam family of companies, including Gander Outdoors. To continue to earn this trust, we are
+committed to protecting your privacy and the security of your personal information. Our privacy policy
+(this "Privacy Policy") describes how we collect, protect, use, and share information gathered about
+you on our family of websites. We hope that this disclosure will help increase your confidence in our
+sites and enhance your experience on the Internet and with us.
+Please read this Privacy Policy before you use this site. Your use of our website signifies that you
+agree to this Privacy Policy. We always welcome your questions and feedback. For privacy-related
+issues, please feel free to contact us directly at any time.
+CWGS Enterprises, LLC
+PO Box 6888
+Englewood, CO 80155-6888
+800-234-3450
+info@goodsamfamily.com
+Types of information we collect and how we collect it
+The majority of the product and service information posted on our sites is offered without us
+collecting any personally identifiable information from you. You can surf the websites and view much
+of our content anonymously.
+Information You Provide
+There are a few activities on our sites where the collection of personally identifiable information is
+necessary. Those activities include things like entering a contest or sweepstakes, requesting a
+newsletter or other information, registering at our sites, filling out a survey or questionnaire or
+contacting us. We do not market, seek or solicit information or knowingly collect information from
+children.
+When personally identifiable information is collected, you will know because you will have to provide
+such information to us. For most activities, we collect only your name, e-mail address, street
+address, zip code, and birth date.
+Information Collected from You with Technology
+Our sites collect some information about you using technology, so it may not be readily apparent to
+you that it is being collected. For instance, and as described more fully below, when you visit our
+site, we automatically collect certain non-personally identifiable information from your browser, such
 
 
+as your Internet service provider's address, the web page from which you came, and a record of
+your activity on our site. We also use beacons to detect if and when you opened our emails. This
+information is not personally identifiable. Our sites use information collected through technology to:
+make our sites more interesting and useful to you; help advertisers on our site design
+advertisements our users might like; help us generally improve the content and layout of our
+website; notify you about updates to our website; and contact you for marketing purposes.
+Cookies
+Cookies are pieces of information that a website sends to your computer while you are viewing the
+website. These pieces of information allow the websites to remember important information that will
+make your use of those sites more useful. Our sites and other websites use cookies for a variety of
+purposes. As a result of your accessing our site, we may use third party cookies and other
+technologies and may receive information about your browsing and buying activity on our website.
+We contract with one or more third party site analysis service partners to provide us with a data
+collection and reporting service. When you access our site, a third party site analysis service partner
+may use cookies and other technologies on our behalf and may receive information about your
+browsing and buying activity on our website. Such data collection may be compiled and analyzed on
+an aggregate basis, and we may share this aggregated data with our affiliates, agents and business
+partner. This aggregate information does not identify you personally. We may also disclose
+aggregated user statistics in order to describe our services to current and prospective business
+partners, and to other third parties for other lawful purposes.
+You can choose to have your computer warn you each time a cookie is being sent, or you can
+choose to turn off all cookies. You do this through your browser (like Firefox or Internet Explorer)
+settings. Each browser is a little different, so look at your browser's Help menu to learn the correct
+way to modify your cookies. If you turn cookies off, you won't have access to many of our features
+that make your web experience more efficient.
+Beacons
+Our HTML-formatted emails may contain a web beacon to tell us whether our emails are
+opened and verify any clicks through to links or advertisements within the email. We may use
+this information for purposes including determining which of our emails are more interesting to
+users. The web beacon will be deleted when you delete the email. Emails in plain text (if
+applicable) rather than HTML will not include the web beacon.
+Pixel tags
+We use pixel tags (also sometimes also known as web beacons), which are transparent images,
+iFrames, or JavaScript, to understand how consumers interact with our site online, including on
+websites and in mobile apps. Pixel tags are small blocks of code on a webpage or app that
+allow them to read and place cookies and transmit information to us or our partners.
 
-Direct Marketing. Before we use or share your personal information for direct marketing purposes, we may offer you the opportunity to “opt out” or “opt in,” as required by applicable law. To learn more about the choices you have about the ways we use your personal information, please click here. 
 
-Shipping Information If you ship an item to another person, we collect the personal information you provide about him or her and will use that information just as we use your personal information, subject to international restrictions on the use of personal information. For example, we may add that person to our catalog mailing list. If that person does not wish to receive catalogs or other promotional communications from us, he or she may contact us using the contact information provided in the catalog, on each electronic communication or on our Sites. 
+Mobile Identifiers
+When accessing our website on a mobile device or using any of our mobile applications, we will
+have access to your location if you have enabled location services on your device. We will also
+have access to your mobile device ID, which is unique to your device and does not by itself
+contain any personally identifiable information.
+How We Use the Personally Identifiable Information
+that We Collect
+When you supply us with personally identifiable information, the information you provide is added to
+our customer file. We use personally identifiable information in a limited number of ways. We use the
+information to complete transactions. For instance if you contact us for help, we will use the
+information to contact you. We use information collected to notify you if you've won a game or
+contest. Information we collect is also used to send you: products and services, discounts, upcoming
+events and newsletters about our sites; other e-mail promotions and special offers from our third-
+party sponsors; periodic mailings or telephone contact related to products and services, discounts,
+upcoming events, newsletters about our sites; periodic mailings related to other promotions and
+special offers from our third-party sponsors.
+Who We Share Your Information With
+To enhance your experience on our websites, from time to time we may provide information to a
+select group of companies that offer products and services that may be of interest to you. We also
+share information for security reasons.
+Sometimes we use third party companies to help us provide or deliver products or services. In those
+instances, we need to share your information with them to deliver products, assist us in collecting
+and managing customer information, fulfill promotions and/orders and/or communicate with you.
+Some of these companies are given access to some or all of the information you provide us, and
+some may use cookies or other technologies on our behalf. These companies are restricted from
+using your information in any manner other than in helping us to deliver or provide you our products
+and services.
+On occasion, we offer promotions – such as sweepstakes or free subscriptions -- in conjunction with
+a sponsor. We may share your information with the sponsors if they need it to send you a product,
+such as a magazine subscription. We may share your information with those sponsors that can send
+you other special promotions. In addition, we will occasionally send e-mail promotions to our users
+on behalf of third-party sponsors regarding lifestyle-related products or services.
+Content Providers
 
-Employment Information. Some of our Sites include “careers” areas. When you use our Sites to search for job openings or submit an online employment application, we may ask you to provide certain personal information, such as your name, address, telephone number, e-mail address, educational background and employment history. You may also send us your resume and other information relating to your job search or application. We use the information you submit on the careers areas of our Sites for recruiting, hiring, and employment purposes, we do not use it for direct marketing purposes. More specifically, we use the information we collect through the “careers” areas of our Sites: 
 
-  * to respond to your searches and inquiries;
-  * to process your job application and evaluate your qualifications;
-  * to contact you regarding your application, for example, to arrange an interview;
-  * to contact you with information about other employment opportunities we believe will be of interest to you;
-  * to maintain our recruitment, applicant, and employee records;
-  * to comply with applicable laws, such as equal opportunity laws; and
-  * to improve our recruiting, hiring, and employment practices
+On some of our sites, we provide content that is created by a third-party website. In some instances
+the third-party sites will collect information in order to facilitate the transaction or to make the use of
+their content more productive and efficient. In these circumstances the information collected is
+shared between our third-party sponsors and us.
+Third-Party Advertisers and Network Advertisers
+Our privacy policy does not apply when you click on an advertisement and leave our site. You must
+read the privacy policy of that advertiser to see how your personal information will be handled on its
+site.
+In addition, some advertisements on our site are promoting products and services from third-party
+companies. These companies are called "network advertisers." Network advertisers collect
+information when you visit our site. The information is collected using technology, so you may not
+realize it is being collected. The network advertisers collect this information so that they can show
+you ads that are more relevant and interesting to you. You can opt out of the collection of this
+information by following the instructions below.
+Sale of Businesses
+We may sell certain of our businesses or assets to other companies in connection with a merger,
+acquisition, or bankruptcy. When such transactions take place, visitor information (including
+personally identifiable information) may constitute a part of the transferred business assets. In the
+event that we, or any of our affiliates, sell some, all or substantially all of our assets to another
+company, visitor information (including personally identifiable information) likely will be considered an
+asset that will be transferred to such company.
+Organizations That Help Protect the Security and Safety of our Users and
+our Sites
+We will disclose personal information and non-personal information as required by law, for example,
+to comply with a court order or subpoena; to enforce our Terms of Service, or site or
+sweepstakes/contest rules; or to protect the safety and security of users and our sites.
+Choices You Have About Our Collection, Usage and
+Sharing of Your Information
+How You Can Access Your Account Information
+In many cases, if you have established an account with one of our business units, you can review
+your communication preferences through the "My Account" section of our websites. Communication
+preferences are permissions that you have granted us to communicate with you on specific areas of
+interest. You may make modifications to your communication preferences directly through this
+section of "My Account".
 
 
+If you don't have an account, can't find your account or our site doesn’t provide an account section,
+you can simply contact us via email by clicking "Contact Us" located at the bottom of all of our web
+pages or send an email directly to info@goodsamfamily.com. Please include information in the email
+that will help us identify your account so we can assist you with your inquiry or request.
+E-mail Communications
+You can use much of our site without giving us any personally identifiable information. When you
+register with us or give us personally identifiable information, you will have an opportunity at the time
+we collect your information to limit e-mail communications from us and our third-party marketing
+partners. At any time you can request that we not send e-mails to you anymore either by
+unsubscribing from the communication or by contacting us at info@goodsamfamily.com.
+Direct Mail Communications
+We recognize that your privacy is very important to you, and we are committed to protecting it. When
+you subscribe to our publications, join our clubs or otherwise do business with us, please tell us if
+you do not want to receive our direct mail marketing offers for any or just certain products and/or
+services. We will mark your account for a three-year period. You will not receive any direct mail
+offers from us during this three-year period for those products and/or services that you have
+indicated to us that you are not interested in receiving. If you change your mind, just get in touch with
+us and ask that we include you in future offerings. You can ask us at any time to not include you in
+future offerings. However, please note that because marketing campaigns are planned a few months
+ahead of time, you may continue to receive marketing offers for two to four months. Write to us at
+Good Sam Mail Preference Service, P.O. Box 6888, Englewood, CO 80155-6888 to opt out from
+specific future mailings.
+Third Party Ad Tracking and Serving
+We do not control third parties' collection or use of your information. However these third parties may
+provide you with ways to choose not to have your information collected. You can opt out of receiving
+targeted ads from members of the Network Advertising Initiative ("NAI") by following instructions on
+the NAI's website: https://www.networkadvertising.org/.
+California Privacy Rights
+California Civil Code Section 1798.83 permits California residents to request certain information
+regarding our disclosure of personal information to third parties for their direct marketing purposes.
+To make such a request, please send an e-mail to info@goodsamfamily.com. Our website currently
+does not honor browser “do not track” signals.
 
-Please note that by submitting personal information to us through the careers area of one of our Sites, you authorize us to transmit and store your information in our recruitment database and to circulate that information within the **Gander Mountain** family of businesses for the purpose of evaluating your qualifications for job vacancies. We may also use this information in contacting references you provide or to obtain a consumer report regarding your criminal record and other records. If you are hired by one of us, the information you provide during the recruiting process will become part of our employee records and may be used to “populate” or “pre-fill” data fields on password-protected sites used for human resource purposes, such as employee benefit administration sites. The careers areas of our Sites may be “powered” by a third-party service provider. 
 
-**With Whom Do We Share Your Personal Information?**  
-Service Providers. We may share personal information collected through our Sites with companies and organizations that perform services on our behalf, for example, companies that provide support services to us (such as credit card verification services, online recruiting services, and Web hosting services) or that help us market our products and services (such as third-party web analytics firms and marketing consultants). 
+The Type of Security We Provide
+Security is of the utmost concern and importance to us for all personally identifiable information
+associated with our users. We take technical, contractual, administrative, and physical security steps
+to protect all visitors' information. When you provide credit card information, we use secure socket
+layer (SSL) encryption to protect it. However, no internet or e-mail transmission is ever fully secure
+or error free.
+There are some things that you can do to help protect the security of your information as well. For
+instance, never give out your password, since this is what is used to access all of your account
+information. Also remember to sign out of your account and close your browser window when you
+finish surfing the web so that other people using the same computer won't have access to your
+information.
+Children
+Our site is not directed to or intended for, and we do not knowingly collect personally identifiable
+information from children under the age of 13. If you are under thirteen, please do not submit any
+personally identifiable information through our website. We encourage parents and legal guardians
+to monitor their children's internet usage and to help enforce our Privacy Policy by instructing their
+children to never provide personally identifiable information on our website without their permission.
+If you have reason to believe that a child under the age of 13 has provided personally identifiable
+information to us through this website, please contact us, and we will endeavor to delete that
+information from our databases.
+International Users
+Our site is operated and hosted in the United States. Information that you provide to us and the data
+that we collect as a result of your visiting and using our site will be collected, processed in and
+transferred to the U.S. and is subject to U.S. law. The privacy and data protection laws in the U.S.
+may not be equivalent to or adequate under the laws in your country of residence or from which you
+access this site. By visiting this site or by providing us with your personal information you consent to
+this collection, transfer, storage, and processing of information to and in the U.S.
+Exclusions
+This Privacy Policy shall not apply to any unsolicited information you provide us through any of our
+websites or through other means. This includes, but is not limited to, information posted to any public
+areas of our website, such as bulletin boards (collectively, "Public Areas"), any ideas for new
+products or modifications to existing services, and other unsolicited submissions (collectively,
+"Unsolicited Information"), including all User Content as that term is defined in our Terms of Use. All
+such Unsolicited Information shall be deemed to be non-confidential and we shall be free to
+reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or
 
-With Other Members of the Gander Mountain Family of Businesses. When you provide personal information through one of our Sites, the Owner of that Site may share your personal information with other members of the Gander Mountain family of businesses. Before doing so, however, the Owner of the Site may offer you the opportunity to “opt out” or “opt in,” as required by applicable law. Every member of the Gander Mountain family of businesses is required to handle information collected through our Sites in accordance with this Policy and the privacy preferences you have expressed to us. Accordingly, if we share your personal information with other members of the Gander Mountain family of businesses, they will use your information only as permitted under this Policy and will honor the privacy preferences you have expressed to us. 
 
-With Carefully Selected Third Parties. From time to time, we may share our mailing lists with carefully selected third parties (outside the Gander Mountain family of businesses) for their own marketing purposes. For example, we exchange our catalog mailing lists with other catalog companies. Before doing so, however, we may offer you the opportunity to “opt out” or “opt in,” as required by applicable law. 
-
-User Generated Content. Some of our Sites feature “Bragging Boards” or “Get Recognized” boards (collectively “Photo Boards”), which are designed to showcase your outdoor pursuits by allowing you to upload User Generated Content such as photographs (and text describing the photographs). The User Generated Content on these Photo Boards is accessible to visitors of our Sites and to the general public. In addition, we may repurpose User Generated Content you post to Photo Boards for use in advertising campaigns and other promotions. You should have no expectation of privacy with respect to the User Generated Content you or others submit to the Photo Boards. You should not post any User Generated Content on the Photo Boards you do not wish to make available to the general public, and you must take special care to make sure your posts comply with our [Terms and Conditions](https://web.archive.org/customer-service/terms-conditions.shtml "Terms & Conditions"). In particular, your posts must not violate the privacy or other rights of others. If, at any time, you wish us to take down User Generated Content that contains your personal information, please [contact us](https://web.archive.org/contact.shtml "Contact us") and we will work with you to remove the User Generated Content from our Photo Boards. Please be aware, however, that if the User Generated Content has already been distributed to other Web sites or published in other media, we will not be able to recapture and delete it. 
-
-Business Transactions. We may decide, for strategic or other reasons, to sell, buy, merge or otherwise reorganize one or more of our businesses. A transaction of this type may involve the disclosure of personal information to prospective purchasers. In such cases, we will take reasonable measures to protect the personal information we disclose, for example, by requiring the prospective purchaser to sign a non-disclosure agreement limiting the use and protecting the confidentiality of the personal information. 
-
-Compliance With Laws and Protection of Our Rights and the Rights of Others. We may disclose personal information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose personal information to prevent or investigate a possible crime, such as fraud or identity theft; to enforce or apply our online[ Terms and Conditions](https://web.archive.org/customer-service/terms-conditions.shtml "Terms & conditions") or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others. 
-
-As Described in a Privacy Notice. We reserve the right to disclose your personal information as described in any Privacy Notice posted on the Web page where you provide that information. By providing your personal information on that Web page you will be consenting to the disclosure of your personal information as described in that Privacy Notice. 
-
-As Described in a Country-Specific Notice. We reserve the right to disclose your personal information as described in any Country-Specific Notice posted on the Web page where you provide that information. By providing your personal information on that Web page you will be consenting to the disclosure of your personal information as described in that Country-Specific Notice. 
-
-As Described in a Click-Through Agreement. We reserve the right to disclose your personal information as described in any click-through agreement to which you have agreed. 
-
-**Your Choices**  
-In General. We respect your right to make choices about the ways we collect, use and disclose your personal information. In most cases, we will ask you to indicate your choices at the time we collect your personal information. 
-
-Direct Marketing. Before we share your information with affiliates or third parties for their direct marketing purposes, we may offer you the opportunity to choose (by “opting out” or “opting in,” depending on applicable law) whether to have your information shared in this way. In addition, the Owner of a Site to which you submit information may, depending on applicable law, offer you an opportunity to choose (by “opting out”) whether to have your information used for that Site’s own direct marketing purposes. We will also include an “opt out” link in each electronic newsletter or promotional e-mail we send you, so that you can inform us that you do not wish to receive such communications from us in the future. 
-
-Previously Expressed Preferences. You may change previously expressed preferences regarding how we use and share your personal information. If at any time you wish to be taken off our mailing lists, please [contact us.](https://web.archive.org/contact.shtml "Contact Us") Please provide your full name, postal address and e-mail address so that we can find you on our mailing lists. You may ask to be removed from our catalog mailing lists and/or to be removed from our general direct marketing mailing lists. Once we have the information we need, we will remove you from our catalog and/or general direct marketing mailing lists as you have requested. Please give us a reasonable amount of time to honor your request. 
-
-Likewise, if at any time you decide you do not want us to share your personal information with third parties for their direct marketing purposes, please [contact us](https://web.archive.org/contact.shtml "Contact Us"). Please provide your full name, postal address and e-mail address so that we can find you on our mailing lists. Please give us a reasonable amount of time to honor your request. Even if we add you to our “do not share” lists, you may still receive information, catalogs and offers from third parties with whom we shared your information before we processed your request. If this happens to you, please contact the third party directly and ask to be removed from its mailing lists. 
-
-**How Can You Access, Update or Correct Your Personal Information?**  
-Some of our Sites have links that permit you to manage your subscriptions or access and update some of your personal information. In most cases, however, you will need our help. If you wish to access, update or correct your personal information, please [contact us](https://web.archive.org/contact.shtml "Contact Us"). We will respond to you within a reasonable time and, in any case, within the time limits established by applicable law. We may ask you for additional information to verify your identity. In most cases, we will provide access and correct or delete any inaccurate information you discover. In some cases, however, we may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identify. 
-
-**Security**  
-How Do We Protect Personal Information? We take reasonable precautions to provide a level of security appropriate to the sensitivity of the personal information we collect. For example, we use SSL encryption to protect your credit card information as it travels over the Internet. Although we use reasonable measures to help protect your personal information against unauthorized use or disclosure, we cannot guarantee the security of information provided over the Internet or stored in our databases. 
-
-Password Protected Areas of Our Sites. For your protection, certain areas of our Sites may be password protected. You are responsible for maintaining the confidentiality of your passwords. We have the right to assume that anyone accessing our Sites using a password assigned to you has the right to do so. You will be solely responsible for the activities of anyone accessing our Sites using a password assigned to you, even if the individual is not, in fact, authorized by you. If you have reason to believe that your password has been compromised or used without authorization, you must promptly change it using the functionality provided on our Sites. 
-
-**Information Collected by Web Analytics Firms and Marketing Consultants**  
-From time to time, we may use third-party Web analytics firms and marketing consultants to collect information that will help us understand the needs and interests of our visitors; improve the content, functionality and usability of our Sites; and improve the effectiveness of our advertising and marketing efforts. We may permit these companies to use Web beacons, cookies and other Web technologies to count and track visitors to our Sites. Using standard Web technologies, these companies can track what links our visitors use, what pages they view, and other information about the ways our visitors use our Sites. This information does not identify you personally and is not combined with information that identifies you personally. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also delete our cookies as soon as you leave our Sites. Although you are not required to accept our cookies when you visit our Sites, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of our Sites. 
-
-**Links to and from Other Web Sites**  
-Links to Other Sites Operated by Members of the Gander Mountain Family of Businesses. Our Sites contain links to Web sites operated by other members of the Gander Mountain family of businesses. If you visit another of our Web sites take a minute to review the privacy policy. GanderMountain.com, Overtons.com, ConsumersMarine.com, and OvertonsOutdoors.com are all governed by this Policy; our other Web sites have their own privacy policies. 
-
-Ratings and Reviews. Some of our Sites permit visitors to rate and post reviews of the products offered for sale on those Sites. The rating and review functionality may be “powered by” a third party. This means that if you click on “write a review,” you will be transferred directly to a custom Web site operated by that third party. The third party’s site is governed by its terms of use and privacy policy. The third party’s privacy policy describes what information is collected by it when you rate or review a product, how the third party uses that information, and with whom the third party shares that information. We receive some of the information collected through the rating and review functionality on our Sites. 
-
-Site Feedback Surveys. Some of our Sites permit visitors to provide feedback regarding our stores, products, and services by taking surveys. The surveys may be “powered by” a third party. This means that if you click on “Store Feedback Survey,” you will be transferred directly to a custom Web site operated by that third party. The Web site is governed by the third party’s terms of use and privacy policy. The third party’s privacy policy describes what information it collects when you take a survey, how the third party uses that information, and with whom the third party shares that information. We receive some of the information collected through the surveys. 
-
-Personalized Gift Cards. Some of our Sites permit visitors to personalize gift cards by uploading photographs or other content. This functionality may be “powered by” a third party. This means that if you personalize a gift card, you will be transferred directly to a custom Web site operated by that third party. The third party’s site is governed by its terms of use and privacy policy. The third party’s privacy policy describes what information is collected by it when you personalize a gift card, how the third party uses that information, and with whom the third party shares that information. We receive some of the information collected by this third party. 
-
-Social Media Sites. Some of our Sites contain links to social media sites such as Facebook and Twitter. For example, some of our Sites contain links to Facebook fan pages for members of the Gander Mountain family of businesses. Facebook and Twitter and other social media sites are governed by their own terms of use and privacy policies, which you should review. You should have no expectation of privacy with respect to material you or others submit to social media sites such as Facebook and Twitter. You should not post to those sites any material you do not wish to make permanently available to the general public, and you must take special care to make sure your postings do not violate the privacy or other rights of others. 
-
-Links to Other Third-Party Sites. Our Sites also contain links to Web sites operated by third parties other than those identified above. For example, some of our Sites link to third-party sites where you can apply for a credit card or insurance coverage. Some our Sites also link to third-party sites where you can enter sweepstakes contests. Like Facebook and Twitter and the sites that power our ratings and reviews functionality and our feedback surveys, these third-party Web sites are governed by the third party’s terms of use and privacy policies. Before you use any third-party Web site, you should take a few minutes to review the applicable terms of use and privacy policy. 
-
-**Children**   
-Our Sites are not directed nor targeted to children under the age of thirteen. We do not use the Site to knowingly solicit data from or market to children under the age of thirteen. If you are under the age of thirteen, do not provide us with any personal information. If we learn that someone under thirteen has provided personally identifiable information to our Sites, we will use reasonable efforts to remove such information from our databases. 
-
-**Information for Visitors Accessing Our Sites from Outside the United States**  
-Gander Mountain, Overton’s and Consumers Marine are U.S. corporations headquartered in the United States. Our Sites are currently hosted on servers located in the United States, although we reserve the right to relocate our Sites to other servers elsewhere in the world. Your personal information may be stored on servers located within the United States or in another country. In addition, we may transfer your personal information to our service providers and others located in the United States or another country for the purposes described in this Policy. Different countries have different privacy laws and requirements, and some provide less legal protection for your personal information than others. Please know, however, that no matter where your personal information is collected, used, transferred or stored, if it was collected through this Policy, it will be protected by the terms of this Policy and any Privacy Notices, Country-Specific Notices or other agreements that apply to you. 
-
-BY USING THIS WEB SITE, YOU ARE CONSENTING TO THE COLLECTION, USE, AND TRANSFER OF YOUR PERSONAL INFORMATION IN OR TO THE UNITED STATES OR TO ANY OTHER COUNTRY IN THE WORLD SUBJECT TO THE TERMS OF THIS POLICY 
-
-**Governing Law**  
-This Policy is part of our [Terms and Conditions ](https://web.archive.org/customer-service/terms-conditions.shtml "Terms & Conditions") and, as such, shall be governed under the laws of the State of Minnesota, United States of America, without regard to its conflicts of law provisions. 
+attribution. Please also note that any personally identifiable information or other information you
+provide to be displayed in your publicly available online profile will be displayed for others to see and
+thus will not be subject to the terms of this Privacy Policy. We cannot and will not be responsible for
+what third parties do with any personally identifiable information or other information that you choose
+to make publicly available. As such, we advise that you exercise great care in determining what
+information you choose to make publicly available through our websites.
+Policy Changes
+Please note: Due to the rapidly changing nature of the Internet, we may change this Privacy Policy
+from time to time based on your comments and our need to accurately reflect our data collection and
+disclosure practices. This Privacy Policy is effective as of December 21, 2017 and has not been
+revised in any material respect since such effective date. All changes to this Privacy Policy are
+effective immediately. In the event of any material changes to this Privacy Policy, we will notify users
+of our site of the change by providing an "updated as of" date on the "Privacy Policy" link on our
+website, which "updated as of" date will remain in the "Privacy Policy" link for a period of at least 30
+days after the effectiveness of the changes.
