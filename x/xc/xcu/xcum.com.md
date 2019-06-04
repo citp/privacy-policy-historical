@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcum.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401210333id_/http%3A//xcum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcum.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604225405id_/https%3A//xcum.com/privacy) for the most accurate reproduction.*
 
 # DMCA notice & takedown policy and procedures
 
