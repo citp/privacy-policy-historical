@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908012542id_/https%3A//www.tatasky.com/wps/portal/TataSky/footerpages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatasky.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604151031id_/https%3A//www.tatasky.com/wps/portal/TataSky/footerpages/privacypolicy) for the most accurate reproduction.*
 
 # Tata Sky DTH Privacy Policy, Digital TV, DTH India
 
@@ -47,3 +47,9 @@ Third parties, including Facebook, may use cookies, web beacons, and other stora
 
 
 \- As on March 19, 2018
+
+  1. **Grievance Officer**  
+Contact Number – 08066233705  
+Email ID - Grievance.officer@tatasky.com
+
+
