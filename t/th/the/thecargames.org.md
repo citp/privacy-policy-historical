@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecargames.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230180248id_/http%3A//www.thecargames.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecargames.org privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604123412id_/http%3A//www.thecargames.org/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
