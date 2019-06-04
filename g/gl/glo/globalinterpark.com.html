@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalinterpark.com privacy policy that was archived on 2018-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228123638id_/http%3A//www.globalinterpark.com/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalinterpark.com privacy policy that was archived on 2019-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190604195959id_/http%3A//www.globalinterpark.com/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="en"><head>
 
@@ -7,20 +7,20 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>interpark</title>
 <meta name="description" content="Interpark global website">
-<link rel="shortcut icon" href="http://openimage.interpark.com/cbt/img/icons/favicon.ico">
-<link rel="stylesheet" href="/cbt2/css/commons/common.page.css?2018122111">
-<script type="text/javascript" src="/common/js/jquery_2_0_3.js?2018122111"></script>
-<script type="text/javascript" src="/common/js/jquery.i18n.properties.js?2018122111"></script>
-<script type="text/javascript" src="/common/js/js.cookie.js?2018122111"></script>
-<script type="text/javascript" src="/common/js/jquery.blockUI.js?2018122111"></script>
-<script type="text/javascript" src="/common/js/jquery.stickr.js?2018122111"></script>
-<script type="text/javascript" src="/common/js/jquery.cookie.js?2018122111"></script>
-<script type="text/javascript" src="/common/js/customSelect.js?2018122111"></script>
-<script type="text/javascript" src="/common/js/common.js?2018122111"></script>
-<script type="text/javascript" src="/cbt2/js/CookieUtil.js?2018122111"></script>
-<script type="text/javascript" src="/cbt2/js/popupOpener.js?2018122111"></script>
+<link rel="shortcut icon" href="//image.interparkglobal.com/cbt/img/icons/favicon.ico">
+<link rel="stylesheet" href="/cbt2/css/commons/common.page.css?2019052209">
+<script type="text/javascript" src="/common/js/jquery_2_0_3.js?2019052209"></script>
+<script type="text/javascript" src="/common/js/jquery.i18n.properties.js?2019052209"></script>
+<script type="text/javascript" src="/common/js/js.cookie.js?2019052209"></script>
+<script type="text/javascript" src="/common/js/jquery.blockUI.js?2019052209"></script>
+<script type="text/javascript" src="/common/js/jquery.stickr.js?2019052209"></script>
+<script type="text/javascript" src="/common/js/jquery.cookie.js?2019052209"></script>
+<script type="text/javascript" src="/common/js/customSelect.js?2019052209"></script>
+<script type="text/javascript" src="/common/js/common.js?2019052209"></script>
+<script type="text/javascript" src="/cbt2/js/CookieUtil.js?2019052209"></script>
+<script type="text/javascript" src="/cbt2/js/popupOpener.js?2019052209"></script>
 
-<script type="text/javascript" src="/cbt2/js/common.js?2018122111"></script>
+<script type="text/javascript" src="/cbt2/js/common.js?2019052209"></script>
 <script src="/common/js/jquery.bxslider.js"></script>
 <script src="/cbt2/js/wing.js"></script>
 
@@ -49,8 +49,8 @@
 
 
 
-<link rel="stylesheet" href="/cbt2/css/partials/header.default.css?2018122111">
-<link rel="stylesheet" href="/cbt2/css/partials/footer.default.css?2018122111">
+<link rel="stylesheet" href="/cbt2/css/partials/header.default.css?2019052209">
+<link rel="stylesheet" href="/cbt2/css/partials/footer.default.css?2019052209">
 
 <input type="hidden" id="cacheTest" name="cacheTest">
 <script src="/common/js/base64.js"></script>
@@ -350,16 +350,20 @@
     	    	$(sub2Menu).appendTo($(cateMenu).find('.wrap'));
     	    	
     	    	$(item2.list).each(function(index3, item3){
-    				var sub3Menu = $('#leftMenu3depth').clone(true);
+    	    		var sub3Menu = $('#leftMenu3depth').clone(true);
     				
     		    	$(sub3Menu).find('a').html(item3.menuNm);
     		    	var shopNo = "&shopNo=0000100000&subDepth=Y";
     		    	if (item3.prdTp == "002") {
     		    		shopNo += "&prdTp=002";
     		    	}
-    		    	$(sub3Menu).find('a').attr('href', '/main/categoryList?dispNo='+ item3.dispNo + shopNo);
+    		    	if (item3.addLink != "") {
+        		    	$(sub3Menu).find('a').attr('href', item3.addLink);
+    		    	} else {
+        		    	$(sub3Menu).find('a').attr('href', '/main/categoryList?dispNo='+ item3.dispNo + shopNo);
+    		    	}
     		    	$(sub3Menu).appendTo($(cateMenu).find('.wrap'));
-
+    		    	
     	    	});
     	    });
     	    $(cateMenu).appendTo('#mainLeftMenuUl').show();
@@ -505,7 +509,7 @@ function fn_signin() {
                                 APP
                             <em class="enDownload">DOWNLOAD</em>
                             <span class="layerImg en">
-                                <img src="http://openimage.interpark.com/cbt/img/partial/global-nav/en/img_navLayerApp.png" alt="">
+                                <img src="//image.interparkglobal.com/cbt/img/partial/global-nav/en/img_navLayerApp.png" alt="">
                             </span>
                         </a>
                     </li>
@@ -590,7 +594,7 @@ function fn_signin() {
         <div class="wrapper">
             <div class="logo">
                 <h1>
-                    <a href="http://www.globalinterpark.com/main/main"> <img src="http://openimage.interpark.com/cbt/img/partial/header/en/logo_interpark.png" alt="Worldwide Shipping Interpark Global shopping">
+                    <a href="http://www.globalinterpark.com/main/main"> <img src="//image.interparkglobal.com/cbt/img/partial/header/en/logo_interpark.png" alt="Worldwide Shipping Interpark Global shopping">
                     </a>
                 </h1>
             </div>
@@ -1046,7 +1050,7 @@ function fn_signin() {
 				
 			htmlStr += "<li>";
 			htmlStr += "<a href='/detail/detail?prdNo=" + recentlyList[i] + "'>";
-			htmlStr += "    <img src='http://openimage.interpark.com/goods_image/" + htmla + "/" + htmlb + "/" + htmlc + "/" + htmld + "/" + recentlyList[i] + "s.jpg' />";
+			htmlStr += "    <img src='http://image.interparkglobal.com/goods_image/" + htmla + "/" + htmlb + "/" + htmlc + "/" + htmld + "/" + recentlyList[i] + "s.jpg' />";
 			htmlStr += "</a>";
 			htmlStr += "</li>";
         }
@@ -1115,7 +1119,7 @@ function fn_signin() {
     <ul class="wingList">
 		<p>
 			<a href="#">
-				<img src="//openimage.interpark.com/cbt/img/partial/wing/icon_wingLeft.mark.gif" alt="items01"> </a>
+				<img src="//image.interparkglobal.com/cbt/img/partial/wing/icon_wingLeft.mark.gif" alt="items01"> </a>
 		</p>
     	
             
@@ -1218,7 +1222,6 @@ function fn_signin() {
             <div id="family">
                 <select title="Family Sites">
                     <option value="http://www.interpark.com/holding/communication/CompanyInfo.do?_method=initial">Interpark Holdings</option>
-                    <option value="http://global.interpark.com/bookPark/html/book.html">Interpark Global</option>
                     <option value="http://www.imarketkorea.com/?wid1=footer&amp;wid2=group&amp;wid3=imk">iMarketKorea</option>
                     <option value="http://www.interparklogistics.com/default/">Interpark Logistics</option>
                     <option value="http://www.bluesquare.kr/?wid1=footer&amp;wid2=group&amp;wid3=bluesquare">Blue Square</option>
@@ -1236,7 +1239,7 @@ function fn_signin() {
     <div class="footerArticle">
         <p class="footerNotice">Interpark shall not be held responsible for the validity of the information of products registered and available for sale on the Interpark website as it has been presented by sellers.</p>
         <p class="address">
-            INTERPARK Corporation.135-880 512 Samseong-ro, Gangnam-gu, Seoul, KoreaㅣPhone Number (+82)1588-1555
+            INTERPARK Corporation.135-880 512 Samseong-ro, Gangnam-gu, Seoul, KoreaㅣPhone Number (+82)1588-1555 ㅣCS(Shopping) cs_global@interpark.comㅣCS(Ticket) tickethelp@interpark.com
             <br>Business Registration Number ː 214-87-98889ㅣTelecommunication sale business registration number ː Gangnam 02549ㅣCheif Executive Officer：Dong-Hwa Kang, Yang-Sun Kim
         </p>
         <p class="copyright">
