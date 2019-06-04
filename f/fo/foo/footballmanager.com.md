@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the footballmanager.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929222303id_/http%3A//www.sega.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballmanager.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605001229id_/http%3A//www.sega.co.uk/Privacy) for the most accurate reproduction.*
 
 # SEGA UK - Privacy Policy | SEGA
 
-Effective Date, 17 May 2018
+Effective Date, 17 Dec 2018
 
 ## **Introduction**
 
@@ -57,6 +57,12 @@ your questions, suggestions or views on the Products
 | 
 
 information about your use of our Products that is shared with third party platforms and services connected with our Products  
+  
+(f) Information from publicly available online sources:
+
+| 
+
+information that has been made publicly available by you on third party platforms (such as Facebook or Twitter) and which relates to our Products  
   
 Learn more
 
@@ -221,9 +227,13 @@ See also our [Cookies Policy](http://www.sega.co.uk/cookiepolicy)
 
 We will collect personal information from the messages and reviews you post on our social forums or on the _Games2Gether_ platform, and when you contact us, for example with a question, problem or comment. Telephone support through our customer services department is automated and we do not collect your personal information.  If you contact our customer services team by email or post, we will keep copies of your correspondence with us for as long as necessary to deal with your query.
 
-**(e) Third party information**
+**(e)  Third party information**
 
 We share information obtained from your use of our Products with third parties to provide you with an optimal experience, to facilitate use of the Products as advertised and to enable you to play our Products on various platforms.
+
+**(f)  Information from publicly available online sources**
+
+SEGA uses its own and third party analytic technologies to collect information about how you use our Products, how you engage with our marketing campaigns and to gain an understanding of community sentiment about our Products.  In doing so, we may collect and analyse information which has been made publicly available by you through third party platforms such as Facebook, Twitter, Reddit and public forums. The data that SEGA collects may include a Facebook comment, a Tweet or a post on a public forum, where these specifically relate to our Products.
 
 ## 2.How we use the information we collect
 
@@ -266,6 +276,10 @@ We may also work with advertising networks that serve advertisements into our Pr
 Certain Products are currently supported by third party advertising partners that serve advertisements (“ **Third Party Advertisers** ”), including behavioural, location or interest based advertising (“ **Interest Based Advertising** ”) within our Products. These Third Party Advertisers use technology to serve the advertisements and link to them directly into the Products.  They may automatically receive your device ID, IP address or geo-location data when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalise the advertising content you see.
 
 We may also bring you advertising content in a game, which you would traditionally see in a live game environment, for example perimeter advertising. For example, our Football Manager PC/Mac Product is currently supported by Bidstack, a platform that enables Third Party Advertisers to dynamically buy in-game native billboard space within video games.
+
+**(f) Information from publicly available online sources**
+
+We will use and analyse this data for our legitimate interests so that we can collect information about how you use our Products, how you engage with our marketing campaigns and to gain an understanding of community sentiment about our Products.  We may use third party analytics providers who collect this data on our behalf.  Where possible, we will ensure that any personal data that is collected for these purposes shall be anonymised.
 
 ## 3.When we share information
 
