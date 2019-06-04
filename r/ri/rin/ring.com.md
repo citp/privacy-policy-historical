@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ring.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825113554id_/https%3A//ring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ring.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604153144id_/https%3A//ring.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Ring
 
 _Effective date:  March 27, 2018_
 
-Ring Inc. and our affiliates (“Ring”) respect your concerns about privacy. This Privacy Notice describes the types of personal information we obtain about consumers and other individuals identified below, how we may use the personal information, with whom we may share it, and the choices available regarding our use of the personal information. The Privacy Notice also describes the measures we take to safeguard the personal information and how individuals can contact us about our privacy practices.
+Ring LLC and our affiliates (“Ring”) respect your concerns about privacy. This Privacy Notice describes the types of personal information we obtain about consumers and other individuals identified below, how we may use the personal information, with whom we may share it, and the choices available regarding our use of the personal information. The Privacy Notice also describes the measures we take to safeguard the personal information and how individuals can contact us about our privacy practices.
 
   * Information We Collect
     * Information We Obtain About You
@@ -102,7 +102,7 @@ We reserve the right to transfer any personal information we have about you in t
 
 ###  _Ring+ Service_
 
-Through our Ring+ service, you may choose to connect to certain third-party services offered by our business partners. To activate a connection and allow the Ring products and services to interface with an available third-party service, each Ring+ connection requires the exchange of certain information between Ring and our business partner that is providing the third-party service. For example, to enable you to integrate Ring’s products and services with those of our business partners, we may share certain account information with those business partners, such as your account ID and email address. In addition, we may share certain data our products collect from their surrounding environment that is necessary to perform their functions (such as motion or events outside your door). In each case, we will engage with a given third-party service only if you choose to activate such a connection. You may revoke a connection to a third-party service at any time by contacting Ring at [privacy@ring.com](mailto:privacy@ring.com) or, depending on the particular third-party service, accessing your settings under your account with that service. The privacy statements of our business partners apply to any information practices of those partners and to the information shared with them.
+Through our Ring+ service, you may choose to connect to certain third-party services offered by our business partners. To activate a connection and allow the Ring products and services to interface with an available third-party service, each Ring+ connection requires the exchange of certain information between Ring and our business partner that is providing the third-party service. For example, to enable you to integrate Ring’s products and services with those of our business partners, we may share certain account information with those business partners, such as your account ID and email address. In addition, we may share certain data our products collect from their surrounding environment that is necessary to perform their functions (such as motion or events outside your door). In each case, we will engage with a given third-party service only if you choose to activate such a connection. You may revoke a connection to a third-party service at any time by contacting Ring at privacy@ring.com or, depending on the particular third-party service, accessing your settings under your account with that service. The privacy statements of our business partners apply to any information practices of those partners and to the information shared with them.
 
 ##  **Your Choices**
 
@@ -130,8 +130,8 @@ We recognize the importance of protecting children's online privacy. Ring's prod
 
 This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a notice on our websites and mobile apps to notify you of significant changes to our Privacy Notice and indicate at the top of the notice when it was most recently updated.
 
-If you have any questions about this Privacy Notice, or if you would like us to update information we have about you, change your preferences or exercise other applicable data protection rights, please contact us by e-mail at [privacy@ring.com](mailto:privacy@ring.com) or write to us at:
+If you have any questions about this Privacy Notice, or if you would like us to update information we have about you, change your preferences or exercise other applicable data protection rights, please contact us by e-mail at privacy@ring.com or write to us at:
 
-Ring Inc.  
+Ring LLC  
 1523 26th Street  
 Santa Monica, CA 90404
