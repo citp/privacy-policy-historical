@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the tyadnetwork.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203145610id_/http%3A//tyadnetwork.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyadnetwork.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604025658id_/http%3A//tyadnetwork.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # The Thank You Ad Network! Free Integration Marketing Traffic Exchange | Free Advertising Free Web Traffic
 
-tyadnetwork.com Privacy Policy  
+tyadnetwork.com  
+Privacy Policy  
 
 
   
