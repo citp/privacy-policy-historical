@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameskinny.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923131533id_/https%3A//www.gameskinny.com/375/privacy-policy-375) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameskinny.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604201312id_/https%3A//www.gameskinny.com/ci45x/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,7 +43,7 @@ Certain data is required to use our service. We track IP addresses for fraud and
     * Right to object
     * Rights of automated decision-making and profiling
 
-If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with GameSkinny, please feel free to contact GameSkinny at the following address: 8010 Roswell Rd, Atlanta, GA 30350
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with GameSkinny, please feel free to contact GameSkinny at the following address: 80 Johnson Ferry Rd NE, Atlanta, GA 30328
 
 
 
