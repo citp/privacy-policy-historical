@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outbrain.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227215456id_/https%3A//www.outbrain.com/legal/privacy%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outbrain.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604233118id_/https%3A//www.outbrain.com/legal/privacy%23privacy-policy) for the most accurate reproduction.*
 
 # Outbrain Inc. Legal Center
 
