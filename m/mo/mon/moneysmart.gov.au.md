@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907221645id_/https%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604053736id_/https%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | ASIC's MoneySmart
 
@@ -41,11 +41,19 @@ ASIC's MoneySmart will only retain your personal information with your consent, 
 
 ASIC's MoneySmart will not disclose or distribute your personal information without your consent, except where required to by law, for example by court order.
 
-When you set up a personal profile in ASIC's MoneySmart (so that you can save and retrieve your results for calculators and apps), or when you request subscription to our eNewsletter, you will only be required to supply your email address. All other details you might choose to supply are optional.
+### MoneySmart personal profile
+
+When you set up a personal profile in ASIC's MoneySmart (so that you can save and retrieve your results for calculators and apps)you will only be required to supply your email address. All other details you might choose to supply are optional.
 
 Your email address will only be used for the purpose for which you provided it and will not be given to any outside party.
 
 You can amend all the information in your MoneySmart personal profile.
+
+### MoneySmart Tips enewsletter
+
+By subscribing to MoneySmart Tips, you consent to your email address being provided to Campaign Monitor, our enewsletter service provider. [Campaign Monitor's privacy policy](https://www.campaignmonitor.com/policies/) explains how they handle personal information, including their overseas storage practices.
+
+Your email address is only used to deliver MoneySmart Tips to you. You can use an alias or generic email address. You can [access current and past editions MoneySmart Tips or unsubscribe](https://web.archive.org/tools-and-resources/subscribe "Subscribe to our eNewsletter") on our website.
 
 ## Publishing unclaimed money data
 
@@ -63,4 +71,4 @@ As there may be security risks in sending information via the internet, you shou
 
 If you have any concerns about your privacy when using this website, email us at [feedback@moneysmart.gov.au](mailto:info@moneysmart.gov.au "info@moneysmart.gov.au") or phone the ASIC Infoline on 1300 300 630.
 
-Last updated: 04 Aug 2016
+Last updated: 15 Mar 2019
