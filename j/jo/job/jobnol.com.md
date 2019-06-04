@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobnol.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111000535id_/http%3A//www.jobnol.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobnol.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604152746id_/http%3A//www.jobnol.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - JOBNOL
 
