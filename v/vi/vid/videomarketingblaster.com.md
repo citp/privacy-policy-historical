@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videomarketingblaster.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231153307id_/http%3A//blastermarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videomarketingblaster.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604110139id_/http%3A//blastermarketing.com/privacy) for the most accurate reproduction.*
 
 # Blaster Marketing
 
@@ -12,17 +12,15 @@
   
 
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from Blaster Suite Network. The Blaster Suite Websites are: http://blastersuite.com , http://liveblaster.com , http://liveblaster2.com , http://blastermarketing.com , http://videomarketingblasterpro.com , http://videomarketingblaster.com , http://pixoblaster.com , http://videoleadstudio.com , http://massvideoblasterpro.com , http://videospinblasterproplus.com , http://blasterbonus.com , http://lingoblaster.com . We will refer to this sites as the “Site”.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from Blaster Suite Network. The Blaster Suite Websites are: http://blastersuite.com , http://liveblaster.com , http://liveblaster2.com , http://blastermarketing.com , http://videomarketingblasterpro.com , http://videomarketingblaster.com , http://pixoblaster.com , http://videoleadstudio.com , http://massvideoblasterpro.com , http://videospinblasterproplus.com , http://blasterbonus.com , http://lingoblaster.com . We will refer to this sites as the “Site”. This privacy policy will explain how our organization uses the personal data we collect from you when you use our website.
 
-**PERSONAL INFORMATION WE COLLECT**
+**What data do we collect?**
 
-When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
+When you visit the Site, we automatically collect certain information about your device and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages from our website that you visit. We refer to this automatically-collected information as “Device Information.”
 
-**We collect Device Information using the following technologies:**
+**How do we collect your data?**
 
 – “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
-
-– “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
 – “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
@@ -30,18 +28,16 @@ Additionally when you enter your email, make a purchase, or attempt to make a pu
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-**HOW DO WE USE YOUR PERSONAL INFORMATION?**  
+**How do we use the your data?**  
 We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for delivery or shipping, and providing you with invoices and/or order confirmations).  Additionally, we use this Order Information to:  
 Communicate with you;  
-Screen our orders for potential risk or fraud; and  
 When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.  
 We also send relevant offers from our partners (affiliates) from time to time.  
-We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).  
 We also use the info we collect about you on our site for advertising, retargeting, tracking sales, tracking actions across the site, etc…
 
 **SHARING YOUR PERSONAL INFORMATION**
 
-We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use Avangate.com or JVzoo.com to power our online store–you can read more about how Avangate.com uses your Personal Information here:  http://www.avangate.com/legal/privacy.php We also use Google Analytics to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here:  https://www.google.com/intl/en/policies/privacy/.  You can also opt-out of Google Analytics here:  https://tools.google.com/dlpage/gaoptout.
+Our website contains tracking pixels from Google and Facebook. We do not share your personal information (email, phone number) with anybody.For example, we use 2Checkout.com or JVzoo.com to power our online store–you can read more about how 2checkout.com uses your Personal Information here:  http://www.avangate.com/legal/privacy.php We also use Google Analytics to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here:  https://www.google.com/intl/en/policies/privacy/.  You can also opt-out of Google Analytics here:  https://tools.google.com/dlpage/gaoptout.
 
 Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
