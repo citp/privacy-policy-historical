@@ -1,42 +1,65 @@
-> *The following text is extracted and transformed from the gadgetfolder.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115065241id_/http%3A//www.gadgetfolder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetfolder.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604131327id_/http%3A//www.gadgetfolder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Page of GadgetFolder.Com
+# PRIVACY POLICY | Page of GadgetFolder.Com
 
-**GadgetFolder.Com Privacy Statement**
+This Privacy Policy governs the manner in which gadgetfolder collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.gadgetfolder.com](http://www.gadgetfolder.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by gadgetfolder.
 
-What follows is the Privacy Statement for all **GadgetFolder.Com** websites (a.k.a. blogs) including all the websites run under the [GadgetFolder.Com](http://www.gadgetfolder.com/ "Gadget Folder") domain.
+ **Personal identification information**
 
-Please read this statement regarding our blogs. If you have questions please ask us via our email (editor [at] gadgetfolder [dot] net).
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**Email Addresses**  
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We don’t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact form.
+ **Non-personal identification information**
 
-**Ownership of Information**  
-**GadgetFolder.Com** is the sole owner of any information collected on our websites.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**Comments/Message Boards**  
-Most **GadgetFolder.Com** websites contain comment sections (a.k.a. message boards). We do not actively monitor these comments and the information on them is for entertainment purposes only. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use email validation on most of our message boards in order to reduce “comment spam.” These email addresses will not be shared with any third party.
+ **Web browser cookies**
 
-**Cookies**  
-Currently we assign cookies to our readers in order to save their preferences. This data is not shared with any third party. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you wish.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**Third Party Cookies**  
-Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. **GadgetFolder.Com** does not have access to this data.
+ **How we use collected information**
 
-**Traffic Reports**  
-Our industry-standard traffic reporting records IP addresses, Internet service provider information, referrer strings, browser types and the date and time pages are loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular.
+Gadgetfolder may collect and use Users personal information for the following purposes:
 
-**Legal proceedings**  
-We will make every effort to preserve user privacy but **GadgetFolder.Com** may need to disclose information when required by law.
+  *  _– To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  *  _– To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  *  _– To send periodic emails_  
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-**Business Transitions**  
-If **GadgetFolder.Com** is acquired by or merges with another firm, the assets of our websites, including personal information, will likely be transferred to the new firm.
 
-**Links**  
-GadgetFolder.Com websites frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination site’s privacy policy. This privacy statement applies solely to information collected by **GadgetFolder.Com.**
 
-**Notification of Changes**  
-When **GadgetFolder.Com** makes changes to this privacy policy we will post those changes here.
+ **How we protect your information**
 
-**Contact Information**  
-If you have any questions regarding our privacy policy, please contact us.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+ **Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+ **Third party websites**
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+ **Advertising**
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+ **Changes to this privacy policy**
+
+Gadgetfolder has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+ **Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+ **Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+gadgetfolder  
+[www.gadgetfolder.com](http://www.gadgetfolder.com/)  
+gadgetfolder[at]gmail.com
+
+This document was last updated on May 29, 2017
