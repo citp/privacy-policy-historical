@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020090416id_/https%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604045740id_/https%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Canandaigua National Bank & Trust
 
@@ -76,7 +76,7 @@ Canandaigua National Bank will continually look for new advances in security tec
 
 Canandaigua National Bank & Trust Online Accessibility Statement  
 
-If you have difficulty accessing features or functions on this website, fill out a [contact us form](https://web.archive.org/Your_Bank/Contact_Us/ "contact us form") or call us at 585-394-4260 ext. 0 during regular business hours and we will work with you to provide the information you seek. 
+If you have difficulty accessing features or functions on this website, fill out a [contact us form](https://web.archive.org/Your_Bank/Contact_Us/ "contact us form \(link\)") or call us at 585-394-4260 ext. 0 during regular business hours and we will work with you to provide the information you seek. 
 
 Our goal is to permit customers to successfully gather information and conduct business through our website and other technology platforms. Canandaigua National Bank & Trust has taken steps and is devoting resources to promote accessibility.  
 We have engaged outside vendors and consultants for this purpose. Specific items our vendors and consultants have addressed or are addressing include –  
@@ -104,8 +104,8 @@ Adwords Remarketing is a Remarketing and Behavioral Targeting service provided b
 **  
 In addition, we encourage our customers to learn more about Internet Security and Electronic commerce at a representative sample of sites listed below: 
 
-  * [Microsoft Security  ](https://web.archive.org/leaving.aspx?link=http://www.microsoft.com/security/ "Microsoft Security")
-  * [Federal Trade Commission - Consumer Guide to E-Commerce & the Internet ](https://web.archive.org/leaving.aspx?link=http://www.ftc.gov/bcp/menus/consumer/tech.shtm "Federal Trade Commission - Consumer Guide to E-Commerce &amp; the Internet")
+  * [Microsoft Security  ](https://web.archive.org/leaving.aspx?link=http://www.microsoft.com/security/ "Microsoft Security \(link\)")
+  * [Federal Trade Commission - Consumer Guide to E-Commerce & the Internet ](https://web.archive.org/leaving.aspx?link=http://www.ftc.gov/bcp/menus/consumer/tech.shtm "Federal Trade Commission - Consumer Guide to E-Commerce &amp; the Internet \(link\)")
 
 
 
