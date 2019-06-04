@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the changelog.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107234905id_/https%3A//changelog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changelog.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604023406id_/https%3A//changelog.com/privacy) for the most accurate reproduction.*
 
-# Privacy | News and podcasts for developers | Changelog
+# Privacy |> News and podcasts for developers |> Changelog
 
 Please read this document carefully before accessing or using Changelog.com.
 
