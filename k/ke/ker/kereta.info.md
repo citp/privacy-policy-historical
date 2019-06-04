@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kereta.info privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117155231id_/http%3A//kereta.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kereta.info privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604214534id_/http%3A//kereta.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,6 +22,4 @@ I use outside ad companies to display ads on my site. These ads may contain cook
 Contact Information  
 If users have any questions or suggestions regarding my privacy policy, please contact me by filling up the contact form by clicking our “contact us” button.
 
-kdi
-
-Team KDI suka berkongsi info, tips, gambar kereta modified, bodykit dijual terkini, trend DIY modifikasi. Forum bincang mengenai masalah kereta, cara repair sendiri dengan harga murah dan panduan kepada pembeli dan pemandu. ====================== Kategori hangat kereta dot info: \+ LATEST NEW CAR SPECIFICATION & VS COMPARISON \+ MODIFIED CAR + BODYKIT IMAGES GALLERY \+ TIPS + DIY + TANYA KERETA \+ MONTHLY BEST DEAL + PROMOTION + AUTOSHOW + EVENTS UPDATE ====================== Barang kereta terhangat: \+ Body kit, skirting, bumper, grille, spoiler, engine performance, sport rim, tayar ====================== Topic hangat: \+ Fuel consumption km/l, problem, service, test drive, review, price RM, kelab, kedai kereta ====================== Kereta baru terhangat: \+ Saga BLM FLX SE, Myvi 1.3 1.5 SE, Viva, Alza, Exora, Preve, Vios, City, Civic, Corolla Altis, Camry, Accord, Hilux, Livina, Triton, D-max, Inspira lancer GT ====================== Pecah fiber pecah gelas, sudah baca harap komen dibalas. Terima kasih! =)
+Please follow and like us:
