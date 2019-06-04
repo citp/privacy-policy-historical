@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontheclock.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927115559id_/https%3A//www.ontheclock.com/frmPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontheclock.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604090530id_/https%3A//www.ontheclock.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy • OnTheClock
 
