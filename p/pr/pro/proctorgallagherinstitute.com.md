@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the proctorgallagherinstitute.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227044816id_/http%3A//www.proctorgallagherinstitute.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proctorgallagherinstitute.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604213743id_/http%3A//www.proctorgallagherinstitute.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Proctor Gallagher Institute
 
 **PRIVACY POLICY**
 
-Proctor Gallagher Institute, L.P. (the “Company”) is dedicated to protecting privacy while using the services of [proctorgallagherinstitute.com](http://www.proctorgallagherinstitute.com/) (the “Website”).  This privacy policy statement explains information collection and use practices for the Website. By accessing the Website, you are agreeing with and consenting to the data collection and use practices described in this privacy policy. This privacy policy statement expressly incorporates and is subject to the Terms of Use (“TOU”) for the Website, which may be separately accessed via a hypertext link located on its homepage. The provisions, terms and conditions set forth in the TOU shall supersede, govern and control in the event of any actual or potential inconsistency or conflict with the contents of this privacy policy statement.
+Proctor Gallagher Institute, L.P. (the “Company”) is dedicated to protecting privacy while using the services of [proctorgallagherinstitute.com](https://www.proctorgallagherinstitute.com/) (the “Website”).  This privacy policy statement explains information collection and use practices for the Website. By accessing the Website, you are agreeing with and consenting to the data collection and use practices described in this privacy policy. This privacy policy statement expressly incorporates and is subject to the Terms of Use (“TOU”) for the Website, which may be separately accessed via a hypertext link located on its homepage. The provisions, terms and conditions set forth in the TOU shall supersede, govern and control in the event of any actual or potential inconsistency or conflict with the contents of this privacy policy statement.
 
 **PERSONAL DATA COLLECTION**
 
