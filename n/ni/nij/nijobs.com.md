@@ -1,162 +1,258 @@
-> *The following text is extracted and transformed from the nijobs.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730044334id_/http%3A//www.nijobs.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nijobs.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604104912id_/https%3A//www.nijobs.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - nijobs.com
 
 ## Privacy Policy
 
-We at NIJobs.com care about your privacy and we respect your privacy rights. 
+This Privacy Policy is provided in a layered format so you can click through to the specific areas set out below.
 
-NIJobs.com has created this Privacy Policy to demonstrate our firm commitment to privacy. The following outlines this commitment to users as we want to be able to provide everyone with a user experience that is safe and secure. NIJobs.com wants to ensure, to our best efforts, that any information you give us remains private and are used only for the purposes outlined in this Policy. 
+We at NIjobs.com care about your privacy and we respect your privacy rights. NIjobs.com has created this Privacy Policy to demonstrate our firm commitment to your privacy. The following outlines this commitment to users of our Website (as defined below) as we want to be able to provide everyone with a user experience that is safe and secure. NIjobs.com endeavours to ensure that any personal data you give us via our Website remains private and is used only for the purposes outlined in this Privacy Policy. By using the Website and/or the NIjobs.com Service, you acknowledge the collection and use of your personal data as outlined below. This version of our Privacy Policy was last updated on 25/01/2019. 
 
-By using the Website and/or the NIJobs.com Service, you permit the collection and use of your personal information as outlined below and you signify your agreement to this Privacy Policy ( **last updated on 12.11.2013** ). If you do not agree with these terms, you should not use the Website and/or an NIJobs.com Service. 
+## 1 ABOUT OUR PRIVACY POLICY
 
-## About our privacy policy
+1.1 Our website NIJOBS.COM which includes any webpage containing this domain name, including any page that is enabled for use by a mobile device or any webpage redirected from another domain name (the “Website”) and the services provided on the Website (for a more complete description of the services see our Terms of Use) (the “NIjobs.com Service”) are operated by NIJobs.com Limited trading as NIJobs.com, 3rd Floor Rose House, 2 Derryvolgie Avenue, Belfast, BT9 6FL (“NIJobs.com”, “we”, “us” and “our”). 
 
-  * Our website NIJOBS.COM which includes any webpage containing this domain name, including any page that is enabled for use by a mobile device or any webpage redirected from another domain name (the **“Website"** ) and the services provided on the Website (for a more complete description of the services see our [Terms and Conditions ](https://web.archive.org/about/terms) ) (the " **NIJobs.com Service** ") are operated by NIJobs.com,3rd Floor Rose House, 2 Derryvolgie Avenue, Belfast, BT9 6FL, Northern Ireland (" **we** ", " **us** " and " **our** "). The Website and the NIJobs.com Service help people find, advertise, apply for or express interest in vacancies, and provide employment, consultant or contractor related information. 
-  * This policy, our [Terms and Conditions ](https://web.archive.org/about/privacy) and any other documents referred to in either of them set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. If you are a Customer (i.e. a recruiter) then the NIJobs.com Customer Terms also form part of your agreement with us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+1.2 The Website and the NIJobs.com Service help people find, advertise, apply for or express interest in vacancies, and provide employment, consultant or contractor related information. NIJobs.com is the controller (as defined under data protection law) and responsible for your personal data. If you request the CV Database Service your CV or resume will be publicly searchable and viewable on the Website to NIJobs.com customers (i.e. direct employers and recruitment agencies who are registered users of the Website) (“Customers”) and will be publicly searchable and viewable on the IrishJobs.ie and Jobs.ie platforms by customers of Saon Group Ltd and Jobs.ie Limited. NIjobs.com Limited, Saon Group Limited and Jobs.ie Limited will jointly control the personal data you submit to us when using the CV Database Service, as further described in CV Database Service . In certain circumstances NIJobs.com Customers, and registered customers of Saon Group Ltd and Jobs.ie Limited, who receive your job applications and CV or resume will also be a controller of some of your personal data. This is explained more in Customer Control of Your Personal Data.
 
+1.3 This Privacy Policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us and your rights in relation to your personal data. If you are a Customer, this Privacy Policy supplements any data protection provisions contained in our contract with you and is not intended to override them. Please read the following carefully to understand our views and practices regarding your personal data, how we will treat it and your data protection rights. The Website and the NIJobs.com Services are not inte
 
+## 2 PERSONAL DATA WE COLLECT AND PROCESS
 
-## Site security
+2.1 When registering for a user account, using any NIJobs.com Service and/or browsing the Website, we will collect and gather the following categories of personal data:
 
-NIJobs.com is committed to protecting the information you provide us with. To prevent unauthorised access or disclosure of information under our control, NIJobs.com has appropriate security management systems in place to safeguard the information we collect. 
-
-Firewalls, Intrusion Detection and Virus Scanners are used on all parts of the NIJobs.com website. Encryption during transmission is also used on sections of the site where security is particularly important. 
-
-While NIJobs.com makes every effort to protect all personal information, we recognise that unfortunately no data transmission over the Internet can be guaranteed to be 100% secure. As a result NIJobs.com cannot ensure or warrant the security of any information you transmit to us, you do so at your own risk. 
-
-## How we collect information on NIJobs.com
-
-  * When registering as a user of the Website or during your time as a user of the Website you will be asked to provide information to us. We will inform you at the time of collecting information from you whether you must provide the information to use the Website or a particular NIJobs.com Service, or whether the provision of information requested by us is optional . We will inform you at the time of collecting information from you whether the information that you provide to us will be accessible to other users of the Website or by third parties, so that you can decide whether to provide the information to us. 
-  * We may collect and process the following data about you: 
-    * if you contact us, we may keep a record of that correspondence; 
-    * information that you submit in response to surveys or polls; 
-    * details of applications for employment positions that you make using the Website; 
-    * details of resumes or curricula vitae which you make available on the Website for third parties to browse in connection with employment, consultant or contractor positions; 
-    * details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access; 
-    * proof of identity that we request from you before we disclose personal information to you that we hold (in order to establish that we are disclosing the personal data to you and not to someone pretending to be you); and 
-    * personal details that you submit to us, such as your name, address, telephone number, email address, gender and date of birth. 
+  * 2.1.1 Identity Data such as first name, surname, gender, date of birth.
+  * 2.1.2 Contact Data such as address, e-mail address, telephone number.
+  * 2.1.3 Profile Data such as your username and password, personal data contained in resumes/CVs and cover letters, employment details, education history, eligibility to work, salary expectations, job applications made by you, your interests, preferences, feedback, company ratings and survey responses.
+  * 2.1.4 Financial Data such as for Customers only, your payment card details, bank details, VAT number, information about payments to and from you and other details of services you have purchased from us.
+  * 2.1.5 Technical Data such as internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Website.
+  * 2.1.6 Usage Data such as information about how you use the Website and NIJobs.com Services.
+  * 2.1.7 Marketing and Communications Data such as your preferences in receiving marketing communications from us and third parties and your communication preferences.
 
 
 
-## Uses made of the information
+2.2 The type of personal data collected and used by us varies depending upon whether you are a registered user of just browsing the Website, or if you use one or more of the NIJobs.com Services..
 
-  * NIJobs.com's Customers post information about employment, consultant or contractor vacancies on the Website, whether on their own behalf or, if a recruitment or consultancy, on behalf of third parties (“Job Specifications"). These Job Specifications can then be accessed and read by other users of the Website. You can search for registered Customers of the Website, whether they are direct employers or agencies. NIJobs.com does not vet or monitor the Job Specifications in terms of their terms and conditions applicable to the use of your personal information. 
-  * We use information held about you in the following ways: 
-    * to provide registered Customers of the Website with the information that you submit to the Website in response to a Job Specification. Submission of information by you to a particular Job Specification is treated by us to be permission to forward to that information to the Customer or Customers that have posted that Job Specification only; 
-    * if you choose to be a registered user of the Website, we will display details of the personal information about you that you submit to the Website for registered Customers of the Website, so that Customers are able to evaluate whether you are a suitable candidate for a vacant position (whether or not a Job Specification); you will be able to control the type of personal information about you which will be displayed in this way through your user account; 
-    * to ensure that content from the Website is presented in the most effective manner for you and for your computer; 
-    * to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes; 
-    * to allow you to participate in interactive features of our service, when you choose to do so; and 
-    * to notify you about changes to our service. 
-  * We may also use your email address to send you updates or news regarding the Website or a NIJobs.com Service, but you may choose not to receive emails of this type by accessing your "MyNIjobs.com Account" page of the Website and updating your notification settings . Additionally, we or a registered Customer may use your email address to contact you where you are a registered user or if you have responded to a Job Specification. 
-  * We do not request (nor encourage you) to submit sensitive data to the Website, (ie data relating to racial or ethnic origin, political or religious opinions, membership of a trade union, physical or mental health or condition or sexual life, the commission of any offence or related documentation). If, however, you choose to do so then you consent to our processing this data in the manner set out in this Privacy Policy. 
+2.3 We collect, use and share aggregated data such as statistical or demographic data. Aggregated data may be derived from your personal data but is not considered personal data under applicable data protection law as this data does not directly or indirectly reveal your identity.
 
+## 3 HOW WE COLLECT PERSONAL DATA ON THE WEBSITE
 
+3.1 In order to apply for a job through the Website, you will need to register an account with NIJobs.com, which will involve you giving us your Identity, Contact and Profile Data. We will inform you at the time of collecting personal data from you whether you must provide the personal data to use the Website or a particular NIJobs.com Service, or whether the provision of personal data requested by us is optional (e.g. providing your personal or professional interests and experiences with our products or services is optional). We will inform you at the time of collection whether your personal data will be accessible to other users of the Website or by third parties, so that you can decide whether to provide it.
 
-## NIJobs.com services
+3.2 It is not necessary to register a user account in order to search and view job advertisements, view company profiles or access career advice articles on the Website. However, we will receive Technical Data and Usage Data when you browse the Website. This is further explained below. 
 
-**_Client Profiles_**
+3.3 Where we need to collect personal data by law, or under the terms of a contract we have with you (e.g. Terms of Use) and you don’t provide that personal data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with the NIJobs.com Service). In this case, we may not be able to provide all or part of the relevant service.
 
-NIJobs.com vacancy advertising clients are given the option to have a profile page on site. This includes information related to their company such as; company logo, contact details, company profile, web address and related links. This information is disclosed for your convenience and information, however if you access some of the links and web addresses disclosed on these pages, you will leave the NIJobs.com website. 
+## 4 METHODS USED TO COLLECT PERSONAL DATA FROM AND ABOUT YOU
 
-Some NIJobs.com clients are advertised on site under featured employer member pages; which means NIJobs.com host a number of their web pages on our server to provide users with an experience similar to the recruiter's own website. 
+4.1 **Direct interactions** : You may give us your Identity, Contact, Profile, Financial (Customers only), Marketing and Communications Data by populating your online profile, changing details in Your Account, filling in online forms or by communicating with us. If you are a registered user who applies for an advertised job via the Website, we and the relevant Customer will receive your application and personal data associated with it. The personal data we receive from direct interactions with you includes personal data you provide when you:
 
-There are featured links on these member pages, which when accessed you will leave the NIJobs.com domain. 
-
-**_My Career Manager_**
-
-My Career Manager is a facility on NIJobs.com for jobseekers to set up their individual job search requirements (job alerts) and register their CV online; 
-
-•  **Job Alerts  
-**The Job Alert service matches a jobseeker's requirements for employment with the profile of vacancies advertised on our site. For jobseekers who subscribe to this service, you receive an email listing of those jobs which match the criteria you have registered. Vacancies that match this criterion by 50% or more are sent in the form of a job alert. You decide how often you wish to receive these alerts and can change your search criteria at any time. 
-
-•  **CVs**  
-Jobseekers may decide to register their CV in our database, through My Career Manager. Users can choose to make their CV searchable for inclusion in our CV database product. This product allows your CV to be viewed by recruiters who have subscribed to this service. It also means that you can attach your CV to your online job application(s). 
-
-You may choose from the following options when uploading your CV 
-
-**Keep CV Private** – Select this option is you wish to store your CV in your Career Manager account but don't want recruiters to find your CV. Employers can contact you if you choose to make your CV searchable. You have 2 options when making your CV searchable.   
-**Allow recruiters to search this CV** ( _Hide details_ ) Select this option if you want recruiters to find your CV but wish to keep your contact details private. Recruiters can contact you via NIJobs.com if they have a position that matches your selected criteria.   
-**Allow recruiters to search this CV** ( _Show details_ ) Select this option if you want recruiters to find your CV and relevant contact details. Recruiters will be able to contact you by phone or by email should a position arise that matches your experience and requirements. 
-
-We endeavour to grant access to the CV database only to recruiters who agree to abide by our [**Terms and Conditions**](https://web.archive.org/about/terms). However, should a third party gain access to your CV by evading our security measures, we cannot be held responsible. 
-
-You may remove your CV from our database at any time. However, recruiters who have already accessed your CV may have kept a copy of it in their own files. Please note that we cannot be held responsible for the retention, use, or privacy of your CV in these instances. 
-
-In the interest of your privacy and the maintenance of an up-to-date CV database, CVs are removed from the NIJobs.com CV database if they have not been updated for a period of 12 months. If you wish your CV to remain in the searchable database, you must update your details at least once every 12 months. 
-
-•  **Career Update Service  
-**The Career Update service within My Career Manager offers users the ability to register their personal details to receive a monthly email detailing career information and site service information. 
-
-If, at any time, you do not wish to remain a registered user of any of the above facilities within My Career Manager, you can unsubscribe and/or delete your personal information from our databases. NIJobs.com also offers you the ability to change at any time the personal information you give during registration 
-
-## Disclosure of your information to other people
-
-  * Except as set out in this Policy, we do not disclose to any third party personal information that you provide to us unless we have your permission or we believe the law permits or requires it. 
-  * If you provide personal information to us you understand and agree that we may disclose your personal information to third parties expressly mentioned in this Policy and the following third parties: 
-    * if you have indicated at registration, or at any time during your time as a user of the Website, that you are happy to receive information or promotions from selected third parties about goods and services which may be of interest to you, you consent to us sending you such offers or information. You may opt out of receiving such offers or change your preferences at any time by accessing the “Email notifications" tab on the "Your Account" page of the Website or alternatively, if you have problems doing this, you can [contact us ](mailto:info@nijobs.com); 
-    * any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries; 
-    * to the prospective seller or buyer of any business or assets related to the Website or all or part of NIJobs.com Limited; 
-    * to a third party if we are under a duty to disclose or share your personal data with that third party in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions ](https://web.archive.org/about/terms) and other agreements, or to protect the rights, property, or safety of NIJobs.com Limited, our customers, or others. This includes exchanging information with third parties for the purposes of fraud protection and credit risk reduction. 
-  * We will notify you when information about you may be provided to third parties in ways other than explained above, and you will have the option to prevent such information sharing at the time that we notify you. 
-  * We do not disclose personal information about you to third parties (including advertisers or marketing companies), but we may provide them with aggregate anonymised information about the Website's users. For example, we may inform them that 500 men aged under 30 have registered as users of the Website, or we might inform third parties regarding the number of unique users who visit a particular Job Specification on the Website, the demographic breakdown of our registered users of the Website or the activities that visitors to the Website engage in while on the Website. We may also use such aggregate anonymised information to help Customers improve their Job Specifications. 
-  * We may provide your personal data to third parties for purposes that you agree to elsewhere in this Privacy Policy where those third parties based outside of Ireland or outside the European Economic Area (which may not provide the same protection for such information as offered in the Ireland), and you consent to a transfer of your personal information to third parties identified in this Privacy Policy for purposes identified in this Privacy Policy. 
+  * 4.1.1 apply or subscribe for our Website or other NIJobs.com Service;
+  * 4.1.2 create a user account on our Website and when you add to and manage your personal profile;
+  * 4.1.3 contact or communicate with us and/or Customers via the Website or other NIJobs.com Service;
+  * 4.1.4 submit responses to Job Specifications (defined below);
+  * 4.1.5 submit responses to surveys or polls, provide feedback, rate companies or make available any other content on the Website;
+  * 4.1.6 request marketing communications to be sent to you;
+  * 4.1.7 make your resumes or CVs available on the Website for third parties to browse in connection with employment, consultant or contractor positions;
+  * 4.1.8 as a Customer, where you save or download a resume or CV from the searchable CV Database Service.
 
 
 
-## Security and control of your personal data
+4.2 **Automated technologies or interactions** : As you interact with the Website, we collect Technical Data and Usage Data including details of your device, browsing actions and patterns, searches, job advertisements viewed, traffic data, web logs and other communication data and the resources that you access. We collect this personal data by using cookies, tracking codes, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our cookies policy for further details. 
 
-  * We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. 
-  * Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential. You must not to share your Website password with anyone. 
-  * Unfortunately, the transmission of information via the Internet is not completely secure. Although we will endeavour to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to endeavour to prevent unauthorised access. **You acknowledge that we are not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorised manner.**
-  * You should be aware that when you disclose personally identifiable information and agree to make that information available to our Customers on the Website (e.g. by submitting a CV to a recruiter Customer using the Website) that the information disclosed in your communication may be used by the Customer. These third parties may use your information (for example they may contact you, arrange an interview with you, review your suitability for a particular position) and such third activities are beyond our control. 
-  * As a registered user of the Website and/or the NIJobs.com Service, you can modify your personal information at any time by accessing your ‘'My Career Manager Account" section of the Website or alternatively if you have problems doing this, you can [contact us ](mailto:info@nijobs.com). It is your responsibility to keep your personal information up to date at all times. 
-  * If you have submitted information directly to Customer in respect of a particular Job Specification then you understand that we process that information as an agent of the Customer (whether or not as a registered user of the Website and/or the NIJobs.com Service). We may hold a back-up copy of the information that you submit, but only as an agent of the Customer. If you wish to modify or deal with your personal information submitted information directly to Customer in respect of a particular Job Specification then you should contact the Customer directly, as they have responsibility for that personal information. As agent of the Customer, we will comply with the Customer's instructions in respect of that personal information. If you wish to understand the Customer's data protection or privacy policy with regards to the dealings that it has with your personal information then you should contact the Customer directly to establish such terms. 
+4.3 **Third parties:** We may receive personal data about you from various third parties as set out below:
 
-
-
-## Links to third party websites
-
-  * The Website may, from time to time, contain links to and from the websites of our partner networks, Customers, advertisers and affiliates as well as third party websites to which we have no affiliation. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. 
-  * We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited. 
+  * 4.3.1 Identity, Contact and Profile Data from Jobs.ie Limited and Saon Group Limited if you request the CV Database Service from one or both of them;
+  * 4.3.2 Technical Data from providers such as Google Analytics, Adobe Analytics, Adjust, HotJar and Optimizely;
+  * 4.3.3 Contact, Financial and Transaction Data from providers of technical, payment and delivery services such as Realex, Elavon, Docusign, Intercom and Lead Forensics;
+  * 4.3.4 Contact and Profile Data from providers such as Survey Monkey and Thomas International;
+  * 4.3.5 We use a Facebook fanpage at NIJobs.com. Facebook provides Page-Insights for that fanpage to us. Page-Insights are aggregated data, which allow us to understand how users interact with our fanpage. Page Insights can be based on personal data which is collected in relation to a visit of or an interaction with our fanpage and its content by users. Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland (“Facebook Ireland”) and we are joint controllers in the sense of Art 26 GDPR for the processing of Insights data and we have entered into an arrangement with Facebook Ireland which you can find at [www.facebook.com/legal/terms/page_controller_addendum](https://web.archive.org/web/20190604104912id_/https%3A//www.nijobs.com/about/www.facebook.com/legal/terms/page_controller_addendum). Legal basis for our use of the fanpage and Page-Insights is a legitimate interest in the sense of Art. 6 para 1 f GDPR, in relation to the fanpage that means the use of Facebook as channel of communication about our company and in relation to Page Insights the better understanding of the interests of visitors of our fanpage so that we can specifically serve these interests.
 
 
 
-## IP addresses and cookies
+## 5 HOW WE USE YOUR PERSONAL DATA
 
-  * We may collect information about your computer, including (where available) your IP address, operating system and browser type, for system administration, statistical purposes. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. 
-  * For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. On revisiting the Website our computer server will recognise the cookie, giving us information about your last visit. They help us to improve the Website and to deliver a better and more personalised service. They enable us: 
-    * to estimate our audience size and usage pattern; 
-    * to store information about your preferences, and so allow us to customise the Website according to your individual interests and make your usage of the Website more enjoyable; and 
-    * to speed up your searches. 
-  * You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Website. 
-  * For information on how to control your cookies go to [www.allaboutcookies.org ](http://www.allaboutcookies.org/). 
+5.1 Customers post information about employment, consultant or contractor vacancies on the Website, whether on their own behalf or, if a recruitment or consultancy, on behalf of third parties (“Job Specifications”). These Job Specifications can then be accessed and read by other users of the Website. You can search for registered Customers, whether they are direct employers or agencies. NIJobs.com does not vet or monitor the Job Specifications and is not responsible for the data protection practices of Customers.
 
+5.2 We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
-
-## Access to Information and Updating, Verifying and Deleting Personal Data
-
-  * At any time, you can make a written request to have access to all the personal information that we hold about you. We will provide this information to you and may request a small administrative charge. 
-  * You may inform us of any changes in your personal data and in accordance with our obligations to you, we will update or delete your personal data accordingly. 
-  * Please note Paragraph 5.6 of this Privacy Policy regarding personal data submitted directly to our Customers. 
+  * 5.2.1 Where we need to perform the contract (e.g. the Terms of Use) we are about to enter into or have entered into with you.
+  * 5.2.2 Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * 5.2.3 Where we need to comply with a legal or regulatory obligation.
 
 
 
-## Marketing
+5.3 Generally we do not rely on consent as a legal basis for processing your personal data. If we do rely on your consent to process your personal data this will be made clear to you at the time, and you have the right to decline to provide us with your consent and to withdraw your consent at any time by contacting us. 
 
-To provide the best user experience NIJobs.com may invite you to provide us with information regarding your personal or professional interests and experiences with our products or services. Providing this additional information is optional. 
+5.4 We do not request from you and we request you do not provide any special categories/sensitive personal data (e.g. personal data relating to racial or ethnic origin, political or religious opinions, membership of a trade union, physical or mental health or condition or sexual life or orientation). This type of personal data is subject to special protections under EU law.
 
-## Copyright statement
+5.5 We may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your personal data. Please contact us using [gdpr@NIJobs.com](mailto:%20gdpr@NIJobs.com "email gdpr@NIJobs.com") if you need details, in addition to those set out below, about the specific legal ground we are relying on to process your personal data.
 
-Copyright is implied irrespective of whether a copyright symbol or a copyright statement is displayed. Content on the NIJobs.com website can be downloaded for personal non-commercial use . Where use of other materials is desired the source must first approve and also be acknowledged. 
+5.6 We use your personal data in the following ways:
 
-Permission to reproduce the NIJobs.com copyright does not extend to any material on this site which may be the property of a third party. Authorisation to reproduce such material must be obtained from the copyright holders concerned. 
+  * 5.6.1 We will collect and use your Identity; Contact; Profile and Financial Data (Customers only) to register you as a new user of the Website or to register Customers. This is necessary in order to perform our contract (e.g. Terms of Use) with you. 
+  * 5.6.2 We will collect and use your Identity, Contact and Profile Data to provide Customers with the information that you submit to the Website in response Job Specifications. This is necessary in order to perform our contract (e.g. Terms of Use) with you. Details of your application for a Job Specification will only ever be shared with the Customer advertising the role. It will never be shared with any other Customer.
+  * (a) maintain this personal data in our database of searchable and viewable CVs and resumes ("CV Database"); 
+  * (b) display your CV or resume and associated personal data for our Customers and customers of Jobs.ie Limited and Saon Group Limited, so that our Customers and their customers are able to evaluate whether you are a suitable candidate for a vacant position (whether or not a Job Specification);
+  * (c) identify and create a profile of the key information you disclosed in your CV or resume, which we will use for our internal administration purposes to manage the CV Database, to enhance your personal profile and to match your CV or resume to relevant Job Specifications. This processing involves profiling, the consequence of which is that the key personal data we identify from your CV or resume will be used to enhance the likelihood of a Customer, and customers of Jobs.ie and IrishJobs.ie, considering you for a Job Specification; and
+  * (d) identify from your CV or resume key skills based on your current role and job title contained in your CV or resume, which we will use to match your CV or resume to relevant Job Specifications. This processing involves automated decision making, including profiling, of the kind referred to in Article 22 GDPR. The logic of this processing involves assumptions based on information you submit with your CV or resume, but which you can change at any time by accessing “Account Settings” in “Your Account” of the Website where you can change the key skills we selected on your behalf. You can contact us at [gdpr@NIJobs.com](mailto:%20gdpr@NIJobs.com "email gdpr@NIJobs.com") if you need our assistance with this.
 
-## Changes to our privacy policy
 
-Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, may be notified to you by us to your e-mail. You should visit this page periodically to review any changes to the Privacy Policy. 
 
-## User Feedback and Complaints
+The processing described in this section 5.6.3 is necessary in order for us to perform our contract (e.g. Terms of Use) with you, and in respect of sub-sections (a), (b) and (c) is necessary for our legitimate interest to increase the possibility of registered users gaining employment which in turn improves the NIJobs.com Service. You will be able to control the type of personal data about you which will be processed in this way by accessing “Account Settings” in “Your Account” of the Website. 
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [info@nijobs.com ](mailto:info@nijobs.com).
+5.6.4 We may promote your CV or resume to a Customer where we believe your CV is a good match to a vacant position. This matching will be based on a profile of the job specifications you have interacted with recently. This processing is necessary in order for us to perform our contract (e.g. Terms of Use) with you. You will be able to control the type of personal data about you which will be displayed in this way through your “Your Account” page of the Website.
+
+5.6.5 We will collect and use Profile, Technical and Usage Data for data analytics purposes to improve the Website, products/services, marketing, user/Customer relationships and experience. This involves building a profile of your interests based on the job specifications you have interacted with in the past 45 days. This is necessary for our legitimate interest to ensure that Website content is presented in an effective manner for you and for your computer/device.
+
+5.6.6 We collect and use Identity, Contact, Technical, Usage and Profile Data and Marketing and Communications Data to send registered users of the Website Job Alerts and Instant Job Alerts by email to help with your job search. This involves building a profile of your interests based on the job specifications you have interacted with in the past 45 days. This is necessary (i) in order for us to perform our contract (e.g. Terms of Use) with you; and (ii) for our legitimate interest to ensure registered users are informed of roles relevant to them which in turn improves our service. To facilitate your ease of use of the Website across multiple devices, Job Alerts by email include a personalised link which will recognize you when you visit the Website by clicking on a link in the email. This makes it easy for you to apply for jobs as your name, email address, and link to your last used CV will automatically be populated in the Job application form. As Job Alert emails are personalised to you, it is important that you do not share these email links with other people or post them on social media. You are responsible for maintaining the security of these personal Job Alert email links. Sharing personalised Job Alerts could result in somebody inadvertently applying for a job in your name.
+
+5.6.7 We collect and use Technical, Usage and Profile Data for data analytics purposes to build an understanding of the sort of jobs registered users of the Website are most interested in by learning from the jobs you view and apply for to tailor the jobs we present to you. Our understanding of the jobs you might like will adapt and change as it is based on the job content you interact with over a rolling 45 day period. This will involve profiling. This is necessary for our legitimate interest to ensure registered users are informed of roles relevant to them which in turn improves our service;
+
+5.6.8 We will collect and use Identity, Contact, Technical, Usage, Profile Data and Marketing and Communications Data to communicate to registered users of the Website via email about similar products or services from NIJobs.com that will assist with your job search. This is necessary in order for us to perform our contract (e.g. Terms of Use) with you. 
+
+5.6.9 We will collect and use Identity, Contact, Technical, Usage, Profile Data and Marketing and Communications Data to send you career support and advice emails from NIJobs.com and job and training opportunities from trusted third party partners that you request from us or which we feel may interest you, but only where you have consented to be contacted for such purposes. This processing of your personal data is based on your consent and our legitimate interests to direct market, develop our products/services and grow our business.
+
+5.6.10 We or a registered Customer may use your Identity and Contact Data to contact you where you are a registered user or if you have responded to a Job Specification. This is necessary for us to perform our contract (e.g. Terms of Use) with you and our legitimate interest to perform services for Customers.
+
+5.6.11 We will collect and use Identity, Contact, Profile, Technical and Usage Data to allow you to participate in interactive features on the Website and one or more NIJobs.com Services, when you choose to do so. This is necessary for us to perform our contract (e.g. Terms of Use) with you. 
+
+5.6.12 We will collect and use Identity, Contact, Profile, Marketing and Communications Data to manage our relationship with you which will include notifying you about changes to our Website, service, terms and/or Privacy Policy. This is necessary for us (i) to perform our contract (e.g. Terms of Use) with you; and (ii) to comply with a legal obligation.
+
+5.6.13 We will collect and use Identity; Contact and Technical Data to administer and protect our business and the Website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) which is necessary (i) for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganization or group restructuring exercise) and (ii) to comply with a legal obligation; 
+
+## 6 MARKETING
+
+6.1 We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you. We also work with online advertising partners such as Criteo www.criteo.com/privacy/, Google https://policies.google.com/privacy and Adroll www.adrollgroup.com/en-IE/privacy, to show you products, services and offers which may be relevant to you.
+
+6.2 You will receive marketing communications from us if you have requested information from us or purchased services from us or if you provided us with your details when you entered a competition or registered for a promotion and, in each case, you have not opted out of receiving that marketing.
+
+6.3 You can opt out of any marketing communications from us at any time by accessing “Account Settings” in “Your Account” of the Website and updating your notification settings or by using the “Unsubscribe” function at the bottom of the marketing email we send you.
+
+## 7 CHANGE OF PURPOSE
+
+7.1 We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. 
+
+7.2 Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+## 8 DISCLOSURE OF PERSONAL DATA TO OTHERS
+
+8.1 Except as set out in this Privacy Policy, we do not disclose to any third party personal data that we collect or you provide to us. We may disclose your personal data to third parties expressly mentioned in this Privacy Policy and the following third parties:
+
+  * 8.1.1 Customers to whom you submit job applications via the Website; 
+  * 8.1.2 if you have indicated at registration, or at any time during your time as a user of the Website, that you are happy to receive information or promotions from selected third parties about goods and services which may be of interest to you, we will send you such offers or information. See Marketing above on how to change your preferences;
+  * 8.1.3 any member of our group of companies, which means our subsidiaries, our ultimate holding company and its subsidiaries, where it is necessary to do so for the provision and administration of the services we provide to you;
+  * 8.1.4 if you requested the CV Database Service we will disclose your CV or resume and the Identity, Contact and Profile Data associated with your CV or resume to Jobs.ie Limited and SaonGroup Limited so that your CV or resume will also be publicly searchable and viewable on the Jobs.ie and IrishJobs.ie platforms by their registered customers. This disclosure is necessary to perform our contract (e.g. Terms of Use) with you and is necessary for our legitimate interest to increase the possibility of registered users gaining employment which in turn improves the NIJobs.com Service;
+  * 8.1.5 we contract with other entities that perform certain tasks on our behalf and who are under our control (“Service Providers”). This is required in order to provide and manage the Website and one or more NIJobs.com Service. Such Service Providers include IT systems suppliers and support, data storage, IT developers, insurance, credit card companies, payment processors, analytics companies, website hosting providers and other service providers;
+  * 8.1.6 professional advisors such as accountants, auditors, lawyers, bankers, insurers, and other outside professional advisors;
+  * 8.1.7 third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this Privacy Policy;
+  * 8.1.8 entities that regulate or have jurisdiction over NIJobs.com. We will disclose your personal data in order to comply with any legal obligation, if we are ordered to do so by a court of competent jurisdiction, law enforcement, regulatory or administrative authorities or in order to enforce or apply our [Terms and Conditions](https://www.nijobs.com/about/terms) and other agreements, or to protect the rights, property, or safety of NIJobs.com, our Customers, Website users or others. This includes exchanging personal data with third parties for the purposes of fraud protection and credit risk reduction.
+
+
+
+8.2 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our Service Providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions. Unless prevented by applicable law, we will notify you when your personal data may be provided to third parties in ways other than explained above, and you may have the option to prevent such sharing at the time that we notify you. 
+
+## 9 CV DATABASE SERVICE
+
+9.1 All registered users can upload their CVs and resumes to their personal profile, which remain private and will not be searchable by other users or Customers unless the registered user chooses to provide their CV or resume to a specific Customer or if the registered user requests the CV Database Service. 
+
+9.2 The NIJobs.com Service includes the optional CV Database Service, which allows registered users to make their CVs and resumes searchable and viewable by NIjobs.com Customers and customers of IrishJobs.ie and Jobs.ie. You can activate this service by using the Account Settings option in Your Account on the Website. You can deselect this service at any time through the same settings. 
+
+9.3 If you select the CV Database Service the personal data necessary to provide you with this service, which typically relates to your Identity, Contact and Profile Data, will be jointly controlled (as described in Article 26 GDPR) by us, IrishJobs.ie Limited (Irish registered company with company number 260762 and registered office is at South Block, The Malt House, Grand Canal Quay, Dublin 2, Ireland) and Jobs.ie Limited (Irish registered company with company number 323664 and registered office is at South Block, The Malt House, Grand Canal Quay, Dublin 2, Ireland)). We have arrangements in place intended to ensure your personal data is only used by each joint controller in accordance with our privacy policies. 
+
+9.4 In respect of the CV Database Service, Saon Group Limited and Jobs.ie Limited will process your personal data in accordance with their own privacy policies <https://www.irishjobs.ie/about/privacy> and <https://www.jobs.ie/Privacy.html>, which replicate the information relating to the CV Database Service contained in this Privacy Policy. Please exercise your data protection rights relating to this jointly controlled personal data by using the Account Settings option in Your Account on the Website. Alternatively, please contact us at [gdpr@NIJobs.com](mailto:%20gdpr@NIJobs.com "email gdpr@NIJobs.com"). 
+
+## 10 CUSTOMER CONTROL OF YOUR PERSONAL DATA
+
+10.1 If you respond to a Job Specification, request we publish your CV/resume on our CV Database Service or otherwise communicate with Customers via the Website the relevant Customer will control the personal data you disclose. This will typically relate to your Identity, Contact and Profile Data. Customers can access this personal data in their Website user account, and so can NIJobs.com. Both NIJobs.com and the Customer will jointly control this personal data, and we have arrangements in place intended to ensure your personal data is only used by Customers in accordance with this Privacy Policy. Please exercise your data protection rights relating to this jointly controlled personal data by using the Account Settings option in Your Account on the Website. Alternatively, please contact us at [gdpr@NIJobs.com](mailto:%20gdpr@NIJobs.com "email gdpr@NIJobs.com")
+
+10.2 If a Customer to whom you or we have disclosed any of your personal data downloads or copies the personal data to a medium other than our Website, NIJobs.com will no longer jointly control this personal data. Such data will be subject to the Customer's own data protection and privacy practices. If you wish to understand the Customer's data protection and privacy practices please contact the Customer directly. You will be able to exercise your Data Protection Rights directly with the Customer. 
+
+## 11 INTERNATIONAL DATA TRANSFERS
+
+11.1 Your personal data may be transferred, stored and accessed within the European Economic Area (“EEA”) or transferred to, stored in, and accessed from countries outside the EEA in order to fulfil the purposes described in this Privacy Policy. For transfers to countries outside the EEA, the data protection regime may be different than in the country in which you are located and will therefore be based on a legally adequate transfer method. Whenever NIJobs.com transfers your personal data out of the EEA, we ensure a similar degree of protection is given to it by ensuring at least one of the following safeguards is implemented: 
+
+  * 11.1.1 Where the country has been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries.
+  * 11.1.2 We may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see European Commission: Model contracts for the transfer of personal data to third countries.
+  * 11.1.3 Where service providers are based in the US, we may transfer data to them if they are part of the EU-US Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. For further details, see European Commission: EU-US Privacy Shield. 
+
+
+
+11.2 We will provide you on request a list of the countries located outside the EEA to which personal data may be transferred, and an indication of whether they have been determined by the European Commission to grant adequate protection to personal data. Where applicable, you are entitled, upon request to receive a copy of the relevant safeguard (for example, EC model contractual clauses) that has been taken to protect personal data during such transfer. 
+
+## 12 DATA SECURITY
+
+12.1 NIJobs.com is committed to protecting the personal data you provide us. To prevent unauthorised access or disclosure of personal data under our control, NIJobs.com has appropriate security management systems in place to safeguard the personal data we collect. Firewalls, intrusion detection and virus scanners are used on all parts of the Website. Encryption during transmission is also used on sections of the Website where security is particularly important.
+
+12.2 While NIJobs.com makes reasonable efforts to protect all personal data, no data transmission over the Internet can be guaranteed to be 100% secure. As a result NIJobs.com cannot ensure or warrant the security of any personal data you transmit to us, you do so at your own risk. You acknowledge that we are not responsible for any intercepted information sent via the Internet, and you hereby waive, release and discharge us from any and all claims arising out of or related to the use of intercepted information in any unauthorised manner.
+
+12.3 Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential. You must not to share your Website password with anyone.
+
+12.4 When you disclose personal data, or request us to make your personal data available, to Customers on the Website (e.g. by submitting a CV to a Customer using the Website, or requesting the CV Database Service) that personal data will be used by the Customer for its own purposes (e.g. to contact you, arrange an interview, review your suitability for a particular position) and such third party purposes and activities are beyond our control.
+
+## 13 UPDATING YOUR PERSONAL DATA
+
+13.1 It is important that the personal data we hold is accurate and current. Please keep us informed, using the Your Account section of the Website or alternatively let us know by using the Contact Us information below if any of your personal data changes during your relationship with us. It is your responsibility to keep your personal data up to date at all times.
+
+## 14 LINKS TO THIRD PARTY WEBSITES
+
+14.1 NIJobs.com vacancy advertising clients are given the option to have a profile page on the Website. This includes information related to their company such as: company logo, contact details, company profile, web address and related links. This information is disclosed for your convenience and information, however if you access some of the links and web addresses disclosed on these pages, you will leave our Website. 
+
+14.2 The Website contains links to and from the websites of our partner networks, Customers, advertisers and affiliates as well as third party websites to which we have no affiliation. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these websites or their policies. 
+
+14.3 We also use third party advertisements to support the Website. Some of these advertisers may use technology such as cookies and web beacons when they advertise on the Website, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit the Website, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.
+
+## 15 IP ADDRESSES AND COOKIES
+
+15.1 We may collect information about your computer, including (where available) your IP address, operating system and browser type, for system administration and statistical purposes. 
+
+15.2 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. On revisiting the Website our computer server will recognise the cookie, giving us information about your last visit. They help us to improve the Website and to deliver a better and more personalised service. They enable us:
+
+  * 15.2.1 to estimate our audience size and usage pattern;
+  * 15.2.2 to store information about your preferences, and so allow us to customise the Website according to your individual interests and make your usage of the Website more enjoyable; and
+  * 15.2.3 to speed up your searches.
+
+
+
+15.3 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Website.
+
+For more information about how our cookies work view our [cookies policy](https://www.nijobs.com/about/cookie-policy).
+
+For information on how to control your cookies go to [allaboutcookies](http://www.allaboutcookies.org/).
+
+## 16 DATA RETENTION
+
+16.1 We retain personal data for no longer than is allowed under data protection law and, in any case, no longer than such personal data is necessary for the purpose for which it was processed. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure, the purposes for which we process personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+16.2 As a registered user of the Website we will retain your Identity, Contact, Profile, Technical, Usage, Marketing and Communications Data for as long as your user account is live. We retain the personal data you provide while your account is in existence or as needed to provide you access to the Website and any NIJobs.com Service you have used. Even if you only use the Website or any other NIJobs.com Service occasionally, we will retain your Identity, Contact, Profile, Technical, Usage, Marketing and Communications Data until you decide to close your user account. In some cases we retain certain Usage Data (e.g. visitor and application statistics in a depersonalized or aggregated form). Also, we retain personal data for longer if required by applicable law or regulation or justified under applicable statutory limitation periods.
+
+16.3 If you respond to a Job Specification, request us to publish your CV or resume on our CV Database Service or otherwise communicate with Customers via the Website a copy of your job application, CV or resume and a record of the communication will be held on the Customer’s user account. The copy of your job application CV or resume and record of communication will remain on the Customer's user account for no more than 18 months after the job specification has been archived. We will delete that copy of your application, CV or resume and record of communication from the Customer’s user account 18 months from the date the job specification is archived, unless you have exercised Your Legal Rights of erasure of that personal data before this. Details of all the job applications you make through the Website can be viewed by you in Your Account.
+
+## 17 YOUR LEGAL RIGHTS
+
+17.1 Under certain circumstances you have rights under applicable data protection law in relation to personal data, namely: 
+
+  * 17.1.1 Request access to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+  * 17.1.2 Request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+  * 17.1.3 Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+  * 17.1.4 Object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+  * 17.1.5 Request restriction of processing of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+  * 17.1.6 Request the transfer of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. 
+  * 17.1.7 Withdraw consent at any time if and to the extent we are relying on consent as the legal basis to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+
+
+17.2 Regarding your right to have your personal data erased, you can delete your user account with NIJobs.com at any time. Deleting your user account deletes records of job applications sent, CVs and cover letters stored in your account, your profile, saved jobs and job alerts. Once your user account is deleted, it is gone forever and cannot be restored. Some personal data however may still be stored and visible in other places on the Website. For example, if you have applied for a job, your application information including your name, email, CV and cover letter may still be visible to the Customer in their user account on the Website. We will endeavour to contact Customers we know who have accessed your personal data within the previous 18 months and inform them of your request to erase your personal data. 
+
+17.3 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances. We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. 
+
+17.4 In order to exercise one or more of your rights in respect of your personal data, you can do so from the Account Settings option in Your Account on the Website. Alternatively, please contact us at [gdpr@NIJobs.com](mailto:%20gdpr@NIJobs.com "email gdpr@NIJobs.com"). We will respond to your request(s) as soon as reasonably practicable, but in any case within the legally required period of time.
+
+17.5 You have the right to make a complaint at any time to the Information Commissioner's Office, the UK supervisory authority for data protection issues [ico.org.uk](https://ico.org.uk/). We would, however, appreciate the chance to deal with your concerns before you approach the Information Commissioner's Office so please contact us in the first instance at [gdpr@NIJobs.com](mailto:%20gdpr@NIJobs.com "email gdpr@NIJobs.com")
+
+## CHANGES TO OUR PRIVACY POLICY
+
+Any changes we may make to our Privacy Policy in the future will be posted on this page, you may also be notified by email. You should visit this page periodically to review any changes to the Privacy Policy.
+
+## CONTACT US
+
+We have appointed a data protection officer (DPO) who is responsible for overseeing questions in relation to this Privacy Policy. If you have any questions about this Privacy Policy, including any requests to exercise your legal rights, please contact the DPO using the following details: The Data Protection Officer, Saon Group Ltd, Waterways House, Grand Canal Quay, Dublin 2, D02 NF40, Ireland, or alternatively address your query to the Data Protection Officer through [gdpr@NIJobs.com](mailto:%20gdpr@NIJobs.com "email gdpr@NIJobs.com"). You can also request to delete your account, erase your data, access your data and transfer your data through the Account Settings option in Your Account on the Website.
