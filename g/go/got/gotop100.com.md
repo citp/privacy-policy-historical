@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotop100.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202055525id_/http%3A//www.gotop100.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotop100.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604133755id_/http%3A//www.gotop100.com/privacy.php) for the most accurate reproduction.*
 
 # Go Top 100 Demo Top Lists
 
