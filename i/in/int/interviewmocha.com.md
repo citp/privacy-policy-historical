@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interviewmocha.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116091812id_/https%3A//www.interviewmocha.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interviewmocha.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604192427id_/https%3A//www.interviewmocha.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Interview Mocha Privacy Policy
 
@@ -18,7 +18,7 @@ Interview Mocha is engaged in the business of providing services to various corp
 
 Your use of our Site or Services, and any dispute over privacy, is subject to this Privacy Policy and the Terms of Service available on our Site. 
 
-### Please read this Privacy Policy carefully
+##### Please read this Privacy Policy carefully
 
 For residents of the EU, please note that this Privacy Policy has been updated in accordance with the requirements of the EU General Data Protection Regulation (“GDPR”). 
 
@@ -26,14 +26,11 @@ For Non-EU residents, by continuing to use the Services or access the Site, you 
 
 To make it easier for you to read and understand the parts of this Privacy Policy that apply to you, we have divided the Privacy Policy into two different parts that are specifically applicable to the Customers (Part A), and the Users (Part B). Part C shall apply to both the Customers and Users.
 
-  
-
-
-## Part A
+##### Part A
 
 This part is applicable to the Customers that avail our Services.
 
-### _1\. INFORMATION WE COLLECT_
+##### 1\. INFORMATION WE COLLECT
 
 For the purpose of our Services, you understand that we process the information collected from or provided by the Prospective Employee/Employees as a data processor only as per the instructions provided by you. You shall have the control over any information that we collect from the Prospective Employee/Employees in the course of providing you the Services.
 
@@ -41,9 +38,9 @@ Further, you understand that we may receive certain information including some s
 
 For the sake of brevity, for the purpose of Part A, the aforementioned information of the Candidates/Employee shall be referred to as “Personal Information”.
 
-**_Legal Basis (for residents of the EU):_** We will not process any Personal Information without a lawful basis to do so. We will process such Personal Information only on the legal bases of consent [as provided in Art. 6 (1) (a) of the GDPR], contract [as provided in Art. 6 (1) (b) of the GDPR], or on the basis of our legitimate interests [as provided in Art. 6 (1) (f) of the GDPR], provided that such interests are not overridden by the privacy rights and interests of the Prospective Employee/Employees.
+**Legal Basis (for residents of the EU):** We will not process any Personal Information without a lawful basis to do so. We will process such Personal Information only on the legal bases of consent [as provided in Art. 6 (1) (a) of the GDPR], contract [as provided in Art. 6 (1) (b) of the GDPR], or on the basis of our legitimate interests [as provided in Art. 6 (1) (f) of the GDPR], provided that such interests are not overridden by the privacy rights and interests of the Prospective Employee/Employees.
 
-### _2\. HOW WE USE YOUR INFORMATION_
+##### 2\. HOW WE USE YOUR INFORMATION
 
 We may use the Personal Information for the following purposes:
 
@@ -53,7 +50,7 @@ We may use the Personal Information for the following purposes:
 
 **Complying with the Law -** We may disclose your Personal Information in order to comply with our legal obligations/ court orders/ requests by Govt. authorities.
 
-### _3\. TO WHOM DO WE DISCLOSE YOUR INFORMATION_
+##### 3\. TO WHOM DO WE DISCLOSE YOUR INFORMATION
 
 We may disclose the Personal Information, in the following ways:
 
@@ -65,22 +62,19 @@ We may disclose the Personal Information, in the following ways:
 
 **Aggregate and De-Identified Information -** Where permitted by law, we may disclose aggregate, anonymous, or de-identified information for marketing, advertising, research, or other purposes. 
 
-### _4\. HOW LONG DO WE RETAIN YOUR PERSONAL INFORMATION?_
+##### 4\. HOW LONG DO WE RETAIN YOUR PERSONAL INFORMATION?
 
 We will retain the Personal Information for as long as it is required to be retained for the purpose of provision of the Services and to comply with our legal obligations. Subject to this section, we will try to delete the Personal Information upon reasonable written request from you for the same. Please note, however, that there might be latency in deleting Personal Information from our servers. For more information on where and how long the Personal Information is stored, please contact [support@interviewmocha.com](mailto:support@interviewmocha.com)
 
-#### _**ACCESSING, UPDATING, RESTRICTION FROM PROCESSING OR DELETING PERSONAL INFORMATION**_
+###### **ACCESSING, UPDATING, RESTRICTION FROM PROCESSING OR DELETING PERSONAL INFORMATION**
 
 Prospective Employee/Employees who appears for the assessment for you can get their Personal Information modified or deleted by writing to you. When you receive any such requests from the Prospective Employee/Employees you may write to [support@interviewmocha.com](mailto:support@interviewmocha.com) instructing us to modify or delete any such Personal Information of the Candidate/Employee. Personal Information will be deleted within 30 working days. Similarly, if you receive any requests relating to withdrawal of consent or restriction from processing Candidate/Employee’s Personal Information please write to us at [support@interviewmocha.com](mailto:support@interviewmocha.com). Please note that once the Personal Information is deleted it cannot be retrieved.
 
-  
-
-
-## Part B
+##### Part B
 
 This part is applicable for the Users of the Site.
 
-### _1\. INFORMATION WE COLLECT_
+##### 1\. INFORMATION WE COLLECT
 
   1. **Information You Provide Us -** Depending on your interactions with our Site (such as the use the “Contact Us” or “Sign up” feature of our Site), you may provide us your name, username, email address, and country of residence and other personal information. Please make sure that any personal information you share with us is accurate and up to date information. If you are sharing any personal information on behalf of a third person, you should ensure that you are authorized to do so.
   2. **Information About You We Obtain from Third Parties -** We may obtain certain information about registered administrator accounts from a third party system to determine IP address location information, or from a third party system (such as a recruiter) that integrates with our system that sends us data via our API to allow you to use the Services on our Site. 
@@ -95,11 +89,11 @@ We also collect certain non-personal information on the way you use the Site, th
 
 For the sake of brevity, for the purpose of Part B, the aforementioned information which is personally identifiable to you and collected by us under points a, b, c, d and e above shall be referred to as “Personal Information”.
 
-**_Accuracy of information._** Please make sure that any Personal Information you share with us is accurate and upto date. If you are sharing any Personal Information on behalf of a third person, you should ensure that you are authorized to do so. 
+**Accuracy of information.** Please make sure that any Personal Information you share with us is accurate and upto date. If you are sharing any Personal Information on behalf of a third person, you should ensure that you are authorized to do so. 
 
 As per the provisions of the GDPR we shall be considered the Controllers of the aforementioned Personal Information.
 
-### _2\. WHAT DO WE DO WITH YOUR PERSONAL INFORMATION?_
+##### 2\. WHAT DO WE DO WITH YOUR PERSONAL INFORMATION?
 
 We use the Personal Information for the following purposes:
 
@@ -113,65 +107,65 @@ We use the Personal Information for the following purposes:
 
 
 
-**_Legal Basis (for people from the EU):_** We will not process your Personal Information without a lawful basis to do so. We will process your Personal Information only on the legal bases of consent [as provided in Art. 6 (1) (a) of the GDPR], contract [as provided in Art. 6 (1) (b) of the GDPR], or on the basis of our legitimate interests [as provided in Art. 6 (1) (f) of the GDPR], provided that such interests are not overridden by your privacy rights and interests. 
+**Legal Basis (for people from the EU):** We will not process your Personal Information without a lawful basis to do so. We will process your Personal Information only on the legal bases of consent [as provided in Art. 6 (1) (a) of the GDPR], contract [as provided in Art. 6 (1) (b) of the GDPR], or on the basis of our legitimate interests [as provided in Art. 6 (1) (f) of the GDPR], provided that such interests are not overridden by your privacy rights and interests. 
 
-### _3\. WHO DO WE DISCLOSE YOUR PERSONAL INFORMATION TO?_
+##### 3\. WHO DO WE DISCLOSE YOUR PERSONAL INFORMATION TO?
 
 We do not sell, rent, share, distribute, lease or otherwise provide your Personal Information to third parties, without your prior consent. Keeping this in mind, we may disclose your Personal Information in the following cases:
 
-  * **_Affiliates:_** We may provide your Personal Information to our affiliates to enable them to [●].
-  * **_Service Providers:_** We may share your Personal Information with the service providers who work with us in connection with operating the Site and/ or providing the Services. All such service providers are subject to stringent confidentiality restrictions consistent with this Privacy Policy.
-  * **_Merger or Acquisition:_** We may transfer your Personal Information if we are acquired by another entity, or if we merge with another company or transfer a part of our business, including the Website, to a third party. Any such third party or resultant entity that receives your Personal Information shall have the right to continue to use your Personal Information in line with the purposes set out herein. In the event of such a sale or transfer, we may notify you.
-  * **_Legal and Regulatory Authorities:_** We may disclose your Personal Information in order to comply with our legal obligations/ court orders/ requests by Govt. authorities. 
+  * **Affiliates:** We may provide your Personal Information to our affiliates to enable them to [●].
+  * **Service Providers:** We may share your Personal Information with the service providers who work with us in connection with operating the Site and/ or providing the Services. All such service providers are subject to stringent confidentiality restrictions consistent with this Privacy Policy.
+  * **Merger or Acquisition:** We may transfer your Personal Information if we are acquired by another entity, or if we merge with another company or transfer a part of our business, including the Website, to a third party. Any such third party or resultant entity that receives your Personal Information shall have the right to continue to use your Personal Information in line with the purposes set out herein. In the event of such a sale or transfer, we may notify you.
+  * **Legal and Regulatory Authorities:** We may disclose your Personal Information in order to comply with our legal obligations/ court orders/ requests by Govt. authorities. 
 
 
 
-### _4\. TRANSFER OF YOUR PERSONAL INFORMATION ACROSS BORDERS (FOR EU RESIDENTS)_
+##### 4\. TRANSFER OF YOUR PERSONAL INFORMATION ACROSS BORDERS (FOR EU RESIDENTS) 
 
 Please note that your Personal Information may be transferred outside the country in which you are located, including to United States of America. We have a worldwide presence through our sister concerns/ regional sales/ delivery centers. The Personal Information we collect (of EU residents) might be processed outside the EU at a secure center located in the USA. We collect and transfer Personal Information outside the EU in accordance with EU data protection laws. We will ensure that any such transfers of Personal Information (outside the EU) will be in accordance with the GDPR. If you have questions, please write to us at [support@interviewmocha.com](mailto:support@interviewmocha.com).
 
-### _5\. HOW LONG DO WE RETAIN YOUR PERSONAL INFORMATION?_
+##### 5\. HOW LONG DO WE RETAIN YOUR PERSONAL INFORMATION?
 
 We endeavor to only collect Personal Information that is necessary for the purposes for which they are collected, and to retain such Personal Information for no longer than is necessary for such purposes. The length of time for which the Personal Information is retained, and criteria for determining that time, are dependent on the nature of the Personal Information and the purpose for which it was provided. Subject to this section, we will try to delete your Personal Information upon reasonable written request for the same. Please note, however, that there might be latency in deleting Personal Information from our servers. For more information on where and how long your Personal Information is stored, please contact [support@interviewmocha.com](mailto:support@interviewmocha.com).
 
-## Part C
+##### Part C
 
 This shall apply to both the Customers and Users of the Site.
 
-### _1\. OUR SECURITY MEASURES_
+##### 1\. OUR SECURITY MEASURES
 
 Your Personal Information is stored on Microsoft Azure Cloud located at US, Singapore and Europe. Although we provide appropriate firewalls and protections, we cannot warrant the security of any Personal Information transmitted as these systems are not hack proof. Data pilferage due to unauthorized hacking, virus attacks, technical issues is possible, and we take no liabilities or responsibilities for it. You are required to be careful to avoid “phishing” scams, where someone may send you an e-mail that looks like it is from us asking for your Personal Information. 
 
-### _2\. CHILDREN_
+##### 2\. CHILDREN
 
 Our Site is not targeted to children under thirteen (13) years of age (sixteen (16) for EU residents unless provided otherwise by applicable law) nor do we knowingly collect personal information from children under thirteen (13) (sixteen (16) for EU residents) unless provided otherwise by applicable law). If we discover that a child’s data is in the system without adult consent, we will promptly delete such Personal Information from our systems. We encourage children to obtain their parent's or guardian's permission before sharing personal information with any website.
 
-### _3\. YOUR CHOICES_
+##### 3\. YOUR CHOICES
 
 We take reasonable steps to ensure the Personal Information that Interview Mocha collects, uses or discloses is accurate, complete and up-to-date. You as a subscribed User may modify your Personal Information by updating your account on our Site or through our Contact Us page on the Site. On request, we will give you access to the Personal Information we hold about you. If any Personal Information we hold about you is out of date or inaccurate, we encourage you to let us know by contacting us using one of the methods listed above and ask us to correct it. Additionally, you have the right to have us erase/delete your Personal Information, right to restrict us from processing such Personal Information, right to object to our use of your Personal Information. If you would like to exercise ANY of these rights, please contact [support@interviewmocha.com](mailto:support@interviewmocha.com). If you are a resident of the EU, you have the right to lodge a complaint with a data protection authority.
 
 If you are a registered User, we may send, (with your prior consent if you are outside the EU), periodic informational emails to you. You may opt out of such communications at any time by following the opt-out instructions contained in the email. Please note that it may take up to five (5) business days for us to process opt-out requests. If you opt out of receiving emails about recommendations or other information we think may interest you, we may still send you emails about your account or any Services you have requested or received from us provided that you have not opted-out of receiving such emails. 
 
-### _4\. LINKS TO OTHER WEBSITES_
+##### 4\. LINKS TO OTHER WEBSITES
 
 This Site contains links to other websites. We are not responsible for the information handling practices or content of these external websites. Please ensure that you read the terms and conditions and privacy policies of these third parties before using such websites.
 
-### _5\. LIMITATION OF LIABILITY_
+##### 5\. LIMITATION OF LIABILITY
 
 To the extent permissible under the law, we shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data, information, details or other intangible losses (even if we have been advised of the possibility of such damages), arising out of this Privacy Policy.
 
-### _6\. GOVERNING LAWS AND DISPUTE RESOLUTION_
+##### 6\. GOVERNING LAWS AND DISPUTE RESOLUTION
 
 This Privacy Policy shall be construed and governed by the laws of India without regard to principles of conflict of laws. Any dispute arising, between you and us shall be submitted to the arbitration to be conducted in Pune, India in English language, in accordance with the provisions of Arbitration and Conciliation Act of 1996, by a sole arbitrator, who shall be appointed by us and the award made in pursuance thereof shall be binding on you and us. The dispute resolution and arbitration process mentioned in this section shall not prohibit parties from approaching the courts for appropriate interim reliefs. Parties further agree that the courts in Pune, India shall have an exclusive jurisdiction over such disputes. 
 
 For any EU residents, this Privacy Policy shall be governed by the provisions of the GDPR.
 
-### _7\. CHANGES TO THIS POLICY_
+##### 7\. CHANGES TO THIS POLICY
 
 We may update this Privacy Policy from time to time. We shall provide you with an email notification indicating any material changes in the Privacy Policy. Additionally, you are encouraged to check this Privacy Policy on a regular basis to be aware of the changes made to it. 
 
 This Privacy Policy was last modified on June 2018.
 
-### _8\. CONTACT US_
+##### 8\. CONTACT US
 
 If you have any questions or concerns or grievances regarding this Privacy Policy, you can email our Data Processing officer, Ms. Neha Kulkarni at [support@interviewmocha.com](mailto:support@interviewmocha.com).
