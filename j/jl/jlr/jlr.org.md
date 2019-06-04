@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlr.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229063335id_/http%3A//www.asbmb.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlr.org privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604183255id_/http%3A//www.asbmb.org/Privacy) for the most accurate reproduction.*
 
 # ASBMB Privacy Policy
 
