@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthcare.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202004245id_/https%3A//www.healthcare.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcare.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604184503id_/https%3A//www.healthcare.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HealthCare.com
+# Privacy Policy
 
-Updated November 20th, 2018
+Updated May 2nd, 2019
 
 HealthCare, Inc. and its subsidiaries (collectively, “HealthCare.com”, “us”, “we”, or “our”) are committed to maintaining your confidence and trust as it relates to the privacy and use of your information. Please read below and learn how we collect, protect, share, and use your information as part of our technology platforms, and all of our products and services.
 
@@ -63,13 +63,15 @@ iii. In connection with a substantial corporate transaction involving HealthCare
 iv. In connection with state and/or federal licensing or other legal requirements. You authorize HealthCare.com to obtain any and all required information from the Network Partners you were matched with in order for HealthCare.com to comply with current laws and regulations as well as with any requests from state or federal regulators.  
 v. We may share Non-Personally Identifiable Information with third parties in our discretion.
 
+e. _Trusted Marketing Partners_  – We reserve the right to share your data with our trusted 3rd party marketing partners. These partners may market to you via email or through other channels, products or services that might be of interest.
+
 ## 5\. Unsubscribe
 
 If at any time you do not wish to receive communications from HealthCare.com, you may opt out by following the instructions included in any communication received from us. In addition, you may email [info@healthcare.com](mailto:info@healthcare.com) to unsubscribe. If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about our business dealings with you.
 
 ## 6\. Updating and Accessing Your Information
 
-The appropriate method(s) for accessing your Information, if any, will depend on which Site or services you have used. Pease contact us at [info@healthcare.com](mailto:info@healthcare.com) if you have a specific question or request concerning your Information. We are unable to delete all of your Information because some or all of it must be retained by us to demonstrate our compliance with the Telephone Consumer Protection Act and/or other applicable laws.
+The appropriate method(s) for accessing your Information, if any, will depend on which Site or services you have used. Please contact us at [info@healthcare.com](mailto:info@healthcare.com) if you have a specific question or request concerning your Information. We are unable to delete all of your Information because some or all of it must be retained by us to demonstrate our compliance with the Telephone Consumer Protection Act and/or other applicable laws.
 
 ## 7\. How We Protect Your Information
 
