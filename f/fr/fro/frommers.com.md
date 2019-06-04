@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108173804id_/https%3A//www.frommers.com/about/about_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604192522id_/https%3A//www.frommers.com/about/about_privacy) for the most accurate reproduction.*
 
 # Frommer's
 
