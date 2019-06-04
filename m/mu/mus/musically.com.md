@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musically.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905131825id_/https%3A//musically.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musically.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604164030id_/https%3A//musically.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Music Ally
+# Privacy - Music Ally
 
 Music Ally takes the privacy of its users seriously. We are committed to safeguarding the privacy of our users while providing a personalised and valuable service. If you have any requests concerning your personal information or any queries with regard to these practices please contact us at mail@musically.com
 
