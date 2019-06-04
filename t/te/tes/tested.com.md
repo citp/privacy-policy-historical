@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tested.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622020545id_/http%3A//www.tested.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tested.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604152237id_/https%3A//www.tested.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tested
 
@@ -12,7 +12,7 @@ Please read this Policy carefully to understand our policies and practices regar
 
 CHILDREN UNDER THE AGE OF 13
 
-The Site is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at privacy@whalerockindustries.com.
+The Site is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at privacy@tested.com.
 
 INFORMATION WE COLLECT AND HOW WE COLLECT IT
 
@@ -75,13 +75,13 @@ Legal and Law Enforcement Purposes. We may disclose Information in response to l
 
 YOUR CHOICES
 
-Marketing Communications and Sharing with Third Parties. You may update your preferences with respect to receiving certain marketing communications from us, and our sharing of personal information with third parties. You may do so by contacting us at privacy@whalerockindustries.com. You may also opt out of receiving email marketing communications, by following the “unsubscribe” instructions provided in every email you receive from us. You may also adjust your push notifications on your mobile device through your device or app settings.
+Marketing Communications and Sharing with Third Parties. You may update your preferences with respect to receiving certain marketing communications from us, and our sharing of personal information with third parties. You may do so by contacting us at privacy@tested.com. You may also opt out of receiving email marketing communications, by following the “unsubscribe” instructions provided in every email you receive from us. You may also adjust your push notifications on your mobile device through your device or app settings.
 
 Ad Choices. We may work with third parties to present advertisements, and engage in data collection, reporting, site analytics, ad delivery and response measurement on our Site and on third party websites and applications over time. These third parties may use cookies, web beacons, pixels, and other similar technology to perform this activity. They may also obtain information about websites you visit, applications you use, and other information from across your browsers and devices in order to present advertising that may be tailored to your interests on and off our Site and across other platforms. This type of advertising is known as interest-based advertising.
 
 For more information about interest-based advertising on your desktop or mobile browser, and your ability to opt out of this type of advertising by third parties, please visit the Network Advertising Initiative and/or the DAA Self-Regulatory Program for Online Behavioral Advertising. To learn more about interest-based advertising in mobile apps and how to opt out of this type of advertising by third parties, you can visit AppChoices. Please note that any opt-out choices you may exercise through these programs will only apply to interest-based advertising by the third parties you select but will still allow for collection of data for other purposes, such as analytics, research, and operations. You may also continue to receive advertising, but that advertising may be less relevant to your interests.
 
-California Privacy Rights. California Civil Code Section 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at privacy@whalerockindustries.com.
+California Privacy Rights. California Civil Code Section 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at privacy@tested.com.
 
 COOKIE POLICY
 
@@ -208,7 +208,7 @@ Advertising Cookies may be used by social media sites that are linked from our S
 
 ACCESSING, CORRECTING AND DELETING YOUR INFORMATION
 
-To inquire on the personal information that we have collected about you online from the Site on which this Privacy Policy is posted or to correct such personal information, you can send us an email to privacy@whalerockindustries.com. You can request and obtain removal of your User Contributions by emailing privacy@whalerockindustries.com with your request and specifying the particular User Contribution you seek to remove. We may not accommodate a request to change or delete any information if we believe such action would violate any law or legal requirement or cause the information to be incorrect. Removal of your User Contributions from the Site does not ensure complete or comprehensive removal of such User Contributions from the Site as copies may remain viewable in cached and archived pages or might have been copied or stored by other Site’s users. You can unsubscribe from any newsletters or various promotional emails at any time by clicking on the “unsubscribe” links provided in such communications. You may not opt out of Site-related communications, such as account verification, purchase confirmations and administrative messages, so long as you are registered with the Site.
+To inquire on the personal information that we have collected about you online from the Site on which this Privacy Policy is posted or to correct such personal information, you can send us an email to privacy@tested.com. You can request and obtain removal of your User Contributions by emailing privacy@tested.com with your request and specifying the particular User Contribution you seek to remove. We may not accommodate a request to change or delete any information if we believe such action would violate any law or legal requirement or cause the information to be incorrect. Removal of your User Contributions from the Site does not ensure complete or comprehensive removal of such User Contributions from the Site as copies may remain viewable in cached and archived pages or might have been copied or stored by other Site’s users. You can unsubscribe from any newsletters or various promotional emails at any time by clicking on the “unsubscribe” links provided in such communications. You may not opt out of Site-related communications, such as account verification, purchase confirmations and administrative messages, so long as you are registered with the Site.
 
 PROCESSING YOUR INFORMATION
 
@@ -224,7 +224,7 @@ We may update our Policy from time to time. We will notify you about any materia
 
 HOW TO CONTACT US
 
-Privacy Concerns. If you have any concern or complaint about privacy on the Site, please contact us at Web Property #5, LLC., Attn: Legal Affairs, Pacific Design Center, Red Building West, 750 N. San Vicente Blvd., 9th Floor, West Hollywood, CA, 90069, U.S.A. or email us at privacy@whalerockindustries.com. We will do our best to respond to you in a timely and professional manner in order to answer your questions and resolve your concerns.© Web Property #5, LLC. All rights reserved. Tested and Tested.com are trademarks of Web Property #5, LLC
+Privacy Concerns. If you have any concern or complaint about privacy on the Site, please contact us at Web Property #5, LLC., Attn: Legal Affairs, Pacific Design Center, Red Building West, 750 N. San Vicente Blvd., 9th Floor, West Hollywood, CA, 90069, U.S.A. or email us at privacy@tested.com. We will do our best to respond to you in a timely and professional manner in order to answer your questions and resolve your concerns.© Web Property #5, LLC. All rights reserved. Tested and Tested.com are trademarks of Web Property #5, LLC
 
 Privacy Policy for EU Users Effective Date: May 25, 2018 INTRODUCTION
 
@@ -246,7 +246,7 @@ We may also limit the availability of the Site or any service or product describ
 
 CHILDREN UNDER THE AGE OF 16
 
-The Site is not intended for children under 16 years of age, and we do not knowingly collect personal information from children under 16. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us at privacy@Whalerockindustries.com.
+The Site is not intended for children under 16 years of age, and we do not knowingly collect personal information from children under 16. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us at privacy@tested.com.
 
 INFORMATION WE COLLECT AND HOW WE COLLECT IT
 
@@ -283,7 +283,7 @@ The list below contains an explanation of the scope of the various legal process
   * Legitimate interests: where we use your personal data to achieve a legitimate interest and our reasons for using it outweigh any prejudice to your data protection rights.
   * Legal claims: where your personal data is necessary for us to defend, prosecute or make a claim against you, us or a third party.
   * Our legal obligations and rights: where we are required to process your personal data under a statutory obligation within the EU.
-  * Consent: where you have consented to our use of your personal data (in which case you will have been presented with a consent form in relation to any such use and you may withdraw your consent at any time by giving notice to privacy@whalerockindustries.com.
+  * Consent: where you have consented to our use of your personal data (in which case you will have been presented with a consent form in relation to any such use and you may withdraw your consent at any time by giving notice to privacy@tested.com.
 
 
 
@@ -411,7 +411,7 @@ Company controls your Information and is deemed a data controller as defined in 
 
 Where we engage data processors that process personal data outside of the EEA we will ensure that there will be an appropriate level of protection. In addition, we will implement legal safeguards governing such transfer, such as instruments similar to model contractual clauses, individuals’ consent, or other legal grounds permitted by applicable legal requirements.
 
-Certain countries outside the EEA have been approved by the European Commission as providing essentially equivalent protections as EEA data protection laws. EU data protection laws allow Company to freely transfer personal data to such countries. Please contact us at privacy@Whalerockindustries.com if you would like to see a copy of the safeguards we apply in relation to the export of your personal data.
+Certain countries outside the EEA have been approved by the European Commission as providing essentially equivalent protections as EEA data protection laws. EU data protection laws allow Company to freely transfer personal data to such countries. Please contact us at privacy@tested.com if you would like to see a copy of the safeguards we apply in relation to the export of your personal data.
 
 Service Providers. We have engaged the following categories of data processors that process personal data on our behalf: our contractors, service providers, content providers, and other third parties we use to support our business may have access to Information to help carry out the services they are performing for us, including: creating, maintaining, hosting, and delivering of our Site, products, and services; conducting marketing (for example to provide you with targeted advertisements with appropriate consent); handling payments, email and order fulfillment; administering contests; conducting research and analytics; and customer service.
 
@@ -425,7 +425,7 @@ YOUR CHOICES
 
 Marketing Communications and Sharing with Third Parties. If you have subscribed to receive newsletters and/or marketing information, you have an opportunity to select your preferences with respect to receiving marketing communications from us, and our sharing of Information with partners for their direct marketing purposes.
 
-You may update your preferences with respect to receiving certain marketing communications from us, and our sharing of personal information with third parties. You may do so by contacting us at privacy@Whalerockindustries.com. You may also opt out of receiving email marketing communications, by following the “unsubscribe” instructions provided in every email you receive from us. You may also adjust your push notifications on your mobile device through your device or app settings.
+You may update your preferences with respect to receiving certain marketing communications from us, and our sharing of personal information with third parties. You may do so by contacting us at privacy@tested.com. You may also opt out of receiving email marketing communications, by following the “unsubscribe” instructions provided in every email you receive from us. You may also adjust your push notifications on your mobile device through your device or app settings.
 
 Ad Choices. We may work with third parties to present advertisements, and engage in data collection, reporting, site analytics, ad delivery and response measurement on our Site and on third party websites and applications over time. These third parties may use cookies, web beacons, pixels, and other similar technology to perform this activity. They may also obtain information about websites you visit, applications you use, and other information from across your browsers and devices in order to present advertising that may be tailored to your interests on and off our Site and across other platforms. This type of advertising is known as interest-based advertising, and may be used to associate various browsers and devices together for the purpose of interest-based advertising and analytics.
 
@@ -590,6 +590,6 @@ We may update our Policy from time to time. We will notify you about any materia
 
 HOW TO CONTACT US
 
-Privacy Concerns. If you have any concern or complaint about privacy on the Site, please contact us at Web Property #5, LLC., Attn: Legal Affairs, Pacific Design Center, Red Building West, 750 N. San Vicente Blvd., 9th Floor, West Hollywood, CA, 90069, U.S.A. or email us at privacy@Whalerockindustries.com. We will do our best to respond to you in a timely and professional manner in order to answer your questions and resolve your concerns.
+Privacy Concerns. If you have any concern or complaint about privacy on the Site, please contact us at Web Property #5, LLC., Attn: Legal Affairs, Pacific Design Center, Red Building West, 750 N. San Vicente Blvd., 9th Floor, West Hollywood, CA, 90069, U.S.A. or email us at privacy@tested.com. We will do our best to respond to you in a timely and professional manner in order to answer your questions and resolve your concerns.
 
 © Web Property #5, LLC. All rights reserved. Tested and Tested.com are registered trademarks of Web Property 
