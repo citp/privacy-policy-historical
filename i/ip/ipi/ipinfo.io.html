@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ipinfo.io privacy policy that was archived on 2018-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180919194710id_/https%3A//ipinfo.io/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ipinfo.io privacy policy that was archived on 2019-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190604220317id_/https%3A//ipinfo.io/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Privacy Policy - IPinfo IP Address Geolocation API</title>
@@ -10,8 +10,44 @@
 
     <link rel="manifest" href="/static/manifest.json">
 
-    <link href="/static/favicon.ico?v2" rel="shortcut icon" type="image/x-icon">
-    <link href="/static/favicon.ico?v2" rel="icon" type="image/x-icon">
+    <link rel="icon" sizes="48x48" href="/static/deviceicons/android-icon-48x48.png">
+    <link rel="icon" sizes="96x96" href="/static/deviceicons/android-icon-96x96.png">
+    <link rel="icon" sizes="192x192" href="/static/deviceicons/android-icon-192x192.png">
+
+    <link rel="apple-touch-icon-precomposed" href="/static/deviceicons/apple-icon-precomposed.png">
+
+    <link type="image/x-icon" href="/static/favicon-96x96.png?v3" rel="shortcut icon">
+    <link type="image/x-icon" href="/static/favicon-96x96.png?v3" rel="icon">
+
+    <!-- Stackdriver Error Reporting -->
+    <script async="" src="https://a.quora.com/qevents.js"></script><script type="text/javascript" async="" src="https://tag.marinsm.com/serve/561152017c2d2e055400003d.js"></script><script defer="" src="https://cdn.jsdelivr.net/gh/GoogleCloudPlatform/stackdriver-errors-js@v0.5.0/dist/stackdriver-errors-concat.min.js"></script>
+    <script type="text/javascript">
+        window.addEventListener('DOMContentLoaded', function() {
+            var errorHandler = new StackdriverErrorReporter();
+            errorHandler.start({
+                key: 'AIzaSyDzZT9h5-iR2btboRMk1ZcA2vSizIOns4s',
+                projectId: 'ipinfo-158115',
+                service: 'ipinfo-frontend',
+                reportUncaughtExceptions: true,
+                reportUnhandledPromiseRejections: true,
+                disabled: false
+            });
+        });
+    </script>
+    <!-- End Stackdriver Error Reporting -->
+
+    <!-- Google Analytics -->
+    <script>
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        ga('create', 'UA-2336519-21', 'ipinfo.io');
+
+        if (location.hostname === 'localhost')
+          ga('set', 'sendHitTask', null)
+
+        ga('send', 'pageview')
+    </script>
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script>
+    <!-- End Google Analytics -->
 
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Source+Code+Pro" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css" rel="stylesheet" type="text/css">
@@ -19,9 +55,6 @@
     <link href="/static/banner.css" rel="stylesheet" type="text/css">
 
     <link href="/static/layout-styles.css" rel="stylesheet" type="text/css">
-
-    <script async="" src="https://fullstory.com/s/fs.js"></script><script type="text/javascript" async="" src="https://tag.marinsm.com/serve/561152017c2d2e055400003d.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="/static/dist/index.js"></script>
 
     
 <link href="/static/css/layout.css" rel="stylesheet">
@@ -31,104 +64,115 @@
     <link rel="stylesheet" href="/static/css/bootstrap.min.css">
     <link href="/static/dist/index.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="/static/dist/style_new.css">
+
+    <script src="/static/dist/index.js"></script>
+
+    
+    <script src="/static/js/heap-shim.js"></script>
+    
 </head>
 
-<body class="main ">
-    
+<body class="main">
 
-    <header class="inner-page   ">
+    <header class="">
+        <div class="to-fix-outer">
+            <div class="header-inner">
+                <nav class="navbar navbar-expand-md">
+                    <div class="container align-items-center">
+                        <a class="navbar-brand" href="/"></a>
 
-        <nav class="navbar navbar-expand-md">
-            <div class="container align-items-center">
-                <a class="navbar-brand" href="/"></a>
-
-                <div class="d-flex align-items-center">
-                    
-                    <a class="btn btn-light m-header-btn hidden-md-up" href="/signup">Sign up</a>
-                    
-
-                    
-                    <button class="navbar-toggler" type="button">
-                        <svg class="open-btn light-bars" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false"><title>Menu</title><path stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h28M4 15h28M4 23h28"></path></svg>
-
-                        <svg class="dark-bars" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false"><title>Menu</title><path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h28M4 15h28M4 23h28"></path></svg>
-                    </button>
-                    
-                </div>
-
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ml-auto mr-md-2">
-                        <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/pricing">Pricing</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/developers">Documentation</a></li>
-                    </ul>
-                    <div class="right-buttons">
                         
-                        <a class="btn header-btn btn-outline-white my-2 my-sm-0 mr-2 font-medium" href="/account/login">Login</a>
-                        <a class="btn btn-light my-2 header-btn my-sm-0 font-medium" href="/signup">Sign up</a>
+
+                        
+
+                        <div class="d-flex align-items-center">
+                            
+                            <a class="btn btn-light m-header-btn hidden-md-up" href="/signup">Sign up</a>
+                            
+
+                            
+                            <button class="navbar-toggler" type="button">
+                                <svg class="open-btn light-bars" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false"><title>Menu</title><path stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h28M4 15h28M4 23h28"></path></svg>
+
+                                <svg class="dark-bars" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30" focusable="false"><title>Menu</title><path stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h28M4 15h28M4 23h28"></path></svg>
+                            </button>
+                            
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                            <ul class="navbar-nav ml-auto mr-md-2">
+                                <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/pricing">Pricing</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/developers">Documentation</a></li>
+                            </ul>
+                            <div class="right-buttons">
+                                
+                                <a class="btn header-btn btn-outline-white my-2 my-sm-0 mr-2 font-medium" href="/account/login">Login</a>
+                                <a class="btn btn-light my-2 header-btn my-sm-0 font-medium js-google-analytics" data-ga-send-event="SignUpButton, Header" href="/signup">Sign up</a>
+                                
+                            </div>
+                        </div>
+
                         
                     </div>
-                </div>
+                </nav>
 
                 
-            </div>
-        </nav>
+                <div id="myNav" class="overlay">
+                    <!-- Button to close the overlay navigation -->
+                    <a href="javascript:void(0)" class="closebtn"><img src="/static/images/cross.svg"></a>
 
-        
-        <div id="myNav" class="overlay">
-            <!-- Button to close the overlay navigation -->
-            <a href="javascript:void(0)" class="closebtn"><img src="/static/images/cross.svg"></a>
+                    <!-- Overlay content -->
+                    <div class="container">
+                        <a class="navbar-brand" href="#"><img src="/static/images/logo-white.svg"></a>
+                        <div class="" id="navbarSupportedContent">
+                            <div class="hidden-md-up">
+                                
+                                <a class="mb-link btn btn-outline-light" href="/account/login">Login</a>
+                                <a class="mb-link btn btn-blueGradient" href="/signup">Sign up</a>
+                                
+                            </div>
 
-            <!-- Overlay content -->
-            <div class="container">
-                <a class="navbar-brand" href="#"><img src="/static/images/logo-white.svg"></a>
-                <div class="" id="navbarSupportedContent">
-                    <div class="hidden-md-up">
-                        
-                        <a class="mb-link btn btn-outline-light" href="/account/login">Login</a>
-                        <a class="mb-link btn btn-blueGradient" href="/signup">Sign up</a>
-                        
+                            <ul class="navbar-nav mr-auto">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/pricing">Pricing</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/developers">Developers</a>
+                                </li>
+
+                                <li class="nav-item"><a class="nav-link" href="/enterprise">Enterprise</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
+
+                                <li class="nav-item">
+                                    <a class="twitter-link nav-link" href="https://twitter.com/ipinfoio"><img style="width: 30px;" src="/static/dist/images/header/icon_twitter.svg"></a>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
-
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item">
-                            <a class="nav-link" href="/pricing">Pricing</a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a class="nav-link" href="/developers">Developers</a>
-                        </li>
-
-                        <li class="nav-item"><a class="nav-link" href="/enterprise">Enterprise</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
-
-                        <li class="nav-item">
-                            <a class="twitter-link nav-link" href="https://twitter.com/ipinfoio"><img style="width: 30px;" src="/static/dist/images/header/icon_twitter.svg"></a>
-                        </li>
-                    </ul>
                 </div>
+                
             </div>
         </div>
-        
 
+        <!-- Page title for legacy pages -->
         
-        <section class="inner-header-content text-center ">
-            <div class="container">
-                <div class="row justify-content-md-center">
-                    <div class="col-12 col-md-8 ">
-                        <h4 class="font-medium op-6 t-20"></h4>
-                        <h1 class="font-semibold t-xs-24">Privacy Policy</h1>
-                        <span class="font-medium op-6 t-16 header_label"></span>
-                    </div>
-                </div>
+<section class="inner-header-content text-center">
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="col-12 col-md-8 ">
+                <h4 class="font-medium op-6 t-20"></h4>
+                <h1 class="font-semibold t-xs-24">Privacy Policy</h1>
+                <span class="font-medium op-6 t-16 header_label"></span>
             </div>
-        </section>
-        
-
+        </div>
+    </div>
+</section>
 
     </header>
 
-    <div id="content">
+    <div class="main-content" id="content">
         
 <div class="old-page no-padding">
     <section class="centered-container">
@@ -198,28 +242,32 @@ We may use this information for the purpose of administering and improving our S
     </div>
 
 
-    <footer class="footer">
+    <footer class="ipinfo-footer" id="ipinfo_footer">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-12">
                     <div class="footer-logo">
-                        <a href="#"></a>
+                        <a href="/"></a>
                     </div>
                 </div>
                 <div class="col-md-9 links-block">
                     <div class="row">
                         <div class="col-md-3 col-6">
                             <ul class="unstyled">
-                                <li>Product</li>
-                                <li><a href="/developers">API Documentation</a></li>
-                                <li><a href="/data">Data</a></li>
-                                <li><a href="/pricing">Pricing</a></li>
-                                <li><a href="/signup">Signup</a></li>
+                                <li>Products</li>
+                                <li><a href="/ip-whois-data-download">IP WHOIS Download</a></li>
+                                <li><a href="/developers">IP Geolocation API</a></li>
+                                <li><a href="/developers/asn">ASN API</a></li>
+                                <li><a href="/developers/ranges">IP Ranges API</a></li>
+                                <li><a href="/developers/hosted-domains">Hosted Domains API</a></li>
+                                <li><a href="/developers/responses#company-details">IP to Company</a></li>
+                                <li><a href="/developers/responses#carrier-details">IP to Mobile Carrier</a></li>
                             </ul>
                         </div>
                         <div class="col-md-3 col-6">
                             <ul class="unstyled">
                                 <li>Resources</li>
+                                <li><a href="/enterprise">Enterprise Solutions</a></li>
                                 <li><a href="https://blog.ipinfo.io">Blog</a></li>
                                 <li><a href="/countries">Global ASNs</a></li>
                                 <li><a href="/hosting">Hosted Domains</a></li>
@@ -231,7 +279,8 @@ We may use this information for the purpose of administering and improving our S
                                 <li>Company</li>
                                 <li><a href="/about">About</a></li>
                                 <li><a href="/jobs">Jobs</a></li>
-                                <li><a href="/contact">Contact</a></li>
+                                <li><a href="/contact">Support</a></li>
+                                <li><a href="/contact/sales">Contact Sales</a></li>
                             </ul>
                         </div>
                         <div class="col-md-3 col-6">
@@ -250,10 +299,11 @@ We may use this information for the purpose of administering and improving our S
         <div class="sub-footer">
             <div class="container clearfix">
                 <div class="float-left">
-                    <p>Copyright © 2018 IPinfo</p>
+                    <p>Copyright © 2019 IPinfo</p>
                 </div>
                 <div class="float-right right-subfooter">
                     <ul class="social-links">
+                        <li><a href="https://github.com/ipinfo"><i class="icon-github"></i></a></li>
                         <li><a href="https://twitter.com/ipinfoio"><i class="icon-tw"></i></a></li>
                         <li><a href="https://www.facebook.com/ipinfoio"><i class="icon-fb"></i></a></li>
                     </ul>
@@ -263,23 +313,6 @@ We may use this information for the purpose of administering and improving our S
     </footer>
 
     <script src="/static/js/bootstrap.4.0.0.min.js"></script>
-    <script src="/static/js/functions.js"></script>
-
-    <script type="text/javascript">
-        (function(i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function() {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-        ga('create', 'UA-2336519-21', 'ipinfo.io');
-        ga('send', 'pageview');
-    </script>
 
     <script>
       $( "form" ).on('submit', function (event) {
@@ -300,8 +333,29 @@ We may use this information for the purpose of administering and improving our S
           $('.main').addClass('main_is-menu-shown')
         }
       })
+
+      $(document).ready(function(){
+          $(window).scroll(function(){
+              if ($(this).scrollTop() > 300) {
+                  $("header").addClass("is-fixed");
+
+              } else if (($(this).scrollTop() < 500) && $("header").hasClass("is-fixed")) {
+                  $("header").addClass("is-detached");
+
+                  $("header").one(
+                      "transitionend MSTransitionEnd webkitTransitionEnd oTransitionEnd",
+                      function() {
+                          $("header").removeClass("is-fixed");
+                          $(this).removeClass("is-detached");
+                      }
+                  );
+
+              }
+          })
+      })
+
     </script>
-    <script type="text/javascript" id="hs-script-loader" async="" defer="" src="//js.hs-scripts.com/4390633.js"></script>
+
     
     <script type="text/javascript">
       (function() {
@@ -314,26 +368,41 @@ We may use this information for the purpose of administering and improving our S
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
       })();
     </script>
-<script>
-window['_fs_debug'] = false;
-window['_fs_host'] = 'fullstory.com';
-window['_fs_org'] = 'CN8PB';
-window['_fs_namespace'] = 'FS';
-(function(m,n,e,t,l,o,g,y){
-    if (e in m) {if(m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].');} return;}
-    g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
-    o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
-    y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
-    g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){g(l,v)};
-    g.shutdown=function(){g("rec",!1)};g.restart=function(){g("rec",!0)};
-    g.consent=function(a){g("consent",!arguments.length||a)};
-    g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
-    g.clearUserCookie=function(){};
-})(window,document,window['_fs_namespace'],'script','user');
-</script>
 
 
- 
+
+
+
+
+    <script src="https://app.bentonow.com/8c382b00145eb9bd8ca4b200519f5996.js"></script>
+    <script>
+    if (typeof(bento$) != 'undefined') {
+          bento$(function() {
+        
+          bento.view();
+        });
+    }
+    </script>
+
+    <!-- Quora Pixel -->
+    <script>
+        ! function(q, e, v, n, t, s) {
+            if (q.qp) return;
+            n = q.qp = function() {
+                n.qp ? n.qp.apply(n, arguments) : n.queue.push(arguments);
+            };
+            n.queue = [];
+            t = document.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = document.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s);
+        }(window, 'script', 'https://a.quora.com/qevents.js');
+        qp('init', '648a6df3b9974548bca3cdb418771d92');
+        qp('track', 'ViewContent');
+    </script>
+
+     
 
 
 
