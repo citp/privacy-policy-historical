@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshillongtimes.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229083828id_/http%3A//www.theshillongtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshillongtimes.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604182212id_/http%3A//www.theshillongtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Shillong Times
 
