@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellectads.co.in privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206210408id_/http%3A//www.intellectads.co.in/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellectads.co.in privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604210011id_/https%3A//www.intellectads.co.in/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - IntellectAds
 
