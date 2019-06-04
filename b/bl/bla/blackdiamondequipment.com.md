@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackdiamondequipment.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118231542id_/http%3A//www.blackdiamondequipment.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackdiamondequipment.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604182221id_/http%3A//www.blackdiamondequipment.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Black Diamond Privacy Policy
 
@@ -56,7 +56,7 @@ It is important for you to protect against unauthorized access to your password 
 
 #### Opting Out Of Communications From Black Diamond
 
-You may elect not to receive on-line or off-line communication from us. To stop receiving Black Diamond email or catalogs, manage your email settings in [My Account](http://www.blackdiamondequipment.com/on/demandware.store/Sites-BlackDiamond-Site/default/Page-Show?cid=my-account).
+You may elect not to receive on-line or off-line communication from us. To stop receiving Black Diamond email or catalogs, manage your email settings in [My Account](https://www.blackdiamondequipment.com/on/demandware.store/Sites-BlackDiamond-Site/default/Page-Show?cid=my-account).
 
   
 
