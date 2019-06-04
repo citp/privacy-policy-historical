@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venmo.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220152413id_/https%3A//venmo.com/legal/us-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venmo.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604191508id_/https%3A//venmo.com/legal/us-privacy-policy) for the most accurate reproduction.*
 
 # Venmo | Privacy Policy
 
