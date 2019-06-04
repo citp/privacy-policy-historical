@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yrc.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115191230id_/http%3A//yrc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yrc.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604025225id_/http%3A//yrc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | YRC Freight - The Original LTL Carrier Since 1924
+# Privacy Policy | YRC Freight - LTL Carrier Since 1924
 
 **Statement of Commitment**  
 Information is one of the most powerful and valuable assets in business today. YRC Freight and our family of companies promise to safeguard the information you share with us as if it were our own.
