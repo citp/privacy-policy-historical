@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appian.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227033109id_/https%3A//www.appian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appian.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605013836id_/https%3A//www.appian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Information | Appian BPM
 
@@ -34,7 +34,7 @@ Every marketing email from Appian includes information on how to opt out of rece
 
 If you submit your name and email address on our website, it will be transferred, stored and processed in the United States, outside the European Economic Area (“EEA”) in accordance with this privacy policy. Appian exchanges information, including personal information, between various subsidiary companies and their operations, worldwide, all as necessary to provide the services requested from Appian by its customers or for general administrative purposes. Appian may also use facilities or contractors worldwide to process or back-up information or to provide certain services to Appian.
 
-Appian and all of its affiliated entities comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Appian has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+Appian and all of its affiliated entities comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom and Switzerland to the United States. Appian has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 Additionally, Appian can also offer customers and partners a data processing addendum containing the E.U. model clauses upon request.
 
