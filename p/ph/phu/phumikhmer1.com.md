@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phumikhmer1.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224120658id_/http%3A//www.phumikhmer1.com/page.php%3Fp%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phumikhmer1.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604231721id_/http%3A//www.phumikhmer1.com/page.php%3Fp%3D4) for the most accurate reproduction.*
 
 # Privacy Policy
 
