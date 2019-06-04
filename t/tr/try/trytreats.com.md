@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trytreats.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614071919id_/http%3A//www.trytreats.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trytreats.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604090438id_/https%3A//www.trytreats.com/privacypolicy) for the most accurate reproduction.*
 
 # Treats - Privacy Policy
 
@@ -182,10 +182,10 @@ and we will promptly remove you from **ALL** correspondence.
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [www.trytreats.com](https://web.archive.org/)  
-934 Kiely Blvd, Suite A  
-Santa Clara, CA 95051  
+44 Tehama St  
+San Francisco, CA 94105  
 USA  
-[roger@trytreats.com](mailto:roger@trytreats.com)  
-(650) 468-0942
+[hello@trytreats.com](mailto:hello@trytreats.com)  
+(650) 336-8490
 
-Last Edited on 2015-07-31 
+Last Edited on 2017-12-4 
