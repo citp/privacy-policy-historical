@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vclock.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023183337id_/http%3A//vclock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vclock.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604191158id_/https%3A//vclock.com/privacy) for the most accurate reproduction.*
 
 # Privacy - vClock
 
