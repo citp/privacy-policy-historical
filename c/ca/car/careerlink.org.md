@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerlink.org privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027191637id_/https%3A//careerlink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerlink.org privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604231702id_/https%3A//careerlink.com/privacy) for the most accurate reproduction.*
 
 # Job Search, Career Advice & Employer Tools | Careerlink
 
