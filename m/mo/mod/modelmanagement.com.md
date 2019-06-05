@@ -1,53 +1,142 @@
-> *The following text is extracted and transformed from the modelmanagement.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223080807id_/http%3A//www.modelmanagement.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modelmanagement.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605085327id_/https%3A//www.modelmanagement.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Model Management
 
-## Data Protection Policy (Part A.) and User Consent (Part B.)
+### How we handle any personal data you give us
 
-Regarding the Use of modelmanagement.com.com
+When you join modelmanagement.com we want you to know exactly what happens with your data, so you can have complete confidence in being one of our valued and much loved members.
 
-**A. Information on Data Protection**
+The information that we request from you is for one purpose only, to improve your experience and help you get the most from being a member of modelmanagement.com and to use our platform in a business to business way with your peers. To give you even more peace of mind, we look after your data in the right way and never share it with any 3rd parties.
 
-modelmanagement.com, P.O. Box 31451, George Town, Grand Cayman, Cayman Islands, KY1-1206 is operating the internet platform modelmanagement.com **(“modelmanagement.com”)**. modelmanagement.com. connects aspiring and professional models with photographers, agents and model agencies.
+### What data do we collect?
 
-modelmanagement.com is dedicated to a sensitive and reasonable use of personal data of the users of its services **(“User(s)”)**. Certain personal User data is collected in the registration process. 
+This list includes some mandatory data which we request from you, in addition to optional data which you can enter into your account if you would like others to know more about your professional abilities.
 
-With this privacy policy, modelmanagement.com would like to inform its Users about its way of processing and using personal data in connection with its services. 
+  * Name and/or company name
+  * Email address
+  * Location
+  * Gender
+  * Website or portfolio link, if you have one
+  * Password which is encrypted
+  * Date of birth (parental or legal guardian consent is required for any user under 16 years old) 
+  * Details of your transactions on our site
+  * Date when you signed up, your last login, uploaded images, followed another user, loved, liked or favourited an image or another user
 
-1.modelmanagement.com will respect applicable data protection laws.
 
-2.modelmanagement.com will only collect, process and use personal data in connection with its services and will not provide third parties with such data unless the User has provided his/her consent or modelmanagement.com is permitted by law or obligated to do so in order to comply with any legal obligation. 
 
-3.When registering on modelmanagement.com, either as a model or photographer/scout or as an agency the User is required to provide certain information and data. 
+Additional data only for model members
 
-4.modelmanagement.com contains links to websites of third parties and cannot influence the way such third parties are collecting, processing and using personal data of visitors to these sites. Therefore, modelmanagement.com declines any responsibility and liability for such third parties’ acts.
+  * Ethnicity, nationality, hair and eye colour, height, shoe size, bust size, waist size, hips size, dress size
+  * Languages spoken
+  * Modeling categories and disciplines that suit your look
+  * Your favourite places to connect with with people
+  * Date when you apply to castings, or accepted/declined a booking
+  * Details of payments made through our site, reviews, comments etc
+  * Free text area called "About me" where you can leave any relevant professional information about yourself
+  * Phone number
+  * Social media links
+  * Uploaded images
 
-5.modelmanagement.com is dedicated to the protection of the personal data of its Users and has therefore taken appropriate measures for the protection of this data. However, modelmanagement.com declines any responsibility and liability for the disclosure of User data caused by defective data transfers and/or illegal access by third parties.
 
-6.modelmanagement.com collects only the domain name, but not the e-mail address of visitors to its Web page, the e-mail addresses of those who post messages to the bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, User-specific information on what pages consumers access or visit, information volunteered by the user, such as survey information and/or site registrations, name and address, telephone number, fax number.
 
-7.modelmanagement.com is using “Google Analytics”, a service for analyzing purposes by Google Inc. **(“Google”)**. Google Analytics uses “cookies”, i.e. text files that are stored on the computer of the User allowing the analysis of his/her use of modelmanagement.com. The information generated by the cookie (including your IP address) is transferred to a Google server in the USA and stored there. Google will use this information to analyze your use of modelmanagement.com, to compile reports on the web site activities on modelmanagement.com and for the provision of other services in connection with the use of modelmanagement.com and the Internet. Google may transfer such information to third parties if so prescribed by law or if third parties are processing them on behalf of Google. Google will not connect the IP addresses of modelmanagement.com’s Users with other Google data. The User may prevent the installation of the cookies by setting his/her browser software accordingly, which may, however, reduce the usability of modelmanagement.com by the User. By using modelmanagement.com, the User declares his/her consent with the processing of his/her data by Google as described herein. 
+Additional data only for model agencies, photographers, brands and other industry professional members
 
-8.The User may, at any time, request information on his/her data actually stored by modelmanagement.com by contacting modelmanagement.com at info@modelmanagement.com. 
+  * Visual media industry sector
+  * Free text area called "About me" where you can leave any relevant professional information about yourself
+  * Phone number
+  * Social media links
+  * Uploaded images
 
-**B. Declaration of Consent**
 
-**When accepting this data protection policy during the process of registration on modelmanagement.com, the User declares his/her consent to the use of his/her personal data as described below. This consent may be revoked any time in writing by sending a letter to modelmanagment.com, P.O. Box 31451, George Town, Grand Cayman, Cayman Islands, KY1-1206 or via e-mail to info@modelmanagement.com. The User acknowledges the information on data protection set out in part A. above and additionally declares his/her consent to the following:**
 
-1.Use of Personal Model Data by Authorized Photographers, Scouts and Agents
+### Which providers do we share your data with? 
 
-**I agree** that authorized photographers, scouts and agents who use modelmanagement.com have access to the following personal data: profile name, age, gender, general location, personal statistics (measurements, descriptive details, preferred modeling disciplines, etc.), images and videos. If an authorized photographer, agent or scout is interested in you, you will be contacted through modelmanagement.com’s website. If you choose to respond, information you voluntarily provide will be made available to the authorized scout or agent, otherwise, no personal identifying information will be disclosed.
+Companies we use to connect with to provide services through our website. For example if you upgrade to Premium we connect with worldwide payment companies such as Paypal to handle to the online payment securely. Click on the individual company names to view their privacy policies.
 
-You may also voluntarily wish to display other personal information in your profile. This can be changed at any time by logging in and choosing update profile to edit how and which information is displayed.
+Analytics - GTM with [Google Analytics](https://www.google.com/analytics/learn/privacy.html)
+    Cookies and usage data
+Marketing - [Facebook](https://www.facebook.com/about/privacy/) and [Twitter](https://business.twitter.com/en/help/ads-policies/other-policy-requirements/policies-for-conversion-tracking-and-tailored-audiences.html) pixels
+    Cookies and usage data
+Advertising - [Google DFP](https://policies.google.com/privacy)
+    Cookies and usage data
+Handling payments – [Recurly](https://recurly.com/legal/privacy), [PayPal](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full) and [Ebanx](https://business.ebanx.com/en/privacy-policy)
+    Data as specified in the privacy policy of the service
+SMS - [Twilio](https://www.twilio.com/legal/privacy)
+    Phone number, usage data
+Managing contacts and sending messages - [Sendy](https://sendy.co/privacy-policy), [SES](https://aws.amazon.com/privacy/), [Sendgrid](https://sendgrid.com/policies/privacy/), [Mailchimp](https://mailchimp.com/legal/privacy/), [Mailgun](https://www.mailgun.com/privacy-policy)
+    Email address, usage data
+Support and live chat - [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/)
+    Email address, cookies, usage data
+Access to third-party account. These are companies you can decide to use on our website to make certain tasks simpler. For example if you decide to sign up to our site with Facebook, or if you decide to invite your personal contacts to join our site via your own email database.
+    [Facebook](https://www.facebook.com/about/privacy/update) \- About me, birthday, city, email address, website
+    [Google](https://policies.google.com/privacy) and [Yahoo](https://policies.yahoo.com/xa/en/yahoo/privacy/index.htm) \- Contacts
+SPAM protection - [Akismet](https://akismet.com/tos/) and [Google reCAPTCHA](https://policies.google.com/privacy)
+    Various types of data as specified in the privacy policy of the service
+Interaction with external social networks and platforms - [Facebook](https://www.facebook.com/about/privacy/) Like button and social widgets, [Pinterest](https://policy.pinterest.com/privacy-policy) and [Google +1](https://policies.google.com/privacy)
+    Cookies and usage data
+Content performance and features testing (A/B testing) - [Google optimize](https://policies.google.com/privacy)
+    Cookies and usage data
 
-2.Use of Data by Co-operation Partners **I agree** that my personal data may also be used in the context of co-operations with partners and customers of modelmanagement.com for purposes of market research and the improvement and customization of modelmanagement.com’s services. In this context, my personal data may also be transferred to such partners and customers.
+### Which 3rd parties do we share your data with?
 
-3.Cookies and Log-Files
+We do will not share your data with any third parties, unless we have your permission or are required by law to do so.
 
-**I agree** that modelmanagement.com uses cookies as follows: 
+### How long do we keep your data?
 
-modelmanagement.com uses cookies to store visitors’ preferences, record session information, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends.
+Your data will be kept as long as you are a user of our site and have not requested that your account and data to be erased.
 
-Cookies are text files that are either temporarily stored in the random access memory or on the hard drive of your computer. They generally serve for offering the User the services of modelmanagement.com with the User’s personal settings in each new session. Cookies are partly stored permanently on the User’s hard drive. The User may prevent this by setting his/her browser accordingly.
+### Where is it stored? 
 
-4. **I agree** that my personal data will be processed by Google as described in Part A Section 7 above.
+All data is stored on our secure European based servers
+
+### Do we have lawful reasons why we need this data?
+
+The lawful reasons why we need this data are legitimate interests pursued by the company, as established by the GDPR (Article 6).
+
+### What do we do with this information?
+
+Analyse user activity to improve our service
+
+Provide a high quality and ultimately useful user experience throughout our site and email communication
+
+We may notify you by email, phone or SMS with important information of relevance to your account, for example if you have been invited to a casting or if a member has messaged you. In addition if another user has liked, loved your images or followed you, or with changes and updates to our site, promotional offers, surveys, tips, news etc. 
+
+### IP addresses and Cookies
+
+IP address is stored temporarily for security and spam prevention.
+
+modelmanagement.com uses cookies to store visitors’ preferences, record session information, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customise Web page content based on visitors' browser type or other information that the visitor sends.
+
+Cookies are text files that are either temporarily stored in the random access memory or on the hard drive of your computer. They generally serve for offering you the services of modelmanagement.com within your personal settings of each new session, which basically means to give you a better and faster experience more in tune with what you like to see. Cookies are partly stored permanently on your hard drive. You may prevent this by setting your browser accordingly, however you may notice that our website does not run as fast and in the same way to what you would expect. 
+
+### Technical security
+
+We will report any data breaches and security issues to the data protection authority within 72 hours of discovery. We will also notify by email any users who are directly affected by this breach.
+
+### How you can control the use and display of your information?
+
+All data that we gather is used to give you and other users the best possible experience on our website.
+
+You have the right to edit or erase certain information about you on your account, but this may result in our site being less useful for you.
+
+You have the right for your account and information about you to be erased from our site. You can find this by logging into your account and visiting Edit profile and by clicking the link: Request your account to be deleted.
+
+If you want to opt in or out of the emails we send you, these can be changed in the Edit my profile section of your account. Certain important emails may still be sent to you, for example if you've forgotten your password, or if we update our Terms and Conditions or Privacy Policy.
+
+You can request to see details of any personal information which we hold about you. If you would like to see this information, please contact us at: privacy@modelmanagement.com. You will need to provide proof of your identity and we may charge a fee to provide this information. Requests of information will take up to 30 days.
+
+### Changes to this privacy policy
+
+We reserve the right to make changes to this Privacy Policy at any time. This page will show a notice that changes have been made. If a user objects to the updated Privacy Policy, they should request for their account to be erased and personal data removed.
+
+We hope that this Privacy Policy answers any questions that you may have. If you have any further questions, feel free to contact us directly here by email at: privacy@modelmanagement.com
+
+### Contact us
+
+MM Model Management Ltd.  
+3, Chrysanthou Mylona Street  
+CY-3030 Limassol  
+Cyprus  
+V.A.T. NUMBER: CY10242739L  
+Company Registration Number: he 242739  
+Email: privacy@modelmanagement.com 
