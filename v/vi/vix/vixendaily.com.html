@@ -1,263 +1,32 @@
-<!--The following is the downloaded HTML source of the vixendaily.com privacy policy that was archived on 2018-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181027234339id_/https%3A//www.vixendaily.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vixendaily.com privacy policy that was archived on 2019-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190605174901id_/https%3A//www.vixendaily.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
 <meta charset="UTF-8">
-<link href="//fonts.googleapis.com/css?family=Merriweather|Cantata+One|Fjalla+One|Open+Sans:400,400i,700" rel="stylesheet" type="text/css"><!-- Google fonts -->
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+(function () {
+	if(typeof Number.isInteger !== 'undefined') return;
+	var n=document.getElementsByTagName('script')[0],
+	s=document.createElement('script');
+	s.type = 'text/javascript';
+	s.src = 'https://polyfill.io/v3/polyfill.min.js?flags=gated&features=default%2CArray.isArray%2CDate.now%2CNumber.isInteger%2CObject.keys%2CObject.values';
+	n.parentNode.insertBefore(s,n);
+})();
+</script>
+<link href="//fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i|Fjalla+One|Open+Sans:400,400i,700" rel="stylesheet" type="text/css">
+<!-- Google fonts -->
 <title>Privacy Policy</title>
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
+<script type="text/javascript">
 window.sayhello = window.sayhello || { };
 window.sayhello.domain = 's.vixendaily.com';
 window.sayhello.pageid = parseInt('1074',10);
 window.sayhello.ready = false;
 </script>
 <script>
-(function(w) {
-"use strict";
-w.cdough = w.cdough || { };
-
-var me = w.cdough;
-
-me.getc=function(name,limit){
-if (typeof limit === 'undefined') limit = 20;
-return me.retrieve(name).substring(0,limit).replace(/[\s]/gi, '');
-}
-
-me.retrieve=function(name){ 
-if (!name) return '';
-var re=new RegExp(name+"=[^;]+", "i"); 
-if (document.cookie.match(re)) return document.cookie.match(re)[0].split("=")[1];
-return ''; 
-}
-
-me.setwithexp=function(name,value,expDays,domain){
-if (!name||expDays<1) return ''; // wpclosetag_fix>
-value=String(value);
-if (value.indexOf(';')>-1) return '';
-if (expDays==='delete') expDays = -1;
-var dateobj = new Date();
-var expstring = dateobj.setDate(dateobj.getDate()+parseInt(expDays));
-var domainstring = (typeof domain === 'undefined' || !domain) ? '' : "; domain="+domain;
-document.cookie = name+"="+value+"; expires="+dateobj.toGMTString()+"; path=/"+domainstring;
-}
-
-me.del=function(name,domain){
-me.setwithexp(name,'','delete',domain);
-}
-
-me.set=function(name,value,domain){
-me.setwithexp(name,value,14,domain);
-}
-
-me.urlpartsstring=function(u){
-var l = u.indexOf('#'), hash, query;
-if (l===-1) {
-	hash = '';
-} else {
-	hash = u.substr(l);
-	u = u.substr(0,l);
-}
-
-l = u.indexOf('?');
-if (l===-1) {
-	query = '';
-} else {
-	query = u.substr(l);
-	u = u.substr(0,l);
-}
-
-return {url:u,query:query,hash:hash};
-}
-
-me.urlparts=function(){
-return me.urlpartsstring(window.location);
-}
-
-me.assembleurl=function(p){
-if(typeof p.url === 'undefined' || typeof p.query === 'undefined' || typeof p.hash === 'undefined') return false;
-return p.url+p.query+p.hash;
-}
-
-me.updatequery=function(query,newvars){
-if(typeof newvars !== 'object') return false;
-var pairs = me.parsequerystring(query);
-var keys = Object.keys(newvars);
-for(var i=0,l=keys.length;i<l;i++){
-	pairs[keys[i]] = newvars[keys[i]];
-}
-return me.makeuriquery(pairs);
-}
-
-me.makeuriquery=function(pairs){
-var keys=Object.keys(pairs);
-if (keys.length>0){
-	var qs='';
-	for(var i=0,l=keys.length,r=0;i<l;i++){
-		if(pairs[keys[i]]===false) continue;
-		qs+=((r>0)?'&':'?')+keys[i]+((pairs[keys[i]]!==null)?'='+encodeURIComponent(pairs[keys[i]]):'');
-		r++;
-	}
-	return qs;
-} else return '';
-}
-
-me.parsequerystring=function(qs) {
-var qparams={};
-while(qs.length>0 && (qs.charAt(0) === '?' || qs.charAt(0) === '&')){
-qs = qs.substr(1);
-}
-if(qs==='') return {};
-var ps = qs.split('&');
-for (var i=0,l=ps.length;i<l;i++){
-	var pair = ps[i].split('=');
-	if (pair[0].length>0){
-		if (typeof qparams[pair[0]]==='undefined') {
-			qparams[pair[0]] = (typeof pair[1] === 'undefined') ? null : decodeURIComponent(pair[1]);
-		}
-	}
-}
-return qparams;
-}
-
-me.parsequery=function() {
-return me.parsequerystring(window.location.search);
-}
-
-me.queryvaluestring=function(qstring,key,returnempty=false){
-var qv = me.parsequerystring(qstring);
-if (typeof qv[key] !== 'undefined') return (returnempty&&qv[key]===null ? '' : qv[key]);
-else return (returnempty?'':false);
-}
-
-me.queryvalue=function(key,returnempty){
-return me.queryvaluestring(window.location.search,key,returnempty);
-}
-
-
-})( window );
+wdfq = window.wdfq || {};
+wdfq.cmd = window.wdfq.cmd || [];
 </script>
-<script>
-(function( w ) {
-"use strict";
-w.wdfq = w.wdfq || {};
-var me = w.wdfq;
-
-var ival,
-
-run = function(f) {
-    if(typeof f === 'function') {
-        try { return jQuery(f); }
-        catch(e) {return;}
-    }
-},
-
-openGate = function() {
-    if (Array.isArray(me.cmd)) {
-        for(var i=0,l=me.cmd.length;i<l;i++) {
-            try {
-                if(typeof me.cmd[i] !== 'function') continue;
-                jQuery( me.cmd[i] );
-            }
-            catch(e) {
-                continue;
-            }
-        }
-        me.cmd = { push: run, };
-    }
-},
-
-bump = function() {
-    if(typeof w.jQuery !== 'undefined') {
-        clearInterval(ival);
-        openGate();
-    }
-},
-
-
-init = function() {
-    if(typeof w.jQuery === 'undefined') {
-        ival = setInterval(bump, 1000);
-    } else {
-        openGate();
-    }
-},
-
-/*  */ pvarend;
-
-me.cmd = [];
-
-init();
-
-}( window ));
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-</script>
-<script>
-wdfq.cmd.push( function(){ (function($,w,d,u){
-"use strict";
-w.sayhello = w.sayhello || { };
-
-var me = w.sayhello,
-callback = $.Callbacks("memory"),
-
-geniframe=function() {
-var l=w.location,
-	ins = document.createElement('iframe');
-ins.style.display = 'none';
-ins.setAttribute('src','//'+me.domain+'/v/?i='+me.pageid+'&o='+l.hostname+l.pathname);
-document.getElementsByTagName('body')[0].appendChild(ins);
-},
-
-init=function() {
-if (typeof me.domain === 'undefined') return;
-if (typeof me.pageid === 'undefined') me.pageid = 0;
-if (!Number.isInteger(me.pageid) || me.pageid > 9999999 || me.pageid < 0 ) me.pageid = 0;
-me.registerOriginEvent(geniframe);
-me.ready = true;
-if (!w.cdough.getc('visitorigin1')) callback.fire();
-},
-
-pvarend;
-
-me.registerOriginEvent = function(f) {
-    callback.add(f);
-};
-
-$(init);
-})(jQuery,window,document,'undefined') } );
-</script>
-<!-- Facebook Pixel Code, mod data-lazy-src to prevent lazyload -->
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '334946353602064', {});
-</script>
-<noscript><img height="1" width="1" style="display:none" data-lazy-src 
-src="https://www.facebook.com/tr?id=334946353602064&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code --> 
-<script>
-window.fborigin_deferral = setInterval( function(){ if( typeof window.jQuery != 'undefined' && window.sayhello.ready) { fborigin_pop(); clearInterval(fborigin_deferral); } } , 1000 );
-function fborigin_pop() {
-(function( $, win, undefined ) {
-"use strict";
-win.fborigin = win.fborigin || { };
-var me = win.fborigin;
-me.fborigin_event = function() {
-fbq('track', 'vxsitewide', {
-content_type: 'landing',
-content_ids: [ sayhello.pageid.toString() ],
-value: 0.00,
-currency: 'USD'
-});
-}
-sayhello.registerOriginEvent( me.fborigin_event );
-})( jQuery, window );
-}
-</script>
+<script async="" src="https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/wp-content/uploads/assets/common-js/loadout/loadout.vxd_20190212.js"></script>
 <meta name="description" content="Read very carefully: Vixen Daily only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our f">
 <meta name="robots" content="noodp, noydir">
 <link rel="apple-touch-icon" sizes="57x57" href="https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/apple-touch-icon-57x57.png">
@@ -280,19 +49,200 @@ sayhello.registerOriginEvent( me.fborigin_event );
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/wp-content/thesis/skins/facoskin4/css.css">
 <link rel="canonical" href="https://www.vixendaily.com/privacy-policy/">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script> 
+var PREBID_TIMEOUT = 2000;
+function detect_width() {
+	return Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+}
+function enqueue_when_ready(src,cf,props,noasync) {
+	var doasync=typeof noasync==='undefined'?true:!noasync,
+		props=typeof props==='object'?props:{},
+		check=typeof cf==='function'?check:function(){return true};
+	
+	props.async=doasync;
+	props.type='text/javascript';
+	props.src=src;
+		
+	wdfq.cmd.push(function(){
+		if(!cf())return;
+		var n=document.getElementsByTagName('script')[0],
+		s=document.createElement('script');
+		jQuery.each(props,function(k,v){s.setAttribute(k,v);});
+		n.parentNode.insertBefore(s,n);
+	});
+}
+function deferred_abg_processor() {
+	var $=window.jQuery,_=(!offering.$());
+	var runlist=[],dellist=[];
+	var iblab=function(m,v){if(offering_info)console.log(m+v)};
+	$("ins[data-internal-id]").each( function(i,e){
+			var id=$(e).data('internal-id');
+			if(id.substr(0,1).toLowerCase()!=width_mode||_) dellist.push(id);
+			else runlist.push(id);
+		} );
+	$.each(dellist,function(i,v){ $("[data-internal-id="+v+"]").remove(); iblab('deleted:',v); });
+	$.each(runlist,function(i,v){ (adsbygoogle = window.adsbygoogle || []).push({}); iblab('active:',v); });
+}
+
+var width_mode;
+var init_width = detect_width();
+if(init_width>1052) { width_mode='d'; }
+else { width_mode='m'; }
+
+var offering_info = false;
+var offering = { display: function(s){ if(offering_info)console.warn('update needed for unit '+s);}, init:function(){}, mention_mode:function(){ if(offering_info){console.log('width_mode:'+width_mode);} }, bookend:function(){}, $:function(){return Array.isArray(offering.go)&&0===offering.go.length;} };
+</script>
+<script>
+  enqueue_when_ready('https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/prebid1.28.0.js',offering.$);
+  enqueue_when_ready('https://www.googletagservices.com/tag/js/gpt.js',offering.$);
+  enqueue_when_ready('//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',offering.$);
+</script>
+<script>
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};enqueue_when_ready(t,offering.$);}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+</script>
+<script>
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function() {
+    googletag.pubads().disableInitialLoad();
+});
+apstag.init({
+	pubID: 'bb80eb75-5aab-4667-a621-341f9a190066',
+	adServer: 'googletag'
+});
+
+
+pbjs.que.push(function() {
+    pbjs.setConfig({
+        bidderSequence: 'random',
+        enableSendAllBids: true,
+        priceGranularity: 'high',
+    });
+	pbjs.bidderSettings = {
+		districtm: {
+			bidCpmAdjustment: function (bidCpm) {
+				return bidCpm * 0.85;
+			}
+		}
+	};	
+});
+
+!function(me,w) { 
+"use strict";
+
+var
+
+bidders = ['a9', 'prebid'],
+$,
+
+pvarend;
+
+me.adserverRequestSent = false;
+me.set_apstagSlots = [];
+me.set_adUnits = [];
+
+me.init = function() {
+	$ = w.jQuery;
+	me.set_apstagSlots = w.apstagSlots;
+	me.set_adUnits = w.adUnits;
+	bidders.forEach( function(e){ me[e] = false; } );
+	
+	me.requestBids();
+	w.setTimeout( function(){ me.sendAdserverRequest(); }, PREBID_TIMEOUT );
+};
+
+me.requestBids = function() {
+	w.pbjs.que.push(function() {
+		w.pbjs.addAdUnits(me.set_adUnits);
+		w.pbjs.requestBids({
+			bidsBackHandler: function (bidResponses) { me.headerBidderBack('prebid'); }
+		});
+	});
+
+	apstag.fetchBids({
+			slots: me.set_apstagSlots
+		}, function(bids) {
+			me.headerBidderBack('a9');
+		}
+	);
+};
+
+
+me.sendAdserverRequest = function() {
+    if (me.adserverRequestSent) return;
+    me.adserverRequestSent = true;
+    w.googletag.cmd.push(function() {
+        w.pbjs.que.push(function() {
+            w.apstag.setDisplayBids();
+            w.pbjs.setTargetingForGPTAsync();
+            w.googletag.pubads().refresh();
+        });
+    });
+};
+
+
+me.allBiddersBack = function() {
+	return bidders.map( function(e) { return me[e]; } ).filter(Boolean).length === bidders.length;
+};
+
+
+me.headerBidderBack = function(b) {
+	if (me.adserverRequestSent || !bidders.includes(b)) return;
+	requestManager[b] = true;
+	if (me.allBiddersBack()) me.sendAdserverRequest();
+};
+
+
+}(requestManager=window.requestManager||{},window);
+</script>
+
+<script>
+offering.mention_mode();
+window.adUnits = adUnits_preconfig[width_mode];
+
+wdfq.cmd.push( function offering_kickoff() {
+	window.apstagSlots=[];
+	jQuery.each(adUnits,function(i,e){
+		apstagSlots.push({
+			slotID: e.code,
+			slotName: e.gtagslot,
+			sizes: e.sizes,
+		});
+	});
+
+	googletag.cmd.push(function() {
+		jQuery.each(adUnits,function(i,e){
+			googletag.defineSlot(e.gtagslot, e.sizes, e.code).addService(googletag.pubads());
+		});
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+	});
+
+	requestManager.init();
+	deferred_abg_processor();
+});
+</script>
+
+<!-- BEGIN: Connatix -->
+<script>
+enqueue_when_ready('https://cdn.connatix.com/min/connatix.renderer.infeed.min.js',offering.$,{'data-connatix-token':'f5314518-a5ca-407a-9ad7-94b2a5a16796'});
+</script>
+<!-- END: Connatix -->
 <link rel="alternate" type="application/rss+xml" title="Vixen Daily feed" href="https://www.vixendaily.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Vixen Daily » Privacy Policy Comments Feed" href="https://www.vixendaily.com/privacy-policy/feed/">
-<link rel="stylesheet" id="yarppWidgetCss-css" href="https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.5.15" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/wp-includes/css/dashicons.min.css?ver=4.5.15" type="text/css" media="all">
-<link rel="stylesheet" id="thickbox-css" href="https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/wp-includes/js/thickbox/thickbox.css?ver=4.5.15" type="text/css" media="all">
+<link rel="stylesheet" id="yarppWidgetCss-css" href="https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.5.17" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/wp-includes/css/dashicons.min.css?ver=4.5.17" type="text/css" media="all">
+<link rel="stylesheet" id="thickbox-css" href="https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/wp-includes/js/thickbox/thickbox.css?ver=4.5.17" type="text/css" media="all">
 <script type="text/javascript">
 window.slideDeck2Version = "3.4.9";
 window.slideDeck2Distribution = "pro";
 </script>
 <script type="text/javascript" src="https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/wp-content/plugins/sharebar/js/sharebar.js?ver=4.5.15"></script>
+<script type="text/javascript" src="https://d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com/wp-content/plugins/sharebar/js/sharebar.js?ver=4.5.17"></script>
 <link rel="https://api.w.org/" href="https://www.vixendaily.com/wp-json/">
 
 
@@ -417,7 +367,25 @@ ga('send', 'pageview');
 					</div>
 				</div>
 				<div class="column-sidebar">
-<div class="region-ad desktoponly"><div id="ecb-side-top-d" class="region-ad-inner ecb-side-top-d"></div></div>					<div class="widget t desktoponly">
+<div class="region-ad desktoponly"><div id="ecb-side-top-d" class="region-ad-inner ecb-side-top-d"><!-- /21747652610/D_Home_rhs_top -->
+<div id="D_Home_rhs_top"></div>
+<!-- /21747652610/D_Cat_rhs_top -->
+<div id="D_Cat_rhs_top"></div>
+<!-- /21747652610/D_Detail_rhs_top -->
+<div id="D_Detail_rhs_top"></div>
+<script>
+switch(load_mode){
+case 'h':
+googletag.cmd.push(function() { googletag.display('D_Home_rhs_top'); });
+break;
+case 'c':
+googletag.cmd.push(function() { googletag.display('D_Cat_rhs_top'); });
+break;
+case 'a':
+googletag.cmd.push(function() { googletag.display('D_Detail_rhs_top'); });
+break;
+}
+</script></div></div>					<div class="widget t desktoponly">
 						<div id="search-desktop" class="inset-widget widget_search">
 							<p class="t widget_title">Search Vixen Daily</p>
 			<form role="search" method="get" id="searchform-desktop" class="searchform" action="/">
@@ -487,13 +455,22 @@ ga('send', 'pageview');
 				<ul><li><a href="/about/">About</a></li><li><a href="/privacy-policy/">Privacy Policy</a></li><li><a href="/terms-and-conditions/">Terms of Use</a></li><li><a href="/ftc-disclosure-statement/">FTC disclosure statement</a></li><li><a href="/friends/">Friends</a></li><li><a href="/contact-us/">Contact Us</a></li></ul>
 			</div>
 			<div class="fmeta fine">
-				© Mojo Media, Inc. 2018&nbsp; All rights reserved. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except as expressly permitted in writing by Mojo Media, Inc.
+				© Mojo Media, Inc. 2019&nbsp; All rights reserved. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except as expressly permitted in writing by Mojo Media, Inc.
 			</div>
 		</div>
 	</div>
 </div>
 <div id="section-postpage">
-<div class="region-ad"><div id="ecb-adhesive-cm" class="region-ad-inner ecb-adhesive-cm"></div></div>	<script type="text/javascript" async="" defer="" data-pin-color="white" data-pin-height="28" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
+<script>
+jQuery( function() { setTimeout( function() { if (typeof document.title == "undefined" || document.title == null || document.title === "" || document.title == "null") { ga('send','event','tech','null_title',document.location); } }, 6000 ); } );
+</script><div id="bottm-anchor-gutter" class="nodesktop" style="position:fixed;bottom:0;text-align:center;width:100vw;background:rgba(255,255,255,0.8);line-height:0;"><div id="bottom-anchor" style="display:inline-block;vertical-align:top;">
+<!-- /21747652610/M_Detail_sticky -->
+<div id="M_Detail_sticky" style="height:50px; width:320px;">
+<script>
+googletag.cmd.push(function() { googletag.display('M_Detail_sticky'); });
+</script>
+</div>
+</div></div>	<script type="text/javascript" async="" defer="" data-pin-color="white" data-pin-height="28" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
 <script type="text/javascript">
 nopinset=function(){jQuery('.nopin img').attr('nopin','nopin');}
 window.setTimeout(nopinset,6000);
@@ -520,4 +497,4 @@ var slideDeck2iframeByDefault = false;
 Page Caching using disk: enhanced
 Content Delivery Network via Rackspace Cloud Files: d1cbe14be5894c8dcc3d-8a742a0d46bf003746b2a98abb2fa3cf.ssl.cf2.rackcdn.com
 
- Served from: www.vixendaily.com @ 2018-10-27 18:11:37 by W3 Total Cache --></body></html>
+ Served from: www.vixendaily.com @ 2019-06-05 12:58:55 by W3 Total Cache --></body></html>
