@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techlila.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230213900id_/https%3A//www.techlila.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlila.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605082318id_/https%3A//www.techlila.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • TechLila
 
@@ -17,7 +17,7 @@ Our Site may use “cookies” to enhance user experience. User’s web browser 
 
 ### How We Use Collected Information
 
-TechLila may collect and use users personal information for the following purposes:
+TechLila may collect and use users personal information for the following purposes: 
 
   * **To improve our website**  
 We may use feedback you provide to improve our tutorials, design, products and services. 
@@ -63,7 +63,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting Us
 
-If you require any more information or have any questions regarding our privacy policy, please feel free to contact us using the information below.
+If you require any more information or have any questions regarding our privacy policy, please feel free to contact us using the information below. 
 
   * Contact Us [Page](https://www.techlila.com/contact/ "Contact Us").
   * Send mail directly [admin[@]techlila.com](mailto:admin@techlila.com)
