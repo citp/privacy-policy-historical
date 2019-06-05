@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enworld.org privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130175329id_/http%3A//www.enworld.org/forum/faq.php%3Ffaq%3Dvb_faq%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enworld.org privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605232704id_/http%3A//www.enworld.org/forum/faq.php%3Ffaq%3Dvb_faq%23faq_privacy) for the most accurate reproduction.*
 
 # Rules & More
 
