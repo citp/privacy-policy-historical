@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomrecess.com privacy policy that was archived on 2018-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180801131246id_/http%3A//www.roomrecess.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomrecess.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605190334id_/http%3A//www.roomrecess.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -54,10 +54,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
 
-We use Sovern ads on our site.
-
-Sovern, as a third party vendor, uses cookies to serve ads on our site. Sovern's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Sovern ad and content network privacy policy.  
-
+We use ads on our site, issued to us from AdMetricsPro.com.
 
  **We have implemented the following:**
 
