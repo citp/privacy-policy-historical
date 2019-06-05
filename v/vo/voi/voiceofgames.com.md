@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voiceofgames.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202132925id_/http%3A//www.voiceofgames.com/%3Fpage_id%3D5385) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiceofgames.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605020456id_/http%3A//www.voiceofgames.com/%3Fpage_id%3D5385) for the most accurate reproduction.*
 
 # Privacy Policy – Voice Of Games takes you closer to the games, movies and TV you love.
 
