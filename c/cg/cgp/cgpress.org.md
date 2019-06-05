@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgpress.org privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112131041id_/http%3A//cgpress.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgpress.org privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605121909id_/https%3A//cgpress.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - CGPress
 
@@ -19,13 +19,13 @@
 
 ### 1\. Introduction, Acceptance, and General Statement Regarding Privacy and the Privacy Policy
 
-Welcome to the CGPress Website located at http://cgpress.org/ (the “Website”) which includes all subdomains present and future. We hope you enjoy your visit and / or use of the Website. By visiting and / or using the Website, you agree to be bound by the terms of the present agreement, known as the Privacy Policy (the “Policy”).
+Welcome to the CGPress Website located at https://cgpress.org/ (the “Website”) which includes all subdomains present and future. We hope you enjoy your visit and / or use of the Website. By visiting and / or using the Website, you agree to be bound by the terms of the present agreement, known as the Privacy Policy (the “Policy”).
 
 CGPress is owned and operated by Paul Roberts, located in Canterbury, UK. Where the present Policy refers to “CGPress”, it may refer to CGPress (and / or its agents or representatives) or Paul Roberts (and / or its officers, directors, employees, agents or representatives) or both, depending on the context. In the present Policy, CGPress may be referred to as “we” or “us” and Website visitors may be referred to as “you” or “your”, whether individually or collectively.
 
 The Policy was last modified on May 23, 2018. CGPress reserves the right, at any time and without prior notice, to modify or replace any of the Policy. Any changes to the Policy can be found at this URL. It is your responsibility to check the Policy periodically for changes. Your use of the Website following the posting of any changes to the Policy constitutes acceptance of those changes.
 
-The Policy should be read in conjunction with the [Terms and Conditions](http://cgpress.org/terms_and_conditions), as both these documents govern your use of the Website.
+The Policy should be read in conjunction with the [Terms and Conditions](https://cgpress.org/terms_and_conditions), as both these documents govern your use of the Website.
 
 CGPress takes your privacy and security of personal information very seriously. We have provided a secure environment and this strict Policy that describes the limited ways the information is used and the limited access to such information.
 
@@ -45,7 +45,7 @@ CGPress is a site dedicated to journalism. As such, most of our collection, use 
 
 – Personal information: data provided by you voluntarily by filling out forms on our site, like submitting comments or news contributions. This may include, without limitation, your name and email. This information will be used for daily duties related to the site’s journalistic purposes. We may use your email to contact you regarding news or comments you have submitted to the site, to confirm or request further information related to a news item, or for other non-frequent site-related matters. At no point will we subscribe you automatically to unrequested site-related email lists without your explicit consent.
 
-When receiving news contributions, we credit sources of news items we receive and post them in news items publicly with a link to their sites. This is important for ensuring transparency and independence in news reporting and stimulating readers to control that no commercial interests are interfering with published news. Contributors are explicitly asked for their consent to allow the names they enter in the news contribution forms to be displayed as sources and are also given an option to opt out of it; we dutifully respect contributors that explicitly request not to be mentioned by filling out the form in the way described in the [“Contribute News” page](http://cgpress.org/contribute). Contributors of news acknowledge and agree that their submitted personal and / or organization’s information may be published on the Website for this purpose, as described more fully on the Contribute News page.
+When receiving news contributions, we credit sources of news items we receive and post them in news items publicly with a link to their sites. This is important for ensuring transparency and independence in news reporting and stimulating readers to control that no commercial interests are interfering with published news. Contributors are explicitly asked for their consent to allow the names they enter in the news contribution forms to be displayed as sources and are also given an option to opt out of it; we dutifully respect contributors that explicitly request not to be mentioned by filling out the form in the way described in the [“Contribute News” page](https://cgpress.org/contribute). Contributors of news acknowledge and agree that their submitted personal and / or organization’s information may be published on the Website for this purpose, as described more fully on the Contribute News page.
 
 – Personal information: information given to us when you contact us for any reason. This information will only be used for the purpose you contacted us for, including replying to your emails and other site-related matters, with journalism as its main purpose.
 
