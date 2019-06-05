@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209025818id_/https%3A//otakumode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605182232id_/https%3A//otakumode.com/privacy) for the most accurate reproduction.*
 
 # Tokyo Otaku Mode | Privacy Policy
 
@@ -133,8 +133,8 @@ We may revise this Privacy Policy, so review it periodically.
 ## Contact Information
 
 Tokyo Otaku Mode Inc.  
-3219 NW Guam St  
-Portland, OR 97210  
+700 SW 5th Ave 3rd Fl, #4000  
+Portland, OR 97204  
 USA
 
 [Contact form](https://otakumode.com/inquire).
