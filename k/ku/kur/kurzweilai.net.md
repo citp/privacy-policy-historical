@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kurzweilai.net privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204141845id_/http%3A//www.kurzweilai.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kurzweilai.net privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605202419id_/http%3A//www.kurzweilai.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kurzweil
 
@@ -20,7 +20,7 @@ The information we gather falls into two categories: 1) personal information you
 **your privacy choices**
 
   * If you don’t prefer to get newsletters from us, simply follow the unsubscribe option at the bottom of each newsletter.
-  * To view and edit your personal information, please visit your personal [My Account page](http://kurzweilai.net/my-account).
+  * To view and edit your personal information, please visit your personal [My Account page](https://kurzweilai.net/my-account).
 
 
 
@@ -37,4 +37,4 @@ We do not knowingly collect or store any personal info — even in aggregate —
 
 **how to contact us** ****
 
-For questions on our website privacy or security practices please e-mail: editors@KurzweilAI.net
+For questions on our website privacy or security practices please e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
