@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneygram.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608115855id_/http%3A//corporate.moneygram.com/us-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneygram.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605203945id_/http%3A//corporate.moneygram.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement U.S.
 
