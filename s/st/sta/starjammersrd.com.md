@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starjammersrd.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230192036id_/http%3A//opengamingnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starjammersrd.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605222833id_/http%3A//opengamingnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Legal Information | Open Gaming Network
 
