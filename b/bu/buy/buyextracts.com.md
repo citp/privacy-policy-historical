@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyextracts.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202101316id_/http%3A//www.buyextracts.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyextracts.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605122219id_/http%3A//www.buyextracts.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
