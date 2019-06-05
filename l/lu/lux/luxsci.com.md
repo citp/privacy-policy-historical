@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126013619id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605120000id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | LuxSci
 
-Version 2018.08.29
+Version 2019.03.04
 
 Lux Scientiae, Incorporated (collectively, "We", "Our", "Us", "LuxSci", or "Lux Scientiae") has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this website, [luxsci.com](https://luxsci.com/), and our services in general. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our [LuxSci FYI Blog](https://luxsci.com/blog) prior to the change becoming effective.
 
@@ -83,7 +83,7 @@ We use cookies to collect information that allows us to optimize our web site fo
 
 Cookies are essential to the functionality of those parts of our web site that require a login. Disabling cookies may render these web portals non-functional.
 
-Visitors to the LuxSci web site have the option to control their cookie preferences. Non-essential cookies are not set until you explicitly opt into cookie use. LuxSci permits you view and change your cookie preferences on demand. These preferences are unique to your browser and last up to 1 year, or until you explicitly clear your cookies. In your cookie preferences you can enable or disable use of cookies related to site "preferences" (i.e., functionality such as web chat and site usage history), "analytics" (i.e., functionality that allows us to optimize our site performance), and "marketing" (i.e., functionality that enables social media sharing and other cross-site information transfer).
+Visitors to the LuxSci web site from the EU have the option to control their cookie preferences. Non-essential cookies are not set until you explicitly opt into cookie use. LuxSci permits you view and change your cookie preferences on demand. These preferences are unique to your browser and last up to 1 year, or until you explicitly clear your cookies. In your cookie preferences you can enable or disable use of cookies related to site "preferences" (i.e., functionality such as web chat and site usage history), "analytics" (i.e., functionality that allows us to optimize our site performance), and "marketing" (i.e., functionality that enables social media sharing and other cross-site information transfer).
 
 ### Social Media (Features) and Widgets
 
