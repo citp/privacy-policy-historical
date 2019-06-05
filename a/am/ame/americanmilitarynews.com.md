@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the americanmilitarynews.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204203938id_/http%3A//americanmilitarynews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmilitarynews.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605090351id_/https%3A//americanmilitarynews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | American Military News
+# Privacy Policy
+
+**Summary**
+
+American Military News values your privacy and information more than most other news media companies.
+
+AMN does not collect your information to simply sell it to other companies for cash. In fact, any information AMN directly collects from you stays in AMN’s hands and no one else gets to have it as their own.
+
+When you see advertisements on AMN, those companies also collect information about you but it is anonymous information that they use to show you ads that you may find relevant on AMN and other places around the internet.
+
+These companies most likely already have this other information before you visit AMN and you most likely see the ads you are seeing on AMN because they’ve tracked you around the web and know what you are interested in, and not interested in. By visiting AMN they now know you have visited the website and they then add that to your anonymous profile they have on you.
+
+By visiting AMN, you agree to our Privacy Policy and we assume that you, as an adult, are aware of your own information on the internet, how the internet works, how visiting a website works and that you are an informed consumer.
+
+We encourage you to visit the Privacy Policy and Terms of Use of every website you visit on the web.
+
+If you are interested in the fine-print, you can read more below.
 
 **How We Collect and Use Information**
 
@@ -24,7 +40,7 @@ We may directly collect analytics data, or use third-party analytics tools and s
 
 **_Cookies information:_**
 
-When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets wikiHow help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. Full details can be found on our Cookie Policy.
+When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets you load the website faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
 **_Log file information:_**
 
@@ -48,7 +64,7 @@ We use or may use cookies, log file, device identifiers, location data and clear
 
 **Sharing of Your Information**
 
-We will not rent or sell your information into third parties outside American Military News without your consent, except as noted below:
+We will not rent or sell your information into third parties outside KP without your consent, except as noted below:
 
   * Who we may share your information with: We may share your information with third-party business partners and Trusted Users for the purpose of providing the Service to you. Third party business partners will be given limited access to your information as is reasonably necessary to deliver the Service, and we will require that such third parties comply with this Privacy Policy, or operate under a similar privacy policy.
 
@@ -66,7 +82,7 @@ We may share certain service type information, including information obtained th
 
 We may also share certain information such as your location, browser, and cookie data and other data relating to your use of our Service with our business partners to deliver advertisements (“ads”) that may be of interest to you. KP may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser or mobile device, the ads and ad links that appear on the Service, and will automatically receive your IP address when they do so. They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifs, see above) to compile information about your browser’s or device’s visits and usage patterns on the Service and on other websites, and to measure the effectiveness of their ads and to personalize the advertising content delivered to you.
 
-For example, Google uses DART cookies in order to deliver ads to you through the Service. Google’s use of the DART cookie enables it and its partners to serve ads to you based on your visit to the Service and previous websites that you may have visited. Other advertising networks also use similar cookies, clear gifs, or other mechanisms to deliver targeted advertising to you through the Service. You can delete these cookies by following the instructions here: http://www.wikihow.com/Clear-Your-Browser%27s-Cookies . You may opt out of use of Google’s DART cookie and cookies placed by Network Advertising Initiative (NAI) certified ad networks here: http://www.networkadvertising.org/managing/opt_out.asp . Opting out of these cookies will be effective not only on the Service, but on all websites with NAI certified advertising networks. However, these opt-outs will be ineffective on networks that are not NAI certified.
+For example, Google may use DART cookies in order to deliver ads to you through the Service. Google’s use of the DART cookie enables it and its partners to serve ads to you based on your visit to the Service and previous websites that you may have visited. Other advertising networks also use similar cookies, clear gifs, or other mechanisms to deliver targeted advertising to you through the Service. You can delete these cookies by following the instructions here: http://www.wikihow.com/Clear-Your-Browser%27s-Cookies . You may opt out of use of Google’s DART cookie and cookies placed by Network Advertising Initiative (NAI) certified ad networks here: http://www.networkadvertising.org/managing/opt_out.asp . Opting out of these cookies will be effective not only on the Service, but on all websites with NAI certified advertising networks. However, these opt-outs will be ineffective on networks that are not NAI certified.
 
 Please note that an advertiser may ask KP to show an ad to a certain audience of Users (e.g., based on demographics or other interests). In that situation, KP or our Partners determines the target audience and KP serves the advertising to that audience and only provides anonymous data to the advertiser. If you respond to such an ad, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach.
 
@@ -86,15 +102,15 @@ In the event that any information under our control is compromised as a result o
 
 **Your Choices about Your Information**
 
-We make every effort to promptly process all email unsubscribe requests. You can contact us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We make every effort to promptly process all email unsubscribe requests. You can contact us directly at info@americanmilitarynews.com.
 
 **_Opting out of collection of your information for Tracking / Advertising:_**
 
-Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents American Military News or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents American Military News or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at info@americanmilitarynews.com.
 
 **Children’s Privacy**
 
-KP does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+KP does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at info@americanmilitarynews.com.
 
 **Links to Other Websites and Services**
 
