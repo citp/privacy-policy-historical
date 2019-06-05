@@ -1,258 +1,1755 @@
-<!--The following is the downloaded HTML source of the iif.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606172829id_/https%3A//www.iif.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iif.com privacy policy that was archived on 2019-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190605070507id_/https%3A//www.iif.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"><head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://www.iif.com/sites/default/files/googleanalytics/analytics.js?oquews"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
-<meta name="Generator" content="Drupal 7 (http://drupal.org)">
-<link rel="shortcut icon" href="https://www.iif.com/sites/all/themes/iif/favicon.ico" type="image/vnd.microsoft.icon">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Institute of International Finance</title>
-  <link type="text/css" rel="stylesheet" href="https://www.iif.com/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.iif.com/sites/default/files/css/css_MdG0ky1iB1d1UQpjiIHCfZu52fpkyJZ15I6AJyFtqUk.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.iif.com/sites/default/files/css/css__j4I-WFhMRbZb2O6xx8ZIOUb4hcAw-RdL0iuv7ZRDb0.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.iif.com/sites/default/files/css/css_AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs.css" media="screen">
-<link type="text/css" rel="stylesheet" href="https://www.iif.com/sites/default/files/css/css_xyROYITfnmCe0mQaFEH91IDO141EdQzdnZF3fUFqdpo.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.iif.com/sites/default/files/css/css_i7RLyT_iuZTdc4vImn4CGktsCN-f3A8pzDwG7VvDme0.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.iif.com/sites/default/files/css/css_6HpualpOhHt6gpOodGzen-KC96Qei4JpepSUEDT7Rus.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://www.iif.com/sites/default/files/css/css_x8SOvGZVRfZo-ZBw4BNJJ4yBWbh9F_OpPM21rQf7exU.css" media="print">
-
-<!--[if lte IE 9]>
-<link type="text/css" rel="stylesheet" href="https://www.iif.com/sites/default/files/css/css_wZrGTsoYfmGO7wv8FfhYX2Cj6X7yptf11iGMMLCzkb4.css" media="all" />
-<![endif]-->
-
-<!--[if IE 7]>
-<link type="text/css" rel="stylesheet" href="https://www.iif.com/sites/default/files/css/css_AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs.css" media="all" />
-<![endif]-->
-
-<!--[if IE 8]>
-<link type="text/css" rel="stylesheet" href="https://www.iif.com/sites/default/files/css/css_AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs.css" media="all" />
-<![endif]-->
-<link type="text/css" rel="stylesheet" href="https://www.iif.com/sites/default/files/css/css_PxsPpITToy8ZnO0bJDA1TEC6bbFpGTfSWr2ZP8LuFYo.css" media="all">
-  <script type="text/javascript" src="https://www.iif.com/sites/default/files/js/js_LcFRnnSHVah-Aw_WQ8aVLXhp3HPJvrOe4h6YEXA5BT8.js"></script>
-<script type="text/javascript" src="https://www.iif.com/sites/default/files/js/js_RuHAEgusLGWVf7MP8G05xV-nTUb3pb82W7KPZ2-4lG0.js"></script>
-<script type="text/javascript" src="https://www.iif.com/sites/default/files/js/js_EXqsYEHDvHBU1mJDpSs4SV-lXGgTQaLsqGB2fUu1tU4.js"></script>
-<script type="text/javascript" src="https://www.iif.com/sites/default/files/js/js_YflIp5KkBkrjbTgNYp4g8yne2CU-h4efsisLq6-Tsu8.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.iif.com/sites/default/files/googleanalytics/analytics.js?oquews","ga");ga("create", "UA-7646873-1", {"cookieDomain":"auto"});ga("set", "dimension2", "anonymous user");ga("send", "pageview");
-//--><!]]>
-</script>
-<script type="text/javascript" src="https://www.iif.com/sites/default/files/js/js_Csl72HefgIO1G_5oCM43dglygra6TnzQy0yQ1CCCKzA.js"></script>
-<script type="text/javascript" src="https://www.iif.com/sites/default/files/js/js_TNb8fj3m_RYaaSOwYGvpO0_3VBZLJi34GQlRSv1K1VY.js"></script>
-<script type="text/javascript" src="https://www.iif.com/sites/default/files/js/js_AUuuNJwZH0hNueaBxnds38CtijUJAO_gRPRbWUyp3ew.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"iif","theme_token":"-uqEIEaBycaI9TuCHXxUS8TRApu5EVMKk3JZHqOeyFM","jquery_version":"1.7","js":{"profiles\/openatrium\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.js":1,"sites\/all\/modules\/contrib\/addthis\/addthis.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/openatrium\/libraries\/bootstrap\/js\/bootstrap.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/openatrium\/modules\/contrib\/media\/js\/media.core.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"profiles\/openatrium\/modules\/contrib\/media\/js\/util\/json2.js":1,"profiles\/openatrium\/modules\/contrib\/media\/js\/util\/ba-debug.min.js":1,"misc\/ajax.js":1,"profiles\/openatrium\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_images\/panopoly-images.js":1,"profiles\/openatrium\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"profiles\/openatrium\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_admin\/panopoly-admin.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_magic\/panopoly-magic.js":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_theme\/js\/panopoly-accordion.js":1,"profiles\/openatrium\/modules\/contrib\/caption_filter\/js\/caption-filter.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/openatrium\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/openatrium\/modules\/contrib\/dhtml_menu\/dhtml_menu.js":1,"profiles\/openatrium\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"profiles\/openatrium\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/custom\/iif_analytics\/iif_analytics.js":1,"profiles\/openatrium\/modules\/contrib\/media\/js\/media.popups.js":1,"misc\/progress.js":1,"profiles\/openatrium\/modules\/apps\/oa_files\/js\/upload.js":1,"profiles\/openatrium\/modules\/apps\/oa_appearance\/oa_appearance.js":1,"profiles\/openatrium\/themes\/radix\/assets\/javascripts\/modernizr.js":1,"profiles\/openatrium\/themes\/radix\/assets\/javascripts\/radix-script.js":1,"sites\/all\/themes\/iif\/assets\/javascripts\/script.js":1,"profiles\/openatrium\/themes\/radix\/assets\/javascripts\/radix-progress.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"profiles\/openatrium\/modules\/contrib\/media\/css\/media.css":1,"sites\/all\/modules\/features\/bl_sponsor\/css\/bl_sponsor.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"profiles\/openatrium\/modules\/contrib\/contextual_tabs\/contextual_tabs.css":1,"profiles\/openatrium\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/openatrium\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/openatrium\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"profiles\/openatrium\/modules\/apps\/oa_appearance\/oa_appearance.css":1,"profiles\/openatrium\/modules\/contrib\/oa_core\/css\/oa_core.css":1,"profiles\/openatrium\/modules\/apps\/oa_events\/oa-events.css":1,"profiles\/openatrium\/modules\/apps\/oa_favorites\/oa_favorites.css":1,"profiles\/openatrium\/modules\/apps\/oa_media\/oa_media.css":1,"profiles\/openatrium\/modules\/apps\/oa_notifications\/oa_notifications.css":1,"profiles\/openatrium\/modules\/apps\/oa_related\/oa_related.css":1,"profiles\/openatrium\/modules\/contrib\/oa_core\/modules\/oa_river\/oa_river.css":1,"profiles\/openatrium\/modules\/contrib\/oa_core\/modules\/oa_sections\/oa_sections.css":1,"profiles\/openatrium\/modules\/apps\/oa_subspaces\/oa-subspaces.css":1,"profiles\/openatrium\/modules\/contrib\/oa_core\/modules\/oa_teams\/oa_teams.css":1,"profiles\/openatrium\/modules\/apps\/oa_toolbar\/css\/oa_toolbar.css":1,"profiles\/openatrium\/modules\/contrib\/oa_core\/modules\/oa_widgets\/oa_widgets.css":1,"profiles\/openatrium\/modules\/apps\/oa_wiki\/oa_wiki.css":1,"profiles\/openatrium\/modules\/apps\/oa_worktracker\/oa_worktracker.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_admin\/panopoly-admin-navbar.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_core\/css\/panopoly-dropbutton.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_magic\/css\/panopoly-magic.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_theme\/css\/panopoly-featured.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_theme\/css\/panopoly-accordian.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_theme\/css\/panopoly-layouts.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_widgets\/panopoly-widgets-spotlight.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_wysiwyg\/panopoly-wysiwyg.css":1,"profiles\/openatrium\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/openatrium\/modules\/contrib\/views\/css\/views.css":1,"profiles\/openatrium\/modules\/contrib\/caption_filter\/caption-filter.css":1,"sites\/all\/libraries\/colorbox\/example1\/colorbox.css":1,"profiles\/openatrium\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/openatrium\/modules\/contrib\/dhtml_menu\/dhtml_menu.css":1,"profiles\/openatrium\/modules\/contrib\/oa_core\/modules\/oa_diff\/oa_diff.css":1,"profiles\/openatrium\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/themes\/iif\/assets\/stylesheets\/screen.css":1,"sites\/all\/themes\/iif\/assets\/stylesheets\/font-awesome.min.css":1,"sites\/all\/themes\/iif\/assets\/stylesheets\/print.css":1,"profiles\/openatrium\/themes\/radix\/assets\/stylesheets\/ie.css":1,"sites\/all\/themes\/iif\/assets\/stylesheets\/ie7.css":1,"sites\/all\/themes\/iif\/assets\/stylesheets\/ie8.css":1,"profiles\/openatrium\/modules\/panopoly\/panopoly_images\/panopoly-images.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"98%","maxHeight":"95%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"dhtmlMenu":{"nav":"bullet","animation":{"effects":{"height":"height","opacity":"opacity","width":0},"speed":"100"},"effects":{"siblings":"none","children":"none","remember":"remember"},"filter":{"type":"whitelist","list":{"og-menu-single":"og-menu-single","devel":0,"main-menu":0,"management":0,"navigation":0,"shortcut-set-1":0,"user-menu":0}}},"CToolsModal":{"modalSize":{"type":"scale","width":".9","height":".9","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":75},"modalOptions":{"opacity":".55","background-color":"#FFF"},"animationSpeed":"fast","modalTheme":"CToolsModalDialog","throbberTheme":"CToolsModalThrobber"},"panopoly_magic":{"pane_add_preview_mode":"automatic"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"media":{"browserUrl":"\/media\/browser?render=media-popup","styleSelectorUrl":"\/media\/-media_id-\/format-form?render=media-popup","dialogOptions":{"dialogclass":"media-wrapper","modal":true,"draggable":false,"resizable":false,"minwidth":500,"width":670,"height":280,"position":"center","overlay":{"backgroundcolor":"#000000","opacity":0.4},"zindex":10000}},"oa_files_media_options":{"global":{"types":{"document":"document","image":"image","video":"video"},"enabledPlugins":{"media_default--media_browser_1":"media_default--media_browser_1","media_default--media_browser_my_files":"media_default--media_browser_my_files","media_internet":"media_internet","upload":"upload"},"schemes":{"private":"private","public":"public","vimeo":"vimeo","youtube":"youtube"},"file_directory":"","file_extensions":"jpg jpeg gif png txt doc docx xls xlsx pdf ppt pptx pps ppsx odt ods odp mp3 mov mp4 m4a m4v mpeg avi ogg oga ogv weba webp webm zip tgz gz key dotx","max_filesize":0,"uri_scheme":"private","multiselect":true}},"oa_files_upload_url":"\/oa-files\/upload\/multi","urlIsAjaxTrusted":{"\/search\/node":true,"\/privacy-policy":true},"oa_toolbar":{"mouseover":false}});
-//--><!]]>
-</script>
-  <!--[if lt IE 9]>
-   <script>
-      document.createElement('header');
-      document.createElement('nav');
-      document.createElement('section');
-      document.createElement('article');
-      document.createElement('aside');
-      document.createElement('footer');
-   </script>
-  <![endif]-->
-</head>
-<body class="html not-front not-logged-in no-sidebars page-privacy-policy region-content panel-layout-radix_boxton panel-region-contentmain privacy-policy">
-  <div id="skip-link">
-    <a href="#main" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    <header id="header" class="header" role="header">
-  <div id="header-top">
-    <div id="user-nav" class="navbar">
-      <div class="navbar-inner">
-        <div class="container clearfix">
-                      <div class=" navbar-text navbar-left hidden-xs hidden-sm login-message"><p>You may be an IIF member: <a href="/membership">learn more</a> or <a href="/user/register">register for access</a>.</p>
+<!DOCTYPE html><html lang="en-US"><head id="Head">
+<!--*********************************************-->
+<!-- DNN Platform - http://www.dnnsoftware.com   -->
+<!-- Copyright (c) 2002-2018, by DNN Corporation -->
+<!--*********************************************-->
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><title>
+	The Institute of International Finance &gt; Privacy Policy
+</title><meta id="MetaDescription" name="DESCRIPTION" content="The Institute of International Finance is the global association of the finance industry."><meta id="MetaKeywords" name="KEYWORDS" content=",DotNetNuke,DNN"><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke "><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW"><link href="/DependencyHandler.axd/da2b552b1808bc70f1237296046e458a/242/css" type="text/css" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" type="text/css" rel="stylesheet"><link href="/DependencyHandler.axd/abece1e36fe7f900deeac94db4c10cc6/242/css" type="text/css" rel="stylesheet"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5ZPPFMN"></script><script type="text/javascript">var g_dnnsfState = {"commonUrl":"/DesktopModules/DnnSharp/Common","protocol":"https","locale":"en-US","alias":"www.iif.com","tabId":1066,"virtualDirectory":"","rootAlias":"www.iif.com","dnnPageQuery":"?language=en-US"};</script><script type="text/javascript">var g_dnnsfState = {"commonUrl":"/DesktopModules/DnnSharp/Common","protocol":"https","locale":"en-US","alias":"www.iif.com","tabId":1066,"virtualDirectory":"","rootAlias":"www.iif.com","dnnPageQuery":"?language=en-US"};</script><script src="/DependencyHandler.axd/41d1ac6845f2d71f790a07019a25137f/242/js" type="text/javascript"></script><link rel="SHORTCUT ICON" href="/Portals/0/IIFfavicon.ico?ver=2018-11-12-084555-537" type="image/x-icon">     
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5ZPPFMN');</script>
+		  <meta name="viewport" content="width=device-width,initial-scale=1"><link id="mx_bootstrap" href="/Resources/MX/Skins/bootstrap.css?ver=2018-09-14-140850" type="text/css" rel="stylesheet"><link id="mx_fontawesome/css/fontawesome-all.min" href="/Resources/MX/Skins/fontawesome/css/fontawesome-all.min.css?ver=2018-09-10-140128" type="text/css" rel="stylesheet"><link id="mx_mxcore" href="/Resources/MX/Skins/mxcore.css?ver=2019-01-07-080339" type="text/css" rel="stylesheet"><link id="mx_mxcore-override" href="/Resources/MX/Skins/mxcore-override.css?ver=2019-01-22-144116" type="text/css" rel="stylesheet"><script id="JavaScript_MXBootstrap" type="text/javascript" src="/Resources/MX/Skins/js/bootstrap.min.js?ver=2018-10-10-144622"></script><script id="JavaScript_MXControls" type="text/javascript" src="/controls/MX/controls.js?ver=2019-01-07-080336"></script></head>
+<body id="Body">
+    
+    <form method="post" action="/privacy-policy" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl18_TSSM" id="ctl18_TSSM" value="">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
 </div>
-            <form class="form-inline login-form navbar-form navbar-right" action="/privacy-policy" method="post" id="user-login" accept-charset="UTF-8" role="form"><div><label>Login:</label>
-<div class="form-group">
-    <input class="form-control form-control col-md-1 form-text required" placeholder="email" type="text" id="edit-name" name="name" value="" size="15" maxlength="60"></div>
-<div class="form-group">
-    <input class="form-control form-control col-md-1 form-text required" placeholder="password" type="password" id="edit-pass" name="pass" size="15" maxlength="128"></div>
-<input type="hidden" name="form_build_id" value="form-YSrt5Ovf_Dr5aBOfFxBJPRGbNyJNetR7dJWQaurztuo">
-<input type="hidden" name="form_id" value="user_login">
-<div class="form-actions form-group form-wrapper" id="edit-actions"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit btn btn-default btn-primary"><a href="/user/password" class="btn btn-primary btn-default">Reset Password</a></div></div></form>          
-          <button type="button" class="navbar-toggle">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV37O2u0SffrOmG9AM9JPjAOubLfTL0ZGeGYG0UB-X-ICumU0WQ1&amp;t=636765319264470882" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+try { var mxRawURL = Base64.decode('aHR0cHM6Ly93d3cuaWlmLmNvbS9EZWZhdWx0LmFzcHg/VGFiSWQ9MTA2NiZsYW5ndWFnZT1lbi1VUw=='); var mxRawURLQueryString = Base64.decode('P1RhYklkPTEwNjYmbGFuZ3VhZ2U9ZW4tVVM='); } catch(err) { }$(function() { 
+                         dnnsf.api.searchboost.initInputBox({"ClientId":"dnn_ctr1138_SearchInput_pnlInput","BehaviorId":1,"SuggestionsApi":"//www.iif.com/DesktopModules/DnnSharp/SearchBoost/API/Autocomplete/FromPopularSearchTerms","SuggestionCount":8,"FwdToSearchResultsPageApi":"//www.iif.com/DesktopModules/DnnSharp/SearchBoost/API/Search/FwdToSearchResultsPage?language=en-US","IsLiveSearch":false,"RenderResultsApi":"//www.iif.com/DesktopModules/DnnSharp/SearchBoost/API/Search/RenderResults"});
+                    });$(function() { 
+                         dnnsf.api.searchboost.initInputBox({"ClientId":"dnn_ctr1137_SearchInput_pnlInput","BehaviorId":1,"SuggestionsApi":"//www.iif.com/DesktopModules/DnnSharp/SearchBoost/API/Autocomplete/FromPopularSearchTerms","SuggestionCount":8,"FwdToSearchResultsPageApi":"//www.iif.com/DesktopModules/DnnSharp/SearchBoost/API/Search/FwdToSearchResultsPage?language=en-US","IsLiveSearch":false,"RenderResultsApi":"//www.iif.com/DesktopModules/DnnSharp/SearchBoost/API/Search/RenderResults"});
+                    });//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=uHIkleVeDJfFARJQBjqbNCBb7B0TRMqNH19bME682o01ZxL1FhicVr2Wx7wzY2gINMJ1p26v-fW5ywThDSX2gSssbDY_OTq_3H7m7N4O-4nNABMtKtdufP_yGA4ZtzPx1LVl2g2&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jw6tUGWnA14h8Nw0dP83SGD5n9WPCtjvf_JABCxixbKut55QqtDS7lzkqg2FTaUUwQToDovZHZSMWNQODgI3qcLn4GYroYH8o5p3GC1qF3v6_RQ1t-O62eYaY-AuEP82dPOSKe2usHra9gdN0&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="aiM1YUFwxbH6qgIVlAd7lset80sJ8cPXsCGWiWo3tZVn0Ibu5txxmli0ytxQ1ARmL5DsYn7di2mKuD2AD34CaGiA1HuUMzltR+k/tXRz/lTWObl1vpgxPK8CxCJAFc63hZYtjl+IGDOCtWb3f9StENKyMVtbPOyr4hWU9md5uolybj1cGKMZvReiliM+jcq6kskBmT69df2CUcWbY3wWI083WIBNHuzOr7BzOE1mp0vpC/v6">
+</div><script src="/DependencyHandler.axd/5ad9559f46f4458a8b045bc153e2cae8/242/js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+
+
+<!--CDF(Css|https://fonts.googleapis.com/css?family=Lato:400,700,900)-->
+
+
+
+
+<!--CDF(JS-LIBRARY|html5shiv,3.7.3,LatestMajor)-->
+
+<!--CDF(JS-LIBRARY|respond-minmax,1.4.2,LatestMajor)-->
+
+<!--CDF(JS-LIBRARY|swiper,4.4.1,LatestMajor)-->
+
+
+<!--CDF(Javascript|/Portals/_default/skins/iif/js/theme.min.js)-->
+<!--CDF(Javascript|/Portals/_default/skins/iif/js/MainNav.min.js)-->
+
+
+
+<svg width="0" height="0" style="position:absolute;opacity:0;">
+    <symbol id="icon__facebook" viewBox="0 0 1792 1792">
+        <title>Facebook</title>
+        <path d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z"></path>
+    </symbol>
+    <symbol id="icon__youtube" viewBox="0 0 1792 1792">
+        <title>YouTube</title>
+        <path d="M1099 1244v211q0 67-39 67-23 0-45-22v-301q22-22 45-22 39 0 39 67zm338 1v46h-90v-46q0-68 45-68t45 68zm-966-218h107v-94h-312v94h105v569h100v-569zm288 569h89v-494h-89v378q-30 42-57 42-18 0-21-21-1-3-1-35v-364h-89v391q0 49 8 73 12 37 58 37 48 0 102-61v54zm429-148v-197q0-73-9-99-17-56-71-56-50 0-93 54v-217h-89v663h89v-48q45 55 93 55 54 0 71-55 9-27 9-100zm338-10v-13h-91q0 51-2 61-7 36-40 36-46 0-46-69v-87h179v-103q0-79-27-116-39-51-106-51-68 0-107 51-28 37-28 116v173q0 79 29 116 39 51 108 51 72 0 108-53 18-27 21-54 2-9 2-58zm-608-913v-210q0-69-43-69t-43 69v210q0 70 43 70t43-70zm719 751q0 234-26 350-14 59-58 99t-102 46q-184 21-555 21t-555-21q-58-6-102.5-46t-57.5-99q-26-112-26-350 0-234 26-350 14-59 58-99t103-47q183-20 554-20t555 20q58 7 102.5 47t57.5 99q26 112 26 350zm-998-1276h102l-121 399v271h-100v-271q-14-74-61-212-37-103-65-187h106l71 263zm370 333v175q0 81-28 118-38 51-106 51-67 0-105-51-28-38-28-118v-175q0-80 28-117 38-51 105-51 68 0 106 51 28 37 28 117zm335-162v499h-91v-55q-53 62-103 62-46 0-59-37-8-24-8-75v-394h91v367q0 33 1 35 3 22 21 22 27 0 57-43v-381h91z"></path>
+    </symbol>
+    <symbol id="icon__twitter" viewBox="0 0 1792 1792">
+        <title>Twitter</title>
+        <path d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z"></path>
+    </symbol>
+    <symbol id="icon__linkedin" viewBox="0 0 1792 1792">
+        <title>LinkedIn</title>
+        <path d="M477 625v991h-330v-991h330zm21-306q1 73-50.5 122t-135.5 49h-2q-82 0-132-49t-50-122q0-74 51.5-122.5t134.5-48.5 133 48.5 51 122.5zm1166 729v568h-329v-530q0-105-40.5-164.5t-126.5-59.5q-63 0-105.5 34.5t-63.5 85.5q-11 30-11 81v553h-329q2-399 2-647t-1-296l-1-48h329v144h-2q20-32 41-56t56.5-52 87-43.5 114.5-15.5q171 0 275 113.5t104 332.5z"></path>
+    </symbol>
+    <symbol id="icon__bars" viewBox="0 0 1792 1792">
+        <title>Menu</title>
+        <path d="M1664 1344v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45z"></path>
+    </symbol>
+    <symbol id="icon__chev-left" viewBox="0 0 24 24">
+        <title>Chevron Left</title>
+        <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path>
+        <path d="M0 0h24v24H0z" fill="none"></path>
+    </symbol>
+    <symbol id="icon__chev-right" viewBox="0 0 24 24">
+        <title>Chevron Right</title>
+        <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
+        <path d="M0 0h24v24H0z" fill="none"></path>
+    </symbol>
+    <symbol id="icon__chevron-down" viewBox="0 0 448 512">
+        <title>Arrow Down</title>
+        <path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
+    </symbol>
+    <symbol id="icon__chevron-up" viewBox="0 0 448 512">
+        <title>Arrow Up</title>
+        <path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path>
+    </symbol>
+    <symbol id="icon__plus" viewBox="0 0 24 24">
+        <title>Plus</title>
+        <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"></path>
+        <path d="M0 0h24v24H0z" fill="none"></path>
+    </symbol>
+
+    <!-- Icons from Font Awesome 5: https://fontawesome.com/license -->
+    <symbol id="icon__heart" viewBox="0 0 512 512">
+        <title>Plus</title>
+        <path d="M458.4 64.3C400.6 15.7 311.3 23 256 79.3 200.7 23 111.4 15.6 53.6 64.3-21.6 127.6-10.6 230.8 43 285.5l175.4 178.7c10 10.2 23.4 15.9 37.6 15.9 14.3 0 27.6-5.6 37.6-15.8L469 285.6c53.5-54.7 64.7-157.9-10.6-221.3zm-23.6 187.5L259.4 430.5c-2.4 2.4-4.4 2.4-6.8 0L77.2 251.8c-36.5-37.2-43.9-107.6 7.3-150.7 38.9-32.7 98.9-27.8 136.5 10.5l35 35.7 35-35.7c37.8-38.5 97.8-43.2 136.5-10.6 51.1 43.1 43.5 113.9 7.3 150.8z"></path>
+    </symbol>
+    <symbol id="icon__comment" viewBox="0 0 512 512">
+        <title>Plus</title>
+        <path d="M256 32C114.6 32 0 125.1 0 240c0 47.6 19.9 91.2 52.9 126.3C38 405.7 7 439.1 6.5 439.5c-6.6 7-8.4 17.2-4.6 26S14.4 480 24 480c61.5 0 110-25.7 139.1-46.3C192 442.8 223.2 448 256 448c141.4 0 256-93.1 256-208S397.4 32 256 32zm0 368c-26.7 0-53.1-4.1-78.4-12.1l-22.7-7.2-19.5 13.8c-14.3 10.1-33.9 21.4-57.5 29 7.3-12.1 14.4-25.7 19.9-40.2l10.6-28.1-20.6-21.8C69.7 314.1 48 282.2 48 240c0-88.2 93.3-160 208-160s208 71.8 208 160-93.3 160-208 160z"></path>
+    </symbol>
+    <symbol id="icon__retweet" viewBox="0 0 512 512">
+        <title>Plus</title>
+        <path d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path>
+    </symbol>
+    <symbol id="icon__plus__fontawesome" viewBox="0 0 448 512">
+        <title>Plus</title>
+        <path d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path>
+    </symbol>
+</svg>
+
+
+<div class="iif iif__interior ">
+    <header class="site--header">
+        <div class="header--top-bar">
+            <button id="navToggle" class="header--nav-toggle toggle__nav" aria-label="Show Menu" aria-controls="MobileNavbar" aria-expanded="false">
+                <span class="navbar-toggler-icon">
+                    <svg class="icon icon__svg icon__bars">
+                        <use xlink:href="#icon__bars"></use>
+                    </svg>
+                </span>
+            </button>
+            <div class="collapse navbar-collapse" id="MobileNavbar" aria-hidden="true" data-current-level="0">
+                <div class="container">
+                    <div class="row row__even-columns row__sign-in">
+                        <div class="row--column sign-in--register">
+                            <span>You may be an IIF member: <a href="/membership">learn more</a> or <a href="/Home/Create-New-User-Account">register for access</a>.</span>
+                        </div>
+                        <div class="row--column sign-in--login">
+                            <div id="dnn_LoginPane" class="DNNEmptyPane"></div>
+                            <div id="dnn_LoggedInPane"><div class="DnnModule DnnModule-MX-Global-Find DnnModule-1124"><a name="1124"></a><div id="dnn_ctr1124_ContentPane"><!-- Start_Module_1124 --><div id="dnn_ctr1124_ModuleContent" class="DNNModuleContent ModMXGlobalFindC">
+	
+
+<script type="text/javascript">
+    function dnn$ctr1124$Find$ctl00_RowClick(sender, eventArgs) {
+        document.location = String.format('', eventArgs.getDataKeyValue('contactid'));
+    }
+</script>
+
+<div class="mx mx-wrapper mx-global-find-wrapper mx-global-find-dnn$ctr1124$find$ctl00-wrapper">
+		<a name="dnn$ctr1124$Find$ctl00"></a>
+    
+    
+
+	</div>
+
+</div><!-- End_Module_1124 --></div>
+</div><div class="DnnModule DnnModule-MX-Global-Form DnnModule-2272"><a name="2272"></a>
+
+<div class="module-container module-container__no-title">
+    <div id="dnn_ctr2272_ContentPane" class="module-container--body"><!-- Start_Module_2272 --><div class="displayGDPR"><div id="dnn_ctr2272_ModuleContent" class="DNNModuleContent ModMXGlobalFormC">
+
+</div></div> 
+<script>
+var $gdprYes = $('.hideGDPR');
+var $gdprToHide = $('.displayGDPR');
+if($gdprYes.length > 0) {
+$gdprToHide.hide();
+}
+</script><!-- End_Module_2272 --></div>
+</div>
+</div></div>
+                        </div>
+                    </div>
+                    <div class="header--navbar  header--navbar__mobile">
+                        <div class="container">
+                            <div class="row">
+                                <div class="row--column navbar--menus ">
+                                    <nav class="header--top-nav" role="navigation">
+                                        <ul>
+                                            <li><a href="/press" title="Press">Press</a></li>
+                                            <li><a href="/careers" title="Careers">Careers</a></li>
+                                            <li><a href="/about-us" title="About the IIF">About the IIF</a></li>
+                                        </ul>
+                                    </nav>
+                                    <div class="header--search"><div id="dnn_SearchPaneMobile"><div class="DnnModule DnnModule-avtSearchBoostInput DnnModule-1138"><a name="1138"></a>
+
+<div class="module-container module-container__no-title">
+    <div id="dnn_ctr1138_ContentPane" class="module-container--body"><!-- Start_Module_1138 --><div id="dnn_ctr1138_ModuleContent" class="DNNModuleContent ModavtSearchBoostInputC">
+	<div id="dnn_ctr1138_SearchInput_pnlInput" class="sb-module-instance"><div class="bstrap30">
+    <div class="row sb-default">
+        <div class="col-md-12">
+                <div class="input-group dropdown sb-dropdown adv-search">
+                    <input type="text" class="form-control search-box typeahead" aria-label="search input" title="search input" placeholder="Input your search..." value="">
+                    <div class="input-group-btn">
+                        <div class="btn-group" role="group" aria-label="search group">
+                            <button type="button" class="btn btn-primary search-btn" onclick="" aria-label="search button" name="search button"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+                        </div>
+                    </div>
+                    </div>
         </div>
-      </div>
     </div>
-  </div>
-
-  <div id="header-middle">
-    <div class="container">
-      <div class="row">
-        <div class="logo-wrapper col-md-3">
-          <a href="/"><img id="logo" src="https://www.iif.com/sites/default/files/IIF_logo.png"></a>
-        </div>
-        <div class="col-md-9">
-          <div id="about-nav" class="navbar">
-                          <nav id="about-menu" class="about-menu" role="navigation">
-                <ul class="nav navbar-nav navbar-right"><li class="first leaf"><a href="/membership" title="">Membership</a></li>
-<li class="leaf"><a href="/press" title="">Press</a></li>
-<li class="leaf"><a href="/careers" title="">Careers</a></li>
-<li class="leaf"><a href="/about" title="">About the IIF</a></li>
-<li class="last leaf"><a href="/ceo-corner" title="">CEO Corner</a></li>
-</ul>              </nav>
-            
-            
-          </div>
-          <div class="mobile-nav">
-                          <div class="search-wrapper row">
-                <form class="search-form pull-right col-md-6 col-sm-12 col-xs-12" action="/search/node" method="post" id="search-form--2" accept-charset="UTF-8" role="form"><div><div class="form-wrapper" id="edit-basic--2"><div class="form-item form-type-textfield form-item-keys form-group">
-  <input class="form-control form-control form-control form-text" type="text" id="edit-keys--2" name="keys" value="" size="" maxlength="255">
 </div>
-<div class="search-submit-wrapper"><i class="fa fa-search"></i><input type="submit" id="edit-submit--3" name="op" value="" class="form-submit btn btn-default"></div></div><input type="hidden" name="form_build_id" value="form-TBIuIO5xp9CvPU4Ah_hyAsuTsI6vp1Aqp1ui1ugKtUw">
-<input type="hidden" name="form_id" value="search_form">
-</div></form>              </div>
-            
-            <div id="main-nav" class="navbar">
-                              <nav id="main-menu" class="main-menu" role="navigation">
-                  <ul class="nav navbar-nav navbar-right"><li class="first expanded dropdown menu-link-research"><a href="/analysis" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Research</a><button class="mobile-toggle btn btn-link" data-toggle="dropdown"><span class="caret"></span></button><ul class="dropdown-menu"><li class="first leaf menu-link-global-focus"><a href="/publications/global-focus" title="">Global Focus</a></li>
-<li class="leaf menu-link-capital-flows"><a href="/publications/capital-flows" title="">Capital Flows</a></li>
-<li class="collapsed menu-link-regional--country"><a href="/topics/regional-and-country" title="">Regional &amp; Country</a></li>
-<li class="leaf menu-link-political-risk"><a href="/topics/political-risk" title="">Political Risk</a></li>
-<li class="last leaf menu-link-weekly-insight"><a href="/publications/iif-weekly-insight" title="">Weekly Insight</a></li>
-</ul></li>
-<li class="expanded dropdown menu-link-advocacy"><a href="/advocacy" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Advocacy</a><button class="mobile-toggle btn btn-link" data-toggle="dropdown"><span class="caret"></span></button><ul class="dropdown-menu"><li class="first leaf menu-link-regulatory-comment-letters"><a href="/advocacy/comment" title="">Regulatory Comment Letters</a></li>
-<li class="leaf menu-link-regulatory-reports"><a href="/advocacy/reports" title="">Regulatory Reports</a></li>
-<li class="leaf menu-link-global-regulatory-update"><a href="/publications/global-regulatory-update" title="">Global Regulatory Update</a></li>
-<li class="leaf menu-link-regulatory-committees-and-working-groups"><a href="/advocacy/committees" title="">Regulatory Committees and Working Groups</a></li>
-<li class="last leaf menu-link-policy-issues"><a href="/topics/policy-issues" title="">Policy Issues</a></li>
-</ul></li>
-<li class="expanded dropdown menu-link-innovation"><a href="/topics/innovation" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Innovation</a><button class="mobile-toggle btn btn-link" data-toggle="dropdown"><span class="caret"></span></button><ul class="dropdown-menu"><li class="first leaf menu-link-fintech"><a href="/topics/fintech" title="">FinTech</a></li>
-<li class="leaf menu-link-financial-inclusion"><a href="/topics/financial-inclusion" title="">Financial Inclusion</a></li>
-<li class="last leaf menu-link-regtech"><a href="/topics/regtech" title="">Regtech</a></li>
-</ul></li>
-<li class="last expanded dropdown menu-link-events"><a href="/events" title="" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Events</a><button class="mobile-toggle btn btn-link" data-toggle="dropdown"><span class="caret"></span></button><ul class="dropdown-menu"><li class="first leaf menu-link-upcoming-events"><a href="/events/upcoming">Upcoming Events</a></li>
-<li class="leaf menu-link-past-events"><a href="/events/past">Past Events</a></li>
-<li class="last leaf menu-link-about"><a href="/events/about">About</a></li>
-</ul></li>
-</ul>                </nav> <!-- /#main-menu -->
-                          </div>
-          </div>
+
+<script>
+</script>
+
+
+
+
+
+</div>
+<div id="dnn_ctr1138_SearchInput_pnlError"></div>
+
+<!-- For old templates: -->
+<div>
+<script>
+    // some common functions
+    function sbInp_clearPlaceholder(sbox) {
+        sbox = $(sbox);
+        if (sbox.hasClass('searchBoxEmpty')) {
+            sbox.removeClass('searchBoxEmpty').val('').removeAttr('placeholder');
+        }
+    }
+    function sbInp_syncPlaceholder(sbox) {
+        sbox = $(sbox);
+        sbox.removeClass('searchBoxEmpty');
+        var emptyText = sbox.attr('data-empty');
+        if ($.trim(sbox.val()).length == 0 || $.trim(sbox.val()) == emptyText) {
+            sbox.addClass('searchBoxEmpty').val(emptyText).attr('placeholder', emptyText);
+        }
+    }
+</script>
+</div>
+
+</div><!-- End_Module_1138 --></div>
+</div>
+</div></div></div>
+                                    <nav class="header--main-nav">
+
+
+<ul class="nav--menu menu menu__main" aria-label="menu">
+            <li class="nav--menu-item menu-item menu-item__parent" data-level="0" data-page="43">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="0" data-page="43" href="https://www.iif.com/Research" aria-haspopup="true">
+                    <span>Research</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="0" data-page="43" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="43">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__parent" data-level="1" data-page="44">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="1" data-page="44" href="https://www.iif.com/Research/Global-Focus" aria-haspopup="true">
+                    <span>Global Focus</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="1" data-page="44" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="44">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="45">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="45" href="https://www.iif.com/Research/Global-Focus/Global-Macro-Views">
+                    <span>Global Macro Views</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="51">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="51" href="https://www.iif.com/Research/Global-Focus/Economic-Views">
+                    <span>Economic Views</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="1104">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="1104" href="https://www.iif.com/Research/Global-Focus/Macro-Notes">
+                    <span>Macro Notes</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="47">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="47" href="https://www.iif.com/Research/Global-Focus/Weekly-Insight">
+                    <span>Weekly Insight</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="48">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="48" href="https://www.iif.com/Research/Global-Focus/Global-Economic-Monitor">
+                    <span>Global Economic Monitor</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="49">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="49" href="https://www.iif.com/Research/Global-Focus/EM-Bank-Lending-Survey">
+                    <span>EM Bank Lending Survey</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="50">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="50" href="https://www.iif.com/Research/Global-Focus/EM-Growth-Tracker">
+                    <span>EM Growth Tracker</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="52">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="52" href="https://www.iif.com/Research/Global-Focus/BoP-Nowcasts">
+                    <span>BoP Nowcasts</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="53">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="53" href="https://www.iif.com/Research/Global-Focus/China-Activity-Tracker">
+                    <span>China Activity Tracker</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="44">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="1" data-page="55">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="1" data-page="55" href="https://www.iif.com/Research/Capital-Flows-and-Debt" aria-haspopup="true">
+                    <span>Capital Flows and Debt</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="1" data-page="55" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="55">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="57">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="57" href="https://www.iif.com/Research/Capital-Flows-and-Debt/Daily-Flows-and-Flows-Alerts">
+                    <span>Daily Flows and Flows Alerts</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="275">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="275" href="https://www.iif.com/Research/Capital-Flows-and-Debt/Capital-Flows-Tracker">
+                    <span>Capital Flows Tracker</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="56">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="56" href="https://www.iif.com/Research/Capital-Flows-and-Debt/Capital-Flows-to-Emerging-Markets-Report">
+                    <span>Capital Flows to Emerging Markets Report</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="59">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="59" href="https://www.iif.com/Research/Capital-Flows-and-Debt/Global-Debt-Monitor">
+                    <span>Global Debt Monitor</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="55">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="1" data-page="60">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="1" data-page="60" href="https://www.iif.com/Research/Regional-Country" aria-haspopup="true">
+                    <span>Regional &amp; Country</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="1" data-page="60" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="60">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="61">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="61" href="https://www.iif.com/Research/Regional-Country/Asia-Pacific">
+                    <span>Asia-Pacific</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="62">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="62" href="https://www.iif.com/Research/Regional-Country/Latin-America">
+                    <span>Latin America</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="63">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="63" href="https://www.iif.com/Research/Regional-Country/EM-Europe">
+                    <span>EM Europe</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="64">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="64" href="https://www.iif.com/Research/Regional-Country/Sub-Saharan-Africa">
+                    <span>Sub-Saharan Africa</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="65">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="65" href="https://www.iif.com/Research/Regional-Country/MENAP-Central-Asia">
+                    <span>MENAP &amp; Central Asia</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="60">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="68">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="68" href="https://www.iif.com/Research/Data">
+                    <span>Data</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="43">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="0" data-page="69">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="0" data-page="69" href="https://www.iif.com/Advocacy" aria-haspopup="true">
+                    <span>Advocacy</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="0" data-page="69" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="69">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="70">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="70" href="https://www.iif.com/Advocacy/Regulatory-Comment-Letters">
+                    <span>Regulatory Comment Letters</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="71">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="71" href="https://www.iif.com/Advocacy/Regulatory-Reports">
+                    <span>Regulatory Reports</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="72">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="72" href="https://www.iif.com/Advocacy/Global-Regulatory-Update">
+                    <span>Global Regulatory Update</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="73">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="73" href="https://www.iif.com/Advocacy/Regulatory-Committees-and-Working-Groups">
+                    <span>Regulatory Committees and Working Groups</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="1" data-page="74">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="1" data-page="74" href="https://www.iif.com/Advocacy/Policy-Issues" aria-haspopup="true">
+                    <span>Policy Issues</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="1" data-page="74" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="74">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="75">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="75" href="https://www.iif.com/Advocacy/Policy-Issues/Principles-for-Stable-Capital-Flows-and-Fair-Debt-Restructuring">
+                    <span>Principles for Stable Capital Flows and Fair Debt Restructuring</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="74">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="69">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="0" data-page="106">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="0" data-page="106" href="https://www.iif.com/Innovation" aria-haspopup="true">
+                    <span>Innovation</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="0" data-page="106" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="106">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="107">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="107" href="https://www.iif.com/Innovation/FinTech">
+                    <span>FinTech</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="108">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="108" href="https://www.iif.com/Innovation/Financial-Inclusion">
+                    <span>Financial Inclusion</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="109">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="109" href="https://www.iif.com/Innovation/Regtech">
+                    <span>Regtech</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="1055">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="1055" href="https://www.iif.com/Innovation/FRT-Podcast">
+                    <span>FRT Podcast</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="106">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="0" data-page="76">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="0" data-page="76" href="https://www.iif.com/Events/Upcoming-Events" aria-haspopup="true">
+                    <span>Events</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="0" data-page="76" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="76">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="77">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="77" href="https://www.iif.com/Events/Upcoming-Events">
+                    <span>Upcoming Events</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="78">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="78" href="https://www.iif.com/Events/Past-Events">
+                    <span>Past Events</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="217">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="217" href="https://www.iif.com/Events/About-Our-Events">
+                    <span>About Our Events</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="1084">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="1084" href="https://www.iif.com/Events/Events-FAQs">
+                    <span>Events FAQs</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="76">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="0" data-page="110">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="0" data-page="110" href="https://www.iif.com/Membership" aria-haspopup="true">
+                    <span>Membership</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="0" data-page="110" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="110">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="111">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="111" href="https://www.iif.com/Membership/Our-Member-Institutions">
+                    <span>Our Member Institutions</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="112">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="112" href="https://www.iif.com/Membership/Member-Institution-Benefits">
+                    <span>Member Institution Benefits</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="113">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="113" href="https://www.iif.com/Membership/Become-a-Member-Institution">
+                    <span>Become a Member Institution</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="114">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="114" href="https://www.iif.com/Membership/FAQ">
+                    <span>FAQ</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="110">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+
+</ul>
+</nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-    </div> <!-- /.container -->
-  </div>
-
-
-  </header>
-
-<div id="main-wrapper">
-  <div id="main" class="main">
+        <div class="header--navbar  header--navbar__desktop">
             <div class="container">
-            <div id="breadcrumb"><div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » <span class="crumbs-current-page">Privacy</span></div></div></div>
+                <div class="row">
+                    <div class="row--column navbar--logo">
+                        <h1><a id="dnn_ctl02_hypLogo" title="The Institute of International Finance" href="https://www.iif.com/"><img id="dnn_ctl02_imgLogo" src="/Portals/0/IIF_logo.png?ver=2018-11-12-082528-253" alt="The Institute of International Finance"></a></h1>
+                    </div>
+                    <div class="row--column navbar--utility">
+                        <nav class="header--top-nav" role="navigation">
+                            <ul>
+                                <li><a href="/press" title="Press">Press</a></li>
+                                <li><a href="/careers" title="Careers">Careers</a></li>
+                                <li><a href="/about-us" title="About the IIF">About the IIF</a></li>
+                            </ul>
+                        </nav>
+                        <div class="header--search"><div id="dnn_SearchPaneDesktop"><div class="DnnModule DnnModule-avtSearchBoostInput DnnModule-1137"><a name="1137"></a><div id="dnn_ctr1137_ContentPane"><!-- Start_Module_1137 --><div id="dnn_ctr1137_ModuleContent" class="DNNModuleContent ModavtSearchBoostInputC">
+	<div id="dnn_ctr1137_SearchInput_pnlInput" class="sb-module-instance"><div class="bstrap30">
+    <div class="row sb-default">
+        <div class="col-md-12">
+                <div class="input-group dropdown sb-dropdown adv-search">
+                    <input type="text" class="form-control search-box typeahead" aria-label="search input" title="search input" placeholder="Input your search..." value="">
+                    <div class="input-group-btn">
+                        <div class="btn-group" role="group" aria-label="search group">
+                            <button type="button" class="btn btn-primary search-btn" onclick="" aria-label="search button" name="search button"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+                        </div>
+                    </div>
+                    </div>
         </div>
-            <div id="page-header">
-                      </div>
-    <div id="content" class="">
-        <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-
-    
-  <div class="content">
-    
-<div class="panel-display container boxton clearfix radix-boxton">
-
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-md-12 radix-layouts-content panel-panel">
-        <div class="panel-panel-inner">
-          <div class="panel-pane pane-fieldable-panels-pane pane-fpid-553 pane-bundle-text view-mode-full">
-  
-        <h3 class="pane-title">Institute of International Finance Privacy Policy</h3>
-    
-  
-  <div class="pane-content">
-    <div class="fieldable-panels-pane">
-    <div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Last updated: June 1, 2015</p><p>Institute of International Finance ("us", "we", or "our") operates the <a href="http://www.iif.com">http://www.iif.com</a> website (the "Service").</p><p>This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.</p><p>We will not use or share your information with anyone except as described in this Privacy Policy.</p><p>We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at <a href="http://www.iif.com">http://www.iif.com</a></p><p><strong>Information Collection And Use</strong><br>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name ("Personal Information").</p><p>We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.</p><p><strong>Log Data</strong><br>We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p><p>In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.</p><p><strong>Cookies</strong><br>Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.</p><p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.</p><p>If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.</p><p><strong>Do Not Track Disclosure</strong><br>We support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.</p><p>You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.</p><p><strong>Service Providers</strong><br>We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.</p><p>These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.</p><p><strong>Communications</strong><br>We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send, or by visiting the website and changing your subscription preferences.</p><p><strong>Compliance With Laws</strong><br>We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.</p><p><strong>Security</strong><br>The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.</p><p>However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.</p><p><strong>International Transfer</strong><br>Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p><p>If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.</p><p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p><p><strong>Links to Other Sites</strong><br>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p><p>We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p><p><strong>Children's Privacy</strong><br>Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children").</p><p>We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.</p><p><strong>Changes To This Privacy Policy</strong><br> This Privacy Policy is effective as of May 28, 2015 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.</p><p>We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.</p><p>If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.</p><p><strong>Contact Us</strong><br>If you have any questions about this Privacy Policy, please <a href="mailto:contact@iif.com">contact us.</a></p></div></div></div></div>
-  </div>
-
-  
-  </div>
-        </div>
-      </div>
     </div>
-  </div>
-
-</div><!-- /.boxton -->
-  </div>
 </div>
-  </div>
-    </div>
-  </div> <!-- /#main -->
-</div> <!-- /#main-wrapper -->
 
-<footer id="footer" class="footer" role="footer">
-  <div class="container">
-    <div class="row">
-              <aside class="text"><p><strong>IIF Headquarters</strong></p>
-  <p><strong>1333 H St NW, Suite 800E</strong></p>
-  <p><strong>Washington, DC 20005-4770</strong></p>
-  <p>Tel: +1 202 857-3600</p>
-  <p>Fax: +1 202 775-1430</p>
-  <p>Email: <a href="mailto:info@iif.com"><span style="color: #ffffff;">info@iif.com</span></a></p>
-</aside><aside class="text"><p>IIF Middle East and Africa</p>
-  <p>Regional Office</p>
-  <p>DIFC, The Gate Building,</p>
-  <p>Level 15</p>
-  <p>P.O. Box 121208</p>
-  <p>Dubai, United Arab</p>
-  <p>Emirates</p>
-  <p>Tel: +971 4401 9651</p>
-</aside><aside class="text"><p>IIF Asia Pacific</p>
-  <p>Regional Office - Beijing</p>
-  <p>Winland International Finance Centre</p>
-  <p>Suite F920, 9F</p>
-  <p>No.7 Jinrong Avenue</p>
-  <p>Xicheng District, Beijing</p>
-  <p>100032, PRC</p>
-  <p>Tel: +86 10 5836 9100</p>
-  <p>Fax: +86 10 5836 9300</p>
+<script>
+</script>
 
-</aside><aside class="text"><p>IIF Asia Pacific</p>
-  <p>Regional Office - Singapore</p>
-  <p>50 Raffles Place</p>
-  <p>#22-06 Singapore Land</p>
-  <p>Tower</p>
-  <p>Singapore 048623</p>
-  <p>Tel: +65 6592 5089</p>
-</aside><aside class="text"><p>IIF European</p>
-  <p>Representative Office</p>
-  <p>10 Upper Bank Street</p>
-  <p>London E14 5NP</p>
-  <p>UK</p>
-  <p>Tel: +44 207 006 4173</p>
-</aside>          </div>
-    <div class="row">
-      <div class="col-md-2">
-        <span class="social-links">
-          FOLLOW: <a href="https://twitter.com/iif" class="twitter" target="_blank"></a> <a href="https://www.youtube.com/channel/UCWU5JLMmxGx6DN_gmx6lRQQ" class="youtube" target="_blank"></a>
-        </span>
-      </div>
-              <div class="col-md-10">
-          <div id="footer-sub-nav" class="navbar">
-            <nav id="footer-sub-menu" class="footer-sub-menu" role="navigation">
-              <ul class="nav navbar-nav navbar-right"><li class="first collapsed"><a href="/membership" title="">Membership</a></li>
-<li class="leaf"><a href="/press" title="">Press</a></li>
-<li class="leaf"><a href="/careers" title="">Careers</a></li>
-<li class="leaf"><a href="/about" title="">About the IIF</a></li>
-<li class="leaf"><a href="/terms-and-conditions" title="">Terms &amp; Conditions</a></li>
-<li class="last leaf active-trail active active"><a href="/privacy-policy" title="" class="active-trail active">Privacy</a></li>
-</ul>            </nav>
-          </div>
+
+
+
+
+</div>
+<div id="dnn_ctr1137_SearchInput_pnlError"></div>
+
+<!-- For old templates: -->
+<div>
+<script>
+    // some common functions
+    function sbInp_clearPlaceholder(sbox) {
+        sbox = $(sbox);
+        if (sbox.hasClass('searchBoxEmpty')) {
+            sbox.removeClass('searchBoxEmpty').val('').removeAttr('placeholder');
+        }
+    }
+    function sbInp_syncPlaceholder(sbox) {
+        sbox = $(sbox);
+        sbox.removeClass('searchBoxEmpty');
+        var emptyText = sbox.attr('data-empty');
+        if ($.trim(sbox.val()).length == 0 || $.trim(sbox.val()) == emptyText) {
+            sbox.addClass('searchBoxEmpty').val(emptyText).attr('placeholder', emptyText);
+        }
+    }
+</script>
+</div>
+
+</div><!-- End_Module_1137 --></div>
+</div></div></div>
+                    </div>
+                    <div class="row--column navbar--menus">
+                        <nav class="header--main-nav">
+
+
+<ul class="nav--menu menu menu__main" aria-label="menu">
+            <li class="nav--menu-item menu-item menu-item__parent" data-level="0" data-page="43">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="0" data-page="43" href="https://www.iif.com/Research" aria-haspopup="true">
+                    <span>Research</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="0" data-page="43" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="43">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__parent" data-level="1" data-page="44">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="1" data-page="44" href="https://www.iif.com/Research/Global-Focus" aria-haspopup="true">
+                    <span>Global Focus</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="1" data-page="44" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="44">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="45">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="45" href="https://www.iif.com/Research/Global-Focus/Global-Macro-Views">
+                    <span>Global Macro Views</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="51">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="51" href="https://www.iif.com/Research/Global-Focus/Economic-Views">
+                    <span>Economic Views</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="1104">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="1104" href="https://www.iif.com/Research/Global-Focus/Macro-Notes">
+                    <span>Macro Notes</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="47">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="47" href="https://www.iif.com/Research/Global-Focus/Weekly-Insight">
+                    <span>Weekly Insight</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="48">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="48" href="https://www.iif.com/Research/Global-Focus/Global-Economic-Monitor">
+                    <span>Global Economic Monitor</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="49">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="49" href="https://www.iif.com/Research/Global-Focus/EM-Bank-Lending-Survey">
+                    <span>EM Bank Lending Survey</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="50">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="50" href="https://www.iif.com/Research/Global-Focus/EM-Growth-Tracker">
+                    <span>EM Growth Tracker</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="52">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="52" href="https://www.iif.com/Research/Global-Focus/BoP-Nowcasts">
+                    <span>BoP Nowcasts</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="53">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="53" href="https://www.iif.com/Research/Global-Focus/China-Activity-Tracker">
+                    <span>China Activity Tracker</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="44">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="1" data-page="55">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="1" data-page="55" href="https://www.iif.com/Research/Capital-Flows-and-Debt" aria-haspopup="true">
+                    <span>Capital Flows and Debt</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="1" data-page="55" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="55">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="57">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="57" href="https://www.iif.com/Research/Capital-Flows-and-Debt/Daily-Flows-and-Flows-Alerts">
+                    <span>Daily Flows and Flows Alerts</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="275">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="275" href="https://www.iif.com/Research/Capital-Flows-and-Debt/Capital-Flows-Tracker">
+                    <span>Capital Flows Tracker</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="56">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="56" href="https://www.iif.com/Research/Capital-Flows-and-Debt/Capital-Flows-to-Emerging-Markets-Report">
+                    <span>Capital Flows to Emerging Markets Report</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="59">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="59" href="https://www.iif.com/Research/Capital-Flows-and-Debt/Global-Debt-Monitor">
+                    <span>Global Debt Monitor</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="55">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="1" data-page="60">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="1" data-page="60" href="https://www.iif.com/Research/Regional-Country" aria-haspopup="true">
+                    <span>Regional &amp; Country</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="1" data-page="60" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="60">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="61">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="61" href="https://www.iif.com/Research/Regional-Country/Asia-Pacific">
+                    <span>Asia-Pacific</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="62">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="62" href="https://www.iif.com/Research/Regional-Country/Latin-America">
+                    <span>Latin America</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="63">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="63" href="https://www.iif.com/Research/Regional-Country/EM-Europe">
+                    <span>EM Europe</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="64">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="64" href="https://www.iif.com/Research/Regional-Country/Sub-Saharan-Africa">
+                    <span>Sub-Saharan Africa</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="65">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="65" href="https://www.iif.com/Research/Regional-Country/MENAP-Central-Asia">
+                    <span>MENAP &amp; Central Asia</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="60">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="68">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="68" href="https://www.iif.com/Research/Data">
+                    <span>Data</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="43">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="0" data-page="69">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="0" data-page="69" href="https://www.iif.com/Advocacy" aria-haspopup="true">
+                    <span>Advocacy</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="0" data-page="69" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="69">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="70">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="70" href="https://www.iif.com/Advocacy/Regulatory-Comment-Letters">
+                    <span>Regulatory Comment Letters</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="71">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="71" href="https://www.iif.com/Advocacy/Regulatory-Reports">
+                    <span>Regulatory Reports</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="72">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="72" href="https://www.iif.com/Advocacy/Global-Regulatory-Update">
+                    <span>Global Regulatory Update</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="73">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="73" href="https://www.iif.com/Advocacy/Regulatory-Committees-and-Working-Groups">
+                    <span>Regulatory Committees and Working Groups</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="1" data-page="74">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="1" data-page="74" href="https://www.iif.com/Advocacy/Policy-Issues" aria-haspopup="true">
+                    <span>Policy Issues</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="1" data-page="74" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="74">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="2" data-page="75">
+                <a class="nav--menu-link menu-link" data-level="2" data-page="75" href="https://www.iif.com/Advocacy/Policy-Issues/Principles-for-Stable-Capital-Flows-and-Fair-Debt-Restructuring">
+                    <span>Principles for Stable Capital Flows and Fair Debt Restructuring</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="0" data-page="74">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="69">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="0" data-page="106">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="0" data-page="106" href="https://www.iif.com/Innovation" aria-haspopup="true">
+                    <span>Innovation</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="0" data-page="106" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="106">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="107">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="107" href="https://www.iif.com/Innovation/FinTech">
+                    <span>FinTech</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="108">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="108" href="https://www.iif.com/Innovation/Financial-Inclusion">
+                    <span>Financial Inclusion</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="109">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="109" href="https://www.iif.com/Innovation/Regtech">
+                    <span>Regtech</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="1055">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="1055" href="https://www.iif.com/Innovation/FRT-Podcast">
+                    <span>FRT Podcast</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="106">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="0" data-page="76">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="0" data-page="76" href="https://www.iif.com/Events/Upcoming-Events" aria-haspopup="true">
+                    <span>Events</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="0" data-page="76" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="76">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="77">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="77" href="https://www.iif.com/Events/Upcoming-Events">
+                    <span>Upcoming Events</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="78">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="78" href="https://www.iif.com/Events/Past-Events">
+                    <span>Past Events</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="217">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="217" href="https://www.iif.com/Events/About-Our-Events">
+                    <span>About Our Events</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="1084">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="1084" href="https://www.iif.com/Events/Events-FAQs">
+                    <span>Events FAQs</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="76">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+        <li class="nav--menu-item menu-item menu-item__parent" data-level="0" data-page="110">
+                <a class="nav--menu-link menu-link menu-link__parent" data-level="0" data-page="110" href="https://www.iif.com/Membership" aria-haspopup="true">
+                    <span>Membership</span>
+
+                        <span class="submenu-toggle"></span>
+
+                </a>
+
+                <ul class="nav--menu menu menu__submenu" data-level="0" data-page="110" aria-label="submenu" aria-hidden="true">
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="110">
+                            <span>Back</span>
+                            <span class="submenu-toggle"></span>
+                        </a>
+                    </li>
+                        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="111">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="111" href="https://www.iif.com/Membership/Our-Member-Institutions">
+                    <span>Our Member Institutions</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="112">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="112" href="https://www.iif.com/Membership/Member-Institution-Benefits">
+                    <span>Member Institution Benefits</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="113">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="113" href="https://www.iif.com/Membership/Become-a-Member-Institution">
+                    <span>Become a Member Institution</span>
+
+
+                </a>
+
+        </li>
+        <li class="nav--menu-item menu-item menu-item__no-children" data-level="1" data-page="114">
+                <a class="nav--menu-link menu-link" data-level="1" data-page="114" href="https://www.iif.com/Membership/FAQ">
+                    <span>FAQ</span>
+
+
+                </a>
+
+        </li>
+
+                    <li class="nav--menu-item menu-item menu-item__parent menu-item__back">
+                        <a class="nav--menu-link menu-link menu-link__parent menu-link__back" data-level="-1" data-page="110">
+                            <span>Back</span>
+                        </a>
+                    </li>
+                </ul>
+        </li>
+
+</ul>
+</nav>
+                    </div>
+                </div>
+            </div>
         </div>
-          </div>
-  </div>
+    </header>
+    <main class="site--main">
+        <div class="interior-nav">
+            <nav class="container">
+                
+
+
+<ul class="nav--menu menu menu__main" aria-label="menu">
+    
+</ul>
+
+            </nav>
+        </div>
+        <div class="container">
+            <nav class="breadcrumb">
+                <span class="home-link"><a href="https://www.iif.com/">Home</a></span>
+                <span id="dnn_dnnBreadcrumb_lblBreadCrumb" itemprop="breadcrumb" itemscope="" itemtype="https://schema.org/breadcrumb"><span itemscope="" itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="https://www.iif.com/Privacy-Policy" class="SkinObject" itemprop="item"><span itemprop="name">Privacy Policy</span></a><meta itemprop="position" content="1"></span></span></span>
+            </nav>
+            <div><h1>Privacy Policy</h1></div>
+            <div id="dnn_ContentPane" class="pane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-2122"><a name="2122"></a>
+
+<div class="module-container module-container__no-title">
+    <div id="dnn_ctr2122_ContentPane" class="module-container--body"><!-- Start_Module_2122 --><div id="dnn_ctr2122_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr2122_HtmlModule_lblContent" class="Normal">
+	<h3><strong>General</strong></h3>
+
+<p><strong>1.1</strong>&nbsp; IIF is committed to the privacy of its users (hereinafter “Users”) and to complying with relevant law, including the European Union’s General Data Protection Regulation (“GDPR”). &nbsp;This Privacy Policy describes the ways in which IIF collects and uses personal data.</p>
+
+<p><strong>1.2&nbsp;</strong>&nbsp;The User acknowledges having read this information and authorizes IIF to process, in accordance with the provisions of the Privacy Policy, their personal data.&nbsp;</p>
+
+<p><strong>1.3&nbsp;&nbsp;</strong>For purposes of GDPR, the data controller is:</p>
+
+<p>Institute of International Finance<br>
+1333 H Street NW, Suite 800E<br>
+Washington, D.C. 20005</p>
+
+<p><strong>1.4&nbsp;&nbsp;</strong>Any questions regarding the processing or use of IIF data may be sent to&nbsp;<a href="mailto:privacy@iif.com">privacy@iif.com</a>.</p>
+
+<p><strong>&nbsp;</strong></p>
+
+<p><strong>Information Collection and Use</strong></p>
+
+<p><strong>2.1 &nbsp;Why does IIF collect and process personal data?</strong></p>
+
+<p>We collect limited personal data of our Users in order to provide and improve our services.&nbsp; Among other things, we collect limited personal data so that we can provide you with copies of our educational research, invite you to events, manage registration and payments for events, respond to requests or inquiries, and to gather statistical information to make our research products more relevant to you.&nbsp;</p>
+
+<p><strong>&nbsp;2.2 &nbsp;What personal data does IIF collect?</strong></p>
+
+<p>Personal data collected by IIF may include:</p>
+
+<ul>
+ <li>Name, email address, name of employer, job title, and mailing address</li>
+ <li>Invoicing information</li>
+ <li>Communications, such as emails or other correspondence, between the user and IIF</li>
+</ul>
+
+<p>In addition, when you visit our website, we will record “log data,” which is information your browser automatically sends such as your computer's Internet Protocol address, browser type, browser version, the pages of our website that you visit, the time and date of your visit, and the time spent on those pages.&nbsp; &nbsp;</p>
+
+<p>To facilitate efficient use of our website, we also use “cookies.” &nbsp;Cookies are files with a small amount of data, which may include an anonymous unique identifier. &nbsp;Cookies are sent to your browser from a website and transferred to your device. &nbsp;We use cookies to collect information in order to improve our services for you.&nbsp; You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. &nbsp;The Help feature on most browsers provides information on how to accept cookies, disable cookies, or to notify you when receiving a new cookie.&nbsp; If you do not accept cookies, please note you may not be able to use some features of our website.</p>
+
+<p>Our website supports Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.&nbsp; You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.</p>
+
+<p>We also use Google Analytics, which is a web analytics service, to gather data about the research products accessed by visitors to our website. We use this information to make our research products more relevant to readers. The IP address of the data subject is abridged by Google and anonymised when accessing our websites from a Member State of the European Union or another Contracting State to the Agreement on the European Economic Area.&nbsp; Users may block Google Analytics by preventing the setting of cookies through our website, as discussed above, or by downloading and installing a browser add-on under the link&nbsp;<a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Storage and Security</strong></p>
+
+<p><strong>3.1 Where is my personal data stored?</strong></p>
+
+<p>The IIF is based in the United States, and data we hold will be stored on servers in the U.S.</p>
+
+<p>We may also employ Customer Relationship Management (“CRM”) companies to store and process limited personal data.&nbsp; These companies are also based in the U.S., and may store your data on servers in the U.S.&nbsp; The CRMs we use also comply with relevant law, including GDPR, and can support GDPR-related requests.</p>
+
+<p><strong>3.2 How long will you hold the data?</strong></p>
+
+<p>Data will be held as long as necessary to meet IIF’s legitimate business interests and/or legal obligations or until we receive a request from the individual to delete his/her data.</p>
+
+<p><strong>3.3 Is the data secure?</strong></p>
+
+<p>The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.&nbsp;&nbsp; However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.</p>
+
+<p><strong>3.4 Will you disclose my data to outside parties?</strong></p>
+
+<p>We will disclose your Personal Data when required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Communications and Marketing</strong></p>
+
+<p><strong>4.1 When will you contact me?</strong></p>
+
+<p>We use your contact information to send you educational research, event invitations, or other information.&nbsp; For Users in the European Union or in a Contracting State to the Agreement on the European Economic Area, we will only send marketing information for services that are similar to services you have previously used. &nbsp;</p>
+
+<p><strong>4.2 How should I let you know if I no longer wish to receive emails?&nbsp;</strong></p>
+
+<p>You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send, or by visiting the website and changing your subscription preferences.</p>
+
+<p><strong>&nbsp;</strong></p>
+
+<p><strong>Your Rights Under GDPR</strong></p>
+
+<p><strong>5.1 What are my rights?</strong></p>
+
+<p>Data subjects in the European Union and in Contracting States of the EEA have the right to request access to and rectification of erasure of their personal data, to restrict processing of their personal data or to object to processing. Data subjects also have the right to data portability, which is the right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided<strong>.&nbsp;</strong>Data subjects also have the right to lodge a complaint with a supervisory authority.</p>
+
+<p><strong>&nbsp;</strong></p>
+
+<p><strong>Other</strong></p>
+
+<p><strong>6.1 Children’s privacy</strong></p>
+
+<p>Only persons age 16 or older have permission to access our services. &nbsp;We do not knowingly collect personally identifiable information from children under 16. &nbsp;If you are a parent or guardian and you learn that your children have provided us with Personal Data, please contact us. &nbsp;If we become aware that we have collected Personal Data from a child under age 16 without verification of parental consent, we will take steps to remove that information from our servers.</p>
+
+<p><strong>6.2&nbsp;Changes to this Privacy Policy</strong></p>
+
+<p>This Privacy Policy is effective as of May 25, 2018 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.</p>
+
+<p>We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.</p>
+
+<p>If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us or by placing a prominent notice on our website.</p>
+
+<p>&nbsp;</p>
+
+<p>If you have any questions about this Privacy Policy, please&nbsp;<a href="mailto:privacy@iif.com">contact us.</a></p>
+
+</div>
+
+</div><!-- End_Module_2122 --></div>
+</div>
+</div><div class="DnnModule DnnModule-MX-Security-Welcome DnnModule-1955"><a name="1955"></a>
+
+<div class="module-container module-container__no-title">
+    <div id="dnn_ctr1955_ContentPane" class="module-container--body"><!-- Start_Module_1955 --><div id="dnn_ctr1955_ModuleContent" class="DNNModuleContent ModMXSecurityWelcomeC">
+	<div class="mx mx-wrapper mx-security-welcome-wrapper mx-security-welcome-dnn$ctr1955$welcome$ctl00-wrapper">
+		<a name="dnn$ctr1955$Welcome$ctl00"></a>
+    <div id="dnn_ctr1955_Welcome_ctl00_pnlLoginViewModeAnonymous" class="mx-loginviewmodeanonymous-panel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'dnn_ctr1955_Welcome_ctl00_btnSignIn')">
+			
+        <div class="form-group form-inline mb-1">
+				
+            
+        
+			</div>
+        
+        
+        <div>
+            <a id="dnn_ctr1955_Welcome_ctl00_hypSignIn" class="mx-signin-hyperlink" href="https://www.iif.com/Security/Sign-In?returnUrl=%2fprivacy-policy">Sign In</a>
+            <a id="dnn_ctr1955_Welcome_ctl00_hypCreateNewUserAccount" class="mx-createnewuseraccount-hyperlink" href="/Security/Create-New-User-Account">Register as new user</a>         
+            <a id="dnn_ctr1955_Welcome_ctl00_hypSignInHelp" class="mx-signinhelp-hyperlink" href="/Security/Sign-In-Help">Forgot Password</a>
+        </div>
+    
+		</div>
+
+    
+
+	</div>
+
+</div><!-- End_Module_1955 --></div>
+</div>
+</div><div class="DnnModule DnnModule-MX-Security-SignIn DnnModule-1956"><a name="1956"></a>
+
+<div class="module-container module-container__no-title">
+    <div id="dnn_ctr1956_ContentPane" class="module-container--body"><!-- Start_Module_1956 --><div id="dnn_ctr1956_ModuleContent" class="DNNModuleContent ModMXSecuritySignInC">
+	<div class="mx mx-wrapper mx-security-signin-wrapper mx-security-signin-dnn$ctr1956$signin$ctl00-wrapper" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'dnn_ctr1956_SignIn_ctl00_btnSignIn')">
+		<a name="dnn$ctr1956$SignIn$ctl00"></a><div class="mx-title-wrapper">
+			
+    <h3 id="dnn_ctr1956_SignIn_ctl00_Title_text">LOGIN:</h3>
+
+		</div>
+    
+
+    <fieldset>
+        <div class="form-group">
+			
+            <label for="dnn_ctr1956_SignIn_ctl00_txtUsername" class="mx-username-label" crmid="contact+pa_webloginname">Email</label>
+            <input name="dnn$ctr1956$SignIn$ctl00$txtUsername" type="text" maxlength="100" id="dnn_ctr1956_SignIn_ctl00_txtUsername" class="form-control mx-username-textbox">
+            
+        
+		</div>
+
+        <div class="form-group">
+			
+            <label for="dnn_ctr1956_SignIn_ctl00_txtPassword" class="mx-password-label" crmid="contact+pa_webloginpassword">Password</label>
+            <input name="dnn$ctr1956$SignIn$ctl00$txtPassword" type="password" maxlength="100" id="dnn_ctr1956_SignIn_ctl00_txtPassword" class="form-control mx-password-textbox">
+            
+        
+		</div>
+
+        <div id="dnn_ctr1956_SignIn_ctl00_rowRememberMe" class="form-group mx-rememberme-row">
+			
+            <span class="form-check mx-rememberme-checkbox"><input id="dnn_ctr1956_SignIn_ctl00_chkRememberMe" type="checkbox" name="dnn$ctr1956$SignIn$ctl00$chkRememberMe" class="form-check-input mx-rememberme-checkbox-input"><label for="dnn_ctr1956_SignIn_ctl00_chkRememberMe" class="form-check-label mx-rememberme-checkbox-label">Keep me signed in if I close the browser</label></span>
+        
+		</div>        
+    </fieldset>
+    <fieldset>
+        <input type="submit" name="dnn$ctr1956$SignIn$ctl00$btnSignIn" value="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;dnn$ctr1956$SignIn$ctl00$btnSignIn&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="dnn_ctr1956_SignIn_ctl00_btnSignIn" class="btn btn-primary mx-signin-button">
+    </fieldset>
+
+    <span id="dnn_ctr1956_SignIn_ctl00_lblSignInHelpInstructions" class="mx-signinhelpinstructions-span d-block"></span>
+    <a id="dnn_ctr1956_SignIn_ctl00_hypSignInHelp" class="mx-hypsigninhelp-hyperlink d-block" href="/Home/Sign-In-Help">Reset Password</a>
+    <a id="dnn_ctr1956_SignIn_ctl00_hypCreateNewUser" class="mx-hypcreatenewuser-hyperlink d-block" href="/Security/Create-New-User-Account">Register for this site as a new user</a>
+
+	</div>
+
+
+</div><!-- End_Module_1956 --></div>
+</div>
+</div></div>
+            <div class="row row__even-columns">
+                <div class="row--column">
+                    <div id="dnn_TwoCol1" class="pane DNNEmptyPane"></div>
+                </div>
+                <div class="row--column">
+                    <div id="dnn_TwoCol2" class="pane DNNEmptyPane"></div>
+                </div>
+            </div>
+            <div class="row row__sidebar-left">
+                <div class="row--column row--column__sidebar">
+                    <div id="dnn_TwoCol_Sidebar_left" class="pane DNNEmptyPane"></div>
+                </div>
+                <div class="row--column">
+                    <div id="dnn_TwoCol_Content_right" class="pane DNNEmptyPane"></div>
+                </div>
+            </div>
+            <div class="row row__sidebar-right">
+                <div class="row--column">
+                    <div id="dnn_TwoCol__content_left" class="pane DNNEmptyPane"></div>
+                </div>
+                <div class="row--column row--column__sidebar__no-border">
+                    <div id="dnn_TwoCol__sidebar_right" class="pane DNNEmptyPane"></div>
+                </div>
+            </div>
+            <div class="row row__even-columns">
+                <div class="row--column">
+                    <div id="dnn_TwoCol2_1" class="pane DNNEmptyPane"></div>
+                </div>
+                <div class="row--column">
+                    <div id="dnn_TwoCol2_2" class="pane DNNEmptyPane"></div>
+                </div>
+            </div>
+            <div id="dnn_Fullwidth" class="DNNEmptyPane"></div>
+            <div class="row row__even-columns">
+                <div class="row--column">
+                    <div id="dnn_ThreeCol1" class="pane DNNEmptyPane"></div>
+                </div>
+                <div class="row--column">
+                    <div id="dnn_ThreeCol2" class="pane DNNEmptyPane"></div>
+                </div>
+                <div class="row--column">
+                    <div id="dnn_ThreeCol3" class="pane DNNEmptyPane"></div>
+                </div>
+            </div>
+            <div class="row row__sidebar-left">
+                <div class="row--column row--column__sidebar">
+                    <div id="dnn_TwoCol_Sidebar2" class="pane DNNEmptyPane"></div>
+                </div>
+                <div class="row--column">
+                    <div id="dnn_TwoCol_Content2" class="pane DNNEmptyPane"></div>
+                </div>
+            </div>
+            <div class="row row__sidebar-right">
+                <div class="row--column">
+                    <div id="dnn_TwoCol2__content_left" class="pane DNNEmptyPane"></div>
+                </div>
+                <div class="row--column row--column__sidebar__no-border">
+                    <div id="dnn_TwoCol2__sidebar_right" class="pane DNNEmptyPane"></div>
+                </div>
+            </div>
+            <div class="row row__even-columns">
+                <div class="row--column">
+                    <div id="dnn_ThreeCol2_1" class="pane DNNEmptyPane"></div>
+                </div>
+                <div class="row--column">
+                    <div id="dnn_ThreeCol2_2" class="pane DNNEmptyPane"></div>
+                </div>
+                <div class="row--column">
+                    <div id="dnn_ThreeCol2_3" class="pane DNNEmptyPane"></div>
+                </div>
+            </div>
+            <div id="dnn_Fullwidth2" class="pane DNNEmptyPane"></div>
+        </div>
+    </main>
+    
+<footer class="site--footer">
+    <div class="container">
+        <div class="row row__addresses">
+            <div class="row--column">
+                <p><strong>IIF Headquarters</strong><br>
+                <strong>1333 H St NW, Suite 800E</strong><br>
+                <strong>Washington, DC 20005-4770</strong><br>
+                Tel: +1 202 857-3600<br>
+                Fax: +1 202 775-1430<br>
+                Email: <a href="mailto:info@iif.com">info@iif.com</a></p>
+            </div>
+            <div class="row--column">
+                <p>IIF Middle East and Africa<br>
+                Regional Office<br>
+                DIFC, The Gate Building,<br>
+                Level 15<br>
+                P.O. Box 121208<br>
+                Dubai, United Arab<br>
+                Emirates<br>
+                Tel: +971 4401 9651</p>
+            </div>
+            <div class="row--column">
+                <p>IIF Asia Pacific<br>
+                Regional Office - Beijing<br>
+                Winland International Finance Centre<br>
+                Suite F920, 9F<br>
+                No.7 Jinrong Avenue<br>
+                Xicheng District, Beijing<br>
+                100032, PRC<br>
+                Tel: +86 10 5836 9100<br>
+                Fax: +86 10 5836 9300</p>
+            </div>
+            <div class="row--column">
+                <p>IIF Asia Pacific<br>
+                Regional Office - Singapore<br>
+                50 Raffles Place<br>
+                #22-06 Singapore Land<br>
+                Tower<br>
+                Singapore 048623<br>
+                Tel: +65 6592 5089</p>
+            </div>
+            <div class="row--column">
+                <p>IIF European<br>
+                Representative Office<br>
+                Square de Meeûs 23<br>
+                14th Floor<br>
+                1000 Brussels<br>
+                Belgium<br>
+                Tel: +32 2 430 37 08</p>
+            </div>
+            <div class="row--column">
+                <p>IIF Regional Office<br>
+                10 Upper Bank St.<br>
+                London E14 5NP<br>
+                Tel: +44 207 006 4173</p>
+            </div>
+        </div>
+        <div class="row row__links">
+            <div class="row--column">
+                <div class="social-media">
+                    <ul>
+                        <li><span>Follow:</span></li>
+                        <li>
+                            <a href="https://twitter.com/iif" title="Twitter">
+                                <svg class="icon icon__svg icon__social icon__twitter">
+                                    <use xlink:href="#icon__twitter"></use>
+                                </svg>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/channel/UCWU5JLMmxGx6DN_gmx6lRQQ">
+                                <svg class="icon icon__svg icon__social icon__youtube">
+                                    <use xlink:href="#icon__youtube"></use>
+                                </svg>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="https://www.linkedin.com/company/institute-of-international-finance">
+                                <svg class="icon icon__svg icon__social icon__linkedin">
+                                    <use xlink:href="#icon__linkedin"></use>
+                                </svg>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row--column">
+                <nav class="footer-nav">
+                    <ul>
+                        <li><a href="/membership" title="Membership">Membership</a></li>
+                        <li><a href="/press" title="Press">Press</a></li>
+                        <li><a href="/careers" title="Careers">Careers</a></li>
+                        <li><a href="/about-us" title="About the IIF">About the IIF</a></li>
+                        <li><a href="/terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+                        <li><a href="/privacy-policy" title="Privacy">Privacy</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
 </footer>
-  <script type="text/javascript" src="https://www.iif.com/sites/default/files/js/js_FV6APDy00MlUcHZPHAMEoI5eRKLjnDVIqyGvDZAmG7Y.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e05277e143","applicationID":"4735151","transactionName":"ZwMAMUJVWkQDBU1cDF5JIwZEXVtZTRZYUgZvCwMLUVNRRT0WWFIGbwMaAFNBQFI=","queueTime":0,"applicationTime":978,"atts":"S0QDRwpPSUo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-</body></html>
+
+</div>
+<!--- ALL TRACKING SCRIPTS BEFORE CLOSING TAG ---->
+
+<!-- Click Dimensions Tracking Script --->
+<script type="text/javascript" src="https://analytics.clickdimensions.com/ts.js"> </script> <script type="text/javascript"> var cdAnalytics = new clickdimensions.Analytics('analytics.clickdimensions.com'); cdAnalytics.setAccountKey('ai7Nn2CJ10mtoXlcEC48zw'); cdAnalytics.setDomain('iif.com'); cdAnalytics.setScore(typeof(cdScore) "undefined" ? 0 : (cdScore 0 ? null : cdScore)); cdAnalytics.trackPage(); </script>
+        <input name="ScrollTop" type="hidden" id="ScrollTop">
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off">
+        <script src="/DependencyHandler.axd/a08151bc3ddb5e2c0e9130a6cd3dc951/242/js" type="text/javascript"></script>
+    </form>
+    <!--CDF(Javascript|/js/dnncore.js)--><!--CDF(Javascript|/js/dnn.modalpopup.js)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css)--><!--CDF(Css|/Portals/_default/skins/iif/skin.css)--><!--CDF(Css|/DesktopModules/DnnSharp/SearchBoost/module.css)--><!--CDF(Css|/DesktopModules/DnnSharp/SearchBoost/module.css)--><!--CDF(Css|/Portals/0/portal.css)--><!--CDF(Css|/DesktopModules/DnnSharp/SearchBoost/templates/input/default/styles.css)--><!--CDF(Javascript|/DesktopModules/DnnSharp/SearchBoost/templates/input/default/script.js)--><!--CDF(Css|/DesktopModules/DnnSharp/SearchBoost/templates/input/default/styles.css)--><!--CDF(Javascript|/DesktopModules/DnnSharp/SearchBoost/templates/input/default/script.js)--><!--CDF(Javascript|/DesktopModules/DnnSharp/Common/static/dnnsf/dnnsf.js)--><!--CDF(Javascript|/DesktopModules/DnnSharp/Common/static/bootstrap337/js/bootstrap.min.js)--><!--CDF(Javascript|/DesktopModules/DnnSharp/Common/static/js/typeahead.11.min.js)--><!--CDF(Javascript|/DesktopModules/DnnSharp/SearchBoost/static/sb-client.js)--><!--CDF(Css|/DesktopModules/DnnSharp/Common/static/bootstrap337/css/bootstrap.min.css)--><!--CDF(Javascript|/DesktopModules/DnnSharp/Common/static/dnnsf/dnnsf.js)--><!--CDF(Javascript|/DesktopModules/DnnSharp/Common/static/bootstrap337/js/bootstrap.min.js)--><!--CDF(Javascript|/DesktopModules/DnnSharp/Common/static/js/typeahead.11.min.js)--><!--CDF(Javascript|/DesktopModules/DnnSharp/SearchBoost/static/sb-client.js)--><!--CDF(Css|/DesktopModules/DnnSharp/Common/static/bootstrap337/css/bootstrap.min.css)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_02_01/jquery.js)--><!--CDF(Javascript|/Resources/libraries/swiper/04_04_01/swiper.min.js)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js)--><!--CDF(Javascript|/Resources/libraries/html5shiv/03_07_03/html5shiv-printshiv.min.js)--><!--CDF(Javascript|/Resources/libraries/respond-minmax/01_04_02/respond.src.js)-->
+    
+     
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5ZPPFMN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		  
+<div id="loading" style="width: 50px; height: 50px; z-index: 1002; display: none;"><i class="fa fa-spinner fa-spin" style="font-size: 48px;"></i></div></body></html>
