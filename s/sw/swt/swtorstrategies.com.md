@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swtorstrategies.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204144709id_/http%3A//www.swtorstrategies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swtorstrategies.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605162621id_/http%3A//www.swtorstrategies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Star Wars Gaming news
 
@@ -26,4 +26,4 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
 
-(Visited 21,677 times, 6 visits today)
+(Visited 34,910 times, 9 visits today)
