@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookieandkate.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020022304id_/https%3A//cookieandkate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookieandkate.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605172410id_/https%3A//cookieandkate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cookie and Kate
 
@@ -10,7 +10,7 @@ As the owner of cookieandkate.com (the “Site”), Cookie and Kate LLC (“we�
 
 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-We use cookies for the following purposes: 
+We use cookies for the following purposes:
 
 (a) authentication – we use cookies to identify you when you visit our website and as you navigate our website;
 
@@ -46,13 +46,13 @@ Please note that blocking cookies may have a negative impact on the functions of
 
 ### Interest-Based Advertising
 
-_Advertising Privacy Statement_
+ _Advertising Privacy Statement_
 
-This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies. 
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
 
-By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners.You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. 
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners.You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
-_For European Economic Area Residents_
+ _For European Economic Area Residents_
 
 If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
@@ -60,15 +60,15 @@ If you reside in a country in the European Economic Area (EEA), then under the G
 
 We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter, leave a comment, or enter a promotion. We will use your email address for the purposes for which you provided it to us. You may opt out of such email communications at any time by clicking the “unsubscribe” button in the email.
 
-For instance, if you sign up for our newsletter, you will receive notification of new blog posts, roundups, special updates, and occasional news regarding the Site or other brand-related products or services that we believe may be of interest to you. 
+For instance, if you sign up for our newsletter, you will receive notification of new blog posts, roundups, special updates, and occasional news regarding the Site or other brand-related products or services that we believe may be of interest to you.
 
-Your email address may also be shared with the technology provider we use in connection with the purposes for which you provided it. For instance, we use Mailchimp to deliver our email newsletters. Information provided is transferred to Mailchimp for processing in accordance to their [Privacy Policy](https://mailchimp.com/legal/privacy/) and [Terms](https://mailchimp.com/legal/). 
+Your email address may also be shared with the technology provider we use in connection with the purposes for which you provided it. For instance, we use Mailchimp to deliver our email newsletters. Information provided is transferred to Mailchimp for processing in accordance to their [Privacy Policy](https://mailchimp.com/legal/privacy/) and [Terms](https://mailchimp.com/legal/).
 
 If you are a resident of a country in the European Economic Area (EEA), please refer to the section below entitled “Additional Rights of EEA Residents.”
 
 ### Comment, Registration or Account Data
 
-As you use the Site, we collect other data that you provide voluntarily. For example, if you leave a comment, the Site will record your name as provided. You are welcome to use a nick-name instead, if you would rather not have your name published in conjunction with the comment. 
+As you use the Site, we collect other data that you provide voluntarily. For example, if you leave a comment, the Site will record your name as provided. You are welcome to use a nick-name instead, if you would rather not have your name published in conjunction with the comment.
 
 We may also collect information about you through other voluntary methods, including research surveys.
 
