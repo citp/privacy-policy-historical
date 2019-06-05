@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fritolay.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210100915id_/https%3A//www.fritolay.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fritolay.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605050611id_/https%3A//www.fritolay.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,7 +63,7 @@ Click on one of the links above to go directly to a particular topic. Or, you ca
 **  
 **SHARING INFORMATION.  
 **  
-**We may share information within the PepsiCo family of companies.** This includes Pepsi-Cola, Gatorade, Quaker and Tropicana. This also includes future subsidiaries or affiliates. For a full list of PepsiCo brands and companies, visit <http://www.pepsico.com/Brands.html>.
+**We may share information within the PepsiCo family of companies.** This includes Pepsi-Cola, Gatorade, Quaker and Tropicana. This also includes future subsidiaries or affiliates. For a full list of PepsiCo brands and companies, visit <https://www.pepsico.com/brands>.
 
 **We may share information with third parties who perform services on our behalf.** For example, we share information with vendors so they can perform services for us. We may also share information with companies that operate our websites or run a promotion for us.
 
@@ -83,7 +83,7 @@ If you reside in California, you have the right to ask us one time each year if 
 
 **OUR SITES ARE NOT FOR KIDS.**
 
-Our sites and apps are meant for adults and teens. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can [contact us.](https://web.archive.org/contact) Parents can learn more about how to protect children's privacy on-line here: <https://www.consumer.ftc.gov/topics/protecting-kids-online>
+Our sites and apps are meant for adults and teens. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can [contact us.](https://cu1.pepsico.com/fritolay) Parents can learn more about how to protect children's privacy on-line here: <https://www.consumer.ftc.gov/topics/protecting-kids-online>
 
 **WE USE STANDARD SECURITY MEASURES.**
 
