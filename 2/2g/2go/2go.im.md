@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2go.im privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210022833id_/http%3A//www.2go.im/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2go.im privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606001733id_/http%3A//www.2go.im/privacy) for the most accurate reproduction.*
 
 # 2go - Privacy
 
