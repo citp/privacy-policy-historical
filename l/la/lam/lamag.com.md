@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamag.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230224641id_/https%3A//www.lamag.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamag.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605073646id_/https%3A//www.lamag.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy Los Angeles Magazine
 
@@ -295,7 +295,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: [sstarling@lamag.com](https://web.archive.org/web/20181230224641id_/http://www.lamag.com/privacypolicy/sstarling@lamag.com)  
+By email: [sstarling@lamag.com](https://web.archive.org/web/20190605073646id_/https%3A//www.lamag.com/sstarling@lamag.com)  
 By visiting this page on our website: <http://www.lamag.com/privacypolicy/>  
 By phone number: 323.801.0100  
 By mail: 5900 Wilshire Blvd., 10th Floor Los Angeles, CA 90036
