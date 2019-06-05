@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centriohost.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119005417id_/https%3A//www.centriohost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centriohost.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606012634id_/https%3A//www.centriohost.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CentrioHost™ - Your Information Just Safe With Us!
 
