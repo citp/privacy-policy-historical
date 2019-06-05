@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueheronhealthnews.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003215156id_/http%3A//blueheronhealthnews.com/site/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueheronhealthnews.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605071016id_/https%3A//blueheronhealthnews.com/site/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blue Heron Natural Health News
 
@@ -88,7 +88,7 @@ Examples of Cookies we use:
 
 
 
-[You can read our detailed cookie policy and edit your preference here…](http://blueheronhealthnews.com/site/cookie-policy-page/)
+[You can read our detailed cookie policy and edit your preference here…](https://blueheronhealthnews.com/site/cookie-policy-page/)
 
 ## Use of Data
 
@@ -309,7 +309,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
   * By email: info@blueheronhealthguides.com
-  * By visiting this page on our website: http://blueheronhealthnews.com/site/contact-us/
+  * By visiting this page on our website: https://blueheronhealthnews.com/site/contact-us/
   * By phone number: 8284844554
 
 
