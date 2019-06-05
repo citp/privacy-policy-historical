@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissanime.ac privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113010003id_/https%3A//kissanime.ac/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissanime.ac privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605054054id_/https%3A//kissanime.ac/privacy-policy) for the most accurate reproduction.*
 
 # DMCA/Disclaimer Policy
 
