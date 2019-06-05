@@ -1,0 +1,567 @@
+<!--The following is the downloaded HTML source of the evus.us privacy policy that was archived on 2019-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190605085825id_/https%3A//application.evus.us/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang=""><head>
+                                        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KRHBFCF"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+                    <meta name="viewport" content="width=device-width, initial-scale=1">
+                                                                <title>EVUS TRAVEL AUTHORIZATION SERVICES</title>
+                    <meta name="description" content="Complete the Online Visa Application for Evus and obtain the Electronic Travel.">
+                    <meta property="og:title" content="EVUS TRAVEL AUTHORIZATION SERVICES">
+                    <meta property="og:description" content="Complete the Online Visa Application for Evus and obtain the Electronic Travel.">                                        <meta property="og:image" content="/img/evus/evusseo/logo.png">
+                    <meta property="og:url" content="https://application.evus.us">
+                    <meta property="og:site_name" content="Evus electronic travel authority">
+                                                                                                <meta name="robots" content="noindex, noarchive">
+                        
+
+            <link rel="apple-touch-icon" sizes="57x57" href="/img/evus/evusseo/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/img/evus/evusseo/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/img/evus/evusseo/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/img/evus/evusseo/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/img/evus/evusseo/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/img/evus/evusseo/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/img/evus/evusseo/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/img/evus/evusseo/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/img/evus/evusseo/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/img/evus/evusseo/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/evus/evusseo/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/img/evus/evusseo/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/img/evus/evusseo/favicon/favicon-16x16.png">
+<link rel="shortcut icon" href="/img/evus/evusseo/favicon/favicon.ico">
+            <script src="https://browser.sentry-cdn.com/4.5.3/bundle.min.js" crossorigin="anonymous"></script>
+<script src="/scripts/common/capture-errors.js?v=1"></script>
+            <!-- build:css(.) styles/vendor.css -->
+            <!-- bower:css -->
+            <!-- endbower -->
+            <!-- endbuild -->
+            <!-- build:css(.tmp) styles/main.css -->
+            <link rel="stylesheet" href="/styles/evus/evusseo/main.css?rel=1559724091863">
+
+            <!-- ABT-74 => V1 & V2 styles -->
+
+            
+                                                                    
+                        
+            <!-- endbuild -->
+
+            
+            
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRHBFCF"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KRHBFCF');</script>
+    <!-- End Google Tag Manager -->
+                        </head>
+    <body class=" en ">
+    <noscript>
+    You don't have javascript enabled. http://www.enable-javascript.com/
+</noscript>    <div class="m-box--bgcolor-3">
+    </div>
+    <div class="wrap">
+        <!--[if lt IE 10]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+                <div class="u-pos--fix u-pos--text">
+            <div class="m-box--bgcolor-13 u-pad--tb5  ">
+                <div class="u-flexcont">
+                    <div class="">
+                        <div class="m-txt--duotone m-box--txtleft u-resphide m-txt--thin">
+                             <strong>EVUS</strong> <em>Electronic Visa Application </em>                        </div>
+                    </div>
+                    <div class="">
+                        <div class="form-inline ">
+                             <div class="">
+                                    <a class="m-button-primary-top btn u-marg--tb1em" href="https://application.evus.us/application">
+                                        Apply for an EVUS                                    </a>
+                             </div>
+                       </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="m-header short_header ">
+            <div class="menu_bar"></div>
+            <nav class="navbar m-navbar ">
+    <div class="container">
+
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+                        <div class="logo">
+                                    <a href="https://www.evus.us/evus-form"><img src="/img/evus/evusseo/logo.png" alt="evusseo"></a>
+                            </div>
+        </div>
+
+        
+    </div><!-- /.container-fluid -->
+</nav>
+
+
+
+        </div>
+
+
+
+          <div class="m-jumbotron-image4">
+  </div>
+  <div class="m-box--title m-box--bgcolor-10">
+    <div class="container">
+      PRIVACY POLICY    </div>
+  </div>
+  <div class="container u-marg--b20">
+      <p>application.evus.us is dedicated to safeguarding personal information and being honest and transparent about how we collect personal data as well as how it is used and shared. ‘Personal Information’ is information which is specific to an individual. It can identify a person, or can be used in combination with other information to identify someone. By using our services you agree to this privacy policy and all its terms.</p>
+
+<h2>Information we collect</h2>
+
+<p>application.evus.us may collect, use and store the following types of personal data:</p>
+
+<h3>Personal information provided by you</h3>
+
+<p>It is necessary to enter a range of personal information to complete an online visa application form on application.evus.us. This data includes your full name, address, date of birth, travel plans (such as dates, times, and accommodation details), passport details. To process visa applications it may be necessary to provide some highly-sensitive information, such as information related to your gender, ethnicity, religion, beliefs, health (including sexual health), genetics, and criminal record.</p>
+
+<h3>Documentation provided by you</h3>
+
+<p>To process your visa application applicants may be required to provide copies or scans of a range of different types of documentation including: passports, IDs, resident cards, birth certificates, bank statements, letters of invitation, and parental authorization letters (regarding minors).</p>
+
+<h3>Device information</h3>
+
+<p>We collect information about users’ computers, tablets, phones, or any other devices which are used to visit our website. This information includes IP addresses, the user’s geographical location, and the operating system and browser. We also collect data about the user’s preferences and habits such as the number of times they have visited our website and the durations of the visits.</p>
+
+<h2>How information is used</h2>
+
+<p>application.evus.us uses the collected information for a range of purposes related to the services offered on this website. Users’ data may be used in the following ways:</p>
+
+<h3>To process your application</h3>
+
+<p>We use the information we collect on the application form to process your visa application. We share the information with the relevant authorities so they are able to grant you authorization to enter the country.</p>
+
+<h3>To communicate with you</h3>
+
+<p>To communicate with users it is necessary to use personal information. This allows us to answer questions, reply to emails, send email notifications regarding the statuses of applications, and to deal with requests.</p>
+
+<h3>To comply with the law</h3>
+
+<p>Sometimes, we are required by law to disclose personal information to comply with various legal obligations. We may need to share information when required to do so during times such as legal proceedings, audits, and investigations.</p>
+
+<h3>To improve our website and services</h3>
+
+<p>We analyze the data we collect using various programs in order to improve our website and the overall experience for our web users. This includes improving our services as well as the website.</p>
+
+<h3>Other purposes</h3>
+
+<p>Your personal information may be used to help improve security measures, to prevent fraudulent activity, and to verify your compliance with our Terms and Conditions and Cookie Policy.</p>
+
+<h2>How information is shared</h2>
+
+<p>application.evus.us does not share your personal information with third parties except in the following circumstances:</p>
+
+<h3>With governments and authorities</h3>
+
+<p>To process your visa application we share the information and the documentation you provide with the government. The government needs this data to either approve or deny the visa application.</p>
+
+<h3>With affiliate companies</h3>
+
+<p>application.evus.us is a global business which works with a number of affiliated companies. Information might be shared with our affiliate companies which operate in multiple countries. Your information may be shared with these companies and your information may be transferred between our own internal offices.</p>
+
+<h3>With third-party service providers</h3>
+
+<p>We use third-party service providers to perform certain functions on our behalf such as providing advertisements, processing credit card payments, analyzing the use of our website and user habits, and sending emails. We may share information with these third-party service providers but only the data which is essential to enable them to provide their service.</p>
+
+<h3>For legal purposes</h3>
+
+<p>We may disclose personal information about you when required to by law or regulations. This could include laws and regulations which apply within or outside your country of residence.</p>
+
+<p>We may need to disclose information in the following circumstances: to comply with legal process, to respond to requests from public authorities and officials, to enforce our terms and conditions or policies, to protect our operations and those of our affiliates, to protect our rights, privacy and safety, to allow us to pursue available legal remedies, or to limit the civil damages we may incur.</p>
+
+<h2>Managing and deleting your information</h2>
+
+<p>You have the right to request the deletion of your information or to request an electronic copy of your information. You can contact us at info@evus.us at any time to make a request.</p>
+
+<p>Please be aware that we cannot provide any information about other people and we cannot delete information which we are required to keep by law.</p>
+
+<h2>Security and Retention of Personal Information</h2>
+
+<p>application.evus.us follows high-security protocols and procedures in order to prevent loss, misuse, and alteration of data. Information is stored on firewall and password-protected servers and there are also physical security measures in place.</p>
+
+<p>We keep users’ data for a period of three years. After this period of time data is deleted. Our data retention policies ensure that we comply with legal obligations.</p>
+
+<p>Users acknowledge it is not the responsibility of application.evus.us to guarantee the security of sending information via the Internet.</p>
+
+<h2>Amendments to the Privacy Policy</h2>
+
+<p>Changes to this Privacy Policy can be made without prior notice. Any changes to this Privacy Policy will be applicable from the moment of its publication.</p>
+
+<p>It is the responsibility of each user to ensure that he or she is informed of the Privacy Policy terms at the moment of purchasing services or products from application.evus.us.</p>
+
+<h2>Third Party Websites</h2>
+
+<p>Our website may contain links to third-party websites which are not operated by us. application.evus.us is not responsible for the privacy policies of any linked third-party websites. If you click on any links to third-party websites we highly recommend that you carefully review their privacy policies before you provide them with any of your personal data.</p>
+
+<h2>Children’s data</h2>
+
+<p>application.evus.us only collects childrens’ data for the purpose of processing visa applications and providing related services. As we state in our Terms and Conditions, parents and guardians give us their consent to collect and use the data of minors by providing their data on the form.</p>
+
+<h2>Who we are and how you can contact us</h2>
+
+<p>application.evus.us belongs to GCL Internet Services, LLC, a private company which offers online visa application services. We help travelers with their applications and obtain visas from governments by providing expert assistance and guidance.</p>
+
+<p>Our Customer Service Team at application.evus.us is available 24/7, 365 days a year, and they can respond to any questions, queries, or doubts that you may have about applying online for a travel authorization through our website.</p>
+  </div>
+
+    </div>
+
+    <nav id="menu-basic" class="m-footer u-pad--t20">
+        <div class="container">
+            <div class="u-marg--b20 col-sm-5">
+                <div class="logo u-fl--left u-ssl-logo">
+            <a href="#" onclick=" window.open('https://sslanalyzer.comodoca.com/?url=https%3A%2F%2Fapplication.evus.us%2F','',' scrollbars=yes,menubar=no,width=700,height=500, resizable=yes,toolbar=no,location=top,top=200,status=no'); return false;">
+            <img src="/img/common/comodo_logo.png">
+        </a>
+    </div>                <div class="m-txt--footer">
+                    Your personal information is securely encrypted by Secure Sockets Layer (SSL) software                </div>
+            </div>
+            <div class="col-sm-7">
+                <ul class="list-inline" id="main-nav">
+                    <li id="menu-drop1" class="">
+                        <a href="https://application.evus.us/about" target="_blank">about us</a>
+                    </li>
+                    <li id="menu-drop2" class="">
+                        <a href="https://application.evus.us/visa-information" target="_blank">EVUS information</a>
+                    </li>
+                    <li id="menu-drop3" class="">
+                        <a href="https://application.evus.us/faq" target="_blank">FAQ</a>
+                    </li>
+                    <li id="menu-drop4" class="">
+                        <a href="https://application.evus.us/privacy" target="_blank">privacy policy</a>
+                    </li>
+                    <li id="menu-drop5" class="">
+                        <a href="https://application.evus.us/cookies" target="_blank">cookies</a>
+                    </li>
+                    <li id="menu-drop6" class="">
+                        <a href="https://application.evus.us/refund" target="_blank">refund policy</a>
+                    </li>
+                    <li id="menu-drop7" class="">
+                        <a href="https://application.evus.us/terms" target="_blank">terms &amp; conditions</a>
+                    </li>
+                </ul>
+
+            </div>
+
+    </div>
+        <div class="container">
+            <div class="m-flex--cent">
+    <div class="col-lg-1 col-sm-1 col-xs-3 text-center u-pad--tb10">
+        <img src="/img/common/payment/logos/visa.png" alt="We accept Visa" title="Visa">
+    </div>
+    <div class="col-lg-1 col-sm-1 col-xs-3 text-center u-pad--tb10">
+        <img src="/img/common/payment/logos/mastercard.png" alt="We accept Mastercard" title="Mastercard">
+    </div>
+    <div class="col-lg-1 col-sm-1 col-xs-3 text-center u-pad--tb10">
+        <img src="/img/common/payment/logos/american-express.png" alt="We accept American Express" title="American Express">
+    </div>
+    <div class="col-lg-1 col-sm-1 col-xs-3 text-center u-pad--tb10">
+        <img src="/img/common/payment/logos/maestro.png" alt="We accept Maestro" title="Maestro">
+    </div>
+    <div class="col-lg-1 col-sm-1 col-xs-3 text-center u-pad--tb10">
+        <img src="/img/common/payment/logos/jbc.png" alt="We accept JCB" title="JCB">
+    </div>
+    <div class="col-lg-1 col-sm-1 col-xs-3 text-center u-pad--tb10">
+        <img src="/img/common/payment/logos/discover.png" alt="We accept Discover" title="Discover">
+    </div>
+    <div class="col-lg-1 col-sm-1 col-xs-3 text-center u-pad--tb10">
+        <img src="/img/common/payment/logos/diners.png" alt="We accept Diners Club" title="Diners Club">
+    </div>
+                    <div class="col-lg-1 col-sm-1 col-xs-3 text-center u-pad--tb10">
+        <img src="/img/common/payment/logos/union-pay.png" alt="We accept UnionPay" title="UnionPay">
+    </div>
+</div>        </div>
+    </nav>
+
+<div class="m-box-row m-box--bgcolor-13 m-txt--color-9 footer">
+    <div class="container">
+        <p class="u-tac">
+            Legal Disclaimer: application.evus.us is not affiliated with the EVUS Government.
+        </p>
+        <p class="u-tac">© <img src="https://application.evus.us/text_images/a30e4f447339d5a1b4ccdf1d799625fc8847d7000.png"> <img src="https://application.evus.us/text_images/aac528aef273307985519c7cff5fa2dec40731260.png"> <img src="https://application.evus.us/text_images/04859214bdfccb1a6dc42c3d5b5392422609a3450.png"></p>
+    </div>
+</div>
+
+    <form name="ignore_me">
+        <input type="hidden" id="page_is_dirty" name="page_is_dirty" value="0">
+    </form>
+    <!--//BLOQUE COOKIES-->
+<div id="CookieAccept" class="m-cookies-policy">
+    <div class="inner">
+       <p>
+           By using our website you accept our Cookies Policy. <a href="https://application.evus.us/cookies">Click here</a> to know more.
+           <a href="javascript:void(0);" class="cookieAccept" onclick="PonerCookie();">I agree</a>
+       </p>
+    </div>
+</div>    <script>
+    var countries_isocode = {
+    'AF': "Afghanistan",
+    'AX': "Aland Islands",
+    'AL': "Albania",
+    'DZ': "Algeria",
+    'AS': "American Samoa",
+    'AD': "Andorra",
+    'AO': "Angola",
+    'AI': "Anguilla",
+    'AQ': "Antarctica",
+    'AG': "Antigua And Barbuda",
+    'AR': "Argentina",
+    'AM': "Armenia",
+    'AW': "Aruba",
+    'AU': "Australia",
+    'AT': "Austria",
+    'AZ': "Azerbaijan",
+    'BS': "Bahamas",
+    'BH': "Bahrain",
+    'BD': "Bangladesh",
+    'BB': "Barbados",
+    'BY': "Belarus",
+    'BE': "Belgium",
+    'BZ': "Belize",
+    'BJ': "Benin",
+    'BM': "Bermuda",
+    'BT': "Bhutan",
+    'BO': "Bolivia",
+    'BA': "Bosnia And Herzegovina",
+    'BW': "Botswana",
+    'BV': "Bouvet Island",
+    'BR': "Brazil",
+    'IO': "British Indian Ocean Territory",
+    'BN': "Brunei Darussalam",
+    'BG': "Bulgaria",
+    'BF': "Burkina Faso",
+    'BI': "Burundi",
+    'KH': "Cambodia",
+    'CM': "Cameroon",
+    'CA': "Canada",
+    'CV': "Cape Verde",
+    'KY': "Cayman Islands",
+    'CF': "Central African Republic",
+    'TD': "Chad",
+    'CL': "Chile",
+    'CN': "China",
+    'CX': "Christmas Island",
+    'CC': "Cocos (Keeling) Islands",
+    'CO': "Colombia",
+    'KM': "Comoros",
+    'CG': "Congo",
+    'CD': "Congo, Democratic Republic",
+    'CK': "Cook Islands",
+    'CR': "Costa Rica",
+    'CI': "Cote D'Ivoire",
+    'HR': "Croatia",
+    'CU': "Cuba",
+    'CW': "Curacao",
+    'CY': "Cyprus",
+    'CZ': "Czech Republic",
+    'DK': "Denmark",
+    'DJ': "Djibouti",
+    'DM': "Dominica",
+    'DO': "Dominican Republic",
+    'EC': "Ecuador",
+    'EG': "Egypt",
+    'SV': "El Salvador",
+    'GQ': "Equatorial Guinea",
+    'ER': "Eritrea",
+    'EE': "Estonia",
+    'ET': "Ethiopia",
+    'FK': "Falkland Islands (Malvinas)",
+    'FO': "Faroe Islands",
+    'FJ': "Fiji",
+    'FI': "Finland",
+    'FR': "France",
+    'GF': "French Guiana",
+    'PF': "French Polynesia",
+    'TF': "French Southern Territories",
+    'GA': "Gabon",
+    'GM': "Gambia",
+    'GE': "Georgia",
+    'DE': "Germany",
+    'GH': "Ghana",
+    'GI': "Gibraltar",
+    'GR': "Greece",
+    'GL': "Greenland",
+    'GD': "Grenada",
+    'GP': "Guadeloupe",
+    'GU': "Guam",
+    'GT': "Guatemala",
+    'GG': "Guernsey",
+    'GN': "Guinea",
+    'GW': "Guinea-Bissau",
+    'GY': "Guyana",
+    'HT': "Haiti",
+    'HM': "Heard Island & Mcdonald Islands",
+    'VA': "Holy See (Vatican City State)",
+    'HN': "Honduras",
+    'HK': "Hong Kong",
+    'HU': "Hungary",
+    'IS': "Iceland",
+    'IN': "India",
+    'ID': "Indonesia",
+    'IR': "Iran, Islamic Republic of",
+    'IQ': "Iraq",
+    'IE': "Ireland",
+    'IM': "Isle of Man",
+    'IL': "Israel",
+    'IT': "Italy",
+    'JM': "Jamaica",
+    'JP': "Japan",
+    'JE': "Jersey",
+    'JO': "Jordan",
+    'KZ': "Kazakhstan",
+    'KE': "Kenya",
+    'KI': "Kiribati",
+    'KR': "Korea",
+    'KP': "Korea DPR",
+    'KW': "Kuwait",
+    'KG': "Kyrgyzstan",
+    'LA': "Lao People's Democratic Republic",
+    'LV': "Latvia",
+    'LB': "Lebanon",
+    'LS': "Lesotho",
+    'LR': "Liberia",
+    'LY': "Libyan Arab Jamahiriya",
+    'LI': "Liechtenstein",
+    'LT': "Lithuania",
+    'LU': "Luxembourg",
+    'MO': "Macao",
+    'MK': "Macedonia",
+    'MG': "Madagascar",
+    'MW': "Malawi",
+    'MY': "Malaysia",
+    'MV': "Maldives",
+    'ML': "Mali",
+    'MT': "Malta",
+    'MH': "Marshall Islands",
+    'MQ': "Martinique",
+    'MR': "Mauritania",
+    'MU': "Mauritius",
+    'YT': "Mayotte",
+    'MX': "Mexico",
+    'FM': "Micronesia, Federated States of",
+    'MD': "Moldova",
+    'MC': "Monaco",
+    'MN': "Mongolia",
+    'ME': "Montenegro",
+    'MS': "Montserrat",
+    'MA': "Morocco",
+    'MZ': "Mozambique",
+    'MM': "Myanmar",
+    'NA': "Namibia",
+    'NR': "Nauru",
+    'NP': "Nepal",
+    'NL': "Netherlands",
+    'AN': "Netherlands Antilles",
+    'NC': "New Caledonia",
+    'NZ': "New Zealand",
+    'NI': "Nicaragua",
+    'NE': "Niger",
+    'NG': "Nigeria",
+    'NU': "Niue",
+    'NF': "Norfolk Island",
+    'MP': "Northern Mariana Islands",
+    'NO': "Norway",
+    'OM': "Oman",
+    'PK': "Pakistan",
+    'PW': "Palau",
+    'PS': "Palestinian Territory, Occupied",
+    'PA': "Panama",
+    'PG': "Papua New Guinea",
+    'PY': "Paraguay",
+    'PE': "Peru",
+    'PH': "Philippines",
+    'PN': "Pitcairn",
+    'PL': "Poland",
+    'PT': "Portugal",
+    'PR': "Puerto Rico",
+    'QA': "Qatar",
+    'RE': "Reunion",
+    'RO': "Romania",
+    'RU': "Russian Federation",
+    'RW': "Rwanda",
+    'BL': "Saint Barthelemy",
+    'SH': "Saint Helena",
+    'KN': "Saint Kitts and Nevis",
+    'LC': "Saint Lucia",
+    'MF': "Saint Martin",
+    'PM': "Saint Pierre and Miquelon",
+    'VC': "Saint Vincent and the Grenadines",
+    'WS': "Samoa",
+    'SM': "San Marino",
+    'ST': "Sao Tome and Principe",
+    'SA': "Saudi Arabia",
+    'SN': "Senegal",
+    'RS': "Serbia",
+    'SC': "Seychelles",
+    'SL': "Sierra Leone",
+    'SG': "Singapore",
+    'SK': "Slovakia",
+    'SI': "Slovenia",
+    'SB': "Solomon Islands",
+    'SO': "Somalia",
+    'ZA': "South Africa",
+    'GS': "South Georgia And Sandwich Isl.",
+    'ES': "Spain",
+    'LK': "Sri Lanka",
+    'SD': "Sudan",
+    'SR': "Suriname",
+    'SJ': "Svalbard and Jan Mayen",
+    'SZ': "Swaziland",
+    'SE': "Sweden",
+    'CH': "Switzerland",
+    'SY': "Syrian Arab Republic",
+    'TW': "Taiwan",
+    'TJ': "Tajikistan",
+    'TZ': "Tanzania",
+    'TH': "Thailand",
+    'TL': "Timor-Leste",
+    'TG': "Togo",
+    'TK': "Tokelau",
+    'TO': "Tonga",
+    'TT': "Trinidad and Tobago",
+    'TN': "Tunisia",
+    'TR': "Turkey",
+    'TM': "Turkmenistan",
+    'TC': "Turks and Caicos Islands",
+    'TV': "Tuvalu",
+    'UG': "Uganda",
+    'UA': "Ukraine",
+    'AE': "United Arab Emirates",
+    'GB': "United Kingdom",
+    'US': "United States",
+    'UM': "United States Outlying Islands",
+    'UY': "Uruguay",
+    'UZ': "Uzbekistan",
+    'VU': "Vanuatu",
+    'VE': "Venezuela",
+    'VN': "Vietnam",
+    'VG': "Virgin Islands, British",
+    'VI': "Virgin Islands, U.S.",
+    'WF': "Wallis And Futuna",
+    'EH': "Western Sahara",
+    'YE': "Yemen",
+    'ZM': "Zambia",
+    'ZW': "Zimbabwe",
+};
+
+var prefix_countries = {
+    "BD": "880",
+    "BE": "32", "BF": "226", "BG": "359", "BA": "387", "BB": "1246", "WF": "681", "BL": "590", "BM": "1441", "BN": "673", "BO": "591", "BH": "973", "BI": "257", "BJ": "229", "BT": "975", "JM": "1876", "BV": "", "BW": "267", "WS": "685", "BQ": "599", "BR": "55", "BS": "1242", "JE": "441534", "BY": "375", "BZ": "501", "RU": "7", "RW": "250", "RS": "381", "TL": "670", "RE": "262", "TM": "993", "TJ": "992", "RO": "40", "TK": "690", "GW": "245", "GU": "1671", "GT": "502", "GS": "", "GR": "30", "GQ": "240", "GP": "590", "JP": "81", "GY": "592", "GG": "441481", "GF": "594", "GE": "995", "GD": "1473", "GB": "44", "GA": "241", "SV": "503", "GN": "224", "GM": "220", "GL": "299", "GI": "350", "GH": "233", "OM": "968", "TN": "216", "JO": "962", "HR": "385", "HT": "509", "HU": "36", "HK": "852", "HN": "504", "HM": " ", "VE": "58", "PR": "1787", "PS": "970", "PW": "680", "PT": "351", "SJ": "47", "PY": "595", "IQ": "964", "PA": "507", "PF": "689", "PG": "675", "PE": "51", "PK": "92", "PH": "63", "PN": "870", "PL": "48", "PM": "508", "ZM": "260", "EH": "212", "EE": "372", "EG": "20", "ZA": "27", "EC": "593", "IT": "39", "VN": "84", "SB": "677", "ET": "251", "SO": "252", "ZW": "263", "SA": "966", "ES": "34", "ER": "291", "ME": "382", "MD": "373", "MG": "261", "MF": "590", "MA": "212", "MC": "377", "UZ": "998", "MM": "95", "ML": "223", "MO": "853", "MN": "976", "MH": "692", "MK": "389", "MU": "230", "MT": "356", "MW": "265", "MV": "960", "MQ": "596", "MP": "1670", "MS": "1664", "MR": "222", "IM": "441624", "UG": "256", "TZ": "255", "MY": "60", "MX": "52", "IL": "972", "FR": "33", "IO": "246", "SH": "290", "FI": "358", "FJ": "679", "FK": "500", "FM": "691", "FO": "298", "NI": "505", "NL": "31", "NO": "47", "NA": "264", "VU": "678", "NC": "687", "NE": "227", "NF": "672", "NG": "234", "NZ": "64", "NP": "977", "NR": "674", "NU": "683", "CK": "682", "XK": "", "CI": "225", "CH": "41", "CO": "57", "CN": "86", "CM": "237", "CL": "56", "CC": "61", "CA": "1", "CG": "242", "CF": "236", "CD": "243", "CZ": "420", "CY": "357", "CX": "61", "CR": "506", "CW": "599", "CV": "238", "CU": "53", "SZ": "268", "SY": "963", "SX": "599", "KG": "996", "KE": "254", "SS": "211", "SR": "597", "KI": "686", "KH": "855", "KN": "1869", "KM": "269", "ST": "239", "SK": "421", "KR": "82", "SI": "386", "KP": "850", "KW": "965", "SN": "221", "SM": "378", "SL": "232", "SC": "248", "KZ": "7", "KY": "1345", "SG": "65", "SE": "46", "SD": "249", "DO": "1809", "DM": "1767", "DJ": "253", "DK": "45", "VG": "1284", "DE": "49", "YE": "967", "DZ": "213", "US": "1", "UY": "598", "YT": "262", "UM": "1", "LB": "961", "LC": "1758", "LA": "856", "TV": "688", "TW": "886", "TT": "1868", "TR": "90", "LK": "94", "LI": "423", "LV": "371", "TO": "676", "LT": "370", "LU": "352", "LR": "231", "LS": "266", "TH": "66", "TF": "", "TG": "228", "TD": "235", "TC": "1649", "LY": "218", "VA": "379", "VC": "1784", "AE": "971", "AD": "376", "AG": "1268", "AF": "93", "AI": "1264", "VI": "1340", "IS": "354", "IR": "98", "AM": "374", "AL": "355", "AO": "244", "AQ": "672", "AS": "1684", "AR": "54", "AU": "61", "AT": "43", "AW": "297", "IN": "91", "AX": "35818", "AZ": "994", "IE": "353", "ID": "62", "UA": "380", "QA": "974", "MZ": "258"}
+
+</script>    
+        <!-- build:js scripts/main.js -->
+        <script src="/scripts/evus/minify/site1/scripts.js?rel=1559724091863"></script>
+        <script src="/vendor/parsleyjs/dist/i18n/en.js?rel=1559724091863"></script>
+
+        <!-- endbuild -->
+
+                    <script name="baidu-koubei-verification" src="//ikoubei.baidu.com/embed/6e0a4ea2e3a355fb47332548ab53a0f0" async="" defer=""></script>
+        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8c302b88fe","applicationID":"263007950","transactionName":"Zl0GNxMHXUVRVEwIXV8XJQAVD1xYH0dKCERQWx0=","queueTime":0,"applicationTime":41,"atts":"ShoFQVsdTks=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+    
+</body></html>
