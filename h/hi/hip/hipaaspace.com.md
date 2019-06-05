@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipaaspace.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124134449id_/http%3A//www.hipaaspace.com/content/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipaaspace.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605044436id_/https%3A//www.hipaaspace.com/content/privacy_policy.html) for the most accurate reproduction.*
 
 # HIPAASpace Privacy Policy
 
@@ -98,5 +98,5 @@ Please note that this Privacy Policy may change from time to time. Regardless, w
 
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site. 
 
-Copyright © 2007-2018 (Powered by Swiss Vault Engine), all rights reserved. HIPAA liability, trademark, document use and software licensing rules apply. All registered trademarks, used in the content, are the property of their owners. Your interactions with this site are in accordance with our Terms of Use and Privacy Policy. 
+Copyright © 2007-2019 (Powered by Swiss Vault Engine), all rights reserved. HIPAA liability, trademark, document use and software licensing rules apply. All registered trademarks, used in the content, are the property of their owners. Your interactions with this site are in accordance with our Terms of Use and Privacy Policy. 
   *[Swiss Vault Engine]: Swiss Vault Engine
