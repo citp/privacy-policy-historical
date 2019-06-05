@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callmylostphone.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228153814id_/http%3A//callspin.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callmylostphone.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605143825id_/http%3A//callspin.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CallSpin.com
 
