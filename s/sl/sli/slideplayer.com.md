@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideplayer.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017021444id_/https%3A//slideplayer.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideplayer.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605190536id_/https%3A//slideplayer.com/support/privacy) for the most accurate reproduction.*
 
 # SlidePlayer - Upload and Share your PowerPoint presentations
 
