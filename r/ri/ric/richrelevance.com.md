@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richrelevance.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201093529id_/https%3A//www.richrelevance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richrelevance.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605145030id_/https%3A//www.richrelevance.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RichRelevance
 
@@ -29,7 +29,7 @@ Under certain conditions, more fully described on the Privacy Shield website <h
 
 “Personal Information” means individually identifiable information that would allow a party to identify you or to contact you (online or offline). This type of information may include, for example, your name, address, telephone number, or email address. Certain Customers of ours (such as our retail business partners) provide us email addresses that they have obtained from you with your consent for the sole purpose of enabling us to personalize emails from those Customers to you using our product recommendation services. Accordingly, we may transfer personal information to companies that help us provide our service but we will not disclose such Personal Information to any third party unless specifically and rightfully instructed or directed to do so by Customer, and will not otherwise share, disclose, rent, or sell any such Personal Information except as requested or directed by Customer or as we believe may be required by law or to otherwise protect our legal rights. Transfers to subsequent third parties, if any, are covered by the service agreements with our Customers. If you would no longer like to be contacted by one of our Customers that use our Services, please contact our Customer that you interact with directly.
 
-**EXCEPT FOR THE LIMITED COLLECTION AND USE OF EMAIL ADDRESSES, WE DO NOT COLLECT PERSONAL INFORMATION THROUGH OUR SERVICES**
+ **EXCEPT FOR THE LIMITED COLLECTION AND USE OF EMAIL ADDRESSES, WE DO NOT COLLECT PERSONAL INFORMATION THROUGH OUR SERVICES**
 
 #### Cookies and Tracking Technology
 
@@ -131,6 +131,6 @@ RichRelevance, Inc.
 415 956-1947  
 [privacy@richrelevance.com](mailto:privacy@richrelevance.com?subject=RichRelevance%20Privacy%20Policy).
 
-**Effective Date:   June 6, 2018**
+ **Effective Date:   June 6, 2018**
 
 RichRelevance products are licensed under U.S. Patent No. 6,330,592.
