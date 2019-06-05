@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wikilovesmonuments.org.uk privacy policy that was archived on 2018-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180807204035id_/https%3A//www.wikilovesmonuments.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikilovesmonuments.org.uk privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605200003id_/https%3A//www.wikilovesmonuments.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - WIKI LOVES MONUMENTS UK
 
 ## Who we are
 
-Wiki Loves Monuments is an international volunteer-led photographic contest.  This website is maintained in support of the UK section of the contest. It is hosted by Wikimedia UK, a UK charity. The website address is: http://www.wikilovesmonuments.org.uk.
+Wiki Loves Monuments is an international volunteer-led photographic contest.  This website is maintained in support of the UK section of the contest. It is hosted by Wikimedia UK, a UK charity. The website address is: https://www.wikilovesmonuments.org.uk.
 
 ## What personal data we collect and why we collect it
 
