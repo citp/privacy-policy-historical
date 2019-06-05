@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the tmp.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905004715id_/https%3A//www.tmp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmp.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605165355id_/http%3A//www.tmp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - TMP Worldwide
 
-Effective Date: October 3, 2017
+Effective Date: October 2, 2018
 
 TMP Worldwide Advertising & Communications, LLC (“TMP Worldwide”) is committed to respecting the privacy of those who visit this site. Any online data collection from emails and forms submitted by you will only be used in the normal course of business to help us contact you and provide solutions to your challenges. This privacy policy describes how TMP Worldwide collects and uses any personal information you may provide on our web site, [www.tmp.com](https://www.tmp.com/),and via TMP Worldwide's TalentBrew Platform. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged TMP Worldwide. Information being gathered via the TalentBrew Platform may also be subject to the privacy policy of the individual client, which may be accessed directly from the site maintained on such client’s behalf.
 
 ## Privacy Shield Certification
+
+To facilitate our operations, we may transfer, store and process your personal information in jurisdictions other than where you live, including in the United States. Laws in these countries may differ from the laws applicable to your country of residence. For instance, if you are a European Economic Area (EEA) data subject and your personal information is shared with our affiliates, partners, or third-party service providers acting on our behalf outside of the EEA, then it is done so pursuant to necessary means to ensure an adequate level of protection.
 
 TMP Worldwide and its affiliates adhere to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework TMP Worldwide has certified its compliance therewith. TMP Worldwide is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
@@ -78,7 +80,7 @@ We will retain personal data we process on behalf of our clients for as long as 
 
 ## User Access and Choice
 
-Upon request, TMP Worldwide will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete, or deactivate it by making the change on our member information page or by emailing our Customer Support at [tbsupport@tmp.com](mailto:tbsupport@tmp.com). We will respond to your request to access personal information within thirty (30) days.
+Upon request, TMP Worldwide will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. You have the right to amend or update inaccurate or incomplete personal information, request deletion of your personal information, or request that we no longer use it. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete, or deactivate it by making the change on our member information page or by emailing our Customer Support at [tbsupport@tmp.com](mailto:tbsupport@tmp.com). We will respond to your request to access personal information within thirty (30) days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements or as otherwise provided in the privacy policy of our client on whose behalf your information was provided.
 
