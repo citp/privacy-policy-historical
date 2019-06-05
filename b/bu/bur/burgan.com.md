@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the burgan.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106233603id_/http%3A//www.burgan.com/SitePages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burgan.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605051231id_/http%3A//www.burgan.com/aboutus/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# Burgan Bank Kuwait - privacy
+# Privacy
 
-**Protecting your Privacy** ** **
-
-Protecting your privacy, along with your financial assets, is at the core of our business. You have chosen to do business with us, and we recognize our obligation to keep the information you provide to us secure and confidential.   
+​​​Protecting your privacy, along with your financial assets, is at the core of our business. You have chosen to do business with us, and we recognize our obligation to keep the information you provide to us secure and confidential.   
 
 
 Our commitment to protect your financial information will continue under the principles and online guidelines described below.
@@ -13,7 +11,7 @@ Keeping your information secure
 
 Keeping your financial information secure is one of our most important responsibilities. We value your trust and handle your information with care. Our employees access information about you when needed to maintain your accounts or otherwise meet your needs. We may also access information about you when considering a request from you for additional services or when exercising our rights under the law or any agreement with you. 
 
-We safeguard information according to established security standards and procedures, and we continually assess new technology for protecting information. Our employees are trained to understand and comply with these information principles.
+​​ We safeguard information according to established security standards and procedures, and we continually assess new technology for protecting information. Our employees are trained to understand and comply with these information principles.
 
 Consolidation Sites
 
@@ -29,7 +27,7 @@ If we receive a subpoena or similar legal process demanding release of any infor
 
 Certain information, such as trust and fiduciary information, is subject to very strict limitations regarding the sharing of information, both internally and externally.
 
-**Online Privacy Guidelines**
+ ** Online Privacy Guidelines**
 
 Protecting information online
 
@@ -57,4 +55,6 @@ Count on our commitment to your privacy
 
 You can count on us to keep you informed about how we protect your privacy and limit the sharing of information you provide to us - whether it's at a banking center, over the phone or through the Internet. 
 
-Please note that since we cannot control information on other Internet sites, we are not responsible for the content of sites linked from [www.Burgan.com](https://web.archive.org/).
+Please note that since we cannot control information on other Internet sites, we are not responsible for the content of sites linked from www.Burgan.com.
+
+​
