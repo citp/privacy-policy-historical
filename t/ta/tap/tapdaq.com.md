@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapdaq.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830060645id_/https%3A//tapdaq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapdaq.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605102015id_/https%3A//www.tapdaq.com/privacy-policy) for the most accurate reproduction.*
 
 # Tapdaq | Privacy Policy
 
@@ -26,7 +26,7 @@ We are not responsible for the misuse of your account or information where you h
 
 We collect Personal Information about you when you visit our website, when you register with us, use our Services, download our Tapdaq SDK, answer our questions or provide feedback. We may also record our communications with you.
 
-## If you are a Publisher:
+ **If you are a Publisher:**
 
 We collect Personal Information that you provide to us when you register and open an account: This includes your full name, email address, company name, company website, username, password, Network account keys, business address, App name and App details and any other information that you supply to us.
 
@@ -38,7 +38,7 @@ If you are a Publisher, Tapdaq may collect data (some of which may be anonymous 
 
 This legal basis for this processing is for the performance of a contract; or it is in our legitimate business interests.
 
-## If you are a User:
+ **If you are a User:**
 
 Whenever you interact with Apps that use our Services, we automatically record information from your device. This includes your device information (such as UDID, IDFA, device type and settings), IP address, OS and OS version, country, and your in- App user activity (" **Device Information** "). The user activity information we collect includes the number of times you open an app in a given period and the length of time the app is used at each boot up. We collect this information so that we are able to provide Ad Networks and Publishers with aggregated, anonymous usage reports so they can monitor the effectiveness of our Services.
 
@@ -65,7 +65,7 @@ We use the information you give to us to make our Services the best possible exp
 
 The legal basis for this processing is our legitimate business interests.
 
-## In addition, for Publishers, we may use your information to:
+ **In addition, for Publishers, we may use your information to:**
 
   * facilitate and optimise the buying and selling of advertisements between Ad Networks and Publishers;
 
@@ -88,7 +88,7 @@ Our legal bases for such use is either the performance of a contract we have wit
 
 Ad Networks and Publishers may also use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third party’s specific privacy policy, not this one, because Tapdaq does not use any of these methods itself.
 
-## Opting Out
+ **Opting Out**
 
 If you do not want to receive interest-based ads, you can opt out from having your device data processed by changing your privacy settings. As tracking mechanisms operate at the device level, to fully opt-out across devices, you will need to do so on each device and browser individually.
 
@@ -98,9 +98,9 @@ On Android, navigate to ‘ _Google Settings_ ’, then _‘Ads’_. On this scr
 
 In some cases, the Publisher will ask for your consent in order to show you personalised ads. In these cases, please refer to the Publisher’s privacy policy.
 
-  *  **If you *** _do not_ *** opt out** : Ad Networks may use your Personal Information to give you a more personalised advertising experience. Please refer to the privacy policy of the App you are viewing for more details.
+  *  **If you **** do not **** opt out** : Ad Networks may use your Personal Information to give you a more personalised advertising experience. Please refer to the privacy policy of the App you are viewing for more details.
 
-  *  **If you *** _do_ *** opt out** : Tapdaq will pass this opt- out on to the Ad Networks so that they will no longer serve you with personalised content recommendations, but you will receive the same number of advertisements.
+  *  **If you **** do **** opt out** : Tapdaq will pass this opt- out on to the Ad Networks so that they will no longer serve you with personalised content recommendations, but you will receive the same number of advertisements.
 
 
 
@@ -175,7 +175,7 @@ Tapdaq only uses essential cookies on its website.
 
 (So you know, Ad Networks and Publishers may place cookies on a User’s device. Users should check the relevant App Publisher’s privacy policy for more details.)
 
-If you want to use sites without cookies or would like to know more, visit[ www.aboutcookies.org](http://www.aboutcookies.org/) or[ www.allaboutcookies.org](http://www.allaboutcookies.org/). You can set your browser not to accept cookies (we’ve given instructions on how to do this at section 5 above) and the above websites tell you how to remove cookies from your browser. However, in a few cases, some of the features of our Services may not function as a result.
+If you want to use sites without cookies or would like to know more, visit[ www.aboutcookies.org](http://www.aboutcookies.org/) or [ www.allaboutcookies.org](http://www.allaboutcookies.org/). You can set your browser not to accept cookies (we’ve given instructions on how to do this at section 5 above) and the above websites tell you how to remove cookies from your browser. However, in a few cases, some of the features of our Services may not function as a result.
 
 ## 11\. Does this Privacy Policy apply to services, apps or websites provided by other companies?
 
@@ -185,13 +185,13 @@ Our Website may contain links to other Apps or websites. This Privacy Policy app
 
 You must be 18 years or over to use the Tapdaq Services. Should we discover that any Personal Information has been collected from an individual under the age of 18, we will promptly delete it.
 
-Our Acceptable Use Policy (as set out in the Terms and Conditions) requires that Publishers and Ad Networks using the Services will not target any advertisements at children under 16 years of age and will not transfer any Personal Information about or relating to an individual under the age of 16 to Tapdaq. If however, you believe that a child under 16 has registered with us or that you have transferred a child’s Personal Information to us, please contact us and we will use our reasonable endeavours to delete such data from our records.
+Our Acceptable Use Policy (as set out in the Terms and Conditions) requires that Publishers and Ad Networks using the Services will not target any advertisements at children under 13 years of age (or otherwise applicable local minimum age if greater) and will not transfer any Personal Information about or relating to an individual under the age of 13 (or otherwise applicable local minimum age if greater) to Tapdaq. If however, you believe that a child under 13 years of age (or otherwise applicable local minimum age if greater) has registered with us or that you have transferred a child’s Personal Information to us, please contact us and we will use our reasonable endeavours to delete such data from our records.
 
 ## 13\. Changes to our privacy policy
 
 We review our Privacy Policy regularly and we will update this page. The last date that changes were made is notified below. When we make changes to our Privacy Policy, we may notify you by posting an announcement on our Service or sending you an email. You are bound by any changes to our Privacy Policy when you use our Service after you are notified of these changes.
 
-Please contact us if you have any questions about information we hold about you or about our [Privacy Policy](https://web.archive.org/privacy-policy) by using the email address: privacy@tapdaq.com .
+Please contact us if you have any questions about information we hold about you or about our [Privacy Policy](https://web.archive.org/privacy-policy) by using the email address: privacy@tapdaq.com.
 
 We are registered with the Information Commissioner’s Office with registration number: ZA215530.
 
@@ -217,4 +217,4 @@ We are registered with the Information Commissioner’s Office with registration
 
 Any words following the terms " **including"** , " **include"** , " **in particular"** , “ **for example”** or any similar expression shall be construed as illustrative and shall not limit the sense of the words, description, definition, phrase or term preceding those terms.
 
-This Privacy Policy was last updated on 17 July 2018.
+This Privacy Policy was last updated on 22nd November 2018.
