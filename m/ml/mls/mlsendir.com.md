@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mlsendir.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103194453id_/https%3A//www.mailerlite.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsendir.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605215729id_/https%3A//www.mailerlite.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MailerLite
 
 At MailerLite, protecting your privacy and the privacy of anyone receiving your email is very important to us. The purpose of this Privacy Policy is to make MailerLite safe and appropriate for everyone. Our Privacy Policy applies to your use of MailerLite’s Services and describes the kind of information we process, how it is processed and why.
 
-We are a Lithuanian private limited liability company (UAB “MailerLite”, Paupio st. 46, LT-11341 Vilnius, Lithuania). We provide email marketing and automation software as a service. We process Personal Data as a Processor on behalf of the Customer.
+We are a Lithuanian private limited liability company (UAB “MailerLite”, J. Basanavičiaus 15, LT-03108 Vilnius, Lithuania). We provide email marketing and automation software as a service. We process Personal Data as a Processor on behalf of the Customer.
 
 #### 1\. Definitions
 
@@ -31,7 +31,7 @@ We are a Lithuanian private limited liability company (UAB “MailerLite”, Pau
 #### 2\. Consent  
 
 
-By accessing our Services, you accept our Privacy Policy and TOS, and you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. In addition, by using our Services you are accepting the policies and practices described in this Privacy Policy. Each time you visit our website or use the Service, and any time you voluntarily provide us with information, you agree that you are consenting to our collection, use and disclosure of the information that you provide, and you are consenting to receive emails or otherwise be contacted, as described in this Privacy Policy. Whether or not you register or create an account with us, this Privacy Policy applies to all users of the website and the Services.
+By accessing our Services, you accept our Privacy Policy and TOS, and you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. In addition, by using our Services you are accepting the policies and practices described in this Privacy Policy. Each time you visit our website or use mobile app or the Service, and any time you voluntarily provide us with information, you agree that you are consenting to our collection, use and disclosure of the information that you provide, and you are consenting to receive emails or otherwise be contacted, as described in this Privacy Policy. Whether or not you register or create an account with us, this Privacy Policy applies to all users of the website, mobile app and the Services.
 
 #### 3\. What information we Process
 
