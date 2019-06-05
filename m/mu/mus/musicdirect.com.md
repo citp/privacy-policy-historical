@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musicdirect.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731131747id_/https%3A//www.musicdirect.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicdirect.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605080222id_/https%3A//www.musicdirect.com/Privacy) for the most accurate reproduction.*
 
-# Music Direct | Vinyl Records, Turntables, Audiophile Equipment & Accessories
+# Music Direct | Vinyl Records, Turntables, High End Audio Equipment & Accessories
 
 Music Direct is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Music Direct Web site and governs data collection and usage. By using the Music Direct website, you consent to the data practices described in this statement.
 
@@ -38,10 +38,12 @@ Security of your Personal Information
 
 Music Direct secures your personal information from unauthorized access, use or disclosure. Music Direct secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
+**California Privacy:** Orders placed from California comply with California collection and use of personally identifiable information laws.
+
 Changes to this Statement
 
 Music Direct will occasionally update this Statement of Privacy to reflect company and customer feedback. Music Direct encourages you to periodically review this Statement to be informed of how Music Direct is protecting your information.
 
 Contact Information
 
-Music Direct welcomes your comments regarding this Statement of Privacy. If you believe that Music Direct has not adhered to this Statement, please contact Music Direct at [no-reply@musicdirect.com](mailto:no-reply@musicdirect.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Music Direct welcomes your comments regarding this Statement of Privacy. If you believe that Music Direct has not adhered to this Statement, please contact Music Direct at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4e2021633c2b3e22370e233b3d272d2a273c2b2d3a602d2123). We will use commercially reasonable efforts to promptly determine and remedy the problem.
