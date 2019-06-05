@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the metv.com privacy policy that was archived on 2018-09-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180928151002id_/https%3A//metv.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metv.com privacy policy that was archived on 2019-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190605022340id_/https%3A//www.metv.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<!-- Google Fonts -->
@@ -7,7 +7,7 @@
         <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,600,700,800" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Lilita+One" rel="stylesheet">
 
-        <base href="//metv.com/">
+        <base href="//www.metv.com/">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <title>Privacy Policy</title>
@@ -16,7 +16,7 @@
                         <meta name="og:title" property="og:title" content="Privacy Policy">
 		<meta name="og:description" property="og:description" content="">
 		<meta name="og:type" property="og:type" content="website">
-		<meta name="og:url" property="og:url" content="//metv.com/privacy-policy/">
+		<meta name="og:url" property="og:url" content="//www.metv.com/privacy-policy/">
 		<meta name="og:image" property="og:image" content="https://metvcdn.metv.com/Ohluq-1521740808-112-uploader-ContactMe_1200x628_02.jpg">
 		<link rel="image_src" href="https://metvcdn.metv.com/Ohluq-1521740808-112-uploader-ContactMe_1200x628_02.jpg">
 		<meta name="og:site_name" property="og:site_name" content="Me-TV Network">
@@ -25,7 +25,7 @@
                     
         
         <link rel="stylesheet" href="/css/normalize.css" media="screen">
-        <link rel="stylesheet" href="/css/style.css?v88" media="screen">
+        <link rel="stylesheet" href="/css/style.css?v95.1" media="screen">
                 <!--
         <link rel="stylesheet" href="https://metvnetwork-resources.s3.amazonaws.com/all_style.gz.css" media="screen" />
 -->
@@ -50,7 +50,7 @@
         </script>
         <![endif]-->
 
-        <script type="text/javascript" async="" src="//qualitysocialtargeting.liqwid.net/?key=D85D-A6F1-B041-B88A"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script type="text/javascript" async="" src="//qualitysocialtargeting.liqwid.net/?key=D85D-A6F1-B041-B88A"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
         <script src="/js/jquery-ui.js"></script>
         <script src="/js/jquery.sticky.js"></script>
         <script src="/js/jquery.sticky-kit.min.js"></script>
@@ -102,16 +102,16 @@
 				});
                 			});
         </script>
-        <script src="/js/scripts.js?v13"></script>
+        <script src="/js/scripts.js?v14"></script>
                  <!-- DFP/Google Adsense -->
         	<script async="" src="https://www.googletagservices.com/tag/js/gpt.js">
 	</script>
-        
-        <script src="/js/prebid1.16.0.js?v3"></script>
+            <script src="/js/prebid1.16.0.js?v3"></script>
     	<script>
 	  var googletag = googletag || {};
 	  googletag.cmd = googletag.cmd || [];
 	</script>
+        <script src="https://tagan.adlightning.com/metv/op.js"></script>
 	<script>
 	  googletag.cmd.push(function() {
 	    //googletag.pubads().set("adsense_background_color", "FFFFFF");
@@ -131,8 +131,9 @@
             return adSlot;
         }
 
-        
+
         var allSlots = new Array();
+        var AMAZON_SLOTS = new Array();
         var REQUEST_TIME = 10000;
         var WAITING = false;
         var allSizes = new Array();
@@ -141,20 +142,18 @@
         allSizes['metvcom_footer'] = "728x90,728x90,468x60,320x50";
         allSizes['metvcom_quiz'] = "468x60,468x60,468x60,320x50";
         allSizes['metvcom_middle'] = "728x90,728x90,468x60,320x50";
-        allSizes['metvcom_sidebar_2'] = "300x250,200x200,468x60,320x50";
         allSizes['metvcom_content1'] = "728x90,468x60,728x90,468x60,320x50";
         // allSizes['metvcom_content2'] = "728x90,468x60,728x90,468x60,320x50";
         //allSizes['metvcom_home1'] = "728x90,728x90,468x60,320x50";
         var width = window.innerWidth || document.documentElement.clientWidth;
-        
+
         var DFP_SLOTS = new Array();
 
-        var slots = ['metvcom_header', 'metvcom_sidebar', 'metvcom_sidebar_2'];
+        var slots = ['metvcom_header', 'metvcom_sidebar'];
                     slots.push('metvcom_footer');
                             
         
-                        
-            
+                
         for(var a = 0; a < slots.length; a++){
 
             var slotName = slots[a];
@@ -190,25 +189,45 @@
                          adArr[1] = 'sidebar_2';
                     }
 
-                    var fullSizeName = adArr[0] + "_" + adData + "_" + adArr[1];     
-                    
+                    var fullSizeName = adArr[0] + "_" + adData + "_" + adArr[1];
+
                     var itemArr = new Array();
                     itemArr['id'] = id;
                     itemArr['full_size_name'] = fullSizeName;
                     itemArr['ad_size'] = adSize;
-                    
+                    if((theWidth == 160 && theHeight == 600) || 
+                            (theWidth == 300 && theHeight == 250) || 
+                            (theWidth == 300 && theHeight == 600) || 
+                            (theWidth == 320 && theHeight == 50) || 
+                            (theWidth == 468 && theHeight == 60) || 
+                            (theWidth == 728 && theHeight == 90)){
+                        if(sizeName == 'metvcom_sidebar_2'){
+                            //skip it
+                            console.log("skipping metvcom sidebar 2");
+                        }else{
+                            var amazonObject = {
+                                slotID: id,
+                                slotName: "/7089059/" + fullSizeName,
+                                sizes: [adSize]
+                            };
+                            AMAZON_SLOTS.push(amazonObject);
+                            console.log("Amazon slot size match " + theWidth + " , " + theHeight + " for " + fullSizeName);
+                            console.log(amazonObject);                        
+                        }
+                    }
                     
                     
                     DFP_SLOTS.push(itemArr);
-                    
+
                     break;
                 }
             }
-        }            
+        }
 
- 
+
 
 		  googletag.cmd.push(function() {
+                  /*
 			if(width > 1260){
 				googletag.defineSlot('/7089059/metvcom_300x250_directFixed', [300, 250], 'metvcom_directFixed').addService(googletag.pubads());;
 			}
@@ -216,27 +235,57 @@
 			if(width <= 1260){
 				googletag.defineSlot('/7089059/metvcom_320x50_directFixed', [320, 50], 'metvcom_directFixed').addService(googletag.pubads());;
 			}
-            
+                    */
+
+            var scrollerSlot = googletag.defineSlot('/7089059/MeTV_300x250_Scroller', [1, 1], 'metv_scroller').addService(googletag.pubads());;
+            allSlots.push(scrollerSlot);
+
             for(var x = 0; x < DFP_SLOTS.length; x++){
                 var dSlot = DFP_SLOTS[x];
                 var adSlot = build_slot(dSlot['full_size_name'], dSlot['ad_size'], dSlot['id']);
                 allSlots.push(adSlot);
             }
-            
+
 
 	    //googletag.pubads().enableSingleRequest();
                                                 googletag.pubads().disableInitialLoad();
                                                     //googletag.pubads().enableSingleRequest();
-                                googletag.pubads().enableVideoAds();                    
+                                googletag.pubads().enableVideoAds();
                 googletag.enableServices();
-                        //alert("enabling");
+                            //?google_console=1
+            //alert("enabling");
             //googletag.openConsole();
 
 	  });
 	</script>
+
+
+ <script>
+     var amazonBids = true;
+     
+        //load the apstag.js library
+        !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");        
     
-   
- <script>        
+     
+     //
+        amazonBids = false;        
+        apstag.init({
+             pubID: 'c5284f18-82aa-4599-abba-7e1a65c7b555', //enter your pub ID here as shown above, it must within quotes
+             adServer: 'googletag'
+        });     
+        apstag.fetchBids({
+             slots: AMAZON_SLOTS,
+             timeout: 2000
+        }, function(bids) {
+            console.log("some amazon bids");
+            console.log(bids);
+            // set apstag targeting on googletag, then trigger the first DFP request in googletag's disableInitialLoad integration
+            googletag.cmd.push(function(){
+                 apstag.setDisplayBids();
+                 amazonBids = true;
+                 //googletag.pubads().refresh();
+            });
+        });   
         var oathNetworkId = "11399.1";
         var oathPlacements = new Array();
         oathPlacements['metvcom_300x250_sidebar'] = '4865825';
@@ -248,8 +297,8 @@
         oathPlacements['metvcom_320x50_middle'] = '4865831';
         oathPlacements['metvcom_320x50_footer'] = '4865832';
         oathPlacements['metvcom_320x50_header'] = '4865833';
-        oathPlacements['metvcom_320x50_quiz'] = '4865834';        
-    
+        oathPlacements['metvcom_320x50_quiz'] = '4865834';
+
         var sovrnPlacements = new Array();
         sovrnPlacements['metvcom_300x250_sidebar'] = '574598';
         sovrnPlacements['metvcom_320x50_footer'] = '574599';
@@ -264,9 +313,9 @@
         sovrnPlacements['metvcom_468x60_sidebar'] = '574608';
         sovrnPlacements['metvcom_728x90_footer'] = '574609';
         sovrnPlacements['metvcom_728x90_header'] = '574610';
-        sovrnPlacements['metvcom_728x90_middle'] = '574611';      
+        sovrnPlacements['metvcom_728x90_middle'] = '574611';
 
-/*    
+/*
 MeTV_Music_720		MeTV_Music_728x90 	Desktop	ATF	https://www.metv.com/metvmusic/					13659609
 metvcom_300x250_sidebar		metvcom_300x250_sidebar 	Desktop	BTF	https://www.metv.com/       	13659610
 metvcom_320x50_footer		metvcom_320x50_footer 	Mobile	BTF1                                    13659611
@@ -282,7 +331,7 @@ metvcom_468x60_sidebar		metvcom_468x60_sidebar 	Tablet	BTF                      
 metvcom_728x90_footer		metvcom_728x90_footer 	Desktop (Tablet - Landscape)	BTF1			13659621
 metvcom_728x90_header		metvcom_728x90_header 	Desktop (Tablet - Landscape)	ATF				13659622
 metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF				13659623
-*/    
+*/
         var appnexusPlacements = new Array();
         appnexusPlacements['metvcom_300x250_sidebar'] = '13659610';
         appnexusPlacements['metvcom_320x50_footer'] = '13659611';
@@ -298,7 +347,7 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
         appnexusPlacements['metvcom_728x90_footer'] = '13659621';
         appnexusPlacements['metvcom_728x90_header'] = '13659622';
         appnexusPlacements['metvcom_728x90_middle'] = '13659623';
-        
+
         var rubiconPlacements = new Array();
         rubiconPlacements['metvcom_320x50_header'] = '886216';
         rubiconPlacements['metvcom_728x90_header'] = '886208';
@@ -308,8 +357,8 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
         rubiconPlacements['metvcom_320x50_footer'] = '886214';
         rubiconPlacements['metvcom_320x50_middle'] = '886218';
         rubiconPlacements['metvcom_320x50_quiz'] = '886220';
-        rubiconPlacements['metvcom_320x50_sidebar'] = '886222';        
-        
+        rubiconPlacements['metvcom_320x50_sidebar'] = '886222';
+
         function getPlacementId(adName, bidder){
             var theArray = new Array();
             if(bidder == 'oath'){
@@ -329,11 +378,11 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
             }
             return null;
         }
- 
+
         function build_prebid(fullSizeName, adSize, id){
             var my_sizes = [
                 adSize
-            ];     
+            ];
 
             var sovrnId = getPlacementId(fullSizeName, 'sovrn');
             var oathId = getPlacementId(fullSizeName, 'oath');
@@ -344,15 +393,28 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
             if(oathId === null){
                 console.log("no oath bid for " + fullSizeName);
             }else{
-                allBids.push({
-                        bidder: 'onedisplay',
-                        params: {
-                            placement: oathId,
-                            network: "11399.1"
-                        }
-                    });
+
+                if(fullSizeName.indexOf('320x50') !== -1){
+                    var thePosition = fullSizeName;
+                    var mobileDcn = '2c9d2b4f0166663460843ab982e800c7';
+                    allBids.push({
+                            bidder: 'onemobile',
+                            params: {
+                                dcn: mobileDcn,
+                                pos: thePosition
+                            }
+                        });
+                }else{
+                    allBids.push({
+                            bidder: 'onedisplay',
+                            params: {
+                                placement: oathId,
+                                network: "11399.1"
+                            }
+                        });
+                }
             }
-        
+
             if(sovrnId === null){
                 console.log("no sovrn bid for " + fullSizeName);
             }else{
@@ -363,7 +425,7 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
                         }
                     });
             }
-            
+
             if(rubiconId === null){
                 console.log("no rubicon bid for " + fullSizeName);
             }else{
@@ -371,31 +433,31 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
                 if(fullSizeName.indexOf('320x50') !== -1){
                     //site id is different for mobile
                     rubiconSite = '181694';
-                }         
+                }
                 allBids.push({
                         bidder: 'rubicon',
                         params: {
                             accountId: '17798',
                             siteId: rubiconSite,
-                            zoneId: rubiconId                           
+                            zoneId: rubiconId
                         }
                     });
             }
-            
+
             if(appnexusId === null){
-                console.log("no appnexus bid for " + fullSizeName);                
+                console.log("no appnexus bid for " + fullSizeName);
             }else{
                 allBids.push({
                         bidder: 'appnexusAst',
                         params: {
                             placementId : appnexusId
                         }
-                    });                
+                    });
             }
             if(allBids.length <= 0){
                 return null;
             }
-            
+
             var adUnit = {
                 code: "/7089059/" + fullSizeName,
                 mediaTypes: {
@@ -407,25 +469,25 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
             };
 
             return adUnit;
-        }    
-            var allAdUnits = new Array();            
+        }
+            var allAdUnits = new Array();
             var PREBID_TIMEOUT = 1000;
 
             for(var x = 0; x < DFP_SLOTS.length; x++){
                 var dSlot = DFP_SLOTS[x];
-                var adUnit = build_prebid(dSlot['full_size_name'], dSlot['ad_size'], dSlot['id']);                
+                var adUnit = build_prebid(dSlot['full_size_name'], dSlot['ad_size'], dSlot['id']);
                 if(adUnit !== null){
                     allAdUnits.push(adUnit);
                 }
             }
-            
+
             console.log("------- PREBID AD UNITS ----------");
             console.log(allAdUnits);
 
             /*
             var sizes = [
                 [300, 250]
-            ];    
+            ];
             var adUnits = [{
                 code: '/19968336/header-bid-tag-1',
                 mediaTypes: {
@@ -454,7 +516,7 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
             pbjs.que = pbjs.que || [];
 
             pbjs.que.push(function() {
-                pbjs.setConfig({ priceGranularity: "dense" });             
+                pbjs.setConfig({ priceGranularity: "dense" });
                 pbjs.enableAnalytics([{
                     provider: 'pubwise',
                     options: {
@@ -468,21 +530,21 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
                     bidsBackHandler: initAdserver
                 });
             });
-            
+
             function refreshAdsIfReady(){
-                if(googletag.pubadsReady){
+                if(googletag.pubadsReady && amazonBids){
                     console.log("refreshing ads");
                     googletag.pubads().refresh(allSlots, {
                         changeCorrelator: true
-                    });                    
+                    });
                 }else{
-                    console.log("not ready");
+                    console.log("waiting for bids");
                     setTimeout(function(){
                         refreshAdsIfReady();
-                    }, 100);                    
+                    }, 100);
                 }
             }
-            
+
 
             function initAdserver() {
                 if (pbjs.initAdserverSet) return;
@@ -496,21 +558,21 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
             }
 
             setTimeout(function() {
-                
+
                 initAdserver();
-            }, PREBID_TIMEOUT);    
-    
+            }, PREBID_TIMEOUT);
+
             /*
             googletag.cmd.push(function() {
                 googletag.defineSlot('/19968336/header-bid-tag-1', sizes, 'div-1')
                 	.addService(googletag.pubads());
                 googletag.pubads().enableSingleRequest();
                 googletag.enableServices();
-            });            
+            });
              */
-            
+
             $(document).ready(function(){
-                
+
                 $('body').on('click', '#debug_prebid', function(){
                     alert("debugging prebid");
                     var responses = pbjs.getBidResponses();
@@ -543,13 +605,12 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
                       }
                     } else {
                       console.warn('NO prebid responses');
-                    }             
+                    }
                 });
                             });
-    
-    </script>
-    
 
+    </script>
+ 
     <script type="text/javascript">
         if (!Date.now) {
             Date.now = function() { return new Date().getTime(); }
@@ -577,10 +638,10 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
 		<script type="text/javascript">
                     window.google_analytics_uacct = "UA-5553426-11";
 		</script>
-                    <link rel="stylesheet" href="/css/twemoji-awesome.css">
-            <script src="https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&amp;render=explicit" async="" defer=""></script>
+                    <!-- Google reCaptcha -->
+                    
+                <script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
         
-                
         <!-- Begin comScore Tag -->
         <script>
           var _comscore = _comscore || [];
@@ -603,8 +664,7 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
         </style>
         
 
-        <!-- OneTag Container: weigelweb 05-16-2018-->        
-                <script src="//get.s-onetag.com/e83f6508-978f-443c-84bf-86d3c61a63df/tag.min.js" async="" defer=""></script>
+        <!-- OneTag Container: weigelweb 05-16-2018-->
                         <!-- JUSTPREMIUM AUTOMATIC WALLPAPERS -->
         
     </head>
@@ -614,7 +674,7 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
              * Workaround - On iOS 9, inside of FB's iOS app, if you click our share link for Facebook on a story it crashes.
              * This workaround uses the SDK to share when the userAgent is a Facebook app
              *********************************************/
-            var SHARE_URL = "//metv.com/privacy-policy/";
+            var SHARE_URL = "//www.metv.com/privacy-policy/";
             
             function isFacebookApp() {
               var ua = navigator.userAgent || navigator.vendor || window.opera;
@@ -670,13 +730,13 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
             	<div class="header-design">
                     <div class="header-logo-affiliate lg-col-wrapper-no-space clearfix">
                                                 <div class="header-ad">
-                            <!-- MeTV Leaderboard --> <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- header-resp --> <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6520115836404543" data-ad-slot="5381179934" data-ad-format="auto"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+                            <div id="metvcom_header"><script type="text/javascript">googletag.cmd.push(function() { googletag.display("metvcom_header"); }); </script></div>
                         </div>
                                                 <div class="logo-affiliate clearfix">
                             <a href="/"><img class="logo" src="images/metv_logo_v2.png"></a>
                             <div class="header-affiliate">
-                                <a href="/wheretowatch/affiliate/807">Change your location »</a>
-                                                                <img src="/images/logos/logo_.png" width="290" height="40">
+                                <a href="/wheretowatch/affiliate/602">Change your location »</a>
+                                                                <img src="https://metvcdn.metv.com/oLS4k-1536161609-1-markets-wwme_web.png" width="290" height="40">
                                                             </div>
                         </div>
                         <div class="header-social clearfix">
@@ -717,7 +777,7 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
                                     <a href="http://store.metv.com" rel="noopener">Store</a>
                                 </li>
                                 <li class="wtw">
-                                    <a href="/wheretowatch/affiliate/807">Where To Watch</a>
+                                    <a href="/wheretowatch/affiliate/602">Where To Watch</a>
                                 </li>
                             </ul>
                             <div class="social-facebook">
@@ -745,18 +805,18 @@ metvcom_728x90_middle		metvcom_728x90_middle 	Desktop (Tablet - Landscape)	BTF		
                 <div class="header-now-next content-now-next">
                     <div>
                                                 <span>On Now</span>
-                                                                                <a href="shows/leave-it-to-beaver">
-                                                        Leave It to Beaver
+                                                                                <a href="shows/hogan-s-heroes">
+                                                        Hogan's Heroes
                             </a>
                                             </div>
                     <div>
-                                                <span> 8:30AM</span>
-                                                                                <a href="shows/leave-it-to-beaver">
-                                                        Leave It to Beaver
+                                                <span> 9:30PM</span>
+                                                                                <a href="shows/hogan-s-heroes">
+                                                        Hogan's Heroes
                             </a>
                                             </div>
                                             <div class="content-now-next-sched">
-                            <a href="/wheretowatch/affiliate/807">Where to Watch MeTV near you <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                            <a href="/wheretowatch/affiliate/602">Where to Watch MeTV near you <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                         </div>
                                     </div>
             </header>
@@ -881,14 +941,14 @@ Regular mail to:<br>
                                             <li>
                             <div class="side-now-next">
                                                                 <span>On Now</span>
-                                                                                                        <a href="shows/leave-it-to-beaver">
-                                                                        Leave It to Beaver
+                                                                                                        <a href="shows/hogan-s-heroes">
+                                                                        Hogan's Heroes
                                     </a>
                                                             </div>
                             <div class="side-now-next">
-                                                                <span> 8:30AM</span>
-                                                                                                        <a href="shows/leave-it-to-beaver">
-                                                                        Leave It to Beaver
+                                                                <span> 9:30PM</span>
+                                                                                                        <a href="shows/hogan-s-heroes">
+                                                                        Hogan's Heroes
                                     </a>
                                                             </div>
                             <div class="side-wtw">
@@ -923,40 +983,40 @@ Regular mail to:<br>
                                 </div>
                             </div>
                         </li>
+
                                                     <li>
                                 <img class="metvmusic-listen-btn-side" src="/images/metvmusic/metvmusic_listen_btn_sml.jpg" width="300" height="100">
                                 <!-- <img class="metvmusic-listen-btn-side" src="/images/metvmusic/holiday/winter2017/musicHoliday2017_sidebar.jpg" width="300" height="80"> -->
                             </li>
-                                                
-                                                    <li>
+                                                                            <li>
                                 <div class="side-store-products-section">
                                     <h3>Shop the M<span class="transform-lowercase">e</span>TV Store</h3>
                                     <div class="side-store-products">
                                                                                                                                     <div class="side-store-product-item">
-                                                    <a href="https://store.metv.com/products/saved-by-the-bell-cast">
-                                                        <img src="https://cdn.shopify.com/s/files/1/0219/7690/products/NBC319-AT_large.jpg?v=1473952573">
-                                                        <span>Saved by the Bell - Cast</span>
+                                                    <a href="https://store.metv.com/products/star-trek-united-federation-of-planets">
+                                                        <img src="https://cdn.shopify.com/s/files/1/0219/7690/products/CBS461-AT_large.jpg?v=1473954856">
+                                                        <span>Star Trek - United Federation of Planets</span>
                                                     </a>
                                                     $19.95
                                                 </div>
                                                                                                                                                                                 <div class="side-store-product-item">
-                                                    <a href="https://store.metv.com/products/i-love-lucy-60-years-of-fun-1">
-                                                        <img src="https://cdn.shopify.com/s/files/1/0219/7690/products/LB188-AFTH_large.jpg?v=1485368795">
-                                                        <span>I Love Lucy - 60 Years of Fun</span>
+                                                    <a href="https://store.metv.com/products/wonder-woman-logo-1">
+                                                        <img src="https://cdn.shopify.com/s/files/1/0219/7690/products/DCO266J-AFTH_large.jpg?v=1485815645">
+                                                        <span>Wonder Woman - Logo</span>
                                                     </a>
                                                     $38.95
                                                 </div>
                                                                                                                                                                                 <div class="side-store-product-item">
-                                                    <a href="https://store.metv.com/products/my-three-sons-logo">
-                                                        <img src="https://cdn.shopify.com/s/files/1/0219/7690/products/CBS252-AT_large.jpg?v=1476904190">
-                                                        <span>My Three Sons - Logo</span>
+                                                    <a href="https://store.metv.com/products/saved-by-the-bell-sup-ladies">
+                                                        <img src="https://cdn.shopify.com/s/files/1/0219/7690/products/NBC779-AFTH_large.jpg?v=1485377187">
+                                                        <span>Saved by the Bell - Sup Ladies</span>
                                                     </a>
-                                                    $19.95
+                                                    $38.95
                                                 </div>
                                                                                                                                                                                 <div class="side-store-product-item">
-                                                    <a href="https://store.metv.com/products/cheers-cast">
-                                                        <img src="https://cdn.shopify.com/s/files/1/0219/7690/products/CBS986-AT_large.jpg?v=1476987658">
-                                                        <span>Cheers - Cast</span>
+                                                    <a href="https://store.metv.com/products/star-trek-united-federation-of-planets-1">
+                                                        <img src="https://cdn.shopify.com/s/files/1/0219/7690/products/CBS461-TK_large.jpg?v=1497474959">
+                                                        <span>Star Trek - United Federation of Planets</span>
                                                     </a>
                                                     $19.95
                                                 </div>
@@ -968,43 +1028,33 @@ Regular mail to:<br>
                             <h3>Recent Stories</h3>
                             <div class="side-content">
                                                                     <div class="side-content-item clearfix">
-                                        <a class="side-content-item-thumb" href="/quiz/can-you-recreate-the-opening-credits-of-wonder-woman">
-                                            <img src="https://metvcdn.metv.com/Pilmu-1538085158-916-quiz-wonder_woman_main.png">
+                                        <a class="side-content-item-thumb" href="/stories/a-punky-brewster-sequel-series-is-coming-with-soleil-moon-frye-back-in-the-title-role">
+                                            <img src="https://metvcdn.metv.com/G4SDM-1559679859-thumbnail_image-2538.jpg">
                                         </a>
                                         <div class="side-content-item-desc">
-                                            <a href="/quiz/can-you-recreate-the-opening-credits-of-wonder-woman">Can you recreate the opening credits of Wonder Woman?</a>
+                                            <a href="/stories/a-punky-brewster-sequel-series-is-coming-with-soleil-moon-frye-back-in-the-title-role">A Punky Brewster sequel series is coming with Soleil Moon Frye back in the title role</a>
                                         </div>
                                     </div>
                                                                     <div class="side-content-item clearfix">
-                                        <a class="side-content-item-thumb" href="/lists/10-unlikely-unusual-songs-that-made-it-to-no-1-in-the-1980s">
-                                            <img src="https://metvcdn.metv.com/yc6eI-1538080250-thumbnail_image-1191.jpg">
+                                        <a class="side-content-item-thumb" href="/stories/you-can-actually-buy-bill-gillespies-big-white-house-from-in-the-heat-of-the-night">
+                                            <img src="https://metvcdn.metv.com/nWtbB-1559682446-2539-blog-gillespie%20house.jpg">
                                         </a>
                                         <div class="side-content-item-desc">
-                                            <a href="/lists/10-unlikely-unusual-songs-that-made-it-to-no-1-in-the-1980s">10 unlikely, unusual songs that made it to No. 1 in the 1980s</a>
+                                            <a href="/stories/you-can-actually-buy-bill-gillespies-big-white-house-from-in-the-heat-of-the-night">You can actually buy Bill Gillespie's big white house from In the Heat of the Night</a>
                                         </div>
                                     </div>
                                                                     <div class="side-content-item clearfix">
-                                        <a class="side-content-item-thumb" href="/stories/prepare-your-heart-to-warm-they-released-the-first-photo-of-tom-hanks-as-mister-rogers">
-                                            <img src="https://metvcdn.metv.com/QK56O-1538076511-2243-blog-tom%20hanks%20mister%20rogers.jpg">
+                                        <a class="side-content-item-thumb" href="/quiz/can-you-place-these-dance-party-tv-shows-into-the-correct-decade">
+                                            <img src="https://metvcdn.metv.com/SF562-1559674832-thumbnail_image-1486.jpg">
                                         </a>
                                         <div class="side-content-item-desc">
-                                            <a href="/stories/prepare-your-heart-to-warm-they-released-the-first-photo-of-tom-hanks-as-mister-rogers">Prepare your heart to warm: Here's the first photo of Tom Hanks as Mister Rogers</a>
+                                            <a href="/quiz/can-you-place-these-dance-party-tv-shows-into-the-correct-decade">Can you place these dance party TV shows into the correct decade?</a>
                                         </div>
                                     </div>
                                 
                             </div>
                         </li>
 
-                        
-                                                    <li>
-                                <div class="side-ad">
-                                    <div id="metvcom_sidebar_2">
-                                        <script type="text/javascript">
-                                            googletag.cmd.push(function() { googletag.display('metvcom_sidebar_2'); });
-                                        </script>
-                                    </div>
-                                </div>
-                            </li>
                         
                         <li>
                             <div class="sidebar-games sidebar-videos">
@@ -1015,7 +1065,6 @@ Regular mail to:<br>
                                 </a>
                             </div>
                         </li>
-
                         <li>
                             <div class="sidebar-games">
                             	<a href="http://games.metv.com/?arkpromo=site_rightrail">
@@ -1025,10 +1074,15 @@ Regular mail to:<br>
                                 </a>
                             </div>
                         </li>
-
-                        
-                        <!-- Sovrn ad unit -->
-                        <li>
+                                                <li>
+                            <div class="side-ad">
+                                <div id="metv_scroller">
+                                    <script type="text/javascript">
+                                        googletag.cmd.push(function() { googletag.display('metv_scroller'); });
+                                    </script>
+                                </div>
+                            </div>
+                            <!-- THIS "TEST DIV" AD UNIT IS NEEDED -->
                             <div id="sovrn-test-div"></div>
                         </li>
                     <!-- END IF IS HOMEPAGE -->
@@ -1037,6 +1091,8 @@ Regular mail to:<br>
                 <!--<div id="metvcom_directFixed" class="side-ad">  
                     <script type='text/javascript'>googletag.cmd.push(function() { googletag.display('metvcom_directFixed'); });</script>                            
                 </div>-->
+
+
 
                 
                     <script type="text/javascript">
@@ -1173,7 +1229,37 @@ Regular mail to:<br>
     						e.preventDefault();
     						window.open('/metvmusic/','metvmusic','resizable,height=582,width=756');
     					});*/
+
+
                     </script>
+                <script type="text/javascript">
+                    /*
+                    $(document).ready(function(){
+                        //THIS IS NOT CRITEO - IT'S ONETAG SOVRN
+                        var criteo_scrollingAd = $('#metv_scroller');
+                        var criteo_adTop = criteo_scrollingAd.offset().top;
+                        function fixDiv() {
+                            console.log
+                            var criteo_stoppingHeight = jQuery('.copyright').offset().top;
+                            if (jQuery(window).scrollTop() >= (criteo_stoppingHeight - 500)){
+                                criteo_scrollingAd.css({'position': 'relative', 'top': (criteo_stoppingHeight - criteo_adTop - 500)+'px'});
+                            }
+                            else if (jQuery(window).scrollTop() >= (criteo_adTop - 80)){
+                                criteo_scrollingAd.css({'position': 'fixed', 'top': '80px'});
+                            }
+                            else {
+                                criteo_scrollingAd.css({'position': 'static', 'top': 'auto'});
+                            }
+                        }
+                        if($('#metv_scroller').length > 0){
+                            $(window).on( "scroll", function() {
+                               fixDiv();
+                            });
+                            fixDiv();
+                        }
+                    });
+                    */
+                </script>
                 
             </aside>
 
@@ -1190,13 +1276,15 @@ Regular mail to:<br>
                                         </div>
                                                                 </div>
                         </div>
-                                                        
-            <footer>
+                                                            <footer>
                 <div class="lg-col-wrapper">
-                    <a href="/about-us/">About</a> | <a href="/contact/">Contact</a> | <a href="/advertise/">Advertise</a> | <a href="/privacy-policy/">Privacy Policy</a> | <a href="/terms-of-use/">Terms of Use</a> | <a href="/sweepstakes/">Sweepstakes Winners</a>                     <div class="footer-affiliate-logos">
+                    <a href="/about-us/">About</a> | <a href="/contact/">Contact</a> | <a href="/advertise/">Advertise</a> | <a href="/privacy-policy/">Privacy Policy</a> | <a href="/terms-of-use/">Terms of Use</a> | <a href="/fcc-public-files/">FCC Public Files</a> | <a href="/sweepstakes/">Sweepstakes Winners</a>                                           <div class="footer-affiliate-logos">
+                                                <a href="http://www.wciu.com/" target="_blank" rel="noopener"><img src="//footercdn.metv.com/footerlogos/logo_wciu_rebrand2017.png" alt=""></a>
+                                                <a href="http://theutoo.com/" target="_blank" rel="noopener"><img src="//footercdn.metv.com/footerlogos/logo_utoo_rebrand2017.png" alt=""></a>
+                                                <a href="http://metv.fm/" target="_blank" rel="noopener"><img src="//footercdn.metv.com/footerlogos/logo_metvfm_new2016.png" alt=""></a>
                         
                     </div>
-                    <div class="copyright">© 2018 MeTV National Limited Partnership</div>
+                    <div class="copyright">© 2019 MeTV National Limited Partnership</div>
                 </div>
             </footer>
             <div id="articles-modal-wrapper">
@@ -1221,26 +1309,37 @@ Regular mail to:<br>
                             type:'GET',
                             dataType:'json',
                             success:function(data){
-                                //only reload once every 30 min, there might be some scenario where not working                                 
+                                //only reload once every 30 min, there might be some scenario where not working
                                 if("MetvMarketReload" in localStorage){
                                     var oldTime = parseInt(localStorage.getItem('MetvMarketReload'));
                                     var currTime = new Date().getTime();
-                                    if(Math.abs(currTime - oldTime) > 1800){                                    
+                                    if(Math.abs(currTime - oldTime) > 1800){
                                         localStorage.setItem("MetvMarketReload", new Date().getTime().toString());
-                                        window.location.reload();                                        
+                                        window.location.reload();
                                     }
                                 }else{
                                     localStorage.setItem("MetvMarketReload", new Date().getTime().toString());
-                                    window.location.reload();                                                
+                                    window.location.reload();
                                 }
                             },
                             error : function(err){
                                 console.log(err);
-                            }            
-                        });                                                  
-                    }                     
-                            </script>            
-                    
+                            }
+                        });
+                    }
+                            </script>
+                            
+        <!-- moving click handler for metv-music links here from script.js because links are dependent on market now -->
+        <script>
+	// Launch music player
+        $(document).ready(function(){
+            $('.metvmusic-listen-btn, .hp-metvmusic-btn, .metvmusic-listen-btn-side, .metvmusic-banner-btn,.metvmusic-widget').click(function(){
+                                    window.open('/metvmusic/','metvmusic','resizable,height=615,width=756');
+                                    
+            });        
+        });
+        </script>
+        
         <!-- Quantcast Tag -->
         <script type="text/javascript">
         var _qevents = _qevents || [];
@@ -1267,13 +1366,13 @@ Regular mail to:<br>
         <!-- End Quantcast tag -->
 
 
-        <!-- QST ADS -->
-        
+        <!-- QST ADS / NextMillennium -->
+                
         <script type="text/javascript">
             (function() {var s=document.createElement('script'); s.type='text/javascript'; s.async=true; s.src='//qualitysocialtargeting.liqwid.net/?key=D85D-A6F1-B041-B88A';var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);})();
         </script>
         
-        <!-- END OF QST ADS -->
+                <!-- END OF QST ADS -->
                         <!-- smart banner -->
         <script src="/js/smart-app-banner.js"></script>
         <script type="text/javascript">
