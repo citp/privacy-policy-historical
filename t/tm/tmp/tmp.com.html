@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tmp.com privacy policy that was archived on 2018-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180905004715id_/https%3A//www.tmp.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tmp.com privacy policy that was archived on 2019-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190605165355id_/http%3A//www.tmp.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#" class="js"><head> 
     <meta charset="utf-8">
@@ -33,7 +33,7 @@
     <meta name="msapplication-config" content="none"> 
 
 
-<script type="text/javascript">
+<script>
     function addLoadEvent(func) {
         var oldonload = window.onload;
         if (typeof window.onload != 'function') {
@@ -51,9 +51,6 @@
 
 
 
-	<meta property="og:title" content="Privacy" statement="">
-	<meta property="og:description" content="Privacy" statement="">
-		<meta property="og:image" content="/">
 
 
     <script src="//tbcdn.talentbrew.com/js/client/adframe.js"></script>
@@ -68,11 +65,19 @@
             a.src = g;
             m.parentNode.insertBefore(a, m);
         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-        ga('create', 'UA-7112776-1', 'auto');
-        ga('require', 'displayfeatures');
+        ga('create', 'UA-7112776-1', 'auto', {allowLinker: false});
+                ga('require', 'displayfeatures');
 
 
-        addLoadEvent(function () {
+        document.addEventListener("DOMContentLoaded", function() {
+            var getCookie = function (name) {
+                var value = "; " + document.cookie;
+                var parts = value.split("; " + name + "=");
+
+                if (parts.length == 2) {
+                    return parts.pop().split(";").shift();
+                }
+            };
             function createHiddenInput(id, value) {
                 var input = document.createElement('input');
                 input.type = 'hidden';
@@ -137,20 +142,29 @@
                 dimensionsToSend["dimension12"] = adBlockerStatus;
                 createHiddenInput('dimension12', adBlockerStatus);
 
-                if (typeof Cookies.get("SearchVisitorId") != 'undefined') {
-                    var visitorIdCookieData = Cookies.getJSON("SearchVisitorId");
-                    if (visitorIdCookieData.length > 0) {
-                        dimensionsToSend["dimension15"] = visitorIdCookieData;
-                        createHiddenInput('dimension15', visitorIdCookieData);
-                    }
+
+                var visitorIdCookieData = getCookie('SearchVisitorId');;
+
+                if (typeof visitorIdCookieData != 'undefined' && visitorIdCookieData.length > 0) {
+                    dimensionsToSend["dimension15"] = visitorIdCookieData;
+                    createHiddenInput('dimension15', visitorIdCookieData);
                 }
 
-                if (typeof Cookies.getJSON("SearchSessionId") == 'object') {
-                    var sessionIdCookieData = Cookies.getJSON("SearchSessionId");
+                var sessionIdCookieData = getCookie('SearchSessionId');
+                var sessionIdCookieDataObject;
+                try {
+                    sessionIdCookieDataObject = JSON.parse(sessionIdCookieData);
+                } catch (e) {
+                }
+                if (typeof sessionIdCookieDataObject == "object") {
                     dimensionsToSend["dimension16"] = sessionIdCookieData.SearchSessionId;
                     createHiddenInput('dimension16', sessionIdCookieData.SearchSessionId);
                 }
-
+                if (typeof sessionIdCookieData === 'undefined') {
+                    createHiddenInput('dimension17', 'null');
+                } else {
+                    createHiddenInput('dimension17', sessionIdCookieDataObject.Created);
+                }
                 var dimension17Element = document.getElementById("dimension17");
                 if (document.getElementById("dimension17") != undefined) {
                     dimensionsToSend["dimension17"] = (dimension17Element.value == "null" ? "null" : parseInt(dimension17Element.value).toString());
@@ -164,17 +178,33 @@
     </script>
 
 
+    
+    <!-- Hotjar Tracking Code for https://www.tmp.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1152189,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="https://static.hotjar.com/c/hotjar-1152189.js?sv=6"></script>
+
 </head>
 
 
 
 
-<body id="privacy-statement" class="  nav-pulldown" data-site-geolocation="true" data-location-geotype="ip2ifnohtml5" data-geolocation-url="/search-jobs/SetSearchRequestGeoLocation" data-cdn="https://tbcdn.talentbrew.com/company/3401/" data-translate="false">
+<body id="privacy-statement" class="  nav-pulldown" data-site-geolocation="true" data-location-geotype="ip2ifnohtml5" data-geolocation-url="/search-jobs/GetSearchRequestGeoLocation" data-cdn="https://tbcdn.talentbrew.com/company/3401/" data-translate="false">
 
     
 
 
-<input id="icinga2-client-host" name="icinga2-client-host" type="hidden" value="www.tmp.com"><input id="icinga2-machine-name" name="icinga2-machine-name" type="hidden" value="9819303bee8f"><input id="get-tracking-site-type" name="get-tracking-site-type" type="hidden" value="1"><input id="get-tracking-orgnaic-tags" name="get-tracking-orgnaic-tags" type="hidden" value="[{&quot;Domain&quot;:&quot;simplyhired.com&quot;,&quot;Name&quot;:&quot;SimplyHired&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Simply_Hired/B9423857.128294677;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.com&quot;,&quot;Name&quot;:&quot;Google&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Google/B9423857.128289347;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;yahoo.com&quot;,&quot;Name&quot;:&quot;Yahoo&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Yahoo/B9423857.128295305;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;bing.com&quot;,&quot;Name&quot;:&quot;Bing&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.273830.BING.COM/B9423857.128291740;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;indeed.com&quot;,&quot;Name&quot;:&quot;Indeed&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Indeed/B9423857.128289358;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;facebook.com&quot;,&quot;Name&quot;:&quot;Facebook&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Facebook/B9423857.128293565;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;other.com&quot;,&quot;Name&quot;:&quot;Other&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.278351.TALENTBREW-ADDITION/B9423857.128289367;sz=1x1;ord=12345OTHER67890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;direct.com&quot;,&quot;Name&quot;:&quot;Direct&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.278351.TALENTBREW-ADDITION/B9423857.128294944;sz=1x1;ord=12345DIRECT67890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.ca&quot;,&quot;Name&quot;:&quot;Google Canada&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.125865.GOOGLECANADA/B9423857.128286228;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;t.co&quot;,&quot;Name&quot;:&quot;Twitter&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.130910.7809398262621/B9423857.128295234;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;linkedin.com&quot;,&quot;Name&quot;:&quot;LinkedIn&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.LinkedIn/B9423857.128289587;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;glassdoor.com&quot;,&quot;Name&quot;:&quot;Glassdoor&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Google/B9423857.128289347;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;bing.com&quot;,&quot;Name&quot;:&quot;Bing&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.273830.BING.COM/B9423857.128291740;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;facebook.com&quot;,&quot;Name&quot;:&quot;Facebook&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.152606.FACEBOOK.COM/B9423857.211599291;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;glassdoor.com&quot;,&quot;Name&quot;:&quot;Glassdoor&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.715587.GLASSDOOR.COM/B9423857.211599288;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.ca&quot;,&quot;Name&quot;:&quot;Google Canada&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.1324844GOOGLE.CA/B9423857.211599285;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.com&quot;,&quot;Name&quot;:&quot;Google&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Google/B9423857.128289347;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;indeed.com&quot;,&quot;Name&quot;:&quot;Indeed&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Indeed/B9423857.128289358;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;linkedin.com&quot;,&quot;Name&quot;:&quot;LinkedIn&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.466581LINKEDIN.COM/B9423857.211599282;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;t.co&quot;,&quot;Name&quot;:&quot;Twitter&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.1864118TWITTER.COM/B9423857.211599279;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;yahoo.com&quot;,&quot;Name&quot;:&quot;Yahoo&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.285959.YAHOO.COM/B9423857.211599276;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;simplyhired.com&quot;,&quot;Name&quot;:&quot;SimplyHired&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Simply_Hired/B9423857.128294677;sz=1x1;ord=123456789'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;www.snagajob.com&quot;,&quot;Name&quot;:null,&quot;TrackingTag&quot;:null,&quot;IsExclusive&quot;:true},{&quot;Domain&quot;:&quot;snagajob.com&quot;,&quot;Name&quot;:null,&quot;TrackingTag&quot;:null,&quot;IsExclusive&quot;:true},{&quot;Domain&quot;:&quot;www.jobsattmp.com&quot;,&quot;Name&quot;:null,&quot;TrackingTag&quot;:null,&quot;IsExclusive&quot;:true}]"><input id="get-tracking-optimized-tracking" name="get-tracking-optimized-tracking" type="hidden" value="True"><input id="search-client-type" name="search-client-type" type="hidden" value="1"><input id="search-visitor-id" name="search-visitor-id" type="hidden" value="SearchVisitorId"><input id="search-session-id" name="search-session-id" type="hidden" value="SearchSessionId">
+<input id="site-page-timestamp" name="site-page-timestamp" type="hidden" value="6/5/19 12:52:17 PM"><input id="icinga2-client-host" name="icinga2-client-host" type="hidden" value="www.tmp.com"><input id="icinga2-machine-name" name="icinga2-machine-name" type="hidden" value="c546ecdda63b"><input id="get-tracking-site-type" name="get-tracking-site-type" type="hidden" value="1"><input id="get-tracking-orgnaic-tags" name="get-tracking-orgnaic-tags" type="hidden" value="[{&quot;Domain&quot;:&quot;simplyhired.com&quot;,&quot;Name&quot;:&quot;SimplyHired&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Simply_Hired/B9423857.128294677;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.com&quot;,&quot;Name&quot;:&quot;Google&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Google/B9423857.128289347;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;yahoo.com&quot;,&quot;Name&quot;:&quot;Yahoo&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Yahoo/B9423857.128295305;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;bing.com&quot;,&quot;Name&quot;:&quot;Bing&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.273830.BING.COM/B9423857.128291740;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;indeed.com&quot;,&quot;Name&quot;:&quot;Indeed&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Indeed/B9423857.128289358;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;facebook.com&quot;,&quot;Name&quot;:&quot;Facebook&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Facebook/B9423857.128293565;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;other.com&quot;,&quot;Name&quot;:&quot;Other&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.278351.TALENTBREW-ADDITION/B9423857.128289367;sz=1x1;ord=12345OTHER67890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;direct.com&quot;,&quot;Name&quot;:&quot;Direct&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.278351.TALENTBREW-ADDITION/B9423857.128294944;sz=1x1;ord=12345DIRECT67890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.ca&quot;,&quot;Name&quot;:&quot;Google Canada&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.125865.GOOGLECANADA/B9423857.128286228;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;t.co&quot;,&quot;Name&quot;:&quot;Twitter&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.130910.7809398262621/B9423857.128295234;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;linkedin.com&quot;,&quot;Name&quot;:&quot;LinkedIn&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.LinkedIn/B9423857.128289587;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;glassdoor.com&quot;,&quot;Name&quot;:&quot;Glassdoor&quot;,&quot;TrackingTag&quot;:&quot;<img src='https://ad.doubleclick.net/ddm/ad/N4789.Google/B9423857.128289347;sz=1x1;ord=1234567890?' width='1' height='1' alt='' hidden aria-hidden='true'/>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;bing.com&quot;,&quot;Name&quot;:&quot;Bing&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.273830.BING.COM/B9423857.128291740;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;facebook.com&quot;,&quot;Name&quot;:&quot;Facebook&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.152606.FACEBOOK.COM/B9423857.211599291;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;glassdoor.com&quot;,&quot;Name&quot;:&quot;Glassdoor&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.715587.GLASSDOOR.COM/B9423857.211599288;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.ca&quot;,&quot;Name&quot;:&quot;Google Canada&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.1324844GOOGLE.CA/B9423857.211599285;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;google.com&quot;,&quot;Name&quot;:&quot;Google&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Google/B9423857.128289347;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;indeed.com&quot;,&quot;Name&quot;:&quot;Indeed&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Indeed/B9423857.128289358;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;linkedin.com&quot;,&quot;Name&quot;:&quot;LinkedIn&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.466581LINKEDIN.COM/B9423857.211599282;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;t.co&quot;,&quot;Name&quot;:&quot;Twitter&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.1864118TWITTER.COM/B7870744.246762463;sz=1x1;ord=0123456789'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;yahoo.com&quot;,&quot;Name&quot;:&quot;Yahoo&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.285959.YAHOO.COM/B9423857.211599276;sz=1x1;ord=123456789?'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;simplyhired.com&quot;,&quot;Name&quot;:&quot;SimplyHired&quot;,&quot;TrackingTag&quot;:&quot;<IMG SRC='https://ad.doubleclick.net/ddm/ad/N4789.Simply_Hired/B9423857.128294677;sz=1x1;ord=123456789'>&quot;,&quot;IsExclusive&quot;:false},{&quot;Domain&quot;:&quot;www.snagajob.com&quot;,&quot;Name&quot;:null,&quot;TrackingTag&quot;:null,&quot;IsExclusive&quot;:true},{&quot;Domain&quot;:&quot;snagajob.com&quot;,&quot;Name&quot;:null,&quot;TrackingTag&quot;:null,&quot;IsExclusive&quot;:true},{&quot;Domain&quot;:&quot;www.jobsattmp.com&quot;,&quot;Name&quot;:null,&quot;TrackingTag&quot;:null,&quot;IsExclusive&quot;:true}]"><input id="get-tracking-optimized-tracking" name="get-tracking-optimized-tracking" type="hidden" value="True"><input id="search-client-type" name="search-client-type" type="hidden" value="1"><input id="search-visitor-id" name="search-visitor-id" type="hidden" value="SearchVisitorId"><input id="search-session-id" name="search-session-id" type="hidden" value="SearchSessionId"><input id="site-tenant-id" name="site-tenant-id" type="hidden" value="1153"><input id="site-network-ajax-url" name="site-network-ajax-url" type="hidden" value="//sites.searchgreatcareers.com/module/setnetworkcookie">
+
+<!-- Do nothing if siteKey and personalization FE url don't exist -->
+
     <script>
         (function() {
             var gtmValues = {};
@@ -238,7 +268,9 @@
             if (typeof visitorIdCookieData != 'undefined' && visitorIdCookieData.length > 0) {
                 gtmValues['visitorID'] = visitorIdCookieData;
             } else {
-                var expires = new Date().getMilliseconds() + 365 * 864e+5;
+                var date = new Date();
+                date.setTime(date.getTime() + (365 * 864e+5));
+                var expires = date.toGMTString();
                 var visitorId = uuidv4();
                 document.cookie = "SearchVisitorId=" + visitorId + "; expires=" + expires + "; path=/";
                 gtmValues['visitorID'] = visitorId;
@@ -446,11 +478,13 @@
                 <div class="tertiary-wrapper">
 
                     
-    <p class="effective-date">Effective Date: October 3, 2017</p><p>
+    <p class="effective-date">Effective Date: October 2, 2018</p><p>
     
     </p>TMP Worldwide Advertising &amp; Communications, LLC (“TMP Worldwide”) is committed to respecting the privacy of those who visit this site. Any online data collection from emails and forms submitted by you will only be used in the normal course of business to help us contact you and provide solutions to your challenges. This privacy policy describes how TMP Worldwide collects and uses any personal information you may provide on our web site, <a href="https://www.tmp.com">www.tmp.com</a>,and via TMP Worldwide's TalentBrew Platform. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged TMP Worldwide. Information being gathered via the TalentBrew Platform may also be subject to the privacy policy of the individual client, which may be accessed directly from the site maintained on such client’s behalf.<p></p>
 
     <h2>Privacy Shield Certification</h2>
+    
+    <p>To facilitate our operations, we may transfer, store and process your personal information in jurisdictions other than where you live, including in the United States.  Laws in these countries may differ from the laws applicable to your country of residence.  For instance, if you are a European Economic Area (EEA) data subject and your personal information is shared with our affiliates, partners, or third-party service providers acting on our behalf outside of the EEA, then it is done so pursuant to necessary means to ensure an adequate level of protection.</p>
     
     <p>TMP Worldwide and its affiliates adhere to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework TMP Worldwide has certified its compliance therewith. TMP Worldwide is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <a href="https://www.privacyshield.gov/list">https://www.privacyshield.gov/list</a>.</p>
 
@@ -521,7 +555,7 @@
         
     <h2>User Access and Choice</h2>
 
-    <p>Upon request, TMP Worldwide will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete, or deactivate it by making the change on our member information page or by emailing our Customer Support at <a href="mailto:tbsupport@tmp.com">tbsupport@tmp.com</a>. We will respond to your request to access personal information within thirty (30) days.</p>
+    <p>Upon request, TMP Worldwide will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. You have the right to amend or update inaccurate or incomplete personal information, request deletion of your personal information, or request that we no longer use it. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete, or deactivate it by making the change on our member information page or by emailing our Customer Support at <a href="mailto:tbsupport@tmp.com">tbsupport@tmp.com</a>. We will respond to your request to access personal information within thirty (30) days.</p>
     
     <p>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements or as otherwise provided in the privacy policy of our client on whose behalf your information was provided.</p>
     
@@ -613,7 +647,7 @@
 	
 	<div id="primary-footer-copyright">
 
-		<p><small>© 2018 TMP Worldwide. An equal opportunity employer.</small></p>
+		<p><small>© 2019 TMP Worldwide. An equal opportunity employer.</small></p>
 
 		<ul>
 		    <li><a href="http://go.tmp.com/DemoTalentBrew">Request a Demo</a></li>
@@ -645,7 +679,7 @@
     
     
 
-<script id="tmp-magic-bullet" src="https://services.tmpwebeng.com/magicbullet/" data-a11y="true" data-gdpr="true" data-gdpr-custom-form-message="By submitting your information, you acknowledge that you have read our <a href='/privacy/' target='_blank'>candidate privacy policy</a> and consent to receive email communication." data-gdpr-button-text="OK" data-gdpr-policy-url="/privacy/" data-gdpr-client-name="TMP Worldwide"></script>
+<script id="tmp-magic-bullet" src="https://services.tmpwebeng.com/magicbullet/" data-a11y="true" data-gdpr="true" data-gdpr-custom-form-message="By submitting your information, you acknowledge that you have read our <a href='/privacy/' target='_blank'>candidate privacy policy</a> and consent to receive email communication." data-gdpr-policy-url="/privacy/" data-gdpr-client-name="TMP Worldwide"></script>
 
     
     
@@ -701,7 +735,7 @@
     
     	    
     
-    <!-- Machine Name:  9819303bee8f -->
+    <!-- Machine Name:  c546ecdda63b -->
 
 
-<input type="hidden" id="dimension3" value="3401"><input type="hidden" id="dimension4" value="3401"><input type="hidden" id="dimension8" value="Privacy Statement"><input type="hidden" id="dimension10" value="ContentPage"><input type="hidden" id="dimension11" value="null;29979;Content"><input type="hidden" id="dimension12" value="Active"></body></html>
+<input type="hidden" id="dimension3" value="3401"><input type="hidden" id="dimension4" value="3401"><input type="hidden" id="dimension8" value="Privacy Statement"><input type="hidden" id="dimension10" value="ContentPage"><input type="hidden" id="dimension11" value="null;29979;Content"><input type="hidden" id="dimension12" value="Active"><input type="hidden" id="dimension15" value="3765af54-485a-a0d8-73ee-8f90ce644fa6"><input type="hidden" id="dimension17" value="null"></body></html>
