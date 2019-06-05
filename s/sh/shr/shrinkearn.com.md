@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shrinkearn.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825102325id_/https%3A//shrinkearn.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrinkearn.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606014010id_/https%3A//shrinkearn.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Highest paying url shortener 2019
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@shrinkearn.com.
 
