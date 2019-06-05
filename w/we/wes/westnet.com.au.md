@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westnet.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313161557id_/https%3A//www.westnet.com.au/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westnet.com.au privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605080416id_/https%3A//www.westnet.com.au/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Legal
 
@@ -20,27 +20,28 @@ The personal information will be held in secure electronic databases. Westnet wi
 
 Westnet will only use your personal information for the following purposes:
 
-  * verify your identity;
-  * to provide and develop the services that you require;
-  * to administer and manage those services including charging, billing, obtaining payment, fault management, complaint handling and debt collection;
-  * to communicate with you directly, via email, fax, phone, SMS and by other means of communication about service usage, service charges, events, marketing material, Westnet products and services, complaint and fault management, and other ways the service provided to you could be improved;
-  * to conduct appropriate checks for credit worthiness and for fraud;
-  * as required or authorised by law (including under the Telecommunications (Interception and Access) Act 1979 (Cth) and the Telecommunications Act 1997 (Cth);
-  * as required by or in accordance with any mandatory industry code or standard registered under the Telecommunications Act 1997 (Cth); and
-  * to comply with requests for information issued to Westnet by agencies and courts that are entitled to obtain the information under Australian law.
+  * To verify your identity;
+  * To provide and develop the services that you require;
+  * To administer and manage those services including charging, billing, obtaining payment, fault management, complaint handling and debt collection;
+  * To communicate with you directly, via email, fax, phone, SMS and by other means of communication about service usage, service charges, events, marketing material, Westnet products and services, complaint and fault management, and other ways the service provided to you could be improved;
+  * To conduct appropriate checks for credit worthiness and for fraud;
+  * As required or authorised by law (including under the Telecommunications (Interception and Access) Act 1979 (Cth) and the Telecommunications Act 1997 (Cth);
+  * As required by or in accordance with any mandatory industry code or standard registered under the Telecommunications Act 1997 (Cth); and
+  * To comply with requests for information issued to Westnet by agencies and courts that are entitled to obtain the information under Australian law.
 
 
 
-The above uses may require disclosure of the personal information to third parties including:
+The above uses may require disclosure of the personal information to third parties including but not limited to:
 
-  * to service providers who provide services to us, such as providers of telecommunications services;
-  * to credit reporting agencies;
-  * to third parties where you have given consent to the disclosure; and
-  * to government, law enforcement and national security agencies and regulatory bodies where this is necessary for us to comply with our legal obligations.
+  * debt collection agencies and similar parties that assist with debt-recovery;
+  * service providers who provide services to us, such as providers of telecommunications services;
+  * credit reporting agencies;
+  * third parties where you have given consent to the disclosure; and
+  * government, law enforcement and national security agencies and regulatory bodies where this is necessary for us to comply with our legal obligations.
 
 
 
-If you do not wish to receive marketing material from Westnet about Westnet events, products and services, you may send an email with your full name and customer ID to [nomarketing@tpg.com.au](mailto:nomarketing@tpg.com.au) and Westnet will not send to you any communications about such products and services. If you have more than one Customer ID, you must provide all of them.
+If you do not wish to receive marketing material from Westnet about Westnet events, products and services, you may send an email with your full name and customer ID to  and Westnet will not send to you any communications about such products and services. If you have more than one Customer ID, you must provide all of them.
 
 ### How you may access personal information and seek the correction of such information
 
@@ -50,7 +51,7 @@ If you wish to access the information we hold about you, please send an email to
 
 ### How you may complain about a breach of privacy
 
-If you have any complaints about our privacy practices or would like further information, please contact our Privacy Compliance Officer. Westnet's general complaint handling policy is also applicable for complaints about privacy and sets out an external body which can handle a complaint if you remain dissatisfied (see our [Complaints Escalation Process](https://web.archive.org/web/20180313161557id_/https://www.westnet.com.au/about/legal/complaints-escalation-process)) 
+If you have any complaints about our privacy practices or would like further information, please contact our Privacy Compliance Officer. Westnet's general complaint handling policy is also applicable for complaints about privacy and sets out an external body which can handle a complaint if you remain dissatisfied (see our [Complaints Escalation Process](https://web.archive.org/web/20190605080416id_/https://www.westnet.com.au/about/legal/complaints-escalation-process)) 
 
 ### Disclosure of personal information to overseas recipients
 
@@ -66,6 +67,7 @@ We have listed below the known countries in which the overseas organisations wit
   * Malaysia
   * New Zealand
   * Singapore
+  * South Africa
   * The Philippines
   * United Kingdom
   * United States
@@ -80,7 +82,7 @@ Overseas organisations will be subject to their own laws and may be required to 
 
 Westnet's privacy officer can be contacted in the following ways:   
 Mail: The Privacy Officer, 65 Waterloo Road, Macquarie Park NSW 2113  
-Email: [privacycompliance@tpg.com.au](mailto:privacycompliance@tpg.com.au)  
+Email:    
 Fax: 02 9252 7855 
 
 ### Policy Updates
