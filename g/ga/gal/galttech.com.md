@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galttech.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204101636id_/http%3A//www.galttech.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galttech.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605150730id_/http%3A//www.galttech.com/privacy.shtml) for the most accurate reproduction.*
 
 # Galt Technology: Privacy Information
 
