@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the ietf.org privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212024911id_/http%3A//www.ietf.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ietf.org privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605161529id_/https%3A//www.ietf.org/privacy-statement) for the most accurate reproduction.*
 
 # IETF | IETF Statement Concerning Personal Data
 
-### Scope: 
+### Scope
 
-This statement applies to the Internet Engineering Task Force ("IETF"), the Internet Architecture Board ("IAB") and the Internet Research Task Force ("IRTF") (each a "Party" and collectively the "Parties"). General: Most Personal Data Submitted to the Parties Will Become Public.  
+This statement applies to the Internet Engineering Task Force ("IETF"), the Internet Architecture Board ("IAB") and the Internet Research Task Force ("IRTF") (each a "Party" and collectively the "Parties").   
 
 
-The Parties operate in an open and transparent fashion. As a part of this transparency, any contributions, submissions, statements or communications made to us, including postings or other contributions you make to the Party's websites, most mailing lists operated by the Parties, jabber chat rooms, all Internet-Drafts or other contributions that you submit, comments you send to the parties regarding the Parties or the Party's documents, intellectual property disclosures and updates, requests for document authentication, subpoenas, registrations for meetings of the  Parties or mailing list registrations, and most other information that you send, submit or post to the Parties, and any information that we collect about you through your use of any IETF web site, mailing list or other resource, as well as your signing the Blue Sheet for an in-person or electronic meeting run by the Parties (collectively, your "Personal Data"), other than as expressly excepted in this Statement, will be made public through electronic and other means. Personal Data includes, for example,(a) first and last name, (b) postal address if included in postings or submissions (e.g., Internet-Drafts), (c) e-mail address, or (d) any other identifier that permits the physical or online contacting of a specific individual. In addition, lists of the subscribers to IETF-managed mailing lists are available to subscribers of the lists. You should be aware of our transparent operation when communicating with us.
+### General: Most Personal Data Submitted to the Parties Will Become Public.
+
+The Parties operate in an open and transparent fashion. As a part of this transparency, any contributions, submissions, statements or communications made to us, including postings or other contributions you make to the Party's websites, most mailing lists operated by the Parties, jabber chat rooms, all Internet-Drafts or other contributions that you submit, comments you send to the parties regarding the Parties or the Party's documents, intellectual property disclosures and updates, requests for document authentication, subpoenas, registrations for meetings of the  Parties or mailing list registrations, and most other information that you send, submit or post to the Parties, and any information that we collect about you through your use of any IETF web site, mailing list or other resource, as well as your signing the Blue Sheet for an in-person or electronic meeting run by the Parties (collectively, your "Personal Data"), other than as expressly excepted in this Statement, will be made public through electronic and other means. Personal Data includes, for example, (a) first and last name, (b) postal address if included in postings or submissions (e.g., Internet-Drafts), (c) e-mail address, or (d) any other identifier that permits the physical or online contacting of a specific individual. In addition, lists of the subscribers to IETF-managed mailing lists are available to subscribers of the lists. You should be aware of our transparent operation when communicating with us.
 
 By providing us with your Personal Data, you are consenting to our disclosure and use of it for the purposes as described in this Statement. By subscribing to a mailing list managed by the Parties or submitting a contribution to the Parties, you consent to our using your Personal Data to communicate with you about your participation in activities of the Parties. The parties may also share some Personal Data with the Internet Society so that it can fulfill its role of ensuring financial support for the Parties by exploring sponsorship or hosting possibilities.
 
 The Parties also collect information, including through audio, pictorial and video recording, during and in connection with its events, meetings, mailing lists and conferences, and automatically through its web sites. All such information may be made public and used by the Parties in connection with the activities of the Parties.
 
-Certain visitor characteristics may be reflected in our web server logs (such as, operating system, browser version, and Internet Protocol (IP) address). We do not make such information available to the public. When you interact with our web sites we may use cookies to uniquely identify you during a session to allow us to process your online transactions and requests and to verify your identity, after you have logged in to a web site and to track user activity between sessions. We do not use browser storage, for example flash cookies, or other local storage. Web site visitors who disable their web browser's ability to accept cookies or alter user tracking will be able to browse the site; but some web site features may not function well if you disable cookies. The parties useservices from Cloudflare to support some of their websites. Please refer to the Privacy Policy on the [Cloudflare home page](https://www.cloudflare.com/) for information on Cloudflare's tracking policies.
+Certain visitor characteristics may be reflected in our web server logs (such as, operating system, browser version, and Internet Protocol (IP) address). We do not make such information available to the public. When you interact with our web sites we may use cookies to uniquely identify you during a session to allow us to process your online transactions and requests and to verify your identity, after you have logged in to a web site and to track user activity between sessions. We do not use browser storage, for example flash cookies, or other local storage. Web site visitors who disable their web browser's ability to accept cookies or alter user tracking will be able to browse the site; but some web site features may not function well if you disable cookies. The parties use services from Cloudflare to support some of their websites. Please refer to the Privacy Policy on the [Cloudflare home page](https://www.cloudflare.com/) for information on Cloudflare's tracking policies.
 
 The Parties do not engage in tracking behavior, as that term is defined by the Do Not Track (DNT) specification. Consequently, IETF web sites do not alter their behavior according to the value of browsers' DNT requests.
 
@@ -25,23 +27,23 @@ Due to the nature of the Internet and our international operations, your communi
 
 As an exception to the Party's general policy of releasing information to the public, there are certain limited types of Personal Data that we do not share in the ordinary course of our operations ("Non-Public Information"). The categories of Non-Public Information that we currently recognize are described below.
 
-### Payment Information
+#####  **Payment Information**
 
 Payment information is not collected or stored on any servers operated by the Parties. If you conduct transactions using our web sites (e.g., meeting registration), payment and payment card information will be entered directly into a third-party processor's systems and is not transmitted through or stored by our web sites. We make reasonable efforts to ensure that our third-party processors handle your non-public information responsibly.
 
-### Registration Information
+#####  **Registration Information**
 
 The parties collect information from people who register for meetings. The attendee lists which are published in the meeting proceedings include the registrants, name, organization and ISO country code, a profile link (if provided in the registration) and whether the registration was local or remote. All other information we collect is only published, if at all, in summary form.
 
-### Non-Public Mailing Lists and direct mail to individuals at the Parties
+#####  **Non-Public Mailing Lists and direct mail to individuals at the Parties**
 
 A small number of mailing lists operated by the Parties, including the NomCom, IAB, IAOC, IESG and RFC Editor mailing lists, are not available or disclosed to the public. These mailing lists are clearly indicated as non-public in their registration materials. We do not make the contents of these mailing lists available to the public. In addition, email sent directly to individuals at the Parties will not generally be made available to the public.
 
-### Passwords
+#####  **Passwords**
 
 Some areas of the web sites and some mailing lists operated by the Parties require you to create and enter a password. The Parties store these passwords and do not make them available to the public.
 
-### Information for letters of invitation
+#####  **Information for letters of invitation**
 
 We delete the personal information that we collect to generate letters of invitation in a timely fashion after each meeting. We request that local organizations with whom we share this data to generate the letters also delete it in a timely fashion.
 
@@ -55,7 +57,7 @@ Our websites are not intended for use by children under 13 years old. We do not 
 
 ### Inquiries
 
-The Parties do not share Personal Data with third parties for marketing purposes except for the Internet Society as mentioned above. If you would like to request information regarding our disclosure of your Personal Data to the Internet Society, please email your request to [privacy@ietf.org](mailto:privacy@ietf.org). We will provide information of whether your Personal Data was shared with the Internet Society free of charge. If your Personal Data was shared with the Internet Society, this information includes a list of the categories of Personal Data that were shared with the Internet Society in the immediately preceding calendar year.
+The Parties do not share Personal Data with third parties for marketing purposes except for the Internet Society as mentioned above. If you would like to request information regarding our disclosure of your Personal Data to the Internet Society, please email your request to [privacy@ietf.org](mailto:privacy@ietf.org). We will provide information of whether your Personal Data was shared with the Internet Society free of charge. If your Personal Data was shared with the Internet Society, this information includes a list of the categories of Personal Data that were shared with the Internet Society in the immediately preceding calendar year.
 
 ### Compliance
 
