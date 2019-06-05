@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thinoptics.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915123110id_/https%3A//www.thinoptics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinoptics.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606014744id_/https%3A//www.thinoptics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
 ### What information do we collect?
 
@@ -33,17 +33,38 @@ Yes. Cookies are small files that a website or its service provider transfers to
 
 ### Do we disclose the information we collect to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include ThinOPTICS, Inc. (“ThinOPTICS”). It also does not include website hosting partners and other parties who assist us in operating our site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include ThinOptics, Inc. (“ThinOptics”). It also does not include website hosting partners and other parties who assist us in operating our site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
 ### Third party links
 
 In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work). 
 
+### Google Analytics & Interest-Based Online Advertising
+
+As you navigate through and interact with our website(s), we may utilize automatic data collection technologies (such as Google Analytics) to collect anonymized information about your site visit. We do this to help us estimate the size of our audience and their usage patterns in order to improve the user experience for everyone. 
+
+  * Data collected may include, but is not limited to, demographic information like age and gender, system details like your browser version and operating system, your mobile device type if accessing the site on your phone or tablet, onsite behavior like which pages on our site that you visited and how long you stayed, and whether or not you completed any actions like making a purchase or signing up for our mailing list. Nothing collected is personally identifiable.
+  * We may allow others to serve advertisements on our behalf, on other sites across the internet, based on you visiting our site in the past. These entities may use Cookies, web beacons, or other technologies to function properly and identify the effectiveness of those efforts.
+  * You have the right to update, correct, or modify information we may have about you at any time by logging into your account, or emailing us at support@thinoptics.com.
+  * You may also adjust your ad personalization settings directly with Google in their “Ad Personalization Settings” page.
+
+
+
+### Opt-Out Options
+
+We have enabled the following tracking features within Google Analytics: Demographics and Interest Reports, Advertising Reporting Features, and Remarketing.
+
+  * Users who wish to not have their data collected with Google Analytics can install the opt-out browser add-on, which prohibits information from being sent to Google Analytics.
+  * To opt out, visit the Google Analytics opt-out page and install the add-on for your browser.
+  * Another option is by visiting the Network Advertising Initiative Opt-Out page.
+
+
+
 ### Changes to our policy
 
 If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. 
 
-### This policy was last modified on March 6, 2014.
+#### This policy was last modified on March 6, 2014.
 
 ### Questions and feedback
 
@@ -55,8 +76,12 @@ This online privacy policy applies only to information collected through our sit
 
 ### Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/terms-conditions) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+Please also visit our [Terms and Conditions](https://web.archive.org/terms-conditions)section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
 
 ### Your consent
 
 By using our site, you consent to our privacy policy. 
+
+## Questions for Thinoptics?
+
+[Contact Us](https://www.thinoptics.com/contact/)
