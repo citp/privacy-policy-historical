@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techmaniya.in privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230191305id_/http%3A//www.techmaniya.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmaniya.in privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605090221id_/http%3A//www.techmaniya.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tech Maniya
+# Privacy Policy | Tech Maniya
 
 Effective date: June 29, 2018
 
