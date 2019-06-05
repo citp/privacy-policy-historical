@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the monetate.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702091436id_/https%3A//www.monetate.com/platform-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monetate.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605210029id_/https%3A//www.monetate.com/platform-privacy-policy) for the most accurate reproduction.*
 
-# Monetate | Platform Privacy Policy
+# Platform Privacy Policy | Monetate
 
-## MONETATE, INC. PLATFORM PRIVACY POLICY Last Updated June 2017
+## MONETATE, INC. PLATFORM PRIVACY POLICY
+
+### Last Updated June 2017
 
 Monetate, Inc. (“ _Monetate_ ,” “ _we_ ,” “ _us_ ,” or “ _our_ ”) is a marketing optimization technology company. We have created this privacy policy (this “ _Platform Privacy Policy_ ”) to inform you how our proprietary platform (the “ _Platform_ ”) gathers, uses, and processes information on behalf of online marketers, website owners, leading brands and other businesses that use our services (collectively, our “ _Clients_ ”). 
 
