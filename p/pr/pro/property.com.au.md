@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the property.com.au privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119171556id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property.com.au privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605183452id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
 
 # About - realestate.com.au - Privacy Policy
 
