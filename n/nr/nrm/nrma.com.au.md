@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nrma.com.au privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125004108id_/https%3A//www.nrma.com.au/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrma.com.au privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605044507id_/https%3A//www.nrma.com.au/privacy-security) for the most accurate reproduction.*
 
 # Privacy, Security & Identity Theft | NRMA Insurance
 
-Please read this statement along with our[ Privacy Policy](https://web.archive.org/sites/nrma/files/nrma/documents/NRMA-Privacy-Policy-Nov-18.pdf)
+Please read this statement along with our[ Privacy Policy](https://web.archive.org/sites/nrma/files/nrma/documents/NRMA_Privacy_Policy_0319.pdf).
 
-We take the protection of your personal information very seriously, so we regularly revise and update our security measures to keep your information private and meet industry standards.  
+We take the protection of your personal information very seriously, so we regularly revise and update our security measures to keep your information private and meet industry standards.
 
 ### Steps we take to protect your information
 
@@ -21,12 +21,12 @@ We take the protection of your personal information very seriously, so we regula
 
 It’s still very important that you take some steps to help keep up security when you’re online:
 
-  * Protect your personal information, such as usernames, passwords and policy details, by not allowing anyone to see you entering them, and avoid public wi-fi usage
-  * Notify us as soon as possible if you become aware of any security breaches
+  * Protect your personal information, such as usernames, passwords and policy details, by not allowing anyone to see you entering them, and avoid public Wi-Fi usage
+  * Notify us as soon as possible if you become aware of any security breaches
   * Use a strong password for your account. Try to think of something that is easy to remember, but hard to guess, such as a passphrase
   * Change your password regularly and try not to reuse the same password on more than one site
   * Don’t let your browser save your password for our websites
-  * Be wary of websites, emails or phone calls that claim to be from us. Please contact us if you are unsure
+  * Be wary of websites, emails or phone calls that claim to be from us. Please contact us if you are unsure
   * Keep an eye on your accounts and check for any unauthorised transactions
   * Keep your devices up to date with firewall enabled, anti-malware software, anti-virus software and security updates
 
@@ -34,20 +34,17 @@ It’s still very important that you take some steps to help keep up security wh
 
 ### How do you make sure you’re going to the right website?
 
-Always go directly to our website by typing the address  **www.nrma.com.au**  rather than following links found in emails or elsewhere online.
+Always go directly to our website by typing the address **www.nrma.com.au** rather than following links found in emails or elsewhere online.
 
 ### Keeping safe with email
 
-  * Never disclose personal, financial or debit/credit card information by email. Contact us if you’re unsure of the legitimacy of any email that appears to have come from us
+Never disclose personal, financial or debit/credit card information by email. Contact us if you’re unsure of the legitimacy of any email that appears to have come from us.
 
-  * We will never ask for sensitive or personal information such as usernames, passwords or policy details if you haven’t asked for our help first
+We will never ask for sensitive or personal information such as usernames, passwords or policy details if you haven’t asked for our help first.
 
+By helping us with these things, we can both work to make your world a safer place. To report any concerns around the security or privacy of your information please email [cybersecurity@iag.com.au](mailto:cybersecurity@iag.com.au).
 
-
-
-By helping us with these things, we can both work to make your world a safer place. To report any concerns around the security or privacy of your information please email [cybersecurity@iag.com.au](mailto:cybersecurity@iag.com.au)
-
-Read more at [Stay Smart Online](https://www.communications.gov.au/what-we-do/internet/stay-smart-online), an Australian Government online safety and security website.
+Read more at [Stay Smart Online](https://www.communications.gov.au/what-we-do/internet/stay-smart-online), an Australian Government online safety and security website.
 
 This Online Privacy Statement applies to this website, located at www.nrma.com.au, which is operated and managed by us for us and our related entities. This Online Privacy Statement supplements and should be read in conjunction with our Privacy Policy
 
@@ -65,7 +62,7 @@ When you visit and browse this website, we collect general information that enab
 
   * The number of users visiting this website and the number of pages viewed
   * The date, time and duration of visits
-  * The path taken through this website
+  * The path taken through this website.
 
 
 
@@ -89,7 +86,7 @@ When you visit this website you may be invited to participate in an online surve
 
 Information that is not capable of identifying you, such as the number of users visiting this website, is collected through code embedded in the webpages of this website. You cannot disable the code on these pages.
 
-Other information, such as browser type, is included in a ‘cookie’ that is sent to your computer when you are completing certain tasks on this website. A cookie contains bits of information that enables our servers (ie. the computers that house this website) to identify and interact efficiently with your computer. Cookies are designed to provide a better, more customised website experience, and to make it easier for you to use this website.
+Other information, such as browser type, is included in a ‘cookie’ that is sent to your computer when you are completing certain tasks on this website. A cookie contains bits of information that enables our servers (i.e. the computers that house this website) to identify and interact efficiently with your computer. Cookies are designed to provide a better, more customised website experience, and to make it easier for you to use this website.
 
 You can configure your browser to either accept all cookies, reject all cookies or to notify you when a cookie is being sent to your computer. The ‘help function’ on your browser will provide you with details on how to change your browser configurations. You will need to accept cookies in order to use some functionality on this website.
 
@@ -113,6 +110,6 @@ From time to time we may use independent third party suppliers to gather informa
 
 This website includes hyperlinks to enable you to access a number of other websites by clicking on these hyperlinks we have provided. These third party websites are not subject to this Online Privacy Statement. We recommend that you read their privacy and security statements to understand how they deal with your personal information online.
 
-### This Online Privacy Statement operates from 15 May 2014
+### This Online Privacy Statement operates from 15 May 2014
 
 Due to evolving technologies and types of functionality available on this website, we encourage you to review this Online Privacy Statement from time to time as it may be updated. Your continued use of this website or the provision of further personal information to us after this Online Privacy Statement has been revised constitutes your acceptance of the revised Online Privacy Statement.
