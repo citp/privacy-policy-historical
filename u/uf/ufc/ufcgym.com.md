@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ufcgym.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212082432id_/http%3A//ufcgym.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufcgym.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605171425id_/http%3A//ufcgym.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Last modified: [07/10/2018]
+Last modified: [01/14/2019]
 
 ## INTRODUCTION AND SCOPE 
 
@@ -16,7 +16,7 @@ This Policy applies to information we collect:
 
   * In email, text, and other electronic messages between you and this Website and/or us.
 
-  * UFC GYM Mobile Application iOS/Android.
+  * UFC GYM Mobile Application(s) available on iOS/Android.
 
   * Through information you may provide to us in your membership application, agreement or through your use of our UFC GYM Clubs and/or services.
 
@@ -61,11 +61,17 @@ We may collect several types of information from and about users of our Website 
 
   * You may also provide information when you carry out transactions through our Website. For example, if you buy products and/or services through our Website we gather information such as what you are purchasing, your method of payment, and your billing and shipping information. We will use this information to complete the transaction, to provide you with an order history and to facilitate future orders. This information may also be used for aggregate reporting (which summarizes the data in a report but does not contain your PII).
 
-  * Device and application data: we collect data about the devices and applications used when connecting to/or accessing our Website, including but not limited to, IP address and browser type. We can usually infer geographic data based on a subscriber’s IP address. if you visit our Sites from an external source (like another website or via email link), we might record information about the source that referred you to us.
+  * Device and application data: we collect data about the devices and applications used when connecting to/or accessing our Website, including but not limited to, IP address and browser type. We can usually infer geographic data based on a subscriber’s IP address. If you visit our Sites from an external source (like another website or via email link), we might record information about the source that referred you to us.
 
-  * Information from cookies and web beacons: we use third party tracking services such as Google Analytics that use cookies and web beacons to collect aggregated and anonymized data about visitors to our Sites. This data may include usage and subscriber statistics. **Detailed collected information can be such as audience location, audience engagement, mobile traffic behavior, traffic sources, social media traffic, site content trends, page bounce rates, site search behavior, events and funnel visualization.**
+  * Information from cookies and web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs): we use third party tracking services such as Google Analytics that use cookies and web beacons to collect aggregated and anonymized data about visitors to our Sites. This data may include usage and subscriber statistics. **Detailed collected information can be such as audience location, audience engagement, mobile traffic behavior, traffic sources, social media traffic, site content trends, page bounce rates, site search behavior, events and funnel visualization.**
+
+  * In-club beacons: in addition to web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs), we may also have beacons present in a UFC GYM Club which may be used to check you in to the Club, confirm your attendance to classes and monitor your use of equipment in the UFC GYM Club.
 
 
+
+  * We may collect certain fitness information about you through the UFC GYM Mobile Application, through heart rate monitors and other wearable technologies (e.g., Apple Watch, FitBit, Garmin, etc.) including, without limitation, your birth date, heart rate, step count and information about your heart rate and performance in classes as well as on machines used in the Club (e.g. bikes, ellipticals, and treadmills) which collect such data. Additionally, we may collect information from other applications on your mobile device such as the Health app.
+
+  * Certain areas of our Website, including our social media accounts, contain information supplied by users and others. If you submit user content to our social media accounts, you acknowledge that the content will be publicly available. Please do not submit any information to the social media accounts, including personally identifiable information, that you do not want to make public. We are not responsible for comments, advice, reviews, information, or any other posting made by you, other users or third parties in these areas. We do not have the obligation, but we reserve the right, to review content posted in public areas, including to our social media pages, and to delete or edit them, for any reason, at any time.
 
   * We may provide fitness tracking tools through a third party service provider which allow you to save your fitness information so that you can track your workouts, nutrition or other private information about yourself. Such third parties may store your fitness tracking information in order to provide you with these tools. Such third parties may provide such information to us and also use that information to provide you with other services through our Website. Once we separate your fitness tracking information from your PII, so that it cannot be linked back to you, we may use the aggregated information for other purposes.
 
@@ -73,7 +79,7 @@ We may collect several types of information from and about users of our Website 
 
   * We may receive additional PII from you through communications with the Site. For example, if you email the Site to ask about a product or service, we will use that information to respond to your inquiry, to have a history of our service to you and to make better our service by reporting your request, without any PII, in our customer service totals.
 
-  * Information you provide to us in order to use our UFC GYM Clubs including, without limitation, information provided in connection with the purchase and/or use of a UFC GYM membership, personal training session or other products and services sold by UFC GYM. Information provided to us in connection with UFC GYM memberships, personal training sessions and/or other services provide at UFC GYM Clubs will be shared with and stored by third party data processors that we work with (at this time, ClubReady).
+  * Information you provide to us in order to use our UFC GYM Clubs including, without limitation, information provided in connection with the purchase and/or use of a UFC GYM membership, personal training session or other products and services sold by UFC GYM. Information provided to us in connection with UFC GYM memberships, personal training sessions and/or other services provide at UFC GYM Clubs will be shared with and stored by third party data processors that we work with (at this time, ClubReady) including, without limitation, your fingerprint.
 
 We collect this information:
 
@@ -81,10 +87,11 @@ We collect this information:
 
   * Directly from you when you provide it to us.
   * Automatically as you navigate through the Site. Information collected automatically may include usage details, IP addresses, and information collected through cookies, and other tracking technologies.
-  * From third parties, for example, our business partners [ClubReady](http://www.clubready.club/privacy-policy), [Hubspot](https://legal.hubspot.com/privacy-policy), and [FitMetrix](https://www.fitmetrix.io/home/ourprivacy). While we have access to the data you provide to such third parties and our use and access to such information is described herein, your information is also subject to such third party’s privacy policies and terms of use at the links set forth below: 
+  * From third parties, for example, our business partners [ClubReady](http://www.clubready.club/privacy-policy), [Hubspot](https://legal.hubspot.com/privacy-policy), and [FitMetrix](https://www.fitmetrix.io/home/ourprivacy) and [Gym Farm](https://www.gymfarm.co/privacy-policy). While we have access to the data you provide to such third parties and our use and access to such information is described herein, your information is also subject to such third party’s privacy policies and terms of use at the links set forth below: 
     * <http://www.clubready.club/privacy-policy>
     * <https://legal.hubspot.com/privacy-policy>
     * <https://www.fitmetrix.io/home/ourprivacy>
+    * <https://www.gymfarm.co/privacy-policy>
 
 
 
@@ -122,6 +129,10 @@ We own the information collected via our Site and in our UFC GYM Clubs. Among ot
 
   * Provide services and products to you.
 
+  * Check you into the UFC GYM Club.
+
+  * Sign-up for and check you into UFC GYM classes.
+
   * Inform you about offers, contests or surveys.
 
   * Contact you regarding membership and services.
@@ -151,15 +162,22 @@ We own the information collected via our Site and in our UFC GYM Clubs. Among ot
 
 Except as otherwise disclosed in this Policy, we do not rent, sell, transfer or otherwise disclose your PII to any third party. We may aggregate information supplied by users during the site registration process and information about their use of our Site to maintain our services and describe our Website user base to potential partners and advertisers. This information is used to supply summary data about our community of users. There are certain circumstances in which we may need to disclose PII personally identifiable information about you, and we want you to know about them.
 
+We may share your PII, including workout and health data, with third party health-focused mobile applications and websites to help you track your health and wellness information. If you choose to share your information with these apps, your PII, including your health information, will be used in accordance with those apps and websites own privacy policies, not this one.
+
 We may employ other businesses, certain services, and individuals to perform functions on our behalf, such as fulfilling orders, delivering packages, providing customer service, sending mail, processing credit card payments, holding live chats, providing marketing assistance, data analysis and customer service. We may share your PII with these companies. We will provide them with only the information necessary to perform their functions.
 
-We may form partnerships with other companies. Some of these partnerships include the sharing of some of your personal information with our partners to extend these services to you. We require that our partners not disclose your information to other organizations without your consent. However, our partners’ use of your information is governed by their privacy policies, including those policies found at: <http://www.clubready.club/privacy-policy>, <https://legal.hubspot.com/privacy-policy>, and <https://www.fitmetrix.io/home/ourprivacy>, <https://www.shopify.com/legal/privacy>.
+We may form partnerships with other companies. Some of these partnerships include the sharing of some of your personal information with our partners to extend these services to you. We require that our partners not disclose your information to other organizations without your consent. However, our partners’ use of your information is governed by their privacy policies, including those policies found at:  
+<http://www.clubready.club/privacy-policy>,  
+<https://legal.hubspot.com/privacy-policy>,  
+<https://www.fitmetrix.io/home/ourprivacy>,  
+<https://www.shopify.com/legal/privacy>,  
+<https://www.gymfarm.co/privacy-policy>. 
 
 We may reveal user information if we believe that a user is harming or interfering with other Site users, anyone else, or violating our Terms of Use, or infringing any of our rights. Further, to the extent we believe it is required by law, UFC Gym® will reveal information, including PII. If we are asked by subpoena or other legal means to disclose any of your PII we will, if permitted by law, attempt to notify you via the email address you supplied during registration at least ten days before we respond to the request.
 
 The Site may be sold in connection with a sale of a substantial portion of the assets of our company or other transactions may occur in which your PII is one of the business assets transferred. In such a case, your PII, which we have gathered, may be one of the business assets we transfer and, you agree to such transfer and acknowledge and agree that any successor to or acquirer of us will continue to have the right to use your PII and other information in accordance with the terms of this Policy.
 
-We may also share your PII with our subsidiaries and/or affiliates consistent with this Policy. Our subsidiaries and affiliates will be bound to treat and maintain any PII in accordance with this Policy.
+We may also share your PII with our subsidiaries and/or affiliates including, without limitation Zuffa, LLC, consistent with this Policy. Our subsidiaries and affiliates will be bound to treat and maintain any PII in accordance with this Policy.
 
 We may also use and share your PII for other legitimate business reasons not specified herein. We will periodically update this Policy to inform you of any changes to our data use and sharing practices.
 
