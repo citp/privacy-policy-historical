@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designmantic.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125140031id_/https%3A//www.designmantic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designmantic.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605231710id_/https%3A//www.designmantic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignMantic.com
 
