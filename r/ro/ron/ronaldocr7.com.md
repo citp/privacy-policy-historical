@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronaldocr7.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231232406id_/http%3A//www.ronaldocr7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronaldocr7.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605155724id_/http%3A//www.ronaldocr7.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
