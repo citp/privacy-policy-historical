@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kalyanjewellers.net privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113221602id_/http%3A//www.kalyanjewellers.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalyanjewellers.net privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605071842id_/https%3A//www.kalyanjewellers.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Kalyan Jewellers | Privacy & Policy | Gold & Diamond Collection
 
