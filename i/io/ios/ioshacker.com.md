@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ioshacker.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228172214id_/https%3A//ioshacker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioshacker.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605153015id_/https%3A//ioshacker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iOS Hacker
 
@@ -13,3 +13,5 @@ Ads that appear on our website are served by our advertising partners. We do not
 iOS Hacker allows readers to react to our articles in a user-friendly way through comments. We use third-party commenting system and all comments are published without moderation unless they are suspected to be spam by the commenting system. The site offers flagging system using which readers can flag inappropriate comments. If an inappropriate comment has been flagged or it has been noticed by one of the moderators it will be removed immediately. We do not allow irrelevant comments that promote hate speech, foul language or that are considered rude towards other community members.
 
 This privacy policy is up to date and was last updated on 4th December, 2016. If you have any questions, then feel free to contact us here: [Contact](http://ioshacker.com/contact)
+
+[Subscribe to our channel](https://www.youtube.com/channel/UCaW9c8If2GsbPkb45VYNEKQ?sub_confirmation=1)
