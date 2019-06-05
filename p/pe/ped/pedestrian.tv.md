@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pedestrian.tv privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004080631id_/https%3A//www.pedestrian.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedestrian.tv privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605054829id_/https%3A//www.pedestrian.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pedestrian TV
+# Privacy Policy | Pedestrian TV
+
+### 1\. What is this policy about?
 
 This policy explains how we collect, use and disclose the personal information you provide to us when you use our website, www.pedestrian.tv
 
@@ -17,7 +19,6 @@ We collect information about you so that we can:
   * Process, fulfil and keep you informed on the progress of the order(s) that you place on our website;
   * Send you information about our products and services as well as third party products and services that we think could be of interest to you (including promotions, discounts and special events);
   * Maintain our relationship with you (including responding to your questions);
-
 
 
   * And create and maintain records for our internal accounting and administration purposes.
@@ -76,3 +77,7 @@ Our properties feature advertisements run on the Google Suite of Advertising and
 ### 11\. Nielsen Digital
 
 Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>.
+
+### 12\. Questions?
+
+If you have any questions about our Privacy Policy, please contact us at [editor@pedestriangroup.com.au](mailto:editor@pedestriangroup.com.au)
