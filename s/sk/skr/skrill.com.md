@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skrill.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903003052id_/https%3A//www.skrill.com/en/footer/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skrill.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605092417id_/https%3A//www.skrill.com/en/footer/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Notice | Skrill
 
