@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdempire.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630145828id_/http%3A//www.dvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdempire.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606013353id_/https%3A//www.dvdempire.com/help/cs_privacypolicy.html) for the most accurate reproduction.*
 
 # DVD Empire | Free Shipping on DVD & Blu-ray Movies
 
@@ -45,9 +45,9 @@ We have turned on Google Analytics Demographics and Interest Reporting to get an
 
 ### Other times we may collect personal information
 
-If you ask for an AdultDVDEmpire catalog, AdultDVDEmpire collects your name, mailing address, and date of birth when you complete the catalog Request. At the time you request a catalog or make a purchase from an AdultDVDEmpire catalog (including mail, fax and phone orders, the online catalog quick order form, and the online interactive version of the catalog), you are automatically opted-in to receive offers from other companies that complement the AdultDVDEmpire lifestyle. You may, however, choose to opt-out of receiving such offers. If you choose to opt-out, your name, mailing address and date of birth will not be shared with those other companies. You may opt-out of receiving the AdultDVDEmpire catalog and from receiving offers from other companies, at any time, by requesting [removal from the mailing lists](https://web.archive.org/catalog/remove). 
+If you ask for an DVDEmpire catalog, DVDEmpire collects your name, mailing address, and date of birth when you complete the catalog Request. At the time you request a catalog or make a purchase from an DVDEmpire catalog (including mail, fax and phone orders, the online catalog quick order form, and the online interactive version of the catalog), you are automatically opted-in to receive offers from other companies that complement the DVDEmpire lifestyle. You may, however, choose to opt-out of receiving such offers. If you choose to opt-out, your name, mailing address and date of birth will not be shared with those other companies. You may opt-out of receiving the DVDEmpire catalog and from receiving offers from other companies, at any time, by requesting [removal from the mailing lists](https://web.archive.org/catalog/remove). 
 
-From time to time, AdultDVDEmpire may conduct surveys and contests via our Website, email, or other forms of media. If you choose to participate, we may request your name, email address, mailing address and other personal information. We will use your email address to respond to your questions, suggestions, and/or requests for assistance in using our site. 
+From time to time, DVDEmpire may conduct surveys and contests via our Website, email, or other forms of media. If you choose to participate, we may request your name, email address, mailing address and other personal information. We will use your email address to respond to your questions, suggestions, and/or requests for assistance in using our site. 
 
 * * *
 
@@ -67,7 +67,7 @@ Information we collect on the Website may be used to enhance your shopping exper
 
 
 
-When you Create an Account, you are automatically opted-in to receive, in the mail and via email, from DVDEmpire, i nformation regarding the various aspects of Your Account, promotional materials and a AdultDVDEmpire catalog. You may opt-out of receiving the emails and promotional materials at any time, by requesting removal from the mailing lists as described in this Privacy Policy. 
+When you Create an Account, you are automatically opted-in to receive, in the mail and via email, from DVDEmpire, i nformation regarding the various aspects of Your Account, promotional materials and a DVDEmpire catalog. You may opt-out of receiving the emails and promotional materials at any time, by requesting removal from the mailing lists as described in this Privacy Policy. 
 
 * * *
 
