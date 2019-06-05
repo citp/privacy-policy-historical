@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mageplaza.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213024141id_/https%3A//www.mageplaza.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mageplaza.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605050610id_/https%3A//www.mageplaza.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy – Mageplaza
 
