@@ -1,473 +1,1004 @@
-<!--The following is the downloaded HTML source of the rxbar.com privacy policy that was archived on 2016-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161114092940id_/https%3A//www.rxbar.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rxbar.com privacy policy that was archived on 2019-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190605150421id_/https%3A//www.rxbar.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-<title>Privacy Policy | RXBAR</title>
-<meta name="description" content="RXBAR">
+<!DOCTYPE html><html lang="en-US" class=" async-hide"><head> <script type="text/javascript" async="" src="//staticw2.yotpo.com/xzOjZtkswdGYBFeGXcU9cuO3ELcP1aG4ZF9GSJFB/widget.js "></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KZBQ7S"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+    var require = {
+        "baseUrl": "https://www.rxbar.com/static/version1558963475/frontend/Rxbar/default/en_US"
+    };</script> <meta charset="utf-8">
+<meta name="description" content="RXBAR privacy policy. Please visit the Contact Us page to get in touch for further details or questions.
+">
 <meta name="keywords" content="RXBAR">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="https://www.rxbar.com/media/favicon/default/RX-Favicon.png" type="image/x-icon">
-<link rel="shortcut icon" href="https://www.rxbar.com/media/favicon/default/RX-Favicon.png" type="image/x-icon">
-<!--[if lt IE 7]>
-<script type="text/javascript">
-//<![CDATA[
-    var BLANK_URL = 'https://www.rxbar.com/js/blank.html';
-    var BLANK_IMG = 'https://www.rxbar.com/js/spacer.gif';
-//]]>
-</script>
-<![endif]-->
-<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/base/default/css/widgets.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/base/default/aw_blog/css/style.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/base/default/css/amasty/ampromo/styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/grid_responsive.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/font-awesome.min.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/skin.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/custom.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/base/default/css/rxbar/contacts.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/fancybox.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/print.css" media="print">
-<script type="text/javascript" src="https://www.rxbar.com/js/prototype/prototype.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/lib/ccard.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/prototype/validation.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/scriptaculous/builder.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/scriptaculous/effects.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/scriptaculous/dragdrop.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/scriptaculous/controls.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/scriptaculous/slider.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/varien/js.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/varien/form.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/varien/menu.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/mage/translate.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/mage/cookies.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/amasty/ampromo/items.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/js/meigee/jquery.min.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/jquery.easing.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/jquery.selectbox-0.2.min.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/script.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/jquery.iosslider.min.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/jquery.fancybox.pack.js"></script>
-<link href="https://www.rxbar.com/blog/rss/index/store_id/1/" title="Blog" rel="alternate" type="application/rss+xml">
-<!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/styles-ie.css" media="all" />
-<![endif]-->
-<!--[if lt IE 10]>
-<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/script_ie.js"></script>
-<![endif]-->
-<!--[if lt IE 9]>
-<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/html5.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/css3-mediaqueries.js"></script>
-<script type="text/javascript" src="https://www.rxbar.com/skin/frontend/indigo/default/js/selectivizr-min.js"></script>
-<![endif]-->
-<!--[if IE 8]>
-<link rel="stylesheet" type="text/css" href="https://www.rxbar.com/skin/frontend/indigo/default/css/styles-ie-8.css" media="all" />
-<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy | RXBAR</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.rxbar.com/static/version1558963475/_cache/merged/22a236d02f799dac99697e1bf433d1fc.min.css">
+<link rel="stylesheet" type="text/css" media="print" href="https://www.rxbar.com/static/version1558963475/frontend/Rxbar/default/en_US/css/print.min.css">
+<script type="text/javascript" src="https://www.rxbar.com/static/version1558963475/frontend/Rxbar/default/en_US/requirejs/require.min.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/static/version1558963475/frontend/Rxbar/default/en_US/requirejs-min-resolver.min.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/static/version1558963475/frontend/Rxbar/default/en_US/mage/requirejs/mixins.min.js"></script>
+<script type="text/javascript" src="https://www.rxbar.com/static/version1558963475/_requirejs/frontend/Rxbar/default/en_US/requirejs-config.min.js"></script>
+<link rel="canonical" href="https://www.rxbar.com/privacy-policy">
+<link rel="icon" type="image/x-icon" href="https://www.rxbar.com/media/favicon/default/RX-Favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.rxbar.com/media/favicon/default/RX-Favicon.png">
+<link rel="dns-prefetch" href="https://ws.friendbuy.com"><link rel="dns-prefetch" href="https://s.amazon-adsystem.com"><link rel="dns-prefetch" href="https://kiipnetwork.go2cloud.org"><link rel="dns-prefetch" href="https://www.paypalobjects.com"><link rel="dns-prefetch" href="https://sc-static.net"><link rel="dns-prefetch" href="https://s.pinimg.com"><link rel="dns-prefetch" href="https://www.facebook.com"><link rel="dns-prefetch" href="https://connect.facebook.net"><link rel="dns-prefetch" href="https://rxbar.zendesk.com"><link rel="dns-prefetch" href="https://ekr.zdassets.com"><link rel="dns-prefetch" href="http://amplifypixel.outbrain.com"><link rel="dns-prefetch" href="http://collector-2288.tvsquared.com"><link rel="dns-prefetch" href="http://aa.agkn.com"><link rel="dns-prefetch" href="http://dynamic.optimonk.com"><link rel="dns-prefetch" href="http://front.optimonk.com"><link rel="dns-prefetch" href="http://static.ads-twitter.com"><link rel="dns-prefetch" href="http://t.co"><link rel="dns-prefetch" href="http://www.googleadservices.com"><link rel="dns-prefetch" href="http://connect.facebook.net"><link rel="dns-prefetch" href="http://bat.bing.com"><link rel="dns-prefetch" href="http://px0.pbbl.co"><link rel="dns-prefetch" href="http://cdn1.friendbuy.com"><link rel="dns-prefetch" href="http://cdn.pbbl.co"><link rel="dns-prefetch" href="https://www.gstatic.com"><link rel="dns-prefetch" href="http://staticw2.yotpo.com"><link rel="dns-prefetch" href="http://www.googletagmanager.com">   <script>
+    var dlCurrencyCode = dlCurrencyCode || '';
+    var dataLayer = dataLayer || [];
+    var staticImpressions = staticImpressions || [];
+    var staticPromotions = staticPromotions || [];
+    var updatedImpressions = updatedImpressions || [];
+    var updatedPromotions = updatedPromotions || [];
+    var cookieAddToCart = 'add_to_cart';
+    var cookieRemoveFromCart = cookieRemoveFromCart || 'remove_from_cart';
+    var bannerCounter = bannerCounter || 0;
 
-<script type="text/javascript">
-//<![CDATA[
-Mage.Cookies.path     = '/';
-Mage.Cookies.domain   = '.www.rxbar.com';
-//]]>
-</script>
+    require([
+        "jquery",
+        "prototype",
+        "Magento_Customer/js/customer-data"
+    ], function(jQuery, prototype, customerData){
 
-<script type="text/javascript">
-//<![CDATA[
-optionalZipCountries = [];
-//]]>
-</script>
-    <!-- BEGIN GOOGLE UNIVERSAL ANALYTICS CODE -->
-    <script type="text/javascript">
-        //<![CDATA[
+        function GoogleAnalyticsUniversal(){}
+        GoogleAnalyticsUniversal.prototype = {
+            activeOnCategory : function(id, name, category, list, position) {
+                dataLayer.push({
+                    'event': 'productClick',
+                    'ecommerce': {
+                        'click': {
+                            'actionField': {
+                                'list': list
+                            },
+                            'products': [{
+                                'id': id,
+                                'name': name,
+                                'category': category,
+                                'list': list,
+                                'position': position
+                            }]
+                        }
+                    }
+                });
+            },
+            activeOnProducts : function(id, name, list, position) {
+                dataLayer.push({
+                    'event': 'productClick',
+                    'ecommerce': {
+                        'click': {
+                            'actionField': {
+                                'list': list
+                            },
+                            'products': [{
+                                'id': id,
+                                'name': name,
+                                'list': list,
+                                'position': position
+                            }]
+                        }
+                    }
+                });
+            },
+            addToCart : function(id, name, price, quantity) {
+                dataLayer.push({
+                    'event': 'addToCart',
+                    'ecommerce': {
+                        'currencyCode' : dlCurrencyCode,
+                        'add': {
+                            'products': [{
+                                'id': id,
+                                'name': name,
+                                'price': price,
+                                'quantity': quantity
+                            }]
+                        }
+                    }
+                });
+            },
+            clickBanner : function(id, name, creative, position) {
+                dataLayer.push({
+                    'event': 'promotionClick',
+                    'ecommerce': {
+                        'promoClick': {
+                            'promotions': [{
+                                'id': id,
+                                'name': name,
+                                'creative': creative,
+                                'position': position
+                            }]
+                        }
+                    }
+                });
+            },
+            bindImpressionClick : function(id, type, name, category, list, position, blockType, listPosition) {
+                var productLink = [];
+                var eventBlock;
+                switch (blockType)  {
+                    case 'catalog.product.related':
+                        eventBlock = '.products-related .products';
+                        break;
+                    case 'product.info.upsell':
+                        eventBlock = '.products-upsell .products';
+                        break;
+                    case 'checkout.cart.crosssell':
+                        eventBlock = '.products-crosssell .products';
+                        break;
+                    case 'category.products.list':
+                    case 'search_result_list':
+                        eventBlock = '.products .products';
+                        break;
+                }
+                productLink = $$(eventBlock + ' .item:nth(' + (listPosition) + ') a');
+                if (type == 'configurable' || type == 'bundle' || type == 'grouped') {
+                    productLink = $$(
+                        eventBlock + ' .item:nth(' + (listPosition) + ') .tocart',
+                        eventBlock + ' .item:nth(' + (listPosition) + ') a'
+                    );
+                }
+                productLink.each(function(element) {
+                    element.observe('click', function(event) {
+                        googleAnalyticsUniversal.activeOnProducts(
+                            id,
+                            name,
+                            list,
+                            position);
+                    });
+                });
+            },
+
+            updateImpressions: function() {
+                var pageImpressions = this.mergeImpressions();
+                var dlImpressions = {
+                    'event' : 'productImpression',
+                    'ecommerce' : {
+                        'impressions' : []
+                    }
+                };
+                var impressionCounter = 0;
+                for (blockName in pageImpressions) {
+                    if (blockName === 'length' || !pageImpressions.hasOwnProperty(blockName))
+                        continue;
+                    for (var i = 0; i < pageImpressions[blockName].length; i++) {
+                        var impression = pageImpressions[blockName][i];
+                        dlImpressions.ecommerce.impressions.push({
+                            'id': impression.id,
+                            'name': impression.name,
+                            'category': impression.category,
+                            'list': impression.list,
+                            'position': impression.position
+                        });
+                        impressionCounter++;
+                        this.bindImpressionClick(
+                            impression.id,
+                            impression.type,
+                            impression.name,
+                            impression.category,
+                            impression.list,
+                            impression.position,
+                            blockName,
+                            impression.listPosition
+                        );
+                    }
+                }
+                if (impressionCounter > 0) {
+                    dataLayer.push(dlImpressions);
+                }
+            },
+
+            mergeImpressions: function() {
+                var pageImpressions = [];
+                var blockNames = ["category.products.list","product.info.upsell","catalog.product.related","checkout.cart.crosssell","search_result_list"];
+                blockNames.each(function(blockName) {
+                    
+                    if (blockName in updatedImpressions) {
+                        pageImpressions[blockName] = updatedImpressions[blockName];
+                    } else if (blockName in staticImpressions) { 
+                        pageImpressions[blockName] = staticImpressions[blockName];
+                    }
+                });
+                return pageImpressions;
+            },
+
+            privateLoad: function() {
+                var localCache = JSON.parse(localStorage.getItem("mage-cache-storage"));
+                if (!localCache || jQuery.isEmptyObject(localCache['customer'])) {
+                    var customer = customerData.get('customer');
+                    var self = this;
+                    var subscribeProcessed = false;
+                    customer.subscribe(function(options) {
+                        subscribeProcessed = true;
+                        self.pushCustomer(options);
+                    });
+
+                    if (!subscribeProcessed) {
+                        this.pushCustomer({});
+                    }
+                } else {
+                    this.pushCustomer(localCache['customer']);
+                }
+            },
+
+            pushCustomer: function(customerInfo) {
+                var data = {
+                    'id': customerInfo.id ? customerInfo.id : undefined,
+                    'loggedInStatus': customerInfo.id ? true : false
+                };
+
+                if (customerInfo.id) {
+                    var loggedInData = {
+                        'registrationDate': customerInfo.registrationDate,
+                        'firstPurchaseDate': customerInfo.firstPurchaseDate,
+                        'previousPurchaseDate': customerInfo.previousPurchaseDate,
+                        'weeksSincePreviousPurchase': customerInfo.weeksSincePreviousPurchase,
+                        'countOfPurchases': customerInfo.countOfPurchases,
+                        'lifetimeValue': customerInfo.lifetimeValue,
+                        'isNewsletterSubscriber': customerInfo.isNewsletterSubscriber,
+                        'productSubscriptions': customerInfo.productSubscriptions,
+                        'businessType': customerInfo.businessType,
+                        'salesChannel': customerInfo.salesChannel,
+                        'numberOfStores': customerInfo.numberOfStores,
+                        'companyName': customerInfo.companyName,
+                        'country': customerInfo.country,
+                        'state': customerInfo.state,
+                        'postalCode': customerInfo.postalCode
+                    };
+
+                    data = jQuery.extend(data, loggedInData);
+                }
+
+                dataLayer.push({'user': data, 'event': 'datalayer-initialized'});
+            },
+
+            updatePromotions : function() {
+                var dlPromotions = {
+                    'event' : 'promotionView',
+                    'ecommerce': {
+                        'promoView': {
+                            'promotions' : []
+                        }
+                    }
+                };
+                var pagePromotions = [];
+                
+                if (updatedPromotions.length) {
+                    pagePromotions = updatedPromotions;
+                }
+                
+                if (pagePromotions.length == 0 && staticPromotions.length) {
+                    pagePromotions = staticPromotions;
+                }
+                var promotionCounter = 0;
+                var bannerIds = [];
+                if (jQuery('[data-banner-id]').length) {
+                    _.each(jQuery('[data-banner-id]'), function (banner) {
+                        var banner = jQuery(banner);
+                        var ids = (banner.data('ids') + '').split(',');
+                        bannerIds = jQuery.merge(bannerIds, ids);
+                    });
+                }
+                bannerIds = jQuery.unique(bannerIds);
+                for (var i = 0; i < pagePromotions.length; i++) {
+                    var promotion = pagePromotions[i];
+                    if (jQuery.inArray(promotion.id, bannerIds) == -1 || promotion.activated == '0') {
+                        continue;
+                    }
+                    dlPromotions.ecommerce.promoView.promotions.push({
+                        'id': promotion.id,
+                        'name': promotion.name,
+                        'creative': promotion.creative,
+                        'position': promotion.position
+                    });
+                    promotionCounter++;
+                }
+                if (promotionCounter > 0) {
+                    dataLayer.push(dlPromotions);
+                }
+                jQuery('[data-banner-id]').on('click', '[data-banner-id]', function(e){
+                    var bannerId = jQuery(this).attr('data-banner-id');
+                    var promotions = _.filter(pagePromotions, function(item) {
+                        return item.id === bannerId;
+                    });
+                    _.each(promotions, function(promotion) {
+                        googleAnalyticsUniversal.clickBanner(
+                            promotion.id,
+                            promotion.name,
+                            promotion.creative,
+                            promotion.position
+                        );
+                    });
+                });
+            }
+        };
+
+        GoogleAnalyticsUniversalCart = function(){
+            this.productQtys = [];
+            this.origProducts = {};
+            this.productWithChanges = [];
+            this.addedProducts = [];
+            this.removedProducts = [];
+            this.googleAnalyticsUniversalData = {};
+        };
+        GoogleAnalyticsUniversalCart.prototype = {
+            
+            listenMinicartReload : function() {
+                var context = this;
+                if (typeof(Minicart) != 'undefined' && typeof(Minicart.prototype.initAfterEvents)) {
+                    Minicart.prototype.initAfterEvents['GoogleAnalyticsUniversalCart:subscribeProductsUpdateInCart']
+                        = function() {
+                        context.subscribeProductsUpdateInCart();
+                        context.parseAddToCartCookies();
+                        context.parseRemoveFromCartCookies();
+                    };
+                    
+                    Minicart.prototype.removeItemAfterEvents[
+                        'GoogleAnalyticsUniversalCart:subscribeProductsRemoveFromCart'
+                        ] = function() {
+                        context.parseRemoveFromCartCookies();
+                    };
+                }
+            },
+            subscribeProductsUpdateInCart : function() {
+                var context = this;
+                $$('[data-cart-item-update]').each(function(element) {
+                    $(element).stopObserving('click').observe('click', function(){
+                        context.updateCartObserver();
+                    });
+                });
+                jQuery('[data-block="minicart"]').on('mousedown', '.update-cart-item', function(){
+                    context.updateCartObserver();
+                });
+
+                $$('[data-multiship-item-update]').each(function(element) {
+                    $(element).stopObserving('click').observe('click', function(){
+                        context.updateMulticartCartObserver();
+                    });
+                });
+                $$('[data-cart-empty]').each(function(element){
+                    $(element).stopObserving('click').observe('click', function(){
+                        context.emptyCartObserver();
+                    });
+                });
+            },
+            emptyCartObserver : function() {
+                this.collectOriginalProducts();
+                for (var i in this.origProducts) {
+                    if (i != 'length' && this.origProducts.hasOwnProperty(i)) {
+                        var product = Object.extend({}, this.origProducts[i]);
+                        this.removedProducts.push(product);
+                    }
+                }
+                this.cartItemRemoved();
+            },
+            updateMulticartCartObserver : function() {
+                this.collectMultiProductsWithChanges();
+                this.collectProductsForMessages();
+                this.cartItemAdded();
+                this.cartItemRemoved();
+            },
+            updateCartObserver : function() {
+                this.collectProductsWithChanges();
+                this.collectProductsForMessages();
+                this.cartItemAdded();
+                this.cartItemRemoved();
+            },
+            collectMultiProductsWithChanges : function() {
+                this.collectOriginalProducts();
+                this.collectMultiCartQtys();
+                this.productWithChanges = [];
+                var groupedProducts = {};
+                for (var i = 0; i < this.productQtys.length; i++) {
+                    var cartProduct = this.productQtys[i];
+                    if (typeof(groupedProducts[cartProduct.id]) == 'undefined') {
+                        groupedProducts[cartProduct.id] = parseInt(cartProduct.qty, 10);
+                    } else {
+                        groupedProducts[cartProduct.id] += parseInt(cartProduct.qty, 10);
+                    }
+                }
+                for (var j in groupedProducts) {
+                    if (groupedProducts.hasOwnProperty(j)) {
+                        if (
+                            (typeof(this.origProducts[j]) != 'undefined')
+                            && (groupedProducts[j] != this.origProducts[j].qty)
+                        ) {
+                            var product = Object.extend({}, this.origProducts[j]);
+                            product['qty'] = groupedProducts[j];
+                            this.productWithChanges.push(product);
+                        }
+                    }
+                }
+            },
+            collectProductsWithChanges : function () {
+                this.collectOriginalProducts();
+                this.collectCartQtys();
+                this.collectMiniCartQtys();
+                this.productWithChanges = [];
+                for (var i = 0; i < this.productQtys.length; i++) {
+                    var cartProduct = this.productQtys[i];
+                    if (
+                        (typeof(this.origProducts[cartProduct.id]) != 'undefined') &&
+                        (cartProduct.qty != this.origProducts[cartProduct.id].qty)
+                    ) {
+                        var product = Object.extend({}, this.origProducts[cartProduct.id]);
+                        if (parseInt(cartProduct.qty, 10) > 0) {
+                            product['qty'] = cartProduct.qty;
+                            this.productWithChanges.push(product);
+                        }
+                    }
+                }
+            },
+            collectOriginalProducts : function() {
+                var products = {};
+                var items = customerData.get('cart')().items;
+                if (items !== undefined) {
+                    items.each(function(item) {
+                        products[item.product_sku] = {
+                            "id": item.product_sku,
+                            "name": item.product_name,
+                            "price": item.product_price_value,
+                            "qty": parseInt(item.qty, 10)
+                        };
+                    });
+                }
+                this.googleAnalyticsUniversalData['shoppingCartContent'] = products;
+                this.origProducts = this.googleAnalyticsUniversalData['shoppingCartContent'];
+            },
+            collectMultiCartQtys : function() {
+                var productQtys = [];
+                $$('[data-multiship-item-id]').each(function(element){
+                    productQtys.push({
+                        'id' : $(element).readAttribute('data-multiship-item-id'),
+                        'qty' : $(element).getValue()
+                    });
+                });
+                this.productQtys = productQtys;
+            },
+            collectCartQtys : function() {
+                var productQtys = [];
+                $$('[data-cart-item-id]').each(function(element){
+                    productQtys.push({
+                        'id' : $(element).readAttribute('data-cart-item-id'),
+                        'qty' : $(element).getValue()
+                    });
+                });
+                this.productQtys = productQtys;
+            },
+            collectMiniCartQtys : function() {
+                var productQtys = [];
+                $$('input[data-cart-item-id]').each(function(element){
+                    productQtys.push({
+                        'id' : $(element).readAttribute('data-cart-item-id'),
+                        'qty' : $(element).getValue()
+                    });
+                });
+                this.productQtys = productQtys;
+            },
+            collectProductsForMessages : function() {
+                this.addedProducts = [];
+                this.removedProducts = [];
+                for (var i = 0; i < this.productWithChanges.length; i++) {
+                    var product = this.productWithChanges[i];
+                    if (typeof(this.origProducts[product.id]) != 'undefined') {
+                        if (product.qty > this.origProducts[product.id].qty) {
+                            product.qty = Math.abs(product.qty - this.origProducts[product.id].qty);
+                            this.addedProducts.push(product);
+                        } else if (product.qty < this.origProducts[product.id].qty) {
+                            product.qty = Math.abs(this.origProducts[product.id].qty - product.qty);
+                            this.removedProducts.push(product);
+                        }
+                    }
+                }
+            },
+            formatProductsArray : function(productsIn) {
+                var productsOut = [];
+                var itemId;
+                for (var i in productsIn)
+                {
+                    if (i != 'length' && productsIn.hasOwnProperty(i)) {
+                        if (typeof(productsIn[i]['sku']) != 'undefined') {
+                            itemId = productsIn[i].sku;
+                        } else {
+                            itemId = productsIn[i].id;
+                        }
+                        productsOut.push({
+                            'id': itemId,
+                            'name': productsIn[i].name,
+                            'price': productsIn[i].price,
+                            'quantity': parseInt(productsIn[i].qty, 10)
+                        });
+                    }
+                }
+                return productsOut;
+            },
+            cartItemAdded : function() {
+                if (this.addedProducts.length == 0) {
+                    return;
+                }
+                dataLayer.push({
+                    'event': 'addToCart',
+                    'ecommerce': {
+                        'currencyCode' : dlCurrencyCode,
+                        'add': {
+                            'products': this.formatProductsArray(this.addedProducts)
+                        }
+                    }
+                });
+                this.addedProducts = [];
+            },
+            cartItemRemoved : function() {
+                if (this.removedProducts.length == 0) {
+                    return;
+                }
+                dataLayer.push({
+                    'event': 'removeFromCart',
+                    'ecommerce': {
+                        'currencyCode' : dlCurrencyCode,
+                        'remove': {
+                            'products': this.formatProductsArray(this.removedProducts)
+                        }
+                    }
+                });
+                this.removedProducts = [];
+            },
+            parseAddToCartCookies : function(){
+                if(getCookie(cookieAddToCart)){
+                    this.addedProducts = [];
+                    var addProductsList = decodeURIComponent(getCookie(cookieAddToCart));
+                    this.addedProducts = JSON.parse(addProductsList);
+                    delCookie(cookieAddToCart);
+                    this.cartItemAdded();
+                }
+            },
+            parseRemoveFromCartCookies : function(){
+                if(getCookie(cookieRemoveFromCart)){
+                    this.removedProducts = [];
+                    var removeProductsList = decodeURIComponent(getCookie(cookieRemoveFromCart));
+                    this.removedProducts = JSON.parse(removeProductsList);
+                    delCookie(cookieRemoveFromCart);
+                    this.cartItemRemoved();
+                }
+            }
+        };
+
+        var googleAnalyticsUniversal = new GoogleAnalyticsUniversal();
+        googleAnalyticsUniversal.privateLoad();
+
+        var googleAnalyticsUniversalCart = new GoogleAnalyticsUniversalCart();
+
+        document.observe('dom:loaded', function() {
+            googleAnalyticsUniversal.updatePromotions();
+            googleAnalyticsUniversal.updateImpressions();
+            googleAnalyticsUniversalCart.parseAddToCartCookies();
+            googleAnalyticsUniversalCart.parseRemoveFromCartCookies();
+            googleAnalyticsUniversalCart.subscribeProductsUpdateInCart();
+            googleAnalyticsUniversalCart.listenMinicartReload();
+            dataLayer.push({'ecommerce':{'impressions':0,'promoView':0}});
+        });
+
+        function getCookie(name) {
+            var cookie = " " + document.cookie;
+            var search = " " + name + "=";
+            var setStr = null;
+            var offset = 0;
+            var end = 0;
+            if (cookie.length > 0) {
+                offset = cookie.indexOf(search);
+                if (offset != -1) {
+                    offset += search.length;
+                    end = cookie.indexOf(";", offset);
+                    if (end == -1) {
+                        end = cookie.length;
+                    }
+                    setStr = decodeURI(cookie.substring(offset, end));
+                }
+            }
+            return(setStr);
+        }
+
+        function delCookie(name) {
+            var date = new Date(0);
+            var cookie = name + "=" + "; path=/; expires=" + date.toUTCString();
+            document.cookie = cookie;
+        }
+    });</script>   <!-- Google Optimize Hiding Snippet --><style>.async-hide { opacity: 0 !important}</style><script>
+        (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+            h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+            (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+        })(window,document.documentElement,'async-hide','dataLayer',4000,
+            {'GTM-W4JH994':true});</script>  <!-- Google Analytics-Google Optimize Snippet --><script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-40741276-1', 'auto');
+        ga('require', 'GTM-W4JH994');</script>  <!-- GOOGLE TAG MANAGER --><script>
+                    //<![CDATA[
+                    (function (w, d, s, l, i) {
+                        w[l] = w[l] || [];
+                        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+                        var f = d.getElementsByTagName(s)[0];
+                        var j = d.createElement(s);
+                        var dl = l != 'dataLayer' ? '&l=' + l : '';
+                        j.async = true;
+                        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                        f.parentNode.insertBefore(j, f);
+                    })(window, document, 'script', 'dataLayer', 'GTM-KZBQ7S');
 
-        
-ga('create', 'UA-40741276-1', 'auto');
+                    var dlCurrencyCode = 'USD';
+                     //]]>
+</script><!-- END GOOGLE TAG MANAGER --></head><body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://www.rxbar.com/static/version1558963475/frontend/Rxbar/default/en_US/images/loader-2.gif&quot;}}" class="cms-privacy-policy cms-page-view page-layout-1column">  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KZBQ7S" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>            <script>
+        require.config({
+            deps: [
+                'jquery',
+                'mage/translate',
+                'jquery/jquery-storageapi'
+            ],
+            callback: function ($) {
+                'use strict';
 
-ga('send', 'pageview');
-        
-        //]]>
-    </script>
-    <!-- END GOOGLE UNIVERSAL ANALYTICS CODE -->
-<!-- Facebook Pixel Code -->
-<script>
-//<![CDATA[
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function()
-    {n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
-    ;if(!f._fbq)f._fbq=n;
-        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-        document,'script','//connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '865478923487525');
-    fbq('track', 'PageView');
-    fbq('track', 'ViewContent');
-//]]>
-</script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=865478923487525&ev=PageView&noscript=1"/></noscript>
-<!-- End Facebook Pixel Code --><script>
-    window['friendbuy'] = window['friendbuy'] || [];
-    window['friendbuy'].push(['site', 'site-7002963b-rxbar.com']);
-        (function (f, r, n, d, b, y) {
-        b = f.createElement(r), y = f.getElementsByTagName(r)[0];b.async = 1;b.src = n;y.parentNode.insertBefore(b, y);
-    })(document, 'script', '//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js');
-</script><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><style type="text/css">
-.nav-wide#nav-wide .right-content h2,
-.nav-wide#nav-wide .top-content,
-.nav-wide#nav-wide .bottom-content,
-.nav-wide#nav-wide ul.level0 a span.subtitle,
-.product-collateral h2,
-header#header .top-cart .block-title a,
-.text-block button span,
-.std h1,
-.price,
-.product-name a,
-.page-title h2,
-.page-title h1,
-#footer .custom_footer h3,
-aside.sidebar .block .block-title strong span,
-aside.sidebar .block .filter-label span,
-aside.sidebar .actions a,
-button.button span span,
-.dashboard .welcome-msg .hello,
-.dashboard .box-head h2,
-.dashboard .box-title h3,
-#login-holder form .actions .link-box a,
-.add-to-cart-success,
-.add-to-cart-success a,
-.account-login .indent h2,
-.opc .step-title,
-.opc .grid_4 h3,
-aside.sidebar .block.block-progress .block-title strong span,
-#onepagecheckout_forgotbox .page-title span,
-#onepagecheckout_loginbox .page-title span,
-#onepagecheckout_forgotbox button.button span span,
-#onepagecheckout_loginbox button.button span span,
-#onepagecheckout_orderform .col3-set.onepagecheckout_datafields .op_block_title,
-#checkout-coupon-discount-load .discount-form .buttons-set button.button span span,
-#checkout-review-submit #review-buttons-container button.btn-checkout,
-.cart .cart-collaterals h2,
-.cart .btn-proceed-checkout,
-.product-view .product-name h2,
-.block-related .block-title strong span,
-.catalog-product-view .box-reviews ul li h6,
-header#header .top-cart .block-content .actions a,
-header#header .top-cart .block-content .subtotal span,
-.catalog-product-view .box-reviews h2,
-aside.sidebar .block.block-wishlist li.item .product-details .product-name a,
-aside.sidebar .block.block-wishlist .link-cart,
-.header-slider-container .iosSlider .slider .item .slide-container h2,
-.header-slider-container .iosSlider .slider .item .slide-container.slide-skin-2 h3,
-.header-slider-container .iosSlider .slider .item h5,
-.header-slider-container .iosSlider .slider .item .slide-container.slide-skin-3 h3 {font-family:Open+Sans; -webkit-text-stroke-width: 0.02em;}</style><script>
-    window['friendbuy'] = window['friendbuy'] || [];
-    window['friendbuy'].push(['widget', 'bBy-hc4', {configuration: {share_button: false}}]);
-</script>
-<script type="text/javascript">//<![CDATA[
-        var Translator = new Translate([]);
-        //]]></script></head>
-<body class=" cms-page-view header-slider onlyhome-slider none sidebar-right cms-privacy-policy">
-    <noscript>
-        <div class="global-site-notice noscript">
-            <div class="notice-inner">
-                <p>
-                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
-                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
-            </div>
-        </div>
-    </noscript>
-<header id="header">
-	<div class="container_12">
-		<div class="grid_12">
-							<h1 class="logo"><strong></strong><a href="https://www.rxbar.com/" title="" class="logo"><img src="https://www.rxbar.com/media/images/default/new-logo_1.png" alt=""></a></h1>
-						<p class="welcome-msg"><span> </span></p>
-			<div class="top-cart">
-<div class="mobile-only mobile-account-icon-wrap">
-	<a class="mobile-account-icon" href="/customer/account/">
-		<span class="title-cart">
-			<i class="fa-user fa fa-2x"></i>
-		</span>
-	</a>
-</div>
-<div class="block-title no-items">
+                var dependencies = [],
+                    versionObj;
 
-	<a id="cartHeader" href="#">
-		<span class="title-cart">
-		<i class="fa-shopping-cart fa fa-2x"></i>
-				</span>
-	</a>
+                $.initNamespaceStorage('mage-translation-storage');
+                $.initNamespaceStorage('mage-translation-file-version');
+                versionObj = $.localStorage.get('mage-translation-file-version');
 
-</div>
-<div id="topCartContent" class="block-content" style="display:none;">
-	<div class="inner-wrapper">				<p class="cart-empty">
-			<span>You have no items in your shopping cart.</span>
-			<span class="small-label">Add some to cart or <a href="https://www.rxbar.com/customer/account/login/" class="top-link-login">login</a></span>
-		</p>
-			</div>
-</div>
-<script type="text/javascript">
-	/* Top Cart */
-	topCart();
-</script>
-</div>			<div class="header-right-box">
-				<div class="quick-access">
-															<div class="clear"></div>
-				</div>
-				<div class="clear"></div>
-				<div class="links-container">
-					<span class="links-button"><span><i class="fa fa-bars"></i>Top links</span></span>
-					<ul class="links">
-                        <li class="first"><a href="https://www.rxbar.com/customer/account/" title="My Account" class="top-link-account">My Account</a></li>
-                                <li class=" last"><a href="https://www.rxbar.com/store-locator/" title="">Store Locator</a></li>
-            </ul>
-					<dl class="company-links">
-						<dt>
-							<a href="#"><span>Company</span></a>
-						</dt>
-						<dd>
-														<ul class="links">
-                        <li class="first"><a href="https://www.rxbar.com/contacts/" title="Contact Us">Contact Us</a></li>
-                                <li><a href="https://www.rxbar.com/catalog/seo_sitemap/category/" title="Site Map">Site Map</a></li>
-                                <li><a href="https://www.rxbar.com/catalogsearch/term/popular/" title="Search Terms">Search Terms</a></li>
-                                <li class=" last"><a href="https://www.rxbar.com/catalogsearch/advanced/" title="Advanced Search">Advanced Search</a></li>
-            </ul>
-						</dd>
-					</dl>
-					<div class="friendbuy show980">
-						<a href="#" class="friendbuy-bBy-hc4"><span>Get $5</span></a>
-					</div>
-					<div class="clear"></div>
-					<nav class="nav-container">
-						<span class="links-menu"><span><i class="fa fa-bars"></i>Menu</span></span>
-						<nav class="nav-container">
-    <ul class="nav-wide" id="nav-wide">
-                    <li class="level0 level-top">
-                <a href="https://www.rxbar.com/products.html" class="level-top">
-                    <span>Buy RXBAR</span>
-                </a>
-            </li>
-                    <li class="level0 level-top">
-                <a href="https://www.rxbar.com/wholesale.html" class="level-top">
-                    <span>Wholesale</span>
-                </a>
-            </li>
-                    <li class="hide980 friendbuy-mob">
-                <a href="#" class="friendbuy-bBy-hc4">
-                    <span>Get $5</span>
-                </a>
-            </li>
-                    <li class="level0 level-top">
-                <a href="https://www.rxbar.com/faq.html" class="level-top">
-                    <span>FAQ</span>
-                </a>
-            </li>
-                    <li class="level0 level-top">
-                <a href="https://www.rxbar.com/contact-us.html" class="level-top">
-                    <span>Contact us</span>
-                </a>
-            </li>
-            </ul>
-</nav>
-					</nav>
-				</div>
-				<div class="clear"></div>
-			</div>
-		</div>
-		<div class="clear"></div>
-	</div>
+                if (versionObj.version !== '8aab8dae8266bb8244a6d7068b7ee4dfa0913be3') {
+                    dependencies.push(
+                        'text!js-translation.json'
+                    );
 
-	
-</header>
-<div class="top-container"><div class="widget widget-static-block"></div></div>	<script type="text/javascript">
-		/* Login ajax */
-		jQuery('.top-link-login').on('click', function(){
-			ajaxLogin("https://www.rxbar.com/meigeeactions/login/", false);
-			return false;
-		});
-		jQuery('header#header .links-menu').on('click', function(){
-			jQuery('header#header .nav-container > ul#nav-wide').toggle();
-		});
-	</script>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:300,400,600,700" type="text/css">
-<div class="content-wrapper">
-    <div class="container_12">
-		<div class="breadcrumbs-wrapper">
-	<div class="grid_12">
-		<nav class="breadcrumbs">
-			<ul>
-									<li class="home">
-											<a href="https://www.rxbar.com/" title="Go to Home Page">Home</a>
-																<span>· </span>
-										</li>
-									<li class="cms_page">
-											<strong>Privacy Policy</strong>
-															</li>
-							</ul>
-		</nav>
-	</div>
-	<div class="clear"></div>
-</div>
-        <div class="main-container col1-layout">
-            <div class="grid_12 col-main">
-                                <div class="std"><style>
-h2 {
-font-weight:bold;
-color: #005D87;
-font-family: "Circular-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
-font-size:24px;
-color:#000000;
-}
+                }
 
-h3 {
-font-size:20px;
-font-family: "Circular-bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
-padding-top:30px;
-}
+                require.config({
+                    deps: dependencies,
+                    callback: function (string) {
+                        if (typeof string === 'string') {
+                            $.mage.translate.add(JSON.parse(string));
+                            $.localStorage.set('mage-translation-storage', string);
+                            $.localStorage.set(
+                                'mage-translation-file-version',
+                                {
+                                    version: '8aab8dae8266bb8244a6d7068b7ee4dfa0913be3'
+                                }
+                            );
+                        } else {
+                            $.mage.translate.add($.localStorage.get('mage-translation-storage'));
+                        }
+                    }
+                });
+            }
+        });</script>  <script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "/",
+                "domain": ".www.rxbar.com",
+                "secure": false,
+                "lifetime": "3600"
+            }
+        }
+    }</script>   <noscript><div class="message global noscript"><div class="content"><p><strong>JavaScript seems to be disabled in your browser.</strong> <span>For the best experience on our site, be sure to turn on Javascript in your browser.</span></p></div></div></noscript>       <div style="display: none;" id="paypal-express-in-context-checkout-main"></div><script type="text/x-magento-init">
+    {"*":{"Magento_Paypal\/js\/in-context\/express-checkout":{"id":"paypal-express-in-context-checkout-main","path":"https:\/\/www.rxbar.com\/paypal\/express\/gettoken\/","merchantId":"support@rxbar.com","button":true,"clientConfig":{"locale":"en_US","environment":"production","button":["paypal-express-in-context-checkout-main"]}}}}</script>  <script type="text/javascript">
+    requirejs(['jquery', 'jquery/jquery.cookie', 'domReady!'], function($) {
+        'use strict';
 
-p {
-font-size:14px;
-font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
-padding-top:30px;
-}
-.bottom-pad {
-padding-bottom:20px;
-}
+        window.psloginLoginPath = "https://www.rxbar.com/pslogin/account/login/";
+        window.customerLogoutPath = "https://www.rxbar.com/customer/account/logout/";
 
-.mid-content {
-padding: 0 15%;
-padding-bottom:20px;
-min-height:400px;
-}
+        var url = document.URL.toLowerCase();
+        if (url) {
+            var skip = false;
+            $.each(["customer\/account","pslogin\/account"], function(i, path) {
+                if (url.indexOf(path) !== -1) {
+                    skip = true;
+                    return false;
+    }
+            });
 
-</style>
-<div class=".mid-content">
-<h2>Privacy Policy</h2>
-<p>The RXBAR privacy and security measures are designed with the highest interest of our clients in mind, so any personal information that you provide to RXBAR is used for the purpose of personalizing and enhancing your web experience with RXBAR, and for no other purpose. RXBAR specific privacy policies are outlined below.</p>
-
-<h3>The Information We Collect</h3>
-
-<p>There are three ways that RXBAR obtains information from you: (1) via registration on the RXBAR website; (2) from an online purchase; or (3) from any other form of direct purchase from RXBAR.</p>
-
-<h3>How We Use The Information</h3>
-
-<p>The information obtained from registration online is utilized to improve your web experience with RXBAR by enabling you to obtain a faster checkout for purchases and/or to receive occasional e-mails which provide you with the latest and greatest information regarding RXBAR and its products.</p><br>
-
-<p>The information we ask from you when ordering online is your name, address, phone number, credit card number, email address, etc. and is used only to complete the order, to confirm the order and to confirm shipment of the order. You may, upon placement of an order, opt to allow RXBAR to save the information for a speedier checkout process the next time. This information is then stored only for the purposes of faster checkout and is not used for any other purpose.</p><br>
-
-<p>RXBAR does not otherwise utilize your personal information in any way and never shares or sells your e-mail address or other personal information to other companies. No information is collected about you unless you apply for registration or purchase products from us. "Cookies" (small bits of text that your web browser software stores on your computer when you visit certain websites) are used by RXBAR only to allow you to use RXBAR website in the most efficient manner.</p>
-
-<h3>E-Mail</h3>
-
-<p>RXBAR will only send e-mails to you if you ask for them and you can easily unsubscribe at any time you do so choose. RXBAR has a strict company policy not to flood people with e-mail correspondence, but simply gives you periodic information so you can stay up to date on what RXBAR is offering. RXBAR also uses your e-mail address to confirm your order and to confirm shipment of your order and to respond to any inquiries you make on-line. All e-mails you receive will provide you with information as to how to get off the e-mail mailing list if you so desire.</p>
-
-<h3>Children's Privacy</h3>
-
-<p>If you are under 18, you may use rxbar.com only with involvement of a parent or guardian. For their protection, RXBAR asks that anyone 13 years of age or younger not attempt to register with RXBAR or otherwise provide RXBAR with any personal information without the consent of a parent or legal guardian.</p>
-
-<h3>Access To Your Personal Information</h3>
-
-<p>RXBAR will provide you with access to the personal information you provided to RXBAR by allowing you to view and modify the information we store related to you. In order to protect your privacy, RXBAR takes steps to verify your identity before granting you access to the private information or enabling you to make corrections. RXBAR will accomplish this through the use of passwords and personal data.</p>
-
-<h3>Security</h3>
-
-<p>Our website's system is designed to monitor activity and prevent any unauthorized disclosure of credit card numbers or other personal information. In addition, we utilize a licensed system for credit card authorization and fraud detection. We use industry standard SSL (Secure Sockets Layer) encryption to protect the confidentiality of your personal information.</p>
-
-<h3>Updates to Privacy Information</h3>
-
-<p>If we decide to change our privacy policy, we will post a new policy on our Site and change the date at the bottom of the policy. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site for any updates or changes.</p>
-<br>
-<p>Privacy Policy posted: 7/5/2016</p>
-<br>
-<p>RXBAR<br>
-1552 W Carroll Ave<br>
-Suite 202<br>
-Chicago, IL 60607<br>
-United States<br>
-Phone: (312) 624-8200<br>
-<a href="mailto:info@rxbar.com">info@rxbar.com</a></p>
-</div>
-<div class="bottom-pad"></div></div>            </div>
-            <div class="clear"></div>
-        </div>    
-    </div>
-</div>
-<footer id="footer">
-	<div class="container_12">
-		<div class="grid_12">
-												</div>
-		<div class="clear"></div>
-	</div>
-</footer>
-
-<footer id="footer-links">
-	<div class="container_12">
-		<div class="grid_12">
-        
-        <div class="rx-footer">
-<div class="rx-container">
-<div>&nbsp;</div>
-<div>
-<ul class="contact-info clearfix">
-<li class="company-name"><a href="/">RXBAR</a></li>
-<li class="separator">|</li>
-<li><span class="phone-number">312.624.8200</span></li>
-<li class="separator">|</li>
-<li><span class="email-address"><a href="mailto:support@rxbar.com">support@rxbar.com</a></span></li>
-<li class="separator">|</li>
-<li><span class="email-address"><a href="https://www.themuse.com/companies/rxbar" target="_new">Careers</a></span></li>
+            if (!skip) {
+                $.cookie('pslogin_referer', document.URL, {
+                    path: '/'
+                });
+            }
+        }
+    });</script><form style="display:none;" class="form" action="https://www.rxbar.com/pslogin/account/loginPost/" method="post" id="pslogin-login-form"><input id="pslogin-login-referer" name="referer" type="hidden" value=""><input id="pslogin-login-submit" type="submit" value=""></form><div class="page-wrapper"><header class="page-header header"><div class="header__panel clearfix"> <a class="action skip contentarea" href="#contentarea"><span>Skip to Content</span></a>    <div class="container"> <div id="friendbuy-global-header-component" data-bind="scope: 'friendbuy-global-header-component'"><!-- ko template: getTemplate() --><!-- /ko --><script type="text/x-magento-init">
+    {
+        "#friendbuy-global-header-component": {
+            "Magento_Ui/js/core/app": {
+               "components": {
+                    "friendbuy-global-header-component": {
+                        "component": "Rxbar_FriendBuy/js/common-component",
+                        "template" : "Rxbar_FriendBuy/common-component",
+                        "friendbuyType": "header",
+                        "site_url": "site-7002963b-rxbar.com",
+                        "script_url": "//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js",
+                        "display_share_button": 0,
+                        "container_class": "bBy-mfN"
+                    }
+                }
+            }
+        }
+    }</script></div><div id="friendbuy-container" class="friendbuy-bBy-mfN">Refer a friend and earn $</div><div class="top-links-container">
+<ul class="store-links pull-left">
+<li><a class="button button-shop" href="/">Shop RXBAR</a></li>
+<li><a class="button button-shop-wholesale" href="https://wholesale.rxbar.com/">RXBAR Wholesale</a></li>
 </ul>
-<div>&nbsp;</div>
-<div>® 2015 Chicago Bar Company LLC. dba RXBAR | <a style="color: #36b6c3;" href="https://www.rxbar.com/privacy-policy/">Privacy Policy</a> | <a style="color: #36b6c3;" href="https://www.rxbar.com/terms-and-conditions/">Terms and Conditions</a></div>
+<div class="custom-links pull-right">
+<span>Free shipping on orders over $40</span>
+<span class="separator">|</span>
+</div>
+</div></div></div><div class="header__content clearfix">  <span data-action="toggle-nav" class="action nav-toggle"><span class="sr-only">Toggle Nav</span></span>  <a class="logo" href="https://www.rxbar.com/" title="RXBAR Logo"> <img src="https://www.rxbar.com/static/version1558963475/frontend/Rxbar/default/en_US/images/logo-white.png" alt="RXBAR Logo" width="189" height="64"></a>  <div data-block="minicart" class="minicart-wrapper"><a class="action showcart" href="https://www.rxbar.com/checkout/cart/" data-bind="scope: 'minicart_content'"><span class="text">My Cart</span> <span class="counter qty empty" data-bind="css: { empty: !!getCartParam('summary_count') == false }, blockLoader: isLoading"><span class="counter-number"><!-- ko text: getCartParam('summary_count') --><!-- /ko --></span> <span class="counter-label"><!-- ko if: getCartParam('summary_count') --><!-- ko text: getCartParam('summary_count') --><!-- /ko --><!-- ko i18n: 'items' --><!-- /ko --><!-- /ko --></span></span></a>  <div class="block block-minicart empty" data-role="dropdownDialog" data-mage-init="{&quot;dropdownDialog&quot;:{ &quot;appendTo&quot;:&quot;[data-block=minicart]&quot;, &quot;triggerTarget&quot;:&quot;.showcart&quot;, &quot;timeout&quot;: &quot;1000&quot;, &quot;closeOnMouseLeave&quot;: true, &quot;closeOnEscape&quot;: true, &quot;triggerClass&quot;:&quot;active&quot;, &quot;triggerEvent&quot;: &quot;hover&quot;, &quot;parentClass&quot;:&quot;active&quot;, &quot;buttons&quot;:[]}}" style="display:none"><div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'"><!-- ko template: getTemplate() --><!-- /ko --></div></div> <script>
+        window.checkout = {"shoppingCartUrl":"https:\/\/www.rxbar.com\/checkout\/cart\/","checkoutUrl":"https:\/\/www.rxbar.com\/checkout\/","updateItemQtyUrl":"https:\/\/www.rxbar.com\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.rxbar.com\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image","baseUrl":"https:\/\/www.rxbar.com\/","minicartMaxItemsVisible":5,"websiteId":"1","customerLoginUrl":"https:\/\/www.rxbar.com\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.rxbar.com\/captcha\/refresh\/","isRequired":false},"guest_checkout":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.rxbar.com\/captcha\/refresh\/","isRequired":false}}};</script><script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals","children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}}}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"uiComponent","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default"},"children":{"item.image":{"component":"Magento_Catalog\/js\/view\/image","config":{"template":"Magento_Catalog\/product\/image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content"},"component":"Magento_Checkout\/js\/view\/minicart"}},"types":[]} },
+        "*": {
+            "Magento_Ui/js/block-loader": "https://www.rxbar.com/static/version1558963475/frontend/Rxbar/default/en_US/images/loader-1.gif"
+        }
+    }</script></div><div id="header-account" class="header__account dropdown util-nav"><div class="header_account-link util-nav-item"><ul><li><a href="https://www.rxbar.com/customer/account/login/"></a></li></ul> </div>  <ul class="links"><li>My Account</li>  <li> <a href="https://www.rxbar.com/customer/account/login/referer/aHR0cHM6Ly93d3cucnhiYXIuY29tL3ByaXZhY3ktcG9saWN5/" class="desktop-nav-account">Sign In / Sign Up</a></li> </ul></div><ul class="util-nav"><li class="dropdown refer-link" data-block="dropdown" id="refer"><a href="/share" role="link" tabindex="0" class="drop-refer-link" title="Refer a Friend" data-bind="scope: 'dropdown_content-refer-link'"><span class="icon-refer"></span></a>  <div class="dropdown__menu" style="display:none" data-role="dropdownDialog" data-mage-init="{&quot;dropdownDialog&quot;:{ &quot;appendTo&quot;:&quot;#refer&quot;, &quot;triggerTarget&quot;:&quot;.drop-refer-link&quot;, &quot;timeout&quot;: &quot;500&quot;, &quot;closeOnMouseLeave&quot;: true, &quot;closeOnEscape&quot;: true, &quot;triggerClass&quot;:&quot;active&quot;, &quot;triggerEvent&quot;:&quot;hover&quot;, &quot;parentClass&quot;:&quot;active&quot;, &quot;buttons&quot;:[]}}"><ul class="links" data-bind="scope: 'dropdown_content-refer-link'"><li><a title="Refer a Friend" href="https://www.rxbar.com/share/">REFER A FRIEND &amp; EARN $</a></li></ul></div></li><li class="dropdown locator-link" data-block="dropdown" id="locator"><a href="/storelocator" role="link" tabindex="0" class="drop-locator-link" title="Store Locator" data-bind="scope: 'dropdown_content-locator-link'"><span class="icon-locator"></span></a>  <div class="dropdown__menu" style="display:none" data-role="dropdownDialog" data-mage-init="{&quot;dropdownDialog&quot;:{ &quot;appendTo&quot;:&quot;#locator&quot;, &quot;triggerTarget&quot;:&quot;.drop-locator-link&quot;, &quot;timeout&quot;: &quot;500&quot;, &quot;closeOnMouseLeave&quot;: true, &quot;closeOnEscape&quot;: true, &quot;triggerClass&quot;:&quot;active&quot;, &quot;triggerEvent&quot;:&quot;hover&quot;, &quot;parentClass&quot;:&quot;active&quot;, &quot;buttons&quot;:[]}}"><ul class="links" data-bind="scope: 'dropdown_content-locator-link'"><ul>
+<li><a href="/storelocator/" title="Find rxbar retailers">STORE LOCATOR</a></li>
+</ul></ul></div></li><li class="dropdown help-link" data-block="dropdown" id="help"><a href="/faq" role="link" tabindex="0" class="drop-help-link" title="Help" data-bind="scope: 'dropdown_content-help-link'"><span class="icon-help"></span></a>  <div class="dropdown__menu" style="display:none" data-role="dropdownDialog" data-mage-init="{&quot;dropdownDialog&quot;:{ &quot;appendTo&quot;:&quot;#help&quot;, &quot;triggerTarget&quot;:&quot;.drop-help-link&quot;, &quot;timeout&quot;: &quot;500&quot;, &quot;closeOnMouseLeave&quot;: true, &quot;closeOnEscape&quot;: true, &quot;triggerClass&quot;:&quot;active&quot;, &quot;triggerEvent&quot;:&quot;hover&quot;, &quot;parentClass&quot;:&quot;active&quot;, &quot;buttons&quot;:[]}}"><ul class="links" data-bind="scope: 'dropdown_content-help-link'"><li><a title="Help and contact" href="/contact-us">Help &amp; Contact</a></li>
+<li>Call us Mon-Fri 9AM-5PM CST<br><a href="tel:3126248200" title="call us">312-624-8200</a></li>
+<li><a title="Contact Us" href="/contact-us">Contact Us</a></li>
+<li><a title="FAQ" href="/faq">FAQ</a></li>
+<li><a title="Shipping Information" href="/faq#shipping">Shipping Information</a></li>
+<li><a title="Nutritional Information" href="/faq#nutrition">Nutritional Information</a></li>
+<li><a title="Purchasing Information" href="/faq#purchasing">Purchasing Information</a></li></ul></div></li></ul><div class="nav-wrap">   <nav class="navigation" data-action="navigation"><ul data-mage-init="{&quot;menu&quot;:{&quot;responsive&quot;:true, &quot;expanded&quot;:true, &quot;position&quot;:{&quot;my&quot;:&quot;left top&quot;,&quot;at&quot;:&quot;left bottom&quot;}}}"><li class="level0 nav-1 first level-top"><a href="https://www.rxbar.com/shop.html" class="level-top"><span>Shop</span></a><ul class="level0 submenu"><li class="mega-cms-content"><div><div>
+                        <a href="https://www.rxbar.com/shop/rxbar.html/" title="Rxbar">
+<img src="" data-src="https://www.rxbar.com/media/wysiwyg/RxBar-nav-black_200.png" alt="Rxbar" class="lazy">
+                            <h4>RXBAR</h4>
+                        </a>
+                    </div>
+                    <div>
+                        <a href="https://www.rxbar.com/shop/rxbar-kids.html/" title="Rxbar Kids">
+<img src="" data-src="https://www.rxbar.com/media/wysiwyg/RxBar-nav-kids_200.png" alt="Rxbar Kids" class="lazy">
+                            <h4>RXBAR Kids</h4>
+                        </a>
+                    </div>
+<div>
+                        <a href="https://www.rxbar.com/shop/rx-nut-butter.html/" title="RX Nut Butter">
+<img src="" data-src="https://www.rxbar.com/media/wysiwyg/Web_Navigation_NBimage_200.png" alt="RX Nut Butter" class="lazy">
+                            <h4>RX Nut Butter</h4>
+                        </a>
+                    </div>
+                    <div>
+                        <a href="https://www.rxbar.com/shop.html/" title="All Products">
+<img src="" data-src="https://www.rxbar.com/media/wysiwyg/RxBar-nav-all-products_200.png" alt="All Products" class="lazy">
+                            <h4>All Products</h4>
+                        </a>
+                    </div></div></li></ul></li><li class="level0 nav-2 level-top"><a href="https://www.rxbar.com/about-us-mobile.html" class="level-top"><span>About Us</span></a><ul class="level0 submenu"><li class="mega-cms-content"><div><a style="-webkit-align-items: baseline; align-items: baseline;" href="https://www.rxbar.com/our-story/"><h4>Our Story</h4></a>
+<a style="-webkit-align-items: baseline; align-items: baseline;" href="https://www.rxbar.com/wholesale"><h4>Wholesale</h4></a>
+<a style="-webkit-align-items: baseline; align-items: baseline;" href="/careers"><h4>Careers</h4></a>
+<a style="-webkit-align-items: baseline; align-items: baseline;" href="https://www.rxbar.com/buzz/"><h4>In the Media</h4></a></div></li></ul></li><li class="level0 nav-3 level-top"><a href="https://www.rxbar.com/whats-inside" class="level-top"><span>What's Inside</span></a></li><li class="level0 nav-4 last level-top"><a href="https://www.rxbar.com/contact-us" class="level-top"><span>Contact Us</span></a></li> </ul></nav><ul class="user-links">
+    <li><a href="/share" title="Refer a Friend"><span class="icon-refer"></span> REFER A FRIEND &amp; EARN $</a></li>
+    <li><a href="/storelocator" title="find a store"><span class="icon-locator"></span> Store Locator</a></li>
+    <li><a href="/faq" title="FAQs"><span class="icon-help"></span> FAQS</a></li>
+</ul>  <ul class="mobile-account-link"> <li> <a href="https://www.rxbar.com/customer/account/login/referer/aHR0cHM6Ly93d3cucnhiYXIuY29tL3ByaXZhY3ktcG9saWN5/" class="mobile-nav-account"><span class="icon-account"></span>Sign In / Sign Up</a></li> </ul> <div class="extra-links">
+    <p>312-624-8200</p>
+    <p><a href="mailto:support@rxbar.com">support@rxbar.com</a></p>
+</div></div></div> <div class="widget block block-banners" data-bind="scope: 'banner'" data-banner-id="204f5a94c244669fb9d990cdf5c1cbe5" data-types="" data-display-mode="fixed" data-ids="3"><ul class="banner-items"><!-- ko foreach: getItems204f5a94c244669fb9d990cdf5c1cbe5() --><li class="banner-item" data-bind="attr: {'data-banner-id': $data.bannerId}"><div class="banner-item-content" data-bind="html: $data.html"></div></li> <!-- /ko --></ul></div><script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                    "banner": {
+                        "component": "Magento_Banner/js/view/banner"
+                    }
+                }
+            }
+        }
+    }</script></header><main id="maincontent" class="page-main"><!-- BLOCK amasty.promo.notification -->  <!-- /BLOCK amasty.promo.notification --> <div data-bind="scope: 'messages'"><div data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages"><div data-bind="attr: { class: 'message-' + message.type + ' ' + message.type + ' message', 'data-ui-id': 'message-' + message.type }"><div data-bind="html: message.text"></div></div></div><div data-bind="foreach: { data: messages().messages, as: 'message' }" class="messages"><div data-bind="attr: { class: 'message-' + message.type + ' ' + message.type + ' message', 'data-ui-id': 'message-' + message.type }"><div data-bind="html: message.text"></div></div></div></div><script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }</script> <a id="contentarea" tabindex="-1"></a> <div class="page messages"> <div data-placeholder="messages"></div></div><div class="columns"><div class="column main"><input name="form_key" type="hidden" value="LuftRabGIHF18XAs"> <div id="authenticationPopup" data-bind="scope:'authenticationPopup'" style="display: none;"><script>
+        window.authenticationPopup = {"customerRegisterUrl":"https:\/\/www.rxbar.com\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/www.rxbar.com\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/www.rxbar.com\/"};</script><!-- ko template: getTemplate() --><!-- /ko --><script type="text/x-magento-init">
+        {
+            "#authenticationPopup": {
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Plumrocket_SocialLoginPro\/js\/view\/customer\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"}}}}} },
+            "*": {
+                "Magento_Ui/js/block-loader": "https://www.rxbar.com/static/version1558963475/frontend/Rxbar/default/en_US/images/loader-1.gif"
+            }
+        }</script></div> <script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/section-config":{"sections":{"stores\/store\/switch":"*","directory\/currency\/switch":"*","*":["messages"],"customer\/account\/logout":"*","customer\/account\/loginpost":"*","customer\/account\/createpost":"*","customer\/ajax\/login":["checkout-data","cart"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","checkout-data","last-ordered-items"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart","checkout-data"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data"],"amasty_promo\/cart\/add":["cart"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"review\/product\/post":["review"],"wishlist\/index\/copyitem":["wishlist"],"wishlist\/index\/copyitems":["wishlist"],"wishlist\/index\/deletewishlist":["wishlist","multiplewishlist"],"wishlist\/index\/createwishlist":["multiplewishlist"],"wishlist\/index\/moveitem":["wishlist"],"wishlist\/index\/moveitems":["wishlist"],"wishlist\/search\/addtocart":["cart","wishlist"],"multishipping\/checkout\/overviewpost":["cart"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"giftregistry\/index\/cart":["cart"],"giftregistry\/view\/addtocart":["cart"],"authorizenet\/directpost_payment\/place":["cart","checkout-data"],"customer_order\/cart\/updatefaileditemoptions":["cart"],"checkout\/cart\/updatefaileditemoptions":["cart"],"customer_order\/cart\/advancedadd":["cart"],"checkout\/cart\/advancedadd":["cart"],"checkout\/cart\/removeallfailed":["cart"],"customer_order\/cart\/addfaileditems":["cart"],"checkout\/cart\/addfaileditems":["cart"],"customer_order\/sku\/uploadfile":["cart"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"pslogin\/account\/loginpost":"*","promotions\/addtocart\/index":["cart"]},"clientSideSections":["checkout-data"],"baseUrls":["https:\/\/www.rxbar.com\/"]}}}</script> <script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/customer-data":{"sectionLoadUrl":"https:\/\/www.rxbar.com\/customer\/section\/load\/","cookieLifeTime":"3600","updateSessionUrl":"https:\/\/www.rxbar.com\/customer\/account\/updateSession\/"}}}</script>  <script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"https:\/\/www.rxbar.com\/page_cache\/block\/render\/page_id\/4\/","handles":["default","cms_page_view","cms_page_view_id_privacy-policy"],"originalRequest":{"route":"cms","controller":"page","action":"view","uri":"\/privacy-policy"},"versionCookieName":"private_content_version"} }
+    }</script> <script type="text/x-magento-init">
+{"*":{"Magento_Banner\/js\/model\/banner":{"sectionLoadUrl":"https:\/\/www.rxbar.com\/banner\/ajax\/load\/"}}}</script><script type="text/javascript">
+(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/xzOjZtkswdGYBFeGXcU9cuO3ELcP1aG4ZF9GSJFB/widget.js ";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();</script><div class="page-title-wrapper">
+    <h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper"><span class="underline-2 purple">Privacy Policy</span></span></h1>
+</div>
+<div class="privacy-policy">
+    <h3>RXBAR - Online Privacy Policy</h3>
+    <p>Last revised: January 10, 2017</p>
+    <br>
+    <h2>1. Introduction</h2>
+    <p><strong>Purpose.</strong>  The purpose of this Privacy Policy is to describe how Chicago Bar Company LLC (d/b/a RXBAR), an Illinois limited liability company (“Company”), collects, uses and shares information about you through our online interfaces (e.g., websites and mobile applications) owned and controlled by us, including www.rxbar.com (collectively referred to herein as the “Site”).  Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to <a href="/contact-us">Contact Us</a> or contact us as described at the end of this policy.</p>
+    <br>
+    <p>Our Privacy Policy Explains:</p>
+    <br>
+    <p><a href="#collect">Information That We Collect</a></p>
+    <p><a href="#share">How We Use and Share Your Information</a></p>
+    <p><a href="#access">Access to Your Information and Choices</a></p>
+    <p><a href="#security">Security of Your Information</a></p>
+    <p><a href="#consent">Consent to Processing of Personal Data in United States</a></p>
+    <p><a href="#changes">Changes to Our Privacy Policy</a></p>
+    <p><a href="#questions">Questions and How Contact Us</a></p>
+    <br>
+    <p><span class="bold">Scope; Third Party Sites.</span>  This Privacy Policy applies only to information we collect at and through the Site.  Our Site also contains links to third party sites that are not owned or controlled by Company.  Please be aware that we are not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our Site and to read the privacy statements of each and every website that collects personal information.  </p>
+    <br>
+    <p><span class="bold">Terms of Use.</span>  Please note that your use of our Site is also subject to our <a href="/terms">Terms of Use. </a> </p>
+    <br>
+    <a name="collect"></a>
+    <h3>2. The Information We Collect</h3>
+    <h4>Information You Provide to Us</h4>
+    <p>There are three ways that RXBAR obtains information from you: (1) via registration on the RXBAR website; (2) from an online purchase; or (3) from any other form of direct purchase from RXBAR.</p>
+
+    <h4>How We Use The Information</h4>
+
+    <p>We collect information you provide to us, for example when you create or modify your account, register to use our Site, purchase products from us, request information from us, contact customer support, or otherwise communicate with us. This information may include: </p><br>
+
+    <p>- Name<br>
+        - Home address<br>
+        - Work address<br>
+        - Billing address <br>
+        - Shipping address <br>
+        - Email address <br>
+        - Telephone number<br>
+        - Credit / debit card number (solely for payment purposes)<br>
+        - Date of birth<br>
+        - Geo-location<br>
+        - User generated content (product feedback and comments) <br></p>
+    <br>
+
+    <h3>Information We Collect Through Your Use of our Site </h3>
+    <h3>Google Analytics</h3>
+    <p>We use Google Analytics, a web analytics service provided by Google, Inc. (“Google”) to collect certain information relating to your use of the Site. Google Analytics uses “cookies”, which are text files placed on your computer, to help the Site analyze how users use the Site. You can find out more about how Google uses data when you visit our Site by visiting “How Google uses data when you use our partners' sites or apps”, (located at <a href="https://policies.google.com/technologies/partner-sites" target="_new">https://www.google.com/policies/privacy/partners/</a>). We may also use Google Analytics Advertising Features or other advertising networks to provide you with interest-based advertising based on your online activity. For more information regarding Google Analytics please visit Google's website, and pages that describe Google Analytics, such as <a href="https://www.google.com/analytics/learn/privacy.html" target="_new">https://www.google.com/analytics/learn/privacy.html</a>. </p><br>
+
+    <h3>Other Website Analytics</h3>
+
+    <p>In addition to Google Analytics, we also use the following web analytics services to collect certain information relating to your use of the Site in order to help the Site analyze how users use the Site: (i) Pardot provided by Salesforce (please visit the following for more information about how Salesforce uses data when you visit our Site: <a href="https://www.salesforce.com/assets/pdf/misc/salesforce_MSA.pdf" target="_new">https://www.salesforce.com/assets/pdf/misc/salesforce_MSA.pdf</a>); Friendbuy provided by Friendbuy, Inc. (please visit the following for more information about how Friendbuy, Inc. uses data when you visit our Site: <a href="https://www.friendbuy.com/privacy/" target="_new">https://www.friendbuy.com/privacy/</a>); and Facebook Pixels provided by Facebook, Inc. (please visit the following for more information about how Facebook, Inc. uses data when you visit our Site: <a href="https://www.facebook.com/about/privacy" target="_new">https://www.facebook.com/about/privacy</a>).</p><br>
+
+    <p>To learn more about interest-based advertisements and your opt-out rights and options, visit the <a href="http://www.aboutads.info" target="_new">Digital Advertising Alliance</a> and the <a href="http://www.networkadvertising.org" target="_new">Network Advertising Initiative</a>. Please note that if you choose to opt out, you will continue to see ads on our Site, but they will not be based on how you browse and shop.</p>
+
+    <h3>Information Collected Through Cookies and Similar Technologies</h3>
+
+    <p>We and our service providers use cookies (persistent and session), web beacons, and other technologies to receive and store certain types of information whenever you interact with our Site through your computer or mobile device. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the Site again, the cookie allows the Site to recognize your browser. Cookies may store unique identifiers, user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Site features or services may not function properly without cookies. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends and providing relevant advertising to you. (<a href="#ads">See, “Advertising” below.</a>) </p>
+
+    <h3>No Information from Children Under Age 13</h3>
+    <p>If you are under the age of 13, please do not attempt to register with us at this Site or provide any personal information about yourself to us.  If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information.  If you believe we have collected personal information from a child under the age of 13, please <a href="/contact-us">Contact Us</a> or call us at (312) 624-8200. </p>
+    <br>
+
+    <a name="share"></a>
+    <h3>3. HOW WE USE AND SHARE YOUR INFORMATION</h3>
+    <p><span class="bold">To Provide Products and Information.</span>  We collect information from you in order to provide products that you purchase using the Site; register and service your online account; provide information that you request from us; contact you about your orders, including contacting you by phone or via text message; process credit card and debit card transactions; ship products to you; send you promotional materials or advertisements about our products, as well as new features and offerings; administer surveys, sweepstakes, promotions and contests; provide interest-based targeted advertising to you. </p><br>
+
+    <p><span class="bold">Sharing with Third Parties.</span>  We may provide information to third party service providers that help us operate and manage our Site, advertise, market or promote our products, process orders, and fulfill and deliver products that you purchase from us. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service. </p><br>
+
+    <a name="ads"></a>
+    <p><span class="bold">Advertising.</span>  We may use how you browse and shop in order to show you ads for Company or our advertising partners that are more relevant to your interests. We may use cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by Company. </p><br>
+
+    <p>We belong to ad networks that may use your browsing history across participating websites to show you interest-based advertisements on those websites. Currently, our Site does not recognize if your browser sends a “do not track” signal or similar mechanism to indicate you do not wish to be tracked or receive interest-based ads. You can opt-out of receiving interest-based ads from us by deleting all cookies in your browser, resetting your browser to refuse all cookies, and disabling ads in your personal settings through <a href="http://www.facebook.com/settings" target="_new">www.facebook.com/settings</a>. Please note though that some Site features or services may not function properly without cookies. To learn more about interest-based advertisements and your opt-out rights and options, visit the <a href="http://www.aboutads.info" target="_new">Digital Advertising Alliance</a> and the <a href="http://www.networkadvertising.org" target="_new">Network Advertising Initiative</a>. Please note that if you choose to opt out, you will continue to see ads on our Site, but they will not be based on how you browse and shop. </p><br>
+
+    <p><span class="bold">Your Consent.</span>  In addition to the sharing described elsewhere in this Policy, we will share personal information with companies, organizations or individuals outside of Company when we have your consent to do so. </p><br>
+
+    <p><span class="bold">Legal Proceedings.</span>  We will share personal information with third party companies, organizations or individuals outside of Company if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: </p>
+    <br>
+    <p>- Meet any applicable law, regulation, subpoena, legal process or enforceable governmental request. <br>
+        - Enforce applicable Terms of Use, including investigation of potential violations. <br>
+        - Detect, prevent, or otherwise address fraud, security or technical issues. <br>
+        - Protect against harm to the rights, property or safety of Company, our users, customers or the public as required or permitted by law.</p><br>
+
+    <p><span class="bold">Transfer in the Event of Sale or Change of Control.</span>  If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Site to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may transfer or sell your personal information to the new owner. In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in the applicable privacy policy unless you agree differently. </p><br>
+
+    <a name="access"></a>
+    <h3>4.ACCESS TO YOUR INFORMATION AND CHOICES</h3>
+    <p>You can access and update certain information we have relating to your online account by signing into your account and going to the “My Account” section of our Site.  If you have questions about personal information we have about you or need to update your information, you can call us at (312) 624-8200, email us at info@rxbar.com, write to us at 225 W. Ohio St., Suite 500, Chicago, IL 60654, or you can <a href="/contact-us">Contact Us</a>.  To opt-out of receiving marketing and promotional e-mails from Company you can <a href="/contact-us">Contact Us</a>, call us at (312) 624-8200, or use the opt-out or unsubscribe feature contained in the e-mails. </p><br>
+
+    <p>If you are signed up for mobile text messaging communications from the Company but later decide you no longer wish to receive them, you may opt-out of receiving text messages from us by emailing us at <a href="mailto:info@rxbar.com">info@rxbar.com</a> or by mailing us a written request to 225 W. Ohio St., Suite 500, Chicago, IL 60654.  Before changing your mobile phone number, you agree that you will opt-out of ALL text messages from Company.</p><br>
+
+    <p>You can close your online account by calling us at (312) 624-8200, emailing us at <a href="mailto:info@rxbar.com">info@rxbar.com</a>, writing to us at 225 W. Ohio St., Suite 500, Chicago, IL 60654, or you can <a href="/contact-us">Contact Us</a>.  If you close your account, we will no longer use your online account information or share it with third parties.  We may, however, retain a copy of the information for archival purposes, and to avoid identity theft or fraud. </p><br>
+
+    <a name="security"></a>
+    <h3>5.SECURITY OF YOUR INFORMATION</h3>
+    <p>We use industry standard physical, technical and administrative security measures and safeguards to protect the confidentiality and security of your personal information.  However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us.  There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.  It is your responsibility to protect the security of your login information.  Please note that e-mails and other communications you send to us through our Site are not encrypted, and we strongly advise you not to communicate any confidential information through these means. </p><br>
+
+    <a name="consent"></a>
+    <h3>6. CONSENT TO PROCESSING OF PERSONAL DATA IN UNITED STATES</h3>
+    <p>If you are a resident of the European Economic Area (EEA) or other jurisdiction outside of the U.S., in order to provide our Site, products to you, we may send and store your personal information (also commonly referred to as personal data) outside of the EEA, including to the United States. Accordingly, your personal information may be transferred outside of the country where you reside or are located, including to countries that may not or do not provide the same level of protection for your personal information.  We are committed to protecting the privacy and confidentiality of personal information when it is transferred. Where such transfers occur, we take appropriate steps to provide the same level of protection for the processing carried out in any such countries as within the EEA to the extent feasible under applicable law. By using and accessing our Site, users who reside or are located in countries outside of the United States agree and consent to the transfer to and processing of personal information on servers located outside of the country where they reside, and that the protection of such information may be different than required under the laws of their residence or location.</p><br>
+
+    <a name="changes"></a>
+    <h3>7. CHANGES TO OUR PRIVACY POLICY</h3>
+    <p>Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent in accordance with applicable law. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. </p><br>
+
+    <a name="questions"></a>
+    <h3>8. QUESTIONS AND HOW TO CONTACT US</h3>
+    <p>If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please <a href="/contact-us">Contact Us</a> , email us at <a href="mailto:info@rxbar.com">info@rxbar.com</a>, call us at (312) 624-8200, or contact us by US postal mail at the following address:</p><br>
+    <p>Chicago Bar Company<br>
+        225 Ohio St., Suite 500<br>
+        Chicago, IL 60654<br>
+        Attn: Chief Financial Officer</p>
+
+</div>
+</div></div></main><footer class="page-footer"><div class="footer content"><div class="rx-container-lg"><div class="back-to-top"><!-- --></div></div>  <div style="margin-top:-20px;"></div><div class="rx-container-md"> <style>
+div.note {
+  font-size: 10px;
+}
+
+.email {
+    color: #5d5d5d;
+    font-weight: 600;
+}
+</style>
+
+<div class="footer-links-container">
+<div class="columns">
+<div class="column col-md-3 col-sm-6">
+<div class="footer-links">
+<ul>
+<li>Rxbar</li>
+<li><a href="/shop.html" title="shop rxbar">Shop</a></li>
+<li><a href="/whats-inside" title="what's inside">What's Inside</a></li>
+<li><a href="/the-real" title="the real">The Real</a></li>
+<li><a href="/storelocator">Store Locator</a></li>
+</ul>
+</div>
+</div>
+<div class="column col-md-3 col-sm-6">
+<div class="footer-links">
+<ul>
+<li>About Us</li>
+<li><a href="/our-story" title="our story">Our Story</a></li>
+<li><a href="/careers" title="Rxbar careers">Careers</a></li>
+<li><a href="/buzz" title="press and media">In the Media</a></li>
+<li><a href="https://wholesale.rxbar.com/signup" title="Wholesale">Wholesale</a></li>
+</ul>
+</div>
+</div>
+<div class="column col-md-3 col-sm-6">
+<div class="footer-links">
+<ul>
+<li>Help</li>
+<li>Call Us! Mon-Fri 9-5 CST</li>
+<li><a href="tel:3126248200" title="call us">312-624-8200</a></li>
+<li><a href="/contact-us" title="contact us">Contact Us</a></li>
+<li><a href="/faq" title="frequently asked questions">Frequently Asked Questions</a></li>
+</ul>
+</div>
+</div>
+<div class="column col-md-3 col-sm-6">
+<div class="footer-links social-media">
+<div class="email">GET ON THE LIST</div>
+<iframe src="https://go.pardot.com/l/68472/2019-03-01/dbckg9" width="100%" height="110" type="text/html" frameborder="0" allowtransparency="true" style="border: 0"></iframe>
+<ul>
+<li><a title="Instagram" href="https://www.instagram.com/RXBAR/" target="_blank"><span class="icon-instagram"></span></a> <a title="Facebook" href="https://www.facebook.com/RXBAR" target="_blank"><span class="icon-facebook"></span></a> <a title="Twitter" href="https://twitter.com/RXBAR" target="_blank"><span class="icon-twitter"></span></a> </li>
+</ul>
 </div>
 </div>
 </div>
-<!-- is this needed? -->
-        
-		</div>
-		<div class="clear"></div>
-	</div>
-</footer>
-
-
-
-<!-- Beetailer code --> 
-<script type="text/javascript"> var beetailer_storeview = '1';</script>
-<script type="text/javascript" src="//www.beetailer.com/javascripts/beetailer.js"></script>
-<!-- EO Beetailer code --> 
-<!-- BEGIN: Google Trusted Stores -->
-<script type="text/javascript">
-    var gts = gts || [];
-
-    gts.push(["id", "697802"]);
-    gts.push(["badge_position", "BOTTOM_RIGHT"]);
-    gts.push(["locale", "en_US"]);
-    gts.push(["google_base_subaccount_id", "102781870"]);
-
-    (function() {
-        var gts = document.createElement("script");
-        gts.type = "text/javascript";
-        gts.async = true;
-        gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(gts, s);
-    })();
-</script>
-<!-- END: Google Trusted Stores -->
-<script type="text/javascript">
-piAId = '69472';
-piCId = '1128';
-
-(function() {
-	function async_load(){
-		var s = document.createElement('script'); s.type = 'text/javascript';
-		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-	}
-	if(window.attachEvent) { window.attachEvent('onload', async_load); }
-	else { window.addEventListener('load', async_load, false); }
-})();
-</script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"655614796d","applicationID":"24013771","transactionName":"Z11QbUcHCxJXBxYIV14Xc1pBDwoPGQcPEhdAWVVcGhAMBEE=","queueTime":0,"applicationTime":201,"atts":"SxpTGw8dGBw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-</body></html>
+</div>   <div class="copyright">
+<p>© 2019 Chicago Bar Company LLC. dba RXBAR</p>
+<ul>
+<li><a href="/privacy-policy">Privacy Policy</a></li>
+<li><a href="/terms">Terms &amp; Conditions</a></li>
+</ul>
+</div> </div></div></footer>   <script>
+        var staticPromotions =
+        staticPromotions ||
+        [];
+        staticPromotions = [
+     {
+                'id': '3',
+                'name': '[Header] Promo Banner',
+                'creative': '',
+                'position': 'cms_page_view',
+                'activated': '1'
+            },
+     ];</script> <script type="text/javascript">window.psloginButtons = '  <div class="pslogin-block pslogin-login" data-mage-init=\'{"pslogin":{}}\'><div class="pslogin-spacer pslogin-clearfix"><span class="pslogin-title" style="display: none;">Login with your social account</span></div><div class="pslogin-buttons pslogin-buttons-showfull"><ul class="pslogin-clearfix"> <li class="pslogin-button googleplus pslogin-visible"  title="Login with Google+"><a class="pslogin-button-link pslogin-button-click" rel="nofollow" href="javascri'+'pt:void(0);" data-href="https://www.rxbar.com/pslogin/account/douse/type/googleplus/refresh/1559747061/" data-width="450" data-height="450" > <img class="pslogin-button-image" src="https://www.rxbar.com/media/pslogin/default/Google_Button.png" />   <span class="pslogin-button-auto pslogin-has-button-image "><span class="pslogin-button-icon"></span> <span class="pslogin-button-text">Login with Google+</span></span> </a></li>  <li class="pslogin-button amazon pslogin-visible"  title="Login with Amazon"><a class="pslogin-button-link pslogin-button-click" rel="nofollow" href="javascri'+'pt:void(0);" data-href="https://www.rxbar.com/pslogin/account/douse/type/amazon/refresh/1559747061/" data-width="720" data-height="500" > <img class="pslogin-button-image" src="https://www.rxbar.com/media/pslogin/default/amazon_1.png" />   <span class="pslogin-button-auto pslogin-has-button-image "><span class="pslogin-button-icon"></span> <span class="pslogin-button-text">Login with Amazon</span></span> </a></li> </ul></div></div><div style="clear: both;"></div><scri'+'pt type="text/javascri'+'pt">        var showFullButtonsAfterViewMore = true;        if (window.psloginButtons) {            requirejs([\'pslogin\']);        }</scri'+'pt>';</script></div></body></html>
