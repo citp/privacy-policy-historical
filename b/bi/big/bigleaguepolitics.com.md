@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigleaguepolitics.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914180244id_/https%3A//bigleaguepolitics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigleaguepolitics.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605152334id_/https%3A//bigleaguepolitics.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Big League Politics
 
