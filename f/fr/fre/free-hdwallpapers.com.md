@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-hdwallpapers.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202124217id_/http%3A//www.free-hdwallpapers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-hdwallpapers.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605091421id_/http%3A//www.free-hdwallpapers.com/privacy.php) for the most accurate reproduction.*
 
 # Free-Hd Wallpapers | Contact
 
