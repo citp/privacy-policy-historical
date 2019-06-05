@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardenoflife.com privacy policy that was archived on 2018-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180102144527id_/https%3A//www.gardenoflife.com/content/company-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenoflife.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605201326id_/https%3A//www.gardenoflife.com/content/company-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Garden of Life
 
