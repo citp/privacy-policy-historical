@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903214127id_/https%3A//uk.legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustpilot.co.uk privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605184948id_/https%3A//uk.legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -365,4 +365,4 @@ Pilestraede 58, 5th floor, 1112 Copenhagen, Denmark
 
 CVR no.: 30276582
 
-You can also find additional resources about data privacy in our Support Center here [support.trustpilot.com/hc/en-us/sections/360000055928-Data-Privacy](https://www.google.com/url?q=https://support.trustpilot.com/hc/en-us/sections/360000055928-Data-Privacy&sa=D&ust=1525333341563000&usg=AFQjCNGKBO4lI5ZS8VzGLVmMjsxT84l3bA "https://support.trustpilot.com/hc/en-us/sections/360000055928-Data-Privacy").
+You can also find additional resources about data privacy in our Support Center [here](https://support.trustpilot.com/hc/en-us/sections/360003853673--Data-Privacy-for-reviewers "here").
