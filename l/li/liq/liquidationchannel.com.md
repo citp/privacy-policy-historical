@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidationchannel.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007202917id_/https%3A//www.shoplc.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidationchannel.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605052222id_/https%3A//www.shoplc.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Shop LC
 
