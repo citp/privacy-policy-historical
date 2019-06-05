@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tabtimes.com privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819014822id_/http%3A//tabtimes.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabtimes.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606000359id_/https%3A//dgit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TabTimes
+# Privacy Policy - DGiT
 
-_This policy was last updated February 2, 2017._
+_This policy was last updated May 24, 2018._
 
-At TabTimes, we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy. Our privacy policy is applicable to TabTimes, and TabTimes’s affiliates and subsidiaries whose websites, mobile applications and other online services are directly linked (the “Sites”). These include TabTimes, VR Source, Sound Guys, and Android Authorith.
+At DGiT.com, we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy. Our privacy policy is applicable to DGiT.com, and DGiT.com’s affiliates and subsidiaries whose websites, mobile applications and other online services are directly linked (the “Sites”).
 
 The privacy policy describes the kinds of information we may gather during your visit to these Sites, how we use your information, when we might disclose your personally identifiable information, and how you can manage your information.
 
@@ -20,7 +20,7 @@ We collect two basic types of information from you in conjunction with your use 
 
 **Personally Identifiable Information**
 
-As a general matter, you can browse the Sites without submitting your personally identifiable information to us. However, there are a number of circumstances in which you may supply us with your personally identifiable information, including when you subscribe to our publications, newsletters, and other content; place an order; register for a Site or any part thereof; complete a poll or participate in market research; enter a contest; upload content; or when you seek employment at TabTimes.
+As a general matter, you can browse the Sites without submitting your personally identifiable information to us. However, there are a number of circumstances in which you may supply us with your personally identifiable information, including when you subscribe to our publications, newsletters, and other content; register for a Site or any part thereof; complete a poll or participate in market research; enter a contest; upload content; or when you seek employment at DGiT.com.
 
 **Non-Personally Identifiable Information**
 
@@ -30,7 +30,7 @@ We may also collect information about your use of the Sites, including your sear
 
 **Collection of Personally Identifiable Information From or Through Social Media Sites**
 
-In addition, when you interact with any TabTimes property page or account on a social media platform, such as Facebook, Twitter, Tumblr, or LinkedIn, we may collect the personally identifiable information that you make available to us on that page or account including your social media account ID. However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personally identifiable information that we are permitted to collect by those social media platforms. If you choose to link or login to your TabTimes account with or through a social networking service, TabTimes and that service may share certain information about you and your activities. With your consent, we also may share information about your activities, including what you view on the Sites, with that social network’s users.
+In addition, when you interact with any DGiT.com property page or account on a social media platform, such as Facebook, Twitter, Tumblr, or LinkedIn, we may collect the personally identifiable information that you make available to us on that page or account including your social media account ID. However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personally identifiable information that we are permitted to collect by those social media platforms. If you choose to link or login to your DGiT.com account with or through a social networking service, DGiT.com and that service may share certain information about you and your activities. With your consent, we also may share information about your activities, including what you view on the Sites, with that social network’s users.
 
 **Collection of Your Source IP Address/Location Information**
 
@@ -58,15 +58,61 @@ We use the information we learn from you to help us personalize and continually 
 
 
 
-We may use the information from one portion of the Sites on other portions of Sites in our network of Sites, all of which are owned and operated by TabTimes, and we may combine information gathered from multiple portions of the Sites into a single user record. We also may use or combine information that we collect offline or we collect or receive from third-party sources for many reasons, including to enhance, expand, and check the accuracy of our records. Additionally, data collected from a particular browser or device may be used with another computer or device that is linked to the browser or device on which such data was collected.
+We may use the information from one portion of the Sites on other portions of Sites in our network of Sites, all of which are owned and operated by DGiT.com, and we may combine information gathered from multiple portions of the Sites into a single user record. We also may use or combine information that we collect offline or we collect or receive from third-party sources for many reasons, including to enhance, expand, and check the accuracy of our records. Additionally, data collected from a particular browser or device may be used with another computer or device that is linked to the browser or device on which such data was collected.
 
 ## Who Can See Your Information?
 
-We will not disclose your personally identifiable information collected from the Sites to any organizations not part of TabTimes or its subsidiaries or related entities, except as described in this privacy policy.
+We will not disclose your personally identifiable information collected from the Sites to any organizations not part of DGiT.com or its subsidiaries or related entities, except as described in this privacy policy.
 
 **Third-Party Agents**
 
-We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, including, but not limited to, hosting, content syndication, content management tools, social media integration, marketing, analytics, billing and customer service. These entities may have access to personally identifiable information if needed to perform their functions. If such access is required, the third parties will be obligated to maintain the confidentiality and security of that personally identifiable information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Sites.
+We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, including, but not limited to, hosting, content syndication, content management tools, social media integration, marketing, analytics, billing and customer service. These entities may have access to personally identifiable information if needed to perform their functions. If such access is required, the third parties will be obligated to maintain the confidentiality and security of that personally identifiable information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Sites. Below is a list of Third-party scripts or SDKS that may be used on DGiT.com:
+
+_**Google Analytics (Google Inc.)**_  
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.  
+Personal Data collected: Cookies and Usage Data.  
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
+
+_**Disqus Commenting  
+**_Disqus is commenting software. [Privacy Policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy)
+
+_**Facebook Analytics for Apps (Facebook, Inc.)**_  
+Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.  
+Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service.  
+Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/)
+
+_**Facebook Like button and social widgets (Facebook, Inc.)**_  
+The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.  
+Personal Data collected: Cookies and Usage Data.  
+Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation)
+
+_**Twitter Tweet button and social widgets (Twitter, Inc.)**_  
+The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.  
+Personal Data collected: Cookies and Usage Data.  
+Place of processing: US – [Privacy Policy](https://twitter.com/privacy)
+
+_**Facebook Analytics for Apps (Facebook, Inc.)**_  
+Facebook Analytics for Apps is an analytics service provided by Facebook, Inc.  
+Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service.  
+Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/)
+
+_**YouTube video widget (Google Inc.)**_  
+YouTube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.  
+Personal Data collected: Cookies and Usage Data.  
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
+
+**Drip newsletter marketing.**  
+Drip is a newsletter marketing platform.  
+Place of processing: US – [Privacy Policy](https://www.drip.com/privacy)
+
+_**Google Analytics for Firebase (Google Inc.)**_  
+Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google Inc. In order to understand Google’s use of Data, consult Google’s partner policy.  
+Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other tools used by the Owner.  
+This Application uses identifiers for mobile devices (including Android Advertising ID or Advertising Identifier for iOS, respectively) and technologies similar to cookies to run the Firebase Analytics service.  
+Users may opt-out of certain Firebase features through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other Firebase related sections of this privacy policy, if available.  
+Personal Data collected: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.  
+Place of processing: USA – [Privacy Policy](https://www.google.com/policies/privacy/)
 
 **Business Partners and Other Third Parties**
 
@@ -78,7 +124,7 @@ Our Digital Properties may contain links to other websites operated by third par
 
 **Assignment**
 
-In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, TabTimes may transfer your personally identifiable information to the new party in control or the party acquiring assets. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this privacy policy, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this privacy policy.
+In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, DGiT.com may transfer your personally identifiable information to the new party in control or the party acquiring assets. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this privacy policy, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this privacy policy.
 
 **Law Enforcement, Legal Process, and Emergency Situations**
 
@@ -118,7 +164,7 @@ Similarly, you can learn about your options to opt-out of mobile app tracking by
 
 Please note that opting-out of advertising networks services does not mean that you will not receive advertising while using our Websites or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms.
 
-Your browser or device may include “Do Not Track” functionality. Because a “Do Not Track” compliance protocol has not yet been finalized, TabTimes’s information collection and disclosure practices, and the choices that we provide to customers, will continue to operate as described in this privacy policy, whether or not a Do Not Track signal is received.
+Your browser or device may include “Do Not Track” functionality. Because a “Do Not Track” compliance protocol has not yet been finalized, DGiT.com’s information collection and disclosure practices, and the choices that we provide to customers, will continue to operate as described in this privacy policy, whether or not a Do Not Track signal is received.
 
 **What Are Your Choices?**
 
@@ -126,19 +172,37 @@ We believe you should have choices about the collection, use and sharing of your
 
 **Collection of personally identifiable information**
 
-All personally identifiable information is provided on a voluntary basis. If you do not want TabTimes to collect such information, you should not submit it to the Sites. However, doing so will restrict your ability to access some content and use some of the functionality of the sites.
+All personally identifiable information is provided on a voluntary basis. If you do not want DGiT.com to collect such information, you should not submit it to the Sites. However, doing so will restrict your ability to access some content and use some of the functionality of the sites.
 
 **Emails and Newsletters**
 
-You may always opt-out of receiving future e-mail marketing messages and newsletters from TabTimes by following the instructions contained within the emails and newsletters, or by e-mailing, calling or writing us at the addresses below.
+You may always opt-out of receiving future e-mail marketing messages and newsletters from DGiT.com by following the instructions contained within the emails and newsletters, or by e-mailing, calling or writing us at the addresses below.
 
-**Governing Law & Notice to Non-U.S. Users**
+**Governing Law**
 
-These Sites are published in the United States. We attempt to protect the personally identifiable information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to TabTimes’s services, but our family of Sites are located and targeted to United States citizens and our policies are directed at compliance with those laws. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personally identifiable information to TabTimes.
+We attempt to protect the personally identifiable information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to DGiT.com’s services. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personally identifiable information to DGiT.com.
 
-If you are located outside the United States of America, you should be aware that information about you will be transferred to the United States of America. If you are located in a country outside the United States of America and voluntarily submit personally identifiable information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, the United States of America.
+If you are located outside Canada, you should be aware that information about you will be transferred to Canada. If you are located in a country outside of Canada and voluntarily submit personally identifiable information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, Canada.
 
-## Other Important Information
+## GDPR Compliance for European Territories
+
+In compliance with European privacy laws, in particular the European General Data Protection Regulation (GDPR), DGiT.com provides specific additional rights for citizens of the European Territories such as the right to access, rectification, right to object, to complaint, erasure outband blockage. More specifically:
+
+  * The right to request information about whether and which personal data is processed by us, and the right to demand that personal data is rectified or amended.
+  * Under certain circumstances, the right to request that personal data should be deleted.
+  * Under certain circumstances, the right to demand that the processing of personal data should be restricted.
+  * Withdraw your consent to the processing and use of your data completely or partially at any time with future application.
+  * Have the right to obtain your personal data in a common, structured and mechanically readable format.
+  * Contact our data protection officer if there are any questions, comments, complaints or requests in connection with our statement on data protection and the processing of your personal data.
+  * The right to complain to the responsible supervisory authority if believed that the processing of your personal data is in violation of the legislation.
+
+
+
+In addition to the above, we reference certain rights for European Territory citizens throughout this Privacy Policy. Pursuant to the GDPR, citizens from “European Territories” mean the European Economic Area (EEA) and Switzerland. For the purpose of this Privacy Policy, the term “European Territories” shall continue to include the United Kingdom, even after the United Kingdom leaves the European Economic Area following Brexit.
+
+Please email admin[at]androidauthority[dot]com with the subject line “GDPR Request” for any questions about exercising any of the above rights.
+
+## Other Important Information 
 
 **How Your Information Is Secured**
 
@@ -152,18 +216,18 @@ When we run a contest or giveaway or game relating to our Sites, it will be acco
 
 **Children’s Information**
 
-The Sites are not intended for children under 13 years of age. TabTimes does not knowingly collect personal information from children under 13 years of age. If you are under 13 years of age, do not provide personal information to TabTimes without providing us with consent from your parents. If TabTimes discovers that a child under the age of 13 has provided TabTimes with personal information and we do not have parental consent, TabTimes will immediately delete that child’s information from the Sites.
+The Sites are not intended for children under 16 years of age. DGiT.com does not knowingly collect personal information from children under 16 years of age. If you are under 16 years of age, do not provide personal information to DGiT.com without providing us with consent from your parents. If DGiT.com discovers that a child under the age of 16 has provided DGiT.com with personal information and we do not have parental consent, DGiT.com will immediately delete that child’s information from the Sites.
 
-If you believe that company has been provided with the personal information of a child under the age of 13 without parental consent, please notify us immediately at admin(at)androidauthority(dot)com.
+If you believe that company has been provided with the personal information of a child under the age of 16 without parental consent, please notify us immediately at privacy(at)dgit(dot)com.
 
 **Your California Privacy Rights**
 
-TabTimes does not disclose your personal information to third parties for the third parties’ direct marketing purposes unless you affirmatively agree to such disclosures.
+DGiT.com does not disclose your personal information to third parties for the third parties’ direct marketing purposes unless you affirmatively agree to such disclosures.
 
 **Questions About this Policy or Access to Your Information**
 
-If you have an account with TabTimes, you may review and change your information by logging into your account and editing your account profile. If you have questions about our privacy policy, you may contact us at:
+If you have an account with DGiT.com, you may review and change your information by logging into your account and editing your account profile. If you have questions about our privacy policy, you may contact us at:
 
-**Email:** admin(at)tabtimes(dot)com
+**Email:** privacy(at)dgit(dot)com
 
 You may also use the contact information provided to request access or changes to your personally identifiable information; however, you will not be permitted to examine the personally identifiable information of any other person or entity and may be required to provide us with personally identifiable information to verify your identity prior to accessing any records containing information about you. We may not accommodate a request to change or delete personally identifiable information if we believe doing so would violate any law or legal requirement, or cause the information to be incorrect.
