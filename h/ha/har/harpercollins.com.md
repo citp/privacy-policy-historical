@@ -1,104 +1,193 @@
-> *The following text is extracted and transformed from the harpercollins.com privacy policy that was archived on 2018-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180506155127id_/http%3A//corporate.harpercollins.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harpercollins.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605220553id_/http%3A//corporate.harpercollins.com/us/privacy-policy%3F) for the most accurate reproduction.*
 
-# Privacy Policy HarperCollins Publishers US
+# Privacy Policy - HarperCollins Publishers
 
-### Table of Contents:
+**Effective Date:   May 24, 2018**
 
-Effective April 22, 2013
+We at HarperCollins Publishers L.L.C. (“Company”) respect your concerns about privacy.  This Privacy Notice (“Notice”) applies to personal customer information obtained by the Company, including through web sites, mobile sites, applications (“apps”), widgets  and trade shows (collectively, the “Services”).
 
-  1. INTRODUCTION
-  2. COLLECTION OF INFORMATION
-  3. USE AND DISCLOSURE
-  4. SECURITY
-  5. USER ACCESS AND CONTROL
-  6. OTHER IMPORTANT INFORMATION
-  7. CONTACT US
+The Notice describes the types of personal information we obtain about customers, how we use the information and with whom we share it.  We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.  The Services are for a general audience, are not targeted to children, and we do not knowingly collect personal information from children under 13 years of age. When we intend to collect information from children, we will provide additional information about how we protect children's privacy in our Children’s Privacy policy. To read about our protections that relate to the online collection of information from children under 13, click [here](https://www.harpercollins.com/coppa/).
+
+Click on one of the links below to jump to the listed section:
+
+  *     * _Information We Obtain_
+      * __Information Obtained by Automated Means Through Our Services__
+    * _How We Use the Information We Obtain_
+    * _Interest-Based Advertising_
+    * _SMS/MMS Advertising_
+    * _Information We Share_
+    * _Your Choices_
+      * __Accessing, Reviewing, Updating and Modifying Personal Information__
+    * _Notice to California Residents_
+    * _How We Protect Personal Information_
+    * _Transfers of Information_
+    * _Links to Third-Party Sites, Apps and Services_
+    * _Updates to Our Privacy Notice_
+    * _How To Contact Us_
 
 
 
-## 1\. INTRODUCTION
+## **_Information We Obtain_**
 
-HarperCollins Publishers L.L.C. ('HarperCollins' or 'we') wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ('apps'), and widgets (collectively, the 'HarperCollins Services'). By using HarperCollins Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies ('HarperCollins Affiliates') is available at [www.newscorp.com/about/](http://www.newscorp.com/about/).
+We obtain personal information about customers through the Services and from our Company affiliates.  The types of personal information we may obtain include:
 
-As set forth in our [Terms of Use](http://www.harpercollins.com/footer/termsOfUse.aspx), the HarperCollins Services are predominantly for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. When we intend to collect information from children, we will provide additional information about how we protect children's privacy in our Childrenís Privacy policy. To read about our protections that relate to the online collection of information from children under 13, [click here](http://www.harpercollins.com/coppa).
+  * Contact information (such as name, postal address, email address and telephone and/or mobile numbers);
+  * Username and password when you register through our Services;
+  * Geolocation data;
+  * Other information you may provide to us, such as through our “Submit a Request” or “Contact Us” feature
 
-This Privacy Policy applies to all users, including both those who use the HarperCollins Services without being registered with or subscribing to a HarperCollins Service and those who have registered with or subscribed to a HarperCollins Service. This Privacy Policy applies to HarperCollins's collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally HarperCollins's practices for handling non-personal information (for example, interests, demographics and services usage).
 
-## 2\. COLLECTION OF INFORMATION
 
-HarperCollins and our service providers collect the following information from and about you:
+  
+__Information Obtained by Automated Means Through Our Services__
 
-**Registration Information** is the information you submit to register for a HarperCollins Service, for example, to create an account, post comments, receive a newsletter, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code and birthday.
+We also may obtain certain information through our Services by automated means, such as cookies (including HTTP, HTML5 and Flash cookies), web beacons, web server logs, JavaScript and similar technologies, including technologies designed to obtain information regarding your use of our Services.  The information we obtain in this manner may include IP address, mobile device advertising ID, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our Services, and dates and times you access or use the Services.  In connection with our mobile apps, we also may obtain your phone number and details about your mobile carrier.
 
-**Public Information and Posts** consist of comments or content that you post to the HarperCollins Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
+A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser.  A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server.  Through these automated collection methods, we obtain “clickstream data,” which is a log of the links and other content on which a visitor clicks while browsing a website.  As the visitor clicks through the website, a record of the action may be collected and stored. **  **We also may use similar automated means to obtain and store information regarding your actions while using our mobile apps.  ** **
 
-**Information from Social Media.** If you access or log-in to a HarperCollins Service through a social media service or connect a HarperCollins Service to a social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the HarperCollins Services through social media services or when you connect a HarperCollins Service to social media services, you are authorizing HarperCollins to collect, store, and use such information and content in accordance with this Privacy Policy.
+We may link certain data elements obtained through automated means, such as your browser or device information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you, what search queries you may have run and what advertisements you may have seen on our Services or on third-party websites and apps.  Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies.  You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and [Global Storage Settings Pane](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) _l_. Please note, however, that without cookies you may not be able to use all of the features of our Services.  Your device settings also may allow you to prohibit mobile app platforms (such as Apple and Google) from sharing certain information obtained by automated means with us through our apps or other app developers.
 
-**Activity Information.** When you access and interact with the HarperCollins Services, we may collect certain information about those visits. For example, in order to permit your connection to the HarperCollins Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the HarperCollins Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information for that device.
+In addition, if you register with us through or connect your account with us to a third-party social media network (such as Facebook or Twitter), we may obtain certain information about you from the relevant social media network, such as your user ID and/or user name associated with that social media network, the information contained in your public profile on the social media network and friends lists.  The specific information we obtain depends on your privacy settings on the applicable social media network.  
 
-Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data that often include a de-identified or anonymous unique identifier. Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information about your usage of the HarperCollins Services, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen. Third parties that support the HarperCollins Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate HarperCollins Services usage statistics, may also use these technologies to collect similar information. HarperCollins does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, see www.aboutads.info/consumers, and to opt-out of such ad networks' and services' advertising practices, go to [www.aboutads.info/choices.](http://www.aboutads.info/choices)
 
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the 'Help' section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobeís website, see <http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html>. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the HarperCollins Services.
+The providers of third-party apps, tools, widgets and plug-ins on our Services, such as social media sharing tools, also may use automated means to collect information regarding your interactions with these features.  This information is collected directly by the providers of those features and is subject to the privacy policies or notices of those providers.  The Company is not responsible for those providers’ information practices.
 
-**Information from Other Sources.** We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our HarperCollins Affiliates or business partners.
+## **_How We Use the Information We Obtain_**
 
-## 3\. USE AND DISCLOSURE
+We may use the information collected from and about you to:
 
-We use the information we collect from and about you to provide the HarperCollins Services and features to you, including: to measure and improve those HarperCollins Services and features; to improve your experience with both online and off-line HarperCollins Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, or rewards programs; to provide you with customer support and to respond to inquiries. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties.
+  * Provide our products and services;
+  * Create and manage online accounts;
+  * Send promotional materials, alerts regarding available offers and other communications, including communications through the Services and outside of the Services, such as via email and through third-party websites and apps;
+  * Communicate about, and administer participation in, special events, promotions, programs, offers, surveys, contests and market research;
+  * Respond to inquiries from you and other third-parties, including inquiries from law enforcement agencies;
+  * Anonymize personal information to provide third parties with aggregated data reports showing anonymized information and other non-personal information;
+  * Supplement your personal information collected from you with additional information from publicly and commercially available sources, and/or information from Company affiliates and our business partners;
+  * Associate your browser and/or device with other browsers or devices you use for the purpose of providing relevant and easier access to content, advertising across browsers and devices, and other operational/business purposes.
+  * Operate, evaluate and improve our business (including developing, enhancing, analyzing and improving our Services; managing our communications; performing data analytics; and performing accounting, auditing and other internal functions);
+  * Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and
+  * Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies
 
-We use the information we collect from and about you for these additional purposes:
 
-**To allow service providers to assist us in providing and managing the HarperCollins Services.**  HarperCollins may make your information available to certain third party service providers, such as contractors, agents or sponsors, who help us manage or provide the HarperCollins Services.
 
-**To allow social sharing functionality.**  If you log in with or connect a social media service account with HarperCollins Services, we may share your user name, picture, and likes, as well as your activities and comments with other HarperCollins Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your HarperCollins Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service's use of the shared information will be governed by the social media service's privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your HarperCollins Services account and do not participate in social sharing on HarperCollins Services.
+In addition, we and our third-party service providers may use information collected through automated means including cookies, web beacons, web server logs, JavaScript and similar technologies for purposes such as (1) customizing our users’ visits to and use of our Services, (2) delivering content (including advertising) tailored to our users’ interests and the manner in which our users use our Services, and (3) managing our Services and other aspects of our business.
 
-**To provide co-branded services and features.**  We may offer co-branded services or features, such as contests, sweepstakes or other promotions together with a third party ('Co-Branded Services'). These Co-Branded Services may be hosted on HarperCollins Services or on the third party's service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third partyís use of your information will be governed by the third party's privacy policy.
+We may use third-party analytics services on our Services, such as those of Google Analytics.  The analytics providers that administer these services use technologies such as cookies, web beacons, web server logs and similar technologies to help us analyze your use of the Services.  The information collected through these means may be disclosed to these analytics providers and other relevant third parties who use the information, for example, to evaluate use of the Services.  To learn more about how to opt out of Google Analytics services, please visit the link below
 
-**To deliver relevant advertisements.**  HarperCollins and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use the HarperCollins Services or another service. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see [www.aboutads.info](http://www.aboutads.info/), and to opt-out of such advertising networks' and services' advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices).
+  * [Google Analytics](https://tools.google.com/dlpage/gaoptout)
 
-**To contact you.**  HarperCollins may periodically send promotional materials or notifications related to the HarperCollins Services. If you want to stop receiving promotional materials, you can follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the HarperCollins Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
 
-**To share with our HarperCollins Affiliates.**  HarperCollins may share your information with HarperCollins Affiliates for the purposes described in this Privacy Policy. A link to a website that lists HarperCollins Affiliates can be found at the beginning of this policy. Users who visit HarperCollins Affiliates' services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy.
 
-**To share with business partners.**  HarperCollins may share your information with business partners to permit them to send you marketing communications consistent with your choices. To protect the rights of HarperCollins and others. There may be instances when HarperCollins may disclose your information, including situations where HarperCollins has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of HarperCollins, our HarperCollins Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the HarperCollins Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities.
+  
+We also may use your personal information in other ways for which we provide specific notice at the time of collection.
 
-**To complete a merger or sale of assets.**  If HarperCollins sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, HarperCollins may transfer your information to the party or parties involved in the transaction as part of that transaction.
+## **_Interest-Based Advertising_**
 
-## 4\. SECURITY
+On our sites, apps and/or emails we and our third-party service providers may obtain information about your activities to provide you with advertising about products and services tailored to your individual interests.  We and our third-party service providers also may obtain information for this purpose from third-party websites and apps.  This section of our Privacy Notice provides details and explains how to exercise your choices.
 
-HarperCollins uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.
+We engage third-party advertising networks to help us target our messaging to visitors through interest-based and contextual means.  Through these ad networks, we can track your online activities over time and across third-party websites and apps by obtaining information through automated means, as described above.  The networks use this information to show you advertisements on our Services or other third-party websites and apps that may be tailored to your individual interests.  The information our ad networks may obtain on our behalf includes data about your visits to websites and use of apps that serve our advertisements, such as the pages or ads you view and the actions you take on those websites or apps.  This data collection takes place both on our sites, apps and emails and on third-party websites and apps that participate in these ad networks.  This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of this ad network interest-based advertising,
 
-## 5\. USER ACCESS AND CONTROL
+  * click[ here](http://www.aboutads.info/choices/) or [here](https://www.networkadvertising.org/choices/#completed) in the US
+  * click [here](http://youradchoices.ca/choices) in Canada.
 
-If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us at privacypolicy@harpercollins.com. In your request, please (i) include your email address, name, address, telephone number, and the HarperCollins Service to which you provided the information and (ii) specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable.
 
-If you are a California resident, you may request that we not share your personal information on a going-forward basis with HarperCollins Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to [privacypolicy@harpercollins.com](mailto:privacypolicy@harpercollins.com) with 'HC Services: Disclosure Opt-out' in the subject line and your full name, email address and postal address in the body of the email.
 
-## 6\. OTHER IMPORTANT INFORMATION
+We also participate in an advertising platform offered by our affiliate NC Audience Exchange, LLC, NewsIQ, which gathers information for the purposes as described above. To learn more about NewsIQ, and how to opt out, please [click here](http://ncaudienceexchange.com/privacy/)
 
-**Updates to Privacy Policy.**  HarperCollins may modify this Privacy Policy. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the HarperCollins Services.
+To the extent required by applicable law, we will obtain your consent before using your information for interest-based advertising.  
+  
+Our sites are not designed to respond to “do not track” signals from browsers.
 
-**Location of Data.**  The HarperCollins Services are hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care.
+## **_SMS/MMS Advertising_   **
 
-**Linked Services.**  The HarperCollins Services may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies. HarperCollins is not responsible for the privacy practices of unaffiliated companies, and once you leave the HarperCollins Services or click an advertisement you should check the applicable privacy policy of the other service.
+By electing to submit your mobile phone number, you consent to receive text message alerts from the Company containing product/service and event information or promotions that may be sent using automated dialing systems (“Text Messages”). Your consent to receive Text Messages is not otherwise required to purchase any goods or services from us. You may not consent to receive Text Messages on behalf of someone else or provide someone else’s phone number. You agree to enter into, sign and receive your consent to receive Text Messages electronically.
 
-**Collection of Personal Financial Information by a Payment Service.**  In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments ('Payment Service'). If you wish to purchase a product or make a payment using a Payment Service, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service's privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service's use of information collected through any Payment Service.
+You may receive approximately 8 recurring Text Messages per month. We do not charge a fee for you to receive Text Messages from us, however, your mobile service provider may charge you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. Participating Carriers are: Alaska Communications Systems (ACS), Alltel-Allied, AT&T, Bluegrass Cellular, Boost Mobile, Boost-CDMA, Carolina West Wireless, CellCom, Cellular One, Cellular South, Chariton Valley Cellular, Chat Mobility, Cincinnati Bell, Cleartalk (Flat Wireless), Cross Wireless, DTC Wireless, Duet IP, East Kentucky Network, ECIT, Element Mobile, Epic Touch, GCI Communications, Golden State Cellular, Google Voice, Illinois Valley Cellular, Immix, Inland Cellular, IWireless, Kenai SRT Communications, Leap Wireless, Metro PCS, MetroPCS/T-Mobile, Mobi, MobileNation/SI Wireless, Mosaic Telecom, MTA Wireless/Matanuska, MTPCS, Nex Tech Communications, Northwest Missouri Cellular, nTelos, Panhandle Wireless, PCS, Peoples Wireless, Pine Cellular, Pioneer Cellular, Plateau Wireless, Rural Independent Network Alliance, Sagebrush Cellular, SouthernLINC, Thumb Cellular, T-Mobile, TracFone (AT&T), Union Telephone, United States Cellular Corp, United Wireless, US Aio Wireless, Verizon, Viaero Wireless, Virgin Mobile, and West Central Wireless. .
 
-**Data Retention.**  We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+To receive help with Text Messages, you can either text the word “Help” to READIT (732348)  or contact us as outlined in the _How To Contact Us_ Section below.  .  
+  
+You may unsubscribe from receiving our Text Messages any time by texting the word “STOP” to READIT (732348)  from your device. You may also choose not to receive Text Messages by contacting us as outlined in the _How To Contact Us_ Section below.
 
-Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements.
+## **_Information We Share_** **  **
 
-**Sensitive Information.**  We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the HarperCollins Services or otherwise.
+We may share customer personal information with
 
-## 7\. CONTACT US
+  * Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes. A current list of our affiliated companies is available at <http://newscorp.com/about/our-businesses/>.
+  * Service providers in the US and other jurisdictions who perform services on our behalf.
+  * Our third party clients or business partners, such as social media networks and advertising agencies, and other third parties for those third parties’ own marketing purposes, such as to serve targeted advertisements.
 
-If you have questions about this Privacy Policy, please contact us at:
 
-**Email:**  
-[privacypolicy@harpercollins.com](mailto:privacypolicy@harpercollins.com)
 
-**Mail:**  
+In addition, when the information collected from or about you does not identify you as a specific person, we may share it with third parties.  
+  
+We may further disclose information about you (1) if we are required to do so by law or legal process, (2) to law enforcement authorities or other government officials, and (3) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.  We also reserve the right to transfer personal information we have about you in the event of a proposed or completed sale or transfer of all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
+
+## **_Your Choices_**
+
+We offer you certain choices in connection with the personal information we obtain about you, such as how we communicate with you.
+
+To update your preferences, ask us to remove your information from our marketing mailing lists  or submit a request, please contact us as outlined in the _How To Contact Us_ Section below.
+
+You also can unsubscribe from our marketing mailing lists by following the “Unsubscribe” link in our emails, and you can unsubscribe from Text Messages as outlined above.
+
+To learn more about how to opt out of ad network interest-based advertising, please visit the customer opt-out pages at:  
+
+
+  * In the US: <http://www.aboutads.info/choices/> and [http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/).
+  * In Canada: <http://youradchoices.ca/choices>.
+
+
+
+## **_Accessing, Reviewing, Updating and Modifying Personal Information_**
+
+You have the right to access, review, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law.  You may request access, updates to and corrections of inaccuracies in your personal information by emailing or writing to us at the contact information set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to his/her personal information records.  
+
+
+## **_Notice to California Residents_    **
+
+Subject to certain limitations, California residents may ask us to provide them with (1) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (2) the identity of those third parties.  To make this request, California residents may contact us as specified in the How to Contact Us section below.  
+
+
+## **_How We Protect Personal Information_**
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information we have about you against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.  
+
+
+## **_Transfers of Information_   **
+
+The Services may be hosted in and managed from a country outside the country in which you initially provided the information, including the United States.  We may transfer the personal information we collect about you to the United States and/or another country, which may not be deemed to have the same data protection laws as the country in which you initially provided the information.  When your personal information is in such countries, it may be accessed by the courts, law enforcement and national security authorities in accordance with applicable law.  If you are a user located outside the United States or the country to which your information may be transferred, you understand and consent to having any personal information processed in the United States and/or such country.  Your consent includes the use of cookies and other tracking technologies as described above.  When we transfer your information, we will protect that information as described in this Notice.  
+
+
+## **_Links to Third-Party Sites, Apps and Services_**
+
+For your convenience and information, our Services may provide links to third-party sites, apps and services that may be operated by companies not affiliated with HarperCollins Publishers.  These companies may have their own privacy notices or policies, which we strongly suggest you review.  We are not responsible for the privacy practices of any non-HarperCollins Publishers’ sites, apps or services.  
+
+
+## **_Updates to Our Privacy Notice_ **
+
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices.  For significant changes, we will notify you by posting a prominent notice on our Services indicating at the top of the Notice when it was most recently updated.
+
+## **_How To Contact Us_**
+
+If you have any questions or comments about this Privacy Notice or the manner in which we or our service providers treat your personal information, would like to exercise your choices, or would like us to update information we have about you or your preferences, please contact us as follows:
+
+privacypolicy@harpercollins.com
+
+You also may write to:
+
 Legal Department / Privacy Policy  
 HarperCollins Publishers  
 195 Broadway  
-New York, NY 10007
+New York, NY 10007 ** **
+
+Canadian residents may also contact our Privacy Officer at
+
+Privacy Official  
+HarperCollins Canada Limited  
+Internet Development Group  
+Bay Adelaide Centre, East Tower  
+2 Adelaide St. W, 41st Floor  
+Toronto, Ontario M5H 4E3
+
+Tel. No.: (416) 975-9334  
+e-mail: privacy-canada@harpercollins.com.
