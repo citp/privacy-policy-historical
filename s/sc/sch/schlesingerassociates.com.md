@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the schlesingerassociates.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203034049id_/https%3A//www.schlesingergroup.com/legal/privacy/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schlesingerassociates.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605133321id_/https%3A//www.schlesingergroup.com/legal/privacy/%23privacy-policy) for the most accurate reproduction.*
 
 # See Our Privacy Policy & Privacy Shield Policy | Schlesinger Group
 
 ### Purpose
 
-This privacy policy focuses on our data protection commitment to active and prospective marketing research clients and how we collect, store and process and transfer personal information for our direct marketing and communication purposes. (For our policy relating to marketing research, please see our _Marketing Research Privacy Policy._ )
+This privacy policy focuses on our data protection commitment to active and prospective marketing research clients and how we collect, store and process and transfer personal information for our direct marketing and communication purposes. (For our policy relating to marketing research, please see our [_Marketing Research Privacy Policy._](https://www.schlesingergroup.com/en/legal/privacy/#privacy-policy))
 
 ### Personal Information that is collected
 
