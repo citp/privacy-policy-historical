@@ -1,94 +1,196 @@
-> *The following text is extracted and transformed from the zippytune.com privacy policy that was archived on 2015-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150806184208id_/http%3A//www.zippytune.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zippytune.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606000132id_/https%3A//www.sendinblue.com/legal/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - ZippyTune - Share Your Tracks.
+# Privacy Policy Personal Data Protection – Sendinblue
 
-This Privacy Policy describes the kinds of information that ZippyTune (“we”) may collect about you through our group of websites and others where this Policy appears (the “Sites”), and what we may do with that information. We reserve the right to modify this Policy at any time by posting the updated version here and changing the “version” date above. Therefore, please check this page for updates whenever you visit any of our Sites, and we may also elect to notify our registered users of material changes via e-mail or other means. This Policy does not apply to information that may be collected off-line. 
+In the course of its activity and for the purposes of providing the Services (as defined in our [General Terms of Use](https://www.sendinblue.com/legal/termsofuse/)), Sendinblue is required to collect and process the personal data of its users (hereafter referred to as the “Users”).
 
-By visiting or registering at one or more of the Sites, you acknowledge that you have read, understand and agree to be bound by this Policy as it may be amended from time to time, and to our collection, transfer (if applicable), storage and processing of your information in the United States of America. If you do not agree to these terms, please navigate away from the Site and do not register, make any purchases or provide us with any personal information about you. 
+This privacy policy, implemented by Sendinblue, is intended to provide the Users with a summary and overview of the processing of personal data carried out by Sendinblue.
 
-**What information do we collect?**
+Sendinblue attaches particular importance to the respect for the privacy of the Users and of the confidentiality of their personal data, and is thus committed to processing the data in compliance with the applicable laws and regulations, and in particular Law No. 78-17 of 6 January 1978 relating to Information Technology, Data Files and Civil Liberties (hereafter referred to as the “Data Protection Act”), and Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (hereafter referred to as the “GDPR”).
 
-We generally collect two kinds of information through the Site: “personal information” about you which you provide to us, and “non-personal information” about you, your computer and technology, and your use of the Sites, which alone doesn’t identify you personally. 
+### Definitions
 
-In order for you to become a registered user, make purchases from, or sell content through our Sites, you will need to provide us with certain personal information, such as your age, name, business name if applicable, e-mail address, street address and telephone number during the registration process. For online purchases or sales, we will also require your credit or debit card number, expiration date, billing address and related details (which may include your social security or other tax ID number) in order to process payments. We may also ask for additional personal information from time to time such as such as gender and income level, in connection with online promotions, contests, giveaways, surveys and other programs, but it’s entirely up to you whether or not to provide that information to participate in those programs. 
+**Personal data:** any information relating to an identified or identifiable natural person, that is, a person who can be identified, directly or indirectly, by reference to an identification number or to one or more elements specific to that person.
 
-We may also collect non-personal information from visitors and registered users of the Sites. We may ask you to provide some of that information yourself, such as your musical preferences, your favorite artists, labels or genres, or your purchasing, listening and concert-going habits. Other technical, geographic and usage data and information we may collect directly, such as your browser type, ISP, operating system, log and Site usage data, IP address, zip code or location, the pages you visit and music or other content that you listen to or access while on the Sites, websites you’ve visited upon entering or leaving the Sites, and if you purchase or sell content through the Sites we will keep track of those purchases and/or sales. Such information may be combined with your personal information. 
+**Processing of personal data:** any operation or any set of operations relating to personal data, whatever the process used, and in particular the collection, recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, as well as locking, erasure, or destruction.
 
-If you contact or communicate with us or our representatives by e-mail or through the Sites, or if you post any information on any forums, chat rooms, profile pages, feedback, customer service or other portions of the Sites, we may collect, retain and use any information that you provide. 
+**Cookie :** a cookie is a piece of information placed on the hard drive of Internet users by the server of the site they visit. It contains several pieces of data: the name of the server which installed it, an identifier in the form of a unique number, and possibly an expiry date. This information is sometimes stored on the computer in a simple text file that a server accesses to read and save pieces of information.
 
-**Do we use "cookies" or "web beacons"?**
+### Data Controller – DPO
 
-We do use "cookies" to collect Site usage data and to improve your experience on the Sites and our service generally. A “cookie” is a small data file transferred to your computer for access on future visits to the Site, which can tell us that you (or someone using the same computer or IP address) visited our Site(s) before, what clips you’ve listened to, etc. You can stop accepting cookies by setting your Internet browser accordingly, but this will likely result in our not recognizing you or your preferences on future visits, so you may have to re-enter certain information. 
+The data controller for the processing of the personal data referred to herein is Sendinblue, a simplified joint stock company with a share capital of 137,531 Euros, registered with the Paris Trade and Companies Register under number 498 019 298 and whose registered office is located at 55 rue d’Amsterdam, 75008 Paris, France.
 
-The Sites and e-mails from us may contain electronic images known as "web beacons." These are files that allow us to count visitors to our Sites, to tell if an ad has been viewed or if an e-mail has been opened or forwarded, or to serve particular content or services. Web beacons collect limited non-personal information, including beacon number, time and date of a page or e-mail view, and a description of the page on which the web beacon resides, all of which we may store and use. Disabling cookies may prevent some beacons’ activity, but generally the beacons will operate if you visit the Sites or open e-mails from us. 
+Sendinblue has appointed a Data Protection Officer who can be contacted at the following address: [dpo@sendinblue.com](mailto:dpo@sendinblue.com).
 
-**What kind of "cookies" do we use?**
+#### Data collected
 
-Based on the guidelines found in the ICC UK Cookie guide, we may use the following categories: 
+Sendinblue collects data from Users in order to make the Services for which they have subscribed to the platform available to them.
 
-**Strictly Necessary Cookies**
+The mandatory or optional nature of the data provided (in order to complete the Users’ registration and to render the Services) is indicated at the time of collection by an asterisk.
 
-These cookies are essential in enabling you to browse our website and use its features. Without these cookies, services like shopping carts and electronic payments cannot be provided. For these types of cookies that are strictly required, no user consent is necessary. 
+In addition, certain data is collected automatically as a result of the User’s actions on the site (see the paragraph on cookies).
 
-**Performance Cookies**
+#### Purposes
 
-These cookies collect anonymous information on how visitors use our website and whether they encounter error messages from our web pages. All information gathered is aggregated and therefore anonymized. They are only used to improve how a website works. By using our website, you agree that we can place these types of cookies on your device. 
+The personal data collected by Sendinblue during the provision of the Services is necessary for the performance of the contracts concluded with the Users, or to allow Sendinblue to pursue its legitimate interests while respecting the rights of the Users. Certain data may also be processed based on the Users’ consent.
 
-**Functionality Cookies**
+The purposes for which Sendinblue processes data are the following:
 
-These cookies allow our websites to remember choices you make while browsing, like language, font size, and user name preferences. We may also remember preferences such as text size, fonts and other customizable site elements. They may also be used to enable you to watch videos or comment on a blog. The information these cookies collect will not personally identify you, and they cannot track your browsing activity outside our websites. When you choose these preferences, you agree that we can place these functional customization cookies on your device. 
+  * commercial and accounting management of the contract;
+  * management of customer acquisition and marketing activities;
+  * detection of malicious behaviour (fraud, phishing, spam, etc.);
+  * the improvement of the Users path on the site;
+  * more generally, any purpose referred to in Article 2 of Deliberation No. 2012-209 of 21 June 2012 creating a simplified standard for the automated processing of personal data relating to the management of users and prospects.
 
-**Advertising Cookies**
 
-These cookies are used to deliver targeted advertising as may be relevant to you and your interests. They are also used to limit the number of times you see an advertisement and help measure the effectiveness of the campaign. They remember you have visited a website and is shared with other sites such as advertisers. They may be linked to functionality provided by the other sites. You can choose whether to allow these cookies by changing your cookie settings in your browser.   
-You can [opt-out here.](http://www.networkadvertising.org/choices/)
 
-**What do we do with the information we collect?**
+#### Recipients of the data
 
-Our main use for the personal information we collect is to process your registration, purchases and payments, and to maintain your account on an ongoing basis. If you are a content supplier, we will also use your personal information to make accountings and pay royalties to you. If you enter any contests, promotions, giveaways or other optional programs, we will use the information you provide to facilitate and communicate with you about that particular transaction, such as to notify you whether you’ve won, to deliver prizes. If you maintain a DJ profile page, we may use your personal information to communicate with you about that. 
+The personal data collected is intended for Sendinblue’s commercial and accounting departments. It may be transmitted to Sendinblue’s subsidiaries, or to third-party data processors which Sendinblue is authorized to use within the context of the performance of its Services.
 
-We may also use your personal and non-personal information to enhance your experience with the Sites and our service, such as sending you e-mails and otherwise providing you with other information, content and material in which we think you may be interested; displaying content and ads according to your prior browsing history, preferences and location; fulfilling your orders; providing customer service and responding to your questions and comments; or contacting you about your account or about our and and partners’ promotions, contests, surveys, or other promotions. 
+In this context, personal data may be transferred to an EU or non-EU country. Sendinblue implements guarantees ensuring the protection and security of this data, in compliance with applicable rules and regulations.
 
-We may use information learned from cookies and web beacons to make sure that our content and emails are in a format that you can read, to analyze trends about which Sites, content and e-mails are popular and are being read and/or forwarded, to maintain a history of e-mail activity, and to evaluate the effectiveness and efficiency of certain communications. 
+Sendinblue does not transfer or rent personal data to third parties for marketing purposes without the express consent of the Users of Sendinblue.
 
-Your feedback and other information will also be used to evaluate and enhance our Sites and service. For example, we may analyze the traffic and usage of our Site; the participation rate of our various promotions, offerings, e-mails, and other programs; and the popularity of our content, artists, and participating suppliers. We may also use that information for product development purposes, such as determining what other labels, artists, products and services our users are interested in, and for technical purposes such as monitoring the functionality of our servers and e-mail systems. 
+In addition, personal data may only be disclosed to third parties for purposes other than marketing in the following cases:
 
-**Do we share the information we collect with third parties?**
+  * with their authorisation;
+  * at the request of the competent legal authorities, upon judicial request, or in the context of a legal dispute.
 
-We may share the information that we collect, both personal and non-personal, with third parties such as advertisers, contest sponsors, promotional and marketing partners, and the labels, artists and others who provide our content or whose products or services we think may interest you. We may also share it with our current and future affiliated companies and business partners, and if we are involved in a merger, asset sale or other business reorganization, we may also share or transfer your personal and non-personal information to our successors-in-interest. 
 
-We may engage trusted third party service providers to perform functions and provide services to us, such as hosting and maintaining our servers and the Site, database storage and management, e-mail management, storage marketing, credit card processing, customer service and fulfilling orders for products and services you may purchase through the Site. We will likely share your personal information, and possibly some non-personal information, with these third parties to enable them to perform these services for us and for you. 
 
-We may share portions of our log file data, including IP addresses, for analytics purposes with third parties such as web analytics partners, application developers, and ad networks. If your IP address is shared, it may be used to estimate general location and other technographics such as connection speed, whether you have visited the Sites in a shared location, and type of the device used to visit the Sites. They may aggregate information about our advertising and what you see on the Sites and then provide auditing, research and reporting for us and our advertisers. 
+#### Data retention period
 
-We may also disclose personal and non-personal information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate in order to respond to claims, legal process (including subpoenas), to protect our rights and interests or those of a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to otherwise comply with applicable court orders, laws, rules and regulations. 
+To satisfy its legal obligations or in order to have the necessary elements to assert its rights, Sendinblue will be able to retain the data under the conditions established by applicable rules and regulations.
 
-**Is your information secure?**
+Thus, personal data collected by Sendinblue relating to the identity and contact details of its Users is retained for a maximum period of two years after the termination of the contractual relationship for Users that are customers, or from their collection by the data controller or the last contact from the Users that are prospects, for the data relating to the latter.
 
-We employ administrative, physical, and electronic measures designed to protect your information from unauthorized access. All credit transactions occur in a secure area of the Site using Secure Sockets Layer (SSL) software to process orders, which encrypts the information you input on the Site. For the storage and processing of credit card information, we engage a third party certified as compliant with the Payment Card Industry Data Security Standard (PCI DSS). 
+The termination of the contractual relationship is understood as the express termination of the contract by the User, or the non-use of Sendinblue Services for a period of five years.
 
-In addition, all personal user information is stored behind a firewall with limited administrative access. However, please be aware that despite our best efforts, no security measures are perfect or impenetrable. 
+#### Rights of Users
 
-Any information or material you may enter in publicly viewable portion of the Sites, such as on a DJ profile page, an online forum or comment section, chat room, or bulletin board, will be readily accessible to the general public. Therefore, do not enter in those areas of the Site any personal information (e.g., your name, e-mail or postal address, credit card details) or other information or materials that you would not wish to be publicly available. This also applies to any communications you may have directly with other users of the Sites. 
+In accordance with applicable rules, the Users have the right to access and rectify their personal data, which enables them to rectify, complete, update, or delete data that is inaccurate, incomplete, ambiguous, or outdated, or whose collection, use, communication, or storage is prohibited.
 
-**Does this Policy apply to any other sites or services?**
+The Users also have the right to request the limitation of the processing, and to oppose on legitimate grounds the processing of their personal data. The User may also communicate instructions on the fate of their personal data in the event of their death.
 
-The Sites may contain links to the websites associated with record labels, DJs, artists, and suppliers of content to the Sites and to our advertisers, marketing partners, contest sponsors, or other third parties. Links, advertisements, promotions, or other mentions do not constitute our endorsement, authorization or representation of our affiliation with any third party, or of their products or services. 
+Where applicable, the User may request the portability of their personal data or, where the legal basis for the processing is consent, withdraw their consent at any time.
 
-Third party sites have their own privacy and data protection policies and practices, and may place their own cookies or other files on your computer, and collect or solicit both personally identifiable and non-personally identifiable information from you under rules different from this Policy. We do not control other sites, companies or persons and can’t be responsible for your experience once you leave our Sites. Therefore, we strongly encourage you to carefully read the privacy policies, terms of use and other policies of other sites you visit. 
+The Users may exercise their rights by sending an email to [privacy@sendinblue.com](mailto:privacy@sendinblue.com) or a letter to:
 
-**What is our policy regarding children's information?**
+**  
+Sendinblue SAS – Politique de confidentialité  
+55, rue d’Amsterdam 75008 Paris, France  
+**
 
-Our Sites, products and and services are not intended for, and we do not knowingly accept registration or collect personally identifiable information from, engage in financial transactions with, or otherwise transact with, children under 13 years old. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete it from our files. If parents or legal guardians become aware that their under-13s have provided us with personally identifiable information without their consent (or that we have otherwise collected or obtained such information), they should contact us at contact@zippytune.com. 
+These requests shall be processed within a maximum period of 30 days.
 
-If you are between the ages of 13 and 18, or otherwise below the age of legal majority where you live, you must obtain permission from your parent or legal guardian before registering with one or more of the Sites, using a credit card or providing any information about themselves to us or anyone else over the Internet. 
+The Users may also at any time modify the data pertaining to them by logging on to [https://www.sendinblue.com](https://www.sendinblue.com/) and clicking on “edit my profile” or by contacting the customer relations department at [support@sendinblue.com](mailto:support@sendinblue.com)
 
-**Where do we store and use your information?**
+The Users may unsubscribe from the Sendinblue newsletter or marketing emails by following the unsubscribe links in each of these emails.
 
-We collect, store and process the information we collect in the United States of America. If you are outside the U.S., then your personal and non-personal information may be transferred to the U.S. 
+In the event of a dispute, the Users may file a complaint with the CNIL, for which contact details may be found at [http://www.cnil.fr.](http://www.cnil.fr./)
 
-California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes, and those who have an established business relationship with us may also choose to opt-out from such disclosures. To do so, please contact us by one of the methods described below stating your specific request and your name, address, e-mail address and phone number. This will not prohibit disclosure of information for non-marketing purposes. 
+The Users may access detailed information on the use of their personal data, in particular concerning the purposes of the processing, the legal bases enabling Sendinblue to process the data, its storage period, its recipients, and, where applicable, its transfer to a country outside the European Union as well as the related compliance guarantees put in place for such transfers. To do so, the User can send their request by email to [privacy@sendinblue.com](mailto:privacy@sendinblue.com).
 
-E-mails that you receive from us will include specific instructions on how to unsubscribe from receiving certain communications. You may also send an email to us at contact@zippytune.com to update or correct the personal information we have on file for you or to be unsubscribed from marketing or promotional e-mailings. 
+### Cookies
 
-As long as you remain a registered user of one or more of the Sites, or continue to make purchases or provide us with content, then we still reserve the right to contact you about your account and to inform you about operational matters regarding the Sites. 
+The Sendinblue site uses cookies whose purpose is to facilitate navigation on the site, to execute the service provided by Sendinblue, to measure the site’s audience, or to allow pages on the site to be shared.
+
+#### Types of cookies used
+
+**The cookies necessary for navigation on the site**
+
+These cookies are necessary for the functioning of the [sendinblue.com](https://www.sendinblue.com/) site. They allow the main features of the site to be used.
+
+Without these cookies, Users cannot use the site normally.
+
+**Functional cookies**
+
+These cookies make it possible to personalise the User experience.
+
+**Analytical cookies**
+
+These cookies make it possible to examine the use and the performance of the site and to improve its operation by carrying out analyses of visits to the informational pages by monitoring the open rates, the click rates, and the bounce rates at the individual level.
+
+**Sharing button cookies**
+
+These social cookies allow users to share pages and content on third-party social networks via social sharing buttons.
+
+#### Cookie management
+
+Users may accept or reject cookies on the site or refuse them once and for all through their browser settings.
+
+If the User chooses to refuse all cookies, navigation to certain pages of the site will be limited.
+
+Depending on the browser used by Users, the methods for deleting cookies are as follows:
+
+**On Internet Explorer**
+
+  * Click the Tools button, then Internet Options.
+  * Under the General tab, under Navigation History, click Settings.
+  * Click the Show Files button.
+  * Select the cookies to refuse and click on delete.
+
+
+
+**On Firefox**
+
+  * Click on the Browser Tools icon, select the Options menu.
+  * In the window that appears, choose “Privacy” and click on “Display cookies”.
+  * Select the cookies to refuse and click on delete.
+
+
+
+**On Safari**
+
+  * Click the Edit icon, select the Preferences menu.
+  * Click on Security and then on Show cookies.
+  * Select the cookies to refuse and click on delete.
+
+
+
+**On Google Chrome**
+
+  * Click on the Tools icon, select the Options menu then click the Advanced Options tab.
+  * And access the “Confidentiality” section.
+  * Click on the “Show Cookies” button.
+  * Select the cookies to refuse and click on delete.
+
+
+
+**Duration of cookies**  
+Cookies are placed on the User’s terminal for a maximum period of 13 months from the date of the User’s consent.
+
+After this period, consent will be re-obtained.
+
+#### Security
+
+Sendinblue has taken all necessary precautions to preserve the security of personal data and, in particular, to prevent it from being accessed by unauthorized third parties, distorted, or damaged.
+
+These measures include the following:
+
+  * Multi-level firewall.
+  * Proven solutions for anti-virus protection and detection of intrusion attempts. 
+  * Encrypted data transmission using SSL/https/VPN technology.
+  * Tier 3 and PCI DSS certified data centres.
+
+
+
+In addition, access to processing data on behalf of Sendinblue by the receiving third-party services requires authentication of the persons accessing the data, by means of an individual access code and password, that is sufficiently robust and regularly renewed.
+
+Data transmitted over unsecured communication channels is subject to technical measures designed to make such data incomprehensible to any unauthorised person.
+
+Any questions about the security of the Sendinblue website can be directed to [support@sendinblue.com](mailto:support@sendinblue.com).
+
+#### Modification of the Privacy Policy
+
+Sendinblue reserves the right to change this Privacy Policy to comply with changes in the applicable laws and regulations.
+
+The Users shall be notified of any changes made to this policy via our website or by email at least thirty days prior, when possible, to their entry into force.
+
+#### Contact
+
+Any questions about Sendinblue’s Privacy Policy can be directed by email to [privacy@sendinblue.com](mailto:privacy@sendinblue.com) or by mail to:
+
+**Sendinblue SAS – Politique de confidentialité**  
+**55, rue d’Amsterdam 75008 Paris, France**
