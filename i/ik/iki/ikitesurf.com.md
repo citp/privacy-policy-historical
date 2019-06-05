@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikitesurf.com privacy policy that was archived on 2018-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180518193109id_/http%3A//help.weatherflow.com/entries/22801087-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikitesurf.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605230430id_/http%3A//help.weatherflow.com/entries/22801087-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – WeatherFlow Support
 
@@ -20,6 +20,9 @@ We do not release member names to any outside organizations, which means we do n
 **  
 Data Security Policy**  
 All personal data transmitted through the internet going to and from site registration forms, etc. are protected using industry-standard, 128 bit encryption over the Secure Sockets Layer protocol. Credit Card Information is encrypted, before storage, using highly secure cryptographic algorithms.
+
+**Non-Personalized Ads**  
+For the protection of all of our users worldwide (and in Compliance with the EU's General Data Protection Regulation, the GDPR): We display only non-personalized ads on our apps & websites. We do not manipulate the user's individual personal data to determine which ads are served to them. Rather, our ad serving criteria is universal & simple: Kiteboarders see our Kiteboarding ad rotation (such as on iKitesurf.com), Windsurfers see our Windsurfing ad rotation (such as on iWindsurf.com), etc. Also in compliance with the EU regulation, we do not manipulate personal information on children's accounts. Finally, our advertising program is organic and run in-house by our own employees -- not by third party outside ad serving entities or data miners.
 
 **Email Policy  
 **Our email policy is very simple: We will NOT send email to anyone who has not opted to receive the email.
