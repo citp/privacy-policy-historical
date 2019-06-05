@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the hungryforhits.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228184934id_/https%3A//hungryforhits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryforhits.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605063518id_/https%3A//hungryforhits.com/privacy.php) for the most accurate reproduction.*
 
-# Hungry For Hits manual traffic exchange. Best free traffic!
+# Traffic exchange: Hungry For Hits. Free website traffic!
 
-Hungry For Hits Privacy policy
+Hungry For Hits privacy policy
 
-## **Privacy Policy**
-
-If you are a member of Hungry For Hits, you can easily check what information we have saved about you.  
-Log in to your account and [****click here](https://hungryforhits.com/pt56ok_displaymem.php) to see the information. You can also reach the page under the "Account" tab in your account.
+If you are a member of Hungry For Hits, you can easily check what information we have saved about you under the "Account" tab in your account.
 
 **This privacy policy sets out how Hungry For Hits (Hungry For Hits, "we" or "us") uses and protects any information that you give Hungry For Hits when you use this website.**
 
@@ -188,6 +185,5 @@ Please note that this Privacy Policy, as well as all other content in Hungry For
   
 
 
-Copyright © 2016 - 2018. Hungry For Hits. All rights reserved.
-
-[ ](https://www.dmca.com/Protection/Status.aspx?ID=a3185293-b0cd-4eaa-b8d6-0d096ade3717 "DMCA.com Protection Status")
+Copyright © 2016 - 2019. Hungry For Hits. All rights reserved.  
+K.S. Marketing
