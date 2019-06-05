@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logoworks.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521074051id_/http%3A//logoworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoworks.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605163710id_/https%3A//www.logoworks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Logoworks | Professional Logo Design, Website Design, and much, much more
+# Logoworks Privacy Policy
 
 This privacy policy informs you of LogoWorks’ privacy practices and of the choices you can make about the way we collect and use your information. LogoWorks is sometimes referred to using the terms “us”, “we”, “our” and similar terms.
 
@@ -72,13 +72,13 @@ If you have comments or questions about this privacy policy, please send them to
 
 LogoWorks
 
-1 State Street Plaza
+78 Brandywine Way
 
-New York, NY 10004
+Clayton, NC  27527
 
 United States
 
-  * [Contact Us](http://omega.logoworks.com/contact)
+  * [Contact Us](https://www.logoworks.com/contact)
 
 
 
