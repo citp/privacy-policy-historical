@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelers.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205213006id_/https%3A//www.steelers.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelers.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605102816id_/http%3A//www.steelers.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Steelers Privacy Policy | Pittsburgh Steelers - Steelers.com
 
@@ -123,28 +123,37 @@ As applicable, the information you provide to us may be used to:
   * contact you about the Website;
 
 
+
   * contact you about other websites operated by or on behalf of the Steelers and/or the NFL;
+
 
 
   * contact you relating to your membership status;
 
 
+
   * confirm or fulfill and order you have made;
+
 
 
   * inform you of a prize you have won;
 
 
+
   * monitor or improve the use of the Website;
+
 
 
   * customize the advertising and content you see;
 
 
+
   * monitor compliance with our terms and conditions of use of the Website;
 
 
+
   * send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive push notifications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
+
 
 
   * send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
