@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendrier2017gratuit.xyz privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226035749id_/http%3A//calendrier2017gratuit.xyz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendrier2017gratuit.xyz privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605145552id_/http%3A//calendrier2017gratuit.xyz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | 2019 Calendrier 2018 gratuit 2017 imprimer
 
