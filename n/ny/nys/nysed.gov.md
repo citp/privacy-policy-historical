@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205120408id_/http%3A//www.nysed.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606105736id_/http%3A//www.nysed.gov/privacy-policy) for the most accurate reproduction.*
 
 # Internet Privacy Policy | New York State Education Department
 
@@ -8,7 +8,7 @@ Thank you for visiting the website of the NYS Education Department (NYSED). Cons
 
 For purposes of this policy, “personal information” means any information concerning a natural person which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person. NYSED does not collect any personal information about you unless you provide that information voluntarily by sending us an e-mail or by initiating an online transaction with us such as completing a survey, registration or other form.
 
-## Information Collected Automatically When You Visit This Website
+## Information Collected Automatically When You Visit this Website
 
 When you visit this website, NYSED automatically collects and stores the information listed below about your visit. None of this information is deemed to constitute personal information. The information that is collected automatically is used to improve the website's content, to help NYSED understand how users interact with the website, and to help make the site more user-friendly. It is also used for statistical analysis to determine what information is of most and of least interest to our visitors, and to identify system performance or problem areas. The information is not collected for commercial marketing purposes and NYSED does not sell or distribute the information collected from the website for commercial marketing purposes. This information is purged from NYSED’s database after six months.
 
