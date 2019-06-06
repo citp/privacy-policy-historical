@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsden.net privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125021544id_/http%3A//newsden.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsden.net privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606054948id_/http%3A//newsden.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsDen
 
@@ -23,6 +23,6 @@ Other Third Party ad servers or ad networks may also use cookies to track users 
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of NewsDen.net then you may contact us at contactus@newsden.net
+If you have any questions regarding the privacy policy of NewsDen.net then you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp> .
