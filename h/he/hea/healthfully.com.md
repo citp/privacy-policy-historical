@@ -1,118 +1,221 @@
-> *The following text is extracted and transformed from the healthfully.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230050103id_/http%3A//www.yelp.com/tos/privacy_en_us_20130910) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfully.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606163829id_/https%3A//healthfully.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Yelp
+# Privacy Policy | Healthfully
 
-[](https://privacy.truste.com/privacy-seal/Yelp!-Inc-/validation?rid=195928ee-5c49-4ed2-b8bd-347d44e8f8d4 "TRUSTe European Safe Harbor certification")
+Last Updated: July 2, 2018
 
-**Last Updated on September 10, 2013.** This Privacy Policy is effective immediately for users registering accounts after that date and will become effective on October 12, 2013 for pre-existing users. To review the previous policy, please click [here](https://web.archive.org/tos/privacy_en_us_20121127). 
+This privacy policy ("Privacy Policy") describes how information and data is collected from you when you use this online website, mobile website, application, digital service, or any related products, services, sites, features or functionality (each a "Service", collectively the "Services") and how Leaf Group Ltd., including its subsidiaries/affiliates Society 6, LLC, Saatchi Online, Inc., and Well+Good, LLC ("Leaf Group", "we", "us", or "our"), uses, shares and manages your information and data. By using any of the Services, you consent to the collection, use, processing, and sharing of your information as described in this Privacy Policy.
 
-This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our websites, emails, and mobile applications ( **"Site"** ). The terms **"we"** , **"us"** , and **"Yelp"** refer to Yelp Inc., a Delaware corporation. When you use the Site, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.
+## 1\. Our Privacy Principles
 
-## Table of Contents
+We are committed to recognizing and respecting your privacy rights by keeping you informed and processing and protecting your personal data in compliance with applicable data protection laws and regulations ("Data Protection Laws").
 
-  1. Information We Collect and How We Use It
-  2. Cookies
-  3. Third Parties
-  4. Controlling Your Personal Data
-  5. Data Retention and Account Termination
-  6. Children
-  7. Security
-  8. Dispute Resolution
-  9. TRUSTe
-  10. Jurisdiction
-  11. Modifications To This Privacy Policy
+Effective May 25th, 2018, if you are subject to European Union Data Protection Laws ("EU Users"), our processing of your personal data will comply with the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, known as the General Data Protection Regulation ("GDPR").
 
+## 2\. Information that We Collect from You
 
+Account Data You Directly and Voluntarily Provide to Us
 
-## 1\. Information We Collect and How We Use It
+We may collect and process some or all of the following information you make available to us if you register, download or use the Services, such as your:
 
-We may store the information you submit to or through the Site, as well as information we collect in connection with your use of the Site.
-
-We use the information to fulfill your requests, provide the Site’s functionality, improve the Site’s quality, personalize your experience, track usage of the Site, provide feedback to businesses that are listed on the Site, display relevant advertising, provide customer support, message you, back up our systems and allow for disaster recovery, enhance the security of the Site, and comply with legal obligations.
-
-Among the information we collect, please note:
-
-  1. **Account Information:** If you create an account on Yelp, we may store and use your full name, email address, zip code and other information you may provide with your account, such as your gender and birth date. Your first name and last initial, as well as any photo you submit through the registration process, will be publicly displayed as part of your account profile. You can modify some of the information associated with your account [here](https://web.archive.org/profile_bio). If you feel that an unauthorized account has been created depicting you or your likeness, you can request its removal [here](https://web.archive.org/contact).
-  2. **Public Content:** The information that you post to the Site is intended for public consumption, including your reviews, tips, photos, check-ins, comments, likes, Talk posts, bookmarks, friends, lists, compliments, and account profile. We may display this information on the Site, share it with businesses, and further distribute it to a wider audience through third party sites and services.
-  3. **Contacts:** You can invite your friends to join the Site by providing their contact information, or by allowing us to use your address book from your computer, mobile device, or other sites. If you invite a friend to join and connect with you on the Site, we may transmit your friend’s contact information to Yelp long enough to process your requests.
-  4. **Communications:** When you sign up for an account, you are opting in to receive emails from other Yelp users, businesses, and Yelp itself. You can manage your email preferences [here](https://web.archive.org/profile_email_notifications), but note that you cannot opt out of receiving certain administrative or legal notices from Yelp. If you exchange messages with others through the Site, we may store them in order to process and deliver them, allow you to manage them, and investigate possible wrongdoing in connection with the Site. If you send information from the Site to your phone via SMS text message, we may log your phone number, phone carrier, and the date and time that the message was processed. Carriers may charge recipients for texts that they receive.
-  5. **Transactional Information:** If you make reservations or purchases through the Site, we may collect and store certain information about you to process your requests and populate forms for future transactions, such as your phone number, address, email, and credit card information. This information may be shared with third parties who help process and fulfill your requests. When you submit credit card numbers, we encrypt that information using industry standard technology. If you write reviews about businesses with which you transact through the Site, we may publicly display the fact that you transacted with those businesses.
-  6. **Site Activity:** We may store information about your use of the Site, such as your search activity, the pages you view, the date and time of your visit, and the businesses you call using our mobile applications. We also may store information that your computer or mobile device provides to us in connection with your use of the Site, such as your browser type, type of computer or mobile device, browser language, IP address, mobile carrier, unique device identifier, location, and requested and referring URLs.
+  * Name
+  * Email Address
+  * Mailing Address
+  * Phone Number
+  * Interests
+  * User Name
+  * Password
+  * Other Registration Information
+  * Customer Support or Technical Information you provide when you contact us with questions about your use of the Services
+  * Details of transactions you carry out through the Services, your purchases, and the fulfillment of orders we provide to you
+  * Other information you may provide to us through promotions or surveys
 
 
 
-## 2\. Cookies
+User Profile Data
 
-We, and third parties with whom we partner, may use cookies, web beacons, local shared objects (sometimes called "flash cookies"), and similar technology in connection with your use of the Site and third party websites ( **"Cookies"** ). Cookies are small data files that may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages. Cookies may transmit information about you and your use of the Site, such as your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. Cookies may be persistent or stored only during an individual session.
+We may also offer you the option to create a user profile that may be visible to other users of the Services. If you are a registered user you may also be able to adjust your account settings through your user account. We note that, even if you adjust your settings so that your user profile remains private, we will still be able to access and view the information you provide as part of your user profile.
 
-Types of Cookies used on the Site include:
+Public Data You Post through the Services
 
-Category of Use | Explanation  
----|---  
-Processes | Intended to make the Site work in the way you expect it to. For example, we use a Cookie that tells us whether you have already signed up for an account.  
-Authentication, Security, and Compliance | Intended to prevent fraud, protect your data from unauthorized parties, and comply with legal requirements. For example, we use Cookies to determine if you are logged in.  
-Preferences | Intended to remember information about how you prefer the site to behave and look. For example, we use a Cookie that tells us whether you have declined to allow us to use your phone’s geolocation data.  
-Notifications | Intended to allow notice of information or options that we think could improve your use of the site. For example, we use a Cookie that allows us to stop showing you the signup notification if you have already seen it.  
-Advertising | Intended to make advertising more relevant to users and more valuable to advertisers. For example, we use a Cookie that tells us if you have recently clicked on an ad.  
-Analytics | Intended to help us understand how visitors use the Site. For example, we use a Cookie that tells us how our search suggestions correlate to your interaction with the search page.   
-  
-Managing Cookies:
+If you post information on public areas of the Services, that data may be collected and used by us, other users of the Services, and the public generally, such as reviews, comments, and user content. We strongly recommend that you do not post any information through the Services that allows strangers to identify or locate you or that you otherwise do not want to share with the public.
 
-It may be possible to disable some (but not all) Cookies through your device or browser settings, but doing so may affect your ability to use the Site. The method for disabling cookies may vary by device and browser, but can usually be found in preferences or security settings.
+Usage Data We Automatically Collect from You
 
-## 3\. Third Parties
+In addition to the information you provide to us, the Services may collect and process additional data automatically, this data may include your:
 
-We may share information about you with third parties as follows:
-
-  1. **Advertisers:** We may allow third parties to use Cookies on the Site to collect the same type of information for the same purposes as Yelp does for itself. They may be able to associate the information they collect with other information they have about you from other sources. We do not necessarily have access to or control over the Cookies they use, but you may be able to opt-out of some of their practices by visiting the following links: [Network Advertising Initiative](http://www.networkadvertising.org/choices/), [Omniture](http://www.d1.sc.omtrdc.net/optout.html?omniture=1&popup=1&locale=en_US&second=1&second_has_cookie=0), [Aperture](http://rt.displaymarketplace.com/optout.html), [Digital Advertising Alliance](http://www.aboutads.info/choices/) and [PrivacyChoice](http://privacychoice.org/trackerblock). Please note that opting out does not prevent the display of advertisements to you.
-  2. **Service Providers:** Some of the services that are offered through the Site, such as dinner reservations and food delivery, may be provided by third-party providers. We also outsource some of Yelp’s functions to third-party providers, such as technical and customer support, tracking and reporting functions, quality assurance testing, payment processing functions, and other services. We may share information from or about you with these third-party providers so that they can perform their services or complete your requests.
-  3. **Aggregate Information:** We may share user information in the aggregate with third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertisements.
-  4. **Business Transfers:** We may share information from or about you with subsidiaries, joint ventures, or other companies under common control, in which case we will require them to honor this Privacy Policy. If another company acquires Yelp or all or substantially all of our assets, that company will possess the same information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
-  5. **Businesses on Yelp:** We may share information from or about you (such as your age and gender) and your use of the Site (such as which businesses you bookmark or call) with businesses on Yelp. You may adjust your settings to increase or decrease the amount of information we share. You can view these settings and find more details about what information may be shared [here](https://web.archive.org/profile_privacy).
-  6. **Investigations:** We may investigate and disclose information from or about you if we have a good faith belief that such investigation or disclosure is (a) reasonably necessary to comply with legal process and law enforcement instructions and orders, such as a search warrant, subpoena, statute, judicial proceeding, or other legal process served on us; (b) helpful to prevent, investigate, or identify possible wrongdoing in connection with the Site; or (c) protect our rights, reputation, property, or that of our users, affiliates, or the public.
-  7. **Links:** The Site may contain links to unaffiliated third party websites. Except as set forth herein, we do not share your personal information with them, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
-  8. **Facebook and Twitter:** If you are logged into Facebook, and you access but are not logged into the Site, we may receive information from Facebook to make it easier for you to create an account on the Site and show you relevant content from your Facebook friends. This information personalizes your experience and helps you create a Yelp account. To learn more about this feature and how to block aspects of it, please click [here](https://web.archive.org/static?p=fb_yelp) and [here](https://register.facebook.com/editaccount.php). You can also connect your Yelp account to your accounts on third party services like Facebook or Twitter, in which case we may collect and store information identifying your account with the third party service. We use the information to help you connect and share public content with your friends and followers. You can manage these settings [here](https://web.archive.org/profile_sharing).
+  * Device Registration Data (for example, the type of mobile device you use, your mobile device's unique device or advertising ID, IP address, operating system and browser type),
+  * Device Settings (for example, your language preference)
+  * Mobile Carrier
+  * Information about how you use the Services (for example, how many times you use the Services each day)
+  * Requested and Referring URLs
+  * Location Data collected through your Device (including, for example, precise location data such as GPS and WiFi information)
+  * Information collected through cookies and other tracking technologies including, but not limited to, your IP address and domain name, your browser version and operating system, traffic data, location data, web logs and other communication data, and the resources that you access
 
 
 
-## 4\. Controlling Your Personal Data
+## 3\. How We Use Your Information
 
-Other users may be able to identify you, or associate you with your account if you include personal information in the content you post publicly. You can reduce the risk of being personally identified by using the Site pseudonymously, though doing so could detract from the credibility of your contributions to the Site. Users can also use the Member Search feature to find one another based on their names or email addresses. You can opt-out of this feature [here](https://web.archive.org/profile_privacy).
+In this section, we set out the purposes for which we use personal information that we collect when you use the Services. In relation to EU Users, we are required under applicable Data Protection Laws, to identify the legal bases on which we rely to process the information.
 
-Please also note that the messages you send or receive using the Site are only private to the extent that both you and the sender/recipient keep them private. For example, we do not have any control over whether a recipient of one of your messages publicly posts it or its contents. Similarly, Yelp may also access such messages in the course of investigations relating to Site use.
+Providing the Services, Improving the Services, Providing Support, and Communicating With You
 
-## 5\. Data Retention and Account Termination
+We and our service providers may use the data you provide or that is collected through the Services to operate and improve the Services, our other sites, applications, products and services, to contact you from time to time to provide you with important information and notices relating to the Services, and to carry out obligations arising from any agreements between you and us.
 
-You can close your account by clicking [here](https://web.archive.org/contact). We will remove your public posts from view and/or dissociate them from your account profile, but we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Site or to comply with legal obligations. Please note that businesses cannot remove their business listings, ratings or reviews by closing their accounts.
+Legal Bases: contract performance, legitimate interests (to correspond with you, to enable us to provide you with the Services and to improve the Services)
 
-## 6\. Children
+Providing Marketing and Promotion Materials
 
-The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us [here](https://web.archive.org/contact). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
+We and our service providers may use the data you provide or that is collected through the Services to provide you with updates, offers, and promotions, where you have chosen to receive these. We may also use your information for marketing our own and our selected business partners’ products and services to you by email and, where required by law, we will ask for your consent at the time we collect your data to conduct any of these types of marketing. If you wish to unsubscribe from receiving marketing communications from us by email, please follow the instructions contained in each email you receive from us describing how you can unsubscribe from receiving further marketing communications from us.
 
-## 7\. Security
+Legal Bases: consent, legitimate interest where consent is not required (to keep you updated with news in relation to our products and services)
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Advertising and Third Party Content and Links
 
-## 8\. Dispute Resolution
+The Services may be supported through advertising, and we may work with advertisers and advertising networks to provide advertising through the Services. We may provide these advertisers and advertising networks with the ability to collect data about how you interact with the Services and, if applicable, your mobile device. This data may include the unique device or advertising identifier associated with your device and your precise location data, in order to help analyze and serve targeted advertising on the Services and elsewhere (including third-party sites and applications). In addition, the Services may include third-party content and links to other third-party websites. These advertisers, advertising networks, and third parties may use cookies, pixels, and web beacons to track the actions of users online over time and across different websites or platforms in order to deliver targeted electronic advertisements to an individual user.
 
-If you believe that Yelp has not adhered to this Privacy Policy you may contact us online by [clicking here](https://web.archive.org/contact?topic=privacy) or write to us at the following address:
+For information about how tracking works for online advertising purposes you can visit <http://www.aboutads.info/choices> or [http:///www.aboutads.info/appchoices](http://www.aboutads.info/appchoices). We do not have access to or control over cookies, pixels or web beacons that third-party websites or partners may use. We are not responsible for the privacy practices or the content of these third-party websites. You are encouraged to review the privacy policies of the different websites that you visit.
 
-Yelp Inc.  
-Attn: Privacy Officer  
-140 New Montgomery 9th Floor  
-San Francisco, California 94105  
-United States of America 
+If you access the Services through a browser, your browser may allow you to adjust your browser settings so that "Do Not Track" requests are sent to the websites that you visit. However, we will not disable tracking technology that may be active on the Services in response to any Do Not Track requests that we receive from your browser. You can change your privacy preferences regarding the use of cookies and other similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require our consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered through the Services.
 
-## 9\. TRUSTe
+Legal Bases: consent, legitimate interest where consent is not required (to enable us to provide you with an experience related to your interests)
 
-We have been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and our privacy practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy-program-requirements/program-requirements), including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. TRUSTe's Privacy Seal covers the U.S. version of the website only.
+Analytics Services
 
-Please direct your privacy questions [here](https://web.archive.org/contact?topic=privacy). If you do not receive an adequate response, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+We may also work with third party analytics companies to help us understand how the Services are being used, such as data collection, reporting, ad response measurement, website and mobile application analytics, and to assist with delivery of relevant marketing messages and advertisements.
 
-## 10\. Jurisdiction
+We may use Google Analytics, an analytics service provided by Google or other third party analytics services providers ("Analytics Services") to collect information about your use of the Services. These Analytics Services may collect information about the content you view and your system information and geographic information. The information generated by the Analytics Services about your use of the Services will be transmitted to and stored by the Analytics Services. The information collected by the Analytics Services allows us to analyze your use of the Services.
 
-The information we obtain from or about you may be processed and stored in the United States, which may provide for different data protection rules than the country in which you reside. We comply with the [EU & Swiss Safe Harbor Privacy Frameworks](http://export.gov/safeharbor/) as set forth by the United States Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. We will respond to requests relating to personal data within 30 days. To learn more about the Safe Harbor program, and to view our certification, please visit <http://export.gov/safeharbor>. 
+We encourage you to review your device and Services settings to ensure they are consistent with your preferences, including with respect to the collection and use of information. You may be able to stop further collection of certain data by the Services by updating your applicable device settings, or you may uninstall the Services. In addition, you may choose not to share your location details by adjusting your mobile device's location services settings. For instructions on changing the relevant settings, please contact your service provider/carrier or device manufacturer.
 
-## 11\. Modifications to This Privacy Policy
+Legal Bases: legitimate interest where consent is not required (to enable us to provide you with an experience relevant to your interests)
 
-We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of information about you and will be located [here](https://web.archive.org/static?p=privacy). If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice on the Site prior to the effective date of the changes. By continuing to access or use the Site after those changes become effective, you agree to be bound by the revised Privacy Policy.
+Purchases and Payment Processors
+
+If you make a purchase through the Services, you may be able to pay using a third-party payment service, such as Stripe, PayPal, Apple Pay, Amazon Pay or other third-party payment services. All information collected by these third-party payment services for purposes of processing your payments is not available to us, unless you have otherwise provided this information to us in connection with your use of the Services. Information collected from you by these third-party payment services is governed by the applicable third-party payment service’s privacy policy. You should review the applicable privacy policy prior to submitting any information to the applicable third-party payment service.
+
+Legal Bases: consent, legitimate interests (to enable us to perform our obligations and provide the Services to you); contract performance
+
+Promotions, Sweepstakes, and Contests
+
+From time to time, we may host a promotion, sweepstakes, or content on the Services. You may be asked to provide personal information or permit the transfer of your personal information to a third party in connection with such promotion, sweepstakes or content. The parties who privacy policy applies will be disclosed at point of collection or transfer and you will have a choice of whether or not you wish to permit such transfer or collection of information to a third party.
+
+If you wish to unsubscribe from receiving marketing communications from us by email, please follow the instructions contained in each email you receive from us describing how you can unsubscribe from receiving further marketing communications from us. If you are a registered user you may also be able to adjust your email settings by logging in to your account and adjusting your account settings.
+
+Legal Bases: consent, legitimate interests where consent is not required (to keep you updated with news in relation to our products and services)
+
+## 4\. How We Share Your Information with Third Parties
+
+We may share the information you provide or that we collect in some circumstances as follows:
+
+With Advertisers
+
+We may share your information with advertisers, third-party advertising networks and analytics companies who may use it to deliver targeted advertisements to you on the Services or third-party websites or advertisers. Similarly, these advertisers may share information with us about you that they have independently gathered or acquired. We may also share encrypted versions of information we have collected in order to enable our advertising partners to perform data analysis or for advertising-related use.
+
+With Our Company Affiliates
+
+We may share your information with members of the Leaf Group corporate family in order to provide joint content and services (like registration, transactions and customer support), or to improve your experience with the Services, products and other services.
+
+With Our Partner Programs
+
+If you are directed to the Services through a third party, we may share certain information back with that third party, which may include information such as name, email and value of purchase depending on the type of relationship or Services utilized.
+
+For Marketing Campaigns
+
+From time to time we may disclose certain information (name, mailing address and non-sensitive transactional information such as your purchase history, amounts paid and products ordered) to marketing companies for trade or rental purposes. If you prefer to opt-out of the use of your personal information by marketing companies for trade or rental purposes, please let us know at legal@leafgroup.com.
+
+With Our Service Providers
+
+We may share your information with our service providers who work on our behalf. For example, these service providers may handle payment or credit card processing, data management, customer data pooling or aggregating, feature administration, email distribution, market research, information analysis, and promotions management. These service providers will only have access to the information needed to perform these limited functions on our behalf.
+
+Social Media and Sharing
+
+The Services may use social networking or "share functionality" or may contain links to third-party social media sites or applications that are not owned or controlled by us. We also may allow you to use social media sites or applications to leverage your existing social media site or application accounts to access features of the Services. Your use of these features may result in the collection or sharing of information about you by these sites or applications, depending on the feature.
+
+We have no control over, and assume no responsibility for, any share functionality or the content, privacy policies, or practices of any third-party site or application. We encourage you to review the privacy policies and settings on the social media sites or applications with which you interact to make sure you understand the information that may be collected, used, and shared by those sites. You are subject to the policies of those third parties when and where applicable.
+
+As Required By Law or to Protect Rights and to Comply with Our Policies 
+
+To the extent permitted by law, we will disclose your information to government authorities or third parties, including national security or law enforcement agencies, if required to do so by law, or if requested in response to a subpoena or court order, we believe in our sole and absolute discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large, or we believe that you have abused the Services by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws or in violation of our [Terms of Use](https://web.archive.org/terms-of-use). You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
+
+Business Transfers or Bankruptcy
+
+In the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets or any business, any user information owned or controlled by us may be one of the assets transferred to third parties in such transaction or event. We reserve the right, as part of this type of transaction or event, to transfer or assign your information and other information we have collected from users of the Services to third parties. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity or acquirer, as applicable.
+
+## 5\. Your Rights Under Applicable Data Protection Laws
+
+We acknowledge your right to access and control your personal data in accordance with applicable Data Protection Laws.
+
+Accessing, Correcting or Deleting Your Information
+
+For EU Users, to request access to or correction of your personal data in accordance with applicable Data Protection Laws, you may send an e-mail to Privacy.GDPR@leafgroup.com or a letter to:
+
+Leaf Group Ltd.  
+Attn: Legal Department  
+1655 26th Street  
+Santa Monica, CA 90404  
+
+
+Please include your registration information you provided through the Services. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.
+
+If you'd like us to delete information that you have provided through the Services, please contact us at legal@leafgroup.com and we will respond in a reasonable time. Please note that some or all of the information you provided may be required in order for the Services to function properly or may be automatically retained in backup storage or records retention archival storage.
+
+EU Users - Portability of Your Personal Data
+
+Data portability is the ability to obtain some of your information in a format you can move from one service provider to another in accordance with applicable Data Protection Laws. Depending on the context and applicable Data Protection Laws, this applies to some of your information, but not to all of your information. For EU Users, should you request it, we will provide you with an electronic file of your basic account information and the information under your sole control in accordance with applicable Data Protection Laws. 
+
+California Residents
+
+If you are a California resident under the age of 18 and are a registered user of the Services, you may request that we remove content or information about you that you posted on the Services by: (a) submitting a request in writing to legal@leafgroup.com; and (b) clearly identifying the content or information you wish to have removed and providing sufficient information to allow us to locate the content or information to be removed. However, please note that we are not required to, and may not be able to, erase or otherwise eliminate content or information if: (i) other state or federal laws require us or a third party to maintain the content or information; (ii) the content or information was posted, stored, or republished by another user; (iii) the content or information is anonymized so that you cannot be individually identified; (iv) you do not follow the instructions posted in this Privacy Policy on how to request removal of your content or information; or (v) you have received compensation or other consideration for providing the content. Further, nothing in this provision shall be construed to limit the authority of a law enforcement agency to obtain the applicable content or information.
+
+## 6\. Transfer of Data Outside Your Country of Residence
+
+If you are located outside of the United States and you choose to use the Services or provide your information to us, your data may be transferred to, processed and maintained on servers, databases or cloud storage facilities located in the United States. Your use of the Services represents your consent and agreement to these practices. If you do not want your data transferred to or processed or maintained in the United States, you should not use the Services.
+
+EU Users and Swiss Users - Privacy Shield
+
+We comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles of:
+
+  * Notice
+  * Choice
+  * Accountability for Onward Transfer
+  * Security
+  * Data Integrity and Purpose Limitation
+  * Access
+  * Recourse, Enforcement and Liability
+
+
+
+If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
+
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact us at legal@leafgroup.com.
+
+We have further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+## 7\. The Privacy of Children
+
+The Services are not intended for children under age 16. We do not knowingly collect or distribute personal information from or about children under the age of 16. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at legal@leafgroup.com.
+
+## 8\. Security Measures and Storage Limits
+
+We provide industry-standard physical, electronic, and procedural safeguards to protect personal data we process and maintain. For example, we take reasonable measures to limit access to this data to authorized employees and contractors who need to know that information in order to operate, develop or improve our Services. Please be aware that, although we endeavor to provide reasonable security for data we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Services and you do so at your own risk.
+
+Our retention periods for personal data are based on our business needs and legal requirements. We retain personal data for as long as is necessary for the processing purpose(s) for which the information was collected, and any other permissible, related purpose. For example, we may retain certain transaction details and correspondence until the time limit for claims arising from the transaction has expired, or to comply with regulatory requirements regarding the retention of such data. When personal data is no longer needed, we either irreversibly anonymize the data (and we may further retain and use the anonymized information) or securely destroy the data.
+
+## 9\. Updates to this Privacy Policy
+
+We will notify you of material changes to this Privacy Policy by at least thirty (30) days before the effective date of the changes. If you do not agree to such changes following such notice, you should discontinue your use of the Services prior to the time the modified privacy policy takes effect. If you continue using the Services after the modified privacy policy takes effect, you will be bound by the modified privacy policy.
+
+## 10\. Contact Us
+
+If you have questions about this Privacy Policy, you may contact us at legal@leafgroup.com or send a letter to:
+
+Leaf Group Ltd.  
+Attn: Legal Department  
+1655 26th Street  
+Santa Monica, CA 90404  
+
+
+We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns.
