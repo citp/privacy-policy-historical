@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brewersassociation.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230032920id_/https%3A//www.brewersassociation.org/brewers-association/accountability/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brewersassociation.org privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606132816id_/https%3A//www.brewersassociation.org/brewers-association/accountability/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brewers Association
 
@@ -29,7 +29,7 @@ These are some of the third parties that use your data:
 
 Concerned users should visit the privacy policy of these third party services: (this is not an exhaustive list of all of our providers)
 
-Facebook, Twitter, Wufoo, A2Z, eTouches, PushWoosh, Google Play, iTunes, Informz, SurveyMonkey, Conference Direct
+Facebook, Twitter, Wufoo, A2Z, eTouches, PushWoosh, Google Play, iTunes, Informz, SurveyMonkey, Conference Direct, Ticketmaster, AXS.com.
 
 ## Use of Information
 
