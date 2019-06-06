@@ -1,48 +1,109 @@
-> *The following text is extracted and transformed from the radioandtelly.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093708id_/http%3A//www.radioandtelly.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioandtelly.co.uk privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606114124id_/https%3A//www.radioandtelly.co.uk/terms-and-privacy.html) for the most accurate reproduction.*
 
-# Radio and Telly Website Privacy Policy | Radio & Telly UK
+# Site Terms and Privacy Policy | Radio & Telly UK
+
+## Website Terms and Conditions
+
+By using or contributing to this website, you agree to be bound by the usage terms outlined on this page. We reserve the right to change these terms and conditions from time to time as may be necessary. You should also be aware of this site’s Privacy Policy when using the site.
+
+#### Disclaimer
+
+Content appearing on this site is published in good faith based on personal experiences of the site owners and contributors, information obtained from approved online sources, and information received from visitors to the site. Our aim is to inform visitors by providing access to information not available via other sources. It is not our intention to mislead, offend or upset, and we aim to act quickly to remove misleading, inaccurate or offensive content. Please contact the site administrator if you spot an error, or have an objection to content placed on this site.
+
+Under no circumstances shall the site owners or approved contributors be held liable for any loss or damage caused by reliance on information published on this website.
+
+The site owners/administrators are not responsible for content on sites linked to from this site.
+
+#### Copyright
+
+Material originated by Radio and Telly or its contributors is the copyright of the owners of the radioandtelly.co.uk domain, unless acknowledged otherwise. Copyright ©  radioandtelly.co.uk. All rights reserved.
+
+No part of this website may be copied, mirrored, republished, distributed, or reproduced in any form whatsoever without prior written permission from the site owners.
+
+We acknowledge that in order for us to provide product reviews, on rare occasions content from organisations with which we are affiliated may have been used on this site – it is not our intention to infringe any copyright or trademarks. Logos may be trademarks of other organisations and are acknowledged. In the event that any organisation or individual feels that material used on this site has been used incorrectly or inappropriately on this site, please contact the site’s [webmaster](https://web.archive.org/web/20190606114124id_/https%3A//www.radioandtelly.co.uk/contactform.shtml) and prompt action will be taken.
+
+#### Products, services & offers
+
+This site provides information on a wide range of products and services from a selection of companies. Price, specification and offers relating to products and services promoted are subject to change / withdrawal by these companies at any time, and any purchases made are subject to the terms and conditions of the organisation in question. When placing a purchase as a result of a visit to this or an affiliated site, visitors should always check the official website of the retailer / service provider for full information on price, specification, terms and offers prior to purchase of a product or service.
+
+#### Visitor messages
+
+Visitors to our site are able to post messages via dedicated ‘comments’ pages or in our site forum. Visitors who post messages must not post any material which is false, defamatory, inaccurate, abusive, vulgar, hateful, harassing, obscene, profane, sexually oriented, threatening, invasive of a person’s privacy, or otherwise in violation of ANY law. Legal actions can be taken against anyone posting messages of this sort on this site. Visitors must not post any copyrighted material unless the copyright is owned by them or they have written consent from the owner of the copyrighted material. The site owners reserve the right to edit or delete inappropriate content without prior notice.
+
+Posters remain solely responsible for the content of their messages. The site owners reserve the right to reveal the identity and IP addresses of any poster in the event of a complaint or legal action arising from any content posted.
+
+It is impossible for us to confirm the validity of content submitted by visitors to this site. We do not actively monitor posted messages and are not responsible for their content. We do not warrant the accuracy, completeness or usefulness of any information presented. The messages express the views of the author, not necessarily the views of the site owners/administrators. Anyone who feels that a posted message is objectionable is encouraged to notify the webmaster immediately. We have the right to remove objectionable content within a reasonable timeframe, where we deem that removal is necessary. This is a manual process, however, so please realise that we may not be able to remove or edit particular messages immediately.
+
+We reserve the right to quote and/or re-publish posts made in our forum or our blog. Please see our site’s [Privacy Policy](https://web.archive.org/web/20190606114124id_/https%3A//www.radioandtelly.co.uk/privacypolicy.html) regarding messages posted to this site.
+
+#### Site advertising
+
+This site is funded by advertisements. We do not charge visitors for any or our services, nor do we offer any kind of paid subscription service.
+
+As with many websites, we promote a number of selected advertisers using the “affiliate scheme” model. Parts of our site contain banner advertisements and in-content text links to advertisers. This means that, in some cases, a small percentage of any sales generated by our visitors, is apportioned to the site owners to support ongoing site costs.
+
+Where possible, it is our policy to promote products and services only where a member of the Radio and Telly team has experience of using them, but the nature of online contextual advertising means that this is not always possible.
+
+Some of the advertising services used on this site make use of tracking ‘cookies’. For more information on how these may be used, please see our [Privacy Policy](https://web.archive.org/web/20190606114124id_/https%3A//www.radioandtelly.co.uk/privacypolicy.html).
+
+Radio and Telly is a participant in the Amazon Europe S.à r.l. Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk
+
+ **Advertisers:** If you are looking to advertise on this site, note that we normally only consider advertising from companies that are affiliated with one of a number of [affiliate networks](http://www.consumerdeals.co.uk/affiliate.html). We do not accept paid links, and we do not do paid reviews. Note that our audience is predominantly UK-based.
 
 Our Privacy Policy & Cookie Information
 
-### Policy Overview
+## Privacy Policy (Data Protection & GDPR)
 
-We respect your privacy, and do not give or sell any information that you may provide us with to third parties.
+We respect your privacy, and do not give or sell any information that you may provide us with to third parties. By using this website, you agree to accept our Privacy Policy.
 
-By using this website, you agree to accept our Privacy Policy. Be aware that our Privacy Policy may be subject to change. Changes to our Privacy Policy will appear on this web page. 
+The site owners have made best endeavors to be compliant with the European Union’s General Data Protection Regulation (GDPR) which came into force on 25 May 2018.
 
-### Information gathered from visitors
+Be aware that our Privacy Policy may be subject to change. Changes to our Privacy Policy will appear on this web page.
 
-In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit.
+### 1\. Information gathered from visitors
 
-Visitors that wish to interact with site’s discussion forum will be required to register. Registering results in the visitor’s email address, a username and password will be stored on the web server. Additional information can be entered optionally by the user to form of a user profile.
+This website does not request or store data deemed to be most sensitive, such as postal addresses and telephone numbers. Additionally, we do not hold financial, payment or medical data. Here is a summary of the data that we collect:
 
-An email newsletter service is offered by this site. Should a visitor elect to join the mailing list, their email address, plus email preferences, will be stored on the server.
+  1. Visitors that wish to interact with our discussion forum will be required to register. Registering results in the visitor’s name, email address, username, encrypted password, date-of-birth and IP address being stored on this site’s web server. Additional information can be entered optionally by the user in the form of a user profile.
+  2. Visitors adding comments to site pages or posts will be required to submit their name and email address. These details, together with the IP address will be stored on this site’s web server
+  3. An email newsletter service is offered by this site. Should a visitor elect to join the mailing list, their email address, plus email preferences, will be stored on the site’s web server.
+  4. In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit.
+  5. Cookies are used to remember visitor preferences when interacting with the website.
 
-Cookies may be used to remember visitor preferences when interacting with the website.
 
-### How the Information is used
 
-Visitor information as outlined on this page is used to monitor and improve the performance of our websites and services, and enhance the visitor’s experience when using the website.
+The website and associated data is hosted securely on a dedicated server hosted by UK Fast in the UK. The site administrator holds a secure backup for the purposes of disaster recovery.
 
-Where a visitor opts in to our email mailing list or registers with our discussion forum, the email address may be used to provide visitors with emails relating to our services, as well as news updates and additional information.
+### 2\. How the Information is used
 
-Email addresses will not be sold, rented or leased to third parties.
+Data collected /retained on the website is used in the following ways:
 
-If requested, we may submit your information to local or government authorities. 
+  1. Where a visitor posts a page, forum or post comment, the visitor can decide to receive copies of the post and follow-on comments via the supplied email address. Emails include the option to unsubscribe.
+  2. Where a visitor elects to opt-in to a newsletter provided by the website, emails will be sent to the supplied email address. Emails include the option to unsubscribe.
+  3. Surveys and Polls make use of IP addresses and cookies, to prevent multiple submissions
+  4. Server logs and site cookies are used for the purposes of monitoring and improving the performance of our website and service. Cookies enhance the visitor’s experience when using, and some of these cookies are essential to make our site work. We make use of the third-party Google Analytics for site performance and web statistics.
 
-### Visitor Options
 
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in email that you receive.
 
-You may be able to block cookies via your browser settings but this may prevent you from accessing certain features of the website, such as some forum functionality.
+Personal data (such as email addresses) will not be sold, rented or leased to third parties. If requested, we may submit your information to local or government authorities.
 
-### Content submitted to this site
+### 3\. Visitor Options
 
-To offer a better service to site visitors, we may republish extracts of emails sent to this website, comments made in our discussion forum, comments made to blog posts, or other messages sent to us electronically. Should we elect to republish content, we will not disclose any user’s email address, telephone number or postal address.
+If you have subscribed to one of our email lists, you may unsubscribe by following the instructions which are included in the email that you receive.
 
-If you do not want us to republish any extracts from content or correspondence submitted to us, then this should be made clear in the body text at the time of submission.
+If you have a forum account with us, you can edit or delete data from the “User Control Panel”, or by contacting the Forum Administrator.
 
-### Cookies
+You may be able to block cookies via your browser settings, however this may prevent you from accessing certain features of the website which rely on cookies.
+
+If you wish any personal data that you have submitted to be removed, GDPR legislation allows this, and you should contact the Site Administrator via the [“Contact Us” form](https://www.radioandtelly.co.uk/contact-us.html) found on the home page of this website. Ensure that your message is clearly marked “GDPR Removal Request”.
+
+### 4\. Submitted Content
+
+Where appropriate, and to offer a better service to site visitors, we may republish extracts of the following: emails sent to us, comments made in our discussion forum, comments made to blog posts, social media messages or other messages sent to us electronically. Should we elect to republish content, we will not disclose any user’s email address, telephone number or postal address.
+
+If you do not want us to republish any extracts of correspondence or content submitted to us, then this should be made clear in the body text at the time of submission.
+
+## Cookies
 
 Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. They may be used to track your return visits to the website.
 
@@ -128,6 +189,4 @@ Website visitors may opt out of Google’s use of cookies by visiting the [Googl
 
 * * *
 
-Site visitors should note that use of this website is subject to our website [Terms of Use](https://web.archive.org/web/20170606093708id_/http%3A//www.radioandtelly.co.uk/terms.html)
-
-Should you have any queries regarding this website’s Privacy Policy, please contact us using our [Contact Us page](https://web.archive.org/web/20170606093708id_/http%3A//www.radioandtelly.co.uk/contactform.shtml).
+Should you have any queries regarding this website’s Privacy Policy, please contact us using our [Contact Us page](https://www.radioandtelly.co.uk/contact-us.html).
