@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimalresume.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103112927id_/https%3A//optimalresume.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalresume.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606170426id_/https%3A//optimalresume.com/privacy) for the most accurate reproduction.*
 
 # OptimalResume Career & Talent Suite - Career Experiences That Inspire, Engage, and Transform
 
