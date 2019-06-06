@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adsriver.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016185919id_/http%3A//www.adsriver.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsriver.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606192730id_/http%3A//www.adsriver.com/privacy.php) for the most accurate reproduction.*
 
-# Freeads | free ads | Classified ads
+# India, free classifieds - Freeads | free ads | Classified ads
 
 ## Privacy Policy
 
