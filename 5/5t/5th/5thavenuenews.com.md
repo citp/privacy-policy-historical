@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5thavenuenews.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212051514id_/http%3A//5thavenuenews.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5thavenuenews.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606052432id_/http%3A//5thavenuenews.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # My News Wire | Breaking News
 
