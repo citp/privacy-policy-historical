@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extensis.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828013942id_/https%3A//www.extensis.com/privacy-policy%3FhsLang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extensis.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606165437id_/https%3A//www.extensis.com/privacy-policy%3FhsLang%3Den) for the most accurate reproduction.*
 
 # Privacy Policy - Extensis.com
 
