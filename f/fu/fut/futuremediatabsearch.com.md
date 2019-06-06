@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futuremediatabsearch.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629094033id_/http%3A//futuremediatabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuremediatabsearch.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606034539id_/https%3A//futuremediatabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
 
 # 
 
