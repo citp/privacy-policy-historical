@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsfarm.co.uk privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203151348id_/http%3A//www.adsfarm.co.uk/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsfarm.co.uk privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606164928id_/http%3A//www.adsfarm.co.uk/page/privacy.html) for the most accurate reproduction.*
 
 # Cheapest classified ads Privacy Policy
 
