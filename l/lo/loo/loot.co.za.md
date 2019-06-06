@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loot.co.za privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727091410id_/https%3A//www.loot.co.za/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loot.co.za privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606192822id_/https%3A//www.loot.co.za/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  [ Privacy Policy](http://www.loot.co.za/content/privacy)
+##  [ Privacy Policy](https://www.loot.co.za/content/privacy)
 
 This is the privacy policy for Loot Online (Pty) Ltd. We invite you to contact us if you have any questions about this policy. Please email us on [privacy@loot.co.za](mailto:privacy@loot.co.za) or fax us on (021) 701 8218.
 
