@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leanitup.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203171122id_/http%3A//www.leanitup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanitup.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606100632id_/http%3A//www.leanitup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lean It UP!
 
