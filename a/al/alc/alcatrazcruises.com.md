@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alcatrazcruises.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819031545id_/https%3A//www.alcatrazcruises.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcatrazcruises.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606134930id_/https%3A//www.alcatrazcruises.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Alcatraz Cruises
+# Privacy Policy – Alcatraz Cruises
 
 Alcatraz Cruises knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our Privacy Policy—that is, how we may use personal or general information about you that you provide to us, and how you can “opt out” of some uses. Please review this Privacy Policy carefully.  **By visiting the Alcatraz Cruises website, you are accepting the practices described in this Notice.**
 
