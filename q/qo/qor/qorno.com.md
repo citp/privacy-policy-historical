@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qorno.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207114324id_/http%3A//www.qorno.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qorno.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606021829id_/http%3A//www.qorno.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## for qorno.com
 
-Last Modified: November 2, 2018  
+Last Modified: May 29, 2019  
 
 
 This website qorno.com ('site') is operated by PB Web Media B.V.('we', 'us', 'our'). We process personal and non-personal (anonymous) data about our site's visitors ('you', 'your'). This Privacy Policy is intended to explain to you what personal data we process through your use of the site and what we do with that data. By visiting our site and using our services, you agree to the terms stated in this Privacy Policy. 
@@ -60,7 +60,7 @@ We only retain this personal data for as long as necessary for the purposes ment
 
 ### 5\. Personal data we process
 
-**Passively provided personal data obtained through cookies and other technical information provided by you, your browser or your device.**
+###### Passively provided personal data obtained through cookies and other technical information provided by you, your browser or your device.
 
 #### A. Cookies
 
@@ -70,7 +70,7 @@ A cookie is a small file that is being delivered to you through the pages of thi
 
 ##### Cookie consent
 
-Consent for the placement of analytical and functional cookies is not mandatory by law, so these cookies are placed automatically. Your consent to our use of other cookies is automatically given by a clear affirmative act on our site, such as clicking on a specific website feature, for example the orientation filter or language filter. 
+Consent for the placement of analytical and functional cookies is not mandatory by law, so these cookies are placed automatically. Your consent to our use of other cookies is automatically given by a clear affirmative act on our site, such as clicking on a specific website feature, for example the language filter. 
 
 ##### Withdrawing cookie consent
 
@@ -85,9 +85,9 @@ You can easily withdraw your consent to our use of cookies by clearing your cook
 
 ##### Cookies we use
 
-  * **Analytical cookies** \- This website uses first party analytical cookies to collect information about your visit to this site. 
+  * **Analytical cookies** \- Analytical cookies - This website uses first party and third party analytical cookies to collect information about your visit to this site. 
     * _First Party Analytics_ \- We place our own analytical cookie. The information in this persistent cookie has a retention period of 12 months. We consider the data we process through analytical cookies anonymous, since this information does not relate to an identified or identifiable natural person. We may disclose aggregated, anonymous information to third parties to operate our services properly. 
-  * **Orientation filter cookie** \- We store your orientation setting in a persistent cookie after you click on that feature. This cookie can be removed through the settings of your browser. 
+    * _Third Party Analytics by Google Analytics_ \- A third party analytical cookie is placed by Google as part of our use of the service Google Analytics. Google may transfer this information to third parties only when required by law or in cases where third parties process the information on Google's behalf. We have no influence on this. We have not allowed Google to use the information acquired through the analytical cookies for other Google services or advertisements. The information Google collects is anonymized as much as possible. We have asked them to anonymize any IP-addresses by changing the last octet of each IP. The information is transmitted to Google and stored on its servers in the United States. Google is part of the Privacy Shield Framework, to comply with the rules of the GDPR for companies that process personal data from residents of European Union member countries and Switzerland. We have also executed a Data Processing Agreement (or Data Processing Amendment) with Google regarding their Google Analytics service. Please note that Google offers a browser Add-on which enables you opt-out of Google Analytics' use of your (personal) data. You can find the add-on here: <https://tools.google.com/dlpage/gaoptout>. 
   * **Language filter cookie** \- We store your language setting in a persistent cookie after you click on that feature. This cookie can be removed through the settings of your browser. 
 
 
@@ -98,15 +98,18 @@ Name | Type | Purpose
 ---|---|---  
 ta | Persistent cookie | First party analytics  
 variation | Persistent cookie | First party analytics  
+_gid | Persistent cookie | Third party analytics by Google  
+_ga | Session based cookie | Third party analytics by Google  
+_gat | Persistent cookie | Third party analytics by Google  
+_utma | Persistent cookie | Third party analytics by Google  
 session | Session based cookie | First party cookie, stores user session  
-tag | Persistent cookie | First party cookie, stores orientation setting  
 locale | Persistent cookie | First party cookie, stores language setting  
   
 #### B. Other technical information provided by you, your browser or your device.
 
 When you visit and interact with our site, your browser or device automatically transmits certain technical information to our website. Such information enables us to know e.g. which browser type you use, what your browser settings are, what country you are in, what your referrer is, etc. With this information we can optimize your user experience by showing the site in your language, optimize rankings, customize the user interface etc. But mainly we use this information for analytical, statistical and research purposes, such as tracking referrals and incoming and outgoing traffic. We consider this data anonymous, since this information does not relate to an identified or identifiable natural person. 
 
-**Actively provided personal data obtained through your interactions with us, such as using specific website features or sending (e-mail) messages.**
+###### Actively provided personal data obtained through your interactions with us, such as using specific website features or sending (e-mail) messages.
 
 We may temporarily process your personal data if you decide to provide this to us when using one of our website features. For example, you may voluntarily provide us with your e-mail address when reporting malware through our report tool or provide us with other (personal) data by sending us a (e-mail) message. 
 
@@ -133,17 +136,17 @@ Personal data included in your message (if you chose to provide this to us) | To
 Report Tool | Purpose of storage | Storage period  
 E-mail address (if you chose to provide this to us) | To process your report | Masked after 1 month  
 Any other (technical) information included in your report | To process your report | Deleted after 1 year  
-|  | * The extent of your request might result in a longer storage period. This will be communicated to you if applicable.  
+|  | * The extent of your request might result in a longer (or shorter) storage period. This will be communicated to you if applicable.  
   
 ### 6\. What we do with your personal data
 
 ##### Cookies
 
-The passively collected, aggregated information collected through cookies is being used for market research, marketing purposes, to optimize our services and to optimize your experience on our site. We also track clicks on items to improve our rankings and to analyze the traffic to and from our site. With cookies we can also personalize your experience by recognizing which language setting or orientation setting you chose. We consider this data anonymous, since this information does not relate to an identified or identifiable natural person. 
+The passively collected, aggregated information collected through cookies is being used for market research, marketing purposes, to optimize our services and to optimize your experience on our site. We also track clicks on items to improve our rankings and to analyze the traffic to and from our site. With cookies we can also personalize your experience by recognizing which language setting you chose. We consider this data anonymous, since this information does not relate to an identified or identifiable natural person. 
 
 ##### Other personal data
 
-Personal data you actively provided to us through your use of the site is handled to process your report, feedback or request. We do not provide third parties with your personal data, or information regarding your use of the services or site(s) accessible through our services, unless this is strictly necessary in our sole discretion, and we believe that it is reasonable to do so, including but not limited to, the following reasons: 
+Personal data you actively provided to us through your use of the site is handled to process your request, feedback or report. We do not provide third parties with your personal data, or information regarding your use of the services or site(s) accessible through our services, unless this is strictly necessary in our sole discretion, and we believe that it is reasonable to do so, including but not limited to, the following reasons: 
 
   * To satisfy any laws, regulations or legal requests for such information;
   * To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Use or other policies;
