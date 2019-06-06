@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invasionautoproducts.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230124118id_/http%3A//www.invasionautoproducts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invasionautoproducts.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606210431id_/http%3A//www.invasionautoproducts.com/privacypolicy.html) for the most accurate reproduction.*
 
 # invasionautoproducts.com
 
