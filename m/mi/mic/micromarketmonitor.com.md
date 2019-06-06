@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micromarketmonitor.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204205217id_/http%3A//www.micromarketmonitor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micromarketmonitor.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606055844id_/http%3A//www.micromarketmonitor.com/privacy.html) for the most accurate reproduction.*
 
 # Market Research Company and Business Research Consulting Firm | MicroMarketMonitor
 
