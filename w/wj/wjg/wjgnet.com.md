@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjgnet.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216173057id_/http%3A//www.wjgnet.com/bpg/gerinfo/269) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjgnet.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606141438id_/http%3A//www.wjgnet.com/bpg/gerinfo/269) for the most accurate reproduction.*
 
 # Baishideng Publishing Group
 
