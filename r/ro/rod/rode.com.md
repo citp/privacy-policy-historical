@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rode.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125021646id_/http%3A//www.rode.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rode.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606134839id_/http%3A//www.rode.com/privacypolicy) for the most accurate reproduction.*
 
 # RØDE Microphones - Privacy Policy
 
