@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416222223id_/https%3A//www.kemba.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606043946id_/https%3A//www.kemba.org/privacy-policy) for the most accurate reproduction.*
 
 # Pricacy Policy | KEMBA Financial Credit Union - Central, OH
 
