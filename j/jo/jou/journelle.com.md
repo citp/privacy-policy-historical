@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the journelle.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928104856id_/http%3A//www.journelle.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journelle.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606061516id_/https%3A//www.journelle.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-### Thank you for visiting journelle.com. We are committed to protecting your privacy.
+# Privacy Policy – Journelle
 
 At journelle.com, we are committed to providing you an excellent and safe online shopping experience, as well as a high level of customer service. In order to accomplish this, we collect, use, and share certain personal information. We value the security of your personal information, and we restrict access to your nonpublic personal information to those employees who need to know that information in order to maintain the high quality of customer and product service that is synonymous with Journelle.  
 We continuously strive to better your journelle.com shopping experience, and may modify our privacy policy in the future to reflect any modifications enacted. We invite you to return periodically for the most updated version of our online privacy policy.
@@ -13,7 +11,7 @@ We obtain certain information from you when you shop at journelle.com, including
 
 We collect certain information to process your purchase transactions and also to improve our services to you. We may use this information to send marketing and promotional materials by mail or e-mail, or to contact you for account purposes. We may also use the information for internal purposes, such as analyzing customer preferences and trends making personalized product recommendations to you and otherwise improving your experience when you shop on our website.
 
-When you visit journelle.com, we and/or third party vendors with whom we do business may send one or more “cookies” to your computer. A "cookie" is a small line of text that is stored with your Web browser, which we use to help provide better service to you. Your browser has options to accept, reject or provide you with notice when a cookie is sent. We may use cookies for many purposes, including (without limitation) to save your password so you don't have to re-enter it each time you visit the Website, and to deliver content (which may include product offers) specific to your interests. For example, we and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site. Through Google Analytics, we may also receive information regarding your demographics and interests. We use this information to improve the products and services we offer to customers, measure the success of various marketing programs, discover what types of customers we are successfully reaching and to find new customers who we believe may be interested in our products and services. 
+When you visit journelle.com, we and/or third party vendors with whom we do business may send one or more “cookies” to your computer. A "cookie" is a small line of text that is stored with your Web browser, which we use to help provide better service to you. Your browser has options to accept, reject or provide you with notice when a cookie is sent. We may use cookies for many purposes, including (without limitation) to save your password so you don't have to re-enter it each time you visit the Website, and to deliver content (which may include product offers) specific to your interests. For example, we and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site. Through Google Analytics, we may also receive information regarding your demographics and interests. We use this information to improve the products and services we offer to customers, measure the success of various marketing programs, discover what types of customers we are successfully reaching and to find new customers who we believe may be interested in our products and services.
 
 ### Security of Information
 
@@ -33,16 +31,16 @@ Federal law requires us to take special steps to safeguard children's privacy, m
 
 ### Changes to Policy
 
-Journelle may, at its sole discretion, modify this Privacy Policy at any time.  By accessing our website at any time after such modifications, you are agreeing to such modifications.  This Privacy Policy was last modified as of August 21, 2013.
+Journelle may, at its sole discretion, modify this Privacy Policy at any time.  By accessing our website at any time after such modifications, you are agreeing to such modifications. This Privacy Policy was last modified as of August 21, 2013.
 
 ### Special Note to International Users
 
 The web site is hosted in the United States and is intended for and directed to users in the United States. If you are accessing the web site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the web site, which is governed by U.S. law, this Privacy Policy, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
 
-### California Privacy Rights 
+### California Privacy Rights
 
-California Civil Code Section 1798.83 permits users of the web site who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to info@journelle.com or write us at: Journelle Privacy Rights 159 West 25th Street 4th Floor New York, NY 10001
+California Civil Code Section 1798.83 permits users of the web site who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to info@journelle.com or write us at: Journelle Privacy Rights 60 Broad Street, 24th Floor, #2422, New York, NY 10004
 
 ### Questions About This Policy
 
-If you have any questions or concerns regarding this Privacy Policy, or the content or practices of journelle.com, you may contact us by e-mail at info@journelle.com or by telephone: (212) 255-7802.
+If you have any questions or concerns regarding this Privacy Policy, or the content or practices of journelle.com, you may contact us by e-mail at info@journelle.com or by telephone: (888) 885-6876.
