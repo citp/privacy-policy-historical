@@ -1,24 +1,25 @@
-> *The following text is extracted and transformed from the oneworldobservatory.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120223625id_/https%3A//oneworldobservatory.com/en-US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneworldobservatory.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606111045id_/https%3A//oneworldobservatory.com/en-US/privacy-policy) for the most accurate reproduction.*
 
 # One World Observatory Privacy Policy
 
 ­
 
-Privacy Policy
+ **ONE WORLD OBSERVATORY PRIVACY POLICY**
 
+Privacy Policy  
 General Overview
 
-The following Privacy Statement discloses the information-gathering and dissemination practices and policies of the Company (as defined below). The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. Your use of any part of the Website indicates your acceptance of this Privacy Policy and of the collection, use and disclosure of your personal information in accordance with this Privacy Policy.
+The following Privacy Statement discloses the information-gathering and dissemination practices and policies of the Company (as defined below). The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. Your use of any part of the Website indicates your acceptance of this Privacy Policy and of the collection, use and disclosure of your contact and personal information in accordance with this Privacy Policy.
 
-The Company is committed to protecting your privacy. We use the information we collect about you to process and complete the commercial transactions you request and to provide you with a more personalized experience on the Website. We have created this Privacy Policy statement in order to demonstrate our firm commitment to protecting the privacy of all visitors to our Website. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, either we collect and transfer personal information to a service provider, or you may visit other merchants through links on the Website who may collect and use your personal information. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
+The Company is committed to protecting your privacy. We use the information we collect about you to process and complete the commercial transactions you request and to provide you with a more personalized experience on the Website. We have created this Privacy Policy statement in order to demonstrate our firm commitment to protecting the privacy of all visitors to our Website. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, either we collect and transfer your contact or personal information to a service provider, or you may visit other merchants through links on the Website who may collect and use your contact and personal information. We encourage you to ask questions and to be very cautious before you disclose your contact or personal information to others.
 
-This Privacy Policy applies whether you are accessing the Website through the use of your personal computer, a mobile device or any other technology or software known today or developed in the future. As we update and expand our services, we reserve the right to modify this Privacy Policy at any time. Any changes will be posted here so that you are always aware of what information is collected, how it is used and when, if ever, it is disclosed. Your continued use of the Website will signify acceptance of the terms of the new policy.
+This Privacy Policy applies whether you are accessing the Website through the use of your personal computer, a mobile device or any other technology or software known today or later developed. As we update and expand our services, we reserve the right to modify this Privacy Policy at any time. Any changes will be posted here so that you are always aware of what information is collected, how it is used and when, if ever, it is disclosed. Your continued use of the Website will signify acceptance of the terms of the new policy.
 
-This Website is managed by Legends OWO, LLC. References to “we,” “our,” “us” and the “Company” shall mean Legends OWO, LLC.
+This “Website,” oneworldobservatory.com, is managed by Legends OWO, LLC. References to “we,” “our,” “us” and the “Company” shall mean Legends OWO, LLC.
 
 What information do we collect?
 
-We use a variety of methods to gather information to help ensure that your shopping experience is as efficient and accommodating as possible. We may obtain personal information about you from various sources, including through your communications with us. We also collect certain information by automated means, using technologies such as cookies and pixel tags.
+We use a variety of methods to gather information to help ensure that your experience is as efficient and accommodating as possible. We may obtain personal information about you from various sources, including through your communications with us. We also collect certain information by automated means, using technologies such as cookies and pixel tags.
 
 You may choose to provide personal information to us in a number of ways, such as when you:
 
@@ -46,11 +47,11 @@ Demographic and preference information such as product purchase history
 
 Information you provide about other people, such as a gift recipient
 
-When you set up an online shopping account at our web site, if applicable, we may also request a password to allow you secure access. We may also supplement the information listed above with anonymous Site traffic information that’s collected automatically when you visit our Site, plus with information acquired from our joint marketing partners, from third parties, and from our affiliated companies.
+When you set up an account through the Website, if applicable, we may also request a password to allow you secure access. We may also supplement the information listed above with anonymous Website traffic information that’s collected automatically when you visit our Website, plus with information acquired from our joint marketing partners, from our trusted third party partners, and from our affiliated companies.
 
 How do we use your information?
 
-You deserve the fastest, safest and most enjoyable shopping experience possible. To give you just that, we may use information that you provide to us in the following manner:
+You deserve the fastest, safest and most enjoyable experience possible. To give you just that, we may use information that you provide to us in the following manner:
 
 To assist you in customer service communications
 
@@ -58,9 +59,9 @@ To administer “My Account” information, online forms, and other site feature
 
 To enable you to check out and complete your purchases, and to fill and ship your orders
 
-To send you special announcements or promotional information about new products or services and upcoming events, and to allow our affiliated companies and our other trusted third party partners to do the same
+To send you special announcements or promotional information about new products or services and upcoming events, and to allow our affiliated companies and our other trusted third-party partners to do the same
 
-To send you printed catalogs in the mail
+To send you printed material in the mail
 
 As necessary, to share your information with trusted third-party companies that provide support services to us or with which we partner to provide services, including special programs, offers and discounts
 
@@ -70,31 +71,31 @@ Where we consider it necessary to protect your legal rights, our legal rights, o
 
 More details of the ways in which we may use your information are set out below
 
-In-store Shopping
+On-site Shopping
 
-When you visit one of our retail locations, you can shop anonymously when you pay with cash. However, we may keep a history of your purchases if you use a credit card or debit card. We collect this information in order to process your orders and to better assist you, and all such information will be treated in compliance with this privacy policy.
+When you visit our retail location, you can shop anonymously when you pay with cash. However, we may keep a history of your purchases if you use a credit card or debit card. We collect this information in order to process your orders and to better assist you, and all such information will be treated in compliance with this privacy policy.
 
 If you want to return or exchange purchased merchandise, we may ask you for personal identification information such as the credit card used for the purchase or a picture ID to help prevent fraud.
 
 Emails
 
-We may use your e-mail address to notify you about the status of your order (if you have placed one), provide customer service information, or answer your questions and requests. We may also occasionally send you our e-mail updates, sales notifications, or other promotional information about our products and services or about the products and services of our affiliated companies or trusted third party partners in which you may be interested. We will not sell or rent your e-mail address to outside marketing companies. You will also be automatically eligible to and may receive similar promotional information via e-mail from our affiliated companies and brands regarding their special announcements such as information about that brand’s products and services, sales and other promotions. Please note that any use of personal information by an affiliated company will be governed by that entity’s privacy policy. If you want to change how information is used on that company’s website, you must do so directly with that company.
+We, and our trusted third party partners, may use your e-mail address to notify you about the status of your order (if you have placed one), provide customer service and customer feedback information, or answer your questions and requests. We, our affiliates, and our trusted third party partners may also occasionally send you e-mail updates, sales notifications, or other promotional information about products and services or about the products and services of our affiliated companies or trusted third party partners in which you may be interested. You will also be automatically eligible to and may receive similar promotional information via e-mail from our affiliated companies, brands, or trusted third party partners regarding their special announcements such as information about that brand’s products and services, sales and other promotions. Please note that any use of personal information by an affiliated company or trusted third party partner will be governed by that entity’s privacy policy. If you want to change how information is used on that company’s website, you must do so directly with that company.
 
 Telephone Contact
 
-If you provide us with your phone number, you may receive telephone contact from us for customer service communications, such as to ask you about your order, if you have placed one. If you call our customer service number, we may ask you for personal identification information, depending on the nature of your request, to better assist you with your requests and questions. We may retain this information to help meet your future needs. We may occasionally use your phone number to contact you with updates, sales notifications, or other promotional information about our products and services or those of our affiliated companies or trusted third party partners in which you may be interested. We may also make your personal information available to our affiliated companies and our other trusted third party partners to enable them to contact you directly with their promotional information, such as information about their products and services, sales and other promotions.
+If you provide us with your phone number, you may receive telephone contact from us for customer service communications, such as to ask you about your order, if you have placed one. If you call our customer service number, we may ask you for your contact or personal information, depending on the nature of your request, to better assist you with your requests and questions. We may retain this information to help meet your future needs. We may occasionally use your contact information to contact you with updates, sales notifications, or other promotional information about our products and services, or those of our affiliated companies or trusted third party partners, in which you may be interested. We may also make your personal information available to our affiliated companies and our other trusted third party partners to enable them to contact you directly with their promotional information, such as information about their products and services, sales and other promotions.
 
 Contests, Promotions, or Surveys
 
-If you participate in a contest, promotion, sweepstakes offering, or survey (whether online, over the phone, by mail, or at one of our outlet stores), we may use your personal information to manage your entry in such promotion, to notify you if you are a winner, or to fulfill promotional obligations. At the time of your entry or registration for a specific promotion, survey, contest, or sweepstakes, we will provide you with the rules governing such promotion, survey, contest, or sweepstakes.
+If you participate in a contest, promotion, sweepstakes offering, or survey (whether online, over the phone, by mail, or on site at our store), we may use your contact and personal information to manage your entry in such promotion, to notify you if you are a winner, or to fulfill promotional obligations. At the time of your entry or registration for a specific promotion, survey, contest, or sweepstakes, we will provide you with the rules governing such promotion, survey, contest, or sweepstakes.
 
 Authorized Third Parties
 
-We partner with certain third parties who provide services to us, such as managing visitor/customer information, managing our marketing and promotions activities, and conducting other activities of the kind described elsewhere in this privacy policy on our behalf. In such cases, we may disclose your personal information to such service providers. We do not authorize any of these service providers to make any use of your information other than for our benefit. To provide you with other marketing information or third party promotions that may be of interest to you, we may disclose your name and postal address to reputable third parties, but not your e-mail address or other information. We may also partner with third party organizations to provide special programs, offers and discounts to members of those organizations, in which case we may disclose to that organization information we collect about you, such as your name, your membership number with that organization, your contact details, and information about your purchases with us. We may also, from time to time, partner with third parties to offer you membership in programs, such as discount programs, run by them, or products and services offered by them; if you elect to participate in such programs or to purchase such products and services, we may disclose your personal information, including your credit card information (if applicable), to enable such third parties to enroll you in their programs or provide those products and services, and to bill you for their services. Examples of these service providers include entities that process credit card payments, fulfill orders, provide web hosting, or manage our marketing and promotions activities. Such third parties may have websites with separate privacy and data collection practices, and we recommend that you carefully review them. If you would like to change how information is used on that third party website, you must do so directly with that third party. In addition, to provide you with other marketing information or third party promotions that may be of interest to you, we may disclose your personal information to our affiliated companies and our other trusted third party partners, as set out in this privacy policy.
+We partner with certain third parties who provide services to us, such as managing visitor/customer information, managing our marketing and promotions activities, and conducting other activities of the kind described elsewhere in this privacy policy on our behalf. In such cases, we may disclose your personal information to such service providers. We do not authorize any of these service providers to make any use of your information other than for our benefit. To provide you with other marketing information or third party promotions that may be of interest to you, to the extent permitted by applicable law, we may disclose your contact information to our trusted third party partners, including, but limited to, your name, postal address, and e-mail address. We may also partner with third party organizations to provide special programs, offers and discounts to members of those organizations, in which case we may disclose to that organization information we collect about you, such as your name, your membership number with that organization, your contact information, and information about your purchases with us. We may also, from time to time, partner with third parties to offer you membership in programs, such as discount programs, which are run by them, or products and services offered by them; if you elect to participate in such programs or to purchase such products and services, we may disclose your contact or personal information, to enable such third parties to enroll you in their programs or provide those products and services, and to bill you for their services. Examples of these service providers include entities that process credit card payments, fulfill orders, provide web hosting, or manage our marketing and promotions activities. Such third parties may have websites with separate privacy and data collection practices, and we recommend that you carefully review them. If you would like to change how information is used on that third party website, you must do so directly with that third party. In addition, to provide you with other marketing information or third party promotions that may be of interest to you, we may disclose your contact and personal information to our affiliated companies and our other trusted third party partners, as set out in this privacy policy.
 
 Catalogs and Mailings
 
-We may use your name and postal address to occasionally send you our printed catalogs, magalogs, valpaks or other syndicated mailings, as well as materials regarding offerings of our affiliated companies and our other trusted third party partners. We may also make your name, postal address and transactional information available to our affiliated companies and our other trusted third party partners so that you may receive mailings directly from them about products and services that may be of interest to you.
+We may use your name and postal address to occasionally send you our printed mailings, as well as materials regarding offerings of our affiliated companies and our other trusted third party partners. We may also make your contact and personal information available to our affiliated companies and our other trusted third party partners so that you may receive mailings directly from them about products and services that may be of interest to you.
 
 Financial Products
 
@@ -106,19 +107,15 @@ In certain instances, we may disclose your personal information when we have rea
 
 Customer Service
 
-If you provide us with your phone number, you may receive telephone contact from us for customer service communications, such as to ask you about your order. If you call our customer service number, we may ask you personal identifying information, depending on the nature of your request, to better assist you with your requests and questions. We may retain this information to help meet your future needs.
+If you provide us with your phone number, you may receive telephone contact from us for customer service communications, such as to ask you about your order. If you call our customer service number, we may ask you for your contact and personal information, depending on the nature of your request, to better assist you with your requests and questions. We may retain this information to help meet your future needs.
 
 Contests, Promotions or Surveys
 
 If you participate in a contest, promotion, sweepstakes offering or survey (whether via on-line, over the phone or at one of our outlet stores), we may use your personal information to manage your entry in such promotion, to notify you if you are a winner, or to fulfill promotional obligations. At the time of your entry or registration for a specific promotion, survey, contest, or sweepstakes, we will provide you with the rules governing such promotion, contest or survey.
 
-Authorized Third Parties
-
-To provide you with an optimal shopping experience, we partner with certain third parties [to manage our customer information, to fulfill promotions, or to communicate with our customers. In such cases, we may disclose your personal information to such outside companies. We do not authorize any of these service providers to make any use of your information other than for our benefit.
-
 Sale of Business
 
-In the unlikely event that Company or any entities that make-up the Company are sold, or substantially all of its assets are acquired, customer information may be one of the transferred assets, and may therefore be used by a third party acquirer in accordance. We will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Policy. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.
+In the unlikely event that Company or any entities that make-up the Company are sold, or substantially all of its assets are acquired, customer information may be one of the transferred assets, and may therefore be used by a third party acquirer in accordance. We will use reasonable efforts to direct the transferee to use contact and personal information you have provided to us in a manner that is consistent with our Privacy Policy. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.
 
 Information we collect by automated means and how we use it
 
@@ -140,7 +137,7 @@ We also may contract with third-party advertising networks that collect IP addre
 
 Other Trusted Third Parties
 
-We may, from time to time, partner with third parties to provide you with special offers. If you elect to take advantage of such an offer, you will be eligible to transact with such third party partner only if you provide them your personal information directly. We may make your name, postal address and transactional information available to certain trusted third party partners so that you may receive mailings directly from them about products and services that may be of interest to you. Also, some of our Facebook apps may share information collected through those apps with your Facebook friends or other Facebook users.
+We may, from time to time, partner with third parties to provide you with special offers. If you elect to take advantage of such an offer, you will be eligible to transact with such third party partner only if you provide them your personal information directly. We may make your name, postal address, email address and transactional information available to certain trusted third party partners so that you may receive mailings directly from them about products and services that may be of interest to you. Also, some of our Facebook apps may share information collected through those apps with your Facebook friends or other Facebook users.
 
 Opting Out: How can you control the use of your information?
 
@@ -164,9 +161,9 @@ If you do not wish to receive telephone calls from us regarding our sales notifi
 
 Sharing Information with Third Parties
 
-If you would rather that we did not share your personal information with our affiliated companies or our third party partners for their direct marketing purposes, please send your full name, address and customer number to our mailing address listed at the end of this privacy policy. Please note that even if you opt out of having your information shared with third parties in this way, we may still disclose your information to third parties in other circumstances as described in this privacy policy, for example, where required to enable our third party service providers to provide services to us, and where required by law.
+If you would rather that we did not share your personal information with our affiliated companies or our third party partners for their direct marketing purposes, please send your full name, physical address, and email address to our mailing address listed at the end of this Privacy Policy. Please note that even if you opt out of having your information shared with third parties in this way, we may still disclose your information to third parties in other circumstances as described in this Privacy Policy, for example, where required to enable our third party service providers to provide services to us, or where required by law.
 
-Please also note that where we have previously disclosed personal information to an affiliated company or third party partner prior to your opting out, that company’s use of your information will be governed by its privacy policy. If you want to change how information is used by an affiliate company or third party (for example, by opting-out of receiving emails or telephone communications from that company), you must contact that company or party directly. We cannot alter or remove your information from any of our affiliated companies’ or third party partners’ databases.
+Please also note that where we have previously disclosed contact or personal information to an affiliated company or third party partner prior to your opting out, that company’s use of your information will be governed by its Privacy Policy. If you want to change how information is used by an affiliate company or third party (for example, by opting-out of receiving emails or telephone communications from that company), you must contact that company or party directly. We cannot alter or remove your information from any of our affiliated companies’ or third party partners’ databases.
 
 How do we safeguard your information?
 
@@ -210,7 +207,7 @@ By using this Site, you consent to the collection and use of your personal infor
 
 EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework
 
-The Company complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union member countries and Switzerland to the United States, respectively. The Company has certified that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+The Company complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union member countries and Switzerland to the United States, respectively. The Company has certified that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
 Legends OWO is subject to the investigatory and enforcement authority of the United States Federal Trade Commission (FTC).
 
