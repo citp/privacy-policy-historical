@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationnews.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119061140id_/http%3A//www.nationnews.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationnews.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606111051id_/http%3A//www.nationnews.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Static page -- NationNews Barbados -- nationnews.com
 
