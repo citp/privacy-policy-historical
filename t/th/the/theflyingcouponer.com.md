@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theflyingcouponer.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228062922id_/https%3A//www.theflyingcouponer.com/pr-friendly/policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflyingcouponer.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606032013id_/https%3A//www.theflyingcouponer.com/pr-friendly/policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - The Flying Couponer|Family, Lifestyle & Finds.
 
@@ -10,13 +10,13 @@ We respect your privacy and are committed to protecting it. The purpose of this 
 
 WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
- **Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
+**Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
- **Information We Collect from Others** : We may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your user profile.  If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account.  The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
+**Information We Collect from Others** : We may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your user profile.  If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account.  The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
 
- **Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
+**Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
- **Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
+**Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
 HOW YOUR INFORMATION MAY BE USED
 
@@ -69,15 +69,15 @@ Users may, at any time, prevent the setting of cookies, by the Website, by using
 
 ADVERTISING
 
- **Display Ads**
+**Display Ads**
 
 We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
 
- **Retargeting Ads**
+**Retargeting Ads**
 
 From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
 
- **Affiliate Program Participation**
+**Affiliate Program Participation**
 
 The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
 
@@ -113,7 +113,7 @@ At any time, please contact us at mary@theflyingcouponer.com for questions relat
 
 Last updated: May 15, 2018
 
- **Giveaways**
+**Giveaways**
 
 The Flying Couponer’s giveaways and reviews are honest and expressed my own opinions **.** Our giveaways are open to Canadian residents and might be open to USA residents when possible. Residents of the province of Quebec might be excluded due to La Régie des alcools, des courses et des jeux. Visit www.racj.gouv.qc.ca for more information.  
 
