@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometogo.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909172943id_/https%3A//www.hometogo.com/legal/%23dataprotection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometogo.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606070112id_/https%3A//www.hometogo.com/legal/%23dataprotection) for the most accurate reproduction.*
 
 # Legal, Terms and Conditions, & Privacy Policy | HomeToGo
 
@@ -12,9 +12,9 @@ The following Privacy Policy contains information about the way and extent to wh
 
 2. Name and contact details of the controller responsible for processing and the company's Data Protection Officer
 
-This Privacy Policy applies to the data processing performed by HomeToGo GmbH, Sonnenburger Str. 73, 10437 Berlin (the "controller", hereinafter "HomeToGo"), to be contacted at [info@hometogo.com](mailto:info@hometogo.com), and for the following website or application: www.hometogo.com.
+This Privacy Policy applies to the data processing performed by HomeToGo GmbH, Perleberger Str. 42a, 10559 Berlin (the "controller", hereinafter "HomeToGo"), to be contacted at [info@hometogo.com](mailto:info@hometogo.com), and for the following website or application: www.hometogo.com.
 
-The company Data Protection Officer of HomeToGo can be reached at datenschutzbeauftragter@datenschutzexperte.de (Datenschutzexperte.de, PROLIANCE GmbH, Friedrichstrasse 22, 80801 Munich, Germany).
+The company Data Protection Officer of HomeToGo can be reached at datenschutzbeauftragter@datenschutzexperte.de (Datenschutzexperte.de, PROLIANCE GmbH, Leopoldstr. 21, 80802 Munich, Germany).
 
 3. The purposes for which data is processed, the legal basis and legitimate interests pursued by HomeToGo or a third party, as well as categories of recipients
 
@@ -156,7 +156,7 @@ If you have expressly given your consent to Google pursuant to Article 6 (1) (a)
 
   * your email address
   * your name on your Google account (first and last name)
-  * the profile image (or the avatar) used on Google 
+  * the profile image (or the avatar) used on Google
   * a link to your Google account
   * your gender
   * the top-level domain of your logged-in Google account
@@ -196,7 +196,13 @@ In order for you to receive information that is likely to be of interest to you,
 
 The legal basis for the aforementioned processing is Article 6 (1) (f) GDPR. Processing existing customer data this way for advertising purposes is deemed to be a legitimate interest.
 
-3.5.4. Right to object
+3.5.4 Push notifications
+
+In our application we offer the possibility to activate push notifications which include short information on relevant topics and news about our services and may be displayed even if you are not using the application. If you allow or activate push notifications, a token will be assigned to your device. The token is an encrypted identifier and is used for the technical implementation of push notifications. We use the services of Accengage S.A., 31 rue du 4 Septembre, 75 002 Paris, France, to send and control push notifications. Data is collected and transmitted (push ID, IP address, access times, advertising identifier if applicable, location data if applicable). In addition, data about the use of the push notifications (such as opening rate or display duration) is collected and stored for improvement and customization of our services. Accengage will only receive the relevant data with your consent. You can revoke your consent at any time with effect for the future. You can activate or deactivate push notifications at any time in the settings of your device. Further details and information can be found in the Accengage Privacy Policy at <https://www.accengage.com/privacy-policy/>.
+
+The legal basis for the processing of your data in the context of push notifications is Article 6 (1) (a) GDPR, for the analysis for customized services it is Article 6 (1) (f) GDPR. Your data will only be stored for the duration of the use of the push notification services.
+
+3.5.5. Right to object
 
  _You have the right, at any time and at no charge, to object to data processing for the aforementioned purposes, separately for each respective communication channel, and with effect for the future. To do so, you need only send an email to_[ _info@hometogo.com_](mailto:info@hometogo.com) _or send a letter to the HomeToGo address mentioned in section 2 above._
 
@@ -434,7 +440,13 @@ Technology from Ad Up, a service provider of Axel Springer Teaser Ad GmbH, Axel-
 
 More information can be found in Ad Up’s privacy policy here: <https://www.adup-tech.com/en/privacy>. You can deactivate Ad Up in your browser by clicking the button “activate opt-out cookie” there.
 
-3.8.16. Other third parties
+3.8.16 BingAds Services
+
+On our website, we use BingAds Services by Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, D18 P521, Ireland, for displaying advertisements. In this way we can show you advertisements that may be of interest to you. These advertisements can be recognized by the note “Ads by Microsoft” or a similar reference. Microsoft uses web beacons and cookies (see section 3.6). The information generated by cookies and web beacons about the use of the website (including you IP address and device ID) and delivery of advertising formats is transmitted to a Microsoft server in Ireland and the US and stored there.
+
+For more information, as well as the provisions regarding data privacy, please see the Microsoft Privacy Policy at <https://privacy.microsoft.com/en-us/privacystatement>. There is explained how you can object to the interest-based advertisement via opt out.
+
+3.8.17. Other third parties
 
 Besides, we also engage a third party partner for the purpose of identifying users and delivering to them interest-based content and advertisements. We may share information about you with our partners such as a non-human-readable form of your email or other identifier to ensure the security of your information. Our partners also may collect information directly from your device, such as your IP address, device ID, and information about your browser or operating system; may combine our personal and non-personal information about you with information from other sources; and may place or recognize a unique cookie on your browser.
 
@@ -442,7 +454,7 @@ You can opt-out of these partners’ services in the following manner:
 
 To opt-out of BouncePilot’s services, please go to <http://www.bouncepilot.com/opt-out/> . To opt out of LiveRamp’s services, please go to <https://liveramp.com/opt_out/>. To opt-out of third party cookies, please go to <http://optout.aboutads.info/?c=2#!/>. To opt-out of the use of your mobile device ID for targeted advertising, please see <https://youradchoices.com/appchoices>.
 
-3.8.17. Option to object/opt-out
+3.8.18. Option to object/opt-out
 
  _You can prevent the targeting technologies we described by activating the appropriate cookie setting in your browser (see also section 3.6.). In addition, you have the option of deactivating preference-based advertising with the help of the preference manager available here:_[ _http://www.youronlinechoices.com/uk/your-ad-choices_](http://www.youronlinechoices.com/uk/your-ad-choices) _._
 
