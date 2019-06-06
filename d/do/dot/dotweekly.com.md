@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dotweekly.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204022044id_/http%3A//dotweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotweekly.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606172830id_/http%3A//dotweekly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DotWeekly.com
-
-You are here: [Home](http://dotweekly.com/) » Privacy Policy
+# Privacy Policy
 
 ## Who we are
 
