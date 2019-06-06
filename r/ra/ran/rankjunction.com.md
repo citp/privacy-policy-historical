@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the rankjunction.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510052228id_/http%3A//rankjunction.com/nen/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankjunction.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606172129id_/https%3A//rankjunction.com/nen/privacy-policy) for the most accurate reproduction.*
 
 # TermsAndConditions | RankJunction
 
-RankJunction.com is committed to privacy of information received through the website from visitors, however, by using this website, it is implied that the visitors consent to the terms contained herein. RankJunction.com follows the following procedures to safeguard the privacy of visitors to its websites.
+RankJunction.com is committed to privacy of information received through the website or the equivalent RankJunction Mobile Application available on Google Play from visitors, however, by using this website or RankJunction App, it is implied that the visitors consent to the terms contained herein. RankJunction.com follows the following procedures to safeguard the privacy of visitors to its websites.
 
 We limit visit data collection to Browser Type, Page Accessed, Visit Duration, IP Address and Cookies. This keeps the visitor to the website anonymous. 
 
-Personally identifiable information like Name, Address, Telephone Nos., email Ids etc. is collected only if the visitor volunteers to provide it by registering on RankJunction.com or on requesting information from RankJunction.com, the information shall be used only for sending information requested / subscribed for by the visitor. Personally identifiable information may be disclosed for the following reasons:
+Personally identifiable information like Name, Address, Telephone Nos., email Ids etc. is collected only if the visitor volunteers to provide it by registering on RankJunction.com or RankJunction App or on requesting information from RankJunction.com, the information shall be used only for sending information requested / subscribed for by the visitor. Personally identifiable information may be disclosed for the following reasons:
 
-  * To third parties in connection with visitor's purchase of third parties products or services from RankJunction.com.
+  * To third parties in connection with visitor's purchase of third parties products or services from RankJunction.com or RankJunction App.
   * In the event of a corporate re-organization, it may be required to pass on such information to the surviving entity.
   * In the event disclosure of information is required by Law, a Regulation, National Security or a Government agency.
   * Information disclosed in message boards or forums are in public space hence visitors need to exercise restraint, because in this space everything is public information.
