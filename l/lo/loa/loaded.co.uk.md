@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loaded.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230165101id_/http%3A//loaded.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loaded.co.uk privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606184248id_/https%3A//loaded.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Loaded
 
