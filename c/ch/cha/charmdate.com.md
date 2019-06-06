@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charmdate.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817161322id_/http%3A//charmdate.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmdate.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606052216id_/http%3A//www.charmdate.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy – CharmDate.com
 
