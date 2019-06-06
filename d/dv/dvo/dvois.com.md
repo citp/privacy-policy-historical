@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvois.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130223924id_/http%3A//www.dvois.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvois.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606132920id_/http%3A//www.dvois.com/privacy-policy.html) for the most accurate reproduction.*
 
 # D-VoiS Communications Pvt Ltd | Privacy Policy
 
