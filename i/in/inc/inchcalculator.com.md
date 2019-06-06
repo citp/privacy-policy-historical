@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inchcalculator.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130113155id_/https%3A//www.inchcalculator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inchcalculator.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607013321id_/https%3A//www.inchcalculator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inch Calculator
 
@@ -16,7 +16,7 @@ Technologies such as: cookies, beacons, tags and scripts are used by Inchcalcula
 
 → Google, as a third party vendor, uses cookies to serve ads on inchcalculator.com.  
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to inchcalculator.com and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <https://policies.google.com/technologies/ads>
 
 ## Our Advertising Partners
 
@@ -24,7 +24,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
   * Google
   * Amazon
-  * NetworkX
+  * Networx
 
 
 
@@ -56,7 +56,5 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
 This Privacy Policy was last updated on: Sunday, November 20th, 2016.  
 Should we update, amend or make any changes to our privacy policy, those changes will be posted here. 
-
-## Contact
 
 Please [contact us](https://web.archive.org/contact/) with all questions and concerns.
