@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225012639id_/http%3A//www.idg.co.uk/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcadvisor.co.uk privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606021959id_/http%3A//www.idg.co.uk/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # IDG UK : Privacy Policy
 
@@ -41,6 +41,8 @@ To enhance and/or update the information that you have provided to us, we may co
 This site also collects and stores certain information automatically using cookies and similar technologies, including IP addresses, the region or general location of a computer or device accessing the internet, browser type, operating system, page view history, and other usage information. See our Cookie Policy for further details.
 
 _However, t_ _o the extent that any cookie can uniquely identify a computer, mobile device, or tablet (“Device”), or the person using that Device, and you are a EU resident, under the_ _GDPR,_ _this is personal data.   Therefore, this privacy policy shall apply to such personal data collected by IDGC._
+
+We may use third party advertising companies to collect data and/or serve ads when you visit our website or application. These companies may use information about your visits to this and other websites or applications in order to provide advertisements about goods and services of interest to you. Please keep in mind that your browser settings may not permit you to control the technologies utilized by these third party companies. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/).”
 
 ## How we collect it
 
