@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qantas.com.au privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120090220id_/https%3A//www.qantas.com/gb/en/support/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qantas.com.au privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606201602id_/https%3A//www.qantas.com/us/en/support/privacy-and-security.html) for the most accurate reproduction.*
 
-# Privacy and security | Qantas GB
+# Privacy and security | Qantas US
 
 ### General
 
@@ -254,7 +254,7 @@ If you purchase or use goods or services that have been acquired as part of a tr
 
 Cookies are small pieces of data stored on the web browser on your computer. This website and associated websites (including those you reach by clicking on advertising) may store cookies on your web browser.
 
-You can visit our [viewing tips page](https://web.archive.org/gb/en/support/viewing.html) to see if you have cookies enabled in your browser. See [how we use cookies](https://web.archive.org/gb/en/support/cookies-policy.html) and to [enable or disable](https://web.archive.org/gb/en/support/manage-cookies.html) cookies in your browser by visiting our [Cookies Policies](https://web.archive.org/gb/en/support/cookies-policy.html).
+You can visit our [viewing tips page](https://web.archive.org/us/en/support/viewing.html) to see if you have cookies enabled in your browser. See [how we use cookies](https://web.archive.org/us/en/support/cookies-policy.html) and to [enable or disable](https://web.archive.org/us/en/support/manage-cookies.html) cookies in your browser by visiting our [Cookies Policies](https://web.archive.org/us/en/support/cookies-policy.html).
 
 ## How we hold information and keep it secure
 
@@ -271,7 +271,7 @@ If we have given you (or you have chosen) a password which enables you to access
 
 When we disclose personal information in accordance with this Privacy Policy, it may be accessed from, transferred to, and/or stored outside the country in which you are located. The data protection laws in that country may be of a lower standard than those in your own country.  We will, in all circumstances, safeguard the personal information as set out in this Privacy Policy.
 
-Refer to the section on [European Data Protection Laws](https://web.archive.org/gb/en/support/privacy-and-security.html#european-data-protection-laws) for information about the export of personal data from the EEA to outside the EEA.
+Refer to the section on [European Data Protection Laws](https://web.archive.org/us/en/support/privacy-and-security.html#european-data-protection-laws) for information about the export of personal data from the EEA to outside the EEA.
 
 ### In the course of providing our services and facilitating reservations made through us
 
@@ -283,7 +283,7 @@ We may also disclose your personal information to data processors (including ope
 
 ### Access to, and correction of, information about you
 
-In some countries you have the right to access, or correct, the personal information that we hold about you. If you would like to request access to, or correction of, your personal information that we hold, please contact us using the details in the section titled '[Contacting Us](https://web.archive.org/gb/en/support/privacy-and-security.html#contacting-us)'.
+In some countries you have the right to access, or correct, the personal information that we hold about you. If you would like to request access to, or correction of, your personal information that we hold, please contact us using the details in the section titled '[Contacting Us](https://web.archive.org/us/en/support/privacy-and-security.html#contacting-us)'.
 
 To the extent required by applicable law, we will provide you with access to the information we hold about you, including for the purpose of correcting or updating that information, within a reasonable timeframe (or any time frame stipulated by the laws that apply to your request). If we are permitted to withhold some of your personal information and we choose to do so, we will advise you when responding to your request. If we refuse to provide you with access to, or to amend, the information, to the extent required we will notify you of our reasons for the refusal and how you may complain about the refusal.
 
@@ -301,7 +301,7 @@ This section applies if you are based in the European Economic Area (EEA) during
 
 Under European data protection laws, use of personal information must be based on one of a number of legal grounds and we are required to set out the grounds in respect of each use. Companies may process personal data only when the processing is permitted by the specific legal ground set out in the law.
 
-In the table below, we have set out the relevant grounds that apply to each purpose of data processing that is mentioned in this Privacy Policy. You can find an explanation of each of the legal grounds for use of personal information [here](https://web.archive.org/gb/en/support/privacy-and-security.html#legal-grounds-for-use-of-personal-information).
+In the table below, we have set out the relevant grounds that apply to each purpose of data processing that is mentioned in this Privacy Policy. You can find an explanation of each of the legal grounds for use of personal information [here](https://web.archive.org/us/en/support/privacy-and-security.html#legal-grounds-for-use-of-personal-information).
 
 The purpose of data processing and it's uses  Purposes of the data processing | Use bases  
 ---|---  
@@ -405,7 +405,7 @@ The legal grounds for our use of the sensitive categories of personal informatio
 
 When we transfer personal information from inside the EEA to outside the EEA, we may be required by law to take specific measures to safeguard the relevant personal information. Certain countries outside the EEA have been approved by the European Commission as providing essentially equivalent protections to EEA data protection laws and therefore no additional safeguards are required to export personal information from the EEA to these jurisdictions. In countries which have not had these approvals, we will use appropriate safeguards to protect any personal information being transferred, such as EU Commission-approved model contractual clauses or binding corporate rules permitted by applicable legal requirements.
 
-Please refer to the section “[Contacting Us](https://web.archive.org/gb/en/support/privacy-and-security.html#contacting-us)” if you would like to see a copy of the specific safeguards applied to the export of your personal information.
+Please refer to the section “[Contacting Us](https://web.archive.org/us/en/support/privacy-and-security.html#contacting-us)” if you would like to see a copy of the specific safeguards applied to the export of your personal information.
 
 ### Retention period
 
@@ -413,7 +413,7 @@ Our retention periods for personal data are based on business needs and legal re
 
 ### Marketing
 
-You have the right to ask us not to process your personal information for marketing purposes. We will inform you if we intend to use your information for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by not opting in when we invite you to participate in our marketing activities. You can also exercise the right by contacting us as set out in the “[Contacting Us](https://web.archive.org/gb/en/support/privacy-and-security.html#contacting-us)” section below or by managing your marketing preferences at “My Profile” if your profile is registered on our website.
+You have the right to ask us not to process your personal information for marketing purposes. We will inform you if we intend to use your information for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by not opting in when we invite you to participate in our marketing activities. You can also exercise the right by contacting us as set out in the “[Contacting Us](https://web.archive.org/us/en/support/privacy-and-security.html#contacting-us)” section below or by managing your marketing preferences at “My Profile” if your profile is registered on our website.
 
 ### Additional Rights Under EU Law
 
@@ -434,7 +434,7 @@ In addition, under certain conditions, you have the right to:
 
 
 
-You can exercise these rights by contacting us at the “[Contacting Us](https://web.archive.org/gb/en/support/privacy-and-security.html#contacting-us)” section below.
+You can exercise these rights by contacting us at the “[Contacting Us](https://web.archive.org/us/en/support/privacy-and-security.html#contacting-us)” section below.
 
 These rights are subject to certain exemptions to safeguard the public interest (e.g. the prevention or detection of crime) and our interests (e.g. the maintenance of legal privilege).
 
