@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202111158id_/http%3A//www.hays.com/general-content/privacy-policy-428297) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606173228id_/http%3A//www.hays.com/general-content/privacy-policy-428297) for the most accurate reproduction.*
 
 # Privacy Policy | US jobs and recruitment | Hays
 
@@ -47,7 +47,7 @@ You may request us to confirm what information we hold about you at any time and
 
 _If you no longer wish to receive job alerts, marketing and promotional emails from Hays U.S., please click the unsubscribe link included in the footer of the email you received.   If you wish to contact us with any other matters, please email us at feedback-us@hays.com_.
 
-Hays U.S Corporate Office is located at 4300 West Cypress Street, Suite 900, Tampa FL 33607.
+Hays U.S Corporate Office is located at 4350 West Cypress Street, Suite 1000, Tampa FL 33607.
 
 ### How long will you hold my information for?
 
@@ -61,7 +61,7 @@ Your information is held on servers hosted by us or our Internet Services Provid
 
 ### How we collect and aggregate information about visitors to our websites
 
-We also collect information about the way jobseekers and visitors use this website in order to improve our services. We do not use information gained in this manner in a way that any individual can be identified, and will use it to understand our users better, and to determine aggregate trends, most popular pages, etc, for all the website’s users. We may share this kind of aggregate data with selected third parties to assist with these purposes where you have consented to this. We may also undertake marketing profiling to help us identify services or jobs which may be of interest to you.
+We also collect information about the way job seekers and visitors use this website in order to improve our services. We do not use information gained in this manner in a way that any individual can be identified, and will use it to understand our users better, and to determine aggregate trends, most popular pages, etc, for all the website’s users. We may share this kind of aggregate data with selected third parties to assist with these purposes where you have consented to this. We may also undertake marketing profiling to help us identify services or jobs which may be of interest to you.
 
 ### Cookies
 
@@ -124,4 +124,4 @@ Any changes to this Privacy Policy will be posted on this website so you are alw
 * * *
 
   
-© Hays Specialist Recruitment 2000 - 2017. All rights reserved.
+© Hays Specialist Recruitment 2000 - 2019. All rights reserved.
