@@ -1,65 +1,102 @@
-> *The following text is extracted and transformed from the einstruction.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405112341id_/https%3A//www.turningtechnologies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einstruction.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606101620id_/https%3A//www.turningtechnologies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Turning Technologies
 
-Turning Technologies, LLC (“Turning”) has created this privacy statement to demonstrate its commitment to privacy. The following discloses our information gathering and dissemination practices for Turning’s website located at [www.TurningTechnologies.com](https://web.archive.org/) (the “Website”). By accessing and/or using the Website, you consent to the collection, use and disclosure of your information, including your personally identifiable information, by Turning in accordance with the terms of our Privacy Policy in effect at that time. Please also see the Website'sTerms of Use [http://www.turningtechnologies.com/termsofuse/](https://web.archive.org/termsofuse) for other terms and conditions governing your use of the Website. You acknowledge that we have the right, at our sole discretion, to modify any terms or conditions of this Privacy Policy without notice to you. Any modifications to this Privacy Policy will be effective immediately following the posting of such changes on the website. For this reason, we encourage you to review this Privacy Policy on a periodic basis.
+Turning Technologies, LLC (“Turning”) has created this privacy statement to demonstrate its commitment to privacy and the transparency of personal data processing.  This statement discloses our information gathering and dissemination practices.  By accessing and/or using Turning’s website and products, you consent to the collection, use and disclosure of your information, including your personally identifiable information as described in this document.
 
-Turning is headquartered in the United States at 255 West Federal Street, Youngstown, OH 44503. As discussed below, Turning complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
+**Lawful Basis for Processing Your Data:**
 
-### **Information Collected by Turning; Use; Disclosure**
+Turning will process your personal data based on the following Legal Basis for Processing according to Article 6 of the European General Data Protection Regulation (GDPR):
 
-Our registration forms may require you to give us contact information (such as your name and email address) and demographic information (such as your zip code, country, or industry). If you choose to register, you agree to give us accurate and current information about yourself. We may use personally identifiable information that you provide on the registration form to send information to you, for example, information about our company and products. Your personally identifiable information may also be used to contact you when necessary or desirable. You may opt-out of receiving information; please see the Choice/Opt-out section below. We may collect demographic and profile data through the Website. We may use this data to tailor your experience on the Website (for example, to provide content that we think you may be interested in and display the content according to your preferences). Turning may use cookies. A cookie is a small data file that attaches to your hard drive when you visit the Website. Furthermore, our servers may automatically record information that your browser sends when you visit the Website, and we may provide third party links in a format that enable us to keep track of whether the links have been followed. We may use this information, including your IP address, to track user traffic patterns, to help diagnose problems with our server, and to administer the Website. Turning may share your personally identifiable information and/or aggregate information with our affiliates, business partners, the media (for press releases), third parties performing functions on our behalf, and/or a third party that acquires ownership or control of our business. We may also disclose information if we believe in good faith that it is required by law, to prevent a crime or protect the rights of third parties, or to enforce the Terms of Use or Privacy Policy. Turning may transfer your information for various purposes, including, without limitation, to administer the Website, process your requests, provide you with information and customized content, and for purposes relating to business development, direct marketing, and market research and analysis. Information, suggestions, and comments received by Turning shall be deemed to be non-confidential. Turning shall be free to reproduce, use, disclose and distribute such information to others without limitation. If you use or post content on any public area on the Website, you should be aware that any information, including personally identifiable information, that you submit there can be read, collected, or used by other users of the Website, and may be used to send you unsolicited messages. Turning is not responsible for loss of privacy or any claim relating to the information you choose to submit by these means.
+  * Consent: you have given consent for the processing of your personal data for a specific purpose. If you reside in a country governed by GDPR, then you must actively “opt in” for Turning to have your consent.  Regardless of where you reside, you always have the right to “opt out” at any time.
+  * Legitimate interests: the processing is necessary for the legitimate interests of Turning as we work with your organization to provide you the services.
 
-### **Security**
 
-The Websitehas security measures in place to protect the loss, misuse and alteration of the information under our control. However, the transmission of information over the Internet or other publicly accessible networks is not secure, and is subject to possible loss, interception or alteration while in transit. Accordingly, we do not assume any liability for any damage you may experience or costs you may incur as a result of any transmissions over the Internet or other publicly accessible networks, such as the submission of any of your personally identifiable information to us.
 
-### **Use by Children**
+**Types of Personal Data Collected:**
 
-We do not intend to collect any personally identifiable information from children through the Website. Individuals under eighteen (18) should consult with a parent or guardian about the use of the Website.
+In the course of setting up an account or completing a form via our website, Turning may collect the following personal information as you provide it to us:
 
-### **Supplemental Information**
+–  Name
 
-The Websitemay supplement the information that you provide with information that is received from third parties to provide you with a better experience.
+–  Email
 
-### **Updating Information**
+–  Phone
 
-Any user who desires to review, amend or correct information relating to them, or has questions about their personal information submitted to Turning, should contact us at [info@turningtechnologies.com](mailto:info@turningtechnologies.com).
+–  Industry
 
-### **Choice/Opt-Out**
+–  Role
 
-Our emails provide users the opportunity to opt-out of receiving Turning’s communications. We will implement requested changes within ten days of the receipt of a request. In addition, visitors may contact us at anytime by sending an email to: [info@turningtechnologies.com](mailto:info@turningtechnologies.com) or calling us toll-free at 1-866-746-3015. If you contact us directly, please let us know which kind of information you would no longer like to receive.
+–  Organization name
 
-### **Information for Website Visitors from outside the United States (including US-EU and US-Swiss Safe Harbor information)**
+–  Country
 
-Turning complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Turning has certified that it adheres, where applicable, to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Turning’s certification, please visit <http://www.export.gov/safeharbor/>. The list of certified companies is available here: <https://safeharbor.export.gov/list.aspx>.
+–  Postal code
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Turning commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this Policy should first contact Turning at:
+–  We may also collect information when you voluntarily complete customer surveys, or provide feedback to us.
 
-Privacy Director  
+**Purposes of Personal Data Collection and Use:**
+
+In order for you to set up an account and use our response technologies, you need to provide Turning with certain personal information that can associate you with your specific account.
+
+**Your Rights Regarding Personal Data Provided to Turning:**
+
+  1. The right to be informed – meaning Turning must make clear what they are processing, why, and who else the data may be passed to.
+  2. The right of access – which is your right to see what data is held about you by Turning.
+  3. The right to rectification – which is your right to have your data corrected or amended if what is held is incorrect in some way.
+  4. The right to erasure – which is your right, under certain circumstances, to ask for your personal data to be deleted. This is also called ‘the Right to be Forgotten’. This would apply if the personal data is no longer required for the purposes it was collected for, or your consent for the processing of that data has been withdrawn, or the personal data has been unlawfully processed.
+  5. The right to restrict processing – which gives you the right to ask for a temporary halt to Turning’s processing of personal data, which may impact your ability to use our software
+  6. The right to data portability – which is your right to ask for any personal data supplied to Turning, to be provided in a structured, commonly used, and machine-readable format.
+  7. The right to object – which is your right to object to further processing of their data which is inconsistent with the primary purpose for which it was collected, including profiling, automation, and direct marketing.
+  8. The right to consent and withdraw consent related to how your personal data is used.
+  9. The right to lodge a complaint with a supervisory authority.
+
+
+
+These access rights may not apply in some cases, including where providing access is unreasonably burdensome or expensive under the circumstances or where it would violate the rights of someone other than the individual requesting access. If you would like to request access to, correction, amendment, or deletion of your personal data, you may request a data access form at [privacy@turningtechnologies.com](mailto:privacy@turningtechologies.com).  We may request specific information from you to confirm your identity. Requests will be responded to without delay and within one month of request being submitted. In some circumstances we may charge a reasonable fee for access to your information. You have the right to receive your personal data in a structured, commonly used and machine-readable format.
+
+**Data Sharing:**
+
+We may share information with third party data processors acting on our behalf to provide you with services in connection with your account with us.  Turning will enter into data processing agreements with any such third parties consistent with the requirements of the GDPR.
+
+**Data Retention:**
+
+Turning will retain the personal data that we collect about you for as long as necessary for the purposes set out in the Turning Technologies Policy. Please be aware that we may also be required to retain your personal data for legal and accounting reasons.
+
+**Use By Children:**
+
+We do not intend to collect personally identifiable information from children through the Website. If you are considered a minor as defined in your jurisdiction (i.e., country, state or territory), you should consult with a parent or guardian about the use of the Website.
+
+**Security:**
+
+Turning maintains reasonable and appropriate security measures to protect personal data from loss, misuse, unauthorized access, disclosure, alteration, or destruction in accordance with the GDPR.
+
+**Marketing Communications:**
+
+Turning may use the personal data that you provide through an online form to send information to you, for example, information about our company and products. Your personal data may also be used to contact you when necessary or desirable. You may opt-out of receiving marketing information.
+
+Our emails provide users the opportunity to opt-out of receiving Turning’s marketing communications. Please keep in mind that, even if you choose not to receive marketing communications, you will continue to receive account communications related to services or products that you are using (e.g. purchase confirmation and receipts) and/or important product and legal updates related to those services and products.
+
+**Cookies:**
+
+Turning may use cookies. A cookie is a small data file that attaches to your hard drive when you visit our website.  This is a very common practice with websites and the cookies we use cannot harm your computer in any way.  We may use this data to tailor your experience on the Website (for example, to provide content that we think you may be interested in and display the content according to your preferences).  If you wish to remove these cookies from your computer, or to disable the use of cookies completely, you can do this at any time via the settings in your browser. Please be aware that this may adversely affect other functionality on the website as well as the functionality of our software.
+
+**General Information:**
+
+Turning Technologies, LLC is headquartered in the United States at 255 West Federal Street, Youngstown, OH 44503.  Any questions or concerns regarding this document and your privacy rights may be directed to:
+
+Data Protection Officer  
 Turning Technologies, LLC  
 255 West Federal Street  
-Youngstown, OH 44503 
-
-Toll Free Phone: 1-866-746-3015  
-Phone: (330) 746-3015  
-Fax: (330) 746-6863  
-Email: [info@turningtechnologies.com](mailto:info@turningtechnologies.com)
-
-Turning has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the JAMS Safe Harbor Program. If you do not receive timely acknowledgment of your complaint by Turning, or if your complaint is not satisfactorily addressed by Turning, please visit the JAMS Safe Harbor web site at http://www.jamsadr.com/file-safe-harbor-claim/ for more information and to file a complaint.
-
-The personal and non-personal information that Turning collects through or in connection with the Services is transferred to and processed in the United States for the purposes described above. Turning also may subcontract the processing of your data to, or otherwise share your data with, affiliates or third parties in the United States or countries other than your country of residence. The data-protection laws in these countries may be different from, and less stringent than, those in your country of residence. By using the Services or by providing any personal or non-personal information to Turning, you expressly consent to such transfer and processing.
-
-### **Contacting the Website**
-
-If you have any questions about this privacy statement, the practices of the Website, or your experience with the Website, you can contact us as follows:
-
-Turning Technologies, LLC   
-255 West Federal Street   
 Youngstown, OH 44503
 
-Toll Free Phone: 1-866-746-3015   
-Phone: (330) 746-3015   
-Fax: (330) 746-6863
+Email: [privacy@turningtechnologies.com](mailto:privacy@turningtechologies.com)
 
-Email: [info@turningtechnologies.com](mailto:info@turningtechnologies.com) 
+Turning Technologies, LLC is registered with the Information Commissioner’s Office as our Supervisory Authority.  Concerns about our efforts to maintain your privacy in the EU can be directed to:
+
+The Information Commissioner’s Office – Northern Ireland  
+14 Cromac Place,   3rd Floor  
+Belfast  
+BT7 2JB  
+Telephone: 028 9027 8757 / 0303 123 1114  
+Email: [ni@ico.org.uk](mailto:ni@ico.org.uk)
