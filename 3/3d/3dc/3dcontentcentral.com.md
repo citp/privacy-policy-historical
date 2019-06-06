@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dcontentcentral.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225132729id_/http%3A//3dcontentcentral.com/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dcontentcentral.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606023642id_/http%3A//www.3dcontentcentral.com/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # 3D ContentCentral - Free 3D CAD Models, 2D Drawings, and Supplier Catalogs
 
