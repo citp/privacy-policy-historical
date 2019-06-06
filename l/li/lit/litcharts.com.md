@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the litcharts.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230092611id_/https%3A//www.litcharts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litcharts.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606024425id_/https%3A//www.litcharts.com/privacy) for the most accurate reproduction.*
 
 # LitCharts | Privacy Policy
 
-Last modified: May 22, 2018 
+Last modified: April 22, 2019 
 
-This Privacy Policy describes how LitCharts LLC collects and uses Personal Data about you through the use of our website (www.litcharts.com), mobile applications, and through email, text, and other electronic communications between you and LitCharts. LitCharts LLC respects your privacy and are committed to protecting it through our compliance with this policy. We use "LitCharts" or "we" to refer to LitCharts LLC throughout this policy. 
+This Privacy Policy describes how LitCharts LLC collects and uses Personal Data about you through the use of our website (www.litcharts.com), mobile applications, and through email, text, and other electronic communications between you and LitCharts. LitCharts LLC respects your privacy and we are committed to protecting it through our compliance with this policy. We use "LitCharts" or "we" to refer to LitCharts LLC throughout this policy. 
 
   1. Introduction 
   2. Data Controller, Data Protection Officer, and Representative 
@@ -70,7 +70,7 @@ We collect different types of information about you, including information that 
 We collect several types of information from and about users of our Online Interfaces, specifically information: 
 
   * by which you may be personally identified. Specifically, this is your name, e-mail address, telephone number, username, credit card or other payment information (including account number, expiration date, security code, billing address, and payment processor identification code);
-  * that is about you but individually does not identify you. Specifically, we collect your birthday and customer type (i.e. teacher, student, general interests, reader, librarian, and or parent); and
+  * that is about you but individually does not identify you. Specifically, we collect your birthday, customer type (i.e. teacher, student, general interests, reader, librarian, and or parent), country and state; and
   * about your internet connection, the equipment you use to access our Online Interfaces and usage details.
 
 
@@ -122,7 +122,7 @@ Details about the automated data collection technologies and the specific cookie
 
 How the law allows us to process your Personal Data, including processing for our legitimate interests (when balanced against your rights and freedoms), to fulfill our obligations to you under a contract with you, and required by law, and with your consent. 
 
-If you are in the European Union, the processing of your Personal Data is lawful only if it is permitted under the applicable data protection laws. We have a lawful basis for each of our processing activities (except when an exception applies as described below): 
+If you are in the European Economic Area ("EEA"), the processing of your Personal Data is lawful only if it is permitted under the applicable data protection laws. We have a lawful basis for each of our processing activities (except when an exception applies as described below): 
 
 **Consent.** By using our Online Interfaces, you consent to our collection, use, and sharing of your Personal Data as described in this privacy policy. If you do not consent to this privacy policy, please do not use the Online Interfaces; 
 
@@ -153,7 +153,7 @@ We use information that we collect about you or that you provide to us, includin
   * to present our Online Interfaces and their contents to you;
   * to provide you with information, products, or services that you request from us;
   * to fulfill any other purpose for which you provide it;
-  * to provide you with notices about your subscription, including expiration and renewal notices;
+  * to provide you with notices about your free registered user account or paid subscription account, including expiration and renewal notices;
   * to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
   * to notify you about changes to our Online Interfaces or any products or services we offer or provide though them;
   * in any other way we may describe when you provide the information; and
@@ -161,7 +161,7 @@ We use information that we collect about you or that you provide to us, includin
 
 
 
-With your consent, we may also use your information to contact you about our own goods and services that may be of interest to you. When you sign up for an account on our Online Interfaces, you can choose to opt in to consent to this use. If you wish to change your choice, you may do so at any time by logging into the Online Interface and adjusting your user preferences in your account settings page or by using our [GDPR Request Form](https://web.archive.org/privacy/gdpr-request). For more information, see Choices About How We Use and Disclose Your Information. 
+With your consent, we may also use your information to contact you about our own goods and services that may be of interest to you. Users in the EEA can choose to opt in to consent to this use when signing up for a free or paid subscription account on our Online Interfaces. All users--in the European Union and elsewhere--have the option to opt out of receiving marketing communications from us. If you wish to change your choice, you may do so at any time by logging into the Online Interface and adjusting your user preferences in your account settings page or by using our [GDPR Request Form](https://web.archive.org/privacy/gdpr-request). For more information, see Choices About How We Use and Disclose Your Information. 
 
 ##  9\. Disclosure of Your Information 
 
@@ -191,11 +191,13 @@ We may also disclose your Personal Data:
 
 Your options for controlling the data we store about you. 
 
-We offer you choices on how you can opt out disclosure of your Personal Data for our advertising to you. We do not control the collection and use of your information collected by third parties described above in Disclosure of Your Information. When possible, these organizations are under contractual obligations to use this data only for providing the services to us and to maintain this information on a strictly confidential basis. These third parties may, however, aggregate the information they collect with information from their other customers for their own purposes. 
+We offer you choices on how you can opt out of disclosure of your Personal Data for our advertising to you. We do not control the collection and use of your information collected by third parties described above in Disclosure of Your Information. When possible, these organizations are under contractual obligations to use this data only for providing the services to us and to maintain this information on a strictly confidential basis. These third parties may, however, aggregate the information they collect with information from their other customers for their own purposes. 
 
 In addition, we strive to provide you with choices regarding the Personal Data you provide to us. We have created mechanisms to provide you with control over your Personal Data: 
 
-**Promotional Offers from LitCharts.** We will only use your contact information to promote our own or third parties’ products and services with your express consent. If you wish to consent to such use, you can check the relevant box located on the form on which we collect your Personal Data or otherwise seek such consent. If you wish to change your choice, you may do so at any time by logging into the Online Interfaces and adjusting your user preferences on your Account Settings page or by using our [GDPR Request Form](https://web.archive.org/privacy/gdpr-request). If we have sent you a promotional email, you may unsubscribe from future email distributions by clicking the unsubscribe link at the bottom of the email. This opt out does not apply to information provided to LitCharts as a result of a product purchase, product service experience, or other transactions. 
+**Promotional Offers from LitCharts.** For users in the EEA, pursuant to the GDPR we will only use your contact information to promote our own or third parties’ products and services with your express consent. If you wish to consent to such use, you can check the relevant box located on the form on which we collect your Personal Data or otherwise seek such consent. For users not in the EEA, you consent to receive promotional offers from us or third parties by agreeing to our Terms of Service upon signing up for a free registered user account or paid subscription account. 
+
+If you wish to change your choice, all users may do so at any time by adjusting your user preferences on your Account Settings page or by using our [GDPR Request Form](https://web.archive.org/privacy/gdpr-request). If we have sent you a promotional email, all users may unsubscribe from future marketing email communications by clicking the unsubscribe link at the bottom of the email. This opt out does not apply to information provided to LitCharts as a result of a product purchase, product service experience, or other transactions. It also does not apply to transactional non-marketing emails required to provide our services or communicate with you about your account. 
 
 ##  11\. Your Rights Regarding Your Information and Accessing and Correcting Your Information 
 
@@ -217,7 +219,7 @@ Applicable data protection laws may provide you with certain rights with regards
 
 **Complaints.** You have the right to lodge a complaint with the applicable supervisory authority in the country you live in, the country you work in, or the country where you believe your rights under applicable data protection laws have been violated. However, before doing so, we request that you contact us using the Contact Information below directly in order to give us an opportunity to work directly with you to resolve any concerns about your privacy. 
 
-**How You May Exercise Your Rights.** You may exercise any of the above rights by contacting us through any of the methods below. If you contact us to exercise any of the foregoing rights, we may ask you for additional information to verify your identity. We reserve the right to limit or deny your request if you have failed to provide sufficient information to verify your identity or to satisfy our legal and business requirements. 
+**How You May Exercise Your Rights.** You may exercise any of the above rights by contacting us. If you contact us to exercise any of the foregoing rights, we may ask you for additional information to verify your identity. We reserve the right to limit or deny your request if you have failed to provide sufficient information to verify your identity or to satisfy our legal and business requirements. 
 
 ##  12\. Your California Privacy Rights 
 
@@ -241,11 +243,11 @@ The safety and security of your information also depends on you. Where we have g
 
 Unfortunately, the transmission of information via the Internet is not completely secure. Although we do our best to protect your Personal Data, we cannot guarantee the security of your Personal Data transmitted to our Online Interfaces. Any transmission of Personal Data is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Online Interfaces. 
 
-##  15\. Consent to Processing of Personal Data In Other Countries Outside the European Economic Area 
+##  15\. Consent to Processing of Personal Data In Other Countries Outside the European Economic Area (EEA) 
 
 We may process your Personal Data outside of your home country, including to the United States. We only do this when we are legally permitted to do so and when we have appropriate safeguards in place to protect your Personal Data. 
 
-If you are a resident of the European Economic Area ("EEA"), in order to provide our Online Interfaces, products, and services to you, we may send and store your Personal Data outside of the EEA, including to the United States. Accordingly, your Personal Data may be transferred outside the country where you reside or are located, including to countries that may not or do not provide an adequate level of protection for your Personal Data. 
+If you are a resident of the EEA, in order to provide our Online Interfaces, products, and services to you, we may send and store your Personal Data outside of the EEA, including to the United States. Accordingly, your Personal Data may be transferred outside the country where you reside or are located, including to countries that may not or do not provide an adequate level of protection for your Personal Data. 
 
 Your Personal Data is transferred by LitCharts to another country only if it is required or permitted under applicable data protection law and provided that there are appropriate safeguards in place to protect your Personal Data. By using our Online Interfaces, you represent that you have read and understood the above and hereby consent to the storage and processing of Personal Data that you provide directly to us on our Online Interfaces. To ensure your Personal Data (other than Personal Data you provide directly to us on our Online Interfaces) is treated in accordance with this Privacy Policy, LitCharts uses Data Protection Agreements between LitCharts and all other recipients of your data that include, where applicable, the Standard Contractual Clauses adopted by the European Commission (the "Standard Contractual Clauses"). The European Commission has determined that the transfer of Personal Data pursuant to the Standard Contractual Clauses provides for an adequate level of protection of your Personal Data. Under these Standard Contractual Clauses, you have the same rights as if your data was not transferred to such third party. You may request a copy of our Data Protection Agreement(s) by [contacting us](https://web.archive.org/contact). 
 
