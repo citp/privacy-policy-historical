@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govloop.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230234546id_/https%3A//www.govloop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govloop.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606042439id_/https%3A//www.govloop.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -35,13 +35,13 @@ This privacy statement is provided in a layered format so you can click through 
 
 ### 2\. Contact Us
 
-If you have any questions about this statement or if you would like to exercise any rights you may have in relation to your personal data, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4821262e27082f273e24272738662b2725). If you have additional questions or need to escalate an issue, use the below details for our Data Protection Officer (DPO).
+If you have any questions about this statement or if you would like to exercise any rights you may have in relation to your personal data, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#99f0f7fff6d9fef6eff5f6f6e9b7faf6f4). If you have additional questions or need to escalate an issue, use the below details for our Data Protection Officer (DPO).
 
 Full name of legal entity: Granicus, LLC, as described above
 
 Name of DPO: Gerry Hansen
 
-Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9ffbeff0dff8edfef1f6fceaecb1fcf0f2)
+Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6c081c032c0b1e0d02050f191f420f0301)
 
 Postal address: 408 St. Peter Street, Suite 600, St. Paul, MN 55102, USA
 
@@ -143,7 +143,7 @@ To determine the appropriate retention period for the information we collect fro
 
 ### 12\. Data Subject Rights
 
-To exercise any of the following rights, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cca5a2aaa38caba3baa0a3a3bce2afa3a1). If you need to escalate a matter or feel that your issue is unresolved, please contact our DPO. You may also exercise some of these rights by visiting GovLoop’s website to access and edit your information, or delete your profile: https://www.govloop.com/members/{your username}/
+To exercise any of the following rights, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a8c1c6cec7e8cfc7dec4c7c7d886cbc7c5). If you need to escalate a matter or feel that your issue is unresolved, please contact our DPO. You may also exercise some of these rights by visiting GovLoop’s website to access and edit your information, or delete your profile: https://www.govloop.com/members/{your username}/
 
 Removing your profile/account from GovLoop.com does not delete your data from our marketing database. If you wish to remove this data, send a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
@@ -198,7 +198,7 @@ You have the right to receive your personal data in a structured, commonly used 
 
 **12.7 Right to Revoke Consent**
 
-If you have consented to the processing of your personal data via the explicit checkbox located on forms on landing pages, you have the right to revoke such consent by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e48d8a828ba4838b92888b8b94ca878b89) at any time. The checkbox will only appear for individuals who reside in countries within the EU. Individuals from any country can request to delete their data the same way – by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6801060e07280f071e04070718460b0705). However, if you withdraw your consent, this will not affect the lawfulness of any processing carried out before you withdraw your consent.
+If you have consented to the processing of your personal data via the explicit checkbox located on forms on landing pages, you have the right to revoke such consent by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d44434b426d4a425b4142425d034e4240) at any time. The checkbox will only appear for individuals who reside in countries within the EU. Individuals from any country can request to delete their data the same way – by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bad3d4dcd5faddd5ccd6d5d5ca94d9d5d7). However, if you withdraw your consent, this will not affect the lawfulness of any processing carried out before you withdraw your consent.
 
 **12.8 Right to Make a Complaint**
 
