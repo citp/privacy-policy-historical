@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almanaralink.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022144527id_/http%3A//www.almanaralink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almanaralink.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606180838id_/http%3A//www.almanaralink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Almanara Link
 
