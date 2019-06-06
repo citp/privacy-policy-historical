@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vectorvest.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101194542id_/https%3A//www.vectorvest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorvest.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606164110id_/https%3A//www.vectorvest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - VectorVest
+# Privacy Policy – VectorVest
 
 This privacy policy applies to personal information and data collected at the www.vectorvest.com website, and to personal information and data collected by VectorVest, Inc. (“VectorVest”) for its courses, training, software, research, subscription services, free trials, marketing, and all other products and services it offers on its own or may offer on behalf of third parties including at additional websites (collectively the “Services”). VectorVest is committed to protecting the privacy of users of the Services. VectorVest does however gather certain types of information about the users of the Services and wants users to fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for the Services.
 
