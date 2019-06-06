@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbspu.ac.in privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206112736id_/http%3A//www.vbspu.ac.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbspu.ac.in privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606103851id_/http%3A//www.vbspu.ac.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : : Veer Bahadur Singh Purvanchal University Jaunpur
 
