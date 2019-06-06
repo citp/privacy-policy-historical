@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the samharris.org privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201085451id_/https%3A//samharris.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samharris.org privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606204045id_/https%3A//samharris.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sam Harris
 
-Last Updated: July 15, 2016
+Last Updated: March 7, 2019
 
 Four Elephants Media (“the Organization,” or “we,” “us,” “our”) respect your concerns about privacy and value our relationship with you. This Privacy Policy (“Policy”) applies solely to information collected through the web sites, web pages, interactive features, applications, and their respective contents at SamHarris.org and the “Waking Up” application, whether accessed via computer, mobile device or other technology (collectively, the “Services”).
 
@@ -58,7 +58,7 @@ Legal Disclosure. We may transfer and disclose information, including your Perso
 
 ### **5\. YOUR CALIFORNIA PRIVACY RIGHTS**
 
-We do not share your Personal Information with third parties for their marketing purposes.
+If you are a California resident, California Civil Code Section 1798.83 provides you with the right to request certain information regarding disclosure of your Personal Information to third parties for direct marketing purposes, including a description of the categories of Personal Information disclosed. We do not share your Personal Information with third parties for their marketing purposes.
 
 ### **6\. YOUR ACCESS AND CHOICES**
 
