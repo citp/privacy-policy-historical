@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netaffiliation.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223183220id_/http%3A//en.netaffiliation.com/privacy/netaffiliation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netaffiliation.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606032804id_/http%3A//en.netaffiliation.com/privacy/netaffiliation-privacy-policy) for the most accurate reproduction.*
 
 # Contact us - Netaffiliation
 
