@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinkl.co.uk privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005201342id_/https%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinkl.co.uk privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606072842id_/https%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Twinkl User Privacy & Data Protection Policies
 
@@ -18,11 +18,13 @@ We ask that you continue to support and promote our hard work and beautiful teac
 
 Jon
 
-We ask that you read this privacy policy carefully as it contains important details about what personal data Twinkl Ltd. (also referred to as "we," "us" or "our") collects and processes when you use our services, including the choices we offer you to access, maintain and control it.
+**Last revised on 30th January 2019**
+
+We ask that you read this Privacy Policy carefully as it contains important details about what personal data Twinkl Ltd. (also referred to as "we," "us" or "our") collects and processes when you use our services, including the choices we offer you to access, maintain and control it.
 
 ## 1\. Your Twinkl Account and Service Data
 
-1.1. When you register for and use our services, we will collect and process your personal data, supplied by you, in order to be able to provide our services to you.  Below is a table to inform you clearly of:
+1.1. When you register for and use our services or sign up to our competitions or free giveaways, we will collect and process your personal data, supplied by you, in order to be able to provide our services, competitions, giveaways, prizes and gifts to you.  Below is a table to inform you clearly of:
 
   1. What personal data we collect on registration;
   2. The purposes for processing;
@@ -49,7 +51,7 @@ Email address
   * To manage registration, perform account management and provide customer services
   * To identify you within our services and service usage
   * Administrative (i.e. financial, legal and regulatory compliance)
-  * To contact you about products, events and services
+  * To contact you about products, events, services, prizes, gifts and free giveaways
   * Security
 
 | 
@@ -128,7 +130,7 @@ First and Last Name
   * Provide a delivery service for goods purchased, record keeping & prevention of crime
   * Service personalisation and service improvement
   * Security
-  * To contact you about products, events and services
+  * To contact you about products, events, services, prizes, gifts and free giveaways
 
 | 
 
@@ -138,7 +140,8 @@ Full Address
 
 | 
 
-  * Provide a delivery service for goods purchased, record keeping & prevention of crime
+  * Provide a delivery service for goods purchased, prizes won and free gifts
+  * Record keeping & prevention of crime
   * Service personalisation and service improvement
   * Security
   * To contact you about products, events and services
@@ -268,6 +271,17 @@ Transactional Data
 
 Contractual obligation and legitimate interest  
   
+‘Create’ Resource Data
+
+| 
+
+  * Customer service
+  * To enable the creation of pictorial, photographic and word-based resources by you.
+
+| 
+
+Contractual and legitimate interest  
+  
 1.3. Where legitimate interest is the lawful basis of processing your personal data, the legitimate interests we are pursuing are as follows: -
 
   * Providing you any products or services you have requested;
@@ -300,7 +314,9 @@ Contractual obligation and legitimate interest
 
 4.1. We may use account, service and usage data to provide you with information about our products and services. Our purpose is to provide you with a service to help meet your needs. Our lawful basis for processing this data is consent. You are free to withdraw your consent at any time. The consequences might be however, that we cannot offer you certain things, such as offers and promotions or resource alerts, which may be beneficial to you.
 
-4.2.  You may change your preferences or opt-out at any time by either accessing ‘Your Contact Preferences’ within your Twinkl account or by unsubscribing from any Twinkl emails by using the 'unsubscribe' link at the end of the email received.
+4.2.  You may change your preferences or opt-out at any time by either accessing ‘Your Contact Preferences’ within your Twinkl account or by unsubscribing from Twinkl marketing emails by using the 'unsubscribe' link at the end of the email received. Please note that as a Twinkl user or subscriber you are unable to unsubscribe from customer service emails (such as service updates) as these are required to provide our service to you and the lawful basis of processing is contractual or legitimate interests depending on the circumstances.
+
+4.3. If you have signed up for a competition or free gift without being a service subscriber, you may opt-out at any time by using the unsubscribe link at the end of the email received. 
 
 ## 5\. Our Use Of Cookies and Stored Device Data
 
@@ -324,6 +340,8 @@ Remarket link = https://support.google.com/adwords/answer/1752338 
 Adword link = https://adssettings.google.com/authenticated 
 
 5.4 We use Adwords re-marketing to attract you back to our website with content that may be of interest to you. To do this we advertise using Google search and Google recommended websites. Google uses cookies to track your activity and show you adverts that may be of interest to you and they use this data to show you relevant messages. You are able to opt out of Google using cookies by visiting Google's Ads Settings or third-party vendors.
+
+5.5 We use the reCAPTCHA v3 service provided by Google Inc. (Google). This service checks if you are a person in order to prevent spam and abuse of our website. The service places a cookie on your computer that communicates information such as how many mouse clicks you have made, what other Google cookies you have on your computer and the language your browser is set to verify that you are a person, not a robot. Your use of reCAPTCHA v3 is subject to Google's [Privacy Policy](https://policies.google.com/privacy?hl=en) and [Terms of Use](https://policies.google.com/terms?hl=en). 
 
 ## 6\. How We Protect Your Personal Data
 
@@ -428,13 +446,15 @@ https://ico.org.uk/for-the-public/raising-concerns/
 
 9.1. We retain personal data for as long as we reasonably require it for legal or business purposes. When determining data retention periods, we take into consideration applicable laws, contractual obligations and the expectations and requirements of our customers. When we no longer need personal data, we securely delete or destroy it.
 
+9.2. If you have signed up for competitions and/or free giveaways and are not registered for and use our services, data will be retained for 30 days after the prizes or giveaways have been dispatched unless you have consented to being contacted for more information on Twinkl services or for receiving marketing emails. 
+
 ## 10\. Sale Of Business
 
 10.1. If Twinkl Ltd. is sold or integrated with another business your personal data may be disclosed to our advisers, or any prospective purchasers and their advisers, and will be passed on to the new owners of the business.
 
 ## 11\. Your Consent
 
-11.1. By using or interacting with our service, you are consenting to:
+11.1. By using or interacting with our service, or by signing up to competitions and free giveaways, you are consenting to:
 
   * the use of cookies and other technologies;
   * the transfer of your data outside of the country where you live;
@@ -454,5 +474,3 @@ https://ico.org.uk/for-the-public/raising-concerns/
 ## 13\. Changes to this Policy
 
 13.1. We keep this policy under regular review. If we change the content of our Privacy Policy we will post the changes on this page.
-
-Last updated September 2018
