@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mims.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117141929id_/http%3A//policy.mims.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mims.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606084854id_/http%3A//policy.mims.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ To the extent that any of the communication means which you have provided MIMS (
   9. **Amendment to this Privacy Policy** ****  
 Except to the extent limited by applicable law, this Privacy Policy may be amended or revised at any time, and by prominently posting notice of the amendment on the Site. The amendment of this Privacy Policy shall come into force at the time that the amended Privacy Policy is displayed on the Site.
   10. **Inquiries** ****   
-If you wish MIMS to correct, amend or delete your information acquired by MIMS, or if you have any inquiries or concerns concerning MIMS, the Site, Services or privacy, please send your message to [webmaster@mims.com](mailto:webmaster@mims.com)
+If you wish MIMS to correct, amend or delete your information acquired by MIMS, or if you have any inquiries or concerns concerning MIMS, the Site, Services or privacy, please send your message to [enquiry.mims@mims.com.](mailto:enquiry.mims@mims.com.)
   11. **Governing Law**  
 This Privacy Policy shall be governed by the laws of the Republic of Singapore. All disputes, arguments or disagreements arising between the parties arising out of or in connection with the Terms of Use shall be referred to and finally resolved by arbitration in the Republic of Singapore in accordance with the arbitration rules of the Singapore International Arbitration Centre. The arbitration proceedings shall be in English, and the number of arbitrators shall be one (1) arbitrator.
 
