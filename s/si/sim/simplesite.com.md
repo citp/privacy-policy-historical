@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplesite.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225230525id_/http%3A//www.simplesite.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplesite.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606165418id_/http%3A//www.simplesite.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | SimpleSite
 
@@ -111,6 +111,7 @@ PayPal  | Payment platform  | PayPal  | <https://www.paypal.com/us/webapps/mpp/u
 Facebook Attribution  | Marketing performance  | Facebook  | <https://www.facebook.com/privacy/explanation>  
 Facebook login  | Login integration  | Facebook  | <https://www.facebook.com/privacy/explanation>  
 Google+ Login  | Login integration  | Google  | <https://policies.google.com/privacy?hl=en>  
+Propeller Ads  | Marketing performance | Propeller Ads  | <https://propellerads.com/privacy/>  
   
 ICANN regulations regarding domain registration: 
 
