@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejournal.ie privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211153248id_/http%3A//www.thejournal.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejournal.ie privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607001933id_/https%3A//www.thejournal.ie/privacy) for the most accurate reproduction.*
 
 # TheJournal.ie - Read, Share and Shape the News
 
@@ -13,6 +13,8 @@
 * The Site interfaces social media websites such as Facebook and Twitter, and may use social media plugins (e.g., the Facebook "Like" button, '"Share to Twitter"' button) to facilitate social media functions. 
 
 * If you are a member of a social media platform or website, and log in to such social media or platform, the interfaces may allow the social media platform or website to connect your visit to a Site to your Personal Data. The social media plugins also may allow the social media website to share information about your activities on a Site with other users of their social media platform. We have no control over the information that other websites or social media websites or plugins collect, store, or use. Before you choose to access other websites from a Site or “like” or share information from a Site through any social media platform or website, please be certain that you review the privacy notice of that social media platform or website.
+
+* Noteworthy funds proposals through a third party site, GoFundMe.com. Please be aware that donors names are published unless you request that your donation be kept anonymous. More information on donating anonymously through GoFundMe.com can be found [here](https://support.gofundme.com/hc/en-us/articles/203687114-Donating-Anonymous). GoFundMe Privacy Policy can be found [here](https://www.gofundme.com/privacy).
 
 **Do we disclose Personal Data to anyone else?**
 
