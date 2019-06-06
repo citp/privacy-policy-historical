@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the freepngimg.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154454id_/http%3A//freepngimg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepngimg.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606170100id_/https%3A//freepngimg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FreePNGImg
 
-[Home](https://web.archive.org/) > Privacy Policy
-
-  
-
-
-## Privacy policy
+* * *
 
 The owners and operators of FreePNGimg.com take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
