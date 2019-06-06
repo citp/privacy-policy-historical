@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overcast.fm privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219101744id_/https%3A//overcast.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overcast.fm privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606203301id_/https%3A//overcast.fm/privacy) for the most accurate reproduction.*
 
 # Overcast
 
@@ -20,7 +20,11 @@ If you upload files to Overcast, we need to store them until you delete them.
 
 If you subscribe to a password-protected podcast, we need to store the credentials you provide in order to keep it updated.
 
-We use cookies on the site and similar tokens in the app to keep you logged in. Our server software also stores basic technical information, such as your IP address.
+We use cookies on the site and similar tokens in the app to keep you logged in. Our server software may also store basic technical information, such as your IP address, in temporary memory or logs.
+
+### **Cloudflare**
+
+For performance and overload protection, we direct your traffic through Cloudflare before it reaches Overcast’s servers. They have access to some basic technical information to perform this role, such as your IP address. [Cloudflare’s privacy policy is here](https://www.cloudflare.com/privacypolicy/).
 
 ### **Twitter accounts**
 
@@ -95,5 +99,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
   * **February 28, 2017:** Added EU and international-transfer sections.
   * **March 13, 2018:** Added password-protected podcast support.
   * **March 16, 2018:** Edited various sections for clarity and brevity.
+  * **December 28, 2018:** Added Cloudflare information.
 
 
