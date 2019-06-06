@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgburn.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230020517id_/http%3A//imgburn.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgburn.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606103206id_/http%3A//imgburn.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
 
 # The Official ImgBurn Website
 
