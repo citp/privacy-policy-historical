@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the displayninja.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003003417id_/https%3A//www.displayninja.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the displayninja.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606164221id_/https%3A//www.displayninja.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DisplayNinja
 
@@ -23,6 +23,12 @@ If you have an account and you log in to this site, we will set a temporary cook
 When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
 If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Push notifications
+
+DisplayNinja.com uses OneSignal to deliver notifications via your browser. By opting into these, you hereby agree that we may collect anonymized data and send you browser notifications. You can always opt-out by following this guide: <https://documentation.onesignal.com/docs/opt-out-of-web-push>
+
+The service is free to use for you and us, but in return, OneSignal Inc may sell anonymized data for research and advertising if you choose to opt in.
 
 ### Embedded content from other websites
 
@@ -64,4 +70,4 @@ DisplayNinja.com has no access to or control over these cookies that are used by
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. DisplayNinja.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites-
