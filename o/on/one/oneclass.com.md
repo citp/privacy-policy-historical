@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oneclass.com privacy policy that was archived on 2018-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180805234950id_/https%3A//oneclass.com/privacy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneclass.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606075602id_/https%3A//oneclass.com/privacy.en.html) for the most accurate reproduction.*
 
 # Privacy Policy - OneClass
 
 Last modified date: May 25, 2018
 
-The following policy describes how Notesolution Inc., also known as OneClass, collects, stores, uses or distributes personal data collected on our website, [www.oneclass.com. ](https://www.oneclass.com/) We only collect, use and disclose data reasonably required to enable us to provide our services to you, to maintain our customer and visitor lists or to respond to inquiries or feedback. 
+The following policy describes how Notesolution Inc., also known as OneClass, collects, stores, uses or distributes personal data collected on our website, [oneclass.com. ](https://oneclass.com/) We only collect, use and disclose data reasonably required to enable us to provide our services to you, to maintain our customer and visitor lists or to respond to inquiries or feedback. 
 
 Personal Data relates to information about an identified or identifiable individual. By using the OneClass website or our services, you consent to the collection and use of personal data as described in this Privacy Policy. 
 
