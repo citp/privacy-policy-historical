@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldseriesofpoker.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230153844id_/http%3A//www.wsop.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseriesofpoker.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606140558id_/http%3A//www.wsop.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # WSOP | Legal | Our Privacy Policy
 
@@ -16,9 +16,9 @@ If you prefer that we not share your personal information with Third Parties, pl
 
 * * *
 
-### CORPORATE PRIVACY POLICY 
+###  CORPORATE PRIVACY POLICY 
 
-We value you as a customer and take your personal privacy seriously. In the course of providing you with products and services, we may collect certain personal information that we understand may be considered private or confidential. We are therefore providing this Privacy Policy to explain our practices and policies for collecting, using and sharing information collected from or about you. In this Privacy Policy, terms such as "us" "we" and/or "our" refer to Caesars Entertainment Corporation and its subsidiaries and affiliates, the Total Rewards casinos and resorts owned, operated or managed by them or their affiliates (the full list is available at <https://www.totalrewards.com/casino-directory.html>) ("Total Rewards Casinos,"), Bill's Gamblin' Hall & Saloon, Caesars Interactive Entertainment, Inc., including but not limited to WSOP.com and their respective websites. This Privacy Policy does not apply to any properties that are not Total Rewards Casinos (other than to Bill's Gamblin' Hall & Saloon) or to Caesars affiliates or properties outside of the United States and the term "Total Rewards" refers to our Total Rewards® loyalty program. The privacy practices and policies for the Caesars Windsor property may be found in the Caesars Windsor Privacy Policy below. 
+We value you as a customer and take your personal privacy seriously. In the course of providing you with products and services, we may collect certain personal information that we understand may be considered private or confidential. We are therefore providing this Privacy Policy to explain our practices and policies for collecting, using and sharing information collected from or about you. In this Privacy Policy, terms such as "us" "we" and/or "our" refer to Caesars Entertainment Corporation and its subsidiaries and affiliates, the Caesars Rewards casinos and resorts owned, operated or managed by them or their affiliates (the full list is available at <https://www.caesars.com/total-rewards/casino-directory>) ("Caesars Rewards Casinos,"), Bill's Gamblin' Hall & Saloon, Caesars Interactive Entertainment, Inc., including but not limited to WSOP.com and their respective websites. This Privacy Policy does not apply to any properties that are not Caesars Rewards Casinos (other than to Bill's Gamblin' Hall & Saloon) or to Caesars affiliates or properties outside of the United States and the term "Caesars Rewards" refers to our Caesars Rewards® loyalty program. The privacy practices and policies for the Caesars Windsor property may be found in the Caesars Windsor Privacy Policy below. 
 
 Our Privacy Principles 
 
@@ -34,7 +34,7 @@ Information We May Collect
 
 We collect and use information we believe is necessary to administer our business and provide you with the products and services you request. We may collect and maintain both Personal and Non-Personal Information needed for these purposes. 
 
-"Personal Information" includes any information by which you can be personally identified, such as your first name, last name, address, phone, email address, credit card number, social security number, Total Rewards number, date of birth, purchase information, gaming information and other similar information. You may provide us with Personal Information under a wide range of circumstances, such as when you submit information to us through our websites, sign up for email or text messages, sign up for Total Rewards, log in as a Total Rewards member, book a reservation, enter an online promotion, sign up or log in to play one of our free social games or our real money gaming online games at WSOP.com, request information, submit an application for employment, apply for credit or provide feedback in a survey. 
+"Personal Information" includes any information by which you can be personally identified, such as your first name, last name, address, phone, email address, credit card number, social security number, Caesars Rewards number, date of birth, purchase information, gaming information and other similar information. You may provide us with Personal Information under a wide range of circumstances, such as when you submit information to us through our websites, sign up for email or text messages, sign up for Caesars Rewards, log in as a Caesars Rewards member, book a reservation, enter an online promotion, sign up or log in to play one of our free social games or our real money gaming online games at WSOP.com, request information, submit an application for employment, apply for credit or provide feedback in a survey. 
 
 "Non-Personal Information" is information about you that does not personally identify you. Information of this type is most commonly obtained through your use of our websites and visits to our businesses. 
 
@@ -42,7 +42,7 @@ How We May Use Your Information
 
 We will use the information you provide to us for the specific purposes for which you provided the information, as stated at the time of collection. The following are some other ways in which we may use your information to administer our business and provide you with the products and services you request: 
 
-  * to operate our Total Rewards program;
+  * to operate our Caesars Rewards program;
   * to notify you about promotions and special offers regarding products and services provided by us or our affiliates or other associated third parties;
   * to improve the products and services we provide you and develop new products and services;
   * to improve our websites;
@@ -84,20 +84,20 @@ We may also disclose your Personal Information to third parties for the followin
 
 Your Choice to Share Information 
 
-If you are a Total Rewards customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please follow these instructions: First, [click here](https://www.totalrewards.com/mytotalrewards/?showglba=true) to log in to your account. Next, go to your “Profile”, scroll down to “Preferences” and click on “Edit Settings.” Click “Manage My Preferences” to continue. Scroll to the bottom and check the box labeled “Do not share my personal information with non-affiliates to market their products & services to me.” Click “Save Changes” to ensure your preference settings are set. 
+If you are a Caesars Rewards customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please follow these instructions: First, [click here](https://www.caesars.com/total-rewards) to log in to your account. Next, go to your “Profile”, scroll down to “Preferences” and click on “Edit Settings.” Click “Manage My Preferences” to continue. Scroll to the bottom and check the box labeled “Do not share my personal information with non-affiliates to market their products & services to me.” Click “Save Changes” to ensure your preference settings are set. 
 
-If you are not a Total Rewards customer or if you prefer to opt out by mail from having your Personal Information shared with our Joint Marketing Partners, please [click here to download the opt-out form(PDF)](http://www.totalrewards.com/images/aboutUs/Privacy_Policy_Form.pdf), complete it and mail it to: 
+If you are not a Caesars Rewards customer or if you prefer to opt out by mail from having your Personal Information shared with our Joint Marketing Partners, please [click here to download the opt-out form(PDF)](http://www.totalrewards.com/images/aboutUs/Privacy_Policy_Form.pdf), complete it and mail it to: 
 
 Caesars Operating Company, Inc.  
 ATTN: Loyalty Marketing  
 P.O. Box 98905  
-Las Vegas, NV 89193
+Las Vegas, NV 89193 
 
 Opting out will not prevent your Personal Information from being shared with our affiliates for any purpose or used for other non-marketing purposes described above in this Privacy Policy. 
 
 How to Access, Update and Correct Personal Information 
 
-In order to ensure that all of your Personal Information is correct and up to date, visit a Total Rewards Casino and speak to a customer service representative. As a Total Rewards member, you may also review and update your profile by logging into your account, at http://www.totalrewards.com 
+In order to ensure that all of your Personal Information is correct and up to date, visit a Caesars Rewards Casino and speak to a customer service representative. As a Caesars Rewards member, you may also review and update your profile by logging into your account, at <https://www.caesars.com/total-rewards>
 
 Changes in Privacy Policy 
 
@@ -123,13 +123,13 @@ Caesars Operating Company, Inc.
 ATTN.: Loyalty Marketing  
 P.O. Box 98905  
 Las Vegas, NV 89193-8905  
-Back to Top
+Back to Top 
 
 Back to Top
 
 * * *
 
-### SPECIAL PROVISIONS FOR WSOP.COM 
+###  SPECIAL PROVISIONS FOR WSOP.COM 
 
 UNSUBSCIRBING FROM EMAIL 
 
@@ -139,7 +139,7 @@ You will be removed from the mailing list within 7 days of receiving your reques
 
 OPTING OUT OF DIRECT MAIL POLICY 
 
-We may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the customer service center at any Total Rewards Casino or call 1-800-CAESARS (223-7277). Your name and address will be removed from that mailing list within 30 days after your request. 
+We may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the customer service center at any Caesars Rewards Casino or call 1-800-CAESARS (223-7277). Your name and address will be removed from that mailing list within 30 days after your request. 
 
 GEO LOCATION 
 
@@ -147,14 +147,14 @@ Certain services, including GeoComply, will make use of your location data. If y
 
 YOUR CHOICE TO SHARE INFORMATION 
 
-If you are a Action Club customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please follow these instructions: First, [click here](https://www.totalrewards.com/mytotalrewards/?showglba=true) to log in to your account. Next, go to your “Profile”, scroll down to “Preferences” and click on “Edit Settings.” Click “Manage My Preferences” to continue. Scroll to the bottom and check the box labeled “Do not share my personal information with non-affiliates to market their products & services to me.” Click “Save Changes” to ensure your preference settings are set. 
+If you are a Action Club customer and prefer that we not share your Personal Information with our Joint Marketing Partners, please follow these instructions: First, [click here](https://www.caesars.com/total-rewards) to log in to your account. Next, go to your “Profile”, scroll down to “Preferences” and click on “Edit Settings.” Click “Manage My Preferences” to continue. Scroll to the bottom and check the box labeled “Do not share my personal information with non-affiliates to market their products & services to me.” Click “Save Changes” to ensure your preference settings are set. 
 
 If you are not an Action Club customer or if you prefer to opt out by mail from having your Personal Information shared with our Joint Marketing Partners, please [click here to download the opt-out form(PDF)](http://www.totalrewards.com/images/aboutUs/Privacy_Policy_Form.pdf), complete it and mail it to: 
 
 Caesars Operating Company, Inc.  
 ATTN: Loyalty Marketing  
 P.O. Box 98905  
-Las Vegas, NV 89193
+Las Vegas, NV 89193 
 
 Opting out will not prevent your Personal Information from being shared with our affiliates for any purpose or used for other non-marketing purposes described above in this Privacy Policy. 
 
@@ -166,7 +166,7 @@ CONTACT US
 
 Should you have additional questions, comments or concerns, please contact us by visiting the following page [click here](https://web.archive.org/contact/). 
 
-### SPECIAL PROVISIONS FOR FINANCIAL SERVICES CUSTOMERS 
+###  SPECIAL PROVISIONS FOR FINANCIAL SERVICES CUSTOMERS 
 
 Information Collected in Connection with Financial Services 
 
@@ -174,7 +174,7 @@ If you are a customer who utilizes our credit or check cashing, counter check ac
 
   * Information we receive on applications for credit or other financial services, such as your name, address, telephone number, Social Security number and other identifying information.
   * Information we receive about you from others, including credit bureaus, relating to your credit history and financial transactions with others.
-  * Information about your transactions with us, including your payment history and/or gaming activity with any Total Rewards Casinos.
+  * Information about your transactions with us, including your payment history and/or gaming activity with any Caesars Rewards Casinos.
 
 
 
@@ -190,7 +190,7 @@ Back to Top
 
 * * *
 
-### ONLINE PRIVACY POLICY 
+###  ONLINE PRIVACY POLICY 
 
 In addition to the practices and policies described above, the following apply to our websites (each a "Site").
 
@@ -237,31 +237,31 @@ Unless otherwise specified, our Site and material provided on our Site are solel
 
 * * *
 
-### UNSUBSCRIBING FROM EMAIL 
+###  UNSUBSCRIBING FROM EMAIL 
 
-If you are a Total Rewards member and would prefer not to receive further emails from us, [click here](https://www.totalrewards.com/TotalRewards/TotalRewards.do) to sign in and update your profile. 
+If you are a Caesars Rewards member and would prefer not to receive further emails from us, [click here](https://www.caesars.com/total-rewards) to sign in and update your profile. 
 
-If you are not a Total Rewards member and would prefer not to receive further emails from us, you may click on the "unsubscribe" link found on the bottom of all our email communications. 
-
-Back to Top
-
-* * *
-
-### OPTING OUT OF DIRECT MAIL POLICY 
-
-We may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the customer service center at any Total Rewards Casino or call 1-800-CAESARS (223-7277). Your name and address will be removed from that mailing list within 30 days after your request. 
+If you are not a Caesars Rewards member and would prefer not to receive further emails from us, you may click on the "unsubscribe" link found on the bottom of all our email communications. 
 
 Back to Top
 
 * * *
 
-### CAESARS WINDSOR PRIVACY POLICY 
+###  OPTING OUT OF DIRECT MAIL POLICY 
+
+We may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the customer service center at any Caesars Rewards Casino or call 1-800-CAESARS (223-7277). Your name and address will be removed from that mailing list within 30 days after your request. 
+
+Back to Top
+
+* * *
+
+###  CAESARS WINDSOR PRIVACY POLICY 
 
 I. POLICY 
 
 Caesars Windsor is committed to protecting your privacy in accordance with this Privacy Policy and applicable law. This Privacy Policy describes how the Operator of Caesars Windsor ("Caesars Windsor", "the Property", "we" "us" and/or "our") collects, uses and discloses Personal Information of visitors to our website and of individuals with whom we deal offline, including Personal Information of customers and other persons that is collected or received by Caesars Windsor in the course of its commercial activities. Games of chance conducted at Caesars Windsor are operated by the Operator as agent for the Ontario Lottery and Gaming Corporation (a crown corporation created under the Ontario Lottery and Gaming Corporation Act, 1999) ("OLG"); Caesars Windsor is otherwise operated by the Operator in its capacity as an independent contractor of OLG. We reserve the right to change this Privacy Policy. "Operator" means Caesars Entertainment Windsor Limited and any successor operator of Caesars Windsor and their respective successors and assigns. 
 
-Personal Information is information about an identifiable individual, as more particularly described under applicable privacy legislation. This Privacy Policy applies to our collection, use and disclosure of Personal Information. This Privacy Policy does not apply to information about employees of the Operator. When we refer to "Loyalty Programs" or "Loyalty Program" in this Privacy Policy, we mean: (i) the current "Total Rewards" loyalty program which is operated by Caesars Entertainment Corporation. (Caesars or "Caesars Entertainment") and which Caesars Windsor participates in, as amended or modified from time to time, until such time as such program is discontinued, and/or (ii) any replacement or successor loyalty program introduced at Caesars Windsor. Loyalty Programs may be located outside of Canada. The use and disclosure of Personal Information by Loyalty Programs located in other countries (including the United States) will be subject to the laws of that country, which may differ from the laws of Canada and may include, for example, lawful requirements to disclose Personal Information to government authorities in those countries. 
+Personal Information is information about an identifiable individual, as more particularly described under applicable privacy legislation. This Privacy Policy applies to our collection, use and disclosure of Personal Information. This Privacy Policy does not apply to information about employees of the Operator. When we refer to "Loyalty Programs" or "Loyalty Program" in this Privacy Policy, we mean: (i) the current "Caesars Rewards" loyalty program which is operated by Caesars Entertainment Corporation. (Caesars or "Caesars Entertainment") and which Caesars Windsor participates in, as amended or modified from time to time, until such time as such program is discontinued, and/or (ii) any replacement or successor loyalty program introduced at Caesars Windsor. Loyalty Programs may be located outside of Canada. The use and disclosure of Personal Information by Loyalty Programs located in other countries (including the United States) will be subject to the laws of that country, which may differ from the laws of Canada and may include, for example, lawful requirements to disclose Personal Information to government authorities in those countries. 
 
 Caesars Windsor reserves the right to amend, modify or otherwise change the terms of any Loyalty Program and to terminate or discontinue any Loyalty Program, in its sole and absolute discretion. 
 
@@ -306,7 +306,7 @@ Caesars Windsor collects Personal Information in the conduct of its business inc
 
 III. WHAT PERSONAL INFORMATION IS COLLECTED AND HOW WE COLLECT SUCH PERSONAL INFORMATION 
 
-  1. **Identification ("ID") Verification.** Casinos are required to verify the photo ID at the Casino entrances of all individuals who appear to be under 30, to ensure that no one under the legal gambling age of 19 is permitted entry. Security Officers posted at the entrance of the Casino may use identification verifiers to scan any ID including if they believe it may have been tampered with or altered. Casinos are also required, under provincial and federal laws, to verify government-issued photo ID and to record certain information, including name, date of birth, address, type of ID, place of issuance of ID, and ID reference number, before conducting certain types of transactions. These transactions include but are not limited to foreign exchange transactions of Cdn.$3,000 or more, cash transactions of Cdn.$10,000 or more (see Large Cash Transaction Records), casino disbursement transactions of Cdn.$10,000 or more, credit extensions of any amount, and opening a front money account in any amount. Caesars Windsor also requires government-issued photo ID before issuing or permitting use of a loyalty card for its Loyalty Program such as the Total Rewards Card to protect customers who may lose or misplace their cards.
+  1. **Identification ("ID") Verification.** Casinos are required to verify the photo ID at the Casino entrances of all individuals who appear to be under 30, to ensure that no one under the legal gambling age of 19 is permitted entry. Security Officers posted at the entrance of the Casino may use identification verifiers to scan any ID including if they believe it may have been tampered with or altered. Casinos are also required, under provincial and federal laws, to verify government-issued photo ID and to record certain information, including name, date of birth, address, type of ID, place of issuance of ID, and ID reference number, before conducting certain types of transactions. These transactions include but are not limited to foreign exchange transactions of Cdn.$3,000 or more, cash transactions of Cdn.$10,000 or more (see Large Cash Transaction Records), casino disbursement transactions of Cdn.$10,000 or more, credit extensions of any amount, and opening a front money account in any amount. Caesars Windsor also requires government-issued photo ID before issuing or permitting use of a loyalty card for its Loyalty Program such as the Caesars Rewards Card to protect customers who may lose or misplace their cards. 
   2. **Photography.** To protect your privacy, photography is prohibited on the gaming floor. The only exceptions to this prohibition are photographs of jackpot and tournament winners, who consent in writing to their picture being taken. Except for your spouse or significant other, no other customers will be included in the photographs. Caesars Windsor may also take photographs inside the casino for publicity purposes and advertising campaigns. In these cases, only actors are used in the photographs, and signage is posted to advise customers of the photography shoot. In some cases, entertainers will have their performances in the Entertainment Centre videotaped and photographed. When this is happening, we will notify you through signage and/or an announcement at the beginning of the performance.
   3. **Video Surveillance.** In order to comply with Regulations made pursuant to the _Gaming Control Act_ , Caesars Windsor is required to have surveillance systems to monitor all gaming and sensitive areas of the Casino. Video surveillance cameras are used to protect Caesars Windsor, its customers and employees against potential violations of criminal and/or civil laws. Surveillance camera output is monitored by Caesars Windsor Surveillance personnel, authorized Caesars Windsor officers or directors, Ontario Provincial Police and regulatory authorities.
   4. **Self-Exclusion and Facial Recognition.** Self-exclusion is a voluntary program offered by Caesars Windsor and the OLG to individuals who choose to be included in the program because they have difficult gaming responsibly. In addition to the information collected directly from individuals who have completed the Self-Exclusion Form as described below, the self-exclusion program also uses an automated facial recognition technology system to identify self-excluded individuals. This technology captures facial images of Casino customers at a distance and compares such images to the images of those who have voluntarily provided their photograph to the self-exclusion program. This technology only identifies possible matches with those registered with the self-exclusion program and does not identify or retain the images of other individuals. Access to the information gathered as part of the self-exclusion program, including facial recognition information, is limited to the individuals who require the information in order to operate the self-exclusion program. All information gathered as part of the self-exclusion program, including all facial recognition information, is protected by the appropriate technological systems including encryption algorithms. The description of the self-exclusion program and facial recognition technology as set out in this Privacy Policy does not amend or supersede the terms and conditions that any individual agreed to when registering for the self-exclusion program and, specifically, does not provide any kind of representation or guarantee with respect to the effectiveness of the self-exclusion program. 
@@ -360,11 +360,11 @@ IV. DISCLOSURE OF PERSONAL INFORMATION
     14. to OLG if required by law or the terms of any agreement between OLG and the Operator of Caesars Windsor; as noted above, OLG is a crown corporation formed under the Ontario Lottery and Gaming Corporation Act, 1999 and the Operator of Caesars Windsor operates games of chance at Caesars Windsor as agent for OLG; OLG is governed by its own Privacy Policy which can be found at www.OLG.ca and includes contact information to reach an OLG representative in case you have any questions regarding their Privacy Policy;
     15. as necessary to meet legal, regulatory (including but not limited to gaming regulators including the AGCO, see below), insurance, audit, processing and security requirements; and
     16. with your consent or as permitted or required by law such as where we are required to do so by subpoena, court order, warrant or legally permitted inquiry by a government agency.
-  2. **Caesars Total Rewards and Adoption of Successor or Replacement Loyalty Program.** We disclose information we receive from you, and about your transactions or Loyalty Program participation with us, with Caesars Entertainment the operator of the Total Rewards Loyalty Program, and such information may be available to all other partners participating in the Loyalty Program. If we join or implement a new Loyalty Program, this will, among other things, allow the partners of the new Loyalty Program to recognize you and to quickly respond to applications for credit or financial services at their respective properties to better serve our customers. The Caesars Total Rewards Loyalty Program and any new Loyalty Programs may be located outside of Canada. The use and disclosure of Personal Information by Caesars Total Rewards and any new Loyalty Programs located in other countries (including the United States) will be subject to the laws of that country, which may differ from the laws of Canada and may include, for example, lawful requirements to disclose Personal Information to government authorities in those countries. The Total Rewards program is not operated by Caesars Windsor, and Personal Information connected with the program will be subject to Caesars Privacy Policy. The Corporate Privacy Policy and Online Privacy Policy are found immediately above the Caesars Windsor Privacy Policy on our website at http://www.caesarswindsor.com or you may obtain and review a copy of Caesars Privacy Policy by visiting www.caesars.com. You may also contact Caesars at 1-800-CAESARS or by mailing to:
+  2. **Caesars Rewards and Adoption of Successor or Replacement Loyalty Program.** We disclose information we receive from you, and about your transactions or Loyalty Program participation with us, with Caesars Entertainment the operator of the Caesars Rewards Loyalty Program, and such information may be available to all other partners participating in the Loyalty Program. If we join or implement a new Loyalty Program, this will, among other things, allow the partners of the new Loyalty Program to recognize you and to quickly respond to applications for credit or financial services at their respective properties to better serve our customers. The Caesars Rewards Loyalty Program and any new Loyalty Programs may be located outside of Canada. The use and disclosure of Personal Information by Caesars Rewards and any new Loyalty Programs located in other countries (including the United States) will be subject to the laws of that country, which may differ from the laws of Canada and may include, for example, lawful requirements to disclose Personal Information to government authorities in those countries. The Caesars Rewards program is not operated by Caesars Windsor, and Personal Information connected with the program will be subject to Caesars Privacy Policy. The Corporate Privacy Policy and Online Privacy Policy are found immediately above the Caesars Windsor Privacy Policy on our website at http://www.caesarswindsor.com or you may obtain and review a copy of Caesars Privacy Policy by visiting www.caesars.com. You may also contact Caesars at 1-800-CAESARS or by mailing to:
 
 ATTN: Loyalty Marketing  
 Caesars Entertainment P.O. Box 98905  
-Las Vegas, NV 89193
+Las Vegas, NV 89193 
 
   3. **Personal Information Disclosure to Non-Affiliated Entities.** In addition to sharing Personal Information as described above, we share the information we collect about our customers with credit bureaus, collection agencies, and other non-affiliated third parties with consent and as permitted or required by law. 
   4. **Service Providers.** Personal Information may also be transferred to third party agents or service providers we engage to provide various services such as: hosting and maintaining our web sites, database and information management; telemarketing; marketing; mailing; data and other processing; providing some of the services you use on our web sites; managing some of our internal operations such as data analysis, site activity data collection and e-mails; customer service and fulfillment vendors; call centre, administrative, billing or other processing services on our behalf, some or all of which may be located outside of Canada. Some of our services may be provided by our affiliates including in the United States or elsewhere outside of Canada. We take reasonable measures to ensure that your Personal Information that may be collected, used, disclosed or otherwise processed by these service providers or our affiliates on our behalf is protected and not used or disclosed for purposes other than as directed by us, subject to legal requirements in foreign jurisdictions applicable to those organizations, for example, lawful requirements to disclose Personal Information to government authorities in those countries (including to our subsidiary Windsor Casino Limited acting in the capacity of a service provider).
@@ -383,7 +383,7 @@ Caesars Windsor
 377 Riverside Drive East  
 Windsor, Ontario N9A 7H7  
 Facsimile: (519) 985-5925  
-E-mail Address: privacyofficer@caesarswindsor.com
+E-mail Address: privacyofficer@caesarswindsor.com 
 
 Please note that if you withdraw consent to use Personal Information as outlined for a Loyalty Program your membership in the Loyalty Program may be terminated. 
 
@@ -413,7 +413,7 @@ Caesars Windsor
 377 Riverside Drive East  
 Windsor, Ontario N9A 7H7 
 
-In addition, you can attend in person at a Total Rewards Booth. To protect your privacy, we will take reasonable steps to verify your identity before granting you access to, or making corrections to, your Personal Information. 
+In addition, you can attend in person at a Caesars Rewards Booth. To protect your privacy, we will take reasonable steps to verify your identity before granting you access to, or making corrections to, your Personal Information. 
 
 X. CHANGES TO THIS PRIVACY POLICY 
 
@@ -429,7 +429,7 @@ Caesars Windsor,
 377 Riverside Drive East  
 Windsor, Ontario N9A 7H7  
 Facsimile: (519) 985-5925  
-E-mail Address: privacyofficer@caesarswindsor.com
+E-mail Address: privacyofficer@caesarswindsor.com 
 
 XII. PERSONAL INFORMATION COLLECTED BY THE ALCOHOL AND GAMING COMMISSION OF ONTARIO AND THE ONTARIO PROVINCIAL POLICE (OPP) 
 
@@ -447,4 +447,4 @@ Alcohol and Gaming Commission of Ontario
 Toronto, Ontario, Canada M2N 0A4  
 Telephone: (416) 326-8700;  
 1.800.522.2876  
-www.agco.on.ca
+www.agco.on.ca 
