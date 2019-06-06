@@ -1,236 +1,151 @@
-<!--The following is the downloaded HTML source of the kat.ph privacy policy that was archived on 2015-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226121954id_/https%3A//kat.cr/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kat.ph privacy policy that was archived on 2019-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190606025110id_/http%3A//kat.ph/Privacy-Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="auto"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta http-equiv="Content-Style-Type" content="text/css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <title>Privacy policy - Kickass Torrents</title>
-    <link rel="stylesheet" type="text/css" href="//kastatic.com/all-365d493.css" charset="utf-8">
-    <link rel="shortcut icon" href="//kastatic.com/images/favicon.ico">
-    
+<!DOCTYPE html><html><head>
+        <link type="text/css" href="/templates/yahoo/css/html.css" rel="stylesheet">
+        <link type="text/css" href="/templates/yahoo/css/Dropdown.ltr.css" rel="stylesheet">
+        <link href="/lib/fontawesome/web-fonts-with-css/css/fontawesome-all.css" rel="stylesheet">
+        <script src="/lib/js/jquery-3.1.1.min.js"></script>
+        <script type="text/javascript">
+    $(document).ready(function () {
+        var totX = 0; 
+        var totY = 0;
+        var startx = 0; 
+        var starty = 0;
+        var mess = 0; 
 
-    <link rel="apple-touch-icon" href="//kastatic.com/images/apple-touch-icon.png">
+            //test for javascript
+            $.ajax({
+                method: "GET",
+                url: "/widgets/ms/js.php?sid=" +134069970            });
+            document.addEventListener('touchstart', function (e) {
+            var touchobj = e.changedTouches[0]; // first touch
+            totX = totX + parseInt(touchobj.clientX);
+            totY = totY + parseInt(touchobj.clientY);
+        }, false);
 
-    <!--[if IE 7]>
-    <link href="//kastatic.com/css/ie7-365d493.css" rel="stylesheet" type="text/css"/>
-    <![endif]-->
+        document.addEventListener('touchend', function (e) {
+            var touchobj = e.changedTouches[0]; // last touch
+            totX = totX + abs(parseInt(touchobj.clientX) - startx);
+            totY = totY + abs(parseInt(touchobj.clientY) - starty);
+        }, false);
 
-    <!--[if IE 8]>
-    <link href="//kastatic.com/css/ie8.css" rel="stylesheet" type="text/css"/>
-    <![endif]-->
-
-    <!--[if lt IE 9]>
-    <script src="//kastatic.com/js/html5.min-365d493.js" type="text/javascript"></script>
-    <![endif]-->
-
-    <!--[if gte IE 9]>
-    <link href="//kastatic.com/css/ie9-365d493.css" rel="stylesheet" type="text/css"/>
-    <![endif]-->
-    <script src="//a.kickass.to/sc-365d493.js" async=""></script><script type="text/javascript">
-        +function(S,p,a,r,e,C,l,i,c,k)
-        { S[r]=S[r]||[];S[e]||(S[e]=function(){
-        S[r].push(Array.prototype.slice.call(arguments)) });
-        i=p.createElement(a);c=p.getElementsByTagName(a)[0];
-        i.src=C;i.async=true;c.parentNode.insertBefore(i,c)}
-        (window,document,'script','_scq','sc', '//a.kickass.to/sc-365d493.js');
-
-        sc('setHost', 'a.kickass.to');
-        sc('setAccount', '_b894d6cb1e370fb9ad89f8d6d99eeb33');
-            var kat = {
-            release_id: '365d493',
-            detect_lang: 0,
-            spare_click: 1,
-            mobile: false
+        document.onmousemove = function (e) {
+            totX = totX + e.pageX;
+            totY = totY + e.pageY;
         };
-    </script>
-    <script src="//kastatic.com/js/all-365d493.js" type="text/javascript"></script>
-    <link rel="alternate" type="application/rss+xml" title="Subscribe to RSS feed" href="/?rss=1">
-        <meta name="verify-v1" content="YccN/iP28SifHNEFY6u92i0ou3tAegQAIk2OyOJLp1s=">
-    <meta name="y_key" content="f0b40c3f5fee758f">
-    <meta name="google-site-verification" content="C1rNEC4fJIvFoyyccMV2PbuqX3P-SFtlD2MNZ9D2uy0">
-    <link rel="search" type="application/opensearchdescription+xml" title="KickassTorrents Torrent Search" href="/opensearch.xml">
-    <meta property="fb:app_id" content="123694587642603">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <script type="text/javascript">var _scq = _scq || [];</script></head>
-<body>
-<div id="wrapper">
-    <div id="wrapperInner">
-<div data-sc-slot="_60318cd4e8d28f6fb76fe34e9bd9c498"></div>
-<div data-sc-slot="_39ecb76dd457e5ac33776fdf11500d56"></div>
-    <div id="logindiv"></div>
-    <header>
-	<nav id="menu">
-		<a href="/" id="logo"></a>
-		<a href="#" id="showHideSearch"><i class="ka ka-zoom"></i></a>
-		<div id="torrentSearch">
-			<form action="/usearch/" method="get" id="searchform" accept-charset="utf-8" onsubmit="return doSearch(this.q.value);">
-				<input id="contentSearch" class="input-big" type="text" name="q" value="" autocomplete="off" placeholder="Search query"><div id="searchTool"><a title="Advanced search" href="/advanced/" class="ajaxLink"><i class="ka ka-settings"></i></a><button title="search" type="submit" value="" onfocus="this.blur();" onclick="this.blur();"><i class="ka ka-search"></i></button></div>
-			</form>
-		</div>
-        <div data-sc-slot="_277923e5f9d753c5b0630c28e641790c"></div>
-		<ul id="navigation">
-			
-			<li> <a href="/browse/"> <i class="ka ka-torrent"></i><span class="menuItem">browse</span></a>
-				<ul class="dropdown dp-middle dropdown-msg upper">
-										
-						<li class="topMsg"><a href="/new/"><i class="ka ka16 ka-torrent"></i>latest</a></li>
-										<li class="topMsg"><a href="/movies/"><i class="ka ka16 ka-movie lower"></i>Movies</a></li>
-					<li class="topMsg"><a href="/tv/"><i class="ka ka16 ka-movie lower"></i>TV</a></li>
-					<li class="topMsg"><a href="/music/"><i class="ka ka16 ka-music-note lower"></i>Music</a></li>
-					<li class="topMsg"><a href="/games/"><i class="ka ka16 ka-settings lower"></i>Games</a></li>
-					<li class="topMsg"><a href="/books/"><i class="ka ka16 ka-bookmark"></i>Books</a></li>
-					<li class="topMsg"><a href="/applications/"><i class="ka ka16 ka-settings lower"></i>Apps</a></li>
-					<li class="topMsg"><a href="/anime/"><i class="ka ka16 ka-movie lower"></i>Anime</a></li>
-					<li class="topMsg"><a href="/other/"><i class="ka ka16 ka-torrent"></i>Other</a></li>
-											<li class="topMsg"><a href="/xxx/"><i class="ka ka16 ka-delete"></i>XXX</a></li>
-									</ul>
-			</li>
-			
-			<li><a data-nop="" href="/community/"> <i class="ka ka-community"></i><span class="menuItem">community</span></a>
-			</li><li><a data-nop="" href="/blog/"><i class="ka ka-rss lower"></i><span class="menuItem">Blog</span></a></li>
-			<li><a data-nop="" href="/faq/"><i class="ka ka-faq lower"></i><span class="menuItem">FAQ</span></a></li>
-			
-			
-			<li> <a data-nop="" href="/auth/login/" class="ajaxLink"><i class="ka ka-user"></i><span class="menuItem">Register / Sign In</span></a></li>
-		</ul>
-	</nav>
-</header>
+        setInterval(checkCursor, 200);
 
-<div class="pusher"></div>
-<div class="mainpart">
-    
-
-
-<h1>Privacy Policy</h1>
-
-<p><b>Your Privacy</b><br>
-We respect your privacy and we are committed to protect it. We don't sell, share, and show your
-personal information without your prior permission or written consent or unless required by law. We
-never collect any information about you except those specifically provided by you or limited
-information that the browser made available when you visited our site, for example, the IP address
-while you are on the site, visiting time, the link clicked, the browser type, and cookies.</p>
-
-<p><b>Third Party Websites</b><br>
-We cooperate with third-party companies even when you visit our site. We need these companies to
-provide us with some site audience and visits details, and they may see and use information about
-your visits. It bears no relation to your personal data, such as your name, email address or
-telephone number.</p>
-
-<p><b>Third Party Cookies</b><br>
-We use cookies to store your choices and preferences.</p>
-
-<p><b>Privacy Policy Changes</b><br>
-We have all rights to change, alter or modify our privacy policy at any time without prior notice.
-We will immediately post changes on this page and let you get acquainted with them.</p>
-
-
-</div>
-<div id="translate_site" style="display:none">
-    <h3>Select Your Language</h3>
-    <div class="textcontent">
-        <div style="line-height:140%;-moz-column-width: 12em; -moz-columns: 12em; -webkit-columns: 12em; columns:12em;">
-            <ul>
-                                <li class="current_lang"><a href="#" onclick="setLanguage('en', '.kat.cr');return false;" class="plain"><strong>English</strong></a></li>
-                                <li><a href="#" onclick="setLanguage('af', '.kat.cr');return false;" class="plain">Afrikaans</a></li>
-                                <li><a href="#" onclick="setLanguage('al', '.kat.cr');return false;" class="plain">Albanian</a></li>
-                                <li><a href="#" onclick="setLanguage('ar', '.kat.cr');return false;" class="plain">Arabic (Modern)</a></li>
-                                <li><a href="#" onclick="setLanguage('eu', '.kat.cr');return false;" class="plain">Basque</a></li>
-                                <li><a href="#" onclick="setLanguage('bn', '.kat.cr');return false;" class="plain">Bengali</a></li>
-                                <li><a href="#" onclick="setLanguage('bs', '.kat.cr');return false;" class="plain">Bosnian</a></li>
-                                <li><a href="#" onclick="setLanguage('br', '.kat.cr');return false;" class="plain">Brazilian Portuguese</a></li>
-                                <li><a href="#" onclick="setLanguage('bg', '.kat.cr');return false;" class="plain">Bulgarian</a></li>
-                                <li><a href="#" onclick="setLanguage('ch', '.kat.cr');return false;" class="plain">Chinese Simplified</a></li>
-                                <li><a href="#" onclick="setLanguage('tw', '.kat.cr');return false;" class="plain">Chinese Traditional</a></li>
-                                <li><a href="#" onclick="setLanguage('hr', '.kat.cr');return false;" class="plain">Croatian</a></li>
-                                <li><a href="#" onclick="setLanguage('cz', '.kat.cr');return false;" class="plain">Czech</a></li>
-                                <li><a href="#" onclick="setLanguage('da', '.kat.cr');return false;" class="plain">Danish</a></li>
-                                <li><a href="#" onclick="setLanguage('nl', '.kat.cr');return false;" class="plain">Dutch</a></li>
-                                <li><a href="#" onclick="setLanguage('tl', '.kat.cr');return false;" class="plain">Filipino</a></li>
-                                <li><a href="#" onclick="setLanguage('fi', '.kat.cr');return false;" class="plain">Finnish</a></li>
-                                <li><a href="#" onclick="setLanguage('fr', '.kat.cr');return false;" class="plain">French</a></li>
-                                <li><a href="#" onclick="setLanguage('ka', '.kat.cr');return false;" class="plain">Georgian</a></li>
-                                <li><a href="#" onclick="setLanguage('de', '.kat.cr');return false;" class="plain">German</a></li>
-                                <li><a href="#" onclick="setLanguage('el', '.kat.cr');return false;" class="plain">Greek</a></li>
-                                <li><a href="#" onclick="setLanguage('he', '.kat.cr');return false;" class="plain">Hebrew</a></li>
-                                <li><a href="#" onclick="setLanguage('hi', '.kat.cr');return false;" class="plain">Hindi</a></li>
-                                <li><a href="#" onclick="setLanguage('hu', '.kat.cr');return false;" class="plain">Hungarian</a></li>
-                                <li><a href="#" onclick="setLanguage('id', '.kat.cr');return false;" class="plain">Indonesian</a></li>
-                                <li><a href="#" onclick="setLanguage('it', '.kat.cr');return false;" class="plain">Italian</a></li>
-                                <li><a href="#" onclick="setLanguage('kn', '.kat.cr');return false;" class="plain">Kannada</a></li>
-                                <li><a href="#" onclick="setLanguage('ko', '.kat.cr');return false;" class="plain">Korean</a></li>
-                                <li><a href="#" onclick="setLanguage('lv', '.kat.cr');return false;" class="plain">Latvian</a></li>
-                                <li><a href="#" onclick="setLanguage('lt', '.kat.cr');return false;" class="plain">Lithuanian</a></li>
-                                <li><a href="#" onclick="setLanguage('mk', '.kat.cr');return false;" class="plain">Macedonian</a></li>
-                                <li><a href="#" onclick="setLanguage('ml', '.kat.cr');return false;" class="plain">Malayalam</a></li>
-                                <li><a href="#" onclick="setLanguage('ms', '.kat.cr');return false;" class="plain">Malaysian</a></li>
-                                <li><a href="#" onclick="setLanguage('no', '.kat.cr');return false;" class="plain">Norwegian</a></li>
-                                <li><a href="#" onclick="setLanguage('pr', '.kat.cr');return false;" class="plain">Pirate</a></li>
-                                <li><a href="#" onclick="setLanguage('pl', '.kat.cr');return false;" class="plain">Polish</a></li>
-                                <li><a href="#" onclick="setLanguage('pt', '.kat.cr');return false;" class="plain">Portuguese</a></li>
-                                <li><a href="#" onclick="setLanguage('pa', '.kat.cr');return false;" class="plain">Punjabi</a></li>
-                                <li><a href="#" onclick="setLanguage('ro', '.kat.cr');return false;" class="plain">Romanian</a></li>
-                                <li><a href="#" onclick="setLanguage('ru', '.kat.cr');return false;" class="plain">Russian</a></li>
-                                <li><a href="#" onclick="setLanguage('sr', '.kat.cr');return false;" class="plain">Serbian</a></li>
-                                <li><a href="#" onclick="setLanguage('src', '.kat.cr');return false;" class="plain">Serbian-Cyrillic</a></li>
-                                <li><a href="#" onclick="setLanguage('bsc', '.kat.cr');return false;" class="plain">Serbian-Cyrillic (ijekavica)</a></li>
-                                <li><a href="#" onclick="setLanguage('si', '.kat.cr');return false;" class="plain">Sinhala</a></li>
-                                <li><a href="#" onclick="setLanguage('sk', '.kat.cr');return false;" class="plain">Slovak</a></li>
-                                <li><a href="#" onclick="setLanguage('sl', '.kat.cr');return false;" class="plain">Slovenian</a></li>
-                                <li><a href="#" onclick="setLanguage('es', '.kat.cr');return false;" class="plain">Spanish</a></li>
-                                <li><a href="#" onclick="setLanguage('sv', '.kat.cr');return false;" class="plain">Swedish</a></li>
-                                <li><a href="#" onclick="setLanguage('ta', '.kat.cr');return false;" class="plain">Tamil</a></li>
-                                <li><a href="#" onclick="setLanguage('te', '.kat.cr');return false;" class="plain">Telugu</a></li>
-                                <li><a href="#" onclick="setLanguage('tr', '.kat.cr');return false;" class="plain">Turkish</a></li>
-                                <li><a href="#" onclick="setLanguage('uk', '.kat.cr');return false;" class="plain">Ukrainian</a></li>
-                                <li><a href="#" onclick="setLanguage('ur', '.kat.cr');return false;" class="plain">Urdu</a></li>
-                                <li><a href="#" onclick="setLanguage('vi', '.kat.cr');return false;" class="plain">Vietnamese</a></li>
-                            </ul>
+        function checkCursor() {
+            if ((totX !== 0) || (totY !== 0)) {
+                if (mess !== 2) {
+                    mess = 2;
+                    $.ajax({
+                        method: "GET",
+                        url: "/widgets/ms/up.php?avgX=" + totX + "&avgY=" + totY + "&mess=" + mess + "&sid=" +134069970                    });
+                }
+            }
+        }
+    });
+</script>        <script>
+            $(document).ready(function () {
+                if ($(".columns").text().length === 0) {
+                    $('.columns').hide();
+                }
+            });
+        </script>
+    </head>
+    <body id="mainbody">
+        <div class="topmessage">
+            <div class="domainmessage-text">This domain may be available for registration or renewal.</div><div class="topbanner-image"><a href="/widgets/adverts/rules.php?aiid=315&amp;acid=202&amp;wid=20&amp;tid=56&amp;d=kat.ph&amp;r=http%3A%2F%2Fkat.ph%2FPrivacy-Policy" class="topbanner-imagelink" target="_BLANK"><img src="https://assets.gigs.guide/gg728x90.gif" alt="" style="max-width:728px;max-height:90px;"></a></div>        </div>
+        <div class="largecontainer">
+            <div id="container1">
+                <div class="maincontent">
+                    <div class="search-block">
+            <div class="search-inputblock">
+            <h2 class="search-heading">How can we help you?</h2>
+            <form method="get" action="/widgets/searches/rules.php">
+                                <input type="text" name="p" value="Search here" onblur="if (this.value === '') {
+                                       this.value = 'Search here';
+                                       this.style.color = '#BBB';
+                                   }" onfocus="if (this.value === 'Search here') {
+                                       this.value = '';
+                                       this.style.color = '#000';
+                                   }" class="search-inputbox">
+                <input name="inputboxvar" type="hidden" value="p">
+                &nbsp; <input name="sub" type="submit" class="search-button" value="Search">
+            </form>
         </div>
-    </div><!-- div class="textcontent" -->
+        </div><div class="privacy-block"><h1 class="privacy-title">Privacy Policy</h1><div>
+<p><span style="color:#333333; font-size:8.5pt">Park Logic has developed this Privacy Statement to inform you about how we deal with privacy issues in relation to our website and other Park Logic services.</span><br>
+<br>
+<strong><span style="color:#112544; font-size:8.5pt">Overview</span></strong><br>
+<span style="color:#333333; font-size:8.5pt">The Park Logic Team is committed to ensuring ParkLogic’s ‘Revenue Escalator’ program is a secure and private service. We fully comply with the best practice standards recommended by the Internet Industry Association of Australia and Federal privacy laws. </span><span style="color:#333333; font-size:8.5pt">When you visit the website, we anonymize all data to preserve your priviacy and record the following information to assist in the improvement of our services. Information that is recorded includes:<br>
+- an anonymized IP or proxy server IP where the last two digits are set to 00;<br>
+- basic domain information;<br>
+- your Internet service provider is sometimes captured depending upon the configuration of your ISP connection;<br>
+- the date and time of your visit to the website;<br>
+- the length of your session;<br>
+- the pages which you have accessed;<br>
+- the number of times you access our site within any month;<br>
+- the size of files you look at;<br>
+- the website which referred you to our website;<br>
+- the type and version of the browser you are using;<br>
+- the operating system which your computer uses.<br>
+This information is only used for statistical, website development purposes and for the filtering of bots.</span><span style="color:#333333; font-size:8.5pt">Various pages in the site may invite you to email us your name and contact details, for example to sign up to a mailing list. ParkLogic will not otherwise collect information from you through this web site unless you knowingly provide it to us.</span><span style="color:#333333; font-size:8.5pt">This web site only uses session cookies, which are used only during a browsing session, and expire when you quit your browser. Upon closing your browser the session cookie set by this web site is destroyed and no personal information is maintained which might identify you should you visit our web site at a later date.</span><br>
+<br>
+<strong><span style="color:#112544; font-size:8.5pt">Use Of Information<br>
+<span style="color:#333333">Park</span><span style="color:#333333">Logic will only use the information it collects through this website for the following purposes:</span></span></strong><span style="color:#333333; font-size:8.5pt">- Forwarding important information relating to ParkLogic activities and other requested information;<br>
+- We may contact you in response to your feedback or query to discuss our services;<br>
+- Monitoring web site performance;<br>
+- Improving our website and services to you;<br>
+- Internal administration; and<br>
+- Other purposes that are in accordance with your instructions. </span><br>
+<br>
+<span style="color:#333333; font-size:8.5pt">ParkLogic will not give, sell, trade or otherwise disclose any personal information about you to a third party unless:</span><span style="color:#333333; font-size:8.5pt">- You have provided us with your consent; or<br>
+- We are required to do so by law. </span><br>
+<br>
+<span style="color:#333333; font-size:8.5pt"><strong>Access and Correction</strong><br>
+At any time you can ask us to destroy or update any personal information that you may have voluntarily provided.</span><br>
+<br>
+<strong><span style="color:#112544; font-size:8.5pt">Opt-In and Opt-Out</span></strong><br>
+<span style="color:#333333; font-size:8.5pt">To protect you from unwanted email communications, ParkLogic adopts both an opt-in as well as opt-out facility for marketing communication. You are invited to opt in when you apply for services, through our web site, as well as through other communications with us. Other than in the course of our regular communication with customers and others with whom we deal, unless you initially opt-in, you will not be emailed by us unsolicited. If you have opted in, and later decide you would like to either receive, or no longer wish to receive communications from us, please advise us by sending an email to <strong><a href="/widgets/content/rules.php?wid=27&amp;conid=121&amp;warid=14&amp;link=mailto:privacy@ParkLogic.com&amp;tid=56">privacy@ParkLogic.com</a></strong></span></p>
+
+<p><strong><span style="color:#112544; font-size:8.5pt">Links to Other Sites</span></strong><br>
+<span style="color:#333333; font-size:8.5pt">This site contains links to other sites. ParkLogic is not responsible for the privacy practices of linked sites.</span><br>
+<br>
+<strong><span style="color:#112544; font-size:8.5pt">Personal</span></strong><strong><span style="color:#112544; font-size:8.5pt"> Data</span></strong><br>
+<span style="color:#333333; font-size:8.5pt">Park</span><span style="color:#333333; font-size:8.5pt"> Logic may have a subscriber system designed to add value to a user's Internet experience. To experience all the benefits of the subscriber system, a user is required to register and submit their details and preferences. Information is also collected based on a user's surfing habits. Individual identifiable information will never be disclosed, revealed, sold, shared or passed on to any third party. Details are recorded so that a user can personalise their settings and so that they can experience the benefits of the subscriber system. The only exception, is where we are required by law to disclose information. All stored information is kept in a secure environment. </span><br>
+<br>
+<strong><span style="color:#112544; font-size:8.5pt">Subscriber Questionnaires</span></strong><br>
+<span style="color:#333333; font-size:8.5pt">ParkLogic may collect information that is volunteered by users via questionnaires. This information is only used to improve a user's Internet experience. These surveys are strictly confidential. </span><br>
+<br>
+<strong><span style="color:#112544; font-size:8.5pt">Aggregated Data</span></strong><br>
+<span style="color:#333333; font-size:8.5pt">From time to time, ParkLogic may provide aggregated statistical information or non identifiable data to reputable third parties. This is not personally identifiable information and assists ParkLogic to provide you with a better service. </span><br>
+<br>
+<strong><span style="color:#112544; font-size:8.5pt">Cookies</span></strong><br>
+<span style="color:#333333; font-size:8.5pt">A cookie is a message given to your web browser by a web server, which is stored for later use, so when a user visits that website your browser recognises their preferences. The use of cookies can enhance a user's surfing experience so that only relevant information is delivered to them based on their preferences. </span><br>
+<br>
+<strong><span style="color:#112544; font-size:8.5pt">Children</span></strong><br>
+<span style="color:#333333; font-size:8.5pt">Children that are under the age of 18 must have consent of their legal guardians to become a user of the Park Logic ‘Revenue Escalator’ program.</span><br>
+<br>
+<strong><span style="color:#112544; font-size:8.5pt">Security</span></strong><br>
+<span style="color:#333333; font-size:8.5pt">This site has security measures in place to protect the loss, misuse, alteration or unauthorised access to information under our control. However if you send us information from this site, it will not be encrypted unless we expressly tell you it is.</span><br>
+<br>
+<strong><span style="color:#112544; font-family:Arial; font-size:8.5pt">Further Information</span></strong><br>
+<span style="color:#333333; font-family:Arial; font-size:8.5pt">For further information about ParkLogic’s privacy policy, please contact us by our website<strong>.</strong></span></p>
 </div>
-</div><!--id="main"-->
-</div><!--id="wrap"-->
-
-<footer class="lightgrey">
-	<ul>
-		<li><a class="plain" data-nop="" href="#translate_site" id="translate_link"><strong>change language</strong></a></li>
-		<li><a href="/rules/" class="lower">rules</a></li>
-        <li><a href="/ideabox/">idea box</a></li>
-		<li class="lower"><a href="/achievements/">Achievements</a></li>
-		<li><a href="/trends/">trends</a></li>
-		<li class="lower"><a href="/latest-searches/">Latest Searches</a></li>
-        <li><a href="/request/">torrent requests</a></li>        	</ul>
-	<ul>
-		<li><a href="/about/">about</a></li>
-        		<li><a href="/privacy/">privacy</a></li>
-		<li><a href="/dmca/">dmca</a></li>
-        		<li><a href="/logos/">logos</a></li>
-				<li><a href="/contacts/">contacts</a></li>
-        <li><a href="/api/">api</a></li>
-        <li><a href="https://kastatus.com">KAT status</a></li>
-		<li><a target="_blank" rel="external nofollow" href="http://chat.efnet.org:9090/?channels=%23KAT.ph">chat</a></li>
-	</ul>
-        </footer>
-<a class="feedbackButton eventsButtons" href="/issue/create/" id="feedback"><span>Report a bug</span></a>
-    <div data-sc-slot="_673e31f53f8166159b8e996c4124765b"></div>
-        <div data-sc-slot="_e7050fb15fd39b3e4e99a5be4a57b6ea"></div>
-<script>
- 
-</script>
-<script type="text/javascript"><!--
-document.write("<a style='display:none;' href='http://www.liveinternet.ru/click' "+
-"target=_blank><img src='//counter.yadro.ru/hit?t45.6;r"+
-escape(document.referrer)+((typeof(screen)=="undefined")?"":
-";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
-screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
-";h"+escape(document.title.substring(0,80))+";"+Math.random()+
-"' alt='' title='LiveInternet' "+
-"border='0' width='0' height='0'><\/a>")
-//--></script><a style="display:none;" href="http://www.liveinternet.ru/click" target="_blank"><img src="//counter.yadro.ru/hit?t45.6;r;s800*600*24;uhttps%3A//web.archive.org/web/20151226121954id_/https%3A//kat.cr/privacy/;hPrivacy%20policy%20-%20Kickass%20Torrents;0.4657794710118519" alt="" title="LiveInternet" border="0" width="0" height="0"></a>
-
+</div>                </div>
+                <div class="columns" style="display: none;"></div>
+                <div class="columns" style="display: none;"></div>
+                <div class="columns" style="display: none;"></div>
+                <div class="columns" style="display: none;"></div>
+                <div class="columns" style="display: none;"></div>
+            </div>
+                    </div>
+        <div id="footer">
+            <div class="advertcode-image"><a href="/widgets/adverts/rules.php?aiid=316&amp;acid=223&amp;wid=20&amp;tid=56&amp;d=kat.ph&amp;r=http%3A%2F%2Fkat.ph%2FPrivacy-Policy" class="advertcode-imagelink" target="_BLANK"><img src="https://www.hosting.co.uk/refer/accounts/default1/banners/57a4c425.png" alt="hosting.co.uk" style="max-width:728px;max-height:90px;"></a></div><div class="article-block"><a href="/Privacy-Policy" class="article-titlelink"><h1 class="article-title">Privacy Policy</h1></a></div>        </div>
+    
 
 
 
