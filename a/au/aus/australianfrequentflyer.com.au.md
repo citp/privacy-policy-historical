@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the australianfrequentflyer.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313225814id_/https%3A//www.australianfrequentflyer.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianfrequentflyer.com.au privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607011041id_/https%3A//www.australianfrequentflyer.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Australian Frequent Flyer
 
+**Last Update: 22 May 2018**
+
 The Australian Frequent Flyer (AFF) Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. References in this document to “us,” “our,” and “we” refer to AFF.
+
+If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it, how you can control it, and under what circumstances we may disclose it.
 
 ### What Information Do We Collect?
 
@@ -16,7 +20,9 @@ Email Information: If you choose to correspond with us through email, we may ret
 
 **2\. Website Use Information**
 
-Similar to other commercial websites, this site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this site, and the websites visited just before and just after our site. We, our advertisers, and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.
+Similar to other commercial websites, this site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how this site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at this site, and the websites visited just before and just after our site.
+
+We, our advertisers, and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them. To ensure compliance with to the new EU data protection laws coming into effect on 25 May 2018, we have instructed our ad serving company to remove personalised data from EU users that can be used for ad serving.
 
 ### How Do We Use the Information That You Provide to Us?
 
@@ -29,6 +35,10 @@ A cookie is a very small text document, which often includes an anonymous unique
 ### How Do We Use Information We Collect from Cookies?
 
 As you use this website, the site uses its cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our web server’s log files, allow us to calculate the aggregate number of people visiting this site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve this site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
+
+### How Can You Delete Cookies?
+
+You have the ability to delete any cookies from your system at any time. How you do this depends on your browser, but can usually be done from an option under the Preferences tab.
 
 ### Sharing Information with Third Parties
 
@@ -56,7 +66,7 @@ We are not responsible for the practices employed by websites linked to or from 
 
 ### Your Consent
 
-By using this site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on this site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+By using this site you consent to our collection and use of your personal information as described in this Privacy Policy.
 
 ### Contact Us
 
