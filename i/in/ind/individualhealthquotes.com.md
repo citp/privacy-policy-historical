@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204210440id_/http%3A//www.individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606160902id_/http%3A//www.individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
 
 # Individual Health Insurance Quotes – View Plans and Apply Online at IndividualHealthQuotes.com
 
-Effective Date: 01/26/2018
+Effective Date: 12/06/2018
 
 GoHealth, collectively, “GoHealth,” “We,” “Us,” or “Our,” believes it is important for you to know and understand how our website collects and uses your information, and the steps we take to protect your privacy. Please read this privacy policy carefully.
 
@@ -13,7 +13,7 @@ Please note that this privacy policy only applies to this website,  [http://www
 GoHealth uses this website to collect two (2) kinds of information: personally-identifiable information and non-personally-identifiable information.
 
 Personally-identifiable information:  
-When you use our Service, you are authorizing the sharing of your inquiry and your personally-identifiable information with other businesses that provide services that match your inquiry or may provide other valuable services to you. The personally-identifiable information we collect may include, but is not limited to:
+When you use our Service, you are authorizing the sharing of your inquiry and your personally-identifiable information with vendors who provide GoHealth data analytics insights and to other businesses that provide services that match your inquiry or may provide other valuable services to you. The personally-identifiable information we collect may include, but is not limited to:
 
   * Name
   * Address
@@ -84,7 +84,7 @@ GoHealth
 214 W. Huron Street  
 Chicago, IL 60654
 
-In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov).
+In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 1-916-445-1254 or 1-800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov).
 
 ## CAN-SPAM Compliance
 
