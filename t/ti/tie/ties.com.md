@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ties.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203170832id_/https%3A//www.ties.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ties.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606190902id_/https%3A//www.ties.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ties.com
 
@@ -58,14 +58,14 @@ If at some point in the future there is a change to our information usage practi
 
 We will send you e-mail messages during the processing of your order to verify your order placement and to notify you of its status. If there is a problem with your order, we may also contact you via e-mail, phone, or fax to notify you of the problem and solution. We may also contact you via e-mail, postal mail, phone, or fax regarding questions or comments you have regarding our website or our business. Surveys and post-sale satisfaction questions may also be administered via e-mail, postal mail, phone, or fax to help us better serve our customers. 
 
-We also use your Personal Information (like your e-mail or postal address) to contact you with marketing and promotional materials and other information that may be of interest to you (some of which may be sent by a third party service provider). If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or if you do not want us to share your Personal Information with these third party service providers, contact us at customerservice@ties.com with "Privacy" as the subject line of the e-mail. 
+We also use your Personal Information (like your e-mail or postal address) to contact you with marketing and promotional materials and other information that may be of interest to you (some of which may be sent by a third party service provider). If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or if you do not want us to share your Personal Information with these third party service providers, contact us at help@ties.com with "Privacy" as the subject line of the e-mail. 
 
 **Sending E-mails Via The Service**  
 As part of the Service, Members may communicate with third parties through use of their Accounts. When a Member selects the option of adding one or more e-mail addresses to an online form, the message they create in the corresponding template will be sent from Wild Attire, Inc. to those e-mail addresses on their behalf. These e-mail addresses will be used only for the purpose of sending the e-mail communication to the addressee. 
 
 ### Contacting Us
 
-You may contact us with any concerns you may have at 1 (800) 289-2843 or via e-mail at customerservice@ties.com. You may also send us correspondence via postal mail to the following address: 
+You may contact us with any concerns you may have at 1 (800) 289-2843 or via e-mail at help@ties.com. You may also send us correspondence via postal mail to the following address: 
 
 Ties.com Customer Service  
 10372 Stanford Ave, Suite Q  
