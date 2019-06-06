@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the atavi.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401092903id_/https%3A//atavi.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atavi.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606074746id_/https%3A//atavi.com/content/privacy) for the most accurate reproduction.*
 
 # Atavi - bookmark manager
+
+The service is provided by SOFTLAB CORP.LLP (hereinafter referred to as "We", "Our", in any case and number, "SOFTLAB CORP.LLP "), registered at the following address: LAS SUITE 5 PERCY STREET, FITZROVIA, LONDON, ENGLAND, W1T 1DG; Legal entity registration number: OC392736. 
 
 Atavi.com is committed to protecting your personal information when you are using Atavi services. 
 
