@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocket.chat privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929062112id_/https%3A//rocket.chat/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocket.chat privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607015517id_/https%3A//rocket.chat/privacy) for the most accurate reproduction.*
 
 # Rocket.Chat - Rocket.Chat Privacy Policy
 
