@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samair.ru privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002024758id_/https%3A//premproxy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samair.ru privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606073731id_/https%3A//premproxy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PremProxy.com
 
