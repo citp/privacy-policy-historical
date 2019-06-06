@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistanjobsbank.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208221033id_/http%3A//www.pakistanjobsbank.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanjobsbank.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606075216id_/http%3A//www.pakistanjobsbank.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pakistan Jobs
 
@@ -31,4 +31,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 The newspaper ads provided by Pakistan Jobs Bank are collected from Pakistan's leading newspapers like Daily Jang, Express, Nawa-i-Waqt, The News, Dawn & The Nation. Our aim is to facilitate job seekers from various cities of Pakistan like Karachi, Lahore, Rawalpindi, Islamabad, Peshawar, etc. by providing them all www newspaper job advertisements on a single .com .pk website. This is done as a public service in good faith and we are not responsible for any incorrect, misrepresented or misleading advertisement. 
 
-Copyright 2018 Pakistan Jobs Bank. All Rights Reserved. 
+Copyright 2019 Pakistan Jobs Bank. All Rights Reserved. 
