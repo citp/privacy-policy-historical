@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themotherlist.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527085549id_/http%3A//themotherlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themotherlist.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606184858id_/http%3A//themotherlist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Mother List
 
@@ -50,7 +50,7 @@ The Mother List uses a lot of links. Partly because they allow us to guide you t
 
 #### Transactions
 
-All transactions placed on The Mother List are processed through a third party vendor that uses Secure Socket Layer (“SSL”) technology to protect your personally identifiable information. SSL encrypts your order information, including your name, address, and payment card number before it is transmitted online.] 
+All transactions placed on The Mother List are processed through a third party vendor that uses Secure Socket Layer (“SSL”) technology to protect your personally identifiable information. SSL encrypts your order information, including your name, address, and payment card number before it is transmitted online.]
 
 Of course, the security of any data transmission over the internet cannot be guaranteed, and any information that you transmit to us is at your own risk.
 
