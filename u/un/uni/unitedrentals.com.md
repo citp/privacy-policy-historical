@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unitedrentals.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222162633id_/https%3A//www.unitedrentals.com/en/included-content/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedrentals.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606043551id_/https%3A//www.unitedrentals.com/included-content/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | United Rentals
 
-Protecting your information online is of the utmost importance to United Rentals, Inc.  (together with its affiliated companies, “United Rentals” or “we” or “us”).  This Privacy Policy explains what information we collect, and how we will and will not use the information you entrust to us, through our websites located at [http://www.ur.com](http://www.ur.com/), [http://www.unitedrentals.com](http://www.unitedrentals.com/), [http://www.unitedacademy.com](http://www.unitedacademy.com/), [http://urcontrol.ur.com](http://urcontrol.ur.com/), <http://ur.rousesales.com/>, [http://www.totalcontrol.net](http://www.totalcontrol.net/) and [http://totalcontrol.ur.com ](http://totalcontrol.ur.com%20/) (collectively, the “Site”).
+Protecting your information online is of the utmost importance to United Rentals, Inc.  (together with its affiliated companies, “United Rentals” or “we” or “us”).  This Privacy Policy explains what information we collect, and how we will and will not use the information you entrust to us, through our websites located at http://www.ur.com, http://www.unitedrentals.com, http://www.unitedacademy.ur.com, http://urcontrol.ur.com, http://ur.rousesales.com/, http://www.totalcontrol.net and http://totalcontrol.ur.com  (collectively, the “Site”).
 
 This policy applies to information we collect:
 
@@ -146,9 +146,9 @@ We may also disclose your personal and financial information:
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-  *  **Tracking Technologies and Advertising.**  You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-  *  **Promotional Offers from United Rentals.**  If you do not wish to have your contact information used by United Rentals to promote our own or third parties' products or services, you can opt-out by contacting our Privacy Officer (see  **Contact Us**  below for details on how to contact our Privacy Officer). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to United Rentals as a result of a product purchase, warranty registration, product service experience or other transactions.
-  *  **Targeted Advertising.**  If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by contacting our Privacy Officer (see ** _Contact Us_**  below for details on how to contact our Privacy Officer).  For this opt-out to function, you must have your browser set to accept browser cookies. 
+  * **Tracking Technologies and Advertising.**  You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * **Promotional Offers from United Rentals.**  If you do not wish to have your contact information used by United Rentals to promote our own or third parties' products or services, you can opt-out by contacting our Privacy Officer (see  **Contact Us**  below for details on how to contact our Privacy Officer). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to United Rentals as a result of a product purchase, warranty registration, product service experience or other transactions.
+  * **Targeted Advertising.**  If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by contacting our Privacy Officer (see ** _Contact Us_**  below for details on how to contact our Privacy Officer).  For this opt-out to function, you must have your browser set to accept browser cookies. 
 
 
 
@@ -162,7 +162,7 @@ The content of our Site is not targeted to or intended for, children under 13 ye
 
 If you have a UnitedRentals.com account, you can review and change your personal information by logging into the Site and visiting your account profile page, and updating your information.  Please note that this will not update your customer account with us, just the Site account.
 
-You may also send us an e-mail at [MKT-Web@ur.com](mailto:MKT-Web@ur.com), [urcontrolsupport@ur.com](mailto:urcontrolsupport@ur.com) (for URControl.com users) or [totalcontrolsupport@ur.com](mailto:totalcontrolsupport@ur.com) (for TotalControl.com users) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may also send us an e-mail at MKT-Web@ur.com, urcontrolsupport@ur.com (for URControl.com users) or totalcontrolsupport@ur.com (for TotalControl.com users) to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 ### Your California Privacy Rights
 
@@ -180,7 +180,7 @@ It is our policy to post any changes we make to our privacy policy on this page 
 
 ### Contact Us
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at [MKT-Web@ur.com](mailto:MKT-Web@ur.com), [urcontrolsupport@ur.com](mailto:urcontrolsupport@ur.com) (for URControl.com users) or [totalcontrolsupport@ur.com](mailto:totalcontrolsupport@ur.com) (for TotalControl.com users), or by contact our Privacy Officer at:
+To ask questions or comment about this privacy policy and our privacy practices, contact us at MKT-Web@ur.com, urcontrolsupport@ur.com (for URControl.com users) or totalcontrolsupport@ur.com (for TotalControl.com users), or by contact our Privacy Officer at:
 
 Attn:  Privacy Officer  
 United Rentals Alertline  
@@ -190,4 +190,5 @@ Charlotte, NC 28273
 
 Please be sure to include your full name, address, telephone number and e-mail address so that we may reach you with a response.  You may also call 1-877-HELP-URI (1-877-435-7874).
 
-Last Modified:  June 9, 2016
+  
+Last Modified:  February 5, 2018
