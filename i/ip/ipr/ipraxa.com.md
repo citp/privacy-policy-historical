@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ipraxa.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007070347id_/http%3A//www.ipraxa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipraxa.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606133347id_/https%3A//www.ipraxa.com/privacy.html) for the most accurate reproduction.*
 
 # iPraxa Privacy Policy
 
 Privacy Policy
-
-## Effective Date:
 
 At iPraxa, we understand how vital privacy is to our clients and visitors, and therefore we strive to be crystal clear about how we collect, use, disclose and store your personal information. Please note that whenever you visit, see, use and communicate with iPraxa.com from a computer, mobile phone, tablet, TV, or any other device, you accept to this privacy policy along with our Terms & Conditions mentioned on our website www.iPraxa.com.
 
