@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voxer.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004003204id_/https%3A//voxer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxer.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606155843id_/https%3A//www.voxer.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for Voxer - Mobile Walkie Talkie App
 
 Voxer, Inc. Privacy Policy
 
