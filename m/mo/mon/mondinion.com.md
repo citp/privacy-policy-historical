@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mondinion.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201024744id_/http%3A//www.mondinion.com/International_Property/def/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondinion.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606175540id_/http%3A//www.mondinion.com/International_Property/def/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mondinion.com Global Real Estate
 
