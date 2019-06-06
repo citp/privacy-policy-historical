@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldest.org privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206145337id_/http%3A//www.oldest.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldest.org privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606020329id_/http%3A//www.oldest.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oldest.org
 
@@ -120,7 +120,7 @@ Your rights
 4\. Right to restrict our use of your Data – the right to “block” us from using your Data or limit the way in which we can use it.  
 5\. Right to data portability – the right to request that we move, copy or transfer your Data.  
 6\. Right to object – the right to object to our use of your Data including where we use it for our legitimate interests.  
-To make enquiries, exercise any of your rights set out above, or withdraw your consent to the processing of your Data (where consent is our legal basis for processing your Data), please contact us via this e-mail address: [[email protected]](http://www.oldest.org/cdn-cgi/l/email-protection)
+To make enquiries, exercise any of your rights set out above, or withdraw your consent to the processing of your Data (where consent is our legal basis for processing your Data), please contact us via this e-mail address: contact@oldest.org.
 
 ## Links To Other Sites
 
@@ -146,6 +146,6 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-  * By email: [[email protected]](http://www.oldest.org/cdn-cgi/l/email-protection)
+  * By email: contact@oldest.org
 
 
