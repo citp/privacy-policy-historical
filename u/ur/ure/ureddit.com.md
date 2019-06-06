@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ureddit.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130021604id_/http%3A//ureddit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ureddit.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606150547id_/http%3A//ureddit.com/privacy) for the most accurate reproduction.*
 
 # University of Reddit : Privacy Policy
 
