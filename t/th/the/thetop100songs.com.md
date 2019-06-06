@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetop100songs.com privacy policy that was archived on 2018-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180715073240id_/https%3A//www.muxicbeats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetop100songs.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607015837id_/https%3A//www.muxicbeats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which The Top 100 Songs collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.muxicbeats.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by The Top 100 Songs.
+This Privacy Policy governs the manner in which The Top 100 Songs collects, uses, maintains and discloses information collected from users (each, a “User”) of the [//www.muxicbeats.com/](https://www.muxicbeats.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Top 100 Songs.
 
 ### Personal identification information
 
@@ -53,7 +53,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 ### Legitimate Interest
 
-Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com.
 
 ### External Links
 
@@ -74,4 +74,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 ### Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-<http://www.muxicbeats.com/contact-us/>
+[//www.muxicbeats.com/contact-us/](https://www.muxicbeats.com/contact-us/)
