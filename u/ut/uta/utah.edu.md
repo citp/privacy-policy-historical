@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206205818id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.edu privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606022601id_/http%3A//www.utah.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - The University of Utah
 
@@ -78,7 +78,7 @@ Salt Lake City, UT 84112
 (801) 585-7320  
 [webmaster@utah.edu](mailto:webmaster@utah.edu)
 
-**Last Updated** : 1/3/05 
+**Last Updated** : 6/4/18 
 
 **Effective Date:** 10/24/03 
 
