@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the mindat.org privacy policy that was archived on 2018-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181210201701id_/https%3A//www.mindat.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindat.org privacy policy that was archived on 2019-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190607050518id_/https%3A//www.mindat.org/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="apple-touch-icon" sizes="57x57" href="/fav/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/fav/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/fav/apple-icon-72x72.png">
@@ -15,19 +16,20 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/fav/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="96x96" href="/fav/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/fav/favicon-16x16.png">
-<link rel="stylesheet" href="/mindat.css?revision=2018120602" type="text/css">
+<meta name="B-verify" content="a8ab4b189d69a4d0766ec8c6eb0bcbb367b93737">
+<link rel="stylesheet" href="/mindat.css?revision=2019041602" type="text/css">
 
 
 <title>Privacy policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <meta name="theme-color" content="#128397">
 <!-- Windows Phone -->
 <meta name="msapplication-navbutton-color" content="#128397">
 <!-- iOS Safari -->
 <meta name="apple-mobile-web-app-status-bar-style" content="#128397">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0,
+ <meta name="viewport" content="width=device-width, initial-scale=1.0,
   minimum-scale=1.0, maximum-scale=4.0">
+ 
 <link rel="alternate" hreflang="zh" href="https://zh.mindat.org/privacy.php">
 <link rel="alternate" hreflang="x-default" href="https://www.mindat.org/privacy.php">
 
@@ -96,6 +98,10 @@ if(gap>0)
 	var ht = $el2.height();
 	if(!origheight) origheight=ht;
 	$el2.css("min-height",ht+gap+1);
+
+	
+
+	
 }
 }
 }
@@ -106,16 +112,18 @@ if(gap>0)
 <a id="anchortop"></a>
 <div id="pleasewait"></div>
 <script> $("#pleasewait").html("Please wait while page loads...").delay(3000).fadeIn(); 
-$(function() { $("#pleasewait").stop().hide(); });
+
+
 </script>
+
 <script>
 if (navigator.userAgent.indexOf("Trident") !== -1)
 {
 	document.write("<div id='browserbad'><b>Sorry - you are using an old, incompatible browser. Internet Explorer and older browser versions are not supported and may not display correctly.</b><br><br>Please try <a href='https://www.microsoft.com/en-gb/windows/microsoft-edge'>Microsoft Edge</a>, <a href='https://www.google.com/chrome/'>Google Chrome</a> or <a href='https://www.mozilla.org/en-GB/firefox/'>Mozilla Firefox</a>.</div>");
+
 }
 </script>
-<div class="testhead testhead2"><a href="/donate.php" style="text-align: center; display: block; color: #fff"><b style="color: #ff0">ALMOST THERE!</b>. Help us with a final push needed to keep mindat.org running. Click here to help.</a></div>
-<div id="catabanner"><a href="https://prf.hn/click/camref:1100l49fW/destination:https%3A%2F%2Fwww.catawiki.com%2Fa%2F185035"><img src="/fpads/cata.png"><span>Catawiki are hosting a mindat.org benefit auction. All proceeds to mindat.org! BID NOW</span></a></div>
+
 
 
 
@@ -135,28 +143,6 @@ if (navigator.userAgent.indexOf("Trident") !== -1)
 <label for="langsel">Language:</label>
 <select name="langsel">
 <option value="en" selected="">English</option><option value="zh">中文</option></select>
-<script>
-var newurl;
-$("#languageselector SELECT").change(
-		function() {
-			switch($(this).val())
-			{
-			case 'en':
-				newurl="www.mindat.org";
-			break;
-			default:
-				newurl=$(this).val()+".mindat.org";
-			break;
-			
-			}
-			window.location.href='https://'+newurl;
-		});
-
-</script>
-
-
-
-
 </div>
 
 </div>
@@ -179,6 +165,39 @@ $("#languageselector SELECT").change(
 
 
 <script>
+
+$(function() { 
+	$("#pleasewait").stop().hide(); 
+
+	
+
+
+
+
+	});
+
+var newurl;
+$("#languageselector SELECT").change(
+		function() {
+			switch($(this).val())
+			{
+			case 'en':
+				newurl="www.mindat.org";
+			break;
+			default:
+				newurl=$(this).val()+".mindat.org";
+			break;
+			
+			}
+			window.location.href='https://'+newurl;
+		});
+
+
+
+
+
+
+
 var searchmenuon = 0;
 function openexpander(nm,suf)
 {
@@ -190,6 +209,14 @@ function openexpander(nm,suf)
 	
 	$(".expandmenu"+suf).hide();
 	$("#"+nm).fadeIn(500);
+
+	if (typeof checkautonav === "function") { 
+	   checkautonav();
+	}
+
+	if (typeof checkautoad === "function") { 
+		   checkautoad();
+		}
 
 }
 </script>
@@ -298,8 +325,9 @@ function usearch(ctrl)
 
 
 
+
 <div class="centerer whitecenterer">
-<div id="topmainbanner"></div>
+<div id="ADwrap"><div id="ADcol"></div></div><div id="topmainbanner"></div>
 <div id="topmainbannertablet"></div>
 <div id="topmainbannerphone"></div>
 <div class="fpbox990nl">
@@ -355,20 +383,18 @@ and/or Locality <input name="loc" style="width: 137px;">&nbsp;<input type="submi
 
 
 <div id="footertext">
-Mindat.org is an outreach project of the <a href="/a/hudsoninstituteofmineralogy">Hudson Institute of Mineralogy</a>, a 501(c)(3) not-for-profit organization.<br>Copyright © mindat.org and the Hudson Institute of Mineralogy 1993-2018, except where stated. Mindat.org relies on the contributions of thousands of members and supporters. 
+Mindat.org is an outreach project of the <a href="/a/hudsoninstituteofmineralogy">Hudson Institute of Mineralogy</a>, a 501(c)(3) not-for-profit organization. Public Relations by <a href="https://www.blytheweigh.com">Blythe<i>weigh</i></a>.<br>Copyright © mindat.org and the Hudson Institute of Mineralogy 1993-2019, except where stated. Most political location boundaries are <a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors</a>. Mindat.org relies on the contributions of thousands of members and supporters. 
 <br><a href="/privacy.php">Privacy Policy</a> - <a href="/terms.php">Terms &amp; Conditions</a> -
 <a href="/contact.php">Contact Us</a>
 	
 	
-<span style="float: right">Current server date and time: December 10, 2018 20:17:01
+<span style="float: right">Current server date and time: June 7, 2019 06:05:19
 
 </span>
 
 <div class="clearer"></div>
 <div>
-				
-				
-
+			
 <a href="javascript:scroll(0,0)">Go to top of page</a></div>
 </div><script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
