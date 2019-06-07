@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterhelp.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227214346id_/https%3A//www.betterhelp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterhelp.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607232406id_/https%3A//www.betterhelp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BetterHelp
 
@@ -74,6 +74,8 @@ This section provides additional information about our Privacy Policy relevant t
 
 
 You can view and edit any personal data that you have provided to us using this website. Automated processing of your Personal Information is necessary to operate the Platform effectively and to provide counseling and related services.
+
+You can exercise any of the rights the law confers to you, like for example: opt-out of all data processing, or request erasure of your data by following the instructions on our [opt-out page](https://web.archive.org/opt_out/). In some cases, we may be required to retain personal data to comply with applicable medical record retention laws.
 
 BetterHelp is the Controller with respect to your Personal Data. You can contact our Data Protection Officer with questions, concerns or objections about this policy, or about your data by writing to:
 
