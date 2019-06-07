@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the evidon.com privacy policy that was archived on 2018-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181215231407id_/https%3A//www.evidon.com/resources/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the evidon.com privacy policy that was archived on 2019-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190608001538id_/https%3A//www.evidon.com/resources/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" dir="ltr" lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 	<meta charset="UTF-8">
@@ -17,25 +17,30 @@
 	<link rel="shortcut icon" href="https://www.evidon.com/wp-content/themes/evidon/images/icons/favicons/favicon.ico">
 	<meta name="msapplication-config" content="https://www.evidon.com/wp-content/themes/evidon/images/icons/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
+	<script src="https://tagcontrol-cdn.evidon.com/script/v1/tagcontrol.js" companyid="242"></script>
 
-	<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K68BMPF"></script><script>
-		var companyId=242,tagControlDomain="tagcontrolapi.evidon.com";window.tagControl={};var apiUrl="https://"+tagControlDomain+"/Api/v1",config={keys:["blockedURI","disposition","documentURI","effectiveDirective","originalPolicy","referrer","sample","sourceFile","statusCode","violatedDirective"],reportUri:apiUrl+"/CSP"},reportKeys={blockedURI:"blockedURI",documentURI:"documentURI",effectiveDirective:"effectiveDirective",originalPolicy:"originalPolicy",sourceFile:"sourceFile",statusCode:"statusCode",violatedDirective:"violatedDirective"};document.addEventListener("securitypolicyviolation",function(e){var t={"csp-report":{}};t["csp-report"].companyId=companyId;for(var o=0,i=config.keys.length;o<i;o++)0!==e[config.keys[o]]&&""!==e[config.keys[o]]&&(t["csp-report"][reportKeys[config.keys[o]]?reportKeys[config.keys[o]]:config.keys[o]]=e[config.keys[o]]);var n=new XMLHttpRequest;n.open("POST",config.reportUri,!0),n.setRequestHeader("content-type","application/json"),n.send(JSON.stringify([t["csp-report"]]))});var meta=document.querySelector('meta[name="evidon-tagcontrol"]');function domainReqListener(){var e=JSON.parse(this.responseText);meta||((meta=document.createElement("meta")).setAttribute("http-equiv","Content-Security-Policy"),meta.setAttribute("name","evidon-tagcontrol")),meta.setAttribute("content","default-src 'self' 'unsafe-inline' tagcontrolapi.evidonstage.com "+tagControlDomain+" "+e.join(" ")+";"),document.getElementsByTagName("head")[0].prepend(meta),window.tagControl.tagControlCallback()}function domainRequestFailed(e){console.log("Error retreiving Tag Control policy",e),window.tagControl.tagControlCallback()}var oReq=new XMLHttpRequest;oReq.addEventListener("load",domainReqListener),oReq.addEventListener("error",domainRequestFailed),oReq.open("GET",apiUrl+"/Tag/Whitelist/Company/"+companyId+"/domains"),oReq.send();
-	</script>
-
-	<!-- third party tags callback -->
+	<!-- first party tags callback -->
 	<script>
+		window.tagControl = {"executed": false}
+		setTimeout(function() {
+			if (!window.tagControl.executed) {
+				window.tagControl.tagControlCallback();
+			}
+		}, 1000);
 		window.tagControl.tagControlCallback = function () {
-			// Add third party js here
-			// =========================
-			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-			})(window,document,'script','dataLayer','GTM-K68BMPF');
-			// =========================
+			if (!window.tagControl.executed) {
+				window.tagControl.executed = true;
+				// Add first party js here
+				// =========================
+				(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','dataLayer','GTM-K68BMPF');
+				// =========================
+			}
 		}
 	</script>
-
 	<link rel="stylesheet" type="text/css" media="all" href="https://www.evidon.com/wp-content/themes/evidon/css/foundation.css">
 	<link rel="stylesheet" type="text/css" media="all" href="https://www.evidon.com/wp-content/themes/evidon/style.css">
 
@@ -57,8 +62,9 @@
 <meta name="twitter:creator" content="@evidon_inc">
 <!-- / Yoast SEO plugin. -->
 
-<link rel="stylesheet" id="simple-payments-css" href="https://www.evidon.com/wp-content/plugins/jetpack/modules/simple-payments/simple-payments.css?ver=4.9.9" type="text/css" media="all">
-<link rel="stylesheet" id="open-sans-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&amp;subset=latin%2Clatin-ext&amp;ver=4.9.9" type="text/css" media="all">
+<link rel="stylesheet" id="simple-payments-css" href="https://www.evidon.com/wp-content/plugins/jetpack/modules/simple-payments/simple-payments.css?ver=5.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.evidon.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="open-sans-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&amp;subset=latin%2Clatin-ext&amp;ver=5.2.1" type="text/css" media="all">
 <link rel="stylesheet" id="jetpack_css-css" href="https://www.evidon.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.2.1" type="text/css" media="all">
 <script type="text/javascript" src="https://www.evidon.com/wp-content/themes/evidon/js/vendor/jquery.min.js?ver=2.2.4"></script>
 <script type="text/javascript" src="https://www.evidon.com/wp-content/plugins/sitepress-multilingual-cms/res/js/jquery.cookie.js?ver=3.7.1"></script>
@@ -83,7 +89,6 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 <meta name="msapplication-TileImage" content="https://www.evidon.com/wp-content/uploads/2017/09/cropped-Evidon-FaviconColor_UPDATED-270x270.png">
 </head>
 <body class="page-template-default page page-id-173 page-child parent-pageid-158 page-privacy-statement">
-
 	<!-- Google Tag Manager (noscript) Append in the Body -->
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K68BMPF"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -187,7 +192,7 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 	<ul class="vertical menu">
 		<li><a title="Our People" href="https://www.evidon.com/company/our-people/">Our People</a></li>
 		<li><a title="Press Releases" href="https://www.evidon.com/company/press-releases/">Press Releases</a></li>
-		<li><a title="Careers" href="https://www.evidon.com/company/careers/">Careers</a></li>
+		<li><a title="Careers" href="https://www.evidon.com/careers/">Careers</a></li>
 	</ul>
 </li>
 </ul>
@@ -196,8 +201,8 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 <ul class="vertical menu">
 	<li class="heading"><a title="Support">Support</a>
 	<ul class="vertical menu">
-		<li><a title="FAQs" href="/faqs">FAQs</a></li>
-		<li><a title="Help Center" target="_blank" href="https://support.crownpeak.com">Help Center</a></li>
+		<li><a title="Community" target="_blank" href="https://community.crownpeak.com">Community</a></li>
+		<li><a title="FAQs" href="https://community.crownpeak.com/t5/FAQs-for-DG/tkb-p/dg_kb">FAQs</a></li>
 		<li><a title="Submit a Tracker" href="https://www.evidon.com/contact-us/submit-a-tracker/">Submit a Tracker</a></li>
 	</ul>
 </li>
@@ -322,7 +327,7 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 	<ul class="vertical menu">
 		<li><a title="Our People" href="https://www.evidon.com/company/our-people/">Our People</a></li>
 		<li><a title="Press Releases" href="https://www.evidon.com/company/press-releases/">Press Releases</a></li>
-		<li><a title="Careers" href="https://www.evidon.com/company/careers/">Careers</a></li>
+		<li><a title="Careers" href="https://www.evidon.com/careers/">Careers</a></li>
 	</ul>
 </li>
 </ul>
@@ -331,8 +336,8 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 <ul class="vertical menu">
 	<li class="heading"><a title="Support">Support</a>
 	<ul class="vertical menu">
-		<li><a title="FAQs" href="/faqs">FAQs</a></li>
-		<li><a title="Help Center" target="_blank" href="https://support.crownpeak.com">Help Center</a></li>
+		<li><a title="Community" target="_blank" href="https://community.crownpeak.com">Community</a></li>
+		<li><a title="FAQs" href="https://community.crownpeak.com/t5/FAQs-for-DG/tkb-p/dg_kb">FAQs</a></li>
 		<li><a title="Submit a Tracker" href="https://www.evidon.com/contact-us/submit-a-tracker/">Submit a Tracker</a></li>
 	</ul>
 </li>
@@ -402,6 +407,10 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 <p>Effective Date: February 15, 2017</p>
 <p><strong>Introduction:</strong> We’ve gone back to our earlier name, but our mission remains the same: transparency for all. We believe deeply in this core principle and recognize that transparency, when done right, requires ongoing effort. That is why you may see Evidon change this Privacy Statement from time to time, so it can share with you not only new information about its data practices, but also new ways to communicate that information. Evidon’s goal is to empower you by giving you straightforward information so you can make an informed decision whether or not to use its products or services. Evidon is a a for-profit company and makes software products that allow for better data governance and improve the online ecosystem by helping people and organizations see, understand, and control how data is collected and used across the web—for advertising, e-commerce and more. Transparency for everyone.</p>
 <p><strong>Website:</strong> This website, evidon.wpengine.com (the “Website”), is owned and operated by Evidon, Inc., and is subject to the Terms of Use Agreement found in the footer of the Website. This Privacy Statement governs information you share with Evidon when you use this Website, including personal data and explains Evidon’s data collection and use practices.</p>
+<p><strong>Third Party Websites:</strong>&nbsp;Evidon does not collect, retain or share end user information including unique user identifiers, or personally identifiable information gathered on sites or apps not owned by Evidon (“Third Party Websites”). For purposes of clarification, Evidon collects IP addresses on Third Party Websites, such collection: </p>
+<p>1. Recorded only for the purpose of recording consent;<br>
+2. Retained only for the minimum amount of time required by law; and<br>
+3. Not associated with any online activity (e.g., websites visited)</p>
 <p><strong>Application:</strong> This Privacy Statement applies to all information, personal or otherwise, received on this Website. This Privacy Statement does not govern Evidon’s specific products, which have their own privacy statements found on this Website.</p>
 <p><strong>International Visitors and Customers:</strong> Evidon is located in the United States. If you are accessing the Website from the European Union or other geographic regions with laws governing data collection and use that may differ from U.S. law, please note that the U.S. does not have the same data protection laws as the European Union and if Evidon collects or processes your personal data, it will be done by a company based in the U.S.</p>
 <p><strong>Data Practices and Processing Basis:</strong> Evidon may ask you to provide your personal data if you would like to take advantage of its products or services. Personal data means any information that may be used to identify you, including, but not limited to, your name, company name, telephone number, email address, device identification, or a specific technology that can be used to reasonably identify you. Evidon has a legitimate interest to collect and process your personal data, namely to respond to your requests, to otherwise transact business with you, or in certain cases, as required by law.</p>
@@ -433,7 +442,6 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 	<li><a href="https://www.facebook.com/Evidon-209342549532046/" title="Evidon on Facebook"><i class="fa fa-facebook"></i></a></li>
 	<li><a href="https://twitter.com/evidon" title="Evidon on Twitter"><i class="fa fa-twitter"></i></a></li>
 	<li><a href="https://www.linkedin.com/company/evidon-inc" title="Evidon on LinkedIn"><i class="fa fa-linkedin"></i></a></li>
-	<li><a href="https://plus.google.com/u/0/111029404205919590984" title="Evidon on Google Plus"><i class="fa fa-google-plus"></i></a></li>
 	<li><a href="mailto:info@evidon.com" title="Email Evidon"><i class="fa fa-envelope"></i></a></li>
 </ul>
 					</div>
@@ -518,7 +526,7 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 	<ul class="vertical menu">
 		<li id="menu-item-976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-976"><a title="Our People" href="https://www.evidon.com/company/our-people/">Our People</a></li>
 		<li id="menu-item-223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a title="Press Releases" href="https://www.evidon.com/company/press-releases/">Press Releases</a></li>
-		<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a title="Careers" href="https://www.evidon.com/company/careers/">Careers</a></li>
+		<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a title="Careers" href="https://www.evidon.com/careers/">Careers</a></li>
 	</ul>
 </li>
 </ul>
@@ -527,8 +535,8 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 <ul class="vertical menu">
 	<li id="menu-item-209" class="heading menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-209"><a title="Support">Support</a>
 	<ul class="vertical menu">
-		<li id="menu-item-212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212"><a title="FAQs" href="/faqs">FAQs</a></li>
-		<li id="menu-item-211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211"><a title="Help Center" target="_blank" href="https://support.crownpeak.com">Help Center</a></li>
+		<li id="menu-item-211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211"><a title="Community" target="_blank" href="https://community.crownpeak.com">Community</a></li>
+		<li id="menu-item-3628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3628"><a title="FAQs" href="https://community.crownpeak.com/t5/FAQs-for-DG/tkb-p/dg_kb">FAQs</a></li>
 		<li id="menu-item-2621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2621"><a title="Submit a Tracker" href="https://www.evidon.com/contact-us/submit-a-tracker/">Submit a Tracker</a></li>
 	</ul>
 </li>
@@ -561,7 +569,7 @@ var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":
 <script type="text/javascript" src="https://www.evidon.com/wp-content/themes/evidon/js/money/money.min.js?ver=0.2"></script>
 <script type="text/javascript" src="https://www.evidon.com/wp-content/themes/evidon/js/vendor/d3.js?ver=4.10.2"></script>
 <script type="text/javascript" src="https://www.evidon.com/wp-content/themes/evidon/js/app.js?ver=1.0.0"></script>
-<script type="text/javascript" src="https://www.evidon.com/wp-includes/js/wp-embed.min.js?ver=4.9.9"></script>
+<script type="text/javascript" src="https://www.evidon.com/wp-includes/js/wp-embed.min.js?ver=5.2.1"></script>
 
 
 
