@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lessonpix.com privacy policy that was archived on 2018-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181216091503id_/http%3A//www.lessonpix.com/articles/11/26/LessonPix%2BPrivacy%2BPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lessonpix.com privacy policy that was archived on 2019-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190607052601id_/http%3A//lessonpix.com/articles/11/26/LessonPix%2BPrivacy%2BPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class=" webkit chrome linux js"><head>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
@@ -10,13 +10,17 @@
 <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
 <script src="/js/jquery-migrate-1.2.1.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+  <!-- Adding Spectrum to support better color selection -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/spectrum/1.8.0/spectrum.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/spectrum/1.8.0/spectrum.min.css">
+
   <link rel="stylesheet" href="/cssCG/share.css" type="text/css">
  <link rel="stylesheet" href="/cssCG/reset.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/layout.css" type="text/css"> 
   <link rel="stylesheet" href="/css/actionButtons.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/forum.css" type="text/css">
   <link rel="stylesheet" type="text/css" href="/css/jquery.selectbox.css">
-  <link rel="stylesheet" href="/cssCG/main.css" type="text/css">
+  <link rel="stylesheet" href="/cssCG/main2.css" type="text/css">
   <link rel="stylesheet" href="/css/star_rating.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/dash3.css" type="text/css"> 
   <link rel="stylesheet" href="/cssCG/home3.css" type="text/css">
@@ -173,7 +177,12 @@ ga('send', 'pageview');
 	   }
 	   );
 	 });
-
+       
+       //adding fontselect setting from dialog - we use them on SymbolBuilder
+       $(".fontSelect option").each(function(index) {
+	   $(this).css("font-family", $(this).attr('value'));
+	   $(this).css("font-size", '20px');
+	 });
 
        $("#blendDot").click(function() {
 	   $("#blendInstr").dialog('open');
@@ -234,6 +243,24 @@ ga('send', 'pageview');
 	 ico:	'/images/jquery.colourPicker.gif', 
 	 title:false
 	     });
+       //Spectrum is a better color picker
+       var spectrumOptions = {
+       preferredFormat:'hex',
+       showPaletteOnly: true,
+       hideAfterPaletteSelect:true,
+       palette: [
+		 ["000","444","666","999","ccc","eee","f3f3f3","fff"],
+		 ["f00","f90","ff0","0f0","0ff","00f","90f","f0f"],
+		 ["f4cccc","fce5cd","fff2cc","d9ead3","d0e0e3","cfe2f3","d9d2e9","ead1dc"],
+		 ["ea9999","f9cb9c","ffe599","b6d7a8","a2c4c9","9fc5e8","b4a7d6","d5a6bd"],
+		 ["e06666","f6b26b","ffd966","93c47d","76a5af","6fa8dc","8e7cc3","c27ba0"],
+		 ["c00","e69138","f1c232","6aa84f","45818e","3d85c6","674ea7","a64d79"],
+		 ["900","b45f06","bf9000","38761d","134f5c","0b5394","351c75","741b47"],
+		 ["600","783f04","7f6000","274e13","0c343d","073763","20124d","4c1130"]
+		 ]
+       };
+
+       $(".spectrum").spectrum(spectrumOptions);
 
 
 //       $('body').supersleight({shim: '/images/x.gif'});
@@ -528,7 +555,7 @@ _gaq.push(['_setCustomVar',
           <ul>
 
 
-<li class="menu"><a href="https://lessonpix.com/login.php">Login/Register</a></li><li class="menu"><a href="/help.php">Help!</a></li>
+<li class="menu"><a href="https://www.lessonpix.com/login.php">Login/Register</a></li><li class="menu"><a href="/help.php">Help!</a></li>
 
 
 
@@ -599,12 +626,11 @@ _gaq.push(['_setCustomVar',
 <div id="categoryTree">
 <h4>Categories</h4>
 <ul>
-<li><a href="/articles/3/Tutorials+and+Tips" title="Tutorials and Tips">Tutorials and Tips</a></li>
+<li><a href="/articles/3/Tips+and+Tutorials" title="Tips and Tutorials">Tips and Tutorials</a></li>
 <li><a href="/articles/4/Custom+Materials" title="Custom Materials">Custom Materials</a></li>
-<li><a href="/articles/7/For+Parents" title="For Parents">For Parents</a></li>
-<li><a href="/articles/5/For+Teachers" title="For Teachers">For Teachers</a></li>
-<li><a href="/articles/9/For+Special+Education" title="For Special Education">For Special Education</a></li>
-<li><a href="/articles/6/For+OTs+PTs+and+SLPs" title="For OTs PTs and SLPs">For OTs PTs and SLPs</a></li>
+<li><a href="/articles/7/At+Home" title="At Home">At Home</a></li>
+<li><a href="/articles/5/At+School" title="At School">At School</a></li>
+<li><a href="/articles/6/For+Therapy" title="For Therapy">For Therapy</a></li>
 <li><a href="/articles/12/In+the+News" title="In the News">In the News</a></li>
 <li class="selected"><a href="/articles/11/About+Us" title="About Us">About Us</a></li>
 <ul id="articleList">
