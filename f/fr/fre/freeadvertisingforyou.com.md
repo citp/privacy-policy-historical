@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadvertisingforyou.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229194659id_/http%3A//freeadvertisingforyou.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvertisingforyou.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607162126id_/http%3A//freeadvertisingforyou.com/privacy.php) for the most accurate reproduction.*
 
 # FreeAdvertisingForYou! Free Traffic Exchange | Free Advertising Free Web Traffic
 
