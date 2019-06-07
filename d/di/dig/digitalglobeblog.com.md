@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalglobeblog.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229135308id_/https%3A//www.digitalglobe.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalglobeblog.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607125842id_/https%3A//www.digitalglobe.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DigitalGlobe
+# Privacy Policy | DigitalGlobe
 
 Effective Date: May 25, 2018
 
@@ -18,6 +18,8 @@ This policy applies to information we collect:
 
 
 This Privacy Policy does not apply to information collected by a third party, such as your internet service provider or the browser you use.
+
+#### _By using the Website or Platforms you agree to this Privacy Policy._
 
 By using a Website, a Platform or providing your information through other interactions with us, you accept and agree to be bound and abide by this Privacy Policy. If you do not agree to this Privacy Policy, you must not access or use any Website or Platform or provide any information to us.
 
