@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plirt.ru privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322045207id_/https%3A//hitwe.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plirt.ru privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607223242id_/https%3A//hitwe.com/privacypolicy) for the most accurate reproduction.*
 
 # Hitwe
 
