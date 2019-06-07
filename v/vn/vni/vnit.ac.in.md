@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vnit.ac.in privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022215616id_/http%3A//vnit.ac.in/index.php/component/content/article%3Fid%3D384) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vnit.ac.in privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607042821id_/http%3A//vnit.ac.in/privacy-policy-2) for the most accurate reproduction.*
 
-# VNIT
+# Privacy Policy
 
-**Privacy Policy**
+#### **Privacy Policy**
 
 * * *
 
@@ -12,7 +12,7 @@ We do not collect personal data for misleading purpose other than respond to you
   * If you are asked for any other Personal Information you will be informed how it will be used.
 
 
-  * "Personal Information" in this privacy statement refers to any information from which your identity is noticeable or can be reasonably ascertained.
+  * “Personal Information” in this privacy statement refers to any information from which your identity is noticeable or can be reasonably ascertained.
   * Any Personal information collected shall be used only for the stated purpose and shall NOT be shared with any other department/ organization (public/private/Gov).
 
 
