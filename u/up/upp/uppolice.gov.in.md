@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uppolice.gov.in privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116224127id_/https%3A//uppolice.gov.in/page.aspx%3Fprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppolice.gov.in privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607075537id_/https%3A//uppolice.gov.in/article/en/privacy-policy) for the most accurate reproduction.*
 
-# UP Police
+# uppolice.gov.in| Official Website of Uttar Pradesh Police | Privacy Policy
 
-Thanks for visiting website of Department of Police,Uttar Pradesh, and reviewing our privacy policy.
+Thanks for visiting website of Department of Police, Uttar Pradesh and reviewing our privacy policy.
 
 We collect no personal information, like names or addresses, when you visit our website. If you choose to provide that information to us, it is only used to fulfill your request for information.
 
