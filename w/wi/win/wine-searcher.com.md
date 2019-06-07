@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wine-searcher.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019175555id_/https%3A//www.wine-searcher.com/policies.lml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wine-searcher.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607050554id_/https%3A//www.wine-searcher.com/policies.lml) for the most accurate reproduction.*
 
 # Policies
 
-You are not obliged to register to use Wine-Searcher. However, access to certain services is only available to registered users eg. Pro Version subscribers have access to additional search functions and the ability to sychronize their personal tasting notes and ratings across different devices. 
+You are not obliged to register to use Wine-Searcher. However, access to certain services is only available to registered users eg. PRO subscribers have access to additional search functions and the ability to sychronize their personal tasting notes and ratings across different devices. 
 
 By using Wine-Searcher™ you accept our [Terms of Use](https://www.wine-searcher.com/user-terms.lml), Privacy Policy, Cookies Policy, Acceptable Use and Copyright Policy and agree to abide by them. 
 
@@ -13,13 +13,13 @@ Wine-Searcher takes your security and the privacy very seriously. We want to be 
 ###  How we use your personal information 
 
   * To keep Wine-Searcher users posted on latest news, product announcements and software updates. 
-  * To identify Pro Version subscribers to enable log in and to synchronise information across different devices. 
+  * To identify PRO subscribers to enable log in and to synchronise information across different devices. 
   * To help operate and improve Wine-Searcher services such as anti-fraud protection and data analysis and research into trends. 
   * Wine-Searcher also de-identifies personal information to create aggregated anonymous reports such as the 'Top 100 Most Popular Wines'. 
-  * Wine-Searcher shares information with partners to provide technical services and for enabling payment for Pro version and conducting customer research. These companies are obligated to protect your information and are forbidden from using information collected in any other way. 
+  * Wine-Searcher shares information with partners to provide technical services and for enabling payment for PRO and conducting customer research. These companies are obligated to protect your information and are forbidden from using information collected in any other way. 
     * Customer feedback provided by Hotjar. 
     * Mailing list managed by MailChimp. 
-    * Payment gateway providers: Braintree, Apple, Google Pay and PayPal. These providers may share with Wine-Searcher data or tokens that enable you to make purchases e.g. credit or debit card type, expiration date, and some but not all digits of your card number. 
+    * Payment gateway providers: Stripe, Braintree, Apple, Google Pay and PayPal. These providers may share with Wine-Searcher data or tokens that enable you to make purchases e.g. credit or debit card type, expiration date, and some but not all digits of your card number. 
     * Technical support provided by Limitless. 
 
 
@@ -27,7 +27,7 @@ Wine-Searcher takes your security and the privacy very seriously. We want to be 
 ###  How we collect personal information 
 
   * We collect information that you give us: 
-    * Wine-Searcher Pro Version accounts require you to sign up. Subscribers are asked to provide name, email address and to create a password. 
+    * Wine-Searcher PRO accounts require you to sign up. Subscribers are asked to provide name, email address and to create a password. 
     * Wine-Searcher Newsletter subscribers are asked to provide an email address. 
   * We collect information from interactions with our services: 
     * Servers automatically collect information such as search queries, clickthroughs to shops, and your wine ratings and personal tasting notes. 
@@ -44,8 +44,8 @@ Wine-Searcher takes your security and the privacy very seriously. We want to be 
 ###  How to remove your personal information 
 
   * If you do not want to be on our mailing list, you can opt out anytime by clicking the unsubscribe link in a Wine-Searcher email. 
-  * Pro Version subscribers can manage preferences in My Account. 
-  * If you have signed up for a paid service such as Pro Version we may from time to time use your personal information to send you important notices. Because this information is important to your transaction with Wine-Searcher you may not opt out of receiving these notices while your subscription is still active. 
+  * PRO subscribers can manage preferences in My Account. 
+  * If you have signed up for a paid service such as PRO we may from time to time use your personal information to send you important notices. Because this information is important to your transaction with Wine-Searcher you may not opt out of receiving these notices while your subscription is still active. 
   * If you do not consent to the use of cookies, please block or disable these in your browser settings or the settings within the mobile apps. 
 
 
@@ -107,8 +107,7 @@ New Zealand
 **Telephone & Fax**
 
 NZ Customer Service: +64 9 825 0102  
-USA Fax: +1 815 366 8145  
-UK Fax: +44 845 384 9480
+USA Fax: +1 815 366 8145
 
 [More contact options](https://www.wine-searcher.com/contact-general.lml?contact_return_F=https://www.wine-searcher.com/policies.lml)  
   
