@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the animaljam.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917124153id_/https%3A//www.animaljam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animaljam.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607044834id_/https%3A//www.animaljam.com/privacy) for the most accurate reproduction.*
 
 # Safety & Privacy | Animal Jam Is a Safe Online Game For Kids
 
 Animal Jam Online Privacy Policy  
-Last Updated: Jan. 28, 2018 
+Last Updated: Mar. 1, 2019 
 
-##### These policy applies to our websites and apps
+##### This policy applies to our websites and apps
 
 This Privacy Policy applies to WildWorks Inc.’s (“WildWorks”, “us”, “we”) sites and apps, including, without limitation, animaljam.com, AJ Jump, AJ Academy: Amazing Animals, and Animal Jam - Play Wild! (collectively “Animal Jam”), and describes how we collect, store and use information when you use Animal Jam.
 
@@ -41,7 +41,7 @@ You can review your child's Personal Information by contacting us or using your 
 
 **How we use parent and guardian Personal Information.** We use email addresses to notify parents or guardians that their children have registered on our site. We may also use email addresses to communicate about your child's account. We have a parent-directed newsletter that we send to people who sign up to receive it through their Parent Account.
 
-**We use children and parent's Personal Information and Anonymous Information to improve our products and services.** We may use Information to make our website and products better. We might use Information to customize you or your child's experience with us. For example, we might use Information to store your child's password if he or she registers for our site. We also have different methods of chat (more info found [here](https://sbiaj.zendesk.com/hc/en-us/articles/202832200)) that players may utilize, which parents can control through their Parent Account, and we collect and use this information to improve the gameplay experience and promote safety. 
+**We use children and parent's Personal Information and Anonymous Information to improve our products and services.** We may use Information to make our website and products better. We might use Information to customize you or your child's experience with us. For example, we might use Information to store your child's password if he or she registers for our site. We also have different methods of chat (more info found [here](https://help.animaljam.com/hc/en-us/articles/202832200)) that players may utilize, which parents can control through their Parent Account, and we collect and use this information to improve the gameplay experience and promote safety. 
 
 **We use Information for security purposes.** We may use any Information we collect to protect our company, our customers, and our websites.
 
@@ -107,6 +107,16 @@ Salt Lake City, UT 84110-3624
 To opt out, change your communication settings in your Parent Account.
 
 **You can control cookies and tracking tools.** Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go here. Why? Because flash cookies cannot be controlled through your browser settings. NOTE: If you block cookies on your browser, certain features on our sites may not work.
+
+### California Privacy Rights
+
+Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not share our customer's personal information with unaffiliated third parties for their own direct marketing purposes. For inquiries regarding our disclosure policy, please send -us an email to support@animaljam.com, or write us at: Animal Jam PO Box 3624, Salt Lake City, UT 84110-3624. We will be happy to honor your request.
+
+### California Privacy Rights for Minor Users
+
+Since January 1, 2015, California Business and Professions Code Section 22581 permits you, if you are a California resident under the age of 18, to view, correct, or remove information provided by you or publicly posted by you, by accessing your Animal Jam account and editing/removing your Information. You will need your password to access your personal account. You may also send us an email asking us to remove certain posted content at support@animaljam.com. In the alternative, you may write to us at Animal Jam PO Box 3624, Salt Lake City, UT 84110-3624.
+
+We will be happy to review, update or remove Information and/or content as appropriate. Residual copies of information and/or content that have been removed from your account may remain in our backup systems for approximately one month. We may still retain your information to resolve disputes, enforce our user agreement, or comply with legal requirements; in this case, your personal information will be blocked from use for any other purpose.
 
 ### Security
 
