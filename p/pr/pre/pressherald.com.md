@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressherald.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211174116id_/https%3A//www.pressherald.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressherald.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608003651id_/https%3A//www.pressherald.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Press Herald
 
