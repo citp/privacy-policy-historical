@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206161032id_/https%3A//idotz.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607102805id_/https%3A//idotz.net/privacy.cfm) for the most accurate reproduction.*
 
 # iDotz.Net - Domain Name Registrar: Search.. Name.. Succeed!
 
