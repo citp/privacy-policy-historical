@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the palantir.com privacy policy that was archived on 2018-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181117153829id_/http%3A//www.palantir.com/privacy-and-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the palantir.com privacy policy that was archived on 2019-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190607090127id_/https%3A//www.palantir.com/privacy-and-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js canvas no-touch hashchange history rgba multiplebgs backgroundsize borderradius boxshadow opacity cssanimations cssgradients csstransforms csstransforms3d csstransitions fontface generatedcontent video svg inlinesvg svgclippaths no-retina" style=""><!--<![endif]--><head>
-  <!-- Page Rendered At: 2018-11-10 09:44:22 -0800
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="shortcut icon" href="/favicon.ico" sizes="16x16 32x32" type="image/x-icon">
+<!-- Page Rendered At: 2019-06-06 07:30:34 -0700
    /\\\\\
   /\\\///\\\          /\\\\\\\\\\\\\      /\\\\\\\\\     /\\\             /\\\\\\\\\     /\\\\\     /\\\  /\\\\\\\\\\\\\\\  /\\\\\\\\\\\    /\\\\\\\\\
  /\\\/  \///\\\       \/\\\/////////\\\  /\\\\\\\\\\\\\  \/\\\           /\\\\\\\\\\\\\  \/\\\\\\   \/\\\ \///////\\\/////  \/////\\\///   /\\\///////\\\
@@ -16,9 +19,6 @@
       \//\\\    /\\\
           \//\\\\\
 -->
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<link rel="shortcut icon" href="/favicon.ico" sizes="16x16 32x32" type="image/x-icon">
 <title>Palantir's Privacy and Security Statement | Palantir</title>
 <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1.0">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -27,14 +27,15 @@
 <meta name="description" content="Palantir builds software that connects data, technologies, humans and environments.">
 
 <meta name="keywords" content="Palantir, home, data, technology, software, solutions, environments, analysis">
-<link rel="stylesheet" href="/build/css/style.css?v=20181110094422" media="screen">
+<link rel="stylesheet" href="/build/css/style.css?v=20190606073034" media="screen">
 <!-- Modernizr -->
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/build/js/modernizr-custom-2.8.2.min.js"></script>
 
 <!--[if lt IE 9]>
 <script src="/build/js/respond-1.4.2.min.js"></script>
-<link rel="stylesheet" href="/build/css/ie.css?v=20181110094422" media="screen, projection" type="text/css">
+<link rel="stylesheet" href="/build/css/ie.css?v=20190606073034" media="screen, projection" type="text/css">
 <![endif]-->
+
 
   <!-- OpenGraph -->
   <meta property="og:title" content="Palantir's Privacy and Security Statement">
@@ -60,6 +61,13 @@
     
     <!-- Header -->
     
+<script>
+function loadMeWhenReady(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') { window.onload = func; }
+  else { window.onload = function() { if (oldonload) { oldonload(); } func(); } }
+}
+</script>
 <header id="site-header">
   <!-- Nav: Main -->
   <nav class="navbar" role="navigation">
@@ -99,6 +107,8 @@
             <a href="/solutions/">Solutions</a>
             <ul class="dropdown-menu split-menu">
               
+              <li><a href="/solutions/ai-ml" title="AI &amp; ML">AI &amp; ML</a></li>
+              
               <li><a href="/solutions/automotive" title="Automotive">Automotive</a></li>
               
               <li><a href="/solutions/case-management/" title="Case Management">Case Management</a></li>
@@ -127,7 +137,7 @@
               
               <li><a href="/solutions/pharma/" title="Pharma: RWE">Pharma: RWE</a></li>
               
-              <li><a href="/solutions/revenue-maximization/" title="Revenue Maximization">Revenue Maximization</a></li>
+              <li><a href="/solutions/sales-and-revenue/" title="Sales and Revenue">Sales and Revenue</a></li>
               
               <li><a href="/solutions/skywise" title="Skywise">Skywise</a></li>
               
@@ -163,8 +173,8 @@
         <ul class="nav navbar-nav secondary">
           <li><a href="/contact/">Contact</a></li>
           <li class="search-form">
-            <form role="search" method="get" class="search" action="/search/">
-              <input id="main-search-query" type="text" name="q" value="" class="search-input search_field_main" maxlength="50" placeholder="Search Palantir">
+            <form role="search" id="nav-search-form" method="get" class="search" action="javascript:runSearch()">
+              <input id="search-query" type="text" name="q" value="" class="search-input search_field_main" maxlength="50" placeholder=" Palantir" autocomplete="off">
               <input type="submit" class="search-trigger search_submit_main">
             </form>
           </li>
@@ -173,7 +183,12 @@
 
     </div><!-- /.container-fluid -->
   </nav>
-
+<script>
+function runSearch() {
+  window.location.href = "/search/#/" + $('#search-query').val();
+  return false; // seems...  useless
+}
+</script>
 
 </header><!-- /header -->
 
@@ -233,7 +248,7 @@
   <li>To provide you with information, products or services that you request from us.</li>
   <li>To notify you about changes to our website, products or services (including new offerings) and promotions or events.</li>
   <li>To maintain the integrity and security of our websites, products, and services.</li>
-  <li>For our ordinary business operations, including human resources, recruiting, and business research and outreach.</li>
+  <li>For our ordinary business operations, including human resources, recruiting, equity investments, and business research and outreach.</li>
 </ul>
 
 <p><em>Legal basis for the processing</em>. We are not allowed to process personal data if we do not have a valid legal ground. Therefore, we will only process your personal data if:</p>
@@ -363,6 +378,8 @@ Palo Alto, CA 94301</p>
             <h2><a href="/solutions">Solutions</a></h2>
             <ul id="menu-uses">
               
+              <li><a href="/solutions/ai-ml" title="AI &amp; ML">AI &amp; ML</a></li>
+              
               <li><a href="/solutions/automotive" title="Automotive">Automotive</a></li>
               
               <li><a href="/solutions/case-management/" title="Case Management">Case Management</a></li>
@@ -391,7 +408,7 @@ Palo Alto, CA 94301</p>
               
               <li><a href="/solutions/pharma/" title="Pharma: RWE">Pharma: RWE</a></li>
               
-              <li><a href="/solutions/revenue-maximization/" title="Revenue Maximization">Revenue Maximization</a></li>
+              <li><a href="/solutions/sales-and-revenue/" title="Sales and Revenue">Sales and Revenue</a></li>
               
               <li><a href="/solutions/skywise" title="Skywise">Skywise</a></li>
               
@@ -438,9 +455,10 @@ Palo Alto, CA 94301</p>
         <div id="footer-copyright" class="row">
           <div class="col-sm-12 sub-footer">
             <div class="footer-code">plntr-34f91bb8-4aca-11e7-a919-92ebcb67fe33</div>
-            <span class="legalese">© 2018 Palantir Technologies</span>
+            <span class="legalese">© 2019 Palantir Technologies</span>
             <a class="legalese" href="/terms-and-conditions/">Terms of Use</a>
             <a class="legalese" href="/privacy-and-security/">Privacy and Security Statement</a>
+            <a class="legalese" href="/modern-slavery-statement/">Modern Slavery Statement</a>
             <ul class="social">
               <li><a href="https://www.facebook.com/Palantir" class="icon-pt-icon-facebook"></a></li>
               <li><a href="https://www.twitter.com/palantirtech" class="icon-pt-icon-twitter"></a></li>
@@ -454,11 +472,11 @@ Palo Alto, CA 94301</p>
   </div><!-- /.container -->
 
 </footer><!-- /footer -->
+<script src="/build/js/compiled.min.js"></script>
 
   </div><!-- /#site-wrapper -->
 
   <!-- compiled.min -->
-  <script src="/build/js/compiled.min.js?v=20181110094422"></script>
 
   
 
