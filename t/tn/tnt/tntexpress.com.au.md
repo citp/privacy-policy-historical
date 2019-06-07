@@ -1,64 +1,230 @@
-> *The following text is extracted and transformed from the tntexpress.com.au privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215101403id_/http%3A//www.tnt.com/express/en_au/site/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tntexpress.com.au privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607130556id_/http%3A//www.tnt.com/express/en_au/site/home/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TNT Australia
 
-To view TNT Australia Pty Limited Privacy Policy & Guidelines [click here](https://web.archive.org/content/dam/tnt_express_media/en_au/download_documents/home_page/TNT%20Privacy%20Policy%20July%202017.pdf)
+Your trust matters to us. That’s why we protect your information and use it responsibly, while continuing to deliver the excellent service you expect from TNT Express B.V. and its operating groups, subsidiaries and divisions, (hereafter “TNT”). At TNT, we are committed to protecting your privacy and the security of your personal data. TNT has created this Privacy Notice to explain about how TNT collects and uses personal data globally. In addition to the Privacy Notice, you can view the Privacy Policy of  TNT Australia Pty Ltd [click here](https://www.tnt.com/content/dam/tnt_express_media/tnt-local-pages/en_au/privacy-policy/docs/tnt-privacy-policy-july-2017.pdf).
 
-**Personal Information  
-**  
-Examples of customer information that we collect include names, information on your shipment, addresses, e-mail addresses and telephone numbers. Some of the information collected by TNT is data which relates to an identifiable person ("Personal Information").
+Last update: January 2019
 
-**Collection of Personal Information and purpose thereof** TNT collects and stores information about every package it handles in order to enable efficient provision of package delivery services demanded by its customers. TNT uses information about its customers, their packages, and their shipping activity to provide or enhance the services it makes available to its customers, communicate with its customers about additional services they may find of value, satisfy our legitimate business interests (including performing trend analysis and market studies), set prices, establish credit, accomplish the billing function, and comply with government regulations applicable to us or our subsidiaries.
+### Contact information
 
-Any Personal Information which we collect will be used solely for the purpose of providing our services, and we will not store it for any longer period than is legally permissible and required for this purpose.
+**TNT Express – Corporate Data Protection Office**
 
-**Third Parties  
-**  
-As we collect and use information about our customers, we may contract with vendors to assist us in processing that information for those purposes listed in the previous paragraph. In addition, we may ask our subsidiaries to process information, for those purposes, on our behalf. These vendors and/or subsidiaries are required to maintain the confidentiality of the information and are restricted from using the information for any other purpose. In addition, as we continue to develop our business, we may buy or sell subsidiaries or business units. As part of these transactions, customer information of the subsidiaries or business units may be one of the transferred assets.
+Attn: Legal Department
 
-We will monitor on an ongoing basis compliance with the provisions of the applicable local legislation and regulations by third party processors, such as suppliers and contractors, of Personal Information held by us.  
-**  
-Fair and Secure Processing of Your Personal Information** It is our policy to take all necessary steps to ensure that all your Personal Information held by us is processed fairly and lawfully. We will take all necessary steps to implement and maintain this Privacy Policy. All our employees and data processors that have access to Personal Information are obliged to respect the confidentiality of your Personal Information.
+Taurusavenue 111
 
-**Transfer of Personal Information** Your Personal Information may be transferred to countries outside the European Economic Area, which do not provide an adequate level of protection, in order to perform our services. In addition, if you put your Personal Information on publicly available parts of the website, this may be accessed by persons in countries outside the European Economic Area, which may not offer an adequate level of protection.
+2132 LS Hoofddorp
 
-TNT may need to transfer your information to local or national (foreign) governments, in order to comply with the applicable law or in order to expedite the delivery of your package to its destination.
+The Netherlands
 
-**Access and correction** You can find out which of your Personal Information is held by TNT by contacting your local TNT office. We will acknowledge your request within 4 weeks. Should we be prevented from disclosing your personal information we will give reasons for any such refusal.
+E: [dataprotection@tnt.com](mailto:dataprotection@tnt.com)
 
-To keep your Personal Information accurate, current, and complete, please contact us as about any incorrect information. We will update or correct Personal Information in our possession.
+To view TNT Australia Pty Limited Privacy Policy & Guidelines [click here](https://web.archive.org/content/dam/tnt_express_media/tnt-local-pages/en_au/privacy-policy/docs/tnt-privacy-policy-july-2017.pdf).
 
-**TNT websites** The following paragraphs describe our commitment to the protection of Personal Information as it applies to the TNT websites.
+## 1\. Does this Privacy Notice apply to you?
 
-Except as otherwise stated, we may use your information to improve the content of our website, to customize the website to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for other purposes specified in this Privacy Policy.  
-We may disclose your Personal Information where required by applicable laws, court orders, or government regulations.
+This Privacy Notice applies to you if you are a customer of TNT, a recipient of a package delivered by TNT, a supplier of TNT, or if you contact TNT, for instance, by visiting www.tnt.com, using social media or if you receive emails from TNT. Our websites are for a general audience and not geared toward children. We do not knowingly or intentionally collect personal data from children under age 16. If you are under the age of 16, please do not submit any personal data to us, and rely on a parent or guardian to assist you. If you believe your child may have disclosed personally identifiable information to us, please contact us at dataprotection@tnt.com and we will remove it.  
 
-**Collection of Personal Information on TNT websites** Users can visit most areas of this website without revealing who they are or without providing any information about themselves. However, some of our interactive services require that users identify themselves in order to enable the interactive function. On this website TNT may ask users to provide Personal Information. We may share such information with our subsidiaries.
 
-_Active collection of Personal Information and purpose thereof_ During your visit of this website, TNT actively collects information from its visitors both by asking you specific questions and by permitting you to communicate directly with us via e-mail. Some of the information that you submit may be Personal Information.
+## 2\. What information does TNT collect?
 
-Some areas of this website may require you to submit Personal Information in order for you to benefit from the specified features (such as e-mail alerts or newsletter subscriptions). You will be informed at each information collection point which information is required and for which purpose.
+In the course of its business activities and providing the services, TNT will need to process personal data. “Personal Data” is any information that can directly or indirectly be used to identify a natural person. You provide most of your Personal Data directly to TNT, for instance:  
 
-_Passive collection of Personal Information and purpose thereof_ As you navigate through a website, certain information can be passively collected (that is, gathered without your actively providing the information) using various technologies and means, such as Internet Protocol addresses, cookies (see next paragraph), Internet tags and navigational data collection.
 
-This website uses Internet Protocol (IP) addresses. An IP Address is a number assigned to your computer by your Internet service provider so you can access the Internet. We use your IP address to diagnose problems with our server, report aggregate information, determine the fastest route for your computer to use in connecting to our site, and administer and improve the site.
+  * **Contact information.** Such as your name, address, e-mail address and phone number;
 
-**Cookies** Cookies are small text files that a website can send to a user's browser for storage on the hard drive. Cookies can make use of the web easier by saving and administering status, application, preferences and other user information. Most browsers are initially set to accept cookies but users can change the setting to refuse cookies or to be alerted when cookies are being sent.
 
-When you view this website, TNT may store some information on your computer. This will be in the form of a cookie file. We use cookies to store information which we may use to improve the content of our site and to customise the site to your preferences. TNT also uses cookies to gather statistics on the use of [www.tnt.com](http://www.tnt.com/). No information is passed to TNT from any tnt.com cookie or its use. The cookie can only be accessed by [www.tnt.com](http://www.tnt.com/).
 
-We consider your browser settings to reflect your consent to, or refusal of, the cookies we use on our website. If you prefer not to accept cookies or if you prefer to be warned when one is being used, you can update the settings of your Internet browser. If you or your site administrator have cookies disabled, the website will continue to work; however, no parts of the website (inclusive of shipping tools, tracking and tracing of packages) will not work if cookies are disabled.
+  * **Financial information.** Such as your bank account number, payment status, invoices;
 
-We also use third-party services (such as Google Analytics) to collect aggregate information about the visitors to our website. These third-party services use cookies to provide us with non-personally identifiable information about your visit to this website (e.g. the number visits, location from which you visited this website and the number of pages you visited on this website). We use this information to improve the presentation and content of this website. Please note that data that is collected by these third-party services outside [www.tnt.com](http://www.tnt.com/) – if any – will not be governed by this privacy policy, but by the privacy policies of the respective third party.
 
-More information about the way Google processes your information is available at <http://www.google.com/intl/en/policies/privacy/>. If you wish to disable Google Analytics on your browser please visit <http://tools.google.com/dlpage/gaoptout>.
 
-**E-mail address (only when subscription is relevant)** If you subscribe to our e-mail alerts, we collect your e-mail address. This address will only be used for keeping you informed as indicated. If you wish to unsubscribe from our e-mail alert list, you can do so at any moment as indicated in every e-mail you receive or by contacting us through [websitemanagement@tnt.com](mailto:websitemanagement@tnt.com).
+  * **Identification information.** Such as your drivers license number;
 
-**Security** TNT takes all steps reasonably possible to protect your Personal Information as collected by TNT in using this website and to protect such Personal Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that internet transmission is not 100% secure or error-free. In particular, e-mail sent to or from this website may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, ID numbers, or other special access features on this site, it is your responsibility to safeguard them.
 
-**Links to other websites** This website may contain links or references to other websites as a convenience to the user. Please be aware that TNT is not responsible for the privacy practices or the content of such other websites and that, in any case, this Privacy Policy does not apply to those websites. We encourage you to read the privacy policy of every web site you visit.
 
-**Changes  
-**  
-TNT may revise this Privacy Policy at its sole discretion. Prior to revising this Privacy Policy TNT will inform the users of this website.
+  * **Account information.** Log-in details, including your email address and password, and other information provided in your account;
+
+
+
+  * **Information related to shipment and services.** Such as shipment tracking number, shipment routing information, location data, status of a shipment, delivery location, packaging type, number of pieces, weight, picture of the parcel, customs information; 
+
+
+
+  * **User and preference information.** Such as shipping amounts, complaints, history of purchases and related commercial activities, communication, survey information, shipping preferences.
+
+
+
+## 3\. Why does TNT process Personal Data?
+
+Personal Data shall be collected, used, stored or otherwise processed if necessary within the framework of responsible, efficient and effective business management of TNT. We process Personal Data because it is necessary to perform our contractual obligations with you, or it is necessary for us to comply with our legal obligations, or for other legitimate business interests of TNT to provide quality and secure shipping Services. More specifically, TNT uses Personal Data for the following activities:
+
+  * **Product development, research and improvement of TNT products and/or services.** TNT processes Personal Data as necessary for the development and improvement of TNT products and/or services, research and development.
+
+
+
+  * **Performing agreements.** This includes tracking TNT services, communication with individuals and other parties regarding services, responding to requests for (further) information, dispute resolution and preparing agreements.
+
+
+
+  * **Relationship management and marketing for commercial activities.**   TNT may process Personal Data as necessary for the development and improvement of TNT products and/or services, account management, client service and the performance of (targeted) marketing activities in order to establish a relationship with a client and/or maintaining as well as extending a relationship with a client, business partner or supplier and for performing analyses with respect to Personal Data for statistical and scientific purposes.  
+
+
+
+
+  * **Business process execution, internal management and management reporting.** This includes addressing activities such as managing company assets, conducting internal audits and investigations, finance and accounting, implementing business controls, provision of central processing facilities for efficiency purposes, managing mergers, acquisitions and divestitures and Processing Personal Data for management reporting and analysis.
+
+
+
+  * **Safety and security.** Personal Data may be included in the processing for activities such as those involving safety and health, the protection of TNT and customer, supplier or business partner assets and the authentication of customer, supplier or business partner status and access rights.
+
+
+
+  * **Protecting the vital interests of individuals.** This includes processing data when necessary to protect the vital interests of an individual (e.g. for urgent medical reasons).
+
+
+
+  * **Compliance with legal obligations.** This addresses the processing of Personal Data as necessary for compliance with laws, regulations and sector specific guidelines to which TNT is subject (e.g. matching names of clients, suppliers and business partners against denied parties’ lists).
+
+
+
+## 4\. Who has access to your Personal Data?
+
+TNT may share your Personal Data with third parties in the following circumstances:  
+
+
+  * TNT may share your Personal Data with its affiliates, operating groups, subsidiaries and divisions, or with third parties if such is necessary for the purposes as listed above. If appropriate, TNT will require third parties to conduct activities in a manner consistent with TNT policies and guidelines in relation to data protection. 
+
+
+
+  * TNT may share your Personal Data with data processors, i.e. parties processing Personal Data on our behalf. In such cases, these third parties may only use your Personal Data for the purposes described above and only in accordance with our instructions. TNT will only use processors which provide sufficient guarantees to implement appropriate technical and organizational measures and ensure the protection of the rights of data subjects.
+
+
+
+  * TNT employees may have access to your Personal Data if necessary for the performance of their tasks. In such a case, access will be granted only if necessary for the purposes described above and only if the employee is bound by confidentiality. 
+
+
+
+  * TNT may share your Personal Data if required to do so by law, court order, or other legal process, for example, with law enforcement agencies or other governmental agencies, to establish or exercise our legal rights or in connection with a corporate transaction, such as a divesture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+
+
+
+## 5\. How long will TNT process your Personal Data?
+
+TNT retains your Personal Data for a limited amount of time and will delete your Personal Data after it is no longer necessary for the purposes of the processing. The exact period of time is based on the type of the Personal Data and the legal obligations or business purposes for retaining it.
+
+## 6\. What measures does TNT take to protect your Personal Data?
+
+TNT has taken appropriate technical and organizational measures to protect your Personal Data against accidental or unlawful processing, including by ensuring that:
+
+  * your Personal Data is protected against unauthorized access;
+
+
+
+  * the confidentiality of your Personal Data is assured;
+
+
+
+  * the integrity and availability of your Personal Data will be maintained;
+
+
+
+  * personnel is trained in information security requirements; and
+
+
+
+  * actual or suspected data breaches are reported in accordance with applicable law.
+
+
+
+## 7\. Where does TNT store or transfer your Personal Data?
+
+Due to the nature of our business and the services we provide to our clients, TNT may need to transfer your Personal Data to locations outside the country where you reside. In any case where we transfer Personal Data, TNT shall ensure that such a transfer is subject to appropriate safeguards. For the European Union, such transfers to third parties will be governed by a contract based on the model contractual clauses for data transfer approved by the European Commission. For more detailed information about these safeguards, please contact [dataprotection@tnt.com](mailto:dataprotection@tnt.com).
+
+## 8\. What rights can you exercise in relation to your Personal Data?
+
+Based on the law applicable to the use of your Personal Data, you may be able to exercise a number of rights in relation to your Personal Data. Note that in many cases, your rights are not absolute and we may not be required to comply with your request. A number of such rights, as may be applicable in the European Union, are explained below.
+
+_Right of access_
+
+You are entitled to a copy of the Personal Data we hold about you and to learn details about how we use it. Your Personal Data will usually be provided to you digitally.
+
+_Right to rectification_
+
+We take reasonable steps to ensure that the information we hold about you is accurate and complete. However, if you believe this is not the case, you can ask us to update or amend it.
+
+_Right to erasure_
+
+In certain circumstances, you have the right to ask us to erase your Personal Data, for example where the Personal Data we collected is no longer necessary for the original purpose, where Personal Data has become obsolete or where you withdraw your consent. However, this will need to be balanced against other factors. For example, we may not be able comply with your request due to certain legal or regulatory obligations.
+
+_Right to restriction of processing_
+
+In certain circumstances, you are entitled to ask us to (temporarily) stop using your Personal Data, for example where you think that the Personal Data we hold about you may be inaccurate or where you think that we no longer need to use your Personal Data.
+
+_Right to data portability_
+
+In certain limited circumstances, you may have the right to ask that we transfer Personal Data that you have provided to us to a third party of your choice.
+
+_Right to object_
+
+You have the right to object to processing which is based on our legitimate interests. Unless we have a compelling legitimate ground for the processing, we will no longer process the Personal Data on that basis when you file an objection. Note however, that we may not be able to provide certain services or benefits if we are unable to process the necessary Personal Data for that purpose.
+
+_Rights relating to automated decision-making_
+
+You have the right not to be subjected to automated decision-making, including profiling, which produces legal effect for you or has a similar significant effect. If you have been subject to an automated decision and do not agree with the outcome, you can contact us using the details below and ask us to review the decision.
+
+_Right to withdraw consent_
+
+We may ask for your consent to process your Personal Data in specific cases. When we do this, you have the right to withdraw your consent at any time. TNT will stop the further processing as soon as possible after the withdrawal of your consent. However, this does not affect the lawfulness of the processing before consent was withdrawn.
+
+Please use the contact details above if you would like to exercise any of your rights.
+
+### 9\. What Personal Data is collected on TNT websites?
+
+The following paragraph describes our commitment to the protection of Personal Data as it applies to the TNT website (www.tnt.com) or any of its subpages through which TNT may obtain Personal Data automatically.  
+
+
+This Personal Data is obtained through the use of cookies or similar technologies. TNT uses this Personal Data for the following purposes
+
+  * help us and third parties obtain information about your visits to the sites
+
+
+
+  * analyse your visiting patterns to improve our sites
+
+
+
+  * deliver advertising, communications and content from us and third parties, on our sites and those of third parties, specific to your interests
+
+
+
+  * remember your language and other preferences
+
+
+
+  * help you obtain information you are looking for
+
+
+
+  * provide a safe and secure service for online transactions
+
+
+
+  * measure how many people use our sites, and how they use them, to keep our sites running efficiently and to better understand our audiences
+
+
+
+  * system administration and troubleshooting
+
+
+
+### 10\. What if I have other questions or complaints?
+
+Questions or complaints regarding the processing of your Personal Data can be directed at TNT by using the contact information as provided at the top of this Privacy Notice.
+
+You also have the right to lodge a complaint with local data protection authority in the jurisdiction where you work, where you live or where an alleged infringement takes place. A listing of the European Data Protection Authorities can be found [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
+
+### 11\. Will there be updates to this Privacy Notice?
+
+TNT may update this Privacy Notice from time to time. If an amendment will have a serious impact, TNT will endeavor to actively inform you about such amendments. TNT will publish an up-to-date Privacy Notice on the website www.tnt.com at all times, indicating the latest amendments.
