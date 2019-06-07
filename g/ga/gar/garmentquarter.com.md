@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garmentquarter.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813152408id_/http%3A//www.garmentquarter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garmentquarter.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607065634id_/https%3A//www.garmentquarter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -118,3 +118,5 @@ Facebook, Instagram, Google & Criteo | Third Party | These partners use Cookies 
 You can opt out of targeted advertising using the links provided below:
 
 Or, unfollow us by heading using the links below:
+
+In order to be able to offer you Klarna’s payment options, we will pass to Klarna certain items of your personal information, such as contact and order details, in order for Klarna to assess whether you qualify for their payment options and to tailor the payment options for you.  General information on Klarna you can find [here](https://www.klarna.com/uk/). Your personal data is handled in accordance with applicable data protection law and in accordance with the information in [Klarna's privacy policy](http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy).
