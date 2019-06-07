@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragingbull.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020084803id_/https%3A//ragingbull.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragingbull.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607185224id_/https%3A//ragingbull.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RagingBull
 
@@ -11,6 +11,8 @@ Like many other Web sites, RagingBull.com makes use of log files. The informatio
 #### Cookies:
 
 RagingBull.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+We comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners via the DAA website [here](http://www.aboutads.info/choices/).
 
 #### DoubleClick DART Cookie:
 
@@ -39,3 +41,37 @@ If you wish to disable cookies, you may do so through your individual browser op
 If you have any questions regarding our policies please feel free to contact us at the following URL:
 
 [https://www.RagingBull.com/contact/](https://www.ragingbull.com/contact/ "Contact Us")
+
+#### **SMS Marketing:**
+
+[Raging Bull](http://www.ragingbull.com/) provides an automated enrollment-based text messaging service via SMS. Customers may enroll at any time via our sign-up form, or when subscribing to the corresponding email list.
+
+**SMS Participation**
+
+Open only to residents of the United States of America and Canada. You must be 18 years or older in order to enroll in our SMS messaging services, or have the express permission of a parent/guardian.
+
+By signing up for our SMS Messaging Services, you consent to receive our messages electronically. If you do not consent to the terms set forth herein, and/or do not wish to receive electronic messages, you must immediately cease using the services and [contact us](https://ragingbull.com/contact/).
+
+Your agreement to the terms of service authorizes us to deliver advertising messages using an auto-dialer (as defined by the Federal Communications Commission); and you acknowledge that consent to these terms is not in any way required as a condition of making purchases from us or our affiliate companies.
+
+You also agree that you are the account holder or have the express authorization to enroll.. 
+
+Message frequency may vary based on carrier and  account. Message and Data rates may apply. Please consult with your carrier for further information regarding rates applicable to your plan.
+
+For our Canadian customers, standard Message and Data rates may apply. Please consult with your carrier for further information regarding rates applicable to your plan.
+
+We are not responsible for any delays in the receipt of any SMS messages as delivery is subject to effective transmission from you network operators.
+
+**SMS Opt-Out**
+
+At any time, you may opt-out of our SMS service by replying to any received message with the following word: **STOP**
+
+If you have any questions or concerns, you may text **HELP** in response to any message. You can also reach out to our customer service representatives at [contact us](https://ragingbull.com/contact/).
+
+**SMS Data Collection**
+
+Data obtained from you in connection with this SMS service may include your cellphone number, your carrier’s name, the date, time and content of your messages and other information you provide to us as part of this service. We may use this information to contact you and to provide the services you request from us.
+
+**Children Under the Age of 13**
+
+This site and all services associated with it, including its mobile applications, SMS Services, and tools, are not marketed to, and do not knowingly collect or maintain personal information from, children under the age of 13.
