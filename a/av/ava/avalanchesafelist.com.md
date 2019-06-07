@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the avalanchesafelist.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206083921id_/http%3A//avalanchesafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avalanchesafelist.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607183951id_/http%3A//avalanchesafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # AvalancheSafelist.com
 
-Avalanche Safelist Privacy Policy  
+Avalanche Safelist  
+Privacy Policy  
 
 
   
