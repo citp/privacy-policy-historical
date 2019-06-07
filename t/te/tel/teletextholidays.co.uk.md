@@ -1,482 +1,597 @@
-> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417023025id_/https%3A//www.teletextholidays.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607063447id_/https%3A//www.teletextholidays.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookies | Teletext Holidays
+# Privacy Policy | Teletext Holidays
 
-#### Collection of Personal Information
+### TRULY TRAVEL
 
-We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms, order any products or services, participate in message boards, blogs or any other user generated content facilities or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it.
+#### PRIVACY NOTICE
 
-#### Use of Cookies
+Welcome to Truly Travel’s privacy notice.
 
- **Cookies and similar technology**
+Truly Travel (trading as Teletext Holidays) respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) or when you otherwise provide personal data to us via other means (such as over the telephone) and tell you about your privacy rights and how the law protects you.
 
-The Site uses cookies, web beacons and similar technical tools to collect information about your access to the Site and the services we provide.
+Please also use refer to the Glossary that we have set out at the end of the Policy, if there is any terminology used in this privacy notice that you are unfamiliar with or that you don’t fully understand.
 
-Cookies are pieces of information which include a unique reference code that a website transfers to your device to store and sometimes track information about you. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the Site and will last for longer. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site or within electronic communications.
-
-#### We use cookies to:
-
-  * remember that you have used the Site before; this means we can identify the number of unique visitors we receive to different parts of the Site. This allows us to make sure we have enough capacity for the number of users that we get and make sure that the Site runs fast enough;
-  * remember your login session so you can move from one page to another within the Site;
-  * store your preferences or your user name and password so that you do not need to input these every time you visit the Site;
-  * customise elements of the layout and/or content of the pages of the Site for you;
-  * collect statistical information about how you use the Site so that we can improve the Site; and
-  * gather information about the pages on the Site that you visit, and also other information about other websites that you visit.
+  
 
 
+  1.  **IMPORTANT INFORMATION AND WHO WE ARE**
+  2.  **THE DATA WE COLLECT ABOUT YOU**
+  3.  **HOW YOUR PERSONAL DATA IS COLLECTED**
+  4.  **HOW WE USE YOUR PERSONAL DATA**
+  5.  **HOW WE DISCLOSE YOUR PERSONAL DATA**
+  6.  **WHEN WE TRANSER YOUR DATA OVERSEAS**
+  7.  **HOW WE SECURE YOUR DATA**
+  8.  **HOW** **LONG WE RETAIN YOUR DATA FOR**
+  9.  **YOUR LEGAL RIGHTS**
+  10.  **GLOSSARY**
 
-Some of the cookies used by the Site are set by us, and some are set by third parties who are delivering services on our behalf such as our advertising partners who serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). For more information about this type of online behavioural advertising please visit:
 
-The site of the Internet Advertising Bureau [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/)[ ](http://www.youronlinechoices.co.uk/);
 
-The Network Advertising Initiative (NAI) control page [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/) or; [www.aboutads.info/choices/](http://www.aboutads.info/choices/) the Digital Advertising Alliance’s self-regulatory program for online behavioural advertising control page.
+ **Purpose of this privacy notice**
 
-Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to use some of the core features of the Site. You can learn more about cookies and how to reject cookies using different types of browser by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+This privacy notice aims to give you information on how Truly Travel collects and processes your personal data, including any data you may provide through this website or via any other means (such as over the telephone) when you purchase travel services, when you sign up to our newsletter, when you take part in a competition and register to create an account online.
 
-We have enabled Google Analytics features for the Google Display Network.  
-Using the **Ads Settings** , visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.  
-We also encourage you to point visitors to Google Analytics' **currently available opt-outs** __ for the web.
+This website is not intended for children and the only circumstances in which we collect data relating to children, is where you make a booking of travel services and you have children in your party.
 
-Teletext Holidays and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site.
+It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them.
 
-#### a) Our cookies
+ **Controller**
 
-A description of the main cookies we use and of the general purpose we use these for is provided below:
+Truly Travel Limited trading as Teletext Holidays is the controller and responsible for your personal data (collectively referred to as "Truly Travel", "we", "us" or "our" in this privacy notice).
 
- **Cookie name**| 
+We have appointed a data protection officer (DPO) who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise _your legal rights_ , please contact the DPO using the details set out below.
 
- **Purpose**
+ **Contact details**
 
-|  **Type and duration (i.e. session only or persistent)**  
+Our full details are:
+
+Full name of legal entity: Truly Travel Limited trading as Teletext Holidays
+
+Name or title of DPO: Flora Souidhou
+
+Email address: flora@trulytravel.com
+
+Postal address: Royal House, 3rd Floor, 5 Vine Street, Uxbridge, UB8 1QE
+
+Telephone number: 0207 741 1200
+
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues ([ _ico.org.uk_](https://ico.org.uk/)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+
+ **Changes to the privacy notice and your duty to inform us of changes**
+
+This version was last updated on 24 May 2018 and historic versions can be obtained by contacting us. Please see contact details above.
+
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if any of the details you provide to us should change, during the course of your relationship with us.
+
+ **Third-party links**
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).
+
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:
+
+  *  **(A) Identity Data**
+
+
+
+This includes data relating specifically to your identity, such as your first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender.
+
+  *  **(B) Contact Data**
+
+
+
+This includes data relating to how you may be contacted, such as your billing address, delivery address, email address and telephone numbers.
+
+  *  **(C) Financial Data**
+
+
+
+This include data relating to your means and methods of payment, such as your bank account and payment card details.
+
+  *  **(D) Transaction Data**
+
+
+
+This includes data relating to the transactions you have carried out with us, such as details about payments to and from you and other details of products and services you have purchased from us.
+
+  *  **(E) Technical Data**
+
+
+
+This includes more technical data that we may obtain when you make use of our website, such as your internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website.
+
+  *  **(F) Profile Data**
+
+
+
+This includes the data that we receive when you create a profile on our website and make use of that policy, such as your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses. 
+
+  *  **(G) Usage Data**
+
+
+
+This includes information about how you use our website, products and services.
+
+  *  **(H) Marketing and Communications Data**
+
+
+
+This includes your preferences in relation to whether or not you want to receive marketing from us and our third parties and also your communication preferences.
+
+We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we will treat the combined data as personal data which will be used in accordance with this privacy notice.
+
+ **Special Categories of Personal Data**
+
+We collect the following special categories of personal data about you.
+
+Details about your:
+
+  * dietary requirements which may disclose your religious or philosophical beliefs;
+  * health;
+  * race or ethnicity;
+
+
+
+We collect and process the above data only where it is strictly necessary to do so in order to deliver the travel service that you have purchased. Furthermore, we will only collect and process the above special categories of sensitive personal data where you have provided us with your explicit consent to do so.
+
+You are not under any obligation to consent to us processing your sensitive personal data. However, without your consent, we won’t be able to make the necessary arrangements to provide the travel services that you have booked or are attempting to book. As a result, if you do not provide your consent, we will be unable to proceed with your booking.
+
+If you are happy to consent to our use of your sensitive personal data, you will also be able to withdraw your consent at any time. However, as this will prevent us or (where we are acting as an agent) the supplier of your chosen travel service from providing the travel service you have booked, we (or the supplier of your chosen arrangements) will be required to treat any withdrawal of consent as a cancellation of your booking and the cancellation charges referred to in clause 9 of our Booking Terms and Conditions (please see link on the footer of our website) will become payable.
+
+ **If you fail to provide personal data**
+
+Where we need to collect personal data by law or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you.
+
+Where we are acting as an agent and we need to collect personal data to enter you into a contract with the supplier of your chosen travel arrangements, we may not be able to take steps to enter you into that contract if you fail to provide the data when requested. 
+
+In other words, where we require details from you in order to provide you with your chosen travel services, if you do not provide us with the necessary details then we will not be able to provide (or arrange for the provision of) the services you have booked or are attempting to book. 
+
+In this case, depending upon when you fail to provide the necessary date, we may either not be able to process your booking or we may have to cancel your booking, in which case we will treat this as a ‘cancellation by you’ in accordance with our Booking Terms and Conditions We will notify you if we are unable to process a booking or are required to cancel a booking for this reason.
+
+We use different methods to collect data from and about you including through:
+
+  *  **(A) Direct interactions**
+
+
+
+You may give us your [Identity, Contact and Financial Data] by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:
+
+  * make a booking of travel services;
+  * create an account on our website;
+  * subscribe to our newsletter or other publications;
+  * request marketing to be sent to you;
+  * enter a competition, promotion or survey;
+  * give us some feedback; or
+
+
+
+**(B) Automated technologies or interactions**
+
+As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns.
+
+We collect this personal data by using cookies, [server logs] and other similar technologies. [We may also receive Technical Data about you if you visit other websites employing our cookies.] Please see our cookie policy link can be found on the footer of our website for further details].
+
+**(C) Third parties**
+
+We may receive personal data about you from various third parties as set out below:
+
+  * Technical Data from the following parties:
+  * analytics providers such as [Google based outside the EU];
+  * Contact, Financial and Transaction Data from providers of technical, payment and delivery services based [inside **OR** outside] the EU].
+  * Identity and Contact Data from data brokers or aggregators based [inside **OR** outside] the EU].
+  * Identity and Contact Data from publicly availably sources [such as Companies House and the Electoral Register based inside the EU].
+
+
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where we need to take steps to enter you into a contract with the supplier of your chosen travel services, where we are acting in an agency capacity.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
+
+
+
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by contacting us. Please see contact details above.
+
+ **Purposes for which we will use your personal data**
+
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+
+ **Purpose/Activity**
+
+| 
+
+ **Type of data**
+
+| 
+
+ **Lawful basis for processing including basis of legitimate interest**  
+  
 ---|---|---  
-_anonymousUserDetails| Remembers your login session so you can move from one page to another within the website.| Session expires after 20 minutes of inactivity.  
-.ASPXAUTH| This cookie is used to determine whether a user is authenticated.| At end of session.  
-ASP.NET_SessionId| This cookie is used to store and retrieve values for the user as they navigate through the site.| At end of session.  
-AWSELB| This cookie used to ensure visitors to the website stay on the same server they originally connected to. This makes caching more effective.| Session expires after 20 minutes of inactivity.  
-fbm_1*************9| This cookie is used to allow the facebook login to the site.| Persistent 4 hours.  
-fbsr_1*************9| This cookie is used to allow the facebook login to the site.| Persistent 4 hours.  
-P160777| This cookie establishes the logged in status of the user.| Persistent 1 day.  
-policyAgreement| This cookie is used to gain consent to use cookies during the user journey on the site.| Persistent 6 months.  
-rsi_segs| This Cookie is used to allow Audience Science to store information that can be used to profile users anonymously to engage relevant audiences.| Session expires after 20 minutes of inactivity.  
-SearchCookie| This cookie is used to retain the search values of the searches that the user undertakes on the site.| At end of session.  
-Search_Overseas| This cookie is used to retain the search values of the searches that the user undertakes on the overseas section of the site.| At end of session.  
-Search_AllInclusive| This cookie is used to retain the search values of the searches that the user undertakes on the All Inclusive Holidays section of the site.| At end of session.  
-Search_Shorts| This cookie is used to retain the search values of the searches that the user undertakes on the City breaks section of the site.| At end of session.  
-showEmailPopup| This cookie is used to ensure that the newsletter signup popup between the search and results in only shown to the user once every 6 months.| Persistent 6 Months  
   
-Silverpop.com
+To register you as a new customer.
 
-com.silverpop.iMA.page_visit
+| 
 
-| This cookie anonymously tracks when a page has been visited.| At end of session.  
+(a) Identity;
+
+(b) Contact.
+
+| 
+
+Performance of a contract with you.  
   
-Silverpop.com
+To process and deliver your booking including:
 
-com.silverpop.iMA.session
+(a) Manage payments, fees and charges;
 
-| This cookie anonymously groups events and page visits by session.| Session expires after 20 minutes of inactivity.  
+(b) Collect and recover money owed to us.
+
+| 
+
+(a) Identity;
+
+(b) Contact;
+
+(c) Financial;
+
+(d) Transaction;
+
+(e) Marketing and Communications.
+
+| 
+
+(a) Performance of a contract with you;
+
+(b) Necessary for our legitimate interests (to recover debts due to us).  
   
-Silverpop.com
+To manage our relationship with you which will include:
 
-com.silverpop.iMAWebCookie
+(a) Notifying you about changes to our terms or privacy policy;
 
-| This cookie stores user preference to accept Cookies.| Session expires after 20 minutes of inactivity.  
-Teletext holidays.co.uk| Registration - this user account cookie enables registered account holders to be presented with their customised account area.|  Persistent 2 years.  
+(b) Asking you to leave a review or take a survey.
+
+| 
+
+(a) Identity;
+
+(b) Contact;
+
+(c) Profile;
+
+(d) Marketing and Communications.
+
+| 
+
+(a) Performance of a contract with you;
+
+(b) Necessary to comply with a legal obligation;
+
+(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services).  
   
-#### _anonymousUserDetails
+To enable you to partake in a prize draw, competition or complete a survey.
 
-Remembers your login session so you can move from one page to another within the website.
+| 
 
-Type and duration: Session expires after 20 minutes of inactivity.  
+(a) Identity;
+
+(b) Contact;
+
+(c) Profile;
+
+(d) Usage;
+
+(e) Marketing and Communications.
+
+| 
+
+(a) Performance of a contract with you;
+
+(b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business).  
   
----  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data). 
+
+| 
+
+(a) Identity;
+
+(b) Contact;
+
+(c) Technical.
+
+| 
+
+(a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise);
+
+(b) Necessary to comply with a legal obligation.  
   
-#### .ASPXAUTH
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you
 
-This cookie is used to determine whether a user is authenticated.
+| 
 
-Type and duration: At end of session.  
+(a) Identity
+
+(b) Contact
+
+(c) Profile
+
+(d) Usage
+
+(e) Marketing and Communications
+
+(f) Technical
+
+| 
+
+Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)  
   
-#### ASP.NET_SessionId
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences
 
-This cookie is used to store and retrieve values for the user as they navigate through the site.
+| 
 
-Type and duration: At end of session.  
+(a) Technical
+
+(b) Usage
+
+| 
+
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
   
-#### AWSELB
+To make suggestions and recommendations to you about goods or services that may be of interest to you
 
-This cookie used to ensure visitors to the website stay on the same server they originally connected to. This makes caching more effective.
+| 
 
-Type and duration: Session expires after 20 minutes of inactivity.  
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+(d) Usage
+
+(e) Profile
+
+| 
+
+Necessary for our legitimate interests (to develop our products/services and grow our business)  
   
-#### fbm_1*************9
+For the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure
 
-This cookie is used to allow the facebook login to the site.
+| 
 
-Type and duration: Persistent 4 hours.  
+(a) Identity
+
+(b) Contact
+
+(c) Financial
+
+(d) Transaction
+
+(e) Technical
+
+(f) Profile
+
+(g) Usage
+
+(h) Marketing
+
+| 
+
+Necessary for our legitimate interests (protection and assertion of our legal rights, your legal rights and the legal rights of others)  
   
-#### fbsr_1*************9
+For the purposes of obtaining or maintaining insurance coverage, managing risks, or obtaining professional advice
 
-This cookie is used to allow the facebook login to the site.
+| 
 
-Type and duration: Persistent 4 hours.  
+(a) Identity
+
+(b) Contact
+
+(c) Financial
+
+(d) Transaction
+
+(e) Technical
+
+| 
+
+Necessary for our legitimate interests (the proper protection of our business against risks)  
   
-#### P160777
+ **Marketing**
 
-This cookie establishes the logged in status of the user.
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising.
 
-Type and duration: Persistent 1 day.  
-  
-#### policyAgreement
+We have established [the following personal data control mechanisms]:
 
-This cookie is used to gain consent to use cookies during the user journey on the site.
+ **Promotional offers from us**
 
-Type and duration: Persistent 6 months.  
-  
-#### rsi_segs
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
 
-This Cookie is used to allow Audience Science to store information that can be used to profile users anonymously to engage relevant audiences.
+You will receive marketing communications from us if you have requested information from us or purchased services from us and, in each case, you have not opted out of receiving that marketing.
 
-Type and duration: Session expires after 20 minutes of inactivity.  
-  
-#### SearchCookie
+ **Third-party marketing**
 
-This cookie is used to retain the search values of the searches that the user undertakes on the site.
+We will get your express opt-in consent before we share your personal data with any third party company.
 
-Type and duration: At end of session.  
-  
-#### Search_Overseas
+ **Opting out**
 
-This cookie is used to retain the search values of the searches that the user undertakes on the overseas section of the site.
+You can ask us or third parties to stop sending you marketing messages at any time [by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or] by contacting us at any time]. Please see contact details above.
 
-Type and duration: At end of session.  
-  
-#### Search_AllInclusive
+Where you opt out of receiving these marketing messages, this will not apply to personal data that you have provided to us as a result of a purchase of travel services or other such transactions.
 
-This cookie is used to retain the search values of the searches that the user undertakes on the All Inclusive Holidays section of the site.
+ **Cookies**
 
-Type and duration: At end of session.  
-  
-#### Search_Shorts
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see link to Cookie policy on the footer of our website.
 
-This cookie is used to retain the search values of the searches that the user undertakes on the City breaks section of the site.
+ **Change of purpose**
 
-Type and duration: At end of session.  
-  
-#### showEmailPopup
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us. Please see contact details above.
 
-This cookie is used to ensure that the newsletter signup popup between the search and results in only shown to the user once every 6 months.
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
-Type and duration: Persistent 6 Months  
-  
-#### Silverpop.com
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
 
-#### com.silverpop.iMA.page_visit
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
 
-This cookie anonymously tracks when a page has been visited.
+  * (A) Internal Third Parties as set out in the _Glossary_ shown above.
+  * (B) External Third Parties as set out in the [ _Glossary_ shown above.
+  * (C) Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
 
-Type and duration: At end of session.  
-  
-#### Silverpop.com
 
-#### com.silverpop.iMA.session
 
-This cookie anonymously groups events and page visits by session.
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
 
-Type and duration: Session expires after 20 minutes of inactivity.  
-  
-#### Silverpop.com
+Many of our external third parties are based outside the European Economic Area (EEA) so their processing of your personal data will involve a transfer of data outside the EEA.
 
-#### com.silverpop.iMAWebCookie
+Where you have requested a booking for travel arrangements which are located or otherwise due to be fulfilled outside the EEA, we will have to transfer your personal data to the suppliers fulfilling or providing those travel arrangements outside the EEA in order to make your booking and for those suppliers to be able to provide you with the travel arrangements you have booked. Where we are unable to rely on one of the safeguards outlined below when transferring data to those suppliers outside the EEA, we will rely on the derogation under Article 49 of the GDPR in order to transfer your personal data to countries outside the EEA (as the transfer relates to the performance of a contract for your benefit), and you hereby permit us to do so. You also acknowledge that where your personal data is transferred outside the EEA, controls on data protection may not be as wide as the legal requirements within the EEA.
 
-This cookie stores user preference to accept Cookies.
+For all other transfers of data, whenever your personal data is transferred outside the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
 
-Type and duration: Session expires after 20 minutes of inactivity.  
-  
-####  Teletext holidays.co.uk
+  * We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see [_European Commission: Adequacy of the protection of personal data in non-EU countries_](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
+  * Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see [_European Commission: Model contracts for the transfer of personal data to third countries_](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en).
+  * Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. For further details, see [_European Commission: EU-US Privacy Shield_](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en).
 
-Registration - this user account cookie enables registered account holders to be presented with their customised account area.
 
-Type and duration: Persistent 2 years.  
-  
-#### b) Third party cookies
 
-Cookies are also set by third parties on the Site. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website.
+Please contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA. Please see contact details above.
 
-**Name**|  **Purpose/typical content**|  **Type and duration**|  **How to reject or delete this cookie**  
----|---|---|---  
-Addthis| Addthis set cookies to deliver advertisements that are relevant to your interests or behaviour online such as visiting a particular advertisers website and products.| Persistent up to 3 years.| [www.addthis.com/privacy/opt-out](http://www.addthis.com/privacy/opt-out)  
-Admeld.com| This Google owned company uses cookies to serve advertising and deliver and report on ads served on the website. The cookie also tracks what advertisments the user has seen and how often.| Persistent 1 year.| [www.admeld.com/opt-out](http://www.admeld.com/opt-out/)  
-Adnxs.com| This cookie is used to identify web browsers and store data for advertising purposes, including interest-based advertising, to store ad delivery and reporting data, to track users' responses to ads, for server load-balancing and similar technical purposes. The Platform uses non-unique cookies to store users' opt-out choices.| Non-personally identifiable information is stored in non-aggregated form for up to 12 months. Aggregated data is used for reporting and analysis, and may be stored in the Platform for up to 2 additional years.| [appnexus.com/en/company/platform-privacy-policy#choices](http://www.appnexus.com/en/company/platform-privacy-policy#choices)  
-Audience Science| The cookie collects, measures and segments user interests from their web behaviour on this and other website and delivers interest based advertising based on the user's market segment.| 
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
 
-Persistent
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
-Between 2 and 5 years.
+ **How long will you use my personal data for?**
 
-| [www.audiencescience.com/privacy](http://www.audiencescience.com/privacy/)  
-Bluekai.com| Bluekai uses non-personally identifiable cookies and pixel tags to collect and store Preference Data.| Persistent 6 months (NB also Pixel gif with life of 6 months).| [bluekai.com/consumers.php#optout](http://bluekai.com/consumers.php#optout)  
-Clicktale| ClickTale uses cookies to anonymously follow users path through the site to track a users behaviour on pages, essentially to see where users click.| Persistent 365 days.| [www.clicktale.net/disable.html](http://www.clicktale.net/disable.html)  
-Doubleclick (Google) id| This cookie is used to serve advertising, deliver and report on ads served on the website. The cookie also tracks what advertisments the user has seen and how often.| Persistent 2 years.| [www.doubleclickbygoogle.com/](https://www.doubleclickbygoogle.com/)  
-Facebook| The facebook cookies are used to let Facebook know you are logged in to Facebook, to help you use social plugins and share buttons.| Persistent up to 2 years.| [www.facebook.com/help/365596123604315](https://www.facebook.com/help/365596123604315)  
-Flashtalking.com| This cookie is used to deliver advertisements that are relevant to your interests or behaviour online such as visiting a particular advertisers website and products.| Persistent 2 years.| [www.flashtalking.com](http://www.flashtalking.com/uk/)  
-Google Analytics| These cookies collect statistics on visitors to the site, where vistors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site.| Persistent 2 years.| [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)  
-Invitemedia.com| Invitemedia uses cookies in conjunction with Web beacons in order to help make online advertisements you see more relevant to you. They also use cookies and web beacons so that they can measure the success of their online advertising campaigns, and the campaigns of their Clients.| Persistent up to 180 days.| [assets.invitemedia.com/opt-out.html](http://assets.invitemedia.com/opt-out.html)  
-Mathtag.com| MathTag.com is a domain used by MediaMath to place cookies, on behalf of its customers, on the computers of visitors to our selected customer's websites and who may view our customer's display advertisements.| Persistent up to 3 years.| [www.mediamath.com/privacy-policy/](http://www.mediamath.com/privacy-policy/)  
-Sensic.com| This is a Google AdSense Third party vendor. As such they set cookies to deliver advertisements that are relevant to your interests or behaviour online such as visiting a particular advertisers website and products.| Persistent 5 months.| [www.sensic.net/index2.html](http://www.sensic.net/index2.html)  
-Smartadserver.com| This cookie is used to serve advertising and deliver and report on ads served on the website. The cookie also tracks what advertisments the user has seen and how often.| Persistent 2 years (NB also Pixel Gif with life of 9 years).| [www.smartadserver.com/privacy-policy](http://smartadserver.com/privacy-policy)  
-Tubemogul.com| Cookies are used by Tubemogul to collect, measure and segment user interests from their web behaviour on this and other websites to deliver interest based online video advertising based on the user's market segment.| Persistent 10 years.| [www.tubemogul.com/compliance/privacy-policy/](http://www.tubemogul.com/compliance/privacy-policy/)  
-Twitter.com|  Twitter use cookies to better understand how you interact with their Services.|  At end of session.| [twitter.com/privacy](https://twitter.com/privacy?lang=en)  
-Webtrends| Webtrends uses cookies for a variety of purposes such as remembering your preferences, and measuring your activity on Webtrends’ websites.| Persistent 10 years.| [webtrends.com/terms-policies/cookie-policy](http://www.webtrends.com/terms-policies/privacy/cookie-policy/)  
-Yieldmanager.com| Ad.yieldmanager.com is a tracking cookie that tracks you across websites, thus recording your user behaviour.| 19/01/2038| [ad.yieldmanager.com/opt-out](http://ad.yieldmanager.com/opt-out)  
-  
-#### Addthis
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
-Addthis set cookies to deliver advertisements that are relevant to your interests or behaviour online such as visiting a particular advertisers website and products.
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-Type and duration: Persistent up to 3 years.
+If you make a booking with us we will keep your information for 6 years from your return date of travel (in the case of adults) or 6 years from the date of your 18th birthday (in the event of any children that travel on the booking) in order to enable us to defend any legal claims that you may pursue against us.
 
-How to reject or delete this cookie: [www.addthis.com/privacy/opt-out](http://www.addthis.com/privacy/opt-out)  
-  
----  
-  
-#### Admeld.com
+In addition to the above, by law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for seven years after they cease being customers for tax purposes.
 
-This Google owned company uses cookies to serve advertising and deliver and report on ads served on the website. The cookie also tracks what advertisments the user has seen and how often.
+If you require any further information regarding our retention periods then you can request the same by contacting us. Please see contact details above.
 
-Type and duration:  Persistent 1 year.
+In some circumstances you can ask us to delete your data: see _Request erasure_ below for further information.
 
-How to reject or delete this cookie: [www.admeld.com/opt-out](http://www.admeld.com/opt-out/)  
-  
-#### Adnxs.com
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
-This cookie is used to identify web browsers and store data for advertising purposes, including interest-based advertising, to store ad delivery and reporting data, to track users' responses to ads, for server load-balancing and similar technical purposes. The Platform uses non-unique cookies to store users' opt-out choices.
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please see below links, further details can be found in section 10 below the Glossary to find out more about these rights:
 
-Type and duration:  Non-personally identifiable information is stored in non-aggregated form for up to 12 months. Aggregated data is used for reporting and analysis, and may be stored in the Platform for up to 2 additional years.
+  * (A) Request access to your personal data.
+  * (B) Request correction of your personal data.
+  * (C) Request erasure of your personal data.
+  * (D) Object to processing of your personal data.
+  * (E) Request restriction of processing your personal data.
+  * (F) Request transfer of your personal data.
+  * (G) Right to withdraw consent.
 
-How to reject or delete this cookie: [appnexus.com/en/company/platform-privacy-policy#choices](http://www.appnexus.com/en/company/platform-privacy-policy#choices)  
-  
-#### Audience Science
 
-The cookie collects, measures and segments user interests from their web behaviour on this and other website and delivers interest based advertising based on the user's market segment.
 
-Type and duration:  Persistent Between 2 and 5 years.
+If you wish to exercise any of the rights set out above, please contact Mindi Kaur on 0207 741 1200.
 
-How to reject or delete this cookie: [www.audiencescience.com/privacy](http://www.audiencescience.com/privacy/)  
-  
-#### Bluekai.com
+ **No fee usually required**
 
-Bluekai uses non-personally identifiable cookies and pixel tags to collect and store Preference Data.
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
-Type and duration:  Persistent 6 months (NB also Pixel gif with life of 6 months).
+ **What we may need from you**
 
-How to reject or delete this cookie: [bluekai.com/consumers.php#optout](http://bluekai.com/consumers.php#optout)  
-  
-#### Clicktale
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data or to exercise any of your other rights. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
-ClickTale uses cookies to anonymously follow users path through the site to track a users behaviour on pages, essentially to see where users click.
+ **Time limit to respond**
 
-Type and duration:  Persistent 365 days.
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
-How to reject or delete this cookie: [www.clicktale.net/disable.html](http://www.clicktale.net/disable.html)  
-  
-#### Doubleclick (Google) id
+ **LAWFUL BASIS**
 
-This cookie is used to serve advertising, deliver and report on ads served on the website. The cookie also tracks what advertisments the user has seen and how often.
+  *  **Legitimate Interest**
 
-Type and duration:  Persistent 2 years.
+means the interest of our business in conducting and managing our business to enable us to give you the best service and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us. Please see contact details above.
 
-How to reject or delete this cookie: [www.doubleclickbygoogle.com/](https://www.doubleclickbygoogle.com/)  
-  
-#### Facebook
+  * **Performance of Contract**
 
-The facebook cookies are used to let Facebook know you are logged in to Facebook, to help you use social plugins and share buttons.
+means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
 
-Type and duration:  Persistent up to 2 years.
+  *  **Comply with a legal or regulatory obligation**
 
-How to reject or delete this cookie: [www.facebook.com/help/365596123604315](https://www.facebook.com/help/365596123604315)  
-  
-#### Flashtalking.com
+means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
 
-This cookie is used to deliver advertisements that are relevant to your interests or behaviour online such as visiting a particular advertisers website and products.
 
-Type and duration:  Persistent 2 years.
 
-How to reject or delete this cookie: [www.flashtalking.com](http://www.flashtalking.com/uk/)  
-  
-#### Google Analytics
 
-These cookies collect statistics on visitors to the site, where vistors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site.
+ **THIRD PARTIES**
 
-Type and duration:  Persistent 2 years.
+  *  **External Third Parties**
 
-How to reject or delete this cookie: [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)  
-  
-#### Invitemedia.com
 
-Invitemedia uses cookies in conjunction with Web beacons in order to help make online advertisements you see more relevant to you. They also use cookies and web beacons so that they can measure the success of their online advertising campaigns, and the campaigns of their Clients.
+  1. Suppliers of travel services acting as processors based around the world who provide the travel services that make up any booking of travel services that you make with us.
+  2. Service providers acting as processors based [SPECIFIC COUNTRIES] who provide IT and system administration services.
+  3. Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based [SPECIFIC COUNTRIES] who provide consultancy, banking, legal, insurance and accounting services.
+  4. HM Revenue & Customs, regulators and other authorities acting as processors or joint controllers based [in the United Kingdom] who require reporting of processing activities in certain circumstances.
+  5. [DETAILS OF ANY OTHER THIRD PARTIES, FOR EXAMPLE, MARKET RESEARCHERS, FRAUD PREVENTION AGENCIES, PRICE COMPARISON SITES ETC].
 
-Type and duration:  Persistent up to 180 days.
 
-How to reject or delete this cookie: [assets.invitemedia.com/opt-out.html](http://assets.invitemedia.com/opt-out.html)  
-  
-#### Mathtag.com
 
-MathTag.com is a domain used by MediaMath to place cookies, on behalf of its customers, on the computers of visitors to our selected customer's websites and who may view our customer's display advertisements.
+ **YOUR LEGAL RIGHTS**
 
-Type and duration:  Persistent up to 3 years.
+You have the right to:
 
-How to reject or delete this cookie: [www.mediamath.com/privacy-policy/](http://www.mediamath.com/privacy-policy/)  
-  
-#### Sensic.com
+  *  **Request access**
 
-This is a Google AdSense Third party vendor. As such they set cookies to deliver advertisements that are relevant to your interests or behaviour online such as visiting a particular advertisers website and products.
 
-Type and duration:  Persistent 5 months.
 
-How to reject or delete this cookie: [www.sensic.net/index2.html](http://www.sensic.net/index2.html)  
-  
-#### Smartadserver.com
+to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
 
-This cookie is used to serve advertising and deliver and report on ads served on the website. The cookie also tracks what advertisments the user has seen and how often.
+  *  **Request correction**
 
-Type and duration:  Persistent 2 years (NB also Pixel Gif with life of 9 years).
 
-How to reject or delete this cookie: [www.smartadserver.com/privacy-policy](http://smartadserver.com/privacy-policy)  
-  
-#### Tubemogul.com
 
-Cookies are used by Tubemogul to collect, measure and segment user interests from their web behaviour on this and other websites to deliver interest based online video advertising based on the user's market segment.
+of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
 
-Type and duration:  Persistent 10 years.
+  *  **Request erasure**
 
-How to reject or delete this cookie: [www.tubemogul.com/compliance/privacy-policy/](http://www.tubemogul.com/compliance/privacy-policy/)  
-  
-#### Twitter.com
 
-Twitter use cookies to better understand how you interact with their Services.
 
-Type and duration:  At end of session.
+of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
 
-How to reject or delete this cookie: [twitter.com/privacy](https://twitter.com/privacy?lang=en)  
-  
-#### Webtrends
+  *  **Object to processing**
 
-Webtrends uses cookies for a variety of purposes such as remembering your preferences, and measuring your activity on Webtrends’ websites.
 
-Type and duration:  Persistent 10 years.
 
-How to reject or delete this cookie: [webtrends.com/terms-policies/cookie-policy](http://www.webtrends.com/terms-policies/privacy/cookie-policy/)  
-  
-#### Yieldmanager.com
+of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
 
-Ad.yieldmanager.com is a tracking cookie that tracks you across websites, thus recording your user behaviour.
+  *  **Request restriction of processing**
 
-Type and duration: 19/01/2038
 
-How to reject or delete this cookie: [ad.yieldmanager.com/opt-out](http://ad.yieldmanager.com/opt-out)  
-  
-The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
 
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/policies/technologies/ads/).
+of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios:
 
+  * if you want us to establish the data's accuracy;
 
 
-The following is a list of sources of third party AdSense ads. This list as of time of viewing, may not be up to date as Google may add others in the future, To see the latest list provided by Google, please visit [Google Adsense Third Party Vendors](https://support.google.com/adsense/answer/94149).
+  * where our use of the data is unlawful but you do not want us to erase it;
 
-In addition to cookies we use the following similar technologies in respect of your use of the Site:
 
-  * Pixel Gif’s - these are small image files that are placed within the body of our newsletters so we can understand whether these are read and if particular content in the newsletter is of interest. This way we can improve the relevance of the content of our communications to our readers;
-  * Flash cookies – We may use Adobe Flash Player to display video or image content. It may not be possible to block or restrict flash cookies using your browser setting, however information on how to control flash privacy and security settings is available from the Adobe website at: [www.adobe.com/products/flashplayer/security](http://www.adobe.com/devnet/security.html)
+  * where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or
 
 
+  * you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
 
-#### Use of Your Information
 
-By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which includes (without limitation):
+  *  **Request the transfer**
 
-  * personalising your visits to the Site to improve the services provided to you;
-  * informing you about the latest changes to the Site, products, services or promotional offers that you might find interesting;
-  * customer service and support;
-  * communicating (and personalising such communication) with you;
-  * enabling you to share our content with others e.g. using an 'Email a friend' or 'Share this' functionality;
-  * conducting market research; and/or
-  * carrying out technical and statistical analysis to measure the performance of our services and the Site.
 
 
+of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
 
-#### Sharing Your Personal Information
+  *  **Withdraw consent at any time**
 
-We want everything to go smoothly for you with your holiday booking / enquiry and therefore may share your booking information with airlines, accommodation providers and transfer / tour operators if necessary. This helps us provide certain services and to process your booking. We take full responsibility for your information, and will use reasonable endeavours to make sure proper security measures are in place, and that we control the use of your information by these suppliers and partners. By using the Site, you consent to the transfer of your personal information outside of the European Economic Area (where controls on data protection may not be as strong as the legal requirements in this country).
 
-The telephone number you call us or one of our partners from, along with any other number you provide on the call, may be used to contact you for booking / enquiry purposes. Personal information may be provided to security or credit checking companies, government or regulatory bodies, or as required by law.
 
-Our suppliers and partners may collect, use and share with us, your personal information and information about your enquiries, bookings, transactions and interactions with them. We would like to hold your information (including email address and phone number(s)) for Teletext Holidays marketing purposes. You will be asked for your consent before any marketing takes place, if consent is granted we may use your personal information to contact you by email, fax, telephone, SMS, social media, electronic messaging or post - with information and or offers on products, services, discounts or promotions (provided by us) that we think may be of interest to you. For marketing purposes your information will be stored within our email database Smartfocus and in the instance of SMS marketing will be processed by our SMS provider Text Local. At any point you can refuse or OPT out of marketing messages by simply clicking UNSUBSCRIBE on one of our emails or contact our Customer Support Team on 0207 7411305.
+where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
-Personal information may be provided customer review sites to Feefo and Trustpilot in an endeavour to monitor customer satisfaction and a premium service.
-
-We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
-
-#### Keeping Your Personal Information Secure
-
-We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England. We may use third party companies to manage collation, process and storage of your personal data on your behalf. These companies are carefully selected and screened to ensure maximum protection of your security and privacy and are permitted to use the data only in line with our instructions.
-
-Some of your information may be ‘sensitive personal data’. You are responsible for making sure that other members of your party are aware of our privacy policy.
-
-If you believe any of your personal information that we hold is incorrect, please write to us immediately. We cannot be held responsible for any problems arising from inaccurate information that you have provided to us.
-
-We cannot be held responsible for any issues concerning your data collected by website that are not directly under our control. Please also be aware that individual organisation operate their own policies for the use and sale of personal information and the use of cookies.
-
-#### Accessing Your Personal Information
-
-If you wish to review or receive copies of the personal information we hold about you or have any other queries about this privacy policy, please write to us (including full details of your request) at the following address:
-
-Privacy Team
-
-Teletext Limited
-
-9th Floor
-
-Holborn Tower
-
-137-144 High Holborn
-
-London
-
-WC1V 6PW
-
-We may charge a small administration fee (not exceeding the maximum permitted by law in England) in relation to fulfilling a request for access to personal information.
-
-#### Unsubscribing from emails or changing the consents you have given
-
-If you wish to unsubscribe from emails from teletextholidays.co.uk, please click on the unsubscribe link in your email or amend your email preferences in the preference centre in My Holidays.
-
-To change the consents you have given us for future marketing activity, please write to:
-
-Privacy Team
-
-Teletext Limited
-
-9th Floor
-
-Holborn Tower
-
-137-144 High Holborn
-
-London
-
-WC1V 6PW
-
-Please provide your full name, full address including postcode, full email address, and the details of the request. We will endeavour to update your record as soon as we can.
-
-#### Customer Testimonials
-
-Where you send us testimonials, reviews, comments or other such material (“the materials”) relating to your booking with us, you agree that we are permitted to publish these materials, or extracts of these materials on our website, marketing material or otherwise as we see fit. You disclaim any proprietary or other rights you may have in the materials, and agree that such materials can be freely used by us for any reason whatsoever, without your further permission. Please note that we will not publish your full name, address or contact details on our website and this shall remain confidential at all times.
-
-#### Changes to this Privacy Policy
-
-If we change this privacy policy, we will post the revised privacy policy here with an updated effective date. If we make significant changes to the privacy policy, we may also notify you by other means such as sending an email or posting a notice on our website.
-
-UPDATED 20-01-2017
+UPDATED 24 MAY 2018
