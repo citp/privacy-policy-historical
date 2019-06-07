@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428014601id_/http%3A//www.chamberlain.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607202746id_/https%3A//www.chamberlain.edu/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -66,16 +66,6 @@ info@chamberlain.edu
 
 If Chamberlain is required to provide you with notice of a particular event or incident, we will send you that notice by e-mail, telephone, or mail. 
 
-### 12)    Changes to this Policy.
-
 This Policy is current as of the Effective Date set forth below.  Chamberlain may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our website, at chamberlain.edu/privacy. If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our website, or by emailing registered users at the most recent email address they provided.
 
 Last revised on May 1, 2017.
-
-## Take the First Step
-
-### Classes begin every 8 weeks.
-
-### Call 877.751.5783 to speak with an admission representative.
-
-[Apply Now](https://dv.secure.force.com/sswa/ccn/us/3b/step1?source=206091) [Request More Info](http://www.chamberlain.edu/getinfo)
