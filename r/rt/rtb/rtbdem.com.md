@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtbdem.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119014857id_/http%3A//rtbdem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtbdem.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607152039id_/http%3A//rtbdem.com/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to RTBDemand
 
@@ -74,4 +74,4 @@ Rtbdemand employs standard measures to ensure the security of all information. W
 
 Rtbdemand may find it appropriate or necessary, or may be legally obligated, to update this Policy from time to time. When we do, we will post those changes on this page and update the effective date (found at the bottom) so that you have a way to always become aware of the information we collect, how we use it, and under what circumstances we disclose it. For changes to this Policy that may be materially less restrictive on our use or disclosure of information you have already provided to us, we will attempt to obtain your consent (if we have the necessary contact information) before implementing such revisions with respect to such information, or notify you either by placing a prominent notice on the home page of our Web site or by directly sending you a notification. For all other changes, it is your responsibility to review this Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.
 
-[For Opt out follow instructions here](https://web.archive.org/web/20181119014857id_/http%3A//rtbdem.com/opt-out-all)
+[For Opt out follow instructions here](https://web.archive.org/web/20190607152039id_/http%3A//rtbdem.com/opt-out-all)
