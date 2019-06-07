@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalhealth365.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228085120id_/https%3A//www.naturalhealth365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhealth365.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607202043id_/https%3A//www.naturalhealth365.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
