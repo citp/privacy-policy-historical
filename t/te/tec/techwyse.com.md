@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the techwyse.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910201623id_/https%3A//www.techwyse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwyse.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607115002id_/https%3A//www.techwyse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechWyse
 
-TechWyse is committed to protecting your privacy. This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy. 
+TechWyse is committed to protecting your privacy. This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy.
 
-When TechWyse collects any personal information VIA a corporate or sponsored website, we will express our need for the personal data at the point of collection. Personal information is any information that can be used to identify an individual, and may include, but is not limited to, name, e-mail address, postal or other physical address, title, occupation, and other information required to provide a service, deliver a product, or carry out a transaction you have requested. We will only use your personal information in the way we specified when it is collected. We will not subsequently change the way your personal information is used without your consent. 
+When TechWyse collects any personal information VIA a corporate or sponsored website, we will express our need for the personal data at the point of collection. Personal information is any information that can be used to identify an individual, and may include, but is not limited to, name, e-mail address, postal or other physical address, title, occupation, and other information required to provide a service, deliver a product, or carry out a transaction you have requested. We will only use your personal information in the way we specified when it is collected. We will not subsequently change the way your personal information is used without your consent.
 
-## Unsubscribing 
+## Unsubscribing
 
 If you receive an e-mail from us, each e-mail includes instructions on how you can unsubscribe from that particular mailing.
 
-## Sharing your personal information 
+## Sharing your personal information
 
-We do not sell or rent your personal information to third-parties for marketing purposes unless you have granted us permission to do so. 
+We do not sell or rent your personal information to third-parties for marketing purposes unless you have granted us permission to do so.
 
-We may respond to subpoenas, court orders, or legal process by disclosing your personal information and other related information, if necessary. We also may choose to establish or exercise our legal rights or defend against legal claims. 
+We may respond to subpoenas, court orders, or legal process by disclosing your personal information and other related information, if necessary. We also may choose to establish or exercise our legal rights or defend against legal claims.
 
-We may collect and possibly share personal information and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of TechWyse's terms of use, or as otherwise required by law. 
+We may collect and possibly share personal information and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of TechWyse's terms of use, or as otherwise required by law.
 
-While navigating TechWyse's web site you may be directed to content or functionality that is hosted by a third party supplier, not on TechWyse.com. This is typically done to host special events, such as contests. When information is collected on behalf of TechWyse exclusively, TechWyse's privacy policy will be referenced on the site and will govern how your information is used. For other, non-TechWyse sites, the site owner's privacy policy will be referenced. It is TechWyse's practice to require such suppliers to handle information in a manner consistent with TechWyse's privacy and security policies. 
+While navigating TechWyse's web site you may be directed to content or functionality that is hosted by a third party supplier, not on TechWyse.com. This is typically done to host special events, such as contests. When information is collected on behalf of TechWyse exclusively, TechWyse's privacy policy will be referenced on the site and will govern how your information is used. For other, non-TechWyse sites, the site owner's privacy policy will be referenced. It is TechWyse's practice to require such suppliers to handle information in a manner consistent with TechWyse's privacy and security policies.
 
-We will ask you for your opt-in consent to share your personal information with a third party for any other reason. 
+We will ask you for your opt-in consent to share your personal information with a third party for any other reason.
 
 ## Security of your personal information
 
-TechWyse is committed to protecting the personal information you share with us. While we strive to protect your personal information, we cannot ensure the security of the information you transmit. 
+TechWyse is committed to protecting the personal information you share with us. While we strive to protect your personal information, we cannot ensure the security of the information you transmit.
 
 We recommend you to take every precaution in protecting your personal information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser.
 
@@ -42,7 +42,7 @@ TechWyse is compliant with CAN-SPAM and CASL regulations in all email communicat
 
 TechWyse explicitly states a truthful subject line, email subject matter, URLs, and hyperlinks. We also include the street address and company name in all marketing and sales email communication by TechWyse or on behalf of clients.
 
-In correspondence with regulations, it is our duty to ensure email lists and personal information are up-to-date. 
+In correspondence with regulations, it is our duty to ensure email lists and personal information are up-to-date.
 
 ## GDPR Compliant
 
