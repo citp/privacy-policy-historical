@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the retreaver.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626033548id_/https%3A//retreaver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retreaver.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607065210id_/https%3A//retreaver.com/privacy) for the most accurate reproduction.*
 
-# Retreaver | Privacy Policy
+# Privacy Policy | Retreaver
 
 **Last modified:** May 28, 2015 
 
