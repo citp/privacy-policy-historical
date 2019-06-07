@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mponlinegovt.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201024555id_/http%3A//www.mponlinegovt.com/2016/09/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mponlinegovt.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607225642id_/http%3A//www.mponlinegovt.com/2016/09/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | WWW.MPOnlineGovt.Com | Bank, Railway, SSC, PSC, Police, Clerk Govt Jobs
 
