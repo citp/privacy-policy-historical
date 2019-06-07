@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muncheye.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123052801id_/https%3A//muncheye.com/terms.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muncheye.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607080315id_/https%3A//muncheye.com/terms.htm%23privacy) for the most accurate reproduction.*
 
 # Terms of Service, Privacy Policy and Disclaimer
 
