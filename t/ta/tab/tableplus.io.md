@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tableplus.io privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817113433id_/https%3A//tableplus.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tableplus.io privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607125204id_/https%3A//tableplus.io/privacy) for the most accurate reproduction.*
 
 # TablePlus | Modern, Native Tool for Database Management
 
@@ -6,9 +6,9 @@ This Privacy Policy governs the manner in which TablePlus collects, uses, mainta
 
 SECTION 1 - COLLECTION OF INFORMATION
 
-We collect the Personal Information you give us when you register with the app, including email address.
+On the app, we don’t collect personal information except the email you used to register for the license. We use Fabric to collect some anonymous, non-personal behavioural data when you use the app, including number of new users, active users and crash tracking.
 
-We automatically collect certain kinds of non-personal information from you when you use the website, including device, browser type, operating system, referring or exit web pages, click patterns, Session ID, your computer's IP address, and metrics related to queries you run using the Services.
+On the website, we use Google Analytics to automatically collect certain kinds of non-personal information from you when you use the website, including device, browser type, operating system, referring or exit web pages, click patterns, Session ID, your computer's IP address, and some other browser-based information.
 
 SECTION 2 - HOW YOUR INFORMATION IS USED
 
@@ -26,7 +26,7 @@ YOUR USER CONTENT
 
 Your User Content will be treated as follows:
 
-We will never store your database credential information, history, favorite or any your database content.
+We never sync or send your database credentials, history, favorite or any your database content to any of our servers. The credentials are always being saved securely on your computer.
 
 We will never send news, spam to your emails except important announcements, special offers and support.
 
@@ -86,4 +86,4 @@ QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-Last updated on May 18, 2018
+Last updated on Oct 26, 2018
