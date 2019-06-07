@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helplinelaw.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212073310id_/http%3A//www.helplinelaw.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helplinelaw.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607201305id_/http%3A//www.helplinelaw.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - helplinelaw.com
 
