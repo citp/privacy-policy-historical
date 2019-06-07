@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenable.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125052344id_/https%3A//www.tenable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenable.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607165206id_/https%3A//www.tenable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tenable®
 
@@ -8,7 +8,7 @@ This Privacy Policy does not apply to the practices of third parties that Tenabl
 
 **Privacy Frameworks**
 
-Tenable complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Tenable has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view Tenable’s certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
+Tenable complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States, respectively. Tenable has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view Tenable’s certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
 
 **What Type of Information Does Tenable Collect?**
 
@@ -16,7 +16,7 @@ Tenable complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Pr
 
 Tenable may also collect other information that does not reveal specific individual identity, such as browser or device information, information collected through cookies and other technologies that are used to facilitate Tenable’s operation of the Site and other business purposes. Tenable may also identify and log automatically in our servers, or in third party log files, IP Addresses whenever You access our site, along with the time of the visit and the page(s) visited.
 
-Tenable (a) processes personal data it receives from the EU and Switzerland and subsequent transfers of such personal data to a third party acting on its behalf under the respective Privacy Shield Framework, (b) complies with the Privacy Shield Principles, and (c) is subject to the enforcement power of the U.S. Federal Trade Commission. Tenable shall cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) to resolve any employee complaints regarding human resources data transferred from the EU and/or Switzerland in the context of the employment relationship. In certain situations, Tenable may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+Tenable (a) processes personal data it receives from the EU, United Kingdom (UK), and Switzerland and subsequent transfers of such personal data to a third party acting on its behalf under the respective Privacy Shield Framework, (b) complies with the Privacy Shield Principles, and (c) is subject to the enforcement power of the U.S. Federal Trade Commission. Tenable shall cooperate with EU data protection authorities (DPAs), UK Information Commissioner's Office (ICO), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) to resolve any employee complaints regarding human resources data transferred from the EU, UK, and/or Switzerland in the context of the employment relationship. In certain situations, Tenable may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 **How Does Tenable Collect My Information?**
 
@@ -88,7 +88,7 @@ You may update or correct Your information collected on the Site by contacting T
 
 **Dispute Resolution**
 
-In compliance with the Privacy Shield Principles, Tenable commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Tenable at:[privacy@tenable.com](mailto:privacy@tenable.com).
+In compliance with the Privacy Shield Principles, Tenable commits to resolve complaints about your privacy and our collection or use of your personal information. European Union, UK, and Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Tenable at:[privacy@tenable.com](mailto:privacy@tenable.com).
 
 Tenable has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to:
 
