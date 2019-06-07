@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the media.asia privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911100825id_/https%3A//www.campaignasia.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media.asia privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607093202id_/https%3A//www.campaignasia.com/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Campaign Asia
 
