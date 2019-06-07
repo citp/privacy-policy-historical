@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kaspersky.co.in privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227150336id_/https%3A//www.kaspersky.co.in/web-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky.co.in privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607215822id_/https%3A//www.kaspersky.com/web-privacy-policy) for the most accurate reproduction.*
 
 # Web Privacy Policy | Kaspersky Lab
 
 ## Kaspersky Lab Privacy Policy for Websites
 
-Last updated: 11.07.2018. [What’s New](https://web.archive.org/web-privacy-policy/updates)
+Last updated: 25.01.2019. [What’s New](https://web.archive.org/web-privacy-policy/updates)
 
 #### **DATA CONTROLLER INFORMATION**
 
@@ -12,9 +12,9 @@ This privacy policy applies to AO Kaspersky Lab, located at bldg. 3, 39A, Lening
 
 In this Privacy Policy we inform you about the processing and the privacy of your personal data when using our websites. As a security expert company, data privacy and data security are very important to us. Therefore, we are committed to respecting and protecting your privacy and to handling your personal data confidentially. We recommend visiting this website regularly as this Privacy Policy can be updated due to possible amendments to the law or changes of our internal processes.
 
-If you have any questions regarding the processing of your personal information, please contact our Kaspersky Lab EU representative via email or phone: Kaspersky Labs GmbH, Ingolstadt, Germany, [info@kaspersky.de](mailto:info@kaspersky.de), +49 (0) 841 98 18 90
+If you have any questions or comments regarding the processing of your personal information and Kaspersky Lab's privacy practices or if you would like us to update information or preferences you provided to us, please contact our Data Protection Officer at <https://support.kaspersky.com/general/privacy>.
 
-If you have any additional questions about Kaspersky Lab's privacy practices or would like us to update the information or preferences you provided to us, please contact with our Data Protection Officer [here](https://support.kaspersky.com/privacy).
+You may also contact our Kaspersky Lab EU representative: Kaspersky Labs GmbH, Ingolstadt, Despag-Strasse 3, 85055, Germany, [info@kaspersky.de](mailto:info@kaspersky.de), +49 (0) 841 98 18 90.
 
 #### **GENERAL INFORMATION**
 
@@ -28,12 +28,12 @@ We do not process any “Special Categories of Personal Data” about you (this 
 
 The purposes for processing the personal data that you provide depend on the websites, services and features you use. In particular, we use the data to:
 
-  * ensure the performance of a contract with users and to ensure the required performance of services for customers
-  * protect the user from known threats to information security
-  * improve user interaction and experience with our services, in particular, changing interfaces and providing the desired content and advertisements related to marketing purpose
-  * provide technical support of products and services for customers and to improve the quality of products and services
-  * respond to your questions and otherwise Interact with you
-  * secure our websites and protect you and us against fraud
+  * ensure the performance of a contract with users and to ensure the required performance of services for customers;
+  * protect the user from known threats to information security;
+  * improve user interaction and experience with our services, in particular, changing interfaces and providing the desired content and advertisements related to marketing purpose;
+  * provide technical support of products and services for customers and to improve the quality of products and services;
+  * respond to your questions and otherwise Interact with you;
+  * secure our websites and protect you and us against fraud.
 
 
 
@@ -41,35 +41,36 @@ The purposes for processing the personal data that you provide depend on the web
 
 Our lawful basis for processing your general personal data:
 
-  * Processing necessary for the performance of a contract with the data subject or to take steps to enter into a contract
-  * Where it is necessary for our legitimate interests and your interests and fundamental rights do not conflict with those interests 
-    * In ensuring the ongoing security and proper operation of our website and associated IT systems and prevent fraud.
-    * Limited personal data is stored in case the individuals have asked us to not process their personal data to ensure that the Kaspersky Lab can remain compliant with their request.
-  * Your specific consent to process for the Purpose in question
-  * Processing necessary for compliance with a legal obligation
+  * processing necessary for the performance of a contract with the data subject or to take steps to enter into a contract;
+  * where it is necessary for our legitimate interests and your interests and fundamental rights do not conflict with those interests: 
+    * in ensuring the ongoing security and proper operation of our website and associated IT systems and prevent fraud;
+    * limited personal data is stored in case the individuals have asked us to not process their personal data to ensure that the Kaspersky Lab can remain compliant with their request.
+  * your specific consent to process for the Purpose in question;
+  * processing necessary for compliance with a legal obligation.
 
 
 
 #### **AUTOMATED DECISION MAKING**
 
-We do not use automated decision making at our Websites and Services
+We do not use automated decision making at our Websites and Services.
 
 #### **WHAT PERSONAL DATA DO WE PROCESS AND HOW DO WE USE IT**
 
-### [**My Kaspersky**](https://my.kaspersky.com/) **,**[ **Kaspersky Small Office Security Management Console**](https://ksos.kaspersky.com/) **,**[ **Kaspersky Business Hub**](https://cloud.kaspersky.com/) **, and**[ **Anti-Theft Web Management**](https://anti-theft.kaspersky.com/) **(hereinafter referred to as the "Service")**
+### [**My Kaspersky**](https://my.kaspersky.com/) **,[ **Kaspersky Account**](https://account.uis.kaspersky.com/) **,**[ **Kaspersky Small Office Security Management Console**](https://ksos.kaspersky.com/) **,**[ **Kaspersky Business Hub**](https://cloud.kaspersky.com/) **, and**[ **Anti-Theft Web Management**](https://anti-theft.kaspersky.com/) **(hereinafter referred to as the "Service")****
+
+ **
 
 ### **The categories of personal data**
 
 In order to use the Service and have access to all of its functions, you will provide following personal data:
 
-  * your email address and password when you register on our Service
-  * mobile phone number
-  * information about your devices and licenses
-  * information you provided to Kaspersky Lab’s technical support
-  * expiration date of your bank card and the last 4 symbols of your bank card number
-  * Statistical information about your browser (domain names, IP addresses, network provider, browser types and other information about client environment, which Kaspersky Lab applications you use and how you use them, the web page you were visiting immediately prior to visiting our website, pages of our website that you visited, the time spent on those pages, information you searched for on our website, access times and dates, and other statistics
-  * from people who visit our site. We may also process information about which Kaspersky Lab applications you use and how you use them, the web page you were visiting immediately prior to visiting our website, pages of our website that you visited, the time spent on those pages, information you searched for on our website, access times and dates, and other statistics
-  * full list of data collected on managed devices by My Kaspersky, please refer to section "[Conditions regarding data processing](https://my.kaspersky.com/Home/TermsOfUse)".
+  * your email address and password when you register on our Service;
+  * mobile phone number;
+  * information about your devices and licenses;
+  * information you provided to Kaspersky Lab’s technical support;
+  * expiration date of your bank card and the last 4 symbols of your bank card number;
+  * statistical information about your browser (domain names, IP addresses, network provider, browser types and other information about client environment, which Kaspersky Lab applications you use and how you use them, the web page you were visiting immediately prior to visiting our website, pages of our website that you visited, the time spent on those pages, information you searched for on our website, access times and dates, and other statistics from people who visit our site);
+  * full list of data collected on managed devices by My Kaspersky, please refer to section "[Conditions regarding data processing](https://my.kaspersky.com/Home/TermsOfUse)";
   * full list of data collected on managed devices by Kaspersky Small Office Security Management Console, please refer to section "[Conditions regarding data processing](https://ksos.kaspersky.com/en/Home/TermsOfUse)".
 
 
@@ -86,11 +87,13 @@ In order to use the Service and have access to all of its functions, you will pr
 
 **_Support_** **.** If you request support from our Technical Support or Virus Lab team using support services, we will ask you for information needed to enable us to provide you with such support, such as your registration/ license number, email address, and information about the product your problem relates to, your computer hardware, software and the nature of the problem you are experiencing. Furthermore, it may be helpful or even necessary for this purpose to send us files you are experiencing problems with via the "Upload" function. These may also contain personal information, such as user specific or otherwise personally identifiable file names, meta data or contents. It is, of course, always your choice whether you want to upload files or not. In case you do, please refer to our Regulation on Data Provisioning linked to the upload service and accept it at first.
 
-**Statistical information.** We may track domain names, IP addresses, network provider, browser types and other information about client environment (such as model of your device, operating system, screen resolution, etc.) from people who visit our site. We may also process information about which Kaspersky Lab applications you use and how you use them, the web page you were visiting immediately prior to visiting our website, pages of our website that you visited, the time spent on those pages, information you searched for on our website, access times and dates, and other statistics. We use this information to produce traffic statistics for the Kaspersky Lab's sites and to improve security and availability of our websites and services. Such information is not correlated with any personal information. We do not ask you for, access or track any location based information from your device
+**
+
+****_Statistical information_**. **We may track domain names, IP addresses, network provider, browser types and other information about client environment (such as model of your device, operating system, screen resolution, etc.) from people who visit our site. We may also process information about which Kaspersky Lab applications you use and how you use them, the web page you were visiting immediately prior to visiting our website, pages of our website that you visited, the time spent on those pages, information you searched for on our website, access times and dates, and other statistics. We use this information to produce traffic statistics for the Kaspersky Lab's sites and to improve security and availability of our websites and services. Such information is not correlated with any personal information. We do not ask you for, access or track any location based information from your device.
 
 ### **How long do we keep your personal data**
 
-Data is deleted no later than 1 (one) calendar month after the account is deleted. Data will be erased in period of one calendar month.
+Data is deleted no later than 1 (one) calendar month after the account is deleted.
 
 ### [**Kaspersky Motorsport Website**](https://www.kaspersky.com/about/sponsorships/)
 
@@ -98,12 +101,12 @@ Data is deleted no later than 1 (one) calendar month after the account is delete
 
 In order to use the Service and have access to all of its functions, you will provide following personal data:
 
-  * username and password
-  * first name
-  * last name
-  * email address
-  * your personal preferences
-  * comments to other users
+  * username and password;
+  * first name;
+  * last name;
+  * email address;
+  * your personal preferences;
+  * comments to other users.
 
 
 
@@ -123,12 +126,12 @@ You can delete your account at any point in time should you wish.  If you delet
 
 In order to use the Service and have access to all of its functions, you will provide following personal data:
 
-  * email address
-  * password
-  * your account data
-  * your preferences
-  * information about your devices
-  * information you provided to Kaspersky Lab’s technical support
+  * email address;
+  * password;
+  * your account data;
+  * your preferences;
+  * information about your devices;
+  * information you provided to Kaspersky Lab’s technical support;
   * list of data collected on managed devices by Kaspersky Endpoint Security Cloud, please refer to section "[About data provision](https://click.kaspersky.com/?hl=en-EN&link=online_help&pid=Cloud&version=1.0&helpid=127176)".
 
 
@@ -151,11 +154,11 @@ Data will be deleted after 6 months after your license expiration date.
 
 In order to use the Service and have access to all of its functions, you will provide following personal data:
 
-  * email address
-  * company name
-  * password
-  * your preferences
-  * information you provided to Kaspersky Lab’s technical support
+  * email address;
+  * company name;
+  * password;
+  * your preferences;
+  * information you provided to Kaspersky Lab’s technical support;
   * list of data that may be accessed by the Kaspersky Security for Microsoft Office 365 service as well as the data that is collected during operation of the service is presented in the documentation section "[About data provision](https://help.kaspersky.com/KS4MO365/1.2/en-US/144072.htm)".
 
 
@@ -166,7 +169,7 @@ In order to use the Service and have access to all of its functions, you will pr
 
 **_Account settings._** You may review, update or correct your account data, password and preferences or even delete your account any time using "Account Settings" function.
 
-**_Configuring the service._** The Kaspersky Security for Microsoft Office 365 service is integrated directly with Office 365, which requires access to Exchange Online. If you choose automatic configuration, the service asks you for Global Admin credentials. The Service does not save this data in any form, but instead uses it only for initial configuration and creation of a special account for email protection. If you choose manual configuration, Global Admin credentials are not required, and the special account for email protection is created manually by the administrator.
+**_Configuring the service._** The Kaspersky Security for Microsoft Office 365 service is integrated directly with Office 365, which requires access to Exchange Online. To configure your connection to Exchange Online, you will be redirected to the Microsoft Online website and prompted to grant permission for the Kaspersky Security for Office 365 application through the OAuth 2.0 flow. The Kaspersky Security for Microsoft Office 365 service also requires a Service Account to access Exchange Online quarantine. This Service Account can be configured automatically or manually. If you choose automatic configuration, the service asks you for Global Admin credentials. The Service does not save this data in any form, but instead uses it only for the initial configuration and creation of a Service Account. If you choose manual configuration, Global Admin credentials are not required, and the Service Account is created manually by the administrator.
 
 **_Service operation._** During operation, the Kaspersky Security for Microsoft Office 365 service receives messages and other objects (meetings, tasks, etc.) to be scanned, and they are processed according to the protection settings. Kaspersky Security for Microsoft Office 365 does not save messages or objects requiring scanning in its infrastructure. The list of data that may be accessed by the Kaspersky Security for Microsoft Office 365 service as well as the data that is collected during operation of the service is presented in the documentation section "[About data provision](https://help.kaspersky.com/KS4MO365/1.2/en-US/144072.htm)".
 
@@ -182,9 +185,9 @@ Data will be deleted after 6 months after your license expiration date.
 
 In order to use the Service and have access to all of its functions, you will provide following personal data:
 
-  * email address
-  * files you provided
-  * URL addresses you provided
+  * email address;
+  * files you provided;
+  * URL addresses you provided.
 
 
 
@@ -213,14 +216,14 @@ In the case of Online Scanning, the uploaded file is deleted from Kaspersky Lab 
 
 In order to use the Service and have access to all of its functions, you will provide following personal data:
 
-  * corporate email address (will be your username)
-  * password
-  * your first name
-  * your last name
-  * company name
-  * country
-  * your company's license to use Kaspersky Lab applications
-  * information you provided to Kaspersky Lab’s technical support. Please refer to section [Regulation on data provisioning](http://support.kaspersky.com/support/rdp?cid=ca&utm_source=companyaccount.kaspersky.com&utm_medium=referral&utm_campaign=company_account&utm_content=en)
+  * corporate email address (will be your username);
+  * password;
+  * your first name;
+  * your last name;
+  * company name;
+  * country;
+  * your company's license to use Kaspersky Lab applications;
+  * information you provided to Kaspersky Lab’s technical support. Please refer to section [Regulation on data provisioning](http://support.kaspersky.com/support/rdp?cid=ca&utm_source=companyaccount.kaspersky.com&utm_medium=referral&utm_campaign=company_account&utm_content=en).
 
 
 
@@ -228,8 +231,8 @@ In order to use the Service and have access to all of its functions, you will pr
 
 **_Account registration_**. To use CompanyAccount and access all of its features, you must create:
 
-  * personal account
-  * an account for your company, unless your coworkers have done this previously
+  * personal account;
+  * an account for your company, unless your coworkers have done this previously.
 
 
 
@@ -245,7 +248,7 @@ This will require that you provide your corporate email address (which will be y
 
 ### **How long do we keep your personal data**
 
-You can delete your account at any point in time should you wish.  If you delete your account we will delete your personal information from our records within 24 hours. Files you upload to customer support will be deleted six months after your request is closed.
+You can delete your account at any time in the Account settings or by submitting a request to our Technical Support. Once your account has been deleted, your personal data will be held in Kaspersky Lab's database until the retention period has expired, but you will no longer be able to access the CompanyAccount website using the deleted account.
 
 ### [**Kaspersky Lab Partner Portal**](https://www.kasperskypartners.com/)
 
@@ -253,36 +256,29 @@ You can delete your account at any point in time should you wish.  If you delet
 
 In order to use the Service and have access to all of its functions, you will provide following personal data:
 
-  * email
-  * password
-  * your name
-  * address
-  * phone number
+  * email address;
+  * password;
+  * your name;
+  * address;
+  * phone number;
   * information you provided to Kaspersky Lab’s technical support.
 
 
 
 ### **Description of Service**
 
-We may request personal information when you place an order, register a product, request a service, answer a survey, enter a contest, and when you correspond with us or engage in other activities on our website. For example:
-
-  * If you submit an online order, you will be asked for information needed to complete the transaction, such as your name, address, and credit card number.
-
-
-  * If you request technical support by email or phone number, we will ask you for information needed to complete the transaction, such as your registration/ license number and information about your computer hardware, software and the nature of the problem you are experiencing.
-
-
+We may request personal information when you place an order, register a product, request a service, answer a survey, enter a contest, and when you correspond with us or engage in other activities on our website.
 
 You make all decisions regarding whether or not to proceed with any activity that requests personal information. However, please note that if you do not wish to provide the requested information, you may not be able to complete the transaction.
 
 We use personal information in the following ways:
 
-  * To provide you with information about virus alerts, product upgrades, new products, services, newsletters, informative emails, and research on future product ideas or improvements
-  * To assist us in creating content that is relevant to you
-  * To provide you with special Kaspersky-specific offers that may be of interest to you
-  * To assist us in creating better products and services to meet your needs
-  * To allow you to purchase and download products, obtain access to services, or otherwise engage in activities you select
-  * To help you quickly find software, services or product information important to you
+  * to provide you with information about virus alerts, product upgrades, new products, services, newsletters, informative emails, and research on future product ideas or improvements;
+  * to assist us in creating content that is relevant to you;
+  * to provide you with special Kaspersky-specific offers that may be of interest to you;
+  * to assist us in creating better products and services to meet your needs;
+  * to allow you to purchase and download products, obtain access to services, or otherwise engage in activities you select;
+  * to help you quickly find software, services or product information important to you.
 
 
 
@@ -298,15 +294,15 @@ Personal data stored all the time you use the service and will be deleted after 
 
 In order to use the Service and have access to all of its functions, you will provide following personal data:
 
-  * email
-  * password
-  * report file. Information about the hardware and software installed on the computer, including the version of the operating system and installed service packs, kernel objects, drivers, services, Microsoft Internet Explorer add-ons, printing system extensions, Windows Explorer plug-ins, loaded objects, Active Setup items, control panel applets, records from the hosts file and system registry, versions of browsers and mail clients, information about established network connections and open ports at the moment when the information is submitted. Full list of provided information you can see in the section [Information provided](https://www.getsysteminfo.com/tou)
+  * email address;
+  * password;
+  * report file (information about the hardware and software installed on the computer, the version of the operating system and installed service packs, kernel objects, drivers, services, Microsoft Internet Explorer add-ons, printing system extensions, Windows Explorer plug-ins, loaded objects, Active Setup items, control panel applets, records from the hosts file and system registry, versions of browsers and mail clients, information about established network connections and open ports at the moment when the information is submitted). Full list of provided information you can see in the section [Information provided](https://www.getsysteminfo.com/tou).
 
 
 
 ### **Description of Service**
 
-**_General terms and conditions_**. Kaspersky Lab hereby grants you the right to use the Website and to examine its Content for private use in order to ensure that the Kaspersky Lab Software is compatible with the other software installed on the Computer and/or drivers making up the Computer and to fix any bugs in the software. By uploading the report file to the Website, you acknowledge that you are the lawful owner of the uploaded object and that the object itself is not confidential and does not contain confidential information. By providing the object for analysis (uploading the object), you grant Kaspersky Lab a free-of-charge and exclusive license to copy, store and delete the uploaded object for analysis purposes. The uploaded object will be stored on Kaspersky Lab's systems for no longer than 90 days, after which it will be deleted and cannot be restored. Data are transmitted to Kaspersky Lab via secure connections. The information provided will be protected by the Rights Holder in accordance with the requirements imposed by law and the requirements set out in the "Privacy Policy". The Website may not be used to create data, code or services for the purpose of detecting, blocking or removing viruses. Interfering with the operation of the Website or gaining access to the Website's services through circumvention of the standard interface (by means of undocumented routes) is prohibited. Use of the Website must comply with statutory regulations, including the applicable legislative instruments and export and re-export rules.
+**_General terms and conditions_**. Kaspersky Lab hereby grants you the right to use the Website and to examine its Content for private use in order to ensure that the Kaspersky Lab Software is compatible with the other software installed on the Computer and/or drivers making up the Computer and to fix any bugs in the software. By uploading the report file to the Website, you acknowledge that you are the lawful owner of the uploaded object and that the object itself is not confidential and does not contain confidential information. By providing the object for analysis (uploading the object), you grant Kaspersky Lab a free-of-charge and exclusive license to copy, store and delete the uploaded object for analysis purposes. Data are transmitted to Kaspersky Lab via secure connections. The information provided will be protected by the Rights Holder in accordance with the requirements imposed by law and the requirements set out in the "Privacy Policy". The Website may not be used to create data, code or services for the purpose of detecting, blocking or removing viruses. Interfering with the operation of the Website or gaining access to the Website's services through circumvention of the standard interface (by means of undocumented routes) is prohibited. Use of the Website must comply with statutory regulations, including the applicable legislative instruments and export and re-export rules.
 
 **_User account creation._** You must create an account in order to use the website. To create your account, enter your email address and set a password.
 
@@ -322,15 +318,15 @@ The uploaded object will be stored on Kaspersky Lab's systems for no longer than
 
 We process personal data you may provide to us for the purpose of providing you with the service and fulfill our respective obligations. In particular:
 
-  * chat session data such as your IP address, time and date of chats as well as chat content data and uploaded files in order to provide you with the service.
-  * contents of your chats with our support team (chat history) and any uploaded files
+  * chat session data such as your IP address, time and date of chats as well as chat content data and uploaded files in order to provide you with the service;
+  * contents of your chats with our support team (chat history) and any uploaded files;
   * email address, activation code and license number.
 
 
 
 ### **How long do we keep your personal data**
 
-We delete personal data as required by applicable law. Chat history data including uploaded files will be deleted 90 days after collection or upon your request.
+We delete personal data as required by applicable law. Chat history data and uploaded files will be deleted 90 days after collection or upon your request.
 
 ### **Other websites and forms**
 
@@ -338,16 +334,16 @@ We delete personal data as required by applicable law. Chat history data includi
 
 In order to access various content elements, register for events, to test our products, to contact us by using our contact and support forms, you will provide personal data that can include the following:
 
-  * first name
-  * last name
-  * email
-  * phone number
+  * first name;
+  * last name;
+  * email address;
+  * phone number.
 
 
 
 ### **Description of Service**
 
-**_General terms and conditions_**. Kaspersky Lab hereby grants you the right to use the Website and to view its Content for private use in order to ensure that the Kaspersky Lab Software is compatible
+**_General terms and conditions_**. Kaspersky Lab hereby grants you the right to use the Website and to view its Content for private use in order to ensure that the Kaspersky Lab Software is compatible.
 
 **_Premium Content._** In order to access various content elements, such as Whitepapers, Videos, register for events or reach dedicated marketing material, we will ask for your first name, last name, email and phone number as mandatory personal data to reach this premium content and to provide you with additional information on other content. These data will be used by our Kaspersky regional office responsible for your location to provide you with additional information on products, services, and other initiatives such as educational activities, seminars, events and marketing campaigns which might be of interest to you. The subscription is voluntary and you are free to unsubscribe anytime by clicking the unsubscribe link or contacting us by email address provided in the email message. In that case your registration data will be deleted and you will not be able to access Premium Content any longer, unless you subscribe for it again.
 
@@ -369,18 +365,24 @@ Personal data stored all the time you use the service and will be deleted after 
 
 #### **DO WE USE COOKIES OR SOCIAL NETWORK MODULES**
 
+Cookie files are files or fragments of information that may be saved on your computer or other Internet-compatible devices (for example, smartphones and tablets) when you visit our websites. This information frequently consists of alphanumeric strings that uniquely identify your computer, but they may also contain other information.
+
 We use different types of “cookies” (small text files that are placed on your device):
 
-  * User input cookies
-  * Authentication cookies
-  * Cookies storing your preferences and settings
-  * Performance cookies
-  * Security (antifraud) cookies
-  * Third party advertising cookies
-  * First party analytics cookies
-  * Social network tracking cookies
+  * user input cookies;
+  * authentication cookies;
+  * cookies storing your preferences and settings;
+  * performance cookies;
+  * security (antifraud) cookies;
+  * third party advertising cookies;
+  * first party analytics cookies;
+  * social network tracking cookies.
 
 
+
+We also use cookie files on our websites when you download Kaspersky Lab applications from our websites. This lets us improve user interaction with the website and product when you use Kaspersky Lab products and our websites and when you provide explicit consent.
+
+Some of our web pages use electronic markers (web beacons) that we use to obtain comprehensive statistics regarding the effectiveness of our advertising campaigns and other operations. We also include web beacons in our emails to you in order to determine the effectiveness, performance, and optimization of email mailings and the user experience. We use various analytical services for these purposes. You can review a list of them [here](https://www.kaspersky.com/third-party-tracking).
 
 You can configure your browser settings in a way that cookies are blocked or your system informs you whenever a website wants to set a cookie. However, please be aware that the blocking of cookies may have the effect that you will not be able to use all our website functions any more.
 
@@ -392,7 +394,7 @@ Our websites are principally designed in a way that limits the processing of per
 
 For the provision of certain services we may make use of external service providers. As far as such external service providers need to have access to personal data, we ensure that any such access is limited to the extent necessary for the provision of the respective service. Furthermore, such external service providers of course have to submit themselves to comply with all applicable data protection regulations.
 
-Our websites contain multiple links to companies we maintain business relationships with, especially to our web shop providers. We are in no way responsible for compliance with data protection requirements regarding the use of our partner’s websites. For information concerning data protection when visiting theses websites, please refer to the respective companies’ website privacy policies.
+Our websites contain links to companies we maintain business relationships with, especially to our web shop providers. We are in no way responsible for compliance with data protection requirements regarding the use of our partner’s websites. For information concerning data protection when visiting theses websites, please refer to the respective companies’ website privacy policies.
 
 #### **WHERE WE PROCESS INFORMATION**
 
@@ -405,7 +407,7 @@ Kaspersky Lab has taken appropriate security measures to protect your personal d
 We never provide data, or access to data, to state organizations or third parties. We may only disclose information under restricted access as follows:
 
   * Within the Kaspersky Lab group of companies. Your personal data will be used by our employees and other staff members on a need-to-know basis for the purposes described above.
-  * We also may share your information with vendors that help us in providing the services to us. These will process your personal data as data processors (Article 28 GDPR) solely on our behalf. The categories of such recipients include: provide web analytics, data processing, advertising, email distribution, payment processing, order fulfillment, and other services
+  * We also may share your information with vendors that help us in providing the services to us. These will process your personal data as data processors (Article 28 GDPR) solely on our behalf. The categories of such recipients include: provide web analytics, data processing, advertising, email distribution, payment processing, order fulfillment, and other services.
 
 
 
@@ -421,11 +423,11 @@ Also, we inform that you have certain rights regarding the personal data we stor
   * **Right of access**. This enables you to receive a copy of the Personal Data we process about you and to check that we are lawfully processing it.
   * **Right to rectification**. Request correction of the Personal Data that we process about you.
   * **Right to erasure (Right to be forgotten)**. This enables you to ask us to delete or remove Personal Data where there is no good reason for us continuing to process it.
-  * **Right of restriction of processing**. This enables you to ask us to suspend the processing of Personal Data about you, for example if you want us to establish its accuracy or the reason for processing it
+  * **Right of restriction of processing**. This enables you to ask us to suspend the processing of Personal Data about you, for example if you want us to establish its accuracy or the reason for processing it.
   * **Right to data portability**. Request the transfer of your Personal Data. We will provide to you, or a third party you have chosen, your Personal Data in a structured, commonly used, machine-readable format.
   * **Right to object**. You may object at any time to our processing of your personal data when such processing is based on our legitimate interests.
   * **Right to withdraw data protection consent**. If you withdraw your consent, we may not be able to provide you with access to the certain specific functionalities of our Site. We will advise you if this is the case at the time you withdraw your consent.
-  * **Right to complain**. You have the right to contact the data protection authority of your country in order to lodge a complaint against our data protection and privacy practices
+  * **Right to complain**. You have the right to contact the data protection authority of your country in order to lodge a complaint against our data protection and privacy practices.
   * **The right to deactivate cookies**. If you wish to restrict or block all the cookies which are set by our websites, please use the tool available on the particular website (if applicable), or refer to the Help function within your browser to learn how to manage your settings within your browser.
 
 
