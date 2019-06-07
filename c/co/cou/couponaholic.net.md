@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponaholic.net privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912185222id_/http%3A//www.couponaholic.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponaholic.net privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607063451id_/http%3A//www.couponaholic.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,29 +18,25 @@ We do run advertising banners and/or browser executable code that can allow our 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-[ ](https://www.facebook.com/sharer/sharer.php?s=100&p\[url\]=http://www.couponaholic.net/privacy-policy/)
+[ ](https://www.facebook.com/sharer/sharer.php?s=100&p\[url\]=https://www.couponaholic.net/privacy-policy/)
 
   
-**_OUR TOP PICKS (UPDATED 9/12/17):_**
+**_OUR TOP PICKS (UPDATED 6/2/19):_**
 
  **  
--[TWO Hot High-Value Spirit Halloween printable coupons!](http://www.couponaholic.net/2017/09/hot-spirit-halloween-coupons-in-store-or-online-10-off-40-and-bogo-50-off/)   
--[New $0.50/1 Clorox Bleach printable coupon (GREAT doubler!)](http://www.couponaholic.net/2017/09/great-new-0-501-clorox-bleach-printable-coupon-awesome-doubler/)   
--[New Purina Dog/Cat Food coupons (including BOGO!)](http://www.couponaholic.net/2017/09/four-new-purina-dogcat-food-coupons-including-a-bogo/)   
--[New $0.50/1 Dannon Oikos Single Cup Yogurt printable coupon!](http://www.couponaholic.net/2017/09/new-high-value-0-501-dannon-oikos-yogurt-printable-coupon-great-doubler/)   
--[HOT New $3/2 Dial Body Washes or Bar Soaps printable coupon!](http://www.couponaholic.net/toppick80)   
--[RARE $5/1 & $10/1 Coleman Outdoor Product printable coupons!](http://www.couponaholic.net/toppick81)   
--[FIVE NEW $2/1 Pampers & $2/1 Luvs printable coupons!](http://www.couponaholic.net/toppick82)   
--[Super High-Value $5/1 Crave Dry Dog & Cat Food printable coupons!](http://www.couponaholic.net/toppick83)   
--[New $2/1 & $1/1 Colgate coupons (plus HOT CVS deal!)](http://www.couponaholic.net/toppick84)   
--[Free Atkins Quick Start Kit plus $5 of coupons!](http://www.couponaholic.net/toppick38)   
--[Aveeno Class Action Settlement - Up to $50 check with no receipts needed](http://www.couponaholic.net/toppick7)**
+-[HOT! NEW BOGO Clairol Hair Color printable coupon *$7.99 value!*](https://track.mysavingsmedia.net/click.track?CID=322504&AFID=302980&ADID=1644708&MYID=20756032&SID=direct%2Dlink)   
+-[NEW $3/1 Schick Disposable Razors printable coupon!](https://track.mysavingsmedia.net/click.track?CID=322504&AFID=302980&ADID=1644708&MYID=20698361&SID=direct%2Dlink)   
+-[NEW $4/1 Renu Multi-Purpose Solution printable coupon!](https://track.mysavingsmedia.net/click.track?CID=322504&AFID=302980&ADID=1644708&MYID=20846105&SID=direct%2Dlink)   
+-[NEW $3/1 Aleve printable coupon!](https://track.mysavingsmedia.net/click.track?CID=322504&AFID=302980&ADID=1644708&MYID=20388062&SID=direct%2Dlink)   
+-[NEW $4/1 Centrum printable coupon!](https://track.mysavingsmedia.net/click.track?CID=322504&AFID=302980&ADID=1644708&MYID=20842085&SID=direct%2Dlink)   
+-[EARN UP TO $25/HOUR with Shipt (AWESOME Side Gig for Extra Cash!)](https://www.couponaholic.net/2019/05/earn-up-to-25-hour-with-shipt-awesome-side-gig-for-extra-cash-2/)   
+-[Bag of Amora Coffee ONLY $1 SHIPPED ($14.95 VALUE!)](https://www.couponaholic.net/2019/05/bag-of-amora-coffee-only-1-shipped-14-95-value-2/)**
 
  ** _GET CONNECTED WITH COUPONAHOLIC:_**
 
  **  
--[SUBSCRIBE to our Daily Email Newsletter](https://visitor.r20.constantcontact.com/d.jsp?llr=lxdi7cjab&p=oi&m=1109272039147&sit=7gstpuvgb&f=7f659a0d-0b38-44b9-9419-0c68ff08319b) <==THE BEST WAY   
--[FOLLOW us on Instagram](http://instagram.com/couponaholicdotnet#) <==SECOND BEST WAY   
+-[SUBSCRIBE to our Daily Email Newsletter](https://visitor.r20.constantcontact.com/d.jsp?llr=lxdi7cjab&p=oi&m=1109272039147&sit=7gstpuvgb&f=7f659a0d-0b38-44b9-9419-0c68ff08319b)   
+-[FOLLOW us on Instagram](http://instagram.com/couponaholicdotnet#)   
 -[LIKE the Couponaholic .NET Facebook Page](https://www.facebook.com/couponaholic.net/)   
 -[JOIN the I am a Couponaholic! Facebook Group](https://www.facebook.com/groups/couponaholic/)   
 -[FOLLOW CouponaholicNet on Twitter](http://twitter.com/couponaholicnet)   
