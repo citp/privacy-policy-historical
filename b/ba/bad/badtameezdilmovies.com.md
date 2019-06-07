@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badtameezdilmovies.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824015004id_/http%3A//badtameezdilmovies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badtameezdilmovies.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608001429id_/http%3A//badtameezdilmovies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Badtameez Dil Movies
 
@@ -12,7 +12,7 @@ By mere browsing or use of BadtameezDilMovies, you consent to the terms of this 
 
 All capitalized terms that have not been specifically defined herein shall have the same meaning as provided under the Terms of Use.
 
-This Privacy Policy should be read in conjunction and together with the Terms of Use available on[ http://BadtameezDilMovies.com/terms-of-service/](http://badtameezdilmovies.com/terms-of-service/).
+This Privacy Policy should be read in conjunction and together with the Terms of Use available on[ http://BadtameezDilMovies.com/terms-of-service/](https://badtameezdilmovies.com/terms-of-service/).
 
 **Collection and Use of Personal Information**  
 ‘Personal Information’, ‘Information’ and ‘Sensitive Information’ shall have the meaning ascribed to it under the IT Act, 2000 and Information Technology (Reasonable Security Practises and Procedures and Sensitive Personal Data or Information) Rules, 2011.
