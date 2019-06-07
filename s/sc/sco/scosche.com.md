@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scosche.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021213844id_/https%3A//www.scosche.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scosche.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607154028id_/https%3A//www.scosche.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,24 @@ For ease of reference, we will use the following terms in this Privacy Policy: "
 
 **Types of Information Covered by This Privacy Policy**
 
-Scosche may collect both Personal Information and Non-Personal Information. "Personal Information" means any information that can be used to identify you. Some examples of Personal Information include your name, address, email address and phone number. "Non-Personal Information" means information that on its own cannot be used to identify you. Some examples of Non-Personal Information include usage data relating to Scosche Websites and Scosche Products, language preferences and Scosche website page views.
+Scosche collects Personal Information from people who browse our webpage or who purchase products from our webpage. "Personal Information" means any information that can be used to identify you or that relates to you. Scosche collects the following information from you when you browse our web page: 
+
+  * Usage data relating to Scosche Websites and Scosche Products
+  * Language preferences
+  * Scosche website page views
+  * Comments you post about our products
+
+
+
+Scosche collects the following information from you when you purchase products on our website:
+
+  * Name
+  * Postal address
+  * Email address if you provide one
+  * Credit or debit card number used to make a purchase
+  * Scosche user ID and password if you create an account with us
+
+
 
 Information may be aggregated and/or anonymized. When information is aggregated, it is combined with information about other customers and users. When information is anonymized, Personal Information is removed from collected data and the remaining portion of the data, containing only Non-Personal Information, is repurposed for internal or external use, such as, for example, to determine how many users of a particular router include an Internet-enabled television in a home network environment, or how many users viewed a particular website video or advertisement. Aggregated information that includes Personal Information is considered Personal Information until it has been anonymized. Anonymized information is considered Non-Personal Information. In general, usage data collected when you visit Scosche Websites or use Scosche Products is both aggregated and anonymized so it does not identify you personally and is therefore Non-Personal Information.
 
