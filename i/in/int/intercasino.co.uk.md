@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intercasino.co.uk privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123105646id_/https%3A//www.intercasino.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intercasino.co.uk privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607140815id_/https%3A//www.intercasino.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # InterCasino | privacy-policy » Home
 
-### Version 3.0 Date: 24.05.18
+### Version 3.0 Date: 06.05.19
 
 Dumarca Gaming Limited ("we", "us", "our") is committed to protecting the privacy of any personal data that you provide to us or that we collect about you ("Personal Information"). Personal Information is information which identifies you and/or which relates to you, and may include your name, address, date of birth, payment card details, gaming history, account details, and any other information that we hold about you. We are a controller (also known as a "data controller") in respect of your Personal Information. Controller is a legal term and means that we are responsible for determining the purposes for which your Personal Information is processed.
 
@@ -16,7 +16,9 @@ We are part of the Jackpotjoy group of companies, which is headed by Jackpotjoy 
 
 ### How we collect your Personal Information
 
-So that we can operate our websites and mobile applications, you will be asked to provide your Personal Information for the purposes of registering and opening an account with us. You are under no obligation to provide Personal Information to us. However, certain Personal Information is essential in order for us to provide you with our services (for example, enabling you to play the games on the website) and you might not be able to obtain certain services if you choose to withhold information we have requested that is required for those services. We also collect information about the transactions you make, including details of payment cards used. We may collect Personal Information through surveys which we, or companies engaged by us for such purpose, undertake. In addition, we collect information about your use of our websites, mobile applications and services. We will also collect other information necessary for us to process your Personal Information for the purposes set out in this Privacy Policy. 
+So that we can operate our websites and mobile applications, you will be asked to provide your Personal Information for the purposes of registering and opening an account with us. You are under no obligation to provide Personal Information to us. However, certain Personal Information is essential in order for us to provide you with our services (for example, enabling you to play the games on the website) and you might not be able to obtain certain services if you choose to withhold information we have requested that is required for those services.   
+We may offer you the option of providing a photographic image of your face to simplify the process for verifying your identity and/or creating your account. Whether you provide such an image will be entirely up to you, but if you prefer not to we will need you to provide us with some additional information about you so we can check your identity to comply with our legal/regulatory obligations.   
+We also collect information about the transactions you make, including details of payment cards used. We may collect Personal Information through surveys which we, or companies engaged by us for such purpose, undertake. In addition, we collect information about your use of our websites, mobile applications and services. We will also collect other information necessary for us to process your Personal Information for the purposes set out in this Privacy Policy. 
 
 If you provide your name, address or any other Personal Information on the public area of our websites, we will process this Personal Information also. 
 
@@ -32,11 +34,17 @@ The following are a list of the purposes for which we process your Personal Info
 
 **Purpose** | **Lawful Basis**  
 ---|---  
-To set-up, administer and manage your account (including processing deposits and withdrawals) | Necessary for the performance of a contract  
+To set-up, administer and manage your account (including processing deposits and withdrawals)  
+We may invite you to provide us with a photographic image of your face as an optional means of streamlining the process for verifying your identity and creating your account. | Necessary for the performance of a contract  
+The collection and processing of your image is subject to your consent.  
 To provide you with our services (including to allow you to play our games) | Necessary for the performance of a contract  
 To receive and respond to your communications and requests | Necessary for the performance of a contract where such communication relates specifically to our services, otherwise consent or legitimate interests  
 To notify you about updates to our websites, mobile applications and services | Necessary for the performance of a contract or legitimate interests  
-To ensure that we are able to fulfil our regulatory obligations regarding your use of our services, including by verifying the accuracy of any information you provide us and by verifying your age (which may involve us disclosing your Personal Information to third parties or supplementing your Personal Information with information received from third parties (such as credit reference agencies) | Necessary to comply with a legal or regulatory obligation  
+To ensure that we are able to fulfil our regulatory obligations regarding your use of our services, including by verifying the accuracy of any information you provide us and by verifying your age (which may involve us disclosing your Personal Information to third parties or supplementing your Personal Information with information received from third parties (such as credit reference agencies)  
+We may invite you to provide us with a photographic image of your face as an optional means of streamlining the verification process.  | Necessary to comply with a legal or regulatory obligation
+
+Consent  
+  
 To comply with our obligations under applicable laws (including gambling legislation, and regulatory and licensing requirements related to our gambling licences) | Necessary to comply with a legal or regulatory obligation  
 To identify and disclose any suspected unlawful, fraudulent, or other improper activity connected with our websites, mobile applications and services (including money laundering) | Necessary to comply with a legal or regulatory obligation  
 To prevent or detect unlawful acts or protecting members of the public against dishonesty, malpractice or other seriously improper conduct  |  Necessary to comply with a legal or regulatory obligation or necessary for reasons of substantial public interest   
@@ -156,7 +164,7 @@ What to do if you don’t want Cookies to be set: Some people find the idea of a
 
 ### Retention of your Personal Information
 
-We will retain your Personal Information for the period necessary for us to provide you with our services and to comply with our legal and regulatory responsibilities. Accordingly, your Personal Information will be retained for a minimum of five years following the closure of your account (if applicable) or the last contact with us from you. Where it is no longer necessary for us to process your Personal Information, we will delete it sooner. If you request that you should not be able to access our websites, mobile applications and services (i.e. self-exclude), we will retain this information for a minimum of seven years. 
+We will retain your Personal Information for the period necessary for us to provide you with our services and to comply with our legal and regulatory responsibilities. Accordingly, your Personal Information will be retained for a minimum of five years following the closure of your account (if applicable) or the last contact with us from you. Where it is no longer necessary for us to process your Personal Information, we will delete it sooner (for example, any facial image you provide as part of the identity verification / account set-up process will be deleted as soon as that process has been completed). If you request that you should not be able to access our websites, mobile applications and services (i.e. self-exclude), we will retain this information for a minimum of seven years. 
 
 ### Updating Your Personal Information
 
