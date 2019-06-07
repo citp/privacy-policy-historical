@@ -1,95 +1,125 @@
-> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331095354id_/http%3A//www.homeserve.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607194639id_/https%3A//www.homeserve.com/uk/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | About | HomeServe
+# Privacy Policy
 
-Welcome to [www.HomeServe.com](http://www.homeserve.com/) (the 'Website'). We are HomeServe Membership Limited, a company registered in England under registration number 02770612 ('HomeServe', 'we', 'our' or 'us' for short). Our registered office is at Cable Drive, Walsall WS2 7BN and our parent company is HomeServe PLC which is registered at the same address under company number 02648297. Our registration number on the data protection register is Z7078512.
+* * *
 
-'You' and 'your' means you as a user of our Website for whatever purpose. Most people visiting our site will do so as an existing (or prospective) customer or to find out about and apply for jobs that are advertised in the recruitment section of the site.
+**HomeServe Group Privacy Notice**
 
-We are committed to protecting your privacy. This privacy policy ('Privacy Policy'), which supplements our [Terms of Use](https://web.archive.org/about/terms-of-use), is intended to inform you how we gather and use information about you. The Privacy Policy is important so please do take a minute to read and understand it.
+Here at the HomeServe Group we know how important it is to keep your personal data safe, that’s why we’re committed to making sure that you receive the service you’d expect and that your privacy is protected every step of the way.
 
-Your personal information will be held and used in accordance with the Data Protection Act 1998 (the 'Act'). If you want to know what information we collect and hold about you please see the section regarding 'How Can You Access and Correct Your Information' below. HomeServe Membership Limited is the data controller of your information for the purposes of the Act.
+In this notice you’ll discover exactly what information we collect from you and how we then use this to deliver our services, as well as your rights. It might not be something you’re interested in, but it’s really important you have a read and of course, let us know if you have any questions.
 
-## What information do we collect?
+The HomeServe Group ('we' and 'us') means HomeServe plc, together with any entity in which HomeServe plc directly or indirectly has at least a 50% shareholding. HomeServe plc uses a variety of well-known brand and trading names including (but not limited to): HomeServe Membership Ltd, Checkatrade, Help-Link, HomeServe Heating, HomeServe Connect and HomeServe Labs. We may transfer your personal information among the members of the HomeServe Group for the purposes contemplated in this privacy notice.
 
-We collect information to enable us to deliver any requested products and services to you and also to keep you informed of any changes or new additions to our service or product offerings that we think may be of interest.
+**So, how do we use your information?**
 
-We collect information in two ways:
+When you buy a product or service through us, we’ll collect some of your personal details, to make sure you have everything you need to make the most of our services. Please rest assured that we’ll only use this for administering your contract and to support the delivery of the services or products you’ve asked for.
 
-1\. Information you give us.
+Examples of the types of personal information we usually collect are:
 
-2\. Information we collect from your use of our website. 
+  * Name 
+  * Address
+  * Telephone number (including mobile)
+  * Email address
+  * Date of birth
+  * Payment details (Direct Debit, credit/debit card number) 
+  * Property type (flat, house etc.)
+  * Boiler details (make and model) 
+  * Any additional requirements such as large print or Braille documentation
+  * Details of any additional authorised parties who can manage your requirements on your behalf
+  * I.P. address for your device (if visiting our website or using our app)
 
-## Information that you give us
 
-To enable us to effectively deliver our products and services we need to collect certain items of Personal information when you apply for a product, request a service or register an interest on our recruitment pages. When we do ask you to provide us with this information, it may be done online via our Website, manually in paper form or on the telephone direct with one of our customer service team. Here are some examples of the types of Personal Information that we usually ask for: 
 
-• Name.  
-• Address.  
-• Telephone number.(s)   
-• Date of birth.   
-• Payment details. (Direct Debit, credit/debit card number)   
-• Property type.   
-• Boiler details. (make and model – only applicable to heating policies)  
-• Email address.
+The information requested during the application process is required to complete the sale of the product on offer and forms part of your contract with us. Unless otherwise stated, the information you provide will never be used for any other purpose without your permission. If any of the data is missing from the application form or is incorrect, we may not be able to process your request.
 
-(Please note that this is not an exhaustive list).
+**Using information provided by third parties**
 
-## Information we collect from your use of our Website
+We sometimes use data from third parties or publicly available sources such as Experian, the edited electoral roll or the deceased preference service. Using this data helps us to ensure that our records are accurate and up to date by filling in any gaps on an address or clarifying vanity addresses and house numbers. It also allows us to remove anyone from our mailings that has passed away.
 
-Cookies and anonymous identifiers: Like many other websites, we use "cookies" to help us gather and store information about visitors to our Website ([http://www.HomeServe.com](http://www.homeserve.com/)) A cookie is a text-only string of information that a website transfers to the cookie folder of the browser on your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. We may collect information about your computer and your visits to this Website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this Website, to improve the websites usability, and for marketing purposes. You cannot be identified as an individual from this type of information. (Please see our Cookies Statement, for further details about our use of cookies). 
+We also use data for marketing purposes. Any data we use in this way is thoroughly checked by both the supplier and our own internal teams to ensure that the correct marketing permissions are in place and that the data is being used fairly.
 
-We use the information we collect in the following ways: 
+**Keeping and storing your data**
 
-• To ensure that the content of our Website is presented in the most effective manner for you and your computer. 
+If you’re a current or past customer, we’ll keep a copy of your personal details for no longer than 6 years, from the time your active relationship with us ends. Holding on to data allows us to keep accurate records for tax purposes and to handle any future complaints. All other personal data used for prospecting and quotation requests is kept for a maximum of 90 days, unless otherwise required by law.
 
-• To identify products or services for which you may be eligible and/or interested in. 
+Some of the data that we collect may be transferred to and stored at a destination outside the European Economic Area ('EEA'), for example some of our IT systems are run on servers hosted in the USA. We take all steps reasonably necessary to ensure that your data is treated in accordance with this privacy notice and applicable privacy laws.
 
-• To deal with any applications for products or services that you make (which may include contacting you about them). 
+**Sharing your data with third parties**
 
-• To notify you about any changes to our products or services. 
+We often work with a number of carefully selected third parties, who introduce us to their customers, so we can promote the products and services we offer.
 
-• For the purpose of administering your products and services, offering you renewals and training and statistical analysis, which may require us to pass your information to our group companies, underwriters of our policies and/or to our service providers. 
+If you’ve been introduced to us through one of our partners, we may share details of the products and services you’ve purchased with them. Sharing data in this way helps us resolve individual complaints and helps us ensure that we’re offering the right products, to the right people.
 
-• Providing you have given your consent when we collect the information, we may contact you with information about products, services and special offers that we feel may be of interest to you or ask you to participate in one of our customer satisfaction surveys. We may, from time to time, share your personal information with specially selected third party organisations such as your water company or our network of local subcontractors to assist us in providing you with the services you have requested. 
+We respect your privacy and that’s why we don’t give your data to any third parties for marketing purposes. However, on occasion and in addition to the above, we may pass your information to a limited number of third parties for the following reasons:
 
-In these circumstances we will take all reasonable steps to ensure your Personal Information is held in strict accordance with our Privacy Policy and is only used for the specified purpose. We may pass your information to other specially selected third parties for a number of reasons but mainly: 
+  * To deliver the services you’ve asked for, which might include giving information to members of your family, household, or other people who have an interest in the property, for instance, landlords or letting agents
+  * For legal or regulatory purposes including fraud prevention
+  * If we buy or sell any business or company assets
 
-• To provide products and services you have asked for, which may include providing information to members of your household, your representatives and other concerned people (such as landlords). • To our subcontractors or other parties that we may use to provide services to you in connection with our agreement with you. 
 
-• If we buy or sell any business or assets in which case we may disclose your information to the seller or buyer of such business or assets. 
 
-• If we are under a duty to disclose or share your Personal Information to comply with any legal obligation or in order to enforce or apply our terms and conditions and other agreements or protect the rights, property, or safety of our customers, or others. This includes exchanging information with other companies, governmental departments and organisations for fraud protection and credit risk reduction. 
+**We’ll always keep you in the loop**
 
-• We have a number of 'affinity agreements' with third parties including local water companies whereby they introduce our products and services to their customers. In those circumstances we will share details of the products and services that have been bought, and also liaise with them in respect of claims handling and on occasion to help resolve individual complaints. 
+Whenever we collect your personal information we’ll give you the opportunity to let us know how you’d like us to get in touch in the future. We promise not to inundate you with marketing messages, but we also understand if you’d prefer not to receive anything from us.
 
-We will not share your details with any organisation or persons outside of HomeServe or its direct affiliates without your prior permission except as set out in the conditions above. 
+If you’ve asked us to send you marketing material, you can change your mind at any time by contacting us using the details in the Contact Us section. You’ll also find an unsubscribe link at the bottom of every marketing email we send to you. 
 
-## Choice/Opt-out
+If you’ve given us an email address you may receive messages related to the management of your policy via email, which include policy and renewal documents. If you’d prefer not to receive these messages in this way, just let us know and we’ll be happy to provide them in paper form instead.
 
-You have the right, at any time, to ask us not to process your Personal Information for marketing purposes. We will inform you (at the point at which you provide, or we collect, your Personal Information) if we intend to use your Personal Information for such purposes or if we intend to disclose your information to any carefully selected third party for such purposes. You can exercise your right to opt-out of receiving marketing material from us by ticking certain boxes on the forms we use to collect your information or by informing a member of our customer service team. If you change your mind, you can also exercise this right at any time by writing to us at the address provided in the ‘Requesting access to/amending personal information’ section below or via email from our Website https://www.homeserve.com/contact-us. If you choose to correspond with us by email, we may retain the content of your email messages together with your email address and our responses for our records. You can also opt-out of receiving email communications simply by clicking the unsubscribe link which you will find at the bottom of every email. Please note it can take up to 30 days for a request to be fulfilled because of pre-planned or ongoing marketing activity. 
+**Your rights matter**
 
-## Requesting access to/amending your Personal Information
+If you’d like to see the personal information that we hold about you, you can request a copy any time. If you find that this information is incorrect you can ask for it to be updated. Or, if you believe the information is being processed without a legal basis, you can ask us to stop or request that it’s deleted from our systems.
 
-If you wish to enquire about gaining access to or amending the Personal Information we hold about you or if have any questions relating to our Privacy Policy please either send a request using our secure messaging system https://www.homeserve.com/contact-us or alternatively you can write to us at the following address: 
+To action any of the above, send an email to: [Privacy@homeserve.com](mailto:Privacy@homeserve.com) or alternatively you can write to us at: 
 
 Freepost RLYC-LXAL-GEEH  
-FAO: Data Protection Officer  
-HomeServe  
-Cable Drive Walsall  
-WS2 7BN.
+Customer Relations Team  
+HomeServe Membership Ltd  
+Cable Drive  
+Walsall  
+WS2 7BN 
 
-We will require a small fee of £10 to cover the cost of collating and providing this information, we may also require proof of your identity. On receipt of such proof we will provide you with a readable copy of the personal data that we hold within 40 days. We reserve the right to refuse to provide copies of personal data but will give reasons for our refusal.  
-You may also ask us to correct or remove any Personal Information that we hold about you by writing to the same address and providing us with details of the inaccuracy or the information you wish to be removed from our systems.
+We won’t ever charge you for a copy of your personal data but we may ask you for proof of your identity before we disclose any information. Once we’ve seen this, we’ll send you a copy of the personal data we hold within 30 days. In addition, if you decide to move away from us for any reason, you can also request for your personal data to be transferred to a new provider on your behalf. 
 
-## How we protect your information
+**Customer profiles**
 
-We do our best to maintain the highest standards of security, encrypting your Personal information using Secure Sockets Layer SSL, 128 bit encryption services, however even with this the transmission of information via the internet is not completely secure. For this reason, we request that you do not send Personal information to us by email. If you choose to use email, we cannot be responsible for loss or interception of it that is beyond our control; any transmission is at your own risk. Once we have received your information we will use strict procedures and security features to prevent unauthorised access.
+We carry out something called ‘profiling’ so we can understand the needs, behaviours and socio-demographic characteristics of our customers. This helps us make sure that we‘re offering the right products and services to the right people, for example, not offering gas products to people without a gas supply or products to people living in sheltered accommodation, who don’t need our services. Profiling also means we can tailor our offerings to current customers, enhancing the potential benefits of being a customer.
 
-## Where we store your information
+**Contact us**
 
-The information that we collect from you may be transferred to and stored at a destination outside the European Economic Area ('EEA'), for example some of our IT systems are run on servers hosted in the USA. If you are applying for a position within one of our offices which is outside of the EEA, then your Personal Information will be transferred to, and processed by that local office. By submitting your Personal information, you agree to such transfer, storing or processing. We will take all steps reasonably necessary to ensure that your Personal information is treated securely and in accordance with this Privacy Policy.
+**General Enquiries/Data Controller**
 
-## Links to other websites
+HomeServe Membership Ltd  
+Cable Drive  
+Walsall  
+WS2 7BN
 
-We are not responsible for the practices employed by websites linked to or from our Website nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our Website. Please remember that when you use a link to go from our Website to another website, our Privacy Policy will no longer apply. Your browsing and interaction on any other website, including websites which have a link on our Website, are subject to that website's own rules and policies. Please read the rules and policies relating to that website before proceeding. 
+Tel: 0330 0247 999
+
+[www.homeserve.com/send us a message](https://web.archive.org/uk/contact-us/send-us-message)
+
+**Data Protection Officer**
+
+Data Protection Officer  Legal Services  HomeServe PLC  Cable Drive  Walsall  WS2 7BN
+
+Tel: 0330 0247 999
+
+Email: [Privacy@homeserve.com](mailto:Privacy@homeserve.com)
+
+**Got any worries?**
+
+If, at any time, you feel that we haven’t processed your data fairly or you’re not satisfied with how we’ve handled your personal information, you can contact the Information Commissioners Office, who will look into this for you. For full details about how to share any concerns you may have, visit [www.ico.org.uk/concerns/](https://ico.org.uk/concerns/) ~~~~
+
+**Links to other Websites**
+
+Any links to other websites are provided solely as pointers to information on topics that may be useful to the users of our website. Please remember that when you use a link to go from our website to another website, this privacy notice will no longer apply. Your browsing and interaction on any other website, including those which have a link on our website, are subject to that site's own rules and policies. We recommend that you read the rules and policies relating to that website before submitting any personal information.
+
+**Updates**
+
+This notice will be updated from time to time and we recommend that you check back regularly but we will notify you of any changes through our website. The version number and date released will always be listed below:
+
+Version number: 1.0
+
+Date released: December 2017
