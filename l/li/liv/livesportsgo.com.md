@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livesportsgo.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202104403id_/http%3A//www.livesportsgo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesportsgo.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607035540id_/http%3A//www.livesportsgo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Live Sports Go
 
