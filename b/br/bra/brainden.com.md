@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainden.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220070333id_/http%3A//brainden.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainden.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607185839id_/http%3A//brainden.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # BrainDen.com - Privacy Policy
 
@@ -30,4 +30,4 @@ We never sell any of your personal information to third parties.
 
 BrainDen - May 2012 
 
-Do you like these brain teasers and wish to bookmark them on your Google +1 or Facebook profile? Easy, simply click the following buttons.
+If you like these brain teasers then feel free to share them with your friends.
