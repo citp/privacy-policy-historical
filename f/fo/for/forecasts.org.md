@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forecasts.org privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113001259id_/http%3A//www.forecasts.org/service/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forecasts.org privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607173046id_/http%3A//www.forecasts.org/service/privacy.htm) for the most accurate reproduction.*
 
 # Financial Forecast Center Privacy Policy
 
-Objective.  Independent.  Accurate.
+Independent.  Objective.  Accurate.
 
 ## The Financial Forecast Center's Privacy Policy
 
