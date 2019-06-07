@@ -1,180 +1,150 @@
-<!--The following is the downloaded HTML source of the wellnessfx.com privacy policy that was archived on 2017-07-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170729020550id_/https%3A//www.wellnessfx.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wellnessfx.com privacy policy that was archived on 2019-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190607223435id_/https%3A//www.wellnessfx.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" style="" class="applicationcache geolocation history postmessage svg websockets localstorage sessionstorage websqldatabase webworkers hashchange audio canvas canvastext video webgl csscalc cssgradients multiplebgs opacity rgba inlinesvg hsla supports svgclippaths smil no-touchevents fontface generatedcontent textshadow cssanimations backgroundsize borderimage boxshadow csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside flexbox flexwrap csstransforms csstransforms3d csstransitions indexeddb indexeddb-deletedatabase linux chrome chrome6 webkit webkit5"><head>
-<meta charset="utf-8">
-<script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"daa9098dda","applicationID":"2993138","transactionName":"d1oNTRQJCgoGEBhDAFNQEBYWFA8QAgFObBFbWQpaHw==","queueTime":0,"applicationTime":42,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcEU15ACgoJV1BRDw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
-<title>Privacy Policy - WellnessFX</title>
+<!DOCTYPE html><html lang="en" class="null-layout js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths linux chrome chrome69 webkit webkit5 wf-proximanova-n7-active wf-proximanova-i7-active wf-proximanova-n4-active wf-proximanova-i4-active wf-proximanovasoft-n4-active wf-proximanovasoft-n6-active wf-active"><head><style type="text/css"></style>
+		
+		<title>Privacy Policy - WellnessFX</title>
+		
+		<meta charset="utf-8">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
 <meta content="Access cutting-edge diagnostic testing, the latest nutritional science, and medical practitioners committed to preventative health." name="description">
 <meta content="health, nutrition, diagnostic testing" name="keywords">
-<meta content="authenticity_token" name="csrf-param">
-<meta content="h76qTLTRZLS/L1szPGQmbhnvybd3oHdK8zgPD/oVjC8=" name="csrf-token">
-<!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
-<link href="/assets/print-875f0d42a52ff5536404da8fda8d423b.css" media="print" rel="stylesheet" type="text/css">
-<link href="/assets/screen-4a44ef2b799f051610db587f8a4ea847.css" media="screen, projection" rel="stylesheet" type="text/css">
+<link href="/assets/global/favicon.png" rel="shortcut icon" type="image/x-icon">
 
-<meta content="width=device-width, initial-scale=1, minimum-scale=1" name="viewport">
-<script src="/assets/typekit-757b35314077f2c19c2d13bd0a153b0f.js" type="text/javascript"></script>
-<iframe src="javascript:false" title="" style="display: none;"></iframe><script src="/assets/application-41932ff4e436c56099b733e6ebb24ca9.js" type="text/javascript"></script>
+<noscript>
+	<meta content='0;URL=/noscript.html' http-equiv='refresh' />
+</noscript>
+<meta name="reset_inactivity_timeout_path" content="/reset_inactivity_timeout">
+<meta name="check_inactivity_timeout_path" content="/check_inactivity_timeout">
+<meta name="sign_out_path" content="/sign_out?inactive=true">
+<meta name="inactivity_timeout" content="1800000">
+<meta name="_csrf" content="e583a9a5-3966-4644-a99f-888e89e683cb">
+<meta name="_csrf_header" content="X-CSRF-TOKEN">
+
+
+<meta name="csrf-token" content="e583a9a5-3966-4644-a99f-888e89e683cb">
+<meta name="csrf-param" content="_csrf">
+
+
+<script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//web.archive.org/web/20190615065255/https://use.typekit.net/uvl2llx.js" type="text/javascript" async=""></script><script src="/dist/css/init.js"></script>
+<script src="/dist/javascripts/index_common_new.js"></script>
 <script src="//cdn.optimizely.com/js/4728025.js"></script>
-<script>
-  var WFX = WFX ? WFX : {};
-  WFX.zip_code = null;
-  WFX.state = null;
-  $(function() { $('input,textarea').placeholder(); });
+<script src="/legacy/vendor/assets/javascripts/zopim.js"></script>
+<script src="/dist/javascripts/index_templates.js"></script>
+
+<link rel="stylesheet" media="screen, projection, print" href="/legacy/css/styles.css">
+<link rel="stylesheet" media="screen, projection, print" href="/dist/css/topaz.css">
+
+
+<style type="text/css">.tk-proxima-nova{font-family:"proxima-nova",sans-serif;}.tk-proxima-nova-soft{font-family:"proxima-nova-soft",sans-serif;}</style><style type="text/css">@font-face{font-family:proxima-nova;src:url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/86cd00/00000000000000003b9aec1f/27/l?subset_id=2&fvd=n7&v=3) format("woff2"),url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/86cd00/00000000000000003b9aec1f/27/d?subset_id=2&fvd=n7&v=3) format("woff"),url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/86cd00/00000000000000003b9aec1f/27/a?subset_id=2&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/ff2186/00000000000000003b9aec20/27/l?subset_id=2&fvd=i7&v=3) format("woff2"),url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/ff2186/00000000000000003b9aec20/27/d?subset_id=2&fvd=i7&v=3) format("woff"),url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/ff2186/00000000000000003b9aec20/27/a?subset_id=2&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;}@font-face{font-family:proxima-nova;src:url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/702309/00000000000000003b9aec27/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/702309/00000000000000003b9aec27/27/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/702309/00000000000000003b9aec27/27/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/59753e/00000000000000003b9aec28/27/l?subset_id=2&fvd=i4&v=3) format("woff2"),url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/59753e/00000000000000003b9aec28/27/d?subset_id=2&fvd=i4&v=3) format("woff"),url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/59753e/00000000000000003b9aec28/27/a?subset_id=2&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;}@font-face{font-family:proxima-nova-soft;src:url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/357d3c/00000000000000000001743c/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/357d3c/00000000000000000001743c/27/d?subset_id=2&fvd=n4&v=3) format("woff"),url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/357d3c/00000000000000000001743c/27/a?subset_id=2&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:proxima-nova-soft;src:url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/8d1d7e/00000000000000000001743e/27/l?subset_id=2&fvd=n6&v=3) format("woff2"),url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/8d1d7e/00000000000000000001743e/27/d?subset_id=2&fvd=n6&v=3) format("woff"),url(https://web.archive.org/web/20190612013139/https://use.typekit.net/af/8d1d7e/00000000000000000001743e/27/a?subset_id=2&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;}</style><script type="text/javascript">
+    
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', "UA-20270194-5", {'cookieDomain': 'wellnessfx.com'});
+    ga('require', 'linkid', 'linkid.js');
+    ga('send', 'pageview');
+
 </script>
 
-<meta content="http://wellnessfx.com" property="og:url">
-<meta content="WellnessFX - Optimize Your Health" property="og:title">
-<meta content="Access cutting-edge diagnostic testing, the latest nutritional science, and medical practitioners committed to preventative health." property="og:description">
-<meta content="http://www.wellnessfx.com/assets/global/WellnessFX-icon-500.png" property="og:image">
-<meta content="652972692" property="fb:admins">
-<meta content="DF6CBEF5AA0DDE5333D11D8B85427CB3" name="msvalidate.01">
-<meta content="DF6CBEF5AA0DDE5333D11D8B85427CB3" name="msvalidate.01">
-<meta content="cfc5a9be1a8dd3f1" name="y_key">
-<meta content="8GdFReFJ5-Bxqi4f6W_ELkim0tk" name="alexaVerifyID">
-<link href="/assets/global/favicon-1f8e5b9152cfc7ffce88105c50480f8b.png" rel="shortcut icon" type="image/x-icon">
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  
-  ga('create', 'UA-20270194-5', {'cookieDomain': 'wellnessfx.com'});
-  ga('require', 'linkid', 'linkid.js');
-  ga('send', 'pageview');
-</script>
-<script>
-  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-  document,'script','//connect.facebook.net/en_US/fbevents.js');
-  
-  fbq('init', '470764166446035');
-  fbq('track', "PageView");
+
+<script type="text/javascript">
+    
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', "470764166446035");
+    fbq('track', "PageView");
+
 </script>
 <noscript>
-<img height='1' src='https://www.facebook.com/tr?id=470764166446035&amp;ev=PageView&amp;noscript=1' style='display:none' width='1'>
+	<img height="1" src="//www.facebook.com/tr?id=470764166446035&amp;ev=PageView&amp;noscript=1" style="display: none" width="1" />
 </noscript>
-</head>
-<body class="default" id="pages_privacy_policy">
-<div data-wfx_api_url="/api/v1" data-wfx_topaz_hostname="https://wwws.wellnessfx.com" id="container">
-<div id="top">
-<header id="header">
-<nav class="utility-nav navbar navbar-inverse navbar-static-top">
-<div class="container">
-<ul class="nav navbar-nav navbar-right">
-<li class="dropdown partners">
-<a class="dropdown-toggle" data-toggle="dropdown">
-Partner
-<b class="caret"></b>
-</a>
-<ul class="dropdown-menu">
-<li><a href="/practitioners" id="mainnav-practitioners">Practitioners</a></li>
-<li><a href="/employer" id="mainnav-employer">Employers</a></li>
-<li><a href="/healthclub" id="mainnav-healthclub">Health Clubs</a></li>
-<li><a href="/resort" id="mainnav-resort">Resorts</a></li>
-<li><a href="/thorne-practitioners" id="mainnav-thorne">Thorne Practitioners</a></li>
-<li><a href="/affiliate" id="mainnav-affiliate">Affiliates</a></li>
-</ul>
-</li>
-<li><a href="http://blog.wellnessfx.com">Blog</a></li>
-<li><a href="http://www.wellnessfx.com/support">Support</a></li>
-<li><a href="https://wwws.wellnessfx.com" class="sign_in">Sign In</a></li>
-</ul>
-</div>
-</nav>
-<nav class="main-nav navbar navbar-default navbar-static-top">
-<div class="container">
-<div class="navbar-header">
-<button class="btn navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-<a class="navbar-brand" href="http://www.wellnessfx.com/" id="logo">
-<!--[if lte IE 8]>
-<img alt="WellnessFX" height="22" src="/assets/global/nav/wellnessfx-logo-5411cae6d7678310c4ac09ace2ba061c.png" width="170" />
-<![endif]-->
-<!--[if gt IE 8]>
-<img alt="WellnessFX" height="22" src="/assets/global/nav/wellnessfx-logo-d3f055118cb41d7006272716fd72f72f.svg" width="170" />
-<![endif]-->
-<!--[if !IE]> -->
-<img alt="WellnessFX" height="22" src="/assets/global/nav/wellnessfx-logo-d3f055118cb41d7006272716fd72f72f.svg" width="170">
-<!-- <![endif]-->
-</a>
-</div>
-<div class="navbar-collapse collapse">
-<ul class="nav navbar-nav navbar-left">
-<li class="dropdown learn">
-<a class="dropdown-toggle" data-toggle="dropdown">
-Learn
-<b class="caret"></b>
-</a>
-<ul class="dropdown-menu">
-<li><a href="/how-it-works" id="mainnav-how_it_works">How It Works</a></li>
-<li><a href="/is-it-for-me" id="mainnav-is_it_for_me">Is It For Me?</a></li>
-<li><a href="/consultations" id="mainnav-consultations">Consultations</a></li>
-<li><a href="/success-stories" id="mainnav-success_stories">Success Stories</a></li>
-</ul>
-</li>
-<li class="dropdown packages">
-<a data-toggle="dropdown">
-Packages
-<b class="caret"></b>
-</a>
-<ul class="dropdown-menu">
-<li><a href="/packages" id="mainnav-packages">Compare All</a></li>
-<li class="divider label-divider">
-<span>
-Main Packages
-</span>
-</li>
-<li><a href="/echeckup" id="mainnav-echeckup">e-Checkup</a></li>
-<li><a href="/baseline" id="mainnav-baseline">Baseline</a></li>
-<li><a href="/performance" id="mainnav-performance">Performance</a></li>
-<li><a href="/premium" id="mainnav-premium">Premium</a></li>
-<li class="divider label-divider">
-<span>
-Specialty Packages
-</span>
-</li>
-<li><a href="/thyroid" id="mainnav-thyroid">Advanced Thyroid</a></li>
-<li><a href="/womens-health" id="mainnav-womens_health">Women's Health</a></li>
-<li><a href="/omegas" id="mainnav-omegas">Omegas</a></li>
-<li><a href="/advanced-heart-health" id="mainnav-advanced_heart_health">Advanced Heart Health</a></li>
-<li class="divider label-divider">
-<span>
-Home Kits
-</span>
-</li>
-<li><a href="/lifelong-vitality" id="mainnav-lifelong_vitality">Lifelong Vitality</a></li>
-</ul>
-</li>
-</ul>
-<ul class="nav navbar-nav navbar-right">
-<li class="cta"><a href="https://wwws.wellnessfx.com/program_registration/find?coupon_code=&amp;partner=" class="btn btn-super btn-rounded" data-location="header">Employer blood test</a></li>
-<li class="sign_in"><a href="https://wwws.wellnessfx.com">Sign In</a></li>
-</ul>
-</div>
-</div>
-</nav>
-<nav class="sub_nav_wrapper affix-top" data-offset-top="80" data-spy="affix"></nav>
-
-</header>
 
 
-<div id="main">
-<div class="container">
-<div class="row">
-<div class="legal_document col-md-8">
-<h2>WellnessFX Privacy Policy</h2>
+<script>
+    
+    !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+    a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
+    t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
+    s.parentNode.insertBefore(t,s))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','nv6jj');
+    twq('track','PageView');
 
+</script>
+
+<script>
+     
+     if($.colorbox) {
+       $.colorbox.settings.speed = 0;
+       $.colorbox.settings.transition = "none";
+     }
+
+</script>
+
+
+
+
+<script>
+    WFX = window.WFX || {};
+
+    WFX.constants = {
+      support_email: "support@wellnessfx.com"
+    };
+    
+    WFX.user = WFX.user || {};
+</script>
+
+
+
+	</head>
+  
+	<body id="pages-privacy-policy-page" class="pages-privacy-policy-page privacy-policy pages-page">
+		<div class="site-wrapper">
+
+			
+		      	
+		<header class="site-header">
+		  	<div>
+		
+		
+			<div class="site-utility-nav__container navbar navbar-static-top fixed-width">
+				<div class="container">
+					<a class="site-logo navbar-brand" href="/">WellnessFX</a>
+					<ul class="site-utility-nav nav navbar-nav navbar-right">
+		
+			<li id="support">
+				<a href="http://wellnessfx1379356192.zendesk.com/home">Support</a>
+			</li>
+			<li class="sign_in" id="sign_in">
+				<a href="/sign_in">Sign In</a>
+			</li>
+		
+		
+	</ul>
+				</div>
+			</div>
+		
+		
+	</div>
+		</header>
+		
+	
+	      	
+      
+			<div class="page-container container fixed-width">
+				<div class="row">
+					<div class="page-content clearfix col-xs-12">
+						<div>
+		<div class="legal-document"><h2>WellnessFX Website Privacy Statement</h2>
 <p>This policy contains eight sections, and you can jump to each by
 selecting the links below:</p>
-
 <ol>
 <li><a href="#introduction">Introduction</a></li>
 <li><a href="#collect_information">How We Collect Your Information</a></li>
@@ -183,493 +153,96 @@ selecting the links below:</p>
 <li><a href="#third_parties">Information You Share With Third Parties</a></li>
 <li><a href="#change_or_remove_information">How You Can Change or Remove Information</a></li>
 <li><a href="#how_we_protect_information">How We Protect Your Information</a></li>
-<li><a href="#changes_to_policy">Changes to this Privacy Policy</a></li>
+<li><a href="#changes_to_policy">Changes to this Privacy Statement</a></li>
 </ol>
-
-
 <p><a name="introduction"></a></p>
-
 <h3>1. Introduction</h3>
-
-<p>Welcome to <strong>www.wellnessfx.com</strong> (the <strong>"Site"</strong>), a website operated by
-WellnessFX, Inc. (<strong>"WellnessFX"</strong>, <strong>"we"</strong>, <strong>"us"</strong>, or <strong>"our"</strong>). We operate an
-online wellness service enabling members (<strong>"Members"</strong>) to purchase
-laboratory diagnostics, report their health history and engage
-healthcare providers (<strong>"Authorized Providers"</strong>) to obtain advice regarding
-the results of such diagnostics and other wellness-oriented healthcare
-advice (the <strong>"Service"</strong>). Our Site provides further information about our
-Service. We know you are concerned about your privacy, so we developed
-this privacy policy (<strong>"Privacy Policy"</strong>) to explain how we collect, use,
-and disclose information from and/or about you when you use the Site or
-the Services, whether you are a Member, Authorized Provider or simply
-visiting our Site (<strong>"Visitor"</strong>).</p>
-
-<p><strong>Certain Definitions.</strong> So we are clear about the terms we are using, when
-we use the term <strong>"Personal Information"</strong> in this Privacy Policy, we mean
-information about you that is personally identifiable to you, such as
-your contact information (e.g., name, address, email address, or
-telephone number), and any other non-public information that is
-associated with such information (collectively, <strong>"Personal Information"</strong>).
-Also, when we use the term <strong>"De-Identified Information"</strong>, we mean
-information that is neither used nor intended to be used to personally
-identify an individual. Lastly, when we use the term <strong>"Cookies"</strong>, we mean
-the small pieces of information that a website sends to your browser
-while you are viewing a website.</p>
-
-<p><strong>No Information from Children under age 18.</strong> The Site is not directed to
-children and children are not eligible to use our Service. If you are
-under age 18, please do not attempt to use our Service or provide any
-personal information about yourself to us. If we learn that we have
-collected personal information from a child under age 18, we will delete
-that information as quickly as possible. If you believe that we might
-have any information from a child under age 18, please contact us at
-support@wellnessfx.com.</p>
-
-<p><strong>Questions.</strong> If you have questions or concerns about our Privacy Policy,
-please contact us by sending an email to support@wellnessfx.com.</p>
-
-<p><u><strong>NOTE TO BETA USERS: If you are a beta user of the Service the beta
-agreement between you and WellnessFX has additional provisions regarding
-your personal information. In the event of a conflict between a
-provision in the beta agreement and this privacy policy, the provision
-in the beta agreement will prevail.</strong></u></p>
-
+<p>Welcome to <strong>www.wellnessfx.com</strong> (the <strong>"Site"</strong>), a website operated by WellnessFX, Inc. (<strong>"WellnessFX"</strong>, <strong>"we"</strong>, <strong>"us"</strong>, or <strong>"our"</strong>).  We offer an online wellness service enabling our subscribers (<strong>"Subscribers"</strong>) to receive personalized data and wellness reports and facilitate obtaining laboratory testing services from CLIA certified laboratories and engaging licensed healthcare providers (<strong>"Authorized Providers"</strong>) to obtain advice regarding the test results and other wellness-oriented consults (collectively the <strong>"Services"</strong>). We know you are concerned about your privacy, so we developed this privacy statement (<strong>"Privacy Statement"</strong>) to explain how we collect, use, and disclose information from and/or about you when you use the Site or Services.  If you use the Site or Services, you are accepting the terms and conditions of this Privacy Statement.  This Privacy Statement is incorporated into and is subject to our Terms of Service.</p>
+<p><strong>No Information from Children (under age 18)</strong>. The Site is not directed to individuals under 18 years of age, who are not eligible to use our Service. If you are under age 18, please do not attempt to use our Site or Services or provide any personal information about yourself to us. If we learn that we have collected personal information from an individual under age 18, we will take steps to remove that information as quickly as possible. If you believe that we might have received any information from an individual under age 18, please contact us at support@wellnessfx.com.</p>
+<p><strong>Questions</strong>. If you have questions or concerns about our Privacy Statement, please contact us by sending an email to support@wellnessfx.com.</p>
 <p><a name="collect_information"></a></p>
-
 <h3>2. How We Collect Your Information</h3>
-
-<p><strong>Member Information.</strong> We receive information related to a Member (<strong>"Member
-Information"</strong>) when:</p>
-
 <ul>
-<li><strong>You Provide Us Information</strong>, including when you register as a Member,
- schedule an appointment, or otherwise communicate with us through
- our Site. This information may include:</li>
-<li><strong>Health Information</strong> (e.g. medical records, age, gender, health
- background, health status, prescribed and over-the-counter
- medications, Authorized Provider notes and diagnoses, medical ID
- number, driver0x2019s license number, laboratory testing results,
- insurance information);</li>
-<li><strong>Personal Information</strong>;</li>
-<li><strong>Demographic Information</strong> (e.g., ethnicity, marital status, sexual
- behavior, sexual orientation); and</li>
-<li><strong>Lifestyle Information</strong> (e.g., salary and level of education
- information).</li>
-<li><strong>Your Authorized Providers and Testing Laboratories Provide
- Information to Us</strong> (upon proper authorization from you);</li>
-<li><strong>When You Interact With the Site</strong>, as further described
- <a href="#when_you_interact">here</a>;</li>
-<li><strong>We Create De-Identified Information.</strong> We do this by removing the
- information that personally identifies you from the Member
- Information otherwise collected.</li>
-</ul>
-
-
-<p><strong>Authorized Provider Information.</strong> We receive information related to an
-Authorized Provider (<strong>"Authorized Provider Information"</strong>) when:</p>
-
+<li><p><strong>When You Provide Us Information</strong>, including when you communicate with us through our Site or send us an email or feedback, register as a Subscriber for Services, schedule an appointment with an Authorized Provider, or otherwise communicate with us through our Site or Services.
+This information may include (collectively “Information”):</p>
 <ul>
-<li><strong>You Provide Us Information</strong>, including when you register as an
- Authorized Provider, communicate with us through our Site, provide
- Authorized Provider notes on specific Members, send us an email or
- participate in a survey. This information may include Personal
- Information of the Authorized Provider.</li>
-<li><strong>We Verify Your Credentials</strong></li>
-<li><strong>When You Interact with the Site</strong>, as further described
- <a href="#when_you_interact">here</a>.</li>
+<li><strong>Personal Information</strong> (e.g., name, address, email address, or telephone number), and any other non-public information that is associated with such information);</li>
+<li><strong>Health Information</strong> (e.g. medical records, age, gender, health background, health status, prescribed and over-the-counter medications, Authorized Provider notes and diagnoses, medical ID number, driver's license number, laboratory testing results, insurance information);</li>
+<li><strong>Demographic Information</strong> (e.g., ethnicity, marital status, sexual behavior, sexual orientation); and</li>
+<li><strong>Lifestyle Information</strong> (e.g., salary and level of education information).</li>
 </ul>
-
-
-<p><strong>Visitor Information.</strong> We receive information related to a Visitor
-(<strong>"Visitor Information"</strong>) when:</p>
-
+</li>
+<li><p><strong>When Your Authorized Providers Transfer Information to Us</strong> (upon proper authorization and release from you).</p>
 <ul>
-<li><strong>You Provide Us Information</strong>, including when you communicate with us
- through our Site or send us an email. This information may include,
- without limitation, Personal Information of Visitor.</li>
-<li><strong>When You Interact with the Site</strong>, as further described
- <a href="#when_you_interact">here</a>.</li>
+<li><strong>When You Interact with the Site</strong>. As you use the Site or the Services, certain information may be passively collected by Cookies (information that a website sends to your browser while you are viewing that website), navigational data like Uniform Resource Locators (URLs), and third party tracking services, including:<ul>
+<li><strong>Site Activity Information</strong>. We keep track of some of the actions you take on the Site, such as the content of searches you perform on the Site.</li>
+<li><strong>Access Device and Browser Information</strong>. When you access the Site from a computer or other device, we may collect information from that device, such as your Internet protocol address, browser type and access times.</li>
+<li><strong>Cookies</strong>. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies. You can instruct your browser, by changing its options, to stop accepting Cookies or to prompt you before accepting a Cookie from the websites you visit. If you do not accept Cookies, however, you will not be able to stay logged into the Site.</li>
 </ul>
-
-
-<p><a name="when_you_interact"></a>
-<strong>Information We Collect When You Interact with the Site.</strong> As you use the
-Site or the Service, certain information may be passively collected by
-Cookies, navigational data like Uniform Resource Locators (URLs) and
-third party tracking services, including:</p>
-
-<ul>
-<li><strong>Site Activity Information</strong>. We keep track of some of the actions you
- take on the Site, such as the content of searches you perform on the
- Site.</li>
-<li><strong>Access Device and Browser Information</strong>. When you access the Site from
- a computer or other device, we may collect anonymous information
- from that device, such as your Internet protocol address, browser
- type and access times (collectively, <strong>"Anonymous Information"</strong>).</li>
-<li><strong>Cookies</strong>. We may use both session Cookies (which expire once you
- close your web browser) and persistent Cookies to make the Site and
- Service easier to use, to make our advertising better, and to
- protect both you and WellnessFX. You can instruct your browser, by
- changing its options, to stop accepting Cookies or to prompt you
- before accepting a Cookie from the websites you visit. If you do not
- accept Cookies, however, you will not be able to stay logged in to
- the Site.</li>
+</li>
 </ul>
-
-
-<p>The information we collect when you interact with the Site may be
-Personal Information (e.g., if you are logged in) or Anonymous
-Information.</p>
-
+</li>
+</ul>
+<p>The Information we collect when you interact with the Site may be Personal Information (e.g., if you are logged in).</p>
 <p><a name="how_we_use_your_information"></a></p>
-
 <h3>How We Use Your Information</h3>
-
-<p><strong>Member Information.</strong> We will use your Member Information to:</p>
-
 <ul>
 <li>Administer your account;</li>
 <li>Process your payments and fulfill your orders;</li>
-<li>Verify your identity as a Member;</li>
-<li>Provide you with the Service and customer support;</li>
-<li>Tailor the features, performance and support of the Site or the
- Service to you;</li>
-<li>Market our Service and those of third parties we believe may be of
- interest to you;</li>
-<li>Respond to your requests, resolve disputes and/or troubleshoot
- problems;</li>
-<li>Improve the quality of the Site and the Service; and</li>
-<li>Communicate with you about the Site and the Service.</li>
+<li>Verify your identity;</li>
+<li>Provide you with the Services and customer support;</li>
+<li>Tailor the features, performance and support of the Site or Services to you;</li>
+<li>Market our Services and those of third parties we believe may be of interest to you;</li>
+<li>Respond to your requests, resolve disputes and/or troubleshoot problems;</li>
+<li>Improve the quality of the Site and Services; and</li>
+<li>Communicate with you about the Site and Services.</li>
 </ul>
-
-
-<p>In addition, we may use your Member Information or De-Identified
-Information to conduct research or allow others to do so, but only if
-you consent to the use of De-Identified Information for this purpose
-and, in the case of Personal Information, if you provide an additional
-consent to such use.</p>
-
-<p>You can choose not to provide us with certain information, but this may
-limit the features of the Site or the Service you are able to use. You
-can also opt out of receiving certain optional communications from the
-Site such as our newsletters and advertisements by emailing us at
-<a href="mailto:support@wellnessfx.com">support@wellnessfx.com</a>. Please note
-that even if you opt-out, we may still send you certain Site and Service
-related communications.</p>
-
-<p><strong>Authorized Provider Information.</strong> We will use your Authorized Provider
-Information to:</p>
-
-<ul>
-<li>Administer your Account;</li>
-<li>Verify your identity as a Authorized Provider;</li>
-<li>Provide the Service to Members;</li>
-<li>Respond to your requests, resolve disputes and/or troubleshoot
- problems;</li>
-<li>Improve the quality of the Site and the Service; and</li>
-<li>Communicate with you about the Site and the Service;</li>
-</ul>
-
-
-<p><strong>Visitor Information.</strong> We will use your Visitor Information to:</p>
-
-<ul>
-<li>Market our Service and those of third parties we believe may be of
- interest to you;</li>
-<li>Respond to your requests, resolve disputes and/or troubleshoot
- problems;</li>
-<li>Improve the quality of the Site and the Service; and</li>
-<li>Communicate with you about the Site and the Service.</li>
-</ul>
-
-
-<p><strong>Anonymous Information &amp; De-Identified Information.</strong> We may use your
-Anonymous Information and De-Identified Information created by us
-without restriction. For example, we may, through our use of Cookies,
-keep you logged into our Site, track your session history, and tailor
-content to you. We may use search content or Anonymous Information to
-analyze usage patterns so that we may enhance the Site or the Service
-and improve our internal operations and the content of our software,
-notify Visitors about updates to our Site or Service, and improve the
-efficacy of our content and advertisements that appear on the Site.</p>
-
+<p>In addition, we may use your Information to conduct research or allow others to do so, but only if you consent to the use of such information for this purpose.</p>
+<p>You can choose not to provide us with certain information, but this may limit the features of the Site or the Service you are able to use. You can also opt out of receiving certain optional communications from the Site such as our newsletters and advertisements by emailing us at <a href="mailto:support@wellnessfx.com">support@wellnessfx.com</a>. Please note that even if you opt-out, we may still send you certain Site and Service related communications.</p>
 <p><a name="how_we_share_your_information"></a></p>
-
 <h3>4. How We Share Your Information</h3>
-
-<p>We share your information with third parties when we believe the sharing
-is permitted by you, reasonably necessary to offer our services, or when
-legally required to do so. For example, we may disclose certain Member
-Information, Health Provider Information and Visitor Information:</p>
-
 <ul>
-<li>To third party vendors who help us provide the Service or the
- Site or who provide additional goods and services through the Site,
- including without limitation, testing laboratories, phlebotomists,
- billing providers and benefits administrators;</li>
-<li>To third parties to whom you ask us to send such information;</li>
-<li>To a parent company, any subsidiaries, joint ventures, or other
- companies under a common control (collectively, <strong>"Affiliates"</strong>), in
- the event we have such Affiliates in the future, in which case we
- will require our Affiliates to honor this Privacy Policy;</li>
-<li>To a company that merges with us, acquires us, or purchases our
- assets, in which case such company may continue to process the
- Member Information and Personal Information of Authorized Providers
- and Visitors as set forth in this Privacy Policy; or</li>
-<li>If we believe in good faith that such disclosure is necessary to (i)
- resolve disputes, investigate problems, or enforce our Terms of
- Service; (ii) comply with relevant laws or to respond to requests
- from law enforcement or other government officials relating to
- investigations or alleged illegal activity, in which case we can
- (and you authorize us to) disclose Personal Information without
- subpoenas or warrants served on us; or (iii) protect and defend our
- rights or property or the rights and property of you or third
- parties.</li>
+<li>To third party vendors who help us to operate and provide the Site and the Services or who provide additional goods and services through the Site;</li>
+<li>To Authorized Providers and third parties to whom you ask us to send such information under a written authorization and release;</li>
+<li>To a parent company, any subsidiaries, affiliates, joint ventures, or other companies under common control (collectively, <strong>"Affiliates"</strong>), in the event we have such Affiliates now and in the future, in which case we will require our Affiliates to honor this Privacy Statement;</li>
+<li>To a company that merges with us, acquires us, or purchases our assets, in which case such company may continue to process your information received as set forth in this Privacy Statement; or</li>
+<li>If we believe in good faith that such disclosure is necessary to (i) resolve disputes, investigate problems, or enforce our Terms of Service; (ii) comply with applicable laws or a subpoena or warrant from law enforcement or other government officials; or (iii) protect and defend our rights or property or the rights and property of you or third parties.</li>
 </ul>
-
-
-<p>Additionally, we will disclose Member Information to such Member0x2019s
-Authorized Provider in order to assist the Authorized Provider provide
-wellness-oriented healthcare advice to such Member. We also may disclose
-Anonymous Information and De-Identified Information publicly without
-restriction.</p>
-
 <p><a name="third_parties"></a></p>
-
 <h3>5. Information You Share With Third Parties</h3>
-
-<p>This Privacy Policy addresses our use and disclosure of information we
-collect from and/or about you on the Site or through the Service.
-Information made available through the Service to Authorized Providers
-and testing laboratories is required to be used by such entities in
-accordance with all applicable laws, including the Health Insurance
-Portability and Accountability Act ("HIPAA"). If you disclose
-information to others, including, for example, a partner providing goods
-and services, different rules may apply to their use or disclosure of
-the information you disclose to them. The use and disclosure
-restrictions contained in this Privacy Policy will not apply to any
-third party. We do not control the privacy policies of third parties,
-and you are subject to the privacy policies of those third parties where
-applicable.</p>
-
-<p>When you click on links on the Site you may leave our site. We are not
-responsible for the privacy practices of other sites, and we encourage
-you to read their privacy statements.</p>
-
+<p>This Privacy Statement addresses our use and disclosure of information we collect from and/or about you on the Site or to facilitate the Services. Information made available through the Services to Authorized Providers is required to be used by such entities in accordance with all applicable laws, including the Health Insurance Portability and Accountability Act ("HIPAA"). If you authorize disclosure of your information by WellnessFX to other third parties different rules may apply to their use or disclosure of such information you permit to be disclosed to them. The use and disclosure restrictions contained in this Privacy Statement will not apply to any third party unless otherwise set forth herein. We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable.  When you click on links made available on the Site you may leave our Site. We are not responsible for the privacy practices of those other sites, and we encourage you to read their privacy statements.</p>
 <p><a name="change_or_remove_information"></a></p>
-
 <h3>6. How You Can Change or Remove Your Information</h3>
-
-<p><strong>Modification of Information by WellnessFX.</strong> WellnessFX cannot verify,
-modify or otherwise alter any of the Visitor Information, and will not
-verify, modify or otherwise alter any of the Member Information or
-Authorized Provider Information without the consent of the applicable
-Member or Authorized Provider, but WellnessFX may correct any errors or
-modify any immaterial information at any time.</p>
-
-<p><strong>Modification of Information by Members and Authorized Providers.</strong> When
-such functionality is available through the Service, Members and
-Authorized Providers will be able to update some of their information
-through the Site. In the meantime, requests to modify any information
-should be submitted directly to support@wellnessfx.com.</p>
-
-<p><strong>Limitations on Deletion of Information.</strong> You may request deletion of your
-Personal Information by us, but please note that we may be required (by
-law or otherwise) to keep this information and not delete it (or to keep
-this information for a certain time, in which case we will comply with
-your deletion request only after we have fulfilled such requirements).
-When we delete Personal Information, it will be deleted from the active
-database, but may remain in our archives and we may also retain
-Anonymous Information about your use of our Service. Once we disclose
-some of your Personal Information to third parties, we cannot access
-that Personal Information any longer and cannot force the deletion or
-modification of any such information by the parties to whom we have made
-those disclosures. After we delete Personal Information, we will retain
-De-Identified Data and will continue to use De-Identified Data as
-permitted under this Privacy Policy.</p>
-
+<p><strong>Modification of Information by WellnessFX</strong>. WellnessFX cannot verify, modify or otherwise alter any Information received from you or an Authorized Provider, and will not verify, modify or otherwise alter any such Information without your consent, but we may correct any errors or modify any immaterial information at any time.</p>
+<p><strong>Modification of Information</strong>. When such functionality is available through the Services, you and Authorized Providers will be able to update some information through the Site. In the meantime, requests to modify any Information by Subscriber should be submitted directly to support@wellnessfx.com.</p>
+<p><strong>Limitations on Deletion of Information</strong>. You may request deletion of your Information by us, but please note that we may be required by law to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete your Information, it will be deleted from the active database, but may remain in our archives and we may also retain de-identified information (by removal from any identifying data set) about your use of our Site and the Services. Once we disclose your Information to Authorized Providers and third parties as permitted, we cannot access that Information any longer and cannot force the deletion or modification of any such Information by the receiving parties to whom we have made those disclosures.</p>
 <p><a name="how_we_protect_information"></a></p>
-
 <h3>7. How We Protect Your Information</h3>
-
-<p><strong>Steps we take to keep your information secure.</strong> We employ reasonable
-physical, electronic and managerial security methods to help protect
-against unauthorized access to Personal Information.</p>
-
-<p><strong>Risks inherent in sharing information.</strong> Please be aware that no data
-transmission over the Internet or data storage facility can be
-guaranteed to be perfectly secure. As a result, while we try to protect your Personal
-Information, we cannot ensure or guarantee the security of any
-information you transmit to us, and you do so at your own risk.</p>
-
-<p><strong>Report Violations.</strong> You should report any security violations to us by
-sending an email to support@wellnessfx.com.</p>
-
+<p><strong>Steps we take to keep your information secure</strong>. We employ reasonable physical, electronic and managerial security methods to help protect against unauthorized access to your Information.</p>
+<p><strong>Risks inherent in sharing information</strong>. Please be aware that no data transmission over the Internet or data storage facility can be guaranteed to be perfectly secure. As a result, while we try to protect your Information, we cannot guarantee the security of all Information you transmit to us or we receive from Authorized Providers, and you do so at your own risk.</p>
+<p><strong>Report Violations</strong>. You should report any security violations to us by sending an email to support@wellnessfx.com.</p>
 <p><a name="changes_to_policy"></a></p>
-
 <h3>8. Changes to this Privacy Policy</h3>
+<p>We may change this Privacy Statement from time to time in the future. We will post any revised version of the Privacy Statement on this page. If we make any material changes to it, we may also send you notice to the last email address you have provided to us. Continued use of the Site or our Services following notice of such changes to the Privacy Statement will indicate your acknowledgement and agreement to be bound by the terms and conditions of such changes.</p>
+</div>
+	</div>
+						
+							
 
-<p>We may change this Privacy Policy from time to time in the future. We
-will post any revised version of the Privacy Policy on this page. If we
-make any material changes to it, we may also send you notice to the last
-email address you have provided to us. Continued use of our Service
-following notice of such changes will indicate your acknowledgement of
-such changes and agreement to be bound by the terms and conditions of
-such changes.</p>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-<script>
-  $(function() {
-    $('#form-newsletter').on('ajax:complete', function() {
-      $('.newsletter p').text('Thanks for signing up!');
-      $('#form-newsletter .field-email').val('').focus();
-    });
-  });
-</script>
-<footer id="footer">
-<section id="connect">
-<div class="container">
-<div class="row">
-<div class="social-media col-sm-6">
-<h3 class="hed">Find us on</h3>
-<ul class="list-inline">
-<li>
-<a class="twitter" href="http://twitter.com/wellnessfx">
-WellnessFX on Twitter
-</a>
-</li>
-<li>
-<a class="facebook" href="http://facebook.com/wellnessfx">
-WellnessFX on Facebook
-</a>
-</li>
-<li>
-<a class="google-plus" href="https://plus.google.com/117391038126669430315">
-WellnessFX on Google+
-</a>
-</li>
-<li>
-<a class="youtube" href="http://youtube.com/wellnessfx">
-WellnessFX on YouTube
-</a>
-</li>
-</ul>
-</div>
-<div class="newsletter col-sm-6">
-<h3 class="hed">Newsletter</h3>
-<span>
-<form action="newsletter_subscribe" autocomplete="off" class="form-inline" data-remote="true" id="form-newsletter" method="post">
-<label class="sr-only" for=".field-email"></label>
-<div class="row">
-<div class="col-ms-8">
-<div class="input-group">
-<input class="field-email form-control" maxlength="255" name="email" placeholder="Email" required="required" spellcheck="false" type="email">
-<span class="input-group-btn">
-<button class="btn btn-default" id="saveForm">Sign up</button>
-</span>
-</div>
-</div>
-</div>
-</form>
-<p>Find out first about new features and special deals</p>
-</span>
-</div>
-</div>
-</div>
-</section>
-<section class="footer-nav">
-<div class="container">
-<nav class="row">
-<div class="packages col-md-2 col-sm-3 col-xs-6">
-<h5 class="hed">Packages</h5>
-<ul class="list-unstyled">
-<li><a href="/echeckup" id="footer_nav-echeckup">e-Checkup</a></li>
-<li><a href="/baseline" id="footer_nav-baseline">Baseline</a></li>
-<li><a href="/performance" id="footer_nav-performance">Performance</a></li>
-<li><a href="/premium" id="footer_nav-premium">Premium</a></li>
-<li><a href="/thyroid" id="footer_nav-thyroid">Advanced Thyroid</a></li>
-<li><a href="/omegas" id="footer_nav-omegas">Omegas</a></li>
-<li><a href="/womens-health" id="footer_nav-womens_health">Women's Health</a></li>
-<li><a href="/lab-records" id="footer_nav-lab_records">Lab Records</a></li>
-<li><a href="/lifelong-vitality" id="footer_nav-lifelong_vitality">Lifelong Vitality</a></li>
-<li><a href="/packages" id="footer_nav-packages">Compare All</a></li>
-</ul>
-</div>
-<div class="learn col-md-2 col-sm-3 col-xs-6">
-<h5 class="hed">Learn</h5>
-<ul class="list-unstyled">
-<li><a href="/how-it-works" id="footer_nav-how_it_works">How It Works</a></li>
-<li><a href="/is-it-for-me" id="footer_nav-is_it_for_me">Is It For Me?</a></li>
-<li><a href="/consultations" id="footer_nav-consultations">Consultations</a></li>
-<li><a href="/success-stories" id="footer_nav-success_stories">Success Stories</a></li>
-<li><a href="/support">FAQ</a></li>
-<li><a href="/iphone" id="footer_nav-iphone">iPhone App</a></li>
-<li><a href="/webinars" id="footer_nav-webinars">Webinars</a></li>
-</ul>
-</div>
-<div class="partner col-md-2 col-sm-3 col-xs-6">
-<h5 class="hed">Partner</h5>
-<ul class="list-unstyled">
-<li><a href="/affiliate" id="footer_nav-affiliate">Affiliate</a></li>
-<li><a href="/practitioners" id="footer_nav-practitioners">Practitioners</a></li>
-<li><a href="/employer" id="footer_nav-employer">Employers</a></li>
-<li><a href="/healthclub" id="footer_nav-healthclub">Health Clubs</a></li>
-<li><a href="/resort" id="footer_nav-resort">Resorts</a></li>
-<li><a href="/thorne-practitioners" id="footer_nav-thorne">Thorne Practitioners</a></li>
-</ul>
-</div>
-<div class="company col-md-2 col-sm-3 col-xs-6">
-<h5 class="hed">Company</h5>
-<ul class="list-unstyled">
-<li><a href="/about" id="footer_nav-about">About WellnessFX</a></li>
-<li><a href="http://blog.wellnessfx.com">Blog</a></li>
-<li><a href="/press">Press Page</a></li>
-<li>
-<strong><a href="/jobs">Jobs</a></strong>
-</li>
-</ul>
-</div>
-<div class="contact col-md-2 col-sm-3 col-xs-6">
-<h5 class="hed">Get in Touch</h5>
-<ul class="list-unstyled">
-<li><a href="/support">Support</a></li>
-<li><a href="/contact" id="footer_nav-contact">Contact Us</a></li>
-</ul>
-</div>
-</nav>
-<ul class="list-inline legal">
-<li class="copyright">
-©
-2017
-WellnessFX
-</li>
-<li><a href="/privacy_policy" id="footer_nav-privacy_policy">Privacy Policy</a></li>
-<li><a href="/tos" id="footer_nav-tos">Terms of Service</a></li>
-</ul>
-</div>
-</section>
-</footer>
-
-
-</div>
-<script>
-  (function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");
-  b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+
-  '//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName("script")[0];
-  d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){
-  var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(
-  Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:
-  f="mixpanel";g.people=g.people||[];h=['disable','track','track_pageview','track_links',
-  'track_forms','register','register_once','unregister','identify','alias','name_tag',
-  'set_config','people.set','people.increment'];for(e=0;e<h.length;e++)d(g,h[e]);
-  a._i.push([b,c,f])};a.__SV=1.2;})(document,window.mixpanel||[]);
-  mixpanel.init("a73bac9fdc78e21d6e3c4a4bb14c967a");
-</script>
-
-
-
-<script src="//web.archive.org/web/20170115121915/http://browser-update.org/update.min.js"></script></body></html>
+						
+					</div>
+					
+				</div>
+			</div>
+			<div class="site-footer__wrapper"></div>
+		</div>
+		<footer class="site-footer fixed-width">
+			<div class="container">
+				
+				<div class="site-footer__copyright">
+					© 2019 WellnessFX. All rights reserved.
+				</div>
+			</div>
+		</footer>
+	
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button type="button" id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
