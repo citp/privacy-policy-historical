@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vt.edu privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130162440id_/https%3A//vt.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vt.edu privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607072248id_/https%3A//vt.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Virginia Tech
 
@@ -8,13 +8,13 @@ Virginia Tech has created this privacy statement in order to demonstrate our fir
 
 The server collects the IP address, date, time, page accessed, browser type, and the referring page if present. We use your IP address to help diagnose problems with our server and to administer our Web page. The date and time are used to track the load on the server and peak usage times. We record the browser type to monitor market penetration of various web browsers so we can better determine what Internet technologies we may utilize in the design of our pages. We use page referrer data--that is, information about the web page that pointed you to our page--to determine to what extent our page is referenced by other resources on the web. These data may be used to preserve the integrity of our computing resources.
 
-### Logging of Quicklink Usage
+## Logging of Link Traversal
 
-The Virginia Tech website logs all usage of the quicklinks to assist us in determining the popularity of links. No personally identifiable information is recorded; only the time and date, and the quicklink used.
+The Virginia Tech website logs all clicks on links within pages in order to assist us in determining the popularity of content and the various navigation methods used to find information. No personally identifiable information is recorded; only the time and date, and the links used.
 
 ## Use of Cookies
 
-The Virginia Tech home page issues and reads cookies to track any customization options you may have selected. These include modifications to the list of Quicklinks, the campus image on the page, and whether drop-down menus are activated.
+The Virginia Tech home page issues and reads cookies to track any customization options you may have selected. These include what links were activated during a user's time on a website.
 
 ## Personal Information
 
@@ -38,4 +38,4 @@ Users should also consult [Virginia Tech's policy on Acceptable Use](http://www.
 
 ## Contacting the Website
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@vt.edu](mailto:webmaster@vt.edu).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [askvt@vt.edu](mailto:askvt@vt.edu).
