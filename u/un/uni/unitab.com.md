@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitab.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108064511id_/http%3A//www.tattsgroup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitab.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607050305id_/http%3A//www.tattsgroup.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tatts Group
 
