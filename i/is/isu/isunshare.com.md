@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the isunshare.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010034142id_/http%3A//www.isunshare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isunshare.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608000032id_/https%3A//www.isunshare.com/privacy.html) for the most accurate reproduction.*
 
 # iSunshare Privacy Policy - Protect Your Personal Information
 
-Your [Privacy](http://www.isunshare.com/privacy.html) is a priority at iSunshare. We go to great lengths to protect it. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
+Your [Privacy](https://www.isunshare.com/privacy.html) is a priority at iSunshare. We go to great lengths to protect it. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
 
 ## Why we collect personal information?
 
@@ -18,8 +18,7 @@ You may need to provide us with personal information when you telephone or email
 **Registration**  
 Upon registration of one iSunshare product you will be asked to provide certain information which we will use to record you as an owner of the iSunshare product and to assist us in providing you with service and information.  
 **Purchases**  
-If you wish to purchase iSunshare products from our Store, we will require sufficient information to complete your purchase including your credit card details and your contact details.  
-
+If you wish to purchase iSunshare products from our Store, we will require sufficient information to complete your purchase including your credit card details and your contact details.
 
 ## How we protect your personal information?
 
