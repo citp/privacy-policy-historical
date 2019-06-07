@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the squareup.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721105038id_/https%3A//squareup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squareup.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607162458id_/https%3A//squareup.com/us/en/legal/general/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Users Who Apply or Sign Up for a Square Account
 
-## Square
+**General**
 
-**To access the Privacy Notice effective through May 24, 2018,[click here](https://squareup.com/legal/privacy-archive).**
-
-**For users who DO NOT apply or sign up for a Square Account,[click here](https://squareup.com/legal/privacy-no-account).**
+ **For users who DO NOT apply or sign up for a Square Account,[click here](https://squareup.com/legal/privacy-no-account).**
 
 **For Cash App account holders,[click here](https://squareup.com/legal/cash-privacy).**
-
-**Posted on: April 16, 2018**
 
 **Effective Date: May 25, 2018**
 
@@ -36,31 +32,31 @@ Our Privacy Notice explains:
 
 ### INFORMATION WE COLLECT ABOUT YOU
 
-We need to collect information about you to provide you with the Services or the support you request. The type of information we collect can vary depending on the country from which you access our Services. Additionally, you can choose to voluntarily provide information to us. 
+We need to collect information about you to provide you with the Services or the support you request. The type of information we collect can vary depending on the country from which you access our Services. Additionally, you can choose to voluntarily provide information to us.
 
 #### Information You Provide
 
-We collect information you provide when you apply or sign up for a Square account or other Services, go through our identity or account verification process, authenticate into your account, communicate with us, answer our surveys, upload content, or otherwise use the Services. 
+We collect information you provide when you apply or sign up for a Square account or other Services, go through our identity or account verification process, authenticate into your account, communicate with us, answer our surveys, upload content, or otherwise use the Services.
 
 We collect information about you when you use our Services, including:
 
   * **Identification Information.** Your name; email address; mailing address; phone number; photograph; birthdate; passport, driver’s license, Social Security, Taxpayer Identification, or other government-issued identification; or other historical, contact, and demographic information when you apply or sign up for a Square account or other Services, signature, and authentication credentials (for example, information you use to login to your account), including IP address.
   * **Financial Information.** Information such as bank account, payment card numbers, credit reports, and other publicly available information.
   * **Tax information.** Withholding allowances and tax filing status.
-  * **Transaction Information.** When you use our Services to make, accept, request, or record payments, we collect information about when and where the transactions occur, the names of the transacting parties, a description of the transactions, the payment or transfer amounts, billing and shipping information, and the devices and payment methods used to complete the transactions. 
+  * **Transaction Information.** When you use our Services to make, accept, request, or record payments, we collect information about when and where the transactions occur, the names of the transacting parties, a description of the transactions, the payment or transfer amounts, billing and shipping information, and the devices and payment methods used to complete the transactions.
   * **Other Information You Provide.** Information that you voluntarily provide to us, including your survey responses; participation in contests, promotions, or other prospective seller marketing forms or devices; suggestions for improvements; referrals; or any other actions performed on the Services.
 
 
 
 #### Information We Collect From Your Use of our Services
 
-We collect information about you and the devices you use to access the Services, such as your computer, mobile phone, or tablet. The information that we collect includes: 
+We collect information about you and the devices you use to access the Services, such as your computer, mobile phone, or tablet. The information that we collect includes:
 
   * **Precise Geolocation Information.** The location of your device. For more information and to learn how to disable collection of location information, please see below.
-  * **Device Information.** Information about your device, including your hardware model, operating system and version, device name, unique device identifier, mobile network information, and information about the device’s interaction with our Services. 
+  * **Device Information.** Information about your device, including your hardware model, operating system and version, device name, unique device identifier, mobile network information, and information about the device’s interaction with our Services.
   * **Use Information.** Information about how you use our Services, including your access time, “log-in” and “log-out” information, browser type and language, country and language setting on your device, Internet Protocol (“IP”) address, the domain name of your Internet service provider, other attributes about your browser, mobile device and operating system, any specific page you visit on our platform, content you view, features you use, the date and time of your visit to or use of the Services, your search terms, the website you visited before you visited or used the Services, data about how you interact with our Services, and other clickstream data.
   * **Business Information.** Information about products and services you sell (including inventory, pricing and other data) and other information you provide about you or your business (including appointment, staffing availability, employee, payroll and contact data).
-  * **Employee Information.** Information provided to a Seller using our Services, for example information about employees whose employers use Square Payroll or Employee Management (including hours worked and other timecard data). 
+  * **Employee Information.** Information provided to a Seller using our Services, for example information about employees whose employers use Square Payroll or Employee Management (including hours worked and other timecard data).
   * **Customer Information.** Information you collect from your customers, including email address, phone number, payment information, or other information.
 
 
@@ -87,10 +83,10 @@ We may use information about you for a number of purposes, including:
 
   * Determining whether the Services are available in your country;
   * Processing or recording payment transactions or money transfers;
-  * Otherwise providing you with the Square products and features you choose to use; 
+  * Otherwise providing you with the Square products and features you choose to use;
   * Displaying your historical transaction or appointment information;
   * Providing, maintaining and improving our Services;
-  * Developing new products and services; 
+  * Developing new products and services;
   * Delivering the information and support you request, including technical notices, security alerts, and support and administrative messages including to resolve disputes, collect fees, and provide assistance for problems with our Services or your Square account;
   * Improving, personalizing, and facilitating your use of our Services;
   * Measuring, tracking, and analyzing trends and usage in connection with your use or the performance of our Services.
@@ -109,7 +105,7 @@ We may use information about you for a number of purposes, including:
   * Investigating, detecting, preventing, or reporting fraud, misrepresentations, security breaches or incidents, other potentially prohibited or illegal activities, or to otherwise help protect your account, including to dispute chargebacks on your behalf;
   * Protecting our, our customers’, or your customers’ rights or property, or the security or integrity of our Services;
   * Enforcing our [Terms of Service](https://squareup.com/legal/ua) or other applicable agreements or policies;
-  * Verifying your identity (e.g., through government-issued identification numbers); 
+  * Verifying your identity (e.g., through government-issued identification numbers);
   * Complying with any applicable laws or regulations, or in response to lawful requests for information from the government or through legal process;
   * Fulfilling any other purpose disclosed to you in connection with our Services;
   * Contacting you to resolve disputes, collect fees, and provide assistance with our Services.
@@ -120,7 +116,7 @@ We may use information about you for a number of purposes, including:
 
   * Marketing of our Services;
   * Communicating with you about opportunities, products, services, contests, promotions, discounts, incentives, surveys, and rewards offered by us and select partners;
-  * If we send you marketing emails, each email will contain instructions permitting you to “opt out” of receiving future marketing or other communications. 
+  * If we send you marketing emails, each email will contain instructions permitting you to “opt out” of receiving future marketing or other communications.
 
 
 
@@ -128,7 +124,7 @@ To learn about your choices regarding interest-based advertising and cross-devic
 
 #### Other Uses
 
-  * For any other purpose disclosed to you in connection with our Services from time to time. 
+  * For any other purpose disclosed to you in connection with our Services from time to time.
 
 
 
@@ -171,7 +167,7 @@ We may share information about you as follows:
 #### With Your Consent
 
   * With your consent. For example: 
-    * At your direction or as described at the time you agree to share; 
+    * At your direction or as described at the time you agree to share;
     * When you authorize a third party application or website to access your information.
 
 
@@ -188,7 +184,7 @@ We generally retain your information as long as reasonably necessary to provide 
 
 ### COOKIES AND OTHER SIMILAR TECHNOLOGIES
 
-We use various technologies to collect information when you access or use our Services, including placing a piece of code, commonly referred to as a “cookie,” or similar technology on your device and using web beacons. Cookies are small data files that are stored on your hard drive or in your device memory when you visit a website or view a message. Among other things, cookies support the integrity of our registration process, retain your preferences and account settings, and help evaluate and compile aggregated statistics about user activity. We will begin collecting information about you or from activity on devices you use as soon as you use our Services. By using our Services, you permit us to collect and use your information from activity on devices you use in accordance with this Privacy Notice. For more information and to learn how to block or delete cookies used in the Services, please see below. 
+We use various technologies to collect information when you access or use our Services, including placing a piece of code, commonly referred to as a “cookie,” or similar technology on your device and using web beacons. Cookies are small data files that are stored on your hard drive or in your device memory when you visit a website or view a message. Among other things, cookies support the integrity of our registration process, retain your preferences and account settings, and help evaluate and compile aggregated statistics about user activity. We will begin collecting information about you or from activity on devices you use as soon as you use our Services. By using our Services, you permit us to collect and use your information from activity on devices you use in accordance with this Privacy Notice. For more information and to learn how to block or delete cookies used in the Services, please see below.
 
 Certain cookies we use last only for the duration of your web or application session and expire when you close your browser or exit the application. Other cookies are used to remember you when you return to use the Services and, as such, will last longer.
 
@@ -197,7 +193,7 @@ We may use cookies to:
   * Remember that you have visited us or used the Services before. This allows us to identify the number of unique visitors we receive, so that we can provide enough capacity to accommodate all of our users.
   * Customize elements of the promotional layout and/or content of our Services.
   * Collect data about the way you interact with our Services (e.g., when you use certain features).
-  * Collect data to assess and improve our advertising campaigns, including sending information to our business partners. 
+  * Collect data to assess and improve our advertising campaigns, including sending information to our business partners.
   * Allow our business partners (including third parties) to use these tracking technologies to track your behavior on our behalf on our Platform (including when you use multiple devices) and on partner websites.
   * Enable third parties to collect data about the way you interact across sites outside of our Services.
   * Collect anonymous statistical information about how you use the Services (including the length of your web or application session) and the location from which you access the Services, so that we can improve the Services and learn which elements and functions of the Services are most popular with our users.
@@ -216,7 +212,7 @@ We also may collect information using web beacons. Web beacons are electronic im
 
 We can use third-party service providers to provide site metrics and other analytics services. These third parties can use cookies, web beacons, and other technologies to collect information, such as your IP address, identifiers associated with your device, other applications on your device, the browsers you use to access our Services, webpages viewed, time spent on webpages, links clicked, and conversion information (e.g., transactions entered into). This information can be used by Square and third-party service providers on behalf of Square to analyze and track usage of our Services, determine the popularity of certain content, and better understand how you use our Services. The third-party service providers that we engage are bound by confidentiality obligations and other restrictions with respect to their use and collection of your information.
 
-This Privacy Notice does not apply to, and we are not responsible for, third-party cookies, web beacons, or other tracking technologies, which are covered by such third parties’ privacy policies. For more information, we encourage you to check the privacy policies of these third parties to learn about their privacy practices. For more information about targeted advertising specifically, please visit <http://www.aboutads.info/choices>. 
+This Privacy Notice does not apply to, and we are not responsible for, third-party cookies, web beacons, or other tracking technologies, which are covered by such third parties’ privacy policies. For more information, we encourage you to check the privacy policies of these third parties to learn about their privacy practices. For more information about targeted advertising specifically, please visit <http://www.aboutads.info/choices>.
 
 Examples of our third-party service providers to help deliver our Services or to connect to our Services include:
 
@@ -224,7 +220,7 @@ Examples of our third-party service providers to help deliver our Services or to
 
   * Facebook: We use Facebook to advertise and market our services. We also use Facebook Connect API to allow you to connect your Facebook account to your Square account. To learn more about how Facebook uses your data please visit <https://www.facebook.com/help/325807937506242/> or log on to your Facebook account and access your settings. To understand more about Facebook advertising please see here <https://www.facebook.com/about/ads>.
 
-  * BugSnag and Crashlytics: We use Bugsnag and Crashlytics monitoring apps to monitor errors that impact customers and report diagnostic data to us so we can improve our Service and help to make sure they work when you need to use them. Please visit <https://docs.bugsnag.com/legal/privacy-policy/> to learn more about how Bugsnag processes your data and <https://fabric.io/terms> to learn more about how Crashlytics processes your data. 
+  * BugSnag and Crashlytics: We use Bugsnag and Crashlytics monitoring apps to monitor errors that impact customers and report diagnostic data to us so we can improve our Service and help to make sure they work when you need to use them. Please visit <https://docs.bugsnag.com/legal/privacy-policy/> to learn more about how Bugsnag processes your data and <https://fabric.io/terms> to learn more about how Crashlytics processes your data.
 
 
 
@@ -251,7 +247,7 @@ Do Not Track (“DNT”) is an optional browser setting that allows you to expre
 
 #### Promotional Communications
 
-You can opt out of receiving promotional messages from Square by following the instructions in those messages, by informing the caller that you would not like to receive future promotional calls, by texting STOP to 778272, or by changing your notification settings by logging into your Square account. Opting out of receiving communications may impact your use of the Services. If you decide to opt out, we can still send you non-promotional communications, such as digital receipts and messages about your account or our ongoing business relations. 
+You can opt out of receiving promotional messages from Square by following the instructions in those messages, by informing the caller that you would not like to receive future promotional calls, or by changing your notification settings by logging into your Square account. You may only opt-out of text messages from Square by replying STOP. Opting out of receiving communications may impact your use of the Services. If you decide to opt out, we can still send you non-promotional communications, such as digital receipts and messages about your account or our ongoing business relations.
 
 #### California Privacy Rights
 
@@ -259,7 +255,7 @@ California law permits residents of California to request certain details about 
 
 ### SECURITY
 
-We take reasonable measures, including administrative, technical, and physical safeguards, to protect your information from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. Nevertheless, the internet is not a 100% secure environment, and we cannot guarantee absolute security of the transmission or storage of your information. We hold information about you both at our own premises and with the assistance of third-party service providers. 
+We take reasonable measures, including administrative, technical, and physical safeguards, to protect your information from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. Nevertheless, the internet is not a 100% secure environment, and we cannot guarantee absolute security of the transmission or storage of your information. We hold information about you both at our own premises and with the assistance of third-party service providers.
 
 For more information about our security practices, please visit <https://squareup.com/security>.
 
@@ -277,7 +273,7 @@ Please contact our Privacy Department with any questions or concerns regarding t
 
 Square, Inc.   
 1455 Market Street, Suite 600   
-San Francisco, CA 94103, U.S.A. 
+San Francisco, CA 94103, U.S.A.
 
 [privacy@squareup.com](mailto:privacy@squareup.com)
 
