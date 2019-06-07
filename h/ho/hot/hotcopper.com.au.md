@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125012807id_/https%3A//hotcopper.com.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607140231id_/https%3A//hotcopper.com.au/help/privacy) for the most accurate reproduction.*
 
 # HotCopper Privacy Policy | HotCopper Forum
 
@@ -183,7 +183,7 @@ This opt-out will work across all of your signed-in devices when we recognise yo
 
 ## Account Deletion
 
-It is a requirement by ASIC that HotCopper retain your Personal Information and all other account related information accessible on our systems and backup systems for up to 6 months. If you wish to have your account deleted you may do so by emailing [[email protected]](https://hotcopper.com.au/cdn-cgi/l/email-protection#98f1f6fef7d8f0f7ecfbf7e8e8fdeab6fbf7f5b6f9ed), however your pseudonym username along with your submitted posts will remain on the site.  
+It is a requirement by ASIC that HotCopper retain your Personal Information and all other account related information accessible on our systems and backup systems for up to 6 months. If you wish to have your account deleted you may do so by emailing [[email protected]](https://hotcopper.com.au/cdn-cgi/l/email-protection#2e474048416e46415a4d415e5e4b5c004d4143004f5b), however your pseudonym username along with your submitted posts will remain on the site.  
 If you delete your account, your Personal Information be permanently deleted. Deletion of your data may take up to 30 days from accessible systems and up to 90 days from backup systems.  
 If you choose to have an account with us in the future, you will have to sign up for a new account as none of the information you previously provided or saved within your account will have been saved. 
 
