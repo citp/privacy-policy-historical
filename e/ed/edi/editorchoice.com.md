@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the editorchoice.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201060345id_/http%3A//www.editorchoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editorchoice.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607082901id_/https%3A//www.editorchoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Editor Choice
 
 ### Who we are
 
-Our website address is: http://www.editorchoice.com.
+Our website address is: //www.editorchoice.com.
 
 ## What personal data we collect and why we collect it
 
@@ -12,7 +12,7 @@ Our website address is: http://www.editorchoice.com.
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: //automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
 ### Media
 
@@ -50,11 +50,11 @@ Visitor comments may be checked through an automated spam detection service.
 
 ### Privacy Statement for EditorChoice.com.
 
-We can be reached via e-mail at admin at editorchoice.com.This website is not meant to be used by unattended minors. EditorChoice.com encourages parents to use this website with their children before determining whether our content is suitable for them. We use cookies to record the number of unique visitors to our website receives, to measure general traffic patterns, and to personalize the site according to your preferences. Cookies are small text files containing a string of alphanumeric characters. Most Web browsers are initially configured to accept cookies. You can eliminate these cookies by following the instructions provided in your Internet browser help file. Please note that removing or disabling of cookies otherwise may reduce their ability to enjoy all the features of this website. For more information about cookies, please visit http://www.allaboutcookies.org/cookies/.
+We can be reached via e-mail at admin at editorchoice.com.This website is not meant to be used by unattended minors. EditorChoice.com encourages parents to use this website with their children before determining whether our content is suitable for them. We use cookies to record the number of unique visitors to our website receives, to measure general traffic patterns, and to personalize the site according to your preferences. Cookies are small text files containing a string of alphanumeric characters. Most Web browsers are initially configured to accept cookies. You can eliminate these cookies by following the instructions provided in your Internet browser help file. Please note that removing or disabling of cookies otherwise may reduce their ability to enjoy all the features of this website. For more information about cookies, please visit //www.allaboutcookies.org/cookies/.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies (Third-Party Advertisers) that we allow to place ads on our Web pages. For further information on how they do this, consult the privacy policies of:
 
-http://www.google.com/privacypolicy.html
+//www.google.com/privacypolicy.html
 
 ### Who we share your data with
 
