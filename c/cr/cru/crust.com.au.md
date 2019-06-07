@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201053026id_/https%3A//www.crust.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607042039id_/https%3A//www.crust.com.au/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Our Terms & Conditions - Crust.com.au
 
