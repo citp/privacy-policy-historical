@@ -1,0 +1,783 @@
+<!--The following is the downloaded HTML source of the ganzhougz.com privacy policy that was archived on 2019-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190607161428id_/http%3A//www.ganzhougz.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en"><!--<![endif]--><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Privacy Policy</title>
+<base href="http://www.ganzhougz.com/">
+<script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js"></script>
+<script src="catalog/view/javascript/jquery/jquery-ui.min.js"></script>
+<script src="catalog/view/javascript/jquery/owl-carousel/js/owl.carousel.min.js"></script>
+<link href="catalog/view/javascript/jquery/owl-carousel/css/owl.carousel.min.css" rel="stylesheet">
+<link href="catalog/view/javascript/jquery/owl-carousel/css/owl.theme.green.min.css" rel="stylesheet">
+<script src="catalog/view/javascript/opentheme/countdown/jquery.plugin.min.js"></script>
+<script src="catalog/view/javascript/opentheme/countdown/jquery.countdown.min.js"></script>
+<script src="catalog/view/javascript/ocmegamenu/menu.js"></script>
+<link href="catalog/view/theme/tt_palora4/stylesheet/ocmegamenu/menu.css" rel="stylesheet">
+<link href="catalog/view/theme/tt_palora4/stylesheet/opentheme/css/animate.css" rel="stylesheet">
+
+<link href="catalog/view/javascript/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js"></script>
+<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="catalog/view/javascript/ionicons/css/ionicons.css" rel="stylesheet" type="text/css">
+ 
+<link href="catalog/view/theme/tt_palora4/stylesheet/stylesheet.css" rel="stylesheet">
+<script src="catalog/view/javascript/cloudzoom/cloud-zoom.1.0.2.min.js"></script>
+<script src="catalog/view/javascript/cloudzoom/zoom.js"></script>
+<script src="catalog/view/javascript/ocquickview/ocquickview.js"></script>
+<link href="catalog/view/theme/tt_palora4/stylesheet/ocquickview/ocquickview.css" type="text/css" rel="stylesheet" media="screen">
+<script src="catalog/view/javascript/common.js"></script>
+</head>
+<body class="information-information-3 home2 group1">
+<div class="wrapper">
+
+
+
+<header>
+	<div class="header-inner">
+	  <div class="container">
+		<div class="container-inner">
+			<div class="logo-container">
+				<div id="logo">
+				  					<a href="http://www.ganzhougz.com/"><img src="http://www.ganzhougz.com/image/catalog/logo/logo-palora1.png" title="Palora 1" alt="Palora 1" class="img-responsive"></a>
+				  				</div>
+			</div>
+			<div class="col-search">
+				<div class="top-search"><div id="search-by-category">
+    <div class="search-container">
+        <div class="categories-container">
+            <div class="hover-cate">
+            <p><span class="cate-selected" data-value="0">All Categories</span><i class="fa fa-caret-down"></i></p>
+            <ul class="cate-items">
+                <li class="item-cate" data-value="0">All Categories</li>
+                                                        <li data-value="3" class="item-cate">Car Accessories</li>
+                                                                                                <li data-value="2" class="item-cate">Cutting Tools</li>
+                                                                                                <li data-value="7" class="item-cate">Electrical Soldering Welding Tools</li>
+                                                                                                <li data-value="1" class="item-cate">Pliers</li>
+                                                                                                <li data-value="5" class="item-cate">RC Toys &amp; Hobbies</li>
+                                                                                                <li data-value="4" class="item-cate">Test Equipment</li>
+                                                                                                <li data-value="6" class="item-cate">Tool Kit</li>
+                                                                    </ul>
+            </div>
+        </div>
+        <input type="text" name="search" id="text-search" value="" placeholder="Search products here..." class="">
+        
+    </div>
+    <div id="sp-btn-search" class="">
+            <button type="button" id="btn-search-category" class="btn btn-default btn-lg">
+                <span>Search</span>
+            </button>
+        </div>
+    <div class="search-ajax">
+        <div class="ajax-loader-container" style="display: none;">
+            <img src="http://www.ganzhougz.com/image/catalog/AjaxLoader.gif" class="ajax-load-img" width="30" height="30" alt="plazathemes.com">
+        </div>
+        <div class="ajax-result-container">
+            <!-- Content of search results -->
+        </div>
+    </div>
+    <input type="hidden" id="ajax-search-enable" value="1">
+</div>
+
+<script>
+    $(document).ready(function () {
+        var flag = false;
+        var ajax_search_enable = $('#ajax-search-enable').val();
+        
+        var current_cate_value = $('ul.cate-items li.selected').data('value');
+        var current_cate_text = $('ul.cate-items li.selected').html();
+        
+        $('.cate-selected').attr('data-value', current_cate_value);
+        $('.cate-selected').html(current_cate_text);
+        
+        $('.hover-cate p').click(function () {
+            $( ".cate-items" ).toggle("slow");
+        });
+        
+        $('.ajax-result-container').hover(
+            function() {
+                flag = true;
+            },
+            function() {
+                flag = false;
+            }
+        );
+        
+        $('.hover-cate').hover(
+            function() {
+                flag = true;
+            },
+            function() {
+                flag = false;
+            }
+        );
+        
+        $('#search-by-category').focusout(function() {
+            if(flag == true) {
+                $('.ajax-result-container').show();
+            } else {
+                $('.ajax-result-container').hide();
+            }
+        });
+        
+        $('#search-by-category').focusin(function() {
+            $('.ajax-result-container').show();
+        });
+
+        $('#btn-search-category').click(function () {
+            var url = 'http://www.ganzhougz.com/search.html';
+            var text_search = $('#text-search').val();
+            if(text_search) {
+                url += '&search=' + encodeURIComponent(text_search);
+            }
+
+            var category_search = $('.cate-selected').attr("data-value");
+            if(category_search) {
+                url += '&category_id=' + encodeURIComponent(category_search);
+            }
+
+            location = url;
+        });
+
+        if(ajax_search_enable == '1') {
+            $('#text-search').keyup(function(e) {
+                var text_search = $(this).val();
+                var cate_search = $('.cate-selected').attr("data-value");
+                if(text_search != null && text_search != '') {
+                    ajaxSearch(text_search, cate_search);
+                } else {
+                    $('.ajax-result-container').html('');
+                    $('.ajax-loader-container').hide();
+                }
+            });
+
+            $('ul.cate-items li.item-cate').click(function() {
+                var cate_search = $(this).data('value');
+                var text_search = $('#text-search').val();
+                $('.cate-selected').attr('data-value', cate_search);
+                $('.cate-selected').html($(this).html());
+                if(text_search != null && text_search != '') {
+                    ajaxSearch(text_search, cate_search);
+                } else {
+                    $('.ajax-result-container').html('');
+                    $('.ajax-loader-container').hide();
+                }
+                $( ".cate-items" ).hide();
+                $('#text-search').focus();
+            });
+
+        }
+        
+        function ajaxSearch(text_search, cate_search) {
+            $.ajax({
+                url         : 'http://www.ganzhougz.com/index.php?route=extension/module/ocsearchcategory/ajaxSearch',
+                type        : 'post',
+                data        : { text_search : text_search, cate_search : cate_search },
+                beforeSend  : function () {
+                    $('.ajax-loader-container').show();
+                },
+                success     : function(json) {
+                    if(json['success'] == true) {
+                        $('.ajax-result-container').html(json['result_html']);
+                        $('.ajax-loader-container').hide();
+                    }
+                }
+            });
+        }
+
+    });    
+</script></div>
+				<div class="box-cart">
+					
+					<div class="setting">
+						<div class="btn-group">
+							<button class="btn btn-link dropdown-toggle" data-toggle="dropdown">My Account <i class="fa fa-angle-down"></i></button>
+							<div class="dropdown-menu" id="top-links">
+																	<ul class="ul-account list-unstyled">
+																								<li>
+																			<a id="a-register-link" href="http://www.ganzhougz.com/create-account.html">Register</a>
+																	</li>
+								<li>
+																			<a id="a-login-link" href="http://www.ganzhougz.com/login.html">Login</a>
+																	</li>
+															  </ul>
+							</div>
+						</div>
+					</div>
+						
+					
+					<a href="http://www.ganzhougz.com/wishlist.html" id="wishlist-total" title="Wishlist Products"><i class="ion-android-favorite-outline"></i><span class="count">0</span></a>
+					<div id="cart" class="btn-group btn-block">
+  <button type="button" data-toggle="dropdown" data-loading-text="Loading..." class="btn dropdown-toggle"><i class="ion-ios-cart"></i><span id="cart-total"><span class="txt_number">0</span><span class="txt_items">Cart</span><span class="total-price"></span></span></button>
+  <ul class="dropdown-menu pull-right">
+        <li>
+      <p class="text-center cart-empty">Your shopping cart is empty!</p>
+    </li>
+      </ul>
+</div>
+
+				</div>
+			</div>
+		  <div class="clearfix"></div>
+		</div>
+	  </div>
+	</div>
+	<div class="top-menu fix">
+		<div class="container">
+			<div class="container-inner">
+				<div class="row">
+					<div class="col col-md-3 col-xs-12 col-menu">
+											</div>
+					<div class="col col-md-7 col-xs-12 hoz-menu">
+													    <style>
+    #oc-menu-7669 .oc-menu-bar {
+        background: #FFFFFF;
+        color: #FFFFFF;
+		padding: 0px 0px 0px 0px;
+		position: relative;
+    }
+    #oc-menu-7669.oc-menu-bar {
+        background: #FFFFFF;
+        color: #FFFFFF;
+    }
+    #oc-menu-7669 .ul-top-items .li-top-item {
+        background: #FFFFFF;
+        color: #222222;
+    }
+    #oc-menu-7669 .ul-top-items .li-top-item .a-top-link {
+        padding: 13px 20px 13px 20px;
+        color: #222222;
+        font-size: 14px;
+        line-height: 24px;
+        text-transform: uppercase;
+        font-weight: 500;
+    }
+    #oc-menu-7669 .ul-top-items .li-top-item:hover, #oc-menu-7669 .ul-top-items .li-top-item.active {
+        background: #FFFFFF;
+        color: #0879C9;
+    }
+    #oc-menu-7669 .ul-top-items .li-top-item:hover .a-top-link, #oc-menu-7669 .ul-top-items .li-top-item.active .a-top-link{
+        color: #0879C9;
+        font-weight: 500;
+    }
+    #oc-menu-7669 .mega-menu-container {
+        width: 100%;
+        background: #FFFFFF;
+        padding: 30px 30px 30px 30px;
+        
+    }
+    #oc-menu-7669 .mega-menu-container .a-mega-second-link,#oc-menu-7669 .mega-menu-container .widget-html-title {
+        color: #0879C9;
+    }
+	#oc-menu-7669 .mega-menu-container .a-mega-third-link {
+        color: #222222;
+    }
+    #oc-menu-7669 .ul-second-items .li-second-items {
+        background: #FFFFFF;
+        color: #222222;
+    }
+    #oc-menu-7669 .ul-second-items .li-second-items:hover, #oc-menu-7669 .ul-second-items .li-second-items.active {
+        background: #FFFFFF;
+        color: #0879C9;
+    }
+    #oc-menu-7669 .ul-second-items .li-second-items .a-second-link {
+        color: #222222;
+        font-size: 14px;
+        text-transform: none;
+        font-weight: 400;
+    }
+    #oc-menu-7669 .ul-second-items .li-second-items:hover .a-second-link, #oc-menu-7669 .ul-second-items .li-second-items.active .a-second-link {
+        color: #0879C9;
+        font-weight: 400;
+    }
+    #oc-menu-7669 .ul-third-items .li-third-items {
+        background: #FFFFFF;
+    }
+    #oc-menu-7669 .ul-third-items .li-third-items:hover, #oc-menu-7669 .ul-third-items .li-third-items.active {
+        background: #FFFFFF;
+    }
+    #oc-menu-7669 .ul-third-items .li-third-items .a-third-link {
+        color: #222222;
+        font-size: 13px;
+        text-transform: none;
+        font-weight: 400;
+    }
+    #oc-menu-7669 .ul-third-items .li-third-items:hover .a-third-link, #oc-menu-7669 .ul-third-items .li-third-items.active .a-third-link {
+        color: #0879C9;
+        font-weight: 400;
+    }
+</style>
+            <div class="oc-menu horizontal-menu oc-menu-bar visible-lg visible-md" id="oc-menu-7669">
+			
+                            <input type="hidden" id="menu-effect-7669" class="menu-effect" value="none">
+                <ul class="ul-top-items">
+                                                                                                                    <li class="li-top-item left" style="float: left">
+                                                                    <a class="a-top-link" href="index.php?route=product/category&amp;path=1">
+                                                                                                                            <span>Pliers</span>
+                                                                                                                    </a>
+                                                                                            </li>
+                                                                                                <li class="li-top-item left" style="float: left">
+                                                                    <a class="a-top-link" href="index.php?route=product/category&amp;path=2">
+                                                                                                                            <span>Cutting Tools</span>
+                                                                                                                    </a>
+                                                                                            </li>
+                                                                                                                                            <li class="li-top-item left" style="float: left">
+                                                                    <a class="a-top-link" href="index.php?route=product/category&amp;path=4">
+                                                                                                                            <span>Test Equipment </span>
+                                                                                                                    </a>
+                                                                                            </li>
+                                                                                                <li class="li-top-item left" style="float: left">
+                                                                    <a class="a-top-link" href="index.php?route=product/category&amp;path=5">
+                                                                                                                            <span>RC Toys</span>
+                                                                                                                    </a>
+                                                                                            </li>
+                                                                                                <li class="li-top-item left" style="float: left">
+                                                                    <a class="a-top-link" href="index.php?route=product/category&amp;path=6">
+                                                                                                                            <span>Tool Kit</span>
+                                                                                                                    </a>
+                                                                                            </li>
+                                                                                                        </ul>
+            			
+        </div>
+    
+        
+    
+  
+																			    <style>
+    #oc-menu-1269 .oc-menu-bar {
+        background: #E64545;
+        color: #FFFFFF;
+		padding: 15px 20px 15px 20px;
+		position: relative;
+    }
+    #oc-menu-1269.oc-menu-bar {
+        background: #E64545;
+        color: #FFFFFF;
+    }
+    #oc-menu-1269 .ul-top-items .li-top-item {
+        background: #FFFFFF;
+        color: #222222;
+    }
+    #oc-menu-1269 .ul-top-items .li-top-item .a-top-link {
+        padding: 5px 20px 5px 10px;
+        color: #222222;
+        font-size: 14px;
+        line-height: 24px;
+        text-transform: none;
+        font-weight: 400;
+    }
+    #oc-menu-1269 .ul-top-items .li-top-item:hover, #oc-menu-1269 .ul-top-items .li-top-item.active {
+        background: #E9EAEF;
+        color: #222222;
+    }
+    #oc-menu-1269 .ul-top-items .li-top-item:hover .a-top-link, #oc-menu-1269 .ul-top-items .li-top-item.active .a-top-link{
+        color: #222222;
+        font-weight: 400;
+    }
+    #oc-menu-1269 .mega-menu-container {
+        width: 100%;
+        background: #FFFFFF;
+        padding: 0px 0px 0px 0px;
+        
+    }
+    #oc-menu-1269 .mega-menu-container .a-mega-second-link,#oc-menu-1269 .mega-menu-container .widget-html-title {
+        color: #FFFFFF;
+    }
+	#oc-menu-1269 .mega-menu-container .a-mega-third-link {
+        color: #FFFFFF;
+    }
+    #oc-menu-1269 .ul-second-items .li-second-items {
+        background: #FFFFFF;
+        color: #222222;
+    }
+    #oc-menu-1269 .ul-second-items .li-second-items:hover, #oc-menu-1269 .ul-second-items .li-second-items.active {
+        background: #FFFFFF;
+        color: #0879C9;
+    }
+    #oc-menu-1269 .ul-second-items .li-second-items .a-second-link {
+        color: #222222;
+        font-size: 14px;
+        text-transform: none;
+        font-weight: 400;
+    }
+    #oc-menu-1269 .ul-second-items .li-second-items:hover .a-second-link, #oc-menu-1269 .ul-second-items .li-second-items.active .a-second-link {
+        color: #0879C9;
+        font-weight: 400;
+    }
+    #oc-menu-1269 .ul-third-items .li-third-items {
+        background: #FFFFFF;
+    }
+    #oc-menu-1269 .ul-third-items .li-third-items:hover, #oc-menu-1269 .ul-third-items .li-third-items.active {
+        background: #FFFFFF;
+    }
+    #oc-menu-1269 .ul-third-items .li-third-items .a-third-link {
+        color: #222222;
+        font-size: 13px;
+        text-transform: none;
+        font-weight: 400;
+    }
+    #oc-menu-1269 .ul-third-items .li-third-items:hover .a-third-link, #oc-menu-1269 .ul-third-items .li-third-items.active .a-third-link {
+        color: #0879C9;
+        font-weight: 400;
+    }
+</style>
+    
+        
+            <div class="oc-menu mobile-menu hidden-lg hidden-md" id="oc-menu-1269">
+                            <input type="hidden" id="menu-effect-1269" class="menu-effect" value="none">
+                <div class="oc-menu-bar">
+                    <div class="left"><i class="fa fa-bars"></i> <span>Categories</span></div>
+                    <div class="right"><i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+                </div>
+                <ul class="ul-top-items">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li class="li-top-item">
+                                                                    <a class="a-top-link a-item" href="index.php?route=information/information&amp;information_id=4">
+                                                                                                                            <span>About us</span>
+                                                                            </a>
+                                                                                                                                </li>
+                                                                                                <li class="li-top-item">
+                                                                    <a class="a-top-link a-item" href="index.php?route=information/contact">
+                                                                                                                            <span>Contact us</span>
+                                                                            </a>
+                                                                                                                                </li>
+                                                                                                <li class="li-top-item">
+                                                                    <a class="a-top-link a-item" href="index.php?route=blog/blog">
+                                                                                                                            <span>Blog</span>
+                                                                            </a>
+                                                                                                                                </li>
+                                                            </ul>
+                    </div>
+    
+  
+											</div>
+				</div>
+				<ul class="box-lang">
+					<li class="currency"><form action="http://www.ganzhougz.com/index.php?route=common/currency/currency" method="post" enctype="multipart/form-data" id="form-currency">
+	<div class="btn-group">
+		<span class="pull-left hidden-xs hidden-sm  text-ex">Currency:</span>
+	  <button class="btn btn-link dropdown-toggle" data-toggle="dropdown">
+		
+															 
+				
+				 <span>$</span> 				<span class="hidden-xs">USD</span>
+				<i class="fa fa-angle-down"></i>
+					 
+	  </button>
+	  <ul class="dropdown-menu">
+						<li>
+		  <button class="currency-select btn btn-link btn-block" type="button" name="EUR">
+			 
+				€
+						
+			Euro
+					  </button>
+		</li>
+								<li>
+		  <button class="currency-select btn btn-link btn-block" type="button" name="GBP">
+			 
+				£
+						
+			Pound Sterling
+					  </button>
+		</li>
+								<li>
+		  <button class="item-selected currency-select btn btn-link btn-block" type="button" name="USD">
+			 
+				$
+						
+			US Dollar
+					</button>
+		</li>
+					  </ul>
+	</div>
+	<input type="hidden" name="code" value="">
+	<input type="hidden" name="redirect" value="http://www.ganzhougz.com/privacy-policy.html">
+</form>
+ </li>
+					<li class="language">  <form action="http://www.ganzhougz.com/index.php?route=common/language/language" method="post" enctype="multipart/form-data" id="form-language">
+    <div class="btn-group">
+		<span class="pull-left hidden-xs hidden-sm text-ex">Language:</span>
+      <button class="btn btn-link dropdown-toggle" data-toggle="dropdown">
+             
+			<img src="catalog/language/en-gb/en-gb.png" alt="English" title="English">
+			<span class="hidden-xs">English</span>
+			<i class="fa fa-angle-down"></i>
+                  </button>
+      <ul class="dropdown-menu">
+        		 			<li><button class="btn btn-link btn-block language-select item-selected" type="button" name="en-gb"><img src="catalog/language/en-gb/en-gb.png" alt="English" title="English"> English</button></li>
+		            </ul>
+    </div>
+    <input type="hidden" name="code" value="">
+    <input type="hidden" name="redirect" value="http://www.ganzhougz.com/privacy-policy.html?_route_=privacy-policy.html">
+  </form>
+</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+<div id="information-information" class="container">
+  <ul class="breadcrumb">
+        <li><a href="http://www.ganzhougz.com/">Home</a></li>
+        <li><a href="http://www.ganzhougz.com/privacy-policy.html">Privacy Policy</a></li>
+      </ul>
+  <div class="row">
+                <div id="content" class="col-sm-12">
+      <h1>Privacy Policy</h1>
+      <p>
+    <span style="color: rgb(102, 102, 102); line-height: 18px;"></span>
+</p>
+<p style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Verdana;">
+    <span style="line-height: 18px;">www.ganzhougz.com respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used.</span>
+</p>
+<p style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Verdana;">
+    &nbsp;
+</p>
+<h4 style="margin: 0px; padding: 0px; font-family: Verdana; line-height: 18px;">
+    www.ganzhougz.com's Privacy Policy
+</h4>
+<p style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Verdana;">
+    <span style="line-height: 18px;">Thank you for accessing the website ("Site") of www.ganzhougz.com, Limited. ("www.ganzhougz.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-www.ganzhougz.com website to which this Site links or that links to this Site.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">INFORMATION COLLECTION AND USE</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">1. Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">* Help make this Site easier for you to use by not having to enter information more than once.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">* Help you quickly find information, products, and services.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">* Help us create content on this Site that is most relevant to you.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">* Alert you to new information, products, and services that we offer.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(a) Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide us with certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so that we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we may use the personal information you provide us with to contact you.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(b) Email Addresses. Several locations of the Site permit you to enter your email address for purposes including but not limited to: to register for free promotional notices; to request us to notify you when we receive a new brand, or new product style; to sign up for our email newsletter. Your participation in a contest is completely voluntary, and you may choose whether to participate and disclose information to www. We use this information to notify contest winners and to award prizes. We may post the names and cities of contest winners on our Site.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(c) Cookies and Other Technology. Like many sites, this Site employs cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(i) Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from websites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THIS SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are not "spyware."</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(ii) Web beacons assist in delivering cookies and help us determine whether a web page on this Site has been viewed and, if so, how many times. For example, any electronic image on this Site, such as an ad banner, can function as a web beacon.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(iii) We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by www.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(d) Log Files. As is true of most websites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(e) Age. We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(f) Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">2. Information Use and Disclosure.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(b) Communications with You: We will use your personal information to communicate with you about our site, and your orders and deliveries. Also, we may send you a confirmation email when you register with www. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to request us to notify you when we receive a new brand, new product style, or product; to sign up for our email newsletter and special offers. If you submit your email address, we will use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see opt out section below for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(c) External Use. We want to provide you with excellent service and to offer you a great selection " we primarily sell merchandise, not information. We do not sell, rent, trade, license, or otherwise disclose your specific personal information or financial information to anyone, except that:</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(i) As do most catalog and Internet wholesalers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as DHL, and UPS) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(ii) Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in the Data Security section.)</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(iii) We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations, subpoenas, a court order, or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(iv) We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it is possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Notice in effect.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">(v) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">DATA SECURITY</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">OPT OUT/CORRECTIONS</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to www.ganzhougz.com Customer Support department at</span><span style="line-height: 18px;">&nbsp;yancey</span><span style="line-height: 18px;">@ganzhougz.com&nbsp;Please do not email your credit card number or other sensitive information.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">OFFLINE COLLECTION, USE &amp; DISCLOSURE OF INFORMATION</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">As you might expect from www.ganzhougz.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of you personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">UPDATES TO THIS POLICY</span><br> &nbsp; &nbsp; &nbsp; &nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp;<span style="line-height: 18px;">If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please contact us&nbsp;</span><span style="line-height: 18px;">yancey</span><span style="line-height: 18px;">@ganzhougz.com.</span>
+</p>
+<p>
+    <span style="color: rgb(102, 102, 102); line-height: 18px;"></span><br>
+</p>
+<p>
+    <br>
+</p></div>
+    </div>
+</div>
+<footer>
+	<div class="corporate2">
+	<div class="container">
+			</div>
+	</div>
+	
+	<div class="footer-top">
+	  <div class="container">
+		<div class="row">
+			  <div class="col-md-3 col-sm-6 col-footer">
+									    										  										  <div class="footer-title"><h5>CONTACT INFO</h5><p><br></p></div><div class="footer-content"><ul class="footer-contact">
+<li class="email">yancey@ganzhougz.com</li>
+</ul>
+</div>
+
+																																																																																									 									 									 									 									 									
+  
+					
+			</div>
+			<div class="col-md-3 col-sm-6 col-footer" style="display:none">
+									    <div id="blog_home" class="menu-recent">
+	<div>
+		<div class="footer-title">
+		   <h5>From Our blog</h5>
+		    
+		</div>
+	 			
+					<div class="articles-container owl-carousel owl-theme">
+											<div class="row_items">
+													<div class="articles-inner item-inner">
+						<div class="articles-image">
+							<img src="http://www.ganzhougz.com/image/cache/catalog/blog/1-80x80.jpg" alt="Back To Basics- Black Denim">
+							
+						</div>
+						<div class="aritcles-content">
+							<a class="articles-name" href="http://www.ganzhougz.com/index.php?route=blog/article&amp;article_id=1">Back To Basics- Black Denim</a>
+							<div class="articles-date">
+								Oct
+								<span>03</span>
+							</div>
+														
+							<div class="articles-intro"><p></p></div>
+							<div class="readmore"><a href="http://www.ganzhougz.com/index.php?route=blog/article&amp;article_id=1">Read more ...</a></div>
+						</div>												
+					</div>
+																				<div class="articles-inner item-inner">
+						<div class="articles-image">
+							<img src="http://www.ganzhougz.com/image/cache/catalog/blog/2-80x80.jpg" alt="Back To Basics- Black Denim">
+							
+						</div>
+						<div class="aritcles-content">
+							<a class="articles-name" href="http://www.ganzhougz.com/index.php?route=blog/article&amp;article_id=2">Back To Basics- Black Denim</a>
+							<div class="articles-date">
+								Oct
+								<span>03</span>
+							</div>
+														
+							<div class="articles-intro"><p></p></div>
+							<div class="readmore"><a href="http://www.ganzhougz.com/index.php?route=blog/article&amp;article_id=2">Read more ...</a></div>
+						</div>												
+					</div>
+								</div>
+															<div class="row_items">
+													<div class="articles-inner item-inner">
+						<div class="articles-image">
+							<img src="http://www.ganzhougz.com/image/cache/catalog/blog/3-80x80.jpg" alt="Back To Basics- Black Denim">
+							
+						</div>
+						<div class="aritcles-content">
+							<a class="articles-name" href="http://www.ganzhougz.com/index.php?route=blog/article&amp;article_id=3">Back To Basics- Black Denim</a>
+							<div class="articles-date">
+								Oct
+								<span>03</span>
+							</div>
+														
+							<div class="articles-intro"><p></p></div>
+							<div class="readmore"><a href="http://www.ganzhougz.com/index.php?route=blog/article&amp;article_id=3">Read more ...</a></div>
+						</div>												
+					</div>
+																				<div class="articles-inner item-inner">
+						<div class="articles-image">
+							<img src="http://www.ganzhougz.com/image/cache/catalog/blog/4-80x80.jpg" alt="Back To Basics- Black Denim">
+							
+						</div>
+						<div class="aritcles-content">
+							<a class="articles-name" href="http://www.ganzhougz.com/index.php?route=blog/article&amp;article_id=4">Back To Basics- Black Denim</a>
+							<div class="articles-date">
+								Oct
+								<span>03</span>
+							</div>
+														
+							<div class="articles-intro"><p></p></div>
+							<div class="readmore"><a href="http://www.ganzhougz.com/index.php?route=blog/article&amp;article_id=4">Read more ...</a></div>
+						</div>												
+					</div>
+								</div>
+										</div>
+			</div>
+
+</div>
+<script>
+    $(document).ready(function() {
+        $(".articles-container").owlCarousel({
+            autoPlay :  false ,
+        	items : 1,
+			margin: 30,
+			loop: true,			
+			navSpeed : 1000,
+			dotsSpeed : 1000,
+			autoplaySpeed : 1000,
+			nav :  false ,
+			dots :  false ,
+			navText : ['<i class="ion-chevron-left"></i>','<i class="ion-chevron-right"></i>'],
+			responsive:{
+				0:{
+					items: 1
+				},
+				480:{
+					items: 1
+				},
+				768:{
+					items: 1
+				},
+				992:{
+					items: 1
+				},
+				1200:{
+					items: 1
+				}
+			}
+    	});
+    });
+</script>
+  
+					
+			</div>
+			  			  <div class="col-md-2 col-sm-6 col-footer">
+				<div class="footer-title"><h5>Information</h5></div>
+				<div class="footer-content">
+					<ul class="list-unstyled text-content">
+					 					  <li><a href="http://www.ganzhougz.com/about-us.html">About Us</a></li>
+					  					  <li><a href="http://www.ganzhougz.com/delivery-information.html">Delivery Information</a></li>
+					  					  <li><a href="http://www.ganzhougz.com/privacy-policy.html">Privacy Policy</a></li>
+					  					  <li><a href="http://www.ganzhougz.com/terms--conditions.html">Terms &amp; Conditions</a></li>
+					  					  <li><a href="http://www.ganzhougz.com/return-statement.html">Return Statement</a></li>
+					  					  <li><a href="http://www.ganzhougz.com/account-voucher.html">Gift Certificates</a></li>
+					 
+					</ul>
+				</div>
+			  </div>
+			  			  <div class="col-md-2 col-sm-6 col-footer">
+				<div class="footer-title"><h5>Customer Service</h5></div>
+				<div class="footer-content">
+					<ul class="list-unstyled text-content">
+					  <li><a href="http://www.ganzhougz.com/contact-us.html">Contact Us</a></li>
+					  <li><a href="http://www.ganzhougz.com/request-return.html">Returns</a></li>
+					  <li><a href="http://www.ganzhougz.com/sitemap.html">Site Map</a></li>
+					  <li><a href="http://www.ganzhougz.com/order-history.html">Order History</a></li>
+					  <li><a href="http://www.ganzhougz.com/wishlist.html">Wish List</a></li>
+					  <li><a href="http://www.ganzhougz.com/newsletter.html">Newsletter</a></li>
+					</ul>
+				</div>
+			  </div>
+			  <div class="col-md-2 col-sm-6 col-footer">
+				<div class="footer-title"><h5>Extras</h5></div>
+				<div class="footer-content">
+					<ul class="list-unstyled text-content">
+					  
+					  <li><a href="http://www.ganzhougz.com/account-voucher.html">Gift Certificates</a></li>
+					  <li><a href="http://www.ganzhougz.com/affiliate-login.html">Affiliate</a></li>
+					  <li><a href="http://www.ganzhougz.com/specials.html">Specials</a></li>
+					  <li><a href="http://www.ganzhougz.com/my-account.html">My Account</a></li>
+					  <li><a href="http://www.ganzhougz.com/order-history.html">Order History</a></li>
+					</ul>
+				</div>
+			  </div>
+			  
+			  
+		</div>
+	  </div>
+	</div>
+	<div class="footer-middle">
+		<div class="container">
+			<div class="container-inner">
+					
+			</div>
+		</div>
+	</div>
+	<div class="footer-bottom">
+		<div class="container">
+			<div class="container-inner">
+				<div class="footer-copyright">
+					<span>Copyright © 2019 <a href="/">ganzhougz.com</a>,  All Right Reserved.</span>
+				</div>
+									    <div class="footer-payment">
+<a href="#"><img src="image/catalog/cmsblock/payment.png" alt="payment"></a>
+</div>
+  
+						
+			</div>
+		</div>
+	</div>
+	
+	<div id="back-top"><i class="ion-chevron-up"></i></div>
+</footer>
+<script>
+$(document).ready(function(){
+	// hide #back-top first
+	$("#back-top").hide();
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > $('body').height()/3) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+		// scroll body to 0px on click
+		$('#back-top').click(function () {
+			$('body,html').animate({scrollTop: 0}, 800);
+			return false;
+		});
+	});
+});
+</script>
+<!--
+OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@opencart.com
+//-->
+</div><!-- wrapper -->
+</body></html>
