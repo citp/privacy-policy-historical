@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tetrain.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228021406id_/http%3A//www.tetrain.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tetrain.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607072935id_/http%3A//www.tetrain.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Tetra Website
 
