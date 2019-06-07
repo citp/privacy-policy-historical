@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hulkshare.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905190826id_/http%3A//www.hulkshare.com/static.php%3Fop%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulkshare.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607182025id_/http%3A//www.hulkshare.com/static.php%3Fop%3Dprivacy) for the most accurate reproduction.*
 
 # Free Internet Radio - Discover Artists Online Music - HulkShare
 
