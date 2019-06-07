@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the have-kids-will-travel.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212061814id_/http%3A//have-kids-will-travel.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the have-kids-will-travel.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607222213id_/http%3A//have-kids-will-travel.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - have-kids-will-travel.com
+# Privacy Policy – have-kids-will-travel.com
 
 Have Kids Will Travel Blog found at http://havekidswilltravel.com (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
