@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sydex.net privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226215019id_/http%3A//www.sydex.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydex.net privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607101034id_/http%3A//www.sydex.net/privacy.php) for the most accurate reproduction.*
 
 # Sydex.net: Privacy Policy
 
