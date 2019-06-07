@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the horizonhobby.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819185713id_/https%3A//www.horizonhobby.com/content/support-render-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonhobby.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607185617id_/https%3A//www.horizonhobby.com/content/support-render-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HorizonHobby
 
-Last updated: May 2018
+Last updated: June 2019
 
 Your privacy is important to us. This privacy policy explains what personal data Horizon Hobby collects from you, through our interactions with you, and how we use that data.
 
@@ -22,15 +22,15 @@ If there has been a breach of data protection legislation, the person affected m
 
 ## 2\. Notice Concerning the Data Protection Officers and Party Responsible for Horizon Hobby Websites
 
-The party responsible for processing data on our US-based websites intended for American and other non-European users, such as horizonhobby.com, towerhobbies.com, spectrum.com, axialracing.com, etc., is:
+The party responsible for processing data on our US-based websites intended for American and other non-European users, such as horizonhobby.com, towerhobbies.com, spektrumrc.com, axialracing.com, etc., is:
 
 Horizon Hobby LLC  
-4105 Fieldstone Rd.  
+2904 Research Rd.  
 Champaign, IL 61822  
 Phone: 1(217)352-1913  
 Email: [webmaster@horizonhobby.com](mailto:webmaster@horizonhobby.com?subject=feedback)
 
-Our Data Protection Officer for these US-based sites is Jason Trybom, who can be reached through the above channels or directly at [dpo@horizonhobby.com](mailto:dpo@horizonhobby.com?subject=feedback).
+Our Data Protection Officer for these US-based sites is Ben Ambrose, who can be reached through the above channels or directly at [dpo@horizonhobby.com](mailto:dpo@horizonhobby.com?subject=feedback).
 
 The part responsible for processing data on our EU-based websites intended for European users, such as horizonhobby.eu, horizonhobby.de, arrmarc.com etc., is:
 
@@ -55,6 +55,8 @@ We gather certain information about you based upon where you shop on our site in
 Personal information is requested when you order a product, register for a Wish List, enter contests or sweepstakes, fill out surveys, send us feedback, and send us mailings. For example, this information might include but is not limited to your name, billing address, shipping address, telephone number, email address, credit card or other payment information, and product details. With this information, our online catalog can fill your orders and better provide you with personalized services.
 
 Most personal information collected by Horizon Hobby is necessary for completion of purchase orders. Other personal data is collected with your consent. Horizon Hobby works to provide users with as much relevant information as possible prior to collecting any personal data.
+
+Under certain circumstances, we may be required to disclose your personal information in response to valid requests by public authorities, including to meet national security or law enforcement requirements.
 
 ## 4\. How We Collect Data
 
@@ -305,10 +307,20 @@ You may change any of your personal information in your account online at any ti
 
 We encourage you to promptly update your information in your online account if it changes. You may ask to have the information on your account deleted or anonymized. However, we keep track of past purchases for legal and business-practice reasons. Thus, you cannot delete information associated with past purchases. Also, as a security measure, we back up data stored on our systems. Such prior information is encrypted, and individual records cannot be accessed unless the backup data is restored. If Horizon Hobby must restore a data backup, we will make our best efforts to fulfill the prior user requested changes to the restored data. 
 
-## 8\. A Special Note About Children's Privacy
+## 8\. Privacy Shield Framework
+
+Horizon Hobby complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Horizon Hobby has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. Horizon Hobby has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU and Switzerland. 
+
+You can direct any questions or complaints about the use or disclosure of your personal data to us at [dpo@horizonhobby.com](mailto:dpo@horizonhobby.com). We will investigate and attempt to resolve any complaints or disputes regarding the use or disclosure of your personal data within 45 days of receiving your complaint.
+
+If you are protected under EU or Swiss law and unsatisfied with the resolution of your complaint, you may contact the International Centre for Dispute Resolution – American Arbitration Association (ICDR-AAA) at <http://go.adr.org/privacyshieldfiling.html> for further information and assistance. You may have the option to select binding arbitration for the resolution of your complaint under certain circumstances, provided you have taken the following steps: (1) raised your compliant directly with Horizon Hobby and provided us the opportunity to resolve the issue; (2) made use of the independent dispute resolution mechanism identified above; and (3) raised the issue through the relevant data protection authority and allowed the US Department of Commerce an opportunity to resolve the complaint at no cost to you. For more information on binding arbitration, see [US Department of Commerce's Privacy Shield Framework: Annex I (Binding Arbitration)](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
+
+We may transfer personal information to our third-party agents or service providers who perform functions on our behalf as described above. Where required by the Privacy Shield, we enter into written agreements with those third-party agents and service providers requiring them to provide the same level of protection the Privacy Shield requires and limiting their use of the data to the specified services provided on our behalf. We take reasonable and appropriate steps to ensure that third-party agents and service providers process personal information in accordance with our Privacy Shield obligations and to stop and remediate any unauthorized processing. Under certain circumstances, we may remain liable for the acts of our third-party agents or service providers who perform services on our behalf for their handling of personal information that we transfer to them.
+
+## 9\. A Special Note About Children's Privacy
 
 You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use, or disclose Personally Identifiable Information about visitors under 18 years of age. If you are the parent or guardian of a minor under 18 years of age and believe that the minor has disclosed personally identifiable information to us, please contact us at [webmaster@horizonhobby.com](mailto:webmaster@horizonhobby.com?subject=feedback) so that we may delete the minor's information.
 
-## 9\. Other Important Privacy Information
+## 10\. Other Important Privacy Information
 
-This privacy policy was last changed on May 25, 2018. If Horizon Hobby makes any changes to any terms or conditions of the privacy policy, the changes will the changes will be posted in this document, so you will always know what information we gather, how we might use that information, and to whom we will disclose it. We may change, modify, add, or remove portions of this policy at any time in accordance with the laws and regulations of jurisdictions covering our intended or expected users. Any changes will become effective immediately upon being posted unless we tell you otherwise.
+This privacy policy was last changed on June 5, 2019. If Horizon Hobby makes any changes to any terms or conditions of the privacy policy, the changes will the changes will be posted in this document, so you will always know what information we gather, how we might use that information, and to whom we will disclose it. We may change, modify, add, or remove portions of this policy at any time in accordance with the laws and regulations of jurisdictions covering our intended or expected users. Any changes will become effective immediately upon being posted unless we tell you otherwise.
