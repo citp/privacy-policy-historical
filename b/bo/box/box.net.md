@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the box.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231011925id_/https%3A//www.box.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the box.net privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607085739id_/https%3A//www.box.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Box Privacy Notice | Box
 
@@ -57,7 +57,7 @@ We may collect certain user information (including personal information and/or s
 
 ###  **Opting Out of Cookies and Advertising**
 
-You may opt out of behaviorally targeted ads anytime by deleting your browser's cookies. In addition, you may opt-out of interest-based advertising from some third-party partners by visiting  <http://preferences-mgr.truste.com/>_,_  [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/) _, or the third-party provider’s websites_.
+You may opt out of behaviorally targeted ads anytime by deleting your browser's cookies. In addition, you may opt-out of interest-based advertising from some third-party partners by visiting  <http://preferences-mgr.truste.com/>_,_  [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/) _,_ or the third-party provider’s websites.
 
 Please note that opting-out will only prevent targeted ads so you may continue to see generic (non-targeted ads) after you opt-out.
 
