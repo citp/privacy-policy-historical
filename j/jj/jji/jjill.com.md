@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jjill.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120120106id_/https%3A//www.jjill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjill.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607141140id_/https%3A//www.jjill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-July 1, 2017
+February 1, 2019
 
 At J.Jill, we understand your concerns about online security and privacy and appreciate the trust you place in our company. We seek to ensure that your personal and payment information is secure and that your privacy is respected. We hope this policy statement provides you with answers to the questions you may have about our policies. If you have further questions, please contact us by phone at **1.800.343.5700** or email us anytime. 
 
@@ -47,6 +47,10 @@ In addition, we may use technologies such as our own cookies to provide you with
 We also currently use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use web beacons and cookies provided by our marketing company on this web site. The type of information we collect includes the areas of the web site visited and information about transactions made. By supplementing our records, this information helps us learn which of our products most interest our customers, and what kinds of offers our customers like to see. We may also use the data collected by the marketing company to conduct specialized marketing programs. As a visitor to jjill.com, you may "opt out" of the collection by such company of such data. To opt out, go to <http://wwu.jjill.com/optout.html>.
 
 You also have the option to refuse cookies altogether by turning them off in your browser. In order to disable cookies, please consult with your browser’s help section. If you do turn off cookies, you may not be able to use some of the benefits of our site. 
+
+We use a tool called Google Analytics to collect information related to your browsing behavior on our website. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use ](https://www.google.com/analytics/terms/) and the [ Google Privacy Policy](https://policies.google.com/privacy). If you choose, you can opt out by downloading and installing the [Google Analytics Opt-out Browser Add-on.](https://tools.google.com/dlpage/gaoptout/)
+
+We also use a tool called Facebook pixel which allows us to measure the effectiveness of our advertising by understanding the actions you take on our website. To learn more about Facebook ads and manage your preferences,[ click here.](https://www.facebook.com/ads/about/?entry_product=ad_preferences)
 
 ###  communication choices 
 
