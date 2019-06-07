@@ -1,108 +1,77 @@
-> *The following text is extracted and transformed from the startingstrength.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630101148id_/https%3A//startingstrength.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startingstrength.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607132046id_/https%3A//startingstrength.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Starting Strength
 
-Protecting your private information is our priority. This Statement of Privacy applies to https://startingstrength.com and The Aasgaard Company and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to The Aasgaard Company include https://startingstrength.com and Starting Strength. The Starting Strength website is a information and discussion site. By using the Starting Strength website, you consent to the data practices described in this statement.
+## Privacy Policy
 
-## Collection of your Personal Information
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit startingstrength.com (the “Site”). 
 
-In order to better provide you with products and services offered on our Site, Starting Strength may collect personally identifiable information **if you voluntarily submit it during registration** , such as your:
+## Information Collected
 
-  * First and Last Name
-  * E-mail Address
-  * Location
+We collect three basic types of information from you in conjunction with your use of the Site: (1) personal information, which is any information that individually identifies you (e.g., your name, email address, physical location), (2) non-personal information, which is information that does not personally identify you but may include information about your use of the Site, and (3) device information, including information about your web browser, IP address, and time zone.
 
+### We collect this information in the following ways:
 
+#### Information You Provide Directly To Us When You:
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Starting Strength's public message boards, this information may be collected and used by others.
-
-We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services available on the Site. These may include: (a) registering for an account on our Site; (b) entering a sweepstakes or contest sponsored by us or one of our partners; (c) signing up for special offers from selected third parties; (d) sending us an email message; (e) submitting your credit card or other payment information when ordering an purchasing products and services on our Site. To wit, we will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.
-
-## Use of your Personal Information
-
-Starting Strength collects and uses your personal information to operate its website(s) and deliver the services you have requested.
-
-Starting Strength may also use your personally identifiable information to inform you of other products or services available from Starting Strength and its affiliates.
-
-## Sharing Information with Third Parties
-
-Starting Strength does not sell, rent or lease its customer lists to third parties.
-
-Starting Strength may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Starting Strength, and they are required to maintain the confidentiality of your information.
-
-Google services include Google Analytics and YouTube content embedded on the site. Google Analytics collects demographics and interests to report for traffic analysis. You can opt out of this automatic collection via [Google Analytics Opt-Out browser add-on](https://tools.google.com/dlpage/gaoptout/ "Google Analytics Opt-out"). Limiting collection can also be done through Ads Settings, Ad Settings for mobile apps, or any other available means, eg. the [NAI's consumer opt-out](http://optout.networkadvertising.org/?c=1#!/ "NAI opt-out"). For more information on policies and privacy control, please see Google's [Privacy & Terms](https://policies.google.com/privacy).
-
-Mailchimp service is an optional delivery method for the Starting Strength Weekly Report that is also published on our site each Monday. Opt-in for this service is voluntary and entirely dependent on users completing the sign up form. Mailchimp's privacy policy is [available here](https://mailchimp.com/legal/privacy/).
-
-Starting Strength may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Starting Strength or the site; (b) protect and defend the rights or property of Starting Strength; and/or (c) act under exigent circumstances to protect the personal safety of users of Starting Strength, or the public.
-
-## Automatically Collected Information
-
-Information about your computer hardware and software may be automatically collected by Starting Strength. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Starting Strength website.
-
-Google services include Google Analytics and YouTube content embedded on the site. Google Analytics collects demographics and interests to report for traffic analysis. You can opt out of this automatic collection via [Google Analytics Opt-Out browser add-on](https://tools.google.com/dlpage/gaoptout/ "Google Analytics Opt-out"). Limiting collection can also be done through Ads Settings, Ad Settings for mobile apps, or any other available means, eg. the [NAI's consumer opt-out](http://optout.networkadvertising.org/?c=1#!/ "NAI opt-out"). For more information on policies and privacy control, please see Google's [Privacy & Terms](https://policies.google.com/privacy).
-
-Hotjar collects anonymized data mapping visitor information and behavior on the site to report for optimizing website design. View Hotjar's Privacy Policies [here](https://www.hotjar.com/legal/policies/privacy).
-
-## Use of Cookies
-
-The Starting Strength website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Starting Strength pages, or register with Starting Strength site or services, a cookie helps Starting Strength to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Starting Strength website, the information you previously provided can be retrieved, so you can easily use the Starting Strength features that you customized.
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually experience the interactive features of the Starting Strength services or websites you visit.
-
-## Links
-
-This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
-
-## Security of your Personal Information
-
-Starting Strength secures your personal information from unauthorized access, use, or disclosure. Starting Strength uses the following methods for this purpose:
-
-  * SSL Protocol
-  * Two-factor authentication for user accounts
+  * Register for an account on the Site
+  * Sign up to receive email newsletters from us
+  * Enter a contest or sweepstakes
+  * Participate in surveys or special promotions
+  * Knowingly volunteer information on any other part of the Site (e.g., request for customer service, post to the public forum)
 
 
 
-When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
+#### Information Collected Using Technology:
 
-We strive to take appropriate security measures to protect against unauthorized access to or alteration of your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) security, integrity, and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, and time zone. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-## Children Under Thirteen
+We collect Device Information using the following technologies:
 
-Starting Strength does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit allaboutcookies.org.
+  * “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-## Disconnecting your Starting Strength Account from Third Party Websites
 
-You will be able to connect your Starting Strength account to third party accounts. BY CONNECTING YOUR STARTING STRENGTH ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. Users are only connected via third party sites (Facebook, Skype etc.) if they set up their accounts to do so. Users disconnect their accounts via the same interface.
 
-## E-mail Communications
+## Use of Your Personal Information
 
-From time to time, Starting Strength may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication. In order to improve our Services, we may receive a notification when you open an email from Starting Strength or click on a link therein.
+We use the Information that we collect generally to maintain your forum account on the Site. Additionally, we may use this Information to:
 
-If you would like to stop receiving marketing or promotional communications via email from Starting Strength, you may opt out of such communications by Customers only receive emails if they have signed up to receive emails. Customers may unsubscribe by following the link to do so contained within the email.
+  * Communicate with you
+  * Screen for potential risk or fraud
 
-## External Data Storage Sites
 
-We may store your data on servers provided by third party hosting vendors with whom we have contracted.
 
-## Changes to this Statement
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-Starting Strength reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our site, and/or by updating any privacy information on this page. Your continued use of the Site and/or Services available through this Site after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.
+## Sharing Your Personal Information
 
-## Contact Information
+We share your Personal Information with third parties to help us use your Personal Information, as described above.
 
-Starting Strength welcomes your questions or comments regarding this Statement of Privacy. If you believe that Starting Strength has not adhered to this Statement, please contact Starting Strength at:
+Subscribing to the Starting Strength Weekly Report creates an account with Mailchimp for purposes of the weekly mailing. Mailchimp tracks how you interact with the mailing, including tracking of opens and clicks. You may unsubscribe from this service at any time. Please contact us to request that any listing of your unsubscribed account is fully removed from Mailchimp's system.
 
-The Aasgaard Company  
-3118 Buchanan St  
-Wichita Falls, Texas 76308
+We also use Google Analytics to help us understand how you use the Site. You can read more about how Google uses your Personal Information here: [google.com/intl/en/policies/privacy/](https://policies.google.com/privacy "Google Privacy Policy"). You can also opt-out of Google Analytics using this tool: [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "Google Analytics Opt-out Browser Add-on").
 
-Email Address: stef@startingstrength.com
+We use the “visitor action pixels” from Facebook on our website. This allows user behavior to be tracked after they have been redirected to the provider’s website by clicking on a Facebook ad. This enables us to measure the effectiveness of Facebook ads for statistical and market research purposes. The data collected in this way is anonymous to us, but this data is stored and processed by Facebook, which is why we are informing you, based on our knowledge of the situation. Facebook may link this information to your Facebook account and also use it for its own promotional purposes, in accordance with [Facebook’s Data Usage Policy](https://www.facebook.com/about/privacy/ "Facebook Data Usage Policy"). You can allow Facebook and its partners to place ads on and off Facebook. A cookie may also be stored on your computer for these purposes. You can object to the collection of your data by Facebook pixel, or to the use of your data for the purpose of displaying Facebook ads by contacting the following address: [Facebook Ads](https://www.facebook.com/settings?tab=ads "Facebook Ads").
 
-Telephone number: 9406960829
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-* * *
+## Your Control of Your Personal Data
 
-Effective as of January 15, 2018
+You may access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to do this, please contact us through the contact information below.
+
+## Data Retention
+
+Accounts on the Starting Strength Forums, https://startingstrength.com/resources/forum, are retained to preserve the utility of the public forum and for purposes of security and minimization of abuse.
+
+European Users: When you create an account on our Forum, we will maintain your account until and unless you ask us to delete personal information associated with the account. Posts you have submitted will be retained. Personal information you have posted will be removed when specific posts containing such information are identified to us with a request that that specific information be redacted.
+
+Other Users: You may make a special request for your account to be converted to an anonymous account by contacting us below.
+
+## Updates
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+## Contact Us
+
+If you have questions about this privacy policy, please contact us by email at [stef@startingstrength.com](mailto:stef@startingstrength.com).
