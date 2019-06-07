@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokemongomap.info privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207044452id_/http%3A//www.pokemongomap.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemongomap.info privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607131222id_/http%3A//www.pokemongomap.info/privacy.html) for the most accurate reproduction.*
 
 # PokemonGoMap.Info - Privacy Policy
 
