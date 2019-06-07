@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dixipay.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214101659id_/http%3A//www.dixipay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dixipay.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607231610id_/http%3A//www.dixipay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DIXIPAY
 
