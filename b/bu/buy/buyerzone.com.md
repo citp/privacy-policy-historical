@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009140213id_/http%3A//www.buyerzone.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607173728id_/https%3A//www.buyerzone.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ This privacy policy applies to www.buyerzone.com (the "Site") owned and operated
 
 Your privacy is very important to us. This privacy policy describes the information we gather, how we share that information and what we do to protect your information on our Site. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
-Use of the Site indicates agreement with this privacy policy. This privacy policy was last updated March 1, 2017.
+Use of the Site indicates agreement with this privacy policy. This privacy policy was last updated September 6, 2018.
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=b6c89188-2ee3-4327-bffa-608984be38fd "TRUSTe online privacy certification")
 
@@ -44,7 +44,7 @@ We use the information we gather to put buyers and sellers into contact with one
 
 **Other communications.** We may send you email and other communications related to this Site, your use of our services and the status of your account, which may include Site updates and responses to your inquiries. In addition, we send periodic surveys and other communications, all of which you can opt out of receiving by changing your notification preferences as described below. 
 
-**Affiliates.** We may share your information with our parent company, Purch Group, Inc. ("Purch"), and our affiliates owned or controlled in whole or in part by Purch, so they may engage in any uses that we may engage in as disclosed in this privacy policy. We or our affiliates may use the information you provide us to send you email and other communications on behalf of other Purch affiliates. These communications may include email newsletters, as well as offers for other BuyerZone and Purch services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted. 
+**Affiliates.** We may share your information with companies that are owned or controlled in whole or in part by Buyerzone.com LLC, so they may engage in any uses that we may engage in as disclosed in this privacy policy. We or our affiliates may use the information you provide us to send you email and other communications on behalf of other BuyerZone affiliates. These communications may include email newsletters, as well as offers for other BuyerZone services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted. 
 
 **Third Party Offers.** We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacy@buyerzone.com](mailto:privacy@buyerzone.com) with the subject line **"opt out — third party."**
 
@@ -62,13 +62,13 @@ Our customer information is an important part of our business. As a result, we o
 
 **Advertisers.** We may provide your information to third party advertisers (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep your personally identifiable information confidential and use it only to market and provide (directly and through third parties engaged by them for such purpose) their products or services. You may opt out of such disclosures by sending an e-mail to [privacy@buyerzone.com](mailto:privacy@buyerzone.com) with the subject line: **"Do not disclose."** We also aggregate information about our collective users for potential advertisers who are interested in understanding whether their offering would be suitable to our audience. This information does not include personally identifiable information like your company name or email address. 
 
-**Business Transitions.** As we continue to develop our business, we may buy, merge or partner with other companies. If that happens, we may acquire customer information. In such transactions, user information may be among the transferred assets. Similarly, if a portion or all of Purch’s assets are sold or transferred to a third-party, customer information (including your email address) would likely be one of the transferred business assets. You will receive notice as described in the "Notification of Changes" section below of any change in uses of your personally identifiable information, and choices you may have regarding your personally identifiable information. 
+**Business Transitions.** As we continue to develop our business, we may buy, merge or partner with other companies. If that happens, we may acquire customer information. In such transactions, user information may be among the transferred assets. Similarly, if a portion or all of BuyerZone.com LLC assets are sold or transferred to a third-party, customer information (including your email address) would likely be one of the transferred business assets. You will receive notice as described in the "Notification of Changes" section below of any change in uses of your personally identifiable information, and choices you may have regarding your personally identifiable information. 
 
 **Law Enforcement and Legal Process.** We may report to law enforcement agencies any activities that we believe to be unlawful. We may also report any activities that we believe may aid a law enforcement investigation into unlawful activity. We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary, in our sole judgment, to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety, of BuyerZone, its parent company, the public, or another user. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention. 
 
 **Sharing Your Information as Permitted by Law.** In certain situations, BuyerZone.com may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may share your information with others as required by law. We may also share your information with others as permitted by law. This may include sharing your information with government entities or third-parties in response to subpoenas, court orders, bankruptcy proceedings, other legal process. We may also share your information if we believe it is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine might be brought against us. 
 
-###  How We Secure Personal Information
+### How We Secure Personal Information
 
 We take reasonable and appropriate measures to help keep information secure and to help prevent it from becoming disclosed to individuals who are not described in this policy. Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect, and we cannot promise, and you should not expect, that your information will be secure in all circumstances. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
 
@@ -117,7 +117,8 @@ We will provide individuals who are California residents a description of the ca
 If you have any additional questions or comments about this Site’s privacy statement, please contact us:
 
 BuyerZone.com, LLC   
-225 Wyman Street  
-Waltham, MA 02451  
-[888-393-5000](tel:8883935000)  
+200 Fifth Avenue   
+Second Floor   
+Waltham, MA 02451   
+[888-393-5000](tel:8883935000)   
 [privacy@buyerzone.com](mailto:privacy@buyerzone.com)
