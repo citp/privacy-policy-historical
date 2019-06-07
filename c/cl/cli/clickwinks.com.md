@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickwinks.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113075859id_/http%3A//www.clickwinks.com/%3Fpage_id%3D153) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickwinks.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607065025id_/http%3A//www.clickwinks.com/%3Fpage_id%3D153) for the most accurate reproduction.*
 
 # » Privacy Policy - ClickWinks.com
 
