@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ffxivguild.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822040338id_/http%3A//www.ffxivguild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffxivguild.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607142009id_/http%3A//www.ffxivguild.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – FFXIV Guild
 
