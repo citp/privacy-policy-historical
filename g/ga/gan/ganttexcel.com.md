@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the ganttexcel.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714194443id_/https%3A//www.ganttexcel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganttexcel.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607104013id_/https%3A//www.ganttexcel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gantt Excel | Gantt Excel
+# Privacy Policy - Gantt Excel
 
-### We respect the privacy of our customers, partners, employees, job applicants, and other visitors to our websites who may provide personal information. We recognize the need for appropriate protections and management of personal information that you provide to us. Our policy is pretty simple, we do not share your personal information with anyone without your permission.
+## Our privacy policy is pretty simple actually.
+
+We respect the privacy of our customers, partners, employees, job applicants, and other visitors to our websites who may provide personal information. We recognize the need for appropriate protections and management of personal information that you provide to us. Our policy is pretty simple, we do not share your personal information with anyone without your permission.
 
 ### Credit Card Transactions
 
-Gantt Excel only collects personal information when you contact us or provide feedback and only uses the information collected to provide those services for you. If you choose to make a purchase, you will be asked to provide contact information (such as your name and email address) to process your order. Credit card information is collected in its entirety by our merchant, [Paypal](https://www.paypal.com/). Your credit card information and transaction is not handled or stored in any shape or form by Gantt Excel. Please note that some information may be stored by Paypal for compliance purposes.
+[Gantt Excel](https://www.ganttexcel.com/) only collects personal information when you contact us or provide feedback and only uses the information collected to provide those services for you. If you choose to make a purchase, you will be asked to provide contact information (such as your name and email address) to process your order. Credit card information is collected in its entirety by our merchant, [Paypal](https://www.paypal.com/). Your credit card information and transaction is not handled or stored in any shape or form by Gantt Excel. Please note that some information may be stored by Paypal for compliance purposes.
 
 ### Third Parties
 
