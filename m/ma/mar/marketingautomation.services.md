@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingautomation.services privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923173046id_/http%3A//sharpspring.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingautomation.services privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607232634id_/http%3A//sharpspring.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SharpSpring
 
@@ -193,9 +193,16 @@ Our Platform offers integrations with third-party social media platforms like Fa
  **Information we Obtain from Third Parties**  
 We receive information from third party data providers including directories. In some cases, such as LinkedIn, the information has manifestly been made public by the individuals who posted their profile on LinkedIn, and we assume that the individuals no longer have a privacy interest in such information, and it can be used for the legitimate interest of SharpSpring in learning about potential Customers.
 
-In other cases, where it is not clear that the information was made manifestly public by the individuals, we obtain this data with assurances from these providers that the user has consented to the collection and sharing of this data, or that this information is available in public records and that is permissible to collect.
+ **Email Accounts**  
+Users may opt-in to use features of the Platform which regularly collect and store the contents of emails from their email accounts, which are hosted by third-party email service providers. This is done for the purpose of providing advanced features of the Platform and is only done at the user’s express direction.
 
-We receive information from social media services that you have elected to use to access our site or apps, in accordance with the social media services’ privacy policy.
+In order to provide these features, the Platform must authenticate with the user’s third-party email accounts. When possible, this is done using OAuth.
+
+For example, the Platform will use OAuth to securely authenticate with a user’s particular email account. Once authenticated, the OAuth authentication, or “bearer” token, is encrypted and stored, and is used on subsequent requests to prove authentication. When OAuth is not possible, we encrypt and store the user’s third-party email account credentials, and thereafter use them to securely authenticate with the third-party email service.
+
+Access to email account authentication tokens and credentials (where applicable), the keys to decrypt this data, and user email content, is limited to only employees who need access to support and develop the Platform and only within the scope of their job responsibilities. The user’s authentication tokens or credentials, and email data, is never shared with third-parties.
+
+For users who authorize and use OAuth with their Gmail account through Google, the use of data obtained through the Platform will comply with Google’s additional Restricted Scopes requirements that are listed in the Google API Services: User Data Policy. The details of the this policy can be found at: [https://developers.google.com/terms/api-services-user-data-policy#additional-requirements-for-specific-api-scopes.](https://developers.google.com/terms/api-services-user-data-policy#additional-requirements-for-specific-api-scopes) As this policy is subject to change based on the needs of Google, it is recommended that users regularly check on updates to the policy at the above attached web address.
 
 ##### 7\. How Information is Collected
 
@@ -343,6 +350,8 @@ When general laws allow us to do so, we use any Personal data to better understa
 When this is not prohibited by applicable laws, we also provide personal information to partner firms which may include third-party marketing companies, affiliates, advertising agencies, and data aggregation companies. These partner firms use this information to determine the interest levels of leads on products and services in accordance with this Privacy Notice.
 
 In countries where such activities are not permitted without the prior explicit consent of the individuals, we refrain from conducting these activities.
+
+For clarity, we do not share or disclose personally identifiable information (PII) to partner firms.
 
  **Service Providers**  
 We share information with our suppliers, subcontractors, and other third parties who provide services to us (collectively “service providers”) in connection with advertising, hosting, data analytics, information technology and infrastructure, order fulfillment, email delivery, auditing, and other related activities.
