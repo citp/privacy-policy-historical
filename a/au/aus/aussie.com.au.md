@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903185536id_/https%3A//www.aussie.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608013902id_/https%3A//www.aussie.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Aussie
-
-## **Your privacy is important**
 
 At Aussie, we understand that the details you provide us with are not only private and personal but that how we collect, use, hold, exchange and protect your information is important to you. It's imperative that you feel secure whenever you deal with us. It's also important that you understand how we protect your privacy, as well as how, when and where we may use your personal information. This Privacy Policy is our commitment to you on what our policies towards your privacy are. You can be confident in the fact that we abide by and are bound by the Privacy Act and the Australian Privacy Principles ( **APPs** ) for the protection of personal information.
 
@@ -103,24 +101,6 @@ Aussie
 LOCKED BAG 19 ROYAL EXCHANGE NSW 1225
 
 Please [email us](mailto:privacy@aussie.com.au) with your privacy request.
-
-## Security and storage of your personal information
-
-### How long do we keep information about you?
-
-By law, we are required to hold certain information about you, even after you are no longer an Aussie customer. We may also hold certain information about you if it is needed for a purpose which you are aware of or reasonably expect us to hold the information. When your information is no longer needed or required to be held by law, it will be destroyed or de-identified.
-
-### How safe and secure is the information we hold about you?
-
-We take great care with the information we hold about you. Our aim is to ensure that any details are securely protected from misuse, interference and loss, and unauthorised access, modification or disclosure. We will take reasonable care to make sure that we keep your information in an accurate, complete and up to date manner.
-
-### Online security
-
-Our website uses encryption techniques to enhance your privacy and security when using Aussie's website.
-
-### What are 'cookies' and how do they work?
-
-Cookies are small data files that are downloaded from our web servers, and stored on your hard drive. A cookie is a string of letters and numbers that uniquely identify the computer you are using, and the customer number and access code you may have used to register at the site. Cookies are used on the Aussie web site. We track a visitor's journey through our site. This allows us to see at a glance which pages and information is of most interest to visitors. This type of cookie contains no personal information at all; simply a record of your journey through the site. Most browsers can be configured to refuse to accept cookies. You can also delete cookies form your hard drive. However, doing so may hinder your access to valuable areas of information within our site.
 
 ### If you have a privacy complaint
 
