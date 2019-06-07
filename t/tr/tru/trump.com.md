@@ -1,10 +1,44 @@
-> *The following text is extracted and transformed from the trump.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227071558id_/https%3A//www.trump.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trump.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608012109id_/https%3A//www.trump.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Donald Trump Organization: Donald J Trump Hotel Collection Real Estate Casinos Golf Clubs Restaurants Merchandise Corporation Company
+# Privacy & Cookie Policy | The Trump Organization | Luxury Real Estate Portfolio
 
 This Privacy & Cookie Policy is effective as of May 25, 2018.
 
-* **INTRODUCTION.**
+**1\. Introduction**
+
+**2\. What personal data do we process?**
+
+**3\. How do we use the personal data we process?**
+
+**4\. With whom do we share your personal data?**
+
+**5\. How will we protect your personal data?**
+
+**6\. How long do we keep your personal data?**
+
+**7\. What rights and choices do you have with regard to your personal data?**
+
+**8\. Will personal data be transferred outside of the european economic area?**
+
+**9\. Can children use your service?**
+
+**10\. What are my california privacy rights?**
+
+**11\. What other information should you know?**
+
+**12\. How can you contact us?**
+
+**13\. What are cookies?**
+
+**14\. What types of cookies do we use?**
+
+**15\. What information is processed by cookies?**
+
+**16\. How do we deploy cookies?**
+
+**17\. What is our legal basis for processing information collected by cookies?**
+
+**INTRODUCTION.**
 
 Trump is committed to providing you with the best products and services possible. Transparency over how we collect, safeguard and use your information is of paramount importance to us. Trump has developed this Privacy & Cookie Policy to give you a clear understanding of our privacy practices, including how we process (e.g., collect, use and store) your personal data, for what purposes we may share such information, and your rights and choices with regard to controlling your personal data. Please review our Terms of Service [Developer Please Hyperlink] which governs your use of the Services. Any capitalized terms that are not defined in this Privacy & Cookie Policy shall have the meaning ascribed in the [Terms of Service](https://web.archive.org/terms-of-use/).
 
@@ -20,116 +54,165 @@ This Privacy Policy only applies to the information collected by The Trump Organ
 
 By using or interacting with the Services, you are consenting to the collection and use of your information as described in this Privacy Policy. If you do not agree with the terms of this Privacy Policy, then please do not use the Services.
 
-* **Personal Data Do We Process?**
+**Personal Data Do We Process?**
 
 We process personal information or other information about you when you interact with any of our properties or facilities, visit our Sites or otherwise use our Services. The information we may process depends upon your interaction with us. The types of personal data that we may process include the following
 
-  * **Reservations and Account Information:** In order to access and use certain features, content or functions of the Services, including, for example, booking a hotel reservation, applying for membership at one our clubs, reserving a tee-time at a Trump course, making a restaurant reservation, purchasing products from the Trump Store or Trump Winery, signing up for loyalty programs or using any of our Apps, you may need to register for an account. When you create an account, we will process personal data as necessary to offer and fulfill the Services you request. Depending on the Services you elect to use and only as necessary to provide such Services, we may ask you to provide your name, name of your spouse or partner, mailing address, arrival and departure information, email address, name of pet, proof of identity (e.g., driver’s license number, mother’s maiden name), phone number, Facebook credentials in order to authenticate your account, date of birth, gender or other descriptive information or preferences, and ask you to create login credentials (i.e., a unique user name and password). Also, when you book a reservation, we may ask for additional specific account information such as corporate account number, group or convention code, travel agent number or AAA number. If you limit our processing of certain information that we obtained from you via consent, you may not be able to use all of the features of the Services.
-  * **Additional Profile Information:** We may also process information about our hotel guests, golf course members or players, customers (including prospective customers), residents and visitors so that we can best provide them with a personalized experience to fit their needs. Such information may include information or data relating to your room preferences, in-room dining preferences, Trump Attaché and other concierge services, preferred dining seating, equipment rental, leisure activities and interests, and other information as necessary to fulfill special requests made by you regarding your stay or services you request from us (e.g., health conditions that require special room accommodations or accessibility). We may also process other information associated with a guest’s stay, or a member’s, player’s, customer’s or other visitor’s use of the Services, such as the hotels where you have stayed, check-in/check-out dates, goods and services used, special requests made, observations about your service preferences (including room and vacation preferences, times of play, etc.), real estate preferences (e.g., attributes of properties you are interested in, desired neighborhoods or school districts), telephone numbers dialed and faxes, texts and telephone messages received.
-  * **Images:** We may also use closed circuit television and other security measures at our properties that may capture or record images of guests and visitors in public areas of our properties. We may also use closed-circuit television and other technologies that record sound or video for loss prevention and security purposes, and the protection of our guests and visitors to our properties where permitted by law.
-  * **Payment Information and Purchase History:** If you purchase products or services on or through our Services (e.g., Trump Store or Trump Winery) your payment information (e.g. credit or debit card number, card type and expiration date and address associated with such credit or debit card) and additional information to fulfill the services or deliver the products (e.g. name, date of birth and shipping address) may be processed by us and/or third party payment processors. We also process the details of any purchased services or products, including the date of purchase, rate or product purchase price, food/beverage purchase history, and any wording you may suggest for a gift card.
-  * **Loyalty Data.** If you decide to become a member of any of our loyalty programs, including the Trump Card® Privileges Program, we may send you emails regarding exclusive member-only offers and news from Trump Hotels and other Trump Hotel Group brands (e.g., SCION, AMERICAN IDEA) special offers and messages from other Trump brands and our preferred third-party partners, such as luxury fashion, cars, and retail brands. We may also send you email communications regarding the status of your account, including information regarding the number of points you have earned, number of qualifying stays, history of your stays or reward redemption, and your reward status levels (e.g., Exclusive Gold or Exclusive Platinum status, etc.). You may choose not to receive all or some of such marketing emails or cancel your Trump Card membership by following the steps in Section 7 of this Privacy & Cookie Policy. If you choose not to opt-in, you will still receive emails regarding your Trump Card account, including monthly statements or notifications inclusive of your status level, number of points earned, number of qualifying stays, your reward level and redemption history, and notifications of profile updates or password changes unless you cancel your Trump Card membership.
-  * **Location Information:** With your permission, we may process the specific geographic location of your Device (e.g. by accessing your Device's GPS) via our Sites or Apps to provide you with directions to our properties or to determine your proximity to our properties or other specified location (for example, to determine yardage when playing a golf course). If no longer wish to have this location information processed, you can withdraw your consent at any time by disabling the location and/or Bluetooth features in the operating system of your Device and/or in the App. If you have any questions about disabling you location and/or Bluetooth features, you can contact us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5323213a2532302a132721263e233c21347d303c3e).
-  * **Personal Data You Choose to Provide for Marketing or Additional Services:** We may process personal data that you choose to provide to us when you elect to participate in optional Site-features or Services. For example, if you sign up to receive newsletters, marketing emails, promotions or other communications regarding the Services and/or promotions from our preferred third-party products or services or other Trump brands, participate in contests, surveys and other promotions related to the Services, we may process your name, email address, mailing address, gender, interests and phone number in order to provide the additional features or Services. We will make clear what information we may process as a result of your engagement with the optional Site-features or Services.
-  * **Comments, Feedback, Customer Service and Other Inquires:** You have the ability to use the Services to contact us with questions you may have, inquire about memberships, request to be contacted about properties available for sale or rent, provide us with comments and or feedback about the Services (e.g., completing a "Contact Us" form on our Sites or surveys relating to your hotel stay) or to communicate with other users of the Services and post comments to or otherwise interact with certain aspects of the Services that are available to the public and/or other users. We will process any information you submit, post or provide in the course of such activities to respond to your comments or feedback. In the event you contact one of our properties or customer call centers, we may process information related to conversations, including recording or monitoring customer service calls for quality assurance and training purposes, and to verify your identity.
-  * **Application Information:** When you apply for membership to any of our golf courses, clubs or loyalty programs, or submit an application(s) in connection with the rental or purchase of a property to our realty or brokerage service, we process information that you choose to provide to us through your application process, which may include your name, email address, mailing address, phone number, gender, date of birth, dependent information and references.
-  * **Third Party Platform Information:** If you access the Services by logging in using your account credentials from a third-party owned or operated platform/service (e.g., Apple (iTunes, etc.), Spotify, OpenTable, Facebook, Twitter, LinkedIn, etc.) (each, a "Third Party Platform"), post content from our Sites or Apps to a social network, or use various social media features (e.g., "Like" button), we may process certain information from the Third Party Platform, such as your username, "likes", location, birthday, check-ins, comments and reviews, direct messages you may send to us, interests, photos, friends, status updates and other information you provided to the Third Party Platform in connection with your account. Depending on your account and privacy settings, we may also be able to see information that you post when using these Third Party Platforms whether or not you are using our Services. The information you post or provide to Third Party Platforms, as well as the controls surrounding these disclosures are governed by the respective policies of these third parties.
-  * **Advertising Data:** We may also use the services of trusted third parties, including advertising networks, social media networks, data exchanges, traffic measurement service providers and marketing analytics service providers to, for example, serve you advertisements on the Services or while using other websites, populate user-specific advertisements and/or measure and analyze advertising effectiveness and/or traffic on or in connection with the Services ("Third Party Advertising Providers"). Third Party Advertising Providers enable us to provide you with more useful advertisements about our Services which are tailored specifically to your interests or to individuals with similar characteristics to our customers and users, including by using tools like Google's "Customer Match" ([click here](https://support.google.com/adwords/answer/6379332?hl=en) for more information) or Facebook "Custom Audiences" ([click here](https://www.facebook.com/business/help/381385302004628/) for more information). These tools combine information you have provided to us through your use of our Services with other data processed about you through third party sites, permitting you to view personalized advertisements about our portfolio of Trump brands on other websites you browse or when you are searching for similar products or services. Additionally, we may use platform tools like Facebook's "Lookalike Audiences" ([click here](https://www.facebook.com/business/help/231114077092092/) for more information) to share information you have provided us with social media sites to create "lookalike audiences" (i.e., users with similar characteristics to our customers or like-minded consumers) and provide such users with tailored advertisements about our brands. When using these tools, we only share limited information with Third Party Advertising Providers in hashed, non-human readable form. You can withdraw your consent to this use of hashed portions of your personal information at any time by clicking [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Third Party Advertising Providers may use their own cookies and other tracking technologies. Trump does not control these Third Party Advertising Providers and/or their use of cookies, which is instead governed by the privacy policies and/or cookie policies of any such Third Party Advertising Provider.
-  * **Browsing Information, Logs, Usage Data and Other Device Information:** When you visit our Sites and use our Apps, we may process information about your activities on our Sites and Apps through the use of technology such as cookies, web beacons and other tracking technologies, as further explained in Sections 13 - 17 below. Providing this information is not mandatory and cookies can be disabled by clicking here [Cookie Settings]. Developer Please Embed this code However, please note that our Sites and Apps may not offer the same functionalities when certain cookies are disabled.
+**Reservations and Account Information:** In order to access and use certain features, content or functions of the Services, including, for example, booking a hotel reservation, applying for membership at one our clubs, reserving a tee-time at a Trump course, making a restaurant reservation, purchasing products from the Trump Store or Trump Winery, signing up for loyalty programs or using any of our Apps, you may need to register for an account. When you create an account, we will process personal data as necessary to offer and fulfill the Services you request. Depending on the Services you elect to use and only as necessary to provide such Services, we may ask you to provide your name, name of your spouse or partner, mailing address, arrival and departure information, email address, name of pet, proof of identity (e.g., driver’s license number, mother’s maiden name), phone number, Facebook credentials in order to authenticate your account, date of birth, gender or other descriptive information or preferences, and ask you to create login credentials (i.e., a unique user name and password). Also, when you book a reservation, we may ask for additional specific account information such as corporate account number, group or convention code, travel agent number or AAA number. If you limit our processing of certain information that we obtained from you via consent, you may not be able to use all of the features of the Services.
 
+**Additional Profile Information:** We may also process information about our hotel guests, golf course members or players, customers (including prospective customers), residents and visitors so that we can best provide them with a personalized experience to fit their needs. Such information may include information or data relating to your room preferences, in-room dining preferences, Trump Attaché and other concierge services, preferred dining seating, equipment rental, leisure activities and interests, and other information as necessary to fulfill special requests made by you regarding your stay or services you request from us (e.g., health conditions that require special room accommodations or accessibility). We may also process other information associated with a guest’s stay, or a member’s, player’s, customer’s or other visitor’s use of the Services, such as the hotels where you have stayed, check-in/check-out dates, goods and services used, special requests made, observations about your service preferences (including room and vacation preferences, times of play, etc.), real estate preferences (e.g., attributes of properties you are interested in, desired neighborhoods or school districts), telephone numbers dialed and faxes, texts and telephone messages received.
 
-* **How Do We Use the Personal Data We Process?**
+**Images:** We may also use closed circuit television and other security measures at our properties that may capture or record images of guests and visitors in public areas of our properties. We may also use closed-circuit television and other technologies that record sound or video for loss prevention and security purposes, and the protection of our guests and visitors to our properties where permitted by law.
+
+**Payment Information and Purchase History:** If you purchase products or services on or through our Services (e.g., Trump Store or Trump Winery) your payment information (e.g. credit or debit card number, card type and expiration date and address associated with such credit or debit card) and additional information to fulfill the services or deliver the products (e.g. name, date of birth and shipping address) may be processed by us and/or third party payment processors. We also process the details of any purchased services or products, including the date of purchase, rate or product purchase price, food/beverage purchase history, and any wording you may suggest for a gift card.
+
+**Loyalty Data.** If you decide to become a member of any of our loyalty programs, including the Trump Card® Privileges Program, we may send you emails regarding exclusive member-only offers and news from Trump Hotels and other Trump Hotel Group brands (e.g., SCION, AMERICAN IDEA) special offers and messages from other Trump brands and our preferred third-party partners, such as luxury fashion, cars, and retail brands. We may also send you email communications regarding the status of your account, including information regarding the number of points you have earned, number of qualifying stays, history of your stays or reward redemption, and your reward status levels (e.g., Exclusive Gold or Exclusive Platinum status, etc.). You may choose not to receive all or some of such marketing emails or cancel your Trump Card membership by following the steps in Section 7 of this Privacy & Cookie Policy. If you choose not to opt-in, you will still receive emails regarding your Trump Card account, including monthly statements or notifications inclusive of your status level, number of points earned, number of qualifying stays, your reward level and redemption history, and notifications of profile updates or password changes unless you cancel your Trump Card membership.
+
+**Location Information:** With your permission, we may process the specific geographic location of your Device (e.g. by accessing your Device's GPS) via our Sites or Apps to provide you with directions to our properties or to determine your proximity to our properties or other specified location (for example, to determine yardage when playing a golf course). If no longer wish to have this location information processed, you can withdraw your consent at any time by disabling the location and/or Bluetooth features in the operating system of your Device and/or in the App. If you have any questions about disabling you location and/or Bluetooth features, you can contact us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0f7f7d66796e6c764f7b7d7a627f607d68216c6062).
+
+**Personal Data You Choose to Provide for Marketing or Additional Services:** We may process personal data that you choose to provide to us when you elect to participate in optional Site-features or Services. For example, if you sign up to receive newsletters, marketing emails, promotions or other communications regarding the Services and/or promotions from our preferred third-party products or services or other Trump brands, participate in contests, surveys and other promotions related to the Services, we may process your name, email address, mailing address, gender, interests and phone number in order to provide the additional features or Services. We will make clear what information we may process as a result of your engagement with the optional Site-features or Services.
+
+**Comments, Feedback, Customer Service and Other Inquires:** You have the ability to use the Services to contact us with questions you may have, inquire about memberships, request to be contacted about properties available for sale or rent, provide us with comments and or feedback about the Services (e.g., completing a "Contact Us" form on our Sites or surveys relating to your hotel stay) or to communicate with other users of the Services and post comments to or otherwise interact with certain aspects of the Services that are available to the public and/or other users. We will process any information you submit, post or provide in the course of such activities to respond to your comments or feedback. In the event you contact one of our properties or customer call centers, we may process information related to conversations, including recording or monitoring customer service calls for quality assurance and training purposes, and to verify your identity.
+
+**Application Information:** When you apply for membership to any of our golf courses, clubs or loyalty programs, or submit an application(s) in connection with the rental or purchase of a property to our realty or brokerage service, we process information that you choose to provide to us through your application process, which may include your name, email address, mailing address, phone number, gender, date of birth, dependent information and references.
+
+**Third Party Platform Information:** If you access the Services by logging in using your account credentials from a third-party owned or operated platform/service (e.g., Apple (iTunes, etc.), Spotify, OpenTable, Facebook, Twitter, LinkedIn, etc.) (each, a "Third Party Platform"), post content from our Sites or Apps to a social network, or use various social media features (e.g., "Like" button), we may process certain information from the Third Party Platform, such as your username, "likes", location, birthday, check-ins, comments and reviews, direct messages you may send to us, interests, photos, friends, status updates and other information you provided to the Third Party Platform in connection with your account. Depending on your account and privacy settings, we may also be able to see information that you post when using these Third Party Platforms whether or not you are using our Services. The information you post or provide to Third Party Platforms, as well as the controls surrounding these disclosures are governed by the respective policies of these third parties.
+
+**Advertising Data:** We may also use the services of trusted third parties, including advertising networks, social media networks, data exchanges, traffic measurement service providers and marketing analytics service providers to, for example, serve you advertisements on the Services or while using other websites, populate user-specific advertisements and/or measure and analyze advertising effectiveness and/or traffic on or in connection with the Services ("Third Party Advertising Providers"). Third Party Advertising Providers enable us to provide you with more useful advertisements about our Services which are tailored specifically to your interests or to individuals with similar characteristics to our customers and users, including by using tools like Google's "Customer Match" ([click here](https://support.google.com/adwords/answer/6379332?hl=en) for more information) or Facebook "Custom Audiences" ([click here](https://www.facebook.com/business/help/381385302004628/) for more information). These tools combine information you have provided to us through your use of our Services with other data processed about you through third party sites, permitting you to view personalized advertisements about our portfolio of Trump brands on other websites you browse or when you are searching for similar products or services. Additionally, we may use platform tools like Facebook's "Lookalike Audiences" ([click here](https://www.facebook.com/business/help/231114077092092/) for more information) to share information you have provided us with social media sites to create "lookalike audiences" (i.e., users with similar characteristics to our customers or like-minded consumers) and provide such users with tailored advertisements about our brands. When using these tools, we only share limited information with Third Party Advertising Providers in hashed, non-human readable form. You can withdraw your consent to this use of hashed portions of your personal information at any time by clicking [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Third Party Advertising Providers may use their own cookies and other tracking technologies. Trump does not control these Third Party Advertising Providers and/or their use of cookies, which is instead governed by the privacy policies and/or cookie policies of any such Third Party Advertising Provider.
+
+**Browsing Information, Logs, Usage Data and Other Device Information:** When you visit our Sites and use our Apps, we may process information about your activities on our Sites and Apps through the use of technology such as cookies, web beacons and other tracking technologies, as further explained in Sections 13 - 17 below. Providing this information is not mandatory and cookies can be disabled by clicking here Cookie Settings. However, please note that our Sites and Apps may not offer the same functionalities when certain cookies are disabled.
+
+**How Do We Use the Personal Data We Process?**
 
 We may process your personal data (depending on your interaction with us) for any reason that is permitted under data protection laws in accordance with this Privacy & Cookie Policy, which may include the purposes below. Note that the legal bases outlined below are required to be included under European Union (EU) data protection laws, but are not required to be included if you do not reside in the EU.
 
-  * **To fulfill our contractual obligations under an existing agreement with you to provide you with products and services you requested, or in anticipation of entering into such an agreement with you** , including, without limatation:
+**To fulfill our contractual obligations under an existing agreement with you to provide you with products and services you requested, or in anticipation of entering into such an agreement with you** , including, without limatation:
 
-    * To complete and fulfill your hotel reservation and stay, including, processing your payment, providing you with information relating your stay, sending you booking confirmations, cancellations, modifications or pre-arrival/post-arrival messages, and providing you with other information about the area and property in which you are going to stay;
-    * To communicate with you about your account, transactions, applications, the Sites and the Services;
-    * To respond to requests for information and services, including services from a third party (such as restaurants or transportation providers);
-    * To administer the Trump Card loyalty program, including sending you information about your account status and provide you with the benefits of the loyalty program;
-    * To manage, evaluate and administer applications you have submitted to us for membership and/or rental or purchase of real estate;
-    * To fulfill orders and provide you with products and services you have requested and/or paid for, including for our accounting, auditing or other internal functions, and to offer you an overview of your transactional history;
-    * To manage and administer your accounts, including sending you transaction-related emails for such things as account verification, purchase and billing confirmation, processing membership dues, and contacting references you provide;
-    * To enforce your legal rights under an agreement; and
-    * To provide you with an estimate for our products or services.
-  * **To pursue our legitimate business interests,** including, without limitation:
+To complete and fulfill your hotel reservation and stay, including, processing your payment, providing you with information relating your stay, sending you booking confirmations, cancellations, modifications or pre-arrival/post-arrival messages, and providing you with other information about the area and property in which you are going to stay;
 
-    * To provide you with a more personalized level of service, including information and services related to the products and services you purchase from us, available from a trusted third party (such as on-site restaurants and spas, local attractions and transportation options);
-    * To manage our business needs, such as monitoring, analyzing, modifying and improving our Services’, including the Sites’, functionality and performance, including changes/updates to features of the Sites/Apps, technical and security notices;
-    * For the security and safety of our guests, members and visitors, and for purposes of fraud prevention, including preventing fraud and abuse on and unauthorized access to the Services and Sites;
-    * To provide you with information about products and services you have purchased or indicated your interest in;
-    * To determine which features and functionality of the Services users like best to help us operate, enhance and improve the Services, including by asking you to participate in a survey relating your use of the Services;
-    * To respond to any customer service requests, such as resolving your problems or responding to your questions, managing any complaints or feedback you provide;
-    * For statistical analysis of aggregated data to help us segmenting our offering and develop our Services;
-    * To better understand the way in which our Sites and Apps are working and offer you a better Site and/or App user experience, to create statistics in relation to the use of our Sites, Apps and our Services generally;
-    * To help us diagnose technical issues and problems related to our Services;
-    * To grow our business, including our portfolio of Trump branded properties, products and services;
-    * To get to know our potential and existing guests, members, clients, consumers, and users; and
-    * To identify relevant content shared with potential and current users.
-  * **To comply with our regulatory and legal obligations or to enforce our legal rights,** including, without limitation:
+To communicate with you about your account, transactions, applications, the Sites and the Services;
 
-    * To meet reporting requirements (e.g. filing tax forms);
-    * To retain documents and information related to a legal action;
-    * To enforce the Terms of Service; and
-    * To report data breaches or unauthorized access to the Services.
-  * **With your consent*,** including, without limitation:
+To respond to requests for information and services, including services from a third party (such as restaurants or transportation providers);
 
-    * To provide location-specific functionality, features, services or offers;
-    * To market to you by delivering marketing materials about our Trump brands, products and services, as well as the products and services of unaffiliated third party businesses;
-    * To display online advertising and marketing information based on your use of the Services and other websites services and platforms that you have visited;
-    * To provide you with tailored advertisements about our Trump portfolio of brands on third party websites, we may provide your personal information to Third Party Advertising Providers that combine such data with information collected by third-parties to send you advertisements on our Sites and third party websites, about our exclusive offers, brand news and events tailored to you and your interests;
-    * To provide personalized services offered by us on third-party websites and online services;
-    * To enable you to connect with others who use our Services; and
-    * For other purposes for which you may grant consent.
+To administer the Trump Card loyalty program, including sending you information about your account status and provide you with the benefits of the loyalty program;
 
+To manage, evaluate and administer applications you have submitted to us for membership and/or rental or purchase of real estate;
 
+To fulfill orders and provide you with products and services you have requested and/or paid for, including for our accounting, auditing or other internal functions, and to offer you an overview of your transactional history;
+
+To manage and administer your accounts, including sending you transaction-related emails for such things as account verification, purchase and billing confirmation, processing membership dues, and contacting references you provide;
+
+To enforce your legal rights under an agreement; and
+
+To provide you with an estimate for our products or services.
+
+**To pursue our legitimate business interests,** including, without limitation:
+
+To provide you with a more personalized level of service, including information and services related to the products and services you purchase from us, available from a trusted third party (such as on-site restaurants and spas, local attractions and transportation options);
+
+To manage our business needs, such as monitoring, analyzing, modifying and improving our Services’, including the Sites’, functionality and performance, including changes/updates to features of the Sites/Apps, technical and security notices;
+
+For the security and safety of our guests, members and visitors, and for purposes of fraud prevention, including preventing fraud and abuse on and unauthorized access to the Services and Sites;
+
+To provide you with information about products and services you have purchased or indicated your interest in;
+
+To determine which features and functionality of the Services users like best to help us operate, enhance and improve the Services, including by asking you to participate in a survey relating your use of the Services;
+
+To respond to any customer service requests, such as resolving your problems or responding to your questions, managing any complaints or feedback you provide;
+
+For statistical analysis of aggregated data to help us segmenting our offering and develop our Services;
+
+To better understand the way in which our Sites and Apps are working and offer you a better Site and/or App user experience, to create statistics in relation to the use of our Sites, Apps and our Services generally;
+
+To help us diagnose technical issues and problems related to our Services;
+
+To grow our business, including our portfolio of Trump branded properties, products and services;
+
+To get to know our potential and existing guests, members, clients, consumers, and users; and
+
+To identify relevant content shared with potential and current users.
+
+**To comply with our regulatory and legal obligations or to enforce our legal rights,** including, without limitation:
+
+To meet reporting requirements (e.g. filing tax forms);
+
+To retain documents and information related to a legal action;
+
+To enforce the Terms of Service; and
+
+To report data breaches or unauthorized access to the Services.
+
+**With your consent*,** including, without limitation:
+
+To provide location-specific functionality, features, services or offers;
+
+To market to you by delivering marketing materials about our Trump brands, products and services, as well as the products and services of unaffiliated third party businesses;
+
+To display online advertising and marketing information based on your use of the Services and other websites services and platforms that you have visited;
+
+To provide you with tailored advertisements about our Trump portfolio of brands on third party websites, we may provide your personal information to Third Party Advertising Providers that combine such data with information collected by third-parties to send you advertisements on our Sites and third party websites, about our exclusive offers, brand news and events tailored to you and your interests;
+
+To provide personalized services offered by us on third-party websites and online services;
+
+To enable you to connect with others who use our Services; and
+
+For other purposes for which you may grant consent.
 
 ***You can withdraw your consent at any time by following the steps inSection 7 of this Privacy & Cookie Policy.**
 
-* **With Whom Do We Share Your Personal Data?**
+**With Whom Do We Share Your Personal Data?**
 
 In connection with our global operations, we may share information we collect from you or about you with some of our affiliates, licensees and third party service providers as necessary to assist us in providing the Services to you, as set forth in more detail below:
 
-  * **Our Group Entities:** We may disclose your personal data to our group entities that are affiliates and/or subsidiaries or parents of Trump in order to provide you with tailored products, services and communications.
-  * **Authorized Licensees, Partners and Co-Brokers:** We may disclose your personal information to authorized licensees, partners and co-brokers in connection with the Services, including with respect to a reservation you book through us or real estate you desire to purchase or rent, to co-brokers, or developers, owners, and managers of Trump-branded or licensed real estate, including with owners of hotels or condominiums that we manage but do not own, to provide you with Services you request and to enable an authorized licensee or partner to operate the business that it licenses. Please note that if you visit a website operated by an authorized licensee, partner or co-broker, any personal information you provide through that website will be subject to the privacy policy of that authorized licensee and not to this Privacy & Cookie Policy.
-  * **Service Providers:** We may partner with other companies to help us operate certain aspects of our businesses, including the hosting of our Sites and Apps, operation of our technology infrastructure, processing of payments and reservations, and fulfillment certain of the services or products you request from us. We carefully select such third party operators, merchants, website hosts, service providers and participants to your transactions, including our on-property service providers, such as our spa operators, restaurants, valets and concierge services, for the purpose of (1) assisting with facilitating transactions on or through the Services, (2) providing information technology and customer service assistance, and (3) providing, offering, supporting, administering, maintaining and enabling the Services (including providing a full range of content, activities, services, features and functions offered on or in connection with the Services).
-  * **Advertising Providers:** In order to provide you with marketing and exclusive offers, including emails and advertisements tailored to you and your interests on and off the Services, we may provide your information to Third Party Advertising Providers.
-  * **Co-Sponsors of Promotions:** From time to time, we may co-sponsor promotions, sweepstakes, prize draws, competitions or contests with other companies. If you enter one of these sweepstakes or contests, we may share your information with the co-sponsor or third-party sponsor.
-  * **Credit Authorization:** When you submit an application for the purchase or rental of real estate, or membership at one our golf courses or clubs, your personal information will be used and disclosed to appropriate third parties in accordance with applicable laws for the purpose of determining your credit worthiness and whether to approve your application.
-  * **Corporate Transactions or Events:** We may disclose your personal data in connection with a merger, sale of substantially all of our assets or stock, joint venture, transfer, corporate reorganization or other disposition of our business.
-  * **Pursuant to Law, Rule or Regulation:** We may share or disclose your information with other parties as we deem necessary or appropriate under applicable law, rule or regulation. Examples of these purposes include: to respond to requests from public, governmental and regulatory authorities, to comply with court orders, to obtain legal remedies or limit our damages, to enforce this Privacy & Cookie Policy or the Terms of Use, and to protect the rights, safety and/or property of you, our employees or others.
-  * **To Fulfill Your Requests:** If you elect to use certain authentication or sharing features available on the Sites or via the Services, we may use your personal data to fulfill your request to share content with or provide access to such third parties (e.g. Facebook, LinkedIn, or Twitter).
+**Our Group Entities:** We may disclose your personal data to our group entities that are affiliates and/or subsidiaries or parents of Trump in order to provide you with tailored products, services and communications.
 
+**Authorized Licensees, Partners and Co-Brokers:** We may disclose your personal information to authorized licensees, partners and co-brokers in connection with the Services, including with respect to a reservation you book through us or real estate you desire to purchase or rent, to co-brokers, or developers, owners, and managers of Trump-branded or licensed real estate, including with owners of hotels or condominiums that we manage but do not own, to provide you with Services you request and to enable an authorized licensee or partner to operate the business that it licenses. Please note that if you visit a website operated by an authorized licensee, partner or co-broker, any personal information you provide through that website will be subject to the privacy policy of that authorized licensee and not to this Privacy & Cookie Policy.
 
+**Service Providers:** We may partner with other companies to help us operate certain aspects of our businesses, including the hosting of our Sites and Apps, operation of our technology infrastructure, processing of payments and reservations, and fulfillment certain of the services or products you request from us. We carefully select such third party operators, merchants, website hosts, service providers and participants to your transactions, including our on-property service providers, such as our spa operators, restaurants, valets and concierge services, for the purpose of (1) assisting with facilitating transactions on or through the Services, (2) providing information technology and customer service assistance, and (3) providing, offering, supporting, administering, maintaining and enabling the Services (including providing a full range of content, activities, services, features and functions offered on or in connection with the Services).
+
+**Advertising Providers:** In order to provide you with marketing and exclusive offers, including emails and advertisements tailored to you and your interests on and off the Services, we may provide your information to Third Party Advertising Providers.
+
+**Co-Sponsors of Promotions:** From time to time, we may co-sponsor promotions, sweepstakes, prize draws, competitions or contests with other companies. If you enter one of these sweepstakes or contests, we may share your information with the co-sponsor or third-party sponsor.
+
+**Credit Authorization:** When you submit an application for the purchase or rental of real estate, or membership at one our golf courses or clubs, your personal information will be used and disclosed to appropriate third parties in accordance with applicable laws for the purpose of determining your credit worthiness and whether to approve your application.
+
+**Corporate Transactions or Events:** We may disclose your personal data in connection with a merger, sale of substantially all of our assets or stock, joint venture, transfer, corporate reorganization or other disposition of our business.
+
+**Pursuant to Law, Rule or Regulation:** We may share or disclose your information with other parties as we deem necessary or appropriate under applicable law, rule or regulation. Examples of these purposes include: to respond to requests from public, governmental and regulatory authorities, to comply with court orders, to obtain legal remedies or limit our damages, to enforce this Privacy & Cookie Policy or the Terms of Use, and to protect the rights, safety and/or property of you, our employees or others.
+
+**To Fulfill Your Requests:** If you elect to use certain authentication or sharing features available on the Sites or via the Services, we may use your personal data to fulfill your request to share content with or provide access to such third parties (e.g. Facebook, LinkedIn, or Twitter).
 
 We are committed to building relationships with third parties who are dedicated to providing you a safe and satisfying experience. We only provide such third parties with access to your information to the extent reasonably necessary for them to provide the services for which they are contractually engaged to provide. We request that all of our service providers maintain commercially reasonable standards of security and confidentiality and must agree to keep such information secure and confidential in line with this Privacy & Cookie Policy.
 
-* **How Will We Protect Your Personal Data?**
+**How Will We Protect Your Personal Data?**
 
 While no data transmission over the internet or wireless networks is 100% secure from intrusion, we maintain and have implemented reasonable physical, electronic, technical and procedural security policies and measures to protect the personal data that we process, which are consistent with applicable privacy and security laws. These policies and measures are designed to prevent against loss, misuse, unauthorized access, modification and disclosure and unlawful destruction of your personal data. The security measures can change and be modified over time, but generally include, but are not limited to, firewalls, data encryption, physical access controls to our data centers, servers and hardware and information access authorization controls, regular testing and updating of the systems and training programs.
 
 While we are dedicated to securing your personal data and our systems and Services, you are responsible for securing and maintaining the privacy of your credentials (e.g. user name, password or account information) and verifying that personal data we maintain about you is accurate and current. It is your responsibility to give us current, complete, truthful and accurate information, and to keep such information up to date. We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information, or you fail to update such information. We will reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this Privacy & Cookie Policy.
 
-* **How Long Do We Keep Your Personal Data?**
+**How Long Do We Keep Your Personal Data?**
 
 We access, retain, store and use personal data for the least amount of time necessary pursuant to our relationship with you (e.g. to provide you with or access to our products and services), in accordance with our data retention policies and applicable law. We do not process more personal data than is necessary to fulfill our obligations to you or at law or for purposes stated in this Privacy & Cookie Policy.
 
-* **What Rights and Choices Do You Have with Regard to Your Personal Data?**
+**What Rights and Choices Do You Have with Regard to Your Personal Data?**
 
 If you are an EU citizen or reside in the EU, you may have certain additional rights with respect to the personal data you provided to us. To the extent permitted by applicable data protection laws, under EU laws you may:
 
-  * Access or modify your personal data;
-  * Object, on grounds relating to your particular situation, at any time to the processing of your personal data if the legal ground we are relying on is our legitimate interest or in the public interest;
-  * Request that your personal data be erased if it is no longer necessary for the purposes for which it was processed, you have withdrawn consent to, or object to, the processing of such personal data and we meet no other legitimate basis for such processing or it has been unlawfully processed;
-  * Restrict the processing of your personal data if you contest its accuracy or the lawfulness of our processing, we no longer need it but you need it for a legal claim or you have objected to its processing and await verification of our legitimate grounds for processing it;
-  * Stop receiving our marketing communications. If you opt out of marketing emails, you will continue to receive messages from us about your relationship with us where permitted by law;
-  * Under certain circumstances, have your personal data transferred to another company; and
-  * Withdraw any consents that you have previously provided to allow us to process your personal data.
+Access or modify your personal data;
 
+Object, on grounds relating to your particular situation, at any time to the processing of your personal data if the legal ground we are relying on is our legitimate interest or in the public interest;
 
+Request that your personal data be erased if it is no longer necessary for the purposes for which it was processed, you have withdrawn consent to, or object to, the processing of such personal data and we meet no other legitimate basis for such processing or it has been unlawfully processed;
 
-If you wish to exercise any of these rights please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#89f9fbe0ffe8eaf0c9fdfbfce4f9e6fbeea7eae6e4) Although we urge you to contact us to find a solution for every concern you may have, you always have the right to lodge a complaint with your competent data protection authority. Please note that some requests may require you to verify your identity.
+Restrict the processing of your personal data if you contest its accuracy or the lawfulness of our processing, we no longer need it but you need it for a legal claim or you have objected to its processing and await verification of our legitimate grounds for processing it;
+
+Stop receiving our marketing communications. If you opt out of marketing emails, you will continue to receive messages from us about your relationship with us where permitted by law;
+
+Under certain circumstances, have your personal data transferred to another company; and
+
+Withdraw any consents that you have previously provided to allow us to process your personal data.
+
+If you wish to exercise any of these rights please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1262607b6473716b526660677f627d60753c717d7f) Although we urge you to contact us to find a solution for every concern you may have, you always have the right to lodge a complaint with your competent data protection authority. Please note that some requests may require you to verify your identity.
 
 **How to Unsubscribe from Trump Hotels' Marketing:** If you want to unsubscribe from receiving tailored advertisements on third party sites (as described in "Advertising Data" in Section 2) [Developer Please Hyperlink] and/or marketing emails sent by or on behalf of Trump Hotels, you can do so by visiting our email subscription center or by following the instructions in any such marketing email you receive from us.
 
@@ -139,61 +222,60 @@ If you wish to exercise any of these rights please contact us at [[email protec
 
 **Modifying Privacy Settings:** You also may be able to adjust certain privacy, permission and user account settings under the Trump Hotels emails subscription center, by responding to request alerts or notifications on your Device or by navigating to the settings, account or privacy section (as the case may be) of your Device or the applicable Third Party Platform and limiting certain Service functionality (e.g., location services, etc.). Please be aware that if you limit the collection of certain information, you may not be able to use all of the features and functionality of the Services.
 
-* **Will Personal Data be Transferred Outside of the European Economic Area ( EEA)?**.
+**Will Personal Data be Transferred Outside of the European Economic Area (EEA)?**.
 
 Our operations are supported by a network of computers, cloud-based servers, and other infrastructure and information technology, including, but not limited to, third-party service providers. We and some of our subsidiaries and affiliates, servers, vendors and service providers may not be located in your jurisdiction and may also be located outside of the European Economic Area and Switzerland. If you are an EU citizen or resident in the EU, we will transfer your personal data to the United States in accordance with EU data protection law requirements by using model contractual clauses that have been approved by the European Commission or other appropriate means.
 
-Please note that such transfers may also be necessary in order to perform our obligations under a contract with you, to fulfill a request made by you, to meet a legal or regulatory obligation and/or through obtaining you express consent. If you make transactions with parties outside the EEA or Switzerland or connect our Service with platforms, such as Facebook, outside the EEA or Switzerland, we are required to transfer your Personal Data with those parties in order to provide the requested Service to you. If you wish to gain more information about such transfers, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bececcd7c8dfddc7fecacccbd3ced1ccd990ddd1d3).
+Please note that such transfers may also be necessary in order to perform our obligations under a contract with you, to fulfill a request made by you, to meet a legal or regulatory obligation and/or through obtaining you express consent. If you make transactions with parties outside the EEA or Switzerland or connect our Service with platforms, such as Facebook, outside the EEA or Switzerland, we are required to transfer your Personal Data with those parties in order to provide the requested Service to you. If you wish to gain more information about such transfers, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fa8a88938c9b9983ba8e888f978a95889dd4999597).
 
-* **Can Children Use Our Sites and Apps?**.
+**Can Children Use Our Sites and Apps?**.
 
-Our Sites and our Apps are not directed to children under the age of majority. We do not knowingly collect information via our Sites and Apps from children or other individuals who are not legally able to use our Sites and/or our Apps. If we obtain actual knowledge that we have collected personal data from someone under the age of majority, we will promptly delete it, unless we are legally obligated to retain such data. If you believe that we have mistakenly or unintentionally collected information from someone under the age of majority, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ff8f8d96899e9c86bf8b8d8a928f908d98d19c9092). For users in the United States, please also visit [ftc.gov](https://www.ftc.gov/) for information from the Federal Trade Commission about protecting children’s privacy online.
+Our Sites and our Apps are not directed to children under the age of majority. We do not knowingly collect information via our Sites and Apps from children or other individuals who are not legally able to use our Sites and/or our Apps. If we obtain actual knowledge that we have collected personal data from someone under the age of majority, we will promptly delete it, unless we are legally obligated to retain such data. If you believe that we have mistakenly or unintentionally collected information from someone under the age of majority, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7c0c0e150a1d1f053c080e09110c130e1b521f1311). For users in the United States, please also visit [ftc.gov](https://www.ftc.gov/) for information from the Federal Trade Commission about protecting children’s privacy online.
 
-* **What Are My California Privacy Rights?**.
+**What Are My California Privacy Rights?**.
 
-If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options such as your right to opt-out (which we may sometimes refer to as “unsubscribe”), as described in Section 7, or opt-in for use of your information by third parties (such as advertisers) for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your information for marketing purposes during the preceding year. If you are a California resident and you wish to request information about how to exercise your third party disclosure choices, **please submit your request at[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6717150e1106041e271315120a170815004904080a) or by postal mail to The Trump Organization, c/o Privacy Administrator, 725 Fifth Avenue, New York, New York, 10022, Attn: Your California Privacy Rights.** All requests must be labeled “Your California Privacy Rights” on the email subject line or envelope or post card. For all requests, please clearly state that the request is related to “Your California Privacy Rights”, include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by fax. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. You can always opt-out or unsubscribe by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#097c677a7c6b7a6a7b606b6c497d7b7c6479667b6e276a6664).
+If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options such as your right to opt-out (which we may sometimes refer to as “unsubscribe”), as described in Section 7, or opt-in for use of your information by third parties (such as advertisers) for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your information for marketing purposes during the preceding year. If you are a California resident and you wish to request information about how to exercise your third party disclosure choices, **please submit your request at[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e595978c9384869ca591979088958a9782cb868a88) or by postal mail to The Trump Organization, c/o Privacy Administrator, 725 Fifth Avenue, New York, New York, 10022, Attn: Your California Privacy Rights.** All requests must be labeled “Your California Privacy Rights” on the email subject line or envelope or post card. For all requests, please clearly state that the request is related to “Your California Privacy Rights”, include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by fax. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. You can always opt-out or unsubscribe by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3b4e55484e5948584952595e7b4f494e564b54495c15585456).
 
-* **What Other Information Should You Know?**.
+**What Other Information Should You Know?**.
 
 From time to time, we may modify this Privacy & Cookie Policy to reflect industry initiatives, third party requirements or changes in the law, technology, our information processing practices or the features and functionality of the Services, and such modifications shall be effective upon posting. When we change this Privacy & Cookie Policy in a material way, a notice will be posted on our Site along with the updated Privacy & Cookie Policy. Your continued use of the Services after we post a revised Privacy & Cookie Policy (and, where appropriate, notify you of same) signifies your acceptance of the revised Privacy & Cookie Policy. It is therefore important that you review this Privacy & Cookie Policy regularly to ensure you are updated as to any changes. We may continue to process your information based on our legitimate interests or in order to fulfill our obligations under a contract and/or may also seek your affirmative consent to the terms of the updated Privacy & Cookie Policy. For example, we may ask for your consent before implementing new uses of the personal data that we’ve already collected from you based on such consent, if such new use was not addressed by the privacy policy under which such information was collected or if our legal basis for processing such information changes.
 
 The Services may be linked to, rely on and/or be integrated with websites, applications, interfaces, services and/or platforms operated by third party companies, including service providers, Third Party Platforms and developers/owners of certain Trump-branded properties. The Services may also feature advertisements from other third parties. Trump is not responsible for the privacy practices of any websites, applications, interfaces, services and platforms operated by such third parties that are linked to, rely on and/or integrated with the Services, or for the privacy practices of third party advertising companies. Once you leave this Services via such a link, access a third party application, interface, service, or platform, including Third Party Platforms and websites operated by service providers or third parties, or click on or navigate to an advertisement, you should check the applicable privacy policy of such third party to determine, among other things, how they will handle any personally identifiable or other information that they may collect from you.
 
-* **How Can You Contact Us?**.
+**How Can You Contact Us?**.
 
 If you have any questions or concerns about our privacy practices, how we handle your personal data or any of the terms or conditions of this Privacy & Cookie Policy, please feel free to contact us at:
 
-By Email: |  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
----|---  
-OR  
-By Mail: |  The Trump Organization  
+By Email:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Mail:The Trump Organization  
 Attn: Privacy Matters  
 725 Fifth Avenue  
-New York, New York 10022  
-* **What Are Cookies?**
+New York, New York 10022
+
+**What Are Cookies?**
 
 A cookie is a small data file that is placed on the hard drive of your Device when you visit a website. Some cookies are functional and enable additional functionality when a user accesses the website (e.g. allows users to save user preferences or language suggestions). Other cookies are non-functional and allow the website and third parties to tailor messages and advertising relevant to a user’s interests. When we refer to cookies, this includes other similar technologies such as flash cookies, pixel tags, web beacons or bugs (including transparent or clear gifs). We use cookies to keep track of how you use our Sites and Services so we may provide a personalized service.
 
-* **What Types of Cookies Do We Use?**.
+**What Types of Cookies Do We Use?**.
 
 We do not place cookies until you elect to continue using our Site after our cookie banner displays.
 
 Our cookie management tool uses Cookiepedia to, with no input from us, automatically categorize cookies that we deploy on our Sites. We use the following types of cookies:
 
-  * _Strictly Necessary Cookies:_ These cookies are necessary for the Sites to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the Site(s) may not work if you choose to do so.
-  * _Performance Cookies:_ These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our Sites. They help us know which pages are the most and least popular and see how visitors move around the Sites. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our Site(s).
-  * _Functional Cookies:_ These cookies allow the provision of enhanced functionality and personalization, such as videos and live chats. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these functionalities may not function properly.
-  * _Targeting Cookies:_ These cookies are set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant ads on other sites. They work by uniquely identifying your browser and Device. If you do not allow these cookies, you will not experience our targeted advertising across different websites.
+_Strictly Necessary Cookies:_ These cookies are necessary for the Sites to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the Site(s) may not work if you choose to do so.
 
+_Performance Cookies:_ These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our Sites. They help us know which pages are the most and least popular and see how visitors move around the Sites. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our Site(s).
 
+_Functional Cookies:_ These cookies allow the provision of enhanced functionality and personalization, such as videos and live chats. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies, then some or all of these functionalities may not function properly.
+
+_Targeting Cookies:_ These cookies are set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant ads on other sites. They work by uniquely identifying your browser and Device. If you do not allow these cookies, you will not experience our targeted advertising across different websites.
 
 For more information about the kinds of cookies we deploy, the purposes and duration for which they are deployed, and how to control the use of cookies on your Device, please see our Cookie Settings here. You can also learn more about cookies and set cookies preferences from [allaboutcookies.org](http://www.allaboutcookies.org/), [www.aboutads.info/choices](http://www.aboutads.info/choices/), and [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-* **What Information Is Processed By Cookies?**.
+**What Information Is Processed By Cookies?**.
 
 The Services are controlled, operated and administered entirely within the United States. If you visit, access, interact with and/or otherwise use the Services from a location outside the United States, please be advised that any information you provide in connection with any such activity may be processed in and/or transferred to the United States of America and/or other territories and locations, where privacy protections may not be as comprehensive as those in the territory or location where you interact with or otherwise use the Services. By using the Services, you affirmatively consent to the transfer, use, disclosure, provision, and other administration of your information as described herein.
 
-* **How Do We Deploy Cookies?**.
+**How Do We Deploy Cookies?**.
 
 **Our Cookies.** We deploy cookies to help us to identify how users navigate to and around our Sites, to track your use of the Site(s) (e.g. to enable us to process your orders) and to enable some of the features within the Sites that may be beneficial to you (e.g. allow you to adjust language preferences or advertising settings), to recognize you when you return to our Sites (this speeds up your access to the Site as you do not have to log in each time), to carry out research and statistical analysis to help improve our content, products and services, to help us better understand your requirements and interests, target our and other Trump brands’ marketing and advertising campaigns more effectively by providing interest-based advertisements that are personalized to your interests, and to make your online experience more efficient and enjoyable. We also use cookies to analyze audience size and user experience. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. Further information is provided in our Cookie Settings here.
 
@@ -201,8 +283,8 @@ The Services are controlled, operated and administered entirely within the Unite
 
 Our use of cookies helps us deliver an effective and personalized online service to you.
 
-* **What Is Our Legal Basis For Processing Information Collected By Cookies?**.
+**What Is Our Legal Basis For Processing Information Collected By Cookies?**.
 
 The information we obtain from our use of cookies may contain your personal data but only where you voluntarily provide it (e.g., by completing an online form, membership application, loyalty application or entering your email address into a subscriber box) or where you purchase goods or services from us. We will process your personal data for required cookies based on our legitimate interests. For performance, functional and targeting cookies, we will process your personal data based on your consent. For more information about how we process your personal information, obtain consent and how you may withdraw consent, please for to Sections 1 -12 of this Privacy & Cookie Policy.
 
-_By continuing to browse on our Site(s) you consent to us deploying cookies as described in this policy. If you do not wish to accept cookies from our Site(s), or would like to stop cookies being stored on your Device in the future, you can change your settings in ourCookie Settings here. Note that changing cookie settings may affect certain features within this Site. If you have any questions about our use of cookies or other technologies or this policy, you may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ea9a98839c8b8993aa9e989f879a85988dc4898587)_
+_By continuing to browse on our Site(s) you consent to us deploying cookies as described in this policy. If you do not wish to accept cookies from our Site(s), or would like to stop cookies being stored on your Device in the future, you can change your settings in ourCookie Settings here. Note that changing cookie settings may affect certain features within this Site. If you have any questions about our use of cookies or other technologies or this policy, you may email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5424263d2235372d1420262139243b26337a373b39)_
