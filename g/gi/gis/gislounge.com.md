@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2018-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180723204250id_/https%3A//www.gislounge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607184609id_/https%3A//www.gislounge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ GIS Lounge
 
@@ -46,4 +46,4 @@ GISLounge.com uses double-optin to ensure that all email addresses on its email 
 
 ## More
 
-While you are checking this out, you are requested to also check out our  _[Copyright](http://www.gislounge.com/copyright/)_ ,  _[Terms of Service](http://www.gislounge.com/terms-of-service/)_  and  _[Disclaimer](http://www.gislounge.com/disclaimer/)_.
+While you are checking this out, you are requested to also check out our  _[Copyright](https://www.gislounge.com/copyright/)_ ,  _[Terms of Service](https://www.gislounge.com/terms-of-service/)_  and  _[Disclaimer](https://www.gislounge.com/disclaimer/)_.
