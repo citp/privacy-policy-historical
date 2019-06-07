@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allodstr.com privacy policy that was archived on 2016-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161205011301id_/http%3A//legal.my.com/us/games/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allodstr.com privacy policy that was archived on 2019-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190607141625id_/https%3A//legal.my.com/us/games/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en_US" class=" js ph-backgroundsize ph-csstransforms3d ph-csstransitions ph-no-svg ph-classlist ph-raf ph-transitionend ph-dpr ph-no-mediadpr ph-no-retina ph-no-mobile"><head>
     <meta charset="UTF-8">
@@ -8,17 +8,17 @@
     <meta name="MobileOptimized" content="320">
     <meta name="HandheldFriendly" content="true">
     <meta id="viewport" name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link rel="stylesheet" type="text/css" href="/css/legal.css?v=20161118.1605-10">
-    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon.ico?v=20161118.1605-10" type="image/x-icon" rel="shortcut icon">
-    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_iphone.png?v=20161118.1605-10" rel="apple-touch-icon">
-    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_ipad.png?v=20161118.1605-10" sizes="76x76" rel="apple-touch-icon">
-    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_iphone@2x.png?v=20161118.1605-10" sizes="114x114" rel="apple-touch-icon">
-    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_ipad@2x.png?v=20161118.1605-10" sizes="152x152" rel="apple-touch-icon">
-    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_ipad@2x.png?v=20161118.1605-10" rel="image_src">
+    <link rel="stylesheet" type="text/css" href="/css/legal.css?v=20190115.1427-19">
+    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon.ico?v=20190115.1427-19" type="image/x-icon" rel="shortcut icon">
+    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_iphone.png?v=20190115.1427-19" rel="apple-touch-icon">
+    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_ipad.png?v=20190115.1427-19" sizes="76x76" rel="apple-touch-icon">
+    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_iphone@2x.png?v=20190115.1427-19" sizes="114x114" rel="apple-touch-icon">
+    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_ipad@2x.png?v=20190115.1427-19" sizes="152x152" rel="apple-touch-icon">
+    <link href="//img.staticmy.com/s/v/i/16/images/favicon/favicon_ipad@2x.png?v=20190115.1427-19" rel="image_src">
     <link rel="canonical" href="https://legal.my.com/us/games/privacy/">
-    <script type="text/javascript" async="" src="//ssl.google-analytics.com/ga.js"></script><script src="/js/jquery.min.js?v=20161118.1605-10"></script>
-<script defer="" async="" type="text/javascript" src="//img.staticmy.com/p/mch/d/0.9.10/external.min.js"></script></head>
-<body>
+    <script type="text/javascript" async="" src="//ssl.google-analytics.com/ga.js"></script><script src="/js/jquery.min.js?v=20190115.1427-19"></script>
+<script defer="" async="" type="text/javascript" src="//img.staticmy.com/p/mch/d/0.9.14/external.min.js"></script></head>
+<body style="">
 <div class="mcBg"></div>
 
     <script>
@@ -57,10 +57,10 @@
     <div class="mcApi">
         <div class="mcTop__bar">
             <span class="mcTop__cookies__text">
-                <%= __('This website uses cookies. By continuing to use the website, you consent to the use of cookies.') %>
-                <a href="//legal.my.com/us/general/tos/" target="_blank"><%= __('More info on our privacy.') %></a>
+                <%= __('By continuing to browse, you consent to our use of cookies.') %>
+                <a href="//legal.my.com/us/general/cookie/" target="_blank"><%= __('You can read our Cookies Policy here.') %></a>
             </span>
-            <a class="mcTop__cookies__btn js_cookies_close" href="#"><%= __('Dismiss') %></a>
+            <a class="mcTop__cookies__btn js_cookies_close" href="#"><%= __('Got it!') %></a>
             <a class="mcTop__bar__close js_cookies_close"></a>
         </div>
     </div>
@@ -88,7 +88,7 @@
         <span itemscope="" itemtype="http://schema.my.com/ph-logo" style="display: none">
             <meta itemprop="project" content="mycom">
             <meta itemprop="position" content="left">
-            <a href="https://my.com" itemprop="url"></a>
+            <a href="https://my.com" itemprop="href"></a>
         </span>
     </div>
 <script type="text/x-template" id="tmplNavigation">
@@ -97,7 +97,7 @@
     <span itemscope itemtype="ht<%%>tp://schema.my.com/ph-logo">
         <meta itemprop="project" content="<%= GMCS.navigation_project_logo || 'games' %>" />
         <meta itemprop="position" content="left" />
-        <a href="//my.com" itemprop="url"></a>
+        <a href="//my.com" itemprop="href"></a>
     </span>
 
     <% if (extraProjectMenu) { %>
@@ -126,6 +126,11 @@
                     <span itemprop="name"><%= __('Log in') %></span>
                     <meta itemprop="cls" content="js_navigation__login_ps_btn mcTop_LoginPs" />
                 </a>
+            <% } else if (GMCS.navigation_xbox_only) { %>
+                <a itemprop="signinurl" href="//<%= Hosts.auth %>/social/xbox?continue=<%= encodeURIComponent(GMCS['continue']) %>&lang=<%= encodeURIComponent(GMCS.lang) %>">
+                    <span itemprop="name"><%= __('Log in') %></span>
+                    <meta itemprop="cls" content="js_navigation__login_xbox_btn mcTop_LoginXbox" />
+                </a>
             <% } else { %>
                 <a itemprop="signinurl" href="//<%= Hosts.account %>/login/?continue=<%= encodeURIComponent(GMCS['continue']) %>&lang=<%= encodeURIComponent(GMCS.lang) %>">
                     <span itemprop="name"><%= __('Log in') %></span>
@@ -135,13 +140,20 @@
             <% if (GMCS.current_mc_user && GMCS.current_mc_user.user_id) { %>
                 <a itemprop="profileurl">
                     <span itemprop="login"><%= Utils.html_escape(Utils.buildUserNick(GMCS.current_mc_user)) %></span>
-                    <meta itemprop="avatar" content="//<%= Hosts.avt %>/<%= GMCS.current_mc_user.user_id %>.45.jpeg" />
+                    <% if (GMCS.current_mc_user.profile_fields.avt_url) { %>
+                        <meta itemprop="avatar" content="<%= GMCS.current_mc_user.profile_fields.avt_url %>" />
+                    <% } else { %>
+                        <meta itemprop="avatar" content="//<%= Hosts.avt %>/<%= GMCS.current_mc_user.user_id %>.45.jpeg" />
+                    <% } %>
                 </a>
                 <span itemscope itemprop="item">
                     <a href="https://<%= Hosts.account %>/profile/userinfo/" itemprop="url">
                         <span itemprop="name"><%= __('My Account') %></span>
                     </a>
                 </span>
+                <% if (extraProfileMenu) { %>
+                    <%= extraProfileMenu %>
+                <% } %>
                 <span itemscope itemprop="item">
                     <a href="https://<%= Hosts.auth %>/logout?continue=<%= encodeURIComponent(GMCS['continue']) %>" itemprop="url">
                         <span itemprop="name"><%= __('Log out') %></span>
@@ -196,7 +208,7 @@
                 theme: 'dark'
             };
         </script>
-        <img src="https://r.my.com/d16722803.gif?sz=40&amp;rnd=208593121&amp;ts=1480900381&amp;sz=40" style="width:0;height:0;position:absolute;visibility:hidden;" alt="">
+        <img src="https://r.my.com/d16722803.gif?sz=40&amp;rnd=194347353&amp;ts=1559916985&amp;sz=40" style="width:0;height:0;position:absolute;visibility:hidden;" alt="">
 
 
 
@@ -210,56 +222,120 @@
 			ph.games.items = [
 				
 					{
+						title: 'Warface',
+						url: 'https://1l-go.my.com/r/adid/2262009_1/pid/101750/pof/1/f/3/?lang=en_US',
+						image: '//games.my.com/uploads/2016/12/30/229d215.png',
+						image_x2: '//games.my.com/uploads/2016/12/30/ad3c94d.png',
+						counter: ''
+					},
+				
+					{
 						title: 'Revelation Online',
-						url: 'https://ro.my.com/about?lang=en_US',
+						url: 'https://1l-go.my.com/r/adid/2261980_1/pid/101470/pof/1/f/3/?lang=en_US',
 						image: '//games.my.com/uploads/2016/06/10/5b52d32.png',
 						image_x2: '//games.my.com/uploads/2016/06/10/4c94405.png',
 						counter: ''
 					},
 				
 					{
+						title: 'Conqueror`s Blade',
+						url: 'https://1l-go.my.com/r/adid/2656826_1/pid/102811/pof/1/f/3/?lang=en_US',
+						image: '//games.my.com/uploads/2018/07/31/4641bb7.png',
+						image_x2: '//games.my.com/uploads/2018/07/31/1b217ed.png',
+						counter: ''
+					},
+				
+					{
 						title: 'Armored Warfare',
-						url: '//aw.my.com/?lang=en_US',
+						url: 'https://1l-go.my.com/r/adid/2262018_1/pid/100050/pof/1/f/3/?lang=en_US',
 						image: '//games.my.com/uploads/2015/07/01/9bfbf54.png',
 						image_x2: '//games.my.com/uploads/2015/07/01/270f3e0.png',
 						counter: ''
 					},
 				
 					{
-						title: 'CLOUD PIRATES',
-						url: 'https://pirates.my.com/en/about?lang=en_US',
-						image: '//games.my.com/uploads/2016/08/31/0964d02.png',
-						image_x2: '//games.my.com/uploads/2016/08/31/0513ec2.png',
+						title: 'VR Invaders',
+						url: 'https://1l-go.my.com/r/adid/2262160_1/pid/101689/pof/1/f/3/?lang=en_US',
+						image: '//games.my.com/uploads/2016/12/15/4806c78.png',
+						image_x2: '//games.my.com/uploads/2016/12/15/d048880.png',
 						counter: ''
 					},
 				
 					{
 						title: 'Skyforge',
-						url: '//sf.my.com/?lang=en_US',
+						url: 'https://1l-go.my.com/r/adid/2262019_1/pid/100052/pof/1/f/3/?lang=en_US',
 						image: '//games.my.com/uploads/2016/10/06/0be64a2.png',
 						image_x2: '//games.my.com/uploads/2016/10/06/cfbb44f.png',
 						counter: ''
 					},
 				
 					{
+						title: 'Ashes Of Creation',
+						url: 'https://1l-go.my.com/r/adid/2670873_1/pid/102882/pof/1/f/3/?lang=en_US',
+						image: '//games.my.com/uploads/2018/09/03/fa6c103.png',
+						image_x2: '//games.my.com/uploads/2018/09/03/8523b5c.png',
+						counter: ''
+					},
+				
+					{
 						title: 'Allods Online',
-						url: 'http://allods.my.com/splash-screen/?lang=en_US',
+						url: 'https://1l-go.my.com/r/adid/2262023_1/pid/100199/pof/1/f/1/?lang=en_US',
 						image: '//games.my.com/uploads/2016/05/23/961a3da.png',
 						image_x2: '//games.my.com/uploads/2016/05/23/e8837ed.png',
 						counter: ''
 					},
 				
 					{
+						title: 'HAWK',
+						url: 'https://1l-go.mail.ru/r/adid/2638036_0/sipn/source/pid/101627/pof/1/f/3/url/https%3A%2F%2Fhawk.my.com%2F?lang=en_US',
+						image: '//games.my.com/uploads/2017/05/22/eac399f.png',
+						image_x2: '//games.my.com/uploads/2017/05/22/176a556.png',
+						counter: ''
+					},
+				
+					{
+						title: 'Hustle Castle',
+						url: 'https://1l-go.mail.ru/r/adid/2638039_0/sipn/source/pid/101585/pof/1/f/3/url/hc.my.com%2F?lang=en_US',
+						image: '//games.my.com/uploads/2017/11/15/20e2424.png',
+						image_x2: '//games.my.com/uploads/2017/11/15/1ad5fae.png',
+						counter: ''
+					},
+				
+					{
 						title: 'Juggernaut Wars',
-						url: '//jw.my.com/?lang=en_US',
+						url: 'https://1l-go.mail.ru/r/adid/2257850_2007735/sipn/source/pid/101320/pof/1/f/3/?lang=en_US',
 						image: '//games.my.com/uploads/2016/01/22/bc90460.png',
 						image_x2: '//games.my.com/uploads/2016/01/22/b9b64e8.png',
 						counter: ''
 					},
 				
 					{
+						title: 'Evolution 2',
+						url: 'https://1l-go.mail.ru/r/adid/2834082_0/sipn/source/pid/102603/pof/1/f/3/url/https%3A%2F%2Fevo2.my.com%2Fen?lang=en_US',
+						image: '//games.my.com/uploads/2019/06/04/5480130.png',
+						image_x2: '//games.my.com/uploads/2019/06/04/77219fb.png',
+						counter: ''
+					},
+				
+					{
+						title: 'Jungle Heat',
+						url: 'https://1l-go.mail.ru/r/adid/2257848_2008996/sipn/source/pid/384/pof/1/f/3/?lang=en_US',
+						image: '//games.my.com/uploads/2015/07/02/33b48ea.png',
+						image_x2: '//games.my.com/uploads/2015/07/02/daba993.png',
+						counter: ''
+					},
+				
+					{
+						title: 'Left to Survive',
+						url: 'https://trk.mail.ru/c/kicfu1?lang=en_US',
+						image: '//games.my.com/uploads/2018/10/03/490b4e9.png',
+						image_x2: '//games.my.com/uploads/2018/10/03/8558bd3.png',
+						counter: ''
+					},
+				
+					{
 						title: 'Juggernaut Champions',
-						url: '//jch.my.com/en/?lang=en_US',
+						url: 'https://1l-go.mail.ru/r/adid/2257853_2008995/sipn/source/pid/101529/pof/1/f/3/?lang=en_US',
 						image: '//games.my.com/uploads/2016/10/10/f3eccfe.png',
 						image_x2: '//games.my.com/uploads/2016/10/10/3b71d1e.png',
 						counter: ''
@@ -267,7 +343,7 @@
 				
 					{
 						title: 'Evolution',
-						url: '//evo.my.com/en/?lang=en_US',
+						url: 'https://1l-go.mail.ru/r/adid/2257852_2008992/sipn/source/pid/393/pof/1/f/3/?lang=en_US',
 						image: '//games.my.com/uploads/2015/07/01/755874a.png',
 						image_x2: '//games.my.com/uploads/2015/07/01/4536e1a.png',
 						counter: ''
@@ -275,23 +351,15 @@
 				
 					{
 						title: 'Heroes of Utopia',
-						url: 'https://hou.my.com/?lang=en_US',
+						url: 'https://1l-go.mail.ru/r/adid/2257851_2008993/sipn/source/pid/101322/pof/1/f/3/?lang=en_US',
 						image: '//games.my.com/uploads/2015/11/18/391b725.png',
 						image_x2: '//games.my.com/uploads/2015/11/18/3d1b362.png',
 						counter: ''
 					},
 				
 					{
-						title: 'Jungle Heat',
-						url: '//jh.my.com?lang=en_US',
-						image: '//games.my.com/uploads/2015/07/02/33b48ea.png',
-						image_x2: '//games.my.com/uploads/2015/07/02/daba993.png',
-						counter: ''
-					},
-				
-					{
 						title: 'Iron Desert',
-						url: '//id.my.com/en/?lang=en_US',
+						url: 'https://1l-go.mail.ru/r/adid/2257854_2008994/sipn/source/pid/100154/pof/1/f/3/?lang=en_US',
 						image: '//games.my.com/uploads/2015/07/01/fd95111.png',
 						image_x2: '//games.my.com/uploads/2015/07/01/26f1a65.png',
 						counter: ''
@@ -299,33 +367,57 @@
 				
 					{
 						title: 'Poker Arena',
-						url: '//poker.my.com/en/?lang=en_US',
+						url: 'https://1l-go.mail.ru/r/adid/2257855_2008990/sipn/source/pid/368/pof/1/f/3/?lang=en_US',
 						image: '//games.my.com/uploads/2015/07/01/6a7e362.png',
 						image_x2: '//games.my.com/uploads/2015/07/01/68697d0.png',
 						counter: ''
 					},
 				
 					{
-						title: 'Jungle Clash',
-						url: '//jc.my.com/en/?lang=en_US',
-						image: '//games.my.com/uploads/2016/04/25/8e8710a.png',
-						image_x2: '//games.my.com/uploads/2016/04/25/7f719bd.png',
+						title: 'Skyforge PS4',
+						url: 'https://1l-go.my.com/r/adid/2638055_1/pid/101751/pof/1/f/3/?lang=en_US',
+						image: '//games.my.com/uploads/2018/12/04/f2e00f8.png',
+						image_x2: '//games.my.com/uploads/2018/12/04/af991c0.png',
 						counter: ''
 					},
 				
 					{
-						title: 'Planet Of Heroes',
-						url: 'https://moba.my.com/?lang=en_US',
-						image: '//games.my.com/uploads/2016/08/10/3761c14.png',
-						image_x2: '//games.my.com/uploads/2016/08/10/5ca373d.png',
+						title: 'Skyforge XBOX',
+						url: 'https://1l-go.my.com/r/adid/2636081_1/pid/102390/pof/1/f/3/?lang=en_US',
+						image: '//games.my.com/uploads/2018/12/04/33ffc08.png',
+						image_x2: '//games.my.com/uploads/2018/12/04/a39fb47.png',
 						counter: ''
 					},
 				
 					{
-						title: 'Might and Glory',
-						url: '//mg.my.com/en/?lang=en_US',
-						image: '//games.my.com/uploads/2015/09/10/28066e2.png',
-						image_x2: '//games.my.com/uploads/2015/09/10/8569c5a.png',
+						title: 'Warface PS4',
+						url: 'https://1l-go.my.com/r/adid/2735188_1/pid/102665/pof/1/f/3/?lang=en_US',
+						image: '//games.my.com/uploads/2018/12/04/6f0ce55.png',
+						image_x2: '//games.my.com/uploads/2018/12/04/73474c1.png',
+						counter: ''
+					},
+				
+					{
+						title: 'Warface XBOX',
+						url: 'https://1l-go.my.com/r/adid/2735190_1/pid/102779/pof/1/f/3/?lang=en_US',
+						image: '//games.my.com/uploads/2018/12/04/1982305.png',
+						image_x2: '//games.my.com/uploads/2018/12/04/74b47b8.png',
+						counter: ''
+					},
+				
+					{
+						title: 'ARMORED WARFARE PS4',
+						url: 'https://1l-go.my.com/r/adid/2637948_1/pid/101753/pof/1/f/3/?lang=en_US',
+						image: '//games.my.com/uploads/2018/12/04/daeb6ff.png',
+						image_x2: '//games.my.com/uploads/2018/12/04/09a5d4c.png',
+						counter: ''
+					},
+				
+					{
+						title: 'ARMORED WARFARE XBOX',
+						url: 'https://1l-go.my.com/r/adid/2735186_1/pid/102764/pof/1/f/3/?lang=en_US',
+						image: '//games.my.com/uploads/2018/12/04/a2d4f54.png',
+						image_x2: '//games.my.com/uploads/2018/12/04/d204f28.png',
 						counter: ''
 					}
 				
@@ -333,48 +425,48 @@
 		}(window.__PHS || (window.__PHS = {}));
 	</script>
 
-<style>.ph-font-preloader{position:absolute;left:-100px;top:-100px;width:1px;height:1px;overflow:hidden;font-family:Open sans}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bold-webfont.eot");src:local('Open Sans Bold'),local('OpenSans-Bold'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bold-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bold-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bold-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bold-webfont.svg#open_sansbold") format('svg');font-weight:700;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.eot");src:local('Open Sans Bold Italic'),local('OpenSans-BoldItalic'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.svg#open_sansbold_italic") format('svg');font-weight:700;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.eot");src:local('Open Sans Extrabold'),local('OpenSans-Extrabold'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.svg#open_sansextrabold") format('svg');font-weight:800;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.eot");src:local('Open Sans Extrabold Italic'),local('OpenSans-ExtraboldItalic'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.svg#open_sansextrabold_italic") format('svg');font-weight:800;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-italic-webfont.eot");src:local('Open Sans Italic'),local('OpenSans-Italic'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-italic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-italic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-italic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-italic-webfont.svg#open_sansitalic") format('svg');font-weight:400;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-light-webfont.eot");src:local('Open Sans Light'),local('OpenSans-Light'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-light-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-light-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-light-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-light-webfont.svg#open_sanslight") format('svg');font-weight:300;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.eot");src:local('Open Sans Light Italic'),local('OpenSansLight-Italic'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.svg#open_sanslight_italic") format('svg');font-weight:300;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-regular-webfont.eot");src:local('Open Sans'),local('OpenSans'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-regular-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-regular-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-regular-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-regular-webfont.svg#open_sansregular") format('svg');font-weight:400;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.eot");src:local('Open Sans Semibold'),local('OpenSans-Semibold'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.svg#open_sanssemibold") format('svg');font-weight:600;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.eot");src:local('Open Sans Semibold Italic'),local('OpenSans-SemiboldItalic'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.10/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.svg#open_sanssemibold_italic") format('svg');font-weight:600;font-style:italic}.portal-headline{position:relative;z-index:1;display:block;height:60px;min-width:640px;background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAA8CAQAAAAN+BhxAAAANklEQVR4AWP678vEwABG/5kY/sEY/8GMf6iMv0jK/kMYEDYaCVOJYCAp/odmAh7DIXoxXPUfAJkUMHka4s/LAAAAAElFTkSuQmCC") 0 100% repeat-x}.portal-headline_dark{background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAA8CAYAAACn8dD6AAAAZElEQVR4AX1PhQ2EQBDc2SNEKY3+S/gaeDh3RyYjWeNLnDeTfVpQDnQAECIrIBsZKgCpcgMZGEqamwKI7C1eYBbwIleULlBVK0mIgQwBcpcvBkx/G+TOHJiFIzcVTv7KqRsgzwyFDjp67z2jNgAAAABJRU5ErkJggg==")}.portal-headline_mobile{height:44px;min-width:320px;background-size:auto 44px}.ph-menu{display:table;width:100%;height:60px;color:#333;font:11px/14px 'Open Sans',sans-serif;padding:0;box-sizing:border-box}.portal-headline_mobile .ph-menu{height:44px;min-width:320px;padding:0}.ph-menu__left{display:table-cell;padding-left:12px;text-align:left;vertical-align:top;width:1%}.portal-headline_mobile .ph-menu__left{padding-left:1px}.ph-menu__center{text-align:center}.ph-menu__center,.ph-menu__right{display:table-cell;vertical-align:top}.ph-menu__right{padding-right:15px;text-align:right;width:1%}.portal-headline_mobile .ph-menu__right{padding-right:3px}.ph-menu__left__inner,.ph-menu__center__inner,.ph-menu__right__inner{display:block;position:relative;height:60px;white-space:nowrap}.ph-menu__left__inner__leg,.ph-menu__center__inner__leg,.ph-menu__right__inner__leg{display:inline-block;height:0;overflow:hidden;visibility:hidden}.portal-headline_mobile .ph-menu__left__inner,.portal-headline_mobile .ph-menu__center__inner,.portal-headline_mobile .ph-menu__right__inner{height:44px}</style><div class="ph-font-preloader">f</div><div id="portal-headline" class="portal-headline portal-headline_allnew portal-headline_dark"><div class="ph-menu"><div class="ph-menu__left"><div class="ph-menu__left__inner"></div></div><div class="ph-menu__center"><div class="ph-menu__center__inner"><i class="ph-menu__center__inner__leg">s</i></div></div><div class="ph-menu__right"><div class="ph-menu__right__inner"></div></div></div></div><div id="ph-links" style="display:none;"><a id="ph-link_mail" href="https://r.my.com/n202698503?sz=40&amp;rnd=208593121"></a><a id="ph-link_games" href="https://r.my.com/n202698504?sz=40&amp;rnd=208593121"></a></div><script>
+<style>.ph-font-preloader{position:absolute;left:-100px;top:-100px;width:1px;height:1px;overflow:hidden;font-family:Open sans}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-bold-webfont.eot");src:local('Open Sans Bold'),local('OpenSans-Bold'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-bold-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-bold-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-bold-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-bold-webfont.svg#open_sansbold") format('svg');font-weight:700;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.eot");src:local('Open Sans Bold Italic'),local('OpenSans-BoldItalic'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-bolditalic-webfont.svg#open_sansbold_italic") format('svg');font-weight:700;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.eot");src:local('Open Sans Extrabold'),local('OpenSans-Extrabold'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-extrabold-webfont.svg#open_sansextrabold") format('svg');font-weight:800;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.eot");src:local('Open Sans Extrabold Italic'),local('OpenSans-ExtraboldItalic'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-extrabolditalic-webfont.svg#open_sansextrabold_italic") format('svg');font-weight:800;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-italic-webfont.eot");src:local('Open Sans Italic'),local('OpenSans-Italic'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-italic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-italic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-italic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-italic-webfont.svg#open_sansitalic") format('svg');font-weight:400;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-light-webfont.eot");src:local('Open Sans Light'),local('OpenSans-Light'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-light-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-light-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-light-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-light-webfont.svg#open_sanslight") format('svg');font-weight:300;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.eot");src:local('Open Sans Light Italic'),local('OpenSansLight-Italic'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-lightitalic-webfont.svg#open_sanslight_italic") format('svg');font-weight:300;font-style:italic}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-regular-webfont.eot");src:local('Open Sans'),local('OpenSans'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-regular-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-regular-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-regular-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-regular-webfont.svg#open_sansregular") format('svg');font-weight:400;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.eot");src:local('Open Sans Semibold'),local('OpenSans-Semibold'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-semibold-webfont.svg#open_sanssemibold") format('svg');font-weight:600;font-style:normal}@font-face{font-family:'Open Sans';src:url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.eot");src:local('Open Sans Semibold Italic'),local('OpenSans-SemiboldItalic'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.eot?#iefix") format('embedded-opentype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.woff") format('woff'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.ttf") format('truetype'),url("//img.staticmy.com/p/mch/d/0.9.14/blocks/ph-fonts/__open-sans/opensans-semibolditalic-webfont.svg#open_sanssemibold_italic") format('svg');font-weight:600;font-style:italic}.portal-headline{position:relative;z-index:1;display:block;height:60px;min-width:640px;background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAA8CAQAAAAN+BhxAAAANklEQVR4AWP678vEwABG/5kY/sEY/8GMf6iMv0jK/kMYEDYaCVOJYCAp/odmAh7DIXoxXPUfAJkUMHka4s/LAAAAAElFTkSuQmCC") 0 100% repeat-x}.portal-headline_dark{background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAA8CAYAAACn8dD6AAAAZElEQVR4AX1PhQ2EQBDc2SNEKY3+S/gaeDh3RyYjWeNLnDeTfVpQDnQAECIrIBsZKgCpcgMZGEqamwKI7C1eYBbwIleULlBVK0mIgQwBcpcvBkx/G+TOHJiFIzcVTv7KqRsgzwyFDjp67z2jNgAAAABJRU5ErkJggg==")}.portal-headline_mobile{height:44px;min-width:320px;background-size:auto 44px}.ph-menu{display:table;width:100%;height:60px;color:#333;font:11px/14px 'Open Sans',sans-serif;padding:0;box-sizing:border-box}.portal-headline_mobile .ph-menu{height:44px;min-width:320px;padding:0}.ph-menu__left{display:table-cell;padding-left:12px;text-align:left;vertical-align:top;width:1%}.portal-headline_mobile .ph-menu__left{padding-left:1px}.ph-menu__center{text-align:center}.ph-menu__center,.ph-menu__right{display:table-cell;vertical-align:top}.ph-menu__right{padding-right:15px;text-align:right;width:1%}.portal-headline_mobile .ph-menu__right{padding-right:3px}.ph-menu__left__inner,.ph-menu__center__inner,.ph-menu__right__inner{display:block;position:relative;height:60px;white-space:nowrap}.ph-menu__left__inner__leg,.ph-menu__center__inner__leg,.ph-menu__right__inner__leg{display:inline-block;height:0;overflow:hidden;visibility:hidden}.portal-headline_mobile .ph-menu__left__inner,.portal-headline_mobile .ph-menu__center__inner,.portal-headline_mobile .ph-menu__right__inner{height:44px}</style><div class="ph-font-preloader">f</div><div id="portal-headline" class="portal-headline portal-headline_allnew portal-headline_dark"><div class="ph-menu"><div class="ph-menu__left"><div class="ph-menu__left__inner"></div></div><div class="ph-menu__center"><div class="ph-menu__center__inner"><i class="ph-menu__center__inner__leg">s</i></div></div><div class="ph-menu__right"><div class="ph-menu__right__inner"></div></div></div></div><div id="ph-links" style="display:none;"><a id="ph-link_mail" href="https://r.my.com/n202698503?sz=40&amp;rnd=194347353" rel="noopener"></a><a id="ph-link_games" href="https://r.my.com/n202698504?sz=40&amp;rnd=194347353" rel="noopener"></a></div><script>
 (function (s) {
 	var themes = { light: 'dark', dark: 'light' };
-	s.staticDir = '//img.staticmy.com/p/mch/d/0.9.10/';
-	s.externalJS = '//img.staticmy.com/p/mch/d/0.9.10/external';
+	s.staticDir = '//img.staticmy.com/p/mch/d/0.9.14/';
+	s.externalJS = '//img.staticmy.com/p/mch/d/0.9.14/external';
 	s.project = "allnew";
 	s.enableProjects = true;
 	s.theme = themes.hasOwnProperty(s.theme) ? s.theme : 'light';
 	s.themeIcon = themes[s.theme];
 })(window.__PHS || (window.__PHS = {}));
-</script><!--[if lte IE 8]><script>__PHS.ie8=true;</script><![endif]--><script>'use strict';(function(){function H(a){for(var a=a||{},b=1,c=arguments.length;b<c;b++){var e=arguments[b],i;for(i in e)e.hasOwnProperty(i)&&(a[i]=e[i])}return a}function I(a){return document.getElementById(a)}function U(a){return a.bind.apply(a,z.call(arguments,1))}function V(a,b,c){function e(){a();d||(i=A(e,b))}var i,d;c&&a();i=A(e,b);return function(){d=!0;J(i)}}function W(a){a.stopPropagation?a.stopPropagation():a.cancelBubble=!0;a.preventDefault?a.preventDefault():a.returnValue=!1}function X(a){a.preventDefault?
-a.preventDefault():a.returnValue=!1}function t(a,b,c,e){if(b)if(b.addEventListener)b[a?"addEventListener":"removeEventListener"](c,e,!1);else b[a?"attachEvent":"detachEvent"]("on"+c,e)}function q(a){return a&&1==a.nodeType}function Y(a,b){var c=[];if("string"===typeof a)c.push([a,b]);else for(var e in a)a.hasOwnProperty(e)&&c.push([e,a[e]]);e=0;for(var i=c.length;e<i;e++)c[e]=c[e].join(":")}function K(a){for(var a=a.split(","),b=a.length;b--;){var c=a[b],e=void 0,i=parseInt(1E9*Math.random(),10),
-d=void 0;if(e=c.match(/^(?:cl([bn])|([adgin]))(\d+)(?:sz(\d+))?/))e[1]?d="s"+e[1]:"n"==e[2]?d="nc":("i"==e[2]&&(i=null),d=e[2]),d+=e[3]+".gif?",e[4]&&(d+="sz="+e[4]),i&&(d+="&rnd="+i),(new Image).src="//r.my.com/"+d}}function Z(a){t(1,a,"mousedown",function(a){a||(a=window.event);for(a=a.target||a.srcElement;a;)a.getAttribute&&a.getAttribute("xname")&&K(a.getAttribute("xname")),a=a.parentNode})}function $(a,b){var c;c=q(b)?function(a,b){return a==b}:function(a,b){return v(a,b)};for(var e=a.parentNode;e;){if(c(e,
-b))return e;e=e.parentNode}return!1}function aa(a){for(;a.firstChild;)a.removeChild(a.firstChild)}function v(a,b){return q(a)&&w?a.classList.contains(b):!!~(" "+a.className+" ").indexOf(" "+b+" ")}function L(a,b){q(a)&&(w?a.classList.add(b):!v(a,b)&&(a.className+=" "+b))}function M(a,b){q(a)&&(w?a.classList.remove(b):a.className=a.className.replace(RegExp("(^|\\s)"+b+"(\\s|$)","g"),"$1"))}function ba(a,b){if(q(a))return w?a.classList.toggle(b):v(a,b)?(M(a,b),!1):(L(a,b),!0)}function ca(a,b,c){function e(i){if(c&&
-i.propertyName===c||!c)t(0,a,d.Modernizr.transitionend,e),b()}var i;c&&(c=d.Modernizr.prefixedCss(c));d.Modernizr.csstransitions?t(1,a,d.Modernizr.transitionend,e):i=d.setTimeout(function(){b()},0);return{prop:c,callback:b,node:a,cancel:function(){i?clearTimeout(i):t(0,a,d.Modernizr.transitionend,e)}}}function N(a){a||(a={});return"function"!==typeof a.fn?!1:a}function da(a,b,c){function e(b){if(k&&(b.propertyName||b.originalEvent.propertyName)===k||!k)d.$(a).unbind(d.Modernizr.transitionend,e),f.fn()}
-c||(c={});var i=c.before&&(c.before=N(c.before)),f=c.after&&(c.after=N(c.after)),g,h,k=f&&f.prop&&d.Modernizr.prefixedCss(f.prop);i&&i.fn();h=setTimeout(function(){b()},d.Modernizr.csstransitions?20:0);f&&(d.Modernizr.csstransitions?d.$(a).bind(d.Modernizr.transitionend,e):g=setTimeout(function(){f.fn()},0));var j=!1;return{cancel:function(){j||(clearTimeout(h),clearTimeout(g),d.$(a).unbind(d.Modernizr.transitionend,e),j=!0)}}}function x(a,b,c){if(void 0!==b){var e,c=c||{};null===b&&(b="",c.expires=
--1);b+="";document.cookie=a+"="+b+(c.expires&&(e="number"==typeof c.expires&&(e=new Date),e.setTime(e.getTime()+864E5*c.expires),e||"toUTCString"in c.expires&&c.expires)&&"; expires="+e.toUTCString()||"")+(c.path?"; path="+c.path:"")+(c.domain?"; domain="+c.domain:"")+(c.secure?"; secure":"");return b}if(""!==(document.cookie||""))return b=(document.cookie.match(RegExp("(?:^| )"+a+"\\=(\\S*)(?:; |$)"))||[])[1],void 0===b?void 0:b}function O(){this._invocations=[];this._context=this._fn=null}function n(){}
-if(!window.__PH){var h=window.__PH={},d={};h.settings=window.__PHS;var p=h._=d,B=window,m=window.document,Q=function(a,b){for(var c in a){var e=a[c];if(!~(""+e).indexOf("-")&&void 0!==P[e])return"pfx"==b?e:!0}return!1},r=function(a,b,c){var e=a.charAt(0).toUpperCase()+a.slice(1),d=(a+" "+R.join(e+" ")+e).split(" ");if("string"===typeof b||"undefined"===typeof b)return Q(d,b);d=(a+" "+S.join(e+" ")+e).split(" ");a:{var a=d,f;for(f in a)if(e=b[a[f]],void 0!==e){b=!1===c?a[f]:"function"===typeof e?e.bind(c||
-b):e;break a}b=!1}return b},g={},l=m.documentElement,j=m.createElement("modernizr"),P=j.style,R=["Webkit","Moz","O","ms"],S=["webkit","moz","o","ms"],j={},u=[],C=u.slice,y,D=function(a,b,c,e){var d,f,g=m.createElement("div"),h=m.body,k=h||m.createElement("body");if(parseInt(c,10))for(;c--;)d=m.createElement("div"),d.id=e?e[c]:"modernizr"+(c+1),g.appendChild(d);c=['&#173;<style id="smodernizr">',a,"</style>"].join("");g.id="modernizr";(h?g:k).innerHTML+=c;k.appendChild(g);h||(k.style.background="",
-k.style.overflow="hidden",f=l.style.overflow,l.style.overflow="hidden",l.appendChild(k));a=b(g,a);h?g.parentNode.removeChild(g):(k.parentNode.removeChild(k),l.style.overflow=f);return!!a},E={}.hasOwnProperty,F;F="undefined"!==typeof E&&"undefined"!==typeof E.call?function(a,b){return E.call(a,b)}:function(a,b){return b in a&&"undefined"===typeof a.constructor.prototype[b]};Function.prototype.bind||(Function.prototype.bind=function(a){var b=this;if("function"!=typeof b)throw new TypeError;var c=C.call(arguments,
-1),e=function(){if(this instanceof e){var d=function(){};d.prototype=b.prototype;var d=new d,f=b.apply(d,c.concat(C.call(arguments)));return Object(f)===f?f:d}return b.apply(a,c.concat(C.call(arguments)))};return e});j.backgroundsize=function(){return r("backgroundSize")};j.csstransforms3d=function(){var a=!!r("perspective");a&&"webkitPerspective"in l.style&&D("@media (transform-3d),(-webkit-transform-3d){#modernizr{left:9px;position:absolute;height:3px;}}",function(b){a=9===b.offsetLeft&&3===b.offsetHeight});
-return a};j.csstransitions=function(){return r("transition")};j.svg=function(){return!!m.createElementNS&&!!m.createElementNS("https://www.w3.org/2000/svg","svg").createSVGRect};for(var G in j)F(j,G)&&(y=G.toLowerCase(),g[y]=j[G](),u.push((g[y]?"ph-":"ph-no-")+y));g.addTest=function(a,b){if("object"==typeof a)for(var c in a)F(a,c)&&g.addTest(c,a[c]);else{a=a.toLowerCase();if(void 0!==g[a])return g;b="function"==typeof b?b():b;l.className+=" "+(b?"ph-":"ph-no-")+a;g[a]=b}return g};P.cssText="";j=null;
-g._version="2.8.3";g._prefixes=" -webkit- -moz- -o- -ms- ".split(" ");g._domPrefixes=S;g._cssomPrefixes=R;g.mq=function(a){var b=B.matchMedia||B.msMatchMedia;if(b)return b(a)&&b(a).matches||!1;var c;D("@media "+a+" { #modernizr { position: absolute; } }",function(a){c="absolute"==(B.getComputedStyle?getComputedStyle(a,null):a.currentStyle).position});return c};g.testProp=function(a){return Q([a])};g.testAllProps=r;g.testStyles=D;g.prefixed=function(a,b,c){return b?r(a,b,c):r(a,"pfx")};l.className=
-l.className.replace(/(^|\s)no-js(\s|$)/,"$1$2")+(" js "+u.join(" "));p=p.Modernizr=g;p.addTest("classlist","classList"in document.documentElement);p.addTest("raf",!!p.prefixed("requestAnimationFrame",window));try{top.location.toString()}catch(ha){top.location=location}var A=window.setTimeout,J=window.clearTimeout,p=I("portal-headline"),z=Array.prototype.slice;void 0===Function.prototype.bind&&(Function.prototype.bind=function(a){var b=z.call(arguments,1),c=this;return function(){return c.apply(a,
-b.concat(z.call(arguments,0)))}});var w=d.Modernizr.classlist;Array.prototype.indexOf||(Array.prototype.indexOf=function(a){for(var b=0,c=this.length;b<c;b++)if(this[b]==a)return b;return-1});var u=d,ea=/\s*(\S+)\s*/g,fa=!/\[native\s+code\]/i.test(document.getElementsByClass+""),ga=/\./g;H(u,{extend:H,animate:da,project:"allnew",setTimeout:function(a,b){return A(a,b)},clearTimeout:function(a){return J(a)},rootNode:p,byId:I,bind:U,byClassName:function(a,b,c){var e,d;"string"===typeof a&&(c=
-b,b=a,a=document);c=c||"";if(!a||null==b)return[];b=b.replace(/\s+/ig,".");"."!=b[0]&&(b="."+b);if("querySelectorAll"in a){c=a.querySelectorAll(c+b);if(fa){e=-1;for(a=[];d=c[++e];)a.push(d);return a}return c}c=a.getElementsByTagName(c||"*");b&&(b=b.replace(ga," "),b=RegExp(b.replace(ea,"(?=(^|.*\\s)$1(\\s|$))")));e=-1;for(a=[];d=c[++e];)1===d.nodeType&&(!b||b.test(d.className))&&a.push(d);return a},radar:Y,setIntervalByTimeout:V,eventCancel:W,eventPreventDefault:X,event:t,isNode:q,emptyNode:aa,count:K,
-countEl:Z,hasParent:$,hasClass:v,removeClass:M,addClass:L,toggleClass:ba,animateEnd:ca});d.Modernizr.prefixedCss=function(){var a=d.Modernizr.prefixed.apply(this,arguments);return a&&a.replace(/([A-Z])/g,function(a,c){return"-"+c.toLowerCase()}).replace(/^ms-/,"-ms-")};d.Modernizr.addTest("transitionend",function(){var a,b=document.createElement("fakeelement"),c={msTransition:"transitionend",MozTransition:"transitionend",WebkitTransition:"webkitTransitionEnd",transition:"transitionEnd"};for(a in c)if(void 0!==
-b.style[a])return c[a]});d.Modernizr.addTest("dpr",function(){return window.devicePixelRatio});d.Modernizr.addTest("mediadpr",function(){return window.matchMedia&&window.matchMedia("(-webkit-min-device-pixel-ratio: 1.5),\t\t\t\t\t  (min--moz-device-pixel-ratio: 1.5),\t\t\t\t\t  (-o-min-device-pixel-ratio: 3/2),\t\t\t\t\t  (min-resolution: 1.5dppx)").matches?!0:!1});d.Modernizr.addTest("retina",function(){return 1<d.Modernizr.dpr&&d.Modernizr.backgroundsize||d.Modernizr.mediadpr});d.Modernizr.addTest("mobile",
-function(){var a=navigator.userAgent.match(/(Android|webOS|iPhone|iPad|iPod|BlackBerry|Windows Phone|Opera Mini|IEMobile)/i);return null!==a?a[0]:!1});d.extend(d,{});var f={_S_cookie_set_get_remove:function(a,b,c,e){var d,f=RegExp("(^|\\|)("+c+"=)(.*?)(\\||$)"),g={domain:b,expires:365,path:"/"};if(c){b=x(a)||"";d=(b.match(f)||[])[3];var h=null;void 0!==e?(x(a,d||null===e?h=b.replace(f,null===e?function(a,b,c,e,d,f,g){return 0===g.indexOf(a)?"":d}:"$1$2"+e+"$4"):(b?b+"|":"")+c+"="+e,g),""===h&&x(a,
-null,g)):e=d;return e}},_throw_noValue_Error:function(){throw Error("need value");},__prefix:null,__domain:null,setProject:function(a,b){if(!a||!b)throw Error("project is not valid");"."!==b.substr(0,1)&&(b="."+b);f.__prefix=a;f.__domain=b},_getPrefix:function(){if(!f.__prefix||!f.__domain)throw Error("run setProject before");},getGlobal:function(a){return f._S_cookie_set_get_remove("s","my.com",a)},setGlobal:function(a,b){void 0===b&&f._throw_noValue_Error();f._S_cookie_set_get_remove("s","my.com",
-a,b);return f.getGlobal(a)},removeGlobal:function(a){var b=f.getGlobal(a);f._S_cookie_set_get_remove("s","my.com",a,null);return b},getLocal:function(a){f._getPrefix();return f._S_cookie_set_get_remove("s_"+f.__prefix,f.__domain,a)},setLocal:function(a,b){f._getPrefix();void 0===b&&f._throw_noValue_Error();f._S_cookie_set_get_remove("s_"+f.__prefix,f.__domain,a,b);return f.getLocal(a)},removeLocal:function(a){f._getPrefix();var b=f.getLocal(a);f._S_cookie_set_get_remove("s_"+f.__prefix,f.__domain,
-a,null);return b}};d.SCookie=f;O.prototype={getQuery:function(){var a=d.bind(this.invoke,this);a.replace=d.bind(this.replace,this);return a},invoke:function(){this._fn?this._fn.apply(this._context,arguments):this._invocations.push(arguments)},replace:function(a,b){if(!this._fn){for(var b=b||window,c=0,e=this._invocations.length;c<e;c++)a.apply(b,this._invocations[c]);delete this._invocations;this._fn=a;this._context=b}}};d.DeferredQuery=O;n.prototype={emit:function(a,b,c){function e(){--f||c&&c()}
-void 0==b&&(b={});var d=this.listeners(a);if(d)for(var d=d.slice(),a=new n.Event(a,b),f=d.length,b=0,g=f;b<g;b++){var h=d[b];if("function"===typeof h)try{h.call(this,a,e)}catch(j){e()}}else c&&c()},listeners:function(a){return this._events&&this._events[a]&&this._events[a].length&&this._events[a]},addListener:function(a,b){if("function"!==typeof b)throw Error("invalid argument");this._events||(this._events={});this._events[a]||(this._events[a]=[]);this._events[a].push(b);this.emit("newlistener",{type:a});
-return this},once:function(a,b){function c(){this.removeListener(a,c);b.apply(this,arguments)}if("function"!==typeof b)throw Error("invalid argument");this.on(a,c);return this},removeListener:function(a,b){if("function"!==typeof b)throw Error("invalid argument");if(!this._events[a])return this;var c=this._events[a],e=d.ArrayIndexOf(c,b);if(0>e)return this;c.splice(e,1);0===c.length&&delete this._events[a];return this}};n.prototype.on=n.prototype.addListener;n.Event=function(a,b){this.type=a;this.data=
-b};n.relay=function(a,b,c){for(var d=0,f=a.length;d<f;d++){var g=a[d];b.on(g,function(a){return function(){c.emit(a)}}(g))}};d.EventEmitter=n;h.settings.responsive&&d.Modernizr.mq("all and (max-width: 640px)")&&d.addClass(d.byId("portal-headline"),"portal-headline_mobile");h.settings.theme&&d.addClass(d.byId("portal-headline"),"portal-headline_"+h.settings.theme);d.SCookie[(d.Modernizr.retina?"set":"remove")+"Global"]("rt",1);d.SCookie[(d.Modernizr.dpr?"set":"remove")+"Global"]("dpr",d.Modernizr.dpr);
-d.extend(h,d.EventEmitter.prototype,{cookie:x});h.cookie.s={};d.extend(h.cookie.s,{getLocal:f.getLocal,setLocal:f.setLocal,removeLocal:f.removeLocal,getGlobal:f.getGlobal,setGlobal:f.setGlobal,removeGlobal:f.removeGlobal,setProject:f.setProject});h.isLoaded=function(){return h._loaded||!1};h.whenLoaded=function(a){if(h.isLoaded())a();else h.on("load",a)};h.isMultiAuth=function(){return!1};h.redraw=(new d.DeferredQuery).getQuery();var s=document.createElement("script"),T=document.getElementsByTagName("head")[0];
-s.defer="defer";s.async="async";s.type="text/javascript";s.src=h.settings.externalJS+(h.settings.ie8?".ie8":"")+".min.js";!("opera"in window)||"complete"===document.readyState?T.appendChild(s):window.addEventListener("DOMContentLoaded",function(){T.appendChild(s)},!1)}})();
+</script><!--[if lte IE 8]><script>__PHS.ie8=true;</script><![endif]--><script>(function(){function z(a){a=a||{};for(var b=1,d=arguments.length;b<d;b++){var f=arguments[b],g;for(g in f)f.hasOwnProperty(g)&&(a[g]=f[g])}return a}function A(a){return document.getElementById(a)}function l(a,b,d,f){if(b)if(b.addEventListener)b[a?"addEventListener":"removeEventListener"](d,f,!1);else b[a?"attachEvent":"detachEvent"]("on"+d,f)}function n(a){return a&&1==a.nodeType}function B(a){a=a.split(",");for(var b=a.length;b--;){var d;var f=a[b];var g=parseInt(1E9*Math.random(),10);if(d=f.match(/^(?:cl([bn])|([adgin]))(\d+)(?:sz(\d+))?/))d[1]?
+f="s"+d[1]:"n"==d[2]?f="nc":("i"==d[2]&&(g=null),f=d[2]),f+=d[3]+".gif?",d[4]&&(f+="sz="+d[4]),g&&(f+="&rnd="+g),(new Image).src="//r.my.com/"+f}}function q(a,b){return n(a)&&v?a.classList.contains(b):!!~(" "+a.className+" ").indexOf(" "+b+" ")}function C(a,b){n(a)&&(v?a.classList.add(b):!q(a,b)&&(a.className+=" "+b))}function D(a,b){n(a)&&(v?a.classList.remove(b):a.className=a.className.replace(new RegExp("(^|\\s)"+b+"(\\s|$)","g"),"$1"))}function E(a){a||(a={});return"function"!==typeof a.fn?!1:
+a}function r(a,b,d){if(void 0!==b){var f;d=d||{};null===b&&(b="",d.expires=-1);b+="";document.cookie=a+"="+b+(d.expires&&(f="number"==typeof d.expires&&(f=new Date),f.setTime(f.getTime()+864E5*d.expires),f||"toUTCString"in d.expires&&d.expires)&&"; expires="+f.toUTCString()||"")+(d.path?"; path="+d.path:"")+(d.domain?"; domain="+d.domain:"")+(d.secure?"; secure":"");return b}if(""!==(document.cookie||""))return b=(document.cookie.match(new RegExp("(?:^| )"+a+"\\=(\\S*)(?:; |$)"))||[])[1],void 0===
+b?void 0:b}function F(){this._invocations=[];this._context=this._fn=null}function m(){}if(!window.__PH){var h=window.__PH={},c={};h.settings=window.__PHS;h._=c;var p=c.Modernizr=function(a,b,d){function f(a,b){for(var f in a){var c=a[f];if(!~(""+c).indexOf("-")&&h[c]!==d)return"pfx"==b?c:!0}return!1}function g(a,b,c){var g=a.charAt(0).toUpperCase()+a.slice(1),e=(a+" "+m.join(g+" ")+g).split(" ");if("string"===typeof b||"undefined"===typeof b)return f(e,b);e=(a+" "+n.join(g+" ")+g).split(" ");a:{a=
+e;for(var t in a)if(g=b[a[t]],g!==d){b=!1===c?a[t]:"function"===typeof g?g.bind(c||b):g;break a}b=!1}return b}var c={},e=b.documentElement,k=b.createElement("modernizr"),h=k.style,m=["Webkit","Moz","O","ms"],n=["webkit","moz","o","ms"],k={},l=[],p=l.slice,q=function(a,d,f,c){var g=b.createElement("div"),t=b.body,u=t||b.createElement("body");if(parseInt(f,10))for(;f--;){var G=b.createElement("div");G.id=c?c[f]:"modernizr"+(f+1);g.appendChild(G)}f=['&#173;<style id="smodernizr">',a,"</style>"].join("");
+g.id="modernizr";(t?g:u).innerHTML+=f;u.appendChild(g);if(!t){u.style.background="";u.style.overflow="hidden";var k=e.style.overflow;e.style.overflow="hidden";e.appendChild(u)}a=d(g,a);t?g.parentNode.removeChild(g):(u.parentNode.removeChild(u),e.style.overflow=k);return!!a},x={}.hasOwnProperty;var v="undefined"!==typeof x&&"undefined"!==typeof x.call?function(a,b){return x.call(a,b)}:function(a,b){return b in a&&"undefined"===typeof a.constructor.prototype[b]};Function.prototype.bind||(Function.prototype.bind=
+function(a){var b=this;if("function"!=typeof b)throw new TypeError;var d=p.call(arguments,1),f=function(){if(this instanceof f){var c=function(){};c.prototype=b.prototype;var c=new c,g=b.apply(c,d.concat(p.call(arguments)));return Object(g)===g?g:c}return b.apply(a,d.concat(p.call(arguments)))};return f});k.backgroundsize=function(){return g("backgroundSize")};k.csstransforms3d=function(){var a=!!g("perspective");a&&"webkitPerspective"in e.style&&q("@media (transform-3d),(-webkit-transform-3d){#modernizr{left:9px;position:absolute;height:3px;}}",
+function(b,d){a=9===b.offsetLeft&&3===b.offsetHeight});return a};k.csstransitions=function(){return g("transition")};k.svg=function(){return!!b.createElementNS&&!!b.createElementNS("https://www.w3.org/2000/svg","svg").createSVGRect};for(var r in k)if(v(k,r)){var w=r.toLowerCase();c[w]=k[r]();l.push((c[w]?"ph-":"ph-no-")+w)}c.addTest=function(a,b){if("object"==typeof a)for(var f in a)v(a,f)&&c.addTest(f,a[f]);else{a=a.toLowerCase();if(c[a]!==d)return c;b="function"==typeof b?b():b;e.className+=" "+
+(b?"ph-":"ph-no-")+a;c[a]=b}return c};h.cssText="";k=null;c._version="2.8.3";c._prefixes=" -webkit- -moz- -o- -ms- ".split(" ");c._domPrefixes=n;c._cssomPrefixes=m;c.mq=function(b){var d=a.matchMedia||a.msMatchMedia;if(d)return d(b)&&d(b).matches||!1;var f;q("@media "+b+" { #modernizr { position: absolute; } }",function(b){f="absolute"==(a.getComputedStyle?getComputedStyle(b,null):b.currentStyle).position});return f};c.testProp=function(a){return f([a])};c.testAllProps=g;c.testStyles=q;c.prefixed=
+function(a,b,d){return b?g(a,b,d):g(a,"pfx")};e.className=e.className.replace(/(^|\s)no-js(\s|$)/,"$1$2")+(" js "+l.join(" "));return c}(window,window.document);p.addTest("classlist","classList"in document.documentElement);p.addTest("raf",!!p.prefixed("requestAnimationFrame",window));try{top.location.toString()}catch(a){top.location=location}var w=window.setTimeout,H=window.clearTimeout,p=A("portal-headline"),y=Array.prototype.slice;void 0===Function.prototype.bind&&(Function.prototype.bind=function(a){var b=
+y.call(arguments,1),d=this;return function(){return d.apply(a,b.concat(y.call(arguments,0)))}});var v=c.Modernizr.classlist;Array.prototype.indexOf||(Array.prototype.indexOf=function(a){for(var b=0,d=this.length;b<d;b++)if(this[b]==a)return b;return-1});z(c,{extend:z,animate:function(a,b,d){function f(b){if(k&&(b.propertyName||b.originalEvent.propertyName)===k||!k)c.$(a).unbind(c.Modernizr.transitionend,f),e.fn()}d||(d={});var g=d.before&&(d.before=E(d.before)),e=d.after&&(d.after=E(d.after)),h,k=
+e&&e.prop&&c.Modernizr.prefixedCss(e.prop);g&&g.fn();var m=setTimeout(function(){b()},c.Modernizr.csstransitions?20:0);e&&(c.Modernizr.csstransitions?c.$(a).bind(c.Modernizr.transitionend,f):h=setTimeout(function(){e.fn()},0));var l=!1;return{cancel:function(){l||(clearTimeout(m),clearTimeout(h),c.$(a).unbind(c.Modernizr.transitionend,f),l=!0)}}},project:"allnew",setTimeout:function(a,b){return w(a,b)},clearTimeout:function(a){return H(a)},rootNode:p,byId:A,bind:function(a){return a.bind.apply(a,
+y.call(arguments,1))},byClassName:function(){var a=/\s*(\S+)\s*/g,b=!/\[native\s+code\]/i.test(document.getElementsByClass+""),d=/\./g;return function(f,c,e){var g;"string"===typeof f&&(e=c,c=f,f=document);e=e||"";if(!f||null==c)return[];c=c.replace(/\s+/ig,".");"."!=c[0]&&(c="."+c);if("querySelectorAll"in f){e=f.querySelectorAll(e+c);if(b){var k=-1;for(f=[];g=e[++k];)f.push(g);return f}return e}e=f.getElementsByTagName(e||"*");c&&(c=c.replace(d," "),c=new RegExp(c.replace(a,"(?=(^|.*\\s)$1(\\s|$))")));
+k=-1;for(f=[];g=e[++k];)1!==g.nodeType||c&&!c.test(g.className)||f.push(g);return f}}(),radar:function(a,b){var d=[];if("string"===typeof a)d.push([a,b]);else for(var c in a)a.hasOwnProperty(c)&&d.push([c,a[c]]);a=0;for(b=d.length;a<b;a++)d[a]=d[a].join(":")},setIntervalByTimeout:function(a,b,c){function d(){a();g||(e=w(d,b))}var g;c&&a();var e=w(d,b);return function(){g=!0;H(e)}},eventCancel:function(a){a.stopPropagation?a.stopPropagation():a.cancelBubble=!0;a.preventDefault?a.preventDefault():a.returnValue=
+!1},eventPreventDefault:function(a){a.preventDefault?a.preventDefault():a.returnValue=!1},event:l,isNode:n,emptyNode:function(a){for(;a.firstChild;)a.removeChild(a.firstChild)},count:B,countEl:function(a){l(1,a,"mousedown",function(a){a||(a=window.event);for(a=a.target||a.srcElement;a;)a.getAttribute&&a.getAttribute("xname")&&B(a.getAttribute("xname")),a=a.parentNode})},hasParent:function(a,b){var c=n(b)?function(a,b){return a==b}:function(a,b){return q(a,b)};for(a=a.parentNode;a;){if(c(a,b))return a;
+a=a.parentNode}return!1},hasClass:q,removeClass:D,addClass:C,toggleClass:function(a,b){if(n(a))return v?a.classList.toggle(b):q(a,b)?(D(a,b),!1):(C(a,b),!0)},animateEnd:function(a,b,d){function f(e){if(d&&e.propertyName===d||!d)l(0,a,c.Modernizr.transitionend,f),b()}var e;d&&(d=c.Modernizr.prefixedCss(d));c.Modernizr.csstransitions?l(1,a,c.Modernizr.transitionend,f):e=c.setTimeout(function(){b()},0);return{prop:d,callback:b,node:a,cancel:function(){e?clearTimeout(e):l(0,a,c.Modernizr.transitionend,
+f)}}}});c.Modernizr.prefixedCss=function(){var a=c.Modernizr.prefixed.apply(this,arguments);return a&&a.replace(/([A-Z])/g,function(a,c){return"-"+c.toLowerCase()}).replace(/^ms-/,"-ms-")};c.Modernizr.addTest("transitionend",function(){var a,b=document.createElement("fakeelement"),c={msTransition:"transitionend",MozTransition:"transitionend",WebkitTransition:"webkitTransitionEnd",transition:"transitionEnd"};for(a in c)if(void 0!==b.style[a])return c[a]});c.Modernizr.addTest("dpr",function(){return window.devicePixelRatio});
+c.Modernizr.addTest("mediadpr",function(){return window.matchMedia&&window.matchMedia("(-webkit-min-device-pixel-ratio: 1.5),\t\t\t\t\t  (min--moz-device-pixel-ratio: 1.5),\t\t\t\t\t  (-o-min-device-pixel-ratio: 3/2),\t\t\t\t\t  (min-resolution: 1.5dppx)").matches?!0:!1});c.Modernizr.addTest("retina",function(){return 1<c.Modernizr.dpr&&c.Modernizr.backgroundsize||c.Modernizr.mediadpr});c.Modernizr.addTest("mobile",function(){var a=navigator.userAgent.match(/(Android|webOS|iPhone|iPad|iPod|BlackBerry|Windows Phone|Opera Mini|IEMobile)/i);
+return null!==a?a[0]:!1});c.extend(c,{});var e={_S_cookie_set_get_remove:function(a,b,c,f){var d=new RegExp("(^|\\|)("+c+"=)(.*?)(\\||$)"),e={domain:b,expires:365,path:"/"};if(c){b=r(a)||"";var h=(b.match(d)||[])[3];var k=null;void 0!==f?(r(a,h||null===f?k=b.replace(d,null===f?function(a,b,c,d,f,e,g){return 0===g.indexOf(a)?"":f}:"$1$2"+f+"$4"):(b?b+"|":"")+c+"="+f,e),""===k&&r(a,null,e)):f=h;return f}},_throw_noValue_Error:function(){throw Error("need value");},__prefix:null,__domain:null,setProject:function(a,
+b){if(!a||!b)throw Error("project is not valid");"."!==b.substr(0,1)&&(b="."+b);e.__prefix=a;e.__domain=b},_getPrefix:function(){if(!e.__prefix||!e.__domain)throw Error("run setProject before");},getGlobal:function(a){return e._S_cookie_set_get_remove("s","my.com",a)},setGlobal:function(a,b){void 0===b&&e._throw_noValue_Error();e._S_cookie_set_get_remove("s","my.com",a,b);return e.getGlobal(a)},removeGlobal:function(a){var b=e.getGlobal(a);e._S_cookie_set_get_remove("s","my.com",a,null);return b},
+getLocal:function(a){e._getPrefix();return e._S_cookie_set_get_remove("s_"+e.__prefix,e.__domain,a)},setLocal:function(a,b){e._getPrefix();void 0===b&&e._throw_noValue_Error();e._S_cookie_set_get_remove("s_"+e.__prefix,e.__domain,a,b);return e.getLocal(a)},removeLocal:function(a){e._getPrefix();var b=e.getLocal(a);e._S_cookie_set_get_remove("s_"+e.__prefix,e.__domain,a,null);return b}};c.SCookie=e;F.prototype={getQuery:function(){var a=c.bind(this.invoke,this);a.replace=c.bind(this.replace,this);
+return a},invoke:function(){this._fn?this._fn.apply(this._context,arguments):this._invocations.push(arguments)},replace:function(a,b){if(!this._fn){b=b||window;for(var c=0,f=this._invocations.length;c<f;c++)a.apply(b,this._invocations[c]);delete this._invocations;this._fn=a;this._context=b}}};c.DeferredQuery=F;m.prototype={emit:function(a,b,c){function d(){--h||c&&c()}void 0==b&&(b={});var e=this.listeners(a);if(e){e=e.slice();a=new m.Event(a,b);var h=e.length;b=0;for(var l=h;b<l;b++){var k=e[b];
+if("function"===typeof k)try{k.call(this,a,d)}catch(I){d()}}}else c&&c()},listeners:function(a){return this._events&&this._events[a]&&this._events[a].length&&this._events[a]},addListener:function(a,b){if("function"!==typeof b)throw Error("invalid argument");this._events||(this._events={});this._events[a]||(this._events[a]=[]);this._events[a].push(b);this.emit("newlistener",{type:a});return this},once:function(a,b){function c(){this.removeListener(a,c);b.apply(this,arguments)}if("function"!==typeof b)throw Error("invalid argument");
+this.on(a,c);return this},removeListener:function(a,b){if("function"!==typeof b)throw Error("invalid argument");if(!this._events[a])return this;var d=this._events[a];b=c.ArrayIndexOf(d,b);if(0>b)return this;d.splice(b,1);0===d.length&&delete this._events[a];return this}};m.prototype.on=m.prototype.addListener;m.Event=function(a,b){this.type=a;this.data=b};m.relay=function(a,b,c){for(var d=0,e=a.length;d<e;d++){var h=a[d];b.on(h,function(a){return function(){c.emit(a)}}(h))}};c.EventEmitter=m;h.settings.responsive&&
+c.Modernizr.mq("all and (max-width: 640px)")&&c.addClass(c.byId("portal-headline"),"portal-headline_mobile");h.settings.theme&&c.addClass(c.byId("portal-headline"),"portal-headline_"+h.settings.theme);c.SCookie[(c.Modernizr.retina?"set":"remove")+"Global"]("rt",1);c.SCookie[(c.Modernizr.dpr?"set":"remove")+"Global"]("dpr",c.Modernizr.dpr);c.extend(h,c.EventEmitter.prototype,{cookie:r});h.cookie.s={};c.extend(h.cookie.s,{getLocal:e.getLocal,setLocal:e.setLocal,removeLocal:e.removeLocal,getGlobal:e.getGlobal,
+setGlobal:e.setGlobal,removeGlobal:e.removeGlobal,setProject:e.setProject});h.isLoaded=function(){return h._loaded||!1};h.whenLoaded=function(a){if(h.isLoaded())a();else h.on("load",a)};h.isMultiAuth=function(){return!1};h.redraw=(new c.DeferredQuery).getQuery();(function(){var a=document.createElement("script"),b=document.getElementsByTagName("head")[0];a.defer="defer";a.async="async";a.type="text/javascript";a.src=h.settings.externalJS+(h.settings.ie8?".ie8":"")+".min.js";"opera"in window&&"complete"!==
+document.readyState?window.addEventListener("DOMContentLoaded",function(){b.appendChild(a)},!1):b.appendChild(a)})()}})();
 </script>
     </div>
 </div>
 
-    <script src="//games.my.com/build/js/inf/header.js?v=20161129.1056-31"></script>
+    <script src="//games.my.com/build/js/inf/header.js?v=20190605.1038-152"></script>
 
 <script>
     (function() {
@@ -387,7 +479,7 @@ s.defer="defer";s.async="async";s.type="text/javascript";s.src=h.settings.extern
             );
         }
     })();
-</script><div class="mcLayout mcLayout_page mcBg5 mcTHolder"><div class="mcTRow mcTRow_main"><div class="mcHolder">
+</script><div class="mcLayout mcLayout_page mcBg4 mcTHolder"><div class="mcTRow mcTRow_main"><div class="mcHolder">
 
 <!-- /inf::header -->
 
@@ -400,20 +492,22 @@ s.defer="defer";s.async="async";s.type="text/javascript";s.src=h.settings.extern
     <div class="mcLegal_crumbs">
         <span class="mcLegal_crumbsArr"><a href="/us/">Legal Documentation</a></span>
         <span class="mcLegal_crumbsArr"><a href="/us/games/">myGames</a></span>
-        <span>PRIVACY POLICY</span>
+        <span>EU GAMES PRIVACY POLICY</span>
     </div>
 
     <div class="mcLegal_text">
 
 <div class="mcTabs_wrapper js-mcTabs">
-    <div class="mcSelect js-mcSelect" tabindex="0">PRIVACY POLICY</div>
+    <div class="mcSelect js-mcSelect" tabindex="0">EU GAMES PRIVACY POLICY</div>
 
     <div class="mcLegal_chapters">
         <ul class="mcTabs js-mcTabs">
-                <li class="selected"><a href="https://legal.my.com/us/games/privacy/">PRIVACY POLICY</a></li>
+                <li class="selected"><a href="https://legal.my.com/us/games/privacy/">EU GAMES PRIVACY POLICY</a></li>
                 <li class=""><a href="https://legal.my.com/us/games/eula/">APPLICATION EULA</a></li>
                 <li class=""><a href="https://legal.my.com/us/games/tou/">TERMS OF USE</a></li>
                 <li class=""><a href="https://legal.my.com/us/games/payments/">PAYMENT TERMS</a></li>
+                <li class=""><a href="https://legal.my.com/us/games/mobile_privacy/">EU MOBILE GAMES PRIVACY POLICY</a></li>
+                <li class=""><a href="https://legal.my.com/us/games/privacy_nonEU/">NON-EU GAMES PRIVACY POLICY</a></li>
         </ul>
     </div>
 </div>
@@ -459,7 +553,7 @@ $(function(){
     });
 })
 </script>
-<h1>PRIVACY POLICY</h1><h2>Last updated: July&nbsp;15, 2016</h2><h2>The introduction</h2><p>MY.COM B.V. ("Company") and its subsidiaries value the privacy and security of the information that end-users share with us by using our web site www.my.com and all of our online products and services (together "Web site"). The Privacy Policy describes the way that "Company" collects, shares, protects, or otherwise uses end-users information.</p><p>By using our Web site you fully agree and obliged to comply with the terms and conditions of this Privacy Policy and explicitly consent to using of your information in accordance with the Privacy Policy.</p><p>Company reserves the rights on its sole discretion to update the Privacy Policy at any reasonable times by placing a new version on Web site. Therefore, Company encourages you to periodically check back and review this Privacy Policy so that you always will keep abreast and know the changes.</p><h2>The Data Company collects</h2><p>The information ("Data") that collected by Company includes the data which does not directly enable Company to identify any user as an individual ("non-personal data") and information which may identify end-user ("personal data"). Company may use tools or third party analytical software to automatically collect and use certain data. The types of the non-personal data Company may collect and use include, but are not limited to: (a) device properties, including, but not limited to unique device identifier or other device identifier; (b) device software platform and firmware; (c) geographical data such as zip code, area code and location; (d) game score and achievements; (e) e-mail address; (f) some specific information about end-user that indirectly may referred to the individual, including any data related to user experience; (g) type of operating system end-users are using; (h) data of end-user services Internet provider (IP address) and/or (i) other data as reasonably required by Company to enhance Web site. If you arrive at the Websites via a link from another website, the URL of the linking website and the URL of any website that you link to next will also be collected.</p><p>Likely situation when users provide the Company with information which may (in total) indentify user, including but not limited to user's name, e-mail address, phone number, photo or other image, sex, birth date, address and etc. By providing a personal data, the user consent that the Company have the right to collect and process the personal data for the purpose of analyzing usage of the Company's services, advertisement serving, develop the services, providing customer and technical support, to send notice and etc. The Company has the right to combine personal and non-personal data.</p><p>Company does not verify correctness and cannot be able to examine of any end-user's personal data.</p><h2>The reasons that Company collects Data</h2><p>Company uses this information in the aggregate to analyze usage of Web site. The information also helps Company to improve quality of its online services and products, provide customize communications and advertisement.</p><h2>Disclosure and Transfer of Data</h2><p>Company may use the collected Data to analyze usage of the services, advertisement serving, managing and providing the services and products. For these purposes Company may disclose Data to partners with whom the Company has contractual obligations and/or which have their own specific serving technologies and payment services. The providers of payment service have the right to process Data for the purpose of the offering of the payment-transaction service whenever you purchase something from Web site.</p><p>You acknowledge and agree that the analytics utilized by Company's partners may combine the Data collected with other information they have independently collected from other services or products relating to your activities. These partners collect and use information under their own privacy policies. They may not use your Data for their own marketing purposes.</p><p>Company may also disclose your Data to third parties when Company has a reason to believe that a disclosure is necessary to address potential or actual injury or interference with Company's (its subsidiaries) intellectual property, operations, users or others who may be harmed or may suffer loss or damage, or Company acknowledges that such disclosure is necessary to protect Company's (its subsidiaries) rights, combat fraud and/or comply with a judicial proceeding, court order, or legal process served on Company or its subsidiaries.</p><p>Company has the right to disclose data in response to legal process, for example, in response to a Court order. Company may also disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.</p><p>Company may transfer Data about end-users in cases Company or one of its business units are acquired by, sold to, or merged with another company.</p><h2>User profile settings</h2><p>Each user, creating your own profile in the Web site, has the ability to manage personal profile settings, including but not limited: changing the look of the personal profile, add into the profile the desired information, restrict access to the profile of a third party. Therefore you can choice about who has access to your Data.</p><h2>Security measures</h2><p>Company and its subsidiaries will protect Data in a manner that is consistent with this Privacy Policy by, for instance, not using the information for any purpose other than to carry out the services they are performing for.</p><p>Although the Company takes appropriate measures to safeguard against unauthorized disclosures of Data, the Company cannot assure user that Data collected will never be disclosed in a manner that is inconsistent with this Privacy Policy and providing security measures are perfect or impenetrable.</p><p>The user acknowledge that any data that user discloses throughout the forums, blogs, charts or the like is public information cannot be considered as privacy and be saved from disclosure.</p><h2>Cookies and other technical information</h2><p>Company may send "cookies" to your computer or use similar technologies to enhance your online experience at its Web site and across the Internet. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). Company may also use "beacons" that monitor your use of Web site. Beacons are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the beacon appears, the time the page containing the beacon was viewed, the types of browser that fetched the beacon and the identification number of any cookie on the computer previously placed by that server. On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies or beacons. By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from Company.</p><h2>Data alteration and retention</h2><p>Company retains the Data collected in accordance with Privacy Policy for the period necessary to execute the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Thereafter if Date collected is no longer needed for purposes specified in this Privacy Policy, Company deletes all aforementioned Data in its possession.</p><p>In any case the user may delete the personal data in two ways by:</p><ul><li>removing it by himself using an access to the service;</li><li>sending the Company a notice in writing which contain sufficient information to identify the user. The notice will be processed as soon as possible.</li></ul><p>If Data is changed or deleted, Company may still retain some of the data to resolve disputes, enforce Company user agreements, and comply with technical and legal requirements and constraints related to the security service.</p><h2>International data processing</h2><p>Because Company operates internationally, the Company may store and process Your data within BVI and other countries worldwide.</p><h2>Governing Law</h2><p>This Agreement shall be governed, construed, and enforced in accordance with the laws of England and Wales, without regard to its conflict of laws rules.</p><h2>Our contacts</h2><p>Should you have any questions or concerns about Privacy Policy or its execution do not hesitate to contact Company at legal@corp.my.com or at Barbara Strozzilaan 201, 1082HN, Amsterdam, the Netherlands.</p><p><em>Only the English version of this document has legal effect. Any translations of this document to other languages are provided for your convenience only.</em></p><p></p>    </div>
+<h1>EU GAMES PRIVACY POLICY</h1><p></p><h2>Last updated: April 25, 2018</h2><p></p><h2>1. Who we are</h2><p>1.1. We are My.com B.V. located at Barbara Strozzilaan 201, 1083HN, Amsterdam, the Netherlands.</p><p>1.2. This Privacy Policy sets out how we collect and use your personal information when you use the mobile, online and downloadable products and services ("Services") offered by My.com B.V. and its subsidiaries at <a href="https://my.com/">https://my.com/</a> and the choices available to you in connection with our use of your personal information (the Privacy Policy).<br>This Privacy Policy should be read alongside, and in addition to, our terms and conditions at <a href="https://legal.my.com/us/games/tou/">https://legal.my.com/us/games/tou/</a> (Terms) and our Cookie Policy (accessible online at <a href="https://legal.my.com/us/general/cookie">https://legal.my.com/us/general/cookie</a>).<br>In case of any contradictions between this Privacy Policy and the Terms, this Privacy Policy will prevail.</p><p></p><h2>2. This Privacy Policy</h2><p>2.1. By making available the Services we, acting reasonably and in good faith, believe that you:<br>(a) have all necessary rights to register on and use the Services;<br>(b) provide true information about yourself&nbsp; to the extent necessary for use of the Services;<br>(c) understand that by the posting your personal information where it is accessible by other users of the Services you have manifestly made this information public, and this information may become available to other Site users and internet users, be copied and disseminated by them;<br>(d) understand that some types of information transferred by you to other Service users cannot be deleted by you or us;<br>(e) are aware of and accept this Privacy Policy.</p><p>2.2. We do not check the user information received from you, except where such check is necessary in order for us to fulfill our obligations to you.</p><p>2.3. This Privacy Policy applies only to the European Union-based users. If you are not a European Union-based user, please refer to the Privacy Policy applicable in the <a href="https://legal.my.com/us/games/privacy_nonEU/">relevant jurisdiction</a>.</p><p></p><h2>3. Information we collect about you</h2><p>3.1. In order to implement the agreement between you and us, and provide you with access to the use of the Services, we will improve, develop and implement new features to our Services, and enhance the available Services functionality. To achieve these objectives, and in compliance with applicable laws, we will collect, store, aggregate, organise, extract, compare, use, and supplement your data (hereinafter “processing”). We will also receive and pass this data, and our automatically processed analyses of this data to our affiliates and partners as set out in the table below and section 4 of this Privacy Policy.</p><p>3.2. We set out in more detail the information we collect when you use our Services, why we collect and process it and the legal bases below.</p><p></p><table border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width:63px;height:19px;"></td><td style="width:198px;height:19px;"><p style="text-align: center;"><strong>Information Collected</strong></p></td><td style="width:441px;height:19px;"><p style="text-align: center;"><strong>Purpose</strong></p></td><td style="width:182px;height:19px;"><p style="text-align: center;"><strong>Legal Basis </strong></p></td></tr><tr><td style="width:63px;height:170px;"><p style="text-align: center;">1</p></td><td style="width:198px;height:170px;"><p>Data you provide for registering in the Services including your email and/or mobile phone number</p></td><td style="width:441px;height:170px;"><p>We use this information in order to manage and administer the Services provided to you.<br>We use this data to enable us to fulfill our obligations to you as part of the Services (e.g. in cases where you request restoration of your account).<br>See section 8.3 of this Privacy Policy for more information.<br>We also use this information in order to provide you with updates and information on our and selected third parties' products and services we think you may be interested in.</p></td><td style="width:182px;height:170px;"><p>Legitimate interests<br><br>Performance of our contract with you</p></td></tr><tr><td style="width:63px;height:300px;"><p style="text-align: center;">2</p></td><td style="width:198px;height:300px;"><p>Where necessary, a copy of your identity or&nbsp; another document containing your name, surname, photograph, number of the principal identity document of you or your representative, payment details and another additional data, with that you may provide us, including through our support service.<br>We may take additional verification steps where we consider reasonable in order to verify your account.</p></td><td style="width:441px;height:300px;"><p>We use this data in order to identify you, verify your account and prevent abuse and infringements of your or other persons' rights.<br>For example, we use this information to verify your identity if you lose your credentials and wish to access your account with us.</p></td><td style="width:182px;height:300px;"><p>Legitimate Interests</p></td></tr><tr><td style="width:63px;height:208px;"><p style="text-align: center;">3</p></td><td style="width:198px;height:208px;"><p>Additional data you provide when you edit your profile page at <a href="https://account.my.com/profile/">https://account.my.com/profile/</a> or on dedicated Services profile page via including your first and last name, nickname, gender, date of birth, avatar picture and language preferences.</p></td><td style="width:441px;height:208px;"><p>We use this information in order to provide our Services to you, to manage and administer Services and as additional infromation to verify your account to prevent abuse and infringements of your or other persons' rights.<br>We also use this information in order to provide you with updates and information on our and selected third parties' products and services we think you may be interested in.<br>We use this information in order to tailor and improve the adverts that are presented on the Site and measure the effectiveness of these advertisements.</p></td><td style="width:182px;height:208px;"><p>Legitimate interests<br><br>Performance of our contract with you</p></td></tr><tr><td style="width:63px;height:326px;"><p style="text-align: center;">4</p></td><td style="width:198px;height:326px;"><p>Additional data received when you access the Services, including information&nbsp; regarding technical devices, technical interaction with the Service such as your IP-address, time of registration in the Service, device ids, country and language settings, device model and operating system used, your installed apps, type of browser, your Internet provider and/or phone network operator, network type, screen resolution, RAM size and your browsing behavior.</p></td><td style="width:441px;height:326px;"><p>We use your data for internal review in order to constantly improve the content of our Services and web pages, optimizing your user experience, to understand any errors you may encounter when using the Services, to notify you of changes to the Services and to personalise the use of our Services.<br>We use this information in order to tailor and improve the adverts that are presented on the Site and measure the effectiveness of these advertisements.</p></td><td style="width:182px;height:326px;"><p>Legitimate Interests</p></td></tr><tr><td style="width:63px;height:106px;"><p style="text-align: center;">5</p></td><td style="width:198px;height:106px;"><p>Information that is automatically received at the time of access to the Services with the use of cookies.</p></td><td style="width:441px;height:106px;"><p>Please see our cookies policy which sets out the types of cookies we use and what we use these cookies for.&nbsp;<br>We use this information in order to tailor and improve the adverts that are presented on the Site and measure the effectiveness of these advertisements.</p></td><td style="width:182px;height:106px;"><p>Consent</p></td></tr><tr><td style="width:63px;height:199px;"><p style="text-align: center;">6</p></td><td style="width:198px;height:199px;"><p>Information that is created by you while using the Services (including information that you post in any game forums and/or chat rooms). Depending on the place of posting (chat room or forum) this information can be available to some or all other users of our Services.</p></td><td style="width:441px;height:199px;"><p>We use this information in order to manage and administer the Services including providing our services to you.</p></td><td style="width:182px;height:199px;"><p>Legitimate interests, which inter alia, include the processing of manifestly made public by you data&nbsp;where it is accessible by other users of the Services<br>&nbsp;<br>Performance of our contract with you</p></td></tr><tr><td style="width:63px;height:94px;"><p style="text-align: center;">7</p></td><td style="width:198px;height:94px;"><p>Information that is created by you while placing requests to our Services support.</p></td><td style="width:441px;height:94px;"><p>We use this information in order to verify your identity and to fullfil your support request.<br>We may also use this data in order to investigate any complaints on your behalf and to provide you with a more efficient service.</p></td><td style="width:182px;height:94px;"><p>Legitimate interests<br><br>Performance of our contract with you</p></td></tr><tr><td style="width:63px;height:188px;"><p style="text-align: center;">8</p></td><td style="width:198px;height:188px;"><p>Information that is received as the result of your behavioral actions when using the Services (including your game actions and achievements, badges). This information can be available to other users of our Services (e.g. on Leaderboards).</p></td><td style="width:441px;height:188px;"><p>We use this information in order to manage and administer the Services including providing our Services to you.<br>We may also use this data in order to tailor and improve the adverts that are presented to you to and measure the effectiveness of these advertisements.</p></td><td style="width:182px;height:188px;"><p>Legitimate interests</p></td></tr><tr><td style="width:63px;height:150px;"><p style="text-align: center;">9</p></td><td style="width:198px;height:150px;"><p>Information that is received about you as the result of other users’ actions on the Services (in particular, information posted in chat rooms and forums by other users).</p></td><td style="width:441px;height:150px;"><p>We use this information in order to manage and administer the Services including providing our Services to you.</p></td><td style="width:182px;height:150px;"><p>Legitimate interests</p></td></tr><tr><td style="width:63px;height:186px;"><p style="text-align: center;">10</p></td><td style="width:198px;height:186px;"><p>Data collected via third parties, including your social network ids, application store ids, nickname, email and friends list, when you register in our Services via you social or application store accounts and/or connect your social account to our Services.</p></td><td style="width:441px;height:186px;"><p>We use this information in order to manage and administer the Services provided to you.<br>We use this information for certain social functions of our Services, such as to show you who of your friends play the same game as you.<br>We also use this information in order to provide you with updates and information on our and selected third parties' products and services we think you may be interested in.</p></td><td style="width:182px;height:186px;"><p>Legitimate interests<br><br>Performance of our contract with you</p></td></tr></tbody></table><p></p><p>3.3. Our legitimate interests include&nbsp; (1) maintaining and administrating the Services; (2) providing the Services to you; (3) improving the content of the Services and web pages; (4) processing of the data that was manifestly made public by you where it is accessible by other users of the Services; (5) ensuring your account is adequately protected; and (6) compliance with any contractual, legal or regulatory obligations under any applicable law.&nbsp;</p><p>3.4. As part of maintaining and administrating the Services we use the information to analyse user activity and ensure that rules and terms of use for the Services are not violated.</p><p>3.5. Your personal information may also be processed if it is required by a law enforcement or regulatory authority, body or agency or in the defence or exercise of legal claims.<br>We will not delete personal information if it is relevant to an investigation or a dispute.<br>It will continue to be stored until those issues are fully resolved and/or during the term that is required and/or permissible under applicable/relevant law.</p><p>3.6. You may withdraw your consent to sending you marketing information by amending your privacy settings of your account.<br>An option to unsubscribe will also be included in every SMS or email sent to you by us or our selected third party partners.</p><p>3.7. Please note, if you do not want us to process sensitive and special categories of data about you (including data relating to your health, racial or ethnic origin, political opinion, religious or philosophical beliefs, sex life, and your sexual orientation) you should take care not to post this information or share this data on the Site.<br>Once you have provided this data it will be accessible by other site users and it becomes difficult for us to remove this data.</p><p>3.8. Please note, if you withdraw your consent to processing or you do not provide the data that we require in order to maintain and administer the Services, you may not be able to access the Services or register with the web pages.</p><p>3.9. If we intend to further process your data for any other purpose to those set out in this Privacy Policy, we shall provide you with details of this further purpose before we commence processing.</p><p></p><h2>4. Data sharing</h2><p>4.1. Your username can be available to all of the Service users. We take technical and organizational measures to ensure that your data is safe. Please note that by the posting your personal information you have manifestly made this information public where it is accessible by other users of the Services, and this may become available to other Service users and internet users and be copied and/ or disseminated by such users. Once this data is transferred by you to other users you will not be able to delete this data.</p><p>4.2. We may share your data with MGL MY.COM (CYPRUS) LIMITED and other our affiliates. Sometimes we may also need to share your data with a third party in order to provide our Services to you or to administer the Services, for example if you choose to share your data across other social media platforms.&nbsp;</p><p>4.3. We may also share your data with our third party contractors and application developers provided these third parties assume confidentiality obligations regarding your personal data collected by your use of the applications they offer.&nbsp; The developers use the information provided to them in order to provide you with additional services. Data will only be shared with these developers with your consent. You can authorise developers to access your information via our products.</p><p>4.4. Our ad management and recommendation system is designed so that your information will not be shared directly with our third party advertisers. An advertiser or maker of a recommendation can only choose to target advertisements to groups of users falling within criteria such as age, gender or location, or to target communities according to type, e.g. cars or fashion. If you fall within one of the target groups you will receive an advert or recommendation.</p><p>4.5. An advertiser or maker of recommendations may also choose to upload a list of emails, phone numbers and identities to our systems so that we (but not the adviser or maker of recommendations) can check for user matches.&nbsp; They will see the number of matches but not the matches themselves.</p><p>4.6. If you participate in public tournaments we may have the obligation to disclose your personal information to tax authorities. We also may publish you data as part of the tournament score tables on our and third party web sites.</p><p>4.7. My.com B.V., other companies in the Mail.ru Group or our selected third party partners with our permission, using their own ad servers, can show advertisements to you.</p><p></p><h2>5. Privacy Settings</h2><p>5.1. The Services may contain links to sites operated by third parties. We are not responsible for your data privacy when you access these links or engage with third party services and you should ensure you review the relevant third party's privacy statement which will govern your data privacy rights.</p><p>5.2. We bear no liability for the actions of third parties which, as the result of your use of the internet or the Services, obtain access to your information in accordance with the confidentiality level selected by you.</p><p>5.3. We bear no liability for the consequences of use of the information which, due to the Services nature, is available to any internet user. We ask you to take a responsible approach to the scope of their information posted on the Site.</p><p></p><h2>6. International Transfers</h2><p>6.1. We may&nbsp; transfer and maintain on our servers or databases some of your personal information outside the European Economic Area (EEA) including in Russia.</p><p>6.2. The countries to which we transfer your data may not have the same data protection laws as your jurisdiction. We take reasonable cyber security measures and/or put in place the Standartd Contractual Clauses (e.g. Model Clauses, Data Processing Agreement/Addendum) to ensure your data is adequately protected.</p><p></p><h2>7. Retention Periods</h2><p>7.1. We will retain your personal information for as long as required to perform the purposes for which the data was collected depending on the legal basis for which that data was obtained and/or whether additional legal/regulatory obligations mandate that we retain your personal information during the term that is required and/or permissible under applicable/relevant law.</p><p>7.2. You may delete your personal&nbsp; data by removing the data from your account; alternatively, you can delete your account.</p><p>7.3. We may remove your account, or the information you post as provided by the Terms.</p><p></p><h2>8. Your Rights</h2><p>8.1. You have the following rights, in certain circumstances, in relation to your personal information:<br>(a) Right to access&nbsp; your personal information.<br>(b) Right to rectify your personal information:&nbsp; you can request that we update, block or delete your personal data, if the data is incomplete, outdated, incorrect, unlawfully received or no longer relevant&nbsp; for the purpose of processing.<br>(c) Right to restrict the use of your personal information.<br>(d) Right to request that your personal information is erased.<br>(e) Right to object to processing of your personal information.<br>(f) Right to data portability (in certain specific circumstances).<br>(g) Right not to be subject to an automated decision.<br>(h) Right to lodge a complaint with a supervisory authority.</p><p>8.2. You also have a right to independently remove personal information on your account and make changes and corrections to your information, provided that such changes and corrections contain up-to-date and true information. You can also view an overview of the information we hold about you.</p><p>8.3. If you would like to exercise these rights, please contact Support Service at <a href="https://support.my.com/games/">https://support.my.com/games/</a> or send your request to us, in writing to Barbara Strozzilaan 201, 1083 HN, Amsterdam, the Netherlands. We will aim to respond to you within 30 days from receipt of request. We will need to verify your identity before we are able to disclose any personal data to you.</p><p></p><h2>9. Security Measures</h2><p>9.1. We take&nbsp; technical, organizational and legal measures, including, where suitable, encryption, to ensure that your personal data are protected from unauthorized or accidental access, deletion, modification, blocking, copying and&nbsp; dissemination.</p><p>9.2. Access to the Services is authorized using your login (e-mail address or mobile phone number) and password. You are responsible for keeping this information confidential. You should not share your credentials with third parties and we recommend you take measures to ensure this information is kept confidential.&nbsp;</p><p>9.3. If you forget your login details, you can requiest us to send you an SMS or email, which will contain a restoration code.</p><p>9.4. To reduce the probability of third parties gaining unauthorized access, if you login to your account from an unusual place or after several failed attempts to provide valid login details, we may block entry to your account. You will then need to contact Service support and provide certain additional information to verify your credentials and gain access to your account.</p><h2>10. Changes to this Policy</h2><p>10.1. From time to time, we may change and/or update this Privacy Policy. If this Privacy Policy changes in any way, we will post an updated version on this page. We will store the previous versions of this Privacy Policy in our documentation achieve. We recommend you regularly review this page to ensure that you are always aware of our information practices and any changes to such.</p><p></p><p>11. Contact Us</p><p>11.1. If you have any questions, please send your inquiries to Service support at <a href="https://support.my.com/games/">https://support.my.com/games/</a> or in writing to Barbara Strozzilaan 201, 1083 HN, Amsterdam, the Netherlands. So we can deal with your enquiry effectively, please quote this Privacy Policy. We will aim to respond to you within 30 days from receipt of request.&nbsp;</p><p>11.2. All correspondence received by us from you (written or electronic inquiries) is classified as restricted-access information and may not be disclosed without your written consent. The personal data and other information about you may not be used without your consent for any purpose other than for response to the inquiry, except as expressly provided by law.</p><p>11.3. The e-mail address of our DPO is <a href="mailto:dpo@corp.my.com?subject=my.com%20games%20privacy%20request&amp;body=---Please%20do%20not%20remove%20this%20line%2F%D0%9F%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20%D0%BD%D0%B5%20%D1%83%D0%B4%D0%B0%D0%BB%D1%8F%D0%B9%D1%82%D0%B5%20%D1%8D%D1%82%D1%83%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D1%83.%20This%20request%20relates%20to%20my.com%20games%20privacy%20policy---">dpo@corp.my.com</a>.</p><p></p><p></p><p></p>    </div>
 
                 </div>
                 <div class="mcSidebar">
@@ -476,7 +570,17 @@ $(function(){
                 </li>
                 <li>
                     <a href="https://legal.my.com/us/general/privacy/">
-                        PRIVACY POLICY
+                        EU PRIVACY POLICY
+                    </a>
+                </li>
+                <li>
+                    <a href="https://legal.my.com/us/general/cookie/">
+                        COOKIE POLICY
+                    </a>
+                </li>
+                <li>
+                    <a href="https://legal.my.com/us/general/privacy_nonEU/">
+                        NON-EU PRIVACY POLICY
                     </a>
                 </li>
         </ul>
@@ -486,7 +590,7 @@ $(function(){
         <ul>
                 <li>
                     <a href="https://legal.my.com/us/mail/privacy/">
-                        PRIVACY POLICY
+                         EU PRIVACY POLICY
                     </a>
                 </li>
                 <li>
@@ -499,13 +603,18 @@ $(function(){
                         TERMS OF USE
                     </a>
                 </li>
+                <li>
+                    <a href="https://legal.my.com/us/mail/privacy_nonEU/">
+                        NON-EU PRIVACY POLICY
+                    </a>
+                </li>
         </ul>
     </div>
     <div class="mcLegal_chaptersBlock">
         <h2>myGames</h2>
         <ul>
                 <li>
-                    PRIVACY POLICY
+                    EU GAMES PRIVACY POLICY
                 </li>
                 <li>
                     <a href="https://legal.my.com/us/games/eula/">
@@ -520,6 +629,16 @@ $(function(){
                 <li>
                     <a href="https://legal.my.com/us/games/payments/">
                         PAYMENT TERMS
+                    </a>
+                </li>
+                <li>
+                    <a href="https://legal.my.com/us/games/mobile_privacy/">
+                        EU MOBILE GAMES PRIVACY POLICY
+                    </a>
+                </li>
+                <li>
+                    <a href="https://legal.my.com/us/games/privacy_nonEU/">
+                        NON-EU GAMES PRIVACY POLICY
                     </a>
                 </li>
         </ul>
@@ -545,6 +664,46 @@ $(function(){
                 <li>
                     <a href="https://legal.my.com/us/mywidget/user-agreement/">
                         USER AGREEMENT
+                    </a>
+                </li>
+                <li>
+                    <a href="https://legal.my.com/us/mywidget/privacy/">
+                        EU PRIVACY POLICY
+                    </a>
+                </li>
+                <li>
+                    <a href="https://legal.my.com/us/mywidget/privacy_nonEU/">
+                        NON-EU PRIVACY POLICY
+                    </a>
+                </li>
+        </ul>
+    </div>
+    <div class="mcLegal_chaptersBlock">
+        <h2>myTarget</h2>
+        <ul>
+                <li>
+                    <a href="https://legal.my.com/us/mytarget/privacy/">
+                        EU PRIVACY POLICY
+                    </a>
+                </li>
+                <li>
+                    <a href="https://legal.my.com/us/mytarget/privacy_nonEU/">
+                        NON-EU PRIVACY POLICY
+                    </a>
+                </li>
+        </ul>
+    </div>
+    <div class="mcLegal_chaptersBlock">
+        <h2>Donation Alerts</h2>
+        <ul>
+                <li>
+                    <a href="https://legal.my.com/us/da/privacy_policy/">
+                        EU PRIVACY POLICY
+                    </a>
+                </li>
+                <li>
+                    <a href="https://legal.my.com/us/da/privacy_policy_nonEU/">
+                        NON-EU PRIVACY POLICY
                     </a>
                 </li>
         </ul>
@@ -601,7 +760,11 @@ if (__GMCS.with_layout) {
                             <a href="//legal.my.com/<%= lang.shortCode %>/games/tou/" class="desktop"><%= __('Terms of Use') %></a>
                             <a href="//legal.my.com/<%= lang.shortCode %>/games/tou/" class="mobile"><%= __('ToU') %></a>
                         </li>
-                        <li><a href="//legal.my.com/<%= lang.shortCode %>/games/privacy/"><%= __('Privacy policy') %></a></li>
+                        <% if (window.location.hostname === 'my.com') { %>
+                            <li><a href="//legal.my.com/us/mail/privacy_nonEU/"><%= __('Privacy policy') %></a></li>
+                        <% } else { %>
+                            <li><a href="//legal.my.com/<%= lang.shortCode %>/games/privacy/"><%= __('Privacy policy') %></a></li>
+                        <% } %>
                     <% } %>
                     <li><a class="js-footer__supportLink" href="https://support.my.com/games/" target="_blank"><%= __('Support') %></a></li>
                 </ul>
@@ -626,7 +789,7 @@ if (__GMCS.with_layout) {
 
 <!-- /inf::footer -->
 
-    <img src="http://r.my.com/d2629734.gif?rnd=133504365&amp;ts=1480900381" style="width:0;height:0;position:absolute;" alt="">
+    <img src="http://r.my.com/d2629734.gif?rnd=617048386&amp;ts=1559916984" style="width:0;height:0;position:absolute;" alt="">
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
