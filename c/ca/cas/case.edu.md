@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the case.edu privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124215030id_/http%3A//case.edu/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the case.edu privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607160913id_/http%3A//case.edu/privacy-statement/index.html) for the most accurate reproduction.*
 
 # Web Privacy Statement | Case Western Reserve University
 
@@ -12,7 +12,7 @@ By using this website, you agree to abide by this Privacy Statement, the univers
 
 ### What information do we collect?
 
-The university may collect some identifiable information about how visitors access and use websites affiliated with the case.edu domain. This information includes IP address, browser, geolocation, device type and more. Cookies may be used to facilitate the navigation of this site, but these cookies do not contain information that alone can identify individuals.
+The university (including through third-party providers) may collect some identifiable information about how visitors access and use websites affiliated with the case.edu domain. This information includes IP address, browser, geolocation, device type and more. Cookies may be used to facilitate the navigation of this site, but these cookies do not contain information that alone can identify individuals.
 
 The generic information collected by Case Western Reserve is based on IP address, which is the location of a computer or network. For admission and recruiting purposes, some IP addresses and cookies may be collected and stored; when used in conjunction with a third-party system, individuals' information may be identified. This information will not be used beyond admissions offices, unless required to do so by law. In most other instances, Case Western Reserve will not associate an IP address and/or web usage data with any other university information that could specifically identify a visitor, unless required to do so by law.
 
@@ -62,13 +62,13 @@ Many sections of case.edu use Google Analytics to help understand how visitors u
 
 Find more information on Google Analytics [terms of use](https://www.google.com/intl/en/policies/terms/) and [privacy practices.](https://privacy.google.com/)
 
-### Google AdWords Remarketing
+### Advertising and Remarketing
 
-Some parts of case.edu may use the Google AdWords remarketing service to advertise to previous visitors to the site through third-party websites. Third-party vendors, including Google, use cookies to inform, optimize, and serve ads based on someone's past visits to this website. Any data collected will be used in accordance with Case Western Reserve and Google’s privacy policies.
+Some parts of case.edu may use the Google AdWords or other third-party retargeting/remarketing services to advertise to previous visitors to the site through third-party websites. Such third-party vendors, including Google, use cookies to inform, optimize, and serve ads based on someone's past visits to this website. Any data collected will be used in accordance with Case Western Reserve, Google and other third-party privacy policies.
 
 ### Opt-out
 
-You may [opt-out](https://tools.google.com/dlpage/gaoptout/) of Google Analytics for Display Advertising and customize Google Display Network ads by visiting the [Ads Preferences Manager.](https://www.google.com/settings/u/0/ads/anonymous?sig=ACi0TCgU-KzQjlwBo1Sj0d6ELaZ8Y9_MMarzWIywh_HHMrVbPAm84oGtOvcqma1_OE6hDDk5vEVYThk0gixjkhD7Qu8mDifAedirJeVUvs1nH_igKRHARuE&hl=en)
+You may [opt-out](https://tools.google.com/dlpage/gaoptout/) of Google Analytics for Display Advertising and customize Google Display Network ads by visiting the [Ads Preferences Manager.](https://www.google.com/settings/u/0/ads/anonymous?sig=ACi0TCgU-KzQjlwBo1Sj0d6ELaZ8Y9_MMarzWIywh_HHMrVbPAm84oGtOvcqma1_OE6hDDk5vEVYThk0gixjkhD7Qu8mDifAedirJeVUvs1nH_igKRHARuE&hl=en) To opt out of other advertising and retargeting, email [webteam@case.edu](mailto:webteam@case.edu). You also can manage all of your browser's advertising preferences and, if desired, opt-out on [the Network Advertising Initiative website.](http://optout.networkadvertising.org/?c=1)
 
 ### Website Privacy Statement Only
 
@@ -82,7 +82,7 @@ Please also visit our Terms and Conditions page, which establishes the use, disc
 
 Changes to Case Western Reserve University’s website privacy policy will be posted on this page, and include an update to the policy date.
 
-This policy was updated Jan. 19, 2017.
+This policy was updated April 25, 2019.
 
 ### Contact Us
 
