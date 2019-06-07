@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgagefit.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150305id_/http%3A//www.mortgagefit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgagefit.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607191409id_/https%3A//www.mortgagefit.com/privacypolicy) for the most accurate reproduction.*
 
 # privacy policy - Mortgagefit
 
