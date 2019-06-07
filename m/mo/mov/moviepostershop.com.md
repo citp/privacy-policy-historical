@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the moviepostershop.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701041358id_/https%3A//www.moviepostershop.com/info-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviepostershop.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607205040id_/https%3A//www.moviepostershop.com/info-privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective date: May 25, 2018
 
-Movie Poster Shop ("us", "we", or "our") operates the http://www.moviepostershop.com/ website (the "Service").
+Movie Poster Shop ("us", "we", or "our") operates the https://www.moviepostershop.com/ website (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://www.moviepostershop.com/
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://www.moviepostershop.com/
 
 ## Definitions
 
   * **Service**
 
-Service is the http://www.moviepostershop.com/ website operated by Movie Poster Shop
+Service is the https://www.moviepostershop.com/ website operated by Movie Poster Shop
 
   * **Personal Data**
 
