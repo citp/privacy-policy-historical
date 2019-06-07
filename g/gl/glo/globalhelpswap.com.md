@@ -1,86 +1,72 @@
-> *The following text is extracted and transformed from the globalhelpswap.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021161632id_/http%3A//globalhelpswap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalhelpswap.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607230654id_/https%3A//globalhelpswap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - globalhelpswap - free and low cost volunteering opportunities around the globe
 
-**PRIVACY POLICY for[globalhelpswap](http://globalhelpswap.com/)[  
-](http://www.globalhelpswap.com/)**
+**PRIVACY POLICY for[globalhelpswap](https://globalhelpswap.com/)[  
+](https://globalhelpswap.com//)**
 
-At globalhelpswap we are committed to ensuring and protecting your privacy at any time you are on our website or communicate electronically with our personnel.  This Privacy Policy has been provided and approved by the [employment contracts](http://www.legalcentre.co.uk/employment/) and internet contracts experts at [LegalCentre.co.uk](http://www.legalcentre.co.uk/).
+At globalhelpswap, we are committed to maintaining the trust and confidence of our visitor to our website. We want our visitors to know that we are not a business that would sell, rent or trade email lists with other companies and businesses for marketing purposes. We’ve provided lots of detailed information on when and why we collect your personal information, how we use it, the limited condition under which we may disclose it to others and how we keep it secure. So pull up a chair, brew the kettle and read on.
 
-Our Privacy Policy is contained below and provides a detailed explanation as to how we may use your personal information provided to us or any we collect through legal means.
+## COOKIE POLICY
 
-Updates of our Privacy Policy are completed frequently, thus you should peruse this Policy habitually.
+We use cookies, pixels and tags (which we shall collectively define as “Cookies”) to make our site work properly. We sometimes place small data files called cookies on your device. Most big websites do this too. [More information on the Cookie Law from the ICO website.](https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies/)
 
- **1.  Information We Collect from You**
+## WHAT ARE COOKIES?
 
-Data can be collected and processed when our website is in operation by you. The following are approved methods of collection:
+A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another.
 
-1.1 If you register for information or complete a purchase, by filling out a form we can collect the information provided.
+Enabling these cookies is not strictly necessary for the website to work but it will provide you with a better browsing experience. You can delete or block these cookies, but if you do that some features of this site may not work as intended.
 
-1.2 Traffic data, weblogs, location data, and any other communication can be collected.  These details come from your visit to our site and any resource tools you use while on the site.
+The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.
 
-1.3 Any communication on our website or to personnel allows us to collect information.
+## WE USE COOKIES TO:
 
- **2.  Use of Cookies**
+### MEASURE WEBSITE USAGE WITH GOOGLE ANALYTICS
 
-Circumstances may arise when we may need to gather information about your computer to help provide appropriate services or products to you.  The data gathered is solely statistical data, which may be shared with advertisers.
+We use this software to collect information about how our users use globalhelpswap this helps us to improve the website and information we provide.
 
-The facts collected about you are statistical only. No identifying information will be shared about our visitors and how they made use of our site.  No personal details will ever be shared.
+Google Analytics itself stores information about:
 
-Cookies are used to collect general online usage by using a cookie file.  If used this cookie file is downloaded without prompting.  It will be placed on your hard drive with information transferred to the hard drive allowing the cookies to be used for data collection.  A cookie is used to improve any services/ products, or overall website characteristic we offer you.
+  * Pages you visit on the website
+  * How long you spend on each page and the website
+  * How your found the website
+  * What you click on whilst on the website
 
-Any computer has the option to decline cookies.  Your web browser options include an “enable” button to decline cookies.  It is imperative that you understand by declining cookies you may be limiting your access to sections of our website.
 
-If our advertisers use cookies it will result from a click on their advertisement, and we do not have control over their cookies if used.
 
- **3.  Use of Your Information**
+We do not collect or store any of your personal information such as name or address etc, we do not identify you via personal information.
 
-Information stored and collected about you allows us to improve our services or products for you.  Added to this parameter, we may use your information for the following purposes:
+### CROSS PLATFORM ADVERTISING AND USER RECOGNITION
 
-3.1 Any commitment we make on a contracted basis.
+We also use Cookies provided by Facebook. These Cookies operate in different ways but they are both used in connection with globalhelpswap advertising served to a user of the globalhelpswap web site on Facebook, the recognition of such users and the devices used by the user to access, Facebook and the globalhelpswap web site. Further information on each Cookie is set out in the below.
 
-3.2 If information is requested from our website concerning services or products offered, we may use your data.  Products or services which may be of interest to you can also deem a communication from us, if permission has been granted.
+### FACEBOOK PIXEL
 
-3.3 Notification re- changes or improvements may be sent to you in regards to product or service changes that could affect our service to you.
+This Cookie is placed by Facebook. It enables globalhelpswap to measure optimise and build audiences for advertising campaigns served on Facebook. In particular it enables globalhelpswap to see how our users move between devices when accessing the globalhelpswap web site and Facebook, to ensure that globalhelpswap’s Facebook advertising is seen by our users most likely to be interested in such advertising by analysing which content a user has viewed and interacted with on the globalhelpswap web site. For further information about the Facebook Pixel please see:  
+<https://en-gb.facebook.com/business/help/651294705016616>
 
-3.4 Existing customers can be contacted on the topic of goods or services related to a previous sale, if we feel you might be interested in these additional topics.
+### GOOGLE ANALYTICS
 
-3.5 Added use of your data may include permission for third parties to use your data.  This permission would be granted by you in regards to unrelated products or services that may be in your interests.  We or third parties can only contact you in regards to this information if consent has been provided for information collection.
+This Cookie is placed by Google. It enables globalhelpswap to learn information about our users use of the globalhelpswap web site such as the time of visit, the pages viewed, whether the user has visited before and the web site visited prior to visiting the globalhelpswap web site.  
+For further information about Google Analytics please see:  
+<https://www.google.com/policies/technologies/types/>
 
-3.6 Third party contact or communications from our website, as a new customer, is only made if you have granted us permission.  These communications are only offered for information you consented to and no other unrelated information.
+### TURN COOKIES OFF
 
-3.7 Data that you do not want us to use or third parties to use can be withheld, once consent has been given regarding our collection of your data.  We will always provide you with an opportunity to decline communications and our or third party data usage.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-3.8 Identifiable data, which could be used to disclose who you are, is never shared.  We only provide statistical related data about our visitors to third parties like advertisers to ensure your privacy.
+If you turn cookies off, some features will be disabled. It won’t affect the user’s experience that make your site experience more efficient and may not function properly.
 
- **4.  Storing Your Personal Data**
+Most of our cookies expire within 30 days, although our analytics cookies may persist for a year.
 
-4.1 Outside of the European Economic Area are places for storing and processing data we collect from you.  We may take advantage of these outside areas, allowing a staff to process data collected from you.  These processors may work for our suppliers.  The transfer of this data may include processing and completing your order on our site, such as utilising your payment information or offering support services.  We take all reasonable processes to ensure your data is secure and in agreement with our Privacy Policy as outlined here.
+## NEWSLETTERS/MAILING LISTS
 
-4.2 Secured servers are used by our company to ensure proper data storage.  Information on transactions is kept encrypted for safety measures.
+We collect personal information as part of the registration process for our monthly newsletter. We use that information to tell you about the stuff you’ve asked us to tell you about, to contact you if we need to obtain or provide additional information and sometimes to check that our records are right and that you are satisfied. We do not rent or trade email lists with other organisations and businesses.
 
-4.3 Transmission of data on the internet can never be ultimately secure.  We do not and cannot guarantee security of information collected electronically or transmitted; however, we take all necessary steps to provide the best security available.  As a result of our inability to guarantee safety, you are submitting information to us at your own risk.  Where needed a password may be necessary to access areas of our site. You are responsible for the safety and confidentiality of the password you generate.
+We use MailChimp, a third-party provider to deliver our newsletter. We gather various statistics around email opening and clicks using the tool to help us monitor and improve our newsletter. You can read more about [MailChimp and it’s privacy notice here](https://mailchimp.com/legal/privacy/). You can also unsubscribe to general mailings at any time by clicking the unsubscribe link at the bottom of any of our emails or by emailing our team at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
- **5.  Disclosing Your Information**
-
-5.1 Personal information to third parties may be disclosed:
-
-5.2 This disclosure occurs when we sell all or a section of our business or assets to a third party.
-
-5.2.1 Personal information can be offered to any member of our company, such as subsidiaries, holding companies and their subsidiaries only if deemed appropriate.
-
-5.2.2 Legal requirements may mean a sharing of your information.
-
-5.2.3 Lowering credit risk and fraud protection may result in information disclosure.
-
- **6.  Third Party Links**
-
-Links might be discovered on our site that belongs to third parties.  Any third party website on our site has a privacy policy. You should check their terms.  We do not accept liability or responsibility for their privacy policies, based on our lack of control over these third party links.
-
- **7.  Access to Information**
-
-The Data Protection Act 1998 was established to govern online electronic communications.  The act gives you access to any data we have about you.  To gain access to this information a small fee of £10 is needed.  This fee allows us to process your request by covering our costs.  Contact information is given below, which should be used to gain details about information we hold on you.
+We intend to review our privacy policy in six months time to ensure it’s relevant and as up to date as possible. Our current privacy policy was last updated 17th May 2018.
 
  **8.  Contacting Us**
 
-We welcome and hope you do not hesitate to make any queries, comments or requests you may have regarding this Privacy Policy.   Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d4a4b5a1b894b3b8bbb6b5b8bcb1b8a4a7a3b5a4fab7bbb9)
+We welcome and hope you do not hesitate to make any queries, comments or requests you may have regarding this Privacy Policy.   Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d0a0b1a5bc90b7bcbfb2b1bcb8b5bca0a3a7b1a0feb3bfbd)
