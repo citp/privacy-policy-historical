@@ -1,32 +1,81 @@
-> *The following text is extracted and transformed from the ugamezone.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208052733id_/http%3A//www.ugamezone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugamezone.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607211549id_/http%3A//www.ugamezone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site.
 
-## 1.Log Files
+## 1.Cookies Policy
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+UGameZone ("we" or "us") use cookies and other similar technologies in the operation of this website. 
 
-## 2.Cookies
+A cookie is a piece of information that a website puts on your computer so it can remember something about you or your device at a later date. We use cookies to distinguish you from other users of our website (including when you browse other third party websites). This helps us to provide you with a good experience when you browse this website. We also use cookies and similar technologies to show you more personalised advertising, including adverts on other websites. By using our website, you agree to our use of cookies. This policy explains what cookies, including third party cookies, we use on our website, and how you can refuse or withdraw your consent to cookies. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](https://www.youronlinechoices.eu/). 
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Our site does not use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options.
+The cookies on our website are either set by us or by third party partners and fall into the following categories: 
 
-## 3.Use of Facebook and Google Social Plugins
+  * ### First Party Session Management
+
+These are typically required by us to make sure you can move freely from one page to another and so you can access and use certain services within the site. Normally these cookies only last while your browser is open and are deleted when it is closed. Some may need to remain for longer than the duration of your visit (session) or longer. 
+
+Cookie name | Description | Duration  
+---|---|---  
+played | Used by our platform to log the games you played | 30 days  
+  * ### Performance
+
+We want to ensure we provide a good experience. These cookies (which are set by third parties providing services to us) allow us to monitor how visitors use our website. These cookies provides us with anonymous statistics on how many people visit the website, where they have come from and the pages they visit so that we can continue to develop and improve the website and our services. They also help us understand the effectiveness of our advertising. 
+
+Third party | Description  
+---|---  
+Google Analytics | Collects statistical information about how you use the site so that we can improve the site  
+<https://policies.google.com/privacy?hl=en>  
+  * ### Functionality
+
+These cookies allow you to set and store preferences for the website, such as when you login to post comments or where you are offered the option to customise elements of the layout or content of the website. These cookies may also help us to monitor, debug and optimise the performance of the website. 
+
+Third party | Description  
+---|---  
+Google | [Types of cookies used by Google](https://policies.google.com/technologies/types?hl=en)  
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies?hl=en)  
+Facebook | Social media integration  
+<https://facebook.com/policy.php>  
+Twitter | Social media integration  
+<https://dev.twitter.com/web/overview/privacy>  
+  * ### Interest-based advertising
+
+These cookies allow third parties to identify what you might find interesting, allowing a more personalised and relevant selection of advertisements to be displayed when you browse the internet. They normally won't just be from us, but build an overall, but anonymous, picture of individuals' preferences based how they have browsed the internet, in order to deliver more relevant advertising. You may see interest-based advertising on our website, but also on third party websites using information collected about your browsing activity on our website. 
+
+Third party | Description  
+---|---  
+Google | Tracks performance of advertising campaigns.  
+<https://policies.google.com/technologies/ads>  
+Doubleclick | Our partners with third party technologies including Doubleclick to deliver efficient media buying. <https://policies.google.com/privacy>  
+
+
+
+### Refusing or withdrawing your consent to the use of cookies
+
+You may refuse to accept cookies by altering the settings on your internet browser. For more information about how to do this, look at your browser 'help' section or visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](https://www.youronlinechoices.eu/). 
+
+Please note that if you adjust your internet browser settings to refuse the setting of cookies, you may not be able to access or use fully certain parts or functionality of our website. 
+
+### Updates to this policy
+
+So that we can offer you the best possible online experience, new services using cookies may be added to our website from time to time. We aim to keep the cookies information provided here as accurate as possible and use all reasonable efforts to regularly review and update the details. When we update these details we will post changes on this page so please check back frequently. 
+
+## 2.Use of Facebook and Google Social Plugins
 
 UGAMEZONE.COM ("UGAMEZONE") uses social plugins ("plugins") of the social networks Facebook and Google on its website from facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, United States ("Facebook") and google.com, which is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, California, 94043, United States ("Google+1"). The plugins are marked with their logos: Facebook and Google+1. If the customer visits a web page on UGAMEZONE, which contains such a plugin, the browser builds up a direct link to the Facebook or Google servers. The contents of the plugin is from Facebook and Google directly to the browser of the customer and integrated into this website.
 
 By integrating these plugins Facebook and Google receive information that the customer has visited UGAMEZONE. If the customer is logged into Facebook or Google, these companies can assign the visit of UGAMEZONE to his or her Facebook/Google account. When the customer interacts with the plugins, for example, the "Like" button, "+1 Button" or add a comment, the corresponding information from the client's browser is sent directly to Facebook or Google and stored there. Purpose and scope of data collection and further processing and use of data through Facebook or Google are related to the settings of the customer to protect his privacy, refer to the privacy policies of Facebook or Google.
 
-## 4.Links
+## 3.Links
 
 This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-## 5.Advertisers
+## 4.Advertisers
 
 We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, we do not have access to this information. We work with the ad companies: Google. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/policies/technologies/ads/)
 
-## 6.Information Usage
+## 5.Information Usage
 
 We will only use your personally identifiable information as described below, unless you have specifically consented to another type of use, either at the time the personally identifiable information is collected from you or through some other form of consent from you: 
 
@@ -38,7 +87,7 @@ We will only use your personally identifiable information as described below, un
 
 
 
-## 7.OPT OUT/CORRECTIONS
+## 6.OPT OUT/CORRECTIONS
 
 Upon your request, we will
 
