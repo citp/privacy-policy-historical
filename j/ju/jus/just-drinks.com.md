@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222145104id_/https%3A//www.just-drinks.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607093010id_/https%3A//www.just-drinks.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # just-drinks.com: Privacy & Cookies
 
@@ -85,13 +85,13 @@ You can find out more about Google’s position on privacy as regards its analyt
 
 **Third party cookies**
 
-These are cookies set on your machine by external websites whose services are used on this site. Cookies of this type are the sharing buttons across the site allow visitors to share content onto social networks. Cookies are currently set by LinkedIn, Twitter, Facebook, AdRoll and Google+. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on this website.
+These are cookies set on your machine by external websites whose services are used on this site. Cookies of this type are the sharing buttons across the site allow visitors to share content onto social networks. Cookies are currently set by LinkedIn, Twitter, and Facebook. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on this website.
 
 You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
 
-As you browse this site, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our partners, AdRoll, Facebook, Google, and Twitter, then enable us to present you with retargeting advertising on their sites and other sites based on your previous interaction with this website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. 
+As you browse this site, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our partners, Facebook, Google, and Twitter, then enable us to present you with retargeting advertising on their sites and other sites based on your previous interaction with this website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. 
 
-You can [visit this page](https://www.adroll.com/about/privacy) to opt out of AdRoll and their partners’ targeted advertising, [this page](https://www.facebook.com/ads/website_custom_audiences/) to opt out of Facebook’s customised advertising, [this page](https://www.google.com/settings/u/0/ads/authenticated) to opt out of Google's customised advertising, and [this page](https://support.twitter.com/articles/20169453) to opt out of Twitter customised advertising using the ‘Do Not Track’ protocol.
+You can visit [this page](https://www.facebook.com/ads/website_custom_audiences/) to opt out of Facebook’s customised advertising, [this page](https://www.google.com/settings/u/0/ads/authenticated) to opt out of Google's customised advertising, and [this page](https://support.twitter.com/articles/20169453) to opt out of Twitter customised advertising using the ‘Do Not Track’ protocol.
 
 **Advertising networks**
 
@@ -144,7 +144,7 @@ Should you at any time wish to opt-out from receiving communications from us and
 
 ### Correct/Update
 
-Please e-mail [Mike Gove](https://web.archive.org/help.aspx) if information previously provided is believed inaccurate or incorrect. Where membership schemes exist, automatic update mechanisms are provided for self-modification of registration details.
+Please e-mail [Andrew Forth](https://web.archive.org/help.aspx) if information previously provided is believed inaccurate or incorrect. Where membership schemes exist, automatic update mechanisms are provided for self-modification of registration details.
 
 * * *
 
@@ -152,7 +152,7 @@ Please e-mail [Mike Gove](https://web.archive.org/help.aspx) if information prev
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
 
-[Mike Gove](https://web.archive.org/help.aspx)  
+[Andrew Forth](https://web.archive.org/help.aspx)  
 Chief Operations Officer  
 Aroq Ltd  
 Aroq House  
