@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stronglifts.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227212601id_/https%3A//stronglifts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stronglifts.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607201537id_/https%3A//stronglifts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StrongLifts
 
-The StrongLifts Privacy Policy helps you understand how we collect and use the personal information you provide to us and helps you make make informed decisions when using our site and our products and services. StrongLifts.com is a service offered by StrongLifts Limited (“StrongLifts”) and references in this document to “us,” “our,” and “we” refer to StrongLifts.
+The StrongLifts Privacy Policy helps you understand how we collect and use the personal information you provide to us and helps you make make informed decisions when using our site and our products and services. stronglifts.com is a service offered by StrongLifts Limited (“StrongLifts”) and references in this document to “us,” “our,” and “we” refer to StrongLifts.
 
 WHAT INFORMATION DO WE COLLECT?  
 When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse the site.
