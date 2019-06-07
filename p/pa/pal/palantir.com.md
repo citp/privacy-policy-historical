@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palantir.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117153829id_/http%3A//www.palantir.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palantir.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607090127id_/https%3A//www.palantir.com/privacy-and-security) for the most accurate reproduction.*
 
 # Palantir's Privacy and Security Statement | Palantir
 
@@ -40,7 +40,7 @@ We use information that we collect about you or that you provide to us, includin
   * To provide you with information, products or services that you request from us.
   * To notify you about changes to our website, products or services (including new offerings) and promotions or events.
   * To maintain the integrity and security of our websites, products, and services.
-  * For our ordinary business operations, including human resources, recruiting, and business research and outreach.
+  * For our ordinary business operations, including human resources, recruiting, equity investments, and business research and outreach.
 
 
 
