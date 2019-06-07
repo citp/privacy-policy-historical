@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spark.co.nz privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205225153id_/https%3A//www.spark.co.nz/help/other/websiteprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spark.co.nz privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607093420id_/https%3A//www.spark.co.nz/help/other/websiteprivacypolicy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Spark NZ
 
@@ -74,7 +74,7 @@ Our website places a cookie on the hard drive of your computer. A "cookie" is a 
 
 
 
-Cookies are used to analyse your use of our website and to serve ads when you visit our website. The information we collect and share with third parties through cookies is aggregated and therefore anonymous (it does not include personal information which is likely to identify you). The information may be used to serve you ads in relation to our products when you visit our website and third party websites. You can access information about Google's Privacy Policy [here](http://www.google.com/intl/en/policies/privacy/).
+Cookies are used to analyse your use of our website and to serve ads when you visit our website. The information we collect and share with third parties through cookies is aggregated and therefore anonymous (it does not include personal information which is likely to identify you). The information may be used to serve you ads in relation to our products when you visit our website and third party websites. You can access information about Google's Privacy Policy here.
 
 While we recommend that users enable cookies on their browsers in order to enjoy all the features of our website, the decision remains in the hands of the individual. Most browsers allow you to control management of cookies, this will be different depending on each user's PC - refer to your browser help menu for further information.
 
@@ -95,7 +95,7 @@ Secure Socket Layer (SSL) is the most accepted way of ensuring the security of t
   
 **Turning off cookies**
 
-As stated above, your internet browser should allow you to control the use of cookies. In addition, you can opt-out of Google Analytics Advertising Features [here](http://www.google.com/policies/technologies/ads/) or use a browser plugin to opt-out of Google Analytics cookies [here](https://tools.google.com/dlpage/gaoptout/).
+As stated above, your internet browser should allow you to control the use of cookies. In addition, you can opt-out of Google Analytics Advertising Features here or use a browser plugin to opt-out of Google Analytics cookies [here](https://tools.google.com/dlpage/gaoptout/).
 
 **How do I unsubscribe from email marketing communications?**
 
@@ -194,7 +194,7 @@ Our website places a cookie on the hard drive of your computer. A "cookie" is a 
 
 
 
-Cookies are used to analyse your use of our website and to serve ads when you visit our website. The information we collect and share with third parties through cookies is aggregated and therefore anonymous (it does not include personal information which is likely to identify you). The information may be used to serve you ads in relation to our products when you visit our website and third party websites. You can access information about Google's Privacy Policy [here](http://www.google.com/intl/en/policies/privacy/).
+Cookies are used to analyse your use of our website and to serve ads when you visit our website. The information we collect and share with third parties through cookies is aggregated and therefore anonymous (it does not include personal information which is likely to identify you). The information may be used to serve you ads in relation to our products when you visit our website and third party websites. You can access information about Google's Privacy Policy here.
 
 While we recommend that users enable cookies on their browsers in order to enjoy all the features of our website, the decision remains in the hands of the individual. Most browsers allow you to control management of cookies, this will be different depending on each user's PC - refer to your browser help menu for further information.
 
@@ -215,7 +215,7 @@ Secure Socket Layer (SSL) is the most accepted way of ensuring the security of t
   
 **Turning off cookies**
 
-As stated above, your internet browser should allow you to control the use of cookies. In addition, you can opt-out of Google Analytics Advertising Features [here](http://www.google.com/policies/technologies/ads/) or use a browser plugin to opt-out of Google Analytics cookies [here](https://tools.google.com/dlpage/gaoptout/).
+As stated above, your internet browser should allow you to control the use of cookies. In addition, you can opt-out of Google Analytics Advertising Features here or use a browser plugin to opt-out of Google Analytics cookies [here](https://tools.google.com/dlpage/gaoptout/).
 
 **How do I unsubscribe from email marketing communications?**
 
@@ -314,7 +314,7 @@ Our website places a cookie on the hard drive of your computer. A "cookie" is a 
 
 
 
-Cookies are used to analyse your use of our website and to serve ads when you visit our website. The information we collect and share with third parties through cookies is aggregated and therefore anonymous (it does not include personal information which is likely to identify you). The information may be used to serve you ads in relation to our products when you visit our website and third party websites. You can access information about Google's Privacy Policy [here](http://www.google.com/intl/en/policies/privacy/).
+Cookies are used to analyse your use of our website and to serve ads when you visit our website. The information we collect and share with third parties through cookies is aggregated and therefore anonymous (it does not include personal information which is likely to identify you). The information may be used to serve you ads in relation to our products when you visit our website and third party websites. You can access information about Google's Privacy Policy here.
 
 While we recommend that users enable cookies on their browsers in order to enjoy all the features of our website, the decision remains in the hands of the individual. Most browsers allow you to control management of cookies, this will be different depending on each user's PC - refer to your browser help menu for further information.
 
@@ -335,7 +335,7 @@ Secure Socket Layer (SSL) is the most accepted way of ensuring the security of t
   
 **Turning off cookies**
 
-As stated above, your internet browser should allow you to control the use of cookies. In addition, you can opt-out of Google Analytics Advertising Features [here](http://www.google.com/policies/technologies/ads/) or use a browser plugin to opt-out of Google Analytics cookies [here](https://tools.google.com/dlpage/gaoptout/).
+As stated above, your internet browser should allow you to control the use of cookies. In addition, you can opt-out of Google Analytics Advertising Features here or use a browser plugin to opt-out of Google Analytics cookies [here](https://tools.google.com/dlpage/gaoptout/).
 
 **How do I unsubscribe from email marketing communications?**
 
