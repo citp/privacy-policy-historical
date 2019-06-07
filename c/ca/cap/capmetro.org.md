@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capmetro.org privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429065906id_/https%3A//www.capmetro.org/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capmetro.org privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607042816id_/https%3A//www.capmetro.org/legal) for the most accurate reproduction.*
 
 # Legal and Disclosure - Capital Metro - Austin Public Transit
 
@@ -81,7 +81,7 @@ Pursuant to section 552.301(c) of the Texas Government Code, Capital Metro has d
 
 You may also submit a written request via fax or through regular mail:
 
-  * [Download the PIA request form](https://web.archive.org/uploadedFiles/Capmetroorg/Legal_Policies_and_Disclaimers/Public_Information_Request_Form.pdf "Public Information Request") (not required, but helpful)
+  * [Download the PIA request form](https://web.archive.org/uploadedFiles/New2016/Legal_and_Disclosure/Public_Information_Request_Form.pdf "Public Information Request Form") (not required, but helpful)
   *  **Mail a Request to:**  
 Capital Metro PIA Request  
 ATTN: Gloria E. Barnes, Public Information Coordinator  
