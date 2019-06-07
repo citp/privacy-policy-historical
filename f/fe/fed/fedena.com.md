@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fedena.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925071758id_/https%3A//www.fedena.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedena.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607042212id_/https%3A//fedena.com/privacy_policy) for the most accurate reproduction.*
 
-# School Management Information System Privacy Policy - Fedena
+# Privacy Policy - Fedena
 
 This Privacy Policy governs the manner in which Foradian collects, uses, maintains and discloses information collected from users (each, a "User") of the www.fedena.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Foradian.
 
 ## Personal identification information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, except that it may prevent them from engaging in certain Site related activities.
 
 ## Non-personal identification information
 
@@ -34,6 +34,14 @@ Fedena may collect and use Users personal information for the following purposes
 
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
+## Access, Rectification and Deletion of data
+
+In order to provide an option to resume the use of our services at a later date, we may retain personal data associated with inactive accounts for up to 24 months from the date of last activity on that account. Users with an active account may access, modify, rectify and delete personal information at any time through their account. Users without an active account may send an email to info@fedena.com to request for access, rectification or deletion of their personal data. We may refuse to delete or modify your data if we need that data to protect our legal rights or to perform our legal obligations.
+
+## Other rights
+
+In addition to the rights mentioned in the previous section, Users also have the right to restrict processing of their data, to object to processing of the data, as well as the right to data portability. We will cooperate with Users to fulfil these rights as far as possible.
+
 ## How we protect your information
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
@@ -52,11 +60,11 @@ Foradian has the discretion to update this privacy policy at any time. When we d
 
 ## Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+In order to use this Site, you must accept this policy and our accompanying terms of service. If you do not agree to this policy or the terms of service, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. Provision of personal data to us under this policy is essential for us to be able to provide our services to you. Failure to provide correct and complete information to us could result in unintentional failure to provide complete and proper services to you. You may revoke your consent at any time by sending an email to info@fedena.com. Revoking your consent would result in the deletion of your account including irrevocable loss of all data related to your account.
 
-## Contacting us
+## How to contact us and how to complain
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you have any questions or comments about this Privacy Policy, the practices of this site, or your dealings with this site, we request you to please contact us at:
 
 Foradian Technologies Pvt Ltd,  
 JK Landmark, 2nd Floor, 27th Main,  
@@ -65,4 +73,6 @@ Sector 1, HSR Layout, Bangalore,
 +91-7829001801  
 [info@fedena.com](mailto:info@fedena.com)
 
-This document was last updated on March 14, 2013
+You have the right to lodge a complaint with the relevant supervisory authority, in particular where you live, work or where an alleged infringement of the GDPR has occurred.
+
+This document was last updated on May 24, 2018.
