@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freemius.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122053113id_/https%3A//freemius.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemius.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607114812id_/https%3A//freemius.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Freemius
+# Privacy Policy – Freemius
 
 Freemius, Inc. (the “Company”) is committed to maintaining robust privacy protections for its users. Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service.
 
