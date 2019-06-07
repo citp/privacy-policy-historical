@@ -1,37 +1,160 @@
-> *The following text is extracted and transformed from the readytalk.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202530id_/https%3A//www.readytalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readytalk.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607142233id_/https%3A//www.readytalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReadyTalk
 
-## ReadyTalk Privacy Policy
+  1. [Home](https://web.archive.org/)
+  2. Privacy Policy
 
-ReadyTalk is a leading provider of audio and web conferencing services. We have developed this site, currently located at www.readytalk.com (the " **ReadyTalk Site** "), to provide you with information about our services as well as to provide a means to access these services. We understand your need for privacy when using the Internet for your communication. This policy governs ReadyTalk’s practices with respect to the collection, use, and disclosure of user information collected through the ReadyTalk Site. **NOTE: This policy does NOT govern ReadyTalk’s practices with respect to information collected when registering for the ReadyTalk services, during participation in meetings, and following a conference (e.g. surveys). Such information is governed by the privacy policies (if any) of the applicable meeting organizer. Click[here](https://web.archive.org/privacy-statement) for details. **
 
-### Policies
 
-**1\. INFORMATION COLLECTION AND USAGE. Personal Information.** We will ask you to provide us with information that personally identifies you or allows us to contact you (" **Personal Information** ") when, among other things, you register on the ReadyTalk Site, use one of our services, fill out a survey, make a request for information, or enter a sweepstakes or contest through the ReadyTalk Site. We will use the Personal Information that you provide us in these circumstances to operate the ReadyTalk Site, to provision, deliver, bill and collect for services as well as provide information that you request from the ReadyTalk Site. 
+##  ReadyTalk Privacy Policy
 
-Unless you instruct us in writing not to do so, ReadyTalk may use the Personal Information that you provide us to contact you regarding additional or new services and features offered by ReadyTalk, special offers by ReadyTalk, or important information regarding ReadyTalk. We may also provide your Personal Information to other companies that are directly related to ReadyTalk or the ReadyTalk Site, or with which we have a business relationship, which may contact you regarding products, services, and offers that may be of interest to you. Except as otherwise described in this privacy policy, we will not share, sell, trade, or rent your Personal Information.
+Ecovate Inc. d/b/a ReadyTalk (“ReadyTalk”, "we" or "us") recognize and respect the importance of protecting your privacy. To that end, we have adopted the principles set forth in this privacy policy (this “Policy”) to govern our use and disclosure of your personal information. The following Policy describes how ReadyTalk collects and uses your personal information and describes your data protection rights, including a right to object to some of the processing which we carry out. More information about your rights, and how to exercise them, is set out in the “Your rights” section. We recommend that you carefully review this Policy before providing us with your personal information.
 
-Occasionally, we may use third parties to provide services for us, such as processing payments, sending email, hosting websites, or performing statistical analysis of our services and the ReadyTalk Site. These third parties are provided only the information necessary to perform their services and may use that information only for the limited purpose of performing those services. 
+  1. **Scope**
+    1. This Policy sets out how we at ReadyTalk process personal information collected or received from you on ReadyTalk’s website www.readytalk.com (the “Website”), personal information we use for marketing purposes, or personal information processed in the course of managing our relationship with our customers. It does not apply to: (a) information our customers collect or receive from you, or (b) personal information processed by ReadyTalk in the course of facilitating the delivery of our products and services to our customers. For this reason, we encourage you to consult the privacy policies on our customers’ websites before disclosing any personal information to them and through those customers´ websites.
+    2. 'You' or 'your', in this Policy, means you as an individual, rather than any legal entity which is our customer (such as your employer) which you may represent when you order a product or service from us via the Website.
+  2. **Information we collect from you**
 
-**2\. CHOICE**. You may “opt out” of receiving informational or promotional communications from us by following the instructions included in those informational or promotional communications. However, you may not “opt out” of certain mandatory notices or communications, such as billing notices or critical informational updates, that may be sent to you periodically. In addition, while we try to process all “opt out” requests in a timely manner you may continue to receive additional informational or promotional communications for a limited time after submitting your “opt out” request.
+We may collect the following personal information from you on our Website: your name, company name, title, telephone number and email address that you enter. Your browser may tell us your IP address and the type of browser and device you used, which pages you searched and key words that you entered into a search engine. We collect information about your choices and preferences by using cookies and similar technologies. We collect information on whether you opened our emails or clicked a link on our email by using web beacons.
 
-**3\. ACCESS.** When you register to use any of the services offered by ReadyTalk, ReadyTalk will send you a confirmation of your registration showing the Personal Information that we obtained from your registration. Also, as reasonably practicable, we will take steps to give you the opportunity to confirm and/or modify your Personal Information. 
+  3. **How we use personal information**
 
-**4\. SECURITY.** The Personal Information that we collect from you is stored in operating environments that are not available to the general public and are protected using commercially reasonable security measures. In the case of credit card numbers and other financial information, your Personal Information is encrypted for even greater protection. Unfortunately, no security measures are perfectly reliable or totally secure and ReadyTalk is not responsible or liable for any unauthorized or illegal access to Personal Information, unless it was the direct result of negligence or intentional misconduct on our part. However, the other sites that you may access through the ReadyTalk Site may have different security practices and you should familiarize yourself with those practices. 
+The purposes for which we collect personal information include, but are not limited to, the following: (a) to provide you information you request, and to give you a customized interactive experience; (b) to measure interest in various ReadyTalk solutions and services; (c) to inform you about new ReadyTalk solutions and services or features and functionalities; and (d) to help us develop new services, solutions or features that meet your needs. It is solely your choice whether or not you provide this information. However, should you choose not to provide the information, we may be unable to process a request or display certain content on the Website. We also may occasionally send you push notifications, which you may opt-out of by turning them off at the device level through your settings, and when you download and use our mobile applications, we may automatically collect certain information such as the type of device you use, operating system version and app version.
 
-We are not responsible for the confidentiality and security of the password issued to you by ReadyTalk. If you lose control over your password the security of your account may be compromised and you could lose control over your Personal Information. You should take care to keep your password secure and confidential. If you believe your password has been compromised, you should immediately contact us to change your password.
+  4. **Information we receive from our customers**
 
-**5\. COMPLAINTS.** If at any time you believe that we have violated any of these Policies, please notify us by email at [help@readytalk.com](mailto:help@readytalk.com)
+ReadyTalk collects personal information of employees of its customers, which it uses to communicate with and manage its customer relationships.
 
-**6\. DISCLOSURE FOR LEGAL PURPOSES.** We may disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary: (a) to conform to the edicts of the law or comply with legal process served on us or our affiliates, (b) to protect and defend our rights or property or those of our customers and other users, (c) to act immediately to protect the personal safety of our customers, other users, or the public, or (d) in connection with a merger, consolidation or sale of assets of ReadyTalk. 
+This personal information is processed under the direction of any of its customers and without a direct contractual relationship with the individuals’ users whose personal data it processes. Therefore, if users have any concerns about how their personal information is processed by ReadyTalk in the course of their use of ReadyTalk services, they should contact their employer.
 
-**7\. ANONYMOUS INFORMATION.** In addition to collecting Personal Information, we may also gather information that does not personally identify you regarding your use of the ReadyTalk Site and our services (" **Anonymous Information** "). Anonymous Information can include your domain name, IP address, browser, operating system, and internet service provider or ISP, as well as the timing and size of all packets sent through our network and servers while using our services or the ReadyTalk Site. The Anonymous Information that we collect regarding your use of the ReadyTalk Site and our services may be used by us to measure the effectiveness of marketing efforts on the ReadyTalk Site, for improving the services we offer to you, or to share with third parties for other purposes. For example, we might use this Anonymous Information to inform our advertisers how many users visited a particular advertisement, and for how long, so they can measure whether the advertisement was effective. Generally, you will not be aware when such Anonymous Information is being collected about you. Anonymous Information may be collected in various ways, such as through traffic data or direct surveys of our customers or other users and may entail the use of, among other things, cookies, IP addresses, or other numeric codes used to identify a computer by which a user accesses the ReadyTalk Site or used to identify other devices by which a user may access our services. 
+We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Customers.
 
-**8\. COOKIES.** We may use cookies to provide you with better service. Cookies are pieces of information that a Web site transfers to your computer's hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences for a particular site. The use of cookies is an industry standard, and many major Web sites use them to provide useful features for their customers. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of the functionality of the ReadyTalk Site or our services if you do so. 
+ReadyTalk acknowledges that individuals have the right to access their personal information. ReadyTalk has no direct relationship with the individuals whose personal data it processes as a data processor. If an individual would seek access, or seek to correct, amend, or delete inaccurate data, such individual should direct his/her query to their employer (the data controller). If requested to remove data ReadyTalk will respond within a reasonable timeframe.
 
-**8\. Updates.** We may update this privacy policy from time to time, so please review it often. All updates to this privacy policy will be effective when they are posted on the ReadyTalk Site. Your use of the ReadyTalk Site or our services signifies and confirms your consent to the terms of the posted privacy policy. If we are going to use your Personal Information in a way that differs materially from the terms of the privacy policy in place at the time that Personal Information was collected, we will notify you via email to seek your permission.
+We will retain personal data we process on behalf of our customer for as long as needed to provide services to our customer. ReadyTalk will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**9\. VENTURING OFF THE READYTALK SITE.** The ReadyTalk Site may contain ad banners and hyperlinks that can take you to Web sites run by third parties ("Third-Party Sites"). ReadyTalk has no control over how such Third-Party Sites will treat your Personal Information, and the terms of the privacy policies of such Third-Party Sites may differ from the terms of this Privacy Policy. Accordingly, ReadyTalk strongly recommends that you review the terms of the privacy policy at each Third-Party Site that you choose to visit before providing any Personal Information to that site.
+  5. **Use made of personal information and legal basis for this use**
 
-**Remember, this Privacy Policy applies only to information collected through the ReadyTalk Site. When you are no longer on the ReadyTalk Site, you may encounter different privacy and security practices and you should familiarize yourself with those practices each time you visit a new site.**
+ReadyTalk processes personal information for the following purposes:
+
+    1. As required by us to conduct our business and pursue our, or third parties´ legitimate interests. In particular, we collect, use and store your personal data: (i) to communicate and manage our relationship with our customers; (ii) to maintain contact data about you or a third party (such as, your employer); and (iii) to inform you of products, services, marketing plan and other business related items from ReadyTalk or third parties which may be of interest to you;
+    2. Where you give us consent: (i) ReadyTalk will send you direct marketing in relation to relevant products and services provided by ReadyTalk; (ii) ReadyTalk places cookies and use similar technologies in accordance with the "Use of Cookies and other Web Technologies" section of this Policy and the information provided to you when those technologies are used;
+    3. For purposes which are required by law: in response to requests by government or law enforcement authorities conducting an investigation.
+
+We have carried out balancing tests for all the data processing we carry out on the basis of our legitimate interests, which we have described under 5(a) above. You can obtain information on any of our balancing tests by contacting us using the details set out later in this Privacy Policy.
+
+  6. **Use of Cookies and other Web Technologies**
+    1. **Cookies**
+
+ReadyTalk and our partners use cookies or similar technologies to analyze trends, administer the Website, track users’ movements around the Website, and to gather demographic information about our user base as a whole.
+
+Cookies are pieces of information that a website transfers to your computer’s hard disk for record-keeping purposes. Cookies can make a website more useful by storing information about your preferences for a particular site. The use of cookies is an industry standard and many major websites use them to provide useful features for their users. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies on our Website. We treat any personal information that may be contained in cookies with the same level of protection as other personal information you provide to us.
+
+    2. **Widgets**
+
+To the extent our Website may include widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc.), personal information, such as your email address, may be collected through the widget. Information collected by this widget is governed by the privacy policy of the company that created it.
+
+    3. **Other Third Party Tracking and Advertising**
+
+We partner with third parties to display advertising on our Website or to manage our advertising on other sites. For our Website, we may use web analytic cookies, including the use of Google Analytics, Remarketing with Google Analytics and Google Display Network Impression Reporting to advertise online. Website and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to a website. Our Website also use third-party vendors, including Google and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Website. This helps us make our service to you better.
+
+Google analytics is provided by Google, Inc. and you can find out more about this service at http://www.google.com/analytics. Google Analytics uses cookies to help the Website analyze how users use the site. You can opt-out of Google Analytics for Display Advertising through your personal Google Preferences. Please note this does not opt you out of being served ads. You will continue to receive generic ads for ReadyTalk services.
+
+  7. **Mobile Analytics**
+
+We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. To the extent we automatically link any collect data to other information we collect about you, we do so to for reasons such as to improve ReadyTalk services we offer you, to improve marketing, analytics, or Website functionality.
+
+  8. **Framing**
+
+To the extent we employ any framing techniques on our Website, please be aware that you are providing your personal information to ReadyTalk and not to a third-party site.
+
+  9. **When, where and with whom we share personal information**
+    1. We do not sell or rent personal information, including personally identifiable information, to unrelated third parties. We do not share your personal information with others for marketing purposes unless you agree to this.
+    2. We share your personal data with third party service providers that helps us run our business, who process it on behalf of ReadyTalk for the purposes identified above. They are not permitted to use your information for their own purposes. Such third parties include providers of website analytics, online chat service and online advertising.
+    3. We also share your personal data with other ReadyTalk affiliates in the United States.
+    4. In the event that the business is sold or integrated with another business, your personal information will be disclosed to our advisers and any prospective purchaser’s adviser and will be passed to the new owners of the business.
+    5. Some of our vendors are located in the United States. Your personal information is stored on ReadyTalk´s servers and the servers of third party vendors located in different parties in the world. Where information is transferred outside the EEA or Switzerland, to a non-EEA country or a country that is not subject to an adequacy decision by the EU Commission, we rely on one or more of the following legal mechanisms: EU Commission approved standard contractual clauses, EU-US Privacy Shield, Swiss-US Privacy Shield, a vendor's Processor Binding Corporate Rules or where we have explicit consent of the individual. A copy of the relevant mechanism can be provided for your review on request to the contact details on our Privacy Contact Information section below.
+    6. We disclose personal information provided to us in limited circumstances as may be described in this Policy. These circumstances include, but are not limited to, the following: (a) to the extent required by law or to respond to judicial or governmental process or a good faith belief that such action is necessary to comply with law or legal process; (b) to protect the security and integrity of the Website and our Services; (c) to protect our rights and property and the rights and property of others; (d) to respond to claims that submitted information that violates the rights or interests of third parties or to defend against other legal claims or; (e) in connection with a merger, consolidation or sale of all or substantially all of the stock or assets of one or more of our businesses.
+  10. **Access to Personal Information; Opt-Out Preferences**
+
+Upon request ReadyTalk will provide you with information about whether we hold any of your personal information. Individuals seeking access to their personal information that we collected directly from an individual, whether to confirm such information, update it or request removal or other changes, may contact us at the Privacy Contact Details set forth below. We will respond to your request within a reasonable timeframe.
+
+  11. **Communication Preferences**
+
+You can select your communication permissions in our ReadyTalk Marketing Preference Center, update your contact information or opt-out from receiving any further communication through any email sent from us, or you can send an email to emailunsubscribe@readytalk.com confirming your email address and we can make appropriate changes. These choices do not apply to transactional service communications that are part of the ReadyTalk services or informational communications that have their own unsubscribe option included in the message.
+
+  12. **Your rights**
+    1. In some countries and in particular if you reside in the European Union, you have the right to ask us of a copy of your personal information; to correct or to delete or restrict (stop any active) processing of your personal information and to obtain the personal information you provide to us with your consent in a structured, machine readable format, and to ask us to share (port) this information to another controller.
+    2. In addition, if you reside in the European Union, you can object to the processing of your personal information in some circumstances (in particular, where we don’t have to process the data to meet a contractual or other legal requirement, or where we are using the data for direct marketing).
+    3. To the extent ReadyTalk contacts you with any promotional and advertising materials, you can opt-out or update your email preferences through any email sent from us, or you can send an email to emailunsubscribe@readytalk.com confirming your email address and we can make appropriate changes.
+    4. These rights may be limited, for example if fulfilling your request would reveal personal information about another person, or if you ask us to delete information which we are required by law to keep or have compelling legitimate interests in keeping.
+    5. To exercise any of these rights or to obtain other information, such as copy of a legitimate balancing test described in section 5 above, you can get in touch with us using the “Privacy” contact details set out below. If you reside in the European Union and you have unresolved concerns, you have the right to complain to an EU data protection authority where you live, work or where you believe a breach may have occurred.
+  13. **Retention of Personal Information**
+    1. Where we process our customer employee personal information to communicate and manage our customers relationship, we do this for as long as we provide our products and services to our customer and for a maximum of fourteen (14) months after this.
+    2. Where we process personal information for marketing or business analytic purposes or with your consent, we process the data until you ask us to stop and for a short period after this (to allow us to implement your requests). We also keep a record of the fact that you have asked us not to send you direct marketing or to process your data so that we can respect your request in future.
+
+We will retain your personal information to fulfill the purposes for which it was collected or as required for legitimate purposes, to resolve disputes, to enforce our agreements, or as required by law, regulation, or contractual requirements.
+
+  14. **Testimonials**
+
+To the extent ReadyTalk posts customer testimonials/comments/reviews on our Website, we obtain any required consent(s) prior to posting the testimonial.
+
+  15. **Social networking and Public Forums**
+
+To the extent ReadyTalk offers certain publicly accessible blogs and/or community forums on our Website, you should be aware that any information you provide in these areas may be broadly available to others, and can be read, collected, and used by others who access them, potentially inside or outside ReadyTalk. This information could also be used to send you unsolicited messages. Also, please recognize that individual blogs and/or forums may have additional rules and conditions. Each participant’s opinion on a blog or forum is his or her own and should not be considered as reflecting the opinion of ReadyTalk. We are not responsible for the personal information or any other information you choose to submit in these forums.
+
+Collection and sharing of personal information on social media apps and websites is governed by the privacy policy and practices of the social media provider. ReadyTalk may collect information about you in connection with social networking sites in several ways, including:
+
+    1. When you sign in to a ReadyTalk app or website using a social networking account;
+    2. When you use a ReadyTalk app on a social networking site or choose to join (or “like”) a ReadyTalk page on a social networking site. In these situations, the social networking site may make some information about you available to ReadyTalk;
+    3. When you interact with a ReadyTalk social networking page or content, we may use cookies to learn which links you clicked;
+    4. When you make information publicly available on your social networking page
+
+We use this information for purposes described in this Policy.
+
+  16. **Chat**
+
+We use a chat feature to help you with any questions or concerns. If our chat feature is offline we may still collect your name, email address and telephone number so that we may reply to your request.
+
+  17. **Security**
+
+We provide reasonable technical and organizational security controls to protect your personal information. However, despite our efforts, no security controls are fully effective and ReadyTalk cannot ensure or warrant the security of your personal information. We recommend you to take every precaution in protecting your personal information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser.
+
+  18. **Children**
+
+We do not knowingly collect any personal information from children under 13 years old through our Website. However, if the parent or guardian of a child under 13 believes that the child has provided us with personal information, the parent or guardian of that child should contact us through the “Privacy” contact information provided further below if they want this information deleted from our files. If we obtain knowledge that we have personal information about a child under 13 in retrievable form in our files, we will delete that information from our existing files.
+
+  19. **Third Party Websites and Cookies**
+
+Our Website may contain links to third-party websites, including social media websites. While we try to link only to websites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices of any third-party websites. The use of cookies by these third parties is not covered by this Policy. We do not have access or control over these cookies. For this reason, we encourage you to review the privacy policies of these websites before disclosing any personal information to or through them.
+
+  20. **Review of Compliance**
+
+We review our compliance with this Policy on a periodic basis, and we reserve the right to update this Policy to reflect changes to our information practices. Please check this Policy on our Website periodically for changes. If we make any material changes, for new users it will become effective upon posting, for existing users we will notify you by posting a notice of such an update on this website prior to the change becoming effective.
+
+  21. **EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**
+
+PGi participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Frameworks, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List. [https://www.privacyshield.gov](https://www.privacyshield.gov/)
+
+PGi is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. PGi complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, PGi is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+  22. **Privacy Contact Information**
+
+Should you have any privacy-related questions or comments relating to this Policy, please contact us through the contact information provided below:
+
+Email: Privacy@readytalk.com or Europe.Privacy@pgi.com
+
+Contact Office: Ecovate Inc.  
+1900 Sixteenth Street, Suite 600, Denver, CO 80202
+
+
+
+
+_Date: Last Revised May 1st, 2019_
