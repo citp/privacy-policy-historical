@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inaani.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220102352id_/https%3A//www.inaani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inaani.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607190014id_/https%3A//www.inaani.com/privacy-policy) for the most accurate reproduction.*
 
 # WholeSale VoIP Provider|VoIP Termination|voip Gateway – Inaani
 
