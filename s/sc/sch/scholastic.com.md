@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226205649id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607110434id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Scholastic Inc.
 
@@ -38,7 +38,7 @@ Here are a few general things to keep in mind as you read this Policy:
 
 You may have the right to opt in to or opt out of certain of our uses and disclosures of your Personal Information. For example, we may ask you if you want to get marketing messages from us when you submit Personal Information to us on the Site. If you do get marketing emails from us, you can tell us you don't want to get them by clicking on the opt-out link in those emails.
 
-Or, contact us through this [form](http://scholastic.custhelp.com/app/ask/p/82/incidents.subject/Third%20Party%20Opt%20Out%20Request) or write to us at: **Opt-Out Request, Scholastic Inc., 557 Broadway, New York, NY 10012**. Please include your name, address, email and phone number and tell us if you want us to stop sharing your Personal Information with third parties for marketing purposes, or if you want us to stop sending a particular kind of communication. If you are writing about a communication sent to you by Scholastic, please include the name or type of the communication and, if applicable, the name of the specific Scholastic entity or business.
+Or, contact us through this [form](https://scholastic.force.com/scholasticfaqs/s/opt-out) or write to us at: **Opt-Out Request, Scholastic Inc., 557 Broadway, New York, NY 10012**. Please include your name, address, email and phone number and tell us if you want us to stop sharing your Personal Information with third parties for marketing purposes, or if you want us to stop sending a particular kind of communication. If you are writing about a communication sent to you by Scholastic, please include the name or type of the communication and, if applicable, the name of the specific Scholastic entity or business.
 
 It may take us a few days to process any opt-out request. In addition, if you opt out of having your Personal Information shared with third parties for marketing purposes, you may continue to receive communications from third parties who received your Personal Information from us before we processed your opt-out. To stop receiving such communications, please contact the third party directly.
 
@@ -228,7 +228,7 @@ Email: custserv@scholastic.com
 Phone: 1-800-SCHOLASTIC  
 
 
-This Privacy Policy replaces our former privacy policy which you can find posted [here](https://web.archive.org/web/20181226205649id_/http%3A//www.scholastic.com/privacy-v2017-01-09-live-page.htm).
+This Privacy Policy replaces our former privacy policy which you can find posted [here](https://web.archive.org/web/20190607110434id_/http%3A//www.scholastic.com/privacy-v2017-01-09-live-page.htm).
 
 **Effective Date:** May 25, 2018
 
@@ -427,24 +427,11 @@ Phone: 800-SCHOLASTIC
 New York, NY 10012  
 Email: custserv@scholastic.com  
 Phone: 800-SCHOLASTIC  
-[Scholastic Summer Reading Challenge](https://web.archive.org/readingcampaign/privacy-policy.htm) | Scholastic Inc.  
+[Scholastic Summer Reading Challenge](https://web.archive.org/summer/privacy-policy.html) | Scholastic Inc.  
 557 Broadway  
 New York, NY 10012  
 Email: summerchallenge@scholastic.com or custserv@scholastic.com  
 Phone: 800-246-2986 or 800-SCHOLASTIC  
-[Read 100,000](https://web.archive.org/readingcampaign/privacy-policy.htm) | Scholastic Inc.  
-557 Broadway  
-New York, NY 10012  
-Email: custserv@scholastic.com  
-Phone: 800-SCHOLASTIC
-
-READ 100,000 Program  
-Scholastic Book Fairs Inc.  
-1080 Greenwood Boulevard  
-Lake Mary, FL 32746  
-Email: read100khelp@scholasticbookfairs.com  
-Phone: 800-874-4809 ext. 8269  
-  
 Scholastic Book Fairs App | Scholastic Inc.  
 557 Broadway  
 New York, NY 10012
