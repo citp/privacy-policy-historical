@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ann-angel.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206094219id_/http%3A//ann-angel.com/wp/%3Fpage_id%3D1026) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ann-angel.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608002652id_/http%3A//ann-angel.com/wp/%3Fpage_id%3D1026) for the most accurate reproduction.*
 
 # PRIVACY POLICY/ 2257 / REFUND POLICY | Ann Angel Sexy cam girl and pornstar hottie goes hardcore
 
