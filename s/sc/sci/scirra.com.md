@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scirra.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230163827id_/https%3A//www.scirra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scirra.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607033940id_/https%3A//www.scirra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -95,7 +95,9 @@ We use the information we collect about you for the following purposes:
     * Placing cookies and using similar technologies on our websites, on our apps and in email communications, in accordance with our Cookies Policy and the information provided to you when those technologies are used;
     * Accessing information stored on your device relating to your use of, and engagement with, websites and apps and bug reports;
     * On other occasions where we ask you for consent, we will use the information for the purposes which we explain at that time.
-  * For legal reasons:  Responding to requests by government or law enforcement authorities conducting an investigation. To detect, prevent, or otherwise address fraud, security or technical issues and software piracy (e.g., to confirm that software is genuine and properly licensed), helping to protect you as well as Scirra. 
+  * For legal reasons: 
+    * Responding to requests by government or law enforcement authorities conducting an investigation.
+    * To detect, prevent, or otherwise address fraud, security or technical issues and software piracy (e.g., to confirm that software is genuine and properly licensed), helping to protect you as well as Scirra.
 
 
 
@@ -176,4 +178,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ## Who can I contact with questions or concerns?
 
-If you have a privacy question, concern, or request, please email Scirra's Data Protection Officer at ten.tcurtsnocjpq@troppus.
+If you have a privacy question, concern, or request, please email Scirra's Data Protection Officer at ten.tcurtsnocejt@troppus.
