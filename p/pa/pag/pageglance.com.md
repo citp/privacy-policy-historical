@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageglance.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207023341id_/http%3A//www.pageglance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageglance.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607112748id_/http%3A//www.pageglance.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
