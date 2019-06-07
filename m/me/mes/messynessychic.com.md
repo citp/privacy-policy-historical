@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the messynessychic.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021123228id_/http%3A//www.messynessychic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messynessychic.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607185541id_/https%3A//www.messynessychic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Messy Nessy Chic
 
 ## Introduction
 
-By accessing any part of http://www.messynessychic.com/ (the “website”) you are agreeing to the terms and conditions described in this Privacy Policy. If you do not agree with any of these terms and conditions, you are required to stop using the website immediately as any unauthorized use is a violation of the terms and conditions.
+By accessing any part of https://www.messynessychic.com/ (the “website”) you are agreeing to the terms and conditions described in this Privacy Policy. If you do not agree with any of these terms and conditions, you are required to stop using the website immediately as any unauthorized use is a violation of the terms and conditions.
 
 ## Collection of Information
 
