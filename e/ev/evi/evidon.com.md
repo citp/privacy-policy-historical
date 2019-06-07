@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evidon.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215231407id_/https%3A//www.evidon.com/resources/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evidon.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608001538id_/https%3A//www.evidon.com/resources/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Evidon
 
@@ -7,6 +7,12 @@ Effective Date: February 15, 2017
 **Introduction:** We’ve gone back to our earlier name, but our mission remains the same: transparency for all. We believe deeply in this core principle and recognize that transparency, when done right, requires ongoing effort. That is why you may see Evidon change this Privacy Statement from time to time, so it can share with you not only new information about its data practices, but also new ways to communicate that information. Evidon’s goal is to empower you by giving you straightforward information so you can make an informed decision whether or not to use its products or services. Evidon is a a for-profit company and makes software products that allow for better data governance and improve the online ecosystem by helping people and organizations see, understand, and control how data is collected and used across the web—for advertising, e-commerce and more. Transparency for everyone.
 
 **Website:** This website, evidon.wpengine.com (the “Website”), is owned and operated by Evidon, Inc., and is subject to the Terms of Use Agreement found in the footer of the Website. This Privacy Statement governs information you share with Evidon when you use this Website, including personal data and explains Evidon’s data collection and use practices.
+
+**Third Party Websites:**  Evidon does not collect, retain or share end user information including unique user identifiers, or personally identifiable information gathered on sites or apps not owned by Evidon (“Third Party Websites”). For purposes of clarification, Evidon collects IP addresses on Third Party Websites, such collection: 
+
+1\. Recorded only for the purpose of recording consent;  
+2\. Retained only for the minimum amount of time required by law; and  
+3\. Not associated with any online activity (e.g., websites visited)
 
 **Application:** This Privacy Statement applies to all information, personal or otherwise, received on this Website. This Privacy Statement does not govern Evidon’s specific products, which have their own privacy statements found on this Website.
 
