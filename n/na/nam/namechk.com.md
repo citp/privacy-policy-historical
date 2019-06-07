@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namechk.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231140947id_/https%3A//namechk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namechk.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607212919id_/https%3A//namechk.com/privacy) for the most accurate reproduction.*
 
 # Namechk | Username, Domain, and Trademark Search | Username Registration
 
