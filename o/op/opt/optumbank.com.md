@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the optumbank.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224084528id_/https%3A//www.optumbank.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optumbank.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607141732id_/https%3A//www.optumbank.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - OptumBank.com
+# Privacy policy
 
-##### Financial Privacy Rule Notice
+## Financial Privacy Rule Notice
 
-****To read more about our privacy policy as it applies to Optum Bank as a regulated financial institution, and OptumHealth Financial Services, please[click here](https://web.archive.org/content/dam/optumbank/resources/ns/045-0132-Privacy-Notice.pdf), which links to our Financial Notice of Privacy Practices.
+****To read more about our privacy policy as it applies to Optum Bank as a regulated financial institution, and OptumHealth Financial Services, please[click here](https://web.archive.org/content/dam/optumbank/resources/pdf/045-0132%201216%20Optum%20Core%20Privacy%20Notice.pdf), which links to our Financial Notice of Privacy Practices.
 
-##### Social Security Number Protection Policy
+## Social Security Number Protection Policy
 
 Protecting personal information is important to Optum. It is our policy to protect the confidentiality of Social Security numbers ("SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, technical, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
 
-##### Website Privacy Policy
+## Website Privacy Policy
 
 **Introduction**  
 We recognize that the privacy of your personal information is important. The purpose of this policy is to let you know how we handle the information collected through the use of this website. Portions of this website may describe privacy practices applicable to specific types of information or to information provided on specific web pages.
@@ -85,14 +85,14 @@ We may send electronic newsletters, notification of account status, and other co
 **Information for Children Under 13**  
 We will not intentionally collect any personal information from children under the age of 13 through this website without receiving parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us.
 
-##### Contact Us 
+## Contact Us 
 
 You can [contact us](https://web.archive.org/customer-support.html) regarding this Website Privacy Policy and our related privacy practices; representatives are available Monday through Friday from 8:00 a.m. to 8:00 p.m. Eastern time. If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse.
 
-##### Effective Date
+## Effective Date
 
 The effective date of this policy is January 1, 2014.
 
-##### Changes to this Website Privacy Policy
+## Changes to this Website Privacy Policy
 
 We may change this policy. If we do so, such change will appear on this page of our website. We will also provide appropriate notice and choices to you, on this website and in other appropriate locations, based on the scope and extent of changes. You may always visit this policy to learn of any updates.
