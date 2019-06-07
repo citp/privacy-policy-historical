@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdga.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224175211id_/https%3A//www.pdga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdga.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607201240id_/https%3A//www.pdga.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Professional Disc Golf Association
 
@@ -163,7 +163,7 @@ We may use third-party Service Providers to show advertisements to you to help s
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
 
 
