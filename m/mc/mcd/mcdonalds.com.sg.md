@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mcdonalds.com.sg privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014013414id_/https%3A//www.mcdonalds.com.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.sg privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607044858id_/https%3A//www.mcdonalds.com.sg/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - McDonald's®
 
-At McDonald’s Restaurants Pte Ltd (“McDonald’s”), we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding the privacy of visitors to our Web sites, including mobile Web sites, (“Sites”) and users of our mobile device applications (“Mobile Apps”) as well as callers to McDelivery service, especially for children.
+At Hanbaobao Pte. Ltd. (Licensee of McDonald’s) (“McDonald’s”), we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding the privacy of visitors to our Web sites, including mobile Web sites, (“Sites”) and users of our mobile device applications (“Mobile Apps”) as well as callers to McDelivery service, especially for children.
 
 This Privacy Policy describes the types of personal information we collect from visitors to our Sites,  users of our Mobile Apps and McDelivery hotline callers (collectively, “Services”). The Policy also sets forth how we use this information, provides other details about our personal information practices, and explains how to contact us if you have any questions or concerns.
 
@@ -94,7 +94,7 @@ Parents may review personal information we have collected from their child that 
 
 We urge parents to regularly monitor and supervise their children’s online activities. If you have any questions about our Children’s Privacy Notice, please contact us at:
 
-McDonald’s Restaurants Pte Ltd  
+Hanbaobao Pte. Ltd. (Licensee of McDonald’s)  
 10 Kallang Avenue  
 #04-10 to #04-18  
 Tower 2 Aperia  
@@ -127,7 +127,7 @@ This Privacy Policy is effective as of 8 October 2014. From time to time, it may
 
 ### 9\. How to Contact Us
 
-McDonald’s Restaurants Pte Ltd  
+Hanbaobao Pte. Ltd. (Licensee of McDonald’s)  
 10 Kallang Avenue  
 #04-10 to #04-18  
 Tower 2 Aperia  
