@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the simplycanning.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019235402id_/https%3A//www.simplycanning.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplycanning.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607064832id_/https%3A//www.simplycanning.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Simply Canning - ie the legal stuff.
+
+#### with Sharon Peterson
 
 Welcome to SimplyCanning's privacy policy.
 
