@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinnercircle.co privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905213209id_/https%3A//www.theinnercircle.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinnercircle.co privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608170228id_/https%3A//www.theinnercircle.co/privacy) for the most accurate reproduction.*
 
 # Online dating for young professionals in the big cities
 
