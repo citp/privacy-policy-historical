@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestigetime.com privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517150225id_/https%3A//www.prestigetime.com/policies/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestigetime.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608022446id_/https%3A//prestigetime.com/policies/security-privacy) for the most accurate reproduction.*
 
 # PrestigeTime.com
 
