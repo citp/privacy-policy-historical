@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpyak.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210005229id_/http%3A//wpyak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpyak.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608210650id_/http%3A//wpyak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
