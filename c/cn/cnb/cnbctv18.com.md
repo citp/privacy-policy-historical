@@ -1,37 +1,31 @@
-> *The following text is extracted and transformed from the cnbctv18.com privacy policy that was archived on 2012-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120219222756id_/http%3A//cnbctv18.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbctv18.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609012853id_/https%3A//www.cnbctv18.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - CNBC TV18
 
-* **Overview**
+### Our Commitment
 
-Thank you for visiting www.cnbctv18.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+**CNBCTV18.com** is strongly committed to your right to privacy and to keeping your personal and financial information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information. 
 
-* **What Type of Information We Collect**
+### Information collected by **CNBCTV18.com** and how it is used
 
-The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
+**CNBCTV18.com** only collects the necessary personally identifiable information in order to respond to your requests for our customized products and services. Personally identifiable information includes, but is not limited to, first and last name, physical address, e-mail address, phone number, birth date, and any other information that itself identifies or when tied to the above information, may identify you as a specific individual. 
 
-The Web Site and third party advertisers may use cookies and other technologies such as web beacons to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit to enhance your online experience and to learn about how you use The Web Site in order to improve the quality of our services or serve appropriate advertising. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Cookies used by the Web Site may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
+This website does not collect personally identifiable information about you except when you specifically and knowingly provide it. **CNBCTV18.com** and its service partners use your personally identifiable information to operate the sites and services and to inform you of new features, services, and products from **CNBCTV18.com** and its affiliates. 
 
-In some cases, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+**CNBCTV18.com** may also carefully select other companies to send you information about their products or services which are related to the site's service but are not necessary to its operation (an "Extended Service"). If **CNBCTV18.com** intends to use personally identifiable information for an Extended Service, the **CNBCTV18.com** site will provide you with the ability and requisite instructions to decline this service. You may also stop the delivery of informational or promotional mail from **CNBCTV18.com** by following the instructions on the mail.
 
-* **Uses**
+**CNBCTV18.com** may disclose personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (i) conform to the edicts of the law or comply with legal process served on the site or its owners; (ii) protect and defend the rights or property of the site-owners, the site or the users of **CNBCTV18.com** , and (iii) act under exigent circumstances to protect the personal safety of users of **CNBCTV18.com** , the site, its owners, or the public. 
 
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
-  
+### User/member interaction features
 
-  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
-  
+**CNBCTV18.com** has many features that provide for users/members to disclose their identities and communicate with other users/members. Your use of such features and disclosure of any personal details (e.g. e-mail address) by you through these features are at your sole risk and **CNBCTV18.com** accepts no responsibility for the same. However, if your privacy has been intruded as a result of participating in such features, you could notify us by e-mail at [**CNBCTV18DigitalNews@nw18.com**](mailto:CNBCTV18DigitalNews@nw18.com). 
 
-  * We may share aggregated non-personal information with third parties outside of The Web Site. 
-  
+### Other Websites
 
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
-  
+The CNBCTV18.com site contains links to other websites. **CNBCTV18.com** is not responsible for the privacy practices or the content of such websites. 
 
-  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
-  
+### Notify Us
 
-  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
-  
+If at any time you believe that **CNBCTV18.com** or its users/members have not adhered to these principles, please notify **CNBCTV18.com** by e-mail at [**CNBCTV18DigitalNews@nw18.com**](mailto:CNBCTV18DigitalNews@nw18.com) and we will use all commercially reasonable efforts to promptly determine and correct the problem.
 
-
+### Copyright TV18 Broadcast Ltd. All rights reserved
