@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dafont.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227000230id_/https%3A//www.dafont.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dafont.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608205841id_/https%3A//www.dafont.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | dafont.com
 
@@ -16,3 +16,6 @@ Cookies are very small text files that are stored on your computer when you visi
 We use cookies to help identify your computer so we can tailor your user experience, remember that you are logged in, and track the pages you visit via Google Analytics. 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+  
+
