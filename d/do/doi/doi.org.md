@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doi.org privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207185417id_/http%3A//www.doi.org/w3c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doi.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608085632id_/http%3A//www.doi.org/w3c/privacy.html) for the most accurate reproduction.*
 
 # International DOI Foundation - Privacy Policy
 
