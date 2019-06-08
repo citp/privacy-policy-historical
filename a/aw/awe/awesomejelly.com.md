@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomejelly.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201215111id_/http%3A//awesomejelly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomejelly.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608082644id_/https%3A//awesomejelly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • AwesomeJelly.com
 
