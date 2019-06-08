@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the summitlighthouse.org privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222000523id_/https%3A//www.summitlighthouse.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitlighthouse.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608192706id_/https%3A//www.summitlighthouse.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of SummitLighthouse.org
+# Privacy Policy | The Summit Lighthouse
 
 English | [Spanish](https://www.summitlighthouse.org/politica-de-privacidad/ "undefined")
 
