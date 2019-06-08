@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021092327id_/https%3A//brilliant.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608043932id_/https%3A//brilliant.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Brilliant
 
@@ -208,7 +208,7 @@ Brilliant may amend this Privacy Statement from time to time. Use of information
 
 ## 13\. Questions or Concerns
 
-If you have any questions or concerns regarding privacy, please send us a detailed message at [privacy@brilliant.org](https://web.archive.org/web/20181021092327id_/https://brilliant.org/privacy/privacy@brilliant.org). We will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy, please send us a detailed message at [privacy@brilliant.org](https://web.archive.org/web/20190608043932id_/https://brilliant.org/privacy/privacy@brilliant.org). We will make every effort to resolve your concerns. 
 
 _Effective Date: May 21, 2018_   
 _The previous version of this document is located[here](https://web.archive.org/privacy/03-24-2014/)._
