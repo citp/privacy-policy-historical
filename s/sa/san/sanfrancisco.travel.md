@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanfrancisco.travel privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928174040id_/http%3A//www.sftravel.com/san-francisco-travel-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanfrancisco.travel privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609014944id_/https%3A//www.sftravel.com/san-francisco-travel-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | San Francisco, CA
 
