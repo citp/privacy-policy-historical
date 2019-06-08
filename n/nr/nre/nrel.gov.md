@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrel.gov privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226005851id_/https%3A//www.nrel.gov/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrel.gov privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608165950id_/https%3A//www.nrel.gov/security.html) for the most accurate reproduction.*
 
 # Security and Privacy Notices | NREL
 
