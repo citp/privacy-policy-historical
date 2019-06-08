@@ -1,54 +1,81 @@
-> *The following text is extracted and transformed from the dt-updates.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202233654id_/http%3A//www.daemon-tools.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dt-updates.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608144631id_/https%3A//www.daemon-tools.cc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DAEMON-Tools.cc - DAEMON-Tools.cc
 
-## Privacy Policy
+## Our commitment to privacy
 
-At Disc Soft, your security and privacy is of the utmost importance to us. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, and store your information. Please [let us know](https://web.archive.org/contacts) if you have any questions.
+The Disc Soft Ltd, and “AVB Disc Soft", SIA (collectively and individually “Disc Soft") value their customers and users and respect their privacy. For the purposes of the EU General Data Protection Regulation (GDPR) the data controller is Disc Soft Ltd, P.O. Box 2284, 16 Albert Hoy Avenue, Belama Phase I, Belize City, Belize.
 
-### Collection and Use of Personal Information
+This privacy policy (the “Policy") describes the personal information we may collect from you, the purposes for which we collect it, how we use it and when we may share it with third parties. This Policy also describes the choices you can make about how we collect, use and disclose your information when you provide it to us on [www.daemon-tools.cc](https://web.archive.org/home) (the “Site"). Disc Soft will not collect, use or disclose your personal information other than in compliance with this Policy.
 
-Personal information is data that can be used to uniquely identify or contact a single person.
+By using the [www.daemon-tools.cc](https://web.archive.org/home) website and/or making online purchases of products, you agree to the terms and conditions of Disc Soft Policy. If our Policy changes in the future, we will notify our customers and website users of any such changes by posting an updated Policy on our website. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective.
 
-### What personal information we collect
+Following the posting of such non-material changes, your continued use of the www.daemon-tools.cc website will constitute your acceptance of these changes and you will be bound by such changes. If you do not continue to use the [www.daemon-tools.cc](https://web.archive.org/home) website following a change to our Policy but take no other action with respect to your personal information, our use of that information will remain subject to our Policy as it was in effect prior to the change. You are responsible for regularly reviewing this Policy and any changes thereto.
 
-When you register your account, purchase a product, we may collect your email address and contact information.
+We may offer you the ability to connect with our website, or use our applications, services, and tools using a mobile device. The provisions of this Policy apply to all such mobile access and use of mobile devices. This Policy will be referenced by all mobile optimized websites.
 
-### How we use your personal information
+## Our Privacy Policy
 
-The personal information we collect allows us to register and identify your software product license. It also allows us to keep you posted on Disc Soft latest product announcements, software updates, and upcoming events. If you don’t want to be on our mailing list, you can opt out anytime by updating [your preferences](https://www.daemon-tools.cc/account/options).
+### What kind of information does Disc Soft collect?
 
-### Collection and Use of Non-Personal Information
+We may collect personal information from you when you save or otherwise provide your personal information to us, such as by setting up a user account and password, logging in as a registered user of [www.daemon-tools.cc](https://web.archive.org/home), purchasing through a website a product license, feature(s), instance, update, upgrade, the right to use product for commercial use or any term subscription, downloading product executables and installers, activating or revoking product licences, providing an email for paid or free subscription activation, providing information in your account (and you might have more than one, if you've used more than one email address when shopping with us), interacting with us by phone, email, Support Center, forum or through our websites, mobile optimized websites, or otherwise or if you complete an entry form to participate in a contest, promotion or survey or apply for partnership programs. As a result of these actions, you might supply us with personal information, such as your name, e-mail and postal addresses, phone number(s), names of people to whom licenses and subscriptions have been assigned, including address and telephone numbers, product interest information and financial information and in certain circumstances, your opinions and individual preferences. When you visit our website, we may also gather certain information automatically and store it in log files. This information may include without limitation browser information, Internet Service Provider (ISP), Operating System (OS), Internet Protocol (IP) addresses or other device identifiers, location and date/time stamp.
 
-We also collect non-personal information − data in a form that does not permit direct association with any specific individual.
+[www.daemon-tools.cc](https://web.archive.org/home) website is intended for use by adults. Disc Soft does not knowingly collect any personal information from children under the age of 13. Those under age 13 should not use [www.daemon-tools.cc](https://web.archive.org/home) website or provide Disc Soft with any personal information. Where personal information is knowingly collected from 13 to 16 year old Disc Soft will not disclose it nor transfer it to third parties without parental consent.
 
-Disc Soft collects general demographic information about visitors to our websites. The information we collect creates a broad picture of our population rather than focusing on any one individual. This information is used to continually refine our products and to identify the most popular areas of our websites.
+### For what purpose does Disc Soft collect my information?
 
-### Cookies and Other Technologies
+Disc Soft may use your personal information to (i) process your order and to answer questions about the status of your order; (ii) send you or your friends, relatives or associates, products that you have ordered; (iii) maintain contact with you and provide you with ongoing personalized service; (iv) communicate with you (via e-mail, post or otherwise) and provide you with promotional materials and additional information regarding our products, services, surveys, contests, promotions and special offers; (v) help us learn more about your shopping preferences; and (vi) conduct marketing and performance research, to assist us in measuring our customer service, benchmarking our performance and to help us improve our shopping experiences and product offerings. As provided below, you may always choose not to receive promotional materials or marketing information.
 
-Disc Soft uses third-party advertising company (Google) to serve ads when you visit our web site. This company uses [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by this company, click [here](https://www.google.com/policies/technologies/ads/).
+### Does Disc Soft share my information with third parties
 
-### Disclosure to Third Parties
+If you visit or purchase products on the [www.daemon-tools.cc](https://web.archive.org/home) website, participate in a contest, giveaway, bundle, survey, promotion or special offer, or shop at [www.daemon-tools.cc](https://web.archive.org/home) or any Disc Soft Affiliate/Partner, we may share your personal information with that Disc Soft Affiliate/Partner, so that it can communicate with you (whether by e-mail, post or otherwise) and provide you with promotional materials and additional information about its products, services, contests, promotions and special offers that may be of interest to you, or collect and use that information subject to and for other purposes contemplated by this Policy.
 
-The personal information will not be shared with Disc Soft partners or any third parties. It is stored on Disc Soft computers and accessed by authorized Disc Soft personnel only.
+We may use a third party service provider to conduct our contests, giveaways, bundles, surveys, promotions or special offers; that company will be prohibited from using our users’ personal information for any other purpose. We will not share the personal information you provide through our contests, giveaways, bundles, surveys, promotions or special offers with other third parties unless we give you prior notice and choice.
 
-Disc Soft will not share non-personal information associated with your use with any third parties unless we   
-(i) have your consent;  
-(ii) conclude that it is required by law or has a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of Disc Soft, software product, its users or the public; or  
-(iii) provide such information in certain limited circumstances to third parties to carry out tasks on Disc Soft behalf (e.g., data storage) with strict limitations that prevent the data from being used or shared except as directed by Disc Soft. When this is done, it is subject to agreements that oblige those parties to process such information only on Disc Soft instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
+We do not sell or rent your personal information to non-affiliated third parties except as permitted by law or as outlined within this Policy. However, in the event of a sale of all or substantially all of our business or another similar transaction, we may transfer or disclose your personal information to a purchaser or prospective purchaser, who may collect, use and disclose such information for the purposes of evaluating the proposed transaction or operating and managing the affairs of the acquired business, or for other purposes identified in this Policy. You will be notified via email and/or a prominent notice on our Web site of any change in uses of your personal information, as well as any choices you may have regarding your personal information.
 
-### Protection of Personal Information
+We may also use third-party advertising agencies and networks to collect data and/or serve ads when you visit our websites, install and/or use our software. These agencies may use information (not including your name, address, email address or telephone number) about your visits to this website installing and/or using our software in order to provide tailored advertisements about goods and services of interest to you.
 
-Disc Soft online services use Secure Sockets Layer (SSL) encryption on all web pages where personal information is collected. To make purchases from these services, you must use an SSL-enabled browser. Doing so protects the confidentiality of your personal information while it’s transmitted over the Internet.
+[www.daemon-tools.cc](https://web.archive.org/home) website uses third-party advertising company (Google) to serve ads when you visit our website. This company uses DART cookie information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by this company, [click here](http://www.google.com/privacy_ads.html).
 
-### Privacy Questions
+We may transfer personal information to non-affiliated third parties, such as payment processing providers to bill you for goods and services and an email service provider to send out emails on our behalf, pursuant to agreements that prohibit the third parties from using or disclosing the personal information other than for the purpose of processing and which impose security safeguards appropriate to the sensitivity of the information.
 
-Disc Soft may update its Privacy Policy from time to time. If you have any questions or concerns about Privacy Policy or data processing, please [contact us](https://web.archive.org/contacts).
+The collection, use, and disclosure of information contemplated in this Policy may involve a transfer of the information to jurisdictions located outside your country of residence that may not have equivalent laws and rules regarding personally identifiable information. By way of example, this may happen if one of our service providers is located in a country outside your home country. In these cases, we will take steps to ensure that your privacy rights continue to be protected.
 
-Last updated: September 10, 2013
+We reserve the right to disclose your personal information as required by law, and as necessary to protect the property, interests and rights of Disc Soft and the Disc Soft Affiliates/Partners.
+
+[www.daemon-tools.cc](https://web.archive.org/home) website and Disc Soft applications may contain links to websites, services and partner offers operated by third parties. These websites and applications may collect your personal information. This Policy does not apply to the practices of third parties and Disc Soft does not assume any responsibility for, and by using this website, service or partner offer, and/or accessing a third party’s website from this website you release Disc Soft of any responsibility for, the actions, practices and omissions of third parties. Please check the privacy policy at each site you visit, each service you use and each offer you accept. Whenever we transfer personal information outside of the European Economic Area in the course of sharing information as set out above we will take steps to ensure that your information will be afforded the same level of protection required of us under EU General Data Protection Regulation.
+
+### How can I exercise my choices about receiving promotions?
+
+We want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information from us or other Disc Soft Affiliates/Partners, or if you do not want us to use your information to enhance your shopping experience, please let us know by using one of the following methods: (i) call us at 1-443-381-0280, or (ii) email us at [privacy@disc-soft.com](mailto:privacy@disc-soft.com), or (iii) send your request to [Disc Soft Customer Support](https://www.daemon-tools.cc/contacts/producttechnicalsupport). Please be sure to include your full name and the e-mail address you used when you registered with or made a purchase from us. It may take up to 1 week to process your request, during which period you may continue to receive communications from Disc Soft or other Disc Soft Affiliates/Partners. You may also unsubscribe from Disc Soft Email services by using the unsubscribe link situated at the bottom of any promotional message you receive from Disc Soft.
+
+### What are cookies and how does Disc Soft use cookies on its site?
+
+We may use “cookies" to track your preferences and activities on the www.daemon-tools.cc website or an Disc Soft Affiliate’s/Partner’s website. Cookies are small data files transferred to your computer’s hard-drive by a website. We do not link the information we store in cookies to any personal information you submit while on our site. They keep a record of your preferences making your subsequent visits to the site more efficient. Cookies may store a variety of information, including, the number of times that you access a site, registration information and the number of times that you view a particular page or other item on the site. The use of cookies is a common practice adopted by most major sites to better serve their clients. Most browsers are designed to accept cookies, but they can be easily modified to block cookies; see your browser's help files for details on how to block cookies, how to know when you have received cookies and how to disable cookies completely. You can also opt-out by using the following link: networkadvertising.org/choices/. You should note, however, that without cookies, some of the website's functions will not be available, and the user will lose some of the benefits of the site.
+
+The use of cookies by our partners, affiliates, tracking utility company, and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, and service providers use session ID cookies to analyze browsing behavior or click density.
+
+### How can I access or change my personal information, withdraw my consent, or make inquiries or complaints in relation to this Policy and Disc Soft’s privacy practices?
+
+Disc Soft will ensure that the personal information it collects is as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be used. You are entitled to request access to and correction of your personal information collected by us. In order to make such a request, or if you have any questions or to make any complaint in relation to this Policy and Disc Soft’s privacy practices, please contact our privacy officer by writing to:
 
 Disc Soft Ltd.  
 P.O. Box 2284  
 16 Albert Hoy Avenue, Belama Phase 1  
 Belize City, Belize C.A.  
 
+
+If you have consented to the collection, use and/or disclosure of personal information as identified herein, please note that you can also withdraw your consent at any time by communicating with our privacy officer as provided above.
+
+### How long is personal information retained?
+
+We will keep your personal information only as long as is reasonably necessary for the purposes described in this Policy or such longer period as may be required by applicable law.
+
+### How is personal information secured?
+
+We have adopted appropriate measures to ensure the confidentiality of personal information and to safeguard personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification, in light of, among other things, the sensitivity of the information and the purposes for which it is to be used. When you enter sensitive information (such as email, account password, postal address, name and phone number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). Since we use external payment gateway services, we do not store sensitive credit card data on our systems. Furthermore, each and every Disc Soft employee, mandatory or agent must abide by this Policy. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site or our software applications, you can contact us at [privacy@disc-soft.com](mailto:privacy@disc-soft.com).
+
+### Mobile privacy
+
+We have adopted appropriate measures to ensure the confidentiality of personal information and to safeguard personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification, in light of, among other things, the sensitivity of the information and the purposes for which it is to be used. When you enter sensitive information (such as email, account password, postal address, name and phone number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). Since we use external payment gateway services, we do not store sensitive credit card data on our systems. Furthermore, each and every Disc Soft employee, mandatory or agent must abide by this Policy. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site or our software applications, you can contact us at [privacy@disc-soft.com](mailto:privacy@disc-soft.com).
