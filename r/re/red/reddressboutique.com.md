@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reddressboutique.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221203404id_/http%3A//www.reddressboutique.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reddressboutique.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608104934id_/https%3A//www.reddressboutique.com/pages/privacy-security) for the most accurate reproduction.*
 
-# Privacy | Red Dress Boutique
+# Privacy & Security – Red Dress
 
 Your privacy is super important to us! Red Dress Boutique (“RDB”) is committed to protecting your privacy and providing you with a safe and secure online experience. This Privacy Policy applies to www.reddressboutique.com, as well as any other website owned by RDB or communication sent by RDB. It discloses the kinds of information we gather, how we may use it, and how we may share it. Please read it carefully. It may be modified periodically. Your continued use of our website signifies your acceptance of this Privacy Policy. As always, feel free to contact us at customerservice@reddressboutique.com with any questions.
 
