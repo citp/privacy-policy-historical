@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10homeremedies.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302184418id_/https%3A//www.top10homeremedies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10homeremedies.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608112031id_/https%3A//www.top10homeremedies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top 10 Home Remedies
 
@@ -62,7 +62,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 We do not sell, trade, or transfer any of the information provided by you to outside parties.  Information can be disclosed to trusted third parties who help in conducting our business, but it is done so only when those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
 
- **What about third party links used in our website?     **
+ **What about third party links used in our website?  **
 
 Occasionally, at our website, we may use links of other websites. These third party links are provided solely to provide more information on topics that may be useful to the users. These third party sites have separate and independent privacy policies.  When you go to another website from our website, our Privacy Policy is no longer in effect. Hence, we have no responsibility or liability for the content provided by these third party websites.
 
