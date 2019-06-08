@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywealthcareonline.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318235947id_/https%3A//www.mywealthcareonline.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywealthcareonline.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608092124id_/https%3A//www.mywealthcareonline.com/privacy.aspx) for the most accurate reproduction.*
 
 # Alegeus > Home
 
@@ -44,4 +44,4 @@ Alegeus will occasionally update this Statement of Privacy to reflect company an
 
 Contact Information
 
-Alegeus welcomes your comments regarding this Statement of Privacy. If you believe that Alegeus has not adhered to this Statement, please contact Alegeus at [dylan.mason@fisglobal.com](mailto:dylan.mason@fisglobal.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Alegeus welcomes your comments regarding this Statement of Privacy. If you believe that Alegeus has not adhered to this Statement, please contact Alegeus at [shannon@flexplanadmin.com](mailto:shannon@flexplanadmin.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
