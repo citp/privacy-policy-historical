@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617094204id_/https%3A//www.christianitytoday.org/help/permissionsandprivacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608030207id_/https%3A//www.christianitytoday.com/ct/help/permissions-and-privacy/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | ChristianityToday.org
+# Privacy Policy | Help & Info | Christianity Today
 
 Thank you for visiting a website of Christianity Today (CT). Protecting your privacy is very important to us. To assure you of your privacy, we provide this notice to help you understand our commitment to security, what kinds of information we may gather about you when you visit our websites, how we may use that information, and how you can correct the information.
 
@@ -56,7 +56,7 @@ CT sometimes partners with third parties that operate websites and services you 
 
 > A website may be cobranded. When you provide personal information via a cobranded website, you may have the option of providing it to either or both parties.
 
-> An online store may be hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate, according to the Privacy Policy posted on Yahoo! Stores. You may [read an example here](http://store.churchlawtodaystore.com/privacypolicy.html).
+> An online store may be hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate, according to the Privacy Policy posted on Yahoo! Stores. You may [read an example here](https://store.churchlawandtax.com/).
 
 > A contest or sweepstakes may be sponsored by or co-sponsored with third parties as identified in the contest or sweepstakes' Official Rules. By virtue of these relationships, the third parties may obtain PII that visitors voluntarily submit to participate in the website activity. We have no control over these third parties' use of this information. Consult the Official Rules to determine whether these third parties will obtain such information.
 
@@ -112,3 +112,5 @@ We welcome your comments regarding this Privacy Policy. If you have any question
 465 Gundersen Drive  
 Carol Stream, IL 60188  
 630.260.6200
+
+ **Did this information help?** I found what I needed.  I still need help. 
