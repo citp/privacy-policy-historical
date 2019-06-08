@@ -1,100 +1,120 @@
-> *The following text is extracted and transformed from the linux-apps.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linux-apps.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608163638id_/https%3A//www.linux-apps.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# linux-apps.com
 
-**Go Daddy Respects Your Privacy**
+### Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Version: January 1st, 2016
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+The Site is operated by Hive01 GmbH, Am Speksel 10, 33649 Bielefeld ("hive" or the "Company"). This page sets forth the Privacy Policy (the "Policy") for the website at www.opendesktop.org all other sites owned and operated by hive and the service owned and operated by the Company (together with the Site, the "Service").
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We take the responsibility of having your personal information very seriously. We use your personal information only for providing and improving the Service. We treat your personal information as we would and do treat our own.
 
-**Information Collection and Use**
+By using the Service, you consent to the collection and use of information in accordance with this Policy.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+The Company reserves the right, at its sole discretion, to modify or replace this Policy by posting the updated version on the Site. It is your responsibility to check this Policy periodically for changes. Your continued use of the Service following the posting of any changes to this Policy constitutes your acceptance of those changes.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+### Collection of Information
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We may collect and process the following information about you:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+  * information (such as your name, email and postal address, telephone number, sex, and country of residence) that you provide by completing forms on the Site, including if you register as a user of the Service, subscribe to our newsletter, upload or submit any material through the Site, or request any information;
+  
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  * your log-in and password details in connection with the account sign-in process;
+  
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+  * details of any requests or transactions made by you through the Service;
+  
 
-**Security**
+  * communications you send to us, for example to report a problem or to submit queries, concerns, or comments regarding the Service or its content;
+  
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  * information that you post to the Site in the form of comments or contributions to discussions; and
+  
 
-**Updating Your Information**
+  * IP addresses.
+  
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### Uses of Your Personal Information
 
-      iii.      You may call us at: (480) 505-8800
+  
+We will use the personal information you provide to:
 
-       iv.      You may fax us at: (480) 505-8844
+  
 
-**Sending Emails**
+  * identify you when you sign-in to your account;
+  
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  * enable us to provide you with the Services;
+  
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * send you information we think you may find useful or which you have requested from us;
+  
 
-**Compliance with Laws and Law Enforcement**
+  * present projects to you when you use the Service which we believe will be of interest based on your geographic location and previous use of the Service;
+  
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  * administer your account with us;
+  
 
-**Third Party Service Providers**
+  * enable us to contact you regarding any question you make through the Service;
+  
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  * analyze the use of the Service and the people visiting to improve our content and Services; and
+  
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  * use for other purposes that we may disclose to you when we request your information.
+  
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Contests/Surveys**
+### Email
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+We want to communicate with you only if you want to hear from us. We try to keep emails to a minimum and give you the ability to opt out when we can.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We will send you email relating to your personal transactions. We will keep these emails to a minimum.
 
-**Tell-A-Friend**
+You will also receive certain email notifications, for which you may opt-out.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We may send you service-related announcements on rare occasions when it is necessary to do so.
 
-**What Happens to my Personal Information if I Opt Out?**
+### Third-Party Services
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We never post anything to your accounts with Facebook, Twitter, or any other third-party sites without your permission.
 
-**Transfer of Data Abroad**
+Except for the purposes of providing the Services, we will not give your name or personal information to third parties.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+### Technology
 
-**Changes in Our Practices**
+Cookies are small pieces of information which are issued to your computer when you visit a website and which store and sometimes track information about your use of the Service. opendesktop.org uses cookies to help recognize you as a repeat visitor, to improve the quality of our Service, and to try and make your browsing experience meaningful. When you enter our Site, our web server sends a cookie to your computer which allows us to recognize your computer but not specifically who is using it. By associating the identification numbers in the cookies with other customer information when, for example, you log-in to the Service, then we know that the cookie information relates to you. Some of the cookies used by our Service are served by us, and some are served by third parties who are delivering services on our behalf.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different browsers. By blocking or deleting cookies used on our Service, you may not be able to take full advantage of our Service.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+### Voluntary Disclosure
 
-**Contacting Our Site**
+Any personal information or content that you voluntarily disclose in public areas of the Site becomes publicly available and can be collected and used by other users. You should exercise caution before disclosing your personal information through these public venues.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+### Wrap-up
 
-* * *
+opendesktop.org reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights, or in the good-faith belief that it is necessary to comply with the law.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+To modify or delete the personal information you have provided to us, please log in and update your profile. We may retain certain information as required by law or for necessary business purposes.
+
+On request, we will give you a copy of all the personal information about you that we hold. This information is subject to a fee not exceeding the prescribed fee permitted by law.
+
+People under 18 (or the legal age in your jurisdiction) are not permitted to use opendesktop.org on their own, and so this privacy policy makes no provision for their use of the site.
+
+Information that you submit through the Service may be transferred to countries outside the European Economic Area ("EEA") to provide the Service to you. For example, some of our servers may be operational in the United States. If we transfer your information outside the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected.
+
+### Questions
+
+If you have questions or suggestions, please contact us: [contact@opendesktop.org](mailto:contact@opendesktop.org)
+
+  
+
