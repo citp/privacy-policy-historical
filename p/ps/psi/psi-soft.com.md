@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psi-soft.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203151314id_/http%3A//psi-soft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psi-soft.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608125652id_/http%3A//psi-soft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - psi-soft.com
 
@@ -14,7 +14,7 @@ We never sell personal data and we carry out all processing operations in strict
 
 For the purpose of this Privacy Policy, personal data means any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier etc. (the “ **Personal Data** ”).
 
-In this policy, "we", "us", “Psi-soft.com” and "our" refer to Natalie Bridges.
+In this policy, "we", "us", “Psi-soft.com” and "our" refer to Natalie Johnson.
 
 Responsibility for Processing Personal Data
 
