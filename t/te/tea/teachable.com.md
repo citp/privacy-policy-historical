@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teachable.com privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610213625id_/https%3A//teachable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachable.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608021540id_/https%3A//teachable.com/privacy-policy) for the most accurate reproduction.*
 
 # Teachable | Privacy Policy
 
 #### **PLEASE READ THIS DOCUMENT CAREFULLY**
 
-This Privacy Policy applies to the Teachable websites and related subdomains, mobile applications, and media (our "website") managed by Teachable, Inc. (“Teachable”, “we”, or “us”), and the online course creation platform that enables independent instructors (“Instructors”) to deliver live and recorded instruction and learning services as massive open online courses (“Courses”) to end-users (“Students”) through the Instructors’ schools (“Schools”). Our website, online course creation platform and related services are hereinafter collectively referred to as our "Services". 
+This Privacy Policy applies to the Teachable websites and related subdomains, mobile applications, and media (our "website") managed by Teachable, Inc. (“Teachable”, “we”, or “us”), and the online course creation platform that enables independent instructors (“Instructors”) to deliver live and recorded instruction, digital goods, and learning services as massive open online courses (“Courses”) to end-users (“Students”) through the Instructors’ schools (“Schools”). Our website, online course creation platform and related services are hereinafter collectively referred to as our "Services". 
 
 We respect your privacy and are committed to maintaining and using any information we collect through your use of our Services responsibly. 
 
@@ -62,7 +62,7 @@ We will use your PII in accordance with applicable data protection legislation a
 
 Purpose of the processing | Legal basis for the processing  
 ---|---  
-To provide you access to our Services, to administrate your myTeachable account and communicate with you regarding you myTeachable account and use of our Services. | Performance of contract.  
+To provide you access to our Services, to administrate your myTeachable account and communicate with you regarding your myTeachable account and use of our Services. | Performance of contract.  
 To market and advertise our products and Services, including making recommendations about courses and other Services you may be interested in, conducting market research, surveys or competitions. | Balancing of interests where Teachable has pursued the legitimate interest of conducting marketing activities.  
 To prevent, detect, investigate and take measures against criminal activity, fraud and misuse of or damage to our Services or network and to take measures against other threats against Teachable's or a third party's rights. | Legal basis for the processing: Balancing of interests where Teachable has pursued the following legitimate interests: (a) Teachable's interest of investigating suspicion of and taking measures against misuse of or damage to our Services or network; (b) Teachable's and/or third party's interest of investigating and producing evidence regarding criminal activity, fraud and other threats against its interest; and (c) Competent authority's interest of conducting law enforcement activities and collecting evidence for such purposes.  
 To comply with applicable laws, regulations, court orders, government and law enforcement agencies’ requests. | Compliance with a legal obligation to which Teachable is subject.  
@@ -77,7 +77,7 @@ Teachable may also disclose any of your information, which in some cases include
 
   2. With our authorized service providers. Teachable may share your PII with our authorized service providers that perform certain services and process PII on our behalf. These services may include providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to PII needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
-  3. Payment providers and your bank. For the purpose of administrating payments within our Services, we may disclose your PII to third party payment providers and your bank. 
+  3. Payment providers and your bank. For the purpose of administering payments within our Services, we may disclose your PII to third party payment providers and your bank. 
 
   4. With our business partners. When you make purchases, reservations or engage in promotions offered through our website, we may share PII with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your email address and other information to that merchant.
 
@@ -116,7 +116,7 @@ You also have the right to withdraw your consent, if applicable. If you withdraw
 
 If you would like to exercise your rights, you may contact us on the contact details provided at the bottom of this Privacy Policy.
 
-If you are unhappy with our processing of your PII or of an alleged infringement of the General Data Protection or other applicable data privacy laws, you may lodge a complaint with a competent supervisory authority, for example in the country of your habitual residence, place of work.
+If you are unhappy with our processing of your PII or of an alleged infringement of the General Data Protection Regulation or other applicable data privacy laws, you may lodge a complaint with a competent supervisory authority, for example in the country of your habitual residence or place of work.
 
 **Our Policy Concerning Children**
 
@@ -162,7 +162,7 @@ This Privacy Policy does not create rights enforceable by third parties or requi
 
 **Changes to the Privacy Policy**
 
-We may review and update this Privacy Policy from time to time in our sole discretion and will notify you of such changes. As such, your continued use of the Services after receipt of notification of changes to this Privacy Policy is deemed to be acceptance of those changes. 
+We may review and update this Privacy Policy from time to time in our sole discretion. As such, your continued use of the Services after receipt of notification of changes to this Privacy Policy is deemed to be acceptance of those changes. 
 
 **Contact Us**
 
@@ -174,4 +174,4 @@ Teachable, Inc.
 
 New York, New York 10010
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bdcdcfd4cbdcdec4fdc9d8dcded5dcdfd1d893ded2d0)
