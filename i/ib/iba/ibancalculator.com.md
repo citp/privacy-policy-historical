@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibancalculator.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128083825id_/http%3A//www.ibancalculator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibancalculator.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608151527id_/https%3A//www.ibancalculator.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,17 +84,18 @@ We hereby expressly prohibit the use of contact data published in the context of
 
 ## 3\. Data protection officer
 
-### Statutory data protection officer
+If you want a quick reply to a data protection-related request, please send a mail to: [privacy@theano.de](mailto:privacy@theano.de) . But you are also free to contact our external data protection officer.
 
-We are not required to appoint a data protection officer for our company because of its size and the categories of data it processes. However, you can still reach a competent person who performs the tasks which a data protection officer would perform:
+Data protection officer:
 
-Theano GmbH  
-Kiefernweg 8  
-49205 Hasbergen  
-Deutschland
-
-Telephone: +49 5405 9282 5432  
-Email: [privacy@theano.de](mailto:privacy@theano.de)
+Legaltrust GmbH  
+Contact person: Herr Michael Michalak  
+Lietzenburger Str. 94  
+10719 Berlin  
+Germany   
+Tel. 030 / 887 27 609  
+Fax. 030 / 887 27 606  
+E-Mail: datenschutz@prive.eu 
 
 ## 4\. Data collection on our website
 
@@ -193,7 +194,7 @@ Germany
 
 ### Tisoomi
 
-We also cooperate with tisoomi-services (a service by tisoomi GmbH, Gänsemarkt 31, 20354 Hamburg). tisoomi uses cookies for targeting ads. The data about your use of this website which tisoomi collects with its cookies (including your IP address) is processed and stored (after pseudo-anonymizing it) on a server in Germany. tisoomi uses this information for optimizing the ads display and for generating reports for the publisher. You can opt out of cookies by configuring your browser accordingly. By using this website, you declare that you agree to the data processing by tisoomi as described here. You can opt out of tisoomi's interest-based ad targeting at any time here: https://www.tisoomi-services.com/datasecurity 
+We also cooperate with tisoomi-services (a service by tisoomi GmbH, Gänsemarkt 31, 20354 Hamburg). tisoomi uses cookies for targeting ads. The data about your use of this website which tisoomi collects with its cookies (including your IP address) is processed and stored (after pseudo-anonymizing it) on a server in Germany. tisoomi uses this information for optimizing the ads display and for generating reports for the publisher. You can opt out of cookies by configuring your browser accordingly. By using this website, you declare that you agree to the data processing by tisoomi as described here. You can opt out of tisoomi's interest-based ad targeting at any time here: https://www.tisoomi-services.com/datasecurity 
 
 ### Yieldlove
 
