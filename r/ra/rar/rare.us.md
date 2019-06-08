@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rare.us privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927221703id_/https%3A//rare.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rare.us privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608083651id_/https%3A//rare.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rare
 
-_Effective Date: This policy was last updated on 05/23/2018_
+_Effective Date: This policy was last updated on **10/31** ** _/2018_**_
 
 ## **Overview**
 
-Thank you for visiting this website, which is operated by Rare Take LLC (“we,” “our,” or “us”), an Affiliate of Wide Open Media Group, LLC. This site is one of a network of ad-supported sites operated by Affiliates of Wide Open Media Group. (“Affiliate” means a company controlling, controlled by, or under common control with another company.)
+Thank you for visiting this website, which is operated by WOS, Inc. (“we,” “our,” or “us”), d/b/a Wide Open Media Group. This site is one of a network of ad-supported sites operated by Wide Open Media Group.
 
 Rare takes privacy concerns seriously. This privacy policy outlines what information is collected when you visit our site.
 
