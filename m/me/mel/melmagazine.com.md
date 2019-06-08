@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melmagazine.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104134744id_/https%3A//melmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melmagazine.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608142526id_/https%3A//melmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy - MEL Magazine
 
