@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the 1800lighting.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606162841id_/http%3A//www.1800lighting.com/Capitol-Lighting-About/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800lighting.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608075737id_/https%3A//www.1800lighting.com/privacy-policy) for the most accurate reproduction.*
 
-# 1800lighting.com - Privacy
-
-  1. [Home](https://web.archive.org/index.cfm)
-  2. Privacy Policy
-
-
-
-### Privacy Policy
+# Shop Privacy Policy | Capitol Lighting
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
@@ -17,7 +10,7 @@ When you visit our Web site you may provide us with two types of information: pe
 
 ##### Email Information
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
 
 ##### How Do We Use the Information That You Provide to Us?
 
