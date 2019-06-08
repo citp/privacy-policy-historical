@@ -1,550 +1,926 @@
-<!--The following is the downloaded HTML source of the tooled-up.com privacy policy that was archived on 2016-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161206183744id_/http%3A//www.tooled-up.com/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tooled-up.com privacy policy that was archived on 2019-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190608085157id_/https%3A//www.tooled-up.com/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	Privacy Statement : Tooled-Up.com
-</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta id="METATitle" name="title" content="Privacy Statement : Tooled-Up.com"><meta id="METADescription" name="description" content="Tooled-Up.com are committed to protecting our customer privacy. Read our Privacy Statement here."><meta id="METAKeywords" name="keywords" content="privacy, security, privacy statement, tooled-up.com"><meta name="ROBOTS" content="INDEX, FOLLOW"><meta name="Identifier-URL" content="http://www.tooled-up.com"><meta name="author" content="Chris Hill"><link rel="P3Pv1" href="/w3c/p3p.xml"><link rel="shortcut icon" href="/favicon.ico"><link rel="stylesheet" type="text/css" href="/style.css"><link rel="stylesheet" type="text/css" href="/style_print.css" media="print"><link rel="stylesheet" type="text/css" href="/prettyPhoto/css/prettyPhoto.css">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="/zoom_assets/jquery.smoothZoom.min.js"></script>
-<script src="/prettyPhoto/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>	
-<script type="text/javascript">
-function resetField(element,option,string){
-if  (option == '1' && element.value == string) {element.value =''}
-if  (option == '2' && element.value == '') { element.value = string }
-}
-function popUp(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=0,width=540,height=680,location=no');");
-}
-function toggleCats(id) {
-  var e = document.getElementById(id);
-  var x = document.getElementById(id + 'link');
-  var h = x.innerHTML;
-  if(e.style.display == 'block')
-  {
-    e.style.display = 'none';
-    h = h.replace('/images/icon_minus.png','/images/icon_plus.png');           
-    h = h.replace('Hide all','See all');           
-    x.innerHTML = h
-  } else {
-    e.style.display = 'block';
-    h = h.replace('/images/icon_plus.png','/images/icon_minus.png');           
-    h = h.replace('See all','Hide all');           
-    x.innerHTML = h
-  }
-}
-function openCategoryMenu() {
-  if ($('div.category_menu').is(':visible')) {
-    $('div.category_menu').slideUp(300);
-    var butt = $("#category_button");
-    butt.attr("src", "/images/tabhome_2.gif");
-  } else {
-    $('div.category_menu').slideDown(300);
-    var butt = $("#category_button");
-    butt.attr("src", "/images/tabhome_2_up.gif");
-  }
-}
-jQuery(function($){
-  function setZoom (){
-    $('#fullResImage').smoothZoom('destroy').smoothZoom();
-  }
-  function closeZoom (){
-    $('#fullResImage').smoothZoom('destroy');
-  }
-  //Set your popup window size here (in pixels):
-  var canvasWidth = 500;
-  var canvasHeight = 500;
-  $(".zoom_gallery a[rel^='prettyPhoto']").prettyPhoto({
-	default_width: canvasWidth,
-	default_height: canvasHeight,	
-	//slideshow:false, /* false OR interval time in ms */
-	autoplay_slideshow: false, /* true/false */
-	opacity: 0.70, /* opacity of background black */
-	theme: 'pp_default', /* light_rounded / dark_rounded / light_square / dark_square / facebook */
-	modal: false, /* If set to true, only the close button will close the window */	
-	overlay_gallery: false,
-	changepicturecallback: setZoom,
-	callback: closeZoom,
-	social_tools: false,
-	image_markup: '<div style="width:'+canvasWidth+'px; height:'+canvasHeight+'px;"><img id="fullResImage" src="{path}" /></div>',
-	fixed_size: true,
-	/******************************************
-	Enable Responsive settings below if needed.
-	Max width and height values are optional.
-	******************************************/
-	responsive: false,
-	responsive_maintain_ratio: true,
-	max_WIDTH: '',
-	max_HEIGHT: ''
-  });				
-  var canvasWidth = 540;
-  var canvasHeight = 540;
-  $("a[rel^='prettyPhotoModal']").prettyPhoto({
-	default_width: canvasWidth,
-	default_height: canvasHeight,	
-	slideshow:false,
-	autoplay_slideshow: false,
-	opacity: 0.70, /* opacity of background black */
-	theme: 'pp_default', /* light_rounded / dark_rounded / light_square / dark_square / facebook */
-	modal: true, /* If set to true, only the close button will close the window */	
-	overlay_gallery: false,
-	changepicturecallback: setZoom,
-	callback: closeZoom,
-	social_tools: false,
-	gallery_markup: false,
-	image_markup: '<div style="width:'+canvasWidth+'px; height:'+canvasHeight+'px;"><img id="fullResImage" src="{path}" /></div>',
-	fixed_size: true,
-	/******************************************
-	Enable Responsive settings below if needed.
-	Max width and height values are optional.
-	******************************************/
-	responsive: false,
-	responsive_maintain_ratio: true,
-	max_WIDTH: '',
-	max_HEIGHT: ''
-  });				
-});
-</script>    
-<script type="text/javascript">
+<!DOCTYPE html><html xml:lang="en-GB" lang="en-GB" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+	<meta charset="utf-8">
+	<title>Privacy Statement - Tooled-Up.com</title>
+	<meta name="description" content="Privacy Statement - Tooled-Up.com">
+    <meta name="keywords" content="privacy,statement,tooled-up.com">
+    <meta property="og:site_name" content="Tooled-Up.com">
+    <meta property="og:title" content="Privacy Statement - Tooled-Up.com">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Privacy Statement - Tooled-Up.com">
+    <meta property="og:image" content="http://www.tooled-up.com/content/images/logo.png">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="shortcut icon" href="/Content/images/ico/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/Content/images/ico/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/Content/images/ico/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/Content/images/ico/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/Content/images/ico/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/Content/images/ico/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/Content/images/ico/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/Content/images/ico/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/Content/images/ico/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/Content/images/ico/apple-touch-icon-180x180.png">
+    <link rel="canonical" href="https://www.tooled-up.com/help/privacy/">
+	<link href="/bundles/css?v=MklP5YV_reNhZL97KJeXCfTDHaVkpfczH-2-Ee4BXWc1" rel="stylesheet">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-63970-1']);
-  _gaq.push(['_setDomainName', 'tooled-up.com']);        
-  _gaq.push(['_trackPageview']);
+	<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+    <script src="/bundles/jquery?v=FcOLeFMOfV3_KeGBlQS8mnuNCEaf1k8auVRZfh5Afco1"></script>
+
+    <script src="/bundles/jqueryval?v=5wHfUCW4uOXKclpL5DXGd7oLV5eFyY8AsJw1FM4iDrY1"></script>
+
+    <script type="text/x-mustache-template" id="df-layer-results-template">
+        {{#is_first}}
+        {{#banner}}
+        <div class="df-banner" id="df-banner__{{ mainContainerId }}">
+            <a {{#blank}} target="_blank" {{/blank}} href="{{link}}" data-role="banner" data-banner="{{id}}">
+                <img src="{{#remove-protocol}}{{image}}{{/remove-protocol}}">
+            </a>
+        </div>
+        {{/banner}}
+        {{/is_first}}
+        {{#total}}
+        {{#results}}
+        <div class="df-card" data-role="result">
+            <a class="df-card__main doofinderDefaultProdCard" href="{{#url-params}}{{{link}}}{{/url-params}}" data-role="result-link" data-dfid="{{dfid}}">
+                <div class="df-card__content">
+                    <div id="dooSearchTitle" class="df-card__title dooSearchDefaultTitle"><h3>{{title}}</h3></div>
+                    {{#image_link}}
+                    <figure class="df-card__image">
+                        <img src="{{#remove-protocol}}{{image_link}}{{/remove-protocol}}" alt="{{title}}">
+                        {{#isOnOffer}}{{/isOnOffer}}
+                    </figure>
+                    {{/image_link}}
+                    <div class="df-card__pricing dooDefaultPricingContainer">
+                        {{#price}}
+                        <span class="df-card__price">
+                            {{#myVariants}}
+                            <span class="variants">{{variants}} types from</span>
+                            {{/myVariants}}
+                            {{#format-currency}}{{price}}{{/format-currency}}
+                        </span>
+                        {{/price}}
+                        {{#isInStock}}{{/isInStock}}
+                        {{#isAvail}}{{/isAvail}}
+                        {{#isOutStock}}{{/isOutStock}}
+                    </div>
+                </div>
+            </a>
+        </div>
+        {{/results}}
+        {{/total}}
+        {{^total}}
+        <p class="df-no-results">{{#translate}}Sorry, no results found.{{/translate}}</p>
+        {{/total}}
+    </script>
+    <script src="/bundles/doofinder?v=VC2ETWPPDNFT7Kgfw8v8ayAN1rmJJNxPQja5SIRGp1k1"></script>
+
+    <script type="text/javascript">
+    $(document).ready(function () {
+        $('*[data-autocomplete]').autocomplete({
+            source: '/home/autocomplete/',
+            minLength: 3,
+            delay: 300,
+            position: { my: "left top", at: "left bottom" }
+        });
+    })
+    </script>
+    <!--Google Analytics-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-63970-1', 'auto');
+ga('send', 'pageview');
 
 </script>
+<!--End Google Analytics -->
+
 </head>
 <body>
-<form method="post" action="./Privacy.asp" id="Main">
-<div class="aspNetHidden">
+	<div id="wrapper">
+		<header id="header">
+			<div id="accbar">
+				<div class="container">
+					<ul id="acclinks">
+						<li><a href="/">Home</a></li>
+						<li><a href="/help/delivery/">Delivery</a></li>
+						<li><a href="/help/returns/">Returns</a></li>
+                        <li><a href="/help/contact/">Contact Us</a></li>
+                        <li><a href="/compare/">Compare</a></li>
+                        <li><a href="/wishlist/">Wishlist</a></li>
+						    <li><a href="/account/register/" id="registerLink">Create an Account</a></li>
+    <li class="noborder"><a href="/account/login/" id="loginLink">Sign In</a></li>
 
+					</ul>
+					<ul id="contact">
+						<li class="phone">020 8805 3535</li>
+						<li class="mail"><a href="mailto:sales@tooled-up.com">sales@tooled-up.com</a></li>
+					</ul>
+				</div>
+			</div>            
+			<div class="container">
+                <div class="zzchristmas">
+                    <div id="logo"><a href="/"><img src="/Content/images/logo.png" alt="Tooled-Up.com"></a></div>
+                    <div id="search">
+                        <input name="Keywords" id="Keywords" type="search" placeholder="What are you looking for?" maxlength="100" class="keywords" autocomplete="off"><input name="btnSearch" type="image" src="/Content/images/butt_search.png" alt="Search">
+                    </div>
+                    <!--basket summary-->
+<div class="basket_summary ">
+    <a href="/basket/">
+        <span class="basket_icon"></span>
+    </a>
+    <div class="contents">
+        <p><a href="/basket/?returnUrl=%2Fhelp%2Fprivacy%2F">Your Basket</a></p>
+        <p>£0.00 - 0 item(s)</p>
+    </div>
 </div>
 
+                </div>
+			</div>
+            <div id="nav_wrapper">
+			<nav id="nav">
+				<div class="container">
+					<div style="position:relative;">
+                        <div class="tab browse"><a onclick="openBrowseMenu()" class="browse">Browse Tools</a></div><div class="browse_menu">
 
-<script src="/ScriptResource.axd?d=Mvm59W1h6H-u7mOCZezpPu358wLg4MNRLIrMDUmh-dCx_eQ-sm9GXOA52RwoYGf_MfnfsZgjYOqpZvbSEuBzpa4CARELn-NzaRBymTXTu3ViCOwM5pyyFSnTc8C7TnWHVcg7UDg-L2wyJCrUnp61Ejnskf8HXArYPtlqitf-Ckg1&amp;t=ffffffffeea0dba9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=PO8glM7Ym3LCoAh3-JpWOwcotX7hVTN9AanbrbB5yxYd6NvVibDihY6YpOwbBGgT1gRQQeMpZNvg3mbn8IHwWapGTmiKdNA2mDWaKb8LSKHFLOO5v2gYLi5MnpyDFJFpWGYwt4vN876AM-f4SI_m1xZ2VrEPIT3oNqyTLc93oNg1&amp;t=ffffffff87636c38" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=L01d3Jme21gXHxhLSmQIiNrcwVMVUtHDSuccVoEJlVCM2rcYmDgOi5SSN1sleKyRF9XHOPDC76yzankNAOHG8QEWTZCXcdGZQyg4A6FmwFsy-fpmNESydlB4gOuRcc9bRsBgANF6aPP0JgAG96HtfaIKllciDdfiNgsqOiUchuQ1&amp;t=ffffffff87636c38" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=ezvifQevP2q1vKe5Yqfmk3LiSRCWTGNRGnP8TJhHNLI_E47_HuY7Flga9X9Lo1mYv8oxi0sQkWcNmh3ePHr5AmDrJFG2PgvQvhnZguDj1CAvQTdl9nhIMBR_pa93ITDtf99XJykRhVw1sfbr9DY7gTcWqDOQMAfHKuHh0XnftHA1&amp;t=ffffffff87636c38" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=SAz2xSL9DylI6aB9kF_Hd8DcVaPxeGAihALQDfGUvewCkj99tvAusnPtU0--g4evEjiNHGDYZ3XucvdMAwvaz2jWIWfsWA7hT3webLwEn-Em3QZ_FcVdtpOvz0jExjy-UPCi_rpZgAy0WFmBNpA9Qz_2x4enBYfXdPv9aUPZsmo1&amp;t=ffffffff87636c38" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=15PbLBweZtULMX_UuWV5N4d3c1w0gFjEh9GXUElDZLfo_xRZfw81ZoJwqepW5NsBcac41SGJqXS6tap_ingmFY6XT6yuukkxerdsoozyfW7wzay77dcJIzZQAAAWDoV1jsVDDmOJorAXjYr8GYDfJlHeIgoB158JYCvJ9axcSsI1&amp;t=ffffffff87636c38" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=m2BuXlL4FCiJMC6QXCsX0D1UU1kUzgHbBiOJjNz4E89dGA8Pn8Iq2KhBBvdM5Vb5MAcaij9bgc27-W5rFdzt3-_6pcA-OIqn79QWhs_h0F4KyX389NKsoWjlwog4fBC1LAh7sl0eMiISFB2N68JYP0Pa-SKNBQ6p2fTvLNvt7Eo1&amp;t=ffffffff87636c38" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=G6q3m88xIAodrALq8nLDSXF4NmBgUjNZNY8Pbz3zFfQeuf2BQDKuCccqc_22iQpWZzLwnqvMcZ60d08OJVqL0BSOggN7CezHQhBRb-onk3-s4ZT7bb_JJeLmm5qRH2qnkX4Wt2e7OvBvcnw85l-sVH4XUnK1yWcDKjqOM7ESGLdFiQrsAv42o_co0yBo2RcB0&amp;t=ffffffff87636c38" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=I5_iOUNhxT8QNV2TszMBoHLgnChvtFaF7hoQTgsg_eRykG29QN8NmiU6NnJNIHYDrkKo2O_i0mC5Z8YSvVFCmsiWvfZ9v6OhRMwf5fPjIInbN-0lU9fHZ6Xg4bHrlrMZLerL4OHN6R_T1_VREDEAmeHjqM9lpUnjy4bZaMBjTLRclqExIMXuBFxxyuUfmH3n0&amp;t=ffffffff87636c38" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=rW0NecYXlRcRi3FSMg3BMCvcnv2jt2wEauOzLG4LLf006Y5Ey24CazwtTIm3St6Od9L4jZBGmwvNbZXtkS6nM07MOJTwsd_GJry7QJDQtJXi33lHAGji7nOCBiHw-2IKBXOgZHWydIbslkuFEtrZ671V8kEnlA0l3Nr6TqBdDa97z5NSX3MMToR9nJF1aKrE0&amp;t=ffffffff87636c38" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=J0tMcPUUlQ4hJfiRmXTNt8QtQfwfE2-1lX_hhzytEaT0ueAN56su3isRr_dpJxBVDpxfM0u9Qp8yyZvKFwib2cBzosTHLbZulGorscfblj8qThMmwATpGmeU0K0TXMSs0E3NNp5ZkOtFgtX31uD5GYg2wmJ09WC5Z9Xw3jYLhFAAvPuE8byn9z63znt-8QOg0&amp;t=ffffffff87636c38" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=3HE27knoDnr89oA_CrWXaLK1nw0ZuYvzOCeEI1XFkH3efAe_HKYrLPSvn8ECj8hJ7OrMuAUl-PqFNNufUi0Nc1DnwCpHt8aSQAk7etiHmVAsC4PmrM-aCE3hMwthe-1hUdQDACytly6g4hW0sQoV69Swq0hTXc4JYpuI-ftQT0GJllMmHp7rineqQeBCk4Wo0&amp;t=ffffffff87636c38" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=HG6ileapEJQizzZAR-9kF4hstcy-gdfAmhOnz9jPHrfkCTuc2gqyGwYBOYaHgnMR95W4nNfMCtL-r4DaEpdPhWJTuf4IgUme96re2W65_qzJhrtsIBdTYRc5zemDD7E5_uyixgvHIzaVa0XgXAckHA4DLDfZ_gC0ImPi7x0yFRs1&amp;t=ffffffff87636c38" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=PERTCmnUCNdIoBzI51EEKSebazQVyl41L-xrCQOTblfJj1cZyQnn502fbwEO3LG3pzhWaBUFCPZCiqcL5MoQ8lsCHiL8lAmuanzI4HyT-qEz6Yy_7AnoRV4DQnQGyzxy-Eot_fWLKQ1ZnM0YfNxhwXygzOgX1D7oWMnScZSKEknE44wrjCfdThLdLtYNtMLV0&amp;t=ffffffff87636c38" type="text/javascript"></script>
-<script src="/AutoComplete.asmx/js" type="text/javascript"></script>
-  <div id="wrapper">
 
-    <div id="header">
-      <div id="logo"><a href="http://www.tooled-up.com/"><img src="/images/Tooled-Up_logo.png" alt="Tooled-Up.com Logo" width="220" height="80"></a><a id="top"></a></div>
-
-      <!--<div id="topwrapper">-->      
-      <div id="navbar">
-        <ul>
-          <li><a href="http://www.tooled-up.com/CustomerHelp.asp">Customer Help</a></li>
-          <li class="divide">&nbsp;</li>
-          <li><a href="http://www.tooled-up.com/Contact.asp">Contact Us</a></li>
-          <li class="divide">&nbsp;</li>
-          <li><a href="javascript:PopUpZoom('/PopupHelp2.aspx?ID=99');">Tel: 0208 805 3535</a></li>
-          <li class="divide">&nbsp;</li>
-          <li><a id="LoginStatus1" title="" class="AspNet-LoginStatus" href="javascript:__doPostBack('ctl00$LoginStatus1$ctl02','')">Sign In</a></li>        
-          <li class="divide">&nbsp;</li>
-          
-              <li><a href="https://www.tooled-up.com/secure/AccountNew.aspx">Register</a></li>            
-                    
-        </ul>
-      </div>      
-      
-      
-<div id="basketwrapper">
-  <div id="basket">
-    <div id="BasketSummary_pnlEmpty">
-	
-      </div><table width="100%" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <th><a href="http://www.tooled-up.com/Basket.aspx"><img src="/images/icon_basket.png" width="15" height="15" alt="My Basket"> My Basket</a></th>
-      </tr>
-       
-      <tr>
-        <td>Your basket is currently empty</td>
-      </tr>            
-      
-                        
-      <tr>
-        <td>            
-          <ul>
-            <li><a href="http://www.tooled-up.com/Compare.aspx">My Comparisons</a></li>
-            <li><a href="http://www.tooled-up.com/Wishlist.aspx">My Wishlist</a></li>
-          </ul>
-        </td> 
-      </tr> 
-    </tbody></table>
-  </div>
-</div>
-      
-      
-      <div id="pnlQwikSearch">
-	
-      <div id="quicksearchwrapper">
-        <div id="quicksearch">
-          <table width="100%" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td width="476">
-                <table width="100%" cellspacing="0" class="searchtable">
-                  <tbody><tr>
-                    <td>
-                      
-                      <input name="ctl00$Keywords" type="text" maxlength="100" id="Keywords" placeholder="Search HERE..." style="height:23px;width:476px;font-size: 12pt; padding: 8px; color: #666666; font-family: Verdana, Geneva, Arial, helvetica, sans-serif">
-                                              
-                    </td>
-                    <td><input type="image" name="ctl00$btnSearch" id="btnSearch" src="/images/butt_search.png" alt="Search"></td>
-                  </tr>
-                </tbody></table>
-              </td>
-            </tr>
-          </tbody></table>
+<div class="dropdown_menu">
+    <div class="title">Browse Tools by Category</div>    
+    <div class="column first">
+        <div class="item">
+            <a href="/adhesives-sealants-fillers/cat/32/">Adhesives, Sealants &amp; Fillers</a>
         </div>
-      </div>
-      
-</div>        
-
-      <!--</div>-->    
-
-      <div id="tabbar">
-        <div id="tabs">
-        <ul>
-        <li><a onclick="openCategoryMenu()"><img id="category_button" src="/images/tabhome_2.gif" alt="Browse Categories" width="122" height="33"></a></li><div style="display:inline;width:0px;height:0px;"></div><!--ie8 fix--><div class="category_menu"><div class="dropdown_menu"><div class="title">Browse Categories</div><div class="column"><div class="item"><a href="http://www.tooled-up.com/category/abrasives-grinding-accessories/41/">Abrasives &amp; Grinding Accessories</a></div><div class="item"><a href="http://www.tooled-up.com/category/adhesives-sealants-fillers/32/">Adhesives, Sealants &amp; Fillers</a></div><div class="item"><a href="http://www.tooled-up.com/category/air-tools-compressors/28/">Air Tools &amp; Compressors</a></div><div class="item"><a href="http://www.tooled-up.com/category/automotive-tools/6/">Automotive Tools</a></div><div class="item"><a href="http://www.tooled-up.com/category/books-guides-videos/24/">Books, Guides &amp; Videos</a></div><div class="item"><a href="http://www.tooled-up.com/category/camping-travel-outdoors/44/">Camping, Travel &amp; Outdoors</a></div><div class="item"><a href="http://www.tooled-up.com/category/cleaning-tools/47/">Cleaning Tools</a></div><div class="item"><a href="http://www.tooled-up.com/category/construction-tools/12/">Construction Tools</a></div><div class="item"><a href="http://www.tooled-up.com/category/cycle-motorcycle/31/">Cycle &amp; Motorcycle</a></div><div class="item"><a href="http://www.tooled-up.com/category/decorating-tiling-tools/18/">Decorating &amp; Tiling Tools</a></div><div class="item"><a href="http://www.tooled-up.com/category/drill-bits-drill-accessories/42/">Drill Bits &amp; Drill Accessories</a></div><div class="item"><a href="http://www.tooled-up.com/category/electrical-electricians-tools/7/">Electrical &amp; Electricians Tools</a></div><div class="item"><a href="http://www.tooled-up.com/category/fixings-fasteners/22/">Fixings &amp; Fasteners</a></div><div class="item"><a href="http://www.tooled-up.com/category/garden-tools-machinery/3/">Garden Tools &amp; Machinery</a></div><div class="item"><a href="http://www.tooled-up.com/category/hand-tools/14/">Hand Tools</a></div></div><div class="column"><div class="item"><a href="http://www.tooled-up.com/category/fans-heaters/45/">Fans &amp; Heaters</a></div><div class="item"><a href="http://www.tooled-up.com/category/household-hardware/33/">Household &amp; Hardware</a></div><div class="item"><a href="http://www.tooled-up.com/category/industrial-heavy-machinery/43/">Industrial &amp; Heavy Machinery</a></div><div class="item"><a href="http://www.tooled-up.com/category/ladders-lift-trucks/39/">Ladders &amp; Lift Trucks</a></div><div class="item"><a href="http://www.tooled-up.com/category/lighting-torches/21/">Lighting &amp; Torches</a></div><div class="item"><a href="http://www.tooled-up.com/category/measuring-tools/8/">Measuring Tools</a></div><div class="item"><a href="http://www.tooled-up.com/category/nail-staple-guns/27/">Nail &amp; Staple Guns</a></div><div class="item"><a href="http://www.tooled-up.com/category/paints-varnishes-treatments/38/">Paints, Varnishes &amp; Treatments</a></div><div class="item"><a href="http://www.tooled-up.com/category/plumbing-tools/9/">Plumbing Tools</a></div><div class="item"><a href="http://www.tooled-up.com/category/power-tools/4/">Power Tools</a></div><div class="item"><a href="http://www.tooled-up.com/category/power-tools-cordless/34/">Power Tools Cordless</a></div><div class="item"><a href="http://www.tooled-up.com/category/power-tools-petrol-diesel/35/">Power Tools Petrol &amp; Diesel</a></div><div class="item"><a href="http://www.tooled-up.com/category/power-tool-accessories/13/">Power Tool Accessories</a></div><div class="item"><a href="http://www.tooled-up.com/category/safety-detectors/25/">Safety &amp; Detectors</a></div><div class="item"><a href="http://www.tooled-up.com/category/saw-blades-hole-saws/46/">Saw Blades &amp; Hole Saws</a></div></div><div class="column last"><div class="item"><a href="http://www.tooled-up.com/category/security-locks/19/">Security &amp; Locks</a></div><div class="item"><a href="http://www.tooled-up.com/category/socketry/29/">Socketry</a></div><div class="item"><a href="http://www.tooled-up.com/category/spanners-wrenches/30/">Spanners &amp; Wrenches</a></div><div class="item"><a href="http://www.tooled-up.com/category/tool-boxes-storage/23/">Tool Boxes &amp; Storage</a></div><div class="item"><a href="http://www.tooled-up.com/category/tool-kits/40/">Tool Kits</a></div><div class="item"><a href="http://www.tooled-up.com/category/welding-tools/11/">Welding Tools</a></div><div class="item"><a href="http://www.tooled-up.com/category/work-wear/20/">Work Wear</a></div><div class="item"><a href="http://www.tooled-up.com/category/workbenches-vices/26/">Workbenches &amp; Vices</a></div></div><div class="exit" onclick="openCategoryMenu()">Close</div></div></div><li><a href="http://www.tooled-up.com/Promo.asp"><img src="/images/tabpromo.gif" alt="Promotions" width="122" height="33"></a></li><li><a href="http://www.tooled-up.com/NewProducts.aspx"><img src="/images/tabnew_2.gif" alt="New Products" width="141" height="33"></a></li><li><a href="http://www.tooled-up.com/Clearance.aspx"><img src="/images/tabclearance.gif" alt="Special Offers" width="141" height="33"></a></li></ul></div>
-        <div style="width:303px;height:17px;float:left;background-color:#5e93c7;padding:8px;text-align:right;">
-          <p style="margin-right:20px;">
-            <a href="http://www.tooled-up.com/SearchAdvanced.aspx">Advanced Search</a> | <a href="http://www.tooled-up.com/Manufacturer.asp">Shop by Brand</a>
-          </p>        
-        </div> 
-      </div>
-      <div id="newsletter">
-        <div id="pnlSubscribe">
-	
-        <table width="100%" cellspacing="0">
-          <tbody><tr>
-            <td height="33" width="244" style="background-color:#fff;">&nbsp;</td>
-            <td width="33" style="background-color:#fff;"><img src="/images/newsletter_slope.png" width="33" height="33" alt="slope"></td>
-            <td style="white-space:nowrap;"><a href="http://www.tooled-up.com/Register">Sign Up for Tooled-Up News</a></td>
-            <td><input name="ctl00$txtSignup" type="text" value="Enter your email address..." maxlength="100" id="txtSignup" onfocus="resetField(this,1,'Enter your email address...')" onblur="resetField(this,2,'Enter your email address...')" style="width:280px;font-size: 8pt; padding: 2px; color: #666666; font-family: Verdana, Geneva, Arial, helvetica, sans-serif"></td>
-            <td width="108"><input type="image" name="ctl00$imgSignup" id="imgSignup" src="/images/buttsignup.jpg" alt="Signup for our newsletter"></td>
-          </tr>
-        </tbody></table>
-        
-</div>        
-      </div>
-
-    </div> <!--header-->
-
-    <div id="leftnav">
-          
-            
-      
-    
-
-
-    <div id="catwrapper">
-    <div class="catheader"><a href="http://www.tooled-up.com/">Browse by Category</a></div>
-	  <ul>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/abrasives-grinding-accessories/41/">Abrasives &amp; Grinding Accessories</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/adhesives-sealants-fillers/32/">Adhesives, Sealants &amp; Fillers</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/air-tools-compressors/28/">Air Tools &amp; Compressors</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/automotive-tools/6/">Automotive Tools</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/books-guides-videos/24/">Books, Guides &amp; Videos</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/camping-travel-outdoors/44/">Camping, Travel &amp; Outdoors</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/cleaning-tools/47/">Cleaning Tools</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/construction-tools/12/">Construction Tools</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/cycle-motorcycle/31/">Cycle &amp; Motorcycle</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/decorating-tiling-tools/18/">Decorating &amp; Tiling Tools</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/drill-bits-drill-accessories/42/">Drill Bits &amp; Drill Accessories</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/electrical-electricians-tools/7/">Electrical &amp; Electricians Tools</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/fixings-fasteners/22/">Fixings &amp; Fasteners</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/garden-tools-machinery/3/">Garden Tools &amp; Machinery</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/hand-tools/14/">Hand Tools</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/fans-heaters/45/">Fans &amp; Heaters</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/household-hardware/33/">Household &amp; Hardware</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/industrial-heavy-machinery/43/">Industrial &amp; Heavy Machinery</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/ladders-lift-trucks/39/">Ladders &amp; Lift Trucks</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/lighting-torches/21/">Lighting &amp; Torches</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/measuring-tools/8/">Measuring Tools</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/nail-staple-guns/27/">Nail &amp; Staple Guns</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/paints-varnishes-treatments/38/">Paints, Varnishes &amp; Treatments</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/plumbing-tools/9/">Plumbing Tools</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/power-tools/4/">Power Tools</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/power-tools-cordless/34/">Power Tools Cordless</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/power-tools-petrol-diesel/35/">Power Tools Petrol &amp; Diesel</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/power-tool-accessories/13/">Power Tool Accessories</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/safety-detectors/25/">Safety &amp; Detectors</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/saw-blades-hole-saws/46/">Saw Blades &amp; Hole Saws</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/security-locks/19/">Security &amp; Locks</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/socketry/29/">Socketry</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/spanners-wrenches/30/">Spanners &amp; Wrenches</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/tool-boxes-storage/23/">Tool Boxes &amp; Storage</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/tool-kits/40/">Tool Kits</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/welding-tools/11/">Welding Tools</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/work-wear/20/">Work Wear</a></li>
-    
-    <li class="category"><a href="http://www.tooled-up.com/category/workbenches-vices/26/">Workbenches &amp; Vices</a></li>
-  
-      
-	  </ul>
-    </div>
-  
- 
-
-
-
-
-
-      <div id="banner"><a href="/BannerClick.aspx?BID=627&amp;url=http://www.tooled-up.com/Clearance.aspx"><img src="/Banners/clearanceban.jpg" alt="Clearance Corner Bagains"></a></div>       
-    </div>
-    <div id="maincontent">
-      
-  <div id="content2col">
-    <div id="breadcrumb"><a href="/">Home</a> &gt; <a href="Privacy.asp">Privacy Statement</a></div>
-    <div class="headingbox" style="width:720px;">
-      <h1>Privacy Statement</h1>
-    </div>   
-    <div class="blurb">
-    <p><b>Privacy of data</b></p>
-	<p>Tooled-up.com Ltd ("We") are committed to protecting and respecting your privacy.</p>
-	<p>This policy (together with our terms of use, Terms of Trade, Customer Help section and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p>
-	<p>For the purpose of the Data Protection Act 1998 (the Act), the data controller is Lee Industrial Ltd of 78 Suez Road, Brimsdown, Enfield, Middlesex EN3 7PS.</p>
-	<p><b>Information We May Collect From You</b></p>
-	<p>We may collect and process the following data about you:</p>
-	<p>• Information that you provide by filling in forms on our site www.tooled-up.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, purchasing goods, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Tooled-up.com Ltd, and when you report a problem with our site.</p>
-	<p>• If you contact us, we may keep a record of that correspondence.</p>
-    <p>• We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</p>
-	<p>• Details of transactions you carry out through our site and of the fulfillment of your orders.</p>
-	<p>• Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.</p>
-	<p><b>IP Addresses And Cookies</b></p>
-	<p>We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.</p>
-	<p>For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:</p>
-	<p>• To estimate our audience size and usage pattern.</p>
-    <p>• To store information about your preferences, and so allow us to customise our site according to your individual interests.</p>
-	<p>• To speed up your searches.</p>
-	<p>• To recognise you when you return to our site.</p>
-	<p>You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.</p>
-	<p>Please note that our advertisers may also use cookies, over which we have no control.</p>
-	<p><b>Where We Store Your Personal Data</b></p>
-	<p>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things,  the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
-	<p>All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
-	<p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
-	<p><b>Uses Made Of The Information</b></p>
-	<p>We use information held about you in the following ways:</p>
-	<p>• To ensure that content from our site is presented in the most effective manner for you and for your computer.</p>
-	<p>• To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.</p>
-	<p>• To carry out our obligations arising from any contracts entered into between you and us.</p>
-	<p>• To allow you to participate in interactive features of our service, when you choose to do so.</p>
-	<p>• To notify you about changes to our products or services.</p>
-	<p>We do not pass your data to third parties other than to facilitate successful completion and delivery of your order or for our own research and feedback, such as your address details to our designated delivery partner or your contact details to oue service review partner.</p>
-	<p>If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.</p>
-	<p>We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.</p>
-	<p><b>Disclosure Of Your Information</b></p>
-	<p>We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.</p>
-	<p>We may disclose your personal information to third parties:</p>
-	<p>• In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</p>
-	<p>• If Tooled-up.com Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</p>
-	<p>• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use, Terms of Trade and other agreements; or to protect the rights, property, or safety of Tooled-up.com Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</p>
-	<p><b>Your Rights</b></p>
-	<p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at 78 Suez Road, Brimsdown, Enfield, Middlesex EN3 7PS OR sales@tooled-up.com.</p>
-	<p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.</p>
-	<p><b>Access To Information</b></p>
-	<p>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
-	<p><b>Changes To Our Privacy Policy</b></p>
-	<p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.</p>
-	<p><b>Contact</b></p>
-	<p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Tooled-Up.com 78 Suez Road, Brimsdown, Enfield, Middlesex EN3 7PS OR sales@tooled-up.com.</p>
-	
-	</div>    
-    </div>
-
+        <div class="item">
+            <a href="/air-tools-compressors/cat/28/">Air Tools &amp; Compressors</a>
+        </div>
+        <div class="item">
+            <a href="/automotive-tools/cat/6/">Automotive Tools</a>
+        </div>
+        <div class="item">
+            <a href="/books-guides-videos/cat/24/">Books, Guides &amp; Videos</a>
+        </div>
+        <div class="item">
+            <a href="/cleaning-drainage/cat/47/">Cleaning &amp; Drainage</a>
+        </div>
+        <div class="item">
+            <a href="/cycle-motorcycle/cat/31/">Cycle &amp; Motorcycle</a>
+        </div>
+        <div class="item">
+            <a href="/decorating-tiling-tools/cat/18/">Decorating &amp; Tiling Tools</a>
+        </div>
+        <div class="item">
+            <a href="/detectors-testing-tools/cat/833/">Detectors &amp; Testing Tools</a>
+        </div>
+        <div class="item">
+            <a href="/electricial/cat/7/">Electricial</a>
+        </div>
+        <div class="item">
+            <a href="/engineering-tools/cat/2000862/">Engineering Tools</a>
+        </div>
+        <div class="item">
+            <a href="/fans-heaters/cat/45/">Fans &amp; Heaters</a>
+        </div>
+        </div><div class="column">
+        <div class="item">
+            <a href="/fixings-fasteners/cat/22/">Fixings &amp; Fasteners</a>
+        </div>
+        <div class="item">
+            <a href="/garden-tools/cat/3/">Garden Tools</a>
+        </div>
+        <div class="item">
+            <a href="/hand-tools/cat/14/">Hand Tools</a>
+        </div>
+        <div class="item">
+            <a href="/household-hardware/cat/33/">Household &amp; Hardware</a>
+        </div>
+        <div class="item">
+            <a href="/label-3d-printers/cat/2000699/">Label &amp; 3D Printers</a>
+        </div>
+        <div class="item">
+            <a href="/ladders-sack-trucks/cat/39/">Ladders &amp; Sack Trucks</a>
+        </div>
+        <div class="item">
+            <a href="/lighting-torches/cat/21/">Lighting &amp; Torches</a>
+        </div>
+        <div class="item">
+            <a href="/machinery/cat/43/">Machinery</a>
+        </div>
+        <div class="item">
+            <a href="/measuring-tools/cat/8/">Measuring Tools</a>
+        </div>
+        <div class="item">
+            <a href="/paints-varnishes/cat/38/">Paints &amp; Varnishes</a>
+        </div>
+        <div class="item">
+            <a href="/plumbing-tools/cat/9/">Plumbing Tools</a>
+        </div>
+        </div><div class="column">
+        <div class="item">
+            <a href="/power-tool-accessories/cat/13/">Power Tool Accessories</a>
+        </div>
+        <div class="item">
+            <a href="/power-tools/cat/4/">Power Tools</a>
+        </div>
+        <div class="item">
+            <a href="/safety-detectors/cat/25/">Safety &amp; Detectors</a>
+        </div>
+        <div class="item">
+            <a href="/security/cat/19/">Security</a>
+        </div>
+        <div class="item">
+            <a href="/tool-boxes-storage/cat/23/">Tool Boxes &amp; Storage</a>
+        </div>
+        <div class="item">
+            <a href="/tool-kits/cat/40/">Tool Kits</a>
+        </div>
+        <div class="item">
+            <a href="/travel-outdoors/cat/44/">Travel &amp; Outdoors</a>
+        </div>
+        <div class="item">
+            <a href="/welding/cat/11/">Welding</a>
+        </div>
+        <div class="item">
+            <a href="/workbenches-vices/cat/26/">Workbenches &amp; Vices</a>
+        </div>
+        <div class="item">
+            <a href="/workwear/cat/20/">Workwear</a>
+        </div>
+        <div class="item">
+            <a href="/home/categories/">Category A to Z</a>
+        </div>
     </div>
 
     
-<div id="footergap"></div>
-<div id="footer">  
-  
-  <div id="footerwrapper">         
-    
-    <div id="footersocial">
-      <ul>
-        <li class="facebook"><a rel="me nofollow" onclick="this.target='_blank'" href="http://www.facebook.com/tooledupdotcom" title="Join us on Facebook">Join us on Facebook</a></li>
-        <li class="twitter"><a rel="me nofollow" onclick="this.target='_blank'" href="http://twitter.com/tooledupdotcom" title="Follow us on Twitter">Follow us on Twitter</a></li>
-        <li class="share"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-4e7b12c9115d178a" title="Share">Share</a></li>      
-        <li class="google"><a rel="me nofollow" onclick="this.target='_blank'" href="https://plus.google.com/111772393813313461101/posts#111772393813313461101/posts" title="Join us on Google+">Join us on Google+</a></li>
-        <li class="youtube"><a rel="me nofollow" onclick="this.target='_blank'" href="https://www.youtube.com/user/tooleduptv" title="View our YouTube Channel">YouTube Channel</a></li>
-      </ul>
-    </div>         
-        
-    <div id="footershare">      
-      <div id="fb-root"></div><script type="text/javascript">(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) {return;}js = d.createElement(s); js.id = id;js.async=true; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><fb:like href="http://www.facebook.com/tooledupdotcom" send="false" layout="button_count" font="verdana"></fb:like><p style="margin-top:16px;"><g:plusone size="small" annotation="bubble"></g:plusone></p><!-- Place this render call where appropriate --><script type="text/javascript">window.___gcfg = {lang: 'en-GB'};(function() {var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;po.async=true; po.src = 'https://apis.google.com/js/plusone.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);})();</script>    
+    <div class="column">
+        <div class="item"><a href="/home/ranges/" class="head">Tool Ranges</a></div>
+            <div class="item">
+                <a href="/black-decker-18v-cordless-system-tools/range/31/">Black &amp; Decker 18v Cordless System Tools</a>
+            </div>
+            <div class="item">
+                <a href="/black-decker-dualvolt-tools/range/21/">Black &amp; Decker Dualvolt Tools</a>
+            </div>
+            <div class="item">
+                <a href="/bosch-aqt-pressure-washers/range/51/">Bosch AQT Pressure Washers</a>
+            </div>
+            <div class="item">
+                <a href="/bosch-indego-robotic-lawnmowers/range/53/">Bosch Indego Robotic Lawnmowers</a>
+            </div>
+            <div class="item">
+                <a href="/bosch-l-boxx-tool-cases/range/37/">Bosch L-BOXX Tool Cases</a>
+            </div>
+            <div class="item">
+                <a href="/bosch-pick-click-accessories/range/60/">Bosch Pick &amp; Click Accessories</a>
+            </div>
+            <div class="item">
+                <a href="/bosch-power4all-tools/range/16/">Bosch POWER4ALL Tools</a>
+            </div>
+            <div class="item">
+                <a href="/bosch-x-lock-angle-grinder-system/range/59/">Bosch X-Lock Angle Grinder System</a>
+            </div>
+                    <div class="item">
+                <a href="/home/ranges/">View all ranges</a>
+            </div>
     </div>
-        
-    <div class="footerlinks">
-      <ul>
-        <li><a href="http://www.tooled-up.com/">Home Page</a></li>
-        <li><a href="#top">Back to Top</a></li>
-        <li><a href="http://www.tooled-up.com/Competition">Competitions</a></li>
-        <li><a href="http://www.tooled-up.com/Shop.asp">Our Shop</a></li>
-        <li><a href="http://www.tooled-up.com/About.asp">About Tooled-Up</a></li>
-        <li><a href="http://www.tooled-up.com/Delivery.aspx">Delivery Info</a></li>
-      </ul>
-    </div> 
-    <div class="footerlinks">
-      <ul>  
-        <li><a href="http://www.tooled-up.com/Privacy.asp">Privacy</a></li>
-        <li><a href="http://www.tooled-up.com/Terms.asp">Terms of Trade</a></li>
-        <li><a href="http://www.tooled-up.com/TermsUse.aspx">Terms of Use</a></li>
-        <li><a href="http://www.tooled-up.com/AcceptableUse.aspx">Acceptable Use Policy</a></li>
-      </ul>
-    </div>
-    <div class="footerlinks">
-      <ul>
-        <li><a href="http://www.tooled-up.com/Sitemap.asp">Sitemap</a></li>
-        <li><a href="http://www.tooled-up.com/Manufacturer.asp">Brand List</a></li>
-        <li><a href="http://www.tooled-up.com/cantfind/">Category A-Z</a></li>
-        <li><a href="http://www.tooled-up.com/SearchAdvanced.aspx">Advanced Search</a></li>
-        <li><a href="http://www.tooled-up.com/QualityTools.aspx">Quality Tools</a></li>
-      </ul>
-    </div>        
-    <div class="footerlinks">
-      <ul>
-        <li><a href="http://www.tooled-up.com/Contact.asp">Contact Us</a></li>
-        <li><a href="http://www.tooled-up.com/CustomerHelp.asp">Customer Help</a></li>
-        <li><a href="http://www.tooled-up.com/ManufHelp.asp">Technical Help</a></li>
-        <li><a href="http://www.tooled-up.com/Testimonial.aspx">Customer Testimonials</a></li>
-        <li><a href="http://www.tooled-up.com/Careers.aspx">Careers</a></li> 
-      </ul>
-    </div>    
-  </div> 
-
-  <div id="footersplit"></div>
-
-  <div id="footerbottom"> 
-    <div id="footeraward">
-    </div>       
-    <div id="footersecure">
-      <a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.tooled-up.com&amp;lang=en" target="_blank"><img src="/images/veriseal.gif" alt="Tooled-Up.com is a Secure and Trusted Site" width="123" height="68"></a>
-    </div>
-    <div id="footercopy">
-      <ul>
-        <li><img src="/images/creditcards.jpg" width="260" alt="Payment Mthods Accepted"></li>
-        <li>All contents © Tooled-Up.com 2001 - 2016</li>
-        <li>06/12/2016 18:37:43 - Azure_TUPWEB02</li>
-        <li><a href="http://www.fairfaxcomputing.co.uk" target="_blank">Website design by Fairfax Computing</a></li>
-      </ul>
-    </div>
-    <div id="footeraddress">
-      <p>Tooled-Up.com<br>78 Suez Road<br>Brimsdown<br>Enfield<br>Middlesex<br>EN3 7PS<br>Tel : 0208 805 3535</p>
-    </div>
-    <div id="footermrt">
-      <img src="/newsimages/Mr_T.jpg" width="100" height="85" alt="Mr T">
-    </div>
-    <div style="clear:both;">
-      <hr>
-    </div>              
-  </div>         
-
-</div>    
-    
-  </div>
-  
-  <input type="image" name="ctl00$hdnButton" id="hdnButton" src="/images/pad.gif" alt="button" style="display:none;">
-  <div id="pnlPopup">
-	
-    <div class="modalframe">
-      <div class="modalclose">
-        <table width="100%" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td width="100"><img src="/images/modalhead_tup.png" width="100" height="20" alt="Tooled-Up.com"></td>
-            <td class="centre">&nbsp;</td>
-            <td width="80"><input type="image" name="ctl00$btnClose" id="btnClose" src="/images/modalhead_close.png" alt="Close" style="width:80px;"></td>
-          </tr>
-        </tbody></table>
-      </div>
-      <div style="background-color:#FFFFFF;border:1px solid #666666;margin:5px;">
-        <iframe id="IframeEdit" frameborder="0" height="550" width="530"></iframe>
-      </div>       
-    </div>
-  
-</div>  
-  <script type="text/javascript">
-  function PopUpZoom(qrystring) {
-    var frame = $get('IframeEdit');
-    frame.src = qrystring;
-    $find('ZoomPopup').show();  
-  }
-  </script>   
-
-
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F084BDD7">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAgnNze9LijPu4bUiGaRDBH1yhlHDN25acBMNcp5pxKYrnuX+tZXHjtUJT3JD82gSZNVekZAH7n66iWui6apxhYLx2Ud8JdSnlNpPWf2ot8edmcKMCKfUS0tUff78BGWCKkqznnYUET+TNshk/3GT7xNqQjiOkzvy2kk2qFSIkbpPSL94tqXE9ilXplsYSuOpoOK5KAtUfFnYZ9oZXKAl5pS">
+    <div class="exit" onclick="openBrowseMenu()">Close</div>
 </div>
 
+						</div>
+                        <div class="tab"><a href="/brand/">Brands</a></div>
+                        <div class="tab"><a href="/home/new/">New Products</a></div>
+                        <div class="tab"><a href="/home/clearance/">Clearance</a></div>
+                        <div class="tab"><a href="/subscribe/signup/">Email Sign Up</a></div>
+                        <div class="tab"><a href="/blog/">Blog</a></div>
+					</div>
+				</div>
+			</nav>
+            </div>
+			<nav id="mobile_nav">
+				<ul>
+					<li><a onclick="openMobileMenu()"><img src="/Content/images/mobile_menu.svg" alt="Menu" width="40" height="40"></a></li>
+					<li><a onclick="openMobileSearch()"><img src="/Content/images/mobile_search.svg" alt="Search" width="40" height="40"></a></li>
+<li><a href="/basket/"><img src="/Content/images/mobile_basket.svg" alt="Basket" width="40" height="40"></a></li>
+
+						<li><a href="/account/login/"><img src="/Content/images/mobile_account.svg" alt="Sign In" width="40" height="40"></a></li>
+
+				</ul>
+			</nav>
+			<div class="mobile_menu">
+				<div class="dropdown_menu">
+					<div class="column">
+						<div class="item"><a href="/">Home</a></div>
+						<div class="item"><a href="/home/categories/">Browse Tool Categories</a></div>
+                        <div class="item"><a href="/home/departments/">Browse Departments</a></div>
+                        <div class="item"><a href="/home/ranges/">Browse Tool Ranges</a></div>
+						<div class="item"><a href="/brand/">Shop by Brand</a></div>
+						<div class="item"><a href="/home/new/">New Products</a></div>
+						<div class="item"><a href="/home/clearance/">Clearance Offers</a></div>
+                        <div class="item"><a href="/blog/">Tooled-Up Blog</a></div>
+						<div class="item"><a href="/help/contact/">Contact Us</a></div>
+						<div class="item"><a href="/help/">Customer Help</a></div>
+					</div>
+				</div>
+			</div>
+			<div class="mobile_search">
+<form action="/search/" method="get">				    <input data-autocomplete="true" name="Keywords" id="KeywordsMobile" type="search" placeholder="What are you looking for?" maxlength="100" class="keywords ui-autocomplete-input" autocomplete="off"><input name="btnSearch" type="image" src="/Content/images/butt_search.png" alt="Search">
+</form>			</div>
+		</header>
+
+		<main id="main">
+			<div class="container main">
+				
+
+<div id="breadcrumb"> <a href="/">Home</a> <a href="/help/">Customer Help &amp; Procedures</a> <span>Privacy Statement</span></div>
+
+<div class="std">
+    <h1>Privacy Statement</h1>
+
+    <h2>Privacy of data</h2>
+    <p>Tooled-up.com Limited is a wholly owned subsidiary of Lee Industrial Limited, registered in England and Wales under company number 1275052, registered office at 78 Suez Road, Brimsdown, Enfield, Middlesex EN3 7PS.</p>
+    <p>For all our services, the data controller responsible for the privacy of your data is Tooled-up Ltd.</p>
+    <p>Lee Industrial Limited ("We") are committed to protecting and respecting your privacy.</p>
+    <p>This policy (together with our terms of use, Terms of Trade, Customer Help section and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p>
+    <p>For the purpose of process your personal data The EU General Data Protection Regulation (Regulation EU 2016/679), (GDPR) sets out in law a number of different reasons why a company may collect and process your data. We use the following lawful basis for processing your personal information the data controller is Tooled-up Ltd of 78 Suez Road, Brimsdown, Enfield, Middlesex EN3 7PS.</p>
+    <p>Please contact the Data Protection Officer at Tooled-up using the contact details at the end of this policy.</p>
+    <h2>Information We May Collect From You</h2>
+    <p>We may collect and process the following data about you:</p>
+    <ul>
+        <li>Personal data means any information which relates to an individual and can be used for the purposes of identification, either directly or indirectly, typically through the use of an identifier. It does not include data where the identity has been removed.</li>
+        <li>We have grouped the different kinds of personal information we may collect, use, share or otherwise process about you below</li>
+        <li>Information that you provide by filling in forms on our site www.tooled-up.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, purchasing goods, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Tooled-up.com, and when you report a problem with our site.</li>
+        <li>If you contact us, we may keep a record of that correspondence.</li>
+        <li>We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</li>
+    </ul>
+
+    <h2>Data classification</h2>
+    <p>Types of information</p>
+    <h3>Identity Data</h3>
+    <ul>
+        <li>Data that can be used to identify you</li>
+        <li>Title, first name, last name, username or social identifier, date of birth and gender.</li>
+        <li>Your image may be recorded by CCTV if you visit our premises.</li>
+        <li>In certain situations, we may also request you provide personal identification documents.</li>
+    </ul>
+    <h3>Contact Data</h3>
+    <ul>
+        <li>Data that can be used to contact you</li>
+        <li>Billing address, delivery address, email address and telephone numbers.</li>
+    </ul>
+    <h3>Financial Data</h3>
+    <ul>
+        <li>Data relating to your finances</li>
+        <li>Bank account and payment card details.</li>
+    </ul>
+    <h3>Transactional Data</h3>
+    <ul>
+        <li>Data relating to your previous transactions</li>
+        <li>Payment transaction details to and from you (order receipts, refunds etc) and other details of products and services you have purchased from us.</li>
+        <li>Details of transactions you carry out through our site and of the fulfilment of your orders.</li>
+        <li>Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.</li>
+    </ul>
+    <h3>Technical Data</h3>
+    <ul>
+        <li>Data about the device, browser, operating system and method used to access our website</li>
+        <li>Internet protocol (IP) address, login data, browser type and version, internet connection type, time zone setting and location, browser plug-ins and versions, operating system and platform and other technology on the devices you use to access our website.</li>
+    </ul>
+    <h3>Profile Data</h3>
+    <ul>
+        <li>Data that builds a user profile when specified</li>
+        <li>Username and password, purchases or orders made by you, your interests, preferences, comments, reviews, social or marketplace identifier, feedback and survey responses</li>
+    </ul>
+    <h3>Usage Data</h3>
+    <ul>
+        <li>Data about your usage of our website and related services</li>
+        <li>Information about how you use our website, products and services including details of your visit and which site you came from to ours, the web pages viewed during your visit, any search terms you entered and the advertisements you clicked on.</li>
+    </ul>
+    <h3>Marketing and Communications Data</h3>
+    <ul>
+        <li>Data that specifies your marketing preferences and/or any communications you have with us</li>
+        <li>Your marketing preferences such as what information you would like to receive from us and by what method (by email, by mail etc).</li>
+        <li>This includes general communications data such as us making a note of conversations we have had with you in person and/or communications you sent to us.</li>
+        <li>This enables us to manage our relationship with you effectively and ensures you only receive communications from us that are relevant and timely.</li>
+    </ul>
+    <h3>Aggregated Data</h3>
+    <ul>
+        <li>We may also collect, use and share some Aggregated Data about our customers' behaviour patterns and browsing actions. This data may be derived from your personal information but it does not identify you as an individual so is not considered personal data in law. For example, we may aggregate Usage Data to calculate the number of users visiting a specific website location. Should we combine Aggregated Data with your personal data so that it can identify you as an individual then we treat the combined data as personal data and subject to the provisions of this privacy policy.</li>
+    </ul>
+    <h3>Personal identification documents</h3>
+    <ul>
+        <li>Where the law requires or we deem it necessary to prevent fraudulent activity we may ask you to provide proof of age or identity (including your passport and driver’s licence). For example, when purchasing an age restricted item or applying for a credit facility with us. This will include details of your full name, address, date of birth and facial image. A passport will also include your place of birth, gender and nationality. All data provided in this way will be treated as personal data and used in accordance with this Privacy Policy</li>
+    </ul>
+
+    <h2>IP Addresses And Cookies</h2>
+    <p>We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.</p>
+    <p>For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:</p>
+    <ul>
+        <li>To estimate our audience size and usage pattern.</li>
+        <li>To store information about your preferences, and so allow us to customise our site according to your individual interests.</li>
+        <li>To speed up your searches.</li>
+        <li>To recognise you when you return to our site.</li>
+    </ul>
+    <p>You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.</p>
+    <p>Please note that our advertisers may also use cookies, over which we have no control.</p>
+    <h2>Where We Store and protect Your Personal Data</h2>
+    <p>We understand how important data security is to you and therefore take all appropriate steps to safeguard the collection, transmission and storage of the data we collect.</p>
+    <p>All areas of our website are protected with secure connections over “https” technology. Access to your personal data is password protected and we use secure server technology that implements Transport Layer Security (TLS) encryption to protect your sensitive data. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
+    <p>All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology.</p>
+    <p>We give the option for you to store your card details safely using Sage Pays payment system for future transactions. We do this by generating an authorisation token number in a way that means none of our staff members can see your full card number. We never store your card details or security code.</p>
+    <p>Our systems are monitored constantly for possible vulnerabilities and attacks, and we are continually looking to identify ways to further strengthen security in line with new technological advances and best practices.</p>
+    <h2>Where your personal data may be processed</h2>
+    <p>We store your data on secure servers in the European Economic Area (EEA). However, sometimes we will need to share your personal data with third parties and suppliers outside the European Economic Area (EEA); for example, when placing an international order we’ll need to transfer your personal data between countries to enable us to supply the goods or services you’ve requested. If we do this, our contracts stipulate the standards they must follow at all times and we have procedures in place to ensure your data receives the same protection as if it were being processed inside the EEA.</p>
+    <h2>Uses Made Of Your Information</h2>
+    <p>We have set out in the following table all the ways in which we use your personal information. We will only use your information when the law allows us to, and the legal bases on which we rely upon to do so are also included in the table. In some instances, depending on the specific purpose for which we are using your data, there may be more than one lawful ground for processing your information.</p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Purpose/Activity</th>
+                <th>Type of data</th>
+                <th>Lawful basis for processing including basis of legitimate interest</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>To register you as a new customer</td>
+                <td>
+                    • Identity<br>
+                    • Contact
+                </td>
+                <td>
+                    • Contractual obligation
+                </td>
+            </tr>
+            <tr>
+                <td>When you make an online purchase when logged in to your account</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Financial<br>
+                    • Transactional<br>
+                    • Marketing and Communications
+                </td>
+                <td>
+                    • Contractual obligation<br>
+                    • Legitimate interests
+                </td>
+            </tr>
+            <tr>
+                <td>When you make an online purchase, and check out as a guest</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Financial<br>
+                    • Transactional<br>
+                    • Marketing and Communications
+                </td>
+                <td>
+                    • Contractual obligation<br>
+                    • Legitimate interests
+                </td>
+            </tr>
+            <tr>
+                <td>When you make a purchase in store or by telephone</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Financial<br>
+                    • Transactional<br>
+                    • Marketing and Communications
+                </td>
+                <td>
+                    • Contractual obligation<br>
+                    • Legitimate interests
+                </td>
+            </tr>
+            <tr>
+                <td>When you contact us by any means with queries, Delivery Issues, complaints etc</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Marketing and Communications
+                </td>
+                <td>
+                    • Contractual obligation<br>
+                    • Legitimate interests
+                </td>
+            </tr>
+            <tr>
+                <td>When you ask us to email you about a product information</td>
+                <td>
+                    • Identity<br>
+                    • Contact
+                </td>
+                <td>
+                    • Contractual obligation
+                </td>
+            </tr>
+            <tr>
+                <td>When you live chat with us</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Technical<br>
+                    • Usage
+                </td>
+                <td>
+                    • Contractual obligation
+                </td>
+            </tr>
+            <tr>
+                <td>When you request to join our Email mailing list</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Profile<br>
+                    • Marketing and Communications
+                </td>
+                <td>
+                    • Consent
+                </td>
+            </tr>
+            <tr>
+                <td>When you engage with us on social media</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Profile
+                </td>
+                <td>
+                    • Contractual obligation
+                </td>
+            </tr>
+            <tr>
+                <td>When you engage with us via our blog</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Profile<br>
+                    • Marketing and Communications
+                </td>
+                <td>
+                    • Contractual obligation<br>
+                    • Legitimate interests
+                </td>
+            </tr>
+            <tr>
+                <td>When you enter prize draws or competitions</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Profile<br>
+                    • Usage<br>
+                    • Marketing and Communications
+                </td>
+                <td>
+                    • Consent<br>
+                    • Legitimate interests
+                </td>
+            </tr>
+            <tr>
+                <td>When you choose to complete any surveys, we send you to complete</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Profile<br>
+                    • Usage<br>
+                    • Marketing and Communications
+                </td>
+                <td>
+                    • Consent<br>
+                    • Legitimate interests
+                </td>
+            </tr>
+            <tr>
+                <td>When you comment on or review on our products, Item content or services</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Profile
+                </td>
+                <td>
+                    • Consent
+                </td>
+            </tr>
+            <tr>
+                <td>When you Visit our shop, premises, we may record your image on CCTV systems operated for security.</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Technical<br>
+                    • Usage<br>
+                    • Profile
+                </td>
+                <td>
+                    • Legitimate compliance<br>
+                    • Legitimate interests
+                </td>
+            </tr>
+            <tr>
+                <td>When We make suggestions and recommendations to you about goods or services that may be of interest to you</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Technical<br>
+                    • Usage<br>
+                    • Profile
+                </td>
+                <td>
+                    • Legitimate interests
+                </td>
+            </tr>
+            <tr>
+                <td>When you browse our website, we may record data analytics to improve our products/services and marketing/communications with you</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Technical<br>
+                    • Usage<br>
+                    • Profile<br>
+                    • Marketing and Communications
+                </td>
+                <td>
+                    • Legitimate interests
+                </td>
+            </tr>
+            <tr>
+                <td>To deliver relevant website content/advertisements and measure the effectiveness of the advertising we serve to you</td>
+                <td>
+                    • Identity<br>
+                    • Contact<br>
+                    • Technical<br>
+                    • Usage<br>
+                    • Profile
+                </td>
+                <td>
+                    • Legitimate interests
+                </td>
+            </tr>
+            <tr>
+                <td>Administer and protect our business and our website (including troubleshooting, data analysis, logging, testing, maintenance, support, reporting and hosting of data)</td>
+                <td>
+                    • Identity<br>
+                    • Contact
+                </td>
+                <td>
+                    • Legitimate interests
+                </td>
+            </tr>
+            <tr>
+                <td>We may collect data from publicly accessible sources (such as government agencies) where you have given consent to share information or it is made public by law</td>
+                <td>
+                    • Identity<br>
+                    • Contact
+                </td>
+                <td>
+                    • Contractual obligation<br>
+                    • Legitimate interests
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>How is my personal data shared?</h2>
+    <p><u>We do not and will not sell any of your personal data to any third party for any purpose.</u></p>
+    <p>However, we sometimes share your personal data with trusted third parties as an essential part of providing our services to you as set out in this statement.</p>
+    <h3>Information we share with third parties</h3>
+    <p>We share information with trusted third parties according to the following rules:</p>
+    <ul>
+        <li>We provide only the information they need</li>
+        <li>They may only use your data for the exact purpose we specify</li>
+        <li>We work closely with them to ensure your privacy is respected and protected</li>
+        <li>If we stop using their services, any of your data held by them will either be deleted or rendered anonymous</li>
+    </ul>
+    <h3>Example third party companies we work with</h3>
+    <p>Where necessary we share your data with the following example categories of companies:</p>
+    <ul>
+        <li>Companies that enable us to get your purchases to you, such as payment service providers, warehouses, order packers, drop ship providers and delivery companies.</li>
+        <li>Professional service providers, such as marketing agencies, advertising partners, IT companies and website hosts who help us run our business.</li>
+        <li>Credit reference agencies, law enforcement and fraud prevention agencies, so we can protect against fraud.</li>
+        <li>Companies approved by you, such as social media sites (if you choose to link your accounts to us) or payment providers such as Sage Pay payment process Services, and PayPal where you choose to use their payment service.</li>
+        <li>Advertising platforms such as Google and Facebook to show you products that might be of interest to you whilst browsing the internet.</li>
+        <li>Direct marketing companies who help us manage our communications with you.</li>
+        <li>Data insight companies to ensure your details are up-to-date and accurate.</li>
+        <li>Professional advisors such as our auditors, regulators, external legal and financial advisors.</li>
+    </ul>
+    <h3>Sharing your data with third parties for their own purposes</h3>
+    <p>In very specific circumstances we will share your information with third parties for their own purposes.</p>
+    <ul>
+        <li>Fraud management companies may use the information we provide them for analysis and risk profiling. We may also be required to share data about individuals with law enforcement bodies.</li>
+        <li>Where required by law we may disclose your personal data to the police or other enforcement, regulatory or Government body, in your country of origin or elsewhere, upon a valid request to do so. Individual requests are assessed on a case-by-case basis.</li>
+        <li>Where applicable we may opt your product purchase into a relevant warranty scheme in order to ensure your tools and machines are protected. In these instances, we use our legitimate interests as a legal basis and both the security and privacy of your personal data is our utmost priority. This does not include permission to send marketing communications.</li>
+    </ul>
+    <p>To help personalise your experience on our website we currently use the following companies who in specific scenarios will process your personal data as part of their contract with us:</p>
+    <ul>
+        <li>Google</li>
+        <li>Facebook</li>
+        <li>Twitter</li>
+        <li>Instagram</li>
+        <li>Reviews.co.uk</li>
+        <li>Live Chat</li>
+        <li>UK-Mail</li>
+        <li>DPD</li>
+        <li>Royal Mail</li>
+        <li>SagePay</li>
+    </ul>
+    <p>You have the right to object to any of this processing at any time. If you wish to do this, please contact us.</p>
+
+    <h2>Your Rights</h2>
+    <p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Tooled-up 78 Suez Road, Brimsdown , Enfield, Middlesex EN3 7PS or Email sales@tooled-up.com.</p>
+    <p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</p>
+    <h2>Access to Your Personal Information</h2>
+    <p>If you choose to share personal data with Tooled-up you have rights relating to your personal information. You have the right to request:</p>
+    <ul>
+        <li>Information about the collection and use of your personal data</li>
+        <li>Access to the personal data we hold about you, free of charge, in most cases.</li>
+        <li>The correction of inaccurate, out of date or incomplete personal data held about you.</li>
+        <li>Your personal information to be erased, not processed or collected where there is no good reason for us to continue processing it. Otherwise known as 'the right to be forgotten'.</li>
+        <li>We stop using your personal data for direct marketing</li>
+        <li>We stop any content based processing of your personal data after you have withdrawn your consent.</li>
+        <li>We transfer or port elements of your data either to you or another service provider.</li>
+        <li>A review of any decision made based solely on automatic processing of your data.</li>
+    </ul>
+    <p>If we choose not to action your request we will explain to you our reasons for refusal.</p>
+    <h3>Time limit to respond</h3>
+    <p>We aim to respond to all legitimate requests within one month. Occasionally it may take us longer if your particular request is complex or you have made a number of requests.</p>
+    <h3>Retention of information</h3>
+    <p>When we collect or process your personal information we will only keep it for as long as it is necessary to provide our services to you and to comply with our legal and contractual obligations.</p>
+    <p>At the end of that retention period, your data will be either deleted or anonymised. In the latter scenario the data will be used in a non-identifiable way for statistical and business planning purposes. For purposes such as tax, accounting and warranty we will keep a record of all orders placed with us for the legally required duration of seven years.</p>
+    <h2>Changes To Our Privacy Policy</h2>
+    <p>Any changes we may make to our privacy policy in the future will be posted on this page.</p>
+    <h2>Contacting the Regulator</h2>
+    <p>If you wish to make a complaint about the way we handle your personal data, or you are unhappy with our response to any requests you have made to us regarding the use of your personal data, you may contact the Information Commissioner's Office by calling 0303 1231113 or contacting them via their website: <a href="http://www.ico.org.uk" target="_blank">www.ico.org.uk</a></p>
+    <h2>Contact us</h2>
+    <p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to The Data Protection Officer Tooled-Up.com 78 Suez Road, Brimsdown, Enfield, Middlesex EN3 7PS OR <a href="mailto:sales@tooled-up.com">sales@tooled-up.com</a>.</p>
+
+</div>
+
+			</div>
+		</main>
+
+		<footer id="footer">
+			<div class="container">
+				<div id="reviewscouk">
+					<link rel="stylesheet" type="text/css" href="https://s3.amazonaws.com/icomoon.io/40686/revsglobal-widgets/style.css" property="stylesheet">
+					<script type="text/javascript" src="https://dash.reviews.co.uk/packages/widget/tooled-up/2015-08-26.15.08.20-320.js"></script>
+					<div id="reviewscoukWidget"></div>
+					<script>
+						jQuery("#reviewscoukWidget").reviewscouk(reviewscoukTemplate);
+					</script>
+				</div>
+                <div id="signup" style="width:300px;">
+                </div>
+                <div id="social">
+                  <p>Ways to keep in touch</p>
+                  <ul>
+                    <li><a href="https://www.facebook.com/tooledupdotcom" target="_blank" class="facebook" title="Follow us on Facebook"></a></li>
+                    <li><a href="https://twitter.com/tooledupdotcom" target="_blank" class="twitter" title="Follow us on Twitter"></a></li>
+                    <li><a href="https://www.youtube.com/user/tooleduptv" target="_blank" class="youtube" title="View our Youtube channel"></a></li>
+                    <li><a href="https://plus.google.com/+tooledup/" target="_blank" class="google" title="Follow us on Google Plus"></a></li>
+                    <li><a href="https://www.instagram.com/tooledup/" target="_blank" class="instagram" title="Follow us on Instagram"></a></li>
+                  </ul>
+                </div>
+			</div>
+			<div id="reviews">
+				<div class="container">
+					<ul>
+						<li class="prod">
+							<a href="/home/categories/"><span>Over 100,000 Products</span><br>
+							Huge Range of Top Brand Tools</a>
+						</li>
+						<li class="estb">
+							<a href="/home/shop/"><span>Established 1976</span><br>
+							Trading Online Since 1996</a>
+						</li>
+						<li class="delv">
+							<a href="/home/reviews/"><span>Over 1 Million</span><br>
+							Parcels Successfully Delivered!</a>
+						</li>
+						<li class="cust">
+							<a href="/home/reviews/"><span>Over 850,000</span><br>
+							Satisfied Customers &amp; Counting!</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="container">
+				<div class="clear"></div>
+				<div id="payment">
+					<ul>
+						<li><img src="/Content/images/icon_pay_visa.png" alt="Visa"></li>
+                        <li><img src="/Content/images/icon_pay_vbv.png" alt="Verified by Visa"></li>
+						<li><img src="/Content/images/icon_pay_mastercard.png" alt="Mastercard"></li>
+                        <li><img src="/Content/images/icon_pay_msc.png" alt="Mastercard Securecode"></li>
+						<li><img src="/Content/images/icon_pay_visadebit.png" alt="Visa Debit"></li>
+						<li><img src="/Content/images/icon_pay_maestro.png" alt="Maestro"></li>
+						<li><img src="/Content/images/icon_pay_paypal.png" alt="Paypal"></li>
+					</ul>
+				</div>
+                <div class="clear"></div>
+                <div class="row footer_row">
+                    <div class="col-1-4 footer_col">                     
+                        <ul class="footerlinks">
+                            <li><a href="#top">Back to Top</a></li>
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/help/contact/">Contact Us</a></li>
+                            <li><a href="/home/shop/">Tooled-Up.com Tool Super Store</a></li>
+                            <li><a href="/home/reviews/">Tooled-Up.com Reviews</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-1-4 footer_col">
+                        <ul class="footerlinks">
+                            <li><a href="/help/delivery/">Delivery Info</a></li>
+                            <li><a href="/help/privacy/">Privacy</a></li>
+                            <li><a href="/help/termstrade/">Terms of Trade</a></li>
+                            <li><a href="/help/termsuse/">Terms of Use</a></li>
+                            <li><a href="/help/acceptuse/">Acceptable Use Policy</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-1-4 footer_col">
+                        <ul class="footerlinks">
+                            <li><a href="/home/sitemap/">Sitemap</a></li>
+                            <li><a href="/brand/">Shop by Brand</a></li>
+                            <li><a href="/home/categories/">Category A to Z</a></li>
+                            <li><a href="/home/ranges/">Tool Ranges</a></li>
+                            <li><a href="/competition/">Competitions</a></li>
+                            <li><a href="/home/vouchers/">Voucher Codes</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-1-4 footer_col">
+                        <ul class="footerlinks">
+                            <li><a href="/home/marketing/">Marketing Dept</a></li>
+                            <li><a href="/help/">Customer Help</a></li>
+                            <li><a href="/help/technical/">Technical Help</a></li>
+                            <li><a href="/home/careers/">Careers</a></li>
+                            <li class="dim">08/06/2019 09:51:57 - Azure</li>
+                            <li class="dim"><a class="dim" href="http://www.fairfaxcomputing.co.uk" target="_blank">Website by Fairfax Computing</a></li>
+                        </ul>
+                    </div>
+                </div>
+			</div>
+		</footer>
+        <a href="#" class="back-to-top">
+            <i>^ Top</i>
+        </a>
+	</div>
+	
+    <!-- Google Code for Remarketing Tag -->
 <script type="text/javascript">
-//<![CDATA[
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.AutoCompleteBehavior, {"completionInterval":10,"completionListCssClass":"autocomplete","completionListItemCssClass":"autocompleteitem","delimiterCharacters":"","highlightedItemCssClass":"autocompleteitemhilite","id":"AutoCompleteExtenderSearch","minimumPrefixLength":4,"serviceMethod":"GetCompletionList","servicePath":"/AutoComplete.asmx"}, null, null, $get("Keywords"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalbg","CancelControlID":"btnClose","PopupControlID":"pnlPopup","dynamicServicePath":"/Privacy.asp","id":"ZoomPopup"}, null, null, $get("hdnButton"));
-});
-//]]>
+var google_tag_params = {
+ecomm_pagetype: 'other',
+};
 </script>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTcwNjgxNjMwD2QWAmYPZBYEAgEPZBYGAgQPFgIeB2NvbnRlbnQFIVByaXZhY3kgU3RhdGVtZW50IDogVG9vbGVkLVVwLmNvbWQCBQ8WAh8ABWBUb29sZWQtVXAuY29tIGFyZSBjb21taXR0ZWQgdG8gcHJvdGVjdGluZyBvdXIgY3VzdG9tZXIgcHJpdmFjeS4gUmVhZCBvdXIgUHJpdmFjeSBTdGF0ZW1lbnQgaGVyZS5kAgYPFgIfAAUzcHJpdmFjeSwgc2VjdXJpdHksIHByaXZhY3kgc3RhdGVtZW50LCB0b29sZWQtdXAuY29tZAIDD2QWDmYPFgIeBFRleHQFUDxhIGhyZWY9ImphdmFzY3JpcHQ6UG9wVXBab29tKCcvUG9wdXBIZWxwMi5hc3B4P0lEPTk5Jyk7Ij5UZWw6IDAyMDggODA1IDM1MzU8L2E+ZAIBEA8WAh4NTG9nb3V0UGFnZVVybAUZaHR0cDovL3d3dy50b29sZWQtdXAuY29tL2RkZAIDD2QWAmYPDxYCHgdWaXNpYmxlaGQWAgIFDw8WBB4LUG9zdEJhY2tVcmwFM2h0dHBzOi8vd3d3LnRvb2xlZC11cC5jb20vc2VjdXJlL0NoZWNrb3V0TG9naW4uYXNweB8DaGRkAgUPFgIfAQXdIjxkaXYgY2xhc3M9ImNvbHVtbiI+PGRpdiBjbGFzcz0iaXRlbSI+PGEgaHJlZj0iaHR0cDovL3d3dy50b29sZWQtdXAuY29tL2NhdGVnb3J5L2FicmFzaXZlcy1ncmluZGluZy1hY2Nlc3Nvcmllcy80MS8iPkFicmFzaXZlcyAmIEdyaW5kaW5nIEFjY2Vzc29yaWVzPC9hPjwvZGl2PjxkaXYgY2xhc3M9Iml0ZW0iPjxhIGhyZWY9Imh0dHA6Ly93d3cudG9vbGVkLXVwLmNvbS9jYXRlZ29yeS9hZGhlc2l2ZXMtc2VhbGFudHMtZmlsbGVycy8zMi8iPkFkaGVzaXZlcywgU2VhbGFudHMgJiBGaWxsZXJzPC9hPjwvZGl2PjxkaXYgY2xhc3M9Iml0ZW0iPjxhIGhyZWY9Imh0dHA6Ly93d3cudG9vbGVkLXVwLmNvbS9jYXRlZ29yeS9haXItdG9vbHMtY29tcHJlc3NvcnMvMjgvIj5BaXIgVG9vbHMgJiBDb21wcmVzc29yczwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvYXV0b21vdGl2ZS10b29scy82LyI+QXV0b21vdGl2ZSBUb29sczwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvYm9va3MtZ3VpZGVzLXZpZGVvcy8yNC8iPkJvb2tzLCBHdWlkZXMgJiBWaWRlb3M8L2E+PC9kaXY+PGRpdiBjbGFzcz0iaXRlbSI+PGEgaHJlZj0iaHR0cDovL3d3dy50b29sZWQtdXAuY29tL2NhdGVnb3J5L2NhbXBpbmctdHJhdmVsLW91dGRvb3JzLzQ0LyI+Q2FtcGluZywgVHJhdmVsICYgT3V0ZG9vcnM8L2E+PC9kaXY+PGRpdiBjbGFzcz0iaXRlbSI+PGEgaHJlZj0iaHR0cDovL3d3dy50b29sZWQtdXAuY29tL2NhdGVnb3J5L2NsZWFuaW5nLXRvb2xzLzQ3LyI+Q2xlYW5pbmcgVG9vbHM8L2E+PC9kaXY+PGRpdiBjbGFzcz0iaXRlbSI+PGEgaHJlZj0iaHR0cDovL3d3dy50b29sZWQtdXAuY29tL2NhdGVnb3J5L2NvbnN0cnVjdGlvbi10b29scy8xMi8iPkNvbnN0cnVjdGlvbiBUb29sczwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvY3ljbGUtbW90b3JjeWNsZS8zMS8iPkN5Y2xlICYgTW90b3JjeWNsZTwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvZGVjb3JhdGluZy10aWxpbmctdG9vbHMvMTgvIj5EZWNvcmF0aW5nICYgVGlsaW5nIFRvb2xzPC9hPjwvZGl2PjxkaXYgY2xhc3M9Iml0ZW0iPjxhIGhyZWY9Imh0dHA6Ly93d3cudG9vbGVkLXVwLmNvbS9jYXRlZ29yeS9kcmlsbC1iaXRzLWRyaWxsLWFjY2Vzc29yaWVzLzQyLyI+RHJpbGwgQml0cyAmIERyaWxsIEFjY2Vzc29yaWVzPC9hPjwvZGl2PjxkaXYgY2xhc3M9Iml0ZW0iPjxhIGhyZWY9Imh0dHA6Ly93d3cudG9vbGVkLXVwLmNvbS9jYXRlZ29yeS9lbGVjdHJpY2FsLWVsZWN0cmljaWFucy10b29scy83LyI+RWxlY3RyaWNhbCAmIEVsZWN0cmljaWFucyBUb29sczwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvZml4aW5ncy1mYXN0ZW5lcnMvMjIvIj5GaXhpbmdzICYgRmFzdGVuZXJzPC9hPjwvZGl2PjxkaXYgY2xhc3M9Iml0ZW0iPjxhIGhyZWY9Imh0dHA6Ly93d3cudG9vbGVkLXVwLmNvbS9jYXRlZ29yeS9nYXJkZW4tdG9vbHMtbWFjaGluZXJ5LzMvIj5HYXJkZW4gVG9vbHMgJiBNYWNoaW5lcnk8L2E+PC9kaXY+PGRpdiBjbGFzcz0iaXRlbSI+PGEgaHJlZj0iaHR0cDovL3d3dy50b29sZWQtdXAuY29tL2NhdGVnb3J5L2hhbmQtdG9vbHMvMTQvIj5IYW5kIFRvb2xzPC9hPjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9ImNvbHVtbiI+PGRpdiBjbGFzcz0iaXRlbSI+PGEgaHJlZj0iaHR0cDovL3d3dy50b29sZWQtdXAuY29tL2NhdGVnb3J5L2ZhbnMtaGVhdGVycy80NS8iPkZhbnMgJiBIZWF0ZXJzPC9hPjwvZGl2PjxkaXYgY2xhc3M9Iml0ZW0iPjxhIGhyZWY9Imh0dHA6Ly93d3cudG9vbGVkLXVwLmNvbS9jYXRlZ29yeS9ob3VzZWhvbGQtaGFyZHdhcmUvMzMvIj5Ib3VzZWhvbGQgJiBIYXJkd2FyZTwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvaW5kdXN0cmlhbC1oZWF2eS1tYWNoaW5lcnkvNDMvIj5JbmR1c3RyaWFsICYgSGVhdnkgTWFjaGluZXJ5PC9hPjwvZGl2PjxkaXYgY2xhc3M9Iml0ZW0iPjxhIGhyZWY9Imh0dHA6Ly93d3cudG9vbGVkLXVwLmNvbS9jYXRlZ29yeS9sYWRkZXJzLWxpZnQtdHJ1Y2tzLzM5LyI+TGFkZGVycyAmIExpZnQgVHJ1Y2tzPC9hPjwvZGl2PjxkaXYgY2xhc3M9Iml0ZW0iPjxhIGhyZWY9Imh0dHA6Ly93d3cudG9vbGVkLXVwLmNvbS9jYXRlZ29yeS9saWdodGluZy10b3JjaGVzLzIxLyI+TGlnaHRpbmcgJiBUb3JjaGVzPC9hPjwvZGl2PjxkaXYgY2xhc3M9Iml0ZW0iPjxhIGhyZWY9Imh0dHA6Ly93d3cudG9vbGVkLXVwLmNvbS9jYXRlZ29yeS9tZWFzdXJpbmctdG9vbHMvOC8iPk1lYXN1cmluZyBUb29sczwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvbmFpbC1zdGFwbGUtZ3Vucy8yNy8iPk5haWwgJiBTdGFwbGUgR3VuczwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvcGFpbnRzLXZhcm5pc2hlcy10cmVhdG1lbnRzLzM4LyI+UGFpbnRzLCBWYXJuaXNoZXMgJiBUcmVhdG1lbnRzPC9hPjwvZGl2PjxkaXYgY2xhc3M9Iml0ZW0iPjxhIGhyZWY9Imh0dHA6Ly93d3cudG9vbGVkLXVwLmNvbS9jYXRlZ29yeS9wbHVtYmluZy10b29scy85LyI+UGx1bWJpbmcgVG9vbHM8L2E+PC9kaXY+PGRpdiBjbGFzcz0iaXRlbSI+PGEgaHJlZj0iaHR0cDovL3d3dy50b29sZWQtdXAuY29tL2NhdGVnb3J5L3Bvd2VyLXRvb2xzLzQvIj5Qb3dlciBUb29sczwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvcG93ZXItdG9vbHMtY29yZGxlc3MvMzQvIj5Qb3dlciBUb29scyBDb3JkbGVzczwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvcG93ZXItdG9vbHMtcGV0cm9sLWRpZXNlbC8zNS8iPlBvd2VyIFRvb2xzIFBldHJvbCAmIERpZXNlbDwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvcG93ZXItdG9vbC1hY2Nlc3Nvcmllcy8xMy8iPlBvd2VyIFRvb2wgQWNjZXNzb3JpZXM8L2E+PC9kaXY+PGRpdiBjbGFzcz0iaXRlbSI+PGEgaHJlZj0iaHR0cDovL3d3dy50b29sZWQtdXAuY29tL2NhdGVnb3J5L3NhZmV0eS1kZXRlY3RvcnMvMjUvIj5TYWZldHkgJiBEZXRlY3RvcnM8L2E+PC9kaXY+PGRpdiBjbGFzcz0iaXRlbSI+PGEgaHJlZj0iaHR0cDovL3d3dy50b29sZWQtdXAuY29tL2NhdGVnb3J5L3Nhdy1ibGFkZXMtaG9sZS1zYXdzLzQ2LyI+U2F3IEJsYWRlcyAmIEhvbGUgU2F3czwvYT48L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJjb2x1bW4gbGFzdCI+PGRpdiBjbGFzcz0iaXRlbSI+PGEgaHJlZj0iaHR0cDovL3d3dy50b29sZWQtdXAuY29tL2NhdGVnb3J5L3NlY3VyaXR5LWxvY2tzLzE5LyI+U2VjdXJpdHkgJiBMb2NrczwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvc29ja2V0cnkvMjkvIj5Tb2NrZXRyeTwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvc3Bhbm5lcnMtd3JlbmNoZXMvMzAvIj5TcGFubmVycyAmIFdyZW5jaGVzPC9hPjwvZGl2PjxkaXYgY2xhc3M9Iml0ZW0iPjxhIGhyZWY9Imh0dHA6Ly93d3cudG9vbGVkLXVwLmNvbS9jYXRlZ29yeS90b29sLWJveGVzLXN0b3JhZ2UvMjMvIj5Ub29sIEJveGVzICYgU3RvcmFnZTwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvdG9vbC1raXRzLzQwLyI+VG9vbCBLaXRzPC9hPjwvZGl2PjxkaXYgY2xhc3M9Iml0ZW0iPjxhIGhyZWY9Imh0dHA6Ly93d3cudG9vbGVkLXVwLmNvbS9jYXRlZ29yeS93ZWxkaW5nLXRvb2xzLzExLyI+V2VsZGluZyBUb29sczwvYT48L2Rpdj48ZGl2IGNsYXNzPSJpdGVtIj48YSBocmVmPSJodHRwOi8vd3d3LnRvb2xlZC11cC5jb20vY2F0ZWdvcnkvd29yay13ZWFyLzIwLyI+V29yayBXZWFyPC9hPjwvZGl2PjxkaXYgY2xhc3M9Iml0ZW0iPjxhIGhyZWY9Imh0dHA6Ly93d3cudG9vbGVkLXVwLmNvbS9jYXRlZ29yeS93b3JrYmVuY2hlcy12aWNlcy8yNi8iPldvcmtiZW5jaGVzICYgVmljZXM8L2E+PC9kaXY+PC9kaXY+ZAIHD2QWAgIBDw8WAh8DaGRkAgsPZBYCAgEPFgIfAQVFPGEgaHJlZj0iLyI+SG9tZTwvYT4gJmd0OyA8YSBocmVmPSJQcml2YWN5LmFzcCI+UHJpdmFjeSBTdGF0ZW1lbnQ8L2E+ZAIMD2QWCGYPFgQfAQWfBzxkaXYgaWQ9ImZiLXJvb3QiPjwvZGl2PjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4oZnVuY3Rpb24oZCwgcywgaWQpIHt2YXIganMsIGZqcyA9IGQuZ2V0RWxlbWVudHNCeVRhZ05hbWUocylbMF07aWYgKGQuZ2V0RWxlbWVudEJ5SWQoaWQpKSB7cmV0dXJuO31qcyA9IGQuY3JlYXRlRWxlbWVudChzKTsganMuaWQgPSBpZDtqcy5hc3luYz10cnVlOyBqcy5zcmMgPSAiLy9jb25uZWN0LmZhY2Vib29rLm5ldC9lbl9VUy9hbGwuanMjeGZibWw9MSI7ZmpzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGpzLCBmanMpO30oZG9jdW1lbnQsICdzY3JpcHQnLCAnZmFjZWJvb2stanNzZGsnKSk7PC9zY3JpcHQ+PGZiOmxpa2UgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vdG9vbGVkdXBkb3Rjb20iIHNlbmQ9ImZhbHNlIiBsYXlvdXQ9ImJ1dHRvbl9jb3VudCIgZm9udD0idmVyZGFuYSI+PC9mYjpsaWtlPjxwIHN0eWxlPSJtYXJnaW4tdG9wOjE2cHg7Ij48ZzpwbHVzb25lIHNpemU9InNtYWxsIiBhbm5vdGF0aW9uPSJidWJibGUiPjwvZzpwbHVzb25lPjwvcD48IS0tIFBsYWNlIHRoaXMgcmVuZGVyIGNhbGwgd2hlcmUgYXBwcm9wcmlhdGUgLS0+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPndpbmRvdy5fX19nY2ZnID0ge2xhbmc6ICdlbi1HQid9OyhmdW5jdGlvbigpIHt2YXIgcG8gPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsgcG8udHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOyBwby5hc3luYyA9IHRydWU7cG8uYXN5bmM9dHJ1ZTsgcG8uc3JjID0gJ2h0dHBzOi8vYXBpcy5nb29nbGUuY29tL2pzL3BsdXNvbmUuanMnO3ZhciBzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ3NjcmlwdCcpWzBdOyBzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHBvLCBzKTt9KSgpOzwvc2NyaXB0Ph8DZ2QCAQ8WAh8BBQQyMDE2ZAICDxYCHwEFEzA2LzEyLzIwMTYgMTg6Mzc6NDNkAgMPFgIfAQUOQXp1cmVfVFVQV0VCMDJkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYGBRhjdGwwMCRMb2dpblN0YXR1czEkY3RsMDEFGGN0bDAwJExvZ2luU3RhdHVzMSRjdGwwMwUPY3RsMDAkYnRuU2VhcmNoBQ9jdGwwMCRpbWdTaWdudXAFD2N0bDAwJGhkbkJ1dHRvbgUOY3RsMDAkYnRuQ2xvc2V1rtc4QwBwH1N2sYaQJnjfKyEZ5Dk4ZBfPvqY7ZthLYg==">
-</form>  
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072300577;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072300577/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+    
+    <!-- BEGIN GCR Badge Code -->
+    <script src="https://apis.google.com/js/platform.js?onload=renderBadge" async="" defer=""></script>
+    <script>
+      window.renderBadge = function() {
+        var ratingBadgeContainer = document.createElement("div");
+          document.body.appendChild(ratingBadgeContainer);
+          window.gapi.load('ratingbadge', function() {
+              window.gapi.ratingbadge.render(
+                ratingBadgeContainer, {
+                    "merchant_id": 101778,
+                    "position": "BOTTOM_LEFT"
+                });
+      });
+    }
+    </script>
+    <!-- END GCR Badge Code -->
+
+    <!-- Start of LiveChat (www.livechatinc.com) code -->
+    <script type="text/javascript">
+    window.__lc = window.__lc || {};
+    window.__lc.license = 8822191;
+    (function() {
+      var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+      lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+    })();
+    </script>
+    <!-- End of LiveChat code -->
+    <script defer="defer" src="https://www.dwin1.com/496.js" type="text/javascript"></script>
 
 
-</body></html>
+
+<ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div></body></html>
