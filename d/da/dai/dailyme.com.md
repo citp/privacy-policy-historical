@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyme.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207030314id_/http%3A//dailyme.com/corporates/index/10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyme.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609002104id_/http%3A//dailyme.com/corporates/index/10) for the most accurate reproduction.*
 
 # Corporates
 
