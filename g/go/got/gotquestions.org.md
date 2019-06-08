@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotquestions.org privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010225219id_/https%3A//www.gotquestions.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotquestions.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608155600id_/https%3A//www.gotquestions.org/privacy.html) for the most accurate reproduction.*
 
 # What is GotQuestions.org's privacy policy?
 
