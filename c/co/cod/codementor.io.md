@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codementor.io privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231174028id_/https%3A//www.codementor.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codementor.io privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608172153id_/https%3A//codementor.io/privacy) for the most accurate reproduction.*
 
 # Privacy - Codementor | Get live 1:1 coding help, hire a developer, & more
 
