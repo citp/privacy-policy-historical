@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entravision.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207141001id_/http%3A//www.entravision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entravision.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608131045id_/http%3A//www.entravision.com/privacy-policy) for the most accurate reproduction.*
 
 # Entravision · Privacy Policy
 
