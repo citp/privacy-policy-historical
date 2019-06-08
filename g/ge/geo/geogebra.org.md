@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the geogebra.org privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107173311id_/https%3A//www.geogebra.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geogebra.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608134253id_/https%3A//www.geogebra.org/privacy) for the most accurate reproduction.*
 
-# Privacy – GeoGebra
+# Privé – GeoGebra
 
-Last updated: 
-
-May 12, 2018
+Last updated: 12 mai 2018
 
 Welcome to the website and online services (the "Website") of GeoGebra!
 
@@ -12,11 +10,11 @@ Your privacy is important to us. This Privacy Policy describes the information w
 Children, typically students in K-12 education, are given additional and special privacy assurances, described in the section 'Our Commitment to Children's Privacy'.  
 Your use of the Website and any personal information you provide on the Website are subject to the terms of this Privacy Policy and GeoGebra's [Terms of Service](https://web.archive.org/tos). Any capitalized terms used but not defined herein shall have the meaning set forth in the Terms of Service.  
 The collection, administration and use of personal details by GeoGebra complies with applicable data protection laws (General Data Protection Regulation, GDPR) by ensuring that each user is able to decide herself, which personal details shall be made accessible to other users.  
-Please take a moment to read everything carefully. In case of further questions please do not hesitate to contact us at [webmaster@geogebra.org](mailto:webmaster@geogebra.org).
+Please take a moment to read everything carefully. In case of further questions please do not hesitate to contact us at [office@geogebra.org](mailto:office@geogebra.org).
 
 ## Our Commitment to Children's Privacy
 
-Protecting the privacy of young children is especially important. If GeoGebra learns that personally identifiable information of children has been collected on the Website without parental consent, then GeoGebra will take the appropriate steps to delete this information. If you are a parent or legal guardian and discover that your child has a registered account with the Website without your consent, then you may alert GeoGebra at webmaster@geogebra.org and request that GeoGebra delete that child's personal information from its systems.  
+Protecting the privacy of young children is especially important. If GeoGebra learns that personally identifiable information of children has been collected on the Website without parental consent, then GeoGebra will take the appropriate steps to delete this information. If you are a parent or legal guardian and discover that your child has a registered account with the Website without your consent, then you may alert GeoGebra at [office@geogebra.org](mailto:office@geogebra.org) and request that GeoGebra delete that child's personal information from its systems.  
 In particular, we never share the personal information of any user with third parties.  
 It's important to remember that you do not need to register or sign in to the Website in order to use the GeoGebra software and access millions of GeoGebra resources.
 
@@ -165,6 +163,10 @@ We reserve the right to change the privacy policy at our sole discretion. GeoGeb
 
 ## Our Contact Information
 
-Please address your requests or questions concerning the processing of your personal data to: GeoGebra GmbH  
-Wolfauerstr 90, 4040 Linz, Austria  
-[webmaster@geogebra.org](mailto:webmaster@geogebra.org)
+Please address your requests or questions concerning the processing of your personal data to:
+
+GeoGebra GmbH  
+Altenbergerstraße 69  
+4040 Linz  
+Austria  
+[office@geogebra.org](mailto:office@geogebra.org)
