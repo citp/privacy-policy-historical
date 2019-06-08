@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poems.com.sg privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005063736id_/https%3A//www.poems.com.sg/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poems.com.sg privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608165116id_/https%3A//www.poems.com.sg/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | POEMS 2.0
 
