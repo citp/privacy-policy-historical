@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truelancer.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227150114id_/https%3A//www.truelancer.com/privacy-policy%3Fsource%3Dwebsite_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelancer.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608115728id_/https%3A//www.truelancer.com/privacy-policy%3Fsource%3Dwebsite_footer) for the most accurate reproduction.*
 
 # Privacy Policy | Truelancer
 
@@ -150,4 +150,4 @@ Truelancer may update this Privacy Policy at any time and any changes will be ef
 
 If you have any questions about this Privacy Policy, please contact us at **legal@truelancer.com** ; or by mail addressed to Truelancer, Attn: Legal, 340 S. LEMON AVE. 8043, Walnut, CA 91789, USA. 
 
-Copyright © 2018 | Truelancer.com 
+Copyright © 2019 | Truelancer.com 
