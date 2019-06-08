@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the put.io privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523114051id_/https%3A//put.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the put.io privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608101350id_/https%3A//put.io/privacy-policy) for the most accurate reproduction.*
 
-# online storage re-imagined | put.io
+# Put.io - Privacy Policy
+
+## Privacy Policy
 
 ## 1\. General
 
@@ -19,10 +21,6 @@ We use contact information i.e. your email address to help us efficiently perfor
 ### Contacting You for Offers and Promotions:
 
 You agree, in consideration for the use of the Services provided by Put.io, to allow Put.io to use your personal information to send you marketing and promotional materials. Put.io may also send you marketing and promotional materials that promote third party products. Put.io will not rent or sell your personal information for use by third parties. These materials may include, but are not limited to: newsletters providing you with additional information on how to use the Services, and promotional offers for goods and services from Put.io or third parties.
-
-### Use of Demographic Information:
-
-Put.io may use your demographic information to perform business analyses or to tailor the Site and communications to your interests. We may share anonymous, aggregated demographic information with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience. Any time that we are allowed under this privacy policy to share your contact information or financial information, we may also share your demographic information along with it.
 
 ## 4\. Disclosure to Governmental Entities
 
@@ -63,5 +61,3 @@ You understand and agree that Put.io stores and processes your information on co
 ## 8\. How to Contact Us
 
 If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at: support-at-put.io
-
-© 2009 Put.io. Privacy Policy
