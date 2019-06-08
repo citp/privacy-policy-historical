@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nayadigantajobs.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201062535id_/http%3A//www.nayadigantajobs.com/page/detail/6/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nayadigantajobs.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608214714id_/http%3A//www.nayadigantajobs.com/page/detail/6/privacy-policy) for the most accurate reproduction.*
 
 # Nayadiganta Jobs Portal
 
