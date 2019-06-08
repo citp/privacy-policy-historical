@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redalkemi.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304224109id_/http%3A//www.redalkemi.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redalkemi.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608021333id_/https%3A//www.redalkemi.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RedAlkemi
 
