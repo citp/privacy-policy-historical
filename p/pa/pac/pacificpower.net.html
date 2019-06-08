@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pacificpower.net privacy policy that was archived on 2018-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180907003220id_/https%3A//www.pacificpower.net/footer/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pacificpower.net privacy policy that was archived on 2019-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190608054041id_/https%3A//www.pacificpower.net/footer/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>Privacy</title>
@@ -69,18 +69,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div id="utility">
             <ul class="nav inline">            <li><a href="https://www.pacificpower.net/about/careers.html">Careers</a> :</li>            <li><a href="https://www.pacificpower.net/about.html">About Us</a> :</li>            <li><a href="https://www.pacificpower.net/ya/app.html">Mobile App</a> :</li>            <li><a href="https://www.pacificpower.net/about/contact.html">Contact Us</a></li>
             </ul>
-            <form id="sitesearch" method="get" action="/gsearch/search"> 
+            <form id="sitesearch" onsubmit="return searchPage(); "> 
                 <fieldset>
                     <legend>Search</legend>
-                    <label for="q" style="display: none">Search: </label>
-                    <input id="q" name="q" type="text" placeholder="Search this site" aria-label="search">
+                    <label for="searchString" style="display: none">Search: </label>
+                    <input id="searchString" name="searchString" type="text" placeholder="Search this site" aria-label="search">
                     <button class="btn go" type="submit" value="Go" aria-label="search button">
                         <i class="fas fa-search"></i>
                     </button>
                 </fieldset><!-- /sitesearch -->                
             </form>
+            <script>
+                var searchStringValue;
+				function searchPage(){
+					var searchStringValue = document.getElementById('searchString').value;
+					location = 'https://www.pacificpower.net/search.html' + '?q=' + searchStringValue; 
+					return false;
+				}
+              </script>
 
-			<a class="advancedsearch" href="/gsearch/advancedsearch">Advanced Search</a>
+			<a class="advancedsearch" href="https://www.pacificpower.net/advancedsearch.html">Advanced Search</a>
         </div><!-- /utility -->
     </div>
     <!-- /header -->
@@ -116,8 +124,7 @@ Privacy</li>
 <h1 class="page-title">Privacy</h1>    
         
 <!-- Start Content Block with Optional Image  --><div> 
-<p>
-	Pacific Power is committed to safeguarding the privacy of individuals and businesses with respect to nonpublic, personal and financial information. Pacific Power therefore makes sure that its policies and practices in relation to the collection, use, retention, transfer and access of such information is strictly limited to those uses necessary to conduct the business of servicing your accounts and agreements with the company. Pacific Power will not provide, rent or sell your sensitive personal and financial information to company affiliates or nonaffiliated third parties, without your advance knowledge, except in the limited circumstances described below.</p>
+<p>Pacific Power is committed to safeguarding the privacy of individuals and businesses with respect to nonpublic, personal and financial information. Pacific Power therefore makes sure that its policies and practices in relation to the collection, use, retention, transfer and access of such information is strictly limited to those uses necessary to conduct the business of servicing your accounts and agreements with the company. Pacific Power will not provide, rent or sell your sensitive personal and financial information to company affiliates or nonaffiliated third parties, without your advance knowledge, except in the limited circumstances described below.</p>
 </div><!-- End Content Block with Optional Image -->
     
 
@@ -129,18 +136,14 @@ Privacy</li>
 <dl class="faq expander">  <dt><a class="btn" href="#">+</a>What information does Pacific Power collect?</dt>  <dd>
 <div class="reveal-content">
 <p>During the application for electric service or other company services, or when using online customer self-service functions, Pacific Power may ask for certain customer information such as your name, address, mailing address, phone number and place of employment. As a security measure against others accessing your account, the Company may also collect some form of more personally identifiable information, such as Social Security Number and/or driver's license number. The Company also collects information regarding our interactions and transactions over the course of our business relationship with you.<br>
-<br>
-When you use Pacific Power's online customer self-service functions, any personal information you enter in fields or forms provided in these services is secured using an industry standard security technology known as Secure Sockets Layer (“SSL”)/transport layer security ("TLS"). By using SSL/TLS, the Company attempts to safeguard the confidentiality of your user name, password and other personal information. For SSL/TLS to work, your browser must be capable of supporting SSL/TLS. Please check with your browser manufacturer for details.<br>
-<br>
-Should you apply for credit with Pacific Power, we may request information about you from a consumer-reporting agency. In such event, Pacific Power will not share your consumer report information with any company affiliate or any nonaffiliated third party.</p>
+ <br>
+ Should you apply for credit with Pacific Power, we may request information about you from a consumer-reporting agency. In such event, Pacific Power will not share your consumer report information with any company affiliate or any nonaffiliated third party.</p>
 
 </div>
 <noscript>
 <p>During the application for electric service or other company services, or when using online customer self-service functions, Pacific Power may ask for certain customer information such as your name, address, mailing address, phone number and place of employment. As a security measure against others accessing your account, the Company may also collect some form of more personally identifiable information, such as Social Security Number and/or driver's license number. The Company also collects information regarding our interactions and transactions over the course of our business relationship with you.<br />
-<br />
-When you use Pacific Power's online customer self-service functions, any personal information you enter in fields or forms provided in these services is secured using an industry standard security technology known as Secure Sockets Layer (“SSL”)/transport layer security (&quot;TLS&quot;). By using SSL/TLS, the Company attempts to safeguard the confidentiality of your user name, password and other personal information. For SSL/TLS to work, your browser must be capable of supporting SSL/TLS. Please check with your browser manufacturer for details.<br />
-<br />
-Should you apply for credit with Pacific Power, we may request information about you from a consumer-reporting agency. In such event, Pacific Power will not share your consumer report information with any company affiliate or any nonaffiliated third party.</p>
+ <br />
+ Should you apply for credit with Pacific Power, we may request information about you from a consumer-reporting agency. In such event, Pacific Power will not share your consumer report information with any company affiliate or any nonaffiliated third party.</p>
 
 </noscript>
 </dd>
@@ -157,9 +160,18 @@ Should you apply for credit with Pacific Power, we may request information about
 <br>
 Pacific Power may disclose information to companies that perform marketing services on the Company's behalf or to other financial institutions with whom we have joint marketing agreements. These companies are subject to confidentiality agreements with Pacific Power and other legal restrictions that prohibit them from using the information except to market the specified Pacific Power-related products or services. The information shared is limited to information we receive from you on applications or other forms, such as name, account number, mailing address and phone number.<br>
 <br>
-There are times when Pacific Power is required to furnish information concerning present or former customers to regulatory agencies who audit the Company’s filings in rate cases, to government agencies or in response to a subpoena, warrant, court order, levy, attachment or other comparable legal process; however, Pacific Power endeavors to cause the party receiving such information to agree to maintain the confidentiality of the information.</p>
-<p>We or our third-party service providers also collect IP addresses and related information such as: originating and destination information; date and time stamps of communications; indicators of the type of operating system; hypertext protocol headers; application client and server banners; and information about the type of request, such as whether it is requesting or sending data. We or our third-party service providers organize and analyze these types of information to support our internal operations, including maintaining functionality of the websites and diagnosing website issues, analyzing trends, providing more efficient service, maintaining and/or enhancing security for users and the websites, producing traffic volume statistics, and making the websites and our infrastructure more useful and secure. In an effort to protect the security of our critical infrastructure, any use of a website or information relating to such use (as described above) may be monitored and disclosed to federal authorities or agencies without further notice to you.
-</p>
+There are times when Pacific Power is required to furnish information concerning present or former customers to regulatory agencies who audit the Company’s filings in rate cases, to government agencies or in response to a subpoena, warrant, court order, levy, attachment or other comparable legal process; however, Pacific Power endeavors to cause the party receiving such information to agree to maintain the confidentiality of the information</p>
+<p>Pacific Power does not disclose a customer’s personal information or energy usage data to any third party without your prior consent, except as necessary for Pacific Power to:</p>
+<ul>
+<li>Provide services to you.</li>
+<li>Operate and maintain Pacific Power’s electric system.</li>
+<li>Comply with a valid warrant, subpoena, or court order.</li>
+<li>Comply with a valid California Public Utilities Commission request or request from other state or federal governmental agencies with legal authority to obtain the data from Pacific Power.</li>
+<li>Enable third parties to provide utility-related services on behalf of Pacific Power – but only to the extent necessary to render the service and subject to strict confidentiality and security requirements.</li>
+<li>Assist emergency responders in situations of immediate threat to life or property.</li>
+</ul>
+<p>Pacific Power may share non-customer specific energy usage data with other entities for the purpose of performing activities that may help improve such programs as energy efficiency and demand response, or to inform California energy policy as directed by the CPUC.</p>
+<p>Lastly, you may request that we disclose your energy usage data, including your personal information, to third party companies or persons you designate and authorize to enable them to render certain services on your behalf. Before authorizing us to share this information, it is important that you (1) understand how those third parties or persons will to use your information and whether they intend to share it with others, and (2) know your rights as a consumer.</p>
 
 </div>
 <noscript>
@@ -167,9 +179,18 @@ There are times when Pacific Power is required to furnish information concerning
 <br />
 Pacific Power may disclose information to companies that perform marketing services on the Company's behalf or to other financial institutions with whom we have joint marketing agreements. These companies are subject to confidentiality agreements with Pacific Power and other legal restrictions that prohibit them from using the information except to market the specified Pacific Power-related products or services. The information shared is limited to information we receive from you on applications or other forms, such as name, account number, mailing address and phone number.<br />
 <br />
-There are times when Pacific Power is required to furnish information concerning present or former customers to regulatory agencies who audit the Company’s filings in rate cases, to government agencies or in response to a subpoena, warrant, court order, levy, attachment or other comparable legal process; however, Pacific Power endeavors to cause the party receiving such information to agree to maintain the confidentiality of the information.</p>
-<p>We or our third-party service providers also collect IP addresses and related information such as: originating and destination information; date and time stamps of communications; indicators of the type of operating system; hypertext protocol headers; application client and server banners; and information about the type of request, such as whether it is requesting or sending data. We or our third-party service providers organize and analyze these types of information to support our internal operations, including maintaining functionality of the websites and diagnosing website issues, analyzing trends, providing more efficient service, maintaining and/or enhancing security for users and the websites, producing traffic volume statistics, and making the websites and our infrastructure more useful and secure. In an effort to protect the security of our critical infrastructure, any use of a website or information relating to such use (as described above) may be monitored and disclosed to federal authorities or agencies without further notice to you.
-</p>
+There are times when Pacific Power is required to furnish information concerning present or former customers to regulatory agencies who audit the Company’s filings in rate cases, to government agencies or in response to a subpoena, warrant, court order, levy, attachment or other comparable legal process; however, Pacific Power endeavors to cause the party receiving such information to agree to maintain the confidentiality of the information</p>
+<p>Pacific Power does not disclose a customer’s personal information or energy usage data to any third party without your prior consent, except as necessary for Pacific Power to:</p>
+<ul>
+<li>Provide services to you.</li>
+<li>Operate and maintain Pacific Power’s electric system.</li>
+<li>Comply with a valid warrant, subpoena, or court order.</li>
+<li>Comply with a valid California Public Utilities Commission request or request from other state or federal governmental agencies with legal authority to obtain the data from Pacific Power.</li>
+<li>Enable third parties to provide utility-related services on behalf of Pacific Power – but only to the extent necessary to render the service and subject to strict confidentiality and security requirements.</li>
+<li>Assist emergency responders in situations of immediate threat to life or property.</li>
+</ul>
+<p>Pacific Power may share non-customer specific energy usage data with other entities for the purpose of performing activities that may help improve such programs as energy efficiency and demand response, or to inform California energy policy as directed by the CPUC.</p>
+<p>Lastly, you may request that we disclose your energy usage data, including your personal information, to third party companies or persons you designate and authorize to enable them to render certain services on your behalf. Before authorizing us to share this information, it is important that you (1) understand how those third parties or persons will to use your information and whether they intend to share it with others, and (2) know your rights as a consumer.</p>
 
 </noscript>
 </dd>
@@ -182,13 +203,11 @@ There are times when Pacific Power is required to furnish information concerning
 
   <dt><a class="btn" href="#">+</a>What rights do I have to "opt out" of disclosure of my account information to company affiliates or nonaffiliated third parties?</dt>  <dd>
 <div class="reveal-content">
-<p>
-	Pacific Power will not provide any sensitive personal information about its customers to company affiliates or nonaffiliated third parties without first receiving your written authorization or request to do so, except in the limited circumstances described above (which are expressly permitted by law).</p>
+<p>Pacific Power will not provide any sensitive personal information about its customers to company affiliates or nonaffiliated third parties without first receiving your written authorization or request to do so, except in the limited circumstances described above (which are expressly permitted by law).</p>
 
 </div>
 <noscript>
-<p>
-	Pacific Power will not provide any sensitive personal information about its customers to company affiliates or nonaffiliated third parties without first receiving your written authorization or request to do so, except in the limited circumstances described above (which are expressly permitted by law).</p>
+<p>Pacific Power will not provide any sensitive personal information about its customers to company affiliates or nonaffiliated third parties without first receiving your written authorization or request to do so, except in the limited circumstances described above (which are expressly permitted by law).</p>
 
 </noscript>
 </dd>
@@ -201,21 +220,19 @@ There are times when Pacific Power is required to furnish information concerning
 
   <dt><a class="btn" href="#">+</a>How does Pacific Power protect the privacy of my account information once collected?</dt>  <dd>
 <div class="reveal-content">
-<p>Keeping your personal and financial related information private is vitally important to Pacific Power. The Company maintains physical, electronic and procedural safeguards that comply with federal, state and industry regulations to guard your sensitive personal information. Customer information is both secured from outside access through secure firewall technology as well as internally through customized employee access security profiles. Pacific Power restricts access to sensitive personal information about you to those employees who need to know that information to provide services to you. While Pacific Power believes these procedures are adequate, Pacific Power cannot guarantee their absolute performance. <br>
-</p>
+<p>Keeping customer information private is vitally important to Pacific Power. The Company maintains physical, electronic and procedural safeguards that comply with federal, state and industry regulations to guard your sensitive information. Customer information is encrypted both where it is stored and when it is transmitted over the network and Pacific Power participates in rigorous third-party audits that verify our security controls.</p>
 
 </div>
 <noscript>
-<p>Keeping your personal and financial related information private is vitally important to Pacific Power. The Company maintains physical, electronic and procedural safeguards that comply with federal, state and industry regulations to guard your sensitive personal information. Customer information is both secured from outside access through secure firewall technology as well as internally through customized employee access security profiles. Pacific Power restricts access to sensitive personal information about you to those employees who need to know that information to provide services to you. While Pacific Power believes these procedures are adequate, Pacific Power cannot guarantee their absolute performance. <br />
-</p>
+<p>Keeping customer information private is vitally important to Pacific Power. The Company maintains physical, electronic and procedural safeguards that comply with federal, state and industry regulations to guard your sensitive information. Customer information is encrypted both where it is stored and when it is transmitted over the network and Pacific Power participates in rigorous third-party audits that verify our security controls.</p>
 
 </noscript>
 </dd></dl>
 
 
 <!-- Start Content Block with Optional Image  --><div> 
-<p>
-	For more information, please review our <a href="https://www.pacificpower.net/footer/privacy/cp.html">general practices and customer identification methods.</a></p>
+<p>Notice to California customers: For information specific to the privacy of energy usage data, please see <a href="https://www.pacificpower.net/ya/smart-meters/energy-usage-information.html">Pacific Power’s Notice of Accessing, Collecting, Storing, Using and Disclosing Energy Usage Information</a>.</p>
+<p>For more information, please review our <a href="https://www.pacificpower.net/footer/privacy/cp.html">general practices and customer identification methods.</a></p>
 </div><!-- End Content Block with Optional Image -->
     
 
@@ -324,7 +341,7 @@ $j(document).ready(function(){
 </p>
 <p><a href="https://www.pacificpower.net/ya/rypo.wcss.html">Report a power outage</a><br>
 1-877-508-5088</p>
-<p><a href="https://www.pacificpower.net/ed/streetlights/raso.html">Report a streetlight outage </a></p>
+<p><a href="https://www.pacificpower.net/ed/raso.html">Report a streetlight outage </a></p>
 </div>
 
         </div><!-- /secondary -->
@@ -440,7 +457,7 @@ $j(document).ready(function(){
 </ul></div><!-- /footer-social-media-->  
     
     <ul class="nav inline">           <li><a href="https://www.pacificpower.net/index.html">Home</a> :</li>           <li><a href="https://www.pacificpower.net/footer/ee.html">Español</a> :</li>           <li><a href="https://www.pacificpower.net/footer/sm.html">Site Map</a> :</li>           <li><a href="https://www.pacificpower.net/footer/privacy.html">Privacy</a> :</li>           <li><a href="https://www.pacificpower.net/footer/tou.html">Terms of Use</a> :</li>           <li><a href="https://www.pacificpower.net/footer/ri/ri.wcssn.html">Request Information</a> :</li>           <li><a href="https://www.pacificpower.net/footer/contact.html">Contact Us</a></li></ul>
-            <p>©2018 Pacific Power, a division of <a href="http://www.pacificorp.com/index.html">PacifiCorp</a> and part of <a href="http://www.berkshirehathawayenergyco.com/" class="external">Berkshire Hathaway Energy</a><br>
+            <p>©2019 Pacific Power, a division of <a href="http://www.pacificorp.com/index.html">PacifiCorp</a> and part of <a href="https://www.brkenergy.com/" class="external">Berkshire Hathaway Energy</a><br>
 </p>
       
 
@@ -453,15 +470,15 @@ $j(document).ready(function(){
     <ul id="nav">
         <li id="nav-youraccount">
             <a href="https://www.pacificpower.net/ya/index.wcss.html">Your Account</a>
-            <ul><li><a href="https://www.pacificpower.net/ya/vpb.wcss.html">View &amp; Pay Bills</a></li><li><a href="https://www.pacificpower.net/ya/wtp.html">Payment &amp; Billing Options</a></li><li><a href="https://www.pacificpower.net/ya/cp.wcss.html">Your Alerts</a></li><li><a href="https://www.pacificpower.net/ya/vu.wcss.html">Usage Details</a></li><li><a href="https://www.pacificpower.net/ya/uaora.html">Online Profile &amp; Account Information</a></li><li><a href="https://www.pacificpower.net/ya/ys.html">Start, Stop or Move</a></li><li><a href="https://www.pacificpower.net/ya/ll.html">Landlord Information &amp; Programs</a></li><li><a href="https://www.pacificpower.net/ya/rypo.wcss.html">Report Power Outage</a></li><li><a href="https://www.pacificpower.net/ya/smart-meters.html">Smart Meters</a></li></ul>
+            <ul><li><a href="https://www.pacificpower.net/ya/vpb.wcss.html">View &amp; Pay Bills</a></li><li><a href="https://www.pacificpower.net/ya/wtp.html">Payment &amp; Billing Options</a></li><li><a href="https://www.pacificpower.net/ya/cp.wcss.html">Your Alerts</a></li><li><a href="https://www.pacificpower.net/ya/vu.wcss.html">Usage Details</a></li><li><a href="https://www.pacificpower.net/ya/uaora.html">Online Profile &amp; Account Information</a></li><li><a href="https://www.pacificpower.net/ya/ys.html">Start, Stop or Move</a></li><li><a href="https://www.pacificpower.net/ya/ll.html">Landlords &amp; Property Managers</a></li><li><a href="https://www.pacificpower.net/ya/rypo.wcss.html">Report Power Outage</a></li><li><a href="https://www.pacificpower.net/ya/smart-meters.html">Smart Meters</a></li></ul>
         </li>
         <li id="nav-residential">
             <a href="https://www.pacificpower.net/res.html">Residential</a>
-            <ul><li><a href="https://www.pacificpower.net/res/moving-center.html">Start, Stop or Move Service</a></li><li><a href="https://www.pacificpower.net/res/po1.html">Power Outages</a></li><li><a href="https://www.pacificpower.net/res/po.html">Payment &amp; Billing Options</a></li><li><a href="https://www.pacificpower.net/res/sem.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.pacificpower.net/res/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.pacificpower.net/res/nc.html">New Construction</a></li><li><a href="https://www.pacificpower.net/res/fa.html">Financial Assistance</a></li><li><a href="https://www.pacificpower.net/res/rc.html">Rates &amp; Charges</a></li></ul>
+            <ul><li><a href="https://www.pacificpower.net/res/moving-center.html">Start, Stop or Move Service</a></li><li><a href="https://www.pacificpower.net/res/po1.html">Power Outages</a></li><li><a href="https://www.pacificpower.net/res/po.html">Payment &amp; Billing Options</a></li><li><a href="https://www.pacificpower.net/res/sem.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.pacificpower.net/res/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.pacificpower.net/res/nc.html">New Construction</a></li><li><a href="https://www.pacificpower.net/res/fa.html">Financial Assistance</a></li><li><a href="https://www.pacificpower.net/res/rc.html">Rates &amp; Charges</a></li><li><a href="https://www.pacificpower.net/res/landlord.html">Landlords &amp; Property Managers</a></li><li><a href="https://www.pacificpower.net/res/raso.html">Streetlight Outage</a></li></ul>
         </li>
         <li id="nav-business">
             <a href="https://www.pacificpower.net/bus.html">Business</a>
-            <ul><li><a href="https://www.pacificpower.net/bus/moving-center.html">Start, Stop or Move Service</a></li><li><a href="https://www.pacificpower.net/bus/po1.html">Power Outages</a></li><li><a href="https://www.pacificpower.net/bus/po.html">Payment &amp; Billing Options</a></li><li><a href="https://www.pacificpower.net/bus/se.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.pacificpower.net/bus/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.pacificpower.net/bus/ed.html">Economic Development</a></li><li><a href="https://www.pacificpower.net/bus/ayu.html">Understand Your Bill</a></li><li><a href="https://www.pacificpower.net/bus/rr.html">Rates &amp; Regulation</a></li><li><a href="https://www.pacificpower.net/bus/oda.html">Oregon Direct Access</a></li></ul>
+            <ul><li><a href="https://www.pacificpower.net/bus/moving-center.html">Start, Stop or Move Service</a></li><li><a href="https://www.pacificpower.net/bus/po1.html">Power Outages</a></li><li><a href="https://www.pacificpower.net/bus/po.html">Payment &amp; Billing Options</a></li><li><a href="https://www.pacificpower.net/bus/se.html">Save Energy – wattsmart Incentives</a></li><li><a href="https://www.pacificpower.net/bus/bsre.html">Blue Sky Renewable Energy</a></li><li><a href="https://www.pacificpower.net/bus/ayu.html">Understand Your Bill</a></li><li><a href="https://www.pacificpower.net/bus/rr.html">Rates &amp; Regulation</a></li><li><a href="https://www.pacificpower.net/bus/oda.html">Oregon Direct Access</a></li><li><a href="https://www.pacificpower.net/bus/property-managers.html">Landlords &amp; Property Managers</a></li><li><a href="https://www.pacificpower.net/bus/sim.html">Streetlight Installs and Removals</a></li></ul>
         </li>
         <li id="nav-contractors">
             <a href="https://www.pacificpower.net/con/index.html">Contractors</a>
@@ -473,7 +490,7 @@ $j(document).ready(function(){
         </li>
         <li id="nav-safety">
             <a href="https://www.pacificpower.net/ed.html">Safety &amp; Outages</a>
-            <ul><li><a href="https://www.pacificpower.net/ed/po.html">Power Outages</a></li><li><a href="https://www.pacificpower.net/ed/streetlights.html">Streetlights</a></li><li><a href="https://www.pacificpower.net/ed/rasdwit.html">Reliability &amp; Power Quality</a></li><li><a href="https://www.pacificpower.net/ed/hws.html">Home &amp; Work Safety</a></li><li><a href="https://www.pacificpower.net/ed/se.html">Safety &amp; Energy Education</a></li><li><a href="https://www.pacificpower.net/ed/tpp.html">Tree Planting &amp; Pruning</a></li><li><a href="https://www.pacificpower.net/ed/tp.html">Transmission Projects</a></li><li><a href="https://www.pacificpower.net/ed/esi.html">Electric System Information</a></li></ul>
+            <ul><li><a href="https://www.pacificpower.net/ed/po.html">Power Outages</a></li><li><a href="https://www.pacificpower.net/ed/rasdwit.html">Reliability &amp; Power Quality</a></li><li><a href="https://www.pacificpower.net/ed/hws.html">Home &amp; Work Safety</a></li><li><a href="https://www.pacificpower.net/ed/se.html">Safety &amp; Energy Education</a></li><li><a href="https://www.pacificpower.net/ed/tpp.html">Tree Planting &amp; Pruning</a></li><li><a href="https://www.pacificpower.net/ed/tp.html">Transmission Projects</a></li><li><a href="https://www.pacificpower.net/ed/esi.html">Electric System Information</a></li><li><a href="https://www.pacificpower.net/ed/raso.html">Streetlight Outage</a></li></ul>
         </li>
     </ul><!-- /nav -->
 
