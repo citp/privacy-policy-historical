@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igcritic.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122192958id_/http%3A//igcritic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igcritic.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608173023id_/http%3A//igcritic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - IGCritic
+# PRIVACY POLICY
 
 The Critic Inc. Privacy Policy was last updated on May 15, 2018.
 
