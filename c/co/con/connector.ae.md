@@ -1,0 +1,59 @@
+> *The following text is extracted and transformed from the connector.ae privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608085747id_/http%3A//connector.ae/privacypolicy) for the most accurate reproduction.*
+
+# Connector Dubai
+
+All rights reserved. No part of this site may be reproduced without our written permission.
+
+**Our Commitment To Your Privacy**
+
+**_Connector_** is committed to ensuring your privacy is protected. This privacy policy sets out how [connector.ae](http://connector.ae/) uses and protects any information you provide when using this website.
+
+Should we ask you to provide information by which you can be identified; you can be assured that it will only be used in accordance with this privacy statement. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required to do so by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting, unless you tell us you do not wish this to happen.
+
+**What we collect**
+
+**We may collect the following information:**
+
+  * name
+  * contact information including phone number and email address
+  * other information relevant to customer surveys and/or offers
+
+
+
+**What we do with the information we gather**
+
+We require this information to understand your needs, provide you with a better service and in particular for the following:
+
+  * Internal record keeping.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for internal statistical analysis purposes.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, we do not have any control over these websites and cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution when leaving [connector.ae](http://connector.ae/) and look at the privacy statement applicable to the website you are visiting.
+
+[connector.ae](http://connector.ae/) may change this policy from time to time by updating this page. You should check this page on occasion to ensure that you are happy with any changes. This policy is effective from 1st July 2015.
+
+**Disclaimer**
+
+The information contained in this website is for general information purposes only. The information is provided by [connector.ae](http://connector.ae/) and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+
+Through this website you are able to link to other websites which are not under the control of [connector.ae](http://connector.ae/). We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+
+Every effort is made to keep the website up and running smoothly. However, [connector.ae](http://connector.ae/) takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control. 
