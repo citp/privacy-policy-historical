@@ -1,140 +1,226 @@
-> *The following text is extracted and transformed from the bookatable.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331022654id_/http%3A//www.bookatable.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookatable.co.uk privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609002831id_/https%3A//www.bookatable.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bookatable.com
+# Privacy Policy | Bookatable
 
-**Privacy & Cookie Policy**
+Bookatable is committed to protecting your personal information and being clear and transparent about what information we collect and how we will use it. This policy explains how any personal information Bookatable Limited and its associated companies collect when you use our website or digital services and platforms, or that you provide to us, will be processed.
 
-**Introduction**
+The information set out in this policy is applicable to your use of Bookatable’s websites, digital platforms and online services. Please read the following policy carefully to understand our views and practices regarding your personal information and how we will treat it.
 
-Livebookings Holdings Limited, with its registered address at 5th Floor, Elizabeth House, 39 York Road, London, SE1 7NQ +44 (0)20 7199 4300 (“ **us** ” “ **we** ” or “ **our** ” for short) is committed to protecting the privacy of users of our website at [www.bookatable.com](http://www.bookatable.com/) (the “ **Website** ”).
+* ### Who we are and how we can be contacted
 
-This privacy policy (the “ **Privacy and Cookie Policy** ”) explains our policy regarding any information you might supply to us (or that we might collect from you) when you visit the Website or use certain services offered via the Website. Any such information shall be used in accordance with the permissions granted by you and in accordance with the Data Protection Act 1998 (the “ **Act** ”). We are the data controller for the purposes of the Act.
+Bookatable Limited acts as a Data Controller when you use our websites, digital platforms and services directly.
 
-**Please note** that any information you provide in the course of submitting reviews on the Website will be subject to our Privacy Policy. There are important differences between how your personal information is handled by Shopzilla in the context of that service, and how we handle information relating to you in the context of your use of the Website generally, so please read the Privacy Policy carefully. For the purposes of the Act, Shopzilla is the data controller of – and therefore responsible for safeguarding – any personal information you provide in the course of using the _Review_ feature of this Website.
+If you need to contact us you have a number of options, you can:
 
-**Summary of key principles**
+  * email us at [hello@bookatable.com](mailto:hello@bookatable.com);
+  * send us a letter addressed to our registered office Bookatable Limited, 5th FL Elizabeth House, 39 York Road, London SE1 7NQ; or
+  * contact your local Bookatable company using any of the contact details on this website.
 
-We’ve set out below a summary of the key points of our Privacy Policy, so that you can get a quick understand of how we use your information and how it is protected. For more information on these points, please read the remainder of this Privacy Policy in full.
 
-  * We typically collect two types of information about you: (i) information that you provide that personally identifies you (such as your name, email address or contact details); and (ii) information that does not identify you, but which is relevant to your use of the Website (such as the pages visited on our Website and the dates and times of your visit).
-  * The information is stored on secure servers in UK and Ireland. If that location changes, then we will update this Privacy Policy accordingly.
-  * We use this information to make the Website available to you, remember your preferences, facilitate restaurant bookings, conduct promotions or prize draws that you have entered, monitor traffic on and performance of our Website, and to contact you with information about our services and those of our business partners (where you have given us your consent to do so).
-  * We may disclose information about you to our selected business partners for the above purposes (such as the restaurant with whom you wish to make a booking), and to certain other third parties in the circumstances described in more detail in the full Privacy Policy below.
-  * Our Website uses cookies, but you can disable these by adjusting your browser settings.
-  * We may update this Privacy Policy from time to time to reflect changes in our business practices and/or applicable law and regulation. Please check this policy for updates regularly.
-  * If you have any questions or comments regarding our privacy practices, you can email us at [privacy@bookatable.com](mailto:privacy@bookatable.com).
+* ### About our Data Protection Officer
 
+While everyone at Bookatable is committed to protecting and respecting your privacy, we have a Data Protection Officer who deals with all aspect of personal data at Bookatable. You can contact our Data Protection Officer by sending an email to [legal@bookatable.com](mailto:legal@bookatable.com).
 
+* ### Other policies and information we encourage you to read
 
-Our Privacy Policy is intended to assist you in making informed decisions when using our Website and our services. Please take a minute to read and understand the policy in full.
+While this Privacy Policy contains all the information you need on how we collect and use your personal information on our websites, there is some information in other places which may be relevant and that we encourage you to read.
 
-**What information do we collect?**
+  * **Additional privacy policies**
 
-The information that we collect about you falls into two categories, (together, the “ **Information** ”):
+This is our main privacy policy for your use of website and digital services and products offered by Bookatable. However, there may be additional information in privacy policy for specific digital products and services. Please read these policies when you register or subscribe to these products and services.
 
-  * personal information such as your name, address, telephone number, date of birth, age and email address that you provide us with when you make a reservation or when you send us an email; and
-  * website use information – our Website utilises a standard technology called “cookies” (see explanation below, “What are Cookies?”) and web server logs to collect information about how our Website is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Website, and the websites visited just before and just after our Website. Our Website also uses the IP address of your computer to recognise your geographic location, so that we can provide localised content and language to you.
+  * **Our Cookie Policy**
 
+When you use our website and other digital products and services provided by us, information can be collected through cookies to distinguish you from other users of our website and other digital products and services. We have a separate Cookie Policy which explains our use of cookies and the purposes for which we use them. We encourage you to read our Cookie Policy here ([<https://www.bookatable.co.uk/cookies-policy>]).
 
+  * **Our Terms of Website Use**
 
-**Your consent**
+Our Terms of Website Use tells you the terms on which you may make use of our websites and should be read alongside this Privacy Policy. You can read our Terms of Website Use here ([<https://www.bookatable.co.uk/legal>]).
 
-By using our Website you consent to our collection and use of your Information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post an updated version of this Policy on our Website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+  * **Linked Platforms**
 
-**How do we use the information that you provide to us?**
+Our site may contain links to and from our websites and digital platforms of our partner networks, advertisers, affiliates, Restaurants and social media pages. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal information to these websites.
 
-We use your Information for the purposes of:
 
-  * making the Website available to you by recognising the IP address of your computer and any preferences you may have indicated on earlier visits;
-  * facilitating restaurant bookings that you wish to make using the Websites, by passing your personal details on to the relevant restaurants;
-  * conducting promotions or prize draws that you have entered using the Website;
-  * monitoring visitor traffic on our Website and conducting analysis on the performance of our Website so that we can improve user experience; and
-  * contacting you with information about our services which we think might be of interest to you, and sharing your information with select business partners so that they may also get in touch with you, and those of our business partners. Please note that this will only be done if you have ‘opted in’ to receive email communication at the point of registration or when making a booking. You may notify us at any time if you do not wish to receive these offers by clicking on the ‘UNSUBSCRIBE’ link in those emails, or by emailing us at [hello@bookatable.com](mailto:hello@bookatable.com) stating ‘UNSUBSCRIBE’ in the subject field. Please note that it can take up to 72 hours for our systems to update your change in subscription status.
 
+* ### Information we may collect from you
 
+This section sets out:
 
-**Cookies**
+  * how we collect your personal information;
+  * the categories of data that we collect;
+  * a description of how we plan to use the information we collect;
+  * the legal basis that we will rely on to process information collected; and
+  * where possible, how long we will hold the information collected.
 
-In order to comply with new rules, we use a system of classifying the different types of cookies which we use on the Website, or which may be dropped by third parties through our websites. The classification was developed by the International Chamber of Commerce UK and explains more about which cookies we use, why we use them, and the functionality you will lose if you decide you don't want to have them on your device. 
 
-**What are Cookies?**
 
-Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device. 
+We may collect and hold the following information about you:
 
-Persistent cookies remain on a user's device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie. 
+#### Voluntary Information
 
-Session cookies allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted. 
+When you provide us information (for example, the information set out in the scenarios above), in some cases we may ask you for additional, voluntary information. This information will be identified as optional and is used to help us better understand our customers and tailor our services to them and you.
 
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. 
+#### Statistical Information
 
-You can find more information about cookies at www.allaboutcookies.org and www.youronlinechoices.eu.
+We also collect and use aggregated data such as statistical or demographic data (“ **Aggregated Data** ”). Aggregated Data may be derived from your personal information but does not reveal your identity in any way. For example, we may aggregate your Usage and Device Data to calculate the percentage of our website users accessing a specific feature of our website. Aggregated Data is used for our own business purposes only.
 
-**Cookies used on the Website**
+#### Sensitive Personal Information
 
-A list of all the cookies used on the Website by category is set out below.
+While we do not request sensitive personal data, we do have sections on our websites where you can submit additional information and special requests, for example, during the booking propose or when you submit reviews. Sensitive personal data may include special requests relating to disabilities or health related matters such as food allergies. If you submit information on these free text sections, only submit information you are comfortable providing and always bear in mind that it may be sensitive information. If you are submitting information in the course of your booking, this information we be kept confidential and only used to process your booking and any special requests. If you submit reviews or feedback for our website, please remember that this information will be visible to others users of our website – and don’t forget, reviews can be submitted anonymously if you like.
 
-  
+#### Children and Personal Information
 
-* **Strictly necessary cookies** \- these enable services you have specifically asked for. For those types of cookies that are strictly necessary, no consent is required. 
+This website is not intended for use by children and we do not knowingly collect data relating to children. If we become aware that we are holding any information about children under the age of 16, we will take any actions necessary to comply with data protection legislation, including if appropriate, deleting the information. If you become aware that your child (under 16) has provided their personal information to us, without your consent, please let us know as soon as possible by emailing [legal@bookatable.com](mailto:legal@bookatable.com) so that we can take appropriate action.
 
-These cookies are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the Website. Without these cookies services you have asked for, like restaurant booking, cannot be provided. 
+* ### Marketing Communications
 
-* **Performance cookies** \- these collect anonymous information on the pages visited. By using the Website, you agree that we can place these types of cookies on your device. 
+When you sign up to receive any of our newsletters or marketing communications we will use the information you provide us, usually just your name and email address, to enable us to send you our newsletters, restaurant deals or any other communications you’ve requested. We will process your personal information for email marketing purposes based on your consent. Marketing communications are received directly from your local Bookatable company and that local Bookatable company acts as the Data Controller for marketing purposes. Bookatable local companies do not share your personal information for marketing purposes with any other company within the Bookatable Group.
 
-These cookies collect information about how visitors use the Website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how the Website works. 
+Don’t’ worry, if you decide at any point that you no longer want to receive these emails, you can unsubscribe at any time. There are a number of ways you can do this: (i) there is always an unsubscribe option at the bottom of each marketing communication we send to you; and (ii) you can also contact us by email or letter using any of the contact details set out in this notice.
 
-* **Functionality cookies** \- these remember choices you make to improve your experience. By using the Website, you agree that we can place these types of cookies on your device. 
+We will generally send you marketing communications until you choose to unsubscribe from receiving them. However, if we have not heard from you for a while or notice that you have not opened our emails in a period of 24 months, we will remove your details from our database. There’s nothing stopping you from subscribing again at any time.
 
-These cookies allow the Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites. 
+If you have signed up to any of our services or booked a restaurant through us, you will still receive emails relating to those services and bookings (e.g. confirmation emails, reminder emails). If you decide not receive marketing emails from us, it will not affect service emails which are integral to the services provide to you by us and the Restaurants.
 
-* **Targeting or advertising cookies** \- these collect information about your browsing habits in order to make advertising relevant to you and your interests. 
+From time to time we may also use your Usage and Device Data to make online suggestions and recommendations to you about goods or services that may be of interest to you. This is necessary for the legitimate interest of our business in developing our products and services and growing our business.
 
-These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation. 
+#### Marketing from Restaurants and Partner Networks
 
-* **Behavioural advertising and online privacy** \- A guide to behavioural advertising and online privacy has been produced by the internet advertising industry which can be found at www.youronlinechoices.eu. The guide contains an explanation of the IAB's self-regulatory scheme to allow you greater control of the advertising you see. 
-* **Using browser settings to manage cookies** \- The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on settings or visiting the website of its manufacturer. 
+When you book a Restaurant, you may also have the option to opt-in for marketing communications from that Restaurant or Partner Network. We will always ask you for your express consent before allowing Restaurants or Partner Networks to market to you. Restaurants and Partner Networks will have access to information on which individuals have opted-in and which have chosen not to opt-in.
 
-However, because cookies allow you to take advantage of some of the Website's essential features, we recommend you leave them turned on. For example, if you block or otherwise reject cookies you will not be able to make a restaurant reservation. If you leave cookies turned on, remember to clear your cookies when you finish using a shared computer.   
+Marketing by the Restaurants and Partner Networks are subject to their own privacy policies and you should consult these privacy policies for further information.
 
+* ### Information we collect about you from other places
 
-  
-**Disclosing your information**   
+To enable us to provide you with our services, we may receive personal information about you from other sources, including:
 
+  * We may receive information about you if you use any of the other websites we operate or the other products or services we provide. We also work closely with third parties (including, for example, business partners, technical service providers, payment services, analytics providers such as Google Analytics and search information providers) and may receive information about you from them. The legal basis for this processing is our legitimate interests in monitoring and improving our website, products and services.
+  * Information from our web servers’ logs, for example information about your computer, such as your IP address, operating system and browser type. We may also collect information on the searches you carry out on our website, the websites or restaurant pages you visit and your interaction with communications we send you, for example, when you open email communications. (“ **Usage and Device Data”** ). This information is used by us for system administration and to analyse how people are using our websites and digital services and platforms such as our mobile applications. It also helps us to provide the best infrastructure for your online experience. The legal basis for this processing is our legitimate interests in monitoring and improving our website, products and services.
+  * As mentioned above, we collect information using cookies stored on your device about how you use our website, digital products and services. You can read our Cookie Policy here (<https://www.bookatable.co.uk/cookies-policy>).
+  * Our website may enable you to share your experience and connect with us through third party social networks such as Facebook and Twitter. We may collect this information from our social media sites, including likes, shares and tweets, and about the content on social networking sites. We do not control the privacy of the information you provide on social media networks and the privacy policies of those social media networks will apply when using their services.
 
-  
-We will never disclose your information to anyone outside Livebookings Holdings Limited except where we have your consent; where we are required or permitted to do so by law; to other companies who provide a service to us; or any successors in title to our business.   
 
+* ### Our relationship with Restaurants
 
-Whenever we transfer personal information to countries outside the European Economic Area we will ensure that appropriate security measures are taken.   
+While we generally act as a data controller when you use our services directly, when you use our websites or mobile apps, we provide our booking services to the third parties for example, restaurants. When we provide our services to restaurants, for example, where a restaurant uses our booking platform on their own website, the restaurants engage us as a service provider. This means that we are not the data controller and we act as a data processor on behalf of the restaurants. We are not in control of any information where a restaurant acts as a data controller and you should ensure that you review each restaurant’s privacy policy where applicable.
 
+* ### Where we store your personal information
 
-  
-**Other websites**   
+All information you provide to us is stored on secure servers within UK or EEA. Unless you are told otherwise in any specific privacy notices provided by us, we do not transfer any personal information outside the EEA.
 
+While we are committed to keeping your personal information secure, the transmission of information online via the internet is not completely secure. We, together with our service providers will do our best to protect your personal information but information provided is at your sole risk.
 
-  
-The Website may contain links to other sites which are outside our control and not covered by this policy. The operators of these sites may collect information from you that will be used by them in accordance with their policy, which may differ from ours.   
+* ### Sharing your personal information
 
+We only share your personal data with people who have a need to know such information to perform their responsibilities.  
+We may share your personal information with the following:
 
-  
-**Accessing your information**   
+  * **Restaurants** \- we share Booking Data, reviews, where applicable Payment Data and other relevant information you provide us with the Restaurants that you request services from. This information is provided to the Restaurants to enable them to continue to process and manage your booking. Once we pass your information to the Restaurant, the Restaurant takes the role of Data Controller and we become the Data Processor.
+  * **Partner Networks** – where you book a Restaurant through one of our Partner Networks, for example a third party restaurant reservation website, we share Booking Data, reviews and other relevant information you provide us with that Partner Network. We will never share Payment Data with Partner Networks. Once we pass your information to the Partner Network, the Partner Network takes the role of Data Controller for that data.
+  * **Payment and billing providers** – to make a reservation at some restaurants, you are required to make a deposit or provide your credit or debit card information to secure your reservation. In order to process this information we share this Payment Data with third party payment and billing service providers.
+  * **Within the Bookatable Group** \- we may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries to the extent necessary for the same purposes of the initial processing set out in this policy. 
 
+For example, we will share your Booking Data with your local Bookatable company (e.g. the company in which you reside and make the booking from), we also may share your Booking Data with one of our group companies in a different country if you make a booking through our UK website for a Restaurant based in that other country. We also share the information with Michelin Travel Partner S.A.S, part of the Michelin Group for the purpose of hosting our marketing database.
 
-  
-To obtain a copy of the information we hold about you, write to: Data Protection Officer, Livebookings Holdings Limited, 39 York Road, London, SE1 7NQ enclosing a cheque for £10 payable to "Livebookings Holdings Limited". Please include your details to help us identify and locate your information. If any of the details are incorrect, let us know and we will amend them.   
+The relevant group companies are:  
+Bookatable AB and 2 Book AB  
+Bookatable AB, Suomen sivuliike  
+Bookatable ApS  
+Bookatable Norway NUF  
+Bookatable GmbH & Co. KG  
+Livebookings SL  
+Bookatable Inc  
+Michelin Travel Partner S.A.S
 
+  * **Service Providers** \- Bookatable may share your personal information with select service providers that Bookatable may use to process your request or provide the services. These service providers act as data processors on our behalf and provide IT and system administration services, such as hosting and email and SMS services. 
 
-  
-**Changes to our policy**   
+These service providers are legally obligated to keep the personal information they may have received confidential and secure and to use your personal information the basis of our instructions only.
 
+We may also share your personal information with third parties:
 
-  
-This policy replaces all previous versions and is correct as of June 2012. We reserve the right to change the policy at any time.   
+    * In the event that we sell or transfer any business or assets, in which case we may disclose your personal information to the prospective purchaser or recipient of such business or assets.
+    * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions and other agreements; or to protect the rights, property, or safety of the Bookatable Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+    * In order to manage risks and legal disputes and obtaining professional legal advice. This disclosure will be on a confidential basis and only to our professional advisors who are under a duty of confidentiality.
 
 
-  
-**Contacting us**   
+* ### How long will personal information be kept by us
 
+As a rule, we will not hold your personal information for any purpose or purposes for longer than is necessary to fulfil the purposes we collect it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. For more specific retention periods, please see section 5 above. While we do everything we can to comply with these retention periods, if there is a legal, accounting or tax reason why the information is to be held for longer, we will only retain the information for as long as necessary to satisfy that legal, accounting or tax reason.
 
-  
-If you have any queries, please contact us at [privacy@bookatable.com](mailto:privacy@bookatable.com). 
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+* ### Your rights under data protection legislation
+
+Data protection legislation provides you with certain rights when it comes to the processing of your information. These are the right to:
+
+  * be informed
+  * access your information
+  * correct your information
+  * delete your information
+  * restrict processing
+  * transfer information
+  * object to processing
+
+ 
+  * **The right to be informed**
+
+You have the right to be informed about how we collect and process your personal information, including who we are, how we use your personal information and your rights in relation to your personal information. We have gathered all the information you need in this privacy notice.
+
+  * **The right of access your information**
+
+You have the right to access the personal information we have on you. We can confirm whether or not your information is being processed and provide you with access to your personal information.
+
+  * **The right to correct your information**
+
+If your personal information is inaccurate or incomplete, you are entitled to have that information corrected and updated. If we have disclosed your information to any third parties, where possible, we will inform them of any updates you provide to us. You can update the personal information we hold about you by contacting us using any of the contact methods details in this Privacy Policy.
+
+  * **The right to delete your information**
+
+You have the right to request the deletion or removal of your personal. There are limited circumstances in which you can request deletion of you information, these include, where the information is no longer necessary for the purpose for which we originally collected or processed it and where you have withdrawn your consent to the processing by us. If you would like further information on your right to deletion, please just ask.
+
+  * **The right to restrict processing**
+
+In some circumstances, you also have the right to restrict or suppress the processing of your personal information. If you request us to suppress your personal information, we will suspend any further processing of it.
+
+  * **The right to transfer information**
+
+If you want to move or transfer your personal information to a different employer, you have the right to have your information transferred to another person.
+
+  * **The right to object**
+
+You have the right to ask us not to process your personal information where we are relying on a legitimate interest and there is something which makes you want to object to processing on this ground. You also have the right to object where we are processing your personal information for direct marketing purposes.
+
+
+
+
+If you want to exercise your any of your rights detailed in the Privacy Policy, you can do this at any time by emailing us at [privacy@bookatable.com](mailto:privacy@bookatable.com).
+
+You can find further information on your data protection rights from the Information Commissioner’s Office (the “ **ICO** ”) at [www.ico.org.uk](http://www.ico.org.uk/) or any local supervisory authority.
+
+* ### What can you do if you’re not happy
+
+We are committed to protecting and respecting your privacy. However, if you’re not happy with how we collect or process your information or just want some further information on your rights, you can contact us in the following ways:
+
+  * Email us at  
+[privacy@bookatable.com](mailto:privacy@bookatable.com); or
+  * Send us a letter addressed to the  
+Data Protection Officer, Bookatable Limited, 5th FL Elizabeth House, 39 York Road, London SE1 7NQ.
+
+
+
+We will work with you to resolve any issues you may have and aim to answer any question raised by you as soon as possible. You can also make a complaint to the ICO – further information can be found at <https://ico.org.uk/concerns/> or to your local supervisory authority.
+
+* ### About Data Security
+
+Bookatable has implemented measures to protect the privacy, security and integrity of your personal data. Access to personal data is restricted to those employees and service providers who need to know this information and who have been trained to comply with rules on confidentiality.
+
+On Bookatable's commercial sites, banking information will be collected for the purposes of effective, legal secure payment processes. These measures may consist of SSL encryption (intended to make the data unreadable to others) during the collection or transfer of confidential data. Said information will be used only for purposes of online payment and will not be retained.
+
+Bookatable ensures that your personal data are not altered, damaged or accessed by unauthorised third parties.
+
+* ### Changes to our Privacy Policy
+
+We may change our policy from time to time. Any changes we make to this policy in the future will be posted on this page. If you have an online account with us, we may notify you of any changes by email or through your account the next time you log on.
