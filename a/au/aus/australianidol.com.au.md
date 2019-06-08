@@ -1,126 +1,112 @@
-> *The following text is extracted and transformed from the australianidol.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319105525id_/http%3A//tenplay.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianidol.com.au privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608020931id_/https%3A//tenplay.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - tenplay - Network Ten
+# Privacy Policy Highlights :: CBS Interactive
 
 [ ](https://web.archive.org/)
 
+Welcome to the network of interactive services provided by Network Ten and CBS Interactive, which, along with their parents, subsidiaries, and affiliates, are part of CBS Corporation (collectively “ **CBS** ”,” “ **us,** ” or “ **we** ”). CBS is committed to protecting your privacy as further described in the full [CBS Privacy Policy](https://web.archive.org/legal/cbsi/privacy-policy). This summary sets out the key points about how CBS handles your personal information. 
+
+* * *
+
+##### Privacy Policy Scope
+
+CBS owns, operates, or provides access to, several interactive web sites mobile and connected TV applications, and other interactive features and services (collectively “ **CBS Services** ”). When you use CBS Services, we may collect your personal information in accordance with the [CBS Privacy Policy](https://web.archive.org/legal/cbsi/privacy-policy) to carry out our activities. The CBS Privacy Policy describes in detail the types of information collected about you when you visit the CBS Services; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected.
+
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy#Scope_of_Privacy_Policy)
+
+##### Information Collected
+
+We collect a variety of information about you, including:
+
+  * Contact information, such as name, email address, postal address, phone number; user name, password; and date of birth.
+  * Information you provide directly to us by contacting us, registering or subscribing for CBS Services.
+  * Information about your computer and browsing activities on the CBS Services, including information collected automatically through [cookies, web beacons, and other similar technologies](https://web.archive.org/legal/cbsi/privacy-policy/cookies-and-beacons) or from third parties who enable us to provide you access to CBS Services.
+  * Information about you from other third-party sources , including your personal information if you access a CBS Service through social networking services such as Facebook and Twitter.
 
 
 
-**Our Commitment to you  **
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy#Information_Collected)
 
-Network Ten Pty Limited and its related companies listed at the end of this Privacy Policy ( **Network Ten** ) take very seriously your privacy and our obligations under the Privacy Act 1988 (Cth). Any personal information you provide to us will be managed carefully. We have a range of procedures in place to help protect your privacy.
+##### Use of Information
 
-At Network Ten we conduct our operations in accordance with the Australian Privacy Principles. These are standards that set out the principles governing information handling practices for organisations like Network Ten. Additionally  we are committed to high standards of privacy protection in our journalism through our adherence to the Commercial Television Industry's Code of Practice.
+The purpose for which we use the personal information we collect will depend on the particular interaction you have with CBS Services. We use the information we collect to:
 
-**What Personal Information does Network Ten collect?  **
+  * Provide, promote and improve the CBS services you request.
+  * Tell you about offers we think you will value.
+  * Customize the content and advertising you see when you use CBS Services.
+  * Process payments you make.
+  * And, as otherwise described to you at the point of collection or with your consent.
 
-If you become a member of tenplay, we may collect your name, address, suburb, state, postcode, email address, date of birth or age, gender and telephone number. If you log in via a social media platform such as Twitter, Facebook or Google+, we may also collect your user ID details for that platform, and any information you have permitted them to share with us.
+ 
 
-You might also provide personal information to Network Ten if you:
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy#Use_of_Information)
 
-\- complete any application forms;   
-\- contact us (including calling our offices or provide feedback, comments or suggestions on programs and other Network Ten activities)   
-\- enter a competition (including on the tenplay website or any of our tenplay applications)   
-\- contact us as a customer or client of Network Ten   
-\- provide services or products to Network Ten   
-\- visit our offices (including via security surveillance of our premises including CCTV)   
-\- attend a studio audience; or  
-\- apply for a job with us.   
-We usually collect this personal information from you directly as part of your interaction with us. However in some circumstances we may receive or collect your personal information from a third party (such as a recruitment agency or a party supplying a service to you).  
-On occasions we collect personal information via third parties such as commercial partners, where you have opted-in to having your personal information disclosed to Network Ten.
+##### Disclosure of Information
 
-The type of information we collect will very much depend on what you give us and the circumstances of your interaction with us. It might be your name, address, telephone number, email address, work contacts, photographs, interest, hobbies and any other personal details you wish to provide. 
+We may disclose your personal information:
 
-Network Ten may perform statistical analysis of user activity and characteristics in order to measure interest in and use of the tenplay website and Network Ten’s other websites ( **Websites** ) or any of our tenplay applications ( **Applications** ) and to inform others of such information, as well as the number of users who have been exposed to or have clicked on any particular areas in the Websites or our Applications. You acknowledge that when you disclose personally identifiable information on the Websites, or via any of our Applications, that information, along with any substantive information disclosed in your communication, may be collected and collated and used and disclosed by Network Ten and may result in marketing and promotional messages being sent to you from Network Ten or its associates and affiliates. 
+  * Where we have obtained your consent, including with video content and social networking services as described in our [Video Services Policy](https://web.archive.org/legal/cbsi/privacy-policy/video-services-and-social-networking).
+  * To our third-party service providers, such as those that manage our IT and Human Resources information.
+  * To business partners who sponsor a sweepstakes, contests, or promotions, or who jointly offer a service or feature with a CBS Service.
+  * To entities that may be located overseas, such as within the family of [CBS businesses](https://www.cbscorporation.com/businesses-detail/) located in the United States. These CBS entities will also meet the requirements of the CBS Privacy Policy when handling your personal information.
+  * If a CBS Service is sold to another company.
+  * To protect or defend the rights of CBS or our users.
+  * When required by law or public authorities.
 
-There may be times when we ask for personal information from you and you do not wish to provide it. We do not have a problem with that but it may mean, for example, that we cannot enter your details for a competition or provide you with a particular service that you want. 
 
-We would appreciate it if you could let us know when personal information you have supplied to us needs to be updated or is no longer valid. Where that information relates to a Network Ten membership, you may do this by editing it in your account information. In other cases, you may do this by contacting us as set out below.
 
-Non-personal information and data may be automatically collected through the standard operation of Network Ten's Internet servers or collected through the use of cookies and other code (such as tags and pixels). If you do not want information collected through the use of cookies, you should use your browser's cookie disabling feature. You should note, however, that if cookies are disabled certain features may not be available. The use of cookies on the Websites enables us to deliver and maintain customised options when you make return visits to the site and enables delivery to you of targeted advertising on the Websites and on third party websites.  We may share and allow collection of non-personal information (such as demographic information and pages visits) with our partners as part of our analytics, measurement or advertising programs.  
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy#Disclosure_of_Information)
 
-Such information may be used by Network Ten’s partners on third party websites to deliver targeted advertising tailored to your interests and online browsing behaviour.  For more information about online behavioural advertising or if you wish to opt-out of online behavioural advertising, please visit the opt-out pages at <http://www.youronlinechoices.com.au/>.  
+##### Your Choices
 
-Nielsen Australian and Netratings Australia auditing and measurement systems are used on our Websites and some Applications.  Our Website and Applications may feature Nielsen’s proprietary measurement software which will allow you to contribute to Nielsen’s market research and/or audience ratings services including by Nielsen’s collection of content viewing data and use of cookies and web beacons.  Please see Nielsen Digital Measurement Privacy Statement at <http://www.nielsen.com/digitalprivacy> for more information and to learn about the measurement software, the information collected by Nielsen and user choices,  as well as to access Nielsen user choice options in relation to Nielsen’s measurement services and collection of information.
+  * If you choose to share contact information with us, you will have the opportunity to update that information.
+  * You can stop the delivery of commercial email or text messages from CBS Services by following the instructions in any such email or text message you receive.
+  * You have choices about the collection and use of your information by third parties to display relevant advertisements, as described in our overview of [Third Party Online Advertising](https://web.archive.org/legal/cbsi/privacy-policy/third-party-online-advertising).
+  * You also may choose to opt out of the use of certain data that we collect to customize advertising. To opt out, visit the [CBS Advertising Opt-Out](https://web.archive.org/legal/cbsi/privacy-policy/business-partner-ad-opt-out) page.
 
-**What does Network Ten do with the personal information?**
 
-The purpose for which we collect the information is to give effect to the particular interaction you have with Network Ten. That might be, for example, when you participate in a competition we run, for publicity or promotion of a Network personality or for developing the business relationship between you and Ten. We may use your personal information to let you know about programs or other things we think may be of interest to you or to get your feedback. If we use your personal information for direct marketing purposes, we will give you the opportunity to opt out of receiving any further marketing material. We may share the personal information that you have given to us with other companies within our group, our associates and affiliates. 
 
-Sometimes we may give you the option to receive further communications from one of our advertising partners, for example when we run a competition in conjunction with that advertiser. If you do chose to opt in by expressly providing consent to receive communications from that third party advertiser, Ten may disclose your personal information to that third party. In this circumstance, Ten requires that third party to agree that your personal information be dealt with in accordance with that third party’s own privacy policy (which will be made available for you to view at the time that you opt in), in accordance with all applicable privacy laws and the Spam Act at all times, and pursuant to best practice confidentiality and security procedures. 
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy#Your_Choices)
 
-We may also use your personal information for related purposes that you would reasonably expect. We take particular care with any sensitive information that we may have (if any). 
+##### Other Information
 
-There may be circumstances where we want to use your personal information to let you know about programs or to get your feedback on our operations. 
+  * CBS is committed to working with you to obtain a fair resolution of any privacy concern.
+  * In most instances, we will give you access to the personal information that we hold about you. We will take reasonable steps to correct it if we consider it is incorrect.
+  * We have adopted commercially reasonable procedures to help protect your information, but please note that no data transmission or storage can be guaranteed to be 100% secure.
+  * If you have any complaints about how we have handled your personal information, we will respond to the complaint within 30 days.
+  * For more information about our privacy practices, please review the full [CBS Privacy Policy](https://web.archive.org/legal/cbsi/privacy-policy).
 
-If we have contracted out a service to a third party, we may need to disclose your personal information to that third party to ensure that you get the service needed. In these circumstances, we require the third party to protect the privacy of the information that is disclosed to it. 
 
-There may be circumstances where the law requires us to disclose the information, or where disclosure is required to prevent a risk to health or safety or for law enforcement purposes. 
 
-**How do we look after your personal information?  **
+» [Read more](https://web.archive.org/legal/cbsi/privacy-policy)
 
-We have internal security measures in place to help protect personal information from misuse, modification, unauthorised access, or unauthorised disclosure. We have a security system in place to deal with the physical security of our premises and the personal information kept at our premises. We have procedures in place to maintain a secure computer/ electronic system. We take reasonable steps to ensure that work areas are secure, and information on databases is protected by pass words and accessed only for legitimate purposes. All our staff are made aware of their obligations under the privacy principles to make your privacy a priority in dealing with personal information. 
+## INFORMATION FOR OUR VISITORS FROM AUSTRALIA
 
-We take reasonable steps to ensure the information we collect, use and disclose is accurate, complete and up to date. 
+CBS acknowledges that its related companies, parents, subsidiaries, and affiliates formed under the laws of Australia or otherwise operating in Australia (including, without limitation, the entities listed below) (collectively, “ **CBS Australia** ”) are subject to the Australian Privacy Principles (APPs) as set out in the Privacy Act 1988 (Privacy Act).
 
-When we no longer need your personal information we have procedures in place to either destroy it in a secure manner or to permanently de-identify the information.
+We maintain records of personal information we have collected. You can gain access to the personal information held by CBS about you in two ways. If you have registered as a CBS member or subscriber, most information held by CBS about you can be viewed and changed directly by you by logging into the relevant Website or Application and reviewing your account information. Except in some limited circumstances such as where the information is commercially sensitive, other personal information held by CBS about you is available by contacting the CBS Australia Privacy Officer. Contact details for the CBS Australia Privacy Officer can be found below.
 
-Network Ten does not currently send personal information covered by this Privacy Policy to any other country. We will update this Privacy Policy if we expect this to change in the future.
-
-**Can You Access or Correct Information Held by Network Ten?  **  
-We maintain records of personal information we have collected. You can gain access to the personal information held by Network Ten about you in two ways. If you have registered as a Network Ten member (including by being a member of tenplay), most information held by Network Ten about you can be viewed and changed directly by you by logging into the relevant Website or Application and reviewing your account information. Except in some limited circumstances such as where the information is commercially sensitive, other personal information held by Network Ten about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at [Contact Us](https://tenplay.com.au/contact-us)
-
-You can submit a request for access to your personal information to the Network Privacy Officer. We will process a request for access as quickly as possible. We reserve the right to impose a reasonable charge for processing and collating personal information, where appropriate and permitted under the Privacy Act 1988.
+You can submit a request for access to your personal information to the CBS Australia Privacy Officer. We will process a request for access as quickly as possible. We reserve the right to impose a reasonable charge for processing and collecting personal information, where appropriate and permitted under the Privacy Act.
 
 If you inform us that the information we hold is incorrect we will, if appropriate, amend those records.
 
-**Do you have a complaint?**
+##### THIRD-PARTY ONLINE ADVERTISING
 
-If you are concerned that there may have been some inappropriate use or disclosure or any other breach relating to your personal information, we want to know about it. The contact person for complaints is the Network Privacy Officer. All complaints will be investigated. Contact details for the Network Privacy Officer can be found at [Contact Us](https://tenplay.com.au/contact-us)
+In Australia, the Australian Digital Advertising Alliance (“ **ADAA** ”) has developed the Australian Guideline for Third Party Online Behavioural Advertising. More information and an opt out page to manage online behavioral advertising preferences with ADAA member companies are available at [www.youronlinechoices.com.au](https://www.youronlinechoices.com.au/).
 
-**Changes to this Privacy Policy**
+##### CONTACT US
 
-Network Ten may change its privacy policy at any time, and you should check this policy from time to time for that reason. 
+If you need further assistance, please [contact us](https://tenplay.com.au/contact-us). If you would prefer to submit your questions or comments by mail, please send a letter to the address below:
 
-**Have we answered your questions about privacy?**
+CBS Australia Privacy Officer Network Ten Pty Limited 1 Saunders Street Pyrmont, NSW 2009 GPO BOX 10, Sydney, NSW 2001
 
-If you have other questions regarding our information handling processes, please [Contact Us](https://tenplay.com.au/contact-us).
+##### AUSTRALIAN COMPANIES COVERED BY THIS POLICY
 
-**Ten Facebook App Privacy Policy**
+  * CBS Interactive Pty Limited (ABN 41 092 094 525)
+  * Network Ten Pty Limited (ABN 91 052 515 250)
 
-Please check our [Facebook App Privacy Policy](https://images.tenplay.com.au/~/media/PDFs/Facebook_App_Privacy_Policy_2012.pdf) for enquiries regarding any of Ten's Facebook Apps.
 
-**Companies covered by this policy** **  
-**  
-Ten Network Holdings Limited (ABN 14081 327 068)
 
-The Ten Group Pty Limited (ABN 50 057 564 708)
+[ ](https://web.archive.org/)
 
-Network Ten Pty Limited (ABN 91 052 515 250)
-
-Ten Online Pty Limited (ABN 83 089 829 667)
-
-Ten Ventures Pty Limited (ABN 64 089 830 759)
-
-Network Ten (Melbourne) Pty Limited (ABN 39 008 664 953)
-
-Network Ten (Brisbane) Pty Limited (ABN 14 050 148 537)
-
-Network Ten (Sydney) Pty Limited (ABN 41 008 664 962)
-
-Television & Telecasters (Properties) Pty Limited (ABN 52 050 690 161)
-
-Caprice Pty Limited (ABN 82 008 655 847)
-
-Network Ten (Adelaide) Pty Limited (ABN 65 007 577 666)
-
-Chartreuse Pty Limited (ABN 88 008 665 874)
-
-Network Ten (Perth) Pty Limited (ABN 96 009 108 614)
-
-Ten Employee Share Plans Pty Limited  (ACN 082 736 150)
-
-Elevenco Pty Limited  (ACN 147 043 981)
-
-This page was last updated on 16th November 2017
+[ x ] Close
