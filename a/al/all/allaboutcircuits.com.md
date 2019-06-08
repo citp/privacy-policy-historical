@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutcircuits.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231032838id_/https%3A//www.allaboutcircuits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutcircuits.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608083647id_/https%3A//www.allaboutcircuits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -93,6 +93,10 @@ If a user has opted-in, they will receive emails that may include company news, 
 
 By registering and checking the opt-in checkbox for a Giveaway, Design Contest, Webinar or an Industry white paper, the User acknowledges that their contact information will be shared with the sponsoring company, as stated on the respective registration page.
 
+### Registration Page Info Checkboxes
+
+On our registration page, we partner with companies and provide an option to learn more about the company ("Example: Check the box to the left if you would like information about Company X"). If you check this checkbox, we will share your contact information with the sponsoring company.
+
 ### Surveys
 
 Occasionally, we conduct user surveys to better understand the needs of our audience in order to improve our features. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any survey information about specific individuals with any third party without the user’s consent. By filling out surveys on our media properties, or social networks (e.g., Facebook), the user acknowledges that their contact information may be shared with companies that they mark having an interest in and consent receiving communication from.
@@ -121,7 +125,7 @@ If you have any questions about this Privacy Policy, the practices of this Site,
 
 EETech Media, LLC  
 ATTN: Data Protection Officer  
-850 W Main St.,  
+404 S. 8th St., Ste. 203  
 Boise, ID 83702
 
 This document was last updated on May 24, 2018
