@@ -1,32 +1,43 @@
-> *The following text is extracted and transformed from the allindiadaily.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207203932id_/http%3A//www.allindiadaily.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindiadaily.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608085811id_/https%3A//allindiadaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for www.allindiadaily.com
+# Privacy Policy
 
-Below is the Privacy Policy for www.allindiadaily.com
+**All India Daily** owned by **Gayathrini Media Private Limited** (“us”, “we”, or “our”) operates the website www.allindiadaily.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing you a better user experience and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.allindiadaily.com.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at kunwaramardeep@gmail.com  
-At www.allindiadaily.com, the privacy of our visitors is important to us. This privacy policy document outlines the types of personal information is received and collected by www.allindiadaily.com and how we use it.
+We take Privacy of our visitors very seriously.If you have any questions or need any more related to our privacy feel free to contact us at allindiadaily@gmail.com
 
-**_Log_**
+#### Log Files:
 
-Like many other Web sites, www.allindiadaily.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Where necessary, we uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and present the visitor’s with customized content.Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics. Advertising partners and other third parties may also use cookies, scripts or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and subject to their own privacy policies.
 
-**_Cookies  _**  
-www.allindiadaily.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+#### Information Collection And Use :
 
-_**DoubleClick DART Cookie**_
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, age, gender, email address, country, postal address and phone number (“Personal Information”).
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.allindiadaily.com  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.allindiadaily.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+#### Cookies :
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.allindiadaily.com send directly to your browsers. 
+#### Controlling your Privacy:
 
-www.allindiadaily.com has no access to or control over these cookies that are used by third-party advertisers.
+If you want you can change your browser settings and disable cookies if you have any Privacy Concern . Disabling cookies for all sites is not recommended as it may interfere with use of some sites.The best option is to disable cookies as per site basis.Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.allindiadaily.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+#### Security :
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+#### Links To Other Sites :
+
+Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit. All India Daily has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
+
+#### Special note about Google Advertising:
+
+All the Advertisements served by Google and Affiliated Companies may be controlled using Cookies.These cookies allow google to display ads based on the sites you visit and other sites that use Google Advertising Services.As mentioned above any tracking done by Google through cookies and other mechanisms is subject to Google’s own Privacy Policies.
+
+#### Changes To This Privacy Policy :
+
+All India Daily may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
+
+#### Contact Us :
+
+If you have any questions about this Privacy Policy, Please [contact us](https://allindiadaily.com/contact-us/)
