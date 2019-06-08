@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the yr.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220174724id_/http%3A//www.yr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yr.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608131726id_/https%3A//www.yr.com/privacy-policy) for the most accurate reproduction.*
 
-# Y&R - Global Ad Agency - Privacy Policy
+# Privacy Policy
 
-**YR.com Privacy Policy**
+**YR.com Privacy & Policies**
 
-**Last updated – August 7, 2012**
+**Last updated – May 10, 2019**
 
 This website is operated by Young & Rubicam Brands (“Y&R”, "we" or "us"). **By using and visiting our website and by submitting your information to us, you agree to us using your information as set out in this privacy policy.** This Privacy Policy applies solely to the website located at YR.com and not to any other website or service.
 
 [If you just want to know about how we use cookies please click here](http://www.wpp.com/wpp/cookies.htm).
 
-We respect the privacy of users of our website and recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner with that information. This privacy policy contains important information about how we use your personal information. 
+We respect the privacy of users of our website and recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner with that information. This privacy policy contains important information about how we use your personal information.
 
 **What information do we collect?**
 
@@ -43,7 +43,7 @@ We may send your personal information to our affiliated companies if the nature 
 
 We may disclose your personal information if we or any of our assets are the subject of a sale or similar corporate transaction.
 
-We may disclose personal information to third parties when we reasonably believe we are required by law, and in order to investigate, prevent, or take action regarding suspected or actual unlawful or otherwise prohibited activities, including, but not limited to, fraud. 
+We may disclose personal information to third parties when we reasonably believe we are required by law, and in order to investigate, prevent, or take action regarding suspected or actual unlawful or otherwise prohibited activities, including, but not limited to, fraud.
 
 **How do we use your information for marketing?**
 
@@ -73,11 +73,11 @@ Cookies come in many forms. We have set out below the main types and categories 
 
 **What do we use cookies for?**
 
-Cookies can fall into one or more of the categories. This website uses cookies which may fall into the following two categories set forth below. 
+Cookies can fall into one or more of the categories. This website uses cookies which may fall into the following two categories set forth below.
 
 **1\. Strictly necessary cookies – These cookies enable services you have specifically asked for.**
 
-These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies certain services you have asked for cannot be provided. 
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies certain services you have asked for cannot be provided.
 
 **2\. Performance cookies – These cookies collect information on the pages visited.**
 
@@ -95,7 +95,7 @@ Our website may use links or tools from social media services, such as a “Like
 
 **How do we protect your information?**
 
-We take appropriate measures to ensure that your personal information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used. 
+We take appropriate measures to ensure that your personal information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.
 
 **Under 13 year olds** This website is not intended or designed to attract children under the age of 13. We do not knowingly collect personal information from or about any person under the age of 13. If you are under 13 years old and wish to ask a question or use this website in any way which requires you to submit your personal information, please get your parent or guardian to do so on your behalf.
 
@@ -109,8 +109,12 @@ If your personal information or your preferences change, you don't want us to se
 
 **Changes to this privacy policy**
 
-We reserve the right, at our discretion, to change, modify, add, or remove portions from this privacy policy at any time. You are encouraged to review this privacy policy from time to time. 
+We reserve the right, at our discretion, to change, modify, add, or remove portions from this privacy policy at any time. You are encouraged to review this privacy policy from time to time.
 
 **Questions**
 
 If you have any questions about the privacy practices of this website, you may contact us at [privacy@yr.com](mailto:privacy@yr.com)
+
+**Due Diligence In Our Business**
+
+Y&R does not tolerate any form of modern slavery or human trafficking in any part of our business. Y&R is a subsidiary of WPP, therefore please refer to [WPP’s Modern Slavery statement here](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.wpp.com_sustainability_&d=DwMFaQ&c=qwStF0e4-YFyvjCeML3ehA&r=MQ7IHdbl9zUuldyzTFtXmE9Un9Kd3gaJqXkSpYQDHco&m=1auC_z0Ljggjk2drX5qxJo_s1EuQWRxtXb89czndcbY&s=L7dYxjxYDqHDZ7c0BQ1cEUcoF8u-8sgb84NvTzZItHg&e=).
