@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladyandpups.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207140517id_/http%3A//ladyandpups.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyandpups.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609004703id_/http%3A//ladyandpups.com/privacypolicy) for the most accurate reproduction.*
 
 # Lady and Pups | PRIVACY POLICY
 
