@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyscholarships.info privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228180340id_/http%3A//afrischolarships.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyscholarships.info privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608020618id_/http%3A//afrischolarships.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Afrischolarships.com
 
@@ -65,7 +65,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 
 #### SUBSCRIBE TO SCHOLARSHIP ALERTS _!_
-
-* * *
 
 * * *
