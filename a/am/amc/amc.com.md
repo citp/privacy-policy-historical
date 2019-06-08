@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amc.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826053402id_/https%3A//www.amc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amc.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608135759id_/https%3A//www.amc.com/privacy) for the most accurate reproduction.*
 
 # Privacy - AMC
 
-**EFFECTIVE DATE: May 10th, 2017**
+**EFFECTIVE DATE: February 28th, 2019**
 
 This Privacy Policy describes what information AMC Networks Inc. and its United States-based affiliate and subsidiary companies (together, “AMC” or “we” and sometimes “us”) collect about you and why, how we use and share that information, and the choices we offer.
 
@@ -70,7 +70,7 @@ If you do not agree or do not consent to the disclosure of your information in a
 
 You may opt out of receiving interest-based advertising from us.  To find out more about our advertising and how to opt out, please see our [Cookies Policy](https://web.archive.org/cookies).  You may also choose to block cookies.  Learn more about cookies, how we use them and how to block them by reviewing our [Cookies Policy](https://web.archive.org/cookies).
 
-You have a right at any time to stop us from contacting you for marketing purposes. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the promotional e-mail you receive or by contacting us directly at [privacy@amctv.com](mailto:privacy@amctv.com).  Despite your indicated e-mail marketing preferences, we may still send you relationship and/or transactional e-mails regarding the Services, including, for example, administrative confirmations and notices of updates to our Policy, if we choose to provide such notices to you in this manner.
+You have a right at any time to stop us from contacting you for marketing purposes. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the promotional e-mail you receive or by contacting us directly at [privacy@amcnetworks.com](mailto:privacy@amcnetworks.com).  Despite your indicated e-mail marketing preferences, we may still send you relationship and/or transactional e-mails regarding the Services, including, for example, administrative confirmations and notices of updates to our Policy, if we choose to provide such notices to you in this manner.
 
 If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, do not agree to allow your device to share this information with us or disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. Your device manufacturer should provide instructions on how to disable GPS or other location-tracking functions.  If you initially consent to the collection of location information, you can subsequently stop our collection of location information at any time by changing the preferences on your mobile device or by uninstalling the application from your mobile device by following the standard uninstall process to remove applications from your device.
 
@@ -88,7 +88,7 @@ We are committed to protecting the security of your information. We use a variet
 
 ## **10.** **WHAT IF MY INFORMATION IS INCORRECT?**
 
-You have the right to request a copy of the information that we hold about you that identifies you personally. If you would like a copy of some or all of this information, please contact us at [privacy@amctv.com](mailto:privacy@amctv.com). We may charge a reasonable fee for this service. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or to remove information that you think is inaccurate. We also provide you with tools and account settings to access or modify some of the information you provided to us and associated with your account.
+You have the right to request a copy of the information that we hold about you that identifies you personally. If you would like a copy of some or all of this information, please contact us at [privacy@amcnetworks.com](mailto:privacy@amcnetworks.com). We may charge a reasonable fee for this service. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or to remove information that you think is inaccurate. We also provide you with tools and account settings to access or modify some of the information you provided to us and associated with your account.
 
 ## 11\. **WHAT IS YOUR POLICY REGARDING CHILDREN?**
 
@@ -96,7 +96,7 @@ AMC does not direct its Services to children under the age of thirteen (13) and 
 
 ## **12.** **MY CALIFORNIA LAW RIGHTS.**
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their “personal information” (as defined under the California Online Privacy Protection Act), if any, for their direct marketing purposes in the prior calendar year, as well as the type of “personal information” disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@amctv.com](mailto:privacy@amctv.com).
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their “personal information” (as defined under the California Online Privacy Protection Act), if any, for their direct marketing purposes in the prior calendar year, as well as the type of “personal information” disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@amcnetworks.com](mailto:privacy@amcnetworks.com).
 
 ## **13.** **GOVERNING LAW.**
 
@@ -104,10 +104,10 @@ This Policy and all disputes arising hereunder or relating hereto shall be gover
 
 ## **14.** **WHERE IS MY INFORMATION STORED AND PROCESSED?  **
 
-The information we collect from you through your use of the Services is stored and processed in the United States in compliance with New York State and United States law.  If you are not a United States citizen, do not use the Services.
+Our services are intended only for individuals located in the United States and Canada. If you visit our Services or contact us from outside of the United States, please be advised that (1) any information you provide to us or that we automatically collect will be stored or otherwise processed in the United States and may be transferred to other jurisdictions; (2) that by using our Services or submitting information to us, you agree to such processing and transfer; and (3) U.S. law may not offer the same privacy protections as those in your country.
 
 ## **15.** **HOW CAN I CONTACT YOU?**
 
-If you have questions or concerns about our Policy, please contact us at: [privacy@amctv.com](mailto:privacy@amctv.com).
+If you have questions or concerns about our Policy, please contact us at: [privacy@amcnetworks.com](mailto:privacy@amcnetworks.com).
 
-© 2017 AMC Networks Inc. All rights reserved.
+© 2019 AMC Networks Inc. All rights reserved.
