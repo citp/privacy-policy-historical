@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swire.com.sg privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207195052id_/http%3A//www.swire.com.sg/Home/Privacy-Notices.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swire.com.sg privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608152121id_/http%3A//swire.com.sg/Home/Privacy-Notices.aspx) for the most accurate reproduction.*
 
 # Swire Pacific Offshore - Privacy Notices
 
