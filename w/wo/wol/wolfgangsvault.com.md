@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wolfgangsvault.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919215746id_/https%3A//www.wolfgangs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfgangsvault.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608170126id_/https%3A//www.wolfgangs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Wolfgang's Privacy Policy
 
-(Last Updated on May 25, 2018)
+(Last Updated on November 19, 2018)
 
 Wolfgang's is committed to protecting your personal security and privacy, and we appreciate your trust that we will uphold this commitment.
 
@@ -47,6 +47,8 @@ We work with service providers who help to support our business and improve our 
 ## How to manage cookies
 
 If you wish to manage your cookies, you can do so via your browser settings. For more information, please visit your browser's help page. Please remember that if you choose to disable cookies, certain sections of our Sites may not work properly.
+
+We use Google Analytics as our primary analytics tool. If you wish to opt out of having cookies placed on your device for Google Analytics you can do so by using [Google's opt-out browser add-on](https://tools.google.com/dlpage/gaoptout), which helps make opting out easy and convenient.
 
 ## How long we retain your personal information
 
