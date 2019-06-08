@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squadup.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121155152id_/https%3A//www.squadup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squadup.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608122434id_/https%3A//www.squadup.com/privacy) for the most accurate reproduction.*
 
 # SquadUP - Create an Event, Share an Experience
 
