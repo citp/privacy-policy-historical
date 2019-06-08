@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105164410id_/https%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608074500id_/https%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Information | Thomas Cook
 
@@ -14,13 +14,13 @@ By making a booking or other purchase or otherwise giving your personal data to 
 
 This Privacy Policy applies to the holidays, travel products and services offered by Thomas Cook travel agency and tour operator companies in the UK (“Thomas Cook”).   When we say ‘we’ or ‘us’ in this Policy, we’re generally referring to the separate and distinct companies that make up Thomas Cook UK’s businesses (depending on the type of Services you use). This Policy applies to personal data processed by the following companies, including data collected when you make bookings, purchases and enquiries with them:
 
-  * Thomas Cook Retail Limited.  The company that operates the following retail websites; Thomascook.com, Airtours.co.uk, Club18-30.com, Thomascooksport.com, ‘My Account’ and the Thomas Cook ‘My Holiday’ App. It also operates telephone contact centres.
+  * Thomas Cook Retail Limited.  The company that operates the following retail websites; Thomascook.com, Airtours.co.uk, Thomascooksport.com, ‘My Account’ and the Thomas Cook ‘My Holiday’ App. It also operates telephone contact centres.
   
 
-  * TCCT Retail Ltd.  The company that operates high street travel stores trading under the name Thomas Cook and The Co-operative Travel, foreign exchange bureau trading under the name Thomas Cook Money and that issues Thomas Cook Gift Cards.
+  * TCCT Retail Ltd.  The company that operates high street travel stores trading under the name Thomas Cook, foreign exchange bureau trading under the name Thomas Cook Money and that issues Thomas Cook Gift Cards.
   
 
-  * Thomas Cook Tour Operations Ltd.  The company that organises and operates package holidays and other travel arrangements, and that trades under various names including Airtours, Club 18-30, Manos, Flexibletrips, Signature,  Thomas Cook Sport and the Twstd Festival.
+  * Thomas Cook Tour Operations Ltd.  The company that organises and operates package holidays and other travel arrangements, and that trades under various names including Airtours, Manos, Flexibletrips, Signature and Thomas Cook Sport.
 
 
 
@@ -45,7 +45,7 @@ Certain web pages offering Hotels and City Breaks, that can be accessed through 
   * When you make a booking or other purchase or enquiry we will ask you for your name, address, e-mail address, telephone number, date of birth, and personal travel preferences. We need to collect this information in order to arrange the travel and other services you are requesting.
   
 
-  * When you request to make a booking, depending on the arrangements you ask us to make for you, we will ask if you have any special requirements.  You may give us information concerning dietary requirements, medical /health conditions, disabilities, sexual orientation, race or religion.  This information is referred to as special categories of personal data and when you give us this information we’ll use it to try and ensure your particular needs in relation to a booking are met.  We may have to share that data with our third party suppliers and transfer it outside the European Economic Area (EEA), as described in this Privacy Policy.  If you do not want to provide this information to us, or after you have provided us with this information you ask us or our data compliance department to stop processing this information, it may mean we won’t be able to provide all or parts of the services you have requested.  If we have to cancel your booking/purchase as a result, you may incur a cancellation charge.
+  * When you request to make a booking, depending on the arrangements you ask us to make for you, we will ask if you have any special requirements.  You may give us information concerning dietary requirements, medical /health conditions, disabilities, sexual orientation, race or religion.  This information is referred to as special categories of personal data and when you give us this information we’ll use it to try and ensure your particular needs in relation to a booking are met.  We may have to share that data with our third party suppliers and transfer it outside the UK, EU or European Economic Area (EEA), as described in this Privacy Policy.  If you do not want to provide this information to us, or after you have provided us with this information you ask us or our data compliance department to stop processing this information, it may mean we won’t be able to provide all or parts of the services you have requested.  If we have to cancel your booking/purchase as a result, you may incur a cancellation charge.
   
 
   * If you enter a competition or promotion, complete a survey, or if you give feedback on any of our Services, we will collect your name and relevant contact information and any other personal information you choose to give us.
@@ -107,26 +107,25 @@ We might also receive your personal data from third party sources who collect in
 When you give your personal data to us, some of the personal data you provide will need to be given to and processed and stored by relevant third parties.  These third parties include:
 
   * our technology and data management partners who help us to administer the services we provide (such as GBG Group plc who provide data intelligence services, and both Crowd Technologies Ltd and Influence Digital who support how we manage our social media activity);
-  
-
+  * our contact centre (including ‘live chat’) partners who provide services to support customer bookings and enquiries;
   * our travel partners, such as airlines, airports, hoteliers, insurance companies and ground handling agents (depending on the travel services you book), so that they can provide you with the arrangements and assistance you require.
-  
-
-  * our card payment facilitators, that help us process customer payments and assists us in  detecting and preventing fraudulent payments or bookings.
+  * companies that help us to process payments customers make to us for their travel purchases, and our suppliers of credit/finance arrangements to customers which customers use to pay for travel services. These suppliers assist us in detecting and preventing fraudulent payments or bookings.
 
 
 
-Some of these third parties may be based outside of the European Economic Area (“EEA”). Organisations that are based outside of the EEA may not be subject to the same level of controls in regard to data protection as exist within the UK and the EEA.   We aim only to transfer your data to third parties outside of the EEA where either:
+Some of these third parties may be based outside of the UK, EU or European Economic Area (“EEA”). Organisations that are based outside of the UK, EU or EEA may not be subject to the same level of controls in regard to data protection as exist within the UK and the EEA.   We aim only to transfer your data to third parties outside of the UK, EU or EEA where either:
 
 (a) your personal information will be subject to one or more appropriate safeguards set out in the law, if you’d like more information about our safeguards, please contact us. These safeguards might be the use of standard contractual clauses in a form approved by regulators, or having our suppliers sign up to an independent privacy scheme approved by regulators (like the US ‘Privacy Shield’ scheme); or
 
 (b) the transfer is necessary to enable your contract to be performed.
 
+Due to the decision of the UK leaving the EU, the way your data is transferred from the UK to other countries may change to ensure continuing compliance with data protection regulations but it will not change the security of your data. This will depend on the data protection rules in place for the international transfers of data outside of the UK once the UK has left the EU.
+
 In order for you to travel overseas, we may be required to disclose certain of your personal data to government bodies or other authorities in the UK and in other countries, such as those responsible for immigration, border control, law enforcement, security and anti-terrorism.
 
 Even if it is not mandatory for us to provide information to such authorities, we may exercise our discretion to assist them where appropriate in the interests of detecting and preventing criminal activity.
 
-We may disclose your personal information to any member of our Group for business purposes, (those business purposes include holding your data on central/shared systems for administering bookings and supporting customers in destination countries). Our Group means our subsidiaries and our ultimate holding company and its subsidiaries.
+We may disclose your personal information to any member of our Group for business purposes, (those business purposes include holding your data on central/shared systems for administering bookings and supporting customers in destination countries). Our Group means our subsidiaries and our ultimate holding company and its subsidiaries. We may share your data with members of our Group who are in the UK or outside the UK. 
 
 We may pass your data to relevant third parties, such as a payment facilitator Ingenico Group for the purpose of detecting and preventing fraudulent payments or bookings.
 
@@ -136,7 +135,7 @@ We may pass your data to relevant third parties, such as a payment facilitator I
 
 The following activities are carried out by us using your personal data because it is **necessary in relation to a contract** which you have entered into or because **you have asked for something to be done so you can enter into a contract** ;
 
-  * Administering your booking  internally and communicating your booking externally with our suppliers, to ensure the services you have requested are arranged;
+  * Administering your booking internally and communicating your booking externally with our suppliers, to ensure the services you have requested are arranged;
   * To communicate with you regarding your booking or any other purchase, including sending booking confirmation and travel documents;
 
 
@@ -145,18 +144,19 @@ We may use and process your personal information as set out below **where it is 
 
   * To improve customer experience:
     * To allow you to participate in interactive features of our Sites and Apps, when you choose to do so. When using the Thomas Cook My Holiday App, you can choose not to use interactive features by changing your settings on the App itself;
-    * To ensure that content from our Sites, Apps and booking systems is presented in the most effective manner for you and for your computer;
-    * To notify you about changes to our service;
-    * To inform you about our service in destination;
+    * To ensure that content from our Sites, Apps and booking systems is presented in the most effective manner for you and for your device;
+    * To inform you about our service in destination and to check you have everything you need for your forthcoming trip;
+    * To notify you about changes to our service.
   
 
-  * To protect our business against financial loss;
+  * To protect our business and our supplier’s against financial loss;
     * For debt collection or credit vetting
     * For payment card and booking verification (including using Google reCAPTCHA on some of our Sites to ensure only genuine customer bookings are made).
+    * For customer’s entering into a Holiday Credit agreement with Klarna Bank AB to pay for travel services, we will pass to Klarna certain of your personal information, such as contact and travel details in order for Klarna to protect themselves against fraudulent activity. General information on Klarna and Klarna’s Privacy Policy is available at: https://www.klarna.com/uk/. Your personal data is handled in accordance with applicable data protection law and in accordance with the information in Klarna’s privacy policy.
 
 
   * To investigate, respond to, settle and/or defend customer complaints and claims:
-    * We may use and process your personal information and may pass it to third parties involved in providing travel services to you and acting on our behalf, (such as external law firms and their employees),  for resolving complaints, dealing with disputes and legal proceedings.  This might include contacting you proactively if we need to resolve any issues you may be experiencing or have experienced with a booking or other purchase;
+    * We may use and process your personal information and may pass it to third parties involved in providing travel services to you and acting on our behalf, (such as external law firms and their employees),for resolving complaints, dealing with disputes and legal proceedings. This might include contacting you proactively if we need to resolve any issues you may be experiencing or have experienced with a booking or other purchase;
   
 
   * To maintain a safe and secure environment and prevent and detect criminal activity;
@@ -165,7 +165,7 @@ We may use and process your personal information as set out below **where it is 
 
   * To promote our business, improve our products and services;
     * To send marketing correspondence about products and services similar to those you have previously bought from us. You can opt out and object to our sending you electronic marketing information and this option will be included in every marketing message we send you. See the section ‘When and how do we use your information for marketing for more information’.
-    * To contact you if you make an enquiry with us on our website but do not complete a booking to check if there was a problem or you need any assistance to book;
+    * To contact you if you make an enquiry with us on our website but do not complete a booking in order to check if there was a problem or you need any assistance to book;
     * For internal research/analysis to improve the quality of our Services, the products we offer and new products we are developing by:
       * Inviting customers to take part in surveys or customer/business discussion groups;
       * Using aggregated customer data to make informed decisions based on analysis of customer booking or other purchase trends and behaviours.
@@ -196,7 +196,7 @@ We may use and process your personal information as set out below where we consi
 We may use and process your personal information as set out below where we have your **consent** to do so:
 
   * To assist you or arrange for assistance to be provided to you by third parties where you have special requirements in relation to special categories of personal data (please refer to the section: ‘What types of personal data do we collect about you and why do we collect it’).;
-  * To send marketing correspondence about our products and services where we have asked for your permission to do so. See the section ‘When and how do we use your information for marketing for more information’.
+  * To send marketing correspondence about products and services available from Thomas Cook and/or from our business partners/affiliates, where we have asked for your permission to do so. See the section ‘When and how do we use your information for marketing for more information’.
 
 
 
@@ -231,20 +231,22 @@ The type of products and services that can be booked/purchased through Thomas Co
   
 ---|---|---  
   
-  *  **Holidays and travel arrangements** from  Thomas Cook Tour Operations Limited trading as Thomas Cook, Airtours, Signature, Flexibletrips, Club 18-30, Thomas Cook Sport, Thomas Cook City Escapes, and Manos
+  *  **Holidays, travel arrangements and holiday ancillary services** from Thomas Cook Tour Operations Limited trading as Thomas Cook, Airtours, Signature, Flexibletrips, Thomas Cook Sport and Manos
   *  **Flights and flight ancillary services** (such as in-flight meals, and ‘Airshoppen’ online duty-free service), from Thomas Cook Airlines Limited and Thomas Cook Airlines Scandinavia A/S
   *  **Escorted tour holidays**  from Adventures Unlimited Inc. (under  the name ‘Thomas Cook Tours’ under licence from Thomas Cook Group PLC)
 
 | 
 
   *  **Foreign Exchange, Lyk (Pre-Paid Currency Cards), Money Transfers, Thomas Cook Gift Cards,** supplied by TCCT Retail Ltd.
-  *  **Sumo (a mobile banking App) and savings products** from Thomas Cook Money Ltd and Ferratum Bank p.l.c
   *  **Thomas Cook Travel Insurance and Roam** (insurance App) from White Horse Insurance Ireland DAC.
-  *  **Holipay** \- ways to finance your holiday from Thomas Cook Money Ltd
+  *  **Holipay and Holiday Credit (by Klarna Bank AB (publ)** \- ways to finance your holiday from Thomas Cook Money Ltd
+  * **Thomas Cook Rewards** \- from Thomas Cook Money Ltd
 
 | 
 
   * Cruises
+  * Ski-holidays
+  * Villa holidays
   * City Breaks
   * Hotels
   * Transfers
@@ -261,7 +263,6 @@ The type of products and services that can be booked/purchased through Thomas Co
 ---  
   
   * Villas or homestay arrangements available from HomeAway
-  * Car sharing arrangements available from Turo
 
   
   
@@ -292,16 +293,9 @@ You have the right at any time to ask us not to process your personal data for m
 
 You can also choose what communication you want to receive by updating your preferences [here](http://travel.thomascook.com/?XOyOG52Jle3PI67z7nFBRFiuOflsfgdUX&_ga=2.208347538.1847266657.1526901317-803845417.1526901317).
 
-You can choose to opt-out by following the opt-out instructions on any direct marketing communication sent by post,  or by sending an unsubscribe request to :
+You can choose to opt-out by following the opt-out instructions on any direct marketing communication sent by post or by sending an unsubscribe request to:
 
-Database Manager,  
-Marketing,  
-Thomas Cook,  
-Westpoint,  
-Peterborough Business Park,  
-Lynch Wood,  
-Peterborough,  
-PE2 6FZ.
+Database Manager,Marketing,Thomas Cook,Westpoint,Peterborough Business Park,Lynch Wood,Peterborough,PE2 6FZ.
 
 You can opt out of App push notifications in the Settings section of your device.
 
@@ -317,7 +311,7 @@ You have the right to make a Data Subject Access Request in many circumstances.�
 
 We may ask for proof of identity and sufficient information about your interactions with us that we can locate your personal information. That may include information about your previous booking(s) or other purchases.  If someone is acting on your behalf they will need to provide written and signed confirmation from you that you have given your authority to that person/company for them to make the request.  We will ask for this to be provided before we give you (or another person acting on your behalf) a copy of any of your personal information we may be holding. We may not provide you with a copy of your personal information if it includes the personal information of other individuals or we have another lawful reason to withhold that information.  
 
-Please see the section titled ‘[How to Contact Us](https://www.thomascook.com/privacy-policy#how-to-contact)’ if you need to make a Data Subject Access Request.
+Please see the section below titled ‘How to Contact Us’ if you need to make a Data Subject Access Request.
 
 ### Correcting and updating your personal information
 
@@ -331,7 +325,7 @@ Where we rely on your consent as the legal basis for processing your personal in
 
 If you withdraw your consent, our use of your personal information before you withdraw is still lawful.
 
-### Objecting to our use of your personal information 
+### Objecting to our use of your personal information
 
 Where we rely on our legitimate business interests as the legal basis for processing your personal information for any purpose(s), you may object to us using your personal information for these purposes by e-mailing or writing to us at the address provided at the end of this policy. Except for the purposes for which we are sure we can continue to process your personal information, we will temporarily stop processing your personal information in line with your objection until we have investigated the matter. If we agree that your objection is justified in accordance with your rights under data protection law, we will permanently stop using your data for those purposes. Otherwise we will provide you with our justification as to why we need to continue using your data.
 
@@ -347,9 +341,23 @@ Where we rely on your consent as the legal basis for processing your personal in
 
 You can ask us to send your personal information directly to another service provider, and we will do so if this is technically possible. We may not provide you with a copy of your personal information if it contains the personal information of other individuals or we have another lawful reason to withhold that information.
 
-### How to contact us:
+### Making a complaint
 
-Any subject access request can be made in writing to:
+We encourage you to contact us if you have a complaint and we will seek to resolve any issues or concerns you may have.
+
+You have the right to lodge a complaint with the data protection regulator where you believe your legal rights have been infringed, or where you have reason to believe your personal information is being or has been used in a way that doesn’t comply with the law.  The contact details for the Information Commissioner’s Office ( **ICO** ), the data protection regulator in the UK, are available on the [ICO website](https://ico.org.uk/).
+
+If you wish to contact us about this Privacy Policy, you can e-mail or write to the Thomas Cook Group Data Protection Officer using the contact details above.
+
+## How to contact us:
+
+ **To contact us about this Privacy Policy, to make a Data Subject Access Request, or a data protection related complaint. Please read here…..**
+
+Any subject access request can be made in the following ways:
+
+ **By email to:** data.compliance@thomascook.com.
+
+ **By post to:**
 
 UK Legal & Compliance Dept.,
 
@@ -365,17 +373,9 @@ Peterborough,
 
 PE2 6FZ.
 
-Alternatively you can make a subject access request by e-mail to: [data.compliance@thomascook.com.](mailto:data.compliance@thomascook.com)
+You can also make a request when speaking to any of our customer service team or by asking a travel consultant in store, or by contacting us through our social media pages. These requests will be directed to the Thomas Cook Legal & Compliance Department who aim to acknowledge requests within 10 working days.
 
 Once you have made your request and provided us with the information we need to begin a search for the data we hold on you (including proof of identity), we will have 30 days to respond.
-
-### Making a complaint
-
-We encourage you to contact us if you have a complaint and we will seek to resolve any issues or concerns you may have.
-
-You have the right to lodge a complaint with the data protection regulator where you believe your legal rights have been infringed, or where you have reason to believe your personal information is being or has been used in a way that doesn’t comply with the law.  The contact details for the Information Commissioner’s Office ( **ICO** ), the data protection regulator in the UK, are available on the [ICO website](https://ico.org.uk/).
-
-If you wish to contact us about this Privacy Policy, you can e-mail or write to the Thomas Cook Group Data Protection Officer using the contact details above.
 
 ## Keeping hold of your personal data:
 
@@ -395,7 +395,7 @@ We have a process to deal with any suspected personal data breach and will notif
 
  **Our Sites include links to other websites which include privacy policies of their own.   To learn more about this, please read here……**
 
-Our Sites contains links to and frames of websites of our principals, suppliers, advertisers and other third parties. You can tell when a third party is involved in supplying a product or service you have requested because their name will appear with ours. If you follow a link or otherwise use any of these other websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies or for these third party websites. Please check these policies before you submit any personal data to these websites.
+Our Sites contains links to and frames of websites of our principals, suppliers, advertisers and other third parties. You can tell when a third party is involved in supplying a product or service you have requested because their name will appear with ours. If you follow a link or otherwise use any of these other websites, please note that these websites have their own privacy policies and cookie policies and that we do not accept any responsibility or liability for these policies or for these third party websites. Please check these policies before you submit any personal data to these websites.
 
 ## Cookies
 
@@ -456,4 +456,4 @@ Alternatively you can review cookies by accessing the preference panels from you
   
 We reserve the right to update or alter this Privacy Policy from time to time.   You can request a copy of a previous version of our Privacy Policy.
 
- **September 2018, version 3**
+ **March 2019, version 5**
