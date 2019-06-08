@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carouselchecks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173241id_/https%3A//www.carouselchecks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carouselchecks.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608172436id_/https%3A//www.carouselchecks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Carousel Checks
 
@@ -68,7 +68,7 @@ Carousel is committed to ensuring that the information we obtain and use is accu
 If you have questions regarding this Privacy Policy, the practices of this Web site or your dealings with this Web site, Carousel provides the following convenient ways to contact us:
 
 Carousel Checks  
-8906 S. Harlem Ave.  
-Bridgeview, IL 60455
+11152 Southwest Hwy.  
+Palos Hills, IL 60465
 
 Carousel Checks is a BBB accredited business and complies with BBB Online standards.
