@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128161631id_/https%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608210858id_/https%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Canuck Audio Mart
 
-[ ](https://web.archive.org/partnerlink/aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2p1bXA/aXU9LzEwMTU1MDUvQ0FNXzYtMV8yMzB4NjAmc3o9MjMweDYwJmM9MjE1NDQ1)
+[ ](https://web.archive.org/partnerlink/aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2p1bXA/aXU9LzEwMTU1MDUvQ0FNXzYtMV8yMzB4NjAmc3o9MjMweDYwJmM9MjM1Mjc4)
 
 |   
 ---|---  
