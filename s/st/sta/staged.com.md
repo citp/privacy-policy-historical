@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staged.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231183728id_/http%3A//www.staged.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staged.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608104703id_/http%3A//www.staged.com/policy/privacy) for the most accurate reproduction.*
 
 # Staged - Social Engagement Marketing
 
