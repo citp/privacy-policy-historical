@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apa.org privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123045354id_/http%3A//www.apa.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apa.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608213956id_/https%3A//www.apa.org/about/privacy) for the most accurate reproduction.*
 
 # APA Privacy Policy
 
@@ -6,7 +6,7 @@ The American Psychological Association (“APA”) believes that the protection 
 
 Data you provide to us through your use of APA Digital Assets helps to inform the APA about how best to provide you with a fulfilling user experience as it relates to our mission.  Our goal is to insure that Your Data is secure, and that APA only uses Your Data subject to the terms and conditions set forth below.
 
-**APA is committed to working with you to obtain a fair and rapid resolution of any queries, complaints, or disputes about privacy.   If you have any questions or comments about our Privacy Statement, Cookie Policy or our information collection and data protection practices, please contact [Privacy@apa.org](mailto:privacy@apa.org) or 1-800-374-2721 or 202-336-5500 from anywhere**.
+**APA is committed to working with you to obtain a fair and rapid resolution of any queries, complaints, or disputes about privacy.   If you have any questions or comments about our Privacy Statement, Cookie Policy or our information collection and data protection practices, please contact [privacy@apa.org](mailto:privacy@apa.org) or 1-800-374-2721 or 202-336-5500 from anywhere**.
 
 ### APA Privacy Statement
 
@@ -144,7 +144,7 @@ We keep your Data for as long as you are a Member or as long as your relationshi
 
 ### Rights to Access and Control Your Personal Data
 
-You can access, change or delete Your Data if you have a MyAPA account by logging into your account.  You can also email us at **[Privacy@apa.org](mailto:privacy@apa.org) or 1-800-374-2721 or 202-336-5500 from anywhere**.
+You can access, change or delete Your Data if you have a MyAPA account by logging into your account.  You can also email us at **[privacy@apa.org](mailto:privacy@apa.org) or 1-800-374-2721 or 202-336-5500 from anywhere**.
 
 We collect Your Data in many ways, most often where you provide it to us, and we provide you with several options for collecting, using and sharing of Your Data, including deleting or correcting Data you have provided to us.  We offer you settings to control and manage Your Data through your MyAPA account.
 
@@ -178,11 +178,11 @@ APA retains information only as long as necessary to accomplish the business pur
 
 ## Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding the APA’s disclosure of personal data to third parties for their direct marketing purposes. To make such a request, please contact us at **[Privacy@apa.org](mailto:privacy@apa.org) or 1-800-374-2721 or 202-336-5500**.
+California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding the APA’s disclosure of personal data to third parties for their direct marketing purposes. To make such a request, please contact us at **[privacy@apa.org](mailto:privacy@apa.org) or 1-800-374-2721 or 202-336-5500**.
 
 ## Children's Privacy
 
-APA Digital Assets, and the services APA provides to its Users, are not directed to or intended for individuals under the age of 16. We do not knowingly collect personal Data from children under 16. If we become aware that a child under the age of 16 has provided us with personal Data, we will take steps to delete such information. If you become aware that a child under the age of 16 has provided us with personal Data, please contact us at  **[Privacy@apa.org](mailto:privacy@apa.org)** **  or 1-800-374-2721 or 202-336-5500**.
+APA Digital Assets, and the services APA provides to its Users, are not directed to or intended for individuals under the age of 16. We do not knowingly collect personal Data from children under 16. If we become aware that a child under the age of 16 has provided us with personal Data, we will take steps to delete such information. If you become aware that a child under the age of 16 has provided us with personal Data, please contact us at  **[privacy@apa.org](mailto:privacy@apa.org)** **  or 1-800-374-2721 or 202-336-5500**.
 
 ## Assignment
 
@@ -190,7 +190,7 @@ In the event that all or part of our assets are sold or acquired by another part
 
 ## Contacting APA
 
-Users may contact APA through email at  **[Privacy@apa.org](mailto:privacy@apa.org)** **  or 1-800-374-2721 or 202-336-5500** from anywhere. You may also mail us directly American Psychological Association, 750 First Street NE, Washington D.C. 20002 Attn: Office of General Counsel.
+Users may contact APA through email at  **[privacy@apa.org](mailto:privacy@apa.org)** **  or 1-800-374-2721 or 202-336-5500** from anywhere. You may also mail us directly American Psychological Association, 750 First Street NE, Washington D.C. 20002 Attn: Office of General Counsel.
 
 ## EU User Consent
 
