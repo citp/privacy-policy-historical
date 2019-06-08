@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmediafeed.me privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111153711id_/https%3A//socialmediafeed.me/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediafeed.me privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608200252id_/https%3A//socialmediafeed.me/website/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SocialMediaFeed.me | View Latest Social Media Feed from Instagram Popular People Online
 
