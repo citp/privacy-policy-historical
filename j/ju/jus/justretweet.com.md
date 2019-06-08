@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justretweet.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207004416id_/http%3A//www.justretweet.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justretweet.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608122619id_/http%3A//www.justretweet.com/policy) for the most accurate reproduction.*
 
 # JustRetweet
 
