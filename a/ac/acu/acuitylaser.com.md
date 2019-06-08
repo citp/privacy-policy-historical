@@ -1,35 +1,26 @@
-> *The following text is extracted and transformed from the acuitylaser.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107155837id_/http%3A//www.acuitylaser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuitylaser.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608041348id_/https%3A//www.acuitylaser.com/privacy-policy) for the most accurate reproduction.*
 
-# Acuity Laser's Website Privacy Policy
-
-## Acuity Protects Your Information That It Collects On This Website
+# Privacy Policy -
 
 **Effective April 22, 2011**
 
 Privacy Notice Table Of Contents:
 
-  * [Our Commitment To Privacy](https://web.archive.org/privacy-policy#commitment)
-
-  * [The Information We Collect](https://web.archive.org/privacy-policy#information)
-
-  * [How We Use Information](https://web.archive.org/privacy-policy#use-information)
-
-  * [Our Commitment To Data Security](https://web.archive.org/privacy-policy#security)
-
-  * [Our Commitment To Children's Privacy](https://web.archive.org/privacy-policy#privacy)
-
-  * [How To Access Or Correct Your Information](https://web.archive.org/privacy-policy#access)
-
-  * [How To Contact Us](https://web.archive.org/privacy-policy#contact)
+  * [Our Commitment To Privacy](http://www.acuitylaser.com/privacy-policy#commitment)
+  * [The Information We Collect](http://www.acuitylaser.com/privacy-policy#information)
+  * [How We Use Information](http://www.acuitylaser.com/privacy-policy#use-information)
+  * [Our Commitment To Data Security](http://www.acuitylaser.com/privacy-policy#security)
+  * [Our Commitment To Children’s Privacy](http://www.acuitylaser.com/privacy-policy#privacy)
+  * [How To Access Or Correct Your Information](http://www.acuitylaser.com/privacy-policy#access)
+  * [How To Contact Us](http://www.acuitylaser.com/privacy-policy#contact)
 
 
 
-
-### Our Commitment To Privacy
+### OUR COMMITMENT TO PRIVACY
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-### The Information We Collect
+### THE INFORMATION WE COLLECT
 
 This notice applies to all information collected or submitted on the Acuity website. On some pages, you can make requests and register to receive materials. The types of personal information collected at these pages are:
 
@@ -41,7 +32,7 @@ This notice applies to all information collected or submitted on the Acuity webs
 
 
 
-### The Way We Use Information
+### THE WAY WE USE INFORMATION
 
 We use the information you provide about yourself for company marketing purposes only. We do not share this information with outside parties except our international sales partners. It is likely that we will attempt to contact you by e-mail or telephone to discuss your requirements for our laser sensor products.
 
@@ -53,20 +44,20 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-### Our Commitment To Data Security
+### OUR COMMITMENT TO DATA SECURITY
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-### Our Commitment To Children's Privacy
+### OUR COMMITMENT TO CHILDREN’S PRIVACY
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-### How You Can Access Or Correct Your Information
+### HOW YOU CAN ACCESS OR CORRECT YOUR INFORMATION
 
-You may [contact us](https://web.archive.org/contact-us) and request that we change your information in our databases.
+You may [contact us](http://www.acuitylaser.com/contact-us) and request that we change your information in our databases.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-### How To Contact Us
+### HOW TO CONTACT US
 
-Should you have other questions or concerns about these privacy policies, please call us at 503-227-5178 or [send us an email](https://web.archive.org/contact-us).
+Should you have other questions or concerns about these privacy policies, please call us at 503-227-5178 or [send us an email](http://www.acuitylaser.com/contact-us).
