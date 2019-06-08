@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tubecorporate.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222222839id_/https%3A//tubecorporate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubecorporate.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608043506id_/https%3A//tubecorporate.com/privacy-policy) for the most accurate reproduction.*
 
-# Tube Corporate
+# Tube Corporate - Ad Network with Premium Websites - Privacy Policy
 
 In compliance with current regulations on the protection of personal data you are informed of the following aspects.
 
