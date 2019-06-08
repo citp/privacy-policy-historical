@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the osn.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215101211id_/http%3A//www.osn.com/en-sa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osn.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609004700id_/http%3A//www.osn.com/en-om/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Saudi Arabia - OSN
+# Privacy Policy | Oman - OSN
 
 This privacy policy (the “Policy”) sets out how Gulf DTH FZ LLC and its affiliates (collectively “we”, “our” and “us”) collect and process your information and personal data (your “User Data”).  
 Please read this Policy carefully.  By visiting our website www.osn.com (the “Site”), using and registering for our platforms (including, but not limited to, OSN Play, GO Online TV, OSN Privileges and My OSN) or downloading and registering for our applications (including, but not limited to, OSN Play, GO Online TV and OSN)(collectively, our “Services”), you are accepting and consenting to us collecting and processing your User Data in accordance with the terms of this Policy.  If you do not agree with this Policy, you must not use our Services.  
