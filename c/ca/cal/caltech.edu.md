@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caltech.edu privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230154554id_/http%3A//www.caltech.edu/content/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caltech.edu privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608222023id_/https%3A//www.caltech.edu/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | Caltech
+# Privacy Notice | www.caltech.edu
 
 _Effective Date: May 25, 2018_
 
@@ -40,7 +40,7 @@ Web server logs collect and store certain system-related information automatical
 
 
 
-This information is used to help us make our sites more useful for you. With this data, we learn about the number of visitors to our sites and the types of technology our visitors use. The information collected may be used in aggregate to inform decisions about website content and structure. It may also be used for troubleshooting purposes, or to detect and investigate abuse. With the exception of abuse investigations, no attempts are made to identify individual users or their usage habits.
+This information is used to help us make our sites more useful for you. With this data, we learn about the number of visitors to our sites and the types of technology our visitors use. The information collected may be used in aggregate to inform decisions about website content and structure. It may also be used for troubleshooting purposes, or to detect and investigate abuse. With the exception of abuse investigations, no attempts are made to identify individual users or their usage habits.
 
 ### Information Collected for Tracking and Customization (Cookies)
 
@@ -48,7 +48,7 @@ Caltech websites use cookies to better serve visitors. A cookie is a piece of da
 
 ### Google Analytics
 
-Caltech websites use Google Analytics, which employs persistent cookies to help analyze how visitors use the sites. Google will not associate your IP address with any other data held by Google. Google Analytics uses only first-party cookies for data analysis. This means that the cookies are associated with Caltech's domain. Google will use this information for statistical analysis reporting related to visitor browsing behavior at these sites, and for compiling reports on website activity for website operators. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. You may refuse the use of cookies by selecting the appropriate settings on your browser; however please note that if you do this you may not be able to use the full functionality of the website. More information about Google Analytics and its use of cookies can be found [here](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies "Google Analytics").
+Caltech websites use Google Analytics, which employs persistent cookies to help analyze how visitors use the sites. Google will not associate your IP address with any other data held by Google. Google Analytics uses only first-party cookies for data analysis. This means that the cookies are associated with Caltech's domain. Google will use this information for statistical analysis reporting related to visitor browsing behavior at these sites, and for compiling reports on website activity for website operators. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. You may refuse the use of cookies by selecting the appropriate settings on your browser; however please note that if you do this you may not be able to use the full functionality of the website. More information about Google Analytics and its use of cookies can be found [here](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies).
 
 ### Children
 
@@ -82,8 +82,8 @@ Reference on a Caltech site to any specific commercial products, process, or ser
 
 ### Users Located in the European Economic Area
 
-If you reside within the European Union or the European Economic Area (consisting of the European Union, Iceland, Lichtenstein, and Norway), please [click here](https://web.archive.org/gdpr-notice) for additional information regarding rights and protections that apply to you under the General Data Protection Regulation.
+If you reside within the European Union or the European Economic Area (consisting of the European Union, Iceland, Lichtenstein, and Norway), please [click here](https://web.archive.org/general-data-protection-regulation-notice) for additional information regarding rights and protections that apply to you under the General Data Protection Regulation.
 
 ### Contact Information
 
-If you have questions or concerns about this policy, please contact us via email at [www@caltech.edu](mailto:www@caltech.edu?subject=Caltech%20Privacy%20Statement).
+If you have questions or concerns about this policy, please contact us via email at www@caltech.edu.
