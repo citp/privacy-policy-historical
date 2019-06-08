@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blabbermouth.net privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017235314id_/http%3A//www.blabbermouth.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blabbermouth.net privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608095202id_/http%3A//www.blabbermouth.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blabbermouth.net
 
