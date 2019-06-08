@@ -1,46 +1,46 @@
-> *The following text is extracted and transformed from the tabstabs.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123060444id_/http%3A//tabstabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabstabs.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608113751id_/https%3A//tabstabs.com/privacy) for the most accurate reproduction.*
 
 # Tabstabs.com // Privacy Policy
 
-[](https://web.archive.org/)
+[ ](https://web.archive.org/)
 
 and save the song to your songbook
 
-[](https://web.archive.org/)
+[ ](https://web.archive.org/)
 
-  * [a](https://web.archive.org/en_a)
-  * [b](https://web.archive.org/en_b)
-  * [c](https://web.archive.org/en_c)
-  * [d](https://web.archive.org/en_d)
-  * [e](https://web.archive.org/en_e)
-  * [f](https://web.archive.org/en_f)
-  * [g](https://web.archive.org/en_g)
-  * [h](https://web.archive.org/en_h)
-  * [i](https://web.archive.org/en_i)
-  * [j](https://web.archive.org/en_j)
-  * [k](https://web.archive.org/en_k)
-  * [l](https://web.archive.org/en_l)
-  * [m](https://web.archive.org/en_m)
-  * [n](https://web.archive.org/en_n)
-  * [o](https://web.archive.org/en_o)
-  * [p](https://web.archive.org/en_p)
-  * [q](https://web.archive.org/en_q)
-  * [r](https://web.archive.org/en_r)
-  * [s](https://web.archive.org/en_s)
-  * [t](https://web.archive.org/en_t)
-  * [u](https://web.archive.org/en_u)
-  * [v](https://web.archive.org/en_v)
-  * [w](https://web.archive.org/en_w)
-  * [x](https://web.archive.org/en_x)
-  * [y](https://web.archive.org/en_y)
-  * [z](https://web.archive.org/en_z)
-  * [0-9](https://web.archive.org/en_09)
+  * [a](https://web.archive.org/a)
+  * [b](https://web.archive.org/b)
+  * [c](https://web.archive.org/c)
+  * [d](https://web.archive.org/d)
+  * [e](https://web.archive.org/e)
+  * [f](https://web.archive.org/f)
+  * [g](https://web.archive.org/g)
+  * [h](https://web.archive.org/h)
+  * [i](https://web.archive.org/i)
+  * [j](https://web.archive.org/j)
+  * [k](https://web.archive.org/k)
+  * [l](https://web.archive.org/l)
+  * [m](https://web.archive.org/m)
+  * [n](https://web.archive.org/n)
+  * [o](https://web.archive.org/o)
+  * [p](https://web.archive.org/p)
+  * [q](https://web.archive.org/q)
+  * [r](https://web.archive.org/r)
+  * [s](https://web.archive.org/s)
+  * [t](https://web.archive.org/t)
+  * [u](https://web.archive.org/u)
+  * [v](https://web.archive.org/v)
+  * [w](https://web.archive.org/w)
+  * [x](https://web.archive.org/x)
+  * [y](https://web.archive.org/y)
+  * [z](https://web.archive.org/z)
+  * [0-9](https://web.archive.org/09)
 
 
 
 #### Personal Information
 
-The only required information is your name and e-mail adress. We do not share any personal information with any third parties nor do we use any personal information for any purposes, including selling. You are under no obligation to give your real name when submitting a tab or when becoming a member.
+The only required information is your e-mail adress. We do not share any personal information with any third parties nor do we use any personal information for any purposes, including selling. You are under no obligation to give your real name when submitting a tab or when becoming a member.
 
 #### Cookies
 
@@ -69,7 +69,3 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 #### Acceptance of This Privacy Policy
 
 By using this site, you consent to the collection and use of your Personal Information by Tabstabs.com in accordance with this Privacy Policy.
-
-#### Contacting us
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us [here.](https://web.archive.org/contacts)
