@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wofs.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801044021id_/https%3A//www.wofs.com/index.php%3Foption%3Dcom_jumi%26fileid%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wofs.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608180815id_/https%3A//www.wofs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy - WOFS.com
 
 This privacy policy sets out how WOFS.com uses and protects any information that you give WOFS.com when you use this website.
 
@@ -36,9 +36,11 @@ We are committed to ensuring that your information is secure. In order to preven
 
 **How we use cookies**
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+[ ](https://www.fsmegamall.com/index.php?l=product_list&c=244)
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
@@ -52,4 +54,4 @@ Our website may contain links to other websites of interest. However, once you h
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please [email us](https://www.wofs.com/contact-us/) as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
