@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214210831id_/https%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziprealty.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608025458id_/https%3A//www.ziprealty.com/footer_pages/privacy.jsp) for the most accurate reproduction.*
 
 # Homes for Sale, MLS Listings Search, Real Estate Agents -- ZipRealty
 
@@ -132,7 +132,7 @@ We will retain your Personal Information only for the period necessary to fulfil
 
 We may allow others to provide audience measurement and analytics services for us, to serve advertisements on our behalf, and to track and report on the performance of those advertisements. These entities may use cookies, web beacons, SDKs, and other technologies to identify your device when you use the Service, as well as when you visit other online sites and services, and such services will be covered by the privacy policy of the respective third parties. 
 
-We use Google Analytics to collect information about use of the Service. More information on Google Analytics – including how you can control the information sent to Google - can be found here: [www.google.com/policies/privacy/partners/.](https://web.archive.org/web/20181214210831id_/https%3A//www.ziprealty.com/footer_pages/www.google.com/policies/privacy/partners/)
+We use Google Analytics to collect information about use of the Service. More information on Google Analytics – including how you can control the information sent to Google - can be found here: [www.google.com/policies/privacy/partners/.](https://web.archive.org/web/20190608025458id_/https%3A//www.ziprealty.com/footer_pages/www.google.com/policies/privacy/partners/)
 
 You may also choose to control some of the advertisements you receive on the Service by visiting [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
 
