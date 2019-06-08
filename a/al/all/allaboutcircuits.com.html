@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allaboutcircuits.com privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231032838id_/https%3A//www.allaboutcircuits.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allaboutcircuits.com privacy policy that was archived on 2019-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190608083647id_/https%3A//www.allaboutcircuits.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 <meta charset="utf-8">
@@ -65,10 +65,11 @@
     node.parentNode.insertBefore(gads, node);
   })();
 </script>
+
 <script type="text/javascript">
   googletag.cmd.push(function() {
-	var mappingSidebar = googletag.sizeMapping().
-    	addSize([0,0], [300, 250]).
+  var mappingSidebar = googletag.sizeMapping().
+      addSize([0,0], [300, 250]).
         addSize([800, 600], [[300, 600], [300, 250]]).
         build();  
         
@@ -82,8 +83,8 @@
 </script>
 <script type="text/javascript">
   googletag.cmd.push(function() {
-	var mappingLeaderboard = googletag.sizeMapping().
-    	addSize([0,0], [[300, 50], [320, 50]]).
+  var mappingLeaderboard = googletag.sizeMapping().
+      addSize([0,0], [[300, 50], [320, 50]]).
         addSize([800, 600], [[728,90], [800, 250]]).
         build();  
   
@@ -94,16 +95,16 @@
 </script>
 <script type="text/javascript">
   googletag.cmd.push(function() {
-	var mappingWelcome = googletag.sizeMapping().
-    	addSize([0,0], [300, 250]).
+  var mappingWelcome = googletag.sizeMapping().
+      addSize([0,0], [300, 250]).
         addSize([640, 0], [640, 480]).
         build();
   
     googletag.defineSlot('/62616433/main_welcome', [[640, 480], [300, 250]], 'div-gpt-ad-1430160889889-0').defineSizeMapping(mappingWelcome).addService(googletag.pubads());
-  	googletag.pubads().addEventListener('slotRenderEnded', function(event) {
-        if(event.isEmpty === false && searchFor(event.slot, "/62616433/main_welcome") === true) {$('#div-gpt-ad-1430160889889-0').trigger('adready');} 
+    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+        if(event.isEmpty === false && event.slot.getSlotId().getAdUnitPath() === "/62616433/main_welcome") {$('#div-gpt-ad-1430160889889-0').trigger('adready');} 
     });
-	googletag.pubads().enableSingleRequest();
+  googletag.pubads().enableSingleRequest();
     googletag.pubads().collapseEmptyDivs();  
     googletag.enableServices();
   });
@@ -111,16 +112,16 @@
 <script type="text/javascript">
   googletag.cmd.push(function() {
     googletag.defineOutOfPageSlot('/62616433/main_wallpaper', 'div-gpt-ad-1430235245447-0').addService(googletag.pubads());
-  	googletag.pubads().addEventListener('slotRenderEnded', function(event) {
-        if(event.isEmpty === false && searchFor(event.slot, "/62616433/main_wallpaper") === true) {
-	        if ($('#wallpaperad').length) {
-	            var wa = $('#wallpaperad');
-	            var mh = $("main").height();
-	            wa.height(mh + 70);
-	        }
+    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+        if(event.isEmpty === false && event.slot.getSlotId().getAdUnitPath() === "/62616433/main_wallpaper") {
+          if ($('#wallpaperad').length) {
+              var wa = $('#wallpaperad');
+              var mh = $("main").height();
+              wa.height(mh + 70);
+          }
             if($('.search-banner-form').length) {
                 var temp = $('#wallpaperad');
-    			if(temp) {temp.insertAfter($('.search-banner-form'));}
+          if(temp) {temp.insertAfter($('.search-banner-form'));}
             }
         } 
     });
@@ -202,6 +203,8 @@
             ga('require', 'displayfeatures');
             ga('set',{'dimension1':''});
             ga('set',{'contentGroup1':''});
+            
+                        
             ga('send', 'pageview');
 
             !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -437,7 +440,7 @@ Tools <i class="fa fa-chevron-down"></i>
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">LOG IN / JOIN</a>
 <ul class="dropdown-menu" role="menu">
 <li><a href="/login/" title="Login to your existing account">Log In</a></li>
-<li><a href="//forum.allaboutcircuits.com/register" title="Create an account">Join AAC</a></li>
+<li><a href="//forum.allaboutcircuits.com/register" title="Create an account">Create Account</a></li>
 <li><a href="/login/" title="Sign in with your Facebook, Linkedin or Google account">Sign in with <i class="fa fa-facebook"></i> <i class="fa fa-linkedin"></i><i class="fa fa-google-plus"></i></a></li>
 <li><a href="//forum.allaboutcircuits.com/register">Member Benefits</a></li>
 </ul>
@@ -448,7 +451,7 @@ Tools <i class="fa fa-chevron-down"></i>
 <div id="usernavbar" class="navbar-collapse collapse">
 <ul id="primary-menu" class="nav navbar-nav visible-xs navbar-right pull-right">
 <li><a href="/login/">Log In</a></li>
-<li><a href="//forum.allaboutcircuits.com/register">Join AAC</a></li>
+<li><a href="//forum.allaboutcircuits.com/register">Create Account</a></li>
 <li><a href="/login/">Sign in with &nbsp;<i class="fa fa-facebook"></i>&nbsp;<i class="fa fa-linkedin"></i>&nbsp;<i class="fa fa-google-plus"></i></a></li>
 <li><a href="//forum.allaboutcircuits.com/register">Member Benefits</a></li>
 </ul>
@@ -496,7 +499,7 @@ Privacy
 <h3>Web browser cookies</h3>
 <p>Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. We use Facebook Pixel, Linkedin Pixel, and Google Analytics to gather and re-target to our audience.</p>
 <h3>How we use collected information</h3>
- <p>EETech Media may collect and use Users personal information for the following purposes:</p>
+<p>EETech Media may collect and use Users personal information for the following purposes:</p>
 <ul>
 <li>
 <i>To run and operate our Site</i><br>
@@ -563,6 +566,8 @@ We respect your privacy rights and provide you with reasonable access to the per
 <p>If a user has opted-in, they will receive emails that may include company news, updates, related product or service information, advertisements, etc. The User gives explicit consent to receive the Site’s newsletters by filling out the Site’s registration form, which includes registration for AllAboutCircuits.com, its forum, and newsletters, as clearly stated on the registration page. If at any time the User would like to unsubscribe from receiving future emails, we include the unsubscribe link at the bottom of each email. We may share your contact information with our advertisers if you have shown an interest in their products/services (by clicking on their advertisement in our newsletters and consenting to receive their updates).</p>
 <h3>Giveaways, Design Contests, Webinars &amp; Industry White Papers</h3>
 <p>By registering and checking the opt-in checkbox for a Giveaway, Design Contest, Webinar or an Industry white paper, the User acknowledges that their contact information will be shared with the sponsoring company, as stated on the respective registration page.</p>
+<h3>Registration Page Info Checkboxes</h3>
+<p>On our registration page, we partner with companies and provide an option to learn more about the company ("Example: Check the box to the left if you would like information about Company X"). If you check this checkbox, we will share your contact information with the sponsoring company.</p>
 <h3>Surveys</h3>
 <p>Occasionally, we conduct user surveys to better understand the needs of our audience in order to improve our features. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any survey information about specific individuals with any third party without the user’s consent. By filling out surveys on our media properties, or social networks (e.g., Facebook), the user acknowledges that their contact information may be shared with companies that they mark having an interest in and consent receiving communication from.</p>
 <h3>Third party websites</h3>
@@ -578,7 +583,7 @@ We respect your privacy rights and provide you with reasonable access to the per
 <p>If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact our Data Protection Officer. They can be reached by email at privacy@eetech.com or at the following address:<br><br>
 EETech Media, LLC<br>
 ATTN: Data Protection Officer<br>
-850 W Main St.,<br>
+404 S. 8th St., Ste. 203<br>
 Boise, ID 83702<br>
 </p>
 <p>This document was last updated on May 24, 2018</p>
@@ -711,7 +716,7 @@ Boise, ID 83702<br>
 <div class="container">
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-12">
-<p>© <a href="//eetech.com/" target="_blank">EETech Media, LLC</a>. All rights reserved</p>
+<p>© EETech Media, LLC. All rights reserved</p>
 </div>
 <div class="col-md-6 col-sm-6 hidden-xs">
 <a href="/privacy-policy/">Privacy Policy</a> · <a href="//forum.allaboutcircuits.com/help/terms">Terms of Service</a> · <a href="/user-agreement/">User Agreement</a>
