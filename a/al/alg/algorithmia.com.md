@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the algorithmia.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123225616id_/https%3A//algorithmia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algorithmia.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608231508id_/https%3A//algorithmia.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Algorithmia
-
-Privacy Policy
-
-**LAST UPDATED** 7/26/2018
-
-[View All Versions](https://web.archive.org/privacy/versions)
-
-### Introduction
 
 Algorithmia respects your privacy and is committed to protecting your personal data. This Privacy Policy will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
@@ -31,7 +23,7 @@ This Privacy Policy does **not** apply to information collected by:
 
 #### Children Under the Age of 13
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at support@algorithmia.com.
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [support@algorithmia.com](mailto:support@algorithmia.com).
 
 ### Collection and Use of Information
 
@@ -121,7 +113,7 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 
 #### Promotional Communications
 
-You may opt out of receiving promotional communications from Algorithmia by following the instructions in those communications or by visiting http://www.algorithmia.com/optout. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+You may opt out of receiving promotional communications from Algorithmia by following the instructions in those communications or by visiting [https://www.algorithmia.com/optout](https://web.archive.org/optout). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
 
 #### Access, Erasure and Correction
 
