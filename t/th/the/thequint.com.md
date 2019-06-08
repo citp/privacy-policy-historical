@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thequint.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230104254id_/https%3A//www.thequint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thequint.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608091026id_/https%3A//www.thequint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policies
 
@@ -84,14 +84,14 @@ We use Information held about you for our legitimate business interests for the 
 
 In any case, if you would prefer that we do not use your Information to market or promote our products and Services to you, please either (i) tick the relevant box on the form through which we collect your Information (for example, the registration form); (ii) unsubscribe from our electronic communications using the method indicated in the relevant communication; or (iii) contact us at the contact details set out below:
 
-Tushar Banerjee (Head of Product)  
+Agastee Khante (Head of Product)  
 Quintillion Media Pvt Ltd  
 Carnoustie Building  
 Plot 1,Sector 16A  
 Noida, Uttar Pradesh  
 Pin: 201301
 
-Email: tushar.banerjee@thequint.com
+Email: agastee.khante@thequint.com
 
 ## 3\. Sensitive Personal Information
 
@@ -226,7 +226,7 @@ The Company may alter this Privacy Policy to incorporate necessary changes in te
 
 ## 11\. QUESTIONS / GRIEVANCE REDRESSAL
 
-All questions, comments and requests regarding this Privacy Policy should be addressed to Mr Tushar Banerjee (Head of Product) / Mr Anup Dutta (CFO)or write to Us at contactus@thequint.com
+All questions, comments and requests regarding this Privacy Policy should be addressed to Mr Agastee Khante (Head of Product) / Mr Anup Dutta (CFO)or write to Us at contactus@thequint.com
 
  **Redressal Mechanism** : Any complaints. or concerns with regards to the processing of information provided by you or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing by email to grievance@thequint.com or by post / courier to
 
