@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fborfw.com privacy policy that was archived on 2018-10-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181013192054id_/https%3A//www.fborfw.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fborfw.com privacy policy that was archived on 2019-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190608180717id_/https%3A//www.fborfw.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 <meta charset="ISO-8859-1">
@@ -18,10 +18,10 @@
         link: 'http://fborfw.com/privacy'
     };
 </script>
-<script src="/js/cookieconsent-update.js"></script>
+<script src="/js/cookieconsent-update.js" async=""></script>
 
 <!--added to site May 25th for testing Amazon ad code-->
-<script type="text/javascript" src="https://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+<script type="text/javascript" src="https://c.amazon-adsystem.com/aax2/amzn_ads.js" async=""></script>
 <script type="text/javascript">
 // Fetches Amazon ads if available and stores them for future use
 try {
@@ -101,14 +101,21 @@ amznads.getAds('3170');
   	<meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Skeleton Framework ===== FONT -->
-  	<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+<script>
+  WebFont.load({
+    google: {
+      families: ['Raleway']
+    }
+  });
+</script>
 	
-
   <!-- Skeleton Framework =====  CSS -->
 	<link rel="stylesheet" href="/css/normalize.css">
 	<link rel="stylesheet" href="/css/skeleton.css">
 	<link rel="stylesheet" href="/css/custom.css">
-  
+	
+	  
 <!-- =========================== Facebook Like Box =========================== --> 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><link rel="stylesheet" type="text/css" href="//web.archive.org/web/20170425145528/http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/light-top.css"></head><body><div class="cc_banner-wrapper "><div class="cc_banner cc_container cc_container--open"><a href="#null" data-cc-event="click:dismiss" target="_blank" class="cc_btn cc_btn_accept_all">Got it!</a><p class="cc_message">This website uses cookies to ensure you get the best experience on our website.  <a data-cc-if="options.link" class="cc_more_info" href="http://fborfw.com/privacy">More info</a></p><a class="cc_logo" target="_blank" href="https://web.archive.org/web/20170425145528/http://silktide.com/cookieconsent">Cookie Consent plugin for the EU cookie law</a></div></div><div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -171,16 +178,18 @@ amznads.getAds('3170');
 <div class="container">
 
 <div class="fullwidth adbar">
-<div id="headerad">
-  <script type="text/javascript">
-    googletag.cmd.push(function() {googletag.display('headerad');});
-  </script>
-</div>
+	<div id="ad-1">
+		<div id="headerad">
+  	<script type="text/javascript">
+   	 googletag.cmd.push(function() {googletag.display('headerad');});
+ 	 </script>
+		</div>
+	</div><!--ad-1-->
 </div>
   
  <div class="row">
     <div class="four columns"><a href="/"><img src="/images/logo.png" alt="For Better or For Worse Logo" border="0" class="fblogo"></a></div>
-    <div class="eight columns"><a href="/fun/autumncolouring/"><img src="/images/header_banner_autumncoloring.png" alt="Autumn Colouring Pages" border="0" class="headerbanner"></a></div>
+    <div class="eight columns"><a href="/fun/quiz"><img src="/images/header_banner_trivia.png" alt="Trivia Quiz" border="0" class="headerbanner"></a></div>
 </div>
   
 <!-- <div class="fullwidth menu"> 
@@ -190,17 +199,16 @@ Primary Page Layout -->
 <nav>
 	<ul>
 		<li>
-			<a href="/strip_fix">Strip Fix</a>
+			<a href="/strip_fix" class="topline">Strip Fix</a>
 			<ul>
 				<li><a href="/strip_fix">Today's Strip</a></li>
-				<li><a href="/strip_fix/archives_monthly">Recent Comics</a></li>
-				<li><a href="/stripcatalog">30-Year Archive</a></li>
+				<li><a href="/strip_fix/archives_monthly">Comics Archive</a></li>
 				<li><a href="/news">News</a></li>
 			</ul>
 		</li>
 		
 		<li>
-			<a href="/char_pgs/">Characters</a>
+			<a href="/char_pgs/" class="topline">Characters</a>
 			<ul>
 			<li><a href="/about">1979 to Now</a></li>
 			<li><a href="/char_pgs/earlyyears">Early Years</a>
@@ -215,7 +223,6 @@ Primary Page Layout -->
 						<li><a href="/char_pgs/lateryears">The Pattersons</a></li>
 						<li><a href="/char_pgs/lateryears/friends">Friends</a></li>
 						<li><a href="/features/who">Who's Who II</a></li>
-						<li><a href="/char_pgs/lateryears/minorcharacters">Minor Characters</a></li>
 						<li><a href="/char_pgs/lateryears/letters">Letters</a></li>
 						<li><a href="/features/lawrence">Lawrence's Story</a></li>
 						<li><a href="/features/shannon">Shannon Lake</a></li>
@@ -225,33 +232,37 @@ Primary Page Layout -->
 			</ul>
 		</li>
 		<li>
-			<a href="/fun/">Fun &amp; Games</a>
+			<a href="/fun/" class="topline">Fun &amp; Games</a>
 			
 			
-			<ul>
-			<li><a href="#">For Fall:</a>
-						<ul>
-						<li><a href="/fun/autumn">Family Fall Fun</a></li>
-						<li><a href="/fun/autumncolouring">Colouring Pages</a></li>
-						</ul>
-				</li>	
-					<li><a href="#">Halloween:</a>
-						<ul>
-						<li><a href="/fun/tricky">Tricky Treat</a></li>
-						<li><a href="/fun/treats">Halloween Treats</a></li>
-						<li><a href="/fun/halloweencolouring">Colouring Pages</a></li>
-						<li><a href="/fun/monstermatch">Monster Match</a></li>
-						<li><a href="/fun/pumpkins">Pumpkin Stencils</a></li>
-						</ul>
-				</li>	
-					<!--
-						<li><a href="#">For Spring:</a>
+			<ul>	
+				<li><a href="#">For Spring:</a>
 						<ul>
 						<li><a href="/fun/spring">Spring Thing</a></li>
 						<li><a href="/fun/springcolouring">Spring Colouring</a></li>
 						</ul>
 						</li>	
-				
+				<!--<li><a href="#">For Easter:</a>
+						<ul>
+						<li><a href="/fun/eastercolouring">Colouring Pages</a></li>
+						<li><a href="/fun/easter_hunt">Easter Egg Hunt</a></li>
+						<li><a href="/fun/eastereggs">Easter Eggs</a></li>
+						<li><a href="/fun/eggscape">Egg-Scape</a></li>
+						<li><a href="/fun/scrambled">Scrambled Eggs</a></li>
+						</ul>
+				</li>	
+			<li><a href="#">St. Pat's Day:</a>
+						<ul>
+						<li><a href="/fun/green">Good Green Fun</a></li>
+						<li><a href="/fun/stpats">Lucky Leprechaun</a></li>
+						</ul>
+				</li>	
+			<li><a href="#">For Winter:</a>
+						<ul>
+						<li><a href="/fun/winter">Winter Wonderland</a></li>
+						<li><a href="/fun/wintercolouring">Winter Colouring</a></li>
+						</ul>
+				</li>	
 				<li><a href="#">For Summer:</a>
 						<ul>
 						<li><a href="/fun/summer">Uncover Summer Fun</a></li>
@@ -263,15 +274,6 @@ Primary Page Layout -->
 						<li><a href="/fun/fathersday">Father's Day Fun</a></li>
 						</ul>
 				</li>
-				<li><a href="#">For Easter:</a>
-						<ul>
-						<li><a href="/fun/easter_hunt">Easter Egg Hunt</a></li>
-						<li><a href="/fun/eastereggs">Easter Eggs</a></li>
-						<li><a href="/fun/eggscape">Egg-Scape</a></li>
-						<li><a href="/fun/scrambled">Scrambled Eggs</a></li>
-						</ul>
-				</li>	
-				
 				<li><a href="#">Valentine's:</a>
 						<ul>
 						<li><a href="/fun/valentine">Love Struck Contest</a></li>
@@ -289,6 +291,15 @@ Primary Page Layout -->
 						<li><a href="/fun/mothersday">Mother's Day Fun</a></li>
 						</ul>
 				</li>
+				<li><a href="#">Halloween:</a>
+						<ul>
+						<li><a href="/fun/tricky">Tricky Treat</a></li>
+						<li><a href="/fun/treats">Halloween Treats</a></li>
+						<li><a href="/fun/halloweencolouring">Colouring Pages</a></li>
+						<li><a href="/fun/monstermatch">Monster Match</a></li>
+						<li><a href="/fun/pumpkins">Pumpkin Stencils</a></li>
+						</ul>
+				</li>	
 				<li><a href="#">Christmas:</a>
 						<ul>
 						<li><a href="/fun/christmas">Christmas Matching</a></li>
@@ -296,7 +307,6 @@ Primary Page Layout -->
 						<li><a href="/fun/bakeoff">Holiday Bake-off</a></li>
 						</ul>
 				</li>	
-		
 				<li><a href="#">For Winter:</a>
 						<ul>
 						<li><a href="/fun/winter">Winter Wonderland</a></li>
@@ -304,6 +314,7 @@ Primary Page Layout -->
 						</ul>
 				</li>	
 				-->
+				
 				<li><a href="#">Match Games</a>
 				<ul>
 						<li><a href="/fun/coffeebreak">Coffee Break</a></li>
@@ -348,28 +359,30 @@ Primary Page Layout -->
 				<li><a href="/fun/podcasts">Podcasts</a></li>
 				<li><a href="/fun/rejected">Rejected Strips</a></li>
 				<li><a href="/fun/music">Toon Tunes</a></li>
+				<li><a href="/fun/quiz">Trivia Quiz</a></li>
 					</ul>
 				</li>
 			</ul>
 		</li>
 		
 		<li>
-			<a href="/features">Explore</a>
+			<a href="/features" class="topline">Explore</a>
 			<ul>
 				<li><a href="/behind_the_scenes/lynn">About Lynn</a></li>
-				<li><a href="/features/animatedshow/">Animated Series</a></li>
 				<li><a href="/features/canadianisms">Canadianisms</a></li>
+				<li><a href="/behind_the_scenes/faq">FAQs</a></li>
 				<li><a href="/features/ffoundation">The Farley Fdn</a></li>
 				<li><a href="/features/house">House Tour</a></li>
 				<li><a href="/behind_the_scenes/bibliography">Lynn's Books</a></li>
 				<li><a href="/features/mtigwaki">Mtigwaki</a></li>
 				<li><a href="/features/nedtanner">Ned Tanner</a></li>
 				<li><a href="/news">News</a></li>
+				<li><a href="/behind_the_scenes/newsletter">Newsletter</a></li>
 				<li><a href="/features/research">R and D</a></li>
 				<li><a href="/features/makingof">The Making Of</a></li>
 			</ul>
 	</li>
-	<li><a href="/shop/">Shop</a></li>
+	<li><a href="/shop/" class="topline">Shop</a></li>
 </ul></nav>
 </div><!--close nav-container-->
 <!--</div>close fullwidth menu-->
@@ -481,11 +494,15 @@ V7M 3L7<br>
 
 <div class="two columns">
 
+<div id="ad-2">
 <div id="sidebarad">
+
   <script type="text/javascript">
     googletag.cmd.push(function() {googletag.display('sidebarad');});
   </script>
-</div>
+</div> 
+</div><!-- ad-2-->
+
 
 
 
@@ -523,8 +540,8 @@ document.getElementById('ShopifyEmbedScript') || document.write('<script type="t
 	<a href="/privacy" title="Privacy Protection Policy">Privacy</a> · <a href="/copyright.php" title="Copyright Policies">Copyright</a><br>
 	Website by <a href="http://www.aloeroot.com" title="AloeRoot Web Services">AloeRoot</a><br>
 	<a href="http://www.farleyfoundation.org">The Farley Foundation</a><br>
-	© 2018 Entercom Canada Inc. <br> 
-	© 2018 Lynn Johnston Productions Inc.
+	© 2019 Entercom Canada Inc. <br> 
+	© 2019 Lynn Johnston Productions Inc.
 	</div>
 	
     <div class="one-third column footer">
@@ -544,5 +561,6 @@ document.getElementById('ShopifyEmbedScript') || document.write('<script type="t
 <!-- End Document -->
 <!--close the responsive nav menu-->
 <script src="/js/dropdown/_scripts/ResponsiveNav-min.js"></script>
+
 
 </div></body></html>
