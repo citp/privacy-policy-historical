@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbsg.net privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221084419id_/https%3A//lbsg.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbsg.net privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608172923id_/https%3A//lbsg.net/privacy-policy) for the most accurate reproduction.*
 
 # Lifeboat Privacy Policy - Lifeboat Network
 
@@ -19,7 +19,7 @@ Hydreon Corporation, owner of the Lifeboat Network, takes your privacy very seri
 
 ##### **SECTION 1 – Introduction**
 
-Thank you for choosing to play and use the Lifeboat Network games, website, and forums. The purpose of this privacy policy is to explain the type of information we collect or receive and how we use it. When you use our games, access our website and forums, or make a purchase, you agree to our use of your data as laid out in this privacy policy.
+Thank you for choosing to play and use the Lifeboat Network games, website, and other services. The purpose of this privacy policy is to explain the type of information we collect or receive and how we use it. When you use our games, access our website and other services, or make a purchase, you agree to our use of your data as laid out in this privacy policy.
 
 ##### **SECTION 2 – What personal data we collect or receive and why we collect it**
 
@@ -47,15 +47,9 @@ Only with your permission may we send you emails about our website, new products
 
 Support Form: When you enter your information into the [Lifeboat Support Form](https://lbsg.net/support/), we ask for your Xbox Gamertag and email address. We only use this information to respond, if necessary, with an answer, or ask additional questions, to your query. We do not keep the original nor any follow-up emails. The information provided is for customer support only, we do not use it for marketing purposes.
 
-_FORUM_
-
-When you create an account on the [Lifeboat Forums](https://forums.lbsg.net/), we ask for your email address, username, and a password for you to use to log in. If registering using your Google or Twitter account, we receive your name, email address, and profile picture. We use this information to create an account for you so you may participate in forum discussions, create a new post, respond to other posts, or communicate via direct message with other users.
-
-If you do not create an account, you are free to browse the forum topics, but not respond. For this, we only collect your IP address for information about your browser and operating system.
-
 ##### **SECTION 3 – Consent**
 
-By browsing our website, playing our games, making purchases, creating an account, participation in our forums, or contacting us for support, you agree to this Privacy Policy.
+By browsing our website, playing our games, making purchases, creating an account, participating in our discord server, or contacting us for support, you agree to this Privacy Policy.
 
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for shipment, or any other way you provide us this information, we imply that you consent to our collecting it and using it for that specific purpose only.
 
@@ -95,7 +89,7 @@ When you click on links on our website, they may direct you away from our site. 
 
 ##### **SECTION 9 – Children’s Privacy**
 
-We do not direct our websites, games, forums, or other applications to children (usually considered to be under the age of 13, depending on the country where you reside). We also do not intentionally collect personal information from children through our websites, games, forums, or other applications. If you are the parent or guardian of a child and you believe that we have inadvertently received personal information about that child, please contact us via privacy@lbsg.net we will delete the information from our records. (We have kids too. We understand that the internet isn’t always the best place for them. If are at all concerned about the safety of their information on Lifeboat, please let us know your questions or concerns.)
+We do not direct our websites, games, services, or other applications to children (usually considered to be under the age of 13, depending on the country where you reside). We also do not intentionally collect personal information from children through our websites, games, services, or other applications. If you are the parent or guardian of a child and you believe that we have inadvertently received personal information about that child, please contact us via privacy@lbsg.net we will delete the information from our records. (We have kids too. We understand that the internet isn’t always the best place for them. If are at all concerned about the safety of their information on Lifeboat, please let us know your questions or concerns.)
 
 ##### **SECTION 10 – Changes to this Privacy Policy**
 
