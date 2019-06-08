@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessinsurance.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009172736id_/https%3A//www.businessinsurance.com/article/99999999/PAGES/150109861) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsurance.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608225338id_/https%3A//www.businessinsurance.com/article/99999999/PAGES/150109861) for the most accurate reproduction.*
 
 # Privacy Policy | Business Insurance
 
@@ -28,4 +28,4 @@ This website is operated in the United States. If you are located in the Europea
 
 If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Business Insurance at info@BusinessInsurance.com or 312-300-4127.
 
-Policy Last Updated: October 2016
+Policy Last Updated: January 2019
