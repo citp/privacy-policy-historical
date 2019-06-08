@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818002501id_/https%3A//media.geico.com/legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608130902id_/https%3A//media.geico.com/legal/privacy_policy.htm) for the most accurate reproduction.*
 
 # GEICO Privacy Policy
 
