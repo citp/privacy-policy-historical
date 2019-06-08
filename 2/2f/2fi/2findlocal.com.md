@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 2findlocal.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907075204id_/https%3A//www.2findlocal.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2findlocal.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608130633id_/https%3A//www.2findlocal.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | 2FINDLOCAL.COM
 
 The privacy of our visitors is important to us. 
 
-At [2findlocal.com](http://www.2findlocal.com/), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit [2findlocal.com](http://www.2findlocal.com/), and how we safeguard your information. We never sell your personal information to third parties. 
+At [2findlocal.com](https://www.2findlocal.com/), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit [2findlocal.com](https://www.2findlocal.com/), and how we safeguard your information. We never sell your personal information to third parties. 
 
 **Log Files** As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
