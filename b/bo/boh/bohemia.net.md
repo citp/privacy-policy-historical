@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bohemia.net privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116030304id_/https%3A//www.bohemia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bohemia.net privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608084150id_/https%3A//www.bohemia.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bohemia Interactive
 
