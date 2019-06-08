@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usefedora.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819233829id_/https%3A//teachable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usefedora.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608021540id_/https%3A//teachable.com/privacy-policy) for the most accurate reproduction.*
 
 # Teachable | Privacy Policy
 
@@ -62,7 +62,7 @@ We will use your PII in accordance with applicable data protection legislation a
 
 Purpose of the processing | Legal basis for the processing  
 ---|---  
-To provide you access to our Services, to administrate your myTeachable account and communicate with you regarding you myTeachable account and use of our Services. | Performance of contract.  
+To provide you access to our Services, to administrate your myTeachable account and communicate with you regarding your myTeachable account and use of our Services. | Performance of contract.  
 To market and advertise our products and Services, including making recommendations about courses and other Services you may be interested in, conducting market research, surveys or competitions. | Balancing of interests where Teachable has pursued the legitimate interest of conducting marketing activities.  
 To prevent, detect, investigate and take measures against criminal activity, fraud and misuse of or damage to our Services or network and to take measures against other threats against Teachable's or a third party's rights. | Legal basis for the processing: Balancing of interests where Teachable has pursued the following legitimate interests: (a) Teachable's interest of investigating suspicion of and taking measures against misuse of or damage to our Services or network; (b) Teachable's and/or third party's interest of investigating and producing evidence regarding criminal activity, fraud and other threats against its interest; and (c) Competent authority's interest of conducting law enforcement activities and collecting evidence for such purposes.  
 To comply with applicable laws, regulations, court orders, government and law enforcement agencies’ requests. | Compliance with a legal obligation to which Teachable is subject.  
@@ -174,4 +174,4 @@ Teachable, Inc.
 
 New York, New York 10010
 
-Email: privacy@teachable.com
+Email: [privacy@teachable.com](mailto:privacy@teachable.com)
