@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thesavory.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212192327id_/https%3A//www.obsev.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesavory.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608033117id_/https%3A//www.obsev.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Obsev
+# Privacy Policy - Obsev
 
 Effective Date: May 28, 2014
 
-This Shandy Media, Inc. Privacy Policy (“Privacy Policy”) describes how we collect and use your information through our websites and services. We may revise this Privacy Policy at any time effective upon its posting. If we make revisions to this Privacy Policy, the effective date will be noted at the beginning of this Privacy Policy. Therefore, you should review it periodically so that you are aware of our most current policies and practices. Your continued use of our websites or services constitutes your acceptance of this Privacy Policy and any updates. This Privacy Policy is incorporated into the [Terms of Service](/terms-service-agreement.html).
+This Shandy Media, Inc. Privacy Policy (“Privacy Policy”) describes how we collect and use your information through our websites and services. We may revise this Privacy Policy at any time effective upon its posting. If we make revisions to this Privacy Policy, the effective date will be noted at the beginning of this Privacy Policy. Therefore, you should review it periodically so that you are aware of our most current policies and practices. Your continued use of our websites or services constitutes your acceptance of this Privacy Policy and any updates. This Privacy Policy is incorporated into the [Terms of Service](https://www.obsev.com/terms-service-agreement).
 
 **1\. Types of Information Collected**
 
