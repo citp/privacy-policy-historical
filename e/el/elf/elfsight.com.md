@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elfsight.com privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421071337id_/http%3A//elfsight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elfsight.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608113158id_/https%3A//elfsight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Elfsight
 
-[ ](https://elfsight.com/)
+[ ](https://elfsight.com/ "Elfsight - Premium Plugins For Websites")
 
 ### 1\. Introduction
 
