@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campbell.edu privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221232817id_/https%3A//www.campbell.edu/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campbell.edu privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608152240id_/https%3A//www.campbell.edu/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Policies and Procedures | Campbell University
 
@@ -87,14 +87,6 @@ Campbell University will occasionally update this Statement of Privacy to reflec
 ### Contact Information
 
 Campbell University welcomes your comments regarding this Statement of Privacy. If you believe that Campbell University has not adhered to this Statement, please contact Campbell University at [privacy@campbell.edu](mailto:privacy@campbell.edu).
-
-<!–
-
-## Contact Information
-
-Campbell University welcomes your comments regarding this Statement of Privacy. If you believe that Campbell University has not adhered to this Statement, please contact Campbell University at [webfeedback@campbell.edu](mailto:webfeedback@campbell.edu).
-
-–>
 
 ## Disclaimer
 
