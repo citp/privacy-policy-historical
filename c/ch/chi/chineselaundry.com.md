@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chineselaundry.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207142414id_/http%3A//www.chineselaundry.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chineselaundry.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609010853id_/http%3A//www.chineselaundry.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Chinese Laundry
 
