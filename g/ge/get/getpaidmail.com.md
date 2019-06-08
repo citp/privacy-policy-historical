@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpaidmail.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211162346id_/http%3A//www.getpaidmail.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidmail.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608221854id_/http%3A//www.getpaidmail.com/pages/privacy.php) for the most accurate reproduction.*
 
 # GetPaidMail.com
 
@@ -8,7 +8,8 @@
 **Children's Guidelines:** We do not collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent. We do not collect personally identifiable offline contact information without prior parental consent. We do not distribute to third parties any personally identifiable information. We do not give the ability to publicly post or otherwise distribute personally identifiable contact information. We do not entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.   
 **Choice/Opt-Out:** getpaidmail.com provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. getpaidmail.com gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can [Contact Us](https://web.archive.org/pages/contact.php) and request your membership to be cancelled at anytime.   
 **Correct/Update:** getpaidmail.com gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with getpaidmail.com, you can [Contact Us](https://web.archive.org/pages/contact.php)   
-| [](http://www.getpaidmail.com/scripts/runner.php?BA=3459&hash=b1cc537ef1eac546588c4c41f82fde3e&url=http%3A%2F%2Fwww.clixsense.com%2F%3F2092639%26gpmbot230807)  
+[](http://www.getpaidmail.com/scripts/runner.php?BA=11480&hash=b579e3e42ed0df108b7de8e01c41ced1&url=https%3A%2F%2Fwww.trustbtcfaucet.com%2F%3Fref%3Dyosro)  
+| [](http://www.getpaidmail.com/scripts/runner.php?BA=11478&hash=1c056b22de4d0cb7424c1f2236042a87&url=http%3A%2F%2Ffreebitco.in%2F%3Fr%3D751453%26tag%3Dgpmbotbnr)  
   
 ---  
 ** 2002-2003 GetPaidMail© All Rights Reserved  
