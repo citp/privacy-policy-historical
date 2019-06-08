@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nrel.gov privacy policy that was archived on 2018-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226005851id_/https%3A//www.nrel.gov/security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nrel.gov privacy policy that was archived on 2019-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190608165950id_/https%3A//www.nrel.gov/security.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
       <meta charset="utf-8">
@@ -26,20 +26,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="apple-touch-icon" sizes="144x144" href="/_resources/images/touch-icon-ipad-retina.png">
 
 <!-- Bootstrap styles -->
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" media="all">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 <!-- GLOBAL styles -->
-<link href="/_resources/css/nrel.complete.min.20181130.css" rel="stylesheet">
+<link href="/_resources/css/nrel.complete.min.20190607.css" rel="stylesheet">
 
 <!-- Fonts -->
-<link href="//fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700%7CRoboto:300,400,700" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i%7CRoboto:300,400,700" rel="stylesheet">
 <link href="/_resources/css/oustyles.css" rel="stylesheet">
 <link href="/_resources/css/print.css" rel="stylesheet" media="print">
 
 <!-- jQuery -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+	    
 <!-- Font Awesome-->
 <script async="" src="//use.fontawesome.com/83c5c68c25.js"></script> 
 <!--<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-9ralMzdK1QYsk4yBY680hmsb4/hJ98xK3w0TIaJ3ll4POWpWUYaA2bRjGGujGT8w" crossorigin="anonymous">-->
@@ -68,36 +67,39 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <!--stopindex-->
+
 <header id="banner" class="hidden-print">
 	<div class="banner-logo">
 		<div class="container">
 			<div class="row">
 
-				<div class="col-sm-6">
-					<a href="/"><div class="logo" title="National Renewable Energy Laboratory"></div></a>
+				<div class="col-md-6">
+					<a href="/index.html"><div class="logo" title="National Renewable Energy Laboratory"></div></a>	
 				</div>
+				
+				<button type="button" class="navbar-toggler searchbar-toggle" data-toggle="collapse" data-target="#searchbar-collapse">
 
-				<button type="button" class="navbar-toggle searchbar-toggle collapsed" data-toggle="collapse" data-target="#searchbar-collapse">
-
-					<i class="fa fa-search"></i><span class="sr-only">Toggle Search</span>
+					<span class="fa fa-search"></span><span class="sr-only">Toggle Search</span>
 				</button>
 
-				<div class="col-sm-6">
-					<div class="navbar-collapse collapse" id="searchbar-collapse">
+				<div class="col-md-6 d-flex justify-content-md-end justify-content-center">
+					<nav class="navbar navbar-expand-md" id="searchbar-container">
+						
+						<div class="collapse navbar-collapse" id="searchbar-collapse">
+							<form method="get" class="searchbar-form form-inline ThunderstoneForm" action="https://search4.nrel.gov/texis/search/" id="ThunderstoneSearchForm">
 
-						<form method="get" class="searchbar-form form-inline ThunderstoneForm" action="https://search4.nrel.gov/texis/search/" id="ThunderstoneSearchForm">
+								<input type="hidden" name="pr" value="metanrel">
+								<div class="form-group">
+									<label for="query" class="sr-only">Search NREL.gov</label>
+									<input type="search" id="query" name="query" maxlength="2047" placeholder="Search NREL.gov" class="form-control" aria-label="Search NREL.gov">
 
-							<input type="hidden" name="pr" value="metanrel">
-							<div class="form-group">
-								<label for="query" class="sr-only">Search NREL.gov</label>
-								<input type="text" id="query" name="query" maxlength="2047" placeholder="Search NREL.gov" class="form-control">
+									<button type="submit" class="btn btn-default">Search</button>
+								</div>
 
-								<button type="submit" class="btn btn-default">Search</button>
-							</div>
+							</form>
 
-						</form>
-
-					</div>
+						</div>
+					</nav>
 				</div>
 
 			</div>
@@ -106,7 +108,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </header>
 <!--startindex-->
-
 <!--<div class="banner-wordo">
 	<div class="container">
 		<div class="row visible-xs">
@@ -120,74 +121,80 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- == TOP NAVIGATION INCLUDE == -->
 <!--stopindex-->
 <div class="navbar-wrapper corporate-topnav" id="topnav">
-	<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+	<div class="navbar navbar-expand navbar-light" role="navigation">
+		
+		<!-- button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#corporateTopnav" aria-controls="corporateTopnav" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button -->
+		
 		<div class="container">
+			<div class="collapse navbar-collapse d-flex justify-content-center justify-content-md-end" id="corporateTopnav">
+				
+			<ul class="navbar-nav">
 
-			<ul class="nav navbar-nav navbar-right">
-
-				<li class="dropdown" data-topnav="about"><a href="#" class="dropdown-toggle" data-toggle="dropdown">About <span class="fa fa-angle-down hidden-xs"></span></a>
+				<li class="dropdown nav-item" data-topnav="about"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">About <span class="fa fa-angle-down d-none d-sm-inline"></span></a>
 
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/about/">About NREL <i class="fa fa-home"></i></a></li>
-						<li><a href="/about/mission-programs.html">Mission &amp; Programs</a></li>
-						<li><a href="/about/leadership.html">Leadership</a></li>
-						<li><a href="/about/community.html">Community</a></li>
-						<li><a href="/about/business.html">Economic Impact</a></li>
-						<li><a href="/about/energy-education.html">Education</a></li>
-						<li><a href="/about/ehs.html">Environment, Health, &amp; Safety</a></li>
-						<li><a href="/about/visiting-nrel.html">Visiting NREL</a></li>
-						<li><a href="/about/contacts.html">Contact Information</a></li>
+						<li class="nav-item"><a class="nav-link" href="/about/">About NREL <i class="fa fa-home"></i></a></li>
+						<li class="nav-item"><a class="nav-link" href="/about/mission-programs.html">Mission &amp; Programs</a></li>
+						<li class="nav-item"><a class="nav-link" href="/about/leadership.html">Leadership</a></li>
+						<li class="nav-item"><a class="nav-link" href="/about/community.html">Community</a></li>
+						<li class="nav-item"><a class="nav-link" href="/about/economic-impact.html">Economic Impact</a></li>
+						<li class="nav-item"><a class="nav-link" href="/about/energy-education.html">Education</a></li>
+						<li class="nav-item"><a class="nav-link" href="/about/ehs.html">Environment, Health, &amp; Safety</a></li>
+						<li class="nav-item"><a class="nav-link" href="/about/visiting-nrel.html">Visiting NREL</a></li>
+						<li class="nav-item"><a class="nav-link" href="/about/contacts.html">Contact Information</a></li>
 					</ul>
 				</li>
 
-				<li class="dropdown" data-topnav="research"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Research <span class="fa fa-angle-down hidden-xs"></span></a>
+				<li class="dropdown nav-item" data-topnav="research"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Research <span class="fa fa-angle-down d-none d-sm-inline"></span></a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/research/index.html">Research <i class="fa fa-home"></i></a></li>
-						<li><a href="/research/areas.html">Research Areas</a></li>
-						<li><a href="/research/publications.html">Publications</a></li>
-						<li><a href="/research/data-tools.html">Data &amp; Tools</a></li>
-						<li><a href="/research/directorates/index.html">Directorates</a></li>
-						<li><a href="/research/fellows.html">Fellows</a></li>
-						<li><a href="/research/collaborations.html">Collaborations</a></li>
-						<li><a href="/research/highlights/index.html">Highlights</a></li>
-						<li><a href="/research/learning.html">Energy Basics</a></li>
+						<li class="nav-item"><a class="nav-link" href="/research/index.html">Research <i class="fa fa-home"></i></a></li>
+						<li class="nav-item"><a class="nav-link" href="/research/areas.html">Research Areas</a></li>
+						<li class="nav-item"><a class="nav-link" href="/research/publications.html">Publications</a></li>
+						<li class="nav-item"><a class="nav-link" href="/research/data-tools.html">Data &amp; Tools</a></li>
+						<li class="nav-item"><a class="nav-link" href="/research/directorates/index.html">Directorates</a></li>
+						<li class="nav-item"><a class="nav-link" href="/research/fellows.html">Fellows</a></li>
+						<li class="nav-item"><a class="nav-link" href="/research/collaborations.html">Collaborations</a></li>
+						<li class="nav-item"><a class="nav-link" href="/research/highlights/index.html">Highlights</a></li>
+						<li class="nav-item"><a class="nav-link" href="/research/learning.html">Energy Basics</a></li>
 					</ul>
 				</li>
 
-				<li class="dropdown" data-topnav="workingwithus"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Work with Us <span class="fa fa-angle-down hidden-xs"></span></a>
+				<li class="dropdown nav-item" data-topnav="workingwithus"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Work with Us <span class="fa fa-angle-down d-none d-sm-inline"></span></a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/workingwithus/">Work with Us <i class="fa fa-home"></i></a></li>
-                        <li><a href="/workingwithus/partnership-opportunities.html">Partnerships</a></li>
-                        <li><a href="/workingwithus/partnering-facilities.html">Facilities</a></li>
-						<li><a href="/workingwithus/technology-transfer.html">Technology Transfer</a></li>
-                        <li><a href="/workingwithus/licensing.html">Licensing</a></li>
-                        <li><a href="/workingwithus/entrepreneurship.html">Entrepreneurship</a></li>
-                        <li><a href="/workingwithus/procurement.html">Procurement</a></li>
-                        <li><a href="/workingwithus/faqs.html">FAQs</a></li>
+						<li class="nav-item"><a class="nav-link" href="/workingwithus/">Work with Us <i class="fa fa-home"></i></a></li>
+                        <li class="nav-item"><a class="nav-link" href="/workingwithus/partnership-opportunities.html">Partnerships</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/workingwithus/partnering-facilities.html">Facilities</a></li>
+						<li class="nav-item"><a class="nav-link" href="/workingwithus/technology-transfer.html">Technology Transfer</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/workingwithus/licensing.html">Licensing</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/workingwithus/entrepreneurship.html">Entrepreneurship</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/workingwithus/procurement.html">Procurement</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/workingwithus/faqs.html">FAQs</a></li>
 					</ul>
 				</li>
 				
-				<li class="dropdown" data-topnav="news"><a href="#" class="dropdown-toggle" data-toggle="dropdown">News <span class="fa fa-angle-down hidden-xs"></span></a>
+				<li class="dropdown nav-item" data-topnav="news"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">News <span class="fa fa-angle-down d-none d-sm-inline"></span></a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/news/">News <i class="fa fa-home"></i></a></li>
-						<li><a href="/news/news.html">News &amp; Feature Stories</a></li>
-						<li><a href="/news/media-room.html">Media Room</a></li>
-						<li><a href="/news/subscribe.html">Subscribe</a></li>
+						<li class="nav-item"><a class="nav-link" href="/news/">News <i class="fa fa-home"></i></a></li>
+						<li class="nav-item"><a class="nav-link" href="/news/news.html">News &amp; Feature Stories</a></li>
+						<li class="nav-item"><a class="nav-link" href="/news/media-room.html">Media Room</a></li>
+						<li class="nav-item"><a class="nav-link" href="/news/subscribe.html">Subscribe</a></li>
 					</ul>
 				</li>
 
-				<li class="dropdown" data-topnav="careers"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Careers <span class="fa fa-angle-down hidden-xs"></span></a>
+				<li class="dropdown nav-item" data-topnav="careers"><a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Careers <span class="fa fa-angle-down d-none d-sm-inline"></span></a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="/careers/">Careers <i class="fa fa-home"></i></a></li>
-						<li><a href="/careers/find-job.html">Find a Job</a></li>
-						<li><a href="/careers/internships.html">Internships</a></li>
-						<li><a href="/careers/post-docs.html">Postdoctoral<br>Opportunities</a>
-						</li><li><a href="/careers/discover-nrel.html">Discover NREL</a></li>
+						<li class="nav-item"><a class="nav-link" href="/careers/">Careers <i class="fa fa-home"></i></a></li>
+						<li class="nav-item"><a class="nav-link" href="/careers/find-job.html">Find a Job</a></li>
+						<li class="nav-item"><a class="nav-link" href="/careers/internships.html">Internships</a></li>
+						<li class="nav-item"><a class="nav-link" href="/careers/post-docs.html">Postdoctoral<br>Opportunities</a>
+						</li><li class="nav-item"><a class="nav-link" href="/careers/discover-nrel.html">Discover NREL</a></li>
 					</ul>
 				</li>
 
 			</ul>
-
+		</div>
 		</div>
 	</div>
 </div>
@@ -262,118 +269,131 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                
                <p>&nbsp;</p>
             </div>
-<div id="page-tools" class="hidden-print">
-   <!-- ADDTHIS WIDGET -->
-   <!--stopindex-->
-   <div class="container">
-      <div class="row">
-         <div class="col-sm-9 col-sm-offset-3">
-            <hr>
-            <div class="addthis_toolbar">
-               <a class="addthis_button_expanded btn btn-default" href="#" target="_blank" rel="noopener" title="View more services">
-                  <i class="fa fa-share"></i> Share
-               </a>
+<!-- ADDTHIS WIDGET -->
+<!--stopindex-->
+
+<div class="col-lg-9 offset-lg-3">
+	<div id="page-tools" class="hidden-print">
+		<hr>
+		<div class="addthis_toolbar">
+			<a class="addthis_button_expanded btn btn-default" href="#" target="_blank" rel="noopener" title="View more services">
+				<i class="fa fa-share"></i> Share
+			</a>
+		</div>
+	</div>
+</div>
+         </div>
+      </div><!--stopindex-->
+<footer id="footer" class="hidden-print">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 order-lg-2">
+                <div class="row">
+                    <div class="col-lg-2">
+                        <p class="header"><a href="/index.html">Home </a>
+                        </p>
+                    </div>
+                    <div class="col-lg-8">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <p class="header"><a href="/research/">Research </a>
+                                </p>
+                            </div>
+                            <div class="col-lg-4">
+                                <ul>
+                                    <li><a href="/manufacturing/">Advanced Manufacturing</a></li>
+									<li><a href="/bioenergy/">Bioenergy</a></li>
+									<li><a href="/buildings/">Buildings</a></li>
+									<li><a href="/chemistry-nanoscience/">Chemistry and Nanoscience</a></li>
+									<li><a href="/computational-science/">Computational Science</a></li>
+									<li><a href="/analysis/">Energy Analysis</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-4">
+                                <ul>
+                                    <li><a href="/esif/">Energy Systems Integration Facility</a></li>
+									<li><a href="/geothermal/">Geothermal</a></li>
+									<li><a href="/grid/">Grid Modernization</a></li>
+									<li><a href="/hydrogen/">Hydrogen and Fuel Cells</a></li>
+									<li><a href="/energy-solutions/">Integrated Energy Solutions</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-4">
+                                <ul>
+                                    <li><a href="/materials-science/">Materials Science</a></li>
+									<li><a href="/solar/">Solar</a></li>
+									<li><a href="/transportation/">Transportation</a></li>
+									<li><a href="/water/">Water</a></li>
+									<li><a href="/wind/">Wind</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Follow -->
+                    <div class="col-lg-2">
+                        <p class="header"><span id="directedit">Follow NREL</span>
+                        </p>
+                        <ul class="social-links list-inline">
+                            <li class="list-inline-item"><a href="https://www.facebook.com/nationalrenewableenergylab" aria-label="Follow NREL on Facebook"><i class="fa fa-facebook-square"><!--facebook--></i></a>
+                            </li>
+                            <li class="list-inline-item"><a href="/news/subscribe.html" aria-label="Subscribe to news"><i class="fa fa-envelope"><!--subscribe--></i></a>
+                            </li>
+                            <li class="list-inline-item"><a href="https://twitter.com/nrel/" aria-label="Follow NREL on Twitter"><i class="fa fa-twitter"><!--twitter--></i></a>
+                            </li>
+                            <li class="list-inline-item"><a href="https://www.linkedin.com/company/national-renewable-energy-laboratory" aria-label="Follow NREL on Linked In"><i class="fa fa-linkedin-square"><!--Linked In--></i></a>
+                            </li>
+                            <li class="list-inline-item"><a href="https://www.youtube.com/user/NRELPR/" aria-label="Follow NREL on YouTube"><i class="fa fa-youtube"><!--You Tube--></i></a>
+                            </li>
+                            <li class="list-inline-item"><a href="https://www.instagram.com/nationalrenewableenergylab/" aria-label="Follow NREL on Instagram"><i class="fa fa-instagram"><!--Instagram--></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-         </div>
-      </div>
-   </div>
-  
-</div>
-         </div>
-      </div><!--stopindex--><footer id="footer" class="hidden-print">
-<div class="container">
-<div class="row">
-<div class="col-sm-10 col-sm-push-2">
-<div class="row">
-<div class="col-sm-2">
-<p class="header"><a href="/">Home </a></p>
-</div>
-<div class="col-sm-8">
-<div class="row">
-<div class="col-sm-12">
-<p class="header"><a href="/research/">Research </a></p>
-</div>
-<div class="col-sm-4">
-<ul>
-<li><a href="/manufacturing/index.html">Advanced Manufacturing</a></li>
-<li><a href="/bioenergy/">Bioenergy</a></li>
-<li><a href="/buildings/">Buildings Efficiency</a></li>
-<li><a href="/chemistry-nanoscience/">Chemistry &amp; Nanoscience</a></li>
-<li><a href="/computational-science/index.html">Computational Science</a></li>
-<li><a href="/csp/">Concentrating Solar Power</a></li>
-</ul>
-</div>
-<div class="col-sm-4">
-<ul>
-<li><a href="/analysis/">Energy Analysis</a></li>
-<li><a href="/esif/index.html">Energy Systems Integration Facility</a></li>
-<li><a href="/geothermal/">Geothermal Energy</a></li>
-<li><a href="/grid/index.html">Grid Modernization</a></li>
-<li><a href="/hydrogen/">Hydrogen &amp; Fuel Cells</a></li>
-<li><a href="/energy-solutions/">Integrated Energy Solutions</a></li>
-</ul>
-</div>
-<div class="col-sm-4">
-<ul>
-<li><a href="/materials-science/">Materials Science</a></li>
-<li><a href="/pv/">Photovoltaics</a></li>
-<li><a href="/solar/">Solar</a></li>
-</ul>
-</div>
-<div class="col-sm-3">
-<ul>
-<li><a href="/transportation/">Transportation</a></li>
-<li><a href="/water/">Water Power</a></li>
-<li><a href="/wind/">Wind Energy</a></li>
-</ul>
-</div>
-</div>
-</div>
-<!-- Follow -->
-<div class="col-sm-2">
-<p class="header"><span id="directedit">Follow NREL</span></p>
-<ul class="social-links list-inline">
-<li><a href="https://www.facebook.com/nationalrenewableenergylab" aria-label="Follow NREL on Facebook"><i class="fa fa-facebook-square"><!--facebook--></i></a></li>
-<li><a href="/news/subscribe.html" aria-label="Subscribe to news"><i class="fa fa-envelope"><!--subscribe--></i></a></li>
-<li><a href="https://twitter.com/nrel/" aria-label="Follow NREL on Twitter"><i class="fa fa-twitter"><!--twitter--></i></a></li>
-<li><a href="https://www.linkedin.com/company/national-renewable-energy-laboratory" aria-label="Follow NREL on Linked In"><i class="fa fa-linkedin-square"><!--Linked In--></i></a></li>
-<li><a href="https://www.youtube.com/user/NRELPR/" aria-label="Follow NREL on YouTube"><i class="fa fa-youtube"><!--You Tube--></i></a></li>
-<li><a href="https://www.instagram.com/nationalrenewableenergylab/" aria-label="Follow NREL on Instagram"><i class="fa fa-instagram"><!--Instagram--></i></a></li>
-</ul>
-</div>
-</div>
-</div>
-<!-- NREL is... -->
-<div class="col-sm-2 col-sm-pull-10 border-right">
-<div class="row">
-<div class="col-sm-12 only-nrel">
-<p class="nrel-attr">The National Renewable Energy Laboratory&nbsp;is a national laboratory of the <a href="http://energy.gov/">U.S. Department of Energy</a>, <a href="http://energy.gov/eere/office-energy-efficiency-renewable-energy">Office of Energy Efficiency and Renewable Energy</a>, operated by the <a href="http://www.allianceforsustainableenergy.org/">Alliance for Sustainable Energy, LLC</a>.</p>
-</div>
-<div class="col-md-6">
-<ul>
-<li><a href="/security.html">Security &amp; Privacy Policy</a></li>
-<li><a href="/accessibility.html">Accessibility</a></li>
-<li><a href="/disclaimer.html">Disclaimer</a></li>
-<li><a id="contact-link" href="/webmaster.html">Contact Us</a></li>
-</ul>
-</div>
-<div class="col-md-6">
-<ul>
-<li><a href="/careers/">Apply for a Job</a></li>
-<li><a href="http://developer.nrel.gov/">Developers</a></li>
-<li><a href="https://images.nrel.gov/bp/#/">Image Gallery</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-2 border-right"><a href="http://energy.gov"><img class="logo" src="/_resources/images/logo-doe-footer.png" alt="U.S. Department of Energy"></a></div>
-</div>
-</div>
-</footer><!--startindex--><!-- == GLOBAL SCRIPTS == -->
+            <!-- NREL is... -->
+            <div class="col-lg-2 order-lg-1 ft-border-right">
+                <div class="row">
+                    <div class="col-lg-12 only-nrel">
+                        <p class="nrel-attr">The National Renewable Energy Laboratory&nbsp;is a national laboratory
+                            of the <a href="http://energy.gov/">U.S. Department of Energy</a>, <a href="http://energy.gov/eere/office-energy-efficiency-renewable-energy">Office of Energy Efficiency and Renewable Energy</a>,
+                            operated by the <a href="http://www.allianceforsustainableenergy.org/">Alliance for Sustainable Energy, LLC</a>.</p>
+                    </div>
+                    <div class="col-xl-6">
+                        <ul>
+                            <li><a href="/security.html">Security &amp; Privacy Policy</a>
+                            </li>
+                            <li><a href="/accessibility.html">Accessibility</a>
+                            </li>
+                            <li><a href="/disclaimer.html">Disclaimer</a>
+                            </li>
+                            <li><a id="contact-link" href="/webmaster.html">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-xl-6">
+                        <ul>
+                            <li><a href="/careers/index.html">Apply for a Job</a>
+                            </li>
+                            <li><a href="http://developer.nrel.gov/">Developers</a>
+                            </li>
+                            <li><a href="https://images.nrel.gov/bp/#/">Image Gallery</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-2 ft-border-right">
+				<a href="http://energy.gov"><img class="logo" src="/_resources/images/logo-doe-footer.png" alt="U.S. Department of Energy"></a>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--startindex--><!-- == GLOBAL SCRIPTS == -->
 <!-- Bootstrap -->
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 
     <!-- Icons plugin -->
