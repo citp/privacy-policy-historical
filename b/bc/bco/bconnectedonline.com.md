@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bconnectedonline.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201135653id_/http%3A//www.boydgaming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bconnectedonline.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608130635id_/http%3A//www.boydgaming.com/privacy) for the most accurate reproduction.*
 
 # Boyd Gaming Corporation Privacy Policy | BoydGaming.com
 
-**LAST UPDATED:   APRIL 06, 2016**
+**LAST UPDATED:   JANUARY 30, 2018**
 
 Boyd Gaming Corporation is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through our online properties from or in connection with which you are accessing this Privacy Policy, including websites operated by us (the “ **Websites** ”), software applications made available by us for use on or through computers and mobile devices (the “ **Apps** ”), our social media pages that we control (our “ **Social Media Pages** ”), as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy.  This Privacy Policy also applies to information we may collect from our operations, including, but not limited to, our gaming and hotel systems, vacation booking services, and loyalty programs such as the B Connected Loyalty Program (collectively, including the Websites, the Apps and our Social Media Pages, the “ **Services** ”).  By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.   ****
 
@@ -42,11 +42,11 @@ We may use Personal Information:
   * To respond to your inquiries and fulfill your requests, such as to send you newsletters. ****
   * To send administrative information to you, for example, information regarding the Services and changes to our terms, conditions, and policies, or information regarding your gaming activity. 
   * To complete and fulfill your purchase, for example, to process your payments, confirm your reservation, communicate with you regarding a reservation or purchase and provide you with related customer service.
-  * To send you marketing communications that we believe may be of interest to you.
+  * To enhance our marketing efforts and to send you marketing communications that we believe may be of interest to you.
   * To personalize your experience on the Services by presenting products and offers tailored to you.
   * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities.  Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
   * To allow you to send messages to a friend through the Services.  By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address. 
-  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities. 
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, enhancing our marketing efforts, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities. 
   * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates (including through surveillance);(f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. 
 
 
