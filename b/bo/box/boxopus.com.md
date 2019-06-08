@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boxopus.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128183334id_/https%3A//boxopus.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxopus.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608101116id_/https%3A//boxopus.com/page/privacy) for the most accurate reproduction.*
 
 # Boxopus privacy policy
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY AND THE TERMS OF USE AGREEMENT ON THIS WEBSITE. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEBSITE. YOU SHOULD CHECK THIS POLICY REGULARLY TO SEE IF ANY CHANGES HAVE BEEN MADE.**
 
-This Privacy Policy is effective as of: 25/05/2012.
+This Privacy Policy is effective as of: 05/06/2018.
 
 Your privacy is important, so boxopus, Inc. has created the following Privacy Policy to let you know what information we collect when you visit our website, www.boxopus.com ("Site"), why we collect it and how it is used. This Privacy Policy explains the data collection and use practices of the Site; it does not apply to other online sites, products or services. The terms "you," "your," "yours," and "user" refer to the user or visitor using, accessing, or viewing our Site. The terms "boxopus," "we," "us," and "our" refer to boxopus, Inc.
 
@@ -82,4 +82,9 @@ We may occasionally update this Privacy Policy. When we do, we will indicate the
 
 If you have any questions regarding this Privacy Policy, please contact [info@boxopus.com](mailto:info@boxopus.com).
 
-**© 2012-2013 boxopus, Inc. All Rights Reserved.**
+##  12\. Google Drive Privacy Policy.
+
+By using this service you agree that Boxopus can access your Google Drive, browse files and folders, create folders and upload files to your Google Drive only from your Boxopus account and only by user's request.  
+Our use of Google user data is limited to the practices explicitly disclosed in this privacy policy.
+
+**© 2012-2018 boxopus, Inc. All Rights Reserved.**
