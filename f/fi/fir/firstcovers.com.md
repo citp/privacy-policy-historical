@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcovers.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206081810id_/http%3A//www.firstcovers.com/index.php%3Fsite%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcovers.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608092120id_/http%3A//www.firstcovers.com/index.php%3Fsite%3Dprivacy) for the most accurate reproduction.*
 
 # Facebook Covers-Profile Photos for Timelines FirstCovers.com
 
