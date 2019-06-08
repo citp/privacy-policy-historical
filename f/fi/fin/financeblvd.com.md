@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the financeblvd.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124124759id_/http%3A//www.financeblvd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financeblvd.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608124353id_/http%3A//financeblvd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Finance Blvd
 
-Last updated: May,2018
+Last updated: March, 2019
 
-FinanceBlvd LTD (“us”, “we”, or “our”) operates the [http://www.FinanceBlvd.com](http://www.omgstudios.com/) website (the “Service”).  
+FinanceBlvd LTD (“us”, “we”, or “our”) operates the http://www.FinanceBlvd.com website (the “Service”).  
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
 We will not use or share your information with anyone except as described in this Privacy Policy.  
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://www](http://www/).FinanceBlvd.com
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.FinanceBlvd.com
 
 **Information Collection And Use**
 
