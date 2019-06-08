@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favecraftsblog.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005170324id_/http%3A//www.favecrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favecraftsblog.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608193459id_/http%3A//www.favecrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | FaveCrafts.com
 
@@ -388,9 +388,9 @@ _arrow_upward_
 
 ##### Summary — Terms of Service
 
-**For more information concerning your use of the Prime Publishing website and application, please see our[Terms of Service](https://web.archive.org/web/20181005170324id_/http%3A//www.favecrafts.com/index.php/hct/xxxx).**
+**For more information concerning your use of the Prime Publishing website and application, please see our[Terms of Service](https://web.archive.org/web/20190608193459id_/http%3A//www.favecrafts.com/index.php/hct/xxxx).**
 
-For more information concerning your use of the Prime Publishing websites, please consult the [Prime Publishing Terms of Service](https://web.archive.org/web/20181005170324id_/http%3A//www.favecrafts.com/index.php/hct/xxxx), which is incorporated by reference into this Privacy Policy. We recommend that you review the Terms of Service regularly, in order to review any changes we might make from time to time.
+For more information concerning your use of the Prime Publishing websites, please consult the [Prime Publishing Terms of Service](https://web.archive.org/web/20190608193459id_/http%3A//www.favecrafts.com/index.php/hct/xxxx), which is incorporated by reference into this Privacy Policy. We recommend that you review the Terms of Service regularly, in order to review any changes we might make from time to time.
 
 _arrow_upward_
 
