@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the microworkers.com privacy policy that was archived on 2018-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180717195800id_/https%3A//microworkers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microworkers.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608070306id_/https%3A//www.microworkers.com/privacy.php) for the most accurate reproduction.*
 
-# Microworkers - work & earn or offer a micro job
+# Privacy Policy | Microworkers - work & earn or offer a micro job
 
-This policy is effective as of June 17, 2013.
+Effective date: Aug 30, 2013 
 
-Welcome to the Microworkers Service, a web service utility that connects employers and workers on a micro level. The Microworkers service is operated by Weblabcentercom, Inc. and its subsidiaries and affiliates ("us," "we",  "Microworkers", “site” or “Microworkers.com”). By using or accessing the Microworkers Service, you agree that you have read, understand and are bound by these Terms of Use ("Terms"). We reserve the right, at our sole discretion, to change or delete portions of these Terms at any time without further notice. Your continued use of the Microworkers Service after any such changes constitutes your acceptance of the new Terms.
+Welcome to the Microworkers Service, a web service utility that connects employers and workers on a micro level. The Microworkers service is operated by Weblabcentercom, Inc. and its subsidiaries and affiliates ("us," "we", "Microworkers", “site” or “Microworkers.com”). By using or accessing the Microworkers Service, you agree that you have read, understand and are bound by these Terms of Use ("Terms"). We reserve the right, at our sole discretion, to change or delete portions of these Terms at any time without further notice. Your continued use of the Microworkers Service after any such changes constitutes your acceptance of the new Terms.
 
 #### Microworkers Principles
 
-We built Microworkers to make it easy to (a) advertise your product (b) find people who will be interested in helping you promote your website, product, etc. (c) find people who will help you do work for you – finish tasks you usually are not able to finish yourself or you want more people to work on a task (d) convert your work into earnings. We understand you may not want everyone in the world to access your personal information; that is why all personal information is hidden from other users. Our  privacy settings does not allow other users to see your personal information except your Microworkers ID, your IP Address, and your browser information.
+We built Microworkers to make it easy to (a) advertise your product (b) find people who will be interested in helping you promote your website, product, etc. (c) find people who will help you do work for you – finish tasks you usually are not able to finish yourself or you want more people to work on a task (d) convert your work into earnings. We understand you may not want everyone in the world to access your personal information; that is why all personal information is hidden from other users. Our privacy settings does not allow other users to see your personal information except your Microworkers ID, your IP Address, and your browser information.
 
 Microworkers does not share information with other users. As employer you choose what information you put in response to replying to a worker. As a worker you choose what information you put in response to replying to an employer. We suggest you not to reply with any personal information such as your MSN ID, Skype ID, Email, phone number, etc.. There is no need to publish any of your personal information as all communication in Microworkers system is based upon user ID.
 
-If you are trying to submit finished task and campaign (job) is asking you to (requires you to)  enter personal information, credit card information or any other information about you, such campaign violates Microworkers principles and you should not continue. We suggest you not to continue with that campaign and immediately report this violation to us. Use Contact us form or Microworker’s email and report campaign/job ID and disclose as many details as possible. We will make sure to immediately terminate campaigns that violates our rules.
+If you are trying to submit finished task and campaign (job) is asking you to (requires you to) enter personal information, credit card information or any other information about you, such campaign violates Microworkers principles and you should not continue. We suggest you not to continue with that campaign and immediately report this violation to us. Use Contact us form or Microworker’s email and report campaign/job ID and disclose as many details as possible. We will make sure to immediately terminate campaigns that violates our rules.
 
 #### Safe Use of Microworkers
 
@@ -22,7 +22,7 @@ In general Microworkers is suitable for everyone but certain jobs might not be a
 
 When you visit Microworkers you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.
 
-When you register with Microworkers, you provide us with certain personal information, such as your name, your email address, your telephone number, your address   and any other personal or preference information that you provide to us.
+When you register with Microworkers, you provide us with certain personal information, such as your name, your email address, your telephone number, your address and any other personal or preference information that you provide to us.
 
 When you enter Microworkers, we collect your browser type and IP address. This information is gathered for all Microworkers visitors. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login information so you don’t have to login again when you come back to Microworkers. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature. If you don’t want other people who use same computer to login to your Microworkers account then you should always log out of your account after finishing with your activities.
 
@@ -42,7 +42,7 @@ Microworkers does not knowingly collect or solicit personal information from any
 
 #### Use of Information Obtained by Microworkers
 
-When you register with Microworkers, you create your own account. Your profile information and email  are not displayed to other users. Unless you decide to share your personal information with other users, the only information displayed is your account ID. We may occasionally use your name and email address to send you notifications regarding new services offered by Microworkers that we think you may find valuable.
+When you register with Microworkers, you create your own account. Your profile information and email are not displayed to other users. Unless you decide to share your personal information with other users, the only information displayed is your account ID. We may occasionally use your name and email address to send you notifications regarding new services offered by Microworkers that we think you may find valuable.
 
 We will also use your mailing address information to send you a Postal PIN code you need to activate payments to you. In case you select Paypal, or Skrill as payment option, we will send the payment to the Paypal email or Skrill email as you request.
 
@@ -80,7 +80,7 @@ Where you make use of the communication features of the service to share informa
 
 All data entered by our users (except some payment information) is saved on Microworkers servers. Servers are based in United States operated by a hosting company. Hosting company should is responsible to update the server(s) with latest patches and prevent any possible attacks and prevent other people than those authorized by Microworkers staff from accessing Microworkers database.
 
-Microworkers takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), that information is always entered and processed at online payment system services such as Paypal or 2Checkout or others that are  used to perform transactions. Before initiating payment to Microworkers make sure to read Terms and Privacy policy at Paypal.com and 2Checkout.com.
+Microworkers takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), that information is always entered and processed at online payment system services such as Paypal or 2Checkout or others that are used to perform transactions. Before initiating payment to Microworkers make sure to read Terms and Privacy policy at Paypal.com and 2Checkout.com.
 
 Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Microworkers Web Site, please contact us through the Contact us form or via Microworkers email published on the Site.
 
