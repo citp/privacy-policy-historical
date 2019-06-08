@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcruiter.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910155853id_/http%3A//www.webcruiter.com/privacy-policy-and-terms-of-use-for-webcruiter-s-digital-channels) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcruiter.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608060807id_/https%3A//www.webcruiter.com/privacy-policy-and-terms-of-use-for-webcruiter-s-digital-channels) for the most accurate reproduction.*
 
 # Privacy policy and terms of use for Webcruiter’s digital channels | Webcruiter
 
