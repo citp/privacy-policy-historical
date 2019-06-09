@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leeds.ac.uk privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203045122id_/https%3A//www.leeds.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leeds.ac.uk privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609113153id_/https%3A//www.leeds.ac.uk/privacy) for the most accurate reproduction.*
 
 # University of Leeds | About > Privacy and cookies
 
@@ -38,7 +38,7 @@ Your personal data that you have provided will not routinely be sent to third pa
 
 **Exception - 100 % online distance learning postgraduate courses**
 
-The University works with third party partners (Pearson PLC, Hunterlodge Advertising) who handle admissions enquiries and recruitment for some of our 100% online distance learning postgraduate courses. If you submit an enquiry through the online form published on the associated course pages, our partner organisation will use your personal data to respond to your enquiry. If you choose to apply for the course, your data will be entered into the University’s application system so we can consider your application. These partners are only allowed to use your data in accordance with the strict instructions of the University. Neither partner will use your data in any other way nor will they share it with any other organisation.
+The University works with third party partners (Pearson PLC, Natives Group) who handle admissions enquiries and recruitment for some of our 100% online distance learning postgraduate courses. If you submit an enquiry through the online form published on the associated course pages, our partner organisation will use your personal data to respond to your enquiry. If you choose to apply for the course, your data will be entered into the University’s application system so we can consider your application. These partners are only allowed to use your data in accordance with the strict instructions of the University. Neither partner will use your data in any other way nor will they share it with any other organisation.
 
 **7\. Data retention**
 
@@ -126,7 +126,7 @@ Persistent cookie. Expires after 12 months.
 **Cookie**  
 | 
 
-**Google Analytics, Google Tag Manager, AdWords and Facebook re-marketing**  
+**Google Analytics, Google Tag Manager, AdWords, Facebook and LinkedIn re-marketing**  
   
 ---|---  
   
