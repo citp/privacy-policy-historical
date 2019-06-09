@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wesbanco.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811222256id_/https%3A//www.wesbanco.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesbanco.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609190011id_/https%3A//www.wesbanco.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
