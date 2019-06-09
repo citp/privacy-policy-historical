@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the papercut.com privacy policy that was archived on 2018-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181110074659id_/https%3A//www.papercut.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the papercut.com privacy policy that was archived on 2019-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190609212621id_/https%3A//www.papercut.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head lang="en">
 	<meta charset="utf-8">
@@ -7,10 +7,10 @@
 	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0, shrink-to-fit=no">
 	<meta name="google-site-verification" content="xk0NeGJoP-1gvWBtABzhsCzOH7KKbym9FZWXiuYysO8">
 
-	<title>PaperCut - Print management software used by 50k organizations to control and quota printing</title>
+	<title>PaperCut's Privacy Policy</title>
 	<meta name="description" content="PaperCut provides simple and affordable print management software for Windows, Mac, Linux, and Novell. Our print control software helps keep track of all your print accounting and print quotas for your business or educational facility.">
 	<meta name="robots" content="">
-
+	
 	<link rel="shortcut icon" href="https://cdn1.papercut.com/web/img/icon/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="https://cdn1.papercut.com/web/img/icon/favicon@16.png" type="image/png" sizes="16x16">
 	<link rel="shortcut icon" href="https://cdn1.papercut.com/web/img/icon/favicon@32.png" type="image/png" sizes="32x32">
@@ -25,6 +25,7 @@
 	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://cdn1.papercut.com/web/img/icon/apple@76.png">
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdn1.papercut.com/web/img/icon/apple@72.png">
 	<link rel="apple-touch-icon-precomposed" href="https://cdn1.papercut.com/web/img/icon/apple-touch.png">
+	<link rel="alternate" href="https://www.papercut.com/en/" hreflang="en">
 
 	<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WP9VKT"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WP9VKT');</script>
 
@@ -37,6 +38,8 @@
 		var PC_CDN_URL = 'https://cdn1.papercut.com/web';
 		var PC_BLOG_URL = 'https://blog.papercut.com';
 		var PC_PORTAL_URL = 'https://portal.papercut.com';
+		var PC_LMS_URL = 'https://learn.papercut.com';
+		var PCI_API_BASE = 'https://api-dot-pc-internal.appspot.com';
 		var PC_BUY_URL = 'https://buy.papercut.com';
 		var PC_LANG = 'en';
 		var CACHEBUST = '';
@@ -53,14 +56,14 @@
 						<img class="logo__img" src="https://cdn1.papercut.com/web/img/logo.png" srcset="https://cdn1.papercut.com/web/img/logo@2x.png 2x">
 					</a>
 
-					<nav class="header__nav" :class="['header__nav', nav.open? 'nav__open': '']" @click.self="nav = { open: false, second: false, third: false }">
-						<a :class="['nav__back', nav.second || nav.third? 'nav__back--show': '']" @click="nav.third? nav.third = false: nav.second = false">
+					<nav class="header__nav" :class="['header__nav', nav.open? 'nav__open': '']" @click.self="nav = { open: false, second: false, third: false, fourth: false }">
+						<a :class="['nav__back', nav.second || nav.third || nav.fourth? 'nav__back--show': '']" @click="nav.fourth? nav.fourth = false: nav.third? nav.third = false: nav.second = false">
 							<i class="fa fa-angle-left"></i>
 						</a>
-						<a class="nav__close" @click="nav = { open: false, second: false, third: false }">
+						<a class="nav__close" @click="nav = { open: false, second: false, third: false, fourth: false }">
 							<i class="fa fa-close"></i>
 						</a>
-						<ul class="nav__first">
+												<ul class="nav__first">
 							<li class="nav__item nav__item--child ">
 								<a class="nav__link" href="https://www.papercut.com/products/">Products</a>
 								<a class="nav__toggle" @click="nav.second = 'products'">
@@ -75,13 +78,13 @@
 										</a>
 										<ul :class="['nav__third', nav.third == 'ng'? 'nav__third--open': '']">
 											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/ng/">Overview</a></li>
-											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/ng/download/">Download Free Trial</a></li>
+											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/ng/download/">Download free trial</a></li>
 											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/ng/#pricing">PaperCut NG Pricing</a></li>
-											<li class="nav__item"><a class="nav__link" href="https://buy.papercut.com/preorder.php?productEdition=NG&amp;quotation=Y">Get a Quote Online</a></li>
+											<li class="nav__item"><a class="nav__link" href="https://buy.papercut.com/preorder.php?productEdition=NG&amp;quotation=Y">Get a quote online</a></li>
 											<li class="nav__item"><a class="nav__link" href="https://buy.papercut.com/preorder.php?productEdition=NG">Buy PaperCut NG</a></li>
-											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/blog/tags/product/releases/">Latest Features</a></li>
-											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/ng/release-history/">Release History</a></li>
-											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/ng/upgrade/">Version Upgrade</a></li>
+											<li class="nav__item"><a class="nav__link" href="https://blog.papercut.com/things-we-make/releases-and-updates/">Latest features</a></li>
+											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/ng/release-history/">Release history</a></li>
+											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/ng/upgrade/">Version upgrade</a></li>
 										</ul>
 									</li>
 									<li class="nav__item  nav__item--child">
@@ -91,32 +94,53 @@
 										</a>
 										<ul :class="['nav__third', nav.third == 'mf'? 'nav__third--open': '']">
 											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/mf/">Overview</a></li>
-											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/mf/buy/">How To Buy</a></li>
-											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/blog/tags/product/releases/">Latest Features</a></li>
-											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/mf/release-history/">Release History</a></li>
+											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/mf/buy/">How to buy</a></li>
+											<li class="nav__item"><a class="nav__link" href="https://blog.papercut.com/things-we-make/releases-and-updates/">Latest features</a></li>
+											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/mf/release-history/">Release history</a></li>
 											<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/products/mf/find-my-mfd/">Find my MFD</a></li>
 										</ul>
 									</li>
 									<li class="nav__item  nav__item--percolator"><a class="nav__link" href="https://www.papercut.com/products/percolator/">In the Percolator <sup>[BETA]</sup></a></li>
-									<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/products/free-software/">Free Software</a></li>
+									<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/products/free-software/">Free software</a></li>
 								</ul>
 							</li>
 							<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/tour/">Tour</a></li>
 							<li class="nav__item  nav__item--child">
-								<a class="nav__link" href="https://www.papercut.com/solutions/">Solutions</a>
+								<a class="nav__link">Solutions</a>
 								<a class="nav__toggle" @click="nav.second = 'solutions'">
 									<i class="fa fa-angle-right"></i>
 								</a>
 								<ul :class="['nav__second', nav.second == 'solutions'? 'nav__second--open': '']">
-									<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/solutions/education/">Education</a></li>
-									<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/solutions/commercial/">Commercial</a></li>
-									<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/solutions/professional/">Professional Services</a></li>
-									<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/products/mf/job-ticketing/">Print Rooms</a></li>
+									<li class="nav__item  nav__item--child">
+										<a class="nav__link">Industry</a>
+										<a class="nav__toggle" @click="nav.third = 'industry'">
+											<i class="fa fa-angle-right"></i>
+										</a>
+										<ul :class="['nav__third', nav.third == 'industry'? 'nav__third--open': '']">
+											<li class="nav__item nav__item--child ">
+												<a class="nav__link" href="https://www.papercut.com/industry/education/">Education</a>
+												<a class="nav__toggle" @click="nav.fourth = 'education'">
+													<i class="fa fa-angle-right"></i>
+												</a>
+												<ul :class="['nav__fourth', nav.fourth == 'education'? 'nav__fourth--open': '']">
+													<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/industry/education/higher-education/">Higher education</a></li>
+													<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/industry/education/k-12/">K-12</a></li>
+												</ul>
+											</li>
+											<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/industry/legal/">Legal</a></li>
+											<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/industry/healthcare/">Healthcare</a></li>
+											<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/industry/smb/">Small to medium business</a></li>
+											<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/industry/large-enterprise/">Large enterprise</a></li>
+										</ul>
+									</li>
+									<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/solutions/digital-workplace/">Digital workplace</a></li>
+									<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/solutions/security/">Security</a></li>
+									<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/products/mf/job-ticketing/">Specialty printing</a></li>
 									<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/solutions/product-integrations/">Integrations</a></li>
 								</ul>
 							</li>
 							<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/support/">Support</a></li>
-							<li class="nav__item nav__item--active nav__item--child">
+							<li class="nav__item active nav__item--child">
 								<a class="nav__link">More</a>
 								<a class="nav__toggle" @click="nav.second = 'more'">
 									<i class="fa fa-angle-right"></i>
@@ -126,25 +150,25 @@
 									<li class="nav__item"><a class="nav__link" href="https://www.papercut.com/blog/">Blog</a></li>
 									<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/about/">About</a></li>
 									<li class="nav__item "><a class="nav__link" href="https://www.papercut.com/about/careers/">Careers</a></li>
-									<li class="nav__item"><a class="nav__link" href="https://portal.papercut.com">Reseller Login</a></li>
+									<li class="nav__item"><a class="nav__link" href="https://portal.papercut.com">Reseller login</a></li>
 								</ul>
 							</li>
 						</ul>
-					</nav>
+											</nav>
 
 					<div class="header__right">
 						<a class="nav__burger" @click="nav.open = true">
 							<i class="fa fa-bars"></i>
 						</a>
 						<a class="header__trial btn btn--green btn--thin" @click="$refs.trialForm.open()" v-html="$i18l('trialModal').cta"></a>
-						<form class="header__search" method="get" action="https://www.papercut.com/search/">
+												<form class="header__search" method="get" action="https://www.papercut.com/search/">
 							<input type="text" name="q" placeholder="Search">
 							<a class="search__icon" onclick="this.parentNode.submit()">
 								<img class="search__img search__img--grey" src="https://cdn1.papercut.com/web/img/icon/search-grey.png" srcset="https://cdn1.papercut.com/web/img/icon/search-grey@2x.png 2x">
 								<img class="search__img search__img--teal" src="https://cdn1.papercut.com/web/img/icon/search-teal.png" srcset="https://cdn1.papercut.com/web/img/icon/search-teal@2x.png 2x">
 							</a>
 						</form>
-					</div>
+											</div>
 
 				</div>
 			</div>
@@ -231,7 +255,7 @@
 					<ul>
 						<li>Understand and improve our products.</li>
 						<li>Assist you with technical support issues or other issues relating to our Products and Services. This may include sharing your support requests and data logs with our Trusted Partners (for example Authorized Solution Centers).</li>
-						<li>Send you operational information (information required for us to continue providing your product and/or service i.e. advising your Premium Upgrade Assurance is about to expire).</li>
+						<li>Send you operational information (information required for us to continue providing your product and/or service i.e. advising your Maintenance &amp; Support is about to expire).</li>
 						<li>Communicate with you and respond to your inquiries and fulfil your requests (such as sending you requested materials) as well as information and materials regarding our products and services.</li>
 						<li>Send email and/or SMS marketing communications e.g. newsletters and product upgrades. These will only be sent to you if you have requested the information or opted in to receiving marketing communications. We'll provide you with instructions for how you can remove yourself from that mailing list if you so wish.</li>
 						<li>Record your marketing and communication preferences so we can keep you informed about our product updates and service offerings.</li>
@@ -251,7 +275,7 @@
 
 					<h2 class="h4 mar--top-lg">For Authorized Solution Centers (ASCs) and Resellers</h2>
 					<ul>
-						<li>A prerequisite when becoming an ASC or Reseller is to provide your contact details (email and mobile) to enable PaperCut to provide operational notifications and communications. For example, your customer's Premium Upgrade Assurance is about to expire, and product release updates.</li>
+						<li>A prerequisite when becoming an ASC or Reseller is to provide your contact details (email and mobile) to enable PaperCut to provide operational notifications and communications. For example, your customer's Maintenance &amp; Support is about to expire, and product release updates.</li>
 						<li>We'll email you newsletters and other marketing communications only if you have opted in, and we'll provide you with instructions as to how you can remove yourself from that mailing list if you so wish.</li>
 					</ul>
 
@@ -306,7 +330,7 @@
 		</main>
 
 		<footer class="footer" style="background-image:url('https://cdn1.papercut.com/web/img/banner.svg');">
-			<div class="footer__main">
+						<div class="footer__main">
 				<div class="container">
 					<div class="grid">
 						<div class="footer__menu col__3-4 col__2-3--lg col__1-1--md">
@@ -341,7 +365,7 @@
 								<div class="col__1-4 col__1-2--lg col__1-1--sm">
 									<ul>
 										<li><a href="https://www.papercut.com/products/ng/#pricing">Pricing <small>(PaperCut NG)</small></a></li>
-										<li><a href="https://www.papercut.com/preorder.php">Buy <small>(PaperCut NG)</small></a></li>
+										<li><a href="https://buy.papercut.com/preorder.php">Buy <small>(PaperCut NG)</small></a></li>
 										<li><a href="https://buy.papercut.com/preorder.php?quotation=Y">Get a Quote <small>(PaperCut NG)</small></a></li>
 										<li><a href="https://portal.papercut.com/">Reseller Login</a></li>
 									</ul>
@@ -361,11 +385,11 @@
 					</div>
 				</div>
 			</div>
-			<div class="footer__mark">
-				<p>© 2018 PaperCut Software International&nbsp;&nbsp;|&nbsp;&nbsp;<a :href="URL + '/privacy-policy/'">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a @click="$refs.cookieMonster.show()" style="cursor:pointer;">Cookies</a></p>
+						<div class="footer__mark">
+				<p>© 2019 PaperCut Software International&nbsp;&nbsp;|&nbsp;&nbsp;<a :href="URL + '/privacy-policy/'">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a @click="$refs.cookieMonster.show()" style="cursor:pointer;">Cookies</a></p>
 			</div>
 		</footer>
-		<trial-modal ref="trialForm"></trial-modal>
+		<trial-modal ref="trialForm" :has-consent="true"></trial-modal>
 		<cookie-monster ref="cookieMonster"></cookie-monster>
 	</div>
 	<script type="text/javascript" src="https://cdn1.papercut.com/web/digital/papercut.js"></script>
