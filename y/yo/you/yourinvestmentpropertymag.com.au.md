@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourinvestmentpropertymag.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903225857id_/https%3A//www.yourinvestmentpropertymag.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourinvestmentpropertymag.com.au privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609123415id_/https%3A//www.yourinvestmentpropertymag.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Your Investment Property Australia
 
@@ -37,5 +37,20 @@ This website uses cookies, tracking pixels and related technologies. Cookies are
 
 * * *
 
+**Control your personal data**  
+You can remove from our email communications by clicking on the unsubscribe link present in the footer of all our email.
+
+* * *
+
 **Disclaimer**  
 This information on this website is for general information purposes only. It is not intended as financial or investment advice and should not be construed or relied on as such. Before making any commitment of a financial nature you should seek advice from a qualified and registered financial or investment adviser. No material contained within this website should be construed or relied upon as providing recommendations in relation to any financial product. Key Media Pty Ltd does not recommend or endorse products and does not receive remuneration based upon investment decisions by our email recipients, publications, newsletter or website users.
+
+* * *
+
+**Questions about this policy or how Key Media Inc. handling of your information may be sent to:**
+
+Key Media Inc  
+Level 10, 1 Chandos St,   
+St Leonards, NSW 2065   
+Australia  
+Phone: +61 2 8437 4700
