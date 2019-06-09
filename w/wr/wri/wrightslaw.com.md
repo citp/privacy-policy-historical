@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrightslaw.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104084529id_/http%3A//www.wrightslaw.com/priv_plcy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrightslaw.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609233553id_/https%3A//www.wrightslaw.com/priv_plcy.htm) for the most accurate reproduction.*
 
 # Wrightslaw Privacy and Securities Policies
 
@@ -16,10 +16,10 @@ Key components of our privacy policy:
 
 **4\. Cookies**. At present, we do not use cookies. At a later time, we may use cookies as a way to help visitors, make it easier to order a second time, allow subscribers to store their passwords in cookies if they wish, and greet our visitors by name when they return. We do NOT collect or use information to develop profiles of our visitors. 
 
-**5\. Security**. Our [Shopsite store](http://www.wrightslaw.com/store/) is a secure and convenient way to order on the Internet. The Secure Sockets Layer (SSL) software is the industry standard and among the best software available today for secure online commerce transactions. Shopsite encrypts your personal information, including credit card number,   
+**5\. Security**. Our [Shopsite store](https://www.wrightslaw.com/store/) is a secure and convenient way to order on the Internet. The Secure Sockets Layer (SSL) software is the industry standard and among the best software available today for secure online commerce transactions. Shopsite encrypts your personal information, including credit card number,   
 name, and address, so it cannot be read as the information travels over the Internet.
 
-These policies apply to all websites owned by Wrightslaw including [wrightslaw.com](http://www.wrightslaw.com/), [yellowpagesforkids.com](http://www.yellowpagesforkids.com/), [fetaweb.com](http://www.fetaweb.com/), and [harborhouselaw.com](http://www.harborhouselaw.com/). 
+These policies apply to all websites owned by Wrightslaw including [wrightslaw.com](https://www.wrightslaw.com/), [yellowpagesforkids.com](http://www.yellowpagesforkids.com/), [fetaweb.com](http://www.fetaweb.com/), and [harborhouselaw.com](http://www.harborhouselaw.com/). 
 
 If you have any concerns or questions about our privacy policy or information collected on our sites,  please  [email us](mailto:privacy@wrightslaw.com) .  
 
