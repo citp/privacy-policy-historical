@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesmokinggun.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205083941id_/http%3A//www.thesmokinggun.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesmokinggun.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609192504id_/http%3A//www.thesmokinggun.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | The Smoking Gun
 
@@ -78,12 +78,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 Access to personally identifiable information that is collected from our sites and that we maintain may be available to you. For example, if you created a password-protected account within our site, you can access that account to review the information you provided.
 
-You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for such service.
-
-The Smoking Gun  
-611 Broadway, #704  
-New York, NY 10012  
-[thesmokinggun@gmail.com](mailto:thesmokinggun@gmail.com)
+You may also send an e-mail requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for such service.
 
 **How to Contact Us**
 
