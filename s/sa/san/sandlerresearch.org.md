@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandlerresearch.org privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207032727id_/http%3A//www.sandlerresearch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandlerresearch.org privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609045027id_/http%3A//www.sandlerresearch.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Policy
 
