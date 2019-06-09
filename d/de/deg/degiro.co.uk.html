@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the degiro.co.uk privacy policy that was archived on 2018-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181214124008id_/https%3A//www.degiro.co.uk/privacy-and-cookies.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the degiro.co.uk privacy policy that was archived on 2019-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190609223958id_/https%3A//www.degiro.co.uk/privacy-and-cookies.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="uk"><head>
         <!-- Google Tag Manager -->
@@ -52,8 +52,11 @@ hj('trigger', 'homepage');
     <link rel="stylesheet" href="/assets/dg-2017/css/font-awesome.min.css">
     <link rel="stylesheet" href="/assets/dg-2017/css/aos.css">
     <link rel="stylesheet" href="/assets/dg-2017/bxslider/jquery.bxslider.min.css">
-    <link rel="stylesheet" href="/assets/dg-2017/css/custom.min.css?v=329">
+    <link rel="stylesheet" href="/assets/dg-2017/css/custom.min.css?v=334">
     <link rel="stylesheet" href="/assets/dg-2017/css/main-uk.css?v=363">
+    <!-- Carousel from trader app page-->
+    <link rel="stylesheet" href="assets/dg-2017/js/OwlCarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/dg-2017/js/OwlCarousel/owl.theme.default.min.css">
 
      <script> 
 (function (i, s, o, g, r, a, m) { 
@@ -116,6 +119,16 @@ var trackOutboundLink = function(url, category) {
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
+<div id="browser-version-alert" class="text-center w-100" style="background-color: #FF4136; top: 0; position:fixed; z-index:100; padding:30px 10px 15px; display:none;">
+    <p class="roboto-reg-20 white"><i class="fa fa-info-circle pr-4" style="font-size:30px"></i> <span style="top:-4px; position:relative;">For a better user experience and secure browsing, please upgrade to the newest version of Internet Explorer or other alternative.</span></p>
+</div>
+
+<script>
+var versionBrowser = window.ActiveXObject === undefined ? null : !window.XMLHttpRequest ? 6 : !document.querySelector ? 7 : !document.addEventListener ? 8 : !window.atob ? 9 : !document.__proto__ ? 10 : 11;
+if(versionBrowser != null && versionBrowser < 10){
+    document.getElementById("browser-version-alert").style.display = "block";
+}
+</script>
 
 <div id="privacy-cookies">
 
@@ -153,8 +166,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="first"><a href="https://www.degiro.co.uk/" title="Stockbroking Online | Invest Worldwide | DEGIRO UK">Home</a></li>
 <li><a href="fees/compare-brokers/" title="Extremely low Fees | Online Stock Broker &amp; CFD Broker">Fees</a></li>
 <li><a href="products-and-markets.html" title="Products &amp; Markets | Trade on exchanges worldwide">Products &amp; Markets</a></li>
-<li><a href="trading-platform.html" title="Desktop &amp; Mobile Trading platform for Investors | WebTrader">Trading Platform</a></li>
+<li><a href="trading-platform/" title="Desktop &amp; Mobile Trading platform for Investors | WebTrader">Trading Platform</a></li>
 <li><a href="about-degiro/" title="About us | Trading Platform | Online broker DEGIRO">About DEGIRO</a></li>
+<li><a href="knowledge/" title="Develop your knowledge about trading | DEGIRO online trading">Knowledge</a></li>
 <li class="last"><a href="helpcenter/" title="Help Centre">Help &amp; Support</a></li>
 
 </ul>
@@ -170,7 +184,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                             <!-- Open Acc & Login btns -->
                             <div class="login-btns d-flex align-items-center float-right hidden-md-down">
-                                <a href="https://www.degiro.co.uk/request-further-information" class="btn btn-sm btn-yellow mr-10 hidden-lg-down">Request more information</a>
+                                <!--<a href="https://www.degiro.co.uk/request-further-information" class="btn btn-sm btn-yellow mr-10 hidden-lg-down">Request more information</a>-->
                                 <a href="https://www.degiro.nl/registration/uk" class="btn btn-sm btn-green dark-green-hover mr-10">Open an account</a>
                                 <a href="https://trader.degiro.nl/login/uk#/login" class="btn btn-sm dark-blue-hover ">Login</a>
                             </div>
@@ -208,8 +222,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <li class="first"><a href="https://www.degiro.co.uk/" title="Stockbroking Online | Invest Worldwide | DEGIRO UK">Home</a></li>
 <li><a href="fees/compare-brokers/" title="Extremely low Fees | Online Stock Broker &amp; CFD Broker">Fees</a></li>
 <li><a href="products-and-markets.html" title="Products &amp; Markets | Trade on exchanges worldwide">Products &amp; Markets</a></li>
-<li><a href="trading-platform.html" title="Desktop &amp; Mobile Trading platform for Investors | WebTrader">Trading Platform</a></li>
+<li><a href="trading-platform/" title="Desktop &amp; Mobile Trading platform for Investors | WebTrader">Trading Platform</a></li>
 <li><a href="about-degiro/" title="About us | Trading Platform | Online broker DEGIRO">About DEGIRO</a></li>
+<li><a href="knowledge/" title="Develop your knowledge about trading | DEGIRO online trading">Knowledge</a></li>
 <li class="last"><a href="helpcenter/" title="Help Centre">Help &amp; Support</a></li>
 
 </ul>
@@ -228,27 +243,80 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="row pt-190 pb-155">
             <div class="col-12 text-center" data-aos="fade-up" data-aos-once="true" data-aos-duration="1200">
                 <p class="alte-34 pb-25">DEGIRO's Privacy &amp; Cookie Statement</p>
-                <p class="roboto-med-14 m-0 max-w-900 d-block m-auto">DEGIRO respects and protects your privacy. You can visit this website anonymously. DEGIRO is not interested in names or other information revealing the identity of the visitors to this site. Information about you or your computer will only be registered with DEGIRO for technical reasons, or in connection with a customer. This is done with a cookie or other means.</p>
+                <p class="roboto-med-14 m-0 max-w-900 d-block m-auto">
+				DEGIRO respects and protects your privacy. You can visit this website anonymously. DEGIRO is not interested in names or other information revealing the identity of the visitors to this site. Information about you or your computer will only be registered with DEGIRO for technical reasons, or in connection with a customer. This is done with a cookie or other means.
+				</p>
             </div>
         </div>
     </div>
 </div>
 <div id="cookies-white-part-1" class="container-fluid pt-90 pb-60">
-    <div class="container border-bottom ">
+	 <div class="container border-bottom ">
         <div class="row pb-45">
-            <div class="col-md-12 ">
+            <div class="col-md-12">
                 <p class="alte-20 mb-40">Privacy Statement</p>
             </div>
             <div class="col-md-5">
-                <p class="roboto-med-14 blue mb-10">What is personal data?</p>
-                <p class="roboto-reg-14">Personal data, is any information relating to you or can be used to identify you.</p>
-                <p class="roboto-reg-14">As a client of DEGIRO you provide us with some of your personal data, this includes your name, telephone number, email address. It can also include IP addresses which in some circumstances can be used to identify you.</p>
-                <p class="roboto-reg-14">In the event that a corporate or professional party intend on becoming a client, we will also collect personal data which relates to the interested individuals of the company for example, directors, UBO, authorised representatives etc.</p>
+                <p class="roboto-med-14 m-0 max-w-900 d-block m-auto">
+				DEGIRO take the privacy and security of your personal data very seriously, our privacy statement explains the information we collect from you, why we collect this data, how we ensure that it is kept safe and it explains your rights in relation to your personal data. You should read this statement carefully to ensure that you understand how we handle your personal data. 
+				</p>
+            </div>
+        </div>
+    </div>
+    
+	
+	<div class="container border-bottom pt-60 pb-50">
+        <div class="row pb-45">
+            <div class="col-md-5">
+                <p class="roboto-med-14 blue mb-10">Who are we? </p>
+                <p class="roboto-reg-14">We are DEGIRO, a financial entity registered within the Netherlands that is the data controller as defined in the General Data Protection Regulation or GDPR. Should you wish to contact us with general questions these can be sent to <a href="mailto:clients@degiro.co.uk">clients@degiro.co.uk</a>. It is also possibly to contact our data protection officer via <a href="mailto:privacy@degiro.nl">privacy@degiro.ie</a></p>
+                <p class="roboto-reg-14">The registered office for DEGIRO is DeGiro BV, Rembrandt Tower - 9th floor, 1096 HA Amsterdam, The Netherlands.</p>
             </div>
             <div class="col-md-5 offset-md-2">
-                <p class="roboto-med-14 blue mb-10">What do we mean by processing?</p>
-                <p class="roboto-reg-14">Processing is a concept from law. It is very broad concept which covers actions taken in respect to your personal data such as: collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.</p>
-                <p class="roboto-reg-14">Whenever DEGIRO carries out any processing of personal data, we do so in line with the relevant privacy regulation. </p>
+                <p class="roboto-med-14 blue mb-10">What do we mean by personal data?</p>
+                <p class="roboto-reg-14">Personal data, is any information relating to you or can be used to identify you.</p>
+                <p class="roboto-reg-14">As a client of DEGIRO you provide us with some of your personal data, this includes your name, telephone number, email address. It can also include Internet Protocol or IP addresses which in some circumstances can be used to identify you. </p>
+				<p class="roboto-reg-14">In the event that a corporate or professional party intend on becoming a client, we will also collect personal data which relates to the interested individuals of the company for example, directors, UBO, authorised representatives etc.</p>
+            </div>
+        </div>
+    </div>
+
+       <div class="container border-bottom pt-60 pb-50">
+        <div class="row pb-45">
+            <div class="col-md-5">
+                <p class="roboto-med-14 blue mb-10">What do we mean by processing? </p>
+                <p class="roboto-reg-14">				
+				Processing is a concept from law. It is very broad concept which covers actions taken in respect to your personal data such as: collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction
+				</p>
+				<p class="roboto-reg-14">
+				Whenever DEGIRO carries out any processing of personal data, we do so in line with the relevant privacy regulation.
+				</p>
+
+            </div>
+            <div class="col-md-5 offset-md-2">
+                <p class="roboto-med-14 blue mb-10">
+				How do we collect your data?
+				</p>
+                <p class="roboto-reg-14">
+				Below you will find ways in which we collect your personal data: 
+				</p>
+				<ul>
+                    <li class="roboto-reg-14">
+					When you provide information by email, via the website or WebTrader, phone, in writing, or other means. This includes for example the information you provide during the registration, signing up for further information, entering a promotion or survey.;
+					</li>
+                    <li class="roboto-reg-14">
+					When you visit our websites, we will automatically collect information including the IP address. We also collect information about your visit, this includes the full click path and mouse movement, pages you visited, searches which were made and other page interaction information.;
+					</li>
+                    <li class="roboto-reg-14">
+					It is possible that we will receive information about you from credit rating agencies, this collection is carried out in line with the Client Agreement.;
+					</li>
+					<li class="roboto-reg-14">
+					For Corporate clients we will also collect information which is publicly available in relation to the UBOs of the company.;
+					</li>
+					<li class="roboto-reg-14">
+					If you visit us in person, for security we collect images of visitors using CCTV.;
+					</li>
+                </ul>
             </div>
         </div>
     </div>
@@ -256,17 +324,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container border-bottom pt-60 pb-50">
         <div class="row pb-45">
             <div class="col-md-5">
-                <p class="roboto-med-14 blue mb-10">Why do we collect personal data? </p>
+                <p class="roboto-med-14 blue mb-10">Why do we process your personal data</p>
                 <p class="roboto-reg-14">DEGIRO collect personal data for the following reasons:</p>
                 <ul>
-                    <li class="roboto-reg-14">To comply with the law;</li>
+                    <li class="roboto-reg-14">To comply with the legal and regulatory obligations;</li>
                     <li class="roboto-reg-14">Marketing activities; and </li>
                     <li class="roboto-reg-14">Execution of contractual obligations.</li>
                 </ul>
-                <p class="roboto-reg-14">DEGIRO as an investment firm has a number of regulatory obligations which require the processing of client data; customer identification is one of the main reasons we collect and process personal data. Next to this, when people contact DEGIRO to ask for additional information or to become a client of DEGIRO, DEGIRO needs to be able to contact that client or potential client or you request us to send you our periodical newsletters. DEGIRO may also have contractual obligations which mean that they need to process the data of their clients to fulfil these obligations.</p>
-                <p class="roboto-reg-14">But rest assured, when DEGIRO process the personal data of its clients, it does so by using the minimal amount of data possible to ensure that aim is met.</p>
+                <p class="roboto-reg-14">
+				DEGIRO as an investment firm has a number of regulatory obligations which require the processing of client data; customer identification is one of the main reasons we collect and process personal data. Further to this there are additional legal and regulatory obligations we must comply with, co-operation with courts and authorised law enforcement agencies and to prevent and detect crime. Next to this, when people contact DEGIRO to ask for additional information or to become a client of DEGIRO, DEGIRO needs to be able to contact that client or potential client or you request us to send you our periodical newsletters. DEGIRO also have contractual obligations which mean that they need to process the data of their clients to fulfil these obligations.
+				</p>
+                <p class="roboto-reg-14">
+				When DEGIRO process the personal data of its clients, it does so by using the minimal amount of data possible to ensure that aim is met.
+				</p>
             </div>
-            <div class="col-md-5 offset-md-2">
+                        <div class="col-md-5 offset-md-2">
                 <p class="roboto-med-14 blue mb-10">What do we use personal data for?</p>
                 <p class="roboto-reg-14">DEGIRO may for example do the following with your personal data:</p>
                 <p class="roboto-reg-14"><i>Client acceptance</i></p>
@@ -276,7 +348,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li class="roboto-reg-14">Perform the relevant checks to ensure that you are eligible to become a client of DEGIRO.</li>
                     <li class="roboto-reg-14">Review and check your request to become our client or to change your profile.</li>
                     <li class="roboto-reg-14">Keep your details in our administration and update them when there are changes.</li>
-                    <li class="roboto-reg-14">Manage your profile(s).</li>
+                    <li class="roboto-reg-14">Manage your profile(s) including you individual risk profile; which are based on internal client acceptance policies.</li>
                 </ul>
                 <p class="roboto-reg-14"><i>Reduce risks</i></p>
                 <p class="roboto-reg-14">We share the responsibility for the safety and stability of the financial sector. We also have a responsibility to you and all our clients. We will therefore use your personal data to reduce risks.</p>
@@ -305,12 +377,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li class="roboto-reg-14">We can for example collect your searches within the website of DEGIRO to ensure that our FAQ are up to date with the information clients need. This information is anonymised, so no one is able to ascertain which client is asking the question.</li>
                     <li class="roboto-reg-14">We use anonymised data to ensure that our marketing campaigns are effective.</li>
                 </ul>
-                <p class="roboto-reg-14">If you would prefer not to receive some of this information, please feel free to contact the Service desk or unsubscribe via the button within the email. </p>
+                <p class="roboto-reg-14">If you would prefer not to receive some of this information, please feel free to contact the Service desk or unsubscribe via the button within the marketing email. </p>
                 <p class="roboto-reg-14"><i>Improve and innovate </i></p>
                 <p class="roboto-reg-14">We may also use personal data for analytical research, this allows us to find better solutions and ensure that we continue to be innovative.</p>
                 <p class="roboto-reg-14">When we are carrying out these research activities, we use the minimal data required and do this in a way where your information is either pseudonymised or anonymised.</p>
                 <p class="roboto-reg-14"><i>Google analytics</i></p>
-                <p class="roboto-reg-14">In order to ensure that the website of DEGIRO is easy to use for clients, and to assess the success of campaigns DEGIRO make use of Google Analytics. DEGIRO have signed an agreement for the use of this service and ensures that the data is anonymised as much as possible, this includes masking some of the IP address.</p>
+                <p class="roboto-reg-14">In order to ensure that the website of DEGIRO is easy to use for clients, and to assess the success of campaigns DEGIRO make use of Google Analytics. DEGIRO have signed an agreement for the use of this service and ensures that the data is anonymised as much as possible, this includes masking part of the IP address.</p>
 
             </div>
         </div>
@@ -321,7 +393,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="col-md-5">
                 <p class="roboto-med-14 blue mb-10">Who do we have personal data from?</p>
                 <p class="roboto-reg-14">We can have (some) personal data of anyone who has contact with DEGIRO. If you request additional information we will store the information which is provided during that request.</p>
-                <p class="roboto-reg-14">We are required by law to have personal information surrounding all of our clients. This information is gathered during the registration and requested when necessary. </p>
+                <p class="roboto-reg-14">We are required by law to have personal information surrounding all of our clients. This information is gathered during the registration and requested when necessary. In some cases it may be necessary for us to make use of third parties to either verify or collect information. </p>
             </div>
             <div class="col-md-5 offset-md-2">
                 <p class="roboto-med-14 blue mb-10">What personal data is collected?</p>
@@ -344,67 +416,157 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </div>
 
-
-    <div class="container border-bottom pt-60 pb-50">
+ <div class="container border-bottom pt-60 pb-50">
         <div class="row pb-45">
             <div class="col-md-5">
                 <p class="roboto-med-14 blue mb-10">Who do we share your personal information with?</p>
                 <p class="roboto-reg-14">In principle we do not share your information with others. It is possible that we may share personal data within the Group which DEGIRO is a part of. All members of the Group which DEGIRO is a part of have the same strict Privacy Policy. The police, judiciary, regulators and the tax authority can also request information from us on the grounds of law. However, we follow procedures which ensure that any sharing of information is both legitimate and proportionate. </p>
                 <p class="roboto-reg-14"><i>Service providers</i></p>
                 <p class="roboto-reg-14">In the event we use a service provider to assist DEGIRO, we will aim to inform you about the use of a third party and limit the sharing of personal information strictly to what is required for that specific assignment.</p>
-                <p class="roboto-reg-14"><i>With other companies when you ask</i></p>
+				<p class="roboto-reg-14">In the event that you make use of the Morgan Stanley Liquidity Funds, it is possible that we will need to provide them with information about who you are. In the event that this information will be provided to Morgan Stanley with the relevant safeguards in place.</p>
+                <p class="roboto-reg-14"><i>With other companies on your own request</i></p>
                 <p class="roboto-reg-14">There are times when we will only share your personal data with other companies when you specifically ask. When this is done, we will specify this in the agreement to share the information. </p>
                 <p class="roboto-reg-14"><i>Government and regulatory bodies</i></p>
                 <p class="roboto-reg-14">As an investment firm regulated within the Netherlands, there are times when we receive requests for information surrounding our clients. We are obliged under law to provide the regulators with this information. Additionally, we have legal obligations which require us to share information with governmental bodies and competent legal authorities. The data protection regulations which cover DEGIRO are also applicable to these bodies.</p>
+				<p class="roboto-reg-14">DEGIRO, in its capacity of Qualified Intermediary, may exchange information directly with the Internal Revenue Service for purpose of establishing your status as a non-US Person and, if applicable, obtaining a reduced rate of withholding.</p>
+				<p class="roboto-reg-14">DEGIRO will in specific circumstances also share information with relevant tax authorities.</p>
             </div>
             <div class="col-md-5 offset-md-2">
+                <p class="roboto-med-14 blue mb-10">How long do we store your personal data?</p>
+                <p class="roboto-reg-14">When you become a client of DEGIRO we will keep your personal data for the duration of our relationship, we have a legitimate business need to do so. Upon the end of the relationship we are required to keep this personal data for five years. We need to keep this to ensure that we can comply with legal obligations such as fighting financial crime or to settle any disputes or mount a legal defence.</p>
+            </div>
+        </div>
+    </div>
+
+     <div class="container border-bottom pt-60 pb-50">
+        <div class="row pb-45">
+			<div class="col-md-5">
                 <p class="roboto-med-14 blue mb-10">How do we protect your personal data?</p>
                 <p class="roboto-reg-14"><i>Security</i></p>
                 <p class="roboto-reg-14">We spend a lot of time and resources to ensure our systems and your personal data have the relevant security measures in place. In the case that there is a breach of our systems we will report this to the relevant authorities and ensure that our clients are aware.</p>
+				<p class="roboto-reg-14">We have appropriate technical and organisational measures in place to protect your personal data against unauthorised access including accidental loss, destruction or disclosure of your data. We place restrictions on the access of personal data, so only those employees who need to access your data can. To ensure that any new processing is justified and compliant with the law we complete data protection impact assessments and carry out monitoring of any external data processors.</p>
                 <p class="roboto-reg-14"><i>Confidentiality</i></p>
-                <p class="roboto-reg-14">Our employees have all signed a confidentiality agreement and agreed to an internal code of conduct and follow the Dutch Banker’s Oath. Further to this, only authorised personnel may view and process your personal data.</p>
+                <p class="roboto-reg-14">Our employees have all signed a confidentiality agreement and agreed to an internal code of conduct and follow the Oath of promise in the financial sector. Further to this, only authorised personnel may view and process your personal data.</p>
                 <p class="roboto-reg-14"><i>Supervision</i></p>
                 <ul>
                     <li class="roboto-reg-14">We are supervised by the Dutch Data Protection Authority (Autoriteit Persoonsgegevens) to ensure we comply with the Personal Data Protection Act.</li>
                     <li class="roboto-reg-14">DEGIRO operates under behavioural supervision of The Netherlands Authority for Financial Markets (AFM) and the prudential supervision of the Dutch Central Bank (DNB).</li>
                 </ul>
             </div>
-        </div>
-    </div>
-
-
-    <div class="container border-bottom pt-60 pb-50">
-        <div class="row pb-45">
-            <div class="col-md-5">
-                <p class="roboto-med-14 blue mb-10">Viewing, erasure, portability or modification of your personal data</p>
-                <p class="roboto-reg-14">If you want to know what personal data DEGIRO has recorded about you, it is possible to contact us to exercise your ‘Right of access’. Please contact the Service Desk of DEGIRO and they will respond with the relevant information within 4 weeks of the request. </p>
-                <p class="roboto-reg-14">If you want to modify your personal data, it is possible to contact the Service Desk of DEGIRO and they will inform you about how to modify this information. </p>
-                <p class="roboto-reg-14">We are a financial institution which have legal obligations which require us to store the data of our clients for 5 years, under Dutch law. This 5-year period begins when you terminate the client agreement. Should you request your data to be erased, we will firstly check if this is possible given the applicable legal requirements. If we have an obligation to keep this data we will inform you about this and that we are unable to erase it at this time and let you know when this will be erased. In the event it is possible to erase this data we will do so and inform you that it has been done. </p>
-                <p class="roboto-reg-14">In the event that you would like to request a restriction to your personal data being processed, please contact the Service Desk of DEGIRO who will be able to deal with this request or provide you with further information. </p>
-            </div>
             <div class="col-md-5 offset-md-2">
-                <p class="roboto-med-14 blue mb-10">Control of communication </p>
-                <p class="roboto-reg-14">Naturally we want to keep all our clients and interested parties up to date with DEGIRO and any changes we have upcoming. If you would prefer not to have these emails it is possible to change this by following the unsubscribe link at the bottom of the email. Please be aware that for some communication we are required to inform you and for these it will not be possible to unsubscribe while you are a client, this includes changes to the client agreement for example. </p>
+                <p class="roboto-med-14 blue mb-10">Is your personal data used in automated decision making?</p>
+                <p class="roboto-reg-14">
+				There are times for example when you change profile from a Basic to an Active or Trader or Day Trader that we will automatically screen your account against the information from the Bureau Krediet Registratie. Should there be an issue in providing the services of Debit Money, the Service Desk will contact you to inform you that you are unable to make use of the services Debit Money and how to proceed in this case. 
+				</p>
             </div>
         </div>
     </div>
 
-
-    <div class="container border-bottom pt-60 pb-50">
+<div class="container border-bottom pt-60 pb-50">
         <div class="row pb-45">
             <div class="col-md-5">
+                <p class="roboto-med-14 blue mb-10">Your rights</p>
+                
+				<ol type="a">
+					<li>
+					<p style="font-weight:bold;">Right of access:</p>
+					<p class="roboto-reg-14">				
+					you have the right to access any personal data which DEGIRO hold about you. We can provide a copy of this information, to request this you can contact the relevant Service Desk of DEGIRO who can provide this information after completing security. 
+					</p>
+					</li>
+					<li>
+					<p style="font-weight:bold;">Right to rectification:</p>
+					<p class="roboto-reg-14">				
+					if you find your data to be incorrect or outdated, you should contact the relevant service desk of DEGIRO to request for this data to be updated.
+					</p>
+					</li>
+					<li>
+					<p style="font-weight:bold;">Complaints:</p>
+					<p class="roboto-reg-14">				
+					If you have complaints about the processing of your personal data, please get in touch either with the relevant service desk of DEGIRO or by contacting the Data Protection Officer via 
+					<a href="mailto:privacy@degiro.nl">privacy@degiro.ie</a>
+					</p>
+					</li>
+					<li>
+					<p style="font-weight:bold;">Autoriteit Persoonsgegevens:</p>
+					<p class="roboto-reg-14">				
+					Under GDPR you have the right to complain about our processing of your personal data to the autoriteit Persoonsgegevens.
+					</p>
+					</li>
+				</ol>
+				<p class="roboto-reg-14">
+				Under GDPR you have some other rights which may be possible in specific circumstances:
+				</p>
+				<ol type="a">
+					<li>
+					<p style="font-weight:bold;">Right to Erasure:</p>
+					<p class="roboto-reg-14">				
+					in certain circumstances it is possible for us to delete some of or all the personal data we hold for you. 
+					</p>
+					</li>
+					<li>
+					<p style="font-weight:bold;">Right to restriction of processing:</p>
+					<p class="roboto-reg-14">				
+					You can ask for DEGIRO to restrict the way your personal data is processed.
+					</p>
+					</li>
+					<li>
+					<p style="font-weight:bold;">Right to data portability:</p>
+					<p class="roboto-reg-14">				
+					It is possible to request for your data to be provided to you for to be sent to a third party. 
+					</p>
+					</li>
+					<li>
+					<p style="font-weight:bold;">Right to object:</p>
+					<p class="roboto-reg-14">				
+					You have the right to object to the processing of your personal data when this processing is done on the basis of legitimate interest.
+					</p>
+					</li>
+					<li>
+					<p style="font-weight:bold;">Right to stop marketing:</p>
+					<p class="roboto-reg-14">				
+					it is possible to stop using your personal data for direct-marketing purposes. This can be done via the unsubscribe button in the marketing emails or by contacting the relevant Service Desk. Please be aware that for some communication we are required to inform you and for these it will not be possible to unsubscribe while you are a client, this includes changes to the client agreement for example.
+					</p>
+					</li>
+				</ol>
+				<p class="roboto-reg-14">
+				Furthermore, in the event that consent was required for the processing of your personal data, you have the right to withdraw your consent as given regarding your data at any time.
+				</p>
+				<p class="roboto-reg-14">
+				The above requests will be considered by DEGIRO and responded to within a reasonable period. Please be aware that some of these requests might not be granted, for instance in cases where these would result in DEGIRO failing to meet a legal requirement or the ability to exercise or defend a legal claim. 
+				</p>
+            </div>
+			<div class="col-md-5 offset-md-2">
                 <p class="roboto-med-14 blue mb-10">Our view on privacy</p>
-                <p class="roboto-reg-14">At DEGIRO, our clients trust is fundamental to our relationship. We therefore strive to ensure that our clients have faith in the way we deal with their personal data. We take great care in ensuring that your data is safe and only processed when authorised to do so. </p>
-                <p class="roboto-reg-14">Our privacy policy is updated regularly, as law and regulations are continuously subjected to change, we will review the policy to ensure that it is kept up to date. </p>
+                <p class="roboto-reg-14">
+				At DEGIRO, our clients trust is fundamental to our relationship. We therefore strive to ensure that our clients have faith in the way we deal with their personal data. We take great care in ensuring that your data is safe and only processed when authorised to do so. 
+				</p>
+				 <p class="roboto-reg-14">
+				When we process your personal data, we always make sure that it is essential for us to do this. When possible, we will anonymise your personal data or when this is not possible, we will only use the data which is strictly necessary. For processing your personal data, we will also ensure that the concept of ‘privacy by design’ is at the heart of our development. 
+				</p>
+				 <p class="roboto-reg-14">
+				Our privacy policy is updated regularly, as law and regulations are continuously subjected to change, we will review the policy to ensure that it is kept up to date.
+				</p>
             </div>
-            <div class="col-md-5 offset-md-2">
-                <p class="roboto-med-14 blue mb-10">Questions about privacy </p>
-                <p class="roboto-reg-14">In the event you have some additional questions in relation to privacy or your personal data you can contact the service desk of DEGIRO where they will answer all questions.</p>
-                <p class="roboto-reg-14">In the event that you wish to complain about the way we have handled your personal data please contact the data protection officer via <a href="mailto:privacy@degiro.co.uk">privacy@degiro.co.uk</a>. Please note when contacting the data protection officer this communication will be answered in Dutch or English. The DPO will then look into your complaint and work towards a resolution.</p>
-                <p class="roboto-reg-14">If you still feel that your personal data has not been handled appropriately according to the law, you can contact Autoriteit Persoonsgegevens and file a complaint with them.</p>
+		</div>
+	</div>
+
+<div class="container border-bottom pt-60 pb-50">
+        <div class="row pb-45">
+            <div class="col-md-5">
+                <p class="roboto-med-14 blue mb-10">Questions about privacy</p>
+                <p class="roboto-reg-14">
+				In the event you have some additional questions in relation to privacy or your personal data you can contact the service desk of DEGIRO where they will answer all questions. 
+				</p>
+				<p class="roboto-reg-14">
+				In the event that you wish to complain about the way we have handled your personal data please contact the data protection officer via <a href="mailto:privacy@degiro.nl">privacy@degiro.ie</a>. Please note when contacting the data protection officer this communication will be answered in Dutch or English. The DPO will then look into your complaint and work towards a resolution. 
+				</p>
+				<p class="roboto-reg-14">
+				If you still feel that your personal data has not been handled appropriately according to the law, you can contact Autoriteit Persoonsgegevens and file a complaint with them.
+				</p>
             </div>
         </div>
-    </div>
+    </div> 
 
 
 
@@ -517,7 +679,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </div>
 
-
+<div class="p-3 text-center border-top">
+   <p class="roboto-reg-16 mb-0 hidden-sm-down"><span class="alte">Note:</span> Investing involves risks. You can lose (a part of) your deposit. We advise you to only invest in financial products which match your knowledge and experience.</p>
+   <p class="roboto-reg-14 mb-0 hidden-md-up"><span class="alte">Note:</span><br> Investing involves risks. You can lose (a part of) your deposit. We advise you to only invest in financial products which match your knowledge and experience.</p>
+</div>
 
     <div class="container-fluid cookie-policy-bottom hide bg-brand-dark white min-h-40">
         <div id="cookie-notification" class="row justify-content-center align-items-center roboto-reg-12 p-1">
@@ -590,6 +755,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <li><a href="fees/" class="link-dark-bg-2">Compare Fees</a></li>
                                 <li><a href="products-and-markets.html" class="link-dark-bg-2">Products &amp; Markets</a></li>
                                 <li><a href="https://trader.degiro.nl/login/uk#/login" class="link-dark-bg-2">Login</a></li>
+                                <li><a href="https://www.degiro.co.uk/trading-platform/mobile-app.html" class="link-dark-bg-2">Mobile app</a></li>
                             </ul>
                         </div>
 
@@ -633,7 +799,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="clearfix mb-2 footer-logos border-bottom-dark pb-30">
 
                         <img class="footer-secure-global-logo mr-2" src="/assets/dg-2017/imgs/_svg/global-sign-secure-logo-grey.svg" alt="Secure Global Sign">
-                        <a href="https://www.sofort.com" target="_blank"> <img class="footer-sofort-logo mr-30" src="/assets/dg-2017/imgs/sofort-new-logo.png" alt="Sfort"></a>
+                       
                  
 
                         <div class="apps-download">
@@ -657,7 +823,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                 <div class="col-lg-6 push-lg-6 col-md-12 col-sm-12 col-xs-12 text-lg-right text-md-left roboto-reg-14 pb-30">
 
-                    <span class="line-height-30 mr-05 white">Copyright © 2018 DEGIRO All rights reserved</span>
+                    <span class="line-height-30 mr-05 white">Copyright © 2019 DEGIRO All rights reserved</span>
 
                     <a href="privacy-and-cookies.html" class="link-white mr-05">Privacy &amp; Cookies</a>
                     <a href="disclaimer.html" class="link-white mr-05">Disclaimer</a>
@@ -730,6 +896,7 @@ DEGIRO is the first wholesale broker for private investors. An online investment
                         <li><a href="fees/" class="link-dark-bg-2">Compare fees</a></li>
                         <li><a href="products-and-markets.html" class="link-dark-bg-2">Products &amp; Markets</a></li>
                         <li><a href="https://trader.degiro.nl/login/uk#/login" class="link-dark-bg-2">Login</a></li>
+                        <li><a href="https://www.degiro.co.uk/trading-platform/mobile-app.html" class="link-dark-bg-2">Mobile app</a></li>
                     </ul>
                 </div>
             </div>
@@ -794,7 +961,7 @@ DEGIRO is the first wholesale broker for private investors. An online investment
             <div class="row d-flex justify-content-around pt-15 pb-25">
                 <!--Logos: Global sign, Sofort & Ideal-->
                  <img class="footer-secure-global-logo mr-30" src="/assets/dg-2017/imgs/_svg/global-sign-secure-logo-grey.svg" alt="Secure Global Sign">
-                <a href="https://www.sofort.com" target="_blank"> <img class="footer-sofort-logo mr-30" src="/assets/dg-2017/imgs/sofort-new-logo.png" alt="Sfort"></a>
+                
                              </div>
 
             <div class="row justify-content-center pt-15 pb-15">
@@ -808,7 +975,7 @@ DEGIRO is the first wholesale broker for private investors. An online investment
 
             <div class="row justify-content-center pb-20">
                 <!--copyright-->
-                <p class="roboto-reg-12 line-height-30 grey-dark">Copyright © 2018 DEGIRO All rights reserved</p>
+                <p class="roboto-reg-12 line-height-30 grey-dark">Copyright © 2019 DEGIRO All rights reserved</p>
 <p class="roboto-reg-12 mt-3 grey-dark">To read the original English text, please see: <a href="https://www.degiro.ie/">www.degiro.ie</a>.</p>
             </div>
 
@@ -846,12 +1013,13 @@ var google_remarketing_only = true;
 <script type="text/javascript" src="/assets/dg-2017/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/assets/dg-2017/js/aos.js"></script>
 <script type="text/javascript" src="/assets/dg-2017/js/multislider.min.js"></script>
-<script type="text/javascript" src="/assets/dg-2017/js/custom.min.js?v17"></script>
-<script type="text/javascript" src="/assets/dg-2017/js/custom-page-uk.min.js?v47"></script>
+<script type="text/javascript" src="/assets/dg-2017/js/OwlCarousel/owl.carousel.min.js"></script>
+<script type="text/javascript" src="/assets/dg-2017/js/custom.min.js?v18"></script>
+<script type="text/javascript" src="/assets/dg-2017/js/custom-page-uk.min.js?v55"></script>
 
 <script type="text/javascript" src="/assets/dg-2017/js/Chart.bundle.js"></script>
 <script type="text/javascript" src="/assets/dg-2017/js/Charts.utils.min.js?v=1"></script>
-<script type="text/javascript" src="/assets/dg-2017/js/calculator-chart-functions-uk.min.js?v92"></script>
+<script type="text/javascript" src="/assets/dg-2017/js/calculator-chart-functions-uk.min.js?v94"></script>
 
 
 
