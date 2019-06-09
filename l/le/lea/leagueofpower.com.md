@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the leagueofpower.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515125655id_/http%3A//www.leagueofpower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueofpower.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609033926id_/https%3A//www.leagueofpower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – League of Power
 
-**Website Terms Conditions & Privacy Policy**
+**Website Terms Conditions & Privacy Policy (Last Updated May 2018)  
+**
 
 The following Privacy Policy governs the online information collection practices of leagueofpower.com. (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using www.leagueofpower.com or its subdomains (collectively, the “Site”) , and the ways in which we use this information. If you do not agree with the policy herein, do not use the Site or submit personal information to us. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
@@ -62,7 +63,7 @@ All of the emails that are sent to you by us or our marketing partners include a
 
 Our return policies are to be used on initial orders of a specific product only.If you have previously ordered a product or service that you received a refund for and decide at a later date you wish to re-order that same product and service, you will not be covered by the refund policy the second time you order the same item.
 
-All packages that are returned should be sent with delivery confirmation for your records. Should you have any questions, please contact our [customer service](http://www.leagueofpower.com/contact-us/).
+All packages that are returned should be sent with delivery confirmation for your records. Should you have any questions, please contact our [customer service](https://www.leagueofpower.com/contact-us/).
 
 **Shipping & Handling Charges**  
 LOP may charge shipping and handling on some of our products, these charges are hard costs and are non-refundable unless otherwise stated on the order form.
@@ -70,6 +71,14 @@ LOP may charge shipping and handling on some of our products, these charges are 
 **Anti-Spam Policy  
 **  
 Strictly stated: We dislike spam just as much as you do and we do not condone it. If you would like to unsubscribe from our email list, simply contact us or use the opt out links on our website.
+
+**General Data Privacy Regulation (GDPR)**
+
+The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union citizens.
+
+As a company that markets its site. Content, products and/or services on line we do not specifically target our marketing to the EU or conduct business in or to the EU in any meaningful way. If the data that you provide to us in the course of your use of our site or services or products is governed by GDPR, we will abide by the relevant portions of the regulation.If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.”
+
+To make any of these requests, please contact our GDPR contact at: [gdpr@leagueofpower.com](mailto:gdpr@leagueofpower.com)
 
 **Disclaimer**
 
