@@ -1,21 +1,41 @@
-<!--The following is the downloaded HTML source of the flowplayer.com privacy policy that was archived on 2018-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181129122230id_/https%3A//flowplayer.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flowplayer.com privacy policy that was archived on 2019-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190609193942id_/https%3A//flowplayer.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
 <meta charset="utf-8">
 <title>Privacy Policy</title>
 <meta name="description" content="Flowplayer: Online video that works.">
-<link rel="icon" type="image/png" href="/apple-icon.png">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+
+
+
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5T59DWT"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5T59DWT');</script>
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/user/themes/n/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/user/themes/n/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/user/themes/n/favicon/favicon-16x16.png">
+<link rel="manifest" href="/user/themes/n/favicon/site.webmanifest">
+<link rel="mask-icon" href="/user/themes/n/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/user/themes/n/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="msapplication-config" content="/user/themes/n/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
 <!-- meta -->
   <meta property="og:url" content="http://flowplayer.com/privacy-policy">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Flowplayer | Privacy Policy">
 <meta property="og:description" content="Flowplayer: Online video that works.">
 <meta property="og:image" content="https://flowplayer.com/images/flowplayer-logo.png">
+<meta property="og:image:secure_url" content="https://flowplayer.com/images/flowplayer-logo.png">
 <meta name="twitter:image" content="https://flowplayer.com/images/flowplayer-logo.png">
 <meta name="twitter:title" content="Privacy Policy | Flowplayer">
 <meta name="twitter:card" content="summary_large_image">
@@ -30,12 +50,13 @@
 <link rel="preconnect" href="https://www.google-analytics.com">
 
 <!-- Schema -->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Organization",
   "name": "Flowplayer",
   "url": "https://flowplayer.com/",
+  "logo": "https://flowplayer.com/images/logo.png",
   "sameAs": [
     "https://www.facebook.com/flowplayer/",
     "https://twitter.com/flowplayer",
@@ -71,9 +92,8 @@
       "addressRegion": "Helsinki",
       "postalCode": "00530",
       "addressCountry": "Finland"
-    },
-  ],
-  "logo": "https://flowplayer.com/images/logo.png"
+    }
+  ]
 }
 </script>
 
@@ -84,26 +104,24 @@
 <link href="/user/themes/n/css/pages/legal.css" type="text/css" rel="stylesheet">
 
 
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+</head>
 
-<body>
+<body class="pagebody   is-prod">
 
-<div id="teaser" class="closeable" key="/foo">
-  <i class="fa fa-exclamation-circle"></i>
-  <span>New player, new analytics, and better live streaming</span>
-  <a href="/blog/major-product-update">Explore new features</a>
-  <span class="close">×</span>
-</div>
+
 
 <header id="header" class="section wide top">
 
   <div class="wrap">
     <a href="/">
-      <img title="Flowplayer logo" alt="Flowplayer logo in blue" class="logo" src="/user/pages/images/logo-blue.png">
+      <img class="logo logo-petrol" src="/user/pages/images/logo-blue.png">
+      <img class="logo logo-white hidden" src="/user/pages/images/logo-white.png">
     </a>
 
     <nav class="center nowrap">
-      <a href="/features">Features</a>
+      <span id="nav_search"></span>
+      <a href="/features?a" id="feat-trigger">Features</a>
+      <a href="/demos">Demos</a>
       <a href="/help">Help</a>
       <a href="/blog">Blog</a>
       <a href="/pricing">Pricing</a>
@@ -120,6 +138,47 @@
 
 </header>
 
+
+<!-- features -->
+<nav id="feat-drop">
+  <a href="/features"><img src="/images/icons/svg/videos.svg"><span>Video platform</span></a>
+  <a href="/features/player"><img src="/images/icons/svg/players.svg"><span>Video player</span></a>
+  <a href="/features/live-streaming"><img src="/images/icons/svg/streaming.svg"><span>Live-streaming</span></a>
+  <a href="/features/advertising"><img src="/images/icons/svg/advertising.svg"><span>Monetization</span></a>
+  <a href="/features/analytics"><img src="/images/icons/svg/analytics.svg"><span>Analytics</span></a>
+</nav>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+
+    /// feature dropdown
+    $('#feat-trigger').forEach(function(el) {
+      var panel = $('#feat-drop')[0]
+
+      function close() {
+        panel.classList.remove('is-active')
+      }
+
+      el.onmouseenter = function() {
+        panel.style.left = (el.offsetLeft - panel.offsetWidth/2 + el.offsetWidth/2) + 'px'
+        panel.classList.add('is-active')
+      }
+
+      el.onmouseleave = function(e) {
+        if (e.relatedTarget != panel) close()
+      }
+
+      panel.onmouseleave = function(e) {
+        if (e.relatedTarget != el) close()
+      }
+
+      if (location.pathname.startsWith('/features')) el.classList.add('selected')
+
+    })
+
+  })
+</script>
 <main>
 <section class="section top wide left-sidebar">
 
@@ -206,7 +265,7 @@
 Mäster Samuelsgatan 36
 111 57, STOCKHOLM, SWEDEN</p>
 
-      <div id="gh-edit"><a target="_new" class="continue action hidden"></a></div>
+      <div id="gh-edit"><a target="_new" class="continue action"></a></div>
     </section>
 
   </article>
@@ -221,6 +280,7 @@ Mäster Samuelsgatan 36
       <p><img class="logo" src="/images/logo-blue.png"></p>
       <nav>
         <a href="/features">Features</a>
+        <a href="/demos">Demos</a>
         <a href="/pricing">Pricing</a>
         <a href="/help">Help</a>
         <a href="/about">About</a>
@@ -229,6 +289,7 @@ Mäster Samuelsgatan 36
         <a href="/blog">Blog</a>
         <a href="/partners">Partners</a>
         <a href="/contact">Contact us</a>
+        <a href="/media-kit">Media kit</a>
       </nav>
     </section>
 
@@ -251,7 +312,7 @@ Mäster Samuelsgatan 36
 <!-- bottom -->
 <footer id="bottom" class="section dark flex">
   <article class="wrap layout-21">
-    <section>Copyright © 2018 • Flowplayer AB. • <a href="/legal/">Legal</a></section>
+    <section>Copyright © 2019 • Flowplayer AB. • <a href="/legal/">Legal</a></section>
     <section>
        <a href="https://www.facebook.com/flowplayer" class="action facebook">
           <b class="icon-facebook">42,000+ fans</b> on Facebook </a>
@@ -275,18 +336,25 @@ Mäster Samuelsgatan 36
     </a>
 
     <nav>
-      <a href="/features">Features</a>
-      <a href="/help">Help</a>
-      <a href="/blog">Blog</a>
-      <a href="/partners">Partners</a>
-      <a href="/about">About</a>
-      <a href="/pricing">Pricing</a>
+      <a href="/features">Video platform</a>
+      <a href="/features/player">Video player</a>
+      <a href="/features/live-streaming">Live-streaming</a>
+      <a href="/features/advertising">Monetization</a>
+      <a href="/features/analytics">Analytics</a>
 
       <div class="smaller">
+        <a href="/demos">Demos</a>
+        <a href="/help">Help</a>
+        <a href="/blog">Blog</a>
+        <a href="/pricing">Pricing</a>
+        <a href="/about">About</a>
+        <a href="/partners">Partners</a>
+        <a href="/media-kit">Media kit</a>
         <a href="/contact">Contact us</a>
         <a href="/login" class="account-login">Log in</a>
       </div>
     </nav>
+
   </section>
 
 </div>
@@ -303,7 +371,7 @@ Mäster Samuelsgatan 36
 </script>
 
 
-<script src="/user/themes/n/js/app.js"></script>
+<script src="/user/themes/n/js/app.js?a"></script>
 
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -318,33 +386,69 @@ ga('send', 'pageview');
 
 
 
-<!--
-<script>
-  adroll_adv_id = 'DVW4FAMCAJD6PDHQ22AJKH'
-  adroll_pix_id = 'HD2T2RLMQNH3DJ5ACG43GG'
-</script>
-<script src="//s.adroll.com/j/roundtrip.js" defer></script>
--->
-<script type="text/javascript">
-   adroll_adv_id = "DVW4FAMCAJD6PDHQ22AJKH";
-   adroll_pix_id = "HD2T2RLMQNH3DJ5ACG43GG";
+<div id="search_overlay">
+  <article class="panel">
+    <header>
+      <form action="/search"><input name="q" placeholder="Search Flowplayer..."></form>
+      <span class="close">×</span>
+    </header>
 
-   (function () {
-       var _onload = function(){
-           if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
-           if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
-           var scr = document.createElement("script");
-           var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-           scr.setAttribute('async', 'true');
-           scr.type = "text/javascript";
-           scr.src = host + "/j/roundtrip.js";
-           ((document.getElementsByTagName('head') || [null])[0] ||
-               document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-       };
-       if (window.addEventListener) {window.addEventListener('load', _onload, false);}
-       else {window.attachEvent('onload', _onload)}
-   }());
+    <section class="suggestions">
+      <h6>Popular searches</h6>
+      <p>Live streaming</p>
+      <p>Live analytics</p>
+      <p>Ad scheduling</p>
+      <p>Monetization</p>
+    </section>
+
+  </article>
+</div>
+
+<script>
+$('#nav_search').forEach(function(link) {
+
+  var root = search_overlay
+
+  function toggle(flag) {
+    root.classList.toggle('is-active', !!flag)
+  }
+
+  function loading() {
+    $('.panel', root)[0].classList.add('loading')
+  }
+
+  $('form', root)[0].onsubmit = loading
+
+  // open
+  link.onclick = function() {
+    toggle(true)
+    setTimeout(function() {
+      var input = $('input', root)[0]
+      input.focus()
+    }, 10)
+  }
+
+  // close
+  $('.close', root)[0].onclick = function() { toggle() }
+
+  // suggestions
+  $('.suggestions p', root).forEach(function(el) {
+    el.onclick = function() {
+      loading()
+      location.href = '/search?q=' + el.textContent
+    }
+  })
+
+  // esc key
+  window.addEventListener('keyup', function(e) {
+    if (e.which == 27) toggle()
+  })
+
+})
 </script>
+
+
+
 
 
 </body></html>
