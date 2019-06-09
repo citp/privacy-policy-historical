@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qct.io privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925173802id_/https%3A//www.qct.io/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qct.io privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609232851id_/http%3A//www.qct.io/policy/privacy_policy) for the most accurate reproduction.*
 
 # Quanta Cloud Technology
 
@@ -61,4 +61,4 @@ We may modify this privacy policy at any time. Changes and clarifications will t
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Email us through the “[Contact QCT](https://www.qct.io/?route=information/contact)” page on the QCT website.
+Email us through the “[Contact QCT](http://www.qct.io/?route=information/contact)” page on the QCT website.
