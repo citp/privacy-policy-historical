@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dooce.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325071101id_/http%3A//dooce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dooce.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609063938id_/https%3A//dooce.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | dooce®
+# dooce® | Privacy Policy
 
 Armstrong Media, LLC websites, including dooce.com, and others (“dooce”) are governed by the following privacy policy.
 
