@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klab.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016200334id_/http%3A//www.klab.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klab.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609113449id_/https%3A//www.klab.com/privacypolicy) for the most accurate reproduction.*
 
 # KLab Global | Privacy Policy
 
