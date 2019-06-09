@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the migrations-sante.eu privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005180215id_/http%3A//www.migrations-sante.eu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migrations-sante.eu privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609082326id_/http%3A//www.migrations-sante.eu/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
