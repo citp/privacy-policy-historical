@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227142423id_/https%3A//www.rocketlawyer.com/privacy.rl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketlawyer.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609103019id_/https%3A//www.rocketlawyer.com/privacy.rl) for the most accurate reproduction.*
 
 # Rocket Lawyer Privacy Policy
 
