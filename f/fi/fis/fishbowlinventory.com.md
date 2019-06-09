@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106174857id_/http%3A//www.fishbowlinventory.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609084339id_/https%3A//www.fishbowlinventory.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Fishbowl
 
@@ -6,7 +6,7 @@
 
 **1\. Site covered by this Privacy Statement**
 
-This Privacy Statement applies to the http://www.fishbowlinventory.com and http://www.fishbowlpipeline.com domains.
+This Privacy Statement applies to the http://www.fishbowlinventory.com domain.
 
 **Links to non-Fishbowl websites**
 
