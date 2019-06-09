@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theeventchronicle.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229040007id_/http%3A//www.theeventchronicle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeventchronicle.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609035317id_/http%3A//www.theeventchronicle.com/privacy) for the most accurate reproduction.*
 
 # Privacy » The Event Chronicle
 
 ## Privacy Policy
 
-This Privacy Policy governs the manner in which The Event 2014 collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.theeventchronicle.com](http://www.theeventchronicle.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Event 2014.
+This Privacy Policy governs the manner in which The Event Chronicle collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.theeventchronicle.com](http://www.theeventchronicle.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Event Chronicle.
 
 **Personal identification information**
 
@@ -20,7 +20,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-The Event Handbook may collect and use Users personal information for the following purposes:
+The Event Chronicle may collect and use Users personal information for the following purposes:
 
   * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
@@ -53,7 +53,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 **Changes to this privacy policy**
 
-The Event 2014 has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+The Event Chronicle has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
