@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the compojoom.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811221310id_/https%3A//compojoom.com/privacy-policy-imprint) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compojoom.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609093911id_/https%3A//compojoom.com/about/privacy-imprint) for the most accurate reproduction.*
 
-# Privacy Policy/Imprint
+# Privacy Policy / Imprint || Quality made in Germany - compojoom.com
 
 Our postal address is:
 
@@ -8,7 +8,8 @@ Our postal address is:
 >  Mühltalstraße 18, 69221 Dossenheim  
 > Germany**  
 >  **TAX NUMBER:** DE278618491  
->  **tel** : +4917663398762
+>  **tel** : +4917663398762  
+>  **email:** [daniel@compojoom.com](mailto:daniel@compojoom.com)
 
 Our legal address is:
 
@@ -16,7 +17,7 @@ Our legal address is:
 >  Mühltalstrasse. 18, 69221 Dossenheim  
 >  Germany**
 
-There are  several ways to contact us electronically. For more information please go [here](https://compojoom.com/about/contact-us "e-mail form"). 
+There are  several ways to contact us electronically. For more information please go [here](https://compojoom.com/pre-contact-us "e-mail form"). 
 
 We are committed to maintaining your privacy as you use these sites. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage.
 
@@ -84,11 +85,22 @@ From time to time, we may use user information for new, unanticipated uses not p
 © sdecoret - Fotolia.com  
 © XtravaganT - Fotolia.com  
 © Andy - Fotolia.com  
-© white - Fotolia.com
+© white - Fotolia.com  
+© Scanrail - Fotolia.com  
+© venimo - Fotolia.com  
+© Julien Eichinger - Fotolia.com  
+© jd-photodesign - Fotolia.com  
+© kaktus2536 - Fotolia.com  
+© Matthias Enter - Fotolia.com  
+© gena96 - Fotolia.com  
+© saicle - Fotolia.com  
+© sdecoret - Fotolia.com  
+© dominikhladik  \- 123RF Stock Foto  
+© scanrail - 123RF Stock Foto
 
 ## Questions or comments
 
-If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please [contact us](https://compojoom.com/about/contact-us) .
+If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please [contact us](https://compojoom.com/pre-contact-us) .
 
 **  
 Sophienstr. 46**
