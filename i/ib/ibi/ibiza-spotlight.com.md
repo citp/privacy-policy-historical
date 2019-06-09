@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibiza-spotlight.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921054500id_/https%3A//www.ibiza-spotlight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibiza-spotlight.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609122417id_/https%3A//www.ibiza-spotlight.com/privacy) for the most accurate reproduction.*
 
 # Ibiza Spotlight Privacy Policy | Ibiza Spotlight
 
@@ -7,7 +7,7 @@ Avenida Dr. Fleming, 35
 San Antonio, Baleares 07820  
 España
 
-You may contact us using the [contact form on this page](https://www.ibiza-spotlight.com/contact-us). Or you may call us at +34 971 34667, Monday to Friday, during office hours.
+You may contact us via the following [e-mail account](mailto:gdpr@ibiza-spotlight.com?subject=Data%20Protection%20Enquiry). Or you may call us at +34 971 346671, Monday to Friday, during office hours.
 
 PERSONAL DATA PROTECTION INFO: According to the General Data Protection Regulation (UE) 2016/679, regarding your personal data management, we inform you: Data Controller: IBIZA SPOTLIGHT S.L, Avenida Dr. Fleming Nº35, 07820, Sant Antoni de Portmany(ILLES BALEARS). Purpose: Sending info and answering your questions and inquiries as long our relationship is going on and we have your consent. Lawful basis for processing: Performance of a contract or data subject's consent. Data disclosure. Your personal data will not be disclosed unless forced by law. Rights. You have right of access, right to rectification, right to erasure and data portability, and right to restriction of processing, writing a letter accompanied by a copy of an official document evidencing your identity to the Data Controller. You have also the right to logde a complaint with a Supervisory Authority (Spanish Supervisory Authority is Agencia Española de Protección de Datos). More info. Please visit the legal notice (Aviso Legal) in our website.
 
@@ -56,4 +56,4 @@ This type of information is deemed non-identifiable. This means that there is no
 
 We have the following dispute resolution mechanisms.
 
-Ibiza Spotlight complies with the Organic Law 15/1999 from 13th of December regarding Personal Data Protection, as confirmed by the Spanish Data Protection Agency. All disputes regarding the access to and storing of personal user information will be handled by our office. You may contact us using the [contact form on this page](https://www.ibiza-spotlight.com/contact-us).
+Ibiza Spotlight complies with the Organic Law 15/1999 from 13th of December regarding Personal Data Protection, as confirmed by the Spanish Data Protection Agency. All disputes regarding the access to and storing of personal user information will be handled by our office. You may contact us via the following [e-mail account](mailto:gdpr@ibiza-spotlight.com?subject=Data%20Protection%20Enquiry).
