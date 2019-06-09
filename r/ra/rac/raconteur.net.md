@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the raconteur.net privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230193642id_/https%3A//www.raconteur.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raconteur.net privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609115636id_/https%3A//www.raconteur.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Raconteur
 
 **1\. Introduction**
 
-This is our privacy policy. It tells you how we collect and process data received from you on our site. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This is our privacy policy. It covers raconteur.net and its associated subdomains. It tells you how we collect and process data received from you on our site. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 If you have any comments on this privacy policy, please email them to contact@raconteur.net
 
@@ -14,7 +14,7 @@ Here are the details that the Regulation (EU) 2016/679 of the European Parliamen
 
 • Our site address is [https://www.raconteur.net](https://www.raconteur.net/)  
 • Our company name is Raconteur Media Ltd.  
-• Our registered address is: Raconteur Media Ltd, 6th Floor, 38-40 Commercial Road, London, E1 1LN
+• Our registered address is: Raconteur Media Ltd, 2nd Floor, Portsoken House, 155-157 Minories, London, EC3N 1LJ
 
  **3\. What we may  collect**
 
