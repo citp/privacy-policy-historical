@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bargello.com privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231025543id_/http%3A//www.bargello.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bargello.com privacy policy that was archived on 2019-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190609072759id_/http%3A//bargello.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -289,23 +289,33 @@
 </center>
 </div>
 </div>
+<br>
+<br>
 <!-- Footer Ends here -->
 
 <!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.12&amp;autoLogAppEvents=1"></script><script>(function(d, s, id) {
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js"></script><script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : 'v3.2'
+    });
+  };
+
+  (function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <!-- Your customer chat code -->
-<div class="fb-customerchat" page_id="736162246424209" theme_color="#8383C0">
+<div class="fb-customerchat" attribution="setup_tool" page_id="736162246424209">
 </div>
-<!-- /Load Facebook SDK for JavaScript -->
 
+<!-- /Load Facebook SDK for JavaScript -->
 
 <!-- Start Google Analytics code -->
 <script>
