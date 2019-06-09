@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingokids.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223164039id_/https%3A//www.lingokids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingokids.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609151405id_/https%3A//www.lingokids.com/privacy) for the most accurate reproduction.*
 
 # English for Kids - Lingokids - The natural way to learn English
 
@@ -59,7 +59,9 @@ We also collect information, such as anonymous usage statistics, by using cookie
 
 **D. Customer Support.** We collect all information that you provide to us, including any Personal Information, when you contact us for customer support purposes. 
 
-**E. Cookies, Automatic Data Collection, and Related Technologies.** As you navigate through and interact with our website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including: 
+**D. Location Data.** Once you register to the Lingokids app we may collect and process information about your location. This location information is being collected based on your IP address and is restricted to the name of your city. Lingokids is not using other technologies to determine your location (we do not use GPS, or other sensors). We do not collect location information about your exact whereabouts (i.e. name of the street or accurate address). When we have location information, we may use it to optimize our Services for you and others, allowing us to customize our website, understand and improve the services and develop new products, services or features. 
+
+**F. Cookies, Automatic Data Collection, and Related Technologies.** As you navigate through and interact with our website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including: 
 
   * Details of your visits to our website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the website. 
   * Information about your computer and internet connection, including your IP address, operating system, and browser type. 
@@ -91,7 +93,7 @@ You can set your browser to refuse all or some browser cookies, or to alert you 
 
 We use information collected from you to: 
 
-Provide, administer, and facilitate your use of our Services, including to display customized content; process or fulfill your request(s) and/or order(s) for products, services, information or features; communicate with you concerning your account by: 
+Provide, administer, and facilitate your use of our Services, including to display customized content; process or fulfill your request(s) and/or order(s) for products, services, information or features; display consumer surveys, communicate with you concerning your account by: 
 
 Responding to your questions or concerns;
 
@@ -129,11 +131,11 @@ Information collected from Child Users is never used to market to Child Users. S
 
 ###  3\. When We Disclose Information to Third Parties 
 
-We will share your information which may include registration information, profile information, and shared content with the following third parties or under the following circumstances or as otherwise described in this Privacy Policy: 
+We will share your information which may include registration information, profile information, shared content and location information with the following third parties or under the following circumstances or as otherwise described in this Privacy Policy: 
 
 **Online Forums.** If you post information in a Company forum, that information may be viewed by any Site Visitor or Registered User who accesses the forum. 
 
-**Third Party Business Partners, Service Providers, Contractors or Agents.** We may share your information with third party companies that perform services on our behalf, including for payment processing, order fulfillment, video conferencing, scheduling, data analysis, marketing services, advertising services (including but not limited to retargeted advertising), e-mail and hosting services, and customer services and support. We may also share your information with third party companies that we partner with to provide certain services to you in connection with the Services. Those partners’ collection and use of information is subject to their privacy policies and other terms. You should review such privacy policies, terms, and other agreements. 
+**Third Party Business Partners, Service Providers, Contractors or Agents.** We may share your information with third party companies that perform services on our behalf, including for payment processing, order fulfillment, video conferencing, scheduling, data analysis, marketing services, advertising services (including but not limited to retargeted advertising), e-mail and hosting services, services that process and administer consumer surveys, and customer services and support. We may also share your information with third party companies that we partner with to provide certain services to you in connection with the Services. Those partners’ collection and use of information is subject to their privacy policies and other terms. You should review such privacy policies, terms, and other agreements. 
 
 **Analytics and Data Enrichment Services.** We use third-party analytics to help understand your usage of our Services and to improve our Services. We may provide your contact information, registration information, technical information, usage data, or de-identified data or to data enrichment services, which match such information with publicly available database information, including contact and social information from other sources, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses. We use this combined information to communicate with you in a more effective and customized manner. 
 
