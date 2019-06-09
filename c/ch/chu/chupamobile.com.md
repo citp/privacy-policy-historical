@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chupamobile.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830014217id_/http%3A//www.chupamobile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chupamobile.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609175113id_/http%3A//www.chupamobile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,8 @@ We may collect the following information:
 For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
 We DO NOT store Credit Card information. 
+
+For further informations on the Privacy notice, click here: [Privacy Policy](https://www.iubenda.com/privacy-policy/42830957)
 
 ## What we do with the information we gather
 
