@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epcrugby.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824155321id_/https%3A//www.epcrugby.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epcrugby.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609142508id_/https%3A//www.epcrugby.com/legal) for the most accurate reproduction.*
 
 # European Professional Club Rugby | Legal Notice & Privacy Policy
 
