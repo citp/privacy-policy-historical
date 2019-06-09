@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhps.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124125517id_/http%3A//www.mhps.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhps.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609132843id_/https%3A//www.mhps.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | MITSUBISHIHITACHI POWER SYSTEMS, LTD.
 
@@ -23,7 +23,7 @@ MHPS will comply with the Act on the Protection of Personal Information and othe
 
 Established: May 30, 2017  
 Mitsubishi Hitachi Power Systems, Ltd.  
-Kenji Ando, President
+Ken Kawai, President
 
 For information regarding the business purposes, the practical handling method of personal information by MHPS, refer to the following:
 
@@ -95,7 +95,7 @@ Personal Information Advice Office
 Human Resources & General Affairs Department.  
 Mitsubishi Hitachi Power Systems, Ltd.
 
-Mitsubishijuko Yokohama Bldg., 3-1, Minatomirai 3-chome, Nishi-ku, Yokohama  
+3-1, Minatomirai 3-chome, Nishi-ku, Yokohama  
 Tel: 81-45-200-9019 (General Affairs Group)
 
 For contacts about personal information to MHPS's other locations, refer to this:
