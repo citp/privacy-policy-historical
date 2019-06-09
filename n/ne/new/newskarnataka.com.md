@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newskarnataka.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004080949id_/http%3A//www.newskarnataka.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newskarnataka.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609132956id_/https%3A//www.newskarnataka.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - News karnataka
+# Privacy Policy
 
 The Newskarnataka.com Web-site ("Site") is maintained by:
 
@@ -105,7 +105,7 @@ You may reach out to us for
 
 **10 Newskarnataka.com’s Android Website or App**
 
-This Privacy Policy contains important information about Your rights and obligations in regard to the use of Newskarnataka.com’s Desktop website and Mobile Android App. This Privacy Policy sets out the manner in which Spearhead Media Pvt. Ltd (SMPL) the owner of the website http://www.newskarnataka.com/ (hereinafter called the website) and its corresponding mobile android Website or App available on the Google play store under the account of SMPL,(https://play.google.com/store/Website or Apps/details?id=com.bulletin.newskarnataka&hl=en) collects, uses, maintains and discloses information collected from the users of our desktop and mobile Application (hereinafter referred to as 'You', 'Your', 'User'). 
+This Privacy Policy contains important information about Your rights and obligations in regard to the use of Newskarnataka.com’s Desktop website and Mobile Android App. This Privacy Policy sets out the manner in which Spearhead Media Pvt. Ltd (SMPL) the owner of the website https://www.newskarnataka.com/ (hereinafter called the website) and its corresponding mobile android Website or App available on the Google play store under the account of SMPL,(https://play.google.com/store/Website or Apps/details?id=com.bulletin.newskarnataka&hl=en) collects, uses, maintains and discloses information collected from the users of our desktop and mobile Application (hereinafter referred to as 'You', 'Your', 'User'). 
 
 It also applies to the desktop Website or App software / technology which is owned by Spearhead Media Pvt. Ltd. By viewing, downloading, installing, using or by registering Your profile with the website or App, You are consenting to the use, collection, transfer, storage, disclosure and other uses of Your information in the manner set out in this Privacy
 
@@ -165,7 +165,7 @@ SMPL may collect non-personal information about you whenever you access or inter
 
 10.7 CHANGES TO THIS PRIVACY POLICY
 
-10.7.1 SMPL may update and revise this Privacy Policy from time to time. The revised Privacy Policy will be posted as notification here on this link http://www.newskarnataka.com/privacy-policy. You are encouraged to periodically check this page to stay informed about changes to this Privacy Policy. You hereby acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of the modifications. If you disagree to any of the changes to the Privacy Policy, you shall refrain from using or accessing the Website or App. Your continued use of the Website or App following the posting of the revised Policy shall indicate your acceptance and acknowledgement of the changes and you will be bound by it.
+10.7.1 SMPL may update and revise this Privacy Policy from time to time. The revised Privacy Policy will be posted as notification here on this link https://www.newskarnataka.com/privacy-policy. You are encouraged to periodically check this page to stay informed about changes to this Privacy Policy. You hereby acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of the modifications. If you disagree to any of the changes to the Privacy Policy, you shall refrain from using or accessing the Website or App. Your continued use of the Website or App following the posting of the revised Policy shall indicate your acceptance and acknowledgement of the changes and you will be bound by it.
 
 10.8 YOUR ACCEPTANCE OF THESE TERMS OF PRIVACY POLICY
 
