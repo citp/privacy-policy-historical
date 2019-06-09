@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellomusic.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206185526id_/http%3A//www.hellomusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellomusic.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609110407id_/http%3A//hellomusic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hello Music
 
@@ -48,7 +48,7 @@ How can you opt-out, remove or modify information you have provided to us?
 
 If you wish to opt-out of our promotional emails, please follow the "unsubscribe" or "adjust email preferences" links listed in the email content. (Please note that due to email production schedules you may still receive any emails already in production during the time that you submit any changes to your email preferences).
 
-To modify or delete your online account information from our database, please [use this online form](https://web.archive.org/web/20181206185526id_/http%3A//www.hellomusic.com/content) to send us a message. Please note that we may maintain information about individual sales transactions and certain other particulars in order to service that transaction and for record keeping purposes.
+To modify or delete your online account information from our database, please [use this online form](https://web.archive.org/web/20190609110407id_/http%3A//hellomusic.com/content) to send us a message. Please note that we may maintain information about individual sales transactions and certain other particulars in order to service that transaction and for record keeping purposes.
 
 Third party links
 
@@ -68,7 +68,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Site Terms of Use](https://web.archive.org/web/20181206185526id_/http%3A//www.hellomusic.com/terms-of-use) page establishing the use, disclaimers, and limitations of liability governing the use of our website, and for subsequent purchases you may make on the site, respectively.
+Please also visit our [Site Terms of Use](https://web.archive.org/web/20190609110407id_/http%3A//hellomusic.com/terms-of-use) page establishing the use, disclaimers, and limitations of liability governing the use of our website, and for subsequent purchases you may make on the site, respectively.
 
 Your consent
 
