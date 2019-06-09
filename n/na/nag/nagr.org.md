@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the nagr.org privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927035013id_/https%3A//www.nationalgunrights.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nagr.org privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609061432id_/https%3A//nationalgunrights.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - National Association for Gun Rights
+
+## NAGR Privacy Policy
 
 **NAGR PRIVACY NOTICE**
 
-Privacy is very important to the National Association for Gun Rights (NAGR). As part of the normal operation of our services we may collect information about you. This Privacy Notice describes the information we collect about you and what may happen to that information. The privacy practices of this statement apply to the [www.nationalgunrights.org](http://www.nationalgunrights.org/), [www.nagr.org](http://www.nagr.org/), and any other web site used by the National Association for Gun Rights.
+Privacy is very important to the National Association for Gun Rights (NAGR). As part of the normal operation of our services we may collect information about you. This Privacy Notice describes the information we collect about you and what may happen to that information. The privacy practices of this statement apply to the [www.nationalgunrights.org](http://www.nationalgunrights.org/), [www.nagr.org](http://www.nagr.org/), and any other web site used by the National Association for Gun Rights.
 
 **The Information We Collect**
 
