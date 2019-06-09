@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wthitv.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008154241id_/http%3A//www.wthitv.com/content/news/451125873.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wthitv.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609051725id_/https%3A//www.wthitv.com/content/news/451125873.html) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy
 
