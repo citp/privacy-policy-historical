@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootstrapcdn.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909064620id_/https%3A//www.bootstrapcdn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootstrapcdn.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609192828id_/https%3A//www.bootstrapcdn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · BootstrapCDN by StackPath
 
