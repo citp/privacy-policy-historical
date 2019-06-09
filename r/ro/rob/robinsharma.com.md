@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922085725id_/https%3A//www.robinsharma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609125750id_/https%3A//www.robinsharma.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | Robin Sharma
+
+We at The Titan Academy (The Titan Academy Global, AG) are committed to protecting your privacy. This Privacy Policy applies to both our Website (www.robinsharma.com) and our Subscription Service (Robin Sharma Nation), owned and controlled by The Titan Academy Global. This Privacy Policy governs our data collection, processing and usage practices. It also describes your choices regarding use, access and correction of your personal information. If you do not agree with the data practices described in this Privacy Policy, you should not use the Websites or the Subscription Service. 
+
+We periodically update this Privacy Policy. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice by sending you an email notification. 
+
+While we will notify you of any material changes to this Privacy Policy, we encourage you to review this Privacy Policy periodically. We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at support@robinsharma.com or by mail to The Titan Academy Global, AG, Munzgasse 6, 6003 Luzern, Switzerland, Attn: Privacy. 
 
 The following Privacy Policy governs the online information collection practices of Titan Academy Global (“Robin Sharma” “we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using RobinSharma.com (the “Site”) or any of our other websites or publications, and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, via telephone, or through the mail). 
 
@@ -39,7 +47,7 @@ We also use Google Analytics Advertiser Features to optimize our business. Adver
 
 By enabling these Google Analytics Display features, we are required to notify our visitors by disclosing the use of these features and that we and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to gather data about your activities on our Site. Among other uses, this allows us to contact you if you begin to fill out our check-out form but abandon it before completion with an email reminding you to complete your order. The “Remarketing” feature allows us to reach people who previously visited our Site, and match the right audience with the right advertising message. 
 
-You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.robinsharma.com/#). 
+You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](https://www.robinsharma.com/#). 
 
 ## Facebook
 
@@ -65,16 +73,100 @@ This children’s privacy statement explains our practices with respect to the o
 
 
 
-## How do we store your information?
+## When You Visit our Websites
 
-Your information is stored at the list server that delivers our content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive ourmaterial. 
+You are free to explore the Websites without providing any Personal Information about yourself. When you visit the Websites or register for Robin Sharma Nation, we request that you provide Personal Information about yourself, and we collect Navigational Information. 
 
-All of the messaging or emails that are sent to you by us includes an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you. 
+"Personal Information"
 
-## Disclaimer
+This refers to any information that you voluntarily submit to us and that identifies you personally, including contact information, such as your name, e-mail address, company name, address, phone number, and other information about yourself or your business. Personal Information can also include information about any transactions, both free and paid, that you enter into on the Websites, and information about you that is available on the internet, such as from Facebook, LinkedIn, Twitter and Google. 
 
-Although it is highly unlikely, This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.
+Personal Information also includes Navigational Information or Payment Information where such information can directly or indirectly identify an individual. Navigational information refers to information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and pages viewed. Please see the "Navigation Information" section below. Payment information includes We collect and process payment information from you when you subscribe to Robin Sharma Nation, including credit cards numbers and billing information, using third party PCI-compliant service providers. Except for this, we do not collect Sensitive Information from you. 
 
-If you have any questions or concerns regarding our privacy policy please direct them to:
+Log Files
 
-[support@robinsharma.com](mailto:support@robinsharma.com)
+When you use our services our view content provided by us, we automatically collect information about your computer hardware and software. This information can include your IP address, browser type, domain names, internet service provider (ISP), the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, clickstream data, access times and referring website addresses. This information is used by The Titan Academy for the operation of Robin Sharma Nation, to maintain quality of the service. For these purposes, we do link this automatically-collected data to Personal Information such as name, email address, address, and phone number. 
+
+Information About Children
+
+The Websites are not intended for or targeted at children under 16, and we do not knowingly or intentionally collect information about children under 16. If you believe that we have collected information about a child under 16, please contact us at support@robinsharma.com, so that we may delete the information. 
+
+Compliance with Our Privacy Policy
+
+We use the information we collect only in compliance with this Privacy Policy. Customers who subscribe to Robin Sharma Nation are obligated through our agreements with them to comply with this Privacy Policy. 
+
+We Never Sell Personal Information
+
+We will never sell your Personal Information to any third party.
+
+Use of Personal Information
+
+In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to:
+
+  * improve your browsing experience by personalizing the Websites and to improve Robin Sharma Nation;
+  * send information or content to you which we think may be of interest to you by post, email, or other means and send you marketing communications relating to our business; 
+  * promote use of our services to you and share promotional and information content with you in accordance with your communication preferences; 
+  * send information to you regarding changes to our Customer Terms of Service, Privacy Policy (including the Cookie Policy), or other legal agreements 
+  * meet legal requirements.
+
+
+
+Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. However, we will normally collect personal information from you only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information from you. 
+
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information). Similarly, if we collect and use your personal information in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are. 
+
+Use of Navigational Information
+
+We use Navigational Information to operate and improve the Website. We may also use Navigational Information alone or in combination with Personal Information to provide you with personalized information about Robin Sharma Nation and other products from The Titan Academy Global. 
+
+Customer Testimonials and Comments
+
+We post customer testimonials and comments on our Websites, which may contain Personal Information. We obtain each customer's consent via email prior to posting the customer's name and testimonial. 
+
+Use of Credit Card Information
+
+If you give us credit card information, we use it solely to check your financial qualifications and collect payment from you. We use a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use information you provide except for the sole purpose of credit card processing on our behalf. 
+
+Security of your Personal Information
+
+We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. We secure the Personal Information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. All Personal Information is protected using appropriate physical, technical and organizational measures. 
+
+Social Media Features
+
+Our Websites include Social Media Features, such as the Facebook Like button and Widgets. These features may collect your IP address, which page you are visiting on our sites, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Websites. This Privacy Policy does not apply to these features. Your interactions with these features are governed by the privacy policy and other policies of the companies providing them. 
+
+External Websites
+
+Our Websites provide links to other websites. We do not control, and are not responsible for, the content or practices of these other websites. Our provision of such links does not constitute our endorsement of these other websites, their content, their owners, or their practices. This Privacy Policy does not apply to these other websites, which are subject to any privacy and other policies they may have. 
+
+Retention of Personal Information
+
+How long we keep information we collect about you depends on the type of information. After such time, we will either delete or anonymize your information or, if this is not possible, then we will securely store your information and isolate it from any further use until deletion is possible. 
+
+We retain Personal Information that you provide to us where we have an ongoing legitimate business need to do so (for example, as long as is required in order to contact you about the Subscription Service or our other services, or as needed to comply with our legal obligations, resolve disputes and enforce our agreements). 
+
+When we have no ongoing legitimate business need to process your Personal Information, we securely delete the information or anonymize it or, if this is not possible, then we will securely store your Personal Information and isolate it from any further processing until deletion is possible. We will delete this information from the servers at an earlier date if you so request, as described in "To Unsubscribe from Our Communications" below. 
+
+If you have elected to receive marketing communications from us, we retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our content, products, or services, such as when you last opened an email from us or ceased using your HubSpot account. We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created. 
+
+## Reviewing, Correcting and Removing Your Personal Information
+
+You have the following data protection rights:
+
+  * You can request access, correction, updates or deletion of your personal information.
+You can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. 
+  * If we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent. 
+  * You have the right to complain to a data protection authority about our collection and use of your personal information. Contact details for data protection authorities in the EEA, Switzerland and certain non-European countries (including the US and Canada) are available here: http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) 
+
+
+
+To exercise any of these rights, please contact us at support@robinsharma.com - We will respond to your request to change, correct, or delete your information within a reasonable timeframe and notify you of the action we have taken. 
+
+To Unsubscribe From Our Communications
+
+You may unsubscribe from our marketing communications by clicking on the "unsubscribe" link located on the bottom of our e-mails, updating your communication preferences, or by sending us email at support@robinsharma.com 
+
+The Titan Academy Global AG   
+Munzgasse 6   
+6003 Luzern   
+Switzerland 
