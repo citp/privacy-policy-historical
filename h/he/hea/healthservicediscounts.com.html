@@ -1,687 +1,1004 @@
-<!--The following is the downloaded HTML source of the healthservicediscounts.com privacy policy that was archived on 2018-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180310022741id_/http%3A//www.healthservicediscounts.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthservicediscounts.com privacy policy that was archived on 2019-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190609114121id_/https%3A//healthservicediscounts.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><!--<![endif]--><head> 
-        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-spa-1071.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d86c2a663a","applicationID":"24975208","transactionName":"NAFVMkADXBUEUxYIWw1LcwlGLFcSJl8MFUYMCFsDQE17EgBdTSVdEBRbB0s=","queueTime":0,"applicationTime":376,"ttGuid":"A3DFA5984D6619E1","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw8PV1dRGwEEXVZXBQEP"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(20),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{h?h-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(21),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(13),t(12),"addEventListener"in window&&t(6),s.xhrWrappable&&t(14),d=!0)}c.on("fn-start",function(t,e,n){d&&(h+=1)}),c.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,S=y.hash,this[u]=b.now()}function o(){M--,y.hash!==S&&i(0,!0);var t=b.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=b.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,b=t("loader");if(w[v]&&b.xhrWrappable){var g=t(10),x=t(11),E=t(8),P=t(6),O=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),N=j.get("tracer");t(15),b.features.spa=!0;var S,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(h,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),P.buffer([u]),O.buffer(["setTimeout"+s,"clearTimeout"+c,u]),T.buffer([u,"new-xhr","send-xhr"+c]),R.buffer([m+c,m+"-done",m+f+c,m+f+s]),E.buffer(["newURL"]),g.buffer([u]),x.buffer(["propagate",p,h,"executor-err","resolve"+c]),N.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+c),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+c),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),c=t(12),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(23)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(20);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&&d&&p&&(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(23)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){s.emit("jsonp-error",[],p),s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=c(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),s.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function c(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var s=t("ee").get("jsonp"),f=t(23)(s);if(e.exports=s,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,h=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,h,"dom-"),f.inPlace(HTMLHeadElement.prototype,h,"dom-"),f.inPlace(HTMLBodyElement.prototype,h,"dom-"),s.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(23)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(23),a=t("ee").get("promise"),c=i(a),s=t(20),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(23)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(23)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",c)}function i(t){b.push(t),l&&(x?x.then(a):v?v(a):(E=-E,P.data=E))}function a(){for(var t=0;t<b.length;t++)r([],b[t]);b.length&&(b=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(23)(u),p=NREUM.o,h=p.XHR,l=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],b=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,g),g.prototype=h.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var x=m&&m.resolve();if(!v&&!m){var E=1,P=document.createTextNode(E);new l(a).observe(P,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(19),l=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(20),c=t(21),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],21:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],22:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],23:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(21),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(20),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(20),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1071.min.js"},b=m&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(17),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(22)},{}]},{},["loader",2,15,5,3,4]);</script>
-        <title>Privacy Policy</title>
-        <!--[if lt IE 9]><script src="/Core/Shapes/Scripts/html5.js" type="text/javascript"></script><![endif]-->
-        <meta content="Orchard" name="generator">
-<meta content="Health Service Discounts provide exclusive deals and offers to NHS staff. Read out privacy policy here. Not to be confused with the NHS privacy policy." name="description">
-<meta content="privacy policy, nhs privacy policy, health service discounts privacy policy" name="keywords">
-<meta content="IE=edge,chrome=1" name="X-UA-Compatible">
-<meta content="www.pages04.net,buymobiles.net,healthservicediscounts.com,uat.healthservicediscounts.com,www.aimsreclaim.co.uk,www.bestdealinsurance.co.uk,www.debtadvisorycentre.co.uk,www.energyhelpline.com,www.healthservicediscounts.com,www.precisionclaims.co.uk,www.superbreak.com,testhsd.healthservicediscounts.com,test.discountsformums.com,uathsd.healthservicediscounts.com,uat.discountsformums.com, www.discountsformums.com" name="com.silverpop.brandeddomains">
-<meta content="engage4.silverpop.com" name="com.silverpop.cothost">
-<link href="http://images.healthservicediscounts.com/affinity/hsd/website/favicon.ico" rel="shortcut icon" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="//images.healthservicediscounts.com/themes/brinc/styles/brinc/desktop.combined_048902CC84357D0561594C1F07B7CA94.css"><script type="text/javascript" src="//images.healthservicediscounts.com/themes/brinc/scripts/desktop.combined.48EB2A9EA24641F591807D162735D769.js"></script><link href="//images.healthservicediscounts.com/themes/brinc/styles/custom_46f04093-a65c-4010-9b3a-d636f9a8fdb4.css" rel="stylesheet" type="text/css"><script type="text/javascript" src="//images.healthservicediscounts.com/themes/brinc/scripts/custom_a179c73a-9d24-4eed-a8dd-e4b40f330373.js"></script><script type="text/javascript">
-    var userStatus = 'Logged Out';
-</script>
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="https://cdn.jsdelivr.net/npm/search-insights@0.0.14"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw8PV1dRGwsIXVlVAwIE"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(18),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(19),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(21)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(21)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(21)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(21)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(21)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(){var t=window.NREUM,n=t.info.accountID||null,e=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!n||!e||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:e,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&n!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(16);n.exports={generateTraceHeader:r}},{}],11:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return w(r)}function i(t,n){var e=f(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(12),u=t(10).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(15),w=t(14),v=window.XMLHttpRequest;s.features.xhr=!0,t(9),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(e=!!NREUM.init.distributed_tracing.enabled),e&&this.sameOrigin){var r=u();r&&n.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=w(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)})}},{}],12:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],13:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(18),s=t(19),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],14:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],15:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],16:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],17:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],18:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],19:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],20:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],21:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(19),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(18),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(18),u=t("ee"),d=t(17),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:x,userAgent:d};t(13),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(20)},{}]},{},["loader",2,11,4,3]);</script>
+    <title>Privacy Policy | Health Service Discounts | Over 2m Members</title>
+    <meta name="description" content="Health Service Discounts is one of the UK's leading providers of NHS discounts. We provide staff discounts, offers and deals to all NHS staff and NHS employees.">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <script type="text/javascript" src="//cdn.optimizely.com/js/716755672.js"></script>
-        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51de605f27aaa351"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
 
-        <script type="text/javascript" src="https://www.sc.pages04.net/lp/static/js/iMAWebCookie.js?c0cac8-11c8b1b735c-4f4749e15ce6d7a21b02ab08b9b7921c&amp;h=www.pages04.net"></script>
+                                <link rel="canonical" href="https://healthservicediscounts.com/privacy-policy">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<link href="/css/app-hsd.css" media="all" rel="stylesheet" type="text/css" charset="utf-8">
+<!--[if lte IE 9]>
+    <style>
+        .search{display:none!important}.main-navigation__wrap>ul{list-style-type:none;}ul li{display:inline; margin: 0 10px}.browser-warning{z-index:9999;position:fixed;width:100%;height:100%;top:0;left:0;right:0;bottom:0;background: url('/media/hsd/IESplash.jpg') no-repeat center center fixed;background-size: cover;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./media/hsd/IESplash.jpg', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/media/hsd/IESplash.jpg', sizingMethod='scale')";zoom:1;overflow:hidden;display:table}.browser-warning__center{text-align:center;display:table-cell;vertical-align:middle}.browser-warning__panel{background-color:#fff;width:60%;padding:40px 20px;margin:0 auto}.browser-warning__logo{display:block;margin-bottom:40px}.oldie{// display:none;// height:0}
+    </style>
+<![endif]-->
 
-    </head> 
-    <body>
-        
-        
+<link rel="apple-touch-icon" sizes="180x180" href="https://healthservicediscounts.com/media/hsd/favicons/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://healthservicediscounts.com/media/hsd/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://healthservicediscounts.com/media/hsd/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://healthservicediscounts.com/media/hsd/favicons/favicon-16x16.png">
+<link rel="manifest" href="https://healthservicediscounts.com/media/hsd/favicons/manifest.json">
+<link rel="mask-icon" href="https://healthservicediscounts.com/media/hsd/favicons/safari-pinned-tab.svg" color="#3a3c53">
+<link rel="shortcut icon" href="https://healthservicediscounts.com/media/hsd/favicons/favicon.ico">
+<meta name="msapplication-config" content="https://healthservicediscounts.com/media/hsd/favicons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
 
+<meta name="ir-site-verification-token" value="1804501174">
 
-
-    <div id="fb-root"></div>
-    <script type="text/javascript">
-        Facebook();
-    </script>
-
-
-<script type="text/javascript">
-    var millisecondsBeforeRegistrationPopupIsShownUrl = '/Kaleida.Brinc/Registration/MillisecondsBeforeRegistrationPopupIsShown';
-    var memberSessionUrl = '/Kaleida.Brinc/Member/AddMemberSession';
-    
-</script>
-
-    <script type="text/javascript">
-        var showRegistrationDialog = false;
-    </script>
-
-<script type="text/javascript">
-    // Prepare for KISSmetrics setup before loading Google Tag Manager
-    var _kmq = _kmq || [];
-</script>
-<!-- Google Tag Manager -->
-<noscript><iframe id="tagManagerFrame" src="//www.googletagmanager.com/ns.html?id=GTM-C8Z6B"
-height="0" width="0"></iframe></noscript>
 <script>
-    window.containerId = 'GTM-C8Z6B';
-    GoogleTagManager();
-</script>
-<!-- End Google Tag Manager -->
-
-<script type="text/javascript">
-    DFP();
+    var userStatus = 'Logged Out';
+    var memberId = '';
+    var registrationDate = '';
+    var gender = '';
+    var memberType = 'Not available';
 </script>
 
-<span id="antiForgeryGlobalToken"><input name="__RequestVerificationToken" type="hidden" value="9T6QZFI-Ym2lZjkcYGha_Y_EbfAYX-kdqIPnHReg2fBPtzX3NU_058HsiXEvM8i3T4DPh_k8xN4vFrNHNMejKHH6d8ZR7VwMmHJmbRw0mewvl5LQ0LlZbeyy_eBOxazhaxN3jA2"></span>
+<script>
+    //var containerId = 'GTM-5LVD9RN';
+    var containerId = 'GTM-5LVD9RN';
+    
+	
+    
 
-<script type="text/javascript">
-    FacebookSDK('http://localhost:8090/Themes/Brinc/Content/channel.html');
 </script>
 
-<div id="left-banner">
-    
-</div>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LVD9RN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
-    <header id="header" class="group">
-            <div id="layout-header-left" class="left">
-                <div class="zone zone-header-left">
 
-
-<article class="widget-header-left widget-html-widget widget"><!--
-<p><link rel="stylesheet" href="https://4e07c5f1c85c210322be-2c1d3c4d17e1dd5a274b48e1d0728694.ssl.cf3.rackcdn.com/jscss/css/https-overide-desktop.css" type="text/css" /></p>-->
-<p><link rel="stylesheet" href="https://4e07c5f1c85c210322be-2c1d3c4d17e1dd5a274b48e1d0728694.ssl.cf3.rackcdn.com/jscss/css/https-overide-desktop-blackfriday.css" type="text/css"></p>
-<p></p>
-<p></p>
-<p><link rel="stylesheet" href="https://4e07c5f1c85c210322be-2c1d3c4d17e1dd5a274b48e1d0728694.ssl.cf3.rackcdn.com/jscss/css/hidetell-a-friendv2.css" type="text/css"></p></article>
-
-
-<article class="widget-header-left-logo widget-header-left widget-html-widget widget"><p><a href="/" target="_self"><img src="/Media/Default/HtmlWidget/Contents/Item/Display/3/health-service-discounts-logo.jpg" alt="Logo" width="344" height="21"></a></p></article></div>
-            </div>
-    
-            <div id="layout-header-right" class="left contains-search" data-searchpostion="Top Search">
-                <div class="zone zone-header-right">
-
-
-<article class="widget-header-right widget-menu-widget widget">
-<nav>
-    <ul class="menu menu-header-menu">
-        
-        
-<li class="first"><a href="https://healthservicediscounts.zendesk.com">Help</a>
-</li>
-<li>
-
-    <a href="/about">About</a> 
-</li>
-<li>
-
-    <a href="/tell-a-friend">Tell A Friend</a> 
-</li>
-<li class="last"><a href="http://blog.healthservicediscounts.com/?utm_source=HSD-website&amp;utm_medium=link-referral&amp;utm_campaign=Website-Click&amp;utm_content=header">Blog</a>
-</li>
-    </ul>
-</nav></article>
-
-
-<article class="widget-header-right widget-account-links-widget widget">
-
-    <div class="logged-out-container hide-login-container">
-        <a href="/register-1?source=Join%20Top" class="green-button account-button" id="join-button">Join</a>
-        <button class="grey-button account-button login-button">Login</button>
-        <button class="grey-button account-button close-button">Close</button>
-    
-        <div class="login-container grey-border">
-            <div class="login-form">
-<form action="/privacy-policy" data-ajax="true" data-ajax-failure="LoginFormError" data-ajax-loading="#login-loading-container" data-ajax-success="LoginFormSuccess" data-ajax-url="/Kaleida.Brinc/Account/Login/88" method="post">                    <div id="login-form-content">
-                        <input name="__RequestVerificationToken" type="hidden" value="Jt9228d-X7VlKv4fNvEBSDxkBBLdgEUN22XM-7R8uvuwpXlBhywJ9gi3X0Pf82Xm3_nmYWOe84EXqP5VfgTXeY5Q4H5aBJWkZsvDqFTSGdk_sBJUiPpwelc-A5W3O6agJlJ_MA2">
-
-
-<div class="form-field">
-    <label for="Email">Email</label>
+    <script>
+        var search_config = {
+            appId: '1SOF7SQSPU',
+            apiKey: '14250f6a16c0bffe570b2e7cd1dbae6f',
+            indexName: 'production_affinity_1_offers'
+        };
+    </script>
     
 
-<input autocomplete="" class="" id="Email" name="Email" placeholder="" title="" type="text" value="">
-    <div class="form-field-validation">
-        
-    </div>
-</div>
-<div class="form-field">
-    <label for="Password">Password</label>
-    
+    <script>
+        !function(e,a,t,n,s,i,c){e.AlgoliaAnalyticsObject=s,e.aa=e.aa||function(){(e.aa.queue=e.aa.queue||[]).push(arguments)},i=a.createElement(t),c=a.getElementsByTagName(t)[0],i.async=1,i.src="https://cdn.jsdelivr.net/npm/search-insights@0.0.14",c.parentNode.insertBefore(i,c)}(window,document,"script",0,"aa");
 
-<input autocomplete="" class="" id="Password" name="Password" placeholder="" type="password" value="">
-    <div class="form-field-validation">
-        
-    </div>
-</div>
-<div class="form-field">
-    <div class="left"><input checked="checked" class="check-box" id="RememberMe" name="RememberMe" type="checkbox" value="true"><input name="RememberMe" type="hidden" value="false"></div>
-    <label class="left" for="RememberMe">Remember me</label>
-</div>
-<input id="LoginPost" name="LoginPost" type="hidden" value="True">
+        // Initialize library
+        aa('init', {
+            applicationID: '1SOF7SQSPU',
+            apiKey: '14250f6a16c0bffe570b2e7cd1dbae6f'
+        })
+    </script>
+
+<script src="https://cdn.optimizely.com/js/716755672.js"></script>
+
+<!-- Please insert the following code between your HTML document head tags to maintain a common reference to a unique visitor across one or more external web tracked sites. -->
+<meta name="com.silverpop.brandeddomains" content="www.pages04.net,buymobiles.net,www.aimsreclaim.co.uk,www.bestdealinsurance.co.uk,www.debtadvisorycentre.co.uk,www.energyhelpline.com,www.precisionclaims.co.uk,www.superbreak.com,test.discountsformums.com,uat.discountsformums.com,www.discountsformums.com,uatredirect.brincltd.com,healthservicediscounts.com,www.healthservicediscounts.com,staging.healthservicediscounts.com,uat.healthservicediscounts.com,testhsd.healthservicediscounts.com,uathsd.healthservicediscounts.com,images-test.healthservicediscounts.com,images-uat.healthservicediscounts.com,images.healthservicediscounts.com,discountsforcarers.com,www.discountsforcarers.com,staging.discountsforcarers.com,uat.discountsforcarers.com,uatdfc.discountsforcarers.com,testdfc.discountsforcarers.com,images-test.discountsforcarers.com,images-uat.discountsforcarers.com,images.discountsforcarers.com,discountsforcarers.co.uk,www.discountsforcarers.co.uk,uat.discountsforcarers.co.uk,discountsforteachers.co.uk,www.discountsforteachers.co.uk,staging.discountsforteachers.co.uk,uat.discountsforteachers.co.uk,uatdft.discountsforteachers.co.uk,images-test.discountsforteachers.co.uk,images-uat.discountsforteachers.co.uk,images.discountsforteachers.co.uk,charityworkerdiscounts.com,www.charityworkerdiscounts.com,staging.charityworkerdiscounts.com,uat.charityworkerdiscounts.com,uatdft.charityworkerdiscounts.com,images-test.charityworkerdiscounts.com,images-uat.charityworkerdiscounts.com,images.charityworkerdiscounts.com,charityworkerdiscounts.co.uk,www.charityworkerdiscounts.co.uk">
+<meta content="engage4.silverpop.com" name="com.silverpop.cothost">
+<script type="text/javascript" src="https://www.sc.pages04.net/lp/static/js/iMAWebCookie.js?c0cac8-11c8b1b735c-4f4749e15ce6d7a21b02ab08b9b7921c&amp;h=www.pages04.net"></script>
+    <script src="/js/wadtracker.js?v=3"></script>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+    <!-- TradeDoubler site verification 3083071 -->
+</head>
+
+<body class="privacy-policy" data-controller="privacy-policy" data-page-current="nav_12_privacy-policy" data-page-previous="none">
+
+    <!--[if lte IE 9]>
+        <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script> <div class="browser-warning"> <div class="browser-warning__center"> <div class="browser-warning__panel"> <img class="browser-warning__logo" src="/media/hsd/logo.png" alt="Health Service Discounts"/> <h2>Please upgrade your browser to use Health Service Discounts</h2> <p><p>This website contains features that are no longer supported in older browsers. It is highly recommended that you choose and install a modern browser. It is free of charge and only takes a couple of minutes. Installing a new browser will increase support for new technologies, improve web page speed and resolve security and functional issues. Here are some recommended browsers:</p>
+<ul>
+<li><a href="https://www.mozilla.org/en-GB/firefox/new/?utm_medium=referral&utm_source=firefox-com" target="_blank">Mozilla Firefox</a></li>
+<li><a href="https://www.google.com/chrome/" target="_blank">Google Chrome</a></li>
+<li><a href="https://www.microsoft.com/en-us/windows/microsoft-edge" target="_blank">Microsoft Edge</a></li>
+<li><a href="https://www.apple.com/safari/" target="_blank">Apple Safari</a></li>
+</ul>
+<p>Need help? <a href="https://healthservicediscounts.zendesk.com/hc/en-gb" target="_blank">Please visit our helpdesk</a></p></p></div></div></div>
+    <![endif]-->
+    <header class="ptm pbm" data-soi="2">
+    <div class="inner">
+        <div class="header-bar">
+                            <a href="/" class="header__menu header__icon">
+                    <svg width="32" height="32">
+                        <use xlink:href="/media/svg/sprite.svg#icon-menu"></use>
+                        <use xlink:href="/media/svg/sprite.svg#icon-close"></use>
+                    </svg>
+                </a>
+                        <a href="/" class="header__logo">
+                <img src="/media/hsd/logo.png" onerror="this.src='/media/hsd/logo.png'; this.onerror=null;" alt="Health Service Discounts">
+            </a>
+                            <div class="header__search__container">
+                    <div class="header__search">
+                        <form action="https://healthservicediscounts.com/search" method="GET">
+                            <input id="search-box" type="search" name="q" placeholder="Search by offer or retailer" data-gtm="{&quot;name&quot;: &quot;search&quot;, &quot;location&quot;: &quot;Top Header&quot;}" value="">
+                        </form>
                     </div>
-                    <input type="submit" value="Login" class="green-button account-button">
-</form>                <div id="login-loading-container"><img src="http://images.healthservicediscounts.com/website/ajax-loader.gif" alt="Loading" height="32" width="32"></div>
+                </div>
+                <div class="header__usercontrols">
+            <a href="https://healthservicediscounts.com/login" onclick="(new WADTracker()).sign_in()">
+            <svg width="40" height="40">
+                <use xlink:href="/media/svg/sprite.svg#icon-user"></use>
+            </svg>Sign in
+        </a>
+        <a class="button button--large button--secondary" href="https://healthservicediscounts.com/register-1" onclick="(new WADTracker()).join_free_top_nav()">Join Free</a>
+    </div>                <div class="header__search--mobile header__icon">
+                    <svg width="32" height="32">
+                        <use xlink:href="/media/svg/sprite.svg#icon-search"></use>
+                        <use xlink:href="/media/svg/sprite.svg#icon-close"></use>
+                    </svg>
+                </div>
+                    </div>
+    </div>
+</header>
+    <div class="main-navigation__site inner" data-soi="3">
+	    <div class="main-navigation__wrap">
+	        <div class="main-navigation__usercontrols">
+            <a href="https://healthservicediscounts.com/login" onclick="(new WADTracker()).sign_in()">
+            <svg width="40" height="40">
+                <use xlink:href="/media/svg/sprite.svg#icon-user"></use>
+            </svg>Sign in
+        </a>
+        <a class="button button--secondary" href="https://healthservicediscounts.com/register-1" onclick="(new WADTracker()).join_free_top_nav()">Join Free</a>
+    </div>	        
+	        <nav class="main-navigation">
+        <ul>
+                            <li>
+                    <a href="/travel" title="Travel Discounts for NHS Staff" class="toggleMega">Travel</a>
+                                                                <ul class="mega">
+                            <div class="inner">
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/travel/holidays/uk-holidays" title="UK Holidays Discounts for NHS Staff" class="toggleMega">UK Holidays</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/travel/holidays/uk-lodges-and-cottages" title="UK Lodges and Cottages Discounts for NHS Staff">UK Lodges and Cottages</a></li>
+                                                                                                    <li><a href="/travel/holidays/uk-holiday-parks" title="UK Holiday Parks Discounts for NHS Staff">UK Holiday Parks</a></li>
+                                                                                                    <li><a href="/travel/holidays/uk-city-breaks" title="UK City Breaks Discounts for NHS Staff">UK City Breaks</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/travel/europe-and-overseas" title="Europe and Overseas Discounts for NHS Staff" class="toggleMega">Europe and Overseas</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/travel/europe-and-overseas/package-and-long-haul" title="Package and Long Haul Discounts for NHS Staff">Package and Long Haul</a></li>
+                                                                                                    <li><a href="/travel/europe-and-overseas/hotels-and-apartments" title="Hotels and Apartments Discounts for NHS Staff">Hotels and Apartments</a></li>
+                                                                                                    <li><a href="/travel/europe-and-overseas/holiday-parks" title="Holiday Parks Discounts for NHS Staff">Holiday Parks</a></li>
+                                                                                                    <li><a href="/travel/europe-and-overseas/cruises" title="Cruises Discounts for NHS Staff">Cruises</a></li>
+                                                                                                    <li><a href="/travel/europe-and-overseas/city-breaks" title="City Breaks Discounts for NHS Staff">City Breaks</a></li>
+                                                                                                    <li><a href="/travel/europe-and-overseas/villas" title="Villa Discounts for NHS Staff">Villas</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/travel/travel-extras" title="Travel Extras Discounts for NHS Staff" class="toggleMega">Travel Extras</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/travel/travel-extras/airport-parking" title="Airport Parking Discounts for NHS Staff">Airport Parking</a></li>
+                                                                                                    <li><a href="/travel/travel-extras/car-hire" title="Car Hire Discounts for NHS Staff">Car Hire</a></li>
+                                                                                                    <li><a href="/travel/travel-extras/travel-insurance" title="Travel Insurance Discounts for NHS Staff">Travel Insurance</a></li>
+                                                                                                    <li><a href="/travel/travel-extras/airport-hotels" title="Airport Hotels Discounts for NHS Staff">Airport Hotels</a></li>
+                                                                                                    <li><a href="/travel/travel-extras/airport-transfers" title="Airport Transfers Discounts for NHS Staff">Airport Transfers</a></li>
+                                                                                                    <li><a href="/travel/travel-extras/airport-lounges" title="Airport Lounges">Airport Lounges</a></li>
+                                                                                                    <li><a href="/travel/travel-extras/city-parking" title="City Parking Discounts for NHS Staff">City Parking</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/travel/transport" title="Transport Discounts for NHS Staff" class="toggleMega">Transport</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/travel/transport/rail" title="Rail Discounts">Rail</a></li>
+                                                                                                    <li><a href="/travel/transport/coach" title="Coach Discounts for NHS Staff">Coach</a></li>
+                                                                                                    <li><a href="/travel/transport/ferry" title="Ferry Discounts for NHS Staff">Ferry</a></li>
+                                                                                                    <li><a href="/travel/transport/flights" title="Flights Discounts for NHS Staff">Flights</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/travel/days-out-and-entertainment" title="Days Out &amp; Entertainment Discounts for NHS Staff" class="toggleMega">Days Out &amp; Entertainment</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/travel/days-out-and-entertainment/theme-parks" title="Theme Parks">Theme Parks</a></li>
+                                                                                                    <li><a href="/travel/days-out-and-entertainment/concerts-and-gigs" title="Concerts &amp; Gigs Discounts for NHS Staff">Concerts &amp; Gigs</a></li>
+                                                                                                    <li><a href="/travel/days-out-and-entertainment/experiences" title="Experiences Discounts for NHS Staff">Experiences</a></li>
+                                                                                                    <li><a href="/travel/days-out-and-entertainment/leisure-and-attractions" title="Leisure &amp; Attractions">Leisure &amp; Attractions</a></li>
+                                                                                                    <li><a href="/travel/days-out-and-entertainment/theatre" title="Theatre Discounts for NHS Staff">Theatre</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                            </div>
+                        </ul>
+                                    </li>
+                            <li>
+                    <a href="/shopping" title="Shopping Discounts for NHS Staff" class="toggleMega">Shopping</a>
+                                                                <ul class="mega">
+                            <div class="inner">
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/shopping/electrical" title="Electrical Discounts for NHS Staff" class="toggleMega">Electrical</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/shopping/electrical/tablets" title="Tablets Discounts for NHS Staff">Tablets</a></li>
+                                                                                                    <li><a href="/shopping/electrical/computing" title="Computing Discounts for NHS Staff">Computing</a></li>
+                                                                                                    <li><a href="/shopping/electrical/home-appliances-and-white-goods" title="Home Appliances and White Goods Discounts for NHS Staff">Home Appliances and White Goods</a></li>
+                                                                                                    <li><a href="/shopping/electrical/gaming" title="Gaming Discounts for NHS Staff">Gaming</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/shopping/" title="Shopping Discounts for NHS Staff" class="toggleMega">Shopping</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/shopping/vouchers-and-gift-cards" title="Vouchers and Gift Cards Discounts for NHS Staff">Vouchers and Gift Cards</a></li>
+                                                                                                    <li><a href="/shopping/department-stores" title="Department Stores Discounts for NHS Staff">Department Stores</a></li>
+                                                                                                    <li><a href="/shopping/toys" title="Toys Discounts for NHS Staff">Toys</a></li>
+                                                                                                    <li><a href="/shopping/supermarkets" title="Supermarkets Discounts for NHS Staff">Supermarkets</a></li>
+                                                                                                    <li><a href="/shopping/home-and-garden" title="Home and Garden">Home and Garden</a></li>
+                                                                                                    <li><a href="/shopping/gifts-and-flowers" title="Gifts and Flowers Discounts for NHS Staff">Gifts and Flowers</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/shopping/fashion" title="Fashion Discounts for NHS Staff" class="toggleMega">Fashion</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/shopping/fashion/jewellery" title="Jewellery Discounts for NHS Staff">Jewellery</a></li>
+                                                                                                    <li><a href="/shopping/fashion/womens-fashion" title="Womens Fashion Discounts for NHS Staff">Womens Fashion</a></li>
+                                                                                                    <li><a href="/shopping/fashion/mens-fashion" title="Mens Fashion Discounts for NHS Staff">Mens Fashion</a></li>
+                                                                                                    <li><a href="/shopping/fashion/childrens-fashion" title="Childrens Fashion Discounts for NHS Staff">Childrens Fashion</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/shopping/health-and-fitness" title="Health and Fitness Discounts for NHS Staff" class="toggleMega">Health and Fitness</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/shopping/health-and-fitness/gym-membership-" title="Gym Membership  Discounts for NHS Staff">Gym Membership</a></li>
+                                                                                                    <li><a href="/shopping/health-and-fitness/dieting" title="Dieting Discounts for NHS Staff">Dieting</a></li>
+                                                                                                    <li><a href="/shopping/beauty" title="Beauty Discounts for NHS Staff">Beauty and Fragrance</a></li>
+                                                                                                    <li><a href="/shopping/optical" title="Optical Discounts for NHS Staff">Optical and Eye Care</a></li>
+                                                                                                    <li><a href="/shopping/health-and-fitness/cycling" title="Cycling Discounts for NHS Staff">Cycling</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/shopping/food-and-drink-list" title="Food and Drink Discounts for NHS Staff" class="toggleMega">Food and Drink</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/shopping/restaurants" title="Restaurants Discounts for NHS Staff">Restaurants</a></li>
+                                                                                                    <li><a href="/shopping/food-and-drink" title="Food and Drink Discounts for NHS Staff">Food and Drink</a></li>
+                                                                                                    <li><a href="/shopping/supermarkets" title="Supermarkets Discounts for NHS Staff">Supermarkets</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/shopping" title="no page" class="toggleMega">More Categories</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/shopping/baby-and-child" title="Baby and Child Discounts for NHS Staff">Baby and Child</a></li>
+                                                                                                    <li><a href="/shopping/dating" title="Dating Service Discounts for NHS Staff">Dating</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                            </div>
+                        </ul>
+                                    </li>
+                            <li>
+                    <a href="/insurance" title="Insurance Discounts for NHS Staff" class="toggleMega">Insurance</a>
+                                                                <ul class="mega">
+                            <div class="inner">
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/insurance/motoring" title="Motor Insurance Discounts for NHS Staff" class="toggleMega">Motoring</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/insurance/car-insurance" title="Car Insurance Discounts for NHS Staff">Car Insurance</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/insurance/home" title="Home Insurance Discounts for NHS Staff" class="toggleMega">Home</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/insurance/home-insurance" title="Home Insurance Discounts for NHS Staff">Home Insurance</a></li>
+                                                                                                    <li><a href="/insurance/life-insurance" title="Life Insurance">Life Insurance</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/insurance/mobile-gadgets" title="Mobile &amp; Gadget Insurance Discounts for NHS Staff" class="toggleMega">Mobile &amp; Gadgets</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/insurance/gadget-insurance" title="Gadget Insurance Discounts for NHS Staff">Gadget Insurance</a></li>
+                                                                                                    <li><a href="/insurance/mobile-insurance" title="Mobile Insurance Discounts for NHS Staff">Smartphone Insurance</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/insurance/more" title="More Insurance Discounts for NHS Staff" class="toggleMega">More</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/insurance/travel-insurance" title="Travel Insurance Discounts for NHS Staff">Travel Insurance</a></li>
+                                                                                                    <li><a href="/insurance/pet-insurance" title="Pet Insurance Discounts for NHS Staff">Pet Insurance</a></li>
+                                                                                                    <li><a href="/insurance/health-insurance" title="Health Insurance">Health Insurance</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                            </div>
+                        </ul>
+                                    </li>
+                            <li>
+                    <a href="/money" title="Money and Finance Discounts for NHS Staff" class="toggleMega">Finance</a>
+                                                                <ul class="mega">
+                            <div class="inner">
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/finance/borrowing" title="Borrowing Discounts for NHS Staff" class="toggleMega">Borrowing</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/money/loans" title="Loans Discounts for NHS Staff">Loans</a></li>
+                                                                                                    <li><a href="/money/credit-cards" title="Credit Cards Discounts for NHS Staff">Credit Cards</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/finance/saving" title="Savings Discounts for NHS Staff" class="toggleMega">Saving</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/money/isas-and-savings" title="ISAs and Savings Discounts for NHS Staff">ISAs and Savings</a></li>
+                                                                                                    <li><a href="/money/cashback-card" title="Cashback Card Discounts for NHS Staff">Cashback Card</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/finance/debtadvice" title="Debt Advice for NHS Staff" class="toggleMega">Debt Advice</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/finance/debtmanagement" title="Debt Management for NHS Staff">Debt Management</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/finance/funerals/wills" title="Funerals &amp; Wills for NHS Staff" class="toggleMega">Funerals, Wills &amp; Elderly Care</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/finance/funeralplan" title="Pre-Paid Funeral Plans for NHS Staff">Pre-Paid Funeral Plans</a></li>
+                                                                                                    <li><a href="/finance/wills" title="Single/Mirror Wills for NHS Staff">Single/Mirror Wills</a></li>
+                                                                                                    <li><a href="/Lasting Power Of Attorney" title="Lasting Power Of Attorney">Lasting Power Of Attorney</a></li>
+                                                                                                    <li><a href="/elderly/care" title="Elderly Care Discounts for NHS Staff">Elderly Care</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                            </div>
+                        </ul>
+                                    </li>
+                            <li>
+                    <a href="/mobiles" title="Mobiles Discounts for NHS Staff" class="toggleMega">Mobiles</a>
+                                                                <ul class="mega">
+                            <div class="inner">
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/mobiles/networks" title="Networks" class="toggleMega">Networks</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/mobiles/networks/o2-deal" title="O2 Deals &amp; Discounts for NHS Staff">O2 Deals</a></li>
+                                                                                                    <li><a href="/mobiles/networks/ee-mobile-deals" title="EE Mobile Deals &amp; Discounts for NHS Staff">EE Deals</a></li>
+                                                                                                    <li><a href="/mobiles/networks/three-mobile-deals" title="Three Mobile Deals &amp; Discounts for NHS Staff">Three Deals</a></li>
+                                                                                                    <li><a href="/mobiles/networks/vodafone-deals" title="Vodafone Deals &amp; Discounts for NHS Staff">Vodafone Deals</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/mobiles/all-iphone-deals" title="All iPhone Deals Discounts for NHS Staff" class="toggleMega">All iPhone Deals</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/mobiles/popular-phones/iphone-xr" title="iPhone XR Discounts for NHS Staff">iPhone XR</a></li>
+                                                                                                    <li><a href="/iPhone XS Discounts for NHS Staff" title="iPhone XS Discounts for NHS Staff">iPhone XS</a></li>
+                                                                                                    <li><a href="/iPhone 8 Discounts for NHS Staff" title="iPhone 8 Discounts for NHS Staff">iPhone 8</a></li>
+                                                                                                    <li><a href="/mobiles/iPhone7" title="iPhone 7 Discounts for NHS Staff">iPhone 7</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/mobiles/android/deals" title="Android Discounts for NHS Staff" class="toggleMega">All Android Deals</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/mobiles/popular-phones/iphone" title="Huawei Discounts for NHS Staff">All Huawei Deals</a></li>
+                                                                                                    <li><a href="/mobiles/samsung/deals" title="Samsung Discounts for NHS Staff">All Samsung Deals</a></li>
+                                                                                                    <li><a href="/mobiles/google/deals" title="Google Discounts for NHS Staff">All Google Deals</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/mobiles/SIMO/deals" title="SIMO Discounts for NHS Staff" class="toggleMega">All SIMO Deals</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/mobiles/simo" title="SIMO Discounts for NHS Staff">0-9GB Data</a></li>
+                                                                                                    <li><a href="/mobiles/simo/deals" title="SIMO Discounts for NHS Staff">10-19GB Data</a></li>
+                                                                                                    <li><a href="/mobiles/popular-phones/simo" title="SIMO Discounts for NHS Staff">20GB+ Data</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                            </div>
+                        </ul>
+                                    </li>
+                            <li>
+                    <a href="/motoring" title="Motoring Discounts for NHS Staff" class="toggleMega">Motoring</a>
+                                                                <ul class="mega">
+                            <div class="inner">
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/motoring/insurance" title="Motor Insurance Discounts for NHS Staff" class="toggleMega">Insurance</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/motoring/insurance/car" title="Car Discounts for NHS Staff">Car Insurance</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/travel/travel-extras" title="Travel Extras Discounts for NHS Staff" class="toggleMega">Travel Extras</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/motoring/car-hire" title="Car Hire Discounts for NHS Staff">Car Hire</a></li>
+                                                                                                    <li><a href="/motoring/airport-parking" title="Airport Parking">Airport Parking</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/motoring/breakdown-repairs" title="Breakdown &amp; Repairs Discounts for NHS Staff" class="toggleMega">Breakdown &amp; Repairs</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/motoring/breakdown-cover" title="Breakdown Cover Discounts for NHS Staff">Breakdown Cover</a></li>
+                                                                                                    <li><a href="/motoring/mot-and-servicing" title="MOT &amp; Servicing">MOT &amp; Servicing</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/motoring" title="Motoring Discounts for NHS Staff" class="toggleMega">Buying/Selling a Car</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/motoring/new-cars" title="New car Discounts for NHS Staff">New cars</a></li>
+                                                                                                    <li><a href="/motoring/sellyourcar" title="Selling your car Discounts for NHS Staff">Sell your car</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                            </div>
+                        </ul>
+                                    </li>
+                            <li>
+                    <a href="/broadband-tv-utilities" title="Broadband, TV &amp; Utilities  Discounts for NHS Staff" class="toggleMega">Broadband, TV &amp; Utilities</a>
+                                                                <ul class="mega">
+                            <div class="inner">
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/broadband-tv-utilities/fibre-broadband" title="Fibre Broadband Discounts for NHS Staff" class="toggleMega">Fibre Broadband</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/broadband-tv-utilities/broadband/fibre" title="Fibre Discounts for NHS Staff">Fibre</a></li>
+                                                                                                    <li><a href="/broadband-tv-utilities/broadband/unlimited-fibre" title="Unlimited Fibre Discounts for NHS Staff">Unlimited Fibre</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/broadband-tv-utilities/broadband" title="Broadband Discounts for NHS Staff" class="toggleMega">Broadband</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/broadband-tv-utilities/broadband/unlimited-broadband" title="Unlimited Broadband Discounts for NHS Staff">Unlimited Broadband</a></li>
+                                                                                                    <li><a href="/broadband-tv-utilities/broadband/cheap-broadband" title="Cheap Broadband Discounts for NHS Staff">Cheap Broadband</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/broadband-tv-utilities/triple-play" title="Triple Play Discounts for NHS Staff" class="toggleMega">Triple Play</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/broadband-tv-utilities/broadband/broadband-phone-and-tv" title="Broadband, Phone and TV Discounts for NHS Staff">Broadband, Phone and TV</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/broadband-tv-utilities/digital-tv-and-streaming" title="Digital TV and Streaming Discounts for NHS Staff" class="toggleMega">Digital TV &amp; Streaming</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/broadband-tv-utilities/digital-tv-and-streaming/sky-tv" title="Sky TV Discounts for NHS Staff">Sky TV</a></li>
+                                                                                                    <li><a href="/broadband-tv-utilities/digital-tv-and-streaming/now-tv" title="Now TV Discounts for NHS Staff">Now TV</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                                    <li class="mega-inner__wrap">
+                                        <a href="/broadband-tv-utilities/utilities" title="Utilities Discounts for NHS Staff" class="toggleMega">Utilities</a>
+                                                                                    <ul class="mega-inner">
+                                                                                                    <li><a href="/broadband-tv-utilities/utilities/gas-and-electricity" title="Gas and Electricity Discounts for NHS Staff">Gas and Electricity</a></li>
+                                                                                            </ul>
+                                                                            </li>
+                                                            </div>
+                        </ul>
+                                    </li>
+                            <li>
+                    <a href="http://www.healthservicediscountslottery.com/?utm_source=www.healthservicediscounts.com&amp;utm_medium=referral&amp;utm_content=Lottery&amp;utm_campaign=Mega%20Menu%20Clicks" title="Health Service Discounts Lottery" class="toggleMega" target="&quot;_blank&quot;">Lottery</a>
+                                                        </li>
+                            <li>
+                    <a href="/nhs-cashback-card" title="Cashback Discounts for NHS Staff" class="toggleMega">Cashback Card</a>
+                                                        </li>
+                    </ul>
+    </nav>
+
+	    </div>
+	</div>
+    <div class="search" data-soi="4">
+    <div class="search__inner">
+        <a href="#" class="search__close">
+            <svg class="search__close__icon">
+                <use xlink:href="/media/svg/sprite.svg#icon-close"></use>
+            </svg>
+        </a>
+        <ul class="tabs" data-tabgroup="search-tab-group">
+            <li><a href="#offers" class="tab--active">Offers</a></li>
+            <li><a href="#retailers">Retailers</a></li>
+            <li><a href="#categories">Categories</a></li>
+        </ul>
+        <section id="search-tab-group" class="columns tabgroup">
+            <div id="offers" class="column colspan-6 tab">
+                <h3>Offers</h3>
+                <div id="results-list" class="results-column">
+                    
+                </div>
+                <div id="stats-container">
+
+                </div>
             </div>
+
+            <div id="retailers" class="column colspan-3 tab">
+                <h3>Retailers</h3>
+                <div id="retailer-list" class="results-column">
+                    
+                </div>
+            </div>
+
+            <div id="categories" class="column colspan-3 tab">
+                <h3>Categories</h3>
+                <div id="category-list" class="results-column">
+                    
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+                            <div class="breadcrumbs" data-soi="1">
+        <div class="inner">
+            <ol>
+                                                            <li><a href="https://healthservicediscounts.com">Home</a></li>
+                                                                                <li><span>Privacy Policy</span></li>
+                                                </ol>
+        </div>
+    </div>
+
             
-<div class="forgot-password-form-wrapper">
-    <form class="forgot-password-form" action="/Kaleida.Brinc/Account/ForgotPassword/88" method="post">
-        <div class="forgot-password-header">Forgotten your password?</div>
-        <div class="forgot-password-content">
-            <input name="__RequestVerificationToken" type="hidden" value="jzAMLhjFtVptJW5r1t8KQHnPOwSTet2CRxtB959Hrlt9tifB9ek27RGAlxdkKIo2Uvf8YByC2UM2_gdZYz-on5io0y8aSGhpqi9JOMPCnFisJ_cj12mOuw8Waq0ojtpi9S-SGg2">
-<div class="form-field">
-    <label class="spaced-text" for="Email">Enter your email address and click to reset your password</label>
-    
+    <div class="overlay">
+            </div>
 
-<input autocomplete="" class="" id="Email" name="Email" placeholder="" title="" type="text" value="">
-    <div class="form-field-validation">
-        <span class="field-validation-error" data-valmsg-for="Email" data-valmsg-replace="true"></span>
-    </div>
-</div>
+    <article class="content">
+            <div id="loggedin" data-loggedin=""></div>
 
-<div id="forgot-password-success" class="success"></div>
+            <div class="mod" id="modid-53">
+                    <div class="inner"><h1>Privacy Policy</h1>
+<p><strong>&nbsp;</strong></p>
+<h2><strong>About this Privacy Policy</strong></h2>
+<p>It’s important to us that you know that your personal information (data) is protected and that you have a choice about how it is used. This notice explains your rights, how we use your personal data and comply with legal obligations. Our policy won’t apply to any third parties, including our partners and social media platforms, to which our website links, so we advise you to read those individual privacy policies.</p>
+<p>Please regularly check this policy because we update it and it is your responsibility as a Member and/or website user to check it. However, if we make a significant change then we will actively let you know, for example, by emailing you i.e. change the way data is processed in a way which Members wouldn’t expect.</p>
+<p>The last change to this notice was the 4<sup>th</sup>&nbsp;October 2018.</p>
+<p>&nbsp;</p>
+<h3>Contacting us</h3>
+<p><strong>We (the data controller) are:&nbsp;</strong>We Are Discounts Ltd, a company registered in England and Wales Company number 04009390, whose registered office is at Unit 3 First Floor Glass House Business Park, Glass House Road, Wigan, Lancashire, England, WN3 6GL.</p>
+<p>We own and operate the website&nbsp;<a>https://healthservicediscounts.com</a></p>
+<p>We have a data protection officer who can be contacted at&nbsp;<a title="DPO@wearediscounts.com" href="emailto:dpo@wearediscountsdpo.com">dpo@wearediscountsdpo.com</a></p>
+<p>You can contact us about any aspect of personal data by using the details provided above.&nbsp; You can also make any complaints about data protection to the Information Commissioner’s Office (ICO) – visit&nbsp;<a href="http://www.ico.org.uk/">www.ico.org.uk</a>&nbsp;for more information, including accessing their helpline.</p>
+<p>Unless detailed otherwise within this policy or lists of those with whom we share data, where we are Joint Controllers of Personal Data we will be the main contact for any individual data subject.</p>
+<p>You can contact us using the details above in order to exercise your data protection individual rights under GDPR and UK data protection legislation regarding any data shared.</p>
+<p>However, you may also still contact either us or the other Joint Controller (the organisation we are working with) about any personal data which we share.</p>
+<h3>What personal data do we collect?&nbsp;</h3>
+<p>We collect personal data (any information that could identify you) but on the basis that we collect the minimum amount of data that we need. You can find out more&nbsp;<strong>below.</strong></p>
+<p>We collect the following personal data:&nbsp;</p>
+<ul>
+<li>Identification information – such as your name and contact details (home address and/or post code, email, telephone number), date of birth, gender, your occupation, employment sector/type when you register to become a Member or update your profile</li>
+<li>Optional Information which enables us to provide you with more relevant discounts and offers – such as your interests and hobbies, and contract end dates for your utilities</li>
+<li>Information you give to us when you ask us for any help and support (for example, when you submit a request on our website – see (<a href="https://healthservicediscounts.zendesk.com/hc/en-gb/requests/new">https://healthservicediscounts.zendesk.com/hc/en-gb/requests/new</a>&nbsp;)</li>
+<li>Marketing preferences – such as which discounts and offers you want to receive information about</li>
+<li>Accounting data – relating to the running of our business and paying taxes (partners may tell us what services and/or products you have purchased although this is often anonymised)</li>
+<li>Technical and website use data – such as IP address, browser information, location and time-zone settings, operating system and platform data, as well as data on how you use our website and access partner websites, products, and services</li>
+<li>Statistical information – such as information that forms part of the aggregate information</li>
+<li>Publicly available data – such as information you share on social media</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<h3>Data Accuracy</h3>
+<p>We want your personal data to be accurate and up to date and may periodically contact you about this. However, if there are any changes to your personal data (such as a change of name) please let us know as soon as possible by updating your profile (log into your account and access the “My Profile” section at&nbsp;<a href="/my-profile">https://healthservicediscounts.com/my-profile</a>&nbsp;or by emailing or writing to us, using our contact information in the&nbsp;<strong>Contacting us</strong>&nbsp;section to do so.</p>
+<p>&nbsp;</p>
+<h3>How we collect your personal data</h3>
+<p>We collect your personal data in various ways and you can find out more about this below:</p>
+<p>We may collect your personal data in the following ways:</p>
+<ul>
+<li>Information that you give to us when you register, complete and update your “My Profile” section in your account.</li>
+<li>Information that you give to us when you ask us to help or provide support</li>
+<li>Information that you provide when using our website or social media (for example, you may comment on one of our Facebook posts)</li>
+<li>Information that you provide when you enter the lottery (<a href="http://www.healthservicediscountslottery.com">www.healthservicediscountslottery.com</a>, competitions or complete any surveys</li>
+<li>Information about you that is publicly available, such as on online content on social media</li>
+<li>Information about your visits to our website which will include (but are not limited to) your IP address and online tracking such as your location, browser, and the type of device you use, as well as automated technology which collects technical information about your equipment and internet use (please see our&nbsp;<a title="Cookie Policy" href="/cookie-policy">Cookie Policy</a>)</li>
+<li>Information from third parties, including our partners when you buy their products or services – we never have your secure financial/payment data (ie credit or debit card details)</li>
+<li>Information we receive when you visit our website from another website or from social media (such as LinkedIn or Twitter)</li>
+</ul>
+<p>&nbsp;</p>
+<p>If you decide not to give us personal data, we may not be able to provide some services to you. For example, without your email address, we can’t email you about any discounts or offers.</p>
+<p>&nbsp;</p>
+<h3>Using your personal data (purposes)</h3>
+<p>We use personal data so that we can:</p>
+<ul>
+<li>Provide you with the discounts, offers, and information you’ve asked for</li>
+<li>Provide you with any help or support and contact you in response to your communications with us</li>
+<li>Give you the best website user experience which can involve using any of your personal data for profiling activities so that we can send you tailored discounts and offers (to meet your own interests) but we also use anonymised data. However, you can opt out of profiling – see the&nbsp;<strong>Opting out of profiling&nbsp;</strong>section for this</li>
+<li>Help our partners to offer discounts and offers which our Members want</li>
+<li>Invite you to take part in a survey or other market research activities</li>
+<li>Contact you about any competitions we may run, including letting you know if you have won a prize</li>
+<li>Analyse and monitor how secure and effective our website and business is on an ongoing basis</li>
+</ul>
+<p>&nbsp;As a responsible organisation, we have additional checks in place (for example with profiling) to protect any vulnerable groups (particularly children).</p>
+<p>&nbsp;</p>
+<h3><strong>The lawful basis for using your personal data</strong></h3>
+<p>We must have a lawful basis before we can process your personal data. You can find out more about which lawful basis we rely on below:</p>
+<p>The lawful basis enabling us to use your personal data is one or more of the following:</p>
+<ul>
+<li>when processing is necessary for our legitimate interests or those of a third party, (provided those interests don’t override your interests, freedoms or rights) so that we can source and provide you with the best discounts and offers. As from the 25<sup>th</sup>&nbsp;of May 2018 you have a right to object to us using your personal information for these legitimate interests. This includes a right to object to profiling – see&nbsp;<strong>Your personal data rights&nbsp;</strong>section following<strong>.&nbsp;</strong></li>
+<li>to comply with a legal obligation (such as when we need to comply with the law or you exercise your data protection rights)</li>
+<li>where you have consented to the processing of your personal data, such as for marketing purposes. Remember you can change your mind at any time by updating your e-mail preferences (log into your account and access the “E-Mail Preferences” section at&nbsp;<a href="/email-preferences">https://healthservicediscounts.com/email-preferences</a>&nbsp;or by emailing or writing to us, using our contact information in the&nbsp;<strong>Contacting us</strong>&nbsp;section) but this may mean we can’t keep you up-to-date with the latest offers and discounts</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<h3>Opting out of profiling</h3>
+<p>You can opt out of profiling which we use, for example, so that we can send you tailored discounts and offers which meet your own interests by</p>
+<ul>
+<li><a title="Emailing" href="/profiling">emailing</a>&nbsp;or writing to us, using our contact information in the&nbsp;<strong>Contacting us</strong>&nbsp;section</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Data Security&nbsp;</h3>
+<p>We have put appropriate technical and security measures in place to protect your personal data. You can find out more below:</p>
+<p>To protect your personal data, we have put the following measures in place:</p>
+<ul>
+<li>security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, as well as altered or disclosed (including encryption and restricted access)</li>
+<li>internal policies and procedures (including a data protection policy) to deal with any issues, including notifying you where applicable</li>
+<li>undertaking a Data Protection Impact Assessment and similar safeguards to both consider and address the risks when appropriate, for example, before we start any new profiling</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Sharing and disclosing your personal data</h3>
+<p>Subject to data protection law, we may share or disclose your personal data with:</p>
+<ul>
+<li>our partners, so that we can ensure you get the best discounts and offers</li>
+<li>those who are providing products and services to us (such as subcontractors and suppliers) if they have appropriate processes in place to protect it</li>
+<li>government agencies and where the law requires us to share or disclose your information</li>
+<li>authorised third parties who track and store information about visitors to our website (including IP addresses)</li>
+<li>third parties who improve fraud protection and protect the security or integrity of our business operations</li>
+<li>any person or organisation to whom the business is sold or transferred</li>
+</ul>
+<p>Otherwise, we will only share your personal information if you have consented to this.</p>
+<p>Aside from the third parties who may receive anonymised data (see the&nbsp;<strong>Non-personal Information&nbsp;</strong>section) we share data with</p>
+<ul>
+<li>Our partners - lists of the types of third parties with whom we share data is can be found below. We’re always concerned about equality and accessibility so we’ve got separate lists to make it easier to view. However, we anonymise this data in so far as is possible and limit data sharing to the minimum needed for you to access offers</li>
+<li>A list of the third parties with whom we share data is can be found here:</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Lists of third parties with whom we share data</h3>
+<h3><strong>1. Our Partners</strong></h3>
+<p>We share data with our Partners – organisations we “partner” with&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>Why do we share it? To bring you the best discounts and offers and to run our website and business effectively&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>A list of the third parties (our partners) with whom we share data can be found here&nbsp;<a href="/retailers-a-z">https://healthservicediscounts.com/retailers-a-z</a></p>
+<p>We share data with the Health Service Discounts Lottery -&nbsp;<a href="http://www.healthservicediscountslottery.com">www.healthservicediscountslottery.com</a></p>
+<p>&nbsp;</p>
+<h3><strong>2. Our usual Suppliers&nbsp;</strong></h3>
+<p>These are some of the great organisations which supply us with services and products. Please also look at our section about Suppliers who keep data secure.</p>
+<p><strong>We share data with:&nbsp;&nbsp;</strong></p>
+<p><strong>Silverpop<br></strong>They handle our email newsletters and email marketing You can find their privacy policy or notice at&nbsp;<a href="https://www.ibm.com/privacy">https://www.ibm.com/privacy</a></p>
+<p><strong>Facebook Pixel<br></strong>For retargeting marketing – To show targeted ads to people who have visited our website&nbsp;<a href="https://www.facebook.com/about/privacy/update">https://www.facebook.com/about/privacy/update</a></p>
+<p><strong>Google Pixel<br></strong>For retargeting marketing – To show targeted ads to people who have visited our website&nbsp;<a href="https://policies.google.com/privacy?hl=en&amp;gl=uk">https://policies.google.com/privacy?hl=en&amp;gl=uk</a></p>
+<p><strong>Google Analytics<br></strong>Web analytics&nbsp;<a href="https://policies.google.com/privacy?hl=en-GB">https://policies.google.com/privacy?hl=en-GB</a></p>
+<p><strong>Google Suite<br></strong>File sharing and document management&nbsp;<a href="https://policies.google.com/privacy?hl=en-GB">https://policies.google.com/privacy?hl=en-GB</a></p>
+<p><strong>Jetlore Marketing<br></strong>To track preferences so we can offer you the best deals based on your choices&nbsp;&nbsp;&nbsp;<a href="http://www.jetlore.com/privacy">http://www.jetlore.com/privacy</a></p>
+<p><strong>HM Revenue and Customs<br></strong>Financial records as required by law&nbsp;<a href="https://www.gov.uk/government/organisations/hm-revenue-customs/about/personal-information-charter">https://www.gov.uk/government/organisations/hm-revenue-customs/about/personal-information-charter</a></p>
+<p>&nbsp;</p>
+<p><strong>2. Suppliers who keep data secure</strong></p>
+<p>Data security is important to us, so we list the types of organisations which we use but we don’t display their details on our website to avoid exposure to hackers and anyone who may misuse the information (so your personal data is not vulnerable). Any data subject can find out more by emailing our Data Protection Officer at&nbsp;<a title="DPO@wearediscounts.com" href="emailto:dpo@wearediscountsdpo.com">dpo@wearediscountsdpo.com</a></p>
+<p><strong>We share data with:&nbsp;&nbsp;</strong></p>
+<p>Organisations who host our websites, so they stay on line and are secure.</p>
+<p>Organisations who help us develop and maintain our websites this is so that we can develop our websites, offer more functions and make sure they run securely, effectively and efficiently.&nbsp; &nbsp; &nbsp;</p>
+<p>Organisations who provide us with email services so that we can send and receive emails.</p>
+<p>Organisations who provide us with financial services and products including accounting, banking and payment providers, this is so we can run our business, do our accounts and pay our taxes and the lovely people who work here.</p>
+<p>Marketing organisations to help market and promote our website and to track preferences so we can offer you the best deals based on your choices.&nbsp; &nbsp; &nbsp;</p>
+<p>Our partners may share your data with us when you have accessed their services and/or products, so you should check the relevant partner’s privacy policy when accessing their offers.</p>
+<p>We require all these third parties to respect your personal data, to process it on our instructions (where we are the data controller) and comply with the law in relation to data protection.</p>
+<p><strong>&nbsp;</strong></p>
+<h3>Your personal data rights</h3>
+<p>The law gives you certain rights in relation to your personal data and to exercise these rights contact our Data Protection Officer at DPO@wearediscountsdpo.com. The following rights may apply to personal data we collect and process it (these can vary according to the lawful basis we rely on to process personal data) so that you can:</p>
+<ul>
+<li>Access personal data that we hold about you (Right to access your personal data<strong>)</strong></li>
+<li>Make changes to your personal data if it is incomplete or inaccurate (Right to rectification). You can do this by logging into your account and accessing the “My Profile” section at&nbsp;<a href="/my-profile">https://healthservicediscounts.com/my-profile</a>&nbsp;and making the changes, or by emailing or writing to us, using our contact information in the&nbsp;<strong>Contacting us</strong>&nbsp;section to do so.</li>
+<li>Restrict the processing of your personal data in certain circumstances, including where we are relying on legitimate interest as a lawful basis to process your personal data and you need us to check this basis.&nbsp;</li>
+<li>Ask us to erase your personal data (Right to be forgotten) and prevent processing in specific circumstances, particularly when your consent is the lawful basis for us processing your data.</li>
+<li>Object to us processing your personal data in certain circumstances, including profiling and profiling for marketing purposes, and where we rely on legitimate interest as a lawful basis to process your personal data.</li>
+<li>Obtain and reuse your personal data for your own purposes across different platforms (data portability) where the processing is based on your consent or for the performance of a contract.<strong>&nbsp;</strong></li>
+</ul>
+<p>&nbsp;</p>
+<h3>Exercising your rights</h3>
+<p>When you choose to exercise any of your data protection rights: -</p>
+<ul>
+<li>We will ask you for some information (primarily identification and clarification) and we can supply an optional form for you to complete if you would like to use it.&nbsp;</li>
+</ul>
+<ul>
+<li>We will deal with your request as soon as we are able to; usually, that’s within one month of receiving it.</li>
+<li>If there is going to be a delay in dealing with your request (for example, because it’s complex) or there is a reason why we can’t comply with your request, we will let you know and explain why within one month of receiving your request.</li>
+<li>There is usually no charge unless your request is manifestly unfounded or excessive.</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Retaining personal data</h3>
+<p>We only retain personal data for as long as it is reasonably required before it is deleted, destroyed, or anonymised. Information about data retention, including the criteria we use, can be found <a href="/data-protection-policy">here</a>.</p>
+<p>We use the following criteria for data retention:</p>
+<ul>
+<li>Retention to deal with queries:</li>
+<li>Retention to meet legal and regulatory requirements: For example, we keep personal data after you cease to be a Member because we have legal and regulatory requirements to meet.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Our data retention details are below:&nbsp;&nbsp;</strong></p>
+<p>Potential Members - We will retain personal data for 12 months from the date of our last contact.</p>
+<p>Members - We will retain personal data for 7 years from the date that you ceased to be a member</p>
+<p>Potential Partners&nbsp;- We will retain personal data for 12 months from the date of our last contact.</p>
+<p>Partners&nbsp;- We will retain personal data for 7 years from the date that you ceased to be a partner.</p>
+<p>Potential Suppliers&nbsp;- We will retain personal data for 6 months from the date of the last time you contacted us.</p>
+<p>Suppliers&nbsp;- We will retain personal data for 7 years from the date that you ceased to be a supplier.</p>
+<p>Employees&nbsp;- We will retain personal data for 7 years from the date that you ceased to be an employee.</p>
+<p>Potential employees&nbsp;- We will retain personal data for 12 months from the date of the last time you contacted us.</p>
+<p>&nbsp;</p>
+<h3>Transferring personal data</h3>
+<p>Your data may be transferred or stored outside the EU to countries who may not have the same data protection as the EU but, if we do this, we will have an agreement with the third party who will be using an approved mechanism to keep the personal data secure. This means transferring data to providers who:</p>
+<ul>
+<li>adhere to certain agreed codes of conduct or certification approved by the European Commission, or</li>
+<li>the European Commission deems to have an adequate level of protection for personal data, or</li>
+<li>are based in the USA and are part of the EU-US Privacy Shield.</li>
+</ul>
+<p>If one of these safeguards isn’t in place, we’ll ask for your explicit consent, which can be withdrawn at any time.</p>
+<p>&nbsp;</p>
+<h3>Non-personal Information</h3>
+<p>To help us effectively run our website and business, our website collects non-personal information or aggregated information (which doesn’t identify an individual) from those who use it. For example, Google Analytics collects information about our website visitors, but the information is processed so that an individual cannot be identified from it because we work in accordance with their guidelines, so personal data should not be used or shared with them. Website searches may be powered by third parties but are anonymised.&nbsp;</p>
+<p>We use cookies on our website so, if you are using our website, please read our&nbsp;<a title="Cookie Policy" href="/cookie-policy">Cookie Policy</a>.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p></div>
         </div>
-        <input type="submit" value="Continue" class="green-button account-button">
-        <input id="ForgotPasswordPost" name="ForgotPasswordPost" type="hidden" value="True">
-        <div class="forgot-password-loading-container"><img src="http://images.healthservicediscounts.com/website/ajax-loader.gif" alt="Loading" height="32" width="32"></div>
-    </form>
-</div>
+    
+	    </article>
 
-<script type="text/javascript">
-    window.ForgotPassword();
+        <script type="text/javascript">
+    (function(funcName, baseObj) {
+        // The public function name defaults to window.docReady
+        // but you can pass in your own object and own function name and those will be used
+        // if you want to put them in a different namespace
+        funcName = funcName || "docReady";
+        baseObj = baseObj || window;
+        var readyList = [];
+        var readyFired = false;
+        var readyEventHandlersInstalled = false;
+
+        // call this when the document is ready
+        // this function protects itself against being called more than once
+        function ready() {
+            if (!readyFired) {
+                // this must be set to true before we start calling callbacks
+                readyFired = true;
+                for (var i = 0; i < readyList.length; i++) {
+                    // if a callback here happens to add new ready handlers,
+                    // the docReady() function will see that it already fired
+                    // and will schedule the callback to run right after
+                    // this event loop finishes so all handlers will still execute
+                    // in order and no new ones will be added to the readyList
+                    // while we are processing the list
+                    readyList[i].fn.call(window, readyList[i].ctx);
+                }
+                // allow any closures held by these functions to free
+                readyList = [];
+            }
+        }
+
+        function readyStateChange() {
+            if ( document.readyState === "complete" ) {
+                ready();
+            }
+        }
+
+        // This is the one public interface
+        // docReady(fn, context);
+        // the context argument is optional - if present, it will be passed
+        // as an argument to the callback
+        baseObj[funcName] = function(callback, context) {
+            if (typeof callback !== "function") {
+                throw new TypeError("callback for docReady(fn) must be a function");
+            }
+            // if ready has already fired, then just schedule the callback
+            // to fire asynchronously, but right away
+            if (readyFired) {
+                setTimeout(function() {callback(context);}, 1);
+                return;
+            } else {
+                // add the function and context to the list
+                readyList.push({fn: callback, ctx: context});
+            }
+            // if document already ready to go, schedule the ready function to run
+            if (document.readyState === "complete") {
+                setTimeout(ready, 1);
+            } else if (!readyEventHandlersInstalled) {
+                // otherwise if we don't have event handlers installed, install them
+                if (document.addEventListener) {
+                    // first choice is DOMContentLoaded event
+                    document.addEventListener("DOMContentLoaded", ready, false);
+                    // backup is window load event
+                    window.addEventListener("load", ready, false);
+                } else {
+                    // must be IE
+                    document.attachEvent("onreadystatechange", readyStateChange);
+                    window.attachEvent("onload", ready);
+                }
+                readyEventHandlersInstalled = true;
+            }
+        }
+    })("docReady", window);
+    //dataLayer.push({'event':'email_preferences_updated', 'event_category', });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>    <div id="back-to-top-wrapper" class="back-to-top-wrapper mod ptm pbm bgcol bgcol--primary align-centre" data-soi="0">
+	<div class="inner">
+		<a href="#" class="back-to-top">
+			Back to top
+			<svg class="back-to-top__icon">
+				<use xlink:href="/media/svg/sprite.svg#icon-arrow"></use>
+			</svg>
+		</a>
+	</div>
+</div>
+    <footer class="footer" data-soi="1">
+	<div class="inner">
+					<div class="footer__links">
+				<div class="columns mincols-2">
+				    <div class="column">
+		<h4>About</h4>
+		<ul>
+							<li><a href="/about">About us</a></li>
+							<li><a href="/tell-a-friend">Tell a friend</a></li>
+							<li><a href="/advertise-with-us">Advertise with us</a></li>
+							<li><a href="https://healthservicediscounts.zendesk.com/hc" rel="noopener" target="_blank">Help</a></li>
+							<li><a href="https://www.cavellnursestrust.org/">Cavell Nurses Trust</a></li>
+							<li><a href="/retailers-a-z">Our Retailers</a></li>
+					</ul>
+	</div>
+    
+			<div class="column">
+		<h4>Codes &amp; Deals</h4>
+		<ul>
+							<li><a href="/travel">Travel</a></li>
+							<li><a href="/shopping">Shopping</a></li>
+							<li><a href="/insurance">Insurance</a></li>
+							<li><a href="/money">Finance</a></li>
+							<li><a href="/mobiles">Mobiles</a></li>
+							<li><a href="/motoring">Motoring</a></li>
+							<li><a href="/broadband-tv-utilities">TV &amp; Broadband</a></li>
+					</ul>
+	</div>
+    
+			<div class="column">
+		<h4>Our Community</h4>
+		<ul>
+							<li><a href="http://blog.healthservicediscounts.com/?utm_source=website&amp;utm_medium=referral&amp;utm_campaign=Homepage+Footer" rel="noopener" target="_blank">Blog</a></li>
+							<li><a href="https://www.facebook.com/healthservicediscounts" rel="noopener" target="_blank">Facebook</a></li>
+							<li><a href="https://twitter.com/NHS_Discounts" rel="noopener" target="_blank">Twitter</a></li>
+							<li><a href="https://www.instagram.com/healthservicediscounts/" rel="noopener" target="_blank">Instagram</a></li>
+					</ul>
+	</div>
+    
+			<div class="column">
+		<h4>Healthcare Lottery</h4>
+		<ul>
+							<li><a href="http://www.healthservicediscountslottery.com/?utm_source=www.healthservicediscounts.com&amp;utm_medium=referral&amp;utm_content=footer&amp;utm_campaign=Website-Click">Play Now</a></li>
+					</ul>
+	</div>
+    
+			<div class="column">
+		<h4>Cashback Card</h4>
+		<ul>
+							<li><a href="/nhs-cashback-card">Sign up for your card</a></li>
+					</ul>
+	</div>
+    
+			<div class="column">
+		<h4>Legal Stuff</h4>
+		<ul>
+							<li><a href="/cookie-policy">Cookie Policy</a></li>
+							<li><a href="/privacy-policy">Privacy Policy</a></li>
+							<li><a href="/legal">Terms &amp; Conditions</a></li>
+							<li><a href=""></a></li>
+					</ul>
+	</div>
+    
+					</div>
+			</div>
+							<div class="footer__break-title">
+		<div class="footer__break--title-text">
+			<span>The UK's Biggest Healthcare &amp; NHS Discount Website</span>
+		</div>
+	</div>
+	<div class="footer-features">
+		<div class="columns mincols-3">
+							<div class="column">
+											<svg class="footer-feature__icon">
+							<use xlink:href="/media/svg/sprite.svg#icon-members"></use>
+						</svg>
+										<span class="footer-feature__label">1.8 Million +<br>Members</span>
+				</div>
+							<div class="column">
+											<svg class="footer-feature__icon">
+							<use xlink:href="/media/svg/sprite.svg#icon-free-membership"></use>
+						</svg>
+										<span class="footer-feature__label">Free<br>Membership</span>
+				</div>
+							<div class="column">
+											<svg class="footer-feature__icon">
+							<use xlink:href="/media/svg/sprite.svg#icon-nhs-trust-partnerships"></use>
+						</svg>
+										<span class="footer-feature__label">400+ NHS <br>Partnerships</span>
+				</div>
+							<div class="column">
+											<svg class="footer-feature__icon">
+							<use xlink:href="/media/svg/sprite.svg#icon-charity"></use>
+						</svg>
+										<span class="footer-feature__label">Over £100k<br>Raised for Charity</span>
+				</div>
+							<div class="column">
+											<svg class="footer-feature__icon">
+							<use xlink:href="/media/svg/sprite.svg#icon-experience"></use>
+						</svg>
+										<span class="footer-feature__label">15+ Years<br>Experience</span>
+				</div>
+							<div class="column">
+											<svg class="footer-feature__icon">
+							<use xlink:href="/media/svg/sprite.svg#icon-facebook-fans"></use>
+						</svg>
+										<span class="footer-feature__label">200k+<br>Facebook Fans</span>
+				</div>
+					</div>
+	</div>
+    
+								<div class="footer-social">
+		<h4>Follow us for the latest deals</h4>
+		<div class="footer-social__list">
+												<a href="https://www.facebook.com/healthservicediscounts" rel="noopener" target="_blank">
+						<svg class="footer-social__icon">
+							<use xlink:href="/media/svg/sprite.svg#icon-facebook"></use>
+						</svg>
+					</a>
+																<a href="https://twitter.com/NHS_Discounts" rel="noopener" target="_blank">
+						<svg class="footer-social__icon">
+							<use xlink:href="/media/svg/sprite.svg#icon-twitter"></use>
+						</svg>
+					</a>
+																<a href="https://www.instagram.com/healthservicediscounts" rel="noopener" target="_blank">
+						<svg class="footer-social__icon">
+							<use xlink:href="/media/svg/sprite.svg#icon-instagram"></use>
+						</svg>
+					</a>
+									</div>
+	</div>
+    
+								<div class="footer-supplementary">
+		<p>Health Service Discounts (previously NHS discounts) is an employee benefit provider for NHS employees, and is also available to their families and retired healthcare staff. From holidays to car insurance, mobile phones to fashion we offer exclusive deals from top names like Superbreak, Very, Virgin and Apple. And it’s absolutely FREE to join!</p>
+<p>Occasionally partners may increase or decrease the offer value, in which case the discount on our email may be incorrect. We try to ensure the data provided is accurate and up to date, though we do not accept liability for any errors or omissions.</p>
+<p>Copyright 2019. All rights reserved. Registered under the Data Protection Act. Registration No. Z4867545, Health Service Discounts as a trading style of&nbsp;We Are Discounts Ltd is authorised and regulated by the Financial Conduct Authority (674691).&nbsp;We Are Discounts Ltd provide an independent service free of charge but will receive a commission from the brokers and creditors they refer you to. We Are Discounts&nbsp;Ltd is a credit broker not a lender.&nbsp;Brinc Services Ltd is an introducer appointed representative for several insurers and insurance intermediaries, for more information please <a title="Insurer Information" href="/insurers">click here</a>.</p>
+	</div>
+    
+				</div>
+</footer>
+<div class="cookie-popup" data-soi="14">
+	<div class="inner">
+		<div class="cookie-popup__wrap">
+			
+			<p class="cookie-popup__message">
+	<span>Our website uses cookies so we can give you the best experience possible. They allow us to provide you with the offers and information you find most useful. Opting out will greatly reduce your web site experience and you may not be able to access offers. <a href="/cookie-policy">View our Cookie Policy</a>.</span>
+	<button class="cookie-popup__close">I Accept</button>
+</p>
+		</div>
+	</div>
+</div>    <script>
+    window.Laravel = {"csrfToken":"R3XJ4Pwm1yEa3Mj3iT6NbJaLWgCzBu1oSebqspbO"}</script>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Health Service Discounts",
+        "url": "https://healthservicediscounts.com"
+    }
 </script>
-        </div>
-    </div>
-    <div id="dialog-container"></div>
+<script>window.noZensmooth = true</script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.4.1/dist/instantsearch.min.js"></script>
+<script src="/js/app.js "></script>
 
-<script type="text/javascript">
-    window.NewsletterDialogUrl = '/Kaleida.Brinc/Account/NewsletterDialog';
-    window.UndeliverableDialogUrl = '/Kaleida.Brinc/Account/UndeliverableDialog';
-    window.AccountLinksWidget();
-</script></article>
+<!-- Global site tag (gtag.js) - Google Analytics -->
 
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
 
-<article class="widget-header-right widget-offer-search-box-widget widget">
-
-
-<div class="offer-search-container">
-    <div class="offer-search-header"></div>
-    <div class="offer-search-form">
-        <form action="/search-results" method="get" class="search-form">
-            <input class="offer-search-textbox rounded-corners-left" type="text" name="q" placeholder="Search retailer or product">
-            <input class="offer-search-button button" type="submit" value="Search">    
-        </form>
-    </div>
-</div></article></div>
-            </div>
-    </header>
-
-
-<div id="layout-below-navigation" class="group">
+            gtag('userStatus', 'loggedOut');
     
-</div>
-
-
-    <div id="layout-full-width-content" class="group">
-        <div class="zone zone-full-width-content">
-
-
-<article class="widget-full-width-content widget-html-widget widget"><div class="container"><!-- Mega Menu / Start
-================================================== -->
-<div class="menu style-3">
-<ul class="menu">
-<li><a href="/travel">Travel</a> <!-- Full Width Mega-Menu / Start -->
-<div class="mega-menu full-width">
-<div class="col-1w">
-<h4><a href="/travel/holidays/uk-holidays">UK Holidays</a></h4>
-<ol>
-<li><a href="/travel/holidays/uk-lodges-and-cottages">UK Lodges &amp; Cottages</a></li>
-<li><a href="/travel/holidays/uk-holiday-parks">UK Holiday Parks</a></li>
-<li><a href="/travel/holidays/uk-city-breaks">UK City Breaks</a></li>
-<li><a href="/travel/hotels-and-apartments">UK Hotels</a></li>
-</ol></div>
-<div class="col-1w">
-<h4><a href="/travel/europe-and-overseas">Europe &amp; Overseas</a></h4>
-<ol>
-<li><a href="/travel/europe-and-overseas/package-and-long-haul">Package &amp; Long Haul</a></li>
-<li><a href="/travel/europe-and-overseas/hotels-and-apartments">Hotels &amp; Apartments</a></li>
-<li><a href="/travel/europe-and-overseas/holiday-parks">Holiday Parks</a></li>
-<li><a href="/travel/europe-and-overseas/cruises">Cruises</a></li>
-<li><a href="/travel/europe-and-overseas/city-breaks">City Breaks</a></li>
-<li><a href="/travel/europe-and-overseas/villas">Villas</a></li>
-</ol></div>
-<div class="col-1w">
-<h4><a href="/travel/travel-extras">Travel Extras</a></h4>
-<ol>
-<li><a href="/travel/travel-extras/airport-parking">Airport Parking</a></li>
-<li><a href="/travel/travel-extras/car-hire">Car Hire</a></li>
-<li><a href="/travel/travel-extras/travel-insurance">Travel Insurance</a></li>
-<li><a href="/travel/travel-extras/airport-hotels">Airport Hotels</a></li>
-<li><a href="/travel/travel-extras/airport-transfers">Airport Transfers</a></li>
-</ol></div>
-<div class="col-1w">
-<h4><a href="/travel/transport">Transport</a></h4>
-<ol>
-<li><a href="/travel/transport/rail">Rail</a></li>
-<li><a href="/travel/transport/coach">Coach</a></li>
-<li><a href="/travel/transport/ferry">Ferry</a></li>
-<li><a href="/travel/transport/flights">Flights</a></li>
-</ol></div>
-<div class="col-1sw">
-<h4><a href="/travel/days-out-and-entertainment">Days Out &amp; Entertainment</a></h4>
-<ol>
-<li><a href="/travel/days-out-and-entertainment/theme-parks">Theme Parks</a></li>
-<li><a href="/travel/days-out-and-entertainment/concerts-and-gigs">Concerts &amp; Gigs</a></li>
-<!-- <li><a href="/travel/days-out-and-entertainment/events">Events</a></li>-->
-<li><a href="/travel/days-out-and-entertainment/experiences">Experiences</a></li>
-<li><a href="/travel/days-out-and-entertainment/leisure-and-attractions">Leisure &amp; Attractions</a></li>
-<li><a href="/travel/days-out-and-entertainment/theatre">Theatre</a></li>
-</ol></div>
-</div>
-<!-- Full Width Mega-Menu / End --></li>
-<li><a href="/shopping">Shopping</a> <!-- Full Width Mega-Menu / Start -->
-<div class="mega-menu full-width">
-<div class="col-1">
-<h4><a href="/shopping/electrical">Electrical</a></h4>
-<ol><!--<li><a href="/shopping/electrical/mobiles">Mobiles</a></li>-->
-<li><a href="/shopping/electrical/tablets">Tablets</a></li>
-<li><a href="/shopping/electrical/computing">Computing</a></li>
-<li><a href="/shopping/electrical/home-appliances-and-white-goods">Home Appliances &amp; White Goods</a></li>
-<li><a href="/shopping/electrical/gaming">Gaming</a></li>
-</ol></div>
-<div class="col-1">
-<h4><a href="/shopping">Shopping</a></h4>
-<ol>
-<li><a href="/shopping/vouchers-and-gift-cards">Vouchers and Gift Cards</a></li>
-<li><a href="/shopping/department-stores">Department Stores</a></li>
-<li><a href="/shopping/toys">Toys</a></li>
-<!-- <li><a href="/shopping/office">Office</a></li> -->
-<li><a href="/shopping/supermarkets">Supermarkets</a></li>
-<li><a href="/shopping/home-and-garden">Home and Garden</a></li>
-<li><a href="/shopping/gifts-and-flowers">Gifts and Flowers</a></li>
-</ol></div>
-<div class="col-1">
-<h4><a href="/shopping/gambling">Gambling</a></h4>
-<ol>
-<li><a href="/shopping/gambling/casinos">Casinos</a></li>
-<li><a href="/shopping/gambling/bingo">Bingo</a></li>
-<li><a href="/shopping/gambling/lottery">Lottery</a></li>
-</ol></div>
-<div class="col-1">
-<h4><a href="/shopping/fashion">Fashion</a></h4>
-<ol>
-<li><a href="/shopping/fashion/jewellery">Jewellery</a></li>
-<li><a href="/shopping/fashion/womens-fashion">Womens Fashion</a></li>
-<li><a href="/shopping/fashion/mens-fashion">Mens Fashion</a></li>
-<li><a href="/shopping/fashion/childrens-fashion">Childrens Fashion</a></li>
-</ol></div>
-<div class="col-1">
-<h4><a href="/shopping/health-and-fitness">Health &amp; Fitness</a></h4>
-<ol>
-<li><a href="/shopping/health-and-fitness/gym-membership-">Gym Membership</a></li>
-<li><a href="/shopping/health-and-fitness/dieting">Dieting</a></li>
-<li><a href="/shopping/beauty">Beauty &amp; Fragrance</a></li>
-<li><a href="/shopping/optical">Optical &amp; Eye Care</a></li>
-<li><a href="/shopping/health-and-fitness/cycling">Cycling</a></li>
-</ol></div>
-<div class="col-1">
-<h4><a href="#">Food &amp; Drink</a></h4>
-<ol>
-<li><a href="/shopping/restaurants">Restaurants</a></li>
-<li><a href="/shopping/food-and-drink">Food and Drink</a></li>
-<li><a href="/shopping/supermarkets">Supermarkets</a></li>
-</ol></div>
-<div class="col-1" style="padding-top: 5px;">
-<h4><a href="#">More Categories</a></h4>
-<ol>
-<li><a href="/shopping/baby-and-child">Baby &amp; Child</a></li>
-<li><a href="/shopping/dating">Dating</a></li>
-</ol></div>
-</div>
-</li>
-<li><a href="/insurance">Insurance</a> <!-- Full Width Mega-Menu / Start -->
-<div class="mega-menu">
-<div class="col-1">
-<h4><a href="#">Motoring</a></h4>
-<ol>
-<li><a href="/insurance/car-insurance">Car Insurance</a></li>
-<li><a href="/insurance/motorbike-insurance">Motorbike Insurance</a></li>
-<!--<li><a href="/insurance/breakdown-cover">Breakdown Cover</a></li>--></ol></div>
-<div class="col-1">
-<h4><a href="#">Home</a></h4>
-<ol>
-<li><a href="/insurance/home-insurance">Home Insurance</a></li>
-<li><a href="/insurance/life-insurance">Life Insurance</a></li>
-<!--<li><a href="/insurance/boiler-cover">Boiler Cover</a></li>--></ol></div>
-<div class="col-2">
-<h4><a href="#">Mobile &amp; Gadgets</a></h4>
-<ol>
-<li><a href="/insurance/gadget-insurance">Gadget Insurance</a></li>
-<li><a href="/insurance/mobile-insurance">Smartphone Insurance</a></li>
-</ol></div>
-<div class="col-1">
-<h4><a href="#">More</a></h4>
-<ol>
-<li><a href="/insurance/travel-insurance">Travel Insurance</a></li>
-<li><a href="/insurance/pet-insurance">Pet Insurance</a></li>
-<li><a href="/insurance/jewellery-insurance">Jewellery Insurance</a></li>
-<!--<li><a href="/insurance/bicycle-insurance">Bicycle Insurance</a></li> -->
-<li><a href="/insurance/wedding-insurance">Wedding Insurance</a></li>
-</ol></div>
-</div>
-<!-- Full Width Mega-Menu / End --></li>
-<li><a href="/money">Finance</a> <!-- Full Width Mega-Menu / Start -->
-<div class="mega-menu">
-<div class="col-1">
-<h4><a href="#">Borrowing</a></h4>
-<ol>
-<li><a href="/money/loans">Loans</a></li>
-<li><a href="/money/credit-cards">Credit Cards</a></li>
-<!--<li><a href="/money/mortgages">Mortgages</a></li>--></ol></div>
-<div class="col-1">
-<h4><a href="#">Saving</a></h4>
-<ol>
-<li><a href="/money/isas-and-savings">ISAs &amp; Savings</a></li>
-<li><a href="/cashback-redirect">Cashback Card</a></li>
-</ol></div>
-<div class="col-1"><!-- <h4><a href="#">More</a></h4> --><ol><!-- 
-<li><a href="/money/advice-and-helplines">Advice and Helplines</a></li> --></ol></div>
-</div>
-<!-- Full Width Mega-Menu / End --></li>
-<li><a href="/mobiles">Mobiles</a> <!-- Full Width Mega-Menu / Start -->
-<div class="mega-menu">
-<div class="col-1">
-<h4><a href="#">Plans</a></h4>
-<ol>
-<li><a href="/mobiles/pay-monthly">Pay Monthly</a></li>
-<li><a href="/mobiles/sim-only">Sim Only</a></li>
-</ol></div>
-<div class="col-1">
-<h4><a href="/mobiles/popular-phones">Popular Phones</a></h4>
-<ol>
-<li><a href="/mobiles/popular-phones/iphone-x">iPhone X</a></li>
-<li><a href="/mobiles/popular-phones/iphone-8">iPhone 8</a></li>
-<li><a href="/mobiles/popular-phones/iphone-7">iPhone 7</a></li>
-<li><a href="/mobiles/popular-phones/iphone-se">iPhone SE</a></li>
-<li><a href="/mobiles/all-iphone-deals">All iPhone Deals</a></li>
-<li><a href="/mobiles/popular-phones/samsung-s8">Samsung S8</a></li>
-<li><a href="/mobiles/popular-phones/samsung-s7-edge">Samsung S7 Edge</a></li>
-</ol></div>
-<div class="col-1">
-<h4><a href="/mobiles/networks">Networks</a></h4>
-<ol>
-<li><a href="/mobiles/networks/o2-deal"><img src="http://images.healthservicediscounts.com/website/o2menulogo.png"> O2 Deals</a></li>
-<li><a href="/mobiles/networks/ee-mobile-deals"><img src="http://images.healthservicediscounts.com/website/eemenulogo.png"> EE Deals</a></li>
-<!--<li><a href="/mobiles/networks/three-mobile-deals"><img src="http://images.healthservicediscounts.com/website/3menulogo.png">  Three Deals</a></li>-->
-<li><a href="/mobiles/networks/vodafone-deals"><img src="http://images.healthservicediscounts.com/website/vodafonemenulogo.png" style="margin-right: 1.5px;"> Vodafone Deals</a></li>
-<!--<li><a href="/mobiles/networks/id-mobile-deals"><img src="http://images.healthservicediscounts.com/website/idmenulogo.png">  iD Deals</a></li></ol></div>
-<div class="col-1">
-<h4><a href="#">More</a></h4>
-<ol><!--<li><a href="/mobiles/good-as-new-refurbished-mobile-phones">Good as New</a></li>-->
-<li><a href="/mobiles/tablets">Tablets</a></li>
-<li><a href="/mobiles/mobile-phone-insurance">Smartphone Insurance</a></li>
-</ol></div>
-</div>
-<!-- Full Width Mega-Menu / End --></li>
-<li><a href="/motoring">Motoring</a> <!-- Full Width Mega-Menu / Start -->
-<div class="mega-menu">
-<div class="col-1">
-<h4><a href="/insurance">Insurance</a></h4>
-<ol>
-<li><a href="/motoring/insurance/car">Car Insurance</a></li>
-<li><a href="/motoring/insurance/motorbike">Motorbike Insurance</a></li>
-</ol></div>
-<div class="col-1">
-<h4><a href="/travel/travel-extras">Travel Extras</a></h4>
-<ol>
-<li><a href="/motoring/car-hire">Car Hire</a></li>
-<li><a href="/motoring/airport-parking">Airport Parking</a></li>
-</ol></div>
-<div class="col-2">
-<h4><a href="#">Breakdown &amp; Repairs</a></h4>
-<ol>
-<li><a href="/motoring/breakdown-cover">Breakdown Cover</a></li>
-<li><a href="/motoring/mot-and-servicing">MOT &amp; Servicing</a></li>
-<li><a href="/motoring/car-warranty">Car Warranty</a></li>
-</ol></div>
-<div class="col-1">
-<h4><a href="/motoring">Buying a car</a></h4>
-<ol>
-<li><a href="/motoring/new-cars">New Cars</a></li>
-</ol></div>
-</div>
-<!-- Full Width Mega-Menu / End --></li>
-<li><a href="/broadband-tv-utilities">Broadband, TV &amp; Utilities</a> <!-- Full Width Mega-Menu / Start -->
-<div class="mega-menu full-width">
-<div class="col-1w">
-<h4><a href="/broadband-tv-utilities/broadband">Fibre Broadband</a></h4>
-<ol>
-<li><a href="/broadband-tv-utilities/broadband/fibre">Fibre</a></li>
-<li><a href="/broadband-tv-utilities/broadband/unlimited-fibre">Unlimited Fibre</a></li>
-</ol></div>
-<div class="col-1w">
-<h4><a href="/broadband-tv-utilities/broadband">Broadband</a></h4>
-<ol>
-<li><a href="/broadband-tv-utilities/broadband/unlimited-broadband">Unlimited Broadband</a></li>
-<li><a href="/broadband-tv-utilities/broadband/cheap-broadband">Cheap Broadband</a></li>
-<!--<li><a href="/broadband-tv-utilities/mobile-broadband">Mobile Broadband</a></li>--></ol></div>
-<div class="col-1w">
-<h4><a href="#">Triple &amp; Quad Play </a></h4>
-<ol><!--<li><a href="/broadband-tv-utilities/broadband/broadband-phone-and-sim-only-mobile">Broadband, Phone and Sim Only Mobile</a></li>-->
-<li><a href="/broadband-tv-utilities/broadband/broadband-phone-tv-and-sim-only-mobile">Broadband, Phone, TV and Sim Only Mobile</a></li>
-<li><a href="/broadband-tv-utilities/broadband/broadband-phone-and-tv">Broadband, Phone and TV</a></li>
-</ol></div>
-<div class="col-1sw">
-<h4><a href="/broadband-tv-utilities/digital-tv-and-streaming">Digital TV &amp; Streaming</a></h4>
-<ol>
-<li><a href="/broadband-tv-utilities/digital-tv-and-streaming/sky-tv">Sky TV</a></li>
-<!-- <li><a href="/broadband-tv-utilities/digital-tv-and-streaming/bt-tv">BT TV</a></li> **needs offers adding** -->
-<li><a href="/broadband-tv-utilities/digital-tv-and-streaming/now-tv">Now TV</a></li>
-</ol></div>
-<div class="col-1w">
-<h4><a href="/broadband-tv-utilities/utilities">Utilities</a></h4>
-<ol>
-<li><a href="/Kaleida.Brinc/Parts/WebSiteOfferRedirect?retailerName=EnergyHelpline&amp;offerId=11793&amp;listingPosition=7&amp;utm_source=hsdsource&amp;utm_medium=hsdmedium&amp;utm_content=EnergyHelpline|11793|7|Web&amp;category=0&amp;webClickLocation=OfferListing&amp;utm_campaign=WebsiteClick">NHS Energy Switch</a></li>
-<li><a href="/broadband-tv-utilities/utilities/gas-and-electricity">Gas and Electricity</a></li>
-<!-- <li><a href="/broadband-tv-utilities/utilities/boiler-cover">Boiler Cover</a></li> --> <!-- <li><a href="/broadband-tv-utilities/utilities/home-phone">Home Phone</a></li> --></ol></div>
-</div>
-<!-- Full Width Mega-Menu / End --></li>
-<!--<li style="background-color: #bd0505; background-image: -webkit-linear-gradient(bottom,rgba(189,5,5,0) 0%,rgba(189,5,5,0) 100%);"><a href="/nhs-discounts-offers/65/ChristmasGifts">Christmas</a></li>-->
-<li><a href="http://www.healthservicediscountslottery.com/?utm_source=www.healthservicediscounts.com&amp;utm_medium=referral&amp;utm_content=Lottery&amp;utm_campaign=Mega%20Menu%20Clicks">Lottery</a></li>
-<li><a href="/cashback-redirect">Cashback</a></li>
-</ul>
-</div>
-<!-- Mega Menu / End
-================================================== --></div></article></div>
-    </div>
-
-<div id="layout-main" class="group">
-    <div id="layout-content-container">
-    
-        <div id="layout-content" class="rounded-corners">
-            <div class="zone zone-content">
-<article class="content-item page">
-    <header>
-        
-    </header>
-    <div class="white-background">
-<h1 id="privacy-header" style="color: #0066cc; font-size: 20px; font-weight: bold; margin-top: 0;">Privacy Policy</h1>
-<p>Health Service Discounts are committed to safeguarding and preserving the privacy of members.</p>
-<p>The privacy policy below details what information we hold on you as a member and the ways in which we use this information. We do update this Privacy Policy from time to time so please review this regularly&nbsp;&nbsp; so you are aware of any updates.</p>
-<h2 style="color: #0066cc; font-size: 16px; font-weight: normal;">Personal Information &amp; Data</h2>
-<h2 style="color: #333333; font-size: 14px; font-weight: bold;">Information we collect</h2>
-<p><strong>Personal Data:</strong> When you sign up as a member to Health Service Discounts, we request your name, email address, occupation and other personal information such as home address and phone number. We may also ask you to provide optional information such as your hobbies, interests and utility contract end dates such as mobile phone and energy to provide you with more relevant discounts, offers and services. We may also capture your IP address to help us understand your location so we can provide discounts and deals relevant to your locality.</p>
-<p>We may also capture sales data you provide to our third-party partners such as product or service type and cost of product or service. We would never have access to any sensitive payment details.<br>To improve your experience, we may also collect information based on your use of our website and marketing emails, including details of products you engage with, pages you visit and resources accessed.</p>
-<p><strong>Sensitive Data:</strong> We may ask for optional personal data from time to time to help in instances such as insurance comparisons. This may include information about your racial or ethnic origin, physical or mental health condition and any criminal convictions or allegations of criminality.</p>
-<h2 style="color: #333333; font-size: 14px; font-weight: bold;">Information we share with others</h2>
-<p>We want to know as much as we can about our valuable members to provide the most relevant information and services to you. Considering this, we may send your information to 3rd party services with the sole objective of enhancing the data we may hold on you to gain extra information such as interests and hobbies. After receiving this information back, we would always request that the 3rd party destroys all information held on you.</p>
-<p>This enhanced information will then be used to provide you with more relevant offers and services.</p>
-<p>We may also share your information with trusted partners who we believe can help our members to save time and money. These selected partners may contact you from time to time via email, telephone or SMS.</p>
-<h2 style="color: #333333; font-size: 14px; font-weight: bold;">Use of Information</h2>
-<p>The information that we collect and store relating to you is primarily so we can provide a much better personal experience and more relevant content. In addition to this we may use the information for one or more of the following purposes:</p>
-<ul>
-<li>To provide information to you that you request from us relating to our products or services&nbsp;.</li>
-<li>To provide information to you relating to other products that may be of interest to you.</li>
-<li>To inform you of any changes to our website, services or goods and products&nbsp;.</li>
-<li>To personalise and improve your experience.</li>
-</ul>
-<p>If you are a previous or existing customer,&nbsp; we may contact you with information about products and services like those which were the subject of a previous sale to you. We or trusted partners may contact you about money saving products and services by any methods that you consented at the time your information was collected.</p>
-<p>You may stop these messages at any time by unsubscribing by opting-out using the link at the bottom of our emails&nbsp;.</p>
-<h2 style="color: #333333; font-size: 14px; font-weight: bold;">Disclosure of Information</h2>
-<p>We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:</p>
-<ul>
-<li>If the business is sold</li>
-<li>Where we are legally required by law to disclose your personal information</li>
-<li>To improve fraud protection and reduce the risk of fraud</li>
-<li>Storing Your Data</li>
-</ul>
-<p>In operating our website, it may become necessary to transfer data that we collect from you to locations outside of the European Union for processing and storing. By providing your personal data to us, you agree to this transfer, storing or processing. We do our upmost to ensure that all reasonable steps are taken to make sure that your data is treated and stored securely.</p>
-<p>&gt;Health Service Discounts exercises great care in providing transmission of member contact information between your PC and our servers. However, no data transmission over the Internet can be guaranteed to be 100% secure, and as a result, while we strive to protect personal information, Health Service Discounts can't ensure or warrant the security of any information a user may transmit to us and members do so at their own risk.</p>
-<h2 style="color: #333333; font-size: 14px; font-weight: bold;">Data Protection Act</h2>
-<p>In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. We reserve the right to charge a fee to cover costs incurred by providing this information.</p>
-<h2 style="color: #0066cc; font-size: 16px; font-weight: normal;">Security</h2>
-<p>Health Service Discounts directs members to suppliers &nbsp;and advertisers offering goods &nbsp;and services, which are available to be bought online and in some cases by phone or in store. It is these retailers and advertisers that are responsible to you for the security of transactions. Members can be reassured that while we do not offer purchasing from within this site we are rigorous in our selection of retailers and advertisers.</p>
-<p>Registered members &nbsp;are responsible for the security and proper use of all passwords used in connection with the website and must take all necessary steps to ensure that they are kept confidential, secure, used properly and not disclosed to unauthorised people.</p>
-<p>We reserve the right to suspend user &nbsp;ID and password access to the website if at any time Health Service Discounts considers that there is or is likely to be a breach of security.<br>Health Service Discounts reserves the right (at its sole discretion) to require members to change any or all the passwords used by you &nbsp;in connection with the website.</p>
-<h2 style="color: #0066cc; font-size: 16px; font-weight: normal;">Liability</h2>
-<p>Health Service Discounts is not liable either in contract, tort (including negligence) or otherwise for the acts or omissions of other providers of goods &nbsp;or services or for faults in those goods or services.</p>
-<p>Content is supplied to Health Service Discounts by third parties. We do not warrant or guarantee the accuracy or completeness of any of the content or any further information or results that may be derived from it. Members acknowledge that it is their responsibility to evaluate the accuracy and completeness of the content. Use of the content, for whatever purpose is at members sole risk.</p>
-<p>Members are solely responsible for evaluating any goods (including software) or services offered by third parties advertised, sold or otherwise made available on the Internet.&nbsp;</p>
-<p>Should a user &nbsp;have any complaint, problems or concerns regarding the purchase of goods and services, then members agree to take up that matter directly with the vendor of the goods or services in question. We will - at our discretion - however attempt to provide accurate contact information for the retailer, as well as using our retailer relationships&nbsp; to help with any enquiries you have.</p>
-<h2 style="color: #0066cc; font-size: 16px; font-weight: normal;">Cookies &amp; Third-Party Links</h2>
-<p>Cookies are small data files that are stored on your hard drive by browsers. This information cannot be seen by any other website (so the information is secure) and is used by us to provide features to improve your experience. Cookies may also be used to enable full use of our site, including logging in and user &nbsp;preferences.</p>
-<p>Health Service Discounts contains hyperlinks to websites owned and operated by third parties. These third-party websites have their own privacy policies, including cookies, over which we have no control. You should review their privacy policy before choosing to submit any personal data. We do not accept any responsibility or liability for the privacy practices of such third-party websites and your use of such websites is at your own risk. However, members can be reassured that we are rigorous in our selection of retailers and advertisers.</p>
-<p>We believe that cookies are necessary and non-intrusive. By clicking ‘OK’ on the cookie message at the foot of the Health Service Discounts website, you are accepting the use of our cookies. To use this website, cookies must be enabled.&nbsp;</p>
-<h2 style="color: #0066cc; font-size: 16px; font-weight: normal;">Email &amp; Anti-Spam Policy</h2>
-<p>By choosing to register as a member of Health Service Discounts you are automatically opted-in to receive electronic communications. We do not send junk email or spam and we do not share or rent email addresses or information.&nbsp;</p>
-<p>All our emails contain a link which enable you to unsubscribe from further communications. However, a few of our service emails are essential for efficient operation of your account and therefore it is not possible to unsubscribe.</p>
-<h2 style="color: #0066cc; font-size: 16px; font-weight: normal;">Company Details</h2>
-<p>Health Service Discounts is a trading name of We Are Discounts Ltd, a company registered in England &amp; Wales with the registration number 4009390 and registered address of We Are Discounts Ltd, Building 3, First Floor, Glasshouse Business Park, Glasshouse Road, Wigan, WN3 6GL. We are Discounts Ltd is not affiliated to or endorsed by the Department of Health or the NHS.</p>
-<p>We welcome any queries, comments or requests you may have regarding this Privacy Policy. Contact us at <a href="mailto:customerservice@brincltd.com">customerservice@brincltd.com</a></p>
-</div>
-</article></div>
-        </div>
-    </div>
-    
-</div>
-
-    <footer id="footer">
-            <div id="layout-footer-top" class="rounded-corners-top contains-search" data-searchpostion="Bottom Search">
-                <div class="zone zone-footer-top">
-
-
-<article class="widget-footer-top widget-offer-search-box-widget widget">
-
-
-<div class="offer-search-container">
-    <div class="offer-search-header">Health Service Discounts</div>
-    <div class="offer-search-form">
-        <form action="/search-results" method="get" class="search-form">
-            <input class="offer-search-textbox rounded-corners-left" type="text" name="q" placeholder="Search retailer or product">
-            <input class="offer-search-button button" type="submit" value="Search">    
-        </form>
-    </div>
-</div></article></div>
-            </div>
-                    <div id="layout-footer-middle" class="rounded-corners-bottom">
-                <div class="zone zone-footer-middle">
-
-
-<article class="widget-footer-category-menu widget-footer-middle widget-menu-widget widget">    <header>
-        <h3>Categories</h3>
-        
-    </header>
-
-<nav>
-    <ul class="menu menu-category-menu">
-        
-        
-<li class="first"><a href="/travel">Travel</a>
-</li>
-<li><a href="/shopping">Shopping</a>
-</li>
-<li><a href="/insurance">Insurance</a>
-</li>
-<li><a href="/money">Finance</a>
-</li>
-<li><a href="/mobiles">Mobiles</a>
-</li>
-<li><a href="/motoring">Motoring</a>
-</li>
-<li><a href="/broadband-tv-utilities">Broadband, TV &amp; Utilities</a>
-</li>
-<li><a href="http://www.healthservicediscountslottery.com">Lottery</a>
-</li>
-<li class="last"><a href="http://www.healthservicediscounts.com/cashback-redirect">Cashback</a>
-</li>
-    </ul>
-</nav></article>
-
-
-<article class="widget-footer-company-menu widget-footer-middle widget-menu-widget widget">    <header>
-        <h3>Company</h3>
-        
-    </header>
-
-<nav>
-    <ul class="menu menu-footer-company-menu">
-        
-        
-<li class="first">
-
-    <a href="/about">About</a> 
-</li>
-<li>
-
-    <a href="/tell-a-friend">Tell a friend</a> 
-</li>
-<li>
-
-    <a href="/advertise-with-us">Advertise with us</a> 
-</li>
-<li class="current">
-
-    <a href="/privacy-policy">Privacy Policy</a> 
-</li>
-<li><a href="https://healthservicediscounts.zendesk.com">Help</a>
-</li>
-<li>
-
-    <a href="/free-downloads">Free Downloads</a> 
-</li>
-<li class="last"><a href="http://blog.healthservicediscounts.com/?utm_source=HSD-website&amp;utm_medium=link-referral&amp;utm_campaign=Website-Click&amp;utm_content=footer">Blog</a>
-</li>
-    </ul>
-</nav></article>
-
-
-<article class="widget-footer-follow-us widget-footer-middle widget-html-widget widget">    <header>
-        <h3>Follow us on...</h3>
-        
-    </header>
-<p>Social media for<br>exclusive deals, news and competitions</p>
-<p><a href="http://www.facebook.com/healthservicediscounts"><img src="http://images.healthservicediscounts.com/website/social-facebook-50.png" alt="Find us on Facebook" height="40" width="40" target="_blank"></a>&nbsp; &nbsp;<a href="http://twitter.com/NHS_Discounts"><img src="http://images.healthservicediscounts.com/website/social-twitter-50.png" alt="Follow us on Twitter" height="40" width="40" target="_blank"></a>&nbsp; &nbsp;<a href="http://www.pinterest.com/nhsdiscounts"><img src="http://images.healthservicediscounts.com/website/social-pinterest-50.png" alt="Join us on Pinterest" height="40" width="40" target="_blank"></a>&nbsp; <br><a href="//plus.google.com/u/0/110674215261934682856?prsrc=3" rel="publisher" target="_top" style="text-decoration: none;"><img src="//ssl.gstatic.com/images/icons/gplus-64.png" alt="Google+" style="border: 0; width: 40px; height: 40px;" target="_blank"> </a>&nbsp; &nbsp;<a href="https://www.instagram.com/healthservicediscounts/"><img src="http://images.healthservicediscounts.com/website/Instagram_Icon_Large.png" alt="Follow us on Instagram" height="40" width="40" target="_blank"></a></p></article></div>
-            </div>
-                    <div id="layout-footer-bottom">
-                <div class="zone zone-footer-bottom">
-
-
-<article class="widget-footer-bottom widget-html-widget widget"><p class="MsoNormal"><span style="color: #1f497d;">Health Service Discounts (previously NHS discounts) is an employee benefit provider for NHS employees, and is also available to their families and colleagues. From holidays to car insurance, mobile phones to fashion we offer exclusive deals from top names like Superbreak, Very, Virgin and Apple. <o:p></o:p></span></p>
-<p class="MsoNormal"><span style="color: #1f497d;">Signing up is absolutely FREE and we’ll email you all the latest deals and discounts direct to your inbox so you don’t miss out. By creating an account you accept our <a href="http://www.healthservicediscounts.com/privacy-policy" style="text-decoration: underline;">Privacy Policy</a>. If you provide a contact telephone number, Health Service Discounts or one of our trusted partners may contact you from time to time with money-saving deals or services.<o:p></o:p></span></p>
-<p class="MsoNormal"><span style="color: #1f497d;">Occasionally partners may increase or decrease the offer value, in which case the discount on our email may be incorrect. We try to ensure the data provided is accurate and up to date, though we do not accept liability for any errors or omissions. <o:p></o:p></span></p>
-<p class="MsoNormal"><span style="color: #1f497d;">Copyright 2015. All rights reserved. Registered under the Data Protection Act. Registration No. Z4867545. Health Service Discounts, as a trading style of We Are Discounts Ltd, is authorised and regulated by the Financial Conduct Authority (674691).&nbsp;We&nbsp;Are Discounts Ltd provide an independent service free of charge but will receive a commission from the brokers and creditors they refer you to. We Are Discounts Ltd is a credit broker not a lender. Brinc Services Limited is an introducer appointed representative for several Insurers, for more information please <a href="http://www.healthservicediscounts.com/insurers">click here</a>.</span></p></article>
-
-
-<article class="widget-footer-bottom widget-switch-to-mobile-widget widget">
-
-
-<script type="text/javascript">
-    SwitchToMobileGA();
-</script></article></div>
-            </div>
-    </footer>
-
-<div id="right-banner">
-    
-</div>
+    gtag('js', new Date());
+    gtag('config', 'UA-122298506-10', { 'optimize_id': 'GTM-56MGKMF' });
+</script>
 
 
 
 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51de605f27aaa351"></script>
 
 
 
-        
-    
+
+	<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async=""></script>
+
+        <script src="/js/backtotop.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d86c2a663a","applicationID":"88987433","transactionName":"NAFVMkADXBUEUxYIWw1LdgVGC10ISkMLFVFNFFYBV0xbCAFVGg==","queueTime":0,"applicationTime":107,"atts":"GEZWRAgZTxs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 </body></html>
