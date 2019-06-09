@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hideme.be privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123131116id_/http%3A//www.hideme.be/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hideme.be privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609025607id_/http%3A//hideme.be/privacy.php) for the most accurate reproduction.*
 
 # HideMe - Free Web Proxy & Anonymous Surfing
 
-[Home](https://web.archive.org/web/20181123131116id_/http%3A//www.hideme.be/index.php) | [My Ip](https://web.archive.org/web/20181123131116id_/http%3A//www.hideme.be/myip.php) | [How To Stay Anonymous](https://web.archive.org/web/20181123131116id_/http%3A//www.hideme.be/tips.php) | [Contact](https://web.archive.org/web/20181123131116id_/http%3A//www.hideme.be/contact.php)
+[Home](https://web.archive.org/web/20190609025607id_/http%3A//hideme.be/index.php) | [My Ip](https://web.archive.org/web/20190609025607id_/http%3A//hideme.be/myip.php) | [How To Stay Anonymous](https://web.archive.org/web/20190609025607id_/http%3A//hideme.be/tips.php) | [Contact](https://web.archive.org/web/20190609025607id_/http%3A//hideme.be/contact.php)
 
 ## Privacy Policy
 
@@ -58,11 +58,11 @@ Although most changes are likely to be minor, HideMe may change its Privacy Poli
 
 
   * [Social Beheer](https://www.socialmediabeheer.com/)
-  * [Edit Browser](https://web.archive.org/web/20181123131116id_/http%3A//www.hideme.be/edit-browser.php)
-  * [Cookies](https://web.archive.org/web/20181123131116id_/http%3A//www.hideme.be/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20181123131116id_/http%3A//www.hideme.be/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20181123131116id_/http%3A//www.hideme.be/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20181123131116id_/http%3A//www.hideme.be/terms.php)
-  * [FAQ](https://web.archive.org/web/20181123131116id_/http%3A//www.hideme.be/faq.php)
+  * [Edit Browser](https://web.archive.org/web/20190609025607id_/http%3A//hideme.be/edit-browser.php)
+  * [Cookies](https://web.archive.org/web/20190609025607id_/http%3A//hideme.be/cookies.php)
+  * [Privacy Policy](https://web.archive.org/web/20190609025607id_/http%3A//hideme.be/privacy.php)
+  * [Disclaimer](https://web.archive.org/web/20190609025607id_/http%3A//hideme.be/disclaimer.php)
+  * [Terms of Use](https://web.archive.org/web/20190609025607id_/http%3A//hideme.be/terms.php)
+  * [FAQ](https://web.archive.org/web/20190609025607id_/http%3A//hideme.be/faq.php)
 
 
