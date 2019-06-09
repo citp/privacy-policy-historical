@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeplusonline.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822085459id_/https%3A//tradeplusonline.com/Tradeplus-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeplusonline.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609193225id_/https%3A//www.tradeplusonline.com/Tradeplus-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Discount Broker in India | Lowest Brokerage | Stock Broker
 
