@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emfraa.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219152530id_/http%3A//www.emfraa.com/pages/privacy-security-emfraa.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emfraa.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609054428id_/http%3A//emfraa.com/pages/privacy-security-emfraa.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
