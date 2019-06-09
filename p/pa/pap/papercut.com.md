@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the papercut.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110074659id_/https%3A//www.papercut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papercut.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609212621id_/https%3A//www.papercut.com/privacy-policy) for the most accurate reproduction.*
 
-# PaperCut - Print management software used by 50k organizations to control and quota printing
+# PaperCut's Privacy Policy
 
 A lot of companies publish intimidating, detailed "legal speak" privacy policies. At PaperCut, we've decided that our privacy policy should be simple and easy to understand. The PaperCut Privacy Policy sets out how we handle personal information, and applies across our whole business and all our products and services.
 
@@ -82,7 +82,7 @@ But also to:
 
   * Understand and improve our products.
   * Assist you with technical support issues or other issues relating to our Products and Services. This may include sharing your support requests and data logs with our Trusted Partners (for example Authorized Solution Centers).
-  * Send you operational information (information required for us to continue providing your product and/or service i.e. advising your Premium Upgrade Assurance is about to expire).
+  * Send you operational information (information required for us to continue providing your product and/or service i.e. advising your Maintenance & Support is about to expire).
   * Communicate with you and respond to your inquiries and fulfil your requests (such as sending you requested materials) as well as information and materials regarding our products and services.
   * Send email and/or SMS marketing communications e.g. newsletters and product upgrades. These will only be sent to you if you have requested the information or opted in to receiving marketing communications. We'll provide you with instructions for how you can remove yourself from that mailing list if you so wish.
   * Record your marketing and communication preferences so we can keep you informed about our product updates and service offerings.
@@ -103,7 +103,7 @@ Two more things to note:
 
 ## For Authorized Solution Centers (ASCs) and Resellers
 
-  * A prerequisite when becoming an ASC or Reseller is to provide your contact details (email and mobile) to enable PaperCut to provide operational notifications and communications. For example, your customer's Premium Upgrade Assurance is about to expire, and product release updates.
+  * A prerequisite when becoming an ASC or Reseller is to provide your contact details (email and mobile) to enable PaperCut to provide operational notifications and communications. For example, your customer's Maintenance & Support is about to expire, and product release updates.
   * We'll email you newsletters and other marketing communications only if you have opted in, and we'll provide you with instructions as to how you can remove yourself from that mailing list if you so wish.
 
 
