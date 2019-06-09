@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecube.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023050149id_/https%3A//www.nfhsnetwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecube.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609121653id_/https%3A//www.nfhsnetwork.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Live high school sports video on the NFHS Network | NFHSNetwork.com
+# Privacy Policy
 
 The NFHS Network is committed to protecting your privacy. This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of your information. This policy may change from time to time, so please refer back to it periodically. By accessing our website or otherwise using our service, you consent to our information practices.
 
@@ -12,30 +12,30 @@ When you interact with us, we may ask you to supply us with personal information
 
 The information we may collect from you directly includes:
 
-  * Contact information, such as name, email address, postal address, phone number, and mobile number.
-  * User name, which is your email address, and password.
-  * Age and date of birth.
-  * Other demographic information, such as gender, job information, and zip code.
-  * Your preferences, such as favorite schools or preferred channels on our site and other user interfaces.
-  * Communications preferences, such as which newsletters you would like to receive.
-  * Search queries.
-  * In limited circumstances, payment and identity verification information, such as credit card number.
-  * Contact information about others when you provide information about others or refer a friend to a particular site or service (note: such information is used solely to facilitate the communications requested).
-  * Correspondence you send to us.
+  1. Contact information, such as name, email address, postal address, phone number, and mobile number.
+  2. User name, which is your email address, and password.
+  3. Age and date of birth.
+  4. Other demographic information, such as gender, job information, and zip code.
+  5. Your preferences, such as favorite schools or preferred channels on our site and other user interfaces.
+  6. Communications preferences, such as which newsletters you would like to receive.
+  7. Search queries.
+  8. In limited circumstances, payment and identity verification information, such as credit card number.
+  9. Contact information about others when you provide information about others or refer a friend to a particular site or service (note: such information is used solely to facilitate the communications requested).
+  10. Correspondence you send to us.
 
 
 
 Information we may collect automatically on our site and other user interfaces:
 
-  * Your browser type and operating system.
-  * Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area.
-  * Sites you visited before and after visiting our site.
-  * Web pages and advertisements you view and links you click on.
-  * Unique identifiers, including mobile device identification numbers that can identify the physical location of such devices in accordance with applicable law.
-  * Information collected through cookies, web beacons, and other technologies.
-  * Information about your interactions with audio and video content, such as the type of content listened to and viewed, and information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded.
-  * Upon request, your bandwidth speed and information about the software programs installed on your computer.
-  * Standard server log information.
+  1. Your browser type and operating system.
+  2. Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area.
+  3. Sites you visited before and after visiting our site.
+  4. Web pages and advertisements you view and links you click on.
+  5. Unique identifiers, including mobile device identification numbers that can identify the physical location of such devices in accordance with applicable law.
+  6. Information collected through cookies, web beacons, and other technologies.
+  7. Information about your interactions with audio and video content, such as the type of content listened to and viewed, and information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded.
+  8. Upon request, your bandwidth speed and information about the software programs installed on your computer.
+  9. Standard server log information.
 
 
 
@@ -103,7 +103,7 @@ The Help portion of the toolbar on most browsers will tell you how to prevent yo
 
 ## Third Party Advertisers
 
-We permit CBS Interactive Inc. and its affiliates, partners, and advertisers (“third-party advertisers”) to place tags, scripts, and beacons (“third-party tags”) on our site as part of the advertisements displayed on our sites. These third-party tags may set cookies on your device and may also gather information about your device and the pages you visit on our site and on other sites that display third-party tags. Our third-party advertisers use the information gathered through third-party tags in accordance with their respective privacy policies. CBS Interactive Inc.’s privacy policy is available at<https://www.cbsinteractive.com/legal/cbsi/privacy-policy>. By visiting our sites, you consent to the automatic collection and use of information by our third party advertisers in accordance with this policy and with the third party advertisers’ privacy policies as posted from time to time.
+We permit CBS Interactive Inc. and its affiliates, partners, and advertisers (“third-party advertisers”) to place tags, scripts, and beacons (“third-party tags”) on our site as part of the advertisements displayed on our sites. These third-party tags may set cookies on your device and may also gather information about your device and the pages you visit on our site and on other sites that display third-party tags. Our third-party advertisers use the information gathered through third-party tags in accordance with their respective privacy policies. CBS Interactive Inc.’s privacy policy is available athttps://www.cbsinteractive.com/legal/cbsi/privacy-policy. By visiting our sites, you consent to the automatic collection and use of information by our third party advertisers in accordance with this policy and with the third party advertisers’ privacy policies as posted from time to time.
 
 If streaming videos displayed on our sites include third-party tags, the third parties that have provided the third-party tags may also receive information about videos you watch on our sites, and you consent to the sharing of this information.
 
