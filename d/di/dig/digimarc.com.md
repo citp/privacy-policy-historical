@@ -1,149 +1,140 @@
-> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015212030id_/https%3A//www.digimarc.com/about/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609235608id_/https%3A//www.digimarc.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Digimarc's Privacy Policy
 
 ## Digimarc Corporation is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.
 
-This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the “Site”). By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
+Last updated: May 2018
 
-PRIVACY POLICY LAST UPDATED: April 16, 2012
+This privacy policy explains the personal data we process, how we process that data, and why we process that data. Personal data is information that identifies or that is capable of identifying a natural person. Processing is any operation that may be performed on personal data and includes collecting, storing, using, and erasing personal data.
 
-### Personal information we collect
+References to Digimarc products in this privacy policy include Digimarc’s products, services, website, mobile apps, and other software.
 
-**"Personal Information"** is information that identifies you as an individual, such as:
+### Personal Data We Collect
 
-  * Name
-  * Postal address (including billing and shipping addresses)
-  * Telephone number
-  * Email address
-  * Credit card or other payment card number
+We collect personal data from you through your registration for and interaction with our products for the purposes described below. These purposes include providing our products, analyzing your use of our products, improving our products, and developing new products.
 
+We also may obtain personal data about you from third parties. We process this data in accordance with this privacy policy and any additional restrictions placed on the processing of that data by the third party providers.
 
+The personal data we collect from you depends on which of our products you use and the other interactions you have with us. This data may include:
 
-### How we use personal information
-
-We may use Personal Information:
-
-  * to respond to your inquiries and fulfill your requests, such as to send you newsletters.
-  * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information.
-  * to send you marketing communications that we believe may be of interest to you.
-  * to personalize your experience on the Site by presenting products and offers tailored to you.
-  * to permit you to subscribe for digital watermark embedding and related services through the Site, and to provide you with such services.
-  * to complete and fulfill your purchase, for example, to process your payments, have your order delivered to you, communicate with you regarding your purchase and provide you with related customer service.
-  * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
-  * to allow you to participate in public forums.
-  * to allow you to use social media sharing functionalities.
-  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns.
-  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+  * Name and contact information. Personal data you provide us when registering for our products, including first and last name, email address, postal address, phone number, and similar information.
+  * Credentials. Usernames and passwords you create to access and use our products.
+  * Demographic data. Your country of residence.
+  * Device and usage data. Personal data about your use of our products, including the activities you perform on your account, the Digimarc webpages you visit, and the devices from which you access our products, including IP address and device identifier. This data may be obtained from your use of our software as integrated in third party products.
+  * Content. Content you provide us through your use of our products. For example, images and audio content you upload to the Digimarc Barcode Manager.
+  * Location data. Personal data about your device’s city-level location, based on your device’s IP address.
+  * Other data you provide. Other personal data you provide us through use of our products, including messages, survey responses, and other feedback.
 
 
 
-### How Personal Information is Disclosed
+We may obtain personal data about you from third parties. When we do so, we process that data consistent with this policy and subject to any additional restrictions placed on that processing by the third party providing us that data.
 
-Your Personal Information may be disclosed:
+### Personal Data Use
 
-  * to our affiliates to provide you with such services. Digimarc Corporation is the party responsible for the management of the jointly-used Personal Information.
-  * to our third party business partners to provide certain watermarking services.
-  * to our third party service providers who provide services such as website hosting, data analysis, infrastructure provision, IT services, customer service, email delivery services, auditing services and other similar services to enable them to provide services.
-  * to third parties sponsors of sweepstakes, contests and similar promotions.
-  * to third parties, to the extent that you include Personal Information in a submission to any public forums offered through the Site, or request that we share Personal Information with third parties.
-  * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
-  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+We use your personal data to provide products, operate our business, comply with our legal and contractual obligations, protect our systems and customers, and to fulfill our other legitimate interests.
 
-
-
-### Other information we collect
-
-**"Other Information"** is any information that does not reveal your specific identity or does not directly relate to an individual, such as:
-
-  * Browser information
-  * Information collected through cookies, pixel tags and other technologies
-  * Demographic information and other information provided by you
-  * Aggregated information
+  * Provide our products. We use your personal data to operate our products and services.
+  * Improve our products and develop new products. We use your personal data to monitor and improve performance of our products and to develop new products. This may include our use of location-based product usage information to optimize delivery of our products and the performance of our products, and the use of error report information to diagnose and correct problems with our products.
+  * Provide customer support. We use your personal data to diagnose and correct problems with our products, including by responding to support requests and providing other support services.
+  * Provide promotional communications. We use your personal data to provide promotional communications. You can unsubscribe from these communications at any time by clicking the “unsubscribe” link in the footer of those communications.
+  * Negotiate and perform contracts. We use your personal data to negotiate contracts with you and to perform contracts we have entered with you.
+  * Transact commerce. We use your personal data to process commercial transactions you request to undertake with us.
+  * Analyze business operations. We use personal data to analyze business operations and to engage in other business intelligence activities.
+  * Comply with the law. We use your personal data to comply with our legal obligations.
 
 
 
-### How We Collect Other Information
+### Personal Data Sharing
 
-We and our third party service providers may collect Other Information in a variety of ways, including:
+We may share your personal data with our subsidiaries and with our third party service providers. We may also share your personal data with third parties to exercise our legal rights and perform our legal obligations, and in other circumstances where you have granted us permission to share your personal data.
 
-  * **Through your browser:**  Certain information is collected by most browsers, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system version and Internet browser type and version. We use this information to ensure that our Site functions properly.
-  * **Using cookies:**  Cookies are pieces of information stored directly on the computer that you are using.  Cookies allow us to collect information such as device type, browser type, time spent on the Site, pages visited and other browsing history, language preferences and usernames. We and our service providers use the information for security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while visiting the Site, as well as for online tracking purposes. We can recognize your computer to assist your use of our Site. We also gather statistical information about the usage of the Site in order to continually improve the design and functionality, understand how customers use the Site and to assist us with resolving questions regarding the Site.
-
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular web site. Information about the procedure you are required to follow in order to disable cookies can be found on your Internet browser provider’s web site. If cookies are disabled, however, not all features of the Site may operate as intended.
-
-  * **Using pixel tags and other similar technologies:**  Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Site pages and HTML-formatted email messages to, among other things, track the actions of Site users and email recipients, measure the success of our marketing campaigns and compile statistics about Site usage and response rates.
-  * **IP Address:**  Your “IP Address” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering the Site.
-  * **From you:** Information such as your location, as well as other information, such as your preferred means of communication, is collected when you voluntarily provide this information. Unless combined with Personal Information, this information does not personally identify you or any other user of the Site.
-  * **By aggregating information:**  Aggregated Personal Information does not personally identify you or any other user of the Site, (for example, we may aggregated Personal Information to calculate the percentage of our users who have a particular telephone area code).
+  * Subsidiaries. We may share your personal data with our subsidiaries for the purposes stated in this privacy policy.
+  * Third party service providers. We may share your personal data with third party services providers who process data on our behalf in ways that are consistent with this privacy policy.
+  * Third parties for legal purposes. We may share your personal data as required by law or as necessary to exercise our legal rights. For example, we may share your personal data as required by law enforcement or in connection with legal proceedings, and transfer your data in connection with a sale, merger, transfer, or reorganization of our business or business assets.
+  * Permission. We may share your personal data in other circumstances where you have given us permission to do so.
 
 
 
-### How We Use and Disclose Other Information
+### Where We Process Personal Data
 
-Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then, in addition to the uses listed in the “How We Collect Other Information” section above, we may use and disclose Other Information for all the purposes for which we use and disclose Personal Information.
+We may process your personal data in the United States and in any other country where we, our subsidiaries, or our service providers maintain facilities. We choose data processing locations to optimize delivery of our products, to create redundancies to protect data, and to continue to provide our products in the event of an outage. Our service providers maintain facilities throughout the world.
 
-In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+We transfer personal data from the European Economic Area and Switzerland to other countries, some of which have been determined by the European Commission not to have an adequate level of data protection. When we do so, we use contracts to ensure your rights and protections travel with your data. To learn more about the European Commission’s decisions on the adequacy of the protection of personal data in non-European Union countries, please visit: <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en>.
 
-### Third Party Sites
+### Our Retention of Personal Data
 
-This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.
+We retain your personal data as long as necessary to provide the products you have requested and to perform the contracts you have entered with us, to fulfill our legitimate interests, including to exercise our legal rights and to perform our legal obligations. Our need to retain personal data varies based on the type of data and the reasons we collected it, so our retention periods vary as well.
 
-### Security
+We use the following criteria to determine how long to retain personal data:
 
-We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section below.
-
-### Your choices regarding our use and disclosure of your Personal Information
-
-We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
-
-  * **Receiving telephone calls from us:** If you no longer want to receive marketing-related telephone calls from us on a going-forward basis, you may opt-out of receiving these marketing-related telephone calls by sending an email to [helpdesk@digimarc.com](mailto:helpdesk@digimarc.com).
-  * **Receiving electronic communications from us:**  If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by sending an email to [helpdesk@digimarc.com](mailto:helpdesk@digimarc.com).
+  * Customer expectations. We retain personal data consistent your expectations concerning the performance of the products we provide you.
+  * Legitimate interests. We retain personal data to fulfill our legitimate interests.
+  * Legal obligations. We retain personal data as required by data retention laws, to comply with government orders, and as necessary to meet preservation requirements in litigation. We also remove personal data if required to do so by law.
 
 
 
-We aim to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove your Personal Information from the databases of our affiliates or unaffiliated third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). Please also note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+### Data Security
 
-### How you can access, change or suppress your Personal Information
+We use data security technology and reasonable data security procedures to help protect your personal data from unauthorized access, use, disclosure, and alteration or destruction. These measures include storing your personal data on access-controlled computer systems and in secure storage facilities. We comply with applicable data protection laws, including applicable security breach notification laws.
 
-If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that has been previously provided to us, you may contact us by email at [helpdesk@digimarc.com](mailto:helpdesk@digimarc.com), or by writing to:
+### Cookies
+
+We use cookies to store your settings, to enable you to sign in to use our products, to analyze how our products perform, and to fulfill our other legitimate interests. You may control the data collected by cookies using controls in your Internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies.
+
+### Children
+
+Our products are intended to be used by adults. We do not intentionally or knowingly collect personal data from children and we ask that children not provide personal data to us.
+
+### Changes To This Privacy Policy
+
+We may update this privacy policy from time to time, including as necessary to comply with legal requirements and to describe changes to our data processing policies. When we post changes to this privacy policy, we will revise the “last updated” legend at the top of the privacy policy to indicate that changes have been made. We encourage you to review this privacy policy periodically.
+
+### Contact Us
+
+If you have any questions or concerns about this privacy policy, please contact us at privacy [at] digimarc [dot] com.
+
+## European Economic Area and Switzerland Residents
+
+Residents of countries in the European Economic Area and Switzerland have additional rights with respect to personal data. The following applies to residents of those countries with respect to whom we process personal data: 
+
+### Data Controller
+
+For purposes of this privacy policy, the data controller is: 
 
 Digimarc Corporation  
 9405 SW Gemini Drive  
-Portland, Oregon 97008  
-USA  
-ATTN: Privacy Officer
+Beaverton, Oregon 97008  
+USA
 
-In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable.
+### Purposes and Legal Bases for Data Processing
 
-### Retention Period
+The purposes for our processing of your personal data are described above.
 
-We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+The legal bases for our processing of your personal data are:
 
-### Use of Site by Minors
+  * With your consent. We process your personal data when you have provided us your consent to do so, consistent with the scope of that consent. Where you have provided us consent to process your personal data, you may withdraw that consent at any time.
+  * To fulfill a legitimate interest. We process your personal data to fulfill our legitimate interests.
+  * To enter or perform a contract. We process your personal data as necessary to enter into and to perform contracts we have entered into you.
+  * To comply with legal requirements. We process personal data as required by law.
 
-The Site is not directed to individuals under the age of fourteen (14), and we request that these individuals do not provide Personal Information through the Site.
 
-### Cross-Border Transfer
 
-Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using our Site you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than in your country.
+### Rights
 
-### Sensitive Information
+Residents of countries in the European Economic Area and Switzerland have the following additional rights with respect to their personal data:
 
-We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., Social Security Number, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Site or otherwise to us.
+  * Right to information. You have the right to be informed of what personal data about you we are processing and the rationale for that processing.
+  * Right of access. You have the right to request access to your personal data that we are processing.
+  * Right of rectification. You have the right to request that we correct your personal data that we are processing if you believe that data is not up to date or is not accurate.
+  * Right to withdraw consent. You have the right to withdraw your consent to our future processing of your personal data where our processing is based on your consent.
+  * Right to object. You have the right to object to our processing of your personal data.
+  * Right of erasure. You have the right to request that your personal data be deleted.
+  * Right to restrict. You have the right to request that we restrict our processing of your personal data.
+  * Right to data portability. You have the right to obtain a copy of your personal data in a structured and commonly used, machine-readable format where our automated processing of your personal data is based on your consent or based on a contract entered between us.
 
-### Updates to this Privacy Policy
 
-We may change this Privacy Policy. Please take a look at the “LAST UPDATED” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site.  Your use of the Site following these changes means that you accept the revised Privacy Policy.
 
-### Contacting Us
+To exercise these rights, or to ask any questions or raise any concerns you may have about this privacy policy, please contact us at privacy [at] digimarc [dot] com. We will respond to your request within 30 days. We have the right to request that you verify your identity if you request to exercise these rights. You have the right to lodge a complaint with a supervisory authority. We encourage you to contact us before lodging a complaint so that we can address any concerns you may have directly with you.
 
-If you have any questions about this Privacy Policy, please contact us by email at [helpdesk@digimarc.com](mailto:helpdesk@digimarc.com), or please write to the following address:
-
-Digimarc Corporation  
-9405 SW Gemini Drive  
-Portland, Oregon 97008  
-USA  
-ATTN: Privacy Officer
-
-Please note that email communications are not always secure; so please do not include credit card information or sensitive information in your emails to us.
+For residents of France, you have the right to send us specific instructions regarding the use of your data after your death. Please contact us at the email address above to provide instructions.
