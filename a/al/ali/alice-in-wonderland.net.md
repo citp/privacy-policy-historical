@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alice-in-wonderland.net privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221141110id_/http%3A//www.alice-in-wonderland.net/terms-conditions-cookies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alice-in-wonderland.net privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609061030id_/http%3A//www.alice-in-wonderland.net/terms-conditions-cookies-privacy) for the most accurate reproduction.*
 
 # Terms, conditions, cookies and privacy - Alice-in-Wonderland.net
 
@@ -35,7 +35,11 @@ For my site and blog, I use WordPress. If you leave a comment on a blogpost you 
 
 If you leave a comment on the blog, your name, IP address, email address, and browser user agent string will be stored in my websites database, together with your comment. This is necessary to help spam detection. Only your name is visible to other visitors; only I can view all details. An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available [here](https://automattic.com/privacy/). If you have a Gravatar / profile picture, it will be visible to the public in the context of your comment. If you leave a comment, the comment and its metadata are retained indefinitely. This is so I can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. Your comment is checked by Akismet Anti-Spam, an automated spam detection service. You can read their privacy policy [here](https://automattic.com/privacy-notice/).
 
-Articles on this site may include embedded content (e.g. videos, images, etc.). Embedded content from other websites behaves in the exact same way as if you have visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+Articles on this site may include embedded content (e.g. videos, images, etc.). Embedded content from other websites behaves in the exact same way as if you have visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website. For more information about what cookies these websites place and what they do with your (personal) data they process through these cookies, please refer to their own privacy statements. I have no influence on this.
+
+  * [YouTube](http://www.google.com/intl/nl/policies/privacy/) (Google) privacy policy 
+
+
 
 ### Forum
 
@@ -53,14 +57,11 @@ Alice-in-wonderland.net does not store personal information from webshop custo
 
 ### Social media
 
-This website includes social media buttons. The Facebook share, Twitter, Google+ and Pinterest buttons allow you to share my web pages via these social networks. If you click on them, a window will open and load the platform’s share option. These platforms may then place cookies according to their own policies. If you do not want this, just don’t use the share buttons.
-
-The Facebook like button uses a script from Facebook and places cookies, regardless whether you click on the button or not. This only happens if you have allowed all types of cookies on this site. If you have not, the Facebook like button will be blocked and you won’t see it (and therefore won’t be able to like this page on Facebook).
+This website includes social media buttons. The Facebook share, Twitter, and Pinterest buttons allow you to share my web pages via these social networks. If you click on them, a window will open and load the platform’s share option. These platforms may then place cookies according to their own policies. If you do not want this, just don’t use the share buttons.
 
 For more information about what cookies these social media platforms place and what they do with your (personal) data they process through these cookies, please refer to their own privacy statements. I have no influence on this.
 
   * [Facebook](https://www.facebook.com/policy.php)
-  * [YouTube](http://www.google.com/intl/nl/policies/privacy/) (Google)
   * [Twitter](https://twitter.com/privacy?lang=en)
   * [LinkedIn](https://www.linkedin.com/legal/privacy-policy)
 
@@ -78,7 +79,7 @@ I will never (and will not allow any third party to) use the statistical analyti
 
 ### DoubleClick
 
-In addition to the standard Google Analytics cookies to track use of the website, an additional “third party” cookies is placed by DoubleClick, if you have allowed all cookies on this site.
+If you allow all cookies on this site, in addition to the standard Google Analytics cookies to track use of the website, an additional “third party” cookie is placed by DoubleClick.
 
 Using this cookie, Google Analytics reports with interest and demographic data of website visitors will be generated.
 
@@ -118,7 +119,7 @@ Finally, you can [manage cookies in your web browser](http://www.google.nl/intl/
 If you have used the cookie bar on this website to accept or decline all types of cookies, you can click the button below to change your choice.  
 
 
-If you want to review your personal data or want your personal data to be removed from my databases under the General Data Protection Regulation (GDPR) law, you can [send me a request](https://web.archive.org/web/20181221141110id_/http://www.alice-in-wonderland.net/terms-conditions-cookies-privacy/lenny@alice-in-wonderland.net). This does not include any data I am obliged to keep for administrative, legal, or security purposes.
+If you want to review your personal data or want your personal data to be removed from my databases under the General Data Protection Regulation (GDPR) law, you can [send me a request](mailto:lenny@alice-in-wonderland.net). This does not include any data I am obliged to keep for administrative, legal, or security purposes.
 
 ## 4\. Company info and contact details
 
