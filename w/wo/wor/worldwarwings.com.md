@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwarwings.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927105631id_/http%3A//worldwarwings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwarwings.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609114611id_/https%3A//worldwarwings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World War Wings
 
@@ -78,7 +78,7 @@ THIS ONLINE PRIVACY POLICY APPLIES ONLY TO INFORMATION COLLECTED THROUGH OUR WEB
 
 ### TERMS AND CONDITIONS
 
-PLEASE ALSO VISIT OUR TERMS AND CONDITIONS SECTION ESTABLISHING THE USE, DISCLAIMERS, AND LIMITATIONS OF LIABILITY GOVERNING THE USE OF OUR WEBSITE AT http://worldwarwings.com/terms-of-use.
+PLEASE ALSO VISIT OUR TERMS AND CONDITIONS SECTION ESTABLISHING THE USE, DISCLAIMERS, AND LIMITATIONS OF LIABILITY GOVERNING THE USE OF OUR WEBSITE AT https://worldwarwings.com/terms-of-use.
 
 ### YOUR CONSENT
 
