@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phalogenics.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222011109id_/https%3A//www.phalogenics.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phalogenics.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609080352id_/https%3A//www.phalogenics.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
