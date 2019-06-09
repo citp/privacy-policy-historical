@@ -1,113 +1,55 @@
-> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801185039id_/https%3A//alight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609035707id_/https%3A//alight.com/privacy) for the most accurate reproduction.*
 
-# Solutions | Alight
+# Privacy | Alight
 
-PRIVACY STATEMENT HIGHLIGHTS:
+Effective Date: October 9, 2018
 
-Alight is committed to protecting your privacy. This Privacy Statement ("Statement") explains how Alight uses and protects the information we collect. It applies to any personal information you provide to Alight and, subject to local law, any personal information we collect from other sources.
+Alight Solutions is committed to protecting your privacy. This Privacy Policy ("Policy") explains how Alight Solutions, our subsidiaries and affiliates (collectively, “Alight,” “we,” “our” or “us”) collect, use and share your information when you visit our websites (collective, the “Sites”) or use our services (the “Services”) and the choices you can make about what information you share. This Policy applies only to, and covers only information collected in connection with your use of, the Sites and Services. It does not apply to information you may provide to Alight – or Alight may receive about you - other than through the Sites and Services where this Policy is posted.
 
-Throughout this Statement, "Alight" refers to Alight, including its affiliated companies and subsidiaries (also referred to as "we", "us", or "our").
+Please read this Policy carefully. By continuing to interact with our Sites and use our Services, you are agreeing to the practices described in this Policy.
 
-To view the full text of our privacy statement, click here.
+Alight is the entity responsible for processing information (i.e., the data controller) under this Policy. 
 
-**What type of information does Alight collect?**
+### Changes to this Policy
 
-We may collect personal information such as your name, contact details, date of birth, gender, marital status, financial details, employment details and benefit coverage. We may also collect sensitive information about you such as criminal convictions or health information in relation to life, health, professional liability and workers compensation insurance or employee benefit programs sponsored by your employer. When you provide information that enables us to respond to your request for products or services, you consent to our collection, use and disclosure of this information to appropriate third parties for the purposes described in this Statement.
+Please read this Policy from time to time. We may modify the Policy at any time in our sole discretion. If we make material changes to the Policy that increase our rights to use personal information that we have previously collected about you, we will obtain your consent either through an email to your registered email address or by prominent posting on our Sites.
 
-This includes collecting information when you:
+The following topics are covered below:
 
-_Visit Alight Websites_
+What type of information does Alight collect?
 
-In some instances, Alight automatically collects certain types of information when you visit our websites and through e-mails that we may exchange. Automated technologies may include the use of web server logs to collect IP addresses, "cookies" and web beacons. The collection of this information will allow us to improve the effectiveness of Alight websites and our marketing activities.
+How does Alight use your personal information?
 
-By using Alight websites, associated microsites and mobile applications, you agree to the processing of your information as explained in this Statement. This includes placing cookies on your device as described in the [Cookie Notice](https://web.archive.org/cookie-notice/).
+When does Alight disclose your personal information?
 
-Alight websites may contain links to other sites which are outside our control and are not covered by this Statement. We encourage you to review the privacy statement of each website you visit.
+How does Alight use cookies and other tracking technologies?
 
-_Engage with Alight through Social Media_
+What does Alight do with your social network information?
 
-You can engage with us through social media websites or through features on Alight websites that integrate with social media sites. When you engage with us through social media sites, you may allow us to have access to certain information from your social media account (e.g., name, e-mail address, photo, gender, birthday, city, the posts or the 'likes' you make).
+How does Alight protect your information?
 
-_Access our Websites through Mobile Devices_
+How can you access and update your personal information?
 
-If you access our websites on your mobile telephone or mobile device, we may also collect your unique device identifier and mobile device IP address, as well as information about your device's operating system, mobile carrier and your location information.
+Can you opt out of receiving marketing communications from Alight?
 
-Read More
+How does Alight protect children’s privacy?
 
-**How does Alight use your personal information?**
+Does Alight transfer personal information to other countries?
 
-We use your personal information to offer and administer our services and products. With your consent, we may also use this information for additional purposes.
+Notice to residents of California
 
-Read More
+Notice to individuals located in the European Union
 
-**Does Alight disclose your personal information?**
-
-We do not rent, sell or otherwise disclose personal information about our website visitors with unaffiliated third parties for their own marketing use.
-
-We disclose personal information to business partners and service providers that are necessary to provide and administer our products and services. Furthermore, if required, we may disclose personal information to respond to government official requests, to prevent physical harm or in the event of a merger/acquisition.
-
-Read More
-
-**Does Alight transfer your personal information across geographies?**
-
-Alight may transfer certain personal information across geographical borders to Alight entities or service providers in other countries working on our behalf in accordance with applicable law. By providing us with your information or using our websites, you consent to the collection, international transfer, storage, and processing of your information. These transfers are governed by European Union (EU) standard contractual clauses or equivalent data transfer agreements to protect the security and confidentiality of personal information.
-
-Read More
-
-**How can you access and update your information?**
-
-Alight takes reasonable steps to keep your personal information accurate and complete. If you have created a profile or account on one of our websites, you can update your contact information after you log into your account. You can also contact us at the e-mail or postal address listed in the "Contact Us" section below.
-
-Read More
-
-**Does Alight have security measures in place to protect your information?**
-
-Alight has implemented reasonable physical, technical and administrative security standards to protect personal information from loss, misuse, alteration or destruction.
-
-Our service providers and agents are contractually bound to maintain the confidentiality of personal information and may not use the information for any unauthorized purpose.
-
-**Does Alight collect information from children?**
-
-Our websites are not directed to children and we do not knowingly collect personal information from children on our websites.
-
-**Contact Us**
-
-If you have any questions relating to this Statement, please contact us at the Global Privacy Office, Alight, 4 Overlook Point, Lincolnshire, IL 60069 or [privacy.info@aonhewitt.com](mailto:privacy.info@aonhewitt.com).
-
-**Changes to this Statement**
-
-We may update this Statement from time to time. We encourage you to periodically review this Statement so that you will be aware of our privacy practices. This Statement was last updated on September 1, 2016.
-
-^ Go to Top
-
-FULL PRIVACY STATEMENT:
-
-Alight is committed to protecting your privacy. This Privacy Statement ("Statement") explains our information processing practices. It applies to any personal information you provide to Alight and, subject to local law, any personal information we collect from other sources.
-
-Throughout this Statement, "Alight" refers to Alight, including its affiliated companies and subsidiaries (also referred to as "we", "us", or "our").
+Contact Us
 
 ### What type of information does Alight collect?
 
-We collect personal information to offer and administer our services and products. These include insurance broking, claims management, risk management consulting, other forms of insurance services (including underwriting of insurance products and reinsurance), employee benefits program administration and investment advisory services.
+We collect information about you when you visit and use our Sites and Services.
 
-We may collect information such as your name, contact details, date of birth, gender, marital status, financial details, employment details and benefit coverage. We may also collect sensitive information about you such as criminal convictions or health information in relation to life, health, professional liability and workers compensation insurance or employee benefit programs.
-
-When you request services, we ask that you provide accurate and necessary information that enables us to respond to your request. In doing so, you consent to our collection, use, storage and disclosure of this information to appropriate third parties for the purposes described in this Statement.
-
-While the personal information we collect may come directly from you, it may also be provided by our affiliates or other third parties (such as employers, insurance companies, insurance brokers or agents, credit organizations, motor vehicle and driver licensing authorities, financial institutions, medical professionals, etc.). If you provide personal information about other individuals (such as employees, dependents, etc.), you must obtain their consent prior to your disclosure to Alight.
-
-Alight may collect information online when you . . .
-
-_Visit Alight Websites_
-
-For purposes of this Statement, "website" includes our mobile applications.
-
-By using Alight websites and associated microsites, you agree to the processing of your personal information as explained in this Statement, including placing cookies on your device as described in the [Cookie Notice](https://web.archive.org/cookie-notice/).
-
-We collect personal information to fulfill your requests for products and services and to improve your online experience. We strive to limit the amount of personal information collected to support the intended purpose of the collection.
-
-We may ask you for some or all of the following types of information when you register for events, request services, manage accounts, access various content and features or directly visit our websites. This includes, but is not limited to:
-
+  * For instance, we collect information from you when you register for events, request our Services, create and manage accounts, access various content and features or directly visit our Sites, including, but not limited to, the following information: .name;
+  * date of birth;
+  * gender;
+  * marital status;
   * contact information, such as name, e-mail address, postal address, phone number and mobile number;
   * user name, password, password reminder questions and password answers;
   * communication preferences, such as which newsletters you would like to receive;
@@ -117,48 +59,39 @@ We may ask you for some or all of the following types of information when you re
 
 
 
-In some instances, Alight automatically collects certain types of information when you visit our websites and through e-mails that we may exchange. Automated technologies may include the use of web server logs to collect IP addresses, "cookies" and web beacons. The collection of this information will allow us to improve the effectiveness of Alight websites and our marketing activities.
+_Please obtain consent from dependents, employees and other individuals before sharing their personal information with us._
 
-**Cookies:** Alight collects information during your visit to an Alight website through the use of cookie technology. A cookie is a piece of programming information contained in a very small text file that is placed in your Internet browser or elsewhere on your hard drive. You can control acceptance of cookies by modifying your Internet browser preferences. You have the ability to accept all cookies, to be notified when a cookie is set or to reject all cookies. Please note that, if you choose to block all cookies (including essential cookies) you may not be able to access all or part of our site and may be unable to use those services or engage in activities that require the placement of cookies. Alight uses cookies to distinguish you from other users of our website and to help us compile aggregate statistics about usage of our websites.
+We also may collect information related to life, health, professional liability and workers compensation insurance or employee benefit programs. Such information may include employment details and benefit coverage, as well as sensitive information, such as financial details, criminal convictions and health-related information. We also may collect some information about you from our affiliates and other third parties, and we may associate this information with personal information that we have collected about you through your use of the Sites and Services.
 
-In addition, on some occasions, Alight may use tracking technologies such as web beacons, to collect information about your visits to Alight websites. These are small electronic images embedded in web content or e-mail messages and are ordinarily not visible to users. Like cookies, this tracking technology enables us to track pages and content accessed and viewed by users on Alight websites. The use of these technologies also helps us to provide you with a positive experience when you browse our websites, and it also helps refine our content and personalize your experience. For more detailed information, you may wish to visit our [Cookie Notice](https://web.archive.org/cookie-notice/).
+In some instances, Alight automatically collects information about the devices you use to interact with our Sites and Services. The information we automatically collect may include your IP address, unique device identifier, type of operating system used, mobile carrier and your browser location. When you provide us your mobile device phone number as your contact phone number, you consent to the use of your mobile device phone number for the purposes identified in this Policy. If you choose to receive notifications from us on your mobile device (e.g. text notifications), you also consent to the use of your mobile phone number for that purpose.
 
-For more detailed information about cookies, you may wish to visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Some browsers have “do not track” features that allow you to tell a website not to track you online. These features are not uniform and we may not respond to those signals.
 
-**Links to Other websites:** Alight websites may contain links to other sites which are outside our control and are not covered by this Statement. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy statement. We encourage you to read the privacy statements on other websites you visit. Alight is not responsible for the content or privacy practices of linked sites or any use of those sites.
+**Links to Other websites** : Our Sites may contain links to other sites that are outside of our control and are not covered by this Policy. If you access other sites using the links provided, the operators of those sites may collect information from you which will be used by them in accordance with their own privacy policies. We encourage you to read the privacy policies on other websites you visit. Alight is not responsible for the content or privacy practices of linked sites or any use of those sites.
 
-Please be aware that Alight websites may contain links to sites maintained by other Alight entities that are not governed by this Statement but by other privacy statements that may differ slightly from this Statement. We encourage you to review the privacy statement of each website you visit.
-
-_Engage with Alight through Social Media_
-
-You can engage with us through social media websites or through features such as plug-ins or applications on Alight websites that integrate with social media sites. You may also choose to link your account with us to third party social media sites. When you link your account or engage with us on or through third party social media sites, plug-ins, or applications, you may allow us to have ongoing access to certain information from your social media account (e.g., name, e-mail address, photo, gender, birthday, the posts or the 'likes' you make).
-
-If you post information when you interact with our websites through social media sites, plug-ins or other applications, depending on your privacy settings, this information may become public on the Internet. You can control what information you share through privacy settings available on some social media sites. For more information about how you can customize your privacy settings and how third party social media sites handle your personally identifiable information, please refer to their privacy help guides, privacy statements and terms of use.
-
-_Access our Websites through Mobile Devices_
-
-If you access our websites on your mobile telephone or mobile device, we may also collect your unique device identifier and mobile device IP address, as well as information about your device's operating system, mobile carrier and your location information.
-
-When you provide us your mobile device phone number as your contact phone number, you consent to the use of your mobile device phone number for the purposes identified in this Statement. If you choose to receive notifications from us on your mobile device (e.g. text notifications), you also consent to the use of your mobile phone number for that purpose.
+Please be aware that our Sites may contain links to sites maintained by other Alight entities that also are not governed by this Policy but by other privacy statements that may differ slightly from this Policy. We encourage you to review the privacy policy of each website you visit.
 
 ^ Go to Top
 
 ### How does Alight use your personal information?
 
-The personal information we collect may be used to:
+We may use the personal information we collect about you, including your financial information, health-related information and information about criminal convictions, for a number of purposes, including the following:
 
-  * provide information and services as requested by you;
-  * determine eligibility and process applications for products and services;
-  * provide information and services as requested by clients;
-  * understand and assess clients' ongoing needs and offer products and services to meet those needs;
-  * carry out client communication, service, billing and administration;
-  * administer claims;
-  * conduct data analysis;
-  * obtain and update credit information with appropriate third parties, such as credit reporting agencies, where transactions are made on credit;
-  * execute monitoring and training;
-  * develop new services;
-  * market products and services (subject to appropriate consent); and
-  * conduct processing necessary to fulfill other contractual obligations for the individual.
+  * Provide the information and Services requested;
+  * Determine eligibility and process applications for products and services;
+  * Understand and assess clients' ongoing needs and offer products and services to meet those needs;
+  * Carry out client communication, service, billing and administration;
+  * Administer claims;
+  * Conduct data analysis to understand how the Sites and Services are used and to perform other market research;
+  * Obtain and update credit information with appropriate third parties, such as credit reporting agencies, where transactions are made on credit;
+  * Execute monitoring and training;
+  * Develop new services;
+  * Operate and serve the function of the Sites and Services;
+  * Manage our everyday business needs, such as administering and improving our Sites and Services;
+  * Analyze the performance and functioning of the Sites;
+  * Prevent fraud, enforce our Terms of Use, comply with applicable laws and Alight’s reporting obligations, and enforce our agreements;
+  * Market products and services that may be of interest to you; and
+  * Conduct processing necessary to fulfill other contractual obligations for the individual.
 
 
 
@@ -166,83 +99,136 @@ With your consent, we may also use your personal information for additional purp
 
 ^ Go to Top
 
-### Does Alight disclose your personal information?
+### When does Alight disclose your personal information?
 
-_Business Partners_
+**With our authorized service providers** : We may share your information, including your financial information, health-related information and information related to criminal convictions, with third-party service providers and vendors who perform services on our behalf.
 
-We disclose personal information to business partners that are necessary to provide our products and services. Examples include:
+**With our business partners** : We may share your personal information with our business partners with whom we work to provide you with products and services. Such business partners include credit and fraud reporting agencies; debt collection agencies; insurers; reinsurers; and managed fund organizations for financial planning, investment products and trustee or custodial services related to banking and financial products in which you invest. In addition, we may share with our other partners such as insurers; reinsurers; other insurance intermediaries; insurance reference bureaus; medical service providers; fraud detection agencies; our advisors – such as loss adjusters, lawyers, and accountants; and others involved in the claims handling process.
 
-  * _banking and finance products_ \- credit and fraud reporting agencies, debt collection agencies, insurers, reinsurers, and managed fund organizations for financial planning, investment products and trustee or custodial services in which you invest
-  * _insurance broking and insurance products_ \- insurers, reinsurers, other insurance intermediaries, insurance reference bureaus, medical service providers, fraud detection agencies, our advisers such as loss adjusters, lawyers and accountants and others involved in the claims handling process
+Our business partners may send you information by postal mail or email in connection with the provision of Services.
 
+**In the event of corporate change** : We may disclose personal information to a successor to all or part of our business or in connection with a corporate merger; consolidation or restructuring; sale of substantially all of our stock and/or assets; or other corporate change, including, without limitation, during the course of any due diligence process. Disclosure may also be required for company audits or to investigate a complaint or security threat.
 
+**To comply with legal requirements** : We will disclose your information (i) if we are required to do so by law or legal process, (ii) in response to lawful law enforcement authority or other government official requests, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, (iv) in connection with an investigation of suspected or actual illegal activity or (v) as required for company audits or to investigate a complaint or security threat.
 
-We do not rent, sell or otherwise disclose personal information about our online visitors with unaffiliated third parties for their own marketing use.
-
-_Authorized Service Providers_
-
-We may disclose your information to service providers we have retained to perform services on our behalf. These service providers are contractually restricted from using or disclosing the information except as necessary to perform services on our behalf or to comply with legal requirements.
-
-_Legal Requirements and Business Transfers_
-
-We may disclose personal information (i) if we are required to do so by law or legal process, (ii) in response to law enforcement authority or other government official requests, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, (iv) in connection with an investigation of suspected or actual illegal activity or (v) in the event that Alight is subject to a merger or acquisition to the new owner of the business. Disclosure may also be required for company audits or to investigate a complaint or security threat.
+**To companies within our corporate family** : We may disclose your personal information to our corporate affiliates. To the extent that our corporate affiliates have access to your personal information, they will follow practices that are at least as restrictive as the practices described in this Policy.
 
 ^ Go to Top
 
-### Does Alight transfer your personal information across geographies?
+### How does Alight use cookies and other tracking technologies?
 
-Alight may transfer certain personal information across geographical borders to Alight entities or service providers in other countries working on our behalf in accordance with applicable law.
+When you visit our Sites, we may place pieces of code, commonly referred to as “cookies,” or similar technology on your device. A cookie is a piece of programming information contained in a very small text file that is placed in your Internet browser or elsewhere on your hard drive. You can control acceptance of cookies by modifying your Internet browser preferences. You have the ability to accept all cookies, to be notified when a cookie is set or to reject all cookies. Please note that, if you choose to block all cookies (including essential cookies) you may not be able to access all or part of our site and may be unable to use those services or engage in activities that require the placement of cookies. Alight uses cookies to distinguish you from other users of our website and to help us compile aggregate statistics about usage of our websites.
 
-By providing us with your information or using our websites, you consent to the collection, international transfer, storage, and processing of your information. These transfers are governed by European Union (EU) standard contractual clauses or equivalent data transfer agreements to protect the security and confidentiality of personal information.
+In addition, on some occasions, Alight may use tracking technologies such as web beacons, to collect information about your visits to our Sites. These are small electronic images embedded in web content or e-mail messages and are ordinarily not visible to users. Like cookies, this tracking technology enables us to track pages and content accessed and viewed by users on the Sites. The use of these technologies also helps us to provide you with a positive experience when you browse our Sites, and it also helps refine our content and personalize your experience. 
+
+You can control cookies and tracking tools. Your browser may give you the ability to control cookies or other tracking tools. How you do so depends on the type of tool. Certain browsers can be set to reject browser cookies. Flash cookies, which we may use on certain web sites from time to time, cannot be controlled through your browser settings. Options you select are browser and device specific.
+
+For more detailed information, you may wish to visit our [Cookie Notice](https://web.archive.org/cookie-notice).
+
+For more detailed information about cookies, you may wish to visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+If you are located in the EU, we will obtain your consent before storing cookies on your browser. For more information about the development of user profiles and the use of targeting/advertising cookies, please see [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
 ^ Go to Top
 
-### How can you access and update your information?
+### What does Alight do with your social network information?
+
+You can engage with us through third-party social network sites or through features on our Sites such as plug-ins or applications that integrate with social network sites. You may also choose to link your account with us to third-party social network sites. When you link your account or engage with us on or through third-party social network sites, plug-ins, or applications, you may allow us to have ongoing access to certain information from your social network account (e.g., name, e-mail address, photo, gender, birthday, the posts or the 'likes' you make).
+
+If you post information when you interact with our Sites through third-party social media sites, plug-ins or other applications, depending on your privacy settings, this information may become public on the Internet. You can control what information you share through the privacy settings available on some third-party social network sites. For more information about how you can customize your privacy settings and how third-party social network sites handle your personally information, please refer to the privacy help guides, privacy statements and terms of use on those third-party social network sites.
+
+^ Go to Top
+
+### How does Alight protect your personal information?
+
+Alight has implemented reasonable physical, technical and administrative security standards to protect personal information from loss, misuse, alteration or destruction.
+
+^ Go to Top
+
+### How can you access and update your personal information?
 
 Alight takes reasonable steps to keep your personal information accurate and complete. You can access or update your personal information in the following ways.
 
-_Profile_
+**Profile** : If you have created a profile or account on one of our Sites, you can update your contact information after you log into your account.
 
-If you have created a profile or account on one of our websites, you can update your contact information after you log into your account.
+**Newsletters** : If you request electronic communications, such as an e-newsletter, you will be able to unsubscribe at any time by following the instructions included in the communication.
 
-_Newsletters_
+**Mobile Devices** : If you previously chose to receive push notifications on your mobile device from us but no longer wish to receive them, you can manage your preferences either through your device or the application settings. If you no longer wish to have any information collected by the mobile application, you may uninstall the application by using the uninstall process available on your mobile device.
 
-If you request electronic communications, such as an e-newsletter, you will be able to unsubscribe at any time by following the instructions included in the communication.
+**Cookies** : As described in our [Cookie Notice](https://web.archive.org/cookie-notice), you can adjust your browser settings to accept or refuse cookies.
 
-_Mobile Devices_
-
-If you previously chose to receive push notifications on your mobile device from us but no longer wish to receive them, you can manage your preferences either through your device or the application settings. If you no longer wish to have any information collected by the mobile application, you may uninstall the application by using the uninstall process available on your mobile device.
-
-_Cookies_
-
-As described in our [Cookie Notice](https://web.archive.org/cookie-notice/), you can adjust your browser settings to accept or refuse cookies.
-
-_Email_
-
-Contact us at the e-mail or postal address listed in the "Contact Us" section at the bottom of this Statement. Please include your current contact information, the information you are interested in accessing and your requested changes. We will provide you access to the personal information requested, subject to reasonable limitations provided by law, unless it infringes on the privacy of other individuals.
+**Email** : Contact us at the e-mail or postal address listed in the "Contact Us" section at the bottom of this Policy. Please include your current contact information, the information you are interested in accessing and your requested changes. We will provide you access to the personal information requested, subject to reasonable limitations provided by law, unless it infringes on the privacy of other individuals.
 
 If we do not provide you with access, we will provide you with the reason for refusal and inform you of any exceptions relied upon.
 
 ^ Go to Top
 
-### Does Alight have security measures in place to protect your information?
+### Can you opt out of receiving marketing communications from Alight?
 
-Alight has implemented reasonable physical, technical and administrative security standards to protect personal information from loss, misuse, alteration or destruction.
-
-Our service providers and agents are contractually bound to maintain the confidentiality of personal information and may not use the information for any unauthorized purpose.
+Yes. Alight may send marketing emails to you about our services. If you wish to discontinue such communications, you may unsubscribe by following the opt-out method provided in the communications. In addition, you may communicate your choice to opt out via an email to Alight at [privacy.info@alight.com](mailto:privacy.info@alight.com). 
 
 ^ Go to Top
 
-### Does Alight collect information from children?
+### How does Alight protect children’s privacy?
 
-Our websites are not directed to children and we do not knowingly collect personal information from children on our websites.
+Our Sites are general audience sites not directed at children under the age of 16. If we obtain actual knowledge that any information we collect has been provided by a child under the age of 16, we will promptly delete the information.
+
+^ Go to Top
+
+### Does Alight transfer personal information to other countries?
+
+Information that you provide to us may be stored on servers and with third-party service providers in the United States and other countries in which we do business and whose data protection laws may differ from the jurisdiction in which you live. When we transfer the personal information of users who are located in the EU to a location outside of the European Economic Area for processing, we use an approved transfer mechanism. To learn more about the transfer mechanism that we use to effect such transfer, you may contact us at [privacy.info@alight.com](mailto:privacy.info@alight.com).
+
+^ Go to Top
+
+### Notice to residents of California
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to opt out of the disclosure of your personal information by Alight to third parties for those third parties’ direct marketing purposes. To opt out of such disclosures, send an email request to [privacy.info@alight.com](mailto:privacy.info@alight.com) or send written request to Chief Privacy Officer, Alight Solutions LLC, 4 Overlook Point, Lincolnshire, IL 60069.
+
+To make such a request, please send an email with a detailed description of the specific content or information to [privacy.info@alight.com](mailto:privacy.info@alight.com). Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal, even when requested.
+
+^ Go to Top
+
+### Notice to individuals located in the European Union
+
+Alight processes personal information for the purposes described above. If we use personal information for purposes other than as described in this Policy, we will provide you with specific notice at the time of collection or before we use your data for such new purposes. In addition, we will respond to requests to fulfill your rights as data subjects in the European Union, as required under EU Regulation 2016/679 General Data Protection Regulation (“GDPR”). 
+
+**Legal Basis for Processing Information** : We process personal information only when we have a legal basis to do so. The legal basis we will rely on will be one of the following:
+
+  * You have consented to the processing of your personal information;
+  * The processing is necessary to perform a contract with you or fulfill a request you have made;
+  * The processing is necessary to comply with a legal obligation that applies to Alight; or
+  * The processing is necessary for purposes that are in Alight’s legitimate interests, such as protecting the security of our Sites and Services, conducting market research to improve our products and Services, improving the functioning of our Sites, and providing you with promotional material about our products and Services.
+
+
+
+**Your Choice to Provide Information** : You can choose not to provide personal information to Alight by refraining from, among other things, using our Services and requesting information. You also may refrain from submitting information directly to us. However, if you do not provide personal information when requested, we may not be able to provide you with the full range of our products and Services, or with information about our products, Services, promotions and other opportunities.
+
+**Your Rights** : You have certain rights regarding the personal information that we maintain about you, which in certain circumstances, you will be able to exercise. These rights are as follows:
+
+  * You may request a copy of the personal information that we maintain about you. If we maintain your personal information based on your consent or so that we could enter into a contract with you, you can also request that we provide you a copy of your data in a structured, commonly used, and machine-readable format.
+  * If your personal information is incorrect, you may request that we correct, amend or delete personal information that is inaccurate or incomplete.
+  * You may request that we erase or restrict the processing of your personal information.
+  * When our legal basis for processing your information is your consent, you may withdraw your consent at any time.
+  * You may object to the processing of your personal information in certain circumstances when we process your information for the purposes of our legitimate interests.
+
+
+
+Individuals who desire to make an individual rights request in accordance with the GDPR are directed to make such a request via Alight’s privacy mailbox at [privacy.info@alight.com](mailto:privacy.info@alight.com). Such requests will first need to be verified by ‘reasonable means’ and an individual will be asked to specify the information the request relates to. Subject to applicable law, we will comply with your request as soon as practicable, and in any event, within one month after receiving a valid request. If your request is particularly complicated, we may have to extend this period to 2 months. Access and correction may be done for free, unless requests are repetitive, excessive or unfounded, in which case we may charge you the administrative costs we have incurred handling the request.
+
+**Complaints** : If you are unhappy or have concerns about the way in which we have handled your information, please contact us (see “Contact Us”) so that we can try to resolve the issue. You also have the right to lodge a complaint with the applicable supervisory authority in the EU.
+
+^ Go to Top
 
 ### Contact Us
 
-If you have any questions relating to this Statement, please contact us at the Global Privacy Office, Alight, 4 Overlook Point, Lincolnshire, IL 60069 or [privacy.info@aonhewitt.com](mailto:privacy.info@aonhewitt.com).
+If you have any questions relating to this Statement, please contact us at the Global Privacy Office, Alight, 4 Overlook Point, Lincolnshire, IL 60069 or [privacy.info@alight.com](mailto:privacy.info@alight.com). 
 
-### Changes to this Statement
+You may also write to us at:  
+Alight Solutions LLC  
+ATTN: Chief Privacy Officer  
+4 Overlook Point  
+Lincolnshire, IL 60069   
 
-We may update this Statement from time to time. We encourage you to periodically review this Statement so that you will be aware of our privacy practices. This Statement was last updated on September 1, 2016.
 
 ^ Go to Top
