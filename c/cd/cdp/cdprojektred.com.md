@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdprojektred.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612145038id_/http%3A//regulations.cdprojektred.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdprojektred.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609235047id_/http%3A//regulations.cdprojektred.com/en/privacy_policy) for the most accurate reproduction.*
 
 # 
 
@@ -78,7 +78,7 @@ We respect your right to privacy and will only process personal data in accordan
 
 | 
 
-We recognize we have a special obligation to protect personal data obtained from children. We do not and will not knowingly collect personal data from any child under 16 without consent from their parent or guardian. If you are a parent or guardian and are concerned about the transfer of personal data about your child, please contact [privacy@cdprojektred.com](https://web.archive.org/web/20180612145038id_/http%3A//regulations.cdprojektred.com/en/privacy@cdprojektred.com). 
+We recognize we have a special obligation to protect personal data obtained from children. We do not and will not knowingly collect personal data from any child under 16 without consent from their parent or guardian. If you are a parent or guardian and are concerned about the transfer of personal data about your child, please contact [privacy@cdprojektred.com](https://web.archive.org/web/20190609235047id_/http%3A//regulations.cdprojektred.com/en/privacy@cdprojektred.com). 
 
 | 
 
@@ -106,24 +106,64 @@ When you use CD PROJEKT RED services, we may collect the following data if relev
   8. Details about your use of social networking and our services (if you have linked our services to a social networking account). This may potentially include certain data from Facebook or other social networks (including access to your friends list as well as aggregated non-personal analytics data about our users) strictly in accordance with Facebook's and other networks' terms and conditions – in the extent necessary to provide you with all functions of CD PROJEKT RED games and services; and
   9. Any other data which you supply us via our services,
 
-
-
-In case you use our forums, we may additionally process data generated automatically your activity in the forum: date of last activity, subscribed threads, favorite posts, achievements in the forum, redpoints (points on the forum), private messages and posts.
-
-We may also collect additional optional data via forum: contact data (messengers), website address, biography, location, interests, profession, avatar, user's preferred language.
-
 | 
 
 **When you use our services, we collect basic data about you and your activity.**  
   
+4.2
+
 | 
 
-If you contact our technical support, we may process other data required to help you with any queries or support matters, such as data collected in crash logs that are gathered by your device or the technical parameters of the device you use to play
+In case you use our forums, we may additionally process data generated automatically through your activity in the forum: date of last activity, subscribed threads, favorite posts, achievements in the forum, redpoints (points on the forum), private messages and posts. 
+
+We may also collect additional optional data via forum: contact data (messengers), website address, biography, location, interests, profession, avatar, user's preferred language.
+
+|   
+  
+4.3
+
+| 
+
+If you take part in Gwent esports competition (Gwent Ranked Play and Gwent Masters tournaments) we may process your Gwent-related data we receive from our sister company GOG (who is responsible for providing you access to GWENT: The Witcher’s Card Game on PC), in particular: 
+
+  1. your GOG username and avatar
+  2. Gwent-ID
+  3. Log of user activity within Gwent (login time, logout time, log of matches played, number of wins and losses, gathered experience points,)
+  4. your card collection and decks
+  5. Matchmaking Rating (MMR) and faction Matchmaking Ratings (fMMRs)
+  6. IP address
+  7. Country
+
+
+
+If you take part specifically in Gwent Masters esports tournaments and events – we may additionally process your data used only in context of your participation in these events, in particular: 
+
+  1. passport/ID number, issuer of the document, photo/scan of the document, citizenship,
+  2. your date of birth
+  3. bank account details for prize payment
+  4. your image if you participate in a Gwent tournament
+  5. place of birth
+  6. correspondence address
+  7. your father’s and mother’s names
+  8. data on your participation in official and authorized Gwent events
+  9. Crown Points (points used in Gwent Masters rankings)
+
+| 
+
+**If you take part in Gwent esports competition, we may need some more data about you, which we will receive from GOG or directly from you.**  
+  
+4.4
+
+| 
+
+If you contact our technical support (directly or using crash reporting functionalities in our games or services), we may process other data required to help you with any queries or support matters, such as data collected in crash logs that are gathered by your device or the technical parameters of the device you use to play. 
 
 | 
 
 **If you contact technical support they may ask you to provide them with some additional data, including your crash logs or the technical details of the device you use.**  
   
+4.5
+
 | 
 
 For the purposes of competitions organized by CD PROJEKT RED, we may process additionally your correspondence address, phone number, social networks identifiers, image of yourself, bank account number.
@@ -132,6 +172,16 @@ For the purposes of competitions organized by CD PROJEKT RED, we may process add
 
 **If you participate in competitions organized by us, we may need some additional data about you.**  
   
+4.6
+
+| 
+
+We may also collect some non-personal data about our users (statistical information on usage of our games and services, information on devices used to connect to them) in order to better understand how our games and services are used and to improve them based on this knowledge. 
+
+|   
+  
+4.7
+
 | 
 
 In order to play our games and use our services, we need to process data provided above. In case you do not agree to provide us with the above-mentioned data, you will not be able to play our games participate in competitions or use other services.
@@ -140,7 +190,7 @@ In order to play our games and use our services, we need to process data provide
 
 **The above data is necessary for us to provide you with our services.**  
   
-4.2
+4.8
 
 | 
 
@@ -165,6 +215,7 @@ We may collect and process data about you in the following ways:
   * data you give us via CD PROJEKT RED services;
   * data given when you contact us or report a problem with CD PROJEKT RED services;
   * data about your activity as a user of our services (in addition to your IP address, country of origin, purchases, account of in-game virtual goods and currencies) - is collected automatically;
+  * data we receive about you from GOG due to your participation in Gwent esports competition;
   * we may also ask you to complete surveys that we use for research purposes. However, your response to surveys is not required. We may collect this data via CD PROJEKT RED services or trusted partners connected with us for optional services such as surveys or polls.
 
 | 
@@ -230,6 +281,7 @@ When we transfer your data outside the European Economic Area, we do so on the b
 **How long are we going to store your data?** We will retain your personal data only for as long as needed in order to fulfill the purposes outlined in this Privacy Policy. In certain special cases, a longer retention period might be required by law, such as for tax reasons, accounting purposes or other legal requirements and obligations. When we will no longer require your personal information in order to provide our game related services to you, we will either delete it or anonymize it: 
 
   * we will keep data that is associated with the services you use for the duration of the agreement to access the services (ex. CD PROJEKT forum). Following account closure, limited data that we collect about you will still be retained for an additional few years for tax, legal or accounting purposes;
+  * we will keep your Gwent-related data we receive from you or from GOG for the duration of the agreement for participation in Gwent esports competition (e.g. until you close your Gwent account or inform us directly you no longer want to participate in the competition). Following that, we will retain some of your data for an additional few years for tax, legal and accounting purposes;
   * if you contact us and don’t use our services, we will retain correspondence with you as long as necessary to assist you , followed by a period necessary for legal or accountability purposes;
   * for marketing purposes, we will store data as long as we have valid consent, without undue delay and no later than within 30 days from the moment we receive a request to unsubscribe.
 
@@ -254,6 +306,7 @@ Your data may be used for the following purposes:
   * To provide you with products or services that you request from us.
   * To communicate with the users of our services
   * To allow you to participate in interactive features of CD PROJEKT RED services when you choose to do so.
+  * To allow you to participate in Gwent esports competition.
   * To notify you about changes to CD PROJEKT RED services.
   * To maintain, improve or modify CD PROJEKT RED services.
   * To conduct competitions organized by the CD PROJEKT (including contact with participants, evaluation of applications, distribution of prizes, payment of tax on prizes).
@@ -342,13 +395,13 @@ Some services may involve interacting with our sister company, GOG, or potential
 
 We may share your data with the following Trusted Partners, who were engaged by us to help deliver our services and functionalities to you. Please rest assured that we always provide our partners with the minimum data necessary for them to achieve the purpose of their cooperation with us. They may have access to limited data about you and process it on our behalf for only the purposes set out below (they are formally called “Data Processors”):
 
-  * GOG sp. z o.o. – our sister company, who hosts our forums and provides us with the Galaxy platform;
+  * GOG sp. z o.o. – our sister company, who hosts our forums and supports us in Gwent esports competition;
   * CD PROJEKT Inc. – our daughter company that helps us market in the United States;
   * Our partners who provide us with internal management and data-sharing tools;
   * Our partners who help us in data analysis by providing us with analytical tools;
   * Our partners who help us manage our newsletters and email communications by providing us with email marketing tools;
   * Our professional advisors who assist with legal, tax, audit or accounting matters;
-  * Social media platforms for the purpose of personalized and targeted marketing (for example, to inform via advertisements on social media platforms you use about our services you may enjoy).
+  * Advertising partners for the purpose of personalized and targeted marketing (for example, to inform via advertisements on websites you visit about our services you may enjoy).
 
 | 
 
@@ -442,9 +495,10 @@ You have the following additional rights:
   * You may ask us to restrict the processing of your data;
   * You have the right to transfer your data to another entity;
   * You have the right to file a complaint with a data protection authority.
-  * You can exercise these rights by contacting us at [privacy@cdprojektred.com](mailto:privacy@cdprojektred.com)
 
-  
+
+
+You can exercise these rights by contacting us at [privacy@cdprojektred.com](mailto:privacy@cdprojektred.com)  
   
 14.3
 
