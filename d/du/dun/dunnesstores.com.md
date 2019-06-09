@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528110047id_/http%3A//www.dunnesstores.com/privacy-policy/content/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunnesstores.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609131631id_/http%3A//www.dunnesstores.com/privacy-policy/content/fcp-content) for the most accurate reproduction.*
 
 # Privacy Statement | Dunnes Stores | Dunnes Stores
 
@@ -45,11 +45,12 @@ We _may_ collect information about you when you:
   * Register and use your VALUEclub card;
   * Purchase products or services on the Website or in any Dunnes Stores outlet;
   * Take part in promotions, competitions, customer surveys and questionnaires;
-  * Contact our customer services department for any reason;
+  * Contact our Customer Service department for any reason;
   * Use Dunnes Stores social media channels;
   * Access the Website from your phone;
   * Access or use Free WiFi in our stores;
   * Click on Dunnes Stores banners, hyperlinks or plugins.
+  * In store - footage of you may be recorded on our CCTV systems - [Click here for our CCTV Policy](https://web.archive.org/cctv-policy/content/fcp-content)
 
 
 
@@ -131,7 +132,7 @@ This processing could determine whether or not you are included in tailored prom
 
 ### How long do we keep your information for?
 
-  * We keep your information for as long as you are a customer and in accordance with our [Terms and Conditions](http://www.dunnesstores.com/terms-and-conditions/content/fcp-content).
+  * We keep your information for as long as you are a customer and in accordance with our [Terms and Conditions](https://web.archive.org/terms-and-conditions/content/fcp-content).
   * In so far as applications for refund are concerned, 1 year from the date of the completion of the refund process
   * We may keep your information a little longer if required by law or for legitimate business purposes (including to help address fraud and spam).
   * We may keep your information when or where necessary to enforce our Terms.
@@ -194,7 +195,7 @@ We take great care to ensure the security of our Website. We use a 128-bit SSL (
 
 Your personal data is only entered on our system when the browser is in ‘HTTPS’ or secure mode. The padlock symbol should appear when you are in this mode, indicating that you are safely submitting encrypted information only. To take full advantage of all security features you should use an up-todate browser. We will never ask a customer to confirm any account or credit card details via email.
 
-MasterCard Secure Code & Verified By Visa:
+**MasterCard Secure Code & Verified By Visa:**
 
 To give you even more confidence in shopping online with dunnesstores.com we have introduced Verified by Visa and MasterCard® Secure Code™. These services enhance your existing card account against unauthorised use when you shop with us. To use this service, you must first register with the bank or other organisation that issued your card. We will take all commercially reasonable steps (including appropriate technical and organisational measures) to protect your personal data which you provide to us.
 
@@ -202,6 +203,6 @@ Whilst we do our best to maintain security within our Website and to safeguard y
 
 ### Changes to this Privacy Statement
 
-We may change this privacy statement, in whole or part, from time to time as we see fit or as legislation protecting all consumers and internet users’ changes to ensure we are fully compliant. Any changes will be effective immediately and will be posted on this Website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We may, as appropriate, update customers of these changes by other means, such as postal mail or email. 
+We may change this Privacy Statement, in whole or part, from time to time as we see fit or as legislation protecting all consumers and internet users’ changes to ensure we are fully compliant. Any changes will be effective immediately and will be posted on this Website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We may, as appropriate, update customers of these changes by other means, such as postal mail or email. 
 
 Back to top
