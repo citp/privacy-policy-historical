@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the organicauthority.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925143433id_/http%3A//www.organicauthority.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicauthority.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609194250id_/https%3A//www.organicauthority.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Organic Authority
 
-  
 We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](http://g.ezoic.net/privacy/organicauthority.com).  
 
 
@@ -10,11 +9,11 @@ This is the web site of **OrganicAuthority.com**.
 
 Our postal address is:
 
-**Organic Authority,  Inc.**  
-**9854 National Blvd. #413  
+ **Organic Authority, Inc.**  
+ **9854 National Blvd. #413  
 Los Angeles, CA 90034**
 
-We can be reached via e-mail at [[email protected]](http://www.organicauthority.com/mailto:liveorganic@organicauthority.com)  
+We can be reached via e-mail at [liveorganic@organicauthority.com](http://www.organicauthority.com/mailto:liveorganic@organicauthority.com)  
 or you can reach us by telephone at 310-694-8306
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
@@ -27,7 +26,7 @@ As we continue to develop our business, we might sell certain of our assets in c
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site.
 
-Third party vendors, including Google, use cookies to serve ads based on your (the user) prior visits to our website and other websites. These ads do not necessarily reflect the views of Organic Authority staff or sponsors. Google’s use of the DART cookie enables it and its partners to serve ads to you based on your history of visits to our site and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). You can also opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+Third party vendors, including Google, use cookies to serve ads based on your (the user) prior visits to our website and other websites. These ads do not necessarily reflect the views of Organic Authority staff or sponsors. Google’s use of the DART cookie enables it and its partners to serve ads to you based on your history of visits to our site and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). You can also opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 If you do not want to receive e-mail from us in the future, please let us know by writing to us at the above address.
 
@@ -51,6 +50,6 @@ We do not provide site visitors with access to information that we have collecte
 
 Access to this website and its content is provided without charge to users “AS IS” and without warranty of any kind. We shall bear no responsibility or liability for any damages of any kind arising out or in connection with, the use copying or display of content from this website.
 
-The opinions and views expressed by the authors at Organic Authority in blogs and on social media and more, are theirs alone and do not necessarily reflect the views, opinions or position of Organic Authority, Inc  and do not necessarily represent the views of Organic Authority sponsors and/or partners. Organic Authority content is for informational and entertainment purposes, and any views expressed should not be accepted as a substitute for qualified expertise. Any highlighted alternative studies are intended to spark conversation and are for information purposes only. We are not here to diagnose or treat any health or medical conditions, nor should this be relied upon as a substitute for professional medical advice, diagnosis or treatment, even if it features the advice of medical practitioners and physicians. When making any lifestyle or health changes, consult your primary care physician.
+The opinions and views expressed by the authors at Organic Authority in blogs and on social media and more, are theirs alone and do not necessarily reflect the views, opinions or position of Organic Authority, Inc and do not necessarily represent the views of Organic Authority sponsors and/or partners. Organic Authority content is for informational and entertainment purposes, and any views expressed should not be accepted as a substitute for qualified expertise. Any highlighted alternative studies are intended to spark conversation and are for information purposes only. We are not here to diagnose or treat any health or medical conditions, nor should this be relied upon as a substitute for professional medical advice, diagnosis or treatment, even if it features the advice of medical practitioners and physicians. When making any lifestyle or health changes, consult your primary care physician.
 
 Though we make every effort to provide accurate information, it is up to you, the reader, to use Organic Authority’s content responsibly; in return, we promise to publish responsibly. If we make a mistake, we will take whatever reasonable course of action we can to acknowledge and correct it. (Fortunately, this doesn’t happen too often.) We appreciate our readers keeping us sharp, and take our role in informing, sharing and expressing seriously. We value your trust.
