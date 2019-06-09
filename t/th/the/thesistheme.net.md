@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesistheme.net privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208173422id_/http%3A//www.thesistheme.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesistheme.net privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609044039id_/http%3A//www.thesistheme.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
