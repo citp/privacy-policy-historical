@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingvendors.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917134653id_/http%3A//www.weddingvendors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingvendors.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609100228id_/https%3A//www.weddingvendors.com/about/privacy) for the most accurate reproduction.*
 
-# WeddingVendors.com: Privacy Policy
+# WeddingVendors.com - Privacy Policy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
@@ -92,4 +92,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ## How to Contact Us
 
-Should you have other questions or concerns about these privacy policies, please [contact us](http://www.weddingvendors.com/contact/). 
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/contact/). 
