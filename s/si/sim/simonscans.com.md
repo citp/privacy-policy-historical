@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the simonscans.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404085341id_/http%3A//www.simonscans.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simonscans.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609225721id_/https%3A//simonscans.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Simonscans
 
-## PRIVACY POLICY for www.simonscans.com
+## PRIVACY POLICY for simonscans.com
 
-We, at Image Traders ltd take the privacy of our visitors with the highest importance. This policy details the measures we take to preserving and safely guarding your privacy when you visit or communicate with our site or personnel. A detailed explanation of how we may store or otherwise use personal information about you is explained in this Privacy Policy.  
+We, at Simonscans take the privacy of our visitors with the highest importance. This policy details the measures we take to preserving and safely guarding your privacy when you visit or communicate with our site or personnel. A detailed explanation of how we may store or otherwise use personal information about you is explained in this Privacy Policy.  
 Regular updates of the Privacy Policy are completed, requiring you to check back on this Policy from time to time.
 
 ## 1. Information Collection
