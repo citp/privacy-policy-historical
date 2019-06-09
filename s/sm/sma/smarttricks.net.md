@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarttricks.net privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128215806id_/http%3A//www.smarttricks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarttricks.net privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610001918id_/http%3A//www.smarttricks.net/privacy-policy) for the most accurate reproduction.*
 
 # Smart Tricks: Privacy Policy
 
