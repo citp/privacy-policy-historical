@@ -1,115 +1,98 @@
-> *The following text is extracted and transformed from the iplocationtools.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313120452id_/http%3A//www.iplocationtools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplocationtools.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609152941id_/https%3A//iplocationtools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IPLocationTools
 
-We offer a number of services that may require you to register for an account or provide personal information to us, such as our API tools.
+Thank you for visiting IPLocationTools’s Privacy Policy which relates to data collected for use in our products and services. Our full Privacy Policy below which should help you understand IPLocationTools and how we use the data.
 
-In order to provide our full range of services, we may collect the following types of information:
+### Scope
 
-### Information you provide
+We respect the right of individuals to privacy. Our Privacy Policy explains: 
 
-When you sign up for an IPLocationTools.com account that requires registration, we ask you for personal information (such as your name and e-mail address).
-
-### Cookies
-
-When you visit IPLocationTools.com, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies 
-
-your browser. We use cookies to improve the quality of our service, including storing user information and usage information. 
-
-### Log information
-
-When you access IPLocationTools.com services, our servers automatically record information that your browser sends whenever you visit the IPLocationTools.com web site. These 
-
-server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
-
-### User communications
-
-When you send e-mail or other communications to IPLocationTools.com, we may retain those communications in order to process your inquiries, respond to your requests and 
-
-improve our services. 
-
-### Links
-
-IPLocationTools.com may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of 
-
-our service, customized content and advertising. 
-
-### Other sites
-
-This Privacy Policy applies to IPLocationTools.com services only. We do not exercise control over the links to external sites that are not owned or operated by 
-
-IPLocationTools.com. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
-
-IPLocationTools.com only processes personal information for the purposes described in this Privacy Policy for specific services. In addition to the above, such purposes include:
-
-  * Providing our services, including the display of customized content and advertising;
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our network;
-  * Protecting the rights or property of IPLocationTools.com or our users; and
-  * Developing new services.
+  * Who we are
+  * What kinds of personal data we may hold about you
+  * How we obtain data about you
+  * Cookies and other tracking technology
+  * What we do with personal data
+  * Who we may share your personal data with
+  * Data retention and transfers
+  * Security
+  * Your rights
+  * Age limitations
+  * Changes to this Privacy Policy
+  * Limitation of liability
 
 
 
-IPLocationTools.com processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country.
+### Who we are
 
-### Choices for personal information
+IPLocationTools is operated by Hexasoft Development Sdn. Bhd. and is located in Pulau Pinang, Malaysia. Individuals wishing to contact us about data protection issues may do so by emailing us at support@iplocationtools.com.
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+### What kinds of personal data we may hold about you
 
-If we propose to use personal information for any purposes other than those described in this Privacy Policy, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy, unless we have obtained your prior consent.
+IPLocationTools may collect and hold personal data such as names, addresses, emails, telephone numbers, IP addresses and cookies. This information may be kept in its identifiable form, or in an aggregated form (so that individuals cannot be identified), for the purposes listed below. The site does not allow third parties to collect personally identifiable information about you related to your online activities when you use this site.
 
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some IPLocationTools.com features and services may not function properly if your cookies are disabled.
+### How we obtain data about you
 
-You can decline to submit personal information to any of our services, in which case IPLocationTools.com may not be able to provide those services to you.
+For our website users, we will require information like email address for the purpose of account creation to access services on our website.
 
-### Information sharing
+### Cookies and other tracking technology
 
-IPLocationTools.com only shares personal information with other companies or individuals outside of IPLocationTools.com in the following limited circumstances:
+A cookie is a small data file that certain Websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. IPLocationTools Website use cookies to track user traffic. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information.
 
-  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to 
-    1. satisfy any applicable law, regulation, legal process or enforceable governmental request,
-    2. enforce applicable Terms of Service, including investigation of potential violations thereof,
-    3. detect, prevent, or otherwise address fraud, security or technical issues, or
-protect against harm to the rights, property or safety of IPLocationTools.com, its users or the public as required or permitted by law. 
+If you prefer not to receive cookies while browsing our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of IPLocationTools Website & Web Service if you do so.
+
+### What we do with personal data
+
+For our website users, the personal data will be used to fulfil your requests for certain products and services, to personalize your experience on our Website, to keep you up to date on the latest product announcements, service updates, special offers or other information we think you'd like to hear about either from us or from our business partners, and to better understand your needs and provide you with better services. We may also use your information to send you, or to have our business partners send you, direct marketing information or contact you for market research.
+
+### Who we may share your personal data with
+
+This section describes how IPLocationTools may share and disclose Information. 
+
+  * **Customer’s Instructions.** We will solely share and disclose personal data in accordance with a customer’s instructions, including any applicable terms in the Customer Agreement and Customer’s use of Services functionality, and in compliance with applicable law and legal process.
+  * **Third Party Service Providers and Partners.** We may engage third party companies or individuals as service providers or business partners to process Other Information and support our business. These third parties may, for example, provide virtual computing and storage services.
+  * **Corporate Affiliates.** IPLocationTools may share Other Information with its corporate affiliates, parents and/or subsidiaries.
+  * **During a Change to IPLocationTools Business.** If IPLocationTools engages in a merger, acquisition, bankruptcy, dissolution, reorganization, sale of some or all of IPLocationTools’s assets or stock, financing, public offering of securities, acquisition of all or a portion of our business, a similar transaction or proceeding, or steps in contemplation of such activities (e.g. due diligence), some or all personal information may be shared or transferred, subject to standard confidentiality arrangements.
+  * **Aggregated or De-identified Data.** We may disclose or use aggregated or de-identified personal information for any purpose. For example, we may share aggregated or de-identified information with prospects or partners for business or research purposes.
+  * **To Comply with Laws.** If we receive a request for information, we may disclose personal information if we reasonably believe disclosure is in accordance with or required by any applicable law, regulation or legal process.
+  * **To enforce our rights, prevent fraud, and for safety.** To protect and defend the rights, property or safety of IPLocationTools or third parties, including enforcing contracts or policies, or in connection with investigating and preventing fraud or security issues.
+  * **With Consent.** IPLocationTools may share personal information with third parties when we have consent to do so.
 
 
 
-If IPLocationTools.com becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
+### Data retention and transfers
 
-Please contact us via e-mail at ****for any additional questions about the management or use of personal data.
+We will hold the minimum amount of personal data from our website users for communications and allowing access to our services.
 
-### Information security
+The deletion of personal data may result in the deletion and/or de-identification of certain features.
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+### Security
 
-We restrict access to personal information to IPLocationTools.com employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+We have gone to great lengths to secure our server infrastructure to protect the data as best as we can. These steps take into account the sensitivity of the Other Information we collect, process and store, and the current state of technology.
 
-### Data integrity
+Given the nature of communications and information processing technology, IPLocationTools cannot guarantee that information, during transmission through the Internet or while stored on our systems or otherwise in our care, will be absolutely safe from intrusion by others. 
 
-IPLocationTools.com processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+  * **Data and System Security:** The personal data contained within our data center is protected by multiple layers and techniques that conform to security industry standards and guidelines.
+  * **Security Audit:** IPLocationTools performs security audits and scans on our system on a regular basis to check for vulnerabilities.
 
-### Accessing and updating personal information
 
-When you use IPLocationTools.com services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes.
 
-We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required.
+### Your rights
 
-In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information.
+Individuals may request access to, deletion or correction of their personal data, or restrict or object to the use of their data by emailing us at support@iplocationtools.com.
 
-We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+### Age limitations
 
-### Enforcement
-
-IPLocationTools.com regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or IPLocationTools.com’s treatment of personal information by contacting us via e-mail at ****.
-
-When we receive formal written complaints, it is IPLocationTools.com’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between IPLocationTools.com and an individual.
+To the extent prohibited by applicable law, IPLocationTools does not allow use of our services and websites by anyone younger than 18 years old. If you learn that anyone younger than 18 has unlawfully provided us with personal data, please contact us and we will take steps to delete such information.
 
 ### Changes to this Privacy Policy
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, e-mail notification of Privacy Policy changes).
+IPLocationTools may change this Privacy Policy from time to time. Laws, regulations and industry standards evolve, which may make those changes necessary, or we may make changes to our business. We will post the changes to this page and encourage you to review our Privacy Policy to stay informed.
 
-Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+If we make changes that materially alter your privacy rights, IPLocationTools will provide additional notice, such as via email or through the web site. If you disagree with the changes to this Privacy Policy, you should deactivate your account.
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time via e-mail at ****.
+### Limitation of liability
+
+UNDER NO CIRCUMSTANCES WILL IPLOCATIONTOOLS BE LIABLE TO THE USERS OR ANY OTHER THIRD PARTY FOR ANY INDIRECT, DIRECT, SPECIAL, PUNITIVE, INCIDENTAL, CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING OUT OF THE USE OR INABILITY TO USE THE PRODUCT OR SERVICES PROVIDED UNDER THIS PRIVACY POLICY OR THE BREACH OF THIS PRIVACY POLICY OR RELATING TO ANY OTHER SUBJECT MATTER OF THIS PRIVACY POLICY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IPLOCATIONTOOLS'S LIABILITY FOR ALL CLAIMS ARISING OUT OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE AMOUNT ACTUALLY RECEIVED BY IPLOCATIONTOOLS IN CONNECTION WITH THE PROVISION OF IPLOCATIONTOOLS SERVICES UNDER THIS PRIVACY POLICY AND USERS AGREE THAT THE FOREGOING SHALL CONSTITUTE USERS'S EXCLUSIVE REMEDY. THE USERS HEREBY RELEASES IPLOCATIONTOOLS, ITS OFFICERS, EMPLOYEES AND AFFILIATES FROM ANY AND ALL OBLIGATIONS, LIABILITIES AND CLAIMS IN EXCESS OF THIS LIMITATION.
+
+Effective date: 24th April 2018 
