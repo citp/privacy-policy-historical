@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mukamo.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702043835id_/https%3A//www.mukamo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mukamo.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609092816id_/https%3A//www.mukamo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mukamo
 
@@ -14,7 +14,7 @@ The information we collect is used for internal review and is then discarded, us
 
 With respect to cookies: We use cookies to store visitors preferences, record past activity at a site in order to provide better service when visitors return to our site. Third parties such as advertisers may also be placing and reading cookies on your browser to collect information, in the course of ads being served on our website. You have the ability to accept or decline cookies by modifying your Web browser through its privacy or security settings. However, if you choose to reject cookies, you may not be able to fully experience the interactive features of the site but its your choice.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](https://www.google.com/support/adsense/bin/answer.py?answer=94149).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](https://www.google.com/support/adsense/bin/answer.py?answer=94149). 
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
