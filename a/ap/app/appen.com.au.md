@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appen.com.au privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017075516id_/https%3A//appen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appen.com.au privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609114445id_/https%3A//appen.com/privacy) for the most accurate reproduction.*
 
 # Appen Limited Privacy Statement | Privacy Policy | Appen
 
