@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matcotools.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331185931id_/http%3A//www.matcotools.com/customercare/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matcotools.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609045519id_/http%3A//www.matcotools.com/customercare/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policies | Matco Tools Customer Service
 
@@ -33,7 +33,7 @@ Use the links below to learn more about Matco Tools privacy information:
 
 Matco Tools has created this privacy statement to demonstrate our commitment to privacy, and to ensure you are aware of our latest position regarding privacy. Please note that this statement is subject to change, so we suggest you refer to it any time you may have questions regarding Matco Tools privacy practices relative to the web. The following discloses our current information gathering and dissemination practices for this website: www.matcotools.com.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -45,7 +45,7 @@ This site also includes a variety of registration and order forms that may ask f
 
 Please also note that certain countries may not allow information (such as e-mail) to be transmitted outside of that country or region. If you have any concerns about this practice, we suggest you do not use the forms or contact mechanisms included in this web site, and use an alternative form of contacting us. Refer to the "contact us" or "where to buy" portions of this web site for phone and mailing address information.
 
-__Back to top
+__ Back to top
 
 Details about the different means in which we gather information from visitors are detailed below:
 
@@ -55,7 +55,7 @@ Details about the different means in which we gather information from visitors a
 
 This site uses cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. If a shopping cart feature is used, we would also use cookies to keep track of your shopping cart. If advertisements are used in the site, we would also use cookies to make sure you don't see the same ad repeatedly.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -63,7 +63,7 @@ __Back to top
 
 This site's registration forms require users to give us contact information (like their name, email address, and some demographic data). We use this information to learn more about our visitors, and to keep visitors up to date on new products, services and developments. In some instances, Matco Tools may use the customer's contact information to contact the visitor directly.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -71,7 +71,7 @@ __Back to top
 
 This site uses order forms for customers to request information, materials, products, and services. We collect visitor's contact information (like their email address), and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and also to learn more about our customers. The customer's contact information may also be used to get in touch with the visitor when necessary. Financial information that is collected is used to bill the user for products and services.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -79,7 +79,7 @@ __Back to top
 
 All credit card transactions will be entered via the World Wide Web. Calls to our Customer Support Representatives to provide your credit card number will input it via a Web-based system.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -87,7 +87,7 @@ __Back to top
 
 Our online surveys may ask visitors for contact information (such as their email address), or other demographic or product usage data. We use data collected from these surveys to learn more about our customers, their likes and dislikes, and how we can improve our services and product offerings. Contact information collected is used to contact the visitor when necessary. We may also use the customer's contact information received in surveys to contact the visitor directly, if necessary.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -95,7 +95,7 @@ __Back to top
 
 From time to time, this site features contests that ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor to notify if they have won a prize in the contest.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -103,7 +103,7 @@ __Back to top
 
 This site makes chat rooms, forums, message boards, and/or news groups available to users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -111,7 +111,7 @@ __Back to top
 
 This site contains links to other sites. As such, www.matcotools.com is not responsible for the privacy practices or the content of these Web sites.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -119,7 +119,7 @@ __Back to top
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -127,7 +127,7 @@ __Back to top
 
 Matco Tools implements a variety of security measures to maintain the safety of your personal information. User personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -137,7 +137,7 @@ This site provides users the choice to "opt out" of receiving communications fro
 
 If you do not wish to receive future informational or promotional messages and/or materials from Matco Tools or its sales/service channels, you can choose "Stop New Product / Sale Item Updates" found in the Update Your Account Info form.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -145,7 +145,7 @@ __Back to top
 
 This site also gives users the option for changing and modifying information previously provided to us. If you wish to change any information, please do so in the Update Your Account Info form.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -153,7 +153,7 @@ __Back to top
 
 If you are in any way concerned about providing information to Matco Tools via one of the above forms or methods, we suggest that you refrain from contacting Matco Tools via these methods, and contact us via phone or mail. Complete phone and mail information can be found in the "contact us" and "where to buy" sections of this web site.
 
-__Back to top
+__ Back to top
 
 * * *
 
@@ -170,4 +170,4 @@ Stow Ohio, 44224
 866-BUY-TOOLS (866-289-8665)  
 Fax Number: 330-926-5323 
 
-__Back to top
+__ Back to top
