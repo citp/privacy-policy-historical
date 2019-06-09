@@ -1,71 +1,79 @@
-> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328081535id_/http%3A//www.xmind.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609151340id_/https%3A//www.xmind.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - XMind: The Most Popular Mind Mapping Software on The Planet.
+# Privacy Policy - XMind - Mind Mapping Software
 
-The privacy policy of XMind, Ltd. covers the collection and use of personal data. This information may be collected any time you have interactive contact with us, such as when you buy our products and services, interact with our websites and online forums, or communicate with our sales or technical support staff. Your privacy is important to us. Our practices in handling your personal information are described in more detail below.
+Last amended: May 25, 2018
 
-### PERSONAL INFORMATION
+Effective time: May 25, 2018
 
-XMind, Ltd. collects your personal information to provide you with our products and services in the most convenient and user-friendly way. 
+Thanks for using XMind! Here we describe how we collect, use, and handle your personal information when you use our websites, software, and services (“ **Services** ”).
 
-  * Account-Related Activity. Certain products and services offered through our website (collectively, including all content and technology available through the XMind.net and XMind.org domain names, the "Site") such as downloading XMind software and accessing the XMind Share service require you to have an XMind account. We ask for certain personal information when you create an XMind account, including your email address and a password, which is used to protect your account from unauthorized access. Meanwhile, your XMind ID and password will be saved through particular encryption. Any one including XMind, can not access your XMind account without your personal authorization. When you purchase our products and/or services, we also collect necessary personal information such as your contact and payment information in order to complete the transaction. 
-  * Usage Information. We may record information about your usage, such as when you use the Site, the channels, groups, and favorites you subscribe to, the contacts you communicate with, the content you view, and the frequency and size of data transfers, as well as information you display or click on in the Site (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account. We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track which emails are opened by recipients.   
-We may also ask for personal information related to your use of our products and services when you contact our support staff by phone, download software updates, participate in one of our online surveys, or register product information. 
-  * Content Uploaded to Site. In general, any personal information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your profile pages, etc.) becomes publicly available and can be collected and used by others (collectively "Public Content"). If a "private sharing" feature is available to you and your uploaded content is enabled only for "private sharing," then XMind will exercise commercially reasonable efforts to restrict access only to the people whom you specify in your contact list for that content.
-  * Data storage and transmission with XMind Cloud. Any content uploaded to XMind Cloud will be protected by XMind Ltd to the greatest extent. Industry standard encryption(SSL) is used to protect your data transmission with XMind Cloud, to avoid that your XMind files (including texts, photos, and attachments inside files) are visited, tampered, revealed or damaged during uploading or downloading without your authorization. We request the file storage service companies to strictly perform the obligations of data confidentiality. If the obligations are not well performed, they will be investigated for legal responsibility or their cooperations with XMind will be terminated.
+### What & Why
 
+We collect and use the following information to provide, improve, and protect our Services:
 
+ _Your Stuff._ Our Services are designed to make it simple for you to create, edit, present and share mind maps as XMind files (“ **Your Stuff** ”). These files are typically stored locally on your devices or transmitted in your own ways, unless you upload them to our online services, in which we store, process and transmit Your Stuff as well as information related to it. This related information includes your profile information that makes it easier to share Your Stuff with others, as well as things like the size of the file, the time it was uploaded, and usage activity. Your Stuff does not become publicly available unless you voluntarily disclose it online.
 
-### USES
+ _Account information._ Some of our online services (like file sharing and subscription for software product) requires a password-protected account. We collect, and associate with your account, the information you provide to us when you do things such as sign up for your account or make purchases for our Services (like your full name, email address, and billing address).
 
-  * If you submit personally identifiable information to us through the Site, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of the Site, and to process any flagging activity or correspondence you send to us.
-  * Your account name (not your email address) is displayed to other users of the Site when you upload content or send messages through the Site and other users can contact you through messages and comments. Any Public Content that you submit to the Site may be redistributed through the internet and other media channels, and may be viewed by the general public.
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Site changes or for customer service purposes).
-  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous and aggregate user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Site and our products, and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications.
-  * We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+ _Usage information._ We collect information related to how you use the Services, including actions you take when using our Services (like editing, viewing, and sharing Your Stuff, changing themes, activating software license, and logging in and out your account). We use this information to improve our Services, develop new services and features, and protect XMind users.
 
+ _Device information._ We also collect information from and about the devices you use to access the Services. This includes things like IP addresses, system language, the type of browser and device you use, the version of our software, the web page you visited before coming to our sites, and identifiers associated with your devices. Your devices (depending on their settings) may also transmit location information to the Services.
 
+ _Crash reports and diagnostic information._ We may also collect diagnostic reports to help troubleshoot software bugs, fix significant errors, and improve overall user experience. These reports may include things like file names, hardware model, process information, app and device information. To collect this information, we will ask for your consent in advance.
 
-### INFORMATION THAT IS PUBLICLY AVAILABLE
+ _Cookies and other technologies._ We use technologies like cookies to provide, improve, protect, and promote our Services. For example, cookies help us with things like remembering your username for your next visit, understanding how you are interacting with our Services, and improving them based on that information. You can set your browser to not accept cookies, but this may limit your ability to use the Services.
 
-  * When you create an account on the Site, some information about your account and your account activity will be provided to other users of the Site. This may include the date you opened your account, the date you last logged into your account, your age (if you choose to make it public), the country and the number of content items you have viewed.
+ _Marketing._ We do not send you any marketing material unless you voluntarily subscribe for our newsletters (opt-in). We collect your email address and other information you submit when you subscribe. If you do not want to receive marketing materials from us any more, simply click the ‘Unsubscribe’ link in any email any time (opt-out).
 
+ _Bases for processing your data._ We collect and use the personal data described above in order to provide you with the Services in a reliable and secure manner. We also collect and use personal data for our legitimate business needs. To the extent we process your personal data for other purposes, we ask for your consent in advance or require that our partners obtain such consent.
 
+### With Whom
 
-  * Your account name (not your email address) is displayed to other users when you engage in certain activity on the Site, such as when you upload content or send messages through the Site. Other users can contact you through messages and comments.
-  * You may also have some personal information that will be visible to other users on your home page(which is the public facing page for your account on the Site)[] This may include a profile picture, your name, public maps, gender, or other details.
-  * If you choose to add certain features to your home page, then these features and your activity associated with these features will be displayed to other users and may be aggregated and shared with your confirmed contacts or other users. Such shared activity may include what content you favorite, what content you rated and what content you have uploaded.
-  * Any Public Content that you submit to the Site may be redistributed through the internet and other media channels, and may be viewed by the general public.
+We may share information as discussed below, but we won’t sell it to advertisers or other third parties.
 
+ _Others working for and with XMind._ XMind uses certain trusted third parties (for example, providers of customer support and IT services), including Amazon Web Services, Google, Microsoft, Salesforce, to help us provide, improve, protect, and promote our Services. These third parties will access your information only to perform tasks on our behalf in compliance with this Privacy Policy, and we’ll remain responsible for their handling of your information per our instructions.
 
+ _Other users._ Our online sharing service displays Your Stuff (uploaded voluntarily), your name, profile picture, and other optional information you provide in your account to other users on publicly available web pages. Other users can download copies of Your Stuff from this kind of web pages.
 
-### YOUR CHOICES
+Certain features let you make additional information available to others.
 
-  * You may, of course, decline to submit personally identifiable information through the Site, in which case you can still view content and explore the Site, but XMind may not be able to provide certain services to you.
-  * You may update or correct your personal profile information and email preferences at any time by visiting your account profile page.
-  * You may control the information that is available to other users and your confirmed contacts at any time by editing your account and the features that are included on your home page.
+ _Law & Order and the Public Interest._ We may disclose your information to third parties if we determine that such disclosure is reasonably necessary to: (a) comply with any applicable law, regulation, legal process, or appropriate government request; (b) protect any person from death or serious bodily injury; (c) prevent fraud or abuse of XMind or our users; (d) protect XMind’s rights, property, safety, or interest; or (e) perform a task carried out in the public interest.
 
+### How
 
+ _Security._ We are dedicated to keeping your information secure and testing for vulnerabilities. We also continue to work on features to keep your information safe in addition to things like file encryption.
 
-### THIRD-PARTY ADVERTISERS, LINKS TO OTHER SITES
+ _User Controls._ You can access, amend, download, and delete your personal information by logging into your XMind account and going to your account settings page.
 
-XMind allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+ _Retention._ When you sign up for an account with us, we’ll retain information associated with your account for as long as your account is in existence or as long as we need it to provide you the Services. If you delete your account, we will initiate deletion of this information immediately. But please note: (1) there might be some latency in deleting this information from our servers and back-up storage; and (2) we may retain this information if necessary to comply with our legal obligations, resolve disputes, or enforce our agreements. Other information will be retained until you ask us to delete it.
 
-XMind does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks XMind to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain categories of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+### Where
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. XMind's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites. Any data obtained by third-party ad servers subsequently shared with XMind is maintained and dealt with by XMind in accordance with this privacy policy.
+ _Devices that you use._ By default, Your Stuff are stored locally on your own devices. We may also store some other information that is associated with you (like cookies and license activation tokens) on the devices you use to access the Services.
 
-The Site may offer links to other websites. When you click on links to other websites, we encourage you to read their privacy policies. Their standards may differ from ours.
+ _U.S. and around the world._ Information we collect and use is primarily stored, processed and transmitted in the United States by trusted service providers. To provide and improve our Services, we may also instruct these service providers to make a copy of this information and store and transmit it in locations around the world—including those outside your country. Data transmission is safeguarded in compliance with local laws and data protection regulations.
 
-### PRIVACY POLICY CHANGES AND PROBLEM RESOLUTION
+### Changes
 
-XMind, Ltd. may update its privacy policy at any time. If the ownership of all or substantially all of the XMind business, or individual business units owned by XMind Ltd., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to comparable promises as made in any pre-existing Privacy Policy.
+If we are involved in a reorganization, merger, acquisition, or sale of our assets, your information may be transferred as part of that deal. We will notify you (for example, via a message to the email address associated with your account) of any such deal and outline your choices in that event.
 
-If you have any comments or questions related to this privacy policy, please contact us through the ways listed below.
+We may revise this Privacy Policy from time to time, and will post the most current version on our website. If a revision meaningfully reduces your rights, we will notify you.
 
-### CONTACT
+### Your Right to Control and Access Your Information
 
-  * Email: support@xmind.net
-  * Skype: support.xmind
+You have control over your personal information and how it is collected, used, and shared. For example, you have a right to:
 
+ _Access and take your data._ You can download copies of Your Stuff from our website. You can also ask us for a copy of personal data you provided to us.
 
+ _Change or correct personal data._ You can manage your account and the content contained in it, as well as edit some of your profile details, through your account settings page.
+
+ _Erase or delete all or some of Your Stuff in your XMind account._ You can delete each of the files you uploaded in your account, through your ‘My Maps’ page.
+
+ _Delete your entire account._ You can delete your XMind account, as well as any information related to it once for all, through your account settings page.
+
+ _Unsubscribe from our newsletters._ Simply click any ‘Unsubscribe’ link in any marketing email you received to make your email address deleted from our mailing list.
+
+### Contact
+
+Have questions or concerns about XMind, our Services, and privacy? Contact our Data Protection Officer at [privacy@xmind.net](mailto:privacy@xmind.net). If they can’t answer your question, you have the right to contact your local data protection supervisory authority.
