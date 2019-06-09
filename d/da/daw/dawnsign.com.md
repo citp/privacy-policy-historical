@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dawnsign.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201054746id_/http%3A//www.dawnsign.com/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawnsign.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609113600id_/https%3A//www.dawnsign.com/privacy-policy-1) for the most accurate reproduction.*
 
-# Privacy Policy | DawnSignPress
+# DawnSignPress - Privacy Policy
 
 ## This privacy notice discloses the privacy practices for DawnSignPress. This privacy notice applies solely to information collected by this web site.
 
@@ -35,4 +35,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-If you feel that we are not abiding by this privacy policy, you should [contact us](https://web.archive.org/web/20161201054746id_/http%3A//www.dawnsign.com/contact-us) immediately via email.
+If you feel that we are not abiding by this privacy policy, you should [contact us](https://web.archive.org/web/20190609113600id_/https%3A//www.dawnsign.com/contact-us) immediately via email.
