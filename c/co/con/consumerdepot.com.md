@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820002259id_/http%3A//www.consumerdepot.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerdepot.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609234806id_/http%3A//consumerdepot.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Consumer Depot
 
