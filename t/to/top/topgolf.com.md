@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906040738id_/https%3A//topgolf.com/us/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609110906id_/https%3A//topgolf.com/us/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Topgolf
 
@@ -52,7 +52,7 @@ Click here to learn more.
 
 | 
 
-We share your personal information about you with third parties to perform the purposes for which the information is collected, complete transactions on your behalf, respond to requests, and fulfil other business and compliance purposes.   
+We share your personal information about you with third parties to perform the purposes for which the information is collected, complete transactions on your behalf, respond to requests, and fulfill other business and compliance purposes.   
 Click here to learn more.   
   
 **Children's Privacy**
@@ -150,11 +150,11 @@ You can review your Internet browser settings, typically under the sections "Hel
 Mobile Terms & Conditions 
 
   * You must be 13 years of age or older to participate in the Topgolf mobile text program.
-  * By providing your mobile phone number and clicking the "Submit" button, you consent to receive future recurring automated marketing text messages to the mobile number provided from or on behalf of Topgolf. You also acknowledge that your agreement to receive these messages isn’t required as a condition of purchase.
+  * By providing your mobile phone at opt-in, you consent to receive future recurring automated marketing text messages to the mobile number provided from or on behalf of Topgolf. You also acknowledge that your agreement to receive these messages isn’t required as a condition of purchase.
   * **Message & data rates may apply.** All charges are billed by and payable to your mobile service provider. Topgolf does not charge you for sending or receiving text messages to **68633**.
-  * You can unsubscribe at any time by texting **"STOP"** to **68633**. A text will be sent confirming your removal. Topgolf reserves the right to remove subscribers from our messaging database. For more info, text **"HELP"** to **68633** or  _[contact us online](http://vibes.com/help)_.
+  * You can unsubscribe at any time by texting **"STOP"** to **68633**. A text will be sent confirming your removal. Topgolf reserves the right to remove subscribers from our messaging database. For more info, text **"HELP"** to **68633** or [contact us online](http://vibes.com/help).
   * This program is not available on all carriers, and Topgolf is not liable for any delays in the receipt of any SMS messages or undelivered messages.
-  * Data obtained from you in connection with this SMS service includes your cell phone number, your carrier's name, the date, time and content of your messages, and other information you provide to Topgolf as part of this service. We use this information to contact you with products or services that may be of interests to you and to provide the services you request from us. Your information will not be shared with any third parties for their own purposes. 
+  * Data obtained from you in connection with this SMS service includes your cell phone number, your carrier's name, the date, time and content of your messages, and other information you provide to Topgolf as part of this service. We use this information to contact you with products or services that may be of interests to you and to provide the services you request from us. Your information will not be shared with any third parties for their own purposes. View our [Privacy Policy](https://topgolf.com/us/company/privacy-policy/)
 
 
 
@@ -194,7 +194,7 @@ Moved? Changed e-mail addresses? If you need to update or verify your personal i
 
 Where required by applicable law, you also have the right to: obtain confirmation of the existence of certain personal information relating to you, to verify its content, origin, and accuracy, as well as the right to access, review, obtain a copy, port, delete, or to block or withdraw consent to the processing of certain personal information (without affecting the lawfulness of processing based on consent before its withdrawal), by contacting us as detailed below. **Additionally, you have the right to object to our use of personal information for direct marketing.** Please note that we need to retain certain personal information as required or permitted by applicable law.
 
-Contact us at email [update@topgolf.com](email:update@topgolf.com) or in writing at Topgolf International, Inc., 8750 N. Central Expressway (Suite 1200), Dallas, TX 75231, ATTN: Marketing Resources to request access to or exercise rights to your personal information. 
+Contact us at email [update@topgolf.com](mailto:update@topgolf.com) or in writing at Topgolf International, Inc., 8750 N. Central Expressway (Suite 1200), Dallas, TX 75231, ATTN: Marketing Resources to request access to or exercise rights to your personal information. 
 
 ####   
 Links to Other Sites 
