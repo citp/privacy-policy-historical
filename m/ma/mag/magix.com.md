@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magix.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623102128id_/https%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magix.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609115445id_/https%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -299,7 +299,7 @@ Data collected in this manner is stored and evaluated on our account by Selligen
 
 Our websites contains legally required information, which enables us to be contacted rapidly in a direct manner, for instance by email. If you contact us by email or via a contact form, the personal data submitted by you will be stored automatically. We store this voluntarily submitted personal data for purposes of handling or to communicate with you; we will not pass it on to third parties.
 
-####  6\. Use and application of third party tools and services on our websites 
+####  6\. Use and application of third party tools and services on our websites and applications 
 
 We have integrated various third-party components on our websites. primarily for the purpose of optimizing your surfing experience and analyze user behavior on our websites. The following provides you with more information about this:
 
@@ -502,7 +502,30 @@ The videos are embedded in the extended data protection mode. Like most websites
 
 For more information about privacy at YouTube, please see their privacy policy at: <http://www.youtube.com/t/privacy_at_youtube>
 
-####  8\. Privacy policy for the payment methods offered 
+**j) Facebook**
+
+Facebook is a social network with over two billion active users worldwide. The platform collects various kinds of user information and activity, which is provided by the user about themselves or shared by other users. This information includes the individual user's networks and connections, payment information, device information, information about websites and apps with Facebook integration, other Facebook companies and information from third parties including interaction with advertising partners. Detailed information about the privacy policy - available under <https://www.facebook.com/about/privacy> \- provides information about the collection, processing and use of personal data through Facebook. Users can restrict and control their individual privacy settings under <https://www.facebook.com/about/basics>.
+
+Facebook is operated by Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland.
+
+Facebook uses cookies and other technology to collect and save identifiers and additional user information about computers, phones and other devices. Cookies enable Facebook to process user information on Facebook itself and also to track user behavior on other websites and apps, regardless of whether the user is registered or logged in.
+
+In addition, cookies support the targeted placement of advertisements and help companies that use Facebook products to evaluate and optimize their advertising campaigns. More information about Facebook's cookie policy can be found under <https://www.facebook.com/policies/cookies/>.
+
+MAGIX uses Facebook as a platform for increasing brand awareness and as an advertising platform for MAGIX products. To assist with performance measurement of these campaigns, MAGIX has implemented Facebook Conversion Tracking on its own homepages.   
+This form of tracking enables the sharing of information about user behavior with Facebook in order to enhance product relevance and advertising effectiveness for users and their interests.
+
+Using Facebook targeting options, MAGIX identifies individual target groups on the platform (according to location, age, interests etc.) for targeted advertising using relevant content. Users can view, modify and limit targeting options and advertising preferences in their advertisement settings under [https://www.facebook.com/ads/about/](https://www.facebook.com/ads/about/?entry_product=ad_preferences).
+
+**k) Tawk.to live chat**
+
+Some of our online offers include the application Tawk.to. Tawk.to is live chat software. Chats are integrated into the source text via a script. Using the chat automatically uses the services of Tawk.to. For information regarding the purpose and scope of data collection and the processing and usage of this data by Tawk.to, please see Tawk.to's privacy policy: <https://www.tawk.to/privacy-policy>
+
+**l) Google Firebase**
+
+Firebase is a cloud backend service from Google and offers various development services for mobile apps, e.g. authentification, saving, databases, crash reports and notifications. For more information visit <https://firebase.google.com/support/privacy/#firebase_is_gdpr-ready>
+
+####  7\. Privacy policy for the payment methods offered 
 
 **a) PayPal**  
 MAGIX has integrated PayPal components into this website. PayPal is an online payment service provider. PayPal makes it possible to initiate online payments to or to receive payments from third parties. PayPal also acts as a trustee and provides buyer protection services.
