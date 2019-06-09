@@ -1,37 +1,154 @@
-> *The following text is extracted and transformed from the ufcu.org privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331025754id_/https%3A//www.ufcu.org/about/legal/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufcu.org privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609144051id_/http%3A//ufcu.org/policies-legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  It’s a Matter of Privacy 
+## What does University Federal Credit Union do with your Personal Information?
 
-This policy is provided by University Federal Credit Union (UFCU) and the UFCU insurance brokerage and real estate companies* (affiliated companies). In this policy, the terms “we,” “our,” and “us” mean UFCU and its affiliated companies collectively.
+#### Why?
 
-At UFCU and its affiliated companies, protecting your privacy and your financial assets is central to our mission. We understand it is important for you to know how we collect, retain, and use information about you. We recognize you have a right to expect your personal information remain private and secure, and we commit fully to meet your expectations. 
+Financial Institutions choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.
 
-UFCU and its affiliated companies are committed to providing you a broad array of competitive products and services to meet your financial needs. Sometimes that necessitates sharing pertinent information we collect about you to help us (1) process transactions you initiate, and (2) offer you competitive financial products and services from the UFCU affiliated companies. 
+#### What?
 
-Except to process your transactions or as required by law, we do not provide your nonpublic personal information to anyone other than our affiliated companies and service providers. When we provide your information to our affiliated companies, it is for the purpose of introducing you to our affiliated companies’ products and services, which we believe will be of value and interest to you. UFCU and our affiliated companies maintain strict confidentiality standards, and we limit the use of the information we provide to one another. **Under no circumstances does UFCU or the UFCU affiliated companies sell the nonpublic personal information we receive from you.**
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-###  Information We Collect and Disclose About You 
-
-We may collect nonpublic personal information about you from the following sources: 
-
-  * Information we receive from you on membership and loan applications and other forms; 
-  * Information about your transactions of various types with us; 
-  * Information we receive from a consumer reporting agency. 
+  * Social Security number and income
+  * account balances and payment history
+  * credit history and credit scores
 
 
 
-We may disclose the information we collect to process transactions on your behalf, follow your authorized instructions, or to comply with applicable laws. UFCU does not disclose consumer reporting agency information to its affiliated companies, and UFCU’s affiliated companies do not disclose any of their customers’ information to UFCU. **We do not sell your nonpublic personal information to anyone for any reason.**
+When you are _no longer_ our customer, we discontinue sharing of your information as described in this notice.
 
-If you terminate your membership with UFCU or your customer relationship with any of UFCU's affiliated companies, we will not share information about you except as required by law. 
+#### How?
 
-###  How We Protect Your Information 
+All financial institutions need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial institutions can share their customers' personal information; the reasons University Federal Credit Union chooses to share; and whether you can limit this sharing.
 
-UFCU and its affiliated companies restrict access to nonpublic personal information about you to employees who have a legitimate business purpose to utilize your data. We also train our employees in the importance of maintaining confidentiality and member privacy. Additionally, we maintain physical, electronic, and procedural safeguards which comply with Federal regulations and industry best practices to protect your nonpublic personal information. 
+Reasons We can share Your personal information | Does the Credit Union Share? | Can You limit this sharing?  
+---|---|---  
+  
+**For our everyday business purposes—**  
+such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
 
-###  Regarding Your Privacy Options... 
+| YES | NO  
+  
+**For our marketing purposes—**  
+to offer our products and services to you
 
-UFCU and its affiliated companies respect your privacy choices. If you prefer, you may choose to stop all marketing from UFCU and its affiliated companies, and your opt out will remain in effect until you tell us to change your choice. If you have a joint account with another person, any one of you may exercise the choice to opt out, and your choice will apply to all persons on your account. To stop all marketing, please complete [UFCU’s Privacy Policy Form](https://web.archive.org/forms/email_opt_out.php "Off-site link"). 
+| YES | YES  
+  
+**For joint marketing with other financial companies**
 
-*UFCU’s insurance brokerage affiliate is UFCU Financial Services, LLC, DBA UFCU Insurance Services. UFCU’s real estate company affiliates are UFCU Real Estate Services, LLC, DBA Members Home Advisor® and UFCU Real Estate Appraisal Services, LLC.
+| YES | NO  
+  
+**For our affiliates' everyday business purposes—** information about your transactions and experiences
+
+| YES | NO  
+  
+**For our affiliates' everyday business purposes—**  
+information about your creditworthiness
+
+| YES | YES  
+  
+**For our affiliates to market to you**
+
+| YES | YES  
+  
+**For nonaffiliates to market to you**
+
+| YES | YES  
+  
+**To limit Our sharing**
+
+  * Call Member Services at (512) 467-8080 or Toll-Free at (800) 252-8311 - our menu will prompt you through your choice(s) or
+  * Visit us online: [www.ufcu.org/privacy](https://web.archive.org/policies-legal/privacy-policy)
+
+
+
+**Please note:**  
+If You are a _new_ customer, we can begin sharing your information from the date we sent this notice. When you are _no longer_ our customer, we discontinue sharing of your information as described in this notice.
+
+**Questions?**
+
+Call Member Services at (512) 467-8080 or Toll-Free at (800) 252-8311 or go to [www.ufcu.org/privacy](https://web.archive.org/policies-legal/privacy-policy)
+
+## Who we are
+
+**Who is providing this notice?**
+
+University Federal Credit Union
+
+## What We do
+
+**How does University Federal Credit Union protect my personal information?**
+
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
+
+**How does University Federal Credit Union collect my personal information?**
+
+We collect your personal information, for example, when you
+
+  * open an account or deposit or withdraw money
+  * pay your bills or apply for a loan
+  * use your credit or debit card
+
+
+
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
+
+**Why can't I limit all sharing?**
+
+Federal law gives you the right to limit only
+
+  * sharing for affiliates' everyday business purposes-information about your creditworthiness
+  * affiliates from using your information to market to you
+  * sharing for nonaffiliates to market to you
+
+
+
+State laws and individual companies may give you additional rights to limit sharing.
+
+**What happens when I limit sharing for an account I hold jointly with someone else?**
+
+Your choices will apply to everyone on your account.
+
+## Definitions
+
+**Affiliates**
+
+Companies related by common ownership or control. They can be financial and non-financial companies.
+
+  
+
+
+  * _Our affiliates include financial companies, such as UFCU Financial Services, LLC doing business as UFCU Insurance Services, a wholly-owned affiliate of University Federal Credit Union and UFCU Real Estate Services, LLC doing business as Member Home Advisor, a wholly-owned affiliate of University Federal Credit Union._
+
+
+
+**Nonaffiliates**
+
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+
+  
+
+
+  * _Non-affiliates We share with can include insurance companies._
+
+
+
+**Joint marketing**
+
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+
+  
+
+
+  * _Our joint marketing partners include financial services companies (such as insurance agencies and organizations with whom we have agreements to jointly market financial products)._
+
+
+
+## UFCU Privacy Policy Form
+
+You may elect to stop all marketing from UFCU, its affiliated and nonaffiliated companies by completing this form. **If you have previously notified us of your election, no further action is required.**
+
+Your UFCU account number(s):
