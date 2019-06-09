@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the fiftiesweb.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705194738id_/http%3A//fiftiesweb.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiftiesweb.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609040025id_/https%3A//fiftiesweb.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement| FiftiesWeb
 
-  * [ Home](http://fiftiesweb.com/)
-  * Privacy Statement
+Below is the list of third party advertisers that this site utilizes:
 
+ _Google AdSense:_
 
+ _  
+Tribal Fusion_ : Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their privacy policy or contact their data protection officer via  
+privacy@exponential.com.
 
-**Visitors:** I do not collect or distribute my visitors’ personal information. Your name, address, phone number, etc, all remain private. If you email me a question or comment, the only person you’re gonna hear back from – is me! I hate spam as much as the next person and wouldn’t dream of inflicting it on another living soul.
-
- **Tell a Friend:** The form to recommend this site to a friend is private between you and your friends. I really hope that you will use it, but know that I won’t be mailing your friend, nor will anyone else.
-
- **Still…** Any site (including this one) which utilizes third-party advertising companies to serve ads when you visit the website may use information ( _not_ including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. [NETWORK ADVERTISING INITIATIVE](http://www.networkadvertising.org/)
+ _Media.net_ : The Media.net contextual text ad units that this site uses are primarily driven by context and not audience data. Media.net does not collect, store or use any Personal Data for our ad targeting. We only send the user IP address to upstream providers for the purpose of fraud identification and mitigation.
