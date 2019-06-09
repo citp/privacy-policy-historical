@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoyochinese.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601183137id_/https%3A//www.yoyochinese.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoyochinese.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609230447id_/https%3A//www.yoyochinese.com/privacyPolicy) for the most accurate reproduction.*
 
 # Yoyo Chinese
 
@@ -134,45 +134,6 @@ This site uses the Lucky Orange analytics system to help improve usability and t
 Terms and Conditions  
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at our terms & conditions page.
 
-#### General Data Protection Regulation (GDPR) Compliance
-
-If you live in the EU, certain of your data may be subject to protection by the General Data Protection Regulation (the “GDPR”), a privacy regulation intended to help you have greater control over your personal data.
-
-Under the GDPR, you have the right:  
-• to know what information is being collected, as disclosed in this Privacy Policy  
-• to object on grounds relating to your particular situation to the collection or processing of certain kinds of information (“right to object”);  
-• to withdraw consent even after it has been given, without affecting the lawfulness of the processing of your data prior to your withdrawal (“right to withdraw consent”);  
-• to access, modify or update your information so that it is correct (“right to access” and “right to rectification”);  
-• to have your information deleted or erased (“right to erasure” or “right to be forgotten”);  
-• to have your data transferred or ported elsewhere (“right to data portability”);  
-• and the right to restrict processing in certain situations (“right to restriction of processing”).
-
-#### How to Access Your Personal Information
-
-If you have provided any information to us, you may access, review and make changes to it by emailing us at info@yoyochinese.com, or clicking the chat widget on the website. 
-
-To manage your email communications, you may unsubscribe by clicking the “unsubscribe” link located on the bottom of any of our emails. 
-
-#### Terms and Conditions
-
-add this section to the end of our Terms and Conditions
-
-#### Age Requirement
-
-By agreeing to these Terms and Conditions and purchasing Yoyo Chinese content, you are declaring that you are over 16 years of age, or have consent from a legal guardian.
-
-#### Email
-
-We’ve updated our privacy policy to reflect our compliance with the General Data Protection Regulation (GDPR). 
-
-As always, we collect as little information as possible to provide our services on www.yoyochinese.com, and actively work to ensure the privacy and security of your information. 
-
-You can read our privacy policy here.
-
-After May 31st, by using our website you agree to the terms of our updated policy. If you do not agree with the updated policy, you may close your Yoyo Chinese account by emailing info@yoyochinese.com or by clicking the chat widget on the website to chat with student support.
-
-Thank you for being a Yoyo Chinese student, and learning Mandarin with us!
-
 #### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.  
@@ -184,4 +145,4 @@ U.S.A.
 
 [info@yoyochinese.com](mailto:info@yoyochinese.com)
 
-Last Edited on 2018-05-25
+Last Edited on 2015-07-23
