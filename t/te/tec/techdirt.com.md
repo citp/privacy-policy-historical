@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techdirt.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230233322id_/https%3A//www.techdirt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdirt.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609233233id_/https%3A//www.techdirt.com/privacy.php) for the most accurate reproduction.*
 
 # Techdirt Privacy Policy.
 
@@ -16,7 +16,7 @@ By using Techdirt, you expressly consent to the information handling practices d
 
 * ### The Way Floor64 Uses Information:
 
-Floor64 uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on Techdirt, as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the [Digital Millennium Copyright Act](https://web.archive.org/web/20181230233322id_/https%3A//www.techdirt.com/dmca.php).
+Floor64 uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on Techdirt, as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the [Digital Millennium Copyright Act](https://web.archive.org/web/20190609233233id_/https%3A//www.techdirt.com/dmca.php).
 
   * We will use your email address, without further consent, for administrative communications such as notifying you of major Techdirt updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from Techdirt.
   * Floor64 uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way Techdirt works and looks, and to create new features and functionality.
@@ -35,7 +35,7 @@ Floor64 uses the information that you provide or that we collect to operate, mai
 
 * ### Your Choices:
 
-You may, of course, decline to share your personally-identifiable information with Floor64, in which case Floor64 will not be able to provide to you some of the features and functionality found on Techdirt. You may update, correct, or delete your user information and preferences at any time by following the directions [here](https://web.archive.org/web/20181230233322id_/https%3A//www.techdirt.com/myaccount.php). However, you may not update, correct or delete comments previously posted on the site. To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your profile information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
+You may, of course, decline to share your personally-identifiable information with Floor64, in which case Floor64 will not be able to provide to you some of the features and functionality found on Techdirt. You may update, correct, or delete your user information and preferences at any time by following the directions [here](https://web.archive.org/web/20190609233233id_/https%3A//www.techdirt.com/myaccount.php). However, you may not update, correct or delete comments previously posted on the site. To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your profile information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
 
   
 
@@ -75,7 +75,7 @@ Floor64, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss
   7. Security. We'll take appropriate physical, technical, and organizational measures to protect your personal information from loss, misuse, unauthorized access or disclosure, alteration, and destruction. 
   8. Sharing. Except as described in this policy, we won't share your personal information with third parties without your consent. 
   9. International Transfer. If we transfer your personal information to another country, we'll take appropriate measures to protect your privacy and the personal information we transfer. 
-  10. Enforcement. We'll regularly review how we're meeting these privacy promises, and we'll provide an independent way to resolve complaints about our privacy practices.   
+  10. Enforcement. We'll regularly review how we're meeting these privacy promises, and we'll provide an independent way to resolve complaints about our privacy practices.  
 
 
 To access your information, ask questions about our privacy practices, or issue a complaint, contact us at: 
