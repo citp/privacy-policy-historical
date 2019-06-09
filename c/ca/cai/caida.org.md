@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caida.org privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206234655id_/http%3A//www.caida.org/home/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caida.org privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609030449id_/https%3A//www.caida.org/home/legal/privacy) for the most accurate reproduction.*
 
 # CAIDA Website Privacy Policy
 
