@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degiro.co.uk privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214124008id_/https%3A//www.degiro.co.uk/privacy-and-cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degiro.co.uk privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609223958id_/https%3A//www.degiro.co.uk/privacy-and-cookies.html) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
@@ -6,7 +6,7 @@ Who do we have personal data from?
 
 We can have (some) personal data of anyone who has contact with DEGIRO. If you request additional information we will store the information which is provided during that request.
 
-We are required by law to have personal information surrounding all of our clients. This information is gathered during the registration and requested when necessary. 
+We are required by law to have personal information surrounding all of our clients. This information is gathered during the registration and requested when necessary. In some cases it may be necessary for us to make use of third parties to either verify or collect information. 
 
 What personal data is collected?
 
