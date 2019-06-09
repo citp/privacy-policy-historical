@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intolondon.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225223656id_/https%3A//www.spareroom.co.uk/content/default/privacy-uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intolondon.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609090349id_/https%3A//www.spareroom.co.uk/content/default/privacy-uk) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -109,7 +109,11 @@ All payment for any products or services offered through our site, including for
       3. When you object to the processing and there is no overriding legitimate interest for continuing the processing
       4. Where the personal data was unlawfully processed (i.e. otherwise in breach of the GDPR)
       5. Where the personal data has to be erased in order to comply with a legal obligation
-In case a deletion is not possible due to legal, statutory or contractual retention periods, or if it requires disproportionate efforts or prejudices your legitimate interests, the data will be blocked instead of deleted. 
+
+Personal data associated with any account on our site will be retained for a maximum period of 12 months following an account closure. We reserve the right to access this data during this period for the purposes of fraud prevention and/or to investigate any complaints we may receive.
+
+In case a deletion is not possible due to legal, statutory or contractual retention periods, or if it requires disproportionate efforts or prejudices your legitimate interests, the data will be blocked instead of deleted.
+
     3. You may also request from us a copy of any of your personal data that has been processed through automated means. This will be provided in a structured, commonly used, and machine-readable format (where technically feasible), which you may then transmit to another controller. You have the right to request that we send this data to another controller on your behalf, but only if it is technically feasible to do so.
     4. You have the right to withdraw your consent for us to collect, process and store your data at any time. If you wish to withdraw your consent, please confirm this via email to [DPO@nullspareroom.co.uk](mailto:DPO@spareroom.co.uk)
     5. If you have a complaint about any aspect of data protection or if you feel your privacy has been breached by us, we would like to hear from you. To help us investigate and resolve your concerns as quickly as possible, please contact us via email to [DPO@nullspareroom.co.uk](mailto:DPO@spareroom.co.uk)
