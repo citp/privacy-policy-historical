@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sega.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930120911id_/http%3A//www.sega.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sega.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609222218id_/https%3A//www.sega.com/Privacy) for the most accurate reproduction.*
 
 # SEGA US - Privacy Policy | SEGA
 
@@ -210,7 +210,7 @@ We do not control information which is sent from your browser to third parties, 
 
 Personal information may be transferred to other countries where we or our service providers maintain operations. These countries may not have equivalent data protection laws to the country from where you access the Products or, in the case of transfers subject to European law, may not be subject to an adequacy decision by the European Commission (EC).   An adequacy decision is a decision taken by the EC establishing that a third country provides a comparable level of protection of personal data to that in the EU, through its domestic law or its international commitments.
 
-When we transfer personal information, we will seek to take account of any applicable legal obligations relevant to personal information transfers.  In the case of transfers of personal information out of the European Economic Area, we will, in the absence of an EC adequacy decision relevant to the destination country, seek to rely on appropriate safeguards such as a valid Privacy Shield certification (in the case of a data transfer to a Privacy Shield certified US recipient -  <https://www.privacyshield.gov/welcome>) or enter into appropriate EC approved standard contractual clauses relevant  to personal data transfers between data controllers or between a data controller and a data processor, (see <http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm>).
+When we transfer personal information, we will seek to take account of any applicable legal obligations relevant to personal information transfers.  In the case of transfers of personal information out of the European Economic Area, we will, in the absence of an EC adequacy decision relevant to the destination country, enter into appropriate EC approved standard contractual clauses relevant  to personal data transfers between data controllers or between a data controller and a data processor, (see <http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm>).
 
 ## 4\. Security and data retention
 
