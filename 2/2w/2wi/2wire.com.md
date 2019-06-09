@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2wire.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812193556id_/http%3A//www.arris.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2wire.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610004841id_/https%3A//www.arris.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ARRIS
 
