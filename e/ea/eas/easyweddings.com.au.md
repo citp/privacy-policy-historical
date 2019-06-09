@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyweddings.com.au privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020203430id_/https%3A//www.easyweddings.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyweddings.com.au privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609044112id_/https%3A//www.easyweddings.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Easy Weddings
 
@@ -75,13 +75,13 @@ These services allow us and our partners to inform, optimise and serve advertisi
 
   * **AdRoll (Semantic Sugar, Inc.)**  
 AdRoll is an advertising service provided by Semantic Sugar, Inc.Data collected: Cookie and Usage Data.  
-AdRoll’s [Privacy Policy](http://www.adroll.com/about/privacy/)
+AdRoll’s [Privacy Policy](http://www.adroll.com/about/privacy)
   * **AdWords Remarketing (Google)**  
 AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the activity of our website with the Adwords advertising network.Data collected: Cookie and Usage Data.  
-Google’s [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://www.google.com/settings/ads/onweb/optout/)
+Google’s [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://www.google.com/settings/ads/onweb/optout)
   * **Remarketing through Google Analytics for Display Advertising (Google)**  
 Google Analytics for Display Advertising is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Adwords advertising network.Data collected: Cookie and Usage Data.  
-Google’s [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://www.google.com/settings/ads/onweb/optout/)
+Google’s [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://www.google.com/settings/ads/onweb/optout)
 
 
 
