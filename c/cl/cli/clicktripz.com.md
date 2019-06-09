@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicktripz.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203100633id_/http%3A//clicktripz.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktripz.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609054922id_/https%3A//www.clicktripz.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Clicktripz - Conversion solutions for travel.
 
@@ -43,3 +43,27 @@ Clicktripz does not sell or promote products for purchase by children. If you ar
 #### Conditions of Use, Notices, and Revisions
 
 If you choose to visit clicktripz.com or consent to tracking on a partner site, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use Agreement, including limitations on damages, arbitration of disputes, and application of the law of the State of California. If you have any concern about privacy at Clicktripz, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Policy and the Terms of Use Agreement will change also. You should check our website to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+
+#### Type of Data to be Processed Include:
+
+  * Browser Name
+  * Browser Version
+  * Operating System
+  * Device
+  * Browser Language Code
+  * Search History
+  * IP address
+
+
+
+##### Nature and Purpose of Processing:
+
+Clicktripz provides a comparison shopping service, often on third party sites. Clicktripz displays targeted offers based on user search criteria, page context and other factors.
+
+##### Duration of Processing:
+
+The duration of the services provided by Processor to Controller.
+
+##### Data Protection Officer:
+
+Ryan Gibson, ryan@clicktripz.com
