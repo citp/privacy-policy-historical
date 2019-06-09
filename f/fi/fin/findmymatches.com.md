@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmymatches.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214085557id_/http%3A//www.findmymatches.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmymatches.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609182739id_/http%3A//www.findmymatches.com/privacy.php) for the most accurate reproduction.*
 
 # FindMyMatches - Privacy Policy
 
