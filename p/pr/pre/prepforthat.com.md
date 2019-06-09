@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prepforthat.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212161736id_/https%3A//prepforthat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepforthat.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609055013id_/https%3A//prepforthat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PrepForThat
+# Privacy Policy - PrepForThat - If SHTF Happens
 
 **prepforthat.com Privacy Policy**  
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
