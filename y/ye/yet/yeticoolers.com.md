@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeticoolers.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110205032id_/https%3A//www.yeti.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeticoolers.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610011037id_/https%3A//www.yeti.com/en_US/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy & Terms | YETI
 
