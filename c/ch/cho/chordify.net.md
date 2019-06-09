@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chordify.net privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115070510id_/https%3A//chordify.net/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chordify.net privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609141245id_/https%3A//chordify.net/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy statement Chordify | Blog | Chordify | Tune Into Chords
 
@@ -141,19 +141,19 @@ Chordify uses Analytics cookies to examine the use of Chordify products. We plac
 
 Name: NID  
 Sender.google.com  
-Duration: 7 maanden
+Duration: 7 months
 
 Name: _ga  
 Sender: .chordify.net  
-Duration: 2 jaar
+Duration: 2 years
 
 Name: _gat  
 Sender: .chordify.net  
-Duration: 1 uur
+Duration: 1 hour
 
 Name: _gid  
 Sender: .chordify.net  
-Duration: 1 dag
+Duration: 1 day
 
 Chordify processes anonymous statistics about visits to its website. This is done with a Web Analytics System. The following data is stored in the Web Analytics System using cookies:
 
@@ -168,27 +168,27 @@ Chordify processes anonymous statistics about visits to its website. This is don
 
 Name: dzr_uniq_id  
 Sender: Deezer  
-Duration: 6 maanden
+Duration: 6 months
 
 Name: lang  
 Sender: .chordify.net  
-Duration: 1 dag
+Duration: 1 day
 
 Name: sid  
 Sender: Deezer  
-Duration: sessie
+Duration: session
 
 Name: PREF  
 Sender: .youtube  
-Durationr: 8 maanden
+Durationr: 8 months
 
 Name: user  
 Sender: .chordify.net  
-Duration: 1 jaar
+Duration: 1 years
 
 Name: VISITOR_INFO1_LIVE  
 Sender: .youtube  
-Duration: 6 maanden
+Duration: 6 months
 
 Name: YSC  
 Sender: .youtube  
@@ -198,45 +198,43 @@ _Social Cookies make the use of Chordify more accessible, and the experience mor
 
 Name: datr  
 Sender: .facebook  
-Duration: 2 jaar
+Duration: 2 years
 
 Name: c_user  
 Sender: .facebook  
-Duration: 3 maanden
+Duration: 3 months
 
 Name: xs  
 Sender: .facebook  
-Duration: 3 maanden
+Duration: 3 months
 
 Name: fr  
 Sender: .facebook  
-Duration: 3 maanden
+Duration: 3 months
 
 Name: sb  
 Sender: .facebook  
-Duration: 2 jaar
+Duration: 2 years
 
 Name: pl  
 Sender: .facebook  
-Duration: 3 maanden
+Duration: 3 months
 
 Name: cmp649170965  
 Sender: .trackcmp.com  
 Duration: 1 maand
 
-_Ads. Everyone has something to say about them, and those opinions are often not very positive. A lot of money is earned from that, but people often forget that internet developers and on-line services really need that revenue to pay for the development and maintenance expenses of their products. Chordify does indeed offer paid extras for which many people are willing to pay a small fee, but a vast group doesn’t do so – for a variety of personal reasons._ Yet _we also like to enable those free users to have more fun making  _ _music. We feel displaying ads with that is reasonable. We set high standards for our advertising partners to ensure user privacy, and because we believe ads should also be relevant and nice. You can find more information on the parties with whom we cooperate, and their cookies, below._
-
 Name: DSID  
 Sender: .doubleclick.net  
-Duration: 1 uur
+Duration: 1 hour
 
 Name: IDE  
 Sender: .doubleclick.net  
-Duration: 13 maanden
+Duration: 13 months
 
 Name: _gads  
 Sender: .chordify.net  
-Duration: 2 jaar
+Duration: 2 years
 
 We always take a critical look at which cookies we will allow for our services. Cookies contribute to the best possible operation of our services, and we therefore advise you to accept them and to also retain them after a session. You can easily delete cookies from your devices. The following is a list with the most used browsers and a link to the way you can delete your cookies in your browser:
 
