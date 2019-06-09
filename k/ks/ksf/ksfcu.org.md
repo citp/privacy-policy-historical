@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksfcu.org privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826055953id_/http%3A//ksfcu.org/wp-content/uploads/2016/01/2015PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksfcu.org privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609100551id_/https%3A//ksfcu.org/wp-content/uploads/2016/01/2015PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 
 
