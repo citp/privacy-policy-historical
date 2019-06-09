@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filehostguru.net privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204183314id_/https%3A//filehostguru.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filehostguru.net privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609085920id_/https%3A//filehostguru.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
