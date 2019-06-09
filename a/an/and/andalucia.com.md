@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andalucia.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231172304id_/http%3A//www.andalucia.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andalucia.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609215047id_/http%3A//www.andalucia.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Andalucia.com - Privacy Policy
 
@@ -20,7 +20,7 @@ Users may oppose their data being processed for the aforementioned purposes by s
 
 Use of Cookies
 
-We may use outside companies to display ads and collect information on our site. These ads may contain cookies for optimization purposes, and we do not have access to this information. These companies may use this information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on site, other Web sites and other forms of media about goods and services of interest to you. If you would like more information. For more information, or to learn about opting-out of such advertising technologies, please visit: **<http://www.networkadvertising.org/managing/opt_out.asp> **and **[www.google.com](https://web.archive.org/web/20181231172304id_/http%3A//www.andalucia.com/www.google.com)**
+We may use outside companies to display ads and collect information on our site. These ads may contain cookies for optimization purposes, and we do not have access to this information. These companies may use this information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on site, other Web sites and other forms of media about goods and services of interest to you. If you would like more information. For more information, or to learn about opting-out of such advertising technologies, please visit: **<http://www.networkadvertising.org/managing/opt_out.asp> **and **[www.google.com](https://web.archive.org/web/20190609215047id_/http%3A//www.andalucia.com/www.google.com)**
 
 Security Measures
 
