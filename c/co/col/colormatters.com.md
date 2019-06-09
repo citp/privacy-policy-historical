@@ -1,85 +1,64 @@
-> *The following text is extracted and transformed from the colormatters.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914150348id_/https%3A//colormatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colormatters.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609093736id_/https%3A//www.colormatters.com/color-resources/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**This Privacy Policy was last modified on 12/04/11 and was first published and made effective on 03/08/2000.**
+Color Matters respects your privacy. If you’re a visitor to the Color Matters web site, we do not collect any information about your name or email address.
 
-Color Matters. (“we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Color Matters when you use the Color Matters website, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use.
+If you voluntarily provide your name and email address, such as when you contact us via the[ Color Matters](https://www.colormatters.com/) web site [\- ](https://colormatters.com%2C/)or if you subscribe to the [Color Matters Newsletter - ](https://app.convertkit.com/landing_pages/149192?v=6)or if you register for one of[ Color Matters online courses ](https://colormatters.thinkific.com/) or if you provide your email address as part of your response to [Color Matters Global Color survey, ](https://www.colorcom.com/global-color-survey)the following applies.
 
-### Information We Collect
+* * *
 
-**User-Provided Information:  **You provide us information about yourself, such as your name, e-mail address, and other personal information if you register for a User account with the Service (including by “following,” “liking,” adding the Color Matters website, etc., on a third party website or network). If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service.
+### Color Matters Privacy Policy
 
-**Cookies Information:  **When you visit the website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Color Matters help you log in faster and enhance your navigation through the site. A cookie may also convey information about how you browse the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+**1\. What information do we collect and what do we do with it?  
+**   
+When you enroll as a student or visitor on our [Color Matters online learning site](https://colormatters.thinkific.com/), as part of the enrolling process, we collect your name and email address (and any other the information you give us at the time of enrollment such as your business name). We do not use your information for any purposes other than sending you emails about the course, related course(s), registration, course content, your course progress, other updates, or educational material. 
 
-**Log File Information:  **Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain log file information. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
+We may also use your email to send the [“Color Matters” Newsletter.](https://app.convertkit.com/landing_pages/149192?v=6) You can unsubscribe at any time by replying to the email or clicking the unsubscribe link in the footer.  
+Note: We may also use auto responders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each.
 
-**Clear Gifs Information:**  When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Color Matters better for our users.
+We do not use your information for any third party vendors or suppliers.
 
-**Third Party Services:**  Color Matters uses third party analytics services including Google Analytics to help understand use of the Service. These services collect the information sent by your browser as part of a web page request, including cookies and your IP address, and their use of this information is governed by their Privacy Policy.
+ANTI-SPAM POLICY   
+We hate unsolicited commercial e-mail as much as you do. Also known as Spam or junk e-mail, it is a disservice to the Internet community. You will always have an option to unsubscribe from any email about Color Matters courses or the Color Matters newsletter immediately by clicking on the link in any email you receive. 
 
-### How We Use Your Information
+**2\. How do you get my consent?**   
+When you provide us with personal information to become a learner on our [Color Matters online learning site](https://colormatters.thinkific.com/), make a purchase, or participate in the course, we imply that you consent to our collecting it and using it for the specific reason of online learning and the educational newsletter only.
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
+ **3\. Color Matters Online Learning Courses hosted by Thinkific**   
+Our course and site is hosted by Thinkific Labs Inc. (“Thinkific”). They provide us with the online course creation platform that allows us to sell our product/services to you. Your data is stored through Thinkific’s data storage, databases and the general Thinkific application. They store your data on a secure server behind a firewall. 
 
-By providing us with your email address (including by “following,” “liking,” adding the Color Matters application, linking your account to the Color Matters service, etc., on a third party website or network), you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications of activity on the Service to the email address you give us, in accordance with any applicable privacy settings. We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out or change your preferences in your account settings page. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails.
+**4\. Payment**  
+If you make a purchase on our [Color Matters online learning site](https://colormatters.thinkific.com/), we use a third party payment processor such as Stripe or PayPal. Payments are encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction.
 
-Following termination or deactivation of your User account, we may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, we may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your User account.
+**5\. Security and How We Protect Your Information**  
+To protect your personal information, we follow industry standards on information security management to safeguard information and to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed. We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. We store this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at [privacy@Color Matters.com](mailto:privacy@Color%20Matters.com%22).
+**6\. User Names and Passwords**   
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a username and password for access to certain parts of the [Color Matters online learning ](https://colormatters.thinkific.com/)website, you are responsible for keeping the username and password confidential. Do not give your password to anyone. You should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
 
-We may use certain information about you and/or your User Content internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content.
+**7\. Cookies**   
+We use cookies or similar tracking technologies to recognize your device and provide you with a personalized experience on the [Color Matters online learning ](https://colormatters.thinkific.com/)website. This means information that our website’s server transfers to your computer. Cookies may also be used to customize the learning website content for you as an individual.
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our Users or engineers that are associated with certain IP addresses; (f) help you efficiently access your information after you sign in; and (h) track User Content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act; and (i) automatically update the Color Matters application on your system and related devices.
+If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer. However, cookies are not required for Color Matters online learning use. If your browser is configured not to accept cookies, you will still be able to access an online course and its content.
 
-### How We Share Your Information
+**8\. Disclosure**   
+We may disclose your personal information only if we are required by law.
 
-Personally Identifiable Information: We will not rent or sell your personally identifiable information to others. We may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside of our direct control (for instance, on servers or databases co-located with hosting providers).
+**9\. Links**  
+When you click on external links within the Color Matters web site or in course material for the on the [Color Matters online learning ](https://colormatters.thinkific.com/)website, or any links in the Color Matters newsletter, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
+**10\. Updates**  
+If this Privacy Policy is updated to reflect changes to operational or legal practices, or for regulatory reasons, we will notify you of the changes by posting the revised policy on this Website or by other means when appropriate.
 
-Any personal information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. To change your privacy settings on the Service, visit your account settings page. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
+**11\. Age of Consent**   
+By using the [Color Matters online learning ](https://colormatters.thinkific.com/)site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence.
 
-From time to time, we may run contests, special offers, or other events or activities (“Events”) on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties’ use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
+**12\. Termination**   
+If after you change your mind after providing your name, email address, and any other information, you may withdraw your consent for us to contact you by clicking on the unsubscribe footer in any email you receive from us or by using the contact form on the [Color Matters](https://colormatters.com/) web site.
 
-Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Color Matters, our Users or others.
+* * *
 
-Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Color Matters services.
+This Privacy Policy applies to the following situations:
 
-We may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Color Matters. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. Color Matters does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Color Matters to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The Color Matters Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
-
-### How We Protect Your Information
-
-We care about the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Color Matters or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Your privacy settings may also be affected by changes to the functionality of Color Matters’s distributors, such as social networks. We are not responsible for the functionality or security measures of any third party.
-
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Color Matters, at all times.
-
-### Compromise of Personal Information
-
-In the event that personal information is compromised as a result of a breach of security, we will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
-
-### Your Choices About Your Information
-
-You may, of course, decline to submit personally identifiable information through the Service, in which case Color Matters may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account settings page. You can review and correct the information about you that Color Matters keeps on file by contacting us directly at privacy AT ColorMatters.com.
-
-### Children's Privacy
-
-Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Color Matters. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at privacy @Color Matters.com.
-
-### Links to Other Web Sites
-
-We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
-
-### Notification Procedures
-
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by us in our sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
-
-### Changes to Our Privacy Policy
-
-We may update its Privacy Policy from time to time, and so you should review this Policy periodically. When we change the policy in a material way, we will update the ‘last modified’ date at the top of this Privacy Policy. Changes to this Privacy Policy are effective when they are posted on this page.
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at privacy AT ColorMatters.com, or send mail to:
-
-Color Matters  
-1212 Some Street  
-Honolulu, HI 99999
+If you voluntarily provide your name and email address, such as when you contact us via the [Color Matters web site](https://www.colormatters.com/) \- or if you subscribe to the [Color Matters Newsletter](https://app.convertkit.com/landing_pages/149192?v=6) , or if you register for one of[ Color Matters online courses ](https://colormatters.thinkific.com/) or if you provide your email address as part of your response to [Color Matters Global Color survey.](https://www.colorcom.com/global-color-survey)
