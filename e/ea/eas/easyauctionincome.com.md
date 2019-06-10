@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyauctionincome.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018151205id_/http%3A//easyauctionincome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyauctionincome.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611012209id_/https%3A//easyauctionincome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,9 @@ This privacy policy sets out how Easy Auction Income uses and protects any infor
 
 Easy Auction Income is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Easy Auction Income may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 03 September 2013.
+Easy Auction Income may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+
+This policy is effective from 03 September 2013. (Last updated 29 December 2018)
 
 ### What we collect.
 
@@ -50,13 +52,12 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
-  * If you have previously agreed to us using your personal information for direct marketing purposes,  you may change your mind at any time by writing to or emailing us at  
-steve @easyauctionincome.com.
+  * If you have previously agreed to us using your personal information for direct marketing purposes,  you may change your mind at any time by writing to or emailing us at info @ easy auction income.com
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you as governed by the laws of UK. A small fee may be payable. If you would like a copy of the information held on you please write to 83 Downton Road, Swindon, Wiltshire SN2 2PE. United Kingdom
+You may request details of personal information which we hold about you as governed by the laws of UK. A small fee may be payable. If you would like a copy of the information held on you please email info @ easyauctionincome.com
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
