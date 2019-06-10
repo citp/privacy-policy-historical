@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetclimax.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209073036id_/http%3A//www.planetclimax.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetclimax.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611004255id_/http%3A//www.planetclimax.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Planetclimax.com - Privacy policy
 
