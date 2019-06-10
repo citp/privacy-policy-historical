@@ -1,193 +1,84 @@
-> *The following text is extracted and transformed from the frenchs.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527072114id_/http%3A//www.frenchs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchs.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610021849id_/https%3A//www.mccormick.com/privacy-policy) for the most accurate reproduction.*
 
-# FRENCH’S® Foods Privacy Policy
+# Privacy Policy | McCormick
 
-A. Information Collected
+**_Last revised February 18, 2013_**
 
-     (1) Personally Identifiable Information
+This site is owned and operated by **McCormick & Company, Incorporated** (“McCormick”). We at McCormick recognize that you are concerned about your personal privacy. 
 
-     (2) Non-Personally Identifiable Information
+This Privacy Policy is provided to inform you of what personal information is collected on our websites and how that information is maintained and used by McCormick. This Privacy Policy applies to all information collected or submitted on [www.mccormick.com](https://www.mccormick.com/) and [www.mccormickcorporation.com](https://www.mccormickcorporation.com/). 
 
-B. Use of Information Collected Via the Sites
+This Privacy Policy is current as of the effective date set forth above. McCormick reserves the right to change this Privacy Policy as our practices may change, so we encourage you to review the privacy policy from time to time. 
 
-     (1) Personally Identifiable Information
+**Personal Information We Collect.** You don't need to provide any personal information to access our websites. However, McCormick provides you the opportunity to enhance your visit to our site by providing personal information to us for use for certain features, such as MyMcCormick, contests, to sign up for product testing, and to get information about career opportunities at McCormick. The information we collect may include, but is not limited to, name, contact information, the types of recipes you are interested in receiving from us, and information about your cooking habits. If you use our McCormickCorporation.com website, we may collect information such as your business contact information. We may on occasion collect personal information that you provide to third parties (such as information you provide in response to a McCormick advertisement that appears on another website). If we do collect personal information from third parties in such instances, we will treat that information in accordance with this Privacy Policy.
 
-     (2) Non-Personally Identifiable Information
+**How We Use Your Personal Information.** We may use the information you provide on our website to send you periodic e-mail updates about our company, send you newsletters and recipes, to send you surveys or to notify you of special offers and promotions. You may opt out of receiving these communications at any time by clicking on the opt-out link located in each e-mail we send. If you have an online account with us, you may also opt out of receiving commercial e-mail communications by choosing to unsubscribe from your account preferences page. 
 
-C. Sharing and Disclosure of Information
+If you sign up to test products or participate in surveys on our website, then we will use your contact information to send you such products or surveys. 
 
-     (1) Personally Identifiable Information
+If you provide us with your mailing address, we may use this information to send you special offers or promotions by mail. If you do not want to receive special offers or promotions by mail, please do not provide your mailing address. 
 
-     (2) Non-Personally Identifiable Information
+**Supplementation of Information.** We may on occasion supplement the personal information you provide to us with information from third party sources. We may also obtain publicly available data from third parties and use it to supplement our existing user database to better target our advertising and to provide pertinent offers in which we think you might be interested. 
 
-D. Collection and Use of Information from Children Under the Age of 13
+**MyMcCormick.** As a member of MyMcCormick, you have the opportunity to share your thoughts with McCormick and other club members and save and organize your favorite McCormick recipes. If you choose to post information on our website, you should be aware that any personal information you submit there can be read, collected, or used by other users of these features. We are not responsible for the personal information you choose to submit through these features on our website. 
 
-E. International Transfer of Information
+Please note that we may use the information you post or store using your MyMcCormick account to send you targeted marketing offers. 
 
-F. Opt-Out
+**Collection and Use of Your Non-Personal Information**
 
-G. Forums, Chat Rooms and Other Public Posting Areas
+We also collect non-personal information − data in a form that does not permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it:
 
-H. Third Party Web Sites
+We may collect information such as occupation, language, zip code, area code, cooking preferences, location, and the time zone so that we can better understand customer behavior and improve our products, services, and advertising.
 
-I. Assignment
+We also may collect information regarding customer activities on our website. This information is aggregated and used to help us provide more useful information to our customers and to understand which parts of our website, products, and services are of most interest. Aggregated data is considered non-personal information for the purposes of this Privacy Policy.
 
-J. Changes to this Privacy Policy
+If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
 
-K. Security
+**Cookies.** A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and persistent cookies on our websites. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. Persistent cookies enable us to track and target the interests of our users to enhance their experience on our site. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
 
-L. Your rights
+If you reject cookies, you may still use our websites, but your ability to use some areas of our sites will be limited and we will not be able to provide you with the most convenient experience. 
 
-M. Governing Law / Venue / Forum
+**Log Files.** As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type (such as Internet Explorer or Firefox), internet service provider (ISP), referring/exit pages, the operating system you may be using (e.g., Windows XP or Mac OS), a date/time stamp of when you visited our site, and click-stream data. 
 
-N. Contacting TFFC
+We use this information, which does not identify individual users, to analyze aggregate trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
 
-A. Information Collected
+We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
-This privacy policy applies only to information collected on the Sites and does not apply to information collected by TFFC through any other means.
+**Disclosure of Personal Information to Third Parties.** At times McCormick may make certain personal information available to strategic partners that work with McCormick to provide products and services, or that help McCormick market to customers. Personal information will only be shared by McCormick to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes. McCormick may also share non-personal information or aggregate information about people who use our site to business partners and other third parties. 
 
-We collect two types of information from visitors to the Sites: (1) Personally Identifiable Information; and (2) Non- Personally Identifiable Information, such as your IP address or cookies.
+**Disclosure of Personal Information to Services Providers.**   McCormick shares personal information with companies who provide services such as information processing, extending credit, fulfilling customer orders, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys. These companies are obligated to protect your information and may be located wherever McCormick operates.
 
-**(1)  Personally Identifiable Information**
+**Compliance with Law.** Under certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other legal requirements, such as warrants, subpoenas or court orders. McCormick will comply with any court order or other legal process and will provide your personal information if required in any legal proceeding. We also may release personal information when we believe in good faith that such release is appropriate to protect the rights, property or safety of McCormick our users, employees, or others. This may include, for example, exchanging information with other organizations for fraud protection and/or credit risk reduction. 
 
-"Personally Identifiable Information" is information that identifies you personally, such as your name, address, telephone number, email address, or company name.  TFFC collects and stores the personally identifiable information that you have provided to us on the Sites, including as follows:
+**Access to Your Personal Information.** You may view and change the personal information you have provided through the MyMcCormick feature of our website by accessing your MyMcCormick account profile online. To review and update your personal information, simply go to the [Homepage](https://web.archive.org/). 
 
-We may collect your first and last name and product or service details if you contact us with a question related to our products or services;   
-We may collect your first and last name, mailing address and billing information if you purchase a product or service on the Sites;   
-We may collect registration details about a product that you purchase from TFFC and this information may be tied to your name and mailing address;   
-We may collect your first and last name, mailing information, email address and billing information if you download information from a Site;   
-We may collect your name, email address or phone number if you contact us with a question; We may collect your first and last name, date of birth and email address if you choose to participate in a contest or sweepstakes; and/or   
-We may collect your name and mobile phone number if you consent to receive autodialed and/or pre-recorded telemarketing messages from or on behalf of us at your mobile number.  f you do not want TFFC to collect your personally identifiable information, please do not provide it to us.
+**Security.** McCormick's website employs appropriate security measures which are designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of personal information. 
 
-**(2) Non-Personally Identifiable Information**
+**Note to Parents.** We don't knowingly collect personal information from children. If you are under the age of 18, please do not use this site. Parents may have information related to their children deleted from our database and refuse to permit further collection or use of the child’s information. 
 
-"Non-Personally Identifiable Inform ation" can be technical information or it can be demographic information, such as your age, location, gender or interests. Non-personally identifiable information does NOT identify you personally. Here are some examples of the non-personally identifiable information that is collected via the Sites:
+**Links to other sites.** This website may contain links to other sites that are not owned or controlled by McCormick. These sites may have their own terms and conditions, or no terms and conditions at all. Please be aware that we are not responsible for the privacy practices of these other sites, including those that enable you to apply for a position with our company, or those that may administer contests, sweepstakes or other promotions on our behalf. We provide links to third party websites as a convenience to our site visitors. These links are not intended as an endorsement of or referral to the linked websites. The linked websites have separate and independent privacy statements, notices and terms of use, which we recommend you read carefully. We do not have any control over such websites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information. By clicking on third party links, you are subject to the privacy practices of the third party website.
 
-Internet Protocol (IP) address -- Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the webpages you view.
+**Mobile Services.** McCormick offers a ‘Send to Phone’ recipe service (THE SERVICE). THE SERVICE offers text message recipe ingredients list delivered to your phone and mobile browser site access when requested from our online recipes pages. Depending on the length of the recipe ingredients list, more than one SMS text message may be sent. For a description of the Terms and Conditions for using the ‘Send to Phone’ recipe service, please see our [Legal Notice](https://web.archive.org/Legal%20Message). 
 
-Cookie -- A "cookie" is a small text file that may be used to collect information about your activity on the Sites. For example, when someone visits a page within the Sites, a cookie is placed on the user's machine (if the user accepts cookies) or is read if the user has visited the Sites previously.  Cookies may also be used to track users across the Web. We use the information we collect from cookies for marketing and product planning purposes.  Collected data may also be shared, in aggregate form, with third-parties (e.g., dealers, marketers, and distributors).  We do not currently honor any “do-not-track” signal sent by browsers. However, you may opt-out of targeted advertising from National Advertising Initiative members by visiting http://www.networkadvertising.org/choices/.  You may also set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Sites. Additionally, some of the cookies we use may be flash cookies or Adobe cookies. While they are harmless, they may contain non-personally identifiable information and depending on your browser these cookies may not normally be deleted when your cookies are deleted. Please check your browser to determine where these types of cookies are stored and how they may be deleted.
+We may use information we receive as a result of your participation in THE SERVICE to send you targeted marketing offers. The information we may use includes but is not limited to your mobile device location or other account information. 
 
-Web Beacons (also known as "clear gifs," "web bugs" or "pixel tags") -- "Web Beacons" are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of the Sites and to help determine the effectiveness of promotional or advertising campaigns.  When used in HTML-formatted email messages, web beacons can tell the sender whether and when the email has been opened. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on web pages.
+To opt out of receiving our recipe service, text "STOP" to 30123 from your mobile phone and we will unsubscribe you from our SMS text messaging service immediately. You will receive an OPT OUT confirmation message and will not receive any additional messages until you re-register on our website. To get help, email us at [mccormick_mobile@mccormick.com](mailto:mccormick_mobile@mccormick.com). From your mobile phone, you may request our contact information at any time by texting HELP to 30123. 
 
-Product Information -- We may collect registration information or other details about your product or service. Unless this information is tied to your name or address, it is not considered personally identifiable.  We may collect the above non-personally identifiable information from all visitors to our Sites. If you do not want TFFC to have access to this information, please do not visit our Sites.
+**How to contact us:** If you have any questions about this privacy policy, or the website overall, please contact us. 
 
-B. Use of Information Collected Via the Sites
-
-**  (1) Personally Identifiable Information**
-
-We use your personally identifiable information that is collected on these Sites primarily for the following purposes:
-
-To deliver services; To alert you to special offers, updated information and other new products or services from TFFC, or other third parties, or to forward promotional materials to you (subject to your right to opt out of receiving such alerts or promotional materials as outlined in Section F below);  To complete a transaction or service requested by you;  To ensure the Sites are relevant to your needs; To help us create and publish content most relevant to you; To notify you about a material change to this privacy policy or our Terms of Use, if necessary;  To allow you access to limited-entry areas of the Sites; and To contact you in response to sign up forms such as Contact Us or other inquiry.  In addition, if you email us a question, we may use your email address to process your request and respond to your question.  Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion.
-
-**(2) Non-Personally Identifiable Information**
-
-Non-personally identifiable information is used as described above and in other ways as permitted by applicable laws, including combining non-personally identifiable information with personally identifiable information.
-
-**C. Sharing and Disclosure of Information**
-
-**(1) Personally Identifiable Information**
-
-We may share or disclose your personally identifiable information in the following instances:
-
-To our parent company, subsidiaries and affiliates in order to better serve you. TFFC may have to share your data with these parties in order to provide you with services that have been requested by you, or so that we can ensure our services and products are meeting your needs.
-
-To unaffiliated third-party service providers, agents or independent contractors who help us maintain our Sites and provide other administrative services to us (including, but not limited to, order processing and fulfillment, providing customer service, maintaining and analyzing data, sending customer communications on TFFC's behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions).  We seek to ensure that these unaffiliated third parties will not use the persona lly identifiable information for any other purpose than to provide the administrative services for which they are responsible. Because such unaffiliated third-party service providers that help us administer our Sites will have access to users' personally identifiable information, if you do not wish for our unaffiliated third-party service providers to have access to your information, please do not register or submit any personally identifiable information to us.
-
-To complete your purchase.  If you choose to make a purchase on the Sites, we may collect from you your credit card number, billing address and other information related to such purchase, and we may use such collected information in order to fulfill your purchase. We may also provide such information, or other personally identifiable information provided by you, to unaffiliated third parties as necessary to complete your purchase (for example, to process your credit card).
-
-To comply with the law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process or other government requests served on us (including in response to lawful requests by public authorities to meet national security or law enforcement requirements), protect and defend our rights or property, including the rights and property of TFFC, or act in urgent circumstances to protect the personal safety of our end users.
-
-To third parties as part of any corporate reorganization process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets.
-
-To track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
-
-To protect against potential fraud, we may verify with third parties the information collected from these Sites. In the course of such verification, we may receive personally identifiable information about you from such services. In particular, if you use a credit card or debit card to purchase services with us, we may use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to us, and that the card has not been reported as lost or stolen.
-
-Except as described in this Privacy Policy or at the time we request the information, we do not otherwise use, share or otherwise disclose your personally identifiable information to any third parties.
-
-**(2) Non-Personally Identifiable Information**
-
-We use non-personally identifiable information collected on the Sites in the manner disclosed above, in the Section A (2). We may share this non-personal information with our fulfilment partners for research and statistical purposes.
-
-**D. Collection and Use of Information from Children Under the Age of 13**
-
-TFFC does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to use the Sites. If you are under 13 please do not attempt to register on the Sites or send us any Personal Information.
-
-**E. International Transfer of Information**
-
-If you choose to provide us with personally identifiable information, TFFC may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. 
-
-**F. Opt-Out**
-
-From time to time, we communicate with users who subscribe to our services via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional and you have consented to receiving such e-mails by providing your email address.
-
-However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on the Sites. For e-mails, the opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until we have had time to make the opt out effective. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email. For text messages, should you choose to “unsubscribe” or stop receiving such messages, you can contact us directly at consumer.relations@rb.com or reply with the message “STOP” to a message after it is received. Further, you hereby confirm consent to receiving a confirmatory message in response to your STOP request. Message and data rates may apply.
-
-**G. Forums, Chat Rooms and Other Public Posting Areas**
-
-Please note that any information you include in a message you post to any product review board, chat room, forum or other public posting area is available to anyone with Internet access. If you don't want people to know your e-mail address, for example, don't include it in any message you post publicly.
-
-**H. Third Party Web Sites**
-
-This statement applies solely to information collected on the Sites. The Sites may contain links to other web sites. We are not responsible for the privacy practices or the content of these other web sites.
-
-With respect to purchase transactions through the commerce solution which is accessible through the Sites, end users may be required to provide personally identifiable information (including credit card information) directly to a third party retailer in connection with the sale of products through the Sites, and any information so disclosed to such third party shall be governed by such third party’s privacy policy.
-
-**I. Assignment**
-
-In the event that all or part of our assets are sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Sites.
-
-**J. Changes to this Privacy Policy**
-
-We reserve the right to change this privacy policy from time to time in our sole discretion. When we do, we will also revise the "last update" date at the bottom of this privacy policy.
-
-**K. Security**
-
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to TFFC is done at your own risk.
-
-Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
-
-If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using these Sites or providing personally identifiable information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of these Sites. We may post a notice on our Sites if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
-
-**L. Your rights**
-
-If you are from the European Union and wish to obtain access to the personal information that we hold about you, or to correct, amend, update or delete such information, please contact us at the address below. Before responding to your request, we may ask you to verify your identity and to provide further details about your request. We will endeavor to respond within an appropriate timeframe and, in any event, within any timescales required by law.
-
-**M. Governing Law / Venue / Forum**
-
-This Agreement shall be governed by the laws of the State of New Jersey and by the federal laws of the United States, excluding their conflicts of laws provisions. All disputes, controversies and disagreements between the parties arising out of or related to this privacy policy shall be exclusively submitted for, resolved and finally settled by, binding arbitration. The arbitration shall be conducted by three (3) arbitrators exclusively in Morris County, NJ, in accordance with the Commercial Arbitration Rules of the American Arbitration Association. The Parties waive any objection that might be made on the ground that such venue may be in an inconvenient forum.
-
-**N. Contacting TFFC**
-
-If you have any questions about this privacy policy, or the website overall, please contact us.
-
-For questions or comments regarding the McCormick.com website, please contact us at the following address:
+For questions or comments regarding the McCormick.com website, please contact us at the following address: 
 
 **Interactive Marketing  
 Consumer Products Division  
 McCormick & Co., Inc.  
-211 Schilling Circle  
-Hunt Valley, MD 21031**  
-or send us an [email](mailto:consumer_affairs@mccormick.com).
+24 Schilling Road, Suite 1  
+Hunt Valley, MD 20131**  
+or send us an [email](mailto:consumer_affairs@mccormick.com).
 
-For questions or comments regarding the McCormickCorporation.com website, please contact us at the following address:
+For questions or comments regarding the McCormickCorporation.com website, please contact us at the following address: 
 
 **Corporate Communications  
 McCormick & Company, Inc.  
-18 Loveton Circle  
-Sparks, MD 21152  
-**or send us an [email](mailto:notices@mccormick.com).
-
- All information you provide in any written communication will also be covered by this policy.
-
-**YOUR CALIFORNIA PRIVACY RIGHTS**
-
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding TFFC's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
-
-The French’s Food Company LLC   
-4 Mill Ridge Lane   
-Chester, NJ 07930   
-Attn: Consumer Relations
-
-Effective Date: March 22, 2018  
-Last Updated On: March 22, 2018
+24 Schilling Road, Suite 1  
+Hunt Valley, MD 21031  
+**or use our [Contact form](https://web.archive.org/contact). 
