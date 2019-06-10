@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartdnsproxy.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230102805id_/https%3A//www.smartdnsproxy.com/Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartdnsproxy.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610020203id_/https%3A//www.smartdnsproxy.com/Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smart DNS Proxy
 
