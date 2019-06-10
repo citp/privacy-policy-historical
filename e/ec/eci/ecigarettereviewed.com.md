@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecigarettereviewed.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715213843id_/https%3A//ecigarettereviewed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigarettereviewed.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610153741id_/https%3A//ecigarettereviewed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EcigaretteReviewed
 
@@ -6,9 +6,9 @@ We take your privacy very seriously here at [EcigaretteReviewed](http://ecigaret
 
 ### **The Short Version**
 
-  * We never collect personal information like your name and email address unless you’ve personally allowed us to.
-  * We don’t sell, share, rent or otherwise distribute sensitive information unless you’ve given us permission (or unless US law requires us to).
-  * You won’t receive promotional emails unless you’ve actively opted to receive them.
+  * We never collect personal information like your name and email address unless you've personally allowed us to.
+  * We don’t sell, share, rent or otherwise distribute sensitive information unless you've given us permission (or unless US law requires us to).
+  * You won’t receive promotional emails unless you've actively opted to receive them.
   * We secure your information using electronic, physical and managerial safeguards.
 
 
@@ -56,4 +56,4 @@ We appreciate that whilst you may have originally agreed to receive promotional 
 
 We do feature external links on the site, and these sites are not covered by this privacy policy. You can find out about the specific site’s privacy policy by visiting their relevant page, but we can’t exert any control over what they do, and as such this policy only applies to EcigaretteReviewed. We are not accountable for the protection of the data you submit to other sites (even those we link to), but you can rest assured that _we_ only use your data as outlined by this page.
 
-**Any questions regarding our privacy policy?** [Contact us](http://ecigarettereviewed.com/contact-us/) and we’ll be more than happy to answer them for you.
+**Any questions regarding our privacy policy?** [Contact us](https://ecigarettereviewed.com/contact-us/) and we’ll be more than happy to answer them for you.
