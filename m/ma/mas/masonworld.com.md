@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masonworld.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509213955id_/http%3A//www.latenightim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masonworld.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610061024id_/https%3A//www.latenightim.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
