@@ -1,107 +1,155 @@
-> *The following text is extracted and transformed from the autoshowny.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920163449id_/https%3A//www.autoshowny.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoshowny.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610114413id_/https%3A//www.autoshowny.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - New York International Auto Show
+# Privacy - New York International Auto Show
 
-The New York International Auto show collects customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of personal information we collect from you. By visiting any of our websites, or providing your information to us, you are accepting the practices described in this privacy policy.
+This website is owned and operated by the New York International Auto (“NYIAS”, **“we”, “us”, “our”** ) which is owned by the Greater New York Automobile Dealers Association, Inc. This policy provides you with details on the information collected from you and the uses we may make of your personal information. This policy may be updated as technology changes or the law requires, so please check back periodically. If you continue to visit this website and use the services made available to you after such changes, you hereby acknowledge, agree to, and provide your consent to the changes.
 
-  * information we collect about you
-  * how we use this information
-  * marketing email communications
-  * changing address
-  * how we work with third party service providers
-  * your online account
-  * links to other sites
-  * cookies and web beacons
-  * privacy of young children
-  * security
-  * accessing our websites from outside the U.S.
-  * privacy policy updates
+We encourage you to read this policy to learn more about what information we collect, how we use it, and how you can opt-in or opt-out of receiving communications from us. Additionally, this policy includes information about how we endeavor to protect your data. If you have any questions about our collection and use of your information, please contact us at [assistance@gnyada.com.](mailto:assistance@gnyada.com.)
 
+### Information We Collect
 
+We may collect two types of information about you when you visit our websites, contact us with questions: (1) personally identifiable information (such as your name, address, telephone number, e-mail address), and (2) nonpersonal, aggregate information (such as information regarding the pages on our site you have visited).
 
-### Information We Collect About You
+### Personally Identifiable Information
 
-Any personal information you provide to us is maintained on secure servers and our internal systems. We collect information when you register online or update your account, log-in, place an order, opt-in to receive our emails, participate in a sweepstakes, contest, or promotion or survey. This information may include, but is not limited to, your contact information (for example, your name, email address, billing and shipping addresses and phone number) and your credit card information. If you create an online account, you also have the option of providing your product preferences and demographic information. If you use our “email this to a friend” functionality found on Ticket pages, or if you choose to send an email from our site to a friend, we will also collect your friend’s name and email address. Your friend’s information is only used to send the forwarding email and is not saved in our customer or marketing databases.
+The only personally identifiable information that NYIAS collects and stores is the information that you have chosen to provide through optional, voluntary submissions. We may collect personal identification information in a variety of ways, including, but not limited to, when users visit our site, click on various links on the site, register on the site, place an order, subscribe to an electronic communication, contact NYIAS via an email address provided in a hyperlink, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site or through communications
 
-### How We Use This Information
+NYIAS uses the personally identifiable information primarily for the following purposes:
 
-When you place an order on any of our websites, we use this information to process and track your order and contact you via email, postal mail or phone if we have any questions or concerns regarding your order. If you provide an email address during checkout, you will also receive order confirmation and shipping status emails.
-
-We also maintain a record of your purchases made on any of our websites in order to serve you better. We may combine information you provide with demographic information and information that is publicly available. We may also use information about your product preferences and interests in order to improve our site design and enhance your shopping experience.
-
-When we offer sweepstakes, contests, promotions or surveys, you may be required to provide certain personal information so we can notify winners and/or fulfill promotional obligations. In these instances, you have the option to receive emails or other communications from us regarding our products, services, contests, and promotions. Even if you have previously chosen not to receive email or postal mail from us, you may still receive information as it relates to the sweepstakes, contest, promotion or survey in which you have participated.
-
-In the unlikely event of a sale of some or all of our business, the New York International Auto Show may disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this privacy policy.
-
-You should also be aware that we may disclose specific information about you if required to do so by law, governmental request, process or court order or based on our good faith belief that it is necessary to conform or comply with such law, request or court order or to protect the users of our websites or the public.
-
-### Marketing Email Communications
-
-At various points on our websites, you have the option to join our email list and receive information about our products, services and offers. Also, if you provide us with your email address when you register online or update your account, log-in, place an order, opt-in to receive our emails, participate in a sweepstakes, contest, promotion or survey, you may automatically be added to our email list and receive marketing or promotional information from us.  
-If you do not wish to receive New York International Auto Show marketing emails, you may opt out by clicking on the unsubscribe link found at the bottom of all New York International Auto Show marketing emails, or you may email customer service at[contactus@autoshowny.com](mailto:contactus@autoshowny.com) with the following:
-
-  * The phrase “no New York International Auto Show email” in the subject line
+  * To process a request made by you to receive our electronic newsletters;
+  * To participate in our message boards or forums;
+  * To permit participation in polls and surveys;
+  * To complete any other transaction or service requested by you.
+  * To unaffiliated third-party service providers, agents or independent contractors who help us maintain our websites and provide other administrative services.
+  * To notify you about a material change to this Privacy Policy or the Terms of Use, if necessary.
+  * To comply with the law or in the good faith belief that such action is necessary to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or property, including the rights and property of NYIAS or act in urgent circumstances to protect the personal safety of our end users.
+  * To track and analyze nonidentifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
+  * In the event of a corporate restructuring (such as, a sale, merger or other asset transfer), we may share your Personal Information with a third party.
+  * If NYIAS collects your personally identifiable information for one of the purposes described above, it may store such information on its servers or in one (or more) of its databases. If you do not want NYIAS to use and store your information in accordance with this policy, please do not submit any personally identifiable information to NYIAS.
 
 
 
-Please be aware that it can take up to 10 business days to remove you from our marketing email lists. If you opt-out from receiving our marketing emails, you will continue to receive order confirmation and shipping status emails.
+Except as described in this Privacy Policy or at the time we request the information, we do not sell or rent personal identification information to others.  We may use third party service providers to help us operate our business, this site or administer activities on our behalf, such as distribution of newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-### How We Work with Third Party Service Providers
+### Providing Personal Data to Others
 
-New York International Auto Show works with reputable third parties who perform services on our behalf. Sometimes these service providers need information about our customers in order to do their jobs, such as fulfill orders and promotions, maintain and manage our customer database and report on customer behavior and/or preferences. When New York International Auto Show allows these service providers access to your information, we require them to maintain your information in the strictest confidence and we do not permit them to use it in any way other than to help us provide you with better service.
+We may disclose your personal data relating to transactions with the New York International Automobile Show to our executives, financial services, insurers, affiliated companies, professional advisors. Except as specified in our Privacy Policy, New York International Auto Show does not divulge any personal data information about an individual user to a third party.
 
-We currently use the services of a few carefully selected marketing companies to help manage and optimize our Internet business and communications. These companies help us to measure the effectiveness of our advertising and better understand how visitors use our sites. To do this, cookies and web beacons are placed on our websites on our behalf. The type of information collected in this manner includes pages visited, products viewed and products purchased. By supplementing our records, this information helps us to identify what pages are most attractive to our visitors, which of our products most interest our customers and what kinds of offers our customers like to see. Although our marketing partners record the information coming from our sites on our behalf, the data subsequently retrieved cannot be used for any reason without our authorization. In addition, we may share statistical, demographic and other non-personally identifiable information with third party companies to help manage and optimize our Internet business and communications.
+### Non-personally Identifiable Information
 
-### Your Online Account
+NYIAS also collects non-personally identifiable information about your visit to our websites. This information is aggregated and cannot be used to identify you personally.  We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-When setting up an online account, you will be prompted to select a password. The retrieval of personal information relating to you and your order history is only available to you if you provide the correct password that you have created. After providing your password, you can edit or delete your information at any time through the “my account” page.
+Information New York International Auto Show gathers through aggregated tracking information derived mainly by tallying page views throughout our sites: This information allows us to better tailor our content to readers’ needs and to help our advertisers and sponsors better understand the demographics of our audience. Because New York International Auto Show derives revenue from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users.
 
-If you forget your password, you can request that it be emailed to your email address. We will not give passwords out over the phone, nor will we email them to a different address than the one used to register. If you request to have your password emailed to you, your credit card information will be automatically deleted from your profile for your protection.
+NYIAS uses your non-personally identifiable information to manage its websites. NYIAS may analyze the data about visits to the websites to make them more accessible and interesting. NYIAS may share that data with third parties, usually to provide services for NYIAS associated with the maintenance of the websites.
 
-If you are using a public computer, please click on the link on your order confirmation page that prompts you to “click here to clear all information” after placing your order to maximize privacy.
+### How NYIAS Uses Optional Voluntary Information
 
-### Links to Other Sites
+We offer the following free services, which require some type of voluntary submission of personal information by users:
 
-To enhance your experience, our websites may include links to other sites outside our family of brands. Those websites will have their own privacy policies that you may wish to review. New York International Auto Show has no responsibility for these linked websites, outside of our family of brands.
+  1. Electronic newsletters policy (Dispatches)
 
-### Cookies and Web Beacons
 
-Cookies are bits of information that we automatically store on your computer if your computer accepts cookies. Cookies do not retain any personally identifiable information such as your name, address or any financial information, on your computer. We use cookies to recognize you and your preferences in order to provide you with a customized experience on our websites. New York International Auto Show places a unique user ID number on your cookie which allows us to access information that we can then use to improve your experience.
 
-If you do not wish to have cookies on your system, you can set your browser preferences to refuse them. In order to disable cookies, please consult your browser’s “help” section for instructions.  
-Web beacons are small strings of code that are placed in a web page. They are sometimes called “clear GIFs” (Graphics Interchange Format) or “pixel tags”. Web beacons are most often used in conjunction with cookies to monitor activity on our websites. When you visit a particular web page, web beacons notify us of your visit. Since web beacons are used in combination with cookies, if you disable cookies the web beacons will only detect an anonymous website visit.
+We will offer a free electronic newsletter to users. NYIAS gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
 
-### Privacy of Young Children
+  2. Virtual Garage/Forums policy
 
-The New York International Auto Show is concerned about the privacy of young children and we do not knowingly collect any personal information from a child under 13. We do not sell products for purchase by children and all children’s products we sell are for purchase by adults only.
+
+
+Users of the site’s Virtual Garage and Forums must register separately for these services (both are free of charge) in order to post messages. During registration the user is required to supply a username, password, and email address.
+
+  4. Polling
+
+
+
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. NYIAS may use a system to “tag” users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
+
+  5. Surveys
+
+
+
+NYIAS may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
+
+### Usage tracking
+
+NYIAS tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. NYIAS does break down overall usage statistics according to a user’s domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user’s browser).
+
+NYIAS may track and catalog the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don’t like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
+
+### Cookies and Similar Technologies
+
+This website uses “cookies.”  A “cookie” is a file containing a string of letters or numbers sent to your browser from a web server and stored by your computer. Generally, cookies are used to enable us to deliver better and more personalized service, assist us in tracking visits to the website, and to measure visitor patterns. This information is not personally identifiable and is used by us only to improve the website. We do not use cookies to retrieve personal information from your computer, to retrieve other information from your computer for purposes that are unrelated to the website or your interaction with the website. We reserve the right to disclose or utilize any of this information in aggregate form, for any purpose, at our sole discretion. By modifying your browser preferences, you can accept or reject any or all cookies. If you choose to reject all cookies, you will not be able to access the portions of the website that require you to register in order to participate.
+
+You may have certain rights under the Communications Act, Federal Trade Commission Act, and other state. federal, and international statutes such as CASL and GDPR that may also apply.
+
+### OPT OUT Policy
+
+If you have subscribed to or are otherwise receiving NYIAS Overdrive news, alerts, blog posts, or similar information from us by email and no longer want to receive such information in the future, you may opt-out of receiving these emails by clicking the “unsubscribe” link at the bottom of those emails you receive. Please allow ample time for us to process your request. If you are having difficulty unsubscribing, please contact us using the Contact Us page or at [info@autoshowny.com](mailto:info@autoshowny.com)
+
+Please note that even if you opt-out of receiving emails, you may still receive communications related to your interaction with us (such as confirmation of a registration or form submission) or otherwise as required by law. Also note that we may need to keep personal information we have collected about you to respect your decision to opt-out, for record-keeping, research and other purposes.
+
+### Third-Party Websites
+
+Websites to which we provide links may have different policies relating to your privacy and information they collect about you. Visitors should consult other sites’ privacy policies, as we may not have control over information that is submitted to, or controlled by, third parties.
+
+### International Transfer of Information
+
+If you choose to provide us with personally identifiable information, it may be stored in the United States and in other jurisdictions. If you are visiting our websites from the European Union or other regions with laws governing data collection and use, please note that your personally identifiable information may be transferred to the United States, and to other jurisdictions, which may not have the same data protection laws as the European Union and may not afford many of the rights conferred upon data subjects in the European Union. You acknowledge that you understand: (i) your personally identifiable information may be used for the uses identified above in accordance with this Privacy Policy; and (ii) your personally identifiable information may be transferred to the United States, or other jurisdictions as indicated above.  However, transfers of personally identifiable information by European citizens will be protected by appropriate safeguards regulated by our European Commission, the General Data Protection Regulations (GDPR) of the European Union.
+
+### Changes to this Privacy Policy
+
+NYIAS reserves the right to change or update this privacy policy from time to time by publishing a new version on our website [info@autoshowny.com](mailto:info@autoshowny.com).  You should check this page occasionally to insure you are happy with any changes to the policy.  When we do, we will also revise the “Last Updated” date at the bottom of this privacy policy.
 
 ### Security
 
-The security of your information is very important to us. We use 256-bit Secure Socket Layer (SSL) technology to protect the security of your online order information. SSL technology encrypts your order information to protect it from being decoded by anyone other than the New York International Auto Show.
+We are committed to using all commercially reasonable efforts to maintaining the security of your Personal Information. We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our site. Sensitive and private data exchange between the site and its users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. However, you should keep in mind that our sites are run on software, hardware, and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond our control. While we take steps to protect your personal information and keep it secure, you also play a role in protecting your information. You must maintain the security of your online transactions by not sharing your passwords and account information with any unauthorized parties. Please also be aware that despite our best intentions and the guidelines outlined in this privacy policy, no data transmission over the Internet or encryption method can be guaranteed to be 100% secure. We cannot guarantee the security of any information you transmit to us or from our sites, and therefore you use our Sites at your own risk.
 
-Once you enter the checkout page your computer will begin communicating with our server in secure mode. You can tell that you are in secure mode by the following:
+This website contains links to other websites for the purchase of third party products and services. Please be aware that we are not responsible for such third-party sites in any manner including without limitation, the privacy practices of other websites. We encourage you to be aware when you access any such third-party links and to read the privacy policies of each website that you access. This Privacy Policy only applies to information collected by us by this website.
 
-The “http” in the web address will be replaced by “https”  
-Depending on the browser, you will see either a padlock (Microsoft Internet Explorer, AOL, Netscape Communicator) or a solid key (Netscape Navigator) in the lower section of the browser window.  
-Only browsers that use the 256-bit Secure Socket Layer technology are able to order through our websites. If your browser does not support SSL, you can get an upgrade at Microsoft’s or Netscape’s home page.
+### Data Retention
 
-While we implement these and other security measures on our sites, please note that 100% security is not always possible. You play a role in protecting your information as well.
+We will keep your personal information for no longer than is necessary to perform the purposes set out in this Privacy Policy. Laws may require us to hold certain information for specific periods.
 
-### Accessing Our Web Sites From Outside The US
+### Individual Rights of European Union Residents
 
-If you are visiting autoshowny.com from a location outside of the United States, you will be connected through and to servers located within the United States. All information you provide will be securely maintained on web servers and our internal systems located within the United States. By providing your information to us, you agree that all personal information will be used in accordance with this privacy policy.
+For residents of the European Union only. Under European data protection law, in certain circumstances, you have the right to:
 
-### Privacy Policy Updates
-
-We may update our privacy policy from time to time and our use of the information we collect is subject to the terms of the privacy policy in effect when we collect that information. Whenever we make a change, we will post the updated policy at this site and we encourage you to check our policy periodically. If you have any questions or concerns regarding our privacy policy, please contact us:
-
-  * By email: [contactus@autoshowny.com](mailto:contactus@autoshowny.com)
-  * By fax: (718)746–9333
-  * By mail:
+  * Request access to any personal information we hold about you (“Subject Access Request”) as well as related information, including the purposes for processing the personal information, the recipients or categories of recipients with whom the personal information has been shared, where possible, the period for which the personal information will be stored, the source of the personal information, and the existence of any automated decision making;
+  * Obtain without undue delay the rectification of any inaccurate personal information we hold about you;
+  * Request that personal information held about you is deleted;
+  * Prevent or restrict processing of your personal information; and
+  * Request transfer of personal information directly to a third party where this is technically feasible.
 
 
 
-New York International Auto Show Customer Relations  
-18–10 Whitestone Express Way  
-Whitestone, NY 11357  
-Effective as of February 23, 2010.
+Also, where you believe that we have not complied with its obligation under this privacy policy or European law, you have the right to make a complaint to an EU Data Protection Authority, such as the UK Information Commissioner’s Office”.
+
+You can exercise any of these rights by contacting us using the Contact Us page or at [info@autoshowny.com](mailto:info@autoshowny.com).
+
+We will store your personal information, in a form which permits us to identify you, for no longer than is necessary for the purpose for which the personal information is processed. These rights may be limited in some situations, for example, where we can demonstrate that we have a legal requirement to process your information. In some instances, this may mean that we are able to retain your information even if you withdraw your consent.  We may retain and use your personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements and rights, or if it is not technically reasonably feasible to remove it.  Consistent with these requirements, we will try to delete your personal information quickly upon your request.  We hope we can satisfy any queries you may have about the way we process your data. If you have any concerns about how we process your data or would like to opt-out of receiving marketing communications, please contact us at [info@autoshowny.com](mailto:info@autoshowny.com)
+
+You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information.   That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee.
+
+For residents of the European Union, in the event you have unresolved concerns, you also have the right to complain to a data protection authority.
+
+### Special Policy Regarding Information from Minors
+
+We do not knowingly collect, use or disclose personal information from children under the age of 13 or target our site or services to children under 13.
+
+### Choice of Law and Forum
+
+This Privacy Policy and our legal obligations hereunder are subject to the laws of New York, U.S.A., regardless of your location. You hereby consent to the exclusive jurisdiction of and venue in the federal and state courts located in New York County, New York, U.S.A. in all disputes arising out of or relating to the Services.
+
+### Contact
+
+If you have any questions or comments regarding our Privacy Policy or our sites, please contact us using the Contact Us page or at [info@autoshowny.com](mailto:info@autoshowny.com).
+
+You can also write to us at:
+
+Greater New York Automobile Dealers Association, Inc.  
+18-10 Whitestone Expressway  
+Whitestone, NY 11357USA  
+Att: NYIAS Show Director
+
+Last Updated: February 14, 2019
