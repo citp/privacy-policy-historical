@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptoppricelist.in privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208050749id_/http%3A//www.laptoppricelist.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptoppricelist.in privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610061120id_/http%3A//www.laptoppricelist.in/privacy-policy) for the most accurate reproduction.*
 
 # 
 
