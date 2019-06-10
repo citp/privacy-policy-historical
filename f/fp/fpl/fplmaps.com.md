@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fplmaps.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209084427id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fplmaps.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610072428id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # NextEra Energy, Inc. | Privacy Policy
 
@@ -6,7 +6,7 @@ This privacy notice is effective August 11, 2017.
 
 NextEra Energy, Inc. (NextEra Energy) and its family of companies are committed to protecting the personal information shared with us by new and existing customers, web site visitors, suppliers, and other third parties, including vendors and potential vendors. Your privacy is a top priority for NextEra Energy and we make every reasonable effort to protect the information we hold about you. This privacy notice describes the personal information we collect, how we use the information, and how we protect it.
 
-This notice applies to NextEra Energy and certain of our subsidiary companies. We will refer to these organizations as “NextEra Energy,” “we,” “us” or “our” throughout this document; including Florida Power & Light Company (FPL).  FPL is a subsidiary of NextEra, a rate-regulated electric utility in the state of Florida.  Some of our subsidiaries, including Gexa Energy and its NextEra Energy Services affiliates, that provide retail electricity and related products and services outside of Florida are governed by privacy policies displayed at their websites that include different provisions applicable to those businesses and their customers. The Gexa Energy privacy policy may be viewed at <http://www.gexaenergy.com/privacy-policy/>, and the NextEra Energy Services privacy policy may be viewed at <http://www.nexteraenergyservices.com/privacy-policy/>.
+This notice applies to NextEra Energy and certain of our subsidiary companies. We will refer to these organizations as “NextEra Energy,” “we,” “us” or “our” throughout this document; including Florida Power & Light Company (FPL) and Gulf Power Company (Gulf).  FPL and Gulf, subsidiaries of NextEra, are rate-regulated electric utilities in the state of Florida.  Some of our subsidiaries, including Gexa Energy and its NextEra Energy Services affiliates, that provide retail electricity and related products and services outside of Florida are governed by privacy policies displayed at their websites that include different provisions applicable to those businesses and their customers. The Gexa Energy privacy policy may be viewed at <http://www.gexaenergy.com/privacy-policy/>, and the NextEra Energy Services privacy policy may be viewed at <http://www.nexteraenergyservices.com/privacy-policy/>.
 
 ### Information we collect and how we use it
 
@@ -70,8 +70,6 @@ We may contact you from time to time to provide you with useful information, upd
   * your credit card and/or bank information
 
 
-
-Likewise, we will never send you an unsolicited email containing a link to the log-in page for our website.
 
 For more information about protecting yourself from scams, fraud and imposters that try to obtain your personal information, please visit [FPL’s Protection website](https://www.fpl.com/landing/protect.html).
 
