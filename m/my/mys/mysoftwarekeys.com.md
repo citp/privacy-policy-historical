@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysoftwarekeys.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130161606id_/https%3A//mysoftwarekeys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysoftwarekeys.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610021709id_/https%3A//mysoftwarekeys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Mysoftwarekeys Windows 10 Product keys
 
@@ -9,7 +9,7 @@ The Site obtains information as follows:
   * By collecting logs from a web server.
 
 
-  1. **Information provided on the forms**
+  1.  **Information provided on the forms**
 
   2. The Site collects information provided voluntarily by the User.
   3. The Site may also store the data regarding connection settings (time of visit, the IP address).
@@ -20,12 +20,12 @@ The Site obtains information as follows:
 
 
 
-**III. Information regarding cookie files**
+ **III. Information regarding cookie files**
 
   1. The Site uses cookies.
   2. Cookie files (so-called “cookies”) are basically computer data, especially text files, that are stored in the terminal device of a Site User and are intended for the use of the Site web pages of www.Mysoftwarekeys.com. Cookies typically contain the name of the website from which the files originally came from, time of storage at the terminal device and a unique number.
   3. The party storing cookies on the terminal device of a User is www.Mysoftwarekeys.com and the firm has access to the said files.
-  4. Cookies are used for the following purposes: 
+  4. Cookies are used for the following purposes:
 
 – To create statistics that help us understand how the Users access the Site, which allows www.Mysoftwarekeys.com to improve the structure of the Site and its content;  
 – Delineating a user profile in order to display matching materials in regard to advertising networks, in particular the Google Network;  
@@ -39,10 +39,10 @@ The Site obtains information as follows:
   8. Cookies provided in the terminal device of a User of the Site can also be used by the co-administrator of the Site, advertisers and partners of www.Mysoftwarekeys.com.
   9. Cookies may be used by advertising networks, in particular, the Google Network to display ads specific to a User and in accordance with his or hers preferences while using the Site. To achieve that cookies may store information about the User’s navigation path or the time the User remained on the Site.
   10. With regard to the information about User preferences collected by the Google Display Network, you can view and edit the information derived from cookies with the tool: <https://www.google.com/ads/preferences/>[ ](https://www.google.com/ads/preferences/).
-  11. **Server Logs**
+  11.  **Server Logs**
 
   12. Information about some of the actions of the Users are stored in the logging layer of the server. This data is used only to administer the Site and to provide the most efficient Site hosting services.
-  13. The accessed resources are identified by URLs. In addition, the stored data may include: 
+  13. The accessed resources are identified by URLs. In addition, the stored data may include:
 
 – date of the query,  
 – time of response,  
@@ -54,7 +54,7 @@ The Site obtains information as follows:
 
   14. The figures are disassociated with the individual persons browsing the Site.
   15. The above data are used only for the purposes of administering the server.
-  16. **The purpose of storing personal data**
+  16.  **The purpose of storing personal data**
 
 
 
@@ -69,7 +69,7 @@ The personal information you entrust to us, particularly your name, surname, bus
   * Entrusting us with their personal information, the User has the right to access them, the right to demand updates and to request their removal. Personal data provided by the User can be edited or deleted by the User himself. The User may also contact www.Mysoftwarekeys.com with a request to remove his account by sending a request to the appropriate e-mail address: support@Mysoftwarekeys.com via an e-mail address currently registered in the www.Mysoftwarekeys.com Site.
 
 
-  1. **Protecting personal information**
+  1.  **Protecting personal information**
 
 All gathered data, in the manner described above, are stored in the Personal Database belonging to www.Mysoftwarekeys.com.
 
@@ -82,5 +82,5 @@ www.Mysoftwarekeys.com applies security measures at the highest level specified 
 
 www.Mysoftwarekeys.com ensures, that additionally to the aforementioned technical and organizational security measures, we strictly comply with all regulations and standards for the protection of the Users’ personal data by preventing unauthorized processing of data and accidental loss, deletion or any other form of damage. www.Mysoftwarekeys.com also ensures that the access to the database is restricted to the persons explicitly authorized by the data administrator.
 
-**VII. Closing provisions**  
-Due to the continuous development and technical progress, the principles set out in this document are subject to change. Should any such change present itself, the User shall be informed in advance, no later than seven days prior to the introduction, by posting the new content of the document on the www.Mysoftwarekeys.com website.
+ **VII. Closing provisions**  
+Due to the continuous development and technical progress, the principles set out in this document are subject to change. Should any such change present itself, the User shall be informed in advance, no later than seven days prior to the introduction, by posting the new content of the document on the **www.Mysoftwarekeys.com** website.
