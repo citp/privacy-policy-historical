@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foter.com privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310004532id_/https%3A//foter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foter.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610174044id_/https%3A//foter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Foter
 
@@ -60,7 +60,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Your Consent**
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our privacy policy .
 
 **Changes to our Privacy Policy**
 
@@ -70,5 +70,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://foter.com  
+https://foter.com  
 contact@foter.com 
