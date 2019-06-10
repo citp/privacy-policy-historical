@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoover.org privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211022534id_/https%3A//adminguide.stanford.edu/chapter-1/subchapter-6/policy-1-6-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoover.org privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611013324id_/https%3A//adminguide.stanford.edu/chapter-1/subchapter-6/policy-1-6-1) for the most accurate reproduction.*
 
 # 1.6.1 Privacy Policy | Administrative Guide
 
@@ -162,7 +162,7 @@ Back to top
 
 **d. Computer and Network Usage** — See Administrative [Guide Memo 6.2.1](https://web.archive.org/6-2-1), Computer and Network Usage Policy
 
-**e. Privacy Incident Response** — See Administrative [Guide Memo 6.6.1](https://web.archive.org/6-6-1): Information Security [Incident Response](https://sites.stanford.edu/adminguide/chapter-6/subchapter-6/policy-6-6-1); HIPAA Policy, Breach Notification Policy for Incidents Involving Electronic and Non-Electronic PHI
+**e. Privacy Incident Response** — See Administrative [Guide Memo 6.6.1](https://web.archive.org/6-6-1): Information Security [Incident Response](https://web.archive.org/chapter-6/subchapter-6/policy-6-6-1); HIPAA Policy, Breach Notification Policy for Incidents Involving Electronic and Non-Electronic PHI
 
 **f.** The policies identified in sections 1, 2 and 3 of this Administrative[ Guide Memo 1.6.1](https://web.archive.org/1-6-1).
 
