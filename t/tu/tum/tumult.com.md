@@ -1,46 +1,63 @@
-> *The following text is extracted and transformed from the tumult.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501234743id_/http%3A//privacy-policyonline.com/%3Ftmp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumult.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610211821id_/https%3A//tumult.com/hype/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Tumult Hype — Privacy Policy
 
-Updated: April 20, 2009
+We take the privacy of information submitted to us seriously. Our general philosophy is to collect as minimal amount of information as possible to reduce risk. Collecting personal and usage data is intended to provide better service to you as well as statistics we can use to improve our products.
 
-Your privacy is important to us, so we have created the following Privacy Policy to let you know what information we collect when you visit our web sites and when we serve advertisements on our network of websites, why we collect it and how it is used.
+Our goal is for you to trust our business and to create a great app to express your creativity. We have no desire in making money off of your personal information nor do we want to put any of your private information at risk.
 
-Please read this privacy policy carefully since by visiting this site you agree to be bound by the terms and conditions of this Privacy Policy and our website Terms and Conditions.
+### General
 
-During your visit to the Site, we and/or our third party vendors may collect certain information, as follows.  
+  * Before collecting personal information, we will identify the purpose for which it is intended. 
+  * We will not sell or distribute your personal information to a third party unless we have your permission or are required to do so by law. We do use third party services for limited purposes which have their own policies; please see below. 
+  * We will protect personal information by commercially reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
+  * When we change our privacy policy in a meaningful way, we will post notice on our website along with the updated policy. 
 
 
-## Personally Identifiable Information
 
-We do not collect "Personally Identifiable Information" or"PII" on any of our websites.  PII means any information that may be used to identify an individual, including first and last name, physical address, email address, or telephone number.
+### Content Authored in Tumult Hype Application
 
-## Non-Personally Identifiable Information
+  * We do not put any analytics into exported/previewed HTML. We do not know what you create. 
+  * Because content made with Tumult Hype can contain arbitrary HTML, documents may call out to other servers. It is your responsibility to know what your documents are doing, including documents that you did not create but may have downloaded online. 
+  * Some features we create, such as Google Fonts, may require network access to download resources. These will always be opt-in. 
+  * Using the "Official CDN" will require fetches from our third party CDN provider, jsdeliver. 
 
-We automatically receive and record anonymous information that your browser sends whenever you visit our website. We use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, one or more cookies that may uniquely identify your browser, and responses by a web surfer to an advertisement delivered by us. This information may be stored on our systems for about one year. We use technology, including technology from its third party advertising vendors, which includes cookies, "web beacons" and/or "action tags." A "cookie" is a small text file stored by your browser on your computer when you visit our Network. A "web beacon" or "action tag" is a small image (usually 1x1 pixel) embedded in a web page or email. We use cookies, web beacons and action tags to collect non-personally identifiable data to provide better and more relevant services and messages to that user. Cookies, web beacons and action tags permit us to recognize users and avoid repetitive requests for the same information.
 
-As a rule, non-personally identifiable information is anonymous and is not used to identify a specific person.
 
-Web surfers may elect not to provide non-personally identifiable information by following the cookie opt-out procedures set forth below.
+### Tumult Hype Application Communication to Tumult
 
-## Personally identifiable information
+  * If you choose, "Collect anonymous usage data to improve Hype," a limited amount of information such as your hardware configuration will be sent to Tumult. We use our own servers and app to aggregate this data; it is not sent to a third party. You are welcome to request samples of what is currently sent (though as it is anonymous we cannot know what you personally sent). 
+  * Checking for updates will cause our servers to be queried with the minimal amount of information to know which update to vend such as the Tumult Hype and OS version. 
+  * Hype has various feedback mechanisms allowing you to report a bug, crash, or make general comments. These require initiation on your part 
 
-We do not collect PII.
 
-## Non-personally identifiable information
 
-We may use your non-personal information in order to better target advertisements, to provide aggregate reporting to advertisers and clients, and to improve our advertising systems and products. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content.  We may also share non-personally identifiable information with our subsidiaries and third party partners for similar use. 
+### Mailing Lists
 
-We do not collect PII.
+  * We will not send you mass or promotional emailings unless you have asked us or joined our mailing list. 
+  * You can unsubscribe at any time through buttons located at the bottom of the emails from lists that you have joined. Unsubscribes take effect immediately. 
 
-We employ commercially reasonable security measures to ensure the security of all data. We cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission of information, we make commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-## Non-personally identifiable information
 
-Our advertising partners may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) and work with industry leading companies to address important privacy and consumer protection issues in online advertising.
+### Third Party Services
 
-If you prefer not to receive behavioral ads you may opt-out of this anonymous ad targeting. Please note that if you opt-out ad companies may continue to collect non-personal information in connection with ad serving for limited reporting and auditing purposes. Examples of these include but are not limited to reporting overall advertising performance, geographic activity, and other similar analyses.  Most browsers will accept cookies unless you change your browser settings to refuse them and opt-out of the use of cookies and those of our third party advertising technology vendors. For more information on cookies and how to manage and delete them, please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+We use some third party services as described below: 
 
-We are very sensitive to the issue of children's privacy and make every effort to protect the privacy of children using the Internet. Our website, products, and services are not developed for or directed at children under 13. For that reason, we does not knowingly collect or maintain information on the websites from persons under 13 years of age. If you are under 13 years of age, please do not use or access the websites at any time or in any manner.
+  * **Apple Mac App Store** : This service hosts the Hype Application, manages payments, and allows for sending reviews. This is through your Apple ID account. 
+  * **FastSpring** : This service handles direct "Tumult Store" purchases and processes credit card and other payment data, along with needing address information. 
+  * **Hockey** : This service stores and analyzes crash logs, when they have been explicitly sent. 
+  * **DiscourseHosting** : This service operates our forums. 
+  * **Desk.com:** This service operates our customer support software and stores emails that have been sent to addresses such as contact, support, betafeedback, and others at our domain name. 
+  * **Google Analytics** : This service is used to track and report website traffic. 
 
-We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.  For all other changes, it is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of this website constitutes your agreement to this Privacy Policy and any updates.
+
+
+### Retention and Deletion
+
+  * Any information is kept as long as it is deemed useful to the company. It may be periodically deleted to reduce risk. 
+  * You are welcome to send us emails requesting what information is still retained. 
+  * You are welcome to send us emails requesting we delete any information that is still retained. 
+
+
+
+Question or concerns? Please email [contact@tumult.com](mailto:contact@tumult.com).
