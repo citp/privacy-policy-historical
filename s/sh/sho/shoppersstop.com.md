@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129083134id_/https%3A//www.shoppersstop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610180521id_/https%3A//www.shoppersstop.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Shoppers Stop
 
-Untitled Document
-
 Shoppers Stop Limited (SSL) and its subsidiaries and divisions, including Shoppersstop.com, respect your privacy. This Privacy Policy outlines the manner your data is collected and used by SSL. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Shoppersstop.com you agree to the collection and use of your data by Shoppersstop.com in the manner provided in this Privacy Policy.
 
-If you have questions or concerns regarding this statement, you can at (022) 6129 0400 (9:00 am to 9:00 pm) or at customercare@shoppersstop.com The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Shoppersstop.com or to the people that are not engaged, employed or managed by Shoppersstop.com  
+If you have questions or concerns regarding this statement, you can at 1-800-419-6648 (8:00am to 10:00pm) or at customercare@shoppersstop.com The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Shoppersstop.com or to the people that are not engaged, employed or managed by Shoppersstop.com  
 Through this Document, We Wish to Make you:
 
   * Feel at ease while using our websites.
@@ -20,7 +18,9 @@ Through this Document, We Wish to Make you:
 
 Shoppersstop.com collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to our website and other websites accessible from them.
 
-Kindly, note that Shoppersstop.com does not access or store your Payment Card details (i.e. credit/debit card number, expiration date, CVV etc.). When you make a purchase using your card, all required transaction details are captured on the secured payment page, and encrypted using Industrial Strength Cipher, and are securely transmitted to your card issuer for obtaining an authorization decision. At no time during the purchase process or thereafter does Shoppers Stop have access to, or store, your complete card account information.
+We take customer data privacy very seriously. Kindly, note that Shoppersstop.com does not access or store your Payment Card details (i.e. credit/debit card number, expiration date, CVV etc.). When you make a purchase using your card, all required transaction details are captured on the secured payment page, and encrypted using Industrial Strength Cipher, and are securely transmitted to your card issuer for obtaining an authorization decision. At no time during the purchase process or thereafter does Shoppers Stop have access to, or store, your complete card account information.
+
+We read your SMS messages only for the purpose of OTP verification at the time of making payments and during user registration on Shoppers Stop. We do not read any other messages on your mobile except OTP verification SMS sent by Shoppers Stop. We also don’t access your call logs on phone. 
 
 We may collect additional information in connection with your participation in any promotions or contests offered by us and information you provide when giving us feedback or completing profile forms. We also monitor customer traffic patterns and website use, which enables us to improve the service we provide. We will collect only such information as is necessary and relevant to us to provide you with the services available on the website.
 
@@ -188,7 +188,7 @@ Supplying personally identifiable information is entirely voluntary. You are not
 
 You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. Shoppersstop.com reserves the right to send you certain service related communication, considered to be a part of your Shoppersstop.com account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
 
-We provide you with the opportunity to opt-out of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product / service but do not wish to receive any additional marketing material from us, you can indicate your preferences. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by selecting your preferences in "My Account". If you still face an issue then you may Call us at (022) 6129 0400 or Mail at [customercare@shoppersstop.com](mailto:customercare@shoppersstop.com)
+We provide you with the opportunity to opt-out of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product / service but do not wish to receive any additional marketing material from us, you can indicate your preferences. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by selecting your preferences in "My Account". If you still face an issue then you may Call us at 1-800-419-6648 (8:00am to 10:00pm)or Mail at [customercare@shoppersstop.com](mailto:customercare@shoppersstop.com)
 
 If your personally identifiable information or email address change, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support Mail at [customercare@shoppersstop.com](mailto:customercare@shoppersstop.com)
 
@@ -292,9 +292,9 @@ Fraudsters send genuine-looking emails that contain viruses and Trojans (A Troja
 
 
 
-## Privacy Policy for Chatbot 
+## Privacy Policy for Chatbot
 
-Please read the below section applicable for Shoppers Stop chatbot. Use the application only if you understand and agree with all guidelines mentioned hereby. 
+Please read the below section applicable for Shoppers Stop chatbot. Use the application only if you understand and agree with all guidelines mentioned hereby.
 
 #### Privacy Protection
 
