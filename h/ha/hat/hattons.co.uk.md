@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hattons.co.uk privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722172455id_/https%3A//www.hattons.co.uk/list/EventDetails.aspx%3FEventID%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hattons.co.uk privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610074837id_/https%3A//www.hattons.co.uk/list/EventDetails.aspx%3FEventID%3D13) for the most accurate reproduction.*
 
 # hattons.co.uk from Hattons Model Railways
 
@@ -10,7 +10,7 @@ Our postal address is:
 Widnes  
 WA8 8FZ**
 
-We can be reached via e-mail using the "Contact Us" form which can be found [HERE](http://www.hattons.co.uk/static/Contact.aspx).  
+We can be reached via e-mail using the "Contact Us" form which can be found [HERE](https://web.archive.org/static/contact.aspx).  
 or you can reach us by telephone at 0151 733 3655  
  
 
@@ -91,4 +91,4 @@ Visitors can opt out of Google Analytics Advertising Features at:
 
 <https://tools.google.com/dlpage/gaoptout>
 
-Learn more about [Google Analytics Policy](http://www.google.com/intl/en/analytics/learn/privacy.html)
+Learn more about [Google Analytics Policy](https://policies.google.com/privacy?hl=en-US)
