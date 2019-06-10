@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wizimatic.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627105352id_/http%3A//wizimatic.com.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizimatic.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610184718id_/https%3A//wizimatic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | WIZIMATIC.COM
 
 ## **Privacy Policy for www.wizimatic.com.ng**
 
