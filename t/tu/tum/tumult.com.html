@@ -1,61 +1,545 @@
-<!--The following is the downloaded HTML source of the tumult.com privacy policy that was archived on 2009-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090501234743id_/http%3A//privacy-policyonline.com/%3Ftmp%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tumult.com privacy policy that was archived on 2019-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190610211821id_/https%3A//tumult.com/hype/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
+	<title>Tumult Hype — Privacy Policy</title>
+
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+	window.contentURL = "//tumult.com";
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.1.1/dist/jquery.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="//tumult.com/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen">
+<script type="text/javascript" src="//tumult.com/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$(".popupvideo").fancybox({
+		padding : 0,
+		width: "960",
+		height: "540",
+		topRatio: .3333,
+		aspectRatio: true,
+		afterLoad: function() {
+	        this.title = 'Trouble viewing? <a href="' + this.title + '">Download video as .mp4</a>';
+    	},
+	    helpers : {
+    	    title: {
+        	    type: 'inside'
+        	}
+    	}
+	});
+	
+	$(".screenshot").fancybox({
+		padding : 0,
+		width: "960",
+		height: "540",
+		topRatio: .3333,
+		aspectRatio: true,
+		afterLoad: function() {
+	        //this.title = 'Trouble viewing? <a href="' + this.title + '">Download video as .mp4</a>';
+    	},
+	    helpers : {
+    	    title: {
+        	    type: 'inside'
+        	}
+    	}
+	});
+	
+	  
+/*
+ * Dropit v1.1.0
+ * http://dev7studios.com/dropit
+ *
+ * Copyright 2012, Dev7studios
+ * Free to use and abuse under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ */
+
+;(function($) {
+
+    $.fn.dropit = function(method) {
+
+        var methods = {
+
+            init : function(options) {
+                this.dropit.settings = $.extend({}, this.dropit.defaults, options);
+                return this.each(function() {
+                    var $el = $(this),
+                         el = this,
+                         settings = $.fn.dropit.settings;
+
+                    // Hide initial submenus
+                    $el.addClass('dropit')
+                    .find('>'+ settings.triggerParentEl +':has('+ settings.submenuEl +')').addClass('dropit-trigger')
+                    .find(settings.submenuEl).addClass('dropit-submenu').hide();
+
+                    // Open on click
+                    $el.off(settings.action).on(settings.action, settings.triggerParentEl +':has('+ settings.submenuEl +') > '+ settings.triggerEl +'', function(){
+                        // Close click menu's if clicked again
+                        if(settings.action == 'click' && $(this).parents(settings.triggerParentEl).hasClass('dropit-open')){
+                            settings.beforeHide.call(this);
+                            $(this).parents(settings.triggerParentEl).removeClass('dropit-open').find(settings.submenuEl).hide();
+                            settings.afterHide.call(this);
+                            return false;
+                        }
+
+                        // Hide open menus
+                        settings.beforeHide.call(this);
+                        $('.dropit-open').removeClass('dropit-open').find('.dropit-submenu').hide();
+                        settings.afterHide.call(this);
+
+                        // Open this menu
+                        settings.beforeShow.call(this);
+                        $(this).parents(settings.triggerParentEl).addClass('dropit-open').find(settings.submenuEl).show();
+                        settings.afterShow.call(this);
+
+                        return false;
+                    });
+
+                    // Close if outside click
+                    $(document).on('click', function(){
+                        settings.beforeHide.call(this);
+                        $('.dropit-open').removeClass('dropit-open').find('.dropit-submenu').hide();
+                        settings.afterHide.call(this);
+                    });
+
+                    // If hover
+                    if(settings.action == 'mouseenter'){
+                        $el.on('mouseleave', '.dropit-open', function(){
+                            settings.beforeHide.call(this);
+                            $(this).removeClass('dropit-open').find(settings.submenuEl).hide();
+                            settings.afterHide.call(this);
+                        });
+                    }
+
+                    settings.afterLoad.call(this);
+                });
+            }
+
+        };
+
+        if (methods[method]) {
+            return methods[method].apply(this, Array.prototype.slice.call(arguments, 1));
+        } else if (typeof method === 'object' || !method) {
+            return methods.init.apply(this, arguments);
+        } else {
+            $.error( 'Method "' +  method + '" does not exist in dropit plugin!');
+        }
+
+    };
+
+    $.fn.dropit.defaults = {
+        action: 'mouseenter', // The open action for the trigger
+        submenuEl: 'ul', // The submenu element
+        triggerEl: 'a', // The trigger element
+        triggerParentEl: 'li', // The trigger parent element
+        afterLoad: function(){}, // Triggers when plugin has loaded
+        beforeShow: function(){}, // Triggers before submenu is shown
+        afterShow: function(){}, // Triggers after submenu is shown
+        beforeHide: function(){}, // Triggers before submenu is hidden
+        afterHide: function(){} // Triggers before submenu is hidden
+    };
+
+    $.fn.dropit.settings = {};
+
+})(jQuery);
+
+
+
+$('.menu-dropit').dropit();
+
+
+});
+</script>
+
+	<meta name="description" content="Tumult Hype is the HTML5 creation app for macOS. Animations and interactive content made with Tumult Hype work on desktops, smartphones and iPads. No coding required.">
+<meta name="keywords" content="hype, html5, animation, content creation, content, web, mac, css3, javascript">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy</title>
-<style type="text/css">
-body { width: 900px; margin: 10px auto 20px auto; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:13px; }
-h1 { font-size:18px; margin:15px 0 10px 0;}
-h2 { font-size:15px; text-decoration:underline; margin:5px 0;}
-p {margin: 0 0 10px 0; }
-</style>
-</head>
+<meta property="og:title" content="Tumult Hype">
+<meta property="og:type" content="product">
+<meta property="og:image" content="https://tumult.com/hype/media/HypeApp-512.png">
+<meta property="fb:admins" content="10238205,13739734">
+<meta property="og:description" content="Tumult Hype is the HTML5 creation app for macOS. Animations and interactive content made with Tumult Hype work on desktops, smartphones and iPads. No coding required.">
+<meta property="og:email" content="contact@tumult.com">
+<meta name="google-translate-customization" content="e767c9941976bf5f-9bcc13ad802c46a0-gabb1c6678c60ab65-1e">
+		<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,500|Montserrat" rel="stylesheet" type="text/css">
 
+		<link rel="stylesheet" href="//tumult.com/css/site-stylesheet.css" type="text/css">
+		<link rel="stylesheet" href="//tumult.com/hype/css/hype-stylesheet.css" type="text/css">
+
+</head>
 <body>
 
-<p>Updated: April 20, 2009</p>
+	
+	<div class="site-header-navigation">
+		<ul>
+		
+				<li class="site-header-navigation-item"><a href="https://tumult.com/"><span class="site-header-navigation-logo"></span></a></li>
+		<li class="site-header-navigation-item site-header-navigation-item-active"><a href="https://tumult.com/hype/">Hype 4</a></li>
+		<li class="site-header-navigation-item"><a href="https://tumult.com/hype/pro/">Hype Pro</a></li>
+		<li class="site-header-navigation-item"><a href="https://tumult.com/hype/reflect/">Hype Reflect</a></li>
+		<li class="site-header-navigation-item"><a href="https://tumult.com/store/">Store</a></li>
+		<li class="site-header-navigation-item"><a href="https://tumult.com/hype/support/">Support</a></li>
+		<li class="site-header-navigation-item"><a href="https://forums.tumult.com/">Forums</a></li>
+		<li class="site-header-navigation-item"><a href="https://blog.tumult.com/">Blog</a></li>
+		<li class="site-header-navigation-item"><a href="https://tumult.com/company">About Us</a></li>
+		</ul>
+	</div>
+	
+	
+<style>
 
-<h1>PRIVACY POLICY</h1>
-<p>Your privacy is important to us, so we have created the following Privacy Policy to let you know what information we collect when you visit our web sites and when we serve advertisements on our network of websites, why we collect it and how it is used.</p>
-<p>Please read this privacy policy carefully since by visiting this site you agree to be bound by the terms and conditions of this Privacy Policy and our website Terms and Conditions.</p>
+.hero-mini-image-container {
+	display: inline-block;
+	width: 414px;
+	height: 100%;
+	vertical-align: bottom;
+}
 
-<h1>I. INFORMATION WE COLLECT</h1>
-<p>During your visit to the Site, we and/or our third party vendors may collect certain information, as follows.<br>
+.hero-mini-image {
+	position: absolute;
+	width: 414px;
+	height: 199px;	
+	bottom: 0px;
+	
+	background-image: url('../../hype/media/hero-hype-mini@2x.jpg');
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-size: 100% 100%;
+}
 
-</p><h2>Personally Identifiable Information</h2>
-<p>We do not collect "Personally Identifiable Information" or"PII" on any of our websites.&nbsp; PII means any information that may be used to identify an individual, including first and last name, physical address, email address, or telephone number.</p>
+.hero-mini-content {
+	display: inline-block;
+	height: 100%;
+	width: 486px;
+	padding-top: 30px;
+	text-align: left;
+}
 
-<h2>Non-Personally Identifiable Information</h2>
-<p>We automatically receive and record anonymous information that your browser sends whenever you visit our website. We use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, one or more cookies that may uniquely identify your browser, and responses by a web surfer to an advertisement delivered by us. This information may be stored on our systems for about one year. We use technology, including technology from its third party advertising vendors, which includes cookies, "web beacons" and/or "action tags." A "cookie" is a small text file stored by your browser on your computer when you visit our Network. A "web beacon" or "action tag" is a small image (usually 1x1 pixel) embedded in a web page or email. We use cookies, web beacons and action tags to collect non-personally identifiable data to provide better and more relevant services and messages to that user. Cookies, web beacons and action tags permit us to recognize users and avoid repetitive requests for the same information.</p>
+.hero-mini-pro-title {
+	color: #999;
+}
 
-<p>As a rule, non-personally identifiable information is anonymous and is not used to identify a specific person.</p>
-<p>Web surfers may elect not to provide non-personally identifiable information by following the cookie opt-out procedures set forth below.</p>
+.hero-mini-content h1 {
+	font-size: 40px;
+	line-height: 45px;
+}
 
-<h1>II. HOW IS SUCH INFORMATION USED?</h1>
-<h2>Personally identifiable information</h2>
-<p>We do not collect PII.</p>
 
-<h2>Non-personally identifiable information</h2>
-<p>We may use your non-personal information in order to better target advertisements, to provide aggregate reporting to advertisers and clients, and to improve our advertising systems and products. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content.&nbsp; We may also share non-personally identifiable information with our subsidiaries and third party partners for similar use.&nbsp; </p>
+.hero-mini-product {
+	text-align: center;
+	display: inline-block;
+	z-index: 100;
+	position: absolute;
+}
 
-<h1>III. ACCESS TO PII</h1>
-<p>We do not collect PII.</p>
+.hero-mini-product h1 {
+	font-size: 30px;
+	margin-bottom: 0;
+	margin-top: 30px;
+}
 
-<h1>IV. SECURITY</h1>
-<p>We employ commercially reasonable security measures to ensure the security of all data. We cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission of information, we make commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p>
+.hero-mini-product-description {
+	color: #9c9c9c;
+}
 
-<h1>V. CHOICE AND OPT-OUT</h1>
-<h2>Non-personally identifiable information</h2>
-<p>Our advertising partners may be members of the <a href="http://www.networkadvertising.org" target="_blank">Network Advertising Initiative</a> and work with industry leading companies to address important privacy and consumer protection issues in online advertising.</p>
-<p>If you prefer not to receive behavioral ads you may opt-out of this anonymous ad targeting. Please note that if you opt-out ad companies may continue to collect non-personal information in connection with ad serving for limited reporting and auditing purposes. Examples of these include but are not limited to reporting overall advertising performance, geographic activity, and other similar analyses.&nbsp; Most browsers will accept cookies unless you change your browser settings to refuse them and opt-out of the use of cookies and those of our third party advertising technology vendors. For more information on cookies and how to manage and delete them, please visit <a href="http://www.aboutcookies.org/" target="_blank">www.aboutcookies.org</a>.</p>
+.hero-mini-product-price {
+	font-weight: 500;
+	color: #c8c8c8;
+}
 
-<h1>VI. CHILDREN'S PRIVACY AND SPAM</h1>
-<p>We are very sensitive to the issue of children's privacy and make every effort to protect the privacy of children using the Internet. Our website, products, and services are not developed for or directed at children under 13. For that reason, we does not knowingly collect or maintain information on the websites from persons under 13 years of age. If you are under 13 years of age, please do not use or access the websites at any time or in any manner.</p>
+.hero-mini-product .hero-button-container {
+	margin-top: 15px;
+}
 
-<h1>VII. CHANGES TO THIS PRIVACY POLICY</h1>
-<p>We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. &nbsp;For all other changes, it is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of this website constitutes your agreement to this Privacy Policy and any updates.</p>
+.small-hero {
+	text-align: center;
+}	
 
-<img src="http://cms.trafficmp.com/tpix.gif?clid=dom51811532d4fb8b332a1ecc7e6ce48&amp;sid=9a6e20ce-f0ec-44f7-9697-449b2f7dd02f" width="1" height="1">
+#hero-mini-product-hype3 {
+	left: 35px;
+}
+
+#hero-mini-product-hypePro {
+	right: 10px;
+}
+
+.hero-button-container {
+	z-index: 2;
+}
+
+
+</style>
+
+
+	<div class="hero small-hero">
+
+		<div class="section-content">
+			<div class="hero-mini-content">
+				<h1>
+					Tumult Hype 4.0 <span class="hero-mini-pro-title">+</span><br>
+					<span class="hero-mini-pro-title">Hype Professional Upgrade</span>
+				</h1>
+				 
+				 
+				<div class="hero-button-container">
+					<a href="https://tumult.com/hype/download/"><span class="hero-button">Free Trial</span></a>
+				</div>
+				&nbsp;&nbsp;
+				<div class="hero-button-container" id="hero-button-buy-now-container">
+					<a href="https://tumult.com/store/"><span class="hero-button">Buy Now</span></a>
+				</div>
+				 
+			</div><div class="hero-mini-image-container"> <!-- must keep them together due to display: inline-block -->
+				<div class="hero-mini-image"></div>
+			</div>
+		</div>		
+
+
+<!--
+		<div class = "section-content" style = "padding-top: 0px; position: relative;">
+			<div class = "hero-mini-product" id="hero-mini-product-hype3">
+				<h1>Tumult Hype 4</h1>
+				<div class = "hero-mini-product-description">Create. Animate. HTML5.</div>
+				<div class = "hero-mini-product-price">Only $49 USD</div>
+			
+				<div class = "hero-button-container" id="hero-button-buy-now-container">
+					<a href = "#"><span class = "hero-button">Buy Now</span></a>
+				</div>
+			</div>
+		
+			<div class = "hero-mini-product" id="hero-mini-product-hypePro">
+				<h1>Tumult Hype Pro</h1>
+				<div class = "hero-mini-product-description">Add powerful features to Hype 4.</div>
+				<div class = "hero-mini-product-price">$49 Upgrade/$99 Full</div>
+			
+				<div class = "hero-button-container" id="hero-button-buy-now-container">
+					<a href = "#"><span class = "hero-button">Buy Now</span></a>
+				</div>
+			</div>
+		</div>
+
+		<div class = "hero-mini-image-container">
+			<div class = "hero-mini-image"></div>
+		</div>
+		
+-->	
+		<!--<div class = "hero-image-container">
+			<div class = "hero-image"></div>
+		</div>
+		<div class = "section-content">
+		
+			<h4>Introducing</h4>
+			<h1>Tumult Hype Professional</h1>
+			<div class = "hero-button-area">
+				<div class = "hero-button-container">
+					<a class = "popupvideo fancybox.iframe" href = "https://www.youtube.com/embed/MfPwa-oIUmI?autoplay=1&rel=0&enablejsapi=1&vq=hd720" title="http://link"><span class = "hero-button" id = "hero-button-intro-video"><span class = "hero-button-intro-video-play-icon"></span>Intro Video</span></a>
+				</div>
+				
+				<div class = "hero-button-container">
+					<a href = "#"><span class = "hero-button" id = "hero-button-download-trial">Get Trial</span></a>
+					<br>
+					<span class = "hero-button-description">macOS 10.8+</span>
+				</div>
+				<div class = "hero-button-container" id="hero-button-buy-now-container">
+					<a href = "#"><span class = "hero-button" id = "hero-button-buy-now">Buy Now</span></a>
+					<div class = "hero-button-buy-now-options-container">
+						<div class = "hero-button-buy-now-option">Mac App Store</div>
+						<div class = "hero-button-buy-now-option">Tumult Store</div>
+					</div>
+					<br>
+					<span class = "hero-button-description">$49 Upgrade, $99 Full</span>
+	
+				</div>
+			</div>
+		</div>
+		-->
+	</div>
+
+	<div class="app-header-container">
+<div class="app-header-navigation">
+		<ul>
+	
+				<li class="site-header-navigation-item"><a href="https://tumult.com/hype/">Overview</a></li>
+		<li class="site-header-navigation-item"><a href="https://tumult.com/hype/pro/">Pro</a></li>
+		<li class="site-header-navigation-item"><a href="https://tumult.com/hype/compare/">Compare</a></li>
+		<li class="site-header-navigation-item"><a href="https://tumult.com/hype/reflect/">Reflect</a></li>
+		<li class="site-header-navigation-item"><a href="https://tumult.com/hype/whats-new/4.0/">What's New</a></li>
+		<li class="site-header-navigation-item"><a href="https://tumult.com/hype/gallery/">Gallery</a></li>
+		<li style="list-style: none; display: inline" class="site-header-navigation-item">
+			<ul class="menu-dropit">
+				<li>
+					<a href="#">Use Cases<div class="down-arrow"></div></a>
+					<ul>
+						<li><a href="https://tumult.com/hype/education/">Hype for Education</a></li>
+						<li><a href="https://tumult.com/hype/ibooks/">Hype for iBooks</a></li>
+						<li><a href="https://tumult.com/hype/infographics/">Hype for Infographics</a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li style="list-style: none; display: inline" class="site-header-navigation-item">
+			<ul class="menu-dropit">
+				<li>
+					<a href="#">Learn<div class="down-arrow"></div></a>
+					<ul>
+						<li><a href="https://tumult.com/hype/tutorials/">Tutorials</a></li>
+						<li><a href="https://tumult.com/hype/documentation/">Documentation</a></li>
+						<li><a href="https://tumult.com/hype/faq/">FAQ</a></li>
+						<li><a href="https://tumult.com/hype/export-scripts/">Export Scripts</a></li>
+						<li><a href="https://tumult.com/hype/conference/">Hype Conference</a></li>
+						<li><a href="https://forums.tumult.com/">Forums</a></li>
+						<li><a href="https://tumult.com/hype/support/">Support</a></li>
+						<li><a href="https://tumult.com/hype/support/newsletters/">Newsletters</a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		</ul>
+
+</div></div>	
+	<div class="main-content">		
+		<div class="section-background" style="padding-top: 30px">
+			<div class="section-content support">
+				<div class="section-header" style="padding-bottom: 15px">
+					<h2 class="section-title">Tumult Hype Privacy Policy</h2>
+				</div>				
+				
+					<p>We take the privacy of information submitted to us seriously.  Our general philosophy is to collect as minimal amount of information as possible to reduce risk.  Collecting personal and usage data is intended to provide better service to you as well as statistics we can use to improve our products.</p>
+
+					<p>Our goal is for you to trust our business and to create a great app to express your creativity. We have no desire in making money off of your personal information nor do we want to put any of your private information at risk.</p>
+
+					<h3>General</h3>
+					<ul>
+						<li>Before collecting personal information, we will identify the purpose for which it is intended.
+						</li><li>We will not sell or distribute your personal information to a third party unless we have your permission or are required to do so by law. We do use third party services for limited purposes which have their own policies; please see below.
+						</li><li>We will protect personal information by commercially reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.  
+						</li><li>When we change our privacy policy in a meaningful way, we will post notice on our website along with the updated policy.
+					</li></ul>
+
+					<h3>Content Authored in Tumult Hype Application</h3>
+					<ul>
+						<li>We do not put any analytics into exported/previewed HTML. We do not know what you create.
+						</li><li>Because content made with Tumult Hype can contain arbitrary HTML, documents may call out to other servers. It is your responsibility to know what your documents are doing, including documents that you did not create but may have downloaded online.
+						</li><li>Some features we create, such as Google Fonts, may require network access to download resources. These will always be opt-in.
+						</li><li>Using the "Official CDN" will require fetches from our third party CDN provider, jsdeliver.
+					</li></ul>
+
+					<h3>Tumult Hype Application Communication to Tumult</h3>
+					<ul>
+						<li>If you choose, "Collect anonymous usage data to improve Hype," a limited amount of information such as your hardware configuration will be sent to Tumult. We use our own servers and app to aggregate this data; it is not sent to a third party. You are welcome to request samples of what is currently sent (though as it is anonymous we cannot know what you personally sent).
+						</li><li>Checking for updates will cause our servers to be queried with the minimal amount of information to know which update to vend such as the Tumult Hype and OS version.
+						</li><li>Hype has various feedback mechanisms allowing you to report a bug, crash, or make general comments.  These require initiation on your part
+					</li></ul>
+
+					<h3>Mailing Lists</h3>
+					<ul>
+						<li>We will not send you mass or promotional emailings unless you have asked us or joined our mailing list.
+						</li><li>You can unsubscribe at any time through buttons located at the bottom of the emails from lists that you have joined. Unsubscribes take effect immediately.
+					</li></ul>
+
+					<h3>Third Party Services</h3>
+					<p>We use some third party services as described below:
+					</p><ul>
+						<li><b>Apple Mac App Store</b>: This service hosts the Hype Application, manages payments, and allows for sending reviews. This is through your Apple ID account.
+						</li><li><b>FastSpring</b>: This service handles direct "Tumult Store" purchases and processes credit card and other payment data, along with needing address information.
+						</li><li><b>Hockey</b>: This service stores and analyzes crash logs, when they have been explicitly sent.
+						</li><li><b>DiscourseHosting</b>: This service operates our forums.
+						</li><li><b>Desk.com:</b> This service operates our customer support software and stores emails that have been sent to addresses such as contact, support, betafeedback, and others at our domain name.
+						</li><li><b>Google Analytics</b>: This service is used to track and report website traffic.
+					</li></ul>
+
+					<h3>Retention and Deletion</h3>
+					<ul>
+						<li>Any information is kept as long as it is deemed useful to the company. It may be periodically deleted to reduce risk.
+						</li><li>You are welcome to send us emails requesting what information is still retained.
+						</li><li>You are welcome to send us emails requesting we delete any information that is still retained.
+					</li></ul>
+
+					<p>Question or concerns? Please email <a href="mailto:contact@tumult.com">contact@tumult.com</a>.</p>
+				
+			</div>
+		</div>
+
+	</div>
+
+	
+	<div class="site-footer">
+	<div class="footer-wrap">
+		<div class="site-footer-navigation-column">
+			<div class="site-footer-navigation-column-header">Products</div>
+			<ul>
+				<li><a href="https://tumult.com/hype/">Hype 4</a>
+				</li><li><a href="https://tumult.com/hype/pro/">Hype Pro</a>
+				</li><li><a href="https://tumult.com/hype/reflect/">Hype Reflect</a>
+				</li><li><a href="https://tumult.com/hyperedit/">HyperEdit</a>
+			</li></ul>
+		</div>
+		<div class="site-footer-navigation-column">
+			<div class="site-footer-navigation-column-header">Company</div>
+			<ul>
+				<li><a href="https://tumult.com/company/">About Us</a>
+				</li><li><a href="https://tumult.com/press/">Press</a>
+				</li><li><a href="https://tumult.com/hype/privacy/">Privacy Policy</a>
+				<!--<li><a href = "https://tumult.com/jobs/">Jobs</a>-->
+			</li></ul>
+		</div>
+		<div class="site-footer-navigation-column">
+			<div class="site-footer-navigation-column-header">Social</div>
+			<ul>
+				<li><a href="https://blog.tumult.com">Blog</a>
+				</li><li><a href="https://twitter.com/hypeapp">Twitter</a>
+				</li><li><a href="https://www.facebook.com/hypeapp">Facebook</a>
+				</li><li><a href="https://instagram.com/TumultHype">Instagram</a>
+			</li></ul>
+		</div>
+		<div class="site-footer-navigation-column">
+			<div class="site-footer-navigation-column-header">Support</div>
+			<ul>
+				<li><a href="https://tumult.com/hype/support/">Support Portal</a>
+				</li><li><a href="https://tumult.com/hype/faq/">FAQ</a>
+				</li><li><a href="https://tumult.com/hype/tutorials/">Tutorials</a>
+				</li><li><a href="https://tumult.com/hype/documentation">Documentation</a>
+				</li><li><a href="https://forums.tumult.com">Forums</a>
+			</li></ul>
+		</div>
+		<div class="site-footer-navigation-column">
+			<div class="site-footer-navigation-column-header">Store</div>
+			<ul>
+				<li><a href="https://tumult.com/store/">Tumult Store</a>
+				</li><li><a href="https://tumult.com/store-edu/">Education Store</a>
+				<!--<li><a href = "https://tumult.com/hype/purchasing/">Purchasing options</a>-->
+			</li></ul>
+		</div>
+		
+		<div class="site-footer-copyright">
+			<a href="https://tumult.com/"> <div class="site-footer-logo"> </div> </a>
+			<br>Copyright © 2010-2019 Tumult Inc. All rights reserved.<br>Handcrafted in San Francisco.
+		</div>
+		
+	</div>
+	</div>
+
+	
+	
+
+<script type="text/javascript">
+  var _gaq=_gaq || [];
+  _gaq.push(['_setAccount', 'UA-16991243-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga=document.createElement('script'); ga.type='text/javascript'; ga.async=true;
+    ga.src=('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s=document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
 
 </body></html>
