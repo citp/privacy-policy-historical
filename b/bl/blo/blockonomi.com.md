@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockonomi.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817143425id_/https%3A//blockonomi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockonomi.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610142755id_/https%3A//blockonomi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Blockonomi.com
 
@@ -92,12 +92,12 @@ If you wish to be informed what Personal Data we hold about you and if you want 
 
 In certain circumstances, you have the following data protection rights:
 
-  * **The right to access, update or to delete the information we have on you.**  Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
-  * **The right of rectification.**  You have the right to have your information rectified if that information is inaccurate or incomplete.
-  * **The right to object.**  You have the right to object to our processing of your Personal Data.
-  * **The right of restriction.**  You have the right to request that we restrict the processing of your personal information.
-  * **The right to data portability.**  You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
-  * **The right to withdraw consent.**  You also have the right to withdraw your consent at any time where Niche Site Project relied on your consent to process your personal information.
+  *  **The right to access, update or to delete the information we have on you.**  Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+  *  **The right of rectification.**  You have the right to have your information rectified if that information is inaccurate or incomplete.
+  *  **The right to object.**  You have the right to object to our processing of your Personal Data.
+  *  **The right of restriction.**  You have the right to request that we restrict the processing of your personal information.
+  *  **The right to data portability.**  You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+  *  **The right to withdraw consent.**  You also have the right to withdraw your consent at any time where Niche Site Project relied on your consent to process your personal information.
 
 
 
@@ -117,7 +117,8 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 Blockonomi  
 Kooc Media Ltd.  
-23 Leyland Avenue,  
-Manchester M446HG  
+International House,  
+61 Mosley Street, Manchester,  
+M2 3HZ  
 UK  
 hello@kooc.co.uk
