@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the konkanrailway.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609062307id_/http%3A//www.konkanrailway.com/pages/viewpage/mobile_app_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konkanrailway.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610090458id_/https%3A//konkanrailway.com/pages/viewpage/mobile_app_privacy_policy) for the most accurate reproduction.*
 
 # Konkan Railway
 
-  1. [Home](http://konkanrailway.com/ "Home")
+  1. [Home](http://www.konkanrailway.com/ "Home")
   2. Mobile App Privacy Policy
 
 
