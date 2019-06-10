@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialwebmarks.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206035920id_/http%3A//www.socialwebmarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialwebmarks.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610085759id_/http%3A//www.socialwebmarks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › SocialWebmarks.com : Discover The Best Articles On Any Topic | Online Personal & Group Favorite Bookmarks Manager| Best Submit Article, URL Bookmarks, High PR Bookmarking Services
 
