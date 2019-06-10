@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122042121id_/https%3A//www.zoho.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610222452id_/https%3A//www.zoho.com/privacy.html) for the most accurate reproduction.*
 
 # Zoho - Privacy Policy
 
@@ -48,7 +48,7 @@ You can always contact us to: ask questions about our privacy practices, request
 
 We will contact you to let you know if we make any major changes to our privacy policy, or in the highly unlikely event that we ever decide to sell our business.
 
-This Privacy Policy statement is made by the Zoho Group consisting of all the entities listed [ here](https://web.archive.org/web/20181122042121id_/https%3A//www.zoho.com/privacy/zoho-group.html) (collectively, "Zoho", "we", "us" or "our") and is effective as of 25th May 2018. It applies to all our divisions: Zoho, ManageEngine, Site24x7, and WebNMS.
+This Privacy Policy statement is made by the Zoho Group consisting of all the entities listed [ here](https://web.archive.org/web/20190610222452id_/https%3A//www.zoho.com/privacy/zoho-group.html) (collectively, "Zoho", "we", "us" or "our") and is effective as of 25th May 2018. It applies to all our divisions: Zoho, ManageEngine, Site24x7, and WebNMS.
 
 ### Zoho’s Privacy Commitment
 
@@ -96,7 +96,7 @@ v. _Interactions with Zoho_ : We may record, analyze and use your interactions w
 
 i. _Information from browsers, devices and servers_ : When you visit our websites, we collect information that web browsers, mobile devices and servers make available, such as the internet protocol address, browser type, language preference, time zone, referring URL, date and time of access, operating system, mobile device manufacturer and mobile network information. We include these in our log files to understand more about visitors to our websites.
 
-ii. _Information from first party cookies and tracking technologies_ : We use temporary and permanent cookies to identify users of our services and to enhance user experience. We embed unique identifiers in our downloadable products to track usage of the products. We also use cookies, beacons, tags, scripts, and other similar technologies to identify visitors, track website navigation, gather demographic information about visitors and users, understand email campaign effectiveness and for targeted visitor and user engagement by tracking your activities on our websites. We only use first-party cookies and do not use third-party cookies or other third-party tracking technologies on our websites. You can learn more about the cookies used on our websites [here](https://web.archive.org/web/20181122042121id_/https%3A//www.zoho.com/privacy/cookie-policy.html) . We also use first-party Local Storage Objects (LSOs) such as HTML5 to store content information and preferences to provide certain features.
+ii. _Information from first party cookies and tracking technologies_ : We use temporary and permanent cookies to identify users of our services and to enhance user experience. We embed unique identifiers in our downloadable products to track usage of the products. We also use cookies, beacons, tags, scripts, and other similar technologies to identify visitors, track website navigation, gather demographic information about visitors and users, understand email campaign effectiveness and for targeted visitor and user engagement by tracking your activities on our websites. We only use first-party cookies and do not use third-party cookies or other third-party tracking technologies on our websites. You can learn more about the cookies used on our websites [here](https://web.archive.org/web/20190610222452id_/https%3A//www.zoho.com/privacy/cookie-policy.html) . We also use first-party Local Storage Objects (LSOs) such as HTML5 to store content information and preferences to provide certain features.
 
 iii. _Information from application logs and mobile analytics_ : We collect information about your use of our products, services and mobile applications from application logs and in-house usage analytics tools, and use it to understand how your business use and needs can improve our products. This information includes clicks, scrolls, features accessed, access time and frequency, errors generated, performance data, storage utilized, user settings and configurations, and devices used to access and their locations.
 
@@ -145,7 +145,7 @@ In addition to the purposes mentioned above, we may use your information for the
 
 ### Who we share your information with
 
-All Zoho group entities listed [ here ](https://web.archive.org/web/20181122042121id_/https%3A//www.zoho.com/privacy/zoho-group.html) have access to the information covered in Part I. We do not sell any personal information. We share your information only in the ways that are described in this Privacy Policy, and only with parties who adopt appropriate confidentiality and security measures.
+All Zoho group entities listed [ here ](https://web.archive.org/web/20190610222452id_/https%3A//www.zoho.com/privacy/zoho-group.html) have access to the information covered in Part I. We do not sell any personal information. We share your information only in the ways that are described in this Privacy Policy, and only with parties who adopt appropriate confidentiality and security measures.
 
  _Employees and independent contractors_ : Employees and independent contractors of all Zoho group entities have access to the information covered in Part I on a need-to-know basis. We require all employees and independent contractors of Zoho group entities to follow this Privacy Policy for personal information that we share with them.
 
@@ -205,7 +205,7 @@ If you have enabled notification on our desktop and mobile applications, we will
 
  _Who we share service data with_
 
- _Zoho group and third party sub-processors_ : In order to provide services and technical support for our products, the contracting entity within the Zoho group engages other [ group entities ](https://web.archive.org/web/20181122042121id_/https%3A//www.zoho.com/privacy/zoho-group.html) and [ third parties ](https://web.archive.org/web/20181122042121id_/https%3A//www.zoho.com/privacy/sub-processors.html).
+ _Zoho group and third party sub-processors_ : In order to provide services and technical support for our products, the contracting entity within the Zoho group engages other [ group entities ](https://web.archive.org/web/20190610222452id_/https%3A//www.zoho.com/privacy/zoho-group.html) and [ third parties ](https://web.archive.org/web/20190610222452id_/https%3A//www.zoho.com/privacy/sub-processors.html).
 
  _Employees and independent contractors_ : We may provide access to your service data to our employees and individuals who are independent contractors of the Zoho group entities involved in providing the services (collectively our “employees”) so that they can (i) identify, analyze and resolve errors, (ii) manually verify emails reported as spam to improve spam detection, or (iii) manually verify scanned images that you submit to us to verify the accuracy of optical character recognition. We ensure that access by our employees to your service data is restricted to specific individuals, and is logged and audited. Our employees will also have access to data that you knowingly share with us for technical support or to import data into our products or services. We communicate our privacy and security guidelines to our employees and strictly enforce privacy safeguards within the Zoho group.
 
