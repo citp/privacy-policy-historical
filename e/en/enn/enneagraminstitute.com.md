@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enneagraminstitute.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230044901id_/https%3A//www.enneagraminstitute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enneagraminstitute.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610064252id_/https%3A//www.enneagraminstitute.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — The Enneagram Institute
 
