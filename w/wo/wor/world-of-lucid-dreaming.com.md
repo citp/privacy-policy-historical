@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the world-of-lucid-dreaming.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509110858id_/http%3A//www.world-of-lucid-dreaming.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-of-lucid-dreaming.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610080815id_/https%3A//www.world-of-lucid-dreaming.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for World of Lucid Dreaming
-
-[ ](https://claridream.com/products/claridream-pro?utm_source=world-of-lucid-dreaming.com&utm_medium=referral&utm_campaign=sitewide_banner)
 
 ## Short Version
 
@@ -23,3 +21,7 @@ The World of Lucid Dreaming has created this statement in order to demonstrate i
 **External Links** This site contains links to other sites. This site and its owner(s) are not responsible for the privacy practices or the content of such web sites. 
 
 **Public Forums** This site may make forums, message boards, and/or newsgroups available to its visitors. Please remember that any information that is disclosed in these areas becomes public information, so you should exercise caution when deciding to disclose your personal information. 
+
+## About the author
+
+[Rebecca Turner](https://www.world-of-lucid-dreaming.com/rebecca-turner-author-bio.html) is a science writer, illustrator, explorer of consciousness - and founder of World of Lucid Dreaming. She is currently studying for a biology degree in Auckland and blogging at her site Science Me. 
