@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-crossword-solver.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206225157id_/http%3A//www.the-crossword-solver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-crossword-solver.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610125528id_/http%3A//www.the-crossword-solver.com/privacy) for the most accurate reproduction.*
 
 # Crossword Solver" - Privacy
 
