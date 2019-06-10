@@ -1,160 +1,116 @@
-> *The following text is extracted and transformed from the caseys.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629161440id_/http%3A//www.caseys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caseys.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610075917id_/https%3A//www.caseys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Casey's General Store
 
-##  COMMITMENT TO PRIVACY   
+The Effective Date of this Privacy Policy is **April 9, 2019**.
+
+Welcome to the websites, social media sites and mobile applications and advertising programs operated by Casey's General Stores, Inc. and its subsidiary companies (collectively " **Casey's** ," " **we** " or " **us** "). This Privacy Policy, together with all of the policies and documents expressly referenced and incorporated herein (" **Policy** "), governs how Casey's may collect, use, store, transmit and share information that is collected through your use of Casey's websites, mobile applications, texts, social media sites, email and mobile advertising programs and otherwise, and all related content, coupons, promotions, offers, programs and services available through the same (collectively and individually, the " **Sites and Services** ").
+
+**PLEASE READ THIS AGREEMENT CAREFULLY. YOUR ACCESS TO AND USE OF ANY PART OF THE SITES AND SERVICES CONSTITUTES YOUR EXPRESS AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, YOU MAY NOT ACCESS OR USE THE SITES AND SERVICES.**
+
+**_OUR COMMITMENT TO PRIVACY_** **.** Casey's is committed to respecting the privacy of its customers and users of the Sites and Services. We are providing this Policy to you so you know the types of information we collect through the Sites and Services, and how that information is collected, used, transmitted, stored and shared.
+
+**_ACCEPTANCE OF TERMS_** **.** This Policy is a legally binding agreement between you and Casey's. By using any part of the Sites and Services, which is intentionally defined broadly, you agree to be legally bound by all of the terms and conditions of this Policy. If you have questions regarding this Policy, please [contact Casey's here](https://web.archive.org/contact).
+
+BY USING AND ACCESSING ANY PART OF THE SITES AND SERVICES, YOU UNCONDITIONALLY AND EXPRESSLY ACKNOWLEDGE, REPRESENT AND AGREE THAT YOU: (A) ARE OVER 13 YEARS OF AGE; (B) HAVE READ AND UNDERSTAND THE TERMS OF THIS POLICY; (C) UNDERSTAND THAT YOU ARE BOUND BY THE TERMS OF THIS POLICY; (D) WILL COMPLY WITH THE TERMS OF THIS POLICY AND ANY APPLICABLE LAWS AND REGULATIONS; AND (E) YOU WILL NOT CONTEST THE APPLICABILITY OR ENFORCEABILITY OF THIS POLICY.
+
+**_UPDATING TERMS._** Casey's reserves the right, at its discretion, to change, delete, and update this Policy and any other policies that govern or relate to the Sites and Services, at any time, for any reason, and in Casey's sole discretion. Casey's also reserves the right to discontinue any Sites and Services, and/or to terminate your access to or use of the Sites and Services. It is your responsibility to periodically review this Policy for changes. Any amendments and modifications by Casey's will be prospective, and unless otherwise provided in this Policy, will be effective upon being posted on one or more of the Sites and Services. This Policy may be accessed from the link at the bottom of each web page accessible at [www.caseys.com](http://www.caseys.com/) and through Casey's mobile app. Your access and/or use of any of the Sites and Services after terms of this Policy are amended or updated shall be deemed acceptance of all such changes.
+
+  1. **WHO WE ARE.** Casey's owns and operates convenience stores in certain states throughout the United States, which provide fuel, quick service restaurant offerings and a wide range of other products. We maintain the Sites and Services to provide certain products, services, information, promotions and resources, and to enable users to create a Casey's account, place orders and communicate with us and apply for employment with Casey's. Our corporate headquarters is located at One SE Convenience Boulevard, Ankeny, Iowa 50021.
+  2. **HOW TO CONTACT US.** Please contact us at any time with any questions or concerns about this Policy, or to exercise any of your rights under this Policy or applicable law. You may [contact us here](https://web.archive.org/contact).
+  3. **PROTECTING YOUR PRIVACY GENERALLY.** We take measures to monitor and update our privacy and data collection and storage policies and procedures to consistently meet or exceed industry security standards. 
+    1. _USA._ Casey's servers are located in the United States. Any information collected through the Sites and Services is stored and processed in the United States. If you use our Sites and Services or otherwise provide us with information from outside of the United States, you understand that your data will be transferred to, processed and stored in the United States.
+    2. _Industry-Standard Protection._ We utilize industry-standard security measures to safeguard the information we collect, maintain and use. These measures include technical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration or destruction. However, Casey's does not guarantee the performance or adequacy of such security measures and makes no representations or warranties to you regarding the security of the Sites and Services or your information.
+    3. _Your Responsibilities._ The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Sites and Services, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We also urge you to use anti-virus software and other available security technology when using the Sites and Services. Unfortunately, the transmission of information via the internet is not completely secure. Although we take reasonable steps to protect your personal information, we cannot guarantee the security of your personal information transmitted to or through our Sites and Services. Your use of the Sites and Services is at your own risk. Any transmission of personal information is at your own risk.
+    4. _Limitation on Access_. Access to any personal information we collect and store is generally restricted to those employees and/or contractors who require it to perform a job or other function. We require vendors and contractors we work with to use reasonable, industry standard protocols to maintain the confidentiality, security, and integrity of information.
+    5. _Children._ We do not intentionally collect any personal information from children under the age of thirteen (13). If you are under 13, please do not use or website or provide personal information to us. If you wish to provide information to us and are under thirteen (13) years old, we first need verifiable parental consent. If we discover any personal information of children under sixteen has been collected without verifiable parental consent, we will immediately delete the information.
+  4. **WHY WE COLLECT AND HOW WE USE PERSONAL INFORMATION**. We collect and share information from the users and visitors of the Sites and Services to manage relationships, comply with legal obligations and/or because we have a legitimate business interest to do so. We collect and share information to: (a) provide the Sites and Services and support and enhance any functions, operations or offerings therein; (b) fulfil orders or other requests; (c) provide location services; (d) provide advertising, discounts and promotions and enhance and target our advertising; (e) operate and promote loyalty and related programs, including coupons, contests and sweepstakes; (f) provide information about Casey's and its products and services; (g) provide information about data security and privacy; (h) learn more about our user's and customer's preferences; (i) enhance, personalize and support your experience with the Sites and Services; (j) enhance and develop our products, offerings, marketing efforts and the Sites and Services themselves; (k) communicate with you; (l) analyze the traffic to and other metrics of the Sites and Services; (m) prevent fraudulent transactions and monitor against theft; and (n) assist law enforcement and respond to legal and regulatory inquiries.
+
+We may provide you the opportunity to consent to receive commercial email and mobile marketing messages from us related to our products, Sites or Services, or other information we believe you may be interested in receiving when you seek information from us. If you have a Casey's account, to opt-out of Casey's email and mobile marketing programs, [click here and submit](https://web.archive.org/contact) accordingly; or, you can follow the Unsubscribe link at the end of any Casey's marketing email to opt-out of Casey's email program, or text "STOP" to 227397 (CASEYS) to opt-out of Casey's mobile marketing program. If you do not have a Casey's account, follow the Unsubscribe link or text STOP, as applicable, as set forth in the previous sentence.
+
+  5. **COLLECTION OF INFORMATION.** We collect and process the following information about you: 
+    1. _**Information You Provide**_ You provide information to us when you affirmatively provide it to us or give us access to it. You provide information each time you: 
+      * Sign up for a Casey's account;
+      * Sign up to receive our emails;
+      * Sign up to receive text messages;
+      * Sign up to receive coupons or other promotions;
+      * Allow push notifications in Casey's mobile app;
+      * Apply or sign up for a Casey's fuel card or credit card;
+      * "Like," "follow," join or use any of our social media sites or groups;
+      * Communicate with us or post in any way on or through the Sites and Services;
+      * Provide comments, suggestions, or other input through the Sites and Services;
+      * Order or purchase Casey's' products or offerings;
+      * Conduct a transaction that requires us to collect such information;
+      * Enter contests or sweepstakes;
+      * Request a donation from Casey's;
+      * Submit a job application information or apply for employment with Casey's;
+      * Request Investor Relations Packets;
+      * Participate in quarterly investor calls or meetings;
+      * Request a DRIP Prospectus;
+      * And/or you submit any other material or information to us.
+
+The type of information may include, but is not limited to:
+
+      * Contact information (name, company name, title, address, telephone, mobile number, email address);
+      * Payment card information;
+      * Shipping information;
+      * Order information;
+      * Inquiry information;
+      * Account settings or preferences;
+      * Date of birth;
+      * Other demographic information;
+      * Order history;
+      * Location;
+      * Employment history (for job applicants);
+      * Social media information;
+      * Communications to and from you.
+    2. _Information We Automatically Collect From You_. Each time you visit or use the Sites and Services, we may automatically collect the following information: 
+      * Technical information, including the Internet protocol (IP) address used to connect your computer to the internet, browser type and version, location information, time zone setting, browser plug-in types and versions, operating system and platform and other device information;
+      * Information about your store or electronic visit, including the full uniform resource locators (URL) clickstream to, through and from our site (including date and time), pages you looked at or searched for, and the products and services you have viewed, ordered or searched including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call us.
+More information on our use of cookies is provided below. More use of third-party tools used to collect information is provided below.
+
+Casey's records and compiles aggregate demographic data related to our users in order to manage the Sites and Services. Casey's collects and analyses data about the use of the Sites and Services to improve service, to improve user experience and as otherwise set forth above or herein. As set forth in the section on cookies below, Casey's also uses externally hosted services (e.g. Google Analytics) to collect data.
+
+    3. _Information We Collect From You With Third-Party Processors_. We utilize third-party software and vendors to provide support to the Sites and Services. We also utilize a third-party company to securely process payments through the Sites and Services; you affirmatively provide the payment information, but our vendor processes the payment information. We use this information to process orders, improve our sales process and communications with our current and prospective customers and employees. We also use this information to improve your experience on the Sites and Services and as otherwise set forth above or herein.
+  6. **COOKIES.** We use "cookies," a small text file transferred to your device, along with similar technologies (e.g., internet tag technologies, web beacons, embedded scripts) to help provide you a better, more personalized user experience. These technologies are used to make the user experience more user friendly, remember your preferences (e.g., browsing language, usage preferences), help us understand and improve how visitors use our Site(s), including which of our pages and products are viewed most frequently; and/or improve our communications and experience for you. 
+
+The Options/Settings section of most internet browsers will tell you how to manage cookies and other technologies that may be transferred to your device, including how to disable such technologies. **Instructions for blocking or allowing cookies in common web browsers are provided at the links below:**[Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies); [Firefox](https://support.mozilla.org/en-US/kb/block-websites-storing-site-preferences?esab=a&s=blocking+cookies&r=2&as=s); [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en); [Safari](http://support.apple.com/kb/ph5042), [AboutCookies.org](http://www.aboutcookies.org/default.aspx).
+
+We use the following cookies:
+
+    * _Strictly necessary cookies_. These are cookies that are required for the operation of our websites. They include, for example, cookies that enable you to log into secure areas of the Sites and Services, use a shopping cart or make use of e-billing services.
+    * _Analytical/performance cookies_. They allow us to recognize and count the number of visitors and to see how visitors move around the Sites and Services when they are using them. This helps us to improve the way they works, for example, by ensuring that users are finding what they are looking for easily.
+    * _Functionality cookies_. These are used to recognize you when you return to the Sites and Services. This enables us to personalize our content for you, greet you by name and remember your preferences.
+    * _Targeting cookies_. These cookies record your visit to the Sites and Services, the pages you have visited and the links you have followed. We will use this information to make the Sites and Services and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+
+Some third parties may also collect data from you through cookies and other related scripts. The use of third-party cookies is not covered by this Policy, as we do not have access or control over these cookies.
+
+Although not all cookies and similar technologies that we use are required for you to use the Sites and Services, disabling these technologies altogether could prevent the Sites and Services from working properly and disable features that allow you to take full advantage of the services we offer.
+
+  7. **CONTACT FORM.** Casey's does not require all users of the Sites and Services to register with or provide information to Casey's to view the Sites and Services or send an inquiry to Casey's. Certain information contained on the Sites and Services is available without supplying personal information. However, you must provide certain information to create a Casey's account, download and use the Casey's app, purchase products or other offerings, participate in a loyalty program, receive certain communications or use certain other aspects of the Sites and Services. In the event you affirmatively act to provide your information to Casey's, to contact Casey's, to request information via the Sites and Services, email, or in person, purchase products or other offerings, or otherwise use the Sites and Services, you agree to the terms of this Policy with respect to the collection and use of your contact, personal and other information for Casey's legitimate business interests and as set forth herein.
+  8. **THIRD-PARTY VENDORS.** Casey's partners with third-parties to develop, host, support and/or provide features or functions of or advertisements on the Sites and Services. Those third-parties may collect data from you directly or we may provide it to them in order to provide or enhance the Sites and Services and related functions. They may also use cookies or other technologies, alone or in conjunction with web beacons or other tracking technologies, to collect information about you when you use the Sites and Services. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites, applications and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. To ensure that your personal data receives an adequate level of protection, we have put in place appropriate procedures with the third parties we share your personal data with to ensure that your personal data is treated by those third parties in a way that is consistent with and which respects the applicable laws on data security and privacy. However, Casey's does not directly control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. Those parties' collection, use, storage and transmission of your information may differ from the way Casey's collects, uses, stores and transmits your data under this Policy. Please review those third-parties' privacy policies for more information.
+  9. **WHAT HAPPENS IF YOU DON'T PROVIDE YOUR PERSONAL INFORMATION?** If you choose to limit the information you provide to us (or, in some circumstances, provide no personal information at all), then we may be unable to provide you with the products, services or information you have expressed an interest in, or which we can provide to you. We may also be unable to provide you with access to some or all of the Sites and Services (or their functionality).
+  10. **SHARING INFORMATION.** Except as otherwise set forth herein, Casey's does not sell, rent, or otherwise provide personal information you provide through the Sites and Services or otherwise to outside marketers without prior consent. It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence – for Casey's to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate. We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our [Terms and Conditions](https://web.archive.org/terms-and-conditions) or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
+  11. **RETAINING YOUR PERSONAL INFORMATION.** We will take steps to ensure that the personal information that we hold about you is retained for only as long as it is necessary for the purpose for which it was collected. We apply criteria to determine the appropriate retention period for different categories of personal information that we hold about you. After this period it will be deleted to the extent reasonably possible, and in compliance with our data retention policies.
+  12. **SOCIAL MEDIA AND OTHER WEBSITES YOU VISIT.** This Policy only applies to the Sites and Services and does not apply to the following: 
+    * Any social media posts or comments that you make which are about us, or addressed to us on social media platforms or websites (for example, Twitter, Instagram, LinkedIn and Facebook). Any such posts or comments will be shared by you under the terms of the relevant social media platform or website on which they are published.
+    * Links contained on the Sites and Services, including links to any advertisers or other third-parties.
+We recommend that you review the terms and conditions and privacy policies of the relevant social media platforms and other websites or apps you visit, to understand how they use your information.
+  13. **DO NOT TRACK.** Some internet browsers incorporate a "Do Not Track" feature that signals to websites you visit that you do not want to have your online activity tracked. Given that there is not a uniform way that browsers communicate the "Do Not Track" signal, the Sites and Services do not currently interpret, respond to or alter its practices when it receives "Do Not Track" signals.
+  14. **NOTICE TO UTAH RESIDENTS.** We do not disclose a user's personal data to any third-party for such third-party's direct marketing purposes.
+  15. **YOUR RIGHTS IF YOU ARE A CALIFORNIA RESIDENT.** Except as expressly set forth in this Policy, we do not disclose personal information to any third-party for such third-party's direct marketing purposes. Thus, until December 31, 2019, pursuant to California Civil Code Sections 1798.80-1798.84, Casey's has no obligation to a California resident to provide further information regarding our use of the California resident's personal data. Effective on January 1, 2020, all California residents have the following rights with regard to their personal data: 
+    * _Right #1_ : The right to know what personal information we collect about you.
+    * _Right #2_ : The right to know whether we sell or disclose your personal information, and if so, to whom.
+    * _Right #3_ : The right to say no to the sale of personal information.
+    * _Right #4_ : The right to access your personal information.
+    * _Right #5_ : The right to receive equal service and pricing from us, even if you exercise your privacy rights.
+You may exercise any of the above rights on or after January 1, 2020, if you are a California resident and you provide us with a verifiable request to exercise any of the above rights. For more information, please see California Civil Code Sections 1798.80-1798.198. To submit a request, please see Section 2 for our contact information.
+  16. **CONSENT TO RECEIVE ELECTRONIC NOTIFICATIONS.** Electronic communication is the most effective and timely way to provide the users of the Sites and Services with any optional or required notifications and disclosures. In some circumstances, however, applicable laws may require us to send you disclosures or communications in paper format unless you have affirmatively consented to receiving electronic notifications only in advance of the notification. Through this Privacy Policy, pursuant to 15 U.S.C. § 7001, you hereby affirmatively consent to receive electronic notifications and disclosures from us only (without requiring a paper copy) and you represent that, to date, you have not withdrawn such consent. You have the right to change your mind and withdraw your consent at any time. If you would like to withdraw your consent to receive electronic notifications and/or would like to request paper copies of any electronic notifications you receive, you may [contact us here](https://web.archive.org/contact). To receive electronic records, you will need access to a smart phone, tablet, laptop or computer with internet access and an email account.
+  17. **DISCLAIMER OF WARRANTIES.** YOU UNDERSTAND THAT CASEY'S CANNOT AND DOES NOT GUARANTEE OR WARRANT THAT ANY INFORMATION COLLECTED, USED, STORED OR TRANSMITTED BY OR THROUGH THE SITES AND SERVICES WILL REMAIN SECURE. CASEY'S, ITS SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, CONTRACTORS, AGENTS, AND SUPPLIERS (COLLECTIVELY THE " **CASEY'S PARTIES** ") MAKE NO REPRESENTATION OR WARRANTY REGARDING: (A) THE CONTINUED AVAILABILITY, RELIABILITY, ACCURACY, ACCESSIBILITY, RESULTS OR PERFORMANCE OF THE SITES AND SERVICES; (B) THE EXISTENCE (OR ABSENCE) OF ANY VIRUS, WORM, MALWARE, MALICIOUS CODE OR OTHER DISABLING DEVICES OR CODE FROM ANY SOURCES; (C) THE UNAUTHORIZED ACCESS TO OR USE OF YOUR INFORMATION BY A PARTY OTHER THAN THE CASEY'S PARTIES; (D) ANY TECHNICAL FAILURES (INCLUDING HARDWARE OR SOFTWARE FAILURES); OR (E) LOSS, USE OR MISUSE OF YOUR INFORMATION OR DATA.
+  18. **LIMITATION OF LIABILITY.** YOUR USE OF THE SITES AND SERVICES IS AT YOUR OWN RISK. YOU AGREE THAT THE CASEY'S PARTIES ARE NOT LIABLE FOR ANY CONSEQUENTIAL, SPECIAL, DIRECT, INDIRECT, EXEMPLARY, OR PUNITIVE DAMAGES. IN NO EVENT SHALL THE CASEY'S PARTIES' TOTAL LIABILITY TO YOU FOR ANY DAMAGES, LOSSES, FEES AND EXPENSES (INCLUDING ATTORNEYS' FEES), WHETHER IN CONTRACT, TORT, OR OTHERWISE EXCEED THE AMOUNT (IF ANY) PAID BY YOU TO CASEY'S WITHIN THE LAST SIX MONTHS TO ACCESS OR USE THE SITES AND SERVICES WHICH FORM THE BASIS OF YOUR CLAIM, OR $100 IF YOU HAVE NOT PAID ANY AMOUNTS TO CASEY'S. IF YOU LIVE IN A STATE THAT DOES NOT ALLOW THE WAIVER OF CERTAIN WARRANTIES, OR LIMITATIONS OR DAMAGES WAIVERS DESCRIBED IN THIS SECTION, SOME OF THESE PROVISIONS MAY NOT APPLY TO YOU. YOU AGREE TO PROMPTLY NOTIFY CASEY'S IN WRITING IF YOU BELIEVE YOU HAVE ANY CLAIM AGAINST THE CASEY'S PARTIES, AND, IN ANY EVENT, YOU AGREE THAT ANY CLAIM NOT BROUGHT WITHIN ONE YEAR AFTER IT ARISES (OR SUCH SHORTER PERIOD UNDER APPLICABLE STATUTES OF LIMITATION) SHALL BE WAIVED AND RELEASED.
+  19. **GOVERNING LAW & JURISDICTION.** This Policy, and Casey's collection and use of customer information, shall be governed and interpreted in accordance with the laws of the United States and the State of Iowa. Any disputes arising out of this Policy shall be adjudicated in Polk County, Iowa or federal court of competent jurisdiction in the Southern District of Iowa.
+  20. **CHANGES TO THIS PRIVACY POLICY.** We reserve the right to change the terms of this Policy. Any changes to this Policy will be placed here and will supersede this version of our Privacy Policy. By continuing to use the Sites and Services, you agree to the terms of this and any updated versions of this Policy. If you have consented to receive email communications from Casey's, we will email you or otherwise provide notice to you of any changes when: 
+    * We are making substantial changes, or
+    * We are doing something with your personal data which you might not expect based on what we have told you in this Policy.
 
 
-Casey’s General Stores, Inc. and its subsidiary companies (collectively “Casey’s”) value the trust of our customers. Casey’s is committed to respecting the privacy of the visitors to our websites and all associated sites linked to [www.caseys.com](http://www.caseys.com/) (hereinafter collectively referred to as the “Site”), users of mobile marketing, and store guests. We are providing our Privacy Policy to you so you know the types of information we collect through this Site, via mobile applications and store locations, and how the information is used. 
-
-##  AGREEMENT TO CONSENT TO THE TERMS OF OUR POLICY   
-
-
-By using Casey’s’ Site, participating in mobile marketing, or visiting our store locations, you consent to the information collection and use practices described in this Privacy Policy. 
-
-##  HOW CASEY’S COLLECTS INFORMATION   
-
-
-The following are examples of the ways Casey’s collects information from you through the Site at [www.caseys.com](http://www.caseys.com/) or otherwise: 
-
-• Sign up for emails to receive coupons, news releases, conference call information, mobile messages, or social media notifications from Casey’s. 
-
-• Provide us with comments, suggestions, or other input. 
-
-• Visit our store locations. 
-
-• Order Casey’s’ products online or over the phone. 
-
-• Conduct a transaction that requires us by law to collect such information. 
-
-• Enter contests or sweepstakes. 
-
-• Provide job application information through the Site. 
-
-• Request Investor Relations Packets. 
-
-• Participate in Quarterly Investor Calls. 
-
-• Use a social media service to communicate with Casey’s, i.e. Facebook, Twitter or YouTube. 
-
-• Request a DRIP Prospectus. 
-
-##  TYPES OF INFORMATION COLLECTED BY CASEY’S  
-
-
-Casey’s does not collect any personal information on the Site unless you voluntarily provide it to us. The following are examples of personal information collected by Casey’s through the Site at [www.caseys.com](http://www.caseys.com/) or otherwise: 
-
-• Your name. 
-
-• Your address. 
-
-• Your phone number. 
-
-• Your mobile number. 
-
-• Your email address. 
-
-• Your credit/debit card number. 
-
-• Your employment history (job applicants). 
-
-At store locations, we collect video monitoring of the store location for security purposes as well as compliance with regulatory requirements. 
-
-##  INFORMATION NOT PERSONALLY IDENTIFIABLE  
-
-
-We also collect data in a form that does not, on its own, permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it: 
-
-• We may collect information including, but not limited to, language, zip code, area code, unique device identifier, location, and the time zone where a product is used so that we can better understand customer behavior and improve our products, services, and advertising.  
- 
-
-• Our web servers automatically collect usage information when you visit the Site.  Site usage information is information about our visitors (unregistered users) and users that describes how the Site is used and navigated, including the number and frequency of visitors and users to each web page and the length of their stays.  Site usage information also includes the domain names and/or corresponding IP addresses (a numerical identifier for a computer on the Internet) of those who visit the Site. 
-
-If we do combine non-personal information with personal information, the combined information will be treated as personal information for as long as it remains combined. 
-
-##  SECURITY  
-
-
-The personally identifiable information we collect about you is stored in limited access servers.  We will maintain appropriate safeguards to protect the security, integrity, and privacy of these servers and of your personally identifiable information.  This includes encryption to protect credit and debit card numbers.  Except as described herein, we will not use or intentionally disclose any personally identifiable information about you to any unaffiliated third parties without your consent. 
-
-##  HOW WE USE INFORMATION COLLECTED  
-
-
-We may combine the personally identifiable information we collect from you when you use the Site with other information about you that is available to us, including survey information.  We may use such information in several ways, including: 
-
-• To enable us to process and verify purchases, to provide you with the goods and services you have requested, and for the purposes disclosed when you provide the personally identifiable information. 
-
-• To send users email notifications of new features and topic-based news alerts if they have signed up for these announcements. 
-
-• To provide you with personalized content. 
-
-• To give the Site editors information that is useful for developing new features and services that meet users' needs. 
-
-• To improve the content and navigation on the Site. 
-
-• To alert you about new products, services, and special offers. 
-
-• To contact you about your use of the Site or with regard to products and services. 
-
-• To meet the needs of your requests, such as delivering of coupons, responding to emails, or providing information regarding job opportunities. 
-
-• For internal purposes such as auditing, data analysis, and research to improve Casey’s’ products, services, and customer communications. 
-
-• To monitor against theft. 
-
-• To comply with regulatory requirements. 
-
-• To assist law enforcement and to respond to subpoenas. 
-
-Finally, we may also use personally identifiable information to enforce our Website Terms and Conditions or share such information with (1) the issuer of a criminal or civil subpoena, (2) governmental authorities when legally required to do so, and (3) governmental authorities investigating a crime. 
-
-##  YOUR ABILITY TO OPT OUT OR OPT IN  
-
-
-Opt Out.  You can notify us that you do not wish to receive information about new products, services, and special offers by opting out at the time you enter your personally identifiable information on the Site.  You may change your selections at any time by accessing your profile section on the Site after you have logged in. 
-
-Opt In.  Several of the services we provide, including many of the email notifications and the surveys we conduct, are entirely voluntary.  You will not receive such services unless you opt in, i.e., unless you expressly choose to receive these services. 
-
-##  COOKIES  
-
-
-The Site, online services, interactive applications, email messages, and advertisements may use "cookies" and other technologies to help visitors and users move faster throughout the Site.  When a visitor or user accesses the Site and takes advantage of certain features, we place several cookies on that user’s computer.  A cookie is a string of information sent by a Site and stored on your hard drive or temporarily in your computer’s memory.  This allows the Site to recognize you as you move through the Site. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy. 
-
-##  REVIEW AND CORRECTION  
-
-
-You may review and update the personal information you provide us with as part of the registration process by accessing your profile after you login to the Site. 
-
-##  SHARING INFORMATION   
-
-
-Casey’s does not sell, rent, or otherwise provide personal information you provide through the Site or otherwise to outside marketers without prior consent, except as otherwise set forth in this Privacy Policy. 
-
-It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Casey’s to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate. 
-
-We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party. 
-
-##  OUR CHILDREN’S PRIVACY POLICY   
-
-
-The Site and social media sites are not intended to feature information and services of interest to children 13 years and under. We do not collect information from anyone who we know is a child under the age of 13. If a child under the age of 13 has provided us with personally identifiable information, we ask that a parent or guardian contact us. 
-
-##  LINKS TO OTHER SITES   
-
-
-For your convenience, the Site and social media sites contain links to other websites not maintained by Casey’s. If you use these links, you will be directed away from the Site to the linked website. We do not assume responsibility for any of these websites, their content, or their privacy policies. If you choose to access any of the third party websites linked to the Site, you do so at your own risk and should review the privacy statements of these website. 
-
-##  CHANGES TO OUR POLICY   
-
-
-The Privacy Policy may change from time to time without notice, as provided by applicable law. Use of the Site shall constitute acceptance of the terms and conditions of this Privacy Policy. Questions regarding the terms and conditions of Casey’s privacy policies should be directed to it in the manner described in the “Contact Us” section. 
-
-##  CONTACT US   
-
-
-If you have any questions or comments about this Privacy Policy or Casey’s’ privacy practices, you may email us at [privacypolicy@caseys.com](mailto:privacypolicy@caseys.com). 
-
-##  POLICY SCOPE   
-
-
-This Privacy Policy applies to all current, former and guest information collected by or provided to Casey’s. Any information collected will be maintained pursuant to Casey’s’ Records Management Policy. 
