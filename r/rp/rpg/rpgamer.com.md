@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812111434id_/https%3A//rpgamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610105127id_/https%3A//rpgamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – RPGamer
+
+Manage Cookie Settings
 
 **Privacy policy**
 
