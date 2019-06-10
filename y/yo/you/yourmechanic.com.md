@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourmechanic.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926115935id_/https%3A//www.yourmechanic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourmechanic.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610205404id_/https%3A//www.yourmechanic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YourMechanic
 
