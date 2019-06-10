@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ammunitionstore.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211124027id_/http%3A//ammunitionstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammunitionstore.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610052650id_/http%3A//ammunitionstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Ammunition Store privacy policy. Buying ammo online. Secure transactions.
 
-**See also[Terms and Conditions](http://ammunitionstore.com/pages/terms-and-conditions.html)**
+**See also[Terms and Conditions](https://ammunitionstore.com/pages/terms-and-conditions.html)**
 
 ### Ammunition Store Privacy Policy
 
