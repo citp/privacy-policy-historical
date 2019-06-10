@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techypassion.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209125436id_/http%3A//www.techypassion.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techypassion.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610121028id_/http%3A//www.techypassion.com/contact/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – TechyPassion
 
   
 **Techypassion Privacy Policy**
@@ -9,7 +9,7 @@ This Privacy Policy was last modified on May 07, 2014.
 
 Techypassion (“us”, “we”, or “our”) operates www.techypassion.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.  
 We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.techypassion.com.  
- **Information Collection And Use**  
+**Information Collection And Use**  
 While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number (“Personal Information”).
 
  **Log Data**  
