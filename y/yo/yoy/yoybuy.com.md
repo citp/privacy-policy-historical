@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yoybuy.com privacy policy that was archived on 2018-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180724230054id_/https%3A//www.yoybuy.com/en/help.html%3Fcateid%3D3237176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoybuy.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610073943id_/https%3A//www.yoybuy.com/en/help.html%3Fcateid%3D3237176) for the most accurate reproduction.*
 
-# Privacy Statement at Best Taobao Agent Yoybuy
+# YOYbuy: Taobao Agent| The best shopping agent in China| Buy from taobao.com
 
 ##  Privacy Statement
 
@@ -60,5 +60,10 @@ Yoybuy will post any changes to this Privacy Statement on this Web Site, please 
 
 If you have any comments or questions about our Privacy Statement, please send E-mail to **service@yoybuy.com.**
 
-Company:Beijing YOYBUY Network Technology Limited Liability Co., Ltd.  
-Company address: Room 1406, Fl. 14, No.4, Courtyard 19, Huangping Road, Huilongguan Town, Changping District, Beijing,China. 
+Office in China: Beijing YOYBUY Network Technology Limited Liability Co., Ltd.Room 1406, Fl. 14, No.4, Courtyard 19, Huangping Road, Huilongguan Town, Changping District, Beijing
+
+Office in UK:  Sunlight(UK) Trading Limited
+
+Address: Old Street 167 City Road London, EC1V 1AW, UK
+
+**The website follows the UK laws**
