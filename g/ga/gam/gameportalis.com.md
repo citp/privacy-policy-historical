@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameportalis.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209083221id_/http%3A//www.gameportalis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameportalis.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610083618id_/http%3A//www.gameportalis.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy & PolicyGameportalis.com, gateway to the best games online
 
