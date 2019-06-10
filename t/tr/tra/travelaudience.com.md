@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelaudience.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106234817id_/https%3A//travelaudience.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelaudience.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610072418id_/https%3A//travelaudience.com/website-privacy-policy) for the most accurate reproduction.*
 
 # travel audience - website privacy policy
 
