@@ -1,81 +1,209 @@
-> *The following text is extracted and transformed from the konnektive.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427212213id_/https%3A//konnektive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konnektive.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610234532id_/https%3A//konnektive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KonnektiveKonnektive
 
-We at Konnektive LLC. (“Konnektive” or “we” or “us” or “our”) know that your privacy is important. This privacy policy (“Policy”) is designed to assist you in understanding how we will collect and use the information you provide when you use (i) our publicly available websites (the “Sites”) and (ii) the Konnektive Mobile and other add-on applications (e.g., Konnektive Mobile for iOS®, Konnektive Mobile for Android™, etc.) (“Apps”) and other related services on which we post a direct link to this privacy policy (together with Apps, the “Services”).
+_**What does this privacy policy cover?**_
 
-Please read this Policy to learn more about the ways in which we collect and use your information. If we make any material changes to this Policy, we will notify you in accordance with the process described in the “Revisions or Changes” section of this Policy, below. By using our Services, you consent to our collection, use, and disclosure of your information as described in this Policy.
+_**What information do we collect about you and how did we get that information?**_
 
-This Policy does not cover any other data collection or processing, including without limitation the data we host for our registered customers via the Konnektive sales and marketing software platforms (“Platform”). If you use our Platform, the data that you (and your customers) submit as you use our Platform will be governed by the applicable Konnektive agreement, and as required by law.
+_**How do we use the information we collect about you?**_
 
-Konnektive has obtained Safe Harbor certification. Konnektive complies with the U.S.-E.U. Safe Harbor Framework and U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Economic Area member countries and Switzerland. Konnektive has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Konnektive certifications, please visit http://www.export.gov/safeharbor/.
+_**Do we share your personal information?**_
 
-Our EEA/CH Safe Harbor Notice defines the scope of our Safe Harbor certifications. Our EEA/CH Safe Harbor Notice does not apply to data that we collect through our Sites.
+_**Is my personal information secure?**_
 
-For the purposes of our Policy, when we refer to “you” or to a “customer” we mean any past, current or prospective customer of Konnektive, including any visitor to one of our Sites.
+_**Where do you store my personal information?**_
 
-### Collection of Personal Information 
+_**How long will you keep my personal information? **_
 
-**What We Collect.** In some situations you may provide us with your personally identifiable information, which could include your name, street address, telephone number, email address, job title, payment card number, other financial account number(s), mother’s maiden name or other family names, date and place of birth, criminal record, arrest record, driver’s license number, photographic image, and any other information we collect about you that by itself is not personally identifiable information but if combined with personally identifiable information could be used to personally identify you.
+_**Will you transfer my personal information across national borders?**_
 
-You may provide us with personally identifiable information when you enter a sweepstakes or contest; complete a survey; apply for a job via the Sites; make a purchase; download an e-book; request customer support; subscribe to certain services, email notifications and/or newsletters; register for our Platform, or register and/or set up an account/profile to access, visit and/or use certain portions of our Sites; provide comments, reviews, feedback, or testimonials about our products or Services; and any other transactions between you and us on or in relation to our Services.
+_**What access do I have to the personal information that you collect? **_
 
-We may use your email and other addresses and contact information for customer support, required notifications, product and policy updates and marketing releases, but we will not use this information for anything else not described in this Policy. 
+_**Will you market products or services to me?**_
 
-**Information We Automatically Collect.** When you access our Sites whether by computer, mobile phone or other device, we automatically collect certain information about your use of our Sites (this information may include without limitation: geographical location and IDs of your computer, mobile or other device; bandwidth used; system and connection performance; browser type and version; operating system; referral source; length of visit; page views; IP address or other unique identifier for your computer, mobile phone or other device; your mobile carrier) using technologies such as cookies and web beacons. When you download and use our Apps, we may also collect additional information about your mobile device, including the hardware model, operating system and version, mobile network information and time zone.
+_**What if I have a dispute about how you handle my personal information? **_
 
-**Refer a Friend.** If you choose to use our referral service to tell a friend about our Services, we will ask you for your friend’s name and email address. We will use the information you provide to automatically send your friend an email inviting him or her to visit our Sites. Your friend can opt out of receiving future promotional/marketing messages from us by clicking the “Unsubscribe” link found in the footer of our email messages. Your friend may also contact us using the information in the “How to Contact Us” section of this Policy, and request that we remove their information from our database. Treatment of your friend’s information will be subject to the terms of this Policy. 
+_**Will this privacy policy change?**_
 
-**Data Integrity and Security.** We use reasonable and diligent efforts to maintain accurate information on our customers and have adopted and implemented reasonable industry standard security procedures to protect any such information collected. We constantly monitor our systems, which are protected using industry-standard security measures. Although Konnektive will use reasonable efforts to secure network communications and our Sites, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure.
+_**Contacting us**_
 
-**Access to Customer Information;** Updating Customer Information. A customer may (i) access any of their personally identifiable information that we collect and maintain, or (ii) correct, update or delete their personally identifiable information maintained by us, in each case by contacting us by telephone or mail using the contact information provided below. We will try and respond to your request promptly and in all cases within 30 days. To protect customer privacy and security, we reserve the right to take reasonable steps to verify a customer’s identity prior to granting access to or processing changes or corrections to such information. We will retain a customer’s personal information for so long as its account is active or as reasonably needed by us to provide our Services. We may also retain and use such information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+_**What does this privacy policy cover?**_
 
-###  How We Use Personal Information
+This privacy policy describes the privacy practices of Konnektive LLC’s websites that include a link to this policy. We want to help you understand how we collect and use the information you provide when you use,
 
-**General.** Konnektive may use personally identifiable information to respond to your inquiries, and/or address other requests or questions; enable your use of the Services; contact you regarding your purchase; consider and respond to your job application; and collect payments from you; and to send you goods or services purchased through our Sites; information and updates related to your purchase; invoices; email notifications that you have specifically requested; email marketing communications relating to our business, which we think may be of interest to you; and email messages containing company news, product or service information. We may also use information collected through our Sites for research regarding the effectiveness of the Sites and related marketing, advertising and sales efforts. We may disclose your personally identifiable information (i) to the extent required by law or if we have a good-faith belief that such disclosure is necessary in order to comply with official investigations or legal proceedings initiated by governmental and/or law enforcement officials, or private parties, including but not limited to: in response to subpoenas, search warrants, or court orders; (ii) if we sell or transfer all or a portion of our company’s business interests, assets, or both, or in connection with a corporate merger, consolidation, restructuring, or other company change, or (iii) as otherwise disclosed in the terms and conditions of our agreements with customers, including our separately posted and applicable Terms of Use for the relevant Services. 
+  1. Our publicly available websites
+    * [Konnektive.com](https://konnektive.com/)
+  2. The Konnektive Mobile and other add-on applications, or apps
+    * Konnektive Mobile for iOS®, and
+    * Konnektive Mobile for Android™
 
-**Requests for Information.** If you provided your email address or phone number on the Sites to receive information from Konnektive, you agree that Konnektive, and our fulfillment partners may contact you using the contact information you provide us regarding our products and Services, such as offers, support and product updates. Konnektive and our fulfillment partners may make such contact by email, phone and/or text, including the phone number you provide us, and we may use automated dialers technology in order to more efficiently connect you with one of our representatives. Your mobile phone carrier’s standard message and data rates may apply to text messages. You are not required to provide your phone number as a condition of purchasing products or Services, and you can opt out at any time as described in the “Opting Out” section found below within this Policy.
 
-**Email.** We may communicate with a customer through email using the customer’s personal contact information on file in our systems to inform the customer of new products, important industry news or information about Services and upgrades provided by Konnektive.  
-**Disclosures to Third Parties – General.** We may disclose information collected from a customer to our independent contractors and business partners who have agreed to (i) hold this information in confidence, and (ii) not use it for any purpose except to carry out the services they are providing for Konnektive. Such contractors and business partners include those hosting our Services or other data; managing the functionality of our Services; hosting customer relationship management, marketing automation, customer service and other software platforms on our behalf; processing credit or other payment card payments; collecting delinquent accounts; fulfilling and processing orders; delivering products you have ordered; conducting background checks if you submit an application for employment; assisting with marketing and promotions; and enabling us to send you email.  
-**Disclosures to Third Parties – Specific.** Konnektive has a number of partner programs designed to maximize our customers’ ability to use our Services and to purchase complementary products and services that may be used in tandem with our Services. We may disclose information collected from a customer to one or more trusted partners for the purpose of such partner(s) providing assistance to the customer in its use of the Services and for the purpose of marketing complementary or value-add products and services to the Customer. In each case such trusted partner will have agreed to (i) hold this information in confidence, and (ii) not use it for any purpose except for the purposes described above.
 
-**Disclosures of Aggregate Information.** Konnektive may also disclose aggregate, anonymous data based on information collected from customers. Should a sale of Konnektive’s business ever occur, collected customer information may be transferred along with the sale but the information will be treated in the same manner as set forth in this Policy. In the event of any significant changes to the manner in which your information is handled, we would notify you by a prominent notice on the Sites, or by email.
+_**What information do we collect about you and how did we get that information?**_
 
-**Disclosures Made by You within Interactive Areas of a Site.** If you use a bulletin board, blog, comment or discussion forum or chat room made available on a Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages, and could be potentially searchable through search engines. We are not responsible for the potential misuse by third parties of any personally identifiable information that you choose to submit in these various forums.
+When you visit one of our web pages, create an account with us, enter a sweepstakes or contest, download one of our apps or e-books, post materials on one of our chat rooms or bulletin board, or contact us for support or other offerings, we collect information that identifies you. This includes information such as your name, contact information, and payment information. We may also sometimes collect other information that does not identify you, such as information on people’s visits and activity on our websites. We provide more detail in the list below.
 
-###  Other General Policies Relating to Privacy,
+  * **Contact Information** : If you are a customer of our services, we will collect general contact information that you provide to us. This includes: your name, shipping address, email address, telephone number and, where applicable, your company name. 
+  * **Payment Information** : When we provided a fee-based service for you, we will collect the following information that you provide to us: billing address and credit card information.
+  * **Login Information** : If you are a member or customer or our services, we will collect your user id (e-mail address) and password. 
+  * **Online Identifiers** : When you access our web pages, we obtain your [Internet Protocol address](https://en.wikipedia.org/wiki/IP_address), [browser user agent](https://en.wikipedia.org/wiki/User_agent), and your device id. 
+  * **Data Trackers, Including[Cookies](https://en.wikipedia.org/wiki/HTTP_cookie) and [Web Beacons](https://en.wikipedia.org/wiki/Web_beacon)**: We collect information on
+    * what pages you access or visit;
+    * user-specific information on what pages you access or visit;
+    * information you volunteer, such as survey information and/or site registrations;
+    * bandwidth use;
+    * referral source; 
+    * operating system; 
+    * mobile carrier (where applicable); and
+    * system and connection performance.
+  * **App-specific Information** : When you download and use our apps, we may also collect additional information about your mobile device, including the hardware model, operating system and version, mobile network information and time zone.
 
-**Disclosures by Children.** We believe that protecting the privacy of the very young is especially important and for that reason we will never collect or maintain information on our Site from those we actually know are under the age of 13, and no part of our Site is structured to attract anyone under 13. 
 
-**Third Party Sites.** Our Sites may contain links to third party websites. Please note that the privacy and other policies of any such third-party website may differ materially from this Policy. We strongly recommend that customers review the privacy policies of any such third party prior to submitting personally identifiable information. Konnektive has no control over and is not responsible for the information practices of other websites, including those to which we may link and those which may link to us.
 
-**Use of Widgets.** We may provide widgets on our Sites that make it possible to share information on third-party platforms. These widgets do not store your personally identifiable information. Our Sites may also include social media features, such as the Facebook® or Twitter® button and similar widgets and interactive mini-programs that run on our site (each, a Feature). To the extent we use these Features, they may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social media Features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy statement of the company providing the Feature or widget.
+_**How do we use the information we collect about you?**_
 
-**Use of Cookies.** When you interact with the Site, we try to make that experience simple and meaningful. When you visit our Site, our web server sends a cookie to your computer. Cookies are files that web browsers place on a computer’s hard drive and are used to indicate whether you have visited the Site previously. The data collected may include how you navigate around a web page and the most commonly clicked links on a specific web page. Certain technical information, such as your browser version and operating system, are also collected. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set (each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences). We use cookies for a number of purposes, including to: access a customer’s account information when a customer logs into a Site, so that we can provide the customer with customized content, keep track of preferences you specify while you are using the Services, and to estimate and report total audience size (unique users) and traffic for our Sites, and to conduct research to improve the content and services of our Sites.
+We use contact information, including email addresses, to communicate with you if you are a customer of our services. This helps us to carry out the services you request from us and to notify you about updates to our web pages, products and policies, and marketing releases. When you subscribe to our fee-based services, we use this contact information, as well as payment information, for billing purposes and to carry out your requested services. 
 
-**Web Beacons.** We may use web beacons (also known as clear GIFs) to access cookies and count users who visit our Sites or open our HTML-formatted email messages. Web beacons are single-pixel graphic files with a unique identifier, similar to cookies. Web beacons are embedded invisibly on web pages and emails and are stored on a user’s hard drive. You can modify your browser settings to control web beacons.
+Online identifiers, login information and data trackers are used to secure the limited access portions of our web pages and services. Data trackers help our web pages work. They also help us to improve our content and to customize the content and/or layout of our page for each individual visitor. In addition, online identifiers and data trackers to prevent and reduce fraudulent practices. For more information about our use of cookies, web beacons, and similar technologies, please read  “ _More Information On Data Trackers_ ” below.
 
-**Third-Party Cookies.** We may also from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our Sites to help us administer our Sites and improve their quality. Such third parties may use cookies and web beacons to help track visitor behavior. Such cookies and web beacons may track how you interact with a Site through the use of cookies and the data collected may include how you navigate around a web page and the most commonly clicked links on a specific web page. Certain technical information, such as your browser version and operating system, may also be collected. If collected, this information will be used by us to evaluate and, if necessary, modify the relevant Site to improve the functions and ultimately, make it easier for customers to use. None of your personally identifiable information, that is, your name, address, or phone number, is collected through such collections.
+_**More Information On Data Trackers**_ **:**
 
-**Behavioral Targeting/Re-Targeting.** We partner with third party ad networks to either display advertising on our Sites or to manage our advertising on other websites. Our ad network partners may use cookies and web beacons to collect non-personally identifiable information about your activities on our Sites and other websites to provide you targeted advertising based upon your interests. To opt out of this type of cookies, visit the Network Advertising Initiative (NAI) website by visiting  
-http://www.networkadvertising.org/choices/. Even if you opt out through the NAI website, you can still receive communications you have signed up to receive from us unless you opt out of those by using the information in the “Opting Out” section of this Policy. 
+**Cookies** are small text files that are stored by your web browser when you use websites. When you visit our web pages, our web server sends a cookie to your computer. You can control how websites use cookies by configuring your browser’s privacy settings (please refer to your browser’s help function to learn more about cookie controls). Note that if you disable cookies entirely, our web pages may not function properly. We use cookies in several ways, such as:
 
-**Use of Testimonials.** We may select and post customer testimonials on our Services, which may contain personally identifiable information such as your name and/or the city, state, or country in which you live. We will obtain your consent prior to posting any testimonial with your name. If you post such content, it will be available to other users of the Services. Your posting may also become public and we cannot prevent such information from being used in a manner that may violate this Policy or the law. If you would like us to remove or delete your name or testimonial from our Services, you may contact Konnektive using the information in the “How to Contact Us” section of this Policy. Note that copies of information that you have updated, modified, or deleted may remain viewable in cached and archived pages of our Sites for a period of time.
+  * To show whether you have visited a web page previously;
+  * To store your preferences; 
+  * To show how you navigate around a web page and the most commonly clicked links on a specific web page; 
+  * To gather certain technical information, such as your browser version and operating system; and
+  * To estimate and report how many different users are on our web sites. 
 
-**Reviews.** We may post customer reviews on our Sites or Services, which may contain personally identifiable information such as your name and/or the city, state, or country in which you live. When submitting your review, you are giving us permission to post your review on our Sites or Services. If you post such content, it will be available to other users of the Sites or Services. Your posting may also become public and we cannot prevent such information from being used in a manner that may violate this Policy or the law. If you would like us to remove your name or review from our Sites or Services, you may contact Konnektive using the information in the “How to Contact Us” section of this Policy. Note that copies of information that you have updated, modified, or deleted may remain viewable in cached and archived pages of our Sites for a period of time. 
 
-**Governing Law; Superseding Contract Terms.** By choosing to visit and interact with Konnektive, you agree that your visit and any dispute regarding the protection of your privacy during such visit is subject to this Policy and the dispute resolution provisions in our separate Terms of Use applicable to the Services relating to the dispute. Please note that to the extent a customer enters into other contractual agreements with Konnektive, the privacy terms and conditions of such agreements (including the separate Terms of Use applicable to the relevant Services) may by express reference supplement or supersede portions of this Policy.
 
-**Revisions or Changes.** Konnektive reserves the right to change this Policy and other policies prospectively at any time, subject to applicable laws and regulations, by posting a prominent notice of any such material changes on the Site prior to the change becoming effective. Regardless of later updates or changes to our Policy, we will never use the information you submit under our current Policy in a new way without first providing you an opportunity to opt out or otherwise prevent such use.
+This allows us to make your experience on our web site simple and meaningful, to customize web page content, to alert you to new areas that we think might interest you, to provide better services, and to ensure that you are not repeatedly sent the same banner ads, when you return to our web pages. It also helps us to conduct research to improve the content and services of our web sites.
 
-**Opting Out.** You may opt out of having your personally identifiable information shared with third parties for reasons other than for the express purpose of delivering the purchased product or service requested and except as required by law. To do this, you may contact our Privacy Officer using the information in the “How to Contact Us” section of this Policy. You may opt out of receiving future promotional/marketing messages from us by clicking the “Unsubscribe” link found in the footer of our email messages. Please note that if you opt out of promotional/marketing messages, you may continue to receive certain communications from us, such as administrative and services announcements and/or messages about your account/profile.
+**Web beacons** (sometimes called “tracking pixels”, “transparent GIFs”, “clear GIFs”, “pixel gifs”, or “pixel tags”) are **** tiny, invisible images that are embedded on web pages and emails and are stored on a your hard drive. They help us to count users who visit our web sites or open our emails. Tracking pixels help us figure out if certain features, notifications, and products or services are effective and if they can be improved.  You can modify your browser settings to control web beacons.
 
-###  How To Contact Us
+**Third-Party Cookies  
+**We may also from time to time engage third parties to track and analyze data and statistics that do not identify you. This practice helps us administer our websites and improve their quality. These third parties may use cookies and web beacons to help track visitor behavior. Their cookies and web beacons may track how you interact with a web site through the use of cookies and the data collected may include how you navigate around a web page and the most commonly clicked links on a specific web page. They may also collect technical information, such as your browser version and operating system. If collected, this information will be used by us to evaluate and, if necessary, modify our website to improve the functions and make it easier for customers to use. Your name and contact information is not collected or used for this purpose.
 
-**General.** If you have any questions or concerns about this Policy or the way your information is being used by Konnektive, or should you wish to contact us for any other reason described in this Policy, you can contact us (i) by email directed to info@Konnektive.com or (ii) by mail addressed to Konnektive LLC., 954 Ave Ponce de Leon #607, San Juan, PR 00917, attention Legal /Privacy Compliance.
+As a part of our efforts to carry out and improve our services to you and to monitor and improve the functions of our websites, we may also undertake profiling or automated individual decision-making. Automated individual decision-making refers to a decision made solely on the basis of automated processing of your personal data, without human involvement. For instance, we may process personal information using an algorithm or a software code. Profiling is automated processing of personal data to evaluate certain information collected about an individual. We conduct profiling and automated decision-making to better understand your interests and preferences and to adapt our communications to your user profile. You can address any questions or concerns about this practice by _contacting us_. 
 
-**Effective Date of Policy.** This Policy was last updated as of the last date set forth below. If you would like to see an earlier version of this Policy, please contact us using one of the methods set forth above and specify the applicable date or time period for the prior Policy version requested.
+_**Do we share your personal information?**_
+
+Konnektive works with companies that help us run our business. From time to time, we need to share some of your personal information with these companies so that they can perform requested services. They can only access your personal information to carry out the tasks we have asked them to do. They are required to hold this information in confidence. And they must meet both legal and industry standards to ensure that your data is protected. We may share your personal information with _service providers_ , _affiliates_ , _business partners_ , or other _third parties_.
+
+_**Service Providers**_
+
+Konnektive may share information about our visitors and/or customers with our contracted service providers so that these service providers can provide services on our behalf. 
+
+  * We work with companies who help us: host our services and data, manage how our services function, host our customer relationship management, improve and automate our marketing techniques, incorporate customer service and other software platforms, process payments, collect delinquent accounts, fulfill, process and deliver orders, and market and promote our products and services, including by email.
+  * These service providers are authorized to use your personal information only as necessary to provide the requested services to us.  Without limiting the foregoing, Konnektive may also share information about visitors, members, and/or customers with our service providers to ensure the quality of information provided. Without your permission, Konnektive does not share, sell, rent, or trade any information with third parties for their promotional purposes.
+
+
+
+_**Affiliates**_ __
+
+Konnektive may share information with affiliate companies in order to work with them.  For example, we may need to share personal information with other companies within our corporate family for customer support, marketing, technical operations and account management purposes.
+
+_**Third Parties**_
+
+We discussed in the section of the Privacy Statement, _What information do we collect about you and how did we get that information?,_ that we, or our advertisers, may collect information about you through cookies and web beacons. You can control this collection through your _web browser_.
+
+  * We also work with partners to create programs that help you to get the most out of our services and provide you the opportunity to purchase complementary products and services that may be used in tandem with our services. 
+  * We may disclose your information to one or more trusted partners so they can help you or offer you complementary or value-added products and services. In each case, the trusted partner will confirm they will (1) hold your information in confidence, and (2) not use it for any purpose except for the purposes described above. But will provide your personal information only with your prior consent.
+  * We partner with third party ad networks to display advertising on our web pages or to manage our advertising on other websites. Our ad network partners may use _cookies and web beacons_ to collect information about your activities on our websites and other websites to provide you targeted advertising based upon your interests. To opt out of this type of cookies, visit the Network Advertising Initiative (NAI) website by visiting <http://www.networkadvertising.org/choices/>. Even if you opt out through the NAI website, you can still receive communications you have signed up to receive from us unless you _opt out_ of these communications as well.
+
+
+
+We may also share your personal information _to provide reviews or testimonials_ , _in case of a company sale or transfer_ , and if we are _compelled by law_ :
+
+_**To Provide Reviews or Testimonials**_
+
+We may select and post customer testimonials about our services, which may contain personal information such as your name and/or the city, state, or country in which you live. We will obtain your consent before we post any testimonial with your name. When you submit a review, you give us permission to post that review. If you post this content, it will be available to other users. Your posting may also become public and we cannot prevent that information from being used in a manner that may violate our privacy policy or the law. If you would like us to remove or delete your name, testimonial, or review from our web pages, please _contact us_. Note that copies of information that you have updated, modified, or deleted may remain viewable in cached and archived pages of our web pages for a period of time.
+
+_**Company Sale or Transfer**_
+
+Should we sell all or part of our business, the customer information that we have collected may be transferred along with the sale but the information will be treated in the same manner described here. In the event of any significant changes to the manner in which your information is handled, we will notify you.
+
+_**Compelled Disclosure**_
+
+Sometimes, we are required to use or disclose information provided if required by law or if we reasonably believe that use or disclosure is necessary to protect the Konnektive’s rights and/or to comply with a judicial proceeding, court order, or legal process.
+
+_**Is my personal information secure?**_
+
+We use reasonable and diligent efforts to maintain accurate information on our customers and have adopted and implemented reasonable industry standard security procedures to protect any such information collected against the loss, misuse or alteration. We constantly monitor our systems, which are protected using industry-standard security measures. Although Konnektive will use reasonable efforts to secure network communications and our websites, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure.
+
+**Public Disclosures Made by You**
+
+If you use a bulletin board, blog, comment or discussion forum or chat room made available on one of our web pages, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages, and could be potentially searchable through search engines. We are not responsible for the potential misuse by third parties of any personal information that you choose to submit in these various forums.
+
+**When You Use Widgets Listed on Our Web Pages**
+
+A widget **** is a small application with limited functions. It can be installed and used within a web page. It occupies a portion of a webpage and does something useful with information fetched from other websites. We may provide widgets on our web pages so you can share information on third-party platforms. Our web pages may also include social media features, such as the Facebook® or Twitter® button and similar widgets and interactive mini-programs that run on our site. The companies running those widgets may collect your IP address, which page you are visiting on our site, and may set a cookie to enable their widget to function properly. Social media widgets are either hosted by a third party or hosted directly on our web pages. Since these other parties have their own privacy policies—and your use of their widgets is governed by their policies—we encourage you to review the privacy statements for the companies running those widgets.
+
+**Third Party Sites**
+
+Our Sites may contain links to third party websites. Please note that the privacy and other policies of any such third-party website may differ materially from this Policy. We strongly recommend that customers review the privacy policies of any such third party prior to submitting personally identifiable information. Konnektive has no control over and is not responsible for the information practices of other websites, including those to which we may link and those which may link to us.
+
+_**Where do you store my personal information?**_
+
+Your personal information and files are stored on Konnektive servers and the servers of companies we hire to provide services to us. Your personal information may be transferred across national borders because we have servers located worldwide and the companies we hire to help us run our business are located in different countries. 
+
+_**How long will you keep my personal information?**_
+
+We will retain your personal information for as long as necessary to provide you with the product and services you have requested and as needed to comply with our legal obligations and enforce our agreements.
+
+_**Will you transfer my personal information across national borders?**_
+
+We primarily store information about our visitors, members, and customers in the United States. However, we may transfer your personal information across national borders to other countries in compliance with applicable laws. If you are a European resident, we transfer your data based on one or more of the following legal mechanisms: Standard Contractual Clauses. 
+
+_**What access do I have to the personal information that you collect?**_
+
+Under the law of some countries, you have the right to: 
+
+  * Access the personal information that you provide us and that we maintain;
+  * Correct, update or delete that personal information that we no longer have business reasons for retaining;
+  * Restrict processing while we review any concerns you may have over the accuracy of the personal information we maintain; 
+  * Object to 
+    * Data processing based upon legitimate interests,
+    * Data processing for research or statistics,
+    * Direct marketing, and
+    * Decisions based exclusively on automated processing, such as profiling, so long as the decision does not impact our ability to enter or perform our contract services for you or is not based on your explicit consent;
+  * Withdraw your consent in instances where we must have your consent to contact you; and
+  * Transfer, or port, your personal information that you provided us in a structured, commonly used, machine-readable format.
+
+
+
+To review, correct, delete or otherwise modify this information, or to remove your email address from our marketing database, please email your request to [info@Konnektive.com](file:///C:/Users/Rachel/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/FVOO89EL/info@Konnektive.com) or otherwise review the “ _Contacting Us_ ” section beloww. Requests to access, change, or delete your information will be addressed within a reasonable timeframe and in all cases within 30 days.
+
+To protect customer privacy and security, we reserve the right to take reasonable steps to verify your identity prior to granting access to or processing changes or corrections to such information. 
+
+Please note that we need to retain certain information about you for legal and internal business reasons, such as fraud prevention. We will retain your personal information for as long as necessary to provide you the services you have requested and as needed to comply with our legal obligations and enforce our agreements.
+
+_**What if I have a dispute about how you handle my personal information?**_
+
+If you are an E.U. resident and you have a dispute about how we are handling your personal information, you have the right to complain to a supervisory authority to enforce your rights. You can contact Konnektive’s lead supervisory at: .
+
+_**Will you market products or services to me?**_
+
+Konnektive and companies we hire to help us market our web pages and services on our behalf may use your information to provide you with information and offers related to our services. You may decline to receive these offers by _contacting us_.
+
+You may also opt out of receiving future promotional/marketing messages from us by clicking the “unsubscribe” link found in the footer of our email messages. Please note that if you opt out of promotional/marketing messages, you may continue to receive certain communications from us, such as administrative and services announcements and/or messages about your account/profile.
+
+_**Will this privacy policy change?**_
+
+If our information practices change at some time in the future we will post the changes to our Privacy Statement web page to notify you of these changes. We encourage you to periodically review this Privacy Statement for the latest information on our privacy practices.
+
+_**Contacting Us**_
+
+  * Legal /Privacy Compliance
+  * Address: Konnektive LLC., 954 Ave Ponce de Leon #607, San Juan, PR 00917
+
+
+  * Phone:1-800-270-8701
+  * E-mail: [info@Konnektive.com](mailto:info@Konnektive.com) 
+
+
 
 © 2018Konnektive LLC. Any rights not expressly granted herein are reserved by Konnektive.  
-Konnektive is a registered trademark of Konnektive LLC. IOS is a registered trademark of Cisco Systems, Inc. Android is a trademark of Google Inc. Facebook is a registered trademark of Facebook, Inc. Twitter is a registered trademark of Twitter, Inc. 
+Konnektive is a registered trademark of Konnektive LLC. IOS is a registered trademark of Cisco Systems, Inc. Android is a trademark of Google Inc. Facebook is a registered trademark of Facebook, Inc. Twitter is a registered trademark of Twitter, Inc.
