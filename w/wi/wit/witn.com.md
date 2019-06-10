@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the witn.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924201446id_/https%3A//www.witn.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witn.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610185912id_/https%3A//www.witn.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
 Posted: Wed 4:24 PM, Mar 04, 2015  | 
 
-Updated: Wed 9:14 AM, Aug 01, 2018 
+Updated: Thu 12:55 PM, Jan 03, 2019 
 
 Effective Date: August 1, 2018.
 
@@ -270,4 +270,4 @@ VP Digital Media
 4370 Peachtree Rd. NE  
 Atlanta, GA 30319
 
-Copyright © 2018 Gray Television, Inc. All Rights Reserved.
+Copyright © 2019 Gray Television, Inc. All Rights Reserved.
