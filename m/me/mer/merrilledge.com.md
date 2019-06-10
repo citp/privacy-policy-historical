@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merrilledge.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230191008id_/https%3A//www.ml.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrilledge.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610021220id_/https%3A//www.ml.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -26,7 +26,7 @@ Your personal information is a valuable part of your financial life. We strongly
 
   * [Identity Theft and Fraud](https://web.archive.org/privacy-and-security-center/identity-theft-and-fraud.html)
   * [Protecting Yourself](https://web.archive.org/privacy-and-security-center/protect-yourself.html)
-  * Report Theft and Fraud
+  * [Report Theft and Fraud](https://web.archive.org/privacy-and-security-center/how-to-report-identity-theft-and-fraud.html)
   * [How Merrill Lynch Protects Your Personal Information ](https://web.archive.org/privacy-and-security-center/protect-personal-information.html)
   * [Security Information for Credit Cardholders](https://card.ml.com/RWDapp/ns/home?_ga=2.263411461.827346755.1506341207-189970974.1449852960&mc=ml)
 
