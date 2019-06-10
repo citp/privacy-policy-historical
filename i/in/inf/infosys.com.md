@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infosys.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907121927id_/https%3A//www.infosys.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosys.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610160611id_/https%3A//www.infosys.com/privacy-statement) for the most accurate reproduction.*
 
 # Personal Information Privacy Statement | Infosys
 
