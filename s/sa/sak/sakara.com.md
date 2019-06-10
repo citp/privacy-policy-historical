@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sakara.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020071305id_/https%3A//www.sakara.com/pages/terms-conditions-and-privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sakara.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610051618id_/https%3A//www.sakara.com/pages/terms-conditions-and-privacy-policies) for the most accurate reproduction.*
 
-# Terms & Conditions | Privacy Policy
+# Terms & Conditions | Privacy Policy | Sakara Life
 
 **Terms & Conditions **
 
@@ -32,7 +32,7 @@ All prices are shown in U.S dollars and applicable taxes and other charges, if a
 
  All of our Products are subject to availability, and we reserve the right to impose quantity limits on any Order, to reject all or part of an Order, to discontinue offering certain Products and to substitute Products (including, but not limited to, specific ingredients in a meal or entire meals) without prior notice. We strive to provide you with high-quality Products, and due to the perishable nature of certain ingredients and market conditions beyond our control, we may be required to make substitutions from time to time. If you are not satisfied with a substitution, please contact us at [info@sakaralife.com](mailto:info@sakaralife.com). Note that gifts with purchase during special programs are available on a first-come, first-serve basis and subject to availability.
 
-Our meal programs are scheduled according to availability. We cannot guarantee that a certain date is available to start the meal program as spots fill up quickly. The cut-off time for the program sign-up is 11:59PM EST two days before you want the program to start (for example: for Monday start, you must order the program no later than 11:59PM EST on preceding Friday). 
+Our meal programs are scheduled according to availability. We cannot guarantee that a certain date is available to start the meal program as spots fill up quickly. The cut-off time for the program sign-up is 11:59PM EST two days before you want the program to start (for example: for Monday start, you must order the program no later than 11:59PM EST on preceding Thursday). 
 
 Most Sakara products and services displayed at the Site are available only via online request in the United States while supplies last. Sakara does not ship internationally. In the case of international deliveries via third- party services, Sakara shall not be responsible or be held liable for delivery or use of the products once Sakara has delivered to specified U.S. destination.
 
@@ -54,9 +54,9 @@ WHEN YOU REGISTER FOR A MEAL PROGRAM SUBSCRIPTION, YOU EXPRESSLY ACKNOWLEDGE AND
 
 CANCELLATION OF SUBSCRIPTION
 
-YOU MAY CANCEL YOUR MEAL SUBSCRIPTION AT ANY TIME BY LOGGING IN TO YOUR ACCOUNT AND CANCELING SERVICE OR BY EMAILING OUR WELLNESS TEAM, AT INFO@SAKARALIFE.COM. YOU CANNOT CANCEL YOUR FIRST WEEK’S ORDER, AND ALL FUTURE WEEKS MUST BE CANCELED BY 11:59PM EST ON THURSDAY THE WEEK PRIOR TO DELIVERY. YOU WILL BE RESPONSIBLE FOR ALL CHARGES (INCLUDING ANY APPLICABLE TAXES AND OTHER CHARGES) INCURRED WITH RESPECT TO ANY MEAL ORDER PROCESSED PRIOR TO THE CANCELLATION OF YOUR MEAL PROGRAM SUBSCRIPTION.
+YOU MAY CANCEL YOUR MEAL SUBSCRIPTION AT ANY TIME BY LOGGING IN TO YOUR ACCOUNT AND CANCELING SERVICE OR BY EMAILING OUR WELLNESS TEAM, AT INFO@SAKARALIFE.COM. YOU CANNOT CANCEL YOUR FIRST WEEK’S ORDER, AND ALL FUTURE WEEKS MUST BE CANCELED BY 11:59PM ON WEDNESDAY THE WEEK PRIOR TO DELIVERY. YOU WILL BE RESPONSIBLE FOR ALL CHARGES (INCLUDING ANY APPLICABLE TAXES AND OTHER CHARGES) INCURRED WITH RESPECT TO ANY MEAL ORDER PROCESSED PRIOR TO THE CANCELLATION OF YOUR MEAL PROGRAM SUBSCRIPTION.
 
-Orders can be cancelled for a 100% refund up to 7 days prior to the start of your program, with the exception of your first week’s order, which cannot be cancelled. If you need to make changes to your first week, you must email info@sakaralife.com before Thursday at midnight EST the week prior to request the change.
+Orders can be cancelled for a 100% refund up to 7 days prior to the start of your program, with the exception of your first week’s order, which cannot be cancelled. If you need to make changes to your first week, you must email info@sakaralife.com before Wednesday at midnight EST the week prior to request the change.
 
 SHIPPING, HANDLING, AND DELIVERY
 
@@ -95,7 +95,7 @@ Sakara is not responsible for damage or loss of personal property during deliver
 
 PROGRAM AND DELIVERY MODIFICATIONS 
 
-If you are traveling, you can reschedule your deliveries by signing into your account, or email us at [info@sakaralife.com](mailto:info@sakaralife.com) for help. Because all meal programs are made to order, we require that you let us know by Thursday at midnight EST of any changes to be made for programs beginning the following week, including but not limited to paused delivery, address changes, meal modifications, and delivery window changes. 
+If you are traveling, you can reschedule your deliveries by signing into your account, or email us at [info@sakaralife.com](mailto:info@sakaralife.com) for help. Because all meal programs are made to order, we require that you let us know by Wesnesday at midnight of any changes to be made for programs beginning the following week, including but not limited to paused delivery, address changes, meal modifications, and delivery window changes. 
 
 WEATHER & TRAFFIC ALLOWANCES
 
@@ -109,7 +109,7 @@ RETURNS, REPLACEMENTS, REFUNDS, AND CREDITS
 
 Since our products are handcrafted and made-to-order with fresh ingredients, we cannot accept returns. All sales are final. If a product arrives damaged or you have concerns, please contact our Wellness Team (info@sakaralife.com). We do our best to ensure a flawless experience, and depending on the circumstances, we may, in our sole discretion, replace the meal or products, provide you with a full or partial refund for the purchase price of that meal or products, or provide you with a credit for that meal or product that will be automatically applied to future deliveries under your meal subscription. If issued, a refund may take 3-5 business days to show up, depending on which bank you use. If you are provided with a credit for a future program, we may implement the credit in a variety of ways at our discretion, including extending the program for you ourselves, providing you with a discount code to use on a future order, or applying a credit to your account, which will be automatically deducted from your next payment. If you have any questions regarding the replacement, refund, and credit logistics, please reach out to us at [info@sakaralife.com](mailto:info@sakaralife.com) for help.
 
-Refunds will not be issued for delays that are the result of factors outside Sakara’s control, including but not limited to weather, traffic, and unexpected events as they relate to our delivery partners. If for any reason have we have to cancel your delivery, you will be notified by email, and the number of meals canceled will be automatically added to the end of your program. If this does not suit your schedule, please let us know and we will do our best to find a better arrangement.
+Refunds will not be issued for delays that are the result of factors outside Sakara’s control, including but not limited to weather, traffic, and unexpected events as they relate to our delivery partners. If for any reason have we have to cancel your delivery, you will be notified by email, and the number of meals canceled will be credited to your account which will be applied towards your next subscription payment. If this does not suit your schedule, please let us know and we will do our best to find a better arrangement.
 
 DISCLAIMER
 
