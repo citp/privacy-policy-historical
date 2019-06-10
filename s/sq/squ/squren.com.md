@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the squren.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012142818id_/http%3A//squren.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squren.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610191410id_/http%3A//squren.com/privacy.html) for the most accurate reproduction.*
 
 # Squren Ad Network | Privacy Policy
 
 ####  Privacy 
 
-Effective on 1 August 2016
+Effective on 1 August 2018
 
 We take your privacy seriously. Because in certain circumstances we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Squren website that you were viewing when you clicked through to this policy, which is operated directly by us. 
 
