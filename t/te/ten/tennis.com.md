@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tennis.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210033855id_/http%3A//www.tennis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennis.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610204431id_/http%3A//www.tennis.com/privacy-policy) for the most accurate reproduction.*
 
-# TENNIS.com
+# TENNIS.com - Live Scores, News, Player Rankings
 
 Thank you for visiting TENNIS.com, a Tennis Media Co LLC site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Tennis Media Co LLC. This web site is governed by this Privacy Notice.
 
