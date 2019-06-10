@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updazz.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814131316id_/http%3A//www.updazz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updazz.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610092638id_/https%3A//www.updazz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - updazz.com
 
