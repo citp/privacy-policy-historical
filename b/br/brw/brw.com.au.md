@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625021539id_/http%3A//www.fairfax.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610182807id_/https%3A//www.afr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Fairfax Media Limited
+# PRIVACY | afr.com
 
 You have come through to this page from a website which is published by a subsidiary of Fairfax Media Limited.
 
@@ -163,7 +163,4 @@ Our website may contain links to other websites operated by third parties. We ma
 We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in February 2017.
 
 **Tracking and Targeting**  
-[Tracking and Targeting Policy](https://web.archive.org/trackingandtargeting?Embed=Y)
-
-  
-
+[Tracking and Targeting Policy](https://www.afr.com/tracking-and-targeting?Embed=Y)
