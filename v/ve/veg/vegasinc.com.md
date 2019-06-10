@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegasinc.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901035844id_/https%3A//vegasinc.lasvegassun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasinc.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611013820id_/https%3A//vegasinc.lasvegassun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VEGAS INC
 
@@ -108,7 +108,7 @@ The Company does not knowingly collect or solicit personally identifiable inform
 
 * * *
 
- **Unsubscribing Procedure** The Company's Web site users or members who wish to subscribe or unsubscribe to our marketing and promotional e-mail products can do so by using the subscribe/unsubscribe options at [Newsletters](http://pages.exacttarget.com/page.aspx?QS=773ed3059447707df3ed381f9875c43fb63cd8e3978c804e8f68b297a99b9a50). If you have subscribed to one of our e-mail newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an e-mail newsletter or by going back to our site). back to top
+ **Unsubscribing Procedure** The Company's Web site users or members who wish to subscribe or unsubscribe to our marketing and promotional e-mail products can do so by using the subscribe/unsubscribe options at [Newsletters](https://pages.exacttarget.com/page.aspx?QS=773ed3059447707df3ed381f9875c43fb63cd8e3978c804e8f68b297a99b9a50). If you have subscribed to one of our e-mail newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an e-mail newsletter or by going back to our site). back to top
 
 * * *
 
