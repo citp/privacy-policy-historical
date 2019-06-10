@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinspires.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224014843id_/http%3A//churchilldownsincorporated.com/our_company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinspires.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610022029id_/http%3A//churchilldownsincorporated.com/our_company/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Churchill Downs Incorporated
 
