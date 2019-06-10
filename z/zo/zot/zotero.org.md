@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zotero.org privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121012009id_/https%3A//www.zotero.org/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zotero.org privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610205831id_/https%3A//www.zotero.org/support/privacy) for the most accurate reproduction.*
 
 # privacy [Zotero Documentation]
 
@@ -60,6 +60,18 @@ You can disable all automatic communication with Zotero servers from the Zotero 
 If automatic syncing or automatic translator/style updates is enabled, Zotero will maintain a persistent connection to Zotero servers when it is open in order to provide immediate updates. You can disable this connection by disabling both of those options or by setting `extensions.zotero.streaming.enabled` to false in the Config Editor. 
 
 If you use the Zotero Connector without having Zotero open, the Connector will make a daily request to Zotero servers for information on available site translators. It will then download translators for the sites you visit. For example, if you load a _New York Times_ article, the Connector will download Zotero’s _New York Times_ translator and cache it. If Zotero doesn’t have a translator for a specific site, no request will be made. No information on the specific pages you visit is transmitted, and subsequent requests won’t be made for the same translator until you restart your browser or the translator is updated. You can avoid these requests by keeping Zotero open while you browse the web. 
+
+## Permissions Warnings
+
+When using third-party platforms, we strive to request the most restrictive permissions available that still allow Zotero to perform its advertised functions. In some cases, the necessary permissions can sound a bit scary, so we want to explain why they’re necessary. 
+
+### Zotero Connector
+
+When installing the Zotero Connector, your browser will warn you that the extension can “Read and change all your data on the websites you visit” (or similar). This is the standard permission that browser extensions that run on all pages require. Zotero uses it to determine what content it can save on a given page and update the save button accordingly, as well as to provide advanced features such as automatic proxy redirection and automatic RIS/BibTeX import. No data is stored except when you choose to save a page to either your local or online Zotero library. 
+
+### Google Docs Integration
+
+When you first use Google Docs integration, Google will ask you to grant Zotero Google Docs Integration permission to “View and manage your Google Docs documents”. The plugin requires this permission to insert citations into your documents. The plugin doesn’t do anything else with your document content and doesn’t access documents other than the ones on which it’s triggered. The integration works entirely locally on your computer, so even when you trigger the plugin on a given document, nothing is sent to Zotero servers. 
 
 ## Storage Purchases
 
