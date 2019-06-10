@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the moveon.org privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622171727id_/https%3A//front.moveon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moveon.org privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610201105id_/https%3A//front.moveon.org/privacy-policy/%3Futm_source%3Dfront%26utm_content%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | MoveOn.Org | Democracy In Action
 
 This website, http://civic.moveon.org (the “Site”) is operated by MoveOn.org Civic Action (“We” or “Us”). **We work hard to protect your privacy.** We’re members too, and we treat your privacy as we do our own. We wrote this privacy policy to let you know how we treat your personal information – and to show you all the ways we work to keep it safe and private.
 
-If at any time you would like to unsubscribe from our email list, you may do so by [completing this form](https://www.moveon.org/subscrip/i.html). The Site is directed to users in the United States only.
+If at any time you would like to unsubscribe from our email list, you may do so by [completing this form](https://act.moveon.org/unsubscribe/unsubscribe/). The Site is directed to users in the United States only.
 
 MoveOn.org will send you updates by e-mail. You may be contacted by phone to coordinate your participation in MoveOn events.  
 We do not share the information you’ve given us with unaffiliated groups without your explicit permission. We may share some of your personal information with the following affiliated groups:
@@ -28,6 +28,8 @@ Please review this privacy policy periodically because we modify it from time to
 
 This privacy policy applies to transactions and activities in which you engage and data gathered only on the Site. **This privacy policy does not apply to any other website or any offline contact between MoveOn.org Civic Action and any other entity or offline contact between you and MoveOn.org Civic Action.**
 
+MoveOn does not collect or maintain any personal data from any persons not resident in the U.S. or in U.S. territories or possessions. Thus MoveOn does not collect or maintain any personal data from any EU data subjects within the meaning of the General Data Protection Regulation. If you believe that MoveOn has collected personal data from you and you are outside the United States, U.S. territories and possessions, please contact MoveOn at the contact link provided at the end of this Privacy Policy, and MoveOn will remove such data from its records, and contact you to confirm that has been done.
+
 **Sharing of Information Between MoveOn.org Civic Action and MoveOn.org Political Action**
 
 MoveOn.org Civic Action is a 501(c)(4) organization that primarily focuses on nonpartisan education and advocacy on important national issues. MoveOn.org Political Action is a federal political committee that primarily helps members elect candidates who reflect our values through a variety of activities aimed at influencing the outcome of the next election. MoveOn.org Civic Action and MoveOn.org Political Action are separate organizations. However, they’re both interested in promoting your participation in the democratic process. As such, when you provide your personal information to MoveOn.org Civic Action , we share it with MoveOn.org Political Action , with the exception of credit card information with which you may provide us in order to make a donation. Please see the Financial Donations section, below, for more information about donations.
@@ -42,11 +44,11 @@ In certain cases, we enable you to send individual e-mails to the President, leg
 
 **Financial Donations**
 
-If you choose to make a donation to MoveOn.org Civic Action, your credit card information will be used only for this transaction through our secure online payment system. MoveOn.org Civic Action does not retain credit card information .
+MoveOn treats our donors’ credit card information with the highest level of privacy and security, following industry best practices. Our donation pages use a secure (SSL/https) connection to send credit card data directly to a leading payment processor that is certified Payment Card Industry (PCI) compliant. MoveOn never has access to or stores credit card numbers in any format on any of our servers.
 
 **Phone Campaigns**
 
-From time to time, MoveOn.org Political Action staff members, volunteers, and vendors may contact you by telephone about urgent campaigns. If you would like to be removed permanently from our phone list, please click here. Please allow 8-10 business days for your information to be removed.
+From time to time, MoveOn.org Political Action staff members, volunteers, and vendors may contact you by telephone about urgent campaigns. If you would like to be removed permanently from our phone list, please [click here](https://front.moveon.org/frequently-asked-questions-about-outreach/). Please allow 8-10 business days for your information to be removed.
 
 **Children**
 
@@ -84,4 +86,4 @@ If you have any questions about this privacy statement, your personal informatio
 
 **Email from MoveOn.org Civic Action**
 
-MoveOn will send you updates on this and other important campaigns by email. If at any time you would like to unsubscribe from our email list, you may do so by [completing this form](https://www.moveon.org/subscrip/i.html).
+MoveOn will send you updates on this and other important campaigns by email. If at any time you would like to unsubscribe from our email list, you may do so by [completing this form](https://act.moveon.org/unsubscribe/unsubscribe/).
