@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the simicart.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504003449id_/http%3A//www.simicart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simicart.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610190953id_/https%3A//www.simicart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SimiCart.Com
 
 ## Privacy Policy
 
-At [SimiCart](http://www.simicart.com/ "Simicart - Magento Mobile App Builder") we recognize that privacy is important and we are committed to protecting your privacy. This policy describes the ways we collect, store, use and protect your personal information. We assume that you accept our policy when you sign up and use our services.
+At SimiCart we recognize that privacy is important and we are committed to protecting your privacy. This policy describes the ways we collect, store, use and protect your personal information. We assume that you accept our policy when you sign up and use our services.
 
 **Information Collected**
 
-When you visit [http://www.simicart.com](http://www.simicart.com/ "Simicart - Magento mobile app builder"), we collect your IP address and web browser information. If you want to create an account at http://www.simicart.com/, we require that you provide your personal information: name, address and email address. When you use SimiCart’s products and services, you may need to give us some additional information: address, phone, website and website platform.
+When you visit [http://www.simicart.com](http://www.simicart.com/ "Simicart - Magento mobile app builder"), we collect your IP address and web browser information. If you want to create an account at http://www.simicart.com/, we require that you provide your personal information: name, address and email address. When you use SimiCart’s products and services, you may need to give us some additional information: address, phone, and website.
 
 **How we use your information**
 
