@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindustanlink.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128191348id_/http%3A//www.hindustanlink.com/termsofuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindustanlink.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610020236id_/http%3A//www.hindustanlink.com/termsofuse.htm) for the most accurate reproduction.*
 
 # Hindustanlink.com : Privacy Policy & Terms of Use
 
@@ -59,4 +59,4 @@ Any questions or clarifications with respect to this Policy can be sent to Hindu
 jainmaonj(AT)gmail.com or by snail mail addressed to Hindustanlink.com (Privacy Policy), P-121, LAKE TOWN, BLOCK -B,   
 KOLKATA - 700 089, INDIA - or by calling our number at +91-9830068765. 
 
-**[BACK](https://web.archive.org/web/20181128191348id_/http%3A//www.hindustanlink.com/index.htm)**
+**[BACK](https://web.archive.org/web/20190610020236id_/http%3A//www.hindustanlink.com/index.htm)**
