@@ -1,147 +1,112 @@
-> *The following text is extracted and transformed from the marriland.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219090123id_/http%3A//www.curse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriland.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610204912id_/https%3A//marriland.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Curse
+# Privacy Policy • Marriland.com
 
-Region: [](https://web.archive.org/privacy) [](https://web.archive.org/privacy-uk) [](https://web.archive.org/web/20151219090123id_/http%3A//www.curse.com/privacy-de)
+## TL;DR Version (aka Short Version)
 
-**CURSE, INC. PRIVACY POLICY**
+**Marriland.com** uses standard stuff you find on the internet that may track your visit to pages on the site (with cookies — not the tasty kind).
 
-_Last updated December 15, 2015_
+  * **Google  Analytics** so I know how many people are visiting, what state/province/country visitors are from, what pages they’re visiting, and stuff like that.
+  *  **Google Adsense** to serve personalized ads based on your browsing history. A site — _with  ADS _on it?! Never seen one of those on the internet, am I right?! (Heck, you might even have an ad-blocker on… 🙁 The ads here aren’t so bad, though, so maybe you’ll be nice and turn it off here!)
+    * Don’t like personalized ads from Google? You can opt-out by [following the linked instructions](https://support.google.com/ads/answer/2662922?hl=en).
+  *  **YouTube** videos, **Facebook** share buttons, **Twitter** share buttons or embeds. These kinda just… happen, you know? It’s not like I’m telling them _“Hey here’s this person, take all of their PRIVACIES!!1”_ but they just kinda do that stuff to do what they do.
+  *  **Amazon Associates** links will place a cookie telling Amazon that your visit came from my site. They may track it or process it according to their policies.
+  * The **[Marriland Forums](https://forums.marriland.com/)** are operated independently from the rest of the site and are governed by their own [Privacy Policy](https://forums.marriland.com/help/privacy-policy/), [Cookie Policy](https://forums.marriland.com/help/cookies/), and [Terms of Service](https://forums.marriland.com/help/terms/).
 
-**_Our Privacy Commitment_**
 
- Welcome to Curse!  Curse, Inc. (“ ** _Curse,_** ” “ ** _we,_** ” “ ** _us_** ” or “ ** _our_** ”) is committed to respecting the privacy rights and concerns of all users of the Curse service provided on or through our websites, including [www.curse.com](http://www.curse.com/) (the “ ** _Site(s)_** ”), and on or through software applications made available by Curse (we refer to the Site(s) and such software applications made available by Curse as the “ ** _Service Applications_** ” and we refer to the Service Applications and the services made available through the Service Applications collectively as the “ ** _Curse Features_** ”).  As such, we have established and implemented this Privacy Policy to inform visitors to the Site(s) and users of the Curse Features how we use and protect the information we collect through the Site(s) and through our software applications.  By visiting the Site(s) or using any of the Curse Features, you consent to Curse’ collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy.  This Privacy Policy is effective as of the date set forth above and is only applicable to the Site(s) and our software applications and not to any other website or third party software applications that you may be able to access from the Curse Features which may have their own data collection and use practices and policies.
 
-**About Us**
+That _should_ be the basics. Hopefully it’s easy-to-read and has enough common sense for you to decide whether or not you feel comfortable continuing your use on the Marriland website.
 
-If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at [contact@curse.com](mailto:contact@curse.com).
+If you want more _juicy  walls of privacy policy text_, look no further, because I’ve got plenty more down below for you to pretend to read.
 
-We can also be contacted at the following addresses:
+## What Data We Collect And Why
 
-Curse, Inc.305 Church Street SWHuntsvilleAL 35801United States of America
+We (“Marriland”) collect data pertaining to visits on the Website (“Marriland.com”) in order to: better understand the site’s audience through analytics; serve dynamic, personalized advertisements; provide embedded content such as videos and social media excerpts; and track inbound and outbound links to affiliate sites and services.
 
-This policy answers the following questions:
+Personal data such as your real name, e-mail address and street address are not collected through any first- or third-party unless you voluntarily supply this information. Geolocation data, sufficient to identify your state, province, and/or country, may be gathered by third-party services such as Google Analytics.
 
-  * What information do we collect about you and how do we use it?
-  * Will we share your personal information with third parties?
-  * What choices do you have about the collection and use of your personal information?
-  * What security measures do we take to safeguard your personal information?
+Country data may be used to personalize your experience in order to comply with certain regional laws, such as the GDPR for viewers from the European Economic Area to whom it applies. This information is gathered server-side using your IP address as a means to check your location. Your IP address and browser headers may be included in server logs used for diagnostic reasons.
 
+Information gathered directly by the Website is not sold, resold, or distributed to any service other than the mentioned services. Aggregate data, such as total number of monthly users or pageviews, may be relayed to third-parties interested in marketing or advertising. Data gathered by third-party services are subject to their respective data collection and/or retention policy, as well as their own privacy policies.
 
+This data may be tracked by using Cookies to store metadata on your browser that can be referenced and reused by the Website and its third-party services. How these Cookies are used is outlined in the Website’s Cookie Policy.
 
-**What information do we collect about you and how do we use it?**
+## Who We Share Data With
 
-**Types of Information We Collect**
+### Google Analytics
 
-Personal information means information that can be used to identify and contact you. You do not need to submit personal information to access our Site(s), but if you do not want to disclose certain personal information to us, you will not be able to access certain aspects of the Curse Features.  
+Aggregate data is shared with Google to provide analytics through their Google Analytics service. The data obtained should not be capable of uniquely identifying any user or visitor of the website and is intended to provide an aggregate look at overall viewership to the site, including traffic patterns, sources, behavior, and so on.
 
-We collect personal information when you create an account through the Curse Features; subscribe to our newsletter; utilize voice communication tools made available through the Curse Features; participate in chat rooms, forums, polls, surveys, and questionnaires; participate in contests, sweepstakes, other promotions, or opt into third party offers and/or newsletters; purchase a product through the Curse Features; register a product that you have purchased; or receive customer or technical support.
+IP addresses collected by Google Analytics [are anonymized](https://support.google.com/analytics/answer/2763052) before being sent and recorded by Google’s servers. This still provides enough geolocation data to determine state or country, but not enough to uniquely identify a given user.
 
-To create an account for the Curse Features, we require you to provide your name, email address and country in which you reside.  You will also need to create a screen name.  When you are purchasing premium services or products through the Curse Features you may have to submit personal information to our billing partner, PayPal, including your email address, billing address and additional billing information depending on your preferred method of payment through PayPal, such as your credit card number. When you enter a contest or sweepstakes with Curse, in addition to your screen name, name and email address, we will ask for your mailing address in case we have to mail you a prize, and may ask you to opt into receiving a third party’s offers and/or newsletter.
+You can learn more about Google Analytics and its policies by [visiting their website](https://support.google.com/analytics/answer/6004245?hl=en).
 
-Additionally, we may also collect other types of information (known as demographic information) such as your gender, hobbies, occupation, platform preferences, and other game ownership information. This demographic information may be associated with your personal information.
+### Google AdSense and Its Partners
 
-We also offer features that allow you to link your account to third party social networking sites through the Curse Features, such as Facebook.  If you sign up for one of these services, we may also collect personally information from these Internet sources and database services.
+Google and its partners are responsible for serving advertisements on the Website. Unless you [opt-out](https://www.google.com/settings/ads), these advertisements may be personalized based on your browsing history across other sites through the use of Cookies.
 
-Through the Curse Features, you may be able to link to technology, software and services owned and controlled by third parties (the “ ** _Third Party Features_** ”). You may be permitted or required to submit personal information to access Third Party Features. Such use of Third Party Features and submission of information through Third Party Features will be subject to such applicable third party’s terms of use, terms of service and/or privacy policy. You agree to look solely to the applicable third party and not to Curse to enforce your rights in relation thereto.
+By default, Cookies are also set upon visiting each page on the Website to further personalize your ad experience here and on other sites in Google’s ad network.
 
-By submitting personal information through the Curse Features, you authorize Curse to share this personal information for the purposes identified herein and as described in the Curse Features, such as responding to user inquiries and processing transactions.
+Any personalization or ads shown to any individual viewer of the Website is inaccessible to the Website’s owner or operators — for example, if your personalized experience is showing you ads for cars, the Website owner (Marriland) would not be able to identify that you, specifically, are into cars or looking for a new car. This information is only provided to Google and its ad network partners.
 
-**How We Use Your Personal Information**
+You can learn more about Google advertisement policies by [visiting their website](https://policies.google.com/technologies/ads?hl=en).
 
-The personal information you provide to us will allow us to fulfill your product or service order; alert you of new products or services, features, or enhancements; handle/route your customer service questions or issues; and/or notify you of upgrade opportunities, contests, promotions, or special events and offers. We also use your e-mail address to send you messages about the Curse Features and other general announcements. Additionally, personal information you make public will be viewable by other users of the Curse Features.  We keep track of your interactions with us, including but not limited to your activity within the Curse Features. We may use personal information that you provide to us to send messages to you in response to your request to perform an activity in connection with your use of any of the Curse Features. We may also use your personal information to contact you when necessary for service issues. 
+### Amazon
 
-We may use your personal information by making it non-personally identifiable, and then aggregating it with other information that we have collected in a manner such that the end-product does not personally identify you or any other user of the Curse Features.  When we do this, we make your personal information non-personally identifiable by either combining it with information about other users (aggregating your personal information with information about other users without identifying you personally), or by removing characteristics (such as your name or email address) that make the information personally identifiable.  This process is known as de-personalizing your information.  You grant us a royalty-free, worldwide, perpetual, irrevocable and fully transferable right and license to use your de-personalized information in connection with the creation and development of analytical and statistical analysis tools relating to the use of the customer data we collect in providing the Curse Features (the “ ** _Analytical Data_** ”). We are expressly authorized to make any commercial use of the Analytical Data, including without limitation, sharing the Analytical Data with third parties, provided that we do not sell, trade, or otherwise transfer from us any part of the Analytical Data that personally identifies you in any way. 
+As part of the Amazon Associates program, certain pages on the Website may include affiliate links to products on [Amazon.com](https://amazon.com/). These instances will always be disclosed with a disclaimer at the bottom of any page containing them.
 
-**Cookies**
+By clicking through one of the aforementioned links, a Cookie may be placed on your browser indicating that the Website (Marriland.com) was the referrer. Additionally, you are then subject to [Amazon’s Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496) by using their website.
 
-“Cookies” are small bits of electronic information that a website sends to a visitor’s browser and are stored on the visitor’s hard drive. Like many websites, we employ cookies in certain areas of the Curse Features to allow us to provide information which is targeted to your interests and to make your online experience more convenient. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are.  Should you disable cookies in your browser, you will have to provide your screen name and password each time you log in.  Additionally, advertisements that are managed by third parties which may appear on the Curse Features use cookies. Advertisers use cookies to collect non-personal information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. Advertisers use this information to monitor the performance of their advertisements. In some cases, we may have access to information from cookies used by these advertisers on the Curse Features and this information may permit us to identify other sites that you have visited that are also associated with such advertisers.  
+### YouTube
 
-To disable cookies on your browser, you will need to change your browser settings on your internet enabled device. For more information on how to disable cookies, please see the Help section in your browser (or the settings function on your mobile device) or visit [www.aboutcookies.org](http://www.aboutcookies.org/). For further information on managing behavioral advertising, please visit [www.youronlinechoices.com/](http://www.youronlinechoices.com/uk/)
+On any page containing an embedded YouTube video, loading that video and/or interacting with it may share data with YouTube.
 
-**Do Not Track**
+If you have an account on YouTube, playing or interacting that video may save such interactions to your account or its history.
 
-Some web browsers and devices permit you to broadcast a preference that you not be “tracked” online. At this time we do not modify your experience based on whether such a signal is broadcast. To learn more about browser tracking signals and “Do Not Track,” please visit [http://allaboutdnt.org](http://allaboutdnt.org/).  
+If you do not have an account on YouTube or are not logged into your account on YouTube on the browser you are viewing the Website on, information may still be tracked for analytic purposes, such as registering total views on the video, tracking total time watched, and similar features.
 
-**Google Analytics**
+You can learn more by reviewing [YouTube’s (Google’s) privacy policy](https://www.google.com/intl/en/policies/privacy/).
 
-The Curse Features use Google Analytics to help us learn about who visits and uses the Curse Features and what pages are being viewed.  To understand how Google uses your data when visiting and using the Curse Features, please visit <http://www.google.com/intl/en/policies/privacy/partners/>
+### Twitter, Facebook and Instagram
 
-**Log Information**  
+When you click through to any social media links to share posts, pages, tools, or other features on the site, you will be taken to the appropriate social media site and will then be governed by the privacy policies of that service.
 
-Our servers automatically record information that your browser sends whenever you visit our Site(s).  Additionally, some of the Curse Features may collect information regarding your computer system.  This information includes your Internet Protocol address, your browser type and version, the search engine you used to find the Curse Features, if any, the operating system your computer uses, the type of computer hardware you have (such as the amount of RAM, the type of GPU or type of CPU in your computer) which Curse Features you use and when and how long you use them.  We use this information to monitor and analyze how users use the Curse Features, to provide customer service and to maintain and improve the Curse Features.
+Additionally, some social media posts that are embedded into the Website (Marriland.com) may also track your interaction or behavior in regards to the included post, such as whether it was viewed, clicked on, whether you are logged in or not, and so on.
 
-**Children’s Privacy**
+You can learn more about Twitter’s policies on the matter [on their website](https://help.twitter.com/en/rules-and-policies/twitter-cookies).
 
-The Curse Features are expressly not intended for children under the age of 13. We do not knowingly collect or maintain any personal information or non-personally-identifiable information from anyone under the age of 13 nor is any part of our website, software or service directed to children under the age of 13. We will close any accounts used exclusively by such children and will remove and/or delete any personal information we believe was submitted by any child under the age of 13.
+### Bitly
 
-**_Will we share your personal information with third parties?_**
+The Website makes use of “short URLs” or “shortlinks” for various purposes, primarily to make easier-to-type URLs or URLs that take up fewer characters in their links. The two domains that are associated with Marriland short URLs are **marri.land** and **marri.me**.
 
-**Sharing of Information**
+These two domains use [Bitly’s URL shortening service](https://bitly.com/) to shorten URLs and redirect them to destination pages on the Website. These shortened URLs also provide analytics shared with Bitly to measure the traffic, traffic sources, and other analytics.
 
-We may use your personal information to provide analyses of our users in the aggregate (including the Analytical Data) to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, affiliation, position, interests and other non-personal information about customers. We may share your personal information with carefully selected vendors and business partners, including companies that perform marketing services and other business operations for us, under strict terms described herein.
+You can learn more about Bitly’s privacy policy [on their website](https://bitly.com/pages/privacy).
 
-In addition, we will share the personal information we collect from you under the following circumstances:
+## Data Retention Policy
 
-  * _Protection of rights._   We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the Terms of Service for the Curse Features, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Curse Features, or (iv) such action is appropriate to protect the rights, property or safety of Curse, its employees, users of the Curse Features or others. 
+Due to the nature of the Website, any user-generated content will remain posted indefinitely, unless the user manually deletes their content using their account or requests (with verification) that their data be deleted by an administrator.
 
+Server logs are maintained for a 60-day period and are not publicly available. These are not shared with any third-party and are used solely for diagnostic or abuse prevention reasons.
 
-  * _Asset transfers.   _If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Curse’s assets, user information, including personal information collected from you through your use of the Curse Features, could be included in the transferred assets.  Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Site(s). 
+Anonymized analytic data on Google Analytics is retained for an indefinite period to monitor growth over time and understand trends so the Website can react accordingly.
 
+## The Marriland Forums
 
-  * _Service Providers.   _We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf.  For example, we have partnered with other companies to host and manage contests, fulfill product orders and prizes, and process payments.  Additionally, we may partner with other companies to process consumer surveys, or to process, analyze, and/or store data, including, but not limited to, Analytical Data.  While providing services for us, these companies may access your personal information.  To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures. 
+The Marriland Forums are community-run and operate independently from the rest of the Website. They are governed by their own [Privacy Policy](https://forums.marriland.com/help/privacy-policy/), [Cookie Policy](https://forums.marriland.com/help/cookies/), and [Terms of Service](https://forums.marriland.com/help/terms/).
 
+## COPPA Notice
 
-  * _Third Party Offers._   We may also share your personal information with third party partners when you have opted into receiving third party offers and/or newsletters on our Site(s).  We will not disclose your personal information to third parties for marketing purposes when you have not opted into receiving or have opted out of receiving such third party offers and/or newsletters through the Curse Features.  You may request that we stop sharing your information with a third party or third parties for direct marketing purposes after you have opted into such disclosure through the Curse Features by emailing us at [support@curse.com](mailto:support@curse.com) and informing us of your desire for us to stop providing your information to a specific third party or a list of specific third parties.  Curse’s disclosure to third party partners may be made for cross promotional purposes, but Curse will not receive compensation as the primary consideration for such disclosure.
+The Website is available to viewers of all ages and its market is primarily high-school teenagers and college-age adults that grew up playing Pokémon. Certain features and functionality may require parental consent for registered users under 13 years of age, such as registering for an account on the Website.
 
+If it is determined that a user is under 13 years of age, features and functionality will be disabled until a parent or legal guardian is able to provide verifiable consent that the child may access these features on the website.
 
+## GDPR (For European Viewers)
 
-**Additional Information You Should Know About Third Parties**
+Viewers located within the European Economic Area are afforded rights under the GDPR, and the Website intends to be as transparent and straightforward as possible in ensuring those rights are respected. Please first understand that this is just a small Pokémon fansite based in the United States, not a billion-Euro corporation.
 
-The Curse Features may contain direct links to websites operated by our business partners and other third party entities. These third party websites may collect information about you when you visit them or otherwise communicate with them. This Privacy Policy does not cover the information practices of third party websites linked to the Curse Features or third party offer and/or newsletter opt-ins provided through the Curse Features. Although we encourage such third parties to adopt and follow their own privacy policies, we are not responsible for their collection and use of your personal information.  You should refer to the privacy policies and statements of other websites or contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies. 
+Upon visiting the Website for the first time, a notification should have appeared for you asking whether or not you accept the Privacy Policy, as well as offering you a chance to read it here. This is based on your IP address indicating that you are currently located in the European Economic Area and stores a Cookie on your browser after answering in the affirmative.
 
-When you have clicked on an advertisement or third party logo or URL displayed on our Site(s) or accessible through the Curse Features which links you to a different website, our Privacy Policy no longer applies and you must read the privacy policy of the third party to see how your personal information will be handled on their website.
+Should you require your personal data to be removed from the Website systems, you must contact us with the information you are requesting removed, as well as valid proof of your identity to determine the legitimacy of your request. Likewise, requests for personal data for the sake of portability require proof of identity.
 
-The Curse Features may also have message boards, forums and/or chat areas, where users can exchange ideas and communicate with one another.  When you post to a message board, forum or chat area, please be aware that the information you post is made publicly available on-line and you do so at your own risk.
-
-**_What choices do you have about the collection and use of your personal information?_**
-
-**Control of Your Information**
-
-We may use third-party advertising companies, such as Yahoo!, Google, OpenX and Lijit to serve ads when you visit the Curse Features.  These companies may use information about your interests in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Digital Advertising Alliance’s](http://www.aboutads.info/choices/) or [Network Advertising Initiative’s](http://www.networkadvertising.org/managing/opt_out.asp) website.
-
-You may update or delete your personal information or modify your account preferences for the Curse Features by accessing the “My Account” area of the Curse Features or sending us an email to [support@curse.com](mailto:support@curse.com) requesting us to update or delete your personal information. However, information previously shared with other users through a chat room, forum or otherwise may not be deleted.  Please note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities.
-
-**Opting Out of Receiving Communications from Us**
-
-If you no longer want to receive our newsletter, e-mails or other announcements, you may unsubscribe by selecting “unsubscribe” in your account, writing to us at contact@curse.com or replying to the unsubscribe link at the bottom of our e-mails.  Please note that you cannot unsubscribe from certain service related correspondence from us, including messages relating to your account transactions.  If you wish to unsubscribe from any newsletters, offers, e-mails or other announcements from our third party advertising partners that you have opted into through the Curse Features, you will need to contact such third party advertising partner directly through their independent website(s) or by clicking on the unsubscribe link at the bottom of any such emails (if any).
-
-**Mediation**
-
-If you are a resident of a country outside of the European Union, you also agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy that you and Curse will attempt in good faith to negotiate a written resolution of the matter directly between the parties.  You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in San Francisco, California with a mutually agreed mediator in an attempt to resolve the dispute.  Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorney’s fees, even if you would otherwise be entitled to them.
-
-**Dispute Resolution for Residents of the European Union**
-
-If you are a resident of the European Union, in the event that you have any dispute or claim arising out of or relating to this Privacy Policy, you may, in addition to, or instead of, contacting us in the first instance, report your claim to the Data Protection Authority located in your jurisdiction. 
-
-**_What security measures do we take to safeguard your personal information?_**
-
-The personal information that you provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information.  In addition, we restrict access to personal information to Curse employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Curse Features.  All Curse personnel who have access to this information are trained in the maintenance and security of such information.  However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure.  As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or through the use of any of the Curse Features and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk.  Once we receive a transmission from you, we will endeavor to maintain its security on our systems.
-
-**_European Union and Switzerland Directive on Data Protection - Safe Harbor_**
-
-THE PERSONAL INFORMATION THAT YOU PROVIDE TO US MAY BE TRANSFERRED TO, PROCESSED AND STORED IN THE UNITED STATES OF AMERICA AND/OR OTHER JURISDICTIONS OUTSIDE OF THE EUROPEAN ECONOMIC AREA (“EEA”).  BY PROVIDING YOUR PERSONAL INFORMATION TO US, YOU ACKNOWLEDGE AND AGREE TO THIS TRANSFER, STORING AND PROCESSING OR YOUR PERSONAL INFORMATION OUTSIDE OF THE EEA.
-
-Curse complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Curse has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Curse’s certification, please visit <http://www.export.gov/safeharbor/>.
-
-**_Notification of Changes_**
-
-From time to time, we may update this Privacy Policy. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on the Site(s). We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and with whom we share it.
-
-**_Questions?   Contact Us_**
-
-If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at [contact@curse.com](mailto:contact@curse.com) or by writing to us at the addresses set out in the About Us section above.
-
-**_Terms of Service_**
-
-Please read the [Terms of Service](http://www.curse.com/content/termsofservice.aspx) and [Premium Subscription Additional Terms of Service](http://www.curse.com/content/premiumtos.aspx) ** ** governing the use of the Site(s) and the Curse Features.
+Keep in mind that some information and data is stored by third-parties and is inaccessible for the Website to access or remove. You may need to reach out to the services listed above to request their data be removed or for their data to be made available.
