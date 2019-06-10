@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usedfirst.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201181245id_/http%3A//usedfirst.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedfirst.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610160212id_/http%3A//www.usedfirst.com/privacy) for the most accurate reproduction.*
 
 # Used First Privacy Policy
 
@@ -14,6 +14,10 @@ This privacy policy discloses the privacy practices for usedfirst.com. This priv
 ### Information Collection, Use, and Sharing
 
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to check availability of a vehicle. Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
+
+### Cookie Policy and Usage
+
+UsedFirst.com uses a single cookie called zipCode that is populated by an IP address based U.S. Postal code lookup mechanism. This is then used to provide more geographically relevant information to you such as vehicle listings, regional depreciation, insurance rates, etc. We do not store or retain this information. This has no impact on visitors outside of the US. 
 
 ### Your Access to and Control Over Information 
 
