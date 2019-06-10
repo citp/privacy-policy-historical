@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vroomvroomvroom.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903223312id_/https%3A//www.vroomvroomvroom.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vroomvroomvroom.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610083703id_/https%3A//www.vroomvroomvroom.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Learn About Our Privacy Policy - VroomVroomVroom
 
@@ -6,7 +6,7 @@ Vroom Group Holdings Pty Ltd (ABN 39 162 955 320) and our related companies incl
 
 We may update this Privacy Policy from time to time. The most current version will be located on our website, and is also available by contacting our Privacy Officer by email or at the address detailed below.
 
-By using our websites, including [vroomvroomvroom.com](https://www.vroomvroomvroom.com/)​, [vroomvroomvroom.com.au](https://www.vroomvroomvroom.com.au/)​, [vroomvroomvroom.com.uk](https://www.vroomvroomvroom.co.uk/index/)​, [vroomvroomvroom.co.nz](https://www.vroomvroomvroom.co.nz/)​, [bargainwheels.com.au](https://www.bargainwheels.com.au/)​, [carhire.com.au](https://www.carhire.com.au/)​, [v2btravel.com](https://v2btravel.com/)​ or any of our apps, or by providing any personal information to us, you consent to the collection, use and disclosure of your personal information as set out in this Privacy Policy. 
+By using our websites, including [vroomvroomvroom.com](https://www.vroomvroomvroom.com/), [vroomvroomvroom.com.au](https://www.vroomvroomvroom.com.au/), [vroomvroomvroom.com.uk](https://www.vroomvroomvroom.co.uk/index/), [vroomvroomvroom.co.nz](https://www.vroomvroomvroom.co.nz/), [bargainwheels.com.au](https://www.bargainwheels.com.au/), [carhire.com.au](https://www.carhire.com.au/), [v2btravel.com](https://v2btravel.com/) or any of our apps, or by providing any personal information to us, you consent to the collection, use and disclosure of your personal information as set out in this Privacy Policy. 
 
 ## Types of personal information collected
 
@@ -90,7 +90,7 @@ We may also disclose your personal information to third parties who work with us
 
 
 
-## ​Direct marketing
+## Direct marketing
 
 We will also use and disclose your personal information to send direct marketing to you from 
 
@@ -107,7 +107,7 @@ The direct marketing may relate to: 
 
 
 
-​You may opt-out of receiving this direct marketing through the unsubscribe function that will be made available to you with each direct marketing communication.
+You may opt-out of receiving this direct marketing through the unsubscribe function that will be made available to you with each direct marketing communication.
 
 ## How we store and protect personal information
 
@@ -141,9 +141,9 @@ Information is also generated whenever a page is accessed on our website that re
 
 Our website also collects cookies for use by analytics services, such as Google Analytics. These services use cookies and scripts to collect and store information, including how users interact with our website, errors users encounter when using our website, device identifiers, how often users visit the website, what pages they visit, and what other sites they used prior to coming to the website. We use the information we get from Google Analytics only to improve our website and our services. Please see the following links for more information about Google Analytics:
 
-  * <http://www.google.com/privacy_ads.html>​
-  * <http://www.google.com/privacy.html>​
-  * <http://www.google.com/analytics/tos.html>​ 
+  * <http://www.google.com/privacy_ads.html>
+  * <http://www.google.com/privacy.html>
+  * <http://www.google.com/analytics/tos.html> 
 
 
 
@@ -175,6 +175,6 @@ Telephone: 1300 363 992
 
 enquiries@oaic.gov.au
 
-OAIC complaints page: <http://www.oaic.gov.au/privacy/privacy-complaints>​
+OAIC complaints page: <http://www.oaic.gov.au/privacy/privacy-complaints>
 
 _Last updated on 21 August 2018_
