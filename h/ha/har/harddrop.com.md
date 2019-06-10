@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harddrop.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123101353id_/http%3A//harddrop.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harddrop.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610234532id_/http%3A//harddrop.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy » Hard Drop - Tetris Community & Forum
 
