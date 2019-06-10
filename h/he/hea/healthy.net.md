@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208073903id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610053330id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Natural and alternative health and wellness mega-site
 
@@ -22,25 +22,23 @@ HealthWorld Online does not disclose, share, sell or trade any personal or indiv
 
 HealthWorld Online uses a secure server for any ordering and credit card information you provide. The servers use Secure Sockets Layer (SSL), an advanced encryption technology that safeguards your personal information and guarantees privacy. Our check-out process is certified secure and verified by GeoTrust (www.geotrust.com) and we are an Authorize.net certified merchant.
 
-| **"Natural forces within us are the true healers of disease."**  
+| **"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."**  
 ---  
   
 | 
 
 The Healer Within
 
-| [Abdominal Lift](https://web.archive.org/scr/Column.aspx?Id=146)  
+| [Self Applied Massage](https://web.archive.org/scr/Column.aspx?Id=149)  
 ---  
-The technique described in the Dr. Roger Jahnke column "The Abdominal Lift" is a traditional yoga practice called Uddhiyana bandha. Stand with feet at about shoulder width, bend the knees slightly, bend... [ more](https://web.archive.org/scr/Column.aspx?Id=146)  
+Every original culture on the planet earth has a system of "hands on" healing. In western cultures this is generally called massage. As the movement toward alternatives to drugs and surgery progresses... [ more](https://web.archive.org/scr/Column.aspx?Id=149)  
   
-The Nut Gourmet
+There's a Yogi in the Kitchen!
 
-[Cranberry Walnut Pie](https://web.archive.org/scr/Column.aspx?Id=1044)  
+[The Stinking Healer!](https://web.archive.org/scr/Column.aspx?Id=355)  
 ---  
-Toss showy red cranberries, walnuts, and raisins into a pie crust and the result is a stunning dessert that features a zippy sweet-and-tart flavor. This tantalizing treat is an ideal, easy-to-prepare,... [ more](https://web.archive.org/scr/Column.aspx?Id=1044)  
+The February "There's a Yogi in the Kitchen" column by Siri-Ved Kaur Khalsa is "The Stinking Healer!" about garlic, one of the most ancient remedies in the history of humankind. Used as both a medicine and... [ more](https://web.archive.org/scr/Column.aspx?Id=355)  
   
 Popular & Featured Events
-
-Error Reading Event Calendar 
 
 [ ](http://www.healthy.net/prgm/HealthyAd.aspx?Ad=1145)
