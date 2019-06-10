@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xnspy.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426071357id_/http%3A//xnspy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xnspy.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610175828id_/https%3A//xnspy.com/privacy.html) for the most accurate reproduction.*
 
 # XNSPY Privacy Policy – How and what information is collected
 
@@ -28,7 +28,7 @@ We may collect non-personally identifiable information about Users whenever they
 
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for the purpose of keeping records and tracking information about them. Users may choose to set their web-browser to refuse cookies, or to alert them when cookies are being sent. If they do so, Users need to remember that some parts of the Site may not function properly. 
 
-For detailed cookies policy please [click here](http://xnspy.com/cookie.html). 
+For detailed cookies policy please [click here](https://xnspy.com/cookie.html). 
 
 ### OTHER AGGREGATE INFORMATION 
 
@@ -88,4 +88,4 @@ E-mail us at: [info@XNSPY.com ](mailto:info@XNSPY.com) and insert only the words
 
 ### DISCLAIMER 
 
-You are advised that it is considered a violation of United States federal and/or state law in most instances to install surveillance software, such as the XNSPY Software, onto a mobile phone or other device for which you do not have proper authorization, and in most cases you are required to notify users of the device that they are being monitored. Failure to do so is likely to result in violation of applicable law and may result in severe monetary and criminal penalties imposed on the violator. You should consult your own legal advisor with respect to legality of using the XNSPY Software in your jurisdiction prior to downloading and using the XNSPY Software. 
+You are advised that it is considered a violation of United States federal and/or state law in most instances to install surveillance software, such as the XNSPY Software, onto a mobile phone or other device for which you do not have proper authorization, and in most cases you are required to notify users of the device that they are being monitored. **It’s outright illegal to spy on your spouse, girlfriend/boyfriend, or partner using Xnspy.** Failure to do so is likely to result in violation of applicable law and may result in severe monetary and criminal penalties imposed on the violator. You should consult your own legal advisor with respect to legality of using the XNSPY Software in your jurisdiction prior to downloading and using the XNSPY Software.
