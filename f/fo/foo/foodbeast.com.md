@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodbeast.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229000446id_/http%3A//www.foodbeast.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodbeast.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610142535id_/https%3A//www.foodbeast.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy FOODBEAST
 
