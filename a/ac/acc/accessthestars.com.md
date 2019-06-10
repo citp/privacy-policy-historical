@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accessthestars.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629093845id_/http%3A//accessthestars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessthestars.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610092641id_/http%3A//accessthestars.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Access The Stars
+# Privacy Policy
 
 This privacy policy sets out how AccessTheStars.com uses and protects any information that you give AccessTheStars.com when you use this website.
 
