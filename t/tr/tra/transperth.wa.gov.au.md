@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transperth.wa.gov.au privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201023703id_/https%3A//www.transperth.wa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transperth.wa.gov.au privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610051405id_/https%3A//www.transperth.wa.gov.au/privacy) for the most accurate reproduction.*
 
 # Transperth Home
 
