@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extendstudio.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208063252id_/http%3A//www.extendstudio.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendstudio.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610071701id_/http%3A//www.extendstudio.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Company | ExtendStudio
 
