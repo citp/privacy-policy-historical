@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fxhome.com privacy policy that was archived on 2018-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180718211448id_/https%3A//fxhome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxhome.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610111236id_/https%3A//fxhome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - fxhome.com
 
-##### __This website uses cookies
+### __This website uses cookies
 
-We use cookies to personalise your content, analyse our traffic and improve your browsing experience. You consent to our cookies if you continue to use our website.
+We use cookies to personalise your content, analyse our traffic and improve your browsing experience. You consent to our cookies if you continue to use our website.
 
-Read more about our use of [cookies](https://web.archive.org/cookies). Understand your data by reading our [Privacy policy](https://web.archive.org/privacy).
+Read more about our use of [cookies](https://web.archive.org/cookies). Understand your data by reading our [Privacy policy](https://web.archive.org/privacy).
 
 [Options](https://web.archive.org/cookies#preferences)
 
@@ -52,7 +52,7 @@ It is important that the personal data we hold about you is accurate and current
 
 ### Third-party links
 
-Our website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+Our website may include links to third-party websites, plugins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
 ## 2\. The data we collect about you
 
