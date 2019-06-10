@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexmls.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230021020id_/https%3A//www.flexmls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexmls.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610053008id_/https%3A//www.flexmls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | Flexmls
 
