@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jihosoft.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225174803id_/https%3A//www.jihosoft.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jihosoft.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610134737id_/https%3A//www.jihosoft.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Jihosoft Customer Privacy Policy
 
