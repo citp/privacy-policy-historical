@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the h-rez.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207215246id_/http%3A//h-rez.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the h-rez.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610081303id_/http%3A//h-rez.com/privacypolicy.html) for the most accurate reproduction.*
 
 # H-REZ.COM Your hotel reservation network - Privacy policy.
 
@@ -87,7 +87,7 @@ If we decide to change our Privacy Policy, we will post those changes to this pr
 
 **Terms and Conditions**
 
-Please also visit Hotel-rez.com's [Terms & Conditions](https://web.archive.org/web/20181207215246id_/http%3A//h-rez.com/terms_conditions.html) for terms governing the use of the entire Site.
+Please also visit Hotel-rez.com's [Terms & Conditions](https://web.archive.org/web/20190610081303id_/http%3A//h-rez.com/terms_conditions.html) for terms governing the use of the entire Site.
 
 Thank you for being our customer.
 
