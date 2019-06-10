@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igamemom.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730050302id_/https%3A//igamemom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igamemom.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610054157id_/https%3A//igamemom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,15 @@ We collect personally identifiable information, like names and email addresses w
 
 **Cookie/Tracking Technology**
 
-This site may use cookies and tracking technology, which are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the Site. Personal information cannot be collected via cookies and other tracking technology.  However, if the visitor previously provided personally identifiable information, cookies may be tied to such information.
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
 We may use third party advertisements, such as Google AdSense, to support our site.  Some of these advertisers may use cookies and web beacons when they advertise on our site.  This information allows them to deliver targeted advertisements and measure their effectiveness. Our website does not provide any personal information to these third parties. You can choose to disable or selectively turn off cookies in your browser settings if you prefer.
+
+**For European Economic Area Residents**
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
 **Distribution of Information**
 
