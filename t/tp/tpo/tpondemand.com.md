@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpondemand.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627230000id_/https%3A//www.targetprocess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpondemand.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610162827id_/https%3A//www.targetprocess.com/privacy-policy) for the most accurate reproduction.*
 
 # Targetprocess 3 | Privacy policy
 
@@ -68,8 +68,8 @@ As of the date this policy went into effect, we use:
   * And internal and owned-by-us instance of Piwik analytics service for the Targetprocess website
   * Google Analytics as an additional analytics provider for Targetprocess website and as the main analytics provider for Vizydrop and Fibery websites, as well as the Vizydrop Service
   * An internal and owned-by-us custom analytics engine for Targetprocess Service
-  * Yandex Metrics for heatmaps type analytics on the Targetprocess website
   * Pardot, LinkedIn, and Pingdom analytics for Targetprocess website User Experience improvements
+  * Live Chat and Intercom  for customer support and visitors engagement
 
 
 
@@ -159,13 +159,13 @@ Targetprocess may transfer your Personal Data to countries other than the one in
   * Strict security measures mentioned above as well as in other documents
 
 
-  * European Union Model Clauses. Targetprocess offers European Union Model Contractual Clauses, also known as Standard Contractual Clauses, to meet the adequacy and security requirements for our Customers that operate in the European Union, and other international transfers of Customer Data. You may have already received your copy of our standard data processing addendum and Model Clauses, and we welcome you to request your copy via email at [gdpr@targetprocess.com](mailto:gdpr@targetprocess.com)
+  * European Union Model Clauses. Targetprocess offers European Union Model Contractual Clauses, also known as Standard Contractual Clauses, to meet the adequacy and security requirements for our Customers that operate in the European Union, and other international transfers of Customer Data. You may have already received your copy of our standard Data Processing Addendum and Model Clauses as part of Service Purchase process, and we welcome you to request your copy via email at [gdpr@targetprocess.com](mailto:gdpr@targetprocess.com)
 
 
 
 ## Data Controller and Processor definition
 
-Data protection law in certain jurisdictions differentiates between the “Controller” and “Processor” of information. In general, the Customer is the controller of Customer Data. In general, Targetprocess is the Processor of Customer Data and the Controller of Other Information or individual Leads who just created a Service instance or signed up for information such as a mail list, webinar, etc. Different Targetprocess entities control some aspects of the services in different parts of the world. Targetprocess Cyprus Limited, a Cyprus company based in Nicosia, Cyprus, is the controller of aforementioned other Information, and a Processor of Personal Data of users who use Instances established for Customers in the EEA (European Economic Area). Targetprocess Inc., a US company based in Amherst, New York is the Controller of aforementioned other Information, and a Processor of Personal Data of users who use Instances established for Customers outside of the EEA(European Economic Area).
+Data protection law in certain jurisdictions differentiates between the “Controller” and “Processor” of information. In general, the Customer is the controller of Customer Data. In general, Targetprocess is the Processor of Customer Data and the Controller of Other Information or individual Leads who just created a Service instance or signed up for information such as a mail list, webinar, etc. Different Targetprocess entities control some aspects of the services in different parts of the world. Targetprocess Cyprus Limited, a Cyprus company based in Nicosia, Cyprus, is the controller of aforementioned other Information, and a Processor of Personal Data of users who use Instances established for Customers in the EEA (European Economic Area). Targetprocess Inc., a US company based in Amherst, New York is the Controller of aforementioned other Information, and a Processor of Personal Data of users who use Instances established for Customers outside of the EEA (European Economic Area).
 
 ## Your rights and updating your information
 
