@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winehq.org privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225235257id_/https%3A//wiki.winehq.org/WineHQ_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winehq.org privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610051633id_/https%3A//wiki.winehq.org/WineHQ_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # WineHQ Wiki:Privacy policy - WineHQ Wiki
 
