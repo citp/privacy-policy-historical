@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231100435id_/https%3A//www.hsn.com/article/privacy-policy/2578) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610111304id_/https%3A//www.hsn.com/article/privacy-policy/2578) for the most accurate reproduction.*
 
 # HSN
 
