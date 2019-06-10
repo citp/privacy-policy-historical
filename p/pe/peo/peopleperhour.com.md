@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleperhour.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126162544id_/https%3A//www.peopleperhour.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleperhour.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610022003id_/https%3A//www.peopleperhour.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - People Per Hour (PPH) - PeoplePerHour.com
 
@@ -42,7 +42,7 @@ We may collect and process personal data about you from other sources as follows
 
   * We may collect or obtain personal data from you because we observe or infer that data about you from the projects you undertake, or the way you interact with us or others. For example, to improve your experience when you use our website and ensure that it is functioning effectively, we (or our service providers) may use cookies (small text files stored in a user’s browser) and Web beacons which may collect personal data. Additional information on how we use cookies and other tracking technologies and how you can control these can be found in our Cookie Notice.
   * We sometimes supplement the information that you provide with information received from third parties. For instance, credit reference agencies, search information providers, PayPal, other companies (subject to their privacy policies and applicable law), and from other accounts we have reason to believe you control (whether in part or in whole).
-  * Where we are provided with personal data about you by any third party such as a service provider, we take steps to ensure that that third party has complied with the privacy laws and regulations relevant to that information; this may include, for example, that the third party has provided you with notice of the collection (and other matters) and has obtained any necessary consent (if applicable) for us to process that information as described in this privacy statement.
+  * Where we are provided with personal data about you by any third party such as a service provider, we take steps to ensure that that third party has complied with the privacy laws and regulations relevant to that information; this may include, for example, that the third party has provided you with notice of the collection (and other matters) and has obtained any necessary consent (if applicable) for us to process that information as described in this privacy statement. PPH may use your personal data to gather feedback regarding your experience you may have with our platform. This helps our business grow by assembling useful information from our end-user.
 
 
 
