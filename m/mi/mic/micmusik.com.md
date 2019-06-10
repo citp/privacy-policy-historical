@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micmusik.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185024id_/https%3A//micmusik.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micmusik.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610095854id_/https%3A//micmusik.com/privacy-policy) for the most accurate reproduction.*
 
 # micmusik.com - Privacy Policy
 
