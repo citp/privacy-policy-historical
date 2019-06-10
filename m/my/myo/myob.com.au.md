@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220170148id_/https%3A//www.myob.com/au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610071949id_/https%3A//www.myob.com/au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## MYOB Group Privacy Policy
 
 ### We value your privacy
 
@@ -96,7 +94,7 @@ Top of Page
       3. create helpful insights for the business community.
     2. We sometimes share aggregated data with our business or industry partners.
 
-[Top of Page](https://web.archive.org/content/versionhistory/victoria.houen/public-website/au/privacy-policy#top)
+Top of Page
 
   5. Holding your personal information and keeping it safe
 
@@ -166,7 +164,7 @@ Top of Page
 
 If you aren't satisfied with our handling or resolution of your complaint, you can lodge a complaint with the Office of the Australian Information Commissioner ("OAIC"). For more information please visit the [OAIC website](https://www.oaic.gov.au/individuals/how-do-i-make-a-privacy-complaint).
 
-[Top of Page](https://web.archive.org/content/versionhistory/victoria.houen/public-website/au/privacy-policy#top)
+Top of Page
 
   10. Changes to this Privacy Policy
 
@@ -174,7 +172,7 @@ If you aren't satisfied with our handling or resolution of your complaint, you c
 
 10.2 By continuing to use our website and otherwise deal with us, you accept this Policy as it applies from time to time.
 
-[Top of Page](https://web.archive.org/content/versionhistory/victoria.houen/public-website/au/privacy-policy#top)
+Top of Page
 
 
 
