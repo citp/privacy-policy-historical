@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugarcrm.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023641id_/https%3A//www.sugarcrm.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarcrm.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610231401id_/http%3A//www.sugarcrm.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # ​SugarCRM Inc. Privacy Policy | SugarCRM
 
@@ -6,7 +6,7 @@ SugarCRM respects your privacy. This Privacy Policy explains how SugarCRM collec
 
 ## I. General Information
 
-### Websites
+#### Websites
 
 This Privacy Policy covers the information practices of our websites, including how SugarCRM collects, uses, shares and secures the personal information you provide.
 
@@ -16,11 +16,11 @@ SugarCRM's websites may contain links to other websites and applications over wh
 
 SugarExchange (<https://sugarexchange.sugarcrm.com/>) is an online marketplace for applications that are complementary to our Services. This Privacy Policy does not apply to use of third party applications made available on SugarExchange.
 
-### Controller
+#### Controller
 
 The data controller of www.sugarcrm.com and any subpages thereto (e.g. https://support.sugarcrm.com) is SugarCRM Inc., a Delaware corporation located at 10050 N. Wolfe Rd. SW2-130, Cupertino, CA 95014, USA. If you have any questions on this Policy or any of our data processing practices, please contact [dataprivacy@sugarcrm.com](mailto:dataprivacy@sugarcrm.com) or SugarCRM Inc., 10050 N. Wolfe Rd. SW2-130, Cupertino, CA 95014, USA, c/o General Counsel. Our EU representative per article 27 GDPR is SugarCRM UK Ltd., Highlands House, Basingstoke Road, Spencers Wood, Reading Berkshire, England, RG7 1NT.
 
-### Personal data we collect
+#### Personal data we collect
 
 The type of information we collect from you depends upon the type of interactions you have with our websites and Services, including the context of your interactions with SugarCRM, the choices you make (including privacy settings) as well as the Services you use.
 
@@ -32,32 +32,30 @@ We may also collect information that pertains to you indirectly through other so
 
 Further details can be found in Section II.
 
-### How we use your personal data
+#### How we use your personal data
 
 We collect and use your data principally for the following purposes:
 
   * Provide you with the information you have requested;
   * Process, fulfill and follow up on transactions and requests for products, services, support, and information;
-  * Customize the content, products and services that are offered to you;
-  * Contact you with information about SugarCRM and affiliated third-parties;
+  * Contact you with information about SugarCRM;
   * Communicate, interact and build our relationship with you for purposes such as marketing and product support;
   * Verify your authority to enter and use our Services;
   * Engage in market research and analysis;
   * Measure, analyze and improve our products and services, the effectiveness and user experience of our websites, and our advertising and marketing;
   * Consider an employment application;
-  * Comply with legal requirements;
-  * Provide targeting advertising, including the use of re-targeting technology; and
+  * Comply with legal requirements; and
   * Deter, detect, and prevent fraud and other prohibited or illegal activities.
 
 
 
 We may link or combine information we collect from multiple sources to provide better service to you and to improve our Services. Further details on our use and the legal basis can be found in Section II.
 
-### Why you are required to provide personal data
+#### Why you are required to provide personal data
 
 In general, your provision of any personal data or granting of consent to a processing activity is entirely voluntary. However, there are certain circumstances in which SugarCRM cannot take action without processing certain personal data, for example to process your orders, or to assist you with use of our Services, or to provide access to a web offering or newsletter. In these cases, it will not be possible for SugarCRM to provide what you request without the relevant personal information. In some circumstances, SugarCRM may need to terminate your ability to use the Services without access to your personal data. SugarCRM intends to notify you of whether such communication or data sharing is deemed mandatory and the impact of not sharing.
 
-### Sharing of your personal data
+#### Sharing of your personal data
 
 SugarCRM is a global organisation with business processes, management structures and technical systems that cross borders. As such, we may share data about you with other SugarCRM entities and transfer it to countries in the world where we do business in connection with the uses identified in this Privacy Policy. Our procedures are designed to provide a globally consistent level of protection for personal information by all SugarCRM entities.
 
@@ -69,13 +67,13 @@ Where you post information to our wikis, forums, blogs, message boards, chat roo
 
 We may share your personal data based on a good faith belief that such disclosure is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, or situations involving potential threats to the safety of any person. We may use your personal data as evidence in litigation in which we are involved, to protect the rights or safety of any person or entity, to respond to a judicial process or valid government inquiry or as otherwise required by law.
 
-### Where we process personal data
+#### Where we process personal data
 
 If you choose to provide us with information, including personal data, you understand that we are storing this and/or transferring it to SugarCRM's locations and systems in the United States or to the locations and systems of SugarCRM's affiliates or service providers around the world. SugarCRM complies with applicable law when transferring your personal information outside of the country there the information is collected. For data originating from a European Union member state, SugarCRM uses a variety of data transfer mechanisms (including standard contractual clauses) for this purpose.
 
-SugarCRM has also certified under the EU- U.S. Privacy Shield and the Swiss-U.S. Privacy Shield. The EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield address the collection, protection, storage, transfer, use and other processing of data transferred from the European Economic Area and Switzerland to the United States. To learn more about SugarCRM's certification, please visit the Privacy Shield website <https://www.privacyshield.gov/participant?id=a2zt0000000TNjnAAG> and refer to our Privacy Shield Notice.
+SugarCRM has also certified under the EU- U.S. Privacy Shield and the Swiss-U.S. Privacy Shield. The EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield address the collection, protection, storage, transfer, use and other processing of data transferred from the European Economic Area and Switzerland to the United States. To learn more about SugarCRM's certification, please visit the Privacy Shield website <https://www.privacyshield.gov/participant?id=a2zt0000000TNjnAAG> and refer to our Privacy Shield Notice.
 
-### How long we retain your personal data
+#### How long we retain your personal data
 
 The duration of processing of your personal data depends on the legal basis for the processing.
 
@@ -83,7 +81,7 @@ SugarCRM's policy is to retain personal data no longer than (a) is necessary to 
 
 However, we will store personal data for a longer period where (a) we are required by law to retain your personal data or (b) your personal data is required for SugarCRM to assert or defend against legal claims. In this event, we will retain your personal data until the end of the relevant retention period or until the claims in question have been settled. If you require more details with respect to the retention periods, please contact us at [dataprivacy@sugarcrm.com](mailto:dataprivacy@sugarcrm.com).
 
-### Your rights as a data subject
+#### Your rights as a data subject
 
 You can contact us directly (as set forth below) to update your personal data.
 
@@ -95,11 +93,11 @@ _Restriction of processing and right to object_ : You can also request that Suga
 
 Please send any such requests to [dataprivacy@sugarcrm.com](mailto:dataprivacy@sugarcrm.com).
 
-### Right to lodge a complaint
+#### Right to lodge a complaint
 
 If you believe that SugarCRM is not processing your personal data in accordance with the requirements set out herein or applicable data protection laws, you can at any time lodge a complaint with the relevant supervisory authority.
 
-### Use of this website by children
+#### Use of this website by children
 
 SugarCRM recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. SugarCRM's websites are not intended for children under the age of 16 and SugarCRM does not target our websites to children under 16. Also, SugarCRM's policy is to not knowingly collect personal data from children under the age of 16.
 
@@ -117,9 +115,9 @@ _Ensuring compliance_. SugarCRM and its Services are subject to the export laws 
 
 _General Business Relationship Communications_. SugarCRM communicates on a regular basis by email with users of our Services. For resolving partner, customer or user complaints or enquire into suspicious transactions we may also communicate by phone.
 
-Generally, users cannot opt out of these communications, which are not marketing-related but required for the relevant business relationship. With regard to marketing-related communication by phone or e-mail, SugarCRM will (i) if legally required, only provide you with such communications after you have opted in, and (ii) provide you the opportunity to opt out if you do not want to receive further marketing-related types of communication from us. You can opt out of these at any time at [Preference Center](https://info.sugarcrm.com/email-preference-center).
+Generally, users cannot opt out of these communications, which are not marketing-related but required for the relevant business relationship. With regard to marketing-related communication by phone or e-mail, SugarCRM will (i) if legally required, only provide you with such communications after you have opted in, and (ii) provide you the opportunity to opt out if you do not want to receive further marketing-related types of communication from us. You can opt out of these at any time at [Preference Center](https://info.sugarcrm.com/Preference-Center-Page).
 
-### b. Where SugarCRM uses your Personal Data based on SugarCRM's legitimate interest
+#### b. Where SugarCRM uses your Personal Data based on SugarCRM's legitimate interest
 
 In addition to the use cases under applicable law, the use cases below constitute a legitimate interest of SugarCRM to process or use your personal data. If you do not agree with this approach, you may object to SugarCRM's processing or use of your personal data as set out below under the ‘right to object" heading.
 
@@ -141,9 +139,9 @@ _Data received from third parties_. Our business partners may register leads wit
 
 We also may receive personal data from third parties such as marketing or advertising companies organizers of events that provide us with such information as a part of their relationship with us. Such data could include contact details (such as name, company, title, company address, e-mail and phone number) and we use that information for evaluating a potential business relationship with you or for combining the information with personal data that we may have already collected about you.
 
-_Right to object_. You may object to SugarCRM using your personal data for the purposes set forth in this _subsection b_ at any time by sending your request to [dataprivacy@sugarcrm.com](mailto:dataprivacy@sugarcrm.com). If you do so, SugarCRM will cease using your personal data for such purposes and remove it from its systems unless SugarCRM is permitted to use such personal data for another purpose set out in this Privacy Policy or SugarCRM determines and demonstrates a compelling legitimate interest to continue processing your personal data.
+_Right to object_. You may object to SugarCRM using your personal data for the purposes set forth in this subsection b at any time by sending your request to [dataprivacy@sugarcrm.com](mailto:dataprivacy@sugarcrm.com). If you do so, SugarCRM will cease using your personal data for such purposes and remove it from its systems unless SugarCRM is permitted to use such personal data for another purpose set out in this Privacy Policy or SugarCRM determines and demonstrates a compelling legitimate interest to continue processing your personal data.
 
-### c. Where SugarCRM uses your personal data based on your consent
+#### c. Where SugarCRM uses your personal data based on your consent
 
 In addition to the use cases under applicable law and legitimate interests set forth above, SugarCRM may use your personal data after you have granted your consent in the following use cases.
 
@@ -157,9 +155,9 @@ _Employment application_. If you apply for a job (eg via our website), we may re
 
 _Forums and social media_. You have the option to participate in blogs, forums and social media networks which may be offered by SugarCRM or linked to our websites. If you choose to participate, you are required to register and create a user profile. User profiles provide the option to display personal information about you to other users, including but not limited to your name, photo, social media accounts, postal address, email address, telephone number, personal interests, skills, and basic information about your company. All of the information that you post will be available to all visitors to our websites. SugarCRM is not responsible for the personal information you choose to submit in these forums. You are not permitted to provide any personal information about other data subjects in those forums and blogs, and we also encourage you to limit any personal information about yourself to a minimum.
 
-### Revocation of a consent granted hereunder.
+#### Revocation of a consent granted hereunder.
 
-You may at any time object to, opt out and withdraw a consent granted hereunder by e-mailing [dataprivacy@sugarcrm.com](mailto:dataprivacy@sugarcrm.com). If you would like to unsubscribe from our newsletters, [click here](https://info.sugarcrm.com/email-preference-center) and follow the directions.
+You may at any time object to, opt out and withdraw a consent granted hereunder by e-mailing [dataprivacy@sugarcrm.com](mailto:dataprivacy@sugarcrm.com). If you would like to unsubscribe from our newsletters, [click here](https://info.sugarcrm.com/Preference-Center-Page) and follow the directions.
 
 In case of withdrawal, SugarCRM will cease processing the relevant personal data which was based on consent unless we have legal justification to reject the withdrawal. In case SugarCRM is required to retain your personal data for legal reasons, your personal data will be restricted from further processing and retained for the term required by law. Please note that any withdrawal has no effect on past processing of personal data up to the point in time of your withdrawal. Furthermore, if use of our Services requires your consent and you have withdrawn your consent, SugarCRM will no longer be able to provide the Services to you.
 
@@ -172,5 +170,3 @@ For more details please see our "Cookie Policy" at <https://www.sugarcrm.com/leg
 ## IV. Changes to Privacy Policy
 
 We reserve the right to change, modify, add or remove portions of this Privacy Policy from time to time and in our sole discretion. Our policy is to alert you that changes have been made by indicating on the Privacy Policy the date it was last updated.
-
-_May 2018_
