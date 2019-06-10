@@ -1,123 +1,197 @@
-> *The following text is extracted and transformed from the prosperworks.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315065642id_/https%3A//www.prosperworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperworks.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610131013id_/https%3A//www.copper.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ProsperWorks, Google's Recommended CRM
+# Privacy | Copper
 
-**ProsperWorks, Inc.  
-301 Howard St. #600  
-San Francisco, CA 94105  
-Date of Last Revision: May 25, 2016 **
+Privacy Policy
 
-Welcome to www.prosperworks.com (the “Site”) of ProsperWorks, Inc. (“ProsperWorks”, “we”, “us” and “our”). This Site is operated by ProsperWorks and has been created to provide information about our company and our customer relationship management services and related technologies and related services (the “Platform, and together with the Site, the “Services”) to our Site visitors (“you”, “your”). This Privacy Policy sets forth ProsperWorks’ policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from visitors to the Site and Services. This Privacy Policy also describes the choices available to you regarding use of or your access to your Personal Data, and how to update and correct your Personal Data. Your access to and use of the Platform is subject to the ProsperWorks Terms of Service at [https://www.prosperworks.com/terms](https://web.archive.org/terms). By providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy.
+Copper CRM, Inc.
 
-  * **Personal Data That You Provide Through the Services:**  
-We collect Personal Data from you when you voluntarily provide such information to us. You may provide us with Personal Data when you:
+301 Howard St. #600
 
-    * Create accounts for Services,
-    * Register for offers or events,
-    * Provide billing and payment information,
-    * Elect to receive marketing communications,
-    * Complete a survey,
-    * Receive customer support,
-    * Purchase or register to use the Platform, or
-    * Apply for a job.
+San Francisco, CA 94105
 
-Personal Data that we collect includes your contract information (such as your name, email address, mailings address, or phone number), billing information (such as your credit card information, security code, and billing address), your IP address, and the information that you process on the Platform (such as names, titles, email addresses, mailing addresses, and phone numbers of your customers, leads, and contacts).
+Date of Last Revision: May 24, 2019
 
-In connection with the Platform, ProsperWorks collects Personal Data as directed by its customers (“Customers”), and has no direct relationship with the individuals whose Personal Data it processes on behalf of such Customers. If you are an employee or customer of one of our Customers and would like to correct, amend, or delete inaccurate data, please contact such Customer directly (the data controller). If requested to remove data we will respond within a reasonable timeframe.
+Summary of Updates to Privacy Policy Effective as of May 24, 2019:
 
-  * **Information We Collect Through the Services**  
-The Services that you purchase or register to use may connect and transmit system, application, or product data to ProsperWorks. This data may include, but is not limited to, operating system, system model, and IP address.
+We have made certain changes to add specific website references and similar clarifying changes to the introductory section and Section 5 of this Privacy Policy. This summary is provided for your reference only, and does not modify or enlarge our respective rights and obligations, which shall be as set forth below in this Privacy Policy.
 
-When you use the Services, we and our partners collect certain information automatically through use of cookies or similar technologies. ProsperWorks and our partners use cookies or similar technologies to analyze trends, administer the Services, track your movements around the Services, and to gather demographic information about our user base as a whole. Information that we collect automatically may include:
+### Highlights
 
-    * Internet Protocol Address;
-    * Browser type;
-    * IP Address;
-    * Mobile application;
-    * Device type or ID:
-    * Device user ID;
-    * Browser language;
-    * Operating system;
-    * Referring site (site you visited before coming to the Site);
-    * Date and time of visit;
-    * URL of pages visited; and
-    * Other browsing behavior, such as white papers downloaded.
-
-We may link this information to Personal Information to provide better service to you and to improve our product and services offerings. Most browsers allow you to remove and block cookies and web beacons. Please note that if you choose to erase or block cookies, you will need to re-enter your user ID and password to access certain parts of the Site. You may also notice that you will be served only generic information not tailored to your specific interests. In addition, if you block cookies, you may not be able to use certain Services features or take full advantage of the Services.
-
-Many Internet browsers allow users to send a “Do Not Track” signal to websites they visit. Currently, there is no consensus on the meaning of “Do Not Track” or similar signals, and the Services have no mechanism to respond to such a signal.
-
-Furthermore, in the course of using the Services, you or someone else in your organization may provide us with information about your systems infrastructure and access to your systems infrastructure. In addition, ProsperWorks may discover this information by analyzing additional parts your systems infrastructure that you did not explicitly input into the Platform.
-
-  * **Information We Collect From Other Sources** We sometimes obtain information from other sources, such as mergers and acquisitions, data brokers, or commercial lists, and merge this with information we have previously collected.
-
-If you give us Personal Data on behalf of someone else (or someone else gives us Personal Data on your behalf), the person providing the Personal Data must have consent to do so from the person whose information is being provided to ProsperWorks. Some ProsperWorks events, websites or services may be co-branded and offered in conjunction with another company. For example, ProsperWorks might co-sponsor a webinar in conjunction with one of its partners and allow you to register for such webinar through the Site. If you provide Personal Data in these cases, both ProsperWorks and the other company(ies) may receive the information collected and use the information according to each company’s privacy policy and agreement with you.
-
-We partner with third parties to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by deleting the cookie information from your browser or by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served generic, untargeted ads.
-
-The Platform may enable you to import contacts included in your email accounts. We do not collect the login credentials for such email accounts.
+  * We collect and use your personal data to enable you to register for and use our platform and to provide you with the products or services that you request.
+  * This policy explains when we process personal data for our legitimate interests. You can ask us to stop processing this information.
+  * We use cookies and other technologies to track the use of our websites and apps. To learn about opportunities to choose not to allow cookies, [click here](https://www.copper.com/cookies).
+  * We share information with third parties we engage to process information on our behalf or when such sharing is required by law, or in certain other situations.
+  * We transfer your personal data to the United States, which may be outside the country in which you live. We use Privacy Shield and European Commission approved contract clauses to help protect your personal data.
 
 
 
+### Our Policy
 
-We use Personal Data to conduct business, provide information and support for products and services, better understand your needs and interests, refine and develop our business, improve services, personalize communications and ensure a quality experience for users of the Services. For example, we may use your information to:
+This Privacy Policy describes our privacy and data protection practices on our website <https://www.copper.com/> and customer relationship management (CRM) platform (“Platform”) located at <https://app.prosperworks.com/users/sign_in> , including our applications for mobile devices (collectively, the “Services”).
 
-  * Communicate, interact and build our relationship with you;
-  * Contact you with relevant promotions and information about ProsperWorks and affiliated third-parties;
-  * Process, fulfill and follow up on transactions and requests for products, services, support, training and information;
-  * Send you reminders about the expiration of your subscriptions (trial or paid) for Services;
-  * Create and maintain an account and register Services;
-  * Bill and accept payment from you for Services;
-  * Engage in market research;
-  * Measure, analyze and improve our products and services, the effectiveness of our Site or Services, and our advertising and marketing;
-  * Notify you about updates to our blogs; 
-  * Monitor your use of the Services; 
-  * Tell you when updates and new product versions are available;
-  * Personalize content and advertising;
-  * Help identify and communicate offers of products, programs and services that may be of interest to you;
-  * Send “refer-a-friend” email on your behalf with your consent;
-  * Consider your employment application;
-  * Comply with legal requirements; 
-  * Enforce our terms of service, and prevent fraud and other prohibited or illegal actives;
-  * Provide agreed upon diagnostic, monitoring and management services; or
-  * Better communicate with you.
+We collect personal data in connection with the Services. In this Privacy Policy, we use “personal data” to mean information that can be used to identify an individual. This Privacy Policy also describes your choices regarding your personal data, and how to update and correct your personal data.
 
+### 1\. What Personal Data Do We Collect?
 
+When you register to use our Platform, we collect the personal information you provide including your name, email, phone, address, and payment information.
 
-We may share or disclose your Personal Data as follows:
+When you use our Platform, we collect the information you submit to your account including the names, titles, email addresses, mailing addresses, and phone numbers of your customers, leads, and contacts. We also collect other information when you use our Platform including operating system, system model, and IP address. Our Platform may enable you to import contacts included in your email accounts. We do not collect the login credentials for such email accounts.
 
-  * To corporate subsidiaries we own or control to support their business and marketing processes;
-  * To our service providers and suppliers, who are acting and using your information on our behalf to provide the Services and help us with our business activities such as (processing your payments, providing customer service, or hosting our Platform). These companies are authorized to use your personal information only as necessary to provide these services to us. Transfers of personal data to subsequent third parties are covered by the services agreements between us and our customers.
-  * Based on a good faith belief that such disclosure is necessary to protect the rights or safety of any person or entity;
-  * Based on a good-faith belief that disclosure is necessary to respond to judicial process, valid government inquiry, or is otherwise required by law such as to comply with a subpoena, bankruptcy proceedings, or similar legal process;
-  * In the event that ProsperWorks or any of its assets are acquired, your information may be transferred with the company or the asset;
-  * To other third-parties for purposes to which you have allowed or consented (such as an authorized reseller); or
-  * When posted by you or an authorized third-party to our wikis, forums, blogs, message boards, chat rooms and other social networking environments.
+Please note that if you give us personal data on behalf of someone else (or someone else gives us personal data on your behalf), the person providing the personal data must have consent or other legal basis to do so.
 
+We collect your contact information and device or system information when you use our technical support, training, or professional services.
 
+When you register for events, offers, or marketing materials, we collect your contact information.
 
-In an ongoing effort to better understand and serve the users of the Services, ProsperWorks often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and ProsperWorks may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. ProsperWorks may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
+We collect your personal information when you engage with us on our website or on social media.
 
-To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct and delete Personal Data in our possession that you have previously submitted via the Services. We will respond to your request within a reasonable timeframe.
+We collect your resume or C.V. when you apply for a job with us.
 
-If you wish to subscribe to our marketing communications, we will use your name and email address to send communications to you. You may elect to stop receiving our marketing emails by following the unsubscribe instructions included in such emails, or you may contact us at [privacy-questions@prosperworks.com](mailto:privacy-questions@prosperworks.com).
+We use cookies and similar technologies to collect information, including information that may be considered personal information such as your IP address. See our [cookie policy](https://www.copper.com/cookies) for more information about the information we collect and your choices.
 
-Please also feel free to contact us if you have any questions about ProsperWorks’ Privacy Policy or the information practices of the Services.
+We sometimes obtain information from other sources, such as mergers and acquisitions, data brokers, or commercial lists, and merge this with information we have previously collected.
+
+Some of our events, websites or services may be co-branded and offered in conjunction with another company. For example, we might co-sponsor a webinar in conjunction with one of our partners and allow you to register for such webinar through our website. If you provide personal data in these cases, both us and the other company(ies) may receive the information collected and use the information according to each company’s privacy policy and agreement with you.
+
+### 2\. How Do We Use Personal Data?
+
+We use personal data for the purposes for which you have consented, and to conduct business, provide information and support for products and services, better understand your needs and interests, and ensure a quality experience for users of the Services. For example, we use the data submitted to our Platform by customers in accordance with the instructions of our customers, including any applicable terms in our Terms of Service, and as required by applicable law. We will use your resume data to consider you for employment.
+
+We also use personal data for our legitimate interests or when we have a lawful basis to do so.
+
+For example, we may use your information to:
+
+Communicate, interact and build our relationship with you;
+
+Contact you with relevant promotions and information about us and affiliated third-parties;
+
+Process, fulfill and follow up on transactions and requests for products, services, support, training and information;
+
+Send you reminders about the expiration of your subscriptions (trial or paid) for Services;
+
+Create and maintain your account and register Services;
+
+Bill and accept payment from you for Services;
+
+Engage in market research;
+
+Measure, analyze and improve our products and services, the effectiveness of our Services, and our advertising and marketing;
+
+Engage in troubleshooting and technical support;
+
+Notify you about updates to our blogs or new webinars;
+
+Monitor your usage of the Services;
+
+Tell you when updates and new product versions are available;
+
+Personalize content and advertising;
+
+Help identify and communicate offers of products, programs and services that may be of interest to you;
+
+Send “refer-a-friend” email on your behalf with your consent;
+
+Consider your employment application;
+
+Comply with legal requirements;
+
+Enforce our terms of service, and prevent fraud and other prohibited or illegal actives;
+
+Provide agreed upon diagnostic, monitoring and management services; or
+
+Better communicate with you.
+
+### 3\. How Do We Share and Disclose Personal Data?
+
+We may share or disclose your personal data as follows:
+
+To corporate subsidiaries we own or control to support their business and marketing processes;
+
+To our service providers and suppliers, who are acting and using your information on our behalf to provide the Services and help us with our business activities such as (processing your payments, providing customer service, or hosting our Platform). These companies are authorized to use your personal data only as necessary to provide these services to us. Transfers of personal data to subsequent third parties are covered by the services agreements between us and our customers.
+
+Based on a good faith belief that such disclosure is necessary to protect the rights or safety of any person or entity;
+
+Based on a good-faith belief that disclosure is necessary to respond to judicial process, valid government inquiry, or is otherwise required by law such as to comply with a subpoena, bankruptcy proceedings, or similar legal process;
+
+In the event that we or any of our assets are acquired, your information may be transferred with the company or the asset;
+
+To other third-parties for purposes to which you have allowed or consented (such as an authorized reseller);
+
+When posted by you or an authorized third-party to our wikis, forums, blogs, message boards, chat rooms and other social networking environments; or
+
+To create aggregated information which does not identify you personally.
+
+### 4\. What Additional Requirements Apply to Information Collected through Our Gmail Integration?
+
+Our Platform enables you to read, create and modify messages in your Gmail account. In order to provide you with this service, we obtain, process and store a copy of the Google user data contained in or associated with messages in your Gmail account, such as the email addresses of persons to whom you send or from whom you receive messages in your Gmail account, electronic copies of the files attached to those messages, and the contents of those messages.
+
+We refer to the Google user data described in the immediately preceding paragraph as “Google User Data.” Google User Data is subject to the additional limitations on its use, transfer and accessibility set forth below:
+
+We will use Google User Data only to provide or improve user-facing features of the Services that are prominent in the Services’ user interface.
+
+We will only transfer Google User Data to unaffiliated third parties (a) if necessary to provide or improve user-facing features that are prominent in the Services’ user interface, (b) as necessary to comply with applicable law or (c) as part of a merger, acquisition or sale of assets with notice to you.
+
+We will not use or transfer your Google User Data for serving ads, including retargeting, personalized or interest-based advertising.
+
+We will not allow humans to read your Google User Data unless:
+
+We have first obtained your affirmative agreement for specific messages;
+
+It is necessary for security purposes (such as investigating a bug or abuse);
+
+It is necessary to comply with applicable law; or
+
+Our use is limited to internal operations and the data (including derivations) have been aggregated and anonymized.
+
+Note that we may obtain personal data that is included in your Google User Data from sources other than the messages in your Gmail account. For example, we may obtain your email address when you register for the Service. Personal data that we obtain from sources other than messages in your Gmail account is not considered Google User Data for the purposes of this Privacy Policy and is not subject to the additional requirements described above.
+
+### 5\. What Are Your Choices Regarding Your Personal Data?
+
+You may request to review, correct, delete or otherwise modify any of the personal information that you have previously provided to us. If you have registered for an account for our Platform, you may generally update your user settings and profile by logging into our Platform the with your username and password and editing your settings or profile. You can also update the contact details of your leads, contacts, and prospects stored in the Platform at any time. Otherwise, to access, correct, delete your personal information, please contact us as specified below on “Contact Us” section and we will respond to your request within a reasonable timeframe.
+
+If you wish to unsubscribe to our marketing communications, you should follow the unsubscribe instructions included in our email communications, or you may contact us at [privacy-questions@copper.com](http://privacy_questions@copper.com/).
 
 We send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
 
+We may retain your information for a period of time consistent with the original purpose of collection. For example, we will retain the personal data we process on behalf of our customers for as long as needed to provide Services to our customers, and for a reasonable period after as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+Please also feel free to contact us if you have any questions about Coppers’ Privacy Policy or the information practices of the Services.
+
+### 6\. Do We Use Analytics?
+
+We use data for analytics and measurement to understand how our Services are used. For example, we analyze data about your visits to our websites to do things like optimize product design. We use a variety of tools to do this, including Google Analytics. When you visit sites that use Google Analytics, we and Google may link information about your activity from that site with activity from other sites that use Google Analytics services.
+
+### 7\. What Is Our Position on Children’s Privacy?
+
 Use of the Services is only available to individuals who are of legal age to contract in their applicable jurisdiction. The Services are not directed to children under 13 years of age. If our policy changes, we will obtain consent from a parent or guardian before we knowingly collect data from anyone under the age of 13.
 
-This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by ProsperWorks (the “Third Party Sites”). In addition, our Services include social media features, such as links to our Facebook, Google+, Twitter, and LinkedIn pages. Your interactions with our information on such Third Party Sites are governed by the privacy statement of the provider of such Third Party Site. The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that ProsperWorks endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+### 8\. Does This Policy Apply to Links to Other Web Sites?
 
-The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. You acknowledge and agree that no Internet or email transmission is ever fully secure or error free. You agree to take special care in deciding what information you send to us via email. If you have any questions about the security of your personal information, you can contact us at [privacy-questions@prosperworks.com](mailto:privacy-questions@prosperworks.com).
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by Copper (the “Third Party Sites”). In addition, our Services include social media features, such as links to our Facebook, Google+, Twitter, and LinkedIn pages. Your interactions with our information on such Third Party Sites are governed by the privacy statement of the provider of such Third Party Site. The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that Copper endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
 
-The TRUSTe certification covers our collection, use, and disclosure of information we collect through our Site ([www.prosperworks.com](https://web.archive.org/)), our Service (<https://app.prosperworks.com/>) and our mobile applications. The use of information collected through our Services shall be limited to the purpose of providing the Services for which you have engaged ProsperWorks.
+### 9\. What Are Our Security Procedures?
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+The security of your personal data is important to us. We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once it is received. You acknowledge and agree that no Internet or email transmission is ever fully secure or error free. You agree to take special care in deciding what information you send to us via email. If you have any questions about the security of your personal data, you can contact us at [privacy-questions@copper.com](http://privacy-questions@copper.com/).
 
-The Services and our business may change from time to time. As a result, at times it may be necessary for ProsperWorks to make changes to this Privacy Policy. ProsperWorks reserves the right to update or modify this Privacy Policy at any time and from time to time. We will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site of any material changes to this Privacy Policy. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+### 10\. Do We Participate in Privacy Shield?
 
-If you have questions about this Privacy Policy, please contact us using one of the methods specified at https://www.prosperworks.com/contact or by emailing us at [privacy-questions@prosperworks.com](mailto:privacy-questions@prosperworks.com). Our address is ProsperWorks, Inc., 301 Howard St. #600, San Francisco, CA 94105.
+Copper CRM, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Copper CRM, Inc. is committed to subjecting all personal data received from European Union (EU) member countries, the United Kingdom and Switzerland, respectively, in reliance on the Privacy Shield Frameworks, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=67abc16c-0fcd-4810-914a-cff1f61b4774 "TRUSTe Privacy Certification")
+Copper CRM, Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Copper complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, the United Kingdom and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Copper CRM, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Copper CRM, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+### 11\. Does this Privacy Policy Change?
+
+We change this Privacy Policy from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We always indicate the date the last changes were published. If changes are significant, we’ll provide a more prominent notice (including, for certain Services, email notification of Privacy Policy changes).
+
+### 12\. How Can You Contact Us?
+
+If you have questions about this Privacy Policy, please contact us using one of the methods specified at <https://www.copper.com/contact> or by emailing us at [privacy-questions@copper.com](http://privacy-questions@copper.com/). Our address is Copper, 301 Howard St. #600, San Francisco, CA 94105.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=65c570e7-55db-403f-a58a-48e378e87bb4)
