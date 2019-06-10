@@ -1,10 +1,26 @@
-> *The following text is extracted and transformed from the citizensfla.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027224320id_/https%3A//www.citizensfla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensfla.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610164642id_/https%3A//www.citizensfla.com/privacy) for the most accurate reproduction.*
 
 # Notice of Privacy Policy - Citizens
 
+###  [Systems Maintenance: Friday, June 14-Sunday, June 16](https://www.citizensfla.com/alerts)
+
+General
+
+### Systems Maintenance: Friday, June 14-Sunday, June 16
+
+Citizens' policy systems, including electronic payments and payments by phone, will not be available due to maintenance on Friday, June 14, from 6 p.m. to Sunday, June 16, at 6 p.m. Report a loss by contacting our 24/7, toll-free Claims Reporting Center at 866.411.2742 during this time. We apologize for any inconvenience.
+
+[](https://www.citizensfla.com/home "Go to Public")
+
+FACTS
+
 WHAT DOES CITIZENS PROPERTY INSURANCE CORPORATION DO WITH YOUR PERSONAL INFORMATION?
 
+Why?
+
 Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.
+
+What?
 
 The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
@@ -17,7 +33,15 @@ The types of personal information we collect and share depend on the product or 
 
 
 
+How?
+
 All financial companies need to share customers' personal information to run their everyday business. Citizens uses your personal information only as authorized or required by law and as necessary to provide our products and services to you. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Citizens chooses to share; and whether you can limit this sharing.
+
+Reasons we can share your personal information
+
+Does Citizens share?
+
+Can you limit this sharing?
 
 For our everyday business purposes-We share with non affiliates to assist us to process your transactions, underwrite and/or rate your policy, service your policy, administer claims, respond to court orders and legal investigations, and as permitted by federal and state law.
 
@@ -54,6 +78,8 @@ For non affiliates to market to you
 No
 
 We don't share
+
+Questions?
 
 Call 866.411.2742; Deaf/Hard of Hearing: 800.955.8771 (TTY) or 800.955.8770 (Voice); or go to [www.citizensfla.com](http://www.citizensfla.com/)
 
@@ -119,6 +145,8 @@ A formal agreement between nonaffiliated financial companies that together marke
 
 
 
+Other important information
+
 State law - The Florida public records law requires that all information received by a state entity be made available to anyone upon request, including e-mail addresses, unless the information is subject to a specific statutory exemption.
 
 The Public Records Custodian can be contacted at:
@@ -128,3 +156,5 @@ The Public Records Custodian can be contacted at:
 >  2101 Maryland Circle  
 >  Tallahassee, FL 32303  
 >  [RecordsRequest@citizensfla.com](mailto:recordsrequest@citizensfla.com?subject=Public%20Records%20Request)
+
+Node: cit-lryasjax302 
