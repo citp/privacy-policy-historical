@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postplanner.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227134300id_/https%3A//www.postplanner.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postplanner.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610221139id_/https%3A//www.postplanner.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -93,18 +93,11 @@ PP reserves the right to change this Privacy Policy from time to time. We will n
 
 PP welcomes your questions or comments regarding this Statement of Privacy. If you believe that PP has not adhered to this Statement, please contact PP at:
 
-Post Planner
-
-2 Embarcadero Center, 8th Floor
-
-San Francisco, California 94111
-
-Email Address:
-
-privacy@postplanner.com
-
-Telephone number:
+support@postplanner.com
 
 _________________
 
-Effective as of April 03, 2018
+Effective as of October 1, 2018
+
+  
+
