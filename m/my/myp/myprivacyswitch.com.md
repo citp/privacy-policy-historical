@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myprivacyswitch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151340id_/http%3A//www.myprivacyswitch.com/clkn/http/www.myprivacyswitch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprivacyswitch.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610133103id_/http%3A//www.myprivacyswitch.com/clkn/http/www.myprivacyswitch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Switch
 
