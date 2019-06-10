@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smesauda.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907170756id_/http%3A//www.smesauda.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smesauda.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610221241id_/http%3A//www.smesauda.com/privacy-policy.php) for the most accurate reproduction.*
 
 # SME Sauda
 
