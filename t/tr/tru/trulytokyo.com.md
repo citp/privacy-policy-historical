@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trulytokyo.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808081124id_/https%3A//trulytokyo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trulytokyo.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610162132id_/https%3A//trulytokyo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ TrulyTokyo.com does use cookies to store information about visitors preferences,
 DoubleClick DART Cookie  
 .:: Google, as a third party vendor, uses cookies to serve ads on TrulyTokyo.com.  
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to TrulyTokyo.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - https://www.google.com/privacy_ads.html 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include but are not limited to ....  
 Google Adsense  
@@ -45,18 +45,6 @@ See these places on the Truly Tokyo Google map:
   * Click the name of the place in the list. Its location pin will be highlighted on the map.
   * Map pins are color coded - BLUE: Hotels / Ryokan / Guesthouses | VIOLET: Ryokan | PINK: Places to Eat | GREEN: Shops | YELLOW: Things to See and Do
   * If you're using the map on your phone, open the map and then search for the name of the place. The map will then zoom in on its location.
-
-
-
-##### Tokyo Vacation Checklist
-
-  * For all the essentials in a brief overview, see my [First Time In Tokyo](http://trulytokyo.com/first-time-in-tokyo/) guide
-  * Check Tokyo accommodation availability and pricing on [Booking.com](https://sp.booking.com/city/jp/tokyo.html?aid=965264;label=TTChecklist) \- usually you can reserve a room with no upfront payment. Pay when you check out. Free cancellations too.
-  * Need tips on where to stay? See my one page guide [Where To Stay In Tokyo](http://trulytokyo.com/where-to-stay-in-tokyo/)
-  * See my comprehensive [Packing List For Japan](http://www.insidekyoto.com/packing-list-for-japan)
-  * Compare Japan flight prices and timings on [Skyscanner](http://www.tkqlhce.com/click-7647395-10639348?sid=TTCheckList)
-  * If you're visiting more than one city, get your [Japan Rail Pass](http://www.insidekyoto.com/japan-rail-pass-is-it-worth-it)
-  * Get travel insurance for your Japan trip - book online with [World Nomads](http://www.worldnomads.com/af.aspx?affiliate=TVLHAP&subid=TTCheckList&utm_source=TVLHAP&utm_medium=textlink&utm_campaign=easy_url)
 
 
 
