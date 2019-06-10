@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exxat.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209061032id_/http%3A//www.exxat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exxat.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610231943id_/http%3A//www.exxat.com/privacy-policy) for the most accurate reproduction.*
 
-# Exxat | Privacy Policy
+# Privacy Policy – Exxat
 
 Exxat, LLC. (“Exxat”) operates several websites including exxat.com, apps.exxat.com, and support.exxat.com. It is Exxat’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
