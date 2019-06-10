@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the healthwikinews.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405193213id_/http%3A//www.healthwikinews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthwikinews.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610045149id_/https%3A//www.healthwikinews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Health Wiki News
+
+2019-06-10T04:51:50+00:00
 
 This policy elaborates on the process of information gathering and dissemination. What may be collected about you when you use our services made available, how this information may be used, how you can control how your information is used, and what precautions are taken against unauthorized access or use of your information are explained and elaborated here.
 
@@ -123,6 +125,6 @@ By using the Services, you agree to such collection, storage, and processing out
 
 #### Privacy Questions or Concerns
 
-For privacy questions or concerns about our website or services, please use our [Contact Us](http://www.healthwikinews.com/contact-us/) form
+For privacy questions or concerns about our website or services, please use our [Contact Us](https://www.healthwikinews.com/contact-us/) form
 
-**Terms of Use** Our Terms of Use agreements can be found [Here](http://www.healthwikinews.com/terms-of-service/).
+**Terms of Use** Our Terms of Use agreements can be found [Here](https://www.healthwikinews.com/terms-of-service/).
