@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the essentialkids.com.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625021539id_/http%3A//www.fairfax.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialkids.com.au privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610161113id_/http%3A//www.essentialkids.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy - Fairfax Media Limited
+# Privacy Policy
 
 You have come through to this page from a website which is published by a subsidiary of Fairfax Media Limited.
 
@@ -164,6 +164,3 @@ We may change this privacy policy from time to time. Any updated versions of thi
 
 **Tracking and Targeting**  
 [Tracking and Targeting Policy](https://web.archive.org/trackingandtargeting?Embed=Y)
-
-  
-
