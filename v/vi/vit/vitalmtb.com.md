@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitalmtb.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222032526id_/https%3A//www.vitalmtb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalmtb.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610185825id_/https%3A//www.vitalmtb.com/privacy-policy) for the most accurate reproduction.*
 
 # Vital MTB
 
