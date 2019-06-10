@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the herbalremediesinfo.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606113330id_/http%3A//www.herbalremediesinfo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalremediesinfo.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610055539id_/http%3A//www.herbalremediesinfo.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Herbal Remedies Info
+# Privacy Policy – Herbal Remedies Info
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use (website/company name), as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. CedarLily Publishing strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers’, consumers’ and online visitors’ privacy on our website.
 
@@ -45,5 +45,3 @@ CedarLily Publishing reserves the right to make changes in this policy. If there
 If you do not agree to our Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy.
-
-[ ](http://5ab229mk56ffcpa9zftdt2uoe3.hop.clickbank.net/?tid=HERBALREMINFO)
