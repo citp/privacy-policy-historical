@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mccormick.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826050114id_/https%3A//www.mccormick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccormick.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610021849id_/https%3A//www.mccormick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | McCormick
 
@@ -6,7 +6,7 @@
 
 This site is owned and operated by **McCormick & Company, Incorporated** (“McCormick”). We at McCormick recognize that you are concerned about your personal privacy. 
 
-This Privacy Policy is provided to inform you of what personal information is collected on our websites and how that information is maintained and used by McCormick. This Privacy Policy applies to all information collected or submitted on [www.mccormick.com](http://www.mccormick.com/) and [www.mccormickcorporation.com](http://www.mccormickcorporation.com/). 
+This Privacy Policy is provided to inform you of what personal information is collected on our websites and how that information is maintained and used by McCormick. This Privacy Policy applies to all information collected or submitted on [www.mccormick.com](https://www.mccormick.com/) and [www.mccormickcorporation.com](https://www.mccormickcorporation.com/). 
 
 This Privacy Policy is current as of the effective date set forth above. McCormick reserves the right to change this Privacy Policy as our practices may change, so we encourage you to review the privacy policy from time to time. 
 
@@ -71,14 +71,14 @@ For questions or comments regarding the McCormick.com website, please contact us
 **Interactive Marketing  
 Consumer Products Division  
 McCormick & Co., Inc.  
-211 Schilling Circle  
-Hunt Valley, MD 21031**  
+24 Schilling Road, Suite 1  
+Hunt Valley, MD 20131**  
 or send us an [email](mailto:consumer_affairs@mccormick.com).
 
 For questions or comments regarding the McCormickCorporation.com website, please contact us at the following address: 
 
 **Corporate Communications  
 McCormick & Company, Inc.  
-18 Loveton Circle  
-Sparks, MD 21152  
+24 Schilling Road, Suite 1  
+Hunt Valley, MD 21031  
 **or use our [Contact form](https://web.archive.org/contact). 
