@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarkhoward.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228055622id_/http%3A//www.clark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarkhoward.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610161601id_/http%3A//www.clark.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy – ClarkHoward.com | Clark Howard
+# Privacy Policy - ClarkHoward.com - Clark Howard
 
 **Online Privacy Statement**  
 Last updated March 1, 2018  
