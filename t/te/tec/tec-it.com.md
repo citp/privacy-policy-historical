@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tec-it.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110091225id_/https%3A//www.tec-it.com/en/website/legalconditions/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tec-it.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610143538id_/https%3A//www.tec-it.com/en/website/legalconditions/Default.aspx) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy for TEC-IT Websites
 
@@ -96,11 +96,11 @@ We occasionally evaluate these log file records anonymously in order to improve 
 
 ## Google Analytics
 
-#### Web analytics service 
+#### Web Analytics Service 
 
 This website uses the "Google Analytics" service provided by Google Inc. (1600 Amphitheater Parkway Mountain View, CA 94043, USA) to analyze users' website usage. The relationship with the web analytics service provider is based on the adequacy decision of the European Commission (in the case of the USA: "Privacy Shield"). 
 
-#### IP anonymization 
+#### IP Anonymization 
 
 This site uses IP anonymization. Your IP address will therefore be shortened by Google before further use within member states of the European Union or other parties to the Agreement on the European Economic Area and thus used only anonymously. Only in exceptional cases will the full IP address be sent to a Google server in the US and shortened there. 
 
@@ -128,8 +128,22 @@ We use Google AdWords, an online advertising program from Google. Google AdWords
 
 Each Google AdWords customer receives a different cookie. Cookies can not be tracked through AdWords advertisers' websites. The information gathered using the conversion cookie is used to generate conversion statistics for AdWords advertisers who have opted for conversion tracking. Advertisers will see the total number of users who clicked on their ad and were redirected to a conversion tracking tag page. However, they do not receive any information that personally identifies Internet users. Internet users who do not want to participate in tracking can deactivate the Google Conversion Tracking cookie through the settings of the Internet browser used. These internet users will not be included in the conversion tracking statistics. 
 
+## Google reCAPTCHA
+
+To prevent spam and abuse, we use the service "Google reCAPTCHA" (Version 3) of Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("Google") on our websites. This function is primarily used to distinguish whether an entry (e.g. in a contact form) is made by a natural person or is abused by automated processing. For this reCAPTCHA analyzes the behavior of the website visitor on the basis of different characteristics (duration of stay, mouse movements...). The service includes the transmission of the IP address and possibly further data required by Google for the reCAPTCHA service to Google.
+
+The reCAPTCHA analyses start with entering the website and run completely in the background, website visitors are not informed separately. Data processing is based on Art. 6 para. 1 lit. f DSGVO. The website operator has a legitimate interest in protecting his web offers from abusive automated spying and from SPAM.
+
+Additional information about Google reCAPTCHA and Google's privacy policy can be found at [https://www.google.com/recaptcha](https://www.google.com/recaptcha/ "Https://www.google.com/recaptcha") and <https://policies.google.com/privacy>.
+
 ## Bing Ads
 
 This website uses the Conversion-Tracking Technology “Bing Ads” of Microsoft Corporation. For this purpose, a cookie is placed on your computer if you visited our website via Bing or Yahoo. By means of this small text file, information about the use of our website (i.e. the pages you visit) is stored by Bing Ads for 180 days and then deleted. This information includes, but is not limited to, the URL of the page visited, the URL of the referrer page, and your IP address. However, we do not obtain any information by which users can be identified personally.
 
 If you do not wish to participate in the tracking, you may object to this usage by easily deactivating the Bing Ads conversion tracking cookie via your internet browser and your user settings. Using the Network Advertising Initiative (NAI) opt-out page [http://www. networkadvertising.org/choices/](http://www.networkadvertising.org/choices/ "Network Advertising Initiative") you can check which of the participating pages set cookies in your browser and disable them. You can access Microsoft's privacy policy for the data collected by following this link: [https://privacy.microsoft.com/de-de/privacystatement/](https://privacy.microsoft.com/en-us/privacystatement/ "Microsoft Privacy Policy"). 
+
+## Use of Social Media Plugins
+
+We use a video viewing plugin operated by YouTube (LLC, 901 Cherry Ave., San Bruno, CA 94066, USA, www.youtube.com). By clicking on `Accept` in the cookie banner of our websites (or in the video), you consent to the processing of data by the social network operator (YouTube). Only _after consenting_ a connection is established from your browser to YouTube and data transferred to the operator of the social network. The consent remains stored in your browser via cookies.
+
+The social network receives information about your visit to our websites via the plugin. If you are logged in to YouTube, your visit can be assigned to your social network account. Any interactions with the plugin can be saved by the network operator. Information about the use of the data collected by the social network can be found on the company's website (YouTube.com) in the "Privacy Policy" section: <https://www.google.com/intl/en/policies/privacy/>.
