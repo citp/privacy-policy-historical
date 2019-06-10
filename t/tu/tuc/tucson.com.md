@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tucson.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106154543id_/https%3A//tucson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tucson.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610234030id_/https%3A//tucson.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | tucson.com
 
