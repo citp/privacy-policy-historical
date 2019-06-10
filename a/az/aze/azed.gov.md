@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211030540id_/http%3A//www.azed.gov/adeinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610121931id_/http%3A//www.azed.gov/adeinfo/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ADE Information - Arizona Department of Education
+# ADE Information - Arizona Department of Education
 
 In accordance with state and federal law, the Arizona Department of Education (ADE) provides this privacy policy to explain when information may be collected from you, how it will be used, when it might be shared, and how it will be protected. Your privacy is of the utmost importance to ADE; if you have any questions regarding this policy, please [contact us.](http://www.azed.gov/adeinfo/contact/)
 
