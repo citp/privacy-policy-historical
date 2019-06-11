@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busymac.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210003258id_/http%3A//www.busymac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busymac.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611162745id_/http%3A//busymac.com/privacy.html) for the most accurate reproduction.*
 
 # BusyMac Privacy Policy
 
