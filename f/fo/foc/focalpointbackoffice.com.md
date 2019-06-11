@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focalpointbackoffice.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822070227id_/http%3A//www.focalpointsystem.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focalpointbackoffice.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611060241id_/https%3A//focalpointsystem.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FocalPoint - Privacy Policy
 
@@ -184,7 +184,7 @@ This policy was last modified on 05/25/2018.
 
 ### FocalPoint
 
-200 Centennial Ave, Suite 200 #248  
-Piscataway, NJ 08854 
+991 Route 22 West, Suite 200  
+Bridgewater, NJ 08807 
 
 [CustomerCare@FocalPointSystem.com](mailto:CustomerCare@FocalPointSystem.com) FocalPoint Sales:       (800) 363-5519 (Extension 1) Outside US/Canada:  (732) 582-0199 (Extension 1)
