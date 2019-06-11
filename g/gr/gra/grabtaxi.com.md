@@ -1,160 +1,229 @@
-> *The following text is extracted and transformed from the grabtaxi.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826064532id_/https%3A//www.grab.com/sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabtaxi.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611041357id_/https%3A//www.grab.com/sg/privacy) for the most accurate reproduction.*
 
 # Grab Privacy Policy | Grab SG
 
-(updated on 19 July 2018)
+Last modified on: 14 March 2019
 
-This Privacy Policy (“Policy”) describes how Grab Holdings Inc. and its respective subsidiaries, associate companies and jointly controlled entities (“Grab Group”) use your Personal Data.
+This Privacy Policy (“Policy”) describes how Grab Holdings Inc, its respective subsidiaries, affiliates, associated companies and jointly controlled entities (collectively “Grab”, “we”, “us” or “our”) collect, use, process and disclose your Personal Data through the use of Grab’s Apps and Websites (including all mobile applications and websites operated by Grab (respectively “Apps” and “Websites”), products, features and other services globally (collectively, “Services”).
 
-### **Collection of Personal Data**
+This Policy applies to our customers, passengers, agents, vendors, suppliers, partners (such as driver and merchant partners), contractors and service providers (collectively “you”, “your” or “yours”)
 
-“Personal Data” means information about you, from which you are identifiable, including but not limited to your name, nationality, address, telephone number, fax number, bank details, credit card details, gender, resident status, financial background, personal interests, email address, your occupation, your photo, any information about you which you have provided to Grab Group in registration forms, application forms or any other similar forms and/or any information about you that has been or may be collected, stored, used and/or processed by Grab Group from time to time and includes sensitive personal data such as your identification card number, driving licence number, birth certificate number, passport number, race, ethnic origin, date of birth, marital status, education background, and data relating to health, religious or other similar beliefs. If you are a service provider, we may also collect telematics data (such as your speed, acceleration, and braking data), device data (such as your IMEI number and the names of the apps you have installed on your device) and your vehicle registration data.
+“Personal Data” is any information which can be used to identify you or from which you are identifiable. This includes but is not limited to your name, nationality, telephone number, bank and credit card details, personal interests, email address, your image, government-issued identification numbers, biometric data, race, date of birth, marital status, religion, health information, vehicle and insurance information.
 
-The provision of your Personal Data is voluntary. However, if you do not provide Grab Group your Personal Data, Grab Group will not be able to process your Personal Data for the Purposes and Additional Purposes outlined below and may cause Grab Group to be unable to provide services or products to or accept payments from you.
+We collect Personal Data about you in the ways listed below. We may also combine the collected Personal Data with other Personal Data in our possession.
 
-If you are an agent, vendor, supplier or service provider, provision of your Personal Data is mandatory and failure to provide your Personal Data, may be a breach of laws or regulatory requirements, and may cause Grab Group to be unable to engage you to provide services or products or issue payments to you for products or services provided.
+## You provide your Personal Data to us
 
-In addition to the Personal Data you provide to Grab Group directly, Grab Group may collect your Personal Data from publicly available sources or from third parties, for example:
+We collect your Personal Data when you voluntarily provide it to us. For example, you may provide your Personal Data to us when you:
 
-  * from filled up application or registration forms, surveys or training tools or other similar forms;
-  * from publicly available sources such as directories;
-  * from Grab Group’s official social media pages, if you follow, like or are a fan of such pages;
-  * from credit reporting agencies, insurance providers, or financial services providers;
-  * when you interact and communicate with Grab Group at any events or activities;
-  * when you enter contests organized by Grab Group;
-  * from various entities or divisions under Grab Group;
-  * from other entities who provide you with services or with whom you have a contractual relationship;
-  * from marketing service providers or partners; or
-  * by using Grab Group apps and websites, which includes all apps and websites operated by Grab Group and under the names of its respective brands (respectively “Apps” and “Websites”).
+  * fill up a user profile or registration forms;
+  * provide information to assess your eligibility to provide services as a Grab driver-partner;
+  * interact with our social media pages;
+  * participate in contests or events organised by us;
+  * use biometric features to identity yourself; and
+  * fill up demographic information in surveys.
 
 
 
-Your personal data may also be collected from cookies used on the Websites, and if you are a service provider, from your accelerometer data, GPS data, device data and data collected when your Grab Driver app is on.  
-Further, certain service providers of Grab Group may utilise personal in-vehicle cameras for their own safety and security purposes. Whilst the use of such in-vehicle cameras are neither endorsed or prohibited by Grab Group, Grab Group does not collect, use or disclose any of your Personal Data from such in-vehicle recordings, and the collection, use and disclosure of any such Personal Data is not conducted on behalf of Grab Group. The collection, use and disclosure of Personal Data obtained from personal in-vehicle cameras is solely the responsibility of the service provider and you should inform your service provider if you have any objections to the use of personal in-vehicle cameras in such vehicles.
+## When our services are used
 
-### **Purposes of Processing**
+Personal Data may be collected through the normal operation of our Apps, Websites, Services. Some examples are:
 
-Grab Group may use and process your Personal Data for business and transportation, delivery and logistics (including food and beverage) and payment and financial services activities of Grab Group which shall include, without limitation the following (“Purposes”):  
-Where you are a customer of the services provided by Grab Group:
-
-  * to perform the Grab Group’s obligations in respect of any contract entered into with you;
-  * to provide you with any service you have requested;
-  * to process your subscriptions and to deliver the services to you;
-  * where you have requested to download and use the Grab or Grab Driver App, or any other Grab Group application, to process your request, to deliver the App to you and to provide you a license for the use of the App;
-  * to process and manage your rewards and loyalty points;
-  * to process your participation in any events, activities, focus groups, research studies, contests, promotions, polls, surveys or any productions;
-  * to process, manage or verify your application for subscription with the Grab Group and to provide you the benefits offered to subscribers;
-  * to validate your bookings and process payments relating to any products or services you have requested;
-  * to understand and analyse our sales as well as your needs and preferences;
-  * to develop, enhance and provide products and services to meet your needs;
-  * to process exchanges or product returns;
-  * to use Cookies to enhance our processes, advertising, notifications, authentication, security and compliance, analytics and preference management.
+  * your location (to detect pick-up locations and abnormal route variations);
+  * feedback, ratings and compliments;
+  * transaction information (such as payment method and distance travelled);
+  * information about how you interacted with our Apps, Website or services (such as features used and content viewed);
+  * device information (such as hardware model and serial number, IP address, file names and versions and advertising identifiers); and
+  * personal data you enter in messages when you use our in-app communication features.
 
 
 
-Where you are an agent, vendor, supplier, partner, contractor or service provider:
+## From other sources
 
-  * for the purposes of engaging you to provide services or products;
-  * to facilitate or enable any checks as may be required by Grab Group in order to engage you;
-  * to process payments relating to any products or services you have provided;
-  * to provide personalised feedback to you, so that you are able to identify specific areas for improvement;
-  * to assess safety and quality;
-  * to monitor compliance with our terms and conditions, policies and Driver’s Code of Conduct;
-  * to provide updates to our fleet partners for fleet management purposes;
-  * to contact you in relation to the provision of your services.
+When we collect Personal Data from other sources, we make sure that that data is transferred to us in accordance with applicable laws. Such sources include:
 
-
-
-**General:**
-
-  * to respond to questions, comments and feedback from you;
-  * to communicate with you for any of the purposes listed in this Policy;
-  * for internal administrative purposes, such as auditing, data analysis, database records;
-  * for purposes of detection, prevention and prosecution of crime;
-  * to maintain the safety and security of our services;
-  * for Grab Group to comply with its obligations under law;
+  * referral programmes;
+  * our business partners, such as fleet partners, payment providers, ride-hailing partners and transport partners;
+  * insurance and financial providers;
+  * publicly available data;
+  * governmental sources of data;
+  * when our users add you as an emergency contact; and
+  * marketing services providers or partners.
 
 
 
-and you agree and consent to Grab Group using and processing your Personal Data for the Purposes and in the manner as identified in this Policy.
+## Personal Data about driver-partners
 
-### **Marketing and promotional purposes**
+If you are a driver-partner, we may collect:
 
-Grab Group may also use and process your data for other purposes such as (“Additional Purposes”):
-
-  * To send you alerts, newsletters, updates, mailers, promotional materials, special privileges, festive greetings from Grab Group, its partners, sponsors or advertisers;
-  * To notify and invite you to events or activities organized by Grab Group, its partners, sponsors or advertisers;
-  * To process your registration to participate in or attend an event or activity and to communicate with you regarding your attendance at the event or activity;
-  * To share your Personal Data amongst its subsidiaries, associate companies and jointly controlled entities as well as with its agent, vendor, supplier, partner, contractor or service provider who may communicate with you to market their products, services, events or promotions;
+  * telematics data (such as your speed, acceleration, and braking data);
+  * device data (such as accelerometer data, GPS location, your IMEI number and the names of apps you have installed on your device); and
+  * your vehicle registration data.
 
 
 
-by way of post, telephone call, short message service (SMS), online messaging service, by hand and/or by email.
+## Sensitive Personal Data
 
-### **Unsubscribe and Revocation of Consent**
+Some of the information that we collect is sensitive in nature. This includes information such as national ID numbers, race, marital status, and your health or religious beliefs. We only collect this information when this is necessary to comply with legal or regulatory requirements.
 
-If you wish to unsubscribe to the processing of your Personal Data for Additional Purposes by Grab Group, please click on the link “Unsubscribe” which is embedded in the relevant email or message in order not to receive any such messages in the future. Please note that if you unsubscribe, we may still send you service-related messages, such as ride receipts.  
-If you wish to revoke the consent that Grab Group has obtained from you for the Purposes stipulated herein, please notify Grab Group using the contact details stated below.
+## In-vehicle cameras
 
-### **Transfer of Personal Data**
+Some Grab partners may install personal in-vehicle cameras in their vehicles for their own purposes (including safety and security). The use of such in-vehicle cameras is not endorsed or prohibited by Grab. The collection, use and disclosure of Personal Data obtained from personal in-vehicle cameras is the responsibility of the relevant partner. Please check with the relevant partner if you have any queries about their use of personal in-vehicle cameras.
 
-Your Personal Data may be transferred to, stored, used and processed in a jurisdiction other than your home nation or otherwise in the country, state and city in which you are present while using any services provided by Grab Group (“Alternate Country”), to companies under Grab Group which are located outside of your home nation or Alternate Country and/or where Grab Group’s servers and/or service providers and partners are located outside of your home nation or Alternate Country. You understand and consent to the transfer of your Personal Data out of your home nation or Alternate Country as described herein.
+## Personal Data of minors
 
-### **Disclosure to Third Parties**
+As a parent or legal guardian, please do not allow minors under your care to submit Personal Data to Grab. In the event that such Personal Data of a minor is disclosed to Grab, you hereby consent to the processing of the minor’s Personal Data and accept and agree to be bound by this Policy and take responsibility for his or her actions.
 
-Your personal data may be transferred, accessed or disclosed to third parties for the Purposes and Additional Purposes. Further, Grab Group may engage other companies, service providers or individuals to perform functions on its behalf, and consequently may provide access or disclose to your Personal Data to such service providers or third parties. The third parties include, without limitation:
+## When you provide personal data of other individuals to us
 
-  * Grab Group partners, which include parties with whom Grab Group collaborates with for certain events, programs and activities;
-  * Advertisers;
-  * Event management companies and event sponsors;
-  * Marketing research companies;
-  * Service providers, including, information technology (IT) service providers for infrastructure, software and development work;
-  * Professional advisors and external auditors, including legal advisors, financial advisors and consultants;
-  * Other entities within Grab Group; and
-  * Governmental authorities to comply with statutory, regulatory and governmental requirements.
+In some situations, you may provide Personal Data of other individuals (such as your spouse, family members or friends) to us. For example, you may add them as your emergency contact. If you provide us with their Personal Data, you represent and warrant that you have and you have obtained their consent for their Personal Data to be collected, used and disclosed as set out in this Policy.
+
+Grab may use, combine and process your Personal Data for the following purposes (“Purposes”).
+
+## Providing services and features
+
+Your Personal Data will be used to provide, personalise, maintain and improve our products and services. This includes using your Personal Data to:
+
+  * provide you with Services across our various business verticals;
+  * engage you to provide Services;
+  * create, administer and update your account;
+  * verify your identity;
+  * validate your ride and process payments;
+  * offer, obtain, provide or facilitate insurance or financing solutions;
+  * track the progress of your trip and detect abnormal trip variations;
+  * enable features that personalise your App, such as lists of your favourite places and previous destinations;
+  * perform internal operations necessary to provide our Services, including troubleshooting software bugs and operational problems, conducting data analysis, testing and research, monitoring and analysing usage and activity trends;
+  * protect the security or integrity of the Services and any facilities or equipment used to make the Services available;
+  * process and manage your rewards;
+  * enable communications between our users;
+  * process, manage or verify your application for subscription with Grab and to provide you with subscribers’ benefits; and
+  * enable our partners to manage and allocate fleet resources.
 
 
 
-Your Personal Data may also be shared in connection with a corporate transaction, such as the formation of a joint venture, a sale of a subsidiary or a division, merger, consolidation, or asset sale, or in the unlikely event of winding-up.  
-Access & Correction Requests and Inquiries, Limiting the Processing of Personal Data  
-Subject to any exceptions under applicable laws of your home nation or Alternate Country, you may request for access to and/or request correction of your Personal Data, request to limit the processing of your Personal Data for the Additional Purposes and/or make any inquiries regarding your Personal Data by contacting:
+## Safety and security
+
+We use your data to ensure the safety and security of our services and all users. This includes:
+
+  * screening driver and delivery partners before enabling their use of our Services;
+  * identifying unsafe driving behaviour such as speeding, harsh braking and acceleration, and providing personalised feedback to driver partners;
+  * verifying your identity when you log in to Grab;
+  * using device, location, profile, usage and other Personal Data to prevent, detect and combat fraud or unsafe activities;
+  * sharing drivers and passengers’ location and details when the emergency button or the “share my ride” feature is activated;
+  * monitoring compliance with our terms and conditions, policies and Driver’s Code of Conduct; and
+  * detecting, preventing and prosecuting crime.
+
+
+
+## Customer support
+
+We use Personal Data to resolve customer support issues. For example, we may:
+
+  * investigate and address concerns;
+  * monitor and improve our customer support responses;
+  * respond to questions, comments and feedback; and
+  * inform you about steps taken to resolve customer support issues.
+
+
+
+## Research and development and security
+
+We may use the Personal Data we collect for testing, research, analysis and product development. This allows us to understand and analyse your needs and preferences, protect your personal data, improve and enhance the safety and security of our services, develop new features, products and services, and facilitate insurance and finance solutions.
+
+## Legal purposes
+
+We may use the Personal Data we collect to investigate and resolve claims or disputes, or as allowed or required by applicable law
+
+We may also use your Personal Data when we are required, advised, recommended, expected or requested to do so by our legal advisors or any local or foreign legal, regulatory, governmental or other authority.
+
+For example, we may use your Personal Data to:
+
+  * comply with court orders or other legal, governmental or regulatory requirements;
+  * enforce our Terms of Service or other agreements; and
+  * protect our rights or property in the event of a claim or dispute.
+
+
+
+We may also use your Personal Data in connection with mergers, acquisitions, joint ventures, sale of company assets, consolidation, restructuring, financing, business asset transactions, or acquisition of all or part of our business by another company.
+
+## Marketing and promotions
+
+We may use your Personal Data to market Grab and Grab’s partners’ sponsors’ and advertisers’ products, services, events or promotions. For example, we may:
+
+  * send you alerts, newsletters, updates, mailers, promotional materials, special privileges, festive greetings; and
+  * notify, invite and manage your participation in our events or activities;
+
+
+
+We may communicate such marketing to you by post, telephone call, short message service, online messaging service, push notification by hand and by email.
+
+If you wish to unsubscribe to the processing of your Personal Data for marketing and promotions, please click on the unsubscribe link in the relevant email or message. Alternatively, you may also update your preferences in our App settings.
+
+We need to share Personal Data with various parties for the Purposes. These parties include:
+
+## Other users
+
+For example, if you are a passenger, we may share your pick-up and drop-off locations with drivers.
+
+If you are a driver, we may share your Personal Data with your passenger including your name and photo; your vehicle make, model, number plate, location and average rating.
+
+## With third-parties
+
+For example, we may share a drivers’ location and name with third parties when a passenger uses the Share My Ride feature or activates the Emergency Button.
+
+## With Grab partners at your request
+
+For example, if you requested a service through a Grab partner or used a promotion provided by a Grab partner, Grab may share your Personal Data with that Grab partners. Our partners include partners that integrate with our App or our App integrates with, vehicle services partners, or business partners which Grab collaborate with to deliver a promotion, competition or other specialised service.
+
+## With the owner of Grab accounts that you may use
+
+For example, your employer may receive trip data when you may use your employer’s Grab for Business account.
+
+## With subsidiaries and affiliates
+
+We share Personal Data with our subsidiaries, associated companies, jointly controlled entities and affiliates.
+
+## With Grab’s service providers and business partners
+
+We may provide Personal Data to our vendors, consultants, marketing partners, research firms, and other service providers or business partners. This includes:
+
+  * payment processors and facilitators;
+  * background check and anti-money laundering service providers;
+  * cloud storage providers;
+  * marketing partners and marketing platform providers;
+  * data analytics providers;
+  * research partners, including those performing surveys or research projects in partnership with Grab or on Grab’s behalf;
+  * fleet and merchant partners;
+  * insurance and financing partners; and
+  * vehicle solutions partners, vendors or third-party vehicle suppliers.
+
+
+
+## With our legal advisors and governmental authorities
+
+We may share your Personal Data with our legal advisors, law enforcement officials, government authorities and other third parties.
+
+We retains your Personal Data for as long you maintain your Grab account. Once your Personal Data is no longer necessary for the Services or Purposes, or we no longer have a legal or business purpose for retaining your Personal Data, we take steps to prevent access or use of such Personal Data for any purpose other than compliance with this privacy policy, or for purposes of safety, security, fraud prevention and detection.
+
+Your Personal Data may be transferred from country, state and city (“Home Country”) in which you are present while using our services to another country, state and city (“Alternate Country”). You understand and consent to the transfer of your Personal Data from your Home Country to the Alternate Country.
+
+Grab, and third parties with whom we partner, may use cookies, web beacons, tags, scripts, local shared objects such as HTML5 and Flash (sometimes called “flash cookies”), advertising identifiers (including mobile identifiers such as Apple’s IDFA or Google’s Advertising ID) and similar technology (“Cookies”) in connection with your use of the Websites and Apps. Cookies may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages. Cookies may transmit Personal Data about you and your use of the Service, such as your browser type, search preferences, IP address, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. Cookies may be persistent or stored only during an individual session.
+
+Grab may allow third parties to use Cookies on the Websites and Apps to collect the same type of Personal Data for the same purposes Grab does for itself. Third parties may be able to associate the Personal Data they collect with other Personal Data they have about you from other sources. We do not necessarily have access to or control over the Cookies they use.
+
+Additionally, we may share non-personally identifiable Personal Data with third parties, such as location data, advertising identifiers, or a cryptographic hash of a common account identifier (such as an email address), to facilitate the display of targeted advertising.
+
+If you do not wish for your Personal Data to be collected via Cookies on the Websites, you may deactivate cookies by adjusting your internet browser settings to disable, block or deactivate cookies, by deleting your browsing history and clearing the cache from your internet browser. You may also be able to limit our sharing of some of this Personal Data through your mobile device settings, or by submitting your details [here](https://www.google.com/url?q=http://bit.ly/2HX2vgZ&sa=D&ust=1552460169372000).
+
+Grab shall have the right to modify, update or amend the terms of this Policy at any time by placing the updated Policy on the Websites. By continuing to use the Apps, Websites or Services, purchase products from Grab or continuing to communicate or engage with Grab following the modifications, updates or amendments to this Policy, you signify your acceptance of such modifications, updates or amendments.
+
+If you have any queries about your personal data, please contact our Data Privacy Officer at:
 
 Grab Data Protection Officer  
-c/o Grab Holidings Inc.  
-6 Shenton Way,  
-#38-01 OUE Downtown,  
+c/o Grab Holdings Inc.  
+6 Shenton Way  
+#38-01 OUE Downtown  
 Singapore 068809  
 Email: dataprotection@grab.com
 
-Email: dataprotection@grab.com  
-Subject to any laws of your home nation or Alternate Country, Grab Group reserves the right to impose a fee for access of your Personal Data in the amounts as permitted therein.
-
-In respect of your right to access and/or correct your Personal Data, Grab Group has the right to refuse your requests to access and/or make any correction to your Personal Data for the reasons permitted under law, such as where the expense of providing access to you is disproportionate to the risks to your or another person’s privacy.
-
-### **Cookies**
-
-Grab Group, and third parties with whom we partner, may use cookies, web beacons, tags, scripts, local shared objects such as HTML5 and Flash (sometimes called “flash cookies”), advertising identifiers (including mobile identifiers such as Apple’s IDFA or Google’s Advertising ID) and similar technology (“Cookies”) in connection with your use of the Websites and Apps. Cookies may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages. Cookies may transmit information about you and your use of the Service, such as your browser type, search preferences, IP address, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. Cookies may be persistent or stored only during an individual session.
-
-Grab Group may allow third parties to use Cookies on the Websites and Apps to collect the same type of information for the same purposes Grab Group does for itself. Third parties may be able to associate the information they collect with other information they have about you from other sources. We do not necessarily have access to or control over the Cookies they use.
-
-Additionally, we may share non-personally identifiable information from or about you with third parties, such as location data, advertising identifiers, or a cryptographic hash of a common account identifier (such as an email address), to facilitate the display of targeted advertising.
-
-If you do not wish for your Personal Data to be collected via Cookies on the Websites, you may deactivate cookies by adjusting your internet browser settings to disable, block or deactivate cookies, by deleting your browsing history and clearing the cache from your internet browser. You may also be able to limit our sharing of some of this information through your mobile device settings, or by submitting your details  _[here](http://bit.ly/2HX2vgZ)_.
-
-### **Links to Third-Party Websites**
-
-The Websites may contain links to third parties’ websites. Please note that Grab Group is not responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such third parties. If you provide information directly to such sites, the privacy policy and terms of service on those sites are applicable and Grab Group is not responsible for the information processing practices or privacy policies of such sites.
-
-### **Personal Information from Minors and Other Individuals**
-
-As a parent or legal guardian, please do not allow the minor (individuals under 18 (eighteen) years of age) under your care to submit Personal Data to Grab Group. In the event that such Personal Data is provided to Grab Group, you hereby consent to the processing of the minor’s Personal Data and personally accept and agree to be bound by this Policy and take responsibility for his or her actions.
-
-In some circumstances you may have provided personal data relating to other individuals (such as your spouse, family members or friends) and in such circumstances you represent and warrant that you are authorized to provide their personal data to Grab Group and you have obtained their consent for their personal data be processed and used in the manner as set forth in this Policy.
-
-### **Acknowledgement, Consent, and Data Retention**
-
-By communicating with Grab Group, using Grab Group’s services, purchasing products from Grab Group or by virtue of your engagement with Grab Group, you acknowledge that you have read and understood this Policy and agree and consent to the use, processing and transfer of your Personal Data by Grab Group as described in this Policy.
-
-Grab Group shall have the right to modify, update or amend the terms of this Policy at any time by placing the updated Policy on the Websites. By continuing to communicate with Grab Group, by continuing to use Grab Group’s services, purchasing products from Grab Group or by your continued engagement with Grab Group following the modifications, updates or amendments to this Policy, such actions shall signify your acceptance of such modifications, updates or amendments.
-
-In the event of any conflict between the English and other language versions, the English version shall prevail.
+The original of this Privacy Statement is written in the English language. In the event of any conflict between the English and other language versions, the English version shall prevail.
