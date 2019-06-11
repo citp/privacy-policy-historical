@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227152330id_/https%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611173703id_/https%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | YNAB
+# Privacy | You Need A Budget
 
 At YNAB, we respect your privacy and are committed to protecting it. Every company has a privacy policy, but when it comes right down to it, we want you to understand how we protect your privacy and to know what data we collect and how we use it. So let’s get to it.
 
@@ -12,7 +12,7 @@ This policy applies to information we collect on the Website, in e-mail, text an
 
 We reserve the right to make changes to this privacy policy at any time by giving notice on this page and/or within this Application and/or sending a notice to you via any contact information available to us. It is strongly recommended to check this page often, referring to the date of the last modification listed at the top.
 
-## Collection and use of Personal Data
+## Collection and Use of Personal Data
 
 YNAB relies on a number of legal bases to collect, use, share, and otherwise process the information we have about you for the purposes described in this Privacy Policy. Generally, this includes analytics, user database management, managing support and contact requests, transaction aggregation, hosting and backend infrastructure and infrastructure monitoring.
 
@@ -89,7 +89,7 @@ Here are instructions for the most common browsers:
   * [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
   * [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
   * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer#w_cookie-settings)
-  * [Safari (Desktop)](https://support.apple.com/kb/ph21411?locale=en_US)
+  * [Safari (Desktop)](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
   * [Safari (Mobile)](https://support.apple.com/en-us/HT201265)
   * [Android Browser](https://support.google.com/ics/nexus/bin/answer.py?hl=en&answer=2425067)
 
