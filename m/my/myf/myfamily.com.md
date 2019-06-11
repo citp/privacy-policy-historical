@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfamily.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215115602id_/https%3A//www.ancestry.com/cs/privacyphilosophy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfamily.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611175010id_/https%3A//www.ancestry.com/cs/privacyphilosophy) for the most accurate reproduction.*
 
 # Ancestry Privacy Center
 
@@ -229,7 +229,7 @@ Your DNA results are viewable to you, and also to your DNA relatives if you have
 
     
 
-It is important to us that you feel safe communicating with other members of the Ancestry Community, so we’ve created an online messaging service that lets our users contact each other anonymously. When another user sends you a message, you’ll receive an alert in your Ancestry inbox and an email. You can respond through the Ancestry website without sharing any personal contact information with the sender (except your username). Ancestry stores these messages as described in our Privacy Statement.
+It is important to us that you feel safe communicating with other members of the Ancestry Community, so we’ve created an online messaging service that lets our users contact each other. When another user sends you a message, you’ll receive an alert in your Ancestry inbox and an email. You can respond through the Ancestry website without sharing any personal contact information with the sender (except your username). Ancestry stores these messages as described in our Privacy Statement.
 
 You can also choose not to communicate with anyone or [block specific users](https://www.ancestry.com/secure/Account/MemberBlock). To update your contact preferences, click on your username in the upper right corner and select [Site Preferences](https://www.ancestry.com/secure/account/sitepreferences).
 
@@ -249,6 +249,9 @@ To change these settings, go to [Activity Preferences](https://www.ancestry.com/
 
 **Public Trees**   
 If your tree is public, other users can view all content in your tree except information about living people and notes. Other users can also see your username or full name depending on your account settings. See [Privacy for Your Family Tree](https://www.ancestry.com/cs/legal/PrivacyForYourFamilyTree) for more information.
+
+**Messaging**   
+When you are using Ancestry’s messaging system to send messages to other Ancestry members, they will see your online status. They will also see when their message was delivered to you and read by you.
 
 **Message Boards**   
 Anything you post on message boards is public. If you ever have a concern about what is being shared, you can contact a Message Board Administrator at [messageboards@rootsweb.com](mailto:messageboards@rootsweb.com).
