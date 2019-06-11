@@ -1,155 +1,320 @@
-<!--The following is the downloaded HTML source of the mylocalservices.co.uk privacy policy that was archived on 2016-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121195923id_/http%3A//www.mylocalservices.co.uk/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mylocalservices.co.uk privacy policy that was archived on 2019-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190611030302id_/http%3A//www.mylocalservices.co.uk/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; Charset=iso-8859-1">
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="UTF-8">
 <meta name="verify-v1" content="Vq9LVxUVMHYWsJFRL99xeHRpDRc8b0qUlDhaEzKkREM=">
 <meta name="botwspider">
 <meta name="msvalidate.01" content="78D0C77A015B07B9B04F1DE277191604">
 <meta type="" content="fwxJUzzUo-yoSodwes5nJcEwvbc">
 <title>My Local Services - Our Cookie and Privacy Policy</title>
-<meta name="description" content="Cookie and Privacy Policy for My Local Services, the UK Online Business Directory.">
+<meta name="description" content="Cookie and Privacy Policy for My Local Services, the UK Online Business Directory and Forum.">
 <meta name="robots" content="index,follow">
-<link href="/mls.css" type="text/css" rel="stylesheet">
-
-</head>
+<link href="/styles_new.css" rel="stylesheet" type="text/css" media="screen">
+<!--[if lt IE 9]><link href="/IE8.css" rel="stylesheet" type="text/css" media="screen"><![endif]-->
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0,  user-scalable=0" name="viewport"></head>
 <body>
-<div class="main_page">
-  <div class="homepageheader"><a id="homepage-link" href="/"></a>
-    <div class="topmenu">
-<div><a href="/">Home</a></div>
-<div><a href="/list_your_business.php">Add Business</a></div>
-<div><a href="/forum/">Business Forum</a></div>
-<div><a href="/blog/">Blog</a></div>
-<div><a href="/rate_card.php">Prices</a></div>
-<div><a href="/UK/events/2016-11-21/">Events</a></div>
-<div><a href="https://www.mylocalservices.co.uk/login.php">Edit Listing</a></div></div>
-<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+function menu_header_show() {
+    if(document.getElementsByClassName("menu-header")[0].style.display=='none'){
+		document.getElementsByClassName("menu-header")[0].style.display='block';
+	}else{
+		document.getElementsByClassName("menu-header")[0].style.display='none';
+	}
+}
+function menu_header_hide() {
+    document.getElementsByClassName("menu-header")[0].style.display='none';
+}
+var deviceType='computer';
+if(deviceType=='computer'){
+	document.addEventListener('scroll', function() { scroll_menu() });
+}
+var current_scroll=1;
+function scroll_menu(){
+	var header_width=document.getElementById('header_holder').offsetWidth;
+	var scrollTopMax=140;
+	if(header_width>905){
+		scrollTopMax=176;
+	}else if(header_width>745){
+		scrollTopMax=140;
+	}else if(header_width>535){
+		scrollTopMax=132;
+	}else{
+		scrollTopMax=0;
+	}
+	
+	var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+	if(scrollTopMax!=0 && scrollTop>scrollTopMax){
+		if(current_scroll!=0){
+			current_scroll=0;
+			document.getElementById('search_bar').style.top="0";
+			document.getElementById('search_bar').style.position="fixed";
+			document.getElementById('search_bar_gap').style.display="block";
+		}
+	}else{
+		if(current_scroll!=1){
+			current_scroll=1;
+			document.getElementById('search_bar').style.top="1";
+			document.getElementById('search_bar').style.position="relative";
+			document.getElementById('search_bar_gap').style.display="none";
+		}
+	}
+}
+
+function myTrim(x)
+{
+return x.replace(/^\s+|\s+$/gm,'');
+}
+function autocomplete_bus(){
+	if(myTrim(document.getElementById('bus_type').value)!="" && myTrim(document.getElementById('bus_type').value).length>1){
+		autocomplete_bus_get(document.getElementById('bus_type').value);
+	
+	}else{
+		document.getElementById('bus_type_auto_complete').style.display="none";
+	}
+}
+function autocomplete_bus_hide(){
+	document.getElementById('bus_type_auto_complete').style.display="none";
+}
+function autocomplete_bus_get(request){
+	var xmlhttp = new XMLHttpRequest();
+	var url = "/autocomplete_bus_type.php?bus_type="+encodeURIComponent(request);
+	xmlhttp.onreadystatechange = function() {
+		if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+			var myArr = JSON.parse(xmlhttp.responseText);
+			autocomplete_bus_populate(myArr);
+		}
+	};
+	xmlhttp.open("GET", url, true);
+	xmlhttp.send();
+
+	function autocomplete_bus_populate(arr) {
+		if(arr.length>0){
+			document.getElementById('bus_type_auto_complete').style.display="block";
+			
+			var out = '<ul class="autocomplete" role="listbox" aria-activedescendant="ui-active-menuitem">';
+			var i;
+			var cat_match=false;
+			for(i = 0; i < arr.length; i++) {
+				if(arr[i]=="Business Category Matches"){
+					 out += '<div class="autocomplete_business_cats">Business Categories</div>';
+					 cat_match=true;
+				}else if(arr[i]=="Business Name Matches"){
+				 	if(cat_match==true){
+					 	out += '<div class="autocomplete_names">Matching Business Names</div>';
+					 }else{
+					 	out += '<div class="autocomplete_namesnb">Matching Business Names</div>';
+					 }
+				}else{
+									  out += '<li role="menuitem"><a tabindex="-1" onMouseDown="document.getElementById(\'bus_type\').value=\''+arr[i].replace('</b>', '').replace(/'/g, "\\'").replace(/\"/g, '&quot;').replace('<b>', '')+'\';">' + arr[i] + '</a></li>';
+				}
+			}
+				out +="</ul>";
+			document.getElementById('bus_type_auto_complete').innerHTML = out;
+		}else{
+			document.getElementById('bus_type_auto_complete').style.display="none";
+		}
+	}
+}
+
+function autocomplete_loc(){
+	if(myTrim(document.getElementById('location_search').value)!="" && myTrim(document.getElementById('location_search').value).length>1){
+		autocomplete_loc_get(document.getElementById('location_search').value);
+	
+	}else{
+		document.getElementById('location_auto_complete').style.display="none";
+	}
+}
+function autocomplete_loc_hide(){
+	document.getElementById('location_auto_complete').style.display="none";
+}
+function autocomplete_loc_get(request){
+	var xmlhttp = new XMLHttpRequest();
+	var url = "/autocomplete_location.php?location="+encodeURIComponent(request);
+	xmlhttp.onreadystatechange = function() {
+		if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+			var myArr = JSON.parse(xmlhttp.responseText);
+			autocomplete_loc_populate(myArr);
+		}
+	};
+	xmlhttp.open("GET", url, true);
+	xmlhttp.send();
+
+	function autocomplete_loc_populate(arr) {
+		if(arr.length>0){
+			document.getElementById('location_auto_complete').style.display="block";
+			
+			var out = '<ul class="autocomplete" role="listbox">';
+			var i;
+			for(i = 0; i < arr.length; i++) {
+			   out += '<li role="menuitem"><a  tabindex="-1" onMouseDown="document.getElementById(\'location_search\').value=\''+arr[i].replace(/'/g, "\\'")+'\';">' + arr[i] + '</a></li>';
+			}
+				out +="</ul>";
+			document.getElementById('location_auto_complete').innerHTML = out;
+		}else{
+			document.getElementById('location_auto_complete').style.display="none";
+		}
+	}
+}</script><div class="header-top-padding"></div>
+<div class="header-background">
+  <div class="header-holder" id="header_holder">
+    <div class="header-menu"><a href="javascript:void(0);" onclick="menu_header_show()">
+      <div></div>
+      <div></div>
+      <div></div>
+      </a>
+      <div class="menu-header" style="display:none;">
+        <ul>
+          <li><a href="/">Home</a></li>          <li><a href="/list_your_business.php">Add Business</a></li>          <li><a href="/forum/">Business Forum</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/rate_card.php">Promotion</a></li>
+          <li><a href="/login.php">Log-in</a></li>          <li class="menu-header-close"><a href="javascript:void(0);" onclick="menu_header_hide()">× Close Menu </a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="header-logo" onclick="self.location='/';">
+      <div class="header-words">
+        <div class="header-links header-links-login"><a href="/login.php" class="header-button">Log-in</a></div>
+        <div class="header-links"><a href="/">Home</a><a href="/list_your_business.php" class="header-link-hide4">Add Business</a><a href="/forum/" class="header-link-hide3">Business Forum</a><a href="/blog/" class="header-link-hide2">Blog</a><a href="/rate_card.php" class="header-link-hide1">Promotion</a></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="search_bar_gap" class="search_bar_gap"></div>
+<div id="search_bar" class="search_bar">
+  <div class="search_bar_container">
+    <div class="media">
+      <div class="media_contents"><a href="https://twitter.com/MyLocalForums" target="_blank"><img src="/images/new/twitter.png" alt="Follow us on Twitter" width="36" height="36" title="Follow us on Twitter" class="shadow_img"></a> <a href="https://www.facebook.com/MyLocalServices" target="_blank"><img src="/images/new/facebook.png" alt="Visit us on Facebook" width="36" height="36" title="Visit us on Facebook" class="shadow_img"></a> <a href="https://www.linkedin.com/company/my-local-services.co.uk" target="_blank"><img src="/images/new/linkedin.png" alt="Visit us on Linked In" width="36" height="36" title="Visit us on Linked In" class="shadow_img"></a></div>
+    </div>
+    <div class="search_bar_content">
+      <form method="get" action="/search.php">
+        <div class="searchbarlabel search_for">Search for
+          <div class="searchbarinput">
+            <input name="business_type" type="text" id="bus_type" class="searchbarinput_box" placeholder="e.g. builders or company name" value="" autocomplete="off" onfocus="autocomplete_bus();" onkeyup="autocomplete_bus();" onblur="autocomplete_bus_hide()">
+            <div id="bus_type_auto_complete" style="display:none;"></div>
+          </div>
+        </div>
+        <div class="searchbarlabel search_near"> near
+          <div class="searchbarinput">
+            <input type="text" name="location" id="location_search" value="" class="searchbarinput_box" autocomplete="off" placeholder="postcode or town" onfocus="autocomplete_loc();" onkeyup="autocomplete_loc();" onblur="autocomplete_loc_hide()">
+            <div id="location_auto_complete" style="display:none;"></div>
+          </div>
+        </div>
+        <div class="search_button_div">
+          <input type="submit" value="Search" class="search_button shadow button_fade">
+        </div>      </form>
+    </div>
+  </div>
+</div>
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-807565-1', 'auto');
   ga('send', 'pageview');
 
 </script>
-<link rel="publisher" href="https://google.com/+MyLocalServicesAlcester">
-<!-- Start Alexa Certify Javascript -->
-<script type="text/javascript">
-_atrk_opts = { atrk_acct:"qgUzi1a8Dy00U4", domain:"mylocalservices.co.uk",dynamic: true};
-(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "url": "https://www.mylocalservices.co.uk",
+  "logo": "https://www.mylocalservices.co.uk/images/MLS-forum.png",
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "+44-333-444-0198",
+	"email": "mailto:info@mylocalservices.co.uk",
+    "contactType": "customer service"
+	 }],
+	"sameAs": [ "https://www.facebook.com/MyLocalServices",
+	"https://www.linkedin.com/company/my-local-services.co.uk/",
+	"https://plus.google.com/+MyLocalServicesAlcester",
+	"https://twitter.com/MyLocalForums"] 
+}
 </script>
-<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qgUzi1a8Dy00U4" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->    <div class="homepageTitle1"><em>&nbsp;</em></div>
-    <div class="homepageTitle2"><em>Our Cookie and Privacy Policy</em></div>
-    <div class="homepageTitle3"><em></em></div>
-  </div>
-  <div class="main_content">
-    <div class="content_frame">
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '262368317857335');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=262368317857335&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><div class="main_page"><div class="main_content">
+    <div class="content_frame"><div class="breadcrumbs"><div itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" class="breadcrumblink"> <a href="/" itemprop="url"> <span itemprop="title">My Local Services</span></a>&nbsp;›&nbsp;</div>Privacy Policy</div>
+      <div class="menu_left">
+    <ul>
+     <li class="menu_left_item brighter_green"><a href="/add_review_search.php" class="button_fade"><div class="menu_left_item_line1">Leave a</div>Review »</a></li>
+     <li class="menu_left_item bright_green"><a href="/list_your_business.php" class="button_fade"><div class="menu_left_item_line1">Add your</div>Business »</a></li>
+      <li class="menu_left_item bright_green2"><a href="/My+Local+Services-Alcester-2414877.html#reviews" class="button_fade"><div class="menu_left_item_line1">View our</div>Feedback »</a></li>
+      <li class="menu_left_item darker_green"><a href="/rate_card.php" class="button_fade"><div class="menu_left_item_line1">Business</div>Promotion »</a></li>
+      <li class="menu_left_item plain"><a href="/forum/" class="button_fade"><div class="menu_left_item_line1">Visit our</div>Business Forum</a></li>
+       <li class="menu_left_item plain"><a href="/blog/" class="button_fade"><div class="menu_left_item_line1">The</div> MLS Blog</a></li>
+    </ul>
+ </div>  <div class="column-center column-center-full"><table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td valign="top">
             <div class="page_default"> 
               <!--Main Content --><div id="content">
         <h1 class="h1_tag">My Local Services Cookie and Privacy Policy</h1>
-        
-		<ul>
-		<li>My Local Services is part of Lowi Ltd (Lowi). Lowi will <strong>
-			never</strong> share your e-mail address or <strong>any</strong> personal details 
-			with any third party. Free Basic Listings placed on this site 
-			display only information that is generally available in the public 
-			domain.</li>
-<p></p>
-          <li>Advertisers who choose to buy paid advertising on My Local 
-			Services agree that once their information is submitted, it will be 
-			displayed as publicly accessible information.</li>
-<p></p>
-          <li>My Local Services deliberately hides your e-mail address by placing it behind a contact form 
-			in order to avoid internet spam robots spidering your 
-			address. We can not be held responsible and strongly advise against any 
-			advertisers who choose to manually add and display their email address in the clear 
-			on their business listing.</li>
-<p></p>			
-          <li>My Local Services uses cookies to enhance your experience on 
-			our website. Cookies are small files that are placed on your computer by websites as you surf the internet. These files 
-			can help personalise your visit, for example by remembering the last time you visited, or what you searched for previously. 
-			Other cookies collect anonymous statistics, such as Google Analytics, which help websites like us improve the service we can 
-			offer to visitors.</li>
-	<p></p>
-          	<li>Any cookies used on My Local Services are 100% anonymous and do not collect any personal information, or information that
-          	 can be used to identify an individual. We utilise first party cookies (originating from us, such as session IDs) and third party cookies 
-          	 (originating from partners such as Google and Facebook).</li>		
-	<p></p>
-          	<li>If you would like more information about third party cookies and would like to 
-			know your options in relation to not having this information used by 
-			these companies, then visit this 
-			<a href="http://www.google.com/privacy_ads.html" rel="nofollow">Google link</a>.</li>
-<p></p>
-          <li>If you want to opt out of Google Analytics tracking, then you can install a browser add on which will block any Google Analytic
-           traffic from any website. <a href="https://tools.google.com/dlpage/gaoptout" rel="nofollow">Google Analytics Opt-out</a>.</li>
-<p></p>
-			<li>We are unable to offer a cookie free version of our website, as this will affect the functionality and experience of your visit. 
-			If you do not want to receive any cookies, then the only option we can offer is not to use our website. To remove any cookies we may have already placed, empty the cookie cache on your browser by pressing 
-			<strong>Ctrl+Shift+Delete</strong> simultaneously and following the instructions. If this doesn't work, please consult your browser's help file.</li>         
-<p></p>
-          <li>For people signing up to a business listing, My Local Services may 
-          use your e-mail address to share news, promotions or important information relating to My Local Services 
-			and related partners. At no point will related partners have access 
-			to your email address unless you decide to share it with them. You 
-			may at any time inform us that you do not want to receive any 
-			correspondence from My Local Services by selecting the unsubscribe 
-			link in any email or you can contact us and request no further 
-			communications. You will still receive system generated emails that will enable 
-			the correct function of your business listing, such as password 
-			retrieval, validation etc.</li>	
-<p></p>
-          <li>My Local Services strives to be a family friendly website, but 
-			children under 13 years of age are required to present the expressed 
-			permission of their parent or legal guardian prior to disclosing any 
-			personal information or entering any competition or survey.</li>
-<p></p>
-          <li>My Local Services reserve the right to change this statement at 
-			any time. We are not responsible for any breach of security or for 
-			any actions of any third parties that receive your personal 
-			information.</li>
-<p></p>
-        </ul>
+My Local Services is part of Lowi Ltd (Lowi). Lowi will <strong>never</strong> share your email address or <strong>any</strong> personal details with any third party.<br><br>
+<h2>Cookie data</h2>
+<ul><li>Lowi uses cookies to enhance your experience on this website. Cookies are small files that are placed on your computer by websites as you surf the internet. These files can help personalise your visit, for example by remembering the last time you visited, or what you searched for previously. Other cookies collect anonymous statistics, such as Google Analytics, which help websites like us improve the service we can offer to visitors.</li>
+<li>Any cookies used on Lowi are 100% anonymous and do not collect any personal information or information that can be used to identify an individual. We utilise first party cookies (originating from us, such as session IDs) and third party cookies (originating from partners such as Google and Facebook).</li>
+<li>If you would like more information about third party cookies and would like to know your options in relation to not having this information used by these companies, then please visit this <a href="http://www.google.com/policies/technologies/ads/">Google link</a>.</li>
+<li>If you want to opt out of Google Analytics tracking, then you can install a browser add-on which will block any Google Analytic traffic from any website: <a href="https://tools.google.com/dlpage/gaoptout">Google Analytics opt-out</a>.</li>
+<li>We are unable to offer a cookie-free version of our website, as this will affect the functionality and experience of your visit. If you do not want to receive any cookies, then the only option we can offer is not to use our website. To remove any cookies we may have already placed, empty the cookie cache on your browser by pressing Ctrl+Shift+Delete simultaneously and following the instructions. If this does not work, please consult your browser's help file.</li></ul>
+<br><h2>Your personal data</h2>
+<ul><li>Lowi will be what’s known as the ‘Controller’ of the personal data you provide to us.</li></ul>
+<br><h2>What we need and why we need it</h2>
+<ul><li>For people signing up for a My Local Services business listing, we will collect certain data about you including name, address, email, business information and other contact details.</li>
+<li>You may given the opportunity to voluntarily opt in to marketing communications or a newsletter. This can be unsubscribed at any time by selecting the unsubscribe link in any email or by contacting us.</li>
+<li>In order for the successful operation of your business listing, you will need to receive system generated emails such as automated password resets, customer work requests or an annual notification to confirm your details are correct and you still require your listing.</li>
+<li>For anybody leaving a review for a business listed on My Local Services, we will capture your name and telephone number to allow moderation and review verification. Except for your name which you can choose to hide or disclose, no personal details will be published or passed to any third party without your express permission. Published public review content may be republished by the reviewed business for marketing purposes. E.g. the review may be referenced on their own website or social media.</li>
+<li>For any other means of contact by either online, telephone or hardcopy, we may capture name, telephone number and email address to enable us to deal with the enquiry or problem.</li>
+<li>Children under 13 years of age are required to have permission from their parent or legal guardian before disclosing any information on this website.</li></ul>
+<br><h2>What do we do with it?</h2>
+<ul><li>All the personal data we process is processed by us in the UK however for the purposes of IT hosting and maintenance this information is located on servers within the European Union. No third parties have access to your personal data unless the law allows them to do so. We will not share or sell your data to any third party.</li>
+<li>We have a Data Protection regime in place to oversee the effective and secure processing of your personal data.</li></ul>
+<br><h2>How long do we keep it?</h2>
+<ul><li>We will keep your personal data (name, address, contact details etc) whilst we are operating our business until we cease trading or until you advise us that you no longer consent to us keeping your data.</li></ul>
+<br><h2>What are your rights?</h2>
+<ul><li>If at any point you believe the information we process on you is incorrect you request to see this information and have it corrected or deleted, save in circumstances where we have a legal obligation or justification to retain data. If you wish to raise a complaint on how we have handled your personal data, you can contact our Data Protection Officer who will investigate the matter.</li>
+<li>If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law you can complain to the Information Commissioner’s Office (ICO) - <a href="https://ico.org.uk/">ico.org.uk</a></li>
+<li>Our Data Protection Officer (DPO) is Clive Irons who can be contacted on 0333 444 0198 or at info@mylocalservices.co.uk marked for the attention of the DPO. Our data protection registration number is ZA195062.</li>
+</ul>
       </div>
   <!--End of Main Content --></div></td>
         </tr>
       </tbody></table>
-    </div>
-  </div>
-  <div class="footer_top">
-  <div class="footer_back"> <br>
-        <div class="footerdiv">
-      <div class="numberofbusinesses">
-        1,174,884        <div class="businesseslisted">Businesses signed up<br>
-          Are you listed?</div>
-      </div> 
-	 <strong><a href="/">Home</a> | <a href="/aboutus.php">About Us</a> | <a href="/rate_card.php">Prices</a> | <a href="/terms.php">Terms &amp; Conditions</a> | <a href="/list_your_business.php">Add Your Business</a> | <a href="https://www.mylocalservices.co.uk/login.php">Edit Your Listing</a> | <a href="/contact_us.php">Contact MLS</a><br>
-	<br><a href="/faq.php">FAQs</a> | <a href="/privacy.php">Privacy</a> | <a href="/sitemap.php">Site Map</a> | <a href="/blog/">Blog</a> | <a href="/links.php">Link to Us</a> | <a href="/add_review_search.php">Reviews</a> | <a href="/forum/">Small Business Forum</a> | <a href="/l/">Business Listings</a></strong>
-	<br><br>
-	<strong><a href="/list_your_business.php">Sign up here</a> and Advertise your Business for Life!</strong><br>
-	 <div class="copyright"><div itemscope="" itemtype="http://schema.org/LocalBusiness">© 2005-2016 Lowi Ltd T/A <a href="//www.mylocalservices.co.uk" itemprop="url"><span itemprop="name">My Local Services</span></a>
-<div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-<span itemprop="streetAddress">Minerva Mill, Station Rd</span>, 
-<span itemprop="addressLocality">Alcester</span>,
-<span itemprop="addressRegion">Warwickshire</span>,
-<span itemprop="postalCode">B49 5ET</span>,
-<span itemprop="telephone">01789 761 364</span> | Reg in England &amp; Wales | Reg: 5542028<br>
-</div></div>
-Design by <a href="http://www.perrins.co.uk" target="_blank">Perrins Software</a> supported and managed by <a href="http://www.trusted-directory.co.uk/" target="_blank">Trusted Directory Services</a>
-<br><br>
-<span class="sig"><a href="/contact_us.php" target="_blank"><img src="/images/email_32.png" alt="Contact us by Phone or Email" width="32" height="32" border="0" title="Contact us by Phone or Email"></a>
-        <a href="http://twitter.com/MyLocalForums" target="_blank" rel="nofollow"><img src="/images/twitter_32.png" alt="Follow us on Twitter" width="32" height="32" border="0" title="Follow us on Twitter"></a>
-        <a href="http://www.facebook.com/MyLocalServices" target="_blank" rel="nofollow"><img src="/images/facebook_32.png" alt="Visit us on Facebook" width="32" height="32" border="0" title="Visit us on Facebook"></a>
-<a href="https://www.linkedin.com/company/my-local-services.co.uk" target="_blank" rel="nofollow"><img src="/images/linkedin.png" alt="Visit us on Linked In" width="32" height="32" border="0" title="Visit us on Linked In"></a>
-        <a href="https://google.com/+MyLocalServicesAlcester" target="_blank" rel="nofollow"><img src="/images/googlemaps_32.png" alt="Google+" style="border:0;width:32px;height:32px;">
-</a></span>      
-        No data from this site may be used for telemarketing or any form of marketing purposes. Any infringement <strong>will be</strong> fully investigated.</div> 
-</div>
-<div style="padding:0px;"><img src="/images/footer_bottom.png" width="1000" height="23"></div></div></div></div>
-
+    </div></div>
+  </div></div><div class="footer_padding">
+  <div class="footer">
+     <div class="footer_links"> <a href="/">Home</a> | <a href="/aboutus.php">About Us</a> | <a href="/list_your_business.php">Add Business</a> | <a href="/free-advertising.php">Free Advertising</a> | <a href="/rate_card.php">Options</a> | <a href="/login.php">Edit Listing</a> | <a href="/blog/">Blog</a> | <a href="/contact_us.php">Contact MLS</a><br>
+        <br>
+        <a href="/faq.php">FAQs</a> | <a href="/terms.php">T&amp;Cs</a> | <a href="/privacy.php">Cookie Policy</a> | <a href="/sitemap.php">Site Map</a> | <a href="/add_review_search.php">Reviews</a> | <a href="/forum/">Small Business Forum</a> | <a href="/l/">Business Categories</a>
+		<br>
+        <br>
+		<div class="copyright"><div itemscope="" itemtype="http://schema.org/LocalBusiness">© 2005-2019 Lowi Ltd T/A <a href="https://www.mylocalservices.co.uk" itemprop="url"><span itemprop="name">My Local Services</span></a><span itemprop="image" content="https://www.mylocalservices.co.uk/images/we-are-listed-on-mls.png"></span>
+		<div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+		<span itemprop="streetAddress">Minerva Mill, Station Rd</span>, 
+		<span itemprop="addressLocality">Alcester</span>,
+		<span itemprop="addressRegion">Warwickshire</span>,
+		<span itemprop="postalCode">B49 5ET</span> | 
+		<span itemprop="telephone">0333 444 0198</span> | Reg in England &amp; Wales | Reg: 05542028<br>
+		</div></div>
+          <br>
+          No data from this site may be used for telemarketing or any marketing purposes. Any infringement <strong>will</strong> be fully investigated.</div>
+      </div>
+  </div></div>
 </body></html>
