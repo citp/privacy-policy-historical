@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getcomics.info privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109025309id_/https%3A//getcomics.info/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcomics.info privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611140935id_/https%3A//getcomics.info/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GetComics –
 
 ## Privacy Policy
 
-At GetComics, the privacy of our visitors is of extreme importance to us (See [this article](https://getcomics.info/go.php-url=/aHR0cDovL3d3dy53cC1pbnNlcnQuc21hcnRsb2dpeC5jby5pbi93aGF0LWlzLWEtcHJpdmFjeS1wb2xpY3kv) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by GetComics and how it is used.
+At GetComics, the privacy of our visitors is of extreme importance to us (See [this article](https://getcomics.info/go.php-urls/aHR0cDovL3d3dy53cC1pbnNlcnQuc21hcnRsb2dpeC5jby5pbi93aGF0LWlzLWEtcHJpdmFjeS1wb2xpY3kv) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by GetComics and how it is used.
 
  **Log Files**
 
@@ -16,18 +16,18 @@ GetComics does use cookies to store information about visitors preferences, rec
 
  **Advertising**
 
-GetComics participates in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising. For more information please visit [http://www.aboutads.info](https://getcomics.info/go.php-url=/aHR0cDovL3d3dy5hYm91dGFkcy5pbmZv).
+GetComics participates in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising. For more information please visit [http://www.aboutads.info](https://getcomics.info/go.php-urls/aHR0cDovL3d3dy5hYm91dGFkcy5pbmZv).
 
 We use third-party advertising companies to serve ads when you visit our website or use our apps. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies for interest based advertising, please visit http://www.aboutads.info/choices/.
 
 How to opt out  
-[http://optout.networkadvertising.org/#!/](https://getcomics.info/go.php-url=/aHR0cDovL29wdG91dC5uZXR3b3JrYWR2ZXJ0aXNpbmcub3JnLyMhLw==)
+[http://optout.networkadvertising.org/#!/](https://getcomics.info/go.php-urls/aHR0cDovL29wdG91dC5uZXR3b3JrYWR2ZXJ0aXNpbmcub3JnLyMhLw==)
 
  **DoubleClick DART Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on GetComics.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to GetComics and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://getcomics.info/go.php-url=/aHR0cDovL3d3dy5nb29nbGUuY29tL3ByaXZhY3lfYWRzLmh0bWw=).
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://getcomics.info/go.php-urls/aHR0cDovL3d3dy5nb29nbGUuY29tL3ByaXZhY3lfYWRzLmh0bWw=).
 
 
 
