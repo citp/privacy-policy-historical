@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zondervan.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229234900id_/https%3A//www.harpercollinschristian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zondervan.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611171822id_/https%3A//www.harpercollinschristian.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | HarperCollins Christian Publishing
+# Privacy - HarperCollins Christian Publishing
 
 **HARPERCOLLINS CHRISTIAN PUBLISHING INC.: Privacy Notice (U.S. and Canada)**
 
@@ -33,11 +33,11 @@ Click on one of the links below to jump to the listed section:
 
 We obtain personal information about customers through the Services, publicly and commercially available sources and from our Company affiliates and/or business partners (such as YouVersion, Biblica and ChristianBook.com and social media networks). The types of personal information we may obtain include:
 
-  * • Contact information (such as name, postal address, email address and telephone and/or mobile numbers);
-  * • Username and password when you register through our Services;
-  * • Geolocation data;
-  * • Other information you may provide to us, such as through our “Submit a Request” or “Contact Us” feature; and
-  * • Purchase history with our branded online stores.
+  * Contact information (such as name, postal address, email address and telephone and/or mobile numbers);
+  * Username and password when you register through our Services;
+  * Geolocation data;
+  * Other information you may provide to us, such as through our “Submit a Request” or “Contact Us” feature; and
+  * Purchase history with our branded online stores.
 
 
 
@@ -48,7 +48,7 @@ HTTP, HTML5 and Flash cookies), web beacons, web server logs, JavaScript and sim
 
 A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of the links and other content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. We also may use similar automated means to obtain and store information regarding your actions while using our mobile apps.
 
-We may link certain data elements obtained through automated means, such as your browser or device information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you, what search queries you may have run and what advertisements you may have seen on our Services or on third-party websites and apps. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and [Global Storage Settings Pane](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) _l_. Please note, however, that without cookies you may not be able to use all of the features of our Services. Your device settings also may allow you to prohibit mobile app platforms (such as Apple and Google) from sharing certain information obtained by automated means with us through our apps or other app developers.
+We may link certain data elements obtained through automated means, such as your browser or device information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you, what search queries you may have run and what advertisements you may have seen on our Services or on third-party websites and apps. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and [Global Storage Settings Pane](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) _l_. Please note, however, that without cookies you may not be able to use all of the features of our Services. Your device settings also may allow you to prohibit mobile app platforms (such as Apple and Google) from sharing certain information obtained by automated means with us through our apps or other app developers.
 
 In addition, if you register with us through or connect your account with us to a third-party social media network (such as Facebook or Twitter), we may obtain certain information about you from the relevant social media network, such as your user ID and/or user name associated with that social media network, the information contained in your public profile on the social media network and friends lists. The specific information we obtain depends on your privacy settings on the applicable social media network.
 
@@ -58,17 +58,17 @@ The providers of third-party apps, tools, widgets and plug-ins on our Services, 
 
 We may use the information collected from and about you to:
 
-  * • Provide our products and services;
-  * • Create and manage online accounts;
-  * • Send promotional materials, alerts regarding available offers and other communications, including communications through the Services and outside of the Services, such as via email and through third-party websites and apps;
-  * • Communicate about, and administer participation in, special events, promotions, programs, offers, surveys, contests and market research;
-  * • Respond to inquiries from you and other third-parties, including inquiries from law enforcement agencies;
-  * • Anonymize personal information to provide third parties with aggregated data reports showing anonymized information and other non-personal information;
-  * • Supplement your personal information collected from you with additional information from publicly and commercially available sources, and/or information from Company affiliates and our business partners;
-  * • Associate your browser and/or device with other browsers or devices you use for the purpose of providing relevant and easier access to content, advertising across browsers and devices, and other operational/business purposes.
-  * • Operate, evaluate and improve our business (including developing, enhancing, analyzing and improving our Services; managing our communications; performing data analytics; and performing accounting, auditing and other internal functions);
-  * • Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and
-  * • Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies.
+  * Provide our products and services;
+  * Create and manage online accounts;
+  * Send promotional materials, alerts regarding available offers and other communications, including communications through the Services and outside of the Services, such as via email and through third-party websites and apps;
+  * Communicate about, and administer participation in, special events, promotions, programs, offers, surveys, contests and market research;
+  * Respond to inquiries from you and other third-parties, including inquiries from law enforcement agencies;
+  * Anonymize personal information to provide third parties with aggregated data reports showing anonymized information and other non-personal information;
+  * Supplement your personal information collected from you with additional information from publicly and commercially available sources, and/or information from Company affiliates and our business partners;
+  * Associate your browser and/or device with other browsers or devices you use for the purpose of providing relevant and easier access to content, advertising across browsers and devices, and other operational/business purposes.
+  * Operate, evaluate and improve our business (including developing, enhancing, analyzing and improving our Services; managing our communications; performing data analytics; and performing accounting, auditing and other internal functions);
+  * Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and
+  * Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies.
 
 
 
@@ -79,7 +79,7 @@ In addition, we and our third-party service providers may use information collec
 
 We may use third-party analytics services on our Services, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web beacons, web server logs and similar technologies to help us analyze your use of the Services. The information collected through these means may be disclosed to these analytics providers and other relevant third parties who use the information, for example, to evaluate use of the Services. To learn more about how to opt out of Google Analytics services, please visit the link below:
 
-  * • Google Analytics: <https://tools.google.com/dlpage/gaoptout>
+  * Google Analytics: <https://tools.google.com/dlpage/gaoptout>
 
 
 
@@ -91,8 +91,8 @@ On our sites, apps and/or emails we and our third-party service providers may ob
 
 We may engage third-party advertising networks to help us target our messaging to visitors through interest-based and contextual means. Through these ad networks, we can track your online activities over time and across third-party websites and apps by obtaining information through automated means, as described above. The networks use this information to show you advertisements on our Services or other third-party websites and apps that may be tailored to your individual interests. The information our ad networks may obtain on our behalf includes data about your visits to websites and use of apps that serve our advertisements, such as the pages or ads you view and the actions you take on those websites or apps. This data collection takes place both on our sites, apps and emails and on third-party websites and apps that participate in these ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of this ad network interest-based advertising,
 
-  * • click [here](http://www.aboutads.info/choices/) or [here](http://www.networkadvertising.org/choices/) in the US.
-  * • click [here](http://youradchoices.ca/choices/) in Canada.
+  * click [here](http://www.aboutads.info/choices/) or [here](https://www.networkadvertising.org/choices/) in the US.
+  * click [here](http://youradchoices.ca/choices/) in Canada.
 
 
 
@@ -115,9 +115,9 @@ You may unsubscribe from receiving our Text Messages by contacting us as outline
 
 We may share customer personal information with
 
-  * • Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes. A current list of our affiliated companies is available at <http://newscorp.com/about/our-businesses/>.
-  * • Service providers in the US and other jurisdictions who perform services on our behalf.
-  * • Our third party clients or business partners, such as Biblica and other third parties for those third parties’ own marketing purposes, such as to send you information about its religious publications.
+  * Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes. A current list of our affiliated companies is available at <http://newscorp.com/about/our-businesses/>.
+  * Service providers in the US and other jurisdictions who perform services on our behalf.
+  * Our third party clients or business partners, such as Biblica and other third parties for those third parties’ own marketing purposes, such as to send you information about its religious publications.
 
 
 
@@ -132,8 +132,8 @@ To update your preferences, ask us to remove your information from our marketing
 You also can unsubscribe from our marketing mailing lists by following the “Unsubscribe” link in our emails, and you can unsubscribe from Text Messages as outlined above.  
 To learn more about how to opt out of ad network interest-based advertising, please visit the customer opt-out pages at:
 
-  * • In the US: <http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>.
-  * • In Canada: <http://youradchoices.ca/choices>.
+  * In the US: <http://www.aboutads.info/choices/> and [http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/).
+  * In Canada: <http://youradchoices.ca/choices>.
 
 
 
@@ -183,4 +183,4 @@ Bay Adelaide Centre, East Tower
 2 Adelaide St. W, 41st Floor  
 Toronto, Ontario M5H 4E3  
 Tel. No.: (416) 975-9334  
-e-mail: privacy-canada@harpercollins.com. 
+e-mail: privacy-canada@harpercollins.com.
