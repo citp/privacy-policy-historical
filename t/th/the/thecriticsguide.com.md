@@ -1,85 +1,110 @@
-> *The following text is extracted and transformed from the thecriticsguide.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093803id_/http%3A//www.thecriticsguide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecriticsguide.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611072805id_/https%3A//www.thecriticsguide.com/privacy.php) for the most accurate reproduction.*
 
-# The Critics Guide - Luxury Hotel & Travel Specialists
+# Discover the world's finest luxury hotels and restaurants
 
-This privacy policy sets out how The Critics Guide uses and protects any information that you give The Critics Guide when you use this website.
+The Critics Guide takes security and privacy seriously:  
 
-The Critics Guide is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-The Critics Guide may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 19/06/2010.
-
-### What we collect
-
-We may collect the following information:
-
-  * contact information including email address
-
-  * demographic information such as postcode, preferences and interests
-
-  * other information relevant to customer surveys and/or offers
+  * We keep to a minimum the amount of information we hold about you.
+  * We use your data to respond to your enquiries about our services (the lawful basis for this is “Legitimate Interest”) and to provide our services to you (the lawful basis for this is “Contract”).
+  * We delete your data when it is no longer needed.
+  * We apply appropriate security mechanisms to protect your personal data.
 
 
 
+For the definition of terms used within this Privacy Policy refer to the [ICO website](https://ico.org.uk/) or look at the General Data Protection Regulation (“GDPR”). We suggest you start with the ICO website.
 
-### What we do with the information we gather
+We are happy to answer any questions you have about this Privacy Policy. Contact us via email privacy@thecriticsguide.com
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+### What personal data do we hold and why?
 
-  * Internal record keeping.
+Your name and contact information, provided by you, will be used to respond to your enquiries, requests for further information, and to communicate with you during the provision of our services to you.
 
-  * We may use the information to improve our products and services.
+As our client we will also hold information about your business activities as part of the delivery of our services. 
 
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+The Critics Guide website uses only standard fixed 'cookies'. Further information about cookies is provided below in our cookie policy.
 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+### Whom do we share it with?
 
+All third parties we use - including those who provide email and storage solutions used in our day to day work - are selected for, and monitored on, how they meet the requirements of current UK data protection legislation and the requirements of GDPR. 
 
+Where this includes storage or processing of information outside of the European Ecomonic Area (EEA), we include checks to ensure that compliance with the appropriate frameworks for exchange of personal data (such as the EU-US Privacy Shield) is in place.
 
+Exemptions to the above are where we are asked to provide information as a result of a court order or to recover monies due.
+
+We do not share nor sell your personal data to anyone else.
 
 ### Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-### How we use cookies
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
 ### Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-### Controlling your personal information
+### How long do we store your data for?
 
-You may choose to restrict the collection or use of your personal information in the following ways:  
+We will store your personal information for a maximum of two years after your last communication with us, or from the date of completion of our services, whichever is the latest. If you wish to stop hearing from us prior to that time then email privacy@thecriticsguide.com.
 
+If you are a sole trader or partnership, financial transactions between us might include some personal data. We are required to keep this information for the current financial year plus an additional six years.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+Whilst we store your information we store it securely to prevent unauthorised use.
 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us at 21 Borough High Street, London, SE1 9SE 
+### How to change information or contact us about anything concerning our use of your personal data
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+If there are any changes in your details that we need to reflect, you need to check the accuracy of the details that we hold about you, or if you have any other questions about this Privacy Policy, email privacy@thecriticsguide.com.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 21 Borough High Street, London, SE1 9SE. 
+Should you feel that you need to complain about how we are handling your personal data, email privacy@thecriticsguide.com or use the 'Contact' form on our website. Your ultimate point of contact for all data protection matters in the UK is the Information Commissionerâ€™s Office. See the Contact us page on the ICO website.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+### What is this privacy notice changes?
 
-Cookie Opt Out 
+If changes to The Critics Guide Data Protection Policy (and hence this Privacy Policy) include any significantly different use of your personal data, we will let you know and give you the option to agree to the new use.
 
-Gourmet Ads primary ad server is Appnexus and you can opt out of cookies from them by visiting ;  
-<http://appnexus.com/platform-policy#choices> and Opting Out.
+* * *
 
-You can also opt out of cookies using the Network Advertising Initiative opt-out page at this page;
+### Cookie Policy
 
-<http://www.networkadvertising.org/choices/>
+You're seeing this because you clicked on a page that uses cookies. Under a new EU Directive, effective 26 May 2012, site owners now need permission to use cookies. We are using this page to fully comply with that Directive.
 
-Finally, you can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
+The EU cookie law is a piece of privacy legislation that seeks to improve personal privacy on the internet. It was originally adopted by other EU countries in 2011, but the UK was given a year to comply after it updated its Privacy and Electronic Communications Regulations, which brought the directive in to UK law.
 
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
+The law now requires websites to gain consent from visitors to store or receive any information on a computer, or any other web-enabled device. The intent is to make you aware that we use cookies and to give you the option to control their use.
 
-[](http://www.gourmetads.com/ "Food Advertising")
+### What is a Cookie?
+
+Cookies are small files that contain information about particular websites you visit. Our cookie remembers the site, the time and date you last visited and any login information you may use. They also record any preferences you select while on the site.
+
+The idea of the cookie is to enhance the browsing experience by taking care of all the little details for you when your revisit this site.
+
+Sites that have advertising use them to allow rotation of adverts. They read the cookies, see where you have surfed and find adverts pertinent to your tastes.
+
+### How Do Cookies Affect My Browsing?
+
+Up until now, cookies have been such an inherent part of web browsing that many sites depend on them. Refusing cookies can result is a loss of some functionality and some services on websites simply won't work.
+
+This isn't blackmail to force you to accept cookies, it's just how the web works.
+
+We do not collect any private information through using cookies. We only use them to enhance your experience on this site and to remember your site preferences, nothing else!
+
+You can find out about how we use cookies below. It will tell you what types of cookies we use and how they provide you with the services on the site.
+
+You now have the choice whether or not to allow this website to use cookies. As mentioned, you should be aware that not using cookies may result a reduction of functionality and/or the loss of some site tools.
+
+### More Info
+
+We have surveyed our website and found we use the following cookies.
+
+__utma  
+__utmb  
+__utmc  
+__utmz
+
+PHP Session ID  
+PHPSESSID 
+
+**Google Analytics Cookies**  
+Google Analytics is a website monitoring tool that allows users to see volumes of website visitors, their source, and to analyse how the content of their website is viewed and navigated. This in turn allows optimisation of the content and pages on the marketing programs that drive traffic to the website. Google Analytics does not store any personal information about website visitors, but does use persistent cookies to identify repeat visitors. You may universally opt-out of all Google Analytics tracking used by all websites by visiting the following url [**https://tools.google.com/dlpage/gaoptout**](https://tools.google.com/dlpage/gaoptout)
+
+For information about opting out of Rakuten Marketing and ad serving partners please visit **<https://rakutenmarketing.com/en-uk/legal-notices/website-privacy-policy>**
+
+Last updated: May 25, 2018.
