@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cssigniter.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625134246id_/https%3A//www.cssigniter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssigniter.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611124643id_/https%3A//www.cssigniter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – CSSIgniter
+# Privacy Policy • CSSIgniter
 
 Protecting your privacy and the information you provide us is a top priority for CSSIgniter LLC (“CSSIgniter”). By visiting our Website, you are accepting the practices described in this Privacy Policy. Any information submitted to CSSIgniter, is collected, managed and retained by CSSIgniter. Please be aware that your access to our Services may be subject to certain third party terms and conditions and privacy policies, including but not limited to third party payment processors. You agree that CSSIgniter is not liable for any such third party terms and conditions and their use of your personal information (information related to you that can identify you). We do not transfer, sell or rent your personal information to third parties in any way other than what is stated in this Privacy Policy. Unless stated otherwise, this Privacy Policy only deals with the use and communication of information collected by CSSIgniter.
 
