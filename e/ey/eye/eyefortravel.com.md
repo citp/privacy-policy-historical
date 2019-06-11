@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eyefortravel.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111122111id_/http%3A//www.eyefortravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyefortravel.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611185807id_/http%3A//www.eyefortravel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Travel Industry News & Conferences - EyeforTravel testing
+# Privacy Policy | Travel Industry News & Conferences - EyeforTravel
 
   1. **OVERVIEW**
 
