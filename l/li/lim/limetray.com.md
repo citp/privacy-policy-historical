@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the limetray.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154813id_/http%3A//limetray.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limetray.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611181301id_/https%3A//limetray.com/privacy-policy) for the most accurate reproduction.*
 
-# Limetray.com | Privacy Policy
+# Privacy Policy | LimeTray
 
 ## We collect but do not link personal and activity data.
 
@@ -44,3 +44,6 @@ Google Analytics is a web analytics tool that helps website owners understand ho
 
 We take reasonable administrative, physical and electronic measures designed to safeguard and protect your information from unauthorized access or disclosure. This includes utilizing Secure Sockets Layer (SSL) software, which encrypts the personal information you input, and storing your information in encrypted form behind a firewall designed to block access from outside our network. However, no security or encryption method can be guaranteed to protect information from hackers or human error.  
 Information we collect may be stored or processed on computers located in any country where we do business.
+
+Here is something to help you.   
+Try reloding the page if it is still happening then let us know you can find contact details in footer. 
