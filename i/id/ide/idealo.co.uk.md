@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idealo.co.uk privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214225741id_/https%3A//www.idealo.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealo.co.uk privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611180136id_/https%3A//www.idealo.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # idealo internet GmbH privacy policy
 
@@ -201,7 +201,7 @@ The processing of data in web storage takes place on the basis of Art. 6 para. 1
 
 **c. idealo cookies**
 
-Cookies created by idealo allow the collection of information regarding browser type/version, resolution, previous/new display variant, URL clickstream (order of the pages of our website that you have visited previously), time of visit(s) to the websites, the reference in the idealo database for the products/services added to “My Favourites”, and the cookie number, but not personal details such as name, address or email address. We use these cookies for purposes of advertising, market research and when required, for the design of our services in conjunction with user needs. The cookies of idealo are valid for a maximum of two years, unless you delete them sooner. The processing of data is justified in this case by Art. 6 para. 1 point f) GDPR, [however you can object to this processing with effect for the future by clicking here](https://web.archive.org/web/20181214225741id_/https%3A//www.idealo.co.uk/privacypolicy.html?isTrackingOptOut=true). The subsequently set opt-out cookie and your objection remain valid as long as you do not delete your browser cookies.
+Cookies created by idealo allow the collection of information regarding browser type/version, resolution, previous/new display variant, URL clickstream (order of the pages of our website that you have visited previously), time of visit(s) to the websites, the reference in the idealo database for the products/services added to “My Favourites”, and the cookie number, but not personal details such as name, address or email address. We use these cookies for purposes of advertising, market research and when required, for the design of our services in conjunction with user needs. The cookies of idealo are valid for a maximum of two years, unless you delete them sooner. The processing of data is justified in this case by Art. 6 para. 1 point f) GDPR, [however you can object to this processing with effect for the future by clicking here](https://web.archive.org/web/20190611180136id_/https%3A//www.idealo.co.uk/privacypolicy.html?isTrackingOptOut=true). The subsequently set opt-out cookie and your objection remain valid as long as you do not delete your browser cookies.
 
 ## 10\. Web/app analysis services, marketing
 
@@ -235,7 +235,9 @@ If you do not want AppNexus to collect this information, you can deactivate this
 
 **d. Bing**
 
-This website uses Bing Ads Universal Event Tracking, a conversion tracking service operated by Microsoft (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA). This service allows us to track the activity of users who accessed our website via a Bing advertisement. This is possible because when you click on a Microsoft Bing Ads advertisement, a cookie (a small text file) is saved on your device. This informs Microsoft and, in particular, idealo about the total number of users that have clicked on an advertisement and reached a predefined target page. This data is saved by Microsoft for 180 days. No personal information about the identity of the user is transmitted. If you do not wish to participate in Universal Event Tracking, you can prevent the saving of cookies, e.g. in your browser settings.
+Our website uses Bing Ads Universal Event Tracking, a conversion tracking service operated by Microsoft (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA). This service allows us to track your activity on our site if you arrive via a Bing advertisement. When you click on a Microsoft Bing Ads advertisement, a cookie (small text file) is saved on your device which provides Microsoft and us with information such as the total number of users who have clicked on an advertisement and reached a predefined target page.
+
+We also use the Bing Ads Universal Event Tag in order to display more targeted advertising via Bing to visitors to our website. By visiting certain idealo pages, users are separated into individual target groups (segments) which help us to display carefully selected advertisements with Bing Ads. Microsoft saves this data for 180 days. No personal information about a user’s identity is transmitted. If you do not wish to take part in Universal Event Tracking, you can prevent the saving of cookies, e.g. in your browser settings.
 
 In addition, it is possible to deactivate interest-based advertising from Microsoft by opting out using the following link: [https://account.microsoft.com/languages?lang=en-gb&ru=https%3A%2F%2Faccount.microsoft.com%2Fprivacy%2Fad-settings%2Fsignedout%3Flang%3Den-GB](https://account.microsoft.com/languages?lang=en-gb&ru=https%3A%2F%2Faccount.microsoft.com%2Fprivacy%2Fad-settings%2Fsignedout%3Flang%3Den-GB)
 
@@ -621,7 +623,7 @@ We have integrated components of Sofortüberweisung on this website. Sofortüber
 
 **c. HeidelPay**
 
-We have integrated the payment service provider HeidelPay on this website. HeidelPay is operated by heidelpay GmbH, Vangerowstraße 18, 69115 Heidelberg, Germany. If a user selects this payment method, they will be forwarded directly to the service provider who will then be responsible for processing the data. We send the following data to HeidelPay: first and last name, credit card information. Further information is available at: [www.heidelpay.com/en/privacy-statement/](https://web.archive.org/web/20181214225741id_/https%3A//www.idealo.co.uk/www.heidelpay.com/en/privacy-statement/).
+We have integrated the payment service provider HeidelPay on this website. HeidelPay is operated by heidelpay GmbH, Vangerowstraße 18, 69115 Heidelberg, Germany. If a user selects this payment method, they will be forwarded directly to the service provider who will then be responsible for processing the data. We send the following data to HeidelPay: first and last name, credit card information. Further information is available at: [www.heidelpay.com/en/privacy-statement/](https://web.archive.org/web/20190611180136id_/https%3A//www.idealo.co.uk/www.heidelpay.com/en/privacy-statement/).
 
 ## 13\. Other services
 
@@ -649,7 +651,7 @@ Facebook Connect is a service provided by Facebook Ireland Limited, 5-7 Hanover 
 
 **d. Google Maps**
 
-We use Google Maps, a service provided by Google LLC (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) to display maps. This integration requires Google to be able to access users' IP addresses. The IP address is necessary to send content to the user’s browser. Please note that Google has its own data protection guidelines, which are independent of ours. Before using our website, please read about Google’s privacy policy at [www.google.de/intl/de/policies/privacy/](https://web.archive.org/web/20181214225741id_/https%3A//www.idealo.co.uk/www.google.de/intl/de/policies/privacy/). Google Maps is based on JavaScript code. This means that you can prevent it from running altogether by deactivating JavaScript in your browser’s settings or installing a JavaScript blocker. Please note that doing so may prevent our website from being correctly displayed.
+We use Google Maps, a service provided by Google LLC (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) to display maps. This integration requires Google to be able to access users' IP addresses. The IP address is necessary to send content to the user’s browser. Please note that Google has its own data protection guidelines, which are independent of ours. Before using our website, please read about Google’s privacy policy at [www.google.de/intl/de/policies/privacy/](https://web.archive.org/web/20190611180136id_/https%3A//www.idealo.co.uk/www.google.de/intl/de/policies/privacy/). Google Maps is based on JavaScript code. This means that you can prevent it from running altogether by deactivating JavaScript in your browser’s settings or installing a JavaScript blocker. Please note that doing so may prevent our website from being correctly displayed.
 
 **e. Google reCaptcha**
 
