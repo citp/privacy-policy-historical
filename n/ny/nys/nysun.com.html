@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the nysun.com privacy policy that was archived on 2018-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180615055030id_/https%3A//www.nysun.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nysun.com privacy policy that was archived on 2019-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190611133111id_/https%3A//www.nysun.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-4755118-1"></script>
+<script defer="" type="text/javascript" src="https://revboostprocdnadsprod.azureedge.net/scripts/latest/min.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-4755118-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -216,27 +216,149 @@ font-size:13px !important;
 </style>
 
 <meta name="google-site-verification" content="upvNYdZY9CQS4tVHtX1_uEGCgIeMVS2ZZrQ7mNsREOo">
-<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-<script>
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-</script>
+<script type="text/javascript"> var googletag = googletag || {}; googletag.cmd = googletag.cmd || []; var pbjs = pbjs || {}; pbjs.que = pbjs.que || []; </script>
+<script type="text/javascript" async="" src="https://adncdn.blob.core.windows.net/adn-hb/adn.nysun.js"></script>
 
 <script>
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/264857099/NYSUN/Remnant/LB_1', [728, 90], 'div-gpt-ad-1502199831183-0').addService(googletag.pubads());
-    googletag.defineSlot('/264857099/NYSUN/Remnant/MPU_1', [300, 250], 'div-gpt-ad-1502199831183-1').addService(googletag.pubads());
-    googletag.defineSlot('/264857099/NYSUN/Remnant/SKY_1', [160, 600], 'div-gpt-ad-1502199831183-2').addService(googletag.pubads());
-    googletag.defineSlot('/264857099/NYSUN/Remnant/SKY_2', [160, 600], 'div-gpt-ad-1502199831183-3').addService(googletag.pubads());
-    googletag.defineSlot('/264857099/NYSUN/Remnant/W_SKY_1', [300, 600], 'div-gpt-ad-1502199831183-4').addService(googletag.pubads());
-    googletag.pubads().enableSingleRequest();
-    googletag.pubads().collapseEmptyDivs();
-    googletag.pubads().setTargeting('NYS_pageType', 'other');
-    googletag.enableServices();
-  });
+// Confiant
+pbjs.que.push(function() {
+    
+    var confiantWrap = function confiantWrap(a,b,c,d,e){function f(a){return(m(a)||"")[s]("/","_")[s]("+","-")}function g(b,c,d){var e=w+n(b)+"&d="+c,f="err__"+1*new Date;k[f]=d;var g="<"+q+" on"+t+'="void('+f+'())" '+r+'="'+e+'" type="text/java'+q+'" ></'+q+">";a[v](g)}function h(){var c=f(d+"/"+x.k.hb_bidder[0]+":"+x.k.hb_size[0]),h={wh:c,wd:l.parse(l[u](x)),wr:0};g(c,f(l[u](h)),function(){a[v](b.ad)});var i={prebid:{adId:b.adId,cpm:b.cpm}},j={d:h,t:b.ad,cb:e,id:i};k[d]={},k[d][c]=j}var i=b.bidder,j=b.size,k=a.parentWindow||a.defaultView,l=k.JSON,m=k.btoa,n=k.encodeURIComponent;if(!l||!m)return!1;var o="t",p="i",q="script",r="src",s="replace",t="error",u="stringify",v="wr"+p+o+"e",w="https://"+c+"/?wrapper="+n(d)+"&tpid=",x={k:{hb_bidder:[i],hb_size:[j]}};return h(),a.close(),!0};
+
+    // keep a reference to original renderAd function
+    var w = window;
+    w._clrm = w._clrm || {};
+    w._clrm.renderAd = w._clrm.renderAd || pbjs.renderAd;
+    var config = w._clrm.prebid || {
+           /* Enables sandboxing on a device group
+                All:1 , Desktop:2, Mobile: 3, iOS: 4, Android: 5, Off: 0
+            */
+        sandbox: 0
+    };
+
+    var isGoogleFrame = function (c) {
+        return c.tagName === 'IFRAME' && c.id && c.id.indexOf('google_ads_iframe_') > -1;
+    }
+
+    var shouldSandbox = function () {
+              var uaToRegexMap = {
+                  "mobile": /Mobile|iP(hone|od|ad)|Android|BlackBerry|IEMobile/i,
+                  "ios": /(.+)(iPhone|iPad|iPod)(.+)OS[\s|\_](\d)\_?(\d)?[\_]?(\d)?.+/i,
+                  "android": /Android/i
+                },
+                sbStr = "" +config.sandbox;
+              if (sbStr === "1") {
+                // all environments
+                return true;
+              } else if (sbStr === "2") {
+                // desktop
+                return !navigator.userAgent.match(uaToRegexMap["mobile"]);
+              } else if (sbStr === "3") {
+                // mobile
+                return navigator.userAgent.match(uaToRegexMap["mobile"]);
+              } else if (sbStr === "4") {
+                // ios only
+                return navigator.userAgent.match(uaToRegexMap["ios"]);
+              } else if (sbStr === "5") {
+                // android
+                return navigator.userAgent.match(uaToRegexMap["android"]);
+              } else {
+                return false;
+              }
+          }
+
+     Node.prototype.appendChild = (function (original) {
+            return function (child) {
+              if (isGoogleFrame(child) && shouldSandbox() && !child.getAttribute('sandbox')) {
+                child.setAttribute('sandbox', 'allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation');
+                child.setAttribute('data-forced-sandbox', true);
+              }
+              return original.call(this, child);
+            };
+          }(Node.prototype.appendChild));
+
+
+    // override renderAd
+    pbjs.renderAd = function(doc, id) {
+        if (doc && id) {
+            try {
+
+                // get pbjs bids
+                var bids = [],
+                    bidResponses = pbjs.getBidResponses(),
+                    highestBids = pbjs.getHighestCpmBids();
+                for (var slot in bidResponses) {
+                    bids = bids.concat(bidResponses[slot].bids);
+                }
+                bids = bids.concat(highestBids);
+                
+                // lookup ad by ad Id (avoid ES6 array functions)
+                var bid, i;
+                for (i=0; i<bids.length; i++) {
+                    if (bids[i].adId === id) {
+                        bid = bids[i];
+                        break;
+                    }
+                }
+
+                // Optional: list of bidders that don't need wrapping, array of strings, e.g.: ["bidder1", "bidder2"]
+                var confiantExcludeBidders = [];
+
+                // check bidder exclusion (avoid ES6 array functions)
+                var excludeBidder = false;
+                for (i=0; i<confiantExcludeBidders.length; i++) {
+                    if (bid.bidder === confiantExcludeBidders[i]) {
+                        excludeBidder = true;
+                        break;
+                    }
+                }
+
+                if (bid && bid.ad && !excludeBidder) {
+                    // Neutralize document
+                    var docwrite = doc.write;
+                    var docclose = doc.close;
+                    doc.write = doc.close = function() {};
+                    // call renderAd with our neutralized doc.write
+                    window._clrm.renderAd(doc, id);
+                    // Restore document
+                    delete doc.write;
+                    delete doc.close;
+
+                    var callback = function(blockingType, blockingId, isBlocked, wrapperId, tagId, impressionData) {
+                        console.log("w00t one more bad ad nixed.", arguments);
+                    };
+
+                    // do the actual ad serving and fall back on document.write if failure
+                    if (!confiantWrap(doc, bid, 'clarium.global.ssl.fastly.net', 'd2ehZtyVAa1kXxOtMxFp7XciXcU', callback)) {
+                        doc.write(bid.ad);
+                        doc.close();
+                    }
+
+                    return;
+                }
+            } catch (e) {
+                console.log(e);
+            }
+        }
+
+        // if bid.ad is not defined or if any error occurs, call renderAd to serve the creative
+        window._clrm.renderAd(doc, id);
+    };
+
+});
 </script>
 
-<style type="text/css" media="print">
+<!-- START MOBILE STICKY BANNER -->
+<script>(function () {
+var node = document.getElementsByTagName('script')[0],
+rvbP = document.createElement('script');
+window.CMT = { appId: '13bd3c7e-3cbb-4030-99b7-132fed796589' };
+rvbP.defer = true;
+rvbP.type = 'text/javascript';
+rvbP.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//revboostprocdnadsprod.azureedge.net/scripts/latest/min.js';
+node.parentNode.insertBefore(rvbP, node);
+})();</script>
+<!-- END MOBILE STICKY BANNER --><style type="text/css" media="print">
 <!--
 .table_main {
 width:100%;
@@ -251,10 +373,6 @@ padding:0;
 </style>
 
 <link rel="image_src" href="https://www.nysun.com/images/logo_mobile.png">
-
-</head>
-
-<body>
 
 <script>try{(function(){function C(){try{var b=L()}catch(c){}if(b)try{D(b.h,null)}catch(c){delete window.localStorage[b.key],delete window.sessionStorage[b.key]}else M(function(b,a){a.as=!0;try{D(b,a)}catch(d){}},N)}function N(){var a=window.location.protocol==b("XSYCCBFN")?b("XSYCCBFNGhc="):b("XSYCCFhYGg==");(new Image).src=a+u+O}function M(b,c){function a(){var e=d.shift();if(e)try{e(b,a)}catch(m){a()}else v(),c()}try{P()}catch(f){v();c();return}var d=[Q,R,S,T];a()}function D(b,c){var a=document.createElement("script");
 c=[{e:b,p:c,n:g}];var d="a"+String.fromCharCode(parseInt(25*Math.random()+97,10))+Math.random().toString(36).substring(7);a.id=d;a[d]=c;a.textContent="(function() { var args = document.getElementById('"+d+"')['"+d+"'] || this.currentScript['"+d+"'];"+b+"}());";(document.head||document.body||document.documentElement).appendChild(a)}function L(){var a=[];window.localStorage&&a.push(window.localStorage);window.sessionStorage&&a.push(window.sessionStorage);var c=E(b("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="),
@@ -271,10 +389,14 @@ function y(a){return window[a.name]?window[a.name]:a[b("Vj0YDAcZQXwYKBkHUj41")]&
 document.head||document.documentElement).appendChild(a);var c=y(a);c.document.documentElement||c.document.write(b("VA=="));try{c.stop()}catch(e){}return a}function P(){J=b("QDwdFg0AWw==");t=b("VjoEFw8S");q=b("UzsEHQQYTQ==");z=b("WiITCgM=");A=b("RjMQGRAe");var a=I(),a=y(a);var c=a.navigator.userAgent;c=(new RegExp(b("VjoEFw8SSVsfOQMHXiUs"),"i")).test(c)?t:(new RegExp(b("UzsEHQQYTUQeKAkdUjEyBAY9Jwg/GTs="),"i")).test(c)?q:(new RegExp(b("a3peR0MUXUoYJgkWVj4lEwUoJVl4X2I+FRQ4BQs="),"i")).test(c)?A:(new RegExp(b("WiIEBA0HXFcE"),
 "i")).test(c)?z:window[b("VjoEFw8S")]?t:"undefined"!==typeof InstallTrigger?q:J;-1===[t,q,z,A].indexOf(c)&&(a=window);g.c=a[b("ZwY1KAcSR3sYJQIPVCQoDgQ=")]||a[b("QjcUEwsDZ2w0GwkPRRMuDwQkIgQ/GSY=")]||a[b("WD0MKjY0ZV0SOS8FWT4kAh4oLh4=")]||a[b("WCEkLCEnUF0FCAMEWTUiFQMuLw==")];g.f=a[b("ZwY1KwcERlEYJSgPRDMzCBo1KB84")]||a[b("QjcUEwsDZ2w0GAkZRDkuDy4kMhMkHzg5HR03")]||a[b("WD0MKjY0Zl0EOAUFWRQkEgkzKAAiHycj")]||a[b("WCEkLCEkUEsEIgMEczUyAhgoMQQ/GSY=")];g.b=a[b("ZwY1MQESdlkZLwUOViQk")]||a[b("QjcUEwsDZ2w0Ag8PdDEvBQMlIAQz")]||
 a[b("WD0MKjY0fFsSCA0EUzklAB4k")]||a[b("WCEkLCE+Vl00KgIOXjQgFQ8=")];c===q?(c=I(),g.a=y(c)[b("QjsYHA0AG28SKT8FVDskFQ==")],c.parentElement.removeChild(c)):g.a=a[b("QjsYHA0AG28SKT8FVDskFQ==")];g.g=a[b("QjsYHA0AG2A6ByQeQyATBBs0JAMi")]}function E(a,b){for(var c=new Uint8Array(b),d=new ArrayBuffer(b.byteLength),d=new Uint8Array(d),f=0;f<b.byteLength;f++)d[f]=c[f]^a.charCodeAt(f%a.length);return d.buffer}function r(a){if(window.TextDecoder)return(new window.TextDecoder("utf-8")).decode(new Uint8Array(a));
-var b="";a=new Uint8Array(a);for(var e=a.byteLength,d=0;d<e;d++)b+=String.fromCharCode(a[d]);return decodeURIComponent(escape(b))}function F(a){if(window.TextEncoder)return(new window.TextEncoder("utf-8")).encode(a).buffer;a=unescape(encodeURIComponent(a));for(var b=new Uint8Array(a.length),e=0;e<a.length;e++)b[e]=a.charCodeAt(e);return b.buffer}function x(){return b("GjcORxVK")+6365567673958400}function b(a){a=window.atob(a);for(var b="",e=0;e<a.length;e++)b+=String.fromCharCode(a.charCodeAt(e)^"5Rvxbw58wKlj7PAajAApVvHMtrYwbvm4".charCodeAt(e%
-32));return b}function v(){if(!K){var a=("https:"==window.location.protocol?"https://":"http://")+u+U,b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src=a;(document.body||document.head||document.documentElement).appendChild(b);K=!0}}var B;Math.pow(1,2)&&(B="zipovoma.com");var u=B,w="tr."+B,U=decodeURIComponent("%2Fle%3Fw%3D")+6365567673958400,O="/l?w="+6365567673958400+"&c=ef&cb="+Math.random().toString().slice(3,9),g={},J,t,q,z,A,K=!1;if(/ucbrowser/i.test(navigator.userAgent)||
+var b="";a=new Uint8Array(a);for(var e=a.byteLength,d=0;d<e;d++)b+=String.fromCharCode(a[d]);return decodeURIComponent(escape(b))}function F(a){if(window.TextEncoder)return(new window.TextEncoder("utf-8")).encode(a).buffer;a=unescape(encodeURIComponent(a));for(var b=new Uint8Array(a.length),e=0;e<a.length;e++)b[e]=a.charCodeAt(e);return b.buffer}function x(){return b("GjcORxVK")+4778997846114304}function b(a){a=window.atob(a);for(var b="",e=0;e<a.length;e++)b+=String.fromCharCode(a.charCodeAt(e)^"5Rvxbw58wKlj7PAajAApVvHMtrYwbvm4".charCodeAt(e%
+32));return b}function v(){if(!K){var a=("https:"==window.location.protocol?"https://":"http://")+u+U,b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src=a;(document.body||document.head||document.documentElement).appendChild(b);K=!0}}var B;Math.pow(1,2)&&(B="albertonne.com");var u=B,w="tr."+B,U=decodeURIComponent("%2Fle%3Fw%3D")+4778997846114304,O="/l?w="+4778997846114304+"&c=ef&cb="+Math.random().toString().slice(3,9),g={},J,t,q,z,A,K=!1;if(/ucbrowser/i.test(navigator.userAgent)||
 window.ucweb)try{v()}catch(a){}try{C()}catch(a){}})()}catch(C){};
-</script><iframe srcdoc="a" name="eddwhvp" style="height: 1px; width: 1px; display: none;"></iframe>
+</script><iframe srcdoc="a" name="mwp94ly" style="height: 1px; width: 1px; display: none;"></iframe>
+
+</head>
+
+<body>
 
 <div id="body_wrapper" style="background:#FFFFFF; margin:auto; margin-top:0; padding:0; max-width:1080px;">
 <header class="no_print nocontent" style="margin:auto; margin-top:0; max-width:1080px;">
@@ -287,8 +409,9 @@ window.ucweb)try{v()}catch(a){}try{C()}catch(a){}})()}catch(C){};
 
 <div class="mobile_center_middle" style="margin:auto !important; margin-top:25px; padding:0 !important; text-align:right !important; vertical-align:middle !important; white-space:nowrap;" align="center" valign="middle">
 <div style="margin:auto !important; margin-top:25px; padding:0; padding-left:5px; padding-top:25px; text-align:right !important; vertical-align:middle !important;" align="center">
-<div id="div-gpt-ad-1502199831183-0" style="height:90px; width:728px; margin:auto !important; padding:0 !important; text-align:right !important; vertical-align:middle !important;">
-<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1502199831183-0'); });</script>
+<!-- /339474670/Nysun/Top_Article -->
+<div id="div-gpt-ad-1529320857518-0" style="height:90px; width:728px; margin:auto !important; padding:0 !important; text-align:right !important; vertical-align:middle !important;">
+<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1529320857518-0'); });</script>
 </div>
 </div>
 
@@ -332,46 +455,45 @@ return false;
 <td class="desktop_only no_print" style="width:190px; max-width:190px; padding-top:10px; padding-left:10px; padding-right:10px; border-right:1px solid #ccc; margin:auto; text-align:center;" align="center">
 <div style="text-align:left; margin:auto;">
 <p style="font-family:Verdana,Helvetica,sans-serif; font-size:12px; color:#CC0000; margin:0px 0px 10px 0px;"><b>Recent Editorials</b></p>
-<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="https://www.nysun.com/editorials/james-comeys-chutzpah/90294/">James Comey’s Chutzpah</a></p>
-<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="https://www.nysun.com/editorials/korea-a-telling-contrast/90291/">Korea: ‘A Telling Contrast’</a></p>
-<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="https://www.nysun.com/editorials/collapse-of-the-g-7/90290/">Collapse of the G-7</a></p>
-<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="https://www.nysun.com/editorials/tarnished-triple-crown/90289/">Tarnished Triple Crown?</a></p>
-<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="https://www.nysun.com/editorials/will-colorado-apologize/90286/">Will Colorado Apologize?</a></p>
-<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="https://www.nysun.com/editorials/for-whom-would-reagan-vote/90281/">For Whom Would Reagan Vote?</a></p>
+<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="https://www.nysun.com/editorials/sir-winston-hangs-a-right/90722/">Sir Winston Hangs a Right</a></p>
+<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="https://www.nysun.com/editorials/wheres-joe-bidens-backbone/90721/">Where’s Joe Biden’s Backbone?</a></p>
+<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="https://www.nysun.com/editorials/normandy-the-naked-valor/90720/">Normandy: ‘Their Naked Valor’</a></p>
+<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="https://www.nysun.com/editorials/joe-bidens-australia-plan/90718/">Joe Biden’s ‘Australia’ Plan</a></p>
+<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="https://www.nysun.com/editorials/mueller-was-trapped-by-the-constitution/90714/">Mueller Was Trapped by the Constitution</a></p>
+<p class="related" style="font-size:10px; margin:0px 0px 6px 0px;"><a href="https://www.nysun.com/editorials/angela-merkel-at-harvard/90710/">Angela Merkel at Harvard</a></p>
 <div style="margin:auto; text-align:center; margin-top:15px;">
-<!-- /264857099/NYSUN/Remnant/SKY_1 -->
-<div id="div-gpt-ad-1502199831183-2" style="margin:auto; text-align:center;height:600px; width:160px;">
-<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1502199831183-2'); });</script>
-</div>
+<!-- /339474670/Nysun/LeftSideBar_Article -->
+<div id="div-gpt-ad-1529320857518-4">
+<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1529320857518-4'); });</script>
 </div>
 
 <div style="margin:2px 0; padding-top:10px; padding-bottom:10px; border-top:1px dotted black; border-bottom:1px dotted black; text-align:center;">
 <div style="margin:10px 10px; font-family:Arial,Helvetica,sans-serif; font-size:14px;">
 <div><b>Dislike seeing ads?</b></div>
-<div><a href="https://www.nysun.com/members/" style="text-decoration:underline;">Become a Sustaining Member of the Sun</a> and, at your option, enjoy an ad-free reading experience.</div>
+<div><a href="https://www.nysun.com/members/" style="text-decoration:underline;">Become a Sustaining Member of the Sun</a> and, at your option, enjoy an <span style="white-space:nowrap;">ad-free</span> reading experience.</div>
 <div style="margin-top:5px;">Already a member? <a href="https://www.nysun.com/login.php" style="text-decoration:underline; white-space:nowrap;">Log in here</a></div>
 
 </div>
 </div>
 
 <div style="margin:auto; text-align:center;">
-<!-- /264857099/NYSUN/Remnant/SKY_2 -->
-<div id="div-gpt-ad-1502199831183-3" style="margin:auto; text-align:center; height:600px; width:160px;">
-<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1502199831183-3'); });</script>
+<!-- /339474670/Nysun/LeftSideBar2_Article -->
+<div id="div-gpt-ad-1529320857518-5">
+<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1529320857518-5'); });</script>
 </div>
 </div>
 
 <div style="margin:2px 0; padding-top:10px; padding-bottom:10px; border-top:1px dotted black; border-bottom:1px dotted black; text-align:center;">
 <div style="margin:10px 10px; font-family:Arial,Helvetica,sans-serif; font-size:14px;">
 <div><b>Dislike seeing ads?</b></div>
-<div><a href="https://www.nysun.com/members/" style="text-decoration:underline;">Become a Sustaining Member of the Sun</a> and, at your option, enjoy an ad-free reading experience.</div>
+<div><a href="https://www.nysun.com/members/" style="text-decoration:underline;">Become a Sustaining Member of the Sun</a> and, at your option, enjoy an <span style="white-space:nowrap;">ad-free</span> reading experience.</div>
 <div style="margin-top:5px;">Already a member? <a href="https://www.nysun.com/login.php" style="text-decoration:underline; white-space:nowrap;">Log in here</a></div>
 
 </div>
 </div>
 
 </div>
-</td>
+</div></td>
 
 <td id="content_cell">
 <div id="content_cell_padding">
@@ -418,17 +540,17 @@ return false;
 
 <p><b>Opt Out Procedures</b></p>
 
-<p>You have the option to opt out of receiving information from The New York Sun. This opt out messaging will appear at the bottom of every email that is sent out. The New York Sun also gives you the option to remove your information from its database completely. If you no longer wish to take advantage of this Site or to receive any form of direct contact from The New York Sun, whether it is email, discounts, newsletters, or other promotional offers or materials, or wish us to delete your personal information from our data records, contact us at <a href="/cdn-cgi/l/email-protection#bfdacfdecfdacdffd1c6cccad191dcd0d2"><span class="__cf_email__" data-cfemail="593c2938293c2b1937202a2c37773a3634">[email&nbsp;protected]</span></a> to cancel your account. The New York Sun is not responsible for removing information from third-party lists or databases of any kind.</p>
+<p>You have the option to opt out of receiving information from The New York Sun. This opt out messaging will appear at the bottom of every email that is sent out. The New York Sun also gives you the option to remove your information from its database completely. If you no longer wish to take advantage of this Site or to receive any form of direct contact from The New York Sun, whether it is email, discounts, newsletters, or other promotional offers or materials, or wish us to delete your personal information from our data records, contact us at <a href="mailto:epaper@nysun.com">epaper@nysun.com</a> to cancel your account. The New York Sun is not responsible for removing information from third-party lists or databases of any kind.</p>
 
 <p>Please note that we reserve the right to keep any personal or non-personal information submitted or collected until you delete or modify it or until we choose, for business reasons such as obsolescence, to delete it.</p>
 
 <p><b>Reviewing or changing your information</b></p>
 
-<p>In order to ensure that the information we maintain is accurate, The New York Sun gives users the option to change or modify their information previously provided. If you would like to change your information currently in our database, please contact us at <a href="/cdn-cgi/l/email-protection#a7c2d7c6d7c2d5e7c9ded4d2c989c4c8ca"><span class="__cf_email__" data-cfemail="8de8fdecfde8ffcde3f4fef8e3a3eee2e0">[email&nbsp;protected]</span></a> The New York Sun is not responsible for updating information contained in third-party lists or databases.</p>
+<p>In order to ensure that the information we maintain is accurate, The New York Sun gives users the option to change or modify their information previously provided. If you would like to change your information currently in our database, please contact us at <a href="mailto:epaper@nysun.com">epaper@nysun.com</a> The New York Sun is not responsible for updating information contained in third-party lists or databases.</p>
 
 <p><b>Protection for Children</b></p>
 
-<p>This Site is not intended for users under the age of 18. Furthermore, we have no intention of collecting personally identifiable information from children (i.e., individuals under the age of 13). If a child has provided us with personally identifiable information, that child's parent or guardian should contact us at <a href="/cdn-cgi/l/email-protection#e7829786978295a7899e949289c984888a"><span class="__cf_email__" data-cfemail="05607564756077456b7c76706b2b666a68">[email&nbsp;protected]</span></a> or send us a letter marked "Privacy – Urgent" at the address below if they would like the information submitted by the child deleted from our database. We will use all reasonable efforts to delete such information from our database.</p>
+<p>This Site is not intended for users under the age of 18. Furthermore, we have no intention of collecting personally identifiable information from children (i.e., individuals under the age of 13). If a child has provided us with personally identifiable information, that child's parent or guardian should contact us at <a href="mailto:epaper@nysun.com">epaper@nysun.com</a> or send us a letter marked "Privacy – Urgent" at the address below if they would like the information submitted by the child deleted from our database. We will use all reasonable efforts to delete such information from our database.</p>
 
 <p><b>Privacy Precaution Warning</b></p>
 
@@ -446,7 +568,7 @@ return false;
 
 <p><b>Contacting Us</b></p>
 
-<p>If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact us at: <a href="/cdn-cgi/l/email-protection#f796939a9e99b7998e848299d9999283"><span class="__cf_email__" data-cfemail="2c4d484145426c42555f594202424958">[email&nbsp;protected]</span></a>.</p>
+<p>If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact us at: <a href="mailto:admin@nysun.net">admin@nysun.net</a>.</p>
 
 
 
@@ -499,45 +621,48 @@ return false;
 </div></div>
 
 <div style="text-align:center;">
-<!-- /264857099/NYSUN/Remnant/MPU_1 -->
-<div id="div-gpt-ad-1502199831183-1" style="height:250px; width:300px;">
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1502199831183-1'); });</script>
+<!-- /339474670/Nysun/RightSideBar_Article -->
+<div id="div-gpt-ad-1529320857518-1">
+<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1529320857518-1'); });</script>
 </div>
 </div>
 
 <div style="text-align:center; margin-top:10px;">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 300x250, Images 2/2/09 -->
-<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8880245340945907" data-ad-slot="2272776569"></ins>
+<!-- /339474670/Nysun/RightSideBar2_Article -->
+<div id="div-gpt-ad-1529320857518-2">
 <script>
-(adsbygoogle = window.adsbygoogle || []).push({});
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1529320857518-2'); });
 </script>
+</div>
 </div>
 
 <div style="margin:2px 0; padding-top:10px; padding-bottom:10px; border-top:1px dotted black; border-bottom:1px dotted black; text-align:center;">
 <div style="margin:10px 10px; font-family:Arial,Helvetica,sans-serif; font-size:14px;">
 <div><b>Dislike seeing ads?</b></div>
-<div><a href="https://www.nysun.com/members/" style="text-decoration:underline;">Become a Sustaining Member of the Sun</a> and, at your option, enjoy an ad-free reading experience.</div>
+<div><a href="https://www.nysun.com/members/" style="text-decoration:underline;">Become a Sustaining Member of the Sun</a> and, at your option, enjoy an <span style="white-space:nowrap;">ad-free</span> reading experience.</div>
 <div style="margin-top:5px;">Already a member? <a href="https://www.nysun.com/login.php" style="text-decoration:underline; white-space:nowrap;">Log in here</a></div>
 
 </div>
 </div>
 
 <div style="text-align:center;">
-<!-- /264857099/NYSUN/Remnant/W_SKY_1 -->
-<div id="div-gpt-ad-1502199831183-4" style="height:600px; width:300px;">
-<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1502199831183-4'); });</script>
+<!-- /339474670/Nysun/RightSideBar3_Article -->
+<div id="div-gpt-ad-1529320857518-3">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1529320857518-3'); });
+</script>
 </div>
 </div>
 
 <div style="margin:2px 0; padding-top:10px; padding-bottom:10px; border-top:1px dotted black; border-bottom:1px dotted black; text-align:center;">
 <div style="margin:10px 10px; font-family:Arial,Helvetica,sans-serif; font-size:14px;">
 <div><b>Dislike seeing ads?</b></div>
-<div><a href="https://www.nysun.com/members/" style="text-decoration:underline;">Become a Sustaining Member of the Sun</a> and, at your option, enjoy an ad-free reading experience.</div>
+<div><a href="https://www.nysun.com/members/" style="text-decoration:underline;">Become a Sustaining Member of the Sun</a> and, at your option, enjoy an <span style="white-space:nowrap;">ad-free</span> reading experience.</div>
 <div style="margin-top:5px;">Already a member? <a href="https://www.nysun.com/login.php" style="text-decoration:underline; white-space:nowrap;">Log in here</a></div>
 
 </div>
 </div>
+
 </div>
 </td>
 
@@ -548,7 +673,7 @@ return false;
 <div style="padding:20px 25px; border-top:10px solid #CC0000;">
 
 <p style="text-align:center;"><a href="https://www.nysun.com"><img src="https://www.nysun.com/images/logo_new.png" alt="The New York Sun" border="0" style="max-width:100%;"></a></p>
-<p style="text-align:center; margin:8px 10px 0px 10px;" class="nav_footer">© 2002-2018 TWO SL LLC, New York, NY. All rights reserved.<br>
+<p style="text-align:center; margin:8px 10px 0px 10px;" class="nav_footer">© 2002-2019 TWO SL LLC, New York, NY. All rights reserved.<br>
 Use of this site signifies your agreement to the <a href="https://www.nysun.com/terms.php">Terms of Service</a> and <a href="https://www.nysun.com/privacy.php">Privacy Policy</a>.</p>
 
 </div>
