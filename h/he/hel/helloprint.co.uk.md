@@ -1,76 +1,52 @@
-> *The following text is extracted and transformed from the helloprint.co.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630023432id_/http%3A//www.helloprint.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helloprint.co.uk privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611082942id_/https%3A//www.helloprint.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of Helloprint
+# Helloprint | Privacy Statement
 
-We, Helloprint B.V, are the owner of the Helloprint website. We are committed to protecting your privacy and security. Any information you as user of the website provide is received, stored and managed by us in line with our Privacy and Security policies detailed below which is in line with European and UK regulation. By using our website you are agreeing to this policy and the use of cookies in line with the terms in this policy.
+This is the Privacy Statement of the website https://www.helloprint.co.uk (hereinafter referred to as: ‘Website’). This statement applies to all personal data that Helloprint United Kingdom B.V., 100 Pall Mall, St. James, SW1Y 5NQ London (hereinafter referred to as ‘we’, ‘our’ or ‘us’), processes of its website visitors (hereinafter referred to as: ’you’ and ‘your data’) via the Website. This statement will explain how we will use the data that we collect via the Website and which rights you have with respect to your personal data.
 
-**Privacy**
+Personal data is any information that directly or indirectly identifies a natural person. Such information could include a name, e-mail address and the IP-address of your computer.
 
-This Privacy Policy explains how Helloprint ('We/Us/Our') collect, store and use your personal data when you browse and use Helloprint (the 'Website'), and when you provide us with your personal data. Please read this Privacy Policy carefully.
+We process your data for the purposes set out below. For as far we collect personal data through cookies, please find more information here.
 
-By accessing, browsing or otherwise using the Website you confirm that you have read, understood and agree to this Privacy Policy. If you do not agree with any part of this Privacy Policy, you must not use the Website. Our official company details are:
+  1. When submitting a contact request on our website, in order to answer your questions, we use the personal data you provide us via our contact form and chat on the website, such as your e-mail address, name and phone number. We have a legitimate interest for processing this personal data based on article 6(f) of the General Data Protection Regulation (‘GDPR’), since we are not able to contact you without this information. The provision is not a statutory or contractual requirement or a requirement necessary to enter into a contract. However, if you do not provide the contacting information we may not be able to answer your question.
 
-Helloprint B.V   
-Buckenham Road  
-NR17 1NQ Attleborough  
-England, United Kingdom
+  2. When registering an account, we require your name, email address and phone number in prevision of the future orders you’ll be placing with us. We have a legitimate interest for processing this personal data based on article 6(f) of the GDPR, since we need this information to contact you for the future orders you can place with us via your account. The provision is not a statutory or contractual requirement or a requirement necessary to enter into a contract. If you do not provide this data we are not able to create an account for you.
 
-Our company is registered with Kamer van Koophandel under registration number 57369798.
+  3. In the case that you have opted in as a subscriber to our newsletters, we will use your data to contact you with special offers, updates and blog content, personalised to you. We may process this data based on your consent as set out article 6(a) of the GDPR. You have the right to withdraw your consent at any time, without affecting the lawfulness of processing based on consent before your withdrawal;
 
-We respect your right to privacy and are committed to maintaining it. We only collect, store and process your personal data in accordance with the Data Protection Act 1998. You can surf our website without indicating your name or other personal data. We only save the name of you internet service provider, the webpage from which you visit our homepage and the name of the requested file (please see cookie info). This information is only analysed for statistical reasons and serves for the improvement of our offers. You as user remain completely anonymous.
+  4. When placing an order, we require your name, email address, phone number, invoice and delivery address in order to keep you informed of important order updates, deliver the order and contact you with any order discrepancies. The provision is a contractual requirement necessary to enter into a contract as set out article 6(b) of the GDPR. If you do not provide this data we are not able to enter into a contract with you.
 
-Personal data is only collected if you enter it for the transaction between you and us or at the creation of a customer account or for the registration to our email newsletter. This data is only used for the settlement of the contract (processing payments) and the execution of your enquiries. After the complete settlement of the contract and the complete payment of the goods, your data is saved considering storage periods in terms of commercial and tax legislation. After expiration of this period the data is deleted.
+  5. When submitting a quote request via our quote form, we use the personal data you provide us to contact you in answer to your request. We have a legitimate interest for processing this personal data based on article 6(f) of the GDPR, since we are not able to contact you about the quote without this information. The provision is not a statutory or contractual requirement or a requirement necessary to enter into a contract. If you do not provide this data we are not able to create a quotation for you.
 
-After the contract settlement, your email address is only used for the advertising purposes in form our newsletter if you had agreed to receive our electronic newsletter. You are able to unsubscribe from the newsletter at any time via the link in the newsletter or you can inform us of this by sending an e-mail to http://www.helloprint.co.uk or calling our Customer Service team. We will immediately delete your email address after receiving such notification.
+  6. We give our customers the possibility to review our services on different third party websites such as Trustpilot or Trusted shop. The personal information you provide with such reviews could be later seen on our own website and communication material. We may process this data based on your consent as set out article 6(a) of the GDPR. You have the right to withdraw your consent at any time, without affecting the lawfulness of processing based on consent before your withdrawal.
 
-The personal details you provide when registering with us a client can be viewed and altered at anytime by you, in the ‘My Account’ section of the website.
 
-We only share your information in these circumstances: with agents (including credit reference agencies, credit card clearing agencies transport/logistics companies and our third party customer services provider), if and when our company is ever sold or purchased by another company, or with outside research agencies for research about our own goods and services. We will never pass your data on to a third party for marketing purposes.
 
-If you choose or are provided with a password you must treat such information as confidential and you are responsible for any activities that occur under your account. We shall not be liable for any loss or damage which may arise as a result of any failure by you to keep your password or other account information confidential.
 
-**Data transfer internationally**
+We may share your data with group entities located in the European Economic Area (“EEA”).
 
-Information we collect maybe stored and processed in and moved between any of the countries we operate in. We will comply with the Data Protection Act 1998 in respect of any such transfers. Please be aware that such countries which are outside of EEA may not have the same level of data protection as the United Kingdom, however our collection, storage and use of your personal data will continue to be governed by this Privacy Policy.
+We may share your data with third parties that provide database-, server-, maintenance-, security-, or other similar services to us (hereinafter referred to as ‘data processors’). If we provide access to your data, we require the third parties to keep your data confidential and instruct these parties to process this data only on behalf of us.
 
-**Cookies**
+Furthermore, we may also disclose your data if we believe that the disclosure is required by law, or is in response to a legal request.
 
-**What are cookies**
+We will not share/sell your data with any third parties for remarketing purposes.
 
-‘Cookies’ are small text files that are stored on your computer. Our online shops use cookies to improve and to secure our internet presence - for example to increase the navigation on our platform. Furthermore, cookies help us to analyse the frequency of our webpage views and the general navigation. Please note that some of these cookies are transmitted from our server to your system. In most cases these cookies are so called "Session -Cookies". Session cookies are deleted automatically from your hard-disk after your visit of our shops. Other cookies remain on your computer and allow us to recognize your computer during your next visit (so-called ‘persistent’ cookies). These cookies allow us to welcome you with your username and spare you retyping of your password and filling out forms with your data for subsequent orders.
+We implemented appropriate technical and organizational measures to protect your personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access and against all other forms of unlawful processing. Also, we require our data processors to implement such appropriate technical and organizational measures.
 
-**Are cookies safe**
+Your data will be stored no longer than is necessary for the purposes for which the personal data is collected unless otherwise required by law. We retain information of all processed orders for seven years in order to fulfill our obligations under applicable tax laws. Information of accounts without any orders will only be stored for 18 months before it is deleted from our system, the same will be valid for accounts inactive for 24 months (with inactive we mean that we have not noticed any interaction by you with our Website for a consecutive period of 24 months). All artwork files uploaded on our platform will be stored for a period of 18 months before deletion.
 
-Yes. The information stored in cookies is safe and anonymous. They do not contain any information which could personally identify you and your account security is never compromised. You can find more information about cookies at www.allaboutcookies.org and www.youronlinechoices.eu. For a video about cookies visit www.google.co.uk/goodtoknow/data-on-the-web/cookies.
+You may contact us by using the contact details at the bottom of this privacy statement, if you wish:
 
-**Your consent**
+  * to know whether or not we process your personal data;
+  * to rectify your data;
+  * to erase your data;
+  * to restrict your data; and/or
+  * us to transmit your data to another organization.
 
-Helloprint uses cookies to ensure that we provide the best possible standard of service to our online customers. However, as part of our privacy and security policy, we require your consent to use them.
 
-We currently have an “implied consent” policy in place. This means that we will assume by your continued use of our website that you are happy for us to use cookies unless you take certain steps to opt out of using the same.
 
-Should you not consent to the use of cookies on the site please see the section below for more information.
+We may request provision of additional information necessary to confirm your identity. The rights mentioned above do not always apply and we will review per request if we need to take action in order to comply with the GDPR. We will provide information on the actions taken without undue delay and in any event within one month of receipt of the request. That period may be extended by two further months where necessary, taking into account the complexity and number of the requests. We shall inform you of any such extension within one month of receipt of your request, together with the reasons for the delay. You have the right to lodge a complaint with the a supervisory authority if we do not respond in time or for any other reason.
 
-**Can I turn off cookies?**
+It is possible that this statement will be amended in the future. The most recent version will be available on this page at all times.
 
-You have the ability to accept or decline cookies or be notified each time a cookie is about to be used by modifying the settings in your browser. The majority of browsers will allow the user to alter the settings used for cookies. The help menu on your browser will have further details.
-
-Please remember that turning cookies off will restrict your access to our website. If you have your browser set to disable all cookies then you may not be able to access parts of the Helloprint website. If your browser is set to prompt you when cookies are being used, you will have to answer ‘yes’ when prompted to gain full access.
-
-**Access to your Information**
-
-You have the right to view and correct the data we hold on you.
-
-You also have the right to stop the collection of this information on you and delete any information we hold on you. If you have any further questions concerning the collection, execution or usage of your personal data, do not hesitate to contact us. The same applies for correction desires concerning your personal data and for revocation of agreed consents. For our contact details see the imprint page.
-
-**Security**
-
-At Helloprint we take your online security very seriously. Full details of how we protect the information you provide us are given below.
-
-Our website uses the latest technologies to provide a safe, secure site for electronic commerce transactions, including secure socket layer (SSL) technology for payment transactions. SSL is a method for establishing a link between one computer and another safe one. Banks also use these links for online banking. You will recognise an SSL link by the little padlock which appears on the lower right in the menu bar of your browser and at the address bar which begins with "https" instead of "http". In this case the "S" stands for "secure".
-
-E-mail correspondence is not a secure means of communication as it is a free format text and cannot be encrypted. Although we use advanced security measures to protect your information against loss, misuse and alterations, because of the nature of the internet we cannot guarantee the security of your information provided to us over the internet and cannot be held responsible for this. ".
-
-**Your Consent**
-
-By submitting your information you consent to the use of that information as set out in this Policy. If we change our Privacy Policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. Continued use of the service will signify that you agree to any such changes.
+If you have any questions or complaints, please do not hesitate to contact us!
