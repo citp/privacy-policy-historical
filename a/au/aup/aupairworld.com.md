@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aupairworld.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105051514id_/https%3A//www.aupairworld.com/en/tos/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aupairworld.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611030213id_/https%3A//www.aupairworld.com/en/tos/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - AuPairWorld
 
@@ -8,15 +8,13 @@ Last modified: 26.07.2018
 
 **Data protection information for visitors to the website**
 
-We, AuPairWorld GmbH, Wolfsschlucht 27, 34117, Kassel/Germany, Tel.: +49 (0) 561 31 0561 - 31, [info@aupairworld.com](mailto:info@aupairworld.com) set out below which of your data we process on this website. Should you have any questions relating to data protection, our data protection officer would be happy to respond at datenschutz@dsb-moers.de. 
+We, AuPairWorld GmbH, Johanna-Waescher-Str. 7 34131, Kassel/Germany, Tel.: +49 (0) 561 31 0561 - 0, [info@aupairworld.com](mailto:info@aupairworld.com) set out below which of your data we process on this website. Should you have any questions relating to data protection, our data protection officer would be happy to respond at datenschutz@dsb-moers.de.
 
 **Purpose, legal basis, categories of recipients, storage period for the data processing**
 
 _Purpose: Presentation of the company and provision of services and/or sale of products, as well as communication through the Internet_
 
-The purpose of data processing on this website is to provide information about the products and services of our company, combined with the opportunity for users to be able to make contact with the appropriate contact person in house. 
-
-We process personal data in accordance with the following legal bases:
+The purpose of data processing on this website is to provide information about the products and services of our company, combined with the opportunity for users to be able to make contact with the appropriate contact person in house.
 
   * Art. 6 (1)(a) GDPR for the processing of personal data with the consent of the data subject.
 
@@ -31,9 +29,9 @@ We process personal data in accordance with the following legal bases:
 
 To this end, in the context of service provision, we use service providers that have been separately bound to maintain confidentiality and to protect data. Data shall only be disclosed to a third party in the existence of overriding statutory provisions. No data is transmitted to third countries.
 
-When you visit the website, a connection is established with your browser. The information collected, which is listed below, is stored in temporary system files and recorded automatically: IP address of your device, data and time of access, name and URL of files accessed, website from which access is initiated or from which you are directed to our site (referrer URL), browser used and, where applicable, the operating system of your device, as well as the name of your provider. 
+When you visit the website, a connection is established with your browser. The information collected, which is listed below, is stored in temporary system files and recorded automatically: IP address of your device, data and time of access, name and URL of files accessed, website from which access is initiated or from which you are directed to our site (referrer URL), browser used and, where applicable, the operating system of your device, as well as the name of your provider.
 
-The data specified is processed by us for the purpose of seamlessly establishing a connection and for system security. The connection data created is automatically deleted and is not retained for more than seven days. If the website is used improperly, log files, which need to be retained for evidence purposes, are saved until the incident is clarified. 
+The data specified is processed by us for the purpose of seamlessly establishing a connection and for system security. The connection data created is automatically deleted and is not retained for more than seven days. If the website is used improperly, log files, which need to be retained for evidence purposes, are saved until the incident is clarified.
 
 _Use of cookies_
 
@@ -96,17 +94,17 @@ We use Matomo software to analyse and statistically evaluate the use of our webs
 Opt-out: [https://matomo.aupairworld.com/index.php?module=CoreAdminHome&action=optOut&language=en](https://matomo.aupairworld.com/index.php?module=CoreAdminHome&action=optOut&language=en "Opt-out")
 
 _Integration of YouTube_  
-We use YouTube to embed videos (legal basis in accordance with Art. 6 (1)(f) GDPR with the operation of our website and the consideration of the interests of the parties concerned by disabling the tracking function in the YouTube code). Google LLC in the USA has committed to ensuring appropriate data protection in accordance with the American-European and the American-Swiss privacy shield. More information can be found in Google’s comprehensive privacy statement https://www.google.com/policies/privacy/, Opt-out: <https://adssettings.google.com/authenticated>.
+We use YouTube to embed videos (legal basis in accordance with Art. 6 (1)(f) GDPR with the operation of our website and the consideration of the interests of the parties concerned by disabling the tracking function in the YouTube code). Google Ireland Ltd. has committed to ensuring appropriate data protection in accordance with the American-European and the American-Swiss privacy shield. More information can be found in Google’s comprehensive privacy statement https://www.google.com/policies/privacy/, Opt-out: <https://adssettings.google.com/authenticated>.
 
 _Google ReCaptcha_  
-We use Google ReCaptcha to protect against bots on the basis of our legitimate interest pursuant to Art. 6 (1)(f) GDPR. Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 in the USA has committed to ensuring appropriate data protection in accordance with the American-European and the American-Swiss privacy shield. More information can be found in Google’s comprehensive privacy statement https://www.google.com/policies/privacy. You can opt out via your Google account: <https://adssettings.google.com/authenticated>.
+We use Google ReCaptcha to protect against bots on the basis of our legitimate interest pursuant to Art. 6 (1)(f) GDPR. Google Ireland Ltd., Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland, has committed to ensuring appropriate data protection in accordance with the American-European and the American-Swiss privacy shield. More information can be found in Google’s comprehensive privacy statement https://www.google.com/policies/privacy. You can opt out via your Google account: <https://adssettings.google.com/authenticated>.
 
 _Integration of videos via Wistia_  
 We use Wistia, a service of Wistia Inc., 17 Tudor Street Cambridge, Massachusetts, 02139 USA to embed/ store videos. The legal basis for data processing are our legitimate interests in accordance with Art. 6 (1)(f) GDPR with the operation of our website and taking into account the interests of the parties concerned. The security of the processing is also ensured inter alia by an EU standard agreement.
 
 **Your right to information, rectification, deletion, object and data portability**
 
-You may avail yourself of your right to information, rectification and deletion of data at any time. Simply contact us using one of the methods described above. Should you require data to be deleted, which we are still legally obligated to retain, access to your data will be restricted (blocked). The same applies to an appeal. You may avail yourself of your right to data portability if the recipient and ourselves have the technical means. 
+You may avail yourself of your right to information, rectification and deletion of data at any time. Simply contact us using one of the methods described above. Should you require data to be deleted, which we are still legally obligated to retain, access to your data will be restricted (blocked). The same applies to an appeal. You may avail yourself of your right to data portability if the recipient and ourselves have the technical means. 
 
 **Right of appeal**
 
@@ -119,3 +117,7 @@ This website uses “Hypertext Transfer Protocol Secure” (https). The connecti
 **Currency of and changes to this privacy statement**
 
 We reserve the right to change the content of this privacy statement at any time. This is usually done if the services used are subject to further development or adaptation. You can view the current privacy statement on our website. Date of this statement: 26.07.2018
+
+#### Further privacy statements
+
+Further privacy statements can be found here.
