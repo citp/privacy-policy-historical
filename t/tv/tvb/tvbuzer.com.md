@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvbuzer.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910034831id_/http%3A//www.tvbuzer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvbuzer.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611051149id_/https%3A//www.tvbuzer.com/privacy-policy) for the most accurate reproduction.*
 
 # Watch Series Online, Full episodes, TV Shows, Seasons, News
 
@@ -6,7 +6,7 @@ At TVBuzer.com we recognize that privacy is important. This Policy applies to al
 
 TVBuzer.com adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
 
-If you have any questions about this Policy, please feel free to [contact us](http://www.tvbuzer.com/contact) through our website.
+If you have any questions about this Policy, please feel free to [contact us](https://www.tvbuzer.com/contact) through our website.
 
 Information we collect and how we use it:
 
@@ -61,7 +61,7 @@ If TVBuzer.com becomes involved in a merger, acquisition, or any form of sale of
 
 We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
 
-Please contact us at [here](http://www.tvbuzer.com/contact) for any additional questions about the management or use of personal data.
+Please contact us at [here](https://www.tvbuzer.com/contact) for any additional questions about the management or use of personal data.
 
 Information security
 
@@ -79,7 +79,7 @@ When you use TVBuzer.com services, we make good faith efforts to provide you wit
 
 Enforcement
 
-TVBuzer.com regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or TVBuzer.com's treatment of personal information by [contacting us](http://www.tvbuzer.com/contact) through this web site We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between TVBuzer.com and an individual.
+TVBuzer.com regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or TVBuzer.com's treatment of personal information by [contacting us](https://www.tvbuzer.com/contact) through this web site We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between TVBuzer.com and an individual.
 
 Changes to this policy
 
