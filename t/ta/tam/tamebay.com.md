@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamebay.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008124828id_/https%3A//tamebay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamebay.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611163801id_/https%3A//tamebay.com/privacy-policy) for the most accurate reproduction.*
 
 # Tamebay Privacy Policy - Tamebay
 
@@ -170,6 +170,7 @@ This Privacy Policy only applies to this website. The website may contain links 
   * Parcelhub
   * WorldFirst
   * Currencies Direct
+  * SGS
 
 
 
