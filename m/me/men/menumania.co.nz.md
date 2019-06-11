@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the menumania.co.nz privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211121227id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menumania.co.nz privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611064446id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zomato
 
-**Last updated on August 23, 2018.**
+**Last updated on December 10, 2018.**
 
 Zomato Media Private Limited and/or its affiliates ( **"Zomato,"** the **"Company," "we," "us,"** and **"our,"** ) respect your privacy and is committed to protecting it through its compliance with its privacy policies. This policy describes: 
 
@@ -21,7 +21,7 @@ If you reside in a country within the European Union/European Economic Area (EAA
 
 If you reside in United States of America, **Zomato USA LLC** , located at 601 S. Cedar Street, Suite 111, Charlotte, NC 28202 will be the controller of your personal data provided to, or collected by or for, or processed in connection with our Services;
 
-If you reside in any other part of the world, **Zomato Media Private Limited** , located at 22nd Floor, One Horizon Centre, Golf Course Road, Gurgaon, Haryana, India -122003 will be the controller of your personal data provided to, or collected by or for, or processed in connection with our Services.
+If you reside in any other part of the world, **Zomato Media Private Limited** , located at Ground Floor, Tower C, Vipul Tech Square, Sector 43, Golf Course Road, Gurugram - 122009, Haryana, India will be the controller of your personal data provided to, or collected by or for, or processed in connection with our Services.
 
 Your data controller is responsible for the collection, use, disclosure, retention, and protection of your personal information in accordance with its privacy standards as well as any applicable national laws. Your data controller may transfer data to other members of Zomato as described in this Privacy Policy. Zomato may process and retain your personal information on its servers in India where its data centers are located, and/or on the servers of its third parties (in or outside India), having contractual relationships with Zomato.
 
@@ -283,8 +283,6 @@ For Users residing in any other part of the world:
 
 Zomato Media Private Limited
 
-22nd Floor, One Horizon Centre,
+Ground Floor, Tower C, Vipul Tech Square
 
-Golf Course Road, Gurgaon, Haryana,
-
-India -122003
+Sector 43, Golf Course Road, Gurugram - 122009, Haryana, India
