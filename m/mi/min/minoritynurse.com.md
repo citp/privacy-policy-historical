@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minoritynurse.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003171716id_/http%3A//www.springerpub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minoritynurse.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611204158id_/http%3A//www.springerpub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Springer Publishing Company
 
