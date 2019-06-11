@@ -1,134 +1,162 @@
-> *The following text is extracted and transformed from the thesba.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026173121id_/http%3A//www.newtekone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesba.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611024114id_/https%3A//www.newtekone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Newtek
 
-**Dear Newtek Customer,**
+**Newtek Business Services Corp.’s Privacy Policy**  
+**[Revised September 5, 2018]**
 
-We know that your privacy is important to you. At Newtek, we are committed to protecting it.
+ Welcome to [www.newtekone.com](http://www.newtekone.com/), the website for Newtek Business Services Corp. (“Newtek”) and its subsidiaries and portfolio companies (collectively with Newtek, the “Newtek Family,” “We”, and “Us”).   Thank you for choosing to be part of our community.  We are committed to protecting your personal information and your right to privacy. 
 
-**Protecting your privacy is a priority to us.** Newtek does not share nonpublic information about you with third-party marketers outside Newtek family of companies — those related to us by some form of common control or ownership — without your consent, except as explained in our Privacy Policy. We do share customer information within Newtek family.
+We take your privacy very seriously.  In this Privacy Policy, we seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it.  This Privacy Policy may change from time to time so we encourage you to review it every so often so that you are aware of any changes that may occur.  We hope you take some time to read through it carefully, as it is important.   
+**  
+By visiting**[www.newtekone.com](http://www.newtekone.com/) **,** or any other Newtek Family website on which this Privacy Policy is displayed or referred (each, a “Site”), **you are accepting the privacy practices described in this Privacy Policy.**  If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us.  If there are any terms in this Privacy Policy that you do not agree with, please discontinue use of any Sites and our services.  
+**  
+Please read this Privacy Policy carefully as it will help you make informed decisions about sharing your personal information with Us.   **  
+**Table of Contents**
 
-**The security of your information is a priority to us.** We maintain physical, electronic, and procedural safeguards that comply fully with current federal law and standards to protect customer information. In addition, in those states where applicable laws are more restrictive than our Privacy Policy, we will restrict our sharing of your information to comply with those state laws.
-
-**And, we want to make sure you know how we protect your privacy.** If you have questions about our Privacy Policy, please [Contact Us](https://www.newtekone.com/the-small-business-authority/the-small-business-authority-powered-by-newtek-business-services-inc/).
-
-Thank you for doing business with Newtek.
-
-**Privacy Policy**
-
-Newtek Business Services, Inc. (“Newtek”) is a publicly traded financial and business services company offering electronic merchant processing, insurance services, bookkeeping and tax services, and small business lending, as well as data back-up and storage and customized websites for organizations. Newtek provides compelling marketing tools that help clients attract new customers and retain existing customers. An essential element of our commitment to our customers is to conduct all of our business with integrity and respect. Newtek will adhere to the highest standards for use of any information that you may provide to us.
-
-This Privacy Policy has been created to inform our customers and all visitors to this website how we collect information, what we do with the information, how we share it and other important aspects of the online experience that will help answer any questions and concerns you may have. These policies may change from time to time so we suggest that you review all the policies so that you are aware of any changes that may occur.
-
-**How We Gather Information**
-
-As part of providing you with Newtek products or services, we may obtain information about you from the following sources:
-
-  * applications, forms and other information that you provide us, whether in writing, in person, by telephone, electronically, via the Internet or by any other means, including third parties who may refer you to Newtek. This information may include your name, address, social security number, employment information, income, credit references and other information needed in extending credit to you or otherwise transacting business with you;
-  * your transactions with us, our affiliates, (members of Newtek family of companies) or alliances, (non-Newtek companies), or others. This information may include your account balances, payment history and account usage;
-  * credit reporting agencies. This information may include account information and information about your creditworthiness;
-  * other third parties, including public sources. This information may include real-estate records, street and e-mail addresses and telephone numbers.
-
-
-
-**The Information We Collect**
-
-The types of personal information collected are:
-
-  * Name
-  * Company
-  * Address
-  * Email Address
-  * Phone Number
-  * Fax Number
-  * Credit/Debit Card Information
-  * Domain Name
+  1. **WHO WE ARE**
+  2. **HOW DOES THIS PRIVACY POLICY APPLY?**
+  3. **WHAT INFORMATION DO WE COLLECT AND HOW?**
+  4. **WILL YOUR INFORMATION BE SHARED WITH ANYONE?**
+  5. **DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
+  6. **IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?**
+  7. **HOW LONG DO WE KEEP YOUR INFORMATION?**
+  8. **HOW DO WE KEEP YOUR INFORMATION SAFE?**
+  9. **DO WE COLLECT INFORMATION FROM MINORS?**
+  10. **WHAT ARE YOUR PRIVACY RIGHTS?**
+  11. **DO CALIFORNIA OR VERMONT RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
+  12. **DO WE MAKE UPDATES TO THIS POLICY?**
+  13. **HOW CAN YOU CONTACT US ABOUT THIS POLICY?**
 
 
 
-When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a security icon that appears in the visitor’s browser.
+## **1\. WHO WE ARE**
 
-**Use of Cookies**
+Newtek Business Services Corp. is an internally managed, non-diversified, closed-end management investment company that has elected to be regulated as a business development company under the Investment Company Act of 1940, as amended. Along with its wholly owned subsidiary and controlled portfolio companies, Newtek provides a wide range of business and financial solutions under the Newtek® brand to the small- and medium-sized business market. Newtek’s products and solutions include: Business Lending including SBA 7(a), SBA 504 lending and other commercial loans, Electronic Payment Processing, Managed Technology Solutions (Cloud Computing), IT Consulting, eCommerce, Accounts Receivable and Inventory Financing, personal and commercial lines Insurance Solutions, Web Services, Data Backup, Storage and Retrieval, and Payroll and Benefits Solutions to SMB accounts nationwide across all industries. 
 
-If registration is required to use resources contained within a particular website, we will gather information from you, prior to allowing access to those resources. This information includes, but is not limited to, your name, postal address as well as e-mail address. The information obtained from the original registration is used to provide better services and products to meet the needs of our clients. Each visit to any Newtek, including Newtek, website enables us to collect the following information: your Internet service provider’s address, a record of your activity on our site, and the web page that was used to reach our site. This information is not used to identify you personally. Many Newtek websites also include the use of “Cookies.” A cookie is a piece of data stored on your computer hard drive containing information about you. The use of cookies is now an industry standard that users will find on most major websites. Cookies can save information such as home server, domain, e-mail address, name, mailing address, and telephone number. When a user revisits the site, Newtek, or Newtek, recognizes the user by the cookie and customizes the user’s web experience. Usage of a cookie is in no way linked to any additional personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by receiving a cookie from our website site, a user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners may use cookies on their sites, however we have no access to or control over those cookies.
+Newtek and the other members of the Newtek Family are committed to maintaining your confidence and trust as it relates to the privacy and usage of your information.  The Newtek Family includes Newtek Technology Solutions, Inc., Newtek Small Business Finance, LLC, d/b/a Newtek Business Finance Solutions, Universal Processing Services of Wisconsin LLC d/b/a Newtek Merchant Solutions, CDS Business Services, Inc. d/b/a Newtek Business Credit, Newtek Insurance Agency, LLC d/b/a Newtek Insurance Solutions, PMTWorks Payroll LLC d/b/a Newtek Payroll and Benefits Solutions, Premier Payments LLC d/b/a Newtek Payment Solutions, Small Business Lending, LLC d/b/a Newtek Small Business Lending and Newtek Business Lending, LLC.   
+Please read below to learn how Newtek and the other members of the Newtek Family collect, store, and share information provided by you to them. 
 
-**Log Files**
+## **2\. HOW DOES THIS PRIVACY POLICY APPLY?**
 
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+This Privacy Policy applies to any information collected through any Sites and also applies to any information shared by you or on your behalf or via a referral source with Newtek or any other member of the Newtek Family through any Newtek Family application, registration process, product, service, software, technology platform or mobile application that links to or references this Privacy Policy and through any other form of communication, including telephone, email and the Internet (collectively, “Alternate Collection Methods”). 
 
-**Sharing Information Outside the Newtek Family of Companies**
+Occasionally, an Alternative Collection Method or Newtek Family Site may link to a different Privacy Policy; in such case, the terms of that Privacy Policy will control.   The member of the Newtek Family with whom information is shared is the owner of such information.
 
-Unless you authorize us to do so, Newtek and the Newtek companies do not provide non-public information about you to anyone to market their products and services except as provided for in this policy under sections titled “Sharing Information within the Newtek Family” and “Sharing Information with Newtek Alliance Members.”
+## **3\. WHAT INFORMATION DO WE COLLECT AND HOW?**
 
-If you are a consumer and not a business client, we will not share your non-public information with any third party other than our joint marketing partners or service providers without telling you and giving you a chance to say no. In some situations for business clients, however, we may provide the information we gather about you to third parties outside of the Newtek family of companies without your consent, subject to strict confidentiality requirements, as required by law or in the good faith belief that such action is necessary to:
+Newtek and the other members of the Newtek Family may collect personal information and non-personal information about you.  Personal information is information that identifies you as an individual.  Non-personal information is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.
 
-  * comply with any federal, state or industry standard or comply with legal process served on Newtek or a Newtek website;
-  * to credit reporting agencies;
-  * protect and defend the rights or property of Newtek and its websites
-  * to protect against fraud, money laundering and other risks; or
-  * act in urgent circumstances to protect the personal safety of users of Newtek, its Websites, or the public.
+Each visit to any Newtek page clicked after entering the Site enables the Newtek Family to collect: 
 
-
-
-In addition, we may provide all the information we gather about you to our service providers and third parties referring you to us. These may include statement, billing, and telephone service companies, companies that help us perform marketing services as well as attorneys, insurers and third parties referring you to us.
-
-**Sharing Information within the Newtek Family**
-
-We also may share information about you within our family of companies serving small businesses. These companies include Newtek Small Business Finance, Newtek Merchant Solutions, Newtek Financial Information Systems, Newtek Tax Services, Newtek Insurance Agency, Newtek Data Storage, Newtek Web Hosting and other members of the Newtek family.
-
-Since Newtek’s primary customer base is small businesses, by sharing this information Newtek can better understand your operational needs and develop products and services that fit those needs.
-
-**Sharing Information with our Alliance Partners**
-
-Newtek has many alliances with third party organizations and businesses to assist them in serving the financial needs of their small business clients. As an example, Newtek has an alliance agreement with a major credit union association to assist its 9,000 credit unions in bringing business services to their members.
-
-When you are referred to us by one of these alliances, either directly or through an electronic connection that you have used in filing an application for a business service, we will share information about you with that specific alliance partner so that they may assess their success in reaching people or businesses such as you.
-
-We do not share with our alliance partners personal consumer credit related information that is not public information but do share demographic information so that they may analyze the impact they are having on the small business community.
-
-**How You Can Access or Correct Your Information**
-
-If you would like to verify and/or edit or update the personal information we have on file for you, please [Contact Us](https://www.newtekone.com/index.php/company/contact/) providing details on the information you would like to review and/or edit or update and contact information so that we can talk with you and get the information to you for review.
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before providing such information or making requested corrections.
-
-**Security Practices**
-
-We have implemented and maintain reasonable physical, electronic and procedural safeguards to protect your non-public personal information. Your personal information is never shared outside the company without your permission, except under conditions explained above. Your personally-identifiable data is stored in our password-controlled servers with limited access.
-
-**Our Commitment to Children’s Privacy**
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we know are under 13, and no part of our website is structured to attract anyone under 13.
-
-**Links and Linked Internet Websites:**
-
-Websites of the Newtek family of companies may provide links to sites that are separate from ours. These external sites may have their own privacy provisions in place that are different from those provisions listed in this document. Newtek and its affiliates are not responsible for the collection, use or disclosure of information collected on these external sites and we expressly disclaim any and all liability related to any collection, disclosure or use of such information. In addition, we encourage visitors to seek out and read the privacy policies of any and all sites they visit on the internet.
-
-**Consent**
-
-By registering your personal details, you consent to the use of your information as set out in this Privacy Policy and agree to be bound by the terms of this Privacy Policy.
-
-**Notice to Insurance Consumer – Customers**
-
-If you are a consumer instead of a business and you are interested in the insurance products our agency can provide, we may in addition to the information described above collect either medical information about you or information about your creditworthiness. This additional information will only be used for the purpose of underwriting or administering your insurance. We do not share such medical or creditworthiness information with third parties. If we wish to share this information with any of the Newtek family of companies we will not do so without your express written consent.
-
-If you are a resident of **California** or **Vermont** , there are additional requirements regarding the sharing of certain of your information. We will provide you with notices required under California or Vermont law and will if so required obtain your consent to the sharing of your information. For example, in California we may not share any information about you with third parties without your prior consent. In addition, if other states in the future adopt privacy restrictions more restrictive than those under Federal law we will comply with those applicable provisions.
-
-**Other information**
-
-We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. The examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive.
-
-**How To Contact Us**
-
-Should you have other questions or concerns about our Privacy Policy, please contact us as follows:
-
-  * For website content properties, [Contact Us](https://www.newtekone.com/index.php/company/contact/)
-  * For Privacy and Security concerns, [Contact Us](https://www.newtekone.com/index.php/company/contact/)
+  * your Internet service provider’s address
+  * a record of your activity on the Site
+  * the web page that was used to reach the Site
 
 
 
-You may also contact us for a copy of any policy or to answer any questions you may have about these policies.
+As part of providing you with Newtek Family products or services, the Newtek Family may obtain:
 
-**Enforcement and Dispute Resolution**
+  * your name, social security number, company, address, email address, phone number, fax number, credit/debit card information, domain name;
+  * employment information, income, credit references and other information needed in extending credit to you or otherwise transacting business with you;
+  * your transactions with the Newtek Family, sources who may have referred you to the Newtek Family, or others.  This information may include your account balances, payment history and account usage;
+  * information from credit reporting agencies, which may include account information and information about your creditworthiness;
+  * information from other third parties, including public sources, such as real-estate records, street and email addresses and telephone numbers;
 
-Should you perceive that Newtek or its affiliates are failing to follow the above guidelines, you have several courses of action. First and foremost would be to please contact Newtek at the above mentioned toll-free phone number or via the email address provided.
+
+  * Server log files: The Newtek Family uses IP addresses to analyze trends, administer the Site, track user’s movement, and gather broad demographic information for aggregate use; and 
+  * Cookies used to customize the user experience and track visitor usage to and at the Site. 
+
+
+
+If registration is required to use resources contained within any Newtek Family Site, the required information will be gathered from you prior to allowing access to those resources. 
+
+When we transfer and receive certain types of sensitive information such as financial information, visitors to the Site will be redirected to a secure server and notified through a security icon that appears in the visitor’s browser. ****
+
+## **4\. WILL YOUR INFORMATION BE SHARED WITH ANYONE?**
+
+The Newtek Family collects, uses, discloses, transfers, and stores personal information when needed to provide services for operational and business purposes as described in this Privacy Policy.  The Newtek Family does not use personally identifiable information beyond what is necessary for fulfilling a customer transaction or for the basic functionality of an online service. 
+
+The Newtek Family may share your information (1) within the Newtek Family; (2) with third-party organizations that referred you to the Newtek Family (“Referral Sources”); (3) with service providers; (4) with joint marketing partners; and (5) with others to assist you and any Referral Sources in serving your needs in relation to the Newtek Family products and services, but only in circumstances where such sharing conforms to law, any applicable confidentiality agreements, and the Newtek Family members’ policies and practices, or for legal and routine business reasons. 
+
+Additionally, the Newtek Family may provide your information as required by law or in the good faith belief that such action is necessary to: 
+
+  * comply with any federal and state laws, industry standards or with legal process served on any member of the Newtek Family;
+  * provide to credit reporting agencies;
+  * protect and defend the rights or property of the Newtek Family;
+  * protect against fraud, money laundering and other risks; or
+  * act in urgent circumstances to protect the personal safety of users of the Newtek Family’s products or Services, the Site or the public.
+
+
+
+If you are a consumer and not a business client, the Newtek Family will not share your non-public information with any third party other than with other members of the Newtek Family, Referral Sources or service providers, or third-party marketeers without your consent.  
+
+The Newtek Family does not share personal consumer credit related information that is not public information with any person or entity other than other Newtek Family members, but it may share demographic information so that the Referral Sources, joint marketeers and service providers may analyze the impact they are having on the business community.
+
+**Links and Linked Internet Websites**  
+Our Referral Sources and the other third parties with whom we may provide your information have their own privacy policies.  Additionally, any Sites may provide links to other sites.  These external sites may also have their own privacy provisions and security practices in place.  Newtek has no control over and is not responsible for the collection, use or disclosure of information collected by Referral Sources and other third parties.  We expressly disclaim any and all liability related to any collection, disclosure or use of such information from Referral Sources and other third parties.  You are encouraged to read the privacy policies of all internet sites you visit.
+
+**Notice to Insurance Consumer – Customers**  
+If you are a consumer interested in insurance products, medical information and creditworthiness information about you may be collected in addition to the information described above.  Medical or creditworthiness information will only be used for the purpose of underwriting or administering your insurance.  Such medical or creditworthiness information is not shared with third parties other than potential insurance carriers.  This information will not be shared with any member of the Newtek Family without your express written consent, other than to the member that collects such information and the applicable member of the Newtek family that may be assisting you with the insurance products and/or services. 
+
+If you are a resident of California or Vermont, you will be provided with a privacy notice describing the applicable Newtek Family member(s)’s practices regarding the information collected about you in connection with an application for insurance, submission of a claim or other insurance transaction, how and with whom your personally identifiable information will be shared, and your right to restrict sharing.
+
+## **5\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
+
+We may use cookies to access or store information.  Most Web browsers are set to accept cookies by default.  If you prefer, you can block or delete cookies by changing your browser settings. 
+
+## **6\. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?**
+
+Our servers are located in the United States.  We do not target users outside of the United States.  If you are accessing any Sites from outside the United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see “Will Your Information Be Shared With Anyone?” above), in the United States.
+
+If you are a resident in the European Economic Area, the United States may not have data protection or other laws as comprehensive as those in your country.  We will however take all reasonable measures to protect your personal information in accordance with this Privacy Policy and applicable law.
+
+In addition, if you are a European Economic Area customer and prefer not to be tracked, or if you would like to request additional information on this Privacy Policy, please contact us. 
+
+## **7\. HOW LONG DO WE KEEP YOUR INFORMATION?**
+
+Your information is retained in accordance with Newtek’s and the other Newtek Family members’ document retention policies, which are reasonably designed to conform to applicable industry practices and applicable law.
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+## **8\. HOW DO WE KEEP YOUR INFORMATION SAFE?**
+
+The Newtek Family maintains physical, electronic, and procedural security safeguards that are reasonable and appropriate.  Within the Newtek Family, your personally-identifiable data is stored in our password-controlled servers with limited access, accessible only by authorized Newtek Family personnel.  
+However, please also remember that we cannot guarantee that the internet itself is 100% secure.  Although we will do our best to protect your personal information, transmission of personal information to and from any Sites is at your own risk.  You should only access the services within a secure environment.  In the event of a data breach, you will be notified by phone, email or mail at the contact information you provided.
+
+## **9\. DO WE COLLECT INFORMATION FROM MINORS?**
+
+Newtek does not knowingly solicit data from or market to children under 18 years of age.  By using any Sites, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Site.  If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records.  If you become aware of any data we have collected from children under age 18, please contact us. 
+
+## **10\. WHAT ARE YOUR PRIVACY RIGHTS?**
+
+**_Account Information_**  
+You may at any time review or change the information in your account or terminate your account by:
+
+  * Logging into your account settings and updating your account
+  * Contacting us using the contact information provided below
+
+
+
+Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases.  However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our any of the Newtek Family’s Terms of Use (or similar) and/or comply with legal requirements.
+
+**_Cookies and similar technologies_** _:_ Most Web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies.  If you choose to remove cookies or reject cookies, this could affect certain features or services of any Sites. 
+
+**_Opting out of email marketing:_** You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below.  You will then be removed from the marketing email list – however, we will still need to send you service-related emails that are necessary for the administration and use of your account.  
+
+## **11\. DO CALIFORNIA OR VERMONT RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
+
+If you are a California customer and prefer not to be tracked, or if you would like to request additional information on this Privacy Policy, please contact us.   
+If you are a resident of Vermont, and are a consumer, we will obtain your consent prior to disclosing your nonpublic personal information to nonaffiliated third parties. 
+
+If other states in the future adopt privacy restrictions more restrictive than those under Federal law, we will comply with those applicable provisions.
+
+## **12\. DO WE MAKE UPDATES TO THIS POLICY?**
+
+We may update this Privacy Policy from time to time.  The updated version will be indicated by a “Revised” date and the updated version will be effective as soon as it is accessible.  If we make material changes to this Privacy Policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification.  We encourage you to review this Privacy Policy frequently to be informed of how we are protecting your information.
+
+## **13\. HOW CAN YOU CONTACT US ABOUT THIS POLICY?**
+
+If you would like to verify, edit and/or update the information Newtek or any other member of the Newtek Family has on file for you, or should you have questions or concerns about this Privacy Policy, please contact us at our toll-free number, [1-855-763-9835](tel://1-855-763-9835) (1-855-7-Newtek), or via email at [hello@newtekone.com](mailto:hello@newtekone.com). 
+
+Should you perceive that Newtek or any member of the Newtek Family is failing to follow the above guidelines, please contact us at the toll-free number or email address provided above.
