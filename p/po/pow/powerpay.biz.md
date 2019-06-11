@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerpay.biz privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222141622id_/http%3A//powerpay.biz/1-about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerpay.biz privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611190903id_/http%3A//www.powerpay.biz/1-about/privacy.html) for the most accurate reproduction.*
 
 # PowerPay Career Opportunities
 
