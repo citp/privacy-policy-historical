@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the diyeverywhere.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230192013id_/http%3A//diyeverywhere.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyeverywhere.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611191005id_/https%3A//diyeverywhere.com/privacy.php) for the most accurate reproduction.*
 
 # DIY Everywhere
 
 **_PRIVACY POLICY_**
 
-Effective May 24, 2018
+Last Modified Jan 28, 2019
 
 This website (collectively, "This website" or "we"), under parent company SFG Media Group, LLC, respects the privacy rights of our online users and is committed to protecting the personal information collected about or provided by you. We have adopted this Online Privacy Policy ("Privacy Policy") to guide how we store, collect, manage and use the personal information you provided in connection with the Service. 
 
@@ -73,11 +73,47 @@ Other information that may be passively collected by This website is in the form
 
 _Privacy Policy and Third Party Web Sites, Links, Advertisements and Services_
 
-You should be aware that while you are using our Service, you may be directed to other sites that are beyond our control and for which we are not responsible. Additionally, third parties provide advertisements and offer other products and services to you when you are using our Service, which may receive your IP address or other technology such as cookies, web beacons and the like. By using the Service, you consent to such use by third parties of your personal information, which is subject to the privacy policies of these third parties.
+You should be aware that while you are using our Service, you may be directed to other sites that are beyond our control and for which we are not responsible. Additionally, third parties provide advertisements and offer other products and services to you when you are using our Service, which may receive your IP address or other technology such as cookies, web beacons and the like. By using the Service, or with your consent, you agree to such use by third parties of your personal information, which is subject to the privacy policies of these third parties.
 
 You should consult the privacy policies of these third parties for more detailed information.
 
-Third party vendors, including Facebook, Google, Amazon, AppNexus, OpenX, Exponential and Nativo use cookies to serve ads based on prior visits to This website or other websites on the Internet. You may opt out of personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).
+**Cookies served through This website**  
+
+
+### Advertising Cookies
+
+These cookies allow third-party advertising partners (collectively, "Advertisers") to deliver ads that may be of interest to you. Advertisers may set cookies to collect data about how you use our sites and other sites to provide interest-based advertising or other targeted content within or beyond our sites. For more details on how these Advertisers collect and use this information, please visit their respective privacy policies in the links provided below.
+
+[Google](https://policies.google.com/technologies/partner-sites), [Facebook](https://www.facebook.com/policies/cookies/), [Amazon](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&nodeId=468496), [AppNexus](https://www.appnexus.com/platform-privacy-policy), [OpenX](https://www.openx.com/legal/privacy-policy/), [Adloox](http://adloox.com/disclaimer), [Aunica](https://www.aunica.com.br/privacy/privacy.html), [Cloudflare](https://www.cloudflare.com/privacypolicy/), [Criteo](https://www.criteo.com/privacy/), [Evidon](https://www.evidon.com/resources/privacy-statement/), [Flashtalking](http://www.flashtalking.com/first-party-ad-serving/), [gskinner](https://createjs.com/legal/privacy.html), [Integral Ad Science](https://integralads.com/privacy-policy/), [MediaMath](http://www.mediamath.com/privacy-policy/), [Netflix](https://help.netflix.com/legal/privacy), [Nielsen](https://www.nielsen.com/us/en/privacy-statement/digital-measurement.html), [Oracle Data Cloud](https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html), [SpotX](https://www.spotx.tv/privacy-policy/)
+
+### Essential Cookies
+
+These cookies are necessary for basic functionality of site features. For example, if you use a feature that requires you to be logged in.
+
+[SFG Media Group](https://web.archive.org/privacy.php)
+
+### Social Media Cookies
+
+These cookies enable content sharing to third party social media platforms, in addition to other features specific to third party social media platforms. For example, when "following" one of our social media accounts. These cookies may also be used for advertising purposes to remarket content to you on social media platforms and on other websites.
+
+[Facebook](https://www.facebook.com/policies/cookies/), [Pinterest](https://policy.pinterest.com/en/privacy-policy), [YouTube](https://policies.google.com/privacy), [Twitter](https://twitter.com/en/privacy)
+
+### Analytics Cookies
+
+These cookies collect information about your use of This website and help us improve its functionality. This usage data is aggregated to provide an overview of how the site is performing and is not used to identify individuals.
+
+[Google Analytics](https://policies.google.com/privacy), [SFG Media Group](https://web.archive.org/privacy.php)
+
+ **How do I customize my cookie settings?**  
+
+
+Most browsers default to allow cookies, however you can usually delete cookies that have been set, and reject future cookies by following the instructions in your browser's privacy settings.
+
+For help with common browser cookie settings, and more information about cookies in general, visit <http://www.allaboutcookies.org/manage-cookies/>
+
+Some Advertisers that use cookies or other similar technology to serve ads allow you to opt out of personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).
+
+We have no cookie preference stored for you. (If you just changed your setting, refresh the page to view the latest status)
 
 _California_ _Privacy Rights_
 
