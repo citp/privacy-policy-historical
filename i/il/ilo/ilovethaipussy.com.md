@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovethaipussy.com privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318084116id_/http%3A//ilovethaipussy.com/tour2/index.php%3Fsection%3D632%26nats%3DMDowOjc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovethaipussy.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611121138id_/https%3A//ilovethaipussy.com/tour2/index.php%3Fsection%3D632%26nats%3DMDowOjc) for the most accurate reproduction.*
 
 # I LOVE THAI PUSSY | Amateur Bareback Thai Hardcore Porn
 
@@ -26,9 +26,7 @@ The site may also automatically collect traffic and click-through data as well a
 
 Use of Personal Subscriber Information.
 
-By the subscriber's use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, trading in personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site.
-
-By the subscriber's use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties.
+The subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, age verification, promotional and advertising. We do not share any data with third parties.
 
 Please note that personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site.
 
@@ -46,7 +44,7 @@ All subscribers should consider any information provided to or collected by the 
 
 There may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers").
 
-"OPT-IN" -- Some offers may be presented to the subscriber with the option to express the subscriber�s preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties.
+"OPT-IN" -- Some offers may be presented to the subscriber with the option to express the subscriberÃ�Â¯Ã�Â¿Ã�Â½s preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties.
 
 "OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
