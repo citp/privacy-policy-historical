@@ -1,20 +1,24 @@
-<!--The following is the downloaded HTML source of the starbits.io privacy policy that was archived on 2018-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181207174035id_/http%3A//www.starbits.io/%3Fp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starbits.io privacy policy that was archived on 2019-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190611033843id_/http%3A//www.starbits.io/%3Fp%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="wnpverify" content="d30e97707d5fdd162a05f34fad532996c0554cd5">
-<title>StarBits - 5 satoshi every 5 minutes</title>
+<meta name="verify_coinverti" value="https://coinverti.com">
+<title>StarBits - 7 satoshi every 6 minutes</title>
 <link rel="shortcut icon" type="image/ico" href="http://www.starbits.io/images/ico.ico">
+<script src="//cdn.jsdelivr.net/jquery/2.1.4/jquery.min.js"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="/templates/default/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="/style.css?v=0.5">
+
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//cdn.jsdelivr.net/jquery/2.1.4/jquery.min.js"></script>
-<script type="text/javascript" src="libs/mmc.js"></script>
-<script src="//cdn.jsdelivr.net/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
+<script src="https://coinzillatag.com/lib/floating.js"></script>
+<script>window.coinzilla_floating = window.coinzilla_floating || [];function czilla(){coinzilla_floating.push(arguments);}czilla('4379859e7b5554b5bc');</script>
+
+<link rel="canonical" href="http://www.starbits.io/?p=privacy">
 
 <style type="text/css">
 html{
@@ -27,7 +31,7 @@ body .footer{
     padding: 5px 0;
 }
 .row > div{
-    padding: 15px;
+    padding: 30px;
 }
 .bg-black{
     background: #000;
@@ -67,10 +71,102 @@ width: 304px;
 margin: 0 auto;
 }
 
-.reklamper-widget-holder{
-margin: auto;
+.ablinksgroup {
+    text-align:center;
 }
 
+.ablinksgroup div {
+   display:inline-block;
+}
+
+.shortlink {
+    margin-left:auto;
+    margin-right:auto;
+    background-image:url(templates/default/shortlink.png);
+    background-position:right center;
+    background-repeat:no-repeat;
+}
+
+.step1, .step2 {
+    padding:5px;
+    margin-bottom:20px;
+}
+
+.step_head {
+    font-weight:bold;
+    font-size:20px;
+}
+
+.step2_in, .step1_in {
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:100%;
+    min-height:100%;
+    text-align:center;
+    border:2px solid #000000;
+    border-radius:10px;
+    background:repeating-linear-gradient(45deg, rgba(222, 222, 222, 0.6), rgba(222, 222, 222, 0.6) 20px, rgba(111, 111, 111, 0.9) 20px, rgba(111, 111, 111, 0.9) 40px);
+    font-size:30px;
+    padding-top:1px;
+    text-shadow: 1px 1px 5px #FFFFFF;
+}
+
+.step1_in {
+    text-shadow: 1px 1px 10px #FFFFFF;
+    background: rgba(255, 128, 128, 0.9);
+    font-size: 18px;
+}
+
+#recent-payouts, #referred-users {
+    margin-bottom:10px;
+}
+
+#recent-payouts h3, #referred-users h3 {
+    color:#999999;
+    font-weight:bold;
+}
+
+.recent-payouts, .referred-users {
+    width:100%;
+    border:1px solid #AAAAAA;
+}
+
+.recent-payouts th, .referred-users th {
+    padding:3px;
+}
+
+.list-odd td {
+    background-color:#EEEEEE;
+    padding:3px;
+    border-top:1px solid #AAAAAA;
+}
+
+.list-even td {
+    background-color:#DDDDDD;
+    padding:3px;
+    border-top:1px solid #AAAAAA;
+}
+
+.list-left {
+    width:28%;
+    text-align:left;
+}
+
+.list-center {
+    width:50%;
+    text-align:center;
+    overflow:hidden;
+}
+
+.list-right {
+    width:22%;
+    text-align:right;
+}
+
+span.line {
+    display: inline-block;
+}
 /* custom_css */
 /* center everything! */
 .row {
@@ -84,13 +180,6 @@ ul, ol {
     text-align: left;
 }
 
-hr {
-    border: none;
-    color: #6E6E6E; 
-    background-color: #6E6E6E; 
-    height: 1px; 
-   width: 100%;
-   }
 
 .alert {
     color: #FFFFFF;
@@ -119,7 +208,17 @@ hr {
   opacity:.98; 
 }
 .alert-success a:visited{
-    color:#FFFFFF;
+    color: #FFFFFF;
+}
+
+.alert-success a:link{
+    color: #FFFFFF;
+}
+.alert-success a:hover{
+    color: #FFFFFF;
+}
+.alert-success a:active{
+    color: #FFFFFF;
 }
 .alert-warning {
 	background-color: #F1B26E;
@@ -132,8 +231,10 @@ hr {
      margin-bottom: -5px;
 }
 .alert-info {
-	background-color: #96B4BE;
-	border-color: #96B4BE;
+    background-color: #96B4BE;
+    border-color: #96B4BE;
+    width: 420px;
+    border-radius: 6px;
 }
 
 #coinadleft {
@@ -142,12 +243,41 @@ position: fixed;
 text-align: center;
 bottom: -2px;
 }
-</style>
 
-
+hr {
+    height: 6px;
+    border: 0;
+    margin: 4px auto 20px;
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, #ffffff, #989898, #ffffff);
+    background-image: -moz-linear-gradient(left, #ffffff, #989898, #ffffff);
+    background-image: -ms-linear-gradient(left, #ffffff, #989898, #ffffff);
+    background-image: -o-linear-gradient(left, #ffffff, #989898, #ffffff);
+}</style>
+<script>
+$(function(){
+  $('form[method="POST"]').submit(function(){
+    var el=$('form[method="POST"] input[type=text][name!=address]:first');
+    var addr=el.val();
+    if ((addr.length<26)||(addr.length>110)) {
+      el.focus();
+      return false;
+    }
+  });
+  setTimeout(function(){
+    $('input[type=text]').keypress(function(e){
+      if (e.which==13) {
+        return false;
+      }
+    });
+  }, 1000);
+});
+</script>
 </head>
-<body style="margin: 0; padding: 0;" class="  ">
-    
+<body class="  ">
+     
+ 
     <table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
 							<tbody><tr>
 								<td width="100%" valign="middle" align="center">
@@ -157,7 +287,7 @@ bottom: -2px;
 										<tbody><tr>
 											<td height="60" valign="middle" width="100%" style="font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; font-weight: 400;">
 											
-		<i class="fa fa-gift" aria-hidden="true"></i> Balance: 1114906 satoshi
+		<i class="fa fa-gift"></i> Balance: 173180 satoshi
 												 
 											</td>
 										</tr>
@@ -167,7 +297,7 @@ bottom: -2px;
 									<table width="140" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="fullCenter">
 										<tbody><tr>
 											<td height="60" valign="middle" width="100%" style="text-align: left;" class="fullCenter" id="logo">
- <a href="http://www.starbits.io"><img width="125" src="http://www.starbits.io/starbits.png" alt="" border="0"></a>
+ <a href="http://www.starbits.io"><img width="125" src="/images/starbits.png" alt="" border="0"></a>
 											</td>
 										</tr>
 									</tbody></table>
@@ -182,11 +312,22 @@ bottom: -2px;
 																	
 								</td>
 							</tr>
-						</tbody></table>						
-
+						</tbody></table>				
+ 
+ 
         <div class="container-fluid">
         <div class="row">
-            <div class="col-xs-12  "><div class="coinzilla" data-zone="54858" data-w="728" data-h="90" style="max-width: 728px; width:100%; display: inline-block;"></div></div>
+            <div class="col-xs-12  "><!-- Coinzilla Banner 728x90 -->
+<script async="" src="https://coinzillatag.com/lib/display.js"></script>
+<div class="coinzilla" data-zone="C-54858"></div>
+<script>
+    window.coinzilla_display = window.coinzilla_display || [];
+    var c_display_preferences = {};
+    c_display_preferences.zone = "54858";
+    c_display_preferences.width = "728";
+    c_display_preferences.height = "90";
+    coinzilla_display.push(c_display_preferences);
+</script></div>
         </div>
         <div class="row">
             <div class="col-xs-12 col-md-6 col-md-push-3  ">
@@ -306,23 +447,36 @@ We also agree to the Individual Redress Principle which requires that individual
 <br><br><br>
 
 
-</div>                            </div>
-            <div class="col-xs-6 col-md-3 col-md-pull-6  "><div class="coinzilla" data-zone="20167" data-w="160" data-h="600" style="max-width: 160px; width:100%; display: inline-block;"></div></div>
+</div>
+                                				
+                            </div>
+            <div class="col-xs-6 col-md-3 col-md-pull-6  "><!-- Coinzilla Banner 160x600 -->
+<script async="" src="https://coinzillatag.com/lib/display.js"></script>
+<div class="coinzilla" data-zone="C-20167"></div>
+<script>
+    window.coinzilla_display = window.coinzilla_display || [];
+    var c_display_preferences = {};
+    c_display_preferences.zone = "20167";
+    c_display_preferences.width = "160";
+    c_display_preferences.height = "600";
+    coinzilla_display.push(c_display_preferences);
+</script></div>
             <div class="col-xs-6 col-md-3  "><iframe scrolling="no" src="//coinad.com/ads/show/show.php?a=Y3WG0USEY6MLE&amp;b=N9RFONSCLP62R" style="overflow:hidden;width:160px;height:600px;" frameborder="0"></iframe></div>
-        </div>
+       </div>
         <div class="row">
             <div class="col-xs-12  "></div>
                     </div>
     </div>
-    <div class="footer text-center col-xs-12  ">
-            </div>
+
         <script type="text/javascript" src="libs/button-timer.js"></script>
-    <script> startTimer(10); </script>
+    <script> startTimer(2); </script>
             <script type="text/javascript" src="libs/advertisement.js"></script><div id="tester" style="display: none">an advertisement</div>
     <script type="text/javascript" src="libs/check.js"></script>
-        
-
+    	
 	
+	
+
+
 
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" class="full">
@@ -370,7 +524,7 @@ We also agree to the Individual Redress Principle which requires that individual
 										</tr>
 										<tr>
 											<td valign="middle" width="100%" style="text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 16px; color: #f67b7c; line-height: 21px; font-weight: 400;" class="fullCenter">
-	563											</td>
+	838										</td>
 										</tr>
 									</tbody></table>
 									
@@ -401,7 +555,7 @@ We also agree to the Individual Redress Principle which requires that individual
 										</tr>
 										<tr>
 											<td valign="middle" width="100%" style="text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 16px; color: #f67b7c; line-height: 21px; font-weight: 400;" class="fullCenter">
-	3089										</td>
+	3791									</td>
 										</tr>
 									</tbody></table>
 									
@@ -432,7 +586,7 @@ We also agree to the Individual Redress Principle which requires that individual
 										</tr>
 										<tr>
 											<td valign="middle" width="100%" style="text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 15px; color: #f67b7c; line-height: 21px; font-weight: 400;" class="fullCenter">
-	<i class="fa fa-btc" aria-hidden="true"></i> 5.95520174	</td>
+	<i class="fa fa-btc" aria-hidden="true"></i> 8.07003594	</td>
 										</tr>
 									</tbody></table>
 									
@@ -496,16 +650,16 @@ We also agree to the Individual Redress Principle which requires that individual
 										<tr>
 											<td width="100%">
 												
-												<table width="100" border="0" cellpadding="0" cellspacing="0" align="center">
+												<hr style="max-width:200px;"><table width="100" border="0" cellpadding="0" cellspacing="0" align="center">
 													<tbody><tr>
-														<td width="100" height="1" bgcolor="#808080" style="font-size: 1px; line-height: 1px;">&nbsp;</td> 
+													
 													</tr>
 												</tbody></table>
 												
 											</td>
 										</tr>
 										<tr>
-											<td width="100%" height="30"></td>
+											<td width="100%" height="1"></td>
 										</tr>
 										<tr>
 											<td valign="middle" width="100%" style="max-width:100%; padding: 16px; text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #808080; line-height: 22px; font-weight: 400;" class="fullCenter">
@@ -529,7 +683,7 @@ Faucets are a great way to help introduce new people to bitcoin, or to your favo
 						
 						<!--  Wrapper 2 -->
 														<!-- Space -->
-									<iframe scrolling="no" src="//coinad.com/ads/show/show.php?a=Y3WG0USEY6MLE&amp;b=PX5KLHICRJ46Z" style="overflow:hidden;width:728px;height:90px;" frameborder="0"></iframe><br><br><br><table width="1" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="delete">
+									<iframe scrolling="no" src="//coinad.com/ads/show/show.php?a=XRG4GCM41TEHI&amp;b=ANOP35V8JRAJ4" style="overflow:hidden;width:728px;height:90px;" frameborder="0"></iframe><br><br><br><table width="1" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="delete">
 										<tbody><tr>
 
 							
@@ -620,10 +774,14 @@ Faucets are a great way to help introduce new people to bitcoin, or to your favo
 							</tr>
 							<!-- Button Center -->
 							<tr>
-								<td width="100%" height="65"></td>
+						
+								<td width="100%" height="10"></td>
 							</tr>
 						</tbody></table>
 
+						<br>
+						<iframe data-aa="1089460" src="//ad.a-ads.com/1089460?size=728x90&amp;background_color=57cade&amp;text_color=ffffff&amp;title_color=ffffff&amp;title_hover_color=2c92f0&amp;link_color=ffffff&amp;link_hover_color=60b5f2" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+                        <br><br>
 						
 					</td>
 				</tr>
@@ -737,7 +895,7 @@ Faucets are a great way to help introduce new people to bitcoin, or to your favo
 									<table width="140" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="fullCenter">
 										<tbody><tr>
 											<td height="60" valign="middle" width="100%" style="text-align: left;" class="fullCenter" id="logo_footer">
-												<a href="#"><img width="100" src="http://starbits.io/starbits.png" alt="" border="0" style="padding-bottom: 4px;"></a>
+												<a href="#"><img width="100" src="http://starbits.io/images/starbits.png" alt="" border="0" style="padding-bottom: 4px;"></a>
 											</td>
 										</tr>
 									</tbody></table>
@@ -822,36 +980,16 @@ window.onload = timedRefresh(149000);
 //   -->
 </script>
 
-<script async="" src="https://serve.czilladx.com/serve/jslib/fb.js"></script>
 
-<script async="" src="https://serve.czilladx.com/serve/jslib/fbf.js"></script>
-<script>var _coinzilla_fbf_id_ = "4379859e7b5554b5bc";</script>
 
 <div style="z-index:99999;position:fixed;bottom:5px;left:7px">
     <a style="position:absolute;top:-16px;right:-19px" href="#" onclick="this.parentNode.style.display='none';" ;"=""><img src="images/close.png" title="Close"></a>
     <div style="text-align:right">
 <iframe scrolling="no" src="//coinad.com/ads/show/show.php?a=Y3WG0USEY6MLE&amp;b=AKOLIXPA014OR" style="overflow:hidden;width:300px;height:250px;" frameborder="0"></iframe>
 </div></div>
+<script language="javascript" data-spot_id_top="RUTQ4RZV0YO3B" data-site_id_top="Y3WG0USEY6MLE" src="http://coinad.com/ads/show/topbar.js"></script>
+<script language="javascript" data-spot_id="R6C1MIP3KS8CB" data-site_id="Y3WG0USEY6MLE" src="http://coinad.com/ads/show/sticky.js"></script>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-104057183-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-<script>
-    $(function () {
-
-
-        $('form').on('submit', function () {
-            $('#claim-button').attr('disable', 'disable');
-        })
-    })
-</script>
 
 
 </td></tr></tbody></table></body></html>
