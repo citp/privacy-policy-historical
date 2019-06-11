@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starbits.io privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207174035id_/http%3A//www.starbits.io/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbits.io privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611033843id_/http%3A//www.starbits.io/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# StarBits - 5 satoshi every 5 minutes
+# StarBits - 7 satoshi every 6 minutes
 
   
 
