@@ -1,44 +1,44 @@
-> *The following text is extracted and transformed from the snapapp.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021103102id_/https%3A//www.snapapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapapp.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611194904id_/https%3A//www.snapapp.com/legal-terms/privacy-policy) for the most accurate reproduction.*
 
-# Private Policy | SnapApp
+# SnapApp Privacy Policy - SnapApp
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=68768968-4167-4f0e-a9f4-8c98b6ec2936)
+**SnapApp Privacy Policy**
 
-Last Updated August 21, 2018
+Last Updated December 1, 2018
 
-Your privacy is important to SnapApp, Inc. (“SnapApp”, “We”, “Us”). This Privacy Policy applies to the SnapApp website: [www.snapapp.com](http://www.snapapp.com/) and software platform (the “Service”). Information collection, use and protection of personally identifiable information, including but not limited to name, email address and phone number (“PII”) and the choices you have concerning PII are described in this policy. By using the SnapApp website and software platform you consent to the practices described in this policy. SnapApp is located at 200 Clarendon Street, 21st Floor, Boston, MA, 02116.
+Your privacy is important to SnapApp, Inc. (“SnapApp”, “We”, “Us”). This Privacy Policy applies to the SnapApp website: [www.snapapp.com](https://www.snapapp.com/) and software platform (the “Service”). Information collection, use and protection of personally identifiable information, including but not limited to name, email address and phone number (“PII”) and the choices you have concerning PII are described in this policy. By using the SnapApp website and software platform you consent to the practices described in this policy. SnapApp is located at WeWork/17th Floor, 33 Arch Street, Boston, MA, 02110.
 
-SnapApp participates in and has certified its compliance with the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield Framework.  SnapApp is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
+SnapApp may, subject to applicable law, transfer your information outside the country where you are located and to where information protection standards may differ (e.g. your information may be stored on servers location in other jurisdictions). We will utilize appropriate safeguards governing the transfer and usage of your personal information. Specifically, SnapApp participates in and has certified its compliance with the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield Framework. SnapApp is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
 
-SnapApp is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  SnapApp complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+SnapApp is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. SnapApp complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. 
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, SnapApp is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, SnapApp may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, SnapApp is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, SnapApp may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) [here.](https://feedback-form.truste.com/watchdog/request)
 
-Under certain conditions, more fully described on the Privacy Shield website [[https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint]](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint%5D), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield [website,](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-Via our software platform, SnapApp provides technology and services to our customers that enable them to engage with end users through the creation and deployment of Applications. When our customers collect information from their end users through our Applications, this Privacy Policy does not apply to that collection of information. This is because our  customers are directing the collection of said information and SnapApp has no direct relationship with our customers’ end users, and does not control our customers’ collection and/or use of the end users’ information. To learn how a SnapApp customer (the data controller) uses the information it collects in this way, please see that customer’s privacy policy. To access data controlled by our customers, if you are an end user who seeks access, or who seeks to correct, amend, or delete inaccurate data, or if you are an end user of one of our customers and would no longer like to be contacted by one of our customers that use our Service please contact them directly. If requested to remove data we will respond within a reasonable timeframe. We may transfer personal information to companies that help us provide our Service. Transfers to subsequent third parties are covered by the Service agreements with our Clients.
+Via our software platform, SnapApp provides technology and services to our customers that enable them to engage with end users through the creation and deployment of Applications. When our customers collect information from their end users through our Applications, this Privacy Policy does not apply to that collection of information. This is because our customers are directing the collection of said information and SnapApp has no direct relationship with our customers’ end users, and does not control our customers’ collection and/or use of the end users’ information. To learn how a SnapApp customer (the data Controller) uses the information it collects in this way, please see that customer’s privacy policy. To access data controlled by our customers, if you are an end user who seeks access, or who seeks to correct, amend, or delete inaccurate data, or if you are an end user of one of our customers and would no longer like to be contacted by one of our customers that use our Service please contact them directly. If requested to remove data we will respond within a reasonable timeframe. We may transfer personal information to companies that help us provide our Service. Transfers to subsequent third parties are covered by the Service agreements with our Clients.
 
-We regularly review our compliance with this Policy. SnapApp may edit this Policy from time to time and in the event the policy is revised we will notify you by means of a notice on this website prior to the change becoming effective of any significant/material change. Please direct any questions or concerns regarding this Policy via email to theprivacygroup@snapapp.com.
+We regularly review our compliance with this Policy. SnapApp may edit this Policy from time to time and in the event the policy is revised we will notify you by means of a notice on this website prior to the change becoming effective of any significant/material change. Please direct any questions or concerns regarding this Policy via email to [theprivacygroup@snapapp.com](mailto:theprivacygroup@snapapp.com).
 
-**I. Collected Information**
+**I. Collected Information**  
 
 Registration Information: Registration is required to create SnapApp applications or purchase the SnapApp Service. You will be asked for PII as part of the registration process. SnapApp requires that account holders be eighteen (18) years of age or older.
 
 Marketing Information: In addition we collect information at our site and through our own use of the Service that we use for marketing to current and prospective customers. Additional information collected through our use of the Service may include responses to questions.
 
-Payment Information: Credit Card and direct debit payments for SnapApp are processed through a third party payment processing provider. SnapApp does not store your personal Credit Card information. For payments requiring an invoice rather than credit card or direct debit, SnapApp will store billing information, such as name and billing address.
+Payment Information: Credit Card and direct debit payments for SnapApp are processed through a third-party payment processing provider. SnapApp does not store your personal Credit Card information. For payments requiring an invoice rather than credit card or direct debit, SnapApp will store billing information, such as name and billing address.
 
-Other Information: In addition to PII, additional information may be collected, such as system information, browser type (e.g., Netscape, Internet Explorer, Firefox), IP address, the type of operating system you are using (e.g., Windows or Mac OS), what version of Adobe Flash you are using (e.g., Flash 9.0), CPU type (e.g. Pentium), your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access), and the domain name of your Internet service provider and stored in log files. We do not link this automatically collected data to other information we collect about you.  We and our marketing partners, affiliates, or analytics or infrastructure service providers, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. In addition, SnapApp uses third-party service provider partners to employ cookies for analytical, accounting and data integrity purposes.
+Other Information: In addition to PII, additional information may be collected, such as system information, browser type (e.g., Netscape, Internet Explorer, Firefox), IP address, the type of operating system you are using (e.g., Windows or Mac OS), what version of Adobe Flash you are using (e.g., Flash 9.0), CPU type (e.g. Pentium), your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access), and the domain name of your Internet service provider and stored in log files. We do not link this automatically collected data to other information we collect about you. We and our marketing partners, affiliates, or analytics or infrastructure service providers, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. In addition, SnapApp uses third-party service provider partners to employ cookies for analytical, accounting and data integrity purposes.
 
-Behavioral Targeting: We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+Behavioral Targeting: We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third-party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 Other sources: We may receive information about you from other sources, including publicly available information or information available from third party sources, such as updated delivery and address information from our carriers or third parties, and add it to our account and marketing database information, generally for updating purposes. We may also obtain information about you through optional co-registration and/or advertisements on sites operated by third parties.
 
 Cookies: Our website uses Cookies, which are pieces of data stored in the browser’s memory or written to the user’s hard drive that provide the ability to recall information across user sessions. This also enables tracking of various user actions, including across other web sites over time, and helps customize the display of site content. Most web browsers are automatically set to accept cookies. SnapApp websites will not work correctly if cookies are disabled, and some functionality may be completely unavailable. You may reset your browser to notify you when you receive a cookie or to reject cookies generally. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, and how to disable cookies altogether.
 
-Other website related Information: Our website includes links to other websites whose privacy practices may differ from those of SnapApp. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. With your consent we may post your testimonial along with your name. Our website may offer publicly accessible message boards, blogs, and community forums. Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through SnapApp public message boards, blogs, or forums, this information may be collected and used by others. To request removal of your personal information from our testimonial, blog or community forum, contact us at theprivacygroup@snapapp.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Other website related Information: Our website includes links to other websites whose privacy practices may differ from those of SnapApp. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. With your consent we may post your testimonial along with your name. Our website may offer publicly accessible message boards, blogs, and community forums. Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through SnapApp public message boards, blogs, or forums, this information may be collected and used by others. To request removal of your personal information from our testimonial, blog or community forum, contact us at [theprivacygroup@snapapp.com](mailto:theprivacygroup@snapapp.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Social Media Widgets: Our website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy statement of the company providing it.
 
@@ -46,9 +46,7 @@ SnapApp’s website currently does not respond to “do not track” or similar 
 
 **II. Use of Collected Information**
 
-Marketing: By submitting PII to SnapApp you grant SnapApp the right to use that information for marketing purposes, such as contacting you about new features and promotions offered by SnapApp.
-
-Your PII is also used in a variety of other ways, including:
+Marketing: By submitting PII to SnapApp you grant SnapApp the right to use that information for marketing purposes, such as contacting you about new features and promotions offered by SnapApp. Your PII is also used in a variety of other ways, including:
 
   * Provisioning your use of the SnapApp software platform
   * Ensuring better presentation of site content to match demographic interests
@@ -60,7 +58,7 @@ Your PII is also used in a variety of other ways, including:
 
 **III. Information Sharing and Disclosure**
 
-We may share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at theprivacygroup@snapapp.com. We also share PII with other companies or individuals outside of SnapApp in the following limited circumstances:
+We may share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [theprivacygroup@snapapp.com](mailto:theprivacygroup@snapapp.com). We also share PII with other companies or individuals outside of SnapApp in the following limited circumstances:
 
 Third Party Service-Providers: SnapApp may from time to time share email addresses and other PII with third parties to perform functions on our behalf, such as sending informational emails about our products and services, lookup and reference, data enhancement, suppression, and validation. In these cases, SnapApp uses only trusted partners who are prohibited from using your information except to provide services for and on behalf of SnapApp and are required to maintain the confidentiality of your information.
 
@@ -70,15 +68,27 @@ Aggregated Information: We may share, publish or disseminate aggregated informat
 
 Merger/Acquisitions: If SnapApp becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before PII is transferred and becomes subject to a different privacy policy.
 
-**IV. Access to Information and Preferences/Opt-Out**
+**IV.  Access to Information and Preferences/Opt-Out**
 
-Upon request SnapApp will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  To request this information please contact us at theprivacygroup@snapapp.com.
+Upon request SnapApp will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [theprivacygroup@snapapp.com](mailto:theprivacygroup@snapapp.com).
 
-If your personally identifiable information changes, or if you no longer wish to use our Service, you may correct, update, and/or request deletion on our site at <https://manage.snapapp.com/profile> or by emailing us at theprivacygroup@snapapp.com. If you request that your user information be deleted from our records, there may be a brief delay in our processing that request, while we verify that the request is valid and originates from you as opposed to an unauthorized third party. If you request that your information be deleted, we reserve the right to terminate and/or limit your access to the SnapApp website and services. We will respond to your request within a reasonable timeframe.
+If your personally identifiable information changes, or if you no longer wish to use our Service, you may correct, update, and/or request deletion on our site at <https://manage.snapapp.com/profile> or by emailing us at  
+[theprivacygroup@snapapp.com](mailto:theprivacygroup@snapapp.com). If you request that your user information be deleted from our records, there may be a brief delay in our processing that request, while we verify that the request is valid and originates from you as opposed to an unauthorized third party. If you request that your information be deleted, we reserve the right to terminate and/or limit your access to the SnapApp website and services. We will respond to your request within a reasonable timeframe.
 
 We will retain your information, and on behalf of our customers, for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.
 
-To the extent we use PII to email you about our products and services, our email practices are in compliance with the U.S. laws. We also provide you the opportunity to opt out of having your PII used for certain purposes, when we ask for this information. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by emailing us at theprivacygroup@snapapp.com. We offer an opportunity to opt out of certain communications at <http://info.snapapp.com/UnsubscribePage.html>. If you do opt out from receiving promotional communications from us, this does not prohibit us from sharing PII for non-marketing purposes listed above.
+To the extent we use PII to email you about our products and services, our email practices are in compliance with the U.S. laws. We also provide you the opportunity to opt out of having your PII used for certain purposes, when we ask for this information. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by emailing us at [theprivacygroup@snapapp.com](mailto:theprivacygroup@snapapp.com). We offer an opportunity to opt out of certain communications at <http://info.snapapp.com/UnsubscribePage.html>. If you do opt out from receiving promotional communications from us, this does not prohibit us from sharing PII for non-marketing purposes listed above.
+
+As described in this Privacy Notice, SnapApp and third parties may use cookies and similar tracking technologies to collect information and infer your interests for interest-based advertising purposes. If you would prefer not to receive personalized ads based on your browser or device usage, you may generally express your opt-out preferences to no longer receive tailored advertisements. Please not that you will continue to see advertisements, but they will no longer be tailored to your interests.
+
+To opt-out of interest-based advertising, by participating companies in the following consumer choice mechanisms, please visit:
+
+To opt-out of interest-based advertising, by participating companies in the following consumer choice mechanisms, please visit:
+
+  * TrusArc’s Preferences Manager [(http://preferences-mgr.truste.com/)](http://preferences-mgr.truste.com/) and/or the mobile application-based “TRUSTe Privacy App” download page [(https://trustarc.com/consumer-resources/privacy-app/)](https://trustarc.com/consumer-resources/privacy-app/)
+  * European Interactive Digital Advertising Alliance (EDAA)’s self-regulatory opt-out out page [(https://youronlinechoices.eu).](https://youronlinechoices.eu/)
+
+
 
 **V. Security**
 
@@ -90,20 +100,42 @@ California law allows California residents to ask companies with whom they have 
 
 California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices may contact us using the contact information set forth in this Privacy Policy.
 
-**VII. International Visitors**
+**VII. European Union (EU) Visitors**
 
-SnapApp’s Site is hosted and operated in the United States (“US”). By using the Site, you are consenting to the transfer of your personal information to the US. If you are accessing this Site from outside the US, please be advised that US law may not offer the same privacy protections as the law of your jurisdiction.
+SnapApp’s Site is hosted and operated in the United States (“US”). In accordance with European Union law, SnapApp must provide notice and disclosure of, among other items, it’s legal basis for processing and the individual rights available to citizens of the EU.
 
-**VIII. Children**
+     1\. Legal Basis for Processing
 
-SnapApp account holders must be 18 years of age. We employ commercially reasonable measures to prevent the creation of SnapApp accounts by minors under the age of 18, and to terminate accounts found to be in violation of this policy. SnapApp does not knowingly collect personal information from minors under the age of 13. If you are under the age of 13, please do not provide us with your personal information. If you have reason to believe that a child has provided us with their personal information, please contact us at theprivacygroup@snapapp.com and we will delete that information from our databases.
+As described in this Privacy Policy, we use your Personal information if it is necessary to carry out our obligations arising from any contracts entered into between you and us or to take steps at your request prior to entering into a contract with you. We may process your Personal Information for specific purposes based on your prior consent. We may collect and process your Personal Interests to protect our property, rights, or safety of our customers or others. In addition, it may be our legal obligation to use or share your Personal Information with third parties, such as public authorities or law enforcement bodies. We rely on our legitimate interest to analyze, develop, improve and optimize our sites, products, and services, and to maintain the security of our sites, networks, and systems  
 
-SnapApp is not responsible for information obtained from underage users who have provided false information regarding their age. However, in these instances, parents may contact SnapApp at theprivacygroup@snapapp.com and have his/her information removed.
 
-**IX. Contact Information**
+     2. EU Citizen Individual Rights  
 
-SnapApp, Inc.
 
-200 Clarendon Street, 21st Floor, Boston, MA, 02116
+Where EU data protection laws apply, you will have the rights described below. In certain situations, SnapApp, as a processor, does not have a direct relationship with individuals whose Personal Information it processes. An individual who seeks access, or who wishes to change, correct, or remove Personal information may want to first direct such inquiries to the Controller to whom they provided the information. You may exercise your privacy rights by contacting us at [theprivacygroup@snapapp.com](mailto:theprivacygroup@snapapp.com) and we will handle your request under applicable law. When you make a request, we will verify your identity to protect your privacy and security.
 
-Email: theprivacygroup@snapapp.com
+  1. Right of access – the right to be informed of and request access to the personal data we process about you.
+  2. Right to withdraw consent – to the extend we requested your consent to process your Personal Information, you have the right to withdraw your consent to the processing of your Personal Information at any time. Your withdrawal will not affect the lawfulness of our processing based on consent before your withdrawal.
+  3. Right of rectification – the right to request that we amend or update your personal data where it is inaccurate or incomplete.
+  4. Right to erasure – the right to request that we delete your personal Information.
+  5. Right to data portability – the right to request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party’s service.
+  6. Right to restriction – the right to request that we temporarily or permanently stop processing all or some of your Personal Information.
+  7. Right to object to processing – the right, at any time, to object to us processing your personal data on grounds relating to your particular situation; the right to object to your personal data being processed for direct marketing purposes.
+  8. Right not to be subject to automated decision making – the right not to be subject to a decision based solely on automated decision-making, including profiling, where the decision would have a legal effect on your or produce a similarly significant effect;
+  9. Right to lodge a complaint – the right to lodge a complaint with a competent supervisory authority situated in a Member State of your habitual residence, place or work, or place of alleged infringement. 
+
+
+
+**  VIII. Children**   
+
+
+SnapApp account holders must be 18 years of age. We employ commercially reasonable measures to prevent the creation of SnapApp accounts by minors under the age of 18, and to terminate accounts found to be in violation of this policy. SnapApp does not knowingly collect personal information from minors under the age of 13. If you are under the age of 13, please do not provide us with your personal information. If you have reason to believe that a child has provided us with their personal information, please contact us at [theprivacygroup@snapapp.com](mailto:theprivacygroup@snapapp.com) and we will delete that information from our databases.
+
+SnapApp is not responsible for information obtained from underage users who have provided false information regarding their age. However, in these instances, parents may contact SnapApp at [theprivacygroup@snapapp.com](mailto:theprivacygroup@snapapp.com) and have his/her information removed.
+
+**  IX. Contact Information**   
+
+
+SnapApp, Inc.  
+WeWork/17th Floor, 33 Arch Street, Boston, MA, 02110  
+Email: [theprivacygroup@snapapp.com](mailto:theprivacygroup@snapapp.com)
