@@ -1,185 +1,107 @@
-> *The following text is extracted and transformed from the history.co.uk privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310203400id_/http%3A//www.history.co.uk/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the history.co.uk privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611123826id_/https%3A//www.history.co.uk/general/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy | History TV
+# Privacy Notice | History TV
 
-**INTRODUCTION**
+**LAST UPDATED: 25 MAY 2018**
 
+INTRODUCTION  
 AETN UK (“AETN, “we”, “us" or “our””) is committed to respecting your privacy.
 
-The following Privacy Policy sets out how we collect, store, use and disseminate data relating to you and applies to all use of data by us. This Privacy Policy forms a part of the Terms of Use on our website, [www.history.co.uk](https://web.archive.org/).
+The following Privacy Notice ("Privacy Notice") sets out how we collect, store, use and share personal information relating to you which we collect via our websites (including: at [www.history.co.uk/](https://web.archive.org/)), our applications, widgets, blogs, games, competitions and other online or digital services that we offer to our users, ("Digital Media"); and applies to all use of personal information by us.
 
-For the purpose of the Data Protection Act 1998, the Data Controller is AETN UK, 1 Queen Caroline Street, Hammersmith, London W6 9YN.
+The data controller of your personal information is AETN UK, Company Number 03105704, of 1 Queen Caroline Street, Hammersmith, London W6 9YN.
 
-If you have any concerns about your privacy, this AETN UK Privacy Policy or any AETN UK Service, please contact us at [feedback@aetn.co.uk](mailto:feedback@aetn.co.uk).
+If you have any questions or concerns about your privacy or our use of your personal information, please contact us at [feedback@aetn.co.uk](mailto:feedback@aetn.co.uk).
 
-**1\. ABOUT THE SERVICE AND THIS PRIVACY POLICY**
+**1\. WHAT PERSONAL INFORMATION DO WE COLLECT AND WHY?**  
+The personal information that we may collect about you broadly falls into the following categories:
 
-1.1 When we refer to "personal information" in this Privacy Policy, we mean information, which identifies you as an individual, or is capable of doing so.
+  * Information that you provide voluntarily
 
-1.2 In this Privacy Policy:
 
-1.2.1 the “AETN Service” is a reference to any of our websites, microsites, applications, widgets, user generated content, blogs, games, virtual worlds and other online or wireless services,
 
-1.2.2 a “Competition” is any game, prize draw, quiz, competition or promotion which is made available on or via an AETN Service, and
 
-1.2.3 a “Prize” is any offer, prize, discount or reward further to your participation in a Competition or which is otherwise made available through the AETN Service(s).  
- 
+Certain parts of our Digital Media may ask you to provide personal information voluntarily: for example, we may ask you to provide your contact details (i.e. name, email address, address and phone number), gender and age in order to register an account with us (at which point you will set up a username and password), to subscribe to marketing communications from us, to enter competitions and receive prizes, and/or to submit enquiries to us.  If you submit any enquiry to us, or otherwise communicate with us, we will also collect any content that you send to us, including your comments and marketing preferences, or responses to surveys. We may use this information to record of our discussion for future reference and so we can provide services to you more efficiently. We will also use your personal information to manage your user account, to contact you with news (including monthly newsletters to notify you about competitions, to offer you additional services, or to otherwise market to you) where permitted by law, and to provide features and content which are better suited to you and to analyse your interest in our services and general consumer trends.  Information we collect may also be used to enable our compliance with applicable laws and regulations, to verify your identity, to prevent fraud or reduce credit risk, to enable our compliance with any agreements that we have entered into (including to enable you to use our Digital Media and services), to understand how the Digital Media is being used, to provide you with an up to date, efficient and reliable service and to generally run and improve our Digital Media. Generally, the personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
-**2\. WHAT DATA DO WE COLLECT?**
+  * Information that we collect automatically
 
-2.1 We may ask you for, or you may submit, personal and non-personal information and data to us when you use the AETN Service(s). This could include:
 
-2.1.1 your name, address, gender and age;
 
-2.1.2 your username and password;
 
-2.1.3 your email address;
+When you visit our Digital Media, we may collect certain information automatically from your device.  In some countries, including countries in the European Economic Area, this information may be considered personal information under applicable data protection laws.
 
-2.1.4 your phone number;
+Specifically, the information we collect automatically may include information like your IP address, device type, browser-type, broad geographic location (e.g. country or city-level location) and other technical information.  We may also collect information about how your device has interacted with our Digital Media, including the pages accessed and links clicked.
 
-2.1.5 your browsing and log data collected by Google advertising cookies and other technical means that we may employ to recognise your device when you visit the Website, and
+Collecting this information enables us to better understand the visitors who use our Digital Media, (including who is using our Digital Media and how they use the Digital Media, and what content on our Digital Media is of interest to them) and which webpages those users have come from. We use this information for our internal analytics purposes (for example, to record and report user profile, behavior, location, audience, demographic and interest data) and to improve the quality and relevance of our Digital Media to our visitors.  We will also use this information to enable aspects of the Digital Media to be customized or remember your preferences and to provide you with relevant advertising.
 
-2.1.6 any content you submit to the AETN Service(s) ("Your Content”), such as comments and marketing preferences or responses to surveys and questionnaires.
+Some of this information may be collected using cookies and similar tracking technology, as explained further under the heading “Cookies and similar tracking technology” below.
 
-2.2 Please also see our Cookies section below for information about how we use cookies.
+**2\. WHO DOES AETN SHARE MY PERSONAL INFORMATION WITH?**  
+We may disclose personal information about you to the following categories of recipients:
 
-2.3 When you get in contact with us we may keep records of what is communicated. This is to ensure we have a record of our discussion for future reference and so we can provide services to you more efficiently.
+• to our group companies, third party services providers and partners who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help to enhance the security of our Digital Media), or who otherwise process personal information for purposes that are described in this Privacy Notice or notified to you when we collect your personal information. This may include the operators, promoters or prize providers of competitions, or third parties who we use to facilitate the sending of our newsletters.
 
-2.4 We might collect sensitive information about you, but we will never collect your sensitive information without your explicit consent.  
- 
+• to any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights or those legal rights of a third party, or (iii) to protect your vital interests or those of any other person;
 
-**3\. USES OF DATA**
+• to an actual or potential buyer (and its agents and advisers) in connection with any actual or proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use your personal information only for the purposes disclosed in this Privacy Notice;
 
-3.1 We use data for the following purposes:
+• to any other person with your consent to the disclosure.
 
-3.1.1 Name, address: to enable you to enter Competitions and receive Prizes and to manage user accounts;
+**3\. LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION**  
+Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
 
-3.1.2 Gender, age: to provide features and content which are better suited to you;
+However, we will normally collect personal information from you only (i) where we need the personal information to perform a contract with you, (ii) where the processing is in our legitimate interests and not overridden by your rights, or (iii) where we have your consent to do so.  In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person.
 
-3.1.3 Username, password: to manage your user accounts;
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).  
 
-3.1.4 Email address: to contact you with news, including monthly newsletters to notify you about Competitions, or to offer you additional services and by accepting this Privacy Policy you consent to us using your email address for direct marketing and advertising purposes where you have consented that we may do so;
+If we collect and use your personal information in reliance on our legitimate interests (or those of any third party), this interest will normally be to operate our Digital Media and to communicate with you as necessary to provide our services to you; and/or for our legitimate commercial interest, for instance, when responding to your queries, improving our Digital Media, undertaking marketing, or for the purposes of detecting or preventing illegal activities.  We may have other legitimate interests and if appropriate we will make clear to you at the relevant time what those legitimate interests are.
 
-3.1.5 Phone number: to contact you about matters requiring your urgent attention, to verify your identity or to provide other AETN Services with your consent (such as text message notifications);
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided at the top of this Privacy Notice.
 
-3.1.6 Your Content: to process and make available Your Content to the AETN Service, to market to you and to determine your interests in products and services or general consumer trends;
+**4\. COOKIES AND OTHER TRACKING TECHNOLOGY**  
+We use ‘cookies’ and similar tracking technologies (collectively, "Cookies") to collect and use personal information about you, including to serve interest-based advertising. For further information about the types of Cookies we use, why, and how you can control Cookies, please see our [Cookie Notice](https://web.archive.org/general/cookie-notice).
 
-3.1.7 Google advertising cookies and anonymous identifiers: to send you push notifications for promotions including newsletters, to conduct analytics on your visit to the Website, including by recording and analysing user behaviour, location, audience, demographic and interest data. This information may be used in order to enable the remarketing of users and may be shared with Google.
+**5\. HOW DOES AETN KEEP MY PERSONAL INFORMATION SECURE?**  
+We use appropriate technical and organisational measures to protect the personal information that we collect and process about you.  The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information. Specific measures we use include, but are not limited to, encrypting your personal information and using password protection.
 
-3.2 Information submitted to the AETN Service(s) may also be used to:
+**6\. CHILDREN’S PRIVACY**  
+We do not anticipate that our Digital Media will be used by individuals under 16 years of age (each a "Minor"), nor that we will collect and use personal information about Minors.  If you are a Minor, please get your parent or your legal guardian's permission before you provide any personal information to AETN.
 
-3.2.1 enable our compliance with applicable laws and regulations;
+If we become aware that a Minor has provided us with personal information without the permission of his or her parent or legal guardian, we will remove this information from our systems.
 
-3.2.2 enable our compliance with any agreements entered into between us;
+**7\. DATA RETENTION**  
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).  
 
-3.3.3 enable your use of that AETN Service and associated services;
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-3.3.4 understand how the AETN Service is being used;
+**8\. INTERNATIONAL DATA TRANSFERS**  
+Your personal information may be transferred to, and processed in, countries other than the country in which you are resident. These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective).
 
-3.3.5 provide you with an up to date, efficient and reliable service, and
+Specifically, our Website servers are located in the US, and our group companies and third party service providers and partners operate around the world.  This means that when we collect your personal information we may process it in any of these countries.
 
-3.3.6 generally run and improve the AETN Service.
+However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Notice. These include implementing an intra-group agreement incorporating the European Commission’s Standard Contractual Clauses for transfers of personal information between our group companies, which require all group companies to protect personal information they process from the EEA in accordance with European Union data protection law.  
 
-3.3 Competitions may be subject to additional terms and conditions, which may contain other potential uses of your information. If you do not agree to the use of data as set out in those additional terms, please do not take part in that Competition.  
- 
+Our Standard Contractual Clauses can be provided on request. We have implemented similar appropriate safeguards with our third party service providers and partners and further details can be provided upon request.
 
-**4\. DATA SHARING**
+**9\. YOUR DATA PROTECTION RIGHTS**  
+You have the following data protection rights:
 
-4.1 We may disclose personal information about you to the operators, promoters or prize providers of Competitions, third parties who we use to facilitate the sending of our newsletters and/or to other members of our group of companies or, with your express consent, to trusted third parties (both inside and outside of the European Economic Area):
+• If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us using the contact details provided at the top of this Privacy Notice.  
 
-4.1.1 for the purposes and uses set out in this Privacy Policy;
+• In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. Again, you can exercise these rights by contacting us using the contact details provided at the top of this Privacy Notice.
 
-4.1.2 for the purposes of operating or enabling the operation of a Competition;
+• You have the right to opt-out of marketing communications we send you at any time.  You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you.  To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided at the top of this Privacy Notice.
 
-4.1.3 for marketing purposes, and
+• Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-4.1.4 to enable us to receive services which help us operate the AETN Service(s).
+• You have the right to complain to a data protection authority about our collection and use of your personal information.  For more information, please contact the Information Commissioner's Office at: <https://ico.org.uk/global/contact-us/>
 
-4.2 Your personal information may also be disclosed:
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
-4.2.1 if we sell any businesses or assets;
+**10\. THIRD PARTY WEBSITES**  
+If you follow a link from our Digital Media to any third party websites or other digital media, you should be aware that those websites or digital media will not be governed by this Privacy Notice and may have their own privacy policies. We do not accept any responsibility or liability for those third party websites and digital media. Please check the policies of any third party websites or digital media before submitting any personal data to them.
 
-4.2.2 with a view to preventing fraud or reducing credit risk;
+**11\. UPDATES TO THIS PRIVACY NOTICE**  
+We may update this Privacy Notice from time to time in response to changing legal, technical or business developments. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make.  We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws.
 
-4.2.3 if we are obliged to do so to comply with law, regulations or a court order;
-
-4.2.4 if it is necessary to enforce any of our terms and conditions or any other agreements to which we are a party ,or
-
-4.2.5 if it is necessary to protect our rights, property or the safety of our customers or Website users.
-
-4.3 You consent to the disclosure of your personal information to any overseas entities in accordance with any of the points above.
-
-**5\. MANAGEMENT OF DATA**
-
-5.1 We will only use information collected about you in accordance with the Data Protection Act 1998.
-
-5.2 By submitting your information you agree to our use of data about you as described in this Privacy Policy.
-
-5.3 If you believe we have information about you that you do not want us to have or that you think is incorrect, please contact us.
-
-5.4 Although we will do our best to protect your personal data from misuse, interference and loss and from unauthorised access, modification or disclosure, we cannot guarantee the security of data transmitted to the AETN Service(s). Any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-**6\. COOKIES AND OTHER TRACKING TECHNOLOGY**
-
-6.1 We use ‘cookies’ and similar technologies on the AETN Services. Cookies are small computer files which the AETN Service(s) may store and/or access in your internet browser, enabling information to be transmitted to and from your internet browser and the AETN Service(s). Cookies may also be stored in your internet browser by or on behalf of third parties, such as Google, Facebook, providers of advertising services or promoters of Competitions.
-
-6.2 Cookies enable us to record anonymous information about you, including: the type of internet browser you use to access the AETN Service(s), your computer operating system, the websites you visited before visiting the AETN Service, the areas of the AETN Service you visit and your IP address (which can provide information about your approximate geographic location). Cookies cannot be used to disclose your individual identity.
-
-6.3 We use cookies in order to:
-
-6.3.1 learn about how the AETN Service is being used and which types of individuals are using the AETN Service(s),
-
-6.3.2 record and report user profile, behaviour, location, audience, demographic and interest data;
-
-6.3.3 record which other websites have referred users to the AETN Service(s);
-
-6.3.4 optimise the AETN Service(s) and improve our services;
-
-6.3.5 make it easier for you to fill in forms on the AETN Service(s) and remember the information you have submitted to the form;
-
-6.3.6 enable the AETN Service(s) to remember your preferences;
-
-6.3.7 enable aspects of the AETN Service to be customised, and
-
-6.3.8 provide relevant advertising.
-
-6.4 We will retain information received from our use of cookies for up to one year.
-
-6.5 For more information about cookies, please visit allaboutcookies.org. If you do not wish for us to use cookies when you use a AETN Service, please adjust your Internet browser settings to decline cookies (your computer’s help file should tell you how to do this). If you choose to decline cookies, some parts of the AETN Service may not work properly. By using the AETN Service, you agree to our use of cookies as described above.
-
-6.6 If you want to learn about how to opt out of Google Analytics, please see visit <https://tools.google.com/dlpage/gaoptout/> or your Google Ads Settings.
-
-**7\. MARKETING**
-
-7.1 We give you a choice of whether or not you want us or other companies to contact you about offers, events, products and services that may interested you.
-
-7.2 We might send you marketing emails and/or push notifications about products or services which are similar to or related to the AETN Service(s), or contact you by email with information about AETN Services. We will not send you any other marketing emails or pass your information on to third parties unless you give your consent or you have given it already.
-
-**8\. CHILDREN’S PRIVACY**
-
-8.1 We request that, for all persons under 18 years of age, a parent or legal guardian consent to that person’s use of the AETN Service(s) and explain this Privacy Policy to them.
-
-8.2 All persons under the age of 18 must obtain the consent of their parent or legal guardian before using the AETN Service(s) or submitting any information to us.
-
-8.3 If a minor has provided us with personal information without the consent of his or her parent or legal guardian, such information will be removed by contacting us.
-
-**9\. DATA RETENTION**
-
-We will only hold data about you for as long as we reasonably believe is necessary, bearing in mind the purpose for which that data was collected.
-
-**10\. GENERAL**
-
-10.1 If you follow a link from an AETN Service to any third party websites, you should be aware that those websites may have their own privacy policies. We do not accept any responsibility or liability for those websites. Please check the policies of any third party websites before submitting any personal data to them.
-
-10.2 We may make changes to this Privacy Policy in the future, which will be posted on this page. You should check this page from time to time to ensure you are aware of any changes. Where appropriate we may notify you of changes by email or by putting a notice on the AETN Service.
-
-10.3 All questions, comments or enquiries should be directed to us. We will try to respond to you within 48 hours. In accordance with applicable data protection law, you have a right to access, rectify and remove any of your data which are inaccurate, incomplete or outdated. You may exercise this right by contacting [feedback@aetn.co.uk](mailto:feedback@aetn.co.uk). We reserve the right to charge a reasonable fee at our standard rate for any requests for copies of personal data held by us.  
- 
-
-AETN UK  
-Company Number 03105704  
-[feedback@aetn.co.uk](mailto:feedback@aetn.co.uk)  
-AETN UK  
-1 Queen Caroline Street, Hammersmith, London, W6 9YN
-
-_Updated 06 June 2017_
+You can see when this Privacy Notice was last updated by checking the “last updated” date displayed at the top of this Privacy Notice.  
