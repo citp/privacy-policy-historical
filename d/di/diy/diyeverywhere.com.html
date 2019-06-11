@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the diyeverywhere.com privacy policy that was archived on 2018-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230192013id_/http%3A//diyeverywhere.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diyeverywhere.com privacy policy that was archived on 2019-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190611191005id_/https%3A//diyeverywhere.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
   <title>DIY Everywhere</title>
@@ -7,7 +7,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta http-equiv="Content-type" content="text/html" charset="UTF-8">
-	<link rel="shortcut icon" type="image/png" href="http://diyeverywhere.com/img/favicon_diyeverywhere.com.png">
+	<link rel="shortcut icon" type="image/png" href="https://diyeverywhere.com/img/favicon_diyeverywhere.com.png">
   <link rel="canonical" href="http://diyeverywhere.com/privacy.php">  <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.8&amp;appId=36006904351"></script><script src="/js/utils.js"></script>
   <script src="/js/json.js"></script>
   <script src="/js/ajax_wrapper.js"></script>
@@ -28,7 +28,155 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
+<script type="text/javascript">
+function DataPolicy() {
+}
+DataPolicy.REGION = 2;
+DataPolicy.COOKIE_CONSENT = 3;
+DataPolicy.CP_ID = "1560280205_5cfffc8d55ee9";
 
+
+DataPolicy.COOKIE_NAME = 'consent-allowed';
+DataPolicy.COOKIE_MAX_AGE = 10*365*24*60*60;
+DataPolicy.CONSENT_T = 'i';
+
+DataPolicy.init = function() {
+	if (DataPolicy.canPersonalizeAds()) {
+		// initialize personalized ads, handled
+	}
+	if (DataPolicy.canPersonalizeContent()) {
+		// initialize personalized content, handled
+	}
+	if (DataPolicy.cookiesDisabled()) {
+		// halt analytics
+		window['ga-disable-UA-47042995-1'] = true;
+		// halt measurement pixels
+		// -handled facebook at pixel load stage - fbq('consent', 'revoke');
+		// pause personalized ads
+		// -handled at adstack load with canPersonalizeAds call
+		// halt personalized content
+		// -handled at rtevents with canPersonalizeAds call
+	}
+}
+
+DataPolicy.getConsent = function() {
+	return DataPolicy.COOKIE_CONSENT;
+}
+
+DataPolicy.setConsent = function(consent_setting) {
+	console.log("Data Policy: Consent set to "+consent_setting);
+	// set preference via cookie
+	DataPolicy.setConsentCookie(consent_setting);
+	// record preference via ajax
+	DataPolicy.COOKIE_CONSENT = consent_setting;
+	// close dialog
+	DataPolicy.closeDialog();
+	// initialize cookie-enabled features based on setting
+	DataPolicy.initFeatures();
+}
+
+DataPolicy.setConsentCookie = function(consent_setting) {
+	// set cp_id, cp_consent_setting cookies
+	
+	var expireDate = new Date();
+	expireDate.setFullYear(expireDate.getFullYear()+5);
+	document.cookie = "cp_id="+DataPolicy.CP_ID+";expires="+expireDate+";domain=.diyeverywhere.com;path=/";
+	document.cookie = "cp_consent="+consent_setting+";expires="+expireDate+";domain=.diyeverywhere.com;path=/";
+	
+  var ajax = new Ajax();
+  ajax.responseType = Ajax.JSON;
+  ajax.ondone = function(response) {
+  	if (response) {
+  	}
+  };
+  var p = {
+  		cp_id: DataPolicy.CP_ID,
+  		cp_consent: consent_setting,
+  		cp_domain: "diyeverywhere.com",
+  		cp_k: ""
+  	};
+  console.log('Data Policy:',p);
+  ajax.post("/ajax/datapolicy.php",p);
+}
+
+DataPolicy.initFeatures = function() {
+	if (DataPolicy.canPersonalizeContent()) {
+		if (window.CPR && window.CPR.init) {
+			window.CPR.init();
+		}
+		// initialize personalized content, rtevents
+		if (window.rte && window.rte._sendEvents) {
+			window.rte._sendEvents();
+		}
+	}
+	if (DataPolicy.canPersonalizeAds()) {
+		// initialize personalized ads
+		if (window.fbq) {	// grant fbq
+			window.fbq('consent', 'grant');
+		}
+		// init ads
+		if (window.adserver && window.adserver.loadVisibleSlots) {
+			window.adserver.loadVisibleSlots();
+		}
+		// load embed content
+		// block-type="embed", block-id block-content-[block-id]
+		
+		var blocks = document.querySelectorAll("[block-type='embed']");
+		var i = 0;
+		for (i = 0; i < blocks.length; i++) { 
+			// load content into dom
+			var block = blocks[i];
+			var blockId = block.getAttribute('block-id');
+			if (window["json_content_block_"+blockId]) {
+				block.innerHTML = window["json_content_block_"+blockId];
+			}
+		}
+	}
+}
+
+DataPolicy.canPersonalizeContent = function() {
+	if (DataPolicy.getConsent() >= 1) {
+		return true;
+	}
+	return false;
+}
+
+DataPolicy.canPersonalizeAds = function() {
+	if (DataPolicy.getConsent() >= 2) {
+		return true;
+	}
+	return false;
+}
+
+DataPolicy.cookiesDisabled = function() {
+	if (DataPolicy.getConsent() <= 0) {
+		return true;
+	}
+	return false;
+}
+
+DataPolicy.onDialogLoaded = function() {
+	if (DataPolicy.COOKIE_CONSENT == -1 || DataPolicy.COOKIE_CONSENT == 3) {
+		DataPolicy.showDialog();
+	}
+}
+DataPolicy.showDialog = function() {
+	var dialog = document.getElementById('data-policy-dialog');
+	if (dialog) {
+		dialog.style.display='inline-block';
+	}
+}
+DataPolicy.closeDialog = function() {
+	if (document.getElementById('data-policy-dialog')) {
+		document.getElementById('data-policy-dialog').style.display = 'none';
+	}
+	if (document.getElementById('data-policy-dialog-options')) {
+		document.getElementById('data-policy-dialog-options').style.display = 'none';
+	}
+}
+
+DataPolicy.init();
+</script>
 <div class="ticker fullWidth-holder">
 	<div class="content contentWidth-holder">
 	</div>
@@ -39,7 +187,7 @@
 	<div class="content contentWidth-holder">
 		<div style="padding-top:10px">
 			<div class="logo">
-				<a href="/"><img width="300" src="http://diyeverywhere.com/img/logo_diyeverywhere.png"></a>
+				<a href="/"><img width="300" src="https://diyeverywhere.com/img/logo_diyeverywhere.png"></a>
 			</div>
 			
 			<div class="section">
@@ -63,10 +211,155 @@
 
 
 
+<script type="text/javascript">
+function DataPolicy() {
+}
+DataPolicy.REGION = 2;
+DataPolicy.COOKIE_CONSENT = 3;
+DataPolicy.CP_ID = "1560280205_5cfffc8d566a1";
 
+
+DataPolicy.COOKIE_NAME = 'consent-allowed';
+DataPolicy.COOKIE_MAX_AGE = 10*365*24*60*60;
+DataPolicy.CONSENT_T = 'i';
+
+DataPolicy.init = function() {
+	if (DataPolicy.canPersonalizeAds()) {
+		// initialize personalized ads, handled
+	}
+	if (DataPolicy.canPersonalizeContent()) {
+		// initialize personalized content, handled
+	}
+	if (DataPolicy.cookiesDisabled()) {
+		// halt analytics
+		window['ga-disable-UA-47042995-1'] = true;
+		// halt measurement pixels
+		// -handled facebook at pixel load stage - fbq('consent', 'revoke');
+		// pause personalized ads
+		// -handled at adstack load with canPersonalizeAds call
+		// halt personalized content
+		// -handled at rtevents with canPersonalizeAds call
+	}
+}
+
+DataPolicy.getConsent = function() {
+	return DataPolicy.COOKIE_CONSENT;
+}
+
+DataPolicy.setConsent = function(consent_setting) {
+	console.log("Data Policy: Consent set to "+consent_setting);
+	// set preference via cookie
+	DataPolicy.setConsentCookie(consent_setting);
+	// record preference via ajax
+	DataPolicy.COOKIE_CONSENT = consent_setting;
+	// close dialog
+	DataPolicy.closeDialog();
+	// initialize cookie-enabled features based on setting
+	DataPolicy.initFeatures();
+}
+
+DataPolicy.setConsentCookie = function(consent_setting) {
+	// set cp_id, cp_consent_setting cookies
 	
+	var expireDate = new Date();
+	expireDate.setFullYear(expireDate.getFullYear()+5);
+	document.cookie = "cp_id="+DataPolicy.CP_ID+";expires="+expireDate+";domain=.diyeverywhere.com;path=/";
+	document.cookie = "cp_consent="+consent_setting+";expires="+expireDate+";domain=.diyeverywhere.com;path=/";
+	
+  var ajax = new Ajax();
+  ajax.responseType = Ajax.JSON;
+  ajax.ondone = function(response) {
+  	if (response) {
+  	}
+  };
+  var p = {
+  		cp_id: DataPolicy.CP_ID,
+  		cp_consent: consent_setting,
+  		cp_domain: "diyeverywhere.com",
+  		cp_k: ""
+  	};
+  console.log('Data Policy:',p);
+  ajax.post("/ajax/datapolicy.php",p);
+}
 
-  <script>
+DataPolicy.initFeatures = function() {
+	if (DataPolicy.canPersonalizeContent()) {
+		if (window.CPR && window.CPR.init) {
+			window.CPR.init();
+		}
+		// initialize personalized content, rtevents
+		if (window.rte && window.rte._sendEvents) {
+			window.rte._sendEvents();
+		}
+	}
+	if (DataPolicy.canPersonalizeAds()) {
+		// initialize personalized ads
+		if (window.fbq) {	// grant fbq
+			window.fbq('consent', 'grant');
+		}
+		// init ads
+		if (window.adserver && window.adserver.loadVisibleSlots) {
+			window.adserver.loadVisibleSlots();
+		}
+		// load embed content
+		// block-type="embed", block-id block-content-[block-id]
+		
+		var blocks = document.querySelectorAll("[block-type='embed']");
+		var i = 0;
+		for (i = 0; i < blocks.length; i++) { 
+			// load content into dom
+			var block = blocks[i];
+			var blockId = block.getAttribute('block-id');
+			if (window["json_content_block_"+blockId]) {
+				block.innerHTML = window["json_content_block_"+blockId];
+			}
+		}
+	}
+}
+
+DataPolicy.canPersonalizeContent = function() {
+	if (DataPolicy.getConsent() >= 1) {
+		return true;
+	}
+	return false;
+}
+
+DataPolicy.canPersonalizeAds = function() {
+	if (DataPolicy.getConsent() >= 2) {
+		return true;
+	}
+	return false;
+}
+
+DataPolicy.cookiesDisabled = function() {
+	if (DataPolicy.getConsent() <= 0) {
+		return true;
+	}
+	return false;
+}
+
+DataPolicy.onDialogLoaded = function() {
+	if (DataPolicy.COOKIE_CONSENT == -1 || DataPolicy.COOKIE_CONSENT == 3) {
+		DataPolicy.showDialog();
+	}
+}
+DataPolicy.showDialog = function() {
+	var dialog = document.getElementById('data-policy-dialog');
+	if (dialog) {
+		dialog.style.display='inline-block';
+	}
+}
+DataPolicy.closeDialog = function() {
+	if (document.getElementById('data-policy-dialog')) {
+		document.getElementById('data-policy-dialog').style.display = 'none';
+	}
+	if (document.getElementById('data-policy-dialog-options')) {
+		document.getElementById('data-policy-dialog-options').style.display = 'none';
+	}
+}
+
+DataPolicy.init();
+</script>  <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -74,16 +367,13 @@
   
     ga('create', 'UA-47042995-1', 'auto');
     ga('send', 'pageview');
-  </script>
-  
-
-<div class="Section1">
+  </script><div class="Section1">
 
 <p class="MsoNormal" align="center" style="text-align:center"><b><u>PRIVACY POLICY</u></b></p>
 
 <p class="MsoNormal">&nbsp;</p>
 
-<p style="font-style:italic;">Effective May 24, 2018</p>
+<p style="font-style:italic;">Last Modified Jan 28, 2019</p>
 
 <p class="MsoNormal">This website (collectively, "This website" or
 "we"), under parent company SFG Media Group, LLC, respects the privacy rights of our online users and is
@@ -270,7 +560,7 @@ you may be directed to other sites that are beyond our control and for which we
 are not responsible. Additionally, third parties provide advertisements and
 offer other products and services to you when you are using our Service, which
 may receive your IP address or other technology such as cookies, web beacons
-and the like. By using the Service, you consent to such use by third parties
+and the like. By using the Service, or with your consent, you agree to such use by third parties
 of your personal information, which is subject to the privacy policies of these
 third parties.</p>
 
@@ -278,9 +568,65 @@ third parties.</p>
 parties for more detailed information.</p>
 
 
-<p class="MsoNormal">Third party vendors, including Facebook, Google, Amazon, AppNexus, OpenX, Exponential and Nativo use cookies to serve ads based on prior visits to This website or other websites on the Internet.
-You may opt out of personalized advertising by visiting <a href="http://www.aboutads.info/choices/" target="_blank">www.aboutads.info</a>.</p>
 
+<p class="MsoNormal"><b><a name="partners" style="text-decoration:none;color:black;">Cookies served through This website</a></b><br>
+	
+</p><h3>Advertising Cookies</h3>
+
+<p>These cookies allow third-party advertising partners (collectively, "Advertisers") to deliver ads that may be of interest to you.  Advertisers may set cookies to collect data about how you use our sites and other sites to provide interest-based advertising or other targeted content within or beyond our sites.  For more details on how these Advertisers collect and use this information, please visit their respective privacy policies in the links provided below.</p>
+
+<p>
+	<a href="https://policies.google.com/technologies/partner-sites">Google</a>, 
+	<a href="https://www.facebook.com/policies/cookies/">Facebook</a>, 
+	<a href="https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&amp;nodeId=468496">Amazon</a>, 
+	<a href="https://www.appnexus.com/platform-privacy-policy">AppNexus</a>, 
+	<a href="https://www.openx.com/legal/privacy-policy/">OpenX</a>,
+	<a href="http://adloox.com/disclaimer">Adloox</a>,
+	<a href="https://www.aunica.com.br/privacy/privacy.html">Aunica</a>,
+	<a href="https://www.cloudflare.com/privacypolicy/">Cloudflare</a>,
+	<a href="https://www.criteo.com/privacy/">Criteo</a>,
+	<a href="https://www.evidon.com/resources/privacy-statement/">Evidon</a>,
+	<a href="http://www.flashtalking.com/first-party-ad-serving/">Flashtalking</a>,
+	<a href="https://createjs.com/legal/privacy.html">gskinner</a>,
+	<a href="https://integralads.com/privacy-policy/">Integral Ad Science</a>,
+	<a href="http://www.mediamath.com/privacy-policy/">MediaMath</a>,
+	<a href="https://help.netflix.com/legal/privacy">Netflix</a>,
+	<a href="https://www.nielsen.com/us/en/privacy-statement/digital-measurement.html">Nielsen</a>,
+	<a href="https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html">Oracle Data Cloud</a>,
+	<a href="https://www.spotx.tv/privacy-policy/">SpotX</a>
+</p>
+
+<h3>Essential Cookies</h3>
+
+<p>These cookies are necessary for basic functionality of site features.  For example, if you use a feature that requires you to be logged in.</p>
+
+<a href="/privacy.php">SFG Media Group</a>
+
+<h3>Social Media Cookies</h3>
+
+<p>These cookies enable content sharing to third party social media platforms, in addition to other features specific to third party social media platforms.  For example, when "following" one of our social media accounts.  These cookies may also be used for advertising purposes to remarket content to you on social media platforms and on other websites.</p>
+
+<p><a href="https://www.facebook.com/policies/cookies/">Facebook</a>, <a href="https://policy.pinterest.com/en/privacy-policy">Pinterest</a>, <a href="https://policies.google.com/privacy">YouTube</a>, <a href="https://twitter.com/en/privacy">Twitter</a></p>
+
+<h3>Analytics Cookies</h3>
+
+<p>These cookies collect information about your use of This website and help us improve its functionality.  This usage data is aggregated to provide an overview of how the site is performing and is not used to identify individuals.</p>
+
+<a href="https://policies.google.com/privacy">Google Analytics</a>, <a href="/privacy.php">SFG Media Group</a>
+
+
+<p class="MsoNormal"><b>How do I customize my cookie settings?</b><br>
+
+</p><p>Most browsers default to allow cookies, however you can usually delete cookies that have been set, and reject future cookies by following the instructions in your browser's privacy settings.</p>
+	
+<p>For help with common browser cookie settings, and more information about cookies in general, visit <a href="http://www.allaboutcookies.org/manage-cookies/">http://www.allaboutcookies.org/manage-cookies/</a></p>
+
+<p class="MsoNormal">Some Advertisers that use cookies or other similar technology to serve ads allow you to opt out of personalized advertising by visiting <a href="http://www.aboutads.info/choices/" target="_blank">www.aboutads.info</a>.</p>
+	
+<p style="display:none;">To disable all cookies and tracking technology through our site, click "disable cookies" button below.  If you have selected to allow cookies from this site in the past, clicking the button below will revoke that permission and stop future cookies from being set, however you may still want to follow the directions above to delete past cookies.</p>	<div style="background-color:#f8f8f8;border:1px gray solid;padding:15px;margin:10px;">We have no cookie preference stored for you. (If you just changed your setting, refresh the page to view the latest status)</div>
+<div style="text-align:center;">
+<div style="color:white;background-color:#4687f1;font-size:14px;padding:15px;font-family:verdana;display:inline-block;cursor:pointer;" onclick="DataPolicy.setConsent(0);this.innerHTML='Cookies Disabled';this.style.backgroundColor='gray';">Disable Cookies</div>	
+</div>
 
 <p class="MsoNormal"><u>California</u><u> Privacy Rights</u></p>
 
@@ -357,14 +703,14 @@ information to us or anyone else over the Internet.</p>
 			<div class="list">
 				<div><a href="/terms.php">Terms of Service</a></div>
 				<div><a href="/privacy.php">Privacy Policy</a></div>
-				<div><a href="/dmca.php">DMCA Removal</a></div>
+				<div><a href="/dmca.php">Copyright Policy</a></div>
 			</div>
 		</div>
 	</div>
 </div><div class="footer fullWidth-holder">
 	<div class="content contentWidth-holder">
 		<span class="cplogo">Collective Press</span>
-		<div style="position:absolute;right:0px;top:45px;font-family:Asap,verdana,arial;font-weight:normal;color:#e6e6e6;font-size:14px;">© 2018 Collective Press</div>
+		<div style="position:absolute;right:0px;top:45px;font-family:Asap,verdana,arial;font-weight:normal;color:#e6e6e6;font-size:14px;">© 2019 Collective Press</div>
 	</div>
 </div>
 </div>
