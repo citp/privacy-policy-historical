@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zabbix.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205151846id_/https%3A//www.zabbix.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zabbix.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611185252id_/https%3A//www.zabbix.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,7 +98,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 
 
-**If at any time you would like to unsubscribe from receiving future emails, you can email us at** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bed7d0d8d1fec4dfdcdcd7c690ddd1d3) and we will promptly remove you from **ALL** correspondence. 
+**If at any time you would like to unsubscribe from receiving future emails, you can email us at** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a2cbccc4cde2d8c3c0c0cbda8cc1cdcf) and we will promptly remove you from **ALL** correspondence. 
 
 ### Contacting Us
 
