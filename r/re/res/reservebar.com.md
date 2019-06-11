@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reservebar.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711162056id_/https%3A//www.reservebar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reservebar.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611133436id_/https%3A//www.reservebar.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buy Online or Send as a Gift | ReserveBar
 
@@ -202,3 +202,5 @@ The ReserveBar.com site is intended for adults 21 years of age and older. We do 
 Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year.
 
 To request a copy of the information disclosure provided by ReserveBar pursuant to Section 1798.83 of the California Civil Code, please contact [info@reservebar.com](mailto:info@reservebar.com).
+
+Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device
