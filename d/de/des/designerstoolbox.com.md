@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designerstoolbox.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212040803id_/http%3A//designerstoolbox.com/legalandprivacy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerstoolbox.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611095215id_/http%3A//designerstoolbox.com/legalandprivacy/privacy.php) for the most accurate reproduction.*
 
 # Designers Toolbox Privacy Policy
 
