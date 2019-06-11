@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momslikeme.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019014855id_/http%3A//www.gannett.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momslikeme.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611173809id_/https%3A//www.gannett.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
