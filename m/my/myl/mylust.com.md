@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylust.com privacy policy that was archived on 2018-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180415112503id_/http%3A//mylust.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylust.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611230708id_/https%3A//mylust.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
