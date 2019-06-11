@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartadsbuilder.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203045356id_/http%3A//smartadsbuilder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartadsbuilder.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611101146id_/http%3A//smartadsbuilder.com/privacy) for the most accurate reproduction.*
 
 # Watch Full Movie Online Spider-Man: Homecoming (2017) — Smart Ads Builder
 
