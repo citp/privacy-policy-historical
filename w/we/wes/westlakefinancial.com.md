@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the westlakefinancial.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013045938id_/https%3A//www.westlakefinancial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlakefinancial.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611074721id_/https%3A//www.westlakefinancial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Westlake Financial Services
-
-## Privacy Policy
 
 Westlake Services, LLC d/b/a Westlake Financial Services (“Westlake”) is committed to respecting the individual rights of our customers. We are providing this privacy notice to inform you of our privacy and security practices regarding our relationship with you.
 
