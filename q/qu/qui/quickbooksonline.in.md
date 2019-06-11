@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickbooksonline.in privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221224404id_/https%3A//security.intuit.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbooksonline.in privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611231258id_/https%3A//security.intuit.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy
 
