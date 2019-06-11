@@ -1,37 +1,69 @@
-> *The following text is extracted and transformed from the indiemerchstore.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909045605id_/https%3A//www.indiemerchstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiemerchstore.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611110345id_/https%3A//www.indiemerchstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IndieMerchstore
 
-www.indiemerchstore.com is operated by Indie Merch.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from indiemerchstore.com (the “Site”).
 
-We can be reached via email at orders@indiemerchstore.com or you can reach us by telephone at 1 (855) 210-1412
+**PERSONAL INFORMATION WE COLLECT  
+**
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name.
+We collect personal information in order to provide you with the best experience when visiting and ordering from the Site.
 
-We collect only the domain name of visitors to our Web pages, the email addresses of those who communicate with us via email, user-specific information on what pages consumers access or visit, and information volunteered by the consumer, such as survey information and/or site registrations.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
 
-The information we collect is used to improve the content of our Web pages and to notify consumers about updates to our Web site, but is never shared with other organizations for commercial purposes.
+We collect Device Information using the following technologies: - “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). - “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps. - “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Site.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit.
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including the collections, but not storage of credit card numbers), email address, and phone number. We refer to this information as “Order Information”.
 
-If you do not want to receive email from us in the future, please let us know by sending us email at the above address.
+When we refer to “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-If you supply us with your postal address online you will only receive the information for which you provided us your address.
+**HOW DO WE USE YOUR PERSONAL INFORMATION?**  
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to: - Communicate with you; - Screen our orders for potential risk or fraud; and - When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
-Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online.
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+**SHARING YOUR PERSONAL INFORMATION**  
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Monopile, LLC to power our online store – you can contact about Monopile here: [https://www.monopile.com](https://www.monopile.com/)/privacy. We also use Google Analytics to help us understand how our customers use the Site -- you can read more about how Google uses your Personal Information here: [https://www.google.com/intl/en/policies/privacy/. ](https://www.google.com/intl/en/policies/privacy/)
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.
+We never sell your Personal Information to third parties for marketing, advertising, or any other purpose.  
 
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., emails, customer inquiries), and contact information (e.g., name, address, phone number) that we maintain about them.
+  
+You can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
 
-Consumers can access this information by emailing us at the above address.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
+**BEHAVIOURAL ADVERTISING**  
+As described above, we may use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
 
-Consumers can have this information corrected by sending us email at the above address.
+You can opt out of targeted advertising by using the links below:
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server.
+\- Facebook: [https://www.facebook.com/settings/?tab=ads ](https://www.facebook.com/settings/?tab=ads)
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+\- Google: [https://www.google.com/settings/ads/anonymous ](https://www.google.com/settings/ads/anonymous)
+
+\- Bing: <https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads>
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: <http://optout.aboutads.info/>.
+
+**YOUR RIGHTS**  
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to the United States.
+
+**DATA RETENTION**  
+When you place an order through the Site, we will maintain your Order Information for our records.
+
+**CHANGES**  
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+**MINORS**  
+The Site is not intended for individuals under the age of 13.
+
+**CONTACT US  
+** For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [gdpr@indiemerchstore.com](mailto:%20gdpr@indiemerchstore.com) or by mail using the details provided below:
+
+Indie Merchandising LLC.   
+1835 E 30th St  
+Cleveland, OH 44114   
+[+1 (855) 210-1412](tel:+1%20\(855\) 210-1412)   
+[gdpr@indiemerchstore.com](mailto:%20gdpr@indiemerchstore.com)
