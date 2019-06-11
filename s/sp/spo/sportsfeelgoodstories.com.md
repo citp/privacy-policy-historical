@@ -1,77 +1,89 @@
-> *The following text is extracted and transformed from the sportsfeelgoodstories.com privacy policy that was archived on 2018-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180111080015id_/https%3A//www.sportsfeelgoodstories.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsfeelgoodstories.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611064518id_/https%3A//www.sportsfeelgoodstories.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sports Feel Good Stories
 
-The privacy of visitors to SportsFeelGoodStories.com is of great importance to us.
+**Effective as of May 25, 2018**
 
-This Privacy Policy governs the manner in which Michael & Gabriel, Inc. collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.SportsFeelGoodStories.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Michael & Gabriel, Inc..
+As the owner of this website (the “Site”),  **Michael & Gabriel, Inc. **(“we” or “us”) understand that your privacy is of critical importance.  This Privacy Policy describes what information we collect from you via the Site and how we use and disclose such information.
 
- **Personal identification information**
+###  **Our Use of Cookies**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
- **Log Files**
+We use cookies for the following purposes:
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as Comcast or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+(a) [authentication – we use cookies to identify you when you visit our website and as you navigate our website];
 
- **Non-personal identification information**
+(b) [status – we use cookies [to help us to determine if you are logged into our website];
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+(c) [personalization – we use cookies [to store information about your preferences and to personalize the website for you];
 
- **Web browser cookies**
+(d) [security – we use cookies [as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally];
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+(e) [advertising – we use cookies [to help us to display advertisements that will be relevant to you]; and
 
- **How we use collected information**
+(f) [analysis – we use cookies [to help us to analyze the use and performance of our website and services];
 
-Michael & Gabriel, Inc. may collect and use Users personal information for the following purposes:  
-• To improve our Site we may use feedback you provide to improve our products and services.  
-• To run a promotion, contest, survey or other Site feature to send Users information they agreed to receive about topics we think will be of interest to them.  
-• To send periodic emails we may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: <https://www.google.com/policies/privacy/>
 
- **How we protect your information**
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+(a) <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);
 
-Sensitive and private data exchange between the Site and its Users for Paypal purchases happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+(b) <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
 
- **Sharing your personal information**
+(c) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+(d) <https://support.apple.com/kb/PH21411> (Safari); and
 
- **Third party websites**
+(e) <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Please note that blocking cookies may have a negative impact on the functions of many websites, including our Site. Some features of the Site may cease to be available to you.
 
- **Advertising**
+###  **Interest-Based Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Advertising Privacy Statement
 
- **Google Adsense**
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners.You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
- **Cookies and Web Beacons**
+### For European Economic Area Residents
 
-We use third party advertisements on sportsfeelgoodstories.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and others. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+###  **Email Addresses**
 
- **Changes to this privacy policy**
+We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter, or enter a promotion. [We will use your email address for the purposes for which you provided it to us, and also from time to time to send you emails regarding the Site or other products or services that we believe may be of interest to you.  You may opt out of such email communications at any time by clicking the “unsubscribe” button in the email.]
 
-Michael & Gabriel, Inc. has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+[We will not share your email address with any third parties.]
 
- **Your acceptance of these terms**
+[If you are a resident of a country in the European Economic Area (EEA), we do not wish to receive your email address, and will delete it you have provided it inadvertently.]
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+###  **Registration or Account Data**
 
- **Contacting us**
+We may collect other information from you when you register with our Site in order to use various features.  Such information could include your name, birthday, postal code, screen name, and password (if applicable). As you use the Site, we could collect other data that you provide voluntarily (such as comments that you post).
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+[If you are a resident of a country in the European Economic Area (EEA), we do not allow you to register for the Site, and will delete your information if you have provided it inadvertently.]
 
-Michael & Gabriel, Inc.  
-www.SportsFeelGoodStories.com  
-4146 Barrow Court Eagan, MN 55123  
-editor(use at symbol)sportsfeelgoodstories.com
+###  **Transactional Data**
 
-This document was last updated on September 4, 2017.
+[We may process information relating to transactions, including purchases of goods and services, that you enter into with us and/or through our Site] (“ **Transactional Data** “). The Transactional Data may include your contact details, your card details and the transaction details. The transaction data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions.  [Payment processing on our Site is handled by our payment services providers,  _[identify PSPs]_. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers’ privacy policies and practices at  _[URLs]_ ]
+
+###  **Sale of Business or Assets**
+
+In the event that the Site or substantially all of its assets is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, the information we have collected about you may be one of the assets sold or merged in connection with that transaction.
+
+###  **Changes to the Privacy Policy**
+
+We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
+
+###  **Contacting Us**
+
+If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at  **[editor (use at symbol) sportsfeelgoodstories.com]**
+
+Or write to us at:
+
+ **Michael & Gabriel, Inc.  
+4146 Barrow Court  
+St. Paul, MN 55123**
