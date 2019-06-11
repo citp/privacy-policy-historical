@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavercup.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001203834id_/https%3A//lavercup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavercup.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612011111id_/https%3A//lavercup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Laver Cup
 
@@ -34,7 +34,7 @@ Email: [info@lavercup.com](mailto:info@lavercup.com)
 
 Telephone Number: (216) 292-8880
 
-Mailing Address: TRIDENT8 LIMITED 30650 Pinetree Road, Suite 1 Pepper Pike, Ohio 44124
+Mailing Address: TRIDENT8 LIMITED 71 Queen Victoria Street, London EC4V 4BE
 
 06/29/2016
 
