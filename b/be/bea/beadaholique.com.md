@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beadaholique.com privacy policy that was archived on 2017-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170117120714id_/https%3A//www.beadaholique.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beadaholique.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611094632id_/https%3A//www.beadaholique.com/policies) for the most accurate reproduction.*
 
 # Policies | Beadaholique
 
 ## Free U.S. Post Office Shipping In The USA on Orders $25 and Over
 
-Beadaholique.com has alwasy brought you low prices on beads and jewelry making supplies. We are now offering free shipping on all U.S. orders with merchandise totaling over $25. Simply choose "Free Economy Shipping" at checkout to get your Free Shipping!
+Beadaholique.com has always brought you low prices on beads and jewelry making supplies. We are now offering free shipping on all U.S. orders with merchandise totaling over $25. Simply choose "Free Economy Shipping" at checkout to get your Free Shipping!
 
 To qualify, orders must total $25.00 or over after all other discounts and coupons have been applied. All orders that total less than $25.00 will be charged low cost weight based shipping fees. 
 
@@ -16,7 +16,7 @@ All of our international shipping rates have been reduced, so everyone saves!
 
 ## Shipping Processing Times
 
-We ship packages out seven days a week, 8 AM to 5 PM. We are closed on Thanksgiving Day, Christmas Day and New Years Day. Free Standard shipping orders will be shipped within one to three business days after the order is placed. USPS Priority, USPS Express, UPS 3-Day Select, UPS 2nd Day Air and UPS Next Day air orders received before 11 am Pacific Time will be shipped same day; if received after 11 am, they will be shipped the following business day. 
+We ship packages out seven days a week, 8 AM to 5 PM. We are closed on Thanksgiving Day, Christmas Day and New Years Day. Free Standard shipping orders will be shipped within one to three business days after the order is placed. Orders with USPS Priority, USPS Express, or any FedEx or UPS service - _other than 'Ground'_ \- that are received before 11:00am Pacific will be shipped same day; if received after 11 am, they will be shipped the following business day. 
 
 Please note that during extremely high volume periods, such as the month prior to the winter holidays, we may take an extra day or two to ship orders, and the U.S. Post Office may take longer than usual to deliver packages, even via Priority. Accordingly, please allow extra time for delivery during these periods.
 
@@ -50,3 +50,7 @@ Unless otherwise stated for the particular sale, the following applies to all sa
   * Weekly sale codes expire end of day Monday at 12AM ET/9PM PT.
 
 
+
+## Safety Standards and California Proposition 65
+
+Per California state law, certain items sold in the state of California must have a Proposition 65 warning. For more information about safety standards and Prop 65, [click here](https://www.beadaholique.com/safety-and-prop-65).
