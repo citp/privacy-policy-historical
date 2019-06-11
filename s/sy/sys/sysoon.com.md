@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sysoon.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sysoon.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611102933id_/https%3A//www.sysoon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Center | Sysoon [en]
 
@@ -24,7 +24,8 @@ If you represent an organization, such as a business or school, that utilizes Sy
 
 You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. Many of our products require some personal data to provide you with a service. If you choose not to provide data necessary to provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use such data will not work for you.
 
-[More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn)
+  
+
 
 ## How We Use Personal Data
 
@@ -42,13 +43,12 @@ We also use the data to operate our business, which includes analyzing our perfo
 
 In carrying out these purposes, we combine data we collect from different contexts (for example, from your use of two Sysoon products) or obtain from third parties to give you a more seamless, consistent, and personalized experience, to make informed business decisions, and for other legitimate purposes.
 
-[More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn)
-
 ## Reasons We Share Personal Data
 
 We share your personal data with your consent or to complete any transaction or provide any product you have requested or authorized. We also share data with Sysoon-controlled affiliates and subsidiaries; with vendors working on our behalf; when required by law or to respond to legal process; to protect our customers; to protect lives; to maintain the security of our products; and to protect Sysoon’s and its customers’ rights and property.
 
-[More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn)
+  
+
 
 ## How to Access & Control Your Personal Data
 
@@ -60,8 +60,6 @@ Choose whether you wish to receive promotional emails, SMS messages, telephone c
 
 Access and clear your data through the Sysoon privacy dashboard.
 
-[More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn)
-
 ## Cookies & Similar Technologies
 
 Cookies are small text files placed on your device to store data that can be recalled by a web server in the domain that placed the cookie. We use cookies and similar technologies for storing and honoring your preferences and settings, enabling you to sign-in, providing interest-based advertising, combating fraud, analyzing how our products perform, and fulfilling other legitimate purposes. Sysoon apps use additional identifiers, such as the advertising ID in Windows described in the Windows section of this statement, for similar purposes.
@@ -70,7 +68,8 @@ We also use “web beacons” to help deliver cookies and gather usage and perfo
 
 You have a variety of tools to control the data collected by cookies, web beacons, and similar technologies. For example, you can use controls in your Internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies.
 
-[More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn)
+  
+
 
 ## Products Provided by Your Organization–Notice to End Users
 
@@ -82,7 +81,7 @@ access and process your data, including the contents of your communications and 
 
 If you lose access to your work or school account (in event of change of employment, for example), you may lose access to products and the content associated with those products, including those you acquired on your own behalf, if you used your work or school account to sign into such products.
 
-Many Sysoon products are intended for use by organizations, such as schools and businesses. Please see Enterprise & Developer Products. If your organization provides you access to Sysoon products your use of the Sysoon products is subject to your organization's policies, if any. You should direct your privacy inquiries, including any requests to exercise your data protection rights, to your organization’s administrator. When you use social features in Sysoon products, other users in your network may see some of your activity. To [More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn) about the social features and other functionality, please review documentation or help content specific to the Sysoon product. Sysoon is not responsible for the privacy or security practices of our customers, which may differ from those set forth in this privacy statement.
+Many Sysoon products are intended for use by organizations, such as schools and businesses. Please see Enterprise & Developer Products. If your organization provides you access to Sysoon products your use of the Sysoon products is subject to your organization's policies, if any. You should direct your privacy inquiries, including any requests to exercise your data protection rights, to your organization’s administrator. When you use social features in Sysoon products, other users in your network may see some of your activity. To Learn More about the social features and other functionality, please review documentation or help content specific to the Sysoon product. Sysoon is not responsible for the privacy or security practices of our customers, which may differ from those set forth in this privacy statement.
 
 Sysoon account
 
@@ -98,13 +97,15 @@ When you or your service provider (such as a cable or internet service provider)
 
 If you sign into a service offered by a third party with your Sysoon account, you will share with that third party the account data required by that service.
 
-[More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn)
+  
+
 
 ## Other Important Privacy Information
 
 Below you will find additional privacy information, such as how we secure your data, where we process your data, and how long we retain your data. You can find more information on Sysoon's commitment to protecting your privacy at https://privacy.Sysoon.com.
 
-[More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn)
+  
+
 
 ## Product-specific details:
 
@@ -124,7 +125,7 @@ Professional services referred to in the OST that are available with Enterprise 
 
 In the event of a conflict between this Sysoon privacy statement and the terms of any agreement(s) between a customer and Sysoon for Enterprise and Developer Products, the terms of those agreement(s) will control.
 
-You can also [More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn) about our Enterprise and Developer Products’ features and settings, including choices that impact your privacy or your end users’ privacy, in product documentation.
+You can also about our Enterprise and Developer Products’ features and settings, including choices that impact your privacy or your end users’ privacy, in product documentation.
 
 If any of the terms below are not defined in this Privacy Statement or the OST, they have the definitions below.
 
@@ -142,36 +143,36 @@ When a customer engages with Sysoon for professional services, we collect the na
 
 The Enterprise and Developer Products enable you to purchase, subscribe to or use other products and online services from Sysoon or third parties with different privacy practices, and those other products and online services are governed by their respective privacy statements and policies.
 
-[More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn)
+  
+
 
 ## Productivity and Communications Products
 
 Productivity and Communications products are applications, software and services you can use to create, store and share documents, as well as communicate with others.
 
-[More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn)
+  
+
 
 ## Search & Artificial Intelligence
 
 Search and Artificial Intelligence products connect you with information and intelligently sense, process and act on information—learning and adapting over time.
 
-[More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn)
+  
+
 
 ## SSNX
 
 SSNX is a personalized computing environment that enables you to seamlessly roam and access services, preferences and content across your computing devices from phones to tablets to the Surface Hub. Rather than residing as a static software program on your device, key components of Windows are cloud-based, and both cloud and local elements of Windows are updated regularly, providing you with the latest improvements and features. In order to provide this computing experience, we collect data about you, your device, and the way you use Windows. And because Windows is personal to you, we give you choices about the personal data we collect and how we use it. Note that if your Windows device is managed by your organization (such as your employer or school), your organization may use centralized management tools provided by Sysoon or others to control device settings, device policies, software updates, data collection by us or the organization, or other aspects of your device. For more information about data collection and privacy in Windows, go to https://www.sysoon.net. Legacy versions of SSNX (all versions) are subject to their own privacy statements.
 
-[More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn)
-
 Entertainment and Related Services
 
 Entertainment and Related Services power rich experiences and enable you to access a variety of content, applications and games.
 
-[More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn)
+  
+
 
 ## Sysoon Health Services
 
 Sysoon Health services can help you understand and manage your health data. They include HealthVault, HealthVault Insights, Sysoon Band devices, other Sysoon Health applications and related products. The Band helps you keep track of data like heart rate and steps taken. The Band can also use Cortana to take notes and receive notifications from your phone. The Sysoon Health applications send data to Sysoon's servers and allow you to view, manage and control the data. The applications may enable notifications to the Band and other devices. HealthVault services let you gather, edit, add to, and store health data online, and share your health data with family, caregivers, and health care professionals.
 
 Sysoon Health services collect and use your data to provide the services, which includes improving and personalizing your experiences. Health data you provide to Sysoon through Sysoon Health services is not combined with data from other Sysoon services, or used for other purposes without your explicit consent. For example, Sysoon does not use your health record data to market or advertise to you without your opt-in consent.
-
-[More](https://web.archive.org/web/20181214110915id_/https%3A//www.sysoon.com/Learn)
