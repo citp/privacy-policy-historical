@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prottapp.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223015354id_/https%3A//prottapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prottapp.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611083252id_/https%3A//prottapp.com/privacy) for the most accurate reproduction.*
 
 # Prott - Prototyping tool. Privacy Policy
 
@@ -72,8 +72,22 @@ The Company may amend the whole or part of this Privacy Policy. Any material ame
 The Company will endeavor to respond appropriately to your inquiries regarding the treatment of the personal information. To make any inquiries about the treatment of personal information by the Company, please contact the following:  
 Goodpatch Inc.  
 Attn: Personal Information Treatment Inquiry Office  
-3F Southgate Shibuya Building  
-3-3 Uguisu-cho, Shibuya-ku, Tokyo  
+VORT Shibuya south 2nd Floor,  
+3-3 Uguisudanicho, Shibuya-ku, Tokyo  
 Email:[ info@prottapp.com](mailto:info@prottapp.com)
 
-nexus 5iPhone 6MacBook Bordericon-billicon-communicationRectangle 54 + Rectangle 54contactdesign-processetuPage 1Oval 63 + Oval 63Group 11GroupGroupRectangle 107 + Rectangle 107 + Rectangle 107 + Oval 57 + Oval 57 + Path 192 Copy 16 + Oval 57 + Path 192 Copy 16Page 1Page 1GroupGroupRectangle 54 + Rectangle 54previewGroupicon-seminarGroupRectangle 107 + Rectangle 107 + Rectangle 107 + Oval 57 + Oval 57 + Path 192 Copy 16 + Oval 57 + Path 192 Copy 16Oval 63 + Oval 63icon-user-supportGroupadwaysanyperkbizreachcookpaddenaPage 1greeideoignismixirecruitunitedustwovoyagegroupyahoo!japanzappallasImported Layersimages/icon/logoanyperkbizreachcookpadimage/icon/DeNAFill 2ideorecruitrhizomatiksustwoyahoo!japanarrowarrowarrow
+#### Start your free 30-day trial now!
+
+The free trial includes unlimited access to all features of the Pro plan. No credit card information required. Free forever.
+
+#### Help us understand who you are
+
+After the trial period ends, your account will be automatically downgraded to the Free plan.
+
+Already have an account? [Sign in.](https://web.archive.org/users/sign_in?lang=en)
+
+After the trial period ends, your account will be automatically downgraded to the Free plan.
+
+Already have an account? [Sign in.](https://web.archive.org/users/sign_in?lang=en)
+
+nexus 5iPhone 6MacBook Bordericon-billicon-communicationRectangle 54 + Rectangle 54contactdesign-processetuPage 1Oval 63 + Oval 63Group 11GroupGroupRectangle 107 + Rectangle 107 + Rectangle 107 + Oval 57 + Oval 57 + Path 192 Copy 16 + Oval 57 + Path 192 Copy 16Page 1Page 1GroupGroupRectangle 54 + Rectangle 54previewGroupicon-seminarGroupRectangle 107 + Rectangle 107 + Rectangle 107 + Oval 57 + Oval 57 + Path 192 Copy 16 + Oval 57 + Path 192 Copy 16Oval 63 + Oval 63icon-user-supportGroupadwaysanyperkbizreachcookpaddenaPage 1greeideoignismixirecruitunitedustwovoyagegroupyahoo!japanzappallasimages/icon/logoanyperkbizreachcookpadimage/icon/DeNAFill 2ideorecruitrhizomatiksustwoyahoo!japanarrowarrowarrow
