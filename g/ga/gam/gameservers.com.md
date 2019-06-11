@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameservers.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225132857id_/http%3A//www.gameservers.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameservers.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611110446id_/https%3A//www.gameservers.com/legal/privacy) for the most accurate reproduction.*
 
 # GameServers : Privacy Policy
 
@@ -84,7 +84,7 @@ We also disclose information in the following circumstances:
 
 ##  VII. Transmittals from Us 
 
-We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e391868e8c9586a384828e8690869195869190cd808c8e) or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account. 
+We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f98b9c94968f9cb99e98949c8a9c8b8f9c8b8ad79a9694) or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account. 
 
 ##  VIII. Public Forums, Member Directories, and Internal Messaging: 
 
