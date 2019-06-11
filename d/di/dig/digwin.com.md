@@ -1,16 +1,57 @@
-> *The following text is extracted and transformed from the digwin.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006153931id_/http%3A//digwin.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digwin.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611114304id_/http%3A//www.digwin.com/privacy-policy) for the most accurate reproduction.*
 
-# digWin Privacy Policy: digWin
+# Privacy Policy – DigWin
 
-## digWin Privacy Policy
+This privacy policy sets out how “DigWin.com” uses and protects any information that you give “DigWin.com” when you use this website.  
+“DigWin.com” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
+“DigWin.com” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 3.11.17.
 
-At digWin, we respect the privacy of the users of our website and services and are committed to protecting it. This policy was created to demonstrate our commitment to you and to help you understand it. 
+**What we collect**  
+We may collect the following information:
 
-  1. While registering with digWin, we may collect personal information, including email addresses. The purpose of collecting such information is to help diagnose problems with our servers, track movement and/or activities within our website and, if required, deny service in accordance with our Terms of Service. We may also collect information related to the referring URL, access times and browser type. We will not share our users' personal information and usage information, except with their consent, with third parties. 
-  2. We use cookies to store and sometimes track information about our users so that we can offer and provide optimized and personalized services to them. A cookie is a small amount of data that is sent to a user's browser from a web server and is eventually stored on a user's computer hard drive. 
-  3. You may receive email communications from us to let you know our service updates. This includes notification when someone adds you as a friend, personal message from another digWin user, reply to a comment you posted etc. All the emails will contain a link to unsubscribe from similar email updates. Also, the email updates can be turned off in your profile. 
-  4. We will never automatically send you information/offers you do not want. 
-  5. digWin reserves the right to modify all or some of this Privacy Policy at any time without notice. If we change our Privacy Policy, we will post a notice on our website. 
-  6. If you have any questions about this Privacy Policy, the practices of this website or your dealings with this digWin, you can send an e-mail to [privacy@digWin.com](mailto:privacy@digWin.com)
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
+
+**What we do with the information we gather**  
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+  * We may use the information to customize the website according to your interests.
+  * We may provide your information to our third party partners for marketing or promotional purposes.
+  * We will never sell your information.
+
+
+
+**Security**  
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**  
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Links to other websites**  
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**  
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [email address]
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect.
