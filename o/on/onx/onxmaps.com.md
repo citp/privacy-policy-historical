@@ -1,326 +1,85 @@
-> *The following text is extracted and transformed from the onxmaps.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126094039id_/https%3A//www.onxmaps.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onxmaps.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611100646id_/https%3A//www.onxmaps.com/privacy-policy) for the most accurate reproduction.*
 
-# onXmaps Privacy Policy | Visualize Success
+# Privacy Policy | onX
 
-Privacy Policy—onXmaps
+Last revised: March 26 2018
 
-## Data Controller and Owner
+onXmaps, Inc. (“onXmaps”) understands your privacy is important. This Privacy Policy (“Policy”) describes how we collect, use, store, process and share your information in relation to your access and use of the Service (including the Site, Mobile Apps, Standalone Maps, and Products). By visiting, accessing or using the Service, you expressly consent to the collection, use, storage, transfer, processing and disclosure of your information, including personally identifiable information, as described in this Policy. IF YOU DO NOT AGREE WITH THIS POLICY, DO NOT ACCESS OR USE ANY PART OF THE SERVICE, REGISTER FOR AN ACCOUNT OR MAKE A PURCHASE. All capitalized terms not defined in this Policy have the respective meanings set forth in the Terms of Use. [https://www.onxmaps.com/tou](https://web.archive.org/tou)
 
-Last update: March 19th, 2015
+PLEASE BE AWARE THAT ONXMAPS AND ALL ASSOCIATED SERVICES AND SYSTEMS ARE HOUSED ON SERVERS IN THE UNITED STATES. IF YOU ARE LOCATED OUTSIDE OF THE UNITED STATES, INFORMATION WE COLLECT (INCLUDING COOKIES) ARE PROCESSED AND STORED IN THE UNITED STATES, WHICH MAY NOT OFFER THE SAME LEVEL OF PRIVACY PROTECTION AS THE COUNTRY WHERE YOU RESIDE OR ARE A CITIZEN. BY USING THE SERVICES AND PROVIDING INFORMATION TO US, YOU CONSENT TO THE TRANSFER TO AND PROCESSING OF THE INFORMATION IN THE UNITED STATES.
 
-This Application collects some Personal Data from its Users. This Privacy Policy describes how and when onXmaps collects, uses, and shares your information when you use our Services. onXmaps receives your information through our mobile applications, websites, email notifications, and other interactions with our Services used by the Data Controller. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. You should check this page from time to time to ensure that you are happy with any changes. 
+##### **1\. INFORMATION COLLECTION**
 
-## Types of Data collected
+(a) **General.** When you visit the Service, you can browse without submitting any personally identifiable information about yourself. We will, however, receive and store some non-personally identifiable information about you, as described below. In order to participate in certain functionalities, you may be asked to provide personally identifiable information. “Personally identifiable information” is information that would allow us to actually identify you, such as your name, postal address, email address, telephone number or any other information the Service collects that is defined as personal or personally identifiable information under applicable law. 
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are:
+(b) **Account; Login; Purchase.** If you create an account, you will be asked to provide and we may collect certain information, including, but not limited to, your email address and password selected by you. If you register for your account using social networking service credentials, we will collect your credentials in order to identify and log into the third party application or website and will retain your credentials to collect information from the social networking service. For example, if you sign in with your Facebook or Twitter account, we may collect information from your public profile. If you make a purchase, you will be asked to provide certain information, including, but not limited to, first and last name, email address, billing address, shipping address, phone number and credit card information. See “Payment Information; Third Party Payment Processor” below for more information on the handling of payments. 
 
-  * First Name
-  * Last Name
-  * Phone number
-  * Address
-  * Email
-  * ZIP/Postal code
-  * Cookie and Usage Data
-  * Demographic information (Gender & Age)
+(c) **Payment Information; Third Party Payment Processor.** We use a third party payment processor (currently Stripe) to assist in securely processing your personally identifiable payment information. The credit card information that you provide is encrypted and transmitted directly to Stripe. We do not store your credit card information and do not control and are not responsible for Stripe or its collection or use of your information. You may find out more about how Stripe stores and uses your credit card information by accessing [Stripe’s privacy policy](https://stripe.com/us/privacy). 
 
+(d) **Request Product and Other Information.** You may provide your email address and other contact information to us in order to request product information or other information related to onXmaps products and services even if you do not sign up for an account or make a purchase. 
 
+(e) **Communications.** In order to receive certain communications from us, you may be required to submit certain information to us, including, but not limited to, your name, email address, phone number and other contact information. 
 
-Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application. 
+(f) **Location Data.** Certain features available in the Service may allow or require us to obtain your location information, including GPS coordinates in real time or through browser geolocation APIs (“ **GPS Location** ”). Your GPS Location may allow us to locate you with a high degree of precision. We use this GPS Location information in order to provide the Service. [If the Service is unable to acquire your GPS Location, certain features of the Service may not be available to you.] We may also collect and use GPS Location information to offer you products or services, to protect, enhance or update the Service and as described in Section 2 below. 
 
-Any use of Cookies — or of other tracking tools — by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services. For the exhaustive list of cookies we collect see the List of cookies we collect section. 
+(g) **Automatically Collected Information.** Similar to other websites and services, we may collect some information automatically and store it in log files. We may use Google Analytics or other third party analytics providers to collect this information about the Service. This collection may include, but is not limited to: your IP address, browser type and language, device type, referring/exit pages and URLs, other browser history, platform type, number of clicks, landing pages, cookie information, the pages you requested and viewed, the amount of time spent on particular pages and the date and time of each request you make. We collect this non-identifying information in order to better understand our users, to more efficiently operate our business, to promote our products and services and to improve the quality of the Service. We may automatically collect information using various tracking technologies, such as cookies and web beacons. 
 
-The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility. 
+(h) **Cookies.** A cookie is a small text file that is stored on a computer or smartphone for record-keeping purposes. Our third party analytics providers use cookies to record information about your activities while using the Service and to “remember” you when you return to the Service. Some cookies remain on your computer or device until you delete them. Others, like session ID cookies, expire when you close your browser. You may set your browser or device setting to attempt to reject cookies and you may still use the Service, however, certain features of the Service may not be available if your browser or device does not accept cookies. See the section titled “Do Not Track Settings” below for more information on how the Service may respond to your browser or device settings. We do not control the use of cookies by third parties. See also “Third Party Analytics Providers” below. 
 
-## Mode and Place of processing the Data
+(i) **Web Beacons.** Web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) are tiny graphics with a unique identifier that are used to track the online movements of web or mobile app users. Unlike cookies, which are stored on a computer’s hard drive or your smartphone, web beacons are small graphics that are about the size of the period at the end of the sentence that are embedded invisibly on, for example, web pages or in HTML-based emails. Our third party analytics providers may place web beacons on the Site that track what other websites you visit (both before and after visiting the Site) or on the Application for gathering related Application statistics (for example, recording the popularity of certain Application content and verifying system and server integrity). Our third party analytics providers use information obtained from web beacons to help us improve our business and the Service. We do not control the use of web beacons by third parties. 
 
-### Method of processing
+(j) **Google Analytics**. Google Analytics uses cookies and web beacons in order to collect demographic and interest-level information and usage information from users that access and use the Service, including, but not limited, to information about the pages where users enter and exit the Service and what pages users view on the Service, time spent, browser, operating system, device information, and IP address. Cookies and web beacons allow Google to recognize a user when a user visits or accesses the Service. Google uses the information it collects from the Service and other websites or services to share with us and other website operators information about users including, but not limited to, age range, gender, geographic regions, general interests and details about devices used to visit websites and purchase items. We take reasonable measures to prevent linking information we receive from Google with any of your personally identifiable information. For more information regarding Google’s use of cookies and collection and use of information see the [Google Privacy Policy](https://www.google.com/policies/privacy/). To opt out of Google Analytics, please visit the [Google Analytics Opt-Out Page](https://tools.google.com/dlpage/gaoptout) to learn about opting out and installing the appropriate browser add-on. 
 
-The Data Controller processes the Data of Users in proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data. 
+(k) **Third Party Analytics Providers.** We use third parties to help us operate and improve the Service. In doing so, we may share with these third parties non-personally identifiable information about users’ use of the Service. These third party providers also use tracking technologies to collect information about you and your device. We do not control information collected by third parties and are not responsible for their use of that information. 
 
-The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time. For the exhaustive list of cookies we collect see the List of cookies we collect section. 
+(l) **“Do Not Track” Settings.** Because we track Service usage information through the use of cookies, web beacons and other tracking mechanisms, your selection of the “Do Not Track” option provided by your browser or smartphone may not have any effect on our collection of information via tracking technologies. The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser and smartphone to delete and disable cookies and other tracking/recording tools. However, getting a “Do Not Track” signal to work as you might want is difficult. Using browsers as an example, not all tracking technologies can be controlled by browsers; unique aspects of your browser might be recognizable even if you disable a tracking technology; not all settings will necessarily last or be effective; even if a setting is effective for one purpose, data still may be collected for another; and even if one website observes a “Do Not Track” signal, that website usually will not be able to control other websites. 
 
-### Place
+##### **2\. INFORMATION USE**
 
-The Data is processed at the Data Controller headquarters, unless stated otherwise in the rest of this document.
+(a) **General.** We will use your personally identifiable information to operate, manage, and administer your account and the Service; to fulfill your purchases; to provide you with support or a more personalized experience; to communicate with you; to monitor Service usage; to improve the Service or develop and test new products, services, websites or applications; and to provide you information about products and services (including the products and services of third parties). We may also use personally identifiable information to resolve disputes; to detect and protect against errors, fraud, and illegal activity; to assist law enforcement; to enforce this Policy and our [Terms of Use](https://web.archive.org/tou); or for any other purpose described in this Policy or described to you at the time of collection. 
 
-### Conservation Time
+(b) **Communications.** We may use your personally identifiable information to send you emails, notifications or other communications related to your use of the Service, your account, your purchases and to respond to your inquiries or requests. You may not opt out of Service-related emails which are not promotional in nature. We may also send you promotional emails to notify you about products or services that may be of interest to you. If you would like to stop receiving promotional messages from us or third parties, please click on the opt out link in any non-Service related email you receive. Even if you opt out, you will continue to receive Service-related communications from us. 
 
-The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request the Data Controller for their suspension or removal. 
+(c) **Use of Non-Personally Identifiable and Aggregate Information.** We may use non-personally identifiable information and aggregate information for any lawful purpose, including, but not limited to, analyzing trends, managing and administering the Service, tracking users’ movements, to create new products or services or to improve our business and the Service. We may also share aggregate information with third parties to develop and deliver targeted advertising and to analyze and report on the advertising you see. In addition, we may share aggregate statistical information with our business partners. We may also combine your non-personally identifiable information and aggregate information with other non-personally identifiable information and aggregate information collected from other sources. We will take reasonable steps to ensure that aggregate information is never associated with you or your personally identifiable information. 
 
-### The use of collected Data
+(d) **Information Retention.** We may retain your information indefinitely, or as long as legally required or allowed, for our business needs and in order to deter fraud or abuse of the Service. We may dispose of any information in our discretion without notice, subject to applicable law. We do not undertake any retention obligations through this statement. 
 
-The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes:
+##### **3\. INFORMATION DISCLOSURE**
 
-  * Access to third party services' accounts
-  * Contacting the User
-  * Analytics
-  * Managing email addresses and sending messages
-  * Marketing and Promotional Materials
+(a) **Affiliated Entities and Service Providers.** We may disclose your information, including personally identifiable information, to any affiliated entity or organization, business partner and to agents and service providers to help us operate the Service, improve our business or the Service and to provide services to us. These third parties may include customer service providers, business or sales service providers or providers that provide support for the Service. 
 
+(b) **Legal Requirements.** In some cases, we may disclose your information, including personally identifiable information: (i) as required by any applicable law, rule or regulation; (ii) if we believe disclosure is needed to protect our rights, property or safety; (iii) to government regulators or law enforcement authorities in connection with any judicial proceeding, court order, subpoena or legal process served on us or the Service; and (iv) to respond to a physical threat to you or another person. 
 
+(c) **Insolvency and Business Transitions.** If we should ever file for bankruptcy or engage in a business transition such as a merger with another company, or if we purchase, sell or reorganize all or part of our business or assets, we may disclose your information, including, but not limited to, personally identifiable information, to prospective or actual purchasers in connection with one of these transactions. 
 
-The Personal Data used for each purpose is outlined in the specific sections of this document.
+(d) **Disclaimer.** We cannot ensure that all of your personally identifiable information will never be disclosed in ways not otherwise described in this Policy. For example, a third party may unlawfully intercept or access transmissions or private communications, or other users of the Service may abuse or misuse your personally identifiable information. No transmission of data over the internet can be 100% secure. 
 
-## Contacting the User
+##### **4\. INFORMATION SECURITY MEASURES**
 
-### Contact form (This Application)
+We exercise care in facilitating the transmission of information between your device or computer and the third party servers that operate and store information for the Service. The personally identifiable information we collect is stored in operating environments that are not available to the public. Any payment transactions will be encrypted using SSL technology. While we have mechanisms in place to safeguard your personally identifiable information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
 
-By filling in the contact form with their Data, the Users authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header. 
+##### **5\. CHILDREN’S PRIVACY**
 
-Personal Data collected:
+(a) **The Service is not for or Directed Towards Children.** While the Service is not intended for anyone under the age of 18, we do not intend to and will not knowingly collect any personally identifiable information from children under the age of 13. Children under the age of 13 are prohibited from using the Service. If we learn that we have collected information from a child under the age of 13, we will remove that information immediately and delete it from our servers. If you believe information from a child under the age of 13 has been provided to the Service, please notify us at: [support@onxmaps.com](mailto:support@onxmaps.com)
 
-  * Address
-  * Email
-  * First Name
-  * Last Name
-  * Phone number
-  * Various types of Data
-  * ZIP/Postal code
+(b) **California Minors.** While the Service is not intended for anyone under the age of 18, if you are a California resident under age 18 and you believe your information has become publicly-available through the Service and you are unable to remove it, you may request removal by contacting us at: [support@onxmaps.com](mailto:support@onxmaps.com). When requesting removal, you must be specific about the information you want removed and provide us with specific information, so that we can find it.
 
+##### **6\. YOUR CALIFORNIA PRIVACY RIGHTS; CALIFORNIA SHINE THE LIGHT LAW**
 
+California Civil Code Section 1798.83 permits users who are California residents to obtain from us once a year, free of charge, a list of third parties to whom we have disclosed personally identifiable information (if any) for direct marketing purposes in the preceding calendar year. If you are a California resident and you wish to make such a request, please send an e-mail with “California Privacy Rights” in the subject line to [support@onxmaps.com](mailto:support@onxmaps.com) or write us at: 1925 Brooks St. Missoula, MT 59801
 
-## Access to third party services' accounts
+##### **7\. LINKED SITES**
 
-These services allow this Application to access Data from your account on a third party service and perform actions with it.These services are not activated automatically, but require explicit authorization by the User. 
+The Service or users of the Service may provide links to other websites or resources (“ **Linked Sites** ”). You acknowledge and agree that onXmaps does not endorse and is not responsible for any content, advertising, products, services or other materials on or available through Linked Sites. Linked Sites are subject to different terms of use and privacy policies, which you should review.
 
-### Detailed information on the processing of Personal Data
+##### **8\. CHANGES TO THIS POLICY**
 
-Personal Data is collected for the following purposes and using the following services:
+We reserve the right to change this Policy at any time upon notice to you. We may give notice by making the updated Policy available in the Service or by any other reasonable means. You can access and review the most current version of this Policy at any time at [onxmaps.com/privacy-policy](https://web.archive.org/privacy-policy). The updated Policy is binding on you as of the next date that you use the Service after the date of updated Policy. If you do not agree to the updated Policy, you must stop using the Service. Your continued use of the Service after the effective date posted at the top of this Policy will constitute your acceptance of the updated Policy.
 
-## Analytics
+##### **9\. ACCESSING OR UPDATING YOUR INFORMATION**
 
-The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+You may access or update your personally identifiable information by contacting us at: [support@onxmaps.com](mailto:support@onxmaps.com). We will make good faith efforts to resolve requests to correct inaccurate information except where the request is unreasonable, requires disproportionate technical effort or expense, jeopardizes the privacy of others, or would be impractical. If your account is terminated for any reason, your information will no longer be accessible through your account or associated with your account. However, activity that occurred prior to deletion may still continue to be stored on our systems or the systems of our service providers indefinitely. 
 
-### Google Analytics (Google)
+##### **10\. PRIVACY QUESTIONS**
 
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services. 
-
-Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
-
-Personal Data collected:
-
-  * Cookies
-  * Usage Data
-  * Demographics (age, gender)
-  * interests (affinity categories, other categories)
-
-
-
-Place of processing: USA — [ Privacy Policy](http://www.google.com/intl/en/policies/privacy/ "Click here to read the Google Analytics Privacy Policy") — [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en "Click here to Opt Out of Google Analytics tracking")
-
-## Social Media
-
-### Access to the Facebook account (This Application)
-
-This Application may ask some Facebook permissions allowing it to perform actions with the User's Facebook account and to retrieve information, including Personal Data, from it. For more information about the following permissions, refer to the Facebook permissions documentation and to the Facebook privacy policy. 
-
-This service allows this Application to connect with the User's account on the Facebook social network, provided by Facebook Inc.
-
-Permissions asked:
-
-  * About Me
-  * Activities
-  * Contact Email
-  * Current City
-  * Interests
-
-
-
-Place of processing: USA — [Privacy Policy](https://www.facebook.com/about/privacy/ "Click here to read the Facebook Privacy Policy")
-
-### Youtube video (Google)
-
-Youtube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
-
-Personal Data collected:
-
-  * Cookie and Usage Data
-
-
-
-Place of processing: USA — [Privacy Policy](http://www.google.it/intl/en/policies/privacy/ "Click here to read the Youtube Privacy Policy")
-
-### Access to the Twitter account (This Application)
-
-This service allows this Application to connect with the User's account on the Twitter social network, provided by Twitter Inc.
-
-Personal Data collected:
-
-  * Various types of data
-
-
-
-Place of processing: USA — [Privacy Policy](https://twitter.com/privacy "Click here to read the Twitter Privacy Policy")
-
-### Twitter Tweet button and social widgets (Twitter)
-
-The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter Inc.
-
-Personal Data collected:
-
-  * Cookie and Usage Data
-
-
-
-Place of processing: USA — [Privacy Policy](https://twitter.com/privacy "Click here to read the Twitter Privacy Policy")
-
-### Vine (This Application)
-
-The Vine services allows interaction with social networks by sharing short videos.
-
-Personal Data collected:
-
-  * Cookie and Usage Data
-
-
-
-Place of processing: USA — [Privacy Policy](https://vine.co/privacy "Click here to read the Vine Privacy Policy")
-
-### Vimeo Video (This Application)
-
-Vimeo is a video content visualization service provided by Vimeo, LLC. that allows this Application to incorporate content of this kind on its pages.
-
-Personal Data collected:
-
-  * Cookie and Usage Data
-
-
-
-Place of processing: USA — [Privacy Policy](http://vimeo.com/privacy "Click here to read the Vimeo Privacy Policy")
-
-## Email Services
-
-### Managing email addresses and sending messages
-
-These services make it possible to manage a database of email contacts to communicate with the User via email.
-
-The services are used to collect data concerning the date and time when the mail is viewed by the User, as well as when the User interacts with incoming mail, such as by clicking on links included in the email. 
-
-### Mailchimp (Mailchimp)
-
-Mailchimp is an email address management and message sending service provided by Mailchimp Inc.
-
-Personal Data collected
-
-  * Email address
-
-
-
-Place of processing: USA — [Privacy Policy](http://mailchimp.com/legal/privacy/ "Click here to read the Mailchimp Privacy Policy")
-
-## Payment Services
-
-### Stripe Inc.
-
-The Data Controller collects payments through Stripe, Inc., a third-party providing merchant processing services.
-
-Stripe may collect the following types of information:
-
-  * Payment card information
-  * email address
-  * mobile phone number
-  * billing and shipping address
-
-
-
-## Additional information about Data collection and processing
-
-### Legal Action
-
-The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services. 
-
-### Additional Information about User's Personal Data
-
-In addition to the information in this privacy policy, this Application may provide the User with contextual information concerning particular services or the collection and processing of Personal Data. 
-
-### System Logs and Maintenance
-
-For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address). 
-
-### Information not contained in this policy
-
-More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time at its contact information.
-
-### The rights of Users
-
-Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above. 
-
-This Application does not support "do not track" requests.
-
-To understand if any of the third party services it uses honor the "do not track" requests, please read their privacy policies.
-
-### Changes to this privacy policy
-
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request the Data Controller to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
-
-## Definitions and legal references
-
-### Personal Data (or Data)
-
-Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number. 
-
-### Usage Data
-
-Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment. 
-
-### User
-
-The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refer.
-
-### Data Subject
-
-The legal or natural person to whom the Personal Data refers to.
-
-### Data Processor
-
-The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy. 
-
-### Data Controller (or Application Owner, or Owner)
-
-The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application. 
-
-### This Application
-
-The hardware or software tool by which the User Personal Data is collected.
-
-### Cookie
-
-Small piece of data stored on the User's device
-
-### List of cookies we collect
-
-The table below lists the cookies we collect and what information they store:
-
-COOKIE Name | COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | Your session ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.  
-  
-## Legal Information
-
-Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies. 
-
-This privacy policy is solely about this Application.
+If you have any questions about this Policy, please contact us at: [support@onxmaps.com](mailto:support@onxmaps.com)
