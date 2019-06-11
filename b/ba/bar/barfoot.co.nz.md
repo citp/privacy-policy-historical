@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barfoot.co.nz privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223170356id_/http%3A//www.barfoot.co.nz/global/legal-documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barfoot.co.nz privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611131255id_/https%3A//www.barfoot.co.nz/global/legal-documents/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Barfoot & Thompson
 
@@ -29,9 +29,15 @@ You will be asked to provide us with information about yourself, your firm or co
 
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
 
-### Anonymous website use information
+### Email newsletters you sign up for
 
-We may use cookie and tracking technology depending on the features offered. Cookie and tracking technologies are used for gathering information such as browser type and operating system, tracking the number of visitors to the website, and understanding how visitors use the website. Cookies also help us to customise the website for visitors.  
+When you sign up to email newsletters we may track your interaction with the emails we send for the purposes of improving the content we deliver you. You can unsubscribe to email newsletters at any time.
+
+### Website use information
+
+Cookie and tracking technologies are used for gathering anonymous information such as browser type and operating system, tracking the number of visitors to the website, and understanding how visitors use the website. 
+
+We may use cookie and tracking technology depending on the features offered. Cookies also help us to customise the website for visitors.  
 We use Google Analytics features that associate anonymous data from the Google accounts of signed-in users who have consented to this association for the purposes of personalised advertising.
 
   * Third party vendors, including Google and Facebook, show our ads on sites on the internet
