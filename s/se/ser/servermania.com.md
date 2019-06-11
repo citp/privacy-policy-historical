@@ -1,55 +1,162 @@
-> *The following text is extracted and transformed from the servermania.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020072041id_/https%3A//www.servermania.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servermania.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611121315id_/https%3A//www.servermania.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy- ServerMania
 
-## SERVER MANIA PRIVACY POLICY
+## Welcome to the ServerMania Inc. Privacy Notice
 
-Server Mania Inc. (“Server Mania” or the “Company”) has a long-standing policy of protecting the privacy of its Subscribers.
+This Privacy Notice is designed to help you understand everything you need to know about the what, why and how’s of our data gathering and processing operations, and what your legal rights are.
 
-Server Mania believes that each Subscriber should know what information Server Mania collects from them, as well as how that information is used, disclosed, and protected. Server Mania has created this Policy statement to explain its privacy practices.
+We hope you’ll take some time to read this document; we’ve tried to keep it all as simple as possible and we will keep you informed if there are any changes to the way we process your personal data in the future, before making them.
 
-Server Mania will not sell or disclose the personal information of any Subscribers to unaffiliated third parties without consent except as otherwise provided in this Policy, its Terms of Service and its Acceptable Use Policy. Server Mania may use information about a Subscriber’s identity, where and when a Subscriber browses on the Web, where a Subscriber’s wireless device is located, and how a Subscriber uses its network in order for Server Mania to provide each Subscriber with better service and to enrich each Subscriber’s user experience when they sign up or use any of Server Mania’s Services.
+ServerMania Inc. takes its responsibility of protecting your data very seriously and we do advise you get to know our practices – If there’s anything in this policy you don’t understand or if you want to ask any questions, please feel free to contact us using any of the details below.
 
-Any terms not herein defined shall have the meaning ascribed to them in the Server Mania Terms of Service.
+##### Who are we?
 
-##### Coverage of this Policy
+We are ServerMania Inc., an Ontario Corporation registered in Ontario and Canada at 1040 S Service Rd, Suite 205, Stoney Creek, Ontario, L8E 6G3, Canada (Business Number 84561 0534 RC0001). In this document ServerMania Inc. will sometimes be referred to as “we”. 
 
-This privacy policy includes servermania.com and all subdomains within.
+Our representative in the EU for matters concerning data protection is EU GDPR Privacy Officers Ltd.   
+Our EU Representative can be contacted using any of the following details:   
+34 Mila Rodina Str.   
+Sofia   
+Bulgaria   
+@: info@privacy-officers.eu 
 
-##### Log Files
+##### What kind of personal data might we ask you to provide?
 
-Like many other websites, Server Mania makes use of log files (“Log Files”). The information inside the Log Files includes Internet protocol (IP) addresses, the type of browser, Internet Service Provider (“ISP”), a date/time stamp, referring/exit pages and number of clicks to analyze trends, administer the site, track a Subscriber’s movement around the website and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
+ServerMania Inc. will only ever ask for personal data if it is required for a specific purpose; with that in mind we have created a full list of all the kinds of personal data that we may ask you to provide in order to achieve those purposes. The kinds of personal data we may collect are: 
 
-##### Google Analytics
+Data subjects:
 
-All of the same information recorded in Log Files is also transmitted to Google Analytics. No personally identifying data is included in this type of reporting. Subscribers may [opt out of Google's advertising tracking cookie](http://www.google.com/policies/technologies/ads/) or [a browser plugin to opt out of all Google Analytics tracking software](https://tools.google.com/dlpage/gaoptout?hl=en) by clicking on the links provided.
+Data categories:
 
-##### Cookies and Web Beacons
+Job applicant
 
-Server Mania does use cookies to store information about Subscriber preferences, record Subscriber-specific information on which pages the Subscriber accesses or visits, customize webpage content based on a Subscriber’s browser type or other information that a Subscriber sends via their browser. If a Subscriber wishes to disable cookies, they may do so through their individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+Name, address, telephone, email, work and education history, 
 
-##### Advertising
+Customer / Client / End user 
 
-The Server Mania website uses cookies, tracking pixels and related technologies. Cookies are small data files that are stored on a Subscriber’s device. The Server Mania website uses cookies dropped by Server Mania or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may be used to track how a Subscriber uses the website to target ads to the Subscriber on other websites. Upon visiting Server Mania a Subscriber will receive a tracking cookie which specifies if the Subscriber is either a current client or only a visitor of the Server Mania website. This cookie is then used on Server Mania’s advertising network(s) to provide the Subscriber with ads relevant to them.
+Name, address, telephone, email, usernames, passport information, job title, IP address information, 
 
-##### Information Sharing
+Subscriber / Prospect
 
-Server Mania only shares personal information with other companies or individuals outside of Server Mania in the following limited circumstances:
+Name, telephone number, email, 
 
-**a.** If a Subscriber has provided their opt-in consent for Server Mania to share such sensitive personal information;
+Professional contact / Agent / Reference / Vender
 
-**b.** To subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on the Company’s behalf. Server Mania requires that these parties agree to process such information based on the Company’s instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures the Company deems necessary;
+Name, address, telephone, email, job title, 
 
-**c.** If Server Mania has a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues or (d) protect against harm to the rights, property or safety of Server Mania, its Subscribers or the public as required or permitted by law.
+Supplier
 
-If Server Mania becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, the Company will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
+Name, address, telephone, email, job title, 
 
-##### Information Security
+Contractor / Sub-Contractor
 
-Server Mania takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include appropriate encryption and physical security measures to guard against unauthorized access to systems where the Company stores personal data.
+Name, address, telephone, email, bank details, tax information, passport details, work experience, education history, criminal background checks, driver’s license information, national identification documents,
 
-Server Mania restricts access to a Subscriber’s personal information to only those Server Mania employees, contractors and agents who need to know that information in order to process it on the Company’s behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+##### Why do we collect personal data?
 
-##### Changes to this Privacy Policy
+We will use personal data firstly to fulfil any contractual obligations that exist between us and yourself; where we request personal data be provided to meet the terms of any such contract you will be required to provide the relevant personal data or we will not be able to deliver the goods and/or services you want. In such cases the lawful basis of us processing the personal data is that it is necessary for the performance of a contract. 
 
-Server Mania will revise and update this Policy as it deems appropriate, including, for example, if its practices change or if changes in the law so require. Subscribers should refer back to this page periodically for the latest information.
+We may also process your personal data in accordance with our legitimate business interests; this is on the considered measure that we need the personal data to achieve the various purposes and that it could be reasonable for an individual to expect their data to be used for those purposes. 
+
+Our data processing activities conducted on the lawful basis of ‘legitimate interests’ are:
+
+  * To provide you with goods and services you are looking for
+  * To inform you of other goods and services we provide, or offers that may interest you (direct marketing)
+  * To send notifications on subjects you have subscribed to, or otherwise asked us to keep you informed of
+  * To improve the quality of the services we offer, and to better understand our customers’ needs by requesting feedback, or requesting you review the services we have provided, or we may send survey forms that we ask you to complete
+  * To notify you of any changes to the goods and/or services we provide, or have provided, that may affect you
+  * To allow us to understand the scale and range of our customer base; for statistical analysis and market research
+  * To recognise when customers re-engage with our services
+  * To allow us to support and maintain our products in active service
+  * To provide reference information to third party organisations where you request us to do so
+  * Improve website so content is delivered more efficiently
+  * To enhance the security measures in place that protect data we are responsible for
+  * To investigate any insurance claims
+  * To protect the company’s assets
+
+
+
+We may also process your personal data in order for ServerMania Inc. to comply with our various legal obligations; this might include: 
+
+  * Providing for financial commitments between us and yourself, or to relevant financial authorities
+  * Complying with industry regulatory requirements and any self-regulatory schemes
+  * Carrying out required business operations and due diligence; e.g. administration, security, reorganisations, investment or corporate/asset sales
+  * Cooperating with relevant authorities for reporting criminal activity, or to detect and prevent fraud
+
+
+
+##### Where did we obtain your personal data?
+
+Other than collecting data directly from you;
+
+We may gather personal data from sources including:
+
+  * Technical sources that gather data over time when you visit our online platforms
+  * From third party organisations, which can mean your personal data has been provided directly by another company for a specific purpose, or where you may have accessed our platforms through a third party online service
+  * Local or national authorities provided for specific purposes
+
+
+
+If you would like more information about how ServerMania Inc. uses internet cookies please see our [cookies policy ](https://www.servermania.com/cookie-policy.htm)
+
+##### Who might we share your information with?
+
+In order to achieve the above stated purposes for which we process your personal data, we may need to share your personal data with various third-party service providers who act as data processors.
+
+We may share your personal data with third party organisations acting as data controllers or with specific individuals, groups or other organisations who act as neither data controllers nor data processors, but only where we are either legally required to do so by law or where doing so is necessary to achieve the intended stated purpose of processing the data. For example, a contracted accounting partner used to prepare corporate financial taxes.
+
+In the event that we sell or reorganise our business, or if otherwise required by law or by an authorised regulator, we may transfer your personal data as a part of the general business data to the relevant parties.
+
+Submitting a complaint outside of Canada can be achieved by accessing your relevant data protection authority. A list of all EU data protection authorities can be found here: <https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>
+
+##### Where is my data going to be stored?
+
+ServerMania Inc. as a part of its standard business practices may be required to transfer your personal data to countries outside the European Union (EU), or to organisations who intend to transfer the data outside the EU. Where such transfers of data take place, we shall ensure that at least one of the following control measures are in place: 
+
+The data transfer is necessary in order to fulfil a contract between the data controller and you, or to satisfy pre-contractual requirements that have been requested by you
+
+Contracts are in place between the parties involved that ensure the recipient organisation has a suitable standard of data protection in place
+
+##### How long will we keep your data for?
+
+We will keep your personal data only for as long as required in order to achieve the purposes for which it was gathered, in line with this privacy notice.
+
+For determining when personal data should be erased we shall take into consideration the amount of and sensitivity of the personal data we have, the amount of harm that could be caused by a data breach, the benefits of the purposes the data is being used for and any legal requirements that we are bound to.
+
+You may request that we erase your personal data an anytime, though in cases where there is a remaining relevant or legal reason why we are required to keep the data we may opt to restrict the amount of processing being conducted to what is absolute necessary in line with your legal rights in order to minimise the impact the processing will have.
+
+Where the lawful basis of our processing is based on protection of vital interests and insofar any relevant health and safety obligations apply, ServerMania Inc. will retain your personal data for 40 years. 
+
+##### Your Rights, Our Responsibility
+
+There are several rights granted to you immediately upon providing us with your personal information; some of these are mentioned above. We’d like you to know that at ServerMania Inc. we take your rights as a Natural Person seriously and will always conduct ourselves in a way that is considerate of our responsibility to serve your legal rights. 
+
+**You have the Right of Access**   
+This grants you the right to confirm whether or not your personal data is being processed, and to be provided with relevant details of what those processing operations are and what personal data of yours is being processed.   
+If you would like access to the personal data we have about you, we ask that you contact us by using any of the details below.
+
+**The Right to Rectification**   
+This one is fairly straight forward; if you notice that the data we have about you is inaccurate or incomplete, you may request we rectify the mistake. We will make every effort to respond to requests of this type immediately.
+
+**The Right to Objection**   
+The right to object is a basic freedom all democracies enjoy. If you wish to object to the way we use, or have used, your personal data you may do so freely.
+
+**The Right to Portability**   
+This is a legal right afforded to you that states we must pass on all of the details you have provided to us in a machine-readable format, either to your or to another provider of your choosing. 
+
+**The Right to Complain**   
+We will always try to maintain the highest standards and encourage the confidence our customers have in us as an organisation. In order that we can achieve this we do request that any complaints be first brought to our attention so we can properly investigate matters; if however you would like to complain about ServerMania Inc. to a supervisory authority you may do so by contacting the Office of the Privacy Commissioner on (819) 994-5444, or anyone of the other reporting methods listed on their website - <https://www.priv.gc.ca/>
+
+##### Our contact details
+
+If you wish to get in touch with ServerMania Inc. please do so with any of the following contact details of our Data Protection Officer:
+
+ServerMania Inc.   
+Attn: Data Protection Officer   
+1040 S Service Rd, Suite 205   
+Stoney Creek, Ontario   
+L8E 6G3   
+Canada   
+T: 1-888-521-8535   
+@: compliance@servermania.com
