@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nownovel.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624123525id_/https%3A//www.nownovel.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nownovel.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611201332id_/https%3A//www.nownovel.com/home/privacy) for the most accurate reproduction.*
 
 # Now Novel Privacy Policy | Now Novel
-
-Welcome to Now Novel’s Privacy and Cookies Policy
 
 Hi there, we’re Now Novel, 144 Long Street, Cape Town, South Africa (“Now Novel”) and welcome to our privacy policy. This policy sets out how we handle your personal information if you’re a Now Novel user or visitor to our site (nownovel.com).
 
