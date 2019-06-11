@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c-heads.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124174535id_/https%3A//www.c-heads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-heads.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611172102id_/https%3A//www.c-heads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - C-Heads Magazine
 
@@ -42,6 +42,12 @@ The IP address submitted by the user’s browser will not be merged with other d
 The personal data of users will be deleted or anonymized after 12 months.
 
 Here’s more information on Google Inc’s data usage: <https://support.google.com/analytics/answer/6004245?hl=en>
+
+### Use of Google Fonts
+
+We use Google Fonts of Google Inc. (1600 Amphitheater Parkway Mountain View, CA 94043, USA) on our website. The use of Google Fonts is done without authentication and no cookies and the Google Fonts API are sent. Your Google Account information transmitted during your use of Google Fonts. Google only records the use of CSS and the fonts used and stores this data securely. More about these and other questions can be found at <https://developers.google.com/fonts/faq?tid=231544625969>.
+
+What data Google collects and what data is read from [https://www.google.com/intl/en/policies/privacy/.](https://www.google.com/intl/en/policies/privacy/)
 
 ### Use of Facebook, Google+, Twitter and Instagram plugins
 
@@ -105,25 +111,25 @@ This website uses the Privacy Plugin from Lyte. The Youtube videos are cached wi
 
 Starting the video could trigger further data processing. We have no influence on that. For more information about privacy at YouTube, please see their privacy policy at: <http://www.youtube.com/t/privacy_at_youtube>
 
-###  SoundCloud
+### SoundCloud
 
 On our pages Soundcloud can be embedded – a service of social network SoundCloud (SoundCloud Limited, Berners House, 47-48 Berners Street, London W1T 3NF, United Kingdom.). When you visit our page, after activating the Play button, a direct connection is established between your browser and the SoundCloud server. SoundCloud receives the information that you have visited our site with your IP address. If you click the “Like” or “Share” button while logged into your SoundCloud account, you may link and / or share the contents of our pages with your SoundCloud profile. This allows SoundCloud to associate your account with our pages. We point out that we as the provider of the pages are not aware of the content of the transmitted data and their use by SoundCloud. For more information, see the SoundCloud Privacy Statement at <https://soundcloud.com/pages/privacy>
 
 If you do not want Soundcloud to associate the visit to our pages with your SoundCloud user account, please log out of your SoundCloud user account before enabling content from the SoundCloud plugin.
 
-###  Vimeo
+### Vimeo
 
 We use components of the supplier Vimeo on our site. Vimeo is a service of Vimeo LCC, 555 West 18th Street, NY, New York 10011, USA. Each time you visit our website, which has such a component, this component causes the browser you are using to download a corresponding representation of the component from Vimeo. When you visit our site and you are logged in to Vimeo, Vimeo recognizes, through the information gathered by the component, which specific site you are visiting and assigns this information to your personal account with Vimeo. Click e.g. If you click on the “Play” button or leave a comment, this information will be transmitted to your personal user account at Vimeo and stored there. In addition, the information that you have visited our site is passed on to Vimeo. This happens regardless of whether you click on the component / leave comments or not.
 
 If you wish to stop this transmission and storage of data about you and your behavior on our website through Vimeo, you must log out of Vimeo before you visit our site. The privacy notices of Vimeo provide more detailed information, in particular for the collection and use of data by Vimeo: <https://vimeo.com/privacy>
 
-###  Online presence in social media
+### Online presence in social media
 
 We use online presence within social networks and platforms (Facebook, Instagram, Tumblr and Twitter) in order to communicate with customers, fans and users and to inform them about our services and news. Buy using the respective networks and platforms, the terms and conditions and the data processing guidelines apply to their respective operators.
 
 We do not save or store any users’ data from the social networks as long as they communicate with us f.e.send us a message directly and we need for answering their request.
 
-###  Use of Bigcartel
+### Use of Bigcartel
 
 This website uses Bigcartel, an online store service of Big Cartel, LLC. Information about Bigcartel’s privacy policy can be found here: [help.bigcartel.com/privacy-policy](http://help.bigcartel.com/privacy-policy)
 
@@ -143,7 +149,7 @@ If, in the context of our processing, we disclose data to other persons and comp
 
 If we commission third parties to process data on the basis of a so-called “contract processing contract”, this is done on the basis of Art. 28 GDPR
 
-###  Server log files
+### Server log files
 
 The provider of the pages automatically collects and stores information in so-called server log files, which your browser automatically transmits to us. These are:
 
@@ -154,21 +160,21 @@ Host name of the accessing computer
 Time of the server request  
 These data can not be assigned to specific persons. A merge of this data with other data sources will not be done. We reserve the right to check this data retrospectively, if we become aware of specific indications for illegal use.
 
-###  Linking
+### Linking
 
 Liability for links
 
 Our site contains links to external websites of third parties on whose contents we have no influence. The respective provider or operator of the pages is always responsible for the contents of the linked pages. No guarantee is given for the contents and the correctness of the information of linked websites of foreign information providers.
 
-###  Handling contact information
+### Handling contact information
 
 If you contact us by e-mail, your data will be stored for 12 months to process the request and in the case of follow-up questions so that they can be used to process and respond to your request. We will never share this data with third parties without your consent.
 
-###  Handling of submitted pictures and data
+### Handling of submitted pictures and data
 
 If you send us a submission via e-mail, all sent data will be stored for 12 months to process the request and in case of follow-up questions. If the images have been published, the consent form (the mail) as well as other data sent and required (f.e. Model Agreement, for publication, Model Release) will be stored for the period of time the article / posting is online and available at www.c-heads.com to prove the approval of a publication. We will not share this data with third parties without your consent.
 
-###  Changes, corrections and Deletion
+### Changes, corrections and Deletion
 
 The user has the right, upon request, to receive free information about the personal data that has been stored about him. In addition, the user has the right of the correction of incorrect data, blocking and deletion of his personal data, as far as no legal duty of storage is contrary.
 
@@ -178,5 +184,3 @@ contact @ c-heads.com – Christine Guggenberger, Spitalmühlgasse 6
 2340 Mödling AUSTRIA
 
  _Thank you for visiting our site._
-
-We use cookies to ensure that we give you the best experience on our website. Cookies are small text file stored on your computer or mobile device when visiting our website. We also use also third party applications like facebook, youtube, soundcloud and vimeo. If you continue to use this site we will assume that you are happy with it. Ok[Read more about Our Privacy Policy](https://www.c-heads.com/privacy-policy/)
