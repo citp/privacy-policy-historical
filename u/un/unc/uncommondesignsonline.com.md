@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uncommondesignsonline.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126054143id_/http%3A//www.uncommondesignsonline.com/privacy-policy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncommondesignsonline.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611150423id_/http%3A//www.uncommondesignsonline.com/privacy-policy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policies - Uncommon Designs
 
