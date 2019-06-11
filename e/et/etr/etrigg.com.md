@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etrigg.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616074239id_/https%3A//etrigg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etrigg.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611164208id_/https%3A//etrigg.com/privacy) for the most accurate reproduction.*
 
 # privacy policy - etrigg.com
 
@@ -18,10 +18,10 @@ Like many websites, we use cookies and similar technologies to collect additiona
 
 ## Log Data
 
-Our servers automatically record information ("Log Data") created by your use of the services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive Log Data when you interact with our services, for example, when you visit our websites or sign into our services. etrigg.com uses Log Data to provide our services and to measure, customize, and improve them. If not already done earlier, we will either delete Log Data or remove any common account identifiers, such as your full IP or email address, after 90 days.
+Our servers automatically record information ("Log Data") created by your use of the services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive Log Data when you interact with our services, for example, when you visit our websites or sign into our services. etrigg.com uses Log Data to provide our services and to measure, customize, and improve them. If not already done earlier, we will either delete Log Data or remove any common account identifiers, such as your full IP or email address, after 180 days.
 
 ## Third-Parties
 
 etrigg.com uses a variety of third-party services to help provide our services, such as getting your geolocation information or hosting our twitter account. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address.
 
-foorilla LLC, May 2018
+foorilla LLC, June 2018
