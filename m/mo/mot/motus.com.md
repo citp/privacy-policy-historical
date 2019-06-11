@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motus.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614044253id_/https%3A//www.motus.com/legal/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motus.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612011129id_/https%3A//www.motus.com/legal/privacy_notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -6,7 +6,7 @@
 
 **MOTUS PRIVACY NOTICE**
 
-Effective: March 16, 2017
+Effective: August 7, 2018
 
 **INTRODUCTION**
 
@@ -38,6 +38,7 @@ Motus collects User information from Users and Clients in order to administer an
   * Information collected via cookies and web beacons (described below),
   * Miles driven
   * Simple web page actions
+  * If your employer has so requested and you have completed the consent web form, Motor Vehicle Records (“MVRs”). Note that when obtaining these records, Motus only collects MVRs, not credit checks, criminal reports, or personal interviews.
   * Any other information that Users or Clients choose to communicate to Motus (such as sending information to Motus via e-mail, app, or a Web form).
 
 
