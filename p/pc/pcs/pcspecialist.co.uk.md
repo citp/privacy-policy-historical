@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227172942id_/https%3A//www.pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611175443id_/http%3A//www.pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # PCSPECIALIST - Privacy Policy
 
@@ -14,7 +14,7 @@ By using the Services, you acknowledge that PCSpecialist will use your informati
 
 As part of providing our Services, we collect or receive your personal information in a few different ways. Often, you choose what information to provide, but sometimes we require certain information for you to use and for us to provide you the Services.
 
-If you choose to create an account on the Site, you need to provide us with a valid email address, first name and surname. You may review, change, or remove your first name and surname through your online account. If you would like your email address to be removed, you should contact us on enquiries@pcspecialist.co.uk and we will remove this by either deleting your account or by changing the email address on your account to a generic email address that does not contain any data personal to you.
+If you choose to create an account on the Site, you need to provide us with a valid email address, first name and surname. You may review, change, or remove your first name and surname through your online account. If you would like your email address to be removed, you should contact us on [email protected] and we will remove this by either deleting your account or by changing the email address on your account to a generic email address that does not contain any data personal to you.
 
 Depending on which services you choose to use, additional information, such as invoice, delivery and payment information (including but not limited to invoice address, delivery address, company name, telephone numbers and credit card information) may be necessary in order for us to provide a particular service. You are not required to provide us with this information to create an account, but we will need it to provide certain services. For example, we need a physical delivery address if you are buying something on the Site for delivery.
 
@@ -125,7 +125,7 @@ If we receive a lawful, verified request for customer records or information in 
 
 
 
-The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and after it is received. Your account information is protected by a password which is stored in a one-way encrypted format. It is important that you protect against unauthorised access to your account and information by choosing your password carefully and by keeping your password and computer secure, such as by signing out after using the Services. If you have any questions about the security of your personal information, you can contact us on enquiries@pcspecialist.co.uk.
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and after it is received. Your account information is protected by a password which is stored in a one-way encrypted format. It is important that you protect against unauthorised access to your account and information by choosing your password carefully and by keeping your password and computer secure, such as by signing out after using the Services. If you have any questions about the security of your personal information, you can contact us on [email protected]
 
 PCSpecialist follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and after it is received. Unfortunately, no method of transmission over the internet or method of electronic storage is 100% secure. Therefore, while we strive to protect your personal information, we can't guarantee its absolute security.
 
@@ -135,7 +135,7 @@ You may benefit from a number of rights in relation to your information that we 
 
 If we process your information based on our legitimate interests as explained above, or in the public interest, you can object to this processing in certain circumstances. In such cases, we will cease processing your information unless we have compelling legitimate grounds to continue processing or where it is needed for legal reasons. Where we use your data for direct marketing purposes, you can always object using the unsubscribe link in such communications.
 
-Where you have provided your consent, you have the right to withdraw your consent to our processing of your information and your use of the Services. For example, you can withdraw your consent to email marketing by using the unsubscribe link in such communications. You can choose to withdraw your consent to our processing of your information and your use of the Services at any time by contacting us on enquiries@pcspecialist.co.uk requesting that all associated data we have is deleted. This deletion is permanent and your account cannot be reinstated.
+Where you have provided your consent, you have the right to withdraw your consent to our processing of your information and your use of the Services. For example, you can withdraw your consent to email marketing by using the unsubscribe link in such communications. You can choose to withdraw your consent to our processing of your information and your use of the Services at any time by contacting us on [email protected] requesting that all associated data we have is deleted. This deletion is permanent and your account cannot be reinstated.
 
 We may amend or update this policy from time to time. If we believe that the changes are material, we’ll let you know by doing one (or more) of the following: (i) posting the changes on or through the Site, (ii) sending you an email or message about the changes. We encourage you to check back regularly and review any updates.
 
@@ -143,7 +143,7 @@ If you have any questions:
 
 Contact PCSpecialist on 0333 011 7000.
 
-Send an email to the PCSpecialist Data Protection Officer Nikki Harrison on dpo@pcspecialist.co.uk.
+Send an email to the PCSpecialist Data Protection Officer Nikki Harrison on [email protected]
 
 Write to us at the following addresses:
 
