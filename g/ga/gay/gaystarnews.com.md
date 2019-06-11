@@ -1,97 +1,320 @@
-> *The following text is extracted and transformed from the gaystarnews.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914232544id_/http%3A//www.gaystarnews.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaystarnews.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611130610id_/https%3A//www.gaystarnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gay Star News
+# Privacy Policy - Gay Star News
 
-How we use your information
+This Privacy Policy applies to Personal Data collected, used and stored by Gay Star News Ltd having its registered office at Gay Star News Ltd (GSN), 129 Mile End Road, London, E1 4BG, UK, a company registered in England and Wales. Registered number: 7719609. (Privacy Policy updated on 7 June 2019.)
 
-This privacy notice tells you what to expect when Gay Star News collects personal information. It applies to information we collect about:
+GSN takes your privacy very seriously. We do everything we can to communicate the information on our website accurately and in an easy to understand way. GSN endeavours to take appropriate technical and organisational measures in processing Personal Data in accordance with the Data Protection Act 1998 and the General Data Protection Regulation (GDPR) (EU) 2016/679.
 
-\- Visitors to our websites  
-\- Complainants and other individuals in relation to a data protection or freedom of information complaint or enquiry  
-\- People who use our services, eg who subscribe to our newsletter or join our Urgent Action Network  
-\- Job applicants and our current and former employees and freelancers
+This Privacy Policy explains the types of Personal Data we collect from and about you and how we use, disclose and protect that data as well as your ability to control certain uses of it.
 
-Visitors to our websites
+## Definitions and legal references
 
-When someone visits our sites we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting our websites. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
+### Personal Data (or Data / User Data)
 
-Use of cookies
+Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
+### Usage Data
 
-Some of the cookies we use are essential for parts of our sites to operate and have already been set. You may delete and block all cookies from our sites, but parts of the sites will not work.
+Information collected automatically from this Website (or third-party services employed in this Website), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Website, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Website) and the details about the path followed within the Website with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
 
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org").
+### User
 
-To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
+The individual using this Website, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refers.
 
-Search engine
+### Data Subject
 
-The search engine on our website is designed to be powerful and easy to use. The search is made possible by a piece of hardware (a search ‘appliance’) that is plugged into our server and continuously indexes the content on our site. All search requests are handled by the appliance and the information is not passed on to any third party.
+The legal or natural person to whom the Personal Data refers.
 
-People who make a complaint to us
+### Data Processor (or Data Supervisor)
 
-When we receive a complaint from a person we make up a file containing the details of the complaint. This normally contains the identity of the complainant and any other individuals involved in the complaint.
+The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
 
-We will only use the personal information we collect to process the complaint and to check on the level of service we provide. We may compile and publish statistics showing information like the number of complaints we receive, but not in a form which identifies anyone.
+### Data Controller (or Owner)
 
-We usually have to disclose the complainant’s identity to whoever the complaint is about. If a complainant doesn’t want information identifying him or her to be disclosed, we will try to respect that. However, it may not be possible to handle a complaint on an anonymous basis.
+The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Website. The Data Controller, unless otherwise specified, is the Owner of this Website.
 
-We will keep personal information contained in complaint files only for as long as is necessary. It will be retained in a secure environment and access to it will be restricted according to the ‘need to know’ principle.
+### This Website
 
-Similarly, where enquiries are submitted to us we will only use the information supplied to us to deal with the enquiry and any subsequent issues and to check on the level of service we provide.
+The hardware or software tool by which the Personal Data of the User is collected.
 
-People who use our services
+### Cookies
 
-Gay Star News offers various services. For example, we may send out publications and we distribute electronic newsletters. We may use a third party to deal with some serves, but they will only be allowed to use the information to provide the required service and will remain within the terms of this privacy policy.
+Small sets of data stored in the User's device.
 
-We have to hold the details of the people who have requested the service in order to provide it. However, we only use these details to provide the service the person has requested and for other closely related purposes. For example, we might use information about people who have requested a service to carry out a survey to find out if they are happy with the level of service they received. When people do subscribe to our services, they can cancel their subscription at any time and are given an easy way of doing this.
+## Owner and Data Controller
 
-Job applicants, current and former Gay Star News employees, freelancers and interns
+The Owner of this Website is GSN.
 
-When individuals apply to work or intern for us, we will only use the information they supply to us to process their application and to monitor recruitment statistics. Where we want to disclose information to a third party, for example where we want to take up a reference, we will not do so without informing them beforehand unless the disclosure is required by law.
+If you need to contact GSN in relation to the use of your Personal Data on our website the Data Controllers are listed below with their contact details.
 
-Personal information about unsuccessful candidates will be held for 12 months after the recruitment exercise has been completed, it will then be destroyed or deleted. We may retain de-personalised statistical information about applicants to help inform our recruitment activities, but no individuals will be identifiable from that data.
+  * David Young / davidy@gaystarnews.com
 
-Once a person has taken up employment or been engaged as a regular freelancer or intern, we will compile a file relating to their employment. The information contained in this will be kept secure and will only be used for purposes directly relevant to that person’s employment. Once their employment has ended, we will retain the file only for as long as is necessary and then delete it.
 
-Complaints or queries
 
-Gay Star News tries to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures.
+## What is personal data?
 
-This privacy notice was drafted with brevity and clarity in mind. It does not provide exhaustive detail of all aspects of our collection and use of personal information. However, we are happy to provide any additional information or explanation needed. Any requests for this should be sent to the address below.
+Personal data means any information relating to an identified or identifiable natural person. This includes, for example; your name, telephone number, address and e-mail address.
 
-Access to personal information
+## What Personal Data do we collect?
 
-Gay Star News tries to be as open as it can be in terms of giving people access to their personal information. Individuals can find out if we hold any personal information by making a ‘subject access request’ under the Data Protection Act 1998. If we do hold information about you we will:
+Among the types of Personal Data that this Website collects, by itself or through third parties, there are: Cookies, Usage Data and email address.
 
-\- Give you a description of it;  
-\- Tell you why we are holding it;  
-\- Tell you who it could be disclosed to; and  
-\- Let you have a copy of the information in an intelligible form.
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
 
-To make a request to Gay Star News for any personal information we may hold you need to put the request in writing to the postal address provided below.
+The Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Website.
 
-If you agree, we will try to deal with your request informally, for example by providing you with the specific information you need over the telephone.
+All Data requested by this Website is mandatory and failure to provide this Data may make it impossible for this Website to provide its services. In cases where this Website specifically states that some Data is not mandatory, Users are free not to communicate this Data without any consequences on the availability or the functioning of the service.
 
-If we do hold erroneous information about you, you can ask us to correct any mistakes.
+Users who are uncertain about which Personal Data is mandatory are welcome to contact the Data Controller.
 
-Disclosure of personal information
+Any use of Cookies – or of other tracking tools – by this Website or by the owners of third-party services used by this Website serves the purpose of providing the service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy.
 
-We will not disclose personal data without consent unless as otherwise stated or as required by law or to achieve a particular purpose which you could have been deemed to understand when you gave the information (eg for a competition prize provider to send the prize to a competition entrant).
+Users are responsible for any third-party Personal Data obtained, published or shared through this Website and confirm that they have the third party's consent to provide the Data to the Owner.
 
-Links to other websites
+Protect: In order to check login activity and potentially block fraudulent attempts, the following information is used: attempting user’s IP address, attempting user’s email address/username (i.e. according to the value they were attempting to use during the login process), and all IP-related HTTP headers attached to the attempting user.
 
-This privacy notice does not cover the links within this site linking to other websites. We encourage you to read the privacy statements on the other websites you visit.
+## How do we store and process User Data?
 
-Changes to this privacy notice
+### Methods of processing
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 2 August 2011.
+The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
 
-How to contact us
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
 
-You can contact us by writing to the address below.
+### Place
 
-Who we are
+The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
 
-Gay Star News Ltd is a company registered in England and Wales. Registered number 7719609. Registered office: Unit 2 Cedar Court, 1 Royal Oak Yard, London, SE1 3GA, UK.
+### Retention time
+
+The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
+
+### The use of the collected Data
+
+The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Analytics, Displaying content from external platforms, Tag Management and Managing contacts and sending messages.
+
+The Personal Data used for each purpose is outlined in the specific sections of this document.
+
+Detailed information on the processing of Personal Data
+
+Personal Data is collected for the following purposes and using the following services:
+
+### Analytics
+
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+
+Google Analytics (Google, Inc.)
+
+  * Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.
+  * Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
+
+
+
+Alexa (Alexa Internet, Inc. an amazon.com company)
+
+  * Alexa measures Internet activity in order to understand trends, help people discover new content, and help people make better online decisions. Alexa provides Toolbar Service users with information about Internet trends, website popularity, new and exciting topics, and related content.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: Germany – [Privacy Policy](https://www.alexa.com/help/privacy) – [Opt Out](https://support.alexa.com/hc/en-us/articles/200685410-Opting-Out-of-Alexa-Measurement-Pixel)
+
+
+
+### Displaying content from external platforms
+
+This type of service allows you to view content hosted on external platforms directly from the pages of this Website and interact with them.
+
+This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
+
+The Rubicon Project (Rubicon Project, Inc.)
+
+  * Rubicon is a programmatic advertising service.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: US – [Privacy Policy](https://rubiconproject.com/privacy/) – [Opt Out](https://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/)
+
+
+
+DoubleClick (Google, Inc.)
+
+  * DoubleClick is a programmatic advertising service.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/) \- [Opt Out](https://adssettings.google.com/)
+
+
+
+Instagram (Instagram, Inc.)
+
+  * Instagram is an image visualization service provided by Instagram, Inc. that allows this Website to incorporate content of this kind on its pages.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: US – [Privacy Policy](https://help.instagram.com/519522125107875?helpref=page_content)
+
+
+
+YouTube (Google, Inc.)
+
+  * YouTube is an video content visualization service provided by Google, Inc. that allows this Website to incorporate content of this kind on its pages.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: US – [Privacy Policy](https://policies.google.com/privacy/update?hl=en-GB&gl=uk)
+
+
+
+Vimeo (Vimeo, LLC)
+
+  * Vimeo is an video content visualization service provided by Vimeo, LLC that allows this Website to incorporate content of this kind on its pages.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: US – [Privacy Policy](https://vimeo.com/privacy)
+
+
+
+Tumblr (Tumblr, Inc.)
+
+  * Tumblr is an owner built content service provided by Tumblr, Inc. that allows this Website to incorporate content of this kind on its pages.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: US – [Privacy Policy](https://www.tumblr.com/privacy/en_eu)
+
+
+
+### Content commenting
+
+This type of service allows you to comment on content and share from this Website on social media.
+
+Facebook (Facebook, Inc.)
+
+  * Facebook Comments is content commenting service provided by Facebook, Inc. enabling the User to leave comment and share them on the Facebook platform.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/update)
+
+
+
+### Interaction with external social networks and platforms
+
+This application allows you to interact with the social widgets of social media platforms liked through this Website.
+
+GetSocial (GetSocial)
+
+  * GetSocial is a content performance analytics platform that helps marketers & publishers measure, promote and amplify their best content.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: Germany – [Privacy Policy](https://getsocial.io/privacy-policy)
+
+
+
+Facebook (Facebook, Inc.)
+
+  * The Facebook like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: US – [Privacy Policy](https://www.facebook.com/about/privacy/update)
+
+
+
+Twitter (Twitter, Inc.)
+
+  * The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: US – [Privacy Policy](https://twitter.com/en/privacy)
+
+
+
+### Gathering results for surveys, polls, votes and competitions
+
+This type of service lets you contribute to research undertaken by this Website for surveys, polls, votes and competitions.
+
+This service will not collect sensitive data about a User without them knowingly or explicitly consenting to provide it.
+
+SurveyMonkey (SurveyMonkey, Inc)
+
+  * SurveyMonkey is an online survey platform.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: US – [Privacy Policy](https://www.surveymonkey.com/mp/legal/privacy-policy/?ut_source=footer)
+
+
+
+### Online payment processing
+
+This type of service makes it possible for you to process monetary transactions with this Website.
+
+If you are a Customer, when you make payments or conduct transactions through a Stripe User’s website or application, they will receive your transaction information. Stripe may receive this information directly from you, or from the Stripe User or third parties. The information that is collected will include payment method information (such as credit or debit card number, or bank account information), purchase amount, date of purchase, and payment method. Different payment methods may require the collection of different categories of information. The payment method information that will be collected will depend upon the payment method that you choose to use from the list of available payment methods that are offered to you by the Stripe User.
+
+Stripe (Stripe, Inc.)
+
+  * Stripe is a payment processing service.
+  * Personal data collected:
+  * Both Sites use cookies and other technologies to function effectively. These technologies record information about your use of our Sites, including:
+  * Browser and device data, such as IP address, device type, operating system and Internet browser type, screen resolution, operating system name and version, device manufacturer and model, language, plug-ins, add-ons and the language version of the Sites you are visiting;
+  * Usage data, such as time spent on the Sites, pages visited, links clicked, language preferences, and the pages that led or referred you to our Sites.
+  * For all transactions data collected by both sites is: full legal name, email address, IP address, location (derived from IP address), Operating System, last 4 digits of your card number, and card expiry date.
+  * Place of processing: US – [Privacy Policy](https://stripe.com/gb/privacy)
+
+
+
+### Managing contacts and sending messages
+
+We may send you email notifications regarding specific requests made by you or service-related emails. You have the ability to opt out of any of this communication at any time using the link at the bottom of the newsletter email or alternatively please contact the Data Controller.
+
+This type of service makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.
+
+These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
+
+MailChimp (The Rocket Science Group, LLC.)
+
+  * MailChimp is an email address management and message sending service provided by The Rocket Science Group, LLC.
+  * Personal Data collected: email address.
+  * Place of processing: US – [Privacy Policy](https://www.surveymonkey.com/mp/legal/privacy-policy/?ut_source=footer)
+
+
+
+### Tag Management
+
+This type of service helps the Owner to manage the tags or scripts needed on this Website in a centralized fashion.
+
+This results in the Users' Data flowing through these services, potentially resulting in the retention of this Data.
+
+Google Tag Manager (Google LLC)
+
+  * Google Tag Manager is a tag management service provided by Google LLC.
+  * Personal Data collected: Cookies and Usage Data.
+  * Place of processing: US – [Privacy Policy](https://mailchimp.com/legal/privacy/)
+
+
+
+## Additional information about Data collection and processing
+
+### Legal action
+
+The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Website or the related services.
+
+The User declares to be aware that the Data Controller may be required to reveal personal data upon request of public authorities.
+
+### Additional information about User's Personal Data
+
+In addition to the information contained in this privacy policy, this Website may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request.
+
+### System logs and maintenance
+
+For operation and maintenance purposes, this Website and any third-party services may collect files that record interaction with this Website (System logs) or use for this purpose other Personal Data (such as IP Address).
+
+### Information not contained in this policy
+
+More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time. Please see the contact information at the beginning of this document.
+
+### The rights of Users
+
+You have the right not to be tracked on our Website. To learn more about activating the “Do Not Track” mode, please click [here](https://allaboutdnt.com/).
+
+If you have an account on this site, or have left comments through social media, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+### Security
+
+We take many precautions to prevent the loss, misuse or alteration of your personal information.
+
+Whilst we go to great length to ensure any confidential information remains protected we cannot guarantee the security of data sent over the Internet.
+
+You are responsible for keeping your user details confidential and at any moment we will request any passwords or access codes so please don’t trust them to anybody asking.
+
+### Changes to this privacy policy
+
+The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Website and can request that the Data Controller remove the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
+
+### Information about this privacy policy
+
+The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by iubenda and hosted on iubenda's servers.
