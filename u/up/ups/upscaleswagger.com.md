@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upscaleswagger.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508061624id_/http%3A//www.upscaleswagger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upscaleswagger.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611174341id_/https%3A//www.upscaleswagger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,5 +70,5 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.upscaleswagger.com/contact  
+https://www.upscaleswagger.com/contact  
   
