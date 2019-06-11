@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the renfair.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927120311id_/http%3A//renfair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renfair.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611040519id_/http%3A//renfair.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Renaissance Faire
+# Privacy Policy - Renaissance Faire
 
 ##### Renaissance Entertainment Productions; the producers of the Renaissance Pleasure Faire, the Bristol Renaissance Faire, the New York Renaissance Faire and the Forest of Fear respect your right to privacy. Here’s what you may expect by utilizing our website, signing up for our newsletters, and purchasing tickets online:
 
