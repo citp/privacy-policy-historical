@@ -1,19 +1,251 @@
-<!--The following is the downloaded HTML source of the indiemerchstore.com privacy policy that was archived on 2017-09-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170909045605id_/https%3A//www.indiemerchstore.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indiemerchstore.com privacy policy that was archived on 2019-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190611110345id_/https%3A//www.indiemerchstore.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><head>
-      <script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.6/webfont.js" type="text/javascript" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WPCBKQ"></script><script>dataLayer = [];</script>
+    <script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script type="text/javascript" async="" src="//static.klaviyo.com/forms/js/client.js"></script><script type="text/javascript" async="" src="https://a.klaviyo.com/media/js/analytics/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.6/webfont.js" type="text/javascript" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WPCBKQ"></script><script>window.dataLayer = window.dataLayer || [];</script>
+<script>
+    window.dataLayer.push({
+        'monopile_impressions':  []    });
+</script>
+<script>
+    window.dataLayer.push({
+        'monopile_promotions': []    });
+</script>
+<script>
+    window.dataLayer.push({
+        'monopile_product_views': []    });
+</script>
+<script>
+    window.dataLayer.push({
+        'monopile_searches': []    });
+</script>
+<script>
+    window.dataLayer.push({
+        'monopile_purchases': []    });
+</script>
+<script>
+    window.dataLayer.push({
+        'monopile_add_to_carts': []    });
+</script>
+<script>
+    window.dataLayer.push({
+        'monopile_begin_checkouts': []    });
+</script>
+<script>
+    window.dataLayer.push({
+        'monopile_review_carts': []    });
+</script>
+
+      <script>window.dataLayer = window.dataLayer || [];</script>
+<script>
+    window.dataLayer.forEach(function(o, index) {
+        if('monopile_impressions' in o && o.monopile_impressions.length > 0){
+            var formattedImpressions = [];
+            var currencyCode = 'USD';
+            o.monopile_impressions.forEach(function(object, i) {
+                formattedImpressions.push({
+                    'id': object.id,
+                    'name': object.name,
+                    'category': object.category,
+                    'list': object.list ? object.list : '',
+                    'position': object.list,
+                });
+                if(object.currencyCode && object.currencyCode.length > 0){
+                    currencyCode = object.currencyCode;
+                }
+            });
+            if(formattedImpressions.length > 0){
+                var maxProducts = 30;
+                while(formattedImpressions.length ){
+                    var spliced = formattedImpressions.splice(0,maxProducts);
+                    window.dataLayer.push({
+                        'event': 'eec.impressionView',
+                        'currencyCode': currencyCode,
+                        'ecommerce': {
+                            'impressions': spliced
+                        }
+                    });
+                }
+            }
+        }
+
+        if('monopile_product_views' in o && o.monopile_product_views.length > 0){
+            var formattedProducts = []; // right now using itemgroups, could explode into items for this
+            var list = '';
+            o.monopile_product_views.forEach(function(object, i) {
+                formattedProducts.push({
+                    'name': object.name,
+                    'id': object.id,
+                    'price': object.price,
+                    'brand': object.brand,
+                    'category': object.category,
+                    'variant': object.variant ? object.variant : ''
+                });
+                if(object.list && object.list.length > 0){
+                    list = object.list;
+                }
+            });
+            window.dataLayer.push({
+                'event': 'eec.detail',
+                'ecommerce': {
+                    'detail': {
+                        'actionField': {'list': list},
+                        'products': formattedProducts
+                    }
+                }
+            });
+        }
+        if('monopile_add_to_carts' in o && o.monopile_add_to_carts.length > 0){
+            o.monopile_add_to_carts.forEach(function(object, i) {
+                var formattedProducts = [];
+                var origin = object.origin ? object.origin : 'Unreported';
+                var totalQuantity = 0;
+                object.items.forEach(function(item, j){
+                    formattedProducts.push({
+                        'id': item.id,
+                        'variant': item.variant ? item.variant : '',
+                        'name': item.name,
+                        'brand': item.brand,
+                        'category': item.category,
+                        'price': item.price,
+                        'quantity': item.quantity
+                    });
+                    totalQuantity += item.quantity;
+                });
+                window.dataLayer.push({
+                    'event': 'eec.add',
+                    'ecommerce': {
+                        'currencyCode': object.currencyCode,
+                        'actionField' : {
+                            'list': origin
+                        },
+                        'add': {
+                            'products': formattedProducts
+                        }
+                    }
+                });
+                window.dataLayer.push({'totalAddToCartQuantity' : totalQuantity});
+            });
+        }
+        if('monopile_purchases' in o && o.monopile_purchases.length > 0){
+            o.monopile_purchases.forEach(function(object, i) {
+                var formattedProducts = [];
+                var currencyCode = 'USD';
+                object.items.forEach(function(item, j){
+                    formattedProducts.push({
+                        'id': item.id,
+                        'variant': item.variant ? item.variant : '',
+                        'name': item.name,
+                        'brand': item.brand,
+                        'category': item.category,
+                        'price': item.price,
+                        'quantity': item.quantity
+                    });
+                    if(item.currencyCode && item.currencyCode.length > 0){
+                        currencyCode = item.currencyCode;
+                    }
+                });
+
+                window.dataLayer.push({
+                    'event': 'eec.purchase',
+                    'ecommerce': {
+                        'purchase': {
+                            'actionField': {
+                                'id': object.transaction_id,
+                                'affiliation': object.affiliation,
+                                'revenue': object.value,
+                                'tax':object.tax,
+                                'shipping': object.shipping,
+                                'coupon': object.coupon ? object.coupon : ''
+                            },
+                            'products': formattedProducts
+                        }
+                    }
+                });
+            });
+        }
+        if('monopile_review_carts' in o && o.monopile_review_carts.length ){
+            o.monopile_review_carts.forEach(function(object, i) {
+                var formattedProducts = [];
+                var currencyCode = 'USD';
+                object.items.forEach(function(item, j){
+                    formattedProducts.push({
+                        'id': item.id,
+                        'variant': item.variant ? item.variant : '',
+                        'name': item.name,
+                        'brand': item.brand,
+                        'category': item.category,
+                        'price': item.price,
+                        'quantity': item.quantity
+                    });
+                    if(item.currencyCode && item.currencyCode.length > 0){
+                        currencyCode = item.currencyCode;
+                    }
+                });
+
+                window.dataLayer.push({
+                    'event': 'eec.checkout',
+                    'ecommerce': {
+                        'checkout': {
+                            'actionField': {
+                                'step': object.step ? object.step : 1
+                            },
+                            'products': formattedProducts
+                        }
+                    }
+                });
+            });
+        }
+
+        if('monopile_begin_checkouts' in o && o.monopile_begin_checkouts.length ){
+            o.monopile_begin_checkouts.forEach(function(object, i) {
+                var formattedProducts = [];
+                var currencyCode = 'USD';
+                object.items.forEach(function(item, j){
+                    formattedProducts.push({
+                        'id': item.id,
+                        'variant': item.variant ? item.variant : '',
+                        'name': item.name,
+                        'brand': item.brand,
+                        'category': item.category,
+                        'price': item.price,
+                        'quantity': item.quantity
+                    });
+                    if(item.currencyCode && item.currencyCode.length > 0){
+                        currencyCode = item.currencyCode;
+                    }
+                });
+
+                window.dataLayer.push({
+                    'event': 'eec.checkout',
+                    'ecommerce': {
+                        'checkout': {
+                            'actionField': {
+                                'step': object.step ? object.step : 2
+                            },
+                            'products': formattedProducts
+                        }
+                    }
+                });
+            });
+        }
+    });
+</script>
+
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WPCBKQ');</script>
-<!-- End Google Tag Manager -->    <title>Privacy Policy - IndieMerchstore</title>  <meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<!-- End Google Tag Manager -->  
+  
+  
+  <title>Privacy Policy - IndieMerchstore</title>  <meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="UTF-8">
-  <link href="https://s3.amazonaws.com/assets.monopile.com/webstores.monopile/1.3.17/css/superstore.min.css" rel="stylesheet">
+  <link href="https://s3.amazonaws.com/assets.monopile.com/webstores.monopile/1.3.19/css/superstore.min.css" rel="stylesheet">
   <!--link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.css" rel="stylesheet" type="text/css">
   <!--link href="/ws-ui/styles/css/boutique.css" rel="stylesheet" type="text/css"-->
@@ -35,12 +267,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             s.parentNode.insertBefore(wf, s);
         })();
     </script>
-    <script src="https://s3.amazonaws.com/assets.monopile.com/webstores.monopile/1.3.17/scripts/vendor/modernizr.min.js"></script>
-    <script src="https://s3.amazonaws.com/assets.monopile.com/webstores.monopile/1.3.17/scripts/vendor/picturefill.min.js" async=""></script>
+    <script src="https://s3.amazonaws.com/assets.monopile.com/webstores.monopile/1.3.19/scripts/vendor/modernizr.min.js"></script>
+    <script src="https://s3.amazonaws.com/assets.monopile.com/webstores.monopile/1.3.19/scripts/vendor/picturefill.min.js" async=""></script>
     <script type="text/javascript">
         var monopileApp = monopileApp || {};
         monopileApp.paths = monopileApp.paths || {};
-        monopileApp.paths.ui = 'https://s3.amazonaws.com/assets.monopile.com/webstores.monopile/1.3.17/';
+        monopileApp.paths.ui = 'https://s3.amazonaws.com/assets.monopile.com/webstores.monopile/1.3.19/';
         monopileApp.paths.api = '';
     </script>
   <!--[if lt IE 9]>
@@ -52,7 +284,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     .mp-productnav, .mp-footernav { border-top-color: #A3C043;background-color: #000000;}.mp-footernav-social a {color: #A3C043;}.mp-btn-cta {    color: #FFFFFF;    background-color: #A3C043;    border-color: #A3C043;}.mp-btn-cta:hover,.mp-btn-cta:focus,.mp-btn-cta.focus,.mp-btn-cta:active,.mp-btn-cta.active,.open > .mp-btn-cta.dropdown-toggle {    color: #FFFFFF;    background-color: #89a629;    border-color: #84a124;}.mp-btn-cta.disabled,.mp-btn-cta.disabled:hover,.mp-btn-cta.disabled:focus,.mp-btn-cta.disabled.focus,.mp-btn-cta.disabled:active,.mp-btn-cta.disabled.active,.mp-btn-cta[disabled],.mp-btn-cta[disabled]:hover,.mp-btn-cta[disabled]:focus,.mp-btn-cta[disabled].focus,.mp-btn-cta[disabled]:active,.mp-btn-cta[disabled].active,fieldset[disabled] .btn-default,fieldset[disabled] .btn-default:hover,fieldset[disabled] .btn-default:focus,fieldset[disabled] .btn-default.focus,fieldset[disabled] .btn-default:active,fieldset[disabled] .btn-default.active {    background-color: #A3C043;    border-color: #A3C043;}.mp-productoptions-option:hover, .mp-productoptions-option-selected {    border-color: #A3C043;    box-shadow: 0 0 0 1px #A3C043 inset;}.mp-btn-preorder {    color: #FFFFFF;    background-color: #3A9DE7;    border-color: #3A9DE7;}.mp-btn-preorder:hover,.mp-btn-preorder:focus,.mp-btn-preorder.focus,.mp-btn-preorder:active,.mp-btn-preorder.active,.open > .mp-btn-preorder.dropdown-toggle {    color: #FFFFFF;    background-color: #2083cd;    border-color: #1b7ec8;}.mp-btn-preorder.disabled,.mp-btn-preorder.disabled:hover,.mp-btn-preorder.disabled:focus,.mp-btn-preorder.disabled.focus,.mp-btn-preorder.disabled:active,.mp-btn-preorder.disabled.active,.mp-btn-preorder[disabled],.mp-btn-preorder[disabled]:hover,.mp-btn-preorder[disabled]:focus,.mp-btn-preorder[disabled].focus,.mp-btn-preorder[disabled]:active,.mp-btn-preorder[disabled].active,fieldset[disabled] .mp-btn-preorder,fieldset[disabled] .mp-btn-preorder:hover,fieldset[disabled] .mp-btn-preorder:focus,fieldset[disabled] .mp-btn-preorder.focus,fieldset[disabled] .mp-btn-preorder:active,fieldset[disabled] .mp-btn-preorder.active {    background-color: #3A9DE7;    border-color: #3A9DE7;}body {    background-color: #EEEEEE;}@media (min-width: 768px) {  body {background-color: #eeeeee;background-attachment: scroll;background-repeat: repeat;  }}  </style>
 
 
-  <script id="omapi-script" src="//a.optnmnstr.com/app/js/api.min.js"></script></head>
+  <style>
+.outlet-linkout {
+    background-color: #48afc0;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: Lato,"Lucida Grande","Lucida Sans Unicode",Helvetica,sans-serif;
+    padding: 6px;
+    color: #ffffff !important;
+    font-style: italic;
+    }
+</style>
+<meta name="google-site-verification" content="anf4oOq6bplC9JODm60MuXWLL3YsPP26pt3RPna5M9M"></head>
 <body class="mp-superstore">
       <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WPCBKQ"
@@ -88,6 +331,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                             <a target="_sn" href="http://instagram.com/IndieMerchstore"><i class="fa fa-instagram">&nbsp;</i></a>
                                                             <a target="_sn" href="https://www.youtube.com/indiemerch"><i class="fa fa-youtube">&nbsp;</i></a>
                                                             <a target="_sn" href="http://blog.indiemerch.com"><i class="fa fa-rss">&nbsp;</i></a>
+                                                                <a target="indieoutlet" href="https://outlet.indiemerch.com" class="outlet-linkout"><i class="fa fa-tag"></i> Outlet</a>
                                                 </div>
                     </div>
     </div>
@@ -151,88 +395,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="mp-general-container">
         <div id="privacyPolicy">
         <h1>Privacy Policy Statement</h1>
-        
-            <p>www.indiemerchstore.com is operated by Indie Merch.</p>
-
-            <p>We can be reached via email at orders@indiemerchstore.com or you
-            can reach us by telephone at
-            <span class="tel">1 (855) 210-1412</span>
-            </p>
-            <p>For each visitor to our Web page, our Web server automatically recognizes
-            the consumer's domain name.</p>
-
-            <p>We collect only the domain name of visitors to
-            our Web pages, the email addresses of those who communicate with us via
-            email, user-specific information on what pages consumers access or visit,
-            and information volunteered by the consumer, such as survey information and/or
-            site registrations.</p>
-
-            <p>The information we collect is used to improve the content of our Web pages and
-            to notify consumers about updates to our Web site, but is never shared
-            with other organizations for commercial purposes.</p>
-
-            <p>With respect to cookies: We use cookies to store visitors preferences,
-            record session information, such as items that consumers add to their
-            shopping cart, record user-specific information on what pages users access
-            or visit.</p>
-
-            <p>If you do not want to receive email from us in the future, please let us
-            know by sending us email at the above address.</p>
-
-            <p>If you supply us with your postal address online you will only receive the
-            information for which you provided us your address.</p>
-
-            <p>Persons who supply us with their telephone numbers online will only receive
-            telephone contact from us with information regarding orders they have placed
-            online.</p>
-
-            <p>With respect to Ad Servers: We do not partner with or have special
-            relationships with any ad server companies.</p>
-
-            <p>From time to time, we may use customer information for new, unanticipated
-            uses not previously disclosed in our privacy notice. If our information
-            practices change at some time in the future we will post the policy changes
-            to our Web site to notify you of these changes and provide you with the
-            ability to opt out of these new uses.</p>
-
-            <p>Upon request we provide site visitors with access to unique identifier
-            information (e.g., customer number or password) that we maintain about them,
-            transaction information (e.g., dates on which customers made purchases,
-            amounts and types of purchases) that we maintain about them, communications
-            that the consumer/visitor has directed to our site (e.g., emails, customer
-            inquiries), and contact information (e.g., name, address, phone number) that we
-            maintain about them.</p>
-
-            <p>Consumers can access this information by emailing us at the above address.</p>
-
-            <p>Upon request we offer visitors the ability to have inaccuracies corrected in
-            contact information.</p>
-
-            <p>Consumers can have this information corrected by sending us email at the
-            above address.</p>
-
-            <p>With respect to security: When we transfer and receive certain types of
-            sensitive information such as financial information, we redirect
-            visitors to a secure server.</p>
-
-            <p>If you feel that this site is not following its stated information policy,
-            you may contact us at the above addresses or phone number.</p>
-                </div>
+                    <p>This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from indiemerchstore.com (the “Site”).</p>
+<p><strong>PERSONAL INFORMATION WE COLLECT<br></strong></p>
+<p>We collect personal information in order to provide you with the best experience when visiting and ordering from the Site.</p>
+<p>When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.</p>
+<p>We collect Device Information using the following technologies: - “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit <a href="http://www.allaboutcookies.org">http://www.allaboutcookies.org</a>. - “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps. - “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Site.</p>
+<p>Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including the collections, but not storage of credit card numbers), email address, and phone number. We refer to this information as “Order Information”.</p>
+<p>When we refer to “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.</p>
+<p><strong>HOW DO WE USE YOUR PERSONAL INFORMATION?</strong><br>We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to: - Communicate with you; - Screen our orders for potential risk or fraud; and - When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.</p>
+<p>We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).</p>
+<p><strong>SHARING YOUR PERSONAL INFORMATION</strong><br> We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Monopile, LLC to power our online store – you can contact about Monopile here: <a href="https://www.monopile.com">https://www.monopile.com</a>/privacy. We also use Google Analytics to help us understand how our customers use the Site -- you can read more about how Google uses your Personal Information here: <a href="https://www.google.com/intl/en/policies/privacy/. ">https://www.google.com/intl/en/policies/privacy/. </a></p>
+<p>We never sell your Personal Information to third parties for marketing, advertising, or any other purpose.&nbsp;&nbsp;</p>
+<p><br>You can also opt-out of Google Analytics here: <a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.</p>
+<p>Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.</p>
+<p><strong>BEHAVIOURAL ADVERTISING</strong><br>As described above, we may use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <a href="http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work">http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work</a>.</p>
+<p>You can opt out of targeted advertising by using the links below:</p>
+<p>- Facebook: <a href="https://www.facebook.com/settings/?tab=ads ">https://www.facebook.com/settings/?tab=ads </a></p>
+<p>- Google: <a href="https://www.google.com/settings/ads/anonymous ">https://www.google.com/settings/ads/anonymous </a></p>
+<p>- Bing: <a href="https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads">https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads</a></p>
+<p>Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: <a href="http://optout.aboutads.info/">http://optout.aboutads.info/</a>.</p>
+<p><strong>YOUR RIGHTS</strong><br> If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.</p>
+<p>Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to the United States.</p>
+<p><strong>DATA RETENTION</strong><br>When you place an order through the Site, we will maintain your Order Information for our records.</p>
+<p><strong>CHANGES</strong><br>We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.</p>
+<p><strong>MINORS</strong><br> The Site is not intended for individuals under the age of 13.</p>
+<p><strong>CONTACT US<br></strong>For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at <a href="mailto:%20gdpr@indiemerchstore.com">gdpr@indiemerchstore.com</a> or by mail using the details provided below:</p>
+<p>Indie Merchandising LLC. <br>1835 E 30th St<br>Cleveland, OH 44114 <br><a href="tel:+1%20(855) 210-1412 ">+1 (855) 210-1412</a> <br><a href="mailto:%20gdpr@indiemerchstore.com">gdpr@indiemerchstore.com</a></p>                </div>
     </div>
     </div>
 </div>
   <div class="mp-footernav">
     <div class="container">
         <div class="mp-footernav-container">
-                    <form action="https://indiemerch.createsend.com/t/y/s/auihih/" class="mp-footernav-form form-inline" role="search" id="newsletterSubscribeForm">
-    <div class="form-group">
-        <label>Sign up for Email Updates</label>
-        <div class="input-group">
-            <input type="email" name="cm-auihih-auihih" id="newsletter_email" class="form-control input-sm" placeholder="Enter Your Email Address" size="30">
-            <span class="input-group-btn"><button type="submit" class="btn btn-primary btn-sm" id="newsletter_subscribe_button">Join</button></span>
-        </div>
-    </div>
-</form>
                     <div class="mp-footernav-social">
                                     <a target="_sn" href="https://www.facebook.com/IndieMerchstore"><i class="fa fa-facebook">&nbsp;</i></a>
                                                     <a target="_sn" href="https://twitter.com/IndieMerchstore"><i class="fa fa-twitter">&nbsp;</i></a>
@@ -295,28 +489,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-  <script src="https://s3.amazonaws.com/assets.monopile.com/webstores.monopile/1.3.17/scripts/superstore.min.js"></script>
+  <script src="https://s3.amazonaws.com/assets.monopile.com/webstores.monopile/1.3.19/scripts/superstore.min.js"></script>
   
-  
-  <script type="text/javascript">
-var _sf_async_config={uid:27823,domain:"indiemerchstore.com"};(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-       "js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
+              <script type="text/javascript">
+  var _learnq = _learnq || [];
 
+  _learnq.push(['account', 'Pxqrq2']);
+
+  (function () {
+  var b = document.createElement('script'); b.type = 'text/javascript'; b.async = true;
+  b.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'a.klaviyo.com/media/js/analytics/analytics.js';
+  var a = document.getElementsByTagName('script')[0]; a.parentNode.insertBefore(b, a);
+  })();
 </script>
-      <script> 
+                <script> 
 var $buoop = {vs:{i:8},c:2,text:"The browser you are using (<strong>%s</strong>) is out of date and not considered secure enough to place orders on this store. In order to checkout, you'll have to use a modern browser. <a%s>Learn more</a>."}; 
 function $buo_f(){ 
  var e = document.createElement("script"); 
@@ -326,6 +512,16 @@ function $buo_f(){
 try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
 catch(e){window.attachEvent("onload", $buo_f)}
 </script>
-<script>var om57fbfcc6bd7ce,om57fbfcc6bd7ce_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){om57fbfcc6bd7ce_poll(function(){if(window['om_loaded']){if(!om57fbfcc6bd7ce){om57fbfcc6bd7ce=new OptinMonsterApp();return om57fbfcc6bd7ce.init({"s":"22449.57fbfcc6bd7ce","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmnstr.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;om57fbfcc6bd7ce=new OptinMonsterApp();om57fbfcc6bd7ce.init({"s":"22449.57fbfcc6bd7ce","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1df2e9cc70","applicationID":"3232821","transactionName":"ZlMBMUZUWUJWURJcDl8ZIgZAXFhfGEUDVxJFWREAG0VYXV5RHxoRQ18VBFdM","queueTime":0,"applicationTime":247,"atts":"ShQCRw5OSkw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript"> 
+var __klKey = __klKey || 'Pxqrq2';
+(function() {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = '//static.klaviyo.com/forms/js/client.js';
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+})();
+</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1df2e9cc70","applicationID":"3232821","transactionName":"ZlMBMUZUWUJWURJcDl8ZIgZAXFhfGEUDVxJFWREAG0VYXV5RHxoRQ18VBFdM","queueTime":0,"applicationTime":316,"atts":"ShQCRw5OSkw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-<script src="//browser-update.org/update.min.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<script src="//browser-update.org/update.min.js"></script></body></html>
