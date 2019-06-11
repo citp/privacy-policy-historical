@@ -1,35 +1,163 @@
-> *The following text is extracted and transformed from the appappeal.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826000334id_/http%3A//www.appappeal.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appappeal.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611131107id_/https%3A//www.getapp.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy - About - AppAppeal
+# Privacy Policy | GetApp®
 
-Could not find a web page at the requested url: http://www.appappeal.com/1255036/AppAppeal_Right_Sidebar
+Please take time to read our Privacy Policy
 
-Nubera eBusiness S.L. ( **“Nubera eBusiness”** ,  **“we”**  or  **“us”** ), the company that manages the websites www.getapp.com, www.appstorm.net, www.appappeal.com, and www.cloudwork.com and its associated blogs (together, the  **“Sites”**  and each a  **“Site”** ) is committed to protecting the privacy of all the users of the Sites ( **“you”**  or  **“User”** ). The Sites are intended for use for professional purposes only. By using the Sites, and in particular by providing your personal or company information on registration, filling a contact form, or submitting a review, you explicitly accept this Privacy Policy and provide full consent to the collection, storage and processing of your personal data by Nubera eBusiness, and to the use and disclosure to certain third parties of your personal data, in accordance with the terms set out in this policy. Please note that any information you provide to other Site users or to third parties you may contact through the Sites will be collected and used by those parties according to their own terms and privacy policies. Nubera eBusiness cannot guarantee that these parties comply with the requirements set forth in data protection legislation. 
+This Privacy Policy covers the privacy practices of GetApp (Nubera EBusiness, S.L.), a Barcelona company, and our Affiliates ("GetApp" "we" or "us"), along with the Sites on which this Privacy Policy is posted (the "Sites"). This Policy does not apply to those of our Affiliates, which due to their different business models, have developed their own privacy policies: CEB, Iconoculture, L2 and Gartner.
 
-  1. **PERSONAL DATA COLLECTION** We do not require our Sites users to register or provide any personal data in order to search, browse or compare listed applications.We do collect and process personal data belonging to registered users and when submitting forms on the Sites for the following purposes: 
+ **What We Do:** We help millions of users to research and evaluate the right software solutions and services for their organizations. As part of our comprehensive directory of products and services, we provide verified user reviews, original research and personalized guidance. Users may also connect directly with software vendors that choose to participate in our lead generation programs.
 
-**(i) Application Providers:**  to enable providers to have their company and product and services information listed on our site, we collect: name, surname, professional email address, company name and address, company website, company contact's name, e-mail, telephone number and billing related information. In addition, we collect non-personally identifiable information about the vendor's company including annual revenue and number of employees and customers and multiple data points about their products. **(ii) Business and IT users:**  We collect the personal data belonging to the users registered by filling the forms if a user chooses to fill out a lead form or post a Review, or subscribe to a newsletter or fill out a Contact Us form, including name and surname, company name, professional email address, and phone number. We pass this information on to application providers when a user has allowed us to do so, specifically when a lead form is filled.
+ **Our Privacy Practices:** While using our Sites and Services, and as part of the normal course of business, we may collect personal information ("Information") about you. We want you to understand how we use the information we collect, and that you share with us, and how you may protect your privacy while using our Sites.
 
-During the registration process or the form filling process, the fields specified with an asterisk (*) must be filled in, as they are mandatory and strictly necessary to respond to the request. When all fields must be filled it will be stated at the beginning of the form and no asterisk will be displayed. The filling of the other fields is voluntary. If you refuse to submit to the mandatory personal data and information, you may not be able to benefit from Services and products available at the Sites. The User guarantees that the personal information provided is true, accurate and up to date in the manner that reflects the User’s current situation. The User hereby acknowledges that he/she is exclusively responsible for any inaccuracy, falsity, mistake or error in any submitted personal data and information and may be held liable for any damages whatsoever caused to Nubera eBusiness or third parties, by virtue of using Nubera eBusiness Services. Likewise, we ask User to please inform us of any change in its personal data so that the information contained in our files is up-to-date and error free at all times. Nubera eBusiness will also process other technical information relating to your use of the Sites, as indicated below, such as accessed web pages and Site areas and IP addresses. **It is forbidden to submit any personal data that is non-professional contact data or which contains sensitive data that is relative to identifiable persons such as:**
+ **Your Consent:** When you provide your Information to us, you consent to the collection, storage and use of your Information by us, our Affiliates and third parties in accordance with the terms set out in this Policy. "Affiliate" is any legal entity that controls, is controlled by or is under common control with Gartner (our parent company).
 
-**(i)** Non-professional contact data such as personal phone numbers or email or home addresses. **(ii)** User’s and or third party’s health, racial origin, membership in a trade union, religion, ideology and sexual life. **(iii)** User’s and or third party’s relative to the commission of criminal offences or proceedings and associated penalties or fines.
+ **Before submitting your Information to us, please read this Privacy Policy carefully. By accessing and using our Sites and Services, you are accepting the practices described herein.**
 
-  2. **PURPOSES IN DATA COLLECTION AND PROCESSING** The data we collect is processed for the professional purposes indicated in our Terms of Use, including without limitation management of the Sites and Users, matching Application providers with Users that are willing to learn about products and services, displaying relevant content on our Site, contacting Users and sending commercial communications, and such other specific purposes indicated or implicit in each part of the Site.
-  3. **USER CONSENT** By filling of forms and sending your personal data, you declare to have read and accepted the terms of this Policy. Without prejudice to the generality of the foregoing, you expressly and unequivocally consent to: 
+### This Privacy Policy Covers:
 
-**(i)** The collection and processing of your professional contact details by Nubera eBusiness in accordance with the indicated purposes established by Nubera eBusiness and this Policy. **(ii)** The processing of your data outside the European Economic Area by third party data processors or cloud-based software tools (e.g. for the purpose of providing professional services to us such as hosting or database management services, or customer relationship services or invoicing services…). **(iii)** The reception of commercial e-mails from Nubera eBusiness or its sites, in accordance with the applicable laws on Information Society Services and Electronic Commerce. **(iv)** The communication of the data to other site Users, including outside the European Economic Area (Application Providers or IT/Business users) at the request of the User.
-
-Your consent to personal data collection and processing may be revoked, without retroactive effects, in accordance with the Spanish Organic Data Protection Law.
-  4. **RIGHT OF ACCESS, RECTIFICATION, OPPOSITION, CANCELLATION AND CONSENT WITHDRAWAL** Users have the right to access, rectify, erase, block and oppose any processing of their personal data. Moreover, Users may at any time withdraw their consent to the processing of their personal data and information. This withdrawal will not have retroactive effects. The above is without prejudice to provisions of Spanish applicable law enabling conservation of data for the purpose of defending the responsibility of Nubera eBusiness and complying with mandatory legal obligations.The aforementioned rights may be effective by contacting us at legal@getapp.com or at the address set out in the section below under “Contact us”.
-  5. **DATA DISCLOSURE** Users authorize us to disclose their personal information to the companies chosen by Users when submitting a lead form.In relation to international disclosures, Users expressly accept that we may disclose or internationally transfer your data to other Users and third parties which are located outside the European Union. This international disclosure or transfer will only be performed for the sole purposes stated under these Terms and Conditions.
-  6. **USE OF USER DATA BY OTHER USERS** Any User of the Site who is provided with personal data of other Users ( **“Receiving User”** ) expressly agrees to: 
-
-**(i)  **Process and use the data in accordance with the terms set forth herein and only for the explicit purposes of the Site, or otherwise with the consent of the User. **(ii)** Not to transfer any personal data relating to any individual that has not been expressly authorized by that person or this Policy. **(iii)** Protect the confidentiality of any accessible personal data and avoiding access by any unauthorized third person. **(iv)** Inform Nubera eBusiness within 24 hours about any problem arisen in relation with user data management. **(v)** The Receiving User agrees to be responsible for any illegal use by them of the Site Users’ data. In regard to this clause, illegal use is to be construed to include any use contrary to the applicable data protection laws and/or in violation this Privacy Policy.
-
-  7. **COMMERCIAL COMMUNICATIONS** By filling in and sending your data to Nubera eBusiness during registration, you expressly consent to receive communications regarding the subject matter of the Site and other services. These commercial communications, including alerts, notices, newsletters, offers and promotions, will be always sent by Nubera eBusiness, or by Application Providers to whom you have requested your data to be sent in relation to a request, lead or Application.If you do not wish to receive information form this Web Site and expressly opt out by sending a notification to optout@getapp.com.
-  8. **COOKIES AND IPS** To enhance our understanding of your interaction with our Sites, we may use cookies and IP trackers. Nubera eBusiness has a cookies policy that can be consulted [here](https://web.archive.org/about/cookies).
-  9. **COLLECTION OF INFORMATION BY THIRD-PARTIES** Our Sites contain links to other web Sites whose information practices may be different than ours. We recommend visitors to consult the respective policies of these third parties for more information on their information practices. Nubera eBusiness’s privacy policy does not apply to, and we have no control over the activities or information that is submitted to, nor collected and processed by, these third parties.We may partner with identified third parties however we do not provide any personally identifiable information to these third parties without your consent.
+  * What information we collect from you and why we collect it.
+  * Cookies and other web technologies.
+  * Third-party use of cookies and other tracking technologies.
+  * How we use your Information.
+  * With whom we share your Information.
+  * How you may access your Information.
+  * Your choices with respect to the collection and use of your Information.
+  * How we safeguard your Information.
+  * Children's privacy.
+  * Visiting our Sites from outside the United States.
+  * Your California privacy rights.
+  * Changes to this Privacy Notice.
+  * How you may contact us.
 
 
 
 * * *
+
+### What information we collect from you and why we collect it
+
+ **Types of Information:** To enable visitors to take advantage of our services, we collect certain types of Information from both software vendors and software buyers, such as during registration or when submitting a review. This Information may include your first and last name, job title, telephone number, postal/email addresses, billing information and social media profile information (including photo). We receive, store and share this Information with our Sites and Affiliates across the Gartner organization.
+
+ **Legitimate Purpose:** We collect this Information to support our legitimate interests in conducting our business: (i) to operate our programs; (ii) to fulfill your requests; (iii) to administer services on behalf of our software vendors under contract with us; and (iv) to respond to your questions, concerns, or customer service inquiries. We retain this Information only for as long as is necessary for the purpose(s) for which it was collected.
+
+ **Reviews & Content:** If you post reviews or participate in discussion forums or other social areas of our Sites, your participation (including the content you post, your name, and a link to your profile) may be shared with our Sites and Affiliates across the Gartner organization.
+
+ **Social Media:** If you connect to our Sites through third party social media Sites like LinkedIn, we will receive Information from your social media account as further described below. You may choose not to provide Information to us, but some Information about you is required in order for you to enjoy the full benefits of being a registered user of our Sites.
+
+If you log on to our Sites through your social media account, we will receive, where possible:
+
+  1. Your profile Information and will automatically populate your profile on our Sites with your name, job title, company name, profile photo, industry and company size (Note: you may request that this Information not be shown publicly on our Sites).
+  2. Access to your connections /network to show you reviews written by your connections (Note: we will not access your connections' contact information or send messages to your connections).
+
+
+
+ **Third Parties:** We may also obtain Information about you from our Affiliates, business partners and independent third-parties. For example, if you visit our Sites by "clicking-through" from a site operated by one of our business partners, and you have registered with that partner, then Information you provided to that partner may be shared with us to improve and personalize your use of our Sites.
+
+ **Cookies:** We automatically collect some information about your computer activity when you visit our Sites to help us customize your user experience. We will collect session data, including the time at which you visited our Sites, your IP address, web browser software, referring website and information collected through cookies, web beacons and other tracking technologies. We will also collect information about your online activity, such as content viewed, pages visited and keywords searched.
+
+The technologies we use for this automatic information collection may include:
+
+  *  **Cookies.** Cookies are small files placed on the hard drive of your computer. Unless you have adjusted your browser setting to refuse cookies, our system will issue cookies when you direct your browser to our Sites.
+  *  **Flash Cookies.** Flash Cookies are local stored objects used by certain features of our Sites to collect and store information about your preferences and navigation to, from and on our Sites. Flash cookies are not managed by the same browser settings as used for browser cookies.
+  *  **Web Beacons.** Web Beacons are small electronic files (clear gifs. pixel tags and single-pixel gifs), which may be used by parts of our Sites to track the number of users who have visited those pages and other related website statistics (e.g., verification of system and server integrity).
+
+
+
+We use these Web Technologies for the following general purposes:
+
+  * To help us recognize your browser as a previous visitor and save/remember any preferences you may have set while visiting our Sites. (e.g., we may use cookies to remember your registration information so you need not log into our Sites each time you visit.)
+  * To help us customize your user experience on our Sites and on other websites across the Internet. (e.g., when you access a web page on our Sites, a cookie is automatically set by us, our service providers or our partners to recognize your browser as you navigate the Internet and to present you with information we believe may be of interest.
+  * To help measure and research the effectiveness of Site features and offerings and advertisements (e.g., we work with third-party service providers to collect data about your use of the Sites for purposes of conversion tracking and serving ads targeted to your interests as you visit other websites across the Internet).
+
+
+
+You may opt out of any of the above-referenced uses through the _Do Not Track_ functionality in your web browser. Some browsers offer similar settings for HTML5 local storage, and Flash storage can be managed [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html). Please note, however, that if you refuse to accept cookies, you may not be able to accesssome of the benefits offered on our Sites. 
+
+### Third-party use of cookies and other tracking technologies
+
+Some content or applications, including ads on our Sites, are provided by third parties, such as advertisers and content providers. These third parties may use cookies in conjunction with other tracking technologies to collect Information about you and your activity when you use our Sites in order to provide you with interest-based (behavioral) advertising or other targeted content. To learn more about interest-based advertising generally, including how to opt out from the targeting of interest-based ads by some of our current ad service partners, [click here](http://optout.aboutads.info/#!/). For controls specific to advertising and analytics services offered by Google, [click here](https://adssettings.google.com/authenticated?hl=en#display_optout) and [here](https://adssettings.google.com/authenticated?hl=en).
+
+### How We Use Your Information to Support Our Business
+
+We use the Information you share and we collect about you primarily for the legitimate interest of administering our business; (i) for registration and to manage your profiles and listings, including to facilitate your access to and use of our Sites; (ii) to enable us to publish your reviews and other submitted content; (iii) to respond to your questions and requests and otherwise customize your digital markets experience; (iv) to measure interest in and improve our products and services; (v) to notify you about special offers available from us, our Affiliates or Partners, which may be of interest to you; (vi) to resolve disputes and troubleshoot problems; (vii) to prevent prohibited or illegal activities and disclose to legal or government authorities upon lawful request; (viii) to enforce our policies; and as otherwise described to you at the point of collection.
+
+### With Whom We Share Your Information
+
+We may, in administering our Sites and Services to provide you the best possible online experience, share your Information with our Affiliates and with the following entities:
+
+  *  **Third-party vendors** who help us administer our Sites and Services may access and collect Information only as needed to perform their functions and are not permitted to share or use the Information for any other purpose (e.g., marketing, customer service, business analytics, payment processing).
+  *  **Software Vendors.** As part of our lead generation program, software buyers consent to allow us to share their Information with software vendors participating in the program who meet their business needs.
+  *  **Social Media Services.** If you opt to access social media websites and services through our Sites (such as LinkedIn), you are sharing your Information with those sites under their privacy policies.
+  *  **Legal Process.** We will share your Information in response to court orders and legal process; to defend against legal claims; or as otherwise required by law; when we believe it is necessary to investigate and prevent or protect and defend our rights, property, or safety as well as those of our customers; or in connection with a corporate transaction, such as a divestiture, investment, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+
+
+
+We will notify you before we share your Information with third parties for reasons other than those listed above, and you will have an opportunity to opt out of such sharing. We also may share aggregate or anonymous information about you (which does not contain any personal information) to develop content andservices and further improve your digital markets experience.
+
+### How You May Access Your Information
+
+We ensure that the Information we collect about you is accurate, complete and used for its intended purpose. You may access, review, correct and update your Information or close your account by sending an email to use per the notice section at the end of this Privacy Policy.
+
+While we generally retain Information for so long as it may be relevant to the purpose for which it was collected or submitted, we also may retain certain Information associated with your account in our archives for analytical, archival and business continuity purposes.
+
+Individuals in the European Union and some other jurisdictions outside the United States, in addition to the rights above, have certain legal rights (i) to obtain confirmation of whether we hold Information about them, (ii) to access the Information we hold about them (including, in some cases, in portable form), and (iii) to correct, update, amend or delete in appropriate circumstances such Information. These data subjects may also object to our uses or disclosures of their Information or exercise legal rights to withdraw their consent, though such actions typically will not have retroactive effect. They may also have the right to lodge a complaint with the relevant EU data protection supervisory authority. However, we encourage you to contact us first, and we will do our very best to resolve your concern.
+
+To exercise these rights, please contact us via the contact information at end of this Privacy Notice.
+
+### Your Choices With Respect to the Collection and Use of Your Information
+
+You have choices with regard to how your Information is collected and used.
+
+  *  **Informed Consent.** We will always inform you at the point of collection as to how your Information will be used so that you can make an informed decision. You may choose not to provide us with any Information about yourself and your preferences, although it may be needed to customize and get the most value from your digital markets experience.
+  *  **Unsubscribe.** While data privacy laws permit us to send you communications related to administration of your services without including an unsubscribe option (e.g., service announcements and messages relating to your account), we will, where legally required, provide both registered and unregistered users with an option to unsubscribe from our non-administrative emails, such as our promotional and marketing communications.
+  *  **Access and Review.** As described above, you may access, review, correct, update and delete the Information we hold about you as described above.
+  *  **Set Preferences.** Also as described above, you may set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of the Sites may be inaccessible or not function properly.
+
+
+
+### How We Safeguard Your Information
+
+We are committed to safeguarding the Information you share with us. While we, like any website provider, cannot guarantee your security on the internet, we have, in accordance with applicable law, implemented appropriate administrative, technical and physical security controls to help prevent unauthorized access, maintain data security and ensure proper and effective use of the data we collect.
+
+In addition, only authorized employees are permitted to access Information, and only for permitted business functions. And we use encryption when transmitting your Information between your system and ours, and we, together with our Partners and third party providers, employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your Information.
+
+In the end, you are responsible for activity on our Sites conducted with your credentials and for maintaining the secrecy of credentials that may be used to access your Account or Service; and you must immediately report to us, per the contact information at the end of this Policy, any suspected unauthorized activity.
+
+### Children's Privacy
+
+Our Sites are intended for general business audiences and not for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we learn that we have collected or received Information from a child under 13 without parental consent, we will delete or destroy such Information as soon as reasonably possible. If you believe we have collected Information from a child under 13, please contact us via the contact information at the end of this Privacy Policy.
+
+### Site Visitors From Outside the US
+
+If you are visiting our Sites from outside the United States, you understand and agree that your Information may be transferred to, stored and used in the US where our servers are located and our central database is operated. While US data protection laws may not be as comprehensive as those in your country, we have taken steps in accordance with US law to ensure that your privacy is protected. By visiting our Sites or using our Services, you acknowledge and agree that your Information may be transferred to our US facilities and those third parties with whom we share it as described in this Privacy Policy.
+
+### California Privacy Rights
+
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of their Information to third parties for direct marketing purposes. To make such a request, please contact us via the contact information at the end of this Policy.
+
+### Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time as our business practices or the law requires. We will notify you about material changes to this Privacy Policy by placing a prominent notice on our Sites.
+
+### Please Don't Hesitate to Contact Us
+
+If you have questions regarding our Privacy practices or this Privacy Policy, or if you would like to send us requests or complaints relating to our use of your Information, please contact us via the contact information on the following page:
+
+Website Operator| Main Website  
+---|---  
+Nubera eBusiness S.L. ( **GetApp** )  
+Edificio SPACES  
+C/ Pallars 193, 2ª planta  
+08005 Barcelona, Spain  
+[legal@getapp.com](mailto:legal@getapp.com)| [www.getapp.com](https://web.archive.org/)  
+For all privacy incident reporting, please contact [privacy@gartner.com](mailto:privacy@gartner.com).  
+Website Operator  
+---  
+Nubera eBusiness S.L. ( **GetApp** )  
+Edificio SPACES  
+C/ Pallars 193, 2ª planta  
+08005 Barcelona, Spain  
+[legal@getapp.com](mailto:legal@getapp.com)  
+Main Website  
+[www.getapp.com](https://web.archive.org/)  
+For all privacy incident reporting, please contact [privacy@gartner.com](mailto:privacy@gartner.com).
