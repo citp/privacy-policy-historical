@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002175141id_/https%3A//www.interfolio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611220657id_/https%3A//www.interfolio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Interfolio
 
-_Last updated on May 25, 2017_
+_Last updated on April 2018_
 
 Interfolio complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union to the United States. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall take precedence. To learn more about the Privacy Shield program, the Privacy Shield Principles, and to view our certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/). Interfolio is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
@@ -22,7 +22,7 @@ This Privacy Policy will apply to users of the Site regardless of the type of Us
 
 So we are clear about the terminology we are using, when we use the phrase “Personal Information”, we mean contact information (i.e., your name, address, email address, and/or telephone number) and any other non-public information that is used or intended to be used to personally identify an individual, and information associated with the foregoing. When we use the phrase “Anonymous Information”, we mean information that is not associated with or linked to your Personal Information. Anonymous Information does not enable identification of or contact with, individual persons.
 
-BY USING OUR SITE OR SERVICES OR SUBMITTING PERSONAL INFORMATION THROUGH OUR SITE OR SERVICES, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY AND YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY. YOUR PERSONAL INFORMATION MAY BE PROCESSED BY US IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY.
+BY USING OUR SITE OR SERVICES OR SUBMITTING PERSONAL INFORMATION THROUGH OUR SITE OR SERVICES, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY AND YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY.
 
 ### HOW WE COLLECT INFORMATION
 
@@ -86,7 +86,7 @@ We may disclose certain Personal Information:
   * To third-party services to manage communications (e.g., in order to send transactional emails related to our services). We also use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your name and email address) to third-party service providers in order to analyze your use of our website and/or product and track our relationship so that we can improve our service to you. In such cases, we will require such vendors agree to process such information based on our instructions and in compliance with this Privacy Policy (including your Billing Information to our payment processor).
   * To third parties to whom you ask or authorize us to send Personal Information (including, if applicable, Recipients and/or your University);
   * To a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), in the event we have such Affiliates in the future, in which case we will require our Affiliates to honor this Privacy Policy;
-  * If we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our Terms of Use; (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties. Note that we may be compelled to reveal personal data in response to lawful requests by public authorities including to meet national security or law enforcement requirements. 
+  * If we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our Terms of Use; (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties. Note that we may be compelled to reveal personal data in response to lawful requests by public authorities including to meet national security or law enforcement requirements.
 
 
 
