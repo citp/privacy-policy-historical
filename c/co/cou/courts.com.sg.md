@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courts.com.sg privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230143937id_/https%3A//www.courts.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courts.com.sg privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611040333id_/https%3A//www.courts.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,19 +8,16 @@ COURTS (Singapore) Pte. Ltd. (“COURTS” or “we”) respects and protects th
 
 This Privacy Policy sets out what personal information we collect and how we use it. References in this Policy to COURTS Online include any website owned and operated by or on behalf of COURTS, including the COURTS Online Marketplace. 
 
-Without obtaining our customers' consent, COURTS (Singapore) Pte Ltd, will not tamper with customers' browsers or computers. 
+Without obtaining our customers' consent, COURTS (Singapore) Pte Ltd, will not tamper with customers' browsers or computers.
 
   
-BY VISITING COURTS ONLINE, OR BY REGISTERING AS A USER ON COURTS ONLINE, YOU AGREE TO THE TERMS SET OUT IN THIS PRIVACY POLICY. 
-
-  
-
+BY VISITING COURTS ONLINE, OR BY REGISTERING AS A USER ON COURTS ONLINE, YOU AGREE TO THE TERMS SET OUT IN THIS PRIVACY POLICY.
 
 #### 1   HOW TO CONTACT US
 
 Company Registration No. 197301411C   
 GST Registration No. M20016265-0   
-If you have any questions about this Privacy Policy you may contact customerservice@courts.com.sg. Or please write to us at Online Customer Service 50 Tampines North Drive 2, (S) 528766, or call us at 1800 222 6868 for any assistance you require. 
+If you have any questions about this Privacy Policy, you may contact the Data Protection Officer at [customerservice@courts.com.sg](mailto:customerservice@courts.com.sg) or write to us at Data Protection Officer 50 Tampines North Drive 2 Singapore 528766, or call us at 1800 222 6868.
 
 #### 2   A WORD ABOUT CHILDREN
 
@@ -69,9 +66,6 @@ Your Internet Service Provider allocates an IP address to your computer or devic
 
 #### 6   DOES COURTS SHARE YOUR PERSONAL INFORMATION WITH OTHER PEOPLE?
 
-  
-
-
 COURTS does not sell or lease your personal information to third parties.  
 We only use your information for the purposes set out in Section 4 of this Privacy Policy.  
 We may share your information with the following third parties, where necessary and always in compliance with this Privacy Policy and with applicable laws.  
@@ -81,25 +75,22 @@ We may share your information with the following third parties, where necessary 
 
 **6.3     Current or future COURTS entities or subsidiaries. **This includes without limitation our business partners and financial institutions, from time to time. These other parts of the COURTS business may be involved in providing certain services to you or supporting the provision of these services.
 
-**6.4     Law enforcement agencies. **We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our rights; or protect the rights, property or safety of COURTS, our users or others including you. 
+**6.4     Law enforcement agencies. **We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our rights; or protect the rights, property or safety of COURTS, our users or others including you.
 
-  
-
-
-#### 7\.   THIRD PARTY SELLERS 
+#### 7\.   THIRD PARTY SELLERS
 
 UNLESS OTHERWISE AUTHORISED OR CONSENTED TO BY COURTS, THIRD PARTY SELLERS MUST NOT NOT USE ANY PERSONAL INFORMATION THAT IS ACCESSIBLE FROM COURTS ONLINE, EXCEPT TO ENTER INTO AND COMPLETE TRANSACTIONS CONDUCTED VIA COURTS ONLINE. THIRD PARTY SELLERS MUST NOT USE ANY SUCH INFORMATION FOR PURPOSES OF SOLICITATION, ADVERTISING, UNSOLICITED E-MAIL OR SPAMMING, HARASSMENT, INVASION OF PRIVACY OR OTHERWISE OBJECTIONABLE CONDUCT. 
 
-#### 8\.   HOW SECURE IS MY PERSONAL INFORMATION? 
+#### 8\.   HOW SECURE IS MY PERSONAL INFORMATION?
 
 We shall take reasonable measures to ensure the confidentiality and security of the personal information shared with these third parties and to protect it from loss, misuse, unauthorised access, disclosure, alteration or destruction.   
 It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. 
 
-#### 9\.   WHAT ABOUT THIRD-PARTY ADVERTISERS AND LINKS TO OTHER WEBSITES? 
+#### 9\.   WHAT ABOUT THIRD-PARTY ADVERTISERS AND LINKS TO OTHER WEBSITES?
 
 COURTS Online may include third party advertising and links to other websites. COURTS is not responsible for third party websites and you should find out from the other websites about their privacy policies. 
 
-#### 10\.   WHAT INFORMATION CAN I ACCESS? 
+#### 10\.   WHAT INFORMATION CAN I ACCESS?
 
 You can access a broad range of your personal information by logging into your user account.
 
@@ -109,4 +100,5 @@ You must make sure that the details you provide us with are correct and complete
 
 #### 12\.   MARKETING
 
-You may choose to stop receiving or change the frequency of email, direct mail, phone and mobile marketing communications. If you do not want to receive e-mail or other mail from us, please adjust your user account preferences or use the unsubscribe function on marketing materials. 
+  
+You may choose to stop receiving or change the frequency of email, direct mail, phone and mobile marketing communications. If you do not want to receive e-mail or other mail from us, please adjust your user account preferences or use the unsubscribe function on marketing materials.
