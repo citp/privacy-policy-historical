@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digidna.net privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923083625id_/https%3A//imazing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digidna.net privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611161939id_/https%3A//imazing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iMazing
 
@@ -103,7 +103,7 @@ Google Analytics is a web analysis service provided by Google Inc. (“Google”
 All modern internet browsers have settings which let you block 1st or 3rd party cookies, or both. It is also easy to delete all or selected cookies, see the links below for instructions.
 
 [Delete cookies in Chrome](https://support.google.com/chrome/answer/95647)  
-[Delete cookies in Safari](https://support.apple.com/kb/ph21411?locale=en_US)  
+[Manage cookies in Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)  
 [Delete cookies in Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)  
 [Delete cookies in Edge](https://support.microsoft.com/en-us/help/4027947/windows-delete-cookies)
 
