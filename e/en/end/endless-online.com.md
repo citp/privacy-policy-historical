@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endless-online.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209032101id_/http%3A//www.endless-online.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endless-online.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611111618id_/http%3A//www.endless-online.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of the Endless Online RPG
 
@@ -8,14 +8,14 @@ EndlessOnline expressly disclaims any warranty for this software. The Software i
 
 **Table of contents**
 
-\- [Personal Information](https://web.archive.org/web/20181209032101id_/http%3A//www.endless-online.com/privacy_policy.html#disc1)  
-\- [About Cookies](https://web.archive.org/web/20181209032101id_/http%3A//www.endless-online.com/privacy_policy.html#disc2)  
-\- [IP Tracking](https://web.archive.org/web/20181209032101id_/http%3A//www.endless-online.com/privacy_policy.html#disc3)  
-\- [Sharing Of Information](https://web.archive.org/web/20181209032101id_/http%3A//www.endless-online.com/privacy_policy.html#disc4)  
-\- [Third Parties](https://web.archive.org/web/20181209032101id_/http%3A//www.endless-online.com/privacy_policy.html#disc5)  
-\- [Cookie Policy](https://web.archive.org/web/20181209032101id_/http%3A//www.endless-online.com/privacy_policy.html#disc6)  
-\- [Opt Out Cookies](https://web.archive.org/web/20181209032101id_/http%3A//www.endless-online.com/privacy_policy.html#disc7)  
-\- [Liability](https://web.archive.org/web/20181209032101id_/http%3A//www.endless-online.com/privacy_policy.html#disc8)
+\- [Personal Information](https://web.archive.org/web/20190611111618id_/http%3A//www.endless-online.com/privacy_policy.html#disc1)  
+\- [About Cookies](https://web.archive.org/web/20190611111618id_/http%3A//www.endless-online.com/privacy_policy.html#disc2)  
+\- [IP Tracking](https://web.archive.org/web/20190611111618id_/http%3A//www.endless-online.com/privacy_policy.html#disc3)  
+\- [Sharing Of Information](https://web.archive.org/web/20190611111618id_/http%3A//www.endless-online.com/privacy_policy.html#disc4)  
+\- [Third Parties](https://web.archive.org/web/20190611111618id_/http%3A//www.endless-online.com/privacy_policy.html#disc5)  
+\- [Cookie Policy](https://web.archive.org/web/20190611111618id_/http%3A//www.endless-online.com/privacy_policy.html#disc6)  
+\- [Opt Out Cookies](https://web.archive.org/web/20190611111618id_/http%3A//www.endless-online.com/privacy_policy.html#disc7)  
+\- [Liability](https://web.archive.org/web/20190611111618id_/http%3A//www.endless-online.com/privacy_policy.html#disc8)
 
 endless-online.com is committed to protecting your privacy online. endless-online.com does not collect or store any personal information on its servers. 
 
