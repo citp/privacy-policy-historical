@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysun.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615055030id_/https%3A//www.nysun.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysun.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611133111id_/https%3A//www.nysun.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The New York Sun
 
@@ -43,17 +43,17 @@ At times, some of the advertisers on our Site and their ad service providers set
 
 **Opt Out Procedures**
 
-You have the option to opt out of receiving information from The New York Sun. This opt out messaging will appear at the bottom of every email that is sent out. The New York Sun also gives you the option to remove your information from its database completely. If you no longer wish to take advantage of this Site or to receive any form of direct contact from The New York Sun, whether it is email, discounts, newsletters, or other promotional offers or materials, or wish us to delete your personal information from our data records, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bfdacfdecfdacdffd1c6cccad191dcd0d2) to cancel your account. The New York Sun is not responsible for removing information from third-party lists or databases of any kind.
+You have the option to opt out of receiving information from The New York Sun. This opt out messaging will appear at the bottom of every email that is sent out. The New York Sun also gives you the option to remove your information from its database completely. If you no longer wish to take advantage of this Site or to receive any form of direct contact from The New York Sun, whether it is email, discounts, newsletters, or other promotional offers or materials, or wish us to delete your personal information from our data records, contact us at [epaper@nysun.com](mailto:epaper@nysun.com) to cancel your account. The New York Sun is not responsible for removing information from third-party lists or databases of any kind.
 
 Please note that we reserve the right to keep any personal or non-personal information submitted or collected until you delete or modify it or until we choose, for business reasons such as obsolescence, to delete it.
 
 **Reviewing or changing your information**
 
-In order to ensure that the information we maintain is accurate, The New York Sun gives users the option to change or modify their information previously provided. If you would like to change your information currently in our database, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a7c2d7c6d7c2d5e7c9ded4d2c989c4c8ca) The New York Sun is not responsible for updating information contained in third-party lists or databases.
+In order to ensure that the information we maintain is accurate, The New York Sun gives users the option to change or modify their information previously provided. If you would like to change your information currently in our database, please contact us at [epaper@nysun.com](mailto:epaper@nysun.com) The New York Sun is not responsible for updating information contained in third-party lists or databases.
 
 **Protection for Children**
 
-This Site is not intended for users under the age of 18. Furthermore, we have no intention of collecting personally identifiable information from children (i.e., individuals under the age of 13). If a child has provided us with personally identifiable information, that child's parent or guardian should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e7829786978295a7899e949289c984888a) or send us a letter marked "Privacy – Urgent" at the address below if they would like the information submitted by the child deleted from our database. We will use all reasonable efforts to delete such information from our database.
+This Site is not intended for users under the age of 18. Furthermore, we have no intention of collecting personally identifiable information from children (i.e., individuals under the age of 13). If a child has provided us with personally identifiable information, that child's parent or guardian should contact us at [epaper@nysun.com](mailto:epaper@nysun.com) or send us a letter marked "Privacy – Urgent" at the address below if they would like the information submitted by the child deleted from our database. We will use all reasonable efforts to delete such information from our database.
 
 **Privacy Precaution Warning**
 
@@ -71,7 +71,7 @@ We may amend our privacy policy, but if we decide to change our privacy policy, 
 
 **Contacting Us**
 
-If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f796939a9e99b7998e848299d9999283).
+If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact us at: [admin@nysun.net](mailto:admin@nysun.net).
 
 | 
 
