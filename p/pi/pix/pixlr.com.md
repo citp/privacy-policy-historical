@@ -1,82 +1,123 @@
-> *The following text is extracted and transformed from the pixlr.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103023039id_/https%3A//pixlr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixlr.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611174946id_/https%3A//pixlr.com/privacy-policy) for the most accurate reproduction.*
 
 # PIXLR - Privacy Policy
 
-**What does this policy cover?**
+We hereby inform you on Our current policies and practices applicable to the processing of your personal data (“Personal Data”) collected by Inmagine Group through the website <https://pixlr.com/> (the “ **Website** ”).
 
-This policy describes how PIXLR (123RF Limited and other companies in our group) will make use of your data to purchase services from our website (https://www.pixlr.com/).
+**Essential Information**
 
-It also describes your data protection rights, including a right to object to some of the processing which PIXLR carries out. More information about your rights, and how to exercise them, is set out in the “What rights do I have?” section.
+PIXLR (<https://pixlr.com/>) is one of the websites being operated by the relevant entity within Inmagine Group which comprises of various legal entities throughout the world.
 
-**Summary of how we use your data**
+123RF Limited entity acting as data controller for the processing of your Personal Data will depend on how you interact with the Website where you are located and on the entity that have a relationship with you, as the case may be. The relevant Inmagine Group entities are referred to as “ **Inmagine Group** ”, “ **Our** ”, “ **We** ” or “ **Us** ” in this privacy policy.
 
-  * PIXLR uses your personal data to manage your relationship with us, allow you to purchase services from us, deal with invoicing and ensure that we can communicate with you efficiently.
-  * Data is shared with other members of the PIXLR group of companies and third party agents who assist us with the sale and provision of our services.
-  * Where we rely on your consent, such as for direct marketing, you can withdraw this consent at any time.
+For any general queries you may contact Us at: [info@pixlr.com](mailto:info@pixlr.com).
 
+**What does this Privacy Policy covers?**
 
+This privacy policy generally describes, inter alia, the Personal Data We may collect from you, the processing of such Personal Data and your rights in relation thereto.
 
-**What information do we collect?**
+**Information We may collect from you**
 
-We collect and process personal data about you when you interact with us and our websites, and when you purchase services from us. This includes: 
+The term Personal Data refers to the data you provide to Us through the Website and may vary depending on the type of relationship you have with Us. Personal Data include:
 
-  * your name
-  * your email address
-  * your phone number 
-  * your address
-  * your payment details (including your billing address or PayPal account or bank details, as appropriate)
-  * information related to the browser or device you use to access our website;
+Browsing data
 
+The information systems and software procedures used to operate this Website acquire personal data as part of their standard functioning. The transmission of such data is an inherent feature of Internet communication protocols. This data category includes, among other things, the IP addresses and/or the domain names of the computers and terminal equipment used by any user, the location of the devices, the URI/URL ( _Uniform Resource Identifier/Locator_ ) addresses of the requested resources, the time of such requests, the method used for submitting a given request to the server, returned file size, a numerical code relating to server response status (successfully performed, error, etc.) and other parameters related to the users’ operating system and computer environment.
 
+Registration profile
 
-**How do we use this information, and what is the legal basis for this use?**
+If you decide to create an account on the Website, you may be required to provide Us your Personal Data such as name, username, e-mail address and billing address with the submission of the registration form. You may also include additional Personal Data such as surname, address, telephone number and date of birth.
 
-We process this personal data for the following purposes:
+If you decide to create an account through your existing profile in a social network ( _e.g._ , Facebook), you may be required to share Personal Data such as information of your public profile, (including name, surname and image) and e-mail address. 
 
-  * To fulfil a contract, or take steps linked to a contract: this is relevant where you make a purchase from us. This includes: 
-    * verifying your identity;
-    * taking payments; 
-    * communicating with you;
-    * providing customer services and arranging the delivery or other provision of services;
-  * Where we have a legitimate interest. This includes:
-    * to conduct research, analysis and analytics.
-  * Where you give us consent:
-    * we will send you direct marketing in relation to our relevant products and services, or other products and services provided by us, our affiliates and carefully selected partners. 
-    * we place cookies and use similar technologies in accordance with our Cookies Policy and the information provided to you when those technologies are used
-    * on other occasions where we ask you for consent, we will use the data for the purpose which we explain at that time.
+Financial information and billing details
 
+If you purchase or subscribe any of Our products and/or services, you will also be required to provide Us Personal Data related to payments and billing, including name, surname, address, zip code, telephone number, e-mail address, billing address, as well as credit card details, or Paypal account or bank details. We do not store credit card details or PayPal account or bank details. Upon the completion of the purchase or subscribe of Our products and/or services, We collect transaction details from the payment gateway provider only.
 
+Details under the “Contact Us” section
 
-**Withdrawing consent or otherwise objecting to direct marketing**
+When you contact Us through the Website, you may be required to provide Us your Personal Data such as name, e-mail address and, at your own discretion, other information you decide to share with Us, that We may collect from you.
 
-Wherever we rely on your consent, you will always be able to withdraw that consent, although we may have other legal grounds for processing your data for other purposes, such as those set out above. In some cases, we are able to send you direct marketing without your consent, where we rely on our legitimate interests. You have an absolute right to opt-out of direct marketing, or profiling we carry out for direct marketing, at any time. You can do this by following the instructions in the communication where this is an electronic message, or by contacting us using the details set out below.
+Recruitment
 
-**What rights do I have?**
+If you submit information about you via the career section of Our Website or apply for a position, We will collect and process the information which you have submitted for considering your application and all other recruitment purposes.
 
-You have the right to **ask us for a copy** of your personal data; to **correct, delete** or **restrict** (stop any active) processing of your personal data; and to **obtain the personal data you provide to us for a contract or with your consent in a structured, machine readable format,** and to ask us to share **(port) this data to another controller.**
+Cookies
 
-In addition, you can **object to the processing** of your personal data in some circumstances (in particular, where we don’t have to process the data to meet a contractual or other legal requirement, or where we are using the data for direct marketing). 
+We use cookies and similar technologies or tools to collect information about your activities on Our Website, including to use social media features or services on Our Website which may enable you to connect with Our social media page or share any promotional activities with your friends and social networks. Detailed information on the cookies We use and the purpose for which We use them are set out in Our [Cookie Policy](https://web.archive.org/cookie-policy).
 
-These **rights may be limited,** for example if fulfilling your request would reveal personal data about another person, or if you ask us to delete information which we are required by law to keep or have compelling legitimate interests in keeping. 
+**How do We use your information and why?**
 
-To exercise any of these rights, you can get in touch with us – or our data protection officer – using the details set out below. If you have unresolved concerns, you have the **right to complain** to an EU data protection authority where you live, work or where you believe a breach may have occurred. 
+Your Personal Data will be collected and processed for the following purposes:
 
-**How do I get in touch with you?**
+Categories of data: | Purposes of processing | Legal basis:  
+---|---|---  
+Browsing data | To extract statistical information on service usage (most visited pages, visitors by time/date, geographical areas of origin, etc.) and to check the functioning of the services. | Legitimate interest of the data controller to analyse and improve the performance of its services and to prevent crimes and frauds  
+Registration/creation of the profile | To process the creation of your account and profile on the Website and to provide or allow you the access certain areas, functions ( _e.g._ , processing the contents submitted by you and displaying your contents on Our Website) and features of Our Website. | Consent  
+Biographical data, financial information and billing details | To provide you with the products and/or services you purchased or subscribed to, as well as processing transactions and payments in connection therewith. | Execution of the agreement  
+For administrative purposes connected with the performance of the commercial relationship with you or the fulfillment of legal requirements ( _e.g._ , accounting or tax requirements) or for complying with any requests from the competent authorities. | Compliance with a legal obligation to which We are subject or, in the event there is no such legal obligation, Our legitimate interest to keep adequate records in connection with the execution of the commercial relationship  
+To share the Personal Data with the other Inmagine Group’s companies within the European Economic Area (EEA) for internal administrative and accounting purposes. | Legitimate interest for transmitting Personal Data within the group of undertakings for internal administrative purposes, including the processing of customers’ Personal Data  
+Biographical data and contact details | To contact you with information about current or new products, commercial opportunities, promotions and services or events sponsored by us that may deem of interest to you, as well as to verify customer satisfaction and to carry out market researches, analyses and surveys, and also to allow you to participate to prize contests, rewards, trips and/or receive gifts. | Consent  
+To respond to your queries and questions and to provide any information you require ( _e.g._ , information and suggestion about products) in the section “Contact Us”. | Consent  
+  
+The submission of your Personal Data is not mandatory. Any refusal to provide the consent will not have any effect other than Our inability to provide you the products and/or services. In such situation, We shall not be liable for any losses, liabilities and damages whatsoever and howsoever arising thereof.
 
-We hope that we can satisfy queries you may have about the way we process your data. If you have any concerns about how we process your data, or would like to opt out of direct marketing, you can get in touch at info@pixlr.com. 
+At any time, you have the right to withdraw your consent.
 
-**Which PIXLR entity is my data controller, and which affiliates might my data be shared with?**
+**Information We may share and data recipients**
 
-The data controller for your information is 123RF Limited. Your personal data may be shared with other members of our group and certain third party agents
+Your Personal Data are processed by Our personnel and, if necessary or functional to fulfilling the purposes indicated above, your Personal Data may be processed by third parties that may be appointed by Us as data processors.
 
-**How long will you retain my data?**
+The categories of recipients to whom your Personal Data may be disclosed are the following:
 
-Where we process registration data, we do this for as long as you are an active user of our sites and for 12 months after this.
+a. third parties such as (i) IT providers; (ii) financial institutions or payment gateway providers in connection with the processing of financial and payment information; (iii) marketing agencies to carry out marketing campaigns, surveys and promotions; (iv) legal, accounting, tax, labour consultants and other professionals; (v) other Inmagine Group companies within the European Economic Area (EEA), and
 
-Where we process personal data for marketing purposes or with your consent, we process the data until you ask us to stop and for a short period after this (to allow us to implement your requests). We also keep a record of the fact that you have asked us not to send you direct marketing or to process your data so that we can respect your request in future.
+b. public entities and authorities, exclusively for the purpose of fulfilling legal and regulatory obligation.
 
-Where we process personal data in connection with performing a contract, we keep the transactional data for six years from your last interaction with us (or such longer period as may be required by law).
+Under certain circumstances, your Personal Data may be transferred outside the European Economic Area (EEA) to other Inmagine Group companies or to third parties data processors. In such cases, We ensure that We have adopted appropriate safeguards, including binding corporate rules or standard data protection clauses adopted by the European Commission, in order to guarantee the data subjects with an adequate level of protection.
 
-**Language**
+Retention of your Personal Data
 
-This policy is written in English with a reference translation in another language (if necessary). In the event of any conflict in interpreting or construing the terms of this policy, the English version shall prevail.
+Data are retained as long as necessary for the performance of the services provided by the Website and to comply with legal obligations (including, auditing or taxation purposes), to meet regulatory requirements, resolve disputes, maintain security, and/or to prevent frauds and abuse.
+
+In relation to Personal Data of your profile, We will retain the same as long as your account with Us is still active. If you choose to close the account or if your account is closed, We will delete your Personal Data and information within 30 days. This is without prejudice to Our right to retain the information (such as username and transaction details) to comply with legal obligations, prevent frauds and protect its legal interest.
+
+In case you have given your consent for marketing activities, your Personal Data will be retained for a reasonable period or not more than 2 years after each collection.
+
+Security
+
+We treat the security for all information submitted or provided by you to Us seriously and is of importance to Us. We will take reasonable steps to protect or secure this data, including Personal Data. Accordingly, We may require Our employees or third-party service providers to assist Us in implementing or applying appropriate securities measures (such as firewalls, penetration testing and etc). You are also advised not to disclose and secure your own user name and password.
+
+Your Rights
+
+You have the right to obtain from Us confirmation whether your Personal Data are being processed by Us, and, in said circumstances, you have the right to request access to and rectification or erasure of the same or restriction of processing, and to object to the processing at any time, as well as under certain circumstances the right to data portability. With respect to the data portability, you have the right to receive your Personal Data in a structured, commonly used and machine-readable format and to request the transmission of said data.
+
+If you have subscribed to or opted-in to receive Our marketing communications you can opt-out at any time, free of charge, requesting that your Personal Data not be used for marketing purposes.
+
+You may exercise any of the above rights by contacting Us at [info@pixlr.com](mailto:info@pixlr.com).
+
+In the event of a breach of applicable EEA data protection laws you have also the right to file a complaint with the competent data protection authority.
+
+Links to Third Party Website(s)
+
+Our Website or any products/services being rendered to you may contain links to other websites that are not operated by Us and whose privacy practices may differ from Us. If you click on a third-party link, you may be directed to the third-party website. Any submission of your Personal Data to any of those third-party websites will be governed by the relevant third-parties’ privacy policies. We have no control and shall not assume any responsibilities howsoever arising thereof and We strongly advise you to carefully read the privacy policies prior to the disclosing of any information.
+
+Advertising
+
+We may, from time to time, partner with a third party to display Our’s or third party’s advertisement(s) on Our Website or engaging third party to manage Our advertising on Our Website. For more detailed information, please refer to Our [Cookie Policy](https://web.archive.org/cookie-policy).
+
+Mobile Applications or Mobile Website
+
+We may provide Our products or services to you via our mobile applications or mobile website that is designed to be used on mobile computing devices (the “ **Applications** ”). You may be required to log in to Our mobile applications or mobile website with your user name and password in order to allow you to associate with the user account you have created on Our Website. The processing of Personal Data information therein will also be governed in accordance with this Privacy Policy and Our Cookie Policy.
+
+Contact Us
+
+If you: (i) have any questions, queries, inquiries or comments on Our Privacy Policy; (ii) have any concerns about how We process your Personal Data; (iii) would like to opt out of direct marketing activities; (iv) would like Us to update information or preferences you have provided to Us; or (v) have any other issues relating to this privacy policy, you may get in touch with us at [info@pixlr.com](mailto:info@pixlr.com).
+
+In the event you have any complaints you may also contact Us at [privacy@123rf.com](mailto:privacy@123rf.com).
+
+Changes to this Privacy Policy
+
+We will keep this Privacy Policy under regular review and We may update this Privacy Policy from time to time. The updated version shall apply and supersede all previous versions. Hence, it is advisable that you check this Privacy Policy on a regular basis.
+
+_Last updated: 08 March 2019_
