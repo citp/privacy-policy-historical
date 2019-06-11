@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the vultr.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203154432id_/https%3A//www.vultr.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vultr.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611195031id_/https%3A//www.vultr.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vultr.com
 
-Last Modified: June 8, 2018
+[
+
+](http://www.vultr.com/)
+
+Last Modified: May 21, 2018
 
 ##  I. General 
 
@@ -105,5 +109,3 @@ We offer our Members the opportunity to access or modify information provided du
 ##  XI. Where to Direct Questions About Our Privacy Policy. 
 
 If you have any questions about this Policy or the practices described herein, you may contact us at <http://www.vultr.com/contact/>
-
-## Get started in the SSD Cloud!
