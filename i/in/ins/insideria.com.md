@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the insideria.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231052839id_/https%3A//www.oreilly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideria.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611075924id_/https%3A//www.oreilly.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy as of 11/21/18 - O'Reilly Media
 
-## This version (Version 4.3) is effective as of November 21, 2018.
+This version (Version 4.3) is effective as of November 21, 2018. 
 
   * Overview
   * About Us
@@ -23,7 +23,7 @@
 
 
 
-### Overview
+## Overview
 
 At O'Reilly, we pride ourselves on our commitment to protecting your privacy. Our data governance and privacy policies reflect our company's values and how we strive to maintain your privacy.
 
@@ -31,7 +31,7 @@ This Privacy Policy (the "Policy") discloses the privacy practices of O'Reilly M
 
 Any use you make of O'Reilly service offerings is subject to O'Reilly's [Terms of Service (TOS)](https://www.oreilly.com/terms/) and any use you make of any Safari service offering is also subject to Safari's [Membership Agreement](https://www.safaribooksonline.com/membership-agreement/) and [TOS](https://www.safaribooksonline.com/terms/).
 
-### About Us
+## About Us
 
 O'Reilly Media, Inc. is a corporation registered in Delaware, with a principal office at located at 1005 Gravenstein Highway North, Sebastopol, CA 95472, United States of America.
 
@@ -39,14 +39,14 @@ O'Reilly UK Limited is a company registered in England, under company number 035
 
 Safari Books Online, LLC is a limited liability company registered in Delaware, with a principal office at located at 1003 Gravenstein Highway North, Sebastopol, CA 95472, United States of America.
 
-### Questions or Concerns: Contact Us
+## Questions or Concerns: Contact Us
 
 If you have any questions about this Policy or questions or complaints about our privacy practices, please contact us using the details below:
 
 FAO
     Data Protection Officer
 Address
-    O'Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472, USA
+    O’Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472, USA
 Email
     [privacy@oreilly.com](mailto:privacy@oreilly.com?subject=)
 
@@ -75,11 +75,11 @@ Phone
 
 If you prefer, you can of course always contact us using our US contact details set out above.
 
-### 1\. Information We Collect
+## 1\. Information We Collect
 
 We collect personal information in the following ways:
 
-#### 1.1 Information that you provide to us directly
+### 1.1 Information that you provide to us directly
 
 We gather information that you provide to us when you:
 
@@ -112,17 +112,17 @@ The information you provide to us will include (depending on the circumstances):
 
 
 
-#### 1.2 Information we collect through technology related to our products and services
+### 1.2 Information we collect through technology related to our products and services
 
 Some of our products and services collect information about system and product data. We use this information to manage and administer our products and services, to issue updates and new versions, testing and monitoring services that we provide, enhancing our products and services, and improving and targeting our communications with you.
 
 Our mobile apps may collect information about your geo-location data in order to provide you with conference services near you. You can switch off geo-location functionality for our mobile apps on your device.
 
-#### 1.3 Information we collect through online technology
+### 1.3 Information we collect through online technology
 
 Technologies such as cookies, beacons, tags, local storage, and scripts are used by us and our affiliates, and other companies, such as third party technology service providers and web analytics providers. These technologies make it easier for you to navigate our website and to help us manage the content on our website and are used to analyze trends, administer the sites, track users' movements around the site (including which site you clicked from to arrive at our site), and gather demographic information about our user base. Additional information about these online technologies is available [here](https://www.oreilly.com/privacy-cookies.html).
 
-#### 1.4 Information from other sources
+### 1.4 Information from other sources
 
 In certain circumstances, we will receive information about you from other sources, including third parties. For example, we may receive personal information from any of the following, who may be based inside and/or outside the EU:
 
@@ -142,7 +142,7 @@ In certain circumstances, we will receive information about you from other sourc
 
 We might also receive information about you from other third parties if you have indicated to such third parties that you would like to hear from us. 
 
-#### 1.5 Special categories of data
+### 1.5 Special categories of data
 
 Special categories of particularly sensitive personal information require higher levels of protection. These so-called "special categories of data" include details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. Depending on the circumstances, we will also collect information about criminal convictions and offenses.
 
@@ -166,9 +166,9 @@ For example, we will collect special categories of information:
 
 In limited circumstances, we may request your written consent to allow us to use certain particularly sensitive data. If we do so, we will provide you with full details of the information that we would like and the reason we need it, so that you can carefully consider whether you wish to consent.
 
-### 2\. Using Personal Information
+## 2\. Using Personal Information
 
-#### 2.1 How we use information we collect
+### 2.1 How we use information we collect
 
 We use your information for the following purposes:
 
@@ -205,13 +205,13 @@ We use your information for the following purposes:
 
 
 
-#### 2.2 Legitimate interests
+### 2.2 Legitimate interests
 
 As outlined above, in certain circumstances we may use your personal information to pursue legitimate interests of our own or those of third parties. Where we refer to our "legitimate interests", we mean our legitimate business interests in conducting and managing our business and our relationship with you, including the legitimate interests we have specified in section 2.1 above.
 
 Where we use your information for our legitimate interests, we make sure that we take into account any potential impact that such use may have on you. Our legitimate interests don't automatically override yours and we won't use your information if we believe your interests should override ours unless we have other grounds to do so (such as your consent or a legal obligation). If you have any concerns about our processing please refer to details of "Your Rights" in Section 6 below.
 
-### 3\. How We Share and Disclose Personal Information
+## 3\. How We Share and Disclose Personal Information
 
 We consider your personal information to be a vital part of our relationship with you and do not sell your personal information to third parties. There are, however, certain circumstances in which we may share your personal information with certain third parties, as follows:
 
@@ -226,9 +226,9 @@ We consider your personal information to be a vital part of our relationship wit
 
 
 
-### 4\. How We Look After Your Personal Information and How Long We Keep It
+## 4\. How We Look After Your Personal Information and How Long We Keep It
 
-#### 4.1 Security
+### 4.1 Security
 
 We use administrative, technical, and physical safeguards to protect the security, confidentiality, and integrity of personal data against loss, misuse and unauthorized access, disclosure, alteration, and destruction. We also operate a policy of "privacy by design" by looking for opportunities to minimize the amount of personal information we hold about you.
 
@@ -244,13 +244,13 @@ The safeguards we use include:
 
 If you have any questions about the security of your personal information, please contact us using the methods outlined in the "Contact Us" section above.
 
-#### 4.2 Retention
+### 4.2 Retention
 
 We will keep your information for as long as is necessary to provide you with the services that you have requested from us or for as long as we reasonably require to retain the information for our lawful business purposes, such as for the purposes of exercising our legal rights or where we are permitted to do. We operate a data retention policy and look to find ways to reduce the amount of information we hold about you and the length of time that we need to keep it.
 
 Please contact us using the methods outlined in the "Contact Us" section above if you would like to obtain details of our retention periods for different aspects of your personal data.
 
-#### 4.3 Help keep your information safe
+### 4.3 Help keep your information safe
 
 You can also play a part in keeping your information safe by:
 
@@ -263,11 +263,11 @@ You can also play a part in keeping your information safe by:
 
 
 
-### 5\. International Transfers of Your Information
+## 5\. International Transfers of Your Information
 
 O'Reilly and Safari are both based in the United States of America.
 
-#### 5.1 Privacy Shield Certification
+### 5.1 Privacy Shield Certification
 
 O'Reilly Media, Inc. and Safari Books Online, LLC (and entities and subsidiaries that are, or may become, covered by O'Reilly or Safari's privacy shield certification) participates in and have certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (collectively the "Privacy Shield Framework"). O'Reilly and Safari are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland ("Privacy Shield Covered Data"), respectively, in reliance on each Privacy Shield Framework, to the Framework's applicable Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability, including the 16 supplemental principles described in each Privacy Shield Framework (collectively, the "Privacy Shield Principles"). O'Reilly and Safari have each certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield Framework and to view O'Reilly and Safari's certifications, please visit the U.S. Department of Commerce's Privacy Shield List available at [https://www.privacyshield.gov](https://www.privacyshield.gov/). If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. Additionally, O'Reilly and Safari may protect your data through other legally-valid methods, including international data transfer agreements.
 
@@ -281,7 +281,7 @@ Under certain conditions, more fully described on the Privacy Shield website <ht
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. If your request remains unresolved, you may contact the national data protection authority for your EU Member State.
 
-#### 5.2 Special note to users outside of the United States
+### 5.2 Special note to users outside of the United States
 
 We transact business throughout the world and have operations, processes and systems that cross borders. Our offices are located in the United States, the United Kingdom, China and Japan, and our servers are located in the United States, the United Kingdom, Belgium, China and Japan. We transfer your personal data within the O'Reilly and Safari group of companies in the United States, and to affiliates, joint venture partners, and third party service providers around the world.
 
@@ -295,9 +295,9 @@ If you reside in the European Union, please be advised that your personal data w
 
 We may transfer your personal information to countries in the following regions outside of the EEA: North America and Asia. Please contact us using the contact details in this Privacy Policy if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
 
-### 6\. Your Rights: Access and Accuracy, Updating, Correcting, or Deleting Information
+## 6\. Your Rights: Access and Accuracy, Updating, Correcting, or Deleting Information
 
-#### 6.1 Your rights – summary
+### 6.1 Your rights – summary
 
 You have certain rights in respect of the information that we hold about you, including:
 
@@ -313,7 +313,7 @@ You have certain rights in respect of the information that we hold about you, in
 
 
 
-#### 6.2 How to exercise your rights
+### 6.2 How to exercise your rights
 
 You may exercise your rights above by contacting us using the methods outlined in the "Contact Us" section above and we will comply with your requests unless we have a lawful reason not to do so.
 
@@ -323,35 +323,35 @@ You may exercise your rights above by contacting us using the methods outlined i
 
 Please note that your objection to processing (or withdrawal of any previously given consent) could mean that we are unable to provide you with our services. Even after you have chosen to withdraw your consent we may continue to process your personal information when required or permitted by law, in particular in connection with exercising and defending our legal rights, or meeting our legal and regulatory obligations.
 
-#### 6.3 What we need from you to process your requests
+### 6.3 What we need from you to process your requests
 
 We may need to request specific information from you to help us confirm your identity and to enable you to exercise the rights set out above. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
 You will not have to pay a fee to exercise the rights set out above. However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances. We will try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
-### 7\. Children's Privacy
+## 7\. Children's Privacy
 
 Our website is not intended for children. We do not knowingly collect or maintain the personal information of children under the age of 13, and in some jurisdictions under the age of 16. If you are under the age of 13, please do not access our website at any time or in any manner. If we learn that we have collected personal information of children under the age of 13 or 16 (as applicable), we will take appropriate steps to delete that data.
 
-### 8\. Sharing Data with Third Parties
+## 8\. Sharing Data with Third Parties
 
 You might provide personal information directly to third parties as a consequence of your interactions with our website and other services offered by us. For example, our website may contain content and links to other third-party websites, plug-ins, and applications that are operated by third parties that may also operate cookies. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We don't control these third party websites or cookies, we are not responsible for their privacy statements, and this Privacy Policy does not apply to them. Please check the terms and conditions and privacy policy of the relevant third party website to find out how they collect and use your information. If you do not want us to share your personal information with these companies, contact us using one of the methods described in the "Contact Us" section above.
 
 Please be responsible with personal information of others when using our website and the services available on it. We are not responsible for your misuse of personal information, or for the direct relationship between you and others that takes place outside of the website or our services.
 
-### 9\. For California Residents: Your Privacy Rights and Do Not Track Disclosure
+## 9\. For California Residents: Your Privacy Rights and Do Not Track Disclosure
 
 O'Reilly's and Safari's policy is to share your personal information only if you have given us your consent, for instance, by your agreeing to this Privacy Policy through your use of our sites. After obtaining such consent, Safari may in accordance with this Privacy Policy from time to time provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know, and we will prevent disclosure of your information to such business partners free of charge, or if you have further inquiries regarding our information sharing practices, please let us know using the methods outlined in the "Contact Us" section above.
 
 California law requires us to let you know how we respond to web browser Do Not Track (DNT) signals. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers at this time.
 
-### 10\. Changes to this Privacy Policy
+## 10\. Changes to this Privacy Policy
 
 Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your consent. If we make any material changes we will notify you by email or by means of a notice on this website prior to the change becoming effective. You can also view prior versions of the Policy by viewing the links in section 11 below.
 
-### 11\. Previous Versions of the Privacy Policy
+## 11\. Previous Versions of the Privacy Policy
 
-#### 11.1 O'Reilly and Safari privacy policies
+### 11.1 O'Reilly and Safari privacy policies
 
 [Click here for version 4.2](https://www.oreilly.com/privacy-101018.html)
 
@@ -359,7 +359,7 @@ Please note that this Policy may change from time to time. We will not reduce yo
 
 [Click here for version 4.0](https://www.oreilly.com/privacy-052518.html)
 
-#### 11.2 O'Reilly privacy policies
+### 11.2 O'Reilly privacy policies
 
 [Click here for version 2.1](https://www.oreilly.com/privacy-111016.html)
 
@@ -367,13 +367,13 @@ Please note that this Policy may change from time to time. We will not reduce yo
 
 [Click here for version 1.1](https://www.oreilly.com/privacy-091415.html)
 
-#### 11.3 O'Reilly School of Technology privacy policies
+### 11.3 O'Reilly School of Technology privacy policies
 
 [Click here for version 2.1](http://archive.oreilly.com/oreillyschool/privacy-policy/)
 
 [Click here for version 2.0](http://archive.oreilly.com/oreillyschool/privacy-policy-version2/)
 
-#### 11.4 Safari privacy policies
+### 11.4 Safari privacy policies
 
 [Click here for version 3.4](https://cdn.oreillystatic.com/pdf/SafariPrivacyPolicy_v3.4_23October2017.pdf)
 
