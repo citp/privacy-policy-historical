@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the servermania.com privacy policy that was archived on 2018-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181020072041id_/https%3A//www.servermania.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the servermania.com privacy policy that was archived on 2019-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190611121315id_/https%3A//www.servermania.com/privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -13,11 +13,33 @@
 <link rel="icon" href="/gallery/images/favicon.png" type="image/png">
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
 <link href="https://calendly.com/assets/external/widget.css" rel="stylesheet">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
-<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P8JXSRH"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
 <script type="text/javascript" src="https://secure.leadforensics.com/js/104587.js"></script>
 <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
 <script src="https://cse.google.com/cse.js?cx=013318722974038363332:jjbgzgjtkfa" async="" defer=""></script>
+
+<script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push(
+
+        {
+          'gtm.start': new Date().getTime(),
+          event: 'gtm.js'
+        }
+      );
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-P8JXSRH');
+
+  </script>
+
 
 <script>
     ! function(f, b, e, v, n, t, s) {
@@ -86,7 +108,7 @@ a.appendChild(r);
 
 <script src="//widget.wickedreports.com/ServerMania/trackfu.js"></script>
 <script src="//scripts.iconnode.com/62437.js"></script>
-<link rel="stylesheet" href="/theme29.css"><link rel="stylesheet" href="/page388.css">
+<link rel="stylesheet" href="/theme29.css"><link rel="stylesheet" href="/page519.css">
 <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
@@ -96,6 +118,11 @@ a.appendChild(r);
 <!--[if lt IE 7]>
     <p class="chromeframe" style="z-index:100000">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
     <![endif]-->
+
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P8JXSRH" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+
 <header id="header">
 <div class="modal-overflow" :class="{'active':requestQuote.modal}">
 <div class="modal-wrapper" @click.self="switchReqQuoteModal(false)">
@@ -105,16 +132,16 @@ a.appendChild(r);
 </div>
 <div class="success-msg layer" :class="{active:requestQuote.success}">
 <i class="icon icon-success"></i>
-<h2>Thanks for your request!</h2>
+<p class="h2">Thanks for your request!</p>
 <p>Our experts will contact you soon</p>
 </div>
 <div class="error-msg layer" :class="{active:requestQuote.success===false}">
 <i class="icon icon-alert3"></i>
-<h2>Oops! Something got wrong...</h2>
+<p class="h2">Oops! Something got wrong...</p>
 <p>Please write to <a href="mailto:support@servermania.com">support@servermania.com</a> or <a onclick="LC_API.open_chat_window();return false;" class="link">start a chat</a></p>
 </div>
 <span class="close-modal" @click="switchReqQuoteModal(false)">×</span>
-<h2>Custom quote request form</h2>
+<p class="h2">Custom quote request form</p>
 <p class="tac">Complete the form below and one of our experts will contact you within 24 hours or less. For immediate assistance <a href="contact-information.htm">contact us</a> or <a onclick="LC_API.open_chat_window();return false;" class="link">chat now</a>.</p>
 
 <form class="request-quote-form" @submit.prevent="executeReqQuoteRecaptcha" ref="form">
@@ -169,7 +196,7 @@ a.appendChild(r);
 </li>
 <li class="chat hid"><a href="" onclick="LC_API.open_chat_window();return false;">Live Chat</a></li>
 <li>
-<gcse:search></gcse:search>
+<gcse:search v-pre=""></gcse:search>
 </li>
 </ul>
 <ul class="right">
@@ -184,9 +211,10 @@ a.appendChild(r);
 <div class="dd-list">
 <div class="dd-links">
 <a href="https://surge.servermania.com/"> Login to Surge</a>
-<a href="https://my.servermania.com"> Cloud Control</a>
+
 <a href="https://vps.servermania.com:5656/login.php"> VPS Control</a>
 
+<a href="https://backup.servermania.com/">Cloud Backup</a>
 </div>
 </div>
 </li>
@@ -206,6 +234,7 @@ a.appendChild(r);
 <div class="dd-links">
 <div class="title">Products</div>
 <a href="/dedicated-servers-hosting.htm" id="nav-dedicated"><i class="icon icon-dedicated2"></i> Dedicated Servers</a>
+<a href="/legacy-servers.htm" id="nav-dedicated"><i class="icon icon-dedicated2"></i> Legacy Collection</a>
 <a href="/cloud-hosting.htm" id="nav-cloud"><i class="icon icon-cloud2"></i> Cloud Servers</a>
 <a href="/hybrid-smart-servers.htm" id="nav-hybrid"><i class="icon icon-hybrid"></i> Hybrid Servers</a>
 <a href="/colocation.htm" id="nav-colocation"><i class="icon icon-colocation"></i> Colocation</a>
@@ -224,7 +253,7 @@ a.appendChild(r);
 </div>
 </li>
 <li class="dropdown solutions" :class="{active:dropdowns[4]}" @click="toggleActive('dropdowns', 4)">
-<div class="name">Solutions &nbsp;&nbsp;<i class="icon icon-nav-arrow"></i></div>
+<div id="nav-solutions" class="name">Solutions &nbsp;&nbsp;<i class="icon icon-nav-arrow"></i></div>
 <div class="dd-list" :class="{active:dropdowns[4]}">
 <div class="dd-links">
 <a href="/solutions"><i class="icon icon-shared-hosting"></i>Solutions Overview</a>
@@ -253,7 +282,7 @@ a.appendChild(r);
 <div class="title">About</div>
 <a href="/servermania-benefits.htm" id="nav-why-sm"><i class="icon icon-sm-logo"></i> Why ServerMania</a>
 <a href="/about.htm" id="nav-about"><i class="icon icon-about"></i> About Us</a>
-<a href="/management-team.htm" id="nav-management"><i class="icon icon-management"></i> Management Team</a>
+
 <a href="/contact-information.htm" id="nav-contacts"><i class="icon icon-email2"></i> Contacts</a>
 <a href="/affiliate-program.htm" id="nav-affiliate"><i class="icon icon-affiliate"></i> Affiliate Program</a>
 </div>
@@ -307,7 +336,7 @@ a.appendChild(r);
 <section class="hero centered" :class="{'fixed-nav':fixedNav}">
 <div class="wrap tac">
 <h1>Privacy Policy</h1>
-<a href="/gallery/files/privacy-policy-2017.pdf" class="btn btn-info cta">Download PDF</a>
+<a href="/gallery/files/privacy-policy.pdf" class="btn btn-info cta">Download PDF</a>
 </div>
 </section>
 <section class="mobiled nav" :class="{fixed:fixedNav}">
@@ -316,38 +345,128 @@ a.appendChild(r);
 <a href="/aup.htm" class="tab">Use Policy</a>
 <a href="/privacy-policy.htm" class="tab active">Privacy Policy</a>
 <a href="/sla.htm" class="tab"><span class="visible-md">Service Level Agreement</span><span class="hidden-md">SLA</span></a>
+<a href="/cookie-policy.htm" class="tab">Cookie Policy</a>
 </div>
 </section>
 <section class="extra-p">
 <div class="wrap">
-<h2 class="tac">SERVER MANIA PRIVACY POLICY</h2>
-<p>Server Mania Inc. (“Server Mania” or the “Company”) has a long-standing policy of protecting the privacy of its Subscribers.</p>
-<p>Server Mania believes that each Subscriber should know what information Server Mania collects from them, as well as how that information is used, disclosed, and protected. Server Mania has created this Policy statement to explain its privacy practices.</p>
-<p>Server Mania will not sell or disclose the personal information of any Subscribers to unaffiliated third parties without consent except as otherwise provided in this Policy, its Terms of Service and its Acceptable Use Policy. Server Mania may use information about a Subscriber’s identity, where and when a Subscriber browses on the Web, where a Subscriber’s wireless device is located, and how a Subscriber uses its network in order for Server Mania to provide each Subscriber with better service and to enrich each Subscriber’s user experience when they sign up or use any of Server Mania’s Services.</p>
-<p>Any terms not herein defined shall have the meaning ascribed to them in the Server Mania Terms of Service.</p>
-<h5>Coverage of this Policy</h5>
-<p>This privacy policy includes servermania.com and all subdomains within.</p>
-<h5>Log Files</h5>
-<p>Like many other websites, Server Mania makes use of log files (“Log Files”). The information inside the Log Files includes Internet protocol (IP) addresses, the type of browser, Internet Service Provider (“ISP”), a date/time stamp, referring/exit pages and number of clicks to analyze trends, administer the site, track a Subscriber’s movement around the website and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.</p>
-<h5>Google Analytics</h5>
-<p>All of the same information recorded in Log Files is also transmitted to Google Analytics. No personally identifying data is included in this type of reporting. Subscribers may <a href="http://www.google.com/policies/technologies/ads/">opt out of Google's advertising tracking cookie</a> or <a href="https://tools.google.com/dlpage/gaoptout?hl=en">a browser plugin to opt out of all Google Analytics tracking software</a> by clicking on the links provided.</p>
-<h5>Cookies and Web Beacons</h5>
-<p>Server Mania does use cookies to store information about Subscriber preferences, record Subscriber-specific information on which pages the Subscriber accesses or visits, customize webpage content based on a Subscriber’s browser type or other information that a Subscriber sends via their browser. If a Subscriber wishes to disable cookies, they may do so through their individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.</p>
-<h5>Advertising</h5>
-<p>The Server Mania website uses cookies, tracking pixels and related technologies. Cookies are small data files that are stored on a Subscriber’s device. The Server Mania website uses cookies dropped by Server Mania or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may be used to track how a Subscriber uses the website to target ads to the Subscriber on other websites. Upon visiting Server Mania a Subscriber will receive a tracking cookie which specifies if the Subscriber is either a current client or only a visitor of the Server Mania website. This cookie is then used on Server Mania’s advertising network(s) to provide the Subscriber with ads relevant to them.</p>
-<h5>Information Sharing</h5>
-<p>Server Mania only shares personal information with other companies or individuals outside of Server Mania in the following limited circumstances:</p>
-<div class="list">
-<p><b>a.</b> If a Subscriber has provided their opt-in consent for Server Mania to share such sensitive personal information;</p>
-<p><b>b.</b> To subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on the Company’s behalf. Server Mania requires that these parties agree to process such information based on the Company’s instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures the Company deems necessary;</p>
-<p><b>c.</b> If Server Mania has a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues or (d) protect against harm to the rights, property or safety of Server Mania, its Subscribers or the public as required or permitted by law.</p>
+<h2 class="tac with-sub">Welcome to the ServerMania Inc. Privacy Notice</h2>
+<p>This Privacy Notice is designed to help you understand everything you need to know about the what, why and how’s of our data gathering and processing operations, and what your legal rights are.</p>
+<p>We hope you’ll take some time to read this document; we’ve tried to keep it all as simple as possible and we will keep you informed if there are any changes to the way we process your personal data in the future, before making them.</p>
+<p>ServerMania Inc. takes its responsibility of protecting your data very seriously and we do advise you get to know our practices – If there’s anything in this policy you don’t understand or if you want to ask any questions, please feel free to contact us using any of the details below.</p>
+<h5>Who are we?</h5>
+<p>We are ServerMania Inc., an Ontario Corporation registered in Ontario and Canada at 1040 S Service Rd, Suite 205, Stoney Creek, Ontario, L8E 6G3, Canada (Business Number 84561 0534 RC0001). In this document ServerMania Inc. will sometimes be referred to as “we”.
+</p>
+<p>
+Our representative in the EU for matters concerning data protection is EU GDPR Privacy Officers Ltd.
+<br> Our EU Representative can be contacted using any of the following details:
+<br> 34 Mila Rodina Str.
+<br> Sofia
+<br> Bulgaria
+<br> @: info@privacy-officers.eu
+</p>
+<h5>What kind of personal data might we ask you to provide?</h5>
+<p>ServerMania Inc. will only ever ask for personal data if it is required for a specific purpose; with that in mind we have created a full list of all the kinds of personal data that we may ask you to provide in order to achieve those purposes. The kinds of personal data we may collect are:
+</p>
+<div class="table-wrapper">
+<div class="grid table">
+<div class="head">Data subjects:</div>
+<div class="head">Data categories:</div>
+
+<div>Job applicant</div>
+<div>Name, address, telephone, email, work and education history, </div>
+
+<div>Customer / Client / End user </div>
+<div>Name, address, telephone, email, usernames, passport information, job title, IP address information, </div>
+
+<div>Subscriber / Prospect</div>
+<div>Name, telephone number, email, </div>
+
+<div>Professional contact / Agent / Reference / Vender</div>
+<div>Name, address, telephone, email, job title, </div>
+
+<div>Supplier</div>
+<div>Name, address, telephone, email, job title, </div>
+
+<div>Contractor / Sub-Contractor</div>
+<div>Name, address, telephone, email, bank details, tax information, passport details, work experience, education history, criminal background checks, driver’s license information, national identification documents,</div>
 </div>
-<p>If Server Mania becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, the Company will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.</p>
-<h5>Information Security</h5>
-<p>Server Mania takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include appropriate encryption and physical security measures to guard against unauthorized access to systems where the Company stores personal data.</p>
-<p>Server Mania restricts access to a Subscriber’s personal information to only those Server Mania employees, contractors and agents who need to know that information in order to process it on the Company’s behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.</p>
-<h5>Changes to this Privacy Policy</h5>
-<p>Server Mania will revise and update this Policy as it deems appropriate, including, for example, if its practices change or if changes in the law so require. Subscribers should refer back to this page periodically for the latest information.</p>
+</div>
+<h5>Why do we collect personal data?</h5>
+<p>We will use personal data firstly to fulfil any contractual obligations that exist between us and yourself; where we request personal data be provided to meet the terms of any such contract you will be required to provide the relevant personal data or we will not be able to deliver the goods and/or services you want. In such cases the lawful basis of us processing the personal data is that it is necessary for the performance of a contract.
+</p>
+<p>We may also process your personal data in accordance with our legitimate business interests; this is on the considered measure that we need the personal data to achieve the various purposes and that it could be reasonable for an individual to expect their data to be used for those purposes.
+</p>
+<p class="w-m">Our data processing activities conducted on the lawful basis of ‘legitimate interests’ are:</p>
+<ul>
+<li>To provide you with goods and services you are looking for</li>
+<li>To inform you of other goods and services we provide, or offers that may interest you (direct marketing)</li>
+<li>To send notifications on subjects you have subscribed to, or otherwise asked us to keep you informed of</li>
+<li>To improve the quality of the services we offer, and to better understand our customers’ needs by requesting feedback, or requesting you review the services we have provided, or we may send survey forms that we ask you to complete</li>
+<li>To notify you of any changes to the goods and/or services we provide, or have provided, that may affect you</li>
+<li>To allow us to understand the scale and range of our customer base; for statistical analysis and market research</li>
+<li>To recognise when customers re-engage with our services</li>
+<li>To allow us to support and maintain our products in active service</li>
+<li>To provide reference information to third party organisations where you request us to do so</li>
+<li>Improve website so content is delivered more efficiently</li>
+<li>To enhance the security measures in place that protect data we are responsible for</li>
+<li>To investigate any insurance claims</li>
+<li>To protect the company’s assets</li>
+</ul>
+<p class="w-m">We may also process your personal data in order for ServerMania Inc. to comply with our various legal obligations; this might include: </p>
+<ul>
+<li>Providing for financial commitments between us and yourself, or to relevant financial authorities</li>
+<li>Complying with industry regulatory requirements and any self-regulatory schemes</li>
+<li>Carrying out required business operations and due diligence; e.g. administration, security, reorganisations, investment or corporate/asset sales</li>
+<li>Cooperating with relevant authorities for reporting criminal activity, or to detect and prevent fraud</li>
+</ul>
+<h5>Where did we obtain your personal data?</h5>
+<p>Other than collecting data directly from you;</p>
+<p class="w-m">We may gather personal data from sources including:</p>
+<ul>
+<li>Technical sources that gather data over time when you visit our online platforms</li>
+<li>From third party organisations, which can mean your personal data has been provided directly by another company for a specific purpose, or where you may have accessed our platforms through a third party online service</li>
+<li>Local or national authorities provided for specific purposes</li>
+</ul>
+<p>If you would like more information about how ServerMania Inc. uses internet cookies please see our <a href="https://www.servermania.com/cookie-policy.htm">cookies policy </a></p>
+<h5>Who might we share your information with?</h5>
+<p>In order to achieve the above stated purposes for which we process your personal data, we may need to share your personal data with various third-party service providers who act as data processors.</p>
+<p>We may share your personal data with third party organisations acting as data controllers or with specific individuals, groups or other organisations who act as neither data controllers nor data processors, but only where we are either legally required to do so by law or where doing so is necessary to achieve the intended stated purpose of processing the data. For example, a contracted accounting partner used to prepare corporate financial taxes.</p>
+<p>In the event that we sell or reorganise our business, or if otherwise required by law or by an authorised regulator, we may transfer your personal data as a part of the general business data to the relevant parties.</p>
+<p>Submitting a complaint outside of Canada can be achieved by accessing your relevant data protection authority. A list of all EU data protection authorities can be found here: <a href="https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm">https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm</a></p>
+<h5>Where is my data going to be stored?</h5>
+<p>ServerMania Inc. as a part of its standard business practices may be required to transfer your personal data to countries outside the European Union (EU), or to organisations who intend to transfer the data outside the EU. Where such transfers of data take place, we shall ensure that at least one of the following control measures are in place: </p>
+<p>The data transfer is necessary in order to fulfil a contract between the data controller and you, or to satisfy pre-contractual requirements that have been requested by you</p>
+<p>Contracts are in place between the parties involved that ensure the recipient organisation has a suitable standard of data protection in place</p>
+<h5>How long will we keep your data for?</h5>
+<p>We will keep your personal data only for as long as required in order to achieve the purposes for which it was gathered, in line with this privacy notice.</p>
+<p>For determining when personal data should be erased we shall take into consideration the amount of and sensitivity of the personal data we have, the amount of harm that could be caused by a data breach, the benefits of the purposes the data is being used for and any legal requirements that we are bound to.</p>
+<p>You may request that we erase your personal data an anytime, though in cases where there is a remaining relevant or legal reason why we are required to keep the data we may opt to restrict the amount of processing being conducted to what is absolute necessary in line with your legal rights in order to minimise the impact the processing will have.</p>
+<p>Where the lawful basis of our processing is based on protection of vital interests and insofar any relevant health and safety obligations apply, ServerMania Inc. will retain your personal data for 40 years. </p>
+<h5>Your Rights, Our Responsibility</h5>
+<p>There are several rights granted to you immediately upon providing us with your personal information; some of these are mentioned above. We’d like you to know that at ServerMania Inc. we take your rights as a Natural Person seriously and will always conduct ourselves in a way that is considerate of our responsibility to serve your legal rights. </p>
+<p><b> You have the Right of Access </b>
+<br> This grants you the right to confirm whether or not your personal data is being processed, and to be provided with relevant details of what those processing operations are and what personal data of yours is being processed.
+<br> If you would like access to the personal data we have about you, we ask that you contact us by using any of the details below.</p>
+<p><b>The Right to Rectification</b>
+<br> This one is fairly straight forward; if you notice that the data we have about you is inaccurate or incomplete, you may request we rectify the mistake. We will make every effort to respond to requests of this type immediately.</p>
+<p><b>The Right to Objection</b>
+<br> The right to object is a basic freedom all democracies enjoy. If you wish to object to the way we use, or have used, your personal data you may do so freely.</p>
+<p><b>The Right to Portability</b>
+<br> This is a legal right afforded to you that states we must pass on all of the details you have provided to us in a machine-readable format, either to your or to another provider of your choosing. </p>
+<p><b>The Right to Complain</b>
+<br> We will always try to maintain the highest standards and encourage the confidence our customers have in us as an organisation. In order that we can achieve this we do request that any complaints be first brought to our attention so we can properly investigate matters; if however you would like to complain about ServerMania Inc. to a supervisory authority you may do so by contacting the Office of the Privacy Commissioner on (819) 994-5444, or anyone of the other reporting methods listed on their website - <a href="https://www.priv.gc.ca/">https://www.priv.gc.ca/</a> </p>
+<h5>Our contact details</h5>
+<p>If you wish to get in touch with ServerMania Inc. please do so with any of the following contact details of our Data Protection Officer:</p>
+<p>ServerMania Inc.
+<br>Attn: Data Protection Officer
+<br> 1040 S Service Rd, Suite 205
+<br> Stoney Creek, Ontario
+<br> L8E 6G3
+<br> Canada
+<br> T: <a onclick="location.href='tel:18885218535';return false;">1-888-521-8535</a>
+<br> @: <a onclick="location.href='mailto:compliance@servermania.com';return false;">compliance@servermania.com</a>
+</p>
 </div>
 </section>
 </div>
@@ -355,12 +474,12 @@ a.appendChild(r);
 <div class="upfooter">
 <div class="wrap grid">
 <div>
-<h5>Stay Connected!</h5>
+<p class="h5">Stay Connected!</p>
 <p>Enter your email to receive the latest
-<br> news, updates and offers from Servermania.</p>
+<br> news, updates and offers from ServerMania.</p>
 </div>
 <div>
-<h5>YOU CAN UNSUBSCRIBE AT ANY TIME</h5>
+<p class="h5">YOU CAN UNSUBSCRIBE AT ANY TIME</p>
 <form id="newsletter" @submit.prevent="executeRecaptcha">
 <div class="success-msg layer" :class="{active:success}">
 Thank you! You successfully subscribed to our newsletter.
@@ -373,11 +492,11 @@ Thank you! You successfully subscribed to our newsletter.
 </form>
 </div>
 <div>
-<h5>Call Us</h5>
+<p class="h5">Call Us</p>
 <b>1.888.237.6637</b>
 </div>
 <div>
-<h5>Connect with us</h5>
+<p class="h5">Connect with us</p>
 <i class="icon icon-facebook" onclick="location.href='http://www.facebook.com/servermaniainc';"></i>
 <i class="icon small icon-twitter" onclick="location.href='http://www.twitter.com/servermaniainc';"></i>
 <i class="icon small icon-linkedin" onclick="location.href='https://www.linkedin.com/company/2945883';"></i>
@@ -387,10 +506,11 @@ Thank you! You successfully subscribed to our newsletter.
 </div>
 <div class="top-footer">
 <div class="wrap tac">
-<p>Unit 2B, 560 Arvin Avenue Stoney Creek, Ontario Canada, L8E 5P1</p>
+<p>205-1040 South Service Road, Stoney Creek, Ontario, L8E 6G3, Canada</p>
 <div class="contacts">
 <p> Email: support@servermania.com</p>
-<p> Phone: 1-888-237-6637</p><br class="visible-sm">
+<p> Phone: 1-888-237-6637</p>
+<br class="visible-sm">
 <p> Support Hours: 24x7x365</p>
 <p> Sale Office Hours: M-F, 7AM-5PM EST</p>
 </div>
@@ -405,13 +525,23 @@ Thank you! You successfully subscribed to our newsletter.
 <li><a href="/aup.htm">Use Policy</a></li>
 <li><a href="/privacy-policy.htm">Privacy Policy</a></li>
 <li><a href="/sla.htm">SLA</a></li>
+<li><a href="/cookie-policy.htm">Cookie Policy</a></li>
+<li><a href="/data-requests.htm">Data Requests</a></li>
 </ul>
 </div>
 </div>
 <div id="footer_recaptcha"></div>
+<div :class="{active:!cookieBar.acceptedPolicy}" id="cookie-notification">
+<div class="wrap tac">
+<div class="main">ServerMania uses cookies to ensure you have the best experience on our website. <a href="https://www.servermania.com/privacy-policy.htm" class="privacy">Learn More</a>.
+</div>
+<a @click="setAccepted" class="btn btn-white">I ACCEPT</a>
+<div @click="setAccepted" class="close visible-md">×</div>
+</div>
+</div>
 </footer>
 <script src="https://calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script src="/theme29.js" type="text/javascript"></script><script src="/page388.js" type="text/javascript"></script>
+<script src="/theme29.js" type="text/javascript"></script><script src="/page519.js" type="text/javascript"></script>
 
 <script>
     var om58a220f11d193, om58a220f11d193_poll = function() {
