@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the speeddial2.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426223800id_/https%3A//speeddial2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speeddial2.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611153259id_/https%3A//speeddial2.com/privacy-policy) for the most accurate reproduction.*
 
-# Speed dial 2 - the best New tab page extension for Google Chrome
+# Privacy - Speed Dial 2
+
+Privacy policy of our website
 
 * * *
 
