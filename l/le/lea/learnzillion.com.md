@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnzillion.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218011251id_/https%3A//learnzillion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnzillion.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611142610id_/https%3A//learnzillion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LearnZillion
 
@@ -170,7 +170,7 @@ We endeavor to be fully compliant with the General Data Protection Regulation (G
 
 ###  Location of Data and Processing 
 
-This website is owned and operated by LearnZillion, located at 4001 Brandywine St NW Suite 500, Washington, DC 20016 . If you are located outside of the United States, please note that personal data will be processed in the cloud by our cloud service provider (currently Amazon Web Services), which offers sufficient guarantees to implement appropriate technical and organizational safeguards that meet the GDPR’s standards. We have a data processing agreement in place with our cloud service provider, ensuring compliance with the GDPR and, in the event of any unauthorized access to, or use of, personal data, the appropriate authorities will be notified.  All information is transmitted to us by our cloud service provider, will be processed in the United States, and will be handled and protected under the terms of this Privacy Policy and applicable U.S. laws, which may not be as protective as the laws in your country. By using the site, you agree to this. 
+This website is owned and operated by LearnZillion, located at 777 6th St NW, Floor 11, Washington DC 20001. If you are located outside of the United States, please note that personal data will be processed in the cloud by our cloud service provider (currently Amazon Web Services), which offers sufficient guarantees to implement appropriate technical and organizational safeguards that meet the GDPR’s standards. We have a data processing agreement in place with our cloud service provider, ensuring compliance with the GDPR and, in the event of any unauthorized access to, or use of, personal data, the appropriate authorities will be notified.  All information is transmitted to us by our cloud service provider, will be processed in the United States, and will be handled and protected under the terms of this Privacy Policy and applicable U.S. laws, which may not be as protective as the laws in your country. By using the site, you agree to this. 
 
 ###  Notice of Changes to This Policy 
 
