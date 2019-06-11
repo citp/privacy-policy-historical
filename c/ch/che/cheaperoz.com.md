@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheaperoz.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627174322id_/http%3A//www.cheaperoz.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaperoz.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611165649id_/http%3A//www.cheaperoz.com/info/privacy.html) for the most accurate reproduction.*
 
 # cheaperoz.com
 
