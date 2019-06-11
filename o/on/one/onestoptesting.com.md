@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestoptesting.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209035725id_/http%3A//www.onestoptesting.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestoptesting.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611101712id_/http%3A//www.onestoptesting.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
