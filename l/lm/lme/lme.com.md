@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lme.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004194844id_/https%3A//www.lme.com/en-GB/About/Legal/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lme.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611181145id_/https%3A//www.lme.com/About/Legal/Privacy-statement) for the most accurate reproduction.*
 
 # London Metal Exchange: Privacy statement
 
-**May 2018**
+**February 2019**
 
 **Information about our organisation and websites**
 
@@ -27,7 +27,7 @@ Information collected directly:
 
 Information we collect about you from third parties:
 
-\- Under the Exchange Membership Agreement, Clearing Membership Agreement and the member on-boarding processes, our members and prospective members may provide us with personal data of their clients, staff, Directors and shareholders – including name, address, e-mail address and phone number, job titles and responsibilities, other information set out in a CV, passports and national identification documents, financial information (bank statements and debit/credit card statements), utility bills and share certificates.   
+\- Under the Exchange Membership Agreement, Clearing Membership Agreement and the member on-boarding processes, our members and prospective members, and our members' clients and prospective clients, may provide us with personal data of their clients, staff, Directors and shareholders – including name, address, e-mail address and phone number, job titles and responsibilities, other information set out in a CV, passports and national identification documents, financial information (bank statements and debit/credit card statements), utility bills and share certificates.   
 \- In relation to our market data products, our licensees will provide us with information about end users (name, e-mail address and end user account number), in order for us to ensure that the terms of the licence are complied with and to track usage.   
 \- Our suppliers and warehouse companies also provide us with personal data about their staff (names and contact information) which we process as necessary to manage our relationship with the supplier and to ensure their suitability.  
 With regard to each of your visits to our site we may automatically collect the following information:  
@@ -92,10 +92,11 @@ The personal data we process will be shared as follows:
 \- with companies providing services to us which require the processing of personal data, such as training providers, insurance brokers, payment processors, identity verification and security providers, and IT hosting, IT platform and/or IT maintenance providers, marketing agencies, email management suppliers, and service providers which assist with our commercial and legal due diligence processes;  
 \- with our parent company, Hong Kong Exchanges and Clearing Limited and its group companies (“HKEX”), who store personal data on our behalf on shared servers;  
 \- with government authorities and/or law enforcement officials if required for the purposes above, if mandated by law or if required for the protection of our legitimate interests in compliance with applicable laws;   
-\- to the Bank of England, the Financial Conduct Authority and to other regulators as requested or required under applicable laws; and  
+\- to the Bank of England, the Financial Conduct Authority and to other regulators as requested or required under applicable laws;   
+\- if your personal data has been provided by a client or prospective client of our member, with designated clearing members and designated brokers to the extent such members or brokers are nominated by such client or prospective client; and  
 \- in the event that our business is sold or integrated with another business, your personal data may be disclosed to our advisers and any prospective purchaser's adviser and will be passed to the new owners of the business.
 
-Except where you have explicitly given us permission, we will not pass your details onto any other organisations (except as noted above) or publish them publically. Where you have requested us to pass on details to related organisations we will require them to comply with this privacy policy. 
+Except where you have explicitly given us permission, we will not pass your details onto any other organisations (except as noted above) or publish them publicly. Where you have requested us to pass on details to related organisations we will require them to comply with this privacy policy. 
 
 **International Transfers**
 
@@ -116,6 +117,8 @@ These rights may be limited, for example if fulfilling your request would reveal
 **Retention**
 
 We retain records related to actual or prospective: members, members’ clients, ISVs, warehouse operators, logistics firms, vendors, market data distributors, purchasers of market data and other products and services we provide, and any other key stakeholders, for an indefinite period of time, where such records are pertinent for the LME to ensure the orderly functioning of its markets. 
+
+Personal data relating to investment decision makers of our members' clients will be retained for as long as the relevant client is registered to use our services.
 
 Where we process personal data for marketing and client relationship management purposes or with your consent, and you remain an active user of our websites or services, we process the data until you ask us to stop and for a short period after this (to allow us to implement your requests). We also keep a record of the fact that you have asked us not to send you direct marketing or to process your data indefinitely so that we can respect your request in future. Where you cease to be an active user of our websites or services, we will retain your data used for marketing and client relationship management purposes for a period of two years from your last interaction with us.
 
@@ -140,7 +143,7 @@ If you have any questions or concerns about our privacy policy, please contact:
 By post: 10 Finsbury Square, London, EC2A 1AJ  
 Phone: +44 (0) 207 113 8888  
 Fax: +44 (0) 207 680 0505  
-[Email](mailto:uk.compliance@lme.com)
+[Email](mailto:privacy.officer@lme.com)
 
 **Singapore**
 
