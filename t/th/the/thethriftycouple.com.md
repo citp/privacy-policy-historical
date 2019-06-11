@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the thethriftycouple.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309071911id_/http%3A//thethriftycouple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thethriftycouple.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611104703id_/http%3A//thethriftycouple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fthethriftycouple.com%2Fprivacy-policy%2F&media=)
+
+##### Updated May 2018 for GDPR Compliance
+
+Know that our goal has been and continues to provide a safe haven for you as you search our site looking for encouragement along your own financial journey.  As you will see below, we only collect your email (when you offer it) to send emails you request.  You can see any other caveats below (e.g., IP address for reviewing trends in traffic) below.  We do not collect any additional personal information to allow you to maintain anonymity.
+
+Note that at this time we are disabling all signup forms that offer a free product in exchange for signing up for a newsletter for any requests coming from the European Union.  This uses geo-location tools and may not be perfect but it is our best attempt at this time to be compliant with GDPR regulations.  Please note that we intend to re-enable those as soon as we can find a sufficiently compliant way to implement those forms with our tools.  The pop-up form at the top of the page that occasionally loads will remain as it explicitly asks for your email address to sign up for our newsletter, which our understanding is that is compliant with GDPR laws.
+
+We do ask that you [contact us](https://thethriftycouple.com/contact-us/) with any concerns you might have.  We run this site very frugally (possibly too much so at times) and without as much return on our investment as many sites like ours.  Our goal is to provide a ministry and help to those that request it and we attempt to be consistent by to our mission by not charging unnecessary or extravagant amounts to access our site; honestly the bulk majority of the time it is free.  As such, we hope that you respect us as much as we respect you and ask that you would privately work with us to improve our site first before any other recourse is taken.  We believe you will find us eager to update anything we have unintentionally missed to improve your user experience moving forward. 
 
 ##### Your Privacy
 
@@ -20,7 +28,7 @@ A “cookie” is a small snippet of text that is stored on your web browser.  
 
 When accessing our site, small bits of information such as the IP address used to access the site will be logged along with the dates and times of access may be collected.  This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use.
 
-This privacy policy sets out how The Thrifty Couple LLC. uses and protects any information that you give while using www.TheTheThriftyCouple.com
+This privacy policy sets out how The Thrifty Couple LLC. uses and protects any information that you give while using TheTheThriftyCouple.com
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
