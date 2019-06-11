@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climaterealityproject.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231051818id_/https%3A//www.climaterealityproject.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climaterealityproject.org privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612002026id_/https%3A//www.climaterealityproject.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Climate Reality
 
@@ -552,19 +552,20 @@ You can email your request to us: [GDPRprivacy@climatereality.com](mailto:gdprpr
 
 You can ask us to stop using your personal information, but only in certain cases. 
 
-How to contact us 
+**How to contact us**
 
-If you have any questions about this policy please contact: [GDPRprivacy@climatereality.com](mailto:gdprprivacy@climatereality.com) or +1.202.567.6800 or 750 9th Street, NW, Suite 520, Washington, DC 20001, USA. 
+If you have any questions about this policy please contact: [GDPRprivacy@climatereality.com](mailto:gdprprivacy@climatereality.com) or +1.202.567.6800 or555 11th Street NW, Suite 601  
+Washington, DC 20004, USA. 
 
-Changes to the policy 
+**Changes to the policy**
 
 This policy will be changed from time to time. 
 
 If we change anything important about this policy (the information we collect, how we use it or why) we will highlight those changes at the top of the policy and provide a prominent link to it for a reasonable length of time following the change. This is the first version of this policy. Once we update it, you can email us for previous versions at the following email address: [GDPRprivacy@climatereality.com](mailto:gdprprivacy@climatereality.com). 
 
-Other policies 
+**Other policies**
 
-Donor Privacy Policy 
+**Donor Privacy Policy**
 
 Rules apply to donations to 501(c)(3) non-profit organizations like Climate Reality, and we strive to have a transparent and accountable [Donor Privacy Policy.](https://www.climaterealityproject.org/us-privacy-policy#donorpolicy)
 
