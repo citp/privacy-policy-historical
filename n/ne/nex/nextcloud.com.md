@@ -1,18 +1,24 @@
-> *The following text is extracted and transformed from the nextcloud.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922160332id_/https%3A//nextcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextcloud.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611180958id_/https%3A//nextcloud.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Nextcloud
 
+## Introduction and summary
+
 We recognize that privacy is extremely important to all visitors to our website. We do not share any individual information with anybody without your permission.
 
-We use the open source [Matomo (the former Piwik)](http://matomo.org/) tool to get information on how our website is used and use [phplist](https://www.phplist.com/) to handle our newsletters. We use the open source marketing automation tool [Mautic](https://mautic.com/) to track business users that did download resources like white papers or participate in webinars. From neither will we hand over individual data to anybody else and any privacy breaches we will disclose as soon as possible. Our [security scanner](https://scan.nextcloud.com/) is strictly based on publicly available information, that is the list of known vulnerabilities relevant for ownCloud/Nextcloud releases as well as any applied hardenings/settings we can scan without having access to the server. Last but not least, on [help.nextcloud.com](https://scan.nextcloud.com/) we run the open source [discourse](https://discourse.org/) software. This platform is meant for home users and home user questions! As enterprise visitor, please use [our support portal](https://portal.nextcloud.com/). If you still use the forums, expect that we reach out to you at some point.
+**To download a whitepaper** , you have to enter your email address. Unless you **opt in** for more information, we _immediately delete your mail address_ from our database after sending the whitepaper.
 
-Our website embeds content, like YouTube videos, ReChelp.nextcloud.comaptcha captchas and others. We don't share any of your data with the parties behind them, however, they can gather some information when you watch a video or click the captcha.
+**Our website** ocasionally embeds content, like YouTube videos (behind a click-through wall) and others. We don't share any of your data with the parties behind them, however, they can gather some information when you watch a video or click the captcha. We are always looking for ways to decrease data sharing here and input is welcome.
 
-Please note that [nextcloud.com/news](https://nextcloud.com/news) aggregates community blogs and we can not be held responsible for their opinions or content.
+**For traking and marketing automation** we use the open source [Matomo (the former Piwik)](http://matomo.org/) tool to get information on how our website is used and use [phplist](https://www.phplist.com/) to handle our newsletters. We use the open source marketing automation tool [Mautic](https://mautic.com/) to track business users that did download resources like white papers or participate in webinars _and who did opt-in explicitly_. From neither will we hand over individual data to anybody else and any privacy breaches we will disclose as soon as possible. We also delete, anonymize and remove data regularly.
 
-Our software, be it the Nextcloud server or the Android or iOS apps, do not sent any user data to us. The optional Usage Survey app can sent usage statistics like installed apps to us to help us improve our service. You can review and approve the data before it is sent. We store the data aggregated and not per user, so a theft of our data can not be used to get any information about any specific installation. The Updater app, if enabled, sends Nextcloud version, PHP version, install time and the channel it wants to the Nextcloud updater server to receive update information. We store the install time to track statistics, all other data is discarded right away.
+**Our[security scanner](https://scan.nextcloud.com/)** is strictly based on publicly available information, that is the list of known vulnerabilities relevant for ownCloud/Nextcloud releases as well as any applied hardenings/settings we can scan without having access to the server. We only scan on-demand and store the results for a limited time.
 
-We can not take any responsibility for third-party apps and the data they store or sent about users. We do have a policy in our app store against abusing private data and any app that is found to be in violation is removed and its author banned. However, we do not have the ability to check all code of all third party applications and thus we recommend you are careful when installing third party apps.
+**Our forums** on [help.nextcloud.com](https://scan.nextcloud.com/) runs the open source [discourse](https://discourse.org/) software. This is self-hosted and we do not share, disclose or otherwise distribute any data from it. You can disable your own account there if you need to. Note that this platform is meant for home users and home user questions! As enterprise visitor, please use [our support portal](https://portal.nextcloud.com/). If you still use the forums, expect that we reach out to you at some point.
+
+**Our software** , be it the Nextcloud server or the Android or iOS apps, are designed to not sent any user data to us. The optional Usage Survey app can sent usage statistics like installed apps to us to help us improve our service. You can review and approve the data before it is sent. We store the data aggregated and not per user, so a theft of our data can not be used to get any information about any specific installation. The Updater app, if enabled, sends Nextcloud version, PHP version, install time and the channel it wants to the Nextcloud updater server to receive update information. We store the install time and version on the instance to track statistics, all other data is discarded right away.
+
+**With regards to third party apps:** we can not take any responsibility for third-party apps and the data they store or sent about users. We do have a policy in our app store against abusing private data and any app that is found to be in violation is removed and its author banned. However, we do not have the ability to check all code of all third party applications and thus we recommend you are careful when installing third party apps.
 
 If you see any problems, please report it to [abuse@nextcloud.com](mailto:abuse@nextcloud.com).
 
@@ -30,7 +36,7 @@ nextcloud.com also collects potentially personally-identifying information like 
 
 We honour the do-not-track directive. nextcloud.com won't track anything if this is enabled.
 
-Furthermore, our website visit statistics tool Mamoto is configured to anonymize visitors' IP addresses data by not storing the last digits of all IP addresses.
+Furthermore, our website visit statistics tool Mamoto is configured to anonymize visitors' IP addresses data by not storing the last digits of all IP addresses. 
 
 When registering or submitting a form on our site, as appropriate, you may be asked to enter your name, email address, phone number or other details. See below on what happens with that data.
 
@@ -58,7 +64,7 @@ We may use the information we collect from you when you register, sign up for ou
 
 We use the open source [Mautic marketing automation tool.](https://mautic.org/) This is used for actions like emailing a whitepaper to people who entered their email address to receive it. If you enter an email address on our site, you agree with that (otherwise we can't sent you that white paper either). We might sent follow-up emails (like a reminder if you didn't download the white paper, or a notification of a new white paper), from which you can opt-out on the bottom of the emails.
 
-In line with our business strategy of not monetizing home and small business users but aim for large enterprises, our goal is to ONLY track employees of companies using their work email. We try to drop all home/private users from the database as soon as we find out they are private users, of course after we have sent them the white paper they asked for. For example, we remove contacts with an @gmail or @icloud address and keep obviously business related addresses (@acme @example-ltd @placeholder-corp.com). For those we then might follow up on a End-to-end Encryption white paper download a week later with an offer to download our Server-side Encryption white paper; or sent a follow-up email suggesting to read a new blog about encryption we wrote. Our goal is to keep potential customers informed and help them in their journey to become a Nextcloud user and customer, without bothering others.
+In line with our business strategy of not monetizing home and small business users but aim for large enterprises, our goal is to ONLY track employees of companies using their work email. We try to drop all home/private users from the database as soon as we find out they are private users, of course after we have sent them the white paper they asked for. For example, we remove contacts with an @gmail or @icloud address and keep obviously business related addresses (@acme @example-ltd @placeholder-corp.com). For those we then might follow up on a End-to-end Encryption white paper download a week later with an offer to download our Server-side Encryption white paper; or sent a follow-up email suggesting to read a new blog about encryption we wrote. Our goal is to keep potential customers informed and help them in their journey to become a Nextcloud user and customer, without bothering others. 
 
 Of course, you can opt-out of any emails using the unsubscribe link on the bottom of these emails. Note that you then don't get any emails from Mautic anymore: also not if you enter your mail again to get a white paper!
 
@@ -135,8 +141,8 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 ### We collect your email address in order to:
 
-* Send information, respond to inquiries, and/or other requests or questions.
-* Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+* Send information, respond to inquiries, and/or other requests or questions. 
+* Market to our mailing list or continue to send emails to our clients after the original transaction has occurred. 
 
 ### To be in accordance with CANSPAM we agree to the following:
 
@@ -182,4 +188,4 @@ Frank Karlitschek
 
 All product names and trademarks are the property of their respective owners, which might in no way be associated or affiliated with Nextcloud.
 
-Last Edited on 2018-05-29
+Last Edited on 2019-05-15
