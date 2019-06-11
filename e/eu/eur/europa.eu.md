@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the europa.eu privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231012121id_/https%3A//europa.eu/european-union/abouteuropa/privacy-policy_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europa.eu privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611175527id_/https%3A//europa.eu/european-union/abouteuropa/privacy-policy_en) for the most accurate reproduction.*
 
-# Privacy policy - EUROPA | European Union
+# Privacy policy | European Union
 
 ## Personal data protection
 
@@ -53,7 +53,7 @@ By default, visitors to the Europa top-level pages are tracked using first-party
 
 You may choose not to be tracked by Piwik (opt-out). If you change your mind, you can choose to be tracked again by Piwik (opt-in).
 
-The European Commission manages its own web pages (ec.europa.eu). Visit the [legal notice page](https://ec.europa.eu/info/legal-notice_en) to opt out from being tracked on these pages.
+The European Commission manages its own web pages (ec.europa.eu). Visit the [privacy policy](https://ec.europa.eu/info/privacy-policy_en) page to opt out from being tracked on these pages.
 
 EU institutions and bodies other than the European Commission (i.e. European Parliament) currently use their own Analytics system. Visit their legal notice page for more information.
 
