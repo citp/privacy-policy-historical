@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optinmonster.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005012929id_/http%3A//optinmonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optinmonster.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611143715id_/https%3A//optinmonster.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - OptinMonster
 
 Your privacy is very important to us. At OptinMonster we have a few fundamental principles that we follow:
 
@@ -12,23 +12,23 @@ Your privacy is very important to us. At OptinMonster we have a few fundamental 
 
 Retyp LLC (“Retyp”) operates several websites including optinmonster.com. It is Retyp’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-**Website Visitors**
+ **Website Visitors**
 
 Like most website operators, Retyp collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Retyp’s purpose in collecting non-personally identifying information is to better understand how Retyp’s visitors use its website. From time to time, Retyp may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
 Retyp also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our blogs. Retyp only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-**Gathering of Personally-Identifying Information**
+ **Gathering of Personally-Identifying Information**
 
 Certain visitors to Retyp’s websites choose to interact with Retyp in ways that require Retyp to gather personally-identifying information. The amount and type of information that Retyp gathers depends on the nature of the interaction. For example, we ask visitors who comment on our blog to provide a username and email address. Those who wish to receive OptinMonster updates via email, we collect their emails. For example, when you to sign up for an account, we ask for personal information, like your name, email address, telephone number or credit card to store with your account. When visitors comment on our blog, we ask them to provide a username and email address. For those who wish to receive OptinMonster updates via email, we collect their emails.
 
 In each case, Retyp collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Retyp. Retyp does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-**Aggregated Statistics**
+ **Aggregated Statistics**
 
 Retyp may collect statistics about the behavior of visitors to its websites. For instance, Retyp may monitor the most popular pages on the optinmonster.com site or use spam screened by the Akismet service to help identify spam. Retyp may display this information publicly or provide it to others. However, Retyp does not disclose personally-identifying information other than as described below.
 
-**Information We Share**
+ **Information We Share**
 
 Retyp discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Retyp’s behalf or to provide services available at Retyp’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Retyp’s websites, you consent to the transfer of such information to them.
 
@@ -42,7 +42,7 @@ If you send us a request (for example via a support email or via one of our feed
 
 Retyp takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information, as discussed below.
 
-**Information Security**
+ **Information Security**
 
 We work hard to protect our users from unauthorized access to or unauthorized alteration, disclosure, or destruction of information we hold, in particular:
 
@@ -52,39 +52,39 @@ We work hard to protect our users from unauthorized access to or unauthorized al
 
 
 
-**Cookies**
+ **Cookies**
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Retyp uses cookies to help Retyp identify and track visitors, their usage of Retyp website, and their website access preferences. Retyp visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Retyp’s websites, with the drawback that certain features of Retyp’s websites may not function properly without the aid of cookies.
 
-**Business Transfers**
+ **Business Transfers**
 
 If Retyp, or substantially all of its assets were acquired, or in the unlikely event that Retyp goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Retyp may continue to use your personal information as set forth in this policy.
 
-**Ads**
+ **Ads**
 
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Retyp and does not cover the use of cookies by any advertisers.
 
-**Comments**
+ **Comments**
 
-Comments and other content submitted to Disqus anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
+Comments and other content submitted to Akismet anti-spam service are saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
-**Google Analytics**
+ **Google Analytics**
 
 Retyp uses Google Analytics in its application. Campaign analytics are tracked through Google Analytics for our clients. Retyp utilizes the Google Analytics Reporting API to gather analytics about your campaigns and present them in an actionable way via charts and conversion statistics. Retyp discloses client Google Analytics information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Retyp’s behalf or to provide the services available at Retyp’s websites.
 
-**When this Privacy Policy Applies**
+ **When this Privacy Policy Applies**
 
 Our Privacy Policy applies to all of the services offered by Retyp and its affiliates, including services Retyp provides on mobile devices, and services offered on other sites, but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 
 Our Privacy Policy does not apply to services offered by other companies or individuals, including other sites linked to our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags, and other technologies to serve and offer relevant ads.
 
-**Compliance and cooperation with regulatory authorities**
+ **Compliance and cooperation with regulatory authorities**
 
 We regularly review our compliance with our Privacy Policy. We also adhere to several self-regulatory frameworks. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
 
-**Privacy Policy Changes**
+ **Privacy Policy Changes**
 
 Although most changes are likely to be minor, Retyp may change its Privacy Policy from time to time, and in Retyp’s sole discretion. Retyp encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-_Contact_  
-If you have any questions regarding this Privacy Policy, or your dealings with our website, please contact us by clicking [here](http://optinmonster.com/contact-us/ "Contact Us").
+ _Contact_  
+If you have any questions regarding this Privacy Policy, or your dealings with our website, please contact us by clicking [here](https://optinmonster.com/contact-us/ "Contact Us").
