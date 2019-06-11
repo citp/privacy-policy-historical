@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320045419id_/https%3A//adelaidemetro.com.au/Terms-and-Conditions%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611130726id_/https%3A//adelaidemetro.com.au/Terms-and-Conditions%23Privacy) for the most accurate reproduction.*
 
 # Adelaide Metro - Terms and Conditions
 
@@ -68,7 +68,22 @@ Whenever you visit our web site, our internet service providers (ISP’s) automa
 
 This information does not identify you personally. No attempt is made to identify you except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect our service provider's logs. 
 
-Periodically we use independent measurement and research companies to gather non-personal information regarding the visitors to our website on our behalf using cookies, log file data and code which is embedded on our website. 
+**metroMate App**
+
+Anonymously collects statistics and information on: 
+
+  * Destinations
+  * Routes
+  * Rate my ride feedback
+  * Places searches
+  * Stops
+  * Journeys
+
+
+
+The app does not collect any of your location data or track you. 
+
+Periodically we use independent measurement and research companies to gather non-personal information regarding the visitors to our website on our behalf using cookies, log file data and code which is embedded on our website and metroMate app. 
 
 These statistics tell us how our site is being used and helps us improve it to make your visit useful, informative and enjoyable. 
 
@@ -82,7 +97,7 @@ The use of cookies in this way is widespread and commonly accepted by the Intern
 
 ### Personal information you submit
 
-Adelaide Metro will record your name, email address and phone number if you send us a message or you include it in an online form. It will only be used to send you a reply and not added to a mailing list or used for any other purpose without your consent. 
+Adelaide Metro will record your name, email address and phone number if you send us a message or you include it in an online form or via the metroMate app. It will only be used to send you a reply and not added to a mailing list or used for any other purpose without your consent. 
 
 Your name, email address and phone number is stored in a secure area and only forwarded to appropriate staff so they can answer your question. 
 
@@ -94,7 +109,7 @@ My Metro allows you to save your favourite timetables, trips, stops and receive 
 
 Adelaide Metro will record your email address and your mobile phone number and any travel information you submit when you register for “My Metro”. This information will only be used for the purpose of notifying you of public transport service changes. 
 
-When you choose to receive special offers, promotions and new development information we will use your mobile phone number or email address for the purpose of notifying you of these offers. You can un-subscribe or  change your preferences at any time from your account. 
+When you choose to receive special offers, promotions and new development information we will use your mobile phone number or email address for the purpose of notifying you of these offers. You can un-subscribe or change your preferences at any time from your account. 
 
 Adelaide Metro may use this information to conduct research and in the improvement of service to customers. Information you provide may be disclosed to our service providers to provide you with the information you have requested but will not be disclosed for any other purpose without your consent. 
 
@@ -110,7 +125,7 @@ If you do not wish to transmit the required details electronically you can [cont
 
 ##### **Other websites**
 
-This privacy statement covers only the Adelaide Metro web site and Adelaide Metro web based services. Our privacy policies do not apply to any other sites, even when we have provided you with a direct link. We recommend that you check the privacy statements of other web sites. 
+This privacy statement covers only the Adelaide Metro web site and Adelaide Metro web based services and our metroMate app. Our privacy policies do not apply to any other sites, even when we have provided you with a direct link. We recommend that you check the privacy statements of other web sites. 
 
 ##### **Privacy guidelines**
 
