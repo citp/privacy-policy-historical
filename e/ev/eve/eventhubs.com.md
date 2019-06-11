@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventhubs.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231113734id_/https%3A//www.eventhubs.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventhubs.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611164833id_/https%3A//www.eventhubs.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy -- EventHubs.com
 
@@ -28,6 +28,6 @@ Payments made for a subscription are handled through PayPal. The information sto
 
 We use Google Analytics and Quantcast to track web traffic across EventHubs. We also use Google's RECAPTCHA service to prevent fraudulent accounts from being created, and to help prevent spam attacks. You can find the privacy policies for both companies below.
 
-[Google Privacy Policy](https://policies.google.com/privacy?hl=en)
+[Google Privacy Policy](https://policies.google.com/technologies/partner-sites)
 
 [Quancast Privacy Policy](https://www.quantcast.com/privacy/)
