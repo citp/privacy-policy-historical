@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godtv.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209094514id_/https%3A//www.god.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godtv.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611214217id_/https%3A//www.god.tv/privacy-policy) for the most accurate reproduction.*
 
 # GOD TV
 
