@@ -1,82 +1,438 @@
-> *The following text is extracted and transformed from the duplichecker.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609100551id_/http%3A//www.duplichecker.com/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duplichecker.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611173730id_/https%3A//www.duplichecker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Security at Duplichecker.com
 
-The contents of this page are divided in the following heads: 
+### What is the scope of this DupliChecker.com Privacy Policy?
 
-  1. Introduction
-  2. Information that **DUPLICHECKER.COM** will collect from you
-  3. How **DUPLICHECKER.COM** will use, control and protect your personal information
-  4. Security assurance
+This Privacy Policy is integrated into DupliChecker.com's Terms of Service and License Agreement which can be found at https://www.duplichecker.com/pages/privacy-policy (the "Terms of Service") and relates to the information acquired by us through your use of DupliChecker.com's Site, Software, App, and Services ("Information") as explained in this Policy. The use of capitalized terms in this Policy and not otherwise stated shall have the definition given for those terms in the "Terms of Service". 
 
+### What Information does DupliChecker.com collect about me?
 
+Whenever a client interacts with our Software, App, Site, and/or Services, we may collect a single Information or in combination with other data, could be used to identify you ("Personal Data"). There will also be some Information that we collect that is kept in a way that cannot be linked back to you ("Non-Personal Data"). 
 
-**_Introduction:_**
+### Data you provide us whenever you create an account
 
-The objective of this privacy policy is to make you understand how **DUPLICHECKER.COM** shall use, protect and safeguard any of the information that will be provided to **DUPLICHECKER.COM** when you will be using this website. 
+When you register to use DupliChecker.com services, you willingly share with us certain Personal Data, including the following: 
 
-**DUPLICHECKER.COM** provides you the complete assurance of the fortification of your data. If we demand your information on any page of this website, it will be processed and used by us in accordance with the given statements mentioned in this Privacy Policy
+Your email address, username, contact, and language preferences. When logging into DupliChecker.com with a social networking credential, such as with your Google+ or Facebook account, we will ask for your consent to access basic information from that account, such as your email address and name. If you want to stop sharing that information with us, you may do so at any time by removing DupliChecker.com access to that account. 
 
-_Please keep a regular check at our Privacy Policy to review any time to time changes that might be made in it._
+If you are a paying client, you should provide your payment information. This is needed to fully deliver any marketable transaction on the DupliChecker.com site. We use the data to process and fulfill your transaction. If you select PayPal® to pay for your order, you will have to provide your credit card number directly to PayPal®. The privacy policy of PayPal® will apply to the information you provide on the PayPal® website. 
 
-Any further questions and comments that you may have in reference to our privacy policy should be mailed to us at the following e-mail address: 
+### What other Information we collect from you?
 
-**info@contentarcade.com**
+DupliChecker.com collect this Information as you use the Site, Software, App, and/or Services: 
 
-**_Information that DUPLICHECKER.COM will collect from you:_** __
+**_User Content:_** This includes all text, documents, or other content or information uploaded, entered, or otherwise transferred by you as part of your use of our Services and/or Software. 
 
-The information that we may collect from you will be pertaining to all or some of the following points:
+### What information is automatically collected?
 
-Name  
-Title of your profession/job  
-Email address  
-Postal Code number  
-Contact number  
-Any details that you might want to add
+There is certain information about the devices you use to connect with DupliChecker.com and your use of the Site, Software, App, and/or Services are automatically registered in our systems, including the following: 
 
-You might also sign up for an account on our website. In that case, we might need your name, user name, Email, password, description about yourself and gender verification
+**_Your location:_** This is the geographic area or place where you use your devices such as your computer, cellphone or tablet (as specified by an Internet Protocol [IP] address or similar identifier) when interacting with our Site, Software, App, and/or Services. 
 
-**_How DUPLICHECKER.COM will use, share, control and protect your personal information:_**
+**_Your log data or information:_** Same like other websites, our servers automatically gather data when you access or use our Site, Software, App, and/or Services and store it in log files. This log data may include your IP address, browser type and settings, browser configuration, the date and time of use, cookie data, and language preferences. 
 
-The information that will be gathered from you will be used in one, few or all of the following ways:
+**_Your usage information:_** This is information about the DupliChecker.com Site, Software, App, and/or Services you use and how you use them. We may also attain data from our third-party affiliates and service providers to examine how consumers use our Site, Software, App, and/or Services. For example, we will have an idea on the number of users who are accessing a specific page on the site and at which links they normally clicked on. We will use this collected data to better understand and to help in optimizing the site. 
 
-  1. For our internal record keeping 
-  2. **DUPLICHECKER.COM** strives to improve customer services and website experience. In this case, your feedback is essential. Here, the information provided by you will be used. 
-  3. To keep you updated with the latest endorsements and changes being done on our website
+**_Your device information:_** These are data gathered from your computer or mobile device which include the type of hardware and software you are using (such as your operating system and browser type), and also unique device identifiers for devices that are using the DupliChecker.com. 
 
+**_Cookies:_** Data gathered from cookies are explained in the "Does DupliChecker.com use cookies?" section and in our Cookie Policy. 
 
+### When does DupliChecker.com collect information?
 
-**DUPLICHECKER.COM** assures you that it will not disclose/share/rent any of your personal information to third parties. However, this rule does not apply on those third party links that are trusted and are operating our website. We may disclose information about our marketing, the number of visitors on our website and our advertisers but this may not in any case reveal any of the personal information that has been gathered from you. 
+We collect information from you when you fill out a form, subscribe to a newsletter, place an order, use live chat, open a support ticket, and/or enter any information on our site. 
 
-For protecting your personal information, **DUPLICHECKER.COM** puts into operation, many physical and electronic barriers which hinder it impossible for any external source to have access to your information. 
+### How does DupliChecker.com use my Information?
 
-The information which does not have your personal details mentioned in it can be disclosed to other websites for advertising and marketing purposes. 
+We at DupliChecker.com process, use, and record your Information as necessary to be able to carry out our contract with you and for our legitimate business interests, including the following: 
 
-**DUPLICHECKER.COM** also logs your I.P address. The reason behind this is that it assists us in recognizing and collecting demographic information. We assure you that __your I.P. address will not be linked to your personal information in any case.__
-
-_Cookies:_
-
-  1. Cookies are bits of information that are transferred to your hard drive to store (and sometimes track) information about you
-  2. While most browsers have cookies enabled in them, you can disable them manually if you want. 
-  3. They are designed by one server and are limited to that particular server only. So, your information cannot be accessed by any other servers. 
-  4. Cookies DO NOT identify customers, passwords, credit card information
+  * to communicate and build a connection with you about your use of our Site, Software, and/or Services, our product and service announcements, software updates if any, and to be able to give feedback to your requests for assistance which includes providing you with account verification support in the event that you are having problems with accessing your account or to follow up with you after correspondence. 
+  * to help us manage our Site, Software, App, and/or Services, validate users for security purposes, offer tailored user features and access, process and deliver transactions, conduct reviews and study, develop upcoming features, and improve the algorithms and performance of our Site, Software, App, and/or Services. 
+  * to send you direct email notifications and special offers about DupliChecker.com services, from which you can unsubscribe at any time you desire. For more details about this, kindly go this section - "Will DupliChecker.com send me emails?" If you are someone that resides in the European Economic Area (EEA), we will only send you promotional materials if you permit us to do so from the time you create your account or any point thereafter. 
+  * to determine cumulative statistics on the quantity of unique devices using our Site, Software, App, and/or Services, and to identify and prevent misuse and fraud. 
+  * To process your transactions quickly 
+  * to show User Content related with your account and to ensure that it is accessible to you when you use our Services. 
 
 
 
-_Why_ **DUPLICHECKER.COM** _uses cookies?_
+### Does DupliChecker.com analyze User Content?
 
-  1. To identify who the person is and to access his/her information 
-  2. To ensure that one person is not registered twice
-  3. To estimate the traffic on our website
-  4. To check how often, one particular page is accessed
-  5. To update our website. **__**
+We guarantee that DupliChecker.com employees do not monitor all User Content that are stored in or transmitted through our Site, Software, App, and/or Services, but it may be viewed if we found out that the Terms of Service have been violated and an authorization is required, if we find it necessary to do so answer your requests for user support, if we otherwise decide that there is a need to review it as defined in the Terms of Service, or to enhance our algorithms as stated in the User Content section of our Terms of Service. Lastly, your Information may be viewed where there is a need to protect the rights, property, or personal safety of DupliChecker.com and its users, or to conform with our legal obligations, such as responding to any legal processed like warrants and court orders. 
+
+### Right to use Data and Disclosure
+
+**Does DupliChecker.com ever share my Information?**
+
+DupliChecker.com only disclose Personal Data to third parties when: 
+
+  * We work with service providers who help us in fulfilling business operation's requirements, these include hosting, improving, and carrying our Services. We also use service providers for specific services and functions such as customer support services, email communication, and analytics. These service providers may only access, process, or record Personal Data in accordance to our instructions and to accomplish their duties to us. 
+  * We have your permission to share your Personal Data. 
+  * We believe it is important to investigate possible violations of the Terms of Service, to implement those Terms of Service, or where we believe it is necessary to probe or take action regarding unlawful activities, suspected fraud, or potential threats against property, persons, or the methods on which we operate our Site, Software, App, and/or Services. 
+  * We ascertain that the preservation, access, or disclosure of your Personal Data is mandatory by law to safeguard the rights, property, or personal safety of DupliChecker.com and the users of our Site, Software, App, and/or Services, or to respond to lawful requests by any public authorities. 
+  * We need to do so in relation with an acquisition, merger, reorganization, bankruptcy, public offering of securities, selling of some or all of our assets. In such cases some or all of your Personal Data may be transferred or shared with another entity, subject to this Privacy Policy. 
+  * We may impart or disclose Non-Personal Data to third parties and publicly - for example, to affiliates under agreement with us, or as part of progress reports which we may provide to users. 
 
 
 
-**_Security Assurance_**
+###  Does DupliChecker.com get profit for my Personal Data by selling them? 
 
-With the best barriers setup to keep your information secured, **DUPLICHECKER.COM** makes sure not to disclose any of your personal information. We give surety that we will not sell, distribute or lease any of your provided personal information unless we are not granted your personal permission or it is required by the law. 
+No, DupliChecker.com does not sell or rent your Personal Data. 
 
-Under the Data Protection Act of 1998, you are authorized to request the details of your personal information. 
+### Does DupliChecker.com use cookies?
 
-If you would like to have a review of the details of your personal information, you may write to us at **info@contentarcade.com**
+Cookies are used by web browsers to provide personalized content and remember login credential and account settings. DupliChecker.com uses cookies and similar technologies, including web beacons and tracking pixels. These are needed to collect usage and analytic data that helps us provide our Site, Software, App, and/or Services to you and also to aid in delivering ads for relevant DupliChecker.com products and services to you when you browse certain pages on the Site and then go to third-party sites. DupliChecker.com does not share your Personal Data with third parties for the purpose of allowing them to deliver their advertisements to you. For more information on cookies and how DupliChecker.com uses them, please see our Cookie Policy. 
+
+**We use cookies to:**
+
+  * Help remember and process the items in the shopping cart. 
+  * Understand and save preferences of users for future visits. 
+  * Track & analyze our user's activity, so we can offer a better experience. 
+
+
+
+You can choose to turn off all cookies, or you can choose to have your computer warn you whenever a cookie is being sent. This can be done through your browser settings. Since every browser is different, go to your browser's Help Menu to learn how you can correctly modify cookies. If you choose to turn cookies off, some of the features may not function properly. 
+
+**_Third-party Disclosure_**
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information. 
+
+**_Third-party Links_**
+
+  * We use third-party links in our Blog Posts to help improve the content for our readers. 
+  * We use third-party links in our Privacy Policy page in order to guide our visitors how we handle PII and cookies. 
+
+
+
+Please be aware that we cannot guarantee the authenticity of any external links that you may visit. It is recommended that you always do your own research before visiting any third-party link. 
+
+**_Google_**
+
+We use Google Adsense Advertising on our Site, App, and/or software. Google's Advertising Principles can sum up Google's advertising requirements. They are introduced to provide a better experience for users. 
+
+For further information visit:   
+https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+
+As a third-party vendor, Google makes use of cookies to serve ads on our Site, App, and/or Software. Google's use of the DART cookie enables it to serve ads to our users on the basis of their previous visits to our Site, Software, App, and Services and other sites. If you want to opt-out of the use of the DART cookie, you can do so by visiting the privacy policy of Google Ad and Content Network. 
+
+### Cookies that we use
+
+**Origin**
+
+| 
+
+**Cookie**
+
+| 
+
+**Description**
+
+| 
+
+**Expiry**
+
+| 
+
+**Category**  
+  
+---|---|---|---|---  
+  
+CloudFlare 
+
+| 
+
+__cfduid 
+
+| 
+
+The '__cfduid' cookie is set by the CloudFlare service to identify trusted web traffic. It does not correspond to any user id in the web application, nor does the cookie store any personally identifiable information.   
+https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-CloudFlare-cfduid-cookie-do- 
+
+| 
+
+First Party   
+Persistent 
+
+| 
+
+Analytics & Marketing   
+  
+Google Analytics 
+
+| 
+
+_gid 
+
+| 
+
+Used to distinguish users. 
+
+| 
+
+2 years 
+
+| 
+
+Analytics & Marketing   
+  
+Google Analytics 
+
+| 
+
+_ga 
+
+| 
+
+Used to distinguish users 
+
+| 
+
+First Party   
+Persistent 
+
+| 
+
+Analytics & Marketing   
+  
+duplichecker 
+
+| 
+
+bioep_shown 
+
+| 
+
+Trach ad popup 
+
+| 
+
+1 week 
+
+| 
+
+Tracking   
+  
+duplichecker 
+
+| 
+
+bioep_shown_session 
+
+| 
+
+Track ad popup shown 
+
+| 
+
+1, 2 second 
+
+| 
+
+Tracking   
+  
+duplichecker 
+
+| 
+
+ci_session 
+
+| 
+
+Used to track user history, normally used for checking login 
+
+| 
+
+1 day 
+
+| 
+
+Tracking   
+  
+duplichecker 
+
+| 
+
+AWSELB 
+
+| 
+
+This cookie name is associated with the Amazon Web Services Elastic Load Balancing functionality for routing client request on the server. 
+
+The main purpose of this cookie is: Strictly Necessary 
+
+| 
+
+1 day 
+
+| 
+
+Tracking   
+  
+_We, along with third-party vendors such as Google make use of first-party cookies (such as Google Analytics cookies) and third-party cookies (such as DoubleClick cookies) or various other third-party identifiers together in order to compile data about user interactions with ad impressions and other ad service functions as they relate to our Site, Software, App, and Services._
+
+**_Opt-out_**
+
+Using the Google Ad Settings page, you can set preferences for how Google advertises to you. Alternatively, you can opt out through the Network Advertising Initiative Opt Out page or through the Google Analytics Opt Out Browser add on. 
+
+For further information visit: www.allaboutcookies.org 
+
+### How to delete, modify or disable cookies
+
+You can delete cookies or disable their use by following your browser instructions: 
+
+  * [Firefox](https://support.mozilla.com/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
+  * [Internet Explorer 11](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647)
+  * [Safari (iOS)](https://support.apple.com/kb/HT1677)
+  * [Android (Chrome)](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en)
+  * [the latest Safari for Mac](https://support.apple.com/kb/ph21411?locale=en_US)
+  * [Safari 8 (Yosemite)](https://support.apple.com/kb/ph19214?locale=en_US)
+  * [Safari 6/7 (Mavericks)](https://support.apple.com/kb/ph17191?locale=en_US)
+  * [Safari 5.1 (OS X Lion)](https://support.apple.com/kb/ph5042?locale=en_US)
+
+
+
+If you use a different browser, then follow the instructions from its provider. 
+
+### How do plugins and third-party apps work?
+
+Some third-party applications and services that partners with us may ask for consent to access your Information. Such applications will provide you with notice and request your permission in order to obtain access or information. It would be best to consider your selection of such applications and services, and your permissions, carefully. 
+
+Some third parties' plugins or embedded content our Site, App, and/or Software, such as Facebook "Like" buttons, may allow their administrators to know that you have visited the Site, and they may use this information with other data they have gathered about your visits to other websites or services on the internet that can identify you. 
+
+The data collected by third parties through these plugins and applications is subject to each parties' own policies. We strongly encourage you to read those policies carefully and understand how other entities use your data. 
+
+### Will DupliChecker.com send me email notifications?
+
+There will be times when we may send you information about special offers, software updates, and other product announcements. We also may want to send you with information about products and services from our business affiliates. But, you may disable such communications at any time by clicking the "unsubscribe" button that can be found within DupliChecker.com emails and also by changing your contact preferences. All DupliChecker.com account holders will still receive email notifications that are related to our Services, even if you opt to unsubscribe from these emails. 
+
+**_For users coming from EEA:_**
+
+We will only deliver promotional communications to users located in the EEA with your prior consent. Kindly see the section "For EEA users" below for more details. 
+
+###  Will DupliChecker.com ever make any of my Personal Data or User Content public? 
+
+No, we do not share Personal Data or User Content with the exception of the limited circumstances as stated in the "Does DupliChecker.com share my Information?" section of the Policy. 
+
+### How does DupliChecker.com handle Do Not Track signals?
+
+We honor Do Not Track signals and do not track, use advertising, or plant cookies when DNT browser mechanism is in place. 
+
+DupliChecker.com also does not allow third-party behavioral tracking. 
+
+### COPPA (Children Online Privacy Protection Act)
+
+**Does DupliChecker.com get information from children?**
+
+The Children's Online Privacy Protection Act put parents in control. DupliChecker.com does not knowingly get personal information from children under the age of 13. In the event that it has come to our knowledge that we have acquired personal information from a child that is younger than 13 years of age, we will take necessary measures to take out that information from our systems. If you are under the age of 13, please do not provide any personal information through the Site, Service, App, and/or Software. We also encourage parents and their legal guardians to closely monitor their children's Internet usage. Another way to enforce this Policy is by informing their children to never provide any personal information through the Site, Service, App, and/or Software without their permission. 
+
+### Data transfer, storage, retention, and deletion
+
+**Where is my Information stored when shared with DupliChecker.com?**
+
+All information shared to DupliChecker.com will be transferred to, processed, and stored in the United States. Whenever you use our Software on any of your device, User Content you save will be kept locally on that specific device and then synced with our servers. But, if you post or transfer any Information to or through our Site, App, Software, and/or Services, that means you are giving consent to such Information, including Personal Data and User Content, being hosted and accessed in the United States. 
+
+###  How safe is my Information? 
+
+DupliChecker.com is dedicated to protecting the security of your Information and takes necessary precautions to protect it. However, know that Internet data transmissions, whether it is wired or wireless, cannot be guaranteed to be 100% safe and as a result, we cannot ensure the security of Information you transmit to us, including Personal Data and User Content; therefore, you acknowledge that you do so at your own risk. 
+
+We at DupliChecker.com use industry-standard encryption to safeguard your data in transit. This is commonly referred to as secure socket layer ("SSL") technology or also known as transport layer security ("TLS"). 
+
+By the time we receive your data, we keep it on our servers using a combination of physical, technical, and logical security measures. The security of the data stored locally in any of our Software installed on your device requires that you make use of the safety features of your device. It is highly recommended that you take the necessary steps to secure all devices that you use in connection with our Site, Software, App, and Services. 
+
+If DupliChecker.com learns of a security system breach, we may send you a notification to provide information on protective steps, through the email address that you have provided to us. We may also post a notice on the Site to inform our users. 
+
+### How can I erase my Personal Data from DupliChecker.com?
+
+You can delete your Personal Data from DupliChecker.com any time you like by simply emailing us at support@duplichecker.com. Please note that, for security reasons, premium users will first be asked to cancel their subscriptions before they can cancel or delete their account with DupliChecker.com. 
+
+###  How long is my Personal Data stored in the DupliChecker.com system? 
+
+You can delete all your Personal Data from DupliChecker.com at any time by cancelling your account as described above. However, we may store some of your Personal Data for as long as necessary for our legitimate business interests, including fraud prevention and detection, and to meet our legal obligations including tax, auditing, and legal reporting. 
+
+### What would happen if DupliChecker.com closes my account?
+
+In the event that DupliChecker.com closes your account due to your violation of the Terms of Service, then you may contact us if you want to request deletion of your data. Our administrators will review such requests, pursuant to our legal obligations. 
+
+### California Online Privacy Protection Act
+
+CalOPPA is the first state law in the United States that requires commercial websites and online services to publish a privacy policy. The law's reach stretches well beyond California to require any individual or company in the US (and conceivably the world) that operates sites collecting PII from California consumers to post a conspicuous privacy policy on its website stating precisely the information that it collects and those individuals or companies with whom it is shared. 
+
+For further information, visit: https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf 
+
+According to CalOPPA, we agree to the following: 
+
+  * Users can visit the site anonymously. 
+  * Once this privacy policy is created, we will add a link to it on our home page or at least, the first significant page after entering our website. 
+  * Our Privacy Policy link includes the word 'Privacy' in it, and it can easily be found on the page specified above. 
+
+
+
+### Fair Information Practices
+
+The Fair Information Practices Principles is the backbone of the privacy law in the United States. It also plays a significant role in developing data protection laws across the globe. It is, therefore, essential to understand the Fair Information Practice Principles and how they should be implemented in compliance with the various privacy laws to protect personal information. 
+
+In agreement with the Fair Information Practices, following responsive actions will be taken, should a data breach instance occur: 
+
+We will notify you via email: 
+
+  * Within 7 business days 
+
+
+
+We will notify the users via in-site notification 
+
+  * Within 7 business days 
+
+
+
+We also agree to the Individual Redress Principle according to which individuals have the right to legally pursue enforceable rights against those who collect and process data and fail to adhere to the law. As per this principle individuals not only have enforceable rights against data users but also that they have recourse to courts or legal agencies to investigate and/or prosecute by data processors. 
+
+### For EEA users
+
+DupliChecker.com uses, processes, and records Personal Data, including those listed in the "What Information does DupliChecker.com collect about me?" section, as necessary to carry out our obligations, and based on our legitimate business interests in order to provide high quality service to our clients. We need your permission to process Personal Data to send email notifications and to place cookies on your devices. In some cases, DupliChecker.com may process Personal Data in accordance to legal obligation or to protect your interests or those of another person. 
+
+### What are my rights as a user, and how can I use them?
+
+People located in the European Economic Area (EEA) have certain rights in when it comes to their personal information which includes the right to access, correct, or delete Personal Data that we process through your use of the Site, Software, App, and/or Services. If you're a user who is located in the EEA, you can: 
+
+**_Request a Personal Data report by submitting a support ticket._**
+
+This report will contain the Personal Data we have about you, delivered to you in a structured, commonly used, and portable format. You need to be signed into your DupliChecker.com account. Please note that DupliChecker.com may request for additional information from you for verification purposes before we disclose any information. 
+
+**_You can have your Personal Data changed or deleted._**
+
+You have the option to change your Personal Data like your name and email address, as well as language preference, just go to your account settings. If in case you registered for DupliChecker.com using Google or Facebook, or if you encountered any issues updating this information, please submit a support ticket or get in touch with us. You can delete your Personal Data from DupliChecker.com by cancelling your account with us. 
+
+You can change your personal information: 
+
+  * By emailing us 
+  * By calling us 
+  * By logging in to your account 
+  * By sending us a support ticket 
+
+
+
+**_Object to us processing your Personal Data._**
+
+You can make a request if you want us to stop using your Personal Data, including when we use your Personal Data or to send you email notifications. We only send business or promotional communications to users located in the EEA with your prior consent, and you may pull out your consent at any time by clicking the "unsubscribe" button that can be found within DupliChecker.com emails and also by changing your contact preferences. Please note that you will still continue to receive transactional messages about our Services, even if you unsubscribe from promotional emails. 
+
+**_Send complain to an authority._**
+
+If you are located in the EEA region and think that we haven't conformed to data protection laws, then you have a right to bring a complaint to your local supervisory authority. 
+
+If you have other queries or do not have a DupliChecker.com account, you may contact us by submitting a support ticket. 
+
+### Will this Privacy Policy ever change?
+
+As DupliChecker.com continue to improve our services, we may need to update this Policy in accordance to changes in our Site, Software, App, and Services, our business, and laws relevant to us and you. We will, however, always keep our commitment to respect and protect your privacy. We will immediately notify you should there be any changes that may impact your rights under this Policy via email or post any other modifications to this Policy, along with their effective date, in the most easy-to-find area of the Site. We highly recommend that you check back here from time to time to stay informed of any changes. Please note that your continued use of DupliChecker.com after any revision means that you agree with the changes, and consent to be bound by, the new Policy. If you don't agree with any of the changes in this Policy and do not wish your information to be subject to it, then you will need to delete your account with DupliChecker.com. 
+
+You will be notified of any changes in Privacy Policy on our Privacy Policy page. 
+
+### Contact Us
+
+You may contact us with any questions relating to this Privacy Policy by submitting a help desk request at [support@duplichecker.com](mailto:support@duplichecker.com) or by postal mail at: 
+
+Content Arcade (UK), LTD. 
+
+1 County Road, Thornton Heath, Surrey, CR7 8HN, England 
