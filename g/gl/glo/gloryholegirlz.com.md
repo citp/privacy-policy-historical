@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gloryholegirlz.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203013657id_/http%3A//www.thestall.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gloryholegirlz.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611201821id_/http%3A//www.thestall.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
