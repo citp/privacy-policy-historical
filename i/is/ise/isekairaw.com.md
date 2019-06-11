@@ -1,0 +1,29 @@
+> *The following text is extracted and transformed from the isekairaw.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611224506id_/http%3A//isekairaw.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy – Read raw manga online | マンガをオンラインで読む
+
+The privacy of our visitors to rawneko.com is important to us.
+
+rawneko.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+
+We may change this policy from time to time by updating this page. You should always check this page to ensure that you are happy with any changes.
+
+#### What we collect
+
+We may collect the following information: name, contact information including email address, etc.
+
+#### What we do with the information we gather
+
+We require this information to provide you with a better service, and in particular for the following reasons: to facilitate a specific request on our site, for example, to post a comment on our blog or to subscribe to our email feed. All emails or feed subscriptions from this site allow you to opt out of further mailings. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
+
+#### How we use cookies
+
+A cookie is a small file placed on your computer’s hard drive which helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. Third parties such as our advertisers may also place cookies on your browser in the course of serving ads to you based on your visit to our site and other sites on the internet. If you want to opt out of our third-party advertiser (Google Adsense)’s use of cookies, please visit the Google ad and content network privacy policy.
+
+#### Cookies & 3rd Party Advertisements
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+On how to contact us visit [Contact](http://isekairaw.com/contact/).
