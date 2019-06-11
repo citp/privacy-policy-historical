@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the theconversation.edu.au privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610164440id_/https%3A//theconversation.com/au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconversation.edu.au privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611114955id_/https%3A//theconversation.com/au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy at The Conversation
 
-Last updated: 14 Nov 2017
+Last updated: 13 December 2018
 
 ## 1\. Introduction
 
-The Conversation Media Group Ltd ACN 142 923 653 is bound by the Australian Privacy Principles ( **APPs** ) set out in the _Privacy Act 1988_ (Cth) ( **Privacy Act** ).
+The Conversation Media Group Ltd ACN 142 923 653 ( **we, our** ) is bound by the Australian Privacy Principles ( **APPs** ) set out in the Privacy Act 1988(Cth) ( **Privacy Act** ).
 
 This policy sets out how we handle Personal Information, including the Personal Information of our authors, commenters and readers ( **users** ), in accordance with the Privacy Act, and how you can exercise your rights under the Privacy Act.
 
-We may amend this policy from time to time. At any time, the latest version of our Privacy Policy is available from our website at www.theconversation.com/au/privacypolicy.
+We may amend this policy from time to time. At any time, the latest version of our Privacy Policy is available from our website at <https://www.theconversation.com/au/privacy-policy>.
 
-We are a media organisation within the definition used in the Privacy Act. As such, for all our dealings with Personal Information in the course of journalism we may rely on the exemption contained in section 7B(4) of the Privacy Act.
+We are a media organisation within the definition used in the Privacy Act. As such, for all our dealings with Personal Information in the course of journalism we may rely on the exemption contained in section 7B (4) of the Privacy Act. We are committed to observing the [Australian Press Council Privacy Principles](https://www.presscouncil.org.au/privacy-principles/).
 
 ## 2\. Definitions
 
-‘ **Personal Information** ’ has the meaning set out in the Privacy Act. Essentially, Personal Information is information or an opinion about an individual who is reasonably identifiable (including names, addresses, birth dates, or email addresses).
+**‘Personal Information’** has the meaning set out in the Privacy Act. Essentially, Personal Information is information or an opinion about an individual who is reasonably identifiable (including names, addresses, birth dates, or email addresses).
 
-‘ **Related Body Corporate** ’ has the same meaning as ‘Related Body Corporate’ under section 50 of the _Corporations Act 2001_ (Cth).
+**‘Related Body Corporate’** has the same meaning as ‘Related Body Corporate’ under section 50 of the Corporations Act 2001 (Cth).
 
 ## 3\. How do we collect your Personal Information and what types of Personal Information do we collect?
 
-We collect your Personal Information directly from you. The types of Personal Information we collect depends on the circumstances in which the information is collected. For example, we may collect Personal Information when you create an account for, or publish an article or comment on The Conversation, which may include:
+We collect your Personal Information directly from you and from third parties. The types of Personal Information we collect depends on the circumstances in which the information is collected. For example, we may collect Personal Information when you create an account for, or publish an article or comment on The Conversation, which may include:
 
   * information required to create an account: 
     * user name;
@@ -35,7 +35,7 @@ We collect your Personal Information directly from you. The types of Personal In
 
 
 
-We collect Personal Information when you donate to us online or over the phone. The types of Personal Information we collect from donors includes contact information and bank or credit card details.
+We collect Personal Information when you donate to us online or over the phone. The types of Personal Information we collect from donors includes contact information and bank or credit card details. We do not store bank details or credit card information.
 
 We also collect your Personal Information from third parties. For example, if you create an account for The Conversation using a social media account, we may collect Personal Information, including your name and email address, from your social media account.
 
@@ -105,7 +105,7 @@ Except in some cases where we may rely on an exception under the Privacy Act, we
 
 We store Personal Information on computer databases and/or in hard copy and will take reasonable physical and electronic security measures to protect any records that we hold which contains Personal Information. We destroy or permanently de-identify Personal Information in a secure manner when we no longer need it. We do not store bank details or credit card information.
 
-We are committed to keeping your Personal Information secure and will use all reasonable precautions to protect it from loss, misuse or unauthorised access or alteration. However, except to the extent liability cannot be excluded due to the operation of statute, we exclude all liability (including in negligence) for the consequences of any unauthorised access to, disclosure of, misuse of or loss or corruption of your Personal Information. Nothing in this Privacy Policy restricts, excludes or modifies or purports to restrict, exclude or modify any statutory consumer rights under any applicable law including the _Competition and Consumer Act 2010_ (Cth).
+We are committed to keeping your Personal Information secure and will use all reasonable precautions to protect it from loss, misuse or unauthorised access or alteration. However, except to the extent liability cannot be excluded due to the operation of statute, we exclude all liability (including in negligence) for the consequences of any unauthorised access to, disclosure of, misuse of or loss or corruption of your Personal Information. Nothing in this Privacy Policy restricts, excludes or modifies or purports to restrict, exclude or modify any statutory consumer rights under any applicable law including the  _Competition and Consumer Act 2010_  (Cth).
 
 ## 8\. How can you access your Personal Information?
 
@@ -115,30 +115,32 @@ We handle any access request in accordance with the Privacy Act. The Privacy Act
 
 It is free to make an access request. However, depending on the scope of your request, we may charge an administration fee for the time we spend locating, compiling and explaining the information you ask for. If we need to charge a fee, we will let you know up front and confirm that you would like us to proceed.
 
-If you would like to request access to your Personal Information, please contact us at [privacy@theconversation.edu.au](mailto:privacy@theconversation.edu.au).
+If you would like to request access to your Personal Information, please contact us at [privacy@theconversation.edu.au](mailto:privacy@theconversation.edu.au).
 
 ## 9\. Correction
 
 We take reasonable steps to maintain the accuracy of your Personal Information.
 
-Under the Privacy Act, you also have the right to ask us to correct any Personal
-
-Information we hold about you. We encourage you to contact us if you become aware that the Personal Information we hold about you is incorrect or to notify us of a change in your Personal Information.
+Under the Privacy Act, you also have the right to ask us to correct any Personal Information we hold about you. We encourage you to contact us if you become aware that the Personal Information we hold about you is incorrect or to notify us of a change in your Personal Information.
 
 We handle any correction request in accordance with the Privacy Act. The Privacy Act provides some exemptions to correction requests.
 
-If you would like to request a correction to the information that we hold about you, please contact us at [privacy@theconversation.edu.au](mailto:privacy@theconversation.edu.au).
+If you would like to request a correction to the information that we hold about you, please contact us at [privacy@theconversation.edu.au](mailto:privacy@theconversation.edu.au).
 
 **See also** : [our policy about when we’ll remove content](https://web.archive.org/au/content-removal-policy)
 
 ## 10\. Complaints
 
-If you have any complaints concerning our privacy policy or the way in which we have dealt with your Personal Information, please email us at [privacy@theconversation.edu.au](mailto:privacy@theconversation.edu.au).
+If you have any complaints concerning our privacy policy or the way in which we have dealt with your Personal Information, please email us at [privacy@theconversation.edu.au](mailto:privacy@theconversation.edu.au).
 
 If you make a complaint, we will assess your complaint and respond within 30 days.
 
 If you aren’t satisfied with the way in which we handle your complaint, you can complain to the Australian privacy regulator, the Office of the Australian Information Commissioner.
 
-## 11\. Questions
+## 11\. Nielsen software
+
+The Conversation may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <https://www.nielsen.com/digitalprivacy>.
+
+## 12\. Questions
 
 If you have any other questions or concerns, please email us at [privacy@theconversation.edu.au](mailto:privacy@theconversation.edu.au).
