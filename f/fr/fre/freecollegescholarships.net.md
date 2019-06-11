@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206011921id_/http%3A//freecollegescholarships.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecollegescholarships.net privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611050246id_/http%3A//www.freecollegescholarships.net/privacy) for the most accurate reproduction.*
 
 # Free College Scholarships // Privacy Policy
 
@@ -124,8 +124,3 @@ Effective: August 23, 2018
 
 Email us at: [Info@freecollegescholarships.net](mailto:info@freecollegescholarships.net)  
 Or write to us at: Free College Scholarships LLC, 4104 24th St. Suite 947, San Francisco, CA 94114
-
-[Enter Now](https://web.archive.org/reg)
-
-Balancing life, family, and your career can be overwhelming.  
-Give yourself the tools you need and go back to school and take control of your future. 
