@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the zazzle.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230134259id_/https%3A//www.zazzle.co.uk/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.co.uk privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611181023id_/https%3A//www.zazzle.co.uk/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
 
-This Privacy Policy was published on 17 May, 2018 and will take effect on 25 May, 2018. View our previous policy [here](https://www.zazzle.co.uk/mk/policy/old%202017/privacy_policy)
+Effective 1st April, 2019
 
-Thanks for using <https://www.zazzle.co.uk/> ("Site"). At Zazzle Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy ("Privacy Policy") to make sure you know what information we collect and how we use it. By using the Site, you expressly consent to the collection, storage, disclosure and use of your information as we have outlined in this Privacy Policy and you agree to the terms and conditions of this Privacy Policy. 
+Thanks for using (i) <https://www.zazzle.co.uk/> and any corresponding foreign domains, and (ii) our affiliated websites [fanmade.com](https://fanmade.com/), [www.coveroo.com](https://www.coveroo.com/), and <https://picti.myshopify.com/> (collectively, **"Site"** ). At Zazzle Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy ( **"Privacy Policy"** ) to make sure you know what information we collect and how we use it. By using the Site, you expressly consent to the collection, storage, disclosure and use of your information as we have outlined in this Privacy Policy, and you agree to the terms and conditions of this Privacy Policy. 
 
 We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we make any changes to this Privacy Policy, we will notify you in accordance with our User Agreement. If we make any material changes we will notify you by email or by means of a notice on this Site prior to the change becoming effective. We also encourage you to check back from time to time and review this Privacy Policy so that you always will know what personally identifiable information we collect, how we use it and to whom we disclose it. Your continued use of the Site will be subject to the then current Privacy Policy. 
 
 **EU — U.S. Privacy Shield & the General Data Protection Regulation ("GDPR").**
 
-Zazzle participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and, as a Data Controller, complies with the GDPR. GDPR provides EU residents with certain rights to their data and questions should be sent to [privacy@zazzle.com](mailto:privacy@zazzle.com). For purposes of Article 14(2) of the GDPR, Zazzle relies on the following lawful basis for processing Personal Data: consent, compliance with law and legitimate interest. 
+Zazzle complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (collectively, "Privacy Shield"), as set forth by the U.S. Department of Commerce, regarding the collection, use and retention of personal information transferred from the European Union, United Kingdom and/or Switzerland, as applicable, to the United States. Zazzle has certified to the Department of Commerce that it adheres to the Privacy Shield Principles, as defined at www.privacyshield.gov, with respect to such information. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield programme and to view our certification, please visit <https://www.privacyshield.gov/>. For purposes of Article 14(2) of the GDPR, Zazzle relies on the following lawful basis for processing Personal Data: consent, compliance with law and legitimate interest. 
 
-Information about the Privacy Shield Framework can be found at the U.S. Department of Commerce's Privacy Shield List. <https://www.privacyshield.gov/list>
+Information about the Privacy Shield Framework can be found at the U.S. Department of Commerce's Privacy Shield List. [(https://www.privacyshield.gov/list)](https://www.privacyshield.gov/list). 
 
 Zazzle complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
 
@@ -26,9 +26,9 @@ In addition, you can contact the European Data Supervisory Authority with superv
 
 **But first, a note about uploading and posting information on the Site:**
 
-At the time you register for a Zazzle account, you will choose and provide us with an email address and password. When you upload a design, post a comment or message on the Site, provide information in connection with features such as fan clubs, wish lists, forums, member profiles, reviews and recommendations, your user name may be visible to other users.
+At the time you register for a Zazzle account, you will choose and provide us with an email address and password. When you upload Content, post a comment or message on the Site, provide information in connection with features such as fan clubs, wish lists, forums, member profiles, reviews and recommendations, your user name may be visible to other users.
 
-Additionally, if your comment or message contains personally identifiable information and is posted by you in a page that is accessible to the public, third parties may make note of the information and you may receive unsolicited messages from other parties as a result. Any content or information you upload that is visible to third parties may be read, collected, and used by others who access them. Our blog is managed by a third party application, [WordPress](https://wordpress.com/), and does not require you to register to post a comment to a post. Commenting is moderated by Zazzle blog administrators and is subject to approval before appearing on the site. You will need to contact Zazzle if you want the personal information that was posted to the comments section removed. To learn how WordPress uses your information, please review their [privacy policy](https://automattic.com/privacy/).
+Additionally, if your comment or message contains personally identifiable information and is posted by you in a page that is accessible to the public, third parties may make note of the information and you may receive unsolicited messages from other parties as a result. Any content or information you upload that is visible to third parties may be read, collected, and used by others who access the relevant webpage(s). Our blog is managed by a third party application, [WordPress](https://wordpress.com/), and does not require you to register to post a comment to a post. Commenting is moderated by Zazzle blog administrators and is subject to approval before appearing on the Site. You will need to contact Zazzle if you want the personal information that was posted to the comments section removed. To learn how WordPress uses your information, please review their [privacy policy](https://automattic.com/privacy/).
 
 **What information do we collect?** **Information provided by you:**
 
@@ -45,19 +45,19 @@ You may provide us with certain personally identifiable information when you:
 
 
 
-Such information may include your name, email address, billing address, shipping address and credit card number. You may also provide us with information about other people, such as their email addresses, if you email a product to a friend or refer a friend to the Site or our promotions. 
+Personally identifiable information may include your name, email address, billing address, shipping address and credit card number. You may also provide us with information about other people, such as their email addresses, if you email a product to a friend or refer a friend to the Site or our promotions. 
 
 If you are under 13, you may not use the Site. 
 
 **Information collected by Cookies:**
 
-Zazzle uses cookies on the Site to improve the quality of our Site and services to you. A cookie is a small text file on your computer which a website sends to your computer to allow the website to store information which uniquely identifies our users. Zazzle's cookies do not collect or store personally identifiable information. Rather, the cookie stores a token which uniquely identifies a particular user at a particular time. That token is then linked to the user information in our secured databases. You can always delete the cookies and reset your browser to refuse all cookies or to display a message when a cookie is being sent. If you reset your browser, some of the Site features and functionality may not be available to you and you may not be able to take advantage of all the features on the Site. 
+Zazzle uses cookies on the Site to improve the quality of our Site and services to you. We use cookies for several purposes, in order to offer a fast and safe digital experience, for example, allowing to maintain an active connection during navigation through the Site pages; to store credentials in a safe mode; and to identify the Site pages that have already been visited, in order to prevent them from being proposed again. A cookie is a small text file that our Site sends to your computer to allow the Site to store information that uniquely identifies our users. Zazzle's cookies do not collect or store personally identifiable information. Rather, the cookie stores a token that uniquely identifies a particular user at a particular time. That token is then linked to the user information in our secured databases. You can always delete the cookies and reset your browser to refuse all cookies or to display a message when a cookie is being sent. If you reset your browser, some of the Site features and functionality may not be available to you and you may not be able to take advantage of all the features on the Site. 
 
-We may work with other companies who place cookies or web beacons on our Site. We do not have access or control over these cookies. These companies help operate our websites and provide you with additional products and services. They are subject to confidentiality agreements with Zazzle and other legal restrictions. Zazzle does not permit any of these companies to collect personally identifiable information using cookies or web beacons on our websites. Certain functionalities related to the provision of additional products and services require marketers to share website usage information about visitors to the Site, who have received a targeted promotional campaign, with a reputable third-party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. To this end, Zazzle's third-party advertising company makes a note of some of the pages you visit on the Site through the use of pixel tags. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](https://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+We may work with other companies that place cookies or web beacons on our Site. We do not have access or control over these cookies. These companies help operate our websites and provide you with additional products and services. They are subject to confidentiality agreements with Zazzle and other legal restrictions. Zazzle does not permit any of these companies to collect personally identifiable information using cookies or web beacons on our Site. Certain functionalities related to the provision of additional products and services require marketers to share website usage information about visitors to the Site, who have received a targeted promotional campaign, with a reputable third-party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. To this end, Zazzle's third-party advertising company makes a note of some of the pages you visit on the Site through the use of pixel tags. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](https://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
 **Information collected by Web Beacons and Log Files:**
 
-Zazzle collects certain non-personally identifiable information through the use of web beacons and log files. Such information may include your IP address, browser type, Site usage and whether you opened emails you received from us. 
+Zazzle collects IP addresses and certain non-personally identifiable information through the use of web beacons and log files. Such information may include your browser type, Site usage and whether you opened emails you received from us. 
 
 **Information collected through Product Reviews:**
 
@@ -65,13 +65,13 @@ You may choose to submit a product review. If you post a review, we may ask for 
 
 **How do we secure your information?**
 
-When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software ("SSL") we use encrypts all information you input before it is sent to us. In addition, your Zazzle account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select. It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. 
+When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The transport layer security software ("TLS") we use encrypts all information you input before it is sent to us. In addition, your Zazzle account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select. It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. 
 
-We operate internationally and many of our computer systems are currently based in the United States. As a result, your personal data will be processed by us in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with us, you agree to this Privacy Policy and you consent to the transfer of all information you provide to us in the United States. 
+We operate internationally and many of our computer systems are currently based in the United States. As a result, your personal data will be processed by us (and third parties on our behalf as further described in this Privacy Policy) in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with us, you agree to this Privacy Policy and you consent to the transfer of all information you provide to us in and to the United States. 
 
 You may also choose not to provide us with certain information, but that may result in you being unable to use certain features of our Site because such information may be required in order for you to: register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our Site. 
 
-We work very hard to protect your privacy, but we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. While we use industry-standard precautions to safeguard your personally identifiable information, we cannot guarantee complete security. If you have any questions about security on our Site, you can contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com). 
+We work very hard to protect your privacy, but we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. While we use industry-standard precautions to safeguard your personally identifiable information, we cannot guarantee complete security. 
 
 **How do we use your information?**
 
@@ -79,7 +79,7 @@ We use the personally identifiable information you provide to:
 
   * provide the features and functionality of the Site;
   * fulfil your requests for our products and services;
-  * pay earnings;
+  * pay Earnings;
   * communicate with you about the status of your orders and other inquiries about our products and services;
   * send you information about our products and services; 
   * for our internal business purposes, such as data analysis, audits and so forth; 
@@ -90,9 +90,9 @@ We use the personally identifiable information you provide to:
 
 We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your Zazzle account settings. 
 
-When you purchase products from the Site, we may use your email address or other personally identifiable information to send marketing messages and notifications from time-to-time whether or not you created an account with us. You may unsubscribe or change the frequency of email notifications on the Account Settings page in "MyAccount." If you email a product to a friend or refer a friend to the Site or our promotions, we will use your friend's email to send them the e-mail you requested. Your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted. Zazzle does not store this information. Your friend may contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com) to request that we remove this information from our database. 
+When you purchase products from the Site, we may use your email address or other personally identifiable information to send marketing messages and notifications from time-to-time whether or not you created an account with us. You may unsubscribe or change the frequency of email notifications on the Account Settings page in "My Account." If you email a product to a friend or refer a friend to the Site or our promotions, we will use your friend's email address to send them the e-mail you requested. Your friend's e-mail addresses will only be used for this purpose, unless permission is otherwise granted. Zazzle does not store this information. Your friend may contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com) to request that we remove this information from our database. 
 
-We use non-personally identifiable information to monitor the use and performance of the Site so that we can learn more about how people use the Site which helps us improve our products and services and significantly enhance your experience on our Site. 
+We use non-personally identifiable information to monitor the use and performance of the Site so that we can learn more about how people use the Site, which information helps us improve our products and services and significantly enhance your experience on our Site. 
 
 **Does Zazzle disclose the information it collects to outside parties?**
 
@@ -105,7 +105,7 @@ We will share your personally identifiable information with third parties only i
 
   * comply with law;
   * comply with subpoenas, warrants, court orders, government investigations or other legal process;
-  * enforce or apply the terms of any of our user or license agreements; 
+  * enforce or apply the provisions of any of our User Agreement or Policies; 
   * investigate or respond to allegations of fraud, intellectual property infringement, or other unlawful activity;
   * investigate fraud or similar claims; 
   * protect the rights, property or safety of Zazzle, our users or others. 
@@ -114,33 +114,33 @@ We will share your personally identifiable information with third parties only i
 
 
 
-Additionally, Zazzle releases certain information, including personally identifiable information, to report the sale of custom postage to the United States Postal Service ("USPS"). As part of our relationship with the USPS, we collect and may disclose information about purchasers of our Zazzle Custom Postage products to the USPS at the request of USPS. To learn more about the USPS's privacy policy, please visit the [Privacy Policy](https://about.usps.com/who-we-are/privacy-policy/welcome.htm). 
-
 In the event that Zazzle is acquired by or merges with another company, Zazzle reserves the right to transfer, in connection with such acquisition or merger, all information we have collected from our users. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information. 
 
 Zazzle may disclose non-personally-identifiable information to third parties in aggregate form or to potential business partners and investors, in each instance in accordance with GDPR. 
 
-Zazzle will obtain assurances from its agents that they will only process the data for the limited and specified purposes consistent with the consent provided by the individual and will safeguard personal information consistently with this Policy. The assurance may include: a contract binding the agent to provide at least the same level of protection as is required by the relevant Privacy Shield Principles, being subject to GDPR or Privacy Shield certification by the agent. 
+Zazzle will obtain assurances from its agents that they will only process the data for the limited and specified purposes consistent with the consent provided by the individual and will safeguard personal information consistently with this Privacy Policy. The assurance may include: a contract binding the agent to provide at least the same level of protection as is required by the relevant Privacy Shield Principles, being subject to GDPR or Privacy Shield certification by the agent. 
 
-**Advertising**
+**Advertising:**
 
 Zazzle may use third party service providers to place ads on our behalf across the internet and sometimes on the Site. They may collect anonymous information about your visits to our Site, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a web beacon, which is industry standard technology used by most major sites. If you would like more information about this practice and to know your choices about not having this anonymous information about you used by our third party service providers, please contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com).
 
 Name of Third Party Partner | What info is shared with or collected by this partner | Partner's purpose | Link to Partner's privacy policy  
 ---|---|---|---  
-Google Adservices | Anonymous order information, IP, and URL clickstream | Ad network | [google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)  
-Doubleclick | Anonymous order information, IP, and URL clickstream | Ad network | [.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)  
-Google-analytics | Anonymous IP, URL clickstream related to viewing specific designer's products and stores. | Analytics | [.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)  
-Facebook | Anonymous order information, IP, and URL clickstream | Social/sharing tools | [.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)  
 Bing | Anonymous order information, IP. | Ad network | [Privacy and data protection policies](https://advertise.bingads.microsoft.com/en-us/resources/policies/privacy-and-data-protection-policies)  
+BloomReach | Unique anonymous identifier for every browser/device | Analytics | <https://www.bloomreach.com/en/about/privacy>  
+Doubleclick | Anonymous order information, IP and URL clickstream | Ad network | <https://policies.google.com/privacy?hl=en>  
+Facebook | Anonymous order information, IP, and URL clickstream | Social/sharing tools | [.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)  
+Google Adservices | Anonymous order information, IP, and URL clickstream | Ad network | <https://policies.google.com/privacy?hl=en>  
+Google-analytics| Anonymous IP, URL clickstream related to viewing specific designer's products and stores. | Analytics | <https://policies.google.com/privacy?hl=en>  
+Google Maps | Shipping Destination Address | Maps to track packages| <https://policies.google.com/privacy?hl=en>. We are subject to terms of the Google Maps / Google Earth: [(https://maps.google.com/help/terms_maps.html)](https://maps.google.com/help/terms_maps.html)  
   
-If you have any inquiries regarding our partner's privacy practices or how they use your child's personal information, please contact us directly at [privacy@zazzle.com](mailto:privacy@zazzle.com)
+If you have any inquiries regarding our partners' privacy practices or how they use your child's personal information, please contact us directly at [privacy@zazzle.com](mailto:privacy@zazzle.com)
 
-In addition, Zazzle is a dynamic marketplace with a great number of branded products and content. We will offer our users the opportunity to opt-in to receive from our partners emails, notifications of promotions and the like offered by such partners. You have the right to decline to opt-in to take advantage of this service. 
+In addition, Zazzle is a dynamic marketplace with a great number of branded products and content. We will offer our users the opportunity to opt-in to receive from our partners emails, notifications of promotions and the like, as offered by such partners. You have the right to decline to opt-in to take advantage of this service. 
 
 **Social Media Features and Widgets**
 
-Our Site includes social media features, such as the Facebook Like button, and widgets, such as the "ShareThis" button or interactive mini-programs that run on our Site. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it. 
+Our Site includes social media features, such as the Facebook Like button, and widgets, such as the "ShareThis" button or interactive mini-programmes that run on our Site. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
 **Facebook Connect or other OpenID provider**
 
@@ -161,6 +161,8 @@ Most of your account information can be changed in the "My Account" section of t
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. 
 
 Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. 
+
+[To view the Zazzle Privacy Policy in effect prior to April 1, 2019, please click here](https://www.zazzle.co.uk/mk/policy/old/privacy_policy_2018). 
 
   * Policies
   * [User Agreement](https://www.zazzle.co.uk/mk/policy/user_agreement)
