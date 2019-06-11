@@ -1,70 +1,94 @@
-> *The following text is extracted and transformed from the dunhilltraveldeals.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619165234id_/http%3A//www.dunhilltraveldeals.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunhilltraveldeals.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612002717id_/https%3A//www.dunhilltraveldeals.com/privacy) for the most accurate reproduction.*
 
-# Dunhill Travel Deals Privacy Policy for Top Travel Deals Newsletter
+# Privacy Policy | Dunhill Travel Deals Website
 
-**Effective 5/20/2011**
+**Updated As Of May 23, 2018  
+**  
+Dunhill Travel Deals publishes travel deals and information on its websites, mobile sites and via its opt-in email newsletters. We value our relationship with our community and respect member’s privacy. This policy is available to help you understand the handling of your personal information. We have updated some content and added details with the objective of making our practices more transparent and explain our approach to achieving GDPR compliance for ourselves and for you. Notable updates include: 
 
-Dunhill Vacations Inc. dba Dunhill Travel Deals has created this policy because of our commitment to your privacy. This privacy policy covers the information collection and use on the Web site [www.dunhilltraveldeals.com](http://www.dunhilltraveldeals.com/), as well as e-mail newsletters.
+  * Greater Transparency. The new policy provides more detailed explanations of what personal information we collect, how we collect it, what we use it for, and who we share it with.
+  * More User Control. The new policy also outlines specific procedures for asking us to limit or stop using your personal information.
 
-Dunhill Travel Deals publishes various versions of Dunhill's Top Travel Deals, an opt-in newsletter of travel offers and information. Users can sign up for newsletters from our home page by providing their e-mail address. This information will not be sold to third parties.
 
-If you are interested in promoting your product we will ask for your Company name, a contact name, email address and phone number. We use this information to contact you regarding your interest in advertising on our site.
 
-**Modify and Opt Out:**
+### What Personal Information We Collect:
 
-You may opt-out of use of your information as set forth above by emailing us at [techsupport@dunhilltraveldeals.com](mailto:techsupport@dunhilltraveldeals.com). There is also an option to unsubscribe or modify your information within every newsletter. You may also unsubscribe or change your e-mail address by selecting “update profile” located in the footer throughout the site.
+Personal information is information about you that is personally identifiable and not otherwise publicly available. We may collect your name, email address, zip code, and travel preferences. We also monitor your activity on our site and in our newsletters.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [techsupport@dunhilltraveldeals.com](mailto:techsupport@dunhilltraveldeals.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+### How We Collect Personal Information:
 
-**Tracking:**
+Dunhill Travel Deals collects personal information in a variety of ways, including when you subscribe to newsletters, when you register on or visit our website, or the websites of certain partners, and when you enter sweepstakes sponsored by Dunhill Travel Deals. We combine the data collected across these services and across your devices. Dunhill Travel Deals operates several websites featuring travel-related content and services. We may share personal information collected across these websites to better serve you.
 
-Dunhill Travel Deals uses cookies to deliver content specific to your interests. The cookie is a small text file that resides on your hard drive. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+### Use of Personal Information:
 
-Dunhill Travel Deals also works with third parties with whom we have a service agreement ("Service Providers") who use cookies to aid in the reporting of aggregate site usage statistics for Dunhill's Web sites. Such statistics are not linked to personally identifiable information. Some Dunhill Travel Deals advertisers use "view-through" pixels to track the effectiveness of the promotions they run on Dunhill Travel Deals. Such pixels lead to cookies being placed on your computer by these advertisers. Dunhill Travel Deals does not have control over these 3rd party cookies, and cannot access any personally identifiable information about you as a result of these cookies. Third party vendors, including Google, use cookies to serve ads based on your prior visits to our web sites. You may opt out of Google’s use of cookies by visiting the Google advertising opt-out page. Dunhill Travel Deals tracks individual user response (clicks) on offers on its Web sites. This information is used to better customize content and advertising for you in the future. Individual user click behavior is not shared with third parties in ways other than disclosed in this privacy statement. The use of cookies by third parties is not covered by our privacy policy. We do not have access to or control over these cookies.
+Dunhill Travel Deals only asks for personal information if it’s needed to provide a service and we then use it to deliver the most relevant, personalized content. This information will not be sold to third parties. We do not share data outside our family of brands, unless compelled by law. 
 
-**Related Mailings:**
+Registration is not required in order to use this site. If you do register, and in the process provide us with personally identifiable information, no information will be shared with any third-party organization except with your express consent.
 
-Dunhill Travel Deals reserves the right to send you certain communications relating to service or products, including administrative messages, and periodic product announcements associated with your newsletter or e-mail product subscription(s), as long as you remain a subscriber to one of our newsletters or e-mail products. You may opt-out from receiving these communications at any time by emailing us at [techsupport@dunhilltraveldeals.com](mailto:techsupport@dunhilltraveldeals.com).  There is also an option to unsubscribe or modify your information within every newsletter. You may also unsubscribe or change your e-mail address by selecting “update profile” located in the footer throughout the site.
+We also provide the opportunity to receive email communications from us. In this case, we ask for personally identifiable information. We may use personal information collected to send out targeted email promotions on behalf of advertisers and industry partners. These communications will include some or all of the following: newsletters, company updates, and other relevant promotions.
 
-**Sharing with Third Parties:**
+### Control Over Personal Information:
 
-We do not rent, share, sell, or trade your personal information with third parties other than as disclosed within this privacy policy.
+As part of our commitment to user’s privacy and right to access, we give users transparency and control over their data. Users may create an account on the website, which allows them to view and manage their profile, preferences, and recent activity. You may also correct or update your information which can be found by using the “[Profile and Preferences](https://web.archive.org/subscription)” link located in the footer throughout the site. 
 
-We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+### Modify And Opt Out:
 
-If Dunhill Travel Deals is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choice you may have regarding your personal information.
+You may modify the frequency or opt-out of the email newsletter by emailing us. There is also an option to modify or unsubscribe within every newsletter and by selecting “[Profile and Preferences](https://web.archive.org/subscription)” located in the footer throughout the site.
 
-From time to time, Dunhill Travel Deals may share your personal information within our family of brands. This sharing enables us to provide you with additional travel related products which might interest you. All brands follow practices that are at least as restrictive as those described in this Privacy Policy. There is an option to unsubscribe or modify your information within every brand’s newsletters and on each website.
+You may cancel your account or request that we no longer use your information to provide you services. In addition, you may also request that your personal information be erased. This ensures your “right to be forgotten”. We will only retain and use your information as necessary to comply with legal regulations.
 
-**Refer a Friend Program:**
+To unsubscribe, cancel your account, or have your information erased, email us at [privacy@dunhilltraveldeals.com](mailto:privacy@dunhilltraveldeals.com).
 
-We may from time to time conduct a referral service to introduce people you know to our Site and services. If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend's email address. We will automatically send your friend a one time email inviting him or her to visit the Site. Dunhill Travel Deals stores this information for the purpose of sending this email and tracking the success of our referral program. Your friend may contact us at [techsupport@dunhilltraveldeals.com](mailto:techsupport@dunhilltraveldeals.com) to request that we remove this information from our database.
+### Online Forms:
 
-**Third Party Offers:**
+If you choose to communicate with us via the Contact Us form, we will ask for a name, email address and phone number. We use this information to contact you regarding your specific concern.
 
- From time to time, we work with third parties. You may receive an email from another travel company sent by Dunhill Travel Deals. We do not share Personally Identifiable Information with Third Parties. These emails are sent by Dunhill Travel Deals on behalf of our third party partners. From time to time Dunhill Travel Deals announces voluntary promotional programs which include promotional incentives for subscribers. These programs usually require personally identifiable information (ex: name, mailing address or frequent flyer account numbers) to be submitted for those subscribers who wish to participate. Depending on the promotion, this information may be shared, upon the explicit opt-in of the subscriber, with external third parties for the purpose of fulfilling the promotional components of the program, for example with an airline for the awarding of frequent flyer miles to a subscriber's account. Subscribers who do not wish this information to be disclosed to third parties may decline participation in these optional programs. Any promotional program which includes the sharing of information with a third party will have such a disclosure clearly described in the program's description and rules. To opt-out from third party sharing please e-mail us at [editor@dunhilltraveldeals.com](mailto:editor@dunhilltraveldeals.com) or email that third party directly.
+If you choose to communicate with us via the Advertise with Us form, we will ask for your company name, a name, email address and phone number. We use this information to contact you regarding your interest in advertising on our site.
 
-**Overview:**
+If you choose to use our Refer a Friend form, we will ask you for the name and email of yourself and your friend. We will automatically send your friend a one-time email inviting him or her to visit the website. We store this information for the purpose of sending this email and tracking the success of our referral program.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. IP addresses are associated with your e-mail address and in some instances zip code for the purpose of documenting that you explicitly signed up (opted-in) for our e-mail newsletters. In order to provide our users a seamless experience, some pages on our site may be hosted by Service Providers. The information collected on these pages is covered by Dunhill Travel Deals’ privacy policy.
+You may contact us at [privacy@dunhilltraveldeals.com](mailto:privacy@dunhilltraveldeals.com) to request that we remove this information from our database.
 
-Dunhill Travel Deals contains links to other sites. Dunhill Travel Deals is not responsible for the privacy practices of such other sites. Dunhill Travel Deals encourages our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+### Cookies & Related Technology:
 
-Dunhill Travel Deals reserves the right to add to or modify this Policy simply by posting such addition or modification on the Dunhill Travel Deals Web site. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify users by way of an e-mail or via a prominent notice on our site.
+Dunhill Travel Deals uses “cookies” when you visit our website to track page requests and visitor preferences. “Cookies” are small pieces of information that are stored by your browser on your computer’s hard drive. The use of cookies allows us to provide our visitors with tailored content for that visitor’s preferences and interests. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies or allow your browser to show you when a cookie is being sent. If you choose not to accept cookies, your experience at our website may be diminished and some features may not work as intended. We may also use pixel tags, which are tiny graphic images, in email messages to tell us whether emails have been opened to assure that we are only sending messages that are of interest to our users.
 
-**Access:**
+In addition, Dunhill Travel Deals automatically receives and records information on our server logs from your browser, including, but not limited to, your IP address, cookie information, browser information and the website page you requested. Dunhill Travel Deals uses this information for system administration and to examine our website traffic in aggregate. The information collected is used to improve the content of our web pages and to customize content for each user.
 
-If your personally identifiable information changes, you may correct or update it by using the “update profile” link located in the footer throughout the site or e-mail us at [editor@dunhilltraveldeals.com](mailto:editor@dunhilltraveldeals.com).
+Please note that Dunhill Travel Deals may allow third party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Third party advertisers, including Google, use cookies to serve ads based on your prior visits to our website and other websites. Individual user click behavior is not shared with third parties in ways other than disclosed in this privacy statement. Advertisers’ use of cookies is subject to their own privacy policies, not the Dunhill Travel Deals Privacy Policy.
 
-We will retain your information for as long as needed to provide you services.  If you wish to request that we no longer use your information to provide you services contact us at [editor@dunhilltraveldeals.com](mailto:editor@dunhilltraveldeals.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+### Display Advertising:
 
-**Security:**
+Dunhill Travel Deals or one of our web advertising partners may deliver ads appearing on the website to users of our website. Our web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers only the use of cookies by Dunhill Travel Deals and does not cover the use of cookies by any third party advertisers.
 
-The security of your personal information is important to us. We follow generally acceptable industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+### Sharing With Third Parties:
 
-Questions? E-mail us at [editor@dunhilltraveldeals.com](mailto:editor@dunhilltraveldeals.com)
+Dunhill Travel Deals does not rent, share, sell, or trade your personal information with third parties other than as disclosed within this privacy policy.
 
-Dunhill Travel Deals  
-2307 West Broward Blvd.  
-Suite 402  
-Fort Lauderdale, FL 33312
+From time to time, Dunhill Travel Deals may share your personal information within our family of brands. This sharing enables us to provide you with additional travel related products which might interest you. All brands follow practices that are at least as restrictive as those described in this Privacy Policy. There is an option to unsubscribe or modify your information within every brand’s newsletters and on each website
+
+If Dunhill Travel Deals is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our website of any change in ownership or uses of your personal information, as well as any choice you may have regarding your personal information.
+
+Dunhill Travel Deals may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+
+### Outside Links:
+
+Dunhill Travel Deals contains links to other sites. Dunhill Travel Deals is not responsible for the privacy practices of such other sites. Dunhill Travel Deals encourages our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+
+### Security:
+
+The security of your personal information is important to us. We follow the highest industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. As such, we are not responsible for personally identifiable information that you may choose to share through these channels.
+
+### International Regulations:
+
+Dunhill Travel Deals has worked hard to make sure our policies and practices meet the highest standards for data privacy introduced by Canada’s Anti-Spam Law (CASL) and the EU’s General Data Protection Regulation (GDPR).  For all inquiries related to CASL or GDPR, please email [dataprotection@dunhilltraveldeals.com](mailto:dataprotection@dunhilltraveldeals.com) for assistance and information.
+
+### Changes to our Policy:
+
+Dunhill Travel Deals reserves the right to add to or modify this Policy simply by posting such addition or modification on the Dunhill Travel Deals website. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify users by way of an email or via a prominent notice on our site.
+
+### Questions:
+
+If you have questions about this Privacy Policy, please email us at [privacy@dunhilltraveldeals.com](mailto:privacy@dunhilltraveldeals.com).
+
+Dunhill Travel Deals is proud to provide the highest level of privacy and we hope you'll find these updates improve your overall experience. Thank you for being a part of our community!
