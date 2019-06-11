@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latitudefinancial.com.au privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815124058id_/https%3A//www.latitudefinancial.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latitudefinancial.com.au privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611053303id_/https%3A//www.latitudefinancial.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Latitude Financial Services
 
@@ -23,12 +23,12 @@ For example, if you fail to meet your payment obligations to us in relation to c
 
 We disclose information to the following credit reporting bodies: 
 
-**Dun and Bradstreet (Australia) Pty Ltd**   
+**illion Australia Pty Ltd**   
 Website: [www.checkyourcredit.com.au](http://www.checkyourcredit.com.au/)   
-Postal address: PO Box 7405, St Kilda Road, Melbourne, VIC 3004 
+Postal address: illion Public Access Centre, PO Box 7405, St Kilda Road, Melbourne, VIC 3004 
 
 **Equifax Australia**   
-Website: [www.equifax.com.au](http://www.equifax.com.au/)  
+Website: [www.mycreditfile.com.au](http://www.mycreditfile.com.au/)  
 Postal address: PO Box 964, North Sydney, NSW 2059 
 
 **Experian Australia Credit Services Pty Ltd**   
@@ -37,7 +37,7 @@ Postal address: PO Box 1969, North Sydney, NSW 2060
 
 These credit reporting bodies are each required to have a policy which explains how they will manage your credit-related personal information. To view the policy of any of these credit reporting bodies please visit the relevant credit reporting body's website and follow the "Privacy" links, or you can contact them directly for further information. 
 
-Excluding your credit reporting information from direct marketing pre-screening:
+Excluding your credit reporting information from direct marketing pre-screening: 
 
 You have the right to request that a credit reporting body exclude your credit reporting information from being used by them in connection with pre-screening for direct marketing requested by a credit provider. You should contact each relevant credit reporting body directly if you wish to request this. 
 
@@ -45,7 +45,7 @@ Protecting your credit reporting information if you are the victim of fraud:
 
 You have the right to request that a credit reporting body not use or disclose your credit reporting information if you believe that you have been, or are likely to be, the victim of fraud (for example, if you suspect that someone is using your identity details to apply for credit). You should contact each relevant credit reporting body directly if you wish to request this. 
 
-Accessing or correcting your personal information or making a privacy complaint:
+Accessing or correcting your personal information or making a privacy complaint: 
 
 You have the right to request access to, or correction of, personal information that we hold about you, including credit-related information. You also have rights to make a complaint if you consider that we have not complied with the Privacy Act in relation to this information. Our Privacy and Credit Reporting Policy (please see below) sets out how you can make such requests or complaints and how we will deal with them. 
 
@@ -73,7 +73,7 @@ As a group of companies offering a wide range of products and services, we colle
 
 The type of personal information we collect and hold may vary depending on the nature of our interactions with you. 
 
-For example, our companies which provide credit would collect and hold financial information, credit-related information ([see section 4]()), identification information, transaction / repayment history information, banking details and employment information about you. Our insurance companies3 would collect and hold similar information including sensitive information such as health information. 
+For example, our companies which provide credit would collect and hold financial information, credit-related information ( [see section 4]()), identification information, transaction / repayment history information, banking details and employment information about you. Our insurance companies 3 would collect and hold similar information including sensitive information such as health information. 
 
 In order to satisfy our legal obligations, we may need to retain your information after a transaction or a relationship has ended. However, we will not retain your identifiable personal information longer than is reasonably necessary and permitted under Australian law. 
 
@@ -220,12 +220,12 @@ Should you fail to meet your payment obligations to us or commit a serious credi
 
 We access and disclose credit information to the following credit reporting bodies: 
 
-**Dun and Bradstreet (Australia) Pty Ltd**   
+**illion Australia Pty Ltd**   
 Website: [www.checkyourcredit.com.au](http://www.checkyourcredit.com.au/)   
-Postal address: PO Box 7405, St Kilda Road, Melbourne, VIC 3004 
+Postal address: illion Public Access Centre, PO Box 7405, St Kilda Road, Melbourne, VIC 3004 
 
 **Equifax Australia Information Services and Solutions Pty Ltd**   
-Website: [www.equifax.com.au](http://www.equifax.com.au/ "open website in a new window")  
+Website: [www.mycreditfile.com.au](http://www.mycreditfile.com.au/ "open website in a new window")  
 Postal address: PO Box 964, North Sydney, NSW 2059 
 
 **Experian Australia Credit Services Pty Ltd**   
@@ -274,7 +274,7 @@ To evaluate the effectiveness of our website advertising, we may use third parti
 
 ##### 6.1. Access
 
-You are entitled to access the information we hold about you. Simple requests are best handled by speaking to the relevant customer service area. More complex requests such as accessing the Credit Information we hold about you or obtaining copies of contractual or insurance policy documents may be better detailed in writing to ensure we fully understand and can respond accurately to your request. The 'Contact Us'' table at the end of this policy contains details of the ways you can contact us.
+You are entitled to access the information we hold about you. Simple requests are best handled by speaking to the relevant customer service area. More complex requests such as accessing the Credit Information we hold about you or obtaining copies of contractual or insurance policy documents may be better detailed in writing to ensure we fully understand and can respond accurately to your request. The 'Contact Us' ' table at the end of this policy contains details of the ways you can contact us. 
 
 We will usually provide the information requested within 30 days of receiving your request. If there is a reason we are unable to agree to a request for access to your Personal Information we will advise you of this in writing. Some examples of why we may refuse a request for access include, where providing the information: 
 
@@ -299,27 +299,27 @@ In certain situations, we may not agree to a request to correct information we h
 
 If you believe that we have failed to comply with the Privacy Act (including credit reporting requirements in Part IIIA) or the Credit Reporting Privacy Code, please contact us and we will then follow our Internal Dispute Resolution process. The 'Contact Us' table at the end of this policy contains details of the ways you can contact us. 
 
-For more detailed information on our complaint handling process please refer to our [Internal Dispute Resolution](https://latitudefinancial.com.au/complaints) web page 
+For more detailed information on our complaint handling process please refer to our [Internal Dispute Resolution ](https://latitudefinancial.com.au/complaints) web page 
 
-If the complaint remains unresolved, you may refer it to a recognised External Dispute Resolution scheme **("EDR")**. Latitude is a member of the Financial Ombudsman Service Australia **("FOS Australia")**. FOS Australia independently and impartially resolves disputes between customers and participating members on matters including Privacy and Credit Reporting. 
+If the complaint remains unresolved, you may refer it to a recognised External Dispute Resolution scheme **("EDR")**. Latitude is a member of the Australian Financial Complaints Authority **("AFCA")**. AFCA independently and impartially resolves disputes between customers and participating members on matters including Privacy and Credit Reporting. 
 
-The contact details for **FOS Australia** are: 
+The contact details for **AFCA** are: 
 
-**The Financial Ombudsman Service Australia**  
+**Australian Financial Complaints Authority**  
 GPO Box 3  
 Melbourne Victoria Australia 3001  
-Phone: 1300 780 808  
-Fax: 03 9613 6399  
-Website: [www.fos.org.au](http://www.fos.org.au/)
+Phone: 1800 931 678  
+Email: [info@afca.org.au](mailto:info@afca.org.au)   
+Website: [www.afca.org.au](http://www.afca.org.au/)
 
 Alternatively, you may refer the matter to the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/) (the "OAIC"). 
 
 The contact details for the **OAIC** are: 
 
 **The Office of the Australian Information Commissioner**  
-GPO Box 2999  
+GPO Box 2999   
 Canberra ACT 2601  
-Australia  
+Australia   
 Phone: 1300 363 992  
 Fax: 02 9284 9666  
 Website: [www.oaic.gov.au](http://www.oaic.gov.au/)
