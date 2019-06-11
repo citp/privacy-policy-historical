@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gousto.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625125500id_/https%3A//www.gousto.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gousto.co.uk privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611165950id_/https%3A//www.gousto.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement and Cookies Policy - Gousto
 
-Effective Date: 06/06/2018 (Version 2.1)
+Effective Date: 09/08/2018 (Version 2.2)
 
   1. #### Who are we?
 
@@ -33,14 +33,16 @@ Effective Date: 06/06/2018 (Version 2.1)
   6. #### How do we protect personal data? 
 
     1. Security is a high priority for us. We take appropriate precautions to protect personal data. We will make every effort to look after your data and treat it with the respect it deserves.
-    2. Your data will be transferred, stored and/or processed outside the EEA as our suppliers sometimes operate from outside of the EEA. We will only transfer your data outside of the EEA in compliance with data protection laws and provided appropriate or suitable safeguards are in place to protect your data, these being either Standard Contractual Clauses, Binding Corporate Rules or, in the case of transfers to the US, a Privacy Shield certification. Please contact us if you would like details of the appropriate safeguards.
+    2. Your data will be transferred, stored and/or processed outside the EEA as our suppliers sometimes operate from outside of the EEA. We will only transfer your data outside of the EEA in compliance with data protection laws and provided appropriate or suitable safeguards are in place to protect your data, these being either Standard Contractual Clauses, Binding Corporate Rules (including the Mastercard Binding Corporate Rules) or, in the case of transfers to the US, a Privacy Shield certification. Please contact us if you would like details of the appropriate safeguards.
   7. #### To whom do we disclose personal data? 
 
     1. We may allow access to your personal data by third parties who supply us with a service. Examples include e-commerce platform providers, couriers (to enable delivery of goods), website hosts, content delivery networks and businesses which assist us in undertaking communications, monitoring, testing or improving our website
-    2. We share your payment information with SagePay (our payment gateway) and First Data (our payment provider) in order to process the payments of your orders and any potential refund.
+    2. We may share your payment information (including your email address) with SagePay, checkout.com and First Data (our payment gateway and providers) in order to process the payments of your orders and any potential refund.
     3. Your personal data may be supplied by our payment partners to relevant third parties including credit reference and fraud prevention agencies, who may keep a record of that information.
-    4. We may disclose your contact details to Trustpilot to enable it to email you inviting you to leave a review on our site.
-    5. We may disclose personal data so far as reasonably necessary if we have reason to believe that it breaches our terms and conditions, or that such steps are necessary to protect us or others, or that a criminal act has been committed, or if there has been a complaint about content posted by you, or if we are required to do so by law or appropriate authority.
+    4. If you choose to opt-in to receive third party communications from selected partners, your personal data will be shared to relevant third parties to allow you to receive tailored communications about products that may be of interest to you.
+    5. We share the data with our partner Epsilon Abacus (registered as Epsilon International UK Ltd), a company that manages the Abacus Alliance on behalf of UK retailers. The participating retailers are active in the clothing, collectables, food & wine, gardening, gadgets & entertainment, health & beauty, household goods, and home interiors categories. They share information on what their customers buy. Epsilon Abacus analyses this pooled information to help the retailers understand consumers’ wider buying patterns. From this information, retailers can tailor their communications, sending people suitable offers that should be of interest to them, based on what they like to buy.
+    6. We may disclose your contact details to Trustpilot to enable it to email you inviting you to leave a review on our site.
+    7. We may disclose personal data so far as reasonably necessary if we have reason to believe that it breaches our terms and conditions, or that such steps are necessary to protect us or others, or that a criminal act has been committed, or if there has been a complaint about content posted by you, or if we are required to do so by law or appropriate authority.
   8. #### How to access and control your information?
 
     1. You have the right to request a copy of your information, to rectify your information, to opt out from marketing communications and to request the deletion of your information. Below, we describe the processes for making these requests.
