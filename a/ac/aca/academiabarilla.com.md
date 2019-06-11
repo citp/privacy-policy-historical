@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academiabarilla.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630142233id_/http%3A//www.academiabarilla.com/legal-notice/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academiabarilla.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611174319id_/http%3A//www.academiabarilla.com/legal-notice/legal.aspx) for the most accurate reproduction.*
 
 # Legal | Legal notice | Academia Barilla
 
@@ -100,7 +100,7 @@ A complete list of the Personal Data processors may be consulted by contacting t
 
 Contact details of the Data Protection Officer (or “DPO”)
 
-The contact details of the Data Protection Officer appointed by the Controller are: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#561226397b1f22373a2f163437243f3a3a377835393b)
+The contact details of the Data Protection Officer appointed by the Controller are: [Dpo-Italy@barilla.com](mailto:Dpo-Italy@barilla.com)
 
 Your rights in relation to processing of your Personal Data
 
@@ -116,7 +116,7 @@ As the data subject, you are granted numerous rights by the Privacy Regulation. 
 
 
 
-You may exercise your rights with Barilla by accessing the [“Contact us”](http://www.academiabarilla.com/legal-notice/contact.aspx) section of the Website or sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#397d495614704d585540795b584b50555558175a5654) or by sending a letter by ordinary mail to Barilla, to the address indicated in the section “Identity and contact details of the Controller”.
+You may exercise your rights with Barilla by accessing the [“Contact us”](http://www.academiabarilla.com/legal-notice/contact.aspx) section of the Website or sending an e-mail to [Dpo-Italy@barilla.com](mailto:Dpo-Italy@barilla.com) or by sending a letter by ordinary mail to Barilla, to the address indicated in the section “Identity and contact details of the Controller”.
 
 Furthermore, if you believe that processing of your Personal Data breaches the Privacy Regulation, you may lodge a complaint with the Data Protection Supervisory Authority in the State in which you reside, where your workplace is located or in which the presumed breach has occurred, or contact said Authority to request information on exercising of your rights under the Privacy Regulation.
 
@@ -124,7 +124,7 @@ The right to object to processing of your Personal Data
 
 At any moment and for reasons linked to your own specific situation, you are entitled to object to processing of your Personal Data which is based on a legitimate interest pursued by the Controller or by third parties. In this case, the Controller abstains from further processing of your Personal Data unless it demonstrates the existence of legitimate and binding reasons which prevail over your interests, rights or freedoms or processing is necessary to ascertain, exercise or protect a legal right.
 
-You are entitled to object to processing of your Personal Data, by accessing the [“Contact us”](http://www.academiabarilla.com/legal-notice/contact.aspx) section of the Website or sending an e-mail to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0c487c632145786d60754c6e6d7e6560606d226f6361).
+You are entitled to object to processing of your Personal Data, by accessing the [“Contact us”](http://www.academiabarilla.com/legal-notice/contact.aspx) section of the Website or sending an e-mail to: [Dpo-Italy@barilla.com](mailto:Dpo-Italy@barilla.com).
 
 If you object to processing of your Personal Data for this purpose, the Controller will be unable to carry out the related processing.
 
