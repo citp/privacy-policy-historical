@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubeautomator.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420123218id_/http%3A//www.tubeautomator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubeautomator.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611132541id_/http%3A//www.tubeautomator.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Tube Automator - Increase Youtube Views | YouTube Views Increaser | Buy Youtube Views | Tube Toolbox | Youtube Bot - Make your Video Popular
 
