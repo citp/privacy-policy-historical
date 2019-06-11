@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the mmh.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208212705id_/https%3A//www.mmh.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmh.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611034536id_/https%3A//www.mmh.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**EH Publishing, Inc. and Peerless Media LLC’s Privacy Policy**
-
-Latest Revision: May 2010
+Latest Revision: January 2018
 
 Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. This Privacy Policy describes the policies of the publishers of this web site, EH Publishing, Inc., (“EH” or “we”), and its divisions (Peerless Media LLC), regarding the collection, use, disclosure and protection of the following types of information:
 
-• Information obtained when you (“you” or “User”) visit our web sites (this “Site”, including MMH.com, LogisticsMGMT.com and SCMR.com).  
-• Information obtained through e-mail communications with you related to the Site.
+  * Information obtained when you (“you” or “User”) visit our web sites (this “Site”, including [MMH.com](https://www.mmh.com/), [Logisticsmgmt.com](http://www.logisticsmgmt.com/) and [SCMR.com](http://www.scmr.com/)).
+
+  * Information obtained through e-mail communications with you related to the Site.
+
+
 
 This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.
 
@@ -21,17 +22,23 @@ Many of our sites require you to provide certain information about yourself when
 
 When you visit this Site, we may collect the IP address of your computer. We also use technology to automatically record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include “cookies” and “clear GIFs” (also known as “pixel tags” or “beacons”). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
-Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit: [http://www.networkadvertising.org/optout_nonppii.asp](http://www.mmh.com/?URL=http%3A%2F%2Fwww.networkadvertising.org%2Foptout_nonppii.asp). You also may view the privacy policy of 24/7 Real Media, Open Ad Stream, a third party that serves ads to our Sites, at [http://www.247realmedia.com/EN-US/privacy-policy.html](http://www.mmh.com/?URL=http%3A%2F%2Fwww.247realmedia.com%2FEN-US%2Fprivacy-policy.html).
+Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit: [http://www.networkadvertising.org/optout_nonppii.asp](https://www.mmh.com/?URL=http%3A%2F%2Fwww.networkadvertising.org%2Foptout_nonppii.asp). You also may view the privacy policy of 24/7 Real Media, Open Ad Stream, a third party that serves ads to our Sites, at [http://www.247realmedia.com/EN-US/privacy-policy.html](https://www.mmh.com/?URL=http%3A%2F%2Fwww.247realmedia.com%2FEN-US%2Fprivacy-policy.html).
 
 **Your Information: How We Use It**
 
 We use Personally Identifiable Information collected on this Site for the following purposes:
 
-• To provide you with this Site and other products and services.  
-• To respond to your inquiries and contact you about changes regarding the Site.  
-• To provide you with e-mail, fax and other notices (such as expiration and renewal notices) regarding your account and the products or services that you are receiving, and for billing and collection purposes.  
-• For any other purpose disclosed at the time the information is collected or to which you consent.  
-• As otherwise specifically described in this Privacy Policy.
+  * To provide you with this Site and other products and services.
+
+  * To respond to your inquiries and contact you about changes regarding the Site.
+
+  * To provide you with e-mail, fax and other notices (such as expiration and renewal notices) regarding your account and the products or services that you are receiving, and for billing and collection purposes.
+
+  * For any other purpose disclosed at the time the information is collected or to which you consent.
+
+  * As otherwise specifically described in this Privacy Policy.
+
+
 
 We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site. We may use the information you provide us to send you e-mail, fax and other communications on behalf of EH Publishing, Inc., Peerless Media LLC, and our affiliates. These communications may include e-mail newsletters, as well as offers for other EH Publishing, Inc. services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from EH Publishing, Inc . We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. 
 
@@ -39,14 +46,23 @@ We also may use your information to better understand our Users and to improve o
 
 We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:
 
-• Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.  
-• To third parties engaged to provide services under contractual requirement to keep Personally Identifiable Information confidential and use it only to perform the services.  
-• Portions of this Site may be provided as “Premium” or “Sponsored” content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.  
-• To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services.  
-• To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving EH Publishing, Inc. or this Site.  
-• When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.  
-• When disclosure is necessary to accomplish the purpose for which you provide it.  
-• To other EH Publishing, Inc. member companies for any uses consistent with those disclosed in this Privacy Policy.
+  * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
+
+  * To third parties engaged to provide services under contractual requirement to keep Personally Identifiable Information confidential and use it only to perform the services.
+
+  * Portions of this Site may be provided as “Premium” or “Sponsored” content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.
+
+  * To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services.
+
+  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving EH Publishing, Inc. or this Site.
+
+  * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.
+
+  * When disclosure is necessary to accomplish the purpose for which you provide it.
+
+  * To other EH Publishing, Inc. member companies for any uses consistent with those disclosed in this Privacy Policy.
+
+
 
 **Our Security**
 
