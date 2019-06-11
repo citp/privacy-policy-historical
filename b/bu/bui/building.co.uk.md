@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the building.co.uk privacy policy that was archived on 2018-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180724092549id_/https%3A//www.building.co.uk/story.aspx%3FstoryCode%3D5093796) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the building.co.uk privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611060812id_/https%3A//www.building.co.uk/story.aspx%3FstoryCode%3D5093796) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Information - Building | Building
 
