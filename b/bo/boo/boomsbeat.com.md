@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boomsbeat.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523010841id_/http%3A//www.boomsbeat.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomsbeat.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611074446id_/https%3A//www.boomsbeat.com/privacypolicy) for the most accurate reproduction.*
 
-# BOOMSbeat
+# | BOOMSbeat
 
 THIS IS THE PRIVACY POLICY ("PRIVACY POLICY") FOR BOOMSbeat ("SITE," "WE," "US," OR "OUR"). THIS PRIVACY POLICY IS INTENDED TO EXPLAIN OUR PRIVACY PRACTICES AND COVERS THE FOLLOWING AREAS:
 
