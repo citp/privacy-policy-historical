@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229224008id_/http%3A//www.seattle.gov/tech/initiatives/privacy/about-the-privacy-program) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofseattle.net privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611060509id_/http%3A//www.seattle.gov/tech/initiatives/privacy/about-the-privacy-program) for the most accurate reproduction.*
 
 # About the Privacy Program - Tech | seattle.gov
 
@@ -10,15 +10,15 @@ Since that start, the program has continued to grow. We now conduct hundreds of 
 
 ## Privacy Principles
 
-The City of Seattle Privacy Principles were adopted as [City Council Resolution #31570](https://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf "City of Seattle Privacy Principles") on February 23, 2015. This set of six principles provides an ethical framework for developing appropriate policies, standards and practices regarding the public's personal information. These principles outline our commitment to collect only what is necessary, tell you how we use and share it, why we keep it only as long as necessary or required by law, and how we protect it from misuse.
+The City of Seattle Privacy Principles were adopted as [City Council Resolution #31570](http://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf "City of Seattle Privacy Principles") on February 23, 2015. This set of six principles provides an ethical framework for developing appropriate policies, standards and practices regarding the public's personal information. These principles outline our commitment to collect only what is necessary, tell you how we use and share it, why we keep it only as long as necessary or required by law, and how we protect it from misuse.
 
 ## Privacy Policy
 
-Adopted in July 2015, this [policy](https://www.seattle.gov/Documents/Departments/InformationTechnology/privacy/PrivacyPolicyFINAL.pdf "City of Seattle Privacy Policy") provides direction to all City departments about our obligations to follow our Privacy Principles, Privacy Statement, and our Privacy Review process. This policy outlines how departments will design projects with privacy top of mind.
+Adopted in July 2015, this [policy](http://www.seattle.gov/Documents/Departments/InformationTechnology/privacy/PrivacyPolicyFINAL.pdf "City of Seattle Privacy Policy") provides direction to all City departments about our obligations to follow our Privacy Principles, Privacy Statement, and our Privacy Review process. This policy outlines how departments will design projects with privacy top of mind.
 
 ## **Privacy Statement**
 
-Informed by the Privacy Principles, the Privacy Statement outlines our commitments about the collection and management of the public's personal information and both replaces and expands on our former [Online Privacy Statement](https://www.seattle.gov/tech/initiatives/privacy/about-the-privacy-program#x58255).
+Informed by the Privacy Principles, the Privacy Statement outlines our commitments about the collection and management of the public's personal information and both replaces and expands on our former [Online Privacy Statement](http://www.seattle.gov/tech/initiatives/privacy/about-the-privacy-program#x58255).
 
 ## 
 
@@ -29,7 +29,7 @@ We understand the value of personal information and work to protect the personal
 This Privacy Statement applies to the collection, use, disclosure, sharing and retention of personal information we obtain from individuals interacting with City departments, whether in person, on a website (//www.seattle.gov/), or by mail in the course of providing City services. Each City department will strive to abide by and use this Privacy Statement to direct the handling of personal information, though from time to time it may be necessary for a City department to develop a practice that differs from this Privacy Statement. When that happens, we will do our best to provide you with notice of the practice and to let you know about your choices.
 
 **City of Seattle Employees  
-** This Statement does not apply to personal information we obtain in our capacity as an employer. Employment information is covered under separate polices which may be found on our [Human Resources website](https://www.seattle.gov/personnel/ "Human Resources website").
+** This Statement does not apply to personal information we obtain in our capacity as an employer. Employment information is covered under separate polices which may be found on our [Human Resources website](http://www.seattle.gov/personnel/ "Human Resources website").
 
 ## 
 
@@ -326,6 +326,6 @@ This information should not be construed in any way as giving business, legal, o
 
 ## 
 
-We are mindful of the populations we serve and how data about members of the public, including vulnerable populations, can and should be used. Our Privacy Principles are consistent with our [Race and Social Justice Initiative](https://www.seattle.gov/rsji). 
+We are mindful of the populations we serve and how data about members of the public, including vulnerable populations, can and should be used. Our Privacy Principles are consistent with our [Race and Social Justice Initiative](http://www.seattle.gov/rsji). 
 
 ## 
