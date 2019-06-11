@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uatoday.tv privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729050531id_/https%3A//www.unian.info/static/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uatoday.tv privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611095727id_/https%3A//www.unian.info/static/policy) for the most accurate reproduction.*
 
 # PRIVACY AND PERSONAL DATA PROTECTION POLICY - UNIAN
 
@@ -123,7 +123,7 @@ _Important:_
 
 • disabling of cookies may result in a restricted access to the contents and inappropriate functioning of the Website services.
 
-To contact the Company about the use of cookies, please send an email to [questions@1plus1.digital](mailto:questions@1plus1.digital)  
+To contact the Company about the use of cookies, please send an email to   
 
 If the user does not enable the use of cookies or intentionally removes all cookies from his/her web browser, during his/her next visit to the Website the user shall again be offered to enable and use cookies.
 
@@ -211,7 +211,7 @@ The Company hereby informs you about your rights as the personal data subject wh
 
 13) to be protected against any automated decision having legal implications for you.
 
-If you want to update, access, modify, block or delete your personal data, or to withdraw your consent to your personal data processing which you provided to the Company under this Policy, or if you have any comments, requests or complaints regarding your personal data processed by the Company, please contact the Company: by email at [questions@1plus1.digital](mailto:questions@1plus1.digital)    or send an email to: 01001 Kyiv, Khreshchatyk 4 .
+If you want to update, access, modify, block or delete your personal data, or to withdraw your consent to your personal data processing which you provided to the Company under this Policy, or if you have any comments, requests or complaints regarding your personal data processed by the Company, please contact the Company: by email at     or send an email to: 01001 Kyiv, Khreshchatyk 4 .
 
  **Policy Amendments**
 
