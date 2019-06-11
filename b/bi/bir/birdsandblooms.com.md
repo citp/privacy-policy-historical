@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birdsandblooms.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231082706id_/https%3A//www.trustedmediabrands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdsandblooms.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611135719id_/https%3A//www.trustedmediabrands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TMB
 
@@ -7,10 +7,10 @@
 **Effective as of November 7, 2017**  
  
 
-Updated as of April 9, 2018  
+Updated as of March 21, 2019  
  
 
-This Privacy Policy is applicable to any website, mobile app and other online service originating in the United States and owned and operated by Trusted Media Brands, Inc. or any of its U.S. subsidiaries and/or affiliates under its control (collectively the “Company”, “we”, “us” or “our”) that states it is governed by this Privacy Policy and/or links to this Privacy Policy as well as to consumer information that we receive from you or a third party in connection with Company publications and other products and services we offer to you (including both offline and online orders of subscriptions to Company magazines and other products and services we offer to consumers) unless otherwise specified (collectively, the “Service”). Subsidiaries and affiliates of Trusted Media Brands, Inc. include, without limitation, RDA Enthusiast Brands, LLC and Home Service Publications, Inc. As of April 9, 2018, the Company currently owns and operates the Service for the following brands (our “Family of Publications”):
+This Privacy Policy is applicable to any website, mobile app and other online service originating in the United States and owned and operated by Trusted Media Brands, Inc. or any of its U.S. subsidiaries and/or affiliates under its control (collectively the “Company”, “we”, “us” or “our”) that states it is governed by this Privacy Policy and/or links to this Privacy Policy as well as to consumer information that we receive from you or a third party in connection with Company publications and other products and services we offer to you (including both offline and online orders of subscriptions to Company magazines and other products and services we offer to consumers) unless otherwise specified (collectively, the “Service”). Subsidiaries and affiliates of Trusted Media Brands, Inc. include, without limitation, RDA Enthusiast Brands, LLC and Home Service Publications, Inc. As of March 24, 2019, the Company currently owns and operates the Service for the following brands (our “Family of Publications”):
 
   * Best Health U.S. ([www.besthealthus.com](http://www.besthealthus.com/))
   * Birds & Blooms ([www.birdsandblooms.com](http://www.birdsandblooms.com/))
@@ -23,11 +23,11 @@ This Privacy Policy is applicable to any website, mobile app and other online s
   * Reminisce ([www.reminisce.com](http://www.reminisce.com/))
   * Simple & Delicious ([www.tasteofhome.com/simple](https://www.tasteofhome.com/recipes/simple---delicious-magazine))
   * Taste of Home ([www.tasteofhome.com](http://www.tasteofhome.com/), [www.shoptasteofhome.com](http://www.shoptasteofhome.com/))
-  * The Family Handyman ([www.familyhandyman.com](http://www.familyhandyman.com/), [www.mydiyuniversity.com](https://www.mydiyuniversity.com/))
+  * Family Handyman ([www.familyhandyman.com](http://www.familyhandyman.com/), [www.mydiyuniversity.com](https://www.mydiyuniversity.com/), [https://insider.familyhandyman.com](https://insider.familyhandyman.com/))
 
 
 
-Any new brands, publications, sites and services acquired by or created by the Company will also be included in our Family of Publications. This Privacy Policy will tell you what information we collect when you visit the Service or order Company publications or other products and services we offer to you (whether you do so offline or online), how we use that information and what choices you have about how it is used. Some functions and services offered through the Service may have additional privacy statements that supplement this Privacy Policy. We urge you to read our entire Privacy Policy, and any applicable additional privacy statements, so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment. Please note that unless otherwise indicated, this Privacy Policy does not cover any information that may be collected elsewhere, including without limitation through any third party website.
+Any new brands, publications, sites and services acquired by or created by the Company will also be included in our Family of Publications, unless otherwise specified. This Privacy Policy will tell you what information we collect when you visit the Service or order Company publications or other products and services we offer to you (whether you do so offline or online), how we use that information and what choices you have about how it is used. Some functions and services offered through the Service may have additional privacy statements that supplement this Privacy Policy. We urge you to read our entire Privacy Policy, and any applicable additional privacy statements, so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment. Please note that unless otherwise indicated, this Privacy Policy does not cover any information that may be collected elsewhere, including without limitation through any third party website.
 
 **TABLE OF CONTENTS**
 
@@ -39,7 +39,7 @@ Any new brands, publications, sites and services acquired by or created by the C
 
 **Your Sharing of Personally Identifiable Information**
 
-**Notice of your Choices about Our Use and Sharing of Personally Identifiable Information**
+**Notice of Your Choices about Our Use and Sharing of Personally Identifiable Information**
 
 **Third Party Activities**
 
@@ -95,7 +95,7 @@ Company may save your credit card information for use when you log in to make fu
 Company may share your PII for any purposes and circumstances not prohibited by applicable law or inconsistent with the applicable Privacy Policy or any statement made by us to you in writing at the time of collection, including without limitation:
 
   * We may share your PII with our affiliates, our technical consultants, auditors and other third parties who act on our behalf, for example, to make the Service available, enhance functionality, or provide services related to the Service or fulfillment of subscriptions or orders for any of our publications or other products and services (such as sending emails, processing credit cards, fulfilling subscriptions and other orders, providing customer service, and performing data-, information technology-, or marketing-related services), and/or who assist us in producing, delivering, billing, collecting payment for, renewing and otherwise managing content, samples, products, and gifts and prizes.
-  * We may make your PII, along with certain other information about you (such as your interest in particular health or lifestyle topics or your subscription information), available to third parties for the purpose of offering products and services that may interest you, unless you opt out of such information sharing. (See the sections below entitled “ **Notice of your Choices about Our Use and Sharing of Personally Identifiable Information** ” and “ **Notice to California Customers – Your California Privacy Rights** ” on opting out of information sharing).
+  * We may make your PII, along with certain other information about you (such as your interest in particular health or lifestyle topics or your subscription information), available to third parties for the purpose of offering products and services that may interest you, unless you opt out of such information sharing. (See the sections below entitled “ **Notice of Your Choices about Our Use and Sharing of Personally Identifiable Information** ” and “ **Notice to California Customers – Your California Privacy Rights** ” on opting out of information sharing).
   * We may transfer your PII and other information in connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture or disclosure of all or a portion of our business or assets to another company.
   * We will consider, and may release, PII to third parties: to (i) comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of Company, our agents, customers, members, and others, including to enforce our agreements, policies and terms of use, or (iii) in an emergency to protect the personal safety of Company employees, customers, or any person.
 
@@ -111,7 +111,7 @@ Please be aware that when you connect and share your actions, comments, content 
 
 If you do not wish to receive promotional and newsletter emails from any one of our Family of Publications you may click on the unsubscribe link at the bottom of an email.
 
-You can also change your promotional and newsletter email preferences for all our Family of Publications by [clicking here to go to the E-Mail Preference Center form](http://pages.email.rd.com/page.aspx?QS=c76003443ff9837dd7351e542c0c9ccb23ce729861533058).
+You can also change your promotional and newsletter email preferences for all our Family of Publications and our promotion lists for receiving offers from third parties via email by [clicking here to go to the E-Mail Preference Center form](http://pages.email.rd.com/page.aspx?QS=c76003443ff9837dd7351e542c0c9ccb23ce729861533058).
 
 If you opt out of promotional or newsletter emails from any of our Family of Publications, we may continue to send you certain communications such as service announcements and administrative messages, relating to the Company or the Service that are necessary to our relationship with you.
 
@@ -133,7 +133,7 @@ If you submit PII through a form on the Service to request information from an 
 
 **Notice to California Customers – Your California Privacy Rights**
 
-California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes, or to find out more about your opt-out rights and how we comply with this law, please contact us at the email address or postal address described above.
+California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes, you may do so through the means set forth above under **“Notice of Your Choices about Our Use and Sharing of Personally Identifiable Information”**. To find out more about your opt-out rights and how we comply with this law, please contact us at the email address or postal address set forth in that section above.
 
 Any California residents under the age of eighteen (18) who have registered to use the Service, and who posted content or information on the Service, can request removal by contacting us at the email address or postal address described above.  We will then make reasonable good faith efforts to remove the post from prospective public view or anonymize it so the minor cannot be individually identified to the extent required by applicable law. This removal process cannot ensure complete or comprehensive removal. For instance, third-parties may have republished or archived content by search engines and others that Company does not control.
 
@@ -149,7 +149,7 @@ Company may use Google Analytics, Adobe Analytics or other service providers for
 
 We may use information collected using Tracking Technologies on our Service and in our emails to deliver Company advertising displayed to you on third party sites. We also may use Tracking Technologies information to know when you return to the Service after visiting these third party sites or when you go to a third party site or service after visiting the Service.  We may use this information and other information about you, for purposes such as to try to understand your interests and show you relevant Company advertising about products and services you may need. For more information about your choices regarding some of these types of uses of Tracking Technologies, please go to <http://www.aboutads.info/choices> and see the prior section above.
 
-**Cookies, Web Beacons and Server Logs**
+**Cookies, Web Beacons, Server Logs and Linking of Devices**
 
 Company, and third parties such as related Web hosting providers, and advertisers and ad serving and tracking companies, sometimes utilize “cookie” technology and other tracking technologies now and hereafter developed (“Tracking Technologies”) on or in connection with the Service. Cookies are bits of data stored on your hard drive that contain no personally identifying information (but may associate a unique identifier with your device and/or collect information that is hashed or otherwise converted to non-PII). Not all Web browsers accept cookies, and those that do usually provide a preference or setting that allows you to refuse and remove most types of browser cookies. If your browser does not accept cookies, you may still enjoy the Service but not all features and functionality may work.
 
@@ -160,6 +160,8 @@ We and third parties may collect information using Web beacons. Web beacons are 
 Server logs capture certain non-personally identifying data (but do track device identifiers), such as the time and date of a Web visit or opening an email, the browser and operating system being used, and the Web URL a user linked from. This information may be used for various purposes, such as use in aggregate form to help us plan system enhancements when necessary and to provide content that is compatible with our visitors’ Web-browsing systems. We also collect information about keyword searches performed by visitors on the Service. We do not collect your name or email address as a result of using a search feature. We may keep logs of all words searched to help us learn what kinds of information Service visitors are seeking, and to improve our Service.
 
 Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit. Note, however, there is no consensus among industry participants as to what “Do Not Track” means in this context.  Like many online services, we currently do not alter our practices when the Service receives a “Do Not Track” signal from a visitor’s browser.  To find out more about “Do Not Track,” you can visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/), but we are not responsible for the completeness or accuracy of this third party information. Some third parties, however, may offer you choices regarding their Tracking Technologies, such as is described above regarding analytics and Interest-based Advertising. One way to potentially identify cookies on our Service is to add the free Ghostery plug-in to your browser ([ **www.ghostery.com**](https://www.ghostery.com/)), which according to Ghostery will display for you traditional, browser-based cookies associated with the websites (but not mobile apps) you visit and privacy and opt-out policies and options of the parties operating those cookies.
+
+Company participates in the Adobe Marketing Cloud Device Co-op to better understand how you use our sites across various devices you use, and to deliver tailored promotions. Go to [https://cross-device-privacy.adobe.com](https://cross-device-privacy.adobe.com/) to learn more about how Adobe does this and to manage your choices relating to this linking of devices. 
 
 **Privacy and Security Precaution Warning**
 
