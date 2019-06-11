@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comicbookherald.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515184157id_/https%3A//www.comicbookherald.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookherald.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611135037id_/https%3A//www.comicbookherald.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Comic Book Herald
+# Privacy Policy
 
 ### Privacy
 
@@ -11,24 +11,6 @@ This Privacy Policy is an integral part of the agreement between Comic Book Hera
 The Websites gather identifying information about individuals only when individuals provide that information on a voluntary basis pursuant to the voluntary registration process for the Websites. Such information includes, but is not limited to, name, age, gender, email address, cell phone number, personal interests, and physical address. We use this voluntary profile data to, (a) authenticate users, (b) send notifications to users relating to the Websites, (c) assist users in communicating with each other, and (d) make offers to users that we believe may be of interest to them based on their personal profile data. With the exception of email address, physical address and cell phone number, registered users’ voluntary personal profile information, including pictures, are displayed to other registered users in order to facilitate user interaction. Registered users’ user names are displayed to all users, although each verified user has the option of having his or her full name displayed to all users instead of his or her user name. Under no circumstances are email addresses, physical addresses and cell phone numbers directly revealed to other users or disclosed to third parties other than as set forth below in the “Sharing and Disclosure of Information” section.  
 We also log non-personally identifiable information about use of the Websites, including, but not limited to, IP address, profile information, pages visited, and browser type, from users of the Websites. This data is used for, among other things, to provide customized content to users, provide targeted offers to users, manage the site, track usage and improve the site services. This non-personally identifiable information may be shared with third-parties to provide more relevant services and advertisements to users. User IP addresses are recorded for security and monitoring purposes.
 
-## **Support For Comic Book Herald:**
-
-Comic Book Herald’s reading orders and guides are made possible by [reader support on Patreon](https://www.patreon.com/comicbookherald), and generous reader donations.
-
-If you like Comic Book Herald reading orders and want _**exclusive reader rewards,  **_your support on Patreon would be tremendously appreciated! Rewards include:
-
-  * Custom monthly reading playlists
-  * Priority reading order requests + Q&A
-  * Weekly continuity updates
-  * Reading order update logs
-  * A direct hand in growing CBH!
-
-
-
-Any size contribution will help keep CBH alive and full of new comics guides and content. Support [CBH on Patreon](https://www.patreon.com/comicbookherald) for exclusive rewards, or [Donate here!](https://www.paypal.me/comicbookherald) Thank you for reading!
-
-[Become a Patron!](https://www.patreon.com/bePatron?u=4933500)
-
 Users must provide us, at a minimum, with a valid email address in order to complete the voluntary registration process. Email addresses are used to send notifications related to the Websites and to communicate offers. Registered users may communicate with each other through the Websites without disclosing their email addresses.  
 Cell phone numbers are used to send SMS (short Message Service), text and voice message notifications related to the Websites and to communicate offers. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration. Registered users who have provided their cell phone number to us may remove it from within their personal profile settings. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges.
 
@@ -36,13 +18,11 @@ We do not sell or make available any individual user information to unrelated th
 
 From time to time, Comic Book Herald or a partner, may sponsor a promotion, sweepstakes or contest on the Websites. Users may be asked to provide personal information including name, email address or home address or to answer question in order to participate. We may transfer personal information to certain ad partners that you have explicitly required to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
 
-[](https://shareasale.com/r.cfm?b=1147834&u=1120427&m=8908&urllink=&afftrack=)
-
 Third parties can read information voluntarily posted by registered users on the Websites. That information can be used by those third parties to send you unsolicited messages. We have no control over such unsolicited messages.  
 By using any of the Websites, you affirmatively consent to this Privacy Policy and agree to have your personal information (to the extent disclosed by you to the Websites) collected by the Websites (or its agents or contractors).
 
 **User Content**  
-Any information that you disclose when participating on the Websites (including creating a profile or submitting a comment to a story, a video or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the Websites. In addition, Comic Book Herald, its affiliates and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any user Content, and any information contained therein, in any and all media formats or channels, whether now known or thereafter devised, including, but not limited to, the Websites, other Comic Book Herald services, over the air and on mobile platforms. Further, other users of the Websites may embed a widget or feed that allows your user Content to appear on their personal, noncommercial website or page, blog or other application, subject to conditions set forth in the [Terms of Use](http://www.comicbookherald.com/terms-of-service/ "Terms of Service").
+Any information that you disclose when participating on the Websites (including creating a profile or submitting a comment to a story, a video or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the Websites. In addition, Comic Book Herald, its affiliates and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any user Content, and any information contained therein, in any and all media formats or channels, whether now known or thereafter devised, including, but not limited to, the Websites, other Comic Book Herald services, over the air and on mobile platforms. Further, other users of the Websites may embed a widget or feed that allows your user Content to appear on their personal, noncommercial website or page, blog or other application, subject to conditions set forth in the [Terms of Use](https://www.comicbookherald.com/terms-of-service/ "Terms of Service").
 
 **Use of Cookies**  
 The Websites uses cookies to store users’ preferences, account status, traffic origination and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our Websites. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. However, you must enable cookies from the specific website you wish to access in order to use most functions on such website. Third party advertisers on the Websites may have the ability to set and access their cookies on your computer. Advertisers’ use of cookies are subject to their own privacy policies and are not subject to this Privacy Policy.
@@ -59,12 +39,15 @@ Affiliate Disclaimer: Comic Book Herald is a participant in the Amazon Services 
 **Correcting/Updating Information and Terminating Registration**  
 Registered users may modify any of their personal information at any time by logging into their account and accessing their personal profile. Registered users may terminate their registration at any time, for any reason, by contacting dave@comicbookherald.com. Terminating your registration will not necessarily remove previous public comments and other user Content on public display on the Websites. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.
 
-**Third Party Advertising**  
-Ads appearing on the Websites may be delivered to users by Comic Book Herald or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Comic Book Herald and does not cover the use of cookies by any advertisers.
+**Third Party Advertising**
+
+Comic Book Herald uses third party advertising companies and advertising networks to deliver advertisements on the Site. These companies may use aggregated information (not including your name, address or email address) about your visits to this or other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+By visiting comicbookherald.com you consent to the collection and use of information by comicbookherald.com as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
 **Service Providers**
 
-We may use third party providers to process payments. When you checkout of our store, you will be asked to enter your first and last name, credit card information, billing and shipping address as necessary to complete your transaction. We do not store any of our users credit card information in our database.
+We may use third party providers to process payments. When you checkout of our store, you will be asked to enter your first and last name, email, billing and shipping address as necessary to complete your transaction. We do not store any of our users payment information in our database.
 
 **Opt-out**  
 Registered users may choose to no longer receive updates or notifications by managing their email and text message preferences in their personal profile settings.
@@ -90,13 +73,7 @@ For international users, please note that it may be necessary to transfer your i
 From time to time we may make changes to our Privacy Policy. If we make changes, we will post them on the Websites to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any changes to the policy when she or he uses the Websites after those changes have been posted. If, however, we intend to disclose users’ personally identifiable information in a manner different from that stated at the time of collection, we will post a notice of such intent on the Websites 30 days prior to such action.
 
 **Contacting Us**  
-If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please [contact us](http://www.comicbookherald.com/about/ "About Comic Book Herald").
+If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please [contact us](https://www.comicbookherald.com/about/ "About Comic Book Herald").
 
 **Effective Date**  
-This Privacy Policy is effective as of January 1, 2015. It was last updated on February 05, 2015.
-
-## **Heroically Support Comic Book Herald!**
-
-If you like Comic Book Herald, and are able to donate, any small contribution will help keep CBH alive and full of new comics guides and content. [Donate here!](https://www.paypal.me/comicbookherald) Or, support [CBH on Patreon](https://www.patreon.com/comicbookherald) for exclusive rewards! Thank you for reading!
-
-[Become a Patron!](https://www.patreon.com/bePatron?u=4933500)
+This Privacy Policy is effective as of January 1, 2015. It was last updated on September 04, 2018.
