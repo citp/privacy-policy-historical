@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangaseeonline.us privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501204044id_/http%3A//mangaseeonline.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangaseeonline.us privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611043528id_/http%3A//mangaseeonline.us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,4 +63,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 [MangaSee](http://mangaseeonline.us/)
 
-animeandmangastuff@outlook.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
