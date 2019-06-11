@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the fakaza2018.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210211518id_/http%3A//fakaza2018.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakaza2018.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611224105id_/http%3A//fakaza2018.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Fakaza Latest 2018 South African Song & Album Downloads
+# Privacy Policy | Fakaza Latest 2019 South African Song & Album Downloads
 
-[](https://t.co/DEGpEKj2v7)
+[](https://t.co/glpLthD8WY)
 
 ## Who we are
 
 Our website address is: http://fakaza2018.com.
+
+[](https://t.co/glpLthD8WY)
 
 ## What personal data we collect and why we collect it
 
@@ -54,6 +56,8 @@ If you have an account on this site, or have left comments, you can request to r
 
 ## Where we send your data
 
+[](https://t.co/glpLthD8WY)
+
 Visitor comments may be checked through an automated spam detection service.
 
 ## Your contact information
@@ -69,5 +73,3 @@ Visitor comments may be checked through an automated spam detection service.
 ### What automated decision making and/or profiling we do with user data
 
 ### Industry regulatory disclosure requirements
-
-[](https://t.co/DEGpEKj2v7)
