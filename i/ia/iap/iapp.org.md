@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iapp.org privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004113131id_/https%3A//iapp.org/about/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iapp.org privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611161513id_/https%3A//iapp.org/about/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -23,6 +23,8 @@ We keep a record of your participation in IAPP events as an attendee or presente
 In association with attending one or more of our conferences, you will have the option to download the “IAPP Events App” to help you navigate the conference and plan your schedule. The IAPP Events App may require the device identifier associated with your device but does not collect or use any other personal data.
 
 Some of our events are sponsored. The IAPP provides an attendee list to sponsors, co-sponsors and exhibitors of our events. The IAPP may also allow sponsors, co-sponsors and/or exhibitors to send you material by mail once per sponsored event, in which case the IAPP engages a third-party mailing house and does not share your mailing address directly with the sponsor/exhibitor. If you do not wish to have your information included in an attendee list or to receive information from sponsors, co-sponsors and/or exhibitors, you can express your preferences when you register for events or you may contact the IAPP directly at [dpo@iapp.org](mailto:dpo@iapp.org). Sharing your personal information with a sponsor allows you to receive the content for free. We do give attendees a choice not to receive marketing messages from the sponsor or from the IAPP.
+
+Exhibitors at IAPP events may wish to scan your badge so they can contact you with more information. The IAPP uses Expo Logic to provide badge scanning services to exhibitors who request it. By allowing an exhibitor to scan your badge you are consenting to have Expo Logic provide the exhibitor with your contact information, and thereafter you may be contacted by the exhibitor post-event. If you do not wish the exhibitor to contact you, please communicate this directly with the exhibitor at the event or thereafter.
 
 * **Publications**
 
