@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reecenichols.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910210017id_/https%3A//www.reecenichols.com/pages/home-match-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reecenichols.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611133844id_/https%3A//www.reecenichols.com/pages/home-match-privacy-policy) for the most accurate reproduction.*
 
 # Home Match Privacy Policy
 
@@ -51,7 +51,7 @@ YOU SHOULD NEVER TRANSMIT NONPUBLIC PERSONAL INFORMATION, SUCH AS CREDIT OR DEBI
 
 If you receive any electronic communication directing you to transfer funds or provide nonpublic personal information, EVEN IF THAT ELECTRONIC COMMUNICATION APPEARS TO BE FROM ReeceNichols or its affiliates, do not respond to it and immediately contact your real estate agent or title closer. Such requests, even if they may otherwise appear to be from ReeceNichols are likely part of a scheme to defraud you by stealing funds from you or using your identity to commit a crime.
 
-To notify ReeceNichols of suspected fraud related to your real estate transaction, send an email to [Fraud@ReeceNichols.com](https://web.archive.org/web/20180910210017id_/https%3A//www.reecenichols.com/pages/Fraud@ReeceNichols.com).
+To notify ReeceNichols of suspected fraud related to your real estate transaction, send an email to [Fraud@ReeceNichols.com](https://web.archive.org/web/20190611133844id_/https%3A//www.reecenichols.com/pages/Fraud@ReeceNichols.com).
 
   6. Updating Our Privacy Policy
 
@@ -70,13 +70,13 @@ This Privacy Policy is effective as of 7/16/2018. Our company can be reached at:
 Address: 11601 Granada Lane, Leawood, KS 66211  
 Telephone Number: (913) 491-1001  
 Facsimile Number: (913) 491-0930  
-Email Address: [clientcare@ReeceNichols.com](https://web.archive.org/web/20180910210017id_/https%3A//www.reecenichols.com/pages/clientcare@ReeceNichols.com)
+Email Address: [clientcare@ReeceNichols.com](https://web.archive.org/web/20190611133844id_/https%3A//www.reecenichols.com/pages/clientcare@ReeceNichols.com)
 
   9. California Privacy Rights
 
 Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties [including affiliates that are separate legal entities] during the immediately preceding calendar year for the third parties' direct marketing purposes and (2) the names and addresses of all such third parties.
 
-To request the above information please contact us by writing to [clientcare@ReeceNichols.com](https://web.archive.org/web/20180910210017id_/https%3A//www.reecenichols.com/pages/clientcare@ReeceNichols.com).
+To request the above information please contact us by writing to [clientcare@ReeceNichols.com](https://web.archive.org/web/20190611133844id_/https%3A//www.reecenichols.com/pages/clientcare@ReeceNichols.com).
 
   10. International Users
 
