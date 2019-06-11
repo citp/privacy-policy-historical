@@ -1,27 +1,67 @@
-> *The following text is extracted and transformed from the digitaledge.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041322id_/http%3A//www.naa.org/About-NAA/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaledge.org privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611230829id_/https%3A//www.digitaledge.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This is the World Wide Web site of the Newspaper Association of America, 4401 Wilson Boulevard, Suite 900, Arlington, Va. 22203-1867. NAA can be reached by e-mail at [feedback@naa.org](mailto:feedback@naa.org) and by telephone at (571) 366-1000. 
+## Who we are
 
-This site does not target children under the age of 13 and does not collect personal information about individuals except when specifically and knowingly provided by such individuals. Currently, the site collects information (e.g., name, title, employer, mailing address, telephone number, fax number, e-mail address, and payment information) voluntarily provided by individuals who register for NAA events or purchase NAA products online. NAA uses this information to process online requests. 
+Our website address is: https://www.digitaledge.org.
 
-Registration information may be provided to exhibitors or attendees of NAA events, but neither registration nor product-purchase information is sold. Exhibitors represent the universe of newspaper industry suppliers, from programmers and manufacturers to service-providers and consultants; attendees represent a cross-section of newspaper management and related parties, including supplier personnel. Third parties who receive registration information collected on this Web site have not agreed to maintain the confidentiality, security, and integrity of the personal information obtained. 
+## What personal data we collect and why we collect it
 
-To further enhance the relevance and value of NAA.org, the Association has begun to use Web measurement tools that provide details about the ways NAA.org visitors access site content (articles, reports, downloads) and respond to advertising messages. This non-personally identifiable information will be used by the NAA staff to improve the types of resources that are provided on NAA.org. 
+### Comments
 
-NAA has contracted with a Web measurement analysis firm to gather visitor usage information. As part of this relationship, NAA may use Web beacons and cookies to track visitors' page preferences and patterns. Only aggregated data, and no personally identifiable information, is collected. Although NAA's third-party service provider aggregates the information, NAA controls use of the data. 
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-If you wish to opt out from the Association's ability to analyze such collective data, set your Web browser to block cookies OR [click here](http://www.omniture.com/privacy/policy#optout) to access the opt-out page provided by NAA's Web measurement provider. 
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-Prior parental consent may be required before a child can submit personal information. For purposes of this policy, a child is anyone under the age of 13. A parent can consent to the collection and use of a child's personal information (e.g., name, e-mail address) without consenting to disclosure of that same information to third parties. A child's participation in any activity offered on this Web site cannot be conditioned on the disclosure of more personal information than reasonably is necessary to participate. In addition, a parent has a right to review and have deleted any personal information submitted by a child, and can refuse to permit further collection or use of the child's information by contacting NAA through the postal mail address, e-mail address, or telephone number shown above and requesting review or deletion of information submitted by a child to the Web site. 
+### Media
 
-Prior parental consent is not required for NAA to accept personal information from a child for the sole purpose of directly responding on a one-time basis to a specific online request. Any contact information obtained from a child in response to such a one-time request will be deleted from NAA's records and will not be used to re-contact the child. Likewise, prior parental consent is not required for NAA to accept personal information from a child for the sole purpose of directly responding more than once to a specific request. When responding more than once to specific request from an individual NAA knows to be a child, a reasonable effort will be made to notify a parent - either by postal mail or by e-mail sent to the parent, not the child - that he can refuse to allow further use of the child's contact information. Such notice will be sent immediately after the first response to the child's request and before any additional responses are sent. Any contest in which children are participants, and for which NAA knows children are registering online, shall be treated by NAA as a contact with a child in which it is responding more than once to a specific request. 
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-**Children** : Even under circumstances where prior parental consent is not required by law, NAA suggests that children obtain permission from a parent before sending any information about themselves (including name, age, address, e-mail address, etc.) to NAA or anyone else over the Internet. 
+### Contact forms
 
-**Parents** : NAA encourages parents to get involved with their children's online usage and to be aware of the activities in which their children are participating. Any personal information collected by NAA from children (if NAA is aware they are children) will be used only for internal purposes such as contest fulfillment, or fulfilling requests for information or materials. Such information will not be included in our database and will not be posted or published by NAA, or provided to any third parties, without prior parental consent. If you have any concerns regarding use of information provided by a child, please contact us at [feedback@naa.org](mailto:feedback@naa.org), or at the postal mail address or telephone number above. 
+### Cookies
 
-NAA's website contains links to many other sites. However, we are not responsible for the content or the privacy practices employed by other sites. 
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Questions or concerns regarding what is done with information provided via this site should be directed to [feedback@naa.org](mailto:feedback@naa.org) before any information is submitted. 
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+## Who we share your data with
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+### What third parties we receive data from
+
+We do not receive any data from any third parties.
+
+### What automated decision making and/or profiling we do with user data
+
+We do not conduct any automated decision-making or profiling on our member data or any indivuduals that access our services.
+
+### Industry regulatory disclosure requirements
+
+We have no industry regulatory disclosure requirements.
