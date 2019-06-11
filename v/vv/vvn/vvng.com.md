@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vvng.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315164641id_/http%3A//www.vvng.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vvng.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611164127id_/https%3A//www.vvng.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Victor Valley News | VVNG.com
+# Privacy - Victor Valley News Group | VVNG.com
 
 This is the Privacy Policy for all Web sites owned or operated by Victor Valley News, Inc. (“VVNG” “we” or “our”), including, without limitation the Web sites listed we own and operate (collectively, the “Site”). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the [User Agreement](http://www.vvng.com/user-agreement) posted on the Site.
 
@@ -9,8 +9,8 @@ This is the Privacy Policy for all Web sites owned or operated by Victor Valley 
 We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or if you wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at:
 
 Po Box 401  
-Victorville , CA 92393  
-E-mail: [contact@vvng.com](mailto:news@vvng.com)
+Victorville, CA 92393  
+E-mail: [news@vvng.com](mailto:news@vvng.com)
 
 If you would like to correct, update, or change your personal information with us please contact us the same way.
 
