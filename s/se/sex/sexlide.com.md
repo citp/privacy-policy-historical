@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexlide.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207093945id_/http%3A//erodolls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexlide.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611193336id_/http%3A//erodolls.com/privacy) for the most accurate reproduction.*
 
 # Live Sexcams: XXX Adult Shows - Free Porn Chat - EroDolls
 
