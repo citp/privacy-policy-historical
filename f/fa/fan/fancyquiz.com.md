@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fancyquiz.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506080124id_/http%3A//fancyquiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancyquiz.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611093558id_/http%3A//www.fancyquiz.com/privacy-policy) for the most accurate reproduction.*
 
 # FancyQuiz - Privacy Policy
 
