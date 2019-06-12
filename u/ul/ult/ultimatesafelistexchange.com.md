@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatesafelistexchange.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212125028id_/http%3A//www.ultimatesafelistexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatesafelistexchange.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612140206id_/http%3A//ultimatesafelistexchange.com/privacy.php) for the most accurate reproduction.*
 
 # Ultimate Safelist Exchange by Worldprofit Free Traffic Exchange | Free Advertising Free Web Traffic
 
@@ -28,5 +28,3 @@ Can a Visitor delete or deactivate Personally Identifiable Information collected
 What happens if the Privacy Policy Changes? We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
 
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
-
-Ultimate Safelist Exchange is not a multi-level marketing scheme or a get-rich-quick program, we are purely an advertising platform. We don't require you to have a website or sell any product to use our service. We do not require you to refer anyone to our site to use our service. You won't get rich by using our internet advertising program. This website uses cookies. Being a member and/or continued use of this website indicates that you accept our cookies policy. Thank you, we very much appreciate your support and being a member on our site!
