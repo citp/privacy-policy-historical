@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eventsnow.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192806id_/https%3A//www.eventsnow.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventsnow.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612025505id_/https%3A//www.eventsnow.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Explore And Book Tickets For all Hyderabad Events
+# Book Tickets Online for Your Favourite Sports, Entertainment & Music Concerts in Hyderabad
 
 Eventsnow values the trust you place in Eventsnow. This statement discloses the information practices for the Eventsnow, including what type of information is gathered and tracked, how the information is used and with whom the information is shared.
 
@@ -48,9 +48,7 @@ Eventsnow values the trust you place in Eventsnow. This statement discloses the 
 
 ##### Cancellation
 
-No cancellations are entertained. However, if the cancellation is made before the event start date or if the events are cancelled or postponed by the organizer, we will attempt to contact you and refund the amount as per the policy of the organizer.
-
-Please email to [helpdesk@eventsnow.com](mailto:helpdesk@eventsnow.com) before expiry of the event, if you desire for refund.
+No cancellations/refunds are entertained once the ticket is confirmed. However, if the events are cancelled or postponed by the organizer, we will attempt to contact you and refund the amount as per the policy of the organizer.
 
 ##### Refund
 
@@ -59,3 +57,5 @@ Please email to [helpdesk@eventsnow.com](mailto:helpdesk@eventsnow.com) before e
     * Eventsnow All refunds will be processed within 7 working days either by a direct refund processed to the card used to purchase or to the bank account provided to us.
 
 
+
+Copyright © 2019 Eventsnow.com. All Rights Reserved
