@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesixthaxis.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108093837id_/http%3A//www.thesixthaxis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesixthaxis.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612123432id_/https%3A//www.thesixthaxis.com/privacy-policy) for the most accurate reproduction.*
 
-# Video Gaming News & Reviews at TheSixthAxis
+# Privacy Policy – TheSixthAxis
 
 ## **TheSixthAxis Online Privacy Statement**
 
@@ -455,5 +455,3 @@ This privacy statement has been prepared based on provisions of multiple legisla
 This privacy policy relates solely to this Website, if not stated otherwise within this document.
 
 Latest update: October 23, 2018
-
-Read more: 
