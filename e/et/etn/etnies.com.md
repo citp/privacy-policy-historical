@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the etnies.com privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013112259id_/http%3A//www.etnies.com/us/privacy-policy-G2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etnies.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612202321id_/https%3A//www.etnies.com/us/privacy-policy-G2.html) for the most accurate reproduction.*
 
-# etnies.com Privacy Policy
+# Privacy Policy | etnies.com
 
 * * *
 
-Thank you for visiting this webpage, which you have reached from any of the affiliated websites of Sole Technology, Inc. (hereinafter "Sole Technology," "we" or "us"), namely http://etnies.com, http://emerica.com, http://esskateboarding.com, http://thirtytwo.com, http://altamontapparel.com, http://soletechnology.com or http://stilab.com (each a "Sole Technology Site" and, collectively, the "Sole Technology Sites"). We have created this Online Privacy Statement to demonstrate our firm commitment to your privacy. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used by us. This notice discloses our information gathering and dissemination practices for each of the Sole Technology Sites.
+Thank you for visiting this webpage, which you have reached from any of the affiliated websites of Sole Technology, Inc. (hereinafter "Sole Technology," "we" or "us"), namely https://www.etnies.com, https://www.emerica.com, https://www.esskateboarding.com, https://www.thirtytwo.com, http://soletechnology.com or http://stilab.com (each a "Sole Technology Site" and, collectively, the "Sole Technology Sites"). We have created this Online Privacy Statement to demonstrate our firm commitment to your privacy. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used by us. This notice discloses our information gathering and dissemination practices for each of the Sole Technology Sites.
 
 Although our computer systems are currently based in the United States of America, we operate internationally. Your personal data will be processed by us in the United States where data protection and privacy regulations may or may not be to the same level of protection as in other parts of the world, such as in the European Union. By visiting the Sole Technology Sites from outside the United States, you consent to the collection and processing in the United States of your identifiable information.
 
@@ -73,6 +73,6 @@ If you have any questions about this Online Privacy Statement, the practices of 
 
 * * *
 
-[](http://www.etnies.com/us "Home")
+[](https://www.etnies.com/us "Home")
 
-© 2017 etnies - All Rights Reserved
+© 2019 etnies - All Rights Reserved
