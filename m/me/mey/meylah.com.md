@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the meylah.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221002213id_/https%3A//meylah.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meylah.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612221946id_/https%3A//meylah.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy | Meylah
+# Privacy Policy | Meylah
 
 ### Privacy Policy
 
-This Privacy Policy was last revised on February 15, 2015.
+This Privacy Policy was last revised on May 25, 2018.
 
-Meylah, Corp. (“Meylah,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Meylah when you use the Meylah Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/termsofuse). 
+Meylah, Corp. ("Meylah," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Meylah when you use the Meylah Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/termsofuse). 
 
 ### Information We Collect
 
-User-Provided Information: You provide us information about yourself, such as your name and e-mail address, if you register for a Member account with the Service (including by “following,” “becoming a fan,” etc., of Meylah on a social network). If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service.
+User-Provided Information: You provide us information about yourself, such as your name and e-mail address, if you register for a Member account with the Service (including by "following," "becoming a fan," etc., of Meylah on a social network). If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service.
 
-Cookies Information: When you visit the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Meylah help you log in faster and enhance your navigation through the site. A cookie may also convey anonymous information about how you browse the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+Cookies Information: When you visit the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Meylah help you log in faster and enhance your navigation through the site. A cookie may also convey anonymous information about how you browse the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
-Log File Information: Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+Log File Information: Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
 Clear Gifs Information: When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Meylah account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Meylah better for our users.
 
@@ -22,7 +22,7 @@ Clear Gifs Information: When you use the Service, we may employ clear gifs (also
 
 We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service. 
 
-By providing Meylah your email address (including by “following,” “becoming a fan,” etc., of Meylah on a social network), you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications of activity on the Service to the email address you give us, in accordance with any applicable privacy settings. We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out by sending an email request to unsubscribe@meylah.com. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails.
+By providing Meylah your email address (including by "following," "becoming a fan," etc., of Meylah on a social network), you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications of activity on the Service to the email address you give us, in accordance with any applicable privacy settings. We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out by sending an email request to unsubscribe@meylah.com. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails.
 
 Following termination or deactivation of your Member account, Meylah may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, Meylah may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your Member account.
 
@@ -36,13 +36,13 @@ We use cookies, clear gifs, and log file information to: (a) remember informatio
 
 ### How We Share Your Information
 
-Personally Identifiable Information: Meylah will not rent or sell your personally identifiable information to others. Meylah may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Meylah (for instance, on servers or databases co-located with hosting providers).
+Personally Identifiable Information: Meylah will not rent or sell your personally identifiable information to others. Meylah may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Meylah (for instance, on servers or databases co-located with hosting providers).
 
 As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution. 
 
 Any personal information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information. 
 
-From time to time, we may run contests, special offers, or other events or activities (“Events”) on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties’ use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
+From time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
 
 Except as otherwise described in this Privacy Policy, Meylah will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](https://web.archive.org/termsofuse), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Meylah, our Users or others.
 
@@ -52,7 +52,7 @@ Meylah may allow third-party ad servers or ad networks to serve advertisements o
 
 ### How We Protect Your Information
 
-Meylah uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information and implement your privacy settings. We cannot, however, ensure or warrant the security of any information you transmit to Meylah or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Your privacy settings may also be affected by changes to the functionality of Meylah’s distributors, such as social networks. Meylah is not responsible for the functionality or security measures of any third party. 
+Meylah uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information and implement your privacy settings. We cannot, however, ensure or warrant the security of any information you transmit to Meylah or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Your privacy settings may also be affected by changes to the functionality of Meylah's distributors, such as social networks. Meylah is not responsible for the functionality or security measures of any third party. 
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Meylah, at all times.
 
@@ -86,3 +86,37 @@ Meylah, Corp.
 3020 Issaquah-Pine Lake Road SE,  
 PMB 540  
 Sammamish, WA 98074
+
+### GDPR Terms
+
+The terms and provisions only apply to EEA Residents and only to the extent that we are subject to the European Union's General Data Protection Regulation ("GDPR"). If there is any conflict between the GDPR Terms and the rest of this Privacy Policy, the GDPR Terms shall control with respect to EEA Residents (and only to the extent that we are subject to GDPR). Our identity and contact information is as follows:
+
+**Meylah, Corp, a Delaware Corporation  
+3020 Issaquah-Pine Lake Road SE,  
+PMB 540  
+Sammamish, WA 98074  
+support@meylah.com**
+
+We rely on the following legal grounds to process your personal information:
+
+  * **Consent.** We may use your personal information as described in this Privacy Policy subject to your consent. To withdraw your consent, please contact us at [support@meylah.com].
+  * **Performance of a contract.** We may need to collect and use your personal information, as applicable, to perform our contractual obligations.
+  * **Legitimate Interests.** We may use your personal information for our legitimate interests to provide our products, our partners' products, and our services and to improve our services and the content on the Website. We may use technical information as described in this Privacy Policy and use personal information for our marketing purposes consistent with our legitimate interests and any choices that we offer or consents that may be required under applicable law.
+  * Legal Compliance. We may collect and use your information in connection with legal obligations to which we are subject. These legal obligations include, but are not limited to, any and all applicable (i) federal, state, or local laws, rules, or regulations, (ii) court orders, or (iii) consent decrees.
+
+
+
+We may use information that we collect about you, including personal information, to:
+
+  * **Provide Products and Services.** We will use your information to provide our products, our partner's products, and our services to you; to respond to your inquiries; and for other customer service and support purposes. We use the payment information you provide to us in order to alert you of past, current, and upcoming charges, to allow us to present the purchase history to you, and to perform internal finance processes, such as looking the status of a credit card charge. In the event of a credit card dispute, we also share account information with your bank to verify the legitimacy of a charge.
+  * **Understand and improve our products.** We will perform research and analysis about your use of, or interest in, our products, our partner's products, our services, or content, or products, services or content offered by others. We do this to help make our products better and to develop new products. 
+  * **Communicate with you.** Service related communications. We may send you service and administrative emails to ensure the products or services are working properly. These messages are considered part of the service and you may not opt out of these messages. 
+  * **Promotional.** Subject to your opt-out preference, we may send you emails about new product features or other news about meylah or on topics we think would be relevant to you. You may opt out of receiving these communications at any time by using the unsubscribe link at the bottom of the applicable email or sending us a request at support@meylah.com. 
+  * **Responding to your requests.** We will also use your information to respond to your questions or comments.
+  * **Administrative.** We may contact you to inform you about changes in our services, our service offering and other important service related notices, such as changes to the Privacy Policy or about security or fraud notices. 
+  * **Advertising.** Subject to your opt-out preferences, we may develop and display content and advertising tailored to your interests on our services and other sites. 
+  * **Protecting Rights and Interests.** We will use your information to protect our rights and interests as well as the rights and interests of our users and any other person, as well as to enforce this Privacy Policy or our Terms of Service. 
+  * **Legal Compliance.** We may use your information to comply with applicable legal or regulatory obligations, including informal requests from law enforcement or other governmental authorities.
+  * **Other.** We also may use your information to manage our business or perform functions as otherwise described to you at the time of collection subject to your consent. Please read all online agreements carefully before accepting them.
+
+
