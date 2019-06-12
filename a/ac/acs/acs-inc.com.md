@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829001448id_/https%3A//www.xerox.com/en-us/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612151755id_/https%3A//www.xerox.com/about-xerox/privacy-policy/enus.html) for the most accurate reproduction.*
 
 # Xerox Corporation Privacy Policy
 
@@ -62,7 +62,7 @@ Personal data that is submitted in a business capacity may be merged with availa
 
 
 
-We share your personal data as necessary to complete a transaction or provide a product or service you have requested or authorised. For example, when you provide payment data to make a purchase, we will share your payment data with banks and other entities that process payment transactions or provide other financial services, and for fraud prevention and credit risk reduction.
+We share your personal data as necessary to complete a transaction or provide a product or service you have requested or authorized. For example, when you provide payment data to make a purchase, we will share your payment data with banks and other entities that process payment transactions or provide other financial services, and for fraud prevention and credit risk reduction.
 
 We share personal data among Xerox affiliates and subsidiaries to efficiently manage the operation of our business. We also share personal data with vendors or agents working on our behalf for the purposes described in this statement or in our contracts with you. For example, companies we've hired to provide customer service support or assist in maintaining and servicing products via our systems and services may need access to personal data to provide those functions. In such cases, these companies are required by contract to abide by our data privacy and security requirements and are not allowed to use personal data they receive from us for any other purpose. We may also disclose personal data as part of a corporate transaction such as a merger or sale of assets.
 
@@ -80,6 +80,16 @@ Personal data collected by Xerox may be transferred to, stored and processed in 
 
 Our privacy guidelines are communicated to Xerox employees on an annual basis as part of our mandatory training program. We take steps to ensure that the data we collect under this privacy statement is processed according to the provisions of this statement and the requirements of applicable law wherever the data is located. Sometimes we transfer personal data from the European Economic Area and Switzerland to other countries. When we do, we use a variety of legal mechanisms, including contracts, to help ensure any required rights and protections apply to your data.
 
+## EU-U.S. Privacy Shield
+
+Xerox Corporation complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework established by the U.S. Department of Commerce regarding the collection, use and retention of personal data transferred from the European Union and Switzerland to the United States. Xerox Corporation has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If third-party agents process personal data on our behalf in a manner inconsistent with the Privacy Shield Principles, we remain liable unless we prove we are not responsible for the event giving rise to the damage. If there is any conflict between the terms in this privacy statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
+
+In compliance with the Privacy Shield Principles, Xerox commits to resolve complaints about our collection or use of your personal data. European Union or Swiss individuals with inquiries or complaints regarding this privacy statement should first contact Xerox at: [privacy@xerox.com](mailto:privacy@xerox.com) and indicate “Privacy Shield” in the Subject line.
+
+Xerox further commits to cooperate with the panel established by the EU data protection authorities or the Swiss Federal Data Protection and Information Commissioner, as applicable, and comply with the advice given by the panel or commissioner with regard to data transferred from the EU or Switzerland. You may also be able, under certain conditions, to invoke binding arbitration.
+
+The Federal Trade Commission has jurisdiction over Xerox’s compliance with the Privacy Shield.
+
 ## Period of Storage
 
 Xerox retains personal data for as long as necessary to provide the products and fulfill the services and transactions you have requested or for other essential purposes such as complying with our legal obligations, resolving disputes and enforcing our agreements. Actual retention periods can vary. The criteria used to determine the retention periods include: (i) how long personal data is needed to provide our products or operate our business; (ii) whether the personal data is of a sensitive type; and (iii) whether Xerox is subject to a legal, contractual or similar obligation to retain the data.
@@ -96,7 +106,7 @@ You have choices about the data we collect. When you are asked to provide person
 
 
 
-You may contact Xerox to check the accuracy of your personal data or to request that your information be updated or deleted by writing to ethics@xerox.com. Please indicate "Access" in the subject line and let us know the details of your request in the body of the message. You may also contact us at the Xerox Ethics Helpline at 1-866-XRX-0001. Xerox reserves the right to confirm your identity and to modify the scope and number of requests. In certain cases, your request may be denied on the basis of a legitimate exception or where we are legally prevented from honoring such request.
+You may contact Xerox to check the accuracy of your personal data or to request that your information be updated or deleted by writing to [privacy@xerox.com](mailto:privacy@xerox.com). Please indicate "Access" in the subject line and let us know the details of your request in the body of the message. Xerox reserves the right to confirm your identity and to modify the scope and number of requests. In certain cases, your request may be denied on the basis of a legitimate exception or where we are legally prevented from honoring such request.
 
 ## Children
 
@@ -158,20 +168,25 @@ Yes, Xerox provides [a tool to opt-out of data collection](http://preferences-mg
 
 ## Communication Preferences
 
-Xerox may send commercial email to you advertising our products and services. You can also subscribe to various product and service-specific communications on our websites. If you receive commercial email from Xerox and wish to discontinue these mailings, you may unsubscribe at [www.xerox.com/unsubscribe or via an ‘opt-out’ provided in the communication](https://www.xerox.com/perl-bin/formeng.pl?form=2680_email_pref&XOGlang=en_US). You may also mail an unsubscribe request to:
+Xerox may send commercial email to you advertising our products and services. You can also subscribe to various product and service-specific communications on our websites. If you receive commercial email from Xerox and wish to discontinue these mailings, you may unsubscribe at [www.xerox.com/unsubscribe or via an ‘opt-out’ provided in the communication](https://www.xerox.com/perl-bin/formeng.pl?form=2680_email_pref&XOGlang=%5Bxrx_locale%5D). You may also mail an unsubscribe request to:
 
-Marketing Privacy Preferences  
-Xerox Corporation  
-Marketing Manager  
-27063 SW Canyon Creek Road,  
-Building 63 MS 7063-630,  
+Marketing Privacy Preferences
+
+Xerox Corporation
+
+Marketing Manager
+
+27063 SW Canyon Creek Road,
+
+Building 63 MS 7063-630,
+
 Wilsonville, OR 97070
 
 This unsubscribe option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, software updates, or other administrative and transactional notices, the primary purpose of which is not promotional in nature.
 
-Xerox commits to resolve complaints about your privacy and our collection or use of your personal data. Inquiries or concerns regarding this privacy statement and your rights under privacy laws can be directed to the Xerox Business Ethics and Compliance Office.
+Xerox commits to resolve complaints about your privacy and our collection or use of your personal data.
 
-To report your inquiries or concerns to the Business Ethics and Compliance Office please contact the Xerox Ethics Helpline. The Xerox Ethics Helpline is confidential and anonymous, if you so desire, and is available online and via the toll-free number listed below.
+To report your inquiries or concerns to the Xerox Business Ethics and Compliance Office please contact the Xerox Ethics Helpline. The Xerox Ethics Helpline is confidential and anonymous, if you so desire, and is available online and via the toll-free number listed below.
 
   * Web Reporting: [www.xeroxethicshelpline.com](http://www.xeroxethicshelpline.com/)
   * US & Canada Toll-Free Number: 1-866-XRX-0001
@@ -181,10 +196,14 @@ To report your inquiries or concerns to the Business Ethics and Compliance Offic
 
 You may also contact us via postal mail at:
 
-Xerox Corporation  
-Xerox Business Ethics and Compliance Office  
-201 Merritt 7  
-Norwalk, CT 06851-1056  
+Xerox Corporation
+
+Xerox Business Ethics and Compliance Office
+
+201 Merritt 7
+
+Norwalk, CT 06851-1056
+
 USA
 
 Xerox Limited is our representative for the European Economic Area and Switzerland:
@@ -193,13 +212,13 @@ Xerox Limited, Riverview, Oxford Road, Uxbridge, UB8 1HS, UK
 
 The Xerox subsidiary in your country or region can be found [here](https://www.xerox.com/en-us/about/contact-us).
 
-If you have questions about Xerox products or services, call us toll-free at 1-800-ASK-XEROX or 1-800-275-9376. [More contact information](https://www.xerox.com/en-us/about/contact-us) is available on [www.xerox.com](https://www.xerox.com/index/enus.html) if you have questions about support, sales, corporate information, scholarships, research and innovation, or services.
+If you have questions about Xerox products or services, call us toll-free at 1-800-ASK-XEROX or 1-800-275-9376. More contact information is available on [www.xerox.com](https://www.xerox.com/) if you have questions about support, sales, corporate information, scholarships, research and innovation, or services.
 
 ## Statement Updates
 
 Xerox reserves the right to make changes to this statement. If we make changes, we will revise this privacy statement to reflect such changes and revise the effective date of the statement.
 
-Statement Effective Date: May 1, 2018.
+Statement Effective Date: October 23, 2018.
 
 **What Was Revised in this Update?**
 
