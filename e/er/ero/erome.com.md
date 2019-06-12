@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the erome.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119050831id_/https%3A//www.erome.com/s/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erome.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612135419id_/https%3A//www.erome.com/s/terms) for the most accurate reproduction.*
 
-# EroMe | Free Photo & Video Hosting
+# EroMe | Photo & Video Sharing
 
 Welcome to Erome! Your use and access to Erome referred to as service, site, or website are included below. You are accepting these terms when using this service. If needed, these terms might be changed.
 
