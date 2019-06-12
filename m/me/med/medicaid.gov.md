@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the medicaid.gov privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227023030id_/https%3A//www.cms.gov/about-cms/agency-information/aboutwebsite/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicaid.gov privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612124054id_/https%3A//www.cms.gov/about-cms/agency-information/aboutwebsite/privacy-policy.html) for the most accurate reproduction.*
 
 # Centers for Medicare & Medicaid Services (CMS) Website Privacy Policy - Centers for Medicare & Medicaid Services
 
+The Privacy Policy for www.CMS.gov can be found here - [www.cms.gov/privacy](http://www.cms.gov/privacy).
+
 Protecting your privacy is very important to us. We're telling you about the Centers for Medicare & Medicaid Services (CMS) website privacy policy so you know what information we collect, why we collect it, and what we do with it. This policy covers the following websites:
 
-  * [www.CMS.gov](http://www.cms.gov/)
-  * [www.Medicare.gov](http://www.medicare.gov/)
-  * [www.MyMedicare.gov](http://www.mymedicare.gov/)
   * [www.Medicaid.gov](http://www.medicaid.gov/)
   * [www.InsureKidsNow.gov](http://www.insurekidsnow.gov/)
+  * Select cms.gov sub-domains that link to this page
 
 
 
