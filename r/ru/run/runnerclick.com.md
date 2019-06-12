@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runnerclick.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228002740id_/https%3A//runnerclick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnerclick.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612053703id_/https%3A//runnerclick.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Gringo Group Services and Privacy Policy
 
 ## ABOUT THIS PRIVACY POLICY
 
@@ -148,3 +148,5 @@ Kaffevej 41, 5 sal, th
 Rodovre 2610  
 Denmark  
 You can contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Gringo Group Services and Privacy Policy
