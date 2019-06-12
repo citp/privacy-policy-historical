@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the onhaxnet.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201200410id_/https%3A//onhaxnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onhaxnet.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612022328id_/https%3A//onhaxnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Download Free Softwares
 
-[](http://lot-309.com/bld/?token=3840b41d6b12dc9048d98e2fd32d204ea916e0d7&q=Privacy%20Policy)
+  
+**Privacy Policy**  
+
 
 IKRAM ULLAH (" **IKRAM** ") operates onhaxnet and may operate other websites. It is ULLAH policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -40,4 +42,6 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 Although most changes are likely to be minor, IKRAM may change its Privacy Policy from time to time, and in ULLAH sole discretion. IKRAM encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a onhaxnet account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-[](http://lot-309.com/bld/?token=3840b41d6b12dc9048d98e2fd32d204ea916e0d7&q=Privacy%20Policy)
+  
+**Privacy Policy**  
+
