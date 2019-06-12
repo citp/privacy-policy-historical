@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautychoice.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209170935id_/http%3A//www.beautychoice.com/pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautychoice.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612162311id_/http%3A//www.beautychoice.com/pages/privacy_policy.html) for the most accurate reproduction.*
 
 # BeautyChoice.com - Privacy Policy -- Your Info is Safe
 
