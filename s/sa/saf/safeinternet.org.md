@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safeinternet.org privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209081552id_/http%3A//www.safeinternet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeinternet.org privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612023643id_/http%3A//www.safeinternet.org/privacy-policy) for the most accurate reproduction.*
 
 # Safe Internet – Privacy Policy
 
