@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204154436id_/https%3A//www.drugabuse.gov/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612192127id_/https%3A//www.drugabuse.gov/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | National Institute on Drug Abuse (NIDA)
 
@@ -47,7 +47,7 @@ Persistent Cookies: We use persistent cookies to enable Google Analytics to diff
 
 ##  How to Opt Out or Disable Cookies 
 
-If you do not wish to have session or persistent cookies placed on your computer, you can disable them using your Web browser. If you opt out of cookies, you will still have access to all information and resources at the NIDA web sites. Instructions for disabling or opting out of cookies in the most popular browsers are located at <http://www.usa.gov/optout-instructions.shtml> Please note that by following the instructions to opt-out of cookies, you will disable cookies from all sources, not just those from NIDA. 
+If you do not wish to have session or persistent cookies placed on your computer, you can disable them using your Web browser. If you opt out of cookies, you will still have access to all information and resources at the NIDA web sites. Instructions for disabling or opting out of cookies in the most popular browsers are located at <http://www.usa.gov/optout-instructions> Please note that by following the instructions to opt-out of cookies, you will disable cookies from all sources, not just those from NIDA. 
 
 ##  How Personal Information Is Protected 
 
