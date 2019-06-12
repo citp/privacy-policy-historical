@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbseguess.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203194506id_/http%3A//www.cbseguess.com/pages/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbseguess.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612173348id_/http%3A//www.cbseguess.com/pages/privacy_policy.php) for the most accurate reproduction.*
 
 # CBSEGuess.com Privacy Policy
 
@@ -109,4 +109,4 @@ Users who no longer wish to receive our newsletter or promotional materials from
 
 **7\. How to contact CBSEGuess.com?**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us.](https://web.archive.org/web/20181203194506id_/http%3A//www.cbseguess.com/pages/contactus.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us.](https://web.archive.org/web/20190612173348id_/http%3A//www.cbseguess.com/pages/contactus.php)
