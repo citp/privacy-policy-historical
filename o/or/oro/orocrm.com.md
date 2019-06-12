@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orocrm.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030004251id_/https%3A//www.orocrm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orocrm.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613014503id_/https%3A//oroinc.com/privacy-policy) for the most accurate reproduction.*
 
-# OroCRM: A Top Ecommerce CRM | Privacy Poliy
+# Oro Inc Privacy Policy - Our Committment | ORO INC.
 
 ### 1\. Introduction.
 
@@ -43,11 +43,11 @@ We may use Anonymous Information or disclose it to third party service providers
 
 ### 7\. Opt-out.
 
-We may use your email address to send promotions, updates, a newsletter or news regarding our Site, service and products. You may choose not to receive future emails from us by pressing an unsubscribe link added at the bottom of each email that you receive from us or by sending a single email with the subject “BLOCK” to [info@orocrm.com](mailto:info@orocrm.com). Please note that the email must come from the email account you wish to block. Please note that even if you opt out of receiving the foregoing emails, we may still send you a response to any “Contact Us” request as well as administrative emails (for example, in connection with a password reset request) that are necessary to facilitate your use of the Site or the Account. If you wish to delete or deactivate your Account you can contact us at [info@orocrm.com](mailto:info@orocrm.com) and include adequate details of your request. Your email must contain the following topic: “DEACTIVATION OF ACCOUNT”
+We may use your email address to send promotions, updates, a newsletter or news regarding our Site, service and products. You may choose not to receive future emails from us by pressing an unsubscribe link added at the bottom of each email that you receive from us or by sending a single email with the subject “BLOCK” to show email. Please note that the email must come from the email account you wish to block. Please note that even if you opt out of receiving the foregoing emails, we may still send you a response to any “Contact Us” request as well as administrative emails (for example, in connection with a password reset request) that are necessary to facilitate your use of the Site or the Account. If you wish to delete or deactivate your Account you can contact us at show email and include adequate details of your request. Your email must contain the following topic: “DEACTIVATION OF ACCOUNT”
 
 ### 8\. Changes to Your Personal Information.
 
-To the extent that you do provide us with Personal Information, please ensure that it remains accurate. If your Personal Information changes, or you wish to remove or modify certain Personal Information that we are storing, you may either correct or update it by logging-in to your Account and making the change(s), or by contacting us at [info@orocrm.com](mailto:info@orocrm.com). Your email should include adequate details of your request and also contain the following email topic: “PERSONAL INFORMATION UPDATE REQUEST”. We will provide initial responses to such requests within a reasonable period of time.
+To the extent that you do provide us with Personal Information, please ensure that it remains accurate. If your Personal Information changes, or you wish to remove or modify certain Personal Information that we are storing, you may either correct or update it by logging-in to your Account and making the change(s), or by contacting us at show email. Your email should include adequate details of your request and also contain the following email topic: “PERSONAL INFORMATION UPDATE REQUEST”. We will provide initial responses to such requests within a reasonable period of time.
 
 ### 9\. Choice.
 
@@ -67,7 +67,7 @@ The Site is not intended for children under the age of 18 years old, and we do n
 
 ### 13\. Security.
 
-The security of your Personal Information is important to us. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, We cannot guarantee absolute security. If you have any questions about security on the Site, you can contact us [info@orocrm.com](mailto:info@orocrm.com).
+The security of your Personal Information is important to us. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, We cannot guarantee absolute security. If you have any questions about security on the Site, you can contact us show email.
 
 ### 14\. Merger, Sale or Bankruptcy.
 
@@ -75,8 +75,8 @@ In the event that we are acquired by or merged with a third party entity, or in 
 
 ### 15\. Your California Privacy Rights.
 
-California Civil Code Section 1798.83 permits customers of ORO who are California residents to request certain information regarding its disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [info@orocrm.com](mailto:info@orocrm.com). Please note that we are only required to respond to one request per customer each year.
+California Civil Code Section 1798.83 permits customers of ORO who are California residents to request certain information regarding its disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to show email. Please note that we are only required to respond to one request per customer each year.
 
 ### 16\. Commitment.
 
-We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and we are constantly evolving our Site to meet these demands. If you have any comments or questions regarding our Privacy Policy, or your Personal Information that we may be storing and using, please contact us at [info@orocrm.com](mailto:info@orocrm.com).
+We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and we are constantly evolving our Site to meet these demands. If you have any comments or questions regarding our Privacy Policy, or your Personal Information that we may be storing and using, please contact us at show email.
