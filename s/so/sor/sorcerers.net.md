@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sorcerers.net privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224103504id_/http%3A//www.sorcerers.net/Main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorcerers.net privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612023832id_/http%3A//www.sorcerers.net/Main/privacy.php) for the most accurate reproduction.*
 
 # Sorcerer's Place - Privacy Policy
 
@@ -66,8 +66,8 @@ Featured Shot
   
 Latest Releases  
 ---  
-[](http://www.sorcerers.net/Gamestore/index_pc_bg.php)  
-**[Buy Baldur's Gate: Siege of Dragonspear now!](http://www.sorcerers.net/Gamestore/index_pc_bg.php)**  
+[](http://www.sorcerers.net/Gamestore/index_pc_standalone.php)  
+**[Buy Planescape: Torment: Enhanced Edition now!](http://www.sorcerers.net/Gamestore/index_pc_standalone.php)**  
   
 
 
@@ -174,11 +174,11 @@ Downloads currently hosted on SP: 1157
 
 * * *
 
-Adventurers currently exploring SP: 97
+Adventurer currently exploring SP: 1
 
 * * *
 
-Forumites currently online: 61 users  
+Forumites currently online: [Blackthorne TA](http://www.sorcerers.net/community/members/Blackthorne%20TA.584) and 81 guests  
   
 Supporter Login  
 ---  
