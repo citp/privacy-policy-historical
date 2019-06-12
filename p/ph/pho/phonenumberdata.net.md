@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonenumberdata.net privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203071608id_/http%3A//www.phonenumberdata.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonenumberdata.net privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612065714id_/http%3A//www.phonenumberdata.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Free information about hundreds of millions of landline and cell phone numbers in the United States.
 
