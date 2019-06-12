@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybatua.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020070653id_/https%3A//www.mybatua.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybatua.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612183314id_/https%3A//www.mybatua.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
