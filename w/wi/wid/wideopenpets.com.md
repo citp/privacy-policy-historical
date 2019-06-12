@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wideopenpets.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919163013id_/https%3A//www.wideopenpets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wideopenpets.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612042430id_/https%3A//www.wideopenpets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wide Open Pets
 
@@ -76,7 +76,7 @@ This type of information is collected anonymously by approved third-party partne
 
 ## **What Is Done With The Collected Information?**
 
-Site Content: Wide Open Pets partners with Zeta Global to provide you with content that is relevant and personalized to your reading interests. You can read[ Zeta Global’s privacy policy here](https://zetaglobal.com/privacy-policy/).
+Site Content: Wide Open Pets partners with Zeta Global to provide you with content that is relevant and personalized to your reading interests. You can read[ Zeta Global's privacy policy here](https://zetaglobal.com/privacy-policy/).
 
 Email Communications: Wide Open Pets may use the information that you submit to send you email communications, such as newsletters, breaking news, information about the site, alerts, and promotional messages from advertising partners.
 
@@ -94,12 +94,12 @@ There are very few specific circumstances when your information is shared outsid
 
   * We employ third-party services to distribute email newsletters and these third-parties have access to specific information only for the purposes of fulfilling contracts on our behalf.
 
-  * In the event Wide Open Pets goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
+  * In the event Wide Open Pets goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
 
 
 
 
-Wide Open Pets utilizes common social media sharing and commenting features from Facebook, Twitter, Pinterest and Google+.  In using these features, these services may set a cookie to properly execute the specified action.  These features may collect your IP address and information about the page and action you are visiting.  These services are not required in order to use the site and are governed by that company’s privacy policy:
+Wide Open Pets utilizes common social media sharing and commenting features from Facebook, Twitter, Pinterest and Google+.  In using these features, these services may set a cookie to properly execute the specified action.  These features may collect your IP address and information about the page and action you are visiting.  These services are not required in order to use the site and are governed by that company's privacy policy:
 
   * [Facebook Privacy](https://www.facebook.com/policy.php)
   * [Google+ Privacy](https://policies.google.com/privacy?hl=en)
@@ -118,7 +118,7 @@ Additional details and privacy policy notice with contact information for Zeta G
 
 ## **Cookies**
 
-A cookie (otherwise known as an HTTP cookie) is a small piece of code which can be sent from a web site or banner ad and stored on a user’s web browser. The cookie stores data such as preferences, previous activity, and other information. For more information on HTTP cookies and other online advertising definitions please visit [IAB’s web site](http://www.iab.net/).
+A cookie (otherwise known as an HTTP cookie) is a small piece of code which can be sent from a web site or banner ad and stored on a user's web browser. The cookie stores data such as preferences, previous activity, and other information. For more information on HTTP cookies and other online advertising definitions please visit [IAB's web site](http://www.iab.net/).
 
 To comply with the European Union Directive 2009/136/EC, amending Directive 2002/58/EC on Privacy and Electronic Communications (otherwise known as the e-Privacy or Cookie Directive), we provide notice to consumers visiting our site from the EU about our cookie practices and obtain consent for such practices. By using our services, you agree to the use of cookies as detailed below.
 
@@ -173,7 +173,7 @@ DFP for Small Publishers, powered by Google, is the adserving platform on Wide O
 
 If you want to opt out of receiving targeted ads from DFP, [visit this link](https://www.google.com/settings/ads). Opting out does not mean you will not get ads from DFP; it means DFP will not collect non-personal information about you or serve ads targeted to your interests.
 
-[Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/learn_more.asp) is part of the industry’s self-regulatory initiative. If you would like to opt out of third-party partners’ non-personal information tracking, visit the [NAI opt out](http://www.networkadvertising.org/managing/opt_out.asp) section. Opting out does not mean you will not receive advertising on Wide Open Pets. It ensures that your non-personal information will not be automatically tracked by the sites you have opted out of.
+[Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/learn_more.asp) is part of the industry's self-regulatory initiative. If you would like to opt out of third-party partners' non-personal information tracking, visit the [NAI opt out](http://www.networkadvertising.org/managing/opt_out.asp) section. Opting out does not mean you will not receive advertising on Wide Open Pets. It ensures that your non-personal information will not be automatically tracked by the sites you have opted out of.
 
 ## **Contact Us**
 
