@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemoneybloggers.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016071915id_/http%3A//www.onlinemoneybloggers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemoneybloggers.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612072757id_/http%3A//www.onlinemoneybloggers.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Online Money Bloggers
 
