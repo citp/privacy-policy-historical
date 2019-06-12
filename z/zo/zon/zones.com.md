@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zones.com privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809100823id_/https%3A//www.zones.com/site/statics/static_page.html%3Fname%3Dcorporate/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zones.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612053151id_/https%3A//www.zones.com/site/statics/static_page.html%3Fname%3Dcorporate/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # General Policies - Privacy Policy
 
-Zones, Inc., ("Zones" or "we") a global IT solutions provider, delivers products and services to help companies make a complete digital transformation – from desktop to data center – to the cloud and beyond. Zones is committed to Customer privacy. We regularly review our privacy policies to ensure we remain current with applicable laws, as well as ensuring the goodwill of our Customers. 
+Zones, LLC, ("Zones" or "we") a global IT solutions provider, delivers products and services to help companies make a complete digital transformation – from desktop to data center – to the cloud and beyond. Zones is committed to Customer privacy. We regularly review our privacy policies to ensure we remain current with applicable laws, as well as ensuring the goodwill of our Customers. 
 
 This privacy policy ("Privacy Policy") explains how Zones and its affiliates collect, retain, use, disclose, or otherwise process information about our Customers and potential customers (each, a "Customer", or "You"). 
 
@@ -45,7 +45,7 @@ Zones reserves the right to amend or update this Privacy Policy at any time. Any
 
 Customers have online access to their own Customer Information retained by Zones. Additional access to Customer Information is available during Zones' regular business hours. Customers may contact Zones via the information below to review, update, or inquire about their information.
 
-Zones, Inc.  
+Zones, LLC  
 1102 15th St SW, Ste 102  
 Auburn, WA 98001  
 **Phone:** 253-205-3000
