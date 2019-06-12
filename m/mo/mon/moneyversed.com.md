@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyversed.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202113823id_/https%3A//moneyversed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyversed.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612164041id_/https%3A//moneyversed.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Money Versed
+# Privacy Policy
 
 Your privacy is very important to us at Money Versed, and so we have a few fundamental principles that we follow in order to protect it: 
 
