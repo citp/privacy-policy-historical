@@ -1,70 +1,100 @@
-> *The following text is extracted and transformed from the gameflare.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905164106id_/http%3A//www.gameflare.com/pp_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameflare.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613003047id_/https%3A//www.gameflare.com/pp_en.html) for the most accurate reproduction.*
 
 # 
 
-This Privacy Policy governs the manner in which GameFlare.com collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.gameflare.com/ website ("Site"). This privacy policy applies to the Site and all products and services offered by GameFlare.com.
+This Privacy Policy governs the GameFlare.com ("GF") websites and it applies to all of GF services and products. You should be aware that GF cannot be held responsible for the privacy policy of other sites and sources.
 
-Personal identification information
+Please read this Privacy Policy. By accessing or using our websites, you are consenting to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use our websites. We reserve the right to change this Policy from time to time and it is your responsibility to review this Privacy Policy on a regular basis. 
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We are aware of the trust you place in us. We see it as our responsibility to protect your privacy. On this page, we will let you know what information we collect when you use our website, why we collect it and how we improve your user experience. Thus, you will understand exactly how we work.
 
-Non-personal identification information
+**Definition**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+  * The terms "Website", "Us", "Our", "Ours" and "We", as well as all other first-person pronouns, are used to refer to GF
+  * The terms "You", "Your", the "User", as well as all other second-person pronouns, are used to refer to as the user of the Websites and/or services provided by Us.
 
-Web browser cookies
 
-Our Site may use "cookies" to enhance User experience. Userâ€™s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-How we use collected information
+**Which data do we collect?**
 
-GameFlare.com may collect and use Users personal information for the following purposes:
+  * Data we receive from you 
+    * Email address when you choose to participate in various activities on our website such as registering an account, chat, posting messages in the games comment section or in our forums, sending feedback (report), entering contests, responding to surveys, or subscribing to newsletters, filling contact form or other mailing lists.
+    * User name and password to protect your account.
+    * State or sex in profile settings
+    * Other information to us directly or through third-party services such as social media or mobile apps.
+  * Data we receive automatically 
+    * We can collect some personal information through the use of cookies: see [Cookie Policy](https://web.archive.org/cp_en.html).
+    * Some other personal information may be collected without the use of cookies: (used e.g. for preventing double voting), browser type and version, OS type and version, (mobile) device IDâ€™s, cookie data, location.
+    * Like others, we collect this information and use it for users statistics and to improve our services to you.
+  * Data we receive from third parties 
+    * When we receive personal information from third parties we will inform you personally.
 
-\- To improve customer service  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
-We may use feedback you provide to improve our products and services.  
-\- To send periodic emails  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-How we protect your information
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+**How we use collected information**
 
-Sharing your personal information
+  * Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * We may use information in the aggregate to understand how our users as a group use the services and resources provided on our website and offer you better services. 
+  * We may use feedback you provide to improve our products and services.
+  * We may use the email address to send user information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If user decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the user would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or user may contact us via our website or email.
+  * Advertisers on our website might use information gathered by the use cookies for the purpose of online advertising. See [Cookie Policy](https://web.archive.org/web/20190613003047id_/https%3A//www.gameflare.com/cp_en.html)
+  * GF is not responsible for any personal information collected via any third party software or methods present on our website and to which said third partiesâ€™ general terms and conditions may apply.
+  * You are advised not to use your real name or real email address in any of the games provided on our website including, without limitation, when engaging in multiplayer games.
+  * We may opt to use your personal information for statistical purposes. These processing activities are thus based on a justified legitimate interest of GF.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-Third party websites
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that websiteâ€™s own terms and policies.
+**With whom we share your personal information**
 
-Advertising
+  * We do not rent or sell personally identifiable information to others. We do not share email addresses with third parties for the purpose of sending their own emails to you without your consent.
+  * We may share information we collect with our third party business partners, advertising companies, and other third parties or allow third parties to collect this information for the purposes described in this Privacy Policy: 
+    * Third Party Advertisers 
+      * Performance data
+      * Cookies - see [Cookie Policy](https://web.archive.org/web/20190613003047id_/https%3A//www.gameflare.com/cp_en.html)
+      * Aggregated and/or de-identified information about you and other players (like players playing action games from USA)
+      * Certain technical information (for example, IP addresses)
+    * Service Providers 
+      * We may use third party service providers to perform services for us such as to provide the infrastructure and IT services 
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-Google Adsense
 
-Some of the ads may be served by Google. Googleâ€™s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+**Data retention periods**
 
-Changes to this privacy policy
+  * We keep your information only so long as we need it for the purposes mentioned above. Unless there is a justified reason to retain the personal information, for example within the framework of customer relation management, your personal information will be deleted one month after you failed to visit our website during a consecutive period of two years.
 
-GameFlare.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+**How we protect your information**
 
-Contacting us
+  * Data you provide us with will be stored on secure servers.
+  * We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our website.
+  * We restrict access to personal information to the companyâ€™s employees, contractors and agents who need to know that information in order to process it for us, and who are subject to contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+  * Although we work hard to protect your personal information, please note that no system can be guaranteed to be 100% secure. We will report personal information breaches within 72 hours to the local authority.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+
+
+**Children's privacy**
+
+  * GF does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us.
+
+
+
+**Your rights and options**
+
+  * Your rights include the following: 
+    * Right to access your personal information and to update your personal information
+    * You can easily request us to delete or stop processing your personal information
+    * You can unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or user may contact us via our website or email.
+    * In the event you have any questions or concerns in relation to the processing of you personal information you can send an email.
+
+
+
+**Contact information**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
 GameFlare.com
 
-http://www.gameflare.com/
-
-GameFlare.com  
 zahraj.sk@gmail.com
 
-This document was last updated on July 28, 2014
+This document was last updated on October 12, 2018
