@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the magicjacksupport.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006202816id_/http%3A//www.magicjack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicjacksupport.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612021131id_/https%3A//www.magicjack.com/privacy.html) for the most accurate reproduction.*
 
 # magicJack Privacy Policy
 
-**Questions?** Click here for help from magicJack.
+The “Companies” (or “we” or “us” or “our” as defined in our Subscriber Agreement) know that you care about how your personal information is used and shared and we take your privacy seriously. Please read the following to learn more about how we use your personal information. All capitalized terms not defined in this Privacy Policy shall have the meanings ascribed to them in the Subscriber Agreement which may be found at: [www.magicjack.com/saps](https://www.magicjack.com/saps) and as may be modified thereafter (the “Subscriber Agreement”).
 
-The “Companies” (or “we” or “us” or “our” as defined in our Subscriber Agreement) know that you care about how your personal information is used and shared and we take your privacy seriously. Please read the following to learn more about how we use your personal information. All capitalized terms not defined in this Privacy Policy shall have the meanings ascribed to them in the Subscriber Agreement which may be found at: <http://www.magicjack.com/saps> and as may be modified thereafter (the “Subscriber Agreement”).
-
-By using any of our Services (including the magicJack App and/or any of our other mobile apps offered from time to time by us in connection therewith) or by visiting, accessing or using our website at [www.magicJack.com](http://www.magicjack.com/) you agree that you have reviewed and understood this Privacy Policy to your full satisfaction, that you consent and agree that you are subject to this Privacy Policy, and that we are permitted to collect, use and share information as outlined in this Privacy Policy. Your access to and use of the Services is subject to the Subscriber Agreement.
+By using any of our Services (including the magicJack App and/or any of our other mobile apps offered from time to time by us in connection therewith) or by visiting, accessing or using our website at [www.magicJack.com](https://www.magicjack.com/) you agree that you have reviewed and understood this Privacy Policy to your full satisfaction, that you consent and agree that you are subject to this Privacy Policy, and that we are permitted to collect, use and share information as outlined in this Privacy Policy. Your access to and use of the Services is subject to the Subscriber Agreement.
 
 Effective Date: January 15, 2015.
 
