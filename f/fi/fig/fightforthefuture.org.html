@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fightforthefuture.org privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231121027id_/https%3A//www.fightforthefuture.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fightforthefuture.org privacy policy that was archived on 2019-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190612044716id_/https%3A//www.fightforthefuture.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   
@@ -53,7 +53,7 @@
 
 
 
-<link rel="stylesheet" type="text/css" href="/css/core.css?1545340090089">
+<link rel="stylesheet" type="text/css" href="/css/core.css?1560274693735">
 
 
 
@@ -114,7 +114,7 @@
 
 <footer class="main-site">
   <div class="gutter">
-    <a href="/"><img src="/img/page/homepage/logo.png?1545340090080" width="943" height="141"></a>
+    <a href="/"><img src="/img/page/homepage/logo.png?1560274693725" width="943" height="141"></a>
       <div class="sharea">
         <span>Follow us:</span>
         <button class="facebook">Facebook</button>
@@ -160,8 +160,8 @@
 
 <script type="text/javascript" src="https://fftf.io/js/client.js"></script>
 
-<script type="text/javascript" src="/js/smoothscroll.min.js?1545340090091"></script>
-<script type="text/javascript" src="/js/core.js?1545340090091"></script>
+<script type="text/javascript" src="/js/smoothscroll.min.js?1560274693736"></script>
+<script type="text/javascript" src="/js/core.js?1560274693736"></script>
 <script>
   (function (i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;
@@ -181,71 +181,43 @@
 </script>
 <script>
   (function() {
-    // exit if...
-    if (
-      window.location.search.indexOf('widget=june11') === -1 // ?widget=june11 isn't set
-      || document.getElementById('BFTN_WIDGET') // or widget already exists
-      || document.getElementById('RED_ALERT_WIDGET')
-    ) return;
-
-    window.BFTN_WIDGET_OPTIONS = {
-      alwaysShow: true,
-      org: 'fftf'
-    };
-
-    var script = document.createElement('script');
-    script.src = 'https://june11.battleforthenet.com/widget.js';
-    document.head.appendChild(script);
-  })();
-</script>
-
-<script>
-  (function() {
-    // exit if...
-    if (
-      window.location.search.indexOf('widget=july23') === -1 // ?widget=july23 isn't set
-      || document.getElementById('BFTN_WIDGET') // or widget already exists
-      || document.getElementById('RED_ALERT_WIDGET')
-    ) return;
-
-    window.BFTN_WIDGET_OPTIONS = {
-      alwaysShow: true,
-      org: 'fftf'
-    };
-
-    var script = document.createElement('script');
-    script.src = 'https://july23.battleforthenet.com/widget.js';
-    document.head.appendChild(script);
-  })();
-</script>
-<!-- <script>
-(function() {
-  'use strict';
-
-  function parseQuery(queryString) {
-    var query = {};
-    var pairs = (queryString[0] === '?' ? queryString.substr(1) : queryString).split('&');
-    for (var i = 0; i < pairs.length; i++) {
-      var pair = pairs[i].split('=');
-      query[decodeURIComponent(pair[0])] = decodeURIComponent(pair[1] || '');
+    function parseQuery(queryString) {
+      var query = {};
+      var pairs = (queryString[0] === '?' ? queryString.substr(1) : queryString).split('&');
+      for (var i = 0; i < pairs.length; i++) {
+        var pair = pairs[i].split('=');
+        query[decodeURIComponent(pair[0])] = decodeURIComponent(pair[1] || '');
+      }
+      return query;
     }
-    return query;
-  }
 
-  var query = parseQuery(location.search);
+    var query = parseQuery(location.search);
 
-  window.RED_ALERT_OPTIONS = { org: 'fftf', language: query.lang };
+    // exit if no widget set...
+    if (!query.widget) return;
 
-  if (query.redalert !== undefined) {
-    RED_ALERT_OPTIONS.alwaysShow = true;
-  }
+    if (query.widget === 'watch') {
+      window.BFTN_WIDGET_OPTIONS = {
+        alwaysShow: true
+      };
+      var script = document.createElement('script');
+      script.src = 'https://watch.battleforthenet.com/widget.js';
+      document.head.appendChild(script);
+    }
 
-  if (query.maximize !== undefined) {
-    RED_ALERT_OPTIONS.alwaysMaximize = true;
-  }
-})();
+    if (query.widget === 'redalert') {
+      window.RED_ALERT_OPTIONS = {
+        alwaysShow: false,
+        org: 'fftf',
+        language: query.lang
+      };
+
+      var script = document.createElement('script');
+      script.src = 'https://redalert.battleforthenet.com/widget.js';
+      document.head.appendChild(script);
+    }
+  })();
 </script>
-<script src="https://redalert.battleforthenet.com/widget.js" async></script> -->
 
 
 
