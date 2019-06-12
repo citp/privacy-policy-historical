@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114125527id_/http%3A//www.quetek.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612062841id_/http%3A//www.quetek.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
