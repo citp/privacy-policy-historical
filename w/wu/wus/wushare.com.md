@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wushare.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209160023id_/http%3A//wushare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wushare.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612122254id_/http%3A//wushare.com/privacy) for the most accurate reproduction.*
 
 # WuShare.com
 
