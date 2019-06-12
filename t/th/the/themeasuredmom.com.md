@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeasuredmom.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231175022id_/https%3A//www.themeasuredmom.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeasuredmom.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612061241id_/https%3A//www.themeasuredmom.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure - The Measured Mom
 
