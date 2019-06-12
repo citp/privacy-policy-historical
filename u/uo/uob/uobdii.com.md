@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uobdii.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203130308id_/http%3A//www.uobdii.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uobdii.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612072821id_/http%3A//www.uobdii.com/info/privacy-policy) for the most accurate reproduction.*
 
 # UOBD2 Privacy Policy
 
