@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026101845id_/https%3A//www.satisfaction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612021247id_/https%3A//www.satisfaction.com/privacy-policy) for the most accurate reproduction.*
 
-# Satisfaction - Privacy Policy
-
-## PRIVACY POLICY
+# Privacy Policy | Satisfaction
 
 **WE SHARE YOUR CONCERNS ABOUT SAFEGUARDING YOUR PERSONAL INFORMATION**
 
-We fully understand the need to protect your personal information while online and we have developed this policy as a means to provide you with the utmost privacy possible. Under no circumstances will we share or sell any of your personal information, including your email address.
+Under no circumstances will share or sell any of your personal information, including your email address. We never send spam. We fully understand the need to protect your personal information while online and we have developed this policy as a means to provide you with the utmost privacy possible. 
 
 Satisfaction Adult Store facilitates the operation of the shopping website located at Satisfaction.com (referred to later as the “Site,” “we,” or “us”). This Privacy Policy (referred to later as “Policy”) describes our practices regarding the collection and use of information throughout out the Site. By using the Site or obtaining any product or service through this Site, you agree the limited collection and use of information as outlined in this Policy. If you do not agree to this Policy, please do not use the Site.
 
@@ -18,7 +16,7 @@ First, we collect non-personally identifiable information. This is general infor
 
 We also use non-invasive “cookies” and other tracking technologies to collect non-personally identifiable information which we then use to provide you with an easier shopping experience. Cookies are alphanumeric identifiers that are stored on your computer’s hard drive by your Web browser. These cookies do not track other websites you might visit and they do not plant malware on your computer. Our non-invasive cookies simply make it possible for us to recognize your browser once you visit our Site. By doing this, we can personalize your return visits and save you time during checkout. Your browser must be set to accept cookies in order for you to enjoy the benefits of being a registered user of the Site. If you are uncomfortable with the cookies on your computer, you can always remove them by accessing the options menu of your browser. Please refer to your browser’s help menu for more specific directions if needed.
 
-Second, we collect personally identifiable information as needed to fulfill your order. In general, our Site uses an order form (shopping cart), and a registration form so that you can request information, products and services from us. These forms require that you provide us with personally identifiable information, such as your name, email address, physical address and telephone number to receive the requested services or products.
+Second, we collect personally identifiable information as needed to fulfill your order. In general, our Site uses an order form (shopping cart), and a registration form so that you can request information, products, and services from us. These forms require that you provide us with personally identifiable information, such as your name, email address, and physical address in order to receive our products and services.
 
 When you use the Site to purchase a product or service as a gift, we will collect from you personally identifiable information regarding the gift recipient or potential gift recipient so that we can deliver the gift to them if requested.
 
@@ -52,7 +50,7 @@ The Site seeks to use reasonable security measures to help protect against the l
 
 We cannot guarantee the means by which information is transmitted between your computer and the Site servers, or any information provided to us or to any third party through or in connection with the Site. You provide all such information at your own risk, but please remember that these risks can be minimized by using responsible browsing habits such as the use of https, anti-virus software and similar protection measures.
 
-If you have signed up for an account with the Site, you may update your mailing address, email address, name changes or telephone number by clicking “my account” located at the top of the page. This takes you to a page with your account information and preferences. Please take the time to make sure your information is accurate for timely delivery as well as keeping your mailing preferences updated.
+If you have signed up for an account with the Site, you may update your name, login name, password, mailing address, and email address by clicking “my account” located at the top of the page. This takes you to a page with your account information and preferences. Please take the time to make sure your information is accurate for timely delivery as well as keeping your mailing preferences updated.
 
 If you have any questions about this Policy, the data collection and usage practices of this Site, or your dealings with this Site, or if you wish to report a violation of this Policy, you can contact us.
 
@@ -86,4 +84,4 @@ Can I create an online account and not receive marketing or promotional emails f
 
 Yes. After setting up an account, you can log in and set your preference to not receive promotional emails.
 
-LAST REVISED: August 10, 2017
+LAST REVISED: May 11, 2019
