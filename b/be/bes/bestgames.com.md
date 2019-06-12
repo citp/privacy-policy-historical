@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestgames.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203212209id_/http%3A//www.bestgames.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestgames.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612085509id_/http%3A//www.bestgames.com/page/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - BestGames.com
 
@@ -41,6 +41,54 @@ If BestGames.com make use of the Google Analytics for Display Advertising Remark
 BestGames.com and third party vendors, including Google, may use first-party cookies (such as the Google Analytics cookies) and third party cookies (such as the DoubleClick cookie) together to inform, optimize and serve ads based on a user's past visits to BestGames.com, and/or (b) report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to BestGames.com. 
 
 Data from Google Analytics Demographics and Interest Reporting may be utilized by BestGames.com to help recognize and understand user preferences, to make improvements to BestGames.com, to choose content and advertising to display to you, and for other business purposes that will allow BestGames.com to better serve you.
+
+**DoubleClick DART and Third-Party Vendors Cookies**
+
+We also may use DART and third-party vendors cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART cookies use "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.networkadvertising.org/managing/opt_out.asp>  
+Third parties, like Google, may collect certain types of information about visits to the site, including interaction with content on these sites. As always, no personally identifiable information will be collected. 
+
+**Cookie Policy**
+
+We use cookies to offer you a better browsing experience, analyze site traffic, personalize content, and serve targeted advertisements. If you continue to use this site, you consent to our use of cookies.
+
+We and our advertisers may use cookies, or similar technologies to enhance and personalize your experience on the site, including the following:
+
+  * to operate and improve offerings on the site;
+  * to help authenticate you when you are on the site;
+  * to remember your preferences;
+  * to present and help measure and research the effectiveness of we offerings;
+  * to customize the content provided to you through the site; and,
+  * to show targeted ads.
+
+
+
+We also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system. 
+
+The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service. You can opt out of Google Marketing Platform's use of cookies by visiting the [Google Marketing Platform opt-out page](https://www.google.com/settings/ads/onweb#display_optout) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+
+Users can refuse the installation of cookies or delete them by adjusting the browser settings on his computer. To learn more on how to adjust the settings of your internet browser, we recommend the user to visit the website of the browser’s vendor.
+
+The user can also decide to remove installed cookies. Users can do so in the following manners:
+
+#### Internet Explorer
+
+Delete existing Tracking Technologies through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. Disable future Tracking Technologies by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.)
+
+#### Google Chrome
+
+Delete existing Tracking Technologies through the “Clear Browsing Data…” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. Disable future Tracking Technologies by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.)
+
+#### Mozilla Firefox
+
+Delete existing Tracking Technologies through the “Clear Recent History…” sub-option of the “History” menu option of your browser or otherwise as directed by your browser’s support feature. Disable future Tracking Technologies by using the same browser controls. Additional information on disabling most Tracking Technologies may be available through your browser’s support feature. (See the “help” section of your browser for more information.)
+
+You may be able to have the device you use to access the site warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings. This is done through your browser on the device you use to access the Website. Additional information on warnings and removal of warnings may be available through your browser’s support feature.
+
+Please note that deleting, rejecting, disabling or turning off Tracking Technologies through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit [Adobe’s website](https://kb2.adobe.com/cps/526/52697ee8.html).
+
+Please be aware that certain areas and features of the site can only be accessed in conjunction with Tracking Technologies, and that disabling Tracking Technologies might prevent you from accessing such content.
+
+If you have any questions concerning cookies, please contact us.
 
 **DoubleClick DART and Third-Party Vendors Cookies**
 
