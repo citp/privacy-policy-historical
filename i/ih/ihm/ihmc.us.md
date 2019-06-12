@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the ihmc.us privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710205232id_/https%3A//www.ihmc.us/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihmc.us privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613010255id_/https%3A//www.ihmc.us/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - IHMC | Institute for Human & Machine Cognition
+# Privacy Policy | IHMC | Institute for Human & Machine Cognition
 
 ## Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 **What personal information do we collect from the people that visit our blog, website or app?**  
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, Institution or other details to help you with your experience.
+When registering on our site, as appropriate, you may be asked to enter your name, email address, Institution or other details to help you with your experience.
 
 **When do we collect information?**  
 We collect information from you when you register on our site, fill out a form or enter information on our site.
 
 **How do we use your information?**  
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We may use the information we collect from you when you register, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
   * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
   * To administer a contest, promotion, survey or other site feature.
-  * To send periodic emails regarding your order or other products and services.
+  * To send periodic emails on the mailing lists you sign up for.
 
 
 
@@ -25,14 +25,14 @@ We may use the information we collect from you when you register, make a purchas
 We do not use vulnerability scanning and/or scanning to PCI standards.  
 We use regular Malware Scanning.
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
 We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
 All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
 **Do we use ‘cookies’?**  
-We do not use cookies for tracking purposes
+We do not use cookies for tracking purposes.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
@@ -96,17 +96,16 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 **To be accordance with CANSPAM we agree to the following:**
 
   * NOT use false, or misleading subjects or email addresses
-  * Identify the message as an advertisement in some reasonable way
   * Include the physical address of our business or site headquarters
   * Monitor third party email marketing services for compliance, if one is used.
   * Honor opt-out/unsubscribe requests quickly
-  * Allow users to unsubscribe by using the link at the bottom of each email
+  * Allow users to unsubscribe by using the link in each email
 
 
 
 **If at any time you would like to unsubscribe from receiving future emails, you can**
 
-  * Follow the instructions at the bottom of each email.
+  * Follow the instructions in each email.
 
 
 
@@ -120,4 +119,4 @@ Pensacola, FL USA
 postmaster@ihmc.us  
 850-202-4462
 
-Last Edited on 2015-0915
+Last Edited on 2018-0711
