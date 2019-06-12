@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigspeeds.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031213053id_/https%3A//www.deepbrid.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigspeeds.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612073903id_/https%3A//www.deepbrid.com/page/privacy) for the most accurate reproduction.*
 
 # Deepbrid.com - Privacy Policy
 
