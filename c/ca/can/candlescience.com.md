@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the candlescience.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921065052id_/https%3A//www.candlescience.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candlescience.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612153315id_/https%3A//www.candlescience.com/terms/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - CandleScience
+# CandleScience - Candle Making Supplies | Soy Wax, Candle Fragrance Oils, Candle Jars and more! - CandleScience
 
 Customer privacy is of utmost importance at CandleScience inc. In order to service our customers, we must store two types of information: direct and indirect...
 
