@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the dutycalculator.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120174312id_/https%3A//www.pitneybowes.com/us/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dutycalculator.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612021911id_/https%3A//www.pitneybowes.com/us/legal/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | Pitney Bowes
 
   
-This Privacy Statement is effective as of 27 February 2018.  
+This Privacy Statement is effective as of 6 May 2019.  
 Pitney Bowes is committed to respecting the privacy of our clients and users. This Privacy Statement describes how our websites, services and products operate, and how we collect, use, and share information. This Privacy Statement applies to pb.com and Pitney Bowes websites, services and products that collect data and display these terms, and that are owned and operated by Pitney Bowes and Pitney Bowes subsidiaries, collectively, "Pitney Bowes".  Pitney Bowes websites, services and products are referred to in this statement as "Sites".  These terms do not apply to Pitney Bowes sites that do not display or link to this statement or that have their own privacy statements.
 
 The following topics are presented in this Privacy Statement:
