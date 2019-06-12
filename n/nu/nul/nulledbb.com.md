@@ -1,15 +1,31 @@
-> *The following text is extracted and transformed from the nulledbb.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074742id_/http%3A//nulledbb.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nulledbb.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613010418id_/https%3A//nulledbb.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - NulledBB
+# Nulled - Help Documents
 
-Spamming to download resources will get you **permanently** banned and there's no way to come back. 
+Privacy Policy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
+**We take your privacy seriously and will take all measures to protect your personal information.**
 
-Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognized by our web servers.
+Informations we collect
 
-**Our Commitment to Children's Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+  * IP Address
+  * E-Mail Address
+  * Useragent
+  * Browser
+  * OS
+  * Country
+  * City
+  * ISP
 
-**Cookies**  
-This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
+What we use your information for We do not share your information with outside parties except to the extent necessary when the law requires us to comply.  
+
+
+  * We use your IP address, useragent, browser, OS, country, city and ISP information, to identify the account usage.
+  * We use your email address, to identify the account usage and send out emails for thread subscriptions, forum subscriptions and newsletters, as long as you agreed.
+
+Advertising We use third party advertisements support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example), showing certain ads based on specific sites visited or provide advertisements about goods and services of interest to you (such as showing cooking ads to someone who frequents cooking sites). If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>  
+Our website contains some affiliate marketing links, which means we get paid commission on sales of those products or services we write about. Our editorial content is not influenced by advertisers or affiliate partnerships. We use a 3rd Party to enable these affiliate partnerships. You can read their Privacy Policy and find more information on the cookies they use.  
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.  Ban Policy If your account gets banned, because you broke our terms of services, we take the right to release your information to public viewing. 
+
+© [Nulled](https://nulledbb.com/) 2015 - 2019  
+Server time: 13.06.2019 - 1:04 AM (1624 Days Online) 
