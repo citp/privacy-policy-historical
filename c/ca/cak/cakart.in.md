@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakart.in privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110204549id_/http%3A//www.cakart.in/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakart.in privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613011857id_/http%3A//www.cakart.in/terms%23privacy) for the most accurate reproduction.*
 
 # Terms and conditions of CAKART.in best study materials for finance exams
 
