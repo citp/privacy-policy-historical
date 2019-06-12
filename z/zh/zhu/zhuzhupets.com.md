@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zhuzhupets.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224162215id_/https%3A//www.spinmaster.com/privacy-policy.php%3FuserLoc%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zhuzhupets.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612185605id_/https%3A//www.spinmaster.com/privacy-policy.php%3FuserLoc%3Dus) for the most accurate reproduction.*
 
 # Spin Master - Privacy Policy
 
@@ -68,7 +68,7 @@ If you or your child uses our website, we may collect information about the brow
 
 **You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. Don’t worry! Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions, information about your children, or information about your account or your orders.
 
-**You can control if we share information with third parties for their marketing purposes.** To opt out of having us share your information with third parties for their promotional purposes, email us at [hostmaster@spinmasterstudios.com](mailto:hostmaster@spinmasterstudios.com) or call us at 1-800-622-8339.
+**You can control if we share information with third parties for their marketing purposes.** To opt out of having us share your information with third parties for their promotional purposes, email us at [customercare@spinmaster.com](mailto:customercare@spinmaster.com) or call us at 1-800-622-8339.
 
 **You can control cookies and[tracking tools](http://www.spinmaster.com/tracking-tools.php).** Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings. If you block cookies or enable your browser’s “do not track” settings, certain features on our sites may not work.
 
@@ -103,4 +103,4 @@ If you have a concern about our handling of your personal information, please ge
 
 From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2018 Spin Master Ltd. All rights reserved.
+© 2019 Spin Master Ltd. All rights reserved.
