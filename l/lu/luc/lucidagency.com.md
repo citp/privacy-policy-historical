@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lucidagency.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628172527id_/http%3A//lucidagency.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidagency.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612093134id_/https%3A//lucidagency.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lucid Agency
 
 ## Privacy Policy
 
-This Privacy Policy (“Policy”) governs the manner in which Lucid Agency, LLC (“Lucid Agency” “we” “us” “our”) collects, uses, maintains, and discloses information collected from users (each, a “User”) of the <http://lucidagency.com/> website (“Site”). This Policy applies to the Site and all products and services offered by Lucid Agency. By accessing the site, utilizing any of the services and/or registering with us, you signify that you have read, understood and agree to be bound by this Policy.
+This Privacy Policy (“Policy”) governs the manner in which Lucid Agency, LLC (“Lucid Agency” “we” “us” “our”) collects, uses, maintains, and discloses information collected from users (each, a “User”) of the <https://lucidagency.com/> website (“Site”). This Policy applies to the Site and all products and services offered by Lucid Agency. By accessing the site, utilizing any of the services and/or registering with us, you signify that you have read, understood and agree to be bound by this Policy.
 
 **Personal identification information**  
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features, or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously without submitting personally identifiable information to us. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identifying information, except that it may prevent them from engaging in certain Site related activities.
@@ -36,7 +36,7 @@ Lucid Agency collects and uses Users personal information for the following purp
 
 
 **Email Communications  
-**We may use your email to deliver newsletter(s), as well as for any other promotional purposes (e.g. announcements or giveaways). Email messages we send you may contain code that enables our database to track your usage of the emails we send you, such usage includes whether the email was opened and what links (if any) were clicked. If you send an email to us, we will collect your email address and the full content of your email, including attached files, and other information you provide. You may indicate your preference to opt out of receiving promotional communications by following the unsubscribe instructions provided in the email you receive or by contacting us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will opt you out as fast as, or faster than, the amount of time required by applicable laws (we can usually do this within one business day).  Please note, however, that you cannot opt out of receiving transactional emails related to your engagement with us.
+**We may use your email to deliver newsletter(s), as well as for any other promotional purposes (e.g. announcements or giveaways). Email messages we send you may contain code that enables our database to track your usage of the emails we send you, such usage includes whether the email was opened and what links (if any) were clicked. If you send an email to us, we will collect your email address and the full content of your email, including attached files, and other information you provide. You may indicate your preference to opt out of receiving promotional communications by following the unsubscribe instructions provided in the email you receive or by contacting us directly at privacy@lucidagency.com and we will opt you out as fast as, or faster than, the amount of time required by applicable laws (we can usually do this within one business day).  Please note, however, that you cannot opt out of receiving transactional emails related to your engagement with us.
 
 **How we protect your information**  
 We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Site.
@@ -44,8 +44,8 @@ We adopt appropriate data collection, storage, and processing practices and secu
 **Sharing your personal information**  
 We do not sell, trade, or rent Users’ personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined above.
 
-**Deleting your personal information  
-**If you would like us to delete all personally identifiable information about you, please simple email our privacy administrator at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ef9f9d86998e8c96af839a8c868b8e888a818c96c18c8082) and we will process your request as fast as, or faster than, the amount of time required by applicable laws (we can usually do this within one business day).
+**Personal Information Access, Correction and Deletion  
+**You can request access to the personal information we have for you by contacting us as below. We will provide you with a copy of the data that we have for you. We will fulfill your request by sending your copy electronically, unless the request specifies a different method. If you believe that the personal information or personal data that we have about you is incorrect, you can contact us to update it. If at any point you wish for us to delete your personal information or personal data, please contact us at [privacy@lucidagency.com](mailto:privacy@lucidagency.com) or by mail at Lucid Agency, Attn: Privacy, 117 E. 5th Street, Tempe AZ  85281\. For your protection, we only fulfill requests for the personal information associated with the email address that you use to send us your request, and we may need to verify your identity before fulfilling your request.
 
 **Changes to this privacy policy**  
 Lucid Agency has the discretion to update this privacy policy at any time. When we do, we will revise the “updated date” at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -54,7 +54,7 @@ Lucid Agency has the discretion to update this privacy policy at any time. When 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**  
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us.](http://lucidagency.com/contact)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us.](https://lucidagency.com/contact)
 
 **Last Updated Date**  
 This document was last updated on May 29th, 2018.
