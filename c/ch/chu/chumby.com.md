@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chumby.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907160616id_/http%3A//www.chumby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chumby.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612083156id_/http%3A//www.chumby.com/privacy) for the most accurate reproduction.*
 
 # Chumby
 
