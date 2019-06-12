@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adgeco.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208222047id_/https%3A//www.adgeco.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgeco.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612174959id_/https%3A//www.adgeco.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Adgeco Group of Companies | Holding Company
 
