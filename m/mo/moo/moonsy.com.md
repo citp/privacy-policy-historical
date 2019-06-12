@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moonsy.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925130111id_/https%3A//moonsy.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonsy.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612213730id_/https%3A//moonsy.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
