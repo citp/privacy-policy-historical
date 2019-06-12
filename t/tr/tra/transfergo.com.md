@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the transfergo.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129061632id_/https%3A//www.transfergo.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transfergo.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612050630id_/https%3A//www.transfergo.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | TransferGo.com
 
-Effective Date: 25 May 2018
-
-Privacy Policy
-
- **Introduction**
+**Introduction**
 
 This policy describes how we collect and use data about you and when we share it with third parties. We value our relationship with you and place the highest importance on respecting and protecting your privacy. We will only process personal information in accordance with applicable law and this privacy policy. This document version is 2.0 and it is valid from May 25th, 2018. 
 
@@ -32,6 +28,7 @@ We collect 2 types of data about you when you're not logged in:
 * Get Site Control - a tool to quickly adjust page content without the needs of developers (e.g. add a survey to homepage).
 * Awin - a popular affiliate network which we use to identify visitors who came via affiliate (e.g. blogger). This information is essential for us since we have to pay affiliates for customer acquisition.
 * GetCake - a popular affiliate network which we use to identify visitors who came via affiliate (e.g. blogger). This information is essential for us since we have to pay affiliates for customer acquisition.
+* Impact - a popular affiliate network which we use to identify visitors who came via affiliate (e.g. blogger). This information is essential for us since we have to pay affiliates for customer acquisition.
 
 2) Marketing oriented data: This data is used for marketing purposes, including retargeting you across the web or social networks, measuring conversions, personalising ads based on your profile (e.g. country you're visiting from to provide ads in your native language). Here's a list of providers that we are currently using:
 
