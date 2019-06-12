@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stupidsid.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818105137id_/https%3A//stupidsid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stupidsid.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612173758id_/https%3A//stupidsid.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Stupidsid.com
-
-## Privacy Policy
+# Privacy policy - Stupidsid
 
 * * *
 
@@ -78,4 +76,4 @@ Disclaimer
 
 Avocation Educational Services Private Limited does not store or keep credit card data in a location that is accessible via the Internet. Once a credit card transaction has been completed, all credit card data is moved off-line only to ensure that the data/credit card information received is not accessible to anyone after completion of the on-line transaction and to ensure the maximum security. Avocation Educational Services Private Limited uses the maximum care as is possible to ensure that all or any data / information in respect of electronic transfer of money does not fall in the wrong hands.
 
-Avocation Educational Services Private Limited shall not be liable for any loss or damage sustained by reason of any disclosure (inadvertent or otherwise) of any information concerning the user's account and / or information relating to or regarding online transactions using credit cards / debit cards and / or their verification process and particulars nor for any error, omission or inaccuracy with respect to any information so disclosed and used whether or not in pursuance of a legal process or otherwise.
+Avocation Educational Services Private Limited shall not be liable for any loss or damage sustained by reason of any disclosure (inadvertent or otherwise) of any information concerning the user's account and / or information relating to or regarding online transactions using credit cards / debit cards and / or their verification process and particulars nor for any error, omission or inaccuracy with respect to any information so disclosed and used whether or not in pursuance of a legal process or otherwise. 
