@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the motoraty.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125020816id_/http%3A//www.motoraty.com/cars/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motoraty.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612052550id_/http%3A//www.motoraty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Motoraty
 
 **Privacy Policy**
 
-Tagward JLT, (“motoraty.com, Tagward.com” “motoraty, Tagward” “we,” “us,” or “our” as appropriate) has created the following Privacy and Security Policy (“Privacy Policy”) to inform you of the following: what information we collect, when we collect it, how and why we collect it, how we use it, how we protect it, how we share it and what choices you have regarding our collection and use of this information.
+Tagward LLC, DMCC, (“motoraty.com, nasmati.com, Tagward.com” “motoraty, nasmati, Tagward” “we,” “us,” or “our” as appropriate) has created the following Privacy and Security Policy (“Privacy Policy”) to inform you of the following: what information we collect, when we collect it, how and why we collect it, how we use it, how we protect it, how we share it and what choices you have regarding our collection and use of this information.
 
-This Privacy Policy applies to all Tagward websites including the following sites: [http:www.tagward.com](http://www.tagward.com/ "Tagward") and [http:www.motoraty.com](http://www.motoraty.com/ "motoraty") (collectively and individually, the “Sites”). Entering the Sites constitutes your acceptance and agreement to the terms contained in this Privacy Policy. If you do not agree with the terms set forth in this Privacy Policy, please do not enter the Sites.
+This Privacy Policy applies to all Tagward websites including the following sites: [http:www.tagward.com](http://www.tagward.com/ "Tagward") and [http:www.motoraty.com](http://www.motoraty.com/ "motoraty") and [http://www.nasmati.com](http://www.nasmati.com/) (collectively and individually, the “Sites”). Entering the Sites constitutes your acceptance and agreement to the terms contained in this Privacy Policy. If you do not agree with the terms set forth in this Privacy Policy, please do not enter the Sites.
 
   * **Types of Information We Collect**
     * Your name
@@ -38,14 +38,11 @@ We allow third-party companies to collect anonymous information when you visit t
 
 
 
-  * **User Experience Information  
-**  
+  * **User Experience Information**  
 In order to improve customer online shopping experience, help with fraud identification, and to assist our customer care representatives in resolving issues customers may experience in completing online purchases, we use tools to monitor certain user experience information, including, but not limited to, login information, IP address, data regarding pages visited, specific actions taken on pages visited (e.g., information entered during checkout process), and browser information.
-  * **Information from Other Sources  
-**  
+  * **Information from Other Sources**  
 We may also obtain information from companies that can enhance our existing customer information to improve the accuracy and add to the information we have about our customers (e.g., adding address information). This may improve our ability to contact you and improve the relevancy of our marketing by providing better product recommendations or special offers that we think will interest you.
-  * **Public Forums  
-**  
+  * **Public Forums**  
 Any information you submit in a public forum (e.g., a blog, chat room, or social network) can be read, collected, or used by us and other participants, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances.
   * ******Mobile Privacy******
     * Motoraty.com offers mobile applications (commonly known as “apps”) that allow you to read online or receive other information from motoraty.com.  ** **All information collected by motoraty.com via our mobile application is protected by this Privacy Policy.****
@@ -57,22 +54,18 @@ Any information you submit in a public forum (e.g., a blog, chat room, or social
     * Improve the effectiveness of the Sites, mobile experience, and marketing efforts
     * Conduct research and analysis, including focus groups and surveys
     * Perform other business activities as needed, or as described elsewhere in this policy
-  * **Fraud Prevention  
-**  
+  * **Fraud Prevention**  
 To prevent fraudulent transactions, monitor against theft and otherwise protect our customers and our business
   * **Legal Compliance**  
 To assist law enforcement and respond to subpoenas
 
 
-  * **Security Methods  
-**  
+  * **Security Methods**  
 We maintain technical, administrative, physical, electronic and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard this information, the Sites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only motoraty.com is able to decode the information.
   * ******E-mail Security****** Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information. “Phishing” is a scam designed to steal your information. If you receive an e-mail that looks like it is from us asking you for certain information, do not respond. Though we might ask you your name, we will never request your password, credit card information or other information through e-mail.
-  * **Information About Children  
-**  
+  * **Information About Children**  
 We recognize the particular importance of protecting privacy where children are involved. We are committed to protecting children’s privacy and we comply fully with the Children’s Online Privacy Protection Act (COPPA). Motoraty.com will never knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent. If we become aware that an individual is under the age of 13 and has submitted any information to motoraty.com, for any purpose without prior verifiable parental consent, we will delete his or her information from our files.
-  * **Additional Security  
-**  
+  * **Additional Security**  
 We also ask customers to carefully review their accounts and immediately report any unexpected activity to motoraty.com. We are asking all our customers to take measures to help protect information in their online accounts, including the following:
 
 
@@ -87,20 +80,15 @@ We also ask customers to carefully review their accounts and immediately report 
   * **General Policy  
 **  
 We do not sell or rent customer information to third parties; except, under limited circumstances outlined below, we may share information with third parties.
-  * **The Tagward Family  
-**  
+  * **The Tagward Family**  
 We share information we collect within the Sites and Tagward family, which includes all Tagward subsidiaries and affiliates. The Tagard family may use this information to offer you products and services that may be of interest to you.
-  * **Service Providers  
-**  
+  * **Service Providers**  
 We may share information with companies that provide support services to us (such as a printer, e-mail, mobile marketing, or data enhancement provider) or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.
-  * **Legal Requirements  
-**  
+  * **Legal Requirements**  
 We may disclose information you provide to us when we believe disclosure is appropriate to comply with the law; to enforce or apply applicable terms and conditions and other agreements; or to protect the rights, property or safety of our company, our customers or others.
-  * **When You Direct Us  
-**  
+  * **When You Direct Us**  
 At your direction or request, we may share your information.
-  * **Business Transfers  
-**  
+  * **Business Transfers**  
 If some or all of our business assets are sold or transferred, we generally would transfer the corresponding information regarding our customers. We also may retain a copy of that customer information.
 
 
@@ -108,8 +96,7 @@ If some or all of our business assets are sold or transferred, we generally woul
 **
 
 
-  * **Promotional E-mail  
-**  
+  * **Promotional E-mail**  
 If you do not wish to receive promotional e-mails from us, click here. You also have the ability to unsubscribe to promotional e-mails via the opt-out link included in each e-mail. It may take up to 10 business days before you stop receiving promotional e-mails.
   * **Important Notices and Transactional E-mail  
 **
@@ -117,14 +104,11 @@ If you do not wish to receive promotional e-mails from us, click here. You also
     * We regularly send email order confirmations and email order updates to you after you have submitted an order.
 
 
-  * **Mobile  
-**  
+  * **Mobile**  
 We may distribute mobile text messages to mobile devices of customers who have requested this information via an opt-in request. Customers will be able to opt out of a specific mobile messaging campaign.
-  * **Motoraty.com Cookies  
-**  
+  * **Motoraty.com Cookies**  
 The help function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the motoraty.com features.
-  * **Third Party Cookies  
-**  
+  * **Third Party Cookies**  
 To opt-out of third-party vendor’s cookies on other websites, please [contact us](http://www.motoraty.com/cars/contact-us "motorty.com contact us page")
 
 
@@ -140,4 +124,4 @@ To opt-out of third-party vendor’s cookies on other websites, please [contact 
 
 By interacting with Motoraty.com, you consent to our use of information that is collected or submitted as described in this privacy policy. We may change or add to this privacy policy, so we encourage you to review it periodically.
 
-**This Privacy Policy was last updated on May 10, 2013.**
+**This Privacy Policy was last updated on August  8, 2017.**
