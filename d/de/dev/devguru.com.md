@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devguru.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212091945id_/http%3A//devguru.com/content/include/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devguru.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612155509id_/http%3A//www.devguru.com/content/include/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | DevGuru
 
