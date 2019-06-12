@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruiter.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219064825id_/https%3A//www.recruiter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruiter.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612043215id_/https%3A//www.recruiter.com/privacy.html) for the most accurate reproduction.*
 
 # Recruiter.com - Privacy Policy
 
@@ -285,8 +285,8 @@ By using our site, you consent to our privacy policy.
 If you have questions or comments about this Privacy Policy, please contact us at:   
 Recruiter.com, Inc.  
 PO Box 86  
-Bristol, CT 06011  
-Phone: 888-925-7010  
+Bristol, CT 06011
+
 info@recruiter.com  
 Web page: https://www.recruiter.com/contact.html
 
