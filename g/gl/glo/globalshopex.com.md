@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalshopex.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207081214id_/https%3A//www.globalshopex.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalshopex.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612111142id_/http%3A//globalshopex.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -164,25 +164,11 @@ We are required to reply within one (1) month to all requests regarding the exer
 Our operations are located in the United States. If customer are located in the European Economic Area (“EEA”), customer Personal Information will be transferred out of the European Economic Area to the United States. Residents of the EEA have certain rights under European law with respect to customer personal data, including the right to request access to, correct, amend, delete or limit the use of customer personal data. If customer are a resident of the EEA and Our customer or partner or a User of Our Site and Customer wish to exercise these rights, please contact us at customercare@globalshopex.com. If customers are a resident of the EEA, we note that we are generally processing customer information in order to fulfill our obligations under contracts we have with customer (including our Terms of Service), or otherwise to pursue our legitimate business interests as described in this Privacy Policy, unless we are required by law to obtain customer consent for a particular processing operation.    
 
 
-**VII. Privacy Shield**
-
-Our operations are located in the United States. If customer provide information to us, the information will be transferred out of the European Union (“EU”) and Switzerland to the United States. We comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce (the “Privacy Shield”) regarding the collection, use and retention of personal information transferred from the EU to the United States (“EU Personal Data”). We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/).    
-
-
-We encourage customers to contact us should customer have a Privacy Shield-related complaint. We will respond within 45 days. If we fail to respond within that time, or if our response does not address customer concern, customer may contact the International Centre for Dispute Resolution, the International division of the American Arbitration Association. Customer can visit http://go.adr.org/privacyshield.html for additional information and to file a complaint. Customer may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.    
-
-
-We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.    
-
-
-We may be required to disclose personal information in response to lawful requests by public authorities, including to meet the national security or law enforcement requirements.    
-
-
-**VIII. Choices Regarding Customer Personal Information**
+**VII. Choices Regarding Customer Personal Information**
 
 We understand that and value customer rights over customer Personal Information. We have taken steps to allow customers to access, correct, amend, delete or port customer Personal Information and give customers choices regarding the collection, use and sharing of customer Personal Information. Customer may manage their receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of our marketing emails. If customer are unable to change their Personal Information within Account settings, or if customer are concerned about data collected as customer visit our site, please contact us at customercare@globalshopex.com. If Please understand that if customer delete or limit the use of their Personal Information, the Services may not function properly or certain Services may not be available. 
 
-**IX. Terms of Service, Notices, And Revisions**
+**VIII. Terms of Service, Notices, And Revisions**
 
 If customer choose to visit GlobalShopex, their visit and any dispute over privacy is subject to this Policy and our Terms of Service, including limitations on damages, arbitration of disputes, and application of the law of the state of Florida. 
 
