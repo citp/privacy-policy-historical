@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indialeads.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202151446id_/http%3A//www.indialeads.com/leads/viewPrivacyAndTerms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indialeads.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612062454id_/http%3A//www.indialeads.com/leads/viewPrivacyAndTerms) for the most accurate reproduction.*
 
 # India Leads - Top Free Classified Site | Free Classified Ads In India | India Classifieds | Post Free Ad
 
