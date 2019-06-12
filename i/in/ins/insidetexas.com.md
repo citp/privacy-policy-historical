@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidetexas.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214182559id_/http%3A//insidetexas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidetexas.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612184039id_/http%3A//insidetexas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Inside Texas
+# Privacy Policy - Inside Texas | Inside Texas
 
 Thank you for visiting InsideTexas.com.
 
