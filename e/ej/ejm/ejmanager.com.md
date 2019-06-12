@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ejmanager.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918073707id_/http%3A//ejmanager.com%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ejmanager.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612191742id_/https%3A//www.ejmanager.com%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Online Journal Management System
 
