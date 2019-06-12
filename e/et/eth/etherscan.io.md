@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etherscan.io privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229032133id_/https%3A//etherscan.io/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etherscan.io privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612210230id_/https%3A//etherscan.io/privacyPolicy) for the most accurate reproduction.*
 
 # Etherscan Privacy Policies
 
@@ -64,15 +64,13 @@ With this knowledge, we can improve the quality of your experience on the platfo
 
 Your continued use of this site, as well as any subsequent usage, will be interpreted as your consent to cookies being stored on your device. 
 
-(d)     _User feedback form_
+(c)     _User feedback form_
 
 Our feedback form requires you to give us contact information (e.g. your name and email address) so that we can respond to your comments. We use your contact information from the registration form to send you information about our company. Your contact information is also used to contact you where necessary. 
 
-(e)     _Site tracking_
+(d)     _Site tracking_
 
 We also use third party service provider(s), to assist us in better understanding the use of our site. Our service provider(s) will place cookies on the hard drive of your computer and will receive information that we select, for example, how visitors navigate around our site, what pages are browsed and general transaction information. Our service provider(s) analyzes this information and provides us with aggregate reports. The information and analysis provided by our service provider(s) will be used to assist us in better understanding our visitors' interests in our site and how to better serve those interests. The information collected by our service provider(s) may be linked to and combined with information that we collect about you while you are using the platform. Our service provider(s) is/are contractually restricted from using information they receive from our Site other than to assist us.
-
- 
 
 4.WHAT DO WE USE YOUR PERSONAL DATA FOR?
 
