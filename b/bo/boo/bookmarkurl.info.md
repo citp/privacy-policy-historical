@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkurl.info privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114233546id_/http%3A//bookmarkurl.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkurl.info privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612121139id_/http%3A//bookmarkurl.info/privacy.html) for the most accurate reproduction.*
 
 # Contact Page
 
