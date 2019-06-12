@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkpopularity.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210184912id_/http%3A//linkpopularity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkpopularity.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612121956id_/http%3A//www.linkpopularity.com/privacy.htm) for the most accurate reproduction.*
 
 # LinkPopularity.com: The Free Link Popularity Service
 
