@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usefultipsforhome.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709071907id_/http%3A//usefultipsforhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usefultipsforhome.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612082057id_/https%3A//usefultipsforhome.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Useful Tips For Home
+# Privacy Policy – Useful Tips For Home
 
 **What information do we collect?**
 
@@ -118,14 +118,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
-
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA
-
-http://usefultipsforhome.com
-
-Email:  
-contact@usefultipsforhome.com
+If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the website contact for.
