@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the counterpath.net privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523063900id_/http%3A//www.counterpath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counterpath.net privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612021846id_/https%3A//www.counterpath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CounterPath
 
