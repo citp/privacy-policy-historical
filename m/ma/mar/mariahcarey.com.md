@@ -1,159 +1,164 @@
-> *The following text is extracted and transformed from the mariahcarey.com privacy policy that was archived on 2018-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180810071024id_/https%3A//www.mariahcarey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariahcarey.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612072215id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
 
-# MariahCarey > Privacy Policy
+# Privacy Policy | Sony Music
 
-## Live Nation Entertainment Privacy Policy - Your Privacy Rights
+This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with your use of our websites, emails, and mobile applications (“Site” or “Sites”).  Sony Music Entertainment (“Sony Music”) is a wholly owned subsidiary of Sony Corporation of America. Information collected on this Site may be used in the manner described below by Sony Music Entertainment, our labels, agents, subsidiaries, trusted partners and affiliates acting on our behalf (collectively, “Sony Music”). When used herein, the terms “we”, “us” and “our” refer to Sony Music.When this Privacy Policy uses the term “personal information,” we mean information that identifies a particular individual, such as full name, street address, telephone number or email address.
 
-Effective July 20, 2012 (last updated March 14, 2017)
-
-**This Privacy Policy applies to the sites and apps where it appears.**
-
-This Policy describes how we treat personal information we collect both online and offline. This includes on our websites and in our apps. It also includes at our box offices or in phone or email interactions you have with us. If you live in Canada, please read our Canadian Privacy Policy.
-
-## We collect information from and about you.
-
-**Contact information.** For example, we might collect your name and street address. We might also collect your phone number or email.
-
-**Payment and billing information.** For example, we collect your credit card number and zip code when you buy a ticket.
-
-**Information you post.** For example, we collect information you post in a public space on our website. We also collect information you post on a third-party social media site.
-
-**Demographic information.** We may collect information like your age range, race, or gender. We may collect information about events you like or products you buy. We might collect this as part of a survey or from third parties, for example.
-
-**Other information.** If you use our website, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. We may collect information about your location, including your precise location. We may collect this using technology such as GPS and Wi-Fi. If you use our mobile app, we may also access your device's location in the background. We may collect your device's unique identifier. We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running. We might look at how often you use the app and where you downloaded it.
-
-## We collect information in different ways.
-
-**We collect information directly from you.** For example, if you register for a promotion or buy tickets. We also collect information if you post a comment on our websites or ask us a question.
-
-**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please [click here](http://concerts.livenation.com/h/privacy.html?tm_link=tm_i_privacy#adchoices). We also collect information from our mobile apps.
-
-**We get information about you from third parties.** For example, if you use an integrated social media feature on our websites or mobile applications. The third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms.
-
-## We use information as disclosed and described here.
-
-**We use information to respond to your requests or questions.** For example, we might use your information to confirm your registration for an event or contest. You may give us your friend's information, for example, via our referral service to tell a friend about our website or to purchase a gift card. We will only use your friend's information to provide services you requested. Your friend may contact us at privacy@livenation.com to ask us to delete their information.
-
-**We use information to improve our products and services.** We might use your information to customize your experience with us. This could include displaying content based upon your preferences.
-
-**We use information to look at site trends and customer interests.** We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.
-
-**We use information for security purposes.** We may use information to protect our company, our customers, or our websites.
-
-**We use information for marketing purposes.** For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter. To learn about your choices for these communications, read the choices section below.
-
-**We may also use push notifications on our mobile apps.** We may use push notifications and your location information on our mobile apps to send you alerts regarding local events.
-
-**We use information to send you transactional communications.** For example, we might send you emails about your account or a ticket purchase. We might also contact you about this policy or our website terms.
-
-**We use information as otherwise permitted by law or as we may notify you.**
-
-We keep personal information as long as it is necessary or relevant for our business. We also keep information to resolve disputes, enforce our agreements and as otherwise required by law.
-
-## We may share information with third parties.
-
-**We will share information within the Live Nation family of companies.** This may include Ticketmaster and Live Nation-owned or operated venues, for example.
-
-**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases. Some vendors may be located outside of the United States.
-
-**We will share information with our business partners.** This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies, which may include sending you marketing communications. You should read those polices to learn how they treat your information.
-
-**We may share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
-
-**We may share information with any successor to all or part of our business.** For example, if part of our business is sold we may give our customer list as part of that transaction.
-
-**We may share your information for reasons not described in this policy.** We will tell you before we do this.
-
-## You have certain choices about how we use your information.
-
-**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, you can click the 'Unsubscribe' link in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
-
-**You can modify information you have given us.** To correct or delete information or update account settings, log into your account and follow the instructions. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.
-
-**You can control cookies and tracking tools.** To learn how to manage how we — and our vendors — use cookies and other tracking tools, please [click here](http://concerts.livenation.com/h/privacy.html?tm_link=tm_i_privacy#adchoices).
-
-**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an "unsubscribe" link.
-
-## Your California Privacy Rights.
-
-If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.
-
-To exercise your rights, you can email us or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.
-
-## These sites and apps are not intended for children.
-
-Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us [here](mailto:privacy@livenation.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
-
-Parents, you can also learn more about how to protect children's privacy online [here](http://business.ftc.gov/privacy-and-security/children%E2%80%99s-privacy).
-
-## We use standard security measures.
-
-We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. If you think that an unauthorized account has been created using your name, contact us at the address below.
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=6ded18c3-447e-4032-94e2-2a8daaee2887)
-
-  
-Click on the Truste seal to view our current certification status.
-
-## We store information both in and outside of the United States.
-
-If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection of those in your country.
-
-## We may link to third party sites or services we don't control.
-
-If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites. Our site may also serve third-party content that contains their own cookies or tracking technologies. To learn more, [click here](http://concerts.livenation.com/h/privacy.html?tm_link=tm_i_privacy#adchoices). We do not control the use of those technologies.
-
-## Feel free to contact us if you have more questions.
-
-If you have any questions about this Policy or other privacy concerns, you can email us at privacy@livenation.com. Please do not include your credit card number or other sensitive information in your email. You can also write us at:
-
-Live Nation Entertainment, Inc.  
-9348 Civic Center Drive  
-Beverly Hills, CA 90210  
-Attention: Privacy Officer, Legal
-
-If you are not satisfied with our response, you can contact our third party dispute resolution provider [here](https://feedback-form.truste.com/watchdog/request).
-
-## What we will do if there is an update to this policy.
-
-From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+We encourage you to review the entire Privacy Policy. Please click on any of the links below to review that particular section.
 
 * * *
 
-## Ad Choices
+Collection and Use of Personal Information
 
-**We use common tracking technologies.**
+Social Networks/Online Communities
 
-We or our vendors use several common tracking tools. These may include browser cookies. We may also use web beacons and similar technologies. We use these tools:
+Transactions
 
-  * To recognize new or past customers.
-  * To store your password if you are registered on our sites.
-  * To improve our website and mobile app.
-  * To serve you with advertising content in which we think you will be interested. To do so, we or our business partners may observe your behaviors over time on this website and across third party websites. We may also collect information about your browsing history.
-  * To better understand the interests of our customers and our website visitors.
+Information Sharing
+
+Choice/Opt-Out
+
+Tracking Technologies
+
+Security
+
+Updating Your Personal Information
+
+Consent to Processing
+
+Additional Information
+
+Changes to This Policy
+
+Your California Privacy Rights
+
+Questions About This Privacy Policy
+
+* * *
+
+**Collection and Use of Personal Information**
+
+We may collect the following personal information from you:
+
+  * Contact information such as name, email address, street address, and phone number
+  * Billing information such as credit card number and billing address
+  * Demographic information such as age, gender, interests, country and zip code
+  * Unique identifiers such as user name and password
+  * Preference and other information such as product wish lists, order history, marketing preferences and cell phone carrier
+  * Location information such as your actual or approximate location
 
 
 
-## You can control tracking tools.
+We or one of our trusted partners may use this information to:
 
-Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings.
+  * Send you requested updates and newsletters about an artist, type of music or related special offers
+  * Send you requested product or service information
+  * Send a one-time email or e-card to your friends upon your request when you provide their email address
+  * Fulfill your order
+  * Send you an order confirmation
+  * Respond to customer service requests, questions and concerns
+  * Administer your account
+  * Process information submitted with a job application
+  * Send you marketing communications
+  * Administer promotions and sweepstakes you enter and notify you of the results
+  * Improve our marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your location and/or interests
+  * To provide location services such as “tagging” and “check-in”
 
-If you block cookies on your browser, certain features on our sites may not work.
 
-## Some ads may be served based on tracking.
 
-We may work with online advertising companies to show you relevant and useful ads. This may include ads served on our own websites or apps. This may also include our ads served on other companies' sites. These ads may be based on information collected by us or third parties (for example, when you register for a site). These ads may also be based on your activities on our websites or on third party sites. This second type of advertising is called "interest-based advertising" or "online behavioral advertising." These ads might be served on websites or on apps. They might also be served in emails. We might serve these ads, or third parties may serve ads. They might be about our products or other companies' products.
+To help protect you and others, we monitor use of the Sites, and we use the information we collect, including personal information, to identify fraudulent activities and transactions; prevent abuse of and investigate and/or seek prosecution for any potential threats to or misuse of the Sites; ensure compliance with the applicable terms of service and this privacy policy; investigate violations of or enforce these agreements; and otherwise to protect the rights and property of Sony Music, its partners, and customers. Monitoring may result in the collection, recording, and analysis of online activity or communications through the Sites. If you do not consent to these conditions, you must discontinue your use of the Sites.
 
-## How do we gather information about you for interest-based advertising?
+We also automatically collect information about your computer as you browse our Site(s).  Please see the Tracking Technologies section of this Privacy Policy. We will retain your information for as long as your account is active and as needed to provide you services.  We will use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-To decide what is relevant to you, we use information you make available to us when you interact with us, our affiliates, and other third parties. We gather this information using the tracking tools described above. For example, we or our partners might look at your purchases or browsing behaviors. We might look at these activities on our platforms or the platforms of others.
+**Social Networks/Online Communities**
 
-We work with third parties who help gather this information. These third parties might link your name or email address to other information they collect. That might include past purchases made offline or online. Or, it might include online usage information.
+We enable you to create a profile for accessing blogs or online communities for sharing information such as messages, photos and videos.  Please note that we cannot control the actions of others with whom you may choose to share your pages and information.  We may also enable you to post content from some of our Sites to your profile on other social networks.  You can access these services from our Sites using Facebook Connect, Twitter, or other Open ID providers.  These services will authenticate your identity and allow you to post and share certain personal or other information with that site.  Please be aware that the privacy policy of that site will apply to any content you provide them in these instances.  We do not allow these services to provide any personal information or content back to our Sites or your profile with us unless you agree.  To request removal of your personal information from our blog or community forum, [contact us here](https://web.archive.org/feedback/). If we are unable to remove your personal information, we will respond to your request with the applicable reasons.
 
-## You can opt-out of interest-based advertising.
+**Transactions**
 
-To opt out of online behavioral advertising, [click here](http://preferences-mgr.truste.com/?pid=ticketmaster01&aid=ticketmaster01&type=ticketmaster). If you opt out, you may continue to see ads from us, but they will not be tailored to your interests.
+You may purchase artists’ music or merchandise from some of our Site(s).  This Privacy Policy applies to any personal information you provide in connection with any such purchases.  In some instances, you may be directed to a third party site to initiate your transaction.  These third party sites will be clearly identified and link to their own privacy policies so you know which company is collecting your personal information.  You should refer to those policies for any privacy-related concerns regarding your purchase with them.
 
-The Digital Advertising Alliance also offers a tool for opting out of the collection of cross-app data on a mobile device for interest-based advertising. To exercise choice for companies participating in this tool, download the AppChoices app [here](http://youradchoices.com/appchoices).
+**Information Sharing**
 
-©2017 Live Nation Entertainment, Inc. All rights reserved
+We will share your personal information with third parties in the ways that are described in this Privacy Policy. We may provide your personal information to companies that help us with our business activities (e.g. processing credit card transactions, shipping your order, assisting us in Site operations, providing customer service, delivering email newsletters, etc.) or that assist us in improving our products, content, services or advertising.  These companies are authorized to use your personal information only as necessary to provide these services.
+
+We may also share your personal information:
+
+  * With Sony Music affiliates and representatives of our current recording artists
+  * With affiliated Sony Group companies (i.e. any company in which Sony Corporation of America owns, directly or indirectly, 50% or more of its outstanding shares and any company with the name “SONY” as part of its trade name)
+  * With reputable third parties in whose products or services we think you may have an interest, with your prior consent to do so
+  * With representatives of former recording artists, who will be advised in advance that your consent is required for continued use
+  * As required by law, such as to comply with a subpoena or similar legal process
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request
+  * In connection with a corporate change including a merger, acquisition or sale of assets
+  * To any other third party with your prior consent to do so
+
+
+
+**Choice/Opt-Out**
+
+You may choose to stop receiving newsletters, updates or marketing emails by following the unsubscribe instructions included in these emails. Some Sites also allow you to change your email preferences within your online profile.
+
+If you choose to join a mobile marketing list, please be aware that there are usually costs associated with receiving SMS (text) or MMS (multimedia) messages depending on your wireless carrier and plan. You should check with your mobile carrier to determine what charges apply before signing up to receive our updates via your mobile phone. If you would like to stop receiving messages from us on your mobile phone, please reply to the message with “STOP.” You may also contact your wireless carrier for additional information on receiving or stopping mobile messages.
+
+If you have previously enabled your computer or mobile device to send us location information, you may be able to opt-out from further allowing us to access such information by changing the settings on your computer or mobile device or by uninstalling the application.
+
+**Tracking Technologies**
+
+We and our third party partners may automatically collect information as you browse our Site(s) such as the domain name, Internet Service Provider, browser type and version, mobile device ID, operating system and device type, average time spent on our Site(s), pages viewed, information accessed, the Internet Protocol (IP) address you use to connect to the Internet and related geographical information about your computer or mobile device. Such information is sometimes referred to as web analytics and/or clickstream data.
+
+We and our third party partners use cookies and other technologies such as web beacons to keep track of your visits, preferences and profile information.  This information is used to make our Site(s) easier to use, improve our advertising, and to provide you with a more personal and convenient experience. For example, we may use this information to store some of your preferences or to provide you with tailored advertisements related to your specific interests. Additionally, should you choose to enroll, we and our third party partners may use this information to allow you to participate in one of our fan rewards programs. To learn more about the use of cookies in online advertising, including how to manage or delete them [click here](http://www.networkadvertising.org/managing/learn_more.asp).
+
+We and some of our third party partners use Flash cookies to store some of your preferences or personal information.  For more information on Flash cookies and how to manage privacy and storage settings [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
+
+In some of our email messages, we use “click-through URLs” or pixel tags to determine whether the email has been opened and to measure the effectiveness of our customer communications.  This data may also be used to gauge your interest in particular topics, so we can deliver a more relevant, personal and convenient user-experience.
+
+**Security**
+
+The security of your personal information is important to us. When you enter sensitive billing information on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information.  We encourage you to read that privacy statement before providing your information.
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and after receipt. However, no method of transmission over the Internet or method of electronic storage is 100% secure and we cannot guarantee its absolute security.
+
+**Updating Your Personal Information**
+
+Our Sites may offer different methods for updating your personal information. To review and update your personal information on artist marketing Sites, please log in to your profile/account on each Site where you have registered.
+
+To update your billing or shipping information for purchases, please follow the customer service instructions in your order confirmation email.
+
+If you wish to cancel your account or request that we no longer use your information to provide you services contact us by [clicking here](https://web.archive.org/feedback/).
+
+**Consent to Processing**
+
+Our Sites are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using our Sites, or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
+
+**Additional Information**
+
+Widgets – Our Site(s) may include interactive mini-programs that provide specific services from another company (e.g., displaying digital news feeds, playing music, “liking” or sharing content, etc.), often referred to as widgets. You may have the opportunity to submit personal information, such as your email address, for collection through a widget. A widget may also use browser or Flash cookies and/or collect clickstream and usage data. Information collected by a widget is governed by the privacy policy of the company that created it.
+
+Links to Other Site(s) – Our Site(s) includes links to other site(s) whose privacy practices may differ from those of Sony Music.  If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.
+
+Children – We do not attempt to collect any personal information from those under the age of 13. If you feel that we have unknowingly collected information from someone under the age of 13, please [contact us](https://web.archive.org/feedback/) immediately and this information will be removed.
+
+For more information on how to protect your children online:
+
+**Visit  [www.OnGuardOnline.gov](http://www.onguardonline.gov/) for social networking safety tips for [parents](http://www.onguardonline.gov/topics/social-networking-sites.aspx) and [youth](http://www.onguardonline.gov/topics/safety-tips-tweens-teens.aspx).**
+
+**Changes To This Policy**
+
+By using our Site(s), you agree to the terms of this Privacy Policy.  We may amend this Privacy Policy at any time and, as such, we encourage you to periodically review this page for the latest information on our privacy practices. If we make a material change to the way in which we collect, use, and/or share your personal information, we will send an email to users who have provided an email address or post a notice on our Site(s) prior to the change becoming effective.  Your continued use of the Site(s) after a revised version of this Privacy Policy has been posted will signify your consent to the terms of such revised policy.
+
+**Your California Privacy Rights**
+
+If you are a California resident, California Civil Code Section 1798.83 provides you the right to receive (a) information identifying any third party(ies) to whom we may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed.  To obtain such information free of charge, please write to us at the address below, or [submit your request here](https://web.archive.org/feedback/). We will respond to these requests within thirty (30) days. Requests that come to us by other means may result in a delayed response.
+
+**Questions About This Privacy Policy**
+
+If you have questions or concerns regarding this Privacy Policy, you should first contact Sony Music. You can contact us about this Privacy Policy by writing us:
+
+Sony Music Entertainment 25 Madison Avenue, Room 22.401
+
+New York, NY 10010
+
+Or you can [click here](https://web.archive.org/feedback/) to submit feedback online.
