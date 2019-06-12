@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldarchitecturenews.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230234112id_/http%3A//www.haymarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldarchitecturenews.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612060252id_/http%3A//www.haymarket.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Haymarket Media Group Privacy Notice - Haymarket
+# Privacy Notice - Haymarket
 
-Last updated: 2nd November 2018.
+Last updated: 25th March 2019.
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Haymarket Media Group Limited respects and is committed to protecting your priva
 
 To reflect changes in privacy laws, this updated Privacy Notice aims to clearly inform you of how we use your personal data, how we ensure it is kept secure and your choices about its use. We hope this can help you to make informed decisions when using our websites or other services we provide.
 
-In this Notice, references to "we", "us" and "our" refer to Haymarket Media Group Limited. Personal data, as defined by the GDPR, means any information which relates to a living individual who can be identified, either directly or indirectly, from this information. For example your name, email address, postal address, telephone number and other personal details.
+In this Notice, references to “we”, “us” and “our” refer to Haymarket Media Group Limited. Personal data, as defined by the GDPR, means any information which relates to a living individual who can be identified, either directly or indirectly, from this information. For example your name, email address, postal address, telephone number and other personal details.
 
 From time to time we will update this Privacy Notice, so encourage you to refer back to this page regularly. If significant changes are made we will endeavour to notify you.
 
@@ -18,7 +18,7 @@ In addition to this Notice, each service offered by us or our group of companies
 
 ### Using links to external sites
 
-Please remember that when you use a link to go from our website to another website, our Privacy Notice no longer applies. Your browsing and interaction on any other website or your dealings with any other third party service provider, is subject to that website's or third party service provider's own rules and notices/policies. We do not monitor, control, or endorse the information collection or privacy practices of any third parties. This Notice applies solely to Information collected by us through our website or services and does not apply to these third party websites and third party service providers.
+Please remember that when you use a link to go from our website to another website, our Privacy Notice no longer applies. Your browsing and interaction on any other website or your dealings with any other third party service provider, is subject to that website’s or third party service provider’s own rules and notices/policies. We do not monitor, control, or endorse the information collection or privacy practices of any third parties. This Notice applies solely to Information collected by us through our website or services and does not apply to these third party websites and third party service providers.
 
 ## About us
 
@@ -30,7 +30,7 @@ If you have any questions about this Privacy Notice you can contact us in the fo
 **Call us:** 020 8267 5000 (and ask for the Data Protection Officer)  
 **Email our Data Protection Officer:** [data.protection@haymarket.com](mailto:data.protection@haymarket.com)
 
-Haymarket Media Group's registered office is Bridge House, 69 London Road, Twickenham, TW1 3SP.  
+Haymarket Media Group’s registered office is Bridge House, 69 London Road, Twickenham, TW1 3SP.  
 Registered in England and Wales under the company number: 00267189.  
 VAT registration number is GB232584272.  
 ICO registration number is: ZA445905.
@@ -68,7 +68,7 @@ To learn more please see How we use your personal data.
 
 ### When you visit our websites
 
-When you visit one of our websites for the first time, you will receive a "pop-up" notice informing you that we use Cookies. Some personal data (for example a unique identifier, your IP address and geographical location) will be collected through our and our technology partners' use of cookies and similar technologies. To learn more please see our Cookie Notice.
+When you visit one of our websites for the first time, you will receive a “pop-up” notice informing you that we use Cookies. Some personal data (for example a unique identifier, your IP address and geographical location) will be collected through our and our technology partners’ use of cookies and similar technologies. To learn more please see our Cookie Notice.
 
 ### From other organisations or publicly available sources
 
@@ -85,17 +85,17 @@ We may also research publicly available sources (e.g. websites and LinkedIn) and
 
 Under the GDPR there are six lawful bases under which organisations can collect, use and store personal data. We have identified four which we rely upon for our business activities: Consent, Contractual, Legitimate Interests and Legal Obligation.
 
-Contractual - in many circumstances we rely on the lawful basis of "performance of a contract", this enables us to respond to you when you express an interest in our products and services and to fulfil any requests. To learn more please see Fulfilment of a service.
+Contractual – in many circumstances we rely on the lawful basis of “performance of a contract”, this enables us to respond to you when you express an interest in our products and services and to fulfil any requests. To learn more please see Fulfilment of a service.
 
-Consent - in some circumstances we rely on your specific consent, whereby you actively agree and "opt-in". We will always make it clear how you can withdraw you consent at any time. To learn more please see How to stop marketing communications.
+Consent – in some circumstances we rely on your specific consent, whereby you actively agree and “opt-in”. We will always make it clear how you can withdraw you consent at any time. To learn more please see How to stop marketing communications.
 
-Legal Obligation - there will be circumstances under which we are legally obliged to hold your personal data or required to disclose it to a third party by law.
+Legal Obligation – there will be circumstances under which we are legally obliged to hold your personal data or required to disclose it to a third party by law.
 
-Legitimate Interests - for some of our activities we rely on our legitimate business interests to collect and use your personal data. In such cases, we have balanced our interests with yours and do not believe these activities will have a negative impact on your privacy rights and freedoms. We specifically rely on Legitimate Interests to:
+Legitimate Interests – for some of our activities we rely on our legitimate business interests to collect and use your personal data. In such cases, we have balanced our interests with yours and do not believe these activities will have a negative impact on your privacy rights and freedoms. We specifically rely on Legitimate Interests to:
 
   * manage specific aspects of our events. To learn more please see Conference events, Award events and Forum events
   * send you marketing communications about our products and services. To learn more please see Marketing communications
-  * send you marketing communications related to other companies' products and services (in a business-to-business context). To learn more please see Marketing communications
+  * send you marketing communications related to other companies’ products and services (in a business-to-business context). To learn more please see Marketing communications
   * personalise the marketing content we provide you. To learn more please see Personalisation of marketing & website content
   * share your contact details with a named sponsor, when you access specific sponsored content. To learn more please see Sponsored content
   * undertake business sales and advertising activities
@@ -159,7 +159,7 @@ Please note that photographs and video footage may be taken at this event for us
 
 Please find below information about how your personal data may be used when you register to attend one of our Business Forums.
 
-These events are specifically designed to invite delegates to meet and network with specific service suppliers. We believe it is in everyone's interests for business contact details to be shared between delegates and suppliers. You will always be informed of this. We will also need to share basic details to facilitate your travel and accommodation.
+These events are specifically designed to invite delegates to meet and network with specific service suppliers. We believe it is in everyone’s interests for business contact details to be shared between delegates and suppliers. You will always be informed of this. We will also need to share basic details to facilitate your travel and accommodation.
 
 Please note that photographs and video footage may be taken at this event for use in post-event publicity.
 
@@ -183,7 +183,7 @@ When we collect your personal data we will include a specific notice to inform y
 
 We will only send you direct marketing communications when you have either:
 
-  * provided your consent (e.g. ticked a box or clicked a "button" to submit a form)
+  * provided your consent (e.g. ticked a box or clicked a “button” to submit a form)
   * where we believe we can demonstrate a legitimate business interest and have balanced this with your interests and privacy.
 
 
@@ -200,14 +200,14 @@ We believe website content is more interesting to you when it is relevant. We pr
 
 ## How to stop receiving marketing communications
 
-We don't want to send you marketing communications if you do not want to receive them. You can stop receiving these messages from us at anytime.
+We don’t want to send you marketing communications if you do not want to receive them. You can stop receiving these messages from us at anytime.
 
 We have a diverse range of brands in our Haymarket Automotive, and Haymarket Business Media divisions, which you may not realise are all published by Haymarket Media Group. You may therefore wish to be selective and just stop receiving marketing communications from one brand rather than from them all.
 
 **Emails** : There will always be an unsubscribe link on any marketing email you receive from us. Some of our brands (where relevant) provide a level of granularity to the types of emails you can unsubscribe from.  
 **Post** : We will inform you in any postal communication how you can stop receiving direct mail in future.  
-**Phone** : If you receive a marketing call from us, please let the call operator know if you don't want to receive calls again.  
-**SMS** : Please text "STOP" to any message received.
+**Phone** : If you receive a marketing call from us, please let the call operator know if you don’t want to receive calls again.  
+**SMS** : Please text “STOP” to any message received.
 
 If you wish to stop ALL marketing communications from Haymarket Media Group please click the button below (remember this will stop all marketing communications from all of our brands).  
 
@@ -239,7 +239,7 @@ We use a number of companies to help us in providing a professional service to o
 
 ### Audit and verification
 
-We may share your personal data with the auditing organisation, ABC (Audit Bureau of Circulations Ltd). This is only so ABC can verify aggregated statistics about circulation and usage of our products or review our policies, processes and procedures for compliance with relevant standards. To learn more please see [ABC's Privacy Policy](http://www.abc.org.uk/privacy-policy).
+We may share your personal data with the auditing organisation, ABC (Audit Bureau of Circulations Ltd). This is only so ABC can verify aggregated statistics about circulation and usage of our products or review our policies, processes and procedures for compliance with relevant standards. To learn more please see [ABC’s Privacy Policy](http://www.abc.org.uk/privacy-policy).
 
 ### Legal Disclosure
 
@@ -248,6 +248,8 @@ We may need to disclose your personal data to comply with any legal obligation. 
 ### Changes to our company
 
 In the event we go through a business transition such as a merger or acquisition by another company, or sale of all or a portion of our assets, your personal data may be among the assets transferred.
+
+## Social Media, message boards and chat
 
 ### Using social media sign-in
 
@@ -285,7 +287,7 @@ To exercise any of your rights please use Our contact details.
 
 If you are unhappy with the manner in which we have collected and are using your personal data please do not hesitate to contact us.
 
-If you are concerned with the manner in which we have handled your personal data, you have the right to complain to a supervisory authority. In the UK this is the [Information Commissioner's Office](https://ico.org.uk/).
+If you are concerned with the manner in which we have handled your personal data, you have the right to complain to a supervisory authority. In the UK this is the [Information Commissioner’s Office](https://ico.org.uk/).
 
 ### Access your personal data
 
@@ -325,7 +327,7 @@ We have a detailed internal schedule for ensuring we do not hold your personal d
 
 ### Reporting security vulnerabilities
 
-We are committed to the privacy, safety and security of our customers. If you discover a potential security vulnerability, we would ask you to please report it just to us in a responsible manner. Please email us at [data.protection@haymarket.com](mailto:data.protection@haymarket.com) and we will respond to you as soon as possible. This provides us with an opportunity to work with you and quickly address and resolve any issue. Publicly disclosing a potential vulnerability could put the wider community at risk, and therefore we encourage you to come to us first. We'll keep you informed as we move forward with our investigations.
+We are committed to the privacy, safety and security of our customers. If you discover a potential security vulnerability, we would ask you to please report it just to us in a responsible manner. Please email us at [data.protection@haymarket.com](mailto:data.protection@haymarket.com) and we will respond to you as soon as possible. This provides us with an opportunity to work with you and quickly address and resolve any issue. Publicly disclosing a potential vulnerability could put the wider community at risk, and therefore we encourage you to come to us first. We’ll keep you informed as we move forward with our investigations.
 
 ## Cookie Notice
 
@@ -337,11 +339,11 @@ Where Haymarket Media Group Ltd or its group companies talk about cookies and tr
 
 #### Flash Cookies
 
-A local shared object, sometimes called a "Flash cookie," is a data file that can be created on your computer by the websites you visit. They are most often used to enhance your web-browsing experience. Adobe's website provides details regarding [Flash Cookies](https://www.adobe.com/devnet/flashplayer/articles/privacy.html)
+A local shared object, sometimes called a “Flash cookie,” is a data file that can be created on your computer by the websites you visit. They are most often used to enhance your web-browsing experience. Adobe’s website provides details regarding [Flash Cookies](https://www.adobe.com/devnet/flashplayer/articles/privacy.html)
 
 #### Web Beacons
 
-To help us better manage content we employ web beacons in emails that we send to our subscribers. Web beacons are tiny graphics with a unique identifier and are used to track the online movements of internet users. Unlike cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on websites. We use them in our HTML-based emails to learn which emails have been opened by recipients enabling us to gauge the effectiveness of our marketing campaigns.
+To help us better manage content we employ web beacons in emails that we send to our subscribers. Web beacons are tiny graphics with a unique identifier and are used to track the online movements of internet users. Unlike cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on websites. We use them in our HTML-based emails to learn which emails have been opened by recipients enabling us to gauge the effectiveness of our marketing campaigns.
 
 #### Pixels
 
@@ -357,15 +359,15 @@ We use log files to record events that occur on our websites. This may include, 
 
 There are two types of cookies:
 
-  1. "Session Cookies" - Stored temporarily in your computer's memory while you are visiting a website and are deleted when you close your browser.
-  2. "Persistent Cookies" - Stored for a set period on your computer and used to determine whether there has been any contact between us and your computer in the past.
+  1. “Session Cookies” – Stored temporarily in your computer’s memory while you are visiting a website and are deleted when you close your browser.
+  2. “Persistent Cookies” – Stored for a set period on your computer and used to determine whether there has been any contact between us and your computer in the past.
 
 
 
 There are two ways cookies set can be on our websites:
 
-  1. "1st Party Cookies" - cookies that are set by the website domain (or belonging to a sub domain) of the website.
-  2. "3rd Party Cookies" - cookies that are set by another website domain. (e.g. by one of our main technology partners or by an external web services)
+  1. “1st Party Cookies” – cookies that are set by the website domain (or belonging to a sub domain) of the website.
+  2. “3rd Party Cookies” – cookies that are set by another website domain. (e.g. by one of our main technology partners or by an external web services)
 
 
 
@@ -374,13 +376,13 @@ There are two ways cookies set can be on our websites:
 We are categorising cookies set on the site by ourselves and our main technology partners into the following categories:
 
 **Category 1: Strictly necessary cookies**  
-These cookies are essential, as they enable you to move around a website and use its features, such as accessing secure areas. Without these cookies, services you've asked for (such as access to secure areas) can't be provided. These cookies don't gather information about you that can be used for marketing or remembering where you've been on the internet.
+These cookies are essential, as they enable you to move around a website and use its features, such as accessing secure areas. Without these cookies, services you’ve asked for (such as access to secure areas) can’t be provided. These cookies don’t gather information about you that can be used for marketing or remembering where you’ve been on the internet.
 
 **Category 2: Performance cookies**  
-These cookies collect information about how you use a website, for example which pages you go to most often and if you get any error messages from certain pages. These cookies don't gather information that identifies you. All information these cookies collect is anonymous and is only used to improve how our website works. These cookies are not used to target you with online advertising. Without these cookies we can't learn how our website is performing and make relevant improvements that could better your browsing experience.
+These cookies collect information about how you use a website, for example which pages you go to most often and if you get any error messages from certain pages. These cookies don’t gather information that identifies you. All information these cookies collect is anonymous and is only used to improve how our website works. These cookies are not used to target you with online advertising. Without these cookies we can’t learn how our website is performing and make relevant improvements that could better your browsing experience.
 
 **Category 3: Functionality cookies**  
-These cookies allow a website to remember choices you make (such as your user name, language or the region you're in) and tailor the website to provide enhanced features and content for you. For instance, they can be used to remember log-in details, changes you've made to text size, font and other parts of pages that you can customise. They may also be used to provide services you've asked for such as watching a video or commenting on a blog. These cookies may be used to ensure that all our services and communications are relevant to you. The information these cookies collect cannot track your browsing activity on other websites. Without these cookies, a website cannot remember choices you've previously made or personalise your browsing experience.
+These cookies allow a website to remember choices you make (such as your user name, language or the region you’re in) and tailor the website to provide enhanced features and content for you. For instance, they can be used to remember log-in details, changes you’ve made to text size, font and other parts of pages that you can customise. They may also be used to provide services you’ve asked for such as watching a video or commenting on a blog. These cookies may be used to ensure that all our services and communications are relevant to you. The information these cookies collect cannot track your browsing activity on other websites. Without these cookies, a website cannot remember choices you’ve previously made or personalise your browsing experience.
 
 **Category 4: Targeting and advertising cookies**  
 We use these to provide adverts on our sites that we believe are more relevant to you. Without these cookies, online adverts you encounter will be less relevant to you and your interests. We also enable some advertising partners to set cookies specifically to enable them to analyse advertising campaign performance.
@@ -394,11 +396,15 @@ We use Google DoubleClick for the delivery and measurement of advertising campai
  
 
 **Google AdWords**  
-We use Google AdWords to promote our products and services through Google's advertising opportunities.  
+We use Google AdWords to promote our products and services through Google’s advertising opportunities.  
  
 
 **Google Analytics**  
 We use Google Analytics to provide insight into how visitors find and use our web pages so that we can evaluate and develop them. We also use Google Analytics to analyse how our audiences interact with our marketing content, for example what content is “clicked on”, so we can ensure we present relevant content which our audiences are interested in.  
+ 
+
+**Data Hygge**  
+We use Data Hygge to help us understand patterns in user behaviour so our Product and UX teams can create better user experiences. Data Hygge does this by deploying cookies that collect pseudonymised data points from interactions on our What Car? website.  
  
 
 **Lotame**  
@@ -422,7 +428,7 @@ We use Skimlinks to help us attribute traffic.
  
 
 **Dax**  
-We use Dax to customise the Radio adverting provided.  
+We use Dax to customise the Radio advertising provided.  
  
 
 #### External web services
@@ -435,21 +441,21 @@ We may set cookies on certain third party sites that we advertise on to identify
 
 ### Your control options
 
-When you use any of our websites for the 1st time you will be notified about our use of cookies via a "pop up" banner. This is to inform you that cookies or similar technologies are deployed on your device. Some of these cookies or similar technologies may facilitate the processing of personal data. To learn more, please see Our main technology partners.
+When you use any of our websites for the 1st time you will be notified about our use of cookies via a “pop up” banner. This is to inform you that cookies or similar technologies are deployed on your device. Some of these cookies or similar technologies may facilitate the processing of personal data. To learn more, please see Our main technology partners.
 
 #### Managing your cookies
 
-You can choose to disable your web browser's ability to accept cookies. Please note that if you choose to do this, you may not be able to access or take advantage of many features of the service and some parts of the website may not work properly.
+You can choose to disable your web browser’s ability to accept cookies. Please note that if you choose to do this, you may not be able to access or take advantage of many features of the service and some parts of the website may not work properly.
 
 You can control how cookies are set within your browser settings. Each browser is different so check the ‘Help’ menu of your particular browser to learn how to change your cookie preferences, please see:
 
-["Privacy Browsing" in Firefox](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history)  
-["Incognito" Browsing in Chrome](https://support.google.com/chrome/answer/95464)  
-["InPrivate" Browsing in Internet Explorer 11](https://support.microsoft.com/en-us/help/17479/windows-internet-explorer-11-change-security-privacy-settings)  
-["InPrivate" Browsing in Microsoft Edge](https://support.microsoft.com/en-us/help/4026200/windows-browse-inprivate-in-microsoft-edge)  
-["Private Browsing" in Safari](https://support.apple.com/en-gb/guide/safari/browse-privately-ibrw1069/mac)
+[“Privacy Browsing” in Firefox](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history)  
+[“Incognito” Browsing in Chrome](https://support.google.com/chrome/answer/95464)  
+[“InPrivate” Browsing in Internet Explorer 11](https://support.microsoft.com/en-us/help/17479/windows-internet-explorer-11-change-security-privacy-settings)  
+[“InPrivate” Browsing in Microsoft Edge](https://support.microsoft.com/en-us/help/4026200/windows-browse-inprivate-in-microsoft-edge)  
+[“Private Browsing” in Safari](https://support.apple.com/en-gb/guide/safari/browse-privately-ibrw1069/mac)
 
-If you want to learn more about cookies, or how to control or delete them, you may also visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/) You may also wish to review the guidance provided by the Information Commissioner's Office <https://ico.org.uk/for-the-public/online/cookies/>
+If you want to learn more about cookies, or how to control or delete them, you may also visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/) You may also wish to review the guidance provided by the Information Commissioner’s Office <https://ico.org.uk/for-the-public/online/cookies/>
 
 #### Managing your preferences
 
@@ -465,9 +471,12 @@ Your Online Choices website, tips and advice about Online Behavioural Adverts an
 
 If you want to find out more or request information about our Cookie Notice use Our contact details
 
-**Changes to our Privacy Notice**  
+## Changes to our Privacy Notice
+
 If we decide to change our privacy notice we will post the changes here.
 
 July 2018: Updated to include additional technology partners who deploy cookies on our websites, with links to further information and controls.
 
 October 2018: Removed other companies within the Haymarket Media Group. Updated the website and marketing personalisation section. Added email marketing as an example of how pixels are used, within the ‘Pixels’ section. Updated the Google Analytics tech supplier section to illustrate its use for personalising content.
+
+March 2019: Added Data Hygge as a technology partner.
