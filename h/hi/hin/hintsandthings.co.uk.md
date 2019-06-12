@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208064305id_/http%3A//hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612021714id_/http%3A//hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ Hints and Things has now closed their Google Analytics account so no personal da
 
 June Jackson
 
-Copyright © 2000-2018 Hints and Things   
+Copyright © 2000-2019 Hints and Things  
 All Rights Reserved.
 
 No portion of this site may be reproduced or redistributed without prior written permission from Hints and Things. All trademarks & copyrights throughout Hints and Things remain the property of their respective owners.
