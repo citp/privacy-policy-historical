@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transportnsw.info privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924043742id_/https%3A//transportnsw.info/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transportnsw.info privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612141605id_/https%3A//transportnsw.info/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy | transportnsw.info
 
@@ -8,15 +8,14 @@ Transport for NSW does not have any responsibility for the privacy policies or p
 
 If you have any questions about the Site or the application of this Privacy Statement or a request for access to information held by Transport for NSW, please contact:
 
-Manager, Information and Privacy Unit  
+Privacy Team  
 Transport for NSW  
-PO Box K659   
-Phone: 02 8202 3768  
-Email: [privacy@transport.nsw.gov.au](mailto:privacy@transport.nsw.gov.au)
+PO Box K659  
+Email: [privacy@transport.nsw.gov.au](mailto:privacy@transport.nsw.gov.au)
 
-Users of the Site are entitled to expect that any information gathered while using the Site will be treated within the terms of the New South Wales government's privacy responsibilities and obligations. The New South Wales government's privacy practices are regulated by the  _Privacy and Personal Information Protection Act 1998_  (NSW) ( **PPIPA** ) and  _Health Records and Information Privacy Act 2002_  (NSW) ( **HRIPA** ).
+Users of the Site are entitled to expect that any information gathered while using the Site will be treated within the terms of the New South Wales government's privacy responsibilities and obligations. The New South Wales government's privacy practices are regulated by the  _Privacy and Personal Information Protection Act 1998_ (NSW) ( **PPIPA** ) and _Health Records and Information Privacy Act 2002_ (NSW) ( **HRIPA** ).
 
-This Privacy Statement sets out how Transport for NSW collects, uses, discloses and stores information collected through your use of the Site, which may include personal information and health information, and how individuals may access and correct personal information that we may hold.  Transport for NSW will only collect, use and disclose this information in accordance with PPIPA, HRIPA and any other applicable laws.  
+This Privacy Statement sets out how Transport for NSW collects, uses, discloses and stores information collected through your use of the Site, which may include personal information and health information, and how individuals may access and correct personal information that we may hold. Transport for NSW will only collect, use and disclose this information in accordance with PPIPA, HRIPA and any other applicable laws.
 
 When you access the pages on our Site our computers automatically record information that identifies, for each page accessed:
 
@@ -120,5 +119,53 @@ If you wish to:
 
 
 please contact the Information and Privacy Unit (as per the details provided at the start of this Privacy Statement).
+
+Transport for New South Wales (TfNSW) is committed to protecting the privacy of your personal information in accordance with the _Privacy and Personal Information Protection Act 1998_ (NSW) ( **PPIP Act** ).
+
+**Consent**
+
+By participating in the On Demand Travel Credit Trial ( **ODTC Trial** ) you consent to TfNSW collecting, using, storing and disclosing your personal information in accordance with the terms of this Privacy Notice.
+
+The provision of your personal information is voluntary, but you may not participate in the ODTC Trial if you do not provide the personal information required in order for TfNSW to link your trips.
+
+**Collection**
+
+TfNSW will collect your name, email address, mobile telephone number and Opal card number directly from you when you register to participate in the ODTC Trial. TfNSW will also collect personal information about you from Interline Connect (such as trip information including the date, time and location of your Interline Connect trip, the cost of your Interline Connect ticket and ticket type (for example, adult or concession) and specific customer reference numbers designated to your Interline Connect account).
+
+TfNSW will not collect your Interline Connect payment information.
+
+Your personal information will be collected to assist TfNSW with:
+
+  * Administering the ODTC Trial
+  * Transport planning and policy
+  * Transport information
+
+
+
+**Use**
+
+The ODTC Trial requires a customer to register a new account with TfNSW for an On Demand travel credit ( **ODTC Trial Account** ). Certain personal information about you (set out above under _Collection_ ) will be used to link your Opal card and your Interline On Demand booking account number. Once linked, TfNSW will consolidate your Interline On Demand and Opal trips and calculate travel credits for the intermodal transfers between Interline On Demand and Opal trips. You can view your consolidated travel history for Interline On Demand trips and connected Opal trips, by logging in to your On Demand travel credit account and viewing your activity.
+
+When you book a trip with Interline On Demand to travel to or from Edmondson Park Station, this will be registered with Interline On Demand in accordance with the [Interline Terms and Conditions (pdf 159KB)](https://web.archive.org/document/4190/interline-connect-terms-and-conditions.pdf "Interline Connect terms and conditions"). When you board the Interline On Demand bus service, TfNSW will be notified of this trip by an exchange of the information above.
+
+Once you tap on or off at an Opal network service at Edmondson Park Station, your information in relation to tapping on or off the Opal network and the Interline On Demand bus trip you took will be linked in your ODTC Trial Account held by TfNSW.
+
+TfNSW will verify that you have travelled on the Interline On Demand bus service and the Opal network within 60 minutes. At that time, you will be eligible to receive a credit of $2.00 if you are an Adult Opal Customer or $1.00 if you are an Opal Concession Card Customer.
+
+The credit will be provided by Interline On Demand back to the payment method you registered with Interline On Demand and not from the Opal Network.
+
+**Disclosure**
+
+TfNSW will exchange your personal information with Interline Connect to verify your connecting trips between Interline On Demand and the Opal network (set out above under _Use_ ).
+
+Only those who have registered for the ODTC Trial on the TfNSW website will have their information shared between TfNSW and Interline On Demand.
+
+TfNSW will not use or disclose your personal information for any purpose other than those set out in this Privacy Notice. TfNSW will not disclose your personal information, unless you consent, or TfNSW is required to by law.
+
+**Contact us**
+
+TfNSW will ensure the confidentiality and security of your information.
+
+For further information on TfNSW’s privacy obligations, and details about how to contact TfNSW’s Privacy Officer, please see TfNSW’s Privacy Management Plan or contact us at [privacy@transport.nsw.gov.au](mailto:privacy@transport.nsw.gov.au).
 
 Due to the developing nature of privacy principles for online communication, this Privacy statement may be modified or expanded in light of new developments or issues that may arise from time to time. The amended Privacy Statement will be posted to the Site and will operate from the time it is posted.
