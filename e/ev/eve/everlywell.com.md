@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the everlywell.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619124212id_/https%3A//www.everlywell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everlywell.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612091533id_/https%3A//www.everlywell.com/privacy-policy) for the most accurate reproduction.*
 
-# Convenient At Home Health Testing - EverlyWell
+# EverlyWell: Home Health Testing Made Easy
 
 Everly Well, Inc.
 
 Privacy Policy
 
-Last modified: March 18, 2017
+Last modified: June 19, 2017
 
 INTRODUCTION
 
@@ -26,22 +26,22 @@ This policy applies to information we collect:
 
 It does not apply to information collected by:
 
-  * us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries); or 
+  * us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries); or
   * any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Site.
 
 
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Site. By accessing or using this Site, you agree to this Privacy Policy. This policy may change from time to time and will be posted at <https://www.everlywell.com/privacy-policy>. Your continued use of this Site after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, you may choose not to use our Site. By accessing or using this Site, you agree to this Privacy Policy. This policy may change from time to time and will be posted at[ https://www.everlywell.com/privacy-policy](https://www.everlywell.com/privacy-policy/). Your continued use of this Site after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
 CHILDREN UNDER THE AGE OF 18
 
-This Site is offered and available to users who are 18 years of age or older. We do not collect or maintain personal information from people we actually know are under 18 years old. If we obtain actual knowledge that a user is under 18 years old, we will use our best efforts to remove that person’s user information from our database. If you do not meet all of these requirements, you must not access or use the Site.
+This Site is offered and available to users who are 18 years of age or older. We do not collect or maintain information from people we actually know are under 18 years old. If we obtain actual knowledge that a user is under 18 years old, we will use our best efforts to remove that person’s information from our database. If you are not 18 years of age or older, you must not access or use the Site.
 
 INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT
 
 We collect several types of information from and about users of our Site, including information:
 
-  * by which you may be personally identified, such as name, mailing address, email address, telephone number, or any other information defined as “Protected Health Information” under HIPAA/HITECH laws (“personal information”);
+  * by which you may be personally identified, such as name, mailing address, email address, telephone number, or any other information defined as “Protected Health Information” under HIPAA/HITECH laws and regulations (“personal information”);
   * that is about you but individually does not identify you, such as, time and date of visits to our Site; and/or
   * about your internet connection, the equipment you use to access our Site and usage details.
 
@@ -55,7 +55,9 @@ We collect this information:
 
 
 
-Information You Provide to Us. The information we collect on or through our Site may include:
+INFORMATION YOU PROVIDE TO US
+
+The information we collect on or through our Site may include:
 
   * Information that you provide by filling in forms on our Site. This includes information provided at the time of registering to use our Site, subscribing to or purchasing our services, posting material or requesting further services. We may also ask you for information when you report a problem with our Site.
   * Records and copies of your correspondence (including email addresses), if you contact us.
@@ -65,16 +67,18 @@ Information You Provide to Us. The information we collect on or through our Site
 
 
 
-You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Site, or transmitted to other users of the Site or third parties (collectively, “Content”). Your Content is posted on and transmitted to others at your own risk. We cannot control the actions of other users of the Site with whom you may choose to share your Content. Therefore, we cannot and do not guarantee that your Content will not be viewed by unauthorized persons.
+You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Site, or transmitted to other users of the Site or third parties (collectively, “User Content”). Your User Content is posted on and transmitted to others at your own risk. We cannot control the actions of other users of the Site with whom you may choose to share your User Content. Therefore, we cannot and do not guarantee that your User Content will not be viewed by unauthorized persons.
 
-Information We Collect Through Automatic Data Collection Technologies. As you navigate through and interact with our Site, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
+INFORMATION WE COLLECT THROUGH AUTOMATIC DATA COLLECTION TECHNOLOGIES
+
+As you navigate through and interact with our Site, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
   * Details of your visits to our Site, including, but not limited to, traffic data, location data, logs and other communication data and the resources that you access and use on the Site.
   * Information about your computer and internet connection, including your IP address, operating system and browser type.
 
 
 
-We also may use these technologies to collect information about your online activities over time and across third party websites or other online services (behavioral tracking). Please email us for information on how you can opt out of behavioral tracking on this website and how we respond to web browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.
+We also may use these technologies to collect information about your online activities over time and across third party websites or other online services (“behavioral tracking”). Please email us at [contact@everlywell.com ](mailto:contact@everlywell.com)for information on how you can opt out of behavioral tracking on this website and how we respond to web browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.
 
 The information we collect automatically is statistical data and may include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Site and to deliver a better and more personalized service, including, but not limited to, by enabling us to:
 
@@ -87,15 +91,15 @@ The information we collect automatically is statistical data and may include per
 
 The technologies we may use for this automatic data collection include:
 
-  * Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Site. 
-  * Flash Cookies. Certain features of our Site may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Site. Flash cookies are not managed by the same browser settings as are used for browser cookies. 
-  * Web Beacons. Pages of our the Site and our emails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
+  * Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Site.
+  * Flash Cookies. Certain features of our Site may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Site. Flash cookies are not managed by the same browser settings as are used for browser cookies.
+  * Web Beacons. Pages of our Site and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
 
 
 THIRD PARTY USE OF COOKIES AND OTHER TRACKING TECHNOLOGIES.
 
-Some content or applications, including advertisements, on the Site are served by third parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services . They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. 
+Some content or applications, including advertisements, on the Site are served by third parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
 We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
@@ -114,13 +118,13 @@ We use information that we collect about you or that you provide to us, includin
 
 
 
-We may also use your information to contact you about our own and third parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, please email us to opt out.
+We may also use your information to contact you about our own and third parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, please email us at [contact@everlywell.com ](mailto:contact@everlywell.com)to opt out.
 
 We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
 DISCLOSURE OF YOUR INFORMATION
 
-We may disclose aggregated or de-identified information about our users, and information that does not identify any individual, without restriction. 
+We may disclose aggregated or de-identified information about our users, and information that does not identify any individual, without restriction.
 
 We may disclose personal information that we collect or you provide as described in this Privacy Policy:
 
@@ -128,7 +132,7 @@ We may disclose personal information that we collect or you provide as described
   * To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
   * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our Site users is among the assets transferred, and you agree to and do hereby consent to our assignment or transfer of rights to your personal information.
   * To third parties to market their products or services to you if you have not opted out of these disclosures. We contractually require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them.
-  * To fulfill the purpose for which you provide it. 
+  * To fulfill the purpose for which you provide it.
   * For any other purpose disclosed by us when you provide the information.
   * With your consent.
 
@@ -136,29 +140,30 @@ We may disclose personal information that we collect or you provide as described
 
 We may also disclose your personal information:
 
-  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our Visitor Terms of Use (<https://www.everlywell.com/terms-of-use>) and our User Agreement and other agreements, including for billing and collection purposes.
+  * To comply with any court order, law or legal process, including responding to any government or regulatory request.
+  * To comply with any state or local requirements regarding the disclosure of information for public health purposes, including reporting HIV and other sexually transmitted disease results to state public health regulatory bodies.
+  * To enforce or apply our Visitor Terms of Use ([ https://www.everlywell.com/terms-of-use](https://www.everlywell.com/terms-of-use)) and our User Agreement and other agreements, including for billing and collection purposes.
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of our company, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
 
 CHOICES ABOUT HOW WE USE AND DISCLOSE YOUR INFORMATION
 
-We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: 
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-  * Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website (www.adobe.com). If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-  * Promotional Offers from Us. If you do not wish to have your email address or other contact information used by us to promote our own or third parties’ products or services, you can opt-out by logging into the Site and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an email stating your request to contact@everlywell.com. If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions. This opt out does not apply to information provided to us as a result of a product purchase, warranty registration, product service experience or other transactions.
-  * Targeted Advertising. If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by adjusting your user advertising preferences in your account profile by checking or unchecking the relevant boxes or by sending us an email stating your request [contact@everlywell.com](mailto:contact@everlywell.com).
+  * Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website (www.adobe.com). If you disable or refuse cookies, please note that some parts of this Site may then be inaccessible or not function properly.
+  * Promotional Offers from Us. If you do not wish to have your email address or other contact information used by us to promote our own or third parties’ products or services, you can opt-out by logging into the Site and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending an email stating your request to[ contact@everlywell.com](mailto:contact@everlywell.com). If we have sent you a promotional email, you may send us a return email asking to be omitted from future promotional email distributions. This opt out does not apply to information provided by us as a result of a product purchase, warranty registration, product service experience or other transactions.
+  * Targeted Advertising. If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by adjusting your user advertising preferences in your account profile by checking or unchecking the relevant boxes or by sending an email stating your request to[ contact@everlywell.com](mailto:contact@everlywell.com). 
 
 
 
-We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative their website.
+We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative via their website.
 
 ACCESSING AND CORRECTING YOUR INFORMATION
 
-You can review and change your personal information by logging into the Site and visiting your account profile page. You may also send us an email at contact@everlywell.com to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You can review and change your personal information by logging into the Site and visiting your account profile page. You may also send us an email at [contact@everlywell.com ](mailto:contact@everlywell.com)to request access to, or to correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-If you delete your Content from the Site, copies of your Content may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on the Site, including Content, is governed by our Visitor Terms of Use.
+If you delete your User Content from the Site, copies of your User Content may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on the Site, including User Content, is governed by our Visitor Terms of Use.
 
 YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -172,10 +177,10 @@ The safety and security of your information also depends on you. Where we have g
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Site. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Site.
 
-CHANGES TO OUR PRIVACY POLICY
+NOTICE OF CHANGES TO OUR PRIVACY POLICY
 
-It is our policy to post any changes we make to our Privacy Policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Site home page. The date the Privacy Policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Site and this Privacy Policy to check for any changes.
+We reserve the right to make changes to this Privacy Policy at any time. It is our policy to post any changes we make to our Privacy Policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Site home page. All changes are effective immediately upon posting to this page; the date the Privacy Policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Site and this Privacy Policy to check for any changes.
 
 CONTACT INFORMATION
 
-To ask questions or comment about this Privacy Policy and our privacy practices, contact us at: Director of Communications, Everly Well, Inc., 311 N. Market St., Suite 200, Dallas, Texas 75202. Phone: (512) 643-7060; Email: contact@everlywell.com.
+To ask questions or comment about this Privacy Policy and our privacy practices, contact us at: Everly Well, Inc., 800 W Cesar Chavez St, Austin, TX 78701. Phone: (512) 309-5588; Fax: (512) 857-0981; Email:[ contact@everlywell.com](mailto:contact@everlywell.com). 
