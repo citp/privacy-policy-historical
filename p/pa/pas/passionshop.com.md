@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the passionshop.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505023147id_/https%3A//www.passionshop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passionshop.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612064139id_/https%3A//www.passionshop.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | Passion Shop
+# Privacy Statement | PassionShop
 
 [](http://www.truste.org/ivalidate.php?url=www.passionshop.com&sealid=101)
 
