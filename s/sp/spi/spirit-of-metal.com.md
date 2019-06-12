@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spirit-of-metal.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210090035id_/https%3A//www.spirit-of-metal.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spirit-of-metal.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612132921id_/https%3A//www.spirit-of-metal.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Spirit of Metal : Privacy Policy
 
