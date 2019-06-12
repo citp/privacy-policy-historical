@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeemaps.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017105742id_/https%3A//www.zeemaps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeemaps.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612094843id_/https%3A//www.zeemaps.com/privacy) for the most accurate reproduction.*
 
 # Map with Confidence - Privacy
 
