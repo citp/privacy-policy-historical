@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the planetcalc.com privacy policy that was archived on 2018-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181214054455id_/http%3A//www.planetcalc.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the planetcalc.com privacy policy that was archived on 2019-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190612040828id_/https%3A//planetcalc.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<link rel="stylesheet" href="/style/min/planetcalc_common_3206.css">
+<link rel="stylesheet" href="/style/min/planetcalc_common_3360.css">
 <script>
 	(function() {
 var useSSL = 'https:' == document.location.protocol;
@@ -17,7 +17,7 @@ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
 </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 
 
-<script>if (googletag) {googletag.pubads().setRequestNonPersonalizedAds(0);var mapping0  = googletag.sizeMapping().addSize([1500,200],  [970,90]).addSize([768,200],  [728,90]).addSize([480,200],  [468,60]).addSize([0,0],  [320,100]).build();googletag.defineSlot('/13440450/v7.en.top', [[970,90],[728,90],[468,60],[320,100]], 'div-gpt-ad-1544766296-1').defineSizeMapping(mapping0).setCollapseEmptyDiv(true).addService(googletag.pubads());
+<script>if (googletag) {googletag.pubads().setRequestNonPersonalizedAds(0);var mapping0  = googletag.sizeMapping().addSize([1500,200],  [970,90]).addSize([768,200],  [728,90]).addSize([480,200],  [468,60]).addSize([0,0],  [320,100]).build();googletag.defineSlot('/13440450/v7.en.top', [[970,90],[728,90],[468,60],[320,100]], 'div-gpt-ad-1560312508-1').defineSizeMapping(mapping0).setCollapseEmptyDiv(true).addService(googletag.pubads());
 googletag.pubads().enableSyncRendering();
 googletag.pubads().enableSingleRequest();
 googletag.enableServices();
@@ -251,10 +251,21 @@ Login</a>
 </li>
 	</ol>
 	<div class="pc-buildver">Copyright © PlanetCalc Version:
-	3.0.3242.0	</div>
+	3.0.3389.0	</div>
 </footer>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script src="/lib/min/3242/pla_0_3242.js"></script><script>
-//BSShim();
+<script>if ( PCL===undefined ) {var PCL = {};}
+PCL.minutes_ago_one="%1 minute ago";PCL.minutes_ago_other="%1 minutes ago";PCL.hours_ago_one="%1 hour ago";PCL.hours_ago_other="%1 hours ago";PCL.days_ago_one="%1 day ago";PCL.days_ago_other="%1 days ago";PCL.months_ago_one="%1 month ago";PCL.months_ago_other="%1 months ago";PCL.years_ago_one="%1 year ago";PCL.years_ago_other="%1 years ago";PCL.x_of_y="%1 of %2";PCL.items_per_page="Items per page";PCL.next_page="Next page";PCL.prev_page="Previous page";PCL.err_data_too_long="Calculation data size is %1 kb. Your calculation data is too large. We allow %2 kb only.";PCL.userdata="The caclulation has been saved %2 by <a href=\"/personal/authorinfo/?id=%3\" rel=\"nofollow\">%1</a>";		PCL.pluralCodes = ['zero','one','two','few','many'];
+	PCL.ordinalIR = function( n ) {
+		var i = n, w=0,f=0,t=0,v=0;
+		if ((n%10)==1 && (n%100)!=11) return PCL.pluralCodes[1];if ((n%10)==2 && (n%100)!=12) return PCL.pluralCodes[2];if ((n%10)==3 && (n%100)!=13) return PCL.pluralCodes[3];return "other";	}
+	PCL.cardinalIR = function( n ) {
+		var i = n, w=0,f=0,t=0,v=0;
+		if (v==0 && i==1) return PCL.pluralCodes[1];return "other";	}
+	PCL.getOrdinal = function(n){
+		return PCL['ordinal_' + PCL.ordinalIR( n )];
+	}
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script src="/lib/min/3387/pla_0_3387.js"></script><script>
 PLANETCALC.init();
 </script>
 
