@@ -1,1511 +1,923 @@
-<!--The following is the downloaded HTML source of the ratemyteachers.com privacy policy that was archived on 2018-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181029181741id_/https%3A//www.ratemyteachers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratemyteachers.com privacy policy that was archived on 2019-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190613010305id_/https%3A//www.ratemyteachers.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="//www.google.com/adsense/search/async-ads.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-      (function(){
-        window.beginTimeTrack = (new Date()).getTime();
-      })();
-    </script>
-<title>Privacy | RateMyTeachers.com</title>
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"f46052bf0f","applicationID":"3606589","transactionName":"c1lfF0sNXlRRFhxcD1ZZHhNLC0RZVx1sRQ5cX1Ia","queueTime":0,"applicationTime":43,"agentToken":null,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwEAU1VbGwAGVFdXDwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(13),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(14),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(16)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(13),c=t(14),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(o="Safari",i=s[1])}e.exports={agent:o,version:i,match:r}},{}],13:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],14:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],15:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],16:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(14),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[g[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){w[t]=m(t).concat(e)}function h(t,e){var n=w[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return w[t]||[]}function v(t){return d[t]=d[t]||o(n)}function y(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var w={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:y,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(13),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+b.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-b.offset}var c=(new Date).getTime(),s=t("handle"),f=t(13),u=t("ee"),d=t(12),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,y=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var w=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},x=v&&y&&y[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:x,userAgent:d};t(9),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),s("mark",["firstbyte",c],null,"api");var E=0,O=t(15)},{}]},{},["loader",2,7]);</script>
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1, user-scalable=no">
-<meta name="google-site-verification" content="E797MgrWewAoj3f3d2qOtnwdjPZIXrkC0asUIbhlehw">
-<meta name="description" content="Privacy Policy | RateMyTeachers.com">
-<meta property="twitter:image" content="https://www.ratemyteachers.com/images/logo_icon_1000.png">
-<meta property="og:image" content="https://www.ratemyteachers.com/images/logo_icon_1000.png">
-<meta property="og:title" content="Privacy | RateMyTeachers.com">
-<meta property="og:url" content="https://www.ratemyteachers.com/privacy">
-<meta property="og:description" content="Privacy Policy | RateMyTeachers.com">
-<meta property="og:type" content="website">
-<meta name="robots" content="noodp,noydir">
-<meta property="rmt:image" content="https://www.ratemyteachers.com/apple_touch_icon_196x196.png">
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+	var __banger_pmp_deals=[{"SlotName":"/1254144/ratemyteachers_com-medrectangle-2","Deals":[{"DealId":17,"Floor":160},{"DealId":18,"Floor":25},{"DealId":19,"Floor":100},{"DealId":20,"Floor":300},{"DealId":21,"Floor":2000},{"DealId":22,"Floor":2500},{"DealId":7,"Floor":150},{"DealId":8,"Floor":200},{"DealId":9,"Floor":300},{"DealId":10,"Floor":400},{"DealId":11,"Floor":500},{"DealId":12,"Floor":600},{"DealId":13,"Floor":700},{"DealId":14,"Floor":800},{"DealId":15,"Floor":1000},{"DealId":16,"Floor":1500}]}];
+</script>
+<script type="text/javascript">_ebcids=[138231308856,138231308940,138231308949,138231387842,138231421744,138231421759,138231421774,138231421783,138231421789,138231421792,138242067587,138242067590,138242067602,138242067605,138242067608,138242067614,138242229406,138242229415,138242229421,138242229430];</script>
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">
+function ez_isclean( data ) {
+    if (typeof data === 'undefined') { data = document.URL; }
+    var re = /(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))(@|%2540|%40)((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))/;
+    var isClean = !re.test(data);
+    return isClean;
+}
 
-<link rel="shortcut icon" sizes="64x64 48x48 32x32 16x16" type="image/x-icon" href="/favicon.ico">
-<link rel="apple-touch-icon" href="/apple_touch_icon_60x60.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/apple_touch_icon_76x76.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/apple_touch_icon_120x120.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/apple_touch_icon_152x152.png">
-<link rel="apple-touch-icon-precomposed" href="/apple_touch_icon_196x196.png">
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" media="screen" rel="stylesheet">
-<link href="/assets/application-fddbc43797a4c2938aea7ec66c5d5828.css" media="all" rel="stylesheet">
-<link rel="stylesheet" href="https://code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
-<script type="text/javascript">
-    var currentState = 'CA';
+var ez_queue = new Array();
+function sort_queue(a, b)
+{
+  if( a.priority < b.priority ) return -1;
+  else if( a.priority == b.priority ) return 0;
+  else return 1;
+}
+function execute_ez_queue()
+{
+  ez_queue.sort( sort_queue );
 
-  var siteConfig = {
-    homepage_reload_tab: false,
-    enableAnalytics:     true,
-    debugMode:           false,
-    asyncScripts:        false
-  };
+  for( var i in ez_queue )
+  {
+        if(typeof ez_queue[i].method != "undefined")
+        {
+            try{
+                ez_queue[i].method.call( null );
+            }
+            catch (err) {
 
-
-  function getWindowWidth() {
-    var myWidth = 0, myHeight = 0;
-    if( typeof( window.innerWidth ) === 'number' ) {
-      myWidth = window.innerWidth; myHeight = window.innerHeight;
-    } else if( document.documentElement && ( document.documentElement.clientWidth ||document.documentElement.clientHeight ) ) {
-      myWidth = document.documentElement.clientWidth; myHeight = document.documentElement.clientHeight;
-    } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
-      myWidth = document.body.clientWidth; myHeight = document.body.clientHeight;
-    }
-    return myWidth;
+            }
+        }
   }
+}
 
-  var isDesktopVariant = true;
-  var isTabletVariant = false;
-  var isMobileVariant = false;
-  var isExtraSmall = (getWindowWidth() < 768) || (screen ? screen.width < 768 : false);
-  var isMobile = isExtraSmall || isMobileVariant;
-  var isMedium = (getWindowWidth() < 1200) || (screen ? screen.width < 1200 : false);
+window.ez_ad_units = new Array();
+window.ezslots = new Array();
+function ez_write_tag(d) {
+    if(ez_isclean() && d instanceof Array) {
+        if(typeof ezstandalone !== 'undefined' && typeof ezstandalone.selectedPlaceholders !== 'undefined' && ezstandalone.selectedPlaceholders[d[3]] === true) {
+            return "1+1";
+        }
+        ez_ad_units[ez_ad_units.length] = d;
+        var ezcmd = "googletag.cmd.push(function() {var divid = 'div-gpt-ad-"+d[1]+"-"+d[4]+"';if(typeof ezlrarn == 'function'){ezlrarn(divid);}googletag.display(divid);var to = 0;if("+d[2]+".getTargeting('ga')[0] == '0'){to = 500;console.log('"+d[2]+" - no google');}if(window.ezDisableInitialLoad==true){setTimeout(function(){googletag.pubads().refresh(["+d[2]+"])},to);}});";
+        return ezcmd;
+    }
+
+    return "1+1";
+}
+function in_array(needle, haystack) {
+    var length = haystack.length;
+    for(var i = 0; i < length; i++) {
+        if(haystack[i] == needle) return true;
+    }
+    return false;
+}
+</script><script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">var ezrpos = new Array();var ez_current_interval;var ez_current_load = 0;</script><script data-cfasync="false" type="text/javascript" data-pagespeed-no-defer="" src="//go.ezoic.net/porpoiseant/dall2142.js?cb=184-6" async=""></script><script data-cfasync="false" type="text/javascript" data-pagespeed-no-defer="">
+var epbjs=epbjs||{};function epbjsRequestAdUnits(e){epbjs.que.push(function(){for(var s=0;s<e.length;s++)epbjs.ezAdUnits.push(e[s]);epbjs.addAdUnits(e),epbjs.requestBids({bidsBackHandler:function(e){epbjs.fastLoadAuctionEnd=!0,epbjs.setTargetingForGPTAsync()}})})}function epbjsRefreshSlot(e){epbjs.que.push(function(){epbjs.requestBids({adUnitCodes:[e.getSlotElementId()],bidsBackHandler:function(s){epbjs.setTargetingForGPTAsync([e.getSlotElementId()])}})})}epbjs.bidderTimeout=2000,epbjs.useAdj=true,epbjs.ezAdUnits=epbjs.ezAdUnits||[],epbjs.que=epbjs.que||[],epbjs.ezdss=epbjs.ezdss||[],epbjs.ezas=epbjs.ezas||[],epbjs.ezobid=epbjs.ezobid||[],epbjs.SS={"criteo":10050,"oftmedia":10081},epbjs.bidders=['sovrn','openx','pulsepoint','defymedia','aol','conversant','districtm','admedia','emx_digital','sonobi','criteo','ix','cox','audienceNetwork','pubmatic','rubicon','gumgum','oftmedia','lockerdome','triplelift','emx_digital','justpremium','teads','onemobile','yieldlab','unruly'],epbjs.que.push(function(){epbjs.aliasBidder('appnexus', 'oftmedia');}),epbjs.que.push(function(){epbjs.setConfig({priceGranularity:{buckets:[{precision:2,min:0,max:5,increment:.01},{precision:2,min:5,max:50,increment:.1},{precision:2,min:50,max:120,increment:5}]},userSync:{filterSettings:{iframe:{bidders:"*",filter:"include"}}}}),epbjs.bidderSettings={oftmedia: { bidCpmAdjustment: function(bidCpm) { var adj1 = bidCpm * 0.900000; var adj2 = adj1 * 1.200000; return adj2; }},criteo: { bidCpmAdjustment: function(bidCpm) { var adj1 = bidCpm * 0.720000; var adj2 = adj1 * 1.200000; return adj2; }}, standard:{adserverTargeting:[{key:"hb_bidder",val:function(e){return e.bidderCode}},{key:"hb_adid",val:function(e){return e.adId}},{key:"hb_pb",val:function(e){return e.pbCg}},{key:"hb_format",val:function(e){return e.mediaType}},{key:"hb_ssid",val:function(e){return"ehb"==e.bidder?0:void 0!==epbjs.SS[e.bidder.toLowerCase()]?epbjs.SS[e.bidder.toLowerCase()]:(console.error("epbjs: NO MATCH"),0)}}]}},epbjs.onEvent("bidWon",function(e){epbjs.ezas[e.adUnitCode]=e.size,"ehb"==e.bidder?epbjs.ezdss[e.adUnitCode]=e.ss:void 0!==epbjs.SS[e.bidder.toLowerCase()]?(epbjs.ezdss[e.adUnitCode]=epbjs.SS[e.bidder.toLowerCase()],1==epbjs.useAdj&&epbjs.bidders.indexOf(e.bidder)>-1&&(epbjs.ezobid[e.adUnitCode]=e.cpm/1.200000)):console.error("epbjs: NO MATCH")})});epbjsRequestAdUnits([{code: 'div-gpt-ad-ratemyteachers_com-medrectangle-2-0', mediaTypes: {banner: { sizes:[[970,90],[728,90]] }, video: {context:'outstream',playerSize:[[970, 90]]}}, bids: [{bidder: 'oftmedia', params:{ placementId: '14490043' }},{bidder: 'criteo', params: { zoneId: '1365441' }}] }]);</script><script type="text/javascript">var ezorbf = []; </script><script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">window.isEZABL=false;window.ezmadspc=300;window.ezoViewCheck = false;</script><script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">window.ezDisableInitialLoad=false;</script><script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">
+window.googletag = window.googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
 
 
-  var isChrome = navigator.userAgent.indexOf('Chrome') > -1;
-  var isExplorer = navigator.userAgent.indexOf('MSIE') > -1;
-  var isFirefox = navigator.userAgent.indexOf('Firefox') > -1;
-  var isSafari = navigator.userAgent.indexOf("Safari") > -1;
-  var isOpera = navigator.userAgent.toLowerCase().indexOf("op") > -1;
-  if ((isChrome)&&(isSafari)) {isSafari=false;}
-  if ((isChrome)&&(isOpera)) {isChrome=false;}
 
-  var enablePropel    = !isSafari && !isOpera && false;
-  var enableMediabong = !isSafari && !isOpera;
-  var enableBrightComedia = !isSafari && !isOpera;
-
-  var isMobileUpload = false;
-
-    var cseData = {
-      isCseSearch: true
-      ,paramFormat: '%{search_term}%{location}'
-      ,stateList: [{"name":"Alaska","shortname":"ak"},{"name":"Alabama","shortname":"al"},{"name":"Arkansas","shortname":"ar"},{"name":"Arizona","shortname":"az"},{"name":"California","shortname":"ca"},{"name":"Colorado","shortname":"co"},{"name":"Connecticut","shortname":"ct"},{"name":"Dc","shortname":"dc"},{"name":"Delaware","shortname":"de"},{"name":"Florida","shortname":"fl"},{"name":"Georgia","shortname":"ga"},{"name":"Hawaii","shortname":"hi"},{"name":"Iowa","shortname":"ia"},{"name":"Idaho","shortname":"id"},{"name":"Illinois","shortname":"il"},{"name":"Indiana","shortname":"in"},{"name":"Kansas","shortname":"ks"},{"name":"Kentucky","shortname":"ky"},{"name":"Louisiana","shortname":"la"},{"name":"Massachusetts","shortname":"ma"},{"name":"Maryland","shortname":"md"},{"name":"Maine","shortname":"me"},{"name":"Michigan","shortname":"mi"},{"name":"Minnesota","shortname":"mn"},{"name":"Missouri","shortname":"mo"},{"name":"Mississippi","shortname":"ms"},{"name":"Montana","shortname":"mt"},{"name":"North Carolina","shortname":"nc"},{"name":"North Dakota","shortname":"nd"},{"name":"Nebraska","shortname":"ne"},{"name":"New Hampshire","shortname":"nh"},{"name":"New Jersey","shortname":"nj"},{"name":"New Mexico","shortname":"nm"},{"name":"Nevada","shortname":"nv"},{"name":"New York","shortname":"ny"},{"name":"Ohio","shortname":"oh"},{"name":"Oklahoma","shortname":"ok"},{"name":"Oregon","shortname":"or"},{"name":"Pennsylvania","shortname":"pa"},{"name":"Puerto Rico","shortname":"pr"},{"name":"Rhode Island","shortname":"ri"},{"name":"South Carolina","shortname":"sc"},{"name":"South Dakota","shortname":"sd"},{"name":"Tennessee","shortname":"tn"},{"name":"Texas","shortname":"tx"},{"name":"Utah","shortname":"ut"},{"name":"Virginia","shortname":"va"},{"name":"Vermont","shortname":"vt"},{"name":"Washington","shortname":"wa"},{"name":"Wisconsin","shortname":"wi"},{"name":"West Virginia","shortname":"wv"},{"name":"Wyoming","shortname":"wy"}]
-    };
-
-
-  // Search autocomplete widget
-  var searchAutocompleteHTML = "<div class=\'desktop search_autocomplete_widget\'>\n<div class=\'autocomplete_teachers\'>\n<div class=\'autocomplete_subtitle\'>\n<i class=\'fa fa-user\'><\/i>\nTeachers and Professors\n<\/div>\n<div class=\'autocomplete_container\'>\n<div class=\'amp_ads_autocomplete_widget\' id=\'amp_ads_autocomplete\'><\/div>\n<div class=\'autocomplete_elements_container\'>\n<a class=\'autocomplete_element\' target=\'_blank\'>\n<span class=\'autocomplete_name\'><\/span>\n<span class=\'autocomplete_school_name\'><\/span>\n<\/a>\n<\/div>\n<\/div>\n<a class=\'autocomplete_view_more\'>\nView All\n<span class=\'autocomplete_count\'><\/span>\nTeachers and Professors\n<i class=\'fa fa-chevron-right\'><\/i>\n<\/a>\n<\/div>\n<div class=\'autocomplete_schools\'>\n<div class=\'autocomplete_subtitle\'>\n<i class=\'fa fa-university\'><\/i>\nSchools and Colleges\n<\/div>\n<div class=\'autocomplete_container\'>\n<div class=\'autocomplete_elements_container\'>\n<a class=\'autocomplete_element\' target=\'_blank\'>\n<span class=\'autocomplete_name\'><\/span>\n<span class=\'autocomplete_address\'><\/span>\n<\/a>\n<\/div>\n<\/div>\n<a class=\'autocomplete_view_more\'>\nView All\n<span class=\'autocomplete_count\'><\/span>\nSchools and Colleges\n<i class=\'fa fa-chevron-right\'><\/i>\n<\/a>\n<\/div>\n<\/div>\n";
 </script>
-<script type="text/javascript">
-  // Async functions variable
-  functionToLoad = [];
-  
-  // Fastest way to check if an object is an array
-  functionToLoad.isArrayObj = function(obj) {
-    return !!obj && obj.constructor === Array;
-  };
-  
-  // Extract data from an element
-  functionToLoad.extractElementData = function(elementData) {
-    var data = {
-      element: elementData
-      ,async: false
-      ,subElements: []
-    };
-    
-    // The element is an array, check for async option
-    if (this.isArrayObj(elementData) && elementData.length > 0) {
-      data.async = !!elementData[1];
-      data.element = elementData[0];
-      data.subElements = elementData[2] || [];
-    }
-    return data;
-  };
-  
-  // Wrap push functionality
-  functionToLoad.realPush = functionToLoad.push;
-  functionToLoad.executePush = function(args) {
-    var data = this.extractElementData(args);
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">
+googletag.cmd.push(function() {googletag.destroySlots();if(typeof window.isEZABL == 'undefined' || window.isEZABL != true) {ezslot_0 = googletag.defineSlot('/1254144/ratemyteachers_com-medrectangle-2',[970,90],'div-gpt-ad-ratemyteachers_com-medrectangle-2-0').addService(googletag.pubads()).setTargeting('iid18','1713313').setTargeting('t','134').setTargeting('d','3821').setTargeting('t1','134').setTargeting('pvc','0').setTargeting('ap','1105').setTargeting('sap','1105').setTargeting('a','|3|').setTargeting('as','revenue').setTargeting('plat','1').setTargeting('bra','mod35').setTargeting('ic','1').setTargeting('at','mbf').setTargeting('adr','399').setTargeting('ezosn','0').setTargeting('reft','tf').setTargeting('refs','30').setTargeting('ga','2497208').setTargeting('gala','').setTargeting('rid','99998').setTargeting('pt','5').setTargeting('al','1005').setTargeting('compid','0').setTargeting('tap','ratemyteachers_com-medrectangle-2-1713313').setTargeting('eb_br','ef3231a19d034bff92faf99318a47a5f').setTargeting('eba','1').setTargeting('bv','18').setCollapseEmptyDiv(false).setTargeting('br1','2900').setTargeting('br2','0').setTargeting('ezoic','1').setTargeting('stl','63').setTargeting('deal1',[23,24,25,26,27,28,29,30]);ezslot_0.set('adsense_background_color','FFFFFF').set('adsense_border_color','FFFFFF').set('adsense_channel_ids','1875606452').set('adsense_link_color','0000FF').set('adsense_text_color','000000').set('adsense_url_color','828282');ezrpos[0]="0";}else{window.ezHideLocations=[];window.ezHideLocations.push('div-gpt-ad-ratemyteachers_com-medrectangle-2-0');}googletag.pubads().addEventListener('slotRenderEnded', function(event) { __ez.queue.addFunc("ezbanger", "ezbanger", event, false, ['banger.js'], true, true, false, true); });googletag.pubads().addEventListener('impressionViewable', function(event) { __ez.queue.addFunc("ezvb", "ezvb", event, false, ['banger.js'], true, true, false, true); });googletag.pubads().addEventListener('slotVisibilityChanged', function(event) { __ez.queue.addFunc("ezvbc", "ezvbc", event, false, ['banger.js'], true, true, false, true); });googletag.enableServices();});if(typeof window.isEZABL == 'undefined' || window.isEZABL != true) {ezslots.push("ezslot_0");}else{}</script>
+<script data-cfasync="false" data-pagespeed-no-defer="">var __ez=__ez||{};__ez.evt={};__ez.ck={};__ez.template={};__ez.template.isOrig=false;__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.ck.get=function(e,n){null!==n&&(e=e+"_"+n);for(var o=e+"=",t=decodeURIComponent(document.cookie).split(";"),i=0;i<t.length;i++){for(var c=t[i];" "===c.charAt(0);)c=c.substring(1);if(0===c.indexOf(o))return c.substring(o.length,c.length)}return""},__ez.ck.setByCat=function(e,n){if("undefined"!=typeof cmpIsOn){if(null!=n){var o=__ez.ck.get("ezCMPCookieConsent",null);-1!==(o=o.substring(1,o.length)).indexOf(n+"=1")?document.cookie=e:""===o&&"undefined"!=typeof cmpCookies&&(void 0===cmpCookies[n]&&(cmpCookies[n]=[]),cmpCookies[n].push(e))}}else document.cookie=e};__ez.queue=function(){var e=0,i=0,t=[],n=[],r=[],o=!0,s={func:function(e,i,n,r,o,s,a){var l=this;this.name=e,this.funcName=i,this.parameters=null===n?null:n instanceof Array?n:[n],this.isBlock=r,this.blockedBy=o,this.deleteWhenComplete=s,this.isError=!1,this.isComplete=!1,this.isInitialized=!1,this.proceedIfError=a,this.process=function(){c("... func = "+e),l.isInitialized=!0,l.isComplete=!0;var i=l.funcName.split(".");i.length>3||(3===i.length?window[i[0]][i[1]][i[2]].apply(null,this.parameters):2===i.length?window[i[0]][i[1]].apply(null,this.parameters):window[l.funcName].apply(null,this.parameters)),!0===l.deleteWhenComplete&&delete t[e],!0===l.isBlock&&(c("----- F'D: "+l.name),d())}},file:function(e,i,t,n,r,o,s){var a=this;this.name=e,this.path=i,this.async=r,this.defer=o,this.isBlock=t,this.blockedBy=n,this.isInitialized=!1,this.isError=!1,this.isComplete=!1,this.proceedIfError=s,this.process=function(){a.isInitialized=!0,c("... file = "+e);var t=document.createElement("script");t.src=i,!0===r?t.async=!0:!0===o&&(t.defer=!0),t.onerror=function(){c("----- ERR'D: "+a.name),a.isError=!0,!0===a.isBlock&&d()},t.onreadystatechange=t.onload=function(){var e=t.readyState;c("----- F'D: "+a.name),e&&!/loaded|complete/.test(e)||(a.isComplete=!0,!0===a.isBlock&&d())},document.getElementsByTagName("head")[0].appendChild(t)}}};function a(e){!0!==l(e)&&0!=o&&e.process()}function l(e){if(e.blockedBy instanceof Array)for(var i=0;i<e.blockedBy.length;i++){var n=e.blockedBy[i];if(!1===t.hasOwnProperty(n))return c(e.name+" blocked = "+n),!0;if(!0===e.proceedIfError&&!0===t[n].isError)return!1;if(!1===t[n].isComplete)return c(e.name+" blocked = "+n),!0}return!1}function c(e){var i=window.location.href,t=new RegExp("[?&]ezq=([^&#]*)","i").exec(i);"1"===(t?t[1]:null)&&console.debug(e)}function d(){++e>200||(c("let's go"),h(n),h(r))}function h(e){for(var i in e)if(!1!==e.hasOwnProperty(i)){var t=e[i];!0===t.isComplete||l(t)||!0===t.isInitialized||!0===t.isError?!0===t.isError?c(t.name+": error"):!0===t.isComplete?c(t.name+": complete already"):!0===t.isInitialized&&c(t.name+": initialized already"):t.process()}}return{addFile:function(e,i,o,l,c,d,h,f){var u=new s.file(e,i,o,l,c,d,h);!0===f?n[e]=u:r[e]=u,t[e]=u,a(u)},addFunc:function(e,o,l,c,d,h,f,u,p){!0===h&&(e=e+"_"+i++);var m=new s.func(e,o,l,c,d,f,u);!0===p?n[e]=m:r[e]=m,t[e]=m,a(m)},items:t,processAll:d,setallowLoad:function(e){o=e}}}();</script>
+<script type="text/javascript" data-cfasync="false">var _ezaq = {"ad_cache_level":1,"ad_location_ids":"5","ad_transform_level":0,"adx_ad_count":1,"bidder_version":3,"city":"","country":"US","days_since_last_visit":-1,"display_ad_count":0,"domain_id":3821,"ds_adsize_opt_id":-1,"engaged_time_visit":0,"ezcache_level":0,"forensiq_score":-1,"form_factor_id":1,"framework_id":1,"has_bad_image":0,"has_bad_words":0,"iab_category":"","is_from_recommended_pages":false,"is_return_visitor":false,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"max_ads":10,"metro_code":0,"page_ad_positions":"1105","page_view_count":0,"page_view_id":"c0bb2d8d-8adc-4009-7950-f326f86d0e5b","position_selection_id":16,"postal_code":"","pv_event_count":0,"response_time_orig":482,"serverid":"54.193.74.217:28286","state":"","sub_page_ad_positions":"1105","t_epoch":1560387785,"template_id":134,"time_on_site_visit":0,"url":"https://ratemyteachers.com/privacy","user_id":0,"word_count":2351,"worst_bad_word_level":0};var _ezim_d = {"ratemyteachers_com-medrectangle-2":{"adsense_stat_source_id":5,"adx_ad_count":1,"adx_stat_source_id":35,"full_id":"ratemyteachers_com-medrectangle-2/2019-06-12/1713313","height":"90","position_id":1105,"sub_position_id":1105,"width":"970"}};var _ezat = {"domain_id":3821,"form_factor_id":1,"framework_id":1,"pageview_date":"2019-06-12","pageview_id":"c0bb2d8d-8adc-4009-7950-f326f86d0e5b","template_id":134,"url":"https://ratemyteachers.com/privacy","visit_uuid":"f582f4c8-e998-4035-4c86-8e7f7c3b94c4"};</script><script data-pagespeed-no-defer="" data-cfasync="false" type="text/javascript">__ez.queue.addFile('banger.js', '/porpoiseant/banger.js?cb=184-6&bv=2&v=25&PageSpeed=off', true, [], true, false, false, true);</script><script src="/porpoiseant/banger.js?cb=184-6&amp;bv=2&amp;v=25&amp;PageSpeed=off" async=""></script>
+<script data-pagespeed-no-defer="" data-cfasync="false" type="text/javascript">__ez.queue.addFile('rochester.js', '/detroitchicago/rochester.js?cb=184-6&v=8', false, [], true, false, true, true);</script><script src="/detroitchicago/rochester.js?cb=184-6&amp;v=8" async=""></script>
+<script>(function(){function a(g,h,i){var j=new Date;j.setTime(j.getTime()+1e3*(60*(60*(24*i))));var k="expires="+j.toUTCString(),l=g+"="+h+";"+k+";path=/;";"undefined"!=typeof ezdomain&&(l+="domain="+ezdomain),document.cookie=l}var b=window.addEventListener?"addEventListener":"attachEvent",c=window[b],f="attachEvent"==b?"onmessage":"message";c(f,function(g){"undefined"!=typeof g.data.ezstatus&&(__ez.bit.AddAndFire(_ezaq.page_view_id,[new __ezDotData("dg",g.data.ezstatus)]),a("ezdg",g.data.ezstatus,730))})})();</script>
+<script data-cfasync="false" data-pagespeed-no-defer="">__ez.dot={};var __ezDotData=function(e,r){this.name=e,this.val=r};__ez.dot.b64={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",encode:function(e){var r,t,n,o,a,i,d,_="",f=0;for(e=Base64._utf8_encode(e);f<e.length;)o=(r=e.charCodeAt(f++))>>2,a=(3&r)<<4|(t=e.charCodeAt(f++))>>4,i=(15&t)<<2|(n=e.charCodeAt(f++))>>6,d=63&n,isNaN(t)?i=d=64:isNaN(n)&&(d=64),_=_+this._keyStr.charAt(o)+this._keyStr.charAt(a)+this._keyStr.charAt(i)+this._keyStr.charAt(d);return _},decode:function(e){var r,t,n,o,a,i,d="",_=0;for(e=e.replace(/[^A-Za-z0-9+/=]/g,"");_<e.length;)r=this._keyStr.indexOf(e.charAt(_++))<<2|(o=this._keyStr.indexOf(e.charAt(_++)))>>4,t=(15&o)<<4|(a=this._keyStr.indexOf(e.charAt(_++)))>>2,n=(3&a)<<6|(i=this._keyStr.indexOf(e.charAt(_++))),d+=String.fromCharCode(r),64!=a&&(d+=String.fromCharCode(t)),64!=i&&(d+=String.fromCharCode(n));return d=Base64._utf8_decode(d)},_utf8_encode:function(e){e=e.replace(/rn/g,"n");for(var r="",t=0;t<e.length;t++){var n=e.charCodeAt(t);n<128?r+=String.fromCharCode(n):(127<n&&n<2048?r+=String.fromCharCode(n>>6|192):(r+=String.fromCharCode(n>>12|224),r+=String.fromCharCode(n>>6&63|128)),r+=String.fromCharCode(63&n|128))}return r},_utf8_decode:function(e){for(var r="",t=0,n=c1=c2=0;t<e.length;)(n=e.charCodeAt(t))<128?(r+=String.fromCharCode(n),t++):191<n&&n<224?(c2=e.charCodeAt(t+1),r+=String.fromCharCode((31&n)<<6|63&c2),t+=2):(c2=e.charCodeAt(t+1),c3=e.charCodeAt(t+2),r+=String.fromCharCode((15&n)<<12|(63&c2)<<6|63&c3),t+=3);return r}},__ez.dot.dataToStr=function(e){if(void 0===e)return[];try{for(var r in e)e[r].val=e[r].val+""}catch(e){}return e},__ez.dot.getCC=function(){var e="XX";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(e=_ezaq.country),e},__ez.dot.getDID=function(){var e="0";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(e=_ezaq.domain_id.toString()),e},__ez.dot.getEpoch=function(e){return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(e=_ezaq.t_epoch),e},__ez.dot.getPageviewId=function(){var e="";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("page_view_id")&&(e=_ezaq.page_view_id),e},__ez.dot.getURL=function(e){return("undefined"!=typeof ezJsu&&1==ezJsu||"undefined"!=typeof _ez_sa&&1==_ez_sa||"undefined"!=typeof isAmp&&!0===isAmp||"undefined"!=typeof ezWp&&!0===ezWp)&&(e="//g.ezoic.net"+e),e},__ez.dot.isValid=function(e){for(var r=0;r<e.length;r++)if(e[r]instanceof __ezDotData==!1)return console.error("Invalid data. ",e[r]),!1;return!0},__ez.dot.isDefined=function(){for(var e=0;e<arguments.length;e++)if(void 0===arguments[e]||null===arguments[e])return console.error("Argument not defined. ",arguments),!1;return!0};__ez.bit=function(){function c(a,b){d(a,b),e()}function d(b,c){__ez.dot.isDefined(b)&&__ez.dot.isValid(c)&&a.push({type:"pageview",pageview_id:b,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(c)})}function e(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(a)&&a.length>0&&((new Image).src=__ez.dot.getURL(b)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&ds="+btoa(JSON.stringify(a))),a=[])}var a=[],b="/detroitchicago/greenoaks.gif";return{Add:d,AddAndFire:c,Fire:e}}();</script><script data-cfasync="false" data-pagespeed-no-defer="">__ez.pel=function(){var z=[],i="/porpoiseant/army.gif";function t(e,i,t,d,_,o,n){if(__ez.dot.isDefined(e,e.getSlotElementId)){var a=parseInt(e.getTargeting("ap")[0]),r=function(e){var i=0;try{var t=e.getTargetingMap(),d=e.getSlotElementId();if(-1===d.indexOf("div-gpt-ad"))return i;if(void 0!==t)for(var _ in t)if(-1!==_.indexOf("iid")&&void 0!==t[_][0]){i=t[_][0];break}}catch(e){}return i}(e),s=e.getSlotElementId(),p=parseInt(e.getTargeting("compid")[0]),g=0,v=0;if("object"==typeof _ezim_d){var m=e.getAdUnitPath().split("/").pop();void 0!==_ezim_d[m]&&(void 0!==_ezim_d[m].creative_id&&(v=_ezim_d[m].creative_id),void 0!==_ezim_d[m].line_item_id&&(g=_ezim_d[m].line_item_id))}__ez.dot.isDefined(r,s)&&__ez.dot.isValid(i)&&z.push({type:"impression",impression_id:r,domain_id:__ez.dot.getDID(),unit:s,t_epoch:__ez.dot.getEpoch(0),revenue:t,est_revenue:d,ad_position:a,ad_size:"",bid_floor_filled:_,bid_floor_prev:o,stat_source_id:n,country_code:__ez.dot.getCC(),pageview_id:__ez.dot.getPageviewId(),comp_id:p,line_item_id:g,creative_id:v,data:__ez.dot.dataToStr(i)})}}function d(){if(void 0===document.visibilityState||"prerender"!==document.visibilityState){if(__ez.dot.isDefined(z)&&0<z.length){var e=__ez.dot.getURL(i)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&sts="+btoa(JSON.stringify(z));void 0!==window.isAmp&&isAmp&&void 0!==window._ezaq&&_ezaq.hasOwnProperty("domain_id")&&(e+="&visit_uuid="+_ezaq.visit_uuid),(new Image).src=e}z=[]}}return{Add:t,AddAndFire:function(e,i){t(e,i,0,0,0,0,0),d()},AddById:function(e,i){var t=e.split("/");if(__ez.dot.isDefined(e)&&3===t.length&&__ez.dot.isValid(i)){var d=t[0],_=t[2];z.push({type:"impression",impression_id:_,domain_id:__ez.dot.getDID(),unit:d,t_epoch:__ez.dot.getEpoch(0),pageview_id:__ez.dot.getPageviewId(),data:__ez.dot.dataToStr(i)})}},Fire:d}}();var EzoicPixel=function(){this.pixels=[],this.pixelUrl="/ezoic/e.gif",("undefined"!=typeof ezJsu&&!0===ezJsu||"undefined"!=typeof _ez_sa&&!0===_ez_sa||void 0!==window.isAmp&&!0===isAmp||"undefined"!=typeof ezWp&&!0===ezWp)&&(this.pixelUrl="//g.ezoic.net"+this.pixelUrl),this.tEpoch=0,"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(this.tEpoch=_ezaq.t_epoch)},EzoicPixelData=function(i,e){this.name=i,this.val=e};EzoicPixel.prototype={constructor:EzoicPixel,AddAndFireImpPixel:function(i,e){this.AddImpPixel(i,e,0,0,0,0,0),this.FirePixels()},AddAndFirePVPixel:function(i,e){this.AddPVPixel(i,e),this.FirePixels()},AddImpPixel:function(i,e,t,n,o,a,r){if(this.isDefined(i,i.getSlotElementId)){var d=parseInt(i.getTargeting("ap")[0]),s=i.getSizes()[0],p=s.l.toString()+"x"+s.j.toString(),l="0",h="XX";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(l=_ezaq.domain_id.toString()),"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(h=_ezaq.country);var f=this.getSlotIID(i),c=i.getSlotElementId();this.isDefined(f,c)&&this.validateData(e)&&(e=this.convertDataToStr(e),this.pixels.push({type:"impression",impression_id:f,domain_id:l,unit:c,t_epoch:this.tEpoch,revenue:t,est_revenue:n,ad_position:d,ad_size:p,bid_floor_filled:o,bid_floor_prev:a,stat_source_id:r,country_code:h,data:e}))}},AddImpPixelById:function(i,e){var t="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(t=_ezaq.domain_id.toString());var n=i.split("/");if(this.isDefined(i)&&3===n.length&&this.validateData(e)){var o=n[0],a=n[2];e=this.convertDataToStr(e),this.pixels.push({type:"impression",impression_id:a,domain_id:t,unit:o,t_epoch:this.tEpoch,data:e})}},AddPVPixel:function(i,e){var t="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(t=_ezaq.domain_id.toString()),this.isDefined(i)&&this.validateData(e)&&(e=this.convertDataToStr(e),this.pixels.push({type:"pageview",pageview_id:i,domain_id:t,t_epoch:this.tEpoch,data:e}))},FirePixels:function(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(this.isDefined(this.pixels)&&this.pixels.length>0&&((new Image).src=this.pixelUrl+"?orig="+(!0===__ez.template.isOrig?1:0)+"&pixels="+encodeURIComponent(JSON.stringify(this.pixels))),this.pixels=[])},NewData:function(i,e){return new EzoicPixelData(i,e)},convertDataToStr:function(i){if(void 0===i)return[];try{for(var e in i)i[e].val=i[e].val+""}catch(i){}return i},getSlotIID:function(i){var e=0;try{var t=i.getTargetingMap();if(-1===i.getSlotElementId().indexOf("div-gpt-ad"))return e;if(void 0!==t)for(var n in t)if(-1!==n.indexOf("iid")&&void 0!==t[n][0]){e=t[n][0];break}}catch(i){}return e},isDefined:function(){for(var i=0;i<arguments.length;i++)if(void 0===arguments[i]||null===arguments[i])return console.error("Argument not defined. ",arguments),!1;return!0},validateData:function(i){for(var e=0;e<i.length;e++)if(i[e]instanceof EzoicPixelData==!1)return console.error("Invalid pixelData. ",i[e]),!1;return!0}};</script>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"775b3e9502","applicationID":"267175405","transactionName":"JloKTEAOVAoGRUxHVwJQFxdCE1EQAlQa","queueTime":0,"applicationTime":16,"agent":""}</script>
+<script>window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="OMIQY/MScPQhwk3ob5Ji+TvZV+yDyHP/FfzOS2H5/TTYbs5hiNhIqR71bE3VkREYbmo2QsI8vSraQOVJ8TcjJA==">
+<link rel="preconnect" href="https://amp.cloudflare.com">
+<link rel="stylesheet" media="all" href="/packs/main-f35f22dd1cafc1446eee5e75532d5b36.css">
 
-    // Inject script tag on inplace
-    if (typeof data.element === 'string') {
-      // Inject external file
-      document.write('<script type="text/javascript" src="' + data.element + '"><\/script>');
-    } else {
-      // Inject function
-      document.write('<script type="text/javascript">(');
-      document.write(data.element.toString());
-      document.write(')();<\/script>');
-    }
-    
-    // Execute child scripts
-    if (data.subElements.length > 0) {
-      this.executePush(data.subElements);
-    }
-  };
-  functionToLoad.push = function(args) {
-    if (siteConfig.asyncScripts) {
-      if (siteConfig.debugMode) { console.log('Async Script'); }
-      
-      // Async scripts so add it to array for later execution
-      this.realPush(args);
-      return;
-    }
-    if (siteConfig.debugMode) { console.log('Sync Script'); }
-    
-    // No async scripts, execute it right away
-    this.executePush(args);
-  };
-</script>
-<script type="text/javascript">_googlePush = function(a) {};</script>
-<script type="text/javascript">
-  functionToLoad.push('//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js');
-  functionToLoad.push('//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js');
-</script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-<script>
-      functionToLoad.push(function() {
-        gaId = 'UA-4216499-1';
+<title>Rate My Teachers | Privacy Policy</title>
+<meta name="description" content="Privacy Policy for RateMyTeachers.com">
+<meta name="keywords" content="rate my teachers, ratemyteachers, privacy">
+<meta name="robots" content="index">
+<link rel="canonical" href="https://ratemyteachers.com/privacy">
+<link rel="image_src" href="https://ratemyteachers.com/packs/images/owen-67fbd862f38f7341d3663e41bac9c1f5.png">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ratemyteachers.com/privacy">
+<meta property="og:image" content="https://ratemyteachers.com/packs/images/owen-67fbd862f38f7341d3663e41bac9c1f5.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@ratemyteachers">
 
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments);},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', gaId, 'auto');
-        ga('require', 'displayfeatures');
-        //ga('require', 'ecommerce', 'ecommerce.js');
-      });
-    </script><script type="text/javascript">(function() {
-        gaId = 'UA-4216499-1';
-
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments);},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', gaId, 'auto');
-        ga('require', 'displayfeatures');
-        //ga('require', 'ecommerce', 'ecommerce.js');
-      })();</script>
-<script type="text/javascript">
-  functionToLoad.push('/assets/rmt.analytics-b3702f400256546899eddf8b81076656.js');
-</script><script type="text/javascript" src="/assets/rmt.analytics-b3702f400256546899eddf8b81076656.js"></script>
-<script>
-  functionToLoad.push(function(){
-    pageType = "";
-    RMT.Analytics.trackPageview({dimensions: [{key: 'dimension1', value: pageType}]});
-    searchTerm = "";
-  });
-</script><script type="text/javascript">(function(){
-    pageType = "";
-    RMT.Analytics.trackPageview({dimensions: [{key: 'dimension1', value: pageType}]});
-    searchTerm = "";
-  })();</script>
-<script type="text/javascript">
-    // Returns a function, that, as long as it continues to be invoked, will not
-    // be triggered. The function will be called after it stops being called for
-    // N milliseconds. If `immediate` is passed, trigger the function on the
-    // leading edge, instead of the trailing.
-    function debounce(func, wait, immediate) {
-      var timeout;
-      return function() {
-        var context = this, args = arguments;
-        var later = function() {
-          timeout = null;
-          if (!immediate) func.apply(context, args);
-        };
-        var callNow = immediate && !timeout;
-        clearTimeout(timeout);
-        timeout = setTimeout(later, wait);
-        if (callNow) func.apply(context, args);
-      };
-    };
-</script>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=m2LQlXadyM">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=m2LQlXadyM">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png?v=m2LQlXadyM">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=m2LQlXadyM">
+<link rel="manifest" href="/site.webmanifest?v=m2LQlXadyM">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=m2LQlXadyM" color="#6e96f4">
+<link rel="shortcut icon" href="/favicon.ico?v=m2LQlXadyM">
+<meta name="apple-mobile-web-app-title" content="Rate My Teachers">
+<meta name="application-name" content="Rate My Teachers">
+<meta name="msapplication-TileColor" content="#6e96f4">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png?v=m2LQlXadyM">
+<meta name="theme-color" content="#ffffff">
 
 <script data-cfasync="false" type="text/javascript">
-  functionToLoad.push([function() {
-    window.apd_options = { 'websiteId': 6292, 'runFromFrame': false };
-    (function() {
-      var w = window.apd_options.runFromFrame ? window.top : window;
-      if(window.apd_options.runFromFrame && w!=window.parent) w=window.parent;
-      if (w.location.hash.indexOf('apdAdmin') != -1){if(typeof(Storage) !== 'undefined') {w.localStorage.apdAdmin = 1;}}
-      var adminMode = ((typeof(Storage) == 'undefined') || (w.localStorage.apdAdmin == 1));
-      w.apd_options=window.apd_options;
-      var apd = w.document.createElement('script'); apd.type = 'text/javascript'; apd.async = true;
-      apd.src = '//' + (adminMode ? 'cdn' : 'ecdn') + '.firstimpression.io/' + (adminMode ? 'fi.js?id=' + window.apd_options.websiteId : 'fi_client.js') ;
-      var s = w.document.getElementsByTagName('head')[0]; s.appendChild(apd);
-    })();
-  }, true]);
-</script><script type="text/javascript">(function() {
-    window.apd_options = { 'websiteId': 6292, 'runFromFrame': false };
-    (function() {
-      var w = window.apd_options.runFromFrame ? window.top : window;
-      if(window.apd_options.runFromFrame && w!=window.parent) w=window.parent;
-      if (w.location.hash.indexOf('apdAdmin') != -1){if(typeof(Storage) !== 'undefined') {w.localStorage.apdAdmin = 1;}}
-      var adminMode = ((typeof(Storage) == 'undefined') || (w.localStorage.apdAdmin == 1));
-      w.apd_options=window.apd_options;
-      var apd = w.document.createElement('script'); apd.type = 'text/javascript'; apd.async = true;
-      apd.src = '//' + (adminMode ? 'cdn' : 'ecdn') + '.firstimpression.io/' + (adminMode ? 'fi.js?id=' + window.apd_options.websiteId : 'fi_client.js') ;
-      var s = w.document.getElementsByTagName('head')[0]; s.appendChild(apd);
-    })();
-  })();</script><script type="text/javascript" async="" src="//ecdn.firstimpression.io/fi_client.js"></script>
+	window.apd_options = { 'websiteId': 6292, 'runFromFrame': false };
+	(function() {
+		var w = window.apd_options.runFromFrame ? window.top : window;
+		if(window.apd_options.runFromFrame && w!=window.parent) w=window.parent;
+		if (w.location.hash.indexOf('apdAdmin') != -1){if(typeof(Storage) !== 'undefined') {w.localStorage.apdAdmin = 1;}}
+		var adminMode = ((typeof(Storage) == 'undefined') || (w.localStorage.apdAdmin == 1));
+		w.apd_options=window.apd_options;
+		var apd = w.document.createElement('script'); apd.type = 'text/javascript'; apd.async = true;
+		apd.src = '//' + (adminMode ? 'cdn' : 'ecdn') + '.firstimpression.io/' + (adminMode ? 'fi.js?id=' + window.apd_options.websiteId : 'fi_client.js') ;
+		var s = w.document.getElementsByTagName('head')[0]; s.appendChild(apd);
+	})();</script><script type="text/javascript" async="" src="//ecdn.firstimpression.io/fi_client.js"></script>
+
+<style>.ezoic-ad.medrectangle-2 { display:inline-block;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:90px;min-width:970px; }
+.ezoic-ad{display:inline-block;}
+.adtester-container-106{display:none !important}
+.adtester-container-109{display:none !important}
+.adtester-container-125{display:none !important}
+.adtester-container-137{display:none !important}
+.adtester-container-157{display:none !important}
+.adtester-container-162{display:none !important}
+.adtester-container-118{display:none !important}
+.adtester-container-153{display:none !important}
+.adtester-container-126{display:none !important}
+.adtester-container-131{display:none !important}
+.adtester-container-176{display:none !important}
+.adtester-container-143{display:none !important}
+.adtester-container-147{display:none !important}
+.adtester-container-167{display:none !important}
+.adtester-container-120{display:none !important}
+.adtester-container-144{display:none !important}
+.adtester-container-171{display:none !important}
+.adtester-container-142{display:none !important}
+.adtester-container-177{display:none !important}
+.adtester-container-154{display:none !important}
+.adtester-container-145{display:none !important}
+.adtester-container-110{display:none !important}
+.adtester-container-172{display:none !important}
+.adtester-container-119{display:none !important}
+.adtester-container-117{display:none !important}
+.adtester-container-101{display:none !important}
+.adtester-container-102{display:none !important}
+.adtester-container-136{display:none !important}
+.adtester-container-166{display:none !important}
+.adtester-container-121{display:none !important}
+.adtester-container-140{display:none !important}
+.adtester-container-132{display:none !important}
+.adtester-container-163{display:none !important}
+.adtester-container-148{display:none !important}
+.adtester-container-146{display:none !important}
+.adtester-container-112{display:none !important}
+.adtester-container-169{display:none !important}
+.adtester-container-152{display:none !important}
+.adtester-container-113{display:none !important}
+.adtester-container-100{display:none !important}
+.adtester-container-174{display:none !important}
+.adtester-container-175{display:none !important}
+.adtester-container-107{display:none !important}
+.adtester-container-111{display:none !important}
+.adtester-container-135{display:none !important}
+.adtester-container-168{display:none !important}
+.adtester-container-122{display:none !important}
+.adtester-container-141{display:none !important}
+.adtester-container-149{display:none !important}
+.adtester-container-161{display:none !important}
+.adtester-container-139{display:none !important}
+.adtester-container-164{display:none !important}
+.adtester-container-104{display:none !important}
+.adtester-container-124{display:none !important}
+.adtester-container-159{display:none !important}
+.adtester-container-160{display:none !important}
+.adtester-container-158{display:none !important}
+.adtester-container-151{display:none !important}
+.adtester-container-170{display:none !important}
+.adtester-container-103{display:none !important}
+.adtester-container-123{display:none !important}
+.adtester-container-133{display:none !important}
+.adtester-container-156{display:none !important}
+.adtester-container-165{display:none !important}
+.adtester-container-155{display:none !important}
+.adtester-container-150{display:none !important}
+.adtester-container-173{display:none !important}
+.adtester-container-127{display:none !important}
+.adtester-container-108{display:none !important}
+
+		.ezmob-footer {
+			position: fixed; left: 0px; bottom: 0px; width: 100%; background: white; z-index: 100000;
+		}
+		body {
+			padding-bottom: 50px;
+		}
+		.ezmob-footer-desktop {
+			background-color:rgba(255, 255, 255, 0.8);
+			border-top:1px solid lightgray;
+			padding-top:5px;
+		}
+		.ezmob-footer-close {
+			cursor: pointer;
+			color: #b2b2b2;
+			border: 1px solid #b2b2b2;
+			border-radius: 20px;
+			background: #fff;
+			line-height: 20px;
+			display: inline-block;
+			font-size: 20px;
+			font-family: arial,sans-serif;
+			padding: 0 5px;
+			position: absolute;
+			top: 5px;
+			right: 5px;
+			height: 24px;
+			width: 21px;
+		}
+	</style>
+<script data-cfasync="false" type="text/javascript">window.google_analytics_uacct = "UA-59843679-48";</script>
+<script data-cfasync="false" type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['e._setAccount', 'UA-59843679-48']);
+_gaq.push(['f._setAccount', 'UA-38339005-1']);
+_gaq.push(['e._setDomainName', 'ratemyteachers.com']);
+_gaq.push(['f._setDomainName', 'ratemyteachers.com']);
+_gaq.push(['e._setCustomVar',1,'template','pub_site',3]);
+_gaq.push(['e._setCustomVar',2,'t','134',3]);
+_gaq.push(['e._setCustomVar',3,'rid','0',2]);
+_gaq.push(['e._setCustomVar',4,'bra','mod35',3]);
+_gaq.push(['e._setAllowAnchor',true]);
+_gaq.push(['e._setSiteSpeedSampleRate', 10]);
+_gaq.push(['f._setCustomVar',1,'template','pub_site',3]);
+_gaq.push(['f._setCustomVar',2,'domain','ratemyteachers.com',3]);
+_gaq.push(['f._setSiteSpeedSampleRate', 20]);
+_gaq.push(['e._trackPageview']);
+_gaq.push(['f._trackPageview']);
 
 
-<script type="text/javascript" charset="utf-8">
-      functionToLoad.push(function() {
-        (function(G,o,O,g,L,e){G[g]=G[g]||function(){(G[g]['q']=G[g]['q']||[]).push(
-        arguments)},G[g]['t']=1*new Date;L=o.createElement(O),e=o.getElementsByTagName(
-        O)[0];L.async=1;L.src='//www.google.com/adsense/search/async-ads.js';
-        e.parentNode.insertBefore(L,e)})(window,document,'script','_googCsa');
-      });
-    </script><script type="text/javascript">(function() {
-        (function(G,o,O,g,L,e){G[g]=G[g]||function(){(G[g]['q']=G[g]['q']||[]).push(
-        arguments)},G[g]['t']=1*new Date;L=o.createElement(O),e=o.getElementsByTagName(
-        O)[0];L.async=1;L.src='//www.google.com/adsense/search/async-ads.js';
-        e.parentNode.insertBefore(L,e)})(window,document,'script','_googCsa');
-      })();</script>
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">var ezouid = "1";</script><base href="https://ratemyteachers.com/privacy"><script type="text/javascript">
+var ezoTemplate = 'pub_site';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '1';
+var ezo_elements_to_check = Array();
+</script>
 
 <script type="text/javascript">
-      functionToLoad.push('//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js');
-    </script><script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script type="text/javascript">
-      functionToLoad.push(function() {
-        window.deployads=[];
-        window.deployads.push=function(){
-          var b=document.querySelectorAll('script[type\x3d"text/x-ab-test"]:not([data-processed])');
-          if(b&&0<b.length){
-            var b=b[0];
-            var a=b.innerHTML.replace(/xscript/g,"script");
-            document.write(a);
-            b.setAttribute("data-processed","true");
-          }
-        }
-      });
-    </script><script type="text/javascript">(function() {
-        window.deployads=[];
-        window.deployads.push=function(){
-          var b=document.querySelectorAll('script[type\x3d"text/x-ab-test"]:not([data-processed])');
-          if(b&&0<b.length){
-            var b=b[0];
-            var a=b.innerHTML.replace(/xscript/g,"script");
-            document.write(a);
-            b.setAttribute("data-processed","true");
-          }
-        }
-      })();</script>
-<script type="text/javascript">
-    functionToLoad.push(function() {
-
-      var LazyAds = function(){
-        // this.elements = {};
-      };
+var soc_app_id = '0';
+var did = 3821;
+var ezdomain = 'ratemyteachers.com';
+var ezoicSearchable = 1;
+</script>
 
 
-      LazyAds.init = function(delay){
-        this.elements = {};
-        var self = this;
-        if (typeof(delay) === 'undefined' || delay === null)
-          delay = 10000;
-        else
-          console.info('Set LazyAds delay to ' + delay + 'ms');
-
-
-        $(window).load(function() {
-          // self.domLoaded = true;
-          // console.log('LazyAds: window load');
-          setTimeout(function() {
-            self.domLoaded = true;
-            self.refresh();
-          }, delay);
-          // self.refresh();
-        });
-
-        var scrollHandler = debounce(function(e){
-          self.refresh();
-        }, 100);
-        jQuery(document).scroll(scrollHandler);
-      };
-
-      /* id:  can ben ID of en element, or a scroll offset */
-      LazyAds.register = function(id, callback, opts) {
-        // console.log('LazyAds: register ' + id);
-        this.elements[ id ] = { loaded: false, callback: callback };
-        this.refresh();
-      };
-
-
-      LazyAds.refresh = function() {
-        var el, isVisible;
-        var scrollY = window.scrollY;
-        // console.log("LazyAds: scrollY " + scrollY);
-        for(var id in this.elements) {
-          if (!this.elements.hasOwnProperty(id)) continue;
-          if(this.elements[id].loaded) continue;
-
-          isVisible = false || this.domLoaded;
-
-          if (!isVisible) {
-            // handle scroll position
-            if (/^\d+$/.test(id)) {
-              // console.log('id is an offset');
-              if( scrollY >= id ) {
-                isVisible = true;
-              }
-            } else if( this.isVisible(id) ) {
-              isVisible = true;
-            }
-          }
-
-          if (isVisible) {
-            this.elements[id].loaded = true;
-            console.info('LazyAds: execute callback for ' + id);
-            this.elements[id].callback();
-            delete this.elements[id];
-          }
-
-
-
-        }
-      };
-
-
-      LazyAds.isVisible = function(id) {
-        // https://github.com/customd/jquery-visible/blob/master/jquery.visible.js
-        var $t        = $('#' + id);
-
-        // if the id doesn't exist just bounce.
-        if( !$t[0] ) return false;
-
-        var $w        = $(window),  // todo refactor this
-            t         = $t.get(0),
-            vpWidth   = $w.width(),
-            vpHeight  = $w.height(),
-            direction = (direction) ? direction : 'both',
-            clientSize = t.offsetWidth * t.offsetHeight;
-            // clientSize = hidden === true ? t.offsetWidth * t.offsetHeight : true;
-
-        if (typeof t.getBoundingClientRect === 'function'){
-
-            // Use this native browser method, if available.
-            var rec = t.getBoundingClientRect(),
-                tViz = rec.top    >= 0 && rec.top    <  vpHeight,
-                bViz = rec.bottom >  0 && rec.bottom <= vpHeight,
-                lViz = rec.left   >= 0 && rec.left   <  vpWidth,
-                rViz = rec.right  >  0 && rec.right  <= vpWidth,
-                vVisible   = tViz || bViz,
-                hVisible   = lViz || rViz;
-
-            if(direction === 'both')
-                return clientSize && vVisible && hVisible;
-            else if(direction === 'vertical')
-                return clientSize && vVisible;
-            else if(direction === 'horizontal')
-                return clientSize && hVisible;
+<script data-pagespeed-no-defer="" data-cfasync="false" type="text/javascript" style="display:none">
+__ez.queue.addFile('__ezf_ezosuigeneris', '//g.ezoic.net/ezosuigeneris.js', true, [], true, false, false, false);
+var __ez_ezosuigenerisEvt = function() { __ez.bit.AddAndFire(_ezaq['page_view_id'], [(new __ezDotData('universal_user_id', ezosuigeneris))]); };
+__ez.queue.addFunc('__ez_ezosuigenerisEvt', '__ez_ezosuigenerisEvt', null, false, ['__ezf_ezosuigeneris'], false, false, false, false);</script><script src="//g.ezoic.net/ezosuigeneris.js" async=""></script><script data-pagespeed-no-defer="" data-cfasync="false" type="text/javascript" style="display:none">__ez.queue.addFile('__ezf_ezosuigenerisc', '//g.ezoic.net/ezosuigenerisc.js?nogen=1', true, [], true, false, false, false);</script><script src="//g.ezoic.net/ezosuigenerisc.js?nogen=1" async=""></script>
+<script data-pagespeed-no-defer="" data-cfasync="false">
+function create_ezolpl() {
+    var d = new Date();
+    d.setTime(d.getTime() + (365*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    __ez.ck.setByCat("ezux_lpl_3821=" + new Date().getTime() + "|c0bb2d8d-8adc-4009-7950-f326f86d0e5b; " + expires, 3);
+}
+function attach_ezolpl() {
+    if(window.attachEvent) {
+        window.attachEvent('onload', create_ezolpl);
+    } else {
+        if(window.onload) {
+            var curronload = window.onload;
+            var newonload = function(evt) {
+                curronload(evt);
+                create_ezolpl();
+            };
+            window.onload = newonload;
         } else {
-
-            var viewTop         = $w.scrollTop(),
-                viewBottom      = viewTop + vpHeight,
-                viewLeft        = $w.scrollLeft(),
-                viewRight       = viewLeft + vpWidth,
-                offset          = $t.offset(),
-                _top            = offset.top,
-                _bottom         = _top + $t.height(),
-                _left           = offset.left,
-                _right          = _left + $t.width(),
-                compareTop      = _bottom,
-                compareBottom   = _top,
-                compareLeft     = _right,
-                compareRight    = _left;
-
-            if(direction === 'both')
-                return !!clientSize && ((compareBottom <= viewBottom) && (compareTop >= viewTop)) && ((compareRight <= viewRight) && (compareLeft >= viewLeft));
-            else if(direction === 'vertical')
-                return !!clientSize && ((compareBottom <= viewBottom) && (compareTop >= viewTop));
-            else if(direction === 'horizontal')
-                return !!clientSize && ((compareRight <= viewRight) && (compareLeft >= viewLeft));
+            window.onload = create_ezolpl;
         }
-      };
-
-
-
-      var delay = null;
-      LazyAds.init(delay);
-
-      // (function() {
-      //   var delay = null;
-      //   LazyAds.init();
-      // })();
-    });
-  </script><script type="text/javascript">(function() {
-
-      var LazyAds = function(){
-        // this.elements = {};
-      };
-
-
-      LazyAds.init = function(delay){
-        this.elements = {};
-        var self = this;
-        if (typeof(delay) === 'undefined' || delay === null)
-          delay = 10000;
-        else
-          console.info('Set LazyAds delay to ' + delay + 'ms');
-
-
-        $(window).load(function() {
-          // self.domLoaded = true;
-          // console.log('LazyAds: window load');
-          setTimeout(function() {
-            self.domLoaded = true;
-            self.refresh();
-          }, delay);
-          // self.refresh();
-        });
-
-        var scrollHandler = debounce(function(e){
-          self.refresh();
-        }, 100);
-        jQuery(document).scroll(scrollHandler);
-      };
-
-      /* id:  can ben ID of en element, or a scroll offset */
-      LazyAds.register = function(id, callback, opts) {
-        // console.log('LazyAds: register ' + id);
-        this.elements[ id ] = { loaded: false, callback: callback };
-        this.refresh();
-      };
-
-
-      LazyAds.refresh = function() {
-        var el, isVisible;
-        var scrollY = window.scrollY;
-        // console.log("LazyAds: scrollY " + scrollY);
-        for(var id in this.elements) {
-          if (!this.elements.hasOwnProperty(id)) continue;
-          if(this.elements[id].loaded) continue;
-
-          isVisible = false || this.domLoaded;
-
-          if (!isVisible) {
-            // handle scroll position
-            if (/^\d+$/.test(id)) {
-              // console.log('id is an offset');
-              if( scrollY >= id ) {
-                isVisible = true;
-              }
-            } else if( this.isVisible(id) ) {
-              isVisible = true;
-            }
-          }
-
-          if (isVisible) {
-            this.elements[id].loaded = true;
-            console.info('LazyAds: execute callback for ' + id);
-            this.elements[id].callback();
-            delete this.elements[id];
-          }
-
-
-
-        }
-      };
-
-
-      LazyAds.isVisible = function(id) {
-        // https://github.com/customd/jquery-visible/blob/master/jquery.visible.js
-        var $t        = $('#' + id);
-
-        // if the id doesn't exist just bounce.
-        if( !$t[0] ) return false;
-
-        var $w        = $(window),  // todo refactor this
-            t         = $t.get(0),
-            vpWidth   = $w.width(),
-            vpHeight  = $w.height(),
-            direction = (direction) ? direction : 'both',
-            clientSize = t.offsetWidth * t.offsetHeight;
-            // clientSize = hidden === true ? t.offsetWidth * t.offsetHeight : true;
-
-        if (typeof t.getBoundingClientRect === 'function'){
-
-            // Use this native browser method, if available.
-            var rec = t.getBoundingClientRect(),
-                tViz = rec.top    >= 0 && rec.top    <  vpHeight,
-                bViz = rec.bottom >  0 && rec.bottom <= vpHeight,
-                lViz = rec.left   >= 0 && rec.left   <  vpWidth,
-                rViz = rec.right  >  0 && rec.right  <= vpWidth,
-                vVisible   = tViz || bViz,
-                hVisible   = lViz || rViz;
-
-            if(direction === 'both')
-                return clientSize && vVisible && hVisible;
-            else if(direction === 'vertical')
-                return clientSize && vVisible;
-            else if(direction === 'horizontal')
-                return clientSize && hVisible;
-        } else {
-
-            var viewTop         = $w.scrollTop(),
-                viewBottom      = viewTop + vpHeight,
-                viewLeft        = $w.scrollLeft(),
-                viewRight       = viewLeft + vpWidth,
-                offset          = $t.offset(),
-                _top            = offset.top,
-                _bottom         = _top + $t.height(),
-                _left           = offset.left,
-                _right          = _left + $t.width(),
-                compareTop      = _bottom,
-                compareBottom   = _top,
-                compareLeft     = _right,
-                compareRight    = _left;
-
-            if(direction === 'both')
-                return !!clientSize && ((compareBottom <= viewBottom) && (compareTop >= viewTop)) && ((compareRight <= viewRight) && (compareLeft >= viewLeft));
-            else if(direction === 'vertical')
-                return !!clientSize && ((compareBottom <= viewBottom) && (compareTop >= viewTop));
-            else if(direction === 'horizontal')
-                return !!clientSize && ((compareRight <= viewRight) && (compareLeft >= viewLeft));
-        }
-      };
-
-
-
-      var delay = null;
-      LazyAds.init(delay);
-
-      // (function() {
-      //   var delay = null;
-      //   LazyAds.init();
-      // })();
-    })();</script>
-<script type="text/javascript">
-    var _session = {};
-  </script>
-<meta content="authenticity_token" name="csrf-param">
-<meta content="BzFJg/v+d3O+aC2na0OXCaDxrsaeLizdlS7mofk/Gzg=" name="csrf-token">
-</head>
-
-<body class="inner_page ">
-<div id="fb-root"></div>
-<div class="rate_my_teachers_international">
-<div class="container">
-<div class="row">
-<a alt="United States" class="country active" href="https://www.ratemyteachers.com" title="United States">United States</a>
-<a alt="Canada" class="country " href="https://ca.ratemyteachers.com" title="Canada">Canada</a>
-<a alt="United Kingdom" class="country " href="https://uk.ratemyteachers.com" title="United Kingdom">United Kingdom</a>
-<a alt="Australia" class="country " href="https://au.ratemyteachers.com" title="Australia">Australia</a>
-<a alt="New Zealand" class="country " href="https://nz.ratemyteachers.com" title="New Zealand">New Zealand</a>
-<a alt="Ireland" class="country " href="https://ie.ratemyteachers.com" title="Ireland">Ireland</a>
-<div class="pull-right user_top_nav"></div>
-</div>
-</div>
-</div>
+    }
+}
+attach_ezolpl();
+</script><script src="/ezoic/anchorfix.js?cb=184-6" async=""></script><script src="/detroitchicago/edmonton.webp?a=a&amp;cb=184-6&amp;shcb=31" async=""></script><script src="/porpoiseant/jellyfish.webp?a=a&amp;cb=184-6&amp;shcb=31" async=""></script></head>
+<body>
 <header>
 <div class="container">
 <div class="row">
-<form action="/search_page" class="tab-form search_form trigger_to_main_search" method="get">
-<a alt="Go to RateMyTeachers Home" href="/" id="rate_my_teachers_logo" title="Go to RateMyTeachers Home"></a>
-<input name="search" type="hidden" value="teachers">
-<div class="search_inputs">
-<div class="bg">
-<div class="padding">
-<input class="search_input" name="q" placeholder="Search: School Name, City" type="text">
-</div>
-<div class="location">
-<select class="state" id="state" name="state"><option value="">Select a State</option><option value="ak">Alaska - AK</option>
-<option value="al">Alabama - AL</option>
-<option value="ar">Arkansas - AR</option>
-<option value="az">Arizona - AZ</option>
-<option value="ca">California - CA</option>
-<option value="co">Colorado - CO</option>
-<option value="ct">Connecticut - CT</option>
-<option value="dc">Dc - DC</option>
-<option value="de">Delaware - DE</option>
-<option value="fl">Florida - FL</option>
-<option value="ga">Georgia - GA</option>
-<option value="hi">Hawaii - HI</option>
-<option value="ia">Iowa - IA</option>
-<option value="id">Idaho - ID</option>
-<option value="il">Illinois - IL</option>
-<option value="in">Indiana - IN</option>
-<option value="ks">Kansas - KS</option>
-<option value="ky">Kentucky - KY</option>
-<option value="la">Louisiana - LA</option>
-<option value="ma">Massachusetts - MA</option>
-<option value="md">Maryland - MD</option>
-<option value="me">Maine - ME</option>
-<option value="mi">Michigan - MI</option>
-<option value="mn">Minnesota - MN</option>
-<option value="mo">Missouri - MO</option>
-<option value="ms">Mississippi - MS</option>
-<option value="mt">Montana - MT</option>
-<option value="nc">North Carolina - NC</option>
-<option value="nd">North Dakota - ND</option>
-<option value="ne">Nebraska - NE</option>
-<option value="nh">New Hampshire - NH</option>
-<option value="nj">New Jersey - NJ</option>
-<option value="nm">New Mexico - NM</option>
-<option value="nv">Nevada - NV</option>
-<option value="ny">New York - NY</option>
-<option value="oh">Ohio - OH</option>
-<option value="ok">Oklahoma - OK</option>
-<option value="or">Oregon - OR</option>
-<option value="pa">Pennsylvania - PA</option>
-<option value="pr">Puerto Rico - PR</option>
-<option value="ri">Rhode Island - RI</option>
-<option value="sc">South Carolina - SC</option>
-<option value="sd">South Dakota - SD</option>
-<option value="tn">Tennessee - TN</option>
-<option value="tx">Texas - TX</option>
-<option value="ut">Utah - UT</option>
-<option value="va">Virginia - VA</option>
-<option value="vt">Vermont - VT</option>
-<option value="wa">Washington - WA</option>
-<option value="wi">Wisconsin - WI</option>
-<option value="wv">West Virginia - WV</option>
-<option value="wy">Wyoming - WY</option></select>
-</div>
-</div>
-<div class="search_button">
-<button class="btn-search fa fa-search fa-3x" title="Search RateMyTeachers" type="submit"></button>
-</div>
-</div>
+<div class="col-12">
+<nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light p-0 pt-2 pb-2">
+<a class="navbar-brand" href="https://ratemyteachers.com/">
+<img alt="Rate My Teachers" width="196px" src="/packs/images/logo_with_name-f13fa39ad7b83ab28513d8a44c72883c.jpg">
+</a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavBar" aria-controls="mainNavBar" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="mainNavBar">
+<form id="search" class="form-inline my-2 my-lg-0 ml-auto" action="https://ratemyteachers.com/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+<input type="search" name="q" id="q" value="" class="form-control mr-sm-2" placeholder="Search for your teacher/school" aria-label="School and Teacher Search">
+<input type="hidden" name="country" id="country">
+<input type="hidden" name="state" id="state">
+<input type="hidden" name="city" id="city">
+<input type="hidden" name="school" id="school">
+<input type="submit" name="commit" value="Search" class="btn btn-outline-success my-2 my-sm-0" data-disable-with="Search">
 </form>
+<ul class="navbar-nav ml-auto">
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+About
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://ratemyteachers.com/privacy">Privacy Policy</a>
+<a class="dropdown-item" href="https://ratemyteachers.com/terms">Terms &amp; Conditions</a>
+<a class="dropdown-item" href="https://ratemyteachers.com/site-guidelines">Site Guidelines</a>
+<a class="dropdown-item" href="https://ratemyteachers.com/copyright">Copyright Compliance</a>
+<div class="dropdown-divider"></div>
+<a class="dropdown-item" href="https://ratemyteachers.com/our-story">Our Story</a>
+<a class="dropdown-item" href="https://ratemyteachers.com/faq">FAQ</a>
+<a class="dropdown-item" href="https://ratemyteachers.com/contacts/new">Contact Us</a>
+</div>
+</li>
+<li class="nav-item">
+<a class="nav-link" target="_blank" rel="noopener" href="https://resources.ratemyteachers.com/">Resources</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" rel="noindex nofollow" href="/users/sign_in">Login</a>
+</li>
+</ul>
+<a class="btn btn-outline-secondary ml-2" rel="noindex nofollow" href="/users/sign_up">Sign Up</a>
+</div>
+</nav>
+</div>
 </div>
 </div>
 </header>
-<div class="container-fluid main-content">
-<div class="row">
-<section class="breadcrumbs container-fluid">
-<div class="row">
-<div class="container">
-<div class="col-sm-12">
-</div>
-</div>
-</div>
-</section>
-<div class="container flash_container">
-<div class="row">
-<div class="col-xs-12">
-<div class="alert alert-danger" id="flash-error" style="display: none">
-<button type="button" class="close" data-dismiss="close">×</button>
-<span></span>
-</div>
-<div class="alert alert-warning" id="flash-alert" style="display: none">
-<button type="button" class="close" data-dismiss="close">×</button>
-<span></span>
-</div>
-<div class="alert alert-success" id="flash-success" style="display: none">
-<button type="button" class="close" data-dismiss="close">×</button>
-<span></span>
-</div>
-<div class="alert alert-info" id="flash-notice" style="display: none">
-<button type="button" class="close" data-dismiss="close">×</button>
-<span></span>
-</div>
-</div>
-</div>
-</div>
-<div id="content">
 <div class="container">
 <div class="row">
-<div class="col-xs-12 col-sm-8">
+<div class="col">
+</div>
+</div>
+</div>
+<div class="container">
+<h2 class="text-center">
+Privacy Policy
+</h2>
 <section class="content info-page">
-<h1 class="title">Privacy Policy</h1>
-<div class="padding">
-<p style="text-align: center;">Effective date: May 17, 2018</p>
-<p>VP Limited, LLC ("us", "we", or "our") operates the www.ratemyteachers.com website and the RateMyTeachers mobile application (the "Service").</p>
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
-<p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
+<p class="text-center">Effective date: May 17, 2018</p>
+<p>
+VP Limited, LLC ("us", "we", or "our") operates the www.ratemyteachers.com
+website and the RateMyTeachers mobile application (the "Service").
+</p>
+<p>
+This page informs you of our policies regarding the collection, use, and
+disclosure of personal data when you use our Service and the choices you
+have associated with that data.
+</p>
+<p>
+We use your data to provide and improve the Service. By using the Service,
+you agree to the collection and use of information in accordance with this
+policy. Unless otherwise defined in this Privacy Policy, terms used in
+this Privacy Policy have the same meanings as in our Terms and Conditions.
+</p>
 <h2>Definitions</h2>
 <p>
-<span class="important bold">"Service".</span>
-Service means the www.ratemyteachers.com website and the RateMyTeachers mobile application operated by VP Limited, LLC.
+<strong>"Service".</strong> Service means the www.ratemyteachers.com
+website and the RateMyTeachers mobile application operated by VP Limited,
+LLC.
 </p>
 <p>
-<span class="important bold">"Personal Data".</span>
-Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+<strong>"Personal Data".</strong> Personal Data means data about a living
+individual who can be identified from those data (or from those and other
+information either in our possession or likely to come into our
+possession).
 </p>
 <p>
-<span class="important bold">"Usage Data".</span>
-Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+<strong>"Usage Data".</strong> Usage Data is data collected automatically
+either generated by the use of the Service or from the Service
+infrastructure itself (for example, the duration of a page visit).
 </p>
 <p>
-<span class="important bold">"Cookies".</span>
-Cookies are small pieces of data stored on your device (computer or mobile device).
+<strong>"Cookies".</strong> Cookies are small pieces of data stored on
+your device (computer or mobile device).
 </p>
 <p>
-<span class="important bold">"Data Controller".</span>
-Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
+<strong>"Data Controller".</strong> Data Controller means the natural or
+legal person who (either alone or jointly or in common with other persons)
+determines the purposes for which and the manner in which any personal
+information are, or are to be, processed.
 <br>
-For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+For the purpose of this Privacy Policy, we are a Data Controller of your
+Personal Data.
 </p>
 <p>
-<span class="important bold">"Data Processors (or Service Providers)".</span>
-Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller. We may use the services of various Service Providers in order to process your data more effectively.
+<strong>"Data Processors (or Service Providers)".</strong> Data Processor
+(or Service Provider) means any natural or legal person who processes the
+data on behalf of the Data Controller. We may use the services of various
+Service Providers in order to process your data more effectively.
 </p>
 <p>
-<span class="important bold">"Data Subject (or User)".</span>
-Data Subject is any living individual who is using our Service and is the subject of Personal Data.
+<strong>"Data Subject (or User)".</strong> Data Subject is any living
+individual who is using our Service and is the subject of Personal Data.
 </p>
 <h2>Information Collection and Use</h2>
 <p>
-<span class="important bold">Personal Data.</span>
-Ratemyteachers.com collects Personal Data when you register for a Ratemyteachers.com account, when you visit Ratemyteachers.com pages, and when you enter promotions or sweepstakes.
+<strong>Personal Data.</strong> Ratemyteachers.com collects Personal Data
+when you register for a Ratemyteachers.com account, when you visit
+Ratemyteachers.com pages, and when you enter promotions or sweepstakes.
 </p>
-<p>When you register with Ratemyteachers.com, we ask for your name, email address, birth date, gender, phone number and zip code. Once you register with Ratemyteachers.com and sign in to our services, you are not anonymous to us.</p>
-<p>Ratemyteachers.com also automatically receives and records information on our server logs from your browser including your IP address, Ratemyteachers.com cookie information and the page you requested.</p>
 <p>
-<span class="important bold">Usage Data.</span>
-We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Usage Data").
+When you register with Ratemyteachers.com, we ask for your name, email
+address, and graduation class year. Once you register with
+Ratemyteachers.com and sign in to our services, you are not anonymous to
+us.
 </p>
-<p>This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
-<p>When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.</p>
 <p>
-<span class="important bold">Tracking Cookies Data.</span>
-We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+Ratemyteachers.com also automatically receives and records information on
+our server logs from your browser including your IP address,
+Ratemyteachers.com cookie information and the page you requested.
 </p>
-<p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p>
-<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
+<p>
+<strong>Usage Data.</strong> We may also collect information that your
+browser sends whenever you visit our Service or when you access the
+Service by or through a mobile device ("Usage Data").
+</p>
+<p>
+This Usage Data may include information such as your computer's Internet
+Protocol address (e.g. IP address), browser type, browser version, the
+pages of our Service that you visit, the time and date of your visit, the
+time spent on those pages, unique device identifiers and other diagnostic
+data.
+</p>
+<p>
+When you access the Service by or through a mobile device, this Usage Data
+may include information such as the type of mobile device you use, your
+mobile device unique ID, the IP address of your mobile device, your mobile
+operating system, the type of mobile Internet browser you use, unique
+device identifiers and other diagnostic data.
+</p>
+<p>
+<strong>Tracking Cookies Data.</strong> We use cookies and similar
+tracking technologies to track the activity on our Service and hold
+certain information.
+</p>
+<p>
+Cookies are files with small amount of data which may include an anonymous
+unique identifier. Cookies are sent to your browser from a website and
+stored on your device. Tracking technologies also used are beacons, tags,
+and scripts to collect and track information and to improve and analyze
+our Service.
+</p>
+<p>
+You can instruct your browser to refuse all cookies or to indicate when a
+cookie is being sent. However, if you do not accept cookies, you may not
+be able to use some portions of our Service.
+</p>
 <p>Examples of Cookies we use:</p>
-<div class="unordered-list">
-<ul class="normal no-bullet">
+<p>
+</p><ul class="guidelines">
 <li>
-<span class="important">Session Cookies.</span>
-We use Session Cookies to operate our Service.
+<strong>Session Cookies.</strong> We use Session Cookies to operate
+our Service.
 </li>
 <li>
-<span class="important">Preference Cookies.</span>
-We use Preference Cookies to remember your preferences and various settings.
+<strong>Preference Cookies.</strong> We use Preference Cookies to
+remember your preferences and various settings.
 </li>
 <li>
-<span class="important">Security Cookies.</span>
-We use Security Cookies for security purposes.
+<strong>Security Cookies.</strong> We use Security Cookies for
+security purposes.
 </li>
 <li>
-<span class="important">Advertising Cookies.</span>
-Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+<strong>Advertising Cookies.</strong> Advertising Cookies are used to
+serve you with advertisements that may be relevant to you and your
+interests.
 </li>
 </ul>
-</div>
+<p></p>
 <p>
-<span class="important bold">Use of Data.</span>
-We use the collected data for various purposes:
+<strong>Use of Data.</strong> We use the collected data for various
+purposes:
 </p>
-<div class="unordered-list">
-<ul class="normal">
+<p>
+</p><ul class="guidelines">
 <li>To provide and maintain our Service</li>
 <li>To notify you about changes to our Service</li>
-<li>To allow you to participate in interactive features of our Service when you choose to do so</li>
+<li>
+To allow you to participate in interactive features of our Service
+when you choose to do so
+</li>
 <li>To provide customer support</li>
-<li>To gather analysis or valuable information so that we can improve our Service</li>
+<li>
+To gather analysis or valuable information so that we can improve our
+Service
+</li>
 <li>To monitor the usage of our Service</li>
 <li>To detect, prevent and address technical issues</li>
-<li>To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information</li>
+<li>
+To provide you with news, special offers and general information about
+other goods, services and events which we offer that are similar to
+those that you have already purchased or enquired about unless you
+have opted not to receive such information
+</li>
 </ul>
-</div>
-<h2>Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)</h2>
-<p>If you are from the European Economic Area (EEA), our legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.</p>
-<p>We may process your Personal Data because:</p>
-<div class="unordered-list">
-<ul class="normal">
+<p></p>
+<h2>
+Legal Basis for Processing Personal Data Under General Data Protection
+Regulation (GDPR)
+</h2>
+<p>
+If you are from the European Economic Area (EEA), our legal basis for
+collecting and using the personal information described in this Privacy
+Policy depends on the Personal Data we collect and the specific context in
+which we collect it.
+</p>
+<p>
+We may process your Personal Data because:
+</p>
+<p>
+</p><ul class="guidelines">
 <li>We need to perform a contract with you</li>
 <li>You have given us permission to do so</li>
-<li>The processing is in our legitimate interests and it is not overridden by your rights</li>
+<li>
+The processing is in our legitimate interests and it is not overridden
+by your rights
+</li>
 <li>To comply with the law</li>
 <li>Retention of Data</li>
 </ul>
-</div>
-<p>We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.</p>
-<p>We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.</p>
+<p></p>
 <p>
-<span class="important bold">Transfer of Data.</span>
-Your information, including Personal Data, may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. If you are located outside United States and choose to provide information to us, please note that we may transfer the data, including Personal Data, to United States and process it there.
+We will retain your Personal Data only for as long as is necessary for the
+purposes set out in this Privacy Policy. We will retain and use your
+Personal Data to the extent necessary to comply with our legal obligations
+(for example, if we are required to retain your data to comply with
+applicable laws), resolve disputes, and enforce our legal agreements and
+policies.
 </p>
-<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
-<p>We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
+<p>
+We will also retain Usage Data for internal analysis purposes. Usage Data
+is generally retained for a shorter period of time, except when this data
+is used to strengthen the security or to improve the functionality of our
+Service, or we are legally obligated to retain this data for longer time
+periods.
+</p>
+<p>
+<strong>Transfer of Data.</strong> Your information, including Personal
+Data, may be transferred to, and maintained on, computers located outside
+of your state, province, country or other governmental jurisdiction where
+the data protection laws may differ than those from your jurisdiction. If
+you are located outside United States and choose to provide information to
+us, please note that we may transfer the data, including Personal Data, to
+United States and process it there.
+</p>
+<p>
+Your consent to this Privacy Policy followed by your submission of such
+information represents your agreement to that transfer.
+</p>
+<p>
+We will take all steps reasonably necessary to ensure that your data is
+treated securely and in accordance with this Privacy Policy and no
+transfer of your Personal Data will take place to an organization or a
+country unless there are adequate controls in place including the security
+of your data and other personal information.
+</p>
 <h2>Disclosure of Data</h2>
 <p>
-<span class="important bold">Business Transaction.</span>
-If we are involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+<strong>Business Transaction.</strong> If we are involved in a merger,
+acquisition or asset sale, your Personal Data may be transferred. We will
+provide notice before your Personal Data is transferred and becomes
+subject to a different Privacy Policy.
 </p>
 <p>
-<span class="important bold">Disclosure for Law Enforcement.</span>
-Under certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+<strong>Disclosure for Law Enforcement.</strong> Under certain
+circumstances, we may be required to disclose your Personal Data if
+required to do so by law or in response to valid requests by public
+authorities (e.g. a court or a government agency).
 </p>
 <p>
-<span class="important bold">Legal Requirements.</span>
-We may disclose your Personal Data in the good faith belief that such action is necessary to:
+<strong>Legal Requirements.</strong> We may disclose your Personal Data in
+the good faith belief that such action is necessary to:
 </p>
-<div class="unordered-list">
-<ul class="normal">
+<p>
+</p><ul class="guidelines">
 <li>To comply with a legal obligation</li>
 <li>To protect and defend our rights and/or property</li>
-<li>To prevent or investigate possible wrongdoing in connection with the Service</li>
-<li>To protect the personal safety of users of the Service or the public</li>
+<li>
+To prevent or investigate possible wrongdoing in connection with the
+Service
+</li>
+<li>
+To protect the personal safety of users of the Service or the public
+</li>
 <li>To protect against legal liability</li>
 </ul>
-</div>
+<p></p>
 <p>
-<span class="important bold">Security of Data.</span>
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+<strong>Security of Data.</strong> The security of your data is important
+to us, but remember that no method of transmission over the Internet, or
+method of electronic storage is 100% secure. While we strive to use
+commercially acceptable means to protect your Personal Data, we cannot
+guarantee its absolute security.
 </p>
 <p>
-<span class="important bold">"Do Not Track" Signals.</span>
-We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+<strong>"Do Not Track" Signals.</strong> We do not support Do Not Track
+("DNT"). Do Not Track is a preference you can set in your web browser to
+inform websites that you do not want to be tracked.
 </p>
-<p>You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.</p>
+<p>
+You can enable or disable Do Not Track by visiting the Preferences or
+Settings page of your web browser.
+</p>
 <h2>
-Your Data Protection Rights Under
-<br>
-General Data Protection Regulation (GDPR)
+Your Data Protection Rights Under General Data Protection Regulation
+(GDPR)
 </h2>
-<p>If you are a resident of the European Economic Area (EEA), you have certain data protection rights. We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data. If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us. In certain circumstances, you have the following data protection rights:</p>
-<div class="unordered-list">
-<ul>
+<p>
+If you are a resident of the European Economic Area (EEA), you have
+certain data protection rights. We aim to take reasonable steps to allow
+you to correct, amend, delete, or limit the use of your Personal Data. If
+you wish to be informed what Personal Data we hold about you and if you
+want it to be removed from our systems, please contact us. In certain
+circumstances, you have the following data protection rights:
+</p>
+<p>
+</p><ul class="guidelines">
 <li>
-<span class="important">The right to access, update or to delete the information we have on you.</span>
-Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+<strong>
+The right to access, update or to delete the information we have on
+you.
+</strong> Whenever made possible, you can access, update or request
+deletion of your Personal Data directly within your account settings
+section. If you are unable to perform these actions yourself, please
+contact us to assist you.
 </li>
 <li>
-<span class="important">The right of rectification.</span>
-You have the right to have your information rectified if that information is inaccurate or incomplete.
+<strong>The right of rectification.</strong> You have the right to
+have your information rectified if that information is inaccurate or
+incomplete.
 </li>
 <li>
-<span class="important">The right to object.</span>
-You have the right to object to our processing of your Personal Data.
+<strong>The right to object.</strong> You have the right to object to
+our processing of your Personal Data.
 </li>
 <li>
-<span class="important">The right of restriction.</span>
-You have the right to request that we restrict the processing of your personal information.
+<strong>The right of restriction.</strong> You have the right to
+request that we restrict the processing of your personal information.
 </li>
 <li>
-<span class="important">The right to data portability.</span>
-You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+<strong>The right to data portability.</strong> You have the right to
+be provided with a copy of the information we have on you in a
+structured, machine-readable and commonly used format.
 </li>
 <li>
-<span class="important">The right to withdraw consent.</span>
-You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
+<strong>The right to withdraw consent.</strong> You also have the
+right to withdraw your consent at any time where we relied on your
+consent to process your personal information.
 </li>
 </ul>
-</div>
-<p>Please note that we may ask you to verify your identity before responding to such requests. You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).</p>
+<p></p>
 <p>
-<span class="important bold">Service Providers.</span>
-We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used. These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+Please note that we may ask you to verify your identity before responding
+to such requests. You have the right to complain to a Data Protection
+Authority about our collection and use of your Personal Data. For more
+information, please contact your local data protection authority in the
+European Economic Area (EEA).
 </p>
-<p>
-<span class="important bold">Analytics.</span>
-We may use third-party Service Providers to monitor and analyze the use of our Service.
-</p>
-<div class="unordered-list">
-<ul class="normal no-bullet">
-<li>
-<span class="important">Google Analytics</span>
-<br>
-Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network. For more information on the privacy practices of Google, please visit the Google Privacy Terms web page:
-<a href="http://www.google.com/intl/en/policies/privacy/" rel="nofollow" target="_blank">
-http://www.google.com/intl/en/policies/privacy/
-</a>
-</li>
-</ul>
-</div>
-<p>
-<span class="important bold">Advertising.</span>
-We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
-</p>
-<div class="unordered-list">
-<ul class="normal no-bullet">
-<li>
-<span class="important">Google AdSense DoubleClick Cookie</span>
-<br>
-Google, as a third-party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet. You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page:
-<a href="http://www.google.com/ads/preferences/" rel="nofollow" target="_blank">
-http://www.google.com/ads/preferences/
-</a>
-</li>
-</ul>
-</div>
-<p>
-<span class="important bold">Behavioral Remarketing.</span>
-We may use remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
-</p>
-<div class="unordered-list">
-<ul class="normal no-bullet">
-<li>
-<span class="important">Google AdWords</span>
-<br>
+<dl>
+<dt>Service Providers</dt>
+<dd>
+We may employ third party companies and individuals to facilitate our
+Service ("Service Providers"), to provide the Service on our behalf, to
+perform Service-related services or to assist us in analyzing how our
+Service is used. These third parties have access to your Personal Data
+only to perform these tasks on our behalf and are obligated not to
+disclose or use it for any other purpose.
+</dd>
+<dt>Ezoic</dt>
+<dd>
+<span id="ezoic-privacy-policy-embed"> </span>
+</dd>
+<dt>Analytics</dt>
+<dd>
+We may use third-party Service Providers to monitor and analyze the use
+of our Service.
+</dd>
+<dt>Google Analytics</dt>
+<dd>
+Google Analytics is a web analytics service offered by Google that
+tracks and reports website traffic. Google uses the data collected to
+track and monitor the use of our Service. This data is shared with other
+Google services. Google may use the collected data to contextualize and
+personalize the ads of its own advertising network. For more information
+on the privacy practices of Google, please visit the
+<a href="https://www.google.com/intl/en/policies/privacy/" rel="nofollow" target="_blank">
+Google Privacy Terms</a> web page.
+</dd>
+<dt>Advertising</dt>
+<dd>
+We may use third-party Service Providers to show advertisements to you
+to help support and maintain our Service.
+</dd>
+<dt>Google AdSense DoubleClick Cookie</dt>
+<dd>
+Google, as a third-party vendor, uses cookies to serve ads on our
+Service. Google's use of the DoubleClick cookie enables it and its
+partners to serve ads to our users based on their visit to our Service
+or other websites on the Internet. You may opt out of the use of the
+DoubleClick Cookie for interest-based advertising by visiting the
+<a href="https://www.google.com/ads/preferences/" rel="nofollow" target="_blank">
+Google Ads Settings</a> web page.
+</dd>
+<dt>Behavioral Remarketing</dt>
+<dd>
+We may use remarketing services to advertise on third party websites to
+you after you visited our Service. We and our third-party vendors use
+cookies to inform, optimize and serve ads based on your past visits to
+our Service.
+</dd>
+<dt>Google AdWords</dt>
+<dd>
 Google AdWords remarketing service is provided by Google Inc.
-<br>
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page:
-<a href="http://www.google.com/settings/ads" rel="nofollow" target="_blank">
-http://www.google.com/settings/ads
-</a>
-<br>
-Google also recommends installing the Google Analytics Opt-out Browser Add-on -
-<a href="https://tools.google.com/dlpage/gaoptout" rel="nofollow" target="_blank">
-https://tools.google.com/dlpage/gaoptout
-</a>
--
-for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics. For more information on the privacy practices of Google, please visit the Google Privacy Terms web page:
-<a href="http://www.google.com/intl/en/policies/privacy/" rel="nofollow" target="_blank">
-http://www.google.com/intl/en/policies/privacy/
-</a>
-</li>
-</ul>
-</div>
+<br><br>
+You can opt-out of Google Analytics for Display Advertising and
+customize the Google Display Network ads by visiting the
+<a href="https://www.google.com/settings/ads" rel="nofollow" target="_blank">
+Google Ads Settings</a> page.
+<br><br>
+Google also recommends installing the
+<a href="https://tools.google.com/dlpage/gaoptout" rel="nofollow" target="_blank">Google Analytics Opt-out Browser Add-on</a>
+for your web browser. Google Analytics Opt-out Browser Add-on provides
+visitors with the ability to prevent their data from being collected and
+used by Google Analytics. For more information on the privacy practices
+of Google, please visit the
+<a href="https://www.google.com/intl/en/policies/privacy/" rel="nofollow" target="_blank">
+Google Privacy Terms</a> web page.
+</dd>
+</dl>
 <h2>Links to Other Sites</h2>
-<p>Our Service may contain links to other sites that are not operated by us. If you click on a third-party link, you will be directed to that third-party's site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.</p>
+<p>
+Our Service may contain links to other sites that are not operated by us.
+If you click on a third-party link, you will be directed to that
+third-party's site. We strongly advise you to review the Privacy Policy of
+every site you visit. We have no control over and assume no responsibility
+for the content, privacy policies or practices of any third-party sites or
+services.
+</p>
 <h2>Changes to This Privacy Policy</h2>
-<p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+<p>
+We may update our Privacy Policy from time to time. We will notify you of
+any changes by posting the new Privacy Policy on this page. We will let
+you know via email and/or a prominent notice on our Service, prior to the
+change becoming effective and update the "effective date" at the top of
+this Privacy Policy. You are advised to review this Privacy Policy
+periodically for any changes. Changes to this Privacy Policy are effective
+when they are posted on this page.
+</p>
 <h2>Contact Us</h2>
 <p>
-If you have any questions about this Privacy Policy, please contact us by email at:
-<a href="mailto:info@ratemyteachers.com" rel="nofollow" target="_blank">info@ratemyteachers.com</a>.
+If you have any questions about this Privacy Policy, please contact us by
+email at <a href="/cdn-cgi/l/email-protection#9af3f4fcf5dae8fbeefff7e3eefffbf9f2ffe8e9b4f9f5f7a5e9eff8f0fff9eea7cae8f3ecfbf9e3bfa8aacaf5f6f3f9e3bfa8aacbefffe9eef3f5f4e9"><span class="__cf_email__" data-cfemail="a0c9cec6cfe0d2c1d4c5cdd9d4c5c1c3c8c5d2d38ec3cfcd">[email&nbsp;protected]</span></a>.
 </p>
-</div>
 </section>
 </div>
-<aside class="col-xs-12 col-sm-4">
-</aside>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div id="all_footer_wrapper" style="overflow:hidden;">
-<section class="container-fluid hidden-xs padding" id="states">
+
+<section class="bottom-padding"><span id="ezoic-pub-ad-placeholder-136" class="ezoic-adpicker-ad"></span></section>
+
+<section class="last-section">
 <div class="container">
 <div class="row">
-<div class="col-xs-12 col-sm-12 col-sm-offset-0 footer_states_container">
-<h3>Locate Schools by State:</h3>
-<div class="states">
-<div class="state">
-<a alt="Find Alaska's High Schools and Colleges" href="/alaska" title="Find Alaska's High Schools and Colleges">Alaska</a>
-</div>
-<div class="state">
-<a alt="Find Alabama's High Schools and Colleges" href="/alabama" title="Find Alabama's High Schools and Colleges">Alabama</a>
-</div>
-<div class="state">
-<a alt="Find Arkansas' High Schools and Colleges" href="/arkansas" title="Find Arkansas' High Schools and Colleges">Arkansas</a>
-</div>
-<div class="state">
-<a alt="Find Arizona's High Schools and Colleges" href="/arizona" title="Find Arizona's High Schools and Colleges">Arizona</a>
-</div>
-<div class="state">
-<a alt="Find California's High Schools and Colleges" href="/california" title="Find California's High Schools and Colleges">California</a>
-</div>
-<div class="state">
-<a alt="Find Colorado's High Schools and Colleges" href="/colorado" title="Find Colorado's High Schools and Colleges">Colorado</a>
-</div>
-<div class="state">
-<a alt="Find Connecticut's High Schools and Colleges" href="/connecticut" title="Find Connecticut's High Schools and Colleges">Connecticut</a>
-</div>
-<div class="state">
-<a alt="Find DC's High Schools and Colleges" href="/dc" title="Find DC's High Schools and Colleges">DC</a>
-</div>
-<div class="state">
-<a alt="Find Delaware's High Schools and Colleges" href="/delaware" title="Find Delaware's High Schools and Colleges">Delaware</a>
-</div>
-<div class="state">
-<a alt="Find Florida's High Schools and Colleges" href="/florida" title="Find Florida's High Schools and Colleges">Florida</a>
-</div>
-<div class="state">
-<a alt="Find Georgia's High Schools and Colleges" href="/georgia" title="Find Georgia's High Schools and Colleges">Georgia</a>
-</div>
-<div class="state">
-<a alt="Find Hawaii's High Schools and Colleges" href="/hawaii" title="Find Hawaii's High Schools and Colleges">Hawaii</a>
-</div>
-<div class="state">
-<a alt="Find Iowa's High Schools and Colleges" href="/iowa" title="Find Iowa's High Schools and Colleges">Iowa</a>
-</div>
-<div class="state">
-<a alt="Find Idaho's High Schools and Colleges" href="/idaho" title="Find Idaho's High Schools and Colleges">Idaho</a>
-</div>
-<div class="state">
-<a alt="Find Illinois' High Schools and Colleges" href="/illinois" title="Find Illinois' High Schools and Colleges">Illinois</a>
-</div>
-<div class="state">
-<a alt="Find Indiana's High Schools and Colleges" href="/indiana" title="Find Indiana's High Schools and Colleges">Indiana</a>
-</div>
-<div class="state">
-<a alt="Find Kansas' High Schools and Colleges" href="/kansas" title="Find Kansas' High Schools and Colleges">Kansas</a>
-</div>
-<div class="state">
-<a alt="Find Kentucky's High Schools and Colleges" href="/kentucky" title="Find Kentucky's High Schools and Colleges">Kentucky</a>
-</div>
-<div class="state">
-<a alt="Find Louisiana's High Schools and Colleges" href="/louisiana" title="Find Louisiana's High Schools and Colleges">Louisiana</a>
-</div>
-<div class="state">
-<a alt="Find Massachusetts' High Schools and Colleges" href="/massachusetts" title="Find Massachusetts' High Schools and Colleges">Massachusetts</a>
-</div>
-<div class="state">
-<a alt="Find Maryland's High Schools and Colleges" href="/maryland" title="Find Maryland's High Schools and Colleges">Maryland</a>
-</div>
-<div class="state">
-<a alt="Find Maine's High Schools and Colleges" href="/maine" title="Find Maine's High Schools and Colleges">Maine</a>
-</div>
-<div class="state">
-<a alt="Find Michigan's High Schools and Colleges" href="/michigan" title="Find Michigan's High Schools and Colleges">Michigan</a>
-</div>
-<div class="state">
-<a alt="Find Minnesota's High Schools and Colleges" href="/minnesota" title="Find Minnesota's High Schools and Colleges">Minnesota</a>
-</div>
-<div class="state">
-<a alt="Find Missouri's High Schools and Colleges" href="/missouri" title="Find Missouri's High Schools and Colleges">Missouri</a>
-</div>
-<div class="state">
-<a alt="Find Mississippi's High Schools and Colleges" href="/mississippi" title="Find Mississippi's High Schools and Colleges">Mississippi</a>
-</div>
-<div class="state">
-<a alt="Find Montana's High Schools and Colleges" href="/montana" title="Find Montana's High Schools and Colleges">Montana</a>
-</div>
-<div class="state">
-<a alt="Find North Carolina's High Schools and Colleges" href="/north-carolina" title="Find North Carolina's High Schools and Colleges">North Carolina</a>
-</div>
-<div class="state">
-<a alt="Find North Dakota's High Schools and Colleges" href="/north-dakota" title="Find North Dakota's High Schools and Colleges">North Dakota</a>
-</div>
-<div class="state">
-<a alt="Find Nebraska's High Schools and Colleges" href="/nebraska" title="Find Nebraska's High Schools and Colleges">Nebraska</a>
-</div>
-<div class="state">
-<a alt="Find New Hampshire's High Schools and Colleges" href="/new-hampshire" title="Find New Hampshire's High Schools and Colleges">New Hampshire</a>
-</div>
-<div class="state">
-<a alt="Find New Jersey's High Schools and Colleges" href="/new-jersey" title="Find New Jersey's High Schools and Colleges">New Jersey</a>
-</div>
-<div class="state">
-<a alt="Find New Mexico's High Schools and Colleges" href="/new-mexico" title="Find New Mexico's High Schools and Colleges">New Mexico</a>
-</div>
-<div class="state">
-<a alt="Find Nevada's High Schools and Colleges" href="/nevada" title="Find Nevada's High Schools and Colleges">Nevada</a>
-</div>
-<div class="state">
-<a alt="Find New York's High Schools and Colleges" href="/new-york" title="Find New York's High Schools and Colleges">New York</a>
-</div>
-<div class="state">
-<a alt="Find Ohio's High Schools and Colleges" href="/ohio" title="Find Ohio's High Schools and Colleges">Ohio</a>
-</div>
-<div class="state">
-<a alt="Find Oklahoma's High Schools and Colleges" href="/oklahoma" title="Find Oklahoma's High Schools and Colleges">Oklahoma</a>
-</div>
-<div class="state">
-<a alt="Find Oregon's High Schools and Colleges" href="/oregon" title="Find Oregon's High Schools and Colleges">Oregon</a>
-</div>
-<div class="state">
-<a alt="Find Pennsylvania's High Schools and Colleges" href="/pennsylvania" title="Find Pennsylvania's High Schools and Colleges">Pennsylvania</a>
-</div>
-<div class="state">
-<a alt="Find Puerto Rico's High Schools and Colleges" href="/puerto-rico" title="Find Puerto Rico's High Schools and Colleges">Puerto Rico</a>
-</div>
-<div class="state">
-<a alt="Find Rhode Island's High Schools and Colleges" href="/rhode-island" title="Find Rhode Island's High Schools and Colleges">Rhode Island</a>
-</div>
-<div class="state">
-<a alt="Find South Carolina's High Schools and Colleges" href="/south-carolina" title="Find South Carolina's High Schools and Colleges">South Carolina</a>
-</div>
-<div class="state">
-<a alt="Find South Dakota's High Schools and Colleges" href="/south-dakota" title="Find South Dakota's High Schools and Colleges">South Dakota</a>
-</div>
-<div class="state">
-<a alt="Find Tennessee's High Schools and Colleges" href="/tennessee" title="Find Tennessee's High Schools and Colleges">Tennessee</a>
-</div>
-<div class="state">
-<a alt="Find Texas' High Schools and Colleges" href="/texas" title="Find Texas' High Schools and Colleges">Texas</a>
-</div>
-<div class="state">
-<a alt="Find Utah's High Schools and Colleges" href="/utah" title="Find Utah's High Schools and Colleges">Utah</a>
-</div>
-<div class="state">
-<a alt="Find Virginia's High Schools and Colleges" href="/virginia" title="Find Virginia's High Schools and Colleges">Virginia</a>
-</div>
-<div class="state">
-<a alt="Find Vermont's High Schools and Colleges" href="/vermont" title="Find Vermont's High Schools and Colleges">Vermont</a>
-</div>
-<div class="state">
-<a alt="Find Washington's High Schools and Colleges" href="/washington" title="Find Washington's High Schools and Colleges">Washington</a>
-</div>
-<div class="state">
-<a alt="Find Wisconsin's High Schools and Colleges" href="/wisconsin" title="Find Wisconsin's High Schools and Colleges">Wisconsin</a>
-</div>
-<div class="state">
-<a alt="Find West Virginia's High Schools and Colleges" href="/west-virginia" title="Find West Virginia's High Schools and Colleges">West Virginia</a>
-</div>
-<div class="state">
-<a alt="Find Wyoming's High Schools and Colleges" href="/wyoming" title="Find Wyoming's High Schools and Colleges">Wyoming</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="container-fluid" id="footer_directory">
-<div class="container">
-<div class="row">
-<div class="col-xs-6 hidden-xs">
-High School and College Directory:
-<a alt="Schools beginning with &quot;A&quot;" href="/schools/directory/a" title="Schools beginning with &quot;A&quot;">a</a>
-<a alt="Schools beginning with &quot;B&quot;" href="/schools/directory/b" title="Schools beginning with &quot;B&quot;">b</a>
-<a alt="Schools beginning with &quot;C&quot;" href="/schools/directory/c" title="Schools beginning with &quot;C&quot;">c</a>
-<a alt="Schools beginning with &quot;D&quot;" href="/schools/directory/d" title="Schools beginning with &quot;D&quot;">d</a>
-<a alt="Schools beginning with &quot;E&quot;" href="/schools/directory/e" title="Schools beginning with &quot;E&quot;">e</a>
-<a alt="Schools beginning with &quot;F&quot;" href="/schools/directory/f" title="Schools beginning with &quot;F&quot;">f</a>
-<a alt="Schools beginning with &quot;G&quot;" href="/schools/directory/g" title="Schools beginning with &quot;G&quot;">g</a>
-<a alt="Schools beginning with &quot;H&quot;" href="/schools/directory/h" title="Schools beginning with &quot;H&quot;">h</a>
-<a alt="Schools beginning with &quot;I&quot;" href="/schools/directory/i" title="Schools beginning with &quot;I&quot;">i</a>
-<a alt="Schools beginning with &quot;J&quot;" href="/schools/directory/j" title="Schools beginning with &quot;J&quot;">j</a>
-<a alt="Schools beginning with &quot;K&quot;" href="/schools/directory/k" title="Schools beginning with &quot;K&quot;">k</a>
-<a alt="Schools beginning with &quot;L&quot;" href="/schools/directory/l" title="Schools beginning with &quot;L&quot;">l</a>
-<a alt="Schools beginning with &quot;M&quot;" href="/schools/directory/m" title="Schools beginning with &quot;M&quot;">m</a>
-<a alt="Schools beginning with &quot;N&quot;" href="/schools/directory/n" title="Schools beginning with &quot;N&quot;">n</a>
-<a alt="Schools beginning with &quot;O&quot;" href="/schools/directory/o" title="Schools beginning with &quot;O&quot;">o</a>
-<a alt="Schools beginning with &quot;P&quot;" href="/schools/directory/p" title="Schools beginning with &quot;P&quot;">p</a>
-<a alt="Schools beginning with &quot;Q&quot;" href="/schools/directory/q" title="Schools beginning with &quot;Q&quot;">q</a>
-<a alt="Schools beginning with &quot;R&quot;" href="/schools/directory/r" title="Schools beginning with &quot;R&quot;">r</a>
-<a alt="Schools beginning with &quot;S&quot;" href="/schools/directory/s" title="Schools beginning with &quot;S&quot;">s</a>
-<a alt="Schools beginning with &quot;T&quot;" href="/schools/directory/t" title="Schools beginning with &quot;T&quot;">t</a>
-<a alt="Schools beginning with &quot;U&quot;" href="/schools/directory/u" title="Schools beginning with &quot;U&quot;">u</a>
-<a alt="Schools beginning with &quot;V&quot;" href="/schools/directory/v" title="Schools beginning with &quot;V&quot;">v</a>
-<a alt="Schools beginning with &quot;W&quot;" href="/schools/directory/w" title="Schools beginning with &quot;W&quot;">w</a>
-<a alt="Schools beginning with &quot;X&quot;" href="/schools/directory/x" title="Schools beginning with &quot;X&quot;">x</a>
-<a alt="Schools beginning with &quot;Y&quot;" href="/schools/directory/y" title="Schools beginning with &quot;Y&quot;">y</a>
-<a alt="Schools beginning with &quot;Z&quot;" href="/schools/directory/z" title="Schools beginning with &quot;Z&quot;">z</a>
-<a alt="Schools beginning with numbers" href="/schools/directory/%23" title="Schools beginning with numbers">#</a>
-</div>
-<div class="col-xs-6 hidden-xs">
-Teacher and Professor Directory:
-<a alt="Teachers beginning with &quot;A&quot;" href="/teachers/directory/a" title="Teachers beginning with &quot;A&quot;">a</a>
-<a alt="Teachers beginning with &quot;B&quot;" href="/teachers/directory/b" title="Teachers beginning with &quot;B&quot;">b</a>
-<a alt="Teachers beginning with &quot;C&quot;" href="/teachers/directory/c" title="Teachers beginning with &quot;C&quot;">c</a>
-<a alt="Teachers beginning with &quot;D&quot;" href="/teachers/directory/d" title="Teachers beginning with &quot;D&quot;">d</a>
-<a alt="Teachers beginning with &quot;E&quot;" href="/teachers/directory/e" title="Teachers beginning with &quot;E&quot;">e</a>
-<a alt="Teachers beginning with &quot;F&quot;" href="/teachers/directory/f" title="Teachers beginning with &quot;F&quot;">f</a>
-<a alt="Teachers beginning with &quot;G&quot;" href="/teachers/directory/g" title="Teachers beginning with &quot;G&quot;">g</a>
-<a alt="Teachers beginning with &quot;H&quot;" href="/teachers/directory/h" title="Teachers beginning with &quot;H&quot;">h</a>
-<a alt="Teachers beginning with &quot;I&quot;" href="/teachers/directory/i" title="Teachers beginning with &quot;I&quot;">i</a>
-<a alt="Teachers beginning with &quot;J&quot;" href="/teachers/directory/j" title="Teachers beginning with &quot;J&quot;">j</a>
-<a alt="Teachers beginning with &quot;K&quot;" href="/teachers/directory/k" title="Teachers beginning with &quot;K&quot;">k</a>
-<a alt="Teachers beginning with &quot;L&quot;" href="/teachers/directory/l" title="Teachers beginning with &quot;L&quot;">l</a>
-<a alt="Teachers beginning with &quot;M&quot;" href="/teachers/directory/m" title="Teachers beginning with &quot;M&quot;">m</a>
-<a alt="Teachers beginning with &quot;N&quot;" href="/teachers/directory/n" title="Teachers beginning with &quot;N&quot;">n</a>
-<a alt="Teachers beginning with &quot;O&quot;" href="/teachers/directory/o" title="Teachers beginning with &quot;O&quot;">o</a>
-<a alt="Teachers beginning with &quot;P&quot;" href="/teachers/directory/p" title="Teachers beginning with &quot;P&quot;">p</a>
-<a alt="Teachers beginning with &quot;Q&quot;" href="/teachers/directory/q" title="Teachers beginning with &quot;Q&quot;">q</a>
-<a alt="Teachers beginning with &quot;R&quot;" href="/teachers/directory/r" title="Teachers beginning with &quot;R&quot;">r</a>
-<a alt="Teachers beginning with &quot;S&quot;" href="/teachers/directory/s" title="Teachers beginning with &quot;S&quot;">s</a>
-<a alt="Teachers beginning with &quot;T&quot;" href="/teachers/directory/t" title="Teachers beginning with &quot;T&quot;">t</a>
-<a alt="Teachers beginning with &quot;U&quot;" href="/teachers/directory/u" title="Teachers beginning with &quot;U&quot;">u</a>
-<a alt="Teachers beginning with &quot;V&quot;" href="/teachers/directory/v" title="Teachers beginning with &quot;V&quot;">v</a>
-<a alt="Teachers beginning with &quot;W&quot;" href="/teachers/directory/w" title="Teachers beginning with &quot;W&quot;">w</a>
-<a alt="Teachers beginning with &quot;X&quot;" href="/teachers/directory/x" title="Teachers beginning with &quot;X&quot;">x</a>
-<a alt="Teachers beginning with &quot;Y&quot;" href="/teachers/directory/y" title="Teachers beginning with &quot;Y&quot;">y</a>
-<a alt="Teachers beginning with &quot;Z&quot;" href="/teachers/directory/z" title="Teachers beginning with &quot;Z&quot;">z</a>
-</div>
-</div>
-<div class="row footer_countries_list">
-<div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
-RateMyTeachers International:
-<a alt="United States" class="country" href="https://www.ratemyteachers.com" title="United States">United States</a>
-<a alt="Canada" class="country" href="https://ca.ratemyteachers.com" title="Canada">Canada</a>
-<a alt="United Kingdom" class="country" href="https://uk.ratemyteachers.com" title="United Kingdom">United Kingdom</a>
-<a alt="Australia" class="country" href="https://au.ratemyteachers.com" title="Australia">Australia</a>
-<a alt="New Zealand" class="country" href="https://nz.ratemyteachers.com" title="New Zealand">New Zealand</a>
-<a alt="Ireland" class="country" href="https://ie.ratemyteachers.com" title="Ireland">Ireland</a>
-</div>
-</div>
-</div>
-</section>
-<section class="container-fluid" id="footer">
-<div class="container">
-<div class="row footer_links">
-<div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
-<h3 class="hidden-sm hidden-md hidden-lg">Quick Links</h3>
-<ul>
+<div class="col-12">
+<div class="bottom-nav-wrap">
+<ul class="d-flex flex-wrap flex-md-nowrap align-items-center pt-xl-5 pb-xl-5 pt-md-4 pb-md-4 justify-content-center">
+<li><a href="https://ratemyteachers.com/our-story">Our Story</a></li>
+<li><a href="https://ratemyteachers.com/privacy">Privacy Policy</a></li>
+<li><a href="https://ratemyteachers.com/terms">Terms &amp; Conditions</a></li>
+<li><a href="https://ratemyteachers.com/site-guidelines">Site Guidelines</a></li>
+<li><a href="https://ratemyteachers.com/copyright">Copyright Compliance</a></li>
+<li><a href="https://ratemyteachers.com/faq">FAQ</a></li>
 <li>
-<a alt="RateMyTeachers Frequently Asked Questions" href="/faq" title="RateMyTeachers Frequently Asked Questions">FAQ</a>
-</li>
-<li>
-<a data-backdrop="static" data-keyboard="" data-remote="/contact/new" data-target="#modal" data-toggle="modal" href="javascript:void(0);" rel="nofollow" title="Contact RateMyTeachers">
-Contact
-</a>
-</li>
-<li>
-<a href="/terms" title="RateMyTeachers Terms of Use">Terms of Use</a>
-</li>
-<li>
-<a alt="RateMyTeachers Privacy Policy" href="/privacy" title="RateMyTeachers Privacy Policy">Privacy Policy</a>
-</li>
-<li>
-<a href="/site-guidelines" title="RateMyTeachers Site Guidelines">Site Guidelines</a>
-</li>
-<li>
-<a href="/copyright" title="RateMyTeachers Copyright Compliance">Copyright Compliance</a>
+<a href="https://ratemyteachers.com/contacts/new">Contact Us</a>
 </li>
 </ul>
 </div>
 </div>
-<div class="row copyright">
-Copyright 2001-2018 RateMyTeachers.com. All Rights Reserved.
 </div>
 </div>
 </section>
-<div aria-hidden="true" class="modal fade" id="modal" role="dialog" style="width: auto;" tabindex="-1">
-<div class="modal-dialog">
-<div class="modal-content"></div>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-12">
+<div class="d-flex align-items-center justify-content-center">
+<p class="m-0 text-center">Copyright © 2008-2019 VP Limited, LLC - All Rights Reserved.</p>
 </div>
 </div>
-<div aria-hidden="true" class="modal fade" id="modal_rating" role="dialog" style="width: auto;" tabindex="-1">
-<div class="modal-dialog">
-<div class="modal-content"></div>
 </div>
 </div>
-<div id="loading-indicator" style="display: none;">
-<div>
-Please wait...
-<br>
-<img alt="Ajax loader" src="/assets/ajax-loader-e483da860d5177651d2a88eda6a66b00.gif">
-</div>
-</div>
-<div class="amp_ad_unit amp_ad_unit_template" style="display: none;">
-<a class="amp_clickurl amp_no_text" href="javascript:void(0);" rel="nofollow" target="_blank">
-<span class="amp_title"></span>
-<span class="amp_extension_merchant_rating" style="display: none;">
-<span class="amp_extension_merchant_rating_rating" data-star-width="18">
-<div class="rateit star-rating rateit-exclude" title="">
-<div class="rateit-range" style="width: 90px; height: 15px;">
-<div class="rateit-preset rateit-selected" style="height: 15px; width: 0.000px;"></div>
-</div>
-</div>
-</span>
-</span>
-<span class="amp_description"></span>
-<span class="amp_displayurl"></span>
-<img class="amp_impressionurl" style="height: 1px; width: 1px;">
-</a>
-<span class="row amp_extension_site_links"></span>
-<span class="arrow">
-<span class="aux"></span>
-</span>
-<span class="amp_site_link_template" style="display: none;">
-<a class="col-xs-6 amp_extension_site_links_link">
-<span class="amp_extension_site_links_text"></span>
-</a>
-</span>
-</div>
-</div>
-<script type="text/javascript">
-    functionToLoad.push('//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js');
-  </script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
-<script type="text/javascript">
-    functionToLoad.push('/assets/application-b341b3f30de53e073ed952dffffa800f.js');
-    functionToLoad.push('/assets/users-816a475ba77b361e679d83227c475c2f.js');
-  </script><script type="text/javascript" src="/assets/application-b341b3f30de53e073ed952dffffa800f.js"></script><script type="text/javascript" src="/assets/users-816a475ba77b361e679d83227c475c2f.js"></script>
-<script type="text/javascript">
-      functionToLoad.push(function() {
-        // Facebook like
-        // (function(d, s, id) {
-        //   var js, fjs = d.getElementsByTagName(s)[0];
-        //   if (d.getElementById(id)) return;
-        //   js = d.createElement(s); js.id = id;
-        //   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=232453153516852&version=v2.0";
-        //   fjs.parentNode.insertBefore(js, fjs);
-        // }(document, 'script', 'facebook-jssdk'));
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/packs/application-9029d2767a8f0c2b257b.js"></script>
 
-        // Google Plus
-        // (function() {
-        //   var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-        //   po.src = 'https://apis.google.com/js/platform.js';
-        //   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-        // })();
-
-        // Twitter Follow
-        // !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-
-      });
-    </script><script type="text/javascript">(function() {
-        // Facebook like
-        // (function(d, s, id) {
-        //   var js, fjs = d.getElementsByTagName(s)[0];
-        //   if (d.getElementById(id)) return;
-        //   js = d.createElement(s); js.id = id;
-        //   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=232453153516852&version=v2.0";
-        //   fjs.parentNode.insertBefore(js, fjs);
-        // }(document, 'script', 'facebook-jssdk'));
-
-        // Google Plus
-        // (function() {
-        //   var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-        //   po.src = 'https://apis.google.com/js/platform.js';
-        //   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-        // })();
-
-        // Twitter Follow
-        // !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-
-      })();</script>
-<script type="text/javascript">
-    function initializeMaps() {
-      var length = mapFunctionArray.length;
-      for (var i = 0; i < length; i++) {
-        mapFunctionArray[i]();
-      }
-    }
-
-    functionToLoad.push(function() {
-      // Don't load google maps when no pending maps
-      if (typeof(mapFunctionArray) === 'undefined' || mapFunctionArray.length < 1)
-        return;
-
-      var googleMapsId = "AIzaSyDQOhmnZnwlz7TM334xnTn4JByjjxEgq1g";
-
-      var script_path = "https://maps.googleapis.com/maps/api/js?key=" + googleMapsId + "&sensor=false&callback=initializeMaps";
-      $.getScript(script_path);
-
-    });
-  </script><script type="text/javascript">(function() {
-      // Don't load google maps when no pending maps
-      if (typeof(mapFunctionArray) === 'undefined' || mapFunctionArray.length < 1)
-        return;
-
-      var googleMapsId = "AIzaSyDQOhmnZnwlz7TM334xnTn4JByjjxEgq1g";
-
-      var script_path = "https://maps.googleapis.com/maps/api/js?key=" + googleMapsId + "&sensor=false&callback=initializeMaps";
-      $.getScript(script_path);
-
-    })();</script>
-<script type="text/javascript">
-      functionToLoad.push(function() {
-        $('.search_form input[name=q]').on("autocompleteopen", function(e) {
-          var input = $(e.target);
-          var url = 'https://ratemyteachers_contextual.ampfeed.com/xmlamp/feed?deco=1&extn=0%2C2&ip=207.241.229.237&partner=ratemyteachers_contextual&results=2&rfr=https%3A%2F%2Fwww.ratemyteachers.com%2Fprivacy&sub1=desktop&sub2=searchbox&ua=Mozilla%2F5.0+%28compatible%3B+archive.org_bot+%2Bhttp%3A%2F%2Fwww.archive.org%2Fdetails%2Farchive.org_bot%29&v=5';
-          var country = 'United States';
-          var location = '';
-          var keywords = 'online schools in ';
-          if ($('#state').val() !== '') {
-            location = $("#state option:selected").text();
-            location = location.split('-')[0];
-            //keywords = 'online colleges in ';
-          } else {
-            location = country;
-            //keywords = 'online colleges in ';
-          }
-          url += '&qt=["' + encodeURIComponent(keywords + location) + '"]';
-          ampAdRegister('amp_ads_autocomplete', url);
-        });
-      });
-    </script><script type="text/javascript">(function() {
-        $('.search_form input[name=q]').on("autocompleteopen", function(e) {
-          var input = $(e.target);
-          var url = 'https://ratemyteachers_contextual.ampfeed.com/xmlamp/feed?deco=1&extn=0%2C2&ip=207.241.229.237&partner=ratemyteachers_contextual&results=2&rfr=https%3A%2F%2Fwww.ratemyteachers.com%2Fprivacy&sub1=desktop&sub2=searchbox&ua=Mozilla%2F5.0+%28compatible%3B+archive.org_bot+%2Bhttp%3A%2F%2Fwww.archive.org%2Fdetails%2Farchive.org_bot%29&v=5';
-          var country = 'United States';
-          var location = '';
-          var keywords = 'online schools in ';
-          if ($('#state').val() !== '') {
-            location = $("#state option:selected").text();
-            location = location.split('-')[0];
-            //keywords = 'online colleges in ';
-          } else {
-            location = country;
-            //keywords = 'online colleges in ';
-          }
-          url += '&qt=["' + encodeURIComponent(keywords + location) + '"]';
-          ampAdRegister('amp_ads_autocomplete', url);
-        });
-      })();</script>
-
+<link rel="preconnect" href="https://www.google-analytics.com">
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-4216499-1"></script>
 <script>
-    window.addEventListener('load', function(){
-      console.info("[PERF] DomContentLoaded: " + ((new Date()).getTime() - window.beginTimeTrack));
-    });
-
-    window.addEventListener('load', function(){
-      console.info("[PERF] Load: " + ((new Date()).getTime() - window.beginTimeTrack));
-    });
-  </script>
-
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'UA-4216499-1');
+</script>
+<div id="RPeEJorobizLkjjNm2fAdgBy" style="display: block;">
+<p>
+Our website is made possible by displaying online advertisements to our visitors.<br>
+Please consider supporting us by disabling your ad blocker.
+</p>
+</div>
+<script src="/ads.js" type="text/javascript"></script>
 <script type="text/javascript">
-    (function() {
-      // Load script from url
-      var loadScript = function(url, callback) {
-        var script = document.createElement("script");
-        script.type = "text/javascript";
+  if(!document.getElementById('VayUHZiAvJyoCZccsrjoL9mG')){
+    console.log('Please whitelist RateMyTeachers.com as we depend on ad revenue to provide you with this service.');
+    document.getElementById('RPeEJorobizLkjjNm2fAdgBy').style.display = 'block';
+  }
+</script>
 
-        // Add on load callback event
-        if (callback !== null) {
-          if (script.readyState){ //IE
-            script.onreadystatechange = function(){
-              if (script.readyState == "loaded" || script.readyState == "complete"){
-                script.onreadystatechange = null;
-                callback();
-              }
-            };
-          } else { //Others
-            // Execute callback even when an error happen
-            script.onerror = function(e){
-              try {
-                console.error("An error happen when loading '" + err.target.src + "' script.");
-              } catch(err) {} finally {
-                callback();
-              }
-            };
-            script.onload = function(){ callback(); };
-          }
-        }
+<div class="ezmob-footer ezoic-floating-bottom ezo_ad ezmob-footer-desktop" id="ezmobfooter"><center><span id="ezoic-pub-ad-placeholder-105"></span>
 
-        // Load the script
-        script.src = url;
-        document.body.appendChild(script);
-      };
+<div class="ezmob-footer ezoic-floating-bottom ezo_ad ezmob-footer-desktop" id="ezmobfooter"><center><span style="display:inline-block;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:90px;min-width:970px;" class="ezoic-ad medrectangle-2 adtester-container adtester-container-105" data-ez-name="ratemyteachers_com-medrectangle-2"><span id="div-gpt-ad-ratemyteachers_com-medrectangle-2-0" ezaw="970" ezah="90" style="position:relative;z-index:0;display:inline-block;min-height:90px;min-width:970px;" class="ezoic-ad"><script data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[970,90],'ratemyteachers_com-medrectangle-2','ezslot_0',105,'0']));</script></span></span></center><span class="ezmob-footer-close" onclick="document.getElementById('ezmobfooter').style.display='none';">x</span></div>
 
-      // Load scripts in a sequence instead parallel
-      // to make sure frameworks load correctly
-      function sequence(index, max, source) {
-        if (index < max) {
-          var data = functionToLoad.extractElementData(source[index]);
+</center><span class="ezmob-footer-close" onclick="document.getElementById('ezmobfooter').style.display='none';">x</span></div>
 
-          if (typeof data.element === 'string') {
-            if (data.async) {
-              // Async script
-              loadScript(data.element, function() {
-                if (data.subElements.length > 0) {
-                  sequence(0, data.subElements.length, data.subElements);
-                }
-              });
-              sequence(index + 1, max, source);
-            } else {
-              // Sync scripts
-              loadScript(data.element, function() {
-                if (data.subElements.length > 0) {
-                  sequence(0, data.subElements.length, data.subElements);
-                }
-                sequence(index + 1, max, source);
-              });
-            }
-          } else {
-            // Execute callback even when an error happen on the function
-            try {
-              if (data.async) {
-                // Async script
-                setTimeout(function() { data.element(); }, 1);
-              } else {
-                // Sync script
-                data.element();
-              }
-            } catch(err) {
-              console.error(err);
-            } finally {
-              sequence(index + 1, max, source);
-            }
-          }
-        }
-      }
+<script type="text/javascript" style="display:none;" async="">__ez.queue.addFile('anchorfix.js', '/ezoic/anchorfix.js?cb=184-6', false, [], true, true, true, false);</script>
+<script type="text/javascript">
+		(function(f,a){function g(b,a,c){b.addEventListener?b.addEventListener(a,c):b.attachEvent("on"+a,function(){c.call(b)})}function k(b){b&&("string"==typeof b["class"]&&b["class"]&&a.getElementById("uglipop_popbox").setAttribute("class",b["class"]),b.keepLayout&&!b["class"]&&a.getElementById("uglipop_popbox").setAttribute("style","position:relative;height:300px;width:300px;background-color:white;opacity:1;"),"string"==typeof b.content&&b.content&&"html"==b.source&&(a.getElementById("uglipop_popbox").innerHTML=b.content),"string"==typeof b.content&&b.content&&"div"==b.source&&(a.getElementById("uglipop_popbox").innerHTML=a.getElementById(b.content).innerHTML));a.getElementById("uglipop_overlay_wrapper").style.display="";a.getElementById("uglipop_overlay").style.display="";a.getElementById("uglipop_content_fixed").style.display=""}function h(){a.getElementById("uglipop_overlay_wrapper").style.display="none";a.getElementById("uglipop_overlay").style.display="none";a.getElementById("uglipop_content_fixed").style.display="none"}g(a,"DOMContentLoaded",function(){var b=a.createElement("div"),e=a.createElement("div"),c=a.createElement("div"),d=a.createElement("div");e.id="uglipop_content_fixed";e.setAttribute("style","position:fixed;top: 50%;left: 50%;transform: translate(-50%, -50%);-webkit-transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);opacity:1;z-index:10000000;");c.id="uglipop_popbox";d.id="uglipop_overlay_wrapper";d.setAttribute("style","position:absolute;top:0;bottom:0;left:0;right:0;display:none");b.id="uglipop_overlay";b.setAttribute("style","position:fixed;top:0;bottom:0;left:0;right:0;opacity:0.3;width:100%;height:100%;background-color:black;");d.appendChild(b);e.appendChild(c);a.body.appendChild(d);a.body.appendChild(e);a.getElementById("uglipop_overlay_wrapper").style.display="none";a.getElementById("uglipop_overlay").style.display="none";a.getElementById("uglipop_content_fixed").style.display="none";d.addEventListener("click",h);g(f,"keydown",function(a){27==a.keyCode&&h()});f.uglipop=k})})(window,document);
+			var ezRBA = (function() {
+			  function init() {
+				var reportAdsBtns = document.querySelectorAll('.ez-report-ad-button');
+				for (var i = 0; i < reportAdsBtns.length; i++) {
+				  reportAdsBtns[i].addEventListener('click', function(e) {
+					var url = '<iframe src="https://ezoic.com/pub/reportads.html' + e.target.getAttribute('name') + '" width="400" height="500" style="border-radius: 10px; box-shadow: 2px 2px 30px 6px rgba(0,0,0,0.75); border: 1px solid black;"></iframe>'
+					uglipop({
+					  class: 'none',
+					  source: 'html',
+					  content: url,
+					});
+				  });
+				}
+				function bindEvent(element, eventName, eventHandler) {
+					if (element.addEventListener) {
+						element.addEventListener(eventName, eventHandler, false);
+					} else if (element.attachEvent) {
+						element.attachEvent('on' + eventName, eventHandler);
+					}
+				}
+				bindEvent(window, 'message', function(e) {
+					if (e.data === 'close-report-ad-modal') {
+						document.getElementById('uglipop_overlay_wrapper').style.display = 'none';	
+						document.getElementById('uglipop_overlay').style.display = 'none';	
+						document.getElementById('uglipop_content_fixed').style.display = 'none';	
+					}
+				})
+			  }
 
-      // Load all javascript in a sequence
-      var loadDeferredJs = function() {
-        sequence(0, functionToLoad.length, functionToLoad);
-      };
+			  return {
+				init: init
+			  };
+			})();
+			ezRBA.init();
+		</script>
+<script type="text/javascript" style="display:none;">
+var __ez_dims = (function() {
+	var setCookie = function( name, content, expiry ) {
+		return document.cookie = name+'='+content+((expiry)?';expires='+(new Date(Math.floor(new Date().getTime()+expiry*1000)).toUTCString()):'')+';path=/';
+	};
+	var ffid = 1;
+	var oh = window.screen.height;
+	var ow = window.screen.width;
+	var h = ffid === 1 ? oh : (oh > ow) ? oh : ow;
+	var w = ffid === 1 ? ow : (oh > ow) ? ow : oh;
+	var uh = window.innerHeight || document.documentElement.clientHeight || document.getElementsByTagName('body')[0].clientHeight;
+	var uw = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
+	setCookie('ezds', encodeURIComponent('ffid='+ffid+',w='+w+',h='+h), (31536e3*7));
+	setCookie('ezohw', encodeURIComponent('w='+uw+',h='+uh), (31536e3*7));
+})();
+</script><script type="text/javascript" style="display:none;" async="">
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=184-6&shcb=31', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=184-6&shcb=31', false, [], true, false, false, false);
+</script>
+<script>var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"20015427"});(function(){var s=document.createElement("script"),el=document.getElementsByTagName("script")[0];s.async=true;s.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el)})();</script><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type="text/javascript">var _qevents=_qevents||[];(function(){var elem=document.createElement('script');elem.src=(document.location.protocol=="https:"?"https://secure":"http://edge")+".quantserve.com/quant.js";elem.async=true;elem.type="text/javascript";var scpt=document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem,scpt)})();_qevents.push({qacct:"p-31iz6hfFutd16",labels:"Domain.ratemyteachers_com,DomainId.3821"});</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.ratemyteachers_com,DomainId.3821" border="0" height="1" width="1" alt="Quantcast"/></div></noscript>
+<div id="dmo1" style="display:none">
+<script type="text/javascript"><!--
+		google_ad_client = "ca-pub-6396844742497208";
+		/* dmo */
+		google_ad_slot = "dmo";
+		google_ad_width = 88;
+		google_ad_height = 31;
+		//-->
+	</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
 
-      // Execute all lazy javascripts after DOM load
-      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
-          webkitRequestAnimationFrame || msRequestAnimationFrame;
-      if (raf) raf(function() { window.setTimeout(loadDeferredJs, 0); });
-      else window.addEventListener('load', loadDeferredJs);
-    })();
-  </script>
-
-
-
-</body></html>
+<div id="uglipop_overlay_wrapper" style="position:absolute;top:0;bottom:0;left:0;right:0;display:none"><div id="uglipop_overlay" style="position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; opacity: 0.3; width: 100%; height: 100%; background-color: black; display: none;"></div></div><div id="uglipop_content_fixed" style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); opacity: 1; z-index: 10000000; display: none;"><div id="uglipop_popbox"></div></div></body></html>
