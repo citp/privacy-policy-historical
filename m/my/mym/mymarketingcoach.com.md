@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymarketingcoach.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212141129id_/https%3A//www.mymarketingcoach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymarketingcoach.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612211034id_/https%3A//www.mymarketingcoach.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ Contacting Us.
 
 We can be reached by contacting:
 
-Website: [Please use this contact form ](https://web.archive.org/web/20181212141129id_/http://www.mymarketingcoach.com/support)
+Website: [Please use this contact form ](https://web.archive.org/web/20190612211034id_/http://www.mymarketingcoach.com/support)
 
 Mail: MyMarketingCoach, LLC., 10380 SW 48th Ave, Ocala, FL 34476
 
