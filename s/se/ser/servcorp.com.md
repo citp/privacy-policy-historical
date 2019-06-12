@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servcorp.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210223637id_/http%3A//www.servcorp.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servcorp.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612195258id_/https%3A//www.servcorp.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy
 
