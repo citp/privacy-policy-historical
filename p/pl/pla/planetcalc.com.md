@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetcalc.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214054455id_/http%3A//www.planetcalc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetcalc.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612040828id_/https%3A//planetcalc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
