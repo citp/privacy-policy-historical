@@ -1,20 +1,28 @@
-<!--The following is the downloaded HTML source of the zones.com privacy policy that was archived on 2018-08-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180809100823id_/https%3A//www.zones.com/site/statics/static_page.html%3Fname%3Dcorporate/terms-and-conditions/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zones.com privacy policy that was archived on 2019-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190612053151id_/https%3A//www.zones.com/site/statics/static_page.html%3Fname%3Dcorporate/terms-and-conditions/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
-<meta http-equiv="X-UA-Compatible" content="IE=10">
-
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-site-verification" content="z43fAe9tHlNng9vzApe5-kEkJMZldbj83Pd80q_d_5E">
 <title>General Policies - Privacy Policy</title>
 <link rel="stylesheet" type="text/css" href="https://media.zones.com/images/css/global_v4_newhomepage.css">
-
 <link rel="stylesheet" type="text/css" href="https://media.zones.com/images/css/zonesconnect-user-guide.css">
+
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,300,400,600,700">
 <link rel="stylesheet" href="https://media.zones.com/scripts/zones-uikit/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://media.zones.com/images/css/header_footer_prod_1526489995300.css">
+
+<!-- Bootstrap 4 custom 
+	All elments will use bootstrap theme if wrapper around classname "zbs4-ui"
+-->
+
+<link rel="stylesheet" href="https://media.zones.com/images/css/app.4b735e34.css">
+
 
 <!--[if IE 8]>
 <link rel="stylesheet" type="text/css" href="https://media.zones.com/scripts/ie8_new.css"/>
@@ -24,10 +32,12 @@
 <![endif]-->
 
 <!-- Please DO NOT remove this version of jQuery, first refactor.. this is the last version where live method is supported.. code will break -->
-<script async="" id="demandbase_js_lib" src="https://scripts.demandbase.com/tm3krZNQ.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-CVFN"></script><script src="https://media.zones.com/scripts/libs/jquery-v1.7.2.js"></script> 
+<script async="" id="demandbase_js_lib" src="https://scripts.demandbase.com/tm3krZNQ.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-CVFN"></script><script src="https://media.zones.com/scripts/jquery-3.3.1.min.js"></script> 
 <script src="https://media.zones.com/scripts/libs/modernizr.min_76f186e89c0fb7aea21b6651c289f239.js"></script>
 <script src="https://media.zones.com/scripts/resourcesLoader_prod.js"></script>
 <script src="https://media.zones.com/scripts/zonesconnect-user-guide.js"></script>
+
+
 
 <!-- Google Tag Manager -->
 
@@ -43,46 +53,102 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- End Google Tag Manager -->
 
-
 <!-- Google Analytics -->
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	var zonesUsername = getUsernameByKey('Zones_UserName');
-	ga('create', 'UA-21188074-1', 'auto');
-	ga('set', 'userId', zonesUsername);
-	ga('set', 'dimension1', zonesUsername);
-	ga('send', 'pageview');
+    if (
+        document.readyState === "complete" ||
+        (document.readyState !== "loading" && !document.documentElement.doScroll)
+    ) {
+        callGA();
+    } else {
+        document.addEventListener("DOMContentLoaded", callGA);
+    }
 
-    function getUsernameByKey(key) {
-		var cookie = document.cookie.split(";");
+    function callGA() {
+        var zonesUsername = '';
+        var eventZone = "";
+        var headerLogoNode = document.querySelector(".header-logo > a") || document.querySelector("a#logo");
+        var link = headerLogoNode ? headerLogoNode.getAttribute("href") : null;
+        
+        if (link && link.length > 0) {
+            eventZone = link.split("?zone=")[1];
+        }
 
-		for (var i = 0; i < cookie.length; i++) {
-			if (cookie[i].indexOf(key) > -1) return cookie[i].split("=")[1];
-		}
-
-		return '';
-	}
+        //console.info(link, eventZone);
+        
+        ga('create', 'UA-21188074-1', 'auto');
+        ga('set', 'userId', zonesUsername);
+        ga('set', 'dimension1', zonesUsername);
+        ga('set', 'dimension2', eventZone);
+        ga('send', 'pageview',{
+            dimension2: eventZone
+        });
+    }
 </script>
 <!-- End Google Analytics -->
 
 <script>
-	$( window ).unload(function() {
+
+	/*
+		Scroll animation for a link with anchor tag
+		distance option is set as data-dist
+		speed option is set as data-speed
+	*/
+	function js_scrollTo() {
+		var hash     = window.location.hash;
+		var $dest    = $(hash);
+	
+		if (!$dest.length > 0) return false;
+	
+		var options = {
+			dist: $dest.attr('data-dist') ? $dest.attr('data-dist') : 0,
+			speed: $dest.attr('data-speed') ? $dest.attr('data-speed') : 500
+		}
+	
+		setTimeout(function() {
+			$('html, body').animate({
+				'scrollTop': $dest.offset().top - options['dist']
+			}, options['speed']);
+		}, 500);
+	
+		return false;
+	}
+
+	$( window ).on('unload',function() {
 	  document.cookie = "ZBS_Zone=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.zones.internal";
 	  document.cookie = "ZBS_Zone=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/; domain=.zones.com";
 	});
 	
 	(function() {
 		if (document.documentElement) {document.documentElement.className += " ie-browser ie"+document.documentMode;}
-	}())
-</script>
-<!-- needed for homepage slider -->
-<script src="https://media.zones.com/scripts/google_api_placeholder_0d7c029e9856fb6479f459a5d5e.js"></script>
+	}());
+	
+	$(function() {
+		// scroll to div containing id = anchor tag
+		js_scrollTo();
 
+		/* custom cookie for lite zone user to clear out the cart after login */
+		$('#btn-login, #corporateCheckout, input[name="btn_Login"]').on('click', function() {
+			document.cookie = "lite_user_cart_remove_all=true;path=/site/standard_page/";
+		})
+	})
+</script>
 <script src="https://media.zones.com/scripts/libs/jquery.validate.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://media.zones.com/images/css/app.4b735e34.css">
+
+<script src="https://media.zones.com/scripts/cart_page_prod.js"></script>
+<link rel="stylesheet" href="https://media.zones.com/scripts/cart_page_prod.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+
+<!--
+<link rel="stylesheet" href="https://localhost:8888/app.66d5da61.css">
+<script src="https://localhost:8888/scripts.bcf3243b.js"></script>
+-->
 
 <!--[if lt IE 9]>
 	<script src="https://media.zones.com/scripts/vendor/html5shiv/html5shiv.min.js"></script>
@@ -92,6 +158,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!--[if IE 9]>
 	<script src="https://media.zones.com/scripts/ie9.js"></script>
 <![endif]-->
+	<style>
+		#z-body--static #content-right {
+			float: none;
+			margin: auto;
+		}
+		#z-body--static #text-style.container {
+			width: 1200px;
+			margin: auto;
+		}
+		#z-body--static .container #content-left {
+      margin-right: auto;
+      width: 20%;
+    }
+    #z-body--static .container #content-right {
+			width: 80%;
+			float: left;
+    }
+	</style>
 <script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script></head>	
 <body>
 	<!--DIV Structure Starts-->
@@ -137,14 +221,43 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </li>
             </ul>
             <ul class="top-nav-list pull-right" id="search-box-wrapper">
-                <li class="nav-cart">
+                <li class="nav-cart preload" id="cart-box--dropdown">
 	<a href="https://www.zones.com/site/cart/index.html">0</a>
-	<div class="nav-menu nav-menu-cart">
-		<div class="nav-column nav-column-cart">
-			<div class="cart-dd__subtotal">Subtotal:</div>
-			<div class="cart-dd__subtot-val">$0.00</div>
-			<div class="cart-dd__subtext">Tax and shipping will be calculated in checkout</div>
-			<a class="nav-login-submit" href="https://www.zones.com/site/cart/index.html">View Cart<span></span></a>
+	<div id="z-cb-wrapper">
+		<div id="z-cb-innerwrapper" class="nav-column nav-column-cart">
+			<script type="template" id="z-cb--item-templ">
+				<tr id="cb-item--{{pOID}}">
+					<td>
+						<a class="btn btn-link btn-delete z-cb-item-del" href="https://www.zones.com/site/cart/remove.html{{removeURL}}">
+							<i class="fa fa-times"></i>
+						</a>
+					</td>
+					<td>
+						<img class="z-cb-image" src="https://media.zones.com/images/products/{{pImage}}"/>
+					</td>
+					<td>
+						<p>{{pName}}</p>
+						<p>{{pPrice}} x <span class="cb-item--qty{{pOID}}">{{pQty}}</span></p>
+					</td>
+				</tr>
+			</script>
+			<div id="z-cb--products-wrapper">
+				<table id="z-cb--products">
+					<tbody><tr>
+						<td class="text-center"><img src="https://media.zones.com/images/global/spinner-20x20.gif" alt="Loading..."></td>
+					</tr>
+				</tbody></table>
+			</div>
+			<br>
+			<div id="z-cb--total">
+				<div class="z-cb--subtotal">
+					<span>Subtotal:</span>
+					<strong class="cart-dd__subtot-val">$0.00</strong>
+					<p class="text-right"><small class="text-muted">Tax and shipping will be calculated in checkout</small></p>
+				</div>
+				<br>
+				<a class="zc-btn zc-btn--outline-primary zc-btn--block zc-btn--lg" href="https://www.zones.com/site/cart/index.html">View Cart<span></span></a>
+			</div>
 		</div>
 	</div>
 </li>
@@ -189,6 +302,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<ul class="col-md-6">
 									<li class="mobile-menu--lv2"><a href="https://www.zones.com/site/statics/static_page.html?name=solutions/solutions/security-fortification">Security Fortification</a></li>
 									<li class="mobile-menu--lv2"><a href="https://www.zones.com/site/statics/static_page.html?name=solutions/nfrastructure">Zones nfrastructure</a></li>
+									<li class="mobile-menu--lv2"><a href="https://www.zones.com/site/statics/static_page.html?name=solutions/lifecycle-services">Lifecycle Management</a></li>
+									
 								</ul>
 							</div>
 						
@@ -197,7 +312,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<a data-target="#solution-menu--lv2">Browse by Vertical:</a>
 								</li>
 								<li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=solutions/public-sector/index">Public Sector</a></li>
-								<li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=healthcare/micro/zones-healthcare">Healthcare</a></li>
+								<li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=solutions/healthcare/index">Healthcare</a></li>
 								<li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=zones/retail-solutions">Retail</a></li>
 							</ul>
 						</div>
@@ -255,36 +370,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/hpe/index">HPE</a></li>
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/intel/index">Intel</a></li>
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/jabra/index&amp;utm_source=homepage-business-featuredbrand&amp;utm_campaign=an00076478">Jabra</a></li>
-                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/kaspersky/index">Kaspersky</a></li>             
-                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/lenovo/index">Lenovo</a></li>                                  
+                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/lenovo/index">Lenovo</a></li>            
+                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/lexmark/index&amp;utm_source=homepage-business-featuredbrand&amp;utm_campaign=an00078357">Lexmark</a></li>                        
                                 </ul>
                                 <ul class="col-md-5ths">
-                                    <li class="header-subtitle hidden-xs hidden-sm">&nbsp;</li>
-                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/lexmark/index&amp;utm_source=homepage-business-featuredbrand&amp;utm_campaign=an00078357">Lexmark</a></li>      
+                                    <li class="header-subtitle hidden-xs hidden-sm">&nbsp;</li>    
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/lg/index">LG</a></li>
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/locate/refine.html?N=4294966270&amp;utm_source=homepage-business-featuredbrand&amp;utm_campaign=an00076555">Logitech</a></li>
-                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/malwarebytes/index&amp;utm_source=homepage-business-featuredbrand&amp;utm_campaign=an00082536">Malwarebytes</a></li>
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/mcafee/index&amp;utm_source=homepage-business-featuredbrand&amp;utm_campaign=an00078238">McAfee</a></li>
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/microsoft/index">Microsoft</a></li>
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/nec/index">NEC</a></li>
-                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/netapp/index">NetApp</a></li>                        
+                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/netapp/index">NetApp</a></li>      
+                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/oracle/index">Oracle</a></li>      
+                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/plantronics/index&amp;utm_source=homepage-business-featuredbrand&amp;utm_campaign=an00076736">Plantronics</a></li>            
                                 </ul>
                                 <ul class="col-md-5ths">
                                     <li class="header-subtitle hidden-xs hidden-sm">&nbsp;</li>
-                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/locate/refine.html?N=4294857073">Nutanix</a></li>    
-                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/oracle/index">Oracle</a></li>
-                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/plantronics/index&amp;utm_source=homepage-business-featuredbrand&amp;utm_campaign=an00076736">Plantronics</a></li>
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/polycom/index&amp;utm_source=homepage-business-featuredbrand&amp;utm_campaign=an00078051">Polycom</a></li>
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/samsung/index">Samsung</a></li>
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/sophos/index&amp;utm_source=homepage-business-featuredbrand&amp;utm_campaign=an00080630">Sophos</a></li>
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/symantec/index">Symantec</a></li>
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/targus/index&amp;utm_source=homepage-business-featuredbrand&amp;utm_campaign=an00077714">Targus</a></li>
-                                </ul>
-                                <ul class="col-md-5ths">
-                                    <li class="header-subtitle hidden-xs hidden-sm">&nbsp;</li>							
-                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/trendmicro/index">Trend&nbsp;Micro</a></li>
+                                    <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/trendmicro/index">Trend&nbsp;Micro</a></li>					
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/veeam/index">Veeam</a></li>
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/veritas/index">Veritas</a></li>
+                                </ul>
+                                <ul class="col-md-5ths">
+                                    <li class="header-subtitle hidden-xs hidden-sm">&nbsp;</li>		
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/vmware/index">VMware</a></li>	
                                     <li class="mobile-menu--lv3"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/zebra/index&amp;utm_source=homepage-business-featuredbrand&amp;utm_campaign=an00076291">Zebra</a></li>
                                     <li class="mobile-menu--lv3 hidden-md hidden-lg"><a href="https://www.zones.com/site/statics/static_page.html?name=partner/showcase/index">Shop All Brands</a></li>
@@ -455,7 +567,7 @@ $(function() {
 				</div>
 				<!--Left Part Ends-->
 				<!--Body Part Starts-->
-				<div class="body_content">
+				<div class="body_content" id="z-body--static">
 					
 
 <link rel="stylesheet" type="text/css" href="https://media.zones.com/images/css/new_homepage.css">
@@ -724,7 +836,7 @@ $(document).ready(function() {
 		<section class="sect-sol-content">
 			<div class="col">
 				
-				<p>Zones, Inc., ("<span class="defaulttextBold">Zones</span>" or "<span class="defaulttextBold">we</span>") a global IT solutions provider, delivers products and services to help companies make a complete digital transformation – from desktop to data center – to the cloud and beyond. Zones is committed to Customer privacy. We regularly review our privacy policies to ensure we remain current with applicable laws, as well as ensuring the goodwill of our Customers. </p>
+				<p>Zones, LLC, ("<span class="defaulttextBold">Zones</span>" or "<span class="defaulttextBold">we</span>") a global IT solutions provider, delivers products and services to help companies make a complete digital transformation – from desktop to data center – to the cloud and beyond. Zones is committed to Customer privacy. We regularly review our privacy policies to ensure we remain current with applicable laws, as well as ensuring the goodwill of our Customers. </p>
 				<p>This privacy policy ("<span class="defaulttextBold">Privacy Policy</span>") explains how Zones and its affiliates collect, retain, use, disclose, or otherwise process information about our Customers and potential customers (each, a "<span class="defaulttextBold">Customer</span>", or "<span class="defaulttextBold">You</span>"). </p>
 				
 
@@ -780,7 +892,7 @@ $(document).ready(function() {
 				<h4 class="static-header">ACCESS TO CUSTOMER INFORMATION</h4>
 				<p>Customers have online access to their own Customer Information retained by Zones. Additional access to Customer Information is available during Zones' regular business hours. Customers may contact Zones via the information below to review, update, or inquire about their information.</p>
 
-				<p>Zones, Inc.<br>
+				<p>Zones, LLC<br>
 				1102 15th St SW, Ste 102<br>
 				Auburn, WA 98001<br>
 				<strong>Phone:</strong> 253-205-3000</p>
@@ -869,7 +981,7 @@ $(document).ready(function() {
                         <a href="https://www.zones.com/site/statics/static_page.html?name=corporate/about-us/press-releases">Newsroom</a>
                     </li>
                     <li>
-                        <a href="https://www.zones.com/site/statics/static_page.html?name=corporate/about-us/sustainability/sustainability">Corporate Social Responsibility</a>
+                        <a href="https://www.zones.com/site/statics/static_page.html?name=corporate/social-responsibility/index">Corporate Social Responsibility</a>
                     </li>
                     <li>
                         <a href="http://careers.zones.com/" target="_blank">Zones Careers</a>
@@ -954,9 +1066,9 @@ $(document).ready(function() {
                         <li>
                             <a href="https://www.zones.com/site/statics/static_page.html?name=partner/showcase/index">Featured Brand Partners</a>
                         </li>
-                        <li>
+                        <!--<li>
                             <a href="https://www.zones.com/site/statics/static_page.html?name=corporate/about-us/zones-partner-program">Partner with Zones</a>
-                        </li>
+                        </li>-->
                     </ul>
                 </ul>
             </div>
@@ -1055,14 +1167,14 @@ $(document).ready(function() {
                 </li>
 
                 <li class="copyright text-right">Copyright © 1996 -
-                    <span class="footer-year">2018</span> Zones, Inc.</li>
+                    <span class="footer-year">2018</span> Zones, LLC</li>
             </ul>
             <br>
             <br>
             <ul class="visible-lg">
                 <li class="copyright">
                     Copyright © 1996 -
-                            <span class="footer-year">2018</span> Zones, Inc.
+                            <span class="footer-year">2018</span> Zones, LLC
                 </li>
             </ul>
         </div>
@@ -1148,7 +1260,60 @@ $(document).ready(function() {
 </script>
 <!--Nav Expand Ends-->
 <script language="JavaScript">
-    
+    function MM_reloadPage(init) {
+	if (init==true) with (navigator) {
+		if ((appName=="Netscape") && (parseInt(appVersion)==4)) {
+			document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage;
+		}
+	} else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+
+MM_reloadPage(true);
+
+function ZB_SpinBoxPrimitive_increase(p_box, p_floor) {
+	if ((p_box.value < p_floor)||(isNaN(p_box.value))||(p_box.value==null)||(p_box.value=="")) {p_box.value = p_floor;} else {p_box.value = parseInt(p_box.value) + 1;}
+	self.focus();
+}
+function ZB_SpinBoxPrimitive_decrease(p_box, p_floor) {
+	if (p_box.value==p_floor) return;
+	if ((p_box.value < p_floor)||(isNaN(p_box.value))||(p_box.value==null)||(p_box.value=="")) {p_box.value = p_floor;} else {if (p_box.value!=0) p_box.value = parseInt(p_box.value) - 1;}
+	self.focus();
+}
+function ZB_SpinBoxPrimitive_validate(p_box, p_floor) {
+	if ((p_box.value < p_floor) || (isNaN(p_box.value)) || (p_box.value==null) || (p_box.value=="")) {
+		p_box.value = p_floor;
+	}
+}
+function clearCard(){
+	var num = document.frm_payment.txt_card_number.value;
+	if (num.substring(0,2)=='**') document.frm_payment.txt_card_number.value='';
+}
+function getPopupWin(p_url) {
+	var winl = (screen.width-960)/2;
+	var wint = (screen.height-700)/2;
+	var settings='height=700,width=960,top='+wint+',left='+winl+',scrollbars=yes,toolbar=no,location=no,status=no,menubar=no,resizable=yes,dependent=no';
+	win = window.open(p_url,'', settings);
+}
+function NewWindow(mypage, myname, w, h, scroll, resize) {
+	var winl = (screen.width - w) / 2;
+	var wint = (screen.height - h) / 2;
+  resize = (resize == null) ? 'yes' : (resize);
+	winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable='+resize+''
+	win = window.open(mypage, myname, winprops)
+	if (parseInt(navigator.appVersion) >= 4) {
+		win.window.focus();
+	}
+}
+function OpenNewWindow(mypage, myname, w, h, props) { // same as NewWindow but allows additional window properties to be added
+	var winl = (screen.width - w) / 2;
+	var wint = (screen.height - h) / 2;
+	winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+','+props+',resizable'
+	win = window.open(mypage, myname, winprops)
+	if (parseInt(navigator.appVersion) >= 4) {
+		win.window.focus();
+	}
+}
+
 </script>
 <script language="JavaScript">
     function setSort() {
@@ -1193,6 +1358,7 @@ $(document).ready(function() {
         document.getElementsByTagName('head')[0].appendChild(s);
     })();
 </script>
+
 			</div>
 			<!--Footer Part Ends-->
 			
