@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the colourlovers.com privacy policy that was archived on 2018-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230042021id_/http%3A//www.colourlovers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the colourlovers.com privacy policy that was archived on 2019-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190612050851id_/https%3A//www.colourlovers.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy Policy :: COLOURlovers</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
+<meta name="p:domain_verify" content="d3d73d986e154a37860b6d8ab178e52d">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1"><![endif]-->
@@ -20,7 +21,7 @@
 <link rel="canonical" href="https://www.colourlovers.com/privacy">
 <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="//www.colourlovers.com/blog/atom">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="//feeds.feedburner.com/Colourlovers">
-					<script async="" src="//cdn.taboola.com/libtrc/unip/1142846/tfa.js" id="tb_tfa_script"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+					<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//cdn.taboola.com/libtrc/unip/1142846/tfa.js" id="tb_tfa_script"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TBR2VLN"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 						//<![CDATA[
 						var _lang		= "en-us";
 						var _cSV		= "v4.0";
@@ -60,6 +61,21 @@
 
                     </script>
 
+
+                    <!-- Google Tag Manager -->
+                    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                        })(window,document,'script','dataLayer','GTM-TBR2VLN');</script>
+                    <!-- End Google Tag Manager -->
+
+
+                    <!-- Google Tag Manager (noscript) -->
+                    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TBR2VLN"
+                                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+                    <!-- End Google Tag Manager (noscript) -->
+
                     <!--<script>
                         function isMobile(){try{return/Android|webOS|iPhone|iPad|iPod|pocket|psp|kindle|avantgo|blazer|midori|Tablet|Palm|maemo|plucker|phone|BlackBerry|symbian|IEMobile|mobile|ZuneWP7|Windows Phone|Opera Mini/i.test(navigator.userAgent)?!0:!1}catch(e){}}
                     </script>-->
@@ -73,12 +89,16 @@
 
                         var TIMEOUT = 2000; // time in ms that it force dfp to start displaying the ads if not all bids were not in
 
+
+                        function isMobile(){try{return/Android|webOS|iPhone|iPad|iPod|pocket|psp|kindle|avantgo|blazer|midori|Tablet|Palm|maemo|plucker|phone|BlackBerry|symbian|IEMobile|mobile|ZuneWP7|Windows Phone|Opera Mini/i.test(navigator.userAgent)?!0:!1}catch(e){}}
+
                         var googletag = googletag || {}; // DFP object
                         googletag.cmd = googletag.cmd || []; // DFP command que
                         var pbjs = pbjs || {}; // Prebid Object
                         pbjs.que = pbjs.que || []; // Prebid command que
                         var adUnits = adUnits || []; // Adunits variable, that will store all the adunits required to request bids and to display on the page
 
+                        
                         function initAdServer() { // function to load DFP and display the ads.
                             if (pbjs.initAdserverSet) return;
                             (function() {
@@ -100,11 +120,13 @@
 
                                                 adUnits.push({
                             network: dfpNetwork,
-                            /*adunit: (isMobile()) ? 'CL_MOB_1' : 'CL_1_970x90',*/
-                            adunit: (isMobile()) ? 'CL_MOB_1' : 'CL_1_728V',
+                            adunit: (isMobile()) ? 'CL_MOB_1' : 'CL_1_970x90',
+                            /*adunit: (isMobile()) ? 'CL_MOB_1' : 'CL_1_728V',*/
                             /*size: (isMobile()) ? [[320, 50],[320, 100]] : [[970, 90],[728, 90]],*/
-                            size: (isMobile()) ? [[320, 50],[320, 100]] : [[728, 90],[970, 90],'fluid'],
-                            code: 'div-gpt-ad-1509549396881-0'
+                            size: (isMobile()) ? [[320,50],[320,100],[234,60],[120,90],[120,60]] : [[970,90],[234,60],[120,90],[120,60]],
+                            code: 'div-gpt-ad-1509549396881-0',
+                            nogoogle: false,
+                            refresh: false
                         });
                         
                                         /* Wix adunit */
@@ -126,33 +148,43 @@
                         // appears on 80% pages
                                                 adUnits.push({
                             network: dfpNetwork,
-                            adunit: 'CL_1_970x90',
-                            size: [[728, 90],'fluid'],
-                            code: 'div-gpt-ad-CL_1_728V'
+                            adunit: 'CL_1_728V',
+                            size: [[728,90],[970,90],[234,60],[120,90],[120,60]],
+                            code: 'div-gpt-ad-CL_1_728V',
+                            nogoogle: false,
+                            refresh: true
                         });
                         adUnits.push({
                             network: dfpNetwork,
                             adunit: 'CL_2_728V',
-                            size: [[728, 90],'fluid'],
-                            code: 'div-gpt-ad-CL_2_728V'
+                            size: [[728, 90],[234, 60],[120, 90],[120, 60]],
+                            code: 'div-gpt-ad-CL_2_728V',
+                            nogoogle: false,
+                            refresh: false
                         });
                         adUnits.push({
                             network: dfpNetwork,
                             adunit: 'CL_3_728V',
-                            size: [[728, 90],'fluid'],
-                            code: 'div-gpt-ad-CL_3_728V'
+                            size: [[728, 90],[234, 60],[120, 90],[120, 60]],
+                            code: 'div-gpt-ad-CL_3_728V',
+                            nogoogle: false,
+                            refresh: false
                         });
                         adUnits.push({
                             network: dfpNetwork,
                             adunit: 'CL_1_300V',
-                            size: [[300, 250],'fluid'],
-                            code: 'div-gpt-ad-CL_1_300V'
+                            size: [[300, 250],[336,280],[234, 60],[120, 240],[120, 90],[120, 60]],
+                            code: 'div-gpt-ad-CL_1_300V',
+                            nogoogle: false,
+                            refresh: true
                         });
                         adUnits.push({
                             network: dfpNetwork,
                             adunit: 'CL_3_300V',
-                            size: [[300, 250],[300,600],[160,600],[120,600],'fluid'],
-                            code: 'div-gpt-ad-CL_3_300V'
+                            size: [[120,600],[160,600],[300, 250],[300,600],[336,280],[234, 60],[120, 240],[120, 90]],
+                            code: 'div-gpt-ad-CL_3_300V',
+                            nogoogle: false,
+                            refresh: false
                         });
                                                 
                         
@@ -181,6 +213,7 @@
                         googletag.cmd.push(function() {
                             pbjs.que.push(function() {pbjs.setTargetingForGPTAsync();}); // set bids from prebid
                             googletag.pubads().collapseEmptyDivs(); // if no ad is available collapse the adunit placeholder
+                                                                                    /*googletag.pubads().setTargeting("nogoogle","true");*/
                                                         googletag.pubads().enableSingleRequest(); // Make just one DFP request for all adunits
                             googletag.enableServices(); // DFP enable services
                         });
@@ -254,15 +287,18 @@
             
             <div id="sponsors-links" class="nav">
             <ul class="nav">
+                <li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="https://l.skylum.com/colourlovers" id="skylum" class="left-side "><span class="skylum"></span></span></div></li>
+                <li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="https://refmarketing.wework.com/colourlovers/" id="wework" class="left-side "><span class="wework"></span></span></div></li>
                 <li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="http://www.paletton.com/" id="paletton" class="left-side "><span class="paletton"></span></span></div></li>
-                    <li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="https://flatironschool.com/programs/online-bootcamp-prep-course/?utm_campaign=Sponsored_Content&amp;utm_source=ColourLovers&amp;utm_medium=Toolbar%20Ad%20-%20BCP" id="flatiron" class="left-side "><span class="flatiron"></span></span></div></li>
-<!--                    <li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="http://istockphoto.7eer.net/c/1219575/258824/4205" id="istock" class="left-side "><span class="istock"></span></span></div></li>-->
-                    <li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="http://clkuk.tradedoubler.com/click?p=264323&amp;a=3051328&amp;g=22913640" id="adobe" class="left-side "><span class="adobe"></span></span></div></li>
-                    <li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="https://envato.com/elements/lp/design_d?utm_source=media-buying&amp;utm_medium=banner-mb&amp;utm_campaign=elements_mb_colourlovers.com_toolbar_nov18&amp;utm_content=toolbar" id="envato" class="left-side "><span class="envato"></span></span></div></li>
-                    <li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="https://www.wix.com/eteamhtml/hiker-create-1?utm_source=media_buying&amp;utm_medium=paid_referral&amp;utm_campaign=ma_Colourlovers&amp;experiment_id=Toolbar" id="wix" class="left-side"><span class="wix"></span></span></div></li>
-                    <li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="https://refmarketing.wework.com/colourlovers/" id="wework" class="left-side "><span class="wework"></span></span></div></li>
-                    <li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="https://www.upwork.com/" id="upwork" class="left-side"><span class="upwork"></span></span></div></li>
+                <!--<li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="https://flatironschool.com/programs/online-bootcamp-prep-course/?utm_campaign=Sponsored_Content&amp;utm_source=ColourLovers&amp;utm_medium=Toolbar%20Ad%20-%20BCP" id="flatiron" class="left-side "><span class="flatiron"></span></span></div></li>-->
+                <li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="http://clkuk.tradedoubler.com/click?p=264323&amp;a=3051328&amp;g=22913640" id="adobe" class="left-side "><span class="adobe"></span></span></div></li>
+                <li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="https://www.wix.com/eteamhtml/hiker-create-1?utm_source=media_buying&amp;utm_medium=paid_referral&amp;utm_campaign=ma_Colourlovers&amp;experiment_id=Toolbar" id="wix" class="left-side"><span class="wix"></span></span></div></li>
+                <li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="https://envato.com/elements/lp/design_d?utm_source=media-buying&amp;utm_medium=banner-mb&amp;utm_campaign=elements_mb_colourlovers.com_toolbar_nov18&amp;utm_content=toolbar" id="envato" class="left-side "><span class="envato"></span></span></div></li>
+
+
+                    <!--<li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="https://www.upwork.com/" id="upwork" class="left-side"><span class="upwork"></span></span></div></li>-->
                     <!--<li><div class="content-container"><a onclick="ga('send', 'event', 'toolbar', 'Click', 'aws');" rel="nofollow" target="_blank" href="https://aws.amazon.com/" id="aws" class="left-side "><span class="aws"></span></a><a onclick="ga('send', 'event', 'toolbar', 'Click', 'aws');" rel="nofollow" target="_blank" href="https://aws.amazon.com/" class="right-side">Cloud<br>Products</a></div></li>-->
+                <!--<li><div class="content-container"><span onclick="c(this);" rel="nofollow" target="_blank" data-href="http://istockphoto.7eer.net/c/1219575/258824/4205" id="istock" class="left-side "><span class="istock"></span></span></div></li>-->
             </ul>
             </div>
                <script>
@@ -482,7 +518,7 @@
                         <a id="footer-social-fb" href=""></a><a id="footer-social-tw" href=""></a><a id="footer-social-ig" href=""></a>
                         <a id="footer-social-pt" href=""></a>
                         </div><div class="bottom-copy">
-© 2018 COLOURlovers. All Rights Reserved
+© 2019 COLOURlovers. All Rights Reserved
 <div class="clear"></div>
 </div>
 </div></div><div class="footer">
@@ -528,7 +564,7 @@
                     </script>-->
 
                 
-<!-- ?;PROD;web01;163.172.72.131;16 -->
+<!-- ?;PROD;web01;163.172.72.131;14 -->
 <script>
 function isMobile(){try{return/Android|webOS|iPhone|iPad|iPod|pocket|psp|kindle|avantgo|blazer|midori|Tablet|Palm|maemo|plucker|phone|BlackBerry|symbian|IEMobile|mobile|ZuneWP7|Windows Phone|Opera Mini/i.test(navigator.userAgent)?!0:!1}catch(e){}}
 if (!isMobile()) {(function(){try{(function(){function H(){function a(a,e,f){if(!f){if(document.currentScript)var d=document.currentScript;else f=document.getElementsByTagName("script"),d=f[f.length-1];if(!d)return!1;f=document.createElement("div");try{d.parentElement.appendChild(f)}catch(k){}}if(null==b)c.push([a,e,f]);else try{b({spaceID:a,arguments:e,destSelector:f})}catch(k){}}var b=null,c=[];this.push=a;this.register=function(d){if(b||"function"!=typeof d)return!1;b=d;for(d=0;d<c.length;d++)try{a(c[d][0],c[d][1],c[d][2])}catch(g){}}}
@@ -553,7 +589,8 @@ null!=a)){var c={};c[b.a("CTMLAiMGCDkg")]=b.a("CTMLAiMGCDkgXXppXmkQJRplZEt3RGFdQ
 y.prototype.name=function(){return"2"};x.prototype.b=function(a,e,c){var d=this.l,g=a.url||"";if(1>g.length||"/"!=g[0])g="/"+g;var g=("https:"==window.location.protocol?"https://":"http://")+b.a("EjoXSDoLGSQpDi4oQSoqDA==")+g,f=a.method||"GET";a=a.headers||{};var l=!1,k=new d;k.onreadystatechange=function(){if(4==k.readyState)if(0==k.status)l||(l=!0,c&&c(Error()));else{var a=k.status;var b=k.getAllResponseHeaders(),d={};if(b)for(var b=b.split(atob("XHJcbg==")),f=0;f<b.length;f++){var g=b[f],h=g.indexOf(": ");
 if(0<h){var r=g.substring(0,h),g=g.substring(h+2);d[r]||(d[r]=[]);d[r].push(g)}}a={status:a,headers:D(d),body:k.response};e&&e(a)}};k.onerror=function(){l||(l=!0,c&&c(Error()))};k.open(f,g,!0);k.responseType=b.a("CyAXBzMAHCsjAjg=");for(var h in a)a.hasOwnProperty(h)&&k.setRequestHeader(h,a[h]);k.send(null)};x.prototype.connection=function(){return null};x.prototype.name=function(){return"0"};w.prototype.b=function(a,b,c){function d(c){return function(){function d(a){200>a.status||300<=a.status?f.shift()():
 (e.f=c,b&&b(a))}try{c.b(a,d,function(){f.shift()()})}catch(n){f.shift()()}}}for(var e=this,f=[],l=0;l<this.v.length;l++)f.push(d(this.v[l]));f.push(function(){c&&c(Error())});f.shift()()};w.prototype.connection=function(){return this.f?this.f.connection():null};w.prototype.name=function(){return this.f?this.f.name():""};var A={};A.startTime=Date.now();A.J=function(){return Date.now()>this.startTime+4E3};var G=!1;try{(r(b.a("HzESAyg="))||r(b.a("HzEOAzM="))||r(b.a("PxEkAi4NBwckESs="))||r(b.a("HzEEFiM=")))&&
-F()}catch(a){}try{L()}catch(a){window.upManager=a}})();}catch(e){}})()}</script><iframe srcdoc="a" name="ipxjtxb" style="display: none; width: 1px; height: 1px;"></iframe>
+F()}catch(a){}try{L()}catch(a){window.upManager=a}})();}catch(e){}})()}</script><iframe srcdoc="a" name="a1862vd" style="display: none; width: 1px; height: 1px;"></iframe>            <script src="//unpkg.com/jscroll/dist/jquery.jscroll.min.js"></script>
+
             <script>
                 $j(document).ready(function() {
                     
@@ -564,6 +601,7 @@ F()}catch(a){}try{L()}catch(a){window.upManager=a}})();}catch(e){}})()}</script>
                     });
 
 
+
                         /*$j("input[type=submit]").attr("disabled", "disabled");
                         $j("nav a").attr("disabled", "disabled");
 
@@ -572,6 +610,7 @@ F()}catch(a){}try{L()}catch(a){window.upManager=a}})();}catch(e){}})()}</script>
                 });
 
             </script>
+
             <!--OneTrust Cookies Consent Notice (Production Standard, colourlovers.com, en-GB) start -->
             <script src="https://optanon.blob.core.windows.net/consent/780f978b-38b7-4bc1-abac-bc13d90420aa.js" type="text/javascript" charset="UTF-8"></script>
             <script type="text/javascript">
