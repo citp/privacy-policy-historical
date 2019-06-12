@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228094223id_/https%3A//www.usda.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usda.gov privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612153559id_/https%3A//www.usda.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | USDA
 
@@ -85,4 +85,4 @@ Please note that these third-party services supplement USDA's traditional commun
 
 The purpose of the USDA's new media communication forums, such as USDA blogs, collaborative tools, and other sites, is to share news and information regarding the activities, policies, and programs of USDA and its employees. We encourage discussion and comments on posts. Your insights are important to ensure Americans nationwide are informed and can be a part of the USDA's work, every day.
 
-If you have any comments or questions about the information presented here, please forward your concerns to the USDA Chief Privacy Officer, Dr. Marj Leaming at [Marj.Leaming@ocio.usda.gov](mailto:Marj.Leaming@ocio.usda.gov) or [USDAPrivacy@ocio.usda.gov](mailto:USDAPrivacy@ocio.usda.gov).
+If you have any comments or questions about the information presented here, please forward your concerns to the USDA Privacy Mailbox at [usdaprivacy@usda.gov](mailto:usdaprivacy@usda.gov).
