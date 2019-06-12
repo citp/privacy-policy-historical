@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the counterpath.net privacy policy that was archived on 2018-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180523063900id_/http%3A//www.counterpath.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the counterpath.net privacy policy that was archived on 2019-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190612021846id_/https%3A//www.counterpath.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html class=" async-hide"><head>
 	<title>Privacy Policy | CounterPath</title>
-    <base href="http://www.counterpath.com/">
+    <base href="https://www.counterpath.com/">
 	<meta name="viewport" content="initial-scale=1.0, width=device-width">
 	<meta name="description" content="Privacy policy for users of the site.">
 	<link type="text/css" rel="stylesheet" href="assets/css/styles.css">
@@ -15,7 +15,30 @@
 	<script type="text/javascript" src="assets/js/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
 	<script type="text/javascript" src="assets/js/additional-methods.min.js"></script>
-	<!-- *****************************************************************************
+	<script>
+window.page_url = window.location.href;
+
+if (window.page_url.indexOf("?") >= 0) window.page_url = window.page_url.split("?")[0];
+if (window.page_url.indexOf("#") >= 0) window.page_url = window.page_url.split("#")[0];
+if ( window.page_url.substring(window.page_url.length -1) != "/") window.page_url += "/";
+
+$(document).ready(function() {
+	$(`link[rel="canonical"]`).each(function() { $(this).remove(); });
+	$(`<link rel="canonical" href="` + window.page_url + `">`).prependTo("head");
+});
+
+</script>
+<style>
+/* fix page jumping offset */
+:target:before {
+    content:"";
+    display:block;
+    height: 140px; /* fixed header height*/
+    margin:-140px 0 0; /* negative fixed header height */
+}
+</style>
+
+<!-- *****************************************************************************
      *  OLD ga.js REPLACED FOR analytics.js THEN REPLACED TO Google Tag Manager  *
      *****************************************************************************
 <script src="//www.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -118,6 +141,14 @@ function generateCustom() {
 }
 </script>
 
+<!-- Page hiding snippet (recommended) -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>
+(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);
+})(window,document.documentElement,'async-hide','dataLayer',4000,{'GTM-P4GN546':true});
+</script>
 
 <!-- Add this as the last item inside of the HEAD tag -->
 <!-- Requires jQuery -->
@@ -252,54 +283,7 @@ piCId = '1089';
 </head>
 
 <body>
-	
-	<div id="store_header"><!-- Start Store Header -->
-		<div id="store_header_wrapper"><!-- Start Store Header Wrapper -->
-			<div id="store_header_expanded">
-				<a href="https://secure.counterpath.com/Store/CounterPath/Default.aspx">
-				<h6>Visit The <span>CounterPath</span> Store</h6>
-				</a>
-				<img src="/assets/images/general/./store_bria5.png" alt="CounterPath Store">
-				
-				<div id="product_purchase" style="margin-top: 20px;"><!-- Start Product Purchase -->
-					<div id="os_select1" style="padding: 0px;">
-						<h2><span>Buy</span> - CounterPath Bria</h2>
-<p>for Windows, Mac and iOS/Android Devices</p>
-					</div>
-					
-					<div id="os_select2">
-						<h2 class="os_buy_mac">Interested in buying Bria for your Macintosh?</h2>
-						<h2 class="os_buy_windows">Interested in buying Bria for Windows?</h2>
-						<h2 class="os_buy_android">Buy Bria for your Android device</h2>
-						<h2 class="os_buy_ios">Buy Bria for your iPad/iPhone</h2>
-						<p style="overflow: hidden;">
-							<a class="os_buy_mac store_banner_buy_button store_banner_buy_btn" href="https://secure.counterpath.com/Store/CounterPath/ProductInfo.aspx?ProductId=333">Buy Now</a>
-							<a class="os_buy_windows store_banner_buy_button store_banner_buy_btn" href="https://secure.counterpath.com/Store/CounterPath/ProductInfo.aspx?ProductId=333">Buy Now</a>
-							<a class="os_buy_android store_banner_buy_button store_banner_buy_btn" href="https://play.google.com/store/apps/details?id=com.counterpath.bria">Buy Now</a>
-							<a class="os_buy_ios store_banner_buy_button store_banner_buy_btn" href="https://itunes.apple.com/app/id1236194368">Buy Now</a>
-							<a href="https://itunes.apple.com/app/id1236194368" style="display: inline !important;"><img src="assets/images/logos/app-store-badge.png" class="store_banner_app_badge" id="app_badge_apple"></a>
-							<a href="https://play.google.com/store/apps/details?id=com.counterpath.bria" style="display: inline !important;"><img src="assets/images/logos/google-play-badge.png" class="store_banner_app_badge" id="app_badge_google"></a>
-						</p>
-					</div>
-
-				</div><!-- End Product Purchase -->
-				
-			</div>
-			
-			<div id="store_header_collapsed">
-				<div id="store_header_collapsed_container">
-					<img src="/assets/images/general/./store_topper_small.png" alt="CounterPath Store">
-					<a href="https://secure.counterpath.com/Store/CounterPath/Default.aspx"><h6>Visit The <span>CounterPath</span> Store</h6></a>
-				</div>
-				
-			</div>
-			
-			<a id="store_collapse" href="##" class="">collapse</a><!-- Store Collapse -->
-			
-			<div class="clear"></div>
-		</div><!-- End Store Header Wrapper -->
-	</div><!-- End Store Header -->
-
+	<!-- [ [ $cp_area_store_banner ] ] -->
 	
 	<div id="header_wrapper"><!-- Start Header Wrapper -->
 		<div id="login_cart"><!-- Start Login Cart -->
@@ -325,7 +309,7 @@ piCId = '1089';
 <li><span class="responsive_exp_col">+</span><a href="solutions/" class="open_rich_nav" rel="solutions_rich_nav" title="Solutions">Solutions</a></li>
 <li><span class="responsive_exp_col">+</span><a href="partners/" class="open_rich_nav" rel="partners_rich_nav" title="Partners">Partners</a></li>
 <li><span class="responsive_exp_col">+</span><a href="https://blog.counterpath.com" class="open_rich_nav" rel="blog_rich_nav" title="Blog" onclick="window.location.href=this.href;">Blog</a></li>
-<li><span class="responsive_exp_col">+</span><a href="support/" class="open_rich_nav" rel="support_rich_nav" title="Support">Support</a></li>
+<li><span class="responsive_exp_col">+</span><a href="https://support.counterpath.com/hc/en-us" class="open_rich_nav" rel="support_rich_nav" title="Support">Support</a></li>
 
 	<li><a id="store_link" href="https://secure.counterpath.com/Store/CounterPath/Default.aspx">Store</a></li>
 	<li class="sales_request_main_nav"><a href="/sales-request-form/" class="open_rich_nav">Sales Request Form</a></li>
@@ -382,8 +366,15 @@ piCId = '1089';
 					
 				</li>
 
-				<li class="last">
+				<li>
 					<a href="bria-for-salesforce/" title="Bria for Salesforce®">Bria for Salesforce®
+						<span></span>
+					</a>
+					
+				</li>
+
+				<li class="last">
+					<a href="x-lite/" title="X-Lite">X-Lite
 						<span></span>
 					</a>
 					
@@ -392,7 +383,7 @@ piCId = '1089';
 </ul>
 				</li>
 			
-				<li>
+				<li class="last">
 			
 					<a href="softphone-apps/" title="Bria Mobile">Bria Mobile</a>
 					
@@ -414,71 +405,46 @@ piCId = '1089';
 
 </ul>
 				</li>
-			
-				<li class="last">
-			
-					<a href="client-addins/" title="Client Add-Ins">Client Add-Ins</a>
-					
-<ul>
-
-				<li class="first">
-					<a href="screen-share-add-in/" title="Screen Share Add-In">Screen Share Add-In
-						<span></span>
-					</a>
-					
-				</li>
 
 </ul>
 				</li>
 
-</ul>
+				<li>
+					<a href="https://www.softphone.com/" title="Bria Teams">Bria Teams
+						<span>Free Trial</span>
+					</a>
+					
 				</li>
 			
 				<li>
 			
-					<a href="x-lite/" title="X-Lite">X-Lite</a>
+					<a href="stretto-platform/" title="Stretto Platform">Stretto Platform™</a>
 					
 <ul>
 
 				<li class="first">
-					<a href="x-lite-download/" title="X-Lite Overview">Download
-						<span></span>
-					</a>
-					
-				</li>
-
-</ul>
-				</li>
-			
-				<li>
-			
-					<a href="new-stretto/" title="Stretto Platform">Stretto Platform™</a>
-					
-<ul>
-
-				<li class="first">
-					<a href="new-stretto/?tab=collaboration#details" title="Collaboration">Collaboration
+					<a href="stretto-platform/?tab=management_tools#details" title="Management Tools">Management Tools
 						<span></span>
 					</a>
 					
 				</li>
 
 				<li>
-					<a href="new-stretto/?tab=management_tools#details" title="Management Tools">Management Tools
+					<a href="stretto-platform/?tab=messaging_solutions#details" title="Messaging">Messaging
 						<span></span>
 					</a>
 					
 				</li>
 
 				<li>
-					<a href="new-stretto/?tab=mobility#details" title="Mobility">Mobility
+					<a href="stretto-platform/?tab=collaboration#details" title="Collaboration">Collaboration
 						<span></span>
 					</a>
 					
 				</li>
 
 				<li class="last">
-					<a href="new-stretto/?tab=messaging#details" title="Messaging">Messaging
+					<a href="stretto-platform/?tab=mobility#details" title="Mobility">Mobility
 						<span></span>
 					</a>
 					
@@ -534,26 +500,26 @@ piCId = '1089';
 			
 				<li class="first">
 			
-					<a href="enterprise-ott/" title="Enterprise OTT">Enterprise OTT</a>
+					<a href="user-experience/" title="User Experience">User Experience</a>
 					
 <ul>
 
 				<li class="first">
-					<a href="broadworks-feature-pack/" title="BroadWorks Feature Pack">BroadWorks Feature Pack
-						<span>BroadWorks Feature Pack</span>
+					<a href="branding/" title="Branding">Branding
+						<span></span>
 					</a>
 					
 				</li>
 
 				<li>
-					<a href="call-centre/" title="Call Center">Call Centre
+					<a href="customization/" title="Customization">Customization
 						<span></span>
 					</a>
 					
 				</li>
 
 				<li class="last">
-					<a href="bria-for-salesforce/" title="Bria for Salesforce">Bria for Salesforce®
+					<a href="stretto-platform/?tab=Management_Tools#details" title="Help Desk &amp; Analytics">Help Desk &amp; Analytics
 						<span></span>
 					</a>
 					
@@ -587,26 +553,33 @@ piCId = '1089';
 			
 				<li>
 			
-					<a href="user-experience/" title="User Experience">User Experience</a>
+					<a href="enterprise-uc-software/" title="Enterprise UC">Enterprise UC</a>
 					
 <ul>
 
 				<li class="first">
-					<a href="branding/" title="Branding">Branding
-						<span></span>
+					<a href="broadworks-feature-pack/" title="BroadWorks Feature Pack">BroadWorks Feature Pack
+						<span>BroadWorks Feature Pack</span>
 					</a>
 					
 				</li>
 
 				<li>
-					<a href="customization/" title="Customization">Customization
-						<span></span>
+					<a href="skype-for-business-feature-pack/" title="Skype for Business Feature Pack">Skype for Business Feature Pack
+						<span>Skype for Business Feature Pack</span>
+					</a>
+					
+				</li>
+
+				<li>
+					<a href="call-centre/" title="#1 Call Centre Telephone System: Bria">Call Centre Telephone Systems
+						<span>#1 Call Centre Telephone System: Bria</span>
 					</a>
 					
 				</li>
 
 				<li class="last">
-					<a href="stretto/?tab=Management_Tools" title="Help Desk &amp; Analytics">Help Desk &amp; Analytics
+					<a href="bria-for-salesforce/" title="Bria for Salesforce">Bria for Salesforce®
 						<span></span>
 					</a>
 					
@@ -622,21 +595,14 @@ piCId = '1089';
 <ul>
 
 				<li class="first">
-					<a href="new-stretto/?tab=messaging#details" title="Messaging and Presence">Messaging and Presence
-						<span></span>
-					</a>
-					
-				</li>
-
-				<li>
-					<a href="new-stretto/?tab=messaging#details" title="SMS Over IP">SMS Over IP
+					<a href="stretto-platform/?tab=messaging_solutions#details" title="Messaging and Presence">Messaging and Presence
 						<span></span>
 					</a>
 					
 				</li>
 
 				<li class="last">
-					<a href="screen-share-add-in/" title="Screen Share Add-In">Screen Share Add-In
+					<a href="stretto-platform/?tab=messaging_solutions#details" title="SMS Over IP">SMS Over IP
 						<span></span>
 					</a>
 					
@@ -649,14 +615,14 @@ piCId = '1089';
 				</li>
 
 				<li>
-					<a href="operator-solutions/" title="Operator Solutions">Operator Solutions
+					<a href="operator-solutions/" title="Service Provider Solutions">Service Provider Solutions
 						<span>Stay competitive in the new communication landscape</span>
 					</a>
 					
 				</li>
 
 				<li>
-					<a href="cloud-solutions/" title="Cloud Solutions">Cloud Solutions
+					<a href="bria-stretto/" title="Bria Stretto™ Solutions">Bria Stretto™ Solutions
 						<span>Deploy a cost effective system for distributing, provisioning and managing Bria clients in the cloud</span>
 					</a>
 					
@@ -751,7 +717,7 @@ piCId = '1089';
 <ul class="sub_nav"><!-- Start Sub Nav -->
 
 				<li class="first">
-					<a href="support/" title="Technical Support">Technical Support
+					<a href="https://support.counterpath.com/hc/en-us" title="Technical Support">Technical Support
 						<span>Search the technical support knowledge base</span>
 					</a>
 					
@@ -796,7 +762,7 @@ piCId = '1089';
 	<div class="subpage_breadcrumb" style="position: relative;">
 		<a name="details" style="margin-top: -121px; display: block; position: absolute; top: 0; left: 0"></a>
 		<div class="subpage_breadcrumb_container">
-			<a href="http://www.counterpath.com/">Home</a><span>»</span><a href="miscellaneous/">Utility Pages</a><span>»</span><a href="copyright-links/">Copyright Links</a><span>»</span>Privacy Policy
+			<a href="https://www.counterpath.com/">Home</a><span>»</span><a href="miscellaneous/">Utility Pages</a><span>»</span><a href="copyright-links/">Copyright Links</a><span>»</span>Privacy Policy
 		</div>
 	</div>
 	<div class="subpage_section no_marquee">
@@ -862,23 +828,29 @@ piCId = '1089';
 
 						
 <li>
-	<a href="bria/" title="Bria 5">Bria 5</a>
+	<a href="bria/" title="Bria for Desktop">Bria for Desktop</a>
 </li>
+
 <li>
-	<a href="ios-sip-softphone/" title="Bria iPhone Edition">Bria iPhone Edition</a>
+	<a href="ios-sip-softphone/" title="Bria Mobile for iOS">Bria Mobile for iOS</a>
 </li>
+
 <li>
-	<a href="android-sip-softphone/" title="Bria Android Edition">Bria Android Edition</a>
+	<a href="android-sip-softphone/" title="Bria Mobile for Android">Bria Mobile for Android</a>
 </li>
+
 <li>
 	<a href="sdk/" title="Softphone SDK">Softphone SDK</a>
 </li>
+
 <li>
 	<a href="bria-desktop-api/" title="Bria Desktop API">Bria Desktop API</a>
 </li>
+
 <li>
-	<a href="stretto/" title="Stretto Platform">Stretto Platform</a>
+	<a href="stretto-platform/" title="Stretto Platform">Stretto Platform</a>
 </li>
+
 
 
 					</ul>
@@ -893,15 +865,23 @@ piCId = '1089';
 <li>
 	<a href="enterprise-solutions/" title="Enterprise Solutions">Enterprise Solutions</a>
 </li>
+
 <li>
-	<a href="operator-solutions/" title="Operator Solutions">Operator Solutions</a>
+	<a href="operator-solutions/" title="Service Provider Solutions">Service Provider Solutions</a>
 </li>
+
 <li>
-	<a href="cloud-solutions/" title="Cloud Solutions">Cloud Solutions</a>
+	<a href="bria-stretto/" title="Bria Stretto Solutions">Bria Stretto Solutions</a>
 </li>
+
 <li>
 	<a href="resource-library/" title="Resource Library">Resource Library</a>
 </li>
+
+<li>
+	<a href="call-centre/" title="Call Centre Telephone Systems">Call Centre Telephone Systems</a>
+</li>
+
 
 
 					</ul>
@@ -914,20 +894,25 @@ piCId = '1089';
 
 						
 <li>
-	<a href="technology-partner-program/" title="Technology Partner Program">Technology Partner Program</a>
-</li>
-<li>
 	<a href="itsp-partner-program/" title="ITSP Partner Program">ITSP Partner Program</a>
 </li>
+
 <li>
 	<a href="channel-partner-program/" title="Channel Partner Program">Channel Partner Program</a>
 </li>
+
 <li>
 	<a href="partner-showcase/" title="Partner Showcase">Partner Showcase</a>
 </li>
+
+<li>
+	<a href="technology-partner-program/" title="Technology Partner Program">Technology Partner Program</a>
+</li>
+
 <li>
 	<a href="bria-android-self-certification-program/" title="Bria Android Self Cert Program">Bria Android Self Cert Program</a>
 </li>
+
 
 
 					</ul>
@@ -942,41 +927,54 @@ piCId = '1089';
 <li>
 	<a href="company/" title="About Us">About Us</a>
 </li>
+
 <li>
 	<a href="executive-team/" title="Executive Team">Executive Team</a>
 </li>
+
 <li>
 	<a href="investors/" title="Investors">Investors</a>
 </li>
+
 <li>
 	<a href="news/" title="News &amp; Events">News &amp; Events</a>
 </li>
+
 <li>
-	<a href="http://blog.counterpath.com" title="Blog">Blog</a>
+	<a href="https://blog.counterpath.com" title="Blog">Blog</a>
 </li>
+
+<li>
+	<a href="careers/" title="Careers">Careers</a>
+</li>
+
 <li>
 	<a href="contact-us/" title="Contact Us">Contact Us</a>
 </li>
+
 
 
 					</ul>
 
 				</div><!-- End Footer Boxes -->				<!-- Bottom container menu for Support-->
 				<div class="footer_boxes"><!-- Start Footer Boxes -->
-					<h5><a href="/support/">Support</a></h5>
+					<h5><a href="https://support.counterpath.com/hc/en-us">Support</a></h5>
 
 					<ul class="footer_menu">
 
 						
 <li>
-	<a href="/support/" title="Technical Support">Technical Support</a>
+	<a href="https://support.counterpath.com/hc/en-us" title="Technical Support">Technical Support</a>
 </li>
+
 <li>
 	<a href="/store-faq/" title="Store FAQ">Store FAQ</a>
 </li>
+
 <li>
 	<a href="/professional-services/" title="Professional Services">Professional Services</a>
 </li>
+
 
 
 					</ul>
@@ -1004,7 +1002,7 @@ piCId = '1089';
 	<dd><a class="soc_rss" href="feed/" target="_blank"></a></dd>
 
 
-	<dd><a class="soc_news" href="http://blog.counterpath.com/" target="_blank"></a></dd>
+	<dd><a class="soc_news" href="https://blog.counterpath.com/" target="_blank"></a></dd>
 
 <dd><a class="soc_subscribe" href="/news-subscription/"></a></dd>
 
@@ -1012,7 +1010,7 @@ piCId = '1089';
 
 			
 			<div id="copyright"><!-- Start Copyright -->
-				<p>© 2018 CounterPath. All rights reserved. </p><dl id="final"><!-- Start Final Links -->
+				<p>© 2019 CounterPath. All rights reserved. </p><dl id="final"><!-- Start Final Links -->
         <dt class="first"><a href="terms/" title="Terms of Use">Terms of Use</a></dt>
 <dt class="active"><a href="privacy/" title="Privacy Policy">Privacy Policy</a></dt>
 <dt><a href="sitemap/" title="Sitemap">Sitemap</a></dt>
