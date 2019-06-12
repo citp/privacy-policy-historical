@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapstuff.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209233225id_/http%3A//www.cheapstuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapstuff.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612163705id_/http%3A//www.cheapstuff.com/privacy) for the most accurate reproduction.*
 
 # Buy Cheap Stuff For Sale Online - Quality Goods.Low Prices
 
