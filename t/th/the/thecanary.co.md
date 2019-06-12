@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecanary.co privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203022459id_/https%3A//www.thecanary.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecanary.co privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612205750id_/https%3A//www.thecanary.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Canary
 
@@ -116,7 +116,7 @@ Your rights as they relate to the data we hold about you:
 
 
 
-If you would like access to or a copy of the personal information we hold about you, to request a correction, or have any questions about how we may use it or to make a complaint, please contact the Data Protection Manager at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b6d2d7c2d7c6c4d9c2d3d5c2dfd9d8f6c2ded3d5d7d8d7c4cf98d5d9).
+If you would like access to or a copy of the personal information we hold about you, to request a correction, or have any questions about how we may use it or to make a complaint, please contact the Data Protection Manager at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b4d0d5c0d5c4c6dbc0d1d7c0dddbdaf4c0dcd1d7d5dad5c6cd9ad7db).
 
 Complaints will be dealt with by the Data Protection Manager, and will be responded to within 30 days at the latest.
 
