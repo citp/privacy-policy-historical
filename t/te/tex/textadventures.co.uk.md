@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textadventures.co.uk privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122164740id_/http%3A//textadventures.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textadventures.co.uk privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612132319id_/http%3A//textadventures.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - textadventures.co.uk
 
