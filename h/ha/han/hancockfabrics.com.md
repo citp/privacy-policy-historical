@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockfabrics.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102055236id_/https%3A//www.michaels.com/your-privacy-rights/ca-your-privacy-rights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockfabrics.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612231801id_/https%3A//www.michaels.com/your-privacy-rights/ca-your-privacy-rights.html) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
