@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marineengine.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606055657id_/http%3A//www.marineengine.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marineengine.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612215637id_/http%3A//www.marineengine.com/privacy_policy.html) for the most accurate reproduction.*
 
 # MarineEngine.com Privacy Policy
 
@@ -84,5 +84,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 184 Jones Drive  
 Brandon, Vermont 05733 USA  
 [http://www.marineengine.com](https://web.archive.org/)  
-info@marineengine.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 (802) 247-4700 
