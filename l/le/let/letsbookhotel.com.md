@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsbookhotel.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712161629id_/https%3A//www.letsbookhotel.com/en/page/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsbookhotel.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612202609id_/http%3A//www.letsbookhotel.com/en/page/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Lets Book Hotel
 
