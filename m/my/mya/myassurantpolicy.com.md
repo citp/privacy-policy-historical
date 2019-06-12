@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myassurantpolicy.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211203408id_/http%3A//www.assurantspecialtyproperty.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myassurantpolicy.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612215903id_/http%3A//www.assurantspecialtyproperty.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Assurant
 
