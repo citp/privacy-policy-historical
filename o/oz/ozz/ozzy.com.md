@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the ozzy.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231000507id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozzy.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612072215id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sony Music
 
-This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with your use of our websites, emails, and mobile applications (“Site” or “Sites”).  Sony Music Entertainment (“Sony Music”) is a wholly owned subsidiary of Sony Corporation of America. Information collected on this Site may be used in the manner described below by Sony Music Entertainment, our labels, agents, subsidiaries, trusted partners and affiliates acting on our behalf (collectively, “Sony Music”). When used herein, the terms “we”, “us” and “our” refer to Sony Music.
-
-When this Privacy Policy uses the term “personal information,” we mean information that identifies a particular individual, such as full name, street address, telephone number or email address.
-
-Sony Music has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. Please note that TRUSTe provides this service only for information that is collected through Sony Music websites and does not cover information that may be collected through our mobile applications. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with your use of our websites, emails, and mobile applications (“Site” or “Sites”).  Sony Music Entertainment (“Sony Music”) is a wholly owned subsidiary of Sony Corporation of America. Information collected on this Site may be used in the manner described below by Sony Music Entertainment, our labels, agents, subsidiaries, trusted partners and affiliates acting on our behalf (collectively, “Sony Music”). When used herein, the terms “we”, “us” and “our” refer to Sony Music.When this Privacy Policy uses the term “personal information,” we mean information that identifies a particular individual, such as full name, street address, telephone number or email address.
 
 We encourage you to review the entire Privacy Policy. Please click on any of the links below to review that particular section.
 
@@ -166,5 +162,3 @@ Sony Music Entertainment 25 Madison Avenue, Room 22.401
 New York, NY 10010
 
 Or you can [click here](https://web.archive.org/feedback/) to submit feedback online.
-
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns TRUSTe provides this service only for information that is collected through Sony Music websites and does not cover information that may be collected through our mobile applications. 
