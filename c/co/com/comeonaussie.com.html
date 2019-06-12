@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comeonaussie.com privacy policy that was archived on 2018-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180620144920id_/http%3A//www.comeonaussie.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comeonaussie.com privacy policy that was archived on 2019-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190612163409id_/http%3A//www.comeonaussie.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -13,25 +13,110 @@
 <link rel="pingback" href="http://www.comeonaussie.net/xmlrpc.php">
 <link type="text/css" media="screen" rel="stylesheet" href="http://www.comeonaussie.net/wp-content/themes/coais-wpbs-hybrid-wide/bs/bootstrap.min.css">
 <style type="text/css" media="screen"><!-- @import url( http://www.comeonaussie.net/wp-content/themes/coais-wpbs-hybrid-wide/style.css ); --></style>
-<link rel="dns-prefetch" href="//s.w.org">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.comeonaussie.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=2297ba54fbb8f861f5db1b5000299277"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.comeonaussie.net/wp-includes/js/wp-emoji-release.min.js?ver=2297ba54fbb8f861f5db1b5000299277" type="text/javascript" defer=""></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
+
+	<style>
+		.wpcf7-submit{
+			display:none;
+		}
+		.recaptcha-btn{
+			display:block;
+		}
+		.grecaptcha-badge {display: none;} 
+	</style>
+	<script type="text/javascript">
+		var contactform = [];
+		var checkIfCalled = true;
+		var renderGoogleInvisibleRecaptchaFront = function() {
+			// prevent form submit from enter key
+			jQuery("input[name=_wpcf7]").attr("class","formid");
+				jQuery('.wpcf7-form').on('keyup keypress', "input", function(e) {
+				  var keyCode = e.keyCode || e.which;
+				  if (keyCode === 13) {
+					e.preventDefault();
+					return false;
+				  }
+				});
+
+			jQuery('.wpcf7-submit').each(function(index){
+
+				var checkexclude = 0;
+				var form = jQuery(this).closest('.wpcf7-form');
+				var value = jQuery(form).find(".formid").val();
+				// check form exclude from invisible recaptcha
+								if(checkexclude == 0){
+					// Hide the form orig submit button
+					form.find('.wpcf7-submit').hide();
+
+					// Fetch class and value of orig submit button
+					btnClasses = form.find('.wpcf7-submit').attr('class');
+					btnValue = form.find('.wpcf7-submit').attr('value');
+
+					// Add custom button and recaptcha holder
+
+					form.find('.wpcf7-submit').after('<input type="button" id="wpcf-custom-btn-'+index+'" class="'+btnClasses+'  recaptcha-btn recaptcha-btn-type-css" value="'+btnValue+'" title="'+btnValue+'" >');
+					form.append('<div class="recaptcha-holder" id="recaptcha-holder-'+index+'"></div>');
+					// Recaptcha rendenr from here
+					var holderId = grecaptcha.render('recaptcha-holder-'+index,{
+								'sitekey':'6LeYTowUAAAAADaO53npHnXU8oUhG8-ZpurWyLvc',
+								'size': 'invisible',
+								'badge' : 'bottomright', // possible values: bottomright, bottomleft, inline
+								'callback' : function (recaptchaToken) {
+									//console.log(recaptchaToken);
+									var response=jQuery('#recaptcha-holder-'+index).find('.g-recaptcha-response').val();
+									//console.log(response);
+									//Remove old response and store new respone
+									jQuery('#recaptcha-holder-'+index).parent().find(".respose_post").remove();
+									jQuery('#recaptcha-holder-'+index).after('<input type="hidden" name="g-recaptcha-response"  value="'+response+'" class="respose_post">')
+									grecaptcha.reset(holderId);
+
+									if(typeof customCF7Validator !== 'undefined'){
+										if(!customCF7Validator(form)){
+											return;
+										}
+									}
+									// Call default Validator function
+									else if(contactFormDefaultValidator(form)){
+										return;
+									}
+									else{
+										// hide the custom button and show orig submit button again and submit the form
+										jQuery('#wpcf-custom-btn-'+index).hide();
+										form.find('input[type=submit]').show();
+										form.find("input[type=submit]").click();
+										form.find('input[type=submit]').hide();
+										jQuery('#wpcf-custom-btn-'+index).attr('style','');
+									}
+								}
+						},false);
+
+					// action call when click on custom button
+					jQuery('#wpcf-custom-btn-'+index).click(function(event){
+						event.preventDefault();
+						// Call custom validator function
+						if(typeof customCF7Validator == 'function'){
+							if(!customCF7Validator(form)){
+								return false;
+							}
+						}
+						// Call default Validator function
+						else if(contactFormDefaultValidator(form)){
+							return false;
+						}
+						else if(grecaptcha.getResponse(holderId) != ''){
+							grecaptcha.reset(holderId);
+						}
+						else{
+							// execute the recaptcha challenge
+							grecaptcha.execute(holderId);
+						}
+					});
+				}
+			});
+		}
+	</script><script src="https://www.google.com/recaptcha/api.js?onload=renderGoogleInvisibleRecaptchaFront&amp;render=explicit" async="" defer=""></script><link rel="stylesheet" id="contact-form-7-css" href="http://www.comeonaussie.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.comeonaussie.net/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://www.comeonaussie.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://www.comeonaussie.net/wp-content/plugins/cf7-invisible-recaptcha/js/cf7_invisible_recaptcha.js?ver=1.2.3"></script>
 <link rel="https://api.w.org/" href="http://www.comeonaussie.net/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.comeonaussie.net/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.comeonaussie.net/wp-includes/wlwmanifest.xml"> 
@@ -73,7 +158,7 @@ img.emoji {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//www.comeonaussie.net/?wordfence_lh=1&hid=612508E5CC43CC21F08BCD83498B580B');
+})('//www.comeonaussie.net/?wordfence_lh=1&hid=747D26DE56AD7220C63DE1BF530A0C55');
 </script></head>
 <body>
 <!-- begin header -->
@@ -128,6 +213,7 @@ img.emoji {
 	<div class="col-xs-12 col-sm-8">
 	<div id="navbarleft">
 		<ul id="wpnav">
+			<li class="page_item page-item-1"><a href="/">Home</a></li>
 			<li class="page_item page-item-71 page_item_has_children"><a href="http://www.comeonaussie.net/about/">About</a>
 <ul class="children">
 	<li class="page_item page-item-40"><a href="http://www.comeonaussie.net/about/our-network/">Our Network</a></li>
@@ -140,21 +226,26 @@ img.emoji {
 	<li class="page_item page-item-785 page_item_has_children"><a href="http://www.comeonaussie.net/services/website-design/">Website Design</a></li>
 	<li class="page_item page-item-118 page_item_has_children"><a href="http://www.comeonaussie.net/services/feature-your-business/">Feature Your Business</a></li>
 	<li class="page_item page-item-120 page_item_has_children"><a href="http://www.comeonaussie.net/services/internet-consultancy/">Internet Consultancy Services</a></li>
-	<li class="page_item page-item-146"><a href="http://www.comeonaussie.net/services/free-listings/">Free Listings</a></li>
+	<li class="page_item page-item-146"><a href="http://www.comeonaussie.net/services/directory-listings/">Directory Listings</a></li>
 	<li class="page_item page-item-87"><a href="http://www.comeonaussie.net/services/paid-inclusion/">Paid Inclusion</a></li>
 	<li class="page_item page-item-525"><a href="http://www.comeonaussie.net/services/rss-syndication-services/">RSS Syndication Services</a></li>
 </ul>
 </li>
 <li class="page_item page-item-492"><a href="http://www.comeonaussie.net/blog/">Blog</a></li>
-<li class="page_item page-item-31"><a href="http://www.comeonaussie.net/contact/">Contact</a></li>
+<li class="page_item page-item-1359"><a href="http://www.comeonaussie.net/sites/">Sites</a></li>
+<li class="page_item page-item-31 page_item_has_children"><a href="http://www.comeonaussie.net/contact/">Contact</a>
+<ul class="children">
+	<li class="page_item page-item-1403"><a href="http://www.comeonaussie.net/contact/how-can-i-help-you/">How Can I Help You?</a></li>
+</ul>
+</li>
 		</ul>
 	</div>
 	</div>
 	
 	<div class="col-xs-12 col-sm-4">
 	<div id="navbarright">
-		<center><form id="searchform" method="post" action="http://www.comeonaussie.com/cgi-bin/search_toolbar.cgi">
-		<input type="hidden" name="engine" value="coa"><input type="text" value="Search Australian Businesses..." name="query" id="query" onfocus="if (this.value == 'Search Australian Businesses...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search Australian Businesses...';}">
+		<center><form id="searchform" method="post" action="https://directory.coais.com/search/">
+		<input type="hidden" name="action" value="keysearch"><input type="text" value="Search Australian Businesses..." name="what" id="query" onfocus="if (this.value == 'Search Australian Businesses...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search Australian Businesses...';}">
 		<input type="submit" id="sbutt" value="GO"></form></center>
 	</div>
 	</div>
@@ -168,8 +259,8 @@ img.emoji {
 </div>
 <!-- end header -->
 
-<div id="wrap" class="container">
 
+<div id="wrap" class="container">
 <!-- start content -->
 <div id="content">
 <div class="row">
@@ -226,14 +317,14 @@ img.emoji {
 		<li id="recent-posts">
 		<h2>Recent Blog Items</h2>
 			<ul>
-					<li><a href="http://www.comeonaussie.net/australian-web-directories-in-2017-our-state-of-the-nation-report/">Australian Web Directories in 2017 – Our “State of the Nation” Report</a></li>
+					<li><a href="http://www.comeonaussie.net/shared-hosting-or-reseller-hosting-which-do-you-choose/">Shared Hosting or Reseller Hosting – Which Do You Choose?</a></li>
+	<li><a href="http://www.comeonaussie.net/my-new-year-purge-the-aftermath/">My New Year “Purge” – The Aftermath</a></li>
+	<li><a href="http://www.comeonaussie.net/australian-web-directories-in-2017-our-state-of-the-nation-report/">Australian Web Directories in 2017 – Our “State of the Nation” Report</a></li>
 	<li><a href="http://www.comeonaussie.net/https-runaround-changes-needed-asap/">HTTPS Runaround! Changes Needed ASAP</a></li>
 	<li><a href="http://www.comeonaussie.net/how-do-you-prevent-blatant-plagiarism/">How Do You Prevent Blatant Plagiarism?</a></li>
-	<li><a href="http://www.comeonaussie.net/how-to-improve-organic-results/">How to Improve on Your Organic Results</a></li>
-	<li><a href="http://www.comeonaussie.net/21-years-online-who-woulda-thought/">21 Years OnLine? Who Woulda Thought?</a></li>
 			<li><a href="/blog/"><b>More Blog Posts</b></a><br><br></li>
 
-			<li><a href="http://www.comeonaussie.net/sites/"><img src="http://www.comeonaussie.net/images/surf_aus.gif" style="vertical-align:middle;float:right;margin-left:5px" alt="Surf Australia First">Latest Aussie Websites</a><br><br></li>
+			<li><a href="https://directory.coais.com/"><img src="http://www.comeonaussie.net/images/surf_aus.gif" style="vertical-align:middle;float:right;margin-left:5px" alt="Surf Australia First">Latest Aussie Websites</a><br><br></li>
 
 			<li><a href="http://www.comeonaussie.net/why-come-on-aussie/"><b>Why Come On Aussie?</b></a><br clear="right"><br></li>
 			</ul>
@@ -243,32 +334,30 @@ img.emoji {
 		<li id="links">
 		<h2>Our Aussie Network</h2>
 			<ul>
-				<li><a href="http://www.advanceaustraliafair.com/" rel="me" title="Flying the Flag!" target="_blank">Advance Australia Fair</a> - Flying the Flag!</li>
-<li><a href="http://www.careersonline.com.au/" rel="me" title="Career &amp; Work Advice" target="_blank">Careers OnLine</a> - Career &amp; Work Advice</li>
-<li><a href="http://www.comeonaussie.com/" rel="me" title="Aussie Web Directory" target="_blank">Come On Aussie</a> - Aussie Web Directory</li>
+				<li><a href="http://www.advanceaustraliafair.com/" rel="me" title="Still flying that Flag!" target="_blank">Advance Australia Fair</a> - Still flying that Flag!</li>
+<li><a href="http://www.careersonline.com.au/" rel="me" title="Career &amp; Work Advice Since 1995" target="_blank">Careers OnLine</a> - Career &amp; Work Advice Since 1995</li>
+<li><a href="https://directory.coais.com/" rel="me" title="THE Aussie Web Directory" target="_blank">Come On Aussie Directory</a> - THE Aussie Web Directory</li>
 <li><a href="http://giveanaussieago.com/" rel="me" title="’nuff said!" target="_blank">Give An Aussie A Go</a> - ’nuff said!</li>
 <li><a href="http://www.jobseekersworkshop.com/" rel="me" target="_blank">Job Seekers Workshop</a></li>
 <li><a href="http://www.jobsplus.com.au/" rel="me" title="Australian Job Vacancies" target="_blank">Jobs PLUS</a> - Australian Job Vacancies</li>
 <li><a href="http://www.latestsites.com/" rel="me" title="Free Submit Your URL" target="_blank">Latest Sites</a> - Free Submit Your URL</li>
-<li><a href="http://onlinemarketingfundamentals.com/" rel="me" target="_blank">Online Marketing Fundamentals</a></li>
 <li><a href="http://www.ozsmallbiz.net/" rel="me" title="Small Business Help" target="_blank">OzSmallBiz</a> - Small Business Help</li>
-<li><a href="http://searchlocally.com.au" rel="me" title="NEW –  Local Web Search Redefined!" target="_blank">Search Locally</a> - NEW –  Local Web Search Redefined!</li>
+<li><a href="http://searchlocally.com.au" rel="me" title="Local Web Search… Redefined!" target="_blank">Search Locally</a> - Local Web Search… Redefined!</li>
 			</ul>
 		<br></li>
 
 		<li id="pages">
 		<h2>Our Mobile Sites</h2>
 			<ul>
-				<li><a href="http://m.comeonaussie.net">Come On Aussie</a></li>
-<li><a href="http://mobile.comeonaussie.com" title="this site">Aussie Website Directory</a></li>
+				<li><a href="http://m.comeonaussie.net" title="Simple Mobile Website">Come On Aussie Internet</a> - Simple Mobile Website</li>
 			</ul>
 		<br></li>
 
 		<li id="meta">
 		<h2>Sponsored Links</h2>
 			<ul>
-				<li><a href="http://artni.com.au/directory/" rel="me" title="Australian RV Directory" target="_blank">Australian RV Directory</a></li>
-<li><a href="http://storage-murwillumbah.comeonaussie.com/" rel="friend" title="Self Storage Units near Tweed Heads/Gold Coast" target="_blank">Murwillumbah Self Storage</a></li>
+				<li><a href="http://artni.com.au/directory/" rel="me" title="Directory using our API" target="_blank">Australian RV Directory</a> - Directory using our API</li>
+<li><a href="http://packandstackstorage.com.au/" rel="friend" title="Self Storage Units near Tweed Heads/Gold Coast" target="_blank">Murwillumbah Self Storage</a> - Self Storage Units near Tweed Heads/Gold Coast</li>
 			</ul>
 		</li>
 
@@ -283,19 +372,14 @@ img.emoji {
 </div>
 
 <!-- begin footer -->
-
 <div style="clear:both;"></div>
-
 </div>
 <!-- end wrap -->
-
 <div class="fullwidth" style="border-top:1px solid #f9cd36;">
 <div class="row">
 	<div class="col-xs-12">
 	<div id="pagefooter">
-
 <center>
-
 <p>Copyright © 
 <script language="JavaScript" type="text/javascript">
 var today = new Date()
@@ -303,15 +387,18 @@ var year = today.getYear()
 if (year < 1900) {year = year + 1900;}
 document.write(year)
 </script>2020
- <a href="http://www.comeonaussie.net">Come On Aussie Internet Services</a> · PO Box 5081 South Murwillumbah 2484 · <a href="http://www.comeonaussie.net/privacy-policy/">Privacy</a> · <a href="http://www.comeonaussie.net/contact/">Contact</a></p>
- </center>
-
+<a href="http://www.comeonaussie.net">Come On Aussie Internet Services</a> · PO Box 5081 South Murwillumbah 2484 · <a href="http://www.comeonaussie.net/privacy-policy/">Privacy</a> · <a href="http://www.comeonaussie.net/contact/">Contact</a></p>
+</center>
 	</div>
 	</div>
 </div>
 </div>
 <!-- end footer -->
-
-<script type="text/javascript" src="http://www.comeonaussie.net/wp-includes/js/wp-embed.min.js?ver=2297ba54fbb8f861f5db1b5000299277"></script>
-
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.comeonaussie.net\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.comeonaussie.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1"></script>
+<script type="text/javascript" src="http://www.comeonaussie.net/wp-includes/js/wp-embed.min.js?ver=236c5503043369ef7bc2b5f05b23cd85"></script>
 </body></html>
