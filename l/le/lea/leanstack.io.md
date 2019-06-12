@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the leanstack.io privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126152055id_/https%3A//stackshare.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanstack.io privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612093339id_/https%3A//stackshare.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | StackShare
+
+You need to sign in or sign up before continuing.
 
 Last updated: May 25, 2018
 
