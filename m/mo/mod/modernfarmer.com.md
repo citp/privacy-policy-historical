@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modernfarmer.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024054831id_/http%3A//modernfarmer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernfarmer.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612141313id_/https%3A//modernfarmer.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Modern Farmer
+# Privacy - Modern Farmer
 
 **Protecting Your Privacy and Servicing Your Needs**  
 Modern Farmer is a quarterly magazine devoted to the people, policy, issues, animals plant and technology of farming and food. We bring you the ideas, insights and information that inspire and enable people to improve their lives and the world around them. We value integrity, and we’re deeply committed to protecting your privacy and the security of the information you share with us.
@@ -64,7 +64,7 @@ Modern Farmer Media sites sometimes offer contests, sweepstakes, or promotions s
 Modern Farmer Media may need to change this privacy policy from time to time in order to address new issues, evolving technologies, changes on our sites, or business practices. Modern Farmer Media will post those changes so you will always know what information we gather and how we might use that information. Please refer back to this policy regularly.
 
 **What about data security?**  
-To ensure the security of your data – including address information and credit card numbers †“ Modern Farmer Media always uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures that protect against the loss, misuse, or alteration of information that we have collected from you.
+To ensure the security of your data – including address information and credit card numbers ”“ Modern Farmer Media always uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures that protect against the loss, misuse, or alteration of information that we have collected from you.
 
 **We appreciate the opportunity to serve you!**  
 If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is 403 Warren Street, Hudson, NY 12534, and we can be reached via e-mail at customerservice@moderfarmermedia.com. You can reach customer service by telephone at 1-888-797-9925.
