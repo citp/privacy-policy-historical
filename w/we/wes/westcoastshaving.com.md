@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the westcoastshaving.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722042923id_/https%3A//www.westcoastshaving.com/Privacy-Notice_ep_42-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westcoastshaving.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612050530id_/https%3A//www.westcoastshaving.com/pages/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy Notice | West Coast Shaving
+
+## Privacy Notice 
 
 West Coast Shaving (WCS) takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by WCS, nor does it apply to persons that are not employees or agents of WCS, or that are not under the control of WCS. Please take time to read this site's Terms of use.
 
