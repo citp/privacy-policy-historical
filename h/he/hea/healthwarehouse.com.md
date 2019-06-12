@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the healthwarehouse.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217101626id_/https%3A//www.healthwarehouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthwarehouse.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612035854id_/https%3A//www.healthwarehouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - HealthWarehouse.com
 
 
 
 
-**HealthWarehouse.com is a[licensed US pharmacy](http://vipps.nabp.net/verify.asp). We offer an industry leading [90-day return policy](http://www.healthwarehouse.com/return-policy) with no restocking fees and only sell products which are FDA approved and legal in the United States. We consistently achieve [high scores in customer satisfaction](http://www.healthwarehouse.com/reviews) and offer some of the best prices on the Internet. We're committed to 100% customer satisfaction. If for any reason, you are dissatisfied with your purchase, our service, or even our website, we will do everything possible to make it right. This is our commitment to you.**
+**HealthWarehouse.com is a[licensed US pharmacy](http://vipps.nabp.net/verify.asp). We offer an industry leading [90-day return policy](https://www.healthwarehouse.com/return-policy) with no restocking fees and only sell products which are FDA approved and legal in the United States. We consistently achieve [high scores in customer satisfaction](https://www.healthwarehouse.com/reviews) and offer some of the best prices on the Internet. We're committed to 100% customer satisfaction. If for any reason, you are dissatisfied with your purchase, our service, or even our website, we will do everything possible to make it right. This is our commitment to you.**
 
 ## Privacy Policy
 
