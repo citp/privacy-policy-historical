@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesslist.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130060716id_/http%3A//www.businesslist.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesslist.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612031256id_/http%3A//www.businesslist.com/privacy_policy) for the most accurate reproduction.*
 
 # businesslist.com - Privacy Policy
 
