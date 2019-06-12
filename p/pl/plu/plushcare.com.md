@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plushcare.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030061838id_/https%3A//www.plushcare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plushcare.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612045156id_/https%3A//www.plushcare.com/privacy) for the most accurate reproduction.*
 
 # PlushCare | Privacy Policy
 
@@ -115,7 +115,7 @@ PlushCare of California, Inc.
 650 5th Street Suite 502   
 San Francisco, California 94107   
 PRIVACY OFFICER   
-info@plushcare.com 
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 You have the right to file a complaint with the US Department of Health & Human Services (HHS). We will not retaliate against you in any way for filing a complaint. You may also submit your complaint to the Secretary. 
 
