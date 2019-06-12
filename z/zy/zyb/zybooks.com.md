@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the zybooks.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905181238id_/https%3A//www.zybooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zybooks.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612162417id_/https%3A//www.zybooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - zyBooks
 
 ## OUR PRIVACY COMMITMENT
 
-Effective date: May 25. 2018
+Effective date: October 22, 2018
 
-Thank you for visiting zyBooks.com, a website created and operated by Zyante, Inc. (“Zyante”).  Zyante is committed to treating the information of our users with respect and sensitivity. Our privacy commitment is described in this Privacy Policy. As our services evolve and we perceive the need or desirability of using information collected in other ways, we may from time to time amend this Privacy Policy. We post the effective date of our Privacy Policy on our website (“Site”). We encourage you to check our Site frequently to see the current Privacy Policy and Terms of Use in effect and any changes that may have been made to them.
+Thank you for visiting zyBooks.com, a website created and operated by Zyante Inc. (“Zyante,” “we,” “us” or “our”).  Zyante is committed to treating the information of our users with respect and sensitivity. Our privacy commitment is described in this Privacy Policy. As our services evolve and we perceive the need or desirability of using information collected in other ways, we may from time to time amend this Privacy Policy. We post the effective date of our Privacy Policy on our website (“Site”). We encourage you to check our Site frequently to see the current Privacy Policy and Terms of Use in effect and any changes that may have been made to them.
 
 If we make material changes to this Policy, we will post the revised Policy and the revised effective date on this Site. Please check back here periodically or contact us at the address listed at the end of this Policy if you have questions about our Privacy policy. This Policy is part of our Terms of Use Agreement.
 
-For purposes of data protection laws, Zyante, Inc., located at 41 East Main Street, Los Gatos, CA 95030, is the “data controller” of your information.
+For purposes of data protection laws, Zyante Inc., located at 41 East Main Street, Los Gatos, CA 95030, is the “data controller” of your information.
 
 ### General Information
 
@@ -107,4 +107,4 @@ Our site, applications or other services do not respond to Do Not Track signals,
 
 ### Contacting Us
 
-This site is owned and operated by Zyante, Inc. If you have any questions or suggestions with respect to this policy, or if you wish to ask us to delete, correct, or show you your information as provided above, you can write to us at Zyante, Inc., 41 East Main Street, Los Gatos, CA 95030 or email us at info@zybooks.com.
+This site is owned and operated by Zyante Inc. If you have any questions or suggestions with respect to this policy, or if you wish to ask us to delete, correct, or show you your information as provided above, you can write to us at Zyante Inc., 41 East Main Street, Los Gatos, CA 95030 or email us at info@zybooks.com.
