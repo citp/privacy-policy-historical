@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingfestival.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228042423id_/https%3A//www.readingfestival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingfestival.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612153907id_/https%3A//www.readingfestival.com/privacy-policy) for the most accurate reproduction.*
 
 # Reading Festival | Privacy Policy
 
@@ -188,7 +188,7 @@ For more information, or to get a copy of the relevant documentation please cont
 
 **CONTACT US**
 
-If you have any questions about the above, or our approach to privacy, our dedicated Privacy Office, including our Data Protection Officer, is here to help: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6010120916010319200c0916050e0114090f0e4e030f4e150b)
+If you have any questions about the above, or our approach to privacy, our dedicated Privacy Office, including our Data Protection Officer, is here to help: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#eb9b99829d8a8892ab87829d8e858a9f828485c58884c59e80)
 
 There’s also the Information Commissioners Office (ICO) although we encourage you to try and let us help you first.
 
