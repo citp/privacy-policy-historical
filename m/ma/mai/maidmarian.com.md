@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maidmarian.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209151421id_/http%3A//maidmarian.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maidmarian.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613085103id_/http%3A//www.maidmarian.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Sherwood Dungeon
 
@@ -305,7 +305,7 @@ If you have any questions about this Privacy Policy, please contact us:
 Contact Information 
 
 Privacy Officer: Gene Endrody   
-Email: [geneendrody@gmail.com](https://web.archive.org/cdn-cgi/l/email-protection#d1b6b4bfb4b4bfb5a3beb5a891b6bcb0b8bdffb2bebc)
+Email: [geneendrody@gmail.com](https://web.archive.org/cdn-cgi/l/email-protection#aec9cbc0cbcbc0cadcc1cad7eec9c3cfc7c280cdc1c3)
 
 Address:  
 Maid Marian Entertainment Inc.  
