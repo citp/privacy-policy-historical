@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmoment.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219082703id_/http%3A//www.inmoment.com/privacy_policy/english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmoment.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614010711id_/https%3A//inmoment.com/privacy-policy) for the most accurate reproduction.*
 
 # English
 
@@ -6,20 +6,13 @@
 
 Your privacy is important to you and to us, and we are committed to protecting your privacy.  This Privacy Policy discloses the information practices of InMoment, Inc. and its wholly owned affiliates, Empathica Inc., Empathica LTD, InMoment LTD and InMoment PTY LTD (collectively “InMoment”, “we”, or “us”) relating to our web sites and web/text surveys, reporting engines (collectively the “Sites”), phone surveys, data collection and any other methods of interacting with us.
 
-**Table of Contents**
-
-**InMoment’s Business and How It Relates to Your Privacy**
-
-**What is Personal Information?**
-
-**Collection and Use of Personal Information**
-
-**Compliance with European Union Regulations (GDPR and Privacy Shield)**
-
-**Cookies and IP Addresses**
-
-**Privacy in Specific Circumstances**
-
+**Table of Contents**  
+**InMoment’s Business and How It Relates to Your Privacy**  
+**What is Personal Information?**  
+**Collection and Use of Personal Information**  
+**Compliance with European Union Regulations (GDPR and Privacy Shield)**  
+**Cookies and IP Addresses**  
+**Privacy in Specific Circumstances**  
 **How to Contact Us**
 
 **InMoment’s Business and How It Relates to Your Privacy**  
@@ -40,8 +33,6 @@ InMoment will not share your information beyond the Contracted Companies that as
 We also collect information about you to manage your account and, if you agree, to email you about other products and services we think may be of interest to you.  Website usage information is collected using cookies.  We use your information collected from the website to personalize your repeat visits to our website.  We may also use your details for internet fraud prevention.
 
 If you choose to take a survey, register, or submit personally identifiable information to us, you agree to the use of such information in accordance with this privacy policy. If you elect not to provide your Personal Information or other information to us, you will be ineligible to participate in any incentive contest that is offered on the Sites. If you have already submitted Personal Information and would like us to remove it from our records, or if you would like to know what Personal Information is held in our records, see the “ **Access to your Information:** **Correction, Deletion, Portability and other Actions.“** section below.
-
-**Compliance with European Union Regulations**
 
 **We Adhere to all GDPR Requirements**  
 InMoment complies with all GDPR requirements and we value these regulations as an important date privacy rights framework.  While the below terms are required to be offered to our users under EU laws and regulations, we offer these terms to users globally.
@@ -98,12 +89,8 @@ The following paragraphs describe in more detail how InMoment may use your perso
 In certain circumstances you may require assistance from InMoment to complete a survey. If the survey is being administered by telephone, you may be required to leave a voice message. If the survey is being administered online or by other text media, you may be asked to post a message to InMoment using an e-form or e-mail. Personal Information may be required. In this case, the Personal Information will only be used to contact you for the intent of resolving their difficulty in accessing and completing a Survey.
   * **Promotional and Incentive Contests**  
 InMoment or its clients may offer various promotions, incentives, or sweepstakes from time to time. When entering a promotional contest, we, our client, or our client’s fulfillment vendor may ask for your name, date of birth, address (e-mail and/or residential), financial information (such as income level), or phone number so that we may communicate with you in the event you are a winner.
-  * **Telephone ANI Visibility**
-
-
-
+  * **Telephone ANI Visibility**  
 When you dial a toll-free number in the United States, the party you are calling pays for the call. The called party is able to identify your telephone number using a telephone network technology called Automatic Number Identification (ANI). FCC rules limit parties that own toll-free numbers from distributing the telephone numbers identified through ANI and require telephone companies to inform customers that their telephone numbers are being transmitted to toll-free numbers in this way. If you take a InMoment telephone survey, both InMoment and its clients may have access to your ANI, but, per FCC rules, will not distribute that telephone number further.
-
   * **Opt-In**  
 For certain surveys and other opt-in services, InMoment may collect profile (e.g. personal interests) and demographic information (e.g. household income, etc). This information will be used to communicate specific information to you based on the profile and demographic information you provide. Some surveys and opt-in services offer visitors the option of participating in additional surveys or receiving information from InMoment or from a InMoment client or business partner. Visitors must opt-in if they wish to participate or receive such information, and if they do, their Personal Information may be used by InMoment and/or shared with a client of InMoment or business partner for that purpose.
   * **Fulfilling Your Transaction Request**  
@@ -122,28 +109,16 @@ If you submit a job application to InMoment, we may use the Personal Information
 Be aware that in certain circumstances, it is possible that Personal Information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. This includes the investigation of network abuse or a violation of our terms of use or other published guidelines, or as a part of any actual or threatened legal proceedings or alternative dispute resolution proceedings either initiated by or against us.
   * **New Use of Personal Information**  
 Should InMoment wish to use your Personal Information for a purpose not contemplated at the time of initial collection, such as additional services, products, or promotional offers that may be of interest to you, we will use your contact information, including your email address, to ask for your consent to use your Personal Information for the new purpose.
-  * **Links to Third-Party Sites**
-
-
-
+  * **Links to Third-Party Sites**  
 The Sites contain links to third-party sites. Neither InMoment nor any of its affiliates are responsible for the privacy practices or the content of such third-party Web sites. InMoment co-branded sites and content partner sites have privacy policies independent of InMoment. We do not control the privacy practices of those sites and therefore strongly encourage users to familiarize themselves with the privacy practices and customs of any web site controlled by a third party before disclosing any Personal Information on that site. InMoment may share aggregate information with co-branded and other related sites, however this aggregated information does not contain personally identifiable information. This Privacy Policy extends only to data collected on pages hosted on the InMoment servers.
-
   * **Security, Storage, and Retention of Information**  
-The Sites (including, but not limited to: websites, surveys, reporting applications, and data transfer applications), have commercially reasonable security measures consistent with industry standards in place to protect against the loss, misuse and interception of information by third parties. InMoment holds its physical hosting facilities to these same standards. Nevertheless, InMoment assumes no liability for interception, alteration or misuse of information transmitted over the Internet.
-
-
-
-InMoment imposes strict internal controls over employees with access to Customer Information. Such access is granted only on a need-to-know basis.
-
-InMoment will retain Personal Information only for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws, and your consent to such purposes(s) will remain valid after termination of our interaction with you.
-
+The Sites (including, but not limited to: websites, surveys, reporting applications, and data transfer applications), have commercially reasonable security measures consistent with industry standards in place to protect against the loss, misuse and interception of information by third parties. InMoment holds its physical hosting facilities to these same standards. Nevertheless, InMoment assumes no liability for interception, alteration or misuse of information transmitted over the Internet. InMoment imposes strict internal controls over employees with access to Customer Information. Such access is granted only on a need-to-know basis. InMoment will retain Personal Information only for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws, and your consent to such purposes(s) will remain valid after termination of our interaction with you.
   * **Our Worldwide Practices**  
 InMoment conducts business globally, with people, processes, and systems that cross borders. Our privacy practices are designed to provide protection for your Personal Information, all over the world.
-  * **Changes to this Privacy Policy**
-
-
-
+  * **Changes to this Privacy Policy**  
 This Privacy Policy may be amended at any time, without prior notification.
+
+
 
 **How to Contact Us**
 
