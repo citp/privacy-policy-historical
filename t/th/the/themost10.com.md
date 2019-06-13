@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themost10.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211012152id_/http%3A//www.themost10.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themost10.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613123118id_/http%3A//www.themost10.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,4 +30,4 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information email [webmaster](https://web.archive.org/cdn-cgi/l/email-protection#b4dddad2dbf4c0dcd1d9dbc7c085849ad7dbd9)
+For any other information email [webmaster](https://web.archive.org/cdn-cgi/l/email-protection#224b4c444d62564a474f4d515613120c414d4f)
