@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dthdevelopment.com privacy policy that was archived on 2018-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180219050630id_/http%3A//www.dthdevelopment.com/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dthdevelopment.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613091712id_/https%3A//dthdevelopment.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for www.dthdevelopment.com | Policy | Footer
+# Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[dthdev@dthdevelopment.com](mailto:dthdev@dthdevelopment.com).](mailto:dthdev@dthdevelopment.com.)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[dthdev@dthdevelopment.com](mailto:dthdev@dthdevelopment.com).](https://dthdevelopment.com/cdn-cgi/l/email-protection#1773637f7372615773637f737261727b78677a7279633974787a39)
 
 At www.dthdevelopment.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.dthdevelopment.com and how it is used.
 
