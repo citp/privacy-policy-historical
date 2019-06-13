@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rapidonline.com privacy policy that was archived on 2018-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181116012503id_/https%3A//www.rapidonline.com/privacy%23cookies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rapidonline.com privacy policy that was archived on 2019-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190614005546id_/https%3A//www.rapidonline.com/privacy%23cookies) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
     <meta charset="utf-8">
@@ -8,24 +8,63 @@
     <title>Privacy Policy | Rapid Online</title>
     <link rel="icon" type="image/x-icon" href="//static.rapidonline.com/favicon.ico">
     <link rel="stylesheet" href="//static.rapidonline.com/css/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="//static.rapidonline.com/css/4.7.7.1/responsive/1.min.css">
+        <link rel="stylesheet" href="//static.rapidonline.com/css/5.2.3a/responsive/1.min.css">
+        <link rel="stylesheet" href="//static.rapidonline.com/css/opendyslexic/2.0/css/opendyslexic.css">
 
     
-    <link rel="stylesheet" href="//static.rapidonline.com/css/uncombined/page/companyInformation2.css">
+    <link rel="stylesheet" href="//static.rapidonline.com/css/5.2.3a/uncombined/company-information.css">
+
+
+
 
 
                 <meta name="description" content="Privacy and Cookies Policy for Rapid Electronics.">
-        <script type="text/javascript" src="//static.rapidonline.com/js/4.7.7.1/header.min.js"></script>
+        <meta name="format-detection" content="telephone=no">
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MX9GJS"></script><script type="text/javascript" src="//static.rapidonline.com/js/5.2.3a/header.min.js"></script>
     <script type="text/javascript">
         var _page = { CurrencyCode: 'GBP', _ra: {}, show: { greyOverlay: false, suggestions: false }, IsMobile: false, Loading: false };
     </script>
 
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MX9GJS');</script>
+    <!-- End Google Tag Manager -->
+    <script type="text/javascript">
+        window['GoogleAnalyticsObject'] = 'ga';
+        window['ga'] = window['ga'] || function () {
+            (window['ga'].q = window['ga'].q || []).push(arguments)
+        };
+    </script>
+    <style>
+        .easter-message {
+            margin-bottom: 1em;
+            color: #ffffff;
+            padding: 10px;
+            font-weight: bold;
+            -webkit-box-shadow: rgba(0,0,0,0.4) 0px 1px 5px;
+            box-shadow: rgba(0,0,0,0.4) 0px 1px 5px;
+            background-color: indianred;
+            text-align: center;
+            font-size: 18px;
+        }
+    </style>
 </head>
  
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MX9GJS"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <noscript>
         <div class="no-javascript">Javascript is currently disabled in your browser, please <a href="https://www.whatismybrowser.com/guides/how-to-enable-javascript/" target="_blank">turn it on</a> to avoid loss of functionality.</div>
     </noscript>
+
+
+
+
     <div id="cookieErrorMessageDiv"></div>
         <div class="column row expanded" style="background: #fff3bf; padding: 10px;border:5px solid #f7f6f4;">
             <p style="color:black;text-align:center;font-size:16px;line-height: 1.6rem">
@@ -79,18 +118,28 @@
                 </div>
                 <div class="thc_Section contactTop show-for-large">
                     <span>
-                        <i class="fa fa-phone fa-lg"></i>&nbsp; +44 (0)1206 751166&nbsp;&nbsp;
+                        <i class="fa fa-phone fa-lg"></i>
+                        <span> +44 (0)1206 751166</span>
                     </span>
                     <span class="chatLink" id="LP_DIV_1616141"></span>
-
                 </div>
                 <div class="thc_Section topBasketOptions right" v-cloak="">
+                    <div class="access-wrap">
+                        
+                        <span class="checkbox access-popup" style="display: none;">
+                            <label>
+                                <input type="checkbox" v-model="_page.openDyslexic" onchange="openDyslexic();">
+                                <span class="custom-checkbox accent"><i class="icon-check"></i></span>
+                                Dyslexic Friendly Font
+                            </label>
+                        </span>
+                    </div>
                         <template>
-                            <span onclick="Settings.Currency.ShowOptions();">
+                            <span id="options-currency" onclick="Settings.Currency.ShowOptions();">
                                 Currency: <b>{{CurrencyCode}}</b> &nbsp; &nbsp;
                             </span>
                         </template>
-                    <span class="checkbox">
+                    <span id="options-vat" class="checkbox">
                         <label>
                             <input type="checkbox" v-model="IncVat" @change="Settings.Vat.Change();">
                             <span class="custom-checkbox accent"><i class="icon-check"></i></span>
@@ -197,7 +246,7 @@
         <ul class="menu">
             <!--Categories Menu Button-->
             <li class="relative" v-bind:class="{ 'show-drilldown' : show.navMenu }">
-              
+
                 <template v-if="screenSize.length > 0 &amp;&amp; (screenSize == 'small' || screenSize == 'medium')">
                     <a onclick="NavMenu.smallToggle();" class="verticalMenu-trigger" v-bind:class="{ 'dropdown-is-active' : show.navMenu }">C A T E G O R I E S</a>
                     <ul id="verticalNavMenu" class="TierMenu vertical menu drilldown" v-bind:class="{ 'dropdown-is-active' : show.navMenu }" data-drilldown="">
@@ -225,7 +274,7 @@
                                 </li>
                             </template>
                         </template>
-                    </ul> 
+                    </ul>
                 </template>
 
                 <template v-else="">
@@ -276,6 +325,8 @@
 
             </div>
         </header>
+
+
         <div class="fixedWidth">
 <div class="column row">
     <nav aria-label="You are here:" role="navigation">
@@ -312,6 +363,7 @@
             <ul class="vertical menu">
                 <li><a href="/about-rapid">About Rapid</a></li>
                 <li><a href="/careers">Careers</a></li>
+                <li><a href="/complaints-policy">Complaints Policy</a></li>
                 <li><a href="/quality-policy">Quality Policy</a></li>
                 <li><a href="/terms">Terms</a></li>
                 <li><a href="/tradecounter">Trade Counter</a></li>
@@ -823,6 +875,7 @@
 
             <br class="clear-both">
         </div>
+
         <footer class="footerContainer">
     <ul id="footerAccordion" class="accordion hide-for-print" data-accordion="" data-allow-all-closed="true">
         <li class="accordion-item" data-accordion-item="">
@@ -883,6 +936,7 @@
                     <li><a href="/privacy">Privacy &amp; Cookie Policy</a></li>
                     <li><a href="/corporate-social-responsibility">Social Responsibility</a></li>
                     <li><a href="/customer-profiles">Customer Profiles</a></li>
+                    <li><a href="/complaints">Complaints</a></li>
                 </ul>
             </div>
         </li>
@@ -893,11 +947,11 @@
                     <li>Email: <a href="mailto:sales@rapidonline.com" style="color: #ffffff; text-decoration: underline;">sales@rapidonline.com</a></li>
                     <li>Orderline: 01206 751166</li>
                     <li>Fax: 01206 751188</li>
-                    <li>Mon - Fri: 8am - 7pm</li>
-                    <li>Saturday: 9am - 5pm</li>
+                    <li>Mon - Fri: 8am - 6pm</li>
+                    <li>Saturday: 9am - 1pm</li>
                     <li><a href="/tradecounter">Trade Counter</a></li>
                     <li>Open: 7.30am - 6pm (Mon - Fri)</li>
-                    <li>9am - 5pm (Sat)</li>
+                    <li>9am - 1pm (Sat)</li>
                 </ul>
             </div>
         </li>
@@ -905,19 +959,19 @@
     <div class="footerBottom hide-for-print">
         <div class="socialIconContent">
             <div class="socialIconContainer">
-                <a href="https://www.facebook.com/rapidonline/" class="float-left" target="_blank">
+                <a href="https://www.facebook.com/rapidonline/" rel="noreferrer" class="float-left" target="_blank">
                     <div class="facebookIcon"></div>
                 </a>
-                <a href="https://twitter.com/Rapidonline" class="float-left" target="_blank">
+                <a href="https://twitter.com/Rapidonline" rel="noreferrer" class="float-left" target="_blank">
                     <div class="twitterIcon"></div>
                 </a>
-                <a class="float-left" target="_blank" href="https://www.instagram.com/rapidelectronics/">
+                <a class="float-left" target="_blank" href="https://www.instagram.com/rapidelectronics/" rel="noreferrer">
                     <div class="instagramIcon"></div>
                 </a>
-                <a href="https://www.youtube.com/user/rapidonline" class="float-left" target="_blank">
+                <a href="https://www.youtube.com/user/rapidonline" class="float-left" target="_blank" rel="noreferrer">
                     <div class="youtubeIcon"></div>
                 </a>
-                <a href="https://www.linkedin.com/company/rapid-electronics-ltd-" class="float-left" target="_blank">
+                <a href="https://www.linkedin.com/company/rapid-electronics-ltd-" class="float-left" target="_blank" rel="noreferrer">
                     <div class="linkedinIcon"></div>
                 </a>
             </div>
@@ -934,7 +988,7 @@
             </div>
         </div>
         <div class="copyrightContent">
-            <p>© Copyright 2018 Rapid Electronics Limited, Severalls Lane, Colchester, Essex, CO4 5JS<br>Registered in England, Company Registration Number: 1509592 VAT no: GB 304175784</p>
+            <p>© Copyright 2019 Rapid Electronics Limited, Severalls Lane, Colchester, Essex, CO4 5JS<br>Registered in England, Company Registration Number: 1509592 VAT no: GB 304175784</p>
             <div class="conradFooter"></div>
         </div>
         <div class="paymentLogoContent hide-for-print">
@@ -944,13 +998,18 @@
     <br>
 </footer>
 
-        <!-- HOST <span>EC2AMAZ-03UCEB3</span> -->
+        <!-- HOST <span>EC2AMAZ-6JIHOML</span> -->
         <div class="app_greyOverlay" v-bind:class="{showOverlay: show.greyOverlay }" v-cloak="" onclick="Layout.HideOverlay();"></div>
     </div>
-            <script type="text/javascript">
+<script type="text/javascript">
             _page = _page || {};
             _page.SiteType = 1;
             _page.IncVat = false;
+            _page.openDyslexic = false; 
+            
+
+            // HttpContext.Session.SetString("UnitPriceTo2Dp", twoDecimalPlaces);  // set session value for the 2dp
+            // var x = HttpContext.Session.GetString("UnitPriceTo2Dp") == "True";
             _page.IsUserAuthenticated = false;            
             _page.isResponsive = 'True';
             _page.screenSize = '';
@@ -964,30 +1023,56 @@
             var dataLayer = window.dataLayer || [];
             dataLayer.push({'email': ''});
             dataLayer.push({'site_type': 'd'});
-        </script>
-    
-    <script type="text/javascript" src="//static.rapidonline.com/js/foundation/6.4.1/foundation.min.js"></script>
-    <script type="text/javascript" src="//static.rapidonline.com/js/4.7.7.1/layout.min.js"></script>
+
+            //// Get Google analytics clientID from the cookie
+            //var googleAnalyticsclientId = '';
+            //ga(function(tracker) {
+            //    googleAnalyticsclientId = tracker.get('clientId');
+            //});
+
+            //ga(function() {
+            //googleAnalyticsclientId = ga.getAll()[0].get('clientId');
+            //});
+
+            // Google analytics
+            dataLayer.push({
+                'ga_clientid': 'testclientid'
+            });
+</script>
+
+<script type="text/javascript" src="//static.rapidonline.com/js/foundation/6.4.1/foundation.min.js"></script>
+<script type="text/javascript" src="//static.rapidonline.com/js/5.2.3a/layout.min.js"></script>
+<script type="text/javascript">
+    if (_page.openDyslexic) { openDyslexic(true) };
+</script>
+<script type="text/javascript">
+    if (!(_page instanceof Vue)) {
+        var _page = new Vue({
+            el: '#app_Page',
+            data: _page
+        });
+    }
+    $(document).foundation();
+</script>
+
     <script type="text/javascript">
-        $(document).foundation();
+        Settings.SiteType.ShowOptions();
     </script>
 
-        <script type="text/javascript">
-            Settings.SiteType.ShowOptions();
-        </script>
+    <script type="text/javascript">
+        $(window).on('load resize', function () {
+            if (Foundation.MediaQuery.current === 'medium' || 'small') {
+                $("#footerAccordion > li > a:first-child").removeAttr("disabled");
+            }
+            if (Foundation.MediaQuery.atLeast('large')) {
+                $("#footerAccordion > li > a:first-child").attr("disabled", "disabled");
+            }
+            _page.screenSize = Foundation.MediaQuery.current;
+        });
+    </script>
 
-        <script type="text/javascript">
-            $(window).on('load resize', function () {
-                if (Foundation.MediaQuery.current === 'medium' || 'small') {
-                    $("#footerAccordion > li > a:first-child").removeAttr("disabled");
-                }
-                if (Foundation.MediaQuery.atLeast('large')) {
-                    $("#footerAccordion > li > a:first-child").attr("disabled", "disabled");
-                }
-                _page.screenSize = Foundation.MediaQuery.current;
-            });
-        </script>
-    
+
+    <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async=""></script>
 
     
 
