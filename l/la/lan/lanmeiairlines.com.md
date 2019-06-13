@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanmeiairlines.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212180624id_/http%3A//lanmeiairlines.com/lanmeiairlines2.0/default/menus/EN/aboutUs/LMPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanmeiairlines.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613171930id_/http%3A//www.lanmeiairlines.com/lanmeiairlines2.0/default/menus/EN/aboutUs/LMPrivacy.html) for the most accurate reproduction.*
 
 # Privacy clause
 
@@ -82,15 +82,13 @@ As we cannot distinguish the age of persons who access our web site, a blanket p
 
 ## 7\. How Your Information Will Be Used
 
-1)Lanmei uses personally identifiable information to complete transactions and fulfill requests for our services. Lanmei requires you to provide personal information when making a reservation to purchase airline tickets or ancillary travel products and services on this web site, or enrolling in the Companion program. In addition to processing, confirming and fulfilling the travel or other services you request, Lanmei may use these data for administrative and analytical purposes such as accounting, billing and audits, marketing, credit card processing and verification, customer-relations correspondence and information systems management in relation to the aforementioned.
+1)Lanmei uses personally identifiable information to complete transactions and fulfill requests for our services. Lanmei requires you to provide personal information when making a reservation to purchase airline tickets or ancillary travel products and services on this website, or enrolling in the Companion program. In addition to processing, confirming and fulfilling the travel or other services you request, Lanmei may use these data for administrative and analytical purposes such as accounting, billing and audits, marketing, credit card processing and verification, customer-relations correspondence, Lanmei Club program and information systems management in relation to the aforementioned.
 
 2)To the extent required by applicable law, we may disclose personally identifiable information to government authorities, or to third parties pursuant to a subpoena or other legal process, and we may also use or disclose your information as permitted by law to protect the rights or property of Lanmei, our customers, our website, or its users.
 
 3)Lanmei does not sell any customer information or share your email address with any third parties except in compliance with this policy. However, we may disclose customer information to companies affiliated with Lanmei and/or unaffiliated third parties to fulfill supply of the products and services you have requested. We may also disclose this information to third parties, such as employers, who have arranged for discounts, purchased travel or other services on your behalf, but only to the extent it is necessary for them to know such information. Additionally, Lanmei may combine the information we receive from you with information collected from other sources. This information would be used to provide offers and/or services specifically tailored to your interests. We will not use any data regarding your surfing behaviour for marketing purposes (except on an anonymous basis) without first obtaining your explicit consent.
 
 4)If we sell a business unit to another company and your personal data is used by that business unit then your data may be transferred to the buyer along with the business for them to use in the same way. We will not transfer the data if this is contrary to law.
-
-Please indicate you consent to your data being used as described in this section "How Your Information Will Be Used" by ticking the relevant box situated on the form on which we collect your data.
 
 ## 8\. Where We Store Your Data
 
