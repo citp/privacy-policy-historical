@@ -1,216 +1,926 @@
-> *The following text is extracted and transformed from the addictinggames.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219200536id_/http%3A//www.addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictinggames.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613035047id_/http%3A//www.addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy at Addictinggames.com
+# Privacy Policy And Your California Privacy Rights | Addicting Games
 
-##  **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
+#### Privacy Policy And Your California Privacy Rights
 
-**LAST UPDATED: 3/17/2015**
+LAST UPDATED: 3/1/2019
 
-Welcome! This Privacy Policy governs certain websites, online services, and software made available by for use on mobile devices, tablets, personal computers and other devices, which includes certain websites and online services operated by Defy Media, LLC (collectively, the "Defy Sites" and, individually, "Site"). By accessing any of the Defy Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Defy Sites collect from users, including children, when they visit the Defy Sites; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected. 
+Welcome! This Privacy Policy governs certain websites, online services, and software made available by for use on mobile devices, tablets, personal computers and other devices, which includes certain websites and online services operated by Addicting Games, Inc. (collectively, the "Addicting Games Sites" and, individually, "Site"). By accessing any of the Addicting Games Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Addicting Games Sites collect from users, including children, when they visit the Addicting Games Sites; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected.
 
-Our visitors' privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Defy Sites permitting such visitors. Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries. Younger visitors should always check with their parents or guardians before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of personal information. 
+Our visitors' privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Addicting Games Sites permitting such visitors. Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries. Younger visitors should always check with their parents or guardians before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of personal information.
 
-**SUMMARY.**
+###### **SUMMARY.**
 
 For your convenience, the following is a quick summary of our Privacy Policy. **Please read the entire Privacy Policy for more detailed information.**
 
-**COMPANY'S AD CHOICES DISCLOSURE**
+###### **COMPANY'S AD CHOICES DISCLOSURE**
 
-Defy Media, LLC ("Defy") is committed to providing you with the very best experience we can on our network of websites and applications (collectively, the "Defy Sites"). In order to do so, we may gather certain information about you. Please read the following policy ("policy") to understand how certain of your information collected on the Defy Sites will be collected, used, shared and retained. 
+Addicting Games, Inc. ("Addicting Games") is committed to providing you with the very best experience we can on our network of websites and applications (collectively, the "Addicting Games Sites"). In order to do so, we may gather certain information about you. Please read the following policy ("policy") to understand how certain of your information collected on the Addictng Games Sites will be collected, used, shared and retained.
 
-WHAT INFORMATION DOES DEFY COLLECT? 
+WHAT INFORMATION DOES Addicting Games COLLECT?
 
 | 
 
-When you visit the Defy Sites, we collect some basic information that does not identify individual users. (See the "Behavioral advertising" section below for more information on certain third parties who may also collect similar information when you visit the Defy Sites for online behavioral advertising purposes.) This includes which pages are visited, which advertisements are viewed, and any feedback from our visitors. We then aggregate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible. For purposes of clarity, unless visitors submit personal information directly to us (e.g.: by means of a site registration, in connection with a contest, etc.), our sites do not collect visitorâs personal information. Additional information on how we treat personal information that is submitted directly to us and how such information may be shared may be found in our privacy policy.   
+When you visit the Addicting Games Sites, we collect some basic information that does not identify individual users. (See the "Behavioral advertising" section below for more information on certain third parties who may also collect similar information when you visit the Addicting Games Sites for online behavioral advertising purposes.) This includes which pages are visited, which advertisements are viewed, and any feedback from our visitors. We then aggregate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible. For purposes of clarity, unless visitors submit personal information directly to us (e.g.: by means of a site registration, in connection with a contest, etc.), our sites do not collect visitorâs personal information. Additional information on how we treat personal information that is submitted directly to us and how such information may be shared may be found in our privacy policy.  
   
 ---|---  
   
-BEHAVIORAL ADVERTISING 
+BEHAVIORAL ADVERTISING
 
 | 
 
-We analyze non-personal information that we collect on the Defy Sites, or obtain from third parties, and organize it into anonymous user profiles, groups, and audiences, based on factors such as age, gender, geography, interests and online actions. We and our clients and partners then use these anonymous user profiles, groups and audiences to design and deliver customized advertising campaigns or other relevant content. We and our clients also use this data for other related purposes (for example, to do research regarding the results of our online advertising campaigns or to better understand the interests or activities of our visitors.) The behavioral categories we use to customize the ads you may see or for related purposes do not use personal information such as your name, address, e-mail address, phone number, birth date or social security number. Our technology and services are designed to limit our use of data for purposes of behavioral advertising to anonymous, non-personal information. 
+We analyze non-personal information that we collect on the Addicting Games Sites, or obtain from third parties, and organize it into anonymous user profiles, groups, and audiences, based on factors such as age, gender, geography, interests and online actions. We and our clients and partners then use these anonymous user profiles, groups and audiences to design and deliver customized advertising campaigns or other relevant content. We and our clients also use this data for other related purposes (for example, to do research regarding the results of our online advertising campaigns or to better understand the interests or activities of our visitors.) The behavioral categories we use to customize the ads you may see or for related purposes do not use personal information such as your name, address, e-mail address, phone number, birth date or social security number. Our technology and services are designed to limit our use of data for purposes of behavioral advertising to anonymous, non-personal information.
 
-When you visit any of the Defy Sites and view ads from Defyâs advertisers, Defy automatically receives and stores certain types of non-personal information including IP address, web pages viewed, date and time, and responses to advertisements delivered. While each advertising technology uses different types of technology to collect this information, including log files, cookies and pixels, none of the foregoing by itself or together can be tracked to a specific individualâs personal information, and the non-personal information collected by Defy will not be shared with third parties, except as expressly indicated in this policy. The non-personal information collected through your use of the Defy Sites is used to provide relevant, targeted advertising and improve Defyâs advertising technology; monitor website traffic; collect statistical data; determine the effectiveness of advertisements and content; and collect data across multiple websites to categorize likely consumer interest segments for use in online behavioral advertising. Defy may track visits to the Defy Sites and this information may be used over time to help predict your consumer interest segments and select the ad content you see. Defy may also use non-personally identifiable profile-based anonymous information with other non-personal information. 
-
-We permit Viacom International Inc. and its affiliates ("Viacom") to collect and use certain information about your visits to and use of certain Defy Sites for online behavioral advertising purposes. Please see http://srp.viacom.com/sitefaq.html to learn more about Viacom and its online behavioral advertising practices and how to opt out of online behavioral advertising by Viacom.   
+When you visit any of the Addicting Games Sites and view ads from Addicting Games' advertisers, Addicting Games automatically receives and stores certain types of non-personal information including IP address, web pages viewed, date and time, and responses to advertisements delivered. While each advertising technology uses different types of technology to collect this information, including log files, cookies and pixels, none of the foregoing by itself or together can be tracked to a specific individualâs personal information, and the non-personal information collected by Addicting Games will not be shared with third parties, except as expressly indicated in this policy. The non-personal information collected through your use of the Addicting Games Sites is used to provide relevant, targeted advertising and improve Addicting Gadvertising technology; monitor website traffic; collect statistical data; determine the effectiveness of advertisements and content; and collect data across multiple websites to categorize likely consumer interest segments for use in online behavioral advertising. Addicting Games may track visits to the Addicting Games Sites and this information may be used over time to help predict your consumer interest segments and select the ad content you see. Addicting Games may also use non-personally identifiable profile-based anonymous information with other non-personal information..  
   
-TRANSPARENCY IN ONLINE BEHAVIORAL ADVERTISING 
+TRANSPARENCY IN ONLINE BEHAVIORAL ADVERTISING
 
 | 
 
-Defy does not create or use potentially sensitive data segments to provide its targeted online behavioral advertising for advertisers, including, but not limited to, health related audience segments. Defy is a member of the NAI (Network Advertising Initiative) and adheres to the NAI Code of Conduct, which may be found [here](http://www.networkadvertising.org/code-enforcement/code), and the Digital Advertising Allianceâs Self-Regulatory Principles for Online Behavioral Advertising, which may be found [here](http://www.aboutads.info/obaprinciples).   
+Addicting Games does not create or use potentially sensitive data segments to provide its targeted online behavioral advertising for advertisers, including, but not limited to, health related audience segments. Addicting Games is a member of the NAI (Network Advertising Initiative) and adheres to the NAI Code of Conduct, which may be found [here](http://www.networkadvertising.org/code-enforcement/code), and the Digital Advertising Allianceâs Self-Regulatory Principles for Online Behavioral Advertising, which may be found [here](http://www.aboutads.info/obaprinciples).  
   
-OPT-OUT 
+OPT-OUT
 
 | 
 
-You may choose to not participate in our personalized advertising services by "opting out" of such personalized advertising services through the Network Advertising Initiativeâs Consumer Opt-out Program. Opting out will not remove advertisements. You will continue to see advertisements provided by Defy, but the advertising will not be customized or targeted based on information collected by Defy. Your will need to update your opt-out preferences if you change/update browsers or computers, or if you delete cookies. See the "Behavioral advertising" section above for more information on how to opt out of online behavioral advertising by certain third parties on the Defy Sites.   
+You may choose to not participate in our personalized advertising services by "opting out" of such personalized advertising services through the Network Advertising Initiativeâs Consumer Opt-out Program. Opting out will not remove advertisements. You will continue to see advertisements provided by Addicting Games, but the advertising will not be customized or targeted based on information collected by Addicting Games. Your will need to update your opt-out preferences if you change/update browsers or computers, or if you delete cookies. See the "Behavioral advertising" section above for more information on how to opt out of online behavioral advertising by certain third parties on the Addicting Games Sites.  
   
-DATA RETENTION 
+DATA RETENTION
 
 | 
 
-We and our partners may retain the anonymous user data we or our partners collect on the Defy Sites for up to nine (9) months from the date of its collection, after which time it is deleted from, or deactivated on, our and our partnersâ active databases. In addition, we maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete or deactivate the information from its active database. We maintain archives for disaster recovery, legal and other non-marketing purposes.   
+We and our partners may retain the anonymous user data we or our partners collect on the Addicting Games Sites for up to nine (9) months from the date of its collection, after which time it is deleted from, or deactivated on, our and our partnersâ active databases. In addition, we maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete or deactivate the information from its active database. We maintain archives for disaster recovery, legal and other non-marketing purposes.  
   
-WITH WHOM DO WE SHARE YOUR INFORMATION AND FOR WHAT PURPOSE? 
+WITH WHOM DO WE SHARE YOUR INFORMATION AND FOR WHAT PURPOSE?
 
 | 
 
-Except as may otherwise be expressly set forth in this policy or in our privacy policy, Defy does not sell, rent, or trade any personally identifying information with third parties unless users consent to such sharing practices. We may from time to time share user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.   
+Except as may otherwise be expressly set forth in this policy or in our privacy policy, Addicting Games does not sell, rent, or trade any personally identifying information with third parties unless users consent to such sharing practices. We may from time to time share user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.  
   
-WHAT ARE "COOKIES" AND "WEB BEACONS" AND HOW DO WE USE THEM? 
+WHAT ARE "COOKIES" AND "WEB BEACONS" AND HOW DO WE USE THEM?
 
 | 
 
-The Defy Sites may use "cookies" and "web beacons" to speed navigation, keep track of items viewed, clicked on and/or shared, including links and advertisements, and provide you with custom-tailored services. A "web beacon" is an embedded GIF file that specifically helps us track whether you have viewed a specific piece of content. We also use "cookies" to remember information you gave us so you donât have to re-enter it each time you visit the Defy Sites. By showing us how and when visitors use the Defy Sites, "cookies" and "web beacons" allow us to see which Defy Site areas and content are popular, and help us target content and advertisements based on user behavior. In addition, "cookies" will allow us to display in your profile which Defy and affiliated websites you have visited, unless you opt out of that feature in your account. We also collect IP addresses for system administration and to report aggregate information to any sponsors. Some advertisers or websites that have links on our site may also use their own "cookies." We do not control these "cookies." You should check the privacy policy of these advertisers or websites to see whether and how they use "cookies." 
+The Addicting Games Sites may use "cookies" and "web beacons" to speed navigation, keep track of items viewed, clicked on and/or shared, including links and advertisements, and provide you with custom-tailored services. A "web beacon" is an embedded GIF file that specifically helps us track whether you have viewed a specific piece of content. We also use "cookies" to remember information you gave us so you donât have to re-enter it each time you visit the Addicting Games Sites. By showing us how and when visitors use the Addicting Games Sites, "cookies" and "web beacons" allow us to see which Addicting Games Site areas and content are popular, and help us target content and advertisements based on user behavior. In addition, "cookies" will allow us to display in your profile which Addicting Gamesand affiliated websites you have visited, unless you opt out of that feature in your account. We also collect IP addresses for system administration and to report aggregate information to any sponsors. Some advertisers or websites that have links on our site may also use their own "cookies." We do not control these "cookies." You should check the privacy policy of these advertisers or websites to see whether and how they use "cookies."
 
-Most browsers are initially set to accept "cookies." If youâd prefer, you can set yours to refuse "cookies." You will not be able to fully use the Defy Sites if you turn off the "cookies" option. 
+Most browsers are initially set to accept "cookies." If you'd prefer, you can set yours to refuse "cookies." You will not be able to fully use the Addicting Games Sites if you turn off the "cookies" option.
 
-If you have any questions or concerns about this policy you may contact us or write to the following address: 
+If you have any questions or concerns about this policy you may contact us or write to the following address:
 
-Defy Media, LLC  
-498 7th Avenue, 19th Floor  
-New York, NY 10018  
+Addicting Games, Inc.  
+15332 Antioch Street Suite 200  
+Los Angeles, California 90272   
 Attn: Privacy  
-Telephone: (212)244-4307  
-Facsimile: (212)244-4311  
-E-mail: privacy@defymedia.com   
+E-mail: yourfriends@addictinggames.com  
   
-**DISCLOSURE REGARDING COLLECTION AND USE OF PERSONAL INFORMATION.**
+###### **DISCLOSURE REGARDING COLLECTION AND USE OF PERSONAL INFORMATION.**
 
-Through the Defy Site, users may enter personal information about themselves. This policy explains our online information collection and use practices for the Defy Site, and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information. Please note that our online information collection and use practices may differ from our practices regarding information obtained offline. 
+Through the Addicting Games Site, users may enter personal information about themselves. This policy explains our online information collection and use practices for the Addicting Games Site, and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information. Please note that our online information collection and use practices may differ from our practices regarding information obtained offline.
 
-REMEMBER: IF YOU MAKE USE OF THE SITE, REGISTER WITH THE SITE, REQUEST INFORMATION THAT WE MAY OFFER, OR SUBMIT INFORMATION IN ANY WAY TO OR THROUGH THE SITE YOU AGREE TO THIS POLICY. 
+REMEMBER: IF YOU MAKE USE OF THE SITE, REGISTER WITH THE SITE, REQUEST INFORMATION THAT WE MAY OFFER, OR SUBMIT INFORMATION IN ANY WAY TO OR THROUGH THE SITE YOU AGREE TO THIS POLICY.
 
-**THE INFORMATION WE COLLECT.**
+###### **THE INFORMATION WE COLLECT.**
 
-We may collect information about you through a variety of methods, such as your participation in games, quizzes, contests, chat rooms, forums or the like or other documents and information that you submit to us, transactions in which you may engage with us or parent, subsidiary, and affiliated companies of Defy Media, LLC (collectively, "Defy Affiliates"), or through visits that you may make to the Defy Site. This policy applies to all personal information that we may collect and maintain about our users via the Defy Site, such as: 
+We may collect information about you through a variety of methods, such as your participation in games, quizzes, contests, chat rooms, forums or the like or other documents and information that you submit to us, transactions in which you may engage with us or parent, subsidiary, and affiliated companies of Addicting Games, Inc. (collectively, "Addicting Games Affiliates"), or through visits that you may make to the Addicting Games Site. This policy applies to all personal information that we may collect and maintain about our users via the Addicting Games Site, such as:
 
-  * Your contact information (such as name, Twitter handle, postal and email address, or phone number); 
-  * Username and password for the account you may establish on the Defy Site; 
-  * Demographic information (such as age, date of birth and gender); 
-  * Location information, such as the real-time geographic location of the device on which you install our mobile applications; and 
-  * Other details that you may submit to us or that may be included in the information provided to us by third parties. 
+  * Your contact information (such as name, Twitter handle, postal and email address, or phone number);
+  * Username and password for the account you may establish on the Addicting Games Site;
+  * Demographic information (such as age, date of birth and gender);
+  * Location information, such as the real-time geographic location of the device on which you install our mobile applications; and
+  * Other details that you may submit to us or that may be included in the information provided to us by third parties.
 
 
 
-You may view or change your personal information at any time by contacting us. Please see "How to Contact Us" later in this policy. 
+You may view or change your personal information at any time by contacting us. Please see "How to Contact Us" later in this policy.
 
-You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., your name, e-mail address, photo, gender, birthday, location, list of friends, people you follow and/or who follow you, the posts or the 'likes' you make) to deliver the content or as part of the operation of the application. We may also obtain non-personal information (e.g., content viewed, games played and performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content. 
+You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., your name, e-mail address, photo, gender, birthday, location, list of friends, people you follow and/or who follow you, the posts or the 'likes' you make) to deliver the content or as part of the operation of the application. We may also obtain non-personal information (e.g., content viewed, games played and performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content.
 
-When you provide information from your social media account, it can help enable us to do things like: (i) give you exclusive content; (ii) personalize your online experience with us within and outside our applications or websites; and (iii) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of such information in accordance with our privacy policy. When you provide personal information to us through an application, on the Defy Site, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties. 
+When you provide information from your social media account, it can help enable us to do things like: (i) give you exclusive content; (ii) personalize your online experience with us within and outside our applications or websites; and (iii) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of such information in accordance with our privacy policy. When you provide personal information to us through an application, on the Addicting Games Site, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
 
-Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their respective privacy policies and terms of use. 
+Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their respective privacy policies and terms of use.
 
-**Other Collected Information**
+###### **Other Collected Information**
 
-We also may use third-party website analytics tools (such as Omniture or Google), that collect information about visitor traffic on the Defy Site. The information that may be collected by automated means includes: 
+We also may use third-party website analytics tools (such as Omniture or Google), that collect information about visitor traffic on the Addicting Games Site. The information that may be collected by automated means includes:
 
-  * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type); 
-  * URLs that refer visitors to the Defy Site; 
-  * Dates and times of visits to the Defy Site; 
-  * Information on actions taken on the Defy Site (such as page views and Defy Site navigation patterns) 
-  * A general geographic location (such as country and city) from which a visitor accesses our Defy Site; and 
-  * Search terms that visitors use to reach the Defy Site. 
+  * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type);
+  * URLs that refer visitors to the Addicting Games Site;
+  * Dates and times of visits to the Addicting Games Site;
+  * Information on actions taken on the Addicting Games Site (such as page views and Addicting Games Site navigation patterns)
+  * A general geographic location (such as country and city) from which a visitor accesses our Addicting Games Site; and
+  * Search terms that visitors use to reach the Addiciting Games Site.
 
 
 
 **When you use our mobile applications on your mobile device, you may choose not to share your geo-location details with us by adjusting the device's location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.**
 
-**HOW WE USE YOUR PERSONAL INFORMATION.**
+###### **HOW WE USE YOUR PERSONAL INFORMATION.**
 
-We use your personal information to provide you with products or services that you have requested, to respond to questions or communications and to get in touch with you when necessary. For example, we may use your personal information to communicate with you or to send you information that you have requested. Additionally, by registering for the Defy Site you will be automatically entered into sweepstakes and contests held on the Defy Site. We may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. We do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy. Thus, we may also share personal information with Defy Affiliates. Defy Affiliates may use and further share personal information in the same ways we do. However, if we pass on personal information to a Defy Affiliate, we require that it protect such information in a manner that is consistent with this policy and your expressed preferences. For example, a Defy Affiliate may send to you an e-mail regarding special offers and announcements about products or services that it thinks might be of interest to you, or contact you offline. If you want to opt-out from our (or a family company) using the personal information you provided in these ways, please contact us. Please see "How to Contact Us" later in this policy. 
+We use your personal information to provide you with products or services that you have requested, to respond to questions or communications and to get in touch with you when necessary. For example, we may use your personal information to communicate with you or to send you information that you have requested. Additionally, by registering for the Addicting Games Site you will be automatically entered into sweepstakes and contests held on the Addiciting Games Site. We may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. We do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy. Thus, we may also share personal information with Addicting Games Affiliates.Addicting Games Affiliates may use and further share personal information in the same ways we do. However, if we pass on personal information to a Addicting Games Affiliate, we require that it protect such information in a manner that is consistent with this policy and your expressed preferences. For example, a Addicting Games Affiliate may send to you an e-mail regarding special offers and announcements about products or services that it thinks might be of interest to you, or contact you offline. If you want to opt-out from our (or a family company) using the personal information you provided in these ways, please contact us. Please see "How to Contact Us" later in this policy.
 
-**HOW WE SHARE YOUR PERSONAL INFORMATION.**
+###### **HOW WE SHARE YOUR PERSONAL INFORMATION.**
 
-We will not share your personal information with third parties except (a) if it is for the purpose(s) you provided it; (b) as may be required by law or as we think necessary to protect our company or others from injury (e.g. in response to a court order or subpoena, in response to a law enforcement agency request or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); and (c) with other persons, service providers, or companies with whom we contract to carry out internal Defy Site operations or our business activities (for example, sending out a product or a promotional item that you have requested on the Defy Site). Examples of us sharing your personal information for the purposes submitted are if you participate in a third-party survey or request information from a third-party, we may provide the information provided to such third party so that they can send to you directly the information you requested. Additionally, with your consent, we may share your personal information with companies not affiliated with us (i.e. third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers. If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions will not be exchanged between us and non-affiliated companies. If we do share personal information with a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your personal information. 
+We will not share your personal information with third parties except (a) if it is for the purpose(s) you provided it; (b) as may be required by law or as we think necessary to protect our company or others from injury (e.g. in response to a court order or subpoena, in response to a law enforcement agency request or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); and (c) with other persons, service providers, or companies with whom we contract to carry out internal Addicting Games Site operations or our business activities (for example, sending out a product or a promotional item that you have requested on the Addicting Games Site). Examples of us sharing your personal information for the purposes submitted are if you participate in a third-party survey or request information from a third-party, we may provide the information provided to such third party so that they can send to you directly the information you requested. Additionally, with your consent, we may share your personal information with companies not affiliated with us (i.e. third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers. If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions will not be exchanged between us and non-affiliated companies. If we do share personal information with a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your personal information.
 
-**USE AND DISCLOSURE OF ANONYMOUS INFORMATION.**
+###### **USE AND DISCLOSURE OF ANONYMOUS INFORMATION.**
 
-We may use the non-personal information that we collect to improve the design and content of the Defy Site and to enable us to personalize your Internet experience, including the ads that you see. We also may use this information in the aggregate to analyze how the Defy Site is used, as well as to offer you products, programs or services. See the "Online Tracking and Advertising" section below and the Ad Choices link for more information on personalized ads (also known as online behavioral advertising). We also share aggregate information with Defy Affiliates and third parties. 
+We may use the non-personal information that we collect to improve the design and content of the Addicting Games Site and to enable us to personalize your Internet experience, including the ads that you see. We also may use this information in the aggregate to analyze how the Addicting Games Site is used, as well as to offer you products, programs or services. See the "Online Tracking and Advertising" section below and the Ad Choices link for more information on personalized ads (also known as online behavioral advertising). We also share aggregate information with Addicting Games Affiliates and third parties.
 
-**RECEIPT OF COMMUNICATIONS; OPT-OUT.**
+###### **COLLECTION OF INFORMATION BY OTHERS.**
 
-If you would prefer not to receive marketing or promotional e-mails from us that may relate, for example, to new services or offerings, you may opt-out of receiving these communications by clicking [here](http://www.addictinggames.com/help/help.jsp#EmailSettings) to (i) deregister your account; or (ii) change or edit your preferences. You may also use the opt-out mechanism that is contained in an email. 
+The Addicting Games Site may contain links to other websites, including links that are placed there by us, such as third-party advertisements or text hyperlinks. Please be aware that we are not responsible for the privacy practices of any other website. We encourage all users of the Addicting Games Site to be aware of when they leave the Addicting Games Site, and to read the privacy policies of each and every website that collects personal information. This privacy policy applies solely to information collected by the Addicting Games Site, through the Addicting Games Site. We may offer additional e-mail services or promotions that are sponsored by or co-sponsored with non-affiliated companies. Based on our agreement with them, these third parties may obtain personal information that Addicting Games Site visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the use of this information by these companies.
 
-If you would like to opt-out of receiving marketing or promotional postal mail from us, please click [here](http://www.addictinggames.com/help/help.jsp#EmailSettings) or let us know in writing via letter addressed to: Attn: Privacy, Defy Media, LLC 498 7th Avenue, 19th Floor, New York, NY 10018. For all postal mail opt-out requests, please include your name, street address, city, state, and zip code. We cannot accept postal mail opt-out requests via telephone or facsimile, nor will we be responsible for notices that are not labeled or sent properly or lack complete information. Please note that we may require up to sixty (60) days to fully remove your postal mail information from our mailings. 
+###### **ONLINE TRACKING AND ADVERTISING.**
 
-Following your opt-out, please be aware that we, or Defy Affiliates, may continue to contact you via email or postal mail for administrative or informational purposes, including, but not limited to, follow-up messages regarding the administration of your account, any services, features or functions you have affirmatively enrolled in or registered to use, any promotions or sweepstakes you have participated in or have entered, goods, services or products you have ordered or other transactions you have undertaken on the Defy Site. 
+We collect information regarding the Addicting Games Site visitors through various technologies, such as cookies, Flash cookies and Web beacons, including when you visit the Addicting Games Site or use our applications on third-party sites or platforms. Please visit Ad Choices for further information regarding this collection and usage, including how to disable cookies and online behavioral advertising practices on the Addicting Games Site.
 
-**COLLECTION OF INFORMATION BY OTHERS.**
+###### **CLICKSTREAM DATA.**
 
-The Defy Site may contain links to other websites, including links that are placed there by us, such as third-party advertisements or text hyperlinks. Please be aware that we are not responsible for the privacy practices of any other website. We encourage all users of the Defy Site to be aware of when they leave the Defy Site, and to read the privacy policies of each and every website that collects personal information. This privacy policy applies solely to information collected by the Defy Site, through the Defy Site. We may offer additional e-mail services or promotions that are sponsored by or co-sponsored with non-affiliated companies. Based on our agreement with them, these third parties may obtain personal information that Defy Site visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the use of this information by these companies. 
+As you use the Internet, a trail of electronic information is left at each web site you visit. This anonymous information, which is sometimes referred to as "Clickstream Data," can be collected and stored by a web site's server. Clickstream Data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Addicting Games Site. We may use Clickstream Data as a form of non-personal information to anonymously determine how much time visitors spend on each page of the Addicting Games Site, how visitors navigate throughout the Addicting Games Site and how we may tailor our web pages to better meet the needs of visitors. Any collection or use of Clickstream Data will be anonymous and aggregated.
 
-**ONLINE TRACKING AND ADVERTISING.**
+###### **SUPPLEMENTING INFORMATION.**
 
-We collect information regarding the Defy Site visitors through various technologies, such as cookies, Flash cookies and Web beacons, including when you visit the Defy Site or use our applications on third-party sites or platforms. Please visit Ad Choices for further information regarding this collection and usage, including how to disable cookies and online behavioral advertising practices on the Defy Site. 
+From time to time we may supplement information you give us with information from other sources, such as information validating your address. Thus, information we obtain through the Addicting Games Site may be intermingled with and used in conjunction with information obtained through sources other than the Addicting GamesSite, including both offline and online sources.
 
-**CLICKSTREAM DATA.**
+###### **DISCUSSIONS AND COMMUNITY TOOLS.**
 
-As you use the Internet, a trail of electronic information is left at each web site you visit. This anonymous information, which is sometimes referred to as "Clickstream Data," can be collected and stored by a web site's server. Clickstream Data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Defy Site. We may use Clickstream Data as a form of non-personal information to anonymously determine how much time visitors spend on each page of the Defy Site, how visitors navigate throughout the Defy Site and how we may tailor our web pages to better meet the needs of visitors. Any collection or use of Clickstream Data will be anonymous and aggregated. 
+We may, from time to time, make review lists, chat rooms, forums, message boards, blogs, newsgroups and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using the Addicting Games Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone - not just us - may access your publicly posted information.
 
-**SUPPLEMENTING INFORMATION.**
+###### **OUR COMMITMENT TO SECURITY.**
 
-From time to time we may supplement information you give us with information from other sources, such as information validating your address. Thus, information we obtain through the Defy Site may be intermingled with and used in conjunction with information obtained through sources other than the Defy Site, including both offline and online sources. 
+We take commercially reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the personal information that you supply will not be intercepted while being transmitted to and from us over the Internet including, without limitation, emails. Therefore, you acknowledge and agree that we have no liability regarding the theft, loss, alteration or misuse of personal information, including such information that has been provided to third parties or other users, or with regard to the failure of a third party to abide by the agreement between us and such third party.
 
-**DISCUSSIONS AND COMMUNITY TOOLS.**
+###### **NOTICE TO CALIFORNIA-BASED USERS.**
 
-We may, from time to time, make review lists, chat rooms, forums, message boards, blogs, newsgroups and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using the Defy Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone - not just us - may access your publicly posted information. 
+Under California Civil Code Section 1798.83, if you are a resident of California, you may make a written request to the Addicting Games Site about how we have shared your personal information during the prior calendar year with third parties for their direct marketing purposes. In response to your written request, under California Civil Code Section 1793.83(c)(2), the Addicting Games Site is allowed to instead provide you with a cost-free means to opt-out of such sharing, or a "Customer Choice Notice." The term "third parties" is, solely for purposes of this California Privacy notice, considered as including our Addicting Games Affiliates.
 
-**OUR COMMITMENT TO SECURITY.**
+The Addicting Games Site has chosen to provide you with a cost-free means to opt-out of such sharing. If you would like to exercise your rights under California law, please send your written request to the email address or postal address below, or call us at telephone number below. Within 30 days of receiving your request, the Addicting Games Site will provide you with a Customer Choice Notice.
 
-We take commercially reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the personal information that you supply will not be intercepted while being transmitted to and from us over the Internet including, without limitation, emails. Therefore, you acknowledge and agree that we have no liability regarding the theft, loss, alteration or misuse of personal information, including such information that has been provided to third parties or other users, or with regard to the failure of a third party to abide by the agreement between us and such third party. 
-
-**NOTICE TO CALIFORNIA-BASED USERS.**
-
-Under California Civil Code Section 1798.83, if you are a resident of California, you may make a written request to the Defy Site about how we have shared your personal information during the prior calendar year with third parties for their direct marketing purposes. In response to your written request, under California Civil Code Section 1793.83(c)(2), the Defy Site is allowed to instead provide you with a cost-free means to opt-out of such sharing, or a "Customer Choice Notice." The term "third parties" is, solely for purposes of this California Privacy notice, considered as including our Defy Affiliates. 
-
-The Defy Site has chosen to provide you with a cost-free means to opt-out of such sharing. If you would like to exercise your rights under California law, please send your written request to the email address or postal address below, or call us at telephone number below. Within 30 days of receiving your request, the Defy Site will provide you with a Customer Choice Notice. 
-
-Defy Media, LLC  
-498 7th Avenue, 19th Floor  
-New York, NY 10018  
+Addicting Games, Inc.  
+15332 Antioch Street Suite 200  
+Los Angeles, California 90272   
 Attn: California Privacy
 
-Telephone: (212)244-4307  
-Facsimile: (212)244-4311  
-E-mail: privacy@defymedia.com 
+E-mail: yourfriends@addictinggames.com
 
-The California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Defy Site responds to "Do Not Track" browser settings. The Defy Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed. We continue to review new technologies and reserve the right to adopt a standard once one is created. 
+The California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Addicting Games Site responds to "Do Not Track" browser settings. The Addicting Games Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed. We continue to review new technologies and reserve the right to adopt a standard once one is created.
 
-**INTERNATIONAL USERS.**
+###### **INTERNATIONAL USERS.**
 
-If you are visiting the Defy Site from a location outside of the United States, your connection will be through and to servers located in the United States and all information you provide will be processed and maintained in our web servers and internal systems located within the United States. IN ADDITION, IF YOU ARE LOCATED OUTSIDE THE UNITED STATES, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY OTHER COUNTRIES TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found [here](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:en:HTML)). Users of the Defy Site located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America. This policy and our legal obligations are subject to the laws of the State of New York and the United States of America, regardless of the location of any user. Any claims or complaints must be filed in the United States of America in the State of New York. 
+If you are visiting the Addicting Games Site from a location outside of the United States, your connection will be through and to servers located in the United States and all information you provide will be processed and maintained in our web servers and internal systems located within the United States. IN ADDITION, IF YOU ARE LOCATED OUTSIDE THE UNITED STATES, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY OTHER COUNTRIES TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found [here](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:en:HTML)). Users of the Addicting Games Site located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America. This policy and our legal obligations are subject to the laws of the State of New York and the United States of America, regardless of the location of any user. Any claims or complaints must be filed in the United States of America in the State of New York.
 
-**HOW YOU CAN ACCESS OR CORRECT YOUR PERSONAL INFORMATION.**
+###### **HOW YOU CAN ACCESS OR CORRECT YOUR PERSONAL INFORMATION.**
 
-For instructions on how you can access the personal information that we have collected about you online, correct any errors, or remove such information, please contact us. Please see "How to Contact Us" later in this policy. 
+For instructions on how you can access the personal information that we have collected about you online, correct any errors, or remove such information, please contact us. Please see "How to Contact Us" later in this policy.
 
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
-**SPECIAL NOTE FOR PARENTS.**
+###### **SPECIAL NOTE FOR PARENTS.**
 
-We will not knowingly accept personal information from anyone under 13 years old in violation of applicable law. If you believe that your child under 13 has gained access to the Defy Site without your permission, please contact us. Please see "How to Contact Us" later in this policy. We have taken commercially reasonable steps to restrict use of the Defy Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission. 
+We will not knowingly accept personal information from anyone under 13 years old in violation of applicable law. If you believe that your child under 13 has gained access to the Addicting Games Site without your permission, please contact us. Please see "How to Contact Us" later in this policy. We have taken commercially reasonable steps to restrict use of the Addicting Games Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission.
 
-**TRANSFER OF BUSINESS ASSETS.**
+###### **TRANSFER OF BUSINESS ASSETS.**
 
-Notwithstanding anything contained in this policy to the contrary, please be advised that the personal information you provide is considered an asset of the Defy Site and may be included among transferred assets if the Defy Site, Defy Media, LLC, any or all of the Defy Affiliates, and/or any of their assets are ever acquired by, or merged into, a third party. 
+Notwithstanding anything contained in this policy to the contrary, please be advised that the personal information you provide is considered an asset of the Addicting Games Site and may be included among transferred assets if the Addicting Games Site, Addicting Games, Inc., any or all of the Addicting Games Affiliates, and/or any of their assets are ever acquired by, or merged into, a third party.
 
-**CHANGES TO THIS POLICY.**
+###### **CHANGES TO THIS POLICY.**
 
-Personal information collected via the Defy Site will generally be governed by the version of the policy in effect at the time the information was gathered. However, we may, in our discretion, change, modify, add, or remove portions from this policy at any time. Your continued use of the Defy Site following the posting of any changes to this policy means you accept such changes. This policy is effective as of the date set forth above. 
+Personal information collected via the Addicting Games Site will generally be governed by the version of the policy in effect at the time the information was gathered. However, we may, in our discretion, change, modify, add, or remove portions from this policy at any time. Your continued use of the Addicting Games Site following the posting of any changes to this policy means you accept such changes. This policy is effective as of the date set forth above.
 
-**HOW TO CONTACT US.**
+###### **HOW TO CONTACT US.**
 
-If you have any questions or concerns about this privacy policy you may contact us as follows: 
+If you have any questions or concerns about this privacy policy you may contact us as follows:
 
-Defy Media, LLC  
-498 7th Avenue, 19th Floor  
-New York, NY 10018  
-Attn: Privacy 
+Addicting Games, Inc.  
+15332 Antioch Street Suite 200  
+Los Angeles, California 90272  
+Attn: Privacy
 
-Telephone: (212)244-4307  
-Facsimile: (212)244-4311  
-E-mail: privacy@defymedia.com 
+E-mail: yourfriends@addictinggames.com
+
+#### About Addicting Games
+
+**ABOUT ADDICTING GAMES**  
+Addicting Games is the largest online games site in the US. Reaching over 10 million unique users every month (comScore). We are considered founders in the casual game territory, developing and distributing innovative, irreverent, addictive online games since the early 2000s. Addicting Games has a long history of working closely with game developers to provide one of the largest ranges of free online games including action games, sports games, puzzle games, IO games, mobile games and many more. Our goal is to maintain our values of integrity, inclusion, and most of all, continue to provide a great place where our patrons can come and have hours of gaming fun!  
+ 
+
+**WHAT** **WE DO** **AT** **ADDICTINGGAMES** **?**  
+Listen to our diverse group of Patrons… Offering the best content on the web requires core, commitment, and dedication. We believe in the potential of every individual. At Addicting Games, we promote diversity in all realms of humanity, culture, lifestyle, age, background, experience, religion, socioeconomic status, gender identity, and marital status. Listening to all the feedback we receive daily, staying grounded and being open to new ways of thinking allows us to stay relevant and provide the absolute best and most creative content. Addicting Games players know what they like. We make it easy for them to tell us, with reviews, ratings, favorites, and our social media platforms. Feel free to visit us at [Facebook AG](https://www.facebook.com/AddictingGames/), [Twitter AG](https://twitter.com/AddictingGames), and [Instagram AG](https://www.instagram.com/theofficialaddictinggames/).
+
+**Deliver fresh games**  
+AddictingGames launches more than a dozen new games every week. We present games from hundreds of independent developers, spread around the globe. Patrons can play as much as they want, anytime, anywhere, on any internet-connected devices.
+
+  
+**Innovate**  
+Addicting Games was built on innovation. The idea was simple: get great games on our site! Striving to bring imagination, original ideas, and excitement to everything we do. Addicting Games has produced titles like Fratboy Girlfriend TD, Pencil Racer, and 50 States. We seek out new game concepts and foster experimental game ideas. Displaying the courage and curiosity it requires to be a leader in the casual gaming space.
+
+  
+**Lead the way**  
+AddictingGames was a pioneer in the online game space. We have come a long way and have refined our trade over the years. We are proud to represent games and developers that break the mold and redefine online games. Committed to each other, and to the integrity and accountability required to be a successful team. Through sponsorships, game licensing, and development deals, we offer an infinite amount of ways to collaborate with us. 
+
+#### Advertising Opportunities
+
+Impulsive, popular, and user-driven, AddictingGames brings games to teens and young adults as fresh and relevant to them as pop culture. It's a wild place to gorge on simple, funny games and find great fodder to share with friends.
+
+For inquiries, contact us at [advertising@addictinggames.com](mailto:advertising@addictinggames.com), or  
+fill out our [Contact Form](https://web.archive.org/support/contact-us.jsp).
+
+#### Developer Center
+
+**Jump to:** Submit an Online Game
+
+###### About Developer Community
+
+Welcome to the AddictingGames.com Developer Community. As a member of the community, we ask that you cut your grass, refrain from burning things on Sundays and occasionally send us a game to feature on our website. AddictingGames.com is the largest casual games site on any of the Internets, and, as an awesome game publisher, we were honored with several 2013 FGL Ninja Awards for our hit games.
+
+At Addicting Games, we work with a broad range of developers from across the world. How many developers, you ask? How does 1 million sound? Too high? Yeah, you're probably right. Realistically, it's in the thousands. But that's still a lot!
+
+At AddictingGames.com, we enjoy building relationships with independent and professional game developers for original IP on AddictingGames.com. Our audience is primarily composed of teen gamers, ages 14 and up, who like edgy, irreverent content. So if you've made it this far into the fine print, why stop now?
+
+###### Developer Sponsorship
+
+Are you tired of not getting hundreds of thousands of gameplays? Sick of creating a bunch of cool games and not having anyone to sponsor them? Then you need the Shake Wei AddictingGames.com!
+
+If you want to get a game sponsored by AddictingGames.com, ask yourself if it meets the following criteria:
+
+  * **Is it original?**
+    * Does your game feature some new game mechanic or twist on gameplay? If not, are you at least doing it better than similar games? Just don't send us something that's been done a thousand times before 900 times before is cool, though.
+  * **Is it a good fit for AddictingGames.com?**
+    * There's a lot of great games that simply aren't right for our audience. Check out some of our games to get a feel for our brand. We could use the page views.
+  * **Is it mobile-ready?**
+    * Can you easily convert the game for mobile platforms? If not, it's not a deal-breaker. But if you can, well that's like asking whether we want a tasty doughnut or a tasty doughnut with a jetpack attached to it.
+  * **Is it addicting?**
+    * Does it have that je ne sais quoi? If not, does it speak French and could it tell us what je ne sais quoi means? On the level (pun!), some of the most addicting, replayable games are the simplest. We can't pick up every game we like or every game that's kind of fun. Does your game stand out above the rest?
+
+
+
+If you answered yes to all of the above, well then what are you doing still reading this!? FOLLOW THE DIRECTIONS BELOW AND SUBMIT YOUR GAME ALREADY AT [submit@addictinggames.com](mailto:submit@addictinggames.com) !!!
+
+Please read the following instructions carefully, review the checklist at the bottom of this page, and if you have any questions, please feel free to contact us.
+
+**Important requirements for HTML5 games.**
+
+  1. 1\. The game must be responsive to resizing and can display in landscape or portrait modes. We want your game to appear properly on all modern web browsers and mobile devices.
+  2. 2\. Please make sure your game does not link out to any sites other than your own. If your game does link out, please declare it to us so we can evaluate as we may ask that you remove them. Advertisements also fall under this request.
+  3. 3\. Make sure your games can be played on mobile devices, your control scheme should take mobile players into account.
+
+
+
+**IMPORTANT! IF YOU ARE SUBMITTING AN MMO TITLE, YOU ONLY NEED TO COMPLETE STEP 1.**
+
+**STEP 1:  CREATE A MARKETING ICON (.PNG or .JPEG) AND GAMEPLAY VIDEO THUMBNAIL**
+
+These icons are used to promote your game around our site and are the player’s first introduction to your game. Icons should be colorful and show something interesting or unique about your game. If possible, include the title of your game (see below). Titles should NOT be placed in the Top Left Corner or the Bottom Right Corner to avoid overlap with our banners.
+
+Icons will only be accepted in .PNG and .JPEG format. Please provide images in the following sizes:
+
+  * 180 x 125 (title logo if appropriate)
+  * 393 x 255 (only if submitting an MMO title)
+
+
+
+Examples of our banner placement for ‘multiplayer,’ ‘new,’ and ‘throwback’ assets.
+
+The gameplay video thumbnail should be no bigger than, 10-15 seconds in length, 400kb in size, at 180 x 125 resolution, and in .mp4 format with no audio and 24 frames per second. Give us a quick shot of your game in action! See live examples by hovering over game images on Addicting Games.
+
+**STEP 2 : ADD AN ADDICTING GAMES LOGO,  ADDICTING GAMES & IO GAMES TEXT LINK TO YOUR GAME (AND STINGER IF SUBMITTING A SINGLE PLAYER GAME)**
+
+**NOTE: If you are submitting a single player Flash/HTML5 game, please scroll down to the stinger portion of these directions.**
+
+In some place on the home page, either within the ‘controls’ or ‘about’ section of your game, please add the Addicting Games logo, that links back to [http://www.addictinggames.com](http://www.addictinggames.com/) when clicked, and 2 sentences featuring links to [http://www.addictinggames.com](http://www.addictinggames.com/), and [http://iogames.space](http://iogames.space/). The link should be a DO-Follow link and it should be in plain text, not javascript. The context of this link should be something similar to the following (Please feel free to copy and combine at least 2 of these lines):
+
+**SAMPLE/EXAMPLE**
+
+  * **[Game Title] is available on Addicting Games, home of the largest collection of free online**[ **games**](http://www.addictinggames.com/) **, including car, puzzle, shooting games, and more! We are also listed at**[ **IO Games**](https://iogames.space/) **which has all the latest multi-player games like slither io and surviv io**
+  * ****Looking for more free games like [Game Title]? Check out Addicting Games, where you can play tons of free online**[ **games**](http://www.addictinggames.com/) **!****
+  * **Want to play more free games? [Game Title] and others like it can be found on Addicting Games, the best place to find free**[ **games**](http://www.addictinggames.com/) **to play instantly!**
+  * **Want more IO[ **games**](http://iogames.space/)** **? Check out ioGames.space for a massive library of games like [Game Title] that you can play with others in real time!**
+  * **Play other[ **games**](http://iogames.space/) **against live players on ioGames.space! You’ll find plenty of other games like [Game TItle]!****
+  * **You can play more free[ **games**](http://iogames.space/) **online by visiting ioGames.space! [Game Title] is just the beginning!****
+
+
+
+Please include this text in the ‘about’ or ‘controls’ section of your game description. Please make sure this text is visible in your page’s source code.
+
+**Stinger / Preloader Visuals**
+
+If your game happens to be a single player title, please be sure to incorporate the Addicting Games stinger to display when your game launches. You can find the files you need to implement for Flash or HTML5 games below.
+
+[Flash Stingers](http://cdn2.addictinggames.com/addictinggames-content/ag-assets/stingers/Flash%20stingers.zip)
+
+[HTML5 Stingers](http://cdn2.addictinggames.com/addictinggames-content/ag-assets/stingers/HTML%205%20stinger.zip)
+
+**STEP 3: SEND US YOUR GAME!!!**
+
+Once you have completed the steps above it is time to prep your game and send it to us via email. Place all of the necessary image files into a .ZIP file then send us an email and include:
+
+  1. 1\. Title of your game.
+  2. 2\. Game Dimensions (800x600, for example)
+  3. 3\. Marketing Assets (refer to Step 1)
+  4. 4\. A url that we can iFrame on Addicting Games. If your title is an HTML5 game, please skip this and go to step 5.
+  5. 5\. A link to the archive containing all necessary game files (.html, .swf, or .js) or link to the page containing your game’s files.
+
+
+
+Note: The final point is only if you are contractually required to send us the source code for your game. This is not a common situation.
+
+**Final Checklist for submitting your game:**
+
+  * 1\. Marketing assets (image and video thumbnail) delivered.
+  * 2\. Clickable Addicting Games logo that links to [www.addictinggames.com](http://www.addictinggames.com/) as described in step 2.
+  * 3\. Text Link out to [www.addictinggames.com](http://www.addictinggames.com/) as described in step 2.
+  * 4\. Text Link out to www.iogames.space as described in step 2.
+  * 5\. Deliver the required game files if submitting an HTML5 title, or deliver URL to iFrame with ideal dimensions.
+
+
+
+#### Privacy Policy And Your California Privacy Rights
+
+LAST UPDATED: 3/1/2019
+
+Welcome! This Privacy Policy governs certain websites, online services, and software made available by for use on mobile devices, tablets, personal computers and other devices, which includes certain websites and online services operated by Addicting Games, Inc. (collectively, the "Addicting Games Sites" and, individually, "Site"). By accessing any of the Addicting Games Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Addicting Games Sites collect from users, including children, when they visit the Addicting Games Sites; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected.
+
+Our visitors' privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Addicting Games Sites permitting such visitors. Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries. Younger visitors should always check with their parents or guardians before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of personal information.
+
+###### **SUMMARY.**
+
+For your convenience, the following is a quick summary of our Privacy Policy. **Please read the entire Privacy Policy for more detailed information.**
+
+###### **COMPANY'S AD CHOICES DISCLOSURE**
+
+Addicting Games, Inc. ("Addicting Games") is committed to providing you with the very best experience we can on our network of websites and applications (collectively, the "Addicting Games Sites"). In order to do so, we may gather certain information about you. Please read the following policy ("policy") to understand how certain of your information collected on the Addictng Games Sites will be collected, used, shared and retained.
+
+WHAT INFORMATION DOES Addicting Games COLLECT?
+
+| 
+
+When you visit the Addicting Games Sites, we collect some basic information that does not identify individual users. (See the "Behavioral advertising" section below for more information on certain third parties who may also collect similar information when you visit the Addicting Games Sites for online behavioral advertising purposes.) This includes which pages are visited, which advertisements are viewed, and any feedback from our visitors. We then aggregate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible. For purposes of clarity, unless visitors submit personal information directly to us (e.g.: by means of a site registration, in connection with a contest, etc.), our sites do not collect visitorâs personal information. Additional information on how we treat personal information that is submitted directly to us and how such information may be shared may be found in our privacy policy.  
+  
+---|---  
+  
+BEHAVIORAL ADVERTISING
+
+| 
+
+We analyze non-personal information that we collect on the Addicting Games Sites, or obtain from third parties, and organize it into anonymous user profiles, groups, and audiences, based on factors such as age, gender, geography, interests and online actions. We and our clients and partners then use these anonymous user profiles, groups and audiences to design and deliver customized advertising campaigns or other relevant content. We and our clients also use this data for other related purposes (for example, to do research regarding the results of our online advertising campaigns or to better understand the interests or activities of our visitors.) The behavioral categories we use to customize the ads you may see or for related purposes do not use personal information such as your name, address, e-mail address, phone number, birth date or social security number. Our technology and services are designed to limit our use of data for purposes of behavioral advertising to anonymous, non-personal information.
+
+When you visit any of the Addicting Games Sites and view ads from Addicting Games' advertisers, Addicting Games automatically receives and stores certain types of non-personal information including IP address, web pages viewed, date and time, and responses to advertisements delivered. While each advertising technology uses different types of technology to collect this information, including log files, cookies and pixels, none of the foregoing by itself or together can be tracked to a specific individualâs personal information, and the non-personal information collected by Addicting Games will not be shared with third parties, except as expressly indicated in this policy. The non-personal information collected through your use of the Addicting Games Sites is used to provide relevant, targeted advertising and improve Addicting Gadvertising technology; monitor website traffic; collect statistical data; determine the effectiveness of advertisements and content; and collect data across multiple websites to categorize likely consumer interest segments for use in online behavioral advertising. Addicting Games may track visits to the Addicting Games Sites and this information may be used over time to help predict your consumer interest segments and select the ad content you see. Addicting Games may also use non-personally identifiable profile-based anonymous information with other non-personal information..  
+  
+TRANSPARENCY IN ONLINE BEHAVIORAL ADVERTISING
+
+| 
+
+Addicting Games does not create or use potentially sensitive data segments to provide its targeted online behavioral advertising for advertisers, including, but not limited to, health related audience segments. Addicting Games is a member of the NAI (Network Advertising Initiative) and adheres to the NAI Code of Conduct, which may be found [here](http://www.networkadvertising.org/code-enforcement/code), and the Digital Advertising Allianceâs Self-Regulatory Principles for Online Behavioral Advertising, which may be found [here](http://www.aboutads.info/obaprinciples).  
+  
+OPT-OUT
+
+| 
+
+You may choose to not participate in our personalized advertising services by "opting out" of such personalized advertising services through the Network Advertising Initiativeâs Consumer Opt-out Program. Opting out will not remove advertisements. You will continue to see advertisements provided by Addicting Games, but the advertising will not be customized or targeted based on information collected by Addicting Games. Your will need to update your opt-out preferences if you change/update browsers or computers, or if you delete cookies. See the "Behavioral advertising" section above for more information on how to opt out of online behavioral advertising by certain third parties on the Addicting Games Sites.  
+  
+DATA RETENTION
+
+| 
+
+We and our partners may retain the anonymous user data we or our partners collect on the Addicting Games Sites for up to nine (9) months from the date of its collection, after which time it is deleted from, or deactivated on, our and our partnersâ active databases. In addition, we maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete or deactivate the information from its active database. We maintain archives for disaster recovery, legal and other non-marketing purposes.  
+  
+WITH WHOM DO WE SHARE YOUR INFORMATION AND FOR WHAT PURPOSE?
+
+| 
+
+Except as may otherwise be expressly set forth in this policy or in our privacy policy, Addicting Games does not sell, rent, or trade any personally identifying information with third parties unless users consent to such sharing practices. We may from time to time share user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.  
+  
+WHAT ARE "COOKIES" AND "WEB BEACONS" AND HOW DO WE USE THEM?
+
+| 
+
+The Addicting Games Sites may use "cookies" and "web beacons" to speed navigation, keep track of items viewed, clicked on and/or shared, including links and advertisements, and provide you with custom-tailored services. A "web beacon" is an embedded GIF file that specifically helps us track whether you have viewed a specific piece of content. We also use "cookies" to remember information you gave us so you donât have to re-enter it each time you visit the Addicting Games Sites. By showing us how and when visitors use the Addicting Games Sites, "cookies" and "web beacons" allow us to see which Addicting Games Site areas and content are popular, and help us target content and advertisements based on user behavior. In addition, "cookies" will allow us to display in your profile which Addicting Gamesand affiliated websites you have visited, unless you opt out of that feature in your account. We also collect IP addresses for system administration and to report aggregate information to any sponsors. Some advertisers or websites that have links on our site may also use their own "cookies." We do not control these "cookies." You should check the privacy policy of these advertisers or websites to see whether and how they use "cookies."
+
+Most browsers are initially set to accept "cookies." If you'd prefer, you can set yours to refuse "cookies." You will not be able to fully use the Addicting Games Sites if you turn off the "cookies" option.
+
+If you have any questions or concerns about this policy you may contact us or write to the following address:
+
+Addicting Games, Inc.  
+15332 Antioch Street Suite 200  
+Los Angeles, California 90272   
+Attn: Privacy  
+E-mail: yourfriends@addictinggames.com  
+  
+###### **DISCLOSURE REGARDING COLLECTION AND USE OF PERSONAL INFORMATION.**
+
+Through the Addicting Games Site, users may enter personal information about themselves. This policy explains our online information collection and use practices for the Addicting Games Site, and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information. Please note that our online information collection and use practices may differ from our practices regarding information obtained offline.
+
+REMEMBER: IF YOU MAKE USE OF THE SITE, REGISTER WITH THE SITE, REQUEST INFORMATION THAT WE MAY OFFER, OR SUBMIT INFORMATION IN ANY WAY TO OR THROUGH THE SITE YOU AGREE TO THIS POLICY.
+
+###### **THE INFORMATION WE COLLECT.**
+
+We may collect information about you through a variety of methods, such as your participation in games, quizzes, contests, chat rooms, forums or the like or other documents and information that you submit to us, transactions in which you may engage with us or parent, subsidiary, and affiliated companies of Addicting Games, Inc. (collectively, "Addicting Games Affiliates"), or through visits that you may make to the Addicting Games Site. This policy applies to all personal information that we may collect and maintain about our users via the Addicting Games Site, such as:
+
+  * Your contact information (such as name, Twitter handle, postal and email address, or phone number);
+  * Username and password for the account you may establish on the Addicting Games Site;
+  * Demographic information (such as age, date of birth and gender);
+  * Location information, such as the real-time geographic location of the device on which you install our mobile applications; and
+  * Other details that you may submit to us or that may be included in the information provided to us by third parties.
+
+
+
+You may view or change your personal information at any time by contacting us. Please see "How to Contact Us" later in this policy.
+
+You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., your name, e-mail address, photo, gender, birthday, location, list of friends, people you follow and/or who follow you, the posts or the 'likes' you make) to deliver the content or as part of the operation of the application. We may also obtain non-personal information (e.g., content viewed, games played and performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content.
+
+When you provide information from your social media account, it can help enable us to do things like: (i) give you exclusive content; (ii) personalize your online experience with us within and outside our applications or websites; and (iii) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of such information in accordance with our privacy policy. When you provide personal information to us through an application, on the Addicting Games Site, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
+
+Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their respective privacy policies and terms of use.
+
+###### **Other Collected Information**
+
+We also may use third-party website analytics tools (such as Omniture or Google), that collect information about visitor traffic on the Addicting Games Site. The information that may be collected by automated means includes:
+
+  * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type);
+  * URLs that refer visitors to the Addicting Games Site;
+  * Dates and times of visits to the Addicting Games Site;
+  * Information on actions taken on the Addicting Games Site (such as page views and Addicting Games Site navigation patterns)
+  * A general geographic location (such as country and city) from which a visitor accesses our Addicting Games Site; and
+  * Search terms that visitors use to reach the Addiciting Games Site.
+
+
+
+**When you use our mobile applications on your mobile device, you may choose not to share your geo-location details with us by adjusting the device's location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.**
+
+###### **HOW WE USE YOUR PERSONAL INFORMATION.**
+
+We use your personal information to provide you with products or services that you have requested, to respond to questions or communications and to get in touch with you when necessary. For example, we may use your personal information to communicate with you or to send you information that you have requested. Additionally, by registering for the Addicting Games Site you will be automatically entered into sweepstakes and contests held on the Addiciting Games Site. We may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. We do not consider any companies that are within our "family" of companies to be "third parties" for purposes of this policy. Thus, we may also share personal information with Addicting Games Affiliates.Addicting Games Affiliates may use and further share personal information in the same ways we do. However, if we pass on personal information to a Addicting Games Affiliate, we require that it protect such information in a manner that is consistent with this policy and your expressed preferences. For example, a Addicting Games Affiliate may send to you an e-mail regarding special offers and announcements about products or services that it thinks might be of interest to you, or contact you offline. If you want to opt-out from our (or a family company) using the personal information you provided in these ways, please contact us. Please see "How to Contact Us" later in this policy.
+
+###### **HOW WE SHARE YOUR PERSONAL INFORMATION.**
+
+We will not share your personal information with third parties except (a) if it is for the purpose(s) you provided it; (b) as may be required by law or as we think necessary to protect our company or others from injury (e.g. in response to a court order or subpoena, in response to a law enforcement agency request or when we believe that someone is causing (or about to cause) injury to or interference with the rights or property of another); and (c) with other persons, service providers, or companies with whom we contract to carry out internal Addicting Games Site operations or our business activities (for example, sending out a product or a promotional item that you have requested on the Addicting Games Site). Examples of us sharing your personal information for the purposes submitted are if you participate in a third-party survey or request information from a third-party, we may provide the information provided to such third party so that they can send to you directly the information you requested. Additionally, with your consent, we may share your personal information with companies not affiliated with us (i.e. third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers. If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments and/or deletions will not be exchanged between us and non-affiliated companies. If we do share personal information with a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your personal information.
+
+###### **USE AND DISCLOSURE OF ANONYMOUS INFORMATION.**
+
+We may use the non-personal information that we collect to improve the design and content of the Addicting Games Site and to enable us to personalize your Internet experience, including the ads that you see. We also may use this information in the aggregate to analyze how the Addicting Games Site is used, as well as to offer you products, programs or services. See the "Online Tracking and Advertising" section below and the Ad Choices link for more information on personalized ads (also known as online behavioral advertising). We also share aggregate information with Addicting Games Affiliates and third parties.
+
+###### **COLLECTION OF INFORMATION BY OTHERS.**
+
+The Addicting Games Site may contain links to other websites, including links that are placed there by us, such as third-party advertisements or text hyperlinks. Please be aware that we are not responsible for the privacy practices of any other website. We encourage all users of the Addicting Games Site to be aware of when they leave the Addicting Games Site, and to read the privacy policies of each and every website that collects personal information. This privacy policy applies solely to information collected by the Addicting Games Site, through the Addicting Games Site. We may offer additional e-mail services or promotions that are sponsored by or co-sponsored with non-affiliated companies. Based on our agreement with them, these third parties may obtain personal information that Addicting Games Site visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the use of this information by these companies.
+
+###### **ONLINE TRACKING AND ADVERTISING.**
+
+We collect information regarding the Addicting Games Site visitors through various technologies, such as cookies, Flash cookies and Web beacons, including when you visit the Addicting Games Site or use our applications on third-party sites or platforms. Please visit Ad Choices for further information regarding this collection and usage, including how to disable cookies and online behavioral advertising practices on the Addicting Games Site.
+
+###### **CLICKSTREAM DATA.**
+
+As you use the Internet, a trail of electronic information is left at each web site you visit. This anonymous information, which is sometimes referred to as "Clickstream Data," can be collected and stored by a web site's server. Clickstream Data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Addicting Games Site. We may use Clickstream Data as a form of non-personal information to anonymously determine how much time visitors spend on each page of the Addicting Games Site, how visitors navigate throughout the Addicting Games Site and how we may tailor our web pages to better meet the needs of visitors. Any collection or use of Clickstream Data will be anonymous and aggregated.
+
+###### **SUPPLEMENTING INFORMATION.**
+
+From time to time we may supplement information you give us with information from other sources, such as information validating your address. Thus, information we obtain through the Addicting Games Site may be intermingled with and used in conjunction with information obtained through sources other than the Addicting GamesSite, including both offline and online sources.
+
+###### **DISCUSSIONS AND COMMUNITY TOOLS.**
+
+We may, from time to time, make review lists, chat rooms, forums, message boards, blogs, newsgroups and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using the Addicting Games Site and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone - not just us - may access your publicly posted information.
+
+###### **OUR COMMITMENT TO SECURITY.**
+
+We take commercially reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the personal information that you supply will not be intercepted while being transmitted to and from us over the Internet including, without limitation, emails. Therefore, you acknowledge and agree that we have no liability regarding the theft, loss, alteration or misuse of personal information, including such information that has been provided to third parties or other users, or with regard to the failure of a third party to abide by the agreement between us and such third party.
+
+###### **NOTICE TO CALIFORNIA-BASED USERS.**
+
+Under California Civil Code Section 1798.83, if you are a resident of California, you may make a written request to the Addicting Games Site about how we have shared your personal information during the prior calendar year with third parties for their direct marketing purposes. In response to your written request, under California Civil Code Section 1793.83(c)(2), the Addicting Games Site is allowed to instead provide you with a cost-free means to opt-out of such sharing, or a "Customer Choice Notice." The term "third parties" is, solely for purposes of this California Privacy notice, considered as including our Addicting Games Affiliates.
+
+The Addicting Games Site has chosen to provide you with a cost-free means to opt-out of such sharing. If you would like to exercise your rights under California law, please send your written request to the email address or postal address below, or call us at telephone number below. Within 30 days of receiving your request, the Addicting Games Site will provide you with a Customer Choice Notice.
+
+Addicting Games, Inc.  
+15332 Antioch Street Suite 200  
+Los Angeles, California 90272   
+Attn: California Privacy
+
+E-mail: yourfriends@addictinggames.com
+
+The California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Addicting Games Site responds to "Do Not Track" browser settings. The Addicting Games Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed. We continue to review new technologies and reserve the right to adopt a standard once one is created.
+
+###### **INTERNATIONAL USERS.**
+
+If you are visiting the Addicting Games Site from a location outside of the United States, your connection will be through and to servers located in the United States and all information you provide will be processed and maintained in our web servers and internal systems located within the United States. IN ADDITION, IF YOU ARE LOCATED OUTSIDE THE UNITED STATES, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY OTHER COUNTRIES TO HAVE INADEQUATE DATA PROTECTION (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found [here](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:en:HTML)). Users of the Addicting Games Site located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America. This policy and our legal obligations are subject to the laws of the State of New York and the United States of America, regardless of the location of any user. Any claims or complaints must be filed in the United States of America in the State of New York.
+
+###### **HOW YOU CAN ACCESS OR CORRECT YOUR PERSONAL INFORMATION.**
+
+For instructions on how you can access the personal information that we have collected about you online, correct any errors, or remove such information, please contact us. Please see "How to Contact Us" later in this policy.
+
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+
+###### **SPECIAL NOTE FOR PARENTS.**
+
+We will not knowingly accept personal information from anyone under 13 years old in violation of applicable law. If you believe that your child under 13 has gained access to the Addicting Games Site without your permission, please contact us. Please see "How to Contact Us" later in this policy. We have taken commercially reasonable steps to restrict use of the Addicting Games Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission.
+
+###### **TRANSFER OF BUSINESS ASSETS.**
+
+Notwithstanding anything contained in this policy to the contrary, please be advised that the personal information you provide is considered an asset of the Addicting Games Site and may be included among transferred assets if the Addicting Games Site, Addicting Games, Inc., any or all of the Addicting Games Affiliates, and/or any of their assets are ever acquired by, or merged into, a third party.
+
+###### **CHANGES TO THIS POLICY.**
+
+Personal information collected via the Addicting Games Site will generally be governed by the version of the policy in effect at the time the information was gathered. However, we may, in our discretion, change, modify, add, or remove portions from this policy at any time. Your continued use of the Addicting Games Site following the posting of any changes to this policy means you accept such changes. This policy is effective as of the date set forth above.
+
+###### **HOW TO CONTACT US.**
+
+If you have any questions or concerns about this privacy policy you may contact us as follows:
+
+Addicting Games, Inc.  
+15332 Antioch Street Suite 200  
+Los Angeles, California 90272  
+Attn: Privacy
+
+E-mail: yourfriends@addictinggames.com
+
+#### Terms Of Use Agreement
+
+###### **PLEASE READ THESE TERMS OF USE CAREFULLY BECAUSE THEY DESCRIBE YOUR RIGHTS AND RESPONSIBILITIES**
+
+This is the official Terms of Use Agreement ("Agreement") for [www.addictinggames.com](http://www.addictinggames.com/) ("AddictingGames" or "Site"), an Internet website owned and operated by Addicting Games, Inc. ("Addicting Games", and Site and Addicting Games collectively "we," "us," or "our"). This Agreement governs only the content, features, and activities related to this Site and does not cover websites for any subsidiaries and affiliates of Addicting Games (collectively, "Affiliates"), or any other company, unless specifically stated.
+
+Addicting Games operates and controls the Site from its offices in Los Angeles, CA, in the United States of America. We make no representation that the Site is appropriate or available in other locations. Accordingly, those persons accessing the Site from other locations do so on their own initiative and are responsible for compliance with applicable local laws. Software made available from this Site (including without limitation game downloads) is subject to United States export controls. Thus, no software from this Site may be downloaded, exported or re-exported (a) into (or to a national or resident of) Cuba, Iraq, Libya, North Korea, Iran, Syria, or any other country to which the United States has embargoed goods; or (b) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Commerce Department's Table of Deny Orders. By downloading any software, you represent and warrant that you are not located in, under the control of, or a national or resident of, any such country or on any such list.
+
+These terms and conditions regarding your use of the Site constitute a legally binding agreement between you and Addicting Games and your use of the Site constitutes acknowledgement that you understand and agree to abide by the terms of this Agreement including any additional terms that govern certain products and services, which will be presented in conjunction with those products and services ("Additional Terms"), including the AddictingGames [**User Submission Agreement**](http://www.addictinggames.com/legal/user-submission-agreement.jsp) governing your submission of User Material (as such term is defined therein) and [**the Virtual Currency Purchasing Agreement**](http://www.addictinggames.com/legal/currency-agreement.jsp) governing purchases on the Site. The Site may also provide rules of participation ("Rules") for certain activities and services including, but not limited to, contests and sweepstakes, award programs, subscription services and e-commerce services ("Services"). The term "Site" includes all websites and web pages within the Site as well as any associated equivalent, mirror, replacement, substitute or backup websites and web pages. Unless the context clearly requires otherwise or we explicitly say so in writing, the term "Site" includes "Material" and "Services."
+
+The Site's [**Privacy Policy**](http://www.addictinggames.com/legal/privacy-policy.jsp), Additional Terms and Rules, when applicable, are hereby incorporated herein by reference. To the extent that there is a conflict between this Agreement and the Additional Terms or Rules for the activity in which you choose to participate, the applicable Additional Terms and/or Rules shall govern. This Agreement will remain in full force and effect as long as you are a user of the Site and in the event of termination of any membership, service or feature, you will still be bound by your obligations under this Agreement, the [**Privacy Policy**](http://www.addictinggames.com/legal/privacy-policy.jsp), and any Additional Terms or Rules, including any indemnifications, warranties and limitations of liability.
+
+The words "use" and/or "using" in this Agreement mean any time an individual (a "user"), directly or indirectly, with or without the aid of a machine or device, does or attempts to access, interact with, use, display, view, print or copy from, transmit, receive or exchange data or communicate with, the Site, or in any way utilizes, benefits, takes advantage of or interacts with any function, service or feature of the Site, for any purpose whatsoever. This Agreement does not cover your rights or responsibilities with respect to third party content or sites or any links that may direct your browser or your connection to third party sites or pages. This is the entire and exclusive Agreement between you and us regarding use of the Site and it cannot be modified, except as specifically described below in Section 2.
+
+###### **1\. REGISTRATION AND USE OF PASSWORD**
+
+We may require each user to have a unique user name and password combination in order to use the Site and may also, from time to time, provide users with additional codes or passwords necessary to access and use certain features or functions of the Site. Please read our [**Privacy Policy**](http://www.addictinggames.com/legal/privacy-policy.jsp), which describes the personally identifiable information ("Personal Information") we collect, use, disclose, manage and store. As part of the registration process you will choose a user name and password (or we may assign an initial password which we will give you the option to change). Your user name and password are personal to you and you may not allow any others to use your user name or password under any circumstances. We are not liable for any harm caused or related to the theft or misappropriation of your user name or password, disclosure of your user name or password, or your authorization of anyone else to use your user name or password. You agree to notify us immediately if you become aware of or believe there is or may have been any unauthorized use of your user name or password or any other need to deactivate your user name or password due to security concerns.
+
+PASSWORDS ARE ISSUED ON A PERSONAL BASIS. ACCORDINGLY, ALL CONTENT OR INSTRUCTIONS TRANSMITTED BY OR RECEIVED FROM ANYONE PRESENTING YOUR PASSWORD ON THE SITE WILL BE DEEMED BINDING ON YOU. You agree that you are solely responsible and liable for all actions taken via your password, whether or not made with your knowledge or authority. You agree to guard your password carefully, with the full awareness that a failure to keep it secure will enable others to engage in transactions through the Site for which you will be legally responsible.
+
+###### **2\. MODIFICATIONS**
+
+We reserve the right, at any time and from time to time, for any reason in our sole discretion, to change the terms of this Agreement. We will post or display notices of material changes on the Site and/or e-mail you or notify you upon login about these changes; the form of such notice is at our discretion. Such changes and/or modifications shall become effective immediately upon the posting thereof. Please review the terms of use periodically. Your continued use of the Site following the posting of changes and/or modifications will constitute your acceptance of the revised terms of use. You should periodically review this Agreement, and any applicable Additional Terms, Rules and the [**Privacy Policy**](http://www.addictinggames.com/legal/privacy-policy.jsp).
+
+###### **3\. OWNERSHIP OF INTELLECTUAL PROPERTY**
+
+The contents of this Site, including all Site software, design, text, images, photographs, illustrations, audio and video material, artwork, items, graphic material, databases, Applications, proprietary information and all copyrightable or otherwise legally protectable elements of the Site, including, without limitation, the selection, sequence and 'look and feel' and arrangement of items, and all trademarks, service marks and trade names (individually and/or collectively, "Material"), are the property of Addicting Games and its Affiliates, and any of their successors and assigns, and any of their respective licensors, Advertisers (as defined below), suppliers, and operational service providers and are legally protected, without limitation, under U.S. Federal and State, as well as applicable foreign laws, regulations and treaties. On notice, we will act expeditiously to remove content on the Site that infringes the copyrights of others and will disable access to the Site of anyone who repeatedly to infringes the intellectual property rights of others. We take protection of copyrights, both our own and others, very seriously. We therefore employ multiple measures to prevent copyright infringement over this Site and to promptly end any infringement that might occur. If you believe that the Site contains elements that infringe your copyrights in your work, please follow the procedures set forth in our [**Copyright Compliance Policy**](http://www.addictinggames.com/legal/copyright.jsp)
+
+###### **4\. ADVERTISING**
+
+From time to time, during your use of the Site, you may communicate with, receive communications from, be re-directed to, interact with, or participate in or use the services or obtain goods and services of or from, third parties such as our advertisers, sponsors, or promotional partners (collectively, the "Advertisers"). All such communication, interaction and participation is between you and such Advertisers and we shall not be responsible or liable to you in any way in connection with these activities or transactions (including, without limitation, any representations, warranties, covenants, contracts or other terms or conditions that may exist between you and the Advertiser or any goods or services you may purchase or obtain from any Advertiser).
+
+###### **5\. AGREEMENT TO DEAL ELECTRONICALLY**
+
+All transactions with or through the Site or Addicting Games may, at our option, be conducted and executed electronically. We may keep records of any type of communication conducted via the Site. All electronic records are deemed sent when they are properly addressed to the recipient and the record enters an information processing system outside the control of the sender or the record enters a region of an information processing system under the recipient's control. All electronic records are received when the record enters an information processing system that the recipient has designated or uses for the purpose of receiving electronic records or information of the type sent, in a form capable of being processed by that system, and from which the recipient is able to retrieve the electronic record.
+
+###### **6\. RULES OF CONDUCT**
+
+Your use of the Site is subject to all applicable local, state, national laws and regulations and, in some cases, international treaties. You are solely responsible for all activities, acts and omissions that occur in, from, through or under your user name or password. You shall not use, allow, or enable others to use the Site, or knowingly condone use of this Site by others, in any manner that is, attempts to, or is likely to:
+
+  * be libelous, defamatory, indecent, vulgar or obscene, pornographic, sexually explicit or sexually suggestive, racially, culturally, or ethnically offensive, harmful, harassing, intimidating, threatening, hateful, objectionable, discriminatory, or abusive, or which may or may appear to impersonate anyone else;
+  * affect us adversely or reflect negatively on us, our goodwill, name or reputation or cause duress, distress or discomfort to us or anyone else, or discourage any person, firm or enterprise from using all or any portion, features or functions of the Site, or from advertising, linking or becoming a supplier to us in connection with the Site;
+  * send or result in the transmission of junk e-mail, chain letters, duplicative or unsolicited messages, surveys, contests, pyramid scheme, or so-called "spamming" and "phishing";
+  * unless approved by us, be used for commercial or business purposes, including, without limitation, advertising, marketing or offering goods or services, whether or not for financial or any other form of compensation or through linking with any other website or web pages;
+  * transmit, distribute or upload programs or material that contain malicious code, such as viruses, timebombs, cancelbots, worms, trojan horses, spyware, or other potentially harmful programs or other material or information;
+  * create a false identity for the purpose of misleading others or forge any TCP/IP packet header or part of the header information in any email or newsgroup posting for any reason;
+  * disrupt the normal flow of Communities (as defined below) with an excessive number of messages (i.e. flooding attack) or that otherwise negatively affects other users' ability to participate in Communities;
+  * contact anyone who has asked not to be contacted; "stalk" or otherwise harass anyone;
+  * violate any laws, regulations (including, without limitation, laws regarding the transmission of technical data or software exported from the United States), judicial or governmental order or any treaties, or violate or infringe upon any intellectual property rights, rights of publicity or privacy or any other rights of ours or of any other person, firm or enterprise; gain unauthorized access to the Site, other users' accounts, names, passwords, personally identifiable information or other computers, websites or pages, connected or linked to the Site or to use the Site in any manner which violates or is inconsistent with the terms and conditions of this Agreement;
+  * modify, disrupt, impair, alter or interfere with the use, features, functions, operation or maintenance of the Site or the rights of use and enjoyment of the Site by any other person, firm or enterprise; or
+  * collect, obtain, compile, gather, transmit, reproduce, delete, revise, view or display any material or information, whether personally identifiable or not, posted by or concerning any other person, firm or enterprise, in connection with their or your use of the Site, unless you have obtained the express, prior permission of such other person, firm or enterprise to do so.
+
+
+
+If you choose to use the embedded link function, you agree not to embed a link on or within any illegal site, including but not limited to any site that is indecent, obscene or pornographic or that is determined to be otherwise objectionable in our sole and absolute discretion, and we reserve the right to disable embedded links at any time without notice.
+
+###### **7\. LIMITED NON-COMMERCIAL LICENSE TO USE SITE**
+
+Addicting Games hereby grants you a limited license to use the Site only for the purposes of accessing, viewing or playing content, posting or submitting User Material (as defined in the [**AddictingGames User Submission Agreement**](http://www.addictinggames.com/legal/user-submission-agreement.jsp) ), using the embedded link function, placing product orders or for accessing information, Applications (as defined herein) and services solely for your noncommercial, non-exclusive, non-assignable, non-transferable and limited personal use and for no other purposes. You must not alter, delete or conceal any copyright or other notices contained on the Site, including notices on any Material you download, transmit, display, print or reproduce from the Site. You shall not, nor will you allow any third party (whether or not for your benefit) to reproduce, modify, create derivative works from, display, perform, publish, distribute, disseminate, broadcast or circulate to any third party (including, without limitation, on or via a third party website), or otherwise use, any Material without the express prior written consent of Addicting Games. Any unauthorized or prohibited use of any Material may subject you to civil liability, criminal prosecution, or both, under applicable federal, state and local laws.
+
+Addicting Games reserves the right to suspend or deny, in its sole discretion, your use of all or any portion of the Site as described in Section 14. Any rights not expressly granted to you herein are reserved to Addicting Games. Minors should seek consent of his or her legal guardian before using this site. Unless you have received specific written permission from Addicting Games, you may not (a) "frame" or otherwise impose editorial comment, commercial material or any information or content on, or in proximity to, content displayed on the Site; (b) alter or modify any content on the Site; or (c) deep link or gain unauthorized access to any portion of the Site. Without limiting other restrictions, you agree not to reproduce, transmit, sell, or otherwise exploit the Site for any commercial purpose.
+
+###### **8\. LIMITED NON-COMMERCIAL LICENSE TO USE APPLICATIONS**
+
+Addicting Games may offer you the ability to use certain applications, including without limitation, instant messages, chat areas, bulletin boards, e-mail functions, software and services that allow you to download specific content from the Site to your computer, multi-player games and software that allows you to create greetings, puzzles, photographs, musical compositions and mixes, music videos and cartoons ("Applications"). Without limiting your obligations and restrictions described in Section 7 above, your limited license to use the Applications is subject to the following conditions:
+
+  * The Applications that are made available to you are the copyrighted work of Addicting Games and/or its Affiliates and/or its suppliers. The use of each Application is governed by the end user license agreement ("EULA") that accompanies or is included in the Application or is expressly stated on the Site pages accompanying the Application and this Agreement. In the event that no EULA accompanies the Application, then only this Agreement shall govern your use of the Application. You may not download or use any Application from the Site without agreeing to the EULA, if any, and this Agreement. Certain Applications may be owned by third parties and distributed under a third party EULA and you agree that Addicting Games shall not be responsible for any loss or damage of any sort relating to your dealings with such third parties.
+  * Unless expressly stated otherwise in the EULA, you are granted only a limited license to download and/or use the Application from a single computer for personal and non-commercial purposes. You may not make copies of or distribute the Application or electronically transfer the Application from one computer to another or over a network, nor may you separate any content from an associated Application. You may not decompile, reverse engineer, disassemble or otherwise reduce the Application to human perceivable form. You may not rent, lease or sublicense the Application. You may not create derivative works of the Application and you may not export the Application in violation of any U.S. or foreign law, rule or regulation. All rights in Applications not specifically granted to you in writing by Addicting Games are reserved to Addicting Games.
+  * Addicting Games may cease support of any Application at any time in its sole discretion or terminate your use of or access to any Application, as further described in below Section 15.
+  * Applications you use or download from the Site may contain third party digital rights management systems ("DRMS") which may allow for communication between your software and the third party and utilize security features (e.g., preventing distribution of or access to the applications in the event of unauthorized use). These DRMS are subject to their own license agreements and you agree that Addicting Games shall not be responsible for any loss or damage of any sort relating to or resulting from the use of the DRMS or your dealings with such third parties. The Applications may also contain DRMS produced by Addicting Games which allow for communication between the applications you use or download and our systems and which collect information describing your computer system in order to prevent illegal or unauthorized use of the applications. More specifically, the DRMS for subscription services and Applications licensed from the Site may transmit the following pieces of information, along with other information, when you either enter a purchase key or sign in with your subscription service user name and password: Operating System, CPU Version Information (including serial number from a serial-number-enabled Pentium III), BIOS Version Information, NetBIOS Computer Name, DOS HD Serial Number, Hard Drive Size / Geometry, S.M.A.R.T. IDE HD Serial Number, Network Card MAC Address, IP Address and Size of Physical Memory.
+
+
+
+###### **9\. WIRELESS MARKETING SERVICES AND PROMOTIONAL OPPORTUNITIES**
+
+We may provide users the opportunity to register for special promotions, services, news, programming and information delivered via text messaging and other wireless devices such as mobile phones. Users must provide their consent to receive such information by complying with the specific terms related to such offering. Information that may be requested for specific promotions includes, without limitation, a user's preferences regarding goods or services, choices of music or artists, or other similar survey information. Depending on the promotion, we may also collect an Internet email address or other information and, depending on the information collected, the user may also be required to confirm his or her agreement to this Agreement and, including without limitation, the [**Privacy Policy**](http://www.addictinggames.com/legal/privacy-policy.jsp) and/or Additional Terms or Rules.
+
+**Under no circumstances will** Addicting Games  **or any Affiliates be responsible for any wireless email or text messaging charges incurred by a user or by a person that has access to a user's wireless device, telephone number, or email address.**
+
+You understand, acknowledge and agree that we may, at our sole discretion and without liability to any user, terminate our offer of any specific wireless marketing service or all wireless marketing services at any time without advance notice. We may provide notice of such terminations or changes on this Site.
+
+###### **10\. USER COMMUNICATION FEATURES AND POSTINGS**
+
+Your comments, suggestions and information are important to us. Portions of this Site may provide you and other users an opportunity to participate in instant messaging, forum services, blogs, web communities and other message and communication facilities ("Communities") and may provide you the opportunity, through such Communities or otherwise, to submit, post, display, transmit and/or exchange (a) information, ideas, opinions, messages or other information ("Post" or "Postings") and (b) User Material. You understand, acknowledge and agree that such Postings are the sole responsibility of the person from which such Postings originated. This means that you are solely and entirely responsible for the consequences of all Postings that you upload, post, email, transmit or otherwise make available via the Site. Postings do not reflect the views of the Site, Addicting Games, or the Affiliates. We reserve the right to monitor, edit or screen any Postings. If we determine, in our sole discretion, that any Posting does or may violate any of the terms of this Agreement, we reserve the right, at any time and without limiting any and all other rights we may have under this Agreement, at law or in equity, to: (a) refuse to allow you to Post; (b) remove and delete Postings; (c) revoke your right to use the Site; (d) disclose any information that we deem necessary to ensure your compliance with all applicable laws and with this Agreement; and/or (e) use any technological, legal, operational or other means available to us to enforce the provisions of this Agreement, including, without limitation, blocking specific IP addresses or deactivating your registration on the Site.
+
+If a Posting originates from you or your account, you hereby agree that: (a) you specifically authorize the Site, Addicting Games, and its Affiliates to use such Posting in whole or in part, throughout the universe, in perpetuity (except for AG Uploads, as defined in the AddictingGames [**User Submission Agreement**](http://www.addictinggames.com/legal/user-submission-agreement.jsp)) in or on any and all media, now known or hereafter devised, and alone or together or as part of other information, content and/or material of any kind or nature; (b) you represent and warrant that (i) the Posting is original to you and/or fully cleared for use as contemplated herein, (ii) the Posting does and will not, in any way, violate or breach any of the terms of this Agreement, (iii) the Posting does not contain libelous, tortious, or otherwise unlawful information, infringe or violate any copyright or other right, or contain any matter the publication or sale of which will violate any federal or state statute or regulation, (iv) the Posting is not obscene or in any other manner unlawful, (v) the Posting shall not be injurious to the health of any user, and (vi) we shall not be required to pay or incur any sums to any person or entity as a result of our use or exploitation of the Posting; and (c) if your Posting incorporates the name, logo, brand, service or trademark, voice, likeness or image of any person, firm or enterprise, you specifically represent and warrant that (i) you have the right to grant the Site, Addicting Games, and its Affiliates the right to use all such Postings as described above, (ii) the Posting was produced in compliance with all applicable laws and regulations.
+
+You understand, acknowledge and agree that we have the right to delete, re-format and/or change your Postings in any manner that we may determine (although you will not be responsible for any such changes made). The amount of storage space on the Site per user is limited. Some Postings may not be processed due to space constraints or outbound message limitations. You understand, acknowledge and agree that we assume no responsibility for deletion of Postings or any failure to store, receive or deliver Postings in a timely manner or any other matter relating to Postings. Posting is for noncommercial purposes only and you may not Post in any manner which does or is intended to promote or generate revenue for any business enterprise or commercial activity.
+
+If you believe that any content on the Site (including, without limitation, User Material) violates any of the terms of this Agreement (except for any notices covered by the Copyright Compliance Policy), please [**click here** ](mailto:yourfriends@addictinggames.com)to send us a message about it (please refer to our [**Copyright Compliance Policy**](http://www.addictinggames.com/legal/copyright.jsp) for any notices covered by the Copyright Compliance Policy). We cannot guarantee that we will respond to your message and we reserve the right to take or refrain from taking any or all steps available to us once we receive any such message.
+
+###### **11\. CONTESTS, SWEEPSTAKES, AUCTIONS AND PROMOTIONS**
+
+From time to time, Addicting Games the Affiliates or the Site's operational service providers, suppliers, and Advertisers, may conduct promotions on or through the Site, including, without limitation, auctions, contests and sweepstakes ("Promotions") which may be subject to Additional Terms and/or Rules.
+
+###### **12\. HYPERLINKS TO THIRD PARTY SITES**
+
+The appearance, availability, or your use of URLs or hyperlinks referenced or included anywhere on the Site or any other form of link or re-direction of your connection to, with or through the Site, does not constitute an endorsement by, nor does it incur any obligation, responsibility or liability on the part of, the Site, Addicting Games, or any of its Affiliates, any of their successors and assigns, and any of their respective officers, directors, employees, agents, representatives, licensors, Advertisers, suppliers, and operational service providers. We do not verify, endorse or have any responsibility for any such third party sites, their business practices (including their privacy policies), or any goods or services associated with or obtained in connection with any such site, whether the Site's, Addicting Games', or any of its Affiliates' logo or sponsorship identification is on the third party site as part of a co-branding or promotional arrangement. If any third party site obtains or collects Personal Information from you, in no event shall we assume or have any responsibility or liability. Please read our [**Privacy Policy**](http://www.addictinggames.com/legal/privacy-policy.jsp), which describes how Addicting Games collects and uses your Personal Information and co-branding relationships.
+
+###### **13\. ADS AND MALWARE**
+
+We take great care and pride in creating this Site. We are always on the lookout for technical glitches that effect how the Site works. When we find them on our end, we will fix them. Unfortunately, your home computer may cause some glitches that effect how you see our Site -- and that is beyond our control.
+
+If you experience any unusual behavior, content or ads on the Site, it may be the result of Malware on your computer. Malware -- short for MALicious softWARE -- is a term used to broadly classify a form of software which is installed in a computer system with malicious intentions, usually without the owner's knowledge or permission. Malware includes computer viruses, key loggers, malicious active content, rogue programs and dialers, among others. While we continuously work closely with our partners to ensure that everything on the Site is working properly, sometimes Malware programs on your personal computer may interfere with your experience on our Site and on other sites that you visit.
+
+We suggest that you take some of the following actions which may help to clean your computer and which could prevent future installations of Malware.
+
+  * Update your computer via Windows Update (found in the Tools menu in your Internet Explorer web browser).
+  * Install a SpyWare Removal Tool such as[ **Spybot Search and Destroy**](http://www.safer-networking.org/en/index.html) or [**AdAware**](http://www.lavasoftusa.com/) to clean your computer of Malware.
+  * Install antivirus software, such as [**Norton anti-virus**](http://www.symantec.com/norton/products/index.jsp) or [**McAfee Virus-shield**](http://us.mcafee.com/).
+  * Install [**Microsoft Defender**](https://support.microsoft.com/en-us/help/14210/security-essentials-download) (for Windows computers).
+
+
+
+Please note that we cannot be responsible for the effects of any third-party software including Malware on your computer system. Please make sure to carefully read the Help or Customer Support areas of any software download site.
+
+If you do discover any Malware on your system, we also suggest you speak with a qualified computer technician.
+
+If, after taking the above actions, you are still experiencing any problems, please feel free to contact us at [yourfriends@addictinggames.com](mailto:privacy@addictinggames.com)
+
+###### **14\. DEACTIVATION/TERMINATION OF YOUR REGISTRATION OR USE**
+
+If you are registered to use the Site, you may deactivate your account on the Site, at any time and for any reason, by logging in to your account and then by clicking on the "My Account" link and then selecting the "Cancel My Account" option. We may terminate your use of and registration on the Site at any time and for any reason, with or without cause, without prior notice to you and without any liability or further obligation of any kind whatsoever to you or any other party.
+
+###### **15\. DISCLAIMER AND LIMITATIONS OF LIABILITY**
+
+**THIS SITE, AND ALL MATERIALS, PRODUCTS AND POSTINGS ARE MADE AVAILABLE ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, OR ANY GUARANTY OR ASSURANCE THE SITE WILL BE AVAILABLE FOR USE, OR THAT ALL PRODUCTS, FEATURES, FUNCTIONS, MATERIALS OR OPERATIONS WILL BE AVAILABLE OR PERFORM AS DESCRIBED. Without limiting the foregoing, we are not responsible or liable for any malicious code, delays, inaccuracies, errors, or omissions arising out of your use of the Site. You understand, acknowledge and agree that you are assuming the entire risk as to the quality, accuracy, performance, timeliness, adequacy, completeness, correctness, authenticity, security and validity of any and all features and functions of the Site, including, without limitation, Postings and Materials associated with your use of the Site.**
+
+**EXCEPT AS SPECIFICALLY SET FORTH IN THIS AGREEMENT, WE EXPRESSLY DISCLAIM ANY AND ALL LIABILITY ARISING FROM OR RELATING IN ANY WAY TO ANY AND ALL PRODUCTS AND MATERIALS. EXCEPT AS SPECIFICALLY MADE IN WRITING, WE EXPRESSLY DISCLAIM ALL REPRESENTATIONS AND WARRANTIES OF ANY AND EVERY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO ANY AND ALL PRODUCTS AND MATERIALS, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY OF MERCHANTABILITY OR OF FITNESS FOR A PARTICULAR PURPOSE.**
+
+**YOU UNDERSTAND AND AGREE THAT, TO THE FULLEST EXTENT PERMISSIBLE BY LAW, THIS SITE, ADDICTINGGAMES ANY OF THEIR AFFILIATES, OR THEIR RESPECTIVE SUCCESSORS AND ASSIGNS, OR ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES, LICENSORS, OPERATIONAL SERVICE PROVIDERS, ADVERTISERS, OR SUPPLIERS, SHALL NOT BE LIABLE FOR ANY LOSS OR DAMAGE, OF ANY KIND, DIRECT OR INDIRECT, IN CONNECTION WITH OR ARISING FROM USE OF THE SITE OR FROM THIS AGREEMENT, INCLUDING, BUT NOT LIMITED TO, COMPENSATORY, CONSEQUENTIAL, INCIDENTAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES.**
+
+**YOU AGREE THAT YOUR SOLE REMEDY FOR ANY BREACH OF THESE TERMS BY ADDICTING GAMES OR ANY OF ITS AFFILIATES OR AGENTS SHALL BE, AT ADDICTING GAMES'  OPTION, (1) SUBSTITUTION OR REPLACEMENT OF ALL OR PART OF THE APPLICATION OR PRODUCT THAT GIVES RISE TO DAMAGES INCURRED BY YOU IN REASONABLE RELIANCE ON ADDICTING GAMES; OR (2) REFUND OF THE AMOUNT THAT YOU PAID TO ADDICTING GAMES. YOU AGREE THAT THE DAMAGE EXCLUSIONS IN THESE TERMS SHALL APPLY EVEN IF ANY REMEDY FAILS OF ITS ESSENTIAL PURPOSE. **
+
+###### **16\. ASSUMPTION OF RISKS AND MATURE CONTENT**
+
+**YOU ASSUME ALL RISKS THAT THE SITE, CONTENT, USER MATERIALS, APPLICATIONS, AND RELATED INFORMATION ARE SUITABLE OR ACCURATE FOR YOUR NEEDS AND WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE. ANY APPLICATIONS DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE SITE ARE AT YOUR OWN DISCRETION AND RISK AND YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER OR LOSS OF DATA. BY PARTICIPATING IN MULTI-PLAYER GAMES OR VISITING CHAT ROOMS YOU MAY BE EXPOSED TO RUDE, CRUDE, INDECENT, OR OTHER OFFENSIVE LANGUAGE OR REFERENCES. YOU AGREE THAT ADDICTING GAMES OR ANY OF ITS AFFILIATES OR AGENTS SHALL NOT BE RESPONSIBLE FOR ANY LOSS OR DAMAGE OF ANY SORT RELATING TO YOUR DEALINGS WITH ANY THIRD PARTY ADVERTISER OR CONTENT PROVIDER ON THE SITE.**
+
+###### **17\. INDEMNIFICATION**
+
+You agree to indemnify, defend and hold the Site, Addicting Games, and any of its Affiliates, or any of their successors and assigns, and any of their respective officers, directors, employees, agents, representatives, licensors, Advertisers, suppliers, and operational service providers harmless from and against any and all claims, actions, losses, expenses, damages and costs (including reasonable attorneys' fees), resulting from any breach or violation of this Agreement by you, or public posting of your Postings.
+
+###### **18\. PRIVACY**
+
+We respect your privacy and the use and protection of your Personal Information. Please see our [**Privacy Policy**](http://www.addictinggames.com/legal/privacy-policy.jsp) for important information and disclosures relating to the collection and use of your Personal Information in connection with your use of the Site.
+
+###### **19\. INTERNATIONAL USAGE**
+
+This Site is controlled and operated by Addicting Games from its offices within California, United States of America. Addicting Games makes no representation that the Site, Applications, or related information offered by Addicting Games are appropriate or available in other locations. Those who choose to access the Site from other locations do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.
+
+###### **20\. LAW THAT APPLIES TO THIS AGREEMENT; MISCELLANEOUS TERMS**
+
+This Agreement, together with any Additional Terms, Rules, our [**Privacy Policy**](http://www.addictinggames.com/legal/privacy-policy.jsp) and any other regulations, procedures and policies which we refer to and which are hereby incorporated by reference, contains the entire understanding and agreement between you and us and supersedes any and all prior or inconsistent understandings relating to the Site and your use of the Site. This Agreement cannot be changed or terminated orally. If any provision of this Agreement is held to be illegal, invalid or unenforceable, this will not affect any other provisions and the Agreement will be deemed amended to the extent necessary to make it legal, valid and enforceable. Any provision which must survive in order to allow us to enforce its meaning shall survive the termination of this Agreement; however, no action arising out of this Agreement or your use of the Site, regardless of form or the basis of the claim, may be brought by you more than one (1) year after the cause of action has arisen (or if multiple causes, from the date the first such cause arose).
+
+This Agreement and your use of the Site is governed by, construed and enforced in accordance with the internal substantive laws of the State of California (notwithstanding the State's conflict of laws provisions) applicable to contracts made, executed and wholly performed in California, and, for the purposes of any and all legal or equitable actions, you specifically agree and submit to the exclusive jurisdiction and venue of the State and Federal Courts situated in the State and County of California and agree you will not object to such jurisdiction or venue on the grounds of lack of personal jurisdiction, forum non conveniens or otherwise. To the extent it may be applicable, you agree to opt out from and expressly exclude any applicability of the Uniform Computer Information Transactions Act. IN ANY ACTION OR PROCEEDING COMMENCED TO ENFORCE ANY RIGHT OR OBLIGATION OF THE PARTIES UNDER THIS AGREEMENT, YOUR USE OF THE SITE OR WITH RESPECT TO THE SUBJECT MATTER HEREOF, YOU HEREBY WAIVE ANY RIGHT YOU MAY NOW HAVE OR HEREAFTER POSSESS TO A TRIAL BY JURY.
+
+###### **21\. NOTICES**
+
+Except as expressly stated otherwise, any notices required or allowed under this Agreement shall be given to Addicting Games by postal mail to: Addicting Games, Inc., Attn: Legal Department, 15332 Antioch Street Suite 200, Los Angeles, California 90272, or as to a successor address that Addicting Games makes available on the Site or through other reasonable manner.
+
+This Terms of Use Agreement was last modified 9/18/2014 and is effective immediately.
+
+Copyright © 2018 - Addicting Games, Inc. All rights reserved.
+
+#### Addicting Games User Submission Agreement
+
+Please read this User Submission Agreement carefully because it is a part of the [ **Terms of Use Agreement**](http://www.addictinggames.com/legal/terms-use.jsp) and represents your legally binding agreement with us ("Agreement") regarding your submission (and our display and distribution) of content to the Site via certain technology, functionality and/or features we make available to you so you can upload and post such content for display via the Site (collectively, the "User Material Submission Features"). Unless defined separately, terms used in this Agreement are defined in our [**Terms of Use Agreement**](http://www.addictinggames.com/legal/terms-use.jsp).
+
+When you submit User Material (as defined below in Section 1), or by using or attempting to use the User Material Submission Features, you are signifying your agreement with and acceptance of all terms and conditions of this Agreement as well as the terms and conditions contained in the [**Terms of Use Agreement**](http://www.addictinggames.com/legal/terms-use.jsp) that govern your legal and contractual relationship with Addicting Games, Inc.
+
+We have the right to change the terms and conditions of this Agreement at any time as described in our [**Terms of Use Agreement**](http://www.addictinggames.com/legal/terms-use.jsp). If you do not agree with all the terms and conditions of this Agreement at any time, including, without limitation, those times when we make changes, do not use, do not attempt to use, and immediately discontinue your use of, the User Material Submission Features, because if you do any of these things you are agreeing to be bound by all of the terms and conditions of this Agreement, including, without limitation, any changes we have made.
+
+**IMPORTANT NOTE:** You must meet the Age Requirements in Section 2 of this Agreement and each and every time you submit or attempt to submit User Material, among other things, you will be asked to confirm your compliance.
+
+###### **1\. Submitting User Material.**
+
+The term "User Material" means and refers to any and all content, media and materials you submit for posting or create by using Applications on the Site using any of the User Material Submission Features, including, without limitation, still photographs, writings, messages, user feedback, data, comments, suggestions, information, text, data, software, images, files, spoken statements, music, audio, video, video recordings, audio-visual works and recordings, slides, portraits, animated and/or motion pictures, caricatures, likenesses, vocal or other sounds, sound recordings, voices, voice reproductions, computer graphics and visual effects, as well as any accompanying documentation, packaging or other materials, tangible or intangible, and to all derivative works, translations, adaptations or variations of same, regardless of the tangible medium, broadcast medium, format or form, now known or hereinafter developed or discovered, and regardless of where produced, on location, in a studio or elsewhere, in black-and-white or in color, alone or in conjunction with other work, characters, real or imaginary, in any part of the world. User Material is also considered a "Posting", as such term defined in the [**Terms of Use Agreement**](http://www.addictinggames.com/legal/terms-use.jsp), and therefore, all terms and conditions contained within the section of the [**Terms of Use Agreement**](http://www.addictinggames.com/legal/terms-use.jsp) "Postings" shall apply to all User Material you submit or create on the Site pursuant to the terms and conditions of this Agreement for Posting to the Site. Each time you create, upload or submit User Material (or if you attempt to do so) you will be confirming your acceptance of, and agreement to be bound by, all the terms and conditions of this Agreement. Instructions for uploading User Material can be found on the web page for the upload of User Material. To be considered for posting and display to the public, User Material must meet all the specifications and requirements relating to formatting, compatibility, operating characteristics and submission which can also be found on the Site's web page for the upload of User Material. In order to submit User Material, you will also need to meet our Age Requirements (see Section 2 below). When you submit User Material you may also be asked to provide some information about you and your submission. This may include, without limitation, such things as a descriptive title, some information about the User Material, length, your location and/or similar information. By submitting User Material, you are also agreeing and you understand that the term "User Material" also includes, without limitation, and refers to all of the information you submit or we may receive that is related to your submission. Always keep a copy of anything you send because we are not responsible for lost, damaged, misdirected, unusable or unreadable User Material. Proof that you submitted User Material does not constitute proof that we received anything.
+
+###### **2\. Age Requirements.**
+
+By submitting User Material pursuant to the terms and conditions of this Agreement you are certifying that you satisfy the age eligibility and requirements set forth in the [**Terms of Use Agreement**](http://www.addictinggames.com/legal/terms-use.jsp).
+
+###### **3\. User Material Standards; Unauthorized Content.**
+
+You are solely responsible and liable for your communications and submissions (and the consequences) made under your name, user name, email address, password and your registration and profile information, if any. User Material does not reflect the views of Addictinggames or Addicting Games, and neither Addicting Games, nor any of the Affiliates, represents or guarantees the truthfulness, accuracy, or reliability of any User Material, or endorses or supports any opinions expressed in any User Material. In no event shall Addicting Games or the Affiliates have or be construed to have any responsibility or liability for or in connection with any User Material. If we determine, in our sole discretion, you have not met the Age Requirements (see Section 2 above) or if, in our judgment, you or any User Material you submit violates this Agreement, we reserve the right, at any time, without notice and without limiting any and all other rights we may have under this Agreement, at law or in equity, to (a) refuse to allow you to submit further User Material, (b) remove and delete your User Material, (c) revoke your registration and right to use the User Material Submission Features and (d) use any technological, legal, operational or other means available to enforce the terms of this Agreement, including, without limitation, blocking specific IP addresses or deactivating your registration, access using your e-mail address, your user name and password.
+
+We make no claim the User Material Submission Features or any User Material are appropriate for any particular purpose or audience, or that any video, software or our User Material Submission Features may be accessed, used or downloaded outside of the United States, which may not be legal for certain persons or in certain countries and you do so at your own risk. You are responsible for compliance with the laws of your jurisdiction. The United States controls the export of products and information and you agree to comply with such restrictions and not to export or re-export any User Material including videos, information, software, materials, products or services to countries or persons prohibited under the export control laws and regulations.
+
+You agree you will not submit or attempt to submit, and we have the right to reject, refuse to accept, remove or otherwise handle as Addicting Games deems appropriate, any "Unauthorized Content" which is defined as any User Material that is or could be construed as violating any of the terms and conditions of this Agreement, and/or any of the terms and conditions set forth in our [ **Terms of Use Agreement**](http://www.addictinggames.com/legal/terms-use.jsp), including, without limitation:
+
+  * infringing on a third party's copyright or other intellectual property rights;  
+causing harm, harassing anyone or which may prevent, prohibit, inhibit, restrict or otherwise impair others from using or enjoying the Site;
+  
+
+  * unauthorized access to the User Material Submission Features or information of other users;  
+the modification, impairment, disruption, alteration or interference with the use, features, functions, operation or maintenance of the User Material Submission Features; or
+  
+
+  * any requirements, rules, terms or conditions that may be applicable to the User Material Submission Features.
+
+
+
+Neither Addicting Games nor or the Affiliates control any User Material submitted, although we may use both automated and manual means of reviewing User Material in order to prevent Unauthorized Content from appearing and being displayed on our Site. Addicting Games reserves the right to review any submitted User Material and to delete, remove, move, edit or reject, without notice to you, any User Material that we deem, in our sole discretion, abusive, defamatory, obscene, pornographic, in violation of copyright, trademark or other intellectual property rights, to be in violation of this Agreement or to be unacceptable to Addicting Games or or Affiliates, for any reason or for no reason whatsoever; provided, however, that Addicting Games shall have no obligation or liability to you for failure to do so or for doing so in any particular manner. If Addicting Games receives notice of any claim of infringement that satisfies specific legal requirements, such as notice and takedown requirements under U.S. copyright law (see Section 4 below), we may remove User Material associated with such claim. Addicting Games reserves the right to provide information to law enforcement officials, governmental agencies and pursuant to judicial or regulatory compulsion, to protect their respective interests, the Site or to comply with legal, regulatory, audit and compliance obligations.
+
+###### **4\. Copyright Infringement.**
+
+If you believe any User Material violates the copyright of any other party, you can notify us by complying with the procedures set forth in our [**Copyright Compliance Policy**](http://www.addictinggames.com/legal/copyright.jsp).
+
+###### **5\. Rights Granted to Addicting Games.**
+
+In connection with all User Material you submit using the User Material Submission Features, you grant to Addicting Games, and the Affiliates, the unqualified, unrestricted, unconditional, unlimited, worldwide, irrevocable, perpetual and royalty free right, license, authorization and permission, in any form or format, on or through any media or medium and with any technology or devices now known or hereafter developed or discovered, in whole or in part, to host, cache, store, maintain, use, reproduce, distribute, display, exhibit, perform, publish, broadcast, transmit, modify, prepare derivative works of, adapt, reformat, translate, and otherwise exploit all or any portion of your User Material on the Site and any other channels, services, and other distribution platforms, whether currently existing or existing or developed in the future, of Addicting Games, and the Affiliates (collectively, the "Platforms"), for any purpose whatsoever (including, without limitation, for any promotional purposes) without accounting, notification, credit or other obligation to you, and the right to license and sub-license and authorize others to exercise any of the rights granted hereunder to Addicting Games, and Affiliates, in our sole discretion. For the avoidance of doubt, without limiting the generality of the rights granted to Addicting Games, and the Affiliates, these rights include, without limitation, the right to create derivative works of, distribute and synchronize all or any portion of your User Material in timed relation to any other visual elements; to web cast, pod cast, re-publish, re-broadcast, re-platform, port, syndicate, route, and link to and from all or any portion of your User Material; to encrypt, encode and decode, and compress and decompress all or any portion of your User Material; to edit, mix, combine, merge, distort, superimpose, create or add special effects, illusions and/or other material to or of all or any portion of your User Material; to create composite, stunt, comic or unusual photographs, videos, animations, motion pictures and/or voice reproductions from all or a portion of your User Material; and to excerpt and/or extract portions of your User Material in order to host, store, index, categorize and display your User Material on or through the Platforms. By submitting User Material, in addition to the rights, licenses and privileges referred to above, you are also granting Addicting Games, and the Affiliates, the unqualified, unrestricted, unconditional, unlimited, worldwide, irrevocable, perpetual and royalty free right, license, authorization and permission to use and refer to your name, logo, marks, image, characteristic or other distinctive identification in presentations, marketing materials, customer lists and financial reports, to do, perform, take advantage of and exploit any and all of the rights set forth herein in connection with the marketing, advertising and promotion of the Platforms, and any products, goods, features, functions, capabilities and/or services associated with Addicting Games, and Affiliates and to use and otherwise exploit any ideas, concepts, content, material, expression or form of expression, in whole or in part, contained in your User Material, for any purpose whatsoever, without any credit, compensation or accounting to you, in products or services developed by Addicting Games, and the Affiliates, without limitation or restriction whatsoever. The rights, licenses and privileges described in this Agreement and granted to Addicting Games and the Affiliates shall commence immediately upon submission of your User Material to or through the User Material Submission Features and continue thereafter perpetually and indefinitely, regardless of whether you continue or remain a registered user or not, unless and until terminated, in whole or in part, by Addicting Gameson notice to you. Notwithstanding the foregoing, you acknowledge and agree that neither Addicting Games nor the Affiliates shall be required or have any obligation to host, index, display, accept or use any submitted User Material (or take advantage of any or all of the particular rights and authorities granted or otherwise available) and Addicting Games may, in its sole discretion, remove or refuse to host, index, display, accept, use or do anything at all with respect to any User Material. Once you submit or attempt to submit User Material you shall have no right to prohibit, restrict, revoke or terminate any of the rights granted to Addicting Games or or the Affiliates. You are not entitled to and you will not receive any compensation or other consideration for your User Material or any use made of your User Material once submitted. You also understand and agree that neither all or any portion of your User Material, nor any commercial, advertisement, promotional, marketing or other material associated with your User Material, need to be submitted for your approval prior to use. You hereby release Addicting Games and the Affiliates from any and all claims of any rights, encumbrances, liens, claims, demands, actions or suits which you may or can have in connection with your User Material, including, without limitation, any and all liability for any use or nonuse of the your User Material, claims for defamation, libel, slander, invasion of privacy, right of publicity, emotional distress or economic loss. Addicting Games, and the Affiliates have the right to assign, transfer, convey, license, sub-license and otherwise transfer, sub-contract, delegate, outsource or engage third parties to perform or benefit from all or any portion of its or their rights and/or obligations to any one or more other parties, without accounting, reporting, notification or other obligation or liability to you whatsoever, now or in the future. You also forever waive and relinquish all moral rights or droit moral now or hereafter recognized in connection with your User Material and the rights granted to Addicting Games and the Affiliates hereunder. Addicting Games has the right to license, authorize and/or otherwise enter into agreements and arrangements with the Affiliates to do or perform any of the activities, exercise any of the rights and/or undertake any of the responsibilities granted or imposed under this Agreement, in whole or in part. To the extent Addicting Games does so, when you submit User Material each such Affiliate shall be entitled to exercise and benefit from the terms and conditions, rights, licenses and authorizations granted to Addicting Games hereunder and related thereto as if you had entered into this Agreement with such Affiliate directly.
+
+###### **6\. Ownership.**
+
+Addicting Games retains all right, title and interest in and to the User Material Submission Features, including, without limitation, to all associated intellectual property and proprietary rights existing anywhere in the world and you acquire no ownership, proprietary or other rights, title or interest in or to the User Material Submission Features. Except for the licenses, authorizations, consents and rights granted hereunder and described in this Agreement, as comprehensive and broad as they may seem or actually be, Addicting Games acquires no title or ownership rights in or to any User Material you submit and nothing in this Agreement conveys to us any ownership rights in your User Material. Addicting Games is acting only as a host, bulletin board or conduit for submitted User Material, with all of the specific rights granted by you hereunder. Although by your submission of any User Material you are requesting and directing us and any of or the Affiliates with whom we have made arrangements, to take advantage of and exploit all of the rights and privileges granted hereunder (including, without limitation, the right to display and post the User Material on the Platforms), neither we, nor any of or the Affiliates have any obligation to do any of these things. You must own the rights to the User Material you submit and the right to grant all of the authorizations, permissions, approvals, consents, rights and licenses as described in this Agreement. If you do not exclusively own all of these rights, you must have all necessary authorizations, permissions, approvals, consents, rights and licenses from the owner(s) to enter into this Agreement and perform and comply with all of its obligations. You represent, warrant and covenant to Addicting Games and, by submitting User Material, you reaffirm each such representation, warranty and covenant, that (a) you are not a minor and you have the legal right and capability to enter into this Agreement and perform and comply with all of its terms and condition or, if you are a teenager, your parent or legal guardian has agreed to this Agreement on your behalf, (b) all of the information provided by you associated with your User Material is correct, complete and current, (c) your submission of any User Material does not violate this Agreement, any rights of any other party, any of your obligations, any law or regulation or infringes upon or misappropriates any intellectual property, privacy, publicity or other rights of any party, (d) you make in the [ **Terms of Use Agreement**](http://www.addictinggames.com/legal/terms-use.jsp), including, without limitation, those relating to Postings and (e) you hold and will continue to hold all the ownership, license, proprietary and other rights necessary to enter into, authorize, grant rights and perform your obligations under this Agreement as described. Upon the request of Addicting Games, you will furnish Addicting Games any documentation, substantiation and releases necessary and reasonably required to verify and substantiate your compliance with any or all of the terms and conditions of this Agreement, including, without limitation, the foregoing representations, warranties and covenants. You represent and warrant that the submission of your User Material is not subject to or under the jurisdiction of any guild or union collective bargaining agreement, and you further acknowledge that Addicting Games is not signatory to any such agreement. Notwithstanding anything to the contrary, you also understand and agree that Addicting Games shall not be obligated or responsible for providing any guild or residual payments in connection with the submission and exploitation of the User Material. You acknowledge that other persons may have submitted User Material to us, may have made public or developed, or may originate, submit, make public or develop, material similar or identical to all or a portion of your User Material or concepts contained therein, and you understand and agree you will not be entitled to any compensation because of the use or exploitation thereof and the submission of User Material, or any posting or display thereof, is not any admission of novelty, priority or originality. Even if you subsequently see or learn of a presentation, motion picture, still photograph, film, video or any other content which appears to incorporate any idea or concept or include anything similar or identical to that contained in any User Material you or anyone else submits, that is purely coincidental and unavoidable.
+
+###### **7\. Financial Consideration.**
+
+Addicting Games reserves the sole and exclusive right to sell advertising and otherwise exploit, benefit from and/or realize revenue from the conduct of its business and operating the Site, the User Material Submission Features or other Platforms and any and all arrangements made with respect thereto, without accounting, obligation or liability to you, notwithstanding that your User Material may be displayed on or otherwise used by or in connection with the Site, the User Material Submission Features or other Platforms.
+
+###### **8\. Indemnification.**
+
+Your indemnification obligations under the [**Terms of Use Agreement**](http://www.addictinggames.com/legal/terms-use.jsp) include, without limitation, any third party claims arising from, related to or caused by your User Material, the submission of User Material and/or in any way associated with this Agreement and/or the Site.
+
+###### **9\. Disclaimers and Limitation of Liability.**
+
+THE USER CONTENT SUBMISSION FEATURES ARE PROVIDED "AS IS" WITH NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED AND YOUR USE OF THE USER CONTENT SUBMISSION FEATURES IS AT YOUR OWN RISK. YOU ARE SOLELY RESPONSIBLE FOR YOUR USER CONTENT, THE REPRESENTATIONS AND OBLIGATIONS UNDER THIS AGREEMENT AND FOR ANY DAMAGES TO YOUR COMPUTER SYSTEM OR LOSS OF DATA RESULTING FROM YOUR USE OF THE SITE OR USER CONTENT SUBMISSION FEATURES. ADDICTING GAMES EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES, INCLUDING, WITHOUT LIMITATION, WARRANTIES CONCERNING ACCESS TO AND/OR THE AVAILABILITY, ACCURACY, USEFULNESS AND/OR SECURITY OF THE SITE OR USER CONTENT SUBMISSION FEATURES, ANY CONTENT, MATERIAL, SOFTWARE, INFORMATION, DATA, SOFTWARE, CAPABILITIES MADE AVAILABLE TO YOU, RESOURCES, FACILITIES, PRODUCTS AND/OR SERVICES, AND WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR THAT THE USER CONTENT SUBMISSION FEATURES WILL FUNCTION OR PERFORM IN ANY PARTICULAR MANNER. THE SITE AND USER CONTENT SUBMISSION FEATURES ARE MAINTAINED ON SERVERS IN THE UNITED STATES INTENDED FOR USERS AND USE OF THE USER CONTENT SUBMISSION FEATURES THAT ARE NOT RESTRICTED OR PROHIBITED BY LAW OR REGULATION. ADDICTING GAMES DISCLAIMS ALL LIABILITY FOR ANY USE NOT SPECIFICALLY AUTHORIZED OR THAT IS IN VIOLATION OF THIS AGREEMENT OR THE LAWS OR REGULATIONS THAT MAY APPLY TO YOU IN ANY JURISDICTION OR COUNTRY. ADDICTING GAMES EXPRESSLY DISCLAIMS ALL LIABILITY FOR ANY AND ALL DAMAGES, WHETHER DIRECT, CONSEQUENTIAL, SPECIAL, INDIRECT, EXEMPLARY OR PUNITIVE DAMAGES, HOWSOEVER ARISING OR CAUSED, WHETHER FORESEEABLE OR NOT, REGARDLESS OF THE FORM OF ACTION OR THE BASIS OR CHARACTERIZATION OF THE CLAIM AND EVEN IF ADVISED OF THE POSSIBILITY OF DAMAGES.
+
+###### **10\. General.**
+
+The [**Terms of Use Agreement**](http://www.addictinggames.com/legal/terms-use.jsp) , incorporating this Agreement, is the entire agreement between you and us relating to User Material and your use of the User Material Submission Features and supersedes any prior or inconsistent agreements. Addicting Games may terminate this Agreement with you and your right to use the User Material Submission Features at any time without notice to you.
+
+This Addictinggames User Submission Agreement was last modified on 9/18/2014, and is effective immediately.
+
+Copyright © 2018 - Addicting Games, Inc. All rights reserved.
+
+#### Addicting Games Virtual Currency Purchasing Agreement
+
+This AddictingGames Virtual Currency Purchasing Agreement ("Agreement") is between you and Addictinggames.com ("we," "us," or "our"), an Internet website owned and operated by Addicting Games, Inc. and governs your purchase or other acquisition of AG Bucks, coins, chips or any of our other virtual currencies (each individually or collectively referred to in this Agreement as "AG Bucks") and its use to purchase virtual items or services ("Content") as set forth herein. This Agreement supplements the [**AddictingGames Terms of Use**](http://www.addictinggames.com/legal/terms-use.jsp).
+
+###### **Revised Terms**
+
+We may revise this Agreement at any time and the revisions will apply to all subsequent purchases of AG Bucks and acquisitions of Content. When we revise this Agreement, we change the "Last Updated" date below and may e-mail you or notify you upon login, at our discretion. Each time you purchase AG Bucks you agree that you will review the terms of this Agreement and that you agree to the revised terms.
+
+###### **License**
+
+Purchases or other acquisition (we may award AG Bucks such as in connection with promotions or tournaments) of AG Bucks provide only a limited, non-transferable, non-sublicensable, revocable license to use such AG Bucks to access Content that we expressly make available for use with AG Bucks ("Service(s)") for your personal non-commercial use. When you acquire Content, you receive a limited license to use such Content for your personal non-commercial use with the Services. You acknowledge that you do not acquire any ownership rights in or to the Content or AG Bucks. Once you acquire a license to AG Bucks, or acquire a license to Content, they cannot be transferred to another account except through the AddictingGames gifting functionality which may be provided in certain instances. We may cancel any AG Bucks or Content transferred, assigned, or sold in violation of this Agreement. AG Bucks has no monetary value and does not constitute currency or property of any type. AG Bucks may be redeemed for Content only, and cannot be sold or transferred, or exchanged for "real world" money, cash or for any other goods or services. Other than as expressly set forth herein, purchases of AG Bucks and Content are final and non-refundable and you are not entitled to a refund of any unused AG Bucks or Content. Purchases
+
+During the term of your license, you have the right to redeem AG Bucks for selected Content. We neither guarantee the availability of particular items of Content nor that particular items of Content will be offered for any particular time; we may change and update our inventory of Content without notice to you. As set forth in Section 15 of our [**Terms of Use**](http://www.addictinggames.com/legal/terms-use.jsp#disclaimer), all Content is provided "as is."
+
+###### **Term**
+
+The term of your AG Bucks license starts when you acquire such AG Bucks and, subject to this Agreement, expires the earlier of twelve months from the date of purchase, or if otherwise awarded ninety days from the date of award (as the context requires and applicable to each individual purchase or award), or the day that your access to the Site or your account is cancelled, suspended or terminated as set forth herein. Upon expiration, we have the right to redeem any remaining AG Bucks for Content such as a badge or award which may be displayed on your user account, or equivalent item of Content, which shall be identified at our sole discretion. If you do not use your account for twelve months it may be cancelled for non-use and any remaining AG Bucks similarly redeemed.
+
+Once AG Bucks is redeemed for Content such Content is not returnable, exchangeable, or refundable for AG Bucks or any other virtual currency, or for cash or other goods or services. If you order Content that becomes unavailable before it can be provided to you, your only remedy is to receive a refund of your purchase price in AG Bucks.
+
+The term of your Content license starts when you receive access to such Content and, subject to the terms of this Agreement, expires the earlier of: (i) for Content with a specified number of uses (such as single use), upon exercise of the specified number of uses, or twelve months and (ii) for unlimited use items, twelve months. You will not receive any refund, replacement or set-off for any items, or portions of items, remaining beyond this license term.
+
+###### **Price**
+
+The price payable by you (the "Price") is the price indicated on the applicable website for these Services. If you are resident in Europe or another foreign country, the Price does not includes any applicable VAT or other applicable sales and use taxes and you may be charged an additional amount as required by local laws. We reserve the right to change the price and specifications shown for any Content which shall become effectively immediately upon such change.
+
+###### **Purchases**
+
+AG Bucks may only be held by legal residents of countries where access to and use of the Services are permitted. AG Bucks may only be purchased or acquired from us and through means we provide on the applicable website(s) or otherwise expressly authorize. We reserve the right to refuse your request(s) to purchase and/or acquire AG Bucks for any reason. When you purchase AG Bucks, it will reside in your account ("Wallet Account") until discharged as set forth herein. When purchasing AG Bucks or Content, you agree to pay us the applicable charges for your purchase(s), using a valid charge card or other payment method we may accept in accordance with the billing terms and prices in effect at the time the fee or charge becomes payable. All sales of AG Bucks and/or Content are final. If your Wallet Account is charged for items you did not purchase, or you did not receive the items you purchased, or you were charged an incorrect amount, you may request a refund or correction. Any refund request must be received within 96 hours from the time of purchase in order for refunds to be issued. Refund requests past 96 hours from time of purchase will not be honored. Other than charges to your Wallet Account, you agree to notify us about any billing problems or discrepancies within 30 days after they first appear on your account statement. If you do not bring them to our attention within 90 days, you agree that you waive your right to dispute such problems or discrepancies. When submitting information to purchase AG Bucks, you agree to our credit card authorization policy, in which we issue a small temporary authorization charge to validate your credit card account. This policy helps protect you against credit card fraud and will not result in a charge to your account, though it may temporarily appear as a pending charge on some bank statements. You are responsible for and agree to reimburse us for all reversals, charge-backs, claims, fees, fines, penalties and other liability incurred by us (including costs and related expenses) that were caused by or arising out of payments that you authorized or accepted. You understand that we may suspend or terminate your user account or Wallet Account if for any reason a charge you authorize us to make to your credit card or other method of payment cannot be processed or is returned to us unpaid and, if such even occurs, you shall immediately remit to us payment for such charge through an alternative payment method.
+
+###### **Account**
+
+As set forth in Section 1 of the [**AddictingGames Terms of Use**](http://www.addictinggames.com/legal/terms-use.jsp#registration) Agreement, you will be required to establish and protect the confidentiality of your user account. We are not liable for any harm caused or related to the theft or misappropriation of your user name or password, disclosure of your user name or password, or your authorization of anyone else to use your user name or password or otherwise access your account. You agree to notify us immediately if you become aware of or believe there is or may have been any unauthorized use of (or activity using) your user name or password or any other need to deactivate your user name or password due to security concerns.
+
+###### **Cancellation or Suspension**
+
+We can cancel or suspend your access to AG Bucks, Content, the Services or your Wallet Account, in our sole discretion and without prior notice, if, at our sole discretion (a) you fail to comply with this Agreement or the [ **AddictingGames Terms of Use**](http://www.addictinggames.com/legal/terms-use.jsp) Agreement or any other applicable AddictingGames policies or agreements; or (b) if we otherwise suspect fraud or misuse of AG Bucks and/or any Content, or any other unlawful activity associated with an account membership registered to or used by you. We have no obligation or responsibility to, and will not reimburse you for, any AG Bucks or Content lost due to such cancellation or suspension.
+
+###### **Termination of Services**
+
+We have the absolute right to offer, manage, regulate, modify and/or eliminate AG Bucks, the Content and/or the Services, or any portion thereof, at any time, without any liability to you. If we discontinue offering the Service, we will provide at least sixty (60) days advance notice to you by posting a notice on AddictingGames.com and or sending you an email to the email associated with your user account. You will then have thirty days from the date of our notice to redeem any AG Bucks. Any AG Bucks remaining in your Wallet Account beyond such 30 day notice shall automatically be redeemed for Content such as a badge or award which may be displayed on your user account, or equivalent item of Content, which shall be identified at our sole discretion.
+
+Last Updated 9/18/2014
+
+#### Addicting Games Copyright Compliance Policy
+
+Last Updated: 9/18/2014
+
+This is the official copyright compliance policy ("Copyright Compliance Policy") for Copyright Compliance Policy applies regardless of what type of Device you use to access the Site. This **Copyright Compliance Policy** sets forth the procedures undertaken by Addictto respond to notices of alleged copyright infringement from copyright owners and terminating the accounts of repeat infringers and does not cover any other procedures, for any other purpose, or the procedures of Addicting Games or any subsidiaries and affiliates of Addicting Games (collectively, " _Affiliates_ "), or any other company, unless specifically stated.
+
+This **Copyright Compliance Policy** is a part of the terms and conditions which are set forth in our [Terms of Use Agreement](http://www.addictinggames.com/legal/terms-use.jsp). Any terms that are not defined in this **Copyright Compliance Policy** shall have the meaning given in the Terms of Use Agreement. Both the Terms of Use Agreement and this Copyright Compliance Policy are legally binding on all users.
+
+We take protection of copyrights, both our own and others, very seriously. We therefore employ multiple measures to prevent copyright infringement over this Site and to promptly end any infringement that might occur.
+
+###### **How to Send a Notice of Copyright Infringement**
+
+In you are a copyright owner (or the owner's authorized agent) and have a good-faith belief that material on our website infringes one of your copyrights, you may notify us using this procedure. In order for us to process your notice of copyright infringement, it must be sent to the department designated below and must include the information specified below. When we receive a notice under this procedure, we will expeditiously remove or disable access to the material that is claimed to be infringing or to be the subject of infringing activity.
+
+Send your notice of infringement to our designated department for receiving such notices:
+
+Name of Department Designated to Receive Notification of Claimed Infringement:
+
+**Attn: Copyright Department**
+
+Full Address of Designated Department to Which Notification Should be Sent to:
+
+**15332 Antioch Street Suite 200  
+Los Angeles, California 90272**
+
+Email Address of Designated Department:
+
+**yourfriends@addictinggames.com** ****
+
+**DO NOT SEND ANY INQUIRIES UNRELATED TO COPYRIGHT INFRINGEMENT (e.g., REQUESTS FOR TECHNICAL ASSISTANCE OR CUSTOMER SERVICE, REPORTS OR E-MAIL ABUSE, etc.) TO THE CONTACT LISTED ABOVE. YOU WILL NOT RECEIVE A RESPONSE IF SENT TO THAT CONTACT.**
+
+Your notice of infringement must be a written communication provided to the department designated above that includes substantially the following information:
+
+**1.** **A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.**
+
+**2.** **Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works on our Site is covered by a single notification, a representative list of such works on our Site.**
+
+**3.** **Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material.**
+
+**4.** **Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.**
+
+**5.** **A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.**
+
+**6.** **A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.**
+
+WE CAUTION YOU THAT IF YOU KNOWINGLY MISREPRESENT THAT ONLINE CONTENT IS INFRINGING, YOU MAY BE SUBJECT TO HEAVY CIVIL PENALTIES. THESE INCLUDE MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS FEES INCURRED BY US, BY ANY COPYRIGHT OWNER, OR BY ANY COPYRIGHT OWNER'S LICENSEE THAT IS INJURED AS A RESULT OF OUR RELYING UPON YOUR MISREPRESENTATION. YOU MAY ALSO BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY.
+
+###### **How to Send a Counternotice If Your Posting Was Removed in Response to a Notice of Infringement and You Believe the Posting Is Not Infringing**
+
+As explained above, if we receive a notice of infringement sent to our designated department with the information described above, we will expeditiously remove or block access to the material that is claimed to be infringing. We will also send a notification to the user who posted the material, at the email address provided by the user in connection with his or her account with us, telling the user that the material was removed or access to it was blocked because of claimed infringement.
+
+If you are a user who posted material that was removed in response to a notice of infringement and you believe that material was removed due to mistake or misidentification, you may request that we replace the posting by sending us a counternotice as follows:
+
+You must send the counternotice to our designated department for receiving notices of infringement, whose name and contact information is above.
+
+Your counternotice must be a written communication sent and must include substantially the following information:
+
+**1\. A physical or electronic signature of the subscriber (you the user).**
+
+**2. **Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled.** **
+
+****3.** **A statement under penalty of perjury that the user has a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.** **
+
+****4.** **The user's name, address, and telephone number, and a statement that the user consents to the jurisdiction of Federal District Court for the judicial district in which the address is located, or if the user's address is outside of the United States, for any judicial district in which the service provider may be found, and that the user will accept service of process from the person who provided notification of copyright infringement or an agent of such person.** **
+
+**When we receive a counternotice that complies with these requirements, we reserve the right, but not the obligation, to restore the material that was removed after forwarding a copy of the counternotice to the person who sent the notice of infringement and waiting at least 10 business days. If, during those 10 business days, the person who sent the original notice of infringement notifies us that such person has instituted a suit to seek a court order to restrain the user from infringing activity relating to the material on our website, we will not replace the material. Otherwise, we may repost the material at our discretion. However, pursuant to the Section of the Terms of Use Agreement entitled "Postings", we retain the right to remove, block access to, or not restore material at any time for any reason without any liability to the posting user. In particular, a user who sends a counternotice pursuant to this **Copyright Compliance Policy** expressly acknowledges and agrees that we shall not be liable to the user under any circumstances for declining to replace material. **
+
+****WE CAUTION YOU THAT IF YOU KNOWINGLY MISREPRESENT THAT ONLINE CONTENT IS NOT INFRINGING, YOU MAY BE SUBJECT TO HEAVY CIVIL PENALTIES. THESE INCLUDE MONETARY DAMAGES, COURT COSTS, AND ATTORNEYS FEES INCURRED BY US, BY ANY COPYRIGHT OWNER, OR BY ANY COPYRIGHT OWNER'S LICENSEE THAT IS INJURED AS A RESULT OF OUR RELYING UPON YOUR MISREPRESENTATION. YOU MAY ALSO BE SUBJECT TO CRIMINAL PROSECUTION FOR PERJURY.** **
+
+###### **Repeat Infringer Policy**
+
+**We have a policy of terminating the accounts of repeat infringers. A repeat infringer includes any user who has made two or more Postings for which we receive a notice of infringement under this **Copyright Compliance Policy**. Each user agrees that if his or her account is terminated pursuant to this **Copyright Compliance Policy** , the user will not attempt to establish a new account under any name, real or assumed, and further agrees that if the user violates this restriction by opening a new account after being terminated pursuant to this **Copyright Compliance Policy** , the user shall indemnify and hold us harmless for any and all liability that we may incur therefor. **
+
+****Sole Statement:** This document is the sole statement of the **Copyright Compliance Policy** with respect to this Site, and no summary, restatement or other version thereof, or other statement or policy, in any form, including, without limitation, machine-generated, is valid. **
+
+**This **Copyright Compliance Policy** was last updated on the date noted above and is effective immediately. **
+
+**Copyright © 2018 - Addicting Games, Inc. All rights reserved.**
+
+#### What Do Our Ratings Mean?
+
+## What Do Our Ratings Mean?
+
+We want everyone to have a fun and enjoyable experience playing games on AddictingGames. We especially want to educate our users and parents about which games are appropriate to play given each player's maturity level.
+
+To educate our users and their adult supervisors on games they may not find appropriate, AddictingGames provides a Game Rating System to assist users in identifying appropriate games given their maturity level. Below are the details of our rating system. Our goal is to help everyone find the games they like to play, so use our rating system as a guide to help you find the best games on the site for you!
+
+**All Ages**  
+Games rated "All Ages" contain content and themes that are suitable for all ages.
+
+**Teen+**  
+Games rated "Teen +" contain suggestive themes that are suitable for ages 13 and older.
+
+**Teen Caution**   
+Games rated "Teen Caution"  contain content and stronger suggestive themes that may or may not be suitable for ages 13 and older.
+
+Adults supervising young people who visit AddictingGames should discuss what games are appropriate for their young person to play. If you are supervising a young person on this site, look for the rating in the Game Information section on each game page. You can also [click here for more information about moderating your young person's experience](https://web.archive.org/help/parents.jsp).
+
+#### For Parents & Guardians
+
+## Game Rating System
+
+We want everyone to have a fun and enjoyable experience at AddictingGames, the largest source of the best free online games including funny games, flash games, arcade games, dress-up games, internet games, shooting games, word games, RPG games, racing games, and much more. Many of our games are appropriate for users of all ages, but some of the games contain mature themes and/or mild violence and are primarily intended for teenagers and young adults. Because everyone can play for free and no registration is required, it is important that adults have the opportunity to understand the site and identify which games are appropriate for their particular household. To educate our users and their adult supervisors on games they may not find appropriate, AddictingGames provides a Game Rating System to assist users in identifying appropriate games given their maturity level. In addition, games with mature themes and moderate violence are flagged with a bomb icon  . Adults supervising young people that visit AddictingGames should discuss whether games with a bomb icon are appropriate for the user to play given the maturity level of the user. Click here for more information on our Game Rating System. [Click here for more information on our Game Rating System](https://web.archive.org/help/content-ratings.jsp).
+
+Other Tips for Adults reviewing the site for use by Minors:
+
+  * Consider the user's unique personality and level of maturity. Every young person is different, and adults should use their judgment in deciding which games are appropriate for young people in their care.
+  * As with any site, watch what games minors are playing and talk to them about the games.
+  * Try playing the games yourself! You'll have fun and be able to provide better guidance for your young person.
+  * If you cannot supervise a user's play on the site, and are not comfortable with the young person visiting AddictingGames on his or her own, you may want to consider blocking the site by using commercially available parental control software.
+
+
