@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jbe-platform.com privacy policy that was archived on 2018-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180807180041id_/https%3A//www.jbe-platform.com/access) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbe-platform.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613074337id_/https%3A//www.jbe-platform.com/access) for the most accurate reproduction.*
 
-# John Benjamins e-Platform: Privacy policy
+# Privacy policy | John Benjamins
 
 **John Benjamins Publishing Company** (“Benjamins”, “we”, “us” or “our”) is committed to protecting and respecting your privacy online. 
 
