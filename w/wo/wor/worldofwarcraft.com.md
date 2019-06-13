@@ -1,130 +1,534 @@
-> *The following text is extracted and transformed from the worldofwarcraft.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623212259id_/http%3A//us.blizzard.com/company/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofwarcraft.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613175114id_/https%3A//www.blizzard.com/en-gb/legal/8c41e7e6-0b61-42c4-a674-c91d8e8d68d3) for the most accurate reproduction.*
 
-# Blizzard Entertainment:Privacy Policy
+# Blizzard Entertainment® Privacy Policy Blizzard Legal
 
-Privacy Policy 
+Blizzard Entertainment respects the privacy of its players and recognizes the importance of providing a secure environment for their data. We have adopted this Privacy Policy (“Privacy Policy”) that explains how and why we collect, store and use the information you provide us.
 
-Privacy Policy 
+## 1\. Who is processing your data?
 
-### Blizzard Entertainment® Online Privacy Policy
+Blizzard Entertainment International, a division of Activision Blizzard International B.V., is the data controller for the processing of your personal data. We are a registered company located at
 
-[](http://www.esrb.org/confirm/blizzard-confirmation.aspx)
+Prinses Beatrixlaan 582, WTC The Hague, Tower E, 6th Floor, 2595 BM The Hague, The Netherlands.
 
-Blizzard Entertainment and its affiliate companies (collectively "Blizzard") respect the privacy of its on-line visitors and recognize the importance of providing a secure environment for them. We have adopted a company-wide On-Line Privacy Policy (“Privacy Policy”) that explains how we collect, store, and use the information you provide us. This Privacy Policy details how Blizzard safeguards the privacy of its on-line visitors and does not apply to information that may be collected by Blizzard off-line. Please note that when you click a link to other sites from a Blizzard website, this Privacy Policy does not apply to, and cannot control the activities on, those other sites. We highly recommend that you read the privacy policy of any third party website you may be directed to before providing any personally identifiable information.
+For the performance of certain games and platform services, your data may be controlled by Blizzard Entertainment, Inc. in the United States. Contact information for the Data Protection Officer for both of these companies is located in the last section of this document.
 
-This Privacy Policy and the certification seals shown on our websites confirm that Blizzard is a valid licensee, and participating member, in good standing of the [Entertainment Software Rating Board’s Privacy Certified Program](http://www.esrb.org/privacy/faq.aspx#10)(“ESRB Privacy Certified”). ESRB Privacy Certified is designed to ensure that our information collection, use and disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative, and all of our websites where this Privacy Policy is posted have been reviewed and certified by ESRB Privacy Certified to meet established online information collection, use and disclosure practices.
+## 2\. What information do we collect, and how long do we keep it?
 
-If you are a visitor from outside the United States, the personal information you provide may be transferred to, stored, and processed within the United States or other countries where Blizzard maintains facilities or business operations.
+We collect information from or about you in the following ways:
 
-By using this website and/or any of Blizzard’s online products or services, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our websites. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on our websites or in this Privacy Policy and, if necessary, give you additional choices regarding such change prior to the change becoming effective. Your continued use of the Blizzard websites will signify your acceptance of these changes.
+**Information provided by you.** Information provided by you when you create or update your account(s); when you are an esports player; while you use our social features and channels to communicate with others; when you use any of our services for purchases or financial transactions such as store purchases, in-game purchases, and/or prize processing; and while you are receiving customer service support.
 
-### 1\. What personal information is collected?
+**Information we get or generate from your use of our games or services.** We collect data related to: your game play and in-game activity, the services that you use and how you use them, and your devices and activities when you install or access our services.
 
-If an on-line visitor submits information to Blizzard, it will usually take the form of either: (1) the purchase of goods or services though our on-line stores, (2) product or account registration, or registration for on-line game participation, (3) player match-up services, (4) message boards or forums, (5) eCards or Recruit-a-Friend e-mails, (6) warranty registrations, (7) contest registrations, (8) a consumer complaint, (9) surveys, (10) customer service or technical support, (11) Share Wish List feature, and/or (12) newsletters. Personal information collected may include your name, home address, phone number, and/or e-mail address. We do not require this information to gain access to our websites, however, you will not be able to utilize certain products, services, or features that require registration or receive materials such as newsletters unless such information is provided.
+**Information collected from external sources.** We may receive information about you and your activities from third parties when you link to external accounts (such as Facebook, PlayStation, XBOX or Twitch) and from advertisers or service providers about your experiences or interactions with them. We might also obtain information from public sites on the internet, such as Twitch, Instagram and YouTube, to mention a few. For example, if you login to a site or app using Facebook Connect you may be asked if you wish to share information from your Facebook account with us. If you participate in a game or other feature where your score is posted on social media content, or if you use a "like" or a "share" button for a feature on our sites or apps, then the third party may share information with us.
 
-If you register an account using your Facebook account, the following information may be collected: (1) your first and last name and other information made publicly available by you, (2) your friends list, and (3) the email address associated with your account.
+**We treat all information associated with your account as personal information. Blizzard collects the following categories of data depending on which product(s) or service(s) you are interested in or interacting with. We usually retain data for only as long as necessary to provide you with products, services and an immersive entertainment experience. Exceptions are noted below.**
 
-Some of our websites and/or online services require you to create an account with a third party service provider. For example, users are required to create a Mashery ID in order to use our development website. The username and email address that you create through this platform are collected by both Blizzard and Mashery. In these types of instances, we strongly encourage you to also review the privacy practices of the third party prior to divulging any personal information.
+#### ACCOUNT DATA
 
-Visitors purchasing products or services will be required to provide additional information such as a valid credit card number, expiration date, and shipping and billing addresses.
+_Player Account Data_ refers to information that is provided and generated when a player creates his or her account. Most of this data is available to the player by logging into his or her account and can be updated by the player in the account settings section.
 
-Please note that, depending on the Blizzard website that you are visiting, many of the activities listed above may not be available and, as such, personal information may not be collected.
+Examples: _Account name, BattleTag, name, email address, preferred language, date of birth, SMS number, home address, shipping address (on file), account balance, beta opt-in(s), account links._
 
-Back to top
+Who has access to this type of data? _Operations, Game Teams, Esports (if applicable), Customer Service, Publishing and Security._
 
-### 2\. What other types of information may we collect?
+#### CUSTOMER SERVICE
 
-For some activities, we may ask you to create a username and password and/or to provide other personal and non-personal information including but not limited to your age, date of birth, gender, and/or game and platform preferences; and, we may combine such information with other personal and/or non-personal information. In addition, your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to Blizzard. Blizzard may use this information to generate aggregate statistics about our user community and may provide such information to advertisers and/or our partners. Blizzard may also use such information for security, system integrity (the prevention of hacking, cheats, etc.), or enforcement purposes. Certain information regarding your game play, such as a timestamp of your last game played and your game progressions, will be collected from you and/or automatically generated based upon your use of our game services. From time to time, we may also post customer testimonials that contain personally identifiable information on Blizzard’s websites. However, we will obtain the customer’s consent to post these testimonials prior to publication in accordance with the applicable Blizzard agreement. 
+We also use the information we collect while assisting players through our customer support services to investigate and address players’ concerns and monitor and improve our services. Information gathered or produced during support of our players is retained for up to 2 years to ensure that we address concerns and issues in the best way possible.
 
-Back to top
+Examples: _Issues raised, case history, restrictions history, contact details, customer service communications, account notes._
 
-### 3\. How do we use your personal information?
+Who has access to this type of data? _Most of the time, it’s just Customer Service and Security, but occasionally Operations, Game Teams and Legal access this data._
 
-The personal information you provide Blizzard will allow us to fulfill your product or service order; alert you of new products or services, features, or enhancements; handle/route your customer service or technical support questions or issues; to send eCards or “Recruit-a-Friend” emails; and/or notify you of upgrade opportunities, contests, promotions, or special events and offers. Blizzard may enhance or merge the personal information collected at a Blizzard website with data from third parties in order to update your contact information, perform market analysis, or improve our products, services, or systems. Blizzard may also provide your personal information to other companies or organizations that offer products or services that may be of interest to you. In such cases, we will notify you that the information will be shared and provide you with an opportunity to opt-out.
+#### SOCIAL DATA
 
-Lastly, we may use your personal information for internal marketing, profiling, or demographic purposes, so we can adapt our products and services to better suit your needs. We do this to better understand and serve our customers.
+Blizzard uses the information we collect from players’ actions to enable communications between our players in multiple ways, such as chat, Forums and on-line gaming (e.g. Fireside Gatherings in Hearthstone).
 
-Please be advised that personal information submitted by individuals acting solely in a business capacity (e.g., personal information contained in job applicant's resume) is not subject to the uses set forth above or to any other practices stated in this Privacy Policy.
+Examples: _Forum content (version, allocation, locale, time zone, access groups, game accounts, posts), Fireside Gatherings details, chat groups, chat logs, friend lists, profile information._
 
-Back to top
+Who has access to this type of data? _Operations, Customer Service, Game Teams, Publishing and Security._
 
-### 4\. What type of communications may you receive?
+#### TRANSACTIONS
 
-**_Special Offers and Updates_**  
-We will occasionally send you information on products, services, special deals, and promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice” section below.
+We collect transaction details related to the licensing and purchasing of our products and services, and also the contests and competitions we sponsor. Transaction data may be retained for up to 7 years (primarily for audit purposes).
 
-**_Service-related Announcements_**  
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature.
+Examples: _Order details/history, subscriptions, chargebacks, refunds, gifts, payment detail, shipping details, prize awards and competition accreditation details._
 
-**_Customer Service_**  
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
+Who has access to this type of data? _Operations, Consumer Products (as applicable), Customer Service, Publishing and Security._
 
-**_Recruit a Friend/E-cards/Share Wish List_**  
-If you choose to use our recruit-a-friend, Share Wish List, or e-card features, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Blizzard does not store this information and uses it for the sole purpose of sending this one-time email and to track the success of our referral program.
+#### ACTIVITY DATA
 
-Back to top
+When a player interacts with our services, we collect server logs. In most cases, server logs are retained between 90 days and 1 year.
 
-### 5\. Who is collecting your information?
+Examples: _IP address, access dates and times, activity region and activity logs._
 
-When you are asked for information while on a Blizzard website, you are sharing that information with Blizzard, its parent, and its various affiliates and sister companies, unless specifically stated otherwise. As a result of this sharing, you may receive communications from any of Blizzard's affiliates. From time to time, Blizzard may use third party contractors to collect and process personal information on its behalf (for product and prize fulfillment, credit card processing, etc.).
+Who has access to this type of data? _Operations, Game Teams, Customer Service and Security._
 
-In addition, some services are provided in conjunction with partner companies. If your personal information is being collected by a company other than Blizzard and not on Blizzard’s behalf, you will be notified at the time the information is collected. If you do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time.
+#### DEVICE DATA
 
-Please be aware that we cannot control the activities of third parties to whom we provide data, and while we cannot guarantee that they adhere to the same privacy and security procedures as Blizzard, we will take reasonable steps to assure that these third parties will provide sufficient protection of personal information.
+We may collect information about the devices used to access our services.
 
-Please be aware that advertisers or websites with links to and from our websites may collect personal information about you. And remember, this Privacy Policy does not apply to, and cannot control the activities of, those other advertisers or websites. We encourage you to carefully read the privacy policy of any advertiser or website you visit.
+Examples: _Hardware models, operating systems and versions, unique device identifiers._
 
-Our websites may include certain social media features such as the Facebook "Like" button, and widgets such as the Share this button or interactive mini-programs that run on our websites. These features may collect your Internet Protocol (“IP”) address, which page you are visiting on our websites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our websites. Your interactions with these features are governed by the privacy policy of the company providing it.
+Who has access to this type of data? _Operations, Game Teams and Security._
 
-Back to top
+#### COMMUNICATIONS
 
-### 6\. With whom may your personal information be shared?
+Blizzard may use the information we collect from players or partners to communicate with our players about our current and upcoming products, services, promotions, studies, surveys, news, updates and events. Blizzard may also use this information to promote and process contests and sweepstakes, fulfill any related awards and serve you relevant ads and content about our services. Data gathered for a specific occurrence such as surveys and giveaways are hold no longer than 90 days.
 
-Blizzard will share your personal information with third parties only in the ways that are described in this Privacy Policy. We do not sell your personal information to third parties. We may, however, share non-personally identifiable, aggregated, and/or public information with third parties. Additionally, we may share your game play data, Battletag, Blizzard ID, and/or unique identifiers specific to your device with third parties for the purpose of tailoring content as well as personalizing, adjusting and improving our services. In addition, we may share your personal information with other Activision Blizzard group companies for the purposes described in this Privacy Policy.
+Examples: _Name, email address, survey details, purchase/license history, activity history, email activity, Facebook and Twitter handles._
 
-We reserve the right to disclose your personal information as required by law or in special cases when we have reason to believe that disclosing such information is necessary to identify, contact, or bring legal action against you if you are violating the Terms of Service or Use Agreements for a Blizzard website or product, or may be causing injury to or interference (intentionally or unintentionally) with Blizzard's rights or property, other users of a Blizzard website or product, or anyone else who could be harmed by your activities. We also reserve the right to disclose your personal information if we have a good faith belief that it is necessary to prevent fraud or other illegal activities.
+Who has access to this type of data? _Operations and Publishing._
 
-As with any business, your personal information is also an asset of Blizzard and will become part of our normal business records. As such, we may also disclose your personal information to a third party if we decide to sell a line of business to that third party, so you can continue to receive service and information in connection with that line of business with as little disruption as possible. Similarly, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, your personal information may be transferred to Blizzard's successor or assign.
+#### LEGAL RECORDS
 
-Blizzard websites may also have message boards, forums, and/or chat areas, where users can exchange ideas and communicate with one another. When posting to a message board, forum, or chat area, please be aware that the information is being made publicly available on-line and the user does so at his or her own risk. For certain forums, anyone posting or replying to a post may be doing so using their Real ID -- that is, their full first and last name -- with the option to also display the name of their primary in-game character (see discussion regarding Real ID below). If your personal information is posted on one of our community forums, you may contact us at [privacy@blizzard.com](mailto:privacy@blizzard.com) to request removal. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We keep records as support for any actual or anticipated legal matter for up to 7 years.
 
-Back to top
+Examples: _Pro-Players' contract agreements, case files._
 
-### 7\. What choices do you have regarding the collection, use, and distribution of your personal information?
+Who has access to this type of data? _Operations and Security._
 
-Blizzard allows you to control the way that we use personally identifying information that we might obtain. At the time you provide personal information, Blizzard may give you the option of declining any future offers or information about new products, promotions, or services. In addition, many of the "mailings" Blizzard may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings. Lastly, you may be given the opportunity to "opt-out" of certain features or functionality (e.g. Real ID). See the applicable feature's FAQ or information page for more details.
+#### GAME DATA
 
-Your browser may allow you to set a Do Not Track (DNT) signal indicating that you do not wish your online activity to be tracked. Currently, our system does not support and cannot act on DNT signal headers that we may receive. However, the choices that we provide you concerning the collection and use of your personal information will continue to operate as described in this Privacy Policy.
+Game data are generated while a player plays our games. We keep records of players’ game licenses, progress, history, stats, in-game purchases and interactions with other players.
 
-Back to top
+Who has access to this type of data? _Operations, Game Teams, Customer Service, Publishing and Security._
 
-### 8\. California Residents: Your California Privacy Rights
+#### MEDIA INFORMATION
 
-Under California law, our customers that are California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. As detailed above, we do not share our customer's personal information with unaffiliated third parties for direct marketing purposes without their approval.
+Contact information for journalists and players that have an impact on our community.
 
-If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from Blizzard (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at Blizzard Entertainment Privacy Policy, Attn: Opt-Out Administrator, One Blizzard Way, Irvine, CA 92618-3616. You can also contact us by e-mailing us at [opt-out@blizzard.com](mailto:opt-out@blizzard.com). Please indicate what publications or services you no longer wish to receive so that we may better address your needs.
+Examples: _Discord handle, Reddit handle, Twitch cheer, Twitch handle, Twitter handle._
 
-**California Privacy Rights for Minors**
+Who has access to this type of data? _Operations, Esports and Publishing._
 
-California residents under the age of 18 have the right to remove, or request the removal of, content or information they have posted to the message boards or forums. This request can be made by contacting us at Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, One Blizzard Way, Irvine, CA 92618-3616. We can also be reached via e-mail at [privacy@blizzard.com](mailto:privacy@blizzard.com). Please again be advised that any information posted to the message boards or forums is publicly viewable. We strongly recommend that all users avoid posting personal or sensitive information at any time.
+#### ESPORTS PLAYER RECORDS/TOURNAMENT DATA
 
-Please note that residual copies of content and/or information that have been deleted may remain on our backup servers. We are not required to remove posted content or information if it has been rendered anonymous or if we are required by law to retain it. Additionally, we do not have control over third parties (e.g., other users) who may have copied or reposted the content or information.
+We gather information related to personal details, rankings, performance stats and team details to follow up on the career and performance of our competitors. We also collect information related to Tournaments that we keep for up to 2 years for administrative purposes.
 
-Back to top
+Examples: _Contact method, legal guardian details, experience, rate history, rankings, performance stats, team details and player handle, tournament details._
 
-### 9\. What about Children?
+Who has access to this type of data? _Esports and Operations._
 
-**_Children Under 13_**  
-Once a child states that his/her age is under 13, they will be unable to register an account with us. We do not knowingly collect or store any personally identifiable information from children under 13. If parents believe that we have unintentionally collected their childrens’ personal information, they may request the deletion of the information by contacting us at Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, One Blizzard Way, Irvine CA 92618-3616. They may also e-mail us at [privacy@blizzard.com](mailto:privacy@blizzard.com).
+#### ESPORTS REFERENCES/MISC. INFORMATION
 
-**_Note to Parents_**  
-We recognize a special obligation to protect personal information about young children. We urge parents to instruct their children to never give out their real names, addresses, or phone numbers, without permission, when on-line. Teenagers under the age of 17 and over the age of 12 should encourage their parents to review this policy and to contact us if they would like to evoke our opt-out policy or to raise any concerns. For more information, you may visit our Parental Controls area at <https://us.battle.net/account/parental-controls/index.html>.
+We collect information from players who participate in our esports events to provide personalized care and assistance during competitions.
 
-Back to top
+Examples: _Dietary restrictions, food allergies and clothing sizes._
 
-### 10\. What is Real ID?
+Who has access to this type of data? _Operations and Esports._
 
-Real ID friends can see each other’s real-life name and can see each other’s characters across all Blizzard products and services. By participating in Real ID, you will have the option of making your real name visible to your friend’s friends, who will also be able to invite you to become friends.
+#### ESPORTS TRAVEL DATA
+
+Our tournaments and competitions are hosted all over the world. Therefore, we collect pro-players’ information needed for travel arrangements and assistance.
+
+Examples: _Passport and visa details, default airports, nationalities, travel arrangements details._
+
+Who has access to this type of data? _Operations and Esports._
+
+#### COLLEGIATE EDUCATION, EXPERIENCE INFORMATION
+
+This type of information is collected primarily from collegiate esports players to better manage our tournaments.
+
+Examples: _School name, transcript, collage major, GPA, company name, job title, residency status (exchange student)._
+
+Who has access to this type of data? _Operations and Esports._
+
+## 3\. Why do we process your data?
+
+Blizzard collects and uses your data for the following purposes:
+
+**Gameplay Experience.** Creating the well-designed, highly enjoyable entertainment experiences you can find within our epic games! This includes:
+
+_Progress and History_
+
+  * Examples of data used: 
+    * GAME DATA: Game stats, match history, quest in progress, etc.
+
+
+
+_In-game Social_
+
+  * Examples of data used: 
+    * GAME DATA: Guild information, friends list, etc.
+
+
+
+_Unlocks_
+
+  * Examples of data used: 
+    * GAME DATA: Inventory items: collection of cards, gold, dust, armory, skills, etc.
+
+
+
+_Game Currency_
+
+  * Examples of data used: 
+    * GAME DATA: Earnings history, items a player can/has purchase(d): portraits, skins, heroes, cards, etc.
+
+
+
+**Esports Pro-Gaming Competitions and Broadcasting.** We bring to you an official network of professional competitive gaming in many of our franchises. The production of these tournaments often requires travel, lodging and nutrition. Many of these tournaments are broadcasted and require player-background information to facilitate a great viewer experience. This includes:
+
+_Broadcasting & Production_
+
+  * Examples of data used: 
+    * PLAYER RECORDS/STATS: BattleTag, age, country, gender, name, nationality, player handle, professional team name, professional teammate name(s), tournament team name, tournament teammate name(s), tournament rank, tournament performance stats, tournament team rank
+    * EDUCATION/EXPERIENCE INFORMATION: College major, GPA, school name, Tespa chapter, job title
+    * INFLUENCER INFO: Facebook handle, Instagram handle, Twitch Channel, Twitter handle
+
+
+
+_Event Travel and Logistics_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Name, email address, age, parental information (if applicable), BattleTag, phone number, photo
+    * REFERENCES/MISC. INFORMATION: Allergies, disabilities, medications and dietary restrictions
+    * TRAVEL DATA: Passport details, visa details
+    * PLAYER RECORDS/STATS: Rankings, performance stats, team details, player handle
+
+
+
+_Tournament Administration_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Name, email address, age, parental information (if applicable), BattleTag, phone number, photo
+    * Media Information: Tespa ID, PSN account
+
+
+
+**Collegiate Esports.** Whether your goal is to start a Tespa chapter on your campus or join an established gaming community, Tespa’s support will level up your gaming experience.
+
+_Tespa Students_
+
+  * Examples of data used: 
+    * TESPA ACCOUNT: Chapter applications, chapters events, chapter meta data, username and password
+    * ACCOUNT DATA: Name, email address, age, parental information (if applicable), BattleTag, phone number, photo
+
+
+
+**Player’s Account, Parental Controls and Security.** Players of most of our games use a Blizzard account to house assets, communicate with friends and learn about our games and services. Parents of our younger players may set parental controls to monitor and control their children’s gaming. This includes:
+
+_Player's Account_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Name, email address, age, BattleTag
+    * ACTIVITY DATA: IP address, login information _Parental Control_
+  * Examples of data used: 
+    * ACCOUNT DATA: Parental control email, child’s account information
+
+
+
+**Business optimization and service development.** We conduct troubleshooting, research, analysis and product and service development to provide you with the best gameplay experiences and services. This includes:
+
+_Analytics & Data Segmentation_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Blizzard account, country, third parties’ IDs
+    * ACTIVITY DATA: IP address
+    * GAME DATA: Related players, chat records
+
+
+
+_Training & Development_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Name, phone number, country, home address
+    * ACTIVITY DATA: IP address
+    * GAME DATA: Character name
+    * CUSTOMER SERVICE: Ticket issue description, account notes, Customer Service chat log
+
+
+
+_Reporting_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Account region, BattleTag
+    * ACTIVITY DATA: IP address, preferred language
+    * TRANSACTIONS: Game Consumable licenses
+
+
+
+**Global Customer Service.** We provide you with personalized support to investigate and address any possible difficulty you might experience with our games, your account or your purchases. This includes:
+
+_Customer Service_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: BattleTag, country, language, phone number/SMS number
+    * ACTIVITY DATA: IP address, region, timestamp
+    * GAME DATA: Game account, guild name, character name
+    * CUSTOMER SERVICE: Chat records, case history
+
+
+
+_Forum Moderation_
+
+  * Examples of data used: 
+    * SOCIAL DATA: Forum posts
+
+
+
+**Business Operations.** We process orders for our products, tournaments and services. This includes:
+
+_Store Purchase_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Email address, BattleTag, country, language, phone number, home address
+    * ACTIVITY DATA: IP address
+    * TRANSACTIONS: Invoices, refund details, subscriptions, licenses, payment details
+
+
+
+_Events Ticketing_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Email address, BattleTag, name, phone number, home address, phone number
+
+
+
+_Tournament Hosting_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Name, email address, phone number, address
+    * ESPORTS DATA: Tournament Information, Tournament Organizer details
+
+
+
+**Social Features.** We enable communications and experience sharing between our players. This includes:
+
+_Fireside Gathering Event_
+
+  * Examples of data used: 
+    * SOCIAL DATA: Tavern Meetup Details
+    * ACTIVITY DATA: Activity region
+
+
+
+_Chat Applications_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: BattleTag
+    * SOCIAL DATA: About me text, chat records, list of groups you are in
+
+
+
+_Forums_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: BattleTag, account name
+    * GAME DATA: Character name
+    * SOCIAL DATA: Forum content
+
+
+
+**Communications with our players.** We communicate with our players about products, services, promotions, studies, surveys, news, updates and events. Blizzard may also use the information to promote and process contests and sweepstakes, fulfill any related awards and serve you relevant ads and content about our products and games.
+
+Specifically, we use your data for the following Publishing purposes:
+
+_Surveys_
+
+  * Examples of data used: 
+    * COMMUNICATIONS: Age, country, gender, IP address
+
+
+
+_Mobile Push Notifications_
+
+  * Example of data used: 
+    * DEVICE DATA: Phone Device Token
+
+
+
+_Analytics & Data Segmentation_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Such as: BattleTag, country, state, postcode or city of residence
+    * GAME DATA: Related players
+    * DEVICE DATA: Device ID
+    * ACTIVITY DATA: IP address
+
+
+
+_Ad Targeting via “Paid Media” and “Custom Audience” (Your unencrypted personal data are never shared with third parties without your consent.)_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Such as: BattleTag, name, country, state, postcode or city of residence, email address, account region
+
+
+
+_Transactional and Publishing Campaigns and Promotions_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: BattleTag, name country, state, postcode or city of residence, email address, account region
+
+
+
+**Unethical Behavior Prevention.** One of our core values is: Play Nice; Play Fair. We devote resources to minimize fraud, cheating and abusive behavior. This includes:
+
+_Abuse and Cheat Detention_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Account name, country
+    * ACTIVITY DATA: IP address, region
+    * DEVICE DATA: Device ID
+    * SOCIAL DATA: Related players
+    * GAME DATA: Chat records
+
+
+
+_Account Compromise Prevention_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Account name, country, BattleTag, date of birth, external account IDs
+    * ACTIVITY DATA: IP address
+    * DEVICE DATA: Device ID
+    * TRANSACTIONS: Payment method
+
+
+
+_Account Restrictions and Penalties_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Account name, BattleTag
+    * ACTIVITY DATA: Region
+    * CUSTOMER SERVICE: Account restrictions history, penalty history, chat records
+
+
+
+**Legal proceedings and requirements.** We may use the information we collect to investigate or address claims or disputes relating to your use of Blizzard’s services or as otherwise allowed or required by applicable law. This includes:
+
+_Litigation or Pre-litigation_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Name, home address
+    * CUSTOMER SERVICE: Account notes
+    * LEGAL DATA: Case file
+
+
+
+_Security Monitoring and Investigations_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Age, name, address, BattleTag, email address, country
+    * ACTIVITY DATA: IP address
+    * DEVICE DATA: Device ID
+    * SOCIAL DATA: Related players
+    * GAME DATA: Chat records
+
+
+
+_Legal Compliance_
+
+  * Examples of data used: 
+    * ACCOUNT DATA: Age, name
+
+
+
+## 4\. What are Blizzard’s legal bases for data processing?
+
+We process the above in accordance with the legal bases determined as follows:
+
+  1. **Necessary for the performance of your game contract or any other feature you request or enable.** These are required, and ceasing their processing will remove access to certain features or to the game service altogether. This includes using information for:
+
+    * Abuse and Cheat Detention and Sanctions
+    * Account functionality
+    * Account Compromise Prevention
+    * Chat Applications
+    * Contest Participation
+    * Global Customer Service
+    * Enrolled esports
+    * Forums
+    * Game functionality
+    * Parental Control
+    * Battle.net platform functionality
+    * Enrolled promotions/contests
+    * Purchases
+  2. **Consent.** You can withdraw your consent to these at any time.
+
+_**Consent functionality during account creation**_
+
+    * _Receive news and exclusive offers about selected third-party products and services_ – Carefully selected news, event information and special offers about third-party products and services
+
+_**Consent functionality in account management** – Communications Preferences_
+
+    * _Receive news and special offers from Blizzard Entertainment by email_ – Carefully selected news, event information and special offers about Blizzard products and services
+    * _Receive news and special offers about selected third-party products and services by email_ – Carefully selected news, event information and special offers about third-party products and services _* Have Blizzard offers recommended to me on partner sites based on data Blizzard collects_ – Communications personalized to your experience with Blizzard
+    * _Enable Real ID_ – The first and last names associated with your account will be visible to Real ID friends. If you do not enable Real ID, only your BattleTag will be visible
+    * _Suggest me to friends of friends_ – If enabled, friends of your friends may see you in their suggested friends list
+    * _Receive private chat messages from friends only_ – If enabled, you can only receive private chat messages from your friends. This setting may not apply to chat messages sent in-game
+
+_**Consent obtained in other instances**_
+
+    * _Cookies and Tracking Technology_ \- Information stored on your device (cookies and similar tracking technology), so that we can better understand how our sites and apps are used and send more relevant offers to you. See the Tracking Technology section below regarding how to withdraw this consent.
+    * _Sensitive Data_ \- Such as allergies, disabilities or other health requirements which you provide when you enroll in an Esports Pro-Gaming competition. Contact [Privacy@Blizzard.com](mailto:privacy@blizzard.com) to withdraw this type of consent.
+  3. **Legitimate interest.** We use your data for purposes that are not harmful to your privacy and that can be reasonably expected within the context of your relationship with Blizzard. This includes using information for:
+
+    * Ad Targeting via ‘Paid Media’
+    * Ad Targeting via ‘Custom Audience’ and similar systems—Appropriate ads for players considering their previous purchases (Your unencrypted personal data are never shared with third parties without your consent.)
+    * Analytics & Data Segmentation
+    * Business Optimization and Service Development
+    * Publishing Email - Marketing Campaigns
+    * Research Groups
+    * Training & Development
+    * Customer Support
+  4. **Legal obligation.** We process your data due to a legal obligation or right. This includes using information for:
+
+    * Legal Compliance
+    * Litigation or Pre-litigation
+    * Security Monitoring and Investigations
+
+
+
+## 5\. With whom may we share your data?
+
+Blizzard websites have message boards, forums, and/or chat areas, where users can exchange ideas and communicate with one another. When posting to a message board, forum, or chat area, please be aware that the information is being made publicly available on-line and the user does so at his or her own risk. For certain forums, anyone posting or replying to a post may be doing so using their Real ID -- that is, their full first and last name -- with the option to also display the name of their primary in-game character (see discussion regarding Real ID below).
+
+Some of Blizzard’s products, services and features require that we share information with other users, our partners and service providers, or for legal reasons or in the event of a dispute.
+
+  1. **With partners and service providers.** Blizzard may provide information to its vendors, consultants, marketing partners, research firms and other service providers or business partners. For example, we may provide information to such parties to help facilitate event ticket sales, conduct surveys on our behalf and process payments for our products and/or games.
+
+  2. **With other players and/or the general public.** Information may be viewable by your friends, people in games, or the public in general if you play our games, use certain features in our games, use certain features on our platforms (such as chat applications in game or on the Battle.net platform) or make posts in the forums.
+
+  3. **With subsidiaries and affiliates.** We share information with our subsidiaries and affiliates to help us provide our services or conduct data processing on our behalf. For example, Blizzard processes and stores information at Blizzard Entertainment, Inc. in the United States and may store or process data at Blizzard Entertainment SAS in France.
+
+  4. **For legal reasons or in the event of a dispute.** Blizzard may share your information if we believe it is required by applicable law, regulation, operating agreement, legal process or governmental request. This includes sharing your information with law enforcement officials, government authorities or other third parties as necessary to enforce our Terms of Service, user agreements or other policies to protect Blizzard’s rights or property or the rights or property of others, or in the event of a claim or dispute relating to your use of our services.
+
+
+
+
+## 6\. International Transfer
+
+Your personal data will be transferred to and processed in the [United States] where many of our central databases operate. The European Commission has not issued a decision confirming the United States to offer adequate protection for personal data. However, we use European Commission approved contract clauses to protect your personal data. Where we share data with vendors, we use these clauses, an appropriate Privacy Shield certification or a vendor's Processor Binding Corporate Rules to protect your data. A copy of the relevant mechanism can be provided for your review on request to our Data Protection Officer using the details set out below.
+
+## 7\. What rights do I have?
+
+Access my data:
+
+You may be able to receive a report about the data Blizzard stores about you. To learn more about accessing your data, please click on this [link](https://eu.battle.net/support/help/product/services/1327/1329).
+
+Erasure:
+
+You may have a right to request the deletion of some your data. Blizzard is required by law to retain certain data. To learn more about having your data erased or anonymized, please click on this [link](https://eu.battle.net/support/help/product/services/1327/1328).
+
+Object:
+
+You may object to the processing of your data if you believe Blizzard doesn’t have the appropriate rights to engage in that processing or if you wish to ask Blizzard not to process your personal data for direct marketing purposes. To learn more about making an objection, please click on this [link](https://eu.battle.net/support/help/product/services/1327/1330).
+
+Rectification:
+
+You can correct your personal data if you feel it’s inaccurate. Please log in to your Blizzard account and use the account management settings to make the changes.
+
+Restrict Processing:
+
+You can request that your data no longer be processed in certain cases, for instance, when you exercise your right to object as described above. When objecting, you will be given an option to restrict processing.
+
+Portability:
+
+Data portability is the ability to move data from one company to another (for instance, when you transfer your mobile phone service to another carrier). While this right is not very applicable to Blizzard’s current business, we will provide you with an electronic file with your most basic account information, should you request it. To obtain this file, please click this [link](https://eu.battle.net/support/help/product/services/1327/1342/solution).
+
+## 8\. What is Real ID?
+
+Real ID friends can see each other’s real-life name and can see each other’s characters across all Blizzard products and services. By participating in Blizzard’s optional Real ID system, you will make your real name visible to your friend’s friends, who will also be able to invite you to become friends.
 
 When you and a friend mutually agree to become Real ID friends, you will have access to a number of additional features, including the following:
 
@@ -134,62 +538,38 @@ When you and a friend mutually agree to become Real ID friends, you will have ac
 
 
 
-Back to top
+## 9\. What are tracking technologies, and how are they used?
 
-### 11\. What is Global Play?
+Blizzard and our partners, such as marketing partners (listed [here](https://www.blizzard.com/legal/7fac8c01-ac9c-4c51-82ec-1f535e1f54ba/marketing-partners)), may use tracking technologies like cookies, beacons, tags, scripts and unique codes used in apps. These technologies are used in analyzing trends, administering the websites or apps, tracking users’ movements around the websites or apps and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual, as well as an aggregated, basis.
 
-Certain Blizzard games feature "Global Play," which allows you to play with other players who are outside of the region associated with the creation of your Blizzard account. The Global Play feature requires that some or all of the personal information that you provided when you created your Blizzard account be transferred to servers operated by Blizzard in the regions where you wish to play.
+We use this technology for various purposes, including our shopping cart, maintenance of user settings (e.g. language preference) and authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our websites, but your ability to use some of the features or areas of our websites may be limited.
 
-Back to top
+We may also use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. For this reason, these types of clear gifs are tied to personal data.
 
-### 12\. What are tracking technologies and how are they used?
+We, and third parties with whom we partner to provide certain features on our websites or to display advertising based on your web browsing activity, use Local Shared Objects such as Flash cookies and Local Storage such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-As is true with most websites, we gather certain information automatically and store it in log files. This information may include a unique identifier such as your Internet Protocol (IP) address and non-personal information such as your browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve the services we offer you, to improve marketing, analytics, or website functionality.
+We partner with third party ad networks to either display advertising on our websites or to manage our advertising on other sites. Our ad network partners may use tracking technologies to collect information about your activities on this and other websites to provide you targeted advertising based upon your interests. Some of these ad networks are members of the Networking Advertising Initiative (“NAI”) and/or the Digital Advertising Alliance (“DAA”) – organizations who offer a single location to opt out of receiving tailored ads. If you wish not to have your information used for the purpose of serving you targeted ads, you may opt-out by visiting the [DAA's Consumer Choice page](http://optout.aboutads.info/?c=2&lang=EN) and/or the [NAI’s Consumer Opt-Out page](http://optout.networkadvertising.org/?c=1). Please note this does not opt you out of being served advertising. You will continue to receive generic, or non-targeted, ads. Please also note that we strive to adhere to the [DAA's Self-Regulatory Principles for Online Behavioral Advertising](https://digitaladvertisingalliance.org/sites/aboutads/files/DAA_files/seven-principles-07-01-09.pdf).
 
-Blizzard and our partners, such as marketing partners and analytics providers ([listed here](http://us.blizzard.com/en-us/company/about/marketing-partners.html) ), may use tracking technologies such as cookies, beacons, tags and scripts. These technologies are used in analyzing trends, administering the websites, tracking users’ movements around the websites, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+## 10\. What are Internet Protocol addresses?
 
-We use cookies for various purposes including our shopping cart, to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our websites, but your ability to use some features or areas of our websites may be limited.
+An Internet Protocol ("IP") address is the unique number assigned to your computer. Blizzard may track such IP addresses for system administration, to report aggregate information, site tracking, security purposes, or to prevent our servers from being abused. See tracking technology discussion above.
 
-We may also use clear gifs in our HTML-based emails to let us know which e-mails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. For this reason, these types of clear gifs are tied to personally identifiable information.
+## 11\. What level of security is applied to your personal information?
 
-We, and third parties with whom we partner to provide certain features on our websites or to display advertising based on your web browsing activity, use Local Shared Objects such as Flash cookies, and Local Storage such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+To help protect the privacy of the data and personally identifiable information you provide to us and that we learn from you, we maintain physical, technical and administrative safeguards. We update and test our security technology on an ongoing basis. In addition, we will take reasonable steps to assure that third parties to whom we transfer any data will provide sufficient protection of personal information. We restrict access to your personal data to those employees indicated above. In addition, we train our employees about the importance of confidentiality and maintaining the privacy and security of your information.
 
-We partner with third party ad networks to either display advertising on our websites or to manage our advertising on other sites. Our ad network partners may use tracking technologies to collect information about your activities on this and other websites to provide you targeted advertising based upon your interests. Some of these ad networks are members of the Networking Advertising Initiative (“NAI”) and/or the Digital Advertising Alliance (“DAA”) – organizations who offer a single location to opt out of receiving tailored ads. If you wish to not have your information used for the purpose of serving you targeted ads, you may opt-out by visiting the [DAA’s Consumer Choice page](http://www.aboutads.info/choices/) and/or the [NAI’s Consumer Opt-Out page](http://www.networkadvertising.org/choices/). Please note this does not opt you out of being served advertising. You will continue to receive generic, or non-targeted, ads. Please also note that we strive to adhere to the [DAA’s Self-Regulatory Principles for Online Behavioral Advertising](http://digitaladvertisingalliance.org/sites/aboutads/files/DAA_files/seven-principles-07-01-09.pdf)
+## 12\. Note to Parents
 
-Back to top
+We recognize a special obligation to protect personal information about children. We urge parents to instruct their children to never give out their real names, addresses or phone numbers without permission when they are on-line.
 
-### 13\. What are Internet Protocol addresses?
+Once a child states that his/her age is under 16, he or she will be unable to register an account with us. We do not knowingly collect or store any personally identifiable information from children under the age of 16. If parents believe that we have unintentionally collected their children’s personal information, they may request the deletion of the information by contacting us at [EU-Privacy@Blizzard.com](mailto:eu-privacy@blizzard.com).
 
-An Internet Protocol ("IP") address is the unique number assigned to your server or Internet Service Provider ("ISP"). Blizzard may track such IP addresses for system administration, to report aggregate information, site tracking, security purposes, or to prevent our servers from being abused. See tracking technology discussion above.
+Blizzard has engineered Parental Controls to help parents monitor and limit, if necessary, the amount of time their children spend interacting with our games. For more information, you may visit our Parental Controls area at [BattleNet Support](https://eu.battle.net/support/article/32243).
 
-Back to top
+## 13\. Further Information or Complaints
 
-### 14\. What do you do if you want to correct or delete your personal information?
+If you have questions or concerns regarding data protection at Blizzard, you may contact our Data Protection Officer by writing to [DPO@Blizzard.com](mailto:dpo@blizzard.com).
 
-If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, please contact Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, One Blizzard Way, Irvine, CA 92618-3616. You can also contact us by e-mailing us at [privacy@blizzard.com](mailto:privacy@blizzard.com). We will respond to any request for access within 30 days.
+Each EU Member State shall provide one or more independent public authority (ies) to be responsible for monitoring the application of the GDPR in order to protect the fundamental rights and freedoms of natural persons in relation to processing and to facilitate the free flow of personal data within the Union (‘supervisory authority’). If you feel that Blizzard has violated your rights, or if you wish to raise a concern with the data protection authorities, please contact the supervisory authority in the country where you live, work, or where you believe a breach of data protection law has occurred.
 
-In some cases, we may not be able to delete your personal information and will retain and use our information as long as necessary to comply with our legal obligations, resolve disputes, and/or enforce our agreements.
-
-Please note that the deletion of your data will lead to the termination of your account and all applicable services.
-
-Back to top
-
-### 15\. How secure is my personal information?
-
-The security of your personal information is important to us. Blizzard has taken steps to assure that all information collected will remain secure and in its original form, i.e. free from any alteration. As such, access to all personal information is strictly controlled. When credit card information is transmitted, for example, we use industry standard, SSL (secure sockets layer) encryption. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received.
-
-In addition, we will take reasonable steps to assure that third parties to whom we transfer any data will provide sufficient protection of personal information.
-
-Back to top
-
-### 16\. What if you have a question or complaint?
-
-If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@blizzard.com](mailto:privacy@blizzard.com) or send a letter addressed to Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, One Blizzard Way, Irvine, CA 92618-3616.
-
-As previously mentioned, Blizzard Entertainment is a licensee of ESRB’s Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at <http://www.esrb.org/privacy/contact.aspx>, or ESRB, Attention: Vice President, Privacy Certified Program, 420 Lexington Ave., Suite 2240, New York, NY 10170. You may also e-mail them at [privacy@esrb.org](mailto:privacy@esrb.org).
-
-Back to top
-
-This Privacy Policy was last updated on June 19, 2018
-
-[](http://www.esrb.org/confirm/blizzard-confirmation.aspx)
+Blizzard Entertainment Privacy Policy: Greater European Region, updated 4/2018.
