@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telikompng.com.pg privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222032141id_/http%3A//www.telikompng.com.pg/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telikompng.com.pg privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614012518id_/http%3A//www.telikompng.com.pg/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
