@@ -1,37 +1,112 @@
-> *The following text is extracted and transformed from the rcmoment.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103213847id_/https%3A//www.rcmoment.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcmoment.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613043217id_/https%3A//www.rcmoment.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Privacy Policy
+Last Modified:  [June 20, 2018] 
 
-### Third Party & Private Policy Update
+This Privacy Statement explains how RCMOMENTcollect,use,share and process your information. 
 
-### www.rcmoment.com respects our website visitors concerns about privacy and value the relationship we have with you, we respect and protect your privacy right as set forth in this Privacy Policy. This privacy policy describes the personal information we collect about you, why we collect it, how we use and protect it, and when we share it with third parties. Our policy states the choices you can make about how we collect and use your information. By providing your personal information to www.rcmoment.com, you are consenting to the manner in which we collect, use, disclose, protect and otherwise manage that information. We will revise this Privacy Policy to meet our honest www.rcmoment.com fevers. If we change our privacy policy, we will update it here. Subscribe us to get the latest news. We restless try to ensure that your visit to our website smoothly and your privacy is always respected. If you have any questions or concerns about this Privacy Policy, please contact us at: service@rcmoment.com
+**1.Collection and Use of Personal Data**
 
-### Cookies & Personal Information  
+Personal data is information that can be used to directly or indirectly identify you.Personal data also includes anonymous data that is linked to information that can be used to directly or indirectly identify you.Personal data does not include data that has been irreversibly anonymized or aggregated so that it can no longer enable us,whether in combination with other information or otherwise,to identify you. 
 
+Here is a description of the types of personal data we may collect and how we may use it: 
 
-### We will not provide your personal information to third parties available for them to promote their products or services to you except the case of the third party seals and reseller we designated to sales. without your permission, we do not sell or disclose the personal information of our website visitors in any ways. A “cookie” is a small amount of data sent to your browser from a website server that may be stored on your computer’s hard drive. When you visit our website, this site may store a “cookie” or similar file on your computer. This information may be used for general purposes such as providing you with more personalized service, storing your zip code, and even helping us track our website visits and traffic patterns. We believe it's important for you to know what types of information we collect when you use our site. We may collect personal information from you, such as your name, email address, gender, age or birth date, zip code, country, IP address, browser information, social media name, your credit card number, credit card security code, expiration date, telephone number, billing address, and shipping address when you visit our website and purchase products on www.rcmoment.com
+_1.1What Personal Data We Collect  _ ****
 
-### Security & Outsourcing Links  
+Depending on the products and services you use,we collect different kinds of personal data from or about you.
 
+Data you provide: We collect the personal data you provide when you use our products and services or otherwise interact with us,such as when you create an account,contact us 
 
-### If you are concerned about protecting your information in an on-line transaction, we use state of the art computer encryption technology and incorporated it into our shopping system. When you place orders on the  www.rcmoment.com, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. All of the customer information we have is protected against unauthorized access through the use of government-level security and firewalls. www.rcmoment.com  may contain links to other websites of interest. However, once you have used these links to leave  www.rcmoment.com, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+,participate in an online survey,use our online help or online chat tool. 
 
-### Secure Shopping Experience  
+Data about payments: If you make a purchase,we collect personal data in connection with the purchase.This data including your payment data,such as your credit or debit card number and other card information,and other account and authentication information,as well as billing,shipping,and contact details. 
 
+Data about use of our services and products: When you visit our websites,we may collect data about the type of device you use,your device's unique identifier, the IP address of your device, your operating system, the type of Internet browser that you use, usage information, diagnostic information, and location information from or about the computers, phones, or other devices on which you install or access our products or services. Where available, our services may use GPS, your IP address, and other technologies to determine a device's approximate location to allow us to improve our products and services. 
 
-### We consider our consumer benefits as very important. We use verified Mcafee Security system for our online data and all kinds of services. Websites displaying this symbol are tested and certified daily to pass McAfee’s security tests which help protect our website visitors from identity theft, viruses, spyware, and other online threats. We respect our consumers’ personal privacy. The “privacy clause” is responsible for the operation of our online information management, and fully reflects our commitment to protecting your privacy. To protect your privacy and security, and your registered account” will be implemented password protection. In certain areas, www.rcmoment.com company will use industry-standard Secure Sockets Layer encryption software (SSL-encryption) to protect data transmission.
+_1.2How We Use Your Personal Data  _
 
-### Your access to and use of the www.rcmoment.com is subject to these Terms of Service, which we may update if needed. It is your responsibility to periodically review these terms for applicable changes. Your use of this site after we post any changes to these terms constitutes your agreement to those changes. If you have any questions about these terms, you can let us email us at  www.rcmoment.com. All content on the www.rcmoment.com, including art work, graphics, images, screen shots, text, music, digitally downloadable files, trademarks, logos, product and character names, slogans, and the compilation of the foregoing ("Content") is the property of www.rcmoment.com and its licensors and is protected in the China and internationally under trademark, copyright, and other intellectual property laws. Third party content, including trademarks, trade names, characters, and trademarks and copyrights is the property of the third parties that market or license that content, and is used by www.rcmoment.com subject to license, or subject to the fair use provisions of Chinese trademark law. Users of the www.rcmoment.com  are expressly forbidden to misuse any our content or any third party content that appears on this web site.   
+Generally speaking,we use personal data to provide,improve,and develop our products and services,to communicate with you,to offer you targeted advertisements and services,and to protect us and our customers. 
 
+RCMENT processes and determines how to process your personal data as data controller for the following purposes: 
 
-### You agree not to display or use any Content for any commercial purpose, in any publications, in public performances, in connection with products or services that are not those of www.rcmoment.com, in any manner that is likely to cause confusion among consumers, that disparages or discredits www.rcmoment.com and/or its licensors, that dilutes the strength of www.rcmoment.com or its licensors' property, or that otherwise infringes www.rcmoment.com or its licensors' intellectual property rights. www.rcmoment.com makes no representations about the reliability of the features of the www.rcmoment.com, and disclaims all liability in the event of any service failure. You acknowledge that any reliance on such material and/or systems will be at your own risk. www.rcmoment.com makes no representations regarding the amount of time that content on its site will be preserved. You agree to indemnify and hold www.rcmoment.com, its parents, subsidiaries, officers, employees, and web site contractors harmless from any claims and expenses, including reasonable attorney's fees. 
+Providing,improving,and developing our products and services: We use personal data to help us provide,improve,and develop our products,services,and advertising.This includes using personal data for purposes such as data analysis,research,and audits.Such processing is based on our legitimate interest in offering you products and services and for business continuity.If you enter a contest,or other promotion,we may use the personal data you provide to administer those programs.Some of these activities have additional rules,which may contain further data about how we use personal data,so we encourage you to read those rules carefully before participating. 
 
-### Taxes & Import/Export License  
+ Communicating with you: Subject to your prior express consent,we may use personal data to send you marketing communications in relation toRCMENTproducts and services,communicate with you about your account or transactions,and inform you about our policies and terms.If you no longer wish to receive email communications for marketing purposes,pleaseContact Usto opt-out.We also may use your data to process and respond to your requests when you contact us.Subject to your prior express consent,we may share your personal data with third party partners who may send you marketing communications in relation to their products and services. 
 
+Offering and measuring targeted advertisements and services: Subject to your prior express consent,we may use personal data to personalize your experience with our products and services and on third-party websites and applications and to determine the effectiveness of our promotional campaigns. 
 
-### Prices do not include taxes. Taxes are paid by Buyer upon invoice from Our Company unless Buyer provides a valid exemption certificate acceptable to the taxing authority or unless Our Company is forbidden by law from collection of said taxes from Buyer. Import or export licenses are to be secured by Buyer. 
+NOTE: For any of the uses of your data described above that require your prior express consent,note that you may withdraw your consent by support@rcmoment.com. 
+
+ Promoting safety and security: We use personal data to help verify accounts and user activity,as well as to promote safety and security,such as by monitoring fraud and investigating suspicious or potentially illegal activity or violations of our terms or policies.Such processing is based on our legitimate interest in helping ensure the safety of our products and services. 
+
+**2..Cookies and Similar Technologies**
+
+We use cookies and similar technologies to provide,protect,and improve our products and services,such as by personalizing content,offering and measuring advertisements,understanding user behavior,and providing a safer experience. 
+
+You can remove or reject cookies using your browser or device settings,but in some cases doing so may affect your ability to use our products and services. 
+
+**3.Disclosure of Personal Data**
+
+We make certain personal data available to strategic partners that work with us to provide our products and services or help us market to customers.Personal data will only be shared by us with these companies in order to provide or improve our products,services,and advertising;it will not be shared with third parties for their own marketing purposes without your prior express consent. 
+
+_3.1Service Providers  _
+
+We share personal data with companies that provide services on our behalf,such as website hosting,email services,marketing,sponsoring of sweepstakes,contests,and other promotions,auditing,fulfilling customer orders,data analytics,providing customer service,and conducting customer research and satisfaction surveys.These companies are obligated to protect your data and may be located wherever we operate. 
+
+_3.2Corporate Affiliates and Corporate Business Transactions  _
+
+In the event of a merger,reorganization,acquisition,joint venture,assignment,spin-off,transfer,or sale or disposition of all or any portion of our business,including in connection with any bankruptcy or similar proceedings,we may transfer any and all personal data to the relevant third party. 
+
+_3.3.Legal Compliance and Security  _
+
+It may be necessary—by law,legal process,litigation,and/or requests from public and governmental authorities within or outside your country of residence—for us to disclose personal data.We may also disclose personal data if we determine that for purposes of national security,law enforcement,or other issues of public importance,disclosure is necessary or appropriate. 
+
+We may also disclose personal data if we determine in good faith that disclosure is reasonably necessary to protect our rights and pursue available remedies,enforce our terms and conditions,investigate fraud,or protect our operations or users.
+
+_3.4.Legal Basis For The Processing of Personal Data from EEA Residents  _
+
+It may be necessary—by law,legal process,litigation,and/or requests from public and governmental authorities within or outside your country of residence—for us to disclose personal data.We may also disclose personal data if we determine that for purposes of national security,law enforcement,or other issues of public importance,disclosure is necessary or appropriate. 
+
+If you reside within the European Economic Area(EEA),our processing of your personal data will be legitimized as follows:Whenever we require your consent for the processing of your personal data such processing will be justified pursuant to Article 6(1)lit.(a)of the General Data Protection Regulation(EU)2016/679("GDPR").If the processing of your personal data is necessary for the performance of a contract between you and us or for taking any pre-contractual steps upon your request,such processing will be based on GDPR Article 6(1)lit.(b).Where the processing is necessary for us to comply with a legal obligation,we will process your data on basis of GDPR Article 6(1)lit.(c),and where the processing is necessary for the purposes of our legitimate interests,such processing will be made in accordance with GDPR Article 6(1)lit.(f). 
+
+**4.Your Rights**
+
+We take reasonable steps to ensure that your personal data is accurate,complete,and up to date.You have the right to access,correct,or delete the personal data that we collect.You are also entitled to restrict or object,at any time,to the further processing of your personal data.You have the right to receive your personal data in a structured and standard format.You may lodge a complaint with the competent data protection authority regarding the processing of your personal data. 
+
+To protect the privacy and the security of your personal data,we may request data from you to enable us to confirm your identity and right to access such data,as well as to search for and provide you with the personal data we maintain.There are instances where applicable laws or regulatory requirements allow or require us to refuse to provide or delete some or all of the personal data that we maintain. 
+
+You may  Contact Us to exercise your rights.We will respond to your request in a reasonable time frame,and in any event in less than 30 days. 
+
+**5.Third-Party Websites and Services**
+
+Our websites,products,and services may contain links to or the ability for you to access third-party websites,products,and services.We are not responsible for the privacy practices employed by those third parties,nor are we responsible for the information or content their products and services contain.This Privacy Statement applies solely to data collected by us through our products and services.We encourage you to read the privacy policies of any third party before proceeding to use their websites,products,or services. 
+
+**6.** **Data Security,Integrity,and Retention**
+
+We use reasonable technical,administrative,and physical security measures designed to safeguard and help prevent unauthorized access to your data,and to correctly use the data we collect.For example,access to your personal data is restricted to our employees,contractors,and agents who need access to such data to perform their assigned job duties. 
+
+It is important that you take precautions to protect against unauthorized access to yourRCMENT products,account credentials,and computer or other devices.If you feel that the security of your account or personal data has been compromised,please immediately Contact Us.Please be aware that,despite our best efforts,no security system is impenetrable.In the event of a security breach,we will promptly notify you and the proper authorities if required by law. 
+
+We will retain your personal data for as long as it is necessary to fulfill the purposes outlined in this Privacy Statement,unless a longer retention period is required or permitted by law. 
+
+**7.Data Transfers,Storage,and Processing Globally**
+
+When we share your personal data with our partners,RCMENT-affiliated companies,and service providers,your personal data may be transferred to and/or made accessible from countries out of the European Economic Area.In such circumstances,we will enter into model contractual clauses as adopted by the European Commission,or rely on alternative legal bases such as the Privacy Shield,where applicable,or binding corporate rules where our partners or service providers have adopted such internal policies approved by European data protection authorities. 
+
+**8.Changes to this Privacy Statement**
+
+We may periodically change this Privacy Statement to keep pace with new technologies,industry practices,and regulatory requirements,among other reasons.We expect most such changes to be minor.Any non-material changes will take effect immediately upon posting of an updated Privacy Statement. 
+
+However,there may be cases where changes to the Privacy Statement may be more significant.In such cases,we will first provide a more prominent notice. 
+
+Your continued use of the our products and services after the effective date of the Privacy Statement means that you accept the revised Privacy Statement.If you do not agree to the revised Privacy Statement,please refrain from using our products or services and contact support@rcmoment.com. 
+
+Contact Us 
+
+If you have any questions regarding this Privacy Statement or its implementation,please contact us. 
+
+Our email address is: support@rcmoment.com. 
 
   * Follow us
   * [ ](https://www.facebook.com/rcmomentfans/)
