@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maacindia.com privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809080846id_/http%3A//www.maacindia.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maacindia.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613205024id_/https%3A//www.maacindia.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | maacindia.com
 
@@ -15,7 +15,5 @@ In the event that you do provide Personal Information, Aptech shall maintain acc
 Personal Information will be kept confidential and will be used for our research, marketing, and strategic client analysis objectives and other internal business purposes only. We do not sell or rent Personal Information, except that your Personal Information shall be shared with our business partners/franchisees and you shall be deemed to have given consent to the same. We will share Personal Information only under the circumstances where we are compelled by law (including court orders) to do so.
 
 By using the Site, you consent to the terms of Aptech's Privacy Policy and processing of Personal Information for the purposes given above. When your Personal information is needed, Aptech will not be obligated to let you know at the time of collection, how it will use the personal information. Generally the personal information Aptech collects is used only by it to respond to your inquiry, process an order or allow you to access specific services. You will be offered an opportunity to limit access to your information. In case Aptech does not receive any response from you to limit the access of your information, it shall be deemed that you consent to such distribution of your Personal Information as mentioned above.
-
-The mentioned policy and terms & conditions are also applicable to the mobile website and to the application MAAC AR Exp.
 
 Please note that this Privacy Policy may keep changing from time to time without notice at the sole discretion of Aptech. If you have any questions about Aptech Privacy Policy, collection, use, or disclosure of your personal information, please e-mail us at [digitalsolutions@aptech.ac.in](mailto:digitalsolutions@aptech.ac.in).
