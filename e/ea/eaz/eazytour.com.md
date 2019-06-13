@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eazytour.com privacy policy that was archived on 2016-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160222164015id_/http%3A//eazytour.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eazytour.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614004914id_/http%3A//www.eazytour.com/index.php/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
