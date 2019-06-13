@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techlogon.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801192214id_/https%3A//techlogon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlogon.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613141014id_/https%3A//techlogon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechLogon Technology News
 
