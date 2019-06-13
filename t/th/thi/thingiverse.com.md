@@ -1,116 +1,220 @@
-> *The following text is extracted and transformed from the thingiverse.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616213301id_/https%3A//www.thingiverse.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingiverse.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613215848id_/https%3A//www.makerbot.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Thingiverse
+# Legal - Privacy Policy | MakerBot 3D Printers
 
-[Privacy Policy](https://web.archive.org/legal/privacy) [Terms of Use](https://web.archive.org/legal/terms) [DMCA Request](https://web.archive.org/legal/dmca)
+**LAST DATE UPDATED** : May 25, 2018
 
-EFFECTIVE DATE: APRIL 28, 2016
+Table of Contents
 
-MakerBot Industries, LLC (“ **Company** ," " **us** ," " **our** ," and/or " **we** ") is committed to protecting the privacy of our Users (“Users,” “you,” and/or “your”). We have prepared the MakerBot Privacy Policy (“ **Privacy Policy** ”) to describe to you our practices regarding the Personal Data (as defined below) we collect from Users of our Sites, Services, and the rest of the MakerBot Ecosystem, including but not limited to mobile apps, the MakerBot Desktop App, and MakerBot 3D printers. Capitalized terms not defined in this Privacy Policy have the meanings given in the MakerBot Terms of Use located [here](https://web.archive.org/legal/terms). By using and accessing the Sites, you consent and agree to the terms of this Privacy Policy, which is incorporated by reference into the [MakerBot Terms of Use](https://web.archive.org/legal/terms). 
-
-1\. USER CONSENT. By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use, and disclosure of your Personal Data in accordance with this Privacy Policy. 
-
-2\. A NOTE ABOUT CHILDREN. We do not intentionally gather Personal Data from visitors who are under the age of 13, and neither our Site nor our Services are intended for children under this age. 
-
-3\. A NOTE TO USERS OUTSIDE OF THE UNITED STATES. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. 
-
-4\. TYPES OF DATA WE COLLECT. “ **Personal Data** ” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. “Non-Personal Data” means data that is not associated with or linked to your Personal Data; Non-Personal Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Non-Personal Data as described below. 
-
-(A) Information You Provide to Us
-
-We may collect Personal Data from you, such as your first and last name, gender, e-mail and mailing addresses, professional title, company name, your industry, and password when you create a Company Account. 
-
-We retain information on your behalf, such as designs and other files and messages that you store using your Company Account. 
-
-If you provide us feedback or contact us via e-mail for any purpose, we will collect your name and e-mail address, as well as any other content included in the e-mail, such as a product serial number. 
-
-When you participate in one or more activities through our Sites and Services or directed at our official social media handles, including, but not limited to, our surveys, contests, sweepstakes, giveaways, and educational or training classes, we may collect the additional information provided by you for such participation. You should read the separate terms and conditions that govern these activities. 
-
-When you post messages or other content on our Site, the information contained in your posting will be stored on our servers and other users will be able to see it, including in commercial contexts. For example, we collect the profile name and profile photo you may post to the Sites, and actions you take on our Sites or on third-party applications connected to your Company Account through the use of our Services. 
-
-We also collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, product registration number, and other requested information if you contact us via e-mail regarding support for the Services. 
-
-We may also collect Personal Data, such as at other points in our Site that state that Personal Data is being collected. 
-
-B) Information Collected via Technology
-
-To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, unique system/hardware identifier, a date/time stamp for your visit and/or any other unique attributes that are available to us via your use of our Sites, Services, and technology. 
-
-We also use cookies and URL information to gather information regarding your visit to our Sites, among other things we collect the date and time of your visit and the information for which you searched and which you viewed. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to identify you and among other things provide you with a more personal and interactive experience on our Site and Services. Persistent Cookies can be removed by following Internet browser help file directions. 
-
-Information may be aggregated and used to help us provide more useful information to our customers and to understand which parts of our website, products, and services are of most interest. Aggregated data is considered Non-Personal information for the purposes of this Privacy Policy. 
-
-We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). MakerBot may associate your device identifiers or phone number with your Company Account. 
-
-We may collect and process information about your actual location. We use various technologies to determine location, including IP address, GPS, and other sensors that may, for example, provide MakerBot with information on nearby devices, Wi-Fi access points, and cell towers. 
-
-We may collect and store details of how you use our services, including search queries. This information may be used to improve the relevancy of results provided by our services. 
-
-We may collect certain usage statistics (the " **Usage Statistics** "). The Usage Statistics may include, but are not limited to date and time of action (such as, for example, when you print a file, purchase a product or browse the Sites), type of action, any parameters associated with the type of action, your IP address, and your user Thingiverse/MakerBot ID. The Thingiverse/MakerBot ID will only be shared if you are also logged in to the Thingiverse/MakerBot website and/or relevant parts of the MakerBot Ecosystem. 
-
-(C) Information Collected from Third Party Companies.
-
-We may receive Personal and/or Non-Personal Data about you from companies that provide our Services by way of a co-branded or private-labeled website or companies that offer their products and/or services on our Site. These third party companies may supply us with Personal Data. We may add this information to the information we have already collected from you via our Site in order to improve the Services we provide. 
-
-MakerBot may use Google Analytics, a web analysis service provided by Google Inc ("Google") or any other analytics services. Google Analytics or other analytics services use cookies and text files, which may be stored on your computer or other device. These cookies collect anonymous traffic data and/or Personal Data that allows for an analysis of your usage of the MakerBot Ecosystem. 
-
-For more information on Google, please read:
-
-  * Google Analytics [Terms of Service](https://www.google.com/analytics/terms/us.html)
-  * Google [Privacy Policy](https://www.google.com/policies/privacy/)
+  1. MAKERBOT– PRIVACY POLICY
+  2. QUESTIONS ABOUT THIS PRIVACY POLICY
+  3. TYPES OF INFORMATION WE COLLECT
+  4. INFORMATION YOU PROVIDE TO US
+  5. INFORMATION WE COLLECT FROM YOU
+  6. THE WAY WE USE PERSONAL INFORMATION
+  7. PUBLICLY AVAILABLE INFORMATION
+  8. AGGREGATED ANONYMOUS INFORMATION
+  9. OPTING OUT
+  10. YOUR RIGHTS
+  11. LINKS TO AND INTERACTION WITH THIRD PARTY PRODUCTS
+  12. CHILDREN’S PRIVACY
+  13. SECURITY
+  14. OUR “DO NOT TRACK” NOTICE
+  15. RETENTION OF YOUR PERSONAL INFORMATION
+  16. CONTACT US
+  17. APPENDIX
 
 
 
-5\. USE OF YOUR PERSONAL DATA
+* * *
 
-(A) GENERAL USE. In general, we use your Personal Data to administer and improve the Sites and Services, to track your movement around the Sites, to protect MakerBot and our Users. Personal Data may either be used to respond to your requests, and to offer more personally tailored content and services. For example, some of the Personal Data we collect may be used so that when you visit the Site or use the Services again, it will recognize you and could provide you more relevant content suggestions on Thingiverse, customized search results, or other information appropriate to your interests. 
+### 1\. MAKERBOT– PRIVACY POLICY
 
-We may use your Personal Data in the following ways:
+This privacy policy (“ **Privacy Policy** “) governs MakerBot Industries, LLC’s and its subsidiaries and affiliates (specifically including Stratasys Ltd., Stratasys, Inc.; Solidscape, Inc., Stratasys Direct, Inc., each individually and collectively may be referred to herein as “ **MakerBot** “, “ **we** “, “ **our** ” or “ **us** “), information collection, processing and usage practices in connection with the use of the following websites: [www.makerbot.com](https://www.makerbot.com/), and [www.thingiverse.com](https://www.thingiverse.com/) (each individually and collectively may be referred to herein as the “ **Site** “) and/or any MakerBot-branded software products or services, or related hardware, that we operate or provide (“ **Software** “, and together with the Site, the “ **Services** “) in our capacity as controller. The clause headings used below are for convenience of reading only (and are not to be used for interpretive purposes), but we hope they make navigating this Privacy Policy easier for Users (defined below).
 
-  * to facilitate the creation of and secure your Company Account on our network;
-  * identify you as a user in our system;
-  * to show certain Company Account information such as your profile name and profile photo when you post on Thingiverse
-  * to combine across our different Services, such as, for example, applying your shipping information from one Service to another to make it easier for you to fill in
-  * to allow you share digital content, including designs files for printable objects with other users;
-  * to improve the quality of experience when you interact with our Site and Services, including notifying you about upcoming changes or improvements;
-  * to send you service messages such as a welcome e-mail to verify ownership of the e-mail address provided when your Company Account was created;
-  * to send you administrative e-mail notifications, such as security, support, update, and maintenance advisories;
-  * to respond to your inquiries, including but not limited to employment opportunities;
-  * to help you solve any issues you contact us about. In such cases, we may keep a record of your communication.
-  * to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback or to notify you if we have your permission; and to send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of Company.
+Safeguarding the Personal Information (defined below) of our customers, visitors, and users (“ **Users** “, “ **you** “, or “ **your** “) is important to us and we recognise the responsibility you entrust us with when providing your Personal Information. This Privacy Policy details how your Personal Information is used by MakerBot both actively and passively, when you use the Site and/or Services. With this Privacy Policy (together with our [Terms of Use](https://www.makerbot.com/legal/terms)) and any other documents or policies referred to therein) we wish to outline the basis on which any Personal Information we collect from you, or that you provide to us, will be processed including, what information we may collect from you via the Site and/or the Services, how we may use such information, how we may disclose information provided by you to third parties and the use of “cookies” on the Site and by the Services. 
+
+Generally speaking, MakerBot receives information because:
+
+  * You have provided it to us;
+  * We collect it from you; and/or
+  * Third parties we engage (such as data analytics providers) collect it from you on our behalf. This happens in cases where we use or deploy third party tracking technology, or where we otherwise give these third parties access to the Site, Software, and other technology. So where we describe below in section 4 (Information We Collect From You) the ways in which we collect information from you, you acknowledge that such collection may also be carried out by third parties. These third parties may have their own privacy policies that they also adhere to.
 
 
 
-(B) Creation of Non-Personal Data. We may create Non-Personal Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Non-Personal Data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. Company reserves the right to use Non-Personal Data for any purpose and disclose Non-Personal Data to third parties in its sole discretion. 
+### 2\. QUESTIONS ABOUT THIS PRIVACY POLICY
 
-6\. DISCLOSURE OF YOUR PERSONAL DATA. We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy. 
+If you have any questions or comments regarding privacy issues on the Site and/or the Services, please contact us by e-mail at [privacy@makerbot.com](mailto:%20privacy@makerbot.com). 
 
-(A) INFORMATION DISCLOSED TO THIRD PARTY SERVICE PROVIDERS. We may share your Personal Data with third party service providers: to provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to the Company. These third party service providers are required not to use your Personal Data other than to provide the services requested by Company. When you use third party Applications or other services that use, or are integrated with, the MakerBot Ecosystem, they may receive information about what you already share publicly. Information shared publicly may be made available via the Application. For example, the Developer may get information about your User Content and/or your public profile. Information collected by these Applications or integrated services is also subject to their own terms and policies. 
+### 3\. TYPES OF INFORMATION WE COLLECT
 
-(B) AFFILIATES AND ACQUISITIONS. We may share some or all of your Personal Data with our parent company, subsidiaries, joint ventures, or other companies under a common control (“MakerBot Affiliates“), in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company, business, or our assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy. 
+We collect both Personal Information and non-personal information, such as Anonymous Information, about our Users. “ **Personal Information** ” is information that can be used to contact or identify you, such as your full name, email address, phone number, payment method and profile picture, as well as information that is linked to such Personal Information. “ **Anonymous Information** ” is information that is not linked to your Personal Information, cannot be used to contact or identify you and is not linked to information that can be used to do so, such as Personal Information. Anonymous Information includes passively collected information about your activities on the Site or on the Services or using our Software, such as usage data, to the extent that information is not linked to your Personal Information. 
 
-(C) OTHER DISCLOSURES. Regardless of any choices you make regarding your Personal Data (as described below), Company may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Company; (c) to protect or defend the rights or property of Company or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Terms of Use. 
+### 4\. INFORMATION YOU PROVIDE TO US
 
-7\. THIRD PARTY DATA COLLECTION.
+You may provide Personal Information to us in the following ways:
 
-(A) INFORMATION DISCLOSED TO AD NETWORKS. We may use third-party advertising companies services to serve and show you ads when you visit our Site and on other websites. These companies may collect and use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to <http://www.networkadvertising.org/managing/opt_out.asp>. 
+4.1 **Company Account**.
 
-(B) THIRD PARTY WEBSITES. When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect Personal Data or Non-Personal Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites. 
+4.1.1 In order to use certain Services, you may be required to create an account (“ **Company Account** “), which will require you to provide Personal Information, such as your name and email address.
 
-8\. YOUR CHOICES REGARDING YOUR PERSONAL DATA
+4.1.2 We may also offer the option of creating a Company Account through connecting via a third party account (for example, with a social media site – a “ **Third Party Account** “), in which case you will be required to approve the connection as well as the types of information (which may include Personal Information) that is made available to us from, and the types of activities that we may perform in connection with, that Third Party Account. Even if you later disconnect your Company Account from the Third Party Account, we still keep a copy of the Personal Information that we received from the connection of the two accounts.
 
-(A) CHOICES. We offer you choices regarding the collection, use, and sharing of your Personal Data. 
+4.1.3 In either case, we may send you an email or other electronic message confirming your Company Account creation (or otherwise instructing you how to confirm it).
 
-(I) We will periodically send you free newsletters and e-mails that directly promote the use of our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). 
+4.2 **Information Collected When You Contact Us**. If you contact us, whether by submitting an online form that we make available or by sending an email to an email address that we display or provide, by using a feedback or reporting feature, or by other means, such as through contacting our Support team via phone, we may collect certain information from you, such as your name and email address.
 
-(II) Despite your indicated e-mail preferences, you agree that we may, at our sole option and discretion, send you service related communication, including notices of any updates to our [Terms of Use](https://web.archive.org/legal/terms), [Terms of Sale](http://www.makerbot.com/legal/terms-of-sale) or [Privacy Policy](https://web.archive.org/legal/privacy). 
+4.3 **Purchases**. If you make a purchase via the Services, you will be required to provide certain billing data to process and fulfill the purchase. We may use the products and services of third party service providers to process and fulfill such purchases, in which case you will be providing the information to such third party services providers as well.
 
-(B) CHANGES TO PERSONAL DATA. You may access and change any of your Personal Data in your Company Account by editing your profile within your Company Account or by contacting us at the web form in Section 11 below. You may request deletion of your Company Account or certain Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but certain past Personal Data may remain in our archives. We may retain, use, or disclose your information to prevent or detect fraud or similar purposes. 
+4.4 **Profile**. Some of the Services may enable you to build a public profile in connection with your Company Account (“ **Public Profile** “). Your Public Profile may include your name, but you may choose to provide other Personal Information, such as a profile picture, a user name, and other information that we may offer you to present.
 
-9\. SECURITY OF YOUR PERSONAL DATA. Company is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Company Account information. Please do not disclose your Company Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Company uses reasonable efforts to protect your Personal Data, Company cannot guarantee its absolute security. 
+4.5 **Share with Others**. The Services may offer features enabling you to invite others to use the Services, for example by sending an invitation email from the Site to the recipient’s external email address. If you send or post an invitation, you will be providing us with Personal Information about the recipient such as his/her email address.
 
-10\. _DO NOT TRACK. Currently_ , (i) other parties (e.g. third-party advertising networks and analytics providers) may collect personal information about your online activities over time and across different websites when you use our website or services, and (ii) we do not respond to, or take any specific action in connection with the receipt of, Do-Not-Track signals or other similar mechanisms regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party websites or online services. 
+4.6 **Blogs, Newsletters, Surveys and Promotions**. The Site may contain blog forums displaying information about MakerBot and some of its products and services. The Site may also offer you the opportunity to subscribe to newsletters and participate in surveys and other promotional activities. Your interaction (such as responding on the blog forum, subscribing to a newsletter, or participating in a survey) may require you to provide certain Personal Information such as your name and email address, together with any additional Personal Information you choose to enter on the blog forum. You should read the separate terms and conditions that govern these activities, if any.
 
-11\. CONTACT INFORMATION. If you have any questions about this Privacy Policy, please contact MakerBot at <http://www.makerbot.com/support/submit-a-case/>. 
+4.7 **Social Media**. When you participate in one or more activities through our Site and Services or directed at our official handles on various social media platforms, we may collect additional information provided by you for such participation. You should read the separate terms and conditions that govern those social media platforms.  
 
-12\. CHANGES TO THIS PRIVACY POLICY. This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Site or Service. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Company Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
+
+### 5\. INFORMATION WE COLLECT FROM YOU
+
+We collect Personal Information and other non-personal information, such as Anonymous Information, from you in the following ways:
+
+5.1 **Log Files; Device and Usage Data & IP Address**. We collect information through server log files, but also by deploying tracking technologies within the Site and the Services, and we may also associate this information with your Company Account. We do this to analyze trends, track user movement around the Site and Services, gather demographic information, and to generally collect information that we may find insightful or helpful. The type of information collected may include (but is not limited to) internet protocol (IP) addresses (which may vary from session to session), MAC address, mobile network information including phone number, device type and hardware model, browser type, operating system type, type of browser, Internet Service Provider (ISP), date/time stamp of Site or Service use, referring/exit pages, and clicked pages. For example, the Site uses Google Analytics, more information on which you can find here: <https://www.google.com/intl/en/policies/privacy/partners/>.
+
+5.2 **Cookies**. In the interest of giving our Site an attractive appearance and in order to allow the use of certain functions, we use cookies on various pages of our Site. They consist of small text files that are stored on your computer. Most of these cookies used by us will be erased from your hard drive immediately after your browser session (so-called session cookies).
+
+Other cookies remain saved to your computer’s hard drive and enable us to recognize your computer in the event of a later visit to our website (so-called persistent cookies). It is particularly these cookies that allow us to make our Site more user-friendly, effective and safe. Thanks to these files, for example, it is possible to display information specifically suited to your personal preferences on a certain webpage. These cookies will be erased automatically once the retention period expires.
+
+The legal grounds for processing the cookie information consists of the execution of the agreement as well as of our rightful interest towards the safe and user-friendly presentation of our Site.
+
+For the same reason, the Site use cookies to distinguish you from other Users. MakerBot may use a cookie file, which is stored on the browser or hard drive of your computer and/or your mobile telephone device, to obtain information about your general Internet usage by. Cookies contain information that is transferred to your computer’s and/or mobile telephone device’s hard drive. They help us to improve the Site and the Services, and to deliver a better and more personalised service.
+
+They enable MakerBot:
+
+  * to estimate MakerBot’s audience size and usage pattern and perform other analytics;
+  * to store information about your preferences and so allow MakerBot to customise the Site and/or Services according to your individual interests;
+  * to continually improve MakerBot’s services; and
+  * to recognise you when you return to the Site.
+
+
+
+You may block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you select this setting you may be unable to access certain parts of the Site. Unless you have adjusted your browser setting so that it will refuse cookies, MakerBot’s system will issue cookies when you log on to the Site and/or use the Services or our Software. You may wish to look at https://www.aboutcookies.org/ which has further information on cookies and how to manage them.
+
+The help function in the menu of most browsers explains how to prevent your browser from accepting cookies, how to signal to your browser about the reception of a new cookie and also, how you can erase all collected cookies as well as how to block all future ones. We remind you however that, in the event of limited cookie settings on your computer, you may not be able to use all functions of our Site to the fullest extent possible.
+
+5.3 **Analysis Tools and Internet Technologies**. The legal basis for the processing of your data along with collective analytical tools and internet technologies is our rightful interest towards an analysis of the activities on our website and Users’ behaviour on the Site, as well as our interest (and the interest of third parties) in the inclusion of personalized advertisement suited to your interests.
+
+5.4  **Google Analytics**. This Site uses Google Analytics, a web analysis service provided by Google Inc. (“ **Google”** ). Google Analytics makes use of so-called cookies as mentioned before, text files stored on your computer that allow an analysis of your use of the website. In principle, the information about your use of our website as displayed by the cookie is transferred to and stored on the Google server in the United States. We activated a so-called IP anonymization on this website, which means that Google shortens the IP addresses from within EU Member States or from other EEA treaty states before they are exported to the United States server. Only in exceptional cases, the full IP address may be transferred to the United States Google server before it is shortened in the United States.
+
+As instructed by this Site’s operator, Google will use the information for the purpose of analysing your use of our Site, to compose reports on the activities on our Site and to provide further services to the website’s operator related to the use of the website and the internet. The IP address that is transferred by your browser and that is shortened before storing for the purposes of Google Analytics will not be added to other Google data. You can prevent the storage of the cookies through the applicable settings of your browser software, however we remind you that, in certain instances, this may cause that you will not be able to use all functions of our Site to the fullest extent possible.
+
+5.5  **Retargeting**. This website makes use of retargeting technologies that are administered by other operators. Through retargeting, users of our partners’ websites, who were interested in our Site and in our Services before, can be approached with personalized advertisements. Studies show that the inclusion of personalized advertisements that are related to people’s actual interests are more appealing to the user than advertisements without any personal connection. Through retargeting, the incorporation of advertisements is based on the analysis of cookies that display earlier user’s conduct. Of course, no personal information is stored in this process and, obviously, the use of retargeting technology occurs in compliance with the legal provisions on data protection. If you do not consent to this mode of advertisement, you can deactivate cookies and/or delete existent cookies through your browser settings. You can do so by following the instructions under “Cookies”. You can revoke the cookies-based analysis with altering consequences for the future by saving a cookie opt-out on your personal device in accordance with the aforementioned instructions.
+
+5.6  **More Internet Technologies**. As mentioned before, this website collects and stores information on the visitors’ surfing conduct in an anonymized way, through the use of various internet technologies. This data is saved to your computer through cookies and enables us to analyse your anonymized surfing conduct, for instance: a user’s city of origin, the type of browser and operating system he or she uses and the pages he visited on the internet. This data can in no event be used to personally identify the visitor of our webpage. The stored data are only used to improve our product and service. Therefore, all IP addresses are shortened and thus processed in an anonymous way. It is not used in a different way or disclosed to third parties. You can generally revoke your consent for the collection, processing and the use of data by a analytics or retargeting technologies commissioned by this website, with altering consequences for the future. It will save a cookie opt-out to your device. This revocation will remain effective as long as you do not erase this cookie.
+
+5.7 **Click Stream Data**. As you browse the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes called “clickstream” data, can be collected and stored by a web site’s server. Clickstream data can tell us the type of computer and browsing software you use, the address of the web site from which you linked to the Site, and in some instances, your e-mail address. We may use clickstream data to determine how much time visitors spend on each page of the Site and how they navigate through the Site. We will only use this information to improve the Site.
+
+### 6\. THE WAY WE USE PERSONAL INFORMATION
+
+6.1 All of the ways in which we use or process your Personal Information, as described further below in this clause or elsewhere in this Privacy Policy, are based on one of a number of legal conditions provided for under applicable data protection laws.
+
+Typically these will include:
+
+6.1.1 processing which is necessary for a contract we have entered, or are entering, into with you – for example, processing payment information in relation to purchases via the Services;
+
+6.1.2 processing which is based on your consent – for example, when you voluntarily provide us with your contact information so that we can respond to a query you have raised with us;
+
+6.1.3 processing which is within our legitimate interests as the operator of the Site and Services – for example, associating browser generated information with your use of the Services so that we can tailor or improve the Services for you;
+
+6.1.4 processing which is necessary to comply with our legal obligations; and
+
+6.1.5 processing which is necessary to protect our rights and interests.
+
+6.2 In addition to the uses of Personal Information described elsewhere in this Privacy Policy, we also use Personal Information in the following ways:
+
+6.2.1 To generally provide you with the Services
+
+6.2.2 We will use Personal Information to:
+
+6.2.2.1 administer and provide the Site and Services to you;
+
+6.2.2.2 further develop and improve the Site and Services;
+
+6.2.2.3 show certain Company Account information and/or Public Profile such as your user name and profile photo when you post on the Site;
+
+6.2.2.4 allow you to share digital content, including designs files for printable objects with other Users;
+
+6.2.2.5 combine your information across our different Services, such as, for example, applying your shipping information from one Service to another to make it easier for you to fill in;
+
+6.2.2.6 send you updates, promotions, offerings, or other news of/about the Site, Services and/or MakerBot;
+
+6.2.2.7 respond to communications with you;
+
+6.2.2.8 offer customer support;
+
+6.2.2.9 identify or authenticate your access and use of the Site or Services; and/or
+
+6.2.2.10 send you updates and marketing information related to our products and services, subject to any consents required under local laws.
+
+6.3 **Transfer to Affiliates**. We may send or otherwise share Personal Information to/with our local or foreign subsidiaries or affiliates for the purpose of storing such information on our behalf, or carrying out other processing on our behalf. These entities may be located in other countries to MakerBot, and their servers may be located anywhere in the world. We require these entities to agree to process your Personal Information in accordance with this Privacy Policy.
+
+6.4 **Transfer to Third Parties**. The Services may not be hosted by us. All or some of the hosting may be done by third party service providers that we engage. This means that data you provide us or that we or third parties collect from you (including any Personal Information), may be hosted with such third party service providers on servers that they own or control. Regardless of where such third party service providers are located (some of which may be located in the United States), their servers may be located anywhere in the world (including the United States). Your data may even be replicated across multiple servers located in multiple countries.
+
+We send or otherwise share Personal Information to/with various third parties that help us with our business operations and help us understand how our users use the Site and Services, and to develop and improve them. Also, just as with our third party hosting providers, these third parties may be based (and their servers may be located) anywhere in the world.
+
+6.5 **Merger, Sale or Bankruptcy**. In the event that MakerBot is acquired by, or merged with, a third party entity, we may (and hereby reserve the right to) transfer or assign the Personal Information and other information we have collected or received.
+
+6.6 **Enforcement**. We may send or otherwise share your Personal Information with any third party if we believe that disclosure of such information is helpful or reasonably necessary to: (a) comply with any applicable law, regulation, legal process, or governmental request; (b) enforce the terms of service/use governing the Site and/or Services, including investigations of potential violations thereof; (c) detect, prevent, or otherwise address fraud or security issues; and/or (d) protect against harm to the rights, property or safety of MakerBot, our subsidiary and affiliates entities, our users, yourself, or the public.
+
+### 7\. PUBLICLY AVAILABLE INFORMATION
+
+Any content that you make publicly available on or via the Site or Services (such as your Public Profile) will be publicly available to other Users of the Site or such Services. If you actively or passively allow your contact information to be public, you may receive unsolicited messages or activity from other users of the Site or such Services. We therefore encourage you only to post information that you are sure you want to be publicly accessible.
+
+### 8\. AGGREGATED ANONYMOUS INFORMATION
+
+“ **Aggregated Anonymous Information** ” is information that we cannot use to contact or identify you and is not linked to information that can be used to do so. It includes passively collected information about your activities on the Site or while using our Services or our Software, such as usage data, to the extent that information is not linked to your Personal Information. We may use Aggregated Anonymous Information collected from our Site or our Services to:
+
+  * improve the services we provide through the Site and the Services and customize the user experience, such as by providing targeted useful features and promotions based on the type of services you seek; and/or
+  * aggregate the information collected via cookies and similar technologies to use in statistical analysis to help us track trends, evaluate the effectiveness of our ads and analyse patterns.
+
+
+
+### 9\. OPTING OUT
+
+You may choose not to receive future promotional, advertising, or other Site- or Services-related emails from us by selecting an unsubscribe link at the bottom of each email that we send. Please note that even if you opt out of receiving the foregoing emails, we may still respond to communications initiated by you, as well as send administrative emails that are necessary to facilitate your use of the Site and/or Services (for example, emails confirming print completion, and updates to our policies).
+
+### 10\. YOUR RIGHTS
+
+We would like to maintain accurate Personal Information, and we endeavour to comply with all rights you might have under data protection laws. If you would like to delete, access or correct any of your Personal Information that we may be storing, there may be tools that we make available via the Services. Otherwise, please contact us at [privacy@makerbot.com](mailto:%20privacy@makerbot.com). to make your request We will treat your request in accordance with applicable laws. 
+
+### 11\. LINKS TO AND INTERACTION WITH THIRD PARTY PRODUCTS
+
+The Services may link to, or otherwise enable you to interact with, third party content, products and services. Any Personal Information you provide in connection therewith is provided to the third party. We are not responsible for the privacy practices of such third parties, or for such content, products and services, and we encourage you to read the terms and conditions and privacy policies of each third party that you choose to use or interact with. 
+
+### 12\. CHILDREN’S PRIVACY
+
+We do not intentionally collect Personal Information from anyone we know to be under the age of 16 (“ **Child** ” or “ **Children** “). Children who wish to register a Company Account must provide MakerBot with verifiable parental consent from their parent or guardian (“ **Parent** “) as described in the [MakerBot Children’s Privacy Policy](https://www.makerbot.com/legal/childrenprivacypolicy). If we learn that we have collected Personal Information from a Child but have not received verifiable parental consent, we will use commercially reasonable efforts to delete that information as quickly as possible. 
+
+### 13\. SECURITY
+
+We take what we consider to be appropriate measures to protect Personal Information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we try to use reasonably acceptable means to protect your Personal Information, we cannot guarantee its absolute security or confidentiality. If you have any questions about security on the Site or on our Services, you can contact us at [privacy@makerbot.com](mailto:%20privacy@makerbot.com). 
+
+### 14\. OUR “DO NOT TRACK” NOTICE
+
+We do not currently respond or take any action with respect to web browser “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of Personal Information about that individual consumer’s online activities over time and across third-party websites or online services. We may allow third parties, such as companies that provide us with analytics tools, to collect Personal Information about an individual consumer’s online activities over time and across different websites when a consumer uses the Site and/or a Service. 
+
+### 15\. RETENTION OF YOUR PERSONAL INFORMATION
+
+We will retain your Personal Information only for as long as necessary to fulfil the purpose(s) for which it was collected and to comply with applicable laws. Your consent to such purpose remains valid after termination of our relationship with you.
+
+In principle, we store your data as long as it is required to deliver the Services and as long as we have the rightful interest towards saving it for an extended period of time (for instance, after fully executing a contract, we may still have a rightful interest towards the use of your data for marketing purposes). Excluded from deletion is only the data we need for the execution of pending tasks and the data we need to realize our rights and our claims, as well as certain data that we must store for a legally mandatory longer period of time. When certain data is only saved due to a legally mandatory preservation term, the processing of it by us is limited, even without your request.
+
+### 16\. CONTACT US
+
+Protecting your privacy online is an evolving area, and we try to evolve our Site and Services to meet these demands. If you have any comments or questions regarding this Privacy Policy, please contact us at [privacy@makerbot.com](mailto:%20privacy@makerbot.com). 
+
+### 17\. APPENDIX
+
+17.1 **California Privacy Rights**. California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure (if any) of Personal Information to third parties for their direct marketing purposes. To the extent applicable, you may make such a request by sending an email to [privacy@makerbot.com](mailto:%20privacy@makerbot.com). Please note that we are only required to respond to one request per customer each year.
+
+17.2 **Deletion of Content from California Residents**. If you are a California resident under the age of 18 and a registered user of certain parts of the Services, California Business and Professions Code Section 22581 permits you to remove content or Personal Information you have publicly posted. If you wish to remove such content or Personal Information, please contact [privacy@makerbot.com](mailto:%20privacy@makerbot.com), and provided you specify which content or Personal Information you wish to be removed, we will do so in accordance with applicable law. Please be aware that after removal you will not be able to restore removed content or Personal Information. In addition, such removal does not ensure complete or comprehensive removal of the content or Personal Information you have posted and that there may be circumstances in which the law does not require (or allow) us to enable removal.
