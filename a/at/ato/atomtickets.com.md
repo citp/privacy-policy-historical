@@ -1,26 +1,47 @@
-> *The following text is extracted and transformed from the atomtickets.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113232434id_/http%3A//www.atomtickets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomtickets.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613084434id_/https%3A//www.atomtickets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Atom, Your Ticket to More
 
-**Last Updated: June 6, 2018**
+**Last Updated: March 31, 2019**
+
+**TABLE OF CONTENTS**
+
+> 1\. Introduction.  
+>  2\. Children’s Use of Atom Tickets’ Service and the Atom Platform.  
+>  3\. Types of Information Atom tickets Collects About You, and How It’s Collected.  
+>  4\. How Atom Tickets Uses and Shares the Information It Collects.  
+>  5\. How We Protect Your Information.  
+>  6\. Your Choices Regarding Your Information.  
+>  7\. Treatment of Information Disclosed to Third-Parties.  
+>  8\. Consent to Processing and Transfer of Information Outside of Your Country.  
+>  9\. Notice to Canadian Users and/or Customers of Landmark Cinemas Canada.  
+>  10\. Notice to California Residents.  
+>  11\. Notice to Utah Residents.  
+>  12\. Changes to this Privacy Policy.  
+>  13\. Disclosure Regarding Certain Partners Powered by Atom Tickets.  
+>  14\. Contact Us.
+
+**1\. INTRODUCTION.**
 
 Welcome to Atom Tickets!
 
 Atom Tickets, LLC (" **Atom Tickets** ", " **We** ," " **Us** ", or " **Our** ") has prepared this privacy policy (“ **Privacy Policy** ”) to describe Our practices regarding the information We collect from users of Our mobile application (" **App** ") and website located at [www.atomtickets.com](https://www.atomtickets.com/) (" **Website** ") (collectively referred to as the “ **Atom Platform** ”), and the related online services provided by Atom Tickets through the Atom Platform (" **Services** ").
 
+While this Privacy Policy applies to all users of the Atom Platform, it contains provisions specific to users who are Canadian residents (“Canadian Users”) in order to comply with Canada’s federal privacy laws, the Personal Information Protection and Electronic Documents Act (“PIPEDA”). Please see Section 9 for more information.
+
 If You, as defined in the [Terms of Use](https://www.atomtickets.com/tos), have any questions, concerns, or complaints about Our Privacy Policy, Our information collection, or Our processing practices, or if You want to report any security violations to us, or would like to access, correct, and/or delete Your Personally Identifiable Information, please contact Us at [**privacy@atomtickets.com**](mailto:%20privacy@atomtickets.com). If You make any requests regarding access to or removal of Your information pursuant to this Privacy Policy, We will take reasonable steps to verify Your identity, such as requiring Your user ID or other personal information associated with Your Account.
 
-So We are clear about the terminology We are using, when We use the phrase " **Personally Identifiable Information** " in this Privacy Policy, We mean personally identifiable information as that term is described in US privacy law and information security, namely, information about an individual that (either by itself or when combined with information from other available sources) allows that individual to be identified, including, the name, address, telephone number, or e-mail address. When We use the phrase " **Anonymous Information** " in this Privacy Policy, We mean information that does not allow for the identification of an individual or is not associated with or linked to that person’s Personally Identifiable Information. Anonymous Information does not enable identification of or contact with individuals.
+So We are clear about the terminology We are using, when We use the phrase " **Personally Identifiable Information** " in this Privacy Policy, We mean personally identifiable information as that term is described in US privacy law and PIPEDA, namely, information about an individual that (either by itself or when combined with information from other available sources) allows that individual to be identified, including, Your name, address, telephone number, or e-mail address, as well as any other information that permits You to be contacted physically or online. When We use the phrase " **Anonymous Information** " in this Privacy Policy, We mean information that does not allow for the identification of an individual or is not associated with or linked to that person’s Personally Identifiable Information. Anonymous Information does not enable identification of or contact with individuals.
 
 Please read this Privacy Policy carefully to understand Our policies and practices regarding Your information and how We will collect, use, share, protect or otherwise handle it. If You do not agree with Our policies and practices, please do not download the App, register with Our Services, or otherwise use Our Services, the App, the Website or the Atom Platform. By using Our Services, You agree to this Privacy Policy.
 
 This Privacy Policy may change from time to time, as detailed below.
 
-**1\. CHILDREN’S USE OF ATOM TICKETS’ SERVICE AND THE ATOM PLATFORM.**
+**2\. CHILDREN’S USE OF ATOM TICKETS’ SERVICE AND THE ATOM PLATFORM.**
 
-Protecting the privacy of children is very important to Us. Our Services are not directed to children and children are not eligible to use Our Services. If You are 13 years of age or older, but under 18 years of age, You may only use Our Services with the involvement of a parent or guardian. We do not specifically market to individuals We actually know are under 13 years of age, We do not collect or maintain Personally Identifiable Information from individuals We actually know are under 13 years of age, and no part of Our Services is designed to attract individuals under 13 years of age. If We later learn that a user is under 13 years of age, We will take steps to remove that user's Personally Identifiable Information from Our databases and to prevent the user from utilizing the Services.
+Protecting the privacy of children is very important to Us. Our Services are not directed to children and children are not eligible to use Our Services. If You are 13 years of age or older, but under 18 years of age, You may only use Our Services with the involvement of a parent or guardian. We do not specifically market to individuals We actually know are under 13 years of age, We do not collect or maintain Personally Identifiable Information from individuals We actually know are under 13 years of age, and no part of Our Services is designed to attract individuals under 13 years of age. If We later learn that a user is under 13 years of age, We will take steps to remove that user's Personally Identifiable Information from Our databases and to prevent the user from utilizing the Services. If you become aware of any data We may have collected from children under 13 years of age, please contact Us.
 
-**2\. TYPES OF INFORMATION ATOM TICKETS COLLECTS ABOUT YOU, AND HOW IT’S COLLECTED.**
+**3\. TYPES OF INFORMATION ATOM TICKETS COLLECTS ABOUT YOU, AND HOW IT’S COLLECTED.**
 
 In general, there are two types of information we collect about you – Personally Identifiable Information and Anonymous Information, as defined above.
 
@@ -40,7 +61,7 @@ _**PERSONALLY IDENTIFIABLE INFORMATION**_
 > 
 > _INFORMATION COLLECTED FROM YOU ABOUT OTHERS_
 > 
-> If You use Our Services to purchase Tickets for others, share Your plans with others, or invite others to use Our Services, You can choose to provide Us with the names, phone numbers, e-mail addresses, and contact profile photographs of those individuals. **By doing so, You represent and warrant that any contact information You provide is accurate and current and that you have obtained any consents from your contacts that are necessary for Us to access and upload the information You provide and to send Your contacts any information and messages that You choose to initiate through Our Services, including via e-mail and text message or short message service messages (“SMS”) number.** You or the third party may contact Us at [privacy@atomtickets.com](mailto:%20privacy@atomtickets.com) to request the removal of this information from Our database. As this is associated with You, We consider it to be Your Personally Identifiable Information. Unless we have independently obtained the Personally Identifiable Information of an individual identified in Your contacts (for example, if such person has independently used Our Services), Our use of such information from Your contacts, with Your consent, shall be limited to facilitating Your use of the Services.
+> If You use Our Services to purchase Tickets for others, share Your plans with others, or invite others to use Our Services, You can choose to provide Us with the names, phone numbers, e-mail addresses, and contact profile photographs of those individuals. **By doing so, You represent and warrant that any contact information You provide is accurate and current and that you have obtained any consents from your contacts that are necessary for Us to access and upload the information You provide and to send Your contacts any information and messages that You choose to initiate through Our Services, including via e-mail and text message or short message service messages (“SMS”) number.** You or the third party may contact Us at [privacy@atomtickets.com](mailto:%20privacy@atomtickets.com) to request the removal of this information from Our database. Unless we have independently obtained the Personally Identifiable Information of an individual identified in Your contacts (for example, if such person has independently used Our Services), Our use of such information from Your contacts, with Your consent and representation that You have obtained any necessary consent from Your contacts, shall be limited to facilitating Your use of the Services.
 > 
 > _INFORMATION COLLECTED THROUGH SOCIAL NETWORKING SERVICES AND OTHER THIRD-PARTIES_
 > 
@@ -50,7 +71,9 @@ _**ANONYMOUS INFORMATION**_
 
 > We collect the following types of Anonymous Information: 
 > 
-> _INFORMATION COLLECTED BY OUR SERVERS_. To make Our Services more useful to You, Our servers (which may be hosted by a third party service provider) collect certain anonymous information from You, including Your browser type, operating system, , domain name, and/or a date/time stamp for Your visit.
+> _INFORMATION COLLECTED BY OUR SERVERS_. To make Our Services more useful to You, Our servers (which may be hosted by a third party service provider) collect certain anonymous information from You, including Your browser type, operating system, domain name, and/or a date/time stamp for Your visit.
+> 
+> _FINANCIAL DATA_. Any collected financial information, such as data related to your payment method (e.g. valid credit card number, card brand, expiration date), is stored by the applicable payment processor or digital wallet entity, such as PayPal, Amazon Payments, Braintree Payments, etc. You are encouraged to review their policies and contact them directly for responses to your questions. Feel free to contact us if you have questions about who the applicable payment processor or digital wallet entity is.
 > 
 > _LOG FILES_. As is true of most apps and websites, We gather certain information automatically and store it in log files. This information includes browser type, Internet service provider (" **ISP** "), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Services, track users’ use of the Services, gather demographic information about Our user base as a whole, and better tailor Our Services to Our users’ needs. For example, some of the information may be collected so that when You visit the Services again, it will recognize You and the information could then be used to serve advertisements and other information tailored to Your interests.
 > 
@@ -60,9 +83,9 @@ _**ANONYMOUS INFORMATION**_
 > 
 > _PIXEL TAGS_. In addition, We may use pixel tags (" **Pixel Tags** ") (also referred to as clear Gifs, Web beacons, or Web bugs). Pixel Tags are tiny graphic images with a unique identifier, similar in function to Cookies, that are used to track online movements of online users. In contrast to Cookies, which are stored on a user’s computer hard drive, Pixel Tags are embedded invisibly in apps and web pages. Pixel Tags also allow Us to send e-mail messages and in-app advertisements in a format users can read, and they tell Us whether e-mails have been opened and in-app advertisements viewed to help ensure that We are sending only messages that are of interest to Our users. We may use this information to reduce or eliminate messages sent to a user. We may allow third-party advertisers or partners to use Pixel Tags on the App for the same reasons and in the same methods identified above. We do not tie the information gathered by Pixel Tags to Our users’ Personally Identifiable Information, nor do We provide enough information to third parties for them to do so.
 > 
-> _COLLECTION OF INFORMATION BY ADVERTISERS_. We may use third parties to serve ads on the Services. Certain third parties may automatically collect information about Your visits to the App and other apps and websites, Your ISP, Your advertising device identifier, and/or the browser You use to visit Our Services. They do this by using Cookies, Pixel Tags, or other technologies. Information collected may be used, among other things, to deliver advertising targeted to Your interests and to better understand the usage and visitation of Our Services and the other sites tracked by these third parties. This Privacy Policy does not apply to, and We are not responsible for, Cookies or Pixel Tags in third party ads, and We encourage You to check the privacy policies of advertisers and/or ad services to learn about their use of Cookies, Pixel Tags, and other technologies. If You would like more information about this practice and to know Your choices about not having this information used by these companies, click here: <http://www.aboutads.info/choices>. Via that link You may, among other things, opt out of certain network advertising programs but, if You do, please note that You will still see advertisements, however they may be less relevant to You. Please note that even if You opt out of targeted advertising via that link, We may still track Your visits to the Atom Platform for Our own analytics, operations, and security uses.
+> _COLLECTION OF INFORMATION BY ADVERTISERS_. We may use third parties to serve ads on the Services. Certain third parties may automatically collect information about Your visits to the App and other apps and websites, Your ISP, Your advertising device identifier, and/or the browser You use to visit Our Services. They do this by using Cookies, Pixel Tags, or other technologies. Information collected may be used, among other things, to deliver advertising targeted to Your interests and to better understand the usage and visitation of Our Services and the other sites tracked by these third parties. This Privacy Policy does not apply to, and We are not responsible for, Cookies or Pixel Tags in third party ads, and We encourage You to check the privacy policies of advertisers and/or ad services to learn about their use of Cookies, Pixel Tags, and other technologies. If You would like more information about this practice and to know Your choices about not having this information used by these companies, U.S. users can click here: [ www.aboutads.info/choices](http://www.aboutads.info/choices) and Canadian users can click here: [www.youradchoices.ca](http://www.youradchoices.ca/). Via that link You may, among other things, opt out of certain network advertising programs but, if You do, please note that You will still see advertisements, however they may be less relevant to You. Please note that even if You opt out of targeted advertising via that link, We may still track Your visits to the Atom Platform for Our own analytics, operations, and security uses.
 
-**3\. HOW ATOM TICKETS USES AND SHARES THE INFORMATION IT COLLECTS.**
+**4\. HOW ATOM TICKETS USES AND SHARES THE INFORMATION IT COLLECTS.**
 
  _ **PERSONALLY IDENTIFIABLE INFORMATION**_
 
@@ -72,8 +95,10 @@ _**ANONYMOUS INFORMATION**_
 >   * Process and fulfill Your transactions; 
 >   * Provide You with the Services and customer support; 
 >   * Personalize and tailor the features and content of the Services to You; 
+>   * Increase the efficiency and operation of the Services; 
 >   * Market Our products, offers, and services, and those of third parties, to You that We believe may be of interest to You, including through text message or SMS, push notifications, and special offers in the App; 
 >   * Send newsletters, offers, updates, notices, announcements, and additional information to You related to Our Services and those of third parties; 
+>   * Administer sweepstakes, promotions and contests; 
 >   * Understand how Our Services are used so we can continue to improve the Services we provide to You; 
 >   * Create consumer profiles and audience segments which may be used for targeted advertising of Our Services; 
 >   * Find and connect You with Your contacts, including to provide special offers from Us or third parties; 
@@ -88,7 +113,7 @@ _**ANONYMOUS INFORMATION**_
 > 
 > We may also use Your Personally Identifiable Information to create Anonymous Information records by excluding information that makes the information personally identifiable to You.
 > 
-> _TICKET, CONCESSION AND MERCHANDISE PURCHASES_. If You purchase tickets to a performance, and/or concessions in connection with such theatrical showing, You authorize Us to share Your name and information related to Your purchase (but not Your contact information) with the applicable venue. We do not control how such venue uses Your Personally Identifiable Information. You should contact the venue to understand how it may use Your Personally Identifiable Information. If You purchase merchandise, We will share Your name and information related to Your purchase (including Your contact information, to the extent such information is necessary for fulfillment of Your merchandise order) to a merchandise vendor or fulfillment party.
+> _TICKET, CONCESSION AND MERCHANDISE PURCHASES_. If You purchase tickets to a performance, and/or concessions in connection with such theatrical showing, You authorize Us to share Your name and information related to Your purchase (but not Your contact information) with the applicable venue. We do not control how such venue uses Your Personally Identifiable Information. You should contact the venue to understand how it may use Your Personally Identifiable Information. If You purchase merchandise, We will share Your name and information related to Your purchase (including Your contact information, to the extent such information is necessary for fulfillment of Your merchandise order) to a merchandise vendor or fulfillment party. Canadian users and other customers of Landmark Cinemas Canada, please see Section 9 below.
 > 
 > _LOYALTY PROGRAM OPERATORS_. We offer the ability for You to link Your Atom Tickets account with the loyalty rewards programs of certain companies offering loyalty or membership reward programs. When You indicate that You would like such a link to occur, We may share transaction information or other information (including Personally Identifiable Information) pertaining to You related to the transaction with the applicable company. We may also share this information with Our Affiliates, as defined below.
 > 
@@ -104,7 +129,7 @@ _**ANONYMOUS INFORMATION**_
 > 
 > _OTHER DISCLOSURES_. Regardless of any choices You make regarding Your Personally Identifiable Information (as described below), We may disclose Personally Identifiable Information if We believe in good faith that such disclosure is necessary: (i) in connection with any legal investigation; (ii) to comply with relevant laws or government requests or to respond to subpoenas or warrants served on us; (iii) to protect or defend Our rights or property or other users of the Services; or (iv) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or Our Terms of Use, including as part of credit fraud protection. We may also use and disclose Your Personally Identifiable Information as required or authorized by applicable laws.
 > 
-> We will retain the information you provide as long as you have an account with Atom Tickets. If you request to delete your account, we will retain your information for a period of 6 months to allow you to reinstate your account in case you change your mind. After a period of 6 months, your information will be anonymized by removing your Personally Identifiable Information. Your Personally Identifiable Information will then be deleted and the Anonymized Information will be included in our statistical database.
+> We will retain the information You provide as long as you have an account with Atom Tickets. If You request to delete your account, we will retain Your information for a reasonable period while processing your request . Thereafter, Your information will be anonymized by removing Your Personally Identifiable Information. Your Personally Identifiable Information will then be deleted and the Anonymized Information will be included in our statistical database.
 
 _**ANONYMOUS INFORMATION**_
 
@@ -116,13 +141,13 @@ _**ANONYMOUS INFORMATION**_
 > 
 > We may also share Anonymous Information with third party service providers (" **Analytics Companies** ") to help analyze how users use Our Services. These Analytics Companies may also use Cookies and/or Pixel Tags to collect information such as how often users visit Our Services and how they use Our Services. We do not combine the information gathered by Analytics Companies with Your Personally Identifiable Information, and the collection of this information does not enable these Analytics Companies to identify or contact You.
 
-**4\. HOW WE PROTECT YOUR INFORMATION.**
+**5\. HOW WE PROTECT YOUR INFORMATION.**
 
 We take the security and privacy of Your information very seriously. We use reasonable security arrangements to protect the Personally Identifiable Information in Our custody or control against unauthorized access, collection, use, alteration, disclosure, copying, modification, disposal or similar risks. We will take reasonable steps, through contractual or other reasonable means, to ensure that a comparable level of Personally Identifiable Information protection is implements by Our suppliers, vendors and agents.
 
 Unfortunately, while We make reasonable efforts to ensure that Your information is secure on Our system, no data transmission over the Internet can be guaranteed to be 100 percent secure. As a result, We cannot guarantee the security of any Personally Identifiable Information You transmit to Us, and You do so at Your own risk. Your use of Our Services and the Atom Platform demonstrates Your assumption of this risk.
 
-**5\. YOUR CHOICES REGARDING YOUR INFORMATION.**
+**6\. YOUR CHOICES REGARDING YOUR INFORMATION.**
 
 _E-MAIL COMMUNICATIONS_. We may periodically send You free newsletters and e-mails that directly promote the use of Our App or Services. When You receive newsletters or promotional communications from us, You may indicate a preference to stop receiving such further communications from Us and You will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail You receive or by contacting Us directly at privacy@atomtickets.com. Despite Your indicated e-mail preferences, We may send You service related communications, including notices of any updates to Our [Terms of Use](https://www.atomtickets.com/tos) or Privacy Policy, which You may not opt out of.
 
@@ -140,28 +165,54 @@ _DO NOT TRACK_. At this time, We do not currently respond to Do Not Track (DNT) 
 
 From time-to-time, We may, in Our sole discretion, provide additional options on the App, the Website, or any other portion of the Atom Platform to allow You to further opt-out of discrete portions of the information collection detailed in this Privacy Policy.
 
-**6\. TREATMENT OF INFORMATION DISCLOSED TO THIRD-PARTIES.**
+**7\. TREATMENT OF INFORMATION DISCLOSED TO THIRD-PARTIES.**
 
 This Privacy Policy addresses only Our use and disclosure of information We collect from and/or about You through Our Services. If You disclose information to others, or authorize Us to do the same under this Privacy Policy, the use and disclosure restrictions contained in this Privacy Policy will not apply to any third party. We do not control the privacy policies of third parties, and You are subject to the privacy policies of those third parties where applicable.
 
-The Services and the Atom Platform may contain content or links to other websites that are not owned or controlled by us. We have no control over, do not review, and are not responsible for the privacy policies of or content displayed on such other websites. When You click on such a link, You will leave Our Services and go to another site. During this process, another entity may collect Personally Identifiable Information or Anonymous Information from You. The Services may also contain links to other websites that are controlled by Us but operate under different privacy policies. Please review the privacy policy of any new site You visit.
+Please note that the Services and the Atom Platform may contain content or links to other websites that are not owned by, controlled by or affiliated with us. We have no control over, do not review, and are not responsible for the privacy policies of or content displayed on such other websites. When You click on such a link, You will leave Our Services and go to another site and any information provided to these third-parties is not covered by this Privacy Policy. During this process, another entity may collect Personally Identifiable Information or Anonymous Information from You. We cannot guarantee the safety and privacy of your information and we are not responsible for the content or privacy and security practices/policies of those third-parties. Please review the privacy policy of any new site You visit. Also please note that the Services may also contain links to other websites that are controlled by Us but operate under different privacy policies so you should review those policies carefully as well.
 
-**7\. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION ABOUT CANADIAN USERS.**
+**8\. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION OUTSIDE OF YOUR COUNTRY.**
 
-Our Services and the Atom Platform are governed by and operated in accordance with the laws of the United States. Atom does not market to or provide Services to individuals outside of the U.S. and Canada. If You are a Canadian user of the Services or the Atom Platform, by using Our Services and/or providing Us with information, You acknowledge and agree that Your Personally Identifiable Information may be processed for the purposes identified in the Privacy Policy in accordance with United States Law. In addition, Your Personally Identifiable Information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personally Identifiable Information may be less stringent than the laws in Your country, and where governments, courts, law enforcement or regulatory agencies in those other countries may be able to obtain disclosure of that Personally Identifiable Information through the laws of those countries. By providing Your information, You consent to Your Personally Identifiable Information being used in this way.
+Our Services and the Atom Platform are governed by and operated in accordance with the laws of the United States, where permitted by applicable law. Atom does not market to or provide Services to individuals outside of the U.S. and Canada. If You are a Canadian user of the Services or the Atom Platform, by using Our Services and/or providing Us with information, You acknowledge and agree that Your Personally Identifiable Information may be processed for the purposes identified in the Privacy Policy in accordance with United States Law, where permitted by applicable law. In addition, for all users, Your Personally Identifiable Information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personally Identifiable Information may be less stringent than the laws in Your country, and where governments, courts, law enforcement or regulatory agencies in those other countries may be able to obtain disclosure of that Personally Identifiable Information through the laws of those countries. By providing Your information, You consent to Your Personally Identifiable Information being used in this way.
 
-**8\. NOTICE TO CALIFORNIA RESIDENTS.**
+**9\. NOTICE TO CANADIAN USERS AND/OR CUSTOMERS OF LANDMARK CINEMAS CANADA.**
 
-Under California law and due to the fact that We may, in the course of business, disclose Your Personally Identifiable Information to a third-party for their direct marketing purposes, We provide all California residents the right to obtain what information and to whom the information was provided in that regard by Us in the immediately preceding calendar year. If You are a California resident and want such a list, please provide a written request for such information to Atom Tickets, Attn: Privacy Manager, 2700 Colorado Avenue, 4th Floor, Santa Monica, CA 90404. In Your request, You must include Your name, Your current California address (complete address, including street address, city, state and zip code), and You must attest to the fact that you are a California resident. Unfortunately, We cannot and will not accept requests via e-mail, telephone or any other method, nor are We responsible for requests that are not properly labeled or sent, or that are otherwise incomplete.
+If You are a Canadian User or a customer of Landmark Cinemas Canada and have requests or concerns regarding this Privacy Policy or the collection, use or disclosure of Your Personal Information by Us, or if You wish to withdraw Your consent to collection, use, and disclosure of Your Personal Information, please contact Our Privacy Officer at privacy@atomtickets.com. Alternatively, you may contact the Office of the Privacy Commissioner of Canada with privacy questions by mail at 30 Victoria Street, Gatineau, Quebec, K1A 1H3, Canada or by toll-free telephone at 1 (800) 282-1376 or by telephone at 1 (819) 994-5444.
+
+If You are a customer of Landmark Cinemas Canada, please note that in addition to how we use and share Your information as outlined in Section 4 above, as You are a customer of Landmark Cinemas, We also share Your Personally Identifiable Information directly with Landmark Cinemas, subject to [the Landmark Cinemas privacy policy](https://www.landmarkcinemas.com/privacy-policy/), for the purpose of Landmark Cinemas better serving You. By making a purchase on the Atom Platform, You are opting in to and consent to this limited sharing of Your Personally Identifiable Information. Please note that this does not include any financial or otherwise sensitive information. You can contact Us as referenced in this Privacy Policy if You have any questions regarding this policy or if You wish to opt-out, or you can contact Landmark Cinemas as detailed in their privacy policy.
+
+**10\. NOTICE TO CALIFORNIA RESIDENTS.**
+
+Under California law and due to the fact that We may, in the course of business, disclose Your Personally Identifiable Information to a third-party for their direct marketing purposes pursuant to the policies and disclosures contained in this Privacy Policy, We provide all California residents the right to obtain what information and to whom the information was provided in that regard by Us in the immediately preceding calendar year. If You are a California resident and want such a list, please provide a written request for such information to Atom Tickets, Attn: Privacy Manager, 2700 Colorado Avenue, 4th Floor, Santa Monica, CA 90404. In Your request, You must include Your name, Your current California address (complete address, including street address, city, state and zip code), and You must attest to the fact that you are a California resident. Unfortunately, We cannot and will not accept requests via e-mail, telephone or any other method, nor are We responsible for requests that are not properly labeled or sent, or that are otherwise incomplete.
 
 Upon Our receipt of a valid written request for such information, We shall provide a list of any disclosures of the identified California resident’s Personally Identifiable Information to any third-party for direct marketing purposes within thirty (30) days of the receipt of such request. The list shall include the categories of Personally Identifiable Information disclosed to third-parties for their direct marketing purposes during the immediately preceding calendar year, the names and addresses of all of such third-parties, and to the extent We know, an indication of the third-party’s business. Such list may be in a standardized format and not specific to any individual. This list will be sent to You at the current California address included in Your request.
 
 California residents shall only be entitled to have this information provided once per calendar year.
 
-**9\. NOTICE TO UTAH RESIDENTS.**
+**11\. NOTICE TO UTAH RESIDENTS.**
 
 We reserve the right to transfer Your Personally Identifiable Information to a third-party (including Our affiliates and subsidiaries) for our own direct marketing.
 
-**10\. CHANGES TO THIS PRIVACY POLICY.**
+**12\. CHANGES TO THIS PRIVACY POLICY.**
 
-This Privacy Policy may be updated in the future, from time to time, for any reason. We will notify You of any changes to Our Privacy Policy by posting the new Privacy Policy on the App and Website at [http://www.atomtickets.com/privacy](https://www.atomtickets.com/privacy) and changing the "Last Updated" date above. We may take such other actions as we deem appropriate under the circumstances to announce such changes. You should consult this Privacy Policy regularly for any changes. If We decide to use Personally Identifiable Information in a manner different from that stated at the time that it was collected, We will notify affected individuals by e-mail. Individuals can choose whether or not to allow Us to use Personally Identifiable Information related to them in this new manner.
+This Privacy Policy may be updated in the future, from time to time, for any reason. We will notify You of any changes to Our Privacy Policy by posting the new Privacy Policy on the App and Website at [http://www.atomtickets.com/privacy](https://www.atomtickets.com/privacy) and changing the "Last Updated" date above. We may take such other actions as we deem appropriate under the circumstances to announce such changes. You should consult this Privacy Policy regularly for any changes. If We decide to use Personally Identifiable Information in a manner different from that stated at the time that it was collected, We will notify affected individuals by e-mail. Individuals can choose whether or not to allow Us to use Personally Identifiable Information related to them in this new manner. If We make changes requiring such notice that only affect residents of a select state or country, please note that we may only provide notice to those select residents and users.
+
+**13\. DISCLOSURE REGARDING CERTAIN PARTNERS POWERED BY ATOM TICKETS.**
+
+From time-to-time, some of Our partners offer ticket purchases powered by Atom Tickets. Those transactions, while subject to this Privacy Policy, may also be subject to the partner's privacy policy. Those "powered by Atom Tickets" situations include disclosures regarding the operative privacy policies and the sharing of information regarding Your transactions in those situations. These disclosures are also included here for your reference:
+
+  * [Disclosure Regarding Atom Tickets and Lionsgate Operative Privacy Policies](https://www.atomtickets.com/legal/disclosure-regarding-operative-privacy-policies-atom-and-lionsgate)
+  * [Disclosure Regarding Atom Tickets and Ticketón Operative Privacy Policies](https://www.atomtickets.com/legal/disclosure-regarding-operative-privacy-policies-atom-and-ticketon)
+  * [Disclosure Regarding Atom Tickets and Megaplex Operative Privacy Policies (MegaPass)](https://www.atomtickets.com/legal/disclosure-regarding-operative-privacy-policies-atom-and-megaplex)
+
+
+
+**14\. CONTACT US.**
+
+If you have any questions or comments about this Privacy Policy, please contact us via [the Atom Tickets Help Center](https://www.atomtickets.com/help/faq) or at:
+
+Atom Tickets, LLC  
+2700 Colorado Avenue 4th Floor  
+Santa Monica, CA 90404  
+[support@atomtickets.com](mailto:support@atomtickets.com)  
++1 (844) 838-6284
