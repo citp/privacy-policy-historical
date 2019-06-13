@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116012503id_/https%3A//www.rapidonline.com/privacy%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614005546id_/https%3A//www.rapidonline.com/privacy%23cookies) for the most accurate reproduction.*
 
 # Privacy Policy | Rapid Online
 
