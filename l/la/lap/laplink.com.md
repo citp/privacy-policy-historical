@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107135010id_/http%3A//web.laplink.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613032456id_/https%3A//web.laplink.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy – Laplink®
 
@@ -95,8 +95,8 @@ Please feel free to write, call or send us an e-mail message with any questions 
 600 108th Ave NE, Suite 610  
 Bellevue, WA 98007  
 USA
-  * Phone: [425.952.6000](https://web.archive.org/web/20181107135010id_/http://web.laplink.com/privacy_policy/425.952.6000)
-  * Fax: [425.952.6002](https://web.archive.org/web/20181107135010id_/http://web.laplink.com/privacy_policy/425.952.6002)
+  * Phone: [425.952.6000](https://web.archive.org/web/20190613032456id_/https://web.laplink.com/privacy_policy/425.952.6000)
+  * Fax: [425.952.6002](https://web.archive.org/web/20190613032456id_/https://web.laplink.com/privacy_policy/425.952.6002)
 
 
 
