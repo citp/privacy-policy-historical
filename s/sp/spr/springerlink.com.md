@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the springerlink.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212175647id_/https%3A//link.springer.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springerlink.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613235032id_/https%3A//rd.springer.com/privacystatement) for the most accurate reproduction.*
 
-# Cookie Policy | SpringerLink
+# Cookie Policy | Springer for Research & Development
 
 This is the privacy policy ("policy") for _SpringerLink_ which is run and provided by Springer Nature Switzerland AG ( **we** , **us** and **our** ). Springer Nature Switzerland AG is located at Gewerbestrasse 11, 6330 Cham, Switzerland. We can also be contacted at [onlineservice@springer.com.](mailto:onlineservice@springer.com)
 
