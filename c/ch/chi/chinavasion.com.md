@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinavasion.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906061855id_/https%3A//www.chinavasion.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinavasion.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613210659id_/https%3A//www.chinavasion.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Chinavasion Privacy Policy - Data Protection and Security at China's No.1 Wholesaler
 
@@ -23,6 +23,14 @@ We use the latest in encryption technology, including 128 bit SSL encryption to 
 ## WHO HAS ACCESS TO MY INFORMATION?
 
 Only those employees that are responsible for handling your account have access to your information. Additionally, employees in our technical department may have access to your information in order to conduct routine checks on the integrity of our system and in order to perform necessary maintenance work. In order to process your credit card we have to consult with an out side credit card processing company. These processing companies are regulated by the banking industry and must meet certain security requirements in order to be in business.The processing companies will have access to your credit card information, billing address, name, and possibly your telephone number. The processing company will communicate with the issuing bank of your credit card in order to get final approval to charge your credit card for the product or services we are providing for you. Should you choose to receive additional information regarding one of our services or products, we may pass your email address to one of our partners who offers similar products or services that you might be interested in.Additionally, judicial requests by a duly authorized court will require us to divulge certain information regarding your account should that situation arise. Finally, should our company ever be bought or sold, your account information would then become the property of the new owner/entity.
+
+## HOW LONG IS THIS INFORMATION KEPT?
+
+We will retain your personal information for as long as it is necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by tax, or other applicable laws.
+
+## Contact US
+
+If you would like to exercise one of your rights as set out above, or if you have a question or a complaint about this policy, the way your personal information is processed, please contact us via e-mail: support@chinavasion.com.
 
 ## CAN I CORRECT OR REMOVE INFORMATION FROM YOUR SITE?
 
