@@ -1,90 +1,127 @@
-> *The following text is extracted and transformed from the icons8.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905185209id_/https%3A//icons8.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icons8.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613160955id_/https%3A//icons8.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Our Privacy Policy was last updated and posted on 22 August 2014. It governs the privacy terms of our Website, located at http://icons8.com, sub-domains, and any associated web-based and mobile applications (collectively, "Website"), as owned and operated by Icons8. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
+[](https://web.archive.org/)
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://Icons8.com. The following outlines our privacy policy.
+Last updated January 11, 2019
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+Icons8 LLC (hereafter: "Company", “We,” “Us,” or “Our”) is a duly registered Delaware Company, Registration Number: 5893810. Our contact address is:
 
+4023 Kennett Pike #59970   
+Wilmington DE 19807   
+United States
 
+##### I. PURPOSE
 
-##### Your Privacy
+We are committed to maintaining the accuracy, confidentiality, and security of our users’ personal information. This Privacy Policy describes the personal information that we collect from or about our users, how we use that information, and to whom it is disclosed.
 
-Icons8 follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. We utilize the Personal Data you offer in a way that is consistent with this Personal privacy Policy. If you provide Personal Data for a particular reason, we could make use of the Personal Data in connection with the reason for which it was provided. For example, registration info sent when developing your account, might be used to assist suggest products to you based on past acquisitions. We might use your Personal Data to offer access to services on the Site and monitor your use of such services. Icons8 may also utilize your Personal Data and various other personally non-identifiable info gathered through the Website to assist us improve the material and functionality of the Website, to much better comprehend our users, and to improve our services. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
+This Policy is designed to comply with the privacy requirements established by the General Data Protection Regulation (“GDPR”), as well as with all applicable laws around the world that are intended to protect an individual’s privacy. It supports our need to collect information from our users as necessary for our performance of business services and functions, while also recognizing a user’s right to have their information handled in a way that protects the privacy of their personal information. You may learn more about the GDPR here: <https://www.eugdpr.org/>
 
-##### Definitions
+For purposes of this Policy, a user may also be referred to as “you,” “your,” or “data subject.”
 
-"Non Personal Information" is information that is not personally identifiable to you and that we automatically collect when you access our Website with a web browser. It may also include publicly available information that is shared between you and others.
+##### II. COMMENCEMENT
 
-"Personally Identifiable Information" is non-public information that is personally identifiable to you and obtained in order for us to provide you within our Website. Personally Identifiable Information may include information such as your name, email address, and other related information that you provide to us or that we obtain about you.
+This Policy will commence from January 11, 2019. It replaces all other policies relating to the use of a user’s personal data, whether such a policy was made in writing or oral.
 
-##### Information We Collect
+##### III. APPLICATION
 
-Generally, you control the amount and type of information you provide to us when using our Website.
+Legal requirements may vary from country to country. This Policy applies to all users of our website, even those who access our site from a location outside of the European Union.
 
-As a Visitor, you can browse our website to find out more about our Website. You are not required to provide us with any Personally Identifiable Information as a Visitor.
+##### IV. DEFINITIONS
 
-##### Computer Information Collected
+We find the below terms relevant and important to the understanding and execution of this Policy. The following terms may be used or referenced in this Policy and can be further defined pursuant to Article 4 of the GDPR:
 
-When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:
-
-  * **Cookies**  
-Our Website uses "Cookies" to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.
-
-  * **Geographical Information**  
-When you use the mobile application, we may use GPS technology (or other similar technology) to determine your current location in order to determine the city you are located within and display information with relevant data or advertisements. We will not share your current location with other users or partners. If you do not want us to use your location for the purposes set forth above, you should turn off the location services for the mobile application located in your account settings or in your mobile phone settings and/or within the mobile application.
-  * **Automatic Information**  
-We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you're headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website. 
-  * **Log Data**  
-Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics. 
+  1.  **Personal Data:** any information relating to an identified or identifiable natural person (“data subject”); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural, or social identity of that natural person.
+  2.  **Controller:** the natural or legal person, public authority, agency or another body which, alone or jointly with others, determines the purposes and means of the processing of personal data.
+  3.  **Processor:** a natural or legal person, public authority, agency or another body which processes personal data on behalf of the controller.
+  4.  **Recipient:** a natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether a third party or not.
+  5.  **Third Party:** a natural or legal person, public authority, agency or body other than the data subject, controller, processor, or persons who, under the direct authority of the controller or processor, are authorized to process personal data.
+  6.  **Processing:** any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or otherwise making available, alignment or combination, restriction, erasure, or destruction.
+  7.  **Profiling:** any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person’s performance at work, economic situation, health, personal preferences, interests, relatability, behavior, location, or movements.
+  8.  **Filing System:** any structured set of personal data which are accessible according to specific criteria, whether centralized, decentralized or dispersed on a functional or geographical basis.
 
 
 
-Under the Child's Online Privacy Security Act, no web site operator can require, as a condition to involvement in an activity, that a child younger than 13 years of age divulge more details than is reasonably required. Icons8 abides by this demand. Icons8 just collects information willingly offered; no information is gathered passively. children under 13 can submit only their email address when sending us an email in our "Contact Us" area. Icons8 makes use of the e-mail address to respond to a one-time demand from a child under 13 and afterwards deletes the e-mail address. In case Icons8 collects and maintains personal information relating to a child under 13, the parent may send out an email to us to review, alter and/or erase such info as well as to decline to enable any additional collection or use of the child's information.
+##### V. INFORMATION COLLECTED
 
-##### How We Use Your Information
+We only collect information that is necessary for one or more of our legitimate business functions or activities. The information we collect from our users may include:
 
-We use the information we receive from you as follows:
-
-  * **Customizing Our Website**  
-We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.
-
-  * **Sharing Information with Affiliates and Other Third Parties**  
-We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website hosting companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.
-
-  * **Data Aggregation**  
-We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.
-
-  * **Legally Required Releases of Information**  
-We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of Icons8, our Users, employees, and affiliates.
+  * Personal identification data, including, but not limited to, your name, gender, date of birth, and nationality, if applicable.
+  * Contact information, including, but not limited to, your email address, billing address, and telephone number(s);
+  * Account login information including, but not limited to, your login credentials.
+  * Information relating to the business(es) you wish to buy or sell on our site including, but not limited to, business name, address, and telephone number; purchasing preferences and history; and your anticipated buy or sale price.
+  * Network traffic data including, but not limited to, your IP address, identification numbers, location data, cookies, online identifiers, language settings, and device identification.
+  * Financial information provided by you including, but not limited to, your PayPal account and credit card information.
+  * Information you voluntarily share with us including, but not limited to, forum posts, feature suggestions, article comments, upvotes, and bug reports.
+  * Social media links or content you voluntarily share with us including, but not limited to, images, contacts, and written content.
+  * We may also collect information from third-party channels including, without limitation, factual research our employees perform on you or your business, or from your interactions with our employees.
 
 
 
+The information collected is considered “personal data” as defined by Article 4(1) of the GDPR.
 
-##### Opt-Out
+##### VI. SHARED INFORMATION
 
-We offer you the chance to "opt-out" of having your personally identifiable information used for particular functions, when we ask you for this detail. When you register for the Site, if you do not want to receive any additional material or notifications from us, you can [notify us](https://icons8.com/contact/).
+We will never sell your personal information, although it may be shared from time to time, and only when necessary to perform a legitimate business function.
 
-##### Links to Other Websites
+We may provide your personal information data that we have collected on our website to third party service providers to help us deliver and promote products, information, services, marketing, or other legitimate business functions. We will have a written agreement with each third party confirming on what basis they will use your personal information and we will ensure that there are adequate safeguards and processes in place to protect your personal data.
 
-Our Website may contain links to other websites that are not under our direct control. These websites may have their own policies regarding privacy. We have no control of or responsibility for linked websites and provide these links solely for the convenience and information of our visitors. You access such linked Websites at your own risk. These websites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual websites to see how the operators of those third-party websites will utilize your personal information. In addition, these websites may contain a link to Websites of our affiliates. The websites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such websites will utilize your personal information.
+##### VII. HOW INFORMATION IS USED
 
-##### Security
+We collect and process personal information from our users so that we may perform our business functions and provide services to the user. We will collect and process your personal data in compliance with the GDPR. We may use a user’s personal information to perform the following:
 
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. We utilize practical protection measures to safeguard against the loss, abuse, and modification of the individual Data under our control. Personal Data is kept in a secured database and always sent out by means of an encrypted SSL method when supported by your web browser. No Web or e-mail transmission is ever totally protected or mistake cost-free. For example, email sent out to or from the Site may not be protected. You must take unique care in deciding what info you send to us by means of e-mail.
+A. General Use:
 
-##### Privacy Policy Updates
+  * To facilitate billing and payment collection for our services, if applicable.
+  * To market relevant businesses, products, and/or services to you based on your preferences selected during the creation or use of your profile account.
+  * To allow our employees or representatives to provide business services in accordance with your contract.
+  * To comply with legal obligations arising out of the performance of our business services to you.
+  * To perform background checks as permitted or required by applicable law.
+  * To defend any legal claims to which we are subject.
+  * Any other legitimate business functions or activities.
 
-We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the "Last Updated" date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
 
-##### Questions About Our Privacy Practices or This Privacy Policy
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. If you have any questions about our Privacy Practices or this Policy, please contact us.
+B. Business-Specific Use:
+
+  * To train our neural networks to perform a better search, classification, and predictive analytics.
+  * To test our software using real-life anonymized personal data (such as testing our new login system).
+  * To test our software using your graphics (such as reproducing the bugs using your data in the cloud).
+  * To identify, assess, or evaluate a user’s preferences and interest against buying and/or selling opportunities posted on our website.
+
+
+
+##### VIII. RETENTION OF PERSONAL DATA
+
+In compliance with Article 5(1)(e) of the GDPR, we keep your personal information data for the period necessary to fulfill the purposes for which it has been collected. We may retain and use your data to inform you of new businesses for sale based on your preferences, in the event you have consented to us doing so.
+
+##### IX. SECURITY
+
+We take precautions to protect your personal information. Our website is secured through a Secure Sockets Layer (“SSL”) Certificate, which ensures the security of data sent via the Internet using encryption.
+
+##### X. YOUR RIGHTSik8 u7
+
+The GDPR was created to protect your privacy rights. You have the right to access, rectify, object to, or erase the data maintained by us pursuant to Articles 12 – 23 of the GDPR. You may request a change to your personal data by contacting us by telephone, email, or mail correspondence.
+
++1 (724) 426-6708
+
+If you believe our processing of your personal data infringes data protection laws, you have a legal right to initiate a complaint with a supervisory authority responsible for data protection in accordance with Article 77 of the GDPR.
+
+##### XI. COOKIES
+
+Our service providers use cookies and those cookies may be stored on your computer when you visit our website. Most browsers allow you to refuse and delete cookies. You can find more information regarding cookies here: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+
+##### XII. DATA PROTECTION OFFICER
+
+If you have questions or concerns regarding this Policy, your personal information, or how we may use it, please contact us by writing to our “Data Protection Officer” at the previously stated address or email. Our data protection officer is responsible for overseeing this Policy and privacy notice.
+
+##### XIII. AMENDMENTS
+
+We may update this Policy from time to time by publishing a new version on its website. We will alert you about any changes by updating the “Last updated” date of this Policy.
+
+##### XIV. CONTACT
+
+If you have comments or questions regarding our Privacy Policy please contact us at:
+
+<https://icons8.com/contact>
