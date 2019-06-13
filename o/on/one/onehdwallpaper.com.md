@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onehdwallpaper.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606185759id_/https%3A//onehdwallpaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehdwallpaper.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613045015id_/https%3A//onehdwallpaper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – One HD Wallpaper Pictures Backgrounds FREE Download
 
@@ -46,3 +46,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 ### Your acceptance of these terms
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**HOW TO DOWNLOAD IMAGE IN FULL RESOLUTION:** Click on each image to view larger in light box, then right click on Picture and select “save image as …” to download Wallpapers into your desktop computer and laptop. If you are browsing website by handheld or touchscreen device, please tap on image for a while (3 seconds) and then select “save image as …” to download image to your mobile device. 
