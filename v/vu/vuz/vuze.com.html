@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vuze.com privacy policy that was archived on 2018-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228090717id_/http%3A//www.vuze.com/corp/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vuze.com privacy policy that was archived on 2019-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190613020439id_/http%3A//www.vuze.com/corp/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>Vuze - Privacy</title>
@@ -32,7 +32,7 @@
 	<link rel="stylesheet" href="/css/new/style.css" type="text/css">
         <link rel="SHORTCUT ICON" href="/favicon.ico">
     <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>function getHtmlEncodedSourceRef() {
-    	return "/plus/purchase";
+    	return "";
     }</script>
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/effects.js"></script>
@@ -109,53 +109,21 @@ function toggleMsg(){
 						<li class="products"><a href="/compare.php" onclick="javascript: _gaq.push(['_trackPageview', '/clicks/PlusLinkNavbarWin']); ga('send', 'pageview', '/clicks/vuze-plus-link-conversion');">Vuze Plus</a></li>
 				<!-- <li><a href="https://twitter.com/vuze" target="new">&hearts; Tweets</a></li> -->
 		<li><a href="/support">Support</a></li>		
-				<li>
-        <a class="dl_btn" id="dl_link0" href="/download.php" vzsource="header">
-    <span class="dl_btn_text" id="dl_btn_text0"></span>
-</a>
-
-    <script type="text/javascript">
-
-    var downloadButtonsTracker = new GAEventTracker("DownloadVuzeButtons")
-    
-    Event.observe(document, 'dom:loaded', function() {
-
-        var buttonTracker = downloadButtonsTracker;
-
-        $$( 'span.dl_btn_text').invoke('update', 'Version 5.7 (Windows)');
-
-        $$("a.dl_btn")
-                .invoke('observe', 'click',
-                    installerTracker.track.bind(installerTracker,{action:"/plus/purchase",label:"Windows"}) )
-                .invoke('observe', 'click', function(event){
-                    var element = event.findElement('A');
-                    buttonTracker.track({action: "click",label: element.readAttribute("vzsource")})
-                })
-
-        buttonTracker.track({action: "impression",label: "header"})
-
-        
-    });
-            
-    if(typeof log4js != "undefined") log4js.debug("referrer: " + "")
-    if(typeof log4js != "undefined") log4js.debug("domain: " + "")
-</script>
-    		</li>
 			</ul>
 	<div class="demo">
 	
 	</div>
 </div>
 <div class="header-sale">
-<div id="buyBanner" style="background-image: url(&quot;-anim.gif&quot;);"><a href="https://www.vuze.com/trk/promo.php?id=_house&amp;buy=1&amp;autorenew=1&amp;autosubmit=1" onclick="javascript:_gaq.push(['_trackPageview', '/trk/promo']);" id="buy-butn"><!-- Buy --></a><span class="autorenewbox"><input class="autorenewchk" type="checkbox" id="check" checked="checked" onclick="check()">auto-renew</span></div>
+<div id="buyBanner" style="background-image: url(&quot;https://cf2.vuze.com/img/plus/201905/def19-big-anim.gif&quot;);"><a href="https://www.vuze.com/trk/promo.php?id=1804_house&amp;buy=1&amp;autorenew=1&amp;autosubmit=1" onclick="javascript:_gaq.push(['_trackPageview', '/trk/promo']);" id="buy-butn"><!-- Buy --></a><span class="autorenewbox"><input class="autorenewchk" type="checkbox" id="check" checked="checked" onclick="check()">auto-renew</span></div>
 <script type="text/javascript">
     function check() {
         if(document.getElementById("check").checked) {
-            document.getElementById("buy-butn").href = "https://www.vuze.com/trk/promo.php?id=_house&buy=1&autorenew=1&autosubmit=1";
-			document.getElementById("buyBanner").style.backgroundImage = 'url(-anim.gif)';
+            document.getElementById("buy-butn").href = "https://www.vuze.com/trk/promo.php?id=1804_house&buy=1&autorenew=1&autosubmit=1";
+			document.getElementById("buyBanner").style.backgroundImage = 'url(https://cf2.vuze.com/img/plus/201905/def19-big-anim.gif)';
         } else {
-            document.getElementById("buy-butn").href = "https://www.vuze.com/trk/promo.php?id=_house&buy=1&autosubmit=1";
-			document.getElementById("buyBanner").style.backgroundImage = 'url(-static.gif)';
+            document.getElementById("buy-butn").href = "https://www.vuze.com/trk/promo.php?id=1804_house&buy=1&autosubmit=1";
+			document.getElementById("buyBanner").style.backgroundImage = 'url(https://cf2.vuze.com/img/plus/201905/def19-big-static.gif)';
         }
     }
     check();
@@ -306,7 +274,7 @@ Incline Village, NV 89451 <br><br>
     </div>
 
             <div id="copyright_text">
-            © 2018 Azureus Software, Inc. All Rights Reserved.        </div>
+            © 2019 Azureus Software, Inc. All Rights Reserved.        </div>
     </div>
 
 <div class="cookie" id="cookie" style="display: block;">We use cookies to improve your experience. To learn more, click <a href="/corp/cookie.php">here</a>. By continuing to use our site, you accept our use of cookies and revised <a href="/corp/privacy">Privacy Policy</a>. <a href="#" class="cookie_ok" id="cookie_ok">OK</a> </div>
