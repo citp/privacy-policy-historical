@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infotech-enterprises.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826210657id_/http%3A//www.cyient.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infotech-enterprises.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613034513id_/https%3A//www.cyient.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cyient
 
@@ -87,7 +87,7 @@ Rights in relation to automated decision making and profiling.
 
 7.3 Existing data subjects who registered prior to 25 May 2018 - if you have not opted out of receiving communications from us, we will assume legitimate business purpose in sending marketing communication whilst including the option to opt out every time such communications are sent out to you. The product, service or ideals we are marketing to you are the same or similar to those that you originally consented to receive marketing at the time of enrolment, and therefore it is reasonable for you to receive marketing material from us. 
 
-7.4 We will send you promotional marketing information and updates until such time that you inform us that you do not wish to continue to receive them or do not refresh your consent upon our request at the end of 5 years from the date of your consent. You may update your marketing preferences at any time by contacting your business point of contact within Cyient or through the [request for services/contact form](http://go.cyient.com/request-for-services) on our website. 
+7.4 We will send you promotional marketing information and updates until such time that you inform us that you do not wish to continue to receive them or do not refresh your consent upon our request at the end of 5 years from the date of your consent. You may update your marketing preferences at any time by contacting your business point of contact within Cyient or through the [request for services/contact form](https://go.cyient.com/request-for-services) on our website. 
 
 8\. Accessing and Updating your Personal Information 
 
@@ -140,9 +140,10 @@ casework@ico.org.uk
 
 13\. Contact information
 
-Please contact us via the [contact form](http://go.cyient.com/compliance) on our website or in writing at;
+Please contact us via the [contact form](https://go.cyient.com/compliance) on our website or in writing at;
 
 Compliance Manager  
-High Holborn House  
-52-54 High Holborn  
-WC1V 6RL
+The Space Holborn  
+235 High Holborn  
+London, WC1V 7LE  
+UK
