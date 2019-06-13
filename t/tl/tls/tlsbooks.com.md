@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tlsbooks.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209054354id_/http%3A//www.tlsbooks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlsbooks.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613140214id_/http%3A//www.tlsbooks.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for visitors to tlsbooks.com
 
@@ -38,7 +38,7 @@ Tlsbooks may use services provided by twitter.com, pinterest.com, or facebook.co
 
 View [Twitter Privacy Policy](https://twitter.com/en/privacy).
 
-View [Pintrest Privacy Policy](https://web.archive.org/web/20181209054354id_/http%3A//www.tlsbooks.com/%EF%BF%BDhttps://policy.pinterest.com/en/privacy-policy%22).
+View [Pintrest Privacy Policy](https://web.archive.org/web/20190613140214id_/http%3A//www.tlsbooks.com/%EF%BF%BDhttps://policy.pinterest.com/en/privacy-policy%22).
 
 View [Facebook Privacy Policy](https://www.facebook.com/privacy/explanation).  
   
