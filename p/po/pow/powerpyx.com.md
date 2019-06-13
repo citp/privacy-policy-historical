@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerpyx.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109023335id_/http%3A//www.powerpyx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerpyx.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613174045id_/http%3A//www.powerpyx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,7 @@ We may have third-party advertising companies serving ads to you when you visit 
 
 These companies may employ cookies and other identifiers to gather information which measures advertising effectiveness. The information is generally not personally identifiable unless, for example, you provide personally identifiable information to them through an ad or an e-mail message.
 
-For more information on our advertising partner Google AdSense see the [official Google AdSense privacy FAQ](https://www.google.com/policies/technologies/ads/).
+For more information on our advertising partner Google AdSense see the [official Google AdSense privacy FAQ](https://www.google.com/policies/technologies/ads/) & [Advertising Policy](https://policies.google.com/technologies/partner-sites).
 
 Furthermore, we are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
 
