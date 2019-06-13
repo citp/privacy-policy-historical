@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212171349id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613121843id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
 
 # Winster - Games, Friends, Prizes
 
