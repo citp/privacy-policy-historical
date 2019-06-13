@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netline.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213085619id_/http%3A//www.netline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netline.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613145453id_/http%3A//netline.com/privacy.html) for the most accurate reproduction.*
 
 # NetLine Privacy Policy - Successful B2B Marketers Start Here - B2B Content Syndication Lead Generation
 
@@ -46,6 +46,9 @@ NetLine has implemented generally accepted standards of technology security in o
 
 **Choice / Opt-Out**  
 Only users who sign up to receive communications from NetLine will receive email from us. If you no longer wish to receive our newsletter or email alerts, you may opt-out of receiving these communications by clicking on the link within the email you receive or by replying with unsubscribe in the subject line in the email. If you experience difficulty opting out in either of these ways, email us at [optout_help@netline.com](mailto:optout_help@netline.com). 
+
+**Privacy Shield**  
+Netline is certified to the E.U.-U.S. and Switzerland-U.S. Privacy Shield Frameworks regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom or Switzerland, as applicable, to the United States. To read our Privacy Shield policy, [click here](https://web.archive.org/privacyshield.html). 
 
 **Policy Changes**  
 This policy may be revised over time as new features are added to the website. Please check this site for information about revisions to our privacy policy. If there is a material change to our privacy policy we will post notification on our homepage. If there is a material change to personally identifiable information, we will notify you by e-mail and provide the ability to opt out of these new uses. 
