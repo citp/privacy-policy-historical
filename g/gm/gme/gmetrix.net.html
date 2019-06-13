@@ -1,248 +1,1009 @@
-<!--The following is the downloaded HTML source of the gmetrix.net privacy policy that was archived on 2018-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180602042939id_/http%3A//gmetrix.com/Home/PrivacyPolicyEducation) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gmetrix.net privacy policy that was archived on 2019-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190613194344id_/http%3A//gmetrix.com/Home/PrivacyPolicyEducation) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PrivacyPolicyEducation - Gmetrix</title>
-    <link href="/Content/bootstrap.css" rel="stylesheet">
-<link href="/Content/site.css" rel="stylesheet">
+    <title>GMetrix</title>
 
-    <script src="/Scripts/jquery-3.1.0.js"></script>
-<script src="/Scripts/jquery.unobtrusive-ajax.js"></script>
-<script src="/Scripts/jquery.colorbox.js"></script>
+    <link href="/Content/Styles.css?v=K5DZlQ-wORAw1lmeO_-vz1B8pi3nwPB1iWYa6jbunOg1" rel="stylesheet">
 
-    <script src="/Scripts/bootstrap.js"></script>
-<script src="/Scripts/respond.js"></script>
+    <link href="/Custom/Custom.css?v=IPWNs-FMcH9-v54kMlFxjapInNc3sX4QJ0NZK6P9dt01" rel="stylesheet">
 
-    <script src="/Scripts/modernizr-2.8.3.js"></script>
+    <script src="/bundles/modernizr.js?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
 
-    <link href="/Style/style.css" rel="stylesheet">
-<link href="/Style/colorbox.css" rel="stylesheet">
-<link href="/Style/LoginStyles.css" rel="stylesheet">
-<link href="/Style/CheckoutStyle.css" rel="stylesheet">
-<link href="/Style/ProductStyle.css" rel="stylesheet">
-<link href="/Style/HomeStyle.css" rel="stylesheet">
+    <script src="/bundles/jquery?v=2u0aRenDpYxArEyILB59ETSCA2cfQkSMlxb6jbMBqf81"></script>
 
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-</head>
+
+    <link rel="icon" href="//www.gmetrix.com/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="//www.gmetrix.com/favicon.ico" type="image/x-icon">
+
+
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
+<script type="text/javascript">
+
+    function search() {
+
+        var Input = $("#searchInput").val();
+
+        var Regex = /[&*:*\.*]*/gi;
+
+        Input = Input.replace(Regex, '');
+
+        if (Input == "") {
+            console.log("Type something first.")
+        } else {
+            window.location.href = "/Products/Search/" + Input;
+        }
+    }
+
+    $(document).ready(function () {
+
+        $("#mobileDDLButton").click(function () {
+
+            $("#mobileDDL").toggle();
+
+        });
+
+        $(".Category" + 1).css("display", "inline-block");
+        $(".Certification" + 1).addClass("masterDDLinkActive");
+
+        $(".masterDDLinksOne").click(function (e) {
+            console.log(e.target.id);
+
+            $(".masterDDLinksOne").removeClass("masterDDLinkActive");
+            $(".Certification" + (e.target.id)).addClass("masterDDLinkActive");
+
+            $(".Category").css("display", "none");
+            $(".Category" + (e.target.id)).css("display", "inline-block");       
+
+        });
+
+        $(document).mouseup(function (e) {
+
+            var masterDDL = $("#masterDDL");
+
+            if (!masterDDL.is(e.target) && masterDDL.has(e.target).length === 0) {
+                masterDDL.hide();
+            }
+        });
+
+        $("#productsTab, #masterDDLExit").click(function () {
+
+            $("#masterDDL").toggle();
+
+        });
+
+        $("#searchToggle").click(function () {
+            $("#searchContainer").css("display", "block");
+        });
+
+        $('#searchInput').keypress(function (e) {
+            var key = e.which;
+            if (key == 13) {
+                search();
+                return false;
+            }
+        });
+
+        $("#searchButton").click(function () {
+            search()
+        });
+    });
+
+    $(document).mouseup(function (e) {
+        var container = $("#searchContainer");
+
+        if (!container.is(e.target) && container.has(e.target).length === 0) {
+            container.hide();
+        }
+    });
+
+    function version(key, cert, value) {
+
+        const queryString = "Certification" + "=" + cert + "&" + key + "=" + value;
+        //const usp = new URLSearchParams(queryString);
+
+        var type = "Type=Tests";
+
+        if (cert == "Unity") {
+            type = "Type=Courses";
+        }
+        if (cert == "CompTIA") {
+            type = "Type=Courses";
+        }
+        if (cert == "Adobe+Certified+Associate+(ACA)") {
+            type = "Type=Courses";
+        }
+
+        window.location.href = "/Products/Filter" + "?" + "Certification" + "=" + cert + "&" + key + "=" + value + "&" + type;
+    };
+
+    function product(key, cert, cat, value) {
+
+        const queryString = "Certification" + "=" + cert + "&" + "Version" + "=" + cat + "&" + key + "=" + value;
+        //const usp = new URLSearchParams(queryString);
+
+        var type = "Type=Tests";
+
+        if (cert == "Unity") {
+            type = "Type=Courses";
+        }
+        if (cert == "CompTIA") {
+            type = "Type=Courses";
+        }
+        if (cert == "Adobe+Certified+Associate+(ACA)") {
+            type = "Type=Courses";
+        }
+
+        window.location.href = "/Products/Filter" + "?" + "Certification" + "=" + cert + "&" + "Version" + "=" + cat + "&" + key + "=" + value + "&" + type;
+    };
+
+</script></head>
+
+
 
 <body>
-<div class="topBlueStrip"></div>
-<div class="mainBanner navbar navbar-inverse navbar-fixed-top topBanner">
-    <div style="max-width: 1000px; height: 100px; margin: auto;">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            
-            <a href="/?Length=4">
-                <img src="../../Images/GmetrixLogo.jpg" class="logoImage">
-            </a>
-        </div>
-        <div class="navbar-collapse collapse menuStrip ">
-            <ul class="nav navbar-nav menuStripText">
-                <li><a href="/">Home</a></li>
-                <li class="Productsddown dropdown">
-                    <button class="dropbtn" style="cursor: default;">Products</button>
-                    <div class="dropdown-content">
-                        <a href="/Products/RedirectToProductCategory?categoryName=MOS">Microsoft Office Specialist (MOS)</a>
-                        <a href="/Products/RedirectToProductCategory?categoryName=LearnKey">LearnKey Courses</a>
-                        <a href="/Products/RedirectToProductCategory?categoryName=Adobe">Adobe Certified Associate</a>
-                        <a href="/Products/RedirectToProductCategory?categoryName=AutoDesk">AutoDesk Certified User</a>
-                        <a href="/Products/RedirectToProductCategory?categoryName=ESB">Entrepreneurship and Small Business</a>
-                        <a href="/Products/RedirectToProductCategory?categoryName=IC3">IC3</a>
-                        <a href="/Products/RedirectToProductCategory?categoryName=MTA">Microsoft Technology Associate (MTA)</a>
-                        <a href="/Products/RedirectToProductCategory?categoryName=QuickBooks">QuickBooks Certified User</a>
-                        <a href="/Products/RedirectToProductCategory?categoryName=CompTIA">CompTIA</a>
-                    </div>
-                </li>
-                <li class="ProductsBtn"><a href="/Products/Products">Products</a></li>
-                <li><a href="/Partners/Partners">Partners</a></li>
-                <li><a href="/Home/Support" target="_blank">Support</a></li>
-                <li><a href="/Home/News" target="_blank">News</a></li>
-                <li><a href="/About/About">About</a></li>
-
-            </ul>
-            
-<script>
-    $(document).on('keypress', '#txtBoxKeyword', function (e) {
-        if (e.keyCode == 13) {
-            $('#SearchBtn').click();
-        }
-    });
-
-    $(document).on('click', '#SearchBtn', function () {
-        $(this).blur();
-        var searchTerm = $('#txtBoxKeyword').val();
-        if (searchTerm == null || searchTerm == "") {
-            //do nothing
-        } else {
-            var actionUrl = '/Products/SearchProducts?keyword=PLACEHOLDER';
-            actionUrl = actionUrl.replace('PLACEHOLDER', searchTerm);
-            var url = window.location.origin + actionUrl;
-            window.location = actionUrl;
-            //$.ajax({
-            //    url: '/Products/SearchProducts/',
-            //    data: { keyword: searchTerm },
-            //    cache: false,
-            //    type: 'POST',
-            //    dataType: "json"
-            //});
-        }
-    });
-
-</script>
 
 
-<div class="SearchContainer">
-        <input class="SearchBoxLayout form-control" id="txtBoxKeyword" name="txtBoxKeyword" placeholder="Search" type="text" value="">
-        <img class="searchBtn" src="/Images/Search-button.png" id="SearchBtn">
-</div>
-
-
-            
-
-<div class="ShoppingCartLargeScreens shoppingCartContainer">
-    <a href="/Cart/RedirectToCart">
-        <div>
-            <div id="shoppingCartContainer" class="shoppingbasket">
-                <img width="30" height="30" src="/Images/shoppingCart.png">
-                <div id="basketCountText" class="basketItems">
-                    <div id="cartNumberText" class="cartNumber">
-                        0
-                    </div>
-                </div>
-            </div>
-        </div>
-    </a>
-</div>
-            <style>
-    .loginPartialSpacing {
-        margin-right: -17px;
-    }
-    span.iconUser > img {
-        height: 32px;
-    }
-    @media(min-width: 1001px) {
-        span.userIcon{display: none;}
-        span.userText{display: inline-block;}
-    }
-    @media (max-width: 1000px) {
-        span.userIcon{display: inline-block;}
-        span.userText{display: none;}
-    }
-      @media(min-width: 1001px) {
-        span.registerIcon{display: none;}
-        span.registerTextPurchHis{display: inline-block;}
-    }
-    @media (max-width: 1000px) {
-        span.registerIcon{display: inline-block;}
-        span.registerTextPurchHis{display: none;}
-    }
-        @media(min-width: 1001px) {
-       li.userIcon{display: none;}
-       li.userText{display: inline-block;}
-    }
-    @media (max-width: 1000px) {
-        li.userIcon{display: inline-block;}
-        li.userText{display: none;}
-    }
-      @media(min-width: 1001px) {
-       li.registerIcon{display: none;}
-       li.registerTextPurchHis{display: inline-block;}
-    }
-    @media (max-width: 1000px) {
-       li.registerIcon{display: inline-block;}
-       li.registerTextPurchHis{display: none;}
-    }
-    @media (max-width: 872px) {
-        li.registerIcon {
-            margin: auto;
-            margin-top: -98px;
-            position: absolute;
-            margin-left: -178px;   
-        }
-        li.userIcon {
-            margin: auto;
-            margin-top: -98px;
-            position: absolute;
-            margin-left: -209px;
-        }
-    }
-    @media (max-width:872px) {
-        span.userIcon {
-            margin: auto;
-            margin-top: -98px;
-            position: absolute;
-            margin-left: -209px;   
-        }
-        span.registerIcon {
-            margin: auto;
-            margin-top: -98px;
-            position: absolute;
-            margin-left: -178px;
-        }
-        .Loginseparator {
-            display: none;
-        }
-    }
-    @media (max-width: 767px) {
-           li.registerIcon{margin: -37px auto auto 75px;}
-           span.registerIcon{margin: -37px auto auto 75px;}
-           li.userIcon{margin: -37px auto auto 40px;}
-           span.userIcon{margin: -37px auto auto 40px;} 
-    }
-        @media (max-width:766px) {
-        li.registerIcon{margin: auto; position: static;}
-        span.registerIcon{margin: auto;position: static;}
-        li.userIcon{margin: auto;position: static;}
-        span.userIcon{margin: auto;position: static;}
-    }
-    .userImg {
-        max-height: 23px;
-        margin-top: -8px;
-    }
-    .registerImg {
-        max-height: 23px;
-        margin-top: -8px;
-    }
-    .Loginseparator {
-        margin-left: 10px;
-        margin-right: 10px;
-    }
-</style>
-        <div class="navbar-right">
-            <ul class="nav navbar-nav menuStripText">
-                
-                <li class="registerTextPurchHis loginPartialSpacing"><a href="/Account/Register" id="registerLink">Register</a></li>
-                <li class="userText loginPartialSpacing"><a href="/Account/Login" id="loginLink">Log in</a></li>
-
-                
-                <li class="userIcon loginPartialSpacing"><a href="/Account/Login"> <img class="userImg" src="/Images/user.png"></a> </li>
-                <li class="registerIcon loginPartialSpacing"><a href="/Account/Register"> <img class="registerImg" src="/Images/signOut.png"></a></li>
-            </ul>
-        </div>
-<script>
-
-</script>
-
-        </div>
-    </div>
-</div>
-
-<main class="content-wrapper" role="main">
 
     
 
 
 
+    <div class="mainHeader navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+
+            <div class="searchToggle" id="searchToggle"><i class="fas fa-search"></i></div>
+
+            <div class="searchContainer" id="searchContainer">
+                <div class="searchCenter">
+                    <input class="searchBox" id="searchInput" placeholder="Search Products">
+                    <a class="textSearch" id="searchButton">Search</a>
+                </div>
+            </div>
+
+            <div class="masterDDL" id="masterDDL">
+
+                <div class="masterDDLOne">
+
+<ul>
+                            <li class="masterDDListOne">
+                                <div class="masterDDLinksOne Certification1" id="1">Microsoft Office Specialist (MOS)</div>
+                            </li>
+                        </ul>
+                        <div class="masterDDLTwo">
+<ul class="Category Category1" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="40" onclick="version('Version', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+365%2f2019')">Microsoft Office 365/2019</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="178" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+365%2f2019', 'MO-100%3a+Word+Associate+365%2f2019')">MO-100: Word Associate 365/2019</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="179" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+365%2f2019', 'MO-200%3a+Excel+Associate+365%2f2019')">MO-200: Excel Associate 365/2019</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+<ul class="Category Category1" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="21" onclick="version('Version', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2016')">Microsoft Office 2016</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="100" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2016', '77-725%3a+Word+2016')">77-725: Word 2016</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="105" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2016', '77-726%3a+Word+Expert+2016')">77-726: Word Expert 2016</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="101" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2016', '77-727%3a+Excel+2016')">77-727: Excel 2016</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="106" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2016', '77-728%3a+Excel+Expert+2016')">77-728: Excel Expert 2016</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="102" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2016', '77-729%3a+PowerPoint+2016')">77-729: PowerPoint 2016</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="104" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2016', '77-730%3a+Access+2016')">77-730: Access 2016</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="103" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2016', '77-731%3a+Outlook+2016')">77-731: Outlook 2016</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+<ul class="Category Category1" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="10" onclick="version('Version', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2013')">Microsoft Office 2013</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="42" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2013', '77-418%3a+Word+2013')">77-418: Word 2013</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="49" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2013', '77-419%3a+SharePoint+2013')">77-419: SharePoint 2013</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="43" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2013', '77-420%3a+Excel+2013')">77-420: Excel 2013</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="50" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2013', '77-421%3a+OneNote+2013')">77-421: OneNote 2013</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="44" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2013', '77-422%3a+PowerPoint+2013')">77-422: PowerPoint 2013</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="45" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2013', '77-423%3a+Outlook+2013')">77-423: Outlook 2013</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="46" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2013', '77-424%3a+Access+2013')">77-424: Access 2013</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="47" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2013', '77-425%2f6%3a+Word+Expert+2013')">77-425/6: Word Expert 2013</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="48" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2013', '77-427%2f8%3a+Excel+Expert+2013')">77-427/8: Excel Expert 2013</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+<ul class="Category Category1" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="5" onclick="version('Version', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2010')">Microsoft Office 2010</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="36" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2010', '77-853%3a+OneNote+2010')">77-853: OneNote 2010</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="10" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2010', '77-881%3a+Word+2010')">77-881: Word 2010</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="11" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2010', '77-882%3a+Excel+2010')">77-882: Excel 2010</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="12" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2010', '77-883%3a+PowerPoint+2010')">77-883: PowerPoint 2010</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="20" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2010', '77-884%3a+Outlook+2010')">77-884: Outlook 2010</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="21" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2010', '77-885%3a+Access+2010')">77-885: Access 2010</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="31" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2010', '77-886%3a+SharePoint+2010')">77-886: SharePoint 2010</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="24" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2010', '77-887%3a+Word+Expert+2010')">77-887: Word Expert 2010</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="25" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2010', '77-888%3a+Excel+Expert+2010')">77-888: Excel Expert 2010</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="37" onclick="product('Product', 'Microsoft+Office+Specialist+(MOS)', 'Microsoft+Office+2010', '77-891%3a+Office+365+2010')">77-891: Office 365 2010</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+                        </div>
+<ul>
+                            <li class="masterDDListOne">
+                                <div class="masterDDLinksOne Certification4" id="4">Adobe Certified Associate (ACA)</div>
+                            </li>
+                        </ul>
+                        <div class="masterDDLTwo">
+<ul class="Category Category4" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="11" onclick="version('Version', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CS6')">Adobe CS6</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="51" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CS6', 'Photoshop+CS6')">Photoshop CS6</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="52" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CS6', 'Flash+CS6')">Flash CS6</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="53" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CS6', 'InDesign+CS6')">InDesign CS6</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="54" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CS6', 'Illustrator+CS6')">Illustrator CS6</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="55" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CS6', 'Dreamweaver+CS6')">Dreamweaver CS6</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="72" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CS6', 'Premiere+CS6')">Premiere CS6</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+<ul class="Category Category4" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="34" onclick="version('Version', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2018')">Adobe CC 2018</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="174" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2018', 'Premiere+Pro+CC+2018')">Premiere Pro CC 2018</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="161" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2018', 'Photoshop+CC+2018')">Photoshop CC 2018</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="172" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2018', 'Illustrator+CC+2018')">Illustrator CC 2018</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="173" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2018', 'InDesign+CC+2018')">InDesign CC 2018</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="175" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2018', 'After+Effects+CC+2018')">After Effects CC 2018</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+<ul class="Category Category4" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="14" onclick="version('Version', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2015')">Adobe CC 2015</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="139" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2015', 'Animate+CC+2015')">Animate CC 2015</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="73" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2015', 'Dreamweaver+CC+2015')">Dreamweaver CC 2015</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="71" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2015', 'Illustrator+CC+2015')">Illustrator CC 2015</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="70" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2015', 'InDesign+CC+2015')">InDesign CC 2015</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="60" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2015', 'Photoshop+CC+2015')">Photoshop CC 2015</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="61" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2015', 'Premiere+CC+2015')">Premiere CC 2015</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="74" onclick="product('Product', 'Adobe+Certified+Associate+(ACA)', 'Adobe+CC+2015', 'Flash+CC+2015')">Flash CC 2015</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+                        </div>
+<ul>
+                            <li class="masterDDListOne">
+                                <div class="masterDDLinksOne Certification3" id="3">Internet and Computing Core Certification (IC3)</div>
+                            </li>
+                        </ul>
+                        <div class="masterDDLTwo">
+<ul class="Category Category3" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="20" onclick="version('Version', 'Internet+and+Computing+Core+Certification+(IC3)', 'IC3+GS5')">IC3 GS5</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="97" onclick="product('Product', 'Internet+and+Computing+Core+Certification+(IC3)', 'IC3+GS5', 'Computing+Fundamentals+(GS5)')">Computing Fundamentals (GS5)</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="98" onclick="product('Product', 'Internet+and+Computing+Core+Certification+(IC3)', 'IC3+GS5', 'Key+Applications+(GS5)')">Key Applications (GS5)</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="99" onclick="product('Product', 'Internet+and+Computing+Core+Certification+(IC3)', 'IC3+GS5', 'Living+Online+(GS5)')">Living Online (GS5)</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="133" onclick="product('Product', 'Internet+and+Computing+Core+Certification+(IC3)', 'IC3+GS5', 'IC3+GS5+Spark')">IC3 GS5 Spark</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+<ul class="Category Category3" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="18" onclick="version('Version', 'Internet+and+Computing+Core+Certification+(IC3)', 'IC3+GS4')">IC3 GS4</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="84" onclick="product('Product', 'Internet+and+Computing+Core+Certification+(IC3)', 'IC3+GS4', 'Computing+Fundamentals+(GS4)')">Computing Fundamentals (GS4)</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="85" onclick="product('Product', 'Internet+and+Computing+Core+Certification+(IC3)', 'IC3+GS4', 'Key+Applications+(GS4)')">Key Applications (GS4)</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="86" onclick="product('Product', 'Internet+and+Computing+Core+Certification+(IC3)', 'IC3+GS4', 'Living+Online+(GS4)')">Living Online (GS4)</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="96" onclick="product('Product', 'Internet+and+Computing+Core+Certification+(IC3)', 'IC3+GS4', 'IC3+GS4+Spark')">IC3 GS4 Spark</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+                        </div>
+<ul>
+                            <li class="masterDDListOne">
+                                <div class="masterDDLinksOne Certification2" id="2">Microsft Technology Associate (MTA)</div>
+                            </li>
+                        </ul>
+                        <div class="masterDDLTwo">
+<ul class="Category Category2" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="6" onclick="version('Version', 'Microsft+Technology+Associate+(MTA)', 'MTA')">MTA</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="32" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-349%3a+Windows+Operating+System+Fundamentals')">98-349: Windows Operating System Fundamentals</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="18" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-361%3a+Software+Development+Fundamentals')">98-361: Software Development Fundamentals</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="19" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-364%3a+Database+Administration+Fundamentals')">98-364: Database Administration Fundamentals</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="13" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-365%3a+Windows+Server+Administration+Fundamentals')">98-365: Windows Server Administration Fundamentals</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="15" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-366%3a+Networking+Fundamentals')">98-366: Networking Fundamentals</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="14" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-367%3a+Security+Fundamentals')">98-367: Security Fundamentals</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="88" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-368%3a+Mobility+and+Devices+Fundamentals')">98-368: Mobility and Devices Fundamentals</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="83" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-369%3a+Cloud+Fundamentals')">98-369: Cloud Fundamentals</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="38" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-375%3a+HTML5+Application+Development+Fundamentals')">98-375: HTML5 Application Development Fundamentals</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="150" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-381%3a+Introduction+to+Programming+Using+Python')">98-381: Introduction to Programming Using Python</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="149" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-382%3a+Introduction+to+Programming+Using+JavaScript')">98-382: Introduction to Programming Using JavaScript</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="147" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-383%3a+Introduction+to+Programming+Using+HTML+and+CSS')">98-383: Introduction to Programming Using HTML and CSS</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="151" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-388%3a+Introduction+to+Programming+Using+Java')">98-388: Introduction to Programming Using Java</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="145" onclick="product('Product', 'Microsft+Technology+Associate+(MTA)', 'MTA', '98-380%3a+Introduction+to+Programming+Using+Block-Based+Languages')">98-380: Introduction to Programming Using Block-Based Languages</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+                        </div>
+<ul>
+                            <li class="masterDDListOne">
+                                <div class="masterDDLinksOne Certification12" id="12">Unity</div>
+                            </li>
+                        </ul>
+                        <div class="masterDDLTwo">
+<ul class="Category Category12" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="33" onclick="version('Version', 'Unity', 'Unity')">Unity</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="159" onclick="product('Product', 'Unity', 'Unity', 'Unity+Certified+Associate')">Unity Certified Associate</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+                        </div>
+<ul>
+                            <li class="masterDDListOne">
+                                <div class="masterDDLinksOne Certification8" id="8">Autodesk Certified Professional (ACP)</div>
+                            </li>
+                        </ul>
+                        <div class="masterDDLTwo">
+<ul class="Category Category8" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="24" onclick="version('Version', 'Autodesk+Certified+Professional+(ACP)', 'Autodesk+Certified+Professional')">Autodesk Certified Professional</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="117" onclick="product('Product', 'Autodesk+Certified+Professional+(ACP)', 'Autodesk+Certified+Professional', 'AutoCAD')">AutoCAD</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="122" onclick="product('Product', 'Autodesk+Certified+Professional+(ACP)', 'Autodesk+Certified+Professional', 'Inventor')">Inventor</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="123" onclick="product('Product', 'Autodesk+Certified+Professional+(ACP)', 'Autodesk+Certified+Professional', 'Revit+Architecture')">Revit Architecture</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="126" onclick="product('Product', 'Autodesk+Certified+Professional+(ACP)', 'Autodesk+Certified+Professional', 'Maya')">Maya</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="127" onclick="product('Product', 'Autodesk+Certified+Professional+(ACP)', 'Autodesk+Certified+Professional', '3DS+Max')">3DS Max</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+                        </div>
+<ul>
+                            <li class="masterDDListOne">
+                                <div class="masterDDLinksOne Certification7" id="7">Quickbooks Certified User (QBCU)</div>
+                            </li>
+                        </ul>
+                        <div class="masterDDLTwo">
+<ul class="Category Category7" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="23" onclick="version('Version', 'Quickbooks+Certified+User+(QBCU)', 'Quickbooks+Certified+User')">Quickbooks Certified User</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="113" onclick="product('Product', 'Quickbooks+Certified+User+(QBCU)', 'Quickbooks+Certified+User', 'QuickBooks+Online')">QuickBooks Online</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="119" onclick="product('Product', 'Quickbooks+Certified+User+(QBCU)', 'Quickbooks+Certified+User', 'QuickBooks+Desktop')">QuickBooks Desktop</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="114" onclick="product('Product', 'Quickbooks+Certified+User+(QBCU)', 'Quickbooks+Certified+User', 'QuickBooks+Online+Global')">QuickBooks Online Global</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+                        </div>
+<ul>
+                            <li class="masterDDListOne">
+                                <div class="masterDDLinksOne Certification9" id="9">Microsoft Certified Educator (MCE)</div>
+                            </li>
+                        </ul>
+                        <div class="masterDDLTwo">
+<ul class="Category Category9" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="25" onclick="version('Version', 'Microsoft+Certified+Educator+(MCE)', 'Microsoft+Certified+Educator')">Microsoft Certified Educator</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="156" onclick="product('Product', 'Microsoft+Certified+Educator+(MCE)', 'Microsoft+Certified+Educator', 'Microsoft+Certified+Educator')">Microsoft Certified Educator</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+                        </div>
+<ul>
+                            <li class="masterDDListOne">
+                                <div class="masterDDLinksOne Certification10" id="10">Entrepreneurship &amp; Small Business (ESB)</div>
+                            </li>
+                        </ul>
+                        <div class="masterDDLTwo">
+<ul class="Category Category10" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="27" onclick="version('Version', 'Entrepreneurship+%26+Small+Business+(ESB)', 'Entrepreneurship+%26+Small+Business')">Entrepreneurship &amp; Small Business</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="138" onclick="product('Product', 'Entrepreneurship+%26+Small+Business+(ESB)', 'Entrepreneurship+%26+Small+Business', 'ESB')">ESB</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+                        </div>
+<ul>
+                            <li class="masterDDListOne">
+                                <div class="masterDDLinksOne Certification13" id="13">EC-Council Associate</div>
+                            </li>
+                        </ul>
+                        <div class="masterDDLTwo">
+<ul class="Category Category13" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="37" onclick="version('Version', 'EC-Council+Associate', 'EC-Council+Associate')">EC-Council Associate</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="170" onclick="product('Product', 'EC-Council+Associate', 'EC-Council+Associate', 'Cyber+Forensics+Associate')">Cyber Forensics Associate</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="169" onclick="product('Product', 'EC-Council+Associate', 'EC-Council+Associate', 'Ethical+Hacking+Associate')">Ethical Hacking Associate</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+                        </div>
+<ul>
+                            <li class="masterDDListOne">
+                                <div class="masterDDLinksOne Certification6" id="6">CompTIA</div>
+                            </li>
+                        </ul>
+                        <div class="masterDDLTwo">
+<ul class="Category Category6" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="22" onclick="version('Version', 'CompTIA', 'CompTIA')">CompTIA</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="109" onclick="product('Product', 'CompTIA', 'CompTIA', 'A%2b+901')">A+ 901</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="110" onclick="product('Product', 'CompTIA', 'CompTIA', 'A%2b+902')">A+ 902</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="120" onclick="product('Product', 'CompTIA', 'CompTIA', 'CAS-002%3a+Advanced+Security+Practitioner')">CAS-002: Advanced Security Practitioner</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="111" onclick="product('Product', 'CompTIA', 'CompTIA', 'N10-006%3a+CompTIA+Network%2b')">N10-006: CompTIA Network+</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="112" onclick="product('Product', 'CompTIA', 'CompTIA', 'SY0-401%3a+CompTIA+Security%2b')">SY0-401: CompTIA Security+</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="115" onclick="product('Product', 'CompTIA', 'CompTIA', 'Linux%2b+LX0-103')">Linux+ LX0-103</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="116" onclick="product('Product', 'CompTIA', 'CompTIA', 'Linux%2b+LX0-104')">Linux+ LX0-104</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="155" onclick="product('Product', 'CompTIA', 'CompTIA', 'Security%2b+SY0-501')">Security+ SY0-501</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+                        </div>
+<ul>
+                            <li class="masterDDListOne">
+                                <div class="masterDDLinksOne Certification5" id="5">Autodesk Certified User (ACU)</div>
+                            </li>
+                        </ul>
+                        <div class="masterDDLTwo">
+<ul class="Category Category5" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="8" onclick="version('Version', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User+2014')">Autodesk Certified User 2014</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="29" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User+2014', 'AutoCAD')">AutoCAD</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="30" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User+2014', 'Inventor')">Inventor</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="41" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User+2014', 'Revit')">Revit</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="68" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User+2014', '3ds+Max')">3ds Max</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="69" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User+2014', 'Maya')">Maya</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="132" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User+2014', 'Revit+Architecture')">Revit Architecture</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="134" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User+2014', 'Fusion+360')">Fusion 360</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+<ul class="Category Category5" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="26" onclick="version('Version', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User')">Autodesk Certified User</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="128" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User', '3DS+Max')">3DS Max</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="129" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User', 'AutoCAD')">AutoCAD</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="29" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User', 'AutoCAD')">AutoCAD</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="30" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User', 'Inventor')">Inventor</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="41" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User', 'Revit')">Revit</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="68" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User', '3ds+Max')">3ds Max</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="69" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User', 'Maya')">Maya</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="132" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User', 'Revit+Architecture')">Revit Architecture</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="134" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User', 'Fusion+360')">Fusion 360</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="130" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User', 'Inventor')">Inventor</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="131" onclick="product('Product', 'Autodesk+Certified+User+(ACU)', 'Autodesk+Certified+User', 'Maya')">Maya</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+                        </div>
+<ul>
+                            <li class="masterDDListOne">
+                                <div class="masterDDLinksOne Certification11" id="11">Toon Boom Certified Associate (TCA)</div>
+                            </li>
+                        </ul>
+                        <div class="masterDDLTwo">
+<ul class="Category Category11" style="display: none;">
+                                    <li class="masterDDListTwo">
+                                        <div class="masterDDLinksTwo" id="28" onclick="version('Version', 'Toon+Boom+Certified+Associate+(TCA)', 'Toon+Boom+Certified+Associate')">Toon Boom Certified Associate</div>
+
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="140" onclick="product('Product', 'Toon+Boom+Certified+Associate+(TCA)', 'Toon+Boom+Certified+Associate', 'Storyboard+Pro')">Storyboard Pro</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="141" onclick="product('Product', 'Toon+Boom+Certified+Associate+(TCA)', 'Toon+Boom+Certified+Associate', 'Harmony+Essentials')">Harmony Essentials</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="142" onclick="product('Product', 'Toon+Boom+Certified+Associate+(TCA)', 'Toon+Boom+Certified+Associate', 'Harmony+Advanced')">Harmony Advanced</a>
+                                                </li>
+                                            </ul>
+<ul class="responsiveDDLProducts" style="padding-left: 5px;">
+                                                <li class="masterDDListThree">
+                                                    <a class="masterDDLinksThree" id="143" onclick="product('Product', 'Toon+Boom+Certified+Associate+(TCA)', 'Toon+Boom+Certified+Associate', 'Harmony+Premium')">Harmony Premium</a>
+                                                </li>
+                                            </ul>
+                                    </li>
+                                </ul>
+                        </div>
+                </div>
+                <div class="exitBar">
+                    <div class="masterDDLExit" id="masterDDLExit"><i class="far fa-times-circle"></i></div>
+                </div>
+            </div>
+
+            <div class="navbar-header iconHiddenMenu">
+                <button id="mobileDDLButton" type="button" class="navbar-toggle">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <div class="iconHiddenBox navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <div class="iconFloaterMini">
+                            <a class="orangeText iconLogin" href="/Home/Login">Login</a>
+                        <a class="cartContent" href="/Cart">
+                            <div class="iconCart"><i class="fas fa-shopping-cart"></i></div>
+                            <div id="basketCountText" class="cartCount">
+                                <div id="cartNumberTextMobile" class="cartDigit">
+                                    0
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <a href="/?Length=4"><img src="../../Images/Logos/GMX Logo - White.svg" class="gmxHomeLogo"></a>
+
+            </div>
+
+            <div id="mobileDDL" class="navbar-collapse collapse">
+
+                <ul class="nav navbar-nav menuStripLinks dropdown-home">
+
+                    <li><a class="headerTab" id="productsTab">Products</a></li>
+
+                    <li><a class="headerTab" href="http://support.gmetrix.net/download" target="_blank">Download</a></li>
+
+                    <li class="studPort"><a class="headerTab" href="https://www.gmetrix.net/" target="_blank">Student Portal</a></li>
+
+                    <li class="displayCheck"><a class="headerTab" href="/?Length=4">Home</a></li>
+
+                </ul>
+
+                <div class="iconHeaderBox nowYouSeeMe">
+
+                        <a class="orangeText iconLogin" href="/Home/Login">Login</a>
+                    <a class="cartContent" href="/Cart">
+                        <div class="iconCart"><i class="fas fa-shopping-cart"></i></div>
+                        <div id="basketCountText" class="cartCount">
+                            <div id="cartNumberText" class="cartDigit">
+                                0
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div>
+
+
 <div class="PageTitlebackground">
     <div class="container PageTitleInner">
-        <h1 class="PageTitle">Privacy Policy for Education Users</h1>
+        <h1 class="PageTitle">Privacy Policy</h1>
     </div>
 </div>
 
@@ -914,135 +1675,112 @@
 
 </div>
 
+</div>
 
-</main>
-<div class="bigFooter">
-<div class="container" style="max-width: 1000px;">
 
-    <div class="bigFooterColumn">
-        <ul>
-            <b>
-                <u>
-                    <a href="/Products/RedirectToProductCategory?categoryName=MOS">MOS 2016 Practice Tests:</a>
-                </u>
-            </b>
-            <li><a href="/Products/ProductDescription/77-725-MOS-Word-2016-Practice-Tests">77-725 Word 2016</a></li>
-            <li><a href="/Products/ProductDescription/77-726-MOS-Word-Expert-2016-Practice-Tests">77-726 Word 2016 Expert</a></li>
-            <li><a href="/Products/ProductDescription/77-727-MOS-Excel-2016-Practice-Tests">77-727 Excel 2016</a></li>
-            <li><a href="/Products/ProductDescription/77-728-MOS-Excel-Expert-2016-Practice-Tests">77-728 Excel 2016 Expert</a></li>
-            <li><a href="/Products/ProductDescription/77-729-MOS-PowerPoint-2016-Tests">77-729 PowerPoint 2016</a></li>
-            <li><a href="/Products/ProductDescription/77-730-MOS-Access-2016-Practice-Test">77-730 Access 2016</a></li>
-            <li><a href="/Products/ProductDescription/77-731-MOS-Outlook-2016-Practice-Test">77-731 Outlook 2016</a></li>
-            
-        </ul>
-    </div>
 
     
-    <div class="bigFooterColumn">
 
-    <ul>
-            <b>
-                <u>
-                    <a href="/Products/RedirectToProductCategory?categoryName=2013MOS">MOS 2013 Practice Tests:</a>
-                </u>
-            </b>
-            <li><a href="/Products/ProductDescription/77-418-MOS-Word-2013-Tests">77-418 Word 2013</a></li>
-            <li><a href="/Products/ProductDescription/77-425-MOS-Word-Expert-2013-Tests">77-425 Word 2013 Expert</a></li>
-            <li><a href="/Products/ProductDescription/77-420-MOS-Excel-2013-Tests">77-420 Excel 2013</a></li>
-            <li><a href="/Products/ProductDescription/77-427-MOS-Excel-Expert-2013-Tests">77-427 Excel 2013 Expert</a></li>
-            <li><a href="/Products/ProductDescription/77-422-MOS-PowerPoint-2013-Tests">77-422 PowerPoint 2013</a></li>
-            <li><a href="/Products/ProductDescription/77-424-MOS-Access-2013-Tests">77-424 Access 2013</a></li>
-            <li><a href="/Products/ProductDescription/77-423-MOS-Outlook-2013-Tests">77-423 Outlook 2013</a></li>
-            <li><a href="/Products/ProductDescription/77-421-MOS-OneNote-2013-Tests">77-421 OneNote 2013</a></li>
-            <li><a href="/Products/ProductDescription/77-419-MOS-SharePoint-2013-Tests">77-419 SharePoint 2013</a></li>
-        </ul>
+
+
+    <div class="businessFooter" id="partnerFooter">
+        <div class="whiteCircle"></div>
+        <div class="businessFooterText">
+            <div class="businessFooterContent">
+                <div class="BFTTitle nowYouSeeMe">Your Content Host</div>
+                <div class="BFTTextOne nowYouSeeMe">GMetrix is the ultimate study platform</div>
+                <div class="BFTTextTwo">Are you a company who has made learning material for a certification? Host it here!</div>
+                <div class="BFTTextThree">Email us at info@gmetrix.com.</div>
+                
+            </div>
+        </div>
+        <div class="businessFooterImage"></div>
+    </div>
+
+    <div class="productFooterBanner">
+
+        <a class="outterQuickProd" href="/Products/Filter?Certification=Microsoft+Office+Specialist+%28MOS%29&amp;Type=Tests"><div class="welcomeQuickProducts quickMOS"></div></a>
+        <a class="outterQuickProd" href="/Products/Filter?Certification=Unity&amp;Type=Courses"><div class="welcomeQuickProducts quickUnity"></div></a>
+
+        <a class="outterQuickProd" href="/Products/Filter?Certification=Adobe+Certified+Associate+%28ACA%29&amp;Type=Tests"><div class="welcomeQuickProducts quickAdobe"></div></a>
+        <a class="outterQuickProd" href="/Products/Filter?Certification=Autodesk+Certified+User+%28ACU%29&amp;Type=Tests"><div class="welcomeQuickProducts quickACU"></div></a>
+
+        <a class="outterQuickProd" href="/Products/Filter?Certification=Internet+and+Computing+Core+Certification+%28IC3%29&amp;Type=Tests"><div class="welcomeQuickProducts quickIC3"></div></a>
+        <a class="outterQuickProd" href="/Products/Filter?Certification=EC-Council+Associate&amp;Type=Tests"><div class="welcomeQuickProducts quickEC"></div></a>
+
+        <a class="outterQuickProd" href="/Products/Filter?Certification=Entrepreneurship+%26+Small+Business+%28ESB%29&amp;Type=Tests"><div class="welcomeQuickProducts quickESB"></div></a>
+        <a class="outterQuickProd" href="/Products/Filter?Certification=Quickbooks+Certified+User+%28QBCU%29&amp;Type=Tests"><div class="welcomeQuickProducts quickIntuit"></div></a>
+
+        <a class="outterQuickProd" href="/Products/Filter?Certification=CompTIA&amp;Type=Courses"><div class="welcomeQuickProducts quickComptia"></div></a>
+        <a class="outterQuickProd" href="/Products/Filter?Certification=Microsft+Technology+Associate+%28MTA%29&amp;Type=Tests"><div class="welcomeQuickProducts quickMTA"></div></a>
+
+    </div>
+
+    <div class="wholeFooter">
+
+        <div class="footerCenterContent">
+            <div class="bootFooter">
+
+                <div class="col-md-3 footerTileOutter">
+                    <div class="footerTileInner">
+                        <h2 class="footerTileTitle">GMetrix</h2>
+                        <div class="footerListStyles">
+                            <a href="/Home/Register">Register</a><br>
+                            <a href="http://support.gmetrix.net/download" target="_blank">Download</a><br>
+                            <a href="https://www.gmetrix.net/" target="_blank">Student Portal</a><br>
+                            <a href="https://gmetrix.wordpress.com/" target="_blank">Blog</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 footerTileOutter">
+                    <div class="footerTileInner">
+                        <h2 class="footerTileTitle">Support</h2>
+                        <div class="footerListStyles">
+                            <a href="http://support.gmetrix.net/contact" target="_blank">Contact Us</a><br>
+                            <a href="http://support.gmetrix.net/allArticles" target="_blank">Help</a><br>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 footerTileOutter">
+                    <div class="footerTileInner">
+                        <h2 class="footerTileTitle">About Us</h2>
+                        <div class="footerListStyles">
+                            <a></a><a href="/Home/About">Who Are We?</a><br>
+                            <a></a><a href="/Home/LicenseAgreement">License Agreement</a><br>
+                            <a></a><a href="/Home/PrivacyPolicy">Privacy Policy</a><br>
+                            <a></a><a href="/Home/Partners">Partners</a><br>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 footerTileOutter mobileGMXSMBox">
+                    <div class="footerTileInner">
+                        <a href="/?Length=4"><img src="../../Images/Logos/GMX Logo - White.svg" class="gmxFooterLogo"></a>
+                        <br>
+                        <div class="gmxFooterIcons"><a href="https://www.facebook.com/GMetrix/" target="_blank"><i class="fab fa-facebook"></i></a></div>
+                        <div class="gmxFooterIcons"><a href="https://twitter.com/GMetrixSMS" target="_blank"><i class="fab fa-twitter-square"></i></a></div>
+                        <div class="gmxFooterIcons"><a href="https://www.instagram.com/gmetrixsms/" target="_blank"><i class="fab fa-instagram"></i></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="copyrightBar">© Copyright 2019, GMetrix LLC &nbsp; <a href="/Home/PrivacyPolicy">Privacy Policy</a> &nbsp;/&nbsp; <a href="/Home/ReturnPolicy">Return Policy</a></div>
+
     </div>
 
 
-    <a href="/Products/RedirectToProductCategory?categoryName=AutoDesk" style="text-decoration: none;">
-            </a><div class="bigFooterColumn"><a href="/Products/RedirectToProductCategory?categoryName=AutoDesk" style="text-decoration: none;">
-                </a><ul style=" margin-right: -25px;"><a href="/Products/RedirectToProductCategory?categoryName=AutoDesk" style="text-decoration: none;">
-                    <b>
-                        <u>
-                            </u></b></a><b><u><a href="/Products/RedirectToProductCategory?categoryName=AutoDesk">ACU Practice Tests:</a>
-                        </u>
-                    </b>
-                    <li><a href="/Products/ProductDescription/Inventor-Certified-User-Practice-Tests">AutoCAD </a></li>
-                    <li><a href="/Products/ProductDescription/Inventor-Certified-User-Practice-Tests">Inventor</a></li>
-                    <li><a href="/Products/ProductDescription/Revit-Architecture-Certified-User-Practice-Tests">Revit</a></li>
-                    <li><a href="/Products/ProductDescription/Inventor-Certified-User-Practice-Tests">Maya</a></li>
-                    <li><a href="/Products/ProductDescription/Inventor-Certified-User-Practice-Tests">3dsMax</a></li>
-                    <li><a href="/Products/ProductDescription/Fusion-360-Certified-User-Practice-Tests-2016-17">Fusion 360</a></li>
-                    <br>
-                    <a href="/products/IC3/details.aspx" style="text-decoration: none;">
-                        <b>
-                            <u>
-                                </u></b></a><b><u><a href="/Products/RedirectToProductCategory?categoryName=IC3">IC3 Practice Tests:</a>
-                            </u>
-                        </b>
-                        <li><a href="/Products/RedirectToProductCategory?categoryName=IC3">Computing Fundamentals</a></li>
-                        <li><a href="/Products/RedirectToProductCategory?categoryName=IC3">Key Applications</a></li>
-                        <li><a href="/Products/RedirectToProductCategory?categoryName=IC3">Living Online</a></li>
-                    
-                </ul>
-            </div>
-        
 
-        <a href="/Products/RedirectToProductCategory?categoryName=Adobe" style="text-decoration: none;">
-            </a><div class="bigFooterColumn"><a href="/Products/RedirectToProductCategory?categoryName=Adobe" style="text-decoration: none;">
-                </a><ul><a href="/Products/RedirectToProductCategory?categoryName=Adobe" style="text-decoration: none;">
-                    <b>
-                        <u>
-                            </u></b></a><b><u><a href="/Products/RedirectToProductCategory?categoryName=Adobe">ACA Practice Tests:</a>
-                        </u>
-                    </b>
-                    <li><a href="/Products/ProductDescription/Adobe-Photoshop-CC">Photoshop CC</a></li>
-                    <li><a href="/Products/ProductDescription/Adobe-Illustrator-CC">Illustrator CC</a></li>
-                    <li><a href="/Products/ProductDescription/Adobe-InDesign-CC">InDesign CC</a></li>
-                    <li><a href="/Products/ProductDescription/Adobe-Premiere-CC">Premier Pro CC</a></li>
-                    <li><a href="/Products/ProductDescription/Adobe-Flash-CC">Flash CC</a></li>
-                    <li><a href="/Products/ProductDescription/Adobe-Dreamweaver-CC">Dreamweaver CC</a></li>
-                    <li><a href="/Products/ProductDescription/Adobe-Animate-CC">Animate CC</a></li>
-                </ul>
-            </div>
-        
-        <a href="/Products/RedirectToProductCategory?categoryName=MTA" style="text-decoration: none;">
-            </a><div class="bigFooterColumn"><a href="/Products/RedirectToProductCategory?categoryName=MTA" style="text-decoration: none;">
-                </a><ul><a href="/Products/RedirectToProductCategory?categoryName=MTA" style="text-decoration: none;">
-                    <b>
-                        <u>
-                            </u></b></a><b><u><a href="/Products/RedirectToProductCategory?categoryName=MTA">MTA Practice Tests:</a>
-                        </u>
-                    </b>
-                    <li><a href="/Products/ProductDescription/98-349-Windows-Operating-System-Fundamentals">98-349 Windows Operating System</a></li>
-                    <li><a href="/Products/ProductDescription/98-361-Software-Development-Fundamentals">98-361 Software Development</a></li>
-                    <li><a href="/Products/ProductDescription/98-364-Database-Administration-Fundamentals">98-364 Database Fundamentals</a></li>
-                    <li><a href="/Products/ProductDescription/98-365-Windows-Server-Administration-Fundamentals">98-365 Windows Server Administration</a></li>
-                    <li><a href="/Products/ProductDescription/98-366-Networking-Fundamentals">98-366 Networking</a></li>
-                    <li><a href="/Products/ProductDescription/98-367-Security-Fundamentals">98-367 Security Fundamentals</a></li>
-                    <li><a href="/Products/ProductDescription/98-368-Mobility-and-Devices-Fundamentals">98-368 Mobility &amp; Device</a></li>
-                    <li><a href="/Products/ProductDescription/98-369-Cloud-Fundamentals">98-369 Cloud Fundamentals</a></li>
-                    <li><a href="/Products/ProductDescription/98-375-HTML5-Application-Development-Fundamentals">98-375 HTML5 Application Development</a></li>
-                </ul>
-            </div>
-        
-    </div>
-</div>
-<footer>
+    
 
-    <p class="copyrightText">© Copyright ©2018, GMetrix, LLC <a href="/Home/PrivacyPolicy">PrivacyPolicy</a> / <a href="/Home/ReturnPolicy">ReturnPolicy</a></p>
-</footer>
-<script src="/Scripts/jquery-3.1.0.js"></script>
-<script src="/Scripts/jquery.unobtrusive-ajax.js"></script>
-<script src="/Scripts/jquery.colorbox.js"></script>
 
-<script src="/Scripts/jquery.validate.js"></script>
-<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
 
-<script src="/Scripts/bootstrap.js"></script>
-<script src="/Scripts/respond.js"></script>
+    <script src="/bundles/jquery?v=2u0aRenDpYxArEyILB59ETSCA2cfQkSMlxb6jbMBqf81"></script>
 
-<script src="/Scripts/products.js"></script>
+    <script src="/bundles/bootstrap.js?v=02I37B8URpB7hqkZrxMEO7o6VbDywYH_vuXan7A7mR81"></script>
+
+    
+
 
 
 
