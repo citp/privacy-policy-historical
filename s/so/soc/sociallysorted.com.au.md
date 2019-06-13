@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sociallysorted.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903182954id_/https%3A//sociallysorted.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociallysorted.com.au privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613021153id_/https%3A//sociallysorted.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Socially Sorted
 
