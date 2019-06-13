@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apinchofhealthy.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109210656id_/http%3A//www.apinchofhealthy.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apinchofhealthy.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613054642id_/https%3A//www.apinchofhealthy.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - A Pinch of Healthy
 
-This Privacy Policy governs the manner in which A Pinch of Healthy collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.apinchofhealthy.com](http://www.apinchofhealthy.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by A Pinch of Healthy.
+This Privacy Policy governs the manner in which A Pinch of Healthy collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.apinchofhealthy.com](https://www.apinchofhealthy.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by A Pinch of Healthy.
 
  **Personal identification information**
 
@@ -67,9 +67,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[A Pinch of Healthy](http://www.apinchofhealthy.com/)  
-[http://www.apinchofhealthy.com](http://www.apinchofhealthy.com/)  
+[A Pinch of Healthy](https://www.apinchofhealthy.com/)  
+[https://www.apinchofhealthy.com](https://www.apinchofhealthy.com/)  
 P.O. Box 380011 Birmingham, AL 35238  
 marjorie@apinchofhealthy.com
 
 This document was last updated on July 24, 2014
+
+(Visited 3,701 times, 1 visits today)
