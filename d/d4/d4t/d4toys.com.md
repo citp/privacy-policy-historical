@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the d4toys.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212171436id_/http%3A//www.d4toys.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d4toys.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613162928id_/http%3A//www.d4toys.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # 
 
 ### _Privacy Notice_
 
-D4 Toys Ltd. (SEN-TI-NEL International Co., Ltd. subgroup) values the users of our website. Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the website and the services offered on the website .This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the website you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at [_info@d4toys.com_](mailto:info@d4toys.com). This Privacy Policy applies to all users of this website.
+D4 Toys Ltd. (owned and operated by the same group as Sentinel International Co., Ltd.) values the users of our website. Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the website and the services offered on the website .This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the website you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at [_info@d4toys.com_](mailto:info@d4toys.com). This Privacy Policy applies to all users of this website.
 
 ### _Conditions of Use information_
 
