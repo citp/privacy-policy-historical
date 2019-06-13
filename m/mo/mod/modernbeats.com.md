@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernbeats.com privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706202838id_/https%3A//www.modernbeats.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernbeats.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613142817id_/https%3A//www.modernbeats.com/privacy.php) for the most accurate reproduction.*
 
 # ModernBeats Privacy Policy
 
