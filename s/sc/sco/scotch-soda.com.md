@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotch-soda.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926185201id_/https%3A//www.scotch-soda.com/us/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotch-soda.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613202124id_/https%3A//www.scotch-soda.com/us/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -12,7 +12,7 @@ This statement informs you about the following:
 2\. What data we collect   
 3\. What we need your data for   
 4\. How we may share your data   
-4\. Legal grounds for processing your data   
+5\. Legal grounds for processing your data   
 6\. Your data is safe at Scotch & Soda (online security)   
 7\. We do not keep your personal data longer than necessary   
 8\. Where your data is processed   
@@ -169,7 +169,7 @@ In any other circumstances, we will retain your information for no longer than n
 Your data is processed within the European Union. In addition, we share a database with our Scotch & Soda affiliates in the United States. When personal data is shared with our US affiliates, we make sure that appropriate safeguards are in place to protect your data. More specifically, we will adhere to the standard contractual clauses of the EC or to the EU-US Privacy Shield Frameworks. 
 
 **9\. Cookies and Do Not Track**   
-We use cookies on our Website(s). More information on the use of cookies and options to reject the use of cookies can be found in our [Cookie Statement](http://www.scotch-soda.com/us/en/cookie-policy.html). 
+We use cookies on our Website(s). More information on the use of cookies and options to reject the use of cookies can be found in our [Cookie Statement](https://www.scotch-soda.com/us/en/cookie-policy.html). 
 
 **10\. Online Advertising**  
 Scotch & Soda may participate in interest-based advertising. As described above, we may automatically collect data regarding how you browse websites, use applications and shop in order to enhance your customer experience, improve our customer service, and provide you with communications and promotions from us or others. The objective of interest-based advertising is for Scotch & Soda or its advertising partners to show you ads that are more relevant to your interests. You can limit our and our partners’ ability to collect and use the last-mentioned data. To opt out of receiving interest-based advertising, click on any of the following links:  
