@@ -1,21 +1,25 @@
-> *The following text is extracted and transformed from the dragonmount.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220204559id_/http%3A//www.dragonmount.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonmount.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613114740id_/https%3A//dragonmount.com/privacy) for the most accurate reproduction.*
 
-# `Dragonmount` | Privacy Policy
+# Privacy Policy - Dragonmount.com
 
-**Consumer Data Collected by Dragonmount.com**
+The Dragonmount.com privacy policy describes how we use and store data that we gather from you in order to provide you with products and services. Though the information provided here is accurate as of the date that it is posted, and we do not intend to change the policies described herein, it should not be considered a representation or relied upon in making any decision to use the services or purchase any products, and creates no agreement between Dragonmount.com and its users.  
 
-> **Personally-Identifiable Consumer Data.  
->  **All personally identifiable data provided by individual web surfers will be kept in strict confidence by Dragonmount.com and will be treated with the same level of respect and care that Dragonmount.com treats its other proprietary information and trade secrets. Dragonmount.com will never sell, rent, exchange or barter any personally identifiable information to or with any third party for pecuniary gain or marketing purposes. Dragonmount.com may, from time to time, provide such information to certain third-party administrative vendors for efficiency purposes in providing administrative services such as billing, delivery and pay-outs. Any third-party vendor so used, will be required to enter into a confidentiality and non-disclosure agreement with Dragonmount.com upon terms and conditions consistent with the policies set forth herein. 
-> 
-> **Security Precautions  
->  **Dragonmount.com makes every effort to maintain the security of its network and the data we collect. Any data that is stored on Dragonmount.com’s server is treated as proprietary and confidential and is not available to the public. Dragonmount.com has a strict internal security policy with respect to the confidentiality of customer and other data, limiting access only to those employees who have a need to know such information for the purpose of effectively delivering Dragonmount.com products and services. 
-> 
-> **Access to Data  
->  **Dragonmount.com allows web surfers who have voluntarily provided personally-identifiable data, access to their data to ensure that it is correct and to make any changes. 
-> 
-> **Contacting Us  
->  **For more information or if you have questions or concerns regarding Dragonmount.com’s Privacy Statement, please send an e-mail to [ privacy@dragonmount.com](mailto:privacy@dragonmount.com) or you can send correspondence to the following address: 
->
->> > Dragonmount.com  
->  2766 Melendy Dr #1  
->  San Carlos, CA 94070 
+Your privacy is critically important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested. 
+
+This notice applies to all information collected or submitted on the Dragonmount.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: Name Address Email address Phone number Credit/Debit Card Information 
+
+Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers. 
+
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. Credit card numbers are not stored in our servers in any capacity. We parter with 3rd party vendors to validate and authorize credit card transactions. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. You can register with our website if you would like to receive our services as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+
+This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+
+You can access all your personally identifiable information that we collect online and maintain by emailing our staff. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+
+In order to better prevent spam, and to help ensure only authentic users register for our services, we have implemented the IPS Spam Defense Service. The email address and IP address of each registering member is passed to the service to determine the likelihood a registering account is a spam source. Data from accounts determined not to be spammers are permanently deleted within 48 hours. Data from accounts determined to be spammers may be stored indefinitely to create a block list. 
+
+Should you have other questions or concerns about these privacy policies, please send us an email at [webmaster@dragonmount.com](mailto:webmaster@dragonmount.com). All policies of Dragonmount.com and Argonaut Media are governed under the laws of the United States of America and the laws of the sate of California. 
