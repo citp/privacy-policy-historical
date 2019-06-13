@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shallownation.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122064633id_/http%3A//www.shallownation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shallownation.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613150606id_/http%3A//www.shallownation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shallow Nation
 
