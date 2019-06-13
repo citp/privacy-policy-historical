@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classcentral.com privacy policy that was archived on 2018-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180805163544id_/https%3A//www.class-central.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classcentral.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613100936id_/https%3A//www.classcentral.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Class Central
 
@@ -6,17 +6,17 @@ Last updated: May 22, 2018
 
 Effective date: May 22, 2018
 
-Class Central, Inc ("us", "we", or "our") operates the https://www.class-central.com/ website (the "Service").
+Class Central, Inc ("us", "we", or "our") operates the https://www.classcentral.com/ website (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://www.class-central.com/
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://www.classcentral.com/
 
 ## **Definitions**
 
 **Service**
 
-Service is the https://www.class-central.com/ website operated by Class Central, Inc
+Service is the https://www.classcentral.com/ website operated by Class Central, Inc
 
 **Personal Data**
 
@@ -81,7 +81,7 @@ We may use internal and third party analytics tools, including Google Analytics,
 
 #### **Tracking Cookies Data**
 
-We use cookies and similar tracking technologies to track the activity on our Service and hold certain information. For more information on our use of cookies and web beacons, please refer to our [Cookies Policy.](https://www.class-central.com/about/cookies-policy)
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information. For more information on our use of cookies and web beacons, please refer to our [Cookies Policy.](https://www.classcentral.com/about/cookies-policy)
 
 Cookies are files with small amount of data which may include an anonymous unique identifier. 
 
@@ -198,7 +198,7 @@ You have the right to complain to a Data Protection Authority about our collecti
 
 We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. Here is a list of [Service Providers](https://www.class-central.com/about/third-party-service-providers-and-cookies) used by Class Central.
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. Here is a list of [Service Providers](https://www.classcentral.com/about/third-party-service-providers-and-cookies) used by Class Central.
 
 ## **Links To Other Sites**
 
@@ -222,10 +222,14 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ## **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us by email at [privacy@class-central.com](mailto:privacy@class-central.com)
+If you have any questions about this Privacy Policy, please contact us by email at [privacy@classcentral.com](mailto:privacy@classcentral.com)
 
 ## Class Central
 
 Get personalized course recommendations, track subjects and courses with reminders, and more.
 
 [ Sign up for free ](https://web.archive.org/signup)
+
+###  Never Stop Learning! 
+
+Get personalized course recommendations, track subjects and courses with reminders, and more. 
