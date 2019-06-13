@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourladyofperpetualexemption.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211215346id_/http%3A//www.hbo.com/html/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourladyofperpetualexemption.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613161333id_/http%3A//www.hbo.com/html/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HBO
 
@@ -6,27 +6,27 @@
 
 1.  **What is the Privacy Policy?**
 
-Hello and welcome to a Home Box Office, Inc. (“HBO”) offering. Thank you for your interest in our content. Your privacy is important to us, and the purpose of this Policy is to outline for you what information we collect, how we use it, and where and how we share it. Please read this Privacy Policy (the “Policy”) before using our Service.
+Hello and welcome to a Home Box Office, Inc. (“HBO”) offering. Thank you for your interest in our content. Your privacy is important to us, and the purpose of this Privacy Policy (the “Policy”) is to outline for you what information we collect, how we use it, and where and how we share it. Please read this Privacy Policy before using our Service.
 
 2\. **Relevant Definitions:**
 
-When you are receiving this Policy, we use a couple of common definitions to make it easier to read the Policy. These are:
+When you are reviewing this Policy, we use a couple of common definitions to make it easier to read. These are:
 
-Affiliate = A list of related companies to HBO. As of the Effective Date of the Policy (identified below), Affiliates are Time Warner, Inc., Turner Broadcasting System, Inc. and Warner Bros. Entertainment, Inc. but this may vary from time to time and we will update this Policy accordingly.
+Affiliates = A list of related companies to HBO. As of the Effective Date (identified below) of the Policy, Affiliates include our HBO international businesses, AT&T, INC.; WARNER MEDIA, LLC; Warner Bros. Entertainment, Inc., and Turner Broadcasting System, Inc. along with their respective affiliated companies. This list may change from time to time and we will update this Policy accordingly.
 
-Service = all of our consumer-facing HBO websites, services and applications, as well as all of their features, downloads and components, including offline customer service and support features, but excluding EEA-based OTT applications (such as HBO GO and HBO NOW applications designated for residents of EEA countries) that have a separate privacy notice. Details about the policy applicable to these services can be found during sign-up for the service and/or on its website.
+Service = all of our consumer-facing HBO websites, services and applications, as well as all of their features, downloads and components, including offline customer service and support features, but excluding European Economic Area (EEA)-based OTT applications (such as HBO GO and HBO NOW applications designated for residents of EEA countries) that have a separate privacy notice. Details about the policy applicable to these services can be found during sign-up for the service and/or on the website for such service. 
 
 3\. **What is the Effective Date?**
 
-The Effective Date of this Policy is May 25, 2018. You can see a copy of the previous policy [here](https://web.archive.org/web/20181001150619id_/https://www.hbo.com/privacy-policy-2017)
+The Effective Date of this Policy is November 7, 2018. You can see a copy of the previous policy [here](https://web.archive.org/web/20190528030308id_/https://www.hbo.com/privacy-policy-previous)
 
 4.  **Has the Policy changed from the previous version?**
 
-We have updated our Policy to make it more user-friendly and to add a section applicable to the European Economic Area (EEA) to reflect updates to European data privacy laws, as some of our Services are accessible in that region.
+We have updated our Policy to make it more user-friendly and to add a section applicable to the EEA to reflect updates to European data privacy laws, as some of our Services are accessible in that region. We have also updated our list of Affiliates (see Paragraph 2, above).
 
-5.  **How will I know about any future changes or updates to the Policy**
+5.  **How will I know about any future changes or updates to the Policy?**
 
-HBO can modify the Policy in the future. Changes to the Policy will be communicated to you by making the new and previous Policy available for review a reasonable period before the change is effective. If we make changes to the Policy that materially change the way we use your previously-collected personal information, we will communicate with you either via e-mail or a prominent posting on the Service.
+HBO can modify the Policy in the future. Changes to the Policy will be communicated to you by making the new and previous Policy available on the Service for review a reasonable period before the change is effective. If we make changes to the Policy that materially change the way we use your previously-collected personal information, we will communicate with you either via e-mail or a prominent posting on the Service.
 
 6.  **Does the Policy apply to me?**
 
@@ -44,6 +44,8 @@ We collect different types of information from you depending upon the Service yo
 
 **A. ACCOUNT INFORMATION**
 
+Below is a list of account information we collect. Some account information will only be collected about users of our digital streaming and content viewing services (e.g. HBO GO and HBO NOW), which are restricted to U.S. residents and so will not apply to other users of the Services. We have indicated below where this is the case.
+
 **Billing Information*:**
 
 *U.S. only
@@ -52,19 +54,19 @@ We collect and/or verify your payment information (including credit card number 
 
 **Comment Features:**
 
-Portions of our Service give you the ability to post comments or upload information. To enable this feature, we require that you set up an account and/or a screen name. We will of course have access to your contact information, comments and the feedback you voluntarily submit through these features. Portions of our Service give you the ability to post comments or upload information. To enable this feature, we require that you set up an account and/or a screen name. We will of course have access to your contact information, comments and the feedback you voluntarily submit through these features.
+Portions of our Service give you the ability to post comments or upload information. To enable this feature, we require that you set up an account and/or a screen name. We will of course have access to your contact information, comments and the feedback you voluntarily submit through these features.
 
 **Parental Controls*:**
 
 *U.S. only
 
-You have the option to limit viewing options for your account to specific genre ratings, such as TV-Y, or TV-14 for television series, and PG or PG-13 for movies. We collect information about your use of these controls. 
+You have the option to limit viewing options for your account to specific genre ratings, such as TV-Y, or TV-14 for television series, and PG or PG-13 for movies. We collect information about your use of these controls.
 
 **Registered Account*:**
 
 *U.S. only
 
-When you create an account with our Service, we collect your name and e-mail address. We may offer you the opportunity to provide information to enhance your account, such as genre preferences, information about your interests and additional contact information for your account. 
+When you create an account with our Service, we collect your name and e-mail address. We may offer you the opportunity to provide information to enhance your account, such as genre preferences, information about your interests and additional contact information for your account.
 
 **Use of the Service:**
 
@@ -78,7 +80,7 @@ We collect information about the films, TV shows and URLs that you view through 
 
 **Communication with you:**
 
-When you create an HBO GO or HBO NOW account in the U.S., you automatically agree to opt in to receive marketing e-mail from HBO and our Affiliates about HBO and/or the Service, offers of other products, programs or services that we believe may be of interest to you and information in connection with incentive programs, rewards and fan engagement activities. 
+When you create an HBO GO or HBO NOW account in the U.S., you automatically agree to opt in to receive marketing e-mail from HBO and our Affiliates about HBO and/or the Service, offers of other products, programs or services that we believe may be of interest to you and information in connection with incentive programs, rewards and fan engagement activities.
 
 Other portions of the Service, such as promotional sites and apps, may offer you the opportunity to opt in to marketing messages and newsletters by providing your email address. You will also receive marketing from our Affiliates where you have provided this information. We collect and store information in response to marketing to you, including bounce backs, clicks, and information about whether our messages are opened.
 
@@ -131,22 +133,6 @@ Web beacons are small strings of code (also called clear gifs or pixel tags) tha
 
 We use other technologies, such as browser storage and plugins (e.g. HTML5) for the same purposes as cookies and web beacons.
 
-**Referrals/Incentives:**
-
-If a “friend” feature is activated, you may have the opportunity to participate and earn incentives by providing your friend’s contact information (name, e-mail address), importing your contact lists from other sites or devices, or sending links to your friends. You may not provide contact information for any friends without their consent. We may require verification of consent before allowing your friend(s) to access these features.
-
-**Social Media Profiles & Bots:**
-
-If you engage with the Service through third party social media plug-ins and applications (such as Facebook, Twitter or Instagram) we may ask you to allow us to have ongoing access to information from your social media account (such as name, e-mail address and profile photo). We may also access information about HBO or our Service(s) that you have published publically from various online platforms, such as through Twitter hashtags or Instagram handles. Please refer to the privacy policies of those social media networks to understand your choices with regards to their services.
-
-If you use functionality on the Service to “share” or “like” content with a social media site, that content will be visible to the social media site and any individuals you have given access to your profile via your settings on that site.
-
-We may provide access to chatbots through third party services. Chatbots are computer programs that simulate conversation with you, sometimes in the voice of a fictional character, for example. When you interact with a chatbot, we receive information about those interactions. Communications you have with chatbots are not private. Please think carefully about incorporating any personal or private information into these interactions.
-
-**Surveys:**
-
-We receive the information you provide when you answer a survey or participate in research.
-
 **D. THIRD PARTIES**
 
 **Third Parties:**
@@ -157,13 +143,13 @@ You should consult the other sites' privacy notices as we have no control over i
 
 ## II. HBO Privacy Policy – How We Use and Disclose Your Information
 
-The below lists some account information that will only be collected about users of our digital streaming and content viewing services (e.g. HBO GO and HBO NOW), which are restricted to U.S. residents and so will not apply to other users of the Services. We have indicated below where this is the case.
+Below is a list of account information we collect. Some account information that will only be collected about users of our digital streaming and content viewing services (e.g. HBO GO and HBO NOW), which are restricted to U.S. residents and so will not apply to other users of the Services. We have indicated below where this is the case.
 
 **To Enable Access to the Service*:**
 
 *U.S. only
 
-We use your information such as name, email address, IP address and service provider to verify your account and payment information, confirm you are within the permitted service area, make sure that you are permitted to access our Service (including verifying eligibility for free trial offers), fulfill your orders and to resolve any problems you may experience. 
+We use your information such as name, email address, IP address and service provider to verify your account and payment information, confirm you are within the permitted service area, make sure that you are permitted to access our Service (including verifying eligibility for free trials or discounted offers), fulfill your orders and to resolve any problems you may experience. 
 
 **To Customize and Improve the Service for You*:**
 
@@ -207,7 +193,7 @@ These third parties may use cookies, web beacons, pixels, or similar technologie
 
 We may combine personal information collected via the Service with additional records such as information from our Affiliates, partners and distributors and publicly available information, including on social media sites and information received from third party sources.
 
-We use combined information so that we can better market to you products, features, or Services that may be of interest to you based on your preferences and characteristics we have determined from this combined information. We may also use the combined information to help create segments that help us better identify potential audiences for our services and to better inform our research and analysis of the Services, our content and our audience.
+We use combined information so that we can better market to you products, features, or Services that may be of interest to you based on your preferences and characteristics we have determined from this combined information. We may also use the combined information to help create segments that help us better identify potential audiences for our Services and to better inform our research and analysis of our Services, our content and our audience.
 
 **Aggregate Information:**
 
@@ -215,7 +201,7 @@ We may share information in aggregated form with vendors, partners and other thi
 
 **Sharing Information with Affiliates:**
 
-HBO is a Time Warner company, and has a number of affiliated companies. We share your personal information with our Affiliates to identify products and services of our Affiliates that may be of interest to you, to create a more personalized profile about you for purposes such as to help tailor your experience on our Service or on the platforms of our Affiliates and for interest-based advertising, for research and analysis, to assist in the improvement of our Service or those of our Affiliates (for example by recommending to you programs that may be of interest) and in connection with promotions conducted by us, by our Affiliates, or jointly.
+HBO is a Warner Media company, and has a number of affiliated companies. We share your personal information with our Affiliates to identify products and services of our Affiliates that may be of interest to you, to create a more personalized profile about you for purposes such as to help tailor your experience on our Service or on the platforms of our Affiliates and for interest-based advertising, for research and analysis, to assist in the improvement of our Service or those of our Affiliates (for example by recommending to you programs that may be of interest) and in connection with promotions conducted by us, by our Affiliates, or jointly.
 
 **Sale of Assets or Change of Control:**
 
@@ -227,13 +213,13 @@ We use personal information to investigate suspected privacy violations and viol
 
 We also use personal information for the establishment, exercise or defense of legal claims and for the purposes of legal process (which could involve us disclosing personal information to third parties, such as to courts or authorities in response to to a court order or a subpoena).
 
-We use personal information for fraud-scoring, and to detect, investigate, prevent, or take action regarding actual or suspected illegal activities, fraud, situations involving potential threats to the physical safety of any person and violations of our Terms of Use and to protect our rights and the rights of others. We use personal information as required to meet applicable legal, regulatory and compliance requirements. This could involve us disclosing information to third parties, such as our advisors, governmental entities and regulatory authorities.
+We use personal information for fraud-scoring, and to detect, investigate, prevent, or take action regarding actual or suspected illegal activities, fraud, billing disputes, situations involving potential threats to the physical safety of any person and violations of our Terms of Use and to protect our rights and the rights of others. We use personal information as required to meet applicable legal, regulatory and compliance requirements. This could involve us disclosing information to third parties, such as our advisors, governmental entities and regulatory authorities.
 
 **Vendors:**
 
 We work with vendors and partners to help carry out the functions described in this Policy on our behalf.
 
-These vendors and partners include affiliate advertising network partners; marketing service providers; professional service providers; website support and maintenance service providers; market and trend research service providers; marketing technology service providers; IT software and platform providers and analytics providers.
+These vendors and partners include affiliate advertising network partners; marketing service providers; professional service providers (ex. customer service providers and billing providers); website support and maintenance service providers; market and trend research service providers; marketing technology service providers; IT software and platform providers and analytics providers.
 
 ## III. HBO Privacy Policy – Your Choices
 
@@ -247,7 +233,7 @@ We have not implemented a response to browser-based Do Not Track signals. Becaus
 
 You can access much of the personal information that you have provided to the Service online, or correct factual errors in such information, at the Settings section of the Service. To help protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections to any personal information. For EEA visitors, you can also access information about cookies on the pop up screen when you first access the Service.
 
-If at any time you wish to stop receiving promotional materials related to the Service, we will provide an unsubscribe link at the bottom of each promotional e-mail you receive or you can contact us at [contacthbo@hbo.com](mailto:contacthbo@hbo.com) or [contactmax@hbo.com](mailto:contactmax@hbo.com). In most cases, for Services where you have registered an Account, you can also go to the subscription overlay in your dashboard to opt out of newsletters and other promotional e-mails. Please keep in mind that opting out of promotional e-mails will not prevent you from receiving transactional e-mail correspondence related to, without limitation: the Service, your account and/or billing.
+If at any time you wish to stop receiving promotional materials related to the Service, we will provide an unsubscribe link at the bottom of each promotional e-mail you receive or you can contact us at [contacthbo@hbo.com](mailto:contacthbo@hbo.com) or [contactmax@hbo.com](mailto:contactmax@hbo.com). In most cases, for Services where you have registered an account, you can also go to the settings feature in your dashboard to opt out of newsletters and other promotional e-mails. Please keep in mind that opting out of promotional e-mails will not prevent you from receiving transactional e-mail correspondence related to, without limitation: the Service, your account and/or billing.
 
 If you no longer wish to have any information collected by any mobile application included in the Service, you may uninstall the application by using the standard uninstall processes available on your mobile device or via the mobile application marketplace or network.
 
@@ -269,7 +255,7 @@ HBO does not knowingly collect any personal information from individuals under t
 
 If you have any questions or concerns about the Policy for the Service or its implementation you may contact us at [contacthbo@hbo.com](mailto:contacthbo@hbo.com) or [contactmax@hbo.com](mailto:contactmax@hbo.com)
 
-## IV. HBO Privacy Policy – Storage & Security
+## IV. HBO Privacy Policy – Retention
 
 We and/or our agents and contractors (such as mailing houses, customer service vendors or cloud services) store your information for as long as we have a legitimate business reason to do so or for as long as necessary to comply with our legal obligations or enforce our legal rights. The precise period for which that information will be retained will vary on a case-by-case basis. Such period will be determined on the basis of the following criteria:
 
@@ -286,7 +272,7 @@ We and/or our agents and contractors (such as mailing houses, customer service v
 
 ## V. HBO Privacy Policy – EEA Visitors
 
-The registration features of the HBO GO and HBO NOW Services covered by this Policy are intended for U.S. residents only. Although many of our sites can be viewed internationally, many of our computer systems are currently based in the United States. Therefore, please note that all personal information will be processed by us in the U.S. For more details regarding how we collect, use, and disclose personal information from European Economic Area (EEA) visitors and the additional rights are available to EEA visitors in respect of this personal information, see below:
+The registration features of the HBO GO and HBO NOW Services covered by this Policy are intended for U.S. residents only. Although many of our sites can be viewed internationally, many of our computer systems are currently based in the United States. Therefore, please note that all personal information will be processed by us in the U.S. For more details regarding how we collect, use, and disclose personal information from EEA visitors and the additional rights available to EEA visitors in respect of this personal information, see below:
 
 **Who Is Responsible for your Personal Information?**
 
@@ -296,7 +282,7 @@ Home Box Office, Inc. will be the data controller for the personal information p
 New York, NY 10036   
 [EUDataRequest@hbo.com](mailto:EUDataRequest@hbo.com)
 
-In addition, you can contact our EEA representative at: 
+If you are a subscriber to an EU service, you can contact our EEA representative at: 
 
 HBO Nordic, A.B.   
 Attention Legal   
@@ -329,13 +315,13 @@ We also process your personal information when it is in our, or a third party’
 
 For example, we have a legitimate interest in:
 
-  * Understanding how our customers use our products, services and websites;
+  * Understanding how our customers use our Services;
 
   * Understanding and responding to customer feedback;
 
   * Researching and analyzing the services our customers want;
 
-  * Improving our services;
+  * Improving our Services;
 
   * Personalising our offers so we're better able to provide offers and ideas that are relevant to you;
 
@@ -348,11 +334,11 @@ For example, we have a legitimate interest in:
 
 If you have any questions regarding the legitimate interests you can contact us at [EUDataRequest@hbo.com](mailto:EUDataRequest@hbo.com).
 
-When we ask you to supply us with personal information you will see whether the information we are asking for: (i) must be supplied so that we can provide services to you under the terms of any contract you enter into with us or because it is required by law; or (ii) is optional, and the consequences of not providing the information. 
+When we ask you to supply us with personal information we will describe whether the information we are asking for: (i) must be supplied so that we can provide services to you under the terms of any contract you enter into with us or because it is required by law; or (ii) is optional, and the consequences of not providing the information. 
 
 **International Transfers**
 
-The personal information about you described in this Policy that is provided by you or collected by you relating to your use of the Service, will be collected, or received, by HBO in the United States directly from you. This will involve the transfer of this personal information directly from the location from which you access the Service to the United States (for example, the information received from your device when accessing one of our websites). The processing of your personal information by HBO as described in this Policy does not involve the transfer of any of your personal information by HBO from within the EEA to any location outside the EEA.
+The personal information about you described in this Policy that is provided by you or collected by you relating to your use of the Service, will be collected, or received, by HBO in the United States. This will involve the transfer of this personal information directly from the location from which you access the Service to the United States (for example, the information received from your device when accessing one of our websites). The processing of your personal information by HBO as described in this Policy does not involve the transfer of any of your personal information by HBO from within the EEA to any location outside the EEA.
 
 **Your Rights**
 
@@ -368,4 +354,4 @@ New York, NY 10036
 
 We hope that we can satisfy questions you may have about the way we process your personal information. However, if you have unresolved concerns you also have the right to complain to data protection authorities. You can bring the complaint in your member state of residence, place of work or where an alleged infringement of data protection law occurred.
 
-**Effective Date: May 25, 2018**
+**Effective Date: November 7, 2018**
