@@ -1,33 +1,50 @@
-> *The following text is extracted and transformed from the freedvdcover.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119014156id_/https%3A//www.freedvdcover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedvdcover.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613225446id_/https%3A//dvdcover.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FreeDVDCover.Com
+# Privacy Policy - DVDCover.Com
 
-We here at FreeDVDcover.Com respect your privacy. Your privacy is of paramount importance to us and we are always committed to safeguarding it.
+## Who we are
 
-FreeDVDCover.Com does not collect any personal information about you such as your name, address, phone number or email ID without your knowledge. When you provide your email ID while contacting us using [contact page](http://www.freedvdcover.com/contact/), we never share it with anyone. We only use it to respond to your email.
+Our website address is: https://dvdcover.com
 
-We use cookies to personalize content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.
+## What personal data we collect and why we collect it
 
-We measure visitors to our website using Google Analytics. This records what pages you view within our site, how you arrived at our site and some basic information about your computer. All of that information is anonymous – so we don’t know who you are; just that  _somebody  _visited our site.
+### Comments
 
-The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html "Google Analytics' privacy policy") or [opt out if you wish](https://tools.google.com/dlpage/gaoptout "How to opt out of google analytics").
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-Since we use third-party advertisements on this website such as [Google Adsense](http://www.google.com/policies/privacy/), these ad companies can use cookies or web beacons to collect some information about your visit to serve ads of interest to you.
+### Media
 
-You can use [Ads Settings](http://www.google.com/ads/preferences/?hl=en) to manage the Google ads you see and opt out of interest-based ads. Even if you opt out of interest-based ads, you may still see ads based on factors such as your general location derived from your IP address, your browser type and recent, previous searches related to your current search.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-You can also manage many companies’ cookies used for online advertising at the US-based [aboutads.info choices](http://www.aboutads.info/choices/) page or the EU-based [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices).
+### Cookies
 
-Finally, you can [manage cookies in your web browser](http://www.google.com/policies/technologies/managing/).
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-## Facebook, Twitter and other social networks
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-These services provide social buttons and similar features which we use on our website – such as the “Like” and “Tweet” buttons.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-To do so we embed code that they provide and we do not control ourselves. To function their buttons generally know if you’re logged in; for example Facebook use this to say “x of your friends like this”. We do not have any access to that information, nor can we control how those networks use it.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-Social networks therefore  _could  _know that you’re viewing this website, if you use their services (that isn’t to say they do, but their policies may change). As our website is remarkably inoffensive we imagine this is not a concern for most users.
+### Embedded content from other websites
 
-Please feel free to [contact us](http://www.freedvdcover.com/contact/) for any questions or concerns regarding your privacy.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also delete your account if you want to by going into My Account page then delete your account.
+
+Visitor comments may be checked through an automated spam detection service.
+
+  
+
