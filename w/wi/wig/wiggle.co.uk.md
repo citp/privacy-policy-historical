@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216233043id_/http%3A//www.wiggle.co.uk/h/option/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613220923id_/https%3A//www.wiggle.co.uk/h/option/PrivacyPolicy) for the most accurate reproduction.*
 
 # Wiggle Customer Services
 
@@ -43,7 +43,9 @@ We use the information you provide for the following purposes:
 
   * We use cookies to give you the best experience on our website and also to allow us and third parties to tailor ads you see on our website. For more information, please see our full cookie policy.
 
-  * To deliver advertising across various social media and other online platforms (e.g. Goodle, Facebook)
+  * To deliver advertising across various social media and other online platforms (e.g. Google, Facebook)
+
+  * To work with professional service providers, such as marketing agencies & advertising partners to share relevant and appropriate marketing content via social media advertising
 
 
 
