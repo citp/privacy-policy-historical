@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a4academics.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207100401id_/http%3A//a4academics.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a4academics.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613072915id_/http%3A//a4academics.com/terms-and-conditions) for the most accurate reproduction.*
 
 # Privacy Policy & Terms Of Service
 
