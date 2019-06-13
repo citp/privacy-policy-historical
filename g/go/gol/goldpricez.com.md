@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldpricez.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201142636id_/http%3A//goldpricez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldpricez.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613163317id_/http%3A//goldpricez.com/privacy-policy) for the most accurate reproduction.*
 
 # The Privacy Policy - Gold Price Z
 
@@ -37,12 +37,15 @@ We use the following third-party programs, they also use cookies and web beacons
 
   * Google Analytics Service 
   * Google Adsense Service 
+  * Media.Net 
 
 
 
 They are placing and reading cookies on your browsers, or using web beacons to collect information.   
 You can read more about these websites (e.g., working, web beacons, cookies etc) on their relavent websites.   
 For more information about cookies and method of removing cookies from your computer (or handheld device, etc.), visit [ this (third-party) website ](http://www.allaboutcookies.org/)
+
+We do not buy or sell any service or product directly, but purchases are made on external affiliate company websites (e.g., Amazon and etc): when a reader clicks on an affiliate link located on goldpricez.com to purchase an item, and the reader buys the item from the seller directly (not from the goldpricez.com). Affiliate companies pay goldpricez.com a small commission or other compensation for helping to bring customers to their website. 
 
 A user can delete relevant data (if) recorded by GOLDPRICEZ.COM by sending email from the official email address or email address which recorded in our system to goldpricekg@gmail.com, and we will remove relevant information from our website within four weeks and will inform the user about deletion. We will not reply if we did not find any associated data. 
 
