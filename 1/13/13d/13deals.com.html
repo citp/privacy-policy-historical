@@ -1,129 +1,20 @@
-<!--The following is the downloaded HTML source of the 13deals.com privacy policy that was archived on 2018-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181030053754id_/http%3A//www.13deals.com/store/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 13deals.com privacy policy that was archived on 2019-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190613230937id_/http%3A//www.13deals.com/store/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<!DOCTYPE html><html><head>
   	<title>Privacy Policy - 13 Deals</title>
   	  	  	<meta name="google-site-verification" content="7UNw45vYcpptYgOsn8pBGSXa9EqzU9KbcxILbhKSY2c">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link rel="stylesheet" href="https://www.13deals.com/store/style13.css" type="text/css">
-	<link href="https://www.13deals.com/store/css/validationEngine.jquery.css" rel="stylesheet">
-	<link href="https://www.13deals.com/store/css/formular.css" rel="stylesheet">
-
-	<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=264137883631479"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="https://www.13deals.com/store/js/jquery/1.7.1/jquery.js"></script>
-	<script type="text/javascript" src="https://www.13deals.com/store/js/jqueryui/1.5.3/jquery-ui.min.js"></script>
-	<script src="https://www.13deals.com/store/js/slides.min.jquery.js" type="text/javascript"></script>
-	<script src="https://www.13deals.com/store/js/jquery.plugins.js" type="text/javascript"></script>
-
-	<script type="text/javascript" src="https://www.13deals.com/store/js/jquery.validationEngine-en.js?v=1"></script>
-	<script type="text/javascript" src="https://www.13deals.com/store/js/jquery.validationEngine.js"></script>
-
-	<script type="text/javascript" src="https://www.13deals.com/store/js/aviaSlider/jquery.aviaSlider.min.js"></script>
-
-	<script type="text/javascript" src="https://www.13deals.com/store/js/gui.js"></script>
-
-      <script src="https://www.13deals.com/store/js/clipboard.min.js"></script>
-
-	<script type="text/javascript">
-
-		function showHeaderLogin(logged_in){
-			if (logged_in==1){
-				$.ajax({
-					   type: "POST",
-					   url: "https://www.13deals.com/store/login.php",
-					   data: "header_login=1",
-					   success:
-					  		function(data){
-								$('#header_username').html(data.username);
-								$("#userwelcome").css('display','block');
-								$("#header_login").css('display','none');
-
-							},
-					   dataType:"json"
-					  });
-			}else{
-				$("#userwelcome").css('display','none');
-				$("#header_login").css('display','block');
-			}
-		}
-
-		$(document).ready(function() {
-			$("#login").colorbox({iframe:true, width:650, height:450});
-			$("#signup").colorbox({iframe:true, width:650, height:550});
-			$(".gallery").colorbox({rel:'gallery'});
-			$(".video-popup").colorbox({iframe:true, width:600, height:340});
-			$(".quickshop").colorbox({iframe:true, width:740, height:415});
-			$("#slides").slides({preload:true,generateNextPrev:true});
-			$("#imageslider > ul").tabs({fx:{opacity: "toggle"}}).tabs("rotate", 0, true);
-			$("#tabs > ul").tabs("rotate", 0, true);
-			$('#slider1').aviaSlider({blockSize: {height: 100, width:100}, autorotationSpeed: 5, transition: 'slide', display: 'all', transitionOrder: ['diagonaltop', 'diagonalbottom','topleft', 'bottomright', 'random'], });
-
-			$("input#btnNotificationSend").colorbox({
-				onClosed: function(){
-					$("#stockNotifBox").fadeOut(200);
-				},
-				href: function(){
-			        var url = $(this).parents('form').attr('action');
-			        var ser = $(this).parents('form').serialize(); //alert(url+'?'+ser);
-			        return url+'?'+ser;
-				},
-				width:420, height:160, iframe:true
-		    });
-
-
-		    $("#chkStockNotification").click(function(e){
-			    e.preventDefault();
-			    $("#stockNotifBox").fadeOut(200);
-			});
-
-		
-			
-			$('#frmNewsletterSubscribe').validationEngine();
-
-		});
-	</script>
-
-<!-- Facebook Pixel Code -->
-	<script>
-	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-	document,'script','https://connect.facebook.net/en_US/fbevents.js');
-	fbq('init', '188369921678442'); // Insert your pixel ID here.
-	fbq('track', 'PageView');
-	</script>
-	<noscript><img height="1" width="1" style="display:none"
-	src="https://www.facebook.com/tr?id=188369921678442&ev=PageView&noscript=1"
-	/></noscript>
-	<!-- DO NOT MODIFY -->
-<!-- End Facebook Pixel Code -->			
-			
-<!-- Alex M360 code -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-21195725-2', 'auto');
-ga('require', 'displayfeatures');
-ga('send', 'pageview');
-</script>
-
-	<script type="text/javascript" src="https://www.13deals.com/store/js/scripts.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://www.13deals.com/store/style13_19.css?v=1560464228" type="text/css">
+  <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://www.paypal.com/tagmanager/pptm.js?id=48b1ebdf-0ee8-41bd-9b97-97751bd29f25"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=264137883631479"></script><script src="https://code.jquery.com/jquery-1.9.1.min.js" integrity="sha256-wS9gmOZBqsqWxgIVgA8Y9WcQOa7PgSIX+rPA0VL2rbQ=" crossorigin="anonymous"></script>
   <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-  <body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
-<!-- Tapfiliate code start -->
-<script src="//static.tapfiliate.com/tapfiliate.js" type="text/javascript" async=""></script>
-<script type="text/javascript">
-  window['TapfiliateObject'] = i = 'tap';
-  window[i] = window[i] || function () {
-      (window[i].q = window[i].q || []).push(arguments);
-  };
-
-  tap('create', '1394-d2b341');
-  tap('detectClick');
-</script>
-<!-- Tapfiliate code end -->
+  <body>
+   <div class="preloader">
+    <div class="status"></div>
+   </div> 
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
@@ -133,165 +24,224 @@ ga('send', 'pageview');
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
 
+	<div id="subscribe-popup" style="display:none;">
+    <div class="wrapper">
+      <div class="close-btn">
+        <div id="xsubscribe"><img src="https://www.13deals.com/store/images/subscribe/close.png"></div>
+      </div>
+      <iframe src="https://www.13deals.com/store/subscribe-popup.php" width="500" height="250" frameborder="0"></iframe>
+    </div>
+	</div>
 
 	<div id="topheader">
 		<div class="container">
-			<div class="right">
-				<a href="https://www.13deals.com/store/checkout.php" class="cart">Cart <span>(0)</span></a>
+      <div class="row">
+        <div class="col-xs-6">
+                    <div id="header_login">
+            <a href="https://www.13deals.com/store/login.php" id="login">Login</a> / <a href="https://www.13deals.com/store/signup.php" id="signup">Signup</a>
+          </div>
+                  </div>
+        <div class="col-xs-6 text-right">
+          <a href="https://www.13deals.com/store/checkout.php" class="cart">Checkout <span>(0)</span></a>
+        </div>
 			</div>
-			<div class="left">
-				<div id="header_login" style="display:block;"><a href="https://www.13deals.com/store/login.php" id="login">Login</a> / <a href="https://www.13deals.com/store/signup.php" id="signup">Signup</a></div>
-				<div id="userwelcome" style="display:none;">Welcome back, <span id="header_username"></span>! &nbsp; <a href="https://www.13deals.com/store/user.php">My Account</a> &nbsp; <a href="https://www.13deals.com/store/?logout=1">Logout</a></div>
-			</div>
-			<div class="clear"></div>
 		</div>
 	</div>
 	<div id="header">
 		<div class="container">
-<!--			<div class="links">-->
-<!--				<div><a href="https://www.13deals.com/store/categories/22-style-apparel"><img src="https://www.13deals.com/store/images/tab_style.png" /></a></div>-->
-<!--				<div><a href="https://www.13deals.com/store/categories/21-pets"><img src="https://www.13deals.com/store/images/tab_pets.png" /></a></div>-->
-<!--			</div>-->
-			<div class="search">
-				<form id="search_form" name="search_form" class="search" method="get" action="https://www.13deals.com/store/search.php" onsubmit="if ($('input#searchbox').val()=='Search Keyword') { $('input#searchbox').focus(); return false; }">
-					<input type="text" class="s" id="searchbox" name="search_expression" value="Search Keyword" onfocus="if (this.value == 'Search Keyword') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search Keyword';}">
-					<input type="submit" id="search_button" class="submit" value="Search">
-				</form>
-			</div>
-			<div class="logo"><a href="https://www.13deals.com/store/home.php"><img src="https://www.13deals.com/store/images/13logo.png"></a></div>
-			<div class="clear"></div>
-			<div id="nav">
-				<ul>
-																	<li><a href="https://www.13deals.com/store/categories/21-pets">Pets</a><ul class="subNav"><li><a href="https://www.13deals.com/store/categories/s/33-cat">Cat</a></li><li><a href="https://www.13deals.com/store/categories/s/37-dog">Dog</a></li><li><a href="https://www.13deals.com/store/categories/s/42-toys">Toys</a></li><li><a href="https://www.13deals.com/store/categories/s/43-treats">Treats</a></li><li><a href="https://www.13deals.com/store/categories/s/44-collars-and-leashes">Collars and Leashes</a></li><li><a href="https://www.13deals.com/store/categories/s/45-grooming">Grooming</a></li><li><a href="https://www.13deals.com/store/categories/s/88-apparel">Apparel</a></li><li><a href="https://www.13deals.com/store/categories/s/90-bedding">Bedding</a></li></ul></li>
-																										<li><a href="https://www.13deals.com/store/categories/22-style-apparel">Style &amp; Apparel</a><ul class="subNav"><li><a href="https://www.13deals.com/store/categories/s/34-watches">Watches</a></li><li><a href="https://www.13deals.com/store/categories/s/36-for-men">For Men</a></li><li><a href="https://www.13deals.com/store/categories/s/46-for-women">For Women</a></li><li><a href="https://www.13deals.com/store/categories/s/47-jewelry">Jewelry</a></li><li><a href="https://www.13deals.com/store/categories/s/48-head-hands-and-feet">Head, Hands, and Feet</a></li><li><a href="https://www.13deals.com/store/categories/s/49-bags">Bags</a></li><li><a href="https://www.13deals.com/store/categories/s/50-eyewear">Eyewear</a></li><li><a href="https://www.13deals.com/store/categories/s/95-clothing">Clothing</a></li><li><a href="https://www.13deals.com/store/categories/s/116-kids">Kids</a></li></ul></li>
-																										<li><a href="https://www.13deals.com/store/categories/23-home">Home</a><ul class="subNav"><li><a href="https://www.13deals.com/store/categories/s/29-furniture">Furniture</a></li><li><a href="https://www.13deals.com/store/categories/s/30-decor">Decor</a></li><li><a href="https://www.13deals.com/store/categories/s/31-clocks-alarms">Clocks &amp; Alarms</a></li><li><a href="https://www.13deals.com/store/categories/s/32-lighting">Lighting</a></li><li><a href="https://www.13deals.com/store/categories/s/39-bedding">Bedding</a></li><li><a href="https://www.13deals.com/store/categories/s/57-storage-organization">Storage &amp; Organization</a></li><li><a href="https://www.13deals.com/store/categories/s/58-home-improvement">Home Improvement</a></li><li><a href="https://www.13deals.com/store/categories/s/89-bath">Bath</a></li><li><a href="https://www.13deals.com/store/categories/s/103-crafting-more">Crafting &amp; More</a></li><li><a href="https://www.13deals.com/store/categories/s/104-safety">Safety</a></li><li><a href="https://www.13deals.com/store/categories/s/114-essentials">Essentials</a></li><li><a href="https://www.13deals.com/store/categories/s/115-cleaning">Cleaning</a></li></ul></li>
-																										<li><a href="https://www.13deals.com/store/categories/24-kitchen">Kitchen</a><ul class="subNav"><li><a href="https://www.13deals.com/store/categories/s/38-food">Food</a></li><li><a href="https://www.13deals.com/store/categories/s/77-dining">Dining</a></li><li><a href="https://www.13deals.com/store/categories/s/78-appliances">Appliances</a></li><li><a href="https://www.13deals.com/store/categories/s/79-storage">Storage</a></li><li><a href="https://www.13deals.com/store/categories/s/80-tools-gadgets">Tools &amp; Gadgets</a></li><li><a href="https://www.13deals.com/store/categories/s/81-cookware">Cookware</a></li><li><a href="https://www.13deals.com/store/categories/s/94-preparation">Preparation</a></li></ul></li>
-																										<li><a class="new" href="https://www.13deals.com/store/categories/118-posters-stickers">Posters &amp; Stickers</a><ul class="subNav"><li><a href="https://www.13deals.com/store/categories/s/119-posters">Posters</a></li><li><a href="https://www.13deals.com/store/categories/s/120-wall-clings">Wall Clings</a></li><li><a href="https://www.13deals.com/store/categories/s/121-stickers-decals">Stickers &amp; Decals</a></li><li><a href="https://www.13deals.com/store/categories/s/122-canvas-wall-art">Canvas Wall Art</a></li></ul></li>
-																										<li><a href="https://www.13deals.com/store/categories/26-tools-hardware">Tools &amp; Hardware</a><ul class="subNav"><li><a href="https://www.13deals.com/store/categories/s/67-automobile">Automobile</a></li><li><a href="https://www.13deals.com/store/categories/s/68-storage-and-organization">Storage and Organization</a></li><li><a href="https://www.13deals.com/store/categories/s/69-flashlights-lanterns">Flashlights &amp; Lanterns</a></li><li><a href="https://www.13deals.com/store/categories/s/70-emergency-survival">Emergency &amp; Survival</a></li><li><a href="https://www.13deals.com/store/categories/s/71-ropes-fasteners">Ropes &amp; Fasteners</a></li><li><a href="https://www.13deals.com/store/categories/s/100-knives-cutters-sharp-things">Knives, Cutters &amp; Sharp Things</a></li><li><a href="https://www.13deals.com/store/categories/s/101-tools">Tools</a></li><li><a href="https://www.13deals.com/store/categories/s/102-cleaning-supplies">Cleaning Supplies</a></li></ul></li>
-																										<li><a href="https://www.13deals.com/store/categories/27-electronics-accessories">Electronics &amp; Accessories</a><ul class="subNav"><li><a href="https://www.13deals.com/store/categories/s/51-cellphone-accessories">Cellphone Accessories</a></li><li><a href="https://www.13deals.com/store/categories/s/52-audio-mp3-accessories">Audio/MP3 Accessories</a></li><li><a href="https://www.13deals.com/store/categories/s/53-computer-laptop-accessories">Computer &amp; Laptop Accessories</a></li><li><a href="https://www.13deals.com/store/categories/s/54-tablet-e-reader-accessories">Tablet &amp; E-Reader Accessories</a></li><li><a href="https://www.13deals.com/store/categories/s/55-gadgets">Gadgets</a></li><li><a href="https://www.13deals.com/store/categories/s/56-necessities">Necessities</a></li><li><a href="https://www.13deals.com/store/categories/s/123-entertainment">Entertainment</a></li></ul></li>
-																										<li><a href="https://www.13deals.com/store/categories/28-toys-games">Toys &amp; Games</a><ul class="subNav"><li><a href="https://www.13deals.com/store/categories/s/73-board-games-puzzles">Board Games &amp; Puzzles</a></li><li><a href="https://www.13deals.com/store/categories/s/74-gadgets">Gadgets</a></li><li><a href="https://www.13deals.com/store/categories/s/75-novelties-gifts">Novelties &amp; Gifts</a></li><li><a href="https://www.13deals.com/store/categories/s/76-toys">Toys</a></li></ul></li>
-																		<li><a>More Categories »</a>
-							<ul class="subNav" id="moreCat">
-													<li><a href="https://www.13deals.com/store/categories/40-garden-patio">Garden &amp; Patio</a><ul class="subSubNav"><li><a href="https://www.13deals.com/store/categories/s/83-grilling">Grilling</a></li><li><a href="https://www.13deals.com/store/categories/s/84-lawn-garden">Lawn &amp; Garden</a></li><li><a href="https://www.13deals.com/store/categories/s/85-patio-furniture-accessories">Patio Furniture &amp; Accessories</a></li><li><a href="https://www.13deals.com/store/categories/s/86-decor">Decor</a></li><li><a href="https://www.13deals.com/store/categories/s/87-outdoor-lighting">Outdoor Lighting</a></li></ul></li>
-													<li><a href="https://www.13deals.com/store/categories/41-health-beauty">Health &amp; Beauty</a><ul class="subSubNav"><li><a href="https://www.13deals.com/store/categories/s/59-personal-care">Personal Care</a></li><li><a href="https://www.13deals.com/store/categories/s/60-health-care">Health Care</a></li><li><a href="https://www.13deals.com/store/categories/s/61-makeup-fragrances">Makeup &amp; Fragrances</a></li><li><a href="https://www.13deals.com/store/categories/s/62-spa-massage">Spa &amp; Massage</a></li></ul></li>
-													<li><a href="https://www.13deals.com/store/categories/82-office">Office</a><ul class="subSubNav"><li><a href="https://www.13deals.com/store/categories/s/91-gadgets">Gadgets</a></li><li><a href="https://www.13deals.com/store/categories/s/92-supplies">Supplies</a></li><li><a href="https://www.13deals.com/store/categories/s/93-decor">Decor</a></li></ul></li>
-													<li><a href="https://www.13deals.com/store/categories/96-travel">Travel</a></li>
-													<li><a href="https://www.13deals.com/store/categories/97-kids-baby">Kids &amp; Baby</a><ul class="subSubNav"><li><a href="https://www.13deals.com/store/categories/s/98-toys">Toys</a></li><li><a href="https://www.13deals.com/store/categories/s/99-baby">Baby</a></li></ul></li>
-													<li><a href="https://www.13deals.com/store/categories/105-seasonal">Seasonal</a><ul class="subSubNav"><li><a href="https://www.13deals.com/store/categories/s/106-halloween">Halloween</a></li><li><a href="https://www.13deals.com/store/categories/s/107-easter">Easter</a></li><li><a href="https://www.13deals.com/store/categories/s/108-valentine-s-day">Valentine\'s Day</a></li><li><a href="https://www.13deals.com/store/categories/s/109-christmas">Christmas</a></li><li><a href="https://www.13deals.com/store/categories/s/110-4th-of-july">4th of July</a></li><li><a href="https://www.13deals.com/store/categories/s/111-mother-s-day">Mother\'s Day</a></li><li><a href="https://www.13deals.com/store/categories/s/112-father-s-day">Father\'s Day</a></li></ul></li>
-													<li><a href="https://www.13deals.com/store/categories/25-sports-outdoors">Sports &amp; Outdoors</a><ul class="subSubNav"><li><a href="https://www.13deals.com/store/categories/s/35-team-sports">Team Sports</a></li><li><a href="https://www.13deals.com/store/categories/s/63-exercise-fitness">Exercise &amp; Fitness</a></li><li><a href="https://www.13deals.com/store/categories/s/64-gear">Gear</a></li><li><a href="https://www.13deals.com/store/categories/s/65-sports-fan">Sports Fan</a></li><li><a href="https://www.13deals.com/store/categories/s/66-camping-recreation">Camping &amp; Recreation</a></li></ul></li>
-													<li><a href="https://www.13deals.com/store/categories/124-as-seen-on-tv">As Seen On TV</a></li>
-													</ul>
-						</li>
-								</ul>
-				<script>
-					$("#nav>ul>li:last").addClass('last');
-				</script>
-			</div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+          <div class="logo"><a href="https://www.13deals.com/store/home.php"><img src="https://www.13deals.com/store/images/13logo.png"></a></div>
+        </div>
+        <div class="col-xs-12 col-sm-6 text-right hidden-xs">
+          <div class="search">
+            <form id="search_form" name="search_form" class="search form-inline" method="get" action="https://www.13deals.com/store/search.php" onsubmit="if ($('input#searchbox').val()=='Search Keyword') { $('input#searchbox').focus(); return false; }">
+              <div class="form-group col-xs-11 p-r-0">
+                <label class="sr-only" id="searchbox">Search for</label>
+                <input type="text" class="form-control" id="searchbox" name="search_expression" value="Search Keyword" onfocus="if (this.value == 'Search Keyword') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search Keyword';}">
+              </div>
+              <button type="submit" id="search_button" class="submit btn col-xs-1" value="Search">
+                <img src="https://www.13deals.com/store/images/search.png" class="img-responsive">
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12">
+          <nav class="navbar navbar-main">
+            <div class="container-fluid">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header">
+                <div class="col-xs-10">
+                  <form class="navbar-form navbar-left p-0">
+                  <div class="form-group col-xs-9 p-r-0">
+                    <label class="sr-only" id="searchbox">Search for</label>
+                    <input type="text" class="form-control" id="searchbox" name="search_expression" value="Search Keyword" onfocus="if (this.value == 'Search Keyword') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search Keyword';}">
+                  </div>
+                  <button type="submit" id="search_button" class="submit btn col-xs-2" value="Search">
+                    <img src="https://www.13deals.com/store/images/search.png" class="img-responsive">
+                  </button>
+                </form>
+                </div>
+                <div class="col-xs-2 p-r-0">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-mainmenu" aria-expanded="false">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                </div>
+              </div>
+
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class="collapse navbar-collapse" id="jb-mainmenu">
+                <ul class="nav navbar-nav">
+                  
+                  
+                                                                                <li class="dropdown"><a href="https://www.13deals.com/store/categories/21-pets" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pets</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/33-cat">Cat</a></li><li><a href="https://www.13deals.com/store/categories/s/37-dog">Dog</a></li><li><a href="https://www.13deals.com/store/categories/s/42-toys">Toys</a></li><li><a href="https://www.13deals.com/store/categories/s/43-treats">Treats</a></li><li><a href="https://www.13deals.com/store/categories/s/44-collars-and-leashes">Collars and Leashes</a></li><li><a href="https://www.13deals.com/store/categories/s/45-grooming">Grooming</a></li><li><a href="https://www.13deals.com/store/categories/s/88-apparel">Apparel</a></li><li><a href="https://www.13deals.com/store/categories/s/90-bedding">Bedding</a></li></ul></li>
+                                                      
+                                          
+                                                                                <li class="dropdown"><a href="https://www.13deals.com/store/categories/22-style-apparel" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Style &amp; Apparel</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/34-watches">Watches</a></li><li><a href="https://www.13deals.com/store/categories/s/36-for-men">For Men</a></li><li><a href="https://www.13deals.com/store/categories/s/46-for-women">For Women</a></li><li><a href="https://www.13deals.com/store/categories/s/47-jewelry">Jewelry</a></li><li><a href="https://www.13deals.com/store/categories/s/48-head-hands-and-feet">Head, Hands, and Feet</a></li><li><a href="https://www.13deals.com/store/categories/s/49-bags">Bags</a></li><li><a href="https://www.13deals.com/store/categories/s/50-eyewear">Eyewear</a></li><li><a href="https://www.13deals.com/store/categories/s/95-clothing">Clothing</a></li><li><a href="https://www.13deals.com/store/categories/s/116-kids">Kids</a></li></ul></li>
+                                                      
+                                          
+                                                                                <li class="dropdown"><a href="https://www.13deals.com/store/categories/23-home" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/29-furniture">Furniture</a></li><li><a href="https://www.13deals.com/store/categories/s/30-decor">Decor</a></li><li><a href="https://www.13deals.com/store/categories/s/31-clocks-alarms">Clocks &amp; Alarms</a></li><li><a href="https://www.13deals.com/store/categories/s/32-lighting">Lighting</a></li><li><a href="https://www.13deals.com/store/categories/s/39-bedding">Bedding</a></li><li><a href="https://www.13deals.com/store/categories/s/57-storage-organization">Storage &amp; Organization</a></li><li><a href="https://www.13deals.com/store/categories/s/58-home-improvement">Home Improvement</a></li><li><a href="https://www.13deals.com/store/categories/s/89-bath">Bath</a></li><li><a href="https://www.13deals.com/store/categories/s/103-crafting-more">Crafting &amp; More</a></li><li><a href="https://www.13deals.com/store/categories/s/104-safety">Safety</a></li><li><a href="https://www.13deals.com/store/categories/s/114-essentials">Essentials</a></li><li><a href="https://www.13deals.com/store/categories/s/115-cleaning">Cleaning</a></li></ul></li>
+                                                      
+                                          
+                                                                                <li class="dropdown"><a href="https://www.13deals.com/store/categories/24-kitchen" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Kitchen</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/38-food">Food</a></li><li><a href="https://www.13deals.com/store/categories/s/77-dining">Dining</a></li><li><a href="https://www.13deals.com/store/categories/s/78-appliances">Appliances</a></li><li><a href="https://www.13deals.com/store/categories/s/79-storage">Storage</a></li><li><a href="https://www.13deals.com/store/categories/s/80-tools-gadgets">Tools &amp; Gadgets</a></li><li><a href="https://www.13deals.com/store/categories/s/81-cookware">Cookware</a></li><li><a href="https://www.13deals.com/store/categories/s/94-preparation">Preparation</a></li></ul></li>
+                                                      
+                                          
+                                                                                    <li class="dropdown"><a class="new dropdown-toggle" href="https://www.13deals.com/store/categories/118-posters-stickers" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Posters &amp; Stickers</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/119-posters">Posters</a></li><li><a href="https://www.13deals.com/store/categories/s/120-wall-clings">Wall Clings</a></li><li><a href="https://www.13deals.com/store/categories/s/121-stickers-decals">Stickers &amp; Decals</a></li><li><a href="https://www.13deals.com/store/categories/s/122-canvas-wall-art">Canvas Wall Art</a></li></ul></li>
+                                                        
+                                          
+                                                                                <li class="dropdown"><a href="https://www.13deals.com/store/categories/26-tools-hardware" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tools &amp; Hardware</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/67-automobile">Automobile</a></li><li><a href="https://www.13deals.com/store/categories/s/68-storage-and-organization">Storage and Organization</a></li><li><a href="https://www.13deals.com/store/categories/s/69-flashlights-lanterns">Flashlights &amp; Lanterns</a></li><li><a href="https://www.13deals.com/store/categories/s/70-emergency-survival">Emergency &amp; Survival</a></li><li><a href="https://www.13deals.com/store/categories/s/71-ropes-fasteners">Ropes &amp; Fasteners</a></li><li><a href="https://www.13deals.com/store/categories/s/100-knives-cutters-sharp-things">Knives, Cutters &amp; Sharp Things</a></li><li><a href="https://www.13deals.com/store/categories/s/101-tools">Tools</a></li><li><a href="https://www.13deals.com/store/categories/s/102-cleaning-supplies">Cleaning Supplies</a></li></ul></li>
+                                                      
+                                          
+                                                                                <li class="dropdown"><a href="https://www.13deals.com/store/categories/27-electronics-accessories" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Electronics &amp; Accessories</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/51-cellphone-accessories">Cellphone Accessories</a></li><li><a href="https://www.13deals.com/store/categories/s/52-audio-mp3-accessories">Audio/MP3 Accessories</a></li><li><a href="https://www.13deals.com/store/categories/s/53-computer-laptop-accessories">Computer &amp; Laptop Accessories</a></li><li><a href="https://www.13deals.com/store/categories/s/54-tablet-e-reader-accessories">Tablet &amp; E-Reader Accessories</a></li><li><a href="https://www.13deals.com/store/categories/s/55-gadgets">Gadgets</a></li><li><a href="https://www.13deals.com/store/categories/s/56-necessities">Necessities</a></li><li><a href="https://www.13deals.com/store/categories/s/123-entertainment">Entertainment</a></li></ul></li>
+                                                      
+                                          
+                                                                                <li class="dropdown"><a href="https://www.13deals.com/store/categories/28-toys-games" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Toys &amp; Games</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/73-board-games-puzzles">Board Games &amp; Puzzles</a></li><li><a href="https://www.13deals.com/store/categories/s/74-gadgets">Gadgets</a></li><li><a href="https://www.13deals.com/store/categories/s/75-novelties-gifts">Novelties &amp; Gifts</a></li><li><a href="https://www.13deals.com/store/categories/s/76-toys">Toys</a></li></ul></li>
+                                                      
+                                                                                                                                                                                                                                                                      
+                                                                                <li class="dropdown visible-xs" "=""><a href="https://www.13deals.com/store/categories/40-garden-patio" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Garden &amp; Patio</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/83-grilling">Grilling</a></li><li><a href="https://www.13deals.com/store/categories/s/84-lawn-garden">Lawn &amp; Garden</a></li><li><a href="https://www.13deals.com/store/categories/s/85-patio-furniture-accessories">Patio Furniture &amp; Accessories</a></li><li><a href="https://www.13deals.com/store/categories/s/86-decor">Decor</a></li><li><a href="https://www.13deals.com/store/categories/s/87-outdoor-lighting">Outdoor Lighting</a></li></ul></li>
+                                                      
+                                          
+                                                                                <li class="dropdown visible-xs" "=""><a href="https://www.13deals.com/store/categories/41-health-beauty" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Health &amp; Beauty</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/59-personal-care">Personal Care</a></li><li><a href="https://www.13deals.com/store/categories/s/60-health-care">Health Care</a></li><li><a href="https://www.13deals.com/store/categories/s/61-makeup-fragrances">Makeup &amp; Fragrances</a></li><li><a href="https://www.13deals.com/store/categories/s/62-spa-massage">Spa &amp; Massage</a></li></ul></li>
+                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                <li class="dropdown visible-xs" "=""><a href="https://www.13deals.com/store/categories/82-office" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Office</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/91-gadgets">Gadgets</a></li><li><a href="https://www.13deals.com/store/categories/s/92-supplies">Supplies</a></li><li><a href="https://www.13deals.com/store/categories/s/93-decor">Decor</a></li></ul></li>
+                                                      
+                                                                                                                                                                                                                                                                                                              
+                                                                                    <li class="visible-xs"><a href="https://www.13deals.com/store/categories/96-travel">Travel</a></li> 
+                                                    
+                                          
+                                                                                <li class="dropdown visible-xs" "=""><a href="https://www.13deals.com/store/categories/97-kids-baby" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Kids &amp; Baby</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/98-toys">Toys</a></li><li><a href="https://www.13deals.com/store/categories/s/99-baby">Baby</a></li></ul></li>
+                                                      
+                                                                                                                                                                                      
+                                                                                <li class="dropdown visible-xs" "=""><a href="https://www.13deals.com/store/categories/105-seasonal" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Seasonal</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/106-halloween">Halloween</a></li><li><a href="https://www.13deals.com/store/categories/s/107-easter">Easter</a></li><li><a href="https://www.13deals.com/store/categories/s/108-valentine-s-day">Valentine\'s Day</a></li><li><a href="https://www.13deals.com/store/categories/s/109-christmas">Christmas</a></li><li><a href="https://www.13deals.com/store/categories/s/110-4th-of-july">4th of July</a></li><li><a href="https://www.13deals.com/store/categories/s/111-mother-s-day">Mother\'s Day</a></li><li><a href="https://www.13deals.com/store/categories/s/112-father-s-day">Father\'s Day</a></li></ul></li>
+                                                      
+                                                                                                                                                                                                                                                  
+                                                                                <li class="dropdown visible-xs" "=""><a href="https://www.13deals.com/store/categories/25-sports-outdoors" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sports &amp; Outdoors</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/35-team-sports">Team Sports</a></li><li><a href="https://www.13deals.com/store/categories/s/63-exercise-fitness">Exercise &amp; Fitness</a></li><li><a href="https://www.13deals.com/store/categories/s/64-gear">Gear</a></li><li><a href="https://www.13deals.com/store/categories/s/65-sports-fan">Sports Fan</a></li><li><a href="https://www.13deals.com/store/categories/s/66-camping-recreation">Camping &amp; Recreation</a></li></ul></li>
+                                                      
+                                                                                                                                              
+                                                                                    <li class="visible-xs"><a href="https://www.13deals.com/store/categories/124-as-seen-on-tv">As Seen On TV</a></li> 
+                                                    
+                                          
+                                              <li class="dropdown hidden-xs more-cat"><a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More Categories »</a>
+                          <ul class="dropdown-menu">
+                                                                              <li class="dropdown-submenu"><a href="https://www.13deals.com/store/categories/40-garden-patio" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Garden &amp; Patio</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/83-grilling">Grilling</a></li><li><a href="https://www.13deals.com/store/categories/s/84-lawn-garden">Lawn &amp; Garden</a></li><li><a href="https://www.13deals.com/store/categories/s/85-patio-furniture-accessories">Patio Furniture &amp; Accessories</a></li><li><a href="https://www.13deals.com/store/categories/s/86-decor">Decor</a></li><li><a href="https://www.13deals.com/store/categories/s/87-outdoor-lighting">Outdoor Lighting</a></li></ul></li>
+                           
+                                                                              <li class="dropdown-submenu"><a href="https://www.13deals.com/store/categories/41-health-beauty" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Health &amp; Beauty</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/59-personal-care">Personal Care</a></li><li><a href="https://www.13deals.com/store/categories/s/60-health-care">Health Care</a></li><li><a href="https://www.13deals.com/store/categories/s/61-makeup-fragrances">Makeup &amp; Fragrances</a></li><li><a href="https://www.13deals.com/store/categories/s/62-spa-massage">Spa &amp; Massage</a></li></ul></li>
+                           
+                                                                              <li class="dropdown-submenu"><a href="https://www.13deals.com/store/categories/82-office" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Office</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/91-gadgets">Gadgets</a></li><li><a href="https://www.13deals.com/store/categories/s/92-supplies">Supplies</a></li><li><a href="https://www.13deals.com/store/categories/s/93-decor">Decor</a></li></ul></li>
+                           
+                                                    
+                            <li><a href="https://www.13deals.com/store/categories/96-travel">Travel</a></li>
+                           
+                                                                              <li class="dropdown-submenu"><a href="https://www.13deals.com/store/categories/97-kids-baby" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Kids &amp; Baby</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/98-toys">Toys</a></li><li><a href="https://www.13deals.com/store/categories/s/99-baby">Baby</a></li></ul></li>
+                           
+                                                                              <li class="dropdown-submenu"><a href="https://www.13deals.com/store/categories/105-seasonal" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Seasonal</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/106-halloween">Halloween</a></li><li><a href="https://www.13deals.com/store/categories/s/107-easter">Easter</a></li><li><a href="https://www.13deals.com/store/categories/s/108-valentine-s-day">Valentine\'s Day</a></li><li><a href="https://www.13deals.com/store/categories/s/109-christmas">Christmas</a></li><li><a href="https://www.13deals.com/store/categories/s/110-4th-of-july">4th of July</a></li><li><a href="https://www.13deals.com/store/categories/s/111-mother-s-day">Mother\'s Day</a></li><li><a href="https://www.13deals.com/store/categories/s/112-father-s-day">Father\'s Day</a></li></ul></li>
+                           
+                                                                              <li class="dropdown-submenu"><a href="https://www.13deals.com/store/categories/25-sports-outdoors" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sports &amp; Outdoors</a><ul class="dropdown-menu"><li><a href="https://www.13deals.com/store/categories/s/35-team-sports">Team Sports</a></li><li><a href="https://www.13deals.com/store/categories/s/63-exercise-fitness">Exercise &amp; Fitness</a></li><li><a href="https://www.13deals.com/store/categories/s/64-gear">Gear</a></li><li><a href="https://www.13deals.com/store/categories/s/65-sports-fan">Sports Fan</a></li><li><a href="https://www.13deals.com/store/categories/s/66-camping-recreation">Camping &amp; Recreation</a></li></ul></li>
+                           
+                                                    
+                            <li><a href="https://www.13deals.com/store/categories/124-as-seen-on-tv">As Seen On TV</a></li>
+                           
+                                                  </ul>
+                        </li>
+                                             
+                </ul>
+              </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+          </nav>
+         
+        </div>
+      </div>
 		</div>
 	</div>
 
-	<div style="margin: 10px 0px 0px 0px"><img src="https://13deals.com/images/top_rail_banners/railgrabbagtext88108.jpg" border="0" alt=""></div>
-
-
-<div id="maincontent" class="background">
-	<div class="container">
-
-		<div id="page">
-        	<div class="sidebar">
-					<div class="ftd-item">
-		<a href="https://www.13deals.com/store/home.php">
-			<div class="imgcrop" style="background-image:url('https://13deals.com/tmb.php?action=auto_shrink&amp;width=320&amp;height=320&amp;file=/images/products/frontbackgearheaddz.jpg');"></div>
-			<div class="itemtitle">Front and Back Seat Rapid Charger by Geared Up - High Speed USB For The Front and Back Seats! 4 total high speed ports, 2 in the front and 2 in the back! Extra long cord makes sure it reaches even in large vehicles! No more arguing over the charge ports! SHIPS FREE!</div>
-			<div class="buy">
-				<table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-					<td><span class="price">$12.49</span> &nbsp;</td>
-					<td><span class="details">More Details »</span></td>
-				</tr></tbody></table>
-			</div>
-		</a>
-	</div>
-	<div class="clear"></div>
-	<div class="spacer"></div>
-	<div class="head">Shop Products</div>
-	<div class="spacer"></div>
-	<ul class="categories">
-			    	<li>
-    		<a href="https://www.13deals.com/store/categories/21-pets">Pets</a>
-		    	</li>
-	    			    	<li>
-    		<a href="https://www.13deals.com/store/categories/22-style-apparel">Style &amp; Apparel</a>
-		    	</li>
-	    			    	<li>
-    		<a href="https://www.13deals.com/store/categories/23-home">Home</a>
-		    	</li>
-	    			    	<li>
-    		<a href="https://www.13deals.com/store/categories/24-kitchen">Kitchen</a>
-		    	</li>
-	    			    	<li>
-    		<a href="https://www.13deals.com/store/categories/118-posters-stickers-more">Posters, Stickers &amp; More</a>
-		    	</li>
-	    			    	<li>
-    		<a href="https://www.13deals.com/store/categories/26-tools-hardware">Tools &amp; Hardware</a>
-		    	</li>
-	    			    	<li>
-    		<a href="https://www.13deals.com/store/categories/27-electronics-accessories">Electronics &amp; Accessories</a>
-		    	</li>
-	    			    	<li>
-    		<a href="https://www.13deals.com/store/categories/28-toys-games">Toys &amp; Games</a>
-		    	</li>
-	    																																				    	<li>
-    		<a href="https://www.13deals.com/store/categories/40-garden-patio">Garden &amp; Patio</a>
-		    	</li>
-	    			    	<li>
-    		<a href="https://www.13deals.com/store/categories/41-health-beauty">Health &amp; Beauty</a>
-		    	</li>
-	    																																																																																																																								    	<li>
-    		<a href="https://www.13deals.com/store/categories/82-office">Office</a>
-		    	</li>
-	    																																										    	<li>
-    		<a href="https://www.13deals.com/store/categories/96-travel">Travel</a>
-		    	</li>
-	    			    	<li>
-    		<a href="https://www.13deals.com/store/categories/97-kids-baby">Kids &amp; Baby</a>
-		    	</li>
-	    																								    	<li>
-    		<a href="https://www.13deals.com/store/categories/105-seasonal">Seasonal</a>
-		    	</li>
-	    																																	    	<li>
-    		<a href="https://www.13deals.com/store/categories/25-sports-outdoors">Sports &amp; Outdoors</a>
-		    	</li>
-	    																		    	<li>
-    		<a href="https://www.13deals.com/store/categories/124-as-seen-on-tv">As Seen On TV</a>
-		    	</li>
-	    			<li class="more"><a href="https://www.13deals.com/store/products">See all products »</a></li>
-    </ul>
-    <div class="spacer"></div>
-    <div class="price">
-    	<!-- if currently a selected price, add class "active" -->
-    	<a href="https://www.13deals.com/store/items.php?filter_by_price=10" class="ten">Under<span>$10</span></a>
-        <a href="https://www.13deals.com/store/items.php?filter_by_price=20" class="twenty">Under<span>$20</span></a>
-        <a href="https://www.13deals.com/store/items.php?filter_by_price=50" class="fifty">Under<span>$50</span></a>
-        <div class="clear"></div>
+<div id="site-bnr">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12"><img src="https://13deals.com/images/top_rail_banners/railgrabbagtext88108.jpg" border="0" alt=""></div>
     </div>
-    <div class="spacer"></div>
-        <div class="head">Collections</div>
-    <ul class="collections">
-    	    	<li><a href="https://www.13deals.com/store/collections/105-candy">Candy!<br><img src="https://13deals.com/tmb.php?action=auto_shrink&amp;width=192&amp;file=images/collections/titled/Candy-Sale.jpg"></a></li>
-    	    </ul>
-    	<div style="text-align:right;"><a href="https://www.13deals.com/store/home.php">See today's featured item! »</a></div>
-	<div class="ad">
-            		<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<!-- 13Deals Item Page -->
-		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-0182038323841621" data-ad-slot="1105920323"></ins>
-		<script>
-		(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>
-            	</div>
-			 </div>
-			 <div class="content middle_content faq">
-					<h3>Privacy Policy</h3>
-						<div id="top"></div>
-						<h1 id="general-privacy-policy">Our General Privacy Policy</h1>
+  </div>
+</div>
+
+
+<div id="maincontent">
+  <div class="container">
+
+    <div class="row">  
+        <div class="col-xs-12 col-md-9 col-md-push-3">
+          <div class="row">
+            <div class="col-xs-12 col-md-4 col-md-push-8">
+              <div id="top"></div>
+              <h3 class="visible-xs">Privacy Policy</h3>
+              <div class="sidebar">
+                <div class="head">Frequently Asked Questions</div>
+                <ul class="links">
+                  <li><a href="faq.php#who-are-you">Who are you?</a></li>
+                  <li><a href="faq.php#how-do-you-ship">How do you ship?</a></li>
+                  <li><a href="faq.php#can-i-return-it">Can I return it?</a></li>
+                  <li><a href="faq.php#i-have-an-issue">I have an issue.</a></li>
+                  <li><a href="faq.php#rewards">Rewards redemption</a></li>
+                </ul>
+                <div class="head">Contact us</div>
+                <ul class="links">
+                  <li><a href="about.php">Let's talk about it.</a></li>
+                </ul>
+                <div class="head">Shipping</div>
+                <ul class="links">
+                  <li><a href="faq.php#how-do-you-ship">The short answer</a></li>
+                  <li><a href="shipping.php">The long answer</a></li>
+                </ul>
+                <div class="head">Returns</div>
+                <ul class="links">
+                  <li><a href="faq.php#can-i-return-it">Basic info</a></li>
+                  <li><a href="returns.php">More details</a></li>
+                </ul>
+                <div class="head">Privacy Policy</div>
+                <ul class="links">
+                  <li><a href="privacy.php#general-privacy-policy">General Privacy Policy</a></li>
+                  <li><a href="privacy.php#product-information">Product information</a></li>
+                  <li><a href="privacy.php#copyright">Copyright</a></li>
+                  <li><a href="privacy.php#payment-information">Payment information</a></li>
+                  <li><a href="privacy.php#shipping-information">Shipping information</a></li>
+                </ul>
+                <div class="head">Partners</div>
+                <ul class="links">
+                  <li><a href="about.php">Can I buy wholesale?</a></li>
+                  <li><a href="about.php">Can I sell my stuff on your site?</a></li>
+                  <li><a href="about.php">Do you have an affiliate program?</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-md-8 col-md-pull-4">
+              <div id="page" class="faq">
+                <h3 class="hidden-xs">Privacy Policy</h3>
+
+                <h1 id="general-privacy-policy">Our General Privacy Policy</h1>
 							<p>13 Deals is a Jammin' Butter property.</p>
 							<p>This Privacy Policy tells you how we collect information when you visit 13 Deals, or if you purchase a product from us. </p>
 							<p>At 13 Deals, we understand the importance of your personal information. We ensure that we comply with this obligation, to you (our valued customers). </p>
@@ -307,24 +257,23 @@ ga('send', 'pageview');
 							<p>13 Deals relies on word-of-mouth of customers and friends to let it be known about our total awesomeness. To keep you up-to-date on new products and
 							special deals/promotions, we do send occasional emails about promotions and newly listed items. In accordance with the CAN-SPAM Act 2003, we shall only send you
 							emails with your prior consent and shall be happy to remove you from our mailing list should you no longer wish to receive our promotional information.
-							To remove yourself, please go <a href="newsletter.php?unsubscribe=1">here</a> and enter in your email address.</p>
-							<p>[<a href="#top">Back to top</a>]</p>
+							To remove yourself, please go <a href="newsletter.php?unsubscribe=1">here</a> and enter in your email address.<span>[<a href="#top">Back to top</a>]</span></p>
 						<h1 id="product-information">Product Information</h1>
 							<p>All products listed on www.13Deals.com are described to the best of our abilities, and the specifications reflect the information that has been provided to us.
 							All care is taken to ensure this information is correct, but we cannot eliminate the possibility of human error. Should such an error occur, please let us
-							know (that way we can make all things right with the world). You can do so <a href="about.php">here</a>. [<a href="#top">Back to top</a>]</p>
+							know (that way we can make all things right with the world). You can do so <a href="about.php">here</a>. <span>[<a href="#top">Back to top</a>]</span></p>
 						<h1 id="copyright">Copyright</h1>
 							<p>The descriptions of our products are the copyright property of 13 Deals, and specifically you may not use that description as the description
 							of the product should you choose to re-sell the items elsewhere (we know you guys are clever and are more than capable of coming up with your own material).
-							[<a href="#top">Back to top</a>]</p>
+							<span>[<a href="#top">Back to top</a>]</span></p>
 						<h1 id="payment-information">Payment Information</h1>
 							<p>All orders are prepaid. It is our policy to bill at the point of sale. If your order becomes backordered for longer than 30 days,
 							we will credit your original payment method in full. All orders must be paid for in US Dollars (and are priced as such). Please note that we do not store your
-							credit card information on our server, unless you choose otherwise. [<a href="#top">Back to top</a>]</p>
+							credit card information on our server, unless you choose otherwise. <span>[<a href="#top">Back to top</a>]</span></p>
 						<h1 id="shipping-information">Shipping Information</h1>
 							<p>The cost of shipping is clearly indicated for each product ordered, and is included in the invoice total. Orders are generally processed within 72 hours and shipped
 							within 10 days of purchase (unless otherwise stated). We cannot be held responsible for delays brought about by the Postal System, Courier Service Delays, the weather, etc.
-							For more information regarding our shipping policies, please feel free to view our shipping policy in full <a href="shipping.php">here</a>. [<a href="#top">Back to top</a>]</p>
+							For more information regarding our shipping policies, please feel free to view our shipping policy in full <a href="shipping.php">here</a>. <span>[<a href="#top">Back to top</a>]</span></p>
 						<h1 id="in-more-detail">In More Detail</h1>
 							<h2>What information do we collect?</h2>
 								<p>We collect information from you when you register on our site, place an order, or subscribe to our newsletter.</p>
@@ -379,246 +328,463 @@ ga('send', 'pageview');
 								<p>If we decide to change our privacy policy, we will post those changes on this page.</p>
 								<p>This policy was last modified on 5/17/2013.</p>
 							<h2>Contacting Us</h2>
-								<p>If there are any questions regarding this privacy policy you may contact us using the information on our contact page</p>
-								<p>[<a href="#top">Back to top</a>]</p>
-						<p style="text-align:center;">
+								<p>If there are any questions regarding this privacy policy you may contact us using the information on our contact page.<span>[<a href="#top">Back to top</a>]</span></p>
+                
+                <p class="alert alert-info">
 							Please note that 13 Deals and/or Jammin' Butter may revise these terms at any time. Use of this website is subject to
-							the revised terms. This Privacy Policy was last revised on September 18, 2013.</p>
-				</div>
-             	<div class="sidebar right_sidebar">
-                    <div class="head">Frequently Asked Questions</div>
-                	<ul class="links">
-                    	<li><a href="faq.php#who-are-you">Who are you?</a></li>
-                        <li><a href="faq.php#how-do-you-ship">How do you ship?</a></li>
-                        <li><a href="faq.php#can-i-return-it">Can I return it?</a></li>
-                        <li><a href="faq.php#i-have-an-issue">I have an issue.</a></li>
-                        <li><a href="faq.php#rewards">Rewards redemption</a></li>
-                    </ul>
-					<div class="head">Contact us</div>
-					<ul class="links">
-						<li><a href="about.php">Let's talk about it.</a></li>
-					</ul>
-					<div class="head">Shipping</div>
-					<ul class="links">
-						<li><a href="faq.php#how-do-you-ship">The short answer</a></li>
-						<li><a href="shipping.php">The long answer</a></li>
-					</ul>
-					<div class="head">Returns</div>
-					<ul class="links">
-						<li><a href="faq.php#can-i-return-it">Basic info</a></li>
-						<li><a href="returns.php">More details</a></li>
-					</ul>
-					<div class="head">Privacy Policy</div>
-					<ul class="links">
-						<li><a href="privacy.php#general-privacy-policy">General Privacy Policy</a></li>
-						<li><a href="privacy.php#product-information">Product information</a></li>
-						<li><a href="privacy.php#copyright">Copyright</a></li>
-						<li><a href="privacy.php#payment-information">Payment information</a></li>
-						<li><a href="privacy.php#shipping-information">Shipping information</a></li>
-					</ul>
-					<div class="head">Partners</div>
-					<ul class="links">
-						<li><a href="about.php">Can I buy wholesale?</a></li>
-						<li><a href="about.php">Can I sell my stuff on your site?</a></li>
-						<li><a href="about.php">Do you have an affiliate program?</a></li>
-					</ul>
-                </div>
-               <div class="clear"></div>
+              the revised terms.</p>
+            <p> This Privacy Policy was last revised on September 18, 2013.</p>
+              </div>
             </div>
-
-		</div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-md-3 col-md-pull-9">
+          <div class="sidebar">
+            <h3 class="visible-xs">Anyway, here's our featured deal for today:</h3>
+	<div class="ftd-item">
+		<a href="https://www.13deals.com/store/home.php">
+			<div class="imgcrop" style="background-image:url('https://13deals.com/tmb.php?action=auto_shrink&amp;width=320&amp;height=320&amp;file=/images/products/615cpPeBeQL._SL1500_.jpg');"></div>
+			<div class="itemtitle">Ultra Bright 4-Mode 500 Lumen Work Light With USB Charging Port - This means you can charge your USB devices from this light! - SHIPS FREE!</div>
+			<div class="buy row">
+        <div class="col-xs-6">
+          <span class="price">$9.49</span> &nbsp;
+        </div>
+        <div class="col-xs-6">
+          <span class="details btn">More Details »</span>
+        </div>
+			</div>
+		</a>
 	</div>
-	<div class="clear"></div><div id="footer">
+	<div class="clearfix"></div>
+  
+  <div class="spacer"></div>
+  <div class="head">Shop Products</div>
+  <div class="spacer"></div>
+  <ul class="categories">
+			    	<li>
+    		<a href="https://www.13deals.com/store/categories/21-pets">Pets</a>
+            	</li>
+	  			    	<li>
+    		<a href="https://www.13deals.com/store/categories/22-style-apparel">Style &amp; Apparel</a>
+            	</li>
+	  			    	<li>
+    		<a href="https://www.13deals.com/store/categories/23-home">Home</a>
+            	</li>
+	  			    	<li>
+    		<a href="https://www.13deals.com/store/categories/24-kitchen">Kitchen</a>
+            	</li>
+	  			    	<li>
+    		<a href="https://www.13deals.com/store/categories/118-posters-stickers-more">Posters, Stickers &amp; More</a>
+            	</li>
+	  			    	<li>
+    		<a href="https://www.13deals.com/store/categories/26-tools-hardware">Tools &amp; Hardware</a>
+            	</li>
+	  			    	<li>
+    		<a href="https://www.13deals.com/store/categories/27-electronics-accessories">Electronics &amp; Accessories</a>
+            	</li>
+	  			    	<li>
+    		<a href="https://www.13deals.com/store/categories/28-toys-games">Toys &amp; Games</a>
+            	</li>
+	  																																				    	<li>
+    		<a href="https://www.13deals.com/store/categories/40-garden-patio">Garden &amp; Patio</a>
+            	</li>
+	  			    	<li>
+    		<a href="https://www.13deals.com/store/categories/41-health-beauty">Health &amp; Beauty</a>
+            	</li>
+	  																																																																																																																								    	<li>
+    		<a href="https://www.13deals.com/store/categories/82-office">Office</a>
+            	</li>
+	  																																										    	<li>
+    		<a href="https://www.13deals.com/store/categories/96-travel">Travel</a>
+            	</li>
+	  			    	<li>
+    		<a href="https://www.13deals.com/store/categories/97-kids-baby">Kids &amp; Baby</a>
+            	</li>
+	  																								    	<li>
+    		<a href="https://www.13deals.com/store/categories/105-seasonal">Seasonal</a>
+            	</li>
+	  																																	    	<li>
+    		<a href="https://www.13deals.com/store/categories/25-sports-outdoors">Sports &amp; Outdoors</a>
+            	</li>
+	  																		    	<li>
+    		<a href="https://www.13deals.com/store/categories/124-as-seen-on-tv">As Seen On TV</a>
+            	</li>
+	  			<li class="more"><a href="https://www.13deals.com/store/products">See all products »</a></li>
+  </ul>
+
+<div class="spacer"></div>
+    
+  <div class="price">
+    <!-- if currently a selected price, add class "active" -->
+    <a href="https://www.13deals.com/store/items.php?filter_by_price=10" class="ten">Under<span>$10</span></a>
+      <a href="https://www.13deals.com/store/items.php?filter_by_price=20" class="twenty">Under<span>$20</span></a>
+      <a href="https://www.13deals.com/store/items.php?filter_by_price=50" class="fifty">Under<span>$50</span></a>
+      <div class="clearfix"></div>
+  </div>
+
+<div class="spacer"></div>
+    
+    <div class="head">Collections</div>
+  <ul class="collections">
+        <li>
+      <a href="https://www.13deals.com/store/collections/112-map-collection">
+        Map Collection<br>
+        <img src="https://www.13deals.com/images/collections/titled/Mapscollection1.jpg" class="img-responsive">
+      </a>
+    </li>
+        <li>
+      <a href="https://www.13deals.com/store/collections/113-everything-5-sale">
+        Everything $5 Sale<br>
+        <img src="https://www.13deals.com/images/collections/titled/e5sale.jpg" class="img-responsive">
+      </a>
+    </li>
+      </ul>
+      
+	<div style="text-align:right;"><a href="https://www.13deals.com/store/home.php">See today's featured item! »</a></div>
+  <br><br>
+	<fieldset class="ad hidden-xs">
+    <legend>Advertisement</legend>
+    		<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- 13Deals Item Page -->
+		<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-0182038323841621" data-ad-slot="1105920323"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+    	</fieldset>
+          </div>
+        </div>
+    </div>
+  </div>
+</div><div id="footer">
 		<div class="container">
-						<div class="subscribe-container">
+						<div class="row subscribe-container">
 				<div class="subscribe">
 	<h3>Like what you're seeing?</h3>
 	<p>Subscribe to our newsletter and get notified of new deals every day.</p>
-	<form id="frmNewsletterSubscribe" method="post" action="newsletter.php" name="newsletter-form">
+  <form id="frmNewsletterSubscribe" method="post" action="newsletter.php" name="newsletter-form" class="form-inline">
 		<input type="hidden" name="subscribe_newsletter" value="1">
-		<input type="text" id="newsletter" name="newsletter_email" value="Email address" class="validate[required,custom[email],length[0,100]] newsletter" onfocus="if (this.value == 'Email address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Email address';}">
-		<input type="button" class="submitnewsletter" value="Subscribe" onclick="$('#frmNewsletterSubscribe').submit()">
+    <div class="col-xs-8 col-md-3 col-md-offset-3 p-r-0">
+      <div class="form-group">
+        <label for="newsletter" class="sr-only">E-mail address</label>
+        <input type="text" id="newsletter" name="newsletter_email" value="E-mail address" class="form-control" onfocus="if (this.value == 'E-mail address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'E-mail address';}" data-rule-required="true" data-rule-email="true" data-rule-rangelength="6,100">
+      </div>
+    </div>
+    <div class="col-xs-4 col-md-2 p-l-0">
+      <input type="button" class="submitnewsletter btn " value="Subscribe" id="btnNewsLetter">
+    </div>
+    <div class="clearfix"></div>
 	</form>
 </div>			</div>
-						<div class="categories">
-														    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/21-pets">Pets</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/33-cat">Cat</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/37-dog">Dog</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/42-toys">Toys</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/43-treats">Treats</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/44-collars-and-leashes">Collars and Leashes</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/45-grooming">Grooming</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/88-apparel">Apparel</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/90-bedding">Bedding</a><br>
-																					    	 </div>
-				    												    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/22-style-apparel">Style &amp; Apparel</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/34-watches">Watches</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/36-for-men">For Men</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/46-for-women">For Women</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/47-jewelry">Jewelry</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/48-head-hands-and-feet">Head, Hands, and Feet</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/49-bags">Bags</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/50-eyewear">Eyewear</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/95-clothing">Clothing</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/116-kids">Kids</a><br>
-																					    	 </div>
-				    												    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/23-home">Home</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/29-furniture">Furniture</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/30-decor">Decor</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/31-clocks-alarms">Clocks &amp; Alarms</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/32-lighting">Lighting</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/39-bedding">Bedding</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/57-storage-organization">Storage &amp; Organization</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/58-home-improvement">Home Improvement</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/89-bath">Bath</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/103-crafting-more">Crafting &amp; More</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/104-safety">Safety</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/114-essentials">Essentials</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/115-cleaning">Cleaning</a><br>
-																					    	 </div>
-				    												    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/24-kitchen">Kitchen</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/38-food">Food</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/77-dining">Dining</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/78-appliances">Appliances</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/79-storage">Storage</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/80-tools-gadgets">Tools &amp; Gadgets</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/81-cookware">Cookware</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/94-preparation">Preparation</a><br>
-																					    	 </div>
-				    												    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/118-posters-stickers-more">Posters, Stickers &amp; More</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/119-posters">Posters</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/120-wall-clings">Wall Clings</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/121-stickers-decals">Stickers &amp; Decals</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/122-canvas-wall-art">Canvas Wall Art</a><br>
-																					    	 </div>
-				    												    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/26-tools-hardware">Tools &amp; Hardware</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/67-automobile">Automobile</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/68-storage-and-organization">Storage and Organization</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/69-flashlights-lanterns">Flashlights &amp; Lanterns</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/70-emergency-survival">Emergency &amp; Survival</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/71-ropes-fasteners">Ropes &amp; Fasteners</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/100-knives-cutters-sharp-things">Knives, Cutters &amp; Sharp Things</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/101-tools">Tools</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/102-cleaning-supplies">Cleaning Supplies</a><br>
-																					    	 </div>
-				    												    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/27-electronics-accessories">Electronics &amp; Accessories</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/51-cellphone-accessories">Cellphone Accessories</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/52-audio-mp3-accessories">Audio/MP3 Accessories</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/53-computer-laptop-accessories">Computer &amp; Laptop Accessories</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/54-tablet-e-reader-accessories">Tablet &amp; E-Reader Accessories</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/55-gadgets">Gadgets</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/56-necessities">Necessities</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/123-entertainment">Entertainment</a><br>
-																					    	 </div>
-				    												    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/28-toys-games">Toys &amp; Games</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/73-board-games-puzzles">Board Games &amp; Puzzles</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/74-gadgets">Gadgets</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/75-novelties-gifts">Novelties &amp; Gifts</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/76-toys">Toys</a><br>
-																					    	 </div>
-				    																																																																																																															    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/40-garden-patio">Garden &amp; Patio</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/83-grilling">Grilling</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/84-lawn-garden">Lawn &amp; Garden</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/85-patio-furniture-accessories">Patio Furniture &amp; Accessories</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/86-decor">Decor</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/87-outdoor-lighting">Outdoor Lighting</a><br>
-																					    	 </div>
-				    												    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/41-health-beauty">Health &amp; Beauty</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/59-personal-care">Personal Care</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/60-health-care">Health Care</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/61-makeup-fragrances">Makeup &amp; Fragrances</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/62-spa-massage">Spa &amp; Massage</a><br>
-																					    	 </div>
-				    																																																																																																																																																																																																																																																																																																																																																																											    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/82-office">Office</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/91-gadgets">Gadgets</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/92-supplies">Supplies</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/93-decor">Decor</a><br>
-																					    	 </div>
-				    																																																																																																																																	    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/96-travel">Travel</a></span><br>
-								    	 </div>
-				    												    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/97-kids-baby">Kids &amp; Baby</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/98-toys">Toys</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/99-baby">Baby</a><br>
-																					    	 </div>
-				    																																																																											    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/105-seasonal">Seasonal</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/106-halloween">Halloween</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/107-easter">Easter</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/108-valentine-s-day">Valentine's Day</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/109-christmas">Christmas</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/110-4th-of-july">4th of July</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/111-mother-s-day">Mother's Day</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/112-father-s-day">Father's Day</a><br>
-																					    	 </div>
-				    																																																																																																						    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/25-sports-outdoors">Sports &amp; Outdoors</a></span><br>
-																								<a href="https://www.13deals.com/store/categories/s/35-team-sports">Team Sports</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/63-exercise-fitness">Exercise &amp; Fitness</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/64-gear">Gear</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/65-sports-fan">Sports Fan</a><br>
-																										<a href="https://www.13deals.com/store/categories/s/66-camping-recreation">Camping &amp; Recreation</a><br>
-																					    	 </div>
-				    																																																									    	<div class="col col7">
-			    		<span class="head"><a href="https://www.13deals.com/store/categories/124-as-seen-on-tv">As Seen On TV</a></span><br>
-								    	 </div>
-				    											<div class="clear"></div>
+			      
+			<div class="row categories">
+														    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/21-pets">Pets</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/33-cat">Cat</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/37-dog">Dog</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/42-toys">Toys</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/43-treats">Treats</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/44-collars-and-leashes">Collars and Leashes</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/45-grooming">Grooming</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/88-apparel">Apparel</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/90-bedding">Bedding</a></li>
+                                            </ul>
+            			    	</div>
+            				  												    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/22-style-apparel">Style &amp; Apparel</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/34-watches">Watches</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/36-for-men">For Men</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/46-for-women">For Women</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/47-jewelry">Jewelry</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/48-head-hands-and-feet">Head, Hands, and Feet</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/49-bags">Bags</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/50-eyewear">Eyewear</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/95-clothing">Clothing</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/116-kids">Kids</a></li>
+                                            </ul>
+            			    	</div>
+            				  												    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/23-home">Home</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/29-furniture">Furniture</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/30-decor">Decor</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/31-clocks-alarms">Clocks &amp; Alarms</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/32-lighting">Lighting</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/39-bedding">Bedding</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/57-storage-organization">Storage &amp; Organization</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/58-home-improvement">Home Improvement</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/89-bath">Bath</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/103-crafting-more">Crafting &amp; More</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/104-safety">Safety</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/114-essentials">Essentials</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/115-cleaning">Cleaning</a></li>
+                                            </ul>
+            			    	</div>
+            				  												    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/24-kitchen">Kitchen</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/38-food">Food</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/77-dining">Dining</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/78-appliances">Appliances</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/79-storage">Storage</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/80-tools-gadgets">Tools &amp; Gadgets</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/81-cookware">Cookware</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/94-preparation">Preparation</a></li>
+                                            </ul>
+            			    	</div>
+                          <div class="clearfix"></div>
+            				  												    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/118-posters-stickers-more">Posters, Stickers &amp; More</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/119-posters">Posters</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/120-wall-clings">Wall Clings</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/121-stickers-decals">Stickers &amp; Decals</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/122-canvas-wall-art">Canvas Wall Art</a></li>
+                                            </ul>
+            			    	</div>
+            				  												    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/26-tools-hardware">Tools &amp; Hardware</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/67-automobile">Automobile</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/68-storage-and-organization">Storage and Organization</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/69-flashlights-lanterns">Flashlights &amp; Lanterns</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/70-emergency-survival">Emergency &amp; Survival</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/71-ropes-fasteners">Ropes &amp; Fasteners</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/100-knives-cutters-sharp-things">Knives, Cutters &amp; Sharp Things</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/101-tools">Tools</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/102-cleaning-supplies">Cleaning Supplies</a></li>
+                                            </ul>
+            			    	</div>
+            				  												    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/27-electronics-accessories">Electronics &amp; Accessories</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/51-cellphone-accessories">Cellphone Accessories</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/52-audio-mp3-accessories">Audio/MP3 Accessories</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/53-computer-laptop-accessories">Computer &amp; Laptop Accessories</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/54-tablet-e-reader-accessories">Tablet &amp; E-Reader Accessories</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/55-gadgets">Gadgets</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/56-necessities">Necessities</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/123-entertainment">Entertainment</a></li>
+                                            </ul>
+            			    	</div>
+            				  												    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/28-toys-games">Toys &amp; Games</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/73-board-games-puzzles">Board Games &amp; Puzzles</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/74-gadgets">Gadgets</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/75-novelties-gifts">Novelties &amp; Gifts</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/76-toys">Toys</a></li>
+                                            </ul>
+            			    	</div>
+                          <div class="clearfix"></div>
+            				  																																																																																																															    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/40-garden-patio">Garden &amp; Patio</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/83-grilling">Grilling</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/84-lawn-garden">Lawn &amp; Garden</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/85-patio-furniture-accessories">Patio Furniture &amp; Accessories</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/86-decor">Decor</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/87-outdoor-lighting">Outdoor Lighting</a></li>
+                                            </ul>
+            			    	</div>
+            				  												    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/41-health-beauty">Health &amp; Beauty</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/59-personal-care">Personal Care</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/60-health-care">Health Care</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/61-makeup-fragrances">Makeup &amp; Fragrances</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/62-spa-massage">Spa &amp; Massage</a></li>
+                                            </ul>
+            			    	</div>
+            				  																																																																																																																																																																																																																																																																																																																																																																											    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/82-office">Office</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/91-gadgets">Gadgets</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/92-supplies">Supplies</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/93-decor">Decor</a></li>
+                                            </ul>
+            			    	</div>
+            				  																																																																																																																																	    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/96-travel">Travel</a></h6>
+            			    	</div>
+                          <div class="clearfix"></div>
+            				  												    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/97-kids-baby">Kids &amp; Baby</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/98-toys">Toys</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/99-baby">Baby</a></li>
+                                            </ul>
+            			    	</div>
+            				  																																																																											    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/105-seasonal">Seasonal</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/106-halloween">Halloween</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/107-easter">Easter</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/108-valentine-s-day">Valentine's Day</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/109-christmas">Christmas</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/110-4th-of-july">4th of July</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/111-mother-s-day">Mother's Day</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/112-father-s-day">Father's Day</a></li>
+                                            </ul>
+            			    	</div>
+            				  																																																																																																						    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/25-sports-outdoors">Sports &amp; Outdoors</a></h6>
+                          <ul>
+                                              <li><a href="https://www.13deals.com/store/categories/s/35-team-sports">Team Sports</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/63-exercise-fitness">Exercise &amp; Fitness</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/64-gear">Gear</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/65-sports-fan">Sports Fan</a></li>
+                                                              <li><a href="https://www.13deals.com/store/categories/s/66-camping-recreation">Camping &amp; Recreation</a></li>
+                                            </ul>
+            			    	</div>
+            				  																																																									    	<div class="col-xs-12 col-sm-6 col-md-3">
+              <h6><a href="https://www.13deals.com/store/categories/124-as-seen-on-tv">As Seen On TV</a></h6>
+            			    	</div>
+                          <div class="clearfix"></div>
+            				  											<div class="clearfix"></div>
 			</div>
-			<div class="footer">
-						    <div class="col col4">
-					<span class="head"><a name="collections">Shop Collections</a></span><br>
-		    			    		<a href="https://www.13deals.com/store/collections/105-candy">Candy!</a><br>
-		    			    	</div>
-		    				<div class="col col4">
-					<span class="head"><a href="http://www.13deals.com/store/about.php">About 13Deals</a></span><br>
-					<a href="http://www.13deals.com/store/about.php">About Us</a><br>
-					<a href="http://www.13deals.com/store/about.php">Contact Us</a><br>
-					<a href="http://www.13deals.com/store/about.php">Vendor Opportunities</a><br>
-					<!-- <a href="http://www.jamminbutter.com/wholesale/">Wholesale</a><br /> -->
-<!--					<a href="#RSSFEED">RSS Feed</a><br />-->
+      
+			<div class="row footer">
+						  <div class="col-xs-12 col-sm-6 col-md-3">
+					<h6><a name="collections">Shop Collections</a></h6>
+            <ul>
+                          <li><a href="https://www.13deals.com/store/collections/112-map-collection">Map Collection</a></li>
+                          <li><a href="https://www.13deals.com/store/collections/113-everything-5-sale">Everything $5 Sale</a></li>
+                        </ul>
+		    	</div>
+		    				<div class="col-xs-12 col-sm-6 col-md-3">
+          <h6><a href="https://www.13deals.com/store/about.php">About 13Deals</a></h6>
+          <ul>
+            <li><a href="https://www.13deals.com/store/about.php">About Us</a></li>
+            <li><a href="https://www.13deals.com/store/about.php">Contact Us</a></li>
+            <li><a href="https://www.13deals.com/store/about.php">Vendor Opportunities</a></li>
+            <!-- <li><a href="http://www.jamminbutter.com/wholesale/">Wholesale</a></li> -->
+          </ul>
 				</div>
-				<div class="col col4">
-					<span class="head"><a href="faq.php">Customers</a></span><br>
-					<a href="http://www.13deals.com/store/faq.php">FAQ</a><br>
-					<a href="http://www.13deals.com/store/privacy.php">Privacy Policy</a><br>
-					<a href="http://www.13deals.com/store/returns.php">Return Policy</a><br>
-					<a href="http://www.13deals.com/store/shipping.php">Shipping Policy</a><br>
-					<a href="http://support.jamminbutter.com/">Customer Support</a><br>
+				<div class="col-xs-12 col-sm-6 col-md-3">
+          <h6><a href="faq.php">Customers</a></h6>
+          <ul>
+            <li><a href="https://www.13deals.com/store/faq.php">FAQ</a></li>
+            <li><a href="https://www.13deals.com/store/privacy.php">Privacy Policy</a></li>
+            <li><a href="https://www.13deals.com/store/returns.php">Return Policy</a></li>
+            <li><a href="https://www.13deals.com/store/shipping.php">Shipping Policy</a></li>
+            <li><a href="http://support.jamminbutter.com/">Customer Support</a></li>
+          </ul>
 				</div>
-				<div class="col col4">
+				<div class="col-xs-12 col-sm-6 col-md-3">
 					<div class="social">
-                    	<a href="http://www.facebook.com/13Deals" target="_blank" class="fb">Facebook</a>
-                        <a href="http://www.twitter.com/13Deals" target="_blank" class="twitter">Twitter</a>
-                        <a href="http://pinterest.com/source/13deals.com/" target="_blank" class="pinterest">Pinterest</a>
-                        <div class="clear"></div>
-                    </div>
+            <a href="http://www.facebook.com/13Deals" target="_blank" class="fb">Facebook</a>
+            <a href="http://www.twitter.com/13Deals" target="_blank" class="twitter">Twitter</a>
+            <a href="http://pinterest.com/source/13deals.com/" target="_blank" class="pinterest">Pinterest</a>
+            <div class="clearfix"></div>
+          </div>
 				</div>
-				<div class="clear"></div>
+				<div class="clearfix"></div>
 			</div>
+      <div class="visible-xs text-center p-b-15">
+        Copyright © 2008 - 2019 <br> 13deals.com - A Jammin' Butter Property
+      </div>
 		</div>
-		<div class="bottom">Copyright © 2008-2018 13deals.com - A Jammin' Butter Property</div>
+    <div class="container-fluid p-0">
+      <div class="bottom text-center">
+        <div class="container">
+        <span class="hidden-xs">Copyright © 2008 - 2019 13deals.com - A Jammin' Butter Property</span>
+        <div class="checkout-now" style="display: none;">
+          <a href="https://www.13deals.com/store/checkout.php">Ready to check out? Just click here!</a>
+        </div>
+        
+        </div>
+      </div>
+    </div>
 	</div>
 
-	<script type="text/javascript">
-	  (function() {
-		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-		po.src = 'https://apis.google.com/js/plusone.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-	  })();
+
+<div id="item_added_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="item_addedLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="item_addedLabel">Item added to cart</h4>
+      </div>
+      <div class="modal-body">
+        
+      </div>
+      <div class="modal-footer">
+        <a href="https://www.13deals.com/store/checkout.php" class="btn btn-primary" style="text-decoration: none;">Go to checkout</a>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Continue shopping</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+	<script src="https://www.13deals.com/store/js/slides.min.jquery.js?v=1427133560" type="text/javascript"></script>
+	<script src="https://www.13deals.com/store/js/jquery.colorbox-min.js?v=1560448689" type="text/javascript"></script>
+
+	<script type="text/javascript" src="https://www.13deals.com/store/js/aviaSlider/jquery.aviaSlider.min.js?v=1427133563"></script>
+
+	<script type="text/javascript" src="https://www.13deals.com/store/js/gui.js?v=1560448689"></script>
+  <script src="https://www.13deals.com/store/js/clipboard.min.js?v=1504633304"></script>
+
+
+<script type="text/javascript">
+// Wait for window load
+$(window).on('load', function(e) {
+    // will first fade out the loading animation
+    $(".status").fadeOut();
+    // will fade out the whole DIV that covers the website.
+    $(".preloader").delay(100).fadeOut("slow"); 
+});
+</script>  
+  
+  
+  <!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '188369921678442'); // Insert your pixel ID here.
+	fbq('track', 'PageView');
 	</script>
-	<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=188369921678442&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->			
+			
+<!-- Alex M360 code -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-21195725-2', 'auto');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+</script>
+
+ <!-- PayPal BEGIN -->
+ <script>
+     ;(function(a,t,o,m,s){a[m]=a[m]||[];a[m].push({t:new Date().getTime(),event:'snippetRun'});var f=t.getElementsByTagName(o)[0],e=t.createElement(o),d=m!=='paypalDDL'?'&m='+m:'';e.async=!0;e.src='https://www.paypal.com/tagmanager/pptm.js?id='+s+d;f.parentNode.insertBefore(e,f);})(window,document,'script','paypalDDL','48b1ebdf-0ee8-41bd-9b97-97751bd29f25');
+   </script>
+ <!-- PayPal END -->
+ 
+ 
+<!-- Tapfiliate code start -->
+<script src="//static.tapfiliate.com/tapfiliate.js" type="text/javascript" async=""></script>
+<script type="text/javascript">
+  window['TapfiliateObject'] = i = 'tap';
+  window[i] = window[i] || function () {
+      (window[i].q = window[i].q || []).push(arguments);
+  };
+
+  tap('create', '1394-d2b341');
+  tap('detectClick');
+</script>
+<!-- Tapfiliate code end -->
 
 <!-- Google Code for Remarketing Tag -->
 <!--------------------------------------------------
@@ -639,26 +805,7 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 
-<!-- begin olark code -->
-<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
-f[z]=function(){
-(a.s=a.s||[]).push(arguments)};var a=f[z]._={
-},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
-f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
-0:+new Date};a.P=function(u){
-a.p[u]=new Date-a.p[0]};function s(){
-a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
-hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
-return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
-b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
-b.contentWindow[g].open()}catch(w){
-c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
-var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
-b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
-loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-/* custom configuration goes here (www.olark.com/documentation) */
-olark.identify('1116-763-10-4914');/*]]>*/</script><noscript><a href="https://www.olark.com/site/1116-763-10-4914/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
-<!-- end olark code -->
+
 <!-- begin of Addroll pixel -->
 <script type="text/javascript">
     adroll_adv_id = "N6F2FB5YJRBRBISMJBDWGE";
@@ -683,5 +830,20 @@ olark.identify('1116-763-10-4914');/*]]>*/</script><noscript><a href="https://ww
 
 </script>
 <!-- end of Addroll pixel -->
+ 
+  <script src="https://www.13deals.com/store/fasttrack/js/assets/js/jquery.validate.min.js?v=1560448686"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8.11.6/dist/sweetalert2.all.min.js" integrity="sha256-ttiMZgTnoJ5vAX3HIEJKEGeQX7YX38vKDqGKHshPR4k=" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="https://www.13deals.com/store/js/13D.js?v=1560448689"></script>
+	<script type="text/javascript" src="https://www.13deals.com/store/js/scripts.js?v=1448582460"></script>
+
+	<script type="text/javascript">
+	  (function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script>
+	<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
   
 </body></html>
