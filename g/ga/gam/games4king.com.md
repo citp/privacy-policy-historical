@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games4king.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210140032id_/http%3A//games4king.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games4king.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613055643id_/http%3A//games4king.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games4King - New Best Escape Games Every Day
 
