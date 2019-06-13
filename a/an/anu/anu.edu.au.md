@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anu.edu.au privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231001541id_/http%3A//www.anu.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anu.edu.au privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613190744id_/http%3A//www.anu.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - ANU
 
@@ -25,7 +25,7 @@ ANU is an 'agency' for the purposes of the Privacy Act 1988 (Cth) and as such co
 
 ## Disclosure statement
 
-  1. The Australian National University (ANU) is a world-leading university in Australia's capital Canberra which is situated in the Australian Capital Territory. The ANU website is located at: <http://www.anu.edu.au/>. You can reach us on +61 2 6125 5111.
+  1. The Australian National University (ANU) is a world-leading university in Australia's capital Canberra which is situated in the Australian Capital Territory. The ANU website is located at: [http://www.anu.edu.au/](https://www.anu.edu.au/). You can reach us on +61 2 6125 5111.
 
   2. ANU recognises that your privacy is very important to you. As an 'agency' within the meaning of the Privacy Act 1988 (Cth), ANU complies with the obligations of the Privacy Act including the Australian Privacy Principles (APPs) which govern the way we collect, use, disclose, secure and dispose of your personal information.  A copy of the APP's may be obtained from the website of the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/).
 
