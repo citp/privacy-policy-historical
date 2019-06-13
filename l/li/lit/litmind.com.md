@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litmind.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227212655id_/http%3A//www.litmind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litmind.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613102248id_/https%3A//www.litmind.com/privacy) for the most accurate reproduction.*
 
 # Privacy and data protection
 
@@ -6,7 +6,11 @@ Litmind has been from its beginning compliant with the spanish LOPD law, which b
 
 Starting on May 25th, 2018, Litmind is also compliant with the GDPR, here are all the details about how we collect, treat and store your data. 
 
-  *     * ## 1.1. Here's a list of all the information we store about our users
+  *     * ## 
+
+1.1
+
+Here's a list of all the information we store about our users
 
       * Name, first name and second name, if you provided them
       * Gender, when it's relevant
@@ -47,10 +51,17 @@ Starting on May 25th, 2018, Litmind is also compliant with the GDPR, here are al
       * Users can open a support ticket to request for help or solve their questions. We store the information they provide us through those tickets.
       * We use cookies in order to be able to identify the user securely and give him access to his account in a way that we can be sure it’s him, an no one else, who is requesting the access. We store the identifier of those cookies for that purpose.
 
-    * ## 1.2.
+    * ## 
+
+1.2
 
 Some of this information is not required to be entered in certain cases, or is not requested to the user in some other cases. Only the data that is relevant to the user profile type is requested. For example: We do not ask for the gender of a company representative because it’s not relevant to the profile of the company, but we do require it for models because it’s relevant, for example, when we notify them about castings that are only aimed to a specific gender.
-    * ## 1.3. Statistical information
+
+    * ## 
+
+1.3
+
+Statistical information
 
 To understand how our users use Litmind, and to improve our service, we store information about the number of visits, page views and similar statistical information. This information is not specific for each user: we do not track the visits or the behaviour of individual users. Instead, we gather data that is not linked to specific users. Additionally, **we do not use Google Analytics in Litmind, so we do not support nor participate in the gathering of information Google does of users that visit sites using their technology**. Instead, we use an open source analytics tool (Matomo) that anonymises the IPs so they’re never linked to a specific user. Following this policy of anonymous statistical information, we keep historical track and store the following data: 
 
@@ -62,55 +73,102 @@ To understand how our users use Litmind, and to improve our service, we store in
 
   * We do not share any information of our users with anyone. If we ever need to do it (for example, if we were to organise a fashion photography contest that is managed by another company specialised in such events), we would ask each user individually clearly, with an opt-in checkbox you would need to click in order to give us permission.
 
-  *     * ## 3.1.
+  *     * ## 
+
+3.1
 
 Litmind is a project owned by Lorenzo Herrera, with Identification number 39898734J, and postal address P.O.Box 257, ZIP 43840, Salou (Spain). We’re available at info@litmind.com, but we recommend you to [create a support ticket](https://www.litmind.com/support) for a faster communication.
-    * ## 3.2.
+
+    * ## 
+
+3.2
 
 Litmind stores your information during all the time you keep your account active. When you cancel your account, according to the spanish LOPD law, we’re required to hold your information for at least 2 years. When that happens, your information is completely removed from the internet so it’s not published anywhere, but we keep it in a safe database where it is exclusively available for legal purposes and to public administrations, judges and courts, under a legal request.
-    * ## 3.3.
+
+    * ## 
+
+3.3
 
 The statistical information related to your activity at Litmind is not removed from our database, but is dissociated from your identity so we can keep historical information that is helpful to us, but it’s no longer linked to you in any way. For example: We want to know how many people published castings on January 2013, but we won’t be able to know who did it, or the contents of the casting itself, if the user has cancelled his account. I.e: When you cancel your account, we only know that “someone” published “some casting” on January 2013.
-    * ## 3.4.
+
+    * ## 
+
+3.4
 
 Our servers are located in Roubaix and Gravelines, two beautiful small towns in France where OVH, our technical partner, has setup secure and powerful data centres. We put all our efforts to store your information in a secure way.
+
   * Of course, you have the right to do whatever you need with the information we have of you, here’s the complete list of your rights:
 
-    * ## 4.1. Right to be informed
+    * ## 
+
+4.1
+
+Right to be informed
 
 Whenever you need, we'll let you know any information at our hand about the data we hold about you, and a list of all the data we're storing about you.
 
-    * ## 4.2. Right of access
+    * ## 
+
+4.2
+
+Right of access
 
 You can access all the information whe store about you, and it’s as simple as logging in to your account at Litmind. Also, of course, It's free.
 
-    * ## 4.3. Right of rectification
+    * ## 
+
+4.3
+
+Right of rectification
 
 You can change the information we have about your. That might seem obvious, but you already know that you can change your profile, your photos, and anything else via your [account menu at Litmind](https://litmind.com/account)
 
-    * ## 4.4. Right of erasure
+    * ## 
+
+4.4
+
+Right of erasure
 
 Of course, you can remove any information we have of you. Again, it’s as easy as accessing your account at Litmind. You'll be able to change anything there, or to completely cancel your account if you wish.
 
-    * ## 4.5. Right to restrict processing
+    * ## 
+
+4.5
+
+Right to restrict processing
 
 This means you can ask us to stop using your information in any way, but still keeping it in our databases. If you ever need to do that, we have added the option to put your profile in “Invisible mode”, which does precisely that.
 
-    * ## 4.6. Right to data portability
+    * ## 
+
+4.6
+
+Right to data portability
 
 That means you can ask us to transfer or copy your data to another company when one of our tools requires it in order to get some benefit. For example, imagine we were to offer you a tool that allows you to connect your Facebook account to your Litmind profile. You would have the right to do so, and we would need to ask you for permission. We’ve never done anything like that, but if we ever do, we’ll let you know. 
 
-    * ## 4.7. Right to object
+    * ## 
+
+4.7
+
+Right to object
 
 The relevant part of this right for us is that you can request us to stop sending you marketing emails. You can always configure what emails and communications you want to receive from us from the “Notifications” section in your account. Also, we always ask you for permission first whenever we need such things. The other two cases contemplated in the law by this right are much more bizarre and do not apply directly to Litmind (the objection to us using your data for legal purposes if we ever needed to, or for scientific/historical research), but you can also object to them in your “Privacy” settings.
 
-    * ## 4.8. Right not to be subject to automated decision-making, including profiling
+    * ## 
+
+4.8
+
+Right not to be subject to automated decision-making, including profiling
 
 Automated decision-making or profiling refers to what some sites do by taking the information they have about you and trying to guess your tastes, your personal preferences, or even to predict your behaviour in their site in order to, for example, give you specific discounts, or show you banners tailored to you. If we ever need to do something like that, we'll ask for your permission.
 
-    * ## 4.9.
+    * ## 
+
+4.9
 
 If you’re having trouble accessing any of your information, if you have any additional question, if you want to cancel your account and can’t find the option to do so, or if you want to change any information we have of you and couldn’t find it in your account at Litmind, let us know via email at info@litmind.com, or even better: [create a support ticket](https://www.litmind.com/support)
+
   * Prior to May 25th 2018, all Litmind users will be required to review this new privacy terms, which are of required acceptance in order to keep using Litmind. We ask you to read and understand them, we’re available for any question you might have at info@litmind.com and via [our support system](https://www.litmind.com/support)
 
 You will receive an email from us in that regard, and the next time you access your Litmind account you’ll be required to read, understand and accept this terms in order to keep using Litmind, along with some additional opt-in checkboxes that will allow you to tell us how you want us to treat your data in compliance with the GDPR. 
