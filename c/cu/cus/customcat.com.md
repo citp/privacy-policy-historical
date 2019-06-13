@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customcat.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212121451id_/http%3A//customcat.com%3Ft%3Dh.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customcat.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613153346id_/http%3A//www.customcat.com%3Ft%3Dh.privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CustomCat.com
 
