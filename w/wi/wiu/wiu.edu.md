@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the wiu.edu privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506232532id_/http%3A//www.wiu.edu/vpas/policies/webprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiu.edu privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613131522id_/http%3A//www.wiu.edu/vpas/policies/webprivacy.php) for the most accurate reproduction.*
 
 # Policies - Administrative Services - Western Illinois University
 
 File Code: TECH.WEBPRIVACY.POL  
 Approval Date: 3/28/2011  
+Revised: 8/15/2015  
 Approved By: President
 
 ### Web Privacy Policy
@@ -136,4 +137,4 @@ Personal information that contains inaccuracies or that needs to be updated shou
 
 #### Questions
 
-For questions about this privacy notice or if personal data has been compromised or improperly handled, contact the University Auditor at (309) 298-1664 or [I-Auditing@wiu.edu](mailto:I-Auditing@wiu.edu) or the Office of the Chief Technology Security Officer at (309) 298- 4500 or [MA-Rodriguez@wiu.edu](mailto:MA-Rodriguez@wiu.edu). For requests made under the Freedom of Information Act (FOIA) contact the University FOIA officer at (309) 298-1993 or [DR-Shinberger@wiu.edu](mailto:DR-Shinberger@wiu.edu).
+For questions about this privacy notice or if personal data has been compromised or improperly handled, contact the University Auditor at (309) 298-1664 or [I-Auditing@wiu.edu](mailto:I-Auditing@wiu.edu) or the Office of the Chief Technology Security Officer at (309) 298-4500. For requests made under the Freedom of Information Act (FOIA) contact the University FOIA officer at [wiufoia@wiu.edu](mailto:wiufoia@wiu.edu).
