@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payvand.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209142127id_/http%3A//www.payvand.com/payvand-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payvand.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613093626id_/http%3A//www.payvand.com/payvand-privacy-policy.html) for the most accurate reproduction.*
 
 # Payvand.com Privacy Policy
 
