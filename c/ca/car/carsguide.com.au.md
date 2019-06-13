@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905141026id_/https%3A//www.carsguide.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613093050id_/https%3A//www.carsguide.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CarsGuide
 
@@ -44,7 +44,7 @@ This site uses Google Analytics to collect anonymous, aggregated audience data i
 
 This site uses Eyeota to capture anonymous data about our users for segmentation and audience remarketing purposes. No personal information is captured in this process. For more information about how Eyeota works and to opt-out of this service, follow the following link: <http://www.eyeota.com/privacy.html>
 
-This site uses Nielsen/NetRatings web analytics tools to measure and analyse internet usage. The data collected does not identify a user personally.
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>.
 
 **Information from Other Sources.**   We may supplement the information we collect with information from other sources, such as commercially available sources and data providers, surveys, as well as information from our business partners or related and affiliated companies in Australia or internationally.
 
@@ -139,7 +139,7 @@ DriveChat Privacy Policy: [http://www.drivechat.com.au/privacy](http://www.driv
 If you need to contact us about anything in this Privacy Policy, please contact our Privacy Officer at:  
 Customer Service Representative  
 Cox Australia Media Solutions Pty Ltd  
-[Contact us](https://web.archive.org/web/20180905141026id_/https%3A//www.carsguide.com.au/contact) through [this online form](https://web.archive.org/web/20180905141026id_/https%3A//www.carsguide.com.au/contact)  
+[Contact us](https://web.archive.org/web/20190613093050id_/https%3A//www.carsguide.com.au/contact) through [this online form](https://web.archive.org/web/20190613093050id_/https%3A//www.carsguide.com.au/contact)  
 Tel: 1300 662 133
 
 Users of our Carsguide website can contact [support@carsguide.com.au](mailto:support@carsguide.com.au).  
