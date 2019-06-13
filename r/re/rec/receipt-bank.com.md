@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the receipt-bank.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212173452id_/https%3A//www.receipt-bank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the receipt-bank.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613030709id_/https%3A//www.receipt-bank.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Receipt Bank
+# Privacy Policy | Receipt Bank UK
+
+[Receipt Bank](https://web.archive.org/ "Receipt Bank")
 
 Last updated: 5th April 2018
 
@@ -44,27 +46,27 @@ We will take all steps reasonably necessary to ensure that personal data is trea
 
 ## What Information do we collect?
 
- **Information provided when Users sign up on the Site or an App.** When Users register for a subscription through the Site or an App (or update any information previously given to us), we collect personal details which can include: ‎ names, postal addresses, email addresses, phone numbers, fax numbers, usernames, passwords and demographic information (for example, a User’s occupation).
+**Information provided when Users sign up on the Site or an App.  **When Users register for a subscription through the Site or an App (or update any information previously given to us), we collect personal details which can include: ‎ names, postal addresses, email addresses, phone numbers, fax numbers, usernames, passwords and demographic information (for example, a User’s occupation).
 
- **Information provided through use of the Receipt Bank Products.** When using the Receipt Bank Products, Users may provide us with additional personal data that might be contained on any receipts, invoices and other items that they submit to us through the Receipt Bank Products. Users may also provide us with personal data which relates not only to Users themselves, but also certain third party individuals. We will treat such data in accordance with this Policy. Users may also provide us with certain personal data when they report a problem with the Receipt Bank Products or send us any other information either directly on the Site or via the Apps.
+**Information provided through use of the Receipt Bank Products.** When using the Receipt Bank Products, Users may provide us with additional personal data that might be contained on any receipts, invoices and other items that they submit to us through the Receipt Bank Products. Users may also provide us with personal data which relates not only to Users themselves, but also certain third party individuals. We will treat such data in accordance with this Policy. Users may also provide us with certain personal data when they report a problem with the Receipt Bank Products or send us any other information either directly on the Site or via the Apps.
 
- **Information Users submit to blogs, boards, or discussion forums.** If Users choose to participate in commenting on any blogs or posting on our board or forums on the Site, they may submit certain Personal Information to us. Please also note that Personal Information that Users submit in this way can be read, collected, or used by other Users. As Users control what they submit, we are not responsible for the information (including Personal Information) they choose to submit to blogs, discussion boards or forums we host. We urge Users to be very careful when deciding to submit their Personal Information in this fashion.
+**Information Users submit to blogs, boards, or discussion forums.**  If Users choose to participate in commenting on any blogs or posting on our board or forums on the Site, they may submit certain Personal Information to us. Please also note that Personal Information that Users submit in this way can be read, collected, or used by other Users. As Users control what they submit, we are not responsible for the information (including Personal Information) they choose to submit to blogs, discussion boards or forums we host. We urge Users to be very careful when deciding to submit their Personal Information in this fashion.
 
- **Information we get from others.** We may get personal data about Users from other sources. As an example of how we might get personal data other than via the Apps or the Site – we might collect certain information Users have uploaded to their accounting software when any Receipt Bank Product is integrated with that software. We may add this to information we get from this Site or the Apps or otherwise through Users’ use of the Receipt Bank Products.
+**Information we get from others.**  We may get personal data about Users from other sources. As an example of how we might get personal data other than via the Apps or the Site – we might collect certain information Users have uploaded to their accounting software when any Receipt Bank Product is integrated with that software. We may add this to information we get from this Site or the Apps or otherwise through Users’ use of the Receipt Bank Products.
 
- **Information automatically collected through the Site and the Apps.** Each time Users visit the Site or use the Apps we may automatically collect the following information:
+**Information automatically collected through the Site and the Apps.** Each time Users visit the Site or use the Apps we may automatically collect the following information:
 
-  *  **Technical Information** – this includes the type of mobile or tablet device Users use, a unique device identifier (for example, a device's IMEI number, the MAC address of the device's wireless network interface, or the mobile phone number used on a device), network information, operating system, the browser, and time zone settings.
+  * **Technical Information**  – this includes the type of mobile or tablet device Users use, a unique device identifier (for example, a device’s IMEI number, the MAC address of the device’s wireless network interface, or the mobile phone number used on a device), network information, operating system, the browser, and time zone settings.
   *  **Content Information** – this includes information stored on Users’ devices such as contact information, friends lists, login information, photos, videos or other digital content.
-  *  **Usage Information** – this includes: web traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise; the resources that Users access; the website(s) visited before browsing to the Site, pages viewed, how long spent on a page, access times; and other information about use of and actions on our Site.
+  *  **Usage Information**  – this includes: web traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise; the resources that Users access; the website(s) visited before browsing to the Site, pages viewed, how long spent on a page, access times; and other information about use of and actions on our Site.
 
 
 
- **Testimonials and Feedback.** Receipt Bank does not post any personal data relating to its Users along with testimonials, unless we have been given permission to do so by the User. We get in touch with our Users to confirm that they are happy for their personal data to be posted on our Site before anything is posted to request their permission to do so. Users may submit or ask us to withdraw a testimonial by contacting us [here](mailto:support@receipt-bank.com).
+**Testimonials and Feedback.**  Receipt Bank does not post any personal data relating to its Users along with testimonials, unless we have been given permission to do so by the User. We get in touch with our Users to confirm that they are happy for their personal data to be posted on our Site before anything is posted to request their permission to do so. Users may submit or ask us to withdraw a testimonial by contacting us [here](mailto:support@receipt-bank.com).
 
 ## Cookies
 
-We may log and collect certain personal data using "Cookies". Cookies are small data files stored on Users’ hard drives by a website. We may use both session Cookies (which expire once Users close their web browser) and persistent Cookies (which stay on Users’ computers or devices until they delete them) to provide Users with a more personal and interactive experience on our Site and the Apps. This type of information is collected to distinguish different Users of the Apps or the Site. This helps us to provide Users with a good experience when they use the Apps or browse the Site. It also allows us to improve the Apps and the Site to make them more useful and to tailor each User's experience to meet their special interests and needs.
+We may log and collect certain personal data using “Cookies”. Cookies are small data files stored on Users’ hard drives by a website. We may use both session Cookies (which expire once Users close their web browser) and persistent Cookies (which stay on Users’ computers or devices until they delete them) to provide Users with a more personal and interactive experience on our Site and the Apps. This type of information is collected to distinguish different Users of the Apps or the Site. This helps us to provide Users with a good experience when they use the Apps or browse the Site. It also allows us to improve the Apps and the Site to make them more useful and to tailor each User’s experience to meet their special interests and needs.
 
 Please note that the Cookies that we may use include both Cookies we place and those which are placed by our third party partners – these are commonly referred to as “third party Cookies”. Third party Cookies are Cookies that are set by a domain other than the one being visited by the User – for example, if an individual visits the Site and a company other than Receipt Bank sets a cookie through the Site, this would be a third party cookie.
 
@@ -72,7 +74,7 @@ Some of the Cookies we place are essential to allow us to provide certain aspect
 
 ## Analytics Services
 
-We may use third party analytics services (“Analytics Services”), to help analyse how Users use our Site and the Apps. The information generated by the Cookies or other technologies about Users use of the Receipt Bank Products (the “Analytics Information”) is transmitted to the Analytics Services. The Analytics Services use Analytics Information to compile reports on User activity. The Analytics Services may also transfer the Analytics Information to third parties where required to do so by law, or where such third parties process Analytics Information on their behalf. Each Analytics Service’s ability to use and share Analytics Information is restricted by such Analytics Service’s particular Terms of Use and Privacy Policy. By using the Receipt Bank Products, Users consent to the processing of their personal data by Analytics Services in the manner and for the purposes set out above. For a full list of Analytics Services we use, please contact us at [support@receipt-bank.com](mailto:support@receipt%E2%80%91bank.com).
+We may use third party analytics services (“Analytics Services”), to help analyse how Users use our Site and the Apps. The information generated by the Cookies or other technologies about Users use of the Receipt Bank Products (the “Analytics Information”) is transmitted to the Analytics Services. The Analytics Services use Analytics Information to compile reports on User activity. The Analytics Services may also transfer the Analytics Information to third parties where required to do so by law, or where such third parties process Analytics Information on their behalf. Each Analytics Service’s ability to use and share Analytics Information is restricted by such Analytics Service’s particular Terms of Use and Privacy Policy. By using the Receipt Bank Products, Users consent to the processing of their personal data by Analytics Services in the manner and for the purposes set out above. For a full list of Analytics Services we use, please contact us at [support@receipt-bank.com](mailto:support@receipt%E2%80%91bank.com).
 
 ## How Personal Information is secured
 
@@ -80,22 +82,22 @@ Personal data on Receipt Bank is protected by an email address and password logi
 
 Only employees or service providers that need to access personal data (such as customer service representatives or our data processing teams) will have access to personal data. Receipt Bank takes reasonable steps to ensure that it keeps all employees informed and reminded of privacy and security practices.
 
-We seek to use reasonable organisational, technical and administrative measures to protect personal data within our organisation. Unfortunately, no transmission or storage system can be guaranteed to be completely secure, and transmission of information via the internet is not completely secure. If a User has any reason to believe that their interaction with us is no longer secure (for example, if they feel that the security of their account might have been compromised), they should notify us of this problem immediately by contacting us [here](mailto:support@receipt-bank.com).
+We seek to use reasonable organisational, technical and administrative measures to protect personal data within our organisation. Unfortunately, no transmission or storage system can be guaranteed to be completely secure, and transmission of information via the internet is not completely secure. If a User has any reason to believe that their interaction with us is no longer secure (for example, if they feel that the security of their account might have been compromised), they should notify us of this problem immediately by contacting us [here](mailto:support@receipt-bank.com).
 
 We note that retention time can also impact the security of personal data and should be considered. In compliance with our obligations under the Data Protection Legislation, we only retain Users’ personal data for so long as necessary to meet the purposes for which it was collected.
 
 ## Sharing of Personal Information
 
-Receipt Bank does not use Users' personal data to introduce them to third parties.
+Receipt Bank does not use Users’ personal data to introduce them to third parties.
 
 However, we may share certain personal data as follows:
 
-  *  **Users’ accountants and bookkeepers.** If a User is using any Receipt Bank Product that has been made available to them by a service provider who has signed as one of our partners (e.g., their accountant or bookkeeper), then all personal data uploaded by such Users will be available to that partner and its authorised employees and agents who have access to the relevant partner dashboard site.
-  *  **Other third parties.** We may share Users’ personal data with our third party service providers who need it to do work for us. For example:
+  * **Users’ accountants and bookkeepers.**  If a User is using any Receipt Bank Product that has been made available to them by a service provider who has signed as one of our partners (e.g., their accountant or bookkeeper), then all personal data uploaded by such Users will be available to that partner and its authorised employees and agents who have access to the relevant partner dashboard site.
+  *  **Other third parties.**  We may share Users’ personal data with our third party service providers who need it to do work for us. For example:
     * As described above, we may share information with Analytics Services that assist us in the improvement and optimisation of our Site and Apps.
     * As described below, we may make available Users’ personal data to our third party data processing team who are based outside the EEA.
-  *  **Corporate restructuring.** We may share personal data when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
-  *  **Other disclosures.** We may share personal data for legal, protection, and safety purposes, in accordance with this Policy:
+  *  **Corporate restructuring.**  We may share personal data when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
+  *  **Other disclosures.**  We may share personal data for legal, protection, and safety purposes, in accordance with this Policy:
     * We may share personal data to comply with laws or to allow us to enforce the terms of this Policy and/or our then current Terms and Conditions.
     * We may share information to respond to lawful requests and legal processes.
     * We may share personal data to protect the rights and property of Receipt Bank, our agents, customers, and others. This includes enforcing our agreements, policies and Terms and Conditions.
@@ -111,7 +113,7 @@ All the personal data Receipt Bank stores about its Users is stored on servers b
 
 Users should note that, although their personal data is stored in the EEA, Receipt Bank’s data extraction team, certain members of which are based outside the EEA, receive access to the content uploaded via the Receipt Bank Products. Members of our data extraction team are not given access to any personal data beyond any data which is outlined on any submitted items themselves – for example, they may be able to see a User’s name or address that is present on an invoice, but they will not have access to any other information about that User. Receipt Bank imposes strict contractual obligations on its data extraction team to ensure data on any submitted items is secure, protected and treated in accordance with this Policy.
 
-As a modern company, Receipt Bank uses various cloud-based systems and tools, including certain customer relationship management and marketing automation services (“Tools”) to allow us to provide the Receipt Bank Products to our Users quickly and efficiently. For example, to help us manage our client relationships, we use software provided by internationally renowned companies such as Salesforce (NYSE:CRM) and HubSpot (NYSE:HUBS). As part of our use of the Tools, certain limited client and User profile information is sent to the providers of the Tools, some of whom are based outside the EEA. Where Users' personal data is sent by Receipt Bank to Tool providers based outside the EEA, we ensure such transfers are conducted in accordance with Receipt Bank’s obligations under the Data Protection Legislation.
+As a modern company, Receipt Bank uses various cloud-based systems and tools, including certain customer relationship management and marketing automation services (“Tools”) to allow us to provide the Receipt Bank Products to our Users quickly and efficiently. For example, to help us manage our client relationships, we use software provided by internationally renowned companies such as Salesforce (NYSE:CRM) and HubSpot (NYSE:HUBS). As part of our use of the Tools, certain limited client and User profile information is sent to the providers of the Tools, some of whom are based outside the EEA. Where Users’ personal data is sent by Receipt Bank to Tool providers based outside the EEA, we ensure such transfers are conducted in accordance with Receipt Bank’s obligations under the Data Protection Legislation.
 
 By accepting this Policy, Users’ agree to the transfer of their personal data outside the EEA in accordance with the practices described in this Policy. We will take all steps reasonably necessary to ensure that such personal data is treated securely and in accordance with this Policy.
 
@@ -119,115 +121,14 @@ By accepting this Policy, Users’ agree to the transfer of their personal data 
 
 The Data Protection Legislation requires that we have a clear legal basis for processing your personal data. To be open and transparent with you in respect of our use of your personal data, here are the legal bases for our processing:
 
- **Category(ies) of personal data involved**
-
-| 
-
- **Purpose/use**
-
-| 
-
- **Legal basis for processing**  
-  
+**Category(ies) of personal data involved**|  **Purpose/use**|  **Legal basis for processing**  
 ---|---|---  
-  
-  * Information provided when Users sign up on the Site or an App.
-  * Information provided through use of the Receipt Bank Products. 
-  * Information Users submit to blogs, boards, or discussion forums.
-  * Information we get from others.
-  * Information automatically collected through the Site and the Apps.
-  * Technical Information.
-  * Content Information.
-  * Usage Information.
-  * Testimonials and Feedback.
-
-| 
-
-To provide, operate, maintain, and improve the Receipt Bank Products.
-
-| 
-
-Contractual necessity – without being able to process your personal data as described in this Policy, we would not be able to perform the contract with you that is formed under our Terms and Conditions.   
-  
-  * Information provided when Users sign up on the Site or an App.
-  * Information provided through use of the Receipt Bank Products. 
-  * Information Users submit to blogs, boards, or discussion forums.
-  * Information we get from others.
-  * Information automatically collected through the Site and the Apps.
-  * Technical Information.
-  * Usage Information.
-  * Testimonials and Feedback.
-
-| 
-
-To provide customer service
-
-| 
-
-Contractual necessity (see above).  
-  
-  * Information provided when Users sign up on the Site or an App.
-  * Information Users submit to blogs, boards, or discussion forums.
-  * Information we get from others.
-  * Information automatically collected through the Site and the Apps.
-  * Testimonials and Feedback.
-
-| 
-
-To communicate upcoming features, developments, and news relating to the Receipt Bank Products.
-
-| 
-
-Consent – you have authorised us to contact you for certain specified purposes.  
-  
-  * Information provided when Users sign up on the Site or an App.
-  * Information provided through use of the Receipt Bank Products. 
-  * Information Users submit to blogs, boards, or discussion forums.
-  * Information we get from others.
-  * Information automatically collected through the Site and the Apps.
-  * Technical Information.
-  * Content Information.
-  * Usage Information.
-
-| 
-
-To protect, investigate, and deter against fraudulent, unauthorised, or illegal activity.
-
-| 
-
-Legitimate interests – Receipt Bank has a legitimate interest in ensuring that we can protect and secure the Services and our Products.  
-  
-  * Information provided when Users sign up on the Site or an App.
-  * Information provided through use of the Receipt Bank Products. 
-  * Information Users submit to blogs, boards, or discussion forums.
-  * Information we get from others.
-  * Information automatically collected through the Site and the Apps.
-  * Technical Information.
-  * Content Information.
-  * Usage Information.
-  * Testimonials and Feedback.
-
-| 
-
-To provide and deliver any other products and services that Users request.
-
-| 
-
-Contractual necessity (see above).  
-  
-  * Information provided when Users sign up on the Site or an App.
-  * Information provided through use of the Receipt Bank Products. 
-  * Information we get from others.
-  * Information automatically collected through the Site and the Apps.
-  * Technical Information.
-
-| 
-
-To allow accountants and bookkeepers who use the Receipt Bank Products to contact their clients.
-
-| 
-
-Contractual necessity (see above).  
+Information provided when Users sign up on the Site or an App.Information provided through use of the Receipt Bank Products. Information Users submit to blogs, boards, or discussion forums.Information we get from others.Information automatically collected through the Site and the Apps.Technical Information.Content Information.Usage Information.Testimonials and Feedback.| To provide, operate, maintain, and improve the Receipt Bank Products.| Contractual necessity – without being able to process your personal data as described in this Policy, we would not be able to perform the contract with you that is formed under our Terms and Conditions.  
+Information provided when Users sign up on the Site or an App.Information provided through use of the Receipt Bank Products. Information Users submit to blogs, boards, or discussion forums.Information we get from others.Information automatically collected through the Site and the Apps.Technical Information.Usage Information.Testimonials and Feedback.| To provide customer service| Contractual necessity (see above).  
+Information provided when Users sign up on the Site or an App.Information Users submit to blogs, boards, or discussion forums.Information we get from others.Information automatically collected through the Site and the Apps.Testimonials and Feedback.| To communicate upcoming features, developments, and news relating to the Receipt Bank Products.| Consent – you have authorised us to contact you for certain specified purposes.  
+Information provided when Users sign up on the Site or an App.Information provided through use of the Receipt Bank Products. Information Users submit to blogs, boards, or discussion forums.Information we get from others.Information automatically collected through the Site and the Apps.Technical Information.Content Information.Usage Information.| To protect, investigate, and deter against fraudulent, unauthorised, or illegal activity.| Legitimate interests – Receipt Bank has a legitimate interest in ensuring that we can protect and secure the Services and our Products.  
+Information provided when Users sign up on the Site or an App.Information provided through use of the Receipt Bank Products. Information Users submit to blogs, boards, or discussion forums.Information we get from others.Information automatically collected through the Site and the Apps.Technical Information.Content Information.Usage Information.Testimonials and Feedback.| To provide and deliver any other products and services that Users request.| Contractual necessity (see above).  
+Information provided when Users sign up on the Site or an App.Information provided through use of the Receipt Bank Products. Information we get from others.Information automatically collected through the Site and the Apps.Technical Information.| To allow accountants and bookkeepers who use the Receipt Bank Products to contact their clients.| Contractual necessity (see above).  
   
 ## Automated Decision Making and Profiling.
 
@@ -243,7 +144,7 @@ We may use Anonymous Data for a number of purposes, which could include disclosi
 
 ## Users choices about privacy
 
-Users may always opt not to disclose certain personal data, but that may mean that they will not be able to access certain Receipt Bank Products. For example, a User's name and email address are necessary to complete the registration process.
+Users may always opt not to disclose certain personal data, but that may mean that they will not be able to access certain Receipt Bank Products. For example, a User’s name and email address are necessary to complete the registration process.
 
 If Users have a complaint about this Policy, please send it via email to [here](mailto:support@receipt-bank.com). Users’ complaints will be filed and reviewed by a qualified member of the Receipt Bank team. If required, Users will receive a response to their message as soon as possible.
 
@@ -255,7 +156,7 @@ Receipt Bank will notify Users by sending an email to the email address they hav
 
 ## Email communications
 
-Although we do not use Users’ personal data to send them marketing emails, we may still send non- marketing emails. Non-marketing emails include emails about Users’ accounts and our business dealings with them - for example, if any part of the Receipt Bank Products is temporarily disrupted or suspended or if there are any upcoming features or developments to the Receipt Bank Products we need to communicate. In addition, please note that all Users will receive an automatic welcome email necessary to complete their registration process.
+Although we do not use Users’ personal data to send them marketing emails, we may still send non- marketing emails. Non-marketing emails include emails about Users’ accounts and our business dealings with them – for example, if any part of the Receipt Bank Products is temporarily disrupted or suspended or if there are any upcoming features or developments to the Receipt Bank Products we need to communicate. In addition, please note that all Users will receive an automatic welcome email necessary to complete their registration process.
 
 If Users do not wish to receive these communications, they have the option of deactivating their account. Users may request that their account be deleted or deactivated from Receipt Bank by sending an email [here](mailto:support@receipt-bank.com).
 
@@ -263,21 +164,21 @@ If Users do not wish to receive these communications, they have the option of de
 
 The Data Protection Legislation gives you certain rights in respect of your personal data (these are listed below). Receipt Bank has put in place policies and procedures to ensure that it respects those rights. If you wish to exercise any of these rights, please contact us at and make clear: (i) what personal data is concerned; and (ii) which of the rights below you would like to enforce.
 
-  *  **Opt-out.** Users may contact us at any time to opt out of: (i) direct marketing communications (if applicable); (ii) automated decision making and/or profiling (if applicable); (iii) any new processing or your personal data we carry out beyond the original purpose for which we collected (which will be as described in this Policy); or (iv) the transfer of your personal data outside the EEA. Please note that your use of some of the Services may be ineffective upon opt-out – for example, if you opt out of the transfer of your personal data to parties outside the EEA, we will not be able to provide you with the vital services that our data extraction teams provide.
-  *  **Access.** You may access the personal data we hold about you at any time by contacting us directly at support@receiptbank.com.
-  *  **Amend.** You can also contact us to update or correct any inaccuracies in your personal data.
-  *  **Move.** Your personal data is portable – i.e., you to have the flexibility to move your personal data to other service providers as you wish. This means that we are required to keep that personal data in a commonly-used, interoperable format to facilitate this transfer between providers. Please note that this right extends only to your personal data, it does not cover all information provided to or extracted from Transactions uploaded to our Services.
-  *  **Erase and forget.** In certain situations, for example when the personal data we hold about you is no longer relevant or is incorrect, you can request that we erase such personal data.
+  * **Opt-out.  **Users may contact us at any time to opt out of: (i) direct marketing communications (if applicable); (ii) automated decision making and/or profiling (if applicable); (iii) any new processing or your personal data we carry out beyond the original purpose for which we collected (which will be as described in this Policy); or (iv) the transfer of your personal data outside the EEA. Please note that your use of some of the Services may be ineffective upon opt-out – for example, if you opt out of the transfer of your personal data to parties outside the EEA, we will not be able to provide you with the vital services that our data extraction teams provide.
+  *  **Access.  **You may access the personal data we hold about you at any time by contacting us directly at support@receiptbank.com.
+  *  **Amend.  **You can also contact us to update or correct any inaccuracies in your personal data.
+  *  **Move.  **Your personal data is portable – i.e., you to have the flexibility to move your personal data to other service providers as you wish. This means that we are required to keep that personal data in a commonly-used, interoperable format to facilitate this transfer between providers. Please note that this right extends only to your personal data, it does not cover all information provided to or extracted from Transactions uploaded to our Services.
+  *  **Erase and forget.  **In certain situations, for example when the personal data we hold about you is no longer relevant or is incorrect, you can request that we erase such personal data.
 
 
 
-Please let us know if you have any concerns about the operation of this Privacy Policy. If we are unable to resolve any issue you have a right to lodge a complaint with our supervisory authority. In the United Kingdom this is the [Information Commissioner’s Office.](https://ico.org.uk/)
+Please let us know if you have any concerns about the operation of this Privacy Policy. If we are unable to resolve any issue you have a right to lodge a complaint with our supervisory authority. In the United Kingdom this is the [Information Commissioner’s Office.](https://ico.org.uk/)
 
 ## Third party sites
 
 Our Site may contain links to and from the websites of our partner networks, advertisers and affiliates. If Users follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Users should please check these policies before they submit any personal data to these websites. The links to third party websites or locations are for convenience only and do not signify our endorsement of such third parties or their products, content, or websites. If Users disclose information to others, or authorise us to do the same under this Policy, the use and disclosure restrictions contained in this Policy will not apply to any third party. We do not control the privacy policies of third parties, and Users are subject to the privacy policies of those third parties where applicable.
 
-## Children's Privacy Protection
+## Children’s Privacy Protection
 
 Our Services are developed, marketed and intended for use by businesses only. We do not knowingly engage in any data collection, processing or storage of Users under 18. Our communication, marketing, and sales activities are never aimed at children. In the event that we identify a User who is under-age, we will take all the reasonable measures to prevent this person from continuing their interaction with the Service, and delete the information. If you are 18 or under, please do not access or use our Services without parental consent and supervision. If you are a parent or a legal guardian or concerned third party of a child under 18 who interacted with the Services, please alert us via support@receiptbank.com.
 
@@ -287,4 +188,4 @@ We ask that Users not send us, and that Users not disclose, any sensitive person
 
 ## Conditions of use
 
-Users use of the Site, the Apps, and the Receipt Bank Products is subject to this Policy and [Receipt Bank’s Terms and Conditions](https://www.receipt-bank.com/terms-conditions).
+Users use of the Site, the Apps, and the Receipt Bank Products is subject to this Policy and [Receipt Bank’s Terms and Conditions](https://www.receipt-bank.com/terms-conditions).
