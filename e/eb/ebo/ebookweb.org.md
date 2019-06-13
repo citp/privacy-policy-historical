@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookweb.org privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210214938id_/http%3A//www.ebookweb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookweb.org privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613123916id_/http%3A//www.ebookweb.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - E-Book Web
 
