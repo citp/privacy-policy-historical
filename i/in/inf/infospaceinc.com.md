@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infospaceinc.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216180957id_/http%3A//www.infospaceinc.com/static/privacy_policy-3164.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infospaceinc.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613103055id_/http%3A//www.infospaceinc.com/static/privacy_policy-3164.html) for the most accurate reproduction.*
 
 # Privacy Policy of Our Site - About Us
 
