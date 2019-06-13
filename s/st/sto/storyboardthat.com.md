@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storyboardthat.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611070457id_/https%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyboardthat.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613152132id_/https%3A//www.storyboardthat.com/about/privacy) for the most accurate reproduction.*
 
 # Storyboard That Privacy Policy | Clever Prototypes
 
@@ -14,7 +14,11 @@ We collect the following personal information in connection with the Service: (a
 
 ### Other Personal Identifiers:
 
-Apart from the limited personal information described above, Clever Prototypes does not collect and does not wish to receive any personally identifying information. Without limitation, you shall not submit to Clever Prototypes any social security number, financial account number, credit or debit card number (other than the number of the card paying for the Service), driver’s license number or government ID number. To the extent schools, parents, guardians, or teachers create accounts for students under 13 years of age, we may collect first and last names and e-mail addresses from those schools, parents, guardians, or teacher for the sole purpose of rendering the Service, and will otherwise take steps to maintain the confidentiality, security, and integrity thereof. Children under 13 years of age that use the Service under the supervision of a school, parent, guardian, or teacher are not permitted to provide or upload any personal information.
+Apart from the limited personal information described above, Clever Prototypes does not collect and does not wish to receive any personally identifying information. Without limitation, you shall not submit to Clever Prototypes any social security number, financial account number, credit or debit card number (other than the number of the card paying for the Service), driver’s license number or government ID number. 
+
+When parents or guardians (or schools and/or teachers acting in an educational context) create accounts for students under 13 years of age, we may collect personally identifiable information – including first name, last name, and email address – regarding the students on whose behalf such accounts are created for the sole purpose of rendering the Service. Students under 13 years of age who use the Service under the supervision of a parent or guardian (or school and/or teacher acting in the educational context) are permitted to provide or upload any personally identifiable information. 
+
+We will use commercially reasonable physical, technical, and administrative safeguards to protect all such personally identifiable information. 
 
 ### User Data:
 
@@ -167,4 +171,4 @@ In the event of material changes to the privacy policy users will be emailed and
 * * *
 
 Effective Date of this policy: January 25, 2014   
-Last Updated: May 23, 2018 
+Last Updated: Nov 30, 2018 
