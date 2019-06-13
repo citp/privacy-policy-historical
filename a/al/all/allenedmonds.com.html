@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allenedmonds.com privacy policy that was archived on 2018-09-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180926094541id_/https%3A//www.allenedmonds.com/customer-service/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allenedmonds.com privacy policy that was archived on 2019-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190613184206id_/http%3A//www.allenedmonds.com/customer-service/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -17,7 +17,17 @@
 <title>Allen Edmonds Privacy Policy</title>
 
 
-<link href="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/images/favicon.ico?v=1" rel="shortcut icon">
+<link rel="apple-touch-icon" sizes="180x180" href="/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dw984ae456/redesign/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dw206d8d62/redesign/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dw03fa2afb/redesign/icons/favicon-16x16.png">
+<link rel="manifest" href="/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dwaa9fb561/redesign/icons/site.webmanifest">
+<link rel="mask-icon" href="/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dw4994f65a/redesign/icons/safari-pinned-tab.svg" color="#323232">
+<link rel="shortcut icon" href="/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dw2e1c1219/redesign/icons/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="AllenEdmonds">
+<meta name="application-name" content="AllenEdmonds">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="msapplication-config" content="/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dwc98cd62f/redesign/icons/browserconfig.xml">
+<meta name="theme-color" content="#000000">
 
 
 
@@ -31,18 +41,16 @@
 
 
 
-<link href="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 <!-- jQuery -->
-<script src="//tags.tiqcdn.com/utag/allenedmonds/demandware/prod/utag.js" type="text/javascript" async=""></script><script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
-<script>var app={};</script>
+<script type="text/javascript" id="ftr__script" async="" src="https://d35u1vg1q28b3w.cloudfront.net/sn/483061d7420a/script.js"></script><script type="text/javascript" id="ftr__script" async="" src="https://483061d7420a.cdn4.forter.com/sn/483061d7420a/script.js"></script><script src="//tags.tiqcdn.com/utag/allenedmonds/demandware/prod/utag.js" type="text/javascript" async=""></script><script>var app={};</script>
 
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/lib/html5.js"></script>
 <![endif]-->
 <!--[if lte IE 9]>
-<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/lib/matchMedia.js"></script>
+<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/lib/matchMedia.js"></script>
 <![endif]-->
 
 <script type="text/javascript">//<!--
@@ -59,7 +67,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -105,6 +119,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -143,13 +184,15 @@ CQuotient.getCQUserId = function () {
 	_shoprunner_com.checkout.mixedCart = "block";
 </script>
 
-<script type="text/javascript" src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/js/shoprunner_init.js"></script>
-<script type="text/javascript" src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/js/pr_functions.js"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/js/shoprunner_init.js"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/js/pr_functions.js"></script>
 
 <!-- UI -->
-<link rel="stylesheet" href="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/css/style.css">
 
-<link href="/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/v1537568114995/css/allenEdmondsAssets.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet" href="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/css/style.min.css">
+
+
+<link href="/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/v1560440548913/css/allenEdmondsAssets.css" type="text/css" rel="stylesheet">
 
 
 
@@ -252,7 +295,7 @@ window.location.reload();
 <div class="html-slot-container">
 
 
-<a href="https://www.allenedmonds.com/customer-service/shipping-returns.html" onclick="window.location = this.href" class="free-shipping-header-banner">Free Shipping On Orders Over $50</a>
+<a href="https://www.allenedmonds.com/account" onclick="window.location = this.href" class="free-shipping-header-banner">Become a Collector, Save 15%</a>
 <style>
 @media only screen and (max-width: 768px) { .mobile-hide { display:none;} }
 @media only screen and (max-width: 1400px) { .tablet-hide { display:none;} }
@@ -273,88 +316,50 @@ window.location.reload();
 
 
 
-<h1 class="visually-hidden">Promotions</h1>
-<div id="promo-slider" class="inside-arrows ">
+<script src="https://www.allenedmonds.com/on/demandware.static/Sites-allenedmonds-Site/-/default/v1506545197549/lib/jquery/jquery-2.1.1.min.js"></script>
 
-<div class="slide-item">
-<div>
-<style style="display:none !important;">
-.collector-banner-promo { animation:pulseMargin 4.3s infinite ; position:relative; text-transform:capitalize;}
-.collector-banner-promo-text {animation:pulseText 4.3s infinite; display:inline !important;}
-.collector-banner-promo:before,.collector-banner-promo:after { position:absolute;letter-spacing:-.21em; animation:pulseArrows 4.3s infinite;}
-.collector-banner-promo:before {left:0; content:"→|"; }
-.collector-banner-promo:after { right:0; content:"|←"; }
-#promo-slider .slick-arrow {opacity: 0;}
-@media only screen and (min-width: 1024px) {
-.free-shipping-header-banner {color:#ccc !important;}
-}
-@media only screen and (min-width: 1024px) and (max-width:1300px) { 
-.collector-banner-promo:before,.collector-banner-promo:after {content:none;}
-.collector-banner-promo, 
-.collector-banner-promo-text {animation:none;}
+<link href="https://www.allenedmonds.com/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/v1560440548913/redesign/main.css" type="text/css" rel="stylesheet">
 
-}
-@keyframes pulseMargin {
-  0% { margin: 0; }
-  50% { margin: 0 1em; }
-  100% {margin: 0; }
-}
 
-@keyframes pulseArrows {
-  0% { opacity:1; }
-  50% {opacity:.7;}
-  100% { opacity:1; }
+<script src="https://www.allenedmonds.com/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/v1560440548913/redesign/scripts/picturefill.min.js"></script>
+<script src="https://www.allenedmonds.com/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/v1560440548913/redesign/scripts/saleMessageDollar.js"></script>
 
-}
-@keyframes pulseText {
-  0% { opacity:.7;}
-  50% { opacity:1;}
-  100% { opacity:.7;}
-}
-</style>
-<a href="/account" class="collector-banner-promo"><span class="collector-banner-promo-text">Become a Collector, save 15%</span></a></div>
+<script>
+	$(document).ready( function() {
+	function loopTwo() {
+		setTimeout(function() {
+			$("#banner-message-one").css('z-index','1').animate({opacity: "1"}, 'slow' );
+			$("#banner-message-two").css('z-index','0').animate({opacity: "0"}, 'slow', loop );
+		}, 4000 );
+	}
+	function loop() {
+		setTimeout(function() {
+			$("#banner-message-two").css('z-index','1').animate({opacity: "1"}, 'slow');
+			$("#banner-message-one").css('z-index','0').animate({opacity: "0"}, 'slow', loopTwo );
+		}, 4000 );
+	}
+		loop();
+	})
+
+</script>
+<div class="banner-message-container">
+	<div id="banner-message-one">
+	<a href="https://www.allenedmonds.com/customer-service/shipping-returns.html" class="collector-banner-promo">
+	Enjoy Free Shipping Over $50<br>or Free 2-day Over $250
+	</a>
+	</div>
+	<div id="banner-message-two">
+	<a href="https://www.allenedmonds.com/customer-service/shipping-returns.html" class="collector-banner-promo">
+	Plus Free Returns<br>Every Order, Every Day.
+	</a>
+	</div>
 </div>
 
-<div class="slide-item">
-<div>
-<style style="display:none !important;">
-.collector-banner-promo { animation:pulseMargin 4.3s infinite ; position:relative; text-transform:capitalize;}
-.collector-banner-promo-text {animation:pulseText 4.3s infinite; display:inline !important;}
-.collector-banner-promo:before,.collector-banner-promo:after { position:absolute;letter-spacing:-.21em; animation:pulseArrows 4.3s infinite;}
-.collector-banner-promo:before {left:0; content:"→|"; }
-.collector-banner-promo:after { right:0; content:"|←"; }
-#promo-slider .slick-arrow {opacity: 0;}
-@media only screen and (min-width: 1024px) {
-.free-shipping-header-banner {color:#ccc !important;}
-}
-@media only screen and (min-width: 1024px) and (max-width:1300px) { 
-.collector-banner-promo:before,.collector-banner-promo:after {content:none;}
-.collector-banner-promo, 
-.collector-banner-promo-text {animation:none;}
-
-}
-@keyframes pulseMargin {
-  0% { margin: 0; }
-  50% { margin: 0 1em; }
-  100% {margin: 0; }
-}
-
-@keyframes pulseArrows {
-  0% { opacity:1; }
-  50% {opacity:.7;}
-  100% { opacity:1; }
-
-}
-@keyframes pulseText {
-  0% { opacity:.7;}
-  50% { opacity:1;}
-  100% { opacity:.7;}
-}
-</style>
-<a href="/account" class="collector-banner-promo"><span class="collector-banner-promo-text">Enjoy Exclusive Benefits</span></a></div>
-</div>
-
-</div>
+<script>
+	if (window.location.href.indexOf("global") > -1) {
+		$('.banner-message-container').css('display','none');
+	}
+</script>
 
  
 	
@@ -485,7 +490,7 @@ Account
 
 <div class="mobile-nav navigation-header f-left"><span class="menu-icon"></span></div>
 <div class="primary-logo">
-<a href="/home">
+<a href="https://www.allenedmonds.com">
 <span class="sr-only">Men's Dress Shoes &amp; Clothing</span>
 <span class="block brand-logo"></span>
 </a>
@@ -528,6 +533,18 @@ Account
 
 
 <li class="first">
+<a href="https://www.allenedmonds.com/fathers-day-sale/" class="level-1">
+
+
+Father's Day Sale
+</a>
+
+
+
+
+</li>
+
+<li>
 <a href="https://www.allenedmonds.com/shoes-2/" class="level-1">
 
 
@@ -539,14 +556,14 @@ Shoes
 
 
 
-<div class="level-2 col-2-banner">
+<div class="level-2 col-3">
 <div class="menu-wrapper">
 <ul class="level-2">
 
 
 <li>
-<a href="https://www.allenedmonds.com/shoes/mens-shoes/" class="level-2">
-Men's Shoes
+<a href="https://www.allenedmonds.com/shoes/shoes/" class="level-2">
+Shoes
 </a>
 
 <div class="level-3">
@@ -554,43 +571,83 @@ Men's Shoes
 
 
 
-<li><a href="https://www.allenedmonds.com/shoes/mens-shoes/new-styles-colors/">New Styles &amp; Colors</a></li>
+<li><a href="https://www.allenedmonds.com/shoes/shoes/new-shoes/">New Shoes</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/shoes/mens-shoes/all-shoes/">All Shoes</a></li>
+<li><a href="https://www.allenedmonds.com/shoes/shoes/all-shoes/">All Shoes</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/shoes/mens-shoes/all-boots/">All Boots</a></li>
+<li><a href="https://www.allenedmonds.com/shoes/shoes/dress-shoes/">Dress Shoes</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/shoes/mens-shoes/all-sneakers/">All Sneakers</a></li>
+<li><a href="https://www.allenedmonds.com/shoes/shoes/casual-shoes/">Casual Shoes</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/shoes/mens-shoes/dress-shoes-boots/">Dress Shoes &amp; Boots</a></li>
+<li><a href="https://www.allenedmonds.com/shoes/shoes/oxfords-derbys/">Oxfords &amp; Derbys</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/shoes/mens-shoes/casual-shoes-boots/">Casual Shoes &amp; Boots</a></li>
+<li><a href="https://www.allenedmonds.com/shoes/shoes/loafers-slip-ons/">Loafers &amp; Slip-Ons</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/shoes/mens-shoes/removable-insole-shoes/">Removable Insole Shoes</a></li>
+<li><a href="https://www.allenedmonds.com/shoes/shoes/sneakers/">Sneakers</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/shoes/mens-shoes/oxford-derby-shoes/">Oxford &amp; Derby Shoes</a></li>
+<li><a href="https://www.allenedmonds.com/shoes/shoes/sandals/">Sandals</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/shoes/mens-shoes/boat-shoes-driving-mocs/">Boat Shoes &amp; Driving Mocs</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/shoes/mens-shoes/loafers-slip-ons/">Loafers &amp; Slip-Ons</a></li>
+
+
+
+
+</ul>
+</div>
+
+</li>
+
+<li>
+<a href="https://www.allenedmonds.com/shoes/boots/" class="level-2">
+Boots
+</a>
+
+<div class="level-3">
+<ul class="level-3">
+
+
+
+
+
+<li><a href="https://www.allenedmonds.com/shoes/boots/all-boots/">All Boots</a></li>
+
+
+
+<li><a href="https://www.allenedmonds.com/shoes/boots/dress-boots/">Dress Boots</a></li>
+
+
+
+<li><a href="https://www.allenedmonds.com/shoes/boots/casual-boots/">Casual Boots</a></li>
+
+
+
+<li><a href="https://www.allenedmonds.com/shoes/boots/chukka-boots/">Chukka Boots</a></li>
+
+
+
+<li><a href="https://www.allenedmonds.com/shoes/boots/chelsea-boots/">Chelsea Boots</a></li>
+
+
+
+<li><a href="https://www.allenedmonds.com/shoes/boots/lace-up-boots/">Lace-Up Boots</a></li>
 
 
 </ul>
@@ -608,35 +665,11 @@ Collections
 
 
 
-<li><a href="https://www.allenedmonds.com/shoes/collections/artisan-collection/">Artisan Collection</a></li>
-
-
-
-<li><a href="https://www.allenedmonds.com/shoes/collections/city-streets-collection/">City Streets Collection</a></li>
-
-
-
-<li><a href="https://www.allenedmonds.com/shoes/collections/concrete-country-collection/">Concrete Country Collection</a></li>
-
-
-
 <li><a href="/shoes/collections/cordovan/">Cordovan Collection</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/shoes/collections/heritage-collection/">Heritage Collection</a></li>
-
-
-
-<li><a href="/shoes/collections/independence/">Independence Collection</a></li>
-
-
-
-<li><a href="https://www.allenedmonds.com/shoes/collections/italian-flex-collection/">Italian Flex Collection</a></li>
-
-
-
-<li><a href="https://www.allenedmonds.com/shoes/collections/new-american-collection/">New American Collection</a></li>
+<li><a href="https://www.allenedmonds.com/shoes/collections/heritage-classics-collection/">Heritage Classics Collection</a></li>
 
 
 
@@ -644,11 +677,35 @@ Collections
 
 
 
-<li><a href="https://www.allenedmonds.com/shoes/collections/road-warriors-collection/">Road Warriors Collection</a></li>
-
-
-
 <li><a href="https://www.allenedmonds.com/shoes/collections/weatherproof-collection/">Weatherproof Collection</a></li>
+
+
+
+<li><a href="/shoes/collections/independence/">Independence Collection</a></li>
+
+
+
+<li><a href="https://www.allenedmonds.com/shoes/collections/new-americans-collection/">New Americans Collection</a></li>
+
+
+
+<li><a href="https://www.allenedmonds.com/shoes/collections/italian-collection/">Italian Collection</a></li>
+
+
+
+<li><a href="https://www.allenedmonds.com/shoes/collections/classic-value-collection/">Classic Value Collection</a></li>
+
+
+
+<li><a href="https://www.allenedmonds.com/shoes/collections/from-port-washington-wi/">From Port Washington, WI</a></li>
+
+
+
+
+
+
+
+
 
 
 </ul>
@@ -657,32 +714,6 @@ Collections
 </li>
 
 
-
-<li class="headerBanner">
-
-
-
-
-
-
-
-
-
-
-
-<div class="content-asset"><!-- dwMarker="content" dwContentID="5f2bcd4df5bf237f1a5a8677a9" -->
-<p>
-
-<img alt="" src="https://www.allenedmonds.com/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dw8f21c23b/redesign/main-menu/shoe-drop-down.jpg" title="">
-
-</p>
-</div> <!-- End content-asset -->
-
-
-
-
-
-</li>
 
 </ul>
 </div>
@@ -717,10 +748,6 @@ Men's Clothing
 
 
 
-<li><a href="https://www.allenedmonds.com/clothing/mens-clothing/t-shirts-polos/">T-shirts &amp; Polos</a></li>
-
-
-
 <li><a href="https://www.allenedmonds.com/clothing/mens-clothing/shirts-sweaters/">Shirts &amp; Sweaters</a></li>
 
 
@@ -737,11 +764,7 @@ Men's Clothing
 
 
 
-<li><a href="https://www.allenedmonds.com/clothing/mens-clothing/ties/">Ties</a></li>
-
-
-
-<li><a href="https://www.allenedmonds.com/clothing/mens-clothing/pocket-squares/">Pocket Squares</a></li>
+<li><a href="https://www.allenedmonds.com/clothing/mens-clothing/ties-pocket-squares/">Ties &amp; Pocket Squares</a></li>
 
 
 
@@ -749,7 +772,7 @@ Men's Clothing
 
 
 
-<li><a href="https://www.allenedmonds.com/clothing/mens-clothing/hats-gloves-scarves/">Hats, Gloves &amp; Scarves</a></li>
+<li><a href="https://www.allenedmonds.com/hats-gloves-scarves/">Hats, Gloves &amp; Scarves</a></li>
 
 
 </ul>
@@ -774,7 +797,7 @@ Men's Clothing
 <div class="content-asset"><!-- dwMarker="content" dwContentID="a0d18173d92ab739b6aec1ca28" -->
 <p>
 
-<img alt="" src="https://www.allenedmonds.com/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dwb058cce2/redesign/main-menu/clothing-main-menu.jpg" title="Clothing Drop Down Image">
+<img alt="" src="https://www.allenedmonds.com/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dwf08ed482/redesign/main-menu/2019-04-30-megamenu-clothing.jpg" title="Allen Edmonds Men's Apparel">
 
 </p>
 </div> <!-- End content-asset -->
@@ -835,8 +858,8 @@ Belts
 </li>
 
 <li>
-<a href="https://www.allenedmonds.com/accessories/leather-goods/" class="level-2">
-Leather Goods
+<a href="https://www.allenedmonds.com/accessories/bags/" class="level-2">
+Bags
 </a>
 
 <div class="level-3">
@@ -844,19 +867,15 @@ Leather Goods
 
 
 
-<li><a href="https://www.allenedmonds.com/accessories/leather-goods/briefcases/">Briefcases</a></li>
+<li><a href="https://www.allenedmonds.com/accessories/bags/briefcases/">Briefcases</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/accessories/leather-goods/backpacks/">Backpacks</a></li>
+<li><a href="https://www.allenedmonds.com/accessories/bags/backpacks/">Backpacks</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/accessories/leather-goods/travel-bags/">Travel Bags</a></li>
-
-
-
-<li><a href="https://www.allenedmonds.com/accessories/leather-goods/wallets-2/">Wallets</a></li>
+<li><a href="https://www.allenedmonds.com/accessories/bags/travel-bags/">Travel Bags</a></li>
 
 
 </ul>
@@ -874,7 +893,11 @@ Personal Accessories
 
 
 
-<li><a href="https://www.allenedmonds.com/accessories/personal-accessories/eyewear/">Eyewear</a></li>
+<li><a href="https://www.allenedmonds.com/accessories/personal-accessories/eyewear-sunglasses/">Eyewear &amp; Sunglasses</a></li>
+
+
+
+<li><a href="https://www.allenedmonds.com/accessories/personal-accessories/wallets/">Wallets</a></li>
 
 
 
@@ -914,7 +937,7 @@ Shoe Care
 
 
 
-<div class="level-2 col-1">
+<div class="level-2 col-1-banner">
 <div class="menu-wrapper">
 <ul class="level-2">
 
@@ -941,10 +964,6 @@ Shoe Care
 
 
 
-<li><a href="https://www.allenedmonds.com/shoe-care/shoe-care/insoles-orthotic-inserts/">Insoles &amp; Orthotic Inserts</a></li>
-
-
-
 <li><a href="https://www.allenedmonds.com/shoe-care/shoe-care/laces/">Laces</a></li>
 
 
@@ -953,11 +972,15 @@ Shoe Care
 
 
 
-<li><a href="https://www.allenedmonds.com/shoe-care/shoe-care/overshoes/">Overshoes</a></li>
+<li><a href="https://www.allenedmonds.com/shoe-care/shoe-care/overshoes-insoles/">Overshoes &amp; Insoles</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/discover/our-story/recrafting.html">Recrafting</a></li>
+<li><a href="https://www.allenedmonds.com/shoe-care/shoe-care/shoe-horns/">Shoe Horns</a></li>
+
+
+
+<li><a href="https://www.allenedmonds.com/discover/our-story/woodlore.html">Woodlore</a></li>
 
 
 </ul>
@@ -967,9 +990,47 @@ Shoe Care
 
 
 
+<li class="headerBanner">
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="8083d7b6aec6779ef31109ffb1" -->
+<p>
+
+<img alt="shoe care products" src="https://www.allenedmonds.com/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dwa63f300f/redesign/main-menu/2019-04-30-megamenu-shoe-care.jpg" title="Shop Shoe Care Products">
+
+</p>
+</div> <!-- End content-asset -->
+
+
+
+
+
+</li>
+
 </ul>
 </div>
 </div>
+
+</li>
+
+<li>
+<a href="https://www.allenedmonds.com/discover/our-story/recrafting.html" class="level-1">
+
+
+Recrafting
+</a>
+
+
+
 
 </li>
 
@@ -991,8 +1052,8 @@ Collaborations
 
 
 <li>
-<a href="https://www.allenedmonds.com/collaborations/collaborations/" class="level-2">
-Collaborations
+<a href="https://www.allenedmonds.com/collaborations/artisans-of-freedom/" class="level-2">
+Artisans of Freedom
 </a>
 
 <div class="level-3">
@@ -1000,23 +1061,33 @@ Collaborations
 
 
 
-<li><a href="https://www.allenedmonds.com/collaborations/collaborations/alan-j-collection/">Alan J Collection</a></li>
+<li><a href="https://www.allenedmonds.com/collaborations/artisans-of-freedom/alan-j-collection/">Alan J Collection</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/collaborations/collaborations/civilianaire/">Civilianaire</a></li>
+<li><a href="https://www.allenedmonds.com/collaborations/artisans-of-freedom/civilianaire/">Civilianaire</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/collaborations/collaborations/cockpit-usa/">Cockpit USA</a></li>
+<li><a href="https://www.allenedmonds.com/collaborations/artisans-of-freedom/cockpit-usa/">Cockpit USA</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/collaborations/collaborations/korchmar/">Korchmar</a></li>
+<li><a href="https://www.allenedmonds.com/collaborations/artisans-of-freedom/gitman-brothers/">Gitman Brothers</a></li>
 
 
 
-<li><a href="https://www.allenedmonds.com/collaborations/collaborations/weiss/">Weiss</a></li>
+<li><a href="https://www.allenedmonds.com/collaborations/artisans-of-freedom/korchmar/">Korchmar</a></li>
+
+
+
+<li><a href="https://www.allenedmonds.com/collaborations/artisans-of-freedom/southwick/">Southwick</a></li>
+
+
+
+<li><a href="https://www.allenedmonds.com/collaborations/artisans-of-freedom/weiss/">Weiss</a></li>
+
+
 
 
 </ul>
@@ -1041,7 +1112,7 @@ Collaborations
 <div class="content-asset"><!-- dwMarker="content" dwContentID="724890e385165113893411db22" -->
 <p> 
 <a href="https://www.allenedmonds.com/collaborations/">
-      <img src="https://www.allenedmonds.com/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dw4666ffd7/redesign/main-menu/accessories-main-menu.png" title="AOF Logo" alt="artisans of freedom logo">
+      <img src="https://www.allenedmonds.com/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dw3e12b807/redesign/main-menu/accessories-main-menu.png" title="AOF Logo" alt="artisans of freedom logo">
 </a><a>
 </a></p><a>
 
@@ -1072,7 +1143,7 @@ Outlet
 
 
 
-<div class="level-2 col-2">
+<div class="level-2 col-2-banner">
 <div class="menu-wrapper">
 <ul class="level-2">
 
@@ -1103,11 +1174,9 @@ Clearance
 
 
 
-<li><a href="https://www.allenedmonds.com/outlet/clearance/bags-wallets/">Bags &amp; Wallets</a></li>
-
-
-
 <li><a href="https://www.allenedmonds.com/outlet/clearance/shoe-care/">Shoe Care</a></li>
+
+
 
 
 </ul>
@@ -1117,7 +1186,7 @@ Clearance
 
 <li>
 <a href="https://www.allenedmonds.com/outlet/factory-seconds/" class="level-2">
-Factory-Seconds
+Factory Seconds
 </a>
 
 <div class="level-3">
@@ -1125,7 +1194,7 @@ Factory-Seconds
 
 
 
-<li><a href="https://www.allenedmonds.com/outlet/factory-seconds/shoe-factory-seconds/">Shoe Factory-Seconds</a></li>
+<li><a href="https://www.allenedmonds.com/outlet/factory-seconds/factory-second-shoes/">Factory Second Shoes</a></li>
 
 
 </ul>
@@ -1134,6 +1203,57 @@ Factory-Seconds
 </li>
 
 
+
+<li class="headerBanner">
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="0703ad830958a3bc97f1b4a1fa" -->
+<style type="text/css">
+.categoryNav div.level-2 ul.level-2 .link-button a.flyout-link {
+    height: 29px;
+    width: 100%;
+    margin-top: 5px;
+    text-align: center;
+    color: #fff;
+    display: inline-block;
+}
+
+.categoryNav div.level-2 ul.level-2 .link-button a.flyout-link.clearance {
+background: #111;
+}
+
+.categoryNav div.level-2 ul.level-2 .link-button a.flyout-link.clearance:hover {
+background: url("../images/navflyout/white-btn-overlay.png")  repeat-x scroll 0 0 #111;
+
+}
+
+.categoryNav div.level-2 ul.level-2 .link-button a.flyout-link:hover {
+    text-decoration: none;
+}
+</style>
+
+<div class="header-banner-slot">
+
+<a href="https://www.allenedmonds.com/outlet/clearance/" id="flyout-outlet-center-img">
+<img src="https://www.allenedmonds.com/on/demandware.static/-/Library-Sites-allen-edmonds-redesign/default/dw7400da9f/redesign/homepage/june-13-HP/2019-06-13-megamenu-outlet-warehousesale.jpg" alt="Shop Clearance" title="Shop Factory Seconds" data-flyout="{&quot;category&quot;: &quot;Outlet Flyout&quot;, &quot;action&quot;: &quot;Clearance&quot;, &quot;type&quot;: &quot;Image&quot;, &quot;product&quot;: &quot;20% Off Clearance&quot;}"></a>
+
+</div>
+</div> <!-- End content-asset -->
+
+
+
+
+
+</li>
 
 </ul>
 </div>
@@ -1192,7 +1312,7 @@ Factory-Seconds
 <hr>
 
 <ul>
-<li><a href="/customer-service/help.html">Contact Us</a></li><li><a href="/customer-service/shipping-returns.html">Shipping &amp; Returns</a></li><li><a href="/customer-service/international-shipping-returns.html">International Shipping &amp; Returns</a></li><li class="showtdu"><a href="">Security &amp; Privacy</a></li><li><a href="/customer-service/terms-conditions-collectors.html">Account Terms &amp; Conditions</a></li>
+<li><a href="/customer-service/help.html">Frequently Asked Questions</a></li><li><a href="/customer-service/2019-contact-us.html">Contact Us</a></li><li><a href="/customer-service/shipping-returns.html">Shipping &amp; Returns</a></li><li><a href="/customer-service/international-shipping-returns.html">International Shipping &amp; Returns</a></li><li class="showtdu"><a href="">Security &amp; Privacy</a></li><li><a href="/customer-service/terms-conditions-collectors.html">Account Terms &amp; Conditions</a></li>
 </ul>
 </div>
 </div>
@@ -1207,7 +1327,38 @@ Factory-Seconds
 
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="be30b308fc8a7a8ef8e5d62ff0" -->
-<style>.breadcrumb { display:none} </style>
+<style>.breadcrumb { display:none} 
+  
+  #privacy-policy-content-asset {
+    padding-bottom:2%;
+  }
+#privacy-policy-content-asset th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  margin-left: 5%;
+  
+
+}
+#privacy-policy-content-asset  td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  margin-left: 5%;
+  
+
+}
+  th {
+    background-color: #f5f5f5;
+  }
+  
+  @media only screen and (max-width: 768px) {
+  .mobile-td {
+    width:10%;
+  }
+}
+  
+</style>
 <h1>Security and Privacy</h1>
 
 <h3><strong>Security Guarantee</strong></h3>
@@ -1236,46 +1387,167 @@ Factory-Seconds
 
 <p>We will cover this liability only if the unauthorized use of your credit card happened through no fault of your own from purchases made at AllenEdmonds.com while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with that company’s reporting rules and procedures.</p>
 
-<h3><strong>Privacy Policy</strong></h3>
+<h3><strong>Allen Edmonds Privacy Policy</strong></h3>
+<p>This policy describes how AllenEdmonds.com collects, uses, and shares personal information. AllenEdmonds.com is a wholly owned division of Caleres, Inc. You can jump to particular topics by going to the headings below:</p>
+<div style="margin-bottom:2%">
+<a href="#types-of-info">Types of Information We Collect</a><br>
+<a href="#use-and-processing">Use and Processing of Information</a><br>
+<a href="#sharing-of-info">Sharing of Information</a><br>
+<a href="#your-choices">Your Choices</a><br>
+<a href="#how-we-protect">How We Protect Personal Informaion</a><br>
+<a href="#miscellaneous">Miscellaneous</a><br>
+<a href="#contact-info">Contact Information</a><br>
+</div>
 
-<p>At Allen&nbsp;Edmonds, we are committed to respecting your privacy and recognizing your need for appropriate protection and management of your personal information. Personal information means any information by which you can be contacted or identified, such as your name, mailing address, email address, telephone number, etc. The information you share with us will not be shared or sold for use by anyone outside of our company and trusted partners performing activities on our behalf. Occasionally we may participate with a trusted cooperative database services partner. These services help us to direct print catalogs, mailings and other marketing initiatives to appropriate purchasers and website visitors. Names and mailing addresses may be shared between participating parties in the cooperative database services, but no credit card information or email addresses are provided to the cooperative. Information gathered on the site is used for fulfilling your order; analyzing preferences, trends and statistics; informing you of new products, services and offers; and tailoring your site experience on AllenEdmonds.com. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes. Such cookies do not contain personally identifiable information. If you would like to opt out of online behavioral advertising, click on one of these links: <a href="https://www.aboutads.info/choices" target="_blank">https://www.aboutads.info/choices</a> or <a href="https://networkadvertising.org/choices" target="_blank">https://networkadvertising.org/choices</a>.</p>
+<a name="types-of-info"><h2>Types Of Information We Collect</h2></a>
 
-<h3><strong>Collecting Information</strong></h3>
+<p>The following provides examples of the type of information that we collect from you and how we use that information.</p>
+  
+<table id="privacy-policy-content-asset">
+  <tbody><tr>
+    <th>Context</th>
+    <th>Type of Data, Purpose for Collection, and Use of Data</th> 
+  </tr>
+  
+  <tr>
+    <td>Account Registration</td>
+    <td>We collect your name and contact information when you create an account. Accounts can be used for easy checkout and to save your preferences and transaction history.</td>
+  </tr>
+  
+  <tr>
+    <td>Demographic Information</td>
+    <td>We may collect information such as your age or location.</td>
+  </tr>
+  
+  <tr>
+    <td>Distance Information</td>
+    <td>When you use one of our apps, we may collect your location from the GPS, Wi-Fi, and/or cell phone or device to determination your distance from one of our stores.</td>
+  </tr>
+  
+  <tr>
+  <td>Email Interconnectivity</td>
+    <td>If you receive email from us, we use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases.</td>
+  </tr>
+  
+  <tr>
+  <td>Employment</td>
+    <td>If you apply for a job posting, or become an employee, we collect information necessary to process your application or to retain you as an employee.  This may include, among other things, your Social Security Number.</td>
+  </tr>
+  
+  <tr>
+  <td>Feedback/Support</td>
+    <td>If you provide us feedback or contact us for support we will collect your name and e-mail address, as well as any other content that you send to us, in order to reply.</td>
+  </tr>
+  
+  <tr>
+  <td>Mailing List</td>
+    <td>When you sign up for one of our mailing lists we may collect your email address or postal address.    </td>
+  </tr>
+  
+  <tr>
+  <td>Mobile Device</td>
+    <td>We may collect information from your mobile device such as unique identifying information that is sent from your device when visiting our website or one of our stores.</td>
+  </tr>
+  
+  <tr>
+  <td>Order Placement </td>
+    <td>We may collect your name, billing address, shipping address, e-mail address, phone number, and payment card information when you place an order.</td>
+  </tr>
+  
+  <tr>
+  <td>Partner Promotion</td>
+    <td>We may collect information that you provide as part of a co-branded promotion with another company.</td>
+  </tr>
+  
+  <tr>
+<td>Surveys</td>
+    <td>When you participate in a survey or contest we may collect information that you provide through that process. If the survey is provided by a third party, the third party’s privacy policy applies to the collection, use, and disclosure of your information. </td>
+  </tr>
+  
+  <tr>
+<td>Sweepstakes/Contests</td>
+    <td>When you participate in a sweepstakes or contest, we collect information that you provide through that process which may include your contact information to notify you if you are selected. </td>
+  </tr>
+  
+  <tr>
+<td>Third Party Tracking</td>
+    <td>We participate in behavior-based advertising.  This means that a third party may use technology (e.g., a cookie) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests.  That advertising may appear either on our websites, or on other websites.  You can opt-out of receiving advertising based upon your browsing behavior from some network advertising companies by going to the Network Advertising Initiative and the Digital Advertising Alliance websites, although to completely prevent advertising based upon your browsing behavior you should also disable the cookies on your browser.</td>
+  </tr>
+  
+  <tr>
+<td>Web logs</td>
+    <td>We may collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to a computer when the Internet is used), domain name, click-activity, referring website, and/or a date/time stamp for your visit.</td>
+  </tr>
+  
+  <tr>
+<td>Cookies and first party tracking</td>
+    <td>We may use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to a computer’s hard drive while a web site is viewed. We may use both session cookies (which expire once a web browser is closed) and persistent cookies (which stay on a device until deleted).  Among other things, cookies allow us to provide a more personal and interactive experience and to improve our marketing efforts. Persistent cookies may be removed by following instructions provided by your browser.  If you choose to disable cookies some areas or features of our websites may not work properly. </td>
+  </tr>
+</tbody></table>
 
-<p>Throughout your shopping experience in our retail stores or on AllenEdmonds.com we may ask you to provide certain contact information about yourself such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, personal interests, and other information.&nbsp; We also maintain a record of your product purchases.&nbsp; The information can be gathered when you register or update your online account, log-in, place an order, make a customer service inquiry, opt-in to receive our emails, shop online, request a catalog, or participate in a sweepstakes, contest, promotion or survey.</p>
+<p>In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources. </p>
+  
+  <a name="use-and-processing"><h2>Use and Processing Of Your Information</h2>
+    <p>In addition to the purposes and uses described above, we may use information in the following ways: </p>
+      <ul>   
+          <li>To identify you when you visit our websites or our stores. </li>
+          <li>To provide products and services you request or to process returns.</li>
+          <li>To improve our services and product offerings.</li>
+          <li>To streamline the checkout process.</li>
+          <li>To conduct analytics.</li>
+          <li>To respond to inquiries related to support or other requests.  </li>
+          <li>To send marketing and promotional materials, including information relating to our products, services, sales, or promotions.</li>
+          <li>For internal administrative purposes, as well as to manage our relationship with you.</li>
+      </ul>
 
-<h3><strong>Cookies</strong></h3>
+</a><a name="sharing-of-info"><h2>Sharing Of Information</h2></a>
+  <p>In addition to the specific situations discussed elsewhere in this policy, we disclose information in the following situations:</p>
+      <ol>
+        <li><b>Affiliates and Acquisitions.</b> We may share your information with our corporate affiliates (e.g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control).  If another company acquires our company, business, or our assets, we will also share your information with that company.  </li>
+        <li><b>Other Disclosures with Your Consent.</b> We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy.</li>
+        <li><b>Other Disclosures without Your Consent. </b> We may disclose your information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws.  We may also share your information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies, or to comply with your request for the shipment of products to or the provision of services by a third party intermediary.</li>
+        <li><b>Public.</b> You may have the opportunity to post comments, or reviews, in a public forum.  If you decide to submit information on these pages, that information may be publically available.</li>
+        <li><b>Partner Promotion.</b> We may offer contests, sweepstakes, or other promotions with third party partners.  If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third party partner, the information that you provide will be shared with us and with them.  Their use of your information is not governed by this privacy policy. </li>
+        <li><b>Service Providers.</b> We may share your information with service providers.  Among other things service providers may help us to administer our website, conduct surveys, provide technical support, process payments, and assist in the fulfillment of orders.</li>
+      </ol>
 
-<p>We use "cookies" to enhance your experience with our site. Cookies are text files placed in your computer's browser to store your preferences. They allow us to better suit your needs by personalizing your experience. The use of cookies also supports the shopping cart function on our site as well as triggering Allen&nbsp;Edmonds advertising when you visit other websites. If you would prefer to place an order by telephone, simply call us at 1-877-817-7615.</p>
+<a name="your-choices"><h2>Your Choices</h2></a>
+  <p>You can make the following choices regarding your personal information:</p>
+      <ol>
+        <li><b>Promotional Emails.</b> You may choose to provide us with your email address for the purpose of allowing us to send newsletters, surveys, offers, and other promotional materials to you as well as targeted offers from third parties.  You can choose to stop receiving promotional emails by following the unsubscribe instructions in e-mails that you receive. We will remove your name from our mailing lists after receiving your request within the timeframe permitted by law; however, you may still receive mailings that had been initiated prior to your name being removed.  If you decide not to receive promotional emails, we may still send you transactional communications such as messages related to your account, order fulfillment, product ratings, or other service-related communications.</li>
+        <li><b>Promotional Mailings. </b> If at any time you do not want to receive offers and/or promotional mailings from us you can remove yourself from our mailing lists by emailing us at <a href="mailto:help@allenedmonds.com">help@AllenEdmonds.com</a> with "NO SNAIL MAIL" in the subject line along with your name, address and zip code. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed. For address updates, please contact <a href="https://www.allenedmonds.com/customer-service/help.html">customer service</a> or email us at <a href="mailto:help@allenedmonds.com">help@AllenEdmonds.com</a> with "ADDRESS CHANGE" in the subject line and provide your name, old address and new address in the body of the email.</li>
+        <li><b>Promotional Text Messages.</b> If you receive a text message from us that contains promotional information you can opt-out of receiving future text messages by replying “STOP.”</li>
+        <li><b>Changes to Your Personal Information.</b> We rely on you to update and correct your personal information.  Our website allows you to modify or delete your account profile. Note that we may keep historical information in our backup files as permitted by law.</li>
+        <li><b>Deletion of Your Personal Information.</b> Typically we retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law.  You may, however, request that we delete your personal information.  All requests for deletion must be directed to the contact in the “Contact Information” section below. We may also decide to delete your information if we believe the data is incomplete, inaccurate, or that our continued storage and use is contrary to our obligations to other individuals or third parties. When we delete information, it will be removed from our active database, but it may remain in archives where it is not practical or possible to delete it.  In addition, we may keep your personal information as needed to comply with our legal obligations, resolve disputes, and/or enforce any of our agreements.</li>
+        <li><b>Revocation of Consent.</b> We rely on the processing of personal information that you provide. Therefore, if you revoke your consent for the processing of personal information then we may no longer be able to provide you services. In some cases, we may limit or deny your request to revoke consent if the law permits or requires us to do so, or if we are unable to adequately verify your identity. </li>
+        <li><b>Access to Your Personal Information.</b> If required by law, upon request, we will grant reasonable access to the personal information that we have about you.  All requests must be directed to the contact in the “Contact Information” section below.</li>
+        <li><b>Online Tracking.</b> We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions.</li>
+        <li><b>California Residents.</b> California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for direct marketing.  If you are a California resident and would like a copy of such notice, please submit a written request to us using the information in the “Contact Information” section below.</li>
+      </ol>
+<a name="how-we-protect"><h2>How We Protect Personal Information</h2></a>
+    <p>No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information. In the event that we are required by law to inform you of any unauthorized access to your personal information we may notify you electronically, in writing, or by telephone, if permitted to do so by law.</p>
+    <p>Our website permits you to create an account.  If you create an account, you will be prompted to create a password.  You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else that has obtained your password, whether or not such access or use has been authorized by you.  You should notify us of any unauthorized use of your password or account.</p>
+<a name="miscellaneous"><h2>Miscellaneous</h2></a>
+  <p>The following additional information relates to our privacy practices:</p>
+    <ul>
+      <li><b>Transmission of Information to Other Countries.</b> If you are a customer located outside of the United States, please be aware that your information may be processed in the United States, where privacy laws may be less stringent than the laws in your country. By submitting your personal information to us you agree to the transfer, storage and processing of your information in a country other than your country of residence including, but not necessarily limited to, the United States.</li>
+      <li><b>Third Party Applications/Websites.</b> We have no control over the privacy practices of websites or applications that we do not own. </li>
+      <li><b>Children.</b>AllenEdmonds.com is not targeted to children. We do not knowingly request information from anyone under the age of 13 without parental consent. </li>
+      <li><b>Changes to This Privacy Policy.</b> We may change our privacy policy and practices over time. To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information unless we receive your consent to the new privacy policy.</li>
+   </ul>
+  
+<a name="contact-info"><h2>Contact Information</h2></a>
+<p>If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below.  We will attempt to respond to your requests and to provide you with additional privacy-related information.</p>
+<div>
+  <p style="padding-left:50px">Email: help@AllenEdmonds.com<br>Allen Edmonds Customer Service<br>8300 Maryland Avenue<br>St. Louis, MO 63105</p>
+</div>  
+  <p>If you are not satisfied with our response, and are in the European Union, you may have a right to file a complaint with your local supervisory authority.</p>
 
-<h3><strong>Email Communication</strong></h3>
+<h2><strong>Email Communication</strong></h2>
 
-<p>At time of purchase, you will receive emails regarding that purchase. You may also receive marketing related messages.</p>
+  <p>At time of purchase, you will receive emails regarding that purchase.</p>
 
-<p>If you do not wish to receive Allen Edmonds marketing emails or receive less communications, you may unsubscribe by clicking on the "Unsubscribe" link found at the bottom of all Allen Edmonds marketing emails. You may also call us at 1-877-817-7615 or send an email to customer service at <a href="mailto:eservice@allenedmonds.com">eservice@allenedmonds.com</a> with the following:</p>
-
-<ul>
-	<li>Your email address, first name, and last name</li>
-	<li>We would also appreciate if you tell us why you would like to be unsubscribed</li>
-</ul>
-
-<h3><strong>Changing Address of Catalog Preferences</strong></h3>
-
-<p>If you do not want to receive Allen&nbsp;Edmonds catalogs, please send an email to <a href="mailto:eservice@allenedmonds.com">eservice@allenedmonds.com</a> with the following:</p>
-
-<ul>
-	<li>The phrase "no catalog" or "address change" in the subject line</li>
-	<li>Your name and complete mailing address as it appears on your catalog</li>
-</ul>
-
-<p>You can also contact us via postal mail regarding any of the above by writing to:<br>
-<br>
-Allen&nbsp;Edmonds Corporation<br>
-Customer Service<br>
-201 East Seven Hills Road<br>
-Port Washington, WI 53074 USA</p>
-
-<p>If you have any questions about our security or privacy policy, please e-mail us at <a href="mailto:eservice@allenedmonds.com"><strong>eservice@allenedmonds.com</strong></a> or call us toll-free at 1-877-817-7615.</p>
+<p>If you have any questions about our security or privacy policy, please e-mail us at <a href="mailto:help@AllenEdmonds.com"><strong>help@AllenEdmonds.com</strong></a> or call us toll-free at 1-877-817-7615.</p>
 
 
 <p>&nbsp;</p>
@@ -1388,7 +1660,6 @@ margin-bottom: 0;
 
 
 .ae-signup-promo {
-font-family: "Roboto Condensed", sans-serif;
     color: #b28f59;
     text-transform: uppercase;
     float: none;
@@ -1408,7 +1679,9 @@ display: none;
 }
 </style>
 <!-- KEEP TO ROLL BACK THE 15% MESSAGE -->
-Founded in 1922, Allen Edmonds Shoe Corporation is a U.S. based manufacturer of premium men’s footwear and accessories. We have been creating timeless, custom-made men's dress shoes and casual shoes since 1922. Our shoes use only premium leathers and are handcrafted via a 212-step process.<br><br>
+
+Founded in 1922, Allen Edmonds Shoe Corporation is a U.S. based manufacturer of premium men’s footwear and accessories. We have been creating timeless, custom-made men's dress shoes and casual shoes since 1922. Our shoes use only premium leathers and are handcrafted via a 212-step process. <br><br>
+
 <!-- END -->
 <!-- <p class="ae-signup-promo">Receive 15% Off your first order *</p>
 * Coupon code may take up to 3 days to receive.<br /> -->
@@ -1435,21 +1708,28 @@ Founded in 1922, Allen Edmonds Shoe Corporation is a U.S. based manufacturer of 
 <div class="menu-column">
 	<h4><span class="icon-toggle"></span>About Allen Edmonds</h4>
 	<ul>
-		<li><a href="https://www.allenedmonds.com/our-story/about-us.html">Our History</a></li>
-		<li><a href="https://www.allenedmonds.com/discover/our-story/craftsmanship.html">Craftsmanship</a></li>
-		<li><a href="https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/Page-Show?cid=collaborations">Artisans of Freedom</a></li>
-		<li><a href="https://www.allenedmonds.com/discover/our-story/careers.html">Careers</a></li>
+		<li><a href="https://www.allenedmonds.com/our-history.html">Our History</a></li>
+		<li><a href="https://www.allenedmonds.com/collaborations/">Artisans of Freedom</a></li>
+                <li><a href="https://www.allenedmonds.com/discover/exclusive-offers.html">Exclusive Offers</a></li>
+		<li><a href=" https://jobs.caleres.com/Allen-Edmonds">Careers</a></li>
 	</ul>
 </div>
 <div class="menu-column">
 	<h4><span class="icon-toggle"></span>Connect</h4>
 	<ul>
-		<li><a href="https://www.allenedmonds.com/customer-service/help.html">Contact Us</a></li>
+		<li><a href="https://www.allenedmonds.com/customer-service/help.html">FAQ</a></li>
+                <li><a href="https://www.allenedmonds.com/customer-service/2019-contact-us.html">Contact Us</a></li>
+                <!--<li><a href="https://allenedmonds.custhelp.com/app/chat/chat_launch">Live Chat</a></li>-->
 		<li><a href="https://www.allenedmonds.com/stores">Find A Store</a></li>
 		<li><a href="https://www.allenedmonds.com/account">Become a Collector</a></li>
 		<li><a href="https://www.allenedmonds.com/account">My Account</a></li>
 		<li><a href="https://www.allenedmonds.com/customer-service/terms-conditions-collectors.html">Account Terms &amp; Conditions</a></li>
 		<li><a href="https://www.allenedmonds.com/customer-service/help.html">1-877-817-7615</a></li>
+		<li id="myChatLinkContainer">
+    			<div id="myChatLink">
+        			<div id="myChatLinkInfo"></div>
+    			</div>
+		</li>
 	</ul>
 </div>
 <div class="menu-column">
@@ -1464,9 +1744,12 @@ Founded in 1922, Allen Edmonds Shoe Corporation is a U.S. based manufacturer of 
 	</ul>
 </div>
 <div class="menu-column" style="border-right:none;">
-	<h4><span class="icon-toggle"></span>Shoes 101</h4>
+	<h4><span class="icon-toggle"></span>Craftsmanship</h4>
 	<ul>
-		<li><a href="https://www.allenedmonds.com/fit-page.html">Fit and Feel</a></li>
+                <li><a href="https://www.allenedmonds.com/our-craftsmanship.html">Our Commitment to Craft</a></li>
+                <li><a href="https://www.allenedmonds.com/our-leathers.html">Our Leathers</a></li>
+		<li><a href="https://www.allenedmonds.com/fit-and-feel/fit-and-feel.html">Fit and Feel</a></li>
+                <li><a href="https://www.allenedmonds.com/welts-page.html">Our Welts</a></li>
 		<li><a href="https://www.allenedmonds.com/discover/shoes-101/lasts.html">All About Lasts</a></li>
 		<!--<li><a href="https://www.allenedmonds.com/discover/shoes-101/sizefit.html">Getting the Right Fit</a></li>-->
 		<li><a href="https://www.allenedmonds.com/discover/shoes-101/glossary.html">Glossary of Terms</a></li>
@@ -1477,6 +1760,37 @@ Founded in 1922, Allen Edmonds Shoe Corporation is a U.S. based manufacturer of 
 <ul>
 </ul>
 </div>-->
+
+
+<script type="text/javascript" src="//allenedmonds.widget.custhelp.com/euf/rightnow/RightNow.Client.js"></script>
+
+<script type="text/javascript">
+    RightNow.Client.Controller.addComponent(
+        {
+            chat_login_page: "/app/chat/chat_launch",
+            container_element_id: "myChatLinkContainer",
+            info_element_id: "myChatLinkInfo",
+            label_available_immediately_template: "Live chat",
+            label_available_with_wait_template: "Live chat {time} ({NUM_MINUTES} {MINUTES}:{NUM_SECONDS} {SECONDS} wait)",
+            label_default: "",
+            label_unavailable_busy_template: "",
+            label_unavailable_hours: "",
+            link_element_id: "myChatLink",
+            open_in_new_window: false,
+            instance_id: "sccl_0",
+            module: "ConditionalChatLink",
+            type: 7
+        },
+        "//allenedmonds.widget.custhelp.com/ci/ws/get"
+    );
+</script>
+
+<style>
+.bfx-cc-wrapper .bfx-cc-expanded .bfx-cc-content form #bfx-cc-btn {
+background: #000 !important;
+}
+.pt_product-search-result h1.hide-for-desktop {display: initial}
+</style>
 </div> <!-- End content-asset -->
 
 
@@ -1513,16 +1827,11 @@ Founded in 1922, Allen Edmonds Shoe Corporation is a U.S. based manufacturer of 
 
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="63bb19ac5e9cf9ad2dfa0f5e9b" -->
-© 2018 Allen Edmonds Corporation.
+© 2019 Allen Edmonds Corporation.
 
 <!-- Simple Site Overrides - UI -->
 <script type="text/javascript">
-	$(document).ready(function(){
-		$('#pdpMain .toggleSwatchControl').hover(function(e){
-			$(this).siblings('.swatchAtt').show();
-			$(this).parents('.product-variations').addClass('szeOpen');
-		}).unbind('click');
-	});
+	$('[id="BVInlineRatings"]:contains("0.0")').hide();
 </script>
 </div> <!-- End content-asset -->
 
@@ -1551,7 +1860,7 @@ var utag_data = {
   "user_anonymous": "true",
   "user_authenticated": "false",
   "user_registered": "false",
-  "customer_id": "abP0goWx51ORTgBq3Lh87NpzMC",
+  "customer_id": "bczDkRkj56a6TbYvCMAxNYHRQm",
   "search_results": "0"
 };
 </script>
@@ -1568,16 +1877,11 @@ var utag_data = {
 
 
 
-<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
 
 
-<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/lib/jquery/slick/slick.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/lib/jquery/jquery.zoom.min.js"></script>
-<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/lib/jquery/jquery.cookie.js"></script>
-<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/lib/jquery/jquery.mobile.swipe.js"></script>
-<!-- picturefill polyfill -->
-<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/lib/picturefill.min.js" async="" type="text/javascript"></script>
+
+<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/js/plugins.min.js" type="text/javascript"></script>
+
 
 
 
@@ -1587,17 +1891,17 @@ var utag_data = {
 
 (function(app){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","ERROR":"Error","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","INVALID_CVN":"The security code is invalid.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_SUCCESS":"Added To Your Bag","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart ","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Card Code","GIFT_CERT_BALANCE":"Your current gift card balance is ","GIFT_CERT_AMOUNT_INVALID":"Gift Card can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift card code.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","SUBSCRIBE_LABEL":"Sign up for store news & promotions","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","NO_RESULTS":"No Results","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","WISHLIST":"Wishlist","WISHLIST_ADD":"This item has been added to your wishlist.","REMOVE_BONUS_PRODUCT":"Remove this product","GIFT_CARD":"Gift Card","GIFT_CARD_INVALID_VALUE":"Gift card must be at least $10.","BILLING_SUBMIT_BUTTON_LABEL":"Review Order","PAYPAL_SUBMIT_BUTTON_LABEL":"Check out with PayPal","CUSTOM_SOLE_AVAILABILITY_MSG":"Made to Order. Handcrafted for you in 8 Weeks.","HIDE_ALL":"Hide All Colors","VIEW_ALL":"View All Colors","SHOPRUNNER_ENV":"${dw.system.Site.getCurrent().getCustomPreferenceValue('sr_environment').value}","NEAREST_STORES":"Nearest Stores","NO_STORES_AJAX":"No results within 30 miles","STORE_SEARCH_RADIUS":"30","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-allenedmonds-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-allenedmonds-Site/default/Page-Include","continueUrl":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/Page-Show/C1527321132","staticPath":"/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/","addGiftCert":"/on/demandware.store/Sites-allenedmonds-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-allenedmonds-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-allenedmonds-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-allenedmonds-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.allenedmonds.com/wallet","addressesList":"https://www.allenedmonds.com/addressbook","wishlistAddress":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/Wishlist-SetShippingAddress","wishlistShow":"https://www.allenedmonds.com/wishlist","deleteAddress":"/deleteaddress","getProductUrl":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-allenedmonds-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-allenedmonds-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-allenedmonds-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-ResetPaymentForms","compareShow":"/compare","compareAdd":"/on/demandware.store/Sites-allenedmonds-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-allenedmonds-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-allenedmonds-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/FirstData-CheckBalanceJson","redeemGiftCert":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/FirstData-RedeemGiftCertificate","updateGiftCertApplied":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-UpdateGiftCertificatesApplied","removeGiftCert":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-RemoveGiftCertificate","addCoupon":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/Cart-AddCouponJson","powerReviewsFullJs":"/on/demandware.static/-/Sites-allenedmonds-site-catalog/default/v1537568114995/pwr/engine/js/full.js","powerReviewsZip":"/on/demandware.static/-/Sites-allenedmonds-site-catalog/default/v1537568114995","storeLocatorPage":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-Find","storesInventory":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-Inventory","storesLookup":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-GetZipCode","setStorePickup":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-SetStore","billing":"/billing","currencyConverter":"/on/demandware.store/Sites-allenedmonds-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-allenedmonds-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-allenedmonds-Site/default/Page-Include?cid=cookie_hint","getRecommendedProducts":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-GetRecommendedProducts","productVariation":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-Variation","updatePaymentMethodSection":"/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-UpdatePaymentMethodSection","emailSignup":"/on/demandware.store/Sites-allenedmonds-Site/default/Account-EmailSignup","emailSubmit":"/on/demandware.store/Sites-allenedmonds-Site/default/Account-EmailSubmit","certonaRecommendations":"/on/demandware.store/Sites-allenedmonds-Site/default/Certona-GetRecommendations","storeSearch":"/on/demandware.store/Sites-allenedmonds-Site/default/Stores-SearchAJAX","idMeSetSessionScope":"/on/demandware.store/Sites-allenedmonds-Site/default/IDme-SetVerificationScope","idMeRedirectURL":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/IDme-OAuthHandler"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":false,"STORE_PICKUP":false,"STORE_SHIPTOSTORE":true,"COOKIE_HINT":false,"HEADER_CHAT_DIV":"LP_DIV_1473971353801","PDP_CHAT_DIV":"LP_DIV_1473971455842","FACEBOOK_APP_ID":"964076923646422","CERTONA_RECOMMENDATIONS":true,"GIFT_CARD_MINIMUM_VALUE":10,"IDME_AUTHORIZATION_ENDPOINT":"https://api.id.me/oauth/authorize","IDME_CLIENT_ID":"d92974c31f5b044684746ed54ae3d558"};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","ERROR":"Error","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","INVALID_CVN":"The security code is invalid.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_SUCCESS":"Added To Your Bag","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart ","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Card Code","INVALID_CREDITCARD_NUMBER":"Invalid Credit Card Number","GIFT_CERT_BALANCE":"Your current gift card balance is ","GIFT_CERT_AMOUNT_INVALID":"Gift Card can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift card code.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","SUBSCRIBE_LABEL":"Sign up for store news & promotions","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","NO_RESULTS":"No Results","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","WISHLIST":"Wishlist","WISHLIST_ADD":"This item has been added to your wishlist.","REMOVE_BONUS_PRODUCT":"Remove this product","GIFT_CARD":"Gift Card","GIFT_CARD_INVALID_VALUE":"Gift card must be at least $10.","BILLING_SUBMIT_BUTTON_LABEL":"Review Order","PAYPAL_SUBMIT_BUTTON_LABEL":"Check out with PayPal","CUSTOM_SOLE_AVAILABILITY_MSG":"Made to Order. Handcrafted for you in 8 Weeks.","HIDE_ALL":"Hide All Colors","VIEW_ALL":"View All Colors","SHOPRUNNER_ENV":"${dw.system.Site.getCurrent().getCustomPreferenceValue('sr_environment').value}","NEAREST_STORES":"Nearest Stores","NO_STORES_AJAX":"No results within 30 miles","STORE_SEARCH_RADIUS":"30","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-allenedmonds-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-allenedmonds-Site/default/Page-Include","continueUrl":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/Page-Show/C1601099422","staticPath":"/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/","addGiftCert":"/on/demandware.store/Sites-allenedmonds-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-allenedmonds-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-allenedmonds-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-allenedmonds-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.allenedmonds.com/wallet","addressesList":"https://www.allenedmonds.com/addressbook","wishlistAddress":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/Wishlist-SetShippingAddress","wishlistShow":"https://www.allenedmonds.com/wishlist","deleteAddress":"/deleteaddress","getProductUrl":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-allenedmonds-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-allenedmonds-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-allenedmonds-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-ResetPaymentForms","compareShow":"/compare","compareAdd":"/on/demandware.store/Sites-allenedmonds-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-allenedmonds-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-allenedmonds-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/FirstData-CheckBalanceJson","redeemGiftCert":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/FirstData-RedeemGiftCertificate","updateGiftCertApplied":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-UpdateGiftCertificatesApplied","removeGiftCert":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-RemoveGiftCertificate","addCoupon":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/Cart-AddCouponJson","powerReviewsFullJs":"/on/demandware.static/-/Sites-allenedmonds-site-catalog/default/v1560440548913/pwr/engine/js/full.js","powerReviewsZip":"/on/demandware.static/-/Sites-allenedmonds-site-catalog/default/v1560440548913","storeLocatorPage":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-Find","storesInventory":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-Inventory","storesLookup":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-GetZipCode","setStorePickup":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/StoreInventory-SetStore","billing":"/billing","currencyConverter":"/on/demandware.store/Sites-allenedmonds-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-allenedmonds-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-allenedmonds-Site/default/Page-Include?cid=cookie_hint","getRecommendedProducts":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-GetRecommendedProducts","productVariation":"/on/demandware.store/Sites-allenedmonds-Site/default/Product-Variation","updatePaymentMethodSection":"/on/demandware.store/Sites-allenedmonds-Site/default/COBilling-UpdatePaymentMethodSection","emailSignup":"/on/demandware.store/Sites-allenedmonds-Site/default/Account-EmailSignup","emailSubmit":"/on/demandware.store/Sites-allenedmonds-Site/default/Account-EmailSubmit","certonaRecommendations":"/on/demandware.store/Sites-allenedmonds-Site/default/Certona-GetRecommendations","storeSearch":"/on/demandware.store/Sites-allenedmonds-Site/default/Stores-SearchAJAX","idMeSetSessionScope":"/on/demandware.store/Sites-allenedmonds-Site/default/IDme-SetVerificationScope","idMeRedirectURL":"https://www.allenedmonds.com/on/demandware.store/Sites-allenedmonds-Site/default/IDme-OAuthHandler"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":false,"STORE_PICKUP":false,"STORE_SHIPTOSTORE":true,"COOKIE_HINT":false,"HEADER_CHAT_DIV":"LP_DIV_1473971353801","PDP_CHAT_DIV":"LP_DIV_1473971455842","FACEBOOK_APP_ID":"964076923646422","CERTONA_RECOMMENDATIONS":true,"GIFT_CARD_MINIMUM_VALUE":10,"IDME_AUTHORIZATION_ENDPOINT":"https://api.id.me/oauth/authorize","IDME_CLIENT_ID":"d92974c31f5b044684746ed54ae3d558","BILLING_RECAPTCHA_ENABLED":true,"EMAIL_SIGNUP_MODAL_ENABLED":true};
 window.User = {"zip":null,"storeId":null,"geolocation":{"city":null,"countryCode":"US","countryName":"United States","latitude":37.751,"longitude":-97.822,"postalCode":null,"regionCode":null,"regionName":null}};
-window.Scripts = {"useMin":false,"storeLocator":{"vars":{"zoomradius":"{\"0\": 600000,\"1\": 600000,\"2\": 10000,\"3\": 6000,\"4\": 3000,\"5\": 1600,\"6\": 800,\"7\": 300,\"8\": 150,\"9\": 100,\"10\": 70,\"11\": 40,\"12\": 20,\"13\": 10,\"14\": 5,\"15\": 3,\"16\": 3,\"17\": 3,\"18\": 3,\"19\": 3,\"20\": 3}","storeurl":"/on/demandware.store/Sites-allenedmonds-Site/default/Stores-Details?StoreID=","markerurl":"https://www.allenedmonds.com/on/demandware.static/Sites-allenedmonds-Site/-/default/dw5b62c13d/images/marker.png","markerdetailurl":"https://www.allenedmonds.com/on/demandware.static/Sites-allenedmonds-Site/-/default/dwdf7576ef/images/markerdetail.png","queryurl":"/on/demandware.store/Sites-allenedmonds-Site/default/Stores-GetNearestStores","cookieurl":"/on/demandware.store/Sites-allenedmonds-Site/default/Stores-SetGeoLocation","cookiename":"LEACustomerLocation","defaultlocation":"US","maptype":"ROADMAP"}}};
+window.Scripts = {"useMin":true,"storeLocator":{"vars":{"zoomradius":"{\"0\": 600000,\"1\": 600000,\"2\": 10000,\"3\": 6000,\"4\": 3000,\"5\": 1600,\"6\": 800,\"7\": 300,\"8\": 150,\"9\": 100,\"10\": 70,\"11\": 40,\"12\": 20,\"13\": 10,\"14\": 5,\"15\": 3,\"16\": 3,\"17\": 3,\"18\": 3,\"19\": 3,\"20\": 3}","storeurl":"/on/demandware.store/Sites-allenedmonds-Site/default/Stores-Details?StoreID=","markerurl":"https://www.allenedmonds.com/on/demandware.static/Sites-allenedmonds-Site/-/default/dw5b62c13d/images/marker.png","markerdetailurl":"https://www.allenedmonds.com/on/demandware.static/Sites-allenedmonds-Site/-/default/dwdf7576ef/images/markerdetail.png","queryurl":"/on/demandware.store/Sites-allenedmonds-Site/default/Stores-GetNearestStores","cookieurl":"/on/demandware.store/Sites-allenedmonds-Site/default/Stores-SetGeoLocation","cookiename":"LEACustomerLocation","defaultlocation":"US","maptype":"ROADMAP"}}};
 }(window.app = window.app || {}));
 </script>
 
-<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/js/app.js"></script>
+<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/js/app.min.js"></script>
+<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/js/responsive.min.js"></script>
 
-<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/js/responsive.js"></script>
 
 
 
@@ -1605,11 +1909,6 @@ window.Scripts = {"useMin":false,"storeLocator":{"vars":{"zoomradius":"{\"0\": 6
 <script>
 var meta = "";
 var keywords = "Privacy Policy";
-</script>
-<script>
-jQuery(document).ready(function () {
-$("select[name$='_country']").trigger("change");
-});
 </script>
 
 
@@ -1633,16 +1932,27 @@ window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){wi
 
 <input type="hidden" id="cy" name="cy" data-object="{&quot;Custom1&quot;:&quot;Guest&quot;,&quot;rtnTolink&quot;:&quot;www.allenedmonds.com/cart&quot;,&quot;Custom7&quot;:&quot;&quot;}">
 
-<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/js/SeeWhyPlugin.js"></script>
+<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/js/SeeWhyPlugin.js"></script>
 
 
 
-<script type="text/javascript" src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/js/edutl.js"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/js/edutl.js"></script>
 <script type="text/javascript"><!--
 storeSREDID();
 //--></script>
 
-<script type="text/javascript" src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/js/sr_actions.js"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/js/sr_actions.js"></script>
+
+
+
+
+<script type="text/javascript" id="483061d7420a">
+(function() {
+var siteId = '483061d7420a';
+function t(t,e){for(var n=t.split(""),r=0;r<n.length;++r)n[r]=String.fromCharCode(n[r].charCodeAt(0)+e);return n.join("")}function e(e){return t(e,-h).replace(/%SN%/g,siteId)}function n(t){for(var e=escape(t)+"=",n=document.cookie.split(";"),r=0;r<n.length;r++){for(var o=n[r];" "==o.charAt(0);)o=o.substring(1,o.length);if(0===o.indexOf(e))return unescape(o.substring(e.length,o.length))}return null}function r(t,e){var r=new Date;r.setTime(r.getTime()+15768e7);var o,i,a,u="; expires="+r.toGMTString();if(a=location.host,1===a.split(".").length)document.cookie=escape(t)+"="+escape(e)+u+"; path=/";else{i=a.split("."),i.shift(),o="."+i.join("."),document.cookie=escape(t)+"="+escape(e)+u+"; path=/; domain="+o;var c=n(t);null!=c&&c==e||(o="."+a,document.cookie=escape(t)+"="+escape(e)+u+"; path=/; domain="+o)}}function o(t){x.ex=t,p(x)}function i(t,e,n){var r=document.createElement("script");r.onerror=n,r.onload=e,r.type="text/javascript",r.id="ftr__script",r.async=!0,r.src="https://"+t;var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(r,o)}function a(){U(S.uAL),setTimeout(u,v,S.uAL)}function u(t){try{var e=t===S.uDF?m:g;i(e,function(){k(),x.ex=t+S.uS,p(x)},function(){try{k(),x.td=1*new Date-x.ts,x.ex=t+S.uF,p(x),t===S.uDF&&a()}catch(e){x.ex=t+S.eUoe,p(x)}})}catch(e){x.ex=t+S.eTlu,p(x)}}var c="fort",s="erTo",d="ken",f=c+s+d,l="6",h=3,m=e("(VQ(1fgq71iruwhu1frp2vq2(VQ(2vfulsw1mv"),g=e("g68x4yj4t5;e6z1forxgiurqw1qhw2vq2(VQ(2vfulsw1mv"),v=10;window.ftr__startScriptLoad=1*new Date;var p=function(t){var e=function(t){return t||""},n=e(t.id)+"_"+e(t.ts)+"_"+e(t.td)+"_"+e(t.ex)+"_"+e(l);r(f,n)},w=function(){str=n(f)||"";var t=str.split("_"),e=function(e){return t[e]||void 0};return{id:e(0),ts:e(1),td:e(2),ex:e(3),vr:e(4)}},T=function(){for(var t={},e="fgu",n=[],r=0;r<256;r++)n[r]=(r<16?"0":"")+r.toString(16);var o=function(t,e,r,o,i){var a=i?"-":"";return n[255&t]+n[t>>8&255]+n[t>>16&255]+n[t>>24&255]+a+n[255&e]+n[e>>8&255]+a+n[e>>16&15|64]+n[e>>24&255]+a+n[63&r|128]+n[r>>8&255]+a+n[r>>16&255]+n[r>>24&255]+n[255&o]+n[o>>8&255]+n[o>>16&255]+n[o>>24&255]},i=function(){if(window.Uint32Array&&window.crypto&&window.crypto.getRandomValues){var t=new window.Uint32Array(4);return window.crypto.getRandomValues(t),{d0:t[0],d1:t[1],d2:t[2],d3:t[3]}}return{d0:4294967296*Math.random()>>>0,d1:4294967296*Math.random()>>>0,d2:4294967296*Math.random()>>>0,d3:4294967296*Math.random()>>>0}},a=function(){var t="",e=function(t,e){for(var n="",r=t;r>0;--r)n+=e.charAt(1e3*Math.random()%e.length);return n};return t+=e(2,"0123456789"),t+=e(1,"123456789"),t+=e(8,"0123456789")};return t.safeGenerateNoDash=function(){try{var t=i();return o(t.d0,t.d1,t.d2,t.d3,!1)}catch(t){try{return e+a()}catch(t){}}},t.isValidNumericalToken=function(t){return t&&t.toString().length<=11&&t.length>=9&&parseInt(t,10).toString().length<=11&&parseInt(t,10).toString().length>=9},t.isValidUUIDToken=function(t){return t&&32===t.toString().length&&/^[\d\w]+$/.test(t)},t.isValidFGUToken=function(t){return 0==t.indexOf(e)&&t.length>=12},t}(),S={uDF:"UDF",uAL:"UAL",mLd:"1",eTlu:"2",eUoe:"3",uS:"4",uF:"9",tmos:["T5","T10","T15","T30","T60"],tmosSecs:[5,10,15,30,60]},y=function(t,e){for(var n=S.tmos,r=0;r<n.length;r++)if(t+n[r]===e)return!0;return!1};try{var x=w();try{x.id&&(T.isValidNumericalToken(x.id)||T.isValidUUIDToken(x.id)||T.isValidFGUToken(x.id))||(x.id=T.safeGenerateNoDash()),x.ts=window.ftr__startScriptLoad,p(x);var D=new Array(S.tmosSecs.length),U=function(t){for(var e=0;e<S.tmosSecs.length;e++)D[e]=setTimeout(o,1e3*S.tmosSecs[e],t+S.tmos[e])},k=function(){for(var t=0;t<S.tmosSecs.length;t++)clearTimeout(D[t])};y(S.uDF,x.ex)?a():(U(S.uDF),setTimeout(u,v,S.uDF))}catch(t){x.ex=S.mLd,p(x)}}catch(t){}
+})()
+</script>
+
 
 
 
@@ -1663,9 +1973,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1537568114995/internal/jscript/dwac-18.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-allenedmonds-Site/-/default/v1560440548913/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
