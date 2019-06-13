@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crackingpatching.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006211529id_/https%3A//crackingpatching.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackingpatching.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613214925id_/https%3A//crackingpatching.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CrackingPatching
 
