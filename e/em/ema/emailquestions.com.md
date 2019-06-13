@@ -1,76 +1,68 @@
-> *The following text is extracted and transformed from the emailquestions.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411010227id_/http%3A//www.emailquestions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailquestions.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613133900id_/https%3A//www.emailquestions.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Email Questions Privacy Policy Statement
+# Privacy Policy | Email Questions
+
+We are Email Questions ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us]().
+
+## What information we hold about you
+
+The type of data that we collect and process includes:
+
+  * Your name or username.
+  * Your email address.
+  * Your IP address.
 
 
-    Hello,
-    
-    Welcome to the [Email Questions](http://www.emailquestons.com/) Privacy Policy Page.
-    
-    The privacy of our visitors to EmailQuestions.com is important to us. 
-    
-    At EmailQuestions.com, we recognize that privacy of your personal information is
-    important. Here is information on what types of personal information we receive
-    and collect when you use visit EmailQuestions.com, and how we safeguard your 
-    information.  We never sell your personal information to third parties.
-    
-    Log Files
-    
-    As with most other websites, we collect and use the data contained in log files.
-    The information in the log files include  your IP (internet protocol) address, 
-    your ISP (internet service provider, such as AOL or Shaw Cable), the browser 
-    you used to visit our site (such as Internet Explorer or Firefox), the time you
-    visited our site and which pages you visited throughout our site. 
-    
-    Cookies and Web Beacons
-    
-    We do use cookies to store information, such as your personal preferences when 
-    you visit our site.  This could include only showing you a popup once in your 
-    visit, or the ability to login to some of our features, such as forums.
-    
-    We also use third party advertisements on EmailQuestions.com to support our site.  
-    Some of these advertisers may use technology such as cookies and web beacons 
-    when they advertise on our site, which will also send these advertisers (such 
-    as Google through the Google AdSense program) information including your IP 
-    address, your ISP , the browser you used to visit our site, and in some cases, 
-    whether you have Flash installed.  This is generally used for geotargeting 
-    purposes (showing New York real estate ads to someone in New York, for example)
-    or showing certain ads based on specific sites visited (such as showing cooking
-     ads to someone who frequents cooking sites).
-    
-        * Google, as a third party vendor, uses cookies to serve ads on your site.
-        * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-        * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
-    
-    You can chose to disable or selectively turn off our cookies or third-party 
-    cookies in your browser settings, or by managing preferences in programs such 
-    as [Norton Internet Security](http://www.emailquestions.com/out.php?q=norton).  However, this can affect how you are able to 
-    interact with our site as well as other websites.  This could include the 
-    inability to login to services or programs, such as logging into forums or 
-    accounts.
-    
-    EmailQuestions.com collects the e-mail addresses of those who make postings to our
-    forums and information volunteered by members in their member profile.
-    
-    The information we collect is used to improve the content of our Web
-    page, used to customize the content and/or layout of our page for
-    each individual visitor, and used to notify members about updates to the site.
-    
-    If you do not want to receive e-mail from us in the future, please
-    let us know by updating your options using your control panel by visiting us 
-    at http://www.emailquestions.com/usercp.php.
-    
-    With respect to security: When we transfer and receive certain types
-    of sensitive information such as a paypal donation, we redirect visitors 
-    to a secure server and will notify visitors through a secure web page.
-    
-    Thank you,
-    EmailQuestions.com
-    
-    
-    
-    
-    
-    
-    
-    
+
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
+
+We collect some or all of this information in the following cases:
+
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile.
+
+
+
+## How your personal information is used
+
+We may use your personal information in the following ways:
+
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
+  * We may use your email address to inform you of activity on our site.
+  * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
+
+
+
+## Other ways we may use your personal information.
+
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
+
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
+
+## Keeping your data secure
+
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
+
+## Cookie policy
+
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
+
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20190613133900id_/https%3A//www.emailquestions.com/help/help/cookies).
+
+## Rights
+
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us]() to ask us to complete or correct that information.
+
+You also have the right to request the erasure of your personal data. Please [contact us]() if you would like us to remove your personal data.
+
+## Acceptance of this policy
+
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
+
+## Changes to this policy
+
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
+
+[ ](https://www.emailquestions.com/)
