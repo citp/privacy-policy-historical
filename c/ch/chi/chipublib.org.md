@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chipublib.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119010201id_/http%3A//chipublib.bibliocommons.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipublib.org privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613100422id_/http%3A//chipublib.bibliocommons.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy | Chicago Public Library | BiblioCommons
 
-Last updated: Jan 19, 2015
+Last updated: Apr 15, 2019
 
 Chicago Public Library has entered into an agreement with BiblioCommons to provide an online service that will make it easier to track your holds and renewals and find the titles you are looking for. In addition, you may also choose to use this service to share ratings and commentary about the titles you find at Chicago Public Library, and to connect with other library users. When you use the pages in Chicago Public Library's catalog that say “Powered by BiblioCommons” in the lower left-hand corner of the screen, you are using what is referred to in this document as the “BiblioCommons Service,” and any information that is collected or shared here will be governed by this Privacy Statement.
 
@@ -38,7 +38,7 @@ If you participate in some optional services, for example youth and literacy pro
 
 ### How is my personal information used?
 
-We use your personal information to create an online account in your name, provide the services that you have requested, monitor and improve the service, keep your library record up to date, and customize content. We do not share your information or activity with ad networks or other entities that are not directly involved in the services you choose to use. 
+We use your personal information to create an online account in your name, provide the services that you have requested, monitor and improve the service, keep your library record up to date, and customize content. We may store some of this information in a secure third-party data repository. We do not share your information or activity with ad networks or other entities that are not directly involved in the services you choose to use. 
 
 If you choose to share information or opinions about books, movies, music, and other topics, participate in online conversations, or create selections using Lists or My Shelves (“Shared Content”), information such as the username or name you have chosen to display, your library affiliation(s) and age group may accompany your Shared Content and appear on a profile page that summarizes your Shared Content. If you would like to change your username or modify the information that is made publicly available in connection with these features, please visit your [Settings](https://web.archive.org/account/personal_information).
 
@@ -46,9 +46,9 @@ BiblioCommons may disclose your personal information and any content associated 
 
 ### Is my personal information protected?
 
-Information in your BiblioCommons account that personally identifies you is encrypted and stored in a secured facility. This information will be used by BiblioCommons and Chicago Public Library to deliver the services you request in accordance with this Privacy Statement. BiblioCommons will not share, gift, sell, rent or trade your personal information (e.g., your email address or month and year of birth). But we may display Shared Content (defined below) in the BiblioCommons Service, or make other commercial uses of Shared Content.
+Information in your BiblioCommons account that personally identifies you is encrypted and stored in a secured facility in Canada. This information will be used by BiblioCommons and Chicago Public Library to deliver the services you request in accordance with this Privacy Statement. BiblioCommons will not share, gift, sell, rent or trade your personal information (e.g., your email address or month and year of birth). But we may display Shared Content (defined below) in the BiblioCommons Service, or make other commercial uses of Shared Content.
 
-**Law Enforcement Requests**
+#### Law Enforcement Requests
 
 BiblioCommons does not share information in response to law enforcement requests unless it is presented with a warrant or other legal compulsion. 
 
@@ -62,7 +62,7 @@ At any time, you may delete your BiblioCommons account without deleting your Chi
 
 No, you do not need to provide contact information to use the BiblioCommons Service. However you may choose to do so in order to receive notices related to your use of the library through the BiblioCommons Service. Your contact information will not be used by BiblioCommons for any other purpose without your consent, or shared with any party other than Chicago Public Library without your direction to do so. We encourage you to check Chicago Public Library's policies to understand the other ways in which your contact information may be used by Chicago Public Library.
 
-BiblioCommons may send email or display messages on the service that provide you with the choice to take advantage of new features and functionality based on your past activity and stated preferences. To change your preferences for system messaging, please go to [My Settings](https://web.archive.org/user/account).
+BiblioCommons may send email or display messages on the service that provide you with the choice to take advantage of new features and functionality based on your past activity and stated preferences. To change your preferences for system messaging, please go to [My Settings](https://web.archive.org/account).
 
 ### What measures are in place to protect children?
 
@@ -83,7 +83,7 @@ More information about children's safety online can be found on the following si
 
 _Safety tips for children:_
 
-  * <http://www.safekids.com/kids-rules-for-online-safety/>
+  * <http://kidshealth.org/en/kids/internet-safety.html>
   * <http://www.safesurfingkids.com/tips_for_kids.htm>
 
 
@@ -147,6 +147,7 @@ BiblioCommons also records anonymous information and activity in order to improv
   * Data from your account may also be aggregated in an anonymous way.
   * Anonymous search logs are analyzed to improve the search algorithms.
   * Activity such as borrowing and reading may be aggregated anonymously to guide the development of the library's collections or to allow publishers to understand how their titles are being used.
+  * Non-identifying information may be stored in a secure online service such as Google Analytics for use by BiblioCommons or your library. You can opt out of recording your non-identifying site-activity data on Google Analytics by installing the [Google Analytics opt-out browser add-on](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh?hl=en). The add-on prevents the Google Analytics JavaScript (gtag.js, ga.js, analytics.js, and dc.js) that is running on websites from sharing information with Google Analytics about visit activity.
 
 
 
@@ -172,7 +173,7 @@ This privacy statement may change from time to time in response to new laws, or 
 
 In the event that Chicago Public Library discontinues its participation in the BiblioCommons Service, the Chicago Public Library may transfer your information to a new service of a similar nature. In addition, Chicago Public Library may agree to have your information transferred to a successor entity of BiblioCommons or to any entity which purchases substantially all of the assets related to BiblioCommons or a division of BiblioCommons.
 
-Comments? Questions? Contact us. privacy@bibliocommons.com
+Comments? Questions? Contact us. [privacy@bibliocommons.com](mailto:privacy@bibliocommons.com)
 
 Privacy Officer  
 BiblioCommons  
