@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xeplayer.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202011825id_/http%3A//www.xeplayer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeplayer.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613155007id_/http%3A//www.xeplayer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | XePlayer.com
 
