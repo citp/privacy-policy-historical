@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cawebpages.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212154742id_/http%3A//www.cawebpages.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cawebpages.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613143531id_/http%3A//www.cawebpages.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Calgary, Edmonton, Toronto, Red Deer, Lethbridge, Canada Directory
 
