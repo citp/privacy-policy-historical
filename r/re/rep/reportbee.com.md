@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reportbee.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163842id_/https%3A//www.reportbee.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reportbee.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613181916id_/https%3A//www.reportbee.com/privacy_policy) for the most accurate reproduction.*
 
 # Report Bee | Smart Report Cards for Schools | Statistical Analysis in Education" to Report Bee | Smart Report Cards for Schools | Big Data Analytics in Education
 
