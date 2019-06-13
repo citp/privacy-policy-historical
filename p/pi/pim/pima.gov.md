@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pima.gov privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212020736id_/http%3A//webcms.pima.gov/hipaa_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pima.gov privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613094921id_/http%3A//webcms.pima.gov/hipaa_privacy_statement) for the most accurate reproduction.*
 
 # HIPAA/Privacy Statement - Pima County
 
