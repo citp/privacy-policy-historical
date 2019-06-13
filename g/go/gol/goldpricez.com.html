@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goldpricez.com privacy policy that was archived on 2018-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181201142636id_/http%3A//goldpricez.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldpricez.com privacy policy that was archived on 2019-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190613163317id_/http%3A//goldpricez.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -155,6 +155,7 @@ We use the following third-party programs, they also use cookies and web beacons
 </p><ul>
   <li>Google Analytics Service </li>
   <li>Google Adsense Service </li>
+  <li>Media.Net </li>
 </ul>
 
 <p></p>
@@ -167,7 +168,14 @@ You can read more about these websites (e.g.,  working, web beacons, cookies  et
 <br>
 For more information about cookies and method of removing cookies from your computer (or handheld device, etc.), visit  <a target="_blank" href="http://www.allaboutcookies.org/" rel="nofollow">  this (third-party) website  </a>  
  	</p> 
- 	
+ 		<br>
+<p>
+We do not buy or sell any service or product directly, but purchases are made on external affiliate company websites (e.g., Amazon and etc): when a reader clicks on an affiliate link located on goldpricez.com to purchase an item, and the reader buys the item from the seller directly (not from the goldpricez.com).
+
+  Affiliate companies pay goldpricez.com a small commission or other compensation for helping to bring customers to their website.
+
+
+</p>
  	
  	<br>
  	<p>
@@ -179,6 +187,10 @@ Gold Price signals are generated without human intervention using automated bio-
 
 
 	</p> 
+	
+
+
+
 <br><br>
 	<h2>Legal Information and Terms of Use:</h2>
 	<p>
@@ -192,6 +204,7 @@ We accept no claims as to the correctness, completeness, timeliness for any part
 <p>
 If you (user) uses our data or any service, then you should acknowledge goldpricez.com.
 </p>
+
 <br>
 <p>
  By using this website, you accept and agree to all terms and condition, legal information, privacy, and the disclaimer, etc., AND you also agree that we can update all information (including the terms and condition, privacy and disclaimer, anything) from time to time without notice to you. 
@@ -233,25 +246,105 @@ If we required to change our privacy policy, we will post those changes on this 
 		<div class="col c12 aligncenter">
 	<div class="footer">
 			.<div class="font17" id="footer" itemscope="" itemtype="http://schema.org/WPFooter">
-Copyright @ <span itemprop="copyrightYear">2018</span>
+Copyright @ <span itemprop="copyrightYear">2019</span>
    |<span itemscope="" id="foot-navigation">
    	 
    <a itemprop="url" href="http://goldpricez.com/privacy-policy" title="Privacy Policy">Privacy Policy</a>
  | <a itemprop="url" href="http://goldpricez.com/about-us" title="About Us">About Us</a> 
  | <a itemprop="url" href="http://goldpricez.com/contact-us" title="Contact us">Contact Us</a> 
+ | <a itemprop="url" href="http://goldpricez.com/about/affiliate_disclosure" title="Affiliate Disclosure">Affiliate Disclosure</a> 
+ 
+
   | <a itemprop="url" href="http://goldpricez.com/disclaimer" title="Disclaimer">Disclaimer</a>  
    </span>
  </div>
- <br><br>
- <div id="gdpr_cookies_consent" class="js_enabled" data-cookie-expiry="365">This website uses cookies, by accessing it you accept <a href="http://goldpricez.com/privacy-policy">privacy</a> policy etc. &nbsp;
+ 
+ <div id="gdpr_cookies_consent" class="js_enabled" data-cookie-expiry="365" style="display: block;">This website uses cookies, by accessing you accept <a href="http://goldpricez.com/privacy-policy">privacy</a> policy etc. &nbsp;
     <a href="#" title="Close this message" onclick="createReadGdprConsentCookie(); return false;"> X </a></div>
 <script>
  if(document.getElementById("gdpr_cookies_consent") !=null)
 document.getElementById("gdpr_cookies_consent").className = "js_enabled";
+(function() {
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+
+    var cookieMessage = document.getElementById('gdpr_cookies_consent');
+    if (cookieMessage == null) {
+        return;
+    }
+    var cookie = readCookie('gpz_seen-cookie');
+    
+   // alert(cookie);
+    if (cookie != null && cookie == 'yes') {
+        cookieMessage.style.display = 'none';
+    } else {
+        cookieMessage.style.display = 'block';
+    }
+    
+    // Set/update cookie
+    var cookieExpiry = cookieMessage.getAttribute('data-cookie-expiry');
+    if (cookieExpiry == null) {
+        cookieExpiry = 365;
+    }
+    
+    
+  
+
+
+})();
+
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+ 
+
+  function createReadGdprConsentCookie() { 
+     
+    var d = new Date();
+    var exdays=365;
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires="+ d.toUTCString();
+    var language = navigator.languages && navigator.languages[0] || // Chrome / Firefox
+               navigator.language ||   // All browsers
+               navigator.userLanguage; // IE <= 10
+               var timezineoffset = d.getTimezoneOffset();
+               document.cookie = "gpz_seen-cookie=yes;utimezone="+timezineoffset+";lang="+language + ";" + expires + ";path=/";
+    
+     
+       var cookieMessage = document.getElementById('gdpr_cookies_consent');
+     var cookie = getCookie('gpz_seen-cookie');
+    if (cookie != null && cookie == 'yes') {
+        cookieMessage.style.display = 'none';
+    } else {
+        cookieMessage.style.display = 'block';
+    }
+     
+      
+        return null
+}
 </script>
-<script src="http://goldpricez.com/assets/gdpr-cookie-consent.js"></script>
-<link href="http://goldpricez.com/assets/gdbpr_cookie_consent.css" rel="stylesheet" type="text/css">
-	
+
 			
 </div>
 		</div>
