@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cyberghostvpn.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227040322id_/https%3A//www.cyberghostvpn.com/en_US/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberghostvpn.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613195424id_/https%3A//www.cyberghostvpn.com/en_US/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | CyberGhost VPN
 
-This privacy policy (" **Privacy Policy** " or " **Policy** ") sets forth the privacy practices of CyberGhost S.A. (hereinafter called " **CyberGhost** " or " **Company** ") and applies to users (" **user** (s)" or " **you** ") of the VPN Software currently known as " **CyberGhost  VPN**" (" **CyberGhost  VPN**") available through the company's website at: [cyberghostvpn.com](https://web.archive.org/) (" **Website** ")
+This privacy policy (" **Privacy Policy** " or " **Policy** ") sets forth the privacy practices of CyberGhost S.A. (hereinafter called " **CyberGhost** " or " **Company** ") and applies to users (" **user** (s)" or " **you** ") of the VPN Software currently known as " **CyberGhost  VPN**" (" **CyberGhost  VPN**") available through the company's website at: [cyberghostvpn.com](https://web.archive.org/en_US/) (" **Website** ")
 
 CyberGhost has an unequivocal company policy: the strongest observance of data protection and uncompromising protection of the user privacy. Therefore, when using the CyberGhost VPN, the user's traffic data such as browsing history, traffic destination, data content and search preferences are not monitored, recorded, logged or stored by the Company. More than this, when using the CyberGhost VPN, we are not storing connection logs, meaning that we don't have any logs tied to your IP address, connection timestamp or session duration.
 
@@ -40,7 +40,7 @@ We automatically collect anonymous Non-personal Information through different te
 
 ### A. Website:
 
-Our website may use 3rd parties such as Google Analytics and third-party analytics, such as Facebook, Bing, Yahoo, Twitter and MixPanel, to better understand how you use the Site and ways that we can improve your experience. Through these tools, we can see trends of usage of our Website such as total number of unique users, popular webpages or articles by number of total impressions, etc. These third parties use pixels or cookies to measure things such as the average time spent by users on the Site or visited pages so we learn how to improve the Site for you. Please see more information about this in our Cookie Policy [https://www.cyberghostvpn.com/en_US/cookiepolicy](https://web.archive.org/en_US/buy) .
+Our website may use 3rd parties such as Google Analytics and third-party analytics, such as Facebook, Bing, Yahoo, Twitter and MixPanel, to better understand how you use the Site and ways that we can improve your experience. Through these tools, we can see trends of usage of our Website such as total number of unique users, popular webpages or articles by number of total impressions, etc. These third parties use pixels or cookies to measure things such as the average time spent by users on the Site or visited pages so we learn how to improve the Site for you. Please see more information about this in our Cookie Policy [https://www.cyberghostvpn.com/en_US/cookiepolicy](https://web.archive.org/en_US/cookiepolicy) .
 
 To learn more how Google uses data from our use of Google Analytics Cookie we recommend you review Google’s policies located at: [www.google.com/policies/privacy/partners](https://www.google.com/policies/privacy/partners). We also encourage you to review the Google Analytics' currently available opt-outs for the web tool available at: <https://tools.google.com/dlpage/gaoptout/>.
 
@@ -58,7 +58,7 @@ Connection Successful: We collect this information to know how many users per ho
 
 ## Ordering Our Service
 
-To order our Service you must choose which option works best for you on our pricing [page](https://web.archive.org/buy), once you click on order now you will be asked to register to create a secure account by inserting your email account. Thereafter you will be asked to choose your method of payment between credit card, paypal and bitcoin. The specific information collected varies depending on the payment method you choose. To minimize the amount of Personal Data you submit to us, we recommend that you use bitcoin payments when subscribing to our Service.
+To order our Service you must choose which option works best for you on our pricing [page](https://web.archive.org/en_US/buy), once you click on order now you will be asked to register to create a secure account by inserting your email account. Thereafter you will be asked to choose your method of payment between credit card, paypal and bitcoin. The specific information collected varies depending on the payment method you choose. To minimize the amount of Personal Data you submit to us, we recommend that you use bitcoin payments when subscribing to our Service.
 
 Please note that CyberGhost itself does not process any orders or payments. We work exclusively with payment processors such as Cleverbridge (cleverbridge AG, 2-4 Brabanter Str., 50674 Cologne, Germany) and/or Stripe and/or Paypal. You can find information about the payment services providers' privacy policies and practices at <https://www.cleverbridge.com/corporate/privacy-policy/> and <https://stripe.com/us/privacy>.
 
