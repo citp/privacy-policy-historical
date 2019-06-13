@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the pathologyoutlines.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219221746id_/http%3A//www.pathologyoutlines.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathologyoutlines.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613045501id_/http%3A//www.pathologyoutlines.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Pathology Outlines - Privacy Policy
+
+**Page views in 2018:** 109
+
+ **Page views in 2019 to date:** 89
 
 Privacy Notice
 
