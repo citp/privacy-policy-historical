@@ -1,81 +1,83 @@
-> *The following text is extracted and transformed from the colorschemer.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050557id_/http%3A//colorschemer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorschemer.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613052801id_/https%3A//www.colorschemer.com/privacy-policy) for the most accurate reproduction.*
 
-# ColorSchemer | Privacy Policy
+# Privacy Policy - ColorSchemer
 
-## ColorSchemer Privacy Policy
+This document was last updated on **Nov 7, 2018**
 
-This Privacy Policy was last modified on 1/31/2014.
+This Privacy Policy governs the manner in which [ColorSchemer](https://www.colorschemer.com/) collects, uses, maintains and discloses information collected from users of the website (www.colorschemer.com).
 
-ColorSchemer ("we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected when you use the ColorSchemer Service (our "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use. 
+## Personal identification information
 
-#### Information We Collect and Use
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address.
 
-User-Provided Information: You provide us information about yourself, such as your name, company, e-mail address, password, and billing information when you make a purchase or register for our Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may collect information about how you use the Service, such as how you connect, communicate and share information with others on our Service and the content of your messages and user content you post on the Service. We may also collect information about you through third party social networks, such as when you connect your social media account to our Service, such as by "liking" us on Facebook, or "pinning" us on Pinterest. The information we receive is dependent upon your privacy settings with the social networks. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to our Service. 
+Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service, as well as to communicate directly with you, such as by sending you email messages providing information on changes to the Service, newsletters, and special offers, and to permit you to communicate with other users of the Service. If you do not want to receive such email messages, you may opt out or change your preferences in your account settings page. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails. 
+## Non-personal identification information
 
-Following termination or deactivation of your User account, we may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, we may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your User account. 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. We store this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at [support@colorschemer.com](mailto:support@colorschemer.com). 
+## Web browser cookies
 
-We may use certain information about you and/or your User Content internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content. 
+Our Site may use “COOKIES” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Information Automatically Collected: When you visit the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets ColorSchemer help you log in faster and enhance your navigation through the site. A cookie may also convey information about how you browse the Service to us (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information from your browser or mobile device each time you access the Service. Log file information may include anonymous information such as your web request, Internet Protocol ("IP") address, browser type, information about your mobile device, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Service. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. When you access our Services by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device ("Device ID"), mobile carrier, device type and manufacturer, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device. Location data may convey to us information about how you browse and use the Service, and to personalize advertising and content. 
+## How we use collected information
 
-We use the data collected through cookies, clear gifs, and log files and device identifiers to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including behaviorally targeted advertising; (c) monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; and (e) diagnose or fix technology problems reported by our Users or engineers that are associated with certain IP addresses. 
+ColorSchemer may collect and use Users personal information for the following purposes:
 
-#### How We Share Your Information
+  * **To run and operate our Site**  
+We may need your information display content on the Site correctly.
+  * **To personalize user experience**  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * **To improve our Site**  
+We may use feedback you provide to improve our products and services.
+  * **To send periodic emails**
 
-Personally Identifiable Information: We will not rent or sell your personally identifiable information to others. We may share your information with other companies owned by or under common control as ColorSchemer, which includes our subsidiaries or our ultimate holding company and any subsidiaries it owns. We may share your personally identifiable information with third parties for the purpose of providing the Service to you, which may include identifying and service targeted advertisements, content or service fulfillment, billing, or providing analytic services. We may store personal information in locations outside of our direct control (for instance, on servers or databases co-located with hosting providers). 
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution. 
 
-Any personal information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. To change your privacy settings on the Service, visit your account settings page. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information. 
+## How we protect your information
 
-From time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events. 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of ColorSchemer or Creative Market Labs, our Users or others. 
+## Sharing your personal information
 
-Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for our Services. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-#### Your Choices About Your Information
+We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-You may, of course, decline to submit personally identifiable information through the Service, in which case ColorSchemer may not be able to provide certain services to you. 
+## Electronic newsletters
 
-You may update or correct your account information and modify your communication preferences at any time by logging in to your account settings page or by clicking "unsubscribe" button on promotional emails. You can review and correct the information about you that ColorSchemer keeps on file by contacting us directly at [privacy@colorschemer.com](mailto:privacy@colorschemer.com). 
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys.
 
-#### Online Advertising
+We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-We may allow third-party ad servers or ad networks to collect information about you and to serve advertisements on the Service. These third-party ad servers or ad networks use cookies or similar tracking technology to collect information about your browsing habits and to send, directly to your browser, the advertisements and links that appear on our sites and to on other sites around the web. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. The ColorSchemer Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. We are not able to respond to the Do Not Track signals sent by your browser at this time. The only way to opt-out of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser's or mobile device's technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). Additionally, many advertising networks provide an opt-out at <http://www.aboutads.info/choices>. Depending on your mobile device, you may not be able to control tracking technologies through settings. 
+## Third party websites
 
-#### How We Protect Your Information
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site.
 
-We care about the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to ColorSchemer or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Your privacy settings may also be affected by changes to the functionality of ColorSchemer's distributors, such as social networks. We are not responsible for the functionality or security measures of any third party. 
+In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies.
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from ColorSchemer, at all times. 
+Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-#### Compromise of Personal Information
+## Advertising
 
-In the event that personal information is compromised as a result of a breach of security, we will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law. 
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-#### Children's Privacy
+## Google Adsense
 
-Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on ColorSchemer. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@colorschemer.com](mailto:support@colorschemer.com). 
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc.
 
-#### Links to Other Web Sites
+You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <https://policies.google.com/technologies/ads>
 
-We may provide links to third party sites from our site or emails. We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding. 
+## Changes to this privacy policy
 
-#### Notification Procedures
+ColorSchemer has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page.
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by us in our sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy. 
+We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-#### Changes to Our Privacy Policy
+## Your acceptance of these terms
 
-We may update its Privacy Policy from time to time, and so you should review this Policy periodically. When we change the policy in a material way, we will update the 'last modified' date at the top of this Privacy Policy. Changes to this Privacy Policy are effective when they are posted on this page. 
+By using colorschemer.com, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [support@colorschemer.com](mailto:support@colorschemer.com), or send mail to: 
+## Contacting us
 
-Creative Market Labs, Inc.  
-333\. S. State St. Suite V #232  
-Lake Oswego, OR 97034 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us using [contact us](https://www.colorschemer.com/contact/) page.
