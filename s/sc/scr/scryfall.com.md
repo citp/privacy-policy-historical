@@ -1,88 +1,114 @@
-> *The following text is extracted and transformed from the scryfall.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006083637id_/https%3A//scryfall.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scryfall.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613224933id_/https%3A//scryfall.com/docs/privacy) for the most accurate reproduction.*
 
-# Privacy Policy · Scryfall Magic Card Search
+# Privacy and Security · Scryfall Magic: The Gathering Search
 
-Thanks for using Scryfall! This page outlines what kind of information we collect and store about our site visitors and what we do with it.
+**The Scryfall team believes that privacy is a fundamental human right**. We seek to minimize the amount of personal information that we collect and store.
 
-## TL;DR Summary
+We are not interested in advertising or building predatory “profiles” of our visitors. Any information we do collect is only used to operate Scryfall, provide paid services, and make informed decisions about how to improve our products. We also don’t sell or trade visitor information with other companies.
 
-  * This site may set cookies or write other information to your browser cache. We use this information to remember your preferences.
-  * Scryfall collects statistics about the behavior of people who visit the site or use the API. This information is anonymous (except for IP address). We collect this information so we can make better decisions about how to improve the site.
-  * When viewing this site, you use an encrypted connection.
-  * We don’t sell any of this information to anyone.
+This document provides details about what kind of data Scryfall gathers and how we manage and protect it.
 
+## Secure Browsing
 
+Scryfall forces [HTTPS](https://en.wikipedia.org/wiki/HTTPS) for all services, including our public website and API. Information you submit to Scryfall is private and cannot be seen by your internet service provider or anyone else on your network.
 
-## Cookies and Other Caches
+Scryfall embraces modern web security practices and we deploy a suite of security features, including [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) and [CSP](https://en.wikipedia.org/wiki/Content_Security_Policy).
 
-Scryfall has a few features that require us to remember your preferences (search layout, saved cards, etc). We use a combination of [cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies) and your browser’s [local storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) to track this information.
+We regularly audit our server configuration. You can inspect our grading yourself on multiple sites below:
 
-We also use [Google Analytics](https://en.wikipedia.org/wiki/Google_Analytics) and [CloudFlare](http://cloudflare.com/) on Scryfall. These services may set a cookie keep track of your return visits to the site.
+## Cookies and Browser Data
 
-No secret information is saved in your browser cache. If you want to remove all of this information, you can [clear your browser history](http://www.refreshyourcache.com/).
+Scryfall has features that require us to remember your preferences and identify who is logged in to our sites. We use a combination of [browser cookies](https://en.wikipedia.org/wiki/HTTP_cookie) and your browser’s [local storage](https://en.wikipedia.org/wiki/Web_storage) to track this information.
 
-## Behavior and Vistior Tracking
+Account identifiers in cookies are encrypted, and settings in local storage are anonymized. We only set these items when you specifically log in to the site or change your preferences.
 
-Scryfall uses [Google Analytics](https://en.wikipedia.org/wiki/Google_Analytics) to track how many visits we get to the site and what people do on the site.
+**Take control:** If you no longer want this information your device, you can clear your history and cookies:
 
-When you visit the site, we collect statistics such as:
+## Analytics Data
 
-  * Which [site you came from](https://en.wikipedia.org/wiki/HTTP_referer) (Twitter, Reddit, a forum, etc)
-  * Your public IP address
+When you use Scryfall, we collect statistical data about the device and network you used to access the site, including:
+
   * Your browser version (Safari, Firefox, Chrome, etc)
-  * Your operating system version (macOS, Windows, iPhone, etc)
+  * Your operating system (macOS, Windows, iPhone, etc)
   * The size of your screen
-  * Your country, city, and system language
+  * Your system language
+  * Your network provider (Verizon, O2, Rogers, etc)
+  * Your country
 
 
 
-We also track behavior anonymously. For example:
+We also collect behavior data. For example, we keep track of which buttons and links people click to get around on the site and how often they come back.
 
-  * We keep track of which buttons and links people click to get around on the site.
-  * We keep track of what people search for in the search box.
-  * We keep track of how long you stay on the site and if you come back.
+This information is stored with [Google Analytics](https://en.wikipedia.org/wiki/Google_Analytics) and is anonymized and aggregated. When possible, we disable any Google Analytics [data sharing settings](https://support.google.com/analytics/answer/1011397?hl=en&utm_id=ad) to limit the amount of additional analysis Google can perform with this data. Scryfall also does not use the [User-ID](https://support.google.com/analytics/answer/3123662?hl=en) system.
 
+Only Scryfall administrators have access our analytics data. We collect this information so that we can make better decisions about how to improve Scryfall. We never sell or trade this information to any other company.
 
+**Opt-out:** You have the option to [opt-out of Google Analytics](https://tools.google.com/dlpage/gaoptout) using [their browser extension](https://tools.google.com/dlpage/gaoptout) or any of the available content blocking plugins for your platform.
 
-We collect this information so that we can make better decisions about how to improve the site. We never sell this information to any other company.
+**Opt-out:** You can set a [Do Not Track setting](https://allaboutdnt.com/) in your browser, which Google Analytics will honor.
 
-## Bot Tracking
+**Take control:** If you want to remove identifiers Google Analytics may have left on your device, you can clear your history and cookies:
 
-When you use the Scryfall chat bots, the bots listen in your channel so that they can react to messages you send. The messages are sent to our servers for inspection, but **we do not permanently save your messages or send them to anyone else**. That said, **if you discuss vitally secret or life-threatening information on your server, please do not install our chatbots.**
+## Scryfall Accounts
 
-When you use our bots:
+You can [register](https://web.archive.org/pricing) for an Scryfall account in order to use personalized or exclusive features. If you do, the information in this section applies to you.
 
-  * We keep track of what cards people ask for
-  * We collect anonymous statistics about bot usage, such as the hours of the day your server uses the bots and which features you use
+**Personal information** : In order to open an account, you will need to provide us with some required information, including a username and email address. You may also provide other optional information such as a display name, your Twitter handle, and an account avatar. None of this information needs to contain your legal name.
 
+Scryfall uses this information to provide you with account services and communicate changes made to your account. Creating an account is optional and you do not need to provide any personal information to Scryfall otherwise.
 
+**Data privacy** : Your email address is private; we will never share your account email with anyone. Your username, display name, avatar, and Twitter handle will be public. They may be visible to other people who use Scryfall.
 
-We collect this information so that we can make better decisions about how to improve the bots. We never sell or share this information with any other company.
+**Email policy:** Scryfall will only send you critical account-related emails. For example, you may receive a message when you sign up, change account settings, or log in to the site. If you no longer wish to receive account-related emails, you may [delete your account](https://web.archive.org/settings/safety). Scryfall does not have a “newsletter” or other marketing email lists.
 
-## API Tracking
+**Password policy:** Scryfall accounts do not use passwords. Instead, when you log in or perform sensitive account tasks, we send you a confirmation email containing a one-use link.
 
-When you use the Scryfall API or any of the chat bots or tools we provide, we collect some information. For example:
+Scryfall also supports two-factor authentication. Two-factor authentication improves the security of your Scryfall account by requiring that you enter a secondary passcode from an app each time you sign in.
 
-  * We keep track of what people search for.
-  * We collect statistics about where the API request came from, such as the public IP address, country, and city.
+[ **Manage your security settings** ](https://web.archive.org/settings/security)
 
+**Data storage** : Scryfall is built on [Heroku](https://www.heroku.com/what) and we store account and system data in the United States, using [Heroku Postgres](https://www.heroku.com/postgres). You can [read more about Heroku’s security practices](https://www.heroku.com/policy/security).
 
+In order to investigate and troubleshoot account issues, Scryfall administrators have access to the database and account data. When team members no longer need this level of access, we revoke it, even if that person otherwise remains a part of the Scryfall team.
 
-We collect this information so that we can make better decisions about how to improve the API. We never sell this information to any other company.
+**Take control:** You can log out of the Scryfall website by visiting the link below.
 
-## Encryption
+[ **Sign-out of Scryfall** ](https://web.archive.org/signout)
 
-When you use Scryfall, your browser connects over an [encrypted channel](https://en.wikipedia.org/wiki/HTTPS). This accomplishes two things:
+**Take control:** You can delete your Scryfall account at any time. If you do, Scryfall will remove all information we have about you, including your account details, your settings, your comments, and your decks. Please note that once you delete an account, all of that information will be unrecoverable, even by Scryfall administrators. You can delete your Scryfall account by visiting the link below:
 
-  1. It prevents someone else from snooping on what you search for and do on this site
-  2. It likely speeds up your connection to the site by blocking certain kinds of interference
+[ **Delete Your Account** ](https://web.archive.org/settings/safety)
 
+## Payment Processing
 
+You can sign up for optional paid Scryfall services. If you do, the information in this section applies to you.
 
-You can [analyze our setup on Qualys SSLLabs](https://www.ssllabs.com/ssltest/analyze.html?d=scryfall.com) and the [Mozilla Observatory](https://observatory.mozilla.org/analyze.html?host=scryfall.com). We’re rather proud of it.
+**Data storage** : Scryfall adheres to [PCI security standards](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard) for payments by using [Stripe](https://stripe.com/) to capture card information and process transactions. You can [read more about Stripe’s security](https://stripe.com/docs/security/stripe).
 
-## Updates to this Statement
+**Personal information** : To sign up for paid Scryfall services, you will need to provide some required source information, such as debit or credit card details. The payment information that you provide is securely captured by Stripe. Scryfall team members can never see your full card number or card security code.
 
-Although most changes are likely to be minor, Scryfall may adjust this statement from time to time. For major updates, we will try to announce changes on Twitter or a weblog.
+## Scryfall Bots
 
-If you have questions or concerns about this privacy statement, please don’t hesitate to [contact us](https://web.archive.org/contact).
+Scryfall operates free chatbots that you can install on some chat services like Slack and Discord.
+
+If you install Scryfall’s chat bots on your server, the bots will listen to your channels to determine if they need to respond to a message. Messages are sent to Scryfall’s server over an encrypted connection for automated inspection.
+
+In order to troubleshoot bot issues, Scryfall administrators are able to see messages sent to our bots for a period of less than 24 hours. After this time, Scryfall discards this data and does not permanently store bot messages.
+
+For your safety, please do not install our chatbots on servers where vitally secret, confidential, tactical, or life-threatening information is discussed.
+
+**Take control:** On Slack, you can limit the amount of information that our bot receives by inviting it only to a [channels you approve](https://get.slack.help/hc/en-us/articles/201898668-Remove-someone-from-a-channel). You can also completely remove the bot by [removing the integration](https://slack.com/apps/manage) in your server settings.
+
+**Take control:** On Discord, the bot listens to all public text channels. If you no longer wish to use the bot you can kick it from your server.
+
+## Legal Disclosure
+
+Scryfall is bound by the law of the United States. We may be required to disclose personal information we have in order to comply with the legal process, protect or defend our rights or property, or protect the rights of others.
+
+When we disclose information, will will do so only after reviewing the legal request carefully. We will seek to reject overly broad or unclear requests. And if we confirm that the request is valid and legal, we will disclose the narrowest amount of information required to comply.
+
+If we must disclose your personal information in order to comply with the law, we will notify you as soon as we are able to.
+
+## Questions?
+
+If you have questions or concerns about this privacy information, please don’t hesitate to [contact us](https://web.archive.org/contact).
