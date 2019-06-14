@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsassist.in privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212073030id_/http%3A//www.jobsassist.in/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsassist.in privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614131933id_/http%3A//www.jobsassist.in/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
