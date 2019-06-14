@@ -1,63 +1,157 @@
-> *The following text is extracted and transformed from the cardsdirect.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121080121id_/https%3A//www.cardsdirect.com/about_us/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardsdirect.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614213133id_/http%3A//www.cardsdirect.com/about_us/privacypolicy.aspx) for the most accurate reproduction.*
 
 # CardsDirect's Customer Privacy Policy
 
-PRIVACY POLICY
+At cardsdirect.com, we respect our customers and understand that you are concerned about privacy.  The purpose of this privacy notice is to let you know what kind of information we collect, how we use it, with whom it may be shared, what choices you have regarding our use of your information, and how you may review and change some of the data you provide to us. For your benefit, we’ve provided an _Overview _ of our privacy practices and the _Full Privacy Notice _ below.
 
-At cardsdirect.com, we respect our customers and understand that you are concerned about privacy. The purpose of this privacy policy is to let you know what kind of information we collect, how we use it, with whom it may be shared, what choices you have regarding our use of your information, and how you may review and change some of the data you provide to us. Our practices comply with all applicable U.S. laws and requirements.
+Our practices comply with applicable U.S. laws and requirements. We are located in the United States and this is an U.S.-based website.  By using this site, you agree to the transfer of your personal information to or within the United States.  If you are located within the European Union and are transmitting personal data on this website please review the “ _GDPR Support _” section below.
 
-We are located in the United States and this is a U.S.-based web site. By using this site, you agree to the transfer of your personal information to or within the United States. 
+As we continue to develop our website and take advantage of technologies to improve the services we offer, this policy likely will change.  When we change it, we will post the change(s) on our website.  If we change the policy in a material way, we will provide appropriate online notice to you. You can determine when this version of the privacy notice was adopted by referring to the “ _Effective Date _” below.  If you have questions about our privacy notice, please contact us via email at [gdprnotices@cardsdirect.com](mailto:gdprnotices@cardsdirect.com).
 
-As we continue to develop our web site and take advantage of technologies to improve the services we offer, this policy likely will change. When we change it, we will post the change(s) on our web site. If we change the policy in a material way, we will provide appropriate online notice to you.
+## Privacy Overview
 
-**What Information Do We Collect and How Do We Use It?**
+This is a summary of how we may collect, use and transmit information about you. It is a general overview only, and must be read in conjunction with _Full Privacy Notice _ below.
 
-  *  **Personal Information**
+### How we collect information and what information we collect?
 
-
-
-We may collect various types of personal information from you, depending upon how you use our site. The categories of personal information we collect may include:
-
-       (1) Your first and last name  
-       (2) A home or other physical address, including street name and name of a city or town.  
-       (3) Your e-mail address.  
-       (4) Your telephone number.  
-       (5) If you make a purchase on our site, your credit card number and related information.
-
-We may combine the information we collect from you with information we receive from you offline. We may also receive information about you from other sources, including, for example, address update services.
-
-We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products and services; (2) to provide you with targeted offers and advertising on the site; (3) to contact you with information and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties; (4) to contact you; (5) to review site usage and operations; (6) to address problems with the site, our business or our products and services; and (7) to protect the security or integrity of the site and our business.
-
-  * **Non-Personal Information**
+  * When you provide it to us: we collect personally-identifiable information, including name, title, company, address, email address, phone numbers, etc. when you voluntarily provide it to us.
+  * When you use the website: our servers also collect the domain names of visitors to our site.
+  * Cookies: we may use cookies on our websites; for complete information please review the _Full Privacy Notice _
 
 
 
-We, or third-party service providers acting on our behalf, may use cookies or web beacons on our site. A cookie is a small text file that may be stored on the hard drive of your computer when you access the site. A web beacon is an electronic image used to recognize a cookie on your computer when you view a web page. We may use cookies and web beacons to collect non-personal information from you, including your IP address, browser type, the time and length of your visit, the pages of the site you visit and other clickstream data. This information may be used in order to: (1) remember the products in your shopping cart; (2) recognize you when you return to the site; (3) improve and personalize your experience on our site; (4) provide you with customized advertising; and (5) monitor site usage and analyze the behavior of site visitors. We do not collect any personal information through our use of cookies and web beacons, and we do not combine the non-personal information we collect through them with any of your personal information. 
+### How we may use your information
 
-You may decline cookies, but by doing so, you may not be able to use certain features on our site. You also may be able to make some web beacons unusable by rejecting cookies. Check the "Help" menu of your browser to learn how to change your cookie preferences.
+  * To facilitate customer service or to enable us to contact you if you request information.
+  * To target valuable marketing and advertising offers.
+  * To perform research on our users’ demographics, interests, and behavior based on the information provided to us when making a purchase, during a promotion, from surveys and from our server log files.
+  * To may match user information with third party data to help us better understand our customers (customer profiling).
+  * Share and/or disclose information and/or aggregated user statistics to prospective business partners, advertisers, and other third parties, and for other lawful purposes.
 
-**Do We Share Your Information?**
 
-We may transfer or otherwise disclose information collected from and about you to the following entities for the following purposes: (1) to our service providers, suppliers and business associates, if the disclosure will enable them to fulfill your request for products or services from us for another vendor on our site; (2) to our service providers and business associates, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) to our affiliates and other third parties so that they may contact you with marketing offers of their own; (4) to other companies, credit bureaus or government agencies in connection with issues related to fraud, credit or debt collection; (5) as necessary if we believe that there has been a violation of our site Terms of Use, of the law or of our rights or the rights of any third party; (6) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (7) if our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets.
 
-Any personal information or content that you voluntarily upload or submit for posting to the site becomes publicly available and can be collected and used by others. It is in violation of the site's Terms of Use for you to post any content that requests personally identifiable information.
+### Who collects your information
 
-**Can I Update My Information?**
+When visiting this site and are asked for personal information, you are sharing that information with CardsDirect, our subsidiaries and related companies, and our service providers.
 
-You may change or update your personal information by sending an email to: support@cardsdirect.com. Please include "Change My Information" in the subject line. What About Information About Children? We do not direct the site to, nor do we knowingly collect personal information from, children under thirteen.
+### Do we share information
 
-To update your promotional email preferences, click on the "Manage Subscriptions" or "Unsubscribe" at the bottom of your email or contact us directly at support@cardsdirect.com with the subject line "Unsubscribe". 
+We may share the information you provide with our subsidiaries and related companies.  In addition, we may share your information with third parties as set forth in the _Full Privacy Notice _.
 
-**Security**
+### Third Party websites
 
-We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from site visitors. 
+Our website may contain various links to third-party websites. These third-party sites may provide additional information, goods, services and/or promotions.
 
-**Third Party Websites**
+### Privacy Help
 
-The site may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through our site.
+Please review the _Full Privacy Notice _ below. If you have questions about our policy, please contact us in writing at [gdprnotices@cardsdirect.com](mailto:gdprnotices@cardsdirect.com).
 
-**Contact Us**
+__
 
-Thank you for visiting our site. If you have any questions or comments about this policy, please send an email to: [support@cardsdirect.com](mailto:support@cardsdirect.com). Please include "Question or Comment" in the subject line. You can also reach us via phone at 866-700-5030 or mail at 12750 Merit Dr. Ste. 900 Dallas, TX 75251.
+  1. When do we collect information
 
-**Last Updated: September 14, 2012**
+
+
+We collect personally-identifiable information when you provide it to us.  In addition, our website servers collect the domain names of visitors to our websites.  In addition, we might receive personal data and other online and offline information from our business partners who share it with us. We will use such information in accordance with applicable laws and this Privacy Notice.
+
+  2. What information do we collect
+
+
+
+The personal information we collect might include your name, title, company, address, email address, phone numbers, etc.  If you make a purchase on our site, your credit card number and related information will be collected.  We may combine the information we collect from you with information we receive from you offline.  We may also receive information about you from other sources, including, for example, address update services. Finally, we also collect information using cookies and web beacons to collect information such as your IP address, browser type, the time and length of your visit, the pages of the site you visit and other clickstream data.  Additional information about cookies is located below.
+
+  3. How we may use your information
+
+
+  * We collect personal information to facilitate customer service or to enable us to contact you if you request information. We may also offer or provide optional surveys and questionnaires asking for information, as well as several opportunities for visitors to ask questions. We use the information you provide to help us design and build better products, to customize your shopping experience, and to provide advice and purchase recommendations. Taking part in any of these segments is optional.
+  * We also use the information we collect to help target valuable marketing and advertising offers. This kind of advertising may be done with banner ads as well as promotional emails, and offers may be provided by our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties.
+  * We may perform research on our users’ demographics, interests, and behavior based on the information provided to us when making a purchase, during a promotion, from surveys and from our server log files. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis to prevent identification of personal information relating to any one individual.
+  * Our servers may collect the domain names of visitors, as well as other information about your visit. This information is aggregated to measure number of visits, average time spent on a website, pages viewed, etc. We share this aggregated data with third parties and our affiliated companies. We use this information to measure the use of our websites, recognize you when you return to the site, remember products in your shopping cart and to improve content of our websites.
+  * We use information provided by and/or collected from your use of the website to review site usage and operations, to address problems with the site, our business or our products and services, and to protect the security or integrity of the site and our business.
+
+
+  4. Reasons we share information
+
+
+
+We may transfer or otherwise disclose information collected from and about you for the following purposes:
+
+  * To our service providers, suppliers and business associates, if the disclosure will enable them to fulfill your request for products or services from us for another vendor on our site;
+  * To our service providers and business associates, if the disclosure will enable them to perform a business, professional or technical support function for us;
+  * To our affiliates and other third parties so that they may contact you with marketing offers of their own;
+  * To other companies, credit bureaus or government agencies in connection with issues related to fraud, credit or debt collection; 
+  * As necessary if we believe that there has been a violation of our site _Terms of Use_ , of the law or of our rights or the rights of any third party;
+  * To respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and
+  * If our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. 
+
+
+
+Any personal information or content that you voluntarily upload or submit for posting to the site becomes publicly available and can be collected and used by others.  It is in violation of the site’s _Terms of Use_ for you to post any content that requests personally identifiable information.
+
+  5. Who has access to your information
+
+
+
+When you are on our website and are asked for personal information, you are sharing that information with CardsDirect, our subsidiaries and related companies, and our service providers.  We share your information as described in “Reasons we share information”, above.
+
+  6. Record Retention
+
+
+
+We will retain your personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  We will also keep your personal data for as long as your account is active or as needed to provide you services and to maintain a record of your transactions for financial reporting purposes. We retain archived copies of your information as required by law or for legitimate business purposes.
+
+  7. Cookies & Similar Technologies
+
+
+
+We, or third-party service providers acting on our behalf, may use cookies or web beacons on our site.  A cookie is a small text file that may be stored on the hard drive of your computer when you access the site.  A web beacon is an electronic image used to recognize a cookie on your computer when you view a web page.  We may use cookies and web beacons to collect non-personal information from you, including your IP address, browser type, the time and length of your visit, the pages of the site you visit and other clickstream data.  This information may be used in order to:
+
+  * recognize you when you return to the site;
+  * improve and personalize your experience on our site;
+  * provide you with customized advertising; and
+  * monitor site usage and analyze the behavior of site visitors.
+
+
+
+We do not collect any personal information through our use of cookies and web beacons, and we do not combine the non-personal information we collect through them with any of your personal information. You may decline cookies, but by doing so, you may not be able to use certain features on our site.  You also may be able to make some web beacons unusable by rejecting cookies.  Check the “Help” menu of your browser to learn how to change your cookie preferences.
+
+  8. Your Rights; Contact Us
+
+
+
+You can request to access, update, correct, and delete your information you provided to us by sending us an email at [gdprnotices@cardsdirect.com](mailto:gdprnotices@cardsdirect.com). Keeping your personal data current helps ensure that we can respect your preferences. When you make a request, we may require certain documentation in order to be able to verify your identity before we are able process your request. Your cooperation is necessary to exercise your rights under this Privacy Notice.
+
+  9. Security of Personal Data
+
+
+
+We have implemented an information security program that contains administrative, technical and physical controls that are designed to safeguard your personal data. While we use all reasonable efforts to protect your personal information, we cannot guarantee the absolute security of your data submitted through our websites.
+
+  10. Third Parties
+
+
+
+This Privacy Notice only addresses the collection, processing and use (including disclosure) of information by us. This site may contain various links to third-party websites. These sites may provide additional information, goods, services and/or promotions. These sites are owned and operated independently of CardsDirect, and have their own separate privacy and data collection practices. Any information you provide to these Websites will be governed under the terms of their privacy policy, if any. CardsDirect has no responsibility or liability whatsoever for the independent actions or policies of these independent sites, and is not responsible for the content or privacy practices of such sites.
+
+  11. Additional Privacy Information
+
+
+  * Transfer of Data
+
+
+
+We are based in the United States and any personal data collected from this website may be transferred to and processed within the U.S. The privacy protections and the rights of authorities to access your personal information in the U.S. may not be equivalent to those in your home country. By submitting your personal data, you’re agreeing to this transfer, storing and/or processing of data.
+
+  * Children’s Privacy
+
+
+
+We comply with the Children’s Online Privacy Act of 1998 (COPPA). We do not direct the site to, nor do we knowingly collect personal information from children.  This website is not intended to solicit information of any kind from persons under the age of 18.
+
+  * California Do Not Track Disclosures
+
+
+
+“Do Not Track” is a privacy preference that users can set in their web browsers. When a user turns on a Do Not Track signal in their browser, the browser sends a message to websites requesting that they do not track the user. For information about Do Not Track, please visit www.allaboutdnt.org
+
+EFFECTIVE DATE: July 31, 2018
