@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neuvoo.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207095357id_/https%3A//neuvoo.com/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neuvoo.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614141507id_/https%3A//neuvoo.com/tos) for the most accurate reproduction.*
 
 # neuvoo. Your job search starts here.
 
@@ -62,7 +62,7 @@ In order for us to better serve our visitors and users (“you”), there are tw
 
 “Long-term Data” refers to any data we collect to offer you a better job seeking and application experience. “Long-term Data” includes the following: 
 
-**_Account Creation._** When you apply for a job through NEUVOO’s platform, we save your first name, last name, email address, and last uploaded CV (i.e. most recently uploaded attachment) and associate it with an Account, so you can easily apply for subsequent jobs without having to re-enter your application information every time. 
+**_Account Creation._** When you apply for a job through NEUVOO’s platform, we save your first name, last name, email address, cover letter, and last uploaded CV (i.e. most recently uploaded attachment) and associate it with an Account, so you can easily apply for subsequent jobs without having to re-enter your application information every time. 
 
 We also collect your job search history (jobs viewed, jobs added to favorites, jobs applied for, keywords and location typed in the search bar) to give you better and more personalized results so that you are able to find jobs you are interested in faster and easier. 
 
@@ -159,6 +159,60 @@ You have control over the information you choose to give us and may access, edit
 **_Email Alerts._** If you wish to access or edit your alerts, you may do so by clicking on the “Manage job alert settings” in the “Improve alert” section of any email alert. You will then be able to edit or remove individual alerts by clicking on the “Improve alert” button which allows you to change keywords and location or to improve relevancy. 
 
 If you would rather unsubscribe, you may do so by clicking on the “Unsubscribe from Job Alert” link located at the bottom of any email alert. You can then click on the “Delete” button next to the alert you wish to remove. 
+
+When you subscribe to our SMS Alert service, you agree to the following Terms and to our Terms of Service & Privacy Policy.
+
+##  1\. Authorization 
+
+By agreeing to the following terms, you certify that you are the owner of the mobile phone entered or are authorized to use this mobile phone to receive our SMS Alerts. You understand you are responsible for checking your mobile carrier plan for further details, and to pay any potential extra charges related to this service. 
+
+##  2\. Subscription 
+
+By entering and submitting your phone number in our subscription form, you agree to receive text message communications from neuvoo. You will receive a text message confirming your subscription. However, response time may be delayed due to the high number of requests we receive, among others. 
+
+###  2.1. Subscription cancellation 
+
+To unsubscribe from SMS Alerts, you can text STOP to (629) 262-5220, reply STOP to a text message you have received from neuvoo or contact our Customer Service department from [this page](https://web.archive.org/contact/). Once our team has reviewed your request (1-3 business days) we will send you a message confirming that your contact information has been removed from our system. 
+
+neuvoo reserves the right to suspend or terminate your SMS Alert subscription for any reason, with or without notifying you. 
+
+##  3\. Communications 
+
+By subscribing to the SMS Alerts, you authorize neuvoo to use the information you chose to provide, and to receive notifications via text messages, phone calls, pre-recorded messages and other means. 
+
+###  3.1 Automated dialing
+
+By subscribing to the SMS Alert service, you agree to receive pre-recorded voicemails and SMS Alerts through automated dialing. 
+
+### 3.2. Frequency
+
+The number of messages you receive may vary depending on the number of recent jobs matching your search, the jobs you applied to, and if you sent us a message asking us for extra support via text message. 
+
+##  4\. Support 
+
+If you need help, send us a message to (629) 262-5220 or reply HELP to any message you have previously received from neuvoo. 
+
+##  5\. Delivery failure 
+
+neuvoo is not responsible for undelivered messages caused by any restriction linked to the plan and mobile carrier you have. 
+
+##  6\. Carriers 
+
+All major US carriers (AT&T, T-Mobile, Verizon, etc.) are supported by our SMS Alert service. 
+
+Thank you for using our job posting services. The following are the terms of services. By using the service, you agree to the following terms:
+
+  * You are not authorized to generate automated and fraudulent posts.
+  * You are not authorized to advertise anything illegal or engage in any illegal or fraudulent business practice in any state or country where your post is displayed.
+  * You are not allowed to post for a third party nor to use this service to gather resumes for positions that are not currently opened (e.g. bank of resumes).
+  * The information that is used for the service is your own and is correct.
+  * Your post cannot violate or encourage violation of any applicable laws enforced by any state or country where your post is displayed.
+
+
+
+Neuvoo may disable any post that does not follow our terms. We retain the rights to remove or disable any post without prior notice and without giving any specific reason other than the ones stated in our terms.
+
+Neuvoo strives to give job seekers the best experience possible and to help them find a job by only providing content of the utmost quality.Therefore, Neuvoo may disable your account should we deem your content not relevant or if said content does not meet our quality requirements.
 
 NEUVOO offers informational and educational content for Human Resources and Talent Acquisition professionals in the form of eBooks and PDF documents that can be downloaded from several landing pages powered by MailChimp. **These documents are addressed to professionals working in the recruitment and talent acquisition fields and should not be confused with other services and products that target job seekers and their data.**
 
