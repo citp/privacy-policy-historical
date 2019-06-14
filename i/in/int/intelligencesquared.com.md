@@ -1,43 +1,18 @@
-> *The following text is extracted and transformed from the intelligencesquared.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524125105id_/http%3A//www.intelligencesquared.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencesquared.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614163317id_/https%3A//www.intelligencesquared.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Intelligence Squared
 
-## IQ² Privacy Policy Effective from 30th November 2009
+  1. This Privacy Policy sets out the terms on which we collect, process and handle personal data which you provide to us while using the website located at [intelligencesquared.com](http://www.intelligencesquared.com/) (“ **Site** ”) and/or the app known as “Intelligence Squared” (“App”) and/or the services provided from the Site and the App (“ **Services** ”). The Site and the App, together with all content on the Site and the App, is owned or controlled by Intelligence Squared UK Ltd, a company registered in England with offices at 6th Floor, Newcombe House, 45 Notting Hill Gate, London W11 3LQ, UK (“ **we** ” or “ **our** ”). We are registered as a Data Controller with the UK Information Commissioner’s Office.
+  2. To provide our services to you, it is necessary for us to collect and process certain personal information (“ **Data** ”), including some or all of the following: name, address, date of birth, gender, email addresses and/or mobile phone numbers, IP addresses, web-browser details, operating system details, activities on the Site, personal preferences relating to the Site, the App or the Services, billing and financial information such as credit/debit card numbers and/or other information relevant to the Services. You are responsible for ensuring that all personal information you provide to us is updated and correct at all times.
+  3. The Data will be stored together with any additional information you provide to us, and will be used to provide you with, and to improve, the Services. We may collect, store and process certain personal information to provide you with information and tools to allow you to use the Services, to perform marketing and research related activities, to supply other administrative services (e.g. setting up new accounts), to respond to enquiries and/or for other record-keeping purposes and to improve the Site, the App and the Services. From time to time, we and/or our trusted partners may contact you from time to time with offers that may interest you or to inform you of other products and services. Additionally, our third party service providers may have access to Data to carry out contracted services and (if you indicate that you are interested in receiving information about a particular third party’s products or services or if you opt in to receive certain products or services through us) we may provide your personal information to such third parties for the purposes of fulfilling your requests. All Data is processed by us in accordance with applicable data protection legislation and we will keep your personal information only for as long as is necessary.
+  4. By subscribing to the Services, you agree that your details (including your email address/street address) may be used to keep you informed about future events and news. You can unsubscribe at any time by either using the link at the bottom of the email newsletter or by emailing [info@intelligencesquared.com](mailto:info@intelligencesquared.com)
+  5. We may, from time to time, expand or reduce our business which may involve the transfer of certain divisions or assets of our company to other parties, and Data, where relevant, may be transferred to such third parties. Additionally, from time to time we may transfer Data for to locations outside the European Economic Area, some of which may have different data protection laws to the UK or the EU, or no data protection laws. In all such cases, we transmit such information only to entities that comply with this policy and applicable law.
+  6. The Site and/or the App may display links to certain third party websites. We encourage you to read the individual privacy policies of those sites before providing any of your personal information to them.
+  7. We may use ‘cookies’ while you access the Site. A cookie is a small file which can be downloaded on a device when you access the Site and is then sent back to the Site each time you access it. Cookies are useful because they allow us to recognise your device and your user preferences. We use cookies to set users’ preferences, gather basic tracking information (such as login and password), date, time of visit and preferences and monitor the presentation of the Site. This information allows us to personalise the user experience and to improve the quality of the Site navigation. We also use analytical cookies, which allow us to recognise and count the number of users on the Site and to see how users move around the Site when they are using it. This helps us improve the way the Site works, for example by making sure users find easily what they need. Please note that advertisers on the Site may also deploy cookies and web beacon technology to measure and improve the effectiveness of advertising to their clients. If you do not want cookies on your computer, you can remove them by changing your browser settings.
+  8. Please note you have the right to request access to and rectification or erasure of Data or to object to or request the restriction of processing of your Data. If you do not want us to retain or use your Data in any way or at any time, you may withdraw your consent (i.e. “opt out”), by contacting us at [info@intelligencesquared.com](mailto:info@intelligencesquared.com). Information about concerns or complaints may be made to the Information Commissioners Office in the UK via <https://ico.org.uk/concerns>.
+  9. We may change this Privacy Policy from time to time and such changes shall be effective from the date and time the revised Privacy Policy is posted on the Site and/or the App. We encourage you to review our Privacy Policy on a regular basis so that you will be aware of any changes to it.
+  10. If you have further questions about our privacy practices, please contact us by e-mailing [info@intelligencesquared.com](mailto:info@intelligencesquared.com).
 
-**IQ² Privacy Policy**
 
-We hereby inform you of our policies and procedures regarding the collection, use and disclosure of information received from users of [www.intelligencesquared.com](http://www.intelligencesquared.com/) (this "Site"). This Privacy Policy applies only to this Site. Unless otherwise defined herein, terms used in this Privacy Policy have the meanings provided in the Terms of Use. 
 
-**By using our Site you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.**
-
-**Personal Information**
-
-IQ² collects information in order to provide and improve services, features and content (the " **Service** "), to allow users to personalise their use of the Service, and to enable users to easily navigate and enjoy the Site. 
-
-(i) When you register with us through the Site or when you choose to create your own profile webpage we will ask you for personally identifiable information (“Personal Information”). Personal Information includes, but is not limited to, your name, email address, postal address, credit card information and an account password. We use your Personal Information to provide the Service, administer your inquiries and to improve the quality and value of the Service. 
-
-(ii) We also use your Personal Information to contact you with IQ2 newsletters, promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications. 
-
-**Cookies**
-
-IQ² uses cookies for a number of purposes, for instance to recognise you, so we can simplify your logging-on process and to enable traffic monitoring. Third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service. 
-
-**Links**
-
-Our Site contains links to other websites. These links and/or other forms of advertisement do not constitute an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. This Privacy Policy addresses the use and disclosure of information that we collect from you through this Site. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. 
-
-**Sharing and Disclosure**
-
-When you register through the Site and submit your Personal Information to create a profile webpage, IQ² Users will see your "Screen Name" and any other information you choose to provide. 
-
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf or to perform Site-related services. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
-
-IQ² cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process, to protect the property and rights of IQ² or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity. 
-
-IQ² may sell, transfer or otherwise share some or all of its assets, including information provided by you, in connection with a merger, reorganisation, or sale of assets, or in the event of bankruptcy. If the new entity wishes to make additional uses of your information, different from those described in this Privacy Policy, you will have the opportunity to decline such use in that event. 
-
-**Contacting Us**
-
-If you have any questions about this Privacy Policy, please contact us at [admin@intelligencesuared.com](mailto:admin@intelligencesuared.com)
-
-© Intelligence Squared Limited. All rights reserved. 
+* * *
