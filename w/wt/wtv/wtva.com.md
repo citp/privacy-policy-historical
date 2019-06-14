@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtva.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004104259id_/http%3A//www.wtva.com/content/news/This-Web-Sites-Privacy-Policy-450662773.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtva.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614134611id_/https%3A//www.wtva.com/content/news/This-Web-Sites-Privacy-Policy-450662773.html) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy
 
