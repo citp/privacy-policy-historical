@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedproxies.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209074854id_/https%3A//trustedproxies.com/about-trusted-proxies/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedproxies.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614190612id_/https%3A//trustedproxies.com/about-trusted-proxies/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Trusted Proxies Privacy Policy - Trusted Proxies
 
