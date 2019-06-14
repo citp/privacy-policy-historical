@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esoteric-information.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213040450id_/http%3A//esoteric-information.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esoteric-information.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614220233id_/http%3A//esoteric-information.com/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Esoteric information
 
@@ -32,4 +32,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Post Views:  737
+Post Views:  1,008
