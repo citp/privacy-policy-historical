@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the karwan.tv privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207102931id_/http%3A//karwan.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karwan.tv privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614020000id_/http%3A//karwan.tv/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - www.Karwan.TV
+# Privacy Policy on www.karwan.tv - www.Karwan.TV
 
 By using this site, you agree to the Privacy Policy of  karwan.TV. If you do not agree to the Policy, please do not use this site. Karwan.TV reviews its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes.
 
