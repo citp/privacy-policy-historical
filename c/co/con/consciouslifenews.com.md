@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consciouslifenews.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231014005id_/https%3A//consciouslifenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consciouslifenews.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614084930id_/https%3A//consciouslifenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Conscious Life News
 
@@ -12,7 +12,7 @@ We are Conscious Life News. Please see our Mission Statement [**HERE**](https://
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. Your email address is optional. Do not enter your email address if you don't want it collected or displayed.
 
-If you do enter your email address, an anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. (The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>[](https://automattic.com/privacy/).) After approval of your comment, your profile picture is visible to the public in the context of your comment.
+If you do enter your email address, an anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. (The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>.) After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
 ### Media
 
@@ -65,3 +65,5 @@ Visitor comments may be checked through an automated spam detection service.
 ## Contact information
 
 Should you have any privacy-specific concerns, please contact us via our contact form [**HERE**](https://consciouslifenews.com/contact-us/).
+
+[](https://www.pinterest.com/pin/create/button/)
