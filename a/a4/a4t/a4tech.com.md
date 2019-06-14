@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a4tech.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224082245id_/http%3A//a4tech.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a4tech.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614060228id_/http%3A//a4tech.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Welcome To G3Audio Website
 
