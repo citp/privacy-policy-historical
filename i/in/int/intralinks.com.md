@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004014900id_/https%3A//www.intralinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614043455id_/https%3A//www.intralinks.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Intralinks
 
@@ -228,7 +228,7 @@ If you have questions, or would like to complain about this Privacy Policy and o
 
 You also have the right to complain to the local data protection authority within the EEA (DPA). You can find the details of your local DPA [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080). 
 
-## Does Intralinks participate in the EU-U.S. Privacy Shield Framework? 
+## Does Intralinks participate in the EU-U.S. Privacy Shield Framework?
 
 Intralinks, Inc. is a participant in the EU-U.S. Privacy Shield Framework, operated by the U.S. Department of Commerce (the **Privacy Shield** ). Our certification can be found [**here**](https://www.privacyshield.gov/list). 
 
@@ -236,7 +236,9 @@ A full list of companies who have self-certified with the Privacy Shield is avai
 
 **Intralinks' commitment to the Privacy Shield Principles  **
 
-Intralinks commits to comply with the EU-U.S. Privacy Shield Framework Principles (the **Principles** ) in respect of all personal data that we receive from the EEA in accordance with this Privacy Shield Notice. This notice explains how Intralinks complies with the Principles. 
+_Intralinks, Inc_. complies with the _EU-U.S. Privacy Shield_ (the Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the _European Union and the United Kingdom_ to the United States in reliance on Privacy Shield. Our certification can be found [here](https://www.privacyshield.gov/list).
+
+Intralinks, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 The commitments contained in this notice only apply to personal data received by Intralinks from the EEA. Individuals whose personal data is received by Intralinks from other jurisdictions do not have the rights set out in this notice. 
 
