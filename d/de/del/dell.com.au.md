@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.com.au privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722161449id_/https%3A//www.dell.com/learn/au/en/aucorp1/policies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com.au privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614024401id_/https%3A//www.dell.com/learn/au/en/aucorp1/policies-privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Dell Australia
 
@@ -63,7 +63,7 @@ These storage mechanisms may be managed in a number of ways. These may be manage
 
 
 
-For further details on how Dell protects your personal information, please visit our [Security](https://web.archive.org/web/20180722161449id_/https%3A//www.dell.com/learn/au/en/aucorp1/spredir.ashx/terms-conditions/cat-intro-security-au?catid=policies-security) page
+For further details on how Dell protects your personal information, please visit our Security page
 
  **Dell uses your personal information for specific purposes**
 
@@ -91,7 +91,7 @@ Full address details
 
  **Email:** Please [click here](https://ecomm.apj.dell.com/GSC/ListRemoval/Index?c=au&l=en) to unsubscribe
 
-Please allow up to 10 business days for your communication preferences to take effect. Because some communications, such as direct mail catalogues, are developed and queued for distribution well in advance, you may receive additional information after we receive your request.
+Please allow up to 5 business days for your email communication preferences to take effect. Because some communications, such as direct mail catalogues, are developed and queued for distribution well in advance, you may receive additional information after we receive your request.
 
  **When Dell Will Share Your Personal Information**
 
@@ -107,11 +107,11 @@ To request access to, or correction of, your personal information, please contac
 
  **Internet Commerce**
 
-The online store at [www.dell.com.au](https://www.dell.com.au/) offers you options for how your credit card information, name, address, e-mail, and any other information you provide us may be processed. Dell is committed to keeping the information collected on our site secure. We offer the industry standard security measures, called SSL encryption. These are available through your browser, (please see Dell's [Store Security](https://web.archive.org/web/20180722161449id_/https%3A//www.dell.com/learn/au/en/aucorp1/spredir.ashx/terms-conditions/cat-intro-security-au?catid=policies-security) page for details on these security measures). If you would like to make a purchase, but do not want to provide your credit card information online, you may place an order without credit card information and a representative will contact you. Alternatively, you may contact a sales representative by telephone. We will usually try to contact you in the event of a potential problem with your purchase or for any normal business communication regarding your purchase.
+The online store at [www.dell.com.au](https://www.dell.com.au/) offers you options for how your credit card information, name, address, e-mail, and any other information you provide us may be processed. Dell is committed to keeping the information collected on our site secure. We offer the industry standard security measures, called SSL encryption. These are available through your browser, (please see Dell's Store Security page for details on these security measures). If you would like to make a purchase, but do not want to provide your credit card information online, you may place an order without credit card information and a representative will contact you. Alternatively, you may contact a sales representative by telephone. We will usually try to contact you in the event of a potential problem with your purchase or for any normal business communication regarding your purchase.
 
  **Customised Experience**
 
-We use technology to help us deliver customised visitor experiences. At Dell, we use Dell and third party "cookies" to help us determine which information is appropriate to you and to enhance your experience when you interact with us. Our use of cookies aims to provide you with a better experience when using [www.dell.com.au](https://www.dell.com.au/) and to serve you customised messages about Dell products and services when you visit the Dell website and other websites. For more information about our use of cookies (including how to delete or refuse cookies), please [click here](https://web.archive.org/web/20180722161449id_/https%3A//www.dell.com/learn/au/en/aucorp1/spredir.ashx/terms-conditions/cat-intro-cookies-and-web-beacons-au?catid=policies-cookies).
+We use technology to help us deliver customised visitor experiences. At Dell, we use Dell and third party "cookies" to help us determine which information is appropriate to you and to enhance your experience when you interact with us. Our use of cookies aims to provide you with a better experience when using [www.dell.com.au](https://www.dell.com.au/) and to serve you customised messages about Dell products and services when you visit the Dell website and other websites. For more information about our use of cookies (including how to delete or refuse cookies), please click here.
 
  **Web Beacons**
 
@@ -129,20 +129,17 @@ Please be aware that other Web sites including sites that may be accessed throug
 **  
 If you have asked to be contacted by one of Dell's partners, we will need to provide them with your contact details. This information will not be shared with any other party and will be forwarded to that partner for the sole purpose of allowing them to contact you. Personal data obtained from you is held and processed in accordance with all applicable laws and consistently with Dell's privacy statement
 
- **Complaints**
-
-If you are concerned that we have not complied with your legal rights or applicable privacy laws, you may bring a complaint internally through our complaints process or you may decide to make a formal complaint with the relevant privacy regulator. We will deal with your complaint in accordance with our complaints handling process as described here.
-
  **Contact Dell**
 
-If you would like to contact us, or have questions regarding our privacy statement, please write to us at:
+“If you have any questions or concerns about Dell Australia’s Privacy Policy or data processing activities, please contact us at privacy@dell.com or write to us at the following address:
 
 Dell Australia Pty Limited  
-Attention: Privacy Steward  
-Unit 3, 14 Aquatic Drive  
-Frenchs Forest, NSW 2086
+Attention: Privacy Officer  
+Level 4, 207 Pacific Highway  
+St Leonards NSW 2065  
+Australia 
 
-Alternatively, you may e-mail us at [privacy@dell.com](mailto:privacy@dell.com)
+When a privacy question or concern about how Dell handles your personal information is received, we have a dedicated privacy team which triages your contact to address your issue. Where your issue may be more substantive in nature, we may request more information from you. All such substantive contacts receive a response within seven (7), days wherever possible. We will indicate where a response will require additional time. If you are unsatisfied with the response received, you may refer your complaint to the relevant regulator in your jurisdiction.
 
  **Privacy Statement Regarding Customer and Online User Information Effective Date:  
 12th March 2014**
