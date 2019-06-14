@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencast-o-matic.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029100541id_/https%3A//screencast-o-matic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencast-o-matic.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614061945id_/https%3A//screencast-o-matic.com/privacy) for the most accurate reproduction.*
 
 # Screencast-O-Matic Privacy Policy | Screen Recorder & Video Editor | Screencast-O-Matic
 
@@ -226,7 +226,7 @@ Screencast-O-Matic at times acts as a data processor or a data controller when p
 You can read about our data collection and processing practices in our main [Privacy Policy](https://screencast-o-matic.com/privacy).
 
   2. **Choice.**  We will provide an individual opt-out or opt-in choice before we share their data with third parties other than our agents and service providers, or before we use it for a purpose other than it was originally collected or subsequently authorized. To limit the use and disclosure of your personal information, please submit a written request to privacy@screencast-o-matic.com.
-  3. **Onward Transfers**  (Transfer to Third Parties). Screencast-O-Matic may transfer personal information to certain third parties (as described in our [Privacy Policy](https://cms-sandbox-2.screencast-o-matic.com/privacy)). Where we transfer personal information to a third party, will take reasonable and appropriate steps to ensure the third-party processes personal information for limited and specified purposes and in a manner consistent with Screencast-O-Matic’s Privacy Shield obligations. Where the transfer is to a third-party agent acting on our behalf, Screencast-O-Matic may be liable if such third parties fail to meet those obligations, and we are responsible for the event giving rise to the damage.
+  3. **Onward Transfers**  (Transfer to Third Parties). Screencast-O-Matic may transfer personal information to certain third parties (as described in our [Privacy Policy](https://screencast-o-matic.com/privacy)). Where we transfer personal information to a third party, will take reasonable and appropriate steps to ensure the third-party processes personal information for limited and specified purposes and in a manner consistent with Screencast-O-Matic’s Privacy Shield obligations. Where the transfer is to a third-party agent acting on our behalf, Screencast-O-Matic may be liable if such third parties fail to meet those obligations, and we are responsible for the event giving rise to the damage.
 
 
 
