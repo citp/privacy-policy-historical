@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214224702id_/https%3A//www.findlegalforms.com/xcart/customer/help.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614232756id_/https%3A//www.findlegalforms.com/xcart/customer/help.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # Legal Forms - Leases, Contracts, Agreements, Letters - Free Preview - FindLegalForms.com
 
