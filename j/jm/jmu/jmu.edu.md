@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jmu.edu privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214065234id_/https%3A//www.jmu.edu/policies/web-privacy-statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jmu.edu privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614175042id_/https%3A//www.jmu.edu/policies/web-privacy-statement.shtml) for the most accurate reproduction.*
 
 # James Madison University - Web Privacy Statement
 
@@ -8,9 +8,13 @@ James Madison University values individuals' privacy and actively seeks to prese
 
 As explanation of JMU's online information policy and practices and to assist you in better protecting your privacy, we provide the following privacy notice.
 
-### Privacy Notice.
+* * *
+
+### Privacy Notice
 
 The following information explains the Internet privacy policy and practices the university has adopted for its official websites. However, in legal terms, it shall not be construed as a contractual promise, and the university reserves the right to amend it at any time without notice. Privacy and public records obligations of the university are governed by applicable Virginia statutes, including, but not limited to, the Virginia Privacy Protection Act of 1976, the Virginia Freedom Of Information Act, and by any applicable U.S. federal laws.
+
+* * *
 
 ### Site Definitions
 
@@ -18,11 +22,13 @@ University Web space includes hundreds of sites with varying levels of universit
 
 **Official University Websites**
 
-Except as noted, the information in this privacy notice applies to all official James Madison University websites, which are defined as – the Web pages of university colleges, schools, departments, divisions or other units and any other sites specifically designated as official by a vice president, dean, department head or director. Official pages are generally recognizable by a standard page footer carrying the university logo, contact information and reference to this privacy statement. Click here to see a sample of this footer on the JMU [home page](https://web.archive.org/web/20181214065234id_/https%3A//www.jmu.edu/index.shtml "James Madison University Home").
+Except as noted, the information in this privacy notice applies to all official James Madison University websites, which are defined as – the Web pages of university colleges, schools, departments, divisions or other units and any other sites specifically designated as official by a vice president, dean, department head or director. Official pages are generally recognizable by a standard page footer carrying the university logo, contact information and reference to this privacy statement. Click here to see a sample of this footer on the JMU [home page](https://web.archive.org/web/20190614175042id_/https%3A//www.jmu.edu/index.shtml "James Madison University Home").
 
 **Unofficial Websites**
 
-Within the James Madison University domain – signified by the address "jmu.edu" or within the range of Internet protocol addresses assigned to James Madison University – you may find websites over which the university has no editorial responsibility or control. Such sites are considered unofficial and include, but are not limited to, the Web pages of individual faculty members or students and the Web pages of student organizations and other entities not formally a part of the university. While JMU encourages compliance with this Web Privacy Statement at such sites, in order to better understand the policies and practices under which they operate, please consult the privacy statements of individual sites or seek information directly from the persons responsible for those sites
+Within the James Madison University domain – signified by the address "jmu.edu" or within the range of Internet protocol addresses assigned to James Madison University – you may find websites over which the university has no editorial responsibility or control. Such sites are considered unofficial and include, but are not limited to, the Web pages of individual faculty members or students and the Web pages of student organizations and other entities not formally a part of the university. While JMU encourages compliance with this Web Privacy Statement at such sites, in order to better understand the policies and practices under which they operate, please consult the privacy statements of individual sites or seek information directly from the persons responsible for those sites.
+
+* * *
 
 ### The Information We Collect
 
@@ -45,6 +51,8 @@ When you access official JMU Web pages, certain client information and essential
   * When you complete online forms: all the data you choose to fill in or confirm. This may include user names and passwords or any other data you choose to type into a form on the JMU site as well as links you create from third-party sites to JMU web pages (such as clicking a Facebook 'like' button).
 
 
+
+* * *
 
 ### The Way We Use Information
 
@@ -74,13 +82,19 @@ We generally use return email addresses only to answer the email we receive. By 
 
 Finally, we never use or share the optional information provided to us online in ways unrelated to the purpose described without a clear notice on the particular site and without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
+* * *
+
 ### Providing Information is Your Choice
 
 There is no legal requirement for you to provide any information at our website. However, our website will not work without routing information and the essential technical information. Failure of your browser to provide nonessential technical information will not prevent your use of our website but may prevent certain features from working. For any optional information that is requested at the website, failure to provide the requested information will mean that the particular feature or service associated with that part of the Web page may not be available to you.
 
+* * *
+
 ### Our Commitment To Data Security
 
 James Madison University is dedicated to preventing unauthorized data access, maintaining data accuracy, and ensuring the appropriate use of information. We strive to put in place appropriate physical, electronic, and managerial safeguards to secure the information we collect online. These security practices are consistent with the policies of the university and with the laws and regulatory practices of the Commonwealth of Virginia as they are appropriate to JMU.
+
+* * *
 
 ### How To Contact Us
 
