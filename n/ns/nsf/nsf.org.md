@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nsf.org privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228154231id_/http%3A//www.nsf.org/about-nsf/privacy-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsf.org privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614095432id_/http%3A//www.nsf.org/about-nsf/privacy-copyright) for the most accurate reproduction.*
 
-# Privacy and Copyright | NSF International
+# Privacy and Copyright - NSF International
 
 Welcome to the NSF International website (www.nsf.org). Please read the following information regarding privacy, security, terms and conditions as they govern your access to and use of this site.  By accessing, viewing and using the NSF International website, you agree to abide by these policies, terms and conditions. 
 
