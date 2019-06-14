@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coindesk.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227194429id_/https%3A//www.coindesk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coindesk.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614220729id_/https%3A//www.coindesk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - CoinDesk
 
@@ -10,7 +10,7 @@ We gather two types of data about our users: personal information and tracking i
 
 **Personal Information**
 
-Personal information is provided by users when posting comments to articles on CoinDesk.com, when registering for a conference, such as Consensus or Construct, or when purchasing research on CoinDesk.com.  Personal information gathered from posting comments includes e-mail address and screen name.  Personal information gathered in connection with registering for our conferences, selling research reports and subscribing to our newsletters may include name, employer, job title, employer address, e-mail address and phone number.  Credit and debit card information submitted in connection with purchasing research and conference registration is processed by third-party vendors and is not shared with CoinDesk. 
+Personal information is provided by users when registering for a conference, such as Consensus or Construct, or when signing up for a newsletter.   Personal information gathered in connection with registering for our conferences, and subscribing to our newsletters may include name, employer, job title, employer address, e-mail address and phone number.  Credit and debit card information submitted in connection with purchasing research and conference registration is processed by third-party vendors and is not shared with CoinDesk.
 
 **Tracking Information**
 
@@ -36,6 +36,32 @@ You can control your browser’s settings regarding cookies by selecting “Inte
 If you want to opt out of receiving interest-based advertising, it does not mean that you will no longer receive advertising when you are using our website. It just means that we will not use information collected about you for IBA and that any advertising you see will not be customized or relevant to you. You can exercise your online advertising choices at [http://optout.aboutads.info](http://optout.aboutads.info/) or by clicking the AdChoices icon in an ad and following the instructions. You may also opt out of receiving interest-based ads from many sites through the Network Advertising Initiative’s (NAI) Opt Out Tool ([http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices))  and in the EU at [http://www.youronlinechoices.com/](http://www.youronlinechoices.com/). Remember, if you delete cookies, use a different device, or change web browsers, you may need to opt out again.
 
 Mobile devices have an identifier that gives companies the ability to serve targeted ads to a specific mobile device. In many cases, you can turn off mobile device ad tracking or you can reset the advertising identifier at any time within your mobile device privacy settings. Another tool you can use to control advertising on your mobile device is the AppChoices App: [http://youradchoices.com/appchoices](http://youradchoices.com/appchoices). You may also choose to turn off location tracking on your mobile device. If you turn off ad tracking or location tracking, we will no longer use information collected from your device’s advertising identifier for the purposes of advertising. You may still see the same number of ads but they may be less relevant because they will not be based on your interests.
+
+_For EU Users:_
+
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.  We use the following types of cookies on our website:
+
+**Necessary cookies:**
+
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+
+**Preferences:**
+
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+
+**Statistics:**
+
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+
+**Marketing**
+
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+
+**Unclassified**
+
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+
+please find our cookie policy here: <https://www.coindesk.com/cookie-policy>
 
 **We cannot be responsible for the privacy policies or practices of third party advertisers and vendors. Additionally, third party advertising vendors, including Google, show our ads on sites on the Internet.**
 
@@ -66,6 +92,22 @@ CoinDesk does not sell or disclose personal information about you described abov
 
 Postings related to articles on the CoinDesk Sites are publicly available. You should exercise caution when deciding to disclose any of your personal information in a public posting.
 
+_This section shall apply to any personal data collected by CoinDesk from EU residents.   If you are an EU resident, CoinDesk will only share your personal data with third parties with your consent._
+
+**How long we retain data**
+
+We retain your personal data for the duration of your business relationship with us, and we hold your information only as long as necessary for each purpose we use it, unless we have obtained your consent to use for another or similar purpose.
+
+**How long we retain data**
+
+If you inform us that you want your personal data erased (if you are an EU resident), or that you no longer wish for us to communicate with you for marketing purposes, or to otherwise restrict CoinDesk’s processing of your personal data, we may retain some basic information in order to avoid sending you unwanted materials in the future, and to keep a record of your request and our response.
+
+#### **Contacting CoinDesk**
+
+_This section shall apply to any personal data collected by CoinDesk from EU residents._
+
+To confirm that CoinDesk is processing your personal data, or to access, update or correct the personal data CoinDesk holds about you, or to obtain a copy to reuse for your own purposes, or If you want your personal data erased, or you want to otherwise restrict CoinDesk’s processing of personal data please send an e-mail to [privacy@coindesk.com](mailto:privacy@coindesk.com)
+
 Questions or comments regarding this policy should be directed to [privacy@coindesk.com](mailto:privacy@coindesk.com).
 
-_Updated on July 6, 2017_
+_Updated on February 2, 2019_
