@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supabets.co.za privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122113723id_/http%3A//www.supabets.co.za/Pages/Footer_Privacy/Guest) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supabets.co.za privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614134816id_/http%3A//supabets.co.za/Pages/Footer_Privacy/Guest) for the most accurate reproduction.*
 
 # Supabets
 
@@ -6,7 +6,7 @@
 
 | 
 
-  * Portapa (Pty) Ltd t/a SUPABETS undertakes:
+  * Portapa 2 (Pty) Ltd t/a SUPABETS undertakes:
 
     *       * To use any confidential or disclosed information only for the purpose for which it was disclosed;
       * To treat and safeguard any confidential or disclosed information as private and confidential;
