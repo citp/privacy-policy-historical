@@ -1,26 +1,25 @@
-> *The following text is extracted and transformed from the mngacow.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922065246id_/http%3A//mngacow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mngacow.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614235831id_/http%3A//www.mngacow.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy « Mangacow
+# mngacow.com - Privacy Policy
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
+At mngacow.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by mngacow.com and how it is used. 
 
-We collect the IP address and domain name and e-mail address (where possible)  
-of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail.
+**Log Files**  
+Like many other Web sites, mngacow.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site.
+**DoubleClick DART Cookie**  
 
-With respect to cookies: We use cookies to record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site and Third Party cookies e.g. “Google”.
 
-Google cookies
+  * Google, as a third party vendor, uses cookies to serve ads on mngacow.com.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to mngacow.com and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
 
-– When you visit mngacow.com,
 
-Google send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser.
 
-Google use cookies to improve the quality of their service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Google features and services may not function properly if your cookies are disabled.
+Our third-party ad servers or ad networks use technology to the advertisements and links that appear on mngacow.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+mngacow.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. mngacow.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.If you feel that this site is not following its stated information policy, you may contact us.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
