@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchfort.online privacy policy that was archived on 2018-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180715064607id_/http%3A//www.blpsearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchfort.online privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614193313id_/http%3A//www.blpsearch.com/privacy) for the most accurate reproduction.*
 
 # BLPSEARCH PRIVACY POLICY
 
