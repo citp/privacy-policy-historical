@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howpk.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205230431id_/http%3A//howpk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howpk.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614175255id_/http%3A//howpk.com/privacy-policy) for the most accurate reproduction.*
 
 # Howpk.com-Privacy Policy | HowPk
 
