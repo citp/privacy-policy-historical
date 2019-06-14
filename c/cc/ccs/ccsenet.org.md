@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccsenet.org privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213070907id_/http%3A//www.ccsenet.org/home/index.php/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccsenet.org privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614235939id_/http%3A//ccsenet.org/home/index.php/index/privacy) for the most accurate reproduction.*
 
 # #HOME_INDEX_PRIVACY# | CCSE
 
