@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acgov.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203081257id_/http%3A//acgov.org/government/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acgov.org privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614092516id_/http%3A//www.acgov.org/government/legal.htm) for the most accurate reproduction.*
 
-# Legal / Disclaimers - Government - ACGOV.org - Alameda County's Official Website
+# Legal / Disclaimers | Alameda County
 
 Alameda County may change this policy from time to time, and reserves the right to do so without notice. 
 
@@ -67,19 +67,19 @@ Visitors can control aspects of website measurement and customization technologi
 
 One of the most common forms of website measurement and customization technologies is the use of “cookies.”  You can choose not to accept cookies from any website, including ACGOV.org, by changing the settings of your browser.  You can also delete cookies stored in your browser at any time. 
 
-##### Personal Information
+##### **Personal Information**
 
 All applications that collect personal information such as credit card, social security number, birth date, etc. are setup to run under secure sockets layer (SSL) so that all information is encrypted. Personal information collected in online forms that are stored in a database are stored as encrypted information.
 
-##### Cookies
+##### **Cookies**
 
 The use of cookies is a standard practice among Internet websites and most Internet web browsers may be customized to reject cookies, to only accept or reject cookies by user intervention, or to delete cookies. 
 
-##### Links To / From a Third Party
+##### **Links To / From a Third Party**
 
 The County website may be linked from or to local, State and federal government agencies, and other websites. The existence of those links does not constitute endorsement of the destination or departure website(s) or of the content of said destination or departure website(s). 
 
-##### Intellectual Property
+##### **Intellectual Property**
 
 The content of ACGOV.org web pages is copyrighted, and contains some third party images/graphics that are used with permission. Users are notified, therefore, that one should presume the need to obtain permission from the copyright holder before reproducing or otherwise using images/graphics from this website.
 
