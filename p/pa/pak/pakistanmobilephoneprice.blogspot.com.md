@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pakistanmobilephoneprice.blogspot.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211225938id_/http%3A//pakistanmobilephoneprice.blogspot.com/p/privacy-policy-for-pakistanmobilephonep.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanmobilephoneprice.blogspot.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614073543id_/http%3A//pakistanmobilephoneprice.blogspot.com/p/privacy-policy-for-pakistanmobilephonep.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Price in Pakistan & Specifications
 
 Privacy Policy for pakistanmobilephoneprice.blogspot.com
 
