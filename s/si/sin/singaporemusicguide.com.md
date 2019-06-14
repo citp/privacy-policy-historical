@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singaporemusicguide.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217102044id_/http%3A//www.singaporemusicguide.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporemusicguide.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614200303id_/http%3A//www.singaporemusicguide.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # singaporemusicguide.com - Get the last updates on music clips and song reviews.
 
