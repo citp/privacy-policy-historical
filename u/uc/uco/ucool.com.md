@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucool.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214081158id_/http%3A//www.ucool.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucool.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614204043id_/http%3A//ucool.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Ucool
 
