@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhino3d.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208234009id_/http%3A//www.mcneel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhino3d.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614025325id_/http%3A//www.mcneel.com/privacy) for the most accurate reproduction.*
 
 # McNeel North America - Privacy Policy
 
