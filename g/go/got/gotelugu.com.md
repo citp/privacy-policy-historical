@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotelugu.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222140932id_/http%3A//www.gotelugu.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotelugu.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614050311id_/http%3A//www.gotelugu.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Gotelugu Weekly Magazine | Free Telugu Magazine
 
