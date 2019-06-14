@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesiagame.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822080736id_/https%3A//www.frictionalgames.com/site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesiagame.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614053641id_/https%3A//www.frictionalgames.com/site/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Frictional Games
 
