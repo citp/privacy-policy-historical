@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the audioenglish.net privacy policy that was archived on 2017-07-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170714233150id_/https%3A//www.audioenglish.org/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the audioenglish.net privacy policy that was archived on 2019-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190614190708id_/https%3A//www.audioenglish.org/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>AudioEnglish.org Privacy Policy</title>
@@ -14,11 +14,28 @@
 <meta http-equiv="cleartype" content="on">
 <link rel="alternate" media="handheld" href="">
 <script type="text/javascript">
+var t_start=Number(new Date()), pgcats='4222';
 function BrowseType(v) {window.location.href=v;}
 function f(n,d){var p,i,x;if(!d)d=document;if((p=n.indexOf("?"))>0&&parent.frames.length){d=parent.frames[n.substring(p+1)].document;n=n.substring(0,p)}if(!(x=d[n])&&d.all)x=d.all[n];for(i=0;!x&&i<d.forms.length;i++)x=d.forms[i][n];for(i=0;!x&&d.layers&&i<d.layers.length;i++)x=f(n,d.layers[i].document);if(!x&&d.getElementById)x=d.getElementById(n);return x};
 var mO=1;function MobiMenu() {if(mO){if(f('b3')){f('b3').innerHTML=f('tdTM1').innerHTML+f('b2').innerHTML;f('b3').style.display='block';}mO=0;}else{if(f('b3')){f('b3').innerHTML='';f('b3').style.display='none';}mO=1;}}
+function ldAC(){if(typeof window.loadAC!=='undefined'){loadAC();}else{setTimeout("ldAC()",200);}}
+function delCookie(name){setCookie(name,"",-1);}
+function revokeConsent(){
+ delCookie('gdpr_cookies_ok');
+ if(f("revoke_cookies_consent")) {
+	setTimeout('f("revoke_cookies_consent").innerHTML=\'<img src="/lib/dots.gif?EU_GDPR_CONSENT=REVOKE_'+Number(new Date())+'" border=0 width=1 height=1>\';', 10);
+	setTimeout('location.reload();', 1000);
+ }
+}
+function WDRConsent(){
+ var cK=getCookie('gdpr_cookies_ok');
+ if(!!cK && f("revoke_cookies_consent")){
+	f('revoke_cookies_consent').innerHTML='<a href="javascript:revokeConsent()">I withdraw my consent to cookies.</a>';
+ }
+}
+var wdr=setInterval('WDRConsent()', 1000);
 </script>
-<link rel="stylesheet" href="http://www.audioenglish.org/wn_lib/dictionary_v4.css" type="text/css">
+<link rel="stylesheet" href="https://www.audioenglish.org/wn_lib/dictionary_v5.2018010918.css" type="text/css">
 <!--[if lt IE 9]>
 <script src="/lib/java.ie8.mediaqueries.min.js" type="text/javascript"></script>
 <![endif]-->
@@ -28,20 +45,19 @@ var mO=1;function MobiMenu() {if(mO){if(f('b3')){f('b3').innerHTML=f('tdTM1').in
 
 
 
-<!-- google_ad_section_start(weight=ignore) -->
 <div id="pWp">
 <!--b.HEAD-->
 <div id="T1C">
 <!--b.TMENU-1-->
 <div id="dTM1">
 <table border="0" cellpadding="0" cellspacing="0" class="blueDiv" align="right"><tbody><tr><td class="bDL"></td><td id="tdTM1" valign="middle">
-<a href="http://www.audioenglish.org/english-learning/efl_basic_for_beginners.htm" class="hdlksUp" id="FrstLk">English for Beginners</a> 
-<a href="http://www.audioenglish.org/english-learning/efl_practical_english.htm" class="hdlksUp">Practical English</a> 
-<a href="http://www.audioenglish.org/english-learning/efl_travel.htm" class="hdlksUp">Travel English</a> 
-<a href="http://www.audioenglish.org/english-learning/efl_telephone.htm" class="hdlksUp">Telephone English</a> <!--divers.progr1-->
-<a href="http://www.audioenglish.org/english-learning/efl_banking.htm" class="hdlksUp">Banking English</a> 
-<a href="http://www.audioenglish.org/english-learning/efl_accounting.htm" class="hdlksUp">Accounting English</a> 
-<a href="http://www.audioenglish.org/dictionary/" class="hdlksUpOn">Dictionary</a>
+<a href="https://www.audioenglish.org/english-learning/efl_basic_for_beginners.htm" class="hdlksUp" id="FrstLk">English for Beginners</a> 
+<a href="https://www.audioenglish.org/english-learning/efl_practical_english.htm" class="hdlksUp">Practical English</a> 
+<a href="https://www.audioenglish.org/english-learning/efl_travel.htm" class="hdlksUp">Travel English</a> 
+<a href="https://www.audioenglish.org/english-learning/efl_telephone.htm" class="hdlksUp">Telephone English</a> <!--divers.progr1-->
+<a href="https://www.audioenglish.org/english-learning/efl_banking.htm" class="hdlksUp">Banking English</a> 
+<a href="https://www.audioenglish.org/english-learning/efl_accounting.htm" class="hdlksUp">Accounting English</a> 
+<a href="https://www.audioenglish.org/dictionary/" class="hdlksUpOn">Dictionary</a>
 </td><td class="bDR"></td></tr></tbody></table>
 </div>
 <!--end.TMENU-1-->
@@ -49,21 +65,18 @@ var mO=1;function MobiMenu() {if(mO){if(f('b3')){f('b3').innerHTML=f('tdTM1').in
 <div class="clearB"></div>
 
 <!--b.TopLogoSRC-->
-<div id="tlg"><a href="http://www.audioenglish.org/"><img src="http://www.audioenglish.org/lib/audioenglish_logo_20_tiny.png" alt="Online English learning Courses" width="315" height="58" border="0"></a></div><!--divers.progr2-->
+<div id="tlg"><a href="https://www.audioenglish.org/"><img src="https://www.audioenglish.org/lib/audioenglish_logo_20_tiny.png" alt="Online English learning Courses" width="315" height="58" border="0"></a></div><!--divers.progr2-->
 
 <div id="tll"><a id="tlla" href="javascript:MobiMenu();" title="Menu"></a></div>
 
 <div id="cbatll"></div>
 
 <div id="tsf"><!--b.TopSrcForm--><table border="0" cellpadding="0" cellspacing="0" align="right">
-<form name="DicForm" onsubmit="javascript:if(this.where[1].checked){return DoSrc(this);} else{return KeySrc(this);}" action="http://www.audioenglish.org/english-learning/search"></form>
-<tbody><tr><td align="right" style="font-size:11px; color:#999999">
-<input value="Search" type="submit" style="font-size:9px">  &nbsp; 
-<input name="sk" type="text" size="16" maxlength="40" value="" style="font-size:9px"> &nbsp; 
-<span class="hSSc"><input name="where" type="radio" value="courses"> courses &nbsp; 
-<input name="where" type="radio" value="dictionary" checked=""> dictionary</span>
-<input name="mode" type="hidden" value="allwords">
-<span class="hSS" style="color:#D0DBEF"><br>Double-click any word on the page to look it up in the dictionary.</span></td></tr>
+<form name="DicForm" onsubmit="javascript:return KeySrc(this);" action="https://www.audioenglish.org/english-learning/search"></form>
+<tbody><tr><td width="98%" align="right"><input id="Tsk" onfocus="ldAC()" name="sk" type="text" size="16" maxlength="40" autocomplete="off" style="width:90%"><input name="where" type="hidden" value="dictionary"><input name="mode" type="hidden" value="allwords"></td>
+<td width="1%" style="min-width:10px">&nbsp;</td>
+<td width="1%" style="vertical-align:top"><input value="Search" type="submit"></td></tr>
+<tr><td colspan="3&quot;" style="font-size:11px; color:#999999;vertical-align:top"><span class="hSS" style="color:#D0DBEF">Double-click any word on the page to look it up in the dictionary.</span></td></tr>
 
 </tbody></table><!--end.TopSrcForm--></div>
 <div class="clearB"></div>
@@ -71,27 +84,26 @@ var mO=1;function MobiMenu() {if(mO){if(f('b3')){f('b3').innerHTML=f('tdTM1').in
 
 <!--b.TMENU-2-->
 <div id="b2" class="bluedown">
-<a href="javascript:BrowseType('http://www.audioenglish.org/english-learning/type_dialogue.htm');" class="hdlks">Dialogues</a> 	<!--divers.progr3-->
-<a href="javascript:BrowseType('http://www.audioenglish.org/english-learning/type_narration.htm');" class="hdlks">Narrations</a> 
-<a href="javascript:BrowseType('http://www.audioenglish.org/english-learning/type_useful_phrases.htm');" class="hdlks">Phrases</a> 
-<a href="javascript:BrowseType('http://www.audioenglish.org/english-learning/type_pronunciation.htm');" class="hdlks">Pronunciation</a> 
-<a href="javascript:BrowseType('http://www.audioenglish.org/english-learning/type_roleplay.htm');" class="hdlks">Role-play exercises</a> 
-<a href="javascript:BrowseType('http://www.audioenglish.org/english-learning/type_questions_and_answers.htm');" class="hdlks">Q&amp;A</a> 
-<a href="javascript:BrowseType('http://www.audioenglish.org/english-learning/type_test.htm');" class="hdlks">Online tests</a> <!--divers.progr4-->
-<a href="javascript:BrowseType('http://www.audioenglish.org/english-learning/type_all.htm');" class="hdlks">All English-learning resources</a>
+<a href="javascript:BrowseType('https://www.audioenglish.org/english-learning/type_dialogue.htm');" class="hdlks">Dialogues</a> 	<!--divers.progr3-->
+<a href="javascript:BrowseType('https://www.audioenglish.org/english-learning/type_narration.htm');" class="hdlks">Narrations</a> 
+<a href="javascript:BrowseType('https://www.audioenglish.org/english-learning/type_useful_phrases.htm');" class="hdlks">Phrases</a> 
+<a href="javascript:BrowseType('https://www.audioenglish.org/english-learning/type_pronunciation.htm');" class="hdlks">Pronunciation</a> 
+<a href="javascript:BrowseType('https://www.audioenglish.org/english-learning/type_roleplay.htm');" class="hdlks">Role-play exercises</a> 
+<a href="javascript:BrowseType('https://www.audioenglish.org/english-learning/type_questions_and_answers.htm');" class="hdlks">Q&amp;A</a> 
+<a href="javascript:BrowseType('https://www.audioenglish.org/english-learning/type_test.htm');" class="hdlks">Online tests</a> <!--divers.progr4-->
+<a href="javascript:BrowseType('https://www.audioenglish.org/english-learning/type_all.htm');" class="hdlks">All English-learning resources</a>
 </div>
 <!--end.TMENU-2-->
 
 <div id="blueln"></div>
 <div id="b3"></div>
 
-<!-- google_ad_section_end -->
+
 
 <br>
 
 <!--b.adsense728x90-->
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- audioenglish_336x280_responsive -->
+<!-- audioenglish_728x90_responsive -->
 <ins class="adsbygoogle gad1" style="display:block" data-ad-client="ca-pub-4227854031748288" data-ad-slot="6715349230" data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
@@ -124,14 +136,14 @@ var mO=1;function MobiMenu() {if(mO){if(f('b3')){f('b3').innerHTML=f('tdTM1').in
 <div id="withDia">
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" class="urhr" id="urhrt"><!--divers.progr15-->
-<tbody><tr><!--divers.progr11--><td class="hello" style="font-size:10px"><a href="http://www.audioenglish.org/">Audio<span style="font-size:1px"> </span>English.org</a> » <a href="http://www.audioenglish.org/dictionary/">Dictionary</a></td></tr><!--divers.progr6-->
+<tbody><tr><!--divers.progr11--><td class="hello" style="font-size:10px"><a href="https://www.audioenglish.org/">Audio<span style="font-size:1px"> </span>English.org</a> » <a href="https://www.audioenglish.org/dictionary/">Dictionary</a></td></tr><!--divers.progr6-->
 </tbody></table>
 
 <!--divers.progr7-->
 
 <div id="rdln"></div>
 <!--divers.progr10-->
-<!-- google_ad_section_start -->
+
 <span class="Sz14"><br></span>
 
 <!--b.beforeBody-->
@@ -144,17 +156,20 @@ var mO=1;function MobiMenu() {if(mO){if(f('b3')){f('b3').innerHTML=f('tdTM1').in
 <h1 class="aedh">Privacy Policy</h1>
 <div class="aedv">
 
-<i>Effective June 9, 2009</i><br>
+<i>Effective May 25, 2018</i><br>
 <br>
 <br>
 
 <b>Our Commitment To Privacy</b><br>
 <br>
 
-We at AudioEnglish.org are committed to providing you with excellent service. Your privacy is important to us, and have developed this Privacy Policy to inform you about our privacy practices for the entire AudioEnglish.org Web site and all its subdomains. To better protect your privacy we provide this notice explaining the choices you can make about the way your information is collected and used.<br>
+We, Global Info SRL, the company operating the AudioEnglish.org Web site, are committed to providing you with excellent service. Throughout this document, the word "we" or "us" means Global Info SRL, the company that is the controller of the data according to The General Data Protection Regulation (GDPR).<br>
 <br>
 
-Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience. We at AudioEnglish.org are sensitive to the privacy concerns of our subscribers and other visitors to our Web sites. Whether you are a subscriber or a visitor to our site, we assure you that we do not collect personal information from you unless you provide it to us. If you are subscribing to our services, you may be asked to provide certain personal and credit card information. Please note, however, that we are asking for this information for the limited purposes of managing your subscription and we do not get and/or store any credit card information, as this is entered by customers on the server of our payment gateway provider and not on our servers. When you enter sensitive information (such as credit card number), that information is encrypted using secure socket layer technology (SSL). You should also be assured that we do not provide or sell information about our customers or site visitors to anyone except as required by law.<br>
+Your privacy is important to us, and have developed this Privacy Policy to inform you about our privacy practices for the entire AudioEnglish.org Web site and all its subdomains. To better protect your privacy we provide this notice explaining the choices you can make about the way your information is collected and used.<br>
+<br>
+
+Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience. We are sensitive to the privacy concerns of our subscribers and other visitors to our Web sites. Whether you are a subscriber or a visitor to our site, we assure you that we do not collect personal information from you unless you provide it to us. If you are subscribing to our services, you may be asked to provide certain personal and credit card information. Please note, however, that we are asking for this information for the limited purposes of managing your subscription and we do not get and/or store any credit card information, as this is entered by customers on the server of our payment gateway provider and not on our own servers. When you enter sensitive information (such as credit card number) or personal details, that information is encrypted using secure socket layer technology (SSL). You should also be assured that we do not provide or sell personal information about our customers or site visitors to anyone except as required by law.<br>
 <br>
 
 Our Web site may contain links to other sites. Please note that we are not responsible for the privacy practices, privacy statements, or content of these other sites.<br>
@@ -165,20 +180,26 @@ Our Web site may contain links to other sites. Please note that we are not respo
 <b>Personal Information</b><br>
 <br>
 
-Personal information for purposes of this policy is defined as information that identifies you, individually, and includes your name, home address, home telephone number, and e-mail address.<br>
+Personal information for purposes of this policy is defined as information that identifies you, individually, and includes your name, home address, home telephone number and e-mail address.<br>
 <br>
 
-We only collect personally identifiable information about you after you have specifically provided such information to us. By voluntarily submitting this information to us when using our Web site, you are consenting to the collection and use of Your personal information by us for that online activity.<br>
+We only collect personally identifiable information about you after you have specifically provided such information to us when you subscribe to our services. By voluntarily submitting this information to us, you are consenting to the collection and use of Your personal information by us, and such information will be used only for the purposes listed below, unless you consent otherwise.<br>
 <br>
 
-If you participate in an online activity which requires you to provide personal information, such information will only be used for the purposes of that online activity, unless you consent otherwise.  By way of example and not limitation, we may collect and use personal information for some or all of the following reasons:<br>
-- To provide you with access to our subscription-based services.<br>
-- Responding to questions or comments forwarded to us by you.<br>
+We collect and use personal information for the following reasons:<br>
+- To provide you with access to our subscription-based services and to issue an invoice to you for these services.<br>
 - To provide you with notices related to your subscriptions or to communicate with you regarding billing, payment and other issues related to your subscriptions.<br>
-- To provide you with notice of upcoming promotions.<br>
+- To provide you with information about our services.<br>
+- To prevent fraud.<br>
 <br>
 
-We do not collect any personal information from a visitor to our sites unless that visitor explicitly and intentionally provides it. Under no circumstances do we collect any personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life. If you are simply browsing our Web site, we do not gather any personal information about you.<br>
+Personal information of our subscribers is periodically erased from our servers when no longer necessary for the purposes listed above or after 36 months, but may still be retained on printed invoices and other accounting records for the period required by the law regarding such accounting documents and records.<br>
+<br>
+
+We do not collect such personal information from a visitor to our web site unless that visitor explicitly and intentionally provides it. Under no circumstances do we collect any personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life. If you are simply browsing our Web site, we do not gather any personal information about you.<br>
+<br>
+
+Information about third party advertisers, including Google Inc., that may still gather information about you when you browse our Web site is available below, in the section named Third Party Advertising.<br>
 <br>
 
 
@@ -186,7 +207,7 @@ We do not collect any personal information from a visitor to our sites unless th
 <b>Subscriptions</b><br>
 <br>
 
-If you choose to subscribe to our services, we will request certain personal information from you. We do not share this information with outside parties except to the extent necessary to provide those online services.<br>
+If you choose to subscribe to our services, we will request certain personal information from you. We do not share this information with outside parties except to the extent necessary to comply with applicable law.<br>
 <br>
 
 
@@ -194,16 +215,33 @@ If you choose to subscribe to our services, we will request certain personal inf
 <b>How You Can Correct Your Information</b><br>
 <br>
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.<br>
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. See the How To Contact Us section below for our contact information.<br>
 <br>
 
+
+
+
+<b>How You Can Ask Us to Delete Your Personal Information</b><br>
+<br>
+
+You can ask us to delete your personally identifiable information by sending us a request to this effect. To protect your privacy and security, we will also take reasonable steps to verify your identity before removing your personal information from our servers. See the How To Contact Us section below for our contact information.<br>
+<br>
+
+
+
+
+<b>GDPR rights</b><br>
+<br>
+
+As a natural person in one of the EU Member States, according to <i>REGULATION (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)</i> you have the right to retire your consent regarding the storage and processing of your personal data, the rights of access to and rectification or erasure of personal data, the right to object to processing your personal data, the right to restriction of processing concerning your data, the right to data portability, the right to lodge a complaint with a supervisory authority and you may also have other rights related to your personal data. The provision of personal data is a requirement necessary to become a subscriber to our services, and failure to provide such data will result in failure to become a subscriber to our services. We store the personal data of our subscribers in the European Union and we may also store them in the USA, as long as the USA is determined by the European Commission, on the basis of article 45 of Regulation (EU) 2016/679, as offering an adequate level of data protection. To contact us regarding such rights, see the How To Contact Us section below for our contact information.<br>
+<br>
 
 
 
 <b>Statistical Information about your Visit</b><br>
 <br>
 
-When you visit our sites, our computers may automatically collect statistics about your visit. If you are not a subscriber, this information does not identify you personally, but rather about your visit to our sites. We may monitor statistics such as how many people visit our sites, the user's IP address, which pages people visit on our sites, from which domains our visitors reach our sites, and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of our Web sites. If you are a subscriber, we may monitor your online activity on our Web site so as to verify that you comply with the terms of use of the services we provide you.<br>
+When you visit our Web site, our computers may automatically collect statistics about your visit. If you are not a subscriber, this information does not identify you personally, but rather about your visit to our Web site. We may monitor statistics such as how many people visit our site, the user's IP address, which pages people visit on our site, from which domains our visitors reach our site, and which browsers people use. We use these statistics about your visit for aggregation purposes. These statistics are also used to help us improve the performance of our Web site. We may also use this information to combat fraud and systems abuse, and, should the case arise, report to law-enforcement bodies. If you are a subscriber, we may monitor your online activity on our Web site so as to verify that you comply with the terms of use of the services we provide you.<br>
 <br>
 
 
@@ -211,19 +249,29 @@ When you visit our sites, our computers may automatically collect statistics abo
 <b>Use of Cookies</b><br>
 <br>
 
-A "cookie" is a piece of information that our web sites send to your browser, which then is stored on your system. A user can use our web sites without cookies; however, our systems need cookies in order to identify you as a subscriber. You may disable or delete the cookies at any time. Many users prefer to use cookies in order to help them navigate a Web site as seamlessly as possible.<br>
+A "cookie" is a piece of information that our Web site sends to your browser, which then is stored on your system. A user can use our Web site without cookies; however, our systems need cookies in order to identify you as a subscriber. Our systems also use cookies to improve your experience when you use our Web site. You may disable or delete the cookies at any time. Many users prefer to use cookies in order to help them navigate a Web site as seamlessly as possible.<br>
 <br>
 
 You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender any personal or other information from your computer.<br>
 <br>
 
+When you browse this web site, third-party advertising companies including Google may also use cookies as described in the section Third Party Advertising. If you are an end user located in the European Economic Area (EEA), this will only happen after we have your consent for the use of cookies and other data.<br>
+<br>
+
+If you are an end user located in the European Economic Area, and you have given your consent regarding the use of cookies and other data by us and by third-party advertising companies including Google, and if you are not a subscriber to our web site, you can withdraw this consent by accesing the link I withdraw my consent to cookies below (if the link does not appear below, your browser did not report such consent when you opened this page) <span id="revoke_cookies_consent"></span><br>
+<br>
+
+If you are a subscriber to our web site, and wish to withdraw your consent to the processing and storage of your personal data, please send us a request by email. Please note though, that after your consent is withdrawn, you will no longer be able to use your subscription, the amount paid for the subscription will not be refunded, and some of your personal data will remain on our accounting documents such as printed invoices.<br>
+<br>
 
 
 
 <b>Third Party Advertising</b><br>
 <br>
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/privacy_ads.html" rel="nofollow">click here</a>.<br>
+We use third-party advertising companies to serve ads when you visit our website. Third-party advertising companies we may use are on this <a href="https://support.google.com/adsense/answer/9012903" rel="nofollow">list provided by Google</a>.
+
+We do not share with these third-party advertising companies the personal information you provide to us when you subscribe to our own services (such as your name, address, email address, or telephone number).  But these companies may use information about your visits to specific pages on this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/privacy_ads.html" rel="nofollow">click here</a>.<br>
 <br>
 
 Advertisements that appear on AudioEnglish.org are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies to measure the effectiveness of their ads and to personalize advertising content.<br>
@@ -232,13 +280,16 @@ Advertisements that appear on AudioEnglish.org are sometimes delivered (or "serv
 Google, as a third party advertising company, uses cookies to serve ads on our site. Google's use of the <a href="http://www.doubleclick.com/privacy/faq.aspx" rel="nofollow">DoubleClick DART cookie</a> enables it to serve ads to our Web site's visitors based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" rel="nofollow">Google ad and content network privacy policy</a>.<br>
 <br>
 
-Google and third-party advertising companies may also store, access and/or collect other information from your browser, computer or mobile device in connection with the ads they provide, such as information about your options for cookie management, device-specific information, location information or other information on your device in connection with the advertising they provide. By continuing to use this Web Site, you give your express consent to the storing and accessing of such information by Google and other third-party advertising companies.<br>
+Google and third-party advertising companies may also store, access and/or collect other information from your browser, computer or mobile device in connection with the ads they provide, such as information about your options for cookie management, device-specific information, location information or other information on your device in connection with the advertising they provide. By continuing to use this Web Site, you give your express consent to the storing and accessing of such information by Google and other third-party advertising companies. Ads delivered to end users in the European Economic Area on our Web site via Google Adsense are set up in such a way as to avoid personalization of these ads based on user profiling.<br>
+<br>
+
+Google and other third-party ads are only shown to end users in the European Economic Area (EEA) after they give their consent to the use of cookies and other data by us and by third-party advertising companies, including Google. Without such consent, neither cookies, nor even data such as the IP address or the browser used by our web site's end-user in the EEA, are sent to the servers of third-party advertising companies.<br>
 <br>
 
 Please note that AudioEnglish.org does not endorse any of the ads shown on these pages, whether in editorial or advertising matter, and can in no circumstances be held responsible for the outcome of any action taken by any visitor in relation with such an ad. Visitors are advised to take all usual precautions before entering into any agreement with the advertiser and to satisfy themselves as to the suitability of the products or services offered by the advertiser.<br>
 <br>
 
-Third party advertisers have no access to your personal information stored on our servers unless you choose to share it with them.<br>
+Third party advertisers have no access to your personal information stored on our servers when you subscribe to our own services.<br>
 <br>
 
 
@@ -258,7 +309,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 <b>Our Commitment To Data Security</b><br>
 <br>
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Only our staff and the staff of third parties providing hosting services to us may have access to servers where personal information of our subscribers is stored. We do not get and/or store any credit card information belonging to our customers, this is encrypted using secure socket layer technology (SSL) and sent by customers direct to our payment gateway provider.<br>
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Only our staff may have access to servers where personal information of our subscribers is stored, with the exception of the rare cases of hardware server components failures, when the staff of third parties providing hosting services to us may have access to our servers for the purpose of repairing them. We do not get and/or store any credit card information belonging to our customers, this is encrypted using secure socket layer technology (SSL) and sent by customers direct to our payment gateway provider.<br>
 <br>
 
 
@@ -277,7 +328,7 @@ If we are required by law to disclose certain information to local, state, feder
 <b>How To Contact Us</b><br>
 <br>
 
-Our contact information is available on the <a href="http://www.audioenglish.org/english-learning/contact.htm">contact us page</a>.<br>
+Our contact information is available on the <a href="https://www.audioenglish.org/english-learning/contact.htm">contact us page</a>.<br>
 
 Should you have other questions or concerns about our Web site or services, please send us an email at the email address provided on the contact page.<br>
 <br>
@@ -298,7 +349,7 @@ This policy is subject to change. Any changes will be effective when a notice of
 
 
 </div>
-<!-- google_ad_section_end -->
+
 
 <!--divers.progr8-->
  </div> <!--end.ColDicBody-->
@@ -310,9 +361,10 @@ This policy is subject to change. Any changes will be effective when a notice of
 <span class="sPa3"><br><br><br><br></span>
 
 <div id="srcpb"><span class="aedp">AudioEnglish Definitions... Just One Click Away!</span><br>
-Now you can lookup any word in our dictionary, right from the search box in your browser! <a href="#" onclick="addSrcProvider(); return false;">Click here to add the AudioEnglish.org dictionary</a> to your list of search providers.<br>
-<b>IE 8.0 Tip:</b> simply highlight a word from any webpage, click on the blue Accelerator icon that appears above your selection, click All Accelerators and then select Search with AudioEnglish.org Dictionary.<br>
+<a href="#" onclick="addSrcProvider(); return false;">Click here to add the AudioEnglish.org dictionary</a> to your browser's search box.<br>
+<!-- <b>IE 8.0 Tip:</b> simply highlight a word from any webpage, click on the blue Accelerator icon that appears above your selection, click All Accelerators and then select Search with AudioEnglish.org Dictionary.<br> -->
 </div>
+
 
 <!--b.LEFT2-->
 
@@ -330,16 +382,16 @@ Now you can lookup any word in our dictionary, right from the search box in your
 
 <br>
 
-<!-- google_ad_section_start(weight=ignore) -->
+
 <!--e.LEFT2-->
-<!-- google_ad_section_end -->
+
 
 <span class="sPa3"><br><br><br><br></span>
 
 
 
 <!--b.back2ref-->
-<span id="b2r"></span>
+<span id="b2rOFF"></span>
 <!--end.back2ref-->
 
 
@@ -370,7 +422,7 @@ Now you can lookup any word in our dictionary, right from the search box in your
 <br>
 <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#999999">
 <tbody><tr><td height="1"><img height="1" alt="" src="/lib/px1.gif" width="1" border="0"></td></tr></tbody></table>
-<div align="right" class="FootR"><a href="https://infocomp.fluidhosting.com/ssl.audioenglish.org/new_account.php" rel="nofollow">subscriptions</a> | <a href="javascript:BookMarkIt('AudioEnglish.org - ');" rel="nofollow">add to favorites</a> | <!--divers.progr17--><a href="javascript:window.location.href='http://www.audioenglish.org/wn_terms_of_use.php';" rel="nofollow">terms of use</a> | <a href="javascript:window.location.href='http://www.audioenglish.org/privacy_policy.php';" rel="nofollow">privacy policy</a> | <a href="javascript:window.location.href='http://www.audioenglish.org/wn_copyright_notice.php';" rel="nofollow">copyright</a> | <a href="javascript:window.location.href='http://www.audioenglish.org/wn_credits.php';" rel="nofollow">credits</a> | <a href="http://www.audioenglish.org/wn_sitemapindex.php">dictionary sitemap</a> | <a href="http://www.audioenglish.org/english-learning/contact.htm" class="FootR">contact</a>&nbsp;&nbsp;<br><!--divers.progr18-->
+<div align="right" class="FootR"><a href="https://www.audioenglish.org/ssl.audioenglish.org/new_account.php" rel="nofollow">subscriptions</a> | <a href="javascript:BookMarkIt('AudioEnglish.org - ');" rel="nofollow">add to favorites</a> | <!--divers.progr17--><a href="javascript:window.location.href='https://www.audioenglish.org/wn_terms_of_use.php';" rel="nofollow">terms of use</a> | <a href="javascript:window.location.href='https://www.audioenglish.org/privacy_policy.php';" rel="nofollow">privacy policy</a> | <a href="javascript:window.location.href='https://www.audioenglish.org/wn_copyright_notice.php';" rel="nofollow">copyright</a> | <a href="javascript:window.location.href='https://www.audioenglish.org/wn_credits.php';" rel="nofollow">credits</a> | <a href="https://www.audioenglish.org/wn_sitemapindex.php">dictionary sitemap</a> | <a href="https://www.audioenglish.org/english-learning/contact.htm" class="FootR">contact</a>&nbsp;&nbsp;<br><!--divers.progr18-->
 <span style="font-size:9px;color:#666666"></span></div>
 <br>
 </div>
@@ -379,9 +431,9 @@ Now you can lookup any word in our dictionary, right from the search box in your
 <!--e.FOOTER-->
 </div>
 
-<font size="1" color="#FFFFFF"><a href="http://www.audioenglish.org/wnsbt.htm" target="_top" rel="nofollow"><img src="/lib/px1.gif" height="1" border="0" width="1" alt=""></a><span id="s2s"></span></font>
-<noscript><img height="1" width="1" alt="" src="http://www.audioenglish.org/wnstats2.px?js=off"></noscript>
-<script src="http://www.audioenglish.org/lib/st_audio_dic.js" type="text/javascript"></script>
+<font size="1" color="#FFFFFF"><a href="https://www.audioenglish.org/wnsbt.htm" target="_top" rel="nofollow"><img src="/lib/px1.gif" height="1" border="0" width="1" alt=""></a><span id="s2s"></span></font>
+<noscript><img height="1" width="1" alt="" src="https://www.audioenglish.org/wnstats2.px?js=off"></noscript>
+<script src="https://www.audioenglish.org/lib/st_audio_dic.2019041819.js" type="text/javascript"></script>
 
 <!--divers.progr19-->
 
