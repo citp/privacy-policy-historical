@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playonlinedicegames.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625224807id_/http%3A//www.playonlinedicegames.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playonlinedicegames.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614090810id_/http%3A//www.playonlinedicegames.com/policy) for the most accurate reproduction.*
 
 # App Policy
 
@@ -19,7 +19,7 @@ PlayOnlineDiceGames.com uses third-party vendors including Google for displaying
 
   * Third party vendors, including Google Adsense, use cookies to serve ads based on a user's prior visits to your website or other websites. 
   * Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
-  * Users may opt out of Google's personalized advertising by Google by visiting [Ads Settings](https://www.google.com/settings/ads). You can opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](https://web.archive.org/web/20180625224807id_/http%3A//www.playonlinedicegames.com/www.aboutads.info). 
+  * Users may opt out of Google's personalized advertising by Google by visiting [Ads Settings](https://www.google.com/settings/ads). You can opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](https://web.archive.org/web/20190614090810id_/http%3A//www.playonlinedicegames.com/www.aboutads.info). 
   * Other third-party vendors used on the site for display of ads are Amazon Associates Ads and Propeller Ads.
 
 In order to opt-out of personalized advertising from Amazon visit: <https://www.amazon.com/adprefs>  
