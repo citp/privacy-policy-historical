@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readanybook.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209022619id_/http%3A//www.readanybook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readanybook.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614150135id_/https%3A//read-any-book.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 #### IP Address
 
@@ -16,4 +16,4 @@ Certain information in being accumulated on the personal account of each registe
 
 #### Financial Information
 
-In order to pay for the Site Services, the user provides information on the method of payment (e.g. credit card details, etc.) to a payment transfer company that has a contract with OnRead. All details of your methods of payments are UNAVAILABLE to the Site Administration. Nevertheless, the Administration agrees to observe the security and non-dissemination of any other financial information on its users with all possible care (e.g. information on payments made). 
+In order to pay for the Site Services, the user provides information on the method of payment (e.g. credit card details, etc.) to a payment transfer company that has a contract with Read Any Book. All details of your methods of payments are UNAVAILABLE to the Site Administration. Nevertheless, the Administration agrees to observe the security and non-dissemination of any other financial information on its users with all possible care (e.g. information on payments made). 
