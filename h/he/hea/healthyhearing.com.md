@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the healthyhearing.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219032825id_/https%3A//www.healthyhearing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyhearing.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614184547id_/https%3A//www.healthyhearing.com/privacy-policy) for the most accurate reproduction.*
 
 # Healthy Hearing Privacy policy
 
-### For using our Site
+## For using our Site
 
 This privacy policy applies to the Healthy Hearing website (the “Site”). The Site contains links to other sites. Once you enter another website (whether through an advertisement, service or content link), be aware that Healthy Hearing is not responsible for the privacy practices of such other sites. We encourage you to look for and review the privacy statements of each and every website you visit through a link or advertisement on Healthy Hearing as well as any of the clinics listed in our directory. Healthy Hearing works with partners (“Corporate Partners”) that include hearing aid manufacturers, independently owned hearing aid dispensing clinics, networks of hearing aid dispensing clinics and their parent companies, as well as non-profit organizations. Note that some of the information we collect from you may be shared with our Corporate Partners, see below. Please see the privacy policies of these partners for how they might use your information.
 
-### Non-personal information we collect
+## Non-personal information we collect
 
 Healthy Hearing collects non-personal information about your use of the Site, special promotions and newsletters.
 
@@ -16,7 +16,7 @@ Healthy Hearing collects non-personal information about your use of the Site and
 
 Your browser software can be set to reject all cookies. Most browsers offer instructions on how to reset the browser to reject cookies in the "Help" section of the toolbar. If you reject our cookies, certain functions and conveniences of our website may not work properly but you do not have to accept our cookies in order to productively use our site. Healthy Hearing does not link non-personal information from cookies to personally identifiable information without your permission.
 
-### Identifiable information we collect
+## Identifiable information we collect
 
 Healthy Hearing collects personally identifiable information you provide when you sign up to receive our email newsletter, call the Healthy Hearing contact phone number, send us an email, send us a message through our online forms or through public forums, reach out to Healthy Hearing via online chat, call one of the clinic phone numbers posted on the Site, talk to agents within the Healthy Hearing call center, post a review and rating of a clinic in our directory or download one of our free guides. We use the personally identifiable information you provide to respond to your questions, provide you specific services you select, help you find a clinic in your area, help you navigate the information on the Site, conduct follow-up surveys and send you emails about website maintenance and updates.
 
@@ -52,7 +52,7 @@ Any information (including personally identifiable information) you share in an 
 
 **Contact forms**
 
-This privacy policy does not protect you or your personally identifiable information when you send content, business information, ideas, concepts or inventions to Healthy Hearing by email. If you want to keep your personally identifiable information, content, business information, ideas, concepts or inventions private or proprietary, do not send them in an email to Healthy Hearing. We try to answer every email within 48 business hours, but are not always able to do so.
+This privacy policy does not protect you or your personally identifiable information when you send content, business information, ideas, concepts or inventions to Healthy Hearing by email. If you want to keep your personally identifiable information, content, business information, ideas, concepts or inventions private or proprietary, do not send them in an email to Healthy Hearing. We try to answer every email within 48 business hours but we are not always able to do so.
 
 **Market research**
 
@@ -66,7 +66,7 @@ Corporate Partners or advertisers on the Site may use their own cookies in adver
 
 We do not control these third parties' use of cookies or how they manage the non-personal information they gather through them. However, we do require corporate partners, advertisers and Ad Servers who collect cookie information through our website to agree that they will not collect any personally identifiable information from our website without your consent. They have promised us they will not link any non-personal information collected by them through cookies in advertising banners on our website to personally identifiable information they or others collect. Certain Ad Servers allow you to prevent them from collecting data through the use of cookies. In order to do so, you must opt-out of such data collection with each individual site. Currently, you can opt-out of cookies for several Ad Servers by visiting the Network Advertising Initiative gateway opt-out site. This website will also allow you to review the Ad Server's privacy policies.
 
-### Disclosure of your information
+## Disclosure of your information
 
 Except as set forth in this privacy policy or as specifically agreed to by you, Healthy Hearing will not disclose any personally identifiable information it gathers from you on our Site. We will only release personally identifiable information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as a physical threat to you or others. In the event that we are legally compelled to disclose your personally identifiable information to a third party, we will attempt to notify you unless doing so would violate the law or court order. In addition, we may disclose personal information as described below.
 
@@ -74,7 +74,7 @@ Except as set forth in this privacy policy or as specifically agreed to by you, 
 
 Healthy Hearing may provide aggregate information to third parties. For example, we might inform third parties regarding the number of users of the Site and the activities they conduct while on the Site. We might also inform a company (that may or may not be an advertiser on our site) that "30% of our users live east of the Mississippi" or that "25% of our users dispense hearing aids." Depending on the circumstances, we may or may not charge third parties for this aggregate information. We require parties with whom we share aggregate information to agree they will not attempt to make this information personally identifiable, such as by combining it with other databases.
 
-### How Healthy Hearing handles privacy and security internally
+## How Healthy Hearing handles privacy and security internally
 
 Listed below are some of the security procedures Healthy Hearing uses to protect your privacy:
 
@@ -87,7 +87,7 @@ Listed below are some of the security procedures Healthy Hearing uses to protect
 
 
 
-### Contacting Healthy Hearing
+## Contacting Healthy Hearing
 
 **Removing your personal information**
 
@@ -103,6 +103,6 @@ Los Angeles, CA 90051-6681
 
 Upon your request, we will delete your personally identifiable information from our active databases and where feasible from our back-up media. Be aware that it is not technologically possible to remove each and every record of the information you have provided to the Site from our servers.
 
-### Privacy policy acceptance
+## Privacy policy acceptance
 
-Your use of the Site will indicate acceptance of this privacy policy. You may of course choose to discontinue using the Site. Please exit the Site immediately if you do not agree to the terms of this privacy policy.
+Your use of the Site will indicate acceptance of this privacy policy. You may, of course, choose to discontinue using the Site. Please exit the Site immediately if you do not agree to the terms of this privacy policy.
