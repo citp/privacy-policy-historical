@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the errorcodespro.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718234858id_/http%3A//errorcodespro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the errorcodespro.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614105849id_/https%3A//errorcodespro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Error Codes Pro
+# Privacy Policy - The Error Code Pros
 
-This Privacy Policy governs the manner in which Error Codes Pro collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://errorcodespro.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Error Codes Pro.
+This Privacy Policy governs the manner in which Error Codes Pro collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://errorcodespro.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Error Codes Pro.
 
  **Personal identification information**
 
@@ -57,12 +57,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
  **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
- **Error Codes Pro**
-
-3262 Westheimer Rd
-
-Ste 236 Houston, TX 77098
-
-This document was last updated on June 29, 2014
+This document was last updated on May 5, 2018
