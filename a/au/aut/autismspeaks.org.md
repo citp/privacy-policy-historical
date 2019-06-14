@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the autismspeaks.org privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921052351id_/https%3A//www.autismspeaks.org/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autismspeaks.org privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614232736id_/https%3A//www.autismspeaks.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | | Autism Speaks
+# Privacy Policy | Autism Speaks
 
 **1\. INTRODUCTION**
 
-Autism Speaks,  a non-profit 501(c)3 entity, is the nation's largest autism science and advocacy organization, dedicated to funding research into the causes, prevention, treatments and a cure for autism; increasing awareness of autism spectrum disorders; and advocating for the needs of individuals with autism and their families.
+Autism Speaks, a non-profit 501(c)(3) entity, is dedicated to promoting solutions, across the spectrum and throughout the life span, for the needs of individuals with autism and their families. We do this through advocacy and support; increasing understanding and acceptance of autism spectrum disorder; and advancing research into causes and better interventions for autism spectrum disorder and related conditions.
 
-The services offered by Autism Speaks ("Autism Speaks" "us" or "we") include all officially maintained and managed Autism Speaks websites ("the Site"), including  a variety of sub-sites and micro-sites such as  "Walk Now for Autism Speaks," "Light It Up Blue" and a variety of other websites and sub-websites.
+This Privacy Policy applies to: (a) information we collect from persons, either electronically, via postal mail, in-person or over the phone, in connection with their relationship with Autism Speaks whether it be for a donation or other means (b) all registrants or participants in Autism Speaks Walks  or any other Autism Speaks sponsored event and (c) users of any related services, applications or sites that link to this Privacy Policy (collectively (a), (b) and (c) referred to hereunder as the "Services").
 
-This Privacy Policy applies to: (a) information we collect from persons, either electronically, via postal mail, in-person or over the phone, in connection with their relationship with Autism Speaks whether it be for a donation or other means (b) all registrants or participants in "Walk Now for Autism Speaks," "Light It Up Blue" or any other Autism Speaks sponsored event and (c) users of any related services, applications or sites that link to this Privacy Policy (collectively (a), (b) and (c) referred to hereunder as the "Services").
-
-The Policy describes Autism Speaks collection and use of users' Personal Information (e.g., information that identifies a specific person, such as full name, postal address, telephone number, email address, or credit or debit card number) where that information is not otherwise publicly available.)   It also describes generally Autism Speaks’ practices for handling Other Information (e.g., interests, demographics and site usage) collected from you, through us or from a third party to the extent such information is associated with a particular device, user or user account.
-
-By using this Site and/or the Services, you agree to the terms and conditions of this Privacy Policy.  If you do not agree to the terms and conditions of this Privacy Policy, do not use the Site or the Services.
+The Policy describes Autism Speaks’ collection and use for its legitimate interest of users' Personal Information (e.g., information that identifies a specific person, such as full name, postal address, telephone number, email address, or credit or debit card number) where that information is not otherwise publicly available.   It also describes generally Autism Speaks’ practices for handling Other Information (e.g., interests, demographics and site usage) collected from you, through us or from a third party to the extent such information is associated with a particular device, user or user account.
 
 **2\. INFORMATION WE COLLECT**
 
@@ -22,7 +18,7 @@ By using this Site and/or the Services, you agree to the terms and conditions of
 
 _Personal Information You Submit_
 
-We collect Personal Information when you submit it to us, including but not limited to when you submit a donation, register for or subscribe to certain events, products, or services, create a profile, participate in a sweepstakes or contest, take a survey, use an interactive feature, or participate in a forum.
+We collect Personal Information when you submit it to us, including but not limited to when you submit a donation, register for or subscribe to certain events, products, or services, create a profile, participate in an auction, sweepstakes, game or contest, take a survey, use an interactive feature, or participate in a forum.
 
 _Personal Information We Receive from Third Parties_
 
@@ -48,11 +44,9 @@ Personal data is collected when users provide personal information that is not p
 
 Aggregated information, such as information on traffic patterns within the Site, is collected by Autism Speaks through various methods:
 
-**IP Addresses:** We collect IP addresses through the Site. An IP address is a number that is automatically assigned to your computer whenever you're surfing the web. Web servers, the computers that "serve up" web pages, automatically identify your computer by its IP address, and when you request a page from the Site, our servers log your IP address. The Site does not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to us.
+**IP Addresses:**  We collect IP addresses through the Site. An IP address is a number that is automatically assigned to your computer whenever you're surfing the web. Web servers, the computers that "serve up" web pages, automatically identify your computer by its IP address, and when you request a page from the Site, our servers log your IP address. The Site does not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to us.
 
-**Use of Cookies:**   Autism Speaks may use cookies and other tracking technologies (including browser cookies, pixels, beacons, and Adobe Flash technology including cookies), which are comprised of small bits of data that often include an anonymous unique identifier.  A cookie is a small data file that most major web sites write to your hard drive for record keeping purposes when you visit them. Cookies allow us to measure activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences. Cookies are used by Autism Speaks to measure activity on the Site and make improvements and updates based on which areas are popular and which are not. We will make available cookies, containing non-personally identifiable information such as IP address and pages viewed, regarding your activity on the Site to certain third party providers with whom we work, in order to show advertisements relating to this Site that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please let us know by contacting us as described in the **Contact Us** section below. 
-
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the Site will not function properly if you do so.
+**Use of Cookies:**   Autism Speaks may use cookies and other tracking technologies (including browser cookies, pixels and beacons), which are comprised of small bits of data that often include an anonymous unique identifier.  A cookie is a small data file that most major web sites write to your device for record keeping purposes when you visit them. Cookies allow us to measure activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences. Cookies are used by Autism Speaks to measure activity on the Site and make improvements and updates based on which areas are popular and which are not. We will make available cookies, containing non-personally identifiable information such as IP address and pages viewed, regarding your activity on the Site to certain third party providers with whom we work, in order to show advertisements relating to this Site that may be of interest to you. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the Site will not function properly if you do so.
 
 _Children and Privacy_
 
@@ -66,7 +60,7 @@ To improve the quality of our services, we may combine the Personal and Other In
 
 **To provide and manage our relationship and/or services**. We use the Personal  Information we collect from and about you to provide our products and services and features to you and to improve upon our services, including, without limitation: to process and fulfill your donation,  to send you information about your relationship or transactions with us, to measure and improve those services and features, to personalize your experience;  to allow you to comment on content, participate in online games, contests, promotions or rewards programs, to provide you with customer support, and to respond to inquiries.
 
-**To contact you**. Autism Speaks may periodically send promotional materials or notifications related to our products and services and/or the products and services of third parties to the email or postal address you provided. To help make these promotional materials more relevant to you, we may use and combine any of the Personal and Other Information we collect to assist us in sending you promotional materials. If you want to stop receiving promotional materials from us, please let us know by contacting us as described in the **Contact Us** section below or follow the unsubscribe instructions at the bottom of each email. There are certain service transactional notifications that you may not opt-out, such as billing and receipt notices, and notifications of date, locations, times and/or other changes to any Autism Speaks sponsored event to which you are registered. We may also use your email address to respond to inquiries or requests you make to us.
+**To contact you**. Autism Speaks may periodically send promotional materials or notifications related to our products and services and/or the products and services of third parties to the email or postal address you provided. To help make these promotional materials more relevant to you, we may use and combine any of the Personal and Other Information we collect to assist us in sending you promotional materials. If you want to stop receiving promotional materials from us, please let us know by contacting us as described in the  **Contact Us**  section below or follow the unsubscribe instructions at the bottom of each email. There are certain service transactional notifications that you may not opt-out, such as billing and receipt notices, and notifications of date, locations, times and/or other changes to any Autism Speaks sponsored event to which you are registered. We may also use your email address to respond to inquiries or requests you make to us.
 
 **4\. HOW WE SHARE YOUR INFORMATION**
 
@@ -80,9 +74,7 @@ We also share your Personal and Other Information:
 
 **To allow third-party service providers to assist us in providing and managing Our Services**. We may make your Personal and Other Information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide our products and services by, for example: developing or supporting products and features; sending email messages on our behalf; processing payments; fulfilling orders; delivering subscriptions; auditing; processing data or statistics; and serving, customizing or delivering marketing or ads.
 
-**To permit third parties to send you promotional materials**. We may share, sell or trade your Personal and Other Information with other third party companies, groups, or non-profit organizations to directly market offers to you.
-
-**California Residents:** If you do not want your Personal and Other Information shared with these third parties for marketing purposes, please let us know by contacting as described in the **Contact Us** section below.
+**To permit third parties to send you promotional materials**. We may share or trade your Personal and Other Information with other third party companies, groups, or non-profit organizations to directly market offers to you.
 
 **To protect the rights of Autism Speaks and our users**. There may be instances when Autism Speaks may disclose your Personal and Other Information, including situations where we have a good faith belief that such disclosure is necessary in order to: (i) protect or defend the legal rights or property of Autism Speaks or its affiliates, or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of users of our products and services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process, including laws outside your country of residence; or (v) to respond to requests from public and government authorities including public and government authorities outside your country of residence.
 
@@ -102,15 +94,15 @@ We also share your Personal and Other Information:
 
 **6\. SECURITY**
 
-Autism Speaks uses commercially reasonable administrative, technical, personnel and physical measures to safeguard Personal Information in its possession against loss, theft and unauthorized use, disclosure or modification. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for hackers or other third parties not under the control of Autism Speaks to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal information, Autism Speaks cannot ensure or warrant the security of any information you transmit to us. Any such transmission is done at your own risk.
+Autism Speaks takes reasonable efforts to secure and protect the privacy, accuracy, and reliability of your personal information and protect it from unauthorized access, misuse, alteration, and loss. Autism Speaks implements appropriate security measures consistent with industry standards. These include use of transport layer security (TLS) throughout the site to encrypt the transmission between this site and its users. Located in highly restricted locations, access to Autism Speaks servers is limited to authorized personnel. These servers are protected by antivirus and firewalls, all of which are regularly updated, constantly monitored for unauthorized access, and subjected to routine vulnerability testing.  As no data security protocol is impenetrable, Autism Speaks cannot guarantee the security of our systems or databases, nor can we guarantee personal information we collect about you will not be breached, intercepted, destroyed, accessed, or otherwise disclosed without authorization. Accordingly, any information you transfer to Autism Speaks is provided at your own risk.
 
 **7\. HOW TO ACCESS, CORRECT OR UPDATE YOUR INFORMATION**
 
-You can access or modify your information and modify your preferences by contacting us as indicated in the **Contact Us** section below. 
+You can access or modify your information and modify your preferences by contacting us as indicated in the  **Contact Us**  section below. 
 
 **8\. CONTACT US**
 
-If you have any further questions regarding this privacy policy or the use of your Personal and Other Information under this privacy policy, you can contact us at [datasupport@autismspeaks.org](mailto:datasupport@autismspeaks.org) or at the address below.
+If you have any further questions regarding this privacy policy or the use of your Personal and Other Information under this privacy policy, you can contact us at [datasupport@autismspeaks.org](mailto:datasupport@autismspeaks.org) or at the address below.
 
 Privacy Director  
 Autism Speaks  
@@ -119,8 +111,8 @@ New York, NY 10016
 
 **Opting-out**
 
-You may request to stop receiving electronic or postal notifications from Autism Speaks at any time by contacting us at [datasupport@autismspeaks.org](mailto:datasupport@autismspeaks.org?subject=Opt%20Out). In the subject field, type "Opt Out" and provide us your name and the e-mail, phone or postal address you wish to be removed.
+You may request to stop receiving electronic or postal notifications from Autism Speaks at any time by contacting us at [datasupport@autismspeaks.org](mailto:datasupport@autismspeaks.org). In the subject field, type "Opt Out" and provide us your name and the e-mail, phone or postal address you wish to be removed.
 
-If you would like to request that we withhold your information from any third-party, please e-mail us at [datasupport@autismspeaks.org](mailto:datasupport@autismspeaks.org?subject=Third-Party%20Opt%20Out). In the subject field, type "Third-Party Opt Out" and provide us your name and the e-mail, phone or postal address you wish you have removed.
+If you would like to request that we withhold your information from any third-party, please e-mail us at [datasupport@autismspeaks.org](mailto:datasupport@autismspeaks.org). In the subject field, type "Third-Party Opt Out" and provide us with your request along with your name and the e-mail, phone or postal address you wish you to have removed.
 
-**__This policy was updated: August 2017__**
+**_This policy was updated: July 2018_**
