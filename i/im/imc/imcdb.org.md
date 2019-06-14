@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imcdb.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221132021id_/http%3A//www.imcdb.org/help.php%3Fprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imcdb.org privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614220120id_/http%3A//www.imcdb.org/help.php%3Fprivacypolicy) for the most accurate reproduction.*
 
 # IMCDb.org: Help/FAQ
 
