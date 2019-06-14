@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportschew.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221010711id_/http%3A//sportschew.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportschew.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614210129id_/http%3A//sportschew.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
