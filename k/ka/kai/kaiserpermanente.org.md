@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kaiserpermanente.org privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003170401id_/https%3A//healthy.kaiserpermanente.org/health/poc%3Furi%3Dcenter%3Aprivacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaiserpermanente.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615012613id_/https%3A//healthy.kaiserpermanente.org/health/poc%3Furi%3Dcenter%3Aprivacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Kaiser Permanente
 
-[External Link __](https://privacy.truste.com/privacy-seal/validation?rid=83bcfa89-f6b6-4931-8826-9c6e86322922 "TRUSTe privacy certification program")
+[__](https://privacy.truste.com/privacy-seal/validation?rid=83bcfa89-f6b6-4931-8826-9c6e86322922 "TRUSTe privacy certification program")
 
 ##  Introduction
 
@@ -110,7 +110,7 @@ Since Web beacons are used in conjunction with persistent cookies (described abo
 
 We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies, Web beacons, and other tracking technologies to collect information about your activities on this and other Websites and to then provide you with KP advertising on other websites. We may also place a persistent third-party cookie (provided by Google) on your hard drive if you sign on to kp.org. This cookie will prevent kp.org members from seeing advertising that is targeted towards people who are not members of Kaiser Permanente’s health plan, when searching on Google.
 
-If you wish to not have this information used for the purpose of serving you targeted ads, [you may opt out __External Link __](http://preferences-mgr.truste.com/ "Kaiser Permanente is not responsible for the content or policies of external Internet sites, or mobile apps."). Please note this does not opt you out of being served advertising. You may continue to receive generic non-targeted ads.
+If you wish to not have this information used for the purpose of serving you targeted ads, [you may opt out __ __](http://preferences-mgr.truste.com/ "Kaiser Permanente is not responsible for the content or policies of external Internet sites, or mobile apps."). Please note this does not opt you out of being served advertising. You may continue to receive generic non-targeted ads.
 
 #### 6\. Emails and SMS text messaging
 
@@ -212,6 +212,6 @@ Kaiser Permanente Digital Experience Center
 4460 Hacienda Drive, Building A, Third Floor  
 Pleasanton, CA 94588
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>[__External Link __](https://feedback-form.truste.com/watchdog/request "https://feedback-form.truste.com/watchdog/request").
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>[____](https://feedback-form.truste.com/watchdog/request "https://feedback-form.truste.com/watchdog/request").
 
 Last revised September 13, 2017.
