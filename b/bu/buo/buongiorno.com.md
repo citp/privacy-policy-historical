@@ -1,33 +1,91 @@
-> *The following text is extracted and transformed from the buongiorno.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926163343id_/http%3A//buongiorno.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buongiorno.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614041028id_/https%3A//buongiorno.com/privacy-cookie-policy) for the most accurate reproduction.*
 
-# Privacy & COOKIE Policy | Buongiorno SpA
+# Privacy & COOKIE Policy – Buongiorno
 
-This page will describe the management of our web site, with specific reference to the personal data processing of the users that visit us. The present Privacy Policy is an information notice provided in pursuance of Section 13 of the Legislative Decree no. 196/2003 – “Italian Personal Data Protection Code” – (hereinafter, the “Code”), to any entity having to do with the web site of Buongiorno S.p.A., an Italian incorporated company with registered office in Parma, Italy, Borgo O. Masnovo, no. 2, 43121, in its quality of Data Controller (hereinafter, the “Company” or the “Data Controller”). This information only applies to the Company’s web site and does not concern neither the web sites that may be visited by an user via external link, nor those services provided by the Data Controller – in this regard, please refer to the specific privacy policies of such services, in order to know how the Company processes personal data of users who subscribe to its services. 
+This policy describes the management of our web site as regard to processing activities concerning your personal data when visiting us at the following web page:
 
-#### Categories of personal data processed
+**www.buongiorno.com**
 
-Pursuant to Section 4, Paragraph 1, Letter b) of the Code, personal data shall mean “any information relating to natural persons that are or can be identified, even indirectly, by reference to any other information including a personal identification number”. In this regard, please let us inform that the information systems and software procedures relied upon to operate this web site acquire personal data as part of their standard functioning; the transmission of such data is an inherent feature of Internet communication protocols. Such information is not collected in order to relate it to identified data subjects, however, due to its nature, it might allow the users’ identification after being processed and matched with data held by third parties. This data category includes IP addresses and/or the domain names of the computers used by any user connecting with this web site, the requests done, the time of such requests, etc. These data are only used to extract anonymous statistical information on the website use, as well as to check its functioning; consequently, they are erased immediately after being processed. Moreover, the data might be used to establish liability in case of computer crimes are committed against the Company’s website. 
+(the “ **Website** ”)
 
-#### Personal data voluntarily provided by the users
+The present Privacy Policy is an information notice provided to any entity having to do with the web site http://www.buongiorno.com/ (hereinafter, the “Website”) of DOCOMO Digital Italy S.p.A., (previously Buongiorno S.p.A.), an Italian incorporated company with registered office in Milan, Italy, via Cosimo del Fante, no. 10, 20122, in its quality of Data Controller (hereinafter, the “Company” or the “Data Controller” or “Buongiorno”).
 
-The spontaneous, explicit and voluntary sending e-mail messages to the addresses mentioned on this website entails acquisition of the sender’s address, which is necessary in order to reply to any request, as well as of any additional personal data as is contained in the messages. In case of voluntarily submission of a curriculum vitae through the “Work with us” section, the candidates receive an appropriate information notice and are required to give their consent to the data processing before going ahead with the curriculum vitae submission. 
+This information only applies to the above-mentioned Company’s Website and does not concern neither the web sites that may be visited by a user via external link, nor those services provided by the Company – in this regard, please refer to the specific privacy policies of such services, in order to know how the Company processes personal data of users who subscribe to its services.
 
-#### Cookie
+Certain services or information offered on the portal may be subject to a different privacy policy. In such instances, a separate privacy policy will be posted.
 
-On the Company’s website, only so-called technical cookie are used. This kind of cookie allows a better experience of web navigation and helps users to enjoy the contents of the Company’s website itself. In particular, no cookie are used to transmit personal information, nor the so-called persistent cookie or user tracking systems are implemented. The cookie used on this website make unnecessary to implement other computer techniques that are potentially detrimental to the confidentiality of user navigation and the cookie do not allow acquiring the user’s personal identification data. In order to know which cookie are used on the Company’s website, please visit [this page](https://web.archive.org/cookies-eng), while if you want to refuse the use of any cookie, please correct the settings of your internet browser. In this case, please remind that the web navigation and the enjoyment of the contents of the Company’s website could be compromised. 
+“You” in this Privacy Statement means you as an individual.
 
-#### Processing arrangement
+“We” or “us” in this Privacy Statement means, in relation to your personal data, the Data Controller, namely DOCOMO Digital Ltd.
 
-Personal data is processed with automated means for no longer than is necessary to achieve the purposes for which it has been collected. Specific security measures are implemented to prevent the data from being lost, used unlawfully and/or inappropriately, and accessed without authorization. 
+The Data Protection Officer (“ **DPO** ”) designated by the Data Controller, pursuant to Articles 37, 38 and 39, GDPR, is appointed and you may contact the DPO at the e-mail address dpo.dditaly@docomodigital.com or via post at the address in Milan, Italy, via Cosimo del Fante, no. 10, 20122.
 
-#### Data subjects’ rights
+#### 1\. **WHAT INFORMATION IS COLLECTED?**
 
-The Code entitles the data subject to exercise the rights set forth under Section 7, pursuant to which the data subject shall have the right to: 
+“Personal data” means information about you.
 
-  * obtain confirmation of the existence of personal data concerning them, as well as the communication of such data in intelligible form;
-  * obtain updating, rectification or, where interested therein, integration of the data, as well as the erasure, anonymization or blocking of the data that have been processed unlawfully, including data whose retention is unnecessary for the purposes for which they have been collected or subsequently processed;
-  * to object, in whole or in part, on legitimate grounds, to the processing of personal data concerning him/her.
+When you visit this Website we may collect personal data either:
 
- 
+  * directly where you are asked to provide data. If you use any “connect” feature of the Website you may need to provide your name, contact information plus any other information needed as well as information about the page you are on or the content you are viewing; and/or
+  * indirectly, such as using cookies (as described below) or to track your use of certain pages of the Website (e.g. your internet protocol address) and other technical means to monitor your use of the Website.
 
-All requests should be emailed to: press@buongiorno.com 
+
+
+We do not seek to collect sensitive data through the Website.
+
+#### 2\. **WHY WILL PERSONAL DATA BE USED?**
+
+We may process and use personal data collected via this Website for the following purposes:
+
+  * to administer the Website;
+  * to provide information about products and services to you at your request – for example to tailor the content you see on the Website to your specific needs; and
+  * to properly respond to your feedback and questions; and
+  * for any other purposes required in order to allow us to provide our services.
+
+
+
+#### 3\. **ARE COOKIES USED ON THE PORTAL?**
+
+Cookies are information sent by a web server to a user’s computer, which are stored therein.
+
+In order to know which cookies are used on this Website, please visit this page. If you want to refuse the use of any cookie, please correct the settings of your internet browser (in this regard, you can find details on how to undertake this action on the website of your browser) or change your settings on the following website http://www.youronlinechoices.com/.
+
+In this case, please reminded that the web navigation and the enjoyment of the contents of this Website could be compromised.
+
+#### 4\. **YOUR RIGHTS AS A DATA SUBJECT**
+
+In relation to the processing of your personal data:
+
+  * you have the right to request a copy of the information that we hold about you;
+  * you may request the update, correction and integration of the data, as well as to object, on legitimate grounds to the processing, entirely or partially, of your personal data, even if relevant for the purpose of the collection;
+  * in certain circumstances you can ask for the data we hold about you to be erased from our records;
+  * you have the right to have the data we hold about you transferred to another organization (“data portability”);
+  * in the event that we refuse your request under rights of access, we will provide you with a reason as to why.
+
+
+
+In the event that you wish to make a complaint about how your personal data is being processed by the Data Controller, or how your complaint has been handled, you have the right to lodge a complaint directly with the data protection authority and the DPO.
+
+For any further information about the processing activities carried out by the Data Controller, and/or the exercise of your rights, you may contact the Data Controller at the e-mail address press@buongiorno.com
+
+As an alternative, you may contact the DPO at the e-mail address dpo.dditaly@docomodigital.com
+
+#### 5\. **IS PERSONAL DATA TRANSFERRED TO ANOTHER COUNTRY AND IS PERSONAL DATA DISCLOSED TO OTHER ENTITIES?**
+
+The website is located on a server in the European Economic Area.
+
+Personal data collected from you is stored in data centres as well as cloud networks which are located or hosted in the European Economic Area.
+
+When your personal data is transferred to parties located outside of the European Economic Area we shall take appropriate measures to ensure such third party will provide adequate security of such personal data and respect your rights to privacy.
+
+We take all steps reasonably necessary to ensure that your personal data is treated securely.
+
+#### 7\. **HOW LONG IS PERSONAL DATA RETAINED FOR?**
+
+We will keep your personal data only as long as it is reasonably necessary for the purposes described in this Privacy Statement. If you leave us your personal information will be delated from the website within a few weeks of your departure.
+
+#### 8. **WHO IS THE DATA CONTROLLER AND DATA PROTECTION OFFICER?**
+
+The Data Controller is DOCOMO Digital Italy S.p.A., (previously Buongiorno S.p.A.), an Italian incorporated company with registered office in Milan, Italy, via Cosimo del Fante, no. 10, 20122.
+
+The Data Protection Officer (“ **DPO** ”) designated by the Data Controller, pursuant to Articles 37, 38 and 39, GDPR, is appointed and you may contact the DPO at the e-mail address dpo.dditaly@docomodigital.com or via post at the address in Milan, Italy, via Cosimo del Fante, no. 10, 20122.
