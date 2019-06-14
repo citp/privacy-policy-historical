@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the livestly.com privacy policy that was archived on 2018-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181202114148id_/http%3A//livestly.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livestly.com privacy policy that was archived on 2019-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190614151747id_/http%3A//livestly.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//cdn.taboola.com/libtrc/unip/1160333/tfa.js" id="tb_tfa_script"></script><script async="" src="//cdn.taboola.com/libtrc/livestlynetwork-livestly1/loader.js" id="tb_loader_script"></script><script src="//labs.revcontent.com/build/revrcevents.min.js"></script><script src="//cdn.keywee.co/dist/analytics.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//livestly.com/adops/pb124-1115.js"></script><link rel="dns-prefetch" href="//livestly.com">
+<!DOCTYPE html><html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.10&amp;appId=2076477365912727"></script><script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//cdn.taboola.com/libtrc/unip/1160333/tfa.js" id="tb_tfa_script"></script><script async="" src="//cdn.taboola.com/libtrc/livestlynetwork-livestly1/loader.js" id="tb_loader_script"></script><script src="//labs.revcontent.com/build/revrcevents.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//livestly.com/adops/pb124-42419.js"></script><link rel="dns-prefetch" href="//livestly.com">
 <link rel="dns-prefetch" href="//livestly.com">
 <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -74,7 +74,8 @@
 <meta property="og:url" content="http://livestly.com/privacy-policy/">
 <meta property="og:title" content="  Privacy Policy">
 <meta property="og:image" content="IMG">
-<script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="text/javascript">
+<script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script src="//run.adrizer.com/track.min.js" id="ADRIZER_JS" data-domain="livestly.com"></script>
+<script type="text/javascript">
     /************************** START Global Functions ***************************/
 
     // Get a URL parameter by name
@@ -212,10 +213,10 @@ apstag.fetchBids({
 
   // IF MOBILE 
   if(window.innerWidth <=767){
-  	var PREBID_TIMEOUT = 1500;
+  	var PREBID_TIMEOUT = 1700;
   } 
   else if(window.innerWidth >767){ // ELSE IF DSK OR TBLT  //DSK
-  	var PREBID_TIMEOUT = 2800;
+  	var PREBID_TIMEOUT = 3500;
   }
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
@@ -228,7 +229,7 @@ apstag.fetchBids({
       gads.type = 'text/javascript';
       var useSSL = 'https:' == document.location.protocol;
       gads.src = (useSSL ? 'https:' : 'http:') +
-      '//www.googletagservices.com/tag/js/gpt.js';
+      '//securepubads.g.doubleclick.net/tag/js/gpt.js';
       var node = document.getElementsByTagName('script')[0];
       node.parentNode.insertBefore(gads, node);
     })();
@@ -238,30 +239,12 @@ apstag.fetchBids({
 
   var pbjs = pbjs || {};
   pbjs.que = pbjs.que || [];
-
-   pbjs.bidderSettings = {
-        districtm: {
-            bidCpmAdjustment: function(bidCpm){
-                return bidCpm * 0.9;
-            }
-        },
-        sharethrough: {
-            bidCpmAdjustment: function(bidCpm){
-                return bidCpm * 0.9;
-            }
-      },
-        trion: {
-            bidCpmAdjustment: function(bidCpm){
-                return bidCpm * 0.50;
-            }
-        }
-    };
     
   (function() {
     var pbjsEl = document.createElement("script");
     pbjsEl.type = "text/javascript";
     pbjsEl.async = true;
-    pbjsEl.src = "//livestly.com/adops/pb124-1115.js";
+    pbjsEl.src = "//livestly.com/adops/pb124-42419.js";
     var pbjsTargetEl = document.getElementsByTagName("head")[0];
     pbjsTargetEl.insertBefore(pbjsEl, pbjsTargetEl.firstChild);
   })();
@@ -303,6 +286,16 @@ pbjs.que.push(function() {
                             siteId: '321567',
                             size: [320, 50]}
                 },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609196',
+                            bidfloor: '0.10'}
+                },{
+                  bidder: 'trion',
+                  params: { 
+                          pubId: '30418',
+                          sectionId: '1' }
+                },{
                   bidder: '33across',
                   params: {
                           siteId: 'diYCBWAAGr6ioQaKkGJozW',
@@ -313,36 +306,23 @@ pbjs.que.push(function() {
                             inventoryCode: 'MOB_LIV_StickyFooter',
                             floor: 0.0
                           }
-               },{
-                  bidder: 'trion',
-                  params: { 
-                          pubId: '30418',
-                          sectionId: '1' }
                  },{
                   bidder: 'appnexusAST',
                   params: { placementId: '11462122' }
+                 },{
+                  bidder: 'onemobile',
+                  params: { 
+                        dcn: '2c9d2b4f016565249cd36d29817602e6',
+                        pos: 'mob_liv_sticky_320x50'}
                 },{
                   bidder: 'onedisplay',
                   params: { 
                         placement: '4581923',
                         network: '11027.1' }
                 },{
-                  bidder: 'onemobile',
-                  params: { 
-                        dcn: '2c9d2b4f016565249cd36d29817602e6',
-                        pos: 'mob_liv_sticky_320x50'}
-                },{
                   bidder: 'lockerdome',
                   params: {
                             adUnitId: 11055790845045862}
-               /*},{     
-                  bidder: 'brealtime',
-                  params: { placementId: '11440306' }*/
-                },{
-                  bidder: 'rhythmone',
-                  params: {
-                            placementId: '74240'
-                      }
                 }]
             },{
               code: 'div-gpt-ad-1492610941393-1', //MOB_LIV_MOB1_Multi
@@ -374,9 +354,19 @@ pbjs.que.push(function() {
                             siteId: '321570',
                             size: [300, 250]}
                 },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609197',
+                            bidfloor: '0.10'}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609198',
+                            bidfloor: '0.10'}
+                /*},{
                   bidder: 'sharethrough',
                   params: {
-                    pkey: 'PAwQhHtoBBju87hJVn1n8BQD'}
+                    pkey: 'PAwQhHtoBBju87hJVn1n8BQD'}*/
                 },{
                   bidder: 'districtmDMX',
                   params: { dmxid: 159267,
@@ -392,6 +382,11 @@ pbjs.que.push(function() {
                         placement: '4524531',
                         network: '11027.1'}
                 },{
+                  bidder: '33across',
+                  params: {
+                          siteId: 'bYo13gAAGr6io3aKkv7mNO',
+                          productId: 'siab'}
+                },{
                   bidder: 'onemobile',
                   params: { 
                         dcn: '2c9d2b4f016565249cd36d29817602e6',
@@ -402,11 +397,6 @@ pbjs.que.push(function() {
                         dcn: '2c9d2b4f016565249cd36d29817602e6',
                         pos: 'mob_liv_mob1_320x50'}
                 },{
-                  bidder: '33across',
-                  params: {
-                          siteId: 'bYo13gAAGr6io3aKkv7mNO',
-                          productId: 'siab'}
-                },{
                   bidder: 'triplelift',
                   params: {
                             inventoryCode: 'MOB_LIV_MOB1_Multi',
@@ -416,13 +406,6 @@ pbjs.que.push(function() {
                   bidder: 'lockerdome',
                   params: {
                             adUnitId: 11055787254721638}
-               /*},{
-                  bidder: 'brealtime',
-                  params: { placementId: '11171761'}*/
-                },{
-                  bidder: 'rhythmone',
-                  params: {
-                            placementId: '74240'}
                 }]
           },{
             code: 'div-gpt-ad-1492610941393-2', //MOB_LIV_MOB2_Multi
@@ -451,9 +434,24 @@ pbjs.que.push(function() {
                             siteId: '321573',
                             size: [300, 250]}
                 },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609199',
+                            bidfloor: '0.10'}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609200',
+                            bidfloor: '0.10'}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609201',
+                            bidfloor: '0.10'}
+                /*},{
                   bidder: 'sharethrough',
                   params: {
-                    pkey: '2oJqWaFEQgvPCuETVL7T5hDU'}
+                    pkey: '2oJqWaFEQgvPCuETVL7T5hDU'}*/
                 },{
                   bidder: 'appnexusAST',
                   params: { placementId: '11319048' }
@@ -473,16 +471,6 @@ pbjs.que.push(function() {
                             floor: 0.0
                           }
                 },{
-                  bidder: 'onedisplay',
-                  params: { 
-                        placement: '4524530',
-                        network: '11027.1'}
-                },{
-                  bidder: 'onedisplay',
-                  params: { 
-                        placement: '4524533',
-                        network: '11027.1'}
-                },{
                   bidder: 'onemobile',
                   params: { 
                         dcn: '2c9d2b4f016565249cd36d29817602e6',
@@ -493,16 +481,19 @@ pbjs.que.push(function() {
                         dcn: '2c9d2b4f016565249cd36d29817602e6',
                         pos: 'mob_liv_mob2_320x50'}
                 },{
+                  bidder: 'onedisplay',
+                  params: { 
+                        placement: '4524530',
+                        network: '11027.1'}
+                },{
+                  bidder: 'onedisplay',
+                  params: { 
+                        placement: '4524533',
+                        network: '11027.1'}
+                },{
                   bidder: 'lockerdome',
                   params: {
                             adUnitId: 11055788496235622}
-                /*},{
-                  bidder: 'brealtime',
-                  params: { placementId: '11171762' }*/
-                },{
-                  bidder: 'rhythmone',
-                  params: {
-                            placementId: '74240'}
                 }]              
             },{
               code: 'div-gpt-ad-1492610941393-3', //MOB_LIV_MOB3_Multi
@@ -527,10 +518,10 @@ pbjs.que.push(function() {
                   bidder: 'districtmDMX',
                   params: { dmxid: 159269,
                             memberid: 100854}
-                },{
+                /*},{
                   bidder: 'sharethrough',
                   params: {
-                    pkey: '7eWRukFNLEEKwjJ59tGSZqAp'}
+                    pkey: '7eWRukFNLEEKwjJ59tGSZqAp'}*/
                 },{
                   bidder: 'ix',
                   params: {
@@ -546,6 +537,21 @@ pbjs.que.push(function() {
                   params: {
                             siteId: '321576',
                             size: [300, 250]}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609202',
+                            bidfloor: '0.10'}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609203',
+                            bidfloor: '0.10'}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609204',
+                            bidfloor: '0.10'}
                 },{
                   bidder: 'onedisplay',
                   params: { 
@@ -576,13 +582,6 @@ pbjs.que.push(function() {
                   bidder: 'lockerdome',
                   params: {
                             adUnitId: 11055789704195174}
-                /*},{
-                  bidder: 'brealtime',
-                  params: { placementId: '11171763' }*/
-                },{
-                  bidder: 'rhythmone',
-                  params: {
-                            placementId: '74240'}
                 }]
         }];
 }		
@@ -616,13 +615,18 @@ pbjs.que.push(function() {
                           siteId: 'aWCQsyAAqr6ioQaKkGJozW',
                           productId: 'siab'}
                 },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609205',
+                            bidfloor: '0.10'}
+                },{
                   bidder: 'districtmDMX',
                   params: { dmxid: 163412,
                             memberid: 100854}
                 },{
                   bidder: 'triplelift',
                   params: {
-                            inventoryCode: 'DSK_LIV_AdhesionSticky',
+                            inventoryCode: 'DSK_LIV_AdhesionSticky_HDX',
                             floor: 0.0
                           }
                 },{ 
@@ -636,17 +640,10 @@ pbjs.que.push(function() {
                 },{
                     bidder: 'districtm',
                     params: { placementId:11630062,}
-                /*},{
-                  bidder: 'brealtime',
-                  params: { placementId: '11629597' }*/
                 },{
                   bidder: 'lockerdome',
                   params: {
                             adUnitId: 11055765008133222}
-              },{
-                  bidder: 'rhythmone',
-                  params: {
-                            placementId: '74240'}
                 }]
           },{            
             code: 'div-gpt-ad-1490817882683-2', //DSK_LIV_UnderHeadline_728x90
@@ -666,6 +663,11 @@ pbjs.que.push(function() {
                             unit: '540433260',
                             delDomain: 'livestly-d.openx.net'}
                 },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609206',
+                            bidfloor: '0.10'}
+                },{
                   bidder: 'ix',
                   params: {
                             siteId: '321578',
@@ -682,6 +684,7 @@ pbjs.que.push(function() {
                   params: {
                           siteId: 'ch6cq0AACr6jrIaKkv7mNO',
                           productId: 'siab'}
+   
                 },{
                   bidder: 'triplelift',
                   params: {
@@ -692,13 +695,6 @@ pbjs.que.push(function() {
                   bidder: 'lockerdome',
                   params: {
                             adUnitId: 11055783563734118}
-                },{
-                  bidder: 'rhythmone',
-                  params: {
-                            placementId: '74240'}
-                /*},{
-                  bidder: 'brealtime',
-                  params: { placementId: '11171754' }*/
                 },{
                   bidder: 'sharethrough',
                   params: {
@@ -720,6 +716,16 @@ pbjs.que.push(function() {
                   params: {
                             unit: '540433261',
                             delDomain: 'livestly-d.openx.net'}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609214',
+                            bidfloor: '0.10'}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609215',
+                            bidfloor: '0.10'}
                 },{
                   bidder: 'ix',
                   params: {
@@ -747,13 +753,6 @@ pbjs.que.push(function() {
                   params: {
                             inventoryCode: 'DSK_LIV_LeftRailTopMulti',
                             floor: 0.0}
-                /*},{
-                  bidder: 'brealtime',
-                  params: { placementId: '12534098' }*/
-                },{
-                  bidder: 'rhythmone',
-                  params: {
-                            placementId: '74240'}
                 }]
           },{
             code: 'div-gpt-ad-1490817882683-6', //DSK_LIV_RightRailTop_Multi
@@ -779,6 +778,26 @@ pbjs.que.push(function() {
                         placement: '4524519',
                         network: '11027.1'}
                 },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609209',
+                            bidfloor: '0.10'}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609210',
+                            bidfloor: '0.10'}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609211',
+                            bidfloor: '0.10'}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609212',
+                            bidfloor: '0.10'}
+                },{
                   bidder: 'ix',
                   params: {
                             siteId: '321581',
@@ -797,7 +816,14 @@ pbjs.que.push(function() {
                   bidder: 'ix',
                   params: {
                             siteId: '321584',
-                            size: [160, 600]} 
+                            size: [160, 600]}
+                },{
+                  bidder: 'triplelift',
+                  params: {
+                            inventoryCode: 'DSK_LIV_RightRailTop_Multi',
+                            floor: 0.0
+                          }
+ 
                 },{
                   bidder: 'districtmDMX',
                   params: { dmxid: 159263,
@@ -805,9 +831,10 @@ pbjs.que.push(function() {
                 },{
                   bidder: 'appnexusAST',
                   params: { placementId: '11281223' }
-                /*},{
-                  bidder: 'brealtime',
-                  params: { placementId: '11171758' }*/
+                },{
+                  bidder: 'sharethrough',
+                  params: {
+                    pkey: '9uf8cLPbxymTedXT3ZR8HpBd'}
                 },{
                   bidder: '33across',
                   params: {
@@ -817,19 +844,9 @@ pbjs.que.push(function() {
                     bidder: 'districtm',
                     params: { placementId:11496999,}
                 },{
-                  bidder: 'triplelift',
-                  params: {
-                            inventoryCode: 'DSK_LIV_RightRailTop_Multi',
-                            floor: 0.0
-                          }
-                },{
                   bidder: 'lockerdome',
                   params: {
                             adUnitId: 11055782288665702}
-               },{
-                  bidder: 'rhythmone',
-                  params: {
-                            placementId: '74240' }
                 }]
           },{
            code: 'div-gpt-ad-1490817882683-7', //DSK_LIV_RightRailMid_Multi
@@ -855,9 +872,19 @@ pbjs.que.push(function() {
                 },{
                   bidder: 'districtm',
                   params: { placementId:11497000,}
-                /*},{
-                  bidder: 'brealtime',
-                  params: { placementId: '11171759' }*/
+                },{
+                  bidder: 'lockerdome',
+                  params: {
+                            adUnitId: 11055780946488422}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609213',
+                            bidfloor: '0.10'}
+                },{
+                  bidder: 'sharethrough',
+                  params: {
+                    pkey: 'wyzySo7qAF4jMeehEci5Y4Am'}
                 },{
                   bidder: 'districtmDMX',
                   params: { dmxid: 159264,
@@ -873,14 +900,6 @@ pbjs.que.push(function() {
                             inventoryCode: 'DSK_LIV_RightRailMid_Multi',
                             floor: 0.0
                           }
-                },{
-                  bidder: 'lockerdome',
-                  params: {
-                            adUnitId: 11055780946488422}
-                },{
-                  bidder: 'rhythmone',
-                  params: {
-                            placementId: '74240'} 
                 }]
          },{
             code: 'div-gpt-ad-1522684402663-0', //DSK_LIV_UnderSlideL_300x250
@@ -921,18 +940,16 @@ pbjs.que.push(function() {
                   bidder: 'districtmDMX',
                   params: { dmxid: 202808,
                             memberid: 100854} 
-                /*},{
-                  bidder: 'brealtime',
-                  params: { placementId: '13007753' }*/
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609207',
+                            bidfloor: '0.10'}
                 },{
                   bidder: '33across',
                   params: {
                           siteId: 'dDtouoAACr6iojaKlId8sQ',
                           productId: 'siab'}
-                },{
-                  bidder: 'rhythmone',
-                  params: {
-                            placementId: '74240'}
                 },{
                   bidder: 'sharethrough',
                   params: {
@@ -955,10 +972,22 @@ pbjs.que.push(function() {
                   bidder: 'appnexusAST',
                   params: { placementId: '13071209' }
                 },{
+                  bidder: 'triplelift',
+                  params: {
+                            inventoryCode: 'DSK_LIV_UnderSlideR_300x250',
+                            floor: 0.0
+                          }
+  
+                },{
                   bidder: 'ix',
                   params: {
                             siteId: '321587',
-                            size: [300, 250]} 
+                            size: [300, 250]}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609208',
+                            bidfloor: '0.10'} 
                 },{
                     bidder: 'districtm',
                     params: { placementId:13017657,}
@@ -971,24 +1000,11 @@ pbjs.que.push(function() {
                   params: {
                           siteId: 'd3QkIIAACr6ioQaKkGJozW',
                           productId: 'siab'}
-                 /*},{
-                  bidder: 'brealtime',
-                  params: { placementId: '13007754' }*/ 
-                },{
-                  bidder: 'rhythmone',
-                  params: {
-                            placementId: '74240'}
                 },{
                   bidder: 'lockerdome',
                   params: {
-                            adUnitId: 11055784805248102}      
-                },{
-                  bidder: 'triplelift',
-                  params: {
-                            inventoryCode: 'DSK_LIV_UnderSlideR_300x250',
-                            floor: 0.0
-                          }
-  
+                            adUnitId: 11055784805248102}
+        
                 },{
                   bidder: 'sharethrough',
                   params: {
@@ -1015,10 +1031,26 @@ pbjs.que.push(function() {
                   bidder: 'districtm',
                   params: { placementId:12365185,}
                 },{
+                  bidder: 'triplelift',
+                  params: {
+                            inventoryCode: 'DSK_LIV_Footer_970x250',
+                            floor: 0.0
+                          }
+ 
+                },{
                   bidder: 'ix',
                   params: {
                             siteId: '321588',
-                            size: [728, 90]} 
+                            size: [728, 90]}
+                },{
+                  bidder: 'sovrn',
+                  params: {
+                            tagid: '609216',
+                            bidfloor: '0.10'}
+                },{
+                  bidder: 'sharethrough',
+                  params: {
+                    pkey: 'bm57pZWF46b6GnqWh9PbvdrA'}  
                 },{
                   bidder: 'districtmDMX',
                   params: { dmxid: 183910,
@@ -1028,24 +1060,11 @@ pbjs.que.push(function() {
                   params: {
                           siteId: 'aKs9XGAAur6jrIaKkv7mNO',
                           productId: 'siab'}
-               /*},{
-                  bidder: 'brealtime',
-                  params: { placementId: '11171757' }*/
                 },{
                   bidder: 'lockerdome',
                   params: {
                             adUnitId: 11055778530569318}
-                },{
-                  bidder: 'triplelift',
-                  params: {
-                            inventoryCode: 'DSK_LIV_Footer_970x250',
-                            floor: 0.0
-                          }
   
-                },{
-                  bidder: 'rhythmone',
-                  params: {
-                            placementId: '74240'}
               }]                    
           }];
 	}	  
@@ -1076,6 +1095,18 @@ pbjs.que.push(function() {
             } else {
               return '20.00';
             }
+          },
+          districtm: {
+            bidCpmAdjustment: function(bidCpm){
+                bidCpm = bidCpm * .85;
+                return bidCpm;
+            }
+          },
+          sharethrough: {
+            bidCpmAdjustment: function(bidCpm){
+                bidCpm = bidCpm * .80;
+                return bidCpm;
+            }
           }
         }]
       }
@@ -1084,7 +1115,8 @@ pbjs.que.push(function() {
  pbjs.setConfig({
     userSync: {
     iframeEnabled: true,
-    syncsPerBidder: 999, 
+    syncsPerBidder: 50,
+    timeoutBuffer: 500, 
     }
   });
 
@@ -1148,7 +1180,7 @@ pbjs.que.push(function() {
     googletag.pubads().setTargeting('utm_medium', getCookie("utm_medium").substring(0,40));
     googletag.pubads().setTargeting('utm_term', getCookie("utm_term").substring(0,40));
     googletag.pubads().setTargeting('utm_content', getCookie("utm_content").substring(0,40));
-     
+    
     googletag.pubads().enableSingleRequest();
     googletag.pubads().collapseEmptyDivs();
     googletag.enableServices();
@@ -1747,7 +1779,6 @@ a:hover,
 <script type="text/javascript" src="http://livestly.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
 <script type="text/javascript" src="http://livestly.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js"></script>
 <script type="text/javascript" src="http://livestly.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js"></script>
-<script type="text/javascript" src="http://livestly.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js"></script>
 <script type="text/javascript" src="http://livestly.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -1832,24 +1863,6 @@ var advanced_ads_pro_visitor_conditions = {"referrer_cookie_name":"advanced_ads_
  <!---stickyfooter css----->
 <link rel="stylesheet" href="//livestly.com/adops/sticky.css" type="text/css">
 
-<!---outstream---->
-
-<!---keywee----->
-<script>
-  (function(w,d) {
-    w.kwa || (w.kwa = function() {
-      (w.kwa.q = w.kwa.q || []).push(arguments);
-    });
-    se = d.createElement('script'),
-    fs = d.scripts[0];
-    se.src = '//cdn.keywee.co/dist/analytics.min.js';
-    fs.parentNode.insertBefore(se,fs)
-   }(window, document));
-</script>
-<script>
-   kwa('initialize',607);
-</script>
-
 <script type="text/javascript"> 
  (function(document, callback) {  
   var firstScript = document.getElementsByTagName('script')[0],
@@ -1862,7 +1875,6 @@ var advanced_ads_pro_visitor_conditions = {"referrer_cookie_name":"advanced_ads_
  });
 </script>
 
-<!---taboola--->
 <script type="text/javascript">
   window._taboola = window._taboola || [];
   _taboola.push({photo:'auto'});
@@ -1954,14 +1966,15 @@ obApi('track', 'Pageview');
 
 <body class="page-template-default page page-id-887 page-builder full skin-tech no-sidebar has-nav-light-b has-nav-full has-head-tech has-mobile-head">
 <script src="//d31hccuk4aj4nr.cloudfront.net/tracker.js"></script>
-<!--<div id="fb-root"></div> 
+<style>.comments .fb-comments span iframe { width:100% !important; } </style>
+<div id="fb-root"></div> 
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=2076477365912727";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>-->
+}(document, 'script', 'facebook-jssdk'));</script>
 
 <!------------END MOB STICKYFOOTER------------>
 
@@ -2107,7 +2120,7 @@ obApi('track', 'Pageview');
 <p>We reserve the right to transfer information (including your Personal Information and Non-Personal Information) to a third party in the event of a reorganization, spin-out, sale, merger, or transfer of some or all of the assets of our company, or in the unlikely event of a bankruptcy, liquidation or receivership of our business. However, we will provide you with advance written notice in the event any such transfer would subject your Personal Information to materially different privacy practices.</p>
 <p><strong>CHOICE; ACCESSING AND UPDATING PERSONAL INFORMATION</strong></p>
 <p>When you use our Website, we make good faith efforts to provide you with access to your Personal Information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backups), or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. For information about your choices regarding targeted advertising from third party advertising networks, please see the section below on “Cookies and Automatic Data Collection; Advertising Networks.”</p>
-<p>Please email us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f787859e8196948eb79b9e819284839b8ed994989a">[email&nbsp;protected]</a> or contact us at the address stated below with any questions if you need assistance accessing or changing your Personal Information or if you would like to have your Personal Information deleted from our servers. Please be aware that if you delete your Personal Information, you may not be able to continue to use the Website. If you ask us to delete your Personal Information, we may in our sole discretion retain certain information, including your Personal Information, to satisfy our legal, audit and/or dispute resolution requirements. We may also retain your Non-Personal Information indefinitely.</p>
+<p>Please email us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c1b1b3a8b7a0a2b881ada8b7a4b2b5adb8efa2aeac">[email&nbsp;protected]</a> or contact us at the address stated below with any questions if you need assistance accessing or changing your Personal Information or if you would like to have your Personal Information deleted from our servers. Please be aware that if you delete your Personal Information, you may not be able to continue to use the Website. If you ask us to delete your Personal Information, we may in our sole discretion retain certain information, including your Personal Information, to satisfy our legal, audit and/or dispute resolution requirements. We may also retain your Non-Personal Information indefinitely.</p>
 <p><strong>COOKIES AND AUTOMATIC DATA COLLECTION; ADVERTISING NETWORKS</strong></p>
 <p>Non-Personal Information (including aggregate, technical or demographic information) can also be collected through the standard operation of our internet servers and logs as well as other automatic data collection tools such as “cookies,” “web beacons” and other similar web technologies. A “cookie” is a small amount of data that is recorded either temporarily or persistently on your hard drive and that a website can use in order to recognize visitors who revisit the website so as to facilitate their ongoing access to and use of the website. Information we may collect through cookies and other similar technologies includes your browser type, language preference, operating system, referring website (if applicable), your IP address, the name and type of your computer or mobile device, the operating system of your device, your general geographic location, the date and time of each user visit or request, and the Website endpoints that you accessed or visited during your use of the Website. In addition to other uses as described in this Privacy Policy, we may gather the information we collect from each user and perform statistical analysis of the aggregated information, including analysis about the behavior of visitors to our Website on an aggregated, anonymous basis.</p>
 <p>Any Non-Personal information we collect from you through the use of our cookies, web beacons and other web technologies may also be used by us and shared with our affiliated companies to target advertising to you on the Website. We may also allow unaffiliated third-party companies such as advertising networks to serve ads and/or collect anonymous, Non-Personal Information when you visit our Website. These unaffiliated third-party companies may collect and use Non-Personal Information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) in order to provide advertisements about goods and services likely to be of greater interest to you. This collection and use of Non-Personal Information would be governed by those unaffiliated third-party companies’ own privacy policies. These companies typically use a cookie or third party web beacons to collect this information. To learn more about this behavioral advertising practice or to opt out of this type of advertising for participating companies, you can visit <a href="http://www.networkadvertising.org"><strong>http://www.networkadvertising.org</strong></a>. Please note that if you delete your cookies or use a different browser, a different computer, or other device, you will need to opt out of this type of advertising again.</p>
@@ -2121,14 +2134,14 @@ obApi('track', 'Pageview');
 <p>A California resident who has provided Personal Information to a business with whom she or he has established a business relationship for personal, family, or household purposes (“California Customer”) is entitled to request information about whether the business has disclosed her or his Personal Information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of Personal Information, upon receipt of a request by a California Customer, the business is required to provide a list of all third parties to whom Personal Information was disclosed in the preceding calendar year, as well as a list of the categories of Personal Information that were disclosed.</p>
 <p>Currently, we do not intend to share your Personal Information with third parties for their own direct marketing purposes.</p>
 <p>Please note that whenever you choose to share your Personal Information with a third party or to allow your Personal Information to be shared with a third party to communicate with you, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use your Personal Information and other information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.</p>
-<p>California Customers may request further information about our compliance with California’s privacy law by emailing <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4131332837202238012d28372432352d386f222e2c">[email&nbsp;protected]</a> or contacting us as stated below. Please note that we are only required to respond to one request per customer per year, and we are not required to respond to requests made by means other than through this email address.</p>
+<p>California Customers may request further information about our compliance with California’s privacy law by emailing <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4c3c3e253a2d2f350c20253a293f382035622f2321">[email&nbsp;protected]</a> or contacting us as stated below. Please note that we are only required to respond to one request per customer per year, and we are not required to respond to requests made by means other than through this email address.</p>
 <p><strong>YOUR CONTENT</strong></p>
 <p>Please note that when you choose to upload or submit Your Content, such as by posting comments, messages, and other content on the Website, Your Content will be viewable by third parties and other Website users and, in the case that Your Content consists of images, photographs, comments, and communications in public online forums, is publicly viewable. Accordingly, you should exercise discretion with regard to what Personal Information you post on the Website through any means, and should not post personal, highly confidential, or sensitive information (such as Your Content that is identifiable or embarrassing to you or others). We are not responsible for how third parties who view Your Content may use any Personal Information contained therein, such as to send you unsolicited messages.</p>
 <p><strong>CHANGES TO THIS PRIVACY POLICY</strong></p>
 <p>We may modify or update this Privacy Policy periodically by posting an updated policy on the Website, which modifications will become effective immediately upon posting. You can always check the “last updated” date at the top of this document to see when the Privacy Policy was last changed. We may also post a notice concerning changes to the Privacy Policy on our website if there are material changes. We encourage you to check this Privacy Policy regularly.</p>
 <p>Your continued use of the Website following the effective date of an updated Privacy Policy constitutes your consent to the contents of such policy. However, we will not apply any material changes retroactively to any information we collected from you before such changes took effect, without your affirmative consent to do so. IF YOU DO NOT AGREE TO FUTURE CHANGES TO THIS PRIVACY POLICY, YOU MUST STOP USING THE WEBSITE AFTER THE EFFECTIVE DATE OF SUCH CHANGES. Please note that upon you ceasing use of the Website, any Privacy Policy in effect immediately prior to your departure shall continue to be binding on you and applicable to the data (including any Personal Information) collected from you prior to such departure.</p>
 <p><strong>CONTACT US</strong></p>
-<p>To ask questions about our Privacy Policy or obtain more information please contact us at: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f1929e9f85909285b19d98879482859d88df929e9c">[email&nbsp;protected]</a>, or by US mail at:</p>
+<p>To ask questions about our Privacy Policy or obtain more information please contact us at: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f99a96978d989a8db995908f9c8a8d9580d79a9694">[email&nbsp;protected]</a>, or by US mail at:</p>
 <p>Livestly.com<br>
 c/o Livestly Media Group, LLC<br>
 ATTN: Privacy Compliance<br>
@@ -2158,7 +2171,7 @@ Dover, DE 19901</p>
 						
 			<div class="widgets">
               <!--- <div class="logo-footer-left-container"><img src="/img/footer-logosm.png" /> </div>--->
-               <div class="menu-footer-left-container"> Copyright © 2018 Livestly Media Group, LLC – All Rights Reserved</div>
+               <div class="menu-footer-left-container"> Copyright © 2019 Livestly Media Group, LLC – All Rights Reserved</div>
 				<div class="menu-footer-right-container"><ul id="menu-footer-right" class="menu"><li id="menu-item-890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-890"><a href="http://livestly.com/terms-of-use/">Terms</a></li>
 <li id="menu-item-891" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-887 current_page_item menu-item-891"><a href="http://livestly.com/privacy-policy/">Privacy</a></li>
 <li id="menu-item-8186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8186"><a href="http://livestly.com/ad-disclosure/">Ad Disclosure</a></li>
@@ -2193,8 +2206,13 @@ var Bunyad = {"ajaxurl":"http:\/\/livestly.com\/wp-admin\/admin-ajax.php"};
 <script type="text/javascript" src="http://livestly.com/wp-content/plugins/custom-sidebars/inc/external/wpmu-lib/js/wpmu-ui.3.min.js"></script>
 <script type="text/javascript" src="http://livestly.com/wp-includes/js/wp-embed.min.js"></script>
 
+<!---outstream---->
+
 <!----RC PIXEL--->
 <!----END RC PIXEL--->
+
+<!-----MX TRACKING--->
+<!-----MX TRACKING--->
 
 <!-- Quantcast Tag -->
 <script type="text/javascript">
@@ -2229,9 +2247,9 @@ qacct:"p-8Tayyn5kyKHLB"
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 137/152 objects using disk
+Object Caching 51/68 objects using disk
 Page Caching using disk: enhanced 
 Database Caching using disk (Request-wide modification query)
 
-Served from: livestly.com @ 2018-12-02 06:30:38 by W3 Total Cache
+Served from: livestly.com @ 2019-06-14 11:04:45 by W3 Total Cache
 --></body></html>
