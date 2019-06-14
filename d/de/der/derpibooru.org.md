@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the derpibooru.org privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903083253id_/https%3A//derpibooru.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derpibooru.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615010423id_/https%3A//derpibooru.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Derpibooru - My Little Pony: Friendship is Magic Imageboard
 
