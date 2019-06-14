@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the danielmiessler.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212459id_/https%3A//danielmiessler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danielmiessler.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614223908id_/https%3A//danielmiessler.com/privacy) for the most accurate reproduction.*
 
-# Privacy
-
-☞ Every Sunday I put out a curated list of the week's most interesting stories in infosec, technology, and humans. You can [subscribe to it here](https://danielmiessler.com/podcast/). 
+# Privacy | Daniel Miessler
 
   * What This Site Collects
   * What We Do With Collected Information
@@ -20,7 +18,7 @@ For the most part this site is read-only, however there are a number of function
 
   * **Cookies Data** : Regular use of the Internet involves the sending and receiving of cookie data, and this is true for this site as well. No special attempt to harvest cookie data is being made on this site, and no attempt is ever made to correlate visitor data with real people or identities. DISQUS does some of this as a normal part of its functionality, which is discussed above and in its privacy policy below, but this is unrelated to this site.
   * **IP Data** : Another natural part of Internet use is the sending of source IP data to the destination server—in this case, danielmiessler.com. Just as with cookie data, no attempt is ever made to link source IP addresses to people. The only way source IP data is used on this site is indirectly by analytics frameworks that are part of the web stack. Each of these will be mentioned below, with links to their privacy policies.
-  * **Ads** : I use a sponsorship rather than an ad model, so there is no ad JavaScript running anywhere. It’s just the link at the top of each post.
+  * **Ads** : I use a sponsorship rather than an ad model, so there is no ad JavaScript running anywhere. It’s just the link in the sidebar of each post.
 
 
 
@@ -45,11 +43,13 @@ In this section I will provide the privacy information for four (4) key third pa
   * **AWS** :  
 [Amazon (AWS)](https://aws.amazon.com/privacy/) is the server provider for this site. [ [AWS Privacy Policy](https://aws.amazon.com/privacy/) ]
   * **Google Analytics** :  
-[Google Analytics](http://www.google.com/analytics/?gclid=CKW2j6nr-b4CFc1lfgodvz0A2A) provides web traffic analytics for this site. [ [Google Analytics Privacy Policy](https://support.google.com/analytics/answer/6004245?hl=en) ]
-  * **Chartbeat** :  
-[Chartbeat](http://www.chartbeat.com/) provides web traffic analytics for this site. [ [Chartbeat Privacy Policy](https://chartbeat.com/privacy/) ]
+[Google Analytics](https://marketingplatform.google.com/about/analytics/?gclid=CKW2j6nr-b4CFc1lfgodvz0A2A) provides web traffic analytics for this site. [ [Google Analytics Privacy Policy](https://support.google.com/analytics/answer/6004245?hl=en) ]
 
 
+
+## GDPR
+
+We do not collect or handle data beyond what is described above, so we do not believe that we have any specific GDPR challenges. If you are from the EU, however, and have any questions about anything above, please feel free to reach out to us. We will do what we need to in order to be compliant with the law.
 
 ## Contact
 
@@ -60,8 +60,6 @@ We take these issues extremely seriously, and if you have any concerns about how
   * [help@danielmiessler.com](mailto:help@danielmiessler.com)
 
 
-
-CREATED: OCTOBER 2014 | UPDATED: APRIL 2017
 
 ### Notes
 
