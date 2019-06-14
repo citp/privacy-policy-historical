@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smackjeeves.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227182945id_/http%3A//www.smackjeeves.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smackjeeves.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614074137id_/http%3A//www.smackjeeves.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Smack Jeeves
 
