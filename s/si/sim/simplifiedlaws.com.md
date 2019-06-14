@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplifiedlaws.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214150406id_/http%3A//www.simplifiedlaws.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplifiedlaws.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614181224id_/http%3A//simplifiedlaws.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guide to Taxation and Legal Concern |Simplified Laws
 
