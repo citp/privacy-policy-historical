@@ -1,26 +1,20 @@
-<!--The following is the downloaded HTML source of the reportingonline.gov.in privacy policy that was archived on 2018-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181219213318id_/http%3A//reportingonline.gov.in/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reportingonline.gov.in privacy policy that was archived on 2019-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190614190358id_/http%3A//reportingonline.gov.in/privacy.htm) for the most accurate reproduction.-->
 
-<html lang="en" class="js"><head>
+<html lang="en"><head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<script type="text/javascript" src="/resources/js_files/doctextsizer.js"></script>
-<link href="/resources/css/bootstrap.css" rel="stylesheet" type="text/css">
-<link href="/resources/css/font-awesome.css" rel="stylesheet" type="text/css">
-<link href="/resources/css/style.css" rel="stylesheet">
-<script type="text/javascript" src="/resources/js/jquery-1.11.2.min.js"></script>
 </head>
 <body>
  <!-- login folder header.jsp -->
 
 
-<!-- <link id="pagestyle" rel="stylesheet" type="text/css" href="resources/css/default.css" /> -->
 <link href="resources/themes/panchayat_new_theme.css" rel="stylesheet" type="text/css">
-<link href="/resources/css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="/resources/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="/resources/css/font-awesome.css" rel="stylesheet" type="text/css">
 <link href="/resources/css/style.css" rel="stylesheet">
-<script type="text/javascript" src="/resources/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="/resources/js/jquery-3.3.1.min.js"></script> 
 <script type="text/javascript" src="/resources/js/enscroll-0.6.1.min.js"></script>
-
+<script src="/resources/js/bootstrap.js"></script> 
 <script type="text/javascript">
 
 
@@ -73,7 +67,7 @@ $(document).ready(function(){
 
 <script> $(".display.tableBorder").wrap("<div class='table-responsive')></div>"); </script>
 
-<div id="selectedTheme" style="display: none;">default</div>
+<div id="selectedTheme" style="display: none;"></div>
 		<script>
 			var cookeeVal = readCookie("org.springframework.web.servlet.theme.CookieThemeResolver.THEME");
 			if(cookeeVal!=null && cookeeVal !=""){
@@ -87,7 +81,7 @@ $(document).ready(function(){
                 <a class="logo rlb" href="index.jsp" onclick="showHideDiv('hedHomeId','homeDivId')"><img src="/resources/images/logo.png" alt="logo"></a>
                 <a class="logo ulb" onclick="showHideDiv('hedHomeId','homeDivId')" style="display: none;"><img src="/resources/images/logo-ulb.png" alt="logo"></a>
             </div>
-            <div class="pescntr"><img src="/resources/images/rtop.gif" alt=""></div>
+            <div class="pescntr"><img src="resources/images/rtop.gif" alt=""></div>
             <button class="cmn-toggle-switch"><span></span></button>
             <div class="toggle-block" style="display: none;">
                 <span class="ffcdashboardbtn">
@@ -95,10 +89,7 @@ $(document).ready(function(){
                 </span>
                 <nav class="main-nav clearfix">
                     <ul id="myid">
-                       <!-- <li id='hedHomeId' class="active"><a href="" onclick="showHideDiv('hedHomeId','homeDivId')">Home</a></li>
-                         <li id='hedAbtId'><a href=""  onclick="showHideDiv('hedAbtId','aboutDivId')">About</a></li> 
-                         <li id='hedFaqId'><a href="" onclick="showHideDiv('hedFaqId','faqDivId')">FAQ</a></li>
-                         <li id='hedContactId'><a href="" onclick="showHideDiv('hedContactId','contactDivId')">Contact Us</a></li> -->
+                       
                         <li id="dashBoardId"><a href="dashboard.htm" target="_blank">DASHBOARD</a>                          
                         </li><li id="hedHomeId"><a href="login.htm">Home</a>
                         </li><li id="hedAbtId"><a href="about.htm">About</a></li>
@@ -111,7 +102,7 @@ $(document).ready(function(){
                         <div class="top-info">
                            <form id="themeForm">		              	
 		                <select name="theme" id="switchcontrol" size="1" class="themefield" onchange="submitThemeForm();">
-		                    <option value="default">Default Theme</option>
+		                    <option value="default" selected="selected">Default Theme</option>
 							<option value="mustard">Mustard Theme</option>
 							<option value="peach">Peach Theme</option>
 							<option value="green">Green Theme</option>
@@ -136,15 +127,10 @@ $(document).ready(function(){
                            </form>                
                         </div>                        
 
-                        <!-- <div class="top-info">
-                            <a href="#" id="font_dec" class="decrease">A-</a>
-                            <a href="#" id="font_nor" class="resetMe">A</a>
-                            <a href="#" id="font_inc" class="increase">A+</a>
-                        </div> --> 
                         <div class="top-info">
                             <i class="fa fa-user" aria-hidden="true"></i>
                             <!-- <a href="#">Help</a> -->
-                            <a href="login.html" id="loginLink" class="txtlink">Login</a>
+                             <a href="login.html" id="loginLink" class="txtlink">Login</a>
                             </div>  
                                           
                     </div>
@@ -243,7 +229,7 @@ $(document).ready(function(){
   <div class="row">
   <div class="col-md-12">
   <div class="othrportal">
-   <div class="col-md-4" id="panchayatirajIMG" style="">
+   <div class="col-md-4" id="panchayatirajIMG" style="display: none;">
     <a class="panchayatiraj" href="http://www.panchayat.gov.in/" target="blank">
      <img src="/resources/images/panchayati-raj.png" alt="Ministry of Panchayati Raj" title="Ministry of Panchayati Raj" data-pin-nopin="true">
     </a>
@@ -269,11 +255,6 @@ $(document).ready(function(){
   Site is designed, hosted and maintained by National Informatics Centre. Contents on this website is owned, <br> updated and managed by Department of urban development.
   </div>
  </div>
-</footer><script src="/resources/js/bootstrap.js"></script>
-<script src="/resources/js/flex.min.js"></script>
-<script src="/resources/js/flex-slider1.js"></script>
-<script src="/resources/js/flex-slider2.js"></script>
-<script src="/resources/js/custom.js"></script> 
- 
+</footer>
 
 </body></html>
