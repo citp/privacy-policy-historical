@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickindia.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212021019id_/https%3A//www.clickindia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickindia.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614221349id_/https%3A//www.clickindia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Click India,Yellow pages ads,buy,business e-classifieds directory
 
