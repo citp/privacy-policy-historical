@@ -1,38 +1,35 @@
-> *The following text is extracted and transformed from the riffynetwork.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404023720id_/http%3A//www.riffynetwork.com/%3Fpage_id%3D409) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riffynetwork.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614161731id_/http%3A//www.riffynetwork.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy - Riffynetwork.com | Riffynetwork.com
+# Privacy Notice : Air Jordan 1, Mens Air Jordans Cheap
 
-At Riffynetwork, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor’s will. We do not and will not share any personal information with any third parties unless by governmental order. We have NO access to any information collected by our Payment Services Providers and you may direct further inquiries here:
+We takes seriously of customers' privacy security! Thus here we promise to provide a safe online experience for all our users. This policy applies to information collected online through our website. Please read the flowing privacy policy below and contact us if you have any questions.
 
-PayPal:[ http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside)
+Account Creation and Registration
 
-**Cookies**
+When you make a purchase at our website, you will have the option to create an account. By creating an account, the system will remember your personal and purchase information. This results in a more express checkout process for future purchases that will be fast, easy and always completely secure. You are not required to create an account in order to checkout.
 
-All browsers offer “cookies” and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information.
+Creating an account will enable you to access specific information such as your order history and enable you to update past purchase addresses and information. At all times, your personal information is accessible for you to review, edit, or update as necessary by clicking on the "My Account" link. This information is the property of our website and we do not sell or share any information with third parties unless otherwise specifically indicated. 
 
-At Riffynetwork, we may use cookies to use analitics and to store your password so you don’t have to re-enter it each time you visit our sites.
+Collected Customer's Information
 
-Riffynetwork will NOT:  
-\- Use cookies to identify, monitor or track any personally identifiable information.  
-\- Have cookies that contain any personally identifiable information about you.  
-\- Merge or associate our cookie information with any other visitor’s confidential and identifiable data obtained by us or from 3rd parties. You also have flexible choices in respect to cookies. By simply modifying your browser preferences, you have the right to choose whether to accept all cookies, to be notified when a cookie is set or to reject all cookies. For more information on how to modify your browser settings in order to block or filter cookies, please visit [http://www.cookiecentral.com/faq/.](http://www.cookiecentral.com/faq/)
+We collect information to process your order. We collect personally identifiable information such as names, email addresses. We also may collect your IP address, domain name, access times and referring website address. This information is collected both during registration on a page or in response to specific requests, for example when signing up for a newsletter. Information collected in our website will be available within hosts of We to process your order. P.S. If you would wish to delete your privacy information at online, please contact us after the order completes. We will deal with it within 24 hours.
 
-However, please note that if you reject some or all cookies, your experience at our sites and on other sites throughout the web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you disable cookies, you will not be eligible to take advantage of personalized content delivery offered by us or other Internet sites.
+Security
 
-**Third Party Cookies At Our Sites**
+Our website is committed to protecting the privacy of your personal information. State-of-the-art technology protects your data from unauthorized third parties. Our website uses Secure Socket Layer (SSL) software to protect your data and secure your transactions. SSL encrypts all your personal information, including your credit card number, name and address during transactions. This provides a safe, secure shopping environment. Only parties responsible for processing your order have access to your credit card and bank information. In addition, our website ensures added security by providing increased encryption on all our servers to prevent data mining and server attacks.
 
-While we use cookies in other parts of our website, cookies received with the payment process are placed by our payment service provider. We do not have access to these cookies or any information that they may contain. Please contact the payment service provider for more information as noted above.
+Using Cookies
 
-**Registration Forms**
+Our website uses cookies to deliver specific content to our customers which we believe they will enjoy. Cookies are web enabled pieces of software stored on a customer's computer used to identify certain users and offer customized content. All cookies on our site are in no way linked to any personally identifiable information.
 
-Our site’s registration form requires users to provide contact information, such as their name, email, and postal address. This contact information is only used to get in touch with the customer when necessary and is never sold or shared.
+Aggregate Information
 
-**External Links**
+Aggregate information is occasionally shared with the partners of our website to plan advertising or promotions. We only share with our partners non-personal, aggregate statistical information regarding customers, sales, traffic patterns, and site usage. Our website does not share any personally identifiable information.
 
-This site contains links to other sites. Riffynetwork is not responsible for the privacy practices or the content of the websites you visit once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately if there is a problem with any of our links.
+Updates to This Policy
 
-[info@rsgdigitaal.nl](mailto:info@rsgdigitaal.nl)
+By using this web site, you consent to the collection and use of certain information by our website. All changes to our privacy policy will be posted on this page or our home page so the customer is always aware of the information we collect and how we use it. The information in this policy can change at anytime and we encourage all customers to review this policy as often as necessary.
 
-**Contacting the Website**
+Consent
 
-If you have any questions about this privacy statement, the practices of this site, or concerns about this website, please contact: [info@rsgdigitaal.nl](mailto:info@rsgdigitaal.nl)
+By using our website, you're agreeing to let us collect and use your information as we describe in this Privacy & Security Policy. If we change our policies, we will post any changes on the website, so that you are always informed about what information we collect, how we use it and under what circumstances we disclose it.
