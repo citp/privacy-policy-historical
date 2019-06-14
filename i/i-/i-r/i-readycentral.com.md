@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the i-readycentral.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214213257id_/http%3A//i-readycentral.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-readycentral.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615014814id_/http%3A//i-readycentral.com/articles/privacy-policy) for the most accurate reproduction.*
 
-# i-Ready Central Resources
+# i-Ready Central | i-Ready Central® Privacy Policy
 
-### **Last Modified:   April 25, 2017**
+### **Last Modified:   May 23, 2019**
 
 Curriculum Associates, LLC (“ **Curriculum Associates** ” or “ **We** ”) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website <http://i-readycentral.com/> (“i-Ready Central”) and our practices for collecting, using, maintaining, protecting, and disclosing that information. This policy applies to information we collect on i-Ready Central.  Information collected through the i-Ready platform and on our corporate website ([www.cainc.com](http://www.curriculumassociates.com/default.aspx)) is governed by their respective privacy policies.
 
