@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rshughes.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809033951id_/http%3A//www.rshughes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rshughes.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614065529id_/https%3A//www.rshughes.com/privacy.html) for the most accurate reproduction.*
 
 # R.S.Hughes Privacy Policy
 
@@ -12,7 +12,7 @@ R.S. Hughes collects personal information, such as e-mail addresses, names or ma
 
 ## Purchases from the R.S. Hughes Online Store
 
-When you purchase goods online from R.S. Hughes at http://www.rshughes.com, we must collect a shipping and billing name, address, and credit card information to process your order. That information is accepted using industry-standard Secure Socket Layer encryption to ensure credit card and order information security. Purchasers of products from the R.S. Hughes Online Store have the choice whether to receive or refuse e-mail or regular mail information from R.S. Hughes on product care, product updates and other promotional information.
+When you purchase goods online from R.S. Hughes at https://www.rshughes.com, we must collect a shipping and billing name, address, and credit card information to process your order. That information is accepted using industry-standard Secure Socket Layer encryption to ensure credit card and order information security. Purchasers of products from the R.S. Hughes Online Store have the choice whether to receive or refuse e-mail or regular mail information from R.S. Hughes on product care, product updates and other promotional information.
 
 ## Legal Notice
 
