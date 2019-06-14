@@ -1,75 +1,127 @@
-> *The following text is extracted and transformed from the thenectarcollective.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207054512id_/http%3A//www.melyssagriffin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenectarcollective.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614134657id_/http%3A//www.melyssagriffin.com/privacy-policy) for the most accurate reproduction.*
 
 # The Nectar Collective LLC Privacy Policy - Melyssa Griffin
 
-_Please read this Privacy Policy carefully before using this Website._
+The Nectar Collective, LLC (“ **Company** ,” “ **we** ,” or “ **us** ”) respects your privacy and is committed to protecting it through this Privacy Policy.
 
-## _  
-_ Privacy Policy Consent
+This Privacy Policy governs your access to and use of [www.melyssagriffin.com](http://www.melyssagriffin.com/) including any content, functionality and services offered on or through [www.melyssagriffin.com](http://www.melyssagriffin.com/)  (the “ **Website** “), whether as a guest or a registered user.
 
-The Website and its Content is owned by The Nectar Collective, LLC (“Company”, “we”, or “us”). The term “you” refers to the user or viewer of MelyssaGriffin.com (“Website”).  
-Please read this Privacy Policy carefully. We reserve the right to change this Privacy Policy on the Website at any time without notice. Use of any information or contribution that you provide to us, or which is collected by us on or through our Website or its Content is governed by this Privacy Policy. By using our Website or its Content, you consent to this Privacy Policy, whether or not you have read it. If you do not agree with this Privacy Policy, please do not use our Website or its Content.
+When accessing the Website, the Company will learn certain information about you, both automatically and through voluntary actions you may take, during your visit. This policy applies to information we collect on the Website and in email, text, or other electronic messages between you and the Website.
 
-## Submission, Storage and Sharing of Personal Data
+Please read the Privacy Policy carefully before you start to use the Website. **By using the Website or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound and abide by the Privacy Policy.** If you do not want to agree to the Privacy Policy, you must not access or use the Website.
 
-To use our Website or its Content, we may seek personal data including your name, e-mail address, street address, city, state, billing information, or other personally identifying information (“Confidential Information”), or you may offer or provide a comment, photo, image, video or any other submission to us when visiting or interacting with our Website and its Content (“Other Information”). By providing such Confidential Information or Other Information to us, you grant us permission to use and store such information.
+## **Children Under The Age Of 13**
 
-Your Confidential Information is stored through by us internally or through a data management system. Your Confidential Information will only be accessed by those who help to obtain, manage or store that Information, or who have a legitimate need to know such Confidential Information.
+Our Website is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use.
 
-There may be an occasion where we may ask for demographic information such as gender or age, but if you choose not to provide such data and information, you may still use the Website and its Content, but you may not be able to use those services where demographic information may be required.
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [hi@melyssagriffin.com](mailto:hi@melyssagriffin.com).
 
-## Confidentiality
+## **Information We Collect About You**
 
-We aim to keep the Confidential Information that you share with us confidential. Please note that we may disclose such Confidential Information if required to do so by law or in the good-faith belief that: (1) such action is necessary to protect and defend our rights or property or those of our users or licensees, (2) to act as immediately necessary in order to protect the personal safety or rights of our users or the public, or (3) to investigate or respond to any real or perceived violation of this Privacy Policy or of our Disclaimer, Terms and Conditions, or any other terms of use or agreement with us.
+When you access the Website, the Company will learn certain information about you during your visit.
 
-## Viewing by Others
+_Information You Provide To Us_. The Website provides various places for users to provide information. We collect information that users provide by filling out forms on the Website, communicating with us via contact forms, responding to surveys, search queries on our search feature, providing comments or other feedback, and providing information when ordering a product or service via the Website.
 
-Note that whenever you voluntarily make your Confidential Information or Other Information available for viewing by others online through this Website or its Content, it may be seen, collected and used by others, and therefore, we cannot be responsible for any unauthorized or improper use of the Confidential Information or Other Information that you voluntarily share.
+We use information you provide to us to deliver the requested product and/or service, to improve our overall performance, and to provide you with offers, promotions, and information.
 
-## Passwords
+_Information We Collect Through Automatic Data Collection Technology_. As you navigate through our Website, we may use automatic data collection technologies including Google Analytics to collect certain information about your equipment, browsing actions, and patterns. This will generally include information about your location, your traffic pattern through our website, and any communications between your computer and our Website.  Among other things, we will collect data about the type of computer you use, your Internet connection, your IP address, your operating system, and your browser type.
 
-To use certain features of the Website or its Content, you may need a username and password. You are responsible for maintaining the confidentiality of the username and password, and you are responsible for all activities, whether by you or by others, that occur under your username or password and within your account. You agree to notify us immediately of any unauthorized or improper use of your username or password or any other breach of security. To help protect against unauthorized or improper use, make sure that you log out at the end of each session requiring your username and password.
+The information we collect automatically is used for statistical data and will not include personal information. We use this data to improve our Website and our service offerings. To the extent that you voluntarily provide personal information to us, our systems will associate the automatically collected information with your personal information.
 
-It is your responsibility to protect your own username and password from disclosure to others. We cannot and will not be liable for any loss or damage arising from your failure to protect your username, password or account information. If you share your username or password with others, they may be able to obtain access to your personal information at your own risk.
+## **Use of Cookies And Pixels**
 
-By using our Website and its Content you agree to enter true and accurate information on the Website and its Content. If you enter a bogus email address we have the right to immediately inactivate your account.
+Similar to other commercial websites, our website utilizes a standard technology called “cookies” and server logs to collect information about how our site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our site, and the websites visited just before and just after our own, as well as your IP address.
 
-We will use our best efforts to keep your username and password(s) private and will not otherwise share your password(s) without your consent, except as necessary when the law requires it or in the good faith belief that such action is necessary, particularly when disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to others or interfering with our rights or property.
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-## Unsubscribe
+The Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites. 
 
-You may unsubscribe to our e-newsletters or updates at any time through the unsubscribe link at the footer of all e-mail communications.
+## **Third Party Use Of Cookies**
 
-We manage e-mail lists through a list management system. Unsubscribing from one list managed by us will not necessarily remove you from all publication email lists. If you have questions or are experiencing problems unsubscribing, please contact us at hi@thenectarcollective.com.
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-## Anti-Spam Policy
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-We have a no spam policy and provide you with the ability to opt-out of our communications by selecting the unsubscribe link at the footer of all e-mails. We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information. We will not sell, rent or share your email address.
+## **Email Information**
 
-## Children’s Online Privacy Protection Act Compliance
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail, and telephone. This also applies when you register for our website, sign up through any of our forms using your email address or make a purchase on this site. For further information see the email policies below.
 
-We do not collect any information from anyone under 13 years of age in compliance with COPPA (Children’s Online Privacy Protection Act), and our Website and its Content is directed to individuals who are at least 13 years old or older.
+## **Email Policies**
 
-## Anonymous Data Collection and Use
+We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and will not disclose your email address to any third parties except as allowed in the section titled Disclosure of Your Information.
 
-To maintain our Website’s high quality, we may use your IP address to help diagnose problems with our server and to administer the Website by identifying which areas of the Website are most heavily used, and to display content according to your preferences. Your IP address is the number assigned to computers connected to the Internet. This is essentially “traffic data” which cannot personally identify you, but is helpful to us for marketing purposes and for improving our services. Traffic data collection does not follow a user’s activities on any other Websites in any way. Anonymous traffic data may also be shared with business partners and advertisers on an aggregate basis.
+We will maintain the information you send via e-mail in accordance with applicable federal law.
 
-## Use of “Cookies”
+In compliance with the CAN-SPAM Act, all e-mails sent from our organization will clearly state who the e-mail is from and provide clear information on how to contact the sender. In addition, all e-mail messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further e-mail communication from us.
 
-We may use the standard “cookies” feature of major web browsers. We do not set any personally identifiable information in cookies, nor do we employ any data-capture mechanisms on our Website other than cookies. You may choose to disable cookies through your own web browser’s settings. However, disabling this function may diminish your experience on the Website and some features may not work as intended. We have no access to or control over any information collected by other individuals, companies or entities whose website or materials may be linked to our Website or its Content.
+Our emails provide users the opportunity to opt-out of receiving communications from us and our partners by reading the unsubscribe instructions located at the bottom of any e-mail they receive from us at anytime.
 
-## Privacy Policies of Other Websites
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking on the unsubscribe link in the e-mail.
 
-We have no responsibility or liability for the content and activities of any other individual, company or entity whose website or materials may be linked to our Website or its Content, and thus we cannot be held liable for the privacy of the information on their website or that you voluntarily share with their website. Please review their privacy policies for guidelines as to how they respectively store, use and protect the privacy of your Confidential Information and Other Information.
+## **How And Why We Collect Information**
 
-## Assignment of Rights
+The Company collects your information in order to record and support your participation in the activities you select. If you register to download a book or resources, sign up for our newsletter, and/or purchase a product from us, we collect your information. We use this information to track your preferences and to keep you informed about the products and services you have selected to receive and any related products and/or services. As a visitor to this Website, you can engage in most activities without providing any personal information. It is only when you seek to download resources and/or register for services that you are required to provide information.
 
-In the event of an assignment, sale, joint venture, or other transfer of some or all of our assets, you agree we can assign, sell, license or transfer any information that you have provided to us. Please note, however, that any purchasing party is prohibited from using the Confidential Information or Other Information submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy without your prior consent.
+If you are outside the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will automatically enroll you to receive our free email newsletter. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to [hi@melyssagriffin.com](mailto:hi@melyssagriffin.com) requesting to unsubscribe from future emails.
 
-## Notification of Changes
+If you are in the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will only enroll you to receive our free email newsletter if you affirmatively consent to it. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to [hi@melyssagriffin.com](mailto:hi@melyssagriffin.com) requesting to unsubscribe from future emails.
+
+## **How Do We Use the Information That You Provide to Us?**
+
+We use personal information for purposes of presenting our Website and its contents to you, providing you with information, providing you with offers for products and services, providing you with information about your subscriptions and products, carrying out any contract between you and the Company, administering our business activities, providing customer service, and making available other items and services to our customers and prospective customers.
+
+From time-to-time, we may use the information you provide to us to make you offers to purchase products and services provided by third parties in exchange for a commission to be paid to us by such third parties. Should you opt to take part in such promotions, the third parties will receive your information.
+
+From time-to-time, we may use the information you provide to us to display advertisements to you that are tailored to your personal characteristics, interests, and activities.
+
+## **Disclosure Of Your Information**
+
+As a general rule, we do not sell, rent, lease or otherwise transfer any information collected whether automatically or through your voluntary action.
+
+We may disclose your personal information to our subsidiaries, affiliates, and service providers for the purpose of providing our services to you.
+
+We may disclose your personal information to a third party, including a lawyer or collection agency, when necessary to enforce our terms of service or any other agreement between you and the Company.
+
+We may provide your information to any successor in interest in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company’s asserts and/or business.
+
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights or when compelled by a court or other governmental entity to do so.
+
+## **How Do We Protect Your Information and Secure Information Transmissions?**
+
+We employ commercially reasonable methods to ensure the security of the information you provide to us and the information we collect automatically. This includes using standard security protocols and working only with reputable third-party vendors.
+
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our website may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information and other sensitive information is never transmitted via email.
+
+The Company may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+
+For site security purposes and to ensure that this service remains available to all users, the Company uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+## **Policy Changes**
 
 We may use your contact information to inform you of changes to the Website or its Content, or, if requested, to send you additional information about us. We reserve the right, at our sole discretion, to change, modify or otherwise alter our Website, its Content and this Privacy Policy at any time. Such changes and/or modifications shall become effective immediately upon posting our updated Privacy Policy. Please review this Privacy Policy periodically. Continued use of any of information obtained through or on the Website or its Content following the posting of changes and/or modifications constitutes acceptance of the revised Privacy Policy.
 
-If you have any questions about this Privacy Policy, please contact us at hi@thenectarcollective.com.
+## **Visitors’ GDPR Rights**
 
-Last Updated: 03/2016
+If you are within the European Union, you are entitled to certain information and have certain rights under the General Data Protection Regulation. Those rights include:
+
+We will retain the any information you choose to provide to us until the earlier of: (a) you asking us to delete the information, (b) our decision to cease using our existing data providers, or (c) the Company decides that the value in retaining the data is outweighed by the costs of retaining it.
+
+You have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data.
+
+You have the right to seek restrictions on the processing of your data.
+
+You have the right to object to the processing of your data and the right to the portability of your data.
+
+To the extent that you provided consent to the Company’s processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
+
+You have the right to lodge a complaint with a supervisory authority that has jurisdiction over issues related to the General Data Protection Regulation.
+
+We require only the information that is reasonably required to enter into a contract with you. We will not require you to provide consent for any unnecessary processing as a condition of entering into a contract with us.
+
+## **Contact Us**
+
+The Company welcomes your questions or comments regarding the Privacy Policy:
+
+Email Address: [hi@melyssagriffin.com](mailto:hi@melyssagriffin.com)
+
+_Effective as of May 2018_
