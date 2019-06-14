@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusbug.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214121915id_/http%3A//www.punkrockdemo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusbug.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614180548id_/http%3A//punkrockdemo.com/privacy.php) for the most accurate reproduction.*
 
 # Punk Rock Demonstration Privacy
 
