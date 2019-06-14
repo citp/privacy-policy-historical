@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openshot.org privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216083207id_/http%3A//www.openshot.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openshot.org privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614235709id_/https%3A//www.openshot.org/privacy) for the most accurate reproduction.*
 
 # OpenShot Video Editor | Privacy Policy
 
