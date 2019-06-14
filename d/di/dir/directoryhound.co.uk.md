@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryhound.co.uk privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216060213id_/http%3A//www.phonecustomerservices.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryhound.co.uk privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614115023id_/http%3A//www.phonecustomerservices.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Phone Customer Services
 
