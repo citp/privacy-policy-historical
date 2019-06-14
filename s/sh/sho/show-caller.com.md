@@ -1,0 +1,95 @@
+> *The following text is extracted and transformed from the show-caller.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614185055id_/https%3A//www.show-caller.com/privacy.html) for the most accurate reproduction.*
+
+# PRIVACY POLICY
+
+### ShowCaller Privacy Policy
+
+Revised May 22, 2018 
+
+If you are resident in the EU, EEA and Switzerland please click [here](https://web.archive.org/privacy-eu.html)
+
+PLEASE NOTE, THESE TERMS WILL REPLACE THE CURRENT SHOWCALLER PRIVACY POLICY, DETAILED FURTHER BELOW, WITH EFFECT FROM May 25, 2018. 
+
+If you reside outside the European Union, European Economic Area and Switzerland ("Europe"), You are entering into [the Terms of Service](https://web.archive.org/terms.html) with Showcaller Software Studio and the terms of this Privacy Policy apply to You. If you reside in Europe the applicable terms are available [here](https://web.archive.org/terms-eu.html). 
+
+Showcaller Software("Showcaller" or "we") offers users ("Users" or "You") global phone community services transacted through licensed applications, including the "Showcaller" for mobile devices or via API. 
+
+These Privacy Policy of Service ("Policy") to help you understand our policy and procedure for collection, use and disclosure of personal data accessed by us from users of Website and services or software provided by Showcaller. 
+
+Please see the "Company" Terms of Service, so you may find more information about how to manage the data you choose to submit to the "Showcaller Service". 
+
+The "Policy" is applicable to the data submitted by users to us via the "Showcaller Service" and the open information displayed by us on the user interface when the user accesses to the "Showcaller Service". 
+
+The "Policy" is only applicable to the data submitted by users to us via the "Showcaller Service". 
+
+The "Policy" may be amended from time to time. In the case of any material change in the Policy, we will post the new Policy on the "Website" or notify you of the same via the "Showcaller Applications". We suggest that you should view the "Policy" periodically with a view to confirming whether any change in the Policy takes place. 
+
+### Definitions
+
+Unless otherwise provided in the "Policy", the terms used in the "Policy" shall have the meaning as defined in the "Company" Terms of Service. 
+
+### Personal Integrity
+
+Being a collaborative community our top-priority will always be the relationship with our community. We are therefore firmly committed to the security and protection of integrity of our Users of the Services and their contacts. 
+
+For the purpose of the Showcaller Services, any data shared with Showcaller will only be used to link a name to a telephone number already available to the User, unless Showcaller Name Search has been activated, in which case Showcaller may forward the User's contact request to a named person, and that person may then choose to share his or her number or not, entirely at his or her option. See further details in the Showcaller Privacy Policy. 
+
+Other name searches will only produce a number linked to the name if the number is available for search in a public database or relates to a User who has made his or her name available for search. 
+
+The Showcaller Privacy Policy further describes what information You may share with Showcaller and other Users and how Showcaller may use and share such information. 
+
+### Data Collected and Usage
+
+Provide smart caller ID, dialer and messaging functionality that, among other features, allow for population of unidentified numbers and other data in call or message logs, display the name associated with a certain number for incoming or outgoing calls and messages or following a manual number search against the Showcaller database. 
+
+You agree that Showcaller, in accordance with the Showcaller Privacy Policy, may collect and use technical data such as Your IP address, device ID, usage data and related information, including but not limited to technical information about Your mobile device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to You related to the Showcaller Apps. 
+
+You further agree and guarantee that, if You have opted in to participate in the Enhanced Search functionality, we may collect, use and share certain information regarding the contacts contained in Your device's phone book ("Contact Information") with other Users in accordance with the Showcaller Privacy Policy in order to provide the Services. By allowing Contact Information to be collected, You give Showcaller a right to use that Contact Information as a part of the Service and you guarantee that you have any and all permissions required to share such Contact Information with us. You may opt-out to prevent the sharing of Contact Information at any time. 
+
+"User Data" means the information stored in your phone which is transmitted via your operating system and browser per access authority, and information you choose to be uploaded to the "Showcaller Service" upon your consent to the User Experience Optimization of "Showcaller Service" intended to improve and develop related services , including but not limited to your own phone number and search logs, the ID and location of the device you use in the "Showcaller Service", and the search log of the keywords you might use in the "Showcaller Service" and your purchase history in the Service. Meanwhile, in order to identify the Showcaller visitors visiting or accessing your device, you will have to submit your contact person list, favorites list and blacklist, in order to help the "Showcaller Service" provide feedback to you immediately for search and identification of the caller ID. "Caller ID" means the contents submitted via your choice (including but not limited to the information you submit to us voluntarily) and any other information you provide to Showcaller for the ID of a "Showcaller User". You agree that "the Company" may review and read the "Caller ID SMS Format" in your phone, in order to provide you with the information about the telecommunication operator which provides services to your caller. Said data will be displayed on the "Showcaller" in the form of your phone number, including but not limited to, your name, phone number and any other contact information you provide. 
+
+Subject to the choices You make upon registration and in Your settings at any time, we may use the information collected, as set out above, to provide You with location and interest based advertising, marketing messaging, information and services. We may also use the collected information to measure the performance of our advertising and marketing services. Furthermore, we may contact You for verification purposes or with information pertaining to the Services or special offers, e.g. newsletter e-mails, SMS and similar notifications about Showcaller’s and our business partners’ products and services. We also use the collected information to respond to you when you contact us. 
+
+Other mobile phones. The "Showcaller Service" is only applicable to the mobile phone owned and used by you per se. The "Company" will send a message to your mobile phone to notify you of the password to ensure that you own the phone number accessible to the "Showcaller Service". 
+
+### Data Sharing and Disclosure
+
+You agree that any messages or comments and related websites you share in the business blog or application of the "Company" may be disclosed to the public. Any data you choose to provide in your messages or comments will reflect the level of information which you hope the other users know about you. Showcaller suggests that you should use an anonymous name and protect sensitive data. Meanwhile, the "Company" also encourages the "Showcaller Users" to carefully think about their personal data to be disclosed in their messages or comments. 
+
+Data compilation and non-identifiable data. The "Company" will combine your "User Data" and "Caller ID" with the other Showcaller Users' data into the anonymous "Compiled Data". All of the "Personal Data" included in the "Compiled Data" will be separated and encrypted, and all related logs will be replaced by random numbers. In the Showcaller database, the Company is dedicated to completing de-identification with a series of long digit codes free from identifiable personal characteristics. All of the data about "Showcaller Visitors" used, searched or accessed by you will be identified and logged in said manner, and be analyzed, classified and identified based on the data about Showcaller users represented by a series of long digit codes. Please note that Showcaller Service will not log, collect or save your call record lest the risk over your use of data should be increased or your use of data should be affected adversely. 
+
+The "Company" will keep the "Compiled Data", "Non-identifiable Data", and the logs between a third party for the purpose of analysis, so that the "Company" may continue to upgrade the Showcaller Service quality. Notwithstanding, the "Company" will not share your "Personal Data" with any third party for any purpose. 
+
+Service provider. The "Company" might retain a third party service provider to help it manage and provide the "Showcaller Service". Notwithstanding, unless the service provider is required to run the "Personal Data" involving the specific service you already agree, the "Company" will not permit the service provider to access or contact your "Personal Data" when the data are not encrypted. For example, if you receive an email from the "Showcaller Service", the email management company commissioned by the "Company" will have the chance to access your email address. The "Company" will demand that the service provider should undertake and warrant in writing that it will not use the personal data accessed or contacted by them without permission or against laws, or for any other purposes. 
+
+In order to improve the "Showcaller Service" quality, you agree that the "Company" may make your "Personal Data" available to the external technical developers who have entered into the non-disclosure agreement with the "Company". Information collected within one country may, for example, be transferred to and processed in another country, which may not provide the same level of protection for personal data as the country in which it was collected. You acknowledge and agree that Showcaller may transfer Your personal information as described above for purposes consistent with this Privacy Policy. We take all reasonable precautions to protect personal information from misuse, loss and unauthorized access. Showcaller has implemented physical, electronic, and procedural safeguards in order to protect the information, including that the information will be stored on secured servers and protected by secured networks to which access is limited to a few authorized employees and personnel. However, no method of transmission over the Internet or method of electronic storage is 100% secure. 
+
+Compliance with law and law enforcement. In order to comply with laws, protect the property and right of the "Company" or a third party, maintain the public or any individual safety, or prevent any activities potentially against laws and ethics, if it is required by laws and it is necessary, the "Company" shall be entitled to make any of your data available to governments, law-enforcing officials, or any third party permitted under laws. 
+
+Transfer of business. In the case of merger, acquisition, reorganization, sale of assets or bankruptcy, the "Company" will not preclude its business from being sold, assigned, or transferred in any other manners, in whole or in part, so that the business information including your "Personal Data" and "User Data" or "Caller ID" might be accessed or received by a third party. 
+
+### Alteration or deletion of your data
+
+The user who wishes to delete or hide his "Caller ID" shall e-mail to andreapps2015@gmail.com and then follow the procedure and file a complaint per instruction. 
+
+### Changes of the Policy
+
+The Policy might be amended from time to time. If it is the case, Showcaller SOFTWARE will post the new policy on Website, or notify you of the same via the "Showcaller CALLER ID Application Program". The changes will take effective immediately on the effective date designated when the new policy is promulgated. Your continuous access to the various services provided by the Company and application programs for relates services shall constitute your agreement to the changes and undertaking to comply with the changes. If you disagree to the changes, you shall stop accessing all services and related application programs provided by the Company. We suggest that you should check up the Policy periodically to ensure whether there are any changes of the same. 
+
+### Safety
+
+The "Company" cares about the protection of your "Personal Data". In order to protect your data from unauthorized access, Showcaller will apply the safety standards, hardware and electronic equipment required under the local laws applicable in the jurisdiction where the "Company" are situated. 
+
+### Link to Other Sites
+
+The "Website" includes the links to other sites. The "Company" access to some website or display of some advertisement does not represent any affiliation with the third party, or acknowledgement, license or representation between us and the third party. The "Company" does not have the control over the third party's website. Therefore, when you visit other sites via the "Website" or "Showcaller Service", the "Company" hopes you to read their privacy policies or statements carefully. 
+
+### Fake sites
+
+The "Company" care about ID theft and "Fake Sites". The "Company" take the protection of your "Personal Data" as the first priority. The "Company" will never ask you for your credit card information, account and ID, password or national ID No. or equivalent identifiable codes via an unsafe or unknown email or phone number, now or in the future. 
+
+Notwithstanding, should you have any questions about our Privacy Policy, please e-mail to: andreapps2015@gmail.com
+
+### Child Policy
+
+Showcaller will not collect the personal information of any children less than 13 years old intentionally. If the parents or guardians of any children find that the children have already provided their personal information to Showcaller without approval from them, they shall contact us via andreapps2015@gmail.com. If Showcaller finds any personal information provided by children less than 13 years old, Showcaller will delete all related documents, but this does not represent that Showcaller is able to or obligated to prevent or delete the personal information provided by children less than 13 years old. 
