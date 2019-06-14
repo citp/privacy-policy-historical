@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228182927id_/https%3A//www.2-spyware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614195202id_/https%3A//www.2-spyware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Information Notice
 
-**Next Review Date:** 21st June 2019
+**Next Review Date:** 21st June 2020
 
 At Elektroniniai sprendimai, we’re committed to protecting and respecting your privacy.
 
@@ -65,16 +65,16 @@ We also show advertisements and third-party content, which might also use ‘coo
 
 Affiliate networks to attribute software downloads:
 
-  * Cleverbridge.com;
-  * Cj.com;
-  * Avangate.com;
-  * Revenuewire.com;
+  * Cleverbridge.com
+  * Cj.com
+  * Avangate.com
+  * Revenuewire.com
 
 
 
 Elektroniniai sprendimai is not responsible for the information which is collected by third-parties. If you want to avoid this, you can reject their cookies or ask to delete your data.
 
-We also use a number of 3rd party services to help us fulfil our contractual obligations – for example, we use Cloudflare which provides web optimization and security services to improve our website.
+We also use a number of 3rd party services to help us fulfill our contractual obligations – for example, we use Cloudflare which provides web optimization and security services to improve our website.
 
 These 3rd party services are listed in full below; we have verified that these 3rd party services are GDPR compliant (or are working towards GDPR compliance), and are certified under the EU-US Privacy Shield Framework (or are working towards certification) where these organisations are based outside of the EU.
 
@@ -118,7 +118,7 @@ Contract
 
 | 
 
-Can be collected once the user wants to contact us without registering with Twitter, Facebook or Google+.
+Can be collected once the user wants to contact us without registering with Twitter, Facebook or Google+
 
 | 
 
@@ -126,7 +126,7 @@ SendGrid
 
 | 
 
-Until request for deletion.  
+Until a request for deletion is received  
   
 Blog  Comments
 
@@ -140,7 +140,7 @@ Contract
 
 | 
 
-To allow website users to comment on and discuss blog posts, or ask questions.
+To allow website users to comment on and discuss blog posts, or ask questions
 
 | 
 
@@ -148,13 +148,13 @@ Held within WordPress database, hosted with Disqus
 
 | 
 
-Until request for deletion.  
+Until a request for deletion is received  
   
 Password Store
 
 | 
 
-Client log-in details for submitting questions and blog comments.
+Client log-in details for submitting questions and blog comments
 
 | 
 
@@ -162,7 +162,7 @@ Legitimate interests
 
 | 
 
-To allow us to log in and administer services on our clients’ behalf.
+To allow us to log in and administer services on our clients’ behalf
 
 | 
 
@@ -170,7 +170,7 @@ To allow us to log in and administer services on our clients’ behalf.
 
 | 
 
-Until request for deletion.  
+Until a request for deletion is received  
   
 Backup
 
@@ -184,7 +184,7 @@ Legitimate interests
 
 | 
 
-Cloud backup to ensure business continuity in the event of hardware failure.
+Cloud backup to ensure business continuity in the event of hardware failure
 
 | 
 
@@ -192,7 +192,7 @@ Cloud backup to ensure business continuity in the event of hardware failure.
 
 | 
 
-Until request for deletion.  
+Until a request for deletion is received  
   
 Analytics
 
@@ -206,7 +206,7 @@ Legitimate interests
 
 | 
 
-To analyse popular content, website performance, etc – so we can further improve.
+To analyse popular content, website performance, etc – so we can further improve
 
 | 
 
@@ -214,7 +214,7 @@ Google Analytics
 
 | 
 
-Stored indefinitely.  
+Stored indefinitely  
   
 Server Logs
 
@@ -228,7 +228,7 @@ Legal obligation
 
 | 
 
-To help prevent DoS (Denial of Service) attacks; for website security and diagnostics.
+To help prevent DoS (Denial of Service) attacks; for website security and diagnostics
 
 | 
 
@@ -236,13 +236,13 @@ To help prevent DoS (Denial of Service) attacks; for website security and diagno
 
 | 
 
-Server logs are first stored unencrypted, and then moved to an encrypted backup which is stored indefinitely.  
+Server logs are first stored unencrypted and then moved to an encrypted backup which is stored indefinitely  
   
 DNS Log Data
 
 | 
 
-IP address, system configuration information, etc
+IP address, system configuration information, etc.
 
 | 
 
@@ -250,7 +250,7 @@ Legitimate interests
 
 | 
 
-Cloudflare provides DNS, web optimization and security services for our website,
+Cloudflare provides DNS, web optimization and security services for our website
 
 | 
 
@@ -258,7 +258,7 @@ Cloudflare
 
 | 
 
-Stored indefinitely.  
+Stored indefinitely  
   
 ## 4\. Controlling your information
 
@@ -274,15 +274,15 @@ The accuracy of your information is important to us. If you change email address
 
 ### 4.2. Deleting your information
 
-You have the right to request erasure of your personal information. Unless there is a compelling reason for the data not to be erased (for example, if we need to use that data to fulfil our contractual or legal obligations), your personal data will be deleted on request.
+You have the right to request the erasure of your personal information. Unless there is a compelling reason for the data not to be erased (for example, if we need to use that data to fulfill our contractual or legal obligations), your personal data will be deleted on request.
 
-Users have the ability to leave comments on our blog. To maintain flow of conversation, blog comments will not normally be deleted (unless there is a compelling reason to do so), but all personally identifying information will be removed.
+Users have the ability to leave comments on our blog. To maintain the flow of conversation, blog comments will not normally be deleted (unless there is a compelling reason to do so), but all personally identifying information will be removed.
 
 ### 4.3. Automated decision making
 
 We do not use any personal information for automated decision making or profiling; your data is not subject to automated decision making or profiling.
 
-## 5\. Use of ‘cookies’
+## 5\. Use of “cookies”
 
 Like many other websites, the 2-spyware.com website uses cookies. Cookies are small pieces of information that are stored on your computer or mobile device when you visit a website.
 
@@ -304,7 +304,7 @@ Elektroniniai sprendimai takes security seriously. In order to protect your info
 
   * Data minimisation;
   * Password best practice;
-  * Security best practice concerning devices (PCs, laptops, mobile devices), online accounts, website hosting, physical access and storage;
+  * Security best practice concerning devices (PCs, laptops, mobile devices), online accounts, website hosting, physical access, and storage;
   * Staff training and accountability on data protection;
 
 
