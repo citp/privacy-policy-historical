@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the sportschew.com privacy policy that was archived on 2018-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221010711id_/http%3A//sportschew.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportschew.com privacy policy that was archived on 2019-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190614210129id_/http%3A//sportschew.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+<!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
@@ -15,8 +15,8 @@
 		page: 1,
 		numpages: 1,
 		bidders: {
-			desktop: ['aol', 'appnexusAst', 'districtmDMX', 'sovrn', 'gumgum', 'emx_digital', 'sonobi'],
-			mobile: ['aol', 'appnexusAst', 'districtmDMX', 'sovrn', 'gumgum', 'emx_digital', 'sonobi']
+			desktop: ['pubmatic', 'ix', 'aol', '33across', 'appnexusAst', 'sovrn', 'gumgum', 'sonobi', 'triplelift'],
+			mobile: ['pubmatic', 'ix', 'undertone', 'aol', '33across', 'appnexusAst', 'sovrn', 'gumgum', 'sonobi', 'triplelift']
 		}
 	})
 </script>
@@ -47,7 +47,6 @@ var pbjs = pbjs || {};
 pbjs.que = pbjs.que || [];
 
 </script>
-
   <script type="text/javascript" src="//sportschew.com/prebid/prebid.js" async=""></script>
   <script>
     var googletag = googletag || {};
@@ -148,6 +147,22 @@ googletag.cmd.push(function() {
     googletag.pubads().setTargeting('src', RGI.utm.source);
 	googletag.pubads().setTargeting('campaign', RGI.utm.campaign);
     googletag.pubads().enableSingleRequest();
+    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+// 		console.log('slot loading: ' + event.slot.getSlotElementId());
+// 		console.log('slot empty: ' + event.isEmpty);
+      	if(event.slot.getSlotElementId() === 'rgi-oop' && event.isEmpty === false && RGI.isMobile === true){
+		  var wrap = document.querySelector('#rgi-oop-wrap');
+		  var oop = document.querySelector('#rgi-oop');
+		  wrap.style.display = "";
+		  wrap.style.margin = "0 auto";
+		  oop.style.position = 'fixed';
+		  oop.style.zIndex = '2147483647';
+		  oop.style.bottom = '0';
+		  oop.style.left = '50%';
+		  oop.style.transform = "translateX(-50%)";
+		  oop.style.width = '320px';
+	  	}
+    });
     googletag.pubads().collapseEmptyDivs();
     googletag.enableServices();
 });
@@ -159,7 +174,7 @@ googletag.cmd.push(function() {
 
 <title>Privacy Policy</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v9.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v11.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://sportschew.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -167,6 +182,7 @@ googletag.cmd.push(function() {
 <meta property="og:description" content="This Privacy Policy discloses the privacy practices for the SportsChew.com Site and various related services (together referred to as the “Site”). SportsChew.com (“SportsChew.com,” “Us,” “Our” or “We”) is committed to protecting Your privacy online. All visitors to, or users of, SportsChew.com are referred to, individually, as “You” or “Your.” Please read the information below to…">
 <meta property="og:url" content="http://sportschew.com/privacy-policy/">
 <meta property="og:site_name" content="Sports Chew">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://sportschew.com/#organization","name":"","url":"http://sportschew.com/","sameAs":[]},{"@type":"WebSite","@id":"http://sportschew.com/#website","url":"http://sportschew.com/","name":"Sports Chew","publisher":{"@id":"http://sportschew.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://sportschew.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://sportschew.com/privacy-policy/#webpage","url":"http://sportschew.com/privacy-policy/","inLanguage":"en-US","name":"Privacy Policy","isPartOf":{"@id":"http://sportschew.com/#website"},"datePublished":"2014-07-22T15:32:09+00:00","dateModified":"2018-05-24T22:51:03+00:00"}]}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -174,19 +190,32 @@ googletag.cmd.push(function() {
 <link rel="alternate" type="application/rss+xml" title="Sports Chew » Feed" href="http://sportschew.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Sports Chew » Comments Feed" href="http://sportschew.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Sports Chew » Privacy Policy Comments Feed" href="http://sportschew.com/privacy-policy/feed/">
-<link rel="stylesheet" id="parent-style-css" href="http://sportschew.com/wp-content/themes/sportschew17/style.css?ver=5.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="semplicemente-style-css" href="http://sportschew.com/wp-content/themes/sportschew17-child/style.css?ver=5.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="rgi-custom-style-css" href="http://sportschew.com/wp-content/themes/sportschew17-child/rgi-custom-style.css?ver=5.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="wp-block-library-css" href="http://sportschew.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://sportschew.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://sportschew.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.6" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_fontawsome_css-css" href="http://sportschew.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/fontawesome/css/font-awesome.min.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_animate_css-css" href="http://sportschew.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/animate.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_slick_css-css" href="http://sportschew.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/slick/slick.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_loadawsome_css-css" href="http://sportschew.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/loaders.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_priority_css-css" href="http://sportschew.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/priority-navigation/priority-nav-core.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_hover_css-css" href="http://sportschew.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/hover-css/hover.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_pagination_css-css" href="http://sportschew.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/pagination/pagination.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="beeteam_front_malihu_css-css" href="http://sportschew.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/malihuscroll/jquery.mCustomScrollbar.min.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="http://sportschew.com/wp-content/themes/sportschew17/style.css?ver=5.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="semplicemente-style-css" href="http://sportschew.com/wp-content/themes/sportschew17-child/style.css?ver=5.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="rgi-custom-style-css" href="http://sportschew.com/wp-content/themes/sportschew17-child/rgi-custom-style.css?ver=5.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="http://sportschew.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://sportschew.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://sportschew.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=6.0.3" type="text/css" media="all">
 <link rel="stylesheet" id="semplicemente-googlefonts-css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700" type="text/css" media="all">
-<script type="text/javascript" src="http://sportschew.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='http://sportschew.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.3' type='text/css' media='screen' />
+<![endif]-->
+<link rel="stylesheet" id="ul_bete_front_css-css" href="http://sportschew.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/core.css?ver=2.2.0" type="text/css" media="all">
+<script type="text/javascript" src="http://sportschew.com/wp-content/plugins/ultimate-layouts-vc/assets/front-end/lazysizes.js?ver=2.2.0"></script>
+<script type="text/javascript" src="http://sportschew.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
 <script type="text/javascript" src="http://sportschew.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <link rel="https://api.w.org/" href="http://sportschew.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sportschew.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sportschew.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 5.0.2">
+<meta name="generator" content="WordPress 5.2.1">
 <link rel="shortlink" href="http://sportschew.com/?p=37">
 <link rel="alternate" type="application/json+oembed" href="http://sportschew.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsportschew.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://sportschew.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsportschew.com%2Fprivacy-policy%2F&amp;format=xml">
@@ -197,11 +226,11 @@ googletag.cmd.push(function() {
 		
 </style>
     <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://sportschew.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
 	<script>RGI.setTrackingPixels();</script>
 	
 	
-</head><body class="page-template-default page page-id-37 group-blog wpb-js-composer js-comp-ver-5.6 vc_responsive"><div id="fb-root"></div>
+</head><body class="page-template-default page page-id-37 group-blog wpb-js-composer js-comp-ver-6.0.3 vc_responsive"><div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -245,13 +274,13 @@ googletag.cmd.push(function() {
             </div>
 			<div class="rgi-header-nav-wrap">
 			<ul class="rgi-header-nav">
-	<li class="cat-item cat-item-5"><a href="http://sportschew.com/category/baseball/">Baseball</a>
+	<li class="cat-item cat-item-5"><a href="http://sportschew.com/baseball/">Baseball</a>
 </li>
-	<li class="cat-item cat-item-3"><a href="http://sportschew.com/category/basketball/">Basketball</a>
+	<li class="cat-item cat-item-3"><a href="http://sportschew.com/basketball/">Basketball</a>
 </li>
-	<li class="cat-item cat-item-4"><a href="http://sportschew.com/category/football/">Football</a>
+	<li class="cat-item cat-item-4"><a href="http://sportschew.com/football/">Football</a>
 </li>
-	<li class="cat-item cat-item-6"><a href="http://sportschew.com/category/other-sports/">Other Sports</a>
+	<li class="cat-item cat-item-6"><a href="http://sportschew.com/other-sports/">Other Sports</a>
 </li>
 		</ul>
     	</div>
@@ -334,6 +363,11 @@ http://optout.aboutads.info/#!/</p>
   ga('send', 'pageview');
 </script>
 
+							
+
+				
+		
+			
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
@@ -343,28 +377,30 @@ http://optout.aboutads.info/#!/</p>
 var wpcf7 = {"apiSettings":{"root":"http:\/\/sportschew.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://sportschew.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1"></script>
-<script type="text/javascript" src="http://sportschew.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0"></script>
-<script type="text/javascript" src="http://sportschew.com/wp-includes/js/masonry.min.js?ver=3.3.2"></script>
-<script type="text/javascript" src="http://sportschew.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b"></script>
-<script type="text/javascript" src="http://sportschew.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://sportschew.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://sportschew.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://sportschew.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3"></script>
 <script type="text/javascript" src="http://sportschew.com/wp-content/themes/sportschew17/js/jquery.semplicemente.js?ver=1.0"></script>
 <script type="text/javascript" src="http://sportschew.com/wp-content/themes/sportschew17/js/navigation.js?ver=20120206"></script>
-<script type="text/javascript" src="http://sportschew.com/wp-includes/js/comment-reply.min.js?ver=5.0.2"></script>
+<script type="text/javascript" src="http://sportschew.com/wp-includes/js/comment-reply.min.js?ver=5.2.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var q2w3_sidebar_options = [{"sidebar":"sidebar-2","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-4","custom_html-17"]},{"sidebar":"sidebar-3","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-9","custom_html-6"]},{"sidebar":"sidebar-4","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-11"]},{"sidebar":"sidebar-1","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-13"]}];
+var q2w3_sidebar_options = [{"sidebar":"sidebar-2","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-4","custom_html-17"]},{"sidebar":"sidebar-3","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-9","custom_html-6"]},{"sidebar":"sidebar-4","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-11"]},{"sidebar":"sidebar-1","margin_top":10,"margin_bottom":0,"stop_id":"","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-18","custom_html-19"]}];
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://sportschew.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.4"></script>
-<script type="text/javascript" src="http://sportschew.com/wp-includes/js/wp-embed.min.js?ver=5.0.2"></script>
+<script type="text/javascript" src="http://sportschew.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.9"></script>
+<script type="text/javascript" src="http://sportschew.com/wp-includes/js/wp-embed.min.js?ver=5.2.1"></script>
 
 
 
 
-<!-- Dynamic page generated in 0.028 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2018-12-20 19:45:59 -->
+<div class="sub-footer">
+    <div class="footer-trademark">© 2019 Sportschew.com All Rights Reserved</div>
+    <ul class="footer-menu">
+        <li id="privacy-policy"><a href="/privacy-policy/">Privacy Policy</a></li>
+        <li id="infringement-policy"><a href="/infringement-policy/">Infringement Policy</a></li>
+        <li id="submit-content"><a href="/submit-content/">Submit Content</a></li>
+    </ul>
+</div>
+<!-- Dynamic page generated in 0.060 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-06-13 19:00:50 -->
 
 <!-- Compression = gzip --></body></html>
