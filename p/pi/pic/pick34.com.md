@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pick34.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213060151id_/http%3A//pick34.com/info.php%3FR%3DP34%26L%3D%26H%3D1%26P%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pick34.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615013937id_/http%3A//www.pick34.com/info.php%3FR%3DP34%26L%3D%26H%3D1%26P%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Statement - - - Pick34.com - Pick34.com - Success with Better Numbers
 
