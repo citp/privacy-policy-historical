@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlastravelsonline.com privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417064550id_/http%3A//www.atlastravelsonline.com/nav/privacy%3Bjsessionid%3D29E0F1A1E8A29052F0766385BE9CD78F.app1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlastravelsonline.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614145444id_/https%3A//www.atlastravelsonline.com/nav/privacy) for the most accurate reproduction.*
 
 # Atlas Travels Online Privacy Policy
 
