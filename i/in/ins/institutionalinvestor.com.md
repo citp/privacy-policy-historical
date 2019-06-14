@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the institutionalinvestor.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231110459id_/https%3A//www.institutionalinvestor.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the institutionalinvestor.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614090311id_/https%3A//www.institutionalinvestor.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Institutional Investor
 
@@ -127,7 +127,7 @@ We may occasionally need to keep personal data for either shorter or longer peri
 
 ### How You Can Set Your Data & Privacy Preferences
 
-You can use our Preference Centre to select the topics that are of interest to you so that we can send you publications and information about our products and services that are especially relevant to you. You can also choose the channels we use to contact you (email, phone, post, etc.) and can also opt-out of receiving marketing communications. 
+You can use [our Preference Centre](http://t.mail2.euromoneyplc.net/webApp/UpdatePreferences) to select the topics that are of interest to you so that we can send you publications and information about our products and services that are especially relevant to you. You can also choose the channels we use to contact you (email, phone, post, etc.) and can also opt-out of receiving marketing communications. 
 
 * * *
 
