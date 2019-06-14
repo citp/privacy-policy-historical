@@ -1,174 +1,190 @@
-> *The following text is extracted and transformed from the literarydevices.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125124012id_/http%3A//literarydevices.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literarydevices.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614142854id_/http%3A//www.literarydevices.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Literary Devices
 
-### DARK BLUE SEA - PRIVACY POLICY
+**PRIVACY POLICY**
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+**Last updated March 24, 2019  **
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+Thank you for choosing to be part of our community at HZF WEB LLC (“ **Company** ”, “ **we** ”, “ **us** ”, or “ **our** ”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at admin@literarydevices.com.
 
-The Dark Blue Sea group comprises a number of companies that includes:
+When you visit our website http://literarydevices.com, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites and our services.
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
+This privacy policy applies to all information collected through our website (such as http://literarydevices.com), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the “ **Sites** “). 
 
+**Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.  **
 
+**TABLE OF CONTENTS  **
 
-#### ABOUT THIS PRIVACY POLICY
+1\. WHAT INFORMATION DO WE COLLECT?
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+2\. HOW DO WE USE YOUR INFORMATION?
 
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
+3\. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
+4\. WHO WILL YOUR INFORMATION BE SHARED WITH?
 
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
+5\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
+6\. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
 
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
+7\. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+8\. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+9\. WHAT ARE YOUR PRIVACY RIGHTS?
 
-In order to do this, we share your personal information with our related companies.
+10\. CONTROLS FOR DO-NOT-TRACK FEATURES
 
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
+11\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
-#### HOW WE COLLECT INFORMATION
+12\. DO WE MAKE UPDATES TO THIS POLICY?
 
-**Personal Information provided to us**
+13\. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+**1\. WHAT INFORMATION DO WE COLLECT?  **
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+**Information automatically collected**
 
-**Website activity, cookies and related technology**
+**_In Short:_  ** _Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Sites._
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+We automatically collect certain information when you visit, use or navigate the Sites. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Sites and other technical information. This information is primarily needed to maintain the security and operation of our Sites, and for our internal analytics and reporting purposes.
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+Like many businesses, we also collect information through cookies and similar technologies. 
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+**Information collected from other sources**
 
-**IP Addresses**
+**_In Short:  _ ** _We may collect limited data from public databases, marketing partners, and other outside sources.  _
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
+We may obtain information about you from other sources, such as public databases, joint marketing partners, as well as from other third parties. Examples of the information we receive from other sources include: social media profile information; marketing leads and search results and links, including paid listings (such as sponsored links).  
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+**2\. HOW DO WE USE YOUR INFORMATION?  **
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+**_In Short:  _ ** _We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent._
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+We use personal information collected via our Sites for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below. 
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+We use the information we collect or receive: 
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
+  * **To facilitate account creation and logon process.**  If you choose to link your account with us to a third party account *(such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process.     
+  * **To send you marketing and promotional communications.**  We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the “ WHAT ARE YOUR PRIVACY RIGHTS ” below).  
+  * **To send administrative information to you.  **We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.  
+  * **Fulfill and manage your orders.**  We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the Sites.  
+  * **To post testimonials.**  We post testimonials on our Sites that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and testimonial. If you wish to update, or delete your testimonial, please contact us at policy@literarydevices.com and be sure to include your name, testimonial location, and contact information.
+  * **Deliver targeted advertising to you.  **We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.   
+  * **Administer prize draws and competitions.  **We may use your information to administer prize draws and competitions when you elect to participate in competitions.
+  * **Request Feedback.**  We may use your information to request feedback and to contact you about your use of our Sites.  
+  * **To protect our Sites.**  We may use your information as part of our efforts to keep our Sites safe and secure (for example, for fraud monitoring and prevention).  
+  * **To enable user-to-user communications.**  We may use your information in order to enable user-to-user communications with each user’s consent.  
+  * **To enforce our terms, conditions and policies.**
+  * **To respond to legal requests and prevent harm.  **If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.
+  * **For other Business Purposes.**  We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Sites, products, services, marketing and your experience.  
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+**3\. WILL YOUR INFORMATION BE SHARED WITH ANYONE?  **
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+**_In Short:  _ ** _We only share information with your consent, to comply with laws, to protect your rights, or to fulfill business obligations.  _
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+We may process or share data based on the following legal basis:
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
+  * **Consent:** We may process your data if you have given us specific consent to use your personal information in a specific purpose. 
+  * **Legitimate Interests:** We may process your data when it is reasonably necessary to achieve our legitimate business interests. 
+  * **Performance of a Contract:  **Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract. 
+  * **Legal Obligations:** We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements). 
+  * **Vital Interests:** We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
 
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
 
-#### EPP SHARING ARRANGEMENTS
 
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+More specifically, we may need to process your data or share your personal information in the following situations:  
 
-#### PROTECTING KIDS PRIVACY
+  * **Vendors, Consultants and Other Third-Party Service Providers.**  We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Sites, which will enable them to collect data about how you interact with the Sites over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes. 
+  * **Business Transfers.**  We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. 
+  * **Third-Party Advertisers.**  We may use third-party advertising companies to serve ads when you visit the Sites. These companies may use information about your visits to our Website(s) and other websites that are contained in web cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you.  
+  * **Business Partners.**  We may share your information with our business partners to offer you certain products, services or promotions. 
 
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
 
-**Notice to Kids**
 
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
+**4\. WHO WILL YOUR INFORMATION BE SHARED WITH?  **
 
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
+ ** _In Short:  _ ** _We only share information with the following third parties._
 
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
+We only share and disclose your information with the following third parties. We have categorized each party so that you may be easily understand the purpose of our data collection and processing practices. If we have processed your data based on your consent and you wish to revoke your consent, please contact us.
 
-**Notice to Parents**
+  * **Advertising, Direct Marketing, and Lead Generation**  
+Google AdSense and Taboola
 
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
 
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
+  * **Affiliate Marketing Programs**  
+Amazon Affiliation
 
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
 
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
 
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
+  * **Web and Mobile Analytics**  
+Google Analytics and Quantcast Measure
 
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
 
-#### LINKS TO OTHER WEBSITES
 
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
+**5\. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?  ** 
 
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
+ ** _In Short:  _ ** _We may use cookies and other tracking technologies to collect and store your information._
 
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.
 
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
+**6\. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?  **
 
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
+**_In Short:  _ ** _We are not responsible for the safety of any information that you share with third-party providers who advertise, but are not affiliated with, our websites.  _
 
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
+The Sites may contain advertisements from third parties that are not affiliated with us and which may link to other websites, online services or mobile applications. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy policy. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services or applications that may be linked to or from the Sites. You should review the policies of such third parties and contact them directly to respond to your questions.
 
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
+**7\. HOW LONG DO WE KEEP YOUR INFORMATION?  **
 
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
+**_In Short:  _ ** _We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law._
 
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than 1 year.
 
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-#### PRIVACY COMPLAINTS
+**8\. HOW DO WE KEEP YOUR INFORMATION SAFE?   **
 
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
+**_In Short:  _ ** _We aim to protect your personal information through a system of organizational and technical security measures._
 
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
+We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, please also remember that we cannot guarantee that the internet itself is 100% secure. Although we will do our best to protect your personal information, transmission of personal information to and from our Sites is at your own risk. You should only access the services within a secure environment. 
 
+**9\. WHAT ARE YOUR PRIVACY RIGHTS?  **
 
+**_In Short:  _ ** _You may review, change, or terminate your account at any time._
 
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
+If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [//ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm](https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm)  
 
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
+**_Cookies and similar technologies:_  **Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Sites. To opt-out of interest-based advertising by advertisers on our Sites  visit  [//www.aboutads.info/choices/](https://www.aboutads.info/choices/) .     
 
+**10\. CONTROLS FOR DO-NOT-TRACK FEATURES  **
 
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy.
 
-#### YOUR ACCEPTANCE OF THESE TERMS
+**11\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?  **
 
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+**_In Short:  _ ** _Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.  _
+
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+
+If you are under 18 years of age, reside in California, and have a registered account with the Sites, you have the right to request removal of unwanted data that you publicly post on the Sites. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.
+
+**12\. DO WE MAKE UPDATES TO THIS POLICY?  **
+
+**_In Short:  _ ** _Yes, we will update this policy as necessary to stay compliant with relevant laws._
+
+We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information. 
+
+**13\. HOW CAN YOU CONTACT US ABOUT THIS POLICY?  **
+
+If you have questions or comments about this policy, you may email us at policy@literarydevices.com or by post to:
+
+HZF WEB LLC    
+
+15197 SW 38 St
+
+Davie, FL 33331 
+
+United States
