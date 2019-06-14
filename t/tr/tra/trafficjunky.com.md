@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficjunky.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215010804id_/https%3A//www.trafficjunky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficjunky.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614184943id_/https%3A//www.trafficjunky.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrafficJunky
 
@@ -38,4 +38,4 @@ We may change this policy as new services are added or old ones are changed. Suc
 
 ## 9\. International Payment Processing
 
-MG Technologies Ltd. Block 1, 195-197 Old Nicosia-Limassol Road Dali Industrial Zone Nicosia, 2540 Cyprus, VAT # CY 10280743H
+MG Freesites Ltd. Block 1, 195-197 Old Nicosia-Limassol Road Dali Industrial Zone Nicosia, 2540 Cyprus, VAT # CY 10243057K
