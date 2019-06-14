@@ -1,59 +1,129 @@
-> *The following text is extracted and transformed from the smartling.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808010433id_/https%3A//www.smartling.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartling.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614105350id_/https%3A//www.smartling.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Smartling
+# Privacy Policy
 
 Thank you for visiting this website (this “Site”), which is operated by Smartling, Inc. (“Smartling,” “we,” “us” or “our”). This Site is intended to provide existing and prospective and current business customers of Smartling with information regarding the services offered by Smartling and to enable existing and prospective business customers of Smartling to indicate their interest in purchasing such services.
 
-This privacy policy (“Privacy Policy”) is provided by Smartling to explain the ways in which we collect information from you through your use of this Site, and the ways that Smartling may use that information. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By using this Site, you agree that your use, and any dispute over our online privacy practices, is governed by this Privacy Policy. If you have questions regarding privacy issues, please contact us via email at hi@smartling.com.
+This privacy policy (“Privacy Policy”) is provided by Smartling to explain the ways in which we collect information from you through your use of this Site or when you otherwise interact with us, the ways that Smartling may use that information, and the choices that are available to you with respect to our handling of your data. This Privacy Policy does not apply to the personal data that we collect through the Smartling translation platform or through other Smartling services.
 
-## Types of Information We Collect
+Please read this Privacy Policy carefully so that you understand our online privacy practices. If you have questions regarding privacy issues, please contact us at [hi@smartling.com](mailto:hi@smartling.com) .
 
- **Overview.** The information we gather generally falls into one of two categories: (1) information (for example, your name and business e-mail address) that you voluntarily supply when you complete and submit the online form on our Site indicating that you have an interest in obtaining information about or otherwise purchasing services offered by Smartling; and (2) information we gather on usage patterns and preferences as visitors navigate through our Site. In some cases, one of our agents or affiliates may collect the information on our behalf. Third party Service Providers (as defined below) that provide all or some of the services available through this Site also may be gathering the same kinds of information.
+## Information We Collect
 
- **Information that You Submit to Us.** To indicate an interest in learning more information about the business-to-business services offered by Smartling to their business customers you may provide certain information by filling out and submitting our online form. Such information includes your name, the name of your business, your business phone number, your business e-mail address and the zip code for your business. By submitting such information, you authorize Smartling to contact you by telephone and/or e-mail to provide you with more information about our business services.
+The information we gather generally falls into one of two categories: (1) information that you voluntarily supply such as when you submit the online form on our Site indicating that you are interested in Smartling’s services (for example, your name and business e-mail address); and (2) information we gather about your use of our Site. In some cases, one of our agents or affiliates may collect information on our behalf.
 
- **Cookies.** To help make this Site more responsive to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a cookie, a small entry in a text file, on your hard drive. We use cookies to help us tailor this Site to your needs and to deliver a better service. We may use cookies to track the pages on our Site or other sites visited by our users. We may also use cookies to measure Site performance. You can manage your browser’s cookie setting through the “options” menu on most commercially available web browsers, including options to set your browser to notify you before accepting a cookie or to disable cookies entirely.
+#### Information that You Submit to Us
 
- **Web Beacons.** This Site may contain electronic images (called “single-pixel GIFs” or “web beacons”) or other tools that allow us and our affiliates to count users who have visited particular pages of this Site. We may use these tools and other technologies to recognize which the links visitors click.
+You may provide certain information to us when you submit an online form to indicate your interest in Smartling’s services, participate in a webinar or event, or otherwise interact with us. This information may include your name, the name of your business, your business phone number and e-mail address, and the zip code for your business. By submitting such information, you authorize Smartling to contact you by telephone and/or e-mail to provide you with more information about our business services.
 
- **Browser Level Information and IP Addresses.** Our web servers automatically collect limited information about your computer configuration or your mobile device when you use our Site, including the type of browser software you use, the operating system you’re running, the resolution of your computer monitor or mobile device, the website that referred you, the type of device you’re using, and your IP address. (Your IP address is a numerical address that is used by computers and mobile devices connected to the Internet to identify your computer or mobile device so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and troubleshooting purposes. Your IP address alone does not tell us who you are.).
+#### Automatically-Collected Data
 
-## Disclosure of Information
+We use different technologies to collect information about your visit to our Site, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our services and your experience, see which areas and features of our Site are popular, count visits, and measure Site performance. Web beacons are electronic images that may be used in our Site and help count visits and track what links visitors click.
 
- **Why We Collect Information From You.** Like any business, it’s important for us to know our customers—their needs, their likes, what they want and expect from us. Except as expressly set forth in this Privacy Policy, we will not provide, sell or rent to any third party any personally identifying information that we collect from you through your use of this Site.
+Our web servers also automatically collect limited information about your computer configuration or your mobile device when you use our Site, including the type of browser software you use, the operating system you’re running, the resolution of your computer monitor or mobile device, the website that referred you, the type of device you’re using, and your IP address. Your IP address is a numerical address that is used by computers and mobile devices connected to the Internet to identify your computer or mobile device so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and troubleshooting purposes.
 
- **Service Providers.** All or portions of this Site may be provided or supported by our third-party service providers (“Service Providers”), and we may share any of the information that we collect from you through our Site (e.g., anonymous information collected through cookies on your browser, information you submit to us via our online form) with such Service Providers. Our Service Providers have access to your information solely for purposes of acting on our behalf and providing services to Smartling.
+#### Information that We Collect from Others
 
- **Statistical Information.** Much of the information we collect is in the form of aggregated statistics, such as the traffic that visits various pages within our Site, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to any third parties as we see fit.
+We may obtain information from other sources and combine that with information we collect directly. For example, we may collect information about you from third parties, including but not limited to identity verification services, credit bureaus, mailing list providers, and publicly available sources.
 
- **Sites to Which We Link.** Our Site includes links to other websites, whose privacy policies we don’t control. When you access another site or purchase products or services or conduct other transactions through their sites, use of any information you provide is governed by the Privacy Policy of the operator of the site you’re visiting or the provider of such products or services.
+## Advertising and Analytics Services Provided by Others
 
- **Other Disclosures.** We reserve the right to release information about users of this Site when release is necessary or appropriate to comply with law, to enforce this Privacy Policy, or to protect the rights, property or safety of users of our Site, the public, our customers, or our company and its employees, agents, partners and affiliates. As our business grows, we may buy or sell various assets. In the unlikely event that we merge with another entity or otherwise transfer substantially all of our assets to another entity (including, without limitation, to one of our affiliates as part of an internal reorganization), information collected from this Site would be among the transferred assets.
+We may allow others to provide analytics services and serve advertisements on our behalf across the internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Site and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Smartling and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Site and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit the Digital Advertising Alliance at www.aboutads.info/choices, or if you are in the European Economic Area (EEA) or Switzerland, the European Digital Advertising Alliance at <http://www.youronlinechoices.eu/> .
 
-## Opting In/Opting Out
+## How We Use Your Information
+
+  * We use the information we collect to provide, maintain, and improve our services. We may also use the information we collect to:
+  * Send you technical notices, updates, security alerts and support and administrative messages and to respond to your comments, questions and customer service requests;
+  * Communicate with you about services offered by Smartling and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage, and activities in connection with our services; 
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Smartling and others; and 
+  * Carry out any other purpose described to you at the time the information was collected.
+
+
+
+## How We Share Your Information
+
+Except as expressly set forth in this Privacy Policy, we will not provide, sell, or rent to any third party any personal data that we collect from you through your use of this Site. We may share information about you as follows or as otherwise described in this Privacy Policy:
+
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf and at our direction;
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Smartling or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company; 
+  * Between and among Smartling and our current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and
+  * With your consent or at your direction.
+
+
+
+## Data Retention
+
+We store the information we collect for as long as is necessary for the purpose(s) for which we originally collected it. We may retain certain information for legitimate business purposes or as required by law.
+
+## Data Transfers and Privacy Shield
+
+Smartling complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Smartling has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/)
+
+Smartling is based in the U.S. As such, we and our service providers may transfer your information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction. We will take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it.
+
+When we transfer personal data from the European Union or Switzerland to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union and Switzerland to the United States, respectively. Smartling has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/> .
+
+Smartling is responsible for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on our behalf. We will remain liable under the Principles if our agent processes such personal information in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
+
+In compliance with the Privacy Shield Principles, we are committed to resolving complaints about our processing of your personal data. EU and Swiss individuals with inquiries or complaints regarding our compliance with the Privacy Shield program should first contact us at [hi@smartling.com](mailto:hi@smartling.com) . Smartling has further committed to cooperate with the panel established by the EU data protection authorities and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU and Switzerland. Under certain conditions, you may be able to invoke binding arbitration to resolve your complaint. These dispute resolution services are provided at no cost to you. Smartling is subject to the investigatory and enforcement powers of the Federal Trade Commission.
+
+## Your Choices
+
+#### Promotional Communications
 
 If you have submitted information to us via our online form and we contact you by e-mail, you will always have the opportunity to “unsubscribe” from future e-mail communications (for example, by clicking on an unsubscribe link in our e-mail message).
 
+#### Cookies
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our services.
+
+## Residents of the European Economic Area and Switzerland
+
+If you are a resident of the European Economic Area (EEA) or Switzerland, you have certain rights and protections under the law regarding the processing of your personal data.
+
+#### Legal Basis for Processing
+
+If you are a resident of the EEA or Switzerland, we will only process your personal data:
+
+  * To perform our responsibilities under our contract with you (e.g., processing payments for and providing the services you have requested);
+  * When we have a legitimate interest in processing your personal data (e.g., to communicate with you about changes to our services, to advertise our services, and to provide, secure, and improve our services); or 
+  * To comply with our legal or regulatory obligations.
+
+
+
+#### Data Subject Requests
+
+If you are a resident of the EEA or Switzerland, you have the right to access personal data we hold about you and to have certain personal data corrected or erased. You may also have the right to restrict certain processing of your data.
+
+In compliance with the Privacy Shield Principles, Smartling commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Smartling at [hi@smartling.com](mailto:hi@smartling.com) . We will respond as soon as practicable and no later than one month after receipt of your request. We may request proof of identification to verify your request.
+
+We may deny or restrict fulfillment of your request in some cases, such as when your access to data places another individual’s privacy rights at risk, or the continued processing of your data is necessary to comply with a legal obligation. If so, we will notify you of the reason(s) for this denial.
+
+#### Questions or Complaints
+
+If you are a resident of the EEA or Switzerland and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm> or [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection—switzerland.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection%E2%80%94switzerland.html) .
+
 ## Data Security
 
-All information gathered through this Site is stored within database(s) operated by us or by a Service Provider on our behalf. We and/or our Service Providers secure the information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. However, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won’t be intercepted while being transmitted to us over the Internet.
+We take reasonable measures to help protect your personal data from loss, theft, misuse, and other unauthorized access, disclosure, alteration, and destruction.
 
-We are very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access and have implemented an integrated hardware and software platform designed to maintain the ongoing confidentiality, integrity and availability of all customer data uploaded to our server.
+## Sites to Which We Link
 
-If you have any concerns about the security of your data, we invite your feedback at hi@smartling.com.
-
-Please note that we will make any legally required disclosures to you of any breach of the security, confidentiality, or integrity of your unencrypted, electronically stored “personal data” (as defined in applicable state statutes on security breach notification) via email or conspicuous posting on this Site without unreasonable delay, as dictated by (i) the legitimate needs of law enforcement; and (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of our data system.
-
-## A Note About Children’s Privacy
-
-This Site is not directed at children under the age of 13, and we won’t knowingly allow anyone under age 13 to submit information to this Site or to provide any other personally identifying information. If you’re under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number). If we become aware that we have collected any personally identifying information from a user under the age of 13, we will remove such information from our records as soon as possible.
-
-## Privacy Errors
-
-We welcome feedback on any privacy concerns you may have, but we do not guarantee error-free performance under this Privacy Policy. We will take reasonable prompt corrective action when we learn of any material failure to comply with this Privacy Policy. We will not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy is governed by the laws of the United States.
+We may provide links to third-party websites, services, and applications that are not operated or controlled by Smartling. This Privacy Policy does not apply to third-party services, and we cannot take responsibility for the content, privacy policies, or practices of third-party services. We encourage you to review the privacy policies of any third-party service before providing any information to or through them.
 
 ## Changes to This Privacy Policy
 
-We may change the terms of this Privacy Policy or introduce new terms and conditions from time to time, in which case we will post an updated version of this Privacy Policy on this Site and will update the “Last Updated” date above to reflect the date the changes take effect. By continuing to use this Site after we post any such changes, you accept this Privacy Policy, as modified.
+We may change this Privacy Policy from time to time, in which case we will post an updated version of this Privacy Policy on this Site and will update the “Last Updated” date below to reflect the date the changes take effect. By continuing to use this Site after we post any such changes, you accept this Privacy Policy as modified.
 
-Last Updated: May 26, 2014
+## Contact Information
+
+If you have any questions about this Policy or our data protection practices, please email us at [hi@smartling.com](mailto:hi@smartling.com) or contact us at the following address:
+
+ **Smartling, Inc**  
+1375 Broadway, Ste. 1400  
+New York, NY 10018, USA  
+ATTN: Legal  
+Last Updated: September 2018
