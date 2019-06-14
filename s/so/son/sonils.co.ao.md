@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonils.co.ao privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116123558id_/http%3A//www.sonils.co.ao/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonils.co.ao privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615015503id_/http%3A//sonils.co.ao/privacy_policy.asp) for the most accurate reproduction.*
 
 # SONILS - Sonangol Integrated Logistic Services
 
