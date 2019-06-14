@@ -1,100 +1,184 @@
-> *The following text is extracted and transformed from the bookmarkguide.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226224103id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkguide.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614072321id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Legal Agreements - GoDaddy Respects Your Privacy
+# Privacy Agreement - GoDaddy
 
-**GoDaddy Respects Your Privacy**
+**GoDaddy**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+** Last Revised: April 4, 2019
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+ ** _To view our archived Privacy Policy, click[here](https://www.godaddy.com/agreements/showdoc?path=27895)._**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**
 
-**Information Collection and Use**
+GoDaddy cares about your privacy. For this reason, we collect and use personal data only as it might be needed for us to deliver to you our world-class products, services, websites and mobile applications (collectively, our “Services”). Your personal data includes information such as: 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+  * Name
+  * Address
+  * Telephone number
+  * Date of birth
+  * Email address
+  * Other data collected that could directly or indirectly identify you.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Our Privacy Policy is intended to describe to you how and what data we collect, and how and why we use your personal data. It also describes options we provide for you to access, update or otherwise take control of your personal data that we process. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+If at any time you have questions about our practices or any of your rights described below, you may reach our Data Protection Officer (“DPO”) and our dedicated team that supports this office by contacting us at privacy@GoDaddy.com. This inbox is actively monitored and managed so that we can deliver an experience that you can confidently trust. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Likewise, we’ve also created a [Privacy Center](https://www.godaddy.com/help/privacy-center-27875?pl_id=%7bprivatelabelid%7d) to provide answers to your most common questions, quick links to access your Account Settings, instructions on how to exercise certain rights that might be available to you, and definitions to key terms and concepts noted in this Privacy Policy. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+****What information do we collect?** **
 
-**Security**
+We collect information so that we can provide the best possible experience when you utilize our Services. Much of what you likely consider personal data is collected directly from you when you:
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+  1. create an account or purchase any of our Services (ex: billing information, including name, address, credit card number, government identification); 
+  2. request assistance from our award-winning customer support team (ex: phone number); 
+  3. complete contact forms or request newsletters or other information from us (ex: email); or 
+  4. participate in contests and surveys, apply for a job, or otherwise participate in activities we promote that might require information about you.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+However, we also collect additional information when delivering our Services to you to ensure necessary and optimal performance. These methods of collection may not be as obvious to you, so we wanted to highlight and explain below a bit more about what these might be (as they vary from time to time) and how they work:
 
-       ii.      You may send mail to GoDaddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Account related information** is collected in association with your use of our Services, such as account number, purchases, when products renew or expire, information requests, and customer service requests and notes or details explaining what you asked for and how we responded.
 
-      iii.      You may call us at: (480) 505-8800
+**Cookies and similar technologies** on our websites and our mobile applications allow us to track your browsing behavior, links clicked, items purchased, your device type, and to collect various data, including analytics, about how you use and interact with our Services. This allows us to provide you with more relevant product offerings, a better experience on our sites and mobile applications, and to collect, analyze and improve the performance of our Services. We may also collect your location (IP address) so that we can personalize our Services. For additional information, and to learn how to manage the technologies we utilize, please visit our [Cookie Policy](https://www.godaddy.com/legal/agreements/cookie-policy). 
 
-       iv.      You may fax us at: (480) 505-8844
+**Data about Usage of Services** is automatically collected when you use and interact with our Services, including metadata, log files, cookie/device IDs, page load time, server response time, and approximate location information to measure website performance and improve our systems, including optimizing DNS resolution, network routing and server configurations. Specifically, interactions with the features, content and links (including those of third-parties, such as social media plugins) contained within the Services, Internet Protocol (IP) address, browser type and settings, the date and time the Services were used, information about browser configuration and plugins, language preferences and cookie data, information about devices accessing the Services, including type of device, what operating system is used, device settings, application IDs, unique device identifiers and error data is collected.
 
-**Sending Emails**
+**Supplemented Data** may be received about you from other sources, including publicly available databases or third parties from whom we have purchased data, in which case we may combine this data with information we already have about you so that we can update, expand and analyze the accuracy of our records, identify new customers, and provide products and services that may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+****How we utilize information.** **
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We strongly believe in both minimizing the data we collect and limiting its use and purpose to only that (1) for which we have been given permission, (2) as necessary to deliver the Services you purchase or interact with, or (3) as we might be required or permitted for legal compliance or other lawful purposes. These uses include:
 
-**Compliance with Laws and Law Enforcement**
+**Delivering, improving, updating and enhancing the Services we provide to you.** We collect various information relating to your purchase, use and/or interactions with our Services. We utilize this information to:
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  * Improve and optimize the operation and performance of our Services (again, including our websites and mobile applications) 
+  * Diagnose problems with and identify any security risks, errors, or needed enhancements to the Services 
+  * Detect and prevent fraud and abuse of our Services and systems 
+  * Collecting aggregate statistics about use of the Services 
+  * Understand and analyze how you use our Services and what products and services are most relevant to you. 
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Often, much of the data collected is aggregated or statistical data about how individuals use our Services, and is not linked to any personal data, but to the extent it is itself personal data, or is linked or linkable to personal data, we treat it accordingly. 
 
-**Supplementation of Information**
+**Sharing with trusted third parties.** We may share your personal data with affiliated companies within our corporate family, with third parties with which we have partnered to allow you to integrate their services into our own Services, and with trusted third party service providers as necessary for them to perform services on our behalf, such as:
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+  * Processing credit card payments 
+  * Serving advertisements 
+  * Conducting contests or surveys 
+  * Performing analysis of our Services and customers demographics 
+  * Communicating with you, such as by way email or survey delivery 
+  * Customer relationship management. 
 
-**Contests/Surveys**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We only share your personal data as necessary for any third party to provide the services as requested or as needed on our behalf. These third parties (and any subcontractors) are subject to strict data processing terms and conditions and are prohibited from utilizing, sharing or retaining your personal data for any purpose other than as they have been specifically contracted for (or without your consent).
 
-**Tell-A-Friend**
+We may also share your information with third parties for the purpose of facilitating/allowing a merger, acquisition or sale of all or substantially all of our assets, in which case the acquiring company may continue to utilize your data in the manner for which it was provided and intended.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+**Communicating with you.** We may contact you directly or through a third party service provider regarding products or services you have signed up or purchased from us, such as necessary to deliver transactional or service related communications. We may also contact you with offers for additional services we think you’ll find valuable if you give us consent, or where allowed based upon legitimate interests. You don’t need to provide consent as a condition to purchase our goods or services. These contacts may include:
 
-**What Happens to my Personal Information if I Opt Out?**
+  * Email 
+  * Text (SMS) messages 
+  * Telephone calls 
+  * Automated phone calls or text messages. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-**Transfer of Data Abroad**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+You may also update your subscription preferences with respect to receiving communications from us and/or our partners by signing into your account and visiting “Account Settings” page. 
 
-**Changes in Our Practices**
+If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy policy applies. In addition, it will describe any choice options you have in regards to the use and/or sharing of your personal data with a co-branded partner, as well as how to exercise those options.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If you make use of a service that allows you to import contacts (ex. using email marketing services to send emails on your behalf), we will only use the contacts and any other personal information for the requested service. If you believe that anyone has provided us with your personal information and you would like to request that it be removed from our database, please contact us at privacy@GoDaddy.com.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+**Transfer of personal data abroad.** If you utilize our Services from a country other than the country where our servers are located, your communications with us may result in transferring your personal data across international borders. Also, when you call us or initiate a chat, we may provide you with support from one of our global locations outside your country of origin. In these cases, your personal data is handled according to this Privacy Policy.
 
-**Contacting Our Site**
+**Compliance with legal, regulatory and law enforcement requests.** We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (such as subpoena requests), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process. We will also share your information to the extent necessary to comply with ICANN or any ccTLD rules, regulations and policies when you register a domain name with us. For reasons critical to maintaining the security, stability and resiliency of the Internet, this includes the transfer of domain name registration information to the underlying domain registry operator and escrow provider, and publication of that information as required by ICANN in the public WHOIS database.
 
-* * *
+**Website analytics.** We use multiple web analytics tools provided by service partners such as Google Analytics, MixPanel and Singular to collect information about how you interact with our website or mobile applications, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use and network and IP information. We use the information provided by these tools to improve our Services. These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (ex: Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. Though information collected does not include personal data such as name, address, billing information, etc., the information collected is used and shared by these service providers in accordance with their individual privacy policies. You can control the technologies we use by managing your settings through our [Cookie Policy](https://www.godaddy.com/legal/agreements/cookie-policy) or the ‘cookie banners” that may be presented (depending on URL of website visited) when you first visit our webpages, or by utilizing settings in your browser or third-party tools, such as [Disconnect](https://disconnect.me/disconnect), [Ghostery](https://www.ghostery.com/) and others.
 
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**Targeted advertisements.** Targeted ads or interest-based offers may be presented to you based on your activities on our webpages, and other websites, and based on the products you currently own. These offers will display as varying product banners presented to you while browsing. We also partner with third parties to manage our advertising on our webpages and other websites. Our third party partners may use technologies such as cookies to gather information about such activities in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/) [or if located in the European Union click [here](http://www.youronlinechoices.eu/)]. Please note you will continue to receive generic ads.
+
+**Third-party websites.** Our website and our mobile applications contain links to third-party websites. We are not responsible for the privacy practices or the content of third-party sites. Please read the privacy policy of any website you visit.
+
+****The E.U-U.S and Swiss-U.S. Privacy Shield Frameworks.** **
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=97e75c6a-f9e7-467c-aa50-37378aff5354)
+
+Our parent company, GoDaddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Mad Mimi, Inc. and Media Temple, Inc.) participates in and has certified its compliance with the EU-U.S. and Swiss-U.S. Privacy Shield Framework. GoDaddy Operating Company, LLC is committed to subjecting all personal data received from the EU or Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+
+GoDaddy Operating Company, LLC is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. GoDaddy Operating Company, LLC complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to each Privacy Shield Framework, GoDaddy Operating Company, LLC is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, GoDaddy Operating Company, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+In compliance with the Privacy Shield Principles, GoDaddy Operating Company, LLC commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us in any manner provided in the "CONTACT US" section below in this Privacy Policy. 
+
+GoDaddy Operating Company, LLC has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU and Switzerland in the context of the employment relationship.
+
+****How you can access, update or delete your data.** **
+
+To easily access, view, update, delete or port your personal data (where available), or to update your subscription preferences, please sign into your Account and visit “Account Settings.” Please visit our [Privacy Center](https://www.godaddy.com/help/privacy-center-27875?prog_id=GoDaddy) for additional information and guidance for accessing, updating or deleting data. 
+
+If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements.
+
+If you are unable for any reason to access your Account Settings or our Privacy Center, you may also contact us by one of the methods described in the “Contact Us” section below. 
+
+****How we secure, store and retain your data.** **
+
+We follow generally accepted standards to store and protect the personal data we collect, both during transmission and once received and stored, including utilization of encryption where appropriate.
+
+We retain personal data only for as long as necessary to provide the Services you have requested and thereafter for a variety of legitimate legal or business purposes. These might include retention periods:
+
+  * mandated by law, contract or similar obligations applicable to our business operations; 
+  * for preserving, resolving, defending or enforcing our legal/contractual rights; or 
+  * needed to maintain adequate and accurate business and financial records.
+
+
+
+If you have any questions about the security or retention of your personal data, you can contact us at privacy@GoDaddy.com.
+
+****_‘Do Not Track’_ notifications.** **
+
+Some browsers allow you to automatically notify websites you visit not to track you using a “Do Not Track” signal. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit [www.allaboutdnt.com](https://allaboutdnt.com/).
+
+****Age restrictions.** **
+
+Our Services are available for purchase only for those over the age of 18. Our Services are not targeted to, intended to be consumed by or designed to entice individuals under the age of 18. If you know of or have reason to believe anyone under the age of 18 has provided us with any personal data, please contact us.
+
+****Changes in our Privacy Policy.** **
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+****Data Protection Authority.** **
+
+If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to your local supervisory authority or our lead supervisory authority, the UK's Information Commissioner’s Office, as noted below:
+
+[www.ico.org.uk](https://ico.org.uk/)
+
+Information Commissioner’s Office
+
+Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, United Kingdom
+
+Phone: 0303 123 1113
+
+****Contact us.** **
+
+If you have any privacy-related questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at privacy@GoDaddy.com. In the alternative, you may contact us by either of the following means:
+
+  * _By Mail_ : Attn: Office of the Data Protection Officer, 14455 North Hayden Road, Suite 219, Scottsdale, AZ 85260 USA, or for customers established in the EEA, Attn: Legal, Office of the DPO, 5th Floor, The Shipping Building, Old Vinyl Factory, 252-254 Blyth Road, Hayes, UB3 1HA.  
+
+  * _By Phone_ : 480-505-8877. 
+
+
+
+**_We will respond to all requests, inquiries or concerns within thirty (30) days._**
+
+Revised: 4/4/2019  
+Copyright © 2000-2019 GoDaddy.com, LLC All Rights Reserved.
