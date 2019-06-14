@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salemwebnetwork.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223185753id_/https%3A//www.salemwebnetwork.com/our-brands/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemwebnetwork.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614175143id_/https%3A//www.salemwebnetwork.com/our-brands/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Salem Web Network
 
