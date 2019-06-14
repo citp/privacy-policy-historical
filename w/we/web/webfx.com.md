@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webfx.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829085434id_/https%3A//www.webfx.com/privacytermsofuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfx.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614200404id_/https%3A//www.webfx.com/privacytermsofuse.htm) for the most accurate reproduction.*
 
 # Website Privacy Policy & Terms of Use
 
@@ -77,7 +77,7 @@ We may update this privacy policy from time to time in order to reflect, for exa
 
 For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by mail using the details provided below:
 
-WebpageFX Inc.  
+WebFX  
 Attn: Legal Department  
 1705 N FRONT ST  
 Harrisburg, PA, 17102  
@@ -98,13 +98,17 @@ If you choose to visit WebFX, your visit and any dispute over privacy is subject
 
 We send newsletters to you and will not sell your email address to 3rd parties. You may choose to opt-out of the newsletter at any time by following the unsubscribe instructions in each newsletter or by contacting us directly. By default all contact from our website is entered into our CRM and newsletter distribution list. If you would prefer not to be added to our email distribution list, please specify this in the body of email or contact from submission to us.
 
+#### Phone Calls
+
+When you are in contact with us by phone the call may be monitored or recorded for quality assurances purposes. Your continued participation in any telephone conversation serves as express consent to be monitored or recorded.
+
 #### Copyright and Trademarks
 
-The content included on the WebFX.com site – including all text, images, videos and other media, as well as the design and styling of all content – are exclusively owned by WebpageFX, Inc. or by third parties who have given their permission for use by WebpageFX, Inc. Copyright by WebpageFX, Inc. or such third parties of all such content is explicit by its appearance on the WebFX.com site. 
+The content included on the WebFX.com site – including all text, images, videos and other media, as well as the design and styling of all content – are exclusively owned by WebFX. or by third parties who have given their permission for use by WebFX. Copyright by WebFX. or such third parties of all such content is explicit by its appearance on the WebFX.com site. 
 
-The following Trademarks are exclusively owned by WebpageFX, Inc. 
+The following Trademarks are exclusively owned by WebFX. 
 
-WebFX®, WebpageFX®, DIGITAL MARKETING THAT DRIVES RESULTS® 
+WebFX®, WebFX®, DIGITAL MARKETING THAT DRIVES RESULTS® 
 
 #### Permitted Use
 
@@ -112,19 +116,19 @@ Visitors to this website are granted permission to access this material, to down
 
 \- Trademarks must be faithfully reproduced with their appropriate marks as shown above
 \- You may link to WebFX.com using appropriate text such as "… as found on WebFX.com" or by seeking permission for the link
-\- Your use may not be obscene or defamatory or libelous to WebFX.com or WebpageFX, Inc.
+\- Your use may not be obscene or defamatory or libelous to WebFX.com or WebFX.
 \- You must properly cite WebFX.com as the source.
 
 
 #### Restricted Use 
 
-Visitors to this website may not copy, distribute, screen shot, reproduce, sell or publish any of the copyright material downloaded or copied from this website. For the avoidance of doubt, no permission is given for the transfer of any of this material to an open internet site. For permission, please contact info@webfx.com. WebFX monitors the web closely for violations of our use policy. Design Trademarks or stylized versions of Trademarks are not permitted for use except by written permission from WebpageFX, Inc.
+Visitors to this website may not copy, distribute, screen shot, reproduce, sell or publish any of the copyright material downloaded or copied from this website. For the avoidance of doubt, no permission is given for the transfer of any of this material to an open internet site. For permission, please contact info@webfx.com. WebFX monitors the web closely for violations of our use policy. Design Trademarks or stylized versions of Trademarks are not permitted for use except by written permission from WebFX.
 
 #### Reporting Violations
 
 If you become aware of any violations of Copyrights, Trademarks or other Intellectual Property in connection with the Site, whether owned by the Site Owners or Third Parties, please contact:
 
-WebpageFX Inc.  
+WebFX  
 Attn: Legal Department  
 1705 N FRONT ST  
 Harrisburg, PA, 17102  
