@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemybody.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130001535id_/http%3A//www.ratemybody.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemybody.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614054836id_/http%3A//www.ratemybody.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - RateMyBody
 
