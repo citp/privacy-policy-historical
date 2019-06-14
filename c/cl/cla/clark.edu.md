@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clark.edu privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213080234id_/http%3A//www.clark.edu/about/governance/policies-procedures/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clark.edu privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614175419id_/http%3A//www.clark.edu/about/governance/policies-procedures/privacy_policy.php) for the most accurate reproduction.*
 
 # Public Records Privacy Protection Policy
 
