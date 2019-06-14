@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poloniex.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123060735id_/https%3A//poloniex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poloniex.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614205830id_/https%3A//www.poloniex.com/privacy) for the most accurate reproduction.*
 
-# Poloniex - Bitcoin/Digital Asset Exchange - Privacy Policy
+# Poloniex - Crypto Asset Exchange - Privacy Policy
 
-## Last Revised: May 24, 2018
+## Last Revised: March 27, 2019
 
 This Privacy Policy is provided in a layered format so you can click through to the specific areas set out below. Alternatively you can download a pdf version of the policy [here](https://static.poloniex.com/poloniex-privacy-policy.pdf)
 
@@ -17,6 +17,7 @@ This Privacy Policy is provided in a layered format so you can click through to 
   9. Your legal rights
   10. Children's privacy
   11. Contacting Us
+  12. Other Important Information
 
 
 
@@ -118,23 +119,23 @@ Poloniex does not sell user data to any third party.
 
 ### Marketing
 
-We string to provide you with choices regarding certain Personal Data uses, particularly around marketing and advertising. We have established the following personal data control mechanisms:
+We provide you with choices regarding certain Personal Data that Poloniex uses, particularly around marketing and advertising. We have established the following personal data control mechanisms:
 
 ### (i) Promotional offers from us
 
-We may offer your Personal Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing). 
+We may use your Personal Data to determine what may be of interest to you. This is how we decide which products, services, and offers may be relevant for you.
 
-You will receive marketing communications from us if (i) you have requested information from us; or (ii) use our Services, in each case, you have not opted out of receiving that marketing.
+By using our Services or requesting information from us, you opt-in to receive marketing communications, except in Vermont.
+
+Vermont customers can opt-in to receive promotional offers by contacting us.
 
 ### (ii) Third-party marketing
 
-We will get your express opt-in consent before we share your Personal Data with any company outside of the Poloniex group of companies for marketing purposes.
+We will obtain your express consent (opt-in) before we share your Personal Data with any company outside of the Poloniex group for that company's own marketing purposes.
 
 ### (iii) Opting out
 
-You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by [contacting us](https://poloniex.freshdesk.com/support/home). 
-
-Where you opt our of receiving these marketing messages, this will not apply to Personal Data provided to us as a result of your use of our Service, a product/service experience or other transactions.
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by contacting us.
 
 We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy.
 
@@ -252,3 +253,9 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 Unfortunately, if you're under 18, you can't use our Services. We do not knowingly solicit or collect information from anyone under 18. If we become aware that a person under the age of 18 has provided us with personal information, we'll delete it immediately.
 
 If you have any questions about our Privacy Policy as outlined above, please contact us through our [support center](https://poloniex.freshdesk.com/support/home).
+
+## 12\. Other Important Information
+
+For Vermont customers:
+
+In accordance with Vermont law, Poloniex will not share your non-public personal financial information with nonaffiliated third parties, except as required or permitted by law, or if you specifically consent to the disclosure. In addition, Poloniex will not share credit reports with third parties, including affiliates, except with your express consent.
