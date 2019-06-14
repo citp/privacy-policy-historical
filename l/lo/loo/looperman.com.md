@@ -1,83 +1,200 @@
-> *The following text is extracted and transformed from the looperman.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001184744id_/https%3A//www.looperman.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looperman.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615004531id_/https%3A//www.looperman.com/help/privacy) for the most accurate reproduction.*
 
 # Looperman : Free Loops Beats Samples Acapellas Vocals VST Plugins VSTi Downloads
 
-Looperman has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses the information gathering practices for this Web site.
+We have created this privacy statement in order to demonstrate our firm commitment to protect and respect your privacy and personal data and help you understand the information we collect, how we use it and the choices you have. For those users within the European Economic Area (EEA) we also note your rights under the Data Protection laws that came into force on 25th May 2018. While in its very nature some of this information may be of a technical nature we have attempted to present this it as clearly and simply possible.
 
-## Information Volunteered
+As laws change or are updated or clarified we will always endeavour to do what is necessary to comply with those laws and so, this policy is subject to change at any time. You are advised to check back on a regular basis for any further updates and alterations. 
 
-We collect information volunteered by users of our Web site. E-mail addresses and other member information is collected when a user creates or updates their account.
+For simplicity we will refer to the website, any mobile versions, APIs or services we provide as “the platform” and looperman.com and its owners or operators as “us”, “our” or “we”
 
-The information we collect is used to enable the site to function, to contact our users and improve the content of our web site. It is not shared with other organizations. We do not sell or trade e-mail addresses that we have collected.
+By using the platform whether that be as a registered user or simply browsing, you are consenting to the use of your information as laid out in this privacy policy. Our use of cookies or similar technologies is set out in a separate [cookies policy](https://www.looperman.com/help/cookies). The [cookies policy](https://www.looperman.com/help/cookies) however forms a part of our privacy policy and should be taken as one in the same.
 
-Information sent via internal contact methods may be logged and checked and used to take action in cases of abuse of the website or another user. Information stored is only viewed by looperman staff but may be passed onto moderators if required.
+We ask that you read our privacy policy, including everything set out in the cookies policy and ensure that you are happy with our use and sharing of your information.
 
-## Information Automatically Logged
+**If you are unhappy with or do not agree to any part of the privacy policy you should not use the platform.** Should you already have an account you must request that your account is terminated. You can do this by contacting support. 
 
-The IP addresses of users are logged and used to help diagnose problems, track usage and to administer our web site. Our server logs IP addresses for internal statistical use. Information regards members site usage is stored and used for statistical and security purposes.
+Our privacy policy only applies to the platform. When using the platform you may find links to other sites, apps or services etc. We are not responsible for those services, their practices or their policies and we encourage you to review them accordingly.
 
-## External Links
+### How do we collect personal information
 
-Our site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.
+Information may be collected in a number of ways. We can split this into ..
 
-## Security
+**Information supplied / volunteered;**
 
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from users of our web site.
+To simply browse the platform you don't need to supply any information but if you wish to do anything more you'll need to create an account. In order to create and maintain your account you need to provide certain information. Some of this is mandatory and some of this is voluntary.
 
-## Cookies
+  * **Mandatory profile information :** To create an account you must provide a valid email address and a user name (does not have to be your real name) 
+  * **Profile information :** At any time, via your [account settings page](https://www.looperman.com/account/settings) you may enhance your profile by providing extra publicly available information such as the country and the city where you live, your date of birth, a profile avatar / image (does not have to be an image of you), information about you, links to profiles on other sites, the software / hardware you use / your musical likes / pastimes etc 
+  * **Information volunteered by posting :** If you choose to upload files, post comments, replies, take part in groups or discussions, contact other users, favourite, play, download or report files, posts, users you may provide personal data. 
+  * **Information volunteered by correspondence :** You may provide personal information should you contact us via email or any other service, either online or offline or use any of the web forms on the platform. 
+  * **Information from third parties :** You may provide personal information in the event that we allow users to link accounts from third party services such as facebook or twitter. This information would be based on their privacy policies and your settings with those services so be sure to check what those are too. 
 
-As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience.�This section describes what information they gather, how we use it and why we need to store these cookies.
 
-For more general information on cookies see the [Wikipedia article on HTTP Cookies...](http://en.wikipedia.org/wiki/HTTP_cookie).
 
-## How We Use Cookies
+**Information automatically logged;**
 
-We use cookies for a variety of reasons detailed below. Unfortunately is most cases�there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.
+As with all web sites and services when using the platform some information is created and logged automatically. The includes but is not limited to..
 
-## Disabling Cookies
+  * the ip address (Internet protocol) of the device you are using to access the platform
+  * your browser type, browser version and operating system (user agent)
+  * the type of device that you are using to access the platform (mac / pc / mobile etc)
+  * the date and time you accessed the platform or made updates or edits
+  * the search terms of any searches you may have done
+  * interactions you have performed whilst using the platform. For example, uploading, downloading, deleting, editing or playing files, viewing, posting, editing or replying to posts or discussions, searching for content, updating your profile or preferences
+  * the page that you visited and or refereed you to the platform prior to your visit and searches you may have performed to find the platform<
+  * information collected by the use of cookies. Details of our use of cookies can be found in our [cookies policy](https://www.looperman.com/help/cookies)
 
-In order to use looperman.com acceptance of cookies is mandatory. See the help area to discover and solve problems posting forms, logging in or registering caused due to not allowing cookies.
 
-## The Cookies We Set
 
-If you create an account with us then we will use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out however in some cases they may remain afterwards to remember your site preferences when logged out.
+### Sharing information
 
-We use cookies when you are logged in so that we can remember this fact. This prevents you from having to log in every single time you visit a new page. These cookies are typically removed or cleared when you log out to ensure that you can only access restricted features and areas when logged in.
+The information we collect is used in the following ways and is done so based on us having a legitimate interest in doing so in order to provide, maintain and secure the platform.
 
-Where this site offers newsletter or email subscription services cookies may be used to remember if you are already registered and whether to show certain notifications which might only be valid to subscribed/unsubscribed users.
+**your interaction with and use of the platform**
 
-From time to time we may offer user surveys and questionnaires to provide you with interesting insights, helpful tools, or to understand our user base more accurately. These surveys may use cookies to remember who has already taken part in a survey or to provide you with accurate results after you change pages.
+  * to provide you with products and services
+  * to enable us to develop and improve the platform
+  * to help us manage requests and support you when you contact us
+  * to notify you about any changes if necessary
+  * to send notifications of interactions on your files or responses to conversations within forums etc
+  * to provide stats and reports to you and other users
+  * to send notifications or messages from other users
+  * to send notifications to enable you to administer your accounts
+  * to enable age restriction
+  * to identify you and the content and contributions you submit to the platform
+  * to provide you with content relevant to your searches or preferences
 
-When you submit data through a form such as those found on contact pages or comment forms cookies may be set to remember details for future correspondence.
 
-In order to provide you with a great experience on this site we may provide the functionality to set your preferences for how this site runs when you use it. In order to remember your preferences we may set cookies so that this information can be called whenever you interact with a page is affected by your preferences.
 
-## Third Party Cookies
+**Maintaining, optimising, securing the platform**
 
-In some cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.
+  * to help us to identify you and the accounts you have 
+  * to better understand, manage and optimise the platform in order to improve and customise it to your needs
+  * to detect, prevent or take action on fraud, spam or activities that are or could be in breach of our terms and conditions or guidelines
+  * to discover and fix any issues or problems
 
-This site uses Google Analytics which is one of the most widespread and trusted analytics solution on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.
 
-For more information on Google Analytics cookies, see the [official Google Analytics page](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies).
 
-Third party analytics are used to track and measure usage of this site so that we can continue to produce engaging content. These cookies may track things such as how long you spend on the site or pages you visit which helps us to understand how we can improve the site for you.
+**Targeted content, advertising**
 
-From time to time we test new features and make subtle changes to the way that the site is delivered. When we are still testing new features these cookies may be used to ensure that you receive a consistent experience whilst on the site whilst ensuring we understand which optimisations our users appreciate the most.
+  * to tailor content to your needs or requests
+  * to provide content relevant to your preferences or actions
+  * to show you ads on behalf of any sponsors or advertisers in the case of in house ads
 
-In the event we sell products it's important for us to understand statistics about how many of the visitors to our site actually make a purchase and as such this is the kind of data that these cookies will track. This is important to you as it means that we can accurately make business predictions that allow us to monitor our advertising and product costs to ensure the best possible price.
 
-The�Google AdSense service we use to serve advertising uses a DoubleClick cookie to serve more relevant ads across the web and limit the number of times that a given ad is shown to you.
 
-For more information on Google AdSense see the [official Google AdSense privacy FAQ](http://www.google.co.uk/policies/privacy/ads/).
+We also use third party services to provide advertising
 
-We use adverts to offset the costs of running this site and provide funding for further development. The behavioural advertising cookies used by this site are designed to ensure that we provide you with the most relevant adverts where possible by�anonymously�tracking your interests and presenting similar things that may be of interest.
+### Who has access to your information
 
-In some cases we may provide you with custom content based on what you tell us about yourself either directly or indirectly by linking a social media account. These types of cookies simply allow us to provide you with content that we feel may be of interest to you.
+In some cases we may need to share information collected. For example;
 
-Several partners advertise on our behalf and affiliate tracking cookies simply allow us to see if our customers have come to the site through one of our partner sites so that we can credit them appropriately and where applicable allow our affiliate partners to provide any bonus that they may provide you for making a purchase.
+  * **Other users / visitors :** As this is a community driven platform and content posted is in the public realm any images, audio files, videos, comments, forum posts and any other content you provide or post is done so voluntarily in the knowledge that it will be available publicly to both registered and none registered users. Posting of content and information is your own responsibility and is done so at your own risk. We simply process this data on your behalf as per our terms and conditions. 
 
-We also use social media buttons and/or plugins on this site that allow you to connect with your social network in various ways. For these to work the following social media sites including; facebook,twitter,google, will set cookies through our site which may be used to enhance your profile on their site or contribute to the data they hold for various purposes outlined in�their�respective�privacy�policies. 
+We do not disclose your email address or ip address to other users and advise that you do not post personal information publicly. We can not however prevent you from doing this and so, you do so, against our wishes and at your own risk. 
 
-## More Information
+Other users may also see information regarding your interaction with theirs or other users content such as downloads, plays, favourites or comments along with your online status and last seen times. 
 
-Hopefully that has�clarified�things for you and as was previously mentioned if there is something that you aren't sure whether you need or not it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site. However if you are still looking for more information then you can contact us through one of our preferred contact methods.
+  * **Service providers :** We may need to pass your your personal data to certain reputable third parties in order to provide services on our behalf such as processing payments or hosting. These service providers may be located and operate outside of the European Economic Area (EEA). Where possible these service providers should have put in place measures to ensure the security of your data. For example by showing participation in the Privacy Shield Framework ([https://www.privacyshield.gov](https://www.privacyshield.gov/)). 
+  * **With consent :** We may share your information with your consent. 
+  * **For legal reasons / to protect ours or others interests :** We may pass your personal data where we are under obligation to do so for legal reasons or to protect the safety, security or rights of ourselves or that of others. 
+  * **Acquisition / business transfer :** We may share information in the event that we are acquired by a third party. In this instance your data will be deemed an asset of the business. If such a process were to happen and being bound by confidentiality agreements we may make data available to any prospective buyer. 
+  * **Aggregated data :** We may aggregate data in order to create statistical reports and information. This information would not include any information that could be used to identity an individual and may be shared with third parties or publicly. For example to show visitor numbers or trends. 
+
+
+
+Advertisers or sponsors may use techniques to track the effectiveness of ads or campaigns and to ensure that ads are delivered effectively. See our cookie policy.
+
+### Retention Periods
+
+Your personal data is retained for the duration or your account. In some cases we may keep information longer and in these cases it may be in an anonymised form or in a way that no longer links it to an individual. 
+
+### Your rights, choices and control of your information
+
+Dependant on your location you have certain rights regards your personal information and can choose how we collect and use it.
+
+**Information supplied / volunteered**
+
+Should you choose to create an account you can manage the information you provide in a number of ways
+
+via your [account settings page](https://www.looperman.com/account/settings) you can ..
+
+  * manage your email address, user name, location and date of birth
+  * manage your avatar
+  * manage your profile description, items where you give information about the hardware / software you use, your musical tastes etc and any outbound links
+  * manage your preferences for being contacted by other users
+  * manage your preferences for being notified of comments or replies to your uploads, forum posts etc
+  * request your account be terminated
+
+
+
+via the admin / delete pages for your uploads you can upload, edit or delete loops, tracks or acapellas and associated information
+
+**Information automatically logged**
+
+Details on how you can disable or block either first party cookies (ours) or third party cookies (those of the services we use such as analytics or advertisers) can be found in our [cookies policy](https://www.looperman.com/help/cookies).
+
+It should be noted that blocking cookies may severely impact our ability to provide the platform to you.
+
+**Terminating your account**
+
+You may request your account be terminated at any time either via your [account settings page](https://www.looperman.com/account/settings) or by contacting support. To prove your ownership of an account you would need to log in and contact us directly. Should you no longer have access to your account you may contact us by other methods and we will endeavour to resolve the situation.
+
+Should you request that your account is terminated your data will be deleted and may never be recoverable. You should remember to backup any information you prefer to keep. Account deletion may not be instant but will be done within a reasonable time frame. We may need to retain some data either for legal reasons or where we have a legitimate reason for doing so.
+
+Even in the case that your account is terminated there is every chance that your information will still appear on search engines and external sites. This is out of our control. We will however show relevant 404 notices in place of your pages that should, in time help notify search engines that the information is no longer available. Your account information may still be kept in the form or backups or server logs until such a time that those backups or server logs become obsolete or replaced. 
+
+Dependant on your location you may contact us in order to ..
+
+  * ask to have your information updated or corrected if for some reason you are unable to do it yourself via your [account settings page](https://www.looperman.com/account/settings)
+  * request that we provide your information in a commonly used electronic format
+  * request that we erase or restrict our use of your information
+  * object to our use of your information in certain circumstances
+
+
+
+NOte : some choices or changes you make could prevent us from providing the platform to you.
+
+### Transferring your information internationally
+
+The platform is hosted outside of the European Economic Area (EEA) and so personal data is transferred internationally. While we do our best to keep any information you disclose to us secure we can’t guarantee its security and so you do so at your own risk. By using the platform you accept the risks of providing information online and wont hold us responsible in the event of any breach of security.
+
+As some of our third party service providers are located outside of the EEA and in locations that may not have such strict standards we have tried to ensured that those organisations have sufficient methods in place such as being participants in the Privacy Shield Framework.
+
+More information on Privacy Shield Framework can be found at [https://www.privacyshield.gov](https://www.privacyshield.gov/)
+
+### External Links
+
+Our site contains links to other sites. We are not responsible for the privacy practices or the content of such web sites.
+
+### Age Restrictions / Children
+
+Unfortunately for legal reasons anyone below the age of 13 is not allowed to use the platform and we kindly ask that anyone below that age refrains from attempting to create an account or passing any personal information to us. We don’t knowingly process any personal information of anyone bellow the age of 13 and should it be bought to our attention that this is or has been done we will remove or anonymise this information as swiftly as possible. 
+
+### Liability
+
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from users of the platform.
+
+### Data breaches
+
+Should there be an instance where data security is breached we will, where necessary, take steps to inform users in a timely fashion.
+
+### Your right to file a complaint
+
+You have the right to make a complaint about how we process your personal data to the Information Commissioner:
+
+<https://ico.org.uk/concerns/>
+
+Information Commissioner's Office  
+Wycliffe House, Water Lane, Wilmslow  
+Cheshire, SK9 5AF  
+Tel: +44 303 123 1113
+
+### Who Are We
+
+Looperman is owned and operated by Future Web Services, a company registered in England.
+
+### Contact us
+
+if you are still looking for more information regards privacy then you can contact us at privacy @ looperman.com 
