@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shutterflyinc.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101011315id_/https%3A//www.shutterflyinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterflyinc.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614025236id_/https%3A//www.shutterflyinc.com/privacy) for the most accurate reproduction.*
 
 # Shutterfly, Inc. Online Privacy and Security | Shutterfly, Inc
 
