@@ -1,37 +1,77 @@
-> *The following text is extracted and transformed from the det.nsw.edu.au privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219161147id_/https%3A//education.nsw.gov.au/about-us/rights-and-accountability/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the det.nsw.edu.au privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614084848id_/https%3A//education.nsw.gov.au/about-us/rights-and-accountability/privacy) for the most accurate reproduction.*
 
 # Privacy | About us
 
-This page is to help you understand how the privacy legislation protects your personal and health information and how department meets its obligations in respect of this information.
+This website is maintained by the New South Wales Government's Department of Education. This Privacy Policy applies to all the publicly accessible pages on this site located at [www.education.nsw.gov.au](http://www.education.nsw.gov.au/).
 
-Further information about privacy legislation and its application to the department is detailed in the department's [Privacy Management Plan (PDF 552.65KB)](https://education.nsw.gov.au/about-us/rights-and-accountability/media/documents/privacy-documents/privacy-management-plan-march-2014.pdf)
+The Department of Education does not have any responsibility for the privacy policies or practices of third party sites linked to this site. If you have any questions about this site, or the application of this Privacy Policy or a request for access to information held please contact:
 
-## Privacy legislation
+Legal Services - Privacy  
+Department of Education  
+GPO Box 33  
+Sydney NSW 2001
 
-The NSW privacy legislation -  the Privacy and Personal Information Protection Act 1998 and the Health Records and Information Act 2002 - imposes specific obligations on the department when handling personal and health information that directly or indirectly identifies a person. These obligations, expressed in [12 Information Protection Principles](http://www.ipc.nsw.gov.au/information-protection-principles-public) and [15 Health Privacy Principles](http://www.ipc.nsw.gov.au/health-privacy-principles-hpps-explained-members-public), relate to the collection, storage, use, disclosure and alteration of and access to personal and health information.
+Phone: (02) 7814 3896
 
-## Modifications to the legislation
+Users of the Department of Education site are entitled to expect that any information collected as a result of that use will be treated within the terms of the New South Wales Government's privacy responsibilities and obligations. The New South Wales Government's privacy practices are regulated by the New South Wales Privacy and Personal Information Protection Act 1998.
 
-Privacy legislation allows for modification of these principles by way of codes of practice, public interest directions and statutory guidelines and regulations. The department's [Privacy Code of Practice (PDF 147.28KB)](https://education.nsw.gov.au/about-us/rights-and-accountability/media/documents/privacy-documents/privacy_code.pdf) modifies Information Protection Principles as they relate to certain functions of the department. A number of public interest directions made by the Privacy Commissioner also waive or modify the application of these principles to the department. Four statutory guidelines have been developed to explain exceptions to the health privacy principles.
+## What information do we collect?
 
-## Collection of information
+When you look at the pages on the Department of Education site, our computers automatically record information that identifies, for each page accessed:
 
-The department collects a significant volume of personal information in the administration and provision of its education, training and community services. The main classes of information collected are employee, student and other stakeholder information including information about parents and carers and information obtained in the course of developing and managing business relationships.
+  * the IP (Internet Protocol) address of the machine which has accessed it;
+  * your top-level domain name (for example .com, .gov, .au, .uk etc.);
+  * the address of your server;
+  * the date and time of your visit to the site;
+  * the pages accessed and documents downloaded;
+  * the previous site visited; and
+  * the type of browser and operating system you have used.
 
-When collecting personal information the department will take reasonable steps to ensure that the person to whom it relates is made aware of certain matters including the purpose for which it is being collected, the intended recipients of the information and the person's right to access and correct the information. In most instances this will be achieved by a issuing a collection notice in connection with the collection.
 
-Further information about collection of information can be accessed from the [Privacy Management Plan (PDF 552.65KB)](https://education.nsw.gov.au/about-us/rights-and-accountability/media/documents/privacy-documents/privacy-management-plan-march-2014.pdf) and [Collection Notice – Schools (PDF 339.18KB)](https://education.nsw.gov.au/about-us/rights-and-accountability/media/documents/privacy-documents/collection-notice.pdf)
 
-## Complaints
+## Cookies
 
-If you are dissatisfied with the way in which the department has handled your personal or health information you can request an internal review of such conduct. A request must be in writing and addressed to the department using the [internal review application form (PDF 149.27KB)](https://education.nsw.gov.au/about-us/rights-and-accountability/media/documents/privacy-documents/privacy-review-form.pdf).
+'Cookies' are small pieces of text data that a web server can store on, and later retrieve from, a user's computer. They do not personally identify you, but do identify your browser. Cookies can be either 'persistent' or 'session' based. Persistent cookies are stored on your computer, contain an expiration date, and may be used to track your browsing behaviour upon return to the issuing web site. Session cookies are short-lived, are used only during a browsing session, and expire when you shut down your browser.
 
-## Access and amendment
+The Department of Education website uses persistent cookies.
 
-If you want to access or amend your own personal or health information you can go directly to the business centre responsible for the information. You can contact the Schools and Community Senior Information Officer on 02 9561 8999 for assistance in identifying the relevant business centre or complete a request form, available from this site, and lodge it with the business centre. Requests for access to your personal information can also be made to the department's Information Access Unit.
+They record your preferences in relation to your use of the site and provide us with other information about your enquiry that allows us to recognise your browser if you return to this website in the future. This allows the Department of Education to present information that may be most relevant to you based on your previous visits. They also help the Department of Education to understand what parts of the site users find the most useful and improve the effectiveness of the website.
 
-## Other related information
+The cookies on this site do not read the information on your hard drive. They do not make your computer perform any actions or make your computer send information to any other computer via the internet. The Department of Education makes no attempt to associate cookies with users' names or identities. Our server cannot find out your name or email address, or anything about your computer, by using cookies.
 
-[Privacy Bulletins (PDF 484.98KB)](https://education.nsw.gov.au/about-us/rights-and-accountability/media/documents/privacy-documents/privacy-bulletin-number-9.pdf) and [Legal Issues Bulletins](https://education.nsw.gov.au/about-us/rights-and-accountability/legal-issues-bulletins) provide guidance to staff in the application of privacy principles.  Privacy Bulletins are currently under review and not all are publicly accessible. Links to these bulletins will be provided as soon as the review process is complete.
+## How do we use the information collected?
 
-The [Information and Privacy Commission NSW](http://www.ipc.nsw.gov.au/privacy/ipc_index.html) provides support and information to the public and department to ensure the objectives of privacy legislation are achieved. Factsheets and other resources are available from the Information and Privacy Commission website.
+The information collected during each visit is aggregated with similar logged information and published in reports in order for Department of Education to identify patterns of usage of the site. This will assist us in improving this site and the services offered on it.
+
+The Department of Education will not disclose or publish information that identifies individual machines, or potentially identifies sub-groupings of addresses, without consent or otherwise in accordance with the New South Wales Privacy and Personal Information Protection Act 1998.
+
+## What exemptions are there to this rule?
+
+The Department of Education will collect, use and disclose more extensive information than stated above in the following circumstances:
+
+  * unauthorised attempts to access files which are not published Department of Education pages;
+  * unauthorised tampering or interference with files published on the Department of Education site;
+  * unauthorised attempts to index the contents of the Department of Education site by other sites;
+  * attempts to intercept messages of other users of the Department of Education site;
+  * communications which are defamatory, abusive, vilify individuals or groups or which give rise to a suspicion that an offence is being committed; and
+  * attempts to otherwise compromise the security of the web server, breach the laws of the State of New South Wales or Commonwealth of Australia, or interfere with the enjoyment of the Department of Education site by other users.
+
+
+
+The Department of Education reserves the right to make disclosures to relevant authorities where the use of this site raises a suspicion that an offence is being, or has been, committed.
+
+In the event of an investigation, the Department of Education will provide access to data to any law enforcement agency that may exercise a warrant to inspect our logs.
+
+## Is the information stored securely?
+
+Yes. Information collected is stored in an appropriately secure format and held by the Department of Education for archival purposes. When the information is no longer required for the purposes for which it was collected it is deleted.
+
+## What will we do with information provided as feedback?
+
+The Department of Education may provide feedback facilities on this site to allow users to provide input into the future development of the site and to comment on the provision of service by the department.
+
+Users provide personal details for the purpose of receiving a reply to their feedback. This information will only be used for the purpose for which it was provided. We will not add your email address or name to any mailing list.
+
+## Will this policy be updated over time?
+
+Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time. The amended policy will be posted to this site and will operate from the time it is posted.
