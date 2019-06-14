@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showybeauty.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129145545id_/http%3A//www.showybeauty.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showybeauty.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614193342id_/http%3A//www.showybeauty.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Showy Beauty - Hq Erotica, Younger Babes, Nude Girls, Erotic Movies, Erotic Pictures
 
