@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bio-rad.com privacy policy that was archived on 2018-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181209072013id_/http%3A//bio-rad.com/en-us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bio-rad.com privacy policy that was archived on 2019-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190614054534id_/http%3A//www.bio-rad.com/en-us/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><script type="text/javascript" async="" src="//statse.webtrendslive.com/dcsbrva7h00000kra6ghxuc1o_3j8k/wtid.js?callback=Webtrends.dcss.dcsobj_0.dcsGetIdCallback"></script><script async="" src="/evportal/framework/skins/evolution/js/webtrends.min.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -48,7 +48,7 @@
 <meta name="DREKEY" content="http://www.bio-rad.com/en-us/privacy?">
 <meta name="DCSext.session_type" content="B2C">
 <meta name="DCSext.vertical" content="LSR">
-<meta name="WT.cg_n" content="PrivacyPolicy"><script type="text/javascript" src="/evportal/framework/skins/evolution/minified/main-min.js"></script>
+<meta name="WT.cg_n" content="PrivacyPolicy"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MJ2DN2S"></script><script type="text/javascript" src="/evportal/framework/skins/evolution/minified/main-min.js"></script>
 <link rel="Canonical" href="http://www.bio-rad.com/en-us/privacy?">
 <script language="javascript" type="text/javascript">
 var munchkinAccountID = '272-THL-329';
@@ -106,14 +106,60 @@ var munchkinAccountID = '272-THL-329';
 			$('.headcart').load("/prd/en/US/adirect/biorad?ts=1&tstamp="+tstamp+"&cmd=BRHeaderCartModule&isPortalReq=Y");
 		}
 		
+       function syncSession(sdkLoginStatus, loggedIn) {
+       	    tstamp = (new Date()).getTime();
+       //console.log("inside syncSession...");
+            $.ajax({
+				type: "GET", 
+				url: "/sessionSync?loggedIn=" + loggedIn + "&sdkLoginStatus=" + sdkLoginStatus  + "&tstamp=" + tstamp,
+                async: false,
+				success: function(data){
+					//console.log('data==>' + data);
+					//alert('data==>' + data);
+       				var dataObj = $(data);
+       				b2bSessionRedirect = $("#b2bSessionRedirect", dataObj).attr('value');
+       				logout = $("#logout", dataObj).attr('value');
+       				sterlinghost = $("#sterlinghost", dataObj).attr('value');
+       				syncLivesite = $("#syncLivesite", dataObj).attr('value');
+       
+					//console.log('b2bSessionRedirect=>:' + b2bSessionRedirect + ':logout' + logout + ':syncLivesite=>' + syncLivesite + ':');
+       				if(syncLivesite != undefined && syncLivesite == 'true') {
+						//console.log('in syncLivesite');
+       					$.ajax({
+                            type: "GET", 
+                            url: "/bio-rad/login-endpoint.page?tstamp=" + tstamp,
+                            async: false,
+                            success: function(data){
+       							//alert('going to reload');
+       							window.location.reload();
+       						}
+       					});
+       				} else if(logout != undefined && logout == 'true') {
+       					invokeLogoutComplete(sterlinghost);
+       					if(b2bSessionRedirect != undefined && b2bSessionRedirect == 'true') {
+       						window.location.href=sterlinghost + "/b2bSessionTimeout";
+       					}
+       					return false;
+       				}
+       				
+       			},
+				error: function (XMLHttpRequest, textStatus, errorThrown) {
+					//alert('err=>' + errorThrown);
+				}
+			});
+       return true;
+       }
+       
        function showUserLoginData() {	
+        tstamp = (new Date()).getTime();
 		var action_sso ="/sessionUser?tstamp="+tstamp;
+        
 		$.ajax({
 				type: "GET", 
 				url: action_sso,
 				dataType:"json",
 				success: function(json){																	
-				
+					syncSession(json.sdkLoginStatus, json.loggedIn);
 					var JsonObject = json;	
        				
 					var successval = JsonObject.success;
@@ -132,7 +178,7 @@ var munchkinAccountID = '272-THL-329';
                         });
 						}else{
 							 $("#b2bhelp").remove();
-							 $("#portalloginlink").attr("href", "/en-us/ssologout")
+                             $("#portalloginlink").attr("href", "/en-us/ssologout?tstamp="+tstamp)
 							$("#portalloginlink").text("Log Out");
       					}
        				
@@ -352,112 +398,112 @@ var munchkinAccountID = '272-THL-329';
                         </li><li class="mega-unit mega-hdr" style="height:100% !important">
                            <ul>
                               <li>&nbsp;</li>
-                              <li>&nbsp;</li><input type="hidden" id="link_15" value="Life Science Research > Products > Nucleic Acid Extraction &amp; Purification"><li><a onclick="null" href="/en-us/category/nucleic-acid-extraction-purification?ID=5dcc6533-68a3-44c3-9502-938fb84d9fc6"><span onmousedown="callwt(15)">Nucleic Acid Extraction &amp; Purification</span></a></li><input type="hidden" id="link_16" value="Life Science Research > Products > Protein Sample Preparation"><li><a onclick="null" href="/en-us/category/protein-sample-preparation?ID=9a9a7c87-68c1-41d3-9eaf-014f974001a1"><span onmousedown="callwt(16)">Protein Sample Preparation</span></a></li><input type="hidden" id="link_17" value="Life Science Research > Products > Protein Interaction Analysis"><li><a onclick="null" href="/en-us/category/protein-interaction-analysis?ID=cfcf89c2-a3c9-454d-857c-4bb2f156f924"><span onmousedown="callwt(17)">Protein Interaction Analysis</span></a></li><input type="hidden" id="link_18" value="Life Science Research > Products > Sample Quantitation"><li><a onclick="null" href="/en-us/category/sample-quantitation?ID=43e06ea5-f681-4d84-abb8-e81295ad2c28"><span onmousedown="callwt(18)">Sample Quantitation</span></a></li><input type="hidden" id="link_19" value="Life Science Research > Products > SELDI Technology"><li><a onclick="null" href="/en-us/category/seldi-technology?ID=5781b780-ddf1-4f80-8d32-58e308e33a60"><span onmousedown="callwt(19)">SELDI Technology</span></a></li><input type="hidden" id="link_20" value="Life Science Research > Products > General Laboratory Equipment"><li><a onclick="null" href="/en-us/category/general-laboratory-equipment?ID=MTV00415"><span onmousedown="callwt(20)">General Laboratory Equipment</span></a></li>
+                              <li>&nbsp;</li><input type="hidden" id="link_15" value="Life Science Research > Products > Protein Sample Preparation"><li><a onclick="null" href="/en-us/category/protein-sample-preparation?ID=9a9a7c87-68c1-41d3-9eaf-014f974001a1"><span onmousedown="callwt(15)">Protein Sample Preparation</span></a></li><input type="hidden" id="link_16" value="Life Science Research > Products > Protein Interaction Analysis"><li><a onclick="null" href="/en-us/category/protein-interaction-analysis?ID=cfcf89c2-a3c9-454d-857c-4bb2f156f924"><span onmousedown="callwt(16)">Protein Interaction Analysis</span></a></li><input type="hidden" id="link_17" value="Life Science Research > Products > Sample Quantitation"><li><a onclick="null" href="/en-us/category/sample-quantitation?ID=43e06ea5-f681-4d84-abb8-e81295ad2c28"><span onmousedown="callwt(17)">Sample Quantitation</span></a></li><input type="hidden" id="link_18" value="Life Science Research > Products > SELDI Technology"><li><a onclick="null" href="/en-us/category/seldi-technology?ID=5781b780-ddf1-4f80-8d32-58e308e33a60"><span onmousedown="callwt(18)">SELDI Technology</span></a></li><input type="hidden" id="link_19" value="Life Science Research > Products > General Laboratory Equipment"><li><a onclick="null" href="/en-us/category/general-laboratory-equipment?ID=MTV00415"><span onmousedown="callwt(19)">General Laboratory Equipment</span></a></li>
                            </ul>
                         </li><li class="mega-unit mega-hdr last" style="height:100% !important">
-                           <ul class="someDivider">
-                              <li><a onclick="null" href="/en-us/life-science-research/applications-technologies?ID=1120"><span onmousedown="callwt(23)"><strong>Applications &amp; Technologies</strong></span></a></li><input type="hidden" id="link_23" value="Life Science Research > Applications &amp; Technologies"><li><a onclick="null" href="/en-us/life-science-research/promotions?ID=1130"><span onmousedown="callwt(25)"><strong>Promotions</strong></span></a></li><input type="hidden" id="link_25" value="Life Science Research > Promotions"><li><a onclick="null" href="/en-us/life-science-research/news-events?ID=1135"><span onmousedown="callwt(27)"><strong>News &amp; Events</strong></span></a></li><input type="hidden" id="link_27" value="Life Science Research > News &amp;amp; Events"><li class="leafsupport"><a onclick="null" class="leafsupport" href="/en-us/life-science-research/support?ID=1140"><span onmousedown="callwt(29)"><strong>Support</strong></span></a><ul class="mainProducts1"><input type="hidden" id="link_30" value="Life Science Research > Support > Purchasing and Service Programs"><li><a onclick="null" href="/en-us/life-science-research/support/purchasing-service-programs?ID=LUL9IQ4VY"><span onmousedown="callwt(30)">Purchasing and Service Programs</span></a></li><input type="hidden" id="link_31" value="Life Science Research > Support > Tutorials"><li><a onclick="null" href="/en-us/life-science-research/support/tutorials?ID=KVY62KE8Z"><span onmousedown="callwt(31)">Tutorials</span></a></li><input type="hidden" id="link_32" value="Life Science Research > Support > Webinars"><li><a onclick="null" href="/en-us/life-science-research/support/webinars?ID=KVY63C4VY"><span onmousedown="callwt(32)">Webinars</span></a></li><input type="hidden" id="link_33" value="Life Science Research > Support > Certificate of Analysis"><li><a onclick="null" href="/en-us/life-science-research/support/certificate-of-analysis?ID=KVY63TKG4"><span onmousedown="callwt(33)">Certificate of Analysis</span></a></li><input type="hidden" id="link_34" value="Life Science Research > Support > Literature Library"><li><a onclick="null" href="/en-us/literature-library?ID=MDEBZT15"><span onmousedown="callwt(34)">Literature Library</span></a></li>
+                           <ul class="someDivider"><li><a style="padding:4px 5px 4px 20px !important;" target="_blank" href="https://www.bioradiations.com/"><span><strong>Bioradiations Magazine</strong><img style="padding-left:3px;" src="/evportal/framework/skins/evolution/images/target-link.png"></span></a></li>
+                              <li><a onclick="null" href="/en-us/life-science-research/applications-technologies?ID=1120"><span onmousedown="callwt(22)"><strong>Applications &amp; Technologies</strong></span></a></li><input type="hidden" id="link_22" value="Life Science Research > Applications &amp; Technologies"><li><a onclick="null" href="/en-us/life-science-research/promotions?ID=1130"><span onmousedown="callwt(24)"><strong>Promotions</strong></span></a></li><input type="hidden" id="link_24" value="Life Science Research > Promotions"><li><a onclick="null" href="/en-us/life-science-research/news-events?ID=1135"><span onmousedown="callwt(26)"><strong>News &amp; Events</strong></span></a></li><input type="hidden" id="link_26" value="Life Science Research > News &amp;amp; Events"><li class="leafsupport"><a onclick="null" class="leafsupport" href="/en-us/life-science-research/support?ID=1140"><span onmousedown="callwt(28)"><strong>Support</strong></span></a><ul class="mainProducts1"><input type="hidden" id="link_29" value="Life Science Research > Support > Purchasing and Service Programs"><li><a onclick="null" href="/en-us/life-science-research/support/purchasing-service-programs?ID=LUL9IQ4VY"><span onmousedown="callwt(29)">Purchasing and Service Programs</span></a></li><input type="hidden" id="link_30" value="Life Science Research > Support > Tutorials"><li><a onclick="null" href="/en-us/life-science-research/support/tutorials?ID=KVY62KE8Z"><span onmousedown="callwt(30)">Tutorials</span></a></li><input type="hidden" id="link_31" value="Life Science Research > Support > Webinars"><li><a onclick="null" href="/en-us/life-science-research/support/webinars?ID=KVY63C4VY"><span onmousedown="callwt(31)">Webinars</span></a></li><input type="hidden" id="link_32" value="Life Science Research > Support > Certificate of Analysis"><li><a onclick="null" href="/en-us/life-science-research/support/certificate-of-analysis?ID=KVY63TKG4"><span onmousedown="callwt(32)">Certificate of Analysis</span></a></li><input type="hidden" id="link_33" value="Life Science Research > Support > Literature Library"><li><a onclick="null" href="/en-us/literature-library?ID=MDEBZT15"><span onmousedown="callwt(33)">Literature Library</span></a></li>
                                  </ul>
-                              </li><input type="hidden" id="link_29" value="Life Science Research > Support"></ul>
+                              </li><input type="hidden" id="link_28" value="Life Science Research > Support"></ul>
                         </li></div>
                         
                         
                         
                      </ul></div>
-                  </li><input type="hidden" id="link_35" value="Clinical Diagnostics"><li class="leftAlignedCDG dc-mega-li"><a class="dc-mega" onclick="null" href="/en-us/clinical-diagnostics?ID=1200" id="mega-menu-a-CDG"><span onmousedown="callwt(35)">Clinical Diagnostics</span></a><div class="sub-container mega" style="left: 0px; top: 17px; z-index: 1000;"><ul class="sub" style="display: none;"><input type="hidden" id="link_35" value="Clinical Diagnostics > Products"><div class="row" style="width: 5080px;"><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/clinical-diagnostics/products?ID=1215"><span onmousedown="callwt(38)"><strong>Products</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_32" value="Clinical Diagnostics > Products > Autoimmune"><li><a onclick="null" href="/en-us/category/autoimmune?ID=1a1ffd2e-c4cf-4752-83a8-4b93663b4a15"><span onmousedown="callwt(32)">Autoimmune</span></a></li><input type="hidden" id="link_33" value="Clinical Diagnostics > Products > BioPlex<sup>&amp;reg;</sup> 2200 Multiplex Testing"><li><a onclick="null" href="/en-us/category/bioplex-2200-multiplex-testing?ID=a82cd166-67ca-4696-91a8-a98a550936f2"><span onmousedown="callwt(33)">BioPlex<sup>®</sup> 2200 Multiplex Testing</span></a></li><input type="hidden" id="link_34" value="Clinical Diagnostics > Products > Blood Virus"><li><a onclick="null" href="/en-us/category/blood-virus?ID=M4T21315"><span onmousedown="callwt(34)">Blood Virus</span></a></li><input type="hidden" id="link_35" value="Clinical Diagnostics > Products > Diabetes Testing"><li><a onclick="null" href="/en-us/category/diabetes-testing?ID=b26016d2-10a9-4020-bb12-e024c2c4fb17"><span onmousedown="callwt(35)">Diabetes Testing</span></a></li><input type="hidden" id="link_36" value="Clinical Diagnostics > Products > Hemoglobinopathies"><li><a onclick="null" href="/en-us/category/hemoglobinopathies?ID=db0ccc31-1bd2-4539-b6c0-f5f08f4153c4"><span onmousedown="callwt(36)">Hemoglobinopathies</span></a></li><input type="hidden" id="link_37" value="Clinical Diagnostics > Products > Immunohematology"><li><a onclick="null" href="/en-us/category/immunohematology?ID=KVSPOY15"><span onmousedown="callwt(37)">Immunohematology</span></a></li>
+                  </li><input type="hidden" id="link_34" value="Clinical Diagnostics"><li class="leftAlignedCDG dc-mega-li"><a class="dc-mega" onclick="null" href="/en-us/clinical-diagnostics?ID=1200" id="mega-menu-a-CDG"><span onmousedown="callwt(34)">Clinical Diagnostics</span></a><div class="sub-container mega" style="left: 0px; top: 17px; z-index: 1000;"><ul class="sub" style="display: none;"><input type="hidden" id="link_34" value="Clinical Diagnostics > Products"><div class="row" style="width: 5080px;"><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/clinical-diagnostics/products?ID=1215"><span onmousedown="callwt(37)"><strong>Products</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_31" value="Clinical Diagnostics > Products > Autoimmune"><li><a onclick="null" href="/en-us/category/autoimmune?ID=1a1ffd2e-c4cf-4752-83a8-4b93663b4a15"><span onmousedown="callwt(31)">Autoimmune</span></a></li><input type="hidden" id="link_32" value="Clinical Diagnostics > Products > BioPlex 2200 Multiplex Testing"><li><a onclick="null" href="/en-us/category/bioplex-2200-multiplex-testing?ID=a82cd166-67ca-4696-91a8-a98a550936f2"><span onmousedown="callwt(32)">BioPlex 2200 Multiplex Testing</span></a></li><input type="hidden" id="link_33" value="Clinical Diagnostics > Products > Blood Virus"><li><a onclick="null" href="/en-us/category/blood-virus?ID=M4T21315"><span onmousedown="callwt(33)">Blood Virus</span></a></li><input type="hidden" id="link_34" value="Clinical Diagnostics > Products > Diabetes Testing"><li><a onclick="null" href="/en-us/category/diabetes-testing?ID=b26016d2-10a9-4020-bb12-e024c2c4fb17"><span onmousedown="callwt(34)">Diabetes Testing</span></a></li><input type="hidden" id="link_35" value="Clinical Diagnostics > Products > Hemoglobinopathies"><li><a onclick="null" href="/en-us/category/hemoglobinopathies?ID=db0ccc31-1bd2-4539-b6c0-f5f08f4153c4"><span onmousedown="callwt(35)">Hemoglobinopathies</span></a></li><input type="hidden" id="link_36" value="Clinical Diagnostics > Products > Immunohematology"><li><a onclick="null" href="/en-us/category/immunohematology?ID=KVSPOY15"><span onmousedown="callwt(36)">Immunohematology</span></a></li>
                            </ul>
                         </li><li class="mega-unit mega-hdr" style="height:100% !important">
                            <ul>
                               <li>&nbsp;</li>
-                              <li>&nbsp;</li><input type="hidden" id="link_38" value="Clinical Diagnostics > Products > Microbiology"><li><a onclick="null" href="/en-us/category/microbiology?ID=M4SXK915"><span onmousedown="callwt(38)">Microbiology</span></a></li><input type="hidden" id="link_39" value="Clinical Diagnostics > Products > Newborn Screening"><li><a onclick="null" href="/en-us/category/newborn-screening?ID=a1d3e84d-a5ed-4c40-834d-640cdec2b3e4"><span onmousedown="callwt(39)">Newborn Screening</span></a></li><input type="hidden" id="link_40" value="Clinical Diagnostics > Products > Quality Control"><li><a onclick="null" href="/en-us/category/quality-control?ID=b11f022f-7ced-4bf0-aaaa-dcdc8affc787"><span onmousedown="callwt(40)">Quality Control</span></a></li><input type="hidden" id="link_41" value="Clinical Diagnostics > Products > Special Chemistry"><li><a onclick="null" href="/en-us/category/special-chemistry?ID=95cde388-768f-44d0-b94e-b22da247fd84"><span onmousedown="callwt(41)">Special Chemistry</span></a></li><input type="hidden" id="link_42" value="Clinical Diagnostics > Products > Instrumentation"><li><a onclick="null" href="/en-us/category/instrumentation?ID=8117f7dc-d739-42fe-8f67-d311bd001654"><span onmousedown="callwt(42)">Instrumentation</span></a></li><input type="hidden" id="link_43" value="Clinical Diagnostics > Products > Critical Raw Materials"><li><a onclick="null" href="/en-us/category/critical-raw-materials?ID=MG36I94VY"><span onmousedown="callwt(43)">Critical Raw Materials</span></a></li>
+                              <li>&nbsp;</li><input type="hidden" id="link_37" value="Clinical Diagnostics > Products > Microbiology"><li><a onclick="null" href="/en-us/category/microbiology?ID=M4SXK915"><span onmousedown="callwt(37)">Microbiology</span></a></li><input type="hidden" id="link_38" value="Clinical Diagnostics > Products > Newborn Screening"><li><a onclick="null" href="/en-us/category/newborn-screening?ID=a1d3e84d-a5ed-4c40-834d-640cdec2b3e4"><span onmousedown="callwt(38)">Newborn Screening</span></a></li><input type="hidden" id="link_39" value="Clinical Diagnostics > Products > Quality Control"><li><a onclick="null" href="/en-us/category/quality-control?ID=b11f022f-7ced-4bf0-aaaa-dcdc8affc787"><span onmousedown="callwt(39)">Quality Control</span></a></li><input type="hidden" id="link_40" value="Clinical Diagnostics > Products > Special Chemistry"><li><a onclick="null" href="/en-us/category/special-chemistry?ID=95cde388-768f-44d0-b94e-b22da247fd84"><span onmousedown="callwt(40)">Special Chemistry</span></a></li><input type="hidden" id="link_41" value="Clinical Diagnostics > Products > Instrumentation"><li><a onclick="null" href="/en-us/category/instrumentation?ID=8117f7dc-d739-42fe-8f67-d311bd001654"><span onmousedown="callwt(41)">Instrumentation</span></a></li><input type="hidden" id="link_42" value="Clinical Diagnostics > Products > Critical Raw Materials"><li><a onclick="null" href="/en-us/category/critical-raw-materials?ID=MG36I94VY"><span onmousedown="callwt(42)">Critical Raw Materials</span></a></li>
                            </ul>
                         </li><li class="mega-unit mega-hdr" style="height:100% !important">
                            <ul>
                               <li>&nbsp;</li>
-                              <li>&nbsp;</li><input type="hidden" id="link_44" value="Clinical Diagnostics > Products > Remote Monitoring &amp; Support"><li><a onclick="null" href="/en-us/category/remote-monitoring-support?ID=MZQ28F15"><span onmousedown="callwt(44)">Remote Monitoring &amp; Support</span></a></li>
+                              <li>&nbsp;</li><input type="hidden" id="link_43" value="Clinical Diagnostics > Products > Remote Monitoring &amp; Support"><li><a onclick="null" href="/en-us/category/remote-monitoring-support?ID=MZQ28F15"><span onmousedown="callwt(43)">Remote Monitoring &amp; Support</span></a></li>
                            </ul>
                         </li><li class="mega-unit mega-hdr last" style="height:100% !important">
                            <ul class="someDivider">
-                              <li><a onclick="null" href="/en-us/clinical-diagnostics/news-events?ID=1235"><span onmousedown="callwt(52)"><strong>News &amp; Events</strong></span></a></li><input type="hidden" id="link_52" value="Clinical Diagnostics > News &amp; Events"><li class="leafsupport"><a onclick="null" class="leafsupport" href="/en-us/clinical-diagnostics/support?ID=1240"><span onmousedown="callwt(54)"><strong>Support</strong></span></a><ul class="mainProducts1"><input type="hidden" id="link_55" value="Clinical Diagnostics > Support > Certificate of Analysis"><li><a onclick="null" href="/en-us/clinical-diagnostics/support/certificate-of-analysis?ID=KVY6R1ESH"><span onmousedown="callwt(55)">Certificate of Analysis</span></a></li><input type="hidden" id="link_56" value="Clinical Diagnostics > Support > Literature Library"><li><a onclick="null" href="/en-us/literature-library?ID=MDECBGC4S"><span onmousedown="callwt(56)">Literature Library</span></a></li>
+                              <li><a onclick="null" href="/en-us/clinical-diagnostics/news-events?ID=1235"><span onmousedown="callwt(51)"><strong>News &amp; Events</strong></span></a></li><input type="hidden" id="link_51" value="Clinical Diagnostics > News &amp; Events"><li class="leafsupport"><a onclick="null" class="leafsupport" href="/en-us/clinical-diagnostics/support?ID=1240"><span onmousedown="callwt(53)"><strong>Support</strong></span></a><ul class="mainProducts1"><input type="hidden" id="link_54" value="Clinical Diagnostics > Support > Certificate of Analysis"><li><a onclick="null" href="/en-us/clinical-diagnostics/support/certificate-of-analysis?ID=KVY6R1ESH"><span onmousedown="callwt(54)">Certificate of Analysis</span></a></li><input type="hidden" id="link_55" value="Clinical Diagnostics > Support > Literature Library"><li><a onclick="null" href="/en-us/literature-library?ID=MDECBGC4S"><span onmousedown="callwt(55)">Literature Library</span></a></li>
                                  </ul>
-                              </li><input type="hidden" id="link_54" value="Clinical Diagnostics > Support"></ul>
+                              </li><input type="hidden" id="link_53" value="Clinical Diagnostics > Support"></ul>
                         </li></div>
                         
                         
                         
                      </ul></div>
-                  </li><input type="hidden" id="link_57" value="Spectroscopy"><li class="leftAlignedINF dc-mega-li"><a class="dc-mega" onclick="null" href="/en-us/spectroscopy?ID=1300" id="mega-menu-a-INF"><span onmousedown="callwt(57)">Spectroscopy</span></a><div class="sub-container mega" style="left: 0px; top: 17px; z-index: 1000;"><ul class="sub" style="display: none;"><input type="hidden" id="link_57" value="Spectroscopy > Products"><div class="row" style="width: 2540px;"><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/spectroscopy/products?ID=1315"><span onmousedown="callwt(60)"><strong>Products</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_51" value="Spectroscopy > Products > Spectral Databases"><li><a onclick="null" href="/en-us/category/spectral-databases?ID=N0ZXK415"><span onmousedown="callwt(51)">Spectral Databases</span></a></li><input type="hidden" id="link_52" value="Spectroscopy > Products > Spectroscopy Software"><li><a onclick="null" href="/en-us/category/spectroscopy-software?ID=N19OA0E8Z"><span onmousedown="callwt(52)">Spectroscopy Software</span></a></li><input type="hidden" id="link_53" value="Spectroscopy > Products > Chemistry Software"><li><a onclick="null" href="/en-us/category/chemistry-software?ID=P7E7WSTU86LJ"><span onmousedown="callwt(53)">Chemistry Software</span></a></li><input type="hidden" id="link_54" value="Spectroscopy > Products > Spectroscopy for Schools"><li><a onclick="null" href="/en-us/category/spectroscopy-for-schools?ID=NH26GUKG4"><span onmousedown="callwt(54)">Spectroscopy for Schools</span></a></li>
+                  </li><input type="hidden" id="link_56" value="Spectroscopy"><li class="leftAlignedINF dc-mega-li"><a class="dc-mega" onclick="null" href="/en-us/spectroscopy?ID=1300" id="mega-menu-a-INF"><span onmousedown="callwt(56)">Spectroscopy</span></a><div class="sub-container mega" style="left: 0px; top: 17px; z-index: 1000;"><ul class="sub" style="display: none;"><input type="hidden" id="link_56" value="Spectroscopy > Products"><div class="row" style="width: 2540px;"><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/spectroscopy/products?ID=1315"><span onmousedown="callwt(59)"><strong>Products</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_50" value="Spectroscopy > Products > Spectral Databases"><li><a onclick="null" href="/en-us/category/spectral-databases?ID=N0ZXK415"><span onmousedown="callwt(50)">Spectral Databases</span></a></li><input type="hidden" id="link_51" value="Spectroscopy > Products > Spectroscopy Software"><li><a onclick="null" href="/en-us/category/spectroscopy-software?ID=N19OA0E8Z"><span onmousedown="callwt(51)">Spectroscopy Software</span></a></li><input type="hidden" id="link_52" value="Spectroscopy > Products > Chemistry Software"><li><a onclick="null" href="/en-us/category/chemistry-software?ID=P7E7WSTU86LJ"><span onmousedown="callwt(52)">Chemistry Software</span></a></li><input type="hidden" id="link_53" value="Spectroscopy > Products > Spectroscopy for Schools"><li><a onclick="null" href="/en-us/category/spectroscopy-for-schools?ID=NH26GUKG4"><span onmousedown="callwt(53)">Spectroscopy for Schools</span></a></li>
                            </ul>
                         </li><li class="mega-unit mega-hdr last" style="height:100% !important">
                            <ul class="someDivider">
-                              <li><a onclick="null" href="/en-us/spectroscopy/news-events?ID=1335"><span onmousedown="callwt(65)"><strong>News &amp; Events</strong></span></a></li><input type="hidden" id="link_65" value="Spectroscopy > News &amp;amp; Events"><li class="leafsupport"><a onclick="null" class="leafsupport" href="/en-us/spectroscopy/support?ID=1340"><span onmousedown="callwt(67)"><strong>Support</strong></span></a></li><input type="hidden" id="link_67" value="Spectroscopy > Support"></ul>
+                              <li><a onclick="null" href="/en-us/spectroscopy/news-events?ID=1335"><span onmousedown="callwt(64)"><strong>News &amp; Events</strong></span></a></li><input type="hidden" id="link_64" value="Spectroscopy > News &amp;amp; Events"><li class="leafsupport"><a onclick="null" class="leafsupport" href="/en-us/spectroscopy/support?ID=1340"><span onmousedown="callwt(66)"><strong>Support</strong></span></a></li><input type="hidden" id="link_66" value="Spectroscopy > Support"></ul>
                         </li></div>
                         
                      </ul></div>
-                  </li><input type="hidden" id="link_68" value="Process Separations"><li class="leftAlignedPSD dc-mega-li"><a class="dc-mega" onclick="null" href="/en-us/process-separations?ID=1400" id="mega-menu-a-PSD"><span onmousedown="callwt(68)">Process Separations</span></a><div class="sub-container mega" style="left: 0px; top: 17px; z-index: 1000;"><ul class="sub" style="display: none;"><input type="hidden" id="link_68" value="Process Separations > Products"><div class="row" style="width: 3810px;"><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/process-separations/products?ID=1415"><span onmousedown="callwt(71)"><strong>Products</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_59" value="Process Separations > Products > Ion Exchange Resins"><li><a onclick="null" href="/en-us/category/ion-exchange-resins?ID=788e7571-32fc-4805-a251-cf67d931148a"><span onmousedown="callwt(59)">Ion Exchange Resins</span></a></li><input type="hidden" id="link_60" value="Process Separations > Products > Mixed-Mode Resins"><li><a onclick="null" href="/en-us/category/mixed-mode-resins?ID=256c09fd-5217-4d81-9356-0cd0fd13f336"><span onmousedown="callwt(60)">Mixed-Mode Resins</span></a></li><input type="hidden" id="link_61" value="Process Separations > Products > Affinity Resins"><li><a onclick="null" href="/en-us/category/affinity-resins?ID=b2799d7b-bef5-4e10-9266-22043ea43c7a"><span onmousedown="callwt(61)">Affinity Resins</span></a></li><input type="hidden" id="link_62" value="Process Separations > Products > Hydrophobic Interaction Chromatography Resins"><li><a onclick="null" href="/en-us/category/hydrophobic-interaction-chromatography-resins?ID=15377fd6-1142-4a14-8ce0-9ae70f6361c2"><span onmousedown="callwt(62)">Hydrophobic Interaction Chromatography Resins</span></a></li><input type="hidden" id="link_63" value="Process Separations > Products > Size Exclusion Resins"><li><a onclick="null" href="/en-us/category/size-exclusion-resins?ID=fa709b0d-a42a-4645-8481-acfa8e6d7485"><span onmousedown="callwt(63)">Size Exclusion Resins</span></a></li><input type="hidden" id="link_64" value="Process Separations > Products > Chromatography Resin Screening Tools"><li><a onclick="null" href="/en-us/category/chromatography-resin-screening-tools?ID=cae5bbc9-1f1f-446b-8805-a7e19438162e"><span onmousedown="callwt(64)">Chromatography Resin Screening Tools</span></a></li>
+                  </li><input type="hidden" id="link_67" value="Process Separations"><li class="leftAlignedPSD dc-mega-li"><a class="dc-mega" onclick="null" href="/en-us/process-separations?ID=1400" id="mega-menu-a-PSD"><span onmousedown="callwt(67)">Process Separations</span></a><div class="sub-container mega" style="left: 0px; top: 17px; z-index: 1000;"><ul class="sub" style="display: none;"><input type="hidden" id="link_67" value="Process Separations > Products"><div class="row" style="width: 3810px;"><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/process-separations/products?ID=1415"><span onmousedown="callwt(70)"><strong>Products</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_58" value="Process Separations > Products > Ion Exchange Resins"><li><a onclick="null" href="/en-us/category/ion-exchange-resins?ID=788e7571-32fc-4805-a251-cf67d931148a"><span onmousedown="callwt(58)">Ion Exchange Resins</span></a></li><input type="hidden" id="link_59" value="Process Separations > Products > Mixed-Mode Resins"><li><a onclick="null" href="/en-us/category/mixed-mode-resins?ID=256c09fd-5217-4d81-9356-0cd0fd13f336"><span onmousedown="callwt(59)">Mixed-Mode Resins</span></a></li><input type="hidden" id="link_60" value="Process Separations > Products > Affinity Resins"><li><a onclick="null" href="/en-us/category/affinity-resins?ID=b2799d7b-bef5-4e10-9266-22043ea43c7a"><span onmousedown="callwt(60)">Affinity Resins</span></a></li><input type="hidden" id="link_61" value="Process Separations > Products > Hydrophobic Interaction Chromatography Resins"><li><a onclick="null" href="/en-us/category/hydrophobic-interaction-chromatography-resins?ID=15377fd6-1142-4a14-8ce0-9ae70f6361c2"><span onmousedown="callwt(61)">Hydrophobic Interaction Chromatography Resins</span></a></li><input type="hidden" id="link_62" value="Process Separations > Products > Size Exclusion Resins"><li><a onclick="null" href="/en-us/category/size-exclusion-resins?ID=fa709b0d-a42a-4645-8481-acfa8e6d7485"><span onmousedown="callwt(62)">Size Exclusion Resins</span></a></li><input type="hidden" id="link_63" value="Process Separations > Products > Chromatography Resin Screening Tools"><li><a onclick="null" href="/en-us/category/chromatography-resin-screening-tools?ID=cae5bbc9-1f1f-446b-8805-a7e19438162e"><span onmousedown="callwt(63)">Chromatography Resin Screening Tools</span></a></li>
                            </ul>
                         </li><li class="mega-unit mega-hdr" style="height:100% !important">
                            <ul>
                               <li>&nbsp;</li>
-                              <li>&nbsp;</li><input type="hidden" id="link_65" value="Process Separations > Products > Process Chromatography Resources"><li><a onclick="null" href="/en-us/category/process-chromatography-resources?ID=NY30I415"><span onmousedown="callwt(65)">Process Chromatography Resources</span></a></li>
+                              <li>&nbsp;</li><input type="hidden" id="link_64" value="Process Separations > Products > Process Chromatography Resources"><li><a onclick="null" href="/en-us/category/process-chromatography-resources?ID=NY30I415"><span onmousedown="callwt(64)">Process Chromatography Resources</span></a></li>
                            </ul>
                         </li><li class="mega-unit mega-hdr last" style="height:100% !important">
-                           <ul class="someDivider">
-                              <li><a onclick="null" href="/en-us/process-separations/news-events?ID=1435"><span onmousedown="callwt(79)"><strong>News &amp; Events</strong></span></a></li><input type="hidden" id="link_79" value="Process Separations > News &amp;amp; Events"><li class="leafsupport"><a onclick="null" class="leafsupport" href="/en-us/process-separations/support?ID=1440"><span onmousedown="callwt(81)"><strong>Support</strong></span></a><ul class="mainProducts1"><input type="hidden" id="link_82" value="Process Separations > Support > Purchasing and Service Programs"><li><a onclick="null" href="/en-us/process-separations/support/purchasing-service-programs?ID=KVY6WNKSY"><span onmousedown="callwt(82)">Purchasing and Service Programs</span></a></li><input type="hidden" id="link_83" value="Process Separations > Support > Tutorials"><li><a onclick="null" href="/en-us/process-separations/support/tutorials?ID=KVY6V68UU"><span onmousedown="callwt(83)">Tutorials</span></a></li><input type="hidden" id="link_84" value="Process Separations > Support > Webinars"><li><a onclick="null" href="/en-us/process-separations/support/webinars?ID=KVY6W0MNI"><span onmousedown="callwt(84)">Webinars</span></a></li><input type="hidden" id="link_85" value="Process Separations > Support > Certificate of Analysis"><li><a onclick="null" href="/en-us/process-separations/support/certificate-of-analysis?ID=KVY6UGC4S"><span onmousedown="callwt(85)">Certificate of Analysis</span></a></li><input type="hidden" id="link_86" value="Process Separations > Support > Literature Library"><li><a onclick="null" href="/en-us/literature-library?ID=MDEC544VY"><span onmousedown="callwt(86)">Literature Library</span></a></li>
+                           <ul class="someDivider"><li><a style="padding:4px 5px 4px 20px !important;" target="_blank" href="https://www.bioradiations.com/"><span><strong>Bioradiations Magazine</strong><img style="padding-left:3px;" src="/evportal/framework/skins/evolution/images/target-link.png"></span></a></li>
+                              <li><a onclick="null" href="/en-us/process-separations/news-events?ID=1435"><span onmousedown="callwt(78)"><strong>News &amp; Events</strong></span></a></li><input type="hidden" id="link_78" value="Process Separations > News &amp;amp; Events"><li class="leafsupport"><a onclick="null" class="leafsupport" href="/en-us/process-separations/support?ID=1440"><span onmousedown="callwt(80)"><strong>Support</strong></span></a><ul class="mainProducts1"><input type="hidden" id="link_81" value="Process Separations > Support > Purchasing and Service Programs"><li><a onclick="null" href="/en-us/process-separations/support/purchasing-service-programs?ID=KVY6WNKSY"><span onmousedown="callwt(81)">Purchasing and Service Programs</span></a></li><input type="hidden" id="link_82" value="Process Separations > Support > Tutorials"><li><a onclick="null" href="/en-us/process-separations/support/tutorials?ID=KVY6V68UU"><span onmousedown="callwt(82)">Tutorials</span></a></li><input type="hidden" id="link_83" value="Process Separations > Support > Webinars"><li><a onclick="null" href="/en-us/process-separations/support/webinars?ID=KVY6W0MNI"><span onmousedown="callwt(83)">Webinars</span></a></li><input type="hidden" id="link_84" value="Process Separations > Support > Certificate of Analysis"><li><a onclick="null" href="/en-us/process-separations/support/certificate-of-analysis?ID=KVY6UGC4S"><span onmousedown="callwt(84)">Certificate of Analysis</span></a></li><input type="hidden" id="link_85" value="Process Separations > Support > Literature Library"><li><a onclick="null" href="/en-us/literature-library?ID=MDEC544VY"><span onmousedown="callwt(85)">Literature Library</span></a></li>
                                  </ul>
-                              </li><input type="hidden" id="link_81" value="Process Separations > Support"></ul>
+                              </li><input type="hidden" id="link_80" value="Process Separations > Support"></ul>
                         </li></div>
                         
                         
                      </ul></div>
-                  </li><input type="hidden" id="link_87" value="Food Science"><li class="leftAlignedFSD dc-mega-li"><a class="dc-mega" onclick="null" href="/en-us/food-science?ID=1475" id="mega-menu-a-FSD"><span onmousedown="callwt(87)">Food Science</span></a><div class="sub-container mega" style="left: 0px; top: 17px; z-index: 1000;"><ul class="sub" style="display: none;"><input type="hidden" id="link_87" value="Food Science > Products"><div class="row" style="width: 3810px;"><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/food-science/products?ID=1482"><span onmousedown="callwt(90)"><strong>Products</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_75" value="Food Science > Products > Food Safety Testing"><li><a onclick="null" href="/en-us/category/food-safety-testing?ID=5e56f0a6-84dd-4d74-be27-f4d1187a3381"><span onmousedown="callwt(75)">Food Safety Testing</span></a></li><input type="hidden" id="link_76" value="Food Science > Products > TSE Testing"><li><a onclick="null" href="/en-us/category/tse-testing?ID=9b98e179-72ee-4cc3-ae68-148771770b37"><span onmousedown="callwt(76)">TSE Testing</span></a></li><input type="hidden" id="link_77" value="Food Science > Products > Veterinary Diagnostics"><li><a onclick="null" href="/en-us/category/veterinary-diagnostics?ID=96b4d58a-3d6c-4762-a1b8-1b95cff8e50f"><span onmousedown="callwt(77)">Veterinary Diagnostics</span></a></li><input type="hidden" id="link_78" value="Food Science > Products > Water Quality Testing"><li><a onclick="null" href="/en-us/category/water-quality-testing?ID=L820LK15"><span onmousedown="callwt(78)">Water Quality Testing</span></a></li><input type="hidden" id="link_79" value="Food Science > Products > Wine Quality Testing"><li><a onclick="null" href="/en-us/category/wine-quality-testing?ID=L820M0E8Z"><span onmousedown="callwt(79)">Wine Quality Testing</span></a></li><input type="hidden" id="link_80" value="Food Science > Products > Zoonosis Monitoring"><li><a onclick="null" href="/en-us/category/zoonosis-monitoring?ID=25c275d3-d744-453a-86d1-3353165c4140"><span onmousedown="callwt(80)">Zoonosis Monitoring</span></a></li>
+                  </li><input type="hidden" id="link_86" value="Food Science"><li class="leftAlignedFSD dc-mega-li"><a class="dc-mega" onclick="null" href="/en-us/food-science?ID=1475" id="mega-menu-a-FSD"><span onmousedown="callwt(86)">Food Science</span></a><div class="sub-container mega" style="left: 0px; top: 17px; z-index: 1000;"><ul class="sub" style="display: none;"><input type="hidden" id="link_86" value="Food Science > Products"><div class="row" style="width: 3810px;"><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/food-science/products?ID=1482"><span onmousedown="callwt(89)"><strong>Products</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_74" value="Food Science > Products > Food Safety Testing"><li><a onclick="null" href="/en-us/category/food-safety-testing?ID=5e56f0a6-84dd-4d74-be27-f4d1187a3381"><span onmousedown="callwt(74)">Food Safety Testing</span></a></li><input type="hidden" id="link_75" value="Food Science > Products > TSE Testing"><li><a onclick="null" href="/en-us/category/tse-testing?ID=9b98e179-72ee-4cc3-ae68-148771770b37"><span onmousedown="callwt(75)">TSE Testing</span></a></li><input type="hidden" id="link_76" value="Food Science > Products > Veterinary Diagnostics"><li><a onclick="null" href="/en-us/category/veterinary-diagnostics?ID=96b4d58a-3d6c-4762-a1b8-1b95cff8e50f"><span onmousedown="callwt(76)">Veterinary Diagnostics</span></a></li><input type="hidden" id="link_77" value="Food Science > Products > Water Quality Testing"><li><a onclick="null" href="/en-us/category/water-quality-testing?ID=L820LK15"><span onmousedown="callwt(77)">Water Quality Testing</span></a></li><input type="hidden" id="link_78" value="Food Science > Products > Wine Quality Testing"><li><a onclick="null" href="/en-us/category/wine-quality-testing?ID=L820M0E8Z"><span onmousedown="callwt(78)">Wine Quality Testing</span></a></li><input type="hidden" id="link_79" value="Food Science > Products > Zoonosis Monitoring"><li><a onclick="null" href="/en-us/category/zoonosis-monitoring?ID=25c275d3-d744-453a-86d1-3353165c4140"><span onmousedown="callwt(79)">Zoonosis Monitoring</span></a></li>
                            </ul>
                         </li><li class="mega-unit mega-hdr" style="height:100% !important">
                            <ul>
                               <li>&nbsp;</li>
-                              <li>&nbsp;</li><input type="hidden" id="link_81" value="Food Science > Products > Food Science Equipment and Supplies"><li><a onclick="null" href="/en-us/category/food-science-equipment-supplies?ID=99ce5e65-ea0a-4a38-8ace-7b78899d3916"><span onmousedown="callwt(81)">Food Science Equipment and Supplies</span></a></li>
+                              <li>&nbsp;</li><input type="hidden" id="link_80" value="Food Science > Products > Food Science Equipment and Supplies"><li><a onclick="null" href="/en-us/category/food-science-equipment-supplies?ID=99ce5e65-ea0a-4a38-8ace-7b78899d3916"><span onmousedown="callwt(80)">Food Science Equipment and Supplies</span></a></li>
                            </ul>
                         </li><li class="mega-unit mega-hdr last" style="height:100% !important">
-                           <ul class="someDivider">
-                              <li><a onclick="null" href="/en-us/food-science/promotions?ID=917ab091-83d7-4779-b460-9f523fb80fe4"><span onmousedown="callwt(98)"><strong>Promotions</strong></span></a></li><input type="hidden" id="link_98" value="Food Science > Promotions"><li><a onclick="null" href="/en-us/food-science/news-events?ID=1493"><span onmousedown="callwt(100)"><strong>News &amp; Events</strong></span></a></li><input type="hidden" id="link_100" value="Food Science > News &amp;amp; Events"><li class="leafsupport"><a onclick="null" class="leafsupport" href="/en-us/food-science/support?ID=1495"><span onmousedown="callwt(102)"><strong>Support</strong></span></a><ul class="mainProducts1"><input type="hidden" id="link_103" value="Food Science > Support > Purchasing and Service Programs"><li><a onclick="null" href="/en-us/food-science/support/purchasing-service-programs?ID=KVY6Y2IVK"><span onmousedown="callwt(103)">Purchasing and Service Programs</span></a></li><input type="hidden" id="link_104" value="Food Science > Support > Certificate of Analysis"><li><a onclick="null" href="/en-us/food-science/support/certificate-of-analysis?ID=KVY6YO4EH"><span onmousedown="callwt(104)">Certificate of Analysis</span></a></li><input type="hidden" id="link_105" value="Food Science > Support > Literature Library"><li><a onclick="null" href="/en-us/literature-library?ID=MDECABESH"><span onmousedown="callwt(105)">Literature Library</span></a></li>
+                           <ul class="someDivider"><li><a style="padding:4px 5px 4px 20px !important;" target="_blank" href="https://www.bioradiations.com/"><span><strong>Bioradiations Magazine</strong><img style="padding-left:3px;" src="/evportal/framework/skins/evolution/images/target-link.png"></span></a></li>
+                              <li><a onclick="null" href="/en-us/food-science/applications-technologies?ID=PLX588BWLN4A"><span onmousedown="callwt(97)"><strong>Applications &amp; Technologies</strong></span></a></li><input type="hidden" id="link_97" value="Food Science > Applications &amp; Technologies"><li><a onclick="null" href="/en-us/food-science/promotions?ID=917ab091-83d7-4779-b460-9f523fb80fe4"><span onmousedown="callwt(99)"><strong>Promotions</strong></span></a></li><input type="hidden" id="link_99" value="Food Science > Promotions"><li><a onclick="null" href="/en-us/food-science/news-events?ID=1493"><span onmousedown="callwt(101)"><strong>News &amp; Events</strong></span></a></li><input type="hidden" id="link_101" value="Food Science > News &amp;amp; Events"><li class="leafsupport"><a onclick="null" class="leafsupport" href="/en-us/food-science/support?ID=1495"><span onmousedown="callwt(103)"><strong>Support</strong></span></a><ul class="mainProducts1"><input type="hidden" id="link_104" value="Food Science > Support > Purchasing and Service Programs"><li><a onclick="null" href="/en-us/food-science/support/purchasing-service-programs?ID=KVY6Y2IVK"><span onmousedown="callwt(104)">Purchasing and Service Programs</span></a></li><input type="hidden" id="link_105" value="Food Science > Support > Certificate of Analysis"><li><a onclick="null" href="/en-us/food-science/support/certificate-of-analysis?ID=KVY6YO4EH"><span onmousedown="callwt(105)">Certificate of Analysis</span></a></li><input type="hidden" id="link_106" value="Food Science > Support > Literature Library"><li><a onclick="null" href="/en-us/literature-library?ID=MDECABESH"><span onmousedown="callwt(106)">Literature Library</span></a></li>
                                  </ul>
-                              </li><input type="hidden" id="link_102" value="Food Science > Support"></ul>
+                              </li><input type="hidden" id="link_103" value="Food Science > Support"></ul>
                         </li></div>
                         
                         
                      </ul></div>
-                  </li><input type="hidden" id="link_106" value="Life Science Education"><li class="leftAlignedLSE dc-mega-li"><a class="dc-mega" onclick="null" href="/en-us/education?ID=1450" id="mega-menu-a-LSE"><span onmousedown="callwt(106)">Life Science Education</span></a><div class="sub-container mega" style="left: 0px; top: 17px; z-index: 1000;"><ul class="sub" style="display: none;"><input type="hidden" id="link_106" value="Life Science Education > Products"><div class="row" style="width: 6350px;"><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/education/products?ID=1457"><span onmousedown="callwt(109)"><strong>Products</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_90" value="Life Science Education > Products > Biotechnology Laboratory Textbook"><li><a onclick="null" href="/en-us/category/biotechnology-laboratory-textbook?ID=LKN6R715"><span onmousedown="callwt(90)">Biotechnology Laboratory Textbook</span></a></li><input type="hidden" id="link_91" value="Life Science Education > Products > AP Biology"><li><a onclick="null" href="/en-us/category/ap-biology?ID=PD866ATU86LJ"><span onmousedown="callwt(91)">AP Biology</span></a></li><input type="hidden" id="link_92" value="Life Science Education > Products > ThINQ!™ Investigations for AP and General Biology"><li><a onclick="null" href="/en-us/category/thinq-investigations-for-ap-general-biology?ID=NEXYHO15"><span onmousedown="callwt(92)">ThINQ!™ Investigations for AP and General Biology</span></a></li><input type="hidden" id="link_93" value="Life Science Education > Products > Cloning and Sequencing Explorer Series"><li><a onclick="null" href="/en-us/category/cloning-sequencing-explorer-series?ID=701bc018-fb80-4525-969c-fbc288025924"><span onmousedown="callwt(93)">Cloning and Sequencing Explorer Series</span></a></li><input type="hidden" id="link_94" value="Life Science Education > Products > Protein Expression and Purification Series"><li><a onclick="null" href="/en-us/category/protein-expression-purification-series?ID=LOCF3315"><span onmousedown="callwt(94)">Protein Expression and Purification Series</span></a></li><input type="hidden" id="link_95" value="Life Science Education > Products > DNA Analysis Kits and Agarose Gel Electrophoresis Kits"><li><a onclick="null" href="/en-us/category/dna-analysis-kits-agarose-gel-electrophoresis-kits?ID=16873535-f79b-4612-91ee-1ad8d93d26e4"><span onmousedown="callwt(95)">DNA Analysis Kits and Agarose Gel Electrophoresis Kits</span></a></li>
+                  </li><input type="hidden" id="link_107" value="Life Science Education"><li class="leftAlignedLSE dc-mega-li"><a class="dc-mega" onclick="null" href="/en-us/education?ID=1450" id="mega-menu-a-LSE"><span onmousedown="callwt(107)">Life Science Education</span></a><div class="sub-container mega" style="left: 0px; top: 17px; z-index: 1000;"><ul class="sub" style="display: none;"><input type="hidden" id="link_107" value="Life Science Education > Products"><div class="row" style="width: 6350px;"><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/education/products?ID=1457"><span onmousedown="callwt(110)"><strong>Products</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_90" value="Life Science Education > Products > Biotechnology Laboratory Textbook"><li><a onclick="null" href="/en-us/category/biotechnology-laboratory-textbook?ID=LKN6R715"><span onmousedown="callwt(90)">Biotechnology Laboratory Textbook</span></a></li><input type="hidden" id="link_91" value="Life Science Education > Products > AP Biology"><li><a onclick="null" href="/en-us/category/ap-biology?ID=PD866ATU86LJ"><span onmousedown="callwt(91)">AP Biology</span></a></li><input type="hidden" id="link_92" value="Life Science Education > Products > ThINQ!™ Investigations for AP and General Biology"><li><a onclick="null" href="/en-us/category/thinq-investigations-for-ap-general-biology?ID=NEXYHO15"><span onmousedown="callwt(92)">ThINQ!™ Investigations for AP and General Biology</span></a></li><input type="hidden" id="link_93" value="Life Science Education > Products > Cloning and Sequencing Explorer Series"><li><a onclick="null" href="/en-us/category/cloning-sequencing-explorer-series?ID=701bc018-fb80-4525-969c-fbc288025924"><span onmousedown="callwt(93)">Cloning and Sequencing Explorer Series</span></a></li><input type="hidden" id="link_94" value="Life Science Education > Products > Protein Expression and Purification Series"><li><a onclick="null" href="/en-us/category/protein-expression-purification-series?ID=LOCF3315"><span onmousedown="callwt(94)">Protein Expression and Purification Series</span></a></li><input type="hidden" id="link_95" value="Life Science Education > Products > DNA Analysis Kits and Agarose Gel Electrophoresis Kits"><li><a onclick="null" href="/en-us/category/dna-analysis-kits-agarose-gel-electrophoresis-kits?ID=16873535-f79b-4612-91ee-1ad8d93d26e4"><span onmousedown="callwt(95)">DNA Analysis Kits and Agarose Gel Electrophoresis Kits</span></a></li>
                            </ul>
                         </li><li class="mega-unit mega-hdr" style="height:100% !important">
                            <ul>
                               <li>&nbsp;</li>
-                              <li>&nbsp;</li><input type="hidden" id="link_96" value="Life Science Education > Products > PCR Amplification Kits"><li><a onclick="null" href="/en-us/category/pcr-amplification-kits?ID=46a0adc7-303b-43e4-8947-cc195f83c15e"><span onmousedown="callwt(96)">PCR Amplification Kits</span></a></li><input type="hidden" id="link_97" value="Life Science Education > Products > Model Organism Kits"><li><a onclick="null" href="/en-us/category/model-organism-kits?ID=MKLAGM8UU"><span onmousedown="callwt(97)">Model Organism Kits</span></a></li><input type="hidden" id="link_98" value="Life Science Education > Products > Microbes and Health"><li><a onclick="null" href="/en-us/category/microbes-health?ID=3b2f397c-1a47-4521-9ab4-8ac92e3916f7"><span onmousedown="callwt(98)">Microbes and Health</span></a></li><input type="hidden" id="link_99" value="Life Science Education > Products > pGLO™ Plasmid and GFP Kits"><li><a onclick="null" href="/en-us/category/pglo-plasmid-gfp-kits?ID=f75948d2-dc20-4a32-b4e5-b7e0fe4c21ed"><span onmousedown="callwt(99)">pGLO™ Plasmid and GFP Kits</span></a></li><input type="hidden" id="link_100" value="Life Science Education > Products > Protein Analysis Kits"><li><a onclick="null" href="/en-us/category/protein-analysis-kits?ID=ff1e4131-4b49-40b2-9a34-56fd3db342f8"><span onmousedown="callwt(100)">Protein Analysis Kits</span></a></li><input type="hidden" id="link_101" value="Life Science Education > Products > Equipment and Supplies"><li><a onclick="null" href="/en-us/category/equipment-supplies?ID=cdc62e3e-d1da-4a16-9d40-4d9cc90adb48"><span onmousedown="callwt(101)">Equipment and Supplies</span></a></li>
+                              <li>&nbsp;</li><input type="hidden" id="link_96" value="Life Science Education > Products > PCR Amplification Kits"><li><a onclick="null" href="/en-us/category/pcr-amplification-kits?ID=46a0adc7-303b-43e4-8947-cc195f83c15e"><span onmousedown="callwt(96)">PCR Amplification Kits</span></a></li><input type="hidden" id="link_97" value="Life Science Education > Products > Model Organism Kits"><li><a onclick="null" href="/en-us/category/model-organism-kits?ID=MKLAGM8UU"><span onmousedown="callwt(97)">Model Organism Kits</span></a></li><input type="hidden" id="link_98" value="Life Science Education > Products > Health and Engineering"><li><a onclick="null" href="/en-us/category/health-engineering?ID=3b2f397c-1a47-4521-9ab4-8ac92e3916f7"><span onmousedown="callwt(98)">Health and Engineering</span></a></li><input type="hidden" id="link_99" value="Life Science Education > Products > pGLO™ Plasmid and GFP Kits"><li><a onclick="null" href="/en-us/category/pglo-plasmid-gfp-kits?ID=f75948d2-dc20-4a32-b4e5-b7e0fe4c21ed"><span onmousedown="callwt(99)">pGLO™ Plasmid and GFP Kits</span></a></li><input type="hidden" id="link_100" value="Life Science Education > Products > Protein Analysis Kits"><li><a onclick="null" href="/en-us/category/protein-analysis-kits?ID=ff1e4131-4b49-40b2-9a34-56fd3db342f8"><span onmousedown="callwt(100)">Protein Analysis Kits</span></a></li><input type="hidden" id="link_101" value="Life Science Education > Products > Equipment and Supplies"><li><a onclick="null" href="/en-us/category/equipment-supplies?ID=cdc62e3e-d1da-4a16-9d40-4d9cc90adb48"><span onmousedown="callwt(101)">Equipment and Supplies</span></a></li>
                            </ul>
                         </li><li class="mega-unit mega-hdr" style="height:100% !important">
                            <ul>
                               <li>&nbsp;</li>
                               <li>&nbsp;</li><input type="hidden" id="link_102" value="Life Science Education > Products > Kit Curriculum Manuals"><li><a onclick="null" href="/en-us/category/kit-curriculum-manuals?ID=7629b3ca-0cd9-4c2f-a5fb-23712ac14ae4"><span onmousedown="callwt(102)">Kit Curriculum Manuals</span></a></li><input type="hidden" id="link_103" value="Life Science Education > Products > Home Science Kits"><li><a onclick="null" href="/en-us/category/home-science-kits?ID=MVE0RK15"><span onmousedown="callwt(103)">Home Science Kits</span></a></li>
                            </ul>
-                        </li><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/education/about-program?ID=3dec64ef-aa3a-4534-bc63-d33c13fc367c"><span onmousedown="callwt(125)"><strong>About the Program</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_105" value="Life Science Education > About the Program > Classroom Kits"><li><a onclick="null" href="/en-us/education/classroom-kits?ID=MRFKVZE8Z"><span onmousedown="callwt(105)">Classroom Kits</span></a></li><input type="hidden" id="link_106" value="Life Science Education > About the Program > Education Discount Policy "><li><a onclick="null" href="/en-us/education/education-discount-policy?ID=MRFKWO4VY"><span onmousedown="callwt(106)">Education Discount Policy </span></a></li><input type="hidden" id="link_107" value="Life Science Education > About the Program > Teaching Resources"><li><a onclick="null" href="/en-us/education/teaching-resources?ID=MRFKYGC4S"><span onmousedown="callwt(107)">Teaching Resources</span></a></li><input type="hidden" id="link_108" value="Life Science Education > About the Program > Professional Development"><li><a onclick="null" href="/en-us/education/professional-development?ID=MRFKUU15"><span onmousedown="callwt(108)">Professional Development</span></a></li><input type="hidden" id="link_109" value="Life Science Education > About the Program > Partners in Education"><li><a onclick="null" href="/en-us/education/partners-education?ID=MRFKX9KG4"><span onmousedown="callwt(109)">Partners in Education</span></a></li><input type="hidden" id="link_110" value="Life Science Education > About the Program > Related Links"><li><a onclick="null" href="/en-us/education/related-links?ID=MRFKXVESH"><span onmousedown="callwt(110)">Related Links</span></a></li>
+                        </li><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/education/about-program?ID=3dec64ef-aa3a-4534-bc63-d33c13fc367c"><span onmousedown="callwt(126)"><strong>About the Program</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_105" value="Life Science Education > About the Program > Classroom Kits"><li><a onclick="null" href="/en-us/education/classroom-kits?ID=MRFKVZE8Z"><span onmousedown="callwt(105)">Classroom Kits</span></a></li><input type="hidden" id="link_106" value="Life Science Education > About the Program > Education Discount Policy "><li><a onclick="null" href="/en-us/education/education-discount-policy?ID=MRFKWO4VY"><span onmousedown="callwt(106)">Education Discount Policy </span></a></li><input type="hidden" id="link_107" value="Life Science Education > About the Program > Teaching Resources"><li><a onclick="null" href="/en-us/education/teaching-resources?ID=MRFKYGC4S"><span onmousedown="callwt(107)">Teaching Resources</span></a></li><input type="hidden" id="link_108" value="Life Science Education > About the Program > Professional Development"><li><a onclick="null" href="/en-us/education/professional-development?ID=MRFKUU15"><span onmousedown="callwt(108)">Professional Development</span></a></li><input type="hidden" id="link_109" value="Life Science Education > About the Program > Partners in Education"><li><a onclick="null" href="/en-us/education/partners-education?ID=MRFKX9KG4"><span onmousedown="callwt(109)">Partners in Education</span></a></li><input type="hidden" id="link_110" value="Life Science Education > About the Program > Related Links"><li><a onclick="null" href="/en-us/education/related-links?ID=MRFKXVESH"><span onmousedown="callwt(110)">Related Links</span></a></li>
                            </ul>
                         </li><li class="mega-unit mega-hdr last" style="height:100% !important">
-                           <ul class="someDivider">
-                              <li><a onclick="null" href="/en-us/education/applications-technologies?ID=MXEEBH15"><span onmousedown="callwt(132)"><strong>Explorer Community</strong></span></a></li><input type="hidden" id="link_132" value="Life Science Education > Explorer Community"><li><a onclick="null" href="/en-us/education/promotions?ID=6ea30e21-35d7-4d0f-8e5b-5fdee509f23f"><span onmousedown="callwt(134)"><strong>Promotions</strong></span></a></li><input type="hidden" id="link_134" value="Life Science Education > Promotions"><li><a onclick="null" href="/en-us/education/news-events?ID=1462"><span onmousedown="callwt(136)"><strong>News &amp; Events</strong></span></a></li><input type="hidden" id="link_136" value="Life Science Education > News &amp; Events"><li class="leafsupport"><a onclick="null" class="leafsupport" href="/en-us/education/support?ID=1463"><span onmousedown="callwt(138)"><strong>Support</strong></span></a><ul class="mainProducts1"><input type="hidden" id="link_139" value="Life Science Education > Support > Purchasing and Service Programs"><li><a onclick="null" href="/en-us/education/support/purchasing-service-programs?ID=KVY6ZLLPT"><span onmousedown="callwt(139)">Purchasing and Service Programs</span></a></li><input type="hidden" id="link_140" value="Life Science Education > Support > Tutorials"><li><a onclick="null" href="/en-us/education/support/tutorials?ID=KVY70TCZF"><span onmousedown="callwt(140)">Tutorials</span></a></li><input type="hidden" id="link_141" value="Life Science Education > Support > Webinars"><li><a onclick="null" href="/en-us/education/support/webinars?ID=KVY71A7OP"><span onmousedown="callwt(141)">Webinars</span></a></li><input type="hidden" id="link_142" value="Life Science Education > Support > Literature Library"><li><a onclick="null" href="/en-us/literature-library?ID=MDEC1UE8Z"><span onmousedown="callwt(142)">Literature Library</span></a></li>
+                           <ul class="someDivider"><li><a style="padding:4px 5px 4px 20px !important;" target="_blank" href="https://www.bioradiations.com/"><span><strong>Bioradiations Magazine</strong><img style="padding-left:3px;" src="/evportal/framework/skins/evolution/images/target-link.png"></span></a></li>
+                              <li><a onclick="null" href="/en-us/education/applications-technologies?ID=MXEEBH15"><span onmousedown="callwt(133)"><strong>Explorer Community</strong></span></a></li><input type="hidden" id="link_133" value="Life Science Education > Explorer Community"><li><a onclick="null" href="/en-us/education/promotions?ID=6ea30e21-35d7-4d0f-8e5b-5fdee509f23f"><span onmousedown="callwt(135)"><strong>Promotions</strong></span></a></li><input type="hidden" id="link_135" value="Life Science Education > Promotions"><li><a onclick="null" href="/en-us/education/news-events?ID=1462"><span onmousedown="callwt(137)"><strong>News &amp; Events</strong></span></a></li><input type="hidden" id="link_137" value="Life Science Education > News &amp; Events"><li class="leafsupport"><a onclick="null" class="leafsupport" href="/en-us/education/support?ID=1463"><span onmousedown="callwt(139)"><strong>Support</strong></span></a><ul class="mainProducts1"><input type="hidden" id="link_140" value="Life Science Education > Support > Purchasing and Service Programs"><li><a onclick="null" href="/en-us/education/support/purchasing-service-programs?ID=KVY6ZLLPT"><span onmousedown="callwt(140)">Purchasing and Service Programs</span></a></li><input type="hidden" id="link_141" value="Life Science Education > Support > Tutorials"><li><a onclick="null" href="/en-us/education/support/tutorials?ID=KVY70TCZF"><span onmousedown="callwt(141)">Tutorials</span></a></li><input type="hidden" id="link_142" value="Life Science Education > Support > Webinars"><li><a onclick="null" href="/en-us/education/support/webinars?ID=KVY71A7OP"><span onmousedown="callwt(142)">Webinars</span></a></li><input type="hidden" id="link_143" value="Life Science Education > Support > Literature Library"><li><a onclick="null" href="/en-us/literature-library?ID=MDEC1UE8Z"><span onmousedown="callwt(143)">Literature Library</span></a></li>
                                  </ul>
-                              </li><input type="hidden" id="link_138" value="Life Science Education > Support"></ul>
+                              </li><input type="hidden" id="link_139" value="Life Science Education > Support"></ul>
                         </li></div>
                         
                         
                         
                         
                      </ul></div>
-                  </li><input type="hidden" id="link_143" value="Corporate"><li class="leftAlignedGNL dc-mega-li"><a class="dc-mega" onclick="null" href="/en-us/corporate?ID=1002" id="mega-menu-a-GNL"><span onmousedown="callwt(143)">Corporate</span></a><div class="sub-container mega" style="left: 0px; top: 17px; z-index: 1000;"><ul class="sub" style="display: none;"><input type="hidden" id="link_143" value="Corporate > About Bio-Rad"><div class="row" style="width: 2540px;"><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/corporate/about-bio-rad?ID=1003"><span onmousedown="callwt(146)"><strong>About Bio-Rad</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_121" value="Corporate > About Bio-Rad > Corporate Facts"><li><a onclick="null" href="/en-us/corporate/corporate-facts?ID=MR8IQU15"><span onmousedown="callwt(121)">Corporate Facts</span></a></li><input type="hidden" id="link_122" value="Corporate > About Bio-Rad > Corporate Officers"><li><a onclick="null" href="/en-us/corporate/corporate-officers?ID=MR8IS7E8Z"><span onmousedown="callwt(122)">Corporate Officers</span></a></li><input type="hidden" id="link_123" value="Corporate > About Bio-Rad > Our History"><li><a onclick="null" href="/en-us/corporate/our-history?ID=MR8ISY4VY"><span onmousedown="callwt(123)">Our History</span></a></li><input type="hidden" id="link_124" value="Corporate > About Bio-Rad > Protecting the Environment"><li><a onclick="null" href="/en-us/corporate/protecting-environment?ID=MR8IX6ESH"><span onmousedown="callwt(124)">Protecting the Environment</span></a></li><input type="hidden" id="link_125" value="Corporate > About Bio-Rad > Community Outreach"><li><a onclick="null" href="/en-us/corporate/community-outreach?ID=MR8IUCKG4"><span onmousedown="callwt(125)">Community Outreach</span></a></li>
+                  </li><input type="hidden" id="link_144" value="Corporate"><li class="leftAlignedGNL dc-mega-li"><a class="dc-mega" onclick="null" href="/en-us/corporate?ID=1002" id="mega-menu-a-GNL"><span onmousedown="callwt(144)">Corporate</span></a><div class="sub-container mega" style="left: 0px; top: 17px; z-index: 1000;"><ul class="sub" style="display: none;"><input type="hidden" id="link_144" value="Corporate > About Bio-Rad"><div class="row" style="width: 2540px;"><li class="mega-unit mega-hdr" style="height:100% !important"><a onclick="null" class="mega-hdr-a" style="height: 17px;" href="/en-us/corporate/about-bio-rad?ID=1003"><span onmousedown="callwt(147)"><strong>About Bio-Rad</strong></span></a><ul class="mainProducts"><input type="hidden" id="link_121" value="Corporate > About Bio-Rad > Corporate Facts"><li><a onclick="null" href="/en-us/corporate/corporate-facts?ID=MR8IQU15"><span onmousedown="callwt(121)">Corporate Facts</span></a></li><input type="hidden" id="link_122" value="Corporate > About Bio-Rad > Corporate Officers"><li><a onclick="null" href="/en-us/corporate/corporate-officers?ID=MR8IS7E8Z"><span onmousedown="callwt(122)">Corporate Officers</span></a></li><input type="hidden" id="link_123" value="Corporate > About Bio-Rad > Our History"><li><a onclick="null" href="/en-us/corporate/our-history?ID=MR8ISY4VY"><span onmousedown="callwt(123)">Our History</span></a></li><input type="hidden" id="link_124" value="Corporate > About Bio-Rad > Protecting the Environment"><li><a onclick="null" href="/en-us/corporate/protecting-environment?ID=MR8IX6ESH"><span onmousedown="callwt(124)">Protecting the Environment</span></a></li><input type="hidden" id="link_125" value="Corporate > About Bio-Rad > Community Outreach"><li><a onclick="null" href="/en-us/corporate/community-outreach?ID=MR8IUCKG4"><span onmousedown="callwt(125)">Community Outreach</span></a></li>
                            </ul>
                         </li><li class="mega-unit mega-hdr last" style="height:100% !important">
                            <ul class="someDivider">
-                              <li><a onclick="null" href="/en-us/corporate/careers?ID=1004"><span onmousedown="callwt(152)"><strong>Careers</strong></span></a></li><input type="hidden" id="link_152" value="Corporate > Careers"><li><a onclick="null" href="/en-us/corporate/investor-relations?ID=1007"><span onmousedown="callwt(154)"><strong>Investor Relations</strong></span></a><ul class="mainProducts1"><input type="hidden" id="link_155" value="Corporate > Investor Relations > SEC Filings"><li><a onclick="null" href="/en-us/corporate/sec-filings?ID=MR8IXTC4S"><span onmousedown="callwt(155)">SEC Filings</span></a></li><input type="hidden" id="link_156" value="Corporate > Investor Relations > FAQs"><li><a onclick="null" href="/en-us/corporate/faqs?ID=MR8IZ38UU"><span onmousedown="callwt(156)">FAQs</span></a></li><input type="hidden" id="link_157" value="Corporate > Investor Relations > Quarterly Results"><li><a onclick="null" href="/en-us/corporate/quarterly-results?ID=MR8IZSMNI"><span onmousedown="callwt(157)">Quarterly Results</span></a></li><input type="hidden" id="link_158" value="Corporate > Investor Relations > Annual Reports"><li><a onclick="null" href="/en-us/corporate/annual-reports-2016?ID=MR8J17KSY"><span onmousedown="callwt(158)">Annual Reports</span></a></li><input type="hidden" id="link_159" value="Corporate > Investor Relations > Corporate Governance"><li><a onclick="null" href="/en-us/corporate/corporate-governance?ID=NEUKYV15"><span onmousedown="callwt(159)">Corporate Governance</span></a></li>
+                              <li><a onclick="null" href="/en-us/corporate/careers?ID=1004"><span onmousedown="callwt(153)"><strong>Careers</strong></span></a></li><input type="hidden" id="link_153" value="Corporate > Careers"><li><a onclick="null" href="/en-us/corporate/investor-relations?ID=1007"><span onmousedown="callwt(155)"><strong>Investor Relations</strong></span></a><ul class="mainProducts1"><input type="hidden" id="link_156" value="Corporate > Investor Relations > SEC Filings"><li><a onclick="null" href="/en-us/corporate/sec-filings?ID=MR8IXTC4S"><span onmousedown="callwt(156)">SEC Filings</span></a></li><input type="hidden" id="link_157" value="Corporate > Investor Relations > FAQs"><li><a onclick="null" href="/en-us/corporate/faqs?ID=MR8IZ38UU"><span onmousedown="callwt(157)">FAQs</span></a></li><input type="hidden" id="link_158" value="Corporate > Investor Relations > Quarterly Results"><li><a onclick="null" href="/en-us/corporate/quarterly-results?ID=MR8IZSMNI"><span onmousedown="callwt(158)">Quarterly Results</span></a></li><input type="hidden" id="link_159" value="Corporate > Investor Relations > Annual Reports"><li><a onclick="null" href="/en-us/corporate/annual-reports-2016?ID=MR8J17KSY"><span onmousedown="callwt(159)">Annual Reports</span></a></li><input type="hidden" id="link_160" value="Corporate > Investor Relations > Corporate Governance"><li><a onclick="null" href="/en-us/corporate/corporate-governance?ID=NEUKYV15"><span onmousedown="callwt(160)">Corporate Governance</span></a></li>
                                  </ul>
-                              </li><input type="hidden" id="link_154" value="Corporate > Investor Relations"><li><a onclick="null" href="/en-us/corporate/newsroom?ID=1006"><span onmousedown="callwt(161)"><strong>Newsroom</strong></span></a></li><input type="hidden" id="link_161" value="Corporate > Newsroom"></ul>
+                              </li><input type="hidden" id="link_155" value="Corporate > Investor Relations"><li><a onclick="null" href="/en-us/corporate/newsroom?ID=1006"><span onmousedown="callwt(162)"><strong>Newsroom</strong></span></a></li><input type="hidden" id="link_162" value="Corporate > Newsroom"></ul>
                         </li></div>
                         
                      </ul></div>
@@ -479,7 +525,13 @@ var munchkinAccountID = '272-THL-329';
 					fullWidth:true
 				});
       			$('.sub .row li.mega-unit.mega-hdr').attr('style','height:100% !important');
+                var bioradiationsLink = '<li><a style="padding:4px 5px 4px 20px !important;" target="_blank" href="https://www.bioradiations.com/"><span><strong>Bioradiations Magazine</strong><img style="padding-left:3px;" src="/evportal/framework/skins/evolution/images/target-link.png"></span></a></li>';
+				$('.leftAlignedLSR .someDivider').prepend(bioradiationsLink);
+				$('.leftAlignedPSD .someDivider').prepend(bioradiationsLink);
+				$('.leftAlignedLSE .someDivider').prepend(bioradiationsLink);
+				$('.leftAlignedFSD .someDivider').prepend(bioradiationsLink);
 			});
+      
 		});
 	</script> 
  </div> 
@@ -565,7 +617,7 @@ var munchkinAccountID = '272-THL-329';
       <div class="iw_component" id="iw_comp1509484033981">
         <div id="getHelpContent">
    <div id="rightcolcontent">
-      <div id="rightcolcontenttop"><span class="rightcolumn_header"><script type="text/javascript">$(document).ready(function(){$('#getHelpContent ul li:last-child').remove();if(($("meta[name='DCSext.vertical']").attr("content") == "INF") || $("meta[name='DCSext.vertical']").attr("content") == "4"){$('#getHelpContent #rightcolcontentmid').html('<p><strong>For spectroscopy software & database products, See</strong> <a href="/en-us/contact-us?verticalName=spectroscopy"><strong>worldwide contact information</strong></a></p>');$(".pdp_header").after('<style>.social-links {float: right;margin-top: -25px;margin-right: 10px;}.social-links img {width: 20px;height: 20px;margin-right: 5px}</style><div class="social-links"><a class="no-target-style" href="https://www.linkedin.com/company/BioRadSpectra/" target="_blank"><img src="/webroot/web/images/general/icons/linkedin_round_40x40.png" alt="Spectroscopy LinkedIn"></a><a class="no-target-style" href="https://www.youtube.com/channel/UCH76eI-mIOxsJrlNHMp8LYw" target="_blank"><img src="/webroot/web/images/general/icons/youtube-icon-rnd-40x40.png" alt="Spectroscopy YouTube"></a><a class="no-target-style" href="http://twitter.com/BioRadSpectra" target="_blank"><img src="/webroot/web/images/general/icons/twitter_round_40x40.png" alt="Spectroscopy Twitter"></a><a class="no-target-style" href="http://www.facebook.com/BioRadSpectra" target="_blank"><img src="/webroot/web/images/general/icons/facebook-icon-rnd-40x40.png" alt="Spectroscopy Facebook"></a></div>');}});</script>Get Help</span><div class="line"></div>
+      <div id="rightcolcontenttop"><span class="rightcolumn_header"><script type="text/javascript">$(document).ready(function(){$('#getHelpContent ul li:last-child').remove();if(($("meta[name='DCSext.vertical']").attr("content") == "INF") || $("meta[name='DCSext.vertical']").attr("content") == "4"){$('#getHelpContent #rightcolcontentmid').html('<p><strong>For spectroscopy software & database products, See</strong> <a class="linkgeneration" href="/_locale/contact-us?verticalName=spectroscopy"><strong>worldwide contact information</strong></a></p>');$(".pdp_header").after('<style>.social-links {float: right;margin-top: -25px;margin-right: 10px;}.social-links img {width: 20px;height: 20px;margin-right: 5px}</style><div class="social-links"><a class="no-target-style" href="https://www.linkedin.com/company/BioRadSpectra/" target="_blank"><img src="/webroot/web/images/general/icons/linkedin_round_40x40.png" alt="Spectroscopy LinkedIn"></a><a class="no-target-style" href="https://www.youtube.com/channel/UCH76eI-mIOxsJrlNHMp8LYw" target="_blank"><img src="/webroot/web/images/general/icons/youtube-icon-rnd-40x40.png" alt="Spectroscopy YouTube"></a><a class="no-target-style" href="http://twitter.com/BioRadSpectra" target="_blank"><img src="/webroot/web/images/general/icons/twitter_round_40x40.png" alt="Spectroscopy Twitter"></a><a class="no-target-style" href="http://www.facebook.com/BioRadSpectra" target="_blank"><img src="/webroot/web/images/general/icons/facebook-icon-rnd-40x40.png" alt="Spectroscopy Facebook"></a></div>');}if(($("meta[name='DCSext.vertical']").attr("content") == "FSD")){$(".pdp_header").after('<style>.social-links {float: right;margin-top: -25px;margin-right: 10px;}.social-links img {width: 20px;height: 20px;margin-right: 5px}</style><div class="social-links"><a class="no-target-style" href="https://www.instagram.com/biorad_food_science" target="_blank" rel="noopener noreferrer"><img src="/webroot/web/images/general/Instagram.svg" alt="Food Science Instagram"></a> <a class="no-target-style" href="https://www.youtube.com/playlist?list=PLrAEgIY86I6xTi-5C6r03UJRj7g_VEf-X" target="_blank" rel="noopener noreferrer"><img src="/webroot/web/images/general/YouTube.svg" alt="Food Science YouTube"></a> <a class="no-target-style" href="https://twitter.com/biorad" target="_blank" rel="noopener noreferrer"><img src="/webroot/web/images/general/Twitter.svg" alt="Food Science Twitter"></a> <a class="no-target-style" href="https://www.facebook.com/BioRadFSD" target="_blank" rel="noopener noreferrer"><img src="/webroot/web/images/general/Facebook.svg" alt="Food Science Facebook"></a></div>');}});</script>Get Help</span><div class="line"></div>
       </div>
       <div id="rightcolcontentmid">
          <p><strong>Call us at 1-800-4-BIORAD (1-800-424-6723)</strong></p>
@@ -682,24 +734,290 @@ var munchkinAccountID = '272-THL-329';
   <div id="contentbot"></div> 
   <!--FOOTER---> 
   <div class="iw_component" id="iw_comp1503938961561">
-    <!--ls:begin[component-1503938961561]--><div class="footer-main"><script type="text/javascript">
-				var countryCode = 'us';
-				var languageCode = 'en';
-				var currentVerticalUrlTitle = 'corporate';
-				var defaultVerticalUrlTitle = 'life-science-research';
-				var feedbackCMSID = '1140';        
-
-				var order_History_Url = '/prd/en/US/direct/biorad?ts=1&cmd=OrdersWorkspaceDisplay';
-				var quote_History_Url = '/prd/en/US/direct/biorad?ts=1&cmd=QuotesWorkspaceDisplay';
-				var invoice_History_Url = '/prd/en/US/direct/biorad?ts=1&cmd=InvoiceWorkspaceDisplay&_Tab=Invoice';
-
-				$(document).ready(function(){
-				setSterlingUrlsToHtmlHrefVariables();
-				$('a.linkgeneration').each(function(){
-				$(this).attr('href', $(this).attr('href').replace('_locale', languageCode + '-' + countryCode.toLowerCase()).replace('_verticalUrl', currentVerticalUrlTitle).replace('_defaultVerticalUrl', defaultVerticalUrlTitle).replace('_feedbackCMSID',feedbackCMSID));
-				});
-				});
-			</script><div class="links">
+    <!--ls:begin[component-1503938961561]--><div style="display:none">
+   <properties componentid="1503938961561">
+      <data>
+         <external>
+            <parameters>
+               <datum type="String" name="ID"></datum>
+               <datum type="String" name="RequestHeaders">[x-forwarded-proto] = [http]
+                  [x-forwarded-port] = [80]
+                  [x-forwarded-for] = [54.165.59.7, 10.232.3.62]
+                  [seourl] = [/en-us/privacy]
+                  [x-amzn-trace-id] = [Root=1-5d03347d-aa08e3d4b28b58a01bcb01d2]
+                  [x-forwarded-server] = [lsds-prod-s.br.aws-livesite.io]
+                  [x-forwarded-host] = [www.bio-rad.com]
+                  [x-query-string] = []
+                  [host] = [10.232.17.28:1776]
+                  [x-request-uri] = [/en-us/privacy]
+                  [from] = [crawler@alexa.com]
+                  [connection] = [Keep-Alive]
+                  [user-agent] = [ia_archiver]
+                  
+               </datum>
+               <datum type="String" name="iw-ls-page-name">General/PrivacyPolicy</datum>
+               <datum type="String" name="pageStyleKey">pageStyleKey</datum>
+               <datum type="String" name="seoUrlTitle">privacy</datum>
+               <datum type="String" name="vertical">GNL</datum>
+            </parameters>
+         </external>
+         <result>
+            <root>
+               <assets>
+                  <document id="abb982ff5ce3e193f17082c9274f29d6" path="templatedata/internet/generic/data/en_US/GNL/page_generic_footer_b2c_1385505294_US.xml" uri="http://lscs-prod.br.aws-livesite.io:80/lscs/v1//document/id/abb982ff5ce3e193f17082c9274f29d6/context/627fefd681870c970fa8e74c653ba381">
+                     <metadata>
+                        <field name="TeamSite/Metadata/PublishDate">03/26/14 02:17 PM</field>
+                        <field name="TeamSite/Metadata/Locale">en_US</field>
+                        <field name="iw_form_valid">true</field>
+                        <field name="TeamSite/Templating/DCR/Type">internet/generic</field>
+                        <field name="LatestModifiedDate">2018-12-28 22:30:28</field>
+                        <field name="StagingVpath">/default/main/bio-rad/STAGING</field>
+                        <field name="TeamSite/Metadata/ContentID">1385504243813</field>
+                        <field name="TeamSite/Metadata/Country">US</field>
+                        <field name="ast_path">templatedata/internet/generic/data/en_US/GNL/page_generic_footer_b2c_1385505294_US.xml</field>
+                        <field name="TeamSite/Metadata/PageName">page_generic_footer_b2c</field>
+                        <field name="area">/default/main/bio-rad/WORKAREA/default</field>
+                        <field name="TeamSite/LiveSite/Id">jc7v8okm</field>
+                        <field name="TeamSite/Metadata/CreationDate">2017-10-27 13:13:40</field>
+                        <field name="G11N/Localizable">true</field>
+                        <field name="G11N/TranslationStatus">Done</field>
+                        <field name="ast_id">jc7v8okm</field>
+                        <field name="AreaRelativePath">templatedata/internet/generic/data/en_US/GNL/page_generic_footer_b2c_1385505294_US.xml</field>
+                        <field name="TeamSite/Metadata/VerticalCode">GNL</field>
+                        <field name="TeamSite/Metadata/CMSDelete">N</field>
+                        <field name="BranchVpath">/default/main/bio-rad</field>
+                        <field name="G11N/Locale">en_US</field>
+                        <field name="TeamSite/Metadata/ExpirationDate">11/27/23 02:18 PM</field>
+                        <field name="TeamSite/LiveSite/PublishDate">1539210190090</field>
+                        <field name="ast_last_modified_date">2018-12-28 22:30:28</field>
+                        <field name="AbsoluteVpath">/default/main/bio-rad/WORKAREA/default/templatedata/internet/generic/data/en_US/GNL/page_generic_footer_b2c_1385505294_US.xml</field>
+                        <field name="TeamSite/Metadata/URLTitle">footer-page</field>
+                        <field name="TeamSite/Assocation/Version">1</field>
+                     </metadata>
+                     <content>
+                        <genhtml>
+                           <generichtml>
+                              <contentid>1385504243813</contentid>
+                              <pagename>page_generic_footer_b2c</pagename>
+                              &lt;div class="links"&gt;
+                                 &lt;h4&gt;Support&lt;/h4&gt;
+                                 &lt;ul&gt;
+                                 &lt;li&gt;&lt;a class="msdsLink wtclass linkgeneration" href="/_locale/literature-library"&gt;MSDS&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="cofaLink wtclass linkgeneration" href="/_locale/_defaultVerticalUrl/support/certificate-of-analysis"&gt;Certificate
+                                 of Analysis&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="qcinsertsLink wtclass" href="http://myeinserts.qcnet.com/" target="_blank"
+                                 rel="noopener noreferrer"&gt;QC Inserts&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="technicalsupportLink wtclass linkgeneration" href="/_locale/life-science-research/support"&gt;Technical
+                                 Support&lt;br /&gt;For Life Science&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="expertCSLink wtclass linkgeneration" href="/_locale/_defaultVerticalUrl/purchase-service-programs/expert-care-service?ID=1383780912356"&gt;Expert
+                                 Care Service&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="feedBackLink wtclass linkgeneration" id="feedbackID" href="javascript:void(0)"&gt;Feedback&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="contactUSLink wtclass linkgeneration" href="/_locale/contact-us"&gt;Contact
+                                 Us&lt;/a&gt;&lt;/li&gt;
+                                 &lt;/ul&gt;
+                                 &lt;/div&gt;
+                                 &lt;div class="links"&gt;
+                                 &lt;h4&gt;Ordering&lt;/h4&gt;
+                                 &lt;ul&gt;
+                                 &lt;li&gt;&lt;a id="quickOrderLink" class="quickOrderLink wtclass" name="quickOrderLink" href="javascript:openAjaxOverlay('/evportal/portlets/ordering/quickOrderOverlayContent.jsp?quickorder_location=Footer')"&gt;Quick
+                                 Order&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="mybioradLink wtclass linkgeneration" href="/_locale/my-bio-rad"&gt;My Bio-Rad&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a id="footer_orderLink" class="orderhistoryLink wtclass" href="javascript:void(0);"&gt;Order
+                                 History&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a id="footer_quoteLink" href="javascript:void(0);"&gt;Quote History&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="supplycentersLink wtclass linkgeneration" href="/_locale/_defaultVerticalUrl/purchase-service-programs/supply-center-program"&gt;Supply
+                                 Centers&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="returnpolicyLink wtclass linkgeneration" href="javascript:openAjaxOverlay('/webroot/web/html/returnPolicy-us.html','Return
+                                 and Refund Policy');"&gt;Return and Refund Policy&lt;/a&gt;&lt;/li&gt;
+                                 &lt;/ul&gt;
+                                 &lt;/div&gt;
+                                 &lt;div class="links"&gt;
+                                 &lt;h4&gt;Our Products&lt;/h4&gt;
+                                 &lt;ul&gt;
+                                 &lt;li&gt;&lt;a class="lsrLink wtclass linkgeneration" href="/_locale/life-science-research"&gt;Life
+                                 Science Research&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="cdLink wtclass linkgeneration" href="/_locale/clinical-diagnostics"&gt;Clinical
+                                 Diagnostics&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="infLink wtclass linkgeneration" href="/_locale/spectroscopy"&gt;Spectroscopy&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="psLink wtclass linkgeneration" href="/_locale/process-separations"&gt;Process
+                                 Separations&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="fsLink wtclass linkgeneration" href="/_locale/food-science"&gt;Food Science&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="lseLink wtclass linkgeneration" href="/_locale/education"&gt;Life Science
+                                 Education&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="selectionguideLink wtclass linkgeneration" href="/featured/en/selection-guides.html"&gt;Selection
+                                 Guides&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="featuredproductsLink wtclass" href="/featured/en/featured-products.html"&gt;Featured
+                                 Products&lt;/a&gt;&lt;/li&gt;
+                                 &lt;/ul&gt;
+                                 &lt;/div&gt;
+                                 &lt;div class="links links2"&gt;
+                                 &lt;h4&gt;Corporate&lt;/h4&gt;
+                                 &lt;ul&gt;
+                                 &lt;li&gt;&lt;a class="aboutbioradLink wtclass linkgeneration" href="/_locale/corporate/about-bio-rad"&gt;About
+                                 Bio-Rad&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="careersLink wtclass linkgeneration" href="/_locale/corporate/careers"&gt;Careers&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="irLink wtclass linkgeneration" href="/_locale/corporate/investor-relations"&gt;Investor
+                                 Relations&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="coLink wtclass linkgeneration" href="/_locale/corporate/community-outreach"&gt;Community
+                                 Outreach&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="pteLink wtclass linkgeneration" href="/_locale/corporate/protecting-environment"&gt;Protecting
+                                 the Environment&lt;/a&gt;&lt;/li&gt;
+                                 &lt;li&gt;&lt;a class="newsroomLink wtclass linkgeneration" href="/_locale/corporate/newsroom"&gt;Newsroom&lt;/a&gt;&lt;/li&gt;
+                                 &lt;/ul&gt;
+                                 &lt;/div&gt;
+                                 &lt;p&gt;
+                                 &lt;script type="text/javascript"&gt;// &lt;![CDATA[
+                                 $(document).ready(function(){
+                                 var feedbackOverlayUrl = '/bio-rad/Standalone/FeedbackOverlay.page?standalonePage=true';
+                                 $("#feedbackID").click(function(){
+                                 openAjaxOverlay(feedbackOverlayUrl,"Feedback");
+                                 });
+                                 	});
+                                 // ]]&gt;&lt;/script&gt;
+                                 &lt;script type="text/javascript"&gt;// &lt;![CDATA[
+                                 if($.cookie('evCntryLang')){
+                                 (function(){"use strict";var e=null,b="4.0.0",
+                                 n="10740",
+                                 additional="",
+                                 t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.substring(0,2048)):""}catch(o){t=document.referrer!==null?document.referrer.toString().substring(0,2048):""}try{r=window&amp;&amp;window.top&amp;&amp;document.location&amp;&amp;window.top.location===document.location?document.location:window&amp;&amp;window.top&amp;&amp;window.top.location&amp;&amp;""!==window.top.location?window.top.location:document.location}catch(u){r=document.location}try{i=parent.location.href!==""?encodeURIComponent(parent.location.href.toString().substring(0,2048)):""}catch(a){try{i=r!==null?encodeURIComponent(r.toString().substring(0,2048)):""}catch(f){i=""}}var
+                                 l,c=document.createElement("script"),h=null,p=document.getElementsByTagName("script"),d=Number(p.length)-1,v=document.getElementsByTagName("script")[d];if(typeof
+                                 l==="undefined"){l=Math.floor(Math.random()*1e17)}h="dx.steelhousemedia.com/spx?"+"dxver="+b+"&amp;shaid="+n+"&amp;tdr="+t+"&amp;plh="+i+"&amp;cb="+l+additional;c.type="text/javascript";c.src=("https:"===document.location.protocol?"https://":"http://")+h;v.parentNode.insertBefore(c,v)})()
+                                 }
+                                 // ]]&gt;&lt;/script&gt;
+                                 &lt;/p&gt;
+                              
+                              <dirpath>/webroot/web/html</dirpath>
+                              <htmlfilename>footer_page_b2c_en_US.html</htmlfilename>
+                              <htmlfilepath>/webroot/web/html/footer_page_b2c_en_US.html</htmlfilepath>
+                           </generichtml>
+                           <metadata>
+                              <author>Karen Moss</author>
+                              <title>Footer page</title>
+                              <description></description>
+                              <seokeywords>Footer</seokeywords>
+                              <publishdate>03/26/14 02:17 PM</publishdate>
+                              <expirationdate>11/27/23 02:18 PM</expirationdate>
+                              <region></region>
+                              <country>US</country>
+                              <language>en</language>
+                              <verticalcode>GNL</verticalcode>
+                              <dcrlocation>/GNL</dcrlocation>
+                              <cmsdelete>N</cmsdelete>
+                              <bias>0</bias>
+                           </metadata>
+                        </genhtml>
+                     </content>
+                  </document>
+               </assets>
+               <locale>en-us</locale>
+               <evlabels>
+                  <labels>
+                     <footer_home>Home</footer_home>
+                     <footer_trademarks>&lt;script type="text/javascript"&gt;$(document).ready(function() { $(".footer-nav &gt; a:nth-child(3)").after("
+                        | &lt;a href='javascript:void(0)' id='regionlink'&gt;Web Accessibility&lt;/a&gt;"); var region
+                        = $("#headlangID .lang strong").html(); $("#regionlink").click(function(){ window.location.replace(
+                        "/webroot/web/html/featured/en/web-accessibility.html?Region=" + region );});});&lt;/script&gt;Trademarks
+                     </footer_trademarks>
+                     <footer_site_terms>Site Terms</footer_site_terms>
+                     <footer_trade_terms>Terms &amp; Conditions</footer_trade_terms>
+                     <footer_imprints>Imprint</footer_imprints>
+                     <footer_recycle>EU Recycle Program</footer_recycle>
+                     <footer_privacy>Privacy</footer_privacy>
+                     <cookiesettings>Change Cookie Setting</cookiesettings>
+                     <footer_copyright>&lt;script type="text/javascript"&gt;$(document).ready(function () {$(".links2").append('&lt;style&gt;.social-links-br
+                        {float: left;margin-right: 10px;}.social-links-br img {width: 20px;height: 20px;margin-right:
+                        5px}&lt;/style&gt;&lt;div class="social-links-br"&gt;&lt;a class="no-target-style" href="https://www.linkedin.com/company/bio-rad?trk=top_nav_home"
+                        target="_blank"&gt;&lt;img src="/webroot/web/images/general/icons/linkedin_round_40x40.png"
+                        alt="Bio-Rad LinkedIn"&gt;&lt;/a&gt;&lt;a class="no-target-style" href="https://www.youtube.com/user/BioRadLifeScience"
+                        target="_blank"&gt;&lt;img src="/webroot/web/images/general/icons/youtube-icon-rnd-40x40.png"
+                        alt="Bio-Rad YouTube"&gt;&lt;/a&gt;&lt;a class="no-target-style" href="https://twitter.com/BioRadLifeSci"
+                        target="_blank"&gt;&lt;img src="/webroot/web/images/general/icons/twitter_round_40x40.png"
+                        alt="Bio-Rad Twitter"&gt;&lt;/a&gt;&lt;a class="no-target-style" href="https://www.facebook.com/biorad/"
+                        target="_blank"&gt;&lt;img src="/webroot/web/images/general/icons/facebook-icon-rnd-40x40.png"
+                        alt="Bio-Rad Facebook"&gt;&lt;/a&gt;&lt;a class="no-target-style" href="https://www.instagram.com/bioradlabs/"
+                        target="_blank"&gt;&lt;img src="/webroot/web/images/general/icons/instagram-icon-rnd-40x40.png"
+                        alt="Bio-Rad Instagram"&gt;&lt;/a&gt;&lt;/div&gt;');});&lt;/script&gt;Copyright &amp;copy; {0} Bio-Rad Laboratories,
+                        Inc. All rights reserved.
+                     </footer_copyright>
+                     <page_last_modified_date>This page was last edited on {0}</page_last_modified_date>
+                  </labels>
+               </evlabels>
+               <brvariations locale="en_US">
+                  <propdetails>
+                     <proptype type="TradeTermsEnabled">true</proptype>
+                  </propdetails>
+                  <googletagmanager>
+                     <showgoogletagmanager>True</showgoogletagmanager>
+                     <gtmauthkey></gtmauthkey>
+                     <gtmpreviewkey></gtmpreviewkey>
+                     <gtmcontainerkey>GTM-MJ2DN2S</gtmcontainerkey>
+                  </googletagmanager>
+               </brvariations>
+               <countrycode>us</countrycode>
+               <country>US</country>
+               <languagecode>en</languagecode>
+               <currentverticalcode>GNL</currentverticalcode>
+               <currentverticalurltitle>science-opioid-dependence-kit</currentverticalurltitle>
+               <defaultverticalurltitle>life-science-research</defaultverticalurltitle>
+               <orderhistorypage>/prd/en/US/direct/biorad?ts=1&amp;cmd=OrdersWorkspaceDisplay</orderhistorypage>
+               <quotehistorypage>/prd/en/US/direct/biorad?ts=1&amp;cmd=QuotesWorkspaceDisplay</quotehistorypage>
+               <invoicehistorypage>/prd/en/US/direct/biorad?ts=1&amp;cmd=InvoiceWorkspaceDisplay&amp;_Tab=Invoice</invoicehistorypage>
+               <cdg_hc_enabaled>false</cdg_hc_enabaled>
+               <mod_date_enabaled>false</mod_date_enabaled>
+               <lastmodifieddate></lastmodifieddate>
+               <munchkin>true</munchkin>
+               <munchkinproxy>false</munchkinproxy>
+               <forsee>true</forsee>
+               <googleanalytics>true</googleanalytics>
+               <googleanalyticskey1>1040988879</googleanalyticskey1>
+               <googleanalyticskey2>LHsYCOu_wQMQz_Ww8AM</googleanalyticskey2>
+               <googleanalyticskey3>window.google_tag_params</googleanalyticskey3>
+               <googleanalyticskey4>true</googleanalyticskey4>
+               <munchkinkey1>272-THL-329</munchkinkey1>
+               <functionalcookies>username</functionalcookies>
+               <cartcookies>CartID_</cartcookies>
+               <performancecookies>WT_FPC</performancecookies>
+               <munchkinscriptactive>&lt;script type="text/javascript"&gt;$.ajax({url: document.location.protocol + '//munchkin.marketo.net/munchkin.js',dataType:
+                  'script',cache: true,success: function() {Munchkin.init('044-CBN-599');}});&lt;/script&gt;
+               </munchkinscriptactive>
+               <munchkinscriptinactive>&lt;script type="text/javascript" src="/evportal/framework/skins/evolution/js/proxyMunchkin.js"&gt;&lt;/script&gt;</munchkinscriptinactive>
+               <currentyear>2019</currentyear>
+            </root>
+         </result>
+      </data>
+   </properties>
+</div><script>
+           var gtmauthkey = '';
+           var gtmpreviewkey = '';
+           var gtmcontainerkey = 'GTM-MJ2DN2S';
+           
+         	var GTMURL = '';
+            if (gtmauthkey) {
+         			GTMURL = GTMURL + '&gtm_auth='+gtmauthkey;
+            }
+            if (gtmpreviewkey) {
+         			GTMURL = GTMURL + '&gtm_preview='+gtmpreviewkey + '&gtm_cookies_win=x';
+            }
+           // console.log("GTMURL is " + GTMURL);
+         
+           
+     </script><script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl + GTMURL;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', gtmcontainerkey);
+</script><div class="footer-main">
+   <noscript><iframe height="0" width="0" style="display:none;visibility:hidden" src="https://www.googletagmanager.com/ns.html?id=GTM-MJ2DN2S"></iframe></noscript><div class="links">
 <h4>Support</h4>
 <ul>
 <li><a class="msdsLink wtclass linkgeneration" href="/en-us/literature-library">MSDS</a></li>
@@ -749,11 +1067,6 @@ var munchkinAccountID = '272-THL-329';
 <p>
 <script type="text/javascript">// <![CDATA[
 $(document).ready(function(){
-		setSterlingUrlsToHtmlHrefVariables();
-		$('a.linkgeneration').each(function(){
-			$(this).attr('href', $(this).attr('href').replace('_locale', languageCode + '-' + countryCode.toLowerCase()).replace('_verticalUrl', currentVerticalUrlTitle).replace('_defaultVerticalUrl', defaultVerticalUrlTitle).replace('_feedbackCMSID',feedbackCMSID));
-		});
-
 var feedbackOverlayUrl = '/bio-rad/Standalone/FeedbackOverlay.page?standalonePage=true';
                     $("#feedbackID").click(function(){
                         openAjaxOverlay(feedbackOverlayUrl,"Feedback");
@@ -768,10 +1081,29 @@ additional="",
 t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.substring(0,2048)):""}catch(o){t=document.referrer!==null?document.referrer.toString().substring(0,2048):""}try{r=window&&window.top&&document.location&&window.top.location===document.location?document.location:window&&window.top&&window.top.location&&""!==window.top.location?window.top.location:document.location}catch(u){r=document.location}try{i=parent.location.href!==""?encodeURIComponent(parent.location.href.toString().substring(0,2048)):""}catch(a){try{i=r!==null?encodeURIComponent(r.toString().substring(0,2048)):""}catch(f){i=""}}var l,c=document.createElement("script"),h=null,p=document.getElementsByTagName("script"),d=Number(p.length)-1,v=document.getElementsByTagName("script")[d];if(typeof l==="undefined"){l=Math.floor(Math.random()*1e17)}h="dx.steelhousemedia.com/spx?"+"dxver="+b+"&shaid="+n+"&tdr="+t+"&plh="+i+"&cb="+l+additional;c.type="text/javascript";c.src=("https:"===document.location.protocol?"https://":"http://")+h;v.parentNode.insertBefore(c,v)})()
 }
 // ]]></script>
-</p><script type="text/javascript"></script><p class="footer-nav"><a title="" target="_self" onclick="footerLinksWebtrendsInfo(homeLabel)" href="/">Home</a> |
+</p><script type="text/javascript">
+				var countryCode = 'us';
+				var languageCode = 'en';
+				var currentVerticalUrlTitle = 'science-opioid-dependence-kit';
+				var defaultVerticalUrlTitle = 'life-science-research';
+				var feedbackCMSID = '1140';        
+
+				var order_History_Url = '/prd/en/US/direct/biorad?ts=1&cmd=OrdersWorkspaceDisplay';
+				var quote_History_Url = '/prd/en/US/direct/biorad?ts=1&cmd=QuotesWorkspaceDisplay';
+				var invoice_History_Url = '/prd/en/US/direct/biorad?ts=1&cmd=InvoiceWorkspaceDisplay&_Tab=Invoice';
+
+				$(document).ready(function(){
+				setSterlingUrlsToHtmlHrefVariables();
+				$('a.linkgeneration').each(function(){
+				$(this).attr('href', $(this).attr('href').replace('_locale', languageCode + '-' + countryCode.toLowerCase()).replace('_verticalUrl', currentVerticalUrlTitle).replace('_defaultVerticalUrl', defaultVerticalUrlTitle).replace('_feedbackCMSID',feedbackCMSID));
+				});
+              	$('#breadcrumb a[href*="/news-and-events"]').attr('href', '/'+languageCode+'-'+countryCode+'/'+currentVerticalUrlTitle+'/news-events');
+              	});
+			</script><script type="text/javascript"></script><p class="footer-nav"><a title="" target="_self" onclick="footerLinksWebtrendsInfo(homeLabel)" href="/">Home</a> |
       					<a onclick="footerLinksWebtrendsInfo(trademarksLabel)" href="/en-us/trademarks"><script type="text/javascript">$(document).ready(function() { $(".footer-nav > a:nth-child(3)").after(" | <a href='javascript:void(0)' id='regionlink'>Web Accessibility</a>"); var region = $("#headlangID .lang strong").html(); $("#regionlink").click(function(){ window.location.replace( "/webroot/web/html/featured/en/web-accessibility.html?Region=" + region );});});</script>Trademarks</a> |
       					<a onclick="footerLinksWebtrendsInfo(siteTermsLabel)" href="/en-us/site-terms">Site Terms</a> | <a href="javascript:void(0)" id="regionlink">Web Accessibility</a> |
-      					<a onclick="footerLinksWebtrendsInfo(privacyLabel)" href="/en-us/privacy">Privacy</a><br><span><script type="text/javascript">$(document).ready(function () {$(".links2").append('<style>.social-links-br {float: left;margin-right: 10px;}.social-links-br img {width: 20px;height: 20px;margin-right: 5px}</style><div class="social-links-br"><a class="no-target-style" href="https://www.linkedin.com/company/bio-rad?trk=top_nav_home" target="_blank"><img src="/webroot/web/images/general/icons/linkedin_round_40x40.png" alt="Bio-Rad LinkedIn"></a><a class="no-target-style" href="https://www.youtube.com/user/BioRadLifeScience" target="_blank"><img src="/webroot/web/images/general/icons/youtube-icon-rnd-40x40.png" alt="Bio-Rad YouTube"></a><a class="no-target-style" href="https://twitter.com/BioRadLifeSci" target="_blank"><img src="/webroot/web/images/general/icons/twitter_round_40x40.png" alt="Bio-Rad Twitter"></a><a class="no-target-style" href="https://www.facebook.com/biorad/" target="_blank"><img src="/webroot/web/images/general/icons/facebook-icon-rnd-40x40.png" alt="Bio-Rad Facebook"></a><a class="no-target-style" href="https://www.instagram.com/bioradlabs/" target="_blank"><img src="/webroot/web/images/general/icons/instagram-icon-rnd-40x40.png" alt="Bio-Rad Instagram"></a></div>');});</script>Copyright © 2018 Bio-Rad Laboratories, Inc. All rights reserved.</span><br></p>
+      					<a onclick="footerLinksWebtrendsInfo(tradeTermsLabel)" href="/en-us/terms-conditions">Terms &amp; Conditions</a> |
+      					<a onclick="footerLinksWebtrendsInfo(privacyLabel)" href="/en-us/privacy">Privacy</a><br><span><script type="text/javascript">$(document).ready(function () {$(".links2").append('<style>.social-links-br {float: left;margin-right: 10px;}.social-links-br img {width: 20px;height: 20px;margin-right: 5px}</style><div class="social-links-br"><a class="no-target-style" href="https://www.linkedin.com/company/bio-rad?trk=top_nav_home" target="_blank"><img src="/webroot/web/images/general/icons/linkedin_round_40x40.png" alt="Bio-Rad LinkedIn"></a><a class="no-target-style" href="https://www.youtube.com/user/BioRadLifeScience" target="_blank"><img src="/webroot/web/images/general/icons/youtube-icon-rnd-40x40.png" alt="Bio-Rad YouTube"></a><a class="no-target-style" href="https://twitter.com/BioRadLifeSci" target="_blank"><img src="/webroot/web/images/general/icons/twitter_round_40x40.png" alt="Bio-Rad Twitter"></a><a class="no-target-style" href="https://www.facebook.com/biorad/" target="_blank"><img src="/webroot/web/images/general/icons/facebook-icon-rnd-40x40.png" alt="Bio-Rad Facebook"></a><a class="no-target-style" href="https://www.instagram.com/bioradlabs/" target="_blank"><img src="/webroot/web/images/general/icons/instagram-icon-rnd-40x40.png" alt="Bio-Rad Instagram"></a></div>');});</script>Copyright © 2019 Bio-Rad Laboratories, Inc. All rights reserved.</span><br></p>
    <div id="cookieController"></div>
 </div><script type="text/javascript">
 			$(document).ready(function(){
@@ -955,6 +1287,7 @@ t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.s
                                           <option value="VU_EN_English">Vanuatu</option>
                                           <option value="VA_EN_English">Vatican City (Holy See)</option>
                                           <option value="VE_ES_Espanol">Venezuela</option>
+                                          <option value="VN_EN_English">Vietnam</option>
                                           <option value="EH_EN_English">Western Sahara</option>
                                           <option value="YE_EN_English">Yemen</option></select></form>
                                  </td>
@@ -969,6 +1302,6 @@ t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.s
          </div>
          <div id="contentcountrybot"></div>
       </div>
-      <div id="footer"><span>Copyright © 2018 Bio-Rad Laboratories, Inc. All rights reserved.</span></div>
+      <div id="footer"><span>Copyright © 2019 Bio-Rad Laboratories, Inc. All rights reserved.</span></div>
    </div>
 </div></div></div></div><div class="overlay-b"><div></div></div></div><div id="overlay-shadow" style="background:#000;filter: alpha(opacity=65); -moz-opacity: 0.65; opacity: 0.65;" class="closeall">&nbsp;</div></body></html>
