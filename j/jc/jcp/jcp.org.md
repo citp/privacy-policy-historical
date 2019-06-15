@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcp.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226130342id_/http%3A//www.oracle.com/us/legal/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcp.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615165829id_/http%3A//www.oracle.com/us/legal/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy @ Oracle | Oracle
 
