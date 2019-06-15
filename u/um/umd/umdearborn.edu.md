@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umdearborn.edu privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107121927id_/https%3A//umdearborn.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umdearborn.edu privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615191437id_/https%3A//umdearborn.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,7 @@ During a user visit to umdearborn.edu, the university automatically collects and
 
 
 
-In addition, UM-Dearborn collects information from users that visit umdearborn.edu or through U-M Dearborn contracted for third-party advertising and marketing providers  (ex: Google Analytics, and Google Adwords). Information collected may include:
+In addition, UM-Dearborn collects information from users that visit umdearborn.edu or through UM-Dearborn contracted for third-party advertising and marketing providers  (ex: Google Analytics, and Google Adwords). Information collected may include:
 
   * Content viewed during the visit
   * Date and time of visit
