@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockinvest.us privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907151328id_/https%3A//stockinvest.us/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockinvest.us privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615071904id_/https%3A//stockinvest.us/article/privacy-policy) for the most accurate reproduction.*
 
-# StockInvest.US - Stock Trading Ideas
+# StockInvest.us - Stock Trading Ideas
 
 **1.      Introduction**
 
@@ -227,3 +227,5 @@ _[additional list items]_
 (c)    [by telephone, on [the contact number published on our website from time to time]]; or
 
 (d)    [by email, using [the email address published on our website from time to time]].
+
+[Time For Change - Get started!](https://stockinvest.us/is-stockinvest-reliable)
