@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826193328id_/https%3A//www.chicagobusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615044909id_/https%3A//www.chicagobusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Crain's Chicago Business
 
@@ -6,7 +6,7 @@
 
 _Effective starting: May 25, 2018_
 
-**_  Crain's Chicago Business and the associated newsletters, news alerts, data centers, research reports, and other features are products_of Crain Communications Inc. Our postal address is 150 N. Michigan Ave. Chicago, IL 60601.  We can be reached by e-mail at [](mailto:%7b%7b%20brand_email%20%7d%7d) or by telephone at (312) 649-5200. **
+**_  Crain's Chicago Business and the associated newsletters, news alerts, data centers, research reports, and other features are products_of Crain Communications Inc. Our postal address is 150 N. Michigan Ave. Chicago, IL 60601.  We can be reached by e-mail at [](mailto:) or by telephone at (312) 649-5200. **
 
 **What this Privacy Policy covers**
 
@@ -219,9 +219,9 @@ We collect information globally and primarily store that information in the Unit
 
 **California Residents.**
 
-Under California law, California resident users may opt-out of the disclosure of personal information to third parties for the third parties’ direct marketing purposes.  You may contact us for such information or to opt-out of the sharing of your personal information with third parties for marketing purposes as detailed above at any time by sending an e-mail stating this preference and including your full name and e-mail address to [](mailto:%7b%7b%20brand_email%20%7d%7d)or call (312) 649-5200. **   **
+Under California law, California resident users may opt-out of the disclosure of personal information to third parties for the third parties’ direct marketing purposes.  You may contact us for such information or to opt-out of the sharing of your personal information with third parties for marketing purposes as detailed above at any time by sending an e-mail stating this preference and including your full name and e-mail address to [](mailto:)or call (312) 649-5200. **   **
 
-**Notice to End Users**
+**Notice to End Usersc**
 
 Some of our products are provided to you for use by organizations, such as your employer. Where the Products are made available to you through an organization, that organization is the administrator of the Products and is responsible for the accounts and/or Products over which it has control. If this is the case, please direct your data privacy questions to your employer, as your use of the Products is subject to that organization's policies. We are not responsible for the privacy or security practices of an administrator's organization, which may be different than this policy. 
 
@@ -239,7 +239,7 @@ If you disagree with any changes to this privacy policy, you will need to stop u
 
 **Contact Us**
 
-Your information is controlled by Crain Communications Inc.  If you have questions or concerns about how your information is handled, please direct your inquiry to Crain Communications Inc, which we have appointed to be responsible for facilitating such inquiries or, if you are a resident of the European Economic Area, please contact our EU Representative.
+Your information is controlled by Crain Communications Inc.  If you have questions or concerns about how your information is handled, please direct your inquiry to Crain Communications Inc, which we have appointed to be responsible for facilitating such inquiries or, if you are a resident of the European Economic Area, please contact our EU Representativex.
 
 General Counsel  
 c/o Crain Communications Inc  
