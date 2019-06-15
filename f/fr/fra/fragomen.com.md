@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223180100id_/https%3A//www.fragomen.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616002028id_/https%3A//www.fragomen.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy policies | Fragomen
 
@@ -14,7 +14,8 @@ Accordingly, this Privacy Notice (“Privacy Notice”) is intended to inform yo
 
 In addition, we provide information on how to contact us to: (1) exercise your right to object to the processing of certain aspects of your personal information in accordance with applicable laws; (2) access, correct, or delete your personal information; (3) ask any questions you may have about our privacy practices.
 
-In some instances we are engaged directly by corporations or business groups, which results in the processing of employee information at their request. Where we refer to “employer” below, it is in these circumstances where corporations or other business groups have engaged us to act. You may at any time, if you prefer, address any concerns directly to your employer, where applicable.  
+In some instances we are engaged directly by corporations or business groups, which results in the processing of employee information at their request. Where we refer to “employer” below, it is in these circumstances where corporations or other business groups have engaged us to act. You may at any time, if you prefer, address any concerns directly to your employer, where applicable.
+
 ​
 
 _*A complete list of Fragomen entities and affiliates with contact details can be found here:  [Fragomen Office-US](https://www.fragomen.com/about/offices/us/)._
@@ -255,14 +256,20 @@ This Online Privacy Notice may be updated periodically to reflect new site featu
 
 If you have any questions or comments about this Cookies Notice, please contact us by email at [dataprivacy@fragomen.com](mailto:dataprivacy@fragomen.com). You also may write to us at:
 
-Attn: Office of General Counsel   
-Fragomen, Del Rey, Bernsen & Loewy, LLP   
-90 Matawan Road   
-P.O. Box 2001   
-Matawan, New Jersey 07747   
+Attn: Office of General Counsel 
+
+Fragomen, Del Rey, Bernsen & Loewy, LLP 
+
+90 Matawan Road 
+
+P.O. Box 2001 
+
+Matawan, New Jersey 07747 
+
 USA 
 
-Please see our Legal Notices.  
+Please see our Legal Notices.
+
  _Last Updated: April 29, 2013_
 
 ___________________________________
@@ -357,14 +364,20 @@ This Online Privacy Notice may be updated periodically to reflect new site featu
 
 If you have any questions or comments about this Cookies Notice, please contact us by email at [dataprivacy@fragomen.com](mailto:dataprivacy@fragomen.com). You also may write to us at:
 
-Attn: Office of General Counsel   
-Fragomen, Del Rey, Bernsen & Loewy, LLP   
-90 Matawan Road   
-P.O. Box 2001   
-Matawan, New Jersey 07747   
+Attn: Office of General Counsel 
+
+Fragomen, Del Rey, Bernsen & Loewy, LLP 
+
+90 Matawan Road 
+
+P.O. Box 2001 
+
+Matawan, New Jersey 07747 
+
 USA 
 
-Please see our Legal Notices.  
+Please see our Legal Notices.
+
  _Last Updated: April 29, 2013_
 
 ___________________________________
