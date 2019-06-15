@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2018-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181122113422id_/https%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2019-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190615024059id_/https%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>
@@ -10,7 +10,7 @@
 
 
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P2QNBH"></script><script async="" type="text/javascript" src="//www.auctionzip.com/includes/js/prebid.js"></script><script type="text/javascript">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P2QNBH"></script><script async="" type="text/javascript" src="//www.auctionzip.com/includes/js/prebid.js"></script><script async="" type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="text/javascript">
 if(typeof(AZ_UID_SET)=='undefined')
 {
 	var _aaq = window._aaq || (window._aaq = []);
@@ -39,12 +39,59 @@ if(typeof(AZ_UID_SET)=='undefined')
 
 <script type="text/javascript">
 <!--
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function() {
+		var sizes=null;
+		sizes=[[728,90]];
+		googletag.defineSlot('/1027821/Global_Head_Unit', sizes, 'global_header_ad').addService(googletag.pubads());
+ 		googletag.pubads().enableSingleRequest();
+ 		googletag.pubads().disableInitialLoad();
+		googletag.enableServices();
+	});
+googletag.cmd.push(function() {
+		googletag.display(global_header_ad);
+	});
+//-->
+</script>
+<script type="text/javascript">
+<!--
+///AMAZON CODE
+//load the apstag.js library
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+//initialize the apstag.js library on the page to allow bidding
+apstag.init({
+     pubID: 'aeae6523-6c60-4147-89c0-0f9e845706d9', //enter your pub ID here as shown above, it must within quotes
+     adServer: 'googletag'
+});
+apstag.fetchBids({
+     slots: [{
+         slotID: 'global_header_ad',
+         slotName: '/1027821/Global_Head_Unit',
+         sizes: [[728,90]]
+       }],
+     timeout: 2e3
+}, function(bids) {
+     // set apstag targeting on googletag, then trigger the first DFP request in googletag's disableInitialLoad integration
+     googletag.cmd.push(function(){
+         apstag.setDisplayBids();
+      //   googletag.pubads().refresh();
+     });
+}); 
+//-->
+</script>
+<script type="text/javascript">
+<!--
 // Page Bid Timeout
 var PREBID_timeout=1250;
 // Ads slots to get bids for and bidder lists
 var PREBID_adUnits = [{
-  code: 'global_header_ad',
-  sizes: [728,90],
+//  code: 'global_header_ad',
+  code: '/1027821/Global_Head_Unit',
+  mediaTypes: {
+    banner: {
+      sizes: [728,90]    }
+  },
   bids: [{
     bidder: 'sovrn',
     params: {
@@ -66,15 +113,33 @@ var PREBID_adUnits = [{
       ct: '529615'
     }
   },{
-    bidder: 'indexExchange',
+    bidder: 'openx',
     params: {
-      id: '1',
-      siteID: 189362
+      unit: '540705920',
+      delDomain: 'invaluable-d.openx.net'
+    }
+  },{
+    bidder: 'medianet',
+    params: {
+      cid: '8CUJ0577W',
+      crid: '619417898'
+    }
+  },{
+    bidder: 'ix',
+    params: {
+      size: [728,90],
+      siteId: 189362
     }
   },{
     bidder: 'districtmDMX',
     params: {
-      id: 130939,
+      dmxid: 130939,
+      memberid: 100567
+    }
+  },{
+    bidder: 'districtm',
+    params: {
+      placementId: 9841125,
       revShare: 0.90
     }
   },{
@@ -87,17 +152,6 @@ var PREBID_adUnits = [{
     params: {
       network: '9506.1',
       placement: '4345420'
-    }
-  },{
-    bidder: 'amazon',
-    params: {
-      amazonId: '3476',
-      size: '7x9'
-    }
-  },{
-    bidder: 'openx',
-    params: {
-      unit: '538621051'
     }
   }]
 }];
@@ -123,22 +177,42 @@ const customGranularity = {
   var script = document.createElement('script');
   script.async=true;
   script.type = 'text/javascript';
-	script.src = '//www.auctionzip.com/includes/js/prebid.js';
+  script.src = '//www.auctionzip.com/includes/js/prebid.js';
   var node = document.getElementsByTagName('script')[0];
   node.parentNode.insertBefore(script, node);
+  var gscript = document.createElement('script');
+  gscript.async=true;
+  gscript.type = 'text/javascript';
+  gscript.src = '//www.googletagservices.com/tag/js/gpt.js';
+  var gnode = document.getElementsByTagName('script')[0];
+  gnode.parentNode.insertBefore(gscript, gnode.nextSibling);
 })();
 
 pbjs.que.push(function() {
+
   pbjs.addAdUnits(PREBID_adUnits);
   //  pbjs.setConfig({ priceGranularity: "high" });
-  pbjs.setConfig({ priceGranularity: customGranularity });
+  // pbjs.setConfig({ priceGranularity: customGranularity });
+  pbjs.setConfig({ priceGranularity: "dense" });
   //  pbjs.enableSendAllBids(); // Depreciated
-  pbjs.setConfig({ enableSendAllBids: true });
+  // pbjs.setConfig({ enableSendAllBids: true });
+  pbjs.setConfig({ enableSendAllBids: false });
   pbjs.requestBids({
     timeout: PREBID_timeout, // The primary timeout is set here
-    bidsBackHandler: sendAdserverRequest
+    bidsBackHandler: initAdserver
+//    bidsBackHandler: sendAdserverRequest
   });
 });
+
+function initAdserver() {
+	if (pbjs.initAdserverSet) return;
+	pbjs.initAdserverSet = true;
+
+	googletag.cmd.push(function() {
+		pbjs.setTargetingForGPTAsync && pbjs.setTargetingForGPTAsync();
+		googletag.pubads().refresh();
+	});
+}
 
 function sendAdserverRequest(bidResponses) {
 	// Prevent duplicate display calls.		
@@ -255,7 +329,7 @@ function sendAdserverRequest(bidResponses) {
 					}
 				}
 				html+="OX_Render.load();\n";
-				html+="\</script\>\n";
+				html+="\<"+"/script\>\n";
 				html+="\</div>\n";
 				html+="\</body>\n";
 				html+="\</html>\n";
@@ -323,10 +397,6 @@ function sendAdserverRequest(bidResponses) {
 			<div class="az-header-block">
 				<div class="az-signIn-links-container">
 					<div class="az-calendar">
-	<a href="//www.auctionzip.com/cgi-bin/auctionsearch.cgi?txtSearchRadius=0&amp;txtSearchZip=&amp;txtSearchKeywords=&amp;idxSearchCategory=0&amp;month=&amp;year=">
-		<img src="/images/calender-new.png">
-	</a>
-	<a class="az-calendar-link" href="//www.auctionzip.com/cgi-bin/auctionsearch.cgi?txtSearchRadius=0&amp;txtSearchZip=&amp;txtSearchKeywords=&amp;idxSearchCategory=0&amp;month=&amp;year=">Calendar</a>
 </div>
 <div class="loginStuff">
 	<script type="text/javascript">
@@ -400,7 +470,7 @@ function sendAdserverRequest(bidResponses) {
 		<ul id="mainNavLinks">			
 			<li><a href="//www.auctionzip.com/online-auctions/">Online Bidding</a></li> 
 			<li><a href="//www.auctionzip.com/Auctioneer-Directory/">Auctioneer Directory</a></li>
-			<li><a href="//www.auctionzip.com/az-top-ten.html">Top Auctioneers</a></li>			
+			<li><a href="//www.auctionzip.com/appraisals">Appraisals</a></li>			
 		</ul>
 	</div>
 </div>
