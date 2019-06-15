@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookinggames.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213071204id_/http%3A//www.cookinggames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookinggames.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615211222id_/http%3A//www.cookinggames.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cooking Games
 
