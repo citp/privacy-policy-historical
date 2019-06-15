@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corsair.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115162909id_/http%3A//www2.corsair.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corsair.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615055730id_/http%3A//www2.corsair.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Welcome to Corsair :: Privacy Policy
 
