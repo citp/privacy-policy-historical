@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instahu.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906091221id_/http%3A//www.instahu.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instahu.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615153924id_/http%3A//www.instahu.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
