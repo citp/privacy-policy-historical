@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xstreetsl.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629182206id_/https%3A//www.lindenlab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xstreetsl.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616015512id_/https%3A//www.lindenlab.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Linden Lab
 
