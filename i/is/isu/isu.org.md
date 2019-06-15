@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isu.org privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205014938id_/https%3A//www.isu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isu.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615123652id_/https%3A//isu.org/quick-links-sep/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ISU
+# Privacy Policy - International Skating Union
 
 Data and its protection are becoming increasingly more important to individuals and enterprises. The European Union (EU) enacted the General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679) which will be enforced starting May 25, 2018. The GDPR is designed to give EU residents better control over their personal data regardless of where data is sent, processed or stored by establishing one set of data protection rules across the EU.
 
