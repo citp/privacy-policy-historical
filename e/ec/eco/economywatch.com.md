@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the economywatch.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202053235id_/http%3A//www.economywatch.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economywatch.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615051449id_/http%3A//www.economywatch.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Economy Watch
 
