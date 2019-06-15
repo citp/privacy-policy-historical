@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jojosrew.site privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213055836id_/http%3A//jojosrew.site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jojosrew.site privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615024755id_/https%3A//jojosrew.site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jojosrew
 
