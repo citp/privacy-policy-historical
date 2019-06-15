@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispconfig.org privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929203335id_/https%3A//www.ispconfig.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispconfig.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615164721id_/https%3A//www.ispconfig.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ISPConfig
 
