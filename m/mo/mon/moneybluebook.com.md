@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the moneybluebook.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203044822id_/http%3A//www.moneybluebook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybluebook.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615201959id_/http%3A//www.moneybluebook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **QuinStreet Privacy Policy**
 
-**LAST UPDATED** : May 25, 2018
+LAST UPDATED: May 25, 2018
 
 QuinStreet, Inc. owns and operates any website that displays this Privacy Policy (each, a “Site”). Your privacy is important to us. We created this Privacy Policy to explain how we collect, use, and share the information that we collect from and about you on this Site. By using this Site, you agree to the terms of this Privacy Policy.
 
