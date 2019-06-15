@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the shareyourfreebies.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220191550id_/http%3A//shareyourfreebies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareyourfreebies.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615202514id_/https%3A//shareyourfreebies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShareYourFreebies
 
 ShareYourFreebies.com (the “Website,” “App” or “we”) is committed to protecting the privacy and security of users of our Website.  This Privacy Policy sets forth how the Website collects and uses personal information, and is incorporated by reference into our Terms of Use.  Using our Website constitutes an acknowledgement and agreement that you have read and accepted our privacy practices set forth below.  Please do not use this Website if you do not agree to our privacy practices.
 
-**1\. CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION**
+ **1\. CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION**
 
 This Website follows generally accepted industry standards to protect personally identifiable information sent to our Website, both during transmission and thereafter.  We maintain our servers in a secure and environmentally controlled location and protect our network with a secure firewall.   Also, we store personal information only on computers which are connected to the Internet, and actively limit employee, agent, and service providers’ access to users’ information.
 
 Despite all of our efforts to maintain your confidentiality and security, no method of transmission over the Internet and no method of electronic storage is completely secure and we cannot guarantee the absolute security of your personal information.
 
-**2\. PERSONAL INFORMATION WE WILL COLLECT – CONSUMER NOTICE**
+ **2\. PERSONAL INFORMATION WE WILL COLLECT – CONSUMER NOTICE**
 
 You are not required to register in order to use our Website, but you must sign up to receive samples or freebies. When you sign up, you will be required to provide your full name, email address, phone number, date of birth, and address.  In an effort to provide you with the most relevant samples or freebies available, you may also be asked to provide other information including but not limited to your relationship status, whether or not you ever use coupons, health matters, and your employment status.
 
@@ -18,7 +18,7 @@ We routinely collect and log the IP addresses of our users’ computers in order
 
 Our privacy notices comply with all applicable laws, regulations and industry best practices, such as the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Data and Multi-Site Data.  Users understand that the placement, use and reading of cookies and related technologies, and the collection, sharing and use of data in relation to activity by users, including: (i) that third parties may directly collect user data directly from us for their own use and subject to their own privacy policies not described herein, including but not limited to certain data partners; and (ii) that we collect PII that users have voluntarily disclosed and shares such PII and non-PII with third parties in a hashed or encrypted format or, if we include PII in the data, we have collected PII that users have voluntarily disclosed and share such PII with third parties for tailoring targeted advertisements to users on our Website and elsewhere based on the users’ expressed or presumed interests.
 
-**3\. PURPOSES FOR WHICH WE WILL USE PERSONAL INFORMATION**
+ **3\. PURPOSES FOR WHICH WE WILL USE PERSONAL INFORMATION**
 
 We will collect personal information from you for the following purposes:  
 a) To notify you of third party offers;  
@@ -29,7 +29,7 @@ e) To meet legal and regulatory requirements;
 f) To administer, maintain, manage, and improve our business operations; and  
 g) As otherwise required by law.
 
-**4\. SHARING OF PERSONAL INFORMATION**
+ **4\. SHARING OF PERSONAL INFORMATION**
 
 We may share your personal information under the following circumstances:
 
@@ -42,23 +42,23 @@ f) If the information is required by our legal, financial, and other professiona
 g) If we obtain your advance consent as required by law.  
 Except as provided above, we will not share any of your information to any third party without permission.
 
-**5\. ACCESS TO YOUR PERSONAL INFORMATION**
+ **5\. ACCESS TO YOUR PERSONAL INFORMATION**
 
 To update, delete, or correct personal information on file with us, you should submit a written request mailed to us at the address listed in the “Contact Us” section below.
 
-**6\. EMAIL REQUESTS FOR PERSONAL INFORMATION**
+ **6\. EMAIL REQUESTS FOR PERSONAL INFORMATION**
 
 We will never initiate a request for personal information by email.  If you receive a request by email, please do not respond and notify us as set forth below. If you ever believe that you have been a victim of fraud, please report it to the police and take all available actions to protect yourself.  Also, please notify us, so that we can take all possible actions to protect you and the other users of this Website.
 
-**7\. CHILDREN**
+ **7\. CHILDREN**
 
 Our Website is committed to protecting the privacy of children.  For this reason, we restrict the use of our Website to persons eighteen (18) years of age or older, and we do not knowingly or intentionally collect personal information from children under the age of thirteen (13).
 
-**8\. CONTACT WITH YOU**
+ **8\. CONTACT WITH YOU**
 
 We may contact you from time to time via your email address, in order to send notices required by law, to provide information regarding this Website, or to resolve any complaint.  We also reserve the right to email information to you about our services, to provide offers, or to send out promotions to you.  You may at any time choose to unsubscribe (or “opt-out”) by contacting us at info@shareyourfreebies.com. Please type “UNSUBSCRIBE” in the subject line.  In the alternative, you may always unsubscribe via our unsubscribe link in each of our email messages, which shall never expire.   We will honor your unsubscribe request submitted via email on or before the tenth (10th) day following our receipt of your request.  Unsubscribing via the link in any email message you receive from us will remove your name from our list immediately.
 
-**9.   THIRD PARTIES**
+ **9.   THIRD PARTIES**
 
 Our Website contains advertisements and promotional offers by third parties.  Any links to third party websites will be moderated by third party companies and will not be subject to this privacy policy.  You should read any third party’s privacy policy to confirm that you agree to its terms prior to registering as a member of its website or agreeing to complete any personal information requests.  If you wish to opt out of receiving mailings from third parties, you must do so directly with such third parties.
 
@@ -67,11 +67,11 @@ Users understand and agree (a) that demographic or other interest data may be as
 These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  The cookies placed by our third party partners contain no personally identifiable information; they may contain demographic or other interest-based data in a de-identified form.  The information in these cookies may be linked to data you voluntarily have submitted to us, such as your name, postal address or email, which we may share in hashed or encrypted form.  To learn more about this behavioral advertising practice or to opt-out of this type of advertising and data provider cookies, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info and Networking Advertising Initiative at www.networkadvertising.org/choices/  
 Our third party partners or we may place cookies (or permit Cookies to be placed on behalf of our third parties or partners) on users’ browsers or email clients while they are using the Website. Users understand our use of third party cookies is for the purpose of serving targeted advertising or marketing by email; (ii) that by continuing to browse on our Website, users consent to the use of cookies for the purpose of serving targeted advertising or marketing by email; and (iii) users are allowed to learn more about and object to the use of cookies.
 
-**10\. OTHER LEGAL NOTICES**
+ **10\. OTHER LEGAL NOTICES**
 
 Any dispute over privacy or security will be subject to this Privacy Policy and our Terms of Use.  We will always make every effort to resolve any concerns regarding privacy that arise in connection with this Privacy Policy.
 
-**11\. OTHER INFORMATION FOR CALIFORNIA RESIDENTS**
+ **11\. OTHER INFORMATION FOR CALIFORNIA RESIDENTS**
 
 As a California resident using our Website, you expressly acknowledge and agree to the following: In compliance with Chapter 390 of Section 22575 of the Business and Professions Code, our third party affiliates, partners and advertisers, are prominently disclosed here in our Privacy Policy, our Terms of Use and during your disclosure of your personal identifiable information. This includes all third parties that we work with.
 
@@ -81,20 +81,20 @@ Further, in accordance with California Civil Code Sec. 1789.3, California reside
 
 Pursuant to The California Online Privacy Protection Act of 2003 (“CalOPPA”) we do not collect nor do we allow third parties to collect personally identifiable information over time and across third party websites and online services. The only third party that has access to data does this only on our website. As such we have no need of response to browser Do-Not-Track (“DNT”) signals or other mechanisms that provide consumers with choice regarding the collection of such information. We only collect data from our website (to provide our users with more relevant freebies as they visit our site). Please carefully read our Terms of Use and Privacy Policy as well as this section related to the other categories of personally identifiable information (“PII”) collected and with whom it is shared.
 
-**12\. CONTACT US**
+ **12\. CONTACT US**
 
 If you have any questions or concerns over this Privacy Policy or if you need further information regarding the access to your personal information, or how your personal information is used, you may contact us as listed below:
 
-**ShareYourFreebies.com** ,  
+ **ShareYourFreebies.com** ,  
 1540 Keller Parkway,  
 Suite 108, PMB 260,  
 Keller, Texas 76248
 
-**13\. CHANGES AND UPDATES TO THIS PRIVACY POLICY**
+ **13\. CHANGES AND UPDATES TO THIS PRIVACY POLICY**
 
 We may amend this Privacy Policy at any time in our sole discretion without prior notice.  If we make any material amendments, we will advise you about those changes by notifying you in a prominent place on our Website.  You should check back with us from time to time in order to confirm that there have been no significant changes. Please note that the use of information that we gather is subject to the Privacy Policy then in effect when we gather the information.
 
-**14.     EFFECTIVE DATE**
+ **14.     EFFECTIVE DATE**
 
 Our Privacy Policy was last modified July 2016.
 
