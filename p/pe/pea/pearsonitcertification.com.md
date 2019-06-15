@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pearsonitcertification.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029124200id_/http%3A//www.pearsonitcertification.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonitcertification.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615082419id_/http%3A//www.pearsonitcertification.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice | Pearson IT Certification
 
 ### Information Collection and Use
 
-PearsonITCertification.com is operated from 800 East 96th Street, Indianapolis, IN, 46240, and is operated by Pearson Education, Inc. ("Company"). We can be reached by email at [comments@informit.com](mailto:comments@informit.com).
+PearsonITCertification.com is operated from 221 River Street, Hoboken, NJ, 07030, and is operated by Pearson Education, Inc. ("Company"). We can be reached by email at [comments@informit.com](mailto:comments@informit.com).
 
 We will not sell, share, or rent Personally Identifying Information to others in ways different from what is disclosed in this statement. PearsonITCertification.com collects information from our users at several different points on our web site. Pearson Education recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our web site. 
 
@@ -40,7 +40,7 @@ We will share anonymous demographic information and/or webpage browsing patterns
 
 We use an outside credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
-From time-to-time we partner with outside service providers and other vendors that provide enhanced functionality on our website that may be of interest to you. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. For example, we may contact customers who have not checked out to follow up on abandoned shopping carts or to see if there was a problem with their use of the site. These parties are not allowed to use Personally Identifiable Information except for the purpose of providing these services. Like newsletters and promotional or special offers that we may send to you, you may opt out of receiving these abandoned cart reminders at any time by simply unsubscribing from this service. Simply click the unsubscribe link at the bottom of your abandoned cart reminder, and you will be able to manage and/or remove your account information.
+From time to time, we partner with outside service providers and other vendors that provide enhanced functionality on our website that may be of interest to you. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. For example, we may contact customers who have not checked out to follow up on abandoned shopping carts or to see if there was a problem with their use of the site. These parties are not allowed to use Personally Identifiable Information except for the purpose of providing these services. Like newsletters and promotional or special offers that we may send to you, you may opt out of receiving these abandoned cart reminders at any time by simply unsubscribing from this service. Simply click the unsubscribe link at the bottom of your abandoned cart reminder, and you will be able to manage and/or remove your account information.
 
 ### Links
 
@@ -48,7 +48,7 @@ This web site contains links to other sites. Please be aware that we are not res
 
 ### Newsletters
 
-If you have elected to receive email newsletters or promotional mailings and special offers but want to unsubscribe, simply visit [www.pearsonitcertification.com/u.aspx](https://web.archive.org/u.aspx), enter your email address in the field supplied, and click the Submit button. On the resulting page, check the box of the particular item(s) you would no longer like to receive, and click the Unsubscribe button. 
+If you have elected to receive email newsletters or promotional mailings and special offers but want to unsubscribe, simplyemail [information@informit.com](mailto:information@informit.com?subject=Unsubscribe) and put "Unsubscribe" in the subject line or body of the message.
 
 ### Service Announcements
 
