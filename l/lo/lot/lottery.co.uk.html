@@ -1,0 +1,665 @@
+<!--The following is the downloaded HTML source of the lottery.co.uk privacy policy that was archived on 2019-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190616004816id_/https%3A//www.lottery.co.uk/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Lottery.co.uk Privacy Policy</title>
+<meta name="description" content="Lottery.co.uk is committed to protecting your privacy. This Privacy Policy outlines how we protect any information you provide us with when using our site.">
+<meta name="keywords" content="lottery.co.uk privacy policy">
+<meta name="author" content="The Lottery Company Ltd">
+<meta name="format-detection" content="telephone=no">
+
+
+
+	<meta property="og:title" content="Lottery.co.uk Privacy Policy">
+	<meta property="og:description" content="Lottery.co.uk is committed to protecting your privacy. This Privacy Policy outlines how we protect any information you provide us with when using our site.">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.lottery.co.uk/privacy-policy">
+	<meta property="og:site_name" content="Lottery">
+	<meta property="og:image" content="https://www.lottery.co.uk/images/open-graph/lotterycouk-og.jpg">
+	<meta property="fb:admins" content="100002871442561">
+	
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+
+	<link href="/css/desktop.css?v=20190429124644" rel="stylesheet" type="text/css">
+	<noscript>
+		<style type="text/css">
+			.minimised{height:auto !important;overflow:visible !important}
+			.socialContainer{display:none}
+		</style>
+	</noscript>
+
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+<meta name="robots" content="noindex">
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		ga('create','UA-3838501-10','lottery.co.uk');
+		ga('require','linkid','linkid.js');
+		ga('require','displayfeatures');
+		ga('send','pageview');
+	</script>
+
+
+<script>
+	// Multiple window onload function
+	function addLoadEvent(e){var t=window.onload;if(typeof window.onload!="function"){window.onload=e}else{window.onload=function(){if(t){t()}e()}}}
+</script>
+
+
+
+</head>
+
+<body>
+
+<a id="top"></a>
+
+<header>
+
+	
+
+	<div id="login-panel" style="position: relative; margin-top:-132px">
+
+		<div class="container">
+			
+			<form id="form_login" name="form" action="/login" method="post" onsubmit="return checkloginForm();" class="horizontal-login">
+				<div class="username">
+					<input id="Email0" name="Email" type="text" placeholder="Email" class="form-control" value="" aria-label="Email Address">
+					<span><a href="/forgotten-password" title="Forgetten Your Password?">Forgot Password?</a></span>
+				</div>
+				<div class="password">
+					<input id="Password0" name="Password" type="password" placeholder="Password" class="form-control" aria-label="Password">
+				</div>
+				<div class="submit">
+					<button id="submit_login_details" type="submit" class="button-blue cont-button" onclick="ga('send','event','Login','click','Header Desktop - /privacy-policy.asp')">Sign In</button>
+				</div>
+				<input id="Login0" name="Login" type="hidden" value="1">
+			</form>
+			
+			<div class="join">
+			
+				
+				
+					Haven't Registered? <a href="/register" title="Join Free Lottery"><div class="button-yellow">Join Now</div></a>
+					
+					<p><a href="/why-register" title="Registration Benefits">What are the benefits of registering?</a></p>
+					
+					
+					
+						<button id="panelButton" class="panel-button">Sign In</button>
+						<noscript>
+							<form method="post" action="/login" id="login_button" name="form">
+								<button class="panel-button">Sign In</button>
+							</form>
+						</noscript>
+						<a id="panel-close" onclick="return false;" style="cursor:pointer;">Close <span>X</span></a>
+					
+					
+				
+			</div>
+		
+		</div>
+		
+	</div>
+	
+
+
+<script type="text/javascript">	
+
+	
+	
+		(function() {
+			
+			var minheight = -132;
+			var maxheight = 0;
+			var time = 300;
+			var timer = null;
+			var toggled = false;
+			
+			window.onload = function() {
+				
+				if (document.getElementById('quickPick')) {
+					SelectedBalls();	
+				}
+				
+				if (document.getElementById('panelButton')) {
+					var panelBtn = document.getElementById('panelButton');
+					var panelBtnCls = document.getElementById('panel-close');
+					
+					if (panelBtn.addEventListener) {
+						panelBtn.addEventListener("click", loginSlider);
+						panelBtnCls.addEventListener("click", loginSlider);
+					} else {
+						panelBtn.attachEvent("onclick", loginSlider);
+						panelBtnCls.attachEvent("onclick", loginSlider);
+					}
+				}
+				
+				var slider = document.getElementById('login-panel');
+				slider.style.marginTop = minheight + 'px';
+				
+				function loginSlider() {
+					
+					clearInterval(timer);
+					var instanceheight = parseInt(slider.style.marginTop);
+					var init = (new Date()).getTime();
+					var height = (toggled = !toggled) ? maxheight : minheight;
+					var disp = height - parseInt(slider.style.marginTop);
+					
+					timer = setInterval(function() {
+						var instance = (new Date()).getTime() - init;
+						if (instance < time) {
+							var con = instance / time;
+							var pos = Math.floor(disp * con);
+							result = instanceheight + pos;
+							slider.style.marginTop = result + 'px';
+						} else {
+							slider.style.marginTop = height + 'px';
+							/*safety side ^^*/
+							clearInterval(timer);
+						}
+					}, 1);
+				};
+			};
+			
+		})();
+		
+	
+	
+</script>
+
+
+
+	<script type="text/javascript">
+	
+		function checkloginForm() {
+			
+			if (document.getElementById("Email0").value == "") {
+				alert("Please enter your email address.");
+				document.getElementById("Email0").focus();
+				return false;
+			} else {
+				apos = document.getElementById("Email0").value.indexOf("@");
+				dotpos = document.getElementById("Email0").value.lastIndexOf(".");
+
+				if (apos < 1 || dotpos - apos < 2) {
+					alert("Please enter a valid email address.");
+					document.getElementById("Email0").focus();
+					return false;
+				}
+			}
+			
+			if (document.getElementById("Password0").value == "") {
+				alert("Please enter a password.");
+				document.getElementById("Password0").focus();
+				return false;
+			}
+			
+			return true;
+		}
+		
+	</script>
+	
+
+
+	<div class="hf header">
+		<div class="hf-inner">
+			<a class="siteLogo" href="/" title="Lottery"><img src="/images/template/logo.png" alt="Lottery" width="311" height="51"></a>
+			<div class="topRight">
+				
+					<div class="user"><a href="/register" title="Create a free Lottery.co.uk account" style="color:#fff;">Register</a></div>
+				
+			</div>
+			
+				<ul id="tabMenu">
+					<li><a href="/lottery-tickets" title="Buy Lottery Tickets Online" class="tickets">Tickets</a></li>
+					<li><a href="/scratchcards" title="Play Scratchcards Online">Scratchcards</a></li>
+					<li><a href="https://games.lottery.co.uk/" title="Lottery Games">Lottery Games</a></li>
+					<li><a href="/results" title="View the latest lottery results">Results</a></li>
+				</ul>
+				
+				<div id="sitesearch">
+					<form method="get" action="/search" id="search"><input type="text" name="addsearch" placeholder="Search" aria-label="Search" class="box"></form> 
+				</div>
+			
+		</div>
+	</div>
+</header>
+
+<div id="siteContainer">
+
+	
+
+<div id="sidebarLeft">
+	<nav>
+		
+			<ul class="sideMenu" id="sideMenu">
+		
+				<li class="menuTitle">Main Menu</li>
+			
+			<li><a href="/" title="Lottery" class="nav-home left">Lottery.co.uk</a></li>
+			
+			<li>
+				<a href="/results" title="Lottery Results" class="nav-results subAvailable">Lottery Results</a>
+				
+				<ul class="subMenu" onmouseover="hover(this,'on')" onmouseout="hover(this,'off')">
+					<li><a href="/lotto/results" title="Lotto Results">Lotto</a></li>
+					<li><a href="/euromillions/results" title="EuroMillions Results">EuroMillions</a></li>
+					<li><a href="/euromillions/millionaire-maker/results" title="EuroMillions Millionaire Maker Results">Millionaire Maker</a></li>
+					<li><a href="/euromillions/hot-picks/results" title="EuroMillions HotPicks Results">EuroMillions HotPicks</a></li>
+					<li><a href="/thunderball/results" title="Thunderball Results">Thunderball</a></li>
+					<li><a href="/set-for-life/results" title="Set For Life Results">Set For Life</a></li>
+					<li><a href="/lotto/hotpicks/results" title="Lotto HotPicks Results">Lotto HotPicks</a></li>
+					<li><a href="/irish-lotto/results" title="Irish Lotto Results">Irish Lotto</a></li>
+					<li><a href="/postcode-lottery/results" title="Postcode Lottery Results">Postcode Lottery</a></li>
+					<li><a href="/health-lottery/results" title="Health Lottery Results">Health Lottery</a></li>
+					<li><a href="/local-lotto-results" title="Local Lottery Results">Local Lotto</a></li>
+					<li><a href="/free-lottery/results" title="Free Lottery Results">Free Lottery</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="/checker" title="Lottery Results Checker" class="nav-checker subAvailable">Checker</a>
+				
+				<ul class="subMenu" onmouseover="hover(this,'on')" onmouseout="hover(this,'off')">
+					<li><a href="/lotto/checker" title="Lotto Results Checker">Lotto</a></li>
+					<li><a href="/euromillions/checker" title="EuroMillions Results Checker">EuroMillions</a></li>
+					<li><a href="/euromillions/checker#millionaire-maker" title="Millionaire Maker Results Checker">Millionaire Maker</a></li>
+					<li><a href="/thunderball/checker" title="Thunderball Results Checker">Thunderball</a></li>
+					<li><a href="/set-for-life/checker" title="Set For Life Results Checker">Set For Life</a></li>
+					<li><a href="/irish-lotto/checker" title="Irish Lotto Results Checker">Irish Lotto</a></li>
+					<li><a href="/health-lottery/checker" title="Health Lottery Results Checker">Health Lottery</a></li>
+					<li><a href="/postcode-lottery/checker" title="Postcode Lottery Results Checker">Postcode Lottery</a></li>
+					<li><a href="/free-lottery/checker" title="Free Lottery Results Checker">Free Lottery</a></li>
+				</ul>
+				</li>
+			 <li><a href="/lottery-tickets" class="nav-tickets" title="Lottery Tickets &amp; Online Entries">Lottery Tickets</a></li>
+			
+			<li>
+				<a href="/number-generator" title="Lottery Number Generator" class="nav-random subAvailable">Number Generator</a>
+				
+				<ul class="subMenu" onmouseover="hover(this,'on')" onmouseout="hover(this,'off')">
+					<li><a href="/lotto/number-generator" title="Lotto Number Generator">Lotto</a></li>
+					<li><a href="/euromillions/number-generator" title="EuroMillions Number Generator">EuroMillions</a></li>
+					<li><a href="/thunderball/number-generator" title="Thunderball Number Generator">Thunderball</a></li>
+					<li><a href="/set-for-life/number-generator" title="Set For Life Number Generator">Set For Life</a></li>
+					<li><a href="/irish-lotto/number-generator" title="Irish Lotto Number Generator">Irish Lotto</a></li>
+					<li><a href="/health-lottery/number-generator" title="Health Lottery Number Generator">Health Lottery</a></li>
+					<li><a href="/free-lottery/number-generator" title="Free Lottery Number Generator">Free Lottery</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="/lotteries" title="Lotteries" class="nav-lotteries subAvailable">The Lotteries</a>
+				
+				<ul class="subMenu" onmouseover="hover(this,'on')" onmouseout="hover(this,'off')">
+					<li><a href="/lotto" title="Lotto Draw Information">Lotto</a></li>
+					<li><a href="/euromillions" title="EuroMillions Lottery Information">EuroMillions</a></li>
+					<li><a href="/euromillions/millionaire-maker" title="EuroMillions Millionaire Maker Information">Millionaire Maker</a></li>
+					<li><a href="/euromillions/hot-picks" title="EuroMillions HotPicks Information">EuroMillions HotPicks</a></li>
+					<li><a href="/thunderball" title="Thunderball Information">Thunderball</a></li>
+					<li><a href="/set-for-life" title="Set For Life Information">Set For Life</a></li>
+					<li><a href="/lotto/hotpicks" title="Lotto HotPicks Information">Lotto HotPicks</a></li>
+					<li><a href="/irish-lotto" title="Irish Lotto Information">Irish Lotto</a></li>
+					<li><a href="/health-lottery" title="Health Lottery Information">Health Lottery</a></li>
+					<li><a href="/postcode-lottery" title="Postcode Lottery Information">Postcode Lottery</a></li>
+					<li><a href="/free-lottery" title="Free Lottery Information">Free Lottery</a></li>
+					<li><a href="/other-lottery-games" title="Information on other world lotteries">Other Lotteries</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="/statistics" title="Lottery Statistics" class="nav-stats subAvailable">Statistics</a>
+				
+				<ul class="subMenu" onmouseover="hover(this,'on')" onmouseout="hover(this,'off')">
+					<li><a href="/lotto/statistics" title="Lottery Statistics">Lotto</a></li>
+					<li><a href="/euromillions/statistics" title="EuroMillions Statistics">EuroMillions</a></li>
+					<li><a href="/thunderball/statistics" title="Thunderball Statistics">Thunderball</a></li>
+					<li><a href="/set-for-life/statistics" title="Set For Life Statistics">Set For Life</a></li>
+					<li><a href="/irish-lotto/statistics" title="Irish Lotto Statistics">Irish Lotto</a></li>
+					<li><a href="/health-lottery/statistics" title="Health Lottery Statistics">Health Lottery</a></li>
+					<li><a href="/postcode-lottery/statistics" title="Postcode Lottery Statistics">Postcode Lottery</a></li>
+					<li><a href="/free-lottery/statistics" title="Free Lottery Statistics">Free Lottery</a></li>
+				</ul>
+			</li>
+			
+			<li>
+				<a href="/information" title="Lottery Information" class="nav-info subAvailable">Help &amp; Information</a>
+				
+				<ul class="subMenu" onmouseover="hover(this,'on')" onmouseout="hover(this,'off')">
+					<li><a href="/lost-ticket" title="Lost Lottery Tickets">Lost Tickets</a></li>
+					<li><a href="/winners-guide" title="Winners Guide - How to Claim Prizes">What Happens When You Win?</a></li>
+					<li><a href="/scams" title="Identifying and Avoiding Lottery Scams">Scams</a></li>
+					<li><a href="/good-causes" title="Lottery Funding">Good Causes</a></li>
+					<li><a href="/unclaimed-lottery-prizes" title="Lottery Unclaimed Prizes">Unclaimed Prizes</a></li>
+					<li><a href="/syndicates" title="Syndicate Information">Syndicates</a></li>
+					<li><a href="/information" title="More Lottery Help &amp; Information">More...</a></li>
+				</ul>
+			</li>
+			 
+			<li><a href="/news" title="Lottery News" class="nav-news">News</a></li>
+		</ul>
+		
+		
+	</nav>
+	
+	<script>
+		function hover(obj,state) {
+			if (state == 'on') {prevNode(obj).className+=' hovered'}
+			else {prevNode(obj).className = prevNode(obj).className.replace(' hovered','')}	
+		}
+		function prevNode(n) {
+			x = n.previousSibling
+			while (x.nodeType != 1) {
+				x = x.previousSibling;
+			} return x;
+		};
+		function nextNode(n) {
+			x = n.nextSibling
+			while (x.nodeType != 1) {
+				x = x.nextSibling;
+			} return x;
+		};
+		
+	</script>
+
+	
+			<a href="/en/play/pm" title="Bet on Boris for next Prime Minister now at Sports.net" rel="nofollow noopener" target="_blank">
+				<img src="/images/promos/bet-on-boris-desktop.jpg" alt="Bet on Boris for the next Prime Minister" class="sideSquare" width="248" height="248">
+			</a>
+		
+				<div class="casino-big">
+					
+
+	<style type="text/css">
+	
+		#game-area,#gamesBox {width: 300px; height: 260px; margin: auto; padding: 0; margin-bottom: 20px;}
+		#got,#piggy,#hal,#jura{position:absolute;background-size:100% 100%;width:100%;height:100%;top:0;left:0;opacity:0;border-radius:6px;}
+		#got{background-image:url(/images/games/got-bg.jpg);z-index:4;opacity:1;transform:scale(1);animation-name:got}
+		#piggy{background-image:url(/images/games/piggy-bg.jpg);z-index:3;animation-name:piggy}
+		#hal{background-image:url(/images/games/foxinwins-bg.jpg);z-index:2;animation-name:hal}
+		#jura{background-image:url(/images/games/games-1/jura-bg.jpg);z-index:1;animation-name:jura}
+		.gamesBox a {right: 20px !important;}
+		
+		#got-logo {position: relative; display: block; margin: auto; top: 30%; left: 2%; width: 70%; transform: scale(1);animation-name:got-logo}
+		
+		#piggy-logo {position: relative; display: block; margin: auto; top: -60%; width: 90%; animation-name:piggy-logo}
+		#piggy-pig {position: absolute; top: 50%; right: -60%; width: 60%; animation-name:piggy-pig}
+		
+		#hal-logo{position:absolute;width:150px;display:block;top:5%;right:0;z-index:1;transform:scale(1);animation-name:hal-logo}
+		#hal-fox{position:absolute;width:175px;left:-85%;top:0;animation-name:hal-fox}
+		
+		#jura-logo{position:absolute;width:40%;top:5%;right:-50%;animation-name:jura-logo;left:auto !important;}
+		#jura-indominus{position:absolute;width:70%;top:20%;left:-70%;animation-name:jura-indominus}
+		
+		#got,#got-logo,#got-crown,#piggy,#piggy-logo,#piggy-pig,#hal,#hal-fox,#hal-logo,#jura,#jura-logo,#jura-indominus{
+			-webkit-animation-timing-function:ease-in-out;-webkit-animation-iteration-count:infinite;-webkit-animation-duration:16s;
+			animation-timing-function:ease-in-out;animation-iteration-count:infinite;animation-duration:16s
+		}
+		
+		@keyframes got{0%,23%,97%,100%{opacity:1;transform:scale(1);}25%,96%{opacity:0;transform:scale(.001)}}
+		@keyframes got-logo{0%,97%,100%{transform:scale(.001)}3%,95%{transform:scale(1)}}
+	
+		@keyframes piggy{23%,47%{opacity:1;transform:scale(1);}0%,50%,100%{opacity:0;transform:scale(.001)}}
+		@keyframes piggy-logo{0%,25%{top:-60%}28%,100%{top: 10%;}}
+		@keyframes piggy-pig{0%,28%{right:-60%;}31%,100%{right:10%;}}
+		
+		@keyframes hal{47%,72%{opacity:1;transform:scale(1);}0%,75%,100%{opacity:0;transform:scale(.001)}}
+		@keyframes hal-logo{0%,50%{transform:scale(.001)}53%,100%{transform:scale(1)}}
+		@keyframes hal-fox{0%,53%{left:-70%;}56%,100%{left:-5%;}}
+
+		@keyframes jura{0%,97%{opacity:1;transform:scale(1);}92%{z-index:1;}95%{z-index:5;}100%{opacity:0;transform:scale(.001);z-index:5;}}
+		@keyframes jura-logo{0%,75%{right:-50%}78%,100%{right:5%}}
+		@keyframes jura-indominus{0%,78%{left:-70%}80%,100%{left:0}}
+		
+		.casino-big {width:250px;height:250px;display:inline-block;position:relative;border-radius:5px;overflow:hidden;margin-top:15px;}
+		.casino-big #game-area {width:100%; height: 100%;}
+		.casino-big img {border: none !important; margin-top: 0 !important;}
+		.casino-big a {position: absolute; top: 180px; right: 10px; padding: 5px 40px 5px 15px;}
+		.casino-big a:hover {top: 180px; margin-top: 2px;}
+		.casino-big a:active {top: 180px; margin-top: 4px;}
+
+	</style>
+
+	<div id="game-area">
+	
+		<div id="got">
+			<img src="/images/games/box-got-logo.png" alt="Game of Thrones" id="got-logo">
+			
+		</div>
+		
+		<div id="hal">
+			<img src="/images/games/foxinwin-logo.png" alt="Foxin Wins Logo" id="hal-logo">
+			<img src="/images/games/foxinswins-fox.png" alt="Fox" id="hal-fox">
+			
+		</div>
+	
+		<div id="piggy">
+			<img src="/images/games/piggy-logo.png" alt="Piggy Bank" id="piggy-logo">
+			<img src="/images/games/piggy-pig.png" alt="Pig" id="piggy-pig">
+			
+		</div>
+
+		<div id="jura">
+			<img src="/images/games/games-1/jura_2_logo.png" alt="Jurassic World Online Slot" id="jura-logo">
+			<img src="/images/games/games-1/jura_indominus.png" alt="Indominus" id="jura-indominus">
+			
+		</div>
+		
+	</div>
+
+
+				</div>
+			
+		<div class="centred">
+			
+			<a href="https://twitter.com/lottery_uk" title="Click here for our Twitter page" target="_blank" rel="noopener"><img src="/images/template/icon-twitter.svg" alt="Twitter" style="width:40px"></a>
+			<a href="https://www.instagram.com/lottery_uk/" title="Click here for our Instagram page" target="_blank" rel="noopener"><img src="/images/template/icon-instagram.svg" alt="Instagram" style="width:40px"></a>
+		</div>
+
+	
+
+</div>
+
+
+	
+	<a id="content"></a>
+	
+	
+	
+<div class="main">
+	
+	<h1>Privacy Policy</h1>
+	
+	<ol class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+		 <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><meta itemprop="position" content="1">
+			  <a href="/" title="Lottery.co.uk Home" itemprop="item">
+			  <span itemprop="name">Lottery.co.uk</span></a>
+		 </li>
+		 <li>Privacy Policy</li>
+	</ol>
+
+	<p>We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal data.</p>
+	<p>By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy. For further information on cookies, please read our <a href="/cookies" title="Lottery.co.uk Cookie Policy">Cookie Policy</a>.</p>
+
+	<h2>What data do we collect?</h2>
+	<p>We may collect, store and use the following kinds of personal data:</p>
+	<ul class="bullet">
+		<li>Identity Data including first name and last name.</li>
+		<li>Contact Data meaning your email and postal address.</li>
+		<li>Entry Data means details about entries you have made on our website including the numbers and draws you have entered.</li>
+		<li>Technical Data means details about the device(s) you use to access our website including your IP address, browser type and version, location, operating system and referral source.</li>
+		<li>Profile Data includes your login data plus any other optional information that you choose to give to us in your profile such as telephone number, preferences, feedback and survey responses.</li>
+		<li>Usage Data includes information about how you use our website, products and services. This includes your navigation through the site like how long you might spend on one of our webpages and which page you look at next, page response times and page interaction information such as site searches.</li>
+		<li>Marketing and Communications Data includes your preferences in receiving marketing from us, third-parties and your communication preferences.</li>
+	</ul>
+
+	<h2>How is your personal data collected?</h2>
+	<p>Personal Data is only collected when you use our website and choose to enter one or more of the free draws or to create an account on the site.  </p>
+	<p>Some data may also be collected if you email us for any reason, but only that data which is required to answer your queries.</p>
+	
+	<h2>How do we use your personal data?</h2>
+	<p>Personal Data submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.</p>
+	<p>We may use your personal data to:</p>
+	<ul class="bullet">
+		<li>Administer the website.</li>
+		<li>Improve your browsing experience by personalising the website to reflect your specific areas of interest.</li>
+		<li>Enable your use of the services available on the website.</li>
+		<li>Supply to you the services purchased via the website.</li>
+		<li>Send you general or marketing communications.</li>
+		<li>Send you information or email notifications which you have specifically requested.</li>
+		<li>Send you any newsletters and/or marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you and where you have specifically agreed to receiving this information by email. You can opt out of receiving this information at any time by emailing or writing to us using the details provided on our <a href="/contact" title="Contact Lottery.co.uk">Contact Us</a> page.</li>
+		<li>Send you invitations to enter any promotions or competitions we may from time to time offer our visitors.</li>
+		<li>Deal with enquiries and complaints made by you relating to the website.</li>
+		<li>Keep the website secure and prevent fraud.</li>
+		<li>Verify compliance with International Laws and the terms and conditions governing the use of the website.</li>
+	</ul>
+	<p>We will not provide your personal data to any third parties for the purpose of direct marketing if you have unsubscribed from the service.</p>
+
+	<h2>Disclosures</h2>
+	<p>We may disclose your personal data to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes set out in this privacy policy.</p>
+	<p>We may disclose your personal data to any member of our group of companies (this means our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes set out in this privacy policy.</p>
+	<p>In addition, we may disclose your personal data:</p>
+	<ul class="bullet">
+		<li>To the extent that we are required to do so by law.</li>
+		<li>In connection with any ongoing or prospective legal proceedings.</li>
+		<li>In order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention.</li>
+		<li>To the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling.</li>
+		<li>To any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal data where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal data.</li>
+	</ul>
+	<p>Except as provided in this privacy policy, we will not provide your information to third parties.</p>
+
+	<h2>International data transfers</h2>
+	<p>Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.</p>
+	<p>Information which you provide may be transferred to other countries including those countries which do not have data protection laws equivalent to those in force in the European Economic Area.</p>
+	<p>In addition, personal data that you submit for publication on the website may subsequently be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.</p>
+
+	<h2>Security of your personal data</h2>
+	<p>We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal data.</p>
+	<p>We will store all the personal data you provide on our secure servers.</p>
+	<p>All electronic transactions entered into via the website will be protected by encryption technology.</p>
+	<p>You acknowledge that the transmission of information over the internet is potentially insecure and we cannot guarantee the security of data sent over the internet.</p>
+	<p>You are responsible for keeping your password and other login details confidential. While you will require your password to log in to your account, you will never be asked to disclose your password to a representative or employee of the company.</p>
+	<p>We will cooperate with all law enforcement requests from within or outside the EU.</p>
+
+	<h2>Policy amendments</h2>
+	<p>We may update this privacy policy from time to time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.</p>
+	<p>We may also notify you of changes to our privacy policy by email.</p>
+	<p>This policy was last updated on 16th May, 2018.</p>
+
+	<h2>Your rights</h2>
+	<p>You may instruct us to provide you with any personal data we hold about you.</p>
+	<p>As a security measure, to prevent disclosure of your data to anybody who has no right to receive it, we will require evidence of your identity which will include a notarised photocopy of your passport plus an original copy of a utility bill showing your current address. We reserve the right to request additional information to establish your identify if required and withhold such personal data if required to do so by law.</p>
+	<p>You may instruct us not to process your personal data for marketing purposes, by emailing or writing to us using the details provided on our <a href="/contact" title="Contact Lottery.co.uk">Contact Us</a> page.</p>
+	<p>So long as it is legal for us to do so, you may request the deletion of your data at any time.</p>
+
+	<h2>Third party websites</h2>
+	<p>The website contains links to other websites. We are not responsible for the privacy policies or data practices of third party websites including Facebook, Twitter and Google.</p>
+
+	<h2>Data controller</h2>
+	<p>Take That Ltd. is the controller and responsible for your personal data (collectively referred to as, “we”, “us” or “our” in this Privacy Policy). We are registered with the Information Commissioner's Office and our data protection registration number is Z6413413.</p>
+	<p>If you have any questions for the Data Controller or about this Privacy Policy, including any requests to exercise your legal rights, please contact us via our customer contact page and state that your query is for the attention of the Data Controller.</p>
+
+	<h2>Data retention</h2>
+	<p>We will retain your data for as long as necessary to fulfil the purposes for which it was collected including any legal, reporting, accounting or insurance requirements.  This is generally 7 years unless the law prescribes a longer period.</p>
+	<p>So long as it is legal for us to do so, you may request the deletion of your data at any time.</p>
+	<p>Occasionally we may keep data for a longer period purely for statistical analysis.  Such data is anonymised and cannot be associated with you or your activities.</p>
+	
+	<h2>Contact</h2>
+	<p>If you have any questions about this privacy policy or our treatment of your personal data, please write to us at our postal address, The Lottery Company Ltd., The Exchange, Station Parade, Harrogate, HG1 1TS or contact us using our <a href="/contact" title="Contact Lottery.co.uk">Contact</a> page.</p>
+
+	<h2>Complaints</h2>
+	<p>If you have a complaint, please give us the chance to deal with your issue in the first instance. But you also have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (<a href="https://ico.org.uk" target="_blank" rel="nofollow noopener">https://ico.org.uk</a>).</p>
+
+</div>
+
+<br class="clear">
+
+</div>
+
+<footer>
+	<div class="hf footer">
+		<div class="hf-inner">
+			<a href="#top" rel="nofollow noopener" class="topBtn" title="Go back to the top of the page" id="topBtn" onclick="smoothScroll('top'); return false"></a>
+			
+			<p class="copyright">
+				<img src="/images/template/logo.png" alt="Lottery.co.uk" width="240" height="39" style="position:relative;top:13px; padding:0 10px"> 
+				
+				Copyright © 2019 Lottery.co.uk
+			</p>
+			<div class="footerLinks">
+				<a href="/contact" title="Contact Lottery.co.uk">Contact Us</a>
+				<a href="/disclaimer" title="Lottery.co.uk disclaimer">Disclaimer</a>
+				<a href="/privacy-policy" title="Lottery.co.uk Privacy Policy">Privacy Policy</a>
+				<a href="/cookies" title="Lottery.co.uk Cookie Policy">Cookie Policy</a>
+				<a href="/sitemap" title="Sitemap of Lottery.co.uk">Sitemap</a>
+				<a href="/terms-and-conditions" title="Lottery.co.uk Terms and Conditions">Terms and Conditions</a>
+			</div>
+			
+			<p class="disclaimer">The content and operations of this website have not been approved or endorsed by Camelot UK Lotteries Limited, the National Lottery Commission, SLE or People's Postcode Lottery.</p>
+		</div>
+	</div>
+</footer>
+
+<script>
+	function yPos(){
+		if(self.pageYOffset) return self.pageYOffset;
+		if(document.documentElement && document.documentElement.scrollTop) return document.documentElement.scrollTop;
+		if(document.body.scrollTop) return document.body.scrollTop;
+		return 0;
+	};
+	
+	function elYPos(eID) {
+		var elm = document.getElementById(eID), y = elm.offsetTop, node = elm;
+		while (node.offsetParent && node.offsetParent != document.body) {
+			node = node.offsetParent;
+			y += node.offsetTop;
+		} return y;
+	};
+
+	function smoothScroll(eID) {
+		var startY = yPos();
+		var stopY = elYPos(eID);
+		var distance = stopY > startY ? stopY - startY : startY - stopY;
+		if (distance < 100) {
+			scrollTo(0, stopY); return;
+		}
+		var speed = Math.round(distance / 100);
+		if (speed >= 20) speed = 20;
+		var step = Math.round(distance / 25);
+		var leapY = stopY > startY ? startY + step : startY - step;
+		var timer = 0;
+		if (stopY > startY) {
+			for ( var i=startY; i<stopY; i+=step ) {
+				setTimeout("window.scrollTo(0, "+leapY+")", timer * speed);
+				leapY += step; if (leapY > stopY) leapY = stopY; timer++;
+			} return;
+		}
+		for ( var i=startY; i>stopY; i-=step ) {
+			setTimeout("window.scrollTo(0, "+leapY+")", timer * speed);
+			leapY -= step; if (leapY < stopY) leapY = stopY; timer++;
+		}
+	}
+	
+	
+	if (document.getElementById("sidebarLeft") && document.getElementById("siteContainer").clientHeight <= document.getElementById("sidebarLeft").clientHeight + 100) {
+		document.getElementById("topBtn").style.display = 'none';
+	}
+	
+	
+	addLoadEvent(function(){
+		var allDivs = document.getElementsByTagName("div");
+		for (i = 0; i < allDivs.length; i++) {
+			if (allDivs[i].className.indexOf("socialContainer") != -1) {
+				allDivs[i].style.overflow = "visible";	
+			}
+		}
+	});
+	
+	
+</script>
+
+</body></html>
