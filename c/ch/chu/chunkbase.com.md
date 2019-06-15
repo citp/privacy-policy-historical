@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chunkbase.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823142906id_/http%3A//chunkbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chunkbase.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615172316id_/https%3A//chunkbase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,6 +19,10 @@ chunkbase.com may use local storage or store cookies on your device to provide a
 **Google Analytics**
 
 We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at [](http://www.google.com/policies/privacy/partners/)<http://www.google.com/policies/privacy/partners/>
+
+**Twitter**
+
+We use Twitter to embed the latest updates directly on our website. You may read more about Twitter's privacy policy here: [](https://developer.twitter.com/en/docs/twitter-for-websites/privacy)<https://developer.twitter.com/en/docs/twitter-for-websites/privacy>
 
 **Disqus**
 
