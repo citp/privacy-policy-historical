@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theclassyhome.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213203724id_/https%3A//www.theclassyhome.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclassyhome.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615212219id_/https%3A//www.theclassyhome.com/privacypolicy) for the most accurate reproduction.*
 
 # The Classy Home
 
@@ -285,6 +285,6 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
   * By email: [support@theclassyhome.com](mailto:support@theclassyhome.com)
-  * By visiting this page on our website: [Contact Us](https://web.archive.org/web/20181213203724id_/https%3A//www.theclassyhome.com/Contact.php)
+  * By visiting this page on our website: [Contact Us](https://web.archive.org/web/20190615212219id_/https%3A//www.theclassyhome.com/Contact.php)
 
 
