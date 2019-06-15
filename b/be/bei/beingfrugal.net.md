@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beingfrugal.net privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114173209id_/http%3A//www.beingfrugal.net/about/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beingfrugal.net privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615151124id_/http%3A//www.beingfrugal.net/about/disclosure-policy) for the most accurate reproduction.*
 
 # Legal Disclaimers and Privacy Policy
 
@@ -39,13 +39,3 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 ## Contact Information
 
 Email me at **editor@beingfrugal.net.**
-
-### Disclaimer and Legal Mumbo Jumbo
-
-I'm just an average mom, trying to live a frugal life and get out of debt. I write about things that have (and haven't) worked to improve my family's financial situation. What works for me may or may not work for you, and you should always consult a financial advisor before making important financial decisions.
-
-In accordance with FTC guidelines, I state that I have a financial relationship with companies mentioned in this website. This may include receiving access to free products and services for product and service reviews and giveaways.
-
-Any references to third party products, rates, or websites are subject to change without notice. I do my best to maintain current information, but due to the rapidly changing environment, some information may have changed since it was published. Please do the appropriate research before participating in any third party offers.
-
-For additional information, please review our [legal disclaimers and privacy policy](http://www.beingfrugal.net/about/disclosure-policy/).
