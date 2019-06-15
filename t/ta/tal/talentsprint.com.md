@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the talentsprint.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410050042id_/http%3A//www.talentsprint.com/privacy-policy.dpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentsprint.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616011512id_/https%3A//www.talentsprint.com/privacy-policy.dpl) for the most accurate reproduction.*
 
-# Privacy Policy - We like safeguard your information | TalentSprint
+# TalentSprint | Youth Career Accelerator
 
-This site is owned by TalentSprint Education Services Private Limited, hereinafter referred to as "TalentSprint". The terms "TalentSprint" and "TalentSprint" have been used interchangeably in this site. TalentSprint would like to safeguard the information you provide to us about yourself. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using, or submitting information, to this site. Use of this site constitutes your consent to our Privacy Policy. By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
+This site is owned by TalentSprint Education Services Private Limited, here in after referred to as "TalentSprint". The term "TalentSprint" have been used interchangeably in this site. TalentSprint would like to safeguard the information you provide to us about yourself. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using, or submitting information, to this site. Use of this site constitutes your consent to our Privacy Policy. By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
 
 **Copyright**
 
-All information displayed, transmitted or carried on [www.TalentSprint.com](http://www.talentsprint.com/) is protected by copyright and other intellectual property laws. You may not, under any circumstances, modify, publish, distribute, repost, perform, display or in any way commercially exploit any of the content on this web site.
+All information displayed, transmitted or carried on [www.TalentSprint.com](https://www.talentsprint.com/) is protected by copyright and other intellectual property laws. You may not, under any circumstances, modify, publish, distribute, repost, perform, display or in any way commercially exploit any of the content on this web site.
 
 **What we collect**
 
@@ -45,25 +45,21 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * whenever you are asked to fill in a form on the website, look for the box that you can Click to indicate that you do not want the information to be used by anybody for direct marketing purposes
   * if you have previously agreed to us using your personal information for direct marketing purposes, S1 you may change your mind at any time by writing to or emailing us at [unsubscribe@talentsprint.com](mailto:unsubscribe@talentsprint.com)S2
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to TalentSprint, Block A, IIIT Campus, Gachibowli, Hyderabad – 32.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to TalentSprint Pvt. Ltd., PSR Prime Tower, Beside DLF Cyber City, Gachibowli, Hyderabad - 500032.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us by clicking the "Contact Us" in the "About Us" menu tab.
+If there are any questions regarding this privacy policy you may contact us by Clicking the "Contact Us" in the "About Us" menu tab.
 
 **Changes to this Policy**
 
 Any changes in this Policy will be updated & posted on this site. Please check back periodically, and especially before you provide any personally identifiable information.
-
-* * *
-
-S2 Is this working? Or how do we implement this
