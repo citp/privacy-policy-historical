@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the packersproshop.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212083631id_/http%3A//www.packers.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packersproshop.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615075157id_/http%3A//www.packers.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
-# Packers.com, the official website of the Green Bay Packers
+# Packers Privacy Policy | Green Bay Packers – packers.com
 
 ## Green Bay Packers Website Privacy Policy
 
