@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the davidjeremiah.org privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318215528id_/http%3A//www.davidjeremiah.org%3A80/site/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidjeremiah.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615063908id_/https%3A//www.davidjeremiah.org/about/privacy) for the most accurate reproduction.*
 
-# 
+# Donor Privacy Policy - DavidJeremiah.org
 
-Websites [www.davidjeremiah.org](http://www.davidjeremiah.org/), [www.turningpointonline.org](http://www.turningpointonline.org/), [www.davidjeremiah.ca](http://www.davidjeremiah.ca/), [www.jeremiahstudybible.com](http://www.jeremiahstudybible.com/), [www.airshipgenesis.com](http://www.airshipgenesis.com/), [www.route66life.org](http://www.route66life.org/), [davidjeremiah.blog](https://davidjeremiah.blog/), and [www.momentodecisivo.org](http://www.momentodecisivo.org/) are provided by Turning Point with Dr. David Jeremiah. Your use of our website is governed by the [Terms and Conditions](https://web.archive.org/site/about/terms.aspx "Terms and Conditions"), and by your use of our website you accept and acknowledge this privacy policy.
+Websites [www.davidjeremiah.org](http://www.davidjeremiah.org/), [www.turningpointonline.org](http://www.turningpointonline.org/), [www.davidjeremiah.ca](http://www.davidjeremiah.ca/), [www.jeremiahstudybible.com](http://www.jeremiahstudybible.com/), [www.airshipgenesis.com](http://www.airshipgenesis.com/), [www.route66life.org](http://www.route66life.org/), [davidjeremiah.blog](https://davidjeremiah.blog/), and [www.momentodecisivo.org](http://www.momentodecisivo.org/) are provided by Turning Point with Dr. David Jeremiah. Your use of our website is governed by the [Terms and Conditions](https://web.archive.org/about/terms.aspx "Terms and Conditions"), and by your use of our website you accept and acknowledge this privacy policy.
 
   
 **A NOTE ABOUT THE PRIVACY OF CHILDREN UNDER 13**
