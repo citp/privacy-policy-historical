@@ -1,68 +1,49 @@
-> *The following text is extracted and transformed from the websitegrader.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208043711id_/http%3A//www.hubspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitegrader.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615021016id_/http%3A//www.hubspot.com/privacy-policy) for the most accurate reproduction.*
 
 # HubSpot Privacy Policy
 
-We at HubSpot (HubSpot, Inc. and our affiliates) are committed to protecting your privacy. This Privacy Policy applies to both our Websites (www.hubspot.com, www.hubspot.de, www.hubspot.fr, www.hubspot.es, www.hubspot.jp, br.hubspot.com, and www.inbound.com) and our Subscription Service (the Subscription Service), including our associated mobile applications (Mobile Apps) owned and controlled by HubSpot. This Privacy Policy governs our data collection, processing and usage practices. It also describes your choices regarding use, access and correction of your personal information. If you do not agree with the data practices described in this Privacy Policy, you should not use the Websites or the Subscription Service. 
+We at HubSpot (HubSpot, Inc. and our affiliates) are committed to protecting your privacy. This Privacy Policy applies to the information and data collected by HubSpot as a controller, including the information collected on our Websites (www.hubspot.com, www.hubspot.de, www.hubspot.fr, www.hubspot.es, www.hubspot.jp, br.hubspot.com, and www.inbound.com) or through other channels as described below. It also describes your choices regarding use, access and correction of your personal information. If you do not agree with the data practices described in this Privacy Policy, you should not use the Websites. 
+
+This Privacy Policy does not apply to the data HubSpot processes on behalf of our customers (Customer Data) in our capacity as a processor. Your use of the HubSpot Subscription Service (the Subscription Service) as a customer of HubSpot, including use of our associated mobile applications (Mobile Apps), is covered under the HubSpot Product Privacy Policy.
 
 We periodically update this Privacy Policy. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice by sending you an email notification, or if you subscribe to the Subscription Service, through the Notification app in your HubSpot portal.
 
-While we will notify you of any material changes to this Privacy Policy, we encourage you to review this Privacy Policy periodically. We will also keep prior versions of this Privacy Policy in an archive for your review.
+While we will notify you of any material changes to this Privacy Policy prior to the changes becoming effective, we encourage you to review this Privacy Policy periodically. We will also keep prior versions of this Privacy Policy in an archive for your review.
 
 If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at [privacy@hubspot.com](mailto:privacy@hubspot.com) or by mail to HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, Attn: Privacy.
 
-  1. **Use of the Subscription Service by HubSpot and our Customers**
-  2. **Information We Collect**
-  3. **How We Use Information We Collect**
-  4. **How we Share Information we Collect**
-  5. **International Transfer of Information**
-  6. **Cookies and Similar Technologies**
-  7. **How to Access& Control Your Personal Data**
+  1. ** Information We Collect**
+  2. **How We Use Information We Collect**
+  3. **How we Share Information we Collect**
+  4. **International Transfer of Information**
+  5. **Cookies and Similar Technologies**
+  6. **How to Access& Control Your Personal Data**
 
 
 
-## 1\. Use of the Subscription Service by HubSpot and our Customers
+## 1. Information We Collect
 
-**The HubSpot Subscription Service**
-
-Our online Subscription Service allows any company that uses it (our customers and HubSpot itself) to create and share marketing, sales and customer service content. The Subscription Service can also be used to help organize sales data about a company’s sales pipeline (e.g., leads, customers, deals, etc.). The information added to the Subscription Service, either by site visitors providing their contact information or when a Subscription Service user adds the information, is stored and managed on our service providers' servers. This information is then used to contact visitors about their interest in the company's goods or services and interact with the company. HubSpot provides the Subscription Service to our customers for their own marketing, lead generation, and customer service needs, and we use it to meet HubSpot’s related needs. 
-
-**Use by HubSpot**
-
-We use our own Subscription Service to build webpages that people can visit to learn more about HubSpot. Information that we collect and manage using the Subscription Service for our own marketing belongs to us and is used, disclosed and protected according to this Privacy Policy. 
-
-**Use by Our Customers**
-
-Our customers use the Subscription Service to build webpages that people can visit to learn more about their business. HubSpot does not control the content of these webpages or the types of information that our customers may choose to collect or manage using the Subscription Service. That information belongs to them and is used, disclosed and protected by them according to their privacy policies and is not subject to this Privacy Policy. HubSpot processes our customers' information as they direct and in accordance with our agreements with our customers, and we store it on our service providers' servers, but we do not have control over its collection or management. Our agreements with our customers prohibit us from using that information, except as necessary to provide and improve the Subscription Service, as permitted by this Privacy Policy, and as required by law. We have no direct relationship with individuals who provide Personal Information to our customers. HubSpot acknowledges that you have the right to access your Personal Information. Our customers control and are responsible for correcting, deleting or updating information they have collected from you using the Subscription Service. If requested to remove data we will respond within a reasonable timeframe. We may work with our customers to help them provide notice to their visitors about their data collection, processing and usage. Our agreements with our customers prohibit them from using the Subscription Service to collect, manage, or process Sensitive Information. We are not responsible for our customers' use of information they collect on the Subscription Service.
-
-HubSpot collects information under the direction of its customers, and has no direct relationship with the individuals whose Personal Information it processes. If you are a customer of one of our customers and would no longer like to be contacted by one of our customer that use our Subscription Service, please contact the customer that you interact with directly. We may transfer Personal Information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our customers.
-
-**"Sensitive Information"**
-
-This refers to credit or debit card numbers, personal financial account information, Social Security numbers, passport numbers, driver's license numbers or similar personal identifiers, racial or ethnic origin, physical or mental health condition or information, or other employment, financial or health information.
-
-## 2\. Information We Collect
+**Our Use of the Subscription Service  
+** We use our own Subscription Service to build webpages that people can visit to learn more about HubSpot. Information that we collect and manage using the Subscription Service for our own marketing belongs to us and is used, disclosed and protected according to this Privacy Policy. **  
+**
 
 **When You Visit our Websites**
 
 You are free to explore the Websites without providing any Personal Information about yourself. When you visit the Websites or register for the Subscription Service, we request that you provide Personal Information about yourself, and we collect Navigational Information. 
 
-**When You Use our Mobile Application**
-
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Apps on your mobile device. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. In addition to information we collect on our Websites, when you use our Mobile Apps we may also collect your city location, device model and version, device identifier (or “UDID”), OS version, and your HubSpot Subscription Service credentials. 
-
-We send push notifications from time to time in order to update you about events or promotions. If you no longer wish to receive such communications, you may turn them off at the device level.
-
-We may link information we store within the analytics software to Personal Information you submit within the Mobile App. We do this to improve services we offer you and improve our marketing, analytics and site functionality.
-
 **"Personal Information"**
 
 This refers to any information that you voluntarily submit to us and that identifies you personally, including contact information, such as your name, e-mail address, company name, address, phone number, and other information about yourself or your business. Personal Information can also include information about any transactions, both free and paid, that you enter into on the Websites, and information about you that is available on the internet, such as from Facebook, LinkedIn, Twitter and Google, or publicly available information that we acquire from service providers.
 
-Personal Information also includes Navigational Information or Payment Information where such information can directly or indirectly identify an individual. Navigational information refers to information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and pages viewed. Please see the "Navigation Information" section below. Payment information includes We collect and process payment information from you when you subscribe to the Subscription Service, including credit cards numbers and billing information, using third party PCI-compliant service providers. Except for this, we do not collect Sensitive Information from you.
+Personal Information includes Navigational Information or Payment Information where such information can directly or indirectly identify an individual. Navigational information refers to information about your computer and your visits to the Websites such as your IP address, geographical location, browser type, referral source, length of visit and pages viewed. Please see the "Use of Navigation Information" section below. Payment information includes information we collect and process from you when you subscribe to the Subscription Service, including credit card numbers and billing information, using third party PCI-compliant service providers. Except for this, we do not collect Sensitive Information from you.
+
+**"Sensitive Information"**
+
+This refers to credit or debit card numbers, personal financial account information, Social Security numbers, passport numbers, driver's license numbers or similar personal identifiers, racial or ethnic origin, physical or mental health condition or information, or other employment, financial or health information.
 
 **Log Files**
 
-When you use our services our view content provided by us, we automatically collect information about your computer hardware and software. This information can include your IP address, browser type, domain names, internet service provider (ISP), the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, clickstream data, access times and referring website addresses. This information is used by HubSpot for the operation of the Subscription Service, to maintain quality of the Subscription Service, and to provide general statistics regarding use of the HubSpot Website. For these purposes, we do link this automatically-collected data to Personal Information such as name, email address, address, and phone number.
+When you view content provided by us, we automatically collect information about your computer hardware and software. This information can include your IP address, browser type, domain names, internet service provider (ISP), the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, clickstream data, access times and referring website addresses. This information is used by HubSpot to provide general statistics regarding use of the Websites. For these purposes, we do link this automatically-collected data to Personal Information such as name, email address, address, and phone number.
 
 **Information we collect from third parties**
 
@@ -72,7 +53,7 @@ From time to time, we may receive Personal Information about you from third part
 
 The Websites are not intended for or targeted at children under 16, and we do not knowingly or intentionally collect information about children under 16 If you believe that we have collected information about a child under 16, please contact us at privacy@hubspot.com, so that we may delete the information.
 
-## 3\. How We Use Information We Collect
+## 2. How We Use Information We Collect
 
 **Compliance with Our Privacy Policy**
 
@@ -97,17 +78,9 @@ In addition to the uses identified elsewhere in this Privacy Policy, we may use 
 
 We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, we do not transfer your Personal Information to the third party.
 
-We use the information collected through our Subscription Service by our customers for the following purposes:
-
-  * to provide the Subscription Service (which may include the detection, prevention and resolution of security and technical issues);
-  * to respond to customer support requests; and
-  * otherwise to fulfill the obligations under the HubSpot Customer Terms of Service. 
-
-
-
 **Legal basis for processing Personal Information (EEA visitors only)**
 
-If you are a visitor/customer located in the European Economic Area ("EEA"), HubSpot Ireland Limited is the data controller of your personal information. HubSpot's Data Protection Officer can be contacted at [privacy@hubspot.com](mailto:privacy@hubspot.com). 
+If you are a visitor located in the European Economic Area ("EEA"), HubSpot Ireland Limited is the data controller of your personal information. HubSpot's Data Protection Officer can be contacted at [privacy@hubspot.com](mailto:privacy@hubspot.com). 
 
 Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. However, we will normally collect personal information from you only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information from you.
 
@@ -115,19 +88,19 @@ If we ask you to provide personal information to comply with a legal requirement
 
 **Use of Navigational Information**
 
-We use Navigational Information to operate and improve the Websites and the Subscription Service. We may also use Navigational Information alone or in combination with Personal Information to provide you with personalized information about HubSpot. 
+We use Navigational Information to operate and improve the Websites. We may also use Navigational Information alone or in combination with Personal Information to provide you with personalized information about HubSpot. 
 
 **Customer Testimonials and Comments**
 
 We post customer testimonials and comments on our Websites, which may contain Personal Information. We obtain each customer's consent via email prior to posting the customer's name and testimonial.
 
-**Use of Credit Card Information**
+**Use of Payment Information**
 
-If you give us credit card information, we use it solely to check your financial qualifications and collect payment from you. We use a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use information you provide except for the sole purpose of credit card processing on our behalf.
+If you give us Payment information, we use it solely to check your financial qualifications and collect payment from you. We use a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use information you provide except for the sole purpose of credit card processing on our behalf.
 
 **Security of your Personal Information**
 
-We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. We secure the Personal Information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. All Personal Information is protected using appropriate physical, technical and organizational measures.
+We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. We secure the Personal Information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. All Personal Information is protected using appropriate physical, technical and organizational measures. For more on Security at HubSpot, please see <https://www.hubspot.com/security>. 
 
 **Social Media Features**
 
@@ -145,19 +118,19 @@ We offer publicly accessible message boards, blogs, and community forums. Please
 
 How long we keep information we collect about you depends on the type of information. as described in further detail below.  After such time, we will either delete or anonymize your information or, if this is not possible, then we will securely store your information and isolate it from any further use until deletion is possible. 
 
-We retain Personal Information that you provide to us where we have an ongoing legitimate business need to do so (for example, as long as is required in order to contact you about the Subscription Service or our other services, or as needed to comply with our legal obligations, resolve disputes and enforce our agreements).
+We retain Personal Information that you provide to us where we have an ongoing legitimate business need to do so (for example, as needed to comply with our legal obligations, resolve disputes and enforce our agreements).
 
-When we have no ongoing legitimate business need to process your Personal Information, we securely delete the information or anonymise it or, if this is not possible, then we will securely store your Personal Information and isolate it from any further processing until deletion is possible. We will delete this information from the servers at an earlier date if you so request, as described in "To Unsubscribe from Our Communcations" below.
+When we have no ongoing legitimate business need to process your Personal Information, we securely delete the information or anonymise it or, if this is not possible, securely store your Personal Information and isolate it from any further processing until deletion is possible. We will delete this information at an earlier date if you so request, as described in the "How to Access & Control Your Personal Data" below.
 
-If you provide information to our customers as part of their use of the Subscription Service, our customers decide how long to retain the personal information they collect from you. If a customer terminates its use of the Subscription Service, then we will provide customer with access to all information stored for the customer by the Subscription Service, including any Personal Information provided by you, for export by the customer according to our agreement with our customer. After termination, we may, unless legally prohibited, delete all customer information, including your Personal Information, from the Subscription Service.
+If you have elected to receive marketing communications from us, we retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our content, products, or services, such as when you last opened an email from us or ceased using your HubSpot account.  We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created
 
-If you have elected to receive marketing communications from us, we retain information about your marketing preferences for a reasonable period of time from the date you last expressed interest in our content, products, or services, such as when you last opened an email from us or ceased using your HubSpot account.  We retain information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created. 
+The data our customers collect by using the Subscription Service is retained according to the relevant agreements with our customers.
 
-## 4\. How we Share Information we Collect
+## 3. How we Share Information we Collect
 
 **Service Providers**
 
-We employ other companies and people to provide services to visitors to our Websites, our customers, and users of the Subscription Service and may need to share your information with them to provide information, products or services to you. Examples may include removing repetitive information from prospect lists, analyzing data or performing statistical analysis, providing marketing assistance, processing credit card payments, supplementing the information you provide us in order to provide you with better service, and providing customer service or support. In all cases where we share your information with such agents, we explicitly require the agent to acknowledge and adhere to our privacy and customer data handling policies.
+We employ other companies and people to provide services to visitors to our Websites and our customers and users of the Subscription Service and may need to share your information with them to provide information, products or services to you. Examples may include removing repetitive information from prospect lists, analyzing data or performing statistical analysis, providing marketing assistance, processing credit card payments, supplementing the information you provide us in order to provide you with better service, and providing customer service or support. In all cases where we share your information with such agents, we explicitly require the agent to acknowledge and adhere to our privacy and customer data handling policies.
 
 **HubSpot Partners**
 
@@ -173,7 +146,7 @@ If we (or our assets) are acquired by another company, whether by merger, acquis
 
 We reserve the right to use or disclose your Personal Information if required by law or if we reasonably believe that use or disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or comply with a law, court order, or legal process.
 
-## 5\. International Transfer of Information
+## 4. International Transfer of Information
 
 **International Transfers within HubSpot’s Entities**
 
@@ -187,7 +160,7 @@ Some of the third parties described in this privacy policy, which provide servic
 
 **Privacy Shield Notice**
 
-HubSpot participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss–U.S. Privacy Shield Framework. The following affiliated entities adhere to the Privacy Shield principles: HubSpot Ireland Limited, HubSpot Germany GmbH, HubSpot Australia Pty Ltd, HubSpot Asia Pte. Ltd., and HubSpot Japan KK. HubSpot is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+HubSpot participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss–U.S. Privacy Shield Framework. The following affiliated entities adhere to the Privacy Shield principles: HubSpot Ireland Limited, HubSpot Germany GmbH, HubSpot France S.A.S, HubSpot Australia Pty Ltd, HubSpot Asia Pte. Ltd., HubSpot Latin America S.A.S, and HubSpot Japan KK. HubSpot is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
 HubSpot is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. HubSpot complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
@@ -197,7 +170,7 @@ You may direct any inquiries or complaints related to our Privacy Shield complia
 
 Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-## 6\. Cookies and Similar Technologies
+## 5\. Cookies and Similar Technologies
 
 **Cookies**
 
@@ -205,11 +178,7 @@ HubSpot and its partners use cookies or similar technologies (such as web beacon
 
 **Navigational Information Collected by Our Customers**
 
-Our customers can use the tools we provide, as well as tools provided by third parties, to collect Navigational Information when you visit their webpages on the Subscription Service. HubSpot does not control our customers' use of these tools, nor do we control the information they collect or how they use it. 
-
-**Single Sign-On**
-
-You can log in to our site using a Single Sign-on (SSO) service like your Google account. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Such services may give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+Our customers can use the tools we provide, as well as tools provided by third parties, to collect Navigational Information when you visit their webpages on the Subscription Service. HubSpot does not control our customers' use of these tools, nor do we control the information they collect or how they use it.  
 
 **Flash Cookies and Other Third Party Tracking Technologies**
 
@@ -217,13 +186,13 @@ The Adobe Flash Player (and similar applications) use technology to remember set
 
 **Advertising**
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here: <http://preferences.truste.com/> (or if located in the European Union, by clicking here: http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect information about your activities on this and other websites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here: <http://preferences.truste.com/> (or if located in the European Union, by clicking here: [http://www.youronlinechoices.eu/](http://www.youronlinechoices.com/)). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 **Third Party Tracking Technologies**
 
 The use of cookies and web beacons by any tracking utility company is not covered by our Privacy Policy or Cookie Policy. 
 
-## 7\. How to Access & Control Your Personal Data
+## 6. How to Access & Control Your Personal Data
 
 **Reviewing, Correcting and Removing Your Personal Information**
 
@@ -260,4 +229,6 @@ privacy@hubspot.com
 
 HubSpot, Inc.  
 25 First Street, 2nd Floor  
-Cambridge, MA 02141 USA
+Cambridge, MA 02141 USA 
+
+[ ](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=558&sealid=112) [](https://privacy.truste.com/privacy-seal/validation?rid=4e05b698-973d-4ee9-9e6b-aeb564da8c24) [](https://privacy.truste.com/privacy-seal/validation?rid=5cc8e655-cfd8-4778-ba62-eba1e3e15777)
