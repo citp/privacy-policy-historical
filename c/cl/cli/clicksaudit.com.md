@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicksaudit.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815074237id_/http%3A//www.clicksaudit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksaudit.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615103254id_/http%3A//clicksaudit.com/privacy.php) for the most accurate reproduction.*
 
 # ClicksAudit.com
 
