@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkfun.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220220754id_/https%3A//www.sparkfun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkfun.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615110753id_/https%3A//www.sparkfun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SparkFun Electronics
 
@@ -73,7 +73,7 @@ We comply with United States export regulations and authorities. We use [Visual 
 
 ### Third Party Fulfillment Centers
 
-The Third Party Fulfillment Center will only have access to info on your order’s shipment. This may include your name, address, and contact information related to your order. We will not share your data that doesn’t apply directly to orders, including but not limited to email, payment info, profile info, etc.
+The Third Party Fulfillment Center will only have access to info on your order's shipment. This may include your name, address, and contact information related to your order. We will not share your data that doesn't apply directly to orders, including but not limited to email, payment info, profile info, etc.
 
 ### Payment Providers
 
@@ -89,7 +89,7 @@ SparkFun uses [Google Analytics](http://analytics.google.com/), [HubSpot](http:/
 
 Google Universal Analytics is a service hosted on Google’s servers, and is our primary analytics tool. It is activated by a JavaScript snippet that loads on every page to send visitor behavioral information to Google. SparkFun uses this information to understand how visitors use our site. Sometimes SparkFun will run A/B tests, where Google Analytics will track cookies set on users to divide them into groups that get slightly different pages to see which perform better. Visitors who have Do Not Track enabled will not have any information sent to Google’s servers for use in analytics.
 
-SparkFun also utilizes Google Analytics Demographics and Interest Reporting. This means we combine personally identifiable information about your SparkFun account, browsing, and shopping habits and merge it with Google’s tracking cookies, all of which goes to Google. This is enabled by default for all visitors to SparkFun.com. You can opt out of this by enabling Do Not Track headers in your browser or installing and enabling the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
+SparkFun also utilizes Google Analytics Demographics and Interest Reporting. This means we combine personally identifiable information about your SparkFun account, browsing, and shopping habits and merge it with Google's tracking cookies, all of which goes to Google. This is enabled by default for all visitors to SparkFun.com. You can opt out of this by enabling Do Not Track headers in your browser or installing and enabling the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
 
 ### Content Hosting
 
@@ -115,6 +115,6 @@ We use [Desk.com](http://www.desk.com/), [Salesforce](http://www.salesforce.com/
 
 ## Questions?
 
-If you have any questions or feedback regarding this privacy policy, including if you feel SparkFun or someone within the SparkFun community has violated it, or if you are concerned about SparkFun’s general philosophy toward user privacy, please contact us at [privacy@sparkfun.com](mailto:privacy@sparkfun.com) or post a public comment below.
+If you have any questions or feedback regarding this privacy policy, including if you feel SparkFun or someone within the SparkFun community has violated it, or if you are concerned about SparkFun's general philosophy toward user privacy, please contact us at [privacy@sparkfun.com](mailto:privacy@sparkfun.com) or post a public comment below.
 
 * * *
