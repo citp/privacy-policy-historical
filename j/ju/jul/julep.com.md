@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the julep.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124213529id_/http%3A//www.julep.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the julep.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615090911id_/https%3A//www.julep.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Julep
 
@@ -42,7 +42,7 @@ We also use Display Advertising and Remarketing through Google Analytics on our 
 ## Questions About This Policy
 
 If you have any questions about this Privacy Policy, or the content or practices of our website, you can contact Julep directly at:   
-[www.julep.com](http://www.julep.com/) or  
+[www.julep.com](https://www.julep.com/) or  
 Julep Beauty  
 c/o Privacy  
 P.O. Box 19523  
