@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dataweave.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407011200id_/http%3A//dataweave.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataweave.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615141126id_/https%3A//dataweave.com/in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DataWeave
+# Privacy Policy | DataWeave
 
-This Privacy Policy governs the manner in which DataWeave Software Private Limited collects, uses, maintains and discloses information collected from users of the http://www.dataweave.in website. This privacy policy applies to the website and all products and services offered by DataWeave Software Private Limited.
+This Privacy Policy governs the manner in which **DataWeave Software Private Limited** collects, uses, maintains and discloses information collected from users of the **http://www.DataWeave.com** website. This privacy policy applies to the website and all products and services offered by **DataWeave Software Private Limited**.
 
 ## Personal identification information
 
@@ -18,7 +18,7 @@ Our website may use "cookies" to enhance user experience. User's web browser pla
 
 ## How we use collected information
 
-DataWeave Private Limited collects and uses users personal information for the following purposes: - To personalize user experience We may use information in the aggregate to understand how our users as a group use the services and resources provided on our website. - To improve our website We continually strive to improve our website offerings based on the information and feedback we receive from you. - To improve customer service Your information helps us to more effectively respond to your customer service requests and support needs. - To process transactions We may use the information users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. - To send periodic emails The email address users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If user decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the user would like to unsubscribe from receiving future emails, they may do so by contacting us via our website.
+**DataWeave Software Private Limited** collects and uses users personal information for the following purposes: - To personalize user experience We may use information in the aggregate to understand how our users as a group use the services and resources provided on our website. - To improve our website We continually strive to improve our website offerings based on the information and feedback we receive from you. - To improve customer service Your information helps us to more effectively respond to your customer service requests and support needs. - To process transactions We may use the information users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. - To send periodic emails The email address users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If user decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the user would like to unsubscribe from receiving future emails, they may do so by contacting us via our website.
 
 ## How we protect your information
 
@@ -32,19 +32,35 @@ We do not sell, trade, or rent users personal identification information to othe
 
 ## Changes to this privacy policy
 
-DataWeave Software Private Limited has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**DataWeave Software Private Limited** has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ## Your acceptance of these terms 
 
-By using this website and our services, you signify your agreement of this policy and terms of service.
+By using or visiting this website, you signify your agreement of this policy and terms of service. If you do not agree to any of these terms, please do not use this website (or service).
 
 ## Contacting Us
 
 If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact us at:
 
-DataWeave  
-Banshankari 3rd Stage  
-Bangalore, Karnataka 560085   
-Phone 1: [+91 9740789497](tel:+91 9740789497)  
-Phone 2: [+91 8123779936](tel:+91 8123779936)  
-Email: [contact@dataweave.in](mailto:contact@dataweave.in)
+## **DataWeave**
+
+InfoWeave Analytics Pvt Ltd,   
+No 1-10/A, 27th Cross,   
+2nd Main Road, Jayanagar 7th Block,   
+Bengaluru 560070  
+Phone 1: [+(91) 806 708 1300](tel:+\(91\) 806 708 1300)  
+Email: [contact@ **DataWeave**.com](mailto:contact@%3Cstrong%3EDataWeave%3C/strong%3E.com)
+
+14205, SE 36th Street, Suite 100  
+Bellevue, WA 98006  
+Phone 1: [(+1) 425 458 5110](tel:\(+1\) 425 458 5110)  
+Email: [contact@ **DataWeave**.com](mailto:contact@%3Cstrong%3EDataWeave%3C/strong%3E.com)
+
+39899 Balentine Drive   
+Suite 222, Newark, CA 94560  
+Phone 1: [(+1) 425 458 5110 ](tel:\(+1\) 425 458 5110)  
+Email: [contact@ **DataWeave**.com](mailto:contact@%3Cstrong%3EDataWeave%3C/strong%3E.com)
+
+Bendemeer Road,   
+#312, Singapore, 339914  
+Email: [contact@ **DataWeave**.com](mailto:contact@%3Cstrong%3EDataWeave%3C/strong%3E.com)
