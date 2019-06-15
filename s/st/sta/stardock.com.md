@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226194409id_/https%3A//www.stardock.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615190421id_/https%3A//www.stardock.com/policies/privacy) for the most accurate reproduction.*
 
 # Stardock - Privacy Policy
 
