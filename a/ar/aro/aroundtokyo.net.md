@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aroundtokyo.net privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214104927id_/http%3A//ww43.aroundtokyo.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aroundtokyo.net privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615223057id_/http%3A//ww43.aroundtokyo.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
