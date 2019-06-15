@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoviespoiler.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202080410id_/http%3A//www.themoviespoiler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoviespoiler.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615071946id_/http%3A//themoviespoiler.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
