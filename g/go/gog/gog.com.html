@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the gog.com privacy policy that was archived on 2018-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229135646id_/https%3A//support.gog.com/hc/articles/212632109-Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gog.com privacy policy that was archived on 2019-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190615050950id_/https%3A//support.gog.com/hc/articles/212632109-Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
   <meta charset="utf-8">
-  <!-- v15126 -->
+  <!-- v16156 -->
 
   <title>Privacy Policy – GOG.COM SUPPORT CENTER</title>
 
   <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="0B/aUHxKt+rMLkNy4S/oU1/PnUwADqU+OBixyOcAgn+kJSTkzYY2gYx+KPyM4YG2eaDliSpt8mEsosA6IyUaOw==">
-  <meta name="description" content="Hello, GOG.com user! This Privacy Policy is where we explain what information is collected when you’re using GOG.com, how it is..."><meta property="og:image" content="https://theme.zdassets.com/theme_assets/987253/8f55adcba245028dd8669308f844b6826f65879c.svg">
+<meta name="csrf-token" content="UJfqq1D32VBDH5hck2/Tr93eTXDmzFgTFAqqhStUGYoh2QWYoUdFLTP/6RiJHWZ5XW5iDoWA428YbEsoUkDHRA==">
+  <meta name="description" content="Hello, GOG.COM user! This Privacy Policy is where we explain what information is collected when you’re using GOG.COM, how it is..."><meta property="og:image" content="https://theme.zdassets.com/theme_assets/987253/8f55adcba245028dd8669308f844b6826f65879c.svg">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="GOG.COM SUPPORT CENTER">
 <meta property="og:title" content="Privacy Policy">
-<meta property="og:description" content="Hello, GOG.com user! This Privacy Policy is where we explain what information is collected when you’re using GOG.com, how it is collected, how we use that information, where we store it, and how we...">
+<meta property="og:description" content="Hello, GOG.COM user! This Privacy Policy is where we explain what information is collected when you’re using GOG.COM, how it is collected, how we use that information, where we store it, and how we...">
 <meta property="og:url" content="http://support.gog.com/hc/en-us/articles/212632109-Privacy-Policy">
 <link rel="canonical" href="https://support.gog.com/hc/en-us/articles/212632109-Privacy-Policy">
 <link rel="alternate" hreflang="de" href="https://support.gog.com/hc/de/articles/212632109-Datenschutzrichtlinie">
@@ -24,8 +24,8 @@
 <link rel="alternate" hreflang="zh" href="https://support.gog.com/hc/zh-cn/articles/212632109-%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96">
 
   <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
-  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-6229f1ebd2f90b23df13e8c12bfd8ab1.css" id="stylesheet">
-  <link rel="stylesheet" type="text/css" href="//p14.zdassets.com/hc/theming_assets/987253/613865/style.css?digest=360168547073">
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-84c325781668caadf159e5dee8f622c3.css" id="stylesheet">
+  <link rel="stylesheet" type="text/css" href="//p14.zdassets.com/hc/theming_assets/987253/613865/style.css?digest=360303022593">
 
   <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/987253/75120a84e85789eaf8bf277aabb360b472ede746.ico">
 
@@ -38,7 +38,7 @@
   </script>
 <![endif]-->
 
-  <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//static.zdassets.com/hc/assets/jquery-b60ddb79ff2563b75442a6bac88b00b5.js"></script>
+  <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NX39DH"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//static.zdassets.com/hc/assets/jquery-c679166c1baf738bb62b9918a7a13fd4.js"></script>
   <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -221,9 +221,67 @@ ga('send', 'pageview');
       $profileLink.remove();
     }
   });
+  
+  $(function(){
+  	var LS_SUCCESSFUL_REQUEST = 'LS_SUCCESSFUL_REQUEST';
+    var submited = false;
+    
+    var isNewRequestPage = function(url) {
+  		console.log('isNewRequestPage', !!url.match(/\/hc\/[a-z-]+\/requests\/new/) || !!url.match(/\/hc\/[a-z-]+\/requests(?!\/[0-9]+)/));
+      return !!url.match(/\/hc\/[a-z-]+\/requests\/new/) || !!url.match(/\/hc\/[a-z-]+\/requests(?!\/[0-9]+)/);
+    };
+    
+    if (isNewRequestPage(window.location.href)) {
+      $('#new_request').on('submit', successfulRequest);
+      $(window.document).on('click', 'input[type="submit"]', successfulRequest);
+      $(window.document).on('click', 'a, input:not([type="submit"]):not([type="file"])', failedRequest);
+      $(window.document).on('click', 'input[type="file"]', handleFileUpload);
+      $(window).unload(function() {
+      	return "Handler for .unload() called.";
+   		});
+    }
+    else if (
+      isNewRequestPage(window.document.referrer) &&
+      localStorage.getItem(LS_SUCCESSFUL_REQUEST) === 'true'
+    ) {
+  		console.log(true, true);
+      window.dataLayer = window.dataLayer || [];
+  		dataLayer.push({ 
+				'event': 'ticketSubmitted',
+				'category': 'ticketForm',
+				'action': 'formSubmitted',
+				'label': 'ticketSent'
+  		});
+    }
+  
+    failedRequest();
+    
+    function successfulRequest() {
+  		console.log(true);
+      submited = true;
+      localStorage.setItem(LS_SUCCESSFUL_REQUEST, 'true');
+    }
+    
+    function failedRequest() {
+  		console.log(false);
+      localStorage.setItem(LS_SUCCESSFUL_REQUEST, 'false');
+    }
+  
+    function handleFileUpload() {
+  		if (submited) {
+  			successfulRequest();
+  		}
+  	}
+  });
 </script>
-
-  <script type="text/javascript" src="//p14.zdassets.com/hc/theming_assets/987253/613865/script.js?digest=360168547073"></script>
+ <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NX39DH');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p14.zdassets.com/hc/theming_assets/987253/613865/script.js?digest=360303022593"></script>
 </head>
 <body class="">
   
@@ -233,7 +291,11 @@ ga('send', 'pageview');
   
 
 
-  <div id="dc" hidden="" class="js-dc-translations">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NX39DH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="dc" hidden="" class="js-dc-translations">
   <div id="system_report_all">A <b>system report</b> or other file containing a description of your computer's technical specification is required to submit this technical support request.<br>When submitting a system report, please be aware that it may contain your personal information, like your computer name. Please consider reviewing and removing any personal information from the system report before submitting this file.<br>The detailed instructions on how to generate the report will be displayed under this message, once you select your <b>operating system</b> in the form above.</div>
   <div id="system_report_windows"><b>Creating a DXDiag report</b><br><br>To launch the DXDiag application, press the Windows Key + R, type in <b><i>dxdiag</i></b> and press Enter.<br><b>Please do not swich to the 64-bit version</b>, as the 32-bit version is preferred.<br>In the DXDiag window, click "Save All Information...", then choose a location in which you want to save the file (your desktop, for instance). Once you have created the file, please attach it to your support request using the "Add file" button above.</div>
   <div id="system_report_mac"><b>Creating a System Profiler report</b><br><br><b>OS X 10.7 or newer</b>:<br>Go to Applications -&gt; Utilities -&gt; System Information<br>Click File -&gt; Save as...<br>Save the file and attach it to your support request using the ""Add file"" button above.<br><br><b>OS X 10.6.x</b>:<br>Go to Applications -&gt; Utilities -&gt; System Profiler<br>Click File -&gt; Save as...<br>Save the file and attach it to your support request using the ""Add file"" button above.</div>
@@ -311,6 +373,7 @@ ga('send', 'pageview');
     </header>
   </div>
   <div class="layout__main">
+   
 
 
   <main role="main">
@@ -361,7 +424,7 @@ ga('send', 'pageview');
       </header>
 
       <div class="article__body markdown" itemprop="articleBody">
-        <p>Hello, GOG.com user! This Privacy Policy is where we explain what information is collected when you’re using GOG.com, how it is collected, how we use that information, where we store it, and how we protect it. We will also explain your rights in relation to the information. Like with our User Agreement, we've put together both a full text version and a (non legally binding) summary version to make things simple. If you have any queries you can contact us at privacy@gog.com. Here we go…</p>
+        <p>Hello, GOG.COM user! This Privacy Policy is where we explain what information is collected when you’re using GOG.COM, how it is collected, how we use that information, where we store it, and how we protect it. We will also explain your rights in relation to the information. Like with our User Agreement, we've put together both a full text version and a (non legally binding) summary version to make things simple. If you have any queries you can contact us at privacy@gog.com. Here we go…</p>
 <div class="trim">&nbsp;</div>
 <div class="legal-two-columns">
 <div class="friendly-text">
@@ -388,10 +451,10 @@ ga('send', 'pageview');
 <h3>2. WHAT THIS PRIVACY POLICY GOVERNS</h3>
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-12">
-<p>2.1 This Privacy Policy applies to www.GOG.com, your GOG user account, the GOG Downloader, GOG Galaxy, any games or videos or other content which you purchase, access or use via GOG.com, the ‘GOG Wallet’, GOG payment methods, the GOG web forums, GOG customer and technical support and any other services we provide to you (we'll just call all this “GOG services” for short). GOG services also include GWENT: The Witcher Card Game for PC's (“GWENT”) from our related company CD PROJEKT together with www.playgwent.com, any other GWENT web sites or accounts and all services related to GWENT, including (but not limited to) user accounts and customer and technical support provided by us.</p>
+<p>2.1 This Privacy Policy applies to www.GOG.com, your GOG user account, the GOG Downloader, GOG Galaxy, any games or videos or other content which you purchase, access or use via GOG.COM, the ‘GOG Wallet’, GOG payment methods, the GOG web forums, GOG customer and technical support and any other services we provide to you (we'll just call all this “GOG services” for short). GOG services also include GWENT: The Witcher Card Game for PC's (“GWENT”) from our related company CD PROJEKT together with www.playgwent.com, any other GWENT web sites or accounts and all services related to GWENT, including (but not limited to) user accounts and customer and technical support provided by us. This privacy policy also applies to our accounts and profiles on social networks (e.g. fanpage on Facebook).</p>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 human">
-<p>This Privacy Policy explains the different types of information that we collect while you use GOG services or GWENT. We and our Partners will comply with applicable privacy laws. Btw Geralt says hi.</p>
+<p>This Privacy Policy explains the different types of information that we collect while you use GOG services or GWENT or visit our profiles on social networks. We and our Partners will comply with applicable privacy laws. Btw Geralt says hi.</p>
 </div>
 </div>
 <div class="row">
@@ -443,12 +506,14 @@ ga('send', 'pageview');
 <p>4.2 When you use GOG services we may also collect the following information (how we use it is described later in this document):</p>
 <ul>
 <li>(a) Technical details about devices which you use to access GOG services, including: Internet and/or network connection (including your IP address); mobile device identifiers; your operating system, browser type or other software; your hardware details; or other technical details provided by your web browser. This is technical data about our users and their actions and patterns, which does not provide personal information;</li>
-<li>(b) Details of your use of GOG services including, but not limited to: metrics information about when and how you use GOG services (such as what game(s) you are playing, your current status, your interactions with others); traffic data; your geographical location; your purchase history; emails received; and links accessed; your preferences and choices such as subscriptions, preferred language and currency; your friend lists on GOG.com; your communication via chat, game reviews, published posts on forum and other GOG services;</li>
+<li>(b) Details of your use of GOG services including, but not limited to: metrics information about when and how you use GOG services (such as what game(s) you are playing, your current status, your interactions with others); order status, order ID; traffic data; your geographical location; your purchase history; game library; emails received; and links accessed; your preferences and choices such as subscriptions, preferred language and currency; your friend lists on GOG.COM; your communication via chat, game reviews, published posts on forum and other GOG services;</li>
 <li>(c) Other information required in order to help you with any queries/support you may need assistance with via the GOG forums or customer support, including communications with you; and</li>
 <li>(d) limited payment processing information, including as applicable your credit card number, name and email address (on a hashed/anonymised basis as applicable), payment methods, payment engine and transaction type; fraud risk score;</li>
 <li>(e)if you use GOG Galaxy we will also collect technical logs, information about your achievements in games you play and We may also collect additional information when you use other GOG services (see opposite). If GOG services crash, we might ask you to send us crash logs/bug reports.how long you play them; your multiplayer sessions; your activities on other platforms connected to your GOG account.;</li>
 <li>(f) if you use Facebook Connect we may also collect limited information through Facebook Connect such as your Facebook ID, avatar, e-mail and friend list;</li>
-<li>(g) any other information which you supply us via our services;</li>
+<li>(g) if you purchase content via a third party platform which uses our GOG Direct to Account API, the platform may share data with us such as your platform ID, order details or your IP address;</li>
+<li>(h) if you visit our social profiles on social media (e.g. Facebook, Twitter) we can collect data about your activity on such profile, including messages sent to us or competitions in which you took part. Remember that being a user of a social networking site means that, we and you are bound by the privacy policy and terms accepted under this social networking site;</li>
+<li>(i) any other information which you supply us via our services;</li>
 </ul>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 human">
@@ -465,7 +530,7 @@ ga('send', 'pageview');
 </div>
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-12">
-<p>4.4 A quick word about bug reports and crash logs: GOG software will generate bug or crash reports regarding GOG services – these reports will not mention your personal information. You can decide whether to submit these reports to GOG.com automatically. If you manually submit bug or crash reports to us, or if we contact you asking for feedback regarding crash or bug reports, then we may store them alongside your personal information.</p>
+<p>4.4 A quick word about bug reports and crash logs: GOG software will generate bug or crash reports regarding GOG services – these reports will not mention your personal information. You can decide whether to submit these reports to GOG.COM automatically. If you manually submit bug or crash reports to us, or if we contact you asking for feedback regarding crash or bug reports, then we may store them alongside your personal information.</p>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 human">&nbsp;</div>
 </div>
@@ -478,7 +543,7 @@ ga('send', 'pageview');
 <h3>5 HOW WE COLLECT INFORMATION FROM YOU</h3>
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-12">
-<p>5.1 We may collect, process and use information about you in the following ways (either directly or via our Partners as explained above): (a) information you give us via GOG services; (b) information given when you contact us or report a problem with GOG services; and (c) we may also ask you to complete surveys that we use for research purposes, although you don't have to respond to them. We may collect this information via GOG services or trusted third parties connected with us for optional things like surveys or polls.</p>
+<p>5.1 We may collect, process and use information about you in the following ways (either directly or via our Partners as explained above): (a) information you give us via GOG services; (b) information given when you contact us or report a problem with GOG services; (c) through our API which allows third party platforms to sell content which is activated directly on GOG.COM (“GOG Direct to Account API”) and (d) we may also ask you to complete surveys that we use for research purposes, although you don't have to respond to them. We may collect this information via GOG services or trusted third parties connected with us for optional things like surveys or polls.</p>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 human">&nbsp;</div>
 </div>
@@ -509,7 +574,7 @@ ga('send', 'pageview');
 <h3>7 WHY DO WE USE YOUR DATA? (LEGAL GROUNDS FOR DATA PROCESSING)</h3>
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-12">
-<p>When we process information about you, we do so as necessary to provide GOG services you use (i.e. to perform agreement between us, enable you to play GWENT), meet our legal obligations (f.ex. tax, accounting) or to fulfill the so-called “legitimate interests” of GOG or other reasons described in the “How we use your data” section. To clarify, by legitimate interests we mean lawful purposes that could be reasonably expected (like informing you about games we distribute and making sure our marketing is relevant for you, protecting the security of our websites and systems, conducting anti-cheat analysis and anti-fraud checks). When we rely on the legitimate interest, we consider and balance any potential impact on you and your rights. For other purposes we will ask for your consent and you will be entitled to withdraw this consent any time, with no impact on the validity of the processing before your consent has been withdrawn.</p>
+<p>7.1 When we process information about you, we do so as necessary to provide GOG services you use (i.e. to perform agreement between us, enable you to play GWENT), meet our legal obligations (f.ex. tax, accounting) or to fulfill the so-called “legitimate interests” of GOG or other reasons described in the “How we use your data” section. To clarify, by legitimate interests we mean lawful purposes that could be reasonably expected (like informing you about games we distribute and making sure our marketing is relevant for you, protecting the security of our websites and systems, conducting anti-cheat analysis and anti-fraud checks). When we rely on the legitimate interest, we consider and balance any potential impact on you and your rights. For other purposes we will ask for your consent and you will be entitled to withdraw this consent any time, with no impact on the validity of the processing before your consent has been withdrawn.</p>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 human">
 <p>In essence, we process your data to provide you with GOG services, to meet our legal obligations and for other reasons that are important for us like informing you about our games and ensuring security of our website. In other cases, we will ask for your consent in advance and you will always have the right to withdraw it anytime you like.</p>
@@ -558,19 +623,20 @@ ga('send', 'pageview');
 <p>9.1 We will use the above information in the following ways:</p>
 <ul>
 <li>(a) to carry out our obligations arising from any contracts between you and us, like providing access to your GOG account, providing you with the games and technical support and in general allowing to use GOG Services and its functionalities when you choose to do so f. ex. your GOG user profile, chat, forum or cloud saving and crossplay services in GOG Galaxy</li>
-<li>(b) to ensure that GOG services are presented in the most effective manner for you and for your computer or other device from which you access GOG services.</li>
+<li>(b) to ensure that GOG services are presented in the most effective manner for you and for your computer or other device from which you access GOG services;</li>
 <li>(c) to provide you with information, products or services that you request from us and which we feel may interest you - in particular, we may send you newsletters or emails about GOG services, special and occasional offers like a welcome offer or provide you with ads, offers and product recommendations on the basis of your purchases or activity on our and third party websites and services, as well as about CD PROJEKT’s games and services (of course, it’s optional);</li>
-<li>(d) to evaluate the effectiveness of our marketing actions and improve the quality of our marketing;</li>
-<li>(e) to notify you about changes to GOG services and our legal documents.</li>
-<li>(f) to improve or modify GOG services, f.ex. based on which games you like, how you play them, reported problems, your suggestions or satisfaction surveys;</li>
-<li>(g) To improve or modify GOG services, for example based on which games you like more and how you play them.</li>
-<li>(h) To calculate conversion rates and other elements of GOG.com performance.</li>
-<li>(i) in connection with the services of our Partners, such as payment processors, located in and outside the European Union, but only to the extent necessary to provide those services.</li>
-<li>(j) to provide you with optional functionalities such as GOG Connect or authentication via Facebook account.</li>
-<li>(k) to create a universal user’s profile based on information about your use of GOG Services and other platforms (we’ll rely on data made available when you merge your GOG account with your account on other platforms) in order to make our Services even more interesting for you.</li>
-<li>(l) to protect you from an unauthorized use of your account and against fraud;</li>
-<li>(m) for tax, legal and accounting purposes</li>
-<li>(n) for the accountability purposes as defined by EU legislation (GDPR)</li>
+<li>(d) to activate content on your GOG.COM account through our GOG Direct to Account API;</li>
+<li>(e) to evaluate the effectiveness of our marketing actions and improve the quality of our marketing;</li>
+<li>(f) to notify you about changes to GOG services and our legal documents.</li>
+<li>(g) to improve or modify GOG services, f.ex. based on which games you like, how you play them, reported problems, your suggestions or satisfaction surveys;</li>
+<li>(h) to improve or modify GOG services, for example based on which games you like more and how you play them.</li>
+<li>(i) to calculate conversion rates and other elements of GOG.COM performance.</li>
+<li>(j) in connection with the services of our Partners, such as payment processors, located in and outside the European Union, but only to the extent necessary to provide those services.</li>
+<li>(k) to provide you with optional functionalities such as GOG Connect or authentication via Facebook account.</li>
+<li>(l) to create a universal user’s profile based on information about your use of GOG Services and other platforms (we’ll rely on data made available when you merge your GOG account with your account on other platforms) in order to make our Services even more interesting for you.</li>
+<li>(m) to protect you from an unauthorized use of your account and against fraud;</li>
+<li>(n) for tax, legal and accounting purposes</li>
+<li>(o) for the accountability purposes as defined by EU legislation (GDPR)</li>
 </ul>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 human">
@@ -581,6 +647,7 @@ ga('send', 'pageview');
 <div class="col-md-6 col-sm-6 col-xs-12">
 <p>9.2. Whenever we’re personalizing or targeting our marketing communications, offers and adverts, we may profile your personal information. We do not make however automated decisions (f.ex. via algorithms) that could affect your legal situation. If you decide that you no longer want to receive personalized offers, product recommendations from us, or no advertising news at all, you can object to this at any time. You can also choose whether to receive marketing communication from us, including personalized and targeted marketing emails by managing subscriptions on your GOG Account Subscription page, following the link "unsubscribe" attached to our marketing emails or just contacting us directly here.</p>
 </div>
+ń
 <div class="col-md-6 col-sm-6 col-xs-12 human">&nbsp;</div>
 </div>
 <div class="row">
@@ -593,7 +660,7 @@ ga('send', 'pageview');
 </div>
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-12">
-<p>9.4 <strong>Non-personal data</strong>. We might process some aggregated and general non-personal data on user behaviour (e.g. sales per region, number of support tickets) and share it with third party partners who work with us to provide GOG services to you (for example, with games developers/publishers selling games on GOG.com or with payment providers) in order to support, improve or amend GOG services or to help them to improve their products, which you have bought. We may also share non-personal information with data analysis services to help us run GOG.com. Fear not, as mentioned above, everything’s anonymised, so you cannot be identified.</p>
+<p>9.4 <strong>Non-personal data</strong>. We might process some aggregated and general non-personal data on user behaviour (e.g. sales per region, number of support tickets) and share it with third party partners who work with us to provide GOG services to you (for example, with games developers/publishers selling games on GOG.COM or with payment providers) in order to support, improve or amend GOG services or to help them to improve their products, which you have bought. We may also share non-personal information with data analysis services to help us run GOG.COM. Fear not, as mentioned above, everything’s anonymised, so you cannot be identified.</p>
 </div>
 </div>
 <div class="row">
@@ -609,7 +676,7 @@ ga('send', 'pageview');
 <p>10.1 Some elements of your personal information and some information about your use of GOG Services are accessible to other GOG users. For example: other users of GOG Services will be able to see your username and avatar (if you choose to have one). We may also display other information derived from your activity on GOG Services. We do this to help GOG users to find gamers with similar tastes and to build the GOG user community. You can manage the privacy settings of your GOG user profile in your GOG account</p>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 human">
-<p>Some information about you will be visible on GOG.com as a part of your GOG user profile, this can be managed via privacy settings for your GOG account</p>
+<p>Some information about you will be visible on GOG.COM as a part of your GOG user profile, this can be managed via privacy settings for your GOG account</p>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 human">&nbsp;</div>
 </div>
@@ -618,7 +685,7 @@ ga('send', 'pageview');
 <p>10.2 GWENT. When you create a GWENT account, some basic data about you (namely your username, card collection, and statistics) will form a part of your public profile and it will be visible to everyone who views your profile. You can disable this function and manage the visibility of your profile through your GWENT account settings at any time.</p>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 human">
-<p>Limited data about you will be visible as a part of your public profile, but it can be disabled at any time via the privacy settings in your account.</p>
+<p>Limited data about you will be visible as a part of your public GWENT profile, but it can be disabled at any time via the privacy settings in your account.</p>
 </div>
 </div>
 <div class="row">
@@ -637,21 +704,22 @@ ga('send', 'pageview');
 <div class="col-md-6 col-sm-6 col-xs-12 human">&nbsp;</div>
 </div>
 <div class="row">
-<div class="col-md-6 col-sm-6 col-xs-12">10.4. In general, we do not disclose information about you to third parties without your consent. We may share your data only with the following categories of third parties who were engaged by us to help deliver our services and functionalities to you (they are formally called “Data Processors”):
+<div class="col-md-6 col-sm-6 col-xs-12">10.4. In general, we do not disclose information about you to third parties without your consent. We may share your data only with the following categories of third parties who were engaged by us to help deliver our services and functionalities to you (they are formally called “Data Processors”).
 <ul>
 <li>Customer support partners that provide us with software and support ticket system to help us managing your customer support requests (like Zendesk Inc.);</li>
-<li>Advertising and advertising measurement partners to facilitate targeting, delivery and measurement of online advertising on third-party services (such as Google Adwords) or that provide us with email marketing tools (such as Campaign Monitor Ltd);</li>
+<li>Advertising and advertising measurement partners to facilitate targeting, delivery and measurement of online advertising on third-party services (such as Google Adwords) or that provide us with email marketing tools (such as GetResponse);</li>
 <li>GOG’s subsidiaries and affiliates, including CD PROJEKT S.A, who help us providing you with GWENT and enable you to participate in Gwent esports competition;</li>
 <li>Anti-cheat companies: we may share the information required for our detection, investigation and prevention of cheating in GWENT.</li>
-<li>Third party vendors that provide us with analytical tools for GOG.com and for GWENT;</li>
+<li>Third party vendors that provide us with analytical tools for GOG.COM and for GWENT;</li>
 <li>Third party vendors that provide us with error tracking and crash reporting tools;</li>
+<li>Third party platforms that may sell content which is activated on GOG.COM using our GOG Direct to Account API (more details of which can be found in our User Agreement);</li>
 <li>Third party network providers to optimize delivery of GOG content you requested (we share only your IP address and the identification of GOG content you wish to access);</li>
-<li>Data storage partners: we may store some of your information using third-party data storage services, e.g. we may use Google services to run surveys on GOG.com;</li>
+<li>Data storage partners: we may store some of your information using third-party data storage services, e.g. we may use Google services to run surveys on GOG.COM;</li>
 <li>Our professional advisors dealing f.ex. with legal, tax, audit or accounting matters.</li>
 </ul>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 human">
-<p>In general, we don’t share information about you with third parties. There’re exceptions like our partners that help us do our thing. They usually help us with things like data analytics, processing payments, internal tools or running a variety of marketing activities.</p>
+<p>In general, we don’t share information about you with third parties. There are exceptions like our partners that help us do our thing. They usually help us with things like data analytics, processing payments, internal tools or running a variety of marketing activities.</p>
 </div>
 </div>
 <div class="row">
@@ -666,7 +734,7 @@ ga('send', 'pageview');
 </div>
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-12">
-<p>10.6 We use the reCAPTCHA service provided by Google Inc. to protect your submissions via internet submission forms on our sites. This plugin checks if you are a person in order to prevent certain website functions from being (ab)used by spam bots (particularly comments). This plugin query included the sending of the IP address and possibly other data required by Google for the Google reCAPTCHA service. For this purpose your input will be communicated to and used by Google. However, your IP address is previously truncated by Google within members states of the European Union or in other states which are party to the agreement of the European Economic Area and is, as such, anonymized. Only in exceptional cases is a full IP address transmitted to a Google server in the United States and truncated there. On behalf of us, Google will use this information to evaluate your use of our services. The IP address provided by reCAPTCHA from your browse shall not be merged with any other data from Google.</p>
+<p>10.6 Some forms on this site require the use of Google's reCAPTCHA service before they can be submitted. This plugin checks if you are a person in order to prevent certain website functions from being (ab)used by spam bots (particularly comments). Use of the reCAPTCHA service is subject to the Google Privacy Policy and Terms of Use..</p>
 </div>
 </div>
 <div class="row">
@@ -678,10 +746,10 @@ ga('send', 'pageview');
 <h3>11. THIRD PARTY INFORMATION COLLECTION AND EXTERNAL SERVICES</h3>
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-12">
-<p>11.1 GOG services may, from time to time, contain links to and from the websites or services of third parties (e.g. to games developers whose games are on GOG.com). In addition, third parties (e.g. games developers/publishers) may also collect personally identifiable information (e.g. your email address or name) if you want to access additional game services, but they can collect any such information only after you have been informed of it and consented to it. This may include saving information to your GOG profile in relation to their games (such as, for example, saving game progress). Our Privacy Policy does not extend to these external sites or companies, so please refer directly to their privacy policies.</p>
+<p>11.1 GOG services may, from time to time, contain links to and from the websites or services of third parties (e.g. to games developers whose games are on GOG.COM). In addition, third parties (e.g. games developers/publishers) may also collect personally identifiable information (e.g. your email address or name) if you want to access additional game services, but they can collect any such information only after you have been informed of it and consented to it. This may include saving information to your GOG profile in relation to their games (such as, for example, saving game progress). Our Privacy Policy does not extend to these external sites or companies, so please refer directly to their privacy policies.</p>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 human">
-<p>You may find links on GOG.com that lead outside our website. Sometimes we might need to direct you elsewhere (like a developer’s website) if you want to access additional features built into your games. These sites might collect your information under their own privacy policies.</p>
+<p>You may find links on GOG.COM that lead outside our website. Sometimes we might need to direct you elsewhere (like a developer’s website) if you want to access additional features built into your games. These sites might collect your information under their own privacy policies.</p>
 </div>
 </div>
 <div class="row">
@@ -747,23 +815,7 @@ ga('send', 'pageview');
 <p>14.1 We may change this Privacy Policy if we think it's necessary for legal reasons or to reflect changes in GOG services. If so, we will make the changed Privacy Policy available online and (if you have a GOG account) we'll email you to explain the changes. We will also update the “Last Updated” date.</p>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 human">
-<p>We might make changes to our Privacy Policy but whenever we do we’ll display the changes online. These usually take effect after 30 days. Feel free to contact us if you have any questions about the changes.</p>
-</div>
-</div>
-<div class="row">
-<div class="col-md-6 col-sm-6 col-xs-12">
-<p>14.2 Once we change the Privacy Policy, it will become legally binding on you 30 days after we post it online. During that period, you're welcome to contact us if you have specific questions about the changes.</p>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12 human">
-<p>Feel free to contact us if you have any questions with regards to the changes.</p>
-</div>
-</div>
-<div class="row">
-<div class="col-md-6 col-sm-6 col-xs-12">
-<p>14.3 If you don't agree to those changes (regardless of whether you email us), then unfortunately we must ask you to cease using GOG services. We're sorry we have to say that, but we hope you'll appreciate that for GOG services to work properly we need to have everyone using it under the same rules instead of different people having different rules. That's why we encourage you to get in contact if you have queries.</p>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12 human">
-<p>We ask you to agree to changes to this Privacy Policy, otherwise unfortunately we have to ask you to stop using GOG services.</p>
+<p>We might make changes to our Privacy Policy but whenever we do we’ll display the changes online. Feel free to contact us if you have any questions about the changes.</p>
 </div>
 </div>
 <h3>15. USER AGREEMENT</h3>
@@ -777,8 +829,8 @@ ga('send', 'pageview');
 </div>
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-12">
-<p>Last updated: 30th September 2018</p>
-<p>(in effect from October 23rd, 2018; to view currently applicable Privacy Policy click <a href="https://support.gog.com/hc/articles/360009921554">here</a>)</p>
+<p>Last updated: 26th February, 2019</p>
+<p>(in effect from 26th March, 2019; to view currently applicable Privacy Policy click <a href="https://support.gog.com/hc/articles/360009921554">here</a>)</p>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 human">&nbsp;</div>
 </div>
@@ -797,7 +849,7 @@ ga('send', 'pageview');
           <div class="article-vote__left">
             <span class="article-vote-question">Was this article helpful?</span>
             <small class="article-vote-count">
-              <span class="article-vote-label">37 out of 40 found this helpful</span>
+              <span class="article-vote-label">79 out of 85 found this helpful</span>
             </small>
           </div>
           <div class="article-vote-controls">
@@ -809,7 +861,6 @@ ga('send', 'pageview');
   <li><a href="https://www.facebook.com/share.php?title=Privacy+Policy&amp;u=https%3A%2F%2Fsupport.gog.com%2Fhc%2Fen-us%2Farticles%2F212632109-Privacy-Policy" class="share-facebook">Facebook</a></li>
   <li><a href="https://twitter.com/share?lang=en&amp;text=Privacy+Policy&amp;url=https%3A%2F%2Fsupport.gog.com%2Fhc%2Fen-us%2Farticles%2F212632109-Privacy-Policy" class="share-twitter">Twitter</a></li>
   <li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;source=GOG.com&amp;title=Privacy+Policy&amp;url=https%3A%2F%2Fsupport.gog.com%2Fhc%2Fen-us%2Farticles%2F212632109-Privacy-Policy" class="share-linkedin">LinkedIn</a></li>
-  <li><a href="https://plus.google.com/share?hl=en-us&amp;url=https%3A%2F%2Fsupport.gog.com%2Fhc%2Fen-us%2Farticles%2F212632109-Privacy-Policy" class="share-googleplus">Google+</a></li>
 </ul>
 </div>
       </div>
@@ -923,7 +974,7 @@ ga('send', 'pageview');
 
   <!-- / -->
 
-  <script type="text/javascript" src="//static.zdassets.com/hc/assets/locales/en-us-72ae30aef02bf871751d461f39abffcf.js"></script>
+  <script type="text/javascript" src="//static.zdassets.com/hc/assets/locales/en-us-a5503df53549041d0c344c39572f0906.js"></script>
   <script src="https://gogsupport.zendesk.com/auth/v2/host.js" data-brand-id="613865" data-return-to="https://support.gog.com/hc/en-us/articles/212632109-Privacy-Policy" data-theme="hc" data-locale="en-us" data-auth-origin="613865,true,true"></script>
   
 
@@ -941,10 +992,10 @@ ga('send', 'pageview');
   HelpCenter = {};
   HelpCenter.account = {"subdomain":"gogsupport","environment":"production","name":"GOG.com"};
   HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
-  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":"ukxTlEdWLaLUy7MSiL/LMyaNh65G2MenkKX5rj6YVEDOdq0g9pqsyZSb2JzlcaLWAOL/a2y7kPiEH4hc+r3MBA==","shared_csrf_token":null},"settings":{"zopim_enabled":false,"spam_filter_enabled":true},"current_record_id":"212632109","current_record_url":"/hc/en-us/articles/212632109-Privacy-Policy","current_record_title":"Privacy Policy","search_results_count":null,"current_text_direction":"ltr","current_brand_url":"https://gogsupport.zendesk.com","current_host_mapping":"support.gog.com","current_path":"/hc/en-us/articles/212632109-Privacy-Policy","authentication_domain":"https://gogsupport.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"a567ada830cf71e94748c690fbd0e51b45928a74","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_anonymous_kb_voting":false,"has_professional_upsell":false,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"has_copied_content":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://support.gog.com/hc/admin/plan?locale=en-us","manage_content_url":"https://support.gog.com/hc/en-us","arrange_content_url":"https://support.gog.com/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://support.gog.com/hc/admin/general_settings?locale=en-us","user_segments_url":"https://gogsupport.zendesk.com/knowledge/user_segments?brand_id=613865","import_articles_url":"https://support.gog.com/hc/admin/import_articles?locale=en-us","has_community_enabled":false,"has_groups":true,"has_internal_sections":true,"has_organizations":true,"has_tag_restrictions":true,"has_answer_bot_web_form_enabled":false,"has_close_the_loop_enabled":false,"billing_url":"/access/return_to?return_to=https://gogsupport.zendesk.com/agent/admin/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"has_guide_docs_importer":true,"has_guide_permission_groups":true,"answer_bot_management_url":"https://support.gog.com/hc/admin/answer_bot?locale=en-us","is_account_owner":false,"has_theming_templates":true,"theming_center_url":"https://support.gog.com/theming","theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-preview","is_preview":false,"permission_groups_url":"https://gogsupport.zendesk.com/knowledge/permissions?brand_id=613865","has_guide_user_segments_search":false,"has_guide_user_segments_v2":true,"has_alternate_templates":false,"has_guide_arrange_articles":false,"arrange_articles_url":"https://gogsupport.zendesk.com/knowledge/arrange?brand_id=613865","article_verification_url":"https://gogsupport.zendesk.com/knowledge/verification?brand_id=613865","has_article_verification":false,"has_guide_language_settings":false,"guide_language_settings_url":"https://support.gog.com/hc/admin/language_settings?locale=en-us"};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":"08oXzZzRjZAF/bif2h1NNIpIHXi9awml5wFgmlFT36OihPj+bWER7XUdydvAb/jiCvgyBt4nstnrZ4E3KEcBbQ==","shared_csrf_token":null},"settings":{"zopim_enabled":false,"spam_filter_enabled":true},"current_record_id":"212632109","current_record_url":"/hc/en-us/articles/212632109-Privacy-Policy","current_record_title":"Privacy Policy","search_results_count":null,"current_text_direction":"ltr","current_brand_url":"https://gogsupport.zendesk.com","current_host_mapping":"support.gog.com","current_path":"/hc/en-us/articles/212632109-Privacy-Policy","authentication_domain":"https://gogsupport.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"336a702941efc2aa938829fd1d78d523abf0da63","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"user_aliases_enabled":false,"has_anonymous_kb_voting":false,"has_professional_upsell":false,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"has_copied_content":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://support.gog.com/hc/admin/plan?locale=en-us","manage_content_url":"https://support.gog.com/hc/en-us","arrange_content_url":"https://support.gog.com/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://support.gog.com/hc/admin/general_settings?locale=en-us","user_segments_url":"https://gogsupport.zendesk.com/knowledge/user_segments?brand_id=613865","has_community_enabled":false,"has_internal_sections":true,"has_answer_bot_web_form_enabled":false,"billing_url":"/access/return_to?return_to=https://gogsupport.zendesk.com/agent/admin/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"https://support.gog.com/hc/admin/answer_bot?locale=en-us","is_account_owner":false,"theming_center_url":"https://support.gog.com/theming","theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":false,"arrange_articles_url":"https://gogsupport.zendesk.com/knowledge/arrange?brand_id=613865","article_verification_url":"https://gogsupport.zendesk.com/knowledge/verification?brand_id=613865","has_article_verification":false,"guide_language_settings_url":"https://support.gog.com/hc/admin/language_settings?locale=en-us","has_fetch_authenticity_token":true,"docs_importer_url":"https://gogsupport.zendesk.com/knowledge/import_articles?brand_id=613865"};
 </script>
 
-  <script src="//static.zdassets.com/hc/assets/hc_enduser-2bf0cc3d29dc97ba2105767a10689dfd.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-003238cbbff0851ffcc20155d1690acf.js"></script>
 
   <script type="text/javascript">
     (function() {
