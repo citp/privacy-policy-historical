@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaanoon.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127221035id_/https%3A//www.kaanoon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaanoon.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615061054id_/https%3A//www.kaanoon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,6 +28,6 @@ Information we collect may be stored or processed on computers located in any co
 
 To operate the service, we also may make identifiable and anonymous information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets. Your consent will not be required for disclosure in these cases, but we will attempt to notify you, to the extent permitted by law to do so.
 
-If you have any questions or concerns about our privacy policies, please [contact us](https://web.archive.org/contact) or send an email to support@kaanoon.com.
+If you have any questions or concerns about our privacy policies, please [contact us](https://web.archive.org/contact) or send an email to support@kaanoon.com
 
-This privacy policy was last updated on November 1, 2013. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email.
+Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email.
