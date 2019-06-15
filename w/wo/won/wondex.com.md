@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wondex.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214182814id_/http%3A//wondex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wondex.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615201222id_/http%3A//wondex.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
