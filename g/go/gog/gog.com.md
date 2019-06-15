@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gog.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229135646id_/https%3A//support.gog.com/hc/articles/212632109-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gog.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615050950id_/https%3A//support.gog.com/hc/articles/212632109-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – GOG.COM SUPPORT CENTER
 
-Hello, GOG.com user! This Privacy Policy is where we explain what information is collected when you’re using GOG.com, how it is collected, how we use that information, where we store it, and how we protect it. We will also explain your rights in relation to the information. Like with our User Agreement, we've put together both a full text version and a (non legally binding) summary version to make things simple. If you have any queries you can contact us at privacy@gog.com. Here we go…
+Hello, GOG.COM user! This Privacy Policy is where we explain what information is collected when you’re using GOG.COM, how it is collected, how we use that information, where we store it, and how we protect it. We will also explain your rights in relation to the information. Like with our User Agreement, we've put together both a full text version and a (non legally binding) summary version to make things simple. If you have any queries you can contact us at privacy@gog.com. Here we go…
 
 ### 1\. WHO WE ARE
 
@@ -14,9 +14,9 @@ Hello, we're GOG and we are based in Poland. You can find our contact details he
 
 ### 2\. WHAT THIS PRIVACY POLICY GOVERNS
 
-2.1 This Privacy Policy applies to www.GOG.com, your GOG user account, the GOG Downloader, GOG Galaxy, any games or videos or other content which you purchase, access or use via GOG.com, the ‘GOG Wallet’, GOG payment methods, the GOG web forums, GOG customer and technical support and any other services we provide to you (we'll just call all this “GOG services” for short). GOG services also include GWENT: The Witcher Card Game for PC's (“GWENT”) from our related company CD PROJEKT together with www.playgwent.com, any other GWENT web sites or accounts and all services related to GWENT, including (but not limited to) user accounts and customer and technical support provided by us.
+2.1 This Privacy Policy applies to www.GOG.com, your GOG user account, the GOG Downloader, GOG Galaxy, any games or videos or other content which you purchase, access or use via GOG.COM, the ‘GOG Wallet’, GOG payment methods, the GOG web forums, GOG customer and technical support and any other services we provide to you (we'll just call all this “GOG services” for short). GOG services also include GWENT: The Witcher Card Game for PC's (“GWENT”) from our related company CD PROJEKT together with www.playgwent.com, any other GWENT web sites or accounts and all services related to GWENT, including (but not limited to) user accounts and customer and technical support provided by us. This privacy policy also applies to our accounts and profiles on social networks (e.g. fanpage on Facebook).
 
-This Privacy Policy explains the different types of information that we collect while you use GOG services or GWENT. We and our Partners will comply with applicable privacy laws. Btw Geralt says hi.
+This Privacy Policy explains the different types of information that we collect while you use GOG services or GWENT or visit our profiles on social networks. We and our Partners will comply with applicable privacy laws. Btw Geralt says hi.
 
 2.2 Specifically, this Privacy Policy governs personal information and non-personal information which we collect from you when you're using GOG services. ("Personal information" means information which, on its own or in combination with other information, can be used to identify you).
 
@@ -43,12 +43,14 @@ To register a GOG account, we will ask you for and collect some basic personal i
 4.2 When you use GOG services we may also collect the following information (how we use it is described later in this document):
 
   * (a) Technical details about devices which you use to access GOG services, including: Internet and/or network connection (including your IP address); mobile device identifiers; your operating system, browser type or other software; your hardware details; or other technical details provided by your web browser. This is technical data about our users and their actions and patterns, which does not provide personal information;
-  * (b) Details of your use of GOG services including, but not limited to: metrics information about when and how you use GOG services (such as what game(s) you are playing, your current status, your interactions with others); traffic data; your geographical location; your purchase history; emails received; and links accessed; your preferences and choices such as subscriptions, preferred language and currency; your friend lists on GOG.com; your communication via chat, game reviews, published posts on forum and other GOG services;
+  * (b) Details of your use of GOG services including, but not limited to: metrics information about when and how you use GOG services (such as what game(s) you are playing, your current status, your interactions with others); order status, order ID; traffic data; your geographical location; your purchase history; game library; emails received; and links accessed; your preferences and choices such as subscriptions, preferred language and currency; your friend lists on GOG.COM; your communication via chat, game reviews, published posts on forum and other GOG services;
   * (c) Other information required in order to help you with any queries/support you may need assistance with via the GOG forums or customer support, including communications with you; and
   * (d) limited payment processing information, including as applicable your credit card number, name and email address (on a hashed/anonymised basis as applicable), payment methods, payment engine and transaction type; fraud risk score;
   * (e)if you use GOG Galaxy we will also collect technical logs, information about your achievements in games you play and We may also collect additional information when you use other GOG services (see opposite). If GOG services crash, we might ask you to send us crash logs/bug reports.how long you play them; your multiplayer sessions; your activities on other platforms connected to your GOG account.;
   * (f) if you use Facebook Connect we may also collect limited information through Facebook Connect such as your Facebook ID, avatar, e-mail and friend list;
-  * (g) any other information which you supply us via our services;
+  * (g) if you purchase content via a third party platform which uses our GOG Direct to Account API, the platform may share data with us such as your platform ID, order details or your IP address;
+  * (h) if you visit our social profiles on social media (e.g. Facebook, Twitter) we can collect data about your activity on such profile, including messages sent to us or competitions in which you took part. Remember that being a user of a social networking site means that, we and you are bound by the privacy policy and terms accepted under this social networking site;
+  * (i) any other information which you supply us via our services;
 
 
 
@@ -56,13 +58,13 @@ To register a GOG account, we will ask you for and collect some basic personal i
 
 When you play Gwent, GOG collects basic data about you and your account activity (specific examples opposite). We need this in order to run GWENT and its related services. You can decline to provide your data but then equally you can’t play GWENT.
 
-4.4 A quick word about bug reports and crash logs: GOG software will generate bug or crash reports regarding GOG services – these reports will not mention your personal information. You can decide whether to submit these reports to GOG.com automatically. If you manually submit bug or crash reports to us, or if we contact you asking for feedback regarding crash or bug reports, then we may store them alongside your personal information.
+4.4 A quick word about bug reports and crash logs: GOG software will generate bug or crash reports regarding GOG services – these reports will not mention your personal information. You can decide whether to submit these reports to GOG.COM automatically. If you manually submit bug or crash reports to us, or if we contact you asking for feedback regarding crash or bug reports, then we may store them alongside your personal information.
 
 4.5 A quick word about payment details (if/when you use them in GOG Services): this is a matter for the relevant payment method/platform/processor. We process only limited payment processing information on a hashed/anonymised basis as applicable. If you make any purchases within GOG Services, then we are notified by the payment processor once a transaction takes place and of course we make sure you receive your purchased item, but we will not receive any of your actual payment details
 
 ### 5 HOW WE COLLECT INFORMATION FROM YOU
 
-5.1 We may collect, process and use information about you in the following ways (either directly or via our Partners as explained above): (a) information you give us via GOG services; (b) information given when you contact us or report a problem with GOG services; and (c) we may also ask you to complete surveys that we use for research purposes, although you don't have to respond to them. We may collect this information via GOG services or trusted third parties connected with us for optional things like surveys or polls.
+5.1 We may collect, process and use information about you in the following ways (either directly or via our Partners as explained above): (a) information you give us via GOG services; (b) information given when you contact us or report a problem with GOG services; (c) through our API which allows third party platforms to sell content which is activated directly on GOG.COM (“GOG Direct to Account API”) and (d) we may also ask you to complete surveys that we use for research purposes, although you don't have to respond to them. We may collect this information via GOG services or trusted third parties connected with us for optional things like surveys or polls.
 
 5.2 Facebook Connect. When you register to GOG services via Facebook Connect (of course, it's optional), Facebook will provide us with certain information about you such as your Facebook ID, avatar, e-mail, gender, location and friend list. Data is gathered strictly in accordance with the social network(s)’ terms and conditions, so check your privacy settings on Facebook.
 
@@ -78,7 +80,7 @@ Read our cookie policy too (link opposite).
 
 ### 7 WHY DO WE USE YOUR DATA? (LEGAL GROUNDS FOR DATA PROCESSING)
 
-When we process information about you, we do so as necessary to provide GOG services you use (i.e. to perform agreement between us, enable you to play GWENT), meet our legal obligations (f.ex. tax, accounting) or to fulfill the so-called “legitimate interests” of GOG or other reasons described in the “How we use your data” section. To clarify, by legitimate interests we mean lawful purposes that could be reasonably expected (like informing you about games we distribute and making sure our marketing is relevant for you, protecting the security of our websites and systems, conducting anti-cheat analysis and anti-fraud checks). When we rely on the legitimate interest, we consider and balance any potential impact on you and your rights. For other purposes we will ask for your consent and you will be entitled to withdraw this consent any time, with no impact on the validity of the processing before your consent has been withdrawn.
+7.1 When we process information about you, we do so as necessary to provide GOG services you use (i.e. to perform agreement between us, enable you to play GWENT), meet our legal obligations (f.ex. tax, accounting) or to fulfill the so-called “legitimate interests” of GOG or other reasons described in the “How we use your data” section. To clarify, by legitimate interests we mean lawful purposes that could be reasonably expected (like informing you about games we distribute and making sure our marketing is relevant for you, protecting the security of our websites and systems, conducting anti-cheat analysis and anti-fraud checks). When we rely on the legitimate interest, we consider and balance any potential impact on you and your rights. For other purposes we will ask for your consent and you will be entitled to withdraw this consent any time, with no impact on the validity of the processing before your consent has been withdrawn.
 
 In essence, we process your data to provide you with GOG services, to meet our legal obligations and for other reasons that are important for us like informing you about our games and ensuring security of our website. In other cases, we will ask for your consent in advance and you will always have the right to withdraw it anytime you like.
 
@@ -106,19 +108,20 @@ In general, we’ll store your data until you close your GOG account (or GWENT a
 9.1 We will use the above information in the following ways:
 
   * (a) to carry out our obligations arising from any contracts between you and us, like providing access to your GOG account, providing you with the games and technical support and in general allowing to use GOG Services and its functionalities when you choose to do so f. ex. your GOG user profile, chat, forum or cloud saving and crossplay services in GOG Galaxy
-  * (b) to ensure that GOG services are presented in the most effective manner for you and for your computer or other device from which you access GOG services.
+  * (b) to ensure that GOG services are presented in the most effective manner for you and for your computer or other device from which you access GOG services;
   * (c) to provide you with information, products or services that you request from us and which we feel may interest you - in particular, we may send you newsletters or emails about GOG services, special and occasional offers like a welcome offer or provide you with ads, offers and product recommendations on the basis of your purchases or activity on our and third party websites and services, as well as about CD PROJEKT’s games and services (of course, it’s optional);
-  * (d) to evaluate the effectiveness of our marketing actions and improve the quality of our marketing;
-  * (e) to notify you about changes to GOG services and our legal documents.
-  * (f) to improve or modify GOG services, f.ex. based on which games you like, how you play them, reported problems, your suggestions or satisfaction surveys;
-  * (g) To improve or modify GOG services, for example based on which games you like more and how you play them.
-  * (h) To calculate conversion rates and other elements of GOG.com performance.
-  * (i) in connection with the services of our Partners, such as payment processors, located in and outside the European Union, but only to the extent necessary to provide those services.
-  * (j) to provide you with optional functionalities such as GOG Connect or authentication via Facebook account.
-  * (k) to create a universal user’s profile based on information about your use of GOG Services and other platforms (we’ll rely on data made available when you merge your GOG account with your account on other platforms) in order to make our Services even more interesting for you.
-  * (l) to protect you from an unauthorized use of your account and against fraud;
-  * (m) for tax, legal and accounting purposes
-  * (n) for the accountability purposes as defined by EU legislation (GDPR)
+  * (d) to activate content on your GOG.COM account through our GOG Direct to Account API;
+  * (e) to evaluate the effectiveness of our marketing actions and improve the quality of our marketing;
+  * (f) to notify you about changes to GOG services and our legal documents.
+  * (g) to improve or modify GOG services, f.ex. based on which games you like, how you play them, reported problems, your suggestions or satisfaction surveys;
+  * (h) to improve or modify GOG services, for example based on which games you like more and how you play them.
+  * (i) to calculate conversion rates and other elements of GOG.COM performance.
+  * (j) in connection with the services of our Partners, such as payment processors, located in and outside the European Union, but only to the extent necessary to provide those services.
+  * (k) to provide you with optional functionalities such as GOG Connect or authentication via Facebook account.
+  * (l) to create a universal user’s profile based on information about your use of GOG Services and other platforms (we’ll rely on data made available when you merge your GOG account with your account on other platforms) in order to make our Services even more interesting for you.
+  * (m) to protect you from an unauthorized use of your account and against fraud;
+  * (n) for tax, legal and accounting purposes
+  * (o) for the accountability purposes as defined by EU legislation (GDPR)
 
 
 
@@ -126,11 +129,13 @@ We will use your information to run GOG and keep improving it as well as to comm
 
 9.2. Whenever we’re personalizing or targeting our marketing communications, offers and adverts, we may profile your personal information. We do not make however automated decisions (f.ex. via algorithms) that could affect your legal situation. If you decide that you no longer want to receive personalized offers, product recommendations from us, or no advertising news at all, you can object to this at any time. You can also choose whether to receive marketing communication from us, including personalized and targeted marketing emails by managing subscriptions on your GOG Account Subscription page, following the link "unsubscribe" attached to our marketing emails or just contacting us directly here.
 
+ń 
+
 9.3 **GWENT**. If you sign up for, download, use or play GWENT, we will also use your data to: (i) provide access and allow you to play GWENT; (ii) ensure enjoyable gameplay through the analysis of players’ data; (iii) maintain the ranking of Gwent players, (iv) calculate conversion rates and other elements of GWENT performance; (v) maintain technical support services for game users; (vi) identify incidents of game misuse; (vii) target and personalize our marketing communication, offers and advertisements that we display on our websites and services (including in-game marketing) as well as those of third parties based on the combined data we have collected about you.
 
 We can use your data to help us operate and improve GWENT (assuming you play it ofc – hey, it’s a great game you know :)!)
 
-9.4 **Non-personal data**. We might process some aggregated and general non-personal data on user behaviour (e.g. sales per region, number of support tickets) and share it with third party partners who work with us to provide GOG services to you (for example, with games developers/publishers selling games on GOG.com or with payment providers) in order to support, improve or amend GOG services or to help them to improve their products, which you have bought. We may also share non-personal information with data analysis services to help us run GOG.com. Fear not, as mentioned above, everything’s anonymised, so you cannot be identified.
+9.4 **Non-personal data**. We might process some aggregated and general non-personal data on user behaviour (e.g. sales per region, number of support tickets) and share it with third party partners who work with us to provide GOG services to you (for example, with games developers/publishers selling games on GOG.COM or with payment providers) in order to support, improve or amend GOG services or to help them to improve their products, which you have bought. We may also share non-personal information with data analysis services to help us run GOG.COM. Fear not, as mentioned above, everything’s anonymised, so you cannot be identified.
 
 ### 10\. DATA SHARING
 
@@ -138,31 +143,32 @@ We can use your data to help us operate and improve GWENT (assuming you play it 
 
 10.1 Some elements of your personal information and some information about your use of GOG Services are accessible to other GOG users. For example: other users of GOG Services will be able to see your username and avatar (if you choose to have one). We may also display other information derived from your activity on GOG Services. We do this to help GOG users to find gamers with similar tastes and to build the GOG user community. You can manage the privacy settings of your GOG user profile in your GOG account
 
-Some information about you will be visible on GOG.com as a part of your GOG user profile, this can be managed via privacy settings for your GOG account
+Some information about you will be visible on GOG.COM as a part of your GOG user profile, this can be managed via privacy settings for your GOG account
 
 10.2 GWENT. When you create a GWENT account, some basic data about you (namely your username, card collection, and statistics) will form a part of your public profile and it will be visible to everyone who views your profile. You can disable this function and manage the visibility of your profile through your GWENT account settings at any time.
 
-Limited data about you will be visible as a part of your public profile, but it can be disabled at any time via the privacy settings in your account.
+Limited data about you will be visible as a part of your public GWENT profile, but it can be disabled at any time via the privacy settings in your account.
 
 10.3 How you use your information. Please remember that any communications you have via GOG services (e.g. via private messages, chat or the GOG forums or via multiplayer games like GWENT) may reveal your screen name, other details about you and the content of any communications by you with other users (see further section 10.2 above re GWENT). Also, any information and content you share publicly using GOG services (e.g. on our forums or your GOG user profile) will be accessible to GOG users and others. Consider carefully with whom you share your information and avoid sharing contact or private information about yourself.
 
 When you're using GOG services you can choose to share your own personal information with others (e.g. in chat) but it's your responsibility.
 
-10.4. In general, we do not disclose information about you to third parties without your consent. We may share your data only with the following categories of third parties who were engaged by us to help deliver our services and functionalities to you (they are formally called “Data Processors”): 
+10.4. In general, we do not disclose information about you to third parties without your consent. We may share your data only with the following categories of third parties who were engaged by us to help deliver our services and functionalities to you (they are formally called “Data Processors”). 
 
   * Customer support partners that provide us with software and support ticket system to help us managing your customer support requests (like Zendesk Inc.);
-  * Advertising and advertising measurement partners to facilitate targeting, delivery and measurement of online advertising on third-party services (such as Google Adwords) or that provide us with email marketing tools (such as Campaign Monitor Ltd);
+  * Advertising and advertising measurement partners to facilitate targeting, delivery and measurement of online advertising on third-party services (such as Google Adwords) or that provide us with email marketing tools (such as GetResponse);
   * GOG’s subsidiaries and affiliates, including CD PROJEKT S.A, who help us providing you with GWENT and enable you to participate in Gwent esports competition;
   * Anti-cheat companies: we may share the information required for our detection, investigation and prevention of cheating in GWENT.
-  * Third party vendors that provide us with analytical tools for GOG.com and for GWENT;
+  * Third party vendors that provide us with analytical tools for GOG.COM and for GWENT;
   * Third party vendors that provide us with error tracking and crash reporting tools;
+  * Third party platforms that may sell content which is activated on GOG.COM using our GOG Direct to Account API (more details of which can be found in our User Agreement);
   * Third party network providers to optimize delivery of GOG content you requested (we share only your IP address and the identification of GOG content you wish to access);
-  * Data storage partners: we may store some of your information using third-party data storage services, e.g. we may use Google services to run surveys on GOG.com;
+  * Data storage partners: we may store some of your information using third-party data storage services, e.g. we may use Google services to run surveys on GOG.COM;
   * Our professional advisors dealing f.ex. with legal, tax, audit or accounting matters.
 
 
 
-In general, we don’t share information about you with third parties. There’re exceptions like our partners that help us do our thing. They usually help us with things like data analytics, processing payments, internal tools or running a variety of marketing activities.
+In general, we don’t share information about you with third parties. There are exceptions like our partners that help us do our thing. They usually help us with things like data analytics, processing payments, internal tools or running a variety of marketing activities.
 
 10.5 During the payment process, we may also share information about you with the following categories of third partners who handle it independently as the so-called data controllers:
 
@@ -172,15 +178,15 @@ In general, we don’t share information about you with third parties. There’r
 
 
 
-10.6 We use the reCAPTCHA service provided by Google Inc. to protect your submissions via internet submission forms on our sites. This plugin checks if you are a person in order to prevent certain website functions from being (ab)used by spam bots (particularly comments). This plugin query included the sending of the IP address and possibly other data required by Google for the Google reCAPTCHA service. For this purpose your input will be communicated to and used by Google. However, your IP address is previously truncated by Google within members states of the European Union or in other states which are party to the agreement of the European Economic Area and is, as such, anonymized. Only in exceptional cases is a full IP address transmitted to a Google server in the United States and truncated there. On behalf of us, Google will use this information to evaluate your use of our services. The IP address provided by reCAPTCHA from your browse shall not be merged with any other data from Google.
+10.6 Some forms on this site require the use of Google's reCAPTCHA service before they can be submitted. This plugin checks if you are a person in order to prevent certain website functions from being (ab)used by spam bots (particularly comments). Use of the reCAPTCHA service is subject to the Google Privacy Policy and Terms of Use..
 
 10.7 Your information may be processed, stored and transferred outside your country of residence and beyond the European Economic Area (EEA) and Switzerland, such as the United States, Canada or Brazil. Privacy laws in these countries may not offer the same level of protection as in your country or in the EEA. But whenever we’re sharing your personal information outside the European Economic Area (EEA) and Switzerland, we will do so on the basis of the EU standard contractual clauses or Privacy Shield Framework which are lawful measures to transfer your data and establish adequate protection of your personal information.
 
 ### 11\. THIRD PARTY INFORMATION COLLECTION AND EXTERNAL SERVICES
 
-11.1 GOG services may, from time to time, contain links to and from the websites or services of third parties (e.g. to games developers whose games are on GOG.com). In addition, third parties (e.g. games developers/publishers) may also collect personally identifiable information (e.g. your email address or name) if you want to access additional game services, but they can collect any such information only after you have been informed of it and consented to it. This may include saving information to your GOG profile in relation to their games (such as, for example, saving game progress). Our Privacy Policy does not extend to these external sites or companies, so please refer directly to their privacy policies.
+11.1 GOG services may, from time to time, contain links to and from the websites or services of third parties (e.g. to games developers whose games are on GOG.COM). In addition, third parties (e.g. games developers/publishers) may also collect personally identifiable information (e.g. your email address or name) if you want to access additional game services, but they can collect any such information only after you have been informed of it and consented to it. This may include saving information to your GOG profile in relation to their games (such as, for example, saving game progress). Our Privacy Policy does not extend to these external sites or companies, so please refer directly to their privacy policies.
 
-You may find links on GOG.com that lead outside our website. Sometimes we might need to direct you elsewhere (like a developer’s website) if you want to access additional features built into your games. These sites might collect your information under their own privacy policies.
+You may find links on GOG.COM that lead outside our website. Sometimes we might need to direct you elsewhere (like a developer’s website) if you want to access additional features built into your games. These sites might collect your information under their own privacy policies.
 
 11.2 GOG services may also offer you easy and optional access to GOG-approved partners’ services, e.g. the websites and games provided by our related company CD PROJEKT. In order to do this, we will need to share some of your personal information (e.g. your email address) with them, as long as you agree to it. This personal information will be protected under our partner’s privacy policy.
 
@@ -216,15 +222,7 @@ You may have additional privacy rights (see opposite).
 
 14.1 We may change this Privacy Policy if we think it's necessary for legal reasons or to reflect changes in GOG services. If so, we will make the changed Privacy Policy available online and (if you have a GOG account) we'll email you to explain the changes. We will also update the “Last Updated” date.
 
-We might make changes to our Privacy Policy but whenever we do we’ll display the changes online. These usually take effect after 30 days. Feel free to contact us if you have any questions about the changes.
-
-14.2 Once we change the Privacy Policy, it will become legally binding on you 30 days after we post it online. During that period, you're welcome to contact us if you have specific questions about the changes.
-
-Feel free to contact us if you have any questions with regards to the changes.
-
-14.3 If you don't agree to those changes (regardless of whether you email us), then unfortunately we must ask you to cease using GOG services. We're sorry we have to say that, but we hope you'll appreciate that for GOG services to work properly we need to have everyone using it under the same rules instead of different people having different rules. That's why we encourage you to get in contact if you have queries.
-
-We ask you to agree to changes to this Privacy Policy, otherwise unfortunately we have to ask you to stop using GOG services.
+We might make changes to our Privacy Policy but whenever we do we’ll display the changes online. Feel free to contact us if you have any questions about the changes.
 
 ### 15\. USER AGREEMENT
 
@@ -232,6 +230,6 @@ We ask you to agree to changes to this Privacy Policy, otherwise unfortunately w
 
 Just a reminder to check our User Agreement as well.
 
-Last updated: 30th September 2018
+Last updated: 26th February, 2019
 
-(in effect from October 23rd, 2018; to view currently applicable Privacy Policy click [here](https://support.gog.com/hc/articles/360009921554))
+(in effect from 26th March, 2019; to view currently applicable Privacy Policy click [here](https://support.gog.com/hc/articles/360009921554))
