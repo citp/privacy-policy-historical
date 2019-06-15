@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231090056id_/https%3A//plan-international.org/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615220616id_/https%3A//plan-international.org/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy policy and cookie notice | Plan International
 
-Last updated: May 2018
+Last updated: January 2019
 
 ### Contact information
 
@@ -53,7 +53,7 @@ We will hold your personal information for as long as you continue to subscribe 
 
 ### YOUR RIGHTS UNDER THE DATA PROTECTION ACT and the general data protection regulation
 
-The collection and use of personal information on this site is in accordance with the Data Protection Act (DPA) of 1998 (UK), the Data Protection Act 2018 and the EU General Data Protection Regulation (GDPR). More information can be found at the [Information Commissioner's Office](https://ico.org.uk/).
+The collection and use of personal information on this site is in accordance with the Data Protection Act 2018 and the EU General Data Protection Regulation (GDPR). More information can be found at the [Information Commissioner's Office](https://ico.org.uk/).
 
 ### Complaints
 
@@ -100,6 +100,14 @@ By using this website, you consent to the processing of data about you by Google
 This Website uses a service called Crazy Egg to collect anonymous data about user behaviour on some of the Website’s pages, such as where they click or scroll to on a page. To do this, Crazy Egg will deposit a cookie in your browser.
 
 Neither Plan Ltd nor Crazy Egg will use this information to personally identify our Website’s users. Please see [Crazy Egg’s Privacy Policy](https://www.crazyegg.com/privacy). Find out how to [opt out of Crazy Egg](https://www.crazyegg.com/opt-out).
+
+#### Facebook
+
+This Website uses a Facebook cookie which creates a link between your visit to this Website and Facebook. This helps us to show users relevant content on Facebook and to learn how users are interacting with our content on Facebook. Facebook will collect data to enable this. Information on how Facebook handles its users’ data can be found [here](https://www.facebook.com/about/privacy). See below for information on how to disable this cookie.
+
+#### Twitter
+
+This Website uses a Twitter cookie which creates a link between your visit to this Website and Twitter. This helps us to show users relevant promoted content on Twitter and to learn how users on Twitter are interacting with our advertising. Twitter will collect data to enable this. Information on how to opt out of Twitter’s interest-based advertising can be found [here](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads).
 
 #### Third-party cookies
 
