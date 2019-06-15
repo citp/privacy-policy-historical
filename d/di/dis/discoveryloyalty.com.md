@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoveryloyalty.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623134743id_/https%3A//www.discoveryloyalty.com/Legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoveryloyalty.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615021826id_/https%3A//www.discoveryloyalty.com/Legal) for the most accurate reproduction.*
 
 # Privacy Policy - Global Hotel Alliance
 
@@ -7,9 +7,9 @@ Effective as of May 25, 2018
 
 Your privacy is very important to us and this privacy policy is intended to help you understand what type of information we collect from you, how we store and use it and how we make sure that information is not made available to third parties unless it is needed to process your booking requirements or for completing financial transactions.
 
-This privacy statement describes the information privacy practices on [www.discoveryloyalty.com](http://www.discoveryloyalty.com/), [www.ultratravelcollection.com](http://www.ultratravelcollection.com/) and the DISCOVERY mobile application (the “Sites”). It also explains how we collect, store and use data about members of the DISCOVERY loyalty programme (“Members”) so that we can provide them with recognition and rewards when they stay at hotels participating in the DISCOVERY loyalty programme (“Participating Hotels”).
+This privacy statement describes the information privacy practices on [www.discoveryloyalty.com](http://www.discoveryloyalty.com/), [www.ultratravelcollection.com](http://www.ultratravelcollection.com/), the DISCOVERY mobile application and on other websites and applications operated by or on behalf of GHA (the “Sites”). It also explains how we collect, store and use data about members of the DISCOVERY loyalty programme (“Members”) so that we can provide them with recognition and rewards when they stay at hotels participating in the DISCOVERY loyalty programme (“Participating Hotels”).
 
-GHA Loyalty DMCC (“GHA” or “we”) is the operator of the DISCOVERY loyalty programme and it is responsible for maintaining the Sites. Reference in this privacy policy to GHA shall also include any third-party partners providing information or services through our Sites.
+GHA Loyalty DMCC (“GHA”, "us" or “we”) is the operator of the DISCOVERY loyalty programme, the licensee of the Ultratravel Collection brand and it is responsible for maintaining the Sites. Reference in this privacy policy to GHA shall also include any third-party partners providing information or services through our Sites.
 
 **INFORMATION WE HAVE COLLECTED AND MAY COLLECT AND HOW**  
 GHA collects information about you that you specifically and voluntarily provide. The personal information collected may include a broad range of information including your name, phone number, date of birth, preferred communication methods, business name, e-mail address, physical address, DISCOVERY member number and, when you are ready to make a hotel reservation, the payment details. When you enrol in our DISCOVERY programme online, we will also ask you to indicate whether you are over 18 years old, and we will record a DISCOVERY number and password linked to your personal details.
@@ -145,7 +145,7 @@ GHA Loyalty DMCC
 PO Box 487771 Dubai  
 United Arab Emirates  
 Phone: +971 4 4214287  
-Email: [admin.corporate@gha.com](mailto:admin.corporate@gha.com)
+Email: [data.privacy@gha.com](mailto:data.privacy@gha.com)
 
 **NAME AND ADDRESS OF THE DATA PROTECTION OFFICER**  
 The Data Protection Officer of the controller is:
