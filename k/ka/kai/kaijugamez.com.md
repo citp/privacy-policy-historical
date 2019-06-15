@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaijugamez.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215050629id_/http%3A//www.kaijugamez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaijugamez.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615145744id_/http%3A//www.kaijugamez.com/privacy.html) for the most accurate reproduction.*
 
 # kaijugamez.com - Privacy Policy
 
