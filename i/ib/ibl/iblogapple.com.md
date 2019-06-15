@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iblogapple.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209201641id_/http%3A//www.iblogapple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iblogapple.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616001056id_/http%3A//www.iblogapple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iBlogApple
 
@@ -52,6 +52,6 @@ iBlogApple has the discretion to update this privacy policy at any time. When we
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](http://web.archive.org/web/20150318040459/http://www.thetechgadget.com/contact-us/) or email us at iblogapplemail@gmail.com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [here](http://web.archive.org/web/20150318040459/http://www.thetechgadget.com/contact-us/) or email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on  **April 23, 2016**
