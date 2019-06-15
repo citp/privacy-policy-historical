@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundslikenashville.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119013810id_/http%3A//soundslikenashville.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundslikenashville.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615154933id_/https%3A//www.soundslikenashville.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Sounds Like Nashville
 
@@ -8,7 +8,7 @@
 
 Sounds Like Nashville (“we”) are committed to protecting and respecting your privacy.
 
-This privacy policy (together with our[ terms of use ](http://www.soundslikenashville.com/terms/)and any other documents referred to in it) sets out the basis on which any information (which may include personal data) we collect from you, or that you provide to us, through this website will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it.
+This privacy policy (together with our[ terms of use ](https://www.soundslikenashville.com/terms/)and any other documents referred to in it) sets out the basis on which any information (which may include personal data) we collect from you, or that you provide to us, through this website will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it.
 
 BY VISITING THIS WEBSITE (THE “SITE”) YOU ARE ACCEPTING AND CONSENTING TO THE PRACTICES DESCRIBED IN THIS POLICY (INCLUDING AS UPDATED OR AMENDED FROM TIME TO TIME). IF, FOR ANY REASON, YOU DO NOT AGREE TO THE TERMS OF THIS POLICY, PLEASE STOP USING THE SITE IMMEDIATELY.
 
