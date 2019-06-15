@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129211747id_/https%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615214104id_/https%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
 
 # The Imaging Resource Privacy Policy
 
 The Imaging Resource Privacy Policy
 
-The Imaging Resource does not collect any user specific identifiable information other than what the user specifically volunteers. For example, this information may be volunteered when you register for the [forums](http://www.photo-forums.com/) or subscribe to the [newsletter](https://web.archive.org/IRNEWS/). We do not use this information for any purpose other than its intended use (to allow posting in the forums, to allow sending of the newsletter to a specific email address, etc.) We don't resell names or any individual data. We may report demographic information in the aggregate, but don't share information on individual readers. 
+The Imaging Resource does not collect any user specific identifiable information other than what the user specifically volunteers. For example, this information may be volunteered when you register for the [forums](https://www.photo-forums.com/) or subscribe to the [newsletter](https://web.archive.org/IRNEWS/). We do not use this information for any purpose other than its intended use (to allow posting in the forums, to allow sending of the newsletter to a specific email address, etc.) We don't resell names or any individual data. We may report demographic information in the aggregate, but don't share information on individual readers. 
 
 A possible exception to the above may occur when a company sponsors a sweepstakes or contest. In these cases the company is generally entitled to the raw data collected for the sweepstakes/survey.
 
@@ -15,11 +15,11 @@ Please note that third party ad servers may place and read cookies or use web be
 Some network ads are served by Lijit Networks. For the information collected by this ad network, please see their privacy policy at:
 
 Lijit Networks, Inc. Privacy Policy  
-<http://www.lijit.com/company/privacy-policy>
+<https://www.lijit.com/company/privacy-policy>
 
 Lijit collects only anonymous information unless you choose to submit personal information. Lijit permits readers to opt out of the collection of this anonymous site visit data. To opt out, please see the section labeled 'Opting Out' in the above privacy policy for additional information.
 
-If you have any questions about our privacy policy, please send us a [note](https://web.archive.org/cdn-cgi/l/email-protection#3d4a585f7d54505c5a54535a104f584e52484f5e58135e5250). 
+If you have any questions about our privacy policy, please send us a [note](https://web.archive.org/cdn-cgi/l/email-protection#bccbd9defcd5d1dddbd5d2db91ced9cfd3c9cedfd992dfd3d1). 
 
 [Enter](http://www.dailydigitalphoto.com/potd-images/ir_potd_enter.htm) this month to win:
 
