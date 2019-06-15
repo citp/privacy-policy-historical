@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackpotparty.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218032028id_/http%3A//www.jackpotparty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpotparty.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615021112id_/http%3A//www.jackpotparty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jackpot Party Casino
 
@@ -62,7 +62,7 @@ It also applies to our mobile apps where it is located.
 
  **You have certain choices about how we use your information.**
 
- **You can opt out of receiving our marketing emails.** To stop receiving our promotional emails or if you object to our use of your information for direct marketing purposes, email us at[privacypolicy@sginteractive.zendesk.com](mailto:privacypolicy@sginteractive.zendesk.com) or follow the instructions in any promotional message you get from us. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.
+ **You can opt out of receiving our marketing emails.** To stop receiving our promotional emails or if you object to our use of your information for direct marketing purposes, email us at privacypolicy@sginteractive.zendesk.com or follow the instructions in any promotional message you get from us. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.
 
  **You can control cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, please click [here](https://sginteractive.zendesk.com/hc/en-us/articles/218279158).
 
@@ -70,11 +70,11 @@ It also applies to our mobile apps where it is located.
 
  **Your California privacy rights.**
 
-If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email, or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
+If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an _email_ , or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
 
  **These sites and apps are not intended for children.**
 
-Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from individuals under 21. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at [privacypolicy@sginteractive.zendesk.com](mailto:privacypolicy@sginteractive.zendesk.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children’s privacy on-line [here](http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html).
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from individuals under 21. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at privacypolicy@sginteractive.zendesk.com. You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children’s privacy on-line [here](http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html).
 
  **We use standard security measures.**
 
@@ -96,7 +96,7 @@ If you click on a third party link, you will be taken to platforms we do not con
 
  **Feel free to contact us if you have more questions.**
 
-If you have any questions about this Policy or want to access, delete, or correct your information, please email us at [privacypolicy@sginteractive.zendesk.com](mailto:privacypolicy@sginteractive.zendesk.com).
+If you have any questions about this Policy or want to access, delete, or correct your information, please email us at privacypolicy@sginteractive.zendesk.com.
 
 For Jackpot Party Casino Slots, Gold Fish Casino Slots, Hot Shot Casino, Blazing 7’s, Star Trek Slots, you can also write to us at:
 
