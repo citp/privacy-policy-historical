@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyinmind.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213080239id_/http%3A//www.bodyinmind.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyinmind.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615174319id_/http%3A//www.bodyinmind.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # BiM Privacy Policy
 
