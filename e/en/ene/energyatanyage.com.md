@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyatanyage.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223113632id_/http%3A//gundrymd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyatanyage.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615181101id_/http%3A//gundrymd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Gundry MD Supplements and Skincare Products
 
@@ -88,7 +88,7 @@ If our store is acquired or merged with another company, your information may be
 
 Many browsers have a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. These browser features are not uniform, so we are not currently set up to respond to those signals.
 
-Individuals who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests may be submitted to us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#34474144445b46407453415a50464d59501a575b59) or at the following mailing address: Gundry MD™; Re: Privacy Compliance Officer; 9465 Wilshire Boulevard, Suite 300; Beverly Hills, CA, 90212, United States.
+Individuals who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests may be submitted to us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e2919792928d9096a285978c86909b8f86cc818d8f) or at the following mailing address: Gundry MD™; Re: Privacy Compliance Officer; 9465 Wilshire Boulevard, Suite 300; Beverly Hills, CA, 90212, United States.
 
 Please outline in your letter or email that you are making a “California Shine the Light” inquiry. We will respond to your inquiry within 30 days.
 
@@ -98,7 +98,7 @@ This Website is not directed to children under the age of thirteen (13) and we d
 
 #### QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5c2f292c2c332e281c3b2932382e253138723f3331) or by mail at:
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3e4d4b4e4e514c4a7e594b505a4c47535a105d5153) or by mail at:
 
 Gundry MD™  
 Re: Privacy Compliance Officer  
