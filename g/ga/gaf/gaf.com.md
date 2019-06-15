@@ -1,74 +1,111 @@
-> *The following text is extracted and transformed from the gaf.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608003007id_/http%3A//www.gaf.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaf.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615142339id_/https%3A//www.gaf.com/en-us/our-company/privacy-and-legal/privacy-policy) for the most accurate reproduction.*
 
 # GAF | Privacy Policy
 
-**PRIVACY POLICY**
+## Privacy Policy
 
-Welcome to the website (the “Site”) of Building Materials Corporation of America, doing business as GAF (“GAF” or “we/our/us”). 
+Effective date June 11, 2010 (last updated May 2019)  
 
-This privacy policy describes how GAF treats your use of the Site, including the handling of personal information.  We reserve the right to revise this privacy policy at any time without any further notice to you.  You should periodically read this policy to learn of any revisions. Your use of the Site at any time is deemed to constitute your agreement to all of the terms of this privacy policy then in effect. If you do not agree to these terms, please do not use the Site. 
 
-**1.   INFORMATION COLLECTION**
+##   
+This Privacy Policy applies to our platforms.
 
-We may share both personally identifiable information (PII) and non-personally identifiable information (Non-PII) with third parties that help manage the Site and related databases, as well as with our parent company, partners, affiliates, and other third parties. 
+This Privacy Policy describes how GAF Materials LLC d/b/a GAF (“we,” “us,” “our” or “ourselves”) treats the information we gather in connection with the digital platforms we operate and that link to this Privacy Policy. Our digital platforms include, but are not limited to, our Company website(s), product review tools or services, the GAF My Roof and Contractor Zone portals, GAF chat service(s), and mobile applications (“apps”). This Privacy Policy also applies to the information that we may collect via social media platforms and our electronic communications. 
 
-**A.   Non-Personally Identifiable Information **
+By accessing or using our digital platforms, or registering for any of our product warranties or guarantees, you agree to this Privacy Policy. This includes changes that we may post here from time to time.
 
-GAF gathers certain broad Non-PII about Site use, including the number of unique visitors, the frequency with which they visit, and the programs and services preferred. We look at the data in summary form, rather than on an individual basis. We gather this information so we can, for example, learn how many people visit the Site, see which pages are the most and least viewed, and identify which web sites are referring visitors to the Site and related information. The data helps us determine the extent to which visitors use certain parts of the Site and tailor the Site in the future. In connection with these activities we may use some of the following tools. 
+##  We collect information from and about you.
 
-Cookies and Pixel Tags: We use standard technologies such as a “cookie” and pixel tags to collect information about how the Site is used. A cookie is a small removable data file that is stored by your web browser on your computer.  We use cookies to, among other things, identify your computer during a particular visit to the Site and analyze Site visitor behavior. If you create a user account or otherwise join our Site, these cookies enable you to store your password for fast log on and other conveniences. We do not store personal or sensitive information in cookies. Most Web browsers provide you with the ability to accept or decline cookies, as well as to be warned each time a cookie is being sent. If you choose to decline cookies, however, you may not be able to take advantage of all aspects of our site.  Pixel tags, also known as beacons or clear GIFs, help us better manage content on our site by informing us what content is effective. Pixel tags are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, pixel tags are embedded invisibly on Web pages. 
+**Information you submit or post.**  We collect the information you provide to us, enter on our digital platforms, or post in public forums. This includes the information you post on our social media pages or on third party websites, information you provide when making purchases from us, and information provided to register for an account, warranty, guaranty, or portal. The information collected may include, but is not limited to, your name, address, phone number(s), email address(es), username, password, demographics (e.g., gender or age), graphics, and payment information.  
 
-IP Addresses: We collect and analyze traffic on the Site by keeping track of the IP addresses of our visitors. An IP address is the unique numeric identifier assigned to each computer browser accessing the Internet. An IP address, by itself, cannot identify you personally. However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message. 
+By providing information to us, you represent and warrant that you own or otherwise control all of the rights to the content that you provide; that the content is accurate; that use of the content you supply does not violate this policy and will not cause injury to any person or entity; and that you will indemnify us for all claims resulting from content you supply. We take no responsibility and assume no liability for any content provided by you or any third party.   
 
-**B.   Personally Identifiable Information**
 
-Certain areas of the Site require you to provide personal information.  The PII we collect may include your name, address, phone number, mobile phone number, e-mail address, fax number, a user name you provide, or similar information.  By submitting personal information to us, you agree that we may use the information in accordance with this privacy policy. 
+**Other Information.**  We, our service providers, and businesses that support our business operations, including, but not limited to, third party providers of advertising or analytics services, may use technologies like cookies and pixel tags to automatically collect information when you access our digital platforms or interact with our electronic communications. The information that we collect automatically or manually, may include technical information from or about your computer, mobile device or Wi-Fi network (including SSID and password for certain apps), DHCP, the browser you use, your search history, the number of times you visit our platforms, the device you use, identifiers associated with your device, your device’s operating system, the content you view on our digital platforms, the content you view immediately before and after using our digital platforms, product preferences, and the programs and services you use with us or others. We, our service providers, and third parties (e.g., network advertising companies) may collect information about your online activities over time and across different websites when you use our digital platforms.
 
-If you do submit personally identifiable information to us, we may share such information with third party marketing partners in addition to using that information for the purposes for which it was submitted. 
+We may obtain information about you from third parties. For example, our business partners may provide us with information about you.
 
-We may also use your information in other ways, such as to contact you about changes to Site, to provide you with information about products and offers we believe will be of interest to you, or as otherwise disclosed to you at the point of collection.  We may share your information with affiliates, subsidiaries, partners, and any other organizations or entities for similar purposes. Additionally, to the extent required by applicable federal or state law, we will provide this information to others. 
+##  Location Information.
 
-By submitting information to us, you give us permission to receive it, review it, edit it, store it, and use it in appropriate settings designed to illustrate the viewpoint of GAF. 
+Our apps may collect precise information about the location of your mobile device when location services are enabled on your device. We may use the information to provide you with information, promotions, or advertising relevant to your location. We do not share location information with third parties for their independent use without your consent.
 
-**C.   Sharing Information for Operation Of GAF Business**
+## We use information as disclosed and described here.
 
-For the purpose of operating our business, we may transfer information between GAF and our service providers who use that information only to conduct GAF business. For example, they may handle GAF’s credit card processing, shipping, data management, e-mail distribution, market research, information analysis, and promotions management. We may also share your information to administer a Site feature. We provide our service providers with the information they need to perform their services and work with them to protect your information.  The information that you submit on the Site may be provided to those vendors so that those vendors can provide services on our behalf. 
+We use information to provide you with services, including on our digital platforms or in connection with our products and apps, and to respond to your requests, inquiries, comments, and questions. We also use information to send you products you may want to purchase.
 
-In order to better understand your preferences and better serve you, we may combine information we receive and that you give us online with other information from GAF sources, transactions and communications. This may include data from the Site, GAF contractors, direct mail, events, or online marketing. We may also combine that information with data that is publicly available and data that we receive from other reputable sources. 
+We use information to troubleshoot and improve our products and services, including our digital platforms. We may use the information we collect to customize your experience with us.
 
-We also reserve the right to share PII you provide with legal authorities if it is, in our sole opinion, necessary to investigate, prevent, or otherwise take action regarding suspected fraud, situations involving threats or potential harm, or if otherwise required by law (such as by a subpoena, court order, or other legal means). In the event that we reasonably believe that you have violated any of the Terms or policies governing your use of the Site, we reserve the right to use any information we have collected about you in connection with any efforts we make or made by any of our agents on our behalf. 
+We use information for marketing purposes. For example, we might use the information we collect to send you information about products, services or special offers that we believe may interest you. This might include information about upcoming contests or promotions. We may use the information we collect to deliver advertisements based on your activities on our digital platforms and third party websites and apps. For example, if you view one of our products on our website, you may receive an online ad for that product or a related product on our digital platforms or on third party websites and apps.
 
-We may transfer personally identifiable information to an affiliate or third party as part of a transfer of business assets. Such a transfer would be within the scope of this policy so long as the affiliate or third party agrees to continue to maintain use and storage of PII in accordance with this policy. 
+We use information to communicate with you about your account or our relationship. For example, we might tell you about changes to our platforms or to your accounts. Or we might reach out to you and ask you to take a customer satisfaction survey.
 
-**2.   SWEEPSTAKES, CONTESTS, PROMOTIONS**  
-From time to time, we may request information from you via online polls, surveys, sweepstakes, or contests. Participation in these survey, sweepstakes, or contests is completely voluntary; you have a choice whether or not to disclose information required to enter. Information requested may include personal contact information such as your name, address, phone number, mobile phone number, e-mail address, username, and/or similar information.  In addition, as noted above, we may share this information with our affiliates, subsidiaries, partners, and any other organizations or entities. 
+We may use the information we collect to better understand the interests and preferences of our customers, people who use our digital platforms, and people who buy our products. For example, we may use information to generate and analyze aggregate statistics about how users interact with our digital platforms.
 
-**3.   ONLINE ADVERTISEMENTS**  
-We work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect Non-PII about your visits to our Site and your interaction with our communications, including advertising. Our advertising partners may use cookies and pixel tags on this Site and on third party sites on which our ads appear, which allow the advertising partner to track certain information about user behavior, such as “click stream data.”  Any use of information by an advertising partner would be governed by their terms of use and privacy policy, so be sure to become familiar with these policies prior to responding to online advertisements.
+We may combine the information we collect. For example, we might combine information you give us with information we get from a public source. We might also combine information we collect from you with information we get from third parties. When we do so, we treat the combined information as disclosed in this Privacy Policy.
 
-  **4.   E-MAIL NEWSLETTER AND UPDATES, TEXT MESSAGES**  
-If you sign up to receive an e-mail newsletter, e-mail updates, or text messages from us, we may collect, store, and use your e-mail address and mobile phone number to send you such information from GAF. We may also collect and store other PII including but not limited to your name, address, phone number, number, username, and/or similar information you may opt to provide us. In addition, as noted above, we may share this information with affiliates, subsidiaries, partners, and any other organizations or entities. 
+We use information as permitted by law and as otherwise disclosed to you. For example, we may use the information we collect to protect the rights and property of us, you, and others.
 
-**5.   OTHER COMMUNICATIONS / OTHER USERS **   
-You may choose to contact GAF, by e-mail or otherwise, with other inquiries or to provide comments. Any PII you provide in connection with such inquiries or comments will be collected and used by GAF for the purpose of processing and responding to your inquiries or comments. 
+##    
+We may share information with third parties. 
 
-**6.   FACEBOOK AND OTHER THIRD-PARTY SOCIAL NETWORKING SITES**  
-GAF maintains an active presence on several social networks.  Please read the privacy policies of those social platforms, because your participation at those sites will not be governed by GAF’s Privacy Policy. 
+We will share information within our Company. We may share your information with our affiliates or subsidiaries. We may also share information with other related entities.
 
-**7.   SECURITY**  
-Information submitted via the Internet, including through a web page or e-mail is subject to interception or incorrect routing, and the Internet is not a fully secure communications channel. Please consider this prior to submitting any information to us via this Site.  While we follow generally accepted industry standards to protect the personal information submitted to us, no method of transmission over the Internet, or method of electronic storage, is 100 percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+We will share information with third parties who perform services on our behalf, and the information provided may be used for any of the purposes set forth in this policy. For example, we may share your information with vendors. These vendors include companies that handle credit card processing and shipping, companies that provide us with data management services, companies that manage our digital platforms, and companies that manage our communications and perform market research for us.
 
-**8.   INTERNATIONAL USERS**  
-This site is operated, in whole or in part, from the United States. By using this Site, regardless of where you live in the world, you consent to have your personal data transferred to and processed in the United States, and allow GAF to use and collect your personal information in accordance with this Privacy Policy. 
+We may share information with third party marketing partners. For example, we might share information with a company with whom we are running a joint promotion.
 
-**9.   UNSUBSCRIBE / CONTACT US **   
-We want to communicate with you only if you want to hear from us. If you prefer not to receive information from GAF or would like to update or change your personal information or preferences, follow the instructions below. However, GAF may send you service-related announcements, and transactional e-mail such as confirmations and receipts, from time to time through the general operation of the Site or by e-mail.  If you do not want to receive any e-mail from us in the future, click the “unsubscribe” reference in any e-mail we send you.  If you wish to review the contact information we have on file for you, correct your contact information, provide a change of address, or inform us how you wish your contact information to be used, please contact our staff. You may contact us by mail, telephone, or e-mail, as follows: 
+We may share information with online network advertisers and similar companies to facilitate the delivery of marketing communications on our digital platforms and thirdparty websites and apps. Those communications may include ads regarding our or others’ products based on your interests. We may use third party analytics providers that collect information about your use of our digital platforms to help us understand how people interact with those digital platforms.
 
-Building Materials Corporation of America d/b/a GAF  
-1361 Alps Road  
-Wayne, NJ  07470  
-http://www.gaf.com  
-1-888-532-5767  
-[ResidentialSales@gaf.com](mailto:ResidentialSales@gaf.com)
+We will share information if we think we have to in order to comply with the law or to protect ourselves. For example, we will share your information with legal authorities when we think it reasonable to do so. We may also share your information in situations where we think that our rights or the rights of our users or others are at risk.
 
-Last Updated: June 11, 2010 
+We may share information with any successor to all or part of our business. We may share your information as part of or as reasonably necessary to proceed with a transfer of business assets.
+
+We may share information for other reasons we may describe to you. And we may share aggregate information or information that does not reasonably identify you with third parties for any reason.
+
+##  You have certain choices about sharing, marketing and tracking.
+
+You can opt out of receiving our marketing emails. If you are a registered user, you can opt out of marketing emails by clicking [here](http://us.gaf.com/OptOut). You can also follow the instructions in any promotional message you get from us. Even if you opt out of getting marketing messages, we may still send you service-related announcements and transactional messages. In our mobile apps, you may be able to disable push notifications within the settings menu.
+
+You may be able to control cookies on your device. Most web browsers give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because you cannot control flash cookies through your browser settings. If you choose to block cookies, you may not be able to take advantage of all aspects of our digital platforms.
+
+In addition, you can learn about opting out of receiving interest-based ads from some or all participating companies by clicking [here](http://www.aboutads.info/choices/).
+
+##  These digital platforms and children.
+
+Our digital platforms are intended for people who are 13 years of age or older. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at [privacy@gaf.com](mailto:privacy@gaf.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
+
+Parents, you can learn more about how to protect children's privacy on-line [here](http://www.business.ftc.gov/privacy-and-security/childrens-privacy).
+
+##  We use standard security measures.
+
+Information submitted via the Internet is not 100% secure. We cannot promise that your use of our digital platforms will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+
+We keep personal information as long as it is necessary or relevant for the practices described in this Privacy Policy. We also keep information as otherwise required by law.
+
+##  We store information in the United States.
+
+By using our digital platforms, you consent to have your personal data transferred to the United States. Our digital platforms are subject to U.S. laws, which may not afford the same level of protection as those in your country.
+
+##  We may link to other sites or have third party services on our site we don’t control.
+
+If you click on a link to a third party website, you will be taken to websites we do not control. This includes social networks. Please read the privacy policies of any third party website that you visit. Your use of those websites will not be governed by this Privacy Policy, and we are not responsible for those third party practices. Our platforms may also have third party content or services we do not control. This may include passive tracking tools.
+
+##  Your California privacy rights
+
+If you reside in California and have provided personally identifiable information to us, you may request information once per calendar year about our disclosures of certain categories of your personally identifiable information to third parties for their direct marketing purposes. Such requests must be submitted to us in writing at the address listed below.
+
+##  Feel free to contact us if you have any questions.
+
+If you have any questions about this policy, please email us at: [Privacy@gaf.com](mailto:privacy@gaf.com)
+
+You can also call or write us at:   
+
+
+> GAF Materials LLC d/b/a GAF  
+>  1 Campus Drive  
+>  Parsippany, NJ 07054  
+> 888-532-5767
+
+##  We may update this Policy.
+
+From time to time we may change our privacy policies. We will notify you of any material changes to this Privacy Policy as required by law. We will also post an updated copy on our website. Please check our website periodically for updates.
