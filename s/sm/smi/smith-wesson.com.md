@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smith-wesson.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222172046id_/http%3A//www.aob.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smith-wesson.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615203413id_/http%3A//www.aob.com/legal) for the most accurate reproduction.*
 
 # American Outdoor Brands
 
