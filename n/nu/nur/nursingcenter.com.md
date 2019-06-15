@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215104751id_/https%3A//www.nursingcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615150214id_/https%3A//www.nursingcenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
