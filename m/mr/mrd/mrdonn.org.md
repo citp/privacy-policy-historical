@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mrdonn.org privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022022935id_/https%3A//www.mrdonn.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrdonn.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615062844id_/https%3A//www.mrdonn.org/privacypolicy.html) for the most accurate reproduction.*
 
 # MrDonn.org - Privacy Policy
 
 ## Privacy Policy / Cookie Policy / Affiliate Disclosure
 
-[mrdonn.org](https://www.mrdonn.org/index.html) does not collect information on visitors to its Website.
+[mrdonn.org](https://www.mrdonn.org/) does not collect information on visitors to its Website.
 
 Google, as a third party vendor, uses cookies to serve ads on our site.
 
@@ -20,6 +20,8 @@ Google, as a third party vendor, uses cookies to serve ads on our site.
 
 
 Alternately, users can opt out of these and other third-party vendors' use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).
+
+mrdonn.org uses a third party technology called Ezoic: [Ezoic Privacy Policy](https://g.ezoic.net/privacy/mrdonn.org)
 
 ## Privacy Policy Regarding Children
 
