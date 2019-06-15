@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fau.edu privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231184707id_/https%3A//www.fau.edu/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fau.edu privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615145450id_/https%3A//www.fau.edu/privacypolicy.php) for the most accurate reproduction.*
 
 # FAU | Privacy Policy
 
@@ -12,7 +12,9 @@ Please be advised that under Florida law, e-mail addresses are public records. I
 
 If you have other questions about our privacy policies, or have ideas about improving our policies, please feel free to e-mail us at [fauweb@fau.edu](mailto:fauweb@fau.edu?subject=) or you can reach us by telephone at [561-297-3999](tel:561-297-3999).
 
-For more information regarding the privacy and protection of medical information and records at FAU, please visit: <http://www.fau.edu/hipaa>
+Further information regarding the collection, use and disclosure of personal data in all areas at FAU may be found in our [General Privacy Policy](http://www.fau.edu/policies/files/8.1%20General%20Privacy%20Policy.pdf).
+
+Further information regarding the privacy and protection of patient health information at FAU may be found in our [HIPAA Privacy and Security Policies](http://www.fau.edu/hipaa/policies.php).
 
 ## FAU Web Legal Notice
 
