@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpnotebook.co.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229113711id_/http%3A//www.gpnotebook.co.uk/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpnotebook.co.uk privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615194737id_/https%3A//www.gpnotebook.co.uk/privacy.cfm) for the most accurate reproduction.*
 
 # General Practice Notebook
 
