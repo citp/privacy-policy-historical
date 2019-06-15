@@ -1,91 +1,73 @@
-> *The following text is extracted and transformed from the keithdougherty.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132354id_/http%3A//keithdougherty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keithdougherty.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615042512id_/http%3A//doughertyhq.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — keithdougherty.com
+# Dougherty HQ LLC - Privacy
 
-This privacy policy describes how Xtreme Marketing Services, Inc (Keith Dougherty) collects and uses the personal information you provide on our website keithdougherty.com / xmsusa.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+**Commitment to protect your privacy**
 
-**Collection and Use of Personal Information**
+In your relationship with Dougherty HQ LLC, you share personal information with us. Such information may include your first name, email address and other personal details in connection with transactions entered into by you with us. We understand how important it is to protect your personal information. This document sets out our privacy policy commitment in respect of personal information you provide to us. Further privacy information may apply depending on the business in Dougherty HQ LLC with which you deal with. If additional terms and conditions apply to you, they will appear on the website. We encourage you to visit our website regularly for any updates to our privacy policies.
 
-We collect the following personal information from you:
+ **What we collect**
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as name and billing address
+Dougherty HQ LLC will collect and hold your personal information for the purpose of:
 
+    Providing you with the relevant product and/or service;  
+    Letting you know about other products and/or services which might interest you; or  
+    Assisting us generally in managing your transactions with us.
 
+ **We may collect the following information:**
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+    Name  
+    Contact information including email address  
+    Demographic information such as postcode, preferences, and interests  
+    other information relevant to customer surveys and/or offers
 
-We use this information to:
+ **What we do with the information we gather**
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Administer your account
-  * Respond to your questions and concerns
+We may keep and file all personal information you provide when dealing with us to assist us in providing you with our services and information of interest in respect of your business. For example, a member of Dougherty HQ LLC may send publications or other market information on our products and services to you or follow up on your interest in particular products and services. Dougherty HQ LLC discloses your personal information to those employees or advisers who need to know that information to assist us in providing you with our range of products and services. We may also disclose information to affiliates and other third parties necessary to process your transactions or service your account (including our share registry, print service providers, call centers and mail houses, our accountants, auditors and lawyers and credit reporting agencies).
 
+We may also disclose your personal information in corporate transactions involving the transfer of all or part of the assets or business of a member of real-estate-leads.info or in a corporate restructure. If we do this, we generally require these parties to protect your information in the same way we do. We may also be required or authorized by law to disclose your personal information. For example, we may disclose your personal information to a court in response to a subpoena. We will also disclose information to other persons where you have provided your consent to do so
 
+ **What rights do you have in relation to personal information which we collect and hold?**
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+Dougherty HQ LLC takes all reasonable steps to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. If you become aware of any errors in your personal information or you change your personal details, we ask you to contact us as soon as possible so that we may update our records. You can contact our Privacy Officer if you would like details of your personal information which we may hold about you or if you would like us to correct it. We will disclose to you such information, subject to certain exceptions allowed by law. We may require you to complete a request form before disclosing information. We also reserve the right to charge a fee. You may also contact our Privacy Officer to request us to stop using your personal information to contact you about our products and services. If you no longer conduct business with us, you can ask us to remove your personal information we hold about you. Subject to our legal obligations and responsibilities, we will take reasonable steps to destroy or de-identify your personal information.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+ **How we use cookies**
 
-We may also disclose your personal information:
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-  * As required by law such as to comply with a subpoena, or similar legal process
-  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
-  * If Xtreme Markting is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
-  * To any other third party with your prior consent to do so
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Cookies and Other Tracking Technologies**
+This privacy policy applies to the various websites operated by YourCompanyName or Your WebsiteURL under various domain names. real-estate-leads.info operates websites which may utilize ‘cookies’ to collect personal information. If you transact electronically with a member of real-estate-leads.info you should refer to the website of that member for more information on its website privacy and security procedures.
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. We use another company to place cookies on your computer to collect non-personal information to compile aggregated statistics for us about visitors to our site.
+ **Information collected from this website**
 
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here.
+When you visit a website of Dougherty HQ LLC, we may collect the following information from you: domain name, your name, 
 
-**Behavioral Targeting/Re-Targeting**
+information
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+you volunteer such as email addresses. We may also collect statistical data, such as the date and times of visits as well as the number and pages viewed by each visitor, which is utilized to evaluate the performance and usefulness of our website.
 
-**Links to Other Web Sites**
+Email usage
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of  Xtreme Markting. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+While we take care that the personal information you give us on our websites is protected, the Internet is not a secure environment. If you send us information, including your email address, it is sent at your own risk. Our websites do not capture email addresses without your permission. If, however, you provide your email address to us, it may be used by Dougherty HQ LLC to send you information relating to our and related products and services. If we send you an email which you do not wish to receive in the future, please use the unsubscribe link or follow the unsubscribe instructions at the bottom of that email or notify us and your email address will be removed from our system.
 
-**Analytics Data Gathering**
+ **Private information security**
 
-We use third party analytics tools, such as Google Analytics to measure traffic and website usage. One feature we use in Google Analytics is non-personally identifiable 3rd-party audience data (such as age, gender, and interests), which we use to improve our service.
+Dougherty HQ LCC takes all reasonable security measures to protect personal information from loss, unauthorized access, destruction, misuse, modification or disclosure. For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider PayPal keeps this information encrypted and secure on your behalf. We do not, however, accept any responsibility for the unauthorized access of personal information held by Dougherty HQ LLC. You may be able to access external websites by clicking on links we have provided. Those other websites are not subject to the privacy standards of Dougherty HQ LLC and we are not responsible for their privacy practices or the content of such other websites. You should contact those websites directly to ascertain their privacy standards, policies, and procedures.
 
-**Data Retention**
+ **3rd party disclosure**
 
-We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Personal details, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
-**Deletion / Deactivation**
+ **Who do you contact?**
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, or delete it by making the change on our member information page or by contacting us by telephone or postal mail at the contact information listed below.
+Our Privacy Officer can be contacted at:  
+E-mail: info@doughertyhq.com
 
-**Security**
+ **Changes to this privacy statement**
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We also encrypt customer information in our database so that customers name and address is never stored in plain text. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. Please contact us, if you have any questions about security on our Web site.
-
-We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL) and is processed by Authorize.net. If you choose to use a third party payment option, such as PayPal, to pay for your order, its privacy policy and security practices will apply to your information. We encourage you to read that privacy policy before providing your information.
-
-**Social Media Features and Widgets**
-
-Our website includes Social Media Features, such as the Facebook Like button and Widgets. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.  
-Testimonials
-
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at support@xmsua.com.
-
-**Notification of Privacy Policy Changes**
-
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.  
-Contact Information:
-
-Xtreme Marketing Services, Inc.  
-1391 NW St Lucie West Blvd  
-Suite 247  
-Port St Lucie, FL 34986  
-772-924-1717
+We may change our privacy policies from time to time to comply with new laws or industry codes of practice which are developed. It is your responsibility to refer to our privacy policies from time to time to familiarize yourself with any changes.
