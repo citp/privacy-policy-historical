@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savethechildren.org privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926121853id_/https%3A//www.savethechildren.org/us/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethechildren.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615091554id_/https%3A//www.savethechildren.org/us/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Save the Children
 
@@ -136,7 +136,7 @@ We will store your Personal Data, in a form which permits us to identify you, fo
 
 Like many websites, our Site uses cookies to distinguish you from other users of the Site. This helps us to analyze the use of the Site, to customize and improve the content and layout of the Site.
 
-By using our Site, our social media pages (such as Facebook, Twitter, YouTube, Google+ and Instagram), subscribing to our services, donating to us and/or shopping online, you agree that, unless you have set your computer's browser to reject them, we can place the types of cookies set out below on your device and use that data in accordance with this Privacy Notice.
+By using our Site, our social media pages (such as Facebook, Twitter, YouTube and Instagram), subscribing to our services, donating to us and/or shopping online, you agree that, unless you have set your computer's browser to reject them, we can place the types of cookies set out below on your device and use that data in accordance with this Privacy Notice.
 
 You do not have to accept our cookies and can block them by opting out via the banner at the top of our site that allows you to refuse all or some cookies. You may also delete them after they have been placed on your hard drive. If you do not accept or delete our cookies, some areas of the Site that you access may take more time to work, or may not function properly.
 
@@ -220,7 +220,7 @@ You can always opt-out of Adobe Analytics cookies by Adobe’s opt-out tool.
 
 **Other third-party cookies**
 
-You may notice some other cookies that are not related to the Save the Children’s website whilst visiting www.savethechildren.org. Some of our pages contain embedded content such as YouTube video, Twitter feed, Facebook likes or Google plus share, and you may receive cookies delivered from these websites. Save the Children does not govern the publication of third-party cookies. To understand more about their cookies and privacy statements, please visit the relevant sites.
+You may notice some other cookies that are not related to the Save the Children’s website whilst visiting www.savethechildren.org. Some of our pages contain embedded content such as YouTube video, Twitter feed or Facebook likes, and you may receive cookies delivered from these websites. Save the Children does not govern the publication of third-party cookies. To understand more about their cookies and privacy statements, please visit the relevant sites.
 
 Some of our cookies will remind you about our work and how you can help after you have left the website. These are the targeting/advertising cookies we use. It is a useful tool for us to keep public awareness of our campaigns and how they can be supported.
 
