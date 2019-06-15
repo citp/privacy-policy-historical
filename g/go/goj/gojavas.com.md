@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gojavas.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212173527id_/http%3A//www.gojavas.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gojavas.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615102959id_/http%3A//www.gojavas.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | gojavas
 
@@ -49,7 +49,7 @@ A cookie is a piece of data stored on the user's hard drive containing informati
 
 ## **Grievance Officer**
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20181212173527id_/http%3A//www.gojavas.com/contact.html) using the information below or drop us a mail with subject line-PRIVACY POLICY: 
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20190615102959id_/http%3A//www.gojavas.com/contact.html) using the information below or drop us a mail with subject line-PRIVACY POLICY: 
 
 **Quickdel Logistics Pvt Ltd**
 
