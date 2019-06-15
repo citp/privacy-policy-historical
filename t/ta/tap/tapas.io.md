@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapas.io privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006115610id_/https%3A//tapas.io/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapas.io privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615192901id_/https%3A//tapas.io/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Tapas
 
