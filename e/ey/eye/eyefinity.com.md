@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyefinity.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112025147id_/http%3A//www.eyefinity.com/privacy-and-security-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyefinity.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615220127id_/http%3A//www.eyefinity.com/privacy-and-security-policy.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
