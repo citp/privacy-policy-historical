@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thephilippinestimes.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212174325id_/http%3A//thephilippinestimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thephilippinestimes.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615040618id_/http%3A//thephilippinestimes.com/privacy) for the most accurate reproduction.*
 
 # Bollywood Charcha
 
