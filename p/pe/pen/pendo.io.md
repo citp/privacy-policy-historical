@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pendo.io privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507050629id_/http%3A//www2.pendo.io/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pendo.io privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615183923id_/https%3A//www.pendo.io/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Pendo - Understand and Guide Your Users
+# Privacy Policy | Pendo.io
 
 We at Pendo.io, Inc. (“Pendo,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. This privacy policy (the “Privacy Policy”) describes how Pendo.io, Inc. collects and uses the personal information you provide on our Website and Service. By visiting or using the Website or Service in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and you hereby consent to us collecting, using, and sharing your information in the following ways. Any capitalized terms used, but not defined have the meaning given to them in the Pendo Terms of Service ([www.pendo.io/terms-of-service](https://www.pendo.io/terms-of-service/)).
 
@@ -14,7 +14,7 @@ While the Website may link to third party websites or other third party provided
 
 ### PRIVACY SHIELD
 
-Pendo complies with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union and Switzerland. Pendo has certified to the Department of Commerce that it adheres to the Privacy Shield Principles (the “Principles”) and commits to subject all personal data received from the EU or Switzerland to the Principles. If there is any conflict between the terms in this privacy policy and the Principles, the Principles will govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+Pendo complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Frameworks (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom and/or Switzerland, as applicable to the United States in reliance on Privacy Shield. Pendo has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 Pendo remains responsible for any of your Personal Data that is shared under the onward transfer principle with third parties for external processing on our behalf, as described in the “DOES PENDO SHARE MY PERSONAL INFORMATION?” section below.
 
@@ -32,7 +32,7 @@ A. _Personal Data You Provide to Us:_ We receive and store any information you p
 
 B. _Your customers’ Personal Data:_ In order to provide you with the Service, if you install certain software code provided by us on your website, we also receive and store any information you choose to provide to us with respect to your customers (“Your Customers”). For more information on how we collect and compile Your Customers’ information, please refer to our Terms of Service ([www.pendo.io/terms-of-service](https://www.pendo.io/terms-of-service/)).
 
-In order to provide the Service to you, you must provide us with a unique identifier for each of Your Customers. We encourage you to use a unique identifier that does not include Your Customers’ Personal Data; however, your information with respect to the Service will consist of any information, including any of Your Customers’ Personal Data, you choose to provide to us. Pendo does not collect any user-entered form field text in the application. 
+In order to provide the Service to you, you must provide us with a unique identifier for each of Your Customers. We encourage you to use a unique identifier that does not include Your Customers’ Personal Data; however, your information with respect to the Service will consist of any information, including any of Your Customers’ Personal Data, you choose to provide to us. Pendo does not collect any user-entered form field text in the application.
 
 You should avoid sending any of the following types of sensitive personal information to Pendo on behalf of yourself or Your Customers: government-issued identification numbers; financial information (such as credit or debit card numbers, any related security codes or passwords, or bank account numbers); information related to an individual’s physical or mental health and information related to the provision of health care or payment for health care services. Remember, you are responsible for ensuring you comply with local laws and regulations regarding Your Customers’ Personal Data and other privacy and security obligations, including without limitation, as applicable, maintaining a privacy policy, sending appropriate notices to Your Customers, obtaining any necessary consent and providing opt-out opportunities.
 
@@ -71,15 +71,10 @@ All data hosted by Pendo is encrypted. Pendo uses industry-accepted encryption p
 We use your data and, if applicable, Your Customers’ data to provide you Service. We may also use your data for our own purposes related to the performance and maintenance of the Service and our documentation, for marketing for purposes and to otherwise communicate with you including, without limitation, for the following:
 
   * To respond to your inquiries and fulfill your requests, such as to send you requested materials and newsletters, as well as information and materials regarding our products and services.
-
   * To send administrative information to you, for example, information regarding the services and changes to our terms, conditions and policies.
-
   * To provide you with customer service, which may include, pursuant to your specific request, use of Your Customer data in a de-aggregated, identifiable form.
-
   * To send you marketing communications, including via email, mobile and in-application messages and SMS in compliance with applicable laws that we believe may interest you.
-
   * To personalize your experience of the Service and our marketing websites by presenting products and offers tailored to you.
-
   * For our business purposes, such as data analysis; audits; fraud monitoring and prevention; developing new products; enhancing, improving or modifying our Website and Service; identifying usage trends; determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
 
 
@@ -129,10 +124,6 @@ If you have any questions or concerns regarding our privacy policies, please sen
 
 150 Fayetteville St.  
 Raleigh, NC  27601  
-United States of America 
+United States of America
 
 _Effective: April 5, 2018_
-
-## Let’s Get Started!
-
-### We’ll follow up straightaway to show you a quick product tour.
