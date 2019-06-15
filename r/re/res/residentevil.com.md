@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the residentevil.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215134840id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentevil.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615104540id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
 
 # Capcom Privacy Policy
 
@@ -8,7 +8,7 @@
 
 Last updated August 2, 2018
 
-Here is a [PDF version](https://web.archive.org/web/20181215134840id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20USA%20Online%20Privacy%20Statement%2020180802.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
+Here is a [PDF version](https://web.archive.org/web/20190615104540id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20USA%20Online%20Privacy%20Statement%2020180802.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
 
 Welcome to Capcom USA!
 
