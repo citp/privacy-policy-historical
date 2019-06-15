@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtcarlot.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210033029id_/http%3A//gtcarlot.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtcarlot.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615180503id_/http%3A//gtcarlot.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GTcarlot.com Privacy Policy
 
