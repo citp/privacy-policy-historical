@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vht.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910074308id_/http%3A//vht.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vht.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615110456id_/https%3A//vht.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VHT Studios
 
