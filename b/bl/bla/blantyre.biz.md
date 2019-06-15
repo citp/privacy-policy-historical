@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blantyre.biz privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109120033id_/http%3A//blantyre.biz/blantyres-ain-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blantyre.biz privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615181246id_/http%3A//blantyre.biz/blantyres-ain-website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blantyre's Ain Website
 
