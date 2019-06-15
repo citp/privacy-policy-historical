@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aikenstandard.com privacy policy that was archived on 2018-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180712192606id_/https%3A//www.aikenstandard.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aikenstandard.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615174106id_/https%3A//www.aikenstandard.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | aikenstandard.com
 
