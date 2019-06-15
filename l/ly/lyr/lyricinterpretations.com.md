@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricinterpretations.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106103534id_/https%3A//www.lyricinterpretations.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricinterpretations.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615052829id_/https%3A//www.lyricinterpretations.com/pages/privacy) for the most accurate reproduction.*
 
 # LyricInterpretations.com Privacy Policy
 
