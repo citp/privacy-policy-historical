@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220015910id_/https%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615215026id_/https%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
 
 # Fish and Wildlife Service
 
