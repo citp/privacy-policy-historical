@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksie.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229111503id_/https%3A//www.booksie.com/member/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksie.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615073107id_/https%3A//www.booksie.com/member/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
