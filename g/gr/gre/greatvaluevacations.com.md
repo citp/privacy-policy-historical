@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatvaluevacations.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021001745id_/https%3A//www.greatvaluevacations.com/travel/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatvaluevacations.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615204831id_/https%3A//www.greatvaluevacations.com/travel/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GreatValueVacations.com
 
