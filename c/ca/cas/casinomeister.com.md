@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927001559id_/https%3A//www.casinomeister.com/legal-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615154859id_/https%3A//www.casinomeister.com/legal-statements) for the most accurate reproduction.*
 
 # Casinomeister's Terms of Service and Privacy Policy - Casinomeister
 
@@ -12,10 +12,10 @@ If you want to use our forum then you will have to create an account and you wil
 
 Under data protection legislation Casinomeister® is the data controller.
 
- **WARNING**  
+**WARNING**  
 Casinomeister® does not intend for any of the information contained on this website to be used for illegal purposes. You must ensure you meet all age and other regulatory requirements before entering a casino or placing a wager. Online gambling is illegal in many jurisdictions and users should consult legal counsel regarding the legal status of online gambling and gaming in their jurisdictions.
 
- **Please read our section on  [Playing Responsibly](https://www.casinomeister.com/play-responsibly/)**
+**Please read our section on  [Playing Responsibly](https://www.casinomeister.com/play-responsibly/)**
 
 The information in this site is for news and entertainment purposes only. Casinomeister® is an independent directory and information service. We are not affiliated with any casinos.
 
@@ -134,7 +134,7 @@ Our business is dependent on advertising so we do make use of various tracking m
 
 
 
- **If you do not agree to this then you cannot use our website. YOUR CONTINUED USE OF AND ACCESS TO OUR WEBSITE WILL BE DEEMED TO CONFIRM YOUR ACCEPTANCE OF THIS.**
+**If you do not agree to this then you cannot use our website. YOUR CONTINUED USE OF AND ACCESS TO OUR WEBSITE WILL BE DEEMED TO CONFIRM YOUR ACCEPTANCE OF THIS.**
 
 ## Your rights
 
@@ -144,14 +144,14 @@ If you agree to us sending you marketing communications then we may do so, but y
 
 You have the following rights under current legislation:
 
-  *  **The right to be informed:**  This privacy policy is intended to meet our obligation to provide “fair processing information”.
-  *  **The right of access:**  You have the right at any time to ask to see a copy of the personal data we hold about you.
-  *  **The right to withdraw consent:**  Where you have given your consent to our processing you may withdraw this at any time.
-  *  **The right to rectification and data quality:**  If your personal data is incorrect or incomplete then you may ask us to remedy that.
-  *  **The right to erasure including retention and disposal:**  You may ask us to delete or remove your personal data where there is no compelling reason for its continued processing but this may affect any services we provide to you which relies on that personal data. Some information you provide, such as any information disclosed to us in using our player arbitration service, may be retained even if you ask for your data to be deleted. We will only do so if we can establish a legitimate reason for continuing to hold onto that personal data.
-  *  **The right to restrict processing:**  Where you have highlighted an issue with the data.
-  *  **The right to data portability:  **This allows you to request that your personal data be shared with other processors at your request.
-  *  **The right to object:**  Where you have an objection to our processing you may do so.
+  * **The right to be informed:**  This privacy policy is intended to meet our obligation to provide “fair processing information”.
+  * **The right of access:**  You have the right at any time to ask to see a copy of the personal data we hold about you.
+  * **The right to withdraw consent:**  Where you have given your consent to our processing you may withdraw this at any time.
+  * **The right to rectification and data quality:**  If your personal data is incorrect or incomplete then you may ask us to remedy that.
+  * **The right to erasure including retention and disposal:**  You may ask us to delete or remove your personal data where there is no compelling reason for its continued processing but this may affect any services we provide to you which relies on that personal data. Some information you provide, such as any information disclosed to us in using our player arbitration service, may be retained even if you ask for your data to be deleted. We will only do so if we can establish a legitimate reason for continuing to hold onto that personal data.
+  * **The right to restrict processing:**  Where you have highlighted an issue with the data.
+  * **The right to data portability:  **This allows you to request that your personal data be shared with other processors at your request.
+  * **The right to object:**  Where you have an objection to our processing you may do so.
 
 
 
