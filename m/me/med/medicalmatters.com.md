@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the medicalmatters.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214081106id_/http%3A//www.medicalmatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalmatters.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615230841id_/http%3A//medicalmatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Medical Matters
 
-Last updated: May,2018
+Last updated: March, 2019
 
-MedicalMatters LTD (“us”, “we”, or “our”) operates the [http://www.MedicalMatters.com](http://www.omgstudios.com/) website (the “Service”).  
+MedicalMatters LTD (“us”, “we”, or “our”) operates the http://www.MedicalMatters.com website (the “Service”).  
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
 We will not use or share your information with anyone except as described in this Privacy Policy.  
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://www](http://www/).MedicalMatters.com
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.MedicalMatters.com
 
 **Information Collection And Use**
 
@@ -35,7 +35,7 @@ We use “cookies” to collect information. You can instruct your browser to re
 **DoubleClick Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.  
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/)
 
 
 
