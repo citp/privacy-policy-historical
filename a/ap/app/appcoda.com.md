@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appcoda.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231135536id_/https%3A//www.appcoda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcoda.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616002132id_/https%3A//www.appcoda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AppCoda
 
@@ -232,4 +232,4 @@ If you have any questions about this Privacy Policy, please contact us:
 
 * * *
 
-Founder of AppCoda. Author of multiple iOS programming books including Beginning iOS 11 Programming with Swift and Intermediate iOS 11 Programming with Swift. iOS App Developer and Blogger. Follow me at Facebook, Twitter and Google+.
+Founder of AppCoda. Author of multiple iOS programming books including Beginning iOS 12 Programming with Swift and Intermediate iOS 12 Programming with Swift. iOS App Developer and Blogger. Follow me at Facebook, Twitter and Google+.
