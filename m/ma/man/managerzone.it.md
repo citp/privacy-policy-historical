@@ -1,109 +1,307 @@
-> *The following text is extracted and transformed from the managerzone.it privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808204143id_/http%3A//www.managerzone.com/%3Fp%3Dstart%26sub%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managerzone.it privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615205615id_/https%3A//www.managerzone.com%3Fp%3Dstart%26sub%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - ManagerZone - Free Sports Manager Games
+# Privacy Policy - ManagerZone
 
-(Revised April 23rd, 2013)
+This is the privacy policy of Power Challenge AB ("Power Challenge", "we"). We provide, in various ways, such as our website ("website"), electronic games ("services"). With this privacy policy, we would like to provide you with information on which personal data we collect and process. Furthermore, we would like to inform you about your rights. The responsibility to protect and process personal data is an important concern to Power Challenge. Your data is protected against unauthorized access as well as loss using various technical and contractual measures. Power Challenge has taken the necessary technical and organizational measures for this purpose. If links lead to third-party websites, please note that these companies provide their own privacy policies that apply accordingly. We offer our services only to persons who are at least 16 years old. We therefore do not knowingly collect and process data from persons younger than 16 years old.
 
-YOUR USE OF OUR SERVICES AND WEB SITES IS SUBJECT TO YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY.  
-Power Challenge AB. ("PC") respects your privacy and is committed to protecting the personal information that you may provide while using our web sites and services. This Privacy Policy (the "Policy") is intended to provide you with notice of the following:
+### 1\. Name and address of the responsible party
 
-### THE WEB SITES AND SERVICES COVERED BY THIS POLICY
+The responsible party, with respect to the General Data Protection Regulation and other national data protection laws of member states as well as other data protection provisions, is:
 
-All content on the managerzone.com domain and related domains.
+Power Challenge AB   
+Gamla Tanneforsvägen 17C   
+582 54 Linköping   
+Sweden   
+Email: privacy@powerchallenge.com   
+Website: www.managerzone.com 
 
-### OUR POLICIES CONCERNING CHILDREN
+### 2\. Name and address of the data protection officer
 
-PC complies with the Children's Online Privacy Protection Act and all other applicable laws and regulations concerning children and the Internet.
+The data protection officer of the responsible party is:
 
-**CHILDREN UNDER THE AGE OF 13**  
-Because our Sites are not directed to children under the age of 13, PC does not provide memberships to persons under age 13. If you are under the age of 13, you may not create an account on the Site, you may not sign up for any subscription service or buy anything through the Store, and you are not eligible to enter any of our competitions. Except as may be required by law, PC will not knowingly collect, maintain, or disclose any personal information from children under the age of 13.
+Attorney and certified specialist in information technology law   
+Dr. Christian Rauda   
+GRAEF Rechtsanwälte Digital PartG mbH   
+Jungfrauenthal 8   
+Germany   
+Email: dpo@powerchallenge.com   
+Website: www.graef.eu 
 
-**KIDS BETWEEN THE AGES OF 13 AND 18**  
-If you are between the ages of 13 and 18, please let your parent or guardian know about this Policy and get his or her permission before you give us any of your personal identifiable information. Don't post your real name on a web site or message board, and never tell anyone online anything private about yourself or your family, including your phone number and address. Use screen names at all times. If you win a competition that has a prize, your parent or guardian will have to mail or fax us a signed note at the address or fax number listed in the rules for the specific contest that says it was OK for you to enter, and tells us they will accept the prize for you.
+### 3\. General information on data processing
 
-**INFORMATION FOR PARENTS/GUARDIANS**  
-PC encourages parents and guardians to spend time online with their children to become familiar with the types of content available on the Internet, including our online games. Parents and guardians should regularly oversee their children's use of e-mail and other online communications and transactional features. Control tools are available from online services and software manufacturers that can help provide a safe online environment for kids.  
-If you are a parent or guardian who has discovered that your child has submitted his or her personal information without your permission or consent, PC will take reasonable steps to remove that information from the PC database at your request. To request removal of your child's information, please send us an e-mail (to the address below) and be sure to include in your message the same user name, password, and email address that your child submitted. If your child has used your credit card on our web sites without your permission, contact us immediately at payments@managerzone.com.
+**3.1. Scope of personal data processing**
 
-### WHAT PERSONAL INFORMATION WE COLLECT FROM YOU
+As a rule, we only collect personal data that you share when making use of the services while logging in or registering and when utilizing fee-based services, as needed. Personal data is considered data that includes information on personal or factual circumstances. When logging in and registering as a user on our website, you merely need to provide an email address and/or username and/or password. The password is encrypted and does not allow any conclusion to be made on the actual password at any time.
 
-**GENERAL**
+Within the scope of carrying out the user contract concluded, in particular your chosen fee-based services, additional data, such as complete name, address, credit card numbers, etc. may be required. Additionally, when processing your requests or to provide you with support, it is sometimes required to ask you for personal data such as name, address, email address, and telephone number.
 
-We do not collect any personal information from you, unless you provide it to us voluntarily. If you decide to provide us your personal information (e.g., name, email address, and mailing address), we will only collect the personal information which is needed to fulfil your requests and our legitimate business objectives.
+We submit personal data only to cooperating companies or external service providers, provided this is legally required or permitted, in particular in performance of a contract, to process payments, as well as to protect other users or defend against dangers for national or public security, or to prosecute criminal offenses.
 
-**MEMBERSHIPS AND REGISTRATION**
+We treat all of this data in a confidential manner and in consideration of statutory data protection regulations.
 
-In order for you to register, we require you to provide us with an email address, sometimes birth date, gender, and real name. In order to pay for a certain feature on our sites additional information, such as your real name and billing information, will be required.  
-You may be asked to choose a user name and password. Please do not use your real name or the real name of another person when selecting a user name. Please note that your user name will be available to the Internet's general public while you participate in some services, like chat rooms or message boards. Personal information disclosed by you within our chat areas, instant message service, message boards, or during game play can be collected by other users of such services and may result in unsolicited messages. We are not responsible for protecting such information that you may disclose to third parties through our services (e.g. sending your telephone number to another user through the chat service). To the extent that you create a public profile that may be available to others on our sites and services, you are solely responsible for its content and accuracy at all times. To edit, change, or delete such information, follow the instructions on the web site.
+**3.2. Legal basis for processing personal data**
 
-**EMAIL NEWSLETTERS AND FRIEND TO FRIEND PROMOTIONS**
+If we receive the consent of the person concerned to process personal data, Art. 6 Para. 1 a of the EU General Data Protection Regulation (GDPR) serves as the legal basis for processing personal data. When processing personal data that is required to perform a contract whose contractual party is the person concerned, Art. 6 Para. 1 b GDPR serves as the legal basis. This also applies to processing processes that are required to carry out pre-contractual measures. If personal data must be processed to comply with a legal requirement to which our company is subject, Art. 6 Para. 1 c GDPR serves as the legal basis. In the event that the vital interests of the person concerned or another natural person make it necessary to process personal data, Art. 6 Para. 1 d GDPR serves as the legal basis. If processing is required to protect a legitimate interest of our company or a third party, and if the interests, basic rights, and basic freedoms of the party concerned do not prevail over the previously stated interest, Art. 6 Para. 1 f GDPR serves as the legal basis.
 
-You must have a membership account in order to receive emails from us. You can op out of receiving future emailing from us by following the directions contained in the email to "unsubscribe." Also, except in jurisdictions where it may be prohibited by law to do so, some PC sites and Services may ask you to submit information about other people. For example, we may offer "Tell a Friend" promotions. In these situations, users are asked to provide the e-mail address and, sometimes, the name of a friend.
+**3.3. Purpose of processing personal data**
 
-**CONTESTS AND PROMOTIONS**
+We collect and process data in order to enable you to use our services. This also includes processing for the purpose of data security and the stability and operational security of our system as well as accounting purposes. Data is also processed in order to:
 
-To participate in some of our competitions, contests, tournaments, cups, and other promotions, you may be asked to provide additional personal information such as your mailing address. In each such case, no new personal information will be collected from you without your consent. This information may be collected by PC or by third parties such as co-sponsors or vendors for the promotion. PC's use of any such information will be governed by this Policy. The names of third parties such as co-sponsors (other than vendors hired by PC to conduct, administer, and execute a promotion on behalf of PC) will be disclosed to you when you are asked to sign up for the promotion. You should review such third parties' privacy policies to see how they may use any information that they collect.
+  * Provide you assistance when you submit support inquiries;
+  * Discover and prevent the improper use of multiple accounts, e.g. fraudulent purposes;
+  * Acquire new customers;
+  * Distribute promotional material that we believe correlates with your interests.
 
-**ONLINE PURCHASES AND TECHNICAL SUPPORT**
 
-When you buy credits to activate extra features in the games, we will also require that you provide us with the necessary billing information such as your real name, credit card information, street address, etc., so that we may provide the service.  
-Issues related to customer service, billing questions, technical and computer support, etc. may also require you to provide us with some personal information so that we may resolve the issue properly.
 
-**ONLINE GAMES**
+**3.4. Data erasure and storage duration**
 
-When you play any of the games offered and/or served by PC, or use any of the communication features on the Sites, your IP address (the Internet protocol address from which you access any of the above) may be stored in our records. Our update service routine may check your computer to see that you have the most recent version of game-specific files; when you communicate within any game or any other communication feature (e.g. live chat, instant message services), even "privately" to another person, you do so with the understanding that those communications go through our servers, can be logged and monitored by us, you have no expectation of privacy in any of those communications and, accordingly, you expressly consent to monitoring of communications (including technical support and customer service communications) that you send and receive. When you log into our online games, your system specifications (such as OS, web browser, java version, RAM, video card, monitor, system configuration, etc.) may be reviewed/recorded by us for the purposes of analyzing and optimizing your game experience and in order to provide you with customer service. Sometimes we may review/record an automatic log file created from the game. The log file contains information about your latest match played and some information about your system specifications such as processor, video card, system configuration, etc. We use these files to track down and find bugs in the game to be able to make the game better.
+The personal data of the person concerned is erased as soon as there is no longer a reason to store it. Some data may be retained for a longer period if required by European or national lawmakers in Union directives, laws, or other regulation to which the responsible party is subject.
 
-### WHAT NON-PERSONAL INFORMATION WE COLLECT FROM YOU
+**3.5. Data security**
 
-General, aggregated, demographic, and non-personal information may be collected by PC. It will not be linked to any of your personal information, through cookies or other means, without your consent. This type of anonymous, aggregated profiling and session data may include information that you have provided to us through surveys, polls, etc., but will not be tied to any personal information, without your consent. It may also include aggregated anonymous information about site usage and the customer base.  
-In many cases, PC will automatically collect certain non-personal information about your use of its sites and services. PC might collect, among other things, information concerning the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your "click path" through the PC site, and the web site or advertisement that was linked to or from the PC site when you visited. To do this, PC may use cookies and other technology (see below). Your visits to our web sites, and information provided through these technologies, will be anonymous unless you provide us with personal information or have provided such information in the past. For example, if you've created a membership account, your account information (including name, email address, and billing and shipping information) may be linked to the items you purchased (i.e., billing history).
+We endeavor to take reasonable precautions in order to prevent unauthorized access to your personal data as well as unauthorized use or falsification of this data and to minimize the associated risks. Nevertheless, providing personal data, whether in person, on the telephone, or via the internet, is always associated with risks and no technical system is completely free of the possibility of manipulation or sabotage.
 
-This game incorporates advertisement serving technology, which allows certain items, objects or images (e.g. advertisements) to be placed in the game via your PC, MAC or console. The technology collects information about the PC, MAC or console and the IP address on which the game is played and information on how the game is played, in particular regarding interactions with the advertisements served into the game and other items. This information is processed by a third party provider of advertisement serving technology for purposes of calculating fees owed by advertisers and monitoring advertisement efficiency. Your IP address and other information described above may be sent to a foreign jurisdiction for processing via the Internet. That third party provider will not know who you are or try to identify or contact you. By playing the game and accepting our rules and privacy policy you consent to data processing. In some jurisdictions, IP addresses may be viewed legally as personally identifiable information. You hereby acknowledge and agree to PC collection and use of your IP address as non-Personal Information even though your ip address may be viewed legally as personally identifiable information. By the use of this game, you hereby consent to the temporary upload of the Placements to your PC; and the Non-Personal Information being collected and shared with third parties.
+We process the data collected from you in accordance with Swedish and European data protection law. All employees are required to protect data privacy and comply with data protection regulation, and are trained accordingly. For payment purposes, your data is transmitted using the SSL process and encrypted.
 
-### INFORMATION ON COOKIES AND RELATED TECHNOLOGY
+### 4\. Provision of services and creation of log files
 
-PC web sites, and some services and advertisements on such sites, may contain "cookies." A cookie is a piece of data that is sent to your browser, which will store the cookie on your computer if your browser is enabled to accept cookies. Clear gifs (also known as "web beacons") assist in the delivery of cookies.
+**4.1. Description and scope of data processing**
 
-PC uses cookies, clear gifs, frames, server log analysis and other technology to customize your experience with our sites and services. Personal information collected through the use of these technologies will be handled according to this Policy.
+Whenever our services are solicited, our system automatically collects data and information on the visiting computer system. The following data is collected during this:
 
-Most internet browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions or "Help" screen to learn more about how to manage cookies. Please note, however, that if you block cookies, some portions of the PC web sites and services may not function properly.
+  * Internet protocol
+  * IP address
+  * URL of the referring website from which the file was requested
+  * Date and time of access
+  * Browser type and operating system as well as hardware information
+  * The site you visited
+  * Quantity of data transmitted
+  * Access status (file transferred, file not found, etc.)
+  * Duration and frequency of use
 
-PC does not control cookies in third party ads, and visitors are encouraged to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. The ads appearing on our Web sites may be delivered to you by third-party advertising companies. These companies may use information about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
-### HOW WE USE AND SHARE THE INFORMATION THAT WE COLLECT FROM YOU
 
-Personal information which we collect for a particular purpose will only be saved and used for that purpose, unless you have agreed to allow us to use it for some other purpose, as described in this Policy. For example, if you make an online purchase, and unless you have given us permission to do otherwise, we will only collect and save the personal information you provided to us, including your billing and delivery information, in order to (1) complete the sale, (2) comply with tax and other applicable statutes, (3) maintain accurate business and financial records (in accordance with accepted standards), and (4) assist with customer service and returns.  
-When you have provided personal information to us for a particular purpose, we may disclose your information to other companies that we have engaged to assist us in fulfilling your request. This may include, but is not limited to, fulfilment houses, billing services, transaction managers, credit verification services, and other third party service providers. We may also disclose any of your personal information to law enforcement or other appropriate third parties in connection with criminal investigations, investigation of fraud, infringement of intellectual property rights, or other suspected illegal activities, or as otherwise may be required by applicable law, or, as we deem necessary in our sole discretion, in order to protect the legitimate legal and business interests of PC.   
-We may use the information we collect from you for the purpose of providing you with technical support, customer service, and account maintenance. We use the information we collect to learn what you like, tailor your experience accordingly, and to improve web sites and our other products. We send e-mail to our members who want to receive e-mail from us. However, if you don't want to receive e-mail from us, you can unsubscribe on the e-mail received.
+The data is also stored in the log files of our system.
 
-Except as described in this policy, we will not give any of your personal information to any third party without your express approval, and the only personal information we will ask you if you want us to share with third parties is your name, your mailing address and e-mail address. We sometimes share general, demographic, or aggregated (not personal) information with third parties about our user base, but that information does not include any personal information.  
-You will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of the Sites, of any personal information contained in the PC database for such site, if PC or one of its companies assigns all of its rights and obligations regarding the use of your personal information at the time of a bankruptcy, merger, acquisition, sale of all or substantially all of PC's or such PC company's assets to a subsequent owner or operator, or similar event.
+**4.2. Legal basis for data processing**
 
-### INFORMATION ABOUT LINKS AND THIRD PARTIES RELATED TO OUR SITES AND SERVICES
+Art. 6 Para. 1 f GDPR is the legal basis for the temporary storage of data and log files.
 
-This Policy applies only to information collected online by PC through web sites maintained by PC and affiliated companies that PC may own or control. From time to time, we may provide links to third party web sites. This Policy does not apply to third party web sites, whether we provide a link to such sites or not, so we encourage you to review the policies of all such sites carefully, as your rights will be governed by those third party policies and not by PC's. Additionally, there may be unauthorized third party web sites that may be providing links from their sites to our web sites without our knowledge or control. We are not responsible for the content of any third party web sites, expressly disclaim any statements or assertions made on such web sites, and deny all liability associated with your use of, and the content on, such other sites or advertisements contained therein.
+**4.3. Purpose of data processing**
 
-### HOW YOU MAY ACCESS, CHANGE, OR DELETE THE INFORMATION YOU HAVE PROVIDED TO US
+Temporary storage of the IP address by the system is necessary in order to deliver services to the computer of the user. To do so, the IP address of the user must be stored for the duration of the session. Data is stored in log files in order to ensure the functionality of the services. Additionally, the data also serves to optimize the services and to ensure the security of our IT systems. Data is stored over the duration of the session for purposes of combating fraud (e.g. payment fraud, violation of the rules of play through the use of multiple accounts by the same person) and for the purposes of IT security (e.g. protection against DDoS attacks). Otherwise, the data is stored merely for purposes of statistical evaluation.
 
-If you change your mind and do not want to receive e-mails from us you may send an e-mail to us at info@managerzone.com. Subject to security and privacy concerns (e.g., regarding your password and credit card number), we will give you the ability to review, correct, delete, and/or update your information. To do so, you may send us an e-mail at info@managerzone.com. If you choose to have your personal information removed from our active databases, we will do so within a reasonable time after your request and we will take reasonable steps to ensure that your personal data is not used (except as may be required by law) by PC after your notification to us.
+In order to monitor compliance with the rules of use and rules of play, we reserve the right to store IP addresses and log files for a certain period of time after our services are utilized. In particular, this procedure serves to avoid certain cases of misuse or to resolve them and be able to forward the data in individual cases to investigative authorities or to rectify bugs. Any evaluation of data is carried out in an anonymous manner wherever possible. After this period ends, the IP address and log files are completely erased, unless there exist mandatory statutory storage requirements or concrete criminal or abuse proceedings.
 
-### OTHER IMPORTANT AGREEMENTS THAT GOVERN YOUR USE OF OUR SITES AND SERVICES
+For these purposes, our legitimate and overriding interest is to process data in accordance with Art. 6 Para. 1 f GDPR.
 
-In addition to this Policy, your rights and obligations concerning our web sites, services, and online games are governed by the applicable web sites terms of use, and other applicable policies, rules, guidelines, and requirements. When you sign up to use our services, please review each such agreement carefully, as you must agree to be bound by each such agreement before you may use the service.
+**4.4. Duration of storage**
 
-### LANGUAGE AND LOCATION
+The data is erased as soon as it is no longer required to achieve the purpose for which it was collected.
 
-By consenting to this Policy, you confirm that your command and knowledge of English (or in some cases, Portuguese, French, German, or Spanish) is sufficient to understand the terms and conditions set forth herein.
+**4.5. Option to object and erase**
 
-For persons in European Union countries, as used herein, terms such as "personal information" refer to "personal data" as defined by the Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data ("Directive"). We will not collect any personal data from you unless you provide it voluntarily by providing us with your freely given specific and informed consent. By using PC websites or services, you agree that we may transfer your personal information outside the European Union in connection with the purposes stated in this Policy. Your personal data may be transferred outside EU (and/or other non-EU jurisdictions, as applicable).
+Data collection to provide services and data storage in log files is absolutely required in order to ensure the uninterrupted provision of services. As a consequence, the user has no option to object.
 
-In certain countries, some of our online games and the services related thereto, may be provided to you by third party distribution partners. To the extent that a third party distributor is providing services related to your account, you understand and agree that each such distributor will collect and use your personal information in accordance with its own privacy policies (which you will have access to when you register to play). To the extent that PC collects or retains any of your personal information, its use will continue to be governed by the terms of this Policy.
+### 5\. Push notifications
 
-### OUR COMMITMENT TO SECURE THE PERSONAL INFORMATION WE HAVE COLLECTED
+**5.1. Description and scope of data processing**
 
-While PC takes precautions against possible breaches in its web sites and customer databases, no web site or Internet transmission is completely secure. Consequently, PC cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. Your use of the PC sites and services is at your own risk. PC urges you to take steps to keep your personal information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your user account, and closing your web browser.  
-Whenever you give PC sensitive or confidential information (for example, credit card numbers for purchases), PC will take commercially reasonable steps to protect the information by establishing a secure connection with your web browser. PC employs a security technology to protect the transmission of payment information to the site. Unless otherwise specified herein or on the site where you make a purchase, credit card numbers are used only for payment processing and are not retained for marketing purposes.
+We can send push notifications to your device in order to share with you updates on services, news, and other relevant messages.
 
-### NOTICE OF CHANGES TO THE POLICY
+**5.2. Legal basis for data processing**
 
-PC reserves the right to change this Policy at any time by notifying registered users via e-mail of the existence of a new Policy and/or posting the new Policy on the PC sites. All changes to the Policy will be effective when posted, and your continued use of any PC site or service after the posting will constitute your acceptance of, and agreement to be bound by, those changes.
+The legal basis for processing data is Art. 6 Para. 1 b GDPR if a contract exists.
+
+**5.3. Option to object and erase**
+
+You can prevent your data from being processed by applying the respective settings to your system. Please refer to the documentation of the system you use.
+
+### 6\. Contact form and email, in-game support
+
+**6.1. Description and scope of data processing**
+
+There is a contact form on our website which can be used to contact us electronically. If a user makes use of this option, the data submitted into the input form will be sent to us and stored. This data is:
+
+  * Email
+  * Type of request
+  * Question/problem
+  * User ID and username
+  * Team ID and team name
+  * Name
+  * IP address
+  * Country
+
+
+
+Alternatively, we can be contacted using the email provided. In this case, the personal data of the user is saved with the email used to send it. You can also send inquiries to us within the game. In this context, no data is forwarded to third parties. The data is used exclusively to process the inquiry.
+
+**6.2. Legal basis for data processing**
+
+The legal basis for processing data is Art. 6 Para. 1 a GDPR if the user has provided consent. The legal basis for processing data, that is submitted when an email is sent, is Art. 6 Para. 1 f GDPR. If the email is intended to conclude a contract, the further legal basis for processing is Art. 6 Para. 1 b GDPR.
+
+**6.3. Purpose of data processing**
+
+We process personal data from the input form solely to process communication. In the event that contact is made via email, there is also the required legitimate interest to process the data here. The other data processed during the submission process serves to prevent misuse of the contact form and to ensure the security of our IT systems.
+
+**6.4. Duration of storage**
+
+The data is erased as soon as it is no longer required to achieve the purpose for which it was collected. The data is stored for twelve months for the purposes of combating fraud and improving support.
+
+**6.5. Option to object and erase**
+
+The user has the option, at any time, to withdraw their consent to process the personal data. If the user contacts us, they can object to the storage of their personal data at any time. In such an event, the conversation cannot continue. All personal data, that was stored when contact was made, is erased in this case.
+
+### 7\. Cookies, web beacons, etc.
+
+**7.1. Description and scope of data processing**
+
+We use so-called cookies, which are text files or pixels, that are stored on the user's display device. This concerns technologies that can be used to collect certain user-specific settings and technical information with which the user can be identified. We employ cookies in order to make our services more user friendly. Some elements of our services require that the user can be identified. We also use cookies that allow us to analyze the behavior of the user. Additionally, we use cookies to target advertisements.
+
+There are permanent cookies, that are stored for a longer period of time on your display device, and session cookies, that are temporarily stored on your display device and erased after the service is provided. We use necessary cookies, function cookies, performance cookies, targeting and advertising cookies, and conversion tracking cookies.
+
+**Necessary cookies.** These cookies are necessary to use our services. Without these necessary cookies, it is possible that we will not be able to provide you certain services or features or that the services will not be depicted correctly.
+
+**Function cookies.** Function cookies enable us to recognize your settings and provide you with advanced and better adapted features, such as a personal adjustment of services, recognizing whether we have asked you certain things, or you have requested other services.
+
+**Performance cookies.** Performance cookies, also sometimes called analytics cookies, collect information on your use of services, and enable us to improve the functionality of our services. For example, performance cookies show us which pages are used most often, how the entire usage pattern of the services looks, help us to detect problems with the use of services, and determine whether our advertising is presented effectively or not.
+
+**Targeting and advertising cookies.** We and our service providers can employ targeting or advertising cookies in order to show you promotions that are better adjusted to your interests and preferences. We can also use targeting or advertising cookies in order to limit the number of identical advertisements that are shown to you with our services, or to determine or increase the effectiveness of our marketing campaigns. These cookies show, for example, what you have viewed while using our services, and we share this information with other organizations, such as advertising clients. The display of advertising supports operations and the further development of our services.
+
+**Conversion tracking cookies.** In order to provide our users with the best possible gaming experience, we strive to constantly add new players to our games. In the process of determining and driving marketing measures, we use conversion tracking. In doing so, a marketing partner records, with our help, when a user completes a registration or a predefined action in the game. This occurs either via direct automated contact with the server of the marketing partner or through an intermediary service provider. The data that we transfer is limited to what is most necessary.
+
+When starting to use our services, the user is informed about the use of cookies. If the user does not wish for our cookies to be stored on their display device, would like to delete a stored cookie, or would like to be informed about the storage of such, the user can configure their browser or mobile end device accordingly. The details of how these are applied can be found using the help information of the browser. We would like to explicitly state that, in this case, not all functions of the services can be used in their entirety.
+
+If you access our services via third parties, it may be the case that they use cookies. We have no influence on this. Please note the data protection guidelines of these third parties.
+
+**7.2. Legal basis for data processing**
+
+The legal basis for processing personal data when using cookies is Art. 6 Para. 1 f GDPR.
+
+**7.3. Purpose of data processing**
+
+Necessary cookies are required in order for us to be able to offer our services. Some functions of our software cannot be provided without the use of these cookies. The user data collected via necessary cookies is not used to create user profiles. Performance cookies are used for the purpose of improving the quality of our services and their contents. Via these performance cookies, we learn how the services are used and can thus constantly optimize our products.
+
+For these purposes, we also have a legitimate interest in the processing of personal data according to Art. 6 Para. 1 f GDPR. Additionally, we have a legitimate interest in directing advertising in our services. We have an interest in finding new customers. In order to achieve this, our advertising partners must use cookies.
+
+**7.4. Duration of storage, option to object and erase**
+
+Cookies are saved on the user's device and sent to us from it. Therefore, as the user, you also have full control on the use of cookies. By changing the settings in your internet browser or mobile device, you can deactivate or limit the transmission of cookies. Cookies that have already been saved can be erased at any time. This can also occur automatically. If cookies are deactivated, it may be the case that not all of the functions of the services can be used in their entirety.
+
+### 8\. Logging in via third parties
+
+We offer you the option of logging in to our services with login data of other services ("partners"), for example, Facebook. It is thus not necessary to register again. In this case, you can log in to our services through a partner. To do so, your account with our partner is linked to our service. The partner then sends us the respective information that serves exclusively for quality assurance measures and is not shared with third parties at any time. For additional information on the service you prefer, please refer to the above contact (see. "1. Name and address of the responsible party").
+
+### 9\. Rights of the person concerned
+
+If we process your personal data, you are the person concerned in the sense of the GDPR, and you have the following rights with respect to the responsible party.
+
+**9.1. Right of access**
+
+You can request from the responsible party a confirmation of whether personal data that concerns you is processed by us. If such processing occurs, you can request the following information from the responsible party:
+
+  * The purposes for which the personal data is processed;
+  * The categories of personal data that is processed;
+  * The recipient or categories of recipients to which the personal data that concerns you was submitted or not submitted;
+  * The planned duration of storage of the personal data concerning you, or, if concrete information on this is not available, the criteria for determining the storage duration;
+  * The existence of a right to disclose or erase the personal data concerning you, a right to limit processing on the part of the responsible party, or a right to object to this processing;
+  * The existence of a right to lodge a complaint with a supervisory authority;
+  * All available information on the source of the data if the personal data is not collected for the person concerned;
+  * The existence of an automated decision making process including profiling in accordance with Art. 22 Para. 1 and 4 GDPR and, at least in these cases, detailed information on the logic involved as well as the scope and the desired effects of such processing for the person concerned.
+
+
+
+You have the right to request information on whether the personal data concerning you is sent to a third country or an international organization. In this context, you can request suitable guarantees pursuant to Art. 46 GDPR in connection with the transfer.
+
+**9.2. Right to rectification**
+
+You have the right to rectification and/or completion, with respect to the responsible party, provided that the processed personal data concerning you is incorrect or incomplete. The responsible party must make the rectification without delay.
+
+**9.3. Right to limit processing**
+
+Under the following conditions, you can request a limit to the processing of the personal data concerning you:
+
+  * If you contest the correctness of the personal data concerning you for a duration of time that enables the responsible party to verify the correctness of the personal data;
+  * The processing is illegal and you refuse erasure of the personal data and instead request a limitation of the use of the personal data;
+  * The responsible party no longer requires the personal data for the purposes of processing, but you require it to assert, exercise, or defend legal claims, or
+  * If you have submitted the objection to processing according to Art. 21 Para. 1 GDPR and it is not yet certain whether the legitimate concerns of the responsible party prevail over your concerns.
+
+
+
+If the processing of the personal data concerning you was limited, this data, except for its storage, may only be processed with your consent or to assert, exercise, or defend legal claims, or to protect the rights of another natural or legal person or for reasons of an important public interest of the Union or a member state. If processing was limited according to the above conditions, you will be informed by the responsible party before the limitation is applied.
+
+**9.4. Right to erasure**
+
+We offer the option to independently delete or correct your own personal data in game. If you are logged in to your account, you can delete your personal data in the settings of your user account.
+
+_9.4.1. Obligation to erase_
+
+You can request that the responsible party immediately erase the personal data concerning you, provided one of the following reasons applies:
+
+  * The personal data concerning you is no longer required for the purposes for which it was collected or processed in another manner.
+  * You withdraw your consent upon which processing pursuant to Art. 6 Para. 1 a or Art. 9 Para. 2 a DSGVO is based, and there is no other legal basis for processing.
+  * You submit an objection to processing pursuant to Art. 21 Para. 1 GDPR and there exist no superordinate legitimate reasons for processing, or you submit an objection to processing pursuant to Art. 21 Para. 2 GDPR.
+  * The personal data concerning you was processed illegally.
+  * The erasure of the personal data concerning you is required to comply with a legal requirement according to Union law or the law of a member state to which the responsible party is subject.
+  * The personal data concerning you was collected in regard to services offered by the information company in accordance with Art. 8 Para. 1 GDPR.
+
+
+
+_9.4.2. Information to third parties_
+
+If the responsible party published the personal data concerning you and is required to erase such according to Art. 17 Para. 1 GDPR, said party will take suitable measures, also of a technical nature and in consideration of available technology and implementation costs, to inform data processors processing the personal data that you, as the person concerned, have requested the erasure of all links to this personal data or copies or replications of this personal data.
+
+_9.4.3. Exceptions_
+
+There is no right of erasure if processing is required to exercise the right of free expression and information;
+
+  * To comply with a legal obligation to which the responsible party is subject according to Union law or that of a member state for processing purposes, or to perform a task that is in the public interest or in the practice of public authority conferred to the responsible party;
+  * For reasons of public interest in the area of public health according to Art. 9 Para. 2 h and i as well as Art. 9 Para. 3 GDPR;
+  * For archiving purposes, scientific or historic research purposes, or for statistical purposes in the public interest according to Art. 89 Para. 1 GDPR, provided that the right specified in section a) temporarily makes the achievement of the goals of processing impossible or severely limits such, or
+  * To assert, exercise, or defend legal claims.
+
+
+
+**9.5. Right to information**
+
+If you have asserted the right to information on, erasure, or limitation of processing with respect to the responsible party, said party is required to share this rectification or erasure of the data or limitation of processing with all recipients to whom the personal data concerning you was published, unless this proves to be impossible or is associated with excessive cost. You have the right to information on these recipients from the responsible party.
+
+**9.6. Right to data transferability**
+
+You have the right to receive the personal data concerning you, which you provided to the responsible party, in a structured, standard, and machine-readable format. Additionally, you have the right to transfer this data to another responsible party without obstruction on the part of the responsible party, to which the personal data was provided,
+
+  * provided that processing occurs based on consent pursuant to Art. 6 Para. 1 a GDPR or Art. 9 Para. 2 a GDPR or a contract pursuant to Art. 6 Para. 1 b GDPR,
+  * and the processing is carried out using automatic processes.
+
+
+
+When exercising this right, you also have the right to ensure that the personal data concerning you is transferred directly from one responsible party to another responsible party, provided this is technically feasible. The freedom and rights of others may not be affected by this. The right of data transferability does not apply for processing personal data that is required to carry out a task that is in the public interest or in the practice of public authority conferred to the responsible party;
+
+**9.7. Right to object**
+
+You have the right, for reasons relating to your particular situation, to submit at any time objection to processing of the personal data concerning you which is conducted based on Art. 6 Para. 1 e or f GDPR; this also applies to profiling based on these conditions. The responsible party no longer processes the personal data concerning you, unless said party can provide evidence of compelling reasons worthy of protection for the processing that prevail over your interests, rights, and freedoms, or the processing serves to assert, exercise, or defend legal claims.
+
+If the personal data concerning you is processed in order to pursue direct advertising, you have the right to submit at any time objection to processing of the personal data concerning you for the purposes of such advertising; this also applies to profiling, provided it is in connection with direct advertising. If you object to processing for the purpose of direct advertising, the personal data concerning you will no longer be processed for these purposes.
+
+Regardless of Directive 2002/58/EC, you have the option, in connection with the use of services of the information company, of exercising your right to object using an automated process that uses technical specifications.
+
+**9.8. Right to withdraw data protection declarations of consent**
+
+You have the right to withdraw your declaration of consent at any time. The withdrawal of consent does not affect the legality of the processing conducted on the basis of the consent up to the date of the withdrawal.
+
+**9.9. Automated decision in individual cases including profiling**
+
+You have the right not to be subjected to a decision based solely on automated processing, including profiling, which will have legal effect or similarly affect you in a similar manner. This does not apply if the decision
+
+  1. is required to conclude or carry out a contract between you and the responsible party,
+  2. is permissible on the basis of Union or member state law to which the responsible party is subject, and that legislation contains suitable measures to safeguard your rights and freedoms and your legitimate interests, or
+  3. is made with your explicit consent.
+
+
+
+However, these decisions must not be based on special categories of personal data under Art. 9 Para. 1 GDPR, provided that Art. 9 Para. 2 a or g does not apply, and reasonable measures have been taken to protect your rights and freedoms and your legitimate interests. With respect to the situations mentioned in (a) and (c), the responsible party shall take appropriate measures to protect your rights and freedoms and your legitimate interests, including at least the right to obtain the intervention of a person on the part of the responsible party to express their own position and challenge the decision.
+
+**9.10. Right to lodge a complaint with a supervisory authority**
+
+Without prejudice to any other administrative or judicial legal remedy, you have the right to lodge a complaint with a supervisory authority, in particular in the member state of your place of residence or employment or the place of the alleged infringement, if you believe that the processing of the personal data concerning you violates the GDPR. The supervisory authority to which the complaint has been submitted shall inform the complainant of the status and results of the complaint, including the possibility of a judicial remedy pursuant to Article 78 of the GDPR.
