@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketjump.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116152410id_/https%3A//www.rocketjump.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketjump.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615133255id_/http%3A//www.rocketjump.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RocketJump
 
