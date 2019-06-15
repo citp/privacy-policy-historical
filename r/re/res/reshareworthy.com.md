@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reshareworthy.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201085843id_/http%3A//www.reshareworthy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reshareworthy.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615080548id_/https%3A//www.reshareworthy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Reshareworthy
 
@@ -6,7 +6,7 @@
 
 Our privacy policy explains how we treat your personal data and protect your privacy when you use our Services. By accessing our website, you agree to our privacy policy and terms of use. The information contained on Reshareworthy.com is for informational purposes only.
 
-This Privacy Policy governs the manner in which DiscoverMe Technologies, Inc. collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.reshareworthy.com website (“Site”). This privacy policy applies to the Site and all products and services (“Services”) offered by DiscoverMe Technologies, Inc. (“DiscoverMe”).
+This Privacy Policy governs the manner in which DiscoverMe Technologies, Inc. collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.reshareworthy.com website (“Site”). This privacy policy applies to the Site and all products and services (“Services”) offered by DiscoverMe Technologies, Inc. (“DiscoverMe”).
 
 When visiting Reshareworthy.com, we collect no personally identifiable data about you as a visitor. The only exception is when you provide your email address to subscribe to our electronic newsletter, which you can opt out of at any time.
 
@@ -63,7 +63,7 @@ When you access Reshareworthy.com from a computer, mobile phone, or other device
 
   * Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
   * You can opt-out of having made your activity on our Site available to Google Analytics by installing the Google Analytics opt-out browser add-on. To learn about Google Analytics’ currently available opt-outs for the Web, please visit: <https://support.google.com/analytics/answer/181881?hl=en>.
-  * For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+  * For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
 
 
 
@@ -71,7 +71,7 @@ When you access Reshareworthy.com from a computer, mobile phone, or other device
 
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Site. Third-party Service Providers we select include:
 
-  * Google AdSense: Google Adsense, as a third party vendor, uses cookies to serve ads on our Site. You may control the information Google uses to show you ads through Google by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>  
+  * Google AdSense: Google Adsense, as a third party vendor, uses cookies to serve ads on our Site. You may control the information Google uses to show you ads through Google by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)  
 Note: Using the Google Ads Settings, visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
   * Taboola: Taboola, as a third party vendor, uses cookies to serve ads on our Site. Taboola’s use of the cookie enables it and its partners to serve ads to our users based on their visit to our Site or other websites on the Internet. You may opt out of the use of the Taboola Cookie for interest-based advertising by visiting the Taboola page: <https://www.taboola.com/cookie-policy>
   * Amazon: Amazon, as a third party vendor, uses cookies to serve ads on our Site. To learn more about Amazon and their use of cookies visit Amazon’s Privacy Policy page: <https://www.amazon.com/gp/help/customer/display.html?nodeId=468496>
@@ -99,15 +99,15 @@ These companies typically use a cookie or a third party web beacon to collect th
 
 Some of our third party partners (including advertisers and marketing services companies) may set and access Cookies on your computer as well. We do not have control over how these third parties use such cookies and similar technologies or the information derived therefrom, and this Privacy Policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information.
 
-### **Networking Advertising Initiative:**
+###  **Networking Advertising Initiative:**
 
 Some of the advertising service providers may be members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. If you opt-out of receiving targeted ads in this manner, you will continue to receive advertising messages after you opt-out, but they will not be customized to you based on your use of the Websites and/or third party websites.
 
-If you would like more information about advertisers’ use of tracking technologies, and about your option not to accept these cookies, or to learn more about how interest-based information is collected, you can go to [http://www.networkadvertising.org](http://www.networkadvertising.org/) or visit <http://www.aboutads.info/> for more information. The collection of information via certain ads served to users in Canada may be managed by visiting [youradchoices.ca](http://youradchoices.ca/).
+If you would like more information about advertisers’ use of tracking technologies, and about your option not to accept these cookies, or to learn more about how interest-based information is collected, you can go to [http://www.networkadvertising.org](https://www.networkadvertising.org/) or visit <http://www.aboutads.info/> for more information. The collection of information via certain ads served to users in Canada may be managed by visiting [youradchoices.ca](http://youradchoices.ca/).
 
 Please note that the-opt out is cookie-based and will only affect the specific computer and browser on which the opt-out is applied.
 
-### **Do Not Track: We do not support Do Not Track (“DNT”)**
+###  **Do Not Track: We do not support Do Not Track (“DNT”)**
 
 Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
@@ -139,4 +139,4 @@ We have no control over and assume no responsibility for the content, privacy po
 
 We have the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to check this page for any changes to stay informed about how we are helping to protect the personal information we collect.
 
-If you have any questions about this Privacy Policy please [contact us](http://www.reshareworthy.com/contact/).
+If you have any questions about this Privacy Policy please [contact us](https://www.reshareworthy.com/contact/).
