@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segoideas.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611124318id_/http%3A//segoideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segoideas.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615191133id_/https%3A//segoideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Segoideas.com - Taiwan Entertainment - Taiwanese Idol Dramas 台灣偶像劇
 
@@ -25,5 +25,5 @@ Google’s use of the DART cookie enables it to serve ads to visitors based on t
 
 Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-Copyright © 2009 - Segoideas.com | [Privacy Policy](http://segoideas.com/privacy-policy/)   
+Copyright © 2009 - Segoideas.com | [Privacy Policy](https://segoideas.com/privacy-policy/)   
 **Disclaimer:** To access Segoideas.com, you acknowledged that Segoideas.com functioning as a mere index and database of content found publicly on the internet, we do not host any media content (avi, flv, mp4, mpeg, divx, mp3...) on our servers. Unless otherwise stated, all media content are uploaded by and hosted on third-party websites, so called video sharing websites and file sharing websites, such as YouTube, Dailymotion, MyspaceTV etc...In case of any issues regarding the videos, please directly contact the responsible parties. 
