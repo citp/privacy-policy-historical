@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanyglobal.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919085626id_/http%3A//www.sanyglobal.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanyglobal.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615231325id_/https%3A//www.sanyglobal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SANY Privacy | Excavator Manufacturers - SANY Group
 
