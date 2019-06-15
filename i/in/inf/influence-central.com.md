@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the influence-central.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210192213id_/http%3A//influence-central.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influence-central.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616003715id_/http%3A//influence-central.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Influence Central
 
