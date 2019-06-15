@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the offertoro.com privacy policy that was archived on 2018-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181214182052id_/http%3A//www.offertoro.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the offertoro.com privacy policy that was archived on 2019-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190615021929id_/http%3A//offertoro.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch backgroundsize csstransforms3d csstransitions"><head>
         <meta charset="UTF-8">
@@ -304,9 +304,9 @@
             <hr>
             <div class="login-help">
                 <span class="main-title title blue-txt text-center">Register Now</span>
-                <span>Choose your acount type</span>
+                <span>Choose your account type</span>
                 <a href="/register" class="btn stroke-btn hvr-grow">Publisher Register</a> 
-                <a href="http://offertoro.hasoffers.com/advertiser_signup" target="_blank" class="btn stroke-btn hvr-grow">Advertiser Register</a> 
+                <a href="http://offertoro.com/advertisers-signup" class="btn stroke-btn hvr-grow">Advertiser Register</a>
             </div><!--/.login-help -->
         </div><!--/. loginmodal-container-->
     </div><!--/.modal-dialog -->
@@ -326,7 +326,7 @@
 <script type="text/javascript" src="/js/v2/jquery.circliful.min.js?ver=1.11.31"></script>
 <script type="text/javascript" src="/js/v2/classie.js?ver=1.1.0"></script>
 <script type="text/javascript" src="/js/v2/jquery.gridrotator.js?ver=1.1.0"></script>
-<script type="text/javascript" src="/js/v2/custom.js?ver=1.11.31"></script>
+<script type="text/javascript" src="/js/v2/custom.js?ver=1.11.32"></script>
 <!--<script type='text/javascript' src='/js/v2/wp-embed.min.js?ver=4.6.1'></script>-->
 <script type="text/javascript">
 
@@ -472,6 +472,9 @@
 
         if (("loginPage" in _get) && (_get.loginPage == "1")) {
             $('#login-modal').modal('show');
+
+            console.log('validate email');
+            console.log(ValidateEmail($('#wEmail').val()));
 
             if($('#wEmail').val() != '' && ValidateEmail($('#wEmail').val())) {
                 var emailAddress = $('#wEmail').val();
