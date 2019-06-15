@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220005702id_/http%3A//www.hays.co.uk/revised-privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615103327id_/http%3A//www.hays.co.uk/revised-privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Hays Privacy Policy | Hays
 
@@ -481,7 +481,7 @@ Here are some more details about each:
 
 \- Processing your data to enable us to send you targeted, relevant marketing materials or other communications which we think are likely to be of interest to you; and
 
--Carrying out assessment and development activities (such as psychometric evaluations or skills tests) in certain of the jurisdictions in which we operate – For more information in relation to your jurisdiction, please click [here](https://web.archive.org/web/20181220005702id_/http%3A//www.hays.co.uk/revised-privacy-policy/Annex-3).
+-Carrying out assessment and development activities (such as psychometric evaluations or skills tests) in certain of the jurisdictions in which we operate – For more information in relation to your jurisdiction, please click [here](https://web.archive.org/web/20190615103327id_/http%3A//www.hays.co.uk/revised-privacy-policy/Annex-3).
 
   * We may use your personal data for the above purposes if we deem it necessary to do so for our legitimate interests. If you want to know more about what this means, please click here. If you are not happy about this, in certain circumstances you have the right to object and can find out more about how and when to do this here.   
  
@@ -988,7 +988,7 @@ We will keep records of the consents that you have given in this way.
 
   * Hays Specialist Recruitment Limited
   * Hays Social Care Limited
-  * Hays Project Solutions Limited
+  * James Harvard Limited
   * Hays Healthcare Limited
   * Hays Recruitment Services Limited
   * Hays Life Sciences Limited
@@ -1007,7 +1007,7 @@ We will keep records of the consents that you have given in this way.
 **
   * **with any comments or suggestions concerning this Privacy Policy**
   * You can write to us at the following address:
-  * 250 Euston Road, London, United Kingdom, NW1 2AF
+  * 20 Triton Street, London, United Kingdom, NW1 3BF
   * Alternatively, you can send an email to: customerservice@hays.com
 
 
