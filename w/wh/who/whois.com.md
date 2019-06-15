@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whois.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028130347id_/https%3A//shop.whois.com/privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whois.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615110434id_/https%3A//shop.whois.com/privacy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
