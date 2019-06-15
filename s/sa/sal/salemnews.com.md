@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salemnews.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203184611id_/http%3A//www.salemnews.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemnews.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615110129id_/https%3A//www.salemnews.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | salemnews.com
 
@@ -77,9 +77,3 @@ This Site uses services provided by AP News Registry. AP News Registry collects 
  **Contacting Us**
 
 If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
-
-Check out our series of podcasts on topics from high school football to Halloween in Salem.
-
-Update Required
-
-To play the media you will need to either update your browser to a recent version or update your [Flash plugin](http://get.adobe.com/flashplayer/).
