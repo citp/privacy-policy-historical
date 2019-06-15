@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224205205id_/https%3A//www.ithaka.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615042825id_/https%3A//www.ithaka.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | ITHAKA
 
@@ -44,6 +44,7 @@ The personal information that ITHAKA collects will depend on how you are using I
   * We also may collect certain non-personally identifiable information, such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using (e.g., Windows or Mac), and the domain name of your Internet service provider.
   * We may collect personally identifiable information through correspondence you send to us through optional surveys we may post on ITHAKA Websites, and in connection with statements you may post on any ITHAKA-related page on social networking sites.
   * In some instances, Ithaka S+R may be contracted to provide services to third parties, which may involve collecting your personally identifiable information. In such cases, the privacy policy governing the collection of your personally identifiable information shall be as set forth in such third parties’ privacy policies.
+  * If you choose to use an available function on JSTOR to send a link, citation list, or other information to another person, we will ask you for that person’s email address for processing purposes only and will send that person one e-mail with the relevant information. ITHAKA will not store the recipient’s e-mail address once the one-time email has been sent. If you do not have a MyJSTOR account, we will also ask for your e-mail address and likewise only use it one time for processing purposes.
 
 
 
@@ -133,8 +134,8 @@ ITHAKA
 
 ℅ Olga Susuni
 
-2 Rector Street, 18th Floor
+101 Greenwich Street, 18th Floor
 
 New York, New York 10006
 
-Last updated on August 14, 2018
+Last updated on February 15, 2019
