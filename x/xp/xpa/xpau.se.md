@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpau.se privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208135600id_/http%3A//xpau.se/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpau.se privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616173445id_/http%3A//xpau.se/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - xPau.se
 
