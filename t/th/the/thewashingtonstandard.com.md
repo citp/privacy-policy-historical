@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewashingtonstandard.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231024522id_/http%3A//thewashingtonstandard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewashingtonstandard.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616182851id_/https%3A//thewashingtonstandard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Washington Standard
 
