@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vesseltracking.net privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127023651id_/http%3A//www.vesseltracking.net/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vesseltracking.net privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616045839id_/http%3A//www.vesseltracking.net/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy for www.vesseltracking.net | Vessel Tracking
 
