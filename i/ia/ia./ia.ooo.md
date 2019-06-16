@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ia.ooo privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215171300id_/http%3A//www.ia.ooo/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ia.ooo privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616112526id_/http%3A//www.ia.ooo/privacy_policy) for the most accurate reproduction.*
 
 # Infibeam Avenues
 
@@ -63,7 +63,7 @@ Sensitive data is hashed or encrypted when it is stored in our infrastructure. S
 
 All our users have the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications.
 
-Please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#83f3f1eaf5e2e0fac3eaede5eae1e6e2eeadede6f7) if you no longer wish to receive any information from us.
+Please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d0a0a2b9a6b1b3a990b9beb6b9b2b5b1bdfebeb5a4) if you no longer wish to receive any information from us.
 
 #### Consent
 
@@ -77,4 +77,4 @@ Our privacy policy is subject to change at any time without notice. We may chang
 
 #### Questions
 
-If you have any questions about our Privacy Policy, please e-mail your questions to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e696948f9087859fa68f88808f8483878bc8888392)
+If you have any questions about our Privacy Policy, please e-mail your questions to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3c4c4e554a5d5f457c55525a555e595d5112525948)
