@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ju8.me privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201215453id_/http%3A//www.ju8.me/one/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ju8.me privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616170422id_/http%3A//www.ju8.me/one/privacy.html) for the most accurate reproduction.*
 
 # Info
 
