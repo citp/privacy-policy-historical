@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amztrainingacademy.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210142130id_/http%3A//www.amztrainingacademy.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amztrainingacademy.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616104053id_/http%3A//www.amztrainingacademy.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
