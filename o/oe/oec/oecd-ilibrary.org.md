@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oecd-ilibrary.org privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123152145id_/https%3A//www.oecd-ilibrary.org/oecd/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oecd-ilibrary.org privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616113842id_/https%3A//www.oecd-ilibrary.org/oecd/privacy) for the most accurate reproduction.*
 
 # OECD iLibrary | OECD Privacy Policy
 
