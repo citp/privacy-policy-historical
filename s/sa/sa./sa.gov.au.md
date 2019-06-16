@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sa.gov.au privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222113403id_/https%3A//www.sa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sa.gov.au privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616072024id_/https%3A//www.sa.gov.au/privacy) for the most accurate reproduction.*
 
 # SA.GOV.AU - Privacy
 
 This statement sets out the policies of this website (SA.GOV.AU) that relate to the privacy and security of your personal information and security of your other information while using the site. If you were directed to this page from another website, this statement does not apply to any content or function on the other site.
 
-This site is operated in compliance with the Government of South Australia's information privacy principles (IPPs), a copy of which can be obtained on the [Department of the Premier and Cabinet website](http://dpc.sa.gov.au/what-we-do/services-for-government/premier-and-cabinet-circulars).
+This site is operated in compliance with the Government of South Australia's information privacy principles (IPPs), a copy of which can be obtained on the [Department of the Premier and Cabinet website](https://www.dpc.sa.gov.au/resources-and-publications/premier-and-cabinet-circulars).
 
 This site collects and uses the following information from users:
 
@@ -14,7 +14,7 @@ This site collects and uses the following information from users:
   * Your personal information will not be disclosed to a third party except in accordance with the IPPs.
   * Site administrators are required to protect and handle your personal information in accordance with the IPPs.
   * This site and the Government of South Australia are responsible for the privacy and security of information while it is stored on or passing through this site. The Government of South Australia agencies and instrumentalities are responsible for the privacy and security of information collected by, stored on or passing through their own websites.
-  * You should note that there are inherent risks associated with transmission of information via the internet. You should make your own assessment of the potential risks to the security of your information when making a decision as to whether or not you should use this site. There are alternative ways to obtaining information from and transacting business with the Government of South Australia for those users who do not wish to use the internet.
+  * You should note that there are inherent risks associated with transmission of information by the internet. You should make your own assessment of the potential risks to the security of your information when making a decision as to whether or not you should use this site. There are alternative ways to obtaining information from and transacting business with the Government of South Australia for those users who do not wish to use the internet.
   * This site contains links to a large number of other websites that are included on the basis of containing content relevant to the South Australian community, business or government. When a user clicks on a link to another website, they leave this site and this privacy and security statement no longer applies.
   * The content of this privacy and security statement may be updated from time to time, so we suggest that if you return to this site on a regular basis you carefully read the information provided.
 
