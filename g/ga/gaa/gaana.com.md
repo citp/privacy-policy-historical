@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaana.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107000748id_/https%3A//gaana.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaana.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616220317id_/https%3A//gaana.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -96,7 +96,7 @@ The internet is an ever evolving medium. We may alter our privacy policy from ti
 **QUESTIONS / GRIEVANCE REDRESSAL**   
 
 
-In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [feedback@gaana.com](mailto:feedback@gaana.com) or write to Ms. Veronica Bunny (Grievance Redressal Officer) at the following address:  
+In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [feedback@gaana.com](mailto:feedback@gaana.com) or write to Ms. Deepti Malhotra (Grievance Redressal Officer) at the following address:  
 
 
 **Grievance Redressal Officer**
