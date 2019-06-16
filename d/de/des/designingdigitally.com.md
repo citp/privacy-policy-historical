@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the designingdigitally.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728233149id_/https%3A//www.designingdigitally.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designingdigitally.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616143057id_/https%3A//www.designingdigitally.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Designing Digitally, Inc.
 
-Custom eLearning, Serious Games, Training Simulations & Mobile Learning Development 
+Privacy Policy - Designing Digitally, Inc.
+
+Custom eLearning, Serious Games, Training Simulations & Mobile Learning Development
 
 Privacy Policy
 
@@ -12,9 +14,9 @@ This privacy policy sets out how Designing Digitally, Inc. uses and protects any
 
 Designing Digitally, Inc. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
 
-Designing Digitally, Inc. may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 4-20-2012.
+Designing Digitally, Inc. may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 05-25-2018.
 
-We may collect the following information: 
+We may collect the following information:
 
   * Name and company/business name
   * E-mail address
@@ -23,36 +25,77 @@ We may collect the following information:
 
 
 
-We require this information to understand your needs and to provide you with better service, and in particular for the following reasons: 
+Providing personal information is not mandatory to use our site; however, it is mandatory if you choose to contact us through our forms.
 
+We require this information to understand your needs and to provide you with better service, and in particular for the following reasons:
+
+  * To contact you regarding our interest in our services.
   * Internal record-keeping of your contact information for future outreach.
   * We may use the information to improve our products and services.
+
+
+
+Where we have consent to do so (e.g. you have subscribed to one of our e-email lists or have indicated you are interested in receiving information from us):
+
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting, using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
 
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in-place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+We retain your personal information in the United States for as long as is necessary to provide services to you and to comply with our legal obligations. If you no longer want us to use or retain your personal information, you can request that we delete this information. Please note that if you request deletion of your personal information, we will retain information necessary for our legitimate business interests, to comply with the law, prevent fraud, collect fees, resolve dispute, troubleshoot problems, assist with investigations, enforce the terms and service and take other actions permitted by law.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+We do not use personal information to make automated decisions.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in-place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For more information, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+When you visit our site, there is certain information that is recorded which is typically anonymous and does not reveal your identity, such as:
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+  * Your IP address or proxy server IP address’
+  * The domain name you requested
+  * The date and time of your visit to our site
+  * The length of your session
+  * The pages which you have accessed
+  * The number of times you access our site within any month
+  * The website which referred you to our site
+  * The operating system your computer uses
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-You may request details on personal information, which we hold about you under the Data Protection Act of1998. A small fee will be payable. If you would like a copy of the information held on you, please write to: 
+
+This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+For the purposes of applicable EU data protection law (including the General Data Protection Regulation 2016/679 (the " **GDPR** "), we are a ‘data controller’ of your personal information.
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details on personal information, including the following:
+
+  * What personal information pertaining to the user is being processed
+  * Why this information is being processed
+  * Who has access to this personal information about the user
+  * How this personal information is being used in automated decisions
+  * What processes are using this information
+
+
+
+If you would like a copy of the information held on you, please write to:
 
   * Designing Digitally, Inc.
   * 8401 Claude Thomas Rd.
-  * Suite 30 
-  * Franklin, Ohio 45005 
+  * Suite 30
+  * Franklin, Ohio 45005
 
 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at this address: info@designingdigitally.com. We will promptly correct any information found to be incorrect. 
+Your request will be processed, along with a copy of the personal information, within 30 days.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at this address: info@designingdigitally.com. We will promptly correct any information found to be incorrect.
+
+If you have unresolved concerns you also have the right to complain to data protection authorities. The relevant data protection authority will be the data protection authority of the country: (i) of your habitual residence; (ii) of your place of work; or (iii) in which you consider the alleged infringement has occurred.
