@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viki.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228004600id_/https%3A//www.viki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viki.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616235720id_/http%3A//viki.com/privacy) for the most accurate reproduction.*
 
 # Rakuten Viki
 
@@ -14,7 +14,7 @@ When you create an account, you provide Us with certain Personal information, su
 
   2. **Profile information**
 
-You may also complete a profile, which may include your name, gender, birth date, picture and any additional bio information you chose to provide. Please note that your profile information will be visible to other users of Our Services;
+You may also complete a profile, which may include your name, gender, birth date, picture and any additional profile information you chose to provide. Please note that your profile information will be visible to other users of Our Services;
 
   3. **Payment information**
 
@@ -31,7 +31,7 @@ You may choose to provide Us with certain information when you post or upload su
 
   1. **Usage information**
 
-We automatically collect information about how you use the Services, such as pages you view, content you view or favourite, subtitles or segments of content you edit, genres you prefer and searches you make;
+We automatically collect information about how you use the Services, such as pages you view, content you view or favorite, subtitles or segments of content you edit, genres you prefer and searches you make;
 
   2. **Device information**
 
@@ -71,7 +71,7 @@ The information We collect from you ensures you can use Our Services in a safe e
 
   1. **Services**
 
-We may use your information to: enable you to access and use the Services, authenticate your identity when you log in to Our Services, personalize or otherwise customise your experience by, for example, providing you with content based on your search and preferences, determine your general geographic location to personalize Our Services, to recommend content and determine whether the content you have requested is available in your region, process your payment for the Services through third party service providers, and manage the accounts you hold with Us;
+We may use your information to: enable you to access and use the Services, authenticate your identity when you log in to Our Services, personalize or otherwise customize your experience by, for example, providing you with content based on your search and preferences, determine your general geographic location to personalize Our Services, to recommend content and determine whether the content you have requested is available in your region, process your payment for the Services through third party service providers, and manage the accounts you hold with Us;
 
   2. **Advertising**
 
@@ -87,7 +87,7 @@ We use your information to contact you to maintain Our Services and to respond a
 
   5. **Security**
 
-We use your information if We think it is necessary to investigate and prevent security issues and abuse, protect Our Trademarks and enforce Our Terms of Use;
+We use your information if We think it is necessary to investigate and prevent security issues and abuse;
 
   6. **Research and services improvement**
 
@@ -95,7 +95,7 @@ In an effort to provide you with the best Services, We may use your information 
 
   7. **Legal**
 
-We may use your information to comply with legal obligations to which We are subject and cooperate with regulators and law enforcement bodies.
+We may use your information to comply with legal obligations to which We are subject, protect Our Trademarks and enforce Our Terms of Use and cooperate with regulators and law enforcement bodies.
 
 
 
@@ -118,7 +118,7 @@ We may share your Personal Information with Our business partners to perform bus
 
   4. **Rakuten Group companies**
 
-Rakuten, Inc. is the parent company. We work closely with Rakuten, Inc. and other businesses and companies that fall under the Rakuten Group family. We may share your account credentials and other related Personal Information (such as, username, email address, encrypted password, first and last name) with the Rakuten Group companies, so that you can use the same username and password to access all Rakuten Group products and services, and for the purposes of authentication, and deduplication. The other Rakuten Group websites and services may request Personal Information from you if you use their services, and if you provide this information, then it will be governed by their respective privacy policies and not this Viki Privacy Policy;
+Rakuten, Inc. is Rakuten Viki's parent company. We work closely with Our affiliated businesses and companies that fall under the Rakuten Group family (together, “ **Rakuten Affiliates** ”). We may share your account credentials and other related Personal Information (such as, username, email address, encrypted password, first and last name) with the Rakuten Affiliates, so that you can use the same username and password to access all Rakuten Group products and services, and for the purposes of authentication, and deduplication. The other Rakuten Group websites and services may request Personal Information from you if you use their services, and if you provide this information, then it will be governed by their respective privacy policies and not this Privacy Policy;
 
   5. **Law enforcement agencies, courts, regulators and government authorities**
 
@@ -161,23 +161,23 @@ You may control the use of cookies at the browser level. If you choose to disabl
 
 Subject to local law, you may have certain rights regarding information that We have collected and that is related to you. We encourage you to contact Us to update or correct your information if it changes or if you believe that any information that We have collected about you is inaccurate.
 
-Please note that We will likely require additional information from you in order to honour your requests.
+Please note that We will likely require additional information from you in order to honor your requests.
 
-If you would like to discuss or exercise such rights, send Us an email at [privacy@viki.com](mailto:privacy@viki.com).
+If you would like to exercise such rights, send Us an email at [privacy@viki.com](mailto:privacy@viki.com).
 
 Please find below some rights applicable to certain territories:
 
-    1. **Rights applicable to EU users**
+    1. **Rights applicable to European Union users**
 
       1. **Data Transfer**
 
-If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from E.U. or U.S. law, please note that your Personal Information may need to be processed in countries where data protection and privacy regulations may not offer the same level of protection as in your home country. Please note that We may be transferring your Personal Information to the United States, Japan, Singapore and South Korea. In such cases, We will require the recipient to provide appropriate protection for the Personal Information disclosed to it in compliance with applicable data protection laws.
+If you are visiting from the European Union (“ **EU** ”) or other regions with laws governing data collection and use that may differ from EU or US law, please note that your Personal Information may need to be processed in countries where data protection and privacy regulations may not offer the same level of protection as in your home country. Please note that We may be transferring your Personal Information to the United States, Japan, Singapore and South Korea. In such cases, We will require the recipient to provide appropriate protection for the Personal Information disclosed to it in compliance with applicable data protection laws.
 
-As part of the Rakuten Group, Viki relies on the Rakuten Binding Corporate Rules to safeguard international data transfers within the group. The Rakuten Binding Corporate Rules have been approved with the Data Protection Authority of Luxembourg acting as the lead authority and can be found at <https://corp.rakuten.co.jp/privacy/en/bcr.html>.
+As part of the Rakuten Group, Rakuten Viki relies on the Rakuten Binding Corporate Rules to safeguard international data transfers within the group. The Rakuten Binding Corporate Rules have been approved with the Data Protection Authority of Luxembourg and can be found at <https://corp.rakuten.co.jp/privacy/en/bcr.html>.
 
       2. **Legal basis for processing your Personal Information**
 
-If you are visiting from the European Union, We must have a legal basis to process your Personal Information. There are different legal bases that We rely on to use your Personal Information, namely:
+If you are visiting from the EU, We must have a legal basis to process your Personal Information. There are different legal bases that We rely on to use your Personal Information, namely:
 
         1. **Performance of a contract**
 
@@ -197,7 +197,7 @@ In some cases, We may also have a legal obligation to collect your Personal Info
 
       3. **Your Choices under EU law**
 
-If you are visiting from the European Economic Area, you may have certain rights, in accordance with the applicable local law and limitations, including the right to access your Personal Information; to rectify the information We hold about you; to erase your Personal Information; to restrict our use of your Personal Information; to object to our use of your Personal Information; and to receive your Personal Information in a usable electronic format and transmit it to a third party (right to data portability). If contacting Us does not resolve your complaint, you have the right to make a complaint to your data protection authority (if one exists in your country).
+If you are visiting from the EU, you may have certain rights, in accordance with the applicable local law and limitations, including the right to access your Personal Information; to rectify the information We hold about you; to erase your Personal Information; to restrict our use of your Personal Information; to object to our use of your Personal Information; and to receive your Personal Information in a usable electronic format and transmit it to a third party (right to data portability). If contacting Us does not resolve your complaint, you have the right to make a complaint to your data protection authority.
 
     2. **Rights applicable to California Rights**
 
@@ -216,7 +216,7 @@ We will keep your Personal Information for as long as We have a relationship wit
 
 ### **9\. Children's Privacy** __
 
-Our Services are not intended for children under the age of 13. Therefore, We do not knowingly collect Personal Information via Our Services from anyone under 13. If a parent or a guardian believes that Viki has in its database the Personal Information of a child under the age of 13, please contact Us at [privacy@viki.com](mailto:privacy@viki.com).
+Our Services are not intended for children under the age of 13, or other minimum age for providing consent to data collection under local law. Therefore, We do not knowingly collect Personal Information via Our Services from anyone under 13 (or such other minimum age as may be restricted under local law). If a parent or a guardian believes that Rakuten Viki has in its database the Personal Information of a child under the age of 13, please contact Us at [privacy@viki.com](mailto:privacy@viki.com).
 
 ### **10\. Changes To This Privacy Policy** __
 
