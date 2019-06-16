@@ -1,1000 +1,510 @@
-<!--The following is the downloaded HTML source of the degreenexus.com privacy policy that was archived on 2018-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180620063751id_/http%3A//portal.degreenexus.com/privacy) for the most accurate reproduction.-->
-
-<!DOCTYPE html><html><head>
-
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-    <title>List of Online Degree Colleges, Online Degree Programs, Online Degree Colleges</title>
-
-    <meta name="description" content="DegreeNexus.com provide you all types of online degree programs, online degree colleges,  bachelors degree culinary arts, associate degree information technology and more in USA.">
-
-	<meta name="keywords" content="List of Online Degree Colleges">
-
-    <meta name="google-site-verification" content="nUMZ61lVTPQ547ukvK928dEYSY2yQGkuF4v5FYkqBOE">
-
-    <meta name="msvalidate.01" content="3F1E508C514BEA67A8BF1C4D39C6AC58">
-
-     <link rel="stylesheet" type="text/css" href="/style.css">
-
-     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
-
-    <!--[if lt IE 9]>
-
-<script src="js/html5.js" type="text/javascript"></script>
-
-<![endif]-->
-
-
-
-    <!--[if IE]>
-
-<style type="text/css">
-
-/*
-
-.top_nav{ width:655px;}
-
-.top_nav a{ font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:bold; /*padding:11px 24px;*/}
-
-.top_nav a.third{/*padding:11px 23px;*/}
-
-.top_nav a.fourth{/*padding:11px 22px;*/}
-
-.top_nav a.fifth{/*padding:11px 25px;*/}
-
-*/
-
-.banner_description h1.banner_tiitle{font-family:Arial, Helvetica, sans-serif;}
-
-.banner_description h1.banner_tiitle span{font-family:Arial, Helvetica, sans-serif;}
-
-.banner_description p{ font-family:Arial, Helvetica, sans-serif;}
-
-.find_college_bl{ margin:35px 0 0;}
-
-.find_college_bl .title_bl{  font-size:18px;  font-family:Arial, Helvetica, sans-serif;}
-
-.top_sarched_school_bl .left_side .title_bl h2{ font-size:18px;  font-family:Arial, Helvetica, sans-serif;}
-
-.top_sarched_school_bl .left_side .title_bl h3{ font-size:18px;  font-family:Arial, Helvetica, sans-serif;}
-
-.article_bl h2.title{font-size:20px;  font-family:Arial, Helvetica, sans-serif;}
-
-.article_bl .article_content .tab ul li a{font-family:Arial, Helvetica, sans-serif;}
-
-.looking_to_change .single_bl h2{font-family:Arial, Helvetica, sans-serif;}
-
-.top_sarched_school_bl .right_side ul.side_nav li a{ font-size:14px; font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
-
-.top_sarched_school_bl .right_side h2.title{font-size:15px; font-family:Arial, Helvetica, sans-serif; font-weight:bold;}
-
-.article_bl h2.title span.text{font-size:15px; font-family:Arial, Helvetica, sans-serif;} 
-
-</style>
-
-<![endif]-->
-
-
-
-    <!-- TABBING -->
-
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//code.jquery.com/jquery-1.9.1.min.js" type="text/javascript"></script>
-
-
-
-<script type="text/javascript">
-$(document).ready(function(){
-        $('#filters a').click(function(e){
-		e.preventDefault();
-		var filter = $(this).attr('id');
-		$('#content section div.client_box').slideDown();
-		$('#content section div.client_box:not(.' + filter + ')').slideUp();	
-	});	
-	
-	var $optionSets = $('nav.primary ul'),
-	       $optionLinks = $optionSets.find('a');
-	 
-	       $optionLinks.click(function(){
-	          var $this = $(this);
-		  // don't proceed if already selected
-		  if ( $this.hasClass('selected') ) {
-		      return false;
-		  }
-	   var $optionSet = $this.parents('nav.primary ul');
-	   $optionSet.find('.selected').removeClass('selected');
-	   $this.addClass('selected'); 
-	});
-	
-});
-  
-  
-    </script>
-
-    <script>
-	(function ($) {
-  jQuery.expr[':'].Contains = function(a,i,m){
-      return (a.textContent || a.innerText || "").toUpperCase().indexOf(m[3].toUpperCase())>=0;
-  };  
-  function filterList(header, list) {
-    var form = $("<form>").attr({"class":"filterform","action":"#"}),
-        input = $("<input>").attr({"class":"filterinput","type":"text"});
-    $(form).append(input).appendTo(header);  
-    $(input)
-      .change( function () {
-        var filter = $(this).val();
-        if(filter) {       
-          $matches = $(list).find('span:Contains(' + filter + ')').parent();
-          $('.client_box', list).not($matches).slideUp();
-          $matches.slideDown();             
-        } else {
-          $(list).find(".client_box").slideDown();
-        }
-        return false;
-      })
-    .keyup( function () {
-        $(this).change();
-    });
-  }  
-  $(function () {
-    filterList($("#form"), $("#content"));
-  });
-}(jQuery));
-    </script>
-    <script type="text/javascript">
-	  $(function(){
-    		$('#online').trigger('click');
-		})
-	  </script>
-
-<script type="text/javascript">
-function checkno(no){
-	var n = no.value;
-	var i;
-	var arr = "0123456789";
-	for(i=0;i<n.length;i++){
-		if(arr.indexOf(n[i]) == -1){
-			alert('Please enter only numbers.');
-			no.value = n.substring(0,n.length-1);
-		}	
-	}
-}
-  $(document).ready(function() {
-    $('#FindCollege').submit(function() {
-		if($('#degree').val() == "" && $('#subject').val() == "" && $('#zip').val() == "Enter Zip Code")
-		{
-			alert('Please Select At Least One Field To Get Results');
-			$('#degree').focus();
-			return false;
-		}
-		var degree = $('#degree').val();
-		var subject = $('#subject').val();
-		var zip = $('#zip').val();
-		var sdate = $('#sdate').val();
-		if(degree == "" ){ degree=null; }
-		if(subject == "" ){ subject=null; }
-		if(sdate == "" ){ sdate=null; }
-		if(zip == "" || zip =="Enter Zip Code"){ zip=null; }
-		var str= '';
-		if(degree != null && subject != null && sdate != null && zip != null)
-		{
-			window.location.href = str + '/' + degree + '-in-' + subject + '-in-' + sdate + '-in-' + zip;
-		}
-		else if(degree != null && subject != null && sdate != null && zip == null)
-		{
-			window.location.href = str + '/' + degree + '-in-' + subject + '-in-' + sdate;
-		}
-		else if(degree != null && subject != null && sdate == null && zip != null)
-		{
-			window.location.href = str + '/' + degree + '-in-' + subject + '-in-' + zip;
-		}
-		else if(degree == null && subject != null && sdate != null && zip != null)
-		{
-			window.location.href = str + '/' + subject + '-in-' + sdate + '-in-' + zip;
-		}
-		else if(degree != null && subject == null && zip != null && sdate != null)
-		{
-			window.location.href = str + '/' + degree + '-in-' + sdate + '-in-' + zip;
-		}
-		else if(degree != null && subject != null && zip == null && sdate == null)
-		{
-			var myData = 'degree='+degree+ '&subject=' + subject;
-			$.ajax
-    		({
-				type: "POST",
-				url: "geturl.php",
-				data: myData,
-				dataType: "json",
-				success: function(msg)
-				{
-					if(msg.val == "true")
-					{	
-						window.location.href = str + '/' + msg.url;
-					}
-					else
-					{
-						window.location.href = str + '/' + degree + '-in-' + subject;
-					}
-				}
-			});
-		}
-		else if(degree != null && subject == null && sdate != null && zip == null)
-		{
-			window.location.href = str + '/' + degree + '-in-' + sdate;	
-		}
-		else if(degree != null && subject == null && sdate == null && zip != null)
-		{
-			window.location.href = str + '/' + degree + '-in-' + zip;	
-		}
-		else if(degree == null && subject != null && sdate != null && zip == null)
-		{
-			window.location.href = str + '/' + subject + '-in-' + sdate;	
-		}
-		else if(degree == null && subject != null && sdate == null && zip != null)
-		{
-			window.location.href = str + '/' + subject + '-in-' + zip;	
-		}
-		else if(degree == null && subject == null && sdate != null && zip != null)
-		{
-			window.location.href = str + '/' + sdate + '-in-' + zip;	
-		}
-		else if(subject!=null)
-		{
-				
-			window.location.href = str + '/' + subject;
-		}
-		else if(degree!=null)
-		{
-			window.location.href = str + '/' + degree;
-		}
-		else if(zip != null)
-		{
-			window.location.href = str + '/' + zip;
-		}
-		else if(sdate != null)
-		{
-			window.location.href = str + '/' + sdate;
-		}
-     	return false;
-    });
-});
-$(document).ready(function() {
-    $('#schoolSearch').submit(function() {
-		var chks = document.getElementsByName('subject[]');
-		var cnt = 0;
-		for (var i = 0; i < chks.length; i++)
-		{
- 			if (chks[i].checked)
- 			{
- 				cnt++;
- 			}
-		}
-
-		if ($('#zip').val() == "" || $('#zip').val() == 'Enter Zip Code' && cnt == 0)
- 		{
- 			alert("Please Enter Zip Code OR Select School.");
- 			return false;
- 		}
-		
-		var zip = $('#zip').val();
-		if(zip=="" || zip =="Enter Zip Code") { zip = null; }
-		var s='';
-		if(cnt!=0)
-		{
-			
-			for (var i = 0; i < chks.length; i++)
-			{
- 				if (chks[i].checked)
- 				{
- 					s = s +chks[i].value + '-and-'; 
- 				}
-			}
-		}
-		s = s.substr(0,s.length-5);
-		var str= '';
-		if(zip != null && cnt != 0)
-		{
-			window.location.href = str + '/' + s + '-in-' + zip;
-		}
-		else if(zip != null && cnt == 0)
-		{
-			window.location.href = str + '/' + zip;
-		}
-		else if(zip == null && cnt != 0 )
-		{
-			window.location.href = str + '/' + s;
-		}
-     	return false;
-    });
-});
-
-function swap(on, offs) {
-	$(on).show();
-	$(on+"_link").removeClass("selected");
-	$(on+"_link").addClass("selected");
-
-	offs.forEach(function(x) {
-		$(x).hide();
-		$(x+"_link").removeClass("selected");
-	})
-
-}
-
-function show1(id) {
-
-	document.getElementById('hide'+id).style.display = 'inline-block';
-	document.getElementById('data'+id).style.display = 'block';
-	document.getElementById('show'+id).style.display = 'none';
-}
-function hide1(id) {
-	document.getElementById('show'+id).style.display = 'inline-block';
-	document.getElementById('data'+id).style.display = 'none';
-	document.getElementById('hide'+id).style.display = 'none';
-}
-
-</script>
-<!-- Navigation Mobile -->
-<link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/5.5.3/core/css/jquery.mmenu.all.css">
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/5.5.3/core/js/jquery.mmenu.min.all.js"></script>
-<script type="text/javascript">
-$(function() {
-	$('nav#menu').mmenu();
-});
-		</script>
-<!-- Navigation Mobile-->
-		<meta content="index, follow" name="googlebot">
-<meta content="index, follow" name="robots"><script>
-  (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,"script","//www.google-analytics.com/analytics.js","ga");
-  ga("create", "UA-42232890-1", "degreenexus.com");
-  ga("send", "pageview");
-</script>	
-    <script type="text/javascript">
-
-var _qevents = _qevents || [];
-
-
-
-(function() {
-
-var elem = document.createElement('script');
-
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-
-elem.async = true;
-
-elem.type = "text/javascript";
-
-var scpt = document.getElementsByTagName('script')[0];
-
-scpt.parentNode.insertBefore(elem, scpt);
-
-})();
-
-
-
-_qevents.push({
-
-qacct:"p-gE3zcZDCwd8WG"
-
-});
-
-</script></head>
-
-    <!-- Quantcast Tag -->
-
-
-
-
-
-<body><noscript>
-
-<div style="display:none;">
-
-<img src="//pixel.quantserve.com/pixel/p-gE3zcZDCwd8WG.gif" border="0" height="1" width="1" alt="Quantcast"/>
-
-</div>
-
-</noscript>
-
-<!-- End Quantcast tag -->
-
-    
-
-     <div id="page">
-
-     <div class="header">
-
-				<a href="#menu"></a>
-
-				Navigation
-
-			</div>
-
-    <div class="container">
-
-<header>
-
-        <div class="doc_width">
-
-          
-
-          <div class="logo">
-
-          <a href="/" title="Home"><img src="/images/logo.jpg" alt="Logo"></a></div>
-
-          
-
-          <nav class="top_nav"> 
-
-          <ul class="main">
-
-          	<li class="first"><a href="/degree" title="Degrees" class="  ">Degrees</a>
-
-            	<ul>
-
-                
-
-                <div style="width: 88px;height: 10px;margin-top: -5px;margin-left: -5px;padding-right: 10px;border-top: 1px solid #F1F1F1;top: 4px;position: absolute;"></div>
-
-                
-
-                	
-						 <li class="firstili"><a class="firstili" href="/associate-degree" title="Associate Degree">Associate Degree</a></li> 
-
-					  
-						 <li><a href="/bachelor-degree" title="Bachelors Degree">Bachelors Degree</a></li> 
-
-					  
-						 <li><a href="/master-degree" title="Master Degree">Master Degree</a></li> 
-
-					  
-						 <li><a href="/doctrate-degree" title="Doctorate Degree ">Doctorate Degree </a></li> 
-
-					  
-						 <li class="lastili"><a class="lastili" href="/certificate-programs" title="Certificate Programs &amp; Diploma">Certificate Programs &amp; Diploma</a></li> 
-
-					  
-                </ul>
-
-            </li>
-
-            	
-
-            <li class="second"><a href="/subject" title="Subjects" class=" ">Subjects</a>
-
-            	<ul>
-
-                
-
-                <div style="width: 89px;height: 10px;margin-top: -5px;margin-left: -5px;padding-right: 10px;border-top: 1px solid #F1F1F1;top: 4px;position: absolute;"></div>
-
-                
-
-                	
-						 <li class="firstili"><a class="firstili" href="/art-fashion" title="Art and Design">Art and Design</a></li> 
-
-					  
-						 <li><a href="/business" title="Business ">Business </a></li> 
-
-					  
-						 <li><a href="/education" title="Education">Education</a></li> 
-
-					  
-						 <li><a href="/computers-it" title="Information Technology">Information Technology</a></li> 
-
-					  
-						 <li><a href="/criminal-justice-legal" title="Criminal justice">Criminal justice</a></li> 
-
-					  
-						 <li><a href="/culinary-services" title="Culinary Arts ">Culinary Arts </a></li> 
-
-					  
-						 <li><a href="/health-medical" title="Healthcare ">Healthcare </a></li> 
-
-					  
-						 <li><a href="/liberal-art" title="Liberal Arts">Liberal Arts</a></li> 
-
-					  
-						 <li><a href="/trades-vocations" title="Vocational">Vocational</a></li> 
-
-					  
-						 <li class="lastili"><a class="lastili" href="/nursing" title="Nursing">Nursing</a></li> 
-
-					  
-                </ul>
-
-            </li>
-
-            <li class="third"><a href="/states" title="Colleges By State" class=" ">Colleges By State</a>
-
-
-            </li>
-
-            <li class="fourth"><a href="/online-colleges" title="Online Colleges" class=" ">Online Colleges</a></li>
-
-            <li class="fifth"><a href="/articles" title="Articles" class=" ">Articles</a>
-
-            	<ul>
-
-                
-
-                <div style="width: 87px;height: 10px;margin-top: -5px;margin-left: -5px;padding-right: 10px;border-top: 1px solid #F1F1F1;top: 4px;position: absolute;"></div>
-
-                
-
-                	
-						 <li class="firstili"><a class="firstili" href="/article/adult-learner.html" title="Adult Learner">Adult Learner</a></li> 
-
-					  
-						 <li><a href="/article/new-student.html" title="New Student">New Student</a></li> 
-
-					  
-						 <li><a href="/article/military.html" title="Military">Military</a></li> 
-
-					  
-						 <li><a href="/article/types-of-financial-aid.html" title="Types of Financial Aid">Types of Financial Aid</a></li> 
-
-					  
-						 <li class="lastili"><a class="lastili" href="/article/online-vs-campus.html" title="Online vs. Campus">Online vs. Campus</a></li> 
-
-					  
-                </ul>
-
-            </li>
-
-            </ul>
-
-          </nav>
-
-        </div>
-
-      </header>
-
-     
-      <div id="content">
-
-        <div class="doc_width">
-
-          <div class="banner_bl">
-            <div class="banner_description">
-              <h1 style="margin-top:24px;" class="banner_tiitle">CHANGE YOUR <span>Life</span></h1>
-              <p style="height:24px;"><!--As more people find out each day online education courses offer numerous advantages. The courses often give at lower cost more flexibility because the professional does not have to waste time and money commuting to class.--></p>
-            </div>
-            <div class="find_college_bl">
-
-              <div class="title_bl">FIND A COLLEGE TODAY!</div>
-
-              <div class="selection_bl">
-
-              <form name="FindCollege" action="/schools.php" id="FindCollege"> 
-
-                <ul>
-
-                  <li>
-
-                    <select name="degree" id="degree" title="Select Degree">
-
-                      <option value="">Select Degree</option>
-
-                      
-                            <option value="associate-degree">Associate Degree</option>
-
-                      
-                            <option value="bachelor-degree">Bachelors Degree</option>
-
-                      
-                            <option value="master-degree">Master Degree</option>
-
-                      
-                            <option value="doctrate-degree">Doctorate Degree </option>
-
-                      
-                            <option value="certificate-programs">Certificate Programs &amp; Diploma</option>
-
-                      
-                    </select>
-
-                  </li>
-
-                  <li>
-
-                    <select name="subject" id="subject" title="Select Subject">
-
-                      <option value="">Select Subject</option>
-
-                     
-                            <option value="art-fashion">Art and Design</option>
-
-                      
-                            <option value="business">Business </option>
-
-                      
-                            <option value="education">Education</option>
-
-                      
-                            <option value="computers-it">Information Technology</option>
-
-                      
-                            <option value="criminal-justice-legal">Criminal justice</option>
-
-                      
-                            <option value="culinary-services">Culinary Arts </option>
-
-                      
-                            <option value="health-medical">Healthcare </option>
-
-                      
-                            <option value="liberal-art">Liberal Arts</option>
-
-                      
-                            <option value="trades-vocations">Vocational</option>
-
-                      
-                            <option value="nursing">Nursing</option>
-
-                      
-                    </select>
-
-                  </li>
-
-                  <li class="last">
-
-                    <input type="text" class="textbox" value="Enter Zip Code" onfocus="if(this.value=='Enter Zip Code') this.value='';" onblur="if(this.value=='') this.value='Enter Zip Code';" id="zip" name="zip" maxlength="5" onkeyup="checkno(this);" title="Enter Zipcode">
-
-                  </li>
-
-                  <li class="last">
-
-                    <input type="submit" value="" class="submit">
-
-                  </li>
-
-                </ul>
-
-                </form>
-
-              </div>
-
-            </div>          </div>
-          <div class="content_bottom">
-
-            <div class="top_sarched_school_bl">
-
-              <div class="left_side">
-
-              	
-
-                <div><a style="color:#5D5D5D; font-size:12px;" href="" title="Home">Home »</a> Privacy Policy</div>
-
-                              
-
-        		<div class="title_bl">
-
-                  	<h3>Privacy Policy</h3>
+<!--The following is the downloaded HTML source of the degreenexus.com privacy policy that was archived on 2019-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190616130633id_/http%3A//edu.degreenexus.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="description" content="Here a list of colleges that offer online education programs and are recognized by an authorising USA Department of Learning.">
+        <meta name="keywords" content="Online Degree Colleges, Online Degree Programs">
+        <meta name="google-site-verification" content="nUMZ61lVTPQ547ukvK928dEYSY2yQGkuF4v5FYkqBOE">
+        <meta name="msvalidate.01" content="3F1E508C514BEA67A8BF1C4D39C6AC58">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" type="image/png" href="/favicon.png">
+        <title>List of Online Degree Colleges | Online Degree Programs</title>
+        <!-- Fonts Here     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700" rel="stylesheet">    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,500,600,700,800,900" rel="stylesheet">-->    <!-- Fonts Here -->
+        
+        <link href="/css/newcss/bootstrap.css" type="text/css" rel="stylesheet">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        
+        <!--<link href="/css/newcss/alertify.min.css" type="text/css" rel="stylesheet">         JS here -->
+        <script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="/js/newjs/jquery.min.js" type="text/javascript"></script>
+        <script async="" src="/js/newjs/alertify.min.js" type="text/javascript"></script>
+        <script src="https://code.jquery.com/jquery-1.9.1.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            var frontpath = '';
+        </script>
+        
+        <script async="" src="/js/newjs/custom.js" type="text/javascript"></script>
+        <script async="" src="/js/newjs/headerform.js" type="text/javascript"></script>
+        <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-42232890-31', 'auto'); ga('send', 'pageview'); </script>                    
+        <!-- JS here -->
+    </head>
+    <body>
+        <div class="wrapper"> 
+            <!-- Header Section Here -->
+            <header id="main_header">	
+                <div class="top_header">    	
+                    <div class="container">        	
+                        <div class="row">            	
+                            <div class="col-md-12 col-xs-12">                	
+                                <div class="inner_head">                    	
+                                    <div class="logo">                        	                             
+                                        <a href="" title="Home">                             
+                                            <img src="/images/newimg/logo.png" alt="DegreeNexus">                             
+                                        </a>                                                    
+                                    </div>                        
+                                    <div class="nav">                         
+                                        <div class="toggle">
+                                            <a href="#"> 
+                                                <div class="hamburger" id="hamburger-9">
+                                                    <span class="line"></span>                                  
+                                                    <span class="line"></span>                                  
+                                                    <span class="line"></span>                                
+                                                </div>
+                                            </a>
+                                        </div>	                       	  
+                                        <ul class="parent_nav">                            	
+                                            <li class="drpdwn">
+                                                <a href="/degree" title="Degree" class="trans">Degree</a>			         
+                                                <ul class="child_nav">
+                                                                                        
+                                                    <li>
+                                                        <a href="/associate-degree" title="Associate Degree" class="trans">Associate Degree</a>
+                                                    </li>                                                                        
+                                                    <li>
+                                                        <a href="/bachelor-degree" title="Bachelor's Degree" class="trans">Bachelor's Degree</a>
+                                                    </li>                                                                        
+                                                    <li>
+                                                        <a href="/certificate-programs" title="Certificate Programs &amp; Diploma" class="trans">Certificate Programs &amp; Diploma</a>
+                                                    </li>                                                                        
+                                                    <li>
+                                                        <a href="/doctrate-degree" title="Doctorate Degree " class="trans">Doctorate Degree </a>
+                                                    </li>                                                                        
+                                                    <li>
+                                                        <a href="/master-degree" title="Master's Degree" class="trans">Master's Degree</a>
+                                                    </li>                                                                    
+                                                </ul>                               
+                                            </li>                                                                                                
+                                            <li class="drpdwn">
+                                                <a href="/subject" title="  Subjects" class="trans">Subjects</a>
+                                                <ul class="child_nav">  
+                                                    									
+                                                    <li>									  
+                                                        <a href="/art-fashion" title="Art and Design" class="trans">Art and Design</a>									
+                                                    </li>																		
+                                                    <li>									  
+                                                        <a href="/business" title="Business " class="trans">Business </a>									
+                                                    </li>																		
+                                                    <li>									  
+                                                        <a href="/criminal-justice-legal" title="Criminal Justice" class="trans">Criminal Justice</a>									
+                                                    </li>																		
+                                                    <li>									  
+                                                        <a href="/education" title="Education" class="trans">Education</a>									
+                                                    </li>																		
+                                                    <li>									  
+                                                        <a href="/health-medical" title="Healthcare " class="trans">Healthcare </a>									
+                                                    </li>																		
+                                                    <li>									  
+                                                        <a href="/computers-it" title="Information Technology" class="trans">Information Technology</a>									
+                                                    </li>																		
+                                                    <li>									  
+                                                        <a href="/liberal-art" title="Liberal Arts" class="trans">Liberal Arts</a>									
+                                                    </li>																		
+                                                    <li>									  
+                                                        <a href="/nursing" title="Nursing" class="trans">Nursing</a>									
+                                                    </li>																		
+                                                    <li>									  
+                                                        <a href="/trades-vocational" title="Vocational" class="trans">Vocational</a>									
+                                                    </li>									                                                                    	                                
+                                                </ul>                                                                </li>                                                                            <li>
+                                                <a href="/states" title="Colleges By State " class="trans">Colleges By State </a>
+                                            </li>                                
+                                            <li>
+                                                <a href="/online-colleges" title="Online Colleges" class="trans">Online Colleges</a>
+                                            </li>                                
+                                            <li class="drpdwn">
+                                                <a href="/articles" title="Articles" class="trans">Articles</a>
+                                                <ul class="child_nav">                                	                                                    
+                                                    <li>                  
+                                                        <a href="/article/types-of-financial-aid.html" title="Types of Financial Aid" class="trans">                        Types of Financial Aid                        </a>                 
+                                                    </li>                                
+                                                    <li>                  
+                                                        <a href="/article/online-vs-campus.html" title="Online vs. Campus" class="trans">                        Online vs. Campus                        </a>                 
+                                                    </li>                                
+                                                    <li>                  
+                                                        <a href="/article/adult-learner.html" title="Adult Learner" class="trans">                        Adult Learner                        </a>                 
+                                                    </li>                                
+                                                    <li>                  
+                                                        <a href="/article/new-student.html" title="New Student" class="trans">                        New Student                        </a>                 
+                                                    </li>                                
+                                                    <li>                  
+                                                        <a href="/article/military.html" title="Military" class="trans">                        Military                        </a>                 
+                                                    </li>                                                                                    
+                                                </ul>                                                                                     
+                                            </li>
+                                        </ul>                        
+                                    </div>                    
+                                </div>                
+                            </div>            
+                        </div>        
+                    </div>    
+                </div>
+            </header>     
+        
+
+         <!-- Breadcume Section Here -->
+
+         <section id="breadcum">
+
+            <div class="main_breadcum">
+
+                <div class="container">
+
+                    <div class="row">
+
+                        <div class="col-md-12">
+
+                        <div class="inner_breadcum">
+
+                        	<h1 class="page_name">Terms Of Use</h1>
+
+                            <ul class="breadcum_list">
+
+                                <li><a href="" class="trans" title="Home">Home</a></li>							 
+
+                                <li> Privacy Policy</li>
+
+                            </ul>
+
+                        </div>
+
+                      </div> 
+
+                    </div>
 
                 </div>
 
-                <div class="description">
-
-                  <p></p><h1>Privacy/Security Policy</h1>
-<p>
-
-
-It has always been our highest priority that our clients are able to experience a comfortable and safe visit to our website while we ascertain:
-</p><ul style="list-style:round;margin-left:15px;line-height:22px"><li>That their privacy is respected, </li><li>Any information entered by our visitors are kept safe and confidential,</li><li>Data protection is maintained at all time.</li></ul><br>
-<p>We also guarantee that any and all personal information provided:</p>
-<ul style="list-style:round;margin-left:15px;line-height:22px"><li>Is never shared with any individual, company, or organization without explicitly expressed permission from our visitors.</li><li>All data provided are always held in line with data protection legislation.</li><li>All data provided are stored in a protected database.</li></ul>
-<p>To that we can confirm that our data security policy is operated independently or together with our data management partners and sponsors and it meets the requirements of all recent Privacy legislations.</p> 
-
-
-<span style="font-weight:bold;">Online Privacy Opt-in</span><br> 
-Personal information is gathered only when one desires to register at any of our specialized websites to obtain data, newsletters or other information and opportunities. Our policy strictly aims at keeping all personal information private and is only used to satisfy the purpose for which it was submitted. <br><br>
-
-<span style="font-weight:bold;">Data Sharing</span><br>
-Our policy strictly forbids sharing of information with any third party organizations or individuals without the expressed permission of the clients. Our registered users are free to obtain a summary of their information stored on our records at any time. Our registered users are also free to edit / delete any information provided by them from our database at a time of their choosing. <br><br>
-
-<span style="font-weight:bold;">Data Aggregation </span><br>
-Our servers automatically save the domain name, IP address of the computer, preferred Internet Service Provider, operating system, browser information and preferences of our users and stores this data to analyze and recognize broad demographic and psychographic trends. The information is used to help us evaluate the appeal and quality of the information provided by us and ensures that what we offer to our visitors is relevant and useful. Unless one registers with us, their information cannot be used to for the stated purpose.<br><br>
-
-<span style="font-weight:bold;">Cookies</span><br>
-With the intention to provide our visitors better service we may make use of cookies to store information. A cookie is a small piece of data stored on the computer that is used by the browser and understood and read solely by the relevant servers to obtain data about the browser’s previous activities and preferences. All browsers will work with cookies, but one can set their browser to reject or accept them, depending upon their preferences. If the browser rejects cookies, once can still get access to our sites but some of the features may not be made available.  <br><br>
-
-<span style="font-weight:bold;">Children and Privacy</span><br>
-Some of our web pages provide content relevant to children. In compliance with our policy requirements we collect no information online from or about children below the age of 13 except when there is a need to identify a submission or to answer a question. Any such instances where related information is collected on web pages, it will be explicitly marked to the same effect. Unless required by relevant laws and parental permission is obtained in writing, the collected information will not be used to serve any other purpose apart from those stated and will not be shared with third parties. 
-
-
-
-	
-<p></p>
-
-                </div>
-
-              </div>
-
-              <div class="right_side">
-
-               <h2 class="title">Articles and Education Guides</h2>
-                <ul class="side_nav">
-                	                              <li><a href="/article/types-of-financial-aid.html" title="Types of Financial Aid"><span>Types of Financial Aid</span><span class="bg"></span></a></li>
-                                                  <li><a href="/article/online-vs-campus.html" title="Online vs. Campus"><span>Online vs. Campus</span><span class="bg"></span></a></li>
-                                                  <li><a href="/article/adult-learner.html" title="Adult Learner"><span>Adult Learner</span><span class="bg"></span></a></li>
-                                                  <li><a href="/article/new-student.html" title="New Student"><span>New Student</span><span class="bg"></span></a></li>
-                                                  <li><a href="/article/military.html" title="Military"><span>Military</span><span class="bg"></span></a></li>
-                                      </ul>
-                
-                				
-                                
-              </div>
-
             </div>
 
+        </section>
+
+        <!-- Breadcume Section Here -->
+
+        <section id="Art_Design">
+
+            <div class="main_artdesign">
+
+                <div class="container">
+
+                    <div class="row">
+
+                        <div class="col-md-12">
+
+                            <div class="inner_artdesing">
+
+                                <div class="asidebar">
+
+                                    <div class="Left_sidebar">
+
+                                      <div class="ArtDes_abt">
+
+                                            <h2 class="ArtDes_title">Privacy Policy</h2>
+
+                                            <div class="ArtDes_dscr content">
+
+                                             <h3>Privacy/Security Policy</h3>
+<p>It has always been our highest priority that our clients are able to experience a comfortable and safe visit to our website while we ascertain:
+</p><ul><li>That their privacy is respected, </li><li>Any information entered by our visitors are kept safe and confidential,</li><li>Data protection is maintained at all time.</li></ul><p>We also guarantee that any and all personal information provided:</p><ul><li>Is never shared with any individual, company, or organization without explicitly expressed permission from our visitors.</li><li>All data provided are always held in line with data protection legislation.</li><li>All data provided are stored in a protected database.</li></ul><p>To that we can confirm that our data security policy is operated independently or together with our data management partners and sponsors and it meets the requirements of all recent Privacy legislations.</p><h3>Online Privacy Opt-in</h3><p>Personal information is gathered only when one desires to register at any of our specialized websites to obtain data, newsletters or other information and opportunities. Our policy strictly aims at keeping all personal information private and is only used to satisfy the purpose for which it was submitted.</p><p></p><h3>Data Sharing</h3><p>Our policy strictly forbids sharing of information with any third party organizations or individuals without the expressed permission of the clients. Our registered users are free to obtain a summary of their information stored on our records at any time. Our registered users are also free to edit / delete any information provided by them from our database at a time of their choosing.</p><h3>Data Aggregation</h3><p>Our servers automatically save the domain name, IP address of the computer, preferred Internet Service Provider, operating system, browser information and preferences of our users and stores this data to analyze and recognize broad demographic and psychographic trends. The information is used to help us evaluate the appeal and quality of the information provided by us and ensures that what we offer to our visitors is relevant and useful. Unless one registers with us, their information cannot be used to for the stated purpose.</p><h3>Cookies</h3><p>With the intention to provide our visitors better service we may make use of cookies to store information. A cookie is a small piece of data stored on the computer that is used by the browser and understood and read solely by the relevant servers to obtain data about the browser’s previous activities and preferences. All browsers will work with cookies, but one can set their browser to reject or accept them, depending upon their preferences. If the browser rejects cookies, once can still get access to our sites but some of the features may not be made available.  </p><h3>Children and Privacy</h3><p>Some of our web pages provide content relevant to children. In compliance with our policy requirements we collect no information online from or about children below the age of 13 except when there is a need to identify a submission or to answer a question. Any such instances where related information is collected on web pages, it will be explicitly marked to the same effect. Unless required by relevant laws and parental permission is obtained in writing, the collected information will not be used to serve any other purpose apart from those stated and will not be shared with third parties.</p> 
+                                                
+
+                                                
+
+                                            </div>
+
+                                            
+
+                                       </div>
+
+                            		     
+
+                                      
+
+                                                                
+
+                                    
+
+                                    </div>
+
+                                    
+
+                                    <div class="Right_sidebar">
+  <div class="FR-form" id="school_search_form">
+    <div class="main_findfrm">
+      <h2 class="title">FIND A COLLEGE TODAY!</h2>
+      <div class="fnd_frm">
+        <form name="FindCollege" action="/schoolsearch" id="FindCollege">
+          <ul>
+            <li>
+              <div class="select_drp">
+                <select name="degree" id="degree" title="Select Degree">
+                  <option value="">Select a Degree</option>
+                                    <option value="2">Associate Degree</option>
+                                    <option value="3">Bachelor's Degree</option>
+                                    <option value="4">Master's Degree</option>
+                                    <option value="5">Doctorate Degree </option>
+                                    <option value="6">Certificate Programs &amp; Diploma</option>
+                                  </select>
+              </div>
+            </li>
             
-
-          </div>
-
-        </div>
-
-      </div>
-
-      <footer>
-
-        <div class="doc_width">
-
-          <div class="footer_top">
-
-            <div class="link_list">
-
-              <h2>Subjects</h2>
-
-              <ul>
-
-              	
-						 <li><a href="/art-fashion" title="Art and Design">Art and Design</a></li> 
-
-					  
-						 <li><a href="/business" title="Business ">Business </a></li> 
-
-					  
-						 <li><a href="/education" title="Education">Education</a></li> 
-
-					  
-						 <li><a href="/computers-it" title="Information Technology">Information Technology</a></li> 
-
-					  
-						 <li><a href="/criminal-justice-legal" title="Criminal justice">Criminal justice</a></li> 
-
-					  
-                <!--<li><a href="#" title="Subjects">Subjects</a></li>
-
-                <li><a href="#" title="Art & Fashion">Art & Fashion</a></li>
-
-                <li><a href="#" title="Business and MBA">Business and MBA</a></li>
-
-                <li><a href="#" title="Computers & Information Technology">Computers & Information Technology</a></li>
-
-                <li><a href="#" title="Criminal Justice">Criminal Justice</a></li>
-
-                <li><a href="#" title="Culinary">Culinary</a></li>-->
-
-              </ul>
-
-            </div>
-
-            <div class="link_list">
-
-              <h2>Degrees</h2>
-
-              <ul>
-
-              	
-						 <li><a href="/associate-degree" title="Associate Degree">Associate Degree</a></li> 
-
-					  
-						 <li><a href="/bachelor-degree" title="Bachelors Degree">Bachelors Degree</a></li> 
-
-					  
-						 <li><a href="/master-degree" title="Master Degree">Master Degree</a></li> 
-
-					  
-						 <li><a href="/doctrate-degree" title="Doctorate Degree ">Doctorate Degree </a></li> 
-
-					  
-						 <li><a href="/certificate-programs" title="Certificate Programs &amp; Diploma">Certificate Programs &amp; Diploma</a></li> 
-
-					  
-                <!--<li><a href="#" title="Certificate & Diploma">Certificate & Diploma</a></li>
-
-                <li><a href="#" title="Associate Degree">Associate Degree</a></li>
-
-                <li><a href="#" title="Bachelor's Degree">Bachelor's Degree</a></li>
-
-                <li><a href="#" title="Master's Degree">Master's Degree</a></li>
-
-                <li><a href="#" title="Doctorate Degree">Doctorate Degree</a></li>-->
-
-              </ul>
-
-            </div>
-
-            <div class="link_list">
-
-              <h2>Corporate</h2>
-
-              <ul>
-
-                <!--<li><a href="< ?=$frontpath?>/write-for-us.php" title="Write for DegreeNexus.com">Write for DegreeNexus.com</a></li>
-
-                <li><a href="< ?=$frontpath?>/top-choice-awards.php" title="Top Choice Award">Top Choice Award</a></li>-->
-
-                <li><a href="/about-us" title="About Us">About Us</a></li>
-
-                <li><a href="/terms" title="Terms">Terms</a></li>
-
-                <li><a href="/contact-us" title="Contact">Contact</a></li>
-
-              </ul>
-
-            </div>
-
-            <div class="social_bl">
-
-              <div class="logo2"><a href="" title="Home"><img src="/images/logo2.png" alt="Logo"></a></div>
-
-              <!--<div class="social"><a href="http://facebook.com" title="facebook"><img src="/images/social1.png" alt="facebook"></a><a href="http://twitter.com" title="twitter"><img src="/images/social2.png" alt="twitter"></a><a href="http://plus.google.com/" title="google"><img src="/images/social3.png" alt="google"></a></div>-->
-
-            </div>
-
-          </div>
-
-          <div class="footer_bottom">
-
-            <nav class="footer_nav"><a href="/about-us" title="About Us">About Us</a>|<a href="/contact-us" title="Contact Us">Contact Us</a>|<a href="/privacy" title="Privacy ">Privacy </a>|<a href="/sitemap" title="Sitemap">Sitemap </a></nav>
-
-            <div class="copyright">
-
-              <p>© 2017 DegreeNexus.com | All Rights Reserved</p>
-
-              <!--<p>Designed & Developed by <a href="http://www.glorywebs.com" title="Glorywebs" target="_blank" >Glorywebs.com <img src="images/glorywebs_icon.jpg" alt="Glorywebs_icon"></a></p>-->
-
-            </div>
-
-          </div>
-
-        </div>
-
-      </footer>
-
-      <nav id="menu"> 
-
-          <ul class="menu">
-
-          	<li class="first"><a href="/degree" title="Degrees" class="  ">Degrees</a>
-
-            	<ul>
-
-                
-
-                <div style="width: 88px;height: 10px;margin-top: -5px;margin-left: -5px;padding-right: 10px;border-top: 1px solid #F1F1F1;top: 4px;position: absolute;"></div>
-
-                
-
-                	
-						 <li class="firstili"><a class="firstili" href="/associate-degree" title="Associate Degree">Associate Degree</a></li> 
-
-					  
-						 <li><a href="/bachelor-degree" title="Bachelors Degree">Bachelors Degree</a></li> 
-
-					  
-						 <li><a href="/master-degree" title="Master Degree">Master Degree</a></li> 
-
-					  
-						 <li><a href="/doctrate-degree" title="Doctorate Degree ">Doctorate Degree </a></li> 
-
-					  
-						 <li class="lastili"><a class="lastili" href="/certificate-programs" title="Certificate Programs &amp; Diploma">Certificate Programs &amp; Diploma</a></li> 
-
-					  
-                </ul>
-
+            <li>
+              <div class="select_drp">
+                <select name="subject" id="subject" title="Select Subject">
+                  <option value="">Select a Subject</option>
+                                    <option value="7">Art and Design</option>
+                                    <option value="8">Business </option>
+                                    <option value="12">Criminal Justice</option>
+                                    <option value="9">Education</option>
+                                    <option value="14">Healthcare </option>
+                                    <option value="10">Information Technology</option>
+                                    <option value="15">Liberal Arts</option>
+                                    <option value="17">Nursing</option>
+                                    <option value="16">Vocational</option>
+                                  </select>
+              </div>
             </li>
+            
+             <li class="left ">
+                      <div class="select_drp">
+                    <select name="stype" id="stype" title="Select type">
 
-            	
+                      <option value="">Do you prefer online or campus?</option>
+                      <option value="online">Online</option>
+                      <option value="campus">Campus</option>
+                      <option value="eitherway">Either Way</option>
+                    </select>
+                    </div>
 
-            <li class="second"><a href="/subject" title="Subjects" class=" ">Subjects</a>
+                  </li>
 
-            	<ul>
-
-                
-
-                <div style="width: 89px;height: 10px;margin-top: -5px;margin-left: -5px;padding-right: 10px;border-top: 1px solid #F1F1F1;top: 4px;position: absolute;"></div>
-
-                
-
-                	
-						 <li class="firstili"><a class="firstili" href="/art-fashion" title="Art and Design">Art and Design</a></li> 
-
-					  
-						 <li><a href="/business" title="Business ">Business </a></li> 
-
-					  
-						 <li><a href="/education" title="Education">Education</a></li> 
-
-					  
-						 <li><a href="/computers-it" title="Information Technology">Information Technology</a></li> 
-
-					  
-						 <li><a href="/criminal-justice-legal" title="Criminal justice">Criminal justice</a></li> 
-
-					  
-						 <li><a href="/culinary-services" title="Culinary Arts ">Culinary Arts </a></li> 
-
-					  
-						 <li><a href="/health-medical" title="Healthcare ">Healthcare </a></li> 
-
-					  
-						 <li><a href="/liberal-art" title="Liberal Arts">Liberal Arts</a></li> 
-
-					  
-						 <li><a href="/trades-vocations" title="Vocational">Vocational</a></li> 
-
-					  
-						 <li class="lastili"><a class="lastili" href="/nursing" title="Nursing">Nursing</a></li> 
-
-					  
-                </ul>
-
+                  <li class="right half-drp zip-li" style="">
+                      <input type="text" class="textbox textbox1" placeholder="Enter Zipcode" id="zip" name="zipcode" maxlength="5" onkeypress="return checkno(event)" title="Enter Zipcode">
+                  </li>
+            <!--<li>
+              <div class="select_drp">
+                <select name="subject" id="subject" title="Select Subject">
+                  <option value="">Select a Subject</option>
+                                    <option value="art-fashion" >Art and Design</option>
+                                    <option value="business" >Business </option>
+                                    <option value="education" >Education</option>
+                                    <option value="computers-it" >Information Technology</option>
+                                    <option value="criminal-justice-legal" >Criminal Justice</option>
+                                    <option value="health-medical" >Healthcare </option>
+                                    <option value="liberal-art" >Liberal Arts</option>
+                                    <option value="trades-vocational" >Vocational</option>
+                                    <option value="nursing" >Nursing</option>
+                                  </select>
+              </div>
             </li>
-
-            <li class="third"><a href="/states" title="Colleges By State" class=" ">Colleges By State</a>
-
+            <li>
+              <input type="text" class="textbox textbox1"  value="Enter Zip Code"  onFocus="if(this.value=='Enter Zip Code') this.value='';"
+                                    
+                                                                    onblur="if(this.value=='') this.value='';" id="zip" name="zip" maxlength="5"  onkeypress="return checkno(event)"  title="Enter Zipcode" />
+            </li>-->
+            <li class="last">
+              <div class="sbmtbtn">
+                <button type="submit" class="trans orange_btn" value="Get Started Now"><span>Get Started Now</span></button>
+              </div>
             </li>
-
-            <li class="fourth"><a href="/online-colleges" title="Online Colleges" class=" ">Online Colleges</a></li>
-
-            <li class="fifth"><a href="/articles" title="Articles" class=" ">Articles</a>
-
-            	<ul>
-
-                
-
-                <div style="width: 87px;height: 10px;margin-top: -5px;margin-left: -5px;padding-right: 10px;border-top: 1px solid #F1F1F1;top: 4px;position: absolute;"></div>
-
-                
-
-                	
-						 <li class="firstili"><a class="firstili" href="/article/adult-learner.html" title="Adult Learner">Adult Learner</a></li> 
-
-					  
-						 <li><a href="/article/new-student.html" title="New Student">New Student</a></li> 
-
-					  
-						 <li><a href="/article/military.html" title="Military">Military</a></li> 
-
-					  
-						 <li><a href="/article/types-of-financial-aid.html" title="Types of Financial Aid">Types of Financial Aid</a></li> 
-
-					  
-						 <li class="lastili"><a class="lastili" href="/article/online-vs-campus.html" title="Online vs. Campus">Online vs. Campus</a></li> 
-
-					  
-                </ul>
-
-            </li>
-
-            </ul>
-
-          </nav>
-
+          </ul>
+        </form>
       </div>
     </div>
+  </div>
+  <div class="guidlist">
+    <h3 class="AEG_title">Articles and Education Guides</h3>
+    <ul>
+                                                 
+      <li class="AEG_finance"> 
+      
+      <img src="/UploadImage/articleicon_26.png" alt="">
+      
+      <a href="/article/types-of-financial-aid.html" title="Types of Financial Aid">
+        Types of Financial Aid        </a> </li>
+                                                 
+      <li class="AEG_finance"> 
+      
+      <img src="/UploadImage/articleicon_28.png" alt="">
+      
+      <a href="/article/online-vs-campus.html" title="Online vs. Campus">
+        Online vs. Campus        </a> </li>
+                                                 
+      <li class="AEG_finance"> 
+      
+      <img src="/UploadImage/articleicon_4.png" alt="">
+      
+      <a href="/article/adult-learner.html" title="Adult Learner">
+        Adult Learner        </a> </li>
+                                                 
+      <li class="AEG_finance"> 
+      
+      <img src="/UploadImage/articleicon_5.png" alt="">
+      
+      <a href="/article/new-student.html" title="New Student">
+        New Student        </a> </li>
+                                                 
+      <li class="AEG_finance"> 
+      
+      <img src="/UploadImage/articleicon_7.png" alt="">
+      
+      <a href="/article/military.html" title="Military">
+        Military        </a> </li>
+          </ul>
+  </div>
+  
+  				
+                </div>
+
+                                    
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+       
+
+		<!-- Footer Section CSS Here -->
+<footer>
+	<div class="main_footer">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-md-12">
+                	<div class="inner_footer">
+                    	<div class="footer_about">
+                        	
+                        	<div class="f_logo">
+                            <a href="" title="DegreeNexus">
+                             <img src="/images/newimg/f_logo.png" alt="DegreeNexus">
+                            </a>
+                           </div>
+                           <p>DegreeNexus.com focuses on one goal: to help students find the right 
+school. Our comprehensive list of partner schools and in-depth resources
+ equip students with the tools and knowledge they need to choose the 
+right educational path.</p>                        
+                        </div>
+                        <div class="sub_block">
+                        	<div class="f_title"><h4>Subjects</h4></div>
+                            <div class="f_cnt">
+                            	<ul>
+                                
+						 <li><a href="/art-fashion" title="Art and Design" class="trans">Art and Design</a></li> 
+
+					  
+						 <li><a href="/business" title="Business " class="trans">Business </a></li> 
+
+					  
+						 <li><a href="/education" title="Education" class="trans">Education</a></li> 
+
+					  
+						 <li><a href="/computers-it" title="Information Technology" class="trans">Information Technology</a></li> 
+
+					  
+						 <li><a href="/criminal-justice-legal" title="Criminal Justice" class="trans">Criminal Justice</a></li> 
+
+					  
+				
+                                	
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="deg_block">
+                        	<div class="f_title"><h4>Degrees</h4></div>
+                            <div class="f_cnt">
+                            <ul>
+                            								
+							    <li><a href="/associate-degree" title="Associate Degree" class="trans">Associate Degree</a></li> 
+		
+							  								
+							    <li><a href="/bachelor-degree" title="Bachelor's Degree" class="trans">Bachelor's Degree</a></li> 
+		
+							  								
+							    <li><a href="/master-degree" title="Master's Degree" class="trans">Master's Degree</a></li> 
+		
+							  								
+							    <li><a href="/doctrate-degree" title="Doctorate Degree " class="trans">Doctorate Degree </a></li> 
+		
+							  								
+							    <li><a href="/certificate-programs" title="Certificate Programs &amp; Diploma" class="trans">Certificate Programs &amp; Diploma</a></li> 
+		
+							  								</ul>
+                            </div>
+                        </div>
+                        <div class="cor_block">
+                        	<div class="f_title"><h4>Corporate</h4></div>
+                            <div class="f_cnt">
+                            	<ul>
+                                	<li><a href="/about-us" class="trans" title="About Us">
+                                    About Us</a></li>
+                                    <li><a href="/terms" class="trans" title="Terms">Terms</a></li>
+                                    <li><a href="/contact-us" class="trans" title="Contact">Contact</a></li>
+                                   
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="last_footer">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-md-12">
+                	<div class="inner_Lfooter">
+                    	<div class="left_barF">
+                       
+                        <p> © 2019 DegreeNexus.com | All Rights Reserved</p>
+                        </div>
+                        <div class="Right_barF">
+                        	<ul>
+                            	<li><a href="/about-us" class="trans" title="About Us">About Us  </a></li>
+                                <li><a href="/contact-us" class="trans" title="Contact Us">Contact Us</a></li>
+                                <li><a href="/privacy" class="trans" title="Privacy">Privacy</a></li>
+                                <li><a href="/sitemap" class="trans" title="Sitemap">Sitemap</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Footer Section CSS Here -->
+ 
+</div>
 
 
 
 
+    <script>
+      var loadDeferredStyles = function() {
+        var addStylesNode = document.getElementById("deferred-styles");
+        var replacement = document.createElement("div");
+        replacement.innerHTML = addStylesNode.textContent;
+        document.body.appendChild(replacement)
+        addStylesNode.parentElement.removeChild(addStylesNode);
+      };
+      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+          webkitRequestAnimationFrame || msRequestAnimationFrame;
+      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+      else window.addEventListener('load', loadDeferredStyles);
+    </script>
 
-</body></html>
+
+
+ 
+ <div>
+      
+      <link rel="stylesheet" type="text/css" href="/css/newcss/alertify.min.css">
+      <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,500,600,700,800,900" rel="stylesheet">
+</div></body></html>
