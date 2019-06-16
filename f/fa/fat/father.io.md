@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the father.io privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204134701id_/http%3A//father.io/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the father.io privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616193556id_/http%3A//father.io/privacypolicy.html) for the most accurate reproduction.*
 
 # Father.IO - Real Life Massive Multiplayer
 
