@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbvie.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818114349id_/https%3A//www.abbvie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbvie.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616082405id_/https%3A//www.abbvie.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | AbbVie
 
@@ -142,7 +142,7 @@ North Chicago, IL  60064-6163
 In all communications to AbbVie, please include the email address used for registration (if applicable), the Web site address, mobile application, or the specific AbbVie program to which you provided Personal Information (e.g., AbbVie.com), and a detailed explanation of your request. If you would like to delete, amend, or correct your Personal Information and are contacting us by email, please put “Deletion Request” or “Amendment/Correction Request” in the subject line of the email. We will respond to all reasonable requests in a timely manner and may need to further confirm your identity in order to process certain requests.
 
 For EU Residents, under applicable data protection law, you  
-may be entitled to request access to and/or rectify, block, or delete your Personal Data, transmission to another controller, withdraw your consent at any time (this does not affect the lawfulness of previous data processing activities), or object to any use of Personal Data. If AbbVie will not be able to provide the requested information or make the change you request, you will be provided with reasons for such decision. Under local law you are also entitled to lodge a complaint with your local data protection authority. Please submit your privacy inquiries [here](https://www.abbvie.com/privacy-inquiry.html).
+may be entitled to request access to and/or rectify, block, or delete your Personal Data, transmission to another controller, withdraw your consent at any time (this does not affect the lawfulness of previous data processing activities), or object to any use of Personal Data. If AbbVie will not be able to provide the requested information or make the change you request, you will be provided with reasons for such decision. Under local law you are also entitled to lodge a complaint with your local data protection authority. Please submit your privacy inquiries [here](https://web.archive.org/privacy-inquiry.html).
 
 Alternatively, you may send a letter to Knollstraße, 67061  
 Ludwigshafen, Germany (attention: EU DPO).
@@ -166,3 +166,5 @@ This site is owned and operated by AbbVie in the United States, but the informat
 We will only use Personal Information in the manner described in the Privacy Notice in effect when the information was collected from you or as authorized by you. However, and subject to any applicable consent requirements, we reserve the right to change the terms of this Privacy Notice at any time. Any changes to this Privacy Notice will be reflected on this page with a new effective date. AbbVie encourages you to review this Privacy Notice regularly for any changes. Any Personal Information collected upon your continued use of AbbVie Services will be handled in accordance with the currently-posted Privacy Notice.
 
 Check this Privacy Notice regularly, as we may change or update portions of this Privacy Notice from time to time, subject to any applicable consent requirements. Any changes will be promptly posted to this page and accompanied by a new effective date at the top of this page.
+
+### Other countries:
