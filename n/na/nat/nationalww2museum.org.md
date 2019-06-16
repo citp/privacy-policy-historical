@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalww2museum.org privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903085931id_/https%3A//www.nationalww2museum.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalww2museum.org privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616093122id_/https%3A//www.nationalww2museum.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The National WWII Museum | New Orleans
 
