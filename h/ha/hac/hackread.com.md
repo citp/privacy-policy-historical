@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackread.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918160722id_/https%3A//www.hackread.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackread.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616023314id_/https%3A//www.hackread.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HackRead
 
