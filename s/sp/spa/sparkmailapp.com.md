@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sparkmailapp.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203014845id_/https%3A//sparkmailapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkmailapp.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616220151id_/https%3A//sparkmailapp.com/privacy) for the most accurate reproduction.*
 
-# The best email app for iPhone, iPad and Mac | Spark
+# The best email app for iOS, Mac and Android | Spark
 
   1. Our details as the data controller
   2. Information we collect and how we use this information
