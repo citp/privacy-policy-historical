@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dekhnews.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819095240id_/https%3A//www.dekhnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dekhnews.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616144507id_/https%3A//www.dekhnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dekh News
 
@@ -54,6 +54,6 @@ By using our site, you consent to our privacy policy.
 
 If you have any questions regarding this privacy policy, the practices of this website or your dealings with this website, you can contact with us at  **dekhnews** **@gmail.com**
 
-**http://www.dekhnews.com**  
+**https://www.dekhnews.com**  
 Delhi  
 India
