@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vendio.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206141607id_/http%3A//www.vendio.com/ecommerce/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendio.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616221735id_/http%3A//www.vendio.com/ecommerce/terms/privacy) for the most accurate reproduction.*
 
 # Vendio Privacy Statement
 
@@ -73,7 +73,7 @@ You may at any time review and change your personally identifiable information a
 Vendio uses industry standard efforts such as firewalls and Secure Socket Layers to safeguard the confidentiality of your personally identifiable information. However, even the most robust security systems are not foolproof and users should consider this when revealing any personally identifiable information to any party over any form of media.  **9\. Opting Out**  
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. However, if a user decides at any time not to receive future communications, the user may remove their information from our database by sending an email [using this form](http://www.vendio.com/ecommerce/contact). **10\. General Data Protection Regulation (GDPR)**
 
-If you are a resident of the European Union ("EU") including the United Kingdom, you may have additional rights under the EU General Data Protection Regulation (the "GDPR") with respect to your Personal Data, as outlined below. For this section, we use the terms "Personal Data" and "processing" as they are defined in the GDPR, but "Personal Data" generally means information that can be used to individually identify a person, and "processing" generally covers actions that can be performed in connection with data such as collection, use, storage and disclosure. Vendio will be the controller of your Personal Data processed in connection with our Services. Note that we may also process Personal Data of our user's customers in connection with our provision of services to customers, in which case we are the processor of Personal Data. If we are the processor of your Personal Data (i.e. not the controller), please contact the controller party in the first instance to address your rights with respect to such data. If there are any conflicts between this section and any other provision of this Privacy Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at [privacy@corp.vendio.com](mailto:privacy@corp.vendio.com) or send a written request to Vendio Services, LLC, 152 W. 25th St. 12th Floor, New York, NY 10001. 
+If you are a resident of the European Union ("EU") including the United Kingdom, you may have additional rights under the EU General Data Protection Regulation (the "GDPR") with respect to your Personal Data, as outlined below. For this section, we use the terms "Personal Data" and "processing" as they are defined in the GDPR, but "Personal Data" generally means information that can be used to individually identify a person, and "processing" generally covers actions that can be performed in connection with data such as collection, use, storage and disclosure. Vendio will be the controller of your Personal Data processed in connection with our Services. Note that we may also process Personal Data of our user's customers in connection with our provision of services to customers, in which case we are the processor of Personal Data. If we are the processor of your Personal Data (i.e. not the controller), please contact the controller party in the first instance to address your rights with respect to such data. If there are any conflicts between this section and any other provision of this Privacy Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at [privacy@corp.vendio.com](mailto:privacy@corp.vendio.com) or send a written request to Vendio Services, LLC, 214 W. 29th Street, 2nd Floor, New York, NY 10001. 
 
 **10.1 What Personal Data Do We Collect From You?**
 
@@ -123,8 +123,8 @@ If you have any questions about this privacy statement, or the privacy practices
 You can also contact us at: 
 
 Vendio Services, LLC  
-152 W. 25th St.  
-12th Floor  
+214 W. 29th Street  
+2nd Floor  
 New York, NY 10001  
 
 
