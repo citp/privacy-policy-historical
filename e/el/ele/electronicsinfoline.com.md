@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicsinfoline.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215014715id_/http%3A//electronicsinfoline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsinfoline.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616060516id_/http%3A//www.electronicsinfoline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronics Infoline
 
