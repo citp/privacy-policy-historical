@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theprodigy.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125020519id_/http%3A//theprodigy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprodigy.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616141248id_/https%3A//theprodigy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Prodigy
 
@@ -31,7 +31,7 @@ Protecting our users’ personal data is an important concern for [The Prodigy] 
 
 (b) to provide assessment and analysis (e.g. **customer, promotional and market analysis** ) to enable us to review, develop and improve the services and products that we offer;
 
-(c) to monitor customer traffic patterns and Site usage to help us enhance your enjoyment during the online experience; for further information on the use of data for **web analytics** and marketing purposes please refer to our [cookie policy](http://theprodigy.com/2018/cookies/);
+(c) to monitor customer traffic patterns and Site usage to help us enhance your enjoyment during the online experience; for further information on the use of data for **web analytics** and marketing purposes please refer to our [cookie policy](https://theprodigy.com/2018/cookies/);
 
 (d) to respond to your enquiries and to fulfil your requests (e.g. to send you **newsletters** or to provide you with information about our products, content and services);
 
@@ -75,7 +75,7 @@ TRANSFER OF DATA TO OUTSIDE EEA
 The information we collect from you may be transferred to, processed and stored at a destination outside the European Economic Area (“EEC”), e.g. when we transfer data to third parties or members of BMG’s group of companies. The Recipients outside the EEA are either Privacy Shield certified or bound by Standard Contractual Clauses of the EU Commission for the protection of personal data, or they are located in countries in regard to which the EU Commission issued an adequacy decision according to Art. 45. GDPR.
 
 COOKIES  
-A “cookie” is a small text file deposited on your device’s hard drive when you access a website. We may use cookies to monitor your use of the Site and to customise your experience of it. For further details, please refer to our [cookies policy](http://theprodigy.com/2018/cookies/).
+A “cookie” is a small text file deposited on your device’s hard drive when you access a website. We may use cookies to monitor your use of the Site and to customise your experience of it. For further details, please refer to our [cookies policy](https://theprodigy.com/2018/cookies/).
 
 THIRD-PARTY LINKS  
 The Site may contain links to other sites not owned or controlled by us. We are not responsible for the content of any such site, the site operator’s privacy policy or how the site operator treats information (personal or otherwise) obtained from users of the site. We advise you to check this site’s privacy policy to satisfy yourself as to how the site operator will treat any such information.
