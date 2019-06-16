@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patternreview.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004162022id_/https%3A//sewing.patternreview.com/cgi-bin/showpage.pl%3Fvar%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patternreview.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616223601id_/https%3A//sewing.patternreview.com/cgi-bin/showpage.pl%3Fvar%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy at PatternReview.com
 
@@ -65,39 +65,32 @@ Effective as of November 16, 2016
 Selected Reviews, Classes & Patterns 
 
 **Online Class**  
-Sew a Designer Unlined Jacket   
-[](https://web.archive.org/cgi-bin/sewingclasses/class.pl?id=132)
+Beginners Guide to Dyeing Fabrics   
+[](https://web.archive.org/cgi-bin/sewingclasses/class.pl?id=138)
 
-~~$49.00~~ **$19.99**  
-[Sewing Class](https://web.archive.org/cgi-bin/sewingclasses/class.pl?id=132)
+~~$49.00~~ **$15.00**  
+[Sewing Class](https://web.archive.org/cgi-bin/sewingclasses/class.pl?id=138)
 
- **Online Class**  
-Bringing Garments to Life   
-[](https://web.archive.org/cgi-bin/sewingclasses/class.pl?id=161)
+Simplicity 8310  
+[](https://sewing.patternreview.com/review/pattern/21435)
 
-~~$39.00~~ **$25.00**  
-[Sewing Class](https://web.archive.org/cgi-bin/sewingclasses/class.pl?id=161)
+by: OP Gal
 
-McCall's 6503  
-[](https://sewing.patternreview.com/review/pattern/77847)
+[Review](https://sewing.patternreview.com/review/pattern/21435)
 
-by: konniekapo...
+Vogue Patterns 2920  
+[](https://sewing.patternreview.com/review/pattern/114145)
 
-[Review](https://sewing.patternreview.com/review/pattern/77847)
+by: arianamani...
 
-Other My Own  
-[](https://sewing.patternreview.com/review/pattern/45795)
+[Review](https://sewing.patternreview.com/review/pattern/114145)
 
-by: williamsgr...
+Victoria Jones Collection Pattern 101  
+[](https://sewing.patternreview.com/Patterns/57407)
 
-[Review](https://sewing.patternreview.com/review/pattern/45795)
+$14.25[Pattern](https://sewing.patternreview.com/Patterns/57407)
 
-SewBaby One Piece Reversible Sundress Pattern  
-[](https://sewing.patternreview.com/patterns/12005)
+Islander Sewing Systems Men's Designer Dress Shirt Pattern  
+[](https://sewing.patternreview.com/Patterns/38549)
 
-$8.95[Pattern](https://sewing.patternreview.com/patterns/12005)
-
-Indygo Junction Very Mary Apron Pattern  
-[](https://sewing.patternreview.com/Patterns/83167)
-
-$11.69[Pattern](https://sewing.patternreview.com/Patterns/83167)
+$9.98[Pattern](https://sewing.patternreview.com/Patterns/38549)
