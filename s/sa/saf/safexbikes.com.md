@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safexbikes.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127011827id_/http%3A//www.safexbikes.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safexbikes.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616215959id_/http%3A//www.safexbikes.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Safexbikes Motorcycle Superstore - Our Privacy Policy
 
@@ -59,8 +59,9 @@ If you have any questions about this Privacy Policy, the practices of this site,
   * SZ motorcycle industries
   * safexbikes.com
   * SZ Motorcycle Industries, 1529/27, Naiwala, Karol Bagh, NEW DELHI - 110005
-  * 9873151505,9210189229
-  * info@safexbikes.com
+  * 9811281505
+  * 9999551505 (Whatsapp)
+  * support@safexbikes.com
 
 
 
