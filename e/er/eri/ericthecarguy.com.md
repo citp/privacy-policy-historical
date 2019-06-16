@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ericthecarguy.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531120613id_/http%3A//www.ericthecarguy.com/8-main-page/41-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericthecarguy.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616153507id_/https%3A//www.ericthecarguy.com/8-main-page/41-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EricTheCarGuy- Stay Dirty!
 
