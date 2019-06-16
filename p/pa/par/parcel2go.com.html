@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the parcel2go.com privacy policy that was archived on 2018-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230114710id_/https%3A//www.parcel2go.com/content/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parcel2go.com privacy policy that was archived on 2019-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190616095036id_/https%3A//www.parcel2go.com/content/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="parcel2go inline-validation website-1 language-1"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <!-- EC2AMAZ-CN2LJMP -->
+    <!-- EC2AMAZ-5HEQ0RF -->
     
     
     
@@ -16,6 +16,7 @@
     <meta name="description" content="Parcel2Go Privacy Policy">
     <title>Privacy Policy | Parcel2Go</title>
 
+
             <link rel="canonical" href="https://www.parcel2go.com/content/privacy-policy.aspx">
             <link rel="alternate" href="https://www.parcel2go.com/content/privacy-policy.aspx" hreflang="en">
             <link rel="alternate" href="https://www.parcel2go.com/ie/content/privacy-policy.aspx" hreflang="en-ie">
@@ -26,6 +27,7 @@
     <meta property="og:description" content="Parcel2Go Privacy Policy">
 <meta property="p2g:basepath" content="/">
 
+
 <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
 <link rel="icon" type="image/png" href="/images/favicons/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="/images/favicons/favicon-16x16.png" sizes="16x16">
@@ -35,11 +37,11 @@
 <meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 
-<link href="/bundles/styles/layout?v=FP4pviAlXWvqFq_0xILkcPHfm-GNRtVBfFhet505FWY1" rel="stylesheet">
+<link href="/bundles/styles/layout?v=ZYQSaNoOIMc24vvZYTc3Bs0eqSTtYCHss3AS5Z90jZs1" rel="stylesheet">
 
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MRQ65H"></script><script src="/Scripts/tools/stacktrace/stacktrace.min.js" async=""></script>
 
-<script src="/bundles/scripts/common?v=506MH3yiXvs2nqtyv2xT8Qgw14wJFpmi93QqkZZbbVg1"></script>
+<script src="/bundles/scripts/common?v=7arjgXOr-Q-LKjZPgqZaZs0RMOxk81lcV_IUvdzA3pk1"></script>
 
 
 <script src="https://www.google.com/recaptcha/api.js?onload=recaptchaSetup&amp;render=explicit" async="" defer="defer"></script>
@@ -62,7 +64,7 @@
     
     
     
-    <link href="/bundles/styles/quote-results?v=M7hHC7nE2ULOvdOYUOD5xuJ80ZqVCOs9Ff__dLzrQFo1" rel="stylesheet">
+    <link href="/bundles/styles/quote-results?v=0FDLCbTPDyIXvJALkwV0xRs02GvsY-2SQMxqmIqM4w01" rel="stylesheet">
 
 
 
@@ -199,13 +201,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             url: "/header",
             success: function (data) {
                 $("#header-top")
-                    .html(data)
+                    .replaceWith(data)
                     .show();
 
                 MoreToggleOnClick();
                 ToggleTrackingOnClick();
             }
         });
+    });
+
+    $(document).bind("header.loaded", function (e, args) {
+        if (args !== undefined) {
+            if (args.showHowItWorks) {
+                $("#how-it-works").show();
+            }
+
+            $(args.showAutoSend ? "#auto-send" : "#smart-send").show();
+
+            if (args.showMarketingOptIn && typeof marketingOptInBanner !== 'undefined') {
+                marketingOptInBanner();
+            }
+        }
     });
 </script>
 
@@ -827,6 +843,8 @@ BL3 6BU</p>
     </div>
 </div>
 
+
+
 <footer>
     <div class="footer navbar navbar-bottom">
         <div class="container visible-sm visible-md visible-lg">
@@ -842,10 +860,11 @@ BL3 6BU</p>
                                 <li class="hidden-xs"><a href="/couriers">Our Couriers</a></li>
                                 <li><a href="/content/about-terms.aspx">Terms &amp; Conditions</a></li>
                                 <li class="hidden-xs"><a href="/content/jobs/default.aspx">Careers</a></li>
-                                <li><a href="/helpcentre">FAQs</a></li>
+                                <li><a href="/help-centre">FAQs</a></li>
                                 <li class="hidden-xs"><a href="/content/parcel2go-discount.aspx">Discount Policy</a></li>
                                 <li class="hidden-xs"><a href="/content-hub">Content Hub</a></li>
                                 <li><a href="/content/returns">Returns</a></li>
+                                <li><a href="/content/modern-slavery-statement">Statement on Modern Slavery</a></li>
                             </ul>
                         </div>
                         <div class="col-md-6 col-sm-12 hidden-xs footer-segment">
@@ -937,7 +956,7 @@ BL3 6BU</p>
                                 <li class="hidden-xs"><a href="/couriers">Our Couriers</a></li>
                                 <li><a href="/content/about-terms.aspx">Terms &amp; Conditions</a></li>
                                 <li class="hidden-xs"><a href="/content/jobs/default.aspx">Careers</a></li>
-                                <li><a href="/helpcentre">FAQs</a></li>
+                                <li><a href="/help-centre">FAQs</a></li>
                                 <li class="hidden-xs"><a href="/content/parcel2go-discount.aspx">Discount Policy</a></li>
                                 <li class="hidden-xs"><a href="/content-hub">Content Hub</a></li>
                                 <li><a href="/content/returns">Returns</a></li>
@@ -984,7 +1003,7 @@ BL3 6BU</p>
             <div class="footer-print">
                 <hr>
                 <div class="footer-details">
-                    © Parcel2Go.com Ltd 1995-2018 All Rights Reserved. <span class="spacer">|</span> Company Number: 02591405 <span class="spacer">|</span> VAT Number: 597 8491 61
+                    © Parcel2Go.com Ltd 1995-2019 All Rights Reserved. <span class="spacer">|</span> Company Number: 02591405 <span class="spacer">|</span> VAT Number: 597 8491 61
                 </div>
                 <div class="footer-navigation">
                     <a href="/content/about-terms.aspx">Terms &amp; Conditions</a> <span class="spacer">|</span>
