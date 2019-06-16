@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powtoon.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722112207id_/https%3A//www.powtoon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powtoon.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616141709id_/https%3A//www.powtoon.com/privacy-policy) for the most accurate reproduction.*
 
-# Powtoon | Create Awesome Videos Yourself
+# Privacy Policy | Powtoon
 
 ## About Us
 
@@ -38,7 +38,10 @@ The information we collect will only be used in the following ways:
 
 Even if you consented to receiving our periodic emails, you can at any time opt out of receiving these emails by either:
 
-  1. Click the “Unsubscribe" link which appears at the bottom of every email we send you, or
+  1. Clicking the “Manage your communication & personalization settings" link which appears at the bottom of every email to edit your settings.
+
+Or
+
   2. In your account: access the Communication Settings Center and opt out of receiving any such periodic emails from us.
 
 
@@ -67,6 +70,8 @@ We also use cookies to help us remember and process the items in your shopping c
 We store such cookies for a period of 14 days, after which such cookies are deleted.
 
 In addition, we contract third party service providers to assist us in gaining a better understanding of the way users visit and use our website. We do this through the use of such third party service providers' cookies, which are placed on your browser when you log in to our website. Such providers can then analyze the data included in such cookies to provide us with valuable insights, such as the average number of visitors to the website or the preferred browser language of most users.
+
+Visit [http://www.aboutcookies.org](http://www.aboutcookies.org/ "aboutcookies.org") for a guide on how to control and delete cookies on a wide range of web browsers and operating systems.
 
 ## Do We Disclose Any of Your Personal Information to Outside Parties?
 
