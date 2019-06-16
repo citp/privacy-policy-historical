@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpocketbook.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910044050id_/https%3A//getpocketbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpocketbook.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616192018id_/https%3A//getpocketbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pocketbook
 
