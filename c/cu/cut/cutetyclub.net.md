@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutetyclub.net privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213130246id_/http%3A//cutetyclub.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutetyclub.net privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616022007id_/http%3A//cutetyclub.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Cutety Club
 
