@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kp.gov.pk privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211154234id_/http%3A//kp.gov.pk/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kp.gov.pk privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616152220id_/http%3A//kp.gov.pk/page/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,13 @@
 
 * * *
 
- **KHYBERPAKHTUNKHWA.GOV.PK**  is committed to protecting your privacy and to making your online experience secure, comfortable, valuable and pleasant.
+[http://kp.gov.pk](http://kp.gov.pk/) is committed to protecting your privacy and to making your online experience secure, comfortable, valuable and pleasant.
 
 We do not collect any information about you unless you choose to provide that information. We may share necessary data with other Government agencies and departments. However, information collected by us is used only for official purposes, internal reviews, improvement of the content of our Website, customization of the content and layout of our Website and to contact users. We do not use, share or pass on your information for commercial purposes.
 
 All record keepers face the possibility of disclosure of their records in some civil, criminal, or administrative matter. Government of Khyber Pakhtunkhwa could be required to disclose personal information in response to valid legal processes such as a search warrant, subpoena, or court order. Disclosures may also be necessary to protect the Government's legal rights or during emergencies if physical safety is believed to be at risk.   
 **  
-What Information About Users Does WWW.KHYBERPAKHTUNKHWA.GOV.PK Collect?**  
+What Information About Users Does [http://kp.gov.pk](http://kp.gov.pk/) Collect?**  
 We consider any information that could reasonably be used to identify you as "personally identifying information." The Government of Khyber Pakhtunkhwa does not retain personally identifiable information about you when you visit our Website unless you choose to provide such information to us (i.e. sending an e-mail, registering as a user, participating in a survey, responding to a feedback or "contact us" form, etc.)  
 Government departments, agencies and organizations may request personally identifiable information from you in order to provide requested services however, such information is handled as in the case of an in-person visit to that same department, agency or organization.   
 **  
