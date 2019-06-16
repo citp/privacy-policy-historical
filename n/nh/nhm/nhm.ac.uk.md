@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhm.ac.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227145329id_/http%3A//www.nhm.ac.uk/about-us/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhm.ac.uk privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616211025id_/http%3A//www.nhm.ac.uk/about-us/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy notice | Natural History Museum
 
@@ -60,13 +60,15 @@ We may use your data to contact you by email (if you have given us your consent 
 
 ### Cookies and tracking
 
-When you visit www.nhm.ac.uk _,_  nhmshop.co.uk, data.nhm.ac.uk or any of the Museum's websites, we collect standard internet log information and details of visitor behaviour patterns. We do this to find out, for example, the number of visitors to the various parts of the site, to compile statistical reports on website activity and to personalise our visitors' website experience.
+When you visit www.nhm.ac.uk _,_  nhmshop.co.uk, data.nhm.ac.uk or any of the Museum's websites, we collect standard internet log information and details of visitor behaviour patterns. We do this to find out, for example, the number of visitors to the various parts of the site, to compile statistical reports on website activity and to personalise our visitors' website experience. We also use similar technologies when sending marketing emails to understand which emails are being read and how customers interact with them.
 
 Cookies are text files placed on your computer to collect this information. You can set your browser to not accept cookies and you can remove cookies from your browser. However, in a few cases some of our website features may not function as a result. You can read more about how we use cookies and how to disable them on our [cookies page](http://www.nhm.ac.uk/about-us/cookies.html).
 
-We use advertising cookies from third parties to allow us to assess the effectiveness of our adverts, and to optimise our digital advertising. These cookies can affect what you see on third party sites. Advertising cookies remember that you have visited a website and use that information to provide you with advertising which is tailored to your interests. This is often called online behavioural advertising (OBA) and is done by grouping together shared interests based upon web browsing history. It is important to note that at no time do we or our service providers attempt to identify you individually nor do we create a profile of you, or the pages you have viewed, for the purposes of delivering advertising.
+We use advertising cookies from third parties to allow us to assess the effectiveness of our adverts, and to optimise our digital advertising. These cookies can affect what you see on third party sites. Advertising cookies remember that you have visited a website and use that information to provide you with advertising which is tailored to your interests. This is often called online behavioural advertising (OBA) and is done by grouping together shared interests based upon web browsing history. 
 
-A guide to behavioural advertising and online privacy has been produced by the internet advertising industry which can be found at [www.youronlinechoices.eu.](https://web.archive.org/web/20181227145329id_/http%3A//www.nhm.ac.uk/about-us/www.youronlinechoices.eu.)
+It is important to note that at no time do we or our service providers attempt to identify you individually, nor do we create a profile of you, or the pages you have viewed, for the purposes of delivering advertising without given consent to email marketing, and in turn profiling for the purposes of delivering information that is relevant.
+
+A guide to behavioural advertising and online privacy [has been produced by the internet advertising industry](http://www.youronlinechoices.eu/).
 
 For details on the third-party cookies we use, and how to disable them, see our [Cookie Policy](http://www.nhm.ac.uk/about-us/cookies.html).
 
@@ -122,9 +124,9 @@ It is within the Museum's legitimate interests to hold and analyse your data to 
 
 Visitor analytics data is collected on an anonymous basis wherever possible, or pseudonymised so that individuals cannot be readily identified. This includes monitoring visitor numbers and tracking movement of people and collections of individuals around the Museum. (For more information see sections on cookies and Wi-Fi.)
 
-We carry out customer analytics to improve our understanding of our target audiences. We do this by analysing your commercial transactions (eg ticket and retail purchases) and activities (eg email interaction with the Museum, use of Museum Wi-Fi). This helps us target our marketing more efficiently, and personalise and improve your experience if you have consented to receive marketing from us, by providing the most relevant and timely content.  
+We carry out customer analytics to improve our understanding of our target audiences. We do this by analysing your commercial transactions (eg ticket and retail purchases) and activities (eg email interaction with the Museum, such as which emails you open and how often, use of Museum Wi-Fi including via [cookies and similar technologies](http://www.nhm.ac.uk/about-us/cookies.html)). This helps us target our marketing more efficiently, understand what topics you are interested in, and personalise and improve your experience if you have consented to receive marketing from us, by providing the most relevant and timely content.  
 
-You can object to our carrying out this kind of activity for marketing purposes by using [this form](https://web.archive.org/content/dam/nhmwww/about-us/SAR_form_April%202018.docx), and we will review our basis for doing so in your case. Please note that objecting to this activity will mean that you are automatically unsubscribed from marketing.
+You can object to our carrying out this kind of activity for marketing purposes by using this form, and we will review our basis for doing so in your case. Please note that objecting to this activity will mean that you are automatically unsubscribed from marketing.
 
 Prospect research (that is, building up a profile of a particular individual, their interests, suitability and likelihood they will donate to the Museum) is fundamental to the ability to generate income through fundraising, as the Museum is expected to do.  We may therefore analyse personal information collected from you, from publicly available sources and occasionally from third parties, to create a profile of your interests and preferences.
 
@@ -220,4 +222,4 @@ If you are not satisfied by the response to your complaint, you are entitled to 
 
 We keep our privacy notice under regular review. Please visit this page periodically in order to keep up to date with any changes.
 
-This privacy notice was last updated on 17 October 2018.
+This privacy notice was last updated on 25 February 2019.
