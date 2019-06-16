@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the movophoto.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426075738id_/https%3A//www.movophoto.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movophoto.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617012858id_/https%3A//www.movophoto.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Movo Photo
-
-PRIVACY STATEMENT
 
 \----
 
@@ -75,4 +73,4 @@ If our store is acquired or merged with another company, your information may be
 QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact us at support@movophoto.com  
-\----
+\---- 
