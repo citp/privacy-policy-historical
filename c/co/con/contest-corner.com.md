@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contest-corner.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121080208id_/http%3A//www.contest-corner.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contest-corner.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616110143id_/http%3A//www.contest-corner.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Contest Corner: For a Winning Lifestyle
+# Privacy Policy | Contest Corner
 
 This Privacy Policy governs the manner in which Contest Corner collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.contest-corner.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Contest Corner.
 
@@ -32,11 +32,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Contest Corner may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To run a promotion, contest, survey or other Site feature_  
+  * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive. Winners of giveaways hosted on Contest Corner will be asked to provide their mailing information in order to fulfill their prize. Winners may opt-out and forfeit their prize if they do not wish to provide this information. Winner’s shipping information will be provided to the sponsor of the giveaway who is handling prize fulfillment. Contest Corner is not responsible for the privacy policies maintained by these third-party sponsors.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
