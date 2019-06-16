@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chicagodefender.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020010549id_/https%3A//chicagodefender.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagodefender.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616080957id_/https%3A//chicagodefender.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Chicago Defender
+# Privacy Policy | Chicago Defender
 
 June 12, 2008
 
@@ -30,7 +30,7 @@ This Web site may make chat rooms, forums and message boards available to our us
 
 We store the information we collect from you on limited access servers, and we take steps to maintain the security of our servers and to protect your PII from unauthorized disclosure. However, even reasonable security measures do not guarantee the security of any information you transmit via the Internet, including to Chicago Defender.
 
-**Consent to Transfer  **
+**Consent to Transfer**
 
 This Web site is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using this Web site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
@@ -38,6 +38,8 @@ This Web site is operated in the United States. If you are located in the Europe
 
 By using this Web site, you agree to the terms of this Privacy Policy. Chicago Defender reserves the right to modify, alter or otherwise update this Privacy Policy at any time. We will post any changes here, so be sure to check back from time to time. Of course, unless you consent otherwise, we will use your PII consistent with the Privacy Policy in effect at the time you submitted your PII.
 
-**Contact Us  **If you have any questions, comments or concerns about our Privacy Policy, please contact [svaughn@chicagodefender.com.](https://mailto:svaughn@chicagodefender.com/)
+**Contact Us  **If you have any questions, comments or concerns about our Privacy Policy, please contact [svaughn@chicagodefender.com.](mailto:svaughn@chicagodefender.com)
 
 The effective date of this Privacy Policy is June 12, 2008.
+
+Copyright © 2019. Real Times Media. All Rights Reserved.
