@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unijokes.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117172606id_/http%3A//unijokes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unijokes.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616155158id_/https%3A//unijokes.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Unijokes.com
 
@@ -58,7 +58,3 @@ When it comes to the collection of personal information from children under 13 p
 
 
 Last edited: 2016-09-24
-
-* * *
-
-* * *
