@@ -1,73 +1,381 @@
-> *The following text is extracted and transformed from the anarchy-online.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830103330id_/https%3A//www.funcom.com/corporate/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anarchy-online.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616182338id_/https%3A//www.funcom.com/corporate/privacy_policy) for the most accurate reproduction.*
 
-# funcom.com | Funcom Privacy Policy
+# Privacy Policy - Funcom
 
-[](https://web.archive.org/corporate/privacy_policy_german) [](https://web.archive.org/corporate/privacy_policy_french) [](https://web.archive.org/corporate/privacy_policy_spanish)
+**Privacy Policy**
 
-Funcom takes the privacy of its customers seriously and wants you to understand how and why it collects, uses and maintains the privacy of your personal information. This Privacy Policy is part of the Terms of Use for the Services offered by Funcom. Funcom is not responsible or liable for any third party websites not under the control of Funcom, accessible through the Game or from Funcom controlled websites. This Privacy Policy does not apply to such third party websites. Accessing Funcom’s website implies acceptance of the Funcom Privacy Policy.
+**Effective date: 29 January 2019**
 
-### What information does Funcom collect?
+Funcom Oslo AS and its subsidiaries and affiliates including Funcom Inc ("us", "we", or "our") operates the https://www.funcom.com/privacy-policy/ website (hereinafter referred to as the "Service") as well as the following websites:
 
-Personal Information: Funcom collects information you voluntarily provide during the registration process in order to grant you access to products and service provided by Funcom and its affiliates. This "Personal Information" may include your name, your address, your email, and payment details such as credit card information. Funcom uses this information to collect payments and to provide access to our products and services.
+[www.funcom.com](https://www.funcom.com/)
 
-Computer Information: Funcom may collect and store your internet protocol address.  As noted in individual game's End User License Agreements and/or Terms of Service. We may use this information to remotely check your computer to determine if any “Restricted Software” (as such term is defined in the EULA) is installed or if any necessary software patches supplied by Funcom have been installed.
+<https://www.secretworldlegends.com/>
 
-Chat Room Information: Funcom may monitor any Chat room on the Funcom website(s) for the purpose of determining whether a violation of the Chat room guidelines has occurred and to take appropriate action as we deem reasonably necessary. Funcom encourages you not to use your real name or disclose personal information in a Chat room – once posted any personal information will no longer be private.
+[www.anarchy-online.com](http://www.anarchy-online.com/)
 
-Non-personal Information: Funcom may from time to time collect information such as number of players on-line for a particular time period, number of players by country, and average session length on an aggregated basis. This non-personal information does not specifically identify you or any other single user.
+<https://www.ageofconan.com/>
 
-### How do we protect your personal information and do we share it with others?
+<http://www.theparkgame.com/>
 
-Information In Transit: To protect private and confidential information from interception and visibility to unauthorized persons while in transit, the connection between your web browser and the registration server operated by Funcom is encrypted and verified using Secure Socket Layer (SSL) technology. When setting up a unique session between you and Funcom, the server at Funcom will send its public key to your browser. In return, your browser will generate a randomly generated secret key based on the key it received from Funcom. This key is then sent back and checked by the server at Funcom. Transferring personal data over the Internet may involve transferring the data on electronic systems in jurisdictions with a different level of data protection regulations than in the EEA. By accepting this Privacy Policy you accept that transfer of personal data can take place over the Internet by use of electronic systems in such jurisdictions.
+<http://www.longestjourney.com/>
 
-Information In Storage: Information you provide to Funcom is stored on servers operated by Funcom AS, Oslo, Norway and physically placed in the United States and The Netherlands. The servers handling registrations are placed in a physically shielded environment. By clicking on the padlock symbol in your browser you can check the information encapsulated in the certificate to verify you are connected to the registration server owned and operated by Funcom.
+<https://www.mutantyearzero.com/#1>
 
-While Funcom uses reasonable efforts to protect your privacy, due to the nature of the Internet we cannot guarantee that a third party will not be able to unlawfully intercept a private communication. BY ACCEPTING THIS PRIVACY POLICY, YOU ACCEPT THE RISKS RELATED TO POSSIBLE UNLAWFUL INTERCEPTIONS OR EXPLOITATIONS OF YOUR INFORMATION BY THIRD PARTIES AND RELEASE FUNCOM OF ANY LIABILITY IN THIS REGARD.
+<https://www.conanexiles.com/>
 
-### With whom do you share my information?
+<https://www.hideandshriekgame.com/>
 
-The personal information you provide to register your game or to sign up for the free trial may be provided to a payment service provider and or bank for verification and payment processing.
+<https://www.moonsofmadness.com/>
 
-We may provide your personal information on a confidential basis to affiliates of Funcom and third parties necessary to allow Funcom to provide you with the Services.
+and services for the following “live” games:
 
-We may also disclose your personal information to the extent required to cooperate with law enforcement or governmental requests or investigations or pursuant to third party subpoenas or court orders.
+Age of Conan, Age of Conan Unchained
 
-FUNCOM ENDEVOURS TO ENSURE THAT ALL PARTNERS FOLLOW THE SAME OR SIMILAR HIGH STANDARDS OF DATA PROTECTION. ALL COMMUNICATIONS OF PERSONAL DATA TO PARTNERS ARE HANDLED USING THE INDUSTRY STANDARD SECURE SOCKETS LAYER (SSL) ENCRYPTION. BY ACCEPTING THIS POLICY YOU CONSENT TO THE TRANSFER OF YOUR INFORMATION TO A THIRD PARTY FOR FRAUD SCREENING, PAYMENT PROCESSING AND ANY OTHER PARTNER REQUIRED TO PROVIDE CONTINUED SERVICE.
+Anarchy Online and Secret World Legends
 
-### What happens to my information if I terminate the Service?
+This page informs you of our policies regarding the collection, use and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-Funcom may, but is not obligated to retain your personal information following termination for the purpose of maintaining records, securing payment and complying with legal requirements. Any information retained by Funcom will be maintained by Funcom on the terms set forth above.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. /
 
-### Can I reactivate my account?
+## Definitions
 
-If you end a paid subscription your account status will be frozen for three months. This means that if you decide to come back and reopen the account during this time period it will be in the same condition as you left it and you can continue playing with your old characters. Beyond this period Funcom does not guarantee that your old characters and their names will not be deleted. We may ask you to re-provide certain information for verification purposes.
+**Service**
 
-### What Other Uses may you make of my personal information? Can I opt-out of information uses and how? Do you use cookies or track IP addresses?
+Service is the website operated by Funcom Oslo AS and the “live games” as listed above.
 
-From time to time Funcom may contact you regarding new games or services available from Funcom or its affiliates (“New Games”). If you do not wish to receive information about new games from Funcom you may elect to “opt-out” or “unsubscribe” in the email you receive and within a reasonable time thereafter Funcom will not notify you regarding New Games. Funcom may also use information provided by you for statistical purposes and for administrative handling of customers. Funcom may use cookies to track online traffic flows on our websites, statistics and to optimize the website for our users. You may adjust your browser settings to reject cookies or to manually accept cookies while browsing our websites. For details on this, please refer to the help function of your browser. Funcom reserve the right to track IP addresses and to use such IP addresses on a non-anonymous basis in cooperation with relevant internet service providers in the event of violations of the EULA or following a court order.
+**Personal Data**
 
-### What about children?
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-Funcom games may be rated by official boards. See the individual games privacy information on respective sites. Funcom does not knowingly collect personal information from any person under the age limits that have been assigned by the rating boards.
+**Usage Data**
 
-### What choices do I have about Funcom's use of information about me?
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
-You can opt-out of receiving information regarding New Games as set forth above.
+**Cookies**
 
-You may terminate your account with Funcom in which event Funcom may retain your personal information as set forth above.
+Cookies are small files stored on your device (computer or mobile device).
 
-### Do you sell my information to third parties?
+**Data Controller**
 
-Funcom does not sell your information to third parties.
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
 
-### What if you change the Policy?
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
 
-In the event Funcom decides to change the Privacy Policy you will receive notice, either by e-mail or the Funcom website. You will have the opportunity to terminate if you do not agree to the change.
+**Data Processors (or Service Providers)**
 
-### How to access and rectify my information?
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
 
-If you wish to access or rectify the information which Funcom has stored about you, please contact:  
-Funcom Oslo AS   
-Bestumstubben 11   
-N-0281 Oslo   
-Norway 
+We may use the services of Funcom Inc and various Service Providers in order to process your data more effectively.
+
+**Data Subject (or User)**
+
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
+
+## Information Collection and Use
+
+We collect several different types of information for various purposes to provide and improve our Service to you.
+
+### Types of Data Collected
+
+#### Personal Data
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+
+  * Email address
+  * First name and last name
+  * Phone number
+  * Address, State, Province, ZIP/Postal code, City
+  * Cookies and Usage Data
+  * IP Addresses
+
+
+
+If you have opted in, We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or the instructions provided in any email we send or by contacting [privacy@funcom.com](mailto:privacy@funcom.com) with details of your opt out request.
+
+#### Usage Data
+
+We may also collect information on how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+#### Tracking Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and we hold certain information.
+
+Cookies are files with a small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Other tracking technologies are also used such as beacons, tags and scripts to collect and track information and to improve and analyse our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+
+
+
+**For more information on Cookies that Funcom uses, please visit:** [https://www.funcom.com/cookie-policy](https://web.archive.org/web/20190330140833id_/https://www.funcom.com/cookie-policy)
+
+## Use of Data
+
+Funcom Oslo AS and its Data Processors uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about if you have opted to receive such information
+
+
+
+## Retention of Data
+
+Funcom Oslo AS will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes and enforce our legal agreements and policies.
+
+Funcom Oslo AS will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer periods.
+
+## Transfer of Data
+
+Your information, including Personal Data, may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Funcom Oslo AS will take all the steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+**Funcom Inc. is in the process of obtaining EU-US Privacy Shield certification.**
+
+## Our Policy on "Do Not Track" Signals under the California Online Protection Act (CalOPPA)
+
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Data Protection Rights under the General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Funcom Oslo AS aims to take reasonable steps to allow you to correct, amend, delete or limit the use of your Personal Data.
+
+If you wish to be informed about what Personal Data we hold about you and if you want it to be removed from our systems, please contact us at [privacy@funcom.com](mailto:privacy@funcom.com) .
+
+The Data Controller is Funcom Oslo AS. The Data controller may be contacted at: [legal@funcom.com](mailto:legal@funcom.com) .
+
+In certain circumstances, you have the following data protection rights:
+
+**The right to access, update or delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+
+**The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+
+**The right to object.** You have the right to object to our processing of your Personal Data.
+
+**The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+
+**The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+
+**The right to withdraw consent.** You also have the right to withdraw your consent at any time where Funcom Oslo AS relied on your consent to process your personal information.
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), provide the Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Disclosure of your information
+
+We may share your personal information with the following third parties:
+
+  * External third-party service providers acting as processors who provide the following services: 
+    * Web hosting;
+    * Metrics and analytics; and
+    * Marketing, mailing and survey third party tool providers.
+
+
+
+**Google Ads (AdWords)**
+
+Google Ads (AdWords) remarketing service is provided by Google Inc.
+
+You can opt-out of Google Analytics for Display Advertising and customise the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <https://policies.google.com/privacy?hl=en>
+
+**Twitter**
+
+Twitter remarketing service is provided by Twitter Inc.
+
+You can opt-out from Twitter's interest-based ads by following their instructions: <https://support.twitter.com/articles/20170405>
+
+You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: <https://twitter.com/privacy>
+
+**Facebook**
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
+
+To opt-out from Facebook's interest-based ads, follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioural Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
+
+**Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <https://policies.google.com/privacy?hl=en>
+
+**Delta DNA**
+
+For more information on the privacy policy of Delta DNA please see: https://deltadna.com/privacy/
+
+  * Professional advisers, including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services.
+  * If Funcom or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * Disclosure for Law Enforcement. Under certain circumstances, Funcom Oslo AS may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+  * Legal Requirements Funcom may disclose your Personal Data in the good faith belief that such action is necessary to: 
+    * To comply with a legal obligation
+    * To protect and defend the rights or property of Funcom Oslo AS
+    * To prevent or investigate possible wrongdoing in connection with the Service
+    * To protect the personal safety of users of the Service or the public
+    * To protect against legal liability
+    * We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with for “live games” are:
+
+**PayPal**
+
+Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+
+**Hipay**
+
+<https://hipay.com/en/terms>
+
+Mutant Year Zero: Road to Eden uses :  
+**XSolla**
+
+<https://xsolla.com/privacypolicy>
+
+## Security of Data
+
+The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+## Links to Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children's Privacy
+
+Our Service does not address anyone under the age of 18 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: [legal@funcom.com](mailto:legal@funcom.com)
+
+
+
+If you would like to place a request to modify or request a copy of your personal information in accordance with GDPR or other Privacy regulations or laws ; send requests to [privacy@funcom.com](mailto:privacy@funcom.com).
+
+**Funcom Privacy**  
+**Kirkegata 15**  
+**N-0153 Oslo**  
+**Norway**
+
+**ARCHIVED**
+
+_**_Privacy policy:_**_
+
+_Funcom takes the privacy of its customers seriously and wants you to understand how and why it collects, uses and maintains the privacy of your personal information. This Privacy Policy is part of the Terms of Use for the Services offered by Funcom. Funcom is not responsible or liable for any third-party websites not under the control of Funcom, accessible through the Game or from Funcom controlled websites. This Privacy Policy does not apply to such third-party websites._
+
+_Accessing Funcom’s website implies acceptance of the Funcom Privacy Policy._
+
+_**_What information does Funcom collect?_**_
+
+_**Personal Information** : Funcom collects information you voluntarily provide during the registration process in order to grant you access to products and service provided by Funcom and its affiliates. This "Personal Information" may include your name, your address, your email, and payment details such as credit card information. Funcom uses this information to collect payments and to provide information and access to our products and services._  
+_**Computer Information** : Funcom may collect and store your internet protocol address. As noted in individual game's End User License Agreements and/or Terms of Service. We may use this information to remotely check your computer to determine if any “Restricted Software” (as such term is defined in the EULA) is installed or if any necessary software patches supplied by Funcom have been installed._  
+_**Chat Room Information** : Funcom may monitor any Chat room on the Funcom website(s) for the purpose of determining whether a violation of the Chat room guidelines has occurred and to take appropriate action as we deem reasonably necessary. Funcom encourages you not to use your real name or disclose personal information in a Chat room – once posted any personal information will no longer be private._  
+_**Non-personal Information** : Funcom may from time to time collect information such as number of players on-line for a particular time period, number of players by country, and average session length on an aggregated basis. This non-personal information does not specifically identify you or any other single user._
+
+_**How do we protect your personal information and do we share it with others?**_
+
+_**Information In Transit:** To protect private and confidential information from interception and visibility to unauthorized persons while in transit, the connection between your web browser and the registration server operated by Funcom is encrypted and verified using Secure Socket Layer (SSL) technology. When setting up a unique session between you and Funcom, the server at Funcom will send its public key to your browser. In return, your browser will generate a randomly generated secret key based on the key it received from Funcom. This key is then sent back and checked by the server at Funcom. Transferring personal data over the Internet may involve transferring the data on electronic systems in jurisdictions with a different level of data protection regulations than in the EEA. By accepting this Privacy Policy you accept that transfer of personal data can take place over the Internet by use of electronic systems in such jurisdictions._
+
+_**Information In Storage:** Information you provide to Funcom is stored on servers operated by Funcom AS, Oslo, Norway and physically placed in the United States and Norway. The servers handling registrations are placed in a physically shielded environment. By clicking on the padlock symbol in your browser you can check the information encapsulated in the certificate to verify you are connected to the registration server owned and operated by Funcom._  
+_While Funcom uses reasonable efforts to protect your privacy, due to the nature of the Internet we cannot guarantee that a third party will not be able to unlawfully intercept a private communication._
+
+_BY ACCEPTING THIS PRIVACY POLICY, YOU ACCEPT THE RISKS RELATED TO POSSIBLE UNLAWFUL INTERCEPTIONS OR EXPLOITATIONS OF YOUR INFORMATION BY THIRD PARTIES AND RELEASE FUNCOM OF ANY LIABILITY IN THIS REGARD._
+
+_FUNCOM ENDEVOURS TO ENSURE THAT ALL PARTNERS FOLLOW THE SAME OR SIMILAR HIGH STANDARDS OF DATA PROTECTION. ALL COMMUNICATIONS OF PERSONAL DATA TO PARTNERS ARE HANDLED USING THE INDUSTRY STANDARD SECURE SOCKETS LAYER (SSL) ENCRYPTION. BY ACCEPTING THIS POLICY YOU CONSENT TO THE TRANSFER OF YOUR INFORMATION TO A THIRD PARTY FOR FRAUD SCREENING, PAYMENT PROCESSING AND ANY OTHER PARTNER REQUIRED TO PROVIDE CONTINUED SERVICE_
+
+_**With whom do you share my information?**_
+
+_The personal information you provide to register your game or to sign up for the free trial may be provided to a payment service provider and or bank for verification and payment processing._  
+_We may provide your personal information on a confidential basis to affiliates of Funcom and third parties necessary to allow Funcom to provide you with the Services._  
+_We may also disclose your personal information to the extent required to cooperate with law enforcement or governmental requests or investigations or pursuant to third party subpoenas or court orders._
+
+_**What happens to my information if I terminate the Service?**_
+
+_Funcom may, but is not obligated to retain your personal information following termination for the purpose of maintaining records, securing payment and complying with legal requirements. Any information retained by Funcom will be maintained by Funcom on the terms set forth above._
+
+_**Can I reactivate my account?**_
+
+_If you end a paid subscription your account status will be frozen for three months. This means that if you decide to come back and reopen the account during this time period it will be in the same condition as you left it and you can continue playing with your old characters. Beyond this period Funcom does not guarantee that your old characters and their names will not be deleted. We may ask you to re-provide certain information for verification purposes._
+
+_**What Other Uses may you make of my personal information?**_
+
+_From time to time Funcom may contact you regarding new games or services available from Funcom or its affiliates (“New Games”)._
+
+_**Can I opt-out of information uses and how?**_
+
+_If you do not wish to receive information about new games from Funcom you may elect to “opt-out” or “unsubscribe” in the email you receive and within a reasonable time thereafter Funcom will not notify you regarding New Games. Funcom may also use information provided by you for statistical purposes and for administrative handling of customers._
+
+_**Do you use cookies or track IP addresses?**_  
+_Funcom may use cookies to track online traffic flows on our websites, statistics and to optimize the website for our users. You may adjust your browser settings to reject cookies or to manually accept cookies while browsing our websites. For details on this, please refer to the help function of your browser. Funcom reserve the right to track IP addresses and to use such IP addresses on a non-anonymous basis in cooperation with relevant internet service providers in the event of violations of the EULA, TOS or following a court order._
+
+_**What about children?**_
+
+_Funcom games may be rated by official boards. See the individual games privacy information on respective sites. Funcom does not knowingly collect personal information from any person under the age limits that have been assigned by the rating boards._
+
+_**Do you sell my information to third parties?**_
+
+_No_
+
+_**What if you change the Policy?**_
+
+_In the event Funcom decides to change the Privacy Policy you will receive notice, either by e-mail or the Funcom website. You will have the opportunity to terminate if you do not agree to the change._
+
+_**How to access and rectify my information?**_
+
+_You may Download the Data request form  [HERE](https://web.archive.org/web/20190330140833id_/https://www.funcom.com/wp-content/uploads/sites/3/2018/05/GDPR_DataRequestForm_Final.docx) Return completed forms to:_
+
+_**Funcom Privacy**_  
+_**Kirkegata 15**_  
+_**N-0153 Oslo**_  
+_**Norway**_
