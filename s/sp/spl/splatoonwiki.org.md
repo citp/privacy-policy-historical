@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splatoonwiki.org privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123195357id_/https%3A//splatoonwiki.org/wiki/Inkipedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splatoonwiki.org privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616155115id_/https%3A//splatoonwiki.org/wiki/Inkipedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Inkipedia:Privacy policy - Inkipedia, the Splatoon wiki
 
