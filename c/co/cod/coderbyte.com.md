@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coderbyte.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130163019id_/https%3A//www.coderbyte.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coderbyte.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616070509id_/https%3A//coderbyte.com/privacy) for the most accurate reproduction.*
 
 # Coderbyte
 
-This Privacy Policy describes the policies and procedures of CoderByte, LLC ("we," "our," or "us") on the collection, use, and disclosure of your information on www.coderbyte.com and the services, features, content, applications, and products we offer (the "Site" or "Coderbyte"). 
+This Privacy Policy describes the policies and procedures of Coderbyte Enterprise Inc ("we," "our," or "us") on the collection, use, and disclosure of your information on www.coderbyte.com and the services, features, content, applications, and products we offer (the "Site" or "Coderbyte"). 
 
 Your privacy is important to us. When running Coderbyte, we follow a few fundamental principles: 
 
@@ -175,9 +175,9 @@ _[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_
 
 Mailing Address: 
 
-Coderbyte, LLC  
-39 Lanza Ave.  
-Garfield, NJ, 07026 
+Coderbyte Enterprise Inc  
+434 Washington Street  
+Carlstadt, NJ 07072 
 
 **Effective Date: April, 19, 2016.**
 
