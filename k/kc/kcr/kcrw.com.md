@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kcrw.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921074743id_/https%3A//www.kcrw.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcrw.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616050631id_/https%3A//www.kcrw.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | KCRW
+# Privacy Policy | KCRW 89.9FM | Music, NPR News, Culture Los Angeles
 
 ### **KCRW Online Privacy Policy Highlights**
 
@@ -142,7 +142,7 @@ Further information about our use of cookies, pixel tags and other tracking tech
 
 **How We Disclose Information** KCRW is committed to maintaining your trust. We want you to understand when and with whom we may share information about you that is collected through our Services. **_User Materials._** Any User Materials you submit through our [Contact Us](http://kcrw.com/help) page, social networking services or similar features can be seen, collected and used by us and anyone else who has access to the applicable service. Such information is likely to become public and we cannot be responsible for any unauthorized third-party use. Any User Materials you submit may also be freely used and shared by KCRW and its s and their respective licensees in accordance with our Terms of Use.
 
-  1.  ** __**KCRW may share your name, email address, other contact information, and information about your listening activity, donations and interests with the s that are associated with your account or that are local to you. When we do so, we require those s to commit to the same policies regarding further sharing with third parties that we follow under this Privacy Policy. If you do not want us to share your name, contact information, or other information, including information about your donations to KCRW, with s, you can[ contact us ](http://kcrw.com/help)any time. However, if you choose to donate to an KCRW  through our Services, your information may be collected directly by that . In that case, the collection of your information is subject to that 's privacy policy.
+  1. **__**KCRW may share your name, email address, other contact information, and information about your listening activity, donations and interests with the s that are associated with your account or that are local to you. When we do so, we require those s to commit to the same policies regarding further sharing with third parties that we follow under this Privacy Policy. If you do not want us to share your name, contact information, or other information, including information about your donations to KCRW, with s, you can[ contact us ](http://kcrw.com/help)any time. However, if you choose to donate to an KCRW  through our Services, your information may be collected directly by that . In that case, the collection of your information is subject to that 's privacy policy.
 
 
 
