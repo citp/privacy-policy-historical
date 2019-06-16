@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easeus.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025154210id_/https%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easeus.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616083811id_/https%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.*
 
 # EaseUS Privacy Policy
 
