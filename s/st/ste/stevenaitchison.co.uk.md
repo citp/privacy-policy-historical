@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the stevenaitchison.co.uk privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823063838id_/https%3A//www.stevenaitchison.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevenaitchison.co.uk privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616045730id_/https%3A//www.stevenaitchison.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Change your thoughts
 
-Privacy matters but it can be confusing.Â  We are GDPR compliant and this page explains our approach to privacy and how it affects you.
+Privacy matters but it can be confusing.   We are GDPR compliant and this page explains our approach to privacy and how it affects you.
 
 ## Short version
 
   * We collect anonymous statistics about your visit, like which of our pages you viewed.
-  * Some 3rd parties like Facebook and Twitter may know you visited this website, if you use their services. We can't control them but we don't believe this knowledge poses any threat to you.
-  * If you sign up with us we take great care to keep your information safe and we'll never share it with others without your express permission.
+  * Some 3rd parties like Facebook and Twitter may know you visited this website, if you use their services. We can’t control them but we don’t believe this knowledge poses any threat to you.
+  * If you sign up with us we take great care to keep your information safe and we’ll never share it with others without your express permission.
   * We never share your data with 3rd parties except to help us deliver our own services.
 
 
@@ -17,47 +17,47 @@ These are just the key points. If you need detail, keep reading.
 
 ## Measuring our visitors
 
-We measure visitors to our website using Google Analytics. This records what pages you view within our site, how you arrived at our site and some basic information about your computer. All of that information is anonymous "“ so we don't know who you are; just thatÂ  _somebodyÂ  _visited our site.
+We measure visitors to our website using Google Analytics. This records what pages you view within our site, how you arrived at our site and some basic information about your computer. All of that information is anonymous ““ so we don’t know who you are; just that   _somebody  _visited our site.
 
 The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better.
 
-You can learn more aboutÂ [Google Analytics](http://www.google.com/analytics/learn/privacy.html "Google Analytics' privacy policy")Â orÂ [opt out if you wish](https://tools.google.com/dlpage/gaoptout "How to opt out of google analytics").
+You can learn more about  [Google Analytics](http://www.google.com/analytics/learn/privacy.html "Google Analytics' privacy policy")  or  [opt out if you wish](https://tools.google.com/dlpage/gaoptout "How to opt out of google analytics").
 
 ## Facebook, Twitter and other social networks
 
-These services provide social buttons and similar features which we use on our website "“ such as the "Like" and "Tweet" buttons.
+These services provide social buttons and similar features which we use on our website ““ such as the “Like” and “Tweet” buttons.
 
-To do so we embed code that they provide and we do not control ourselves. To function their buttons generally know if you're logged in; for example Facebook use this to say "x of your friends like this". We do not have any access to that information, nor can we control how those networks use it.
+To do so we embed code that they provide and we do not control ourselves. To function their buttons generally know if you’re logged in; for example Facebook use this to say “x of your friends like this”. We do not have any access to that information, nor can we control how those networks use it.
 
-Social networks thereforeÂ  _couldÂ  _know that you're viewing this website, if you use their services (that isn't to say they do, but their policies may change). As our website is remarkably inoffensive we imagine this is not a concern for most users.
+Social networks therefore   _could  _know that you’re viewing this website, if you use their services (that isn’t to say they do, but their policies may change). As our website is remarkably inoffensive we imagine this is not a concern for most users.
 
 ## Discussion comments
 
 To allow visitors to discuss our blog articles and some web pages we use a discussion system from Facebook.
 
-To do so we embed code thatÂ FacebookÂ provide and we do not control ourselves. FacebookÂ anonymously tracks visitors to pages like we do. They also remember who you are if you login to any FacebookÂ service, so you can comment on any website using their tool.
+To do so we embed code that  Facebook  provide and we do not control ourselves. Facebook  anonymously tracks visitors to pages like we do. They also remember who you are if you login to any Facebook  service, so you can comment on any website using their tool.
 
 ## If you sign up for a service
 
-When you sign up for any of our services "“ paid or otherwise "“ we will record specific personal information about you, such as your name and email address.Â  Every email you receive from us, you will have the option to unsubscribe at any time.
+When you sign up for any of our services ““ paid or otherwise ““ we will record specific personal information about you, such as your name and email address.   Every email you receive from us, you will have the option to unsubscribe at any time.
 
 We will also collect and store information about your use of our services so as to improve them. For example, we keep a log of what features are being used at any time.
 
 We also log account and transaction history for accounting purposes, and to monitor our business activities to ensure we continue to serve you better.
 
-Your information will remain safely stored until we hear from YOU (that you want your data erased) OR if and when we choose to permanently, safely, and securely erase your data if you've been identified as someone "inactive."Â  Inactive status is determined by the lack of activity we determine in data collection (it may include number of your logins, views, opens, and click-through rate, etc"¦).Â  All of which is essential information to improve our overall services.Â  Contact [support@stevenaitchison.co.uk](mailto:support@stevenaitchison.co.uk)
+Your information will remain safely stored until we hear from YOU (that you want your data erased) OR if and when we choose to permanently, safely, and securely erase your data if you’ve been identified as someone “inactive.”   Inactive status is determined by the lack of activity we determine in data collection (it may include number of your logins, views, opens, and click-through rate, etc”¦).   All of which is essential information to improve our overall services.   Contact [support@stevenaitchison.co.uk](mailto:support@stevenaitchison.co.uk)
 
 ## Emails
 
 We may send you email notifications regarding your service (such as invoices) or which you have specifically requested (such as newsletters or notifications when a report is completed). You have the ability to opt out of any of this communication at any time.
 
-We willÂ  _neverÂ  _provide your personal information or email address to any third parties except where they are specifically employed to help deliver our own services, as detailed above.
+We will   _never  _provide your personal information or email address to any third parties except where they are specifically employed to help deliver our own services, as detailed above.
 
 If ever you have issue managing your subscription(s) with us (including the kind of data you want us to have), please feel free to contact us at [support@stevenaitchison.co.uk](mailto:support@stevenaitchison.co.uk) and we will honor your request to be removed from any subscription(s) you belong.
 
 ## Security
 
-WeÂ take many precautions to prevent the loss, misuse or alteration of your personal information. These precautions include:
+We  take many precautions to prevent the loss, misuse or alteration of your personal information. These precautions include:
 
   * Hardware stored in secured datacentres behind firewalls
   * All access to information restricted by password and/or secure key
@@ -67,7 +67,7 @@ WeÂ take many precautions to prevent the loss, misuse or alteration of your pe
 
 Whilst we take great care to ensure any confidential information remains protected we cannot guarantee the security of data sent over the Internet.
 
-Of course you are responsible for keeping your password and user details confidential. Nobody at StevenAitchison.co.ukÂ will ever ask you for your password, so please don't trust anybody asking you for it.
+Of course you are responsible for keeping your password and user details confidential. Nobody at StevenAitchison.co.uk  will ever ask you for your password, so please don’t trust anybody asking you for it.
 
 ## Updates to this policy
 
@@ -75,6 +75,6 @@ We may update this privacy policy from time-to-time, particularly as technology 
 
 ## Any questions?
 
-If you have any questions about this privacy policy or your personal data, please write to us by email toÂ enquiries@stevenaitchison.co.ukÂ or by post to CYT Media Ltd,UPPER FLOOR UNIT 1 82 MUIR STREET HAMILTON LANARKSHIRE ML3 6BJ
+If you have any questions about this privacy policy or your personal data, please write to us by email to  enquiries@stevenaitchison.co.uk  or by post to CYT Media Ltd,UPPER FLOOR UNIT 1 82 MUIR STREET HAMILTON LANARKSHIRE ML3 6BJ
 
-Last updated:Â  21 May 2018
+Last updated:   21 May 2018
