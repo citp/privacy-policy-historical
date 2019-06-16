@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xasiat.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903180432id_/http%3A//xasiat.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xasiat.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616104829id_/https%3A//xasiat.com/private-policy) for the most accurate reproduction.*
 
-# Private Policy - Xasiat
+# Private Policy | Xasiat
 
 Xasiat.com recognizes that its visitors, users, and others who use Xasiat value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Xasiat web site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 
