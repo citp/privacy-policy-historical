@@ -1,0 +1,1343 @@
+<!--The following is the downloaded HTML source of the mous.co privacy policy that was archived on 2019-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190616195835id_/https%3A//www.mous.co/pages/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+  <!-- Tracking -->
+  
+
+
+	<!-- INLINE-HEADER -->
+  <script type="text/javascript" async="" src="https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KXNL9L3"></script><script>
+  window.theme = {
+    strings: {
+      addToCart: "Add to Cart",
+      soldOut: "Out of Stock",
+      preOrder: "Pre-Order"
+    },
+    shopCurrency: "$",
+    moneySymbol: "${{amount}}",
+    selectors: {},
+    helpers: {
+      euArray: ['AL','AD','AM','AT','BY','BE','BA','BG','CH','CY','CZ','DE','DK','EE','ES','FO','FI','FR','GB','GE','GI','GR','HU','HR','IE','IS','IT','LT','LU','LV','MC','MK','MT','NO','NL','PO','PT','RO','RU','SE','SI','SK','SM','TR','UA','VA'],
+      formatMoney: function (price, symbol) { return symbol + (price / 100).toFixed(2) },
+      
+      isHidden: function (el) {
+        var style = window.getComputedStyle(el)
+        return (style.display === 'none')
+      },
+      findCookie: function (cname) {
+        var name = cname + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+
+        for(var i = 0; i <ca.length; i++) {
+            var c = ca[i];
+            
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+      },
+      setCookie: function (name, value, days) {
+        var expires = ''
+        if (days) {
+          var date = new Date()
+          date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000))
+          expires = ' expires=' + date.toUTCString()
+        }
+        document.cookie = name + '=' + (value || '') +';'+ expires +';'+ ' path=/'
+      }
+    },
+    expressButtons: '<button name="button" type="submit" aria-label="Apple Pay" data-strategy="cart" style="display: none" class="additional-checkout-button additional-checkout-button--apple-pay"><span class="additional-checkout-button-visually-hidden">Checkout with: Apple Pay</span><span class="additional-checkout-button__logo" /></button><div class="additional-checkout-button additional-checkout-button--paypal" data-strategy="cart"></div><noscript id="noscript-paypal-replacement"><button name="goto_pp" type="submit" id="paypal-express-button" class="additional-checkout-button additional-checkout-button--paypal-express" value="paypal_express" data-strategy="cart"><img alt="Checkout with: PayPal" src="//cdn.shopify.com/s/assets/checkout/easy-checkout-btn-paypal-9835af2c2b0e2a543b2905789a7f08b678d62de2c77c1b0d16fd7689aff463f3.png" /></button></noscript>',
+    gaEvent: function (eventLabel, eventCategory, eventAction) {
+      ga('send', 'event', eventCategory, eventAction, eventLabel);
+    }
+  };
+</script>
+
+  <!-- Optimize AB Tests -->
+  <!-- experiment:dynamicCheckout -->
+  <script>
+  function getRandomInt(max) {
+    return Math.floor(Math.random() * Math.floor(max));
+  }
+  var variationId = getRandomInt(2)
+  if (window.theme.helpers.findCookie('experiment:dynamicCheckout') == ''){
+    var today = new Date(Date.now());
+    var nextWeek = new Date(today.getTime() + 14 * 24 * 60 * 60 * 1000);
+    document.cookie = 'experiment:dynamicCheckout='+variationId+'; expires='+nextWeek+'; path=/';
+  }
+  
+  function checkIfAnalyticsLoaded () {
+    if (window.ga) {
+      ga('set', 'exp', 'Bh6TKS_aRTGKHLq4rFYVTA.'+window.theme.helpers.findCookie('experiment:dynamicCheckout'));
+      console.log('Expriment Activated: experiment:dynamicCheckout / Variation ID:'+window.theme.helpers.findCookie('experiment:dynamicCheckout'))
+    } else {
+      setTimeout(checkIfAnalyticsLoaded, 500);
+    }
+  }
+
+  checkIfAnalyticsLoaded()
+</script>
+
+  
+  <script defer="">
+    var experimentCookie1 = window.theme.helpers.findCookie('experiment:dynamicCheckout')
+    if (experimentCookie1 && experimentCookie1 === '1') {
+      document.addEventListener('DOMContentLoaded', function(){
+        document.querySelectorAll('.additional-checkout-buttons').forEach(function (button) {
+          button.classList.remove('dn')
+        })
+      })
+    }
+  </script>
+
+  <!-- experiment:exitIntent -->
+  <script>
+  function getRandomInt(max) {
+    return Math.floor(Math.random() * Math.floor(max));
+  }
+  var variationId = getRandomInt(2)
+  if (window.theme.helpers.findCookie('experiment:exitIntent') == ''){
+    var today = new Date(Date.now());
+    var nextWeek = new Date(today.getTime() + 14 * 24 * 60 * 60 * 1000);
+    document.cookie = 'experiment:exitIntent='+variationId+'; expires='+nextWeek+'; path=/';
+  }
+  
+  function checkIfAnalyticsLoaded () {
+    if (window.ga) {
+      ga('set', 'exp', 'm7vVlob0Rt2ZMFQ0ZVxxgg.'+window.theme.helpers.findCookie('experiment:exitIntent'));
+      console.log('Expriment Activated: experiment:exitIntent / Variation ID:'+window.theme.helpers.findCookie('experiment:exitIntent'))
+    } else {
+      setTimeout(checkIfAnalyticsLoaded, 500);
+    }
+  }
+
+  checkIfAnalyticsLoaded()
+</script>
+
+
+    <!-- experiment:reviewsTab -->
+  <script>
+  function getRandomInt(max) {
+    return Math.floor(Math.random() * Math.floor(max));
+  }
+  var variationId = getRandomInt(2)
+  if (window.theme.helpers.findCookie('experiment:reviewsTab') == ''){
+    var today = new Date(Date.now());
+    var nextWeek = new Date(today.getTime() + 14 * 24 * 60 * 60 * 1000);
+    document.cookie = 'experiment:reviewsTab='+variationId+'; expires='+nextWeek+'; path=/';
+  }
+  
+  function checkIfAnalyticsLoaded () {
+    if (window.ga) {
+      ga('set', 'exp', 'gkOTU0_WSOWt0zfT7uw93Q.'+window.theme.helpers.findCookie('experiment:reviewsTab'));
+      console.log('Expriment Activated: experiment:reviewsTab / Variation ID:'+window.theme.helpers.findCookie('experiment:reviewsTab'))
+    } else {
+      setTimeout(checkIfAnalyticsLoaded, 500);
+    }
+  }
+
+  checkIfAnalyticsLoaded()
+</script>
+
+  
+  <script defer="">
+    var experimentCookie2 = window.theme.helpers.findCookie('experiment:reviewsTab')
+    if (experimentCookie2 && experimentCookie2 === '0') {
+      document.addEventListener('DOMContentLoaded', function(){
+        document.querySelector('a[href="#reviews"]').style.display = 'none'
+      })
+    }
+  </script>
+
+
+
+
+
+
+
+  <script>
+  dataLayer = [{
+    storeCurrency: "USD",
+    customerEmail: "Not logged in",
+    
+    
+  }];
+
+</script>
+  
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KXNL9L3');</script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Global site tag (gtag.js) - Google Ads: 963599607 -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-963599607"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-963599607');
+  </script>
+
+
+
+
+
+
+  
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#000">
+  <meta name="google-site-verification" content="au5kRB9JrxvwpJv2tpcsq2rz9pULNJ4TzpHKx06k2Rg">
+  <meta name="google-site-verification" content="SCf7YohAeQv9nrSKvCU6yj8Csp49rvHvm-72c1XpPj4">
+  <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/favicon.png?53350" type="image/png">
+
+  <style>
+    html{line-height:1.15;-webkit-text-size-adjust:100%}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}[hidden],template{display:none}.border-box,a,article,aside,blockquote,body,code,dd,div,dl,dt,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,html,input[type=email],input[type=number],input[type=password],input[type=tel],input[type=text],input[type=url],legend,li,main,nav,ol,p,pre,section,table,td,textarea,th,tr,ul{box-sizing:border-box}.cf:after,.cf:before{content:" ";display:table}.cl{clear:left}.cr{clear:right}.cb{clear:both}.cn{clear:none}.dn{display:none}.di{display:inline}.db{display:block}.dib{display:inline-block}.dit{display:inline-table}.dt{display:table}.dtc{display:table-cell}.dt-row{display:table-row}.dt-row-group{display:table-row-group}.dt-column{display:table-column}.dt-column-group{display:table-column-group}.dt--fixed{table-layout:fixed;width:100%}.flex{display:flex}.inline-flex{display:inline-flex}.flex-auto{flex:1 1 auto;min-width:0;min-height:0}.flex-none{flex:none}.flex-column{flex-direction:column}.flex-row{flex-direction:row}.flex-wrap{flex-wrap:wrap}.flex-nowrap{flex-wrap:nowrap}.flex-wrap-reverse{flex-wrap:wrap-reverse}.flex-column-reverse{flex-direction:column-reverse}.flex-row-reverse{flex-direction:row-reverse}.items-start{align-items:flex-start}.items-end{align-items:flex-end}.items-center{align-items:center}.items-baseline{align-items:baseline}.items-stretch{align-items:stretch}.self-start{align-self:flex-start}.self-end{align-self:flex-end}.self-center{align-self:center}.self-baseline{align-self:baseline}.self-stretch{align-self:stretch}.justify-start{justify-content:flex-start}.justify-end{justify-content:flex-end}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.justify-around{justify-content:space-around}.content-start{align-content:flex-start}.content-end{align-content:flex-end}.content-center{align-content:center}.content-between{align-content:space-between}.content-around{align-content:space-around}.content-stretch{align-content:stretch}.order-0{order:0}.order-1{order:1}.order-2{order:2}.order-3{order:3}.order-4{order:4}.order-5{order:5}.order-6{order:6}.order-7{order:7}.order-8{order:8}.order-last{order:99999}.flex-grow-0{flex-grow:0}.flex-grow-1{flex-grow:1}.flex-shrink-0{flex-shrink:0}.flex-shrink-1{flex-shrink:1}.fl{float:left}.fl,.fr{_display:inline}.fr{float:right}.fn{float:none}.input-reset{-webkit-appearance:none;-moz-appearance:none}.button-reset::-moz-focus-inner,.input-reset::-moz-focus-inner{border:0;padding:0}.list{list-style-type:none}.mw-100{max-width:100%}.mw1{max-width:1rem}.mw2{max-width:2rem}.mw3{max-width:4rem}.mw4{max-width:8rem}.mw5{max-width:16rem}.mw6{max-width:32rem}.mw7{max-width:48rem}.mw8{max-width:64rem}.mw9{max-width:96rem}.mw-none{max-width:none}.w1{width:1rem}.w2{width:2rem}.w3{width:4rem}.w4{width:8rem}.w5{width:16rem}.w-10{width:10%}.w-20{width:20%}.w-25{width:25%}.w-30{width:30%}.w-33{width:33%}.w-34{width:34%}.w-40{width:40%}.w-50{width:50%}.w-60{width:60%}.w-70{width:70%}.w-75{width:75%}.w-80{width:80%}.w-90{width:90%}.w-100{width:100%}.w-third{width:33.33333%}.w-two-thirds{width:66.66667%}.w-auto{width:auto}.static{position:static}.relative{position:relative}.absolute{position:absolute}.fixed{position:fixed}.pa0{padding:0}.pa1{padding:.25rem}.pa2{padding:.5rem}.pa3{padding:1rem}.pa4{padding:2rem}.pa5{padding:4rem}.pa6{padding:8rem}.pa7{padding:16rem}.pl0{padding-left:0}.pl1{padding-left:.25rem}.pl2{padding-left:.5rem}.pl3{padding-left:1rem}.pl4{padding-left:2rem}.pl5{padding-left:4rem}.pl6{padding-left:8rem}.pl7{padding-left:16rem}.pr0{padding-right:0}.pr1{padding-right:.25rem}.pr2{padding-right:.5rem}.pr3{padding-right:1rem}.pr4{padding-right:2rem}.pr5{padding-right:4rem}.pr6{padding-right:8rem}.pr7{padding-right:16rem}.pb0{padding-bottom:0}.pb1{padding-bottom:.25rem}.pb2{padding-bottom:.5rem}.pb3{padding-bottom:1rem}.pb4{padding-bottom:2rem}.pb5{padding-bottom:4rem}.pb6{padding-bottom:8rem}.pb7{padding-bottom:16rem}.pt0{padding-top:0}.pt1{padding-top:.25rem}.pt2{padding-top:.5rem}.pt3{padding-top:1rem}.pt4{padding-top:2rem}.pt5{padding-top:4rem}.pt6{padding-top:8rem}.pt7{padding-top:16rem}.pv0{padding-top:0;padding-bottom:0}.pv1{padding-top:.25rem;padding-bottom:.25rem}.pv2{padding-top:.5rem;padding-bottom:.5rem}.pv3{padding-top:1rem;padding-bottom:1rem}.pv4{padding-top:2rem;padding-bottom:2rem}.pv5{padding-top:4rem;padding-bottom:4rem}.pv6{padding-top:8rem;padding-bottom:8rem}.pv7{padding-top:16rem;padding-bottom:16rem}.ph0{padding-left:0;padding-right:0}.ph1{padding-left:.25rem;padding-right:.25rem}.ph2{padding-left:.5rem;padding-right:.5rem}.ph3{padding-left:1rem;padding-right:1rem}.ph4{padding-left:2rem;padding-right:2rem}.ph5{padding-left:4rem;padding-right:4rem}.ph6{padding-left:8rem;padding-right:8rem}.ph7{padding-left:16rem;padding-right:16rem}.ma0{margin:0}.ma1{margin:.25rem}.ma2{margin:.5rem}.ma3{margin:1rem}.ma4{margin:2rem}.ma5{margin:4rem}.ma6{margin:8rem}.ma7{margin:16rem}.ml0{margin-left:0}.ml1{margin-left:.25rem}.ml2{margin-left:.5rem}.ml3{margin-left:1rem}.ml4{margin-left:2rem}.ml5{margin-left:4rem}.ml6{margin-left:8rem}.ml7{margin-left:16rem}.mr0{margin-right:0}.mr1{margin-right:.25rem}.mr2{margin-right:.5rem}.mr3{margin-right:1rem}.mr4{margin-right:2rem}.mr5{margin-right:4rem}.mr6{margin-right:8rem}.mr7{margin-right:16rem}.mb0{margin-bottom:0}.mb1{margin-bottom:.25rem}.mb2{margin-bottom:.5rem}.mb3{margin-bottom:1rem}.mb4{margin-bottom:2rem}.mb5{margin-bottom:4rem}.mb6{margin-bottom:8rem}.mb7{margin-bottom:16rem}.mt0{margin-top:0}.mt1{margin-top:.25rem}.mt2{margin-top:.5rem}.mt3{margin-top:1rem}.mt4{margin-top:2rem}.mt5{margin-top:4rem}.mt6{margin-top:8rem}.mt7{margin-top:16rem}.mv0{margin-top:0;margin-bottom:0}.mv1{margin-top:.25rem;margin-bottom:.25rem}.mv2{margin-top:.5rem;margin-bottom:.5rem}.mv3{margin-top:1rem;margin-bottom:1rem}.mv4{margin-top:2rem;margin-bottom:2rem}.mv5{margin-top:4rem;margin-bottom:4rem}.mv6{margin-top:8rem;margin-bottom:8rem}.mv7{margin-top:16rem;margin-bottom:16rem}.mh0{margin-left:0;margin-right:0}.mh1{margin-left:.25rem;margin-right:.25rem}.mh2{margin-left:.5rem;margin-right:.5rem}.mh3{margin-left:1rem;margin-right:1rem}.mh4{margin-left:2rem;margin-right:2rem}.mh5{margin-left:4rem;margin-right:4rem}.mh6{margin-left:8rem;margin-right:8rem}.mh7{margin-left:16rem;margin-right:16rem}.tl{text-align:left}.tr{text-align:right}.tc{text-align:center}.tj{text-align:justify}.ttc{text-transform:capitalize}.ttl{text-transform:lowercase}.ttu{text-transform:uppercase}.ttn{text-transform:none}.measure{max-width:30em}.measure-wide{max-width:34em}.measure-narrow{max-width:20em}.indent{text-indent:1em;margin-top:0;margin-bottom:0}.small-caps{font-variant:small-caps}.truncate{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.overflow-container{overflow-y:scroll}.center{margin-left:auto}.center,.mr-auto{margin-right:auto}.ml-auto{margin-left:auto}.ws-normal{white-space:normal}.nowrap{white-space:nowrap}.pre{white-space:pre}.v-base{vertical-align:baseline}.v-mid{vertical-align:middle}.v-top{vertical-align:top}.v-btm{vertical-align:bottom}.dim{opacity:1}.dim,.dim:focus,.dim:hover{transition:opacity .15s ease-in}.dim:focus,.dim:hover{opacity:.5}.dim:active{opacity:.8;transition:opacity .15s ease-out}@media screen and (min-width:60em){.dn-l{display:none}.di-l{display:inline}.db-l{display:block}.dib-l{display:inline-block}.dit-l{display:inline-table}.dt-l{display:table}.w1-l{width:1rem}.w2-l{width:2rem}.w3-l{width:4rem}.w4-l{width:8rem}.w5-l{width:16rem}.w-10-l{width:10%}.w-20-l{width:20%}.w-25-l{width:25%}.w-30-l{width:30%}.w-33-l{width:33%}.w-34-l{width:34%}.w-40-l{width:40%}.w-50-l{width:50%}.w-60-l{width:60%}.w-70-l{width:70%}.w-75-l{width:75%}.w-80-l{width:80%}.w-90-l{width:90%}.w-100-l{width:100%}.w1-m{width:1rem}.w2-m{width:2rem}.w3-m{width:4rem}.w4-m{width:8rem}.w5-m{width:16rem}.w-10-m{width:10%}.w-20-m{width:20%}.w-25-m{width:25%}.w-30-m{width:30%}.w-33-m{width:33%}.w-34-m{width:34%}.w-40-m{width:40%}.w-50-m{width:50%}.w-60-m{width:60%}.w-70-m{width:70%}.w-75-m{width:75%}.w-80-m{width:80%}.w-90-m{width:90%}.dn-m{display:none}.di-m{display:inline}.db-m{display:block}.dib-m{display:inline-block}}@media screen and (min-width:30em){.w-third-l{width:33.33333%}.flex-l{display:flex}.w1-ns{width:1rem}.w2-ns{width:2rem}.w3-ns{width:4rem}.w4-ns{width:8rem}.w5-ns{width:16rem}.w-10-ns{width:10%}.w-20-ns{width:20%}.w-25-ns{width:25%}.w-30-ns{width:30%}.w-33-ns{width:33%}.w-34-ns{width:34%}.w-40-ns{width:40%}.w-50-ns{width:50%}.w-60-ns{width:60%}.w-70-ns{width:70%}.w-75-ns{width:75%}.w-80-ns{width:80%}.w-90-ns{width:90%}.w-100-ns{width:100%}.dn-ns{display:none}.di-ns{display:inline}.db-ns{display:block}.dib-ns{display:inline-block}}*,:after,:before{box-sizing:border-box}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}body,button,input,select,textarea{-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%}a{background-color:transparent}b,strong{font-weight:700}em{font-style:italic}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}img{display:block;max-width:100%;border:0}li,ol,ul{padding:0;margin:0;list-style:none}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button[disabled],html input[disabled]{cursor:default}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}input[type=email],input[type=number],input[type=password],input[type=search]{-webkit-appearance:none;-moz-appearance:none}table{width:100%;border-collapse:collapse;border-spacing:0}td,th{padding:0}textarea{overflow:auto;-webkit-appearance:none;-moz-appearance:none}[tabindex="-1"]:focus{outline:none}[role=button],a,button,input,label,select,textarea{touch-action:manipulation}.cf{*zoom:1}.cf:after{content:"";display:table;clear:both}.visibility-hidden{visibility:hidden}.js-focus-hidden:focus{outline:none}.no-js:not(html){display:none}.no-js .no-js:not(html){display:block}.no-js .js{display:none}@font-face{font-family:Brandon Text;font-display:swap;src:url('//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/brandontext-bold.woff2?53350') format("woff2"),url('//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/brandontext-bold.woff?53350') format("woff");font-weight:700;font-style:normal}@font-face{font-family:Brandon Text;font-display:swap;src:url('//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/brandontext-medium.woff2?53350') format("woff2"),url('//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/brandontext-medium.woff?53350') format("woff");font-weight:500;font-style:normal}@font-face{font-family:Brandon Text;font-display:swap;src:url('//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/brandontext-light.woff2?53350') format("woff2"),url('//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/brandontext-light.woff?53350') format("woff");font-weight:300;font-style:normal}@font-face{font-family:Brandon Text;font-display:swap;src:url('//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/brandontext-regular.woff2?53350') format("woff2"),url('//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/brandontext-regular.woff?53350') format("woff");font-weight:400;font-style:normal}@font-face{font-family:icons;font-display:block;src:url(//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/icons.eot?53350);src:url(//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/icons.eot%23iefix?53350) format("embedded-opentype"),url(//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/icons.woff?53350) format("woff"),url(//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/icons.ttf?53350) format("truetype"),url(//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/icons.svg?53350) format("svg");font-weight:400;font-style:normal}[data-icon]:before{content:attr(data-icon)}[class*=" icon-"]:before,[class^=icon-]:before,[data-icon]:before{font-family:icons!important;font-style:normal!important;font-weight:400!important;font-variant:normal!important;text-transform:none!important;speak:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-twitter:before{content:"\62"}.icon-pinterest:before{content:"\64"}.icon-facebook:before{content:"\65"}.icon-check:before{content:"\67"}.icon-chevron-right:before{content:"\68"}.icon-chevron-down:before{content:"\69"}.icon-clock:before{content:"\6a"}.icon-info:before{content:"\6b"}.icon-instagram:before{content:"\6e"}.icon-search:before{content:"\6f"}.icon-reviews:before{content:"\71"}.icon-star:before{content:"\75"}.icon-delivery:before{content:"\72"}.icon-tutorials:before{content:"\61"}.icon-contact:before{content:"\63"}.icon-help:before{content:"\66"}.icon-cart:before{content:"\6c"}.icon-addons:before{content:"\6d"}.icon-wireless-charging:before,.icon-wireless:before{content:"\70"}.icon-airoshock:before,.icon-protection:before{content:"\71"}.icon-materials:before,.icon-real-materials:before{content:"\73"}.icon-no-wireless-charging:before,.icon-nowireless:before{content:"\74"}.icon{display:inline-block;font:normal normal normal 14px/1 icons;font-size:inherit}.five-star:before{content:"\75 \75 \75 \75 \75"}html{font-size:15px;overflow-x:hidden}body,html{width:100%}body{font-family:Brandon Text,sans-serif}body.redirect-active{visibility:hidden}body.banner-location--active{padding-top:53px}.noscroll{overflow:hidden}.white-bg{background:#fff}.grey-bg{background:#f7f7f7}.black-bg{background:#000}.fxv{align-items:center}.fxc{justify-content:center}.fxa{justify-content:space-around}.fxb{justify-content:space-between}hr{border:none;display:block;height:1px;background:#f0f0f0;margin:0 auto}.mw,hr{width:100%}.mw{max-width:680px;margin-left:auto;margin-right:auto}@media (min-width:960px){.mw{max-width:960px}}@media (min-width:1499px){.mw{max-width:1240px}}.mw-small{width:100%;max-width:680px;margin-left:auto;margin-right:auto}@media (min-width:960px){.mw-small{max-width:800px}}.mw-large{width:100%;max-width:680px;margin-left:auto;margin-right:auto}@media (min-width:960px){.mw-large{max-width:1240px}}@media (min-width:1499px){.mw-large{max-width:1440px}}.mw-inner{width:100%;max-width:960px;margin-left:auto;margin-right:auto}@media (min-width:960px){.mw-inner{max-width:1120px}}.pdh{padding-left:1rem;padding-right:1rem}@media (min-width:450px){.pdh{padding-left:2rem;padding-right:2rem}}@media (min-width:960px){.pdh{padding-left:3rem;padding-right:3rem}}.pdh-l{padding-left:0;padding-right:0}@media (min-width:960px){.pdh-l{padding-left:3rem;padding-right:3rem}}.pdh2{padding-left:0;padding-right:0}@media (min-width:450px){.pdh2{padding-left:1rem;padding-right:1rem}}.pdv{padding-top:2rem;padding-bottom:4rem}@media (min-width:768px){.pdv{padding-top:4rem;padding-bottom:8rem}}.pdb{padding-bottom:4rem}@media (min-width:768px){.pdb{padding-bottom:8rem}}.grey-img{-webkit-filter:contrast(.94);-moz-filter:contrast(.94);-ms-filter:contrast(.94);-o-filter:contrast(.94);filter:contrast(.94)}.bt{border-top:1px solid #f0f0f0}.bb,.bv{border-bottom:1px solid #f0f0f0}.bv{border-top:1px solid #f0f0f0}.pos-centre{position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.white{color:#fff}.highlight{color:#ed822a}.success{color:#390}.error,.errors{color:#f10}.error a,.errors a{color:#f10;text-decoration:underline}.errors{display:inline-block}@media (max-width:767px){.hide-mobile{display:none!important}}@media (min-width:960px){.hide-large{display:none}}.icon-close{position:absolute;top:1rem;right:1rem;width:20px;height:20px}.icon-close:after,.icon-close:before{content:"";position:absolute;top:50%;margin-top:-1px;width:100%;height:1px;background:#1d2122}.icon-close:before{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}.icon-close:after{-webkit-transform:rotate(45deg);transform:rotate(45deg)}.icon-close.invert:after,.icon-close.invert:before{background:#fff}video{max-width:100%}h1,h2,h3,h4{font-family:Brandon Text,sans-serif;font-weight:500}h1.ttu,h2.ttu,h3.ttu,h4.ttu{font-weight:600;letter-spacing:.075em}.hd1{font-size:2rem}.light{font-weight:400}p{line-height:1.7;color:#757575}.small,p.small{font-size:.8rem;color:#959595}a{color:#00cc9c;text-decoration:none}.captain{text-transform:uppercase;letter-spacing:.1em;font-size:.8rem}.breadcrumbs{font-size:.8rem;color:#757575}.page-title{font-size:1.73em;font-weight:400}@media (min-width:768px){.page-title{font-size:2.4em;font-weight:300}}.hero-title{font-size:1.6rem;font-weight:700;line-height:1.2;color:#fff;text-transform:uppercase;letter-spacing:.1em}@media (min-width:768px){.hero-title{font-size:2.6rem}}.p{color:#757575;font-weight:400}.prod-title span{display:block}.offer-msg{font-size:.8em;letter-spacing:.1em}.notice-bar,.offer-msg{font-weight:500;text-transform:uppercase}.notice-bar{background:#1d2122;text-align:center;color:#fff;height:34px;font-size:.56rem;letter-spacing:.05em;position:relative;overflow:hidden;transition:height .2s ease-in-out}@media (min-width:768px){.notice-bar{font-size:.66rem;height:38px}}.notice-bar a{color:#fff}.notice-bar .icon-close{position:absolute;right:1rem;top:50%;width:14px;height:14px;opacity:.7;-webkit-transform:translateY(-50%);transform:translateY(-50%)}@media (min-width:960px){.notice-bar .icon-close{right:2rem}}.template-index header{background:transparent}header{background:#fff;width:100%;text-align:center;z-index:10}@media (min-width:960px){header{opacity:0;transition:opacity .1s ease-in-out}header.loaded{opacity:1}}header.hdr-small,header.hdr-small:hover,header.hdr-white{background:#fff}@media (max-width:959px){header.hdr-small{transition:top .1s linear;top:-80px}header.hdr-small.hdr-reveal{top:0}}header.hdr-small .notice-bar,header.menu-is-open .notice-bar{height:0}header .hdr-wrap{height:64px}@media (min-width:768px){header .hdr-wrap{height:64px}}header .hdr-wrap>*{flex:1;display:flex;justify-content:center}@media (min-width:60rem){header .hdr-wrap #logo>*{margin-right:auto}}header .hdr-wrap .hdr-actions{justify-content:flex-end}header .hdr-wrap .hdr-actions>*{margin-left:1rem;margin-top:2px}@media (min-width:768px){header .hdr-wrap .hdr-actions>*{margin-left:1.33rem}}header .hdr-wrap .hdr-actions .hdr-account{margin-top:-1px}header a{color:#1d2122}@media (max-width:959px){header{background:#fff}header .hdr-wrap{transition:height .2s ease-in-out;height:45px}header #logo svg{margin-top:5px;max-height:25px}}body:not(.template-index) .main-content{padding-top:102px}@media (max-width:959px){body:not(.template-index) .main-content{padding-top:87px}}@media (min-width:768px){.hdr-no-bg .main-content{padding-top:0}}#logo{margin:0}#logo a{display:block}#logo img{max-height:2.5rem}.hdr-cart{z-index:1;position:relative;font-size:1.2rem}.cart-count{position:absolute;background:#00cc9c;border-radius:100%;top:-8px;right:-9px;width:16px;height:16px;color:#fff;text-align:center;font-size:11px;font-family:Brandon Text,sans-serif;font-weight:700;padding:3px 2px;display:none}.cart-count.show{display:block}@media (min-width:960px){.hamburger{display:none!important}}.menu-icon{height:64px;margin-right:auto;padding-top:28px;border:none;display:block;background:none;cursor:pointer;box-sizing:border-box}.menu-icon:focus{border:none;box-shadow:none;outline-style:none}.menu-icon .menu-icon-bar{background:#1d2122;height:1px;position:relative;width:1rem;display:block;transition:all .2s ease}.menu-icon .menu-icon-bar+.menu-icon-bar{margin-top:2px}.menu-icon .menu-icon-bar:nth-of-type(2){top:2px}.menu-icon.active .menu-icon-bar:first-of-type{-webkit-transform:translateY(4px) rotate(45deg);transform:translateY(4px) rotate(45deg)}.menu-icon.active .menu-icon-bar:nth-of-type(2){top:5px;-webkit-transform:translateY(-4px) rotate(-45deg);transform:translateY(-4px) rotate(-45deg)}#icon-flag,.icon-flag{width:14px;height:10px;display:block;background:url(//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/flags.png?53350) no-repeat 0 0;background-position:-728px 0}#icon-flag.US,.icon-flag.US{background-position:-728px 0}#icon-flag.ROW,.icon-flag.ROW{background-position:-798px 0;height:14px}#icon-flag.GB,#icon-flag.UK,.icon-flag.GB,.icon-flag.UK{background-position:-252px 0}#icon-flag.FR,.icon-flag.FR{background-position:-238px 0}#icon-flag.EU,.icon-flag.EU{background-position:-784px 0}#icon-flag.CA,.icon-flag.CA{background-position:-98px 0}#icon-flag.AUD,.icon-flag.AUD{background-position:-42px 0}#icon-flag.PHP,.icon-flag.PHP{background-position:-532px 0}#icon-flag.SGD,.icon-flag.SGD{background-position:-644px 0}#icon-flag.MYR,.icon-flag.MYR{background-position:-462px 0}#icon-flag.THB,.icon-flag.THB{background-position:-686px 0}
+  </style>
+
+  
+
+
+
+<!-- SEO -->
+
+
+<title>
+    Privacy
+    
+    
+</title>
+
+    <meta name="description" content="PRIVACY POLICY Mous Products Ltd. Your privacy is genuinely important to us. so we’ve developed a Privacy Policy that explains how we collect, use, disclose, transfer, and store your information. We’ve tried to make it as transparent as possible, but this is a privacy policy, so some amount of legalese is unavoidable. ">
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="https://www.mous.co/pages/privacy">
+
+
+
+<link rel="alternate" hreflang="en" href="https://www.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-GB" href="https://uk.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-FR" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-AD" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-GR" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-MC" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-SM" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-BY" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-GI" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-AL" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-BA" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-LI" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-MK" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-ME" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-RS" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-UA" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-BG" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-EE" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-FI" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-HU" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-LV" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-LT" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-RO" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-AX" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-IS" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-NO" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-AT" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-CY" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-CZ" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-DK" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-IT" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-MT" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-PL" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-PT" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-SI" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-ES" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-SE" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-BE" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-HR" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-DE" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-IE" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-LU" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-NL" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-SK" href="https://eu.mous.co/pages/privacy">
+<link rel="alternate" hreflang="en-CH" href="https://eu.mous.co/pages/privacy">
+
+
+  
+      
+      
+      
+      <link rel="alternate" hreflang="fr-FR" href="https://fr.mous.co/pages/privacy">
+  
+
+
+
+
+
+  
+  
+
+  <!-- /snippets/social-meta-tags.liquid -->
+<meta property="og:site_name" content="Mous US">
+<meta property="og:url" content="https://www.mous.co/pages/privacy">
+<meta property="og:title" content="Privacy">
+<meta property="og:type" content="website">
+<meta property="og:description" content="PRIVACY POLICY Mous Products Ltd. Your privacy is genuinely important to us. so we’ve developed a Privacy Policy that explains how we collect, use, disclose, transfer, and store your information. We’ve tried to make it as transparent as possible, but this is a privacy policy, so some amount of legalese is unavoidable. ">
+
+
+<meta name="twitter:site" content="@MousCase/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Privacy">
+<meta name="twitter:description" content="PRIVACY POLICY Mous Products Ltd. Your privacy is genuinely important to us. so we’ve developed a Privacy Policy that explains how we collect, use, disclose, transfer, and store your information. We’ve tried to make it as transparent as possible, but this is a privacy policy, so some amount of legalese is unavoidable. ">
+
+
+  <!-- Preloads -->
+  <link rel="preload" href="//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/main.min.css?53350" as="style">
+
+  
+
+  <!-- STYLESHEETS -->
+  <link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/main.min.css?53350">
+
+  
+  
+  <!-- SCRIPTS -->
+  
+
+  
+
+
+
+
+<script>
+function checkIfAnalyticsLoaded () {
+    if (window.ga) {
+      ga('require', 'linker');
+      ga('linker:autoLink', ['mous.co'], false, true);
+      console.log('autolinker: active')
+      ipLookup()
+    } else {
+      setTimeout(checkIfAnalyticsLoaded, 500);
+    }
+  }
+
+  checkIfAnalyticsLoaded()
+</script>
+
+
+  <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/1983381562/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="38eb57c37be29537fcb62d6f79fc5a0a">
+<meta id="in-context-paypal-metadata" data-shop-id="1983381562" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, Helvetica Neue, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{line-height:0 !important;padding:0 !important;border-radius:unset !important;width:80px !important}@media (max-width: 500px){.additional-checkout-button--google-pay{width:100% !important}}.gpay-iframe{height:44px !important;width:100%  !important;cursor:pointer;vertical-align:middle !important}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal,.additional-checkout-button--venmo{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":1983381562,"countryCode":"GB","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/1983381562","merchantName":"Mous US","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex"],"total":{"type":"pending","label":"Mous US","amount":"1.00"}}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"38eb57c37be29537fcb62d6f79fc5a0a","betas":[],"domain":"www.mous.co","predictiveSearch":false,"shopId":1983381562,"smart_payment_buttons_url":"https:\/\/cdn.shopifycloud.com\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopifycloud.com\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "mous-us.myshopify.com";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.theme = {"name":"LIVE: Release-180519.2","id":44595576890,"theme_store_id":796,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};</script>
+<script id="__st">var __st={"a":1983381562,"offset":-25200,"reqid":"d2d704cf-7051-408b-aa1f-08af0fe184f4","pageurl":"www.mous.co\/pages\/privacy","s":"pages-23714168890","u":"ae4c8f192990","p":"page","rtyp":"page","rid":23714168890};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window.Shopify = window.Shopify || {};
+window.Shopify.Checkout = window.Shopify.Checkout || {};
+window.Shopify.Checkout.apiHost = "mous-us.myshopify.com";</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":23714168890}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  ga('require', 'linker');
+ga('linker:autoLink', ['mous.co','alpha.mous.co']);
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var isDuplicatedThankYouPageView = function() {
+    return document.cookie.indexOf('loggedConversion=' + window.location.pathname) !== -1;
+  }
+
+  var setCookieIfThankYouPage = function() {
+    if (window.location.pathname.indexOf('/checkouts') !== -1 &&
+        window.location.pathname.indexOf('/thank_you') !== -1) {
+
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + window.location.pathname + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config;
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+    var first = document.getElementsByTagName('script')[0];
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":1983381562,"isMerchantRequest":null,"themeId":44595576890,"themeCityHash":456578921106191512,"contentLanguage":"en"}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.01},"StorefrontPerformance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.01},"Google Analytics":{"trackingId":"UA-55172085-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["1587025591602660"],"agent":"plshopify1.2"},"Session Attribution":{}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    if (!isDuplicatedThankYouPageView()) {
+      setCookieIfThankYouPage();
+      
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"page","resourceType":"page","resourceId":23714168890}
+        );
+      
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-acf771159f9849ef6e5265782c99efe8b99406214c96a4373224ecafe285d7bb.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-acf771159f9849ef6e5265782c99efe8b99406214c96a4373224ecafe285d7bb.js"></script>
+<script integrity="sha256-ZGMHgi9G7WU+Z7WiP2suSn84yzoN83sGf9nMWJhVHAw=" defer="defer" src="//cdn.shopify.com/s/assets/storefront/express_buttons-646307822f46ed653e67b5a23f6b2e4a7f38cb3a0df37b067fd9cc5898551c0c.js" crossorigin="anonymous"></script>
+<script integrity="sha256-qzPTa4Ven/Yc2yyXr9BKZWCTXSrPTCnbGdWsxA7YCw0=" defer="defer" src="//cdn.shopify.com/s/assets/storefront/features-ab33d36b855e9ff61cdb2c97afd04a6560935d2acf4c29db19d5acc40ed80b0d.js" crossorigin="anonymous"></script>
+<script defer="defer" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-99e991855b3d8ddc69e625c68ab0579dd9927b611c2ec4943d396c72e3af0849.js"></script>
+
+
+
+</head>
+
+<body class="template-page">
+  
+  <script>
+  function ipLookup() {
+    var thisUrl = new URL(location.href)
+    var redirectParam = thisUrl.searchParams.get('userRedirect')
+    var thisStore = 'US'
+
+    function setLocationCookie (location, manualOveride) {
+        var today = new Date(Date.now());
+        var nextWeek = new Date(today.getTime() + 14 * 24 * 60 * 60 * 1000);
+        document.cookie = 'usrLocation='+location+'; expires='+nextWeek+'; path=/';
+
+        if (manualOveride){
+          document.cookie = 'usrLocationOveride=1; expires='+nextWeek+'; path=/';
+        }
+    }
+
+    function openLocationPopup () {
+      var lockScreenEls = document.querySelectorAll(['html', 'body'])
+
+      for (i = 0; i < lockScreenEls.length; i++) {
+        lockScreenEls[i].classList.add('noscroll')
+      }
+
+      document.getElementById('location-switch').classList.add('show')
+    }
+
+    function autoRedirect (usrLocation) {
+      ga(function(tracker) {
+        var linkerParam = tracker.get('linkerParam');
+        var usrLocationCode = usrLocation == 'GB' ? 'UK' : usrLocation
+        window.theme.gaEvent('Redirect', 'Automatic', usrLocationCode)
+        if (thisStore !== usrLocationCode) {
+          if (window.theme.helpers.euArray.indexOf(usrLocation) > -1) {
+            switch(usrLocation) {
+              case 'GB':
+                window.location.href = 'https://uk.mous.co/pages/privacy?userRedirect=GB&'+linkerParam
+                break;
+              case 'FR':
+                window.location.href = 'https://fr.mous.co/pages/privacy?userRedirect=FR&'+linkerParam
+                break;
+              default:
+                window.location.href = 'https://eu.mous.co/pages/privacy?userRedirect=EU&'+linkerParam
+            }
+          } else {
+            window.location.href = 'https://www.mous.co/pages/privacy?userRedirect=US&'+linkerParam
+          }
+        }
+      });
+
+    }
+
+    if (redirectParam) {
+      setLocationCookie(redirectParam, true)
+    } else if (window.theme.helpers.findCookie('usrLocation') == ''){
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.src = 'https://cdn.db-ip.com/js/dbip.js';
+        s.dataset.apiKey = 'p82835c0d7a0dfcab6c0ee9e158e9188a3d5d05e'
+        document.querySelector("head").prepend(s);
+
+        function dbipLoaded () {
+            if(window.dbip) {
+                dbip.getVisitorInfo().then(function(info) {
+                    console.log('IP Lookup request successful')
+                    // openLocationPopup()
+                    setLocationCookie(info.countryCode)
+                    autoRedirect(info.countryCode)
+                });
+            } else {
+                setTimeout(dbipLoaded , 500);
+            }
+        }
+
+        dbipLoaded ()
+    } else {
+      console.log('IP Lookup Bypassed')
+    }
+
+    
+      if (window.theme.helpers.findCookie('usrLocation') === 'ROW'){
+        document.addEventListener("DOMContentLoaded", function(event) {
+            var userLocation = window.theme.helpers.findCookie('usrLocation')
+            document.querySelector('#icon-flag').classList.add(userLocation);
+        })
+      }
+    
+  }
+</script>
+  
+
+  
+
+
+<div id="location-switch" class="modal fs dn" data-path="">
+	<div class="modal-bg"></div>
+	<div class="modal-content">
+		<div class="mw pdh tc">
+      
+			  <img class="center lazy" data-src="//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/map.svg?53350" width="280">
+      
+			<h2 class="hd1 light page-title">Select Location</h2>
+			<div class="location-wrap flex flex-wrap fxc">
+				
+					<div class="location-section">
+						
+								<h3>North America</h3>
+								<ul>
+									<li><a data-currency="USD" data-flag="USD" onclick="window.theme.gaEvent('Location Popup', 'US', 'clicked')" href="https://www.mous.co"><span class="icon-flag US"></span> USA</a></li>
+								</ul>
+							
+					</div>
+				
+					<div class="location-section">
+						
+								<h3>Europe</h3>
+								<ul>
+									<li><a onclick="window.theme.gaEvent('Location Popup', 'UK', 'clicked')" href="https://uk.mous.co"><span class="icon-flag GB"></span> United Kingdom</a></li>
+                  <li><a onclick="window.theme.gaEvent('Location Popup', 'FR', 'clicked')" href="https://fr.mous.co"><span class="icon-flag FR"></span> France</a></li>
+                  <li><a onclick="window.theme.gaEvent('Location Popup', 'EU', 'clicked')" href="https://eu.mous.co"><span class="icon-flag EU"></span> Europe</a></li>
+								</ul>
+							
+					</div>
+				
+					<div class="location-section">
+						
+								<h3>Rest of World</h3>
+								<ul class="pb5">
+									<li><a data-currency="USD" data-flag="ROW" onclick="window.theme.gaEvent('Location Popup', 'ROW', 'clicked')" href="https://www.mous.co?userRedirect=ROW"><span class="icon-flag ROW"></span> Rest of World</a></li>
+								</ul>
+						
+					</div>
+				
+			</div>
+		</div>
+    <i class="icon icon-close modal-close" onclick="window.theme.gaEvent('Location Popup', 'close button', 'clicked')"></i>
+	</div>
+</div>
+  
+
+
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXNL9L3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+
+  <div class="container">
+    <div id="shopify-section-header" class="shopify-section">
+
+
+
+
+
+<header id="hdr" data-section-id="header" data-section-type="header-section" role="banner" class="fixed bb">
+    
+        <div class="hdr-top notice-bar flex fxv fxc">
+            
+                <a onclick="window.theme.gaEvent('Page', 'Notifications Bar', 'clicked')" href="/collections/phone-cases">
+            
+
+            
+                30% off everything for Father's Day | Use code FATHER30
+            
+
+            
+                </a>
+            
+        </div>
+    
+    <div class="hdr-main">
+        <div class="hdr-wrap center pdh flex fxv">
+            <i class="hamburger">
+                <div class="menu-icon" onclick="window.theme.gaEvent('Mobile Menu Button', 'Main Nav', 'clicked')">
+                    <span class="menu-icon-bar"></span>
+                    <span class="menu-icon-bar"></span>
+                </div>
+            </i>
+            
+    <div id="logo">
+        <a href="/" role="link" aria-label="Home page" itemprop="url"><!--?xml version="1.0" encoding="UTF-8"?-->
+<svg aria-hidden="true" width="90px" viewBox="0 0 231 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#000000" fill-rule="nonzero">
+            <path d="M43.69,51.46 L58.57,25.87 L88,77 L0,77 C0.0747525169,76.214604 0.259909594,75.4436773 0.55,74.71 C9.84,58.61 19.16,42.53 28.77,25.94 L43.69,51.46 Z M108.34,77.09 C94.1738962,77.09 82.69,65.6061038 82.69,51.44 C82.69,37.2738962 94.1738962,25.79 108.34,25.79 C122.506104,25.79 133.99,37.2738962 133.99,51.44 C133.99,65.6061038 122.506104,77.09 108.34,77.09 Z M138.5,51.42 L139,51.42 L189.8,51.42 C189.8,65.5861038 178.316104,77.07 164.15,77.07 C149.983896,77.07 138.5,65.5861038 138.5,51.42 Z M205.3,25.78 L205.31,25.78 C219.285065,26.1308714 230.405621,37.6077684 230.315678,51.5869482 C230.225736,65.566128 218.958423,76.8989814 204.98,77.07 C204.98,76.9 204.98,76.74 204.98,76.58 L204.98,51.29 C191.005549,50.9409466 179.883772,39.4665077 179.970984,25.4879697 C180.058197,11.5094317 191.322281,0.174658929 205.3,0 L205.3,25.78 Z"></path>
+        </g>
+    </g>
+</svg></a>
+    </div>
+
+            <nav id="nav" class="cf" role="navigation">
+                <ul class="first-nav">
+                    
+                    
+                        
+                        
+                        <li class="dropdown shop-nav">
+                            <a onmouseover="window.theme.gaEvent('Shop All', 'Main Nav', 'hovered')" onclick="window.theme.gaEvent('Shop All', 'Main Nav', 'clicked')" href="/collections/phone-cases">Shop All</a>
+                            
+                                
+                                    <ul class="nav-dropdown">
+                                        <div class="mw">
+                                            <div class="nav-group nav-grid">
+                                                
+                                                    <li>
+                                                        <a onmouseover="window.theme.gaEvent('Phone Cases', 'Main Nav', 'clicked')" href="/collections/phone-cases">
+                                                            
+                                                            
+                                                            <img class="db center first lazy" data-src="//cdn.shopify.com/s/files/1/0019/8338/1562/collections/GroupLim1WalLim2Bamboo_340x340.jpg?v=1540409915" alt="Phone Cases">
+                                                            <span>Phone Cases</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a onmouseover="window.theme.gaEvent('Case Add-Ons', 'Main Nav', 'clicked')" href="/collections/case-add-ons">
+                                                            
+                                                            
+                                                            <img class="db center lazy" data-src="//cdn.shopify.com/s/files/1/0019/8338/1562/collections/Flex_Mount-1_150x150.jpg?v=1532332756" alt="Case Add-Ons">
+                                                            <span>Case Add-Ons</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a onmouseover="window.theme.gaEvent('Accessories', 'Main Nav', 'clicked')" href="/collections/accessories">
+                                                            
+                                                            
+                                                            <img class="db center lazy" data-src="//cdn.shopify.com/s/files/1/0019/8338/1562/collections/cable_2_150x150.jpg?v=1532332687" alt="Accessories">
+                                                            <span>Accessories</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                            </div>
+                                        </div>
+                                    </ul>
+                                
+                            
+                        </li>
+                    
+                        
+                        
+                        <li class="">
+                            <a onmouseover="window.theme.gaEvent('Help', 'Main Nav', 'hovered')" onclick="window.theme.gaEvent('Help', 'Main Nav', 'clicked')" href="/pages/help">Help</a>
+                            
+                                
+                            
+                        </li>
+                    
+                    
+                    
+                        <li class="dn-l"><a onclick="window.theme.gaEvent('Main Nav', 'Tutorials', 'clicked')" href="/pages/tutorials">Tutorials</a></li>
+                    
+                        <li class="dn-l"><a onclick="window.theme.gaEvent('Main Nav', 'Reviews', 'clicked')" href="/pages/reviews">Reviews</a></li>
+                    
+                        <li class="dn-l"><a onclick="window.theme.gaEvent('Main Nav', 'Warranty', 'clicked')" href="/pages/warranty">Warranty</a></li>
+                    
+                </ul>
+            </nav>
+            <div class="hdr-actions tr flex fxv">
+                <a href="#popup" data-popup="#location-switch" onclick="window.theme.gaEvent('Location Popup', 'Header Flag Button', 'clicked')" class="country-flag" aria-label="Select your language">
+                    <span id="icon-flag" class="US"></span>
+                </a>
+
+                <a class="hdr-account" href="/account"><img src="//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/user.svg?53350"></a>
+            
+                <div class="hdr-cart relative">
+    <a class="icon icon-cart" onclick="window.theme.gaEvent('Page', 'Cart Button', 'clicked')" href="/cart">
+        <span id="cart-count" class="cart-count">0</span>
+    </a>
+
+    <div class="hdr-cart__modal dn">
+      <form action="/cart" method="post" novalidate="" class="mini-cart">
+        <div class="hdr-cart__list"></div>
+        <div class="hdr-cart__footer tc">
+            <p class="hdr-cart__total">Total: <span id="cartSubtotal"></span></p>
+            <button type="submit" class="btn btn--minicart" name="checkout">
+              Checkout
+            </button>
+            <div class="additional-checkout-buttons justify-center dn"></div>
+            <div class="hdr-cart__continue pt3">
+              <small><a href="#continueShopping">Continue Shopping</a></small>
+            </div>
+        </div>
+      </form>
+    </div>
+    <div class="hdr-cart__bg dn"></div>
+</div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+</div>
+    <main class="main-content" role="main">
+        <div class="page mw-small pdh pdv">
+    <h1 class="measure tc mt0 page-title">Privacy</h1>
+    <div class="rte w-100">
+        <h3>PRIVACY POLICY</h3>
+<h4>Mous Products Ltd.</h4>
+<p>Your privacy is genuinely important to us. so we’ve developed a Privacy Policy that explains how we collect, use, disclose, transfer, and store your information.</p>
+<p>We’ve tried to make it as transparent as possible, but this is a privacy policy, so some amount of legalese is unavoidable. If some bits seem unclear or you have any questions, please email us at support@mous.co!</p>
+<h4>COLLECTION AND USE OF PERSONAL INFORMATION</h4>
+<p>Personal information is data that can be used to identify or contact an individual.</p>
+<p>We and our affiliates may share this personal information with each other to carry out business and legal obligations (such as shipping&nbsp;our products to you and making sure that you are eligible for our lifetime warranty) and use it consistent with this Privacy Policy and UK and EU law. You are not required to provide the personal information that we have requested, but, if you chose not to do so, in many cases we will not be able to provide you with our products or services or respond to any queries you may have.</p>
+<p>Here are some examples of the types of personal information we may collect and how we may use it:</p>
+<h4>WHAT PERSONAL INFORMATION DOES MOUS COLLECT?</h4>
+<p>When you order a product from our website or affiliated online retailer, we will need to process information such as your shipping address, billing address name, and email address. If you sign up to our mailing list, we’ll collect similar information to give you relevant details on offers, competitions, and just general news that you might find interesting.</p>
+<h4>WHAT HAPPENS IF I FAIL TO PROVIDE NECESSARY PERSONAL INFORMATION?</h4>
+<p>If you fail to provide certain information when requested, we may not be able to perform the contract we have entered into with you (such as providing you with our products or services), or we may be prevented from complying with our legal obligations.</p>
+<h4>HOW DO WE USE YOUR PERSONAL INFORMATION?</h4>
+<p>The vast majority of the personal information we collect allows us to deliver your product to you and ensure that if any issues arise we can solve them with you, your courier, or within Mous. As our cases come with a lifetime warranty, we also store some personal data to be able to verify that you have purchased one of our cases and are eligible for the warranty.</p>
+<p>We will also use personal data to keep you posted on Mous’ latest product announcements, company updates, upcoming events, or ask for ratings and reviews. You can opt in to our mailing list by clicking the relevant tick-box at checkout. If you opt in and then change your mind, you can opt out at any time by emailing us at<span>&nbsp;</span><a href="mailto:support@mous.co">support@mous.co</a>, or by clicking the unsubscribe link at the bottom of all of our emails.</p>
+<p>From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our products, terms, conditions, and policies. Because this information is important to your interaction with Mous, you cannot opt out of receiving these communications. If you have particular concerns about this, please contact<span>&nbsp;</span><a href="mailto:support@mous.co">support@mous.co</a><span>&nbsp;</span>and someone on our team will be happy to help.</p>
+<p>We may also use personal information for internal purposes such as auditing our processes, fixing problems that customers experience, data analysis, and research to improve our products, services, and customer service. However, we always make sure that the amount of personal data used is the absolute minimum required to do the job.</p>
+<p>If you enter into a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs.</p>
+<h4>COLLECTION AND USE OF NON-PERSONAL INFORMATION</h4>
+<p>We also collect data in a form that does not, on its own, permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it:</p>
+<p>We may collect information such as language, unique device identifier, referrer URL, location, and the time zone where the order was placed so that we can better understand customer behaviour and improve our products, services, and advertising.</p>
+<p>We may collect anonymous data regarding customer activities on our website. This data cannot be traced back to any individual and is aggregated and used to help us provide more useful information to our customers and to understand which parts of our website, products, and services are of most interest, or what our customer demographics are. Aggregated data is considered non-personal information for the purposes of this Privacy Policy.</p>
+<h4>COOKIES AND OTHER TECHNOLOGIES</h4>
+<p>Our website, online services, email messages, and advertisements may use "cookies" and other technologies such as pixel tags and web beacons. These technologies help us better understand how people use our website, what they need help with, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches.&nbsp;</p>
+<h4>What is a cookie?</h4>
+<p>Cookies are small files of text which are sent by websites and stored on a user’s computer, phone or tablet. They contain a code which identifies the user and their purpose is to help keep track of the user’s activity on the website. Different types of cookie are used for different reasons.</p>
+<h4>What kind of cookies are in use on our website?</h4>
+<h4>Session cookies</h4>
+<p>These are temporary cookies which will be deleted when you close your web browser. They are there to keep track of everything that you have added to your cart – if we didn’t use these cookies then your cart would empty every time you clicked on a new link.</p>
+<h4>Marketing cookies</h4>
+<p>These types of cookies are used so that you are shown more relevant and interesting ads on websites such as Facebook and Instagram. We do limit the period that you see these ads so that you don’t get spammed by us.<span>&nbsp;</span><br>We also use marketing cookies to measure the effectiveness of our online marketing efforts.</p>
+<h4>Statistical cookies</h4>
+<p>We use these third-party cookies to monitor how you use our website so that we can optimise our site and give you a better browsing and shopping experience in the future.</p>
+<h4>What if I don’t want cookies on my device?</h4>
+<p>By using our website, you consent to these cookies being placed on your device for the reasons described above.</p>
+<p>It is possible to clear cookies from your computer or phone and to change your web browser settings to reject or accept any new cookies from being stored. The way that this is done will differ between browsers – please refer to the help section of your browser for guidance.&nbsp;</p>
+<p>If you do decide to reject web cookies then please be aware that our website will not be fully functional as the items in your cart will not be retained as you go through the checkout process.</p>
+<h4>DISCLOSURE TO THIRD PARTIES</h4>
+<p>In order for us to process your payment and ship your order, we have to share some personal information with third parties, such as your local courier service. Personal data is governed by Mous’ and any given third party’s privacy policy. Personal information will only be shared by us to provide our products and services or solicit your feedback; we do not share it with third parties for marketing purposes.</p>
+<h4>SERVICE PROVIDERS</h4>
+<p>Mous shares personal information with companies who provide services such as information processing, payment processing, fulfilling customer orders, delivering products to you, managing and enhancing customer data, and providing customer service. These companies are obligated to protect your information to the same standard Mous does.</p>
+<h4>OTHERS</h4>
+<p>It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Mous to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.</p>
+<p>We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.</p>
+<h4>HOW DO WE PROTECT YOUR PERSONAL INFORMATION?</h4>
+<p>Mous takes the security of your personal information seriously. We use SSL (Secure Socket Layer) for encrypting data in transit. At rest (i.e. when not transferring it), we encrypt your data. When your personal data is stored by us, we use computer systems with limited access housed in facilities using physical security measures. Online data is stored in encrypted form including when we utilize third-party storage.</p>
+<p>When posting about Mous in a chat room or social networking service, the personal information and content you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to share or submit in these instances. For example, if you list your name and email address in a Facebook or Twitter posting, that information is public.</p>
+<h4>HOW LONG DO WE KEEP YOUR PERSONAL INFORMATION?</h4>
+<p>Mous will retain your personal information for the period necessary to fulfil the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.</p>
+<h4>YOUR RIGHTS TO YOUR DATA</h4>
+<p>You have a right to have any personal information we hold on you corrected if it is inaccurate. If we have made a mistake and hold data that we have no legal or commercial obligation to hold, you can also request its deletion.</p>
+<p>To these ends, we will provide you a list of your personal data we hold, and for what purposes we hold it. We may decline to process requests that are clearly frivolous (i.e. they are non-specific or not related to data protection), jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by law. Access, correction, or deletion requests can be made through emailing us at support@mous.co</p>
+<h4>RIGHT TO WITHDRAW CONSENT</h4>
+<p>In the limited circumstances where you may have provided your consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. To withdraw your consent, please contact our Data Protection Designate by emailing<span>&nbsp;</span><a href="mailto:support@mous.co">support@mous.co</a><span>&nbsp;</span>with ‘Data Protection’ in the subject line. Where we are providing you with marketing information, you can also change your marketing preferences by using the unsubscribe button at the bottom of our marketing emails to you. Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another legitimate basis for doing so.</p>
+<h4>THIRD-PARTY SITES AND SERVICES</h4>
+<p>Mous’ website and services may contain links to third-party websites, products, and services.</p>
+<p>Information collected by third parties, which may include such things as location data or contact details, is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.</p>
+<h4>OUR COMPANY WIDE COMMITMENT TO YOUR PRIVACY</h4>
+<p>To make sure your personal information is secure, we communicate our privacy and security guidelines to all relevant Mous employees and strictly enforce privacy safeguards within the company.</p>
+<h4>RIGHT TO COMPLAIN</h4>
+<p>You have a right to make a complaint if you wish to do so. The organisation with oversight of our processing is the Information Commissioner’s Office, which can be contacted in writing at Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, by telephone (0303 123 1113) or by e-mail (<a href="mailto:casework@ico.org.uk">casework@ico.org.uk</a>).</p>
+<h5><strong></strong></h5>
+<h5><strong></strong></h5>
+<h4>PRIVACY QUESTIONS</h4>
+<p>If you have any questions or concerns about Mous’ Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us.</p>
+<p>When a privacy question or access/download request is received we have a team which triages the contacts and seeks to address the specific concern or query which you are seeking to raise. Where your issue may be more substantive in nature, more information may be sought from you. All such substantive contacts receive a response. If you are unsatisfied with the reply received, you may refer your complaint to the relevant regulator in your jurisdiction. If you ask us, we will endeavour to provide you with information about relevant complaint avenues which may be applicable to your circumstances.</p>
+<h4>CHANGES TO THIS PRIVACY NOTICE</h4>
+<p>Mous may change, modify, add or remove portions of this policy at any time, and any changes will become effective immediately. Any changes we make to our privacy policy will be posted on this page and, where appropriate, notified to you.</p>
+<p>Mous Products Ltd., company No 09468982 registered in 6 North Close, Ipswich, IP42TL, UK. Design Registrations pending.</p>  
+    </div>
+</div>
+
+    </main>
+    
+<script src="https://showcase.abovemarket.com/embed/gallery/13169" data-gallery-id="13169" data-gallery-style="slider"></script>
+
+    <div id="shopify-section-footer" class="shopify-section">
+<footer id="ftr" class="ftr pv4">
+    <div class="pdh ftr-large tc pv4 pb0-l flex">
+      <div class="ftr-connect mb4">
+          
+              <div class="ftr-signup mb3">
+                  <h4>Product Launches &amp; Epic Stunts</h4>
+                  <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="contact-form"><input type="hidden" name="form_type" value="customer"><input type="hidden" name="utf8" value="✓">
+                      <div class="flex">
+                          <input type="email" value="" aria-label="Sign up to our newsletter" placeholder="Email" name="contact[email]" class="required email pill">
+                          <button onclick="window.theme.gaEvent('Newsletter', 'Footer signed up', 'submitted')" type="submit" value="Subscribe" name="subscribe">Get</button>
+                      </div>
+                       
+                      
+                  </form>
+              </div>
+          
+          <nav class="social-nav">
+              <ul>
+                  
+                  <li>
+                      <a class="social-icons__link" target="_blank" onclick="window.theme.gaEvent('Facebook', 'Footer Share Links', 'clicked')" href="https://facebook.com/mous/" title=" on Facebook">
+                      <span class="icon icon-facebook"></span>
+                      </a>
+                  </li>
+                  
+                  
+                  <li>
+                      <a class="social-icons__link" target="_blank" onclick="window.theme.gaEvent('Twitter', 'Footer Share Links', 'clicked')" href="https://twitter.com/MousCase/" title=" on Twitter">
+                      <span class="icon icon-twitter"></span>
+                      </a>
+                  </li>
+                  
+                  
+                  
+                  <li>
+                      <a class="social-icons__link" target="_blank" onclick="window.theme.gaEvent('Instagram', 'Footer Share Links', 'clicked')" href="https://instagram.com/mouscase/" title=" on Instagram">
+                      <span class="icon icon-instagram"></span>
+                      </a>
+                  </li>
+                  
+              </ul>
+          </nav>
+      </div>
+      <div class="ftr-nav-wrap mb4">
+          
+              
+              <div class="ftr-nav">
+                  <h4>About Mous</h4>
+                  <ul>
+                      
+                        <li>
+                          <a onclick="window.theme.gaEvent('iPhone Cases', 'Footer Nav', 'clicked')" href="/collections/phone-cases" class="db">iPhone Cases</a>
+                        </li>
+                      
+                        <li>
+                          <a onclick="window.theme.gaEvent('Samsung Cases', 'Footer Nav', 'clicked')" href="/collections/phone-cases" class="db">Samsung Cases</a>
+                        </li>
+                      
+                        <li>
+                          <a onclick="window.theme.gaEvent('About Us', 'Footer Nav', 'clicked')" href="/pages/about-us" class="db">About Us</a>
+                        </li>
+                      
+                        <li>
+                          <a onclick="window.theme.gaEvent('Reviews', 'Footer Nav', 'clicked')" href="/pages/reviews" class="db">Reviews</a>
+                        </li>
+                      
+                        <li>
+                          <a onclick="window.theme.gaEvent('Student Discount', 'Footer Nav', 'clicked')" href="/pages/student-beans" class="db">Student Discount</a>
+                        </li>
+                      
+                        <li>
+                          <a onclick="window.theme.gaEvent('Shipping &amp; Delivery', 'Footer Nav', 'clicked')" href="/pages/delivery" class="db">Shipping &amp; Delivery</a>
+                        </li>
+                      
+                  </ul>
+              </div>
+          
+              
+              <div class="ftr-nav">
+                  <h4>Support</h4>
+                  <ul>
+                      
+                        <li>
+                          <a onclick="window.theme.gaEvent('Help &amp; Contact', 'Footer Nav', 'clicked')" href="/pages/help" class="db">Help &amp; Contact</a>
+                        </li>
+                      
+                        <li>
+                          <a onclick="window.theme.gaEvent('Tutorials', 'Footer Nav', 'clicked')" href="/pages/tutorials" class="db">Tutorials</a>
+                        </li>
+                      
+                        <li>
+                          <a onclick="window.theme.gaEvent('Warranty', 'Footer Nav', 'clicked')" href="/pages/warranty" class="db">Warranty</a>
+                        </li>
+                      
+                        <li>
+                          <a onclick="window.theme.gaEvent('Privacy', 'Footer Nav', 'clicked')" href="/pages/privacy" class="db">Privacy</a>
+                        </li>
+                      
+                        <li>
+                          <a onclick="window.theme.gaEvent('Terms', 'Footer Nav', 'clicked')" href="/pages/terms" class="db">Terms</a>
+                        </li>
+                      
+                  </ul>
+              </div>
+          
+      </div>
+      <div class="ftr-meta">
+          <div class="logo mb3"><!--?xml version="1.0" encoding="UTF-8"?-->
+<svg aria-hidden="true" width="90px" viewBox="0 0 231 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#000000" fill-rule="nonzero">
+            <path d="M43.69,51.46 L58.57,25.87 L88,77 L0,77 C0.0747525169,76.214604 0.259909594,75.4436773 0.55,74.71 C9.84,58.61 19.16,42.53 28.77,25.94 L43.69,51.46 Z M108.34,77.09 C94.1738962,77.09 82.69,65.6061038 82.69,51.44 C82.69,37.2738962 94.1738962,25.79 108.34,25.79 C122.506104,25.79 133.99,37.2738962 133.99,51.44 C133.99,65.6061038 122.506104,77.09 108.34,77.09 Z M138.5,51.42 L139,51.42 L189.8,51.42 C189.8,65.5861038 178.316104,77.07 164.15,77.07 C149.983896,77.07 138.5,65.5861038 138.5,51.42 Z M205.3,25.78 L205.31,25.78 C219.285065,26.1308714 230.405621,37.6077684 230.315678,51.5869482 C230.225736,65.566128 218.958423,76.8989814 204.98,77.07 C204.98,76.9 204.98,76.74 204.98,76.58 L204.98,51.29 C191.005549,50.9409466 179.883772,39.4665077 179.970984,25.4879697 C180.058197,11.5094317 191.322281,0.174658929 205.3,0 L205.3,25.78 Z"></path>
+        </g>
+    </g>
+</svg></div>
+          <p class="small mv0">© Copyright2019. <br>All Rights Reserved.</p>
+      </div>
+  </div>
+</footer>
+
+</div>
+  </div>
+
+  <!-- POPUPS -->
+  <div id="phone-select" class="modal modal-btm">
+	<div class="modal-bg"></div>
+	<div class="modal-content tc">
+		<div class="mw pdh">
+			<h3 class="ttu">Choose Your <br>Phone</h3>
+			
+				
+					<div class="col">
+						<h4>iPhone</h4>
+						<ul>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('iPhone X/XS', 'Phone Selector', 'clicked')" data-filter="iphone-x" href="/collections/phone-cases/iphone-x">
+										iPhone X/XS
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('iPhone XS Max', 'Phone Selector', 'clicked')" data-filter="iphone-xs-max" href="/collections/phone-cases/iphone-xs-max">
+										iPhone XS Max
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('iPhone XR', 'Phone Selector', 'clicked')" data-filter="iphone-xr" href="/collections/phone-cases/iphone-xr">
+										iPhone XR
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('iPhone 8', 'Phone Selector', 'clicked')" data-filter="iphone-8" href="/collections/phone-cases/iphone-8">
+										iPhone 8
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('iPhone 8 Plus', 'Phone Selector', 'clicked')" data-filter="iphone-8-plus" href="/collections/phone-cases/iphone-8-plus">
+										iPhone 8 Plus
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('iPhone 7', 'Phone Selector', 'clicked')" data-filter="iphone-7" href="/collections/phone-cases/iphone-7">
+										iPhone 7
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('iPhone 7 Plus', 'Phone Selector', 'clicked')" data-filter="iphone-7-plus" href="/collections/phone-cases/iphone-7-plus">
+										iPhone 7 Plus
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('iPhone 6/6S', 'Phone Selector', 'clicked')" data-filter="iphone-6" href="/collections/phone-cases/iphone-6">
+										iPhone 6/6S
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('iPhone 6/6S Plus', 'Phone Selector', 'clicked')" data-filter="iphone-6-plus" href="/collections/phone-cases/iphone-6-plus">
+										iPhone 6/6S Plus
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				
+			
+				
+					<div class="col">
+						<h4>Samsung</h4>
+						<ul>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('Galaxy S10', 'Phone Selector', 'clicked')" data-filter="Samsung-S10" href="/collections/phone-cases/Samsung-S10">
+										Galaxy S10
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('Galaxy S10e', 'Phone Selector', 'clicked')" data-filter="Samsung-S10e" href="/collections/phone-cases/Samsung-S10e">
+										Galaxy S10e
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('Galaxy S10 Plus', 'Phone Selector', 'clicked')" data-filter="Samsung-S10-Plus" href="/collections/phone-cases/Samsung-S10-Plus">
+										Galaxy S10 Plus
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('Galaxy S9', 'Phone Selector', 'clicked')" data-filter="lim-2-protective-galaxy-s9-case" href="/products/lim-2-protective-galaxy-s9-case">
+										Galaxy S9
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('Galaxy S9 Plus', 'Phone Selector', 'clicked')" data-filter="lim-2-protective-galaxy-s9-plus-case" href="/products/lim-2-protective-galaxy-s9-plus-case">
+										Galaxy S9 Plus
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('Galaxy S8', 'Phone Selector', 'clicked')" data-filter="lim-2-protective-galaxy-s8-case" href="/products/lim-2-protective-galaxy-s8-case">
+										Galaxy S8
+									</a>
+								</li>
+							
+								
+								
+								<li>
+									<a class="js-phone-i" onclick="window.theme.gaEvent('Galaxy S8 Plus', 'Phone Selector', 'clicked')" data-filter="lim-2-protective-galaxy-s8-plus-case" href="/products/lim-2-protective-galaxy-s8-plus-case">
+										Galaxy S8 Plus
+									</a>
+								</li>
+							
+						</ul>
+					</div>
+				
+			
+		</div>
+    <i class="icon icon-close modal-close"></i>
+	</div>
+</div>
+  <div id="video-full" class="modal fs dn">
+	<div class="modal-bg"></div>
+	<div class="modal-content">
+		<div class="video-content"></div>
+		<i class="icon icon-close modal-close invert"></i>
+	</div>
+</div>
+  
+<div id="addons-select" class="modal modal-btm">
+	<div class="modal-bg"></div>
+	<div class="modal-content tc">
+		<div class="mw pdh">
+			<h3 class="ttu">Choose Your Case</h3>
+			<ul class="case-list">
+				
+					
+					
+					<li class="case-list-item">
+						<a class="addons-i" href="/collections/case-add-ons/clarity">
+							<img class="lazy" data-src="//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/case-clarity_180x.jpg?53350" alt="Clarity">
+							<span>Clarity</span>
+							<span class="icon icon-chevron-right"></span>
+						</a>
+					</li>
+				
+					
+					
+					<li class="case-list-item">
+						<a class="addons-i" href="/collections/case-add-ons/limitless-2-0">
+							<img class="lazy" data-src="//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/case-lim2_180x.jpg?53350" alt="Limitless 2.0">
+							<span>Limitless 2.0</span>
+							<span class="icon icon-chevron-right"></span>
+						</a>
+					</li>
+				
+			</ul>
+			<p>Unsure which one is yours? <a href="#CaseFinder">Click Here</a></p>
+		</div>
+	</div>
+</div>
+  <div id="case-finder" class="modal fs dn">
+	<div class="modal-bg"></div>
+	<div class="modal-content">
+		<div class="pdh tc">
+			<h2 class="page-title mv0">Which Case Is Mine?</h2>
+			<p>Got a case but not sure which one? We'll help you identify it</p>
+			<div class="cf-content flex-l flex-wrap">
+				
+					
+					<div class="pv4 w-third-l pdh">
+						<a href="/collections/case-add-ons/clarity">
+							<img class="db center w-70 w-80-l lazy" data-src="//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/cf-clarity_280x.jpg?53350" alt="Which case is mine - Clarity">
+							<h3>Clarity</h3>
+							<p>The Clarity case is our clear case and comes in only one variation. If your case is clear then this is the one.</p>
+						</a>
+					</div>
+				
+					
+					<div class="pv4 w-third-l pdh">
+						<a href="/collections/case-add-ons/limitless-2-0">
+							<img class="db center w-70 w-80-l lazy" data-src="//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/cf-lim-2_280x.jpg?53350" alt="Which case is mine - Limitless 2.0">
+							<h3>Limitless 2.0</h3>
+							<p>The Limitless 2.0 case has a logo tab at the bottom and can be identified by the pattern with circular rings on the inside.</p>
+						</a>
+					</div>
+				
+					
+					<div class="pv4 w-third-l pdh">
+						<a href="/pages/help#can-i-still-buy-case-add-ons-from-the-limitless-1-0-range">
+							<img class="db center w-70 w-80-l lazy" data-src="//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/cf-lim-1_280x.jpg?53350" alt="Which case is mine - Limitless 1.0">
+							<h3>Limitless 1.0</h3>
+							<p>Unfortunately, the Limitless 1.0 cases and case add-ons are no longer available. Please click here for more information.</p>
+						</a>
+					</div>
+				
+			</div>
+			<i class="icon icon-close modal-close"></i>
+		</div>
+	</div>
+</div>
+
+  
+	
+
+  <div class="alert"></div>
+  
+  <!-- Scripts -->
+  <script src="//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/vendors.min.js?53350"></script>  
+  <script src="//cdn.shopify.com/s/files/1/0019/8338/1562/t/9/assets/main.min.js?53350" defer=""></script>
+
+  
+
+  
+
+
+
+
+	<!-- INLINE-FOOTER -->
+  <script defer="">
+    var myLazyLoad = new LazyLoad({
+      elements_selector: ".lazy",
+      threshold: 0
+    })
+
+    
+  </script>
+
+  <script>
+    if ( window.location.href.indexOf('/challenge') > -1 ) {
+      var challengeWrapper = document.querySelector('.shopify-challenge__container')
+      challengeWrapper.querySelector('form').insertAdjacentHTML('afterbegin', '<input type="hidden" name="return_to" value="/account"/>')
+    }
+  </script>
+
+  
+  <script id="studentBeans" defer="">
+    var thisURL = new URL(window.location.href)
+    var studentBeansParam = thisURL.searchParams.get('aff_sub')
+    
+    if (studentBeansParam) {
+      window.theme.helpers.setCookie('studentBeans', studentBeansParam)
+    }
+  </script>
+  
+
+  
+  <script id="fyber" defer="">
+    var thisURL = new URL(window.location.href)
+    var fyberParam = thisURL.searchParams.get('utm_source')
+    
+    if (fyberParam == 'fyber') {
+      window.theme.helpers.setCookie('fyber', true)
+    }
+  </script>
+  
+
+	
+
+
+
+
+
+
+	<div id="cookies-banner-container" class="cookies-banner-container">
+	<div id="cb-message" class="cb-message">
+		
+		<div class="cb-text">
+			We use cookies to ensure that we give you the best experience on our website. If you continue we'll assume that you understand this. <a class="cb-privacy-page" href="/pages/privacy">Learn more.</a>
+		</div>
+		
+		<a href="javascript:closeCookiesBanner();" class="cb-accept">
+			Accept
+		</a>
+		
+	</div>
+</div>
+
+
+</body></html>
