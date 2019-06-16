@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230120655id_/https%3A//www.ams.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ams.org privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617010150id_/https%3A//www.ams.org/privacy) for the most accurate reproduction.*
 
 # AMS Privacy Statement
 
@@ -45,7 +45,7 @@ An HTTP Cookie is a piece of data that is stored by your browser in either your 
 
 ## How We Use and Disclose Your Information
 
-### _General_
+### General
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you in the best possible manner. The use of your personal information in the following ways is necessary for the legitimate interests of the AMS:
 
@@ -70,7 +70,7 @@ Where applicable, we may disclose your personal information to any affiliated bu
 
 Where required, processing performed by anyone other than AMS will be governed by a data processing agreement in the form required by law, preserving any and all of your statutory data protection rights.
 
-### _E-mail_
+### Email
 
 The AMS does not sell, trade or rent e-mail addresses to other organizations, or use or disclose them for marketing purposes, except as described below. Certain e-mail addresses may be published in both print and electronic AMS publications including the AMS website. The AMS may generate e-mail for the following types of communication:
 
@@ -82,9 +82,9 @@ The AMS does not sell, trade or rent e-mail addresses to other organizations, or
 
 
 
-E-mail that has a provision for opt-out will include instructions on how to do so. All inquiries regarding subscription-based e-mails should be directed to the AMS Sales and Member Services department (see AMS contact information below).
+Email that has a provision for opt-out will include instructions on how to do so. All inquiries regarding subscription-based e-mails should be directed to the AMS Sales and Member Services department (see AMS contact information below).
 
-### _Mailing Lists_
+### Mailing Lists
 
 Postal mailing lists, comprised of full name and postal address, may be rented to other organizations (e.g. professional societies and/or commercial publishers) for one-time promotional or informational use. Promotional or informational materials are subject to AMS approval prior to the rental. E-mail addresses are not included in mailing lists.  
 The AMS may occasionally send informational or promotional materials to members and customers. You may choose to exclude yourself from all, none, or only non-AMS mailings by contacting the Sales and Member Services department (see AMS contact information below) or by changing your privacy preferences in your AMS account.
