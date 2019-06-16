@@ -1,28 +1,22 @@
-> *The following text is extracted and transformed from the eurexchange.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101092148id_/http%3A//www.eurexchange.com/exchange-en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurexchange.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616172839id_/http%3A//www.eurexchange.com/exchange-en/privacy-notice) for the most accurate reproduction.*
 
-# Eurex Exchange - Privacy policy
+# Eurex Exchange - Privacy notice
 
-Under this privacy notice (hereinafter the “ **Notice** ”), Deutsche Börse AG (hereinafter “ **We** ” or “ **Us** ”) informs you how We process your personal data. Your personal data means any information relating to you (hereinafter the “Personal Data”), such as name or contact details.  
-
+Under this privacy notice (hereinafter the “ **Notice** ”), Eurex Frankfurt AG (hereinafter “ **We** ” or “ **Us** ”) informs you how We process your personal data. Your personal data means any information relating to you (hereinafter the “Personal Data”), such as name or contact details.
 
 We pay special attention on the processing of Personal Data in accordance with the General Data Protection Regulation EU 2016/679 (“GDPR”) and applicable national data protection laws.
 
- **1.1 Our identity and contact details**  
-
+ **1.1 Our identity and contact details**
 
 We are:  
 Eurex Frankfurt AG  
 60485 Frankfurt am Main  
-Deutschland  
+Deutschland
 
+ **1.2 Contact details of Our data protection officer**
 
- **1.2 Contact details of Our data protection officer**  
+Our data protection officer is
 
-
-Our data protection officer is  
-
-
-Nina Poppinga  
 Datenschutzbeauftragte(r) der Eurex Frankfurt AG  
 Eurex Frankfurt AG  
 60485 Frankfurt am Main
@@ -30,23 +24,19 @@ Eurex Frankfurt AG
 2 Purpose, Categories of Personal Data, Legal Basis and Retention
 
  **2.1 Categories of your Personal Data and purposes of Our processing**  
-We process the following categories of your Personal Data for the following purposes:  
+We process the following categories of your Personal Data for the following purposes:
 
-
-2.1.1 name, address, telephone number or e-mail address if you wish to make direct contact with us, register for a newsletter or a closed user group. Which data is collected in the various entry masks depends on the individual entry fields. Mandatory information fields will be marked accordingly. All other information shall be voluntary, and  
-
+2.1.1 name, address, telephone number or e-mail address if you wish to make direct contact with us, register for a newsletter or a closed user group. Which data is collected in the various entry masks depends on the individual entry fields. Mandatory information fields will be marked accordingly. All other information shall be voluntary, and
 
 2.1.2 our web servers will only store the shortened address of your internet service provider (i.e. the shortened IP address), the name of the website from where you visit us, our websites that you retrieve, the used web browser type and the date and duration of your visit. Any relation to an individual person is not established due to the shortened IP address.
 
  **2.2 Legal basis for Our processing of your Personal Data**  
-Our processing of your Personal Data is allowed by law. The legal basis is:  
-
+Our processing of your Personal Data is allowed by law. The legal basis is:
 
 2.2.1 As to the processing of your Personal Data under Section 2.1.1: The legal basis for processing of Personal Data for personalized services is Art. 6 para. 1 lit. (b) of the GDPR permitting the processing of your Personal Data for the purposes of providing our personalized services to you.
 
  **2.3 Do you have to provide your Personal Data to Us?**  
-The provision of your Personal Data is necessary to access the protected areas of this website which is limited to members of Our customer groups, to make direct contact with us, or to receive a newsletter. This means that you are obliged to provide your Personal Data to Us as part of a user registration process when making use of these options. Such Personal Data remain under your control at all times via the “My Profile” facility. Your user account can be viewed or modified at any time by you, the account owner.  
-
+The provision of your Personal Data is necessary to access the protected areas of this website which is limited to members of Our customer groups, to make direct contact with us, or to receive a newsletter. This means that you are obliged to provide your Personal Data to Us as part of a user registration process when making use of these options. Such Personal Data remain under your control at all times via the “My Profile” facility. Your user account can be viewed or modified at any time by you, the account owner.
 
 The consequences if you do not provide your Personal Data to Us are that the respective service offered may no longer be available.
 
@@ -95,17 +85,13 @@ Most of the cookies used are so-called “Session Cookies”, which are stored o
 
 Pursuant to § 15 Section 3 of the German Telemedia Act, website visitors are entitled to object to the storage of their visitor data, so that this data will no longer be recorded on this website in the future. If you object to the data storage, a cookie called “webtrekkOptOut” will be placed by the domain webtrekk.net for purposes of exemption from the web controlling process. Technically, the withdrawal notice will remain effective until the aforementioned cookie is deleted.
 
-Under applicable data protection laws, you have rights  
-
+Under applicable data protection laws, you have rights
 
 • of access to, rectification of, and/or erasure of your Personal Data;  
 • to restrict or object to its processing;  
 • to tell Us that you do not wish to receive marketing information; and  
-• (in some circumstances) to require certain of your Personal Data to be transferred to you or a third party, which you can exercise by contacting Us at the details set out at the beginning of this Notice.  
+• (in some circumstances) to require certain of your Personal Data to be transferred to you or a third party, which you can exercise by contacting Us at the details set out at the beginning of this Notice.
 
+To the extent Our processing of your Personal Data is based on your consent, you also have the right to withdraw your consent, without affecting the lawfulness of Our processing based on your consent before its withdrawal.
 
-To the extent Our processing of your Personal Data is based on your consent, you also have the right to withdraw your consent, without affecting the lawfulness of Our processing based on your consent before its withdrawal.  
-
-
-To exercise your rights, you can contact Us as set out in Section 1.1 above. You can also lodge a complaint about Our processing of your Personal Data with a data protection authority.  
-
+To exercise your rights, you can contact Us as set out in Section 1.1 above. You can also lodge a complaint about Our processing of your Personal Data with a data protection authority.
