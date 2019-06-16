@@ -1,10 +1,42 @@
-<!--The following is the downloaded HTML source of the motherjones.com privacy policy that was archived on 2018-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181207180030id_/https%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motherjones.com privacy policy that was archived on 2019-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190616224026id_/https%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class="no-js jetpack-lazy-images-js-enabled fonts-stage-1"><head>
-	<meta charset=""><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<!DOCTYPE html><html lang="en-US" class="no-js async-hide jetpack-lazy-images-js-enabled fonts-stage-1"><head>
+	<meta charset=""><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-55MKBQW&amp;amp;gtm_auth=1rT9WxKtoVrlrpfysHCQ-Q&amp;amp;gtm_preview=env-2&amp;amp;gtm_cookies_win=x"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Security-Policy" content="default-src https://* 'unsafe-inline' 'unsafe-eval' data:; upgrade-insecure-requests;">
+			<script>
+			// Google Tag Manager
+			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl+'&amp;gtm_auth=1rT9WxKtoVrlrpfysHCQ-Q&amp;gtm_preview=env-2&amp;gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-55MKBQW');
+		</script>
+		<style>.async-hide { opacity: 0 !important} </style>
+		<script>
+		(function(a,s,y,n,c,h,i,d,e){
+			// we don't need this, we need to specifically mark optimize spots
+			s.className+=' '+y;
+			// okay yeah we need this tho
+			h.start=1*new Date;
+			h.end=i=function(){
+				// okay instead of screwing w/ the document classname we need to remove the class from all elements w/ the class
+				s.className=s.className.replace(RegExp(' ?'+y),'');
+				// you may have noticed this but it means that if this runs before those elements are ready they stay hidden	
+			};
+			(a[n]=a[n]||[]).hide=h;
+			setTimeout(function(){i(); h.end=null},c);
+			h.timeout=c;
+		})(
+			window, //a
+			document.documentElement, //s
+			'async-hide', //y
+			'dataLayer', //n
+			3000, //c
+			{'GTM-55MKBQW':true} //h
+		);</script>
+	
 	<style>
 @font-face{font-family:'MallorySubset';src:url(data:application/font-woff;charset=utf-8;base64,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)format('woff');unicode-range:U+0021-U+007E}body,caption,input,textarea,select,option,legend,fieldset{font-family:Georgia,"Times New Roman","Bitstream Vera Serif",serif;font-size:16px;line-height:1.5}.fonts-stage-1 h1,.fonts-stage-1 h2,.fonts-stage-1 h3,.fonts-stage-1 h4,.fonts-stage-1 h5{font-family:MallorySubset,sans-serif;font-weight:bold;font-style:normal}
 </style>
@@ -20,9 +52,9 @@
 <link rel="alternate" type="application/rss+xml" title="Mother Jones » Comments Feed" href="https://www.motherjones.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Mother Jones » Privacy Policy Comments Feed" href="https://www.motherjones.com/about/privacy-policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.motherjones.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.motherjones.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.motherjones.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.motherjones.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.1" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -37,28 +69,22 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="all-css-0" href="https://www.motherjones.com/_static/??/wp-content/themes/motherjones/css/style.min.css,/wp-content/mu-plugins/jetpack/css/jetpack.css?m=1544044643" type="text/css" media="all">
-<script type="text/javascript">
-/* <![CDATA[ */
-var mj_analytics_config = {"tagmanager_param":"&gtm_auth=1rT9WxKtoVrlrpfysHCQ-Q&gtm_preview=env-2&gtm_cookies_win=x"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.motherjones.com/_static/??/wp-includes/js/jquery/jquery.js,/wp-content/themes/motherjones/js/header-analytics.min.js?m=1539372743j"></script>
+	<link rel="stylesheet" id="all-css-0" href="https://www.motherjones.com/_static/??-eJx1zEEOgzAMRNELNZhKKV1VPQsEixocJ4odIW7ftGLL7i/mDezZkQSuMyoEVZhJDSZOYXNMUxnLAWoHYxdJuja4QRMhiaEY2AdjczG1KGuS8+MaxOoy14VEYUXLY9j+4Ozf/B1f98fQe+/74fkFiSs6AQ==" type="text/css" media="all">
+<script type="text/javascript" src="https://www.motherjones.com/wp-includes/js/jquery/jquery.js?m=1560272758g"></script>
 <link rel="https://api.w.org/" href="https://www.motherjones.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.motherjones.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.motherjones.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.8">
+<meta name="generator" content="WordPress 5.2.1">
 <link rel="canonical" href="https://www.motherjones.com/about/privacy-policy/">
 <link rel="shortlink" href="https://www.motherjones.com/?p=626">
 <link rel="alternate" type="application/json+oembed" href="https://www.motherjones.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.motherjones.com%2Fabout%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.motherjones.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.motherjones.com%2Fabout%2Fprivacy-policy%2F&amp;format=xml">
-			<meta property="fb:pages" content="7642602143">
-			<style type="text/css">img#wpstats{display:none}</style><meta property="og:url" content="https://www.motherjones.com/about/privacy-policy/">
+<style type="text/css">img#wpstats{display:none}</style><meta property="og:url" content="https://www.motherjones.com/about/privacy-policy/">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:image" content="https://www.motherjones.com/wp-content/themes/motherjones/img/mj-nomaster-2000-1124.jpg">
-<meta property="article:published" content="2008-12-08T23:46:36+00:00">
-<meta property="article:modified" content="2018-10-12T17:23:01+00:00">
+<meta property="article:published" content="2008-12-08T23:46:36-04:00">
+<meta property="article:modified" content="2018-10-12T17:23:01-04:00">
 <meta property="og:site_name" content="Mother Jones">
 <meta property="fb:admins" content="13301307,670317733,1198876232,38509772,106892,2907757,306289,602422192,4101301,513450539">
 <meta property="fb:pages" content="7642602143">
@@ -70,7 +96,8 @@ var mj_analytics_config = {"tagmanager_param":"&gtm_auth=1rT9WxKtoVrlrpfysHCQ-Q&
 <meta property="twitter:site" content="@Motherjones">
 <meta property="twitter:card" content="summary_large_image">
 <meta name="twitter:dnt" content="on">			<style type="text/css">
-				html:not( .jetpack-lazy-images-js-enabled ) .jetpack-lazy-image {
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
 					display: none;
 				}
 			</style>
@@ -103,91 +130,100 @@ var mj_analytics_config = {"tagmanager_param":"&gtm_auth=1rT9WxKtoVrlrpfysHCQ-Q&
 		</li>
 				<li class="menu-button">
  			<a data-ga-label="MenuExpand" data-ga-category="Navbar|Floating" tabindex="0" onclick="expandMenu();">
-				<svg id="nav-menu-svg" width="25px" height="25px" enable-background="new 0 0 125 125" version="1.1" viewBox="0 0 125 125" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+				<svg id="nav-menu-svg" width="36px" height="36px" enable-background="new 0 0 125 125" version="1.1" viewBox="0 0 125 125" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
 					<path d="m0 100.87"></path>
-					<rect y="30" width="125" height="15"></rect>
-					<rect y="70" width="125" height="15"></rect>
-					<rect y="110" width="125" height="15"></rect>
+					<rect y="0" width="125" height="20"></rect>
+					<rect y="40" width="125" height="20"></rect>
+					<rect y="80" width="125" height="20"></rect>
 				</svg>
-				<svg id="nav-close-svg" width="22px" height="22px" x="0px" y="0px" version="1.1" viewBox="0 0 19.8 19.8" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+				<svg id="nav-close-svg" width="34px" height="34px" x="0px" y="0px" version="1.1" viewBox="0 0 19.8 19.8" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
 					<polygon points="19.8,2.4 17.4,0 9.9,7.5 2.4,0 0,2.4 7.5,9.9 0,17.4 2.4,19.8 9.9,12.3 17.4,19.8 19.8,17.4 12.3,9.9 "></polygon>
 				</svg>
 			</a>
 		</li>
 		<li class="donate-link article-page desktop">
-			<a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=DON&amp;term_pub=DON&amp;list_source=7HEGP002&amp;term=XX.1.50.00.DON.D.0.7252" title="Donate" target="_blank" data-ga-label="Donate" data-ga-category="Navbar|Floating">Donate</a>
+			<a href="https://secure.actblue.com/donate/motherjones/?refcode=7HEGP002&amp;amount=50.00&amp;recurring=0" title="Donate" target="_blank" data-ga-label="Donate" data-ga-category="Navbar|Floating">Donate</a>
 		</li>
 		<li class="donate-link article-page mobile" style="display:none;">
-			<a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=DON&amp;term_pub=DON&amp;list_source=7HEGP007&amp;term=XX.1.50.00.DON.D.0.7252" title="Donate" target="_blank" data-ga-label="Donate" data-ga-category="Navbar|Floating">Donate</a>
+			<a href="https://secure.actblue.com/donate/motherjones/?refcode=7HEGP007&amp;amount=50.00&amp;recurring=0" title="Donate" target="_blank" data-ga-label="Donate" data-ga-category="Navbar|Floating">Donate</a>
 		</li>
 		<li class="subscribe-link article-page hidden-xxs">
-			<a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN1" title="Subscribe" target="_blank" data-ga-label="Subscribe" data-ga-category="Navbar|Floating">Subscribe</a>
+			<a href="https://store.motherjones.com/pages/magazine-subscriptions" title="Subscribe" target="_blank" data-ga-label="Subscribe" data-ga-category="Navbar|Floating">Subscribe</a>
 		</li>
 	</ul>
 	<div id="combined-nav">
 		<div id="mj_topnav_select" class="menu-top-nav-container"><ul id="mj_topnav_options"><li>
 <form role="search" method="get" class="search-form" action="https://www.motherjones.com/" data-ga-label="Search" data-ga-category="Search">
 	<label>
-		<input type="search" class="search-field" placeholder="SEARCH…" value="" name="s" title="Search for:">
+		<input type="search" class="search-field" placeholder="Search…" value="" name="s" title="Search for:">
 	</label>
-	<input type="submit" class="search-submit" value="SUBMIT">
+	<input type="submit" class="search-submit" value="Submit">
 	<button type="submit"><i class="icon-search"></i></button>
 </form>
-</li><li id="menu-item-656447" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-656447"><a href="https://www.motherjones.com/politics/2018/12/florida-voted-to-give-ex-felons-the-franchise-now-republicans-are-throwing-a-wrench-in-that-process/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/politics/2018/12/florida-voted-to-give-ex-felons-the-franchise-now-republicans-are-throwing-a-wrench-in-that-process/" data-ga-label="NavPosition_1|voting-rights">Voting Rights</a></li>
-<li id="menu-item-655924" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-655924"><a href="https://www.motherjones.com/media/2018/12/facebook-twitter-fake-news-toxic-content-social-media-companies/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/media/2018/12/facebook-twitter-fake-news-toxic-content-social-media-companies/" data-ga-label="NavPosition_2|disinformation">Disinformation</a></li>
-<li id="menu-item-656452" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-656452"><a href="https://www.motherjones.com/media/2018/12/migrant-caravan-mexico-portraits-photos-brett-gundlock/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/media/2018/12/migrant-caravan-mexico-portraits-photos-brett-gundlock/" data-ga-label="NavPosition_3|migrant-caravan">Migrant Caravan</a></li>
-<li id="menu-item-656454" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-656454"><a href="https://www.motherjones.com/media/2018/12/david-byrne-mother-jones-podcast-trump-news-journalism/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/media/2018/12/david-byrne-mother-jones-podcast-trump-news-journalism/" data-ga-label="NavPosition_4|david-byrne">David Byrne</a></li>
+</li><li id="menu-item-757613" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-757613"><a href="https://www.motherjones.com/politics/2019/06/how-russia-can-spend-money-to-influence-the-2020-election-legally/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/politics/2019/06/how-russia-can-spend-money-to-influence-the-2020-election-legally/" data-ga-label="NavPosition_1|russian-influence">Russian Influence</a></li>
+<li id="menu-item-757614" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-757614"><a href="https://www.motherjones.com/politics/2019/06/johnson-and-johnson-opioid-poppies-tasmania-oklahoma-lawsuit/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/politics/2019/06/johnson-and-johnson-opioid-poppies-tasmania-oklahoma-lawsuit/" data-ga-label="NavPosition_2|opioid-lawsuit">Opioid Lawsuit</a></li>
+<li id="menu-item-757615" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-757615"><a href="https://www.motherjones.com/media/2019/06/digging-into-the-messy-history-of-latinx-helped-me-embrace-my-complex-identity/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/media/2019/06/digging-into-the-messy-history-of-latinx-helped-me-embrace-my-complex-identity/" data-ga-label="NavPosition_3|latinx">“Latinx”</a></li>
+<li id="menu-item-757617" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-757617"><a href="https://www.motherjones.com/crime-justice/2019/06/alabama-banned-abortions-then-its-lawmakers-remembered-rapists-can-get-parental-rights/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/crime-justice/2019/06/alabama-banned-abortions-then-its-lawmakers-remembered-rapists-can-get-parental-rights/" data-ga-label="NavPosition_4|alabama-abortion-ban">Alabama Abortion Ban</a></li>
 </ul></div>		<div id="mj_menu_select" class="menu-floating-navbar-container"><ul id="mj_menu_options"><li id="menu-item-405555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405555"><a href="https://www.motherjones.com/./politics/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/./politics/" data-ga-label="NavPosition_1">Politics</a></li>
 <li id="menu-item-405556" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405556"><a href="https://www.motherjones.com/./environment/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/./environment/" data-ga-label="NavPosition_2">Environment</a></li>
-<li id="menu-item-405557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405557"><a href="https://www.motherjones.com/./media/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/./media/" data-ga-label="NavPosition_3">Media</a></li>
-<li id="menu-item-405558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405558"><a href="https://www.motherjones.com/./crime-justice/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/./crime-justice/" data-ga-label="NavPosition_4">Crime and Justice</a></li>
-<li id="menu-item-405559" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405559"><a href="https://www.motherjones.com/./food/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/./food/" data-ga-label="NavPosition_5">Food</a></li>
-<li id="menu-item-405562" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405562"><a href="https://www.motherjones.com/topics/photoessays/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/topics/photoessays/" data-ga-label="NavPosition_6">Photos</a></li>
-<li id="menu-item-405563" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405563"><a href="https://www.motherjones.com/topics/investigations/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/topics/investigations/" data-ga-label="NavPosition_7">Investigations</a></li>
+<li id="menu-item-405558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405558"><a href="https://www.motherjones.com/./crime-justice/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/./crime-justice/" data-ga-label="NavPosition_3">Crime and Justice</a></li>
+<li id="menu-item-405559" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405559"><a href="https://www.motherjones.com/./food/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/./food/" data-ga-label="NavPosition_4">Food</a></li>
+<li id="menu-item-405557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405557"><a href="https://www.motherjones.com/./media/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/./media/" data-ga-label="NavPosition_5">Media</a></li>
+<li id="menu-item-405563" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405563"><a href="https://www.motherjones.com/topics/investigations/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/topics/investigations/" data-ga-label="NavPosition_6">Investigations</a></li>
+<li id="menu-item-405562" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405562"><a href="https://www.motherjones.com/topics/photoessays/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/topics/photoessays/" data-ga-label="NavPosition_7">Photos</a></li>
 <li id="menu-item-615549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-615549"><a href="/magazine" data-ga-category="Navbar|Floating" data-ga-action="/magazine" data-ga-label="NavPosition_8">Magazine</a></li>
 <li id="menu-item-405598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405598"><a href="https://www.motherjones.com/podcasts/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/podcasts/" data-ga-label="NavPosition_9">Podcasts</a></li>
 <li id="menu-item-579708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-579708"><a href="https://www.motherjones.com/newsletters/" data-ga-category="Navbar|Floating" data-ga-action="https://www.motherjones.com/newsletters/" data-ga-label="NavPosition_10">Newsletters</a></li>
 </ul></div>	</div>
 </nav>
 <!-- end following navbar -->
-<div id="page" class="grid">
-		<nav id="topnav" role="navigation" class="grid">
-	<div id="topic-menu" class="grid col-8">
-		<div id="mj_topnav_select" class="menu-top-nav-container"><ul id="mj_topnav_options"><li>
+<nav id="topnav" role="navigation">
+	<div class="grid">
+		<div id="topic-menu" class="grid col-8">
+			<div id="mj_topnav_select" class="menu-top-nav-container"><ul id="mj_topnav_options"><li>
 <form role="search" method="get" class="search-form" action="https://www.motherjones.com/" data-ga-label="Search" data-ga-category="Search">
 	<label>
-		<input type="search" class="search-field" placeholder="SEARCH…" value="" name="s" title="Search for:">
+		<input type="search" class="search-field" placeholder="Search…" value="" name="s" title="Search for:">
 	</label>
-	<input type="submit" class="search-submit" value="SUBMIT">
+	<input type="submit" class="search-submit" value="Submit">
 	<button type="submit"><i class="icon-search"></i></button>
 </form>
-</li><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-656447"><a href="https://www.motherjones.com/politics/2018/12/florida-voted-to-give-ex-felons-the-franchise-now-republicans-are-throwing-a-wrench-in-that-process/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/politics/2018/12/florida-voted-to-give-ex-felons-the-franchise-now-republicans-are-throwing-a-wrench-in-that-process/" data-ga-label="NavPosition_1|voting-rights">Voting Rights</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-655924"><a href="https://www.motherjones.com/media/2018/12/facebook-twitter-fake-news-toxic-content-social-media-companies/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/media/2018/12/facebook-twitter-fake-news-toxic-content-social-media-companies/" data-ga-label="NavPosition_2|disinformation">Disinformation</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-656452"><a href="https://www.motherjones.com/media/2018/12/migrant-caravan-mexico-portraits-photos-brett-gundlock/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/media/2018/12/migrant-caravan-mexico-portraits-photos-brett-gundlock/" data-ga-label="NavPosition_3|migrant-caravan">Migrant Caravan</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-656454"><a href="https://www.motherjones.com/media/2018/12/david-byrne-mother-jones-podcast-trump-news-journalism/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/media/2018/12/david-byrne-mother-jones-podcast-trump-news-journalism/" data-ga-label="NavPosition_4|david-byrne">David Byrne</a></li>
-</ul></div>	</div>
-	<div class="subscribe-link grid col-4">
-		<a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN" title="Subscribe" data-ga-label="Subscribe|Text" data-ga-category="Masthead">Subscribe to our magazine
-		</a>
+</li><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-757613"><a href="https://www.motherjones.com/politics/2019/06/how-russia-can-spend-money-to-influence-the-2020-election-legally/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/politics/2019/06/how-russia-can-spend-money-to-influence-the-2020-election-legally/" data-ga-label="NavPosition_1|russian-influence">Russian Influence</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-757614"><a href="https://www.motherjones.com/politics/2019/06/johnson-and-johnson-opioid-poppies-tasmania-oklahoma-lawsuit/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/politics/2019/06/johnson-and-johnson-opioid-poppies-tasmania-oklahoma-lawsuit/" data-ga-label="NavPosition_2|opioid-lawsuit">Opioid Lawsuit</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-757615"><a href="https://www.motherjones.com/media/2019/06/digging-into-the-messy-history-of-latinx-helped-me-embrace-my-complex-identity/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/media/2019/06/digging-into-the-messy-history-of-latinx-helped-me-embrace-my-complex-identity/" data-ga-label="NavPosition_3|latinx">“Latinx”</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-757617"><a href="https://www.motherjones.com/crime-justice/2019/06/alabama-banned-abortions-then-its-lawmakers-remembered-rapists-can-get-parental-rights/" data-ga-category="Topnav" data-ga-action="https://www.motherjones.com/crime-justice/2019/06/alabama-banned-abortions-then-its-lawmakers-remembered-rapists-can-get-parental-rights/" data-ga-label="NavPosition_4|alabama-abortion-ban">Alabama Abortion Ban</a></li>
+</ul></div>		</div>
+		<div class="subscribe-link col-4">
+			<a href="https://store.motherjones.com/pages/magazine-subscriptions" title="Subscribe" data-ga-label="Subscribe|Text" data-ga-category="Masthead">
+
+				<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 120 93" style="enable-background:new 0 0 120 93; max-width:1.5rem;" xml:space="preserve">
+					<path d="M113.97,12.88V0.37h-4.01c-1.58,0-35.61,0.3-50.15,23.55C45.26,0.67,11.23,0.37,9.65,0.37H5.64v12.52
+						c-3.72-0.32-6.02-0.37-6.02-0.37v80.24H59.8h60.18V12.51C119.98,12.51,117.68,12.56,113.97,12.88z M105.94,8.63v5.18
+						c-11.46,1.65-27.54,5.35-38.83,13.68C76.98,12.86,97.3,9.42,105.94,8.63z M13.66,8.62C22.3,9.4,42.63,12.8,52.5,27.5
+						c-11.29-8.34-27.37-12.04-38.84-13.69V8.62z"></path>
+				</svg>
+				<span>Subscribe to our magazine</span>
+			</a>
+		</div>
 	</div>
 </nav>
 <!-- end following navbar -->
-
+<div id="page" class="grid">
 	<header id="masthead" class="site-header col-12">
 		<section class="banner grid" role="banner">
-			<div class="logo col-5">
+			<div class="logo col-4">
 				<a href="/" title="Return to Mother Jones Homepage" data-ga-label="Home" data-ga-category="Masthead">
 					
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 813.67 165.61"><path d="M53.72 97.86h-.39l-8.05-86.64H0v152.49h28.78v-85.9l-1.67-36.19 2.05 14.73 14.39 107.36h19.18L77.12 56.35l2.05-14.73-1.66 36.19v-.04 85.94h28.77V11.22H62.54l-8.82 86.64M391.4 87.12c0-33.06-1.23-58.67-34-58.67S321 61.67 321 91.17c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.07s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.01-3.49.78-13.92.78-22.8zm-42.79-3.22c0-13.9 1.92-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94zM148.49 28.44c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c.01-35.87.01-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.02 27.23-.79 36.07-10 36.07zM442.34 28.44c-9.37 0-13.73 8.49-16 17.24l-2.56 19.49V30h-29v133.7h31.08V92.19c0-26 7.86-30.34 15.94-30.34 11.79 0 14.55 14.16 14.55 14.16V35.77s-5.48-7.33-14.01-7.33zm-145.72 0c-10.55 0-17.44 7.48-19.7 18.65l-2.17 12.5V11.22h-31.08v152.49h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.57 5.37 14.67v88.63h31.08V50.92c0-11.48-4.8-22.48-20.91-22.48zm261.29.34c-38.75 0-38.75 27.18-38.75 65.11 0 43.53 3.93 71.72 38.75 71.72s38.75-26 38.75-75c0-35.87 0-61.83-38.75-61.83zm0 104.47c-9.21 0-10-5-10-36.06 0-29.34.77-36.06 10-36.06s10 7.08 10 36.06c-.03 27.22-.8 36.06-10 36.06zm95.16-104.81c-10.55 0-17.44 7.48-19.7 18.65l-2.18 12.5V30h-31.07v133.7h31.08V74.29c0-5.13.44-13.88 6.33-13.88s5.37 7.59 5.37 14.67v88.63H674V50.92c0-11.48-4.82-22.48-20.93-22.48zm-196.65 91.04v35.95s5.38 9.57 24.19 9.57c28.22 0 35.09-23.13 35.09-48.79v-105h-28.78v92.09c0 26-7.86 30.34-15.94 30.34-11.8-.01-14.56-14.16-14.56-14.16zm294.37-2.96c2.8 10.71 8.62 21.34 21.82 21.34 8.73 0 12.83-3 13.24-11.5.89-18.69-34.34-27.06-34.34-59.75 0-28.46 13.87-38.16 33.77-38.16 11.63 0 23.26 7.85 26.62 15.53V76c-3.36-9.36-10.27-20.08-19.8-20.08-7.55 0-11.17 3.6-11.51 10.72-.92 19.3 33.09 26.18 33.09 56.64 0 25.71-9 42-34.34 42-20.13 0-28.54-17.68-28.54-17.68zm-2.95-29.4c0-33.06-1.23-58.67-34-58.67s-36.45 33.23-36.45 62.73c0 37.54 5.56 74.1 39.71 74.1 19.34 0 30.18-17.68 30.18-17.68v-31.08s-8.4 21.23-24.62 21.23c-11.32 0-17.65-10.58-17.65-27.83h42c.07-3.49.83-13.92.83-22.8zm-42.78-3.22c0-13.9 1.94-24.9 9.6-24.9 8.25 0 10.17 12.31 10.17 24.94z"></path><path class="cls-1" d="M221.79 0l-37 33.52s5.88 14.91 5.88 40.66v65.18c0 18.45 10.74 25.93 25.9 25.93 10.43 0 17.28-2.83 23.6-8.49v-27.63c-2.51 4.56-5.31 7-9.72 7-4.67 0-8.69-3.38-8.69-10.79V58.2h18.44V30h-18.41z"></path></svg>
 				</a>
 			</div>
-			<div class="subscribe-donate col-7">
-				<a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=DON&amp;term_pub=DON&amp;list_source=7HEGP001&amp;term=XX.1.50.00.DON.D.0.2157" title="Donate" data-ga-label="Donate" data-ga-category="Masthead">
+			<div class="subscribe-donate col-8">
+				<a href="https://secure.actblue.com/donate/motherjones?refcode=7HEGP001&amp;amount=50.00&amp;recurring=0" title="Donate" data-ga-label="Donate" data-ga-category="Masthead">
 					<button class="donate">
 						Donate
 					</button>
 				</a>
-				<div id="mj-nonprofit-tagline">Nonprofit, Independent Journalism</div>
+				<div id="mj-nonprofit-tagline">Smart, Fearless Journalism</div>
 			</div>
 		</section>
 		<nav id="static-navbar" role="navigation">
@@ -195,105 +231,179 @@ var mj_analytics_config = {"tagmanager_param":"&gtm_auth=1rT9WxKtoVrlrpfysHCQ-Q&
 	<ul class="menu">
 		<li id="menu-item-405545" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405545"><a href="https://www.motherjones.com/./politics/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/./politics/" data-ga-label="NavPosition_1">Politics</a></li>
 <li id="menu-item-405546" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405546"><a href="https://www.motherjones.com/./environment/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/./environment/" data-ga-label="NavPosition_2">Environment</a></li>
-<li id="menu-item-405547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405547"><a href="https://www.motherjones.com/./food/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/./food/" data-ga-label="NavPosition_3">Food</a></li>
-<li id="menu-item-405548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405548"><a href="https://www.motherjones.com/./media/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/./media/" data-ga-label="NavPosition_4">Media</a></li>
-<li id="menu-item-405549" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405549"><a href="https://www.motherjones.com/./crime-justice/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/./crime-justice/" data-ga-label="NavPosition_5">Crime &amp; Justice</a></li>
-<li id="menu-item-405550" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405550"><a href="https://www.motherjones.com/topics/photoessays/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/topics/photoessays/" data-ga-label="NavPosition_6">Photos</a></li>
-<li id="menu-item-405551" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405551"><a href="https://www.motherjones.com/topics/investigations/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/topics/investigations/" data-ga-label="NavPosition_7">Investigations</a></li>
+<li id="menu-item-405549" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405549"><a href="https://www.motherjones.com/./crime-justice/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/./crime-justice/" data-ga-label="NavPosition_3">Crime and Justice</a></li>
+<li id="menu-item-405547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405547"><a href="https://www.motherjones.com/./food/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/./food/" data-ga-label="NavPosition_4">Food</a></li>
+<li id="menu-item-405548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-405548"><a href="https://www.motherjones.com/./media/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/./media/" data-ga-label="NavPosition_5">Media</a></li>
+<li id="menu-item-405551" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405551"><a href="https://www.motherjones.com/topics/investigations/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/topics/investigations/" data-ga-label="NavPosition_6">Investigations</a></li>
+<li id="menu-item-405550" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-405550"><a href="https://www.motherjones.com/topics/photoessays/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/topics/photoessays/" data-ga-label="NavPosition_7">Photos</a></li>
 <li id="menu-item-405552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405552"><a href="/magazine" data-ga-category="Masthead" data-ga-action="/magazine" data-ga-label="NavPosition_8">Magazine</a></li>
+<li id="menu-item-745391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-745391"><a href="https://www.motherjones.com/podcasts/" data-ga-category="Masthead" data-ga-action="https://www.motherjones.com/podcasts/" data-ga-label="NavPosition_9">Podcasts</a></li>
 		<li role="search" id="search-li" tabindex="0">
 			<i class="icon-search"></i>
 			
 <form role="search" method="get" class="search-form" action="https://www.motherjones.com/" data-ga-label="Search" data-ga-category="Search">
 	<label>
-		<input type="search" class="search-field" placeholder="SEARCH…" value="" name="s" title="Search for:">
+		<input type="search" class="search-field" placeholder="Search…" value="" name="s" title="Search for:">
 	</label>
-	<input type="submit" class="search-submit" value="SUBMIT">
+	<input type="submit" class="search-submit" value="Submit">
 	<button type="submit"><i class="icon-search"></i></button>
 </form>
 		</li>
 	</ul>
 </nav>
-<div id="ticker" class="col-12"><section id="custom_html-4" class="widget_text widget widget_custom_html"><h2 class="widget-title">Support Mother Jones</h2><div class="textwidget custom-html-widget"><div class="ticker-content format-letter">
-	<style>@media only screen and (max-width: 992px) {#ticker .widget {padding:0;}}</style>
-	<img class="letter-headshot jetpack-lazy-image" src="https://www.motherjones.com/wp-content/uploads/2017/06/bauerleinmonika-web.jpg?w=200" alt="Monika Bauerlein photo" width="200" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2017/06/bauerleinmonika-web.jpg?w=200&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="letter-headshot" src="https://www.motherjones.com/wp-content/uploads/2017/06/bauerleinmonika-web.jpg?w=200" alt="Monika Bauerlein photo" width="200"></noscript>
-	<p class="salutation">Dear Reader,</p>
-	<p class="letter-body"><em>Mother Jones</em> is a nonprofit, and December is our most important fundraising month. We need to raise $400,000. I hope you'll take a moment to <a data-ga-category="MembershipBar" data-ga-label="ReadMore" href="https://www.motherjones.com/media/2018/12/facebook-propaganda-trump/?list_source=7H8CPR01&amp;term=XX.1.50.00.DON.D.0.16587" target="_blank" class="ticker-read-more">read why</a> that number is so important and learn about our priorities heading into 2019. We'll be pushing back hard against the threats to media and our democracy, and I hope you'll join us with a tax-deductible, year-end donation. </p>
-	<svg version="1.1" class="letter-signature" width="160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 612 235.9" style="enable-background:new 0 0 612 235.9;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#030303;} .st1{fill:#0D0D0D;} .st2{fill:#0B0B0B;} .st3{fill:#0E0E0E;} .st4{fill:#FEFEFE;}
-</style>
-<g>
-	<path d="M168.2,57.8c4.6-4.8,10.3-8.2,15.2-12.7c6.6-6,14-11.3,19.3-18.7c1.4-2,3.2-3.9,5.9-4.5c1.3-0.3,2.6-0.2,3.6,1
-		c1,1.3,0.6,2.3,0.1,3.6c-1,2.7-3.3,4.4-4.9,6.7c-7.5,10.9-11.9,23.3-16.5,35.5c-4.8,13.1-8.9,26.5-12.6,40
-		c-3,11.2-6.4,22.4-8.1,33.9c-2.6,16.9-4,33.8,1.1,50.6c2,6.4,4.7,12.5,9.6,17.3c4.4,4.4,9.5,5.8,15.3,3.2c4.2-1.9,8.3-3.9,12.3-6.1
-		c1.1-0.6,2.1-1.1,3.2-1.4c1.2-0.4,2.2,0.1,2.7,1.2c0.4,0.9,0.2,1.9-0.7,2.5c-6.9,4.6-13.7,9.4-22,10.6c-7.6,1.1-13.4-3.2-17.7-8.5
-		c-7.8-9.4-10.5-20.8-11.5-32.8c-0.6-7.7-0.8-15.3-0.1-23c1-12,3-23.7,6-35.3c5.2-20,10.7-39.8,18.2-59.1c2.1-5.4,4.3-10.7,6.9-17
-		c-8.2,6.5-15.2,13-23,18.5c-9.1,6.5-18,13.3-27.3,19.6c-14.6,9.8-30.2,17.8-45.7,26c-2,1.1-5,0.7-6,3.2c-0.8,2.1,0.5,4.5,0.4,6.6
-		c-0.2,10.1-0.8,20.2-1.1,30.3c-0.3,8.5-1.2,16.9-2.8,25.3c-2.1,11.1-5.1,21.9-9.7,32.3c-1.1,2.5-3.1,4.3-5.1,6
-		c-2.9,2.4-6.3,2.1-9.3-0.5c-5.7-5-7.6-11.9-8.6-18.9c-1.4-9.7-1.4-19.4-1.5-29.2c-0.1-13.4,1-26.7,0.7-40.1
-		c-0.1-2.6-1.1-2.7-3.1-2.6c-10.4,0.4-20.5-1.2-30.1-5.5c-9.9-4.5-16.2-11.9-19.1-22.5c-1.6-5.9-2.6-11.9-2.3-17.9
-		C1.1,55.8,4.3,36.9,16,20.5C22.5,11.5,30.3,3.9,41.4,1c8.1-2.2,15.3-0.9,21.9,5.1C74.2,15.9,78.7,29,82.4,42.4
-		c4,14.3,6.5,28.9,7.4,43.7c0.3,5.8,1.2,11.5,1.9,17.5c7.3-2.8,14.3-6.3,21.2-10c12-6.5,23.6-13.7,34.9-21.3
-		c6.1-4.1,12-8.5,17.9-12.8C166.6,59,167.6,58.8,168.2,57.8z"></path>
-	<path d="M469.4,153.4c5.8-3.6,12.4-5.7,17.8-9.9c2.9-2.2,5.2-5.2,9-6.2c1.9-0.5,4-0.8,5,1.2c1,2.1,0,3.8-2.1,5.2
-		c-11.5,7.9-24,13.9-36.3,20.5c-9.6,5.2-19.4,10.5-27.2,18.5c-6.2,6.3-5.2,11.1,2.8,14.8c4.9,2.2,9.7,1.1,14.3,0.4
-		c15-2.4,29.5-7.2,44.5-9.6c3.1-0.5,6.3-1,9.4-1.3c1.5-0.1,2.1-0.4,2.1-2c0.1-9.6,5.8-16.3,12.5-22c6.6-5.6,14.2-9.7,22.3-12.9
-		c7.8-3,17.8-0.8,23.7,5.3c1,1.1,1.9,2.2,2.2,3.6c0.2,1.1,0.5,2.5-0.7,3.3c-1.2,0.9-2.4,0.6-3.7,0c-1.4-0.7-2.3-1.8-3.3-2.9
-		c-5-5-9.7-5.6-16.3-3.2c-6.7,2.5-12.8,6-18.4,10.2c-5,3.7-9.1,8.6-11.2,14.8c-1.1,3.4,0.6,6.9,3.7,9c6.6,4.7,13.4,3,19.9,0.3
-		c7.8-3.2,15.5-6.9,23.3-10.2c7.9-3.3,16-5.8,24.7-5.6c8.2,0.1,14.8,4.9,17.6,12.6c2.4,6.6,3.4,13.5,3.7,20.4
-		c0.3,8.2,1.5,16.2,3.1,24.3c0.3,1.4,0.5,3.2-1.4,3.6c-1.7,0.4-2.9-0.2-3.4-2.3c-1.8-7.2-3.3-14.5-4-22c-0.6-7.4-1.5-14.8-4-22
-		c-1.7-5-6.3-8.2-11.6-8.4c-9.9-0.3-18.8,3.2-27.5,7.5c-9.4,4.6-18.9,9.4-29.5,10.8c-7,0.9-13.7-1.1-18.5-6.7
-		c-1.6-1.9-3.5-1.3-4.9-1c-11.3,2.7-22.6,5.6-33.9,8.4c-8.8,2.1-17.6,4.4-26.8,5c-6.1,0.4-11.8-0.7-17.2-5.3
-		c0.3,5.7,1.6,10.4,3.7,14.7c0.8,1.7,2.1,3.2,0.1,4.3c-1.7,1-3.5,0.3-4.8-1.5c-3-4.2-3.8-9.1-4.5-14c-1.8-13.6-2.2-27.4-1.5-41.1
-		c0.4-8.8,1.8-17.6,3.2-26.3c2.9-17.3,8.2-33.9,13.5-50.6c4.4-13.7,9.1-27.3,15.8-40c0.9-1.6,1.6-2.9,3.7-3c1.8-0.1,2.9,0.8,3.4,2.2
-		c0.6,1.6,0.3,3.2-1.3,4.6c-3.1,2.7-4.1,6.7-5.5,10.3c-6.9,18.1-13.1,36.6-18.2,55.3c-3.2,11.8-5.7,23.9-7.1,36.2
-		c-1.1,9.6-1.9,19.2-1.3,29c11.1-11.2,24.3-19,38.3-25.5C468.1,154.9,468.8,154.2,469.4,153.4z"></path>
-	<path d="M248.3,142c6-6.4,13.2-10.4,21.9-11.1c1.8-0.2,2.8-0.7,3.7-2.1c2-3.3,4.7-5.5,8.7-6c6-0.7,8.8,3,11.3,7.4
-		c3.3,5.6,4,12,4.6,18.2c1.2,13.4,0.2,26.8-7.1,38.6c-6.1,10-13.7,19.1-24.3,24.5c-17.5,9-35.3-1.2-37.3-20.7
-		c-1.6-15.2,3.7-28.8,11.6-41.5c0.6-1,1.6-1.7,2.5-2.6C246,145.6,247.3,143.9,248.3,142z"></path>
-	<path d="M384.2,196.5c-2.2,2.4-4.3,4.7-6.2,7c-3.8,4.5-9,4.7-13.4,0.9c-6.3-5.4-8.6-12.5-8.9-20.5c-0.1-2.9,0.6-5.9-1.1-8.7
-		c-4.7,6.2-7.9,13.4-13,19.4c-3.4,4.1-6.7,8.3-11,11.4c-4.9,3.5-10.2,3.2-14.2-1.3c-2.8-3.2-4.6-6.9-4.7-11.3
-		c-0.4-12.8,1-25.3,5.7-37.2c2.2-5.5,5.2-10.7,12.1-11.4c1.8-0.2,4.2-0.4,4.5,2.1c0.3,2.4-1.7,3.1-3.7,3.1c-1.6,0-2.4,0.9-3.3,1.9
-		c-4.6,5.3-6.1,11.8-7.2,18.4c-1.1,6.3-1.8,12.8-2.4,19.2c-0.3,3.2,0.9,6.2,2.4,9.1c2.1,4.1,4.6,4.5,8.1,1.4
-		c7.2-6.4,12.7-14,17.6-22.3c2.6-4.4,5.4-8.7,8.2-13c1.2-1.8,2.8-3.4,5.3-2.5c2.3,0.8,2.4,2.8,2.4,4.9c-0.1,7.2,0.5,14.3,1.6,21.3
-		c0.6,3.7,2.1,7.1,4.6,9.9c2.8,3.2,4.3,3.1,7-0.1c1.9-2.3,3.8-4.8,5.7-7.2c3.7-4.6,6.3-4.3,9.2,0.8c2.1,3.6,2.5,8,5.2,11.4
-		c3.1,4,6.6,7.1,11.8,7.9c1.4,0.2,2.2,0.9,2.3,2.3c0.2,1.6-0.7,2.3-2.2,2.8c-4.2,1.2-7.4-1.3-10.5-3.1c-5.2-3-8.5-7.7-10.4-13.5
-		C385,198.5,384.6,197.5,384.2,196.5z"></path>
-	<path class="st0" d="M394,131.6c-3.2,0-7.2-3.4-7.2-5.9c0.1-3.1,2-4.5,5-3.3c2,0.8,4,1.8,6,2.7c1.3,0.6,2.7,1.4,2.5,3.1
-		c-0.2,1.7-1.5,2.3-3.1,2.5C396.1,130.7,395.2,131.9,394,131.6z"></path>
-	<path class="st1" d="M248.3,142c-0.1,2.8-1.4,4.5-4.3,4.7C244.8,144.6,246.5,143.3,248.3,142z"></path>
-	<path class="st2" d="M469.4,153.4c-0.3,1.4-0.6,2.7-2.4,1.4C467.5,153.9,468.5,153.7,469.4,153.4z"></path>
-	<path class="st3" d="M168.2,57.8c0,1.8-1.2,1.7-2.4,1.7C166.2,58.5,167,57.9,168.2,57.8z"></path>
-	<path class="st4" d="M60.4,113.6c0.6-13.7,0.3-27.5,3.7-41c0.7-2.8,1.3-5.6,3.9-7.4c1.1-0.8,1.3-2.1,0.5-3.2
-		c-0.7-1-1.7-1.8-3.1-1.3c-2.2,0.8-4.3,1.5-5.1,4.3c-3,10-4.8,20.2-5,30.7c-0.1,5.7-0.5,11.4-0.8,17.1c0,0.9,0.2,1.9-1.3,2
-		c-13.7,0.5-26.9-0.7-37.6-10.7c-6.1-5.6-8.6-13-9-20.7C5.5,64.9,8.4,47,17,30.6C21.8,21.5,28.2,13.6,37.9,9
-		c11.7-5.6,19.3-3.4,26.9,7.1c8.7,12.1,13.1,26.1,15.9,40.5c3,15.4,5.1,31,5.1,46.8c0,2.6-0.8,3.6-3.2,4.4
-		C75.4,110.1,68.2,112.6,60.4,113.6z"></path>
-	<path class="st4" d="M86.5,121.9c-1.1,15.7-1.3,31.4-3.8,47c-1.9,11.5-4.6,22.5-9.6,33c-1.1,2.2-1.8,5.7-4.3,5.5
-		c-2.5-0.2-3.7-3.5-4.6-5.9c-2.7-7.1-4.2-14.4-4.1-22.2c0.3-18.9,0.2-37.9,0.2-56.9c0-1.2-0.6-2.7,1.6-2.8
-		c7.6-0.4,14.6-3.2,21.6-5.7c2.3-0.8,3.4-0.9,3.1,2C86.4,117.9,86.5,119.9,86.5,121.9z"></path>
-	<path class="st4" d="M293.2,154.2c0,21.5-9,38.2-26.8,50.1c-6.6,4.5-13.9,5.8-21,1.3c-7.5-4.8-10.4-12.6-9.8-21
-		c1-12.4,5.2-24,12.9-34c4.7-6.1,10.8-10.4,18.1-12.9c1.6-0.5,2.8-1.1,3.5,1.3c0.5,1.8,2.5,1.9,3.3,0.2c1.4-2.6,2.8-1.4,4-0.3
-		c3.9,3.6,7.2,7.4,4.6,13.4c-0.6,1.3-0.1,3.2,0,4.7c0.2,1.5,1.3,1.8,2.6,1.8c1.3,0,3.1,0.3,3.3-1.4c0.9-6.3,2.5-12.9-2.4-18.4
-		c-1.9-2.1-3.8-4.2-6.1-5.8c-2.4-1.6-1.8-2.2,0.3-3.4c4.6-2.7,6.8-2.2,9.2,2.7C291.6,137.9,293.2,146,293.2,154.2z"></path>
-</g>
-</svg>
-	<p class="letter-body">Monika Bauerlein, <span class="letter-title">CEO</span>
-		<a data-ga-category="MembershipBar" data-ga-label="Donate" href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=DON&amp;term_pub=DON&amp;list_source=7H8CPR01&amp;term=XX.1.50.00.DON.D.0.16587" target="_blank"><button class="btn-primary">Donate</button></a>
-	</p>	
+<div id="ticker" class="col-12"><section id="custom_html-13" class="widget_text widget widget_custom_html"><h2 class="widget-title">Membership Ticker</h2><div class="textwidget custom-html-widget"><div class="ticker-content format-letter">
+	<style>
+		.ticker-content.format-letter {
+			background:#fff;
+			border:1.5px solid #f2f3ef;
+			padding:2.5rem;
+		}
+		.ticker-content.format-letter p {
+			text-align:left;
+			font-size:1.1875rem;
+			line-height:1.5;
+		}
+		.ticker-content.format-letter p a.ticker-read-more {
+			color:inherit;
+			background-image: url('https://motherjones.com/wp-content/themes/motherjones/img/orange-border.png');
+			background-repeat: repeat-x;
+			text-decoration: none;
+			text-shadow: -1px 0 0 #fff, 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff,
+				-1px -1px 0 #fff, 1px 1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+		}
+		.ticker-content.format-letter p a.ticker-read-more:hover {
+			background-image: none;
+			color: #ff6900;
+			text-shadow: none;
+			opacity:1;
+		}
+		.ticker-content.format-letter .letter-headshot {
+			border-radius:50%;
+			float:right;
+			margin:0 .5rem 2rem 2rem;
+		}
+		.ticker-content.format-letter .letter-signature {
+			display: block;
+		}
+		.ticker-content.format-letter p.salutation {
+			font-size:1.5rem;
+			margin-bottom: 1rem;
+			margin-top:1rem;
+			margin-left:0;
+			line-height: 1rem;
+		}
+		.ticker-content.format-letter p.letter-body {
+			font-family: Calluna, serif;
+			font-weight:normal;
+			position:relative;
+            text-align:center;
+            margin-bottom:20px;
+		}
+		.ticker-content.format-letter p.letter-body .btn-primary {
+			border-radius:.5rem;
+			margin-left:2rem;
+			display:inline-block;
+			margin-top: -1.5rem;
+			vertical-align: text-bottom;
+			zoom: 80%;
+			background-image: none !important;
+			padding: .65rem .85rem;
+		}
+		.ticker-content.format-letter .ticker-mobile {
+			display:none;
+		}
+        .ticker-content.format-letter .ticker-desktop {
+			text-align:center;
+		}
+		@media only screen and (max-width: 992px) {
+			#ticker .widget {
+				padding:0;
+			}
+		}
+		@media only screen and (max-width: 768px) {
+			.ticker-content.format-letter {
+				padding:1rem;
+			}
+			.ticker-content.format-letter p,
+			.ticker-content.format-letter p.salutation {
+				font-size:1rem;
+			}
+			.ticker-content.format-letter p.salutation {
+				margin-bottom: .5rem;
+			}
+			.ticker-content.format-letter .letter-headshot {
+				width: 120px;
+				margin:0 0 1rem 1rem;
+			}
+		}
+		@media only screen and (max-width: 480px) {
+			.ticker-content.format-letter .ticker-mobile {
+				display:block;
+				padding-top: 1rem;
+                text-align:center;
+			}
+			.ticker-content.format-letter .ticker-mobile p {
+				text-align:center;
+			}
+			.ticker-content.format-letter .ticker-desktop {
+				display:none;
+			}
+			.ticker-content.format-letter .letter-headshot {
+				width: 90px;
+				position:absolute;
+				bottom:3rem;
+				right:1rem;
+				margin:1rem;
+			}
+			.ticker-content.format-letter .letter-signature {
+				max-width:160px;
+			}
+			.ticker-content.format-letter p.letter-body .btn-primary {
+				position:relative;
+				display:block;
+				/*margin-left:0;
+				margin-top:1rem;*/
+				padding: .5rem .75rem;
+				margin: 1rem auto 1rem auto;
+				zoom:80%;
+				text-align: center;
+			}
+		}
+		@media only screen and (max-width: 400px) {
+			.ticker-content.format-letter .letter-title {
+				display:block;
+			}
+			.ticker-content.format-letter .letter-headshot {
+				width: 80px;
+				margin:1.5rem 1rem;
+			}
+		}
+	</style>
+	<div class="ticker-desktop">
+		<p class="letter-body"><strong><em>Mother Jones</em> was founded as a nonprofit so we can go after stories that others don't:</strong>
+like <a href="https://www.motherjones.com/politics/2019/06/behind-the-lines-syria-part-one/" data-ga-category="MembershipBar" data-ga-label="ReadMore1">sending Shane Bauer to Syria</a> to understand what America is doing there. Read <a href="https://www.motherjones.com/media/2019/06/why-youre-not-hearing-about-americas-wars/" data-ga-category="MembershipBar" data-ga-label="ReadMore2">why and how we did it</a>, and please support journalism like this with a donation today.</p>
+		<a data-ga-category="MembershipBar" data-ga-label="Donate" href="https://secure.actblue.com/donate/motherjones?refcode=7H94PR06&amp;amount=50.00&amp;recurring=0" target="_blank" rel="noopener noreferrer"><button class="btn-primary">Donate</button></a>
+	</div>
+	<div class="ticker-mobile">
+		<p class="letter-body">Because <em>Mother Jones</em> is a nonprofit, we can go after <a href="https://www.motherjones.com/politics/2019/06/behind-the-lines-syria-part-one/" data-ga-category="MembershipBar" data-ga-label="ReadMore1">big stories</a> that take time to get right but need to be told. <a href="https://www.motherjones.com/media/2019/06/why-youre-not-hearing-about-americas-wars/" data-ga-category="MembershipBar" data-ga-label="ReadMore2">Read why</a> we sent Shane Bauer to Syria, and please support journalism like it.</p>
+        <a data-ga-category="MembershipBar" data-ga-label="Donate" href="https://secure.actblue.com/donate/motherjones?refcode=7H94PRM6&amp;amount=50.00&amp;recurring=0" target="_blank" rel="noopener noreferrer"><button class="btn-primary">Donate</button></a>
+	</div>
 </div></div></section></div>	</header><!-- .site-header -->
+
+
 
 <main id="main" class="grid" role="main">
 
-<header class="entry-header col-12">
-	<h1 class="entry-title">Privacy Policy</h1></header><!-- .entry-header -->
 
 
-<section id="post-626" class="col-md-8 offset-2-md col-sm-12 offset-0-sm post-626 page type-page status-publish hentry">
+<section class="main-col col-12">
+		<section id="post-626" class="col-12 post-626 page type-page status-publish hentry">
 
-	<article class="entry-content">
-		<p>The <em>MotherJones.com</em> website is operated by the nonprofit Foundation for National Progress (the "Foundation"), which also publishes <em>Mother Jones</em> magazine.</p>
+					<header class="entry-header">
+				<h1 class="entry-title">Privacy Policy</h1>			</header><!-- .entry-header -->
+		
+		<article class="entry-content">
+			<p>The <em>MotherJones.com</em> website is operated by the nonprofit Foundation for National Progress (the "Foundation"), which also publishes <em>Mother Jones</em> magazine.</p>
 <p>The Foundation provides <em>MotherJones.com</em> to you subject to the terms of this Privacy Policy. By registering with or using the <em>MotherJones.com</em> site (the "Site"), you accept and agree to this Privacy Policy.</p>
 <p>We respect your privacy. We allow you to "opt out" of providing us with certain information. However, choosing to share information with us will help make your experience at <em>MotherJones.com</em> and other interactions with us more pleasant and successful for you, and will help us to continue providing outstanding investigative journalism.</p>
 <p>Most of the information we collect on our website is aggregated to track general patterns, such as browser and platform usage and overall traffic patterns. We use name, address, and email information primarily to deliver items you request, such as magazines or email newsletters. We may also use your email address to remind you to renew your subscription, notify you about new products or upcoming events, or send you donation appeals and sponsored messages with offers from other organizations. You may always opt out of receiving these communications.</p>
@@ -338,13 +448,75 @@ var mj_analytics_config = {"tagmanager_param":"&gtm_auth=1rT9WxKtoVrlrpfysHCQ-Q&
 	P.O. Box 584<br>
 	San Francisco, CA 94104-0584</p>
 <p>You may also email your request to <a href="mailto:support@motherjones.com">support@motherjones.com</a>. If you send us an email, please write "Unsubscribe" in the subject line. In addition, electronic messages to you will provide you with the opportunity to opt out of receiving similar messages in the future.</p>
-	</article>
+		</article>
 
-	
-</section><!-- #post-## -->
+		
+	</section><!-- #post-## -->
+</section>
 
 		</main>
 	</div><!-- #page -->
+
+	<div id="site-footer-promos" class="grid">
+		<section id="custom_html-11" class="widget_text widget widget_custom_html"><h2 class="widget-title">Mag Promo</h2><div class="textwidget custom-html-widget"><div id="footer-promo-mag" class="grid">
+	<div class="col-sm-4 col-xs-12">
+		<h3>Independent. In print. In your mailbox.</h3>
+		<p>Inexpensive, too! Subscribe today and get a full year of Mother Jones for just $12.</p>
+		<a href="https://store.motherjones.com/pages/magazine-subscriptions" title="Subscribe" data-ga-label="MagazineSubscribe" data-ga-category="FooterSubscribe"><button class="btn-primary">Subscribe</button></a>
+	</div>
+	<div class="col-sm-8 col-xs-12 grid">
+		<div class="mag-promo col-xs-4 col-xxs-12">
+			<a href="/magazine" data-ga-category="FooterSubscribe" data-ga-label="MagCover_1|image">
+				<img border="0" src="https://www.motherjones.com/wp-content/uploads/2019/03/mojocover_mj19_2400x3150.jpg.jpg?w=575" alt="Mother Jones Magazine Cover : May + June 2019" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2019/03/mojocover_mj19_2400x3150.jpg.jpg?w=575&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img border="0" src="https://www.motherjones.com/wp-content/uploads/2019/03/mojocover_mj19_2400x3150.jpg.jpg?w=575" alt="Mother Jones Magazine Cover : May + June 2019"></noscript>
+			</a>
+			<a href="/magazine" data-ga-category="FooterSubscribe" data-ga-label="MagCover_1|text">June 2019</a>
+		</div>
+		<div class="mag-promo col-xs-4 col-xxs-12">
+			<a href="/mag/2019/03/toc" data-ga-category="FooterSubscribe" data-ga-label="MagCover_2|image">
+				<img border="0" src="https://www.motherjones.com/wp-content/uploads/2019/01/mojocover_ma19_2400x3150.jpg?w=575" alt="Mother Jones Magazine Cover : March + April 2019" data-lazy-src="https://www.motherjones.com/wp-content/uploads/2019/01/mojocover_ma19_2400x3150.jpg?w=575&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img border="0" src="https://www.motherjones.com/wp-content/uploads/2019/01/mojocover_ma19_2400x3150.jpg?w=575" alt="Mother Jones Magazine Cover : March + April 2019"></noscript>
+			</a>
+			<a href="/magazine" data-ga-category="FooterSubscribe" data-ga-label="MagCover_2|text">April 2019</a>
+		</div>
+		<div class="mag-promo col-xs-4 hidden-xxs">
+			<a href="/mag/2019/01/toc" data-ga-category="FooterSubscribe" data-ga-label="MagCover_3|image">
+				<img src="https://motherjones.com/wp-content/uploads/2018/11/mojocover_jf19_2400x3150.jpg?w=575" alt="Mother Jones Magazine Cover : January + February 2019" border="none" data-lazy-src="https://motherjones.com/wp-content/uploads/2018/11/mojocover_jf19_2400x3150.jpg?w=575&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img src="https://motherjones.com/wp-content/uploads/2018/11/mojocover_jf19_2400x3150.jpg?w=575" alt="Mother Jones Magazine Cover : January + February 2019" border="none"></noscript>
+			</a>
+			<a href="/mag/2019/01/toc/" data-ga-category="FooterSubscribe" data-ga-label="MagCover_3|text">February 2019</a>
+		</div>
+	</div>
+</div></div></section><section id="custom_html-10" class="widget_text widget widget_custom_html"><h2 class="widget-title">Podcast Promo</h2><div class="textwidget custom-html-widget"><div id="footer-promo-podcast" class="grid">
+	<div class="col-4">
+		<a href="https://itunes.apple.com/us/podcast/the-mother-jones-podcast/id1386408605?mt=2" data-ga-category="FooterSubscribe" data-ga-label="PodcastSubscribe|archive">
+			<img class="podcast-img jetpack-lazy-image" src="/wp-content/themes/motherjones/img/the-mother-jones-podcast-logo-615-615.png?w=200" alt="podcast" scale="0" data-lazy-src="/wp-content/themes/motherjones/img/the-mother-jones-podcast-logo-615-615.png?w=200&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="podcast-img" src="/wp-content/themes/motherjones/img/the-mother-jones-podcast-logo-615-615.png?w=200" alt="podcast" scale="0"></noscript>
+		</a>
+	</div>
+	<div class="col-8">
+		<h3>Smart. Fearless. Audio.</h3>
+		<p>It's us but for your ears. Listen on Apple Podcasts.</p>
+		<a href="https://itunes.apple.com/us/podcast/the-mother-jones-podcast/id1386408605?mt=2" data-ga-category="FooterSubscribe" data-ga-label="PodcastSubscribe">Subscribe »</a>
+	</div>
+</div></div></section>
+		<section class="widget newsletter-signup grid">
+			<div class="ns-inner col-md-12 col-sm-10 col-xs-12 col-xxs-12">
+				<div>
+					<div class="col-12">
+						<h3>Looking for news you can trust?</h3>
+						<p>Subscribe to our free newsletters.</p>
+					</div>
+					<div class="col-12">
+						<form action="https://api.maropost.com/accounts/585/forms/3289/subscribe/177d8ba3b7fe7d39e28dcba73123eeffbd01878b" method="post" data-ga-label="NewsletterSubscribe" data-ga-category="FooterSubscribe" id="BottomPromoNewsletterSignup" onsubmit="return mj_check_email(this, event);">
+							<input include_blank="true" start_year="1950" type="hidden" name="custom_fields[outreach_affiliate_code]" id="custom_fields_outreach_affiliate_code" value="Bottom_Promo">
+							<input include_blank="true" start_year="1950" type="hidden" name="custom_fields[signup_url]" id="signup_url" value="">
+							<input type="hidden" value="" id="email_field" name="email_const_mp">
+							<input include_blank="true" start_year="1950" name="contact_fields[email]" id="cons_email" placeholder="Your email here" type="text">
+							<input id="newsletter-signup" type="submit" name="commit" value="Sign Up">
+						</form>
+					</div>
+				</div>
+			</div>
+		</section>
+
+			</div>
 
 	<footer id="site-footer">
 		<div class="container grid">
@@ -392,29 +564,29 @@ var mj_analytics_config = {"tagmanager_param":"&gtm_auth=1rT9WxKtoVrlrpfysHCQ-Q&
 <li id="menu-item-612468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612468"><a href="https://www.motherjones.com/support/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/support/" data-ga-label="Section_2_NavPosition_2">Ways to Give</a></li>
 <li id="menu-item-612470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612470"><a href="https://www.motherjones.com/advertising/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/advertising/" data-ga-label="Section_2_NavPosition_3">Advertise With Us</a></li>
 <li id="menu-item-612471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612471"><a href="http://store.motherjones.com/?utm_source=motherjones&amp;utm_medium=footer&amp;utm_content=orangefooterlink&amp;utm_campaign=evergreen" data-ga-category="SiteFooter" data-ga-action="http://store.motherjones.com/?utm_source=motherjones&amp;utm_medium=footer&amp;utm_content=orangefooterlink&amp;utm_campaign=evergreen" data-ga-label="Section_2_NavPosition_4">Store</a></li>
-</ul><ul class="col-sm-4 col-xs-12"><li id="menu-item-612473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612473"><a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN3" data-ga-category="SiteFooter" data-ga-action="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN3" data-ga-label="Section_3_NavPosition_1">Subscribe</a></li>
-<li id="menu-item-612474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612474"><a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN3" data-ga-category="SiteFooter" data-ga-action="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;b_country=United+States&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYN3" data-ga-label="Section_3_NavPosition_2">Magazine Subscriptions</a></li>
-<li id="menu-item-651049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-651049"><a href="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYFG&amp;sub_type=GIFT" data-ga-category="SiteFooter" data-ga-action="https://secure.motherjones.com/fnx/?action=SUBSCRIPTION&amp;pub_code=MJM&amp;term_pub=MJM&amp;list_source=SEGYFG&amp;sub_type=GIFT" data-ga-label="Section_3_NavPosition_3">Give a Gift Subscription</a></li>
+</ul><ul class="col-sm-4 col-xs-12"><li id="menu-item-612473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612473"><a href="https://store.motherjones.com/pages/magazine-subscriptions" data-ga-category="SiteFooter" data-ga-action="https://store.motherjones.com/pages/magazine-subscriptions" data-ga-label="Section_3_NavPosition_1">Subscribe</a></li>
+<li id="menu-item-612474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612474"><a href="https://store.motherjones.com/pages/magazine-subscriptions" data-ga-category="SiteFooter" data-ga-action="https://store.motherjones.com/pages/magazine-subscriptions" data-ga-label="Section_3_NavPosition_2">Magazine Subscriptions</a></li>
+<li id="menu-item-651049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-651049"><a href="https://store.motherjones.com/pages/magazine-subscriptions" data-ga-category="SiteFooter" data-ga-action="https://store.motherjones.com/pages/magazine-subscriptions" data-ga-label="Section_3_NavPosition_3">Give a Gift Subscription</a></li>
 <li id="menu-item-612476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612476"><a href="https://www.motherjones.com/newsletters/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/newsletters/" data-ga-label="Section_3_NavPosition_4">Email Newsletters</a></li>
 <li id="menu-item-612477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612477"><a href="https://www.motherjones.com/podcasts/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/podcasts/" data-ga-label="Section_3_NavPosition_5">Podcasts</a></li>
 <li id="menu-item-612478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612478"><a href="https://www.motherjones.com/customer-service/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/customer-service/" data-ga-label="Section_3_NavPosition_6">Customer Service</a></li>
 </ul>			</section>
 			<section class="bottom col-12">
 				<p class="copyright" role="contentinfo">
-				Copyright © 2018 Mother Jones and the Foundation for National Progress. All Rights Reserved.</p><ul id="menu-copyright" class="menu"><li id="menu-item-405542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405542"><a href="https://www.motherjones.com/about/terms/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/about/terms/" data-ga-label="Section_Copyright_NavPosition_1">Terms of Service</a></li>
-<li id="menu-item-405543" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-626 current_page_item menu-item-405543"><a href="https://www.motherjones.com/about/privacy-policy/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/about/privacy-policy/" data-ga-label="Section_Copyright_NavPosition_2">Privacy Policy</a></li>
+				Copyright © 2019 Mother Jones and the Foundation for National Progress. All Rights Reserved.</p><ul id="menu-copyright" class="menu"><li id="menu-item-405542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405542"><a href="https://www.motherjones.com/about/terms/" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/about/terms/" data-ga-label="Section_Copyright_NavPosition_1">Terms of Service</a></li>
+<li id="menu-item-405543" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-626 current_page_item menu-item-405543"><a href="https://www.motherjones.com/about/privacy-policy/" aria-current="page" data-ga-category="SiteFooter" data-ga-action="https://www.motherjones.com/about/privacy-policy/" data-ga-label="Section_Copyright_NavPosition_2">Privacy Policy</a></li>
 </ul>				<p></p>
-				<a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=www.motherjones.com" rel="generator nofollow" class="powered-by-wpcom"><img src="https://www.motherjones.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png" width="187" height="26" alt="Powered by WordPress.com VIP"></a>			</section>
+				<a href="https://wpvip.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=www.motherjones.com" rel="generator nofollow" class="powered-by-wpcom"><img src="https://www.motherjones.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png" width="187" height="26" alt="Powered by WordPress.com VIP"></a>			</section>
 		</div>
 	</footer>
 
-	<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201849"></script>
+	<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201924"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var dfw = {"network_code":"49189977","mappings":[],"targeting":{"Page":[],"env":["www"]}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.motherjones.com/_static/??-eJydjdsKwjAQRH/IdFtQsA/ip0iabNvEbBJzaalfb7AKfSgIvs3AOTMweyacTWgTpBEJI5ArIWhnS9YReucShoqUrXQ8wE/e8olF5EGMew5l5k0elC0sJs/FHW7KCuiyMhIMfy5MER/WqU3dbhXeZLkipSJ1KPe+vkeyn4HHiOlt6EfGsFSy938488e50qU5HZv6XLdNq1/i7ngs"></script>
+<script type="text/javascript" src="https://www.motherjones.com/_static/??-eJydjdsKwjAQRH/IdLVQ64v4KZIm2zYx2cRcLPXrDVahDwXBtxk4ZwYmz4SjhJQgjWgxgnUlBO2oZB2hdy5hqKyiSscd/OSJP1hEHsS45djMvMmDosJi8lzc4KpIQJeVkWD4c2bK8mGZWtX1VuFNlgtSKtoO5dbX90j2E/AYMb0Nfc8Y5kr2/g9n+jgXez40x33d1m1z0i/jDHgx"></script>
 			<script type="text/javascript">
 				var dfw_load = function() {
 					jQuery('.dfw-unit:not(.dfw-lazy-load)').dfp({
@@ -433,12 +605,12 @@ var dfw = {"network_code":"49189977","mappings":[],"targeting":{"Page":[],"env":
 						sizeMapping: []					});
 				};
 			</script>
-		<script type="text/javascript" src="https://stats.wp.com/e-201849.js" async="async" defer="defer"></script>
+		<script type="text/javascript" src="https://stats.wp.com/e-201924.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'130213978',post:'626',tz:'-5',srv:'www.motherjones.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:7.4',blog:'130213978',post:'626',tz:'-4',srv:'www.motherjones.com'} ]);
 	_stq.push([ 'clickTrackerInit', '130213978', '626' ]);
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"949ceaf672","applicationID":"42428067","transactionName":"MQZWYhAFXhdYAUBfWwhMdVUWDV8KFhFdWFMTD1VE","queueTime":0,"applicationTime":92,"atts":"HUFBFFgfTUgbAxYMTxse","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"949ceaf672","applicationID":"42428067","transactionName":"MQZWYhAFXhdYAUBfWwhMYUQLS1kKXQdMGEQOEw==","queueTime":0,"applicationTime":93,"atts":"HUFBFFgfTUgbAxYMTxse","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
