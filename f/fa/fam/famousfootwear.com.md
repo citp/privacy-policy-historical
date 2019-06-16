@@ -1,105 +1,136 @@
-> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154055id_/http%3A//www.famousfootwear.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616173227id_/https%3A//www.famousfootwear.com/c/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Famous Footwear
+# Privacy
 
-## Privacy Policy
+This policy describes how FamousFootwear.com collects, uses, and shares personal information. FamousFootwear.com is a wholly owned division of Caleres, Inc. You can jump to particular topics by going to the headings below:
 
-At Famous Footwear and Famous Footwear Outlet, we want to demonstrate our commitment to your privacy. This privacy policy is effective as of January 7, 2016, and discloses the privacy practices of Famous Footwear and Famous Footwear Outlet. This privacy policy will notify you of:
+[Types Of Information We Collect](https://www.famousfootwear.com/c/legal/privacy#Types)
 
-  1. What personal information or third-party personal information is collected from you through the website. 
-  2. Who is collecting the information.
-  3. How the information is used.
-  4. With whom the information may be shared.
-  5. What choices are available to you regarding collection, use, and distribution of the information.
-  6. The kind of security procedures that are in place to protect the loss, theft, misuse or unauthorized access, disclosure, copying, use, or alteration of information under our control.
-  7. How you can correct any inaccuracies in the information.
+[Use And Processing Of Information](https://www.famousfootwear.com/c/legal/privacy#use)
+
+[Sharing Of Information](https://www.famousfootwear.com/c/legal/privacy#sharing)
+
+[Your Choices](https://www.famousfootwear.com/c/legal/privacy#choices)
+
+[How We Protect Personal Information](https://www.famousfootwear.com/c/legal/privacy#protect)
+
+[Miscellaneous](https://www.famousfootwear.com/c/legal/privacy#misc)
+
+[Contact Information](https://www.famousfootwear.com/c/legal/privacy#contact)
+
+## Types Of Information We Collect
+
+The following provides examples of the type of information that we collect from you and how we use that information.
+
+  * **Account Registration:** We collect your name and contact information when you create an account. Accounts can be used for easy checkout and to save your preferences and transaction history.
+  * **Demographic Information:** We may collect information such as your age or location.
+  * **Distance Information:** When you use one of our apps, we may collect your location from the GPS, Wi-Fi, and/or cell phone or device to determination your distance from one of our stores.
+  * **Email Interconnectivity:** If you receive email from us, we use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases.
+  * **Employment:** If you apply for a job posting, or become an employee, we collect information necessary to process your application or to retain you as an employee. This may include, among other things, your Social Security Number. 
+  * **Feedback/Support:** If you provide us feedback or contact us for support we will collect your name and e-mail address, as well as any other content that you send to us, in order to reply.
+  * **Mailing List:** When you sign up for one of our mailing lists we may collect your email address or postal address. 
+  * **Mobile Device:** We may collect information from your mobile device such as unique identifying information that is sent from your device when visiting our website or one of our stores.
+  * **Order Placement :** We may collect your name, billing address, shipping address, e-mail address, phone number, and payment card information when you place an order.
+  * **Partner Promotion:** We may collect information that you provide as part of a co-branded promotion with another company.
+  * **Surveys:** When you participate in a survey or contest we may collect information that you provide through that process. If the survey is provided by a third party, the third party’s privacy policy applies to the collection, use, and disclosure of your information. 
+  * **Sweepstakes/Contests:** When you participate in a sweepstakes or contest, we collect information that you provide through that process which may include your contact information to notify you if you are selected. 
+  * **Third Party Tracking:** We participate in behavior-based advertising. This means that a third party may use technology (e.g., a cookie) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests. That advertising may appear either on our websites, or on other websites. You can opt-out of receiving advertising based upon your browsing behavior from some network advertising companies by going to the Network Advertising Initiative and the Digital Advertising Alliance websites, although to completely prevent advertising based upon your browsing behavior you should also disable the cookies on your browser.
+  * **Web logs:** We may collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to a computer when the Internet is used), domain name, click-activity, referring website, and/or a date/time stamp for your visit. 
+  * **Cookies and first party tracking:** We may use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to a computer’s hard drive while a web site is viewed. We may use both session cookies (which expire once a web browser is closed) and persistent cookies (which stay on a device until deleted). Among other things, cookies allow us to provide a more personal and interactive experience and to improve our marketing efforts. Persistent cookies may be removed by following instructions provided by your browser. If you choose to disable cookies some areas or features of our websites may not work properly. 
+  * **FAMOUSLY YOU REWARDS Membership:** In order to become a FAMOUSLY YOU REWARDS Member, you must first create a FREE account – just visit us at any Famous Footwear store or sign up [here](https://www.famousfootwear.com/account/login#!/account-lookup). You’ll be asked to provide your contact information, such as your name, email address or mailing address. When you use your member number at checkout, we will also collect information about your purchases. This information is used to reward members for their purchases and to determine what products and offers may be of particular interest to you. By becoming a member, you’ll earn points for purchases made online, and in-store, as well as take advantage of member benefits. Members may also receive offers and information about new promotions, fashion trends, etc. In order to earn points for online purchases, all you have to do is enter your member number at checkout. Online orders placed at FamousFootwear.ca can only be shipped to a physical Canadian address, excluding P.O. and CPO Boxes.
 
 
 
-If you feel that we are not abiding by our posted privacy policy, you should contact Famous Footwear Consumer Care. Refer to the last section of this policy for contact information.
+In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources. 
 
-#### Information Collection and Use
+## Use And Processing Of Your Information
 
-Famous Footwear is an operating division of BG Retail, LLC., in the United States, and Caleres Canada, Inc. in Canada, which are in turn wholly-owned subsidiaries of Caleres, Inc. The famous.com website is operated by the Famous Footwear Division of BG Retail, LLC. BG Retail, LLC., and Caleres Canada, Inc. are the sole owners of all information collected on this site. This information is collected from users at several different points on the famous.com website. 
+In addition to the specific situations discussed elsewhere in this policy, we disclose information in the following situations:
 
-Personal information collected at or through Famous Footwear retail locations in the U.S. is controlled by BG Retail, LLC. Personal information collected at or through Famous Footwear retail locations in Canada is controlled by Caleres Canada, Inc. It is our policy that this information will not be shared with, sold or rented to others in ways different from what is disclosed in this policy.
+  * To identify you when you visit our websites or our stores. 
+  * To provide products and services you request or to process returns.
+  * To improve our services and product offerings.
+  * To streamline the checkout process.
+  * To conduct analytics.
+  * To respond to inquiries related to support or other requests. 
+  * To send marketing and promotional materials, including information relating to our products, services, sales, or promotions.
+  * For internal administrative purposes, as well as to manage our relationship with you.
 
-#### Rewards Membership
 
-In order to become a Rewards Member, you must first register, either by completing the registration form online (not available in Canada) or by registering in-store. During registration you are required to give personal contact information, such as name and email address. When you use your Rewards Member number at the time of checkout, we will also collect information about your purchases. This information is used to reward loyal customers for their purchases and to determine what products and offers may be of particular interest to you. By becoming a Rewards Member, you are able to earn points for purchases made online, and in-store, as well as take advantage of special offers we make available. Rewards Members may receive offers and information about new promotions, fashion trends, etc. via email message or text message (SMS) if opt-in complete (SMS not available in Canada). It is also more convenient for a Rewards Member to make purchases online. In order to earn points for online purchases, you must enter your Rewards Member number at time of checkout. Online orders placed at famous.com can only be shipped to a physical U.S. address, excluding P.O. and CPO Boxes.
 
-#### Online Orders
+## Sharing Of Information
 
-We request information from you on our order form. You must provide contact information (such as name and shipping address) and financial information (such as credit card number and expiration date). This information is used for billing purposes and to fulfill your order. If we have trouble processing an order, this contact information is used to get in touch with you. Online orders placed at famous.com can only be shipped to a physical U.S. address, excluding P.O. and CPO Boxes.
+In addition to the specific situations discussed elsewhere in this policy, we disclose information in the following situations:
 
-#### Retail
+  1. **Affiliates and Acquisitions.** We may share your information with our corporate affiliates (e.g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control). If another company acquires our company, business, or our assets, we will also share your information with that company. 
+  2. **Other Disclosures with Your Consent.** We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy. 
+  3. **Other Disclosures without Your Consent.** We may disclose your information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws. We may also share your information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies, or to comply with your request for the shipment of products to or the provision of services by a third party intermediary. 
+  4. **Public.** You may have the opportunity to post comments, or reviews, in a public forum. If you decide to submit information on these pages, that information may be publically available. 
+  5. **Partner Promotion.** We may offer contests, sweepstakes, or other promotions with third party partners. If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third party partner, the information that you provide will be shared with us and with them. Their use of your information is not governed by this privacy policy. 
+  6. **Service Providers.** We may share your information with service providers. Among other things service providers may help us to administer our website, conduct surveys, provide technical support, process payments, and assist in the fulfillment of orders.
 
-We may require government-issued identification or collect personal information, such as your name, address and telephone number, when you return or exchange merchandise in-store. We use this information for the purposes of processing the transaction, maintaining records, and detecting and preventing fraud. We may also collect personal information, such as name, telephone number, or email address, if you contact a store or our consumer care team with a question, concern or complaint, so that we may respond appropriately. In addition, you may be asked for your email address if you express interest or agree to receive electronic sales receipts and emails about new promotions, fashion trends, etc. Providing your email address at our retail locations is strictly optional.
 
-#### Special Offers
 
-Rewards Members will occasionally receive information on products, services, and special promotions. Out of respect for the privacy of our users, we present the option to not receive these types of communications. Please see "Choice and Opt-Out" below.
+## Your Choices
 
-#### Surveys and Contests 
+You can make the following choices regarding your personal information:
 
-Occasionally, we may request information from customers via surveys or contests. Participation in these surveys or contests is completely voluntary. Therefore, you have a choice whether or not to disclose this information. Information requested may include contact information (such as name and email address), and demographic information (such as zip/postal code, age level). Contest information will be used to administer the contest, including notifying the winners and awarding prizes. Survey information will be used for purposes of evaluating, monitoring, or improving our business or this site.
+  1. **Promotional Emails.** You may choose to provide us with your email address for the purpose of allowing us to send newsletters, surveys, offers, and other promotional materials to you as well as targeted offers from third parties. You can choose to stop receiving promotional emails by following the unsubscribe instructions in e-mails that you receive. We will remove your name from our mailing lists after receiving your request within the timeframe permitted by law; however, you may still receive mailings that had been initiated prior to your name being removed. If you decide not to receive promotional emails, we may still send you transactional communications such as messages related to your account, order fulfillment, product ratings, or other service-related communications.
+  2. **Promotional Mailings.** If at any time you do not want to receive offers and/or promotional mailings from us you can remove yourself from our mailing lists by emailing us at [Famous Footwear Customer Service](http://famousfootwear.custhelp.com/app/ask) with "NO SNAIL MAIL" in the subject line along with your name, address and zip code. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed.
+  3. **Promotional Text Messages.**  If you receive a text message from us that contains promotional information you can opt-out of receiving future text messages by replying “STOP.”
+  4. **Changes To Your Personal Information.** We rely on you to update and correct your personal information. Our website allows you to modify or delete your account profile. Note that we may keep historical information in our backup files as permitted by law. 
+  5. **Deletion Of Your Personal Information** Typically we retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law. We may decide to delete your information if we believe the data is incomplete, inaccurate, or that our continued storage and use is contrary to our obligations to other individuals or third parties. When we delete information, it will be removed from our active database, but it may remain in archives where it is not practical or possible to delete it. In addition, we may keep your personal information as needed to comply with our legal obligations, resolve disputes, and/or enforce any of our agreements.
+  6. **Revocation of Consent.** We rely on the processing of personal information that you provide. Therefore, if you revoke your consent for the processing of personal information then we may no longer be able to provide you services. In some cases, we may limit or deny your request to revoke consent if the law permits or requires us to do so, or if we are unable to adequately verify your identity. 
+  7. **Access To Your Personal Information.** If required by law, upon request, we will grant reasonable access to the personal information that we have about you. 
+  8. **Online Tracking. .** We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions. 
+  9. **California Residents.** California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for direct marketing. If you are a California resident and would like a copy of such notice, please submit a written request to us using the information in the “Contact Information” section below.
 
-#### Cookies
 
-A cookie is a piece of data stored on the hard drive of your computer, containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies can make the browsing experience easier. For instance, by accepting a cookie from our site, you will not have to type in your password more than once, thereby saving time while on our site. Most browsers can be set to reject cookies or to ask you if you want to accept/reject an incoming cookie. If you reject the cookie, you may still use our site, although you will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our customers to enhance the experience on our site.
 
-#### Website and Log Files
+## How We Protect Personal Information
 
-We may collect information automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, or and other tracking technologies. We use IP addresses to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services.
+No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information. In the event that we are required by law to inform you of any unauthorized access to your personal information we may notify you electronically, in writing, or by telephone, if permitted to do so by law.
 
-#### Do Not Track Policy
+Our website permits you to create an account. If you create an account, you will be prompted to create a password. You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else that has obtained your password, whether or not such access or use has been authorized by you. You should notify us of any unauthorized use of your password or account.
 
-Some web browsers have a “do not track” feature that lets you tell websites you visit that you do not want to have your online activities tracked. These features are not yet uniform across browsers, so this site is not currently set up to respond to those signals.
+## Miscellaneous
 
-#### Sharing
+The following additional information relates to our privacy practices:
 
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. 
+  * **Transmission Of Information To Other Countries.** If you are a customer located outside of the United States, please be aware that your information may be processed in the United States, where privacy laws may be less stringent than the laws in your country. By submitting your personal information to us you agree to the transfer, storage and processing of your information in a country other than your country of residence including, but not necessarily limited to, the United States. 
+  * **Third Party Applications/Websites.** We have no control over the privacy practices of websites or applications that we do not own. 
+  * **Children.** FamousFootwear.com is not targeted to children. We do not knowingly request information from anyone under the age of 13 without parental consent. 
+  * **Changes To This Privacy Policy.** We may change our privacy policy and practices over time.
 
-We may partner with other parties (including affiliated companies) from time to time to provide specific services on our behalf, such as marketing, analytics, data hosting and processing, and similar services. The personal information we collect may be shared with these other parties so that they may provide these services to us. Note that some of these other parties and affiliates may be located outside of the country in which you reside, including in the United States, and your personal information may be collected, used, disclosed, stored and processed in such jurisdictions for the purposes described in this privacy policy. 
 
-We may combine the personal information we collect, such as your order information and contact information, with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be disclosed to and used by our marketing partners or other carefully screened companies whose products may be of interest to you. 
 
-If you prefer we do not share this information with our marketing partners or other carefully screened companies, please see the Choice and Opt-out section below. If you agree and consent to receive email from our marketing partners, we will share with them your email address and the information described above, so they can send you offers for products and services that may be of interest to you. We will only share this information if you have opted in and provided consent by selecting Submit or Sign Up when prompted to enter your email address to “Sign up for trend updates & special offers.” Additionally, our agreements with our partners require that each email our partners send you will include a description of the simple opt-out process to enable you to stop receiving future emails. 
+To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information unless we receive your consent to the new privacy policy.
 
-#### Links
+## Contact Information
 
-From time to time, famous.com may contain links to other websites. Please be aware that we cannot be responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. The privacy policy you are currently reading applies solely to information collected by famous.com.
+If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below. We will attempt to respond to your requests and to provide you with additional privacy-related information.
 
-#### Security
+  * For customers in the United States: 
+  * U.S. by email: 
+  * Contact us by emailing [Customer Care](http://famousfootwear.custhelp.com/app/ask). 
+  * U.S. by phone: 
+  * 888-869-1053 
+  * U.S. by mail: 
+  * Caleres, Inc.
+  * Famous Footwear Consumer Care 
+  * 8300 Maryland Avenue St. Louis, MO 63105 
+  * For customers in Canada: 
+  * Canada by phone: 
+  * 1-800-969-7500 
+  * Canada by mail: 
+  * Caleres Canada, Inc. 
+  * Famous Footwear Consumer Care 
+  * 1857 Rogers Road 
+  * Perth, Ontario 
+  * K7H 1P7
 
-We take steps to protect our customers’ information against loss or theft, as well as unauthorized access, disclosure, copying, use, or modification, both online and off-line
 
-When our online registration form or order form asks you to enter sensitive information (such as credit card number), that information is encrypted and is protected with Secure Sockets Layer (SSL) encryption technology. While on a secure page, such as our order form, web browsers (such as Microsoft Internet Explorer, Google Chrome, or Apple Safari) change to “locked” status as opposed to un-locked, or open, status used for general internet searches or browsing.
 
-While we use SSL encryption to protect sensitive information online, we also strive to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only Associates who need the information to perform a specific job (for example, our billing clerk or a Consumer Care representative) are granted access to personally identifiable information. Furthermore, all Associates are kept up-to-date on our security and privacy practices. Our Associates are regularly notified and reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers on which we store personally identifiable information are kept in a secure environment.
+If you are not satisfied with our response, and are in the European Union, you may have a right to file a complaint with your local supervisory authority.
 
-If you have questions about our information security practices, contact Famous Footwear Consumer Care. 
-
-#### Site and Service Updates
-
-It is sometimes necessary to email our users regarding site and/or service updates. For issues directly relating to your account, or to provide services you’ve requested, we may communicate with you by either email or phone. 
-
-#### Correcting or Updating Personal Information
-
-If your personal information changes (such as your email, or zip/postal code), or if you no longer desire our service, we will endeavor to provide a way for you to correct, update or remove your personal information provided to us. This can be done at the [Rewards Customer Account](https://secure.famousfootwear.com/Profiles/Login.aspx?rewards=Y) information page (US Rewards Members only) or by contacting Famous Footwear Consumer Care.
-
-#### Choice and Opt-out
-
-Our online visitors are given the opportunity to opt out of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our [Rewards Customer Account](https://secure.famousfootwear.com/Profiles/Login.aspx?rewards=Y) information form (US Rewards Members only) has an opt-out mechanism so users who register with us, but don't want any marketing material or those of our marketing partners, can keep their email address off of our lists. 
-
-If you previously agreed to receive our promotional materials and no longer wish to receive them, you may opt out of receiving these communications by either visiting our [Rewards Customer Account](https://secure.famousfootwear.com/Profiles/Login.aspx?rewards=Y) information page (US Rewards Members only) or by contacting Famous Footwear Consumer Care. 
-
-Users of our site are notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
-
-#### Notification of Changes
-
-If we decide to change our privacy policy, we will post those changes on our homepage so our users always have access to details about the information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email. You will have a choice as to whether or not we may use your information in this different manner. Otherwise, we will use information in accordance with the privacy policy under which the information was collected.
-
-#### Contact Information
-
-If you wish to request access to, or correction of, your personal information in the custody or control of BG Retail, LLC. or Caleres Canada, Inc., if you have any questions or would like to make a complaint, or if you would like to opt-out of receiving promotional materials from BG Retail, LLC. or Caleres Canada, Inc., please use the information below to contact us. Requests for access and correction must be in writing and are subject to applicable legal restrictions.
+**Last Revised:** 5/23/19 
