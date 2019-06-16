@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219140437id_/https%3A//www.newsobserver.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616224948id_/https%3A//www.newsobserver.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
-# Privacy Policy | News & Observer
+# Privacy Policy | Raleigh News & Observer
 
 ##  Privacy Policy 
 
