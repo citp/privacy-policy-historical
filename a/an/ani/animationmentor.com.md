@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animationmentor.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002233516id_/http%3A//www.animationmentor.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animationmentor.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616033041id_/https%3A//www.animationmentor.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Animation Mentor
 
