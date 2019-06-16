@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230031508id_/https%3A//www.faa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616033411id_/https%3A//www.faa.gov/privacy) for the most accurate reproduction.*
 
 # FAA Privacy and Website Policy
 
@@ -61,7 +61,7 @@ Back to top
 
 ## Sharing Your Information
 
-We may share personally identifiable information you provide to us online with representatives within the Department of Transportation's [Operating Administrations](http://www.dot.gov/administrations) and related entities, other federal government agencies, or other named representatives as needed to speed your request or transaction. In a government-wide effort to combat security and virus threats, we may share some information we collect automatically, such as IP address, with other federal government agencies.
+We may share personally identifiable information you provide to us online with representatives within the Department of Transportation's [Operating Administrations](https://www.transportation.gov/administrations) and related entities, other federal government agencies, or other named representatives as needed to speed your request or transaction. In a government-wide effort to combat security and virus threats, we may share some information we collect automatically, such as IP address, with other federal government agencies.
 
 Also, the law may require us to share collected information with authorized law enforcement, homeland security, and national security activities. See the Privacy Act of 1974.
 
@@ -95,7 +95,7 @@ In contrast, a persistent cookie is stored on your computer and is re-used each 
 
 If you want to remove persistent cookies from your machine, you can use your browser to delete all persistent cookies. For example, in Internet Explorer, you can delete cookies via Tools > Internet Options. Keep in mind that this removes all cookies from your machine, even those created by other websites. Therefore, it may affect your experience on other websites.
 
-If you want to opt-out of the use of Web measurement and cookie technologies, see [Web Measurement and Customization Opt-Out](http://www.usa.gov/optout-instructions.shtml).
+If you want to opt-out of the use of Web measurement and cookie technologies, see [Web Measurement and Customization Opt-Out](https://www.usa.gov/optout-instructions).
 
 Back to top
 
@@ -123,7 +123,7 @@ Back to top
 
 ## Your Rights Under the Privacy Act of 1974
 
-The Privacy Act of 1974 protects the personal information the federal government keeps on you in systems of records (SOR). Information an agency controls recovered by name or other personal identifier. The Privacy Act regulates how the government can disclose, share, provide access to, and keep the personal information that it collects. The Privacy Act does not cover all information collected online.
+The Privacy Act of 1974 protects the personal information the federal government keeps on you in systems of records (SOR) (information the DOT controls recovered by name or other personal identifier). The Privacy Act regulates how the government can disclose, share, provide access to, and keep the personal information that it collects. The Privacy Act does not cover all information collected online.
 
 The Act's major terms require agencies to:
 
@@ -141,7 +141,7 @@ When FAA collects information from you online that is subject to the Privacy Act
 
 
 
-View our [Privacy Act Notices](http://www.dot.gov/citizens/privacy/privacy-act-system-records-notices).
+View our [Privacy Act Notices](https://www.transportation.gov/individuals/privacy/privacy-act-system-records-notices).
 
 Back to top
 
@@ -153,7 +153,7 @@ Below is the current list of official FAA social media accounts.
 
   * [FAA Facebook](https://web.archive.org/exit/?pageName=FAA%20Facebook&pgLnk=https%3A%2F%2Fwww%2Efacebook%2Ecom%2FFAA)
   * [FAA Twitter](https://web.archive.org/exit/?pageName=FAA%20Twitter&pgLnk=https%3A%2F%2Ftwitter%2Ecom%2FFAANews)
-  * [FAA on YouTube](https://web.archive.org/exit/?pageName=FAA%20on%20YouTube&pgLnk=http%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fuser%2FFAAnews)
+  * [FAA on YouTube](https://web.archive.org/exit/?pageName=FAA%20on%20YouTube&pgLnk=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fuser%2FFAAnews)
   * [FAA on Instagram](https://web.archive.org/exit/?pageName=FAA%20on%20Instagram&pgLnk=https%3A%2F%2Fwww%2Einstagram%2Ecom%2Ffaa%2F)
   * [FAA on LinkedIn](https://web.archive.org/exit/?pageName=FAA%20on%20LinkedIn&pgLnk=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Ffaa)
 
@@ -163,9 +163,9 @@ Back to top
 
 ## Our Privacy Practices
 
-If you have comments, concerns, or need more information on our privacy practices, please contact our Privacy Division at [Privacy@faa.gov](https://web.archive.org/contact_faa/?returnPage=2%2FV%5D%2FNKB8789CIXL%2AE%5B%24RA9B%3F%0A&mailto=%2F0%26U4I%3A%5E%3A1%5B%5CJKX1%20E%3A9J%0A&subject=I77I%2EH%2A%5E%3E6%5D%5CJO%28H%23TKYKD%3D%224AYP%28F%24H%21HU%3AGB96%2BGX%5EF6WT%3D%5FCVL%40%2BH%20%0A) or 888-PRIVAC1. Also, DOT has conducted a Privacy Impact Assessment on some systems.
+If you have comments, concerns, or need more information on our privacy practices, please contact our Privacy Division at [privacy@faa.gov](https://web.archive.org/contact_faa/?returnPage=2%2FV%5D%2FNKB8789CIXL%2AE%5B%24RA9B%3F%0A&mailto=%2F8%26U4I%3A%5E%3A1%5B%5CJKX1%20E%3A9J%0A&subject=I77I%2EH%2A%5E%3E6%5D%5CJO%28H%23TKYKD%3D%224AYP%28F%24H%21HU%3A%27B96%2BGX%5EF6WT%3D%5FCVL%40%2BH%20%0A) or 1 (888) PRI-VAC1. Also, DOT has conducted a Privacy Impact Assessment on some systems.
 
-View our [DOT Privacy Impact Assessments](http://www.dot.gov/individuals/privacy/privacy-impact-assessments).
+View our [DOT Privacy Impact Assessments](https://www.transportation.gov/individuals/privacy/privacy-impact-assessments).
 
 Back to top
   *[ISP]: internet service provider
