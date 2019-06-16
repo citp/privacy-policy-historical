@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sprouts.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230085548id_/https%3A//www.sprouts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprouts.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616192526id_/https%3A//www.sprouts.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Sprouts.com
+# Privacy Policy | Sprouts Farmers Market
 
 Last Updated: January 30, 2018
 
