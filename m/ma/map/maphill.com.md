@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maphill.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209014345id_/http%3A//www.maphill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maphill.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616043325id_/http%3A//www.maphill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Maphill
 
