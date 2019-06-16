@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livethedreamevent.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628105425id_/http%3A//www.livethedreamevent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livethedreamevent.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616044902id_/https%3A//www.livethedreamevent.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLeadSystemPRO™
 
@@ -43,7 +43,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 #### 1.1. Inquiries or Concerns?
 
-We are committed to resolving complaints about our collection and use of your Personal Data. Individuals with inquiries or complaints regarding this policy should first contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#99e9ebf0eff8fae0d9f4e0f5fcf8fdeae0eaedfcf4e9ebf6b7faf6f4). We will respond to your request to access, update, or delete your information within ten (10) business days. Before we are able to provide you with any information, correct any inaccuracies, or delete any information, however, we may ask you to verify your identity.
+We are committed to resolving complaints about our collection and use of your Personal Data. Individuals with inquiries or complaints regarding this policy should first contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6111130817000218210c180d04000512181215040c11130e4f020e0c). We will respond to your request to access, update, or delete your information within ten (10) business days. Before we are able to provide you with any information, correct any inaccuracies, or delete any information, however, we may ask you to verify your identity.
 
 #### 1.2. Revisions to this Privacy Policy.
 
@@ -51,7 +51,7 @@ We may revise this Privacy Policy to reflect changes in our legal or regulatory 
 
 #### 1.3. Children Under the Age of 13
 
-Our Content is not intended for children under 13 years of age. No one under age 13 may provide Personal Data in our website. We do not knowingly collect Personal Data from children under 13. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of 13. If we learn we have collected Personal Data from a child under 13 without parent consent, we will delete that information. If you believe we might have information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9c9cbd0cfd8dac0f9d4c0d5dcd8ddcac0cacddcd4c9cbd697dad6d4).
+Our Content is not intended for children under 13 years of age. No one under age 13 may provide Personal Data in our website. We do not knowingly collect Personal Data from children under 13. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of 13. If we learn we have collected Personal Data from a child under 13 without parent consent, we will delete that information. If you believe we might have information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c4b4b6adb2a5a7bd84a9bda8a1a5a0b7bdb7b0a1a9b4b6abeaa7aba9).
 
 * * *
 
@@ -127,7 +127,7 @@ It may be necessary for us to disclose your Personal Data, either by law, legal 
 We offer Site Visitors and Customers who provide Personal Data the means to choose how we use the information we collect. To the extent required by applicable law, we obtain opt-in consent for certain uses and disclosures of Personal Data. You have a right to withdraw such consent at any time. We shall make reasonable efforts to accommodate individual privacy preferences.
 
 _Account Profile_  
-To update your account information or discontinue your account, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d9aaaca9a9b6abad99b4a0b5bcb8bdaaa0aaadbcb4a9abb6f7bab6b4). Requests to access, change, or delete your information will be handled within 30 days.
+To update your account information or discontinue your account, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#95e6e0e5e5fae7e1d5f8ecf9f0f4f1e6ece6e1f0f8e5e7fabbf6faf8). Requests to access, change, or delete your information will be handled within 30 days.
 
 _Tracking Technologies_  
 We do not respond to your browser’s “do not track” signals or other mechanisms for indicating your preference regarding the collection personally identifiable information.
@@ -135,9 +135,9 @@ We do not respond to your browser’s “do not track” signals or other mechan
 We use cookies and similar technologies. Our [Cookie Policy](https://web.archive.org/cookie-policy/) describes how we use cookies and how you may limit cookie activity in your browser. If you disable or refuse cookies, please note that some parts of our Content may then be inaccessible or not function properly.
 
 _Promotional Offers_  
-If you do not wish to have your information used to promote our own or third parties’ products or services, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always opt-out by sending us an email stating your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a8d8dac1dec9cbd1e8c5d1c4cdc9ccdbd1dbdccdc5d8dac786cbc7c5).
+If you do not wish to have your information used to promote our own or third parties’ products or services, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always opt-out by sending us an email stating your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e595978c9384869ca5889c89808481969c9691808895978acb868a88).
 
-You may manage your receipt of marketing and non-transactional email communications by clicking on the “unsubscribe” link located on the bottom of such communication. Additionally, you may send a request specifying your communications preferences to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3c4c4e554a5d5f457c514550595d584f454f4859514c4e53125f5351). Customers cannot opt out of receiving transactional emails related to their account or the Services.
+You may manage your receipt of marketing and non-transactional email communications by clicking on the “unsubscribe” link located on the bottom of such communication. Additionally, you may send a request specifying your communications preferences to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2050524956414359604d594c45414453595354454d50524f0e434f4d). Customers cannot opt out of receiving transactional emails related to their account or the Services.
 
 _Targeted Advertising._  
 We partner with third party services and advertising networks to manage our advertising on other sites. Such third parties may place cookies on your browser or device to gather information about your activities on ours and other sites that you visit in order to provide you with ads. We do not control third parties’ collection or use of your information to serve ads. However these third parties may provide you with ways to choose not to have your information collected or used in this way. 
@@ -153,7 +153,7 @@ Persons located in the EU have specific rights granted to them under the General
 _Limited Processing_  
 We limit the processing of Personal Data of persons in the EU (“EU Personal Data”) to that which is relevant for the purposes of the particular processing. We do not process EU Personal Data in ways that are inconsistent with the purposes for which the information was collected or subsequently authorized by you. 
 
-In addition, to the extent necessary for these purposes, we take reasonable steps to ensure that the EU Personal Data we process is reliable for its intended use, and accurate, complete and current. In this regard, we rely on you to update and correct EU Personal Data to the extent necessary for the purposes for which the information was collected or subsequently authorized. You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#59292b302f383a20193420353c383d2a202a2d3c34292b36773a3634) to request that we update or correct relevant EU Personal Data.
+In addition, to the extent necessary for these purposes, we take reasonable steps to ensure that the EU Personal Data we process is reliable for its intended use, and accurate, complete and current. In this regard, we rely on you to update and correct EU Personal Data to the extent necessary for the purposes for which the information was collected or subsequently authorized. You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4636342f3027253f062b3f2a232722353f3532232b3634296825292b) to request that we update or correct relevant EU Personal Data.
 
 Subject to applicable law, we retain EU Personal Data in a form that identifies or renders you identifiable only for as long as it serves a purpose that is compatible with the purposes for which it was collected or subsequently authorized by you.
 
@@ -195,7 +195,7 @@ Please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-prot
 
 #### 3.4. Grievance procedure
 
-You may file a complaint concerning our processing of Personal Data by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4333312a3522203a032e3a2f262227303a3037262e33312c6d202c2e). If a failure to comply with this Privacy Policy or other obligations, we will take steps to remedy the issue.
+You may file a complaint concerning our processing of Personal Data by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5c2c2e352a3d3f251c312530393d382f252f2839312c2e33723f3331). If a failure to comply with this Privacy Policy or other obligations, we will take steps to remedy the issue.
 
 If a complaint regarding Personal Data cannot be resolved through our internal processes, we will cooperate with applicable data protection authorities to address a complaint and provide appropriate recourse. 
 
