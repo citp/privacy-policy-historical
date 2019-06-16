@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the namethatporn.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009010131id_/http%3A//namethatporn.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namethatporn.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616040836id_/https%3A//namethatporn.com/help/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy › Help › NTP
+# Privacy Policy › Help › NameThatPorn.com
 
 This document details important information regarding the use and disclosure of User Data collected on NameThatPorn.com
 
