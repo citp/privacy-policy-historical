@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adrope.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211213149id_/http%3A//www.adrope.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrope.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616052117id_/http%3A//adrope.com/privacy.aspx) for the most accurate reproduction.*
 
 # Ad Rope Privacy Policy
 
