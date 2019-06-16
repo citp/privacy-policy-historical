@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icewalkers.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705043328id_/https%3A//www.icewalkers.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icewalkers.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616173901id_/https%3A//www.icewalkers.com/support/privacy.php) for the most accurate reproduction.*
 
-# IceWalkers.com - Privacy Policy | Icewalkers.com
+# IceWalkers.com - Privacy Policy | IceWalkers
 
 We at IceWalkers.com are committed to respecting your privacy. Our privacy policy is in place to assure you that we will responsibly protect and manage personally identifiable information you share with us. 
 
