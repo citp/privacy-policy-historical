@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyfreelancer.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206081557id_/http%3A//crazyfreelancer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyfreelancer.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616213815id_/http%3A//crazyfreelancer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CrazyFreelancer.com
 
