@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleagent.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820133701id_/http%3A//doubleagent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleagent.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616173642id_/http%3A//doubleagent.com/privacy-policy) for the most accurate reproduction.*
 
 # Double Agent | doubleagent.com Privacy Policy
 
