@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efm.co.in privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213231724id_/http%3A//www.efm.co.in/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efm.co.in privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616064307id_/http%3A//efm.co.in/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Recharge Duniya » Privacy Policy
 
