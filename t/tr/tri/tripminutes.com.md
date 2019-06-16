@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tripminutes.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225115824id_/http%3A//www.tripminutes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripminutes.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616075229id_/http%3A//www.tripminutes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Trip Minutes
+# Privacy Policy – Trip Minutes
 
 **Privacy Policy for http://www.tripminutes.com/**
 
