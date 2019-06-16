@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the grassvalley.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005195042id_/https%3A//www.grassvalley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grassvalley.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616184940id_/https%3A//www.grassvalley.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Grass Valley
 
-Privacy Notice ▾ 
+#### OVERVIEW
 
 Grass Valley USA, LLC, Grass Valley Canada and their subsidiaries and affiliates (" **Grass Valley** ", " **we** ", " **our** ", or " **us** ") respect your right to privacy. This Privacy Notice explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. This Privacy Notice only applies to personal information that we collect through our websites and the websites of our affiliates and subsidiaries (" **Website** ").
 
@@ -13,6 +13,7 @@ For more information about Grass Valley, please see the "About Us" section of ou
 We recommend that you read this Privacy Notice in full to ensure you are fully informed. However, if you only want to access a particular section of this Privacy Notice, then you can click on the relevant link below to jump to that section.
 
   * What personal information does Grass Valley collect and why?
+  * Marketing Consent
   * Who does Grass Valley share my personal information with?
   * Linked Sites
   * Legal basis for processing personal information
@@ -57,6 +58,10 @@ The types of information we collect from third parties may include marketing inf
 
 
 In general, we will use the personal information we collect from you only for the purposes described in this Privacy Notice or for purposes that we explain to you at the time we collect your personal information. However, we may also use your personal information for other purposes that are not incompatible with the purposes we have disclosed to you (such as archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes) if and where this is permitted by applicable data protection laws.
+
+  
+  
+I would like to receive marketing information from Grass Valley, and its affiliates and subsidiary companies indicated below. I therefore provide my consent to the use of the personal information submitted here for the purpose of providing me marketing information related to Grass Valley's products, services and marketing events. I understand that I may withdraw my consent at any time. Additional information regarding Grass Valley's data privacy policies, including how to withdraw this consent, is available at [www.grassvalley.com/privacy](https://www.grassvalley.com/privacy). Grass Valley is a subsidiary of Belden Inc. Grass Valley's affiliates, subsidiary companies and brands include Grass Valley's global operating companies, as well as; S-A-M (Snell Advanced Media) and its global operating companies.
 
 We may disclose your personal information to the following categories of recipients:
 
