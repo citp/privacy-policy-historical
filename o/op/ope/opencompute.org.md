@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the opencompute.org privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615230111id_/http%3A//www.opencompute.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencompute.org privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616101153id_/https%3A//www.opencompute.org/privacy) for the most accurate reproduction.*
 
 # OCP Privacy Policy » Open Compute Project
 
 Effective: May 25, 2018
 
-This Privacy Policy describes how Open Compute Project Foundation (referred to in this Privacy Policy as "OCP," "we," "us," or "our") collects information when you visit our website [www.opencompute.org](http://www.opencompute.org/) (the "Site") or provide information to use in connection with our services, including our summits and events ("Services"). It also explains how we use and disclose the information we collect from you, and your rights in relation to that information. Our contact information is provided at the end of this Privacy Policy.
+This Privacy Policy describes how Open Compute Project Foundation (referred to in this Privacy Policy as "OCP," "we," "us," or "our") collects information when you visit our website [www.opencompute.org](https://www.opencompute.org/) (the "Site") or provide information to use in connection with our services, including our summits and events ("Services"). It also explains how we use and disclose the information we collect from you, and your rights in relation to that information. Our contact information is provided at the end of this Privacy Policy.
 
-Per this Privacy Policy, YOU EXPRESSLY CONSENT TO OUR COLLECTION, STORAGE, USE AND DISCLOSURE OF YOUR INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY. This Privacy Policy is part of, and is governed by, our Terms of Service located at [http://opencompute.org/terms-of-service/](http://www.opencompute.org/terms-of-service).
+Per this Privacy Policy, YOU EXPRESSLY CONSENT TO OUR COLLECTION, STORAGE, USE AND DISCLOSURE OF YOUR INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY. This Privacy Policy is part of, and is governed by, our Terms of Service located at [http://opencompute.org/terms-of-service/](https://www.opencompute.org/terms-of-service).
 
 ## 1\. Information Collected by OCP
 
@@ -48,7 +48,7 @@ We will not rent, sell, share or otherwise disclose your information to third-pa
 
 ### 4.1 Volunteer Leaders, Member and Solution Provider Listings
 
-We do publish your photo image, your name and your corporate affiliation on the OCP website when you volunteer for OCP. We also publicly share in our Member and Solution Provider member company names in their respective listings available at [http://www.opencompute.org](http://www.opencompute.org/). If you become an OCP Solution Provider, you will also provide us information about your company and departments or individuals to contact for this program. Based on your requirements and upon approval, we may publish this information on the OCP website. All information shared with OCP is subject to publication on our website and its affiliates, including primary contact name, email, phone and address. For information about your data, please see "Data Retention and Deletion Practices" below.
+We do publish your photo image, your name and your corporate affiliation on the OCP website when you volunteer for OCP. We also publicly share in our Member and Solution Provider member company names in their respective listings available at [http://www.opencompute.org](https://www.opencompute.org/). If you become an OCP Solution Provider, you will also provide us information about your company and departments or individuals to contact for this program. Based on your requirements and upon approval, we may publish this information on the OCP website. All information shared with OCP is subject to publication on our website and its affiliates, including primary contact name, email, phone and address. For information about your data, please see "Data Retention and Deletion Practices" below.
 
 ### 4.2 Employees
 
