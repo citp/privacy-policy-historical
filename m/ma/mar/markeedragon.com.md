@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202230651id_/http%3A//news.markeedragon.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616222540id_/http%3A//news.markeedragon.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Markee Dragon News & Guides
 
