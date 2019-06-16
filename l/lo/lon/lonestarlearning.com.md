@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonestarlearning.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925161248id_/https%3A//store.lonestarlearning.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonestarlearning.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616115555id_/https%3A//store.lonestarlearning.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
