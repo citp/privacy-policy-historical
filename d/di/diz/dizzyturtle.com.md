@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dizzyturtle.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611161605id_/http%3A//www.dizzyturtle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dizzyturtle.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616095956id_/http%3A//www.dizzyturtle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](http://www.dizzyturtle.com/cdn-cgi/l/email-protection#31585f575e7155584b4b48454443455d541f525e5c "info@dizzyturtle.com").
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@dizzyturtle.com](mailto:info@dizzyturtle.com "info@dizzyturtle.com").
 
 At [dizzyturtle.com](http://dizzyturtle.com/ "dizzyturtle.com"), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by dizzyturtle.com and how it is used.
 
