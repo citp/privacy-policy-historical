@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130012610id_/https%3A//www.vodafone.com.au/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616065210id_/https%3A//www.vodafone.com.au/about/legal/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy To Protect You | Vodafone Australia
 
@@ -174,7 +174,7 @@ We take reasonable steps to make sure the overseas recipients of your personal i
 We may store or sometimes disclose personal information to entities outside Australia. Some of these entities are:
 
   * Companies in the Vodafone group located in the UK and Hong Kong.
-  * Vodafone’s data hosting and other service providers located in Fiji, Germany, India, Japan, New Zealand, the Philippines, Singapore, Sweden, the UK and the USA.
+  * Vodafone’s data hosting and other service providers located in the Republic of Ireland, Fiji, Germany, India, Japan, New Zealand, the Philippines, Singapore, Sweden, the UK and the USA.
 
 
 
