@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseandgarden.co.uk privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222215549id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseandgarden.co.uk privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616213748id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Condé Nast Publications Ltd.
 
@@ -108,9 +108,13 @@ We work with social media networks such as Facebook Pixel to show you interest-b
 
 You can limit the kind of tracking and profiling that Facebook undertakes by going to your Facebook account settings. You can also find out more about the pixels and cookies we use on our websites by reading our [Cookies policy](https://web.archive.org/cookie-notice/).
 
+We may also participate in Facebook's 'Custom Audience' service from time to time. This service enables Condé Nast to display to you personalised advertisements when you visit Facebook’s social media platforms. It works by converting your email address to a unique number that Facebook uses to match to unique numbers that Facebook generates from email addresses of its users. Where we use Facebook Custom Audiences, we will only include you if you have consented to receive marketing from us. If you have given us your consent, you can change your mind at any time by unsubscribing (linked in any email we send you) or by adjusting your preferences in our [preference centre](https://web.archive.org/preferences/).
+
 ### Research & Insight
 
 We run various user communities, forums and reader panels. We send out research invitations to our research communities, to people who pay for our products and services and to people who have opted in to receive communications from us.
+
+We may sometimes use your gender and age range collected during a survey for building "look-a-like" models. This data is anonymously transmitted to our Data Management Platform (Permutive) and matched with our subscribers and members. This allows us to provide relevant and targeted advertising. If you are interested and want to learn more about these, including how to opt out, please see our [Cookie Policy](https://web.archive.org/cookie-notice/). Please note, opting out of cookies does not mean you will not see any advertisements.
 
 ### Delivery of goods and services / Customer account management
 
@@ -140,7 +144,28 @@ The law on data protection sets out several different reasons why a company may 
 
 ### Consent
 
-In specific situations, we can collect and process your data with your consent. For example, when you tick a box to receive email newsletters.
+In specific situations, we can collect and process your data with your consent:
+
+  * When you sign up to any editorial newsletter
+  * When you tick a box to receive email from Condé Nast about news and offers
+  * When you tick a box to consent to receive email from Condé Nast on behalf of our partners
+  * We send SMS messages, either from Condé Nast or on behalf of our partners with your consent
+  * When you give us your details to enter a competition
+  * When you participate in any research, this is with your consent
+
+
+
+### Legitimate interest
+
+In specific situations, we require your data to pursue our legitimate interests in a way which might reasonably be expected as part of running our business and which does not materially impact your rights, freedom or interests:
+
+  * We personalise the marketing content we provide you
+  * If you have bought a product or service from us, we will also use your details to send you direct marketing information by email or post, telling you about products and services that we think might interest you
+  * If you have bought a product or service from us we will send you direct marketing on behalf of our partners
+
+
+
+We will only use legitimate interest after we have properly evaluated the data processing and conducted a necessary balancing test. We will also give data subjects the right to object to the processing at any time.
 
 ### Contractual obligations
 
@@ -153,14 +178,6 @@ For example, when you purchase a print subscription to a magazine, we will keep 
 If the law requires us to, we may need to collect and process your data.
 
 For example, we can pass on details of people involved in fraud or other criminal activity affecting us to law enforcement.
-
-### Legitimate interest
-
-In specific situations, we require your data to pursue our legitimate interests in a way which might reasonably be expected as part of running our business and which does not materially impact your rights, freedom or interests.
-
-For example, we personalise the marketing content we provide you.
-
-We will also use your address details to send you direct marketing information by post, telling you about products and services that we think might interest you.
 
 * * *
 
@@ -232,6 +249,8 @@ If we or our service providers transfer any information out of the European Econ
 ## 9\. Links to other websites
 
 Our website may contain links to other websites run by other organisations. This privacy policy applies only to Condé Nast Britain websites‚ so we encourage you to read the privacy statements on any other websites you visit. We cannot be responsible for the privacy policies and practices of other sites even if you have accessed them using links from our websites.
+
+We receive commission on some of the links to third party websites offering products and services that we feature on our websites. We work with a third party to help us attribute e-commerce traffic. You can find out more in our [Cookie Policy](https://web.archive.org/cookie-notice/).
 
 * * *
 
