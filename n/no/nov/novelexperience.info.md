@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novelexperience.info privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830235029id_/http%3A//novelexperience.info/about-hazel-longuet/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelexperience.info privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616225855id_/http%3A//novelexperience.info/about-hazel-longuet/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Novel Experience
 
@@ -26,7 +26,7 @@ When you sign-up to: receive free content, including eBooks, videos and offers;|
 When you purchase a book directly from us| Name, Email address, Phone number, Any Personal Data which you provide to us in the free text box of the form. Payment method choice (payment details are held by our payment processor, not us)  
 When you complete the media enquiries form| Name, Email address, Phone number, Any Personal Data which you provide to us in the free text box of the form  
   
-_Data that we collect automatically_
+ _Data that we collect automatically_
 
 I automatically collect certain information when you visit my Website – such as the type of browser and operating system you are using, and the domain name of your Internet service provider. I do not link this information with any Personal Data.
 
