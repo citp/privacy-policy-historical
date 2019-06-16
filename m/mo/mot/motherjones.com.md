@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207180030id_/https%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616224026id_/https%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Mother Jones
 
