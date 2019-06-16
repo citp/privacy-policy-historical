@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myecp.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703162351id_/https%3A//www.myecp.com/HtmlPages/AE_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myecp.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616134350id_/https%3A//www.myecp.com/HtmlPages/AE_PrivacyPolicy) for the most accurate reproduction.*
 
 # MyECP : Privacy Policy
 
@@ -14,6 +14,6 @@ Protecting your privacy is important to us. We adhere to the Privacy Act, 5 U.S.
 
 We do not disclose any nonpublic personal information about our customers or former customers to anyone, except as permitted by law. We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. 
 
-To review our Privacy Notice Click [here.](https://web.archive.org/HtmlPages/ShowPrivacyPDF)
+To review our Privacy Notice Click [here.](https://web.archive.org/HtmlPages/ShowPrivacyPDF "Display Privacy Policy")
 
 [](http://www.adobe.com/products/reader.html)
