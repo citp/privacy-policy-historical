@@ -1,8 +1,12 @@
-<!--The following is the downloaded HTML source of the powtoon.com privacy policy that was archived on 2018-07-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180722112207id_/https%3A//www.powtoon.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powtoon.com privacy policy that was archived on 2019-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190616141709id_/https%3A//www.powtoon.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!---Full length template (bs3) --><head>
-    <title>Powtoon | Create Awesome Videos Yourself</title>
+    
+      
+      
+      <title>Privacy Policy | Powtoon</title>
+    
     <!---META TAGS -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,14 +18,25 @@
 
 
 
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://cdn.walkme.com/users/d0d4196aa5d44f2b91afe9de5c8e756f/walkme_d0d4196aa5d44f2b91afe9de5c8e756f_https.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-62X2"></script><script>
+    var ALL_COOKIES_SECURE = true;
+</script>
+
+<link rel="stylesheet" href="https://static.powtoon.co/cache/css/d8266f7cb5e0.css" type="text/css">
+
 
   
 
 
 <meta property="fb:app_id" content="1646060565508705">
 
-<!-- Ie polyfill -->
-<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://cdn.walkme.com/users/d0d4196aa5d44f2b91afe9de5c8e756f/walkme_d0d4196aa5d44f2b91afe9de5c8e756f_https.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-62X2"></script><script>
+<script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.12.0/lodash.min.js"></script>
+<script>
+    /* lodash CDN fallback */
+    (window._ && window._.VERSION) || document.write('<script type="text/javascript" src="https://static.powtoon.co/vendor/lodash/4.12/lodash.min.js"><\/script>');
+</script><script type="text/javascript" src="https://static.powtoon.co/vendor/lodash/4.12/lodash.min.js"></script>
+
+<script>
     function getInternetExplorerVersion() {
         var value = -1;
         if (navigator.appName == 'Microsoft Internet Explorer') {
@@ -38,61 +53,77 @@
         }
         return value;
     }
-
-
-    var ie_ver = getInternetExplorerVersion();
-    if (ie_ver !== -1) {
-        function CustomEvent(event, params) {
-            params = params || {bubbles: false, cancelable: false, detail: undefined};
-            var evt = document.createEvent('CustomEvent');
-            evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail);
-            return evt;
-        }
-
-        CustomEvent.prototype = window.Event.prototype;
-
-        window.CustomEvent = CustomEvent;
-    }
 </script>
-<!-- End Ie polyfill -->
+
+<script src="https://cdn.jsdelivr.net/combine/npm/whatwg-fetch@3.0.0,npm/core-js@2.6.5/client/shim.min.js,npm/custom-event-polyfill@1.0.7"></script>
 
 
-
-<!-- sentry ravenjs -->
-<script src="https://static.powtoon.co/vendor/raven/3.23.3/raven.min.js" crossorigin="anonymous"></script>
+<!-- sentry -->
+<script src="https://static.powtoon.co/vendor/bowser/2.0.0/bowser.min.js"></script>
+<script src="https://static.powtoon.co/vendor/sentry/4.6.3/bundle.min.js"></script>
 <script>
     
         var sentry_public_dsn = 'https://fd2a8037985848cfa6b12601234fa20d@app.getsentry.com/7059';
     
 
     if (sentry_public_dsn) {
-        Raven.config(sentry_public_dsn,{
-            shouldSendCallback: function(data) {
+        var isNotValidBrowser = false
+
+        if (bowser) {
+            var browser = bowser.getParser(window.navigator.userAgent);
+
+            isNotValidBrowser = browser.satisfies({
+                safari: "<10",
+                chrome: "<64",
+                firefox: "<58",
+                edge: "<14",
+                "internet explorer": "<11",
+                "android browser": "<4.2",
+            });
+        }
+
+        customFilterIntegration = {
+            name: 'customFilter',
+            setupOnce: function () {
+                var shouldDropEvent = this.shouldDropEvent;
+
+                Sentry.addGlobalEventProcessor(function (event) {
+                    if (shouldDropEvent(event)) {
+                      return null;
+                    }
+
+                    return event;
+                });
+            },
+            shouldDropEvent: function (event) {
+                if (isNotValidBrowser) {
+                    return true;
+                }
 
                 var sendErrorMessageToHTML5Studio = true;
-                var tmpRavenObj = jQuery.extend({}, data, {breadcrumbs: null, extra: null});
+                var tmpRavenObj = jQuery.extend({}, event, {breadcrumbs: null, extra: null});
                 var dataString = JSON.stringify(tmpRavenObj);
 
                 // Filter info logs from console
-                if (data.logger === 'console'){
+                if (event.logger === 'console'){
                     var allowedLevels = ['error', 'warning'];
 
-                    if (allowedLevels.indexOf(data.level) === -1) {
-                        return false;
+                    if (allowedLevels.indexOf(event.level) === -1) {
+                        return true;
                     }
 
                     // Filters WebSocket warnings from Pusher, which are legitimate
-                    if(data.level === 'warning') {
+                    if(event.level === 'warning') {
                         if (dataString.match(/.*Pusher.*WebSocketError.*(1006|4201){1}.*/) !== null
                             || dataString.match(/.*Pusher.*WebSocketError.*WebSocketError.*WebSocketError.*/) !== null) {
-                            return false;
+                            return true;
                         }
                     }
                 }
 
                 // filter strange error from client's extensions
                 if (dataString.match(/.*\/affs\?addonname=.*&affid=.*|.*http:\/\/offerz4u\.utop\.it\/.*|.*v=opt_[0-9]+&partner=.*channel=.*/) !== null) {
-                    return false;
+                    return true;
                 }
 
                 // filter error messages to send to HTML5 studio
@@ -102,40 +133,77 @@
 
                 if (sendErrorMessageToHTML5Studio) {
                     var powtoonSentryEventData = {
-                        error: data,
+                        error: event,
                         type: 'internal-error-reported'
                     };
                     var powtoonSentryEvent = new CustomEvent('powtoon-events', {'detail': powtoonSentryEventData});
                     document.dispatchEvent(powtoonSentryEvent);
                 }
 
-                return true;
-            },
-            release: '83.1.5',
-            // Check if gut
-            fetchContext: true,
-            ignoreUrls: [
-                // Chrome extensions
-                /extensions\//i,
-                /^chrome:\/\//i
-            ]
-        }).install();
+                return false;
+            }
+        };
 
-        Raven.setUser({
-            
-                is_authenticated: 'false'
-            
+        Sentry.onLoad(function () {
+          Sentry.init({
+              dsn: sentry_public_dsn,
+              integrations: [customFilterIntegration],
+              environment: 'prod',
+              release: '91.1',
+              // Check if gut
+              fetchContext: true,
+              ignoreUrls: [
+                  // Chrome extensions
+                  /extensions\//i,
+                  /^chrome:\/\//i,
+                  // Walkme
+                  /cdn\.walkme\.com/i
+              ]
+          });
+
+          Sentry.captureBreadcrumb = Sentry.addBreadcrumb
+
+          Sentry.configureScope(function (scope) {
+            scope.setUser({
+                
+                    is_authenticated: 'false'
+                
+            });
+          });
         });
+
     }
 
     
 
 </script>
-<!-- End sentry ravenjs -->
+<!-- End sentry -->
 
 
 <script>
-    var dataLayer = [{"bi visitor id": "5xGLZdOEQCxpQ164xLZbVG"}];
+      function getCookie(name) {
+        var cookieValue = null;
+        if (document.cookie && document.cookie != '') {
+          var cookies = document.cookie.split(';');
+          for (var i = 0; i < cookies.length; i++) {
+            var cookie = cookies[i].trim();
+            // Does this cookie string begin with the name we want?
+            if (cookie.substring(0, name.length + 1) == (name + '=')) {
+              cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+              break;
+            }
+          }
+        }
+        return cookieValue;
+      }
+
+    var dataLayer = [];
+
+    
+    
+        dataLayer.push({"bi visitor id": getCookie('visitorid')});
+    
+
 
     
 </script>
@@ -156,6 +224,7 @@
         return encodeURIComponent(k) + "=" + encodeURIComponent(data[k]);
     }).join('&')
   }
+
   //Pixel tracking
   function trackEventByPixel(category, action, opt_label, value, extra_data_obj) {
       
@@ -163,16 +232,17 @@
       var url="https://trek.powtoon.com/" + "event.gif";
       var data = {};
       
-      data['i'] = "5xGLZdOEQCxpQ164xLZbVG";
+      data['i'] = "5EeDnfJ6AyGi67qy3Y7pHY";
       if (category) data['c'] = category;
       if (action) data['a'] = action;
       if (opt_label) data['l'] = opt_label;
       if (value) data['v'] = value;
       if (extra_data_obj) {
-          data['d'] = JSON.stringify(extra_data_obj);
           if (extra_data_obj.powtoonId) {
-             data['p'] = extra_data_obj.powtoonId;
+              data['p'] = extra_data_obj.powtoonId;
+              delete extra_data_obj.powtoonId;   // BI-team requested to avoid sending powtoonId inside extra_data
           }
+          data['d'] = JSON.stringify(extra_data_obj);
       }
       if (window.powtoon_ui_session_manager) {
           var ui_session_id = window.powtoon_ui_session_manager.getSessionId();
@@ -190,9 +260,14 @@
       var url="https://trek.powtoon.com/" + "page.gif";
       var data = {};
       
-      data['i'] = "5xGLZdOEQCxpQ164xLZbVG";
+      data['i'] = "5EeDnfJ6AyGi67qy3Y7pHY";
 
       data['p'] = page || document.location.pathname
+
+      if (window.powtoon_ui_session_manager) {
+          var ui_session_id = window.powtoon_ui_session_manager.getSessionId();
+          if (ui_session_id) data['s'] = ui_session_id;
+      }
 
       if (document.referrer) data['r'] = document.referrer;
       (new Image()).src = url + "?" + encodeObjectToUrl(data)
@@ -207,7 +282,7 @@
       var url = "https://trek.powtoon.com/" + "social.gif";
       var data = {}
       
-      data['i'] = "5xGLZdOEQCxpQ164xLZbVG";
+      data['i'] = "5EeDnfJ6AyGi67qy3Y7pHY";
       if (network) data['n'] = network;
       if (target) data['t'] = target;
       if (param) data['p'] = param;
@@ -234,7 +309,7 @@
 
   function sendGAEventWithRetries(category, action, opt_label, value, nRetries, delay) {
     if (nRetries < 0 || delay < 0) {
-        Raven.captureException(new Error('sendGAEventWithRetries function was called with illegal params - nRetries=' + nRetries + ', delay=' + delay));
+        Sentry.captureException(new Error('sendGAEventWithRetries function was called with illegal params - nRetries=' + nRetries + ', delay=' + delay));
     }
 
     // Try to report event...
@@ -247,7 +322,7 @@
           sendGAEventWithRetries(category, action, opt_label, value, nRetries-1, delay);
         }, delay);
       } else {
-        Raven.captureException(new Error('GA function is not loaded properly (after retries)'));
+        Sentry.captureException(new Error('GA function is not loaded properly (after retries)'));
       }
     }
   }
@@ -272,7 +347,7 @@
   function trackPageView(page) {
     
       if (typeof ga === "undefined") {
-          Raven.captureException(
+          Sentry.captureException(
                   new Error('GA function is not loaded properly')
           );
           return;
@@ -314,7 +389,6 @@
 
 </script>
 
-
  
 
 
@@ -339,10 +413,21 @@
  
 
 
+
+
+
+
+
+
+
     <!--//HEAD SCRIPTS-->
     
 
     
+	<meta name="title" content="Privacy Policy - Powtoon">
+<meta name="description" content="Your privacy matters to us! Our Privacy Policy is part of the Powtoon Terms of Use, and defines what info we collect, how long we keep it, and how we use it.">
+<meta name="keywords" content="Powtoon, Studio, Slides, Presentation, Slideshow, Animation, Video, Privacy Policy">
+
     
 
     
@@ -359,7 +444,7 @@
         8888888P" d88""88b 888  888  888 888  d88""88b d88""88b 888 "88b
         888       888  888 888  888  888 888  888  888 888  888 888  888
         888       Y88..88P Y88b 888 d88P 888  Y88..88P Y88..88P 888  888
-        888        "Y88P"   "Y8888888P"  888   "Y88P"   "Y88P"  888  888  83.1.5
+        888        "Y88P"   "Y8888888P"  888   "Y88P"   "Y88P"  888  888  91.1
 
     =====================================================================================-->
     
@@ -417,10 +502,9 @@
 
     
     <!--DEFAULT CSS LINKS -->
-    <link href="https://static.powtoon.co/css/scss/powtoon-v4.css?83.1.5" rel="stylesheet">
+    <link rel="stylesheet" href="https://static.powtoon.co/cache/css/1d29714a2bfd.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="https://static.powtoon.co/css/scss/fonts/pt-font.css?83.1.5">
     <!--//DEFAULT CSS LINKS -->
     
 
@@ -926,7 +1010,7 @@ library_tolerance=3500,
 use_existing_jquery=false,
 // DO NOT EDIT BELOW THIS LINE
 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=31224&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180722112207id_%2Fhttps%3A%2F%2Fwww.powtoon.com%2Fprivacy-policy%2F&amp;r=0.3912295035030988" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=31224&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190616141709id_%2Fhttps%3A%2F%2Fwww.powtoon.com%2Fprivacy-policy%2F&amp;r=0.7314448512481642" type="text/javascript"></script>
 
 
 <!-- FAVICON -->
@@ -963,11 +1047,15 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 <script>
   window.fbAsyncInit = function() {
+    if (typeof FB === 'undefined') {
+      return
+    }
+
     // init the FB JS SDK
     FB.init({
       appId      : '252546858126957',                        // App ID from the app dashboard
       channelUrl : '//www.powtoon.com',                 // Channel file for x-domain comms
-      status     : true,                                 // Check Facebook Login status
+      status     : false,                                 // Check Facebook Login status
       xfbml      : true                                  // Look for social plugins on the page
     });
 
@@ -1012,58 +1100,70 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                   </div>
                   <button class="mobile-menu "></button>
                   
-                    
-                  
+    
+
                   <div class="nav-block">
                     <div class="nav-right">
                       <nav class="navigation ">
                         <ul>
                           
                           <li>
-                            <a href="#" class="explore dropdown-toggle track" data-toggle="dropdown"><span>Explore <i class="pt-fullarrow_bottom"></i></span></a>
+                            <a href="#" class="explore dropdown-toggle track" data-toggle="dropdown"><span>Explore<i class="pt-fullarrow_bottom"></i></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="/ecosystem/" class="track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="ecosystem">Ecosystem</a></li>
-                                <li><a href="/powtoon-gallery/" class="track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="users_gallery">USER GALLERY</a></li>
-                                <li><a href="/style-gallery/" class="track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="style_gallery">STYLE GALLERY</a></li>
-                                <li><a href="/blog/" target="_blank" class="track" data-action="click" data-label="Nav-Bar-Logged-Out" data-category="Blog"><span>Blog</span></a></li>
+                                <li><a href="/marketing-videos-internal/" class="track" data-label="explore.marketing_videos" data-action="click" data-category="nav_bar_logged_out" data-value="20052">MARKETING VIDEOS</a></li>
+                                <li><a href="/powtoon-gallery/" class="track" data-label="explore.user_gallery" data-action="click" data-category="nav_bar_logged_out" data-value="20052">USER GALLERY</a></li>
+                                <li><a href="/style-gallery/" class="track" data-label="explore.style_gallery" data-action="click" data-category="nav_bar_logged_out" data-value="20052">STYLE GALLERY</a></li>
+                                <li><a href="/integrations/" class="track" data-label="explore.integrations" data-action="click" data-category="nav_bar_logged_out" data-value="20052">Integrations</a></li>
+                                <li><a href="/labs/" target="_blank" class="track" data-label="explore.labs" data-action="click" data-category="nav_bar_logged_out" data-value="20052">Labs</a></li>
+                                <li><a href="/blog/" target="_blank" class="track" data-label="explore.blog" data-action="click" data-category="nav_bar_logged_out" data-value="20052"><span>Blog</span></a></li>
                             </ul>
                           </li>
                           <li>
-                            <a href="#" class="for-business dropdown-toggle track" data-toggle="dropdown"><span>Solutions <i class="pt-fullarrow_bottom"></i></span></a>
+                            <a href="#" class="for-business dropdown-toggle track" data-toggle="dropdown"><span>Solutions<i class="pt-fullarrow_bottom"></i></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="/marketing-home/" class="track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="marketing">MARKETING</a></li>
-                                <li><a href="/training-home/" class="track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="training">TRAINING</a></li>
-                                <li><a href="/hr-home/" class="track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="hr">HR</a></li>
-                                <li><a href="/it-home/" class="track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="it">IT</a></li>
-                                <li><a href="/edu-home/" class="test-powtoon-menu-4edu track" data-action="click" data-label="Nav-Bar-Logged-Out" data-category="4Edu">EDUCATION</a></li>
+                              
+                                <li><a href="/agency/" class="track" data-label="solutions.agency" data-action="click" data-category="nav_bar_logged_out" data-value="20052">AGENCY</a></li>
+                              
+                                <li><a href="/marketing-home/" class="track" data-label="solutions.marketing" data-action="click" data-category="nav_bar_logged_out" data-value="20052">MARKETING</a></li>
+                                <li><a href="/training-home/" class="track" data-label="solutions.training" data-action="click" data-category="nav_bar_logged_out" data-value="20052">TRAINING</a></li>
+                                <li><a href="/hr-home/" class="track" data-label="solutions.hr" data-action="click" data-category="nav_bar_logged_out" data-value="20052">HR</a></li>
+                                <li><a href="/it-home/" class="track" data-label="solutions.it" data-action="click" data-category="nav_bar_logged_out" data-value="20052">IT</a></li>
+                                <li><a href="/edu-home/" class="test-powtoon-menu-4edu track" data-label="solutions.education" data-action="click" data-category="nav_bar_logged_out" data-value="20052">EDUCATION</a></li>
+                                <li><a href="/powtoon-for-photoshop/" class="track" data-label="solutions.photoshop_plugin" data-action="click" data-category="nav_bar_logged_out" data-value="20052">Photoshop Plugin</a></li>
+                                
+                                  <li><a href="/powtoon-for-powerpoint/" class="track" data-label="solutions.powerpoint_to_video" data-action="click" data-category="nav_bar_logged_out" data-value="20052">PowerPoint to Video</a></li>
+                                
+                                
+                                  <li><a href="https://go.powtoon.com/lp/youtube-directory/" class="track" data-label="solutions.youtube_video_ads" data-action="click" data-category="nav_bar_logged_out" data-value="20052">Youtube Video Ads</a></li>
+                                
                             </ul>
                           </li>
                           
                           <li>
-                            <a href="/enterprise/" class="track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="enterprise"><span>Enterprise</span></a>
+                            <a href="/enterprise/" class="track" data-label="enterprise" data-action="click" data-category="nav_bar_logged_out" data-value="20052"><span>Enterprise</span></a>
                           </li>
                           
                           <li>
-                            <a id="navbar_premium_lang" class="test-powtoon-menu-pricing track" href="/premium/" data-action="click" data-label="Nav-Bar-Logged-Out" data-category="Premium"><span>Pricing</span></a>
+                            <a id="navbar_premium_lang" class="test-powtoon-menu-pricing track" href="/premium/" data-label="pricing_premium" data-action="click" data-category="nav_bar_logged_out" data-value="20052"><span>Pricing</span></a>
                           </li>
                           <li>
-                            <a href="/blog/" target="_blank" class="track" data-action="click" data-label="Nav-Bar-Logged-Out" data-category="Blog"><span class="menu-blog">Blog</span></a>
+                            <a href="/blog/" target="_blank" class="track" data-label="blog" data-action="click" data-category="nav_bar_logged_out" data-value="20052"><span class="menu-blog">Blog</span></a>
                           </li>
                           <li>
-                            <a href="#" class="support dropdown-toggle track" data-toggle="dropdown"><span>Support <i class="pt-fullarrow_bottom"></i></span></a>
+                            <a href="#" class="support dropdown-toggle track" data-toggle="dropdown"><span>Support<i class="pt-fullarrow_bottom"></i></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="https://support.powtoon.com" class="track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="help_center">HELP CENTER</a></li>
-                                <li><a href="/html5_tutorials/" class="track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="Tutorials">TUTORIALS</a></li>
-                                <li><a href="http://track.fiverr.com/visit/?bta=20984&amp;nci=5637&amp;utm_campaign=navbar&amp;landingPage=https%3A%2F%2Fwww.fiverr.com%2Fpages%2Fpowtoon-services" class="track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="hire_a_powtoonist" target="_blank">HIRE A POWTOONIST</a></li>
-                                <li><a href="https://support.powtoon.com/en/article/contacting-powtoon-support-7061975" class="track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="contact_us">CONTACT US</a></li>
+                                <li><a href="https://support.powtoon.com" class="track" data-label="support.help_center" data-action="click" data-category="nav_bar_logged_out" data-value="20052">HELP CENTER</a></li>
+                                <li><a href="https://www.powtoon.com/labs/tutorials/" class="track" data-label="support.tutorials" data-action="click" data-category="nav_bar_logged_out" data-value="20052">TUTORIALS</a></li>
+                                <li><a href="http://track.fiverr.com/visit/?bta=20984&amp;nci=5637&amp;utm_campaign=navbar&amp;landingPage=https%3A%2F%2Fwww.fiverr.com%2Fpages%2Fpowtoon-services" class="track" data-label="support.hire_a_powtoonist" data-action="click" data-category="nav_bar_logged_out" data-value="20052">HIRE A POWTOONIST</a></li>
+                                <li><a href="https://support.powtoon.com/en/contact" class="track" data-label="support.contact_us" data-action="click" data-category="nav_bar_logged_out" data-value="20052">CONTACT US</a></li>
                             </ul>
                           </li>
                           <li>
-                            <a href="/account/login/" class="test-powtoon-menu-login track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="Login"><span>Login</span></a>
+                            <a href="/account/login/" class="test-powtoon-menu-login track" data-label="login" data-action="click" data-category="nav_bar_logged_out" data-value="20052"><span>Login</span></a>
                           </li>
                           
                             <li>
-                              <a href="/account/signup/" class="test-powtoon-menu-signup track" data-label="Nav-Bar-Logged-Out" data-action="click" data-category="Signup-for-free"><span>Sign up</span></a>
+                              <a href="/account/signup/" class="test-powtoon-menu-signup track" data-label="signup" data-action="click" data-category="nav_bar_logged_out" data-value="20052"><span>Sign up</span></a>
                             </li>
                           
                           
@@ -1176,8 +1276,10 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 <p>Even if you consented to receiving our periodic emails, you can at any time opt out of receiving these emails by either:</p>
 
+
 <ol>
-	<li>Click the “Unsubscribe" link which appears at the bottom of every email we send you, or</li>
+	<li>Clicking the “Manage your communication &amp; personalization settings" link which appears at the bottom of every email to edit your settings.</li>
+<p style="display:block;margin:10px 0;">Or</p>
 	<li>In your account: access the Communication Settings Center and opt out of receiving any such periodic emails from us.</li>
 </ol>
 </article>
@@ -1228,7 +1330,9 @@ Cookies are small files that our website transfers to your computer, enabling Po
 
 <p>We store such cookies for a period of 14 days, after which such cookies are deleted.</p>
 
-<p>In addition, we contract third party service providers to assist us in gaining a better understanding of the way users visit and use our website. We do this through the use of such third party service providers' cookies, which are placed on your browser when you log in to our website. Such providers can then analyze the data included in such cookies to provide us with valuable insights, such as the average number of visitors to the website or the preferred browser language of most users.</p>
+<p id="aboutcookies">In addition, we contract third party service providers to assist us in gaining a better understanding of the way users visit and use our website. We do this through the use of such third party service providers' cookies, which are placed on your browser when you log in to our website. Such providers can then analyze the data included in such cookies to provide us with valuable insights, such as the average number of visitors to the website or the preferred browser language of most users.</p>
+
+<p>Visit <a rel="nofollow" title="aboutcookies.org" href="http://www.aboutcookies.org/">http://www.aboutcookies.org</a> for a guide on how to control and delete cookies on a wide range of web browsers and operating systems.</p>
 </article>
 
 <article>
@@ -1387,33 +1491,33 @@ Cookies are small files that our website transfers to your computer, enabling Po
 	<h5 class="click-head">COMPANY</h5>
 
 	<ul class="internal-link">
-		<li><a href="/privacy-policy/" title="Privacy Policy">Privacy Policy </a></li>
-		<li><a href="/aboutus/" title="About Us">About Us </a></li>
-		<li><a href="https://www.powtoon.com/terms-and-conditions/" title="Terms and Conditions">Terms and Conditions</a></li>
-		<li><a href="http://track.fiverr.com/visit/?bta=20984&amp;nci=5637&amp;utm_campaign=footer&amp;landingPage=https%3A%2F%2Fwww.fiverr.com%2Fpages%2Fpowtoon-services" title="Hire a Powtoonist">Hire a Powtoonist</a></li>
-		<li><a href="https://www.powtoon.com/edu-home/" title="PowToon for Education">PowToon for Education</a></li>
-		<li><a href="https://www.powtoon.com/jobs/" title="Jobs">Jobs</a></li>
-		<li><a href="http://press.powtoon.com/hadza-tribe-release/" title="Press Kits">Press Kits</a></li>
+		<li><a title="Privacy Policy" href="/privacy-policy/">Privacy Policy </a></li>
+		<li><a title="About Us" href="/aboutus/">About Us </a></li>
+		<li><a title="Terms and Conditions" href="https://www.powtoon.com/terms-and-conditions/">Terms and Conditions</a></li>
+		<li><a title="Hire a Powtoonist" href="http://track.fiverr.com/visit/?bta=20984&amp;nci=5637&amp;utm_campaign=footer&amp;landingPage=https%3A%2F%2Fwww.fiverr.com%2Fpages%2Fpowtoon-services">Hire a Powtoonist</a></li>
+		<li><a title="PowToon for Education" href="https://www.powtoon.com/edu-home/">Powtoon for Education</a></li>
+		<li><a title="Jobs" href="https://www.powtoon.com/jobs/">Jobs</a></li>
+		<li><a title="Press" href="http://press.powtoon.com/">Press</a></li>
 	</ul>
 	</li>
 	<li>
 	<h5 class="click-head">SUPPORT</h5>
 
 	<ul class="internal-link">
-		<li><a href="https://support.powtoon.com" title="Knowledge base (FAQ)">Help Center</a></li>
-		<li><a href="/tutorials/" title="Tutorials page">Tutorials page </a></li>
-		<li><a href="https://support.powtoon.com/en/article/contacting-powtoon-support-7061975" title="Contact Us">Contact Us</a></li>
+		<li><a title="Knowledge base (FAQ)" href="https://support.powtoon.com">Help Center</a></li>
+		<li><a title="Tutorials page" href="/tutorials/">Tutorials page </a></li>
+		<li><a title="Contact Us" href="https://support.powtoon.com/en/contact">Contact Us</a></li>
 	</ul>
 	</li>
 	<li>
 	<h5 class="click-head">POPULAR ARTICLES</h5>
 
 	<ul class="internal-link">
-		<li><a href="https://support.powtoon.com/en/article/introduction-to-the-timeline-html5-studio" title="Introduction to the timeline">Introduction to the timeline</a></li>
-		<li><a href="https://support.powtoon.com/en/article/uploading-images-jpg-jpeg-png-gif-html5-studio" title="Uploading Images">Uploading Images</a></li>
-		<li><a href="https://support.powtoon.com/en/article/adding-a-voiceover-to-your-powtoon-html5-studio-8013762" title="Adding a voiceover to your Powtoon">Adding a voiceover to your Powtoon</a></li>
-		<li><a href="https://support.powtoon.com/en/article/adding-a-video-to-your-powtoon-html5-studio" title="Adding a video to your Powtoon">Adding a video to your Powtoon</a></li>
-		<li><a href="https://support.powtoon.com/en/article/saving-a-slide-as-a-scene-html5-studio" title="Saving a slide as a scene">Saving a slide as a scene</a></li>
+		<li><a title="Introduction to the timeline" href="https://support.powtoon.com/en/article/introduction-to-the-timeline-html5-studio">Introduction to the timeline</a></li>
+		<li><a title="Uploading Images" href="https://support.powtoon.com/en/article/uploading-images-jpg-jpeg-png-gif-html5-studio">Uploading Images</a></li>
+		<li><a title="Adding a voiceover to your Powtoon" href="https://support.powtoon.com/en/article/adding-a-voiceover-to-your-powtoon-html5-studio-8013762">Adding a voiceover to your Powtoon</a></li>
+		<li><a title="Adding a video to your Powtoon" href="https://support.powtoon.com/en/article/adding-a-video-to-your-powtoon-html5-studio">Adding a video to your Powtoon</a></li>
+		<li><a title="Saving a slide as a scene" href="https://support.powtoon.com/en/article/saving-a-slide-as-a-scene-html5-studio">Saving a slide as a scene</a></li>
 	</ul>
 	</li>
 </ul>
@@ -1421,14 +1525,14 @@ Cookies are small files that our website transfers to your computer, enabling Po
 
 <ul class="footer-socials container-fluid">
 	<li class="footer-socials__title">follow us</li>
-	<li><a href="https://www.facebook.com/PowToon" title="Powtoon on Facebook"><img src="https://static.powtoon.co/cms-assets/footer/social-f.png"></a></li>
-	<li><a href="https://www.youtube.com/user/PowToon" title="Powtoon on Youtube"><img src="https://static.powtoon.co/cms-assets/footer/social-y.png"></a></li>
-	<li><a href="https://twitter.com/PowToon" title="Powtoon on Twitter"><img src="https://static.powtoon.co/cms-assets/footer/social-t.png"></a></li>
-	<li><a href="https://www.linkedin.com/company/powtoon-ltd/" title="Powtoon on LinkedIn"><img src="https://static.powtoon.co/cms-assets/footer/social-l.png"></a></li>
-	<li><a href="https://www.instagram.com/powtoon/" title="Powtoon on Instagram"><img src="https://static.powtoon.co/cms-assets/footer/social-i.png"></a></li>
+	<li><a title="Powtoon on Facebook" href="https://www.facebook.com/PowToon"><img src="https://static.powtoon.co/cms-assets/footer/social-f.png"></a></li>
+	<li><a title="Powtoon on Youtube" href="https://www.youtube.com/user/PowToon"><img src="https://static.powtoon.co/cms-assets/footer/social-y.png"></a></li>
+	<li><a title="Powtoon on Twitter" href="https://twitter.com/PowToon"><img src="https://static.powtoon.co/cms-assets/footer/social-t.png"></a></li>
+	<li><a title="Powtoon on LinkedIn" href="https://www.linkedin.com/company/powtoon-ltd/"><img src="https://static.powtoon.co/cms-assets/footer/social-l.png"></a></li>
+	<li><a title="Powtoon on Instagram" href="https://www.instagram.com/powtoon/"><img src="https://static.powtoon.co/cms-assets/footer/social-i.png"></a></li>
 </ul>
 
-<div class="copy-right"><span class="copy-text">© 2012–2018 Powtoon Ltd. | 28 Church Rd., London, UK, HA7 4XR | 44 Tehama Street, San Francisco, CA 94105 | Create Awesome Videos &amp; Presentations </span></div>
+<div class="copy-right"><span class="copy-text">© 2012–2019 Powtoon Ltd. | 28 Church Rd., London, UK, HA7 4XR | 44 Tehama Street, San Francisco, CA 94105 | Create Awesome Videos &amp; Presentations </span></div>
 </div>
 </footer>
 
@@ -1440,7 +1544,19 @@ Cookies are small files that our website transfers to your computer, enabling Po
 
       
     <!-- end footer block -->
+    
+      <div id="cookies-banner" class="cookies-banner">
+    <div class="cookies-banner-text">
+        <span>
+        This website uses cookies to ensure you get the best experience on our website.
+        </span>
+        <a href="/privacy-policy/#aboutcookies" class="learn-more">Learn more</a>
+    </div>
+    <a id="close-banner" class="btn-got-it">Got it!</a>
+</div>
 
+
+    
     </div><!-- end of container-->
     
 
@@ -1475,9 +1591,9 @@ Cookies are small files that our website transfers to your computer, enabling Po
 </script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script><script type="text/javascript" src="https://static.powtoon.co/js/jquery-1.12.4.min.js"></script>
 
 <script>
-    // Catch ajax errors with raven.
+    // Catch ajax errors with sentry.
     $(document).ajaxError(function (event, jqXHR, ajaxSettings, thrownError) {
-        Raven.captureMessage(thrownError || jqXHR.statusText, {
+      Sentry.captureMessage(thrownError || jqXHR.statusText, {
             extra: {
                 type: ajaxSettings.type,
                 url: ajaxSettings.url,
@@ -1494,7 +1610,7 @@ Cookies are small files that our website transfers to your computer, enabling Po
 
 
 
-<script type="text/javascript" src="https://static.powtoon.co/js/ecommerce.js?83.1.5"></script>
+<script type="text/javascript" src="https://static.powtoon.co/js/ecommerce.js?91.1"></script>
 <script type="text/javascript">
   $('#navbar_premium_pricing_lang, #navbar_upgrade_lang').click(function(){
     if (typeof EC === 'object') {
@@ -1502,7 +1618,6 @@ Cookies are small files that our website transfers to your computer, enabling Po
       var id = $(this).data('category') == 'Premium' ? 'Nav-Bar-Premium' : 'Nav-Bar-Pricing';
       EC.addPromo(id);
       EC.setAction("promo_click");
-      trackEventByParams("Internal Promotions", "click", "nav-bar");
     }
   })
 </script>
@@ -1536,9 +1651,31 @@ Cookies are small files that our website transfers to your computer, enabling Po
           trackPageView();
       
 
-      $(function(){ // Make all document actions run after document.ready
-        $('body').analyticsEventTracking();
-      });
+      function closure(f, arg) {
+        function wrapper() {
+          f(arg)
+        }
+        return wrapper
+      }
+
+      //checking if analyticsEventTracking is a function on a timeout...
+      function checkErrorNotFunc(delays){
+
+        var body = $(document.body);
+        if( typeof body.analyticsEventTracking !== 'function' ) {
+            if (delays.length) {
+              console.log('Error check: ' + delays[0] + 'ms')
+              setTimeout(closure(checkErrorNotFunc, delays.slice(1)), delays[0])
+            } else {
+              console.log('No function found.');
+            }
+        } else {
+            body.analyticsEventTracking();
+        }
+
+
+      }
+      checkErrorNotFunc([0, 200, 500, 1500, 10000]);
 
       setTimeout(function() {
           trackEventByParams('unbounce', '15_sec');
@@ -1726,11 +1863,22 @@ var google_remarketing_only = true;
 
 
 
-<script type="text/javascript" src="https://static.powtoon.co/studio/hotfix/83.1.3/2c797f682-1530704843/external-components/UISessionManager/UISessionManager.js"></script>
+<script type="text/javascript" src="https://apps.powtoon.co/studio/hotfix/90.5.1/660ffdf76-1560423582/external-components/UISessionManager/UISessionManager.js"></script>
 <script>
     typeof UISessionManager != "undefined" && $(function(){window.powtoon_ui_session_manager = new UISessionManager.default()})
 </script>
 
+<script type="text/javascript">
+    window.app_versions = {
+       'studio': 'hotfix/90.5.1/660ffdf76-1560423582',
+       'html_player': 'release/90.5/4ba530b15-1560253558',
+       'core_player': 'hotfix/90.3.1/322994b-1559630721',
+       'teams_admin': '',
+       'templates_gallery': '',
+       'site_version': '91.1',
+       'dashboard': 'develop/a0965e0b4-1555430594'
+    }
+</script>
 
 
  
@@ -1786,13 +1934,17 @@ function showNotification(event, data) {
 
 
 // Trigger the userconfirmed messsage if its in the query param
-if(window.location.hash === '#just_confirmed') {
-    window.location.hash = '';
-    $(document).trigger('user_confirmed');
-}
+$(document).ready(
+    function(){
+        if(window.location.hash === '#just_confirmed') {
+            window.location.hash = '';
+            $(document).trigger('user_confirmed');
+        }
+    }
+)
 
 window.addEventListener("message", function(event) {
-    if (event.data.indexOf && event.data.indexOf('loginComplete') === 0) {
+    if (event.data && event.data.indexOf && event.data.indexOf('loginComplete') === 0) {
         var data = JSON.parse(
             event.data.substring('loginComplete'.length, event.data.length));
         $(document).trigger('loginComplete', [data]);
@@ -1855,7 +2007,7 @@ var maintenance =  false;
             messageData.fingerprint = [window.flashvars.p]
         }
 
-        Raven.captureMessage(msg, messageData);
+        Sentry.captureMessage(msg, messageData);
 
         //This part was added to allow users to send their flash errors logs to customer support team
         console.log('##### Technical details for support        (Copy this part)  #####');
@@ -1891,19 +2043,10 @@ if(typeof $.cookie == "function"){
   $('.navigation li [data-toggle="dropdown"]').bootstrapDropdownHover();
 </script>
 
-<script>
-    (window.React) || document.write('<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.1/react.min.js"><\/script>');
-    (window.React) || document.write('<script type="text/javascript" src="https://static.powtoon.co/vendor/react/15.3.1/react.min.js?83.1.5"><\/script>');
-</script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.1/react.min.js"></script><script type="text/javascript" src="https://static.powtoon.co/vendor/react/15.3.1/react.min.js?83.1.5"></script>
-
-<script>
-    (window.ReactDOM) || document.write('<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.1/react-dom.min.js"><\/script>');
-    (window.ReactDOM) || document.write('<script type="text/javascript" src="https://static.powtoon.co/vendor/react-dom/15.3.1/react-dom.min.js?83.1.5"><\/script>');
-</script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.1/react-dom.min.js"></script><script type="text/javascript" src="https://static.powtoon.co/vendor/react-dom/15.3.1/react-dom.min.js?83.1.5"></script>
 
 
 
-
+  <script data-cfasync="false" type="text/javascript" data-bablic="5b4dfd5fdd160b13f31645df" data-bablic-m="[0,'en','en',1,['es'],0,0,0,0,0,0,0,0,[],'w3.powtoon.com/home',[],['_v',2]]" src="//cdn2.bablic.com/js/bablic.3.9.js"></script>
 
  
 
@@ -1918,6 +2061,10 @@ if(typeof $.cookie == "function"){
 
   
 
+
+    
+      <script src="https://static.powtoon.co/js/cookies-banner.js"></script>
+    
 
     <script type="text/javascript">
 
@@ -2016,7 +2163,7 @@ if(typeof $.cookie == "function"){
 
     })
     </script>
-    <script type="text/javascript" src="https://static.powtoon.co/js/header-js.js?83.1.5"></script>
+    <script type="text/javascript" src="https://static.powtoon.co/js/header-js.js?91.1"></script>
 
 
 
@@ -2031,17 +2178,17 @@ if(typeof $.cookie == "function"){
       </div>
       <div class="modal-body">
         <p>"Like" us on Facebook or follow us on 
-            Twitter to get awesome PowToon hacks, 
+            Twitter to get awesome Powtoon hacks, 
             updates and hang out with everyone in 
             the tribe too!
             </p>
             <div class="follow-buttons">
             <div data-label="social_studio" id="follow_inside" class="fb-button" data-action="follow" data-category="facebook">
-<div class="fb-like" data-layout="button" data-action="like" data-show-faces="false" data-share="false" data-href="https://www.facebook.com/PowToon" style="display:inline-block;"></div>
+<div class="fb-like" data-layout="button" data-action="like" data-show-faces="false" data-share="false" data-href="https://www.facebook.com/Powtoon" style="display:inline-block;"></div>
              us on Facebook
             </div>
             <div class="twitter-button">
-            <a data-label="social_after_signup" class="track" href="https://twitter.com/intent/follow?screen_name=@powtoon" data-action="follow" data-category="twitter"><img src="https://static.powtoon.co/images/website/follow-popup/twitter-follow.png?83.1.5"></a> us on Twitter
+            <a data-label="social_after_signup" class="track" href="https://twitter.com/intent/follow?screen_name=@powtoon" data-action="follow" data-category="twitter"><img src="https://static.powtoon.co/images/website/follow-popup/twitter-follow.png?91.1"></a> us on Twitter
             </div>
             </div>
       </div>
