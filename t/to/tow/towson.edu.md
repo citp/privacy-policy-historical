@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towson.edu privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216152010id_/https%3A//www.towson.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towson.edu privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616152510id_/https%3A//www.towson.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Towson University
 
@@ -39,4 +39,4 @@ This statement has been updated as of May 25, 2018. Additional updates will be a
 
 ### Questions
 
-If you have any comments or questions about this Privacy Statement or would like to contact a TU representative regarding privacy or your personal information, please contact [infosec AT_TOWSON](https://web.archive.org/web/20181216152010id_/https%3A//www.towson.edu/SPECIAL_LINKinfosec%20AT_TOWSON). 
+If you have any comments or questions about this Privacy Statement or would like to contact a TU representative regarding privacy or your personal information, please contact [infosec@towson.edu](mailto:infosec@towson.edu). 
