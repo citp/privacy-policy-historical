@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellenmacarthurfoundation.org privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930034844id_/https%3A//www.ellenmacarthurfoundation.org/policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellenmacarthurfoundation.org privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616112918id_/https%3A//www.ellenmacarthurfoundation.org/policies%23privacy) for the most accurate reproduction.*
 
 # Ellen MacArthur Foundation Policies
 
@@ -26,7 +26,7 @@ The Ellen MacArthur Foundation Editorial Team complies with international laws r
 
 ## Funding Policy
 
-The Ellen MacArthur Foundation is a UK-registered charity with a mission to accelerate the transition to a circular economy. It aims to provide a vision and framework for this transition in three key areas: 
+The Ellen MacArthur Foundation is a UK-registered charity with a mission to accelerate the transition to a circular economy. It aims to provide a vision and framework for this transition in three key areas:
 
   * Education - inspiring a generation to re-think, re-design and build a positive future
   * Business - catalysing circular innovation across the economy
@@ -34,7 +34,7 @@ The Ellen MacArthur Foundation is a UK-registered charity with a mission to acce
 
 
 
-Funding for this activity comes from two key areas: 
+Funding for this activity comes from two key areas:
 
   * the business with whom it works - The majority of the Foundation’s funding currently comes from its Global Partners and Circular Economy 100 members, who both commit to a three-year programme of circular economy activity. The team works to continue to grow the membership of both groups.
   * research or education-oriented trusts and grants - The Foundation seeks trust and grant funding for its work in insight and education. It has received funding from the EU, as well as from private organisations, such as the MAVA Foundation, to deliver specific pieces of research on key topics. This research is key to the Foundation’s ability to validate the benefits of the circular economy and such funding continues to be sought.
@@ -43,9 +43,19 @@ Funding for this activity comes from two key areas:
 
 Details of the Foundation’s funding status can be found in its Annual Report and Accounts available from Companies House and the Charities Commission in the UK. 
 
+[An abridged version of the Report and Financial Statement for the year ended 31 August 2017 is available here.](https://www.ellenmacarthurfoundation.org/assets/downloads/abridged-accounts-31-august-2017.pdf)  
+
+
 ## Privacy Policy
 
-The privacy of our users and subscribers is important to us. This policy explains how the Ellen MacArthur Foundation uses your personal information. If we make changes to our Privacy Policy that affect how we handle your personal information, we will notify you by email. Minor changes will not be notified.
+Ellen MacArthur Foundation ('we', 'us' or 'our') is committed to protecting and respecting the personal data that we hold. This policy explains how we process your personal information which will be either as described in this statement or as made clear before collecting your data. If we make changes to our Privacy Policy that affect how we handle your personal information, this statement will be updated. When collecting and using personal data, our policy is to be transparent about why and how we process personal data.
+
+### Our contact details
+
+Ellen MacArthur Foundation and Ellen MacArthur Foundation Trading Limited  
+Sail Loft, 42 Medina Rd, Cowes, Isle of Wight, PO31 7BX, United Kingdom  
+T +44 (0) 1983 296463  
+Email: privacy@ellenmacarthurfoundation.org
 
 ### What information do we collect?
 
@@ -53,11 +63,16 @@ When you register as a user of our site, to receive our emails or to attend one 
 
 ### What do we use your personal information for?
 
-We use your personal information in order to personalise the services we provide to you, and in order to improve your experience of our website. We will send you our newsletter approximately 2 times a month. We may send extra emails out where something significant happens that we think will be of interest to you, for example where you have subscribed to receive such updates, during one of our events.
+We use your personal information in order to personalise the services we provide to you, and in order to improve your experience of our website. We will send you our newsletter approximately two times a month. We may send extra emails out where something significant happens that we think will be of interest to you, for example where you have subscribed to receive such updates, during one of our events.
 
-We share your information with our service providers in order to provide services to you, and where permitted or required by law.
+### How long do we hold data for?
 
-You may also choose to receive information, event invites and special offers from our carefully selected third party business partners. If so, you can check the separate box on our registration page which allows this to happen.
+We keep data for as long as is considered necessary for the purpose(s) for which it was collected or for business, operational or legal purposes.  
+
+
+### Sharing of personal data
+
+We will only share personal data with others when we are required to do so or when we have your explicit consent. When we share data with others, we put contractual arrangements and security mechanisms in place to protect the data and to comply with our data protection, confidentiality and security standards. Personal data held by us may be shared with contractors who carry out work on our behalf, for example we use third parties to support us in providing our services and to help provide, run and manage our internal IT systems.
 
 ### Cookies
 
@@ -71,11 +86,31 @@ You can delete the cookies that are already on your computer by searching in you
 
 ### Transferring information overseas
 
-The Ellen MacArthur Foundation has offices in the UK, and a sister organisation in America. We also hold events in many other countries, and we use a mailing company which is based in America. Your information will be added to the Ellen MacArthur Foundation’s database, and may be accessed by staff worldwide. Where your personal information is available in other countries, we have taken steps to ensure that the information is appropriately protected.
+We have offices in the UK, sister organisations in America and Brazil and are recognised as an ANBI in the Netherlands. We also hold events in many other countries, and we use a mailing company which is based in America. Your information will be added to our databases, and may be accessed by staff worldwide. Where your personal information is available in other countries, we have taken steps to ensure that the information is appropriately protected.
 
-### Information requests
+### Individual's rights
 
-If you have any questions or comments about our website, or if you would like to update, change or delete any personal information that we hold about you, please get in touch with Lucy Hardy on lucy.hardy@ellenmacarthurfoundation.org.
+Individuals have certain rights over their personal data and as data controllers we are responsible for fulfilling these rights as follows: 
+
+  * Access to their personal data held by us as a data controller. 
+  * Rectification of personal data held by us. 
+  * Erasure of their personal data from our systems. 
+  * Where we process personal data based on consent, individuals may withdraw their consent at any time by contacting us or clicking on the unsubscribe link in an email received from us. 
+  * Other rights to restrict or object to our processing of personal data and the right to data portability. 
+
+
+
+If you wish to exercise any of these rights, please send an email to privacy@ellenmacarthurfoundation.org. 
+
+### Complaints
+
+We hope that you won’t ever need to, but if you do want to complain about our use of personal data, please send an email with the details of your complaint to privacy@ellenmacarthurfoundation.org. We will look into and respond to any complaints we receive. You can also write to us at: 
+
+Ellen MacArthur Foundation, Sail Loft, 42 Medina Rd, Cowes, Isle of Wight PO31 7BX, United Kingdom.
+
+You also have the right to lodge a complaint with the UK data protection regulator, the Information Commissioner's Office ('ICO'). For further information on your rights and how to complain to the ICO, please refer to the ICO website <https://ico.org.uk/concerns>. 
+
+This policy was last updated on 9 January 2019.
 
 ## Website Terms and Conditions
 
@@ -88,8 +123,6 @@ The content on this website is for general information and interest only. Nothin
 The Ellen MacArthur Foundation does not endorse or approve the content of any third party website.
 
 The Ellen MacArthur Foundation reserves the right to change these terms and conditions at any time, and it is your responsibility to check them regularly before using the website. Any changes will be effective as of the date we post them to the site.
-
-If you have any questions or comments, or if you want to update your personal information that you have submitted to us, please contact Lucy Hardy on lucy.hardy@ellenmacarthurfoundation.org.
 
 ### Intellectual Property Notice
 
