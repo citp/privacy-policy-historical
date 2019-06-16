@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitpunjab.net privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221205251id_/http%3A//hitpunjab.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitpunjab.net privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616023229id_/http%3A//hitpunjab.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hit Punjab | Hit Punjab
 
@@ -20,8 +20,8 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Hitpunjab.net may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site We_ may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  We may use the email address to respond to their enquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  * _– To improve our Site We_ may use feedback you provide to improve our products and services.
+  * _– To send periodic emails_  We may use the email address to respond to their enquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
