@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetindependence.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923102027id_/https%3A//www.earlytorise.com/earlytorisetest/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetindependence.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616144322id_/https%3A//www.earlytorise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Early To Rise
 
