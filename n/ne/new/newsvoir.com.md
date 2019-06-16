@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsvoir.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126125300id_/http%3A//www.newsvoir.com/-23.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsvoir.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617005029id_/https%3A//www.newsvoir.com/-23.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ We will use your information to respond to you, regarding the reason you contact
 
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-#####  **Registration and Security**
+**Registration and Security**
 
 We may collect and store the following personal information: email addresses, physical contact information, telephone numbers, computer sign-on data, statistics on page views, traffic, to and from the site, and ad data among other information, and this data may also include IP addresses and standard web log information.
 
@@ -41,7 +41,7 @@ We use "cookies" on this site. A cookie is a piece of data stored on a site visi
 
 This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-####  **Our Policy towards children**
+**Our Policy towards children**
 
 This site is not directed to children. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us via our “Contact us” page.
 
