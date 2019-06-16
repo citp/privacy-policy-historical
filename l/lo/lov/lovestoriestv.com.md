@@ -1,147 +1,118 @@
-> *The following text is extracted and transformed from the lovestoriestv.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525090723id_/http%3A//www.lovestories.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovestoriestv.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616140229id_/https%3A//lovestoriestv.com/privacy-policy) for the most accurate reproduction.*
 
-# LoveStories.com
+# Privacy Policy - Love Stories TV
 
-Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of RenDav, Inc.'s network of sites (including, but not limited to LoveStories.com, LoveDiaries.com and LoveGrams.com), we have created this privacy statement to demonstrate our firm commitment to our users' privacy.
+**Love Stories TV, Inc. Privacy Policy**  
+This Privacy Policy describes how Love Stories TV, Inc. (“we”, “our” or “us”) collects, uses and shares your information when you visit our website at http://www.lovestoriestv.com (the “Site”) and use the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
-You can browse our sites without entering any personal information and therefore remain anonymous during your visit. Any personal and financial information you provide us via our web sites or as a result of personal communication with RenDav, Inc. staff and our consultants in connection with our web services will remain strictly confidential and will never be disclosed to third parties unless a legitimate court order is issued.
+LoveStoriesTV is a U.S. company. Regardless of the country in which you live, you authorize us to transfer, store, and use your information in the United States and in accordance with this Privacy Policy. U.S. privacy and data protection laws and rules may vary from those in the country where you live.
 
-This privacy policy will be updated as new products and services are added, and as revisions are needed.
+**What Does This Privacy Policy Cover?**  
+This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners.
 
-* * *
+This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
 
-**Information RenDav, Inc. gathers and tracks**
+**What Information Do We Collect?**  
+The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users.
 
-RenDav, Inc. collects information in two main ways from our users: data you voluntarily submit when signing up for our special services and data we track through our server logs.
+**Account Information:  **  
+When you create an Account, you will provide information that could be Personal Information, such as your name, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you consent to allowing others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Services, but only rarely when we feel such information is important. You may unsubscribe from these messages through your Account settings, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.
 
-**Membership Accounts**
+**User Content:**  
+Some features of the Services allow you to provide content to the Services, such as written comments. All content submitted by you to the Services may be retained by us indefinitely, even after you terminate your account. We may continue to disclose such content to third parties in a manner that does not reveal Personal Information, as described in this Privacy Policy.
 
-All data that is submitted on our membership order form for payment processing must be valid and correct. We require a valid email address. It is used internally to contact our members when need be. For those who violate our Terms of Service, we use their email address to ban them from future privileges, with an option to report their email address to the email host if obscene or threatening language is used. There are places throughout our site where your email address may be visible to the public. Anyone may fill out our comment form, and a copy of their comments is emailed to the Member. We reserve the right to receive and review copies of any information transmitted through our sites, including our Buddy List instant messages. This is so we can watch for mass spamming and obscene language or violations of our Terms of Service. You as Member have the option of replying to the comments you receive. It's up to you as to how much information you want to share on your Profile: your name or nickname, location (general city, state, country - we do not want your street address posted), age, gender, marital status, and your personal or favorite web address.
+**IP Address Information and Other Information Collected Automatically:**  
+We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on).
 
-If we get complaints or find out that you have violated our terms of service in such a way that we feel it warrants contacting the legal authorities, we do reserve the right to report the IP address of the computer you are using, your email address, and any information you have submitted to us, to the appropriate authorities. If members or visitors complain about your actions while on our site and send us copies of emails that verify this, we do reserve the right to report the findings to the appropriate authorities. We also reserve the right to suspend or terminate your membership at any time.
+Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
 
-**Free Email Accounts**
+**Email Communications:**  
+We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
 
-We may make occasional mailings to those who have signed up for a free web-based email account, serviced through Everyone.net. See Everyone.net's privacy policy at their sites for information on how they handle these addresses. RenDav, Inc. does not and will not share these free email addresses with other organizations.
+**Information Collected Using Cookies:**  
+Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the Internet.
 
-**Contests**
+Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services and may associate that information with your Account if you have one.
 
-We only ask for your email address. We contact the winners and then ask for their contact name and shipping information in order to ship the prizes. If our sponsors ship the prizes, we will submit the winners' name and address to our sponsors for shipment. During the contest, we store our winners' emails offline. We delete all of the contest entries immediately after the prizes are drawn, and we never sell, give away or use our entrants' email addresses in any way. Unless our contest specifically asks for permission, we do not use the email addresses to send out our promotional emails, and we do not give the email addresses to our contest sponsors. We are not responsible for removing information from third party lists that users have previously authorized us to share with.
+Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage of the most attractive features of the Services.
 
-**Surveys**
+This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer.
 
-Our surveys never ask for real names or postal addresses. You may remain totally anonmyous when completing our surveys. The demographic information is compiled into a general report for our advertisers. This report may be posted on our site for our advertisers to see. No personal data is given out to third parties for individual respondents. The purpose of our surveys is to determine what our visitors want, and to determine the demographics of the traffic to our sites.
+**Information Related to Advertising and the Use of Web Beacons:  **  
+To support and enhance the Services, we may serve advertisements, and also allow third parties’ advertisements, through the Services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called “ad networks.” Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms.
 
-**Email Discussion & Newsletter Lists**
+Advertisements served through the Services may be targeted to users who fit a certain general profile category and may be based on anonymized information inferred from information provided to us by a user, including Personal Information (e.g., gender or age), may be based on the Services usage patterns of particular users, or may be based on your activity on Third Party Services. We do not provide Personal Information to any ad networks for use outside of the Services.
 
-All of our discussion lists and email newsletters are opt-in where you have to specifically subscribe to receive it. We NEVER sell our email lists. We have never bought or used email lists in order to spam. Users may unsubscribe at any time. Each copy of our email lists contain unsubscribe instructions (see the choice/opt-out section below).
+To increase the effectiveness of ad delivery, we may deliver a file (known as a “web beacon”) from an ad network to you through the Services. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.
 
-**Postcards**
+**Aggregate Information:**  
+We collect statistical information about how both unregistered and registered users, collectively, use the Services (“Aggregate Information”). Some of this information is derived from Personal Information. However, this statistical information is not Personal Information and cannot be tied back to you, your Account or your web browser.
 
-Our postcard services require visitors to enter names or nicknames and email addresses of sender and recipient of a postcard and may contain private information inside. RenDav, Inc. does not share this information with third parties (including advertisers) under any circumstances unless a legal court order is issued. Cards expire in 7 to 14 days and after that can not be retrieved any more, either by RenDav, Inc. or by the sender or the recipient. No copies of the postcard data is created and stored online or offline. While the postcards are awaiting pick-up by the recipient who has the code number, the postcard messages can not be read by third parties and are not read by humans or robots. RenDav, Inc. is not responsible for the grammar, spelling, views, opinions and tastes expressed on any postcard sent from our sites nor for the frequency at which the postcard may be sent. We do not collect or use email addresses of the senders or the recipients for any purposes.
+**How, and With Whom, Is My Information Shared?**  
+The Services are designed to help you share information with others. As a result, some of the information generated through the Services is shared publicly or with third parties.
 
-**Web Server Logs**
+**Public Information About Your Activity on the Services:**  
+Some of your activity on and through the Services is public by default. This may include, but is not limited to, content (including videos and comments) you have posted publicly on the Site or otherwise through the Services.
 
-Our servers log your IP address or the name of the domain from which you access the Internet (for example, aol.com for AOL users); the date and time you access our sites; the Internet address of the web site from which you linked directly to our sites; your operating system and browser type. This is for systems administration purposes and statistics only. We do not link IP addresses to anything personally identifiable. IP addresses are used to gather broad demographic information. This means that a user's session will be tracked, but the user will be anonymous.
+Registered users may have some of this information associated with their Accounts. Unregistered users will not have this association, but information concerning their use of the Services (such as what pages they have visited) may be tracked anonymously through the use of cookies and stored by us.
 
-The demographic and profile data is used for marketing purposes and for improving the services we offer. For example, the data allows us to determine the most popular pages in our site, how long users have visited, what browsers are being used so we can design our site better. Generally this information is collected through "traffic data" and may entail the use of "Cookies" "IP addresses" or other numeric codes used to identify a computer, but not personal data about our users. This information is shared with advertisers on an aggregate basis.
+Please also remember that if you choose to provide Personal Information using certain public features of the Services, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. **We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Services.**
 
-**Ad Companies**
+**IP Address Information:**  
+While we collect and store IP address information, that information is not made public. We do at times, however, share this information with our partners, service providers and other persons with whom we conduct business, and as otherwise specified in this Privacy Policy.
 
-Our ad brokers deliver Internet advertisements for our Web sites. In the process of delivering ads they recognize the URL and category of the active Web Page, information about your computer, such as the browser, operating system and IP address, and the home server from which you access the Internet. In some cases Web sites provide ad brokers with information such as keywords, subject areas, zip codes or area codes. Our ad brokers use this information to select advertisements that will work on your computer and are more relevant to your interests.
+**Information You Elect to Share:**  
+You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services’ privacy policies. This Privacy Policy only governs information collected on the Services.
 
-Other companies which place advertising on our site also have the ability to assign their cookies to you in a process that RenDav, Inc. does not control. However, cookies cannot be used to identify individuals, only machines, so these advertisers will not know who you are - and RenDav, Inc. will not tell them without your consent.
+**Aggregate Information:**  
+We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non-Personal Information about you that they have independently developed or acquired.
 
-* * *
+**Email Communications with Us:**  
+As part of the Services, you may occasionally receive email and other communications from us, such as communications relating to your Account. Communications relating to your Account will only be sent for purposes important to the Services, such as password recovery.
 
-**Links to other Sites Including Affiliates**
+**User Profile Information:**  
+User profile information including your username and other information you enter may be displayed to other users to facilitate user interaction within the Services. We will not directly reveal user email addresses to other users.
 
-Our sites contain links to other sites including ones RenDav, Inc. does not own or have any control over. RenDav, Inc. isn't responsible for the privacy practices or the content of such Web sites. RenDav, Inc. also have affiliations with companies such as personal ads, flowers, gifts, etc. These companies may ask our users for specific information, and RenDav, Inc. is not responsible for the privacy practices nor the content of these affiliated companies and sites.
+**Information Shared with Our Agents:  **  
+We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share Personal Information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
 
-* * *
+**Information Disclosed Pursuant to Business Transfers:**  
+In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy.
 
-**Sharing of the Information**
+**Information Disclosed for Our Protection and the Protection of Others:  **  
+We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
 
-RenDav, Inc. uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. We do not share information about individual users with any third party, except in the case of some contests and sweepstakes--and then, only with a user's express consent. RenDav, Inc. does not control the practices of our advertisers. If you have questions about how one of our advertisers uses information about you when you click their ad and go to their content, please contact them directly.
+**Information We Share With Your Consent:**  
+Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
 
-RenDav, Inc. may disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Ren Dav, Inc. or the site; (b) protect and defend the rights or property of RenDav, Inc., the site or the users of RenDav, Inc., and (c) act under exigent circumstances to protect the personal safety of users of RenDav, Inc., the site or the public.
+**Is Information About Me Secure?  **  
+Your Account information will be protected by a password for your privacy and security. You need to prevent unauthorized access to your Account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account.
 
-* * *
+We seek to protect Account information to ensure that it is kept private; however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
-**Cookies**
+We otherwise store all of our information, including your IP address information, using industry-standard techniques. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personal Information or otherwise.
 
-A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites.
+In the event your Account and/or Personal Information is compromised, we will notify you promptly.
 
-Cookies are used when you log into your Membership account to make it possible for you to post, edit, or delete information from your account. You are shown as logged in until you click on the Log-off link. During the time you are logged in, other members can instant message you using the Buddy List. Your real identity is protected if you use a nickname.
+**What Information of Mine Can I Access?**  
+If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
 
-Our message boards use cookies to track your session to show you the new posts. We do not have access to any information about you from cookies you might receive while visiting our site.
+California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: tk. [need email address here]
 
-Our outside ad companies use a feature of your browser to set a "cookie" on your computer. This allows us to measure and report aggregate information to advertisers such as the number of people who see their ad (reach) and the number of times people see their ad (frequency). It also allows us to deliver ads that are more relevant to you and avoid delivering the same ads too many times.
+**How Can I Delete My Account?  **  
+Should you ever decide to delete your Account, you may do so by emailing support@lovestoriestv.com. If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
 
-Cookies, by themselves, cannot be used to find out the identity of any user. Our ad brokers will only store information provided voluntarily, but this information is not personally identifiable. If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept.
+**What Choices Do I Have Regarding My Information?**  
+You can use many of the features of the Services without registering, thereby limiting the type of information that we collect.
 
-* * *
+You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features.
 
-**Public Forums**
+You can delete your Account. Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible.
 
-We can make chat rooms, message boards, and discussion lists available to our users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+**What Happens When There Are Changes to this Privacy Policy?**  
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information that, in our sole discretion, is material, we will notify you by posting an announcement on the Services or sending you an email. By continuing to access or use the Services after those changes become effective, you agree to be bound by any changes to the Privacy Policy.
 
-Whenever possible, we use chat and message board software and services that do not require that you sign up for a membership. This way, you are not required to give any personal information to enter chat or post in the message boards.
+**What If I Have Questions or Concerns?**  
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to legal@lovestoriestv.com. We will make every effort to resolve your concerns.
 
-* * *
-
-**Security**
-
-Your Membership Accounts are password-protected so that only you and our administration can change your Profile information. We specifically ask that you do not use passwords that you use in other sites and applications.
-
-We request that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to click on the Log-off link and to close your browser when you have finished your work in your Membership Account. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. You are responsible for actions taken in your account.
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, RenDav, Inc. cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
-
-* * *
-
-**Children's Guidelines**
-
-**Parents are responsible for their children's Internet activities when visiting our network of sites,** and for deciding what parts their children can and cannot visit. Our sites and email lists are identified for adults over the legal age, even though most of the content on our sites is rated G or PG. Teens may post poetry, stories, journals, and essays only with their parent's permission. When children under age 18 attempt to sign up for our Member Accounts, we specifically request that they obtain their parent's permission to post in our sites. We do not collect personally identifiable information from children. No one under the age of 13 is allowed on our sites even if their parents allow it.
-
-Children should always ask a parent for permission before sending personal information to anyone online. RenDav, Inc. does not share personal information about users under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age. In addition, RenDav, Inc. will not send any direct email offers to users who indicate they are under the age of 13.
-
-* * *
-
-**Choice/Opt-Out**
-
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Please be specific about what area of the site or what email list you are referring to when you write to us.
-
-  1. You can send email to [webmaster@lovestories.com](mailto:webmaster@lovestories.com)
-  2. You can visit the following URL: <http://lovestories.com/ezines.php>
-
-
-
-* * *
-
-**Correct/Update**
-
-This site gives users the following options for changing and modifying information previously provided.
-
-  1. email [webmaster@lovestories.com](mailto:webmaster@lovestories.com)
-  2. visit [http://www.lovestories.com](http://www.lovestories.com/)
-
-
-
-**What else should I know about my privacy online?**
-
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
-
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
-
-_Parents are responsible for their children's Internet activities when visiting our network of sites._
-
-* * *
-
-**Contacting RenDav, Inc.**
-
-Questions regarding this privacy statement, the practices of this site, or your dealings with this Web site, should be directed to [webmaster@lovestories.com](mailto:webmaster@lovestories.com)
-
-This Privacy Policy is subject to change without notice at any time. It is recommended that you check back to review this Privacy Policy no less than once every thirty days. 
+Effective Date: May 10th, 2018
