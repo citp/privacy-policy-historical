@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classlink.com privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708025726id_/https%3A//www.classlink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classlink.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616045514id_/https%3A//www.classlink.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ClassLink | Single Sign-On for Education
 
@@ -8,7 +8,7 @@ ClassLink is committed to ensuring that your information is secure and your priv
 
 ### Our guiding principles on personal data
 
-  * Data Ownership: ClassLink acknowledges that all personally identifiable information about students, teachers, administrators, and parents is the property of the educational agencies ClassLink serves.
+  * Data Ownership: ClassLink acknowledges that all personally identifiable information (PII) about students, teachers, administrators, and parents is the property of the educational agencies ClassLink serves.
 
 
   * Purpose: ClassLink is a trusted steward of personal data. Data received from educational agencies is to be used solely for purposes of providing educational services. Such data will not be sold or used for marketing purposes.
@@ -20,7 +20,7 @@ ClassLink is committed to ensuring that your information is secure and your priv
   * Protection: ClassLink keeps all personal data confidential and secure. ClassLink team members are bound by contractual non-disclosure agreements. ClassLink’s data security protections include: internal data management policies and procedures, limitations on access to personal data, data encryption (for both data in transit and at rest), data systems monitoring, incident response plans, and safeguards to ensure personal data is not accessed by unauthorized persons when transmitted over communication networks.
 
 
-  * Disposal of Data: ClassLink permanently deletes personal data after the termination of a contract, when no longer needed, or when advised to do so by the  educational agency.
+  * Disposal of Data: ClassLink permanently deletes personal data after the termination of a contract, when no longer needed, or when advised to do so by the educational agency.
 
 
   * Correction: ClassLink enables users, or their authorized parents, to review personal information maintained in ClassLink and correct erroneous information.
@@ -80,12 +80,12 @@ Although ClassLink does not itself prevent access to inappropriate websites, tha
 
 ### European Union – General Data Protection Regulation ([GDPR](http://www.privacy-regulation.eu/en/index.htm))
 
-GDPR is the newest body of regulation regarding the handling of personal data for citizens of the European Union (EU). The primary objective of the GDPR is to give citizens back control of their personal data. Effective May 25, 2018, GDPR replaces previous and other data protection regulations throughout the EU. ClassLink is currently compliant with the EU General Data Protection Regulation.
+GDPR is the newest body of regulation regarding the handling of personal data for citizens of the European Union (EU). The primary objective of the GDPR is to give citizens control of their personal data.  Select ClassLink products are compliant with the EU General Data Protection Regulation.
 
 GDPR includes 11 chapters and nearly 100 articles. Below are some of the most relevant articles.
 
   * Article 5 “Principles relating to processing of personal data”: ClassLink is a trusted steward of personal data. Data received from educational agencies is to be used solely for purposes of providing educational services. Such data will not be sold or used for marketing purposes.
-  * Article 17 “Right to be forgotten”:  Schools can choose to delete users from ClassLink at any time. Individual users can choose to delete any data they’ve added to ClassLink at any time. ClassLink promptly deletes data associated with schools no longer working with ClassLink.
+  * Article 17 “Right to be forgotten”: Schools can choose to delete users from ClassLink at any time. Individual users can choose to delete any data they’ve added to ClassLink at any time. ClassLink promptly deletes data associated with schools no longer working with ClassLink.
   * Article 32 “Security of processing”: ClassLink keeps all personal data confidential and secure. ClassLink team members are bound by contractual non-disclosure agreements. ClassLink’s data security protections include: internal data management policies and procedures, limitations on access to personal data, data encryption (for both data in transit and at rest), data systems monitoring, incident response plans, and safeguards to ensure personal data is not accessed by unauthorized persons when transmitted over communication networks.
   * Article 33 “Notification of a personal data breach to the supervisory authority”: GDPR requires notice to the supervisory authority within 72 hours of awareness of a personal data breach. Discovery of a security breach that results in an unauthorized release of personal data: ClassLink shall promptly notify affected educational agencies of such breach, shall conduct an investigation, and shall restore the integrity of its data systems as soon as possible. ClassLink will fully cooperate and assist with required notices to those individuals affected by such breach.
   * Article 35: “Data protection impact assessment”: ClassLink conducts various security assessments of our systems. Certain security tests are conducted annually, others more frequently and some other tests are running constantly.
@@ -94,7 +94,7 @@ GDPR includes 11 chapters and nearly 100 articles. Below are some of the most r
 
 
 
-### California – California Sudent Privacy Certification (CSPC) issued by iKeepSafe
+### California – California Student Privacy Certification (CSPC) issued by iKeepSafe
 
 _The[CSPC](https://ikeepsafe.org/certification/cspc/) builds on iKeepSafe’s FERPA Assessment and COPPA Safe Harbor, which help educators and parents find products that meet the expectations of federal privacy laws. This certification is recommended for operators and providers of websites and online services that are, whole or in part, intended for use in and by schools. Earning the [iKeepSafe CSPC](https://ikeepsafe.org/certification/cspc/) asserts that your technology company is a leader in student privacy._
 
