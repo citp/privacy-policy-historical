@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the banyanbotanicals.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706181037id_/http%3A//www.banyanbotanicals.com/info/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banyanbotanicals.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616110728id_/https%3A//www.banyanbotanicals.com/info/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Banyan Botanicals
 
-At Banyan Botanicals we understand that privacy matters to our customers and we take a number of steps to ensure your private information is protected. The following policy is intended to inform you about what type of information is being gathered and how it is used. If you have any questions, please [contact us](https://web.archive.org/info/customer-service/contact-us/).
+At Banyan Botanicals we understand that privacy matters to our customers and we take a number of steps to ensure your private information is protected. The following policy is intended to inform you about what type of information is being gathered and how it is used. If you have any questions, please [contact us](https://www.banyanbotanicals.com/info/customer-service/contact-us/).
 
 ### What information do we collect?
 
@@ -28,7 +28,7 @@ Note: Most emails come with a link that allows you to quickly unsubscribe at any
 
 ### Online Postings
 
-Certain personally identifiable information collected from users may be disclosed as a matter of course as a result of those users’ use of the website. We may provide areas on our website where you can post reviews and other information relating to your activities on the website. Such postings are governed by our Terms of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. USERS ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM THEIR VOLUNTARY DISCLOSURE OF PERSONALLY IDENTIFIABLE INFORMATION.
+Certain personally identifiable information collected from users may be disclosed as a matter of course as a result of those users’ use of the website. We may provide areas on our website where you can post reviews and other information relating to your activities on the website. Such postings are governed by our Terms of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. USERS ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM THEIR VOLUNTARY DISCLOSURE OF PERSONALLY IDENTIFIABLE INFORMATION.
 
 ### How do we protect your information?
 
@@ -54,15 +54,15 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ### Your Consent
 
-By using our site, you consent to our online privacy policy.
+By using our site, you consent to our online privacy policy.
 
 ### Children
 
-The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. We do not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides personal information through the Website represents to us that he or she is 13 years of age or older.
+The Children's Online Privacy Protection Act (“COPPA”) protects the online privacy of children under 13 years of age. We do not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides personal information through the Website represents to us that he or she is 13 years of age or older.
 
 ### California Privacy Rights
 
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to our privacy officer as listed below.
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to our privacy officer as listed below.
 
 ### Do Not Track Policy
 
