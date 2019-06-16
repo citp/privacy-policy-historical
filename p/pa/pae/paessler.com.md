@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223073150id_/https%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616190524id_/https%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Paessler AG Privacy Policy
 
@@ -9,10 +9,10 @@
 Responsible for the data processing as described here is Paessler AG.
 
 Postal address: Paessler AG, Thurn-und-Taxis-Str. 14, 90411 Nuremberg   
-Email: [[email protected]](https://www.paessler.com/cdn-cgi/l/email-protection#51383f373e1121303422223d34237f323e3c)   
+Email: [[email protected]](https://www.paessler.com/cdn-cgi/l/email-protection#e58c8b838aa59584809696898097cb868a88)   
 Tel: +49 911 93775-0
 
-Company data protection officer is Sebastian Bonhag. Contact hin via email to [[email protected]](https://www.paessler.com/cdn-cgi/l/email-protection#a2d2d0cbd4c3c1dbe2d2c3c7d1d1cec7d08cc1cdcf) or letter to the address above.
+Company data protection officer is Sebastian Bonhag. Contact him via email to [[email protected]](https://www.paessler.com/cdn-cgi/l/email-protection#b0c0c2d9c6d1d3c9f0c0d1d5c3c3dcd5c29ed3dfdd) or letter to the address above.
 
 2\. Right to information and of complaint
 
@@ -44,14 +44,15 @@ Optimizely: This website uses Optimizely, a web analytics service of Optimizely 
 
 HubSpot: This website uses HubSpot, a marketing automation platform of HubSpot, Inc.. Hubspot uses cookies that track a user’s interaction with Paessler websites. Hubspot also tracks browser-provided information such as inferred region, IP address, and return visits. Users remain anonymous unless the user has provided personal information through the submission of a form. HubSpot might be connected to other services and receive data from such services. See also section C. 3. To set an opt-out cookie, click here: [set opt-out cookie](https://www.paessler.com/company/privacypolicy#hubspot)
 
-Amazon, Facebook, Instagram, LinkedIn, Twitter, Outbrain, Reach Group: On our website we use the remarketing pixel from multiple social media platforms. These pixels mark you as a visitor on our website in an anonymized form, without identifying you as a person and allows us the opportunity to retarget you with advertising while you are using these social media services. To be removed from the various remarketing user groups, please use the following opt-out links:
+Amazon, Facebook, Instagram, LinkedIn, Twitter, Amazon, Outbrain, Reach Group, Reddit: On our website we use the remarketing pixel from multiple social media platforms. These pixels mark you as a visitor on our website in an anonymized form, without identifying you as a person and allows us the opportunity to retarget you with advertising while you are using these social media services. To be removed from the various remarketing user groups, please use the following opt-out links:
 
-  * Facebook / Instagram: <https://www.facebook.com/ads/preferences/edit/>
+  * Facebook/Instagram: <https://www.facebook.com/ads/preferences/edit/>
   * LinkedIn: <https://www.linkedin.com/help/linkedin/answer/62931?lang=en>
   * Twitter: <https://twitter.com/personalization>
   * Amazon: <https://www.amazon.com/adprefs>
   * Outbrain: <https://my.outbrain.com/recommendations-settings/profile>
   * Reach Group: <https://www.reachgroup.com/en/opt-out/>
+  * Reddit: <https://old.reddit.com/personalization>
 
 
 
@@ -73,9 +74,9 @@ When registering for the newsletter, we collect and store the provided email add
 
 Your consent to the use of your email address for receiving our newsletter can be revoked at any time with effect for the future by clicking the "Unsubscribe" link at the end of the newsletter.
 
-2\. When purchasing and installing trial and freeware (Art. 6 par. 1 lit. b GDPR)
+2\. When purchasing and installing trial and freeware (Art. 6 par. 1 lit. b and f GDPR)
 
-For the use of trial and freeware and their operation, we collect and store your email address. Paessler uses this information to send you your license key, to guide you through the installation, to clarify typical questions that arise during installation, and to clarify the status of the installation. This is necessary for purposes of determining and correcting the support requirement during the installation and operation of the software, and to clarify the further use after the end of the test phase. Contacting can also take place over the telephone. Telephone numbers are only collected from publicly available sources.
+For the use of trial and freeware and their operation, we collect and store your email address. Paessler uses this information to send you your license key, to guide you through the installation, to clarify typical questions that arise during installation, and to clarify the status of the installation. This is necessary for purposes of determining and correcting the support requirement during the installation and operation of the software, and to clarify the further use after the end of the test phase, whereby a contact can also be established by telephone (Art. 6 par. 1 lit. b GDPR). In order to ensure optimal support, contacting can also take place by partners or service providers assigned by us (Art. 6 par. 1 lit. f GDPR). Telephone numbers are only collected from publicly available sources.
 
 3\. When using contact forms (Art. 6 par. 1 lit. b GDPR)
 
@@ -154,12 +155,12 @@ In the case of contacting technical support or customer service by using our con
 
 4\. For chatting with Paessler
 
-We use the chat service of Olark by Habla, Inc. 245 Ramona St. Palo Alto, CA 94301, which allows the users of the PRTG web interface (and other PRTG software clients) to chat directly with employees of [paessler.com](http://paessler.com/) and get questions answered. During the chat connection, we display the location, IP address, browser and website visited. We do not have access to this data after the connection has been terminated. For details on Olark's handling of your personal data and your rights in this regard, please refer to Olark's privacy policy here: <https://www.olark.com/pages/tos>.
+We use the chat service of Olark by Habla, Inc. 245 Ramona St. Palo Alto, CA 94301, which allows the users of the PRTG web interface (and other PRTG software clients) to chat directly with employees of [paessler.com](https://www.paessler.com/) and get questions answered. During the chat connection, we display the location, IP address, browser and website visited. We do not have access to this data after the connection has been terminated. For details on Olark's handling of your personal data and your rights in this regard, please refer to Olark's privacy policy here: <https://www.olark.com/pages/tos>.
 
 Olark places cookies on your computer. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the live chat functionality of your web interface.
 
 5\. For advertising purposes (Art. 6 par. 1 lit. f GDPR)
 
-Paessler uses your data and your email address to send you offers for other services and products. You can object to this at any time. Please send a complaint to [[email protected]](https://www.paessler.com/cdn-cgi/l/email-protection#aeddcfc2cbddeedecfcbddddc2cbdc80cdc1c3).
+Paessler uses your data and your email address to provide you with offers for other services and products. In order to ensure optimal customer support, the contact can also be established by partners or service providers assigned by us. You can object to the establishment of contact at any time. Please send a complaint to [[email protected]](https://www.paessler.com/cdn-cgi/l/email-protection#3c4f5d50594f7c4c5d594f4f50594e125f5351).
 
 We use TrustPilot as our customer review service. We add personalized URLs to some emails and webpages. Only when you click on such a link, your name and email address is transferred to TrustPilot. TrustPilot will only store your data, if you choose to create an account. (<http://legal.trustpilot.com/end-user-privacy-terms>)
