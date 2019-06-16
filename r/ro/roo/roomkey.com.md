@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the roomkey.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625161336id_/https%3A//www.roomkey.com/privacystatement%3FeventParentId%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomkey.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616214250id_/https%3A//www.roomkey.com/privacystatement) for the most accurate reproduction.*
 
-# Room Key — Privacy Statement
+# Privacy Statement - Roomkey
 
-Our Privacy Policy is an extension of our commitment to provide quality services with integrity to our customers. The Policy is designed to assist you in understanding how we collect, use and safeguard the information you may provide to us and to assist you in making informed decisions when using the Room Key website (the “Site”). By visiting the Site, you are expressly consent to the collection, use, sharing, storage, processing and disclosure of information as described in this Privacy Policy.
+Our Privacy Policy is an extension of our commitment to provide quality services with integrity to our customers. The Policy is designed to assist you in understanding how we collect, use and safeguard the information you may provide to us and to assist you in making informed decisions when using the Roomkey website (the “Site”). By visiting the Site, you are expressly consent to the collection, use, sharing, storage, processing and disclosure of information as described in this Privacy Policy.
 
 ### Types of Information We Collect
 
@@ -12,7 +12,7 @@ The majority of browsers accept cookies, but the “Help” menu on your browser
 
 In addition to the information we collect using cookies, we also collect information, including personally identifiable information, that you actively provide directly to us. For example, through an account created on this Site or communications (such as emails) you may send to us. We may maintain your email and the information therein, including your e-mail address and any personally identifiable information contained in the e-mail. Information collected in this manner is subject to the terms of this Privacy Policy.
 
-In addition to the information you provide to us, and what is provided through cookies, we may receive, collect or record various types of hardware and software information. Such information can include technical or functional information such as interface type, software types and applications, communications data and communications details.
+In addition to the information you provide to us, and what is provided through cookies, we may receive, collect or record various types of hardware and software information. Such information can include technical or functional information such as interface type, software types and applications, communications data and communications details. Periodically, we may work with contracted third parties to help us evaluate the effectiveness of our site. This activity may (or may not) include the capture of user screen videos, click data, page scrolling data, and character entry. In these cases, no personally identifiable information is captured or retained, and the only use of this information is to help us make the site function more effectively. Specifically, we do not use this information to identify you in any way or to help sell specific products or deals, and we do not share this information in any way with any commercial or non-commercial partner of Roomkey.
 
 Any information you provide directly or indirectly to us (other than personally identifiable information), whether by direct entry, submission, e-mail, or otherwise (including data, questions, comments, or suggestions), will be treated as non-confidential and non-proprietary and will become the property of Hotel JV Services, LLC (the “Company”). Such information may be used for any lawful purpose, including, but not limited to disclosure, transmission, publication, broadcast, commercial dissemination, and posting. The Company shall be free to use any ideas, concepts, know-how, or techniques contained in any communication you send to us for any purpose whatsoever, including, but not limited to, developing and marketing services using such information.
 
@@ -30,11 +30,11 @@ We may share your information with our members, commercial partners, affiliates,
 
 ### Your Account and Online Password
 
-You may create an account to become an online member of Room Key at your election. Membership will allow you to save Site preferences, and you will be able to provide, update, and change certain of your information online through your account. To become an online member, you will have to provide your e-mail address and create a password.
+You may create an account to become an online member of Roomkey at your election. Membership will allow you to save Site preferences, and you will be able to provide, update, and change certain of your information online through your account. To become an online member, you will have to provide your e-mail address and create a password.
 
 We may use and share information you provide to us through your account in the same manner that we may use your other information, as described in this Privacy Policy; however, we will never disclose, share, or sell your password.
 
-Once your account is created, you will be able to log in to your account using your e-mail address and password. Account access will allow you to access information related to your accounts and in certain cases, special offerings or other information available to those individuals who have set-up an account on Room Key.
+Once your account is created, you will be able to log in to your account using your e-mail address and password. Account access will allow you to access information related to your accounts and in certain cases, special offerings or other information available to those individuals who have set-up an account on Roomkey.
 
 Please note that all information and other content you access using your account (including, without limitation, your password) is, and must be treated as, strictly confidential proprietary information and a trade secret of the Company. Accordingly, such content or information must not be disclosed and must be protected using no less than commercially reasonable means of protection. In order to help us protect the content and information you access using your account, you must not disclose your password to anyone and must make sure that your password is secure.
 
@@ -62,4 +62,4 @@ If you are a resident of the State of California, you have the right to, on an a
 
 This Privacy Policy is incorporated by reference in and is a part of our Terms of Use Agreement. If you have questions about our privacy practices, please contact us at [feedback@roomkey.com](mailto:feedback@roomkey.com).
 
-_Effective as of November 5, 2015._
+ _Effective as of November 5, 2015._
