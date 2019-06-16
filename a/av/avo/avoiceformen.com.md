@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avoiceformen.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212200626id_/https%3A//www.avoiceformen.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avoiceformen.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616082221id_/https%3A//www.avoiceformen.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 Cookies are required to log in to most AVfM services, and cookies are used by third parties including but not limited to Google Analytics, QuantCast, Google AdSense and Google-approved third party ad networks to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Google’s use of the [DoubleClick DART cookie](https://support.google.com/adsense/answer/2839090) enables it to serve ads based on the sites you visit on the Internet. You may opt out of [Google Analytics](https://tools.google.com/dlpage/gaoptout/) or [AdSense](http://www.google.com/ads/preferences) cookies by visiting the respective links. For more information, please visit <http://www.aboutads.info/>.
+Google’s use of the [DoubleClick DART cookie](https://support.google.com/adsense/answer/2839090) enables it to serve ads based on the sites you visit on the Internet. You may opt out of [Google Analytics](https://tools.google.com/dlpage/gaoptout/) or [AdSense](https://www.google.com/ads/preferences) cookies by visiting the respective links. For more information, please visit <http://www.aboutads.info/>.
 
 ### Do we disclose any information to outside parties?
 
@@ -55,4 +55,4 @@ We may change our privacy policy without notice, but the latest privacy policy w
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy please [contact us](http://www.avoiceformen.com/policies/contact-us/).
+If there are any questions regarding this privacy policy please [contact us](https://www.avoiceformen.com/policies/contact-us/).
