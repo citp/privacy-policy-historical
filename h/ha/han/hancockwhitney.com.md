@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hancockwhitney.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927020931id_/https%3A//www.hancockwhitney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockwhitney.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617012812id_/https%3A//www.hancockwhitney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hancock & Whitney Bank
 
-[](https://cta-redirect.hubspot.com/cta/redirect/1765103/3cdc009d-85de-4453-936b-11099b6a8db2)
+[](https://web.archive.org/hs/cta/cta/redirect/1765103/3cdc009d-85de-4453-936b-11099b6a8db2)
 
  Rev 5/2018  
 31400
