@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deeprockgalactic.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230134316id_/https%3A//www.deeprockgalactic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deeprockgalactic.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616111300id_/https%3A//www.deeprockgalactic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Deep Rock Galactic
 
