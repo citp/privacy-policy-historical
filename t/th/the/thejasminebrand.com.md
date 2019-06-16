@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thejasminebrand.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231214353id_/http%3A//thejasminebrand.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejasminebrand.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616124556id_/http%3A//thejasminebrand.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - theJasmineBRAND :: theJasmineBRAND
-
-## [Privacy Policy](http://thejasminebrand.com/privacy-policy/ "Read the rest of this entry » Privacy Policy")
+# Privacy Policy - theJasmineBRAND
 
 This Privacy Policy applies only to theJasmineBrand.com (however accessed and/or used, whether via personal computers, mobile devices, or otherwise), or other interactive features that are accessible or downloadable through theJasmineBrand.com and that post a link to this Privacy Policy (collectively, the “Web Site”). This internet Privacy Policy (the “Privacy Policy”) explains how we collect, use, and safeguard information on this website. Please read this Privacy Policy carefully. This Privacy Policy only covers information collected at the web site, and does not cover any information collected at any other web site or offline by theJasmineBrand.com (unless specifically stated). By visiting theJasmineBrand.com, you acknowledge and accept the practices, terms, and conditions described in this Privacy Policy and agree that any and all disputes, including, without limitation, those disputes arising over privacy, between you and theJasmineBrand.com, employees, contributors, advertisers, sponsors, affiliates, partners, and any of their licensees, successors, and assignees, will be subject to terms and conditions of this Privacy Policy and/or the Terms of Use, as applicable.
 
