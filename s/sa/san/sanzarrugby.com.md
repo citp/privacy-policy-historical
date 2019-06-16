@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanzarrugby.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309060236id_/https%3A//sanzarrugby.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanzarrugby.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616033323id_/https%3A//super.rugby/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sanzar
 
