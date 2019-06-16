@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indcareer.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313224330id_/https%3A//www.indcareer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indcareer.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617003222id_/https%3A//www.indcareer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which IndCareer collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.indcareer.com](http://www.indcareer.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by IndCareer.
+This Privacy Policy governs the manner in which IndCareer collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.indcareer.com](https://www.indcareer.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by IndCareer.
 
 **Personal identification information**
 
@@ -46,7 +46,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 **Changes to this privacy policy**
 
@@ -54,13 +54,13 @@ IndCareer has the discretion to update this privacy policy at any time. When we 
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.indcareer.com/terms-conditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://www.indcareer.com/terms-conditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[IndCareer](http://www.indcareer.com/)
+[IndCareer](https://www.indcareer.com/)
 
-[http://www.indcareer.com](http://www.indcareer.com/)
+[http://www.indcareer.com](https://www.indcareer.com/)
 
 IndCareer.com  
 52, Shilpa Nagar,  
