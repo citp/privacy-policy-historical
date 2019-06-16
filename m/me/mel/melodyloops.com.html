@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the melodyloops.com privacy policy that was archived on 2017-09-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170902162140id_/https%3A//www.melodyloops.com/support/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the melodyloops.com privacy policy that was archived on 2019-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190616151226id_/https%3A//www.melodyloops.com/support/privacy-policy) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,7 +9,7 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="revisit-after" content="1">
-<link href="/css/en/styles180617.css" rel="stylesheet" type="text/css">
+<link href="/css/en/styles310519.css" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
 </head>
 
@@ -18,14 +18,12 @@
 <center>
 
 
-
-
 <div id="header">
 
 
 
 
-<div class="logo"><a href="/"><img src="/i/mlogo.svg" border="0" alt="Melody Loops Logo"></a></div>
+<div class="logo"><a href="/"><img src="https://cdn2.melodyloops.com/i/mlogo.svg" border="0" alt="Melody Loops"></a></div>
 
 
 
@@ -35,7 +33,7 @@
 <div class="search">
 
 <form action="/search/" method="post" name="form_search" style="display:inline-block; margin:0; padding:0; ">
-<input type="text" name="query" id="query" onkeyup="showdiv('search_suggest');searchSuggest();" autocomplete="off" placeholder="Search by melody or author or multi tags" onfocus="javascript:showdiv('search_suggest');" onclick="javascript:showdiv('search_suggest');" onblur="javascript:aa=window.setTimeout(function(){ hidediv('search_suggest'); },500);" class="inpt"></form><div class="button_search" onclick="document.getElementById('searchform').submit();"><i class="fa fa-search" style="margin-top:0.5em;color:white;padding-left:0em; padding-right:0em" onclick="document.forms.form_search.submit()"></i></div>
+<input type="search" name="query" id="query" onkeyup="showdiv('search_suggest');searchSuggest();" autocomplete="off" placeholder="Search by melody or author or multi tags" onfocus="javascript:showdiv('search_suggest');" onclick="javascript:showdiv('search_suggest');" class="inpt"></form><div class="button_search" onclick="document.getElementById('searchform').submit();"><i class="fa fa-search" style="margin-top:0.45em;color:white;padding-left:0em; padding-right:0em" onclick="document.forms.form_search.submit()"></i></div>
 <div id="search_suggest">
 
 </div>
@@ -47,21 +45,15 @@
 
 <div class="other">
 
-<div class="sc"><a href="/cart/"><i class="fa fa-shopping-cart"></i></a></div>
-<div class="cart">
-<div class="cart_total" data-cart-counter="" id="cart_total">0</div>
-<div id="mlcart" class="mlcart"></div>
-  <div id="mlserver" class="mlserver"></div>
-</div>
-
+<div class="sc"><a href="/cart/" title="Shopping Cart"><i class="fa fa-shopping-cart" id="cart_icon"></i><div class="cart_total" data-cart-counter="" id="cart_total"></div></a></div>
 
 	
 	
 
 
-<div class="favorites"><a href="/my-music/favorites/"><i class="fa fa-star"></i></a></div><div class="favorites_total" id="favors" data-favs-counter=""></div>
+<div class="favorites"><a href="/my-music/favorites/" title="Favorites"><i class="fa fa-star" id="favorites_icon"></i><div class="favorites_total" id="favors" data-favs-counter="">0</div></a></div>
 
-<div class="login"><a href="/my-music/login/"><i class="fa fa-sign-in" aria-hidden="true"></i>Login</a></div>
+<div class="login"><a href="/my-music/login/"><i class="fa fa-sign-in" aria-hidden="true"></i>Sign In</a></div>
 
 <div class="mob_search"><i class="fa fa-search" aria-hidden="true"></i></div>
 
@@ -72,30 +64,34 @@
 </div>
 <div class="mob_menu">
 <ul>
-<li><a href="/support/discover-download-use-it/">How it Works</a></li>
-<li><a href="/music/free/">Free Music</a></li>
-<li><a href="/music/new/">New Releases</a></li>
-<li><a href="/music/playlists/">Playlists</a></li>
-<li><a href="/order/prepaid-downloads/">Buy Downloads</a></li>
-<li>&nbsp;</li>
-<li><a href="/my-music/login/">Sign In</a></li>
-<li><a href="/my-music/sign-up/">Sign Up</a></li>
 
-</ul>
-<ul>
-<li><a href="/music/">Music</a></li>
-<li><a href="/music-genres/">Genres</a></li>
-<li><a href="/music-styles/">Styles</a></li>
-<li><a href="/music-for/">For Usage</a></li>
-<li><a href="/moods/">Moods</a></li>
-<li><a href="/instruments/">Instruments</a></li>
-<li><a href="/support/faq/">Support</a></li>
+<li><a href="/my-music/login/">Sign In</a> | <a href="/my-music/sign-up/">Sign Up</a></li>
+
+<li style="padding-top:0.3em"><a href="/music/" class="lmusic">Music</a></li>
+<li><a href="/music-genres/" class="lgenres">Genres</a></li>
+<li><a href="/music-styles/" class="lstyles">Styles</a></li>
+<li><a href="/music-for/" class="lfor">For</a></li>
+<li><a href="/moods/" class="lmoods">Moods</a></li>
+<li><a href="/instruments/" class="linstr">Instruments</a></li>
+
+<li><a href="/music/free/" class="lmusic">Free Music</a></li>
+
+<li><a href="/music/new/" class="lmusic">New Releases</a></li>
+<li><a href="/music/featured/" class="lmusic">Featured</a></li>
+<li><a href="/playlists/" class="lmusic">Playlists</a></li>
+<li><a href="/order/prepaid-downloads/">Buy Music Packs</a></li>
+
+<li><a href="/support/discover-download-use-it/" class="lsupport">How it Works</a></li>
+<li><a href="/support/faq/" class="lsupport">FAQ</a></li>
+<li><a href="/support/contact/" class="lsupport">Contact Us</a></li>
+
+
 </ul>
 </div>
 
 <div class="new_search">
 <form action="/search/" method="post" name="form_search_mob">
-<input type="text" name="query" id="query" autocomplete="on" placeholder="Search by tags, title, author" class="inpt"><div class="button_search" onclick="document.getElementById('form_search_mob').submit();"><i class="fa fa-search" onclick="document.forms.form_search_mob.submit()"></i></div>  
+<input type="text" name="query" id="mob_query" autocomplete="on" placeholder="Search by tags/titles/authors" class="inpt" autofocus=""><div class="button_search" onclick="document.getElementById('form_search_mob').submit();"><i class="fa fa-search" onclick="document.forms.form_search_mob.submit()"></i></div>  
 </form>
 </div>
 </div>
@@ -105,14 +101,14 @@
 <script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
 
 var aa;
-var delay = 430;
+var delay = 300;
 
 
 
 </script>	
 <div id="nvmenu">
 
-<div class="lt"></div><div class="mm"><a class="mic_m" href="/music/" id="mic" onmouseover="JavaScript: aa=window.setTimeout(function(){ showdiv('music_dd'); },delay);" onmouseout="window.clearTimeout(aa);hidediv('music_dd');">Music</a></div><div class="mm"><a class="genres_m" id="genres" href="/music-genres/" onmouseover="JavaScript:aa=window.setTimeout(function(){showdiv('genres_dd');},delay);" onmouseout="JavaScript:window.clearTimeout(aa);hidediv('genres_dd');">Genres</a></div><div class="mm"><a class="styles_m" id="styles" href="/music-styles/" onmouseover="JavaScript:aa=window.setTimeout(function(){showdiv('styles_dd');},delay);" onmouseout="JavaScript:window.clearTimeout(aa);hidediv('styles_dd');">Styles</a></div><div class="mm"><a class="for_m" href="/music-for/" id="for" onmouseover="JavaScript:aa=window.setTimeout(function(){showdiv('for_dd');},delay);" onmouseout="JavaScript:window.clearTimeout(aa);hidediv('for_dd');">For</a></div><div class="mm"><a class="moods_m" href="/moods/" id="moods" onmouseover="JavaScript:aa=window.setTimeout(function(){showdiv('moods_dd');},delay);" onmouseout="JavaScript:window.clearTimeout(aa);hidediv('moods_dd');">Moods</a></div><div class="mm"><a class="instr_m" href="/instruments/" id="instr" onmouseover="JavaScript:aa=window.setTimeout(function(){showdiv('instr_dd');},delay);" onmouseout="JavaScript:window.clearTimeout(aa);hidediv('instr_dd');">Instruments</a></div><div class="mm"><a class="spport_p" href="/support/faq/" id="spport" onmouseover="JavaScript:aa=window.setTimeout(function(){showdiv('support_dd');},delay);" onmouseout="JavaScript:window.clearTimeout(aa);hidediv('support_dd');">Support</a></div><div class="mm"><a class="sgnup_m" href="https://www.melodyloops.com/my-music/sign-up/" id="sgnup"><i class="fa fa-user" aria-hidden="true"></i> Sign Up</a></div><div class="rt"></div><div style="clear:both"></div>
+<div class="lt"></div><div class="mm"><a class="mic_m" href="/music/" id="mic" onmouseover="JavaScript: aa=window.setTimeout(function(){ showdiv('music_dd'); },delay);" onmouseout="window.clearTimeout(aa);hidediv('music_dd');">Music</a></div><div class="mm"><a class="genres_m" id="genres" href="/music-genres/" onmouseover="JavaScript:aa=window.setTimeout(function(){showdiv('genres_dd');},delay);" onmouseout="JavaScript:window.clearTimeout(aa);hidediv('genres_dd');">Genres</a></div><div class="mm"><a class="styles_m" id="styles" href="/music-styles/" onmouseover="JavaScript:aa=window.setTimeout(function(){showdiv('styles_dd');},delay);" onmouseout="JavaScript:window.clearTimeout(aa);hidediv('styles_dd');">Styles</a></div><div class="mm"><a class="for_m" href="/music-for/" id="for" onmouseover="JavaScript:aa=window.setTimeout(function(){showdiv('for_dd');},delay);" onmouseout="JavaScript:window.clearTimeout(aa);hidediv('for_dd');">For</a></div><div class="mm"><a class="moods_m" href="/moods/" id="moods" onmouseover="JavaScript:aa=window.setTimeout(function(){showdiv('moods_dd');},delay);" onmouseout="JavaScript:window.clearTimeout(aa);hidediv('moods_dd');">Moods</a></div><div class="mm"><a class="instr_m" href="/instruments/" id="instr" onmouseover="JavaScript:aa=window.setTimeout(function(){showdiv('instr_dd');},delay);" onmouseout="JavaScript:window.clearTimeout(aa);hidediv('instr_dd');">Instruments</a></div><div class="mm"><a class="spport_p" href="/support/faq/" id="spport" onmouseover="JavaScript:aa=window.setTimeout(function(){showdiv('support_dd');},delay);" onmouseout="JavaScript:window.clearTimeout(aa);hidediv('support_dd');">Support</a></div><div class="mm"><a class="sgnup_m" href="https://www.melodyloops.com/my-music/sign-up/" id="sgnup">Sign Up</a></div><div class="rt"></div><div style="clear:both"></div>
 </div>
 
 
@@ -127,7 +123,7 @@ border-top-left-radius: 0;" id="music_dd" onmouseout="hidediv('music_dd');change
 <li><i class="fa fa-download"></i> <a href="/music/free/">Free Music Download</a></li>
 <li><i class="fa fa-bolt"></i> <a href="/music/featured/">Featured</a></li>
 <li><i class="fa fa-list"></i> <a href="/playlists/">Playlists</a></li>
-<li><i class="fa fa-check-square-o"></i> <a href="/pick-and-play/">Mixing Tags</a></li>
+<li><i class="fa fa-check-square-o"></i> <a href="/pick-and-play/">Pick-n-Play Search</a></li>
 <li><i class="fa fa-diamond"></i> <a href="/music/bestsellers/">Bestsellers</a></li>
 <li><i class="fa fa-play"></i> <a href="/music/new/">New Releases</a></li>
 
@@ -138,82 +134,80 @@ border-top-left-radius: 0;" id="music_dd" onmouseout="hidediv('music_dd');change
 </div>
 
 
-
-
 <div class="twometerdrop" id="for_dd" onmouseout="hidediv('for_dd');changeCssClass('for')" onmouseover="JavaScript:showdiv('for_dd');changeCssClass('for')">
 
 
+
 <ul>
-
-
 <li><a href="/music-for/action/" class="for"><span class="upsize">Action</span></a></li>
 <li><a href="/music-for/ads/" class="for"><span class="upsize">Ads</span></a></li>
-<li><a href="/music-for/adventures/" class="for"><span class="upsize">Adventures</span></a></li>
+<li><a href="/music-for/adventures/" class="for">Adventures</a></li>
 <li><a href="/music-for/afterparty/" class="for">Afterparty</a></li>
+<li><a href="/music-for/animals/" class="for">Animals</a></li>
 <li><a href="/music-for/anniversary/" class="for">Anniversary</a></li>
 <li><a href="/music-for/art/" class="for"><span class="upsize">Art</span></a></li>
 <li><a href="/music-for/broken-heart/" class="for">Broken Heart</a></li>
 <li><a href="/music-for/business/" class="for"><span class="upsize">Business</span></a></li>
-<li><a href="/music-for/cartoon/" class="for">Cartoon</a></li>
+<li><a href="/music-for/cartoon/" class="for"><span class="upsize">Cartoon</span></a></li>
+<li><a href="/music-for/chase/" class="for">Chase</a></li>
 <li><a href="/music-for/christmas/" class="for">Christmas</a></li>
-<li><a href="/music-for/comedy/" class="for">Comedy</a></li>
-
-
 
 </ul>
 
 <ul>
+<li><a href="/music-for/comedy/" class="for"><span class="upsize">Comedy</span></a></li>
 <li><a href="/music-for/cooking/" class="for"><span class="upsize">Cooking</span></a></li>
 <li><a href="/music-for/crime/" class="for">Crime</a></li>
-<li><a href="/music-for/defeat/" class="for">Defeat</a></li>
 <li><a href="/music-for/documentaries/" class="for"><span class="upsize">Documentaries</span></a></li>
-<li><a href="/music-for/education/" class="for">Education</a></li>
-<li><a href="/music-for/extreme/" class="for"><span class="upsize">Extreme</span></a></li>
-<li><a href="/music-for/fairy-tail/" class="for"><span class="upsize">Fairy Tail</span></a></li>
+<li><a href="/music-for/education/" class="for"><span class="upsize">Education</span></a></li>
+<li><a href="/music-for/extreme/" class="for">Extreme</a></li>
+<li><a href="/music-for/fairy-tale/" class="for">Fairy Tale</a></li>
 <li><a href="/music-for/family/" class="for"><span class="upsize">Family</span></a></li>
-<li><a href="/music-for/fashion/" class="for">Fashion</a></li>
+<li><a href="/music-for/fashion/" class="for"><span class="upsize">Fashion</span></a></li>
 <li><a href="/music-for/fight/" class="for">Fight</a></li>
 <li><a href="/music-for/film/" class="for"><span class="upsize">Film</span></a></li>
-
+<li><a href="/music-for/friends/" class="for">Friends</a></li>
 
 </ul>
 
 <ul>
-<li><a href="/music-for/friends/" class="for">Friends</a></li>
-<li><a href="/music-for/funeral/" class="for">Funeral</a></li>
+
+<li><a href="/music-for/funeral/" class="for"><span class="upsize">Funerals</span></a></li>
 <li><a href="/music-for/games/" class="for"><span class="upsize">Games</span></a></li>
-<li><a href="/music-for/halloween/" class="for"><span class="upsize">Halloween</span></a></li>
+<li><a href="/music-for/halloween/" class="for">Halloween</a></li>
 <li><a href="/music-for/history/" class="for">History</a></li>
 <li><a href="/music-for/holidays/" class="for">Holidays</a></li>
-<li><a href="/music-for/home/" class="for"><span class="upsize">Home</span></a></li>
+<li><a href="/music-for/home/" class="for">Home</a></li>
 <li><a href="/music-for/honeymoon/" class="for">Honeymoon</a></li>
+<li><a href="/music-for/innovation/" class="for"><span class="upsize">Innovation</span></a></li>
 <li><a href="/music-for/inspiration/" class="for"><span class="upsize">Inspiration</span></a></li>
 <li><a href="/music-for/intro/" class="for"><span class="upsize">Intro</span></a></li>
+<li><a href="/music-for/investigation/" class="for"><span class="upsize">Investigation</span></a></li>
 <li><a href="/music-for/kids/" class="for"><span class="upsize">Kids</span></a></li>
-
 
 </ul>
 
 <ul>
-<li><a href="/music-for/love/" class="for">Love</a></li>
-<li><a href="/music-for/magic/" class="for">Magic</a></li>
+
+<li><a href="/music-for/love/" class="for"><span class="upsize">Love</span></a></li>
+<li><a href="/music-for/magic/" class="for"><span class="upsize">Magic</span></a></li>
 <li><a href="/music-for/meditation/" class="for"><span class="upsize">Meditation</span></a></li>
 <li><a href="/music-for/motivation/" class="for"><span class="upsize">Motivation</span></a></li>
-<li><a href="/music-for/news/" class="for">News</a></li>
+<li><a href="/music-for/news/" class="for"><span class="upsize">News</span></a></li>
 <li><a href="/music-for/night-party/" class="for">Night Party</a></li>
 <li><a href="/music-for/on-hold/" class="for"><span class="upsize">On Hold</span></a></li>
 <li><a href="/music-for/podcasts/" class="for"><span class="upsize">Podcasts</span></a></li>
 <li><a href="/music-for/presentation/" class="for"><span class="upsize">Presentation</span></a></li>
-<li><a href="/music-for/relax/" class="for"><span class="upsize">Relax</span></a></li>
-<li><a href="/music-for/sci-fi/" class="for">Sci-fi</a></li>
-
-
+<li><a href="/music-for/real-estate/" class="for"><span class="upsize">Real Estate</span></a></li>
+<li><a href="/music-for/relax/" class="for">Relax</a></li>
+<li><a href="/music-for/sci-fi/" class="for"><span class="upsize">Sci-fi</span></a></li>
 </ul>
 
 <ul>
-<li><a href="/music-for/science/" class="for">Science</a></li>
-<li><a href="/music-for/seduction/" class="for"><span class="upsize">Seduction</span></a></li>
-<li><a href="/music-for/slideshow/" class="for"><span class="upsize">Slideshows</span></a></li>
+
+<li><a href="/music-for/science/" class="for"><span class="upsize">Science</span></a></li>
+<li><a href="/music-for/seduction/" class="for">Seduction</a></li>
+<li><a href="/music-for/slideshow/" class="for"><span class="upsize">Slideshow</span></a></li>
 <li><a href="/music-for/spa/" class="for"><span class="upsize">Spa</span></a></li>
 <li><a href="/music-for/speed/" class="for">Speed</a></li>
 <li><a href="/music-for/sport/" class="for"><span class="upsize">Sport</span></a></li>
@@ -222,104 +216,105 @@ border-top-left-radius: 0;" id="music_dd" onmouseout="hidediv('music_dd');change
 <li><a href="/music-for/surf/" class="for">Surf</a></li>
 <li><a href="/music-for/technology/" class="for"><span class="upsize">Technology</span></a></li>
 <li><a href="/music-for/timelapse/" class="for"><span class="upsize">Timelapse</span></a></li>
-
-
+<li><a href="/music-for/trailer/" class="for"><span class="upsize">Trailer</span></a></li>
 </ul>
 
 <ul>
-<li><a href="/music-for/trailer/" class="for">Trailer</a></li>
+
+
 <li><a href="/music-for/travel/" class="for">Travel</a></li>
 <li><a href="/music-for/tv-show/" class="for"><span class="upsize">TV Show</span></a></li>
-<li><a href="/music-for/vacation/" class="for">Vacation</a></li>
-<li><a href="/music-for/valentines-day/" class="for">Valentines Day</a></li>
-<li><a href="/music-for/victory/" class="for"><span class="upsize">Victory</span></a></li>
+<li><a href="/music-for/vacation/" class="for"><span class="upsize">Vacation</span></a></li>
+<li><a href="/music-for/victory/" class="for">Victory</a></li>
 <li><a href="/music-for/video/" class="for"><span class="upsize">Videos</span></a></li>
-<li><a href="/music-for/walking/" class="for">Walking</a></li>
+<li><a href="/music-for/waiting/" class="for">Waiting</a></li>
+<li><a href="/music-for/walking/" class="for"><span class="upsize">Walking</span></a></li>
 <li><a href="/music-for/website/" class="for"><span class="upsize">Website</span></a></li>
 <li><a href="/music-for/wedding/" class="for">Wedding</a></li>
 <li><a href="/music-for/workout/" class="for"><span class="upsize">Workout</span></a></li>
+<li><a href="/music-for/yoga/" class="for">Yoga</a></li>
 </ul>
 
-
-
 </div>
-
 
 <div class="twometerdrop" id="genres_dd" onmouseout="hidediv('genres_dd');changeCssClass('genres')" onmouseover="JavaScript:showdiv('genres_dd');changeCssClass('genres')">
 
 <ul>
-
-<li><a href="/music-genres/30s/" class="genres">30s</a></li>
+<li><a href="/music-genres/30s/" class="genres"><span class="upsize">30s</span></a></li>
 <li><a href="/music-genres/50s/" class="genres">50s</a></li>
-<li><a href="/music-genres/60s/" class="genres">60s</a></li>
+<li><a href="/music-genres/60s/" class="genres"><span class="upsize">60s</span></a></li>
 <li><a href="/music-genres/70s/" class="genres"><span class="upsize">70s</span></a></li>
-<li><a href="/music-genres/80s/" class="genres">80s</a></li>
-<li><a href="/music-genres/90s/" class="genres">90s</a></li>
-<li><a href="/music-genres/african/" class="genres">African</a></li>
+<li><a href="/music-genres/80s/" class="genres"><span class="upsize">80s</span></a></li>
+<li><a href="/music-genres/90s/" class="genres"><span class="upsize">90s</span></a></li>
+<li><a href="/music-genres/african/" class="genres"><span class="upsize">African</span></a></li>
+<li><a href="/music-genres/arabian/" class="genres"><span class="upsize">Arabian</span></a></li>
 
 </ul>
+
 <ul>
-<li><a href="/music-genres/arabian/" class="genres">Arabian</a></li>
 <li><a href="/music-genres/asian/" class="genres">Asian</a></li>
-<li><a href="/music-genres/atmospheric/" class="genres"><span class="upsize">Atmospheric</span></a></li>
+<li><a href="/music-genres/atmospheric/" class="genres">Atmospheric</a></li>
 <li><a href="/music-genres/cinematic/" class="genres"><span class="upsize">Cinematic</span></a></li>
 <li><a href="/music-genres/corporate/" class="genres"><span class="upsize">Corporate</span></a></li>
 <li><a href="/music-genres/doom/" class="genres">Doom</a></li>
 <li><a href="/music-genres/dramatic/" class="genres"><span class="upsize">Dramatic</span></a></li>
-
-
-</ul>
-<ul>
 <li><a href="/music-genres/elegance/" class="genres"><span class="upsize">Elegance</span></a></li>
 <li><a href="/music-genres/energy/" class="genres"><span class="upsize">Energy</span></a></li>
+
+</ul>
+
+<ul>
 <li><a href="/music-genres/epic/" class="genres"><span class="upsize">Epic</span></a></li>
 <li><a href="/music-genres/fantasy/" class="genres"><span class="upsize">Fantasy</span></a></li>
 <li><a href="/music-genres/french/" class="genres"><span class="upsize">French</span></a></li>
-<li><a href="/music-genres/futuristic/" class="genres">Futuristic</a></li>
+<li><a href="/music-genres/futuristic/" class="genres"><span class="upsize">Futuristic</span></a></li>
 <li><a href="/music-genres/high-tech/" class="genres">High Tech</a></li>
-
-</ul>
-<ul>
 <li><a href="/music-genres/horror/" class="genres">Horror</a></li>
-<li><a href="/music-genres/indian/" class="genres">Indian</a></li>
+<li><a href="/music-genres/indian/" class="genres"><span class="upsize">Indian</span></a></li>
 <li><a href="/music-genres/lifestyle/" class="genres"><span class="upsize">Lifestyle</span></a></li>
-<li><a href="/music-genres/lullaby/" class="genres">Lullaby</a></li>
-<li><a href="/music-genres/luxury/" class="genres"><span class="upsize">Luxury</span></a></li>
-<li><a href="/music-genres/medieval/" class="genres">Medieval</a></li>
-<li><a href="/music-genres/military/" class="genres">Military</a></li>
 
 </ul>
-<ul>
 
-<li><a href="/music-genres/mystery/" class="genres">Mystery</a></li>
-<li><a href="/music-genres/native-american/" class="genres"><span class="upsize">Native American</span></a></li>
+<ul>
+<li><a href="/music-genres/lullaby/" class="genres">Lullaby</a></li>
+<li><a href="/music-genres/luxury/" class="genres">Luxury</a></li>
+<li><a href="/music-genres/medieval/" class="genres">Medieval</a></li>
+<li><a href="/music-genres/mediterranean/" class="genres">Mediterranean</a></li>
+<li><a href="/music-genres/military/" class="genres">Military</a></li>
+<li><a href="/music-genres/mystery/" class="genres"><span class="upsize">Mystery</span></a></li>
+<li><a href="/music-genres/native-american/" class="genres">Native American</a></li>
 <li><a href="/music-genres/nature/" class="genres">Nature</a></li>
+
+</ul>
+
+<ul>
 <li><a href="/music-genres/patriotic/" class="genres">Patriotic</a></li>
 <li><a href="/music-genres/political/" class="genres">Political</a></li>
 <li><a href="/music-genres/psychedelic/" class="genres">Psychedelic</a></li>
 <li><a href="/music-genres/retro/" class="genres"><span class="upsize">Retro</span></a></li>
-
-</ul>
-<ul>
 <li><a href="/music-genres/romantic/" class="genres">Romantic</a></li>
 <li><a href="/music-genres/rustic/" class="genres"><span class="upsize">Rustic</span></a></li>
 <li><a href="/music-genres/sacred/" class="genres"><span class="upsize">Sacred</span></a></li>
-<li><a href="/music-genres/space/" class="genres">Space</a></li>
+<li><a href="/music-genres/space/" class="genres"><span class="upsize">Space</span></a></li>
+
+</ul>
+
+<ul style="margin-left:-5px">
 <li><a href="/music-genres/spiritual/" class="genres"><span class="upsize">Spiritual</span></a></li>
 <li><a href="/music-genres/spy/" class="genres">Spy</a></li>
 <li><a href="/music-genres/teenage/" class="genres">Teenage</a></li>
+<li><a href="/music-genres/thriller/" class="genres">Thriller</a></li>
+<li><a href="/music-genres/traditional/" class="genres">Traditional</a></li>
+<li><a href="/music-genres/tropical/" class="genres"><span class="upsize">Tropical</span></a></li>
+<li><a href="/music-genres/urban/" class="genres">Urban</a></li>
+<li><a href="/music-genres/war/" class="genres">War</a></li>
 
 </ul>
+
 <ul>
-
-<li><a href="/music-genres/thriller/" class="genres"><span class="upsize">Thriller</span></a></li>
-<li><a href="/music-genres/traditional/" class="genres"><span class="upsize">Traditional</span></a></li>
-<li><a href="/music-genres/tropical/" class="genres">Tropical</a></li>
-<li><a href="/music-genres/urban/" class="genres"><span class="upsize">Urban</span></a></li>
-<li><a href="/music-genres/war/" class="genres">War</a></li>
 <li><a href="/music-genres/well-known/" class="genres"><span class="upsize">Well Known</span></a></li>
-<li><a href="/music-genres/western/" class="genres">Western</a></li>
-
+<li><a href="/music-genres/western/" class="genres"><span class="upsize">Western</span></a></li>
+<li><a href="/music-genres/world/" class="genres"><span class="upsize">World</span></a></li>
 
 </ul>
 
@@ -332,9 +327,8 @@ border-top-left-radius: 0;" id="music_dd" onmouseout="hidediv('music_dd');change
 
 
 
-
-<ul styles="margin-left:10px;">
-<li><a href="/music-styles/acid-jazz/" class="styles">Acid Jazz</a></li>
+<ul>
+<li><a href="/music-styles/acid-jazz/" class="styles"><span class="upsize">Acid Jazz</span></a></li>
 <li><a href="/music-styles/acoustic/" class="styles"><span class="upsize">Acoustic</span></a></li>
 <li><a href="/music-styles/acoustic-blues/" class="styles">Acoustic Blues</a></li>
 <li><a href="/music-styles/alternative-metal/" class="styles">Alternative Metal</a></li>
@@ -343,83 +337,89 @@ border-top-left-radius: 0;" id="music_dd" onmouseout="hidediv('music_dd');change
 <li><a href="/music-styles/avant-garde/" class="styles">Avant Garde</a></li>
 <li><a href="/music-styles/baroque/" class="styles">Baroque</a></li>
 <li><a href="/music-styles/blues/" class="styles"><span class="upsize">Blues</span></a></li>
-
 <li><a href="/music-styles/bossa-nova/" class="styles"><span class="upsize">Bossa nova</span></a></li>
-<li><a href="/music-styles/breakbeat/" class="styles"><span class="upsize">Breakbeat</span></a></li>
+<li><a href="/music-styles/breakbeat/" class="styles">Breakbeat</a></li>
+<li><a href="/music-styles/celtic/" class="styles"><span class="upsize">Celtic</span></a></li>
 
 </ul>
 
 <ul>
-
-<li><a href="/music-styles/celtic/" class="styles">Celtic</a></li>
 <li><a href="/music-styles/chill-out/" class="styles"><span class="upsize">Chill out</span></a></li>
-<li><a href="/music-styles/classical/" class="styles">Classical</a></li>
-<li><a href="/music-styles/country/" class="styles">Country</a></li>
+<li><a href="/music-styles/chillhop/" class="styles"><span class="upsize">Chillhop</span></a></li>
+<li><a href="/music-styles/chillstep/" class="styles">Chillstep</a></li>
+<li><a href="/music-styles/classical/" class="styles"><span class="upsize">Classical</span></a></li>
+<li><a href="/music-styles/classical-piano/" class="styles">Classical Piano</a></li>
+<li><a href="/music-styles/country/" class="styles"><span class="upsize">Country</span></a></li>
 <li><a href="/music-styles/country-rock/" class="styles"><span class="upsize">Country Rock</span></a></li>
 <li><a href="/music-styles/dance/" class="styles"><span class="upsize">Dance</span></a></li>
-<li><a href="/music-styles/disco/" class="styles"><span class="upsize">Disco</span></a></li>
+<li><a href="/music-styles/disco/" class="styles">Disco</a></li>
 <li><a href="/music-styles/drum-and-bass/" class="styles">Drum and Bass</a></li>
-<li><a href="/music-styles/dubstep/" class="styles"><span class="upsize">Dubstep</span></a></li>
-<li><a href="/music-styles/easy-listening/" class="styles">Easy Listening</a></li>
-<li><a href="/music-styles/electric-blues/" class="styles"><span class="upsize">Electric Blues</span></a></li>
+<li><a href="/music-styles/dubstep/" class="styles">Dubstep</a></li>
+<li><a href="/music-styles/easy-listening/" class="styles"><span class="upsize">Easy Listening</span></a></li>
 
 </ul>
 
 <ul>
-<li><a href="/music-styles/electronic/" class="styles">Electronic</a></li>
+<li><a href="/music-styles/electric-blues/" class="styles">Electric Blues</a></li>
+<li><a href="/music-styles/electronic/" class="styles"><span class="upsize">Electronic</span></a></li>
 <li><a href="/music-styles/ethnic/" class="styles"><span class="upsize">Ethnic</span></a></li>
 <li><a href="/music-styles/experimental/" class="styles">Experimental</a></li>
 <li><a href="/music-styles/folk/" class="styles"><span class="upsize">Folk</span></a></li>
-<li><a href="/music-styles/funk/" class="styles"><span class="upsize">Funk</span></a></li>
-<li><a href="/music-styles/fusion/" class="styles"><span class="upsize">Fusion</span></a></li>
+<li><a href="/music-styles/funk/" class="styles">Funk</a></li>
+<li><a href="/music-styles/fusion/" class="styles">Fusion</a></li>
+<li><a href="/music-styles/future-bass/" class="styles"><span class="upsize">Future Bass</span></a></li>
 <li><a href="/music-styles/gospel/" class="styles">Gospel</a></li>
 <li><a href="/music-styles/gothic/" class="styles">Gothic</a></li>
-<li><a href="/music-styles/hard-rock/" class="styles"><span class="upsize">Hard Rock</span></a></li>
+<li><a href="/music-styles/hard-rock/" class="styles">Hard Rock</a></li>
 <li><a href="/music-styles/heavy-metal/" class="styles">Heavy Metal</a></li>
-<li><a href="/music-styles/hip-hop/" class="styles"><span class="upsize">Hip Hop</span></a></li>
 
 </ul>
 
-<ul style="padding-left:10px;">
+<ul style="margin-left:-10px">
+<li><a href="/music-styles/hip-hop/" class="styles"><span class="upsize">Hip Hop</span></a></li>
 <li><a href="/music-styles/house/" class="styles"><span class="upsize">House</span></a></li>
-<li><a href="/music-styles/hybrid-orchestral/" class="styles"><span class="upsize">Hybrid Orchestral</span></a></li>
-<li><a href="/music-styles/indie/" class="styles"><span class="upsize">Indie</span></a></li>
+<li><a href="/music-styles/hybrid-orchestral/" class="styles">Hybrid Orchestral</a></li>
+<li><a href="/music-styles/indie/" class="styles">Indie</a></li>
 <li><a href="/music-styles/industrial/" class="styles">Industrial</a></li>
 <li><a href="/music-styles/jazz/" class="styles"><span class="upsize">Jazz</span></a></li>
 <li><a href="/music-styles/jazz-fusion/" class="styles">Jazz Fusion</a></li>
-<li><a href="/music-styles/latin/" class="styles"><span class="upsize">Latin</span></a></li>
+<li><a href="/music-styles/latin/" class="styles">Latin</a></li>
 <li><a href="/music-styles/lounge/" class="styles">Lounge</a></li>
 <li><a href="/music-styles/metal/" class="styles">Metal</a></li>
-<li><a href="/music-styles/minimal/" class="styles">Minimal</a></li>
+<li><a href="/music-styles/minimal/" class="styles"><span class="upsize">Minimal</span></a></li>
 <li><a href="/music-styles/modern-classical/" class="styles"><span class="upsize">Modern Classical</span></a></li>
+
 </ul>
 
-<ul style="padding-left:10px;">
-
-<li><a href="/music-styles/new-age/" class="styles"><span class="upsize">New Age</span></a></li>
-<li><a href="/music-styles/orchestral/" class="styles">Orchestral</a></li>
-<li><a href="/music-styles/piano-classic/" class="styles">Piano Classic</a></li>
+<ul style="margin-left:-10px">
+<li><a href="/music-styles/new-age/" class="styles">New Age</a></li>
+<li><a href="/music-styles/nu-jazz/" class="styles">Nu Jazz</a></li>
+<li><a href="/music-styles/orchestral/" class="styles"><span class="upsize">Orchestral</span></a></li>
 <li><a href="/music-styles/pop/" class="styles"><span class="upsize">Pop</span></a></li>
 <li><a href="/music-styles/pop-rock/" class="styles"><span class="upsize">Pop Rock</span></a></li>
-<li><a href="/music-styles/progressive-metal/" class="styles">Progressive Metal</a></li>
 <li><a href="/music-styles/punk/" class="styles">Punk</a></li>
-<li><a href="/music-styles/ragtime/" class="styles"><span class="upsize">Ragtime</span></a></li>
-<li><a href="/music-styles/rap/" class="styles">Rap</a></li>
+<li><a href="/music-styles/ragtime/" class="styles">Ragtime</a></li>
+<li><a href="/music-styles/rap/" class="styles"><span class="upsize">Rap</span></a></li>
 <li><a href="/music-styles/reggae/" class="styles"><span class="upsize">Reggae</span></a></li>
 <li><a href="/music-styles/rhythm-and-blues/" class="styles">Rhythm &amp; Blues</a></li>
-
-</ul>
-
-<ul style="padding-left:10px;">
-
 <li><a href="/music-styles/rnb/" class="styles">R&amp;B</a></li>
 <li><a href="/music-styles/rock/" class="styles"><span class="upsize">Rock</span></a></li>
+</ul>
+
+<ul style="margin-left:-10px">
+
 <li><a href="/music-styles/rock-n-roll/" class="styles"><span class="upsize">Rock-n-Roll</span></a></li>
-<li><a href="/music-styles/smooth-jazz/" class="styles">Smooth Jazz</a></li>
-<li><a href="/music-styles/swing/" class="styles"><span class="upsize">Swing</span></a></li>
-<li><a href="/music-styles/techno/" class="styles"><span class="upsize">Techno</span></a></li>
+<li><a href="/music-styles/smooth-jazz/" class="styles"><span class="upsize">Smooth Jazz</span></a></li>
+<li><a href="/music-styles/soul/" class="styles">Soul</a></li>
+<li><a href="/music-styles/stomp/" class="styles"><span class="upsize">Stomp</span></a></li>
+<li><a href="/music-styles/swing/" class="styles">Swing</a></li>
+<li><a href="/music-styles/synthwave/" class="styles">Synthwave</a></li>
+<li><a href="/music-styles/techno/" class="styles">Techno</a></li>
 <li><a href="/music-styles/traditional-classical/" class="styles">Traditional Classical</a></li>
 <li><a href="/music-styles/trance/" class="styles"><span class="upsize">Trance</span></a></li>
+<li><a href="/music-styles/trip-hop/" class="styles"><span class="upsize">Trip Hop</span></a></li>
+<li><a href="/music-styles/tropical-house/" class="styles"><span class="upsize">Tropical House</span></a></li>
+<li><a href="/music-styles/waltz/" class="styles">Waltz</a></li>
 </ul>
 
 
@@ -435,119 +435,123 @@ border-top-left-radius: 0;" id="music_dd" onmouseout="hidediv('music_dd');change
 <div class="twometerdrop" id="moods_dd" onmouseout="JavaScript:hidediv('moods_dd');changeCssClass('moods')" onmouseover="JavaScript:showdiv('moods_dd');changeCssClass('moods')">
 
 <ul>
-
-<li><a href="/moods/abstract/" class="moods"><span class="upsize">Abstract</span></a></li>
+<li><a href="/moods/abstract/" class="moods">Abstract</a></li>
 <li><a href="/moods/aggressive/" class="moods"><span class="upsize">Aggressive</span></a></li>
-<li><a href="/moods/airy/" class="moods"><span class="upsize">Airy</span></a></li>
+<li><a href="/moods/airy/" class="moods">Airy</a></li>
 <li><a href="/moods/alien/" class="moods">Alien</a></li>
-<li><a href="/moods/angelic/" class="moods"><span class="upsize">Angelic</span></a></li>
+<li><a href="/moods/angelic/" class="moods">Angelic</a></li>
 <li><a href="/moods/angry/" class="moods">Angry</a></li>
-<li><a href="/moods/animated/" class="moods"><span class="upsize">Animated</span></a></li>
+<li><a href="/moods/animated/" class="moods">Animated</a></li>
 <li><a href="/moods/anxious/" class="moods"><span class="upsize">Anxious</span></a></li>
-<li><a href="/moods/beautiful/" class="moods"><span class="upsize">Beautiful</span></a></li>
-<li><a href="/moods/bittersweet/" class="moods"><span class="upsize">Bittersweet</span></a></li>
+<li><a href="/moods/beautiful/" class="moods">Beautiful</a></li>
+<li><a href="/moods/bittersweet/" class="moods">Bittersweet</a></li>
 <li><a href="/moods/bouncy/" class="moods"><span class="upsize">Bouncy</span></a></li>
 <li><a href="/moods/brave/" class="moods"><span class="upsize">Brave</span></a></li>
 <li><a href="/moods/breezy/" class="moods">Breezy</a></li>
 
-
-
 </ul>
+
 <ul>
 <li><a href="/moods/bright/" class="moods"><span class="upsize">Bright</span></a></li>
-<li><a href="/moods/calm/" class="moods">Calm</a></li>
+<li><a href="/moods/calm/" class="moods"><span class="upsize">Calm</span></a></li>
 <li><a href="/moods/carefree/" class="moods"><span class="upsize">Carefree</span></a></li>
-<li><a href="/moods/careful/" class="moods"><span class="upsize">Careful</span></a></li>
+<li><a href="/moods/careful/" class="moods">Careful</a></li>
 <li><a href="/moods/celestial/" class="moods"><span class="upsize">Celestial</span></a></li>
 <li><a href="/moods/cheerful/" class="moods"><span class="upsize">Cheerful</span></a></li>
 <li><a href="/moods/cold/" class="moods">Cold</a></li>
-<li><a href="/moods/colorful/" class="moods"><span class="upsize">Colorful</span></a></li>
+<li><a href="/moods/colorful/" class="moods">Colorful</a></li>
 <li><a href="/moods/confident/" class="moods"><span class="upsize">Confident</span></a></li>
+<li><a href="/moods/contemplative/" class="moods">Contemplative</a></li>
 <li><a href="/moods/cool/" class="moods"><span class="upsize">Cool</span></a></li>
-<li><a href="/moods/crazy/" class="moods">Crazy</a></li>
+<li><a href="/moods/crazy/" class="moods"><span class="upsize">Crazy</span></a></li>
 <li><a href="/moods/creepy/" class="moods">Creepy</a></li>
-<li><a href="/moods/cute/" class="moods">Cute</a></li>
-
 
 </ul>
+
 <ul>
-<li><a href="/moods/danger/" class="moods">Danger</a></li>
-<li><a href="/moods/dark/" class="moods">Dark</a></li>
-<li><a href="/moods/demonic/" class="moods"><span class="upsize">Demonic</span></a></li>
+<li><a href="/moods/cute/" class="moods"><span class="upsize">Cute</span></a></li>
+<li><a href="/moods/dangerous/" class="moods"><span class="upsize">Dangerous</span></a></li>
+<li><a href="/moods/dark/" class="moods"><span class="upsize">Dark</span></a></li>
+<li><a href="/moods/demonic/" class="moods">Demonic</a></li>
 <li><a href="/moods/destructive/" class="moods">Destructive</a></li>
 <li><a href="/moods/dreamy/" class="moods"><span class="upsize">Dreamy</span></a></li>
-<li><a href="/moods/easy-going/" class="moods"><span class="upsize">Easy-going</span></a></li>
-<li><a href="/moods/emotive/" class="moods">Emotive</a></li>
+<li><a href="/moods/easy-going/" class="moods">Easy-going</a></li>
+<li><a href="/moods/emotive/" class="moods"><span class="upsize">Emotive</span></a></li>
 <li><a href="/moods/energetic/" class="moods"><span class="upsize">Energetic</span></a></li>
-<li><a href="/moods/ethereal/" class="moods">Ethereal</a></li>
-<li><a href="/moods/evil/" class="moods"><span class="upsize">Evil</span></a></li>
-<li><a href="/moods/exotic/" class="moods">Exotic</a></li>
+<li><a href="/moods/ethereal/" class="moods"><span class="upsize">Ethereal</span></a></li>
+<li><a href="/moods/evil/" class="moods">Evil</a></li>
+<li><a href="/moods/exotic/" class="moods"><span class="upsize">Exotic</span></a></li>
 <li><a href="/moods/fancy/" class="moods">Fancy</a></li>
-<li><a href="/moods/festive/" class="moods"><span class="upsize">Festive</span></a></li>
 
 </ul>
-<ul>
+
+<ul style="margin-left:0px">
+<li><a href="/moods/festive/" class="moods"><span class="upsize">Festive</span></a></li>
 <li><a href="/moods/focused/" class="moods"><span class="upsize">Focused</span></a></li>
 <li><a href="/moods/funny/" class="moods"><span class="upsize">Funny</span></a></li>
 <li><a href="/moods/gentle/" class="moods"><span class="upsize">Gentle</span></a></li>
-<li><a href="/moods/glamorous/" class="moods"><span class="upsize">Glamorous</span></a></li>
-<li><a href="/moods/haunting/" class="moods"><span class="upsize">Haunting</span></a></li>
-<li><a href="/moods/heroic/" class="moods">Heroic</a></li>
+<li><a href="/moods/glamorous/" class="moods">Glamorous</a></li>
+<li><a href="/moods/happy/" class="moods"><span class="upsize">Happy</span></a></li>
+<li><a href="/moods/haunting/" class="moods">Haunting</a></li>
+<li><a href="/moods/heroic/" class="moods"><span class="upsize">Heroic</span></a></li>
 <li><a href="/moods/hopeful/" class="moods"><span class="upsize">Hopeful</span></a></li>
-<li><a href="/moods/hot/" class="moods">Hot</a></li>
+<li><a href="/moods/hot/" class="moods"><span class="upsize">Hot</span></a></li>
 <li><a href="/moods/hypnotic/" class="moods"><span class="upsize">Hypnotic</span></a></li>
-<li><a href="/moods/illusory/" class="moods"><span class="upsize">Illusory</span></a></li>
-<li><a href="/moods/intimate/" class="moods"><span class="upsize">Intimate</span></a></li>
-<li><a href="/moods/ironic/" class="moods"><span class="upsize">Ironic</span></a></li>
-<li><a href="/moods/laid-back/" class="moods"><span class="upsize">Laid-back</span></a></li>
+<li><a href="/moods/illusory/" class="moods">Illusory</a></li>
+<li><a href="/moods/intimate/" class="moods">Intimate</a></li>
 
 </ul>
-<ul style="padding-left:10px;">
-<li><a href="/moods/lazy/" class="moods"><span class="upsize">Lazy</span></a></li>
-<li><a href="/moods/light/" class="moods">Light</a></li>
+
+<ul style="margin-left:0px">
+<li><a href="/moods/ironic/" class="moods">Ironic</a></li>
+<li><a href="/moods/laid-back/" class="moods"><span class="upsize">Laid-back</span></a></li>
+<li><a href="/moods/lazy/" class="moods">Lazy</a></li>
+<li><a href="/moods/light/" class="moods"><span class="upsize">Light</span></a></li>
 <li><a href="/moods/lovely/" class="moods">Lovely</a></li>
 <li><a href="/moods/majestic/" class="moods"><span class="upsize">Majestic</span></a></li>
 <li><a href="/moods/melancholic/" class="moods"><span class="upsize">Melancholic</span></a></li>
 <li><a href="/moods/mellow/" class="moods">Mellow</a></li>
-<li><a href="/moods/naive/" class="moods"><span class="upsize">Naive</span></a></li>
-<li><a href="/moods/nervous/" class="moods"><span class="upsize">Nervous</span></a></li>
-<li><a href="/moods/neutral/" class="moods">Neutral</a></li>
+<li><a href="/moods/naive/" class="moods">Naive</a></li>
+<li><a href="/moods/naughty/" class="moods">Naughty</a></li>
+<li><a href="/moods/nervous/" class="moods">Nervous</a></li>
+<li><a href="/moods/neutral/" class="moods"><span class="upsize">Neutral</span></a></li>
 <li><a href="/moods/nostalgic/" class="moods"><span class="upsize">Nostalgic</span></a></li>
-<li><a href="/moods/odd/" class="moods">Odd</a></li>
-<li><a href="/moods/optimistic/" class="moods"><span class="upsize">Optimistic</span></a></li>
-<li><a href="/moods/peaceful/" class="moods">Peaceful</a></li>
-
 
 </ul>
-<ul style="padding-left:10px;">
-<li><a href="/moods/pensive/" class="moods"><span class="upsize">Pensive</span></a></li>
+
+<ul style="margin-left:0px">
+<li><a href="/moods/odd/" class="moods">Odd</a></li>
+<li><a href="/moods/optimistic/" class="moods"><span class="upsize">Optimistic</span></a></li>
+<li><a href="/moods/peaceful/" class="moods"><span class="upsize">Peaceful</span></a></li>
+<li><a href="/moods/pensive/" class="moods">Pensive</a></li>
 <li><a href="/moods/playful/" class="moods"><span class="upsize">Playful</span></a></li>
 <li><a href="/moods/positive/" class="moods"><span class="upsize">Positive</span></a></li>
 <li><a href="/moods/powerful/" class="moods"><span class="upsize">Powerful</span></a></li>
-<li><a href="/moods/provocative/" class="moods"><span class="upsize">Provocative</span></a></li>
+<li><a href="/moods/provocative/" class="moods">Provocative</a></li>
 <li><a href="/moods/robotic/" class="moods">Robotic</a></li>
-<li><a href="/moods/sad/" class="moods">Sad</a></li>
+<li><a href="/moods/sad/" class="moods"><span class="upsize">Sad</span></a></li>
 <li><a href="/moods/scared/" class="moods">Scared</a></li>
 <li><a href="/moods/sensitive/" class="moods"><span class="upsize">Sensitive</span></a></li>
-<li><a href="/moods/serious/" class="moods">Serious</a></li>
-<li><a href="/moods/sexy/" class="moods">Sexy</a></li>
-<li><a href="/moods/soft/" class="moods">Soft</a></li>
-<li><a href="/moods/soothing/" class="moods"><span class="upsize">Soothing</span></a></li>
-
+<li><a href="/moods/serious/" class="moods"><span class="upsize">Serious</span></a></li>
 
 </ul>
-<ul style="padding-left:10px;">
-<li><a href="/moods/sparkling/" class="moods"><span class="upsize">Sparkling</span></a></li>
+
+<ul style="margin-left:0px">
+<li><a href="/moods/sexy/" class="moods"><span class="upsize">Sexy</span></a></li>
+<li><a href="/moods/smoky/" class="moods">Smoky</a></li>
+<li><a href="/moods/soft/" class="moods"><span class="upsize">Soft</span></a></li>
+<li><a href="/moods/soothing/" class="moods"><span class="upsize">Soothing</span></a></li>
+<li><a href="/moods/sophisticated/" class="moods">Sophisticated</a></li>
+<li><a href="/moods/sparkling/" class="moods">Sparkling</a></li>
 <li><a href="/moods/strong/" class="moods"><span class="upsize">Strong</span></a></li>
 <li><a href="/moods/stylish/" class="moods">Stylish</a></li>
 <li><a href="/moods/sweet/" class="moods">Sweet</a></li>
 <li><a href="/moods/synthetic/" class="moods">Synthetic</a></li>
-<li><a href="/moods/tense/" class="moods">Tense</a></li>
+<li><a href="/moods/tense/" class="moods"><span class="upsize">Tense</span></a></li>
 <li><a href="/moods/tragic/" class="moods"><span class="upsize">Tragic</span></a></li>
 <li><a href="/moods/warm/" class="moods"><span class="upsize">Warm</span></a></li>
-<li><a href="/moods/weird/" class="moods"><span class="upsize">Weird</span></a></li>
-</ul>
 
+</ul>
 
 
 
@@ -561,68 +565,70 @@ border-top-left-radius: 0;" id="music_dd" onmouseout="hidediv('music_dd');change
 <div class="twometerdrop" id="instr_dd" onmouseout="hidediv('instr_dd');changeCssClass('instr');" onmouseover="JavaScript:showdiv('instr_dd');changeCssClass('instr')">
 
 <ul>
-
-<li><a href="/instruments/8bits/" class="inst"><span class="upsize">8bits</span></a></li>
+<li><a href="/instruments/8-bit/" class="inst"><span class="upsize">8 bit</span></a></li>
 <li><a href="/instruments/accordion/" class="inst">Accordion</a></li>
-<li><a href="/instruments/acoustic-bass/" class="inst"><span class="upsize">Acoustic Bass</span></a></li>
+<li><a href="/instruments/acoustic-bass/" class="inst">Acoustic Bass</a></li>
 <li><a href="/instruments/acoustic-guitar/" class="inst"><span class="upsize">Acoustic Guitar</span></a></li>
 <li><a href="/instruments/analog-synth/" class="inst">Analog Synth</a></li>
-<li><a href="/instruments/bagpipes/" class="inst"><span class="upsize">Bagpipes</span></a></li>
-<li><a href="/instruments/banjo/" class="inst">Banjo</a></li>
-
-
+<li><a href="/instruments/bagpipes/" class="inst">Bagpipes</a></li>
+<li><a href="/instruments/banjo/" class="inst"><span class="upsize">Banjo</span></a></li>
 
 </ul>
 
-<ul>
-<li><a href="/instruments/bass-guitar/" class="inst"><span class="upsize">Bass Guitar</span></a></li>
-<li><a href="/instruments/bells/" class="inst"><span class="upsize">Bells</span></a></li>
-<li><a href="/instruments/brass/" class="inst"><span class="upsize">Brass</span></a></li>
+<ul style="margin-left:-0px">
+<li><a href="/instruments/bass-guitar/" class="inst">Bass Guitar</a></li>
+<li><a href="/instruments/bells/" class="inst">Bells</a></li>
+<li><a href="/instruments/brass/" class="inst">Brass</a></li>
 <li><a href="/instruments/cello/" class="inst"><span class="upsize">Cello</span></a></li>
-<li><a href="/instruments/choir/" class="inst"><span class="upsize">Choir</span></a></li>
+<li><a href="/instruments/choir/" class="inst">Choir</a></li>
 <li><a href="/instruments/clapping/" class="inst"><span class="upsize">Clapping</span></a></li>
-<li><a href="/instruments/clarinet/" class="inst"><span class="upsize">Clarinet</span></a></li>
+<li><a href="/instruments/clarinet/" class="inst">Clarinet</a></li>
 
 </ul>
 
-<ul style="padding-left:10px;">
+<ul style="margin-left:-0px">
 <li><a href="/instruments/digital-synth/" class="inst">Digital Synth</a></li>
-<li><a href="/instruments/double-bass/" class="inst"><span class="upsize">Double Bass</span></a></li>
+<li><a href="/instruments/double-bass/" class="inst">Double Bass</a></li>
 <li><a href="/instruments/electric-guitar/" class="inst"><span class="upsize">Electric Guitar</span></a></li>
 <li><a href="/instruments/electric-organ/" class="inst">Electric Organ</a></li>
 <li><a href="/instruments/electric-piano/" class="inst">Electric Piano</a></li>
 <li><a href="/instruments/female-voice/" class="inst"><span class="upsize">Female Voice</span></a></li>
-<li><a href="/instruments/flute/" class="inst">Flute</a></li>
+<li><a href="/instruments/flute/" class="inst"><span class="upsize">Flute</span></a></li>
 
 </ul>
 
-<ul>
+<ul style="margin-left:-0px">
 <li><a href="/instruments/fretless-bass/" class="inst">Fretless Bass</a></li>
 <li><a href="/instruments/harmonica/" class="inst">Harmonica</a></li>
 <li><a href="/instruments/harp/" class="inst"><span class="upsize">Harp</span></a></li>
-<li><a href="/instruments/male-voice/" class="inst"><span class="upsize">Male Voice</span></a></li>
-<li><a href="/instruments/marimba/" class="inst"><span class="upsize">Marimba</span></a></li>
+<li><a href="/instruments/male-voice/" class="inst">Male Voice</a></li>
+<li><a href="/instruments/marimba/" class="inst">Marimba</a></li>
 <li><a href="/instruments/percussion/" class="inst"><span class="upsize">Percussion</span></a></li>
 <li><a href="/instruments/piano/" class="inst"><span class="upsize">Piano</span></a></li>
 
 </ul>
 
-<ul>
-<li><a href="/instruments/saxophone/" class="inst">Saxophone</a></li>
+<ul style="margin-left:-0px">
+<li><a href="/instruments/saxophone/" class="inst"><span class="upsize">Saxophone</span></a></li>
 <li><a href="/instruments/solo/" class="inst">Solo</a></li>
 <li><a href="/instruments/sound-effects/" class="inst"><span class="upsize">Sound Effects</span></a></li>
-<li><a href="/instruments/strings/" class="inst">Strings</a></li>
+<li><a href="/instruments/strings/" class="inst"><span class="upsize">Strings</span></a></li>
 <li><a href="/instruments/synth-bass/" class="inst">Synth Bass</a></li>
 <li><a href="/instruments/trumpet/" class="inst">Trumpet</a></li>
 <li><a href="/instruments/ukulele/" class="inst"><span class="upsize">Ukulele</span></a></li>
+
 </ul>
-<ul>
+
+<ul style="margin-left:-0px">
 <li><a href="/instruments/violin/" class="inst"><span class="upsize">Violin</span></a></li>
-<li><a href="/instruments/voice/" class="inst"><span class="upsize">Voice</span></a></li>
-<li><a href="/instruments/whistling/" class="inst">Whistling</a></li>
+<li><a href="/instruments/voice/" class="inst">Voice</a></li>
+<li><a href="/instruments/whistling/" class="inst"><span class="upsize">Whistling</span></a></li>
 <li><a href="/instruments/woodwinds/" class="inst"><span class="upsize">Woodwinds</span></a></li>
-<li><a href="/instruments/xylophone/" class="inst"><span class="upsize">Xylophone</span></a></li>
+<li><a href="/instruments/xylophone/" class="inst">Xylophone</a></li>
+
 </ul>
+
+
 
 
 
@@ -668,36 +674,64 @@ border-top-left-radius: 0;" id="music_dd" onmouseout="hidediv('music_dd');change
 
 
 
-<div id="license">
-<p>We reserve the right, at our discretion, to modify or remove portions of this Privacy Policy at any time. This Internet Privacy Policy is in addition to any other terms and conditions applicable to the web site. We do not make any representations about third party web sites that may be linked to the web site.</p>
-<div class="subtitle">The information we collect</div>
+<div id="license" style="text-align:left; width:800px">
 
-<p>MelodyLoops.com collects non-personally identifiable information when you visit our website (MelodyLoops.com). This data includes URL of the Website that sent you to the MelodyLoops.com main page, browser cookie and browser type. This data is automatically recorded in our server logs and is used to manage the website, track usage and improve the MelodyLoops.com website and services.
+<p>Effective from May 2018</p>
+
+<b class="subtitle">How to get in touch</b>
+
+<p>You can get in touch with MelodyLoops.com in relation to this privacy policy via email, <a href="mailto:support@melodyloops.com">support@melodyloops.com</a>. Alternatively, you can write us at: Melody Loops LP, Suite 4082, Mitchell House, 5 Mitchell Street, Edinburgh, EH6 78D, Scotland, UK.</p>
+
+<p>Our company number is SL024553.</p>
+
+<p>MelodyLoops.com may make changes to this Privacy Policy at its sole discretion. If we make changes, we will post them on our site. Please revisit this page to stay informed of the current policy and any changes. Any changes will be reflected in the "effective date" above. 
 </p>
 
+<b class="subtitle">The information we collect and why we collect it</b>
+<p>MelodyLoops.com collects the following information in order to administer your account and provide you with the services offered on our website:</p>
+<ul>
+<li>Name</li>
+<li>Email</li>
+<li>Payment details </li>
+</ul>
 
-<div class="subtitle">Security</div>
+<p>The provision of the above personal data, forms part of the contractual obligations we have with you. Without this information, we would not be able to provide you with the services you have requested from us. </p>
+
+<p>We also collect non-personally identifiable information when you visit our website (MelodyLoops.com). This data includes URL of the website that sent you to the MelodyLoops.com main page, browser cookie and browser type. This data is automatically recorded in our server logs and is used to manage the website, track usage and improve the MelodyLoops.com website and services. </p>
+
+<p>Additionally, MelodyLoops.com will not use personally identifiable information to send commercial or marketing messages without your consent except as part of a specific program or feature for which you have explicitly opted-in to, and will have the ability to opt-out of at any time.</p>
+
+<p>MelodyLoops.com uses non-personally identifiable information so that, we can:</p>
+
+<ul>
+<li>Improve the quality and design of our website and services and to create new features and functionality</li>
+<li>Monitor the effectiveness of our marketing campaigns</li>
+<li>Monitor aggregate metrics such as total number of visitors, pages viewed, etc.</li>
+</ul>
+
+<b class="subtitle">Where your information is stored</b>
 <p>
-Unfortunately, no data transmission over the Internet can be considered 100% secure. However, MelodyLoops.com information protected for your privacy and security. While making orders or working with your account, MelodyLoops.com uses industry-standard SSL-encryption to protect data transmissions.
+The information you provide us is stored on our secure servers in the United States of America. Unfortunately, no data transmission over the Internet can be considered 100% secure. However, MelodyLoops.com takes all reasonable technical and organisational measures to protect your privacy and security. While making orders or working with your account, MelodyLoops.com uses industry-standard SSL-encryption to protect data transmissions.
 </p>
 <p>
-We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures. Further, MelodyLoops.com retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
-</p>
+We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures. Further, MelodyLoops.com retains your personal information only as long as necessary to fulfil the purposes of administering your account, or as required by law.</p>
 
-<p>When you visit the MelodyLoops.com site, we may send one or more cookies to your computer that uniquely identifies your browser. </p>
+<b class="subtitle">Your rights</b>
 
-<div class="subtitle">How MelodyLoops.com uses your information</div>
+<p>Under the Data Protection Act (2018) you have the right to:</p>
+<ul>
+ <li>Request a copy of your personal data which we store</li>
+ <li>Request that your personal data is updated or corrected</li>
+ <li>Request the deletion of all your data (in some instances)</li>
+ <li>Request the restriction of the processing of you information</li>
+ <li>Request that the data we hold on you is transferred to another organisations</li>
+ <li>Withdraw your consent regarding the processing of your personal data at any time</li>
+</ul>
 
-<p>Additionally, MelodyLoops.com will not use personally identifiable information to send commercial or marketing messages without your consent except as part of a specific program or feature for which you will have the ability to turn on or off.</p>
+<p>If you are unhappy with the way we use your personal data, you have the right to complain to the Information Commissioner’s Office (ICO). You can contact the ICO by telephone on: 0303 123 1113.</p>
 
-<p>MelodyLoops.com uses non-personally identifiable information so that:</p>
-<p>We can improve the quality and design of our website and services and to create new features and functionality</p>
-<p>We can monitor the effectiveness of our marketing campaigns</p>
-<p>We can monitor aggregate metrics such as total number of visitors, pages viewed, etc.</p>
 
-<div class="subtitle">Changes to this Privacy Policy</div>
-
-<p>Anytime MelodyLoops.com may make changes to this Privacy Policy at its sole discretion. If we make changes, we will post them on our site. Please revisit this page to stay informed of the current policy and any changes. Any changes will be reflected in the "effective date" below. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.</p>
+<p>If you wish to request any of the above information, please send an e-mail to: <a href="mailto:support@melodyloops.com">support@melodyloops.com</a>. Alternatively, you can write us at: Melody Loops LP, Suite 4082, Mitchell House, 5 Mitchell Street, Edinburgh, EH6 78D, Scotland, UK.</p>
 
 </div><div style="clear:both"></div>
 <div class="futar">
@@ -713,8 +747,8 @@ We also safeguard your personal information from unauthorized access, through ac
 
 
 
-<div class="descr">Download royalty free background music for any use.</div>
-<div class="copy">© 2007-2017 Melody Loops</div>
+<div class="descr">Download royalty free  background music for any use.</div>
+<div class="copy">© 2007-2019 Melody Loops</div>
 
 </div>
 
@@ -731,10 +765,10 @@ We also safeguard your personal information from unauthorized access, through ac
 
 <ul>
    <li class="ttl">Find Music</li>
-   <li><a href="/music-for/video/">Music For Videos</a></li>
-   <li><a href="/music-for/presentation/">Music For Presentations</a></li>  
-   <li><a href="/music-for/games/">Music For Games</a></li>
-	<li><a href="/music-for/kids/">Music For Kids</a></li>
+   <li><a href="/music-for/on-hold/">Music On Hold</a></li>
+   <li><a href="/music-for/presentation/">Music For Presentation</a></li>
+   <li><a href="/music-for/podcasts/">Music For Podcasts</a></li>  
+   <li><a href="/music-for/ads/">Music for ADs</a></li>
    <li><a href="/music/bestsellers/">All Time Bestsellers</a></li>
    <li><a href="/music/free/">Free Music Downloads</a></li>
 </ul>
@@ -765,48 +799,12 @@ We also safeguard your personal information from unauthorized access, through ac
 
 
 
-
-<link rel="stylesheet" href="/js/player/vendor/css/vendor-59b6c8ff.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
-<link rel="stylesheet" href="/js/player/app/css/app-bdec38f7-alt.css">
-
- <script type="text/javascript" src="/js/swfobject.js"></script>
-<script type="text/javascript" src="/js/jquery.js"></script>
-<script type="text/javascript" src="/js/js-new.js"></script>
-<script src="/js/player/vendor/js/vendor-cbb7e1bb.min.js"></script>
-  <script src="/js/player/app/js/app.min.js"></script>
-<script type="text/javascript">
-
-			var r = Math.round(407407407 * Math.random());
-			var n = 3;
-		if(swfobject.hasFlashPlayerVersion("9.0.18"))
-		{
-			
-
-			var flashvars = {};
-
-			flashvars.players = 0;
-			flashvars.uid = r;
-
-			var params = {};
-			params.menu = "false";
-
-			var attributes = {};
-			attributes.id = "mlserver";
-			attributes.name = "mlserver";
-
-
-			swfobject.embedSWF("/fla/ml-server-v1.swf", "mlserver", "1", "1", "9.0.0",
-                   "expressInstall.swf", flashvars);
-
-			
-			attributes.id = "mlcart";
-			attributes.name = "mlcart";
-			swfobject.embedSWF("/fla/en/ml-cart-v3c.swf", "mlcart", "37", "30", "9.0.0",
-                   "expressInstall.swf", flashvars,params,attributes);
-            $(".cart_total").hide();
-	}
-	</script>
+<link rel="stylesheet" href="https://cdn2.melodyloops.com/js/player/app/css/app-ce92a4ec.css"><script type="text/javascript" src="https://cdn2.melodyloops.com/js/jquery.js"></script>
+<script type="text/javascript" src="/js/js-new-a3a.js"></script>
+<script src="https://cdn2.melodyloops.com/js/player/vendor/js/vendor-eea8abf6.min.js"></script>
+<script src="https://cdn2.melodyloops.com/js/player/app/js/app-3d9b2a75.min.js"></script>
 
 
 
