@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the puatraining.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221085132id_/http%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puatraining.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616124456id_/https%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information and is compliant with General Data Protection Regulation 2016/679.
 
 ### (1) What information do we collect?
 
@@ -22,19 +22,17 @@ We may collect, store and use the following kinds of personal data:
 
 During checkout you may be asked to enter your payment details on the payment page. This page is encrypted with SSL security.
 
-Credit card information processing is handled by Paypal.
-
 ### (3) Cookies
 
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We may use both "session" cookies and "persistent" cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit.
+We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit.
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html.
 
 Our advertisers/payment services providers may also send you cookies.
 
-Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.) This will, however, have a negative impact upon the usability of many websites including this one.
+Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites including this one.
 
 ### (4) Using your personal data
 
@@ -58,7 +56,7 @@ We may use your personal information to:
 
 (h) send to you marketing communications relating to our business which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
 
-(i) provide third parties with statistical information about our users Ğ but this information will not be used to identify any individual user;
+(i) provide third parties with statistical information about our users Ð but this information will not be used to identify any individual user;
 
 (j) deal with enquiries and complaints made by or about you relating to the website;
 
@@ -114,8 +112,26 @@ Please let us know if the personal information which we hold about you needs to 
 
 ### (12) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info@puatraining.com or by post to Flat C, Coventry House, 5-6 Coventry St, London W16 6BW
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info@puatraining.com or by post to PUA Training s.a.r.l. registered in France – 12 Boulevard de Clichy, 75018, Paris, France.
 
 ### (13) Data controller
 
-The data controller responsible for our website is PUA Training Ltd.
+The data controller responsible for our website is PUA Training Ltd.
+
+### **(14)  GDPR Rights for visitors**
+
+If you are located within the European Union, you are entitled to certain information and have various rights under the General Data Protection Regulation. Those rights include:
+
+We will retain the any information you choose to provide to us until the earlier of: (a) you asking us to delete the information, (b) our decision to cease using our existing data providers, or (c) the Company decides that the value in retaining the data is outweighed by the costs of retaining it.
+
+You have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data.
+
+You have the right to seek restrictions on the processing of your data.
+
+You have the right to object to the processing of your data and the right to the portability of your data.
+
+To the extent that you provided consent to the Company’s processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
+
+You have the right to lodge a complaint with a supervisory authority that has jurisdiction over issues related to the General Data Protection Regulation.
+
+We require only the information that is reasonably required to enter into a contract with you. We will not require you to provide consent for any unnecessary processing as a condition of entering into a contract with us.
