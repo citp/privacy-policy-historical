@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the organifishop.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228003505id_/https%3A//www.organifishop.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organifishop.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616151658id_/https%3A//www.organifishop.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyPrivacy Policy
+# Privacy Policy
 
 Welcome to the Website of Organifi LLC., a California company (“Organifi, “we,” or “us”). This privacy policy describes how we collect, use, disclose and otherwise process Personal Information from users of our Website at [www.organifishop.com](http://www.organifishop.com/), and subsidiaries thereof (the “website”) and our account management services through our customer portal on the website, our email processing operations, and our customer service contact center, as well as all related applications, widgets, software, tools, and other services provided by us or on which a link to this policy is displayed (collectively, together with the Site and our service, our “services”). By purchasing any of our products, you consent to the collection and use of Personal Information in accordance with this policy. Unless separately defined in this Privacy Policy, all terms used with initial letters capitalized in this policy have the meanings set forth in our Terms of Service or in this privacy policy.
 
@@ -124,8 +124,8 @@ Direct Mail:
 
 Fitlife.tv & Organifi Headquarters: 
 
-1320 Columbia St. #310
+7535 Metropolitan Dr.
 
-San Diego, CA 92101
+San Diego, CA 92108
 
 USA
