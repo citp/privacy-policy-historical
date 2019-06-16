@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalinsurrection.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204030717id_/https%3A//legalinsurrection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalinsurrection.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616163048id_/https%3A//legalinsurrection.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **PRIVACY POLICY**
 
-WAJ Media LLC dba Legal Insurrection® and College Insurrection (“Insurrection” or “Company”) considers the privacy of the users of [www.legalinsurrection.com](http://www.legalinsurrection.com/) and [www.collegeinsurrection.com](http://www.collegeinsurrection.com/) and its Insurrection Blog affiliates (the “Website”) to be of utmost importance and works to protect it. Insurrection recognizes that you may be concerned about Insurrection’s collection, use, and disclosure of the personally identifiable information (“Personal Information”) that is collected when you use the Website and the services offered on the Website (the “Services”). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website and the Services you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at [contact@legalinsurrection.com](mailto:contact@legalinsurrection.com).
+WAJ Media LLC dba Legal Insurrection and College Insurrection, and effective March 1, 2019, the [Legal Insurrection Foundation ](https://legalinsurrectionfoundation.org/) (“Insurrection” or “Company”), considers the privacy of the users of [www.legalinsurrection.com,](http://www.legalinsurrection.com/) [www.collegeinsurrection.com](http://www.collegeinsurrection.com/), and [www.legalinsurrectionfoundation.org](https://legalinsurrectionfoundation.org/)  (the “Website”) to be of utmost importance and works to protect it. Insurrection recognizes that you may be concerned about Insurrection’s collection, use, and disclosure of the personally identifiable information (“Personal Information”) that is collected when you use the Website and the services offered on the Website (the “Services”). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website and the Services you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at [contact@legalinsurrection.com](mailto:contact@legalinsurrection.com).
 
 Insurrection collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the Website and the Services. Insurrection also collects other profile data including but not limited to: political influences, gender, age, and occupation in order to assist users in properly utilizing the Services.
 
@@ -64,10 +64,10 @@ If you would like to change, update, or delete your personal information at any 
 
 We may send you messages and updates about Insurrection, our Services, affiliates, promotions, etc. If you prefer not to receive non-transaction information, please send us an email at [contact@legalinsurrection.com](mailto:contact@legalinsurrection.com).
 
-All contents of the Services and any other service provided hereunder are © 2012 Legal Insurrection and College Insurrection, respectively, or its licensors. Photographs and illustrations are copyrighted by their respective owners, as noted in the credits.
+All contents of the Services and any other service provided hereunder are © Legal Insurrection and College Insurrection and the Legal Insurrection Foundation, respectively, or its licensors. Photographs and illustrations are copyrighted by their respective owners, as noted in the credits.
 
-Copyright © 2012-2018 Legal Insurrection and College Insurrection.   All rights reserved.
+Copyright © 2012-2019.   All rights reserved.
 
 Effective Date:  August 21, 2012
 
-Last updated:  August 16, 2018
+Last updated:  March 1, 2019
