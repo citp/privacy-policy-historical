@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-cert.gov privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625134106id_/https%3A//www.us-cert.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-cert.gov privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616110351id_/https%3A//www.us-cert.gov/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Homeland Security
 
@@ -6,7 +6,7 @@ Thank you for visiting the Department of Homeland Security online and reviewing 
 
 PII includes information that is personal in nature and which may be used to identify you.  You may provide PII to us when you send us an e-mail message or a request for information, when you fill out a questionnaire or customer satisfaction survey, when you participate in a research study, etc. We do not require you to register or provide PII to visit our website. We do collect some technical information that does not include PII when you visit to make your visit seamless. The section below explains how we handle and collect information when you visit www.dhs.gov.
 
-The PII you provide on a Department website will be used only for the purpose for which you provided it. We will protect your information consistent with the principles of the [Privacy Act of 1974](http://www.justice.gov/opcl/privacyact1974.htm), the [E-Government Act of 2002](http://www.it.ojp.gov/default.aspx?area=privacy&page=1287#contentTop), and the [Federal Records Act](http://www.archives.gov/records-mgmt/laws/).
+The PII you provide on a Department website will be used only for the purpose for which you provided it. We will protect your information consistent with the principles of the _Privacy Act of 1974_ , the _E-Government Act of 2002_ , and the _Federal Records Act_.
 
 ## Privacy Policy Contact Information
 
