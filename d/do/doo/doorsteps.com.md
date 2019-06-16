@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doorsteps.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108140817id_/https%3A//www.doorsteps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doorsteps.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616191021id_/https%3A//www.doorsteps.com/privacy) for the most accurate reproduction.*
 
 # Doorsteps Rent Privacy Statement
 
