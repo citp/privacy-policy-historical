@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getrichslowly.org privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031045313id_/https%3A//www.getrichslowly.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrichslowly.org privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616152512id_/https%3A//www.getrichslowly.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
@@ -10,7 +10,7 @@
 
 
 
-In the blog and its products, we aim to make it as simple as possible for you to control what's visible to the public, seen by search engines, kept private, and permanently deleted. **You can contact us any time via[the contact form](https://www.getrichslowly.org/contact/) if you have any questions about the site or its policies.**
+In the blog and its products, we aim to make it as simple as possible for you to control what's visible to the public, seen by search engines, kept private, and permanently deleted. **You can contact us any time via the contact form if you have any questions about the site or its policies.**
 
 GetRichSlowly.org officially operates under a small company called Computer Resources Northwest LLC, which will hereafter in this document be referred to as “CompResNW.” It is CompResNW's policy to respect your privacy regarding any information it may collect while operating this website and other websites that operate under CompResNW.
 
@@ -87,7 +87,7 @@ Still, CompResNW reserves the right to do so for any reason.
 
 ### Correspondence sent via contact form
 
-GetRichSlowly.org has a [contact form](https://www.getrichslowly.org/contact/) that website visitors may use to get in touch with us. Plus, it's not exactly tough to guess J.D.'s email address. This content may be published on the blog, with personally-identifying information removed. We will almost always ask permission before doing so, but reserve the right to publish non-personally-identifying content copied from inbound contact form emails without the user's permission, in the event that we believe it has value to other visitors of CompResNW's websites.
+GetRichSlowly.org has a contact form that website visitors may use to get in touch with us. Plus, it's not exactly tough to guess J.D.'s email address. This content may be published on the blog, with personally-identifying information removed. We will almost always ask permission before doing so, but reserve the right to publish non-personally-identifying content copied from inbound contact form emails without the user's permission, in the event that we believe it has value to other visitors of CompResNW's websites.
 
 If the visitor requests beforehand that it not be published, or expressly denies permission beforehand when asked, it will not be published.
 
