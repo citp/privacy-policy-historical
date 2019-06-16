@@ -1,161 +1,216 @@
-> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816195429id_/http%3A//www.zalora.sg/pdp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616053736id_/http%3A//www.zalora.sg/pdp) for the most accurate reproduction.*
 
-# Zalora Personal Data Protection Policy
+# Privacy Policy - ZALORA Personal Data Protection Policy
 
-This is the Zalora Personal Data Protection Policy (“Personal Data Protection Policy”) and the purpose of this document is to inform you of how Jade E-Services Singapore Pte. Ltd. (“Zalora”) manages, collects, uses and discloses your Personal Data, which is subject to the Singapore Personal Data Protection Act (No. 26 of 2012) (“the Act”).
+Last updated on: September 28, 2018
 
-When you submit information to us, or sign up as a customer on our website to purchase, view or otherwise surf any of the products or services offered by us (the “Products and Services”), you agree and consent to Zalora (including its related corporations and business units) (collectively, the "Companies"), as well as their respective representatives and/or agents collecting, using, disclosing and sharing amongst themselves your Personal Data, and disclosing such Personal Data to the Companies' authorised service providers and relevant third parties in the manner set forth in this Personal Data Protection Policy.
-
-This Personal Data Protection Policy supplements but does not supersede nor replace any other consents you may have previously provided to Zalora in respect of your Personal Data.
-
-Zalora may update this Personal Data Protection Policy to ensure that it is consistent with industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of the Personal Data Protection Policy as updated from time to time on our [website](https://www.zalora.sg/pdp/)
-
-**Personal Data**  
+**INTRODUCTION**  
 
 
-In this Personal Data Protection Policy, “Personal Data” refers to any data, whether true or not, about an individual who can be identified (a) from that data; or (b) from that data and other information to which we have or are likely to have access, including data in our records as may be updated from time to time. 
+ZALORA takes its responsibilities in relation to protecting your Personal Data and compliance with Applicable Laws very seriously. We are committed to properly managing, protecting and processing your Personal Data in accordance with this Policy, which shall apply to all Personal Data we collect from you through our Platforms. 
 
-Examples of such Personal Data you may provide to us include your name, NRIC, passport or other identification number, telephone numbers, mailing address, email address, network data and any other information relating to any individuals which you have provided us in any forms you may have submitted to us, or via other forms of interaction with you. 
+Please read and review this Policy, which will inform you how we collect, use, process and disclose your Personal Data. We may also collect and process your Personal Data under any exceptions to Applicable Laws, which are not set out in this Policy. We trust that it will assist you in making an informed decision whether to provide us with any of your Personal Data. 
 
-**Collection of Personal Data**
+For the purposes of understanding ZALORA’s Personal Data Protection Policy (“Policy”), capitalised terms used in this Policy shall have the following meanings:
 
-Generally, Zalora collects Personal Data, either directly from you or from your authorised representatives (i.e. persons whom you have authorised, persons who have been validly identified as being you or your authorised representative pursuant to our then-current security procedures), from third parties, or from publicly available sources or through our website in the following ways:
-
-  1. when you submit a form for registering as a customer on our website or any other forms relating to any of our Products and Services
-  2. when you interact with our customer service team, for example, via telephone calls, letters, face-to-face meetings and emails
-  3. when you use some of our services, for example, websites and apps including establishing any online accounts with us
-  4. when you request that we contact you, be included in an email or other mailing list
-  5. when you respond to our promotions, initiatives or to any request for additional Personal Data
-  6. when you are contacted by, and respond to, our marketing representatives and customer service team
-  7. when we receive references from business partners and third parties, for example, where you have been referred by them
-  8. when you submit your Personal Data to us for any other reasons.
+  1. **“Applicable Laws”** means Singapore’s Personal Data Protection Act 2012 and its subsidiary legislations and regulations as amended from time to time;
+  2. **"Apps"** means our ZALORA mobile app on iOS and Android and any other app we may own or operate from time to time;
+  3. **“Personal Data”** means any data, whether true or not, which is (a) about an individual who can be identified (i) from that data; or (ii) from that data and other information to which we have or are likely to have access and would include data in our records as may be updated from time to time, or (b) defined as “personal data” or “personal information” under any applicable Data Protection Laws.
+  4. **“Platforms”** means collectively ZALORA’s Apps, Social Media and Website, and any other websites or applications which we may own or operate from time to time;
+  5. **“Social Media”** means ZAlORA’s pages and accounts on third party social media platforms such as Instagram, Facebook, Twitter, Pinterest and Google+’
+  6. **“Website”** means the ZALORA website accessed at the following address www.zalora.sg; and 
+  7. **“ZALORA, we, us, or our”** means Jade E-Services Singapore Pte Ltd or its wholly owned subsidiary ZALORA South East Asia Pte Ltd.
 
 
 
-When you browse our website, you generally do so anonymously but please see paragraph 7 below on cookies
+During our relationship with you, we may collect Personal Data from you. Examples of the types of Personal Data we may collect include your name, contact details, mailing and delivery addresses, email address, birthday, network and device data (including your IP address and device or advertising identifiers), your shopping or browsing behaviours, facial image, voice recording (for customer service calls) and any other personally identifiable information which you have provided us in any forms you may have submitted to us, or in the course of any other forms of interaction between you and us.
 
-If you provide us with any Personal Data relating to a third party (e.g. information of your spouse, children, parents, and/or employees), by submitting such information to us, you represent to us that you have obtained the consent of the third party to provide us with their Personal Data for the respective purposes.
+If you provide us with Personal Data relating to a third party by submitting such Personal Data to us, you represent to us that you have obtained the consent of the third party to provide us with their Personal Data for the respective purposes.
 
-You should ensure that all Personal Data submitted to us is complete, accurate, true and correct. Failure on your part to do so may result in our inability to provide you with the Products and Services you have requested.
+By (1) clicking “Yes” on our Policy pop-up or any web form referring to this Policy on any of our online platforms, (2) submitting your Personal Data to us when signing up for an account on the Website, (3) browsing our Website, or (4) ordering any of our products and services, you are agreeing to the terms of this Policy.
 
-**Purposes for the Collection, Use and Disclosure of Personal Data**
+We may update this Policy to ensure that it is consistent with industry trends and/or any changes in legal or regulatory requirements. You agree to be bound by the prevailing terms of the Policy as updated from time to time. We will endeavour to notify you by email or by notice on the Website of any material changes to the Policy.
 
-Zalora collects, may use and disclose your Personal Data for the following purposes: 
+**HOW DO WE COLLECT YOUR PERSONAL DATA?**
 
-  1. responding to your queries and requests; 
-  2. managing the administrative and business operations of Zalora and complying with internal policies and procedures; 
-  3. facilitating business asset transactions (which may extend to any mergers, acquisitions or asset sales) involving any of the Companies; 
-  4. matching any Personal Data held which relates to you for any of the purposes listed herein; 
-  5. resolving complaints and handling requests and enquiries; 
-  6. preventing, detecting and investigating crime and analyzing and managing commercial risks; 
-  7. providing media announcements and responses;
-  8. monitoring or recording phone calls and customer-facing interactions for quality assurance, employee training and performance evaluation and identity verification purposes;
-  9. organising promotional events; 
-  10. legal purposes (including but not limited to obtaining legal advice and dispute resolution);
-  11. conducting investigations relating to disputes, billing or fraud; 
-  12. meeting or complying with any applicable rules, laws, regulations, codes of practice or guidelines issued by any legal or regulatory bodies which are binding on Zalora (including but not limited to responding to regulatory complaints, disclosing to regulatory bodies and conducting audit checks, due diligence and investigations); and 
-  13. purposes which are reasonably related to the aforesaid.
+We collect Personal Data from you when:
+
+  1. You register an account on the Website or the Apps;
+  2. You use any of our related services, such as subscribing to our newsletter, product notifications;
+  3. You browse our products and services or otherwise interact with our Website and Apps;
+  4. You accept our cookies on your device;
+  5. You interact with our customer experience team or other representatives, for example, via our webform, emails, telephone calls, letters, or face-to-face meetings;
+  6. You interact with us on our Social Media, such as liking our posts, commenting on our posts, private messaging us on our Social Media;
+  7. You participate in our promotions, lucky draws, initiatives or any request for additional Personal Data such as customer surveys;
+  8. We receive references from business partners and third parties, for example, where they referred you to us to enjoy the benefits of a joint promotion or collaboration or to redeem a voucher you purchased through them;
+  9. Your authorized representative submits your Personal Data to us for any purpose reasonably authorized by you, for example if such representative is purchasing our product or service to be delivered to you or as a gift;
+  10. Our third-party analytics and other service providers provide your Personal Data to us, which was collected and processed by them and disclosed to us pursuant to their separate privacy policies; or
+  11. When you voluntarily submit your Personal Data to us for any reason.
 
 
 
-Where permitted under the Act: 
+We usually do not collect your credit card details, whether to process your payment or for customer service purposes. Your credit card details are collected, processed and stored directly by our third-party payment processors pursuant to their terms of use and privacy policies. None of your credit card details are stored with us. However, we may collect your bank account details to process refunds.
 
-  1. Zalora may also collect, use and disclose your Personal Data for the following “Additional Purposes”: 
-    1. analytics and tracking,
-    2. conducting market research and surveys to enable us to understand and determine customer location, preferences and demographics to develop special offers and marketing programmes in relation to Zalora's Products and Services, and to improve our service delivery and your customer experience at our touchpoints;
-    3. providing additional Products and Services and benefits to you, including promotions, loyalty and reward programmes from Zalora;
-    4. matching Personal Data with other data collected for other purposes and from other sources (including third parties) in connection with the provision, marketing or offering of Products and Services by Zalora;
-    5. leads generation and management for marketing Zalora's Products and Services;
-    6. administering contests, competitions and marketing campaigns, and personalising your experience at Zalora’s touchpoints;
-    7. communicating to you advertisements involving details of our Products and Services, special offers and rewards, either to our customers generally, or which we have identified may be of interest to you (including but not limited to upselling, cross selling and online marketing);
-    8. organising promotional events and corporate social responsibility projects; and
-    9. purposes which are reasonably related to the aforesaid. 
+We may also collect your Personal Data in circumstances where such collection does not require consent under Applicable Laws.
 
-In addition, where permitted under the Act and subject to the provisions of any applicable law, your Personal Data may be disclosed, for Zalora Additional Purposes, to the vendors or other third party service providers in connection with promotions and services offered by Zalora.
+Please ensure that all Personal Data submitted to us is complete, accurate, true and correct. Failure to do so may result in our inability to provide you with the products and services you have requested.
 
-  2. Zalora may also collect, use and disclose your Personal Data for the following “Preferred Partners Additional Purposes”: 
-    1. conducting market research and surveys to enable us to understand and determine customer location, preferences and demographics to develop special offers and marketing programmes with our preferred partners;
-    2. matching Personal Data with other data collected for other purposes and from other sources (including third parties) in connection with the provision, marketing or offering of products and services (including promotions, loyalty and reward programmes) by our preferred partners;
-    3. leads generation and management for marketing the products and services offered by our preferred partners;
-    4. administering contests, competitions and marketing campaigns in connection with the products and services offered by our preferred partners;
-    5. communicating to you advertisements involving details of the products, services, special offers and rewards offered by our preferred partners, either to our customers generally, (including but not limited to upselling, cross selling and online marketing); and
-    6. purposes which are reasonably related to the aforesaid. 
+**HOW WILL YOUR DATA BE USED?**
 
-In addition, where permitted under the Act and subject to the provisions of any applicable law, your Personal Data may be disclosed, for Preferred Partners' Additional Purposes, to the vendors or other third party service providers in connection with promotions and services offered by Zalora’s preferred partners.
+We may use and disclose your Personal Data for purposes necessary to provide you with our products as services, including to:
+
+  1. register and maintain your user account and to verify your identity or age; 
+  2. process your order for our products or services, process or collect your payment for the order;
+  3. deliver or perform the products or services you purchased, including our couriers calling or messaging you to obtain your delivery instructions; 
+  4. process your returns or refunds in accordance with our Terms of Service;
+  5. provide you with supporting services and functions related to your user account, such as saved items in cart, wish list, brand or product notifications;
+  6. communicate with you in relation to (i) your queries, requests and feedback, (ii) material changes to our Website or Apps Terms of Service, Policy or other terms and conditions, and (iii) matters relating to the operation of your account;
+  7. personalise and improve your customer experience when you visit the Website and the Apps, for example by prioritizing products and services appearing in your search results or feed;
+  8. monitor and enforce compliance with our Terms of Service, including dispute resolution;
+  9. comply with (i) internal risk controls, (ii) the terms of our access to payment processing, financial or banking services such as credit card disputes, fraud, billing errors, or (iii) any applicable law; and 
+  10. ensure our Website and Apps function properly and to improve their performance, by carrying out activities such as debugging, statistical analyses for optimizing our Website and Apps.
+
+(collectively, the **"Purposes"** )
 
 
 
 
-If you have provided your Singapore telephone numbers Zalora may contact you using such Singapore telephone numbers (including via voice calls, sms, fax or other means) with information about our Products and Services or those products and services offered by our preferred partners (including discounts, flash sales and special offers).
+In addition, we may use and disclose your Personal Data for the following purposes, to:
 
-In relation to particular Products and Services or in your interactions with us, we may also have specifically notified you of other purposes for which we collect, use or disclose your Personal Data. If so, we will collect, use and disclose your Personal Data for these additional purposes as well, unless we have specifically notified you otherwise.
+  1. send you marketing communications in relation to our sales, products, services, promotions or the Platforms;
+  2. send you marketing communications in relation to the sales, products, services or promotions of business partners, including promotional mail together with your order;
+  3. deliver ads which are related to our products and services which may be of interest to you on the Platforms or other websites, apps or online platforms;
+  4. enable businesses to deliver ads which are related to their products and services which may be of interest to you;
+  5. provide you with our add-on or premium services such as ZALORA NOW;
+  6. invite you to our private customer events;
+  7. process your participation in our promotions, lucky draws, initiatives or any request for additional Personal Data such as customer surveys;
+  8. process your participation in our business partners’ loyalty or point redemption programs;
+  9. conduct market and customer research, analysis or tracking;
+  10. promote our products and services on our Platforms;
+  11. manage the administrative and business operations of ZALORA and complying with internal policies and procedures;
+  12. improve your customer experience across all touchpoints and training our customer experience team, such as by recording and monitoring phone calls; and
+  13. any specific purpose in relation to a particular product or service, which we may separately notify you on the product or service page; 
 
-When you shop on Zalora’s website, we may send you promotional/marketing material via mail along with your order package.
+(collectively, the **“Additional Purposes”** )
 
-Should you wish to withdraw your consent for us to send you sales, marketing or promotional information via a specific mode, please inform us as follows:
+
+
+
+We may also use your Personal Data (a) for other purposes which are reasonably related to the Purposes and where we have obtained and maintain related consent, the Additional Purposes; or (b) in circumstances where such use does not require consent under Applicable Laws.
+
+Note: If you withdraw your consent for us to use and process your Personal Data the Purposes or the Additional Purposes, we may no longer be able to provide you with the related products, services or benefits associated with our promotion.
+
+**WHO WILL YOUR PERSONAL DATA BE SHARED WITH?**
+
+In relation to our use of your Personal Data for the Purposes or Additional Purposes, we may disclose your Personal Data to our:
+
+  1. employees, consultants, temporary workers;
+  2. ZALORA Marketplace sellers, who supply and deliver the products or services you ordered through the Website or Apps;
+  3. payment processors, who process your payment on the Website and the Apps;
+  4. logistics providers, such as courier services which will deliver your order to you;
+  5. business partners who separately maintain an account with you for loyalty or point redemption programs, such as AirAsia Big Loyalty, NTUC Plus!, CapitaStar etc;
+  6. business partners or vendors in connection with the processing of any promotion, event or service organised by us;
+  7. professional advisers and consultants;
+  8. agents, contractors or service providers who provide operational services to us, such as online cloud storage and processing, marketing optimization, information technology, telecommunications, security or other relevant services which requires their collection, use or disclosure of your Personal Data; and
+  9. any other party whom you authorize us to disclose your Personal Data to.
+
+
+
+We may also disclose your Personal Data (a) for other purposes which are reasonably related to the Purposes and where we have obtained and maintain related consent, the Additional Purposes; or (b) in circumstances where such disclosure does not require consent under the Applicable Laws.
+
+We do our best to minimize the disclosure of your Personal Data to the information necessary to perform the related Purpose or Additional Purpose. 
+
+**HOW CAN I ACCESS OR CORRECT MY PERSONAL DATA?**
+
+You may access or correct your name, birthday, shipping and billing addresses by logging in to your user account on the Website or Apps under “Account Information” and clicking the “Edit” button under each relevant field.
+
+For Personal Data that cannot be corrected by you by logging in to your user account on the Website or Apps, you may request to access and correct such Personal Data by submitting a written request to us via our [customer service feedback form](https://support.zalora.sg/hc/en-us/categories/200420427-Contact-Us) or by emailing our Data Protection Officer at dpo@zalora.com. We may need to request additional information from you to confirm your identity before providing the access or making the correction. 
+
+We will do our best to respond to Personal Data access and correction requests within 30 days. Where we are unable to meet this timeline, we will update you with the soonest possible time within we can provide the information or make the correction. Please note that certain types of Personal Data access and correction requests may be exempt under Applicable Laws.
+
+Note that we may charge you a reasonable fee for the handling and processing your Personal Data access request. 
+
+We will send your corrected Personal Data to every other person or entity to which such Personal Data was disclosed by ZALORA within the year before the date of the correction, unless such person or entity does not need the corrected Personal Data for any legal or business purpose. 
+
+Subject to obtaining your consent, we may send the corrected Personal Data only to specific organisations to which the Personal Data was disclosed by us within a year before the date the correction was made.
+
+**REQUEST TO WITHDRAW CONSENT**
+
+If you wish to withdraw your consent for us to send you sales, marketing or promotional information, please inform us as follows:
 
   1. to withdraw consent from receiving SMS promotions: please unsubscribe by following the steps provided in the promotional SMS;
   2. to withdraw consent from promotional emails: please click on the Unsubscribe link in the promotional emails;
-  3. to withdraw consent from receiving promotional material with your order package: please email customer service, with the words “PERSONAL DATA” in the subject line, at the address provided below.
+  3. to withdraw consent from receiving promotional material with your order package: please email our Data Protection Officer at the email address provided below.
 
 
 
-Please be aware that once we receive confirmation that you wish to withdraw your consent for marketing or promotional materials/communication, it may take up to thirty (30) days for your withdrawal to be reflected in our systems. Therefore, you may still receive marketing or promotional materials/communication during this period of time. Please note that even if you withdraw your consent for the receipt of marketing or promotional materials through a specific mode, we may still contact you for other purposes in relation to the Products and Services that you hold or have subscribed to with Zalora.
+Once we receive notification that you wish to withdraw your consent for receiving marketing or promotional materials or communications, it may take up to thirty (30) days for your withdrawal to be reflected in our systems. Therefore, you may still receive marketing or promotional materials or communications during this period. 
 
-**Disclosure of Personal Data**
+If you withdraw your consent to receive marketing or promotional materials through a specific communication mode (e.g. SMS), we may still contact you for other purposes in relation to the products and services via other communication modes you have subscribed to (e.g. email).
 
-Zalora will take reasonable steps to protect your Personal Data against unauthorised disclosure. Subject to the provisions of any applicable law, your Personal Data may be disclosed, for the purposes listed above (where applicable), to the following:
+You may withdraw your consent for the collection, use and/or disclosure of any of your Personal Data in our possession or under our control by submitting a written request via email to our Data Protection Officer via [_dpo@zalora.com_](mailto:dpo@zalora.com). Note that, depending on the nature of the consent withdrawal, we may not be able to continue to provide you with some or all of our products or services. We will process such a request within a reasonable time from receiving notice from you of your withdrawal of consent. Once the processing is complete, we will no longer collect, use and/or disclose your Personal Data, except to the extent we retain your Personal Data for compliance, regulatory or other legal purposes.
 
-  1. Zalora’s related corporations and employees to provide content, Products and Services to you, address your questions and requests in relation to your customer accounts, subscription and billing or order arrangements with us as well as our Products and Services, to activate, deactivate, install, maintain and operate our systems and/or services;
-  2. companies providing services relating to insurance and consultancy to Zalora;
-  3. agents, contractors or third party service providers who provide operational services to Zalora, such as courier services, telecommunications, information technology, payment, printing, billing, payroll, processing, technical services, training, market research, call centre, security or other services to Zalora;
-  4. vendors or third party service providers in connection with marketing promotions and services offered by Zalora or its preferred partners;
-  5. commercial shops and retailers in relation to providing rewards and benefits;
-  6. any business partner, investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or asset sale) involving any of the Companies;
-  7. our professional advisers such as auditors and lawyers;
-  8. relevant government regulators, statutory boards or authorities or law enforcement agencies to comply with any laws, rules, guidelines and regulations or schemes imposed by any governmental authority; and
-  9. any other party to whom you authorise us to disclose your Personal Data to.
+**ADMINISTRATION AND MANAGEMENT OF PERSONAL DATA**
+
+We will make reasonable efforts to ensure Personal Data likely to be used by us or disclosed by us to another organization is accurate and complete. However, you should update us of any changes in your Personal Data. We will not be responsible for relying on inaccurate or incomplete Personal Data if you have not updated us of changes.
+
+We will also put in place reasonable security arrangements to ensure that your Personal Data is adequately protected and secured. This includes putting in place reasonable measures to prevent any unauthorized access, collection, use, disclosure, copying, modification, leakage, loss, damage or alteration of your Personal Data. However, we will not be responsible for any unauthorized use of Personal Data by third parties which is attributable to factors beyond our control.
+
+When Personal Data in our possession is (i) no longer required for any reason connected to the purpose it was originally collected or (ii) retention by us is no longer necessary for any other legal or business purposes, we will exercise measures to ensure such Personal Data is either destroyed or anonymised. 
+
+If Personal Data is transferred out of Singapore, we will comply with Applicable Laws in doing so. This includes: (i) obtaining your consent, unless an exception exists under Applicable Laws or any other laws, and (ii) taking reasonable steps to ascertain whether the foreign recipient of the Personal Data is bound to comply with standards of protection that are at least comparable to the Applicable Laws. 
+
+**INDIVIDUAL RIGHTS FOR USERS IN THE EUROPEAN ECONOMIC AREA**
+
+If you are located in the European Economic Area, you may seek confirmation regarding whether ZALORA is processing your Personal Data, request access to your Personal Data and ask that we correct, amend, delete, or restrict processing of your Personal Data. In addition, you may object to ZALORA’s processing of your Personal Data at any time. However, please note that doing so may impact your ability to access and use ZALORA’s Platforms and services.
+
+While ZALORA makes reasonable efforts to provide our users with access to their Personal Data, there may be circumstances in which we are unable to provide such access, including but not limited to: where the information in question is legally privileged, would compromise the privacy or other legitimate rights of other persons, where the burden or expense of providing access would be disproportionate to the risks to your privacy, where the request is clearly excessive or unfounded, or where the information requested comprises proprietary business information.
+
+**THIRD PARTY COOKIES**
+
+ZALORA uses the services of third party vendors, who may implement cookies on the Website. Advertisements on the Website may be provided by third party agencies. These advertisements may also generate cookies, for example, to track how many people have viewed the advertisement. The collection, use, and disclosure of information, including Personal Data, collected by such third party cookies are subject to the privacy and data protections policies of the third party vendors and are not under our control.
+
+You may reject third party cookies through the settings on your browser. Note that this may result in the loss of Website functionality, restrict your use of the Website, or delay or affect the way in which the Website operates.
+
+#### Google Analytics
+
+ZALORA uses certain Google Analytics functions. Please see this [_link_](https://policies.google.com/technologies/partner-sites) for how your data is collected and this [_link_](https://support.google.com/analytics/answer/181881?hl=en) for instructions on how to opt-out of any Google Analytics data tracking.
+
+ZALORA may use Google Analytics features based on Display Advertising, including but not restricted to the following: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting. [_Using the Google Ads Settings_](https://adssettings.google.com/authenticated), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+
+ZALORA also uses Remarketing with Google Analytics to advertise online; third-party vendors, including Google, may show ZALORA ads on sites across the Internet. ZALORA and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitors’ past visits to ZALORA, as well as report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to ZALORA.
+
+When you log on to the ZALORA website, ZALORA with the help of Google Analytics may use your browsing behaviour to connect it with any other data that has previously been provided by you, in accordance with this policy.
+
+#### Sociomantic
+
+ZALORA uses Sociomantic's services, and Sociomantic's tags are implemented on ZALORA's sites to collect anonymous information about you. You may find out more about the information collected by Sociomantic, how it is used, and how you can opt out at https://www.sociomantic.com/privacy/en/.
+
+**CONTACTING US**
+
+For any questions relating to your Personal Data or about this Policy, if you have a complaint regarding the collection, use or handling of your Personal Data by us, or a question about how we are complying with Applicable Laws, you may contact our Data Protection Officer via one of the following methods:
+
+  1. Singapore telephone number: +65 3157 5555 
+  2. Email address: dpo@zalora.com
+  3. Office address: 10 Hoe Chiang Road, #18-01, Keppel Towers   
+Singapore 089315. 
 
 
-
-**Use of Cookies**
-
-A cookie is a small piece of information that is placed on your computer when you visit certain websites. Most websites like ours use cookies to enhance your online experience.
-
-Zalora uses cookies on its websites for the following purposes: 
-
-  1. enabling certain features and functions on our websites, eg. remembering your user-id, browsing and other service preferences
-  2. building up a profile of how you and other users use the website
-  3. improving the efficiency of our website
-  4. administering services to you and to advertisers; and
-  5. establishing usage statistics
-
-
-
-Most internet browsers provide you the option of turning off the processing of cookies (please see the “help” section of your browser), but this may result in the loss of functionality, restrict your use of the website and/or delay or affect the way in which it operates.
-
-Advertisements on the Zalora website may be provided by third party advertisers and their agencies. These may generate cookies to track how many people have seen a particular advertisement (or use the services of third parties to do this), and to track how many people have seen it more than once. Zalora does not control these third parties and their cookie policies and if you have questions about their cookie policies, please contact Zalora and we will try our best to assist by providing you information about these third party advertising agencies.
-
-Zalora is not responsible for the Personal Data policies (including Personal Data protection and cookies), content or security of any third party websites linked to the Zalora website.
-
-**Google Analytics**
-
-Zalora uses features of Google Analytics, please see this [_link_](http://www.google.com/policies/privacy/partners/) for how your data is collected and this [link](https://tools.google.com/dlpage/gaoptout) for how to opt-out of any Google Analytics tracking.
-
-As part of the above, Zalora may use Google Analytics features based on Display Advertising, including but not restricted to the following: Remarketing, Google Display Network Impression Reporting, DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting. Using the [_Google Ads Settings_](https://www.google.com/settings/ads), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
-
-Zalora also uses Remarketing with Google Analytics to advertise online; third-party vendors, including Google, may show Zalora ads on sites across the Internet. Zalora and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitors’ past visits to Zalora, as well as report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to Zalora.
-
-When you log on to the Zalora website, Zalora with the help of Google Analytics may use your browsing behaviour to connect it with any other data that has previously been provided by you, in accordance with this Personal Data Protection Policy.
-
-**Sociomantic**
-
-Zalora uses Sociomantic's services, and Sociomantic's tags are implemented on Zalora's sites to collect anonymous information about you. You may find out more about the information collected by Sociomantic, how it is used, and how you can opt out at https://www.sociomantic.com/privacy/en/
-
-**Contacting Us**
 
 For any questions relating to your Personal Data or about our Privacy Policy, you may contact our Data Privacy Officer at +65 3157 5555 or email [here](https://www.zalora.sg/contact).
 
-**Governing Law**
+Emails and letters should clearly state that you are making a data protection query, request or complain in the subject line to ensure the matter is dealt with expediently. We will strive to deal with any query, request or complaint promptly and fairly.
 
-This Personal Data Protection Policy and your use of this website shall be governed in all respects by the laws of Singapore.
+**GOVERNING LAW**
+
+This Policy and your use of this Website shall be governed in all respects by the laws of Singapore.
+
+**UPDATES ON DATA PROTECTION POLICY**
+
+As part of our efforts to ensure that we properly manage, protect and process your Personal Data, we will be reviewing our policies, procedures and processes from time to time. In this regard, ZALORA may update this Policy to ensure that it is consistent with industry trends and any changes in legal or regulatory requirements. We reserve the right to amend the terms of this Policy at our absolute discretion.
+
+Subject to your rights at law, you agree to be bound by the prevailing terms of the Policy as updated from time to time on our Website. Any amended Policy will be posted on our website and can be viewed at www.zalora.com/pdp. By continuing to use our Platforms and/or services after the Policy has been amended, you hereby agree to be bound by the terms of such amended Policy.
+
+You are encouraged to visit the above Website from time to time to ensure that you are well-informed of our latest policies in relation to Personal Data protection. 
+
+_Last updated on: September 28, 2018_
