@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simpleplanes.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709185117id_/http%3A//simpleplanes.com/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleplanes.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616224322id_/https%3A//www.simpleplanes.com/About/PrivacyPolicy) for the most accurate reproduction.*
 
-# SimplePlanes | Privacy Policy
+# 
 
 This privacy policy will explain what information we collect online, why we collect it, and the choices we offer to you.
 
@@ -36,7 +36,7 @@ We use DII to operate our Services and manage user sessions, including analyzing
 
 #### Third Parties
 
-While we strive to work with reputable companies with good privacy practices, this Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you on the Services. We also do not control the privacy policies and your privacy settings on third-party sites, including social networks. We may use third parties to help offer you more tailored ads and better Services, such as obtaining analytics about the users of our site and to help tailor advertising to your preferences. For further information, please see the relevant privacy policies for each third party and industry codes of conduct.
+While we strive to work with reputable companies with good privacy practices, this Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you on the Services. We are not liable for onward transfers to third parties or their third parties. We also do not control the privacy policies and your privacy settings on third-party sites, including social networks. We may use third parties to help offer you more tailored ads and better Services, such as obtaining analytics about the users of our site and to help tailor advertising to your preferences. For further information, please see the relevant privacy policies for each third party and industry codes of conduct.
 
 #### Legal Bases for Processing
 
@@ -69,12 +69,6 @@ Like many other companies, we do not honor DNT flags but instead offer other cho
 If you wish to similarly opt out of cross-app advertising on mobile devices, you can enable the Limit Ad Tracking flag on the device. Enabling Limit Ad Tracking sends a flag to third parties that you wish to opt out of targeted advertising on that device, and major mobile platforms require companies to honor this flag. Screenshots on how to find these options on various devices are available here: http://www.networkadvertising.org/mobile-choices.
 
 We aim to provide all users with the opportunity to access, update, and delete their data. Users covered under the EU General Data Protection Regulation (or similar laws) have the right to access their data, rectify mistakes, erase their data, restrict certain processing (i.e., opt out), move their data, withdraw consent, and lodge a complaint with a supervisory authority. In some cases, we may have to keep information for legitimate business or legal purposes or may be restricted for other reasons. Before updating your information, we may ask you to verify your identity and your country to determine your legal rights.
-
-#### International Transfers
-
-If we transfer personal information from the European Union to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
-
-For any questions or complaints regarding our compliance with either the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework, please contact us at games@jundroo.com. If we do not resolve your complaint, you may submit your complaint free of charge to the dispute resolution panel set forth by the data protection authorities, our designated independent dispute resolution provider (a panel established by the EU data protection authorities). Under certain conditions specified by the principles of the EU-U.S. and the Swiss - U.S. Privacy Shield Frameworks, respectively, you may also be able to invoke binding arbitration to resolve your complaint. We are also subject to the investigatory and enforcement powers of the US Federal Trade Commission. While we do our best to ensure our partners are also compliant, we are not liable for third parties’ processing of EU Data in violation of the Principles. We may be legally obligated to disclose personal information to authorities to meet national security, law enforcement, or other legal requirements.
 
 #### Data Security
 
