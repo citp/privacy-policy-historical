@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kizi.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220134506id_/https%3A//kizi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kizi.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616200643id_/https%3A//kizi.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | kizi.com
+# Privacy Policy | Kizi.com
 
 Kizi® is committed to protecting your privacy online. To further this commitment, we have adopted an online privacy policy that guides how we collect, store, and use information collected about you online. 
 
