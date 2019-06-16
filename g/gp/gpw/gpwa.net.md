@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpwa.net privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206043616id_/http%3A//www.gpwa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpwa.net privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616115758id_/http%3A//www.gpwa.org/privacy) for the most accurate reproduction.*
 
 # Gambling Portal Webmasters Association Privacy Policy
 
@@ -98,10 +98,10 @@ GPWA Customer Care - Privacy Policy Issues
 
 ## More Information
 
-  * [Cookies](https://web.archive.org/web/20181206043616id_/http%3A//www.gpwa.org/cookies.asp)
-  * [Web Beacons](https://web.archive.org/web/20181206043616id_/http%3A//www.gpwa.org/web_beacons.asp)
-  * [Advertising](https://web.archive.org/web/20181206043616id_/http%3A//www.gpwa.org/advertisers.asp)
-  * [Casino City Network](https://web.archive.org/web/20181206043616id_/http%3A//www.gpwa.org/ccnetwork.asp)
+  * [Cookies](https://web.archive.org/web/20190616115758id_/http%3A//www.gpwa.org/cookies.asp)
+  * [Web Beacons](https://web.archive.org/web/20190616115758id_/http%3A//www.gpwa.org/web_beacons.asp)
+  * [Advertising](https://web.archive.org/web/20190616115758id_/http%3A//www.gpwa.org/advertisers.asp)
+  * [Casino City Network](https://web.archive.org/web/20190616115758id_/http%3A//www.gpwa.org/ccnetwork.asp)
 
 
 
