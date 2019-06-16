@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the w3counter.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203074754id_/https%3A//www.awio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3counter.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616055739id_/https%3A//www.awio.com/privacy) for the most accurate reproduction.*
 
 # Awio Web Services LLC's Privacy Policy
 
-**Effective Date: 5/25/2018**
+**Effective Date: 4/22/2019**
 
 This Privacy Policy ("policy") applies to the websites: [www.awio.com](https://www.awio.com/), [www.improvely.com](https://www.improvely.com/), [www.w3counter.com](https://www.w3counter.com/), and [www.websitegoodies.com](https://www.websitegoodies.com/) (the "Websites", "Sites") owned and operated by Awio Web Services LLC (collectively "Awio", "we", "us", "our"). This Privacy Policy describes how Awio collects, uses, shares and secures the personal information you provide, as well as any personal information transferred to us for processing on behalf of our clients ("Client Data"). It also describes your choices regarding use, access and correction of your personal information. 
 
@@ -67,7 +67,7 @@ Except as described in the "Who We Share Information With" section below, Awio n
 
 Awio does not link any Personally Identifiable Data across multiple, different websites that are operated by different Clients, nor does it use any Client Data for purposes of behavioral advertising. However, Awio may analyze Client Data in the aggregate for purposes of internal research and/or to determine overall trends or metrics concerning how users are engaging with websites, and may report such general trends publicly, without disclosing any Client Data.
 
-Awio contractually requires its Clients to abide by all applicable laws, rules and regulations, including the Safe Harbor and Privacy Shield where it applies, as well as other applicable laws relating to privacy and data collection ("Applicable Laws"). Awio also contractually requires its Clients to obtain any necessary consents from visitors to its website(s) for the Client's use of Awio's services, comply with all Applicable Laws (including, as an example, the Safe Harbor and Privacy Shield where it applies) with respect to the transfer of Personally Identifiable Information of EU or Swiss subjects through the Service, and to post an online privacy policy that provides each visitor with clear notice of its practices regarding data collection, use, and disclosure (including the Client.s use of Awio's Services), along with a link to the Awio Privacy Policy and to the Awio Service Opt-Out (discussed below).
+Awio contractually requires its Clients to abide by all applicable laws, rules and regulations, including the Privacy Shield where it applies, as well as other applicable laws relating to privacy and data collection ("Applicable Laws"). Awio also contractually requires its Clients to obtain any necessary consents from visitors to its website(s) for the Client's use of Awio's services, comply with all Applicable Laws (including, as an example, the Privacy Shield where it applies) with respect to the transfer of Personally Identifiable Information of EU or Swiss subjects through the Service, and to post an online privacy policy that provides each visitor with clear notice of its practices regarding data collection, use, and disclosure (including the Client.s use of Awio's Services), along with a link to the Awio Privacy Policy and to the Awio Service Opt-Out (discussed below).
 
 Awio cannot be held responsible for any Client's failure to make these disclosures on its website or for any Client's use or collection of Client Data that is not permitted under this Privacy Policy or otherwise.
 
@@ -144,8 +144,8 @@ We may update this Privacy Policy to reflect changes to our information practice
 
 In compliance with the Principles, Awio commits to resolve any complaints about your privacy and our collection, use, or disclosure of your personal information. If you have any inquiries or complaints regarding this Policy or our compliance with Privacy Shield, you should first contact Awio at: 
 
-Email: [dan@awio.com](https://web.archive.org/web/20181203074754id_/https%3A//www.awio.com/dan@awio.com)  
-Postal mail: Awio Web Services LLC, 219 Chatham Pl., Lansdale, PA 19446 
+Email: [dan@awio.com](https://web.archive.org/web/20190616055739id_/https%3A//www.awio.com/dan@awio.com)  
+Postal mail: Awio Web Services LLC, 6608 Truxton Ln, Raleigh, NC 27616 
 
 * * *
 
