@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlockroot.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226210140id_/https%3A//cleverfiles.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockroot.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616135601id_/https%3A//www.cleverfiles.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mac Data Recovery
 
