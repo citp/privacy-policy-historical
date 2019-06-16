@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the psdgraphics.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212123801id_/http%3A//www.psdgraphics.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdgraphics.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616122012id_/https%3A//www.psdgraphics.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.psdgraphics.com | PSDGraphics
 
 Effective date: October 25, 2018
 
-PSDgraphics.com (“us”, “we”, or “our”) operates the http://www.psdgraphics.com/ website (the “Service”).
+PSDgraphics.com (“us”, “we”, or “our”) operates the https://www.psdgraphics.com/ website (the “Service”).
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for PSDgraphics.com is managed through [Free Privacy Policy](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php).
 
