@@ -1,90 +1,186 @@
-> *The following text is extracted and transformed from the daptiv.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911030035id_/http%3A//www.daptiv.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daptiv.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616125109id_/https%3A//www.changepoint.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# We are committed to protecting your privacy | Changepoint
 
-**DAPTIV SOLUTIONS, LLC POLICY**
+Effective date: January 4, 2019
 
-Privacy Statement Effective as of April 01, 2014
+## _We’re committed to protecting your privacy._
 
-Daptiv Solutions, LLC (" **Daptiv** ")is committed to protecting the privacy of your personal information. This privacy policy (" **Policy** ")explains how Daptiv collects and utilizes personal information provided in connection with the use Daptiv’s products and services such as the Daptiv website (the " **Site** "), the online project management application or other Daptiv products and services (the  " **Daptiv Offerings** "). Because data is collected from our visitors to the Site and end users of the Daptiv Offerings (the  " **Subscribers** "), Daptiv has established this Policy to communicate Daptiv’s information gathering policies and dissemination practices. For a printable pdf file version of this Policy, [click here](http://www.daptiv.com/document_library/company/daptiv_privacy_policy.pdf).
+Changepoint Corporation respects your right to privacy and is committed to protecting it. In order to provide you with relevant information, respond to your requests, and increase the benefits you receive when visiting our website, we may request information about you. This Statement applies to information collected by Changepoint and its products listed below.
 
-By visiting the Site or using the Daptiv Offerings, you agree to the terms of this Policy. If at any time you believe that Daptiv has not adhered to the Policy, please contact Daptiv, and Daptiv will promptly review your inquiry. This Policy is for the Site and the Daptiv Offerings only and does not apply to any third party links from the Site or third party software included in the Daptiv Offerings.
+Changepoint headquarters office is located at 1111 3rd Avenue, Seattle Washington (WA), USA 98101.
 
-**SAFE HARBOR**
+  * **Daptiv PPM application**
+  * **barometerIT EPM application**
+  * **Changepoint PSA application**
+  * **Changepoint.com**
 
-Daptiv complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Daptiv has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Daptiv’s certification, please visit <http://www.export.gov/safeharbor/>. If you would like to contact Daptiv directly about the Safe Harbor program, please send an e-mail to [safeharbor@daptiv.com](mailto:safeharbor@daptiv.com)
 
-Additionally, Daptiv is a participant in the Better Business Bureau’s EU Safe Harbor program for dispute resolution. If you do not receive acknowledgment of your complaint or your complaint is not satisfactorily addressed by Daptiv please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
-**COLLECTING YOUR INFORMATION**
+**GDPR Compliance  **
 
-Daptiv collects personal information to improve the manner in which Daptiv operates and offers its products and services. Daptiv does not rent or sell any of the personally-identifiable information collected from you to third parties. Daptiv will not share your personally identifiable information with third parties without your consent, unless such sharing is necessary for the purposes set forth in this Policy.
+**G** eneral  **D** ata  **P** rotection  **R** egulation ( **GDPR** ) is a data privacy regulation that went into enforcement to control EU personal data on  **May 25, 2018**.  To find out more about what Changepoint is doing to ensure GDPR compliance, please visit our dedicated  _[GDPR page](http://www.changepoint.com/gdpr-compliance)_.
 
-By using or accessing the Site or Daptiv Offerings, you may be asked to provide Daptiv certain information, categorized in this Policy as either "Personal Information" or"Public Information."
+For more information on our Data Processing, please visit our [Data Processing Annex page](http://www.changepoint.com/dpa).
 
-" **Personal Information** "means any information that can identify you personally or otherwise reveal your own, personal characteristics or unique data, such as your name, birth date, home address or credit card information. Daptiv will use Personal Information only in the manner described in this Policy or as otherwise expressly authorized by you. In all cases, Daptiv will protect your Personal Information from unauthorized disclosure in the same manner as it protects Daptiv’s own, highly confidential information.
+For a list of our Subprocessors and Infrastructure Vendors, please visit our [Subprocessor and Vendor page](https://www.changepoint.com/subprocessors).
 
-" **"Public Information"** " means any information that cannot be linked to you personally, such as aggregate Site user statistics or information regarding your Internet connectivity. Public Information will be gathered and used to help improve internal processes, products, connectivity and monitor general usage.
+**  Privacy Policy Applicability**
 
-**USE OF CONTENT**
+This Privacy Policy applies to information we collect from all sources in connection with our website, mobile sites, applications (“apps”), conferences, events, and electronic newsletters or communications that link to this Privacy Policy. If there is a conflict between this Policy and a Changepoint Subscription Service Agreement or Changepoint License Agreement, then the Changepoint Subscription Service Agreement or Changepoint License Agreement will take precedence.
 
-Subscribers designate individual end users (" **Authorized Users** ") who are authorized to access and use the Subscriber’s account for a particular version of the Daptiv Offerings (" **Subscriber Account** "). All information that is placed into the Daptiv Offerings by either Subscribers or Authorized Users is referred to as " **Content** " whether such information is Personal Information or Public Information.
+This Policy describes the types of Personal Data we collect, how we use it, and with whom we share it. It also describes generally Changepoint’s practices for handling non-personally identifiable information (e.g., interests, demographics and services usage) collected from third party providers. We also describe the measures we take to protect the information, your options for choice and access, and how you can contact us about privacy practices. As described more fully below, we share information with our affiliates and channel partners for the purposes described in this Privacy Policy. A list of Changepoint’s channel partners is available upon request. By using Changepoint’s Products (Daptiv PPM, Changepoint PSA, and BarometerIT) and/or Services, you acknowledge you have read and accept this Privacy Policy.
 
-Subscriber Accounts are not public. Permission to view, access or use Content within the Subscriber Account is provided solely by Subscriber.
+Your decision to use the Changepoint website and provide your Personal Data is voluntary. We indicate what types of Personal Data are requested on our online, mobile, and other registration forms. You may choose not to submit requested information online, or may choose to restrict the use of cookies, but that may limit the services Changepoint is able to provide to you.
 
-Each Subscriber Account is password protected by Subscriber. Daptiv will never ask for passwords in an unsolicited phone call or e-mail. Subscribers and their Authorized Users are responsible for protecting the secrecy of passwords and any Subscriber Account log-in information.
+Changepoint’s website, products, and services are not targeted to and do not knowingly collect Personal Data from, minors under 16 years of age.
 
-Authorized Users may upload and store Content via the Subscriber Account in the manner designated by Subscriber. Daptiv will not use, view, manipulate, alter or seek to discover any information or data within Content or otherwise monitor the nature or quality of Content.
+**What We Collect  **
 
-Daptiv may access, remove, segregate or quarantine Content (or a portion of Content) without prior notice or consent in the unlikely event such action: (a) is required by law; or (b) will prevent or mitigate damages caused by viral code, spyware, malware or other potentially harmful, unlawful or unauthorized materials contained within Content.
+Changepoint may collect the following types of information when you use any Changepoint or Changepoint-affiliated website:
 
-**HOW DOES DAPTIV KEEP YOUR PERSONAL INFORMATION SECURE?**
+  * Information, including personally identifiable information, you provide directly when you submit an inquiry via email, direct mail, phone or fax, or complete an online registration form for offers, events, user groups, training, trials, demos, etc.
+  * Information, including personally identifiable information, you provide directly by submitting an online job application. The personal data we could collect is First Name, Last Name, Email, Phone, Company, Country and State/ Province.
+  * Usage data collected via Google Analytics, such as IP address, web browser type/version, operating system and website visit information such as date, time and pages viewed.
+  * Click-through information related to Changepoint emails and banner advertisements.
+  * Aggregate, non-personally identifiable information, such as the number of weekly visits or page views to a Changepoint website.
 
-Daptiv protects your Content using state-of the-art technologies and a secure physical environment. The Site and Daptiv Offerings are monitored 24x7 to ensure the Daptiv infrastructure is not accessed or used by unauthorized parties.
 
-Secure Socket Layer (" **SSL** ") encrypted communication is available for use for all Content in Daptiv Offerings. SSL is a standard format for transmitting secure Content from your computer to a Daptiv server. SSL works by using a private key to encrypt Content that is transferred over the SSL connection. You will know SSL is being used when you see preceding a web address with "https" rather than "http."
 
-Additionally, to protect your personal information, Daptiv restricts employee access to databases containing Personal Information, imposes confidentiality requirements upon employees who do have access to databases containing Personal Information, and binds subcontractors with contractual, technical and organizational measures to further protect this information.
+To the extent permitted by applicable law, we may also receive Personal Data about you from third parties, for marketing profiling and segmentation from commercially available sources. The Personal Data we receive from third parties may include your name, contact information, and company information.
 
-**WHEN AND HOW DOES DAPTIV SHARE YOUR INFORMATION WITH THIRD PARTIES?**
+We require consent before collecting personal data as all information is detail within the Forms on the [https://www.changepoint.com](https://www.changepoint.com/) website. The personal data we collect is Fist Name, Last Name, Email, Phone, Company, Country and State/ Province.
 
-Daptiv does not sell to, rent to, or share your personal information with a third party unless you consent to provide such information to a third party partner or content service. Daptiv may disclose relevant information about our customers to our contractors (e.g. a customer service contractor) in order for them to provide specific services on behalf of Daptiv. Daptiv's contractors are bound by strict contractual requirements to keep all Personal Information they process strictly confidential and to use such information solely on behalf of Daptiv.
+**What We Do with Your Information**
 
-Also, Daptiv may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law; (b) comply with the order of a competent judicial authority in any jurisdiction; (c) comply with legal process served on Daptiv; (d) protect and defend the rights or property of Daptiv; or (e) act in urgent circumstances to protect the personal safety of users of Daptiv products or the public at large.
+Changepoint and its subsidiaries collect Personal Data for the following reasons:
 
-Daptiv Offerings and Site may contain links to other web sites and products. Daptiv is not responsible for the privacy practices or the content of such web sites or products. Please visit the privacy policies of these third party web sites in order to understand their privacy policies and data collection practices.
+  * To offer services you have requested or that we legitimately believe are of interest to our customers.
+  * To manage the relationships we have with our customers and channel partners.
+  * To perform activities based on your consent .
 
-**NON-US CUSTOMER INFORMATION**
 
-If you are a customer who is logging on from outside the United States, the personal information you submit to Daptiv will be sent to and stored in servers in Daptiv’s U.S. headquarters in Seattle, Washington. The personal information practices set out in this Policy apply to all Daptiv' customers worldwide.
 
-**USE OF COOKIES**
+Changepoint also collects certain domain information to improve and customize your experience on its site(s).
 
-Like other major service providers, Daptiv uses cookies to provide you with a tailored experience when visiting the Site and using the Daptiv Offerings. A cookie is a text file that is placed on your computer by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. A cookie may be sent by Daptiv to your browser and potentially stored on your computer system. Your browser returns cookie information to the domain where it originated, such as the Site.
+**Online Job Applications**
 
-Daptiv also uses cookies to understand traffic patterns on the Site and to authorize access to certain content and product features of the Daptiv Offerings. One of the primary purposes of cookies is to enhance the performance of online applications and save you time. For instance, a cookie tells the Web server that you have returned to a specific page. This improves the usability of the application by reducing the number of trips to the server.
+Changepoint’s website provides the opportunity for candidates to submit their resume or curriculum vitae online. All resumes received by Changepoint will be held in confidence and used only for the purpose of considering the candidate for employment or for such other purpose as requested by the candidate. Changepoint will not sell, trade, rent or distribute the personal information contained in any online application to any third party.
 
-You have the ability to accept or decline cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept or decline it. If you choose to decline cookies, you understand and agree that you may not have access to all of the interactive features of the Daptiv Offerings and you may experience reduced performance.
+All open positions offered by Changepoint or by its domestic and international subsidiaries are subject to specific job skill requirements. The job skill requirements, qualifications, and preferred experience are determined by the domestic or international subsidiary offering the position. All positions are subject to local prevailing employment laws and restrictions. This includes immigration laws pertaining to work authorization requirements and any other applicable government permissions or compliance.
 
-**E-MAIL COMMUNICATIONS**
+**How to Update Your Resume/Personal Information**
 
-Daptiv may communicate with you occasionally about new product features, promotions or offers from Daptiv. Registering for a product or service allows you to tell us how or whether you want Daptiv to communicate with you. You may opt-out of certain communications, such as these, by following the instructions included in each communication (e.g. following the unsubscribe instructions within the e-mail).
+If you have already submitted your resume or curriculum vitae to Changepoint and your skills, experience, or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the Careers site to learn more about open positions, candidate eligibility and the interviewing process.
 
-**CHANGES TO OUR POLICY**
+**How to Contact Changepoint Recruiting Regarding Your Privacy**
 
-Daptiv continually strives to implement new technologies and processes to better protect your Content, your privacy and your use of the Site and the Daptiv Offerings. As a result, changes to this Policy may be made by Daptiv from time to time. In no event will these changes result in the degradation of any of the security measures designed to protect your Content from unauthorized disclosure, as such measures are described in this Policy. To the extent Daptiv changes any policies related to its use of Personal Information, Daptiv will provide you with at least thirty (30) days prior notice via e-mail. You will be provided with an opportunity to "opt out" of these changes, but such choice may impact your ability to use all or part of the Site or Daptiv Offerings.
+Please e-mail us at [hr@changepoint.com](mailto:hr@changepoint.com) if you have any concerns regarding your privacy during the recruiting process.
 
-**NO ERROR FREE PERFORMANCE**
+**Cookies**
 
-Daptiv may release alpha and beta versions of the Daptiv Offerings, which are further refined before the release of the final version. Because these products are still in a test phase, Daptiv may not always catch an unintended privacy issue, despite our efforts to do so. As such, Daptiv welcomes feedback on any privacy concerns you may have, and on how to improve our products generally, in all stages of release. Daptiv does not guarantee error-free performance under this Policy. Daptiv will use reasonable efforts to comply with this Policy and will take prompt corrective action upon learning of any failure to comply with this Policy. Daptiv shall not be liable for any incidental, consequential or punitive damages relating to this Policy.
+Changepoint.com uses cookies and other tracking technologies to function effectively and deliver certain features.
 
-**CONTACTING DAPTIV**
+A “cookie” is a small text file that is transferred to your browser and stores information about your interactions with a particular website. A cookie is then read by the Web server that placed it on your browser. It works as a sort of identification card, recording your preferences and recalling previously entered information. By using cookies, your navigation time is reduced and use of a website is simplified.
 
-If you have questions about the privacy aspects of Daptiv’s products or services or would like to make a complaint, please contact:
+Changepoint uses two types of cookies:
 
-Daptiv Solutions, LLC  
-1111 Thrid Avenue, Suite 700  
-Seattle, WA 98101  
-(206) 341-9117  
-(206) 341-9123 fax  
-[support@daptiv.com](mailto:support@daptiv.com)
+  * A “session” cookie is temporary and is deleted once you close your browser. Session cookies are used to help a user’s browser navigate a website more smoothly and may show up if the user comes from a website with which the subsequent website has some relationship (e.g., the website of an affiliated company). Session cookies can also give helpful information.
+  * A “persistent” cookie is more permanent and is stored on the hard drive of your computer. Persistent cookies are used to customize a website for a user. They may store passwords, preferences, registration and account information so that users do not have to re-enter this information each time they visit the website.
+
+
+
+A cookie cannot be executed as code or deliver viruses. Changepoint uses both session and persistent cookies to collect and store information that allows us to offer better customer service and ensure easy navigation through our website(s).
+
+You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie, you will still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit our sites.
+
+**  How we use your personal data and other info**
+
+Changepoint may use website usage data in aggregated form to measure the website’s performance and activity as well as improve the website’s design and functionality.  Changepoint and its subsidiaries may also work with third-party consultants to develop and distribute statistical and general information to best understand how our customers use the website. Changepoint may use any of the information we collect to assist us in delivering content on Changepoint.com.
+
+In addition, the information we collect from and about you to is used in the following ways to provide products, services and features to you:
+
+  * Process and fulfill your purchased product on-premises and via SaaS subscription
+  * Create and manage your accounts
+  * Send you information about your relationship or transactions with us
+  * Measure and improve services and features
+  * Allow you to engage with us and our online community
+  * Use collaboration tools to share content and collaborate with other users
+  * Provide you with customer support and to respond to inquiries.
+
+
+
+If you choose to use the collaboration tools, some of your Personal Data may be included in a directory that can be viewed and used by other users of these collaboration tools. Customers have the ability to opt-in and opt-out.
+
+  * Customers can opt-in via customer support and/or utilizing our community collaboration tool.
+  * Customers can opt-out by either not utilizing the customer support and community collaboration tools or submitting a support ticket to be removed.
+
+
+
+**How we share your personal data and other information   **
+
+Changepoint will never sell or provide your information to list brokers or similar mass marketing entities. We may, however, provide information about you to our channel partners and/or to vendors with whom we have contracted to better serve your interests and/or to support targeted promotions. Changepoint will provide only the information that is necessary for the third party to provide those services we believe will be beneficial to you. j
+
+Changepoint is a global company with customers and partners all over the world. Accordingly, the information we collect may be used, stored and/or processed in any country in which Changepoint does business, including the United States. By providing information via our website, you are consenting to the transfer of information from your country of origin to any other country in which Changepoint does business.
+
+**Opt Out**
+
+You may opt out of receiving electronic communications from us (including surveys, notifications, or promotions from us on behalf of third parties), or our sharing of your Personal Data with Changepoint and its subsidiaries for their direct marketing purposes, by changing your account settings through the appropriate link on the website account services page or following the unsubscribe instructions at the bottom of each email. You can opt out of direct marketing from Changepoint channel partners by using the unsubscribe links they provide or following the steps in their applicable policies.
+
+Please note that for customers of Changepoint’s products and services, there are certain service notifications that you may not opt out of, such as renewal notices and notifications of changes to Changepoint products and services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
+
+**How we Protect and Retain Personal Data**
+
+Changepoint uses a combination of administrative, technical, personnel and physical measures to safeguard Personal Data in its possession against accidental, unlawful or unauthorized loss, use, access, disclosure or modification. We make reasonable efforts to ensure a level of security appropriate to the risk of the processing, taking into account the costs of implementation and nature of the processing of Personal Data. If you have any concerns, contact Changepoint at i[nformationsecurity@changepoint.com](mailto:nformationsecurity@changepoint.com)
+
+We will retain your Personal Data for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+
+**EU-US and Swiss- US Privacy Shield Frameworks (For EU and Swiss personal data that is transferred into the US)**
+
+Changepoint complies with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, respectively. Changepoint has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit Privacy Shield <https://www.privacyshield.gov/list>.
+
+Changepoint is subject to the jurisdiction and enforcement authority of the US Federal Trade Commission.
+
+Changepoint acknowledges that EU and Swiss individuals have the right to access the personal information/data that we maintain about them. In addition to the EU or Swiss individual, any individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to [informationsecurity@changepoint.com](mailto:informationsecurity@changepoint.com). If requested to remove data, we will respond within 5 business days of the request.
+
+Pursuant to the Privacy Shield Frameworks we remain liable for the onward transfer of EU and/or Swiss data to agent third parties unless we can prove we were not a party to the events giving rise to the damages.
+
+We may be required to release personal information of EU and/or Swiss individuals in response to lawful requests by public authorities including to meet national security and law enforcement requirements.
+
+Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue with Changepoint, or have suggestions on how we can improve our policies, please contact us at [informationsecurity@changepoint.com](mailto:informationsecurity@changepoint.com).
+
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Changepoint commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Changepoint at: [informationsecurity@changepoint.com](mailto:informationsecurity@changepoint.com).
+
+Changepoint has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://www.bbb.org/EU-privacy-shield/for-eu- consumers](https://www.bbb.org/EU-privacy-shield/for-eu-%20consumers) for more information and to file a complaint.
+
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
+
+**Recourse for HR data within the HR relationship For EU and Swiss Individuals**
+
+With respect to complaints concerning human resources data that is transferred from the EU or Switzerland to the United States within the context of the HR relationship, we have agreed to participate in the dispute resolution procedures of the EU Data Protection Authorities (DPA’s) or Swiss Federal Data Protection and Information Commissioner (FDPIC), respectively . Contact details for the EU data protection authorities can be found https://ec.europa.eu/info/about-european-commission/contact_en. Contact details for the Swiss FDPIC can be found at [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection—switzerland.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection---switzerland.html)   Changepoint will cooperate with the appropriate DPA or FDPIC  during investigation and resolution of complaints.
+
+These recourse mechanisms are available at no cost to you. Damages may be awarded in accordance with applicable law.
+
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
+
+If you have concerns or would like to confirm that your personal information has not been collected or is being stored, contact us at [informationsecurity@changepoint.com](mailto:informationsecurity@changepoint.com).
+
+**Additional Information Changes to Privacy Policy**
+
+Changepoint may modify or update this Privacy Policy at any time without prior notice. We encourage you to check this Statement often so that you are aware of how we are protecting your personal information. Your continued use of this website constitutes your consent to the contents of this Privacy Statement.
+
+**UK Modern Slavery Act**
+
+Changepoint will abide by Human Rights initiatives, such as the UK Modern Slavery Act of 2015, within our business as well as through vendors that we do business with.
+
+This act requires that we do not conduct business with entities involved with Human Trafficking, that are using Slave Labor, and the overall systematic exploitation of other human beings. All Changepoint staff are trained upon first hire and annually in regards to this act and how it impacts their position.
+
+**Links to Other Websites**
+
+Changepoint may provide links to Internet sites maintained by others. Changepoint does not review such third-party websites in their entirety and is not responsible for the contents of or any products or services offered by such third-party sites. Changepoint encourages you to read the privacy statement of every website you visit whether the site is linked to our or not.
+
+Changepoint provides these links to you as a convenience and the inclusion of any link does not imply our endorsement of the linked site or our acceptance of any responsibility that arises as a result of your use of the site.
+
+**Questions**
+
+If you have any questions about any of the items in this Privacy Policy please contact us directly at  _[informationsecurity@changepoint.com](mailto:informationsecurity@changepoint.com)._
