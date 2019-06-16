@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectzone.in privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129075613id_/http%3A//www.connectzone.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectzone.in privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616171214id_/http%3A//www.connectzone.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Best Broadband in Punjab and Chandigarh Area - Connect Broadband
 
