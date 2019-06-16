@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theozone.net privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111205612id_/https%3A//theozone.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theozone.net privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616135822id_/https%3A//theozone.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The-Ozone
 
@@ -6,19 +6,19 @@ TYPES OF INFORMATION THAT MAY BE COLLECTED
 
 The following are the types of information we may collect:
 
-**Information You Provide Us**
+ **Information You Provide Us**
 
 Personal information you provide us, such as a user ID and password, name, email address, telephone number, physical address, birth date, gender, zip code or other information may be collected via the Site.
 
-**Site Usage Information**
+ **Site Usage Information**
 
 We may receive and store certain types of information whenever you visit the Site. For example, we may collect click-stream data and your IP address.
 
-**Email Communications**
+ **Email Communications**
 
 When you open emails from the Site, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of which emails we send you and which emails you may receive from our partners, subsidiaries and affiliates. Additionally, we keep a record of what types of emails you have opted to and not to receive.
 
-**Information from Other Sources**
+ **Information from Other Sources**
 
 We may add information from other sources to your personal information.
 
@@ -26,31 +26,31 @@ HOW INFORMATION MAY BE COLLECTED
 
 We may collect information from you in different areas on the Site, including but not limited to those described below:
 
-**Registration**
+ **Registration**
 
 You may be asked to complete a registration form and provide personally identifiable information, including a user ID and password, to access certain features on the Site, including, but not limited to, Gametracker, Newsletters, Contests, Forums, store purchases, or other subscription-based or free services.
 
-**Newsletters and Site Emails**
+ **Newsletters and Site Emails**
 
 We may offer free newsletters to share information with you about the Site, school, The-Ozone.net, LLC, our partners, affiliates and subsidiaries, or our advertisers and sponsors. You may receive a newsletter either by registering for a specific newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your free email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails.
 
-**Contests or Sweepstakes**
+ **Contests or Sweepstakes**
 
 We may operate contests and sweepstakes through the Site, which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. We may ask your permission to allow us to post publicly some of your information on the Site, such as on a winner’s page, in the event you win a contest or sweepstakes. We will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Site, and collect your information. In those cases, when we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the advertiser’s or sponsor’s privacy policy applicable to the contest or sweepstakes before participating.
 
-**Surveys or Voting**
+ **Surveys or Voting**
 
 From time-to-time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey.
 
-**Cookies**
+ **Cookies**
 
 As with many Websites, the Site uses standard technology called “cookies,” which are small data files transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make the Site easier to use by saving your passwords, purchases, and preferences. By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Site. Cookies may also allow the Site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Site may not provide you with a personalized experience if you disable the use of cookies.
 
-**IP Addresses and Click-stream Data**
+ **IP Addresses and Click-stream Data**
 
 We may collect IP addresses and/or click-stream data for purposes of system administration and to report aggregate information to our advertisers and sponsors. An IP address is a number automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from the Site, our computers log your IP address. Click-stream data is information collected by our computers when you request Web pages from the Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. This data helps us understand how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
 
-**Transaction Information**
+ **Transaction Information**
 
 If you order any information, buy any products or subscribe to any services offered on our Site, including but not limited to the Official Store, we will ask you to complete an order form that requires certain information, including payment information such as a credit card number and expiration date as well as general contact, billing and shipping information. We will use this information to complete the transaction, i.e., to deliver the information, products or other services you ordered, and to collect payment. For your protection, all such information is collected and stored through encrypted means.
 
@@ -66,25 +66,25 @@ WITH WHOM THE INFORMATION MAY BE SHARED
 
 At times, we may share your personally identifiable information with others for various purposes. The following outlines the ways in which your information may be shared with others:
 
-**Agents:** We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include order fulfillment, e-mail deployment, removing repetitive information from customer lists, Site and data analysis, marketing assistance, credit card payments, and customer service. These entities only access the personally identifiable information to perform their functions, but may not use the information for other purposes.
+ **Agents:** We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include order fulfillment, e-mail deployment, removing repetitive information from customer lists, Site and data analysis, marketing assistance, credit card payments, and customer service. These entities only access the personally identifiable information to perform their functions, but may not use the information for other purposes.
 
-**Promotional Offers:** We may email you offers on behalf of other partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out in response to the email.
+ **Promotional Offers:** We may email you offers on behalf of other partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out in response to the email.
 
-**Aggregate Information:** We may share aggregate information such as demographics and Site usage statistics with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
+ **Aggregate Information:** We may share aggregate information such as demographics and Site usage statistics with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
 
-**Opt-in and Opt-out Programs:** Throughout the Site you may be presented with opportunities to receive special offers from third parties. An opt-in/opt-out message will ask you if you would like your information to be shared. If you do choose to have your information shared, all third parties who have access to personally identifiable information must abide by the current Site privacy Policy. However, we are not responsible for the privacy practices of these other companies, and you should review the privacy practices of such Web sites prior to providing your personally identifiable information.
+ **Opt-in and Opt-out Programs:** Throughout the Site you may be presented with opportunities to receive special offers from third parties. An opt-in/opt-out message will ask you if you would like your information to be shared. If you do choose to have your information shared, all third parties who have access to personally identifiable information must abide by the current Site privacy Policy. However, we are not responsible for the privacy practices of these other companies, and you should review the privacy practices of such Web sites prior to providing your personally identifiable information.
 
-**Partners Subsidiaries and Affiliates:** We may share your information (including, without limitation, personally identifiable information) with partners, subsidiaries and affiliates of Ozone Communications.
+ **Partners Subsidiaries and Affiliates:** We may share your information (including, without limitation, personally identifiable information) with partners, subsidiaries and affiliates of Ozone Communications.
 
-**Business Transfers:** The Site or Ozone Communications, LLC may be sold along with its assets, or other transactions may occur in which your personally identifiable information is one of the business assets transferred. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets transferred.
+ **Business Transfers:** The Site or Ozone Communications, LLC may be sold along with its assets, or other transactions may occur in which your personally identifiable information is one of the business assets transferred. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets transferred.
 
-**Legal Process:** In the event we are required to respond to subpoenas, court orders or other legal process your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you.
+ **Legal Process:** In the event we are required to respond to subpoenas, court orders or other legal process your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you.
 
-**Chat Rooms, Forums, and Message Boards**
+ **Chat Rooms, Forums, and Message Boards**
 
  The Site may make chat rooms, forums and message boards available to its users. While you are required to register with the site for access to these areas, you are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. Ozone Communications, cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
 
-**Links to Other Web Sites**
+ **Links to Other Web Sites**
 
 This Policy applies only to this Site. When you are on the Site you could be directed to other sites beyond our control. For example, if you “click” on a banner advertisement, you may be taken to a different Web site. This includes links from advertisers, sponsors and others that may use the Site’s logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should consult that site’s privacy policy before providing any personal information.
 
@@ -112,4 +112,4 @@ CORRECTION/UPDATING PERSONAL INFORMATION
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-**We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here<http://www.networkadvertising.org/managing/opt_out.asp>**
+ **We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here<http://www.networkadvertising.org/managing/opt_out.asp>**
