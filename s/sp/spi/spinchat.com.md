@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinchat.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213154237id_/https%3A//www.spinchat.com/help/1030) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinchat.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616071120id_/https%3A//www.spinchat.com/help/1030) for the most accurate reproduction.*
 
 # Data protection regulation/privacy policy | Spinchat.com
 
@@ -28,11 +28,11 @@ You can see the duration of storage in the overview in the cookie settings of yo
 
 You can find them [in our help document](https://web.archive.org/help/cache) or, for different web browsers, under the following links:
 
-Internet Explorer: <https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies>  
+Internet Explorer: [https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://web.archive.org/url?url=https%3A%2F%2Fsupport.microsoft.com%2Fen-us%2Fhelp%2F17442%2Fwindows-internet-explorer-delete-manage-cookies;s=qkQoelWk "https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies")  
 Safari: [https://support.apple.com/kb/ph21411?locale=en_US](https://web.archive.org/url?url=https%3A%2F%2Fsupport.apple.com%2Fkb%2Fph21411%3Flocale%3Den_US;s=dAUtl5sn "https://support.apple.com/kb/ph21411?locale=en_US")  
-Chrome: [https://support.google.com/chrome/answer/95647?hl=en&hlrm=en](https://support.google.com/chrome/answer/95647?hl=en&hlrm=en "https://support.google.com/chrome/answer/95647?hl=en&hlrm=en")  
-Firefox: <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>  
-Opera: <http://help.opera.com/Windows/10.20/en/cookies.html>
+Chrome: [https://support.google.com/chrome/answer/95647?hl=en&hlrm=en](https://web.archive.org/url?url=https%3A%2F%2Fsupport.google.com%2Fchrome%2Fanswer%2F95647%3Fhl%3Den%26hlrm%3Den;s=%2B2MHjn5z "https://support.google.com/chrome/answer/95647?hl=en&hlrm=en")  
+Firefox: [https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences](https://web.archive.org/url?url=https%3A%2F%2Fsupport.mozilla.org%2Fen-US%2Fkb%2Fenable-and-disable-cookies-website-preferences;s=%2FZ55r4xE "https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences")  
+Opera: [http://help.opera.com/Windows/10.20/en/cookies.html](https://web.archive.org/url?url=http%3A%2F%2Fhelp.opera.com%2FWindows%2F10.20%2Fen%2Fcookies.html;s=vv0pCHsI "http://help.opera.com/Windows/10.20/en/cookies.html")
 
 If you do not accept cookies, the functionality of our website may be restricted.
 
@@ -54,7 +54,7 @@ After our use of Google AdSense has ended, the data collected in this context wi
 Google AdSense is a service of Google LLC. (www.google.com)  
 Google LLC is headquartered in the USA. There is a decree of appropriateness by the European Commission for this country. This goes back to the EU US Privacy Shield, under which Google LLC is certified. A current certificate can be viewed here: [https://www.privacyshield.gov/list](https://web.archive.org/url?url=https%3A%2F%2Fwww.privacyshield.gov%2Flist;s=gOPgkwcG "https://www.privacyshield.gov/list")
 
-Criteo SA - Germany - Privacy policy and opt-out possibility <https://www.criteo.com/privacy/>
+Criteo SA - Germany - Privacy policy and opt-out possibility [https://www.criteo.com/privacy/](https://web.archive.org/url?url=https%3A%2F%2Fwww.criteo.com%2Fprivacy%2F;s=fx4dYgpO "https://www.criteo.com/privacy/")
 
 Ad2Games GmbH - Germany - Privacy Policy: [http://www.ad2games.com/privacy-policy/](https://web.archive.org/url?url=http%3A%2F%2Fwww.ad2games.com%2Fprivacy-policy%2F;s=hjebRYXu "http://www.ad2games.com/privacy-policy/") Opt-out: [http://ib.adnxs.com/optout](https://web.archive.org/url?url=http%3A%2F%2Fib.adnxs.com%2Foptout;s=%2BTZvoTkP "http://ib.adnxs.com/optout")  
 Affilinet GmbH - Germany - Privacy Policy: [https://www.affili.net/uk/footeritem/privacy-policy](https://web.archive.org/url?url=https%3A%2F%2Fwww.affili.net%2Fuk%2Ffooteritem%2Fprivacy-policy;s=qdObk2bS "https://www.affili.net/uk/footeritem/privacy-policy")  
@@ -78,10 +78,10 @@ Yieldkit GmbH - Germany - Privacy Policy: [https://yieldkit.com/legal-notes/priv
 Yieldlove GmbH - Germany - Privacy Policy: [https://www.yieldlove.com/cookie-policy](https://web.archive.org/url?url=https%3A%2F%2Fwww.yieldlove.com%2Fcookie-policy;s=qFnMf5Pe "https://www.yieldlove.com/cookie-policy")  
 Viversum GmbH - Germany - Privacy Policy: [http://www.viversum.de/datenschutz](https://web.archive.org/url?url=http%3A%2F%2Fwww.viversum.de%2Fdatenschutz;s=XECIKEaR "http://www.viversum.de/datenschutz")
 
-Further opt-out options for behavioural advertising can be found [on the pages of the European Interactive Digital Advertising Alliance (EDAA)](http://www.youronlinechoices.com/ "http://www.youronlinechoices.com/")
+Further opt-out options for behavioural advertising can be found [on the pages of the European Interactive Digital Advertising Alliance (EDAA)](https://web.archive.org/url?url=http%3A%2F%2Fwww.youronlinechoices.com%2F;s=UTWCwCQn "http://www.youronlinechoices.com/")
 
  **2.3 Videos and graphics of external providers**  
-Users have the possibility to embed videos and graphics of external providers on this website. By embedding such contents, the provider's servers are called due to technical reasons. For the use of data of your browser or deviceby using such a web page, we refer to the privacy policy of the respective providers. e.g. [YouTube resp. Google](https://policies.google.com/privacy/update?hl=en "https://policies.google.com/privacy/update?hl=en") or [Vimeo](https://vimeo.com/privacy "https://vimeo.com/privacy").
+Users have the possibility to embed videos and graphics of external providers on this website. By embedding such contents, the provider's servers are called due to technical reasons. For the use of data of your browser or deviceby using such a web page, we refer to the privacy policy of the respective providers. e.g. [YouTube resp. Google](https://web.archive.org/url?url=https%3A%2F%2Fpolicies.google.com%2Fprivacy%2Fupdate%3Fhl%3Den;s=tHoZf6DW "https://policies.google.com/privacy/update?hl=en") or [Vimeo](https://web.archive.org/url?url=https%3A%2F%2Fvimeo.com%2Fprivacy;s=3v7Yn4L9 "https://vimeo.com/privacy").
 
  **3\. Access data**
 
