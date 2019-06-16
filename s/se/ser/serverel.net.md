@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverel.net privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216083805id_/http%3A//serverel.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverel.net privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616140652id_/http%3A//serverel.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Serverel Dedicated Servers - Call 1-877-2HOST-ME Now!
 
