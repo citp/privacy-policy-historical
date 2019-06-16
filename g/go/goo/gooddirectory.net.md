@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gooddirectory.net privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215064905id_/http%3A//www.gooddirectory.net/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooddirectory.net privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616141754id_/http%3A//www.gooddirectory.net/privacy.txt) for the most accurate reproduction.*
 
 # 
 
