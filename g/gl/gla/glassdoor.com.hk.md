@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the glassdoor.com.hk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231011356id_/https%3A//www.glassdoor.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassdoor.com.hk privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616064741id_/https%3A//www.glassdoor.com.hk/about/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Glassdoor
+# Privacy Policy | Glassdoor.com.hk
 
-Revised December 18, 2018.
+Revised April 16, 2019.
 
 We, Glassdoor, Inc., a Delaware corporation with offices at 100 Shoreline Highway, Mill Valley California, USA as the data controller ("Glassdoor," "we," or "us"), explain in this Privacy and Cookie Policy (the “Policy”) how we collect, process and/or use information that we receive via our websites, emails we send, and mobile applications (collectively, the "Platform") that link to this Policy, as amended from time to time. This Policy describes how Glassdoor collects, processes, uses, shares and secures the personal information you provide. It also describes your choices regarding use, access, and correction of your personal information. For purposes of this Policy, personal information shall mean any information relating to an identified or identifiable natural person.
 
@@ -19,7 +19,8 @@ When you fill out registration forms, submit your resume, or provide us with oth
   * Creating an account;
   * Signing up for email alerts;
   * Completing a form related to one of our products or services;
-  * Uploading a resume;
+  * Uploading a CV;
+  * Sending messages through Glassdoor
   * Contacting us for technical support or customer service.
 
 
@@ -32,7 +33,15 @@ On certain Glassdoor domains, when you set up an individual user account on the 
 
 We may host an [Easy Apply](https://help.glassdoor.com/article/What-are-Easy-Apply-jobs/en_US) application that asks for relevant information generally considered sensitive (such as driver’s license number for truck driver job, or a government-issued identification number for a government job). Some applications may ask you to identify your racial/ethnic origin or disabilities on a strictly voluntary basis (e.g. for purposes of providing equal employment opportunities) and you may choose not to submit this information without any detriment to your application. For our EU users, data about racial/ethnic origin and disabilities are considered special categories of personal data under Article 9 of the EU General Data Protection Regulation ("GDPR"). When we host Easy Apply applications that collect this kind of data, we pass that information along to the employer when we submit your application and do not retain it on our systems. But please remember, you should not include this kind of data in any resume you upload to the Platform or submit it in any other scenarios, except where we specifically prompt you to provide such information such as described above.
 
+Some of our [Easy Apply](https://help.glassdoor.com/article/What-are-Easy-Apply-jobs/en_US) applications allow you to apply to a job hosted on the site of one of our affiliate’s. When you click on the Easy Apply button, and confirm by clicking the Apply button, your application will be submitted for the job through one of our affiliates. Before the Apply button, you will see a notice informing you that the application is hosted on an affiliate’s site, including a link in the affiliate’s terms and privacy policy. You will have the opportunity to open the affiliate’s terms and privacy policy and read them prior to submitting your application. 
+
+Glassdoor provides the [Glassdoor Messaging Service](http://help.glassdoor.com/article/Glassdoor-Messaging-Service/en_US), a two-way message proxy and relay system. By utilizing the Glassdoor Messaging Service, you acknowledge that you are asking Glassdoor to send these messages on your behalf. This includes your resumes, cover letters, applications, messages, questionnaire answers, responses, offer letters and other materials. When you ask Glassdoor to transmit an application or a message, including, but not limited to, a signed offer letter, to an employer via Glassdoor or the Glassdoor Messaging Service or store such application, you understand Glassdoor reserves the right to reformat such application or message.
+
+We process, monitor, review, store and analyze such content and other materials, including via automated means, for data analysis, quality control, enforcement of our Terms, and improvement of our services. Examples of such improvements would be optimizing our search results, improving job postings, matching you with a job posting or employer, ensuring you are provided with personally relevant product features and communications, and preventing fraud and spam. As a result of this activity, or due to technical malfunction, in certain circumstances such content may be delayed or may not be delivered to the intended recipient. Glassdoor may (but is not obligated to) notify you in such an event. By using Glassdoor Messaging Service or otherwise providing user content through Glassdoor, you acknowledge that this activity is necessary for maintaining the quality of Glassdoor and for providing the Glassdoor Messaging Service. Please also note that since the Glassdoor Messaging Services depend on the functionality of third-party providers, there may be technical delays on the part of those email service providers.
+
 If you enter credit card information on the Platform in connection with a purchase, that information is sent directly from your browser to the third-party service provider we use to manage credit card processing and we do not store it on our servers. The service provider is not permitted to use the information you provide except for the sole purpose of credit card processing on our behalf.
+
+When you submit personal information to a third party and are informed at the time of collection that your information may be shared with us, we may collect that information for lawful marketing purposes.
 
 Employers with [Free Employer Accounts](https://www.glassdoor.com/employers/products/free-employer-account.htm) may provide us with work email addresses of their employees for use to send an email asking those employees to leave candid reviews of the employer on the Platform.
 
@@ -42,34 +51,34 @@ When you use the Platform, your device is automatically providing information to
 
  _Automated means of data collection include the following:_
 
- **Cookies and Tracking Technologies.** Technologies such as: cookies, web beacons, locally shared objects (sometimes called "flash cookies"), mobile identifiers and similar technologies ("Cookies") are used by Glassdoor and our [partners](https://web.archive.org/about/privacy-third-party.htm) (such as advertising, marketing and analytics providers) ("Ad Partners"). We use Cookies to remember users’ settings as well as for authentication and analytics. These technologies may be used in analyzing trends, administering the Platform, tracking users’ movements around the Platform and to gather demographic information about our user base as a whole. Our Ad Partners may also use such technologies to deliver advertisements to you. You can control the use of Cookies at the individual browser level, but if you choose to disable Cookies, it may limit your use of certain features or functions on our website or service. For more information on Cookies, how we use them, the third parties we work with who use them, and how you can control them, please see the section entitled Cookie Policy and Ad Choices.
+ **Cookies And Tracking Technologies.** Technologies such as: cookies, web beacons, locally shared objects (sometimes called "flash cookies"), mobile identifiers and similar technologies ("Cookies") are used by Glassdoor and our [partners](https://web.archive.org/about/privacy-third-party.htm) (such as advertising, marketing and analytics providers) ("Ad Partners"). We use Cookies to remember users’ settings as well as for authentication and analytics. These technologies may be used in analyzing trends, administering the Platform, tracking users’ movements around the Platform and to gather demographic information about our user base as a whole. Our Ad Partners may also use such technologies to deliver advertisements to you. You can control the use of Cookies at the individual browser level, but if you choose to disable Cookies, it may limit your use of certain features or functions on our website or service. For more information on Cookies, how we use them, the third parties we work with who use them, and how you can control them, please see the section entitled Cookie Policy and Ad Choices.
 
  **Log File Information.** Log file information is automatically reported by your browser or mobile application each time you access a website on our Platform. For example, when you access a Glassdoor website, our servers automatically record certain information that your web browser sends when you visit any website. These server logs include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, and pages viewed.
 
  **Device Information.** We collect information about the device you use to access the Platform, including type of device, operating system, settings, and unique device identifiers, and IP address. Whether we collect some or all of this information often depends on what type of device you’re using and its settings. For example, different types of information are available depending on whether you’re using a Mac or a PC, or an iPhone or Android phone. We collect the device type and any other information you choose to provide, such as username, geolocation, or email address. We also use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software records information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
 
-## How We Use Information
+## How We Use Information/Purposes
 
 We use the information we collect to provide our services. In order for us to best provide our services (and to help make it feasible for us to do so), it is essential that we are able to collect and use the information as described in this Policy. So it is largely necessary for fulfilling the relationship we have with you, and, where that is not the case, we have a legitimate interest in using the information we collect, including personal information, for these purposes:
 
-  * to provide you with personalized content, services and offers of services offered by Glassdoor, as well as other promotional content and services (for example, Glassdoor and its affiliates may use your previous search and browsing history (e.g. the jobs you click on), or your resume or Profile information, to determine relevant search results and provide you with recommended jobs on Glassdoor or on sites of Glassdoor affiliates, or Glassdoor may reach out to you about jobs or companies you may be interested in; we also use your IP address and mobile device for these purposes); For the purposes of this Policy, "affiliates" means any entity that directly or indirectly, controls, is controlled by, or is under common control of or with Glassdoor, Inc., now or in the future. "Control" for these purposes means having a majority of shares or the right and ability to direct management. 
+  * to provide you with personalized content, services and offers of services offered by Glassdoor, as well as other promotional content and services (for example, Glassdoor and its affiliates may use your previous search and browsing history (e.g. the jobs you click on), or your resume, Profile, application information, and responses to screener questions to determine relevant search results and provide you with recommended jobs on Glassdoor or on sites of Glassdoor affiliates, or Glassdoor may reach out to you about jobs or companies you may be interested in; we also use your IP address and mobile device for these purposes); For the purposes of this Policy, "affiliates" means any entity that directly or indirectly, controls, is controlled by, or is under common control of or with Glassdoor, Inc., now or in the future. "Control" for these purposes means having a majority of shares or the right and ability to direct management. 
   * to moderate and display the employer reviews, interview reviews, salary reports and other content you have submitted for the benefit of our other users;
   * to customize and improve the features, performance, and support of the Glassdoor site and sites of Glassdoor affiliates;
-  * to communicate with you or initiate communication with you on behalf of third parties through your Glassdoor account or through other means such as email, telephone (including mobile phone), or postal mail, including through the use of contact information that you provide to us or (where it is lawful for us to do so) that we otherwise obtain from third-party resources;
-  * to permit Glassdoor or a Glassdoor affiliate to recommend a Glassdoor user (and that user’s resume or resume extract) to an employer hosted by Glassdoor or to an employer hosted by a Glassdoor affiliate, subject to visibility settings you control;
+  * to communicate with you or initiate communication with you (for marketing or service-related purposes) on behalf of third parties through your Glassdoor account or through other means such as email, telephone (including mobile phone), or postal mail, including through the use of contact information that you provide to us or (where it is lawful for us to do so) that we otherwise obtain from third-party resources;
+  * to permit Glassdoor or a Glassdoor affiliate to recommend a Glassdoor user (and that user’s resume or resume extract) to an employer hosted by Glassdoor or to an employer hosted by a Glassdoor affiliate, subject to visibility settings you control (for example, Glassdoor may use application materials—including resumes and responses to screener questions—to determine whether the words of any job seeker’s resume and answers to screener questions match the words of a job posting or resume query, and vice-versa, we may then differentiate matching resumes and screener questions from those that do not match, and present them to employers as matches or not matches);
   * to permit Glassdoor to contact Glassdoor users with respect to such recommendations, subject to visibility settings you control;
   * to provide relevant advertising, including interest-based advertising from us and third parties, which may mean that we share non-personally identifiable information, such as your job title, to third-party advertisers;
   * to transmit your application and save your application materials;
   * to share your saved Profile or resume with employers, subject to visibility settings you control;
   * to allow Glassdoor and Glassdoor affiliates to process your personal data for the purpose of improving for internal operations, including detecting and preventing fraud and spam, troubleshooting, data analysis, testing, research, and service improvement (this includes use of your IP address and mobile device information to help diagnose problems with our service and to administer the Platform);
-  * to create aggregate and statistical data that does not identify you individually and that we can commercialize (for example, we use mobile device data and IP addresses to gather demographic information);
-  * for other purposes that you separately authorize as you interact with Glassdoor.
+  * to create aggregated statistical data that does not identify you individually and that we can commercialize (for example, we use mobile device data and IP addresses to create anonymized, aggregate demographic information);
+  * for other purposes that you separately authorise as you interact with Glassdoor.
 
 
 
 When we collect any information that does not identify you as a specific natural person ("Non-Personal Information"), we are permitted to use and disclose this information for any purpose, notwithstanding anything to the contrary in this Policy, except where we are required to do otherwise by applicable law. Examples of Non-Personal Information include: physical location information; demographic information, including gender, dates of birth, ZIP codes, etc.; or any personal information that has been anonymized, aggregated or de-identified. If we combine any Non-Personal Information with your personal information (such as combining your ZIP code with your name), we will use and disclose such combined information as personal information in accordance with this policy. Similarly, if applicable law requires that we treat certain Non-Personal Information as personal information, we will use and disclose this information as personal information in accordance with this policy.
 
-## How We Share Information
+## How We Share Information/Recipients
 
 We only disclose your personal information to third parties as follows:
 
@@ -108,11 +117,11 @@ We use Cookies to help us determine whether or not you've signed in to the Platf
 
 Security
 
-We use Cookies to enable and support security features, prevent fraud, and protect your data from unauthorized access.
+We use Cookies to enable and support security features, prevent fraud, and protect your data from unauthorised access.
 
 Preferences and Features
 
-We use Cookies to enable features, help us provide you with personalized content such as showing you your recent search activity.
+We use Cookies to enable features, help us provide you with personalised content such as showing you your recent search activity.
 
 Advertising
 
@@ -195,9 +204,9 @@ We keep your personal information only so long as we need it to provide the Plat
 
 ### Security Safeguards
 
- **Security.** We employ physical, electronic, and managerial measures to safeguard the information we collect online. However, no company can fully eliminate security risks, so we cannot make guarantees about any part of our services. You are responsible for keeping your username and password secret. Once you have registered with us, we will never ask you for your password. Please create a unique password for your Glassdoor account and do not use it for any other web services or applications. Do not share your password with anyone else.
+ **Security**. We employ physical, electronic, and managerial measures to safeguard the information we collect online. However, no company can fully eliminate security risks, so we cannot make guarantees about any part of our services. You are responsible for keeping your username and password secret. Once you have registered with us, we will never ask you for your password. Please create a unique password for your Glassdoor account and do not use it for any other web services or applications. Do not share your password with anyone else.
 
- **Tips for a Responsible Job Search.** We actively monitor the Platform for job postings that violate our [Terms of Use](https://web.archive.org/about/terms.htm). If we detect fraudulent activity, we remove the job posting from the Platform. However, fraudulent job postings can sometimes appear and we urge you to exercise caution in your job search. Please consider the following tips when conducting your search:
+ **Tips For A Responsible Job Search.** We actively monitor the Platform for job postings that violate our [Terms of Use](https://web.archive.org/about/terms.htm). If we detect fraudulent activity, we remove the job posting from the Platform. However, fraudulent job postings can sometimes appear and we urge you to exercise caution in your job search. Please consider the following tips when conducting your search:
 
   * Do not send money to a prospective employer.
   * Do not give out personal or financial account information to a new employer via email.
@@ -224,7 +233,7 @@ You may reach our data protection officer, Felix Wittern, here.
 
 ### Privacy Shield Participation
 
-Glassdoor has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Glassdoor is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce's Privacy Shield List at [privacyshield.gov/list](https://www.privacyshield.gov/list).
+Glassdoor has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Glassdoor is committed to subjecting all personal data received from European Union (EU) member countries, the United Kingdom, and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce's Privacy Shield List at [privacyshield.gov/list](https://www.privacyshield.gov/list).
 
 Glassdoor is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Glassdoor complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
@@ -236,7 +245,7 @@ Under certain conditions, more fully described on the Privacy Shield website at 
 
 ### Updates to Our Privacy Policy
 
-We may revise this Policy from time to time by posting an updated version on the Platform. The revised Policy will be effective immediately for unregistered users and users registering accounts or otherwise acknowledging the Policy on or after the revision date. For other users who registered accounts before the revision date, it will also become effective immediately. However they can object to the new Policy within thirty (30) days after the revision date. If we make a change that we believe materially reduces your rights or increases your responsibilities, we will notify you by email (sent to the email address specified in your account) or by means of a notice on this website prior to the change becoming effective. We may provide notice of changes in other circumstances as well. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of the Platform is subject to the most current effective version of this Policy. If you object to the Policy after it becomes effective for you, you may no longer use the Platform. The prior version of the Policy can be found [here](https://web.archive.org/about/privacy-2018-10-23.htm).
+We may revise this Policy from time to time by posting an updated version on the Platform. The revised Policy will be effective immediately for unregistered users and users registering accounts or otherwise acknowledging the Policy on or after the revision date. For other users who registered accounts before the revision date, it will also become effective immediately. However they can object to the new Policy within thirty (30) days after the revision date. If we make a change that we believe materially reduces your rights or increases your responsibilities, we will notify you by email (sent to the email address specified in your account) or by means of a notice on this website prior to the change becoming effective. We may provide notice of changes in other circumstances as well. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of the Platform is subject to the most current effective version of this Policy. If you object to the Policy after it becomes effective for you, you may no longer use the Platform. The prior version of the Policy can be found [here](https://web.archive.org/about/privacy-2018-12-18.htm).
 
 ### Contact Us
 
