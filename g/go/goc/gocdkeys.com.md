@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gocdkeys.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227060156id_/https%3A//gocdkeys.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gocdkeys.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616180755id_/https%3A//gocdkeys.com/en/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY AND DATA PROTECTION AGREEMENT
 
