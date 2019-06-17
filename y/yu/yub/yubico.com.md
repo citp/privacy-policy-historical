@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yubico.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220081608id_/https%3A//www.yubico.com/support/terms-conditions/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yubico.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617080725id_/https%3A//www.yubico.com/support/terms-conditions/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Yubico
 
