@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiashopps.com privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110002730id_/https%3A//www.indiashopps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiashopps.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617065803id_/https%3A//www.indiashopps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IndiaShopps
 
@@ -16,7 +16,7 @@ We collect information from you when you register on our site, subscribe to a ne
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
   * To allow us to better service you in responding to your customer service requests. 
   * To administer a contest, promotion, survey or other site feature. 
   * To follow up with them after correspondence (live chat, email or phone inquiries) 
@@ -142,7 +142,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 **If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-  * Follow the instructions at the bottom of each email.
+  * Follow the instructions at the bottom of each email. 
 
 
 
