@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porch.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227205236id_/https%3A//porch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porch.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617111121id_/https%3A//porch.com/about/privacy) for the most accurate reproduction.*
 
 # Porch | Privacy
 
@@ -124,7 +124,7 @@ We may share aggregated, non-personal data with service providers, advertisers o
 
  **Changing Information; Closing Account**
 
-To change or delete your information, you may login to your account and modify or remove specified information that resides in your account. If you want to delete your account, please contact us at [questions@porch.com](mailto:questions@porch.com). We will remove your account within a reasonable time after receiving your request. Please note that, even after your account is deleted, information that you chose to provide in a public area of the Services (such as reviews and projects) will remain visible to the public and may remain in the accounts of Users and Pros with whom such information has been shared, and all of your information will remain in Porch’s backup/archival records. Porch may retain and use information in our records as described in this Privacy Policy, including but not limited to the section entitled “Disclosure of Information/Compliance with Laws and Policies; Protection of Rights,” above.
+To change or delete your information, you may login to your account and modify or remove specified information that resides in your account. If you want to delete your account, please contact us at[questions@porch.com](mailto:questions@porch.com). We will remove your account within a reasonable time after receiving your request. Please note that, even after your account is deleted, information that you chose to provide in a public area of the Services (such as reviews and projects) will remain visible to the public and may remain in the accounts of Users and Pros with whom such information has been shared, and all of your information will remain in Porch’s backup/archival records. Porch may retain and use information in our records as described in this Privacy Policy, including but not limited to the section entitled “Disclosure of Information/Compliance with Laws and Policies; Protection of Rights,” above.
 
 You may also make requests regarding your personal information, such as requests to access information or requests to update or correct inaccurate information, by emailing us at [questions@porch.com](mailto:questions@porch.com) or writing us at 2200 1st Avenue South, Seattle, WA 98134.
 
@@ -142,7 +142,7 @@ You may opt out of a specific mobile messaging campaign by texting “stop”. T
 
 ## Your California Privacy Rights
 
-Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties' direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at [questions@porch.com](mailto:questions@porch.com) or writing us at 2200 1st Ave South, Seattle, WA 98134.
+Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties' direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at[questions@porch.com](mailto:questions@porch.com) or writing us at 2200 1st Ave South, Seattle, WA 98134.
 
 ## Security
 
