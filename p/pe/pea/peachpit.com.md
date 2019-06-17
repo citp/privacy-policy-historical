@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the peachpit.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229024507id_/http%3A//www.peachpit.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachpit.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617184912id_/http%3A//www.peachpit.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice | Peachpit
 
 ## Information Collection and Use
 
-Peachpit.com is operated from 800 East 96th Street, Indianapolis, IN, 46240, and is operated by Pearson Education, Inc. ("Company"). We can be reached by email at [ask@peachpit.com](mailto:ask@peachpit.com).
+Peachpit.com is operated from 50 California Street, 18th Floor, San Francisco, CA, 94111, and is operated by Pearson Education, Inc. ("Company"). We can be reached by email at [ask@peachpit.com](mailto:ask@peachpit.com).
 
 We will not sell, share, or rent Personally Identifying Information to others in ways different from what is disclosed in this statement. Peachpit.com collects information from our users at several different points on our web site. Pearson Education recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our web site. 
 
