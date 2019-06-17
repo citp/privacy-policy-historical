@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allnewepisodes.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216062948id_/http%3A//allnewepisodes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnewepisodes.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617130634id_/http%3A//allnewepisodes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ We offer a number of services that require you to register for an account or pro
 
 Information you provide - When you sign up for a AllNewEpisodes.com Account or other AllNewEpisodes.com service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, we may also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other AllNewEpisodes.com services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information, in which case, you may send an e-mail to 
 
-[[email protected]](http://allnewepisodes.com/cdn-cgi/l/email-protection#47343237372835330736322e242c2b2234342829346924282a), clearly stating in the subject line your intention to be excluded.
+[[email protected]](http://allnewepisodes.com/cdn-cgi/l/email-protection#86f5f3f6f6e9f4f2c6f7f3efe5edeae3f5f5e9e8f5a8e5e9eb), clearly stating in the subject line your intention to be excluded.
 
 AllNewEpisodes.com cookies - When you visit AllNewEpisodes.com, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some AllNewEpisodes.com features and services may not function properly if your cookies are disabled. 
 
@@ -87,4 +87,4 @@ Changes to this policy Please note that this Privacy Policy may change from time
 
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through 
 
-[[email protected]](http://allnewepisodes.com/cdn-cgi/l/email-protection#66151316160914122617130f050d0a0315150908154805090b).
+[[email protected]](http://allnewepisodes.com/cdn-cgi/l/email-protection#f3808683839c8187b382869a90989f9680809c9d80dd909c9e).
