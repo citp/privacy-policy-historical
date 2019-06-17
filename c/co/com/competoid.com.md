@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the competoid.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217081920id_/http%3A//www.competoid.com/privacyPolicy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competoid.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617130435id_/https%3A//www.competoid.com/privacyPolicy.xhtml) for the most accurate reproduction.*
 
-# About us - Competoid.com
+# Privacy Policy - Competoid.com
 
 This Privacy Policy is effective immediately for users registering accounts after that date.
 
@@ -78,15 +78,7 @@ We shall be relieved of its obligation(s) to the extent that fulfilment of such 
 
 This policy and all questions of its interpretation shall be construed in accordance with the laws of India. Any dispute or difference between us and yourself arising out of or relating to the existence, validity, interpretation, performance or termination of, or otherwise in connection with these terms and conditions ("Dispute"), shall at first instance be attempted to be amicably settled between the parties through good faith negotiations. Either party shall be entitled to invoke such negotiations by giving to the other party a notice to that effect ("Dispute Notice"). If a Dispute is not resolved by way of good faith negotiations within a period of Fort five (45) days from the date when the Dispute Notice was received by the receiving party then either party shall be entitled to refer the Dispute to Arbitration and the provisions of the Arbitration and Conciliation Act, 1996, as amended ("Arbitration Act"), will apply to such arbitration. Such Arbitration proceedings shall be conducted in Chennai and the courts in Chennai shall have exclusive jurisdiction to entertain any dispute arising out of this policy. The arbitration proceedings shall be conducted in English language.
 
-If you believe that Competoid has not adhered to this Privacy Policy you may contact us online by clicking [here](https://web.archive.org/web/20181217081920id_/http%3A//www.competoid.com/contactUs.xhtml). or write to us at the following address:
-
-Competoid  
-No 1, Sathyamoorthy Street,  
-New Perungalathur,  
-Chennai  
-Tamil Nadu, India  
-PIN-600 063  
-contact-us@competoid.com
+If you believe that Competoid has not adhered to this Privacy Policy you may contact us online by clicking [here](https://web.archive.org/web/20190617130435id_/https%3A//www.competoid.com/contactUs.xhtml). or write to us at the following address:
 
 The information we obtain from or about you may be processed and stored in India and our other various servers located across the globe. Each location may provide for different data protection rules than the country in which you reside. If you have any questions relating to your personal data, please write to us on contact-us@competoid.com
 
