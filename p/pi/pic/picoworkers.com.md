@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the picoworkers.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229023722id_/https%3A//picoworkers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picoworkers.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617045231id_/https%3A//picoworkers.com/privacy.php) for the most accurate reproduction.*
 
 # Picoworkers
 
 Last Revision: May 1, 2016
 
-Welcome to the Picoworkers.com, a web service utility that connects Employers and Workers online. Picoworkers service is operated by Octobrain, Inc. and its subsidiaries and affiliates ("us," "we", "Picoworkers", "site" or "Picoworkers.com"). By using or accessing the Picoworkers Service, you agree that you have read, understand and are bound by this Privacy Policy ("Document"). We reserve the right, at our sole discretion, to change or delete portions of  this Document at any time without further notice. Your continued use of the  Picoworkers Service after any such changes constitutes your acceptance of the new Privacy Policy.
+Welcome to the Picoworkers.com, a web service utility that connects Employers and Workers online. Picoworkers service is operated by KredStreet, Inc. and its subsidiaries and affiliates ("us," "we", "Picoworkers", "site" or "Picoworkers.com"). By using or accessing the Picoworkers Service, you agree that you have read, understand and are bound by this Privacy Policy ("Document"). We reserve the right, at our sole discretion, to change or delete portions of  this Document at any time without further notice. Your continued use of the  Picoworkers Service after any such changes constitutes your acceptance of the new Privacy Policy.
 
 **Picoworkers** ******Principles**
 
