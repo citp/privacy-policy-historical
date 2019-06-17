@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buzzstream.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614123939id_/http%3A//www.buzzstream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzstream.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617214019id_/https%3A//www.buzzstream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BuzzStream
 
-  * Last Updated: May 22, 2018
+  * Last Updated: March 25, 2019
 
 
 
@@ -52,6 +52,8 @@ Following your registration on the Site, you can review and change your informat
 
 We will occasionally use supplementary data to build an accurate profile for sales and marketing purposes, as well as identify signifiers that will help us build a better product for you. All data gathered in this manner comes from publicly available third party sources.
 
+If you so choose, BuzzStream will connect to your email through the IMAP protocol and will index your email messages.  These email messages will only be readable only by your team and  used to generate reports available only to your team.  BuzzStream will also connect to your mail account via SMTP which will allow you to send  and schedule email from the BuzzStream interface.  If you connect through Googles OAuth service we will additionally consult the Google API to determine the email address used to send emails from your email account.
+
 ### Our Disclosure of Your Information
 
 We will not sell or rent your personally identifiable information to third parties without your explicit consent. The following describes some of the ways that your information may be disclosed in the normal scope of business to provide our services:
@@ -65,12 +67,6 @@ We will not sell or rent your personally identifiable information to third parti
 #### ●      PAYMENT INFORMATION.
 
   * We use credit card and other payment information (such as PayPal email addresses) you submit to us on the Site to process payments you make through the Site. We do not store credit card or other payment method information that you provide to us for recurring payment of your account; financial institutions (like PayPal and Authorize.net) have the sole and complete responsibility for the storage of credit card and payment information.
-
-
-
-#### ●      ANONYMIZED AGGREGATED DATA.
-
-  * We may aggregate information to provide benchmarking and other comparison information regarding, for example, the relative success of a Subscribers’ outreach campaign relative to companies in the same or different industries. If we do so, it will be in a manner that does NOT personally identify or connect Subscribers with reporters and bloggers. Your notes, communications, and any information linking your Subscriber account to a Contact will be kept private. We do not disclose any information that could be used to identify Subscribers personally.
 
 
 
@@ -89,6 +85,23 @@ We will not sell or rent your personally identifiable information to third parti
 #### ●      LEGAL REQUESTS; EMERGENCIES.
 
   * We cooperate with law enforcement inquiries and demands for information that are made under force of law. Therefore, we may provide personal information to law enforcement agencies in what we believe to be emergency situations, we may provide personal information where required by statute, court order, legal process or lawful authority, and we may provide it to our legal counsel in connection with the foregoing. In some cases, personal information that we collect may be stored or processed outside of the United States of America, and may therefore be subject to the legal jurisdiction of those countries.
+
+
+
+### Limited Use
+
+We limit the use of data to provide or improve user-facing features that are prominent in our user interface. 
+
+We only transfer the data to others if necessary to provide or improve user-facing features that are prominent in our user interface. We may also transfer data as necessary to comply with applicable law or as part of a merger, acquisition, or sale of assets with notice to users. 
+
+We won’t use or transfer your data for serving ads, including retargeting, personalized, or interest-based advertising.
+
+We won’t allow humans to read the data, unless:
+
+  * – We first obtained the user’s affirmative agreement for specific messages;
+  * – It is necessary for security purposes (such as investigating a bug or abuse);
+  * – It is necessary to comply with applicable law; or
+  * – Our use is limited to internal operations and the data (including derivations) have been aggregated and anonymized.
 
 
 
