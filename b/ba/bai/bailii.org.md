@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bailii.org privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819124645id_/http%3A//www.bailii.org/bailii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bailii.org privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617191043id_/http%3A//www.bailii.org/bailii/privacy.html) for the most accurate reproduction.*
 
 # BAILII - Privacy Policy
 
@@ -26,7 +26,7 @@ BAILII also monitors whether any robots attempt to index these databases in disr
 
 **BAILII reserves the right to exclude access to its databases by users or sites that are in apparent breach of any such legal requirements.**
 
-If you have any comments or suggestions in relation to this policy, please [send us some mail](https://web.archive.org/web/20180819124645id_/http%3A//www.bailii.org/bailii/feedback.html).
+If you have any comments or suggestions in relation to this policy, please [send us some mail](https://web.archive.org/web/20190617191043id_/http%3A//www.bailii.org/bailii/feedback.html).
 
 * * *
 
