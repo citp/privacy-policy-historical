@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ordinarytraveler.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323165651id_/https%3A//ordinarytraveler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordinarytraveler.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617203339id_/https%3A//ordinarytraveler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure • Ordinary Traveler
 
@@ -20,21 +20,45 @@ When subscribing to our email newsletter, you may be asked to enter your name an
   * We use regular Malware Scanning.
 
 
-  * We do not need an SSL because we do not sell products directly or collect any credit card information.
+  * Our site is HTTPS secure.
 
 
 
 ### Do we use ‘cookies’?
 
-  * We do not use cookies for tracking purposes
+  * Google Analytics uses cookies to gather information such as demographics, whether a visitor is using a mobile device or a desktop computer, whether a visitor is male or female. It does NOT collect your name, address, email, or phone number.
 
 
   * You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
 
-  * If you disable cookies, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
+  * If you disable cookies, some features may be disabled that make our site experience more efficient and some of our services will not function properly.
 
 
+
+### Use of personal data
+
+We do NOT require registration to use our site.
+
+We do use 3rd party programs which do track  _some data_  including demographics and cookies that we want to outline below.
+
+ _As mentioned above, virtually all websites use services like these- not just us!_
+
+1.) We use Google Analytics to track the traffic and growth of our site and monitor site performance. Google Analytics tells us which countries and cities our visitors are located in, whether a visitor is using a mobile device or a desktop computer, whether a visitor is male or female. It does NOT collect your name, address, email, or phone number.
+
+We only share broad demographic data when speaking to partners, and only personally use the data to provide a better user experience for you over time.
+
+2.) We use a 3rd party advertising network (AdThrive) which delivers image-based ads to you in part based on our site’s content, your demographics (via #1 above), and your web usage (via cookies saved on your device).
+
+We do not receive any data from our ad network regarding this, and we do not know what ads are explicitly delivered to you at any time.
+
+3.) We use 3rd party social media networks and a mailing list service (MailChimp).
+
+To use these features of our site you must explicitly opt-in by liking a social media profile or submitting your email address. Links and sign up forms for these are available on our site, but they are not required for use.
+
+By opting in, we  _may_  have access to your name and email address.
+
+We do not use personal data (name, email, mailing address, phone number) in any capacity beyond its intended use (i.e. delivering newsletters to subscribers).
 
 ### Third-party disclosure
 
@@ -50,7 +74,7 @@ We use Google AdSense Advertising on our website. Google, as a third-party vend
 
 ### We have implemented the following:
 
-Google Display Network Impression Reporting
+Ads using a 3rd party advertising network (AdThrive)
 
 We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
@@ -123,9 +147,19 @@ Due to the nature of my work, I often receive products to test or review. I am o
 
 I do occasionally post affiliate links. If you click those links and make a purchase, it does not cost you extra but I do I earn a small commission if you purchase the product through those links. I do not post things I have not personally used myself. These links help fund the cost of running this website.
 
-### To be in accordance with CANSPAM we agree to the following:
+### To be in accordance with CANSPAM and GDPR we agree to the following:
 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at **christyandscott {AT} ordinarytraveler {DOT} com**  and we will promptly remove you from **ALL** correspondence.
+
+You have the right to be forgotten on the sites you visit.
+
+You can unsubscribe or unfollow at any time, for any reason. You can remove cookies by clearing your browser history at any time.
+
+We do not use your names/emails or data associated with any specific individual outside of their designated 3rd party services as noted above.
+
+If you would like us to remove any further data, please email us and we’ll be happy to discuss our data policies further and see if we have any further data that can be removed.
+
+But please note that by emailing us to discuss this, you have to tell us more data about yourself than we typically have access to in the first place.
 
 ### Contacting Us
 
