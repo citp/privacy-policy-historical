@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synacor.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226031305id_/https%3A//www.synacor.com/privacy-policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synacor.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617045557id_/https%3A//www.synacor.com/privacy-policy/default.aspx) for the most accurate reproduction.*
 
 # Synacor, Inc. - Privacy Policy
 
@@ -194,13 +194,13 @@ Synacor, Inc.
 Privacy Policy Administrator   
 40 La Riviere Drive, Suite 300   
 Buffalo, NY 14202   
-[privacypolicy@synacor.com](https://web.archive.org/web/20181226031305id_/https%3A//www.synacor.com/privacy-policy/privacypolicy@synacor.com)
+[privacypolicy@synacor.com](https://web.archive.org/web/20190617045557id_/https%3A//www.synacor.com/privacy-policy/privacypolicy@synacor.com)
 
 In addition to the policies above, the following items refer specifically to [www.synacor.com](http://www.synacor.com/).
 
 We collect Personal Data on www.synacor.com when you apply for a job. If you apply for a job, we will collect through our job application service provider, information including your name, email, address, phone number and resume. We use a third party service provider to manage our job postings and resume submissions. This third party is prohibited from using your Personal Data for promotional purposes.
 
-We post customer testimonials/comments/reviews on our website which may contain Personal Data. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial, comments or reviews removed please contact us at [privacypolicy@synacor.com](https://web.archive.org/web/20181226031305id_/https%3A//www.synacor.com/privacy-policy/privacypolicy@synacor.com).
+We post customer testimonials/comments/reviews on our website which may contain Personal Data. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial, comments or reviews removed please contact us at [privacypolicy@synacor.com](https://web.archive.org/web/20190617045557id_/https%3A//www.synacor.com/privacy-policy/privacypolicy@synacor.com).
 
 You will not receive any communications from the Synacor.com website unless you contact us for a specific request or submit a job application. See above how to modify your Personal Data submitted.
 
