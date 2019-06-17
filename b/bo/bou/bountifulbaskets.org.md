@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bountifulbaskets.org privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216165018id_/http%3A//www1.bountifulbaskets.org/%3Fpage_id%3D1910) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bountifulbaskets.org privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617154250id_/http%3A//www2.bountifulbaskets.org/%3Fpage_id%3D1910) for the most accurate reproduction.*
 
 # Privacy Policy « Bountiful Baskets
 
