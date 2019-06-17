@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexsteele.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231092127id_/http%3A//www.pornstarnetwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexsteele.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617065723id_/http%3A//www.pornstarnetwork.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pornstar Network
 
