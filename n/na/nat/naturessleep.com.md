@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturessleep.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323215451id_/https%3A//www.naturessleep.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturessleep.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617234702id_/https%3A//www.naturessleep.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Nature's Sleep
 
@@ -21,6 +21,6 @@ Your personally identifiable information is kept secure. Only authorized employe
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
 
 By Email: [customerservice@naturessleep.com](mailto:customerservice@naturessleep.com).  
-By Phone: 1-877-557-5337 
+By Phone: [1-877-557-5337](tel:+18775575337)
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
