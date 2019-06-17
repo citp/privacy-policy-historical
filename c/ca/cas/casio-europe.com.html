@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the casio-europe.com privacy policy that was archived on 2018-10-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181019144437id_/https%3A//www.casio-europe.com/euro/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the casio-europe.com privacy policy that was archived on 2019-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190617110446id_/https%3A//www.casio-europe.com/euro/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -75,7 +75,7 @@
 <link rel="stylesheet" href="//www.casio-europe.com/resource/theme/styles/forms.css">
 <link rel="stylesheet" href="//www.casio-europe.com/resource/theme/styles/table.css">
 <link rel="stylesheet" href="//www.casio-europe.com/resource/theme/styles/lists.css">
-<link rel="stylesheet" href="//www.casio-europe.com/resource/theme/styles/layout.css">
+<link rel="stylesheet" href="//www.casio-europe.com/resource/theme/styles/layout.css?v=2">
 <link rel="stylesheet" href="//www.casio-europe.com/resource/theme/styles/header.css">
 <link rel="stylesheet" href="//www.casio-europe.com/resource/theme/styles/footer.css">
 <link rel="stylesheet" href="//www.casio-europe.com/resource/theme/styles/slots.css">
@@ -92,7 +92,7 @@
 <link rel="stylesheet" href="//www.casio-europe.com/resource/theme/styles/ie8.css">
 <link rel="stylesheet" href="//www.casio-europe.com/resource/assets/styles/products/ie8.css">
 <![endif]-->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//www.casio-europe.com/resource/theme/scripts/jquery-1.11.2.min.js"></script>
+<script src="//www.casio-europe.com/resource/theme/scripts/jquery-1.11.2.min.js"></script>
 <script src="//www.casio-europe.com/resource/theme/scripts/modernizr-2.8.3.js"></script>
 <script type="text/javascript" src="//www.casio-europe.com/cookie_api/js/jquery.js"></script></head>
 
@@ -100,11 +100,12 @@
 
 
 <body>
-<div id="ccc-destinationcontainer" style="height:1px;width:1px;overflow:hidden;"></div>
 
+<div id="ccc-destinationcontainer" style="height:1px;width:1px;overflow:hidden;"></div>
 <script type="text/javascript">
 if(loadCCCAfterJquery=function(){$(document).ready(function(){$("#ccc-destinationcontainer").load("https://www.casio-europe.com/cookie_api/cccframe.php?site=casio-europe.com&language=euro&position=bottom",function(){$("ccc-destinationcontainer").css("height","auto").css("width","auto").css("overflow","auto")})})},window.jQuery)loadCCCAfterJquery();else{var script=document.createElement("script");document.head.appendChild(script),script.type="text/javascript",script.src="//www.casio-europe.com/cookie_api/js/jquery.js",script.onload=loadCCCAfterJquery}
-</script><header id="header" class="grid-1 grid--1">
+</script>
+<header id="header" class="grid-1 grid--1">
   <div class="column">
     <div class="casio-logo"> <a href="//www.casio-europe.com/euro/">
       <img class="svg" src="//www.casio-europe.com/resource/assets/logos/casio-logo.svg" alt="CASIO"> <img src="//www.casio-europe.com/resource/assets/logos/casio-logo.png" alt="CASIO">
@@ -118,7 +119,7 @@ if(loadCCCAfterJquery=function(){$(document).ready(function(){$("#ccc-destinatio
           <ul>
           	
           	            <li> 
-            	<a href="//www.casio-europe.com/euro/products/watches/">Watches<span aria-hidden="true" class="icon icon-ah-thin-r-grey-light"></span></a> </li>
+            	<a href="//www.casio-europe.com/euro/products/watches/">Watches and Smartwatches<span aria-hidden="true" class="icon icon-ah-thin-r-grey-light"></span></a> </li>
                         
                         <li> 
             	<a href="//www.casio-europe.com/euro/products/school-and-graphic-calculators/">School and graphic calculators<span aria-hidden="true" class="icon icon-ah-thin-r-grey-light"></span></a> </li>
@@ -128,7 +129,7 @@ if(loadCCCAfterJquery=function(){$(document).ready(function(){$("#ccc-destinatio
                         
                         <li> 
             	<a href="//www.casio-europe.com/euro/products/musical-instruments/">Musical instruments<span aria-hidden="true" class="icon icon-ah-thin-r-grey-light"></span></a> </li>
-												
+									
                         
                         
                         <li> 
@@ -189,6 +190,8 @@ if(loadCCCAfterJquery=function(){$(document).ready(function(){$("#ccc-destinatio
   </div>
   <div id="btn-area" class="btn-area" hidden=""> <a id="btn-menu" class="btn-menu" hidden=""> <img class="svg" src="//www.casio-europe.com/resource/assets/images/icon_menu.svg" alt="Open Menu"> </a> <a id="btn-close" class="btn-close" hidden=""> <img class="svg" src="//www.casio-europe.com/resource/assets/images/icon_menu_close.svg" alt="Close Menu"> </a> </div>
 </nav>
+
+<!-- CONTENT_START -->
 
 
 
@@ -262,6 +265,19 @@ if(loadCCCAfterJquery=function(){$(document).ready(function(){$("#ccc-destinatio
 	  content: counter(item) ".";
 	}
 	</style>
+
+	<script type="text/javascript">
+	$(document).ready(function(){
+		if($(".a-check-link").length>=1){
+			$(".a-check-link").each(function(){
+				acl = $(this).html().toString();
+				if(acl.charAt(acl.length - 1) == "." || acl.charAt(acl.length - 1) == ","){
+					$(this).attr("href",acl.substring(0,acl.length-1));
+				}
+			});
+		}
+	});
+	</script>
 
 	<ol class="ccc-termsofuse-olli" id="ccc-termsofuse-olli"><li>
 <b>General information about the collection of personal data</b><br>
@@ -450,13 +466,26 @@ The legal basis for processing is in this case Article 6 (1) Sentence 1 b) GDPR.
 </li>
 </ul>
 </li>
-<li>
-<b>Use of cookies</b><br>
-In addition to the above-mentioned data, different types of cookies are used and stored on your computer while our CASIO website is being used. <br>
-Cookies are small text files which are stored on your computer or mobile end devices when you visit our CASIO websites. We receive a variety of information through the setting of cookies. <br>
-All information about the cookies we use can be found in our <a href="#" class="ccc-link-to-ccclayer-cookiepolicy-from-datenschutz-website">Cookie Policy</a>.
-</li>
-<li><b>Newsletter </b><br>
+<li><b>Use of cookies</b><br>
+In addition to the data already referred to, different types of cookies are used and stored on your computer while our CASIO website is being used. <br><br>
+
+Cookies are small text files which are stored on your computer or mobile terminal devices when you visit our CASIO websites. Cookies send us a variety of information. <br><br>
+
+All the information about the cookies we use can be found in our <a href="#" class="ccc-link-to-ccclayer-cookiepolicy-from-datenschutz-website">Cookie Policy</a>.<br><br>
+
+Third-party cookies (i.e. not from CASIO) are also placed on your device on this CASIO website. We allow third parties to access the CASIO website, but we do not have any control over the information which is provided concerning the cookie and do not have any access to the data. All this information is provided by the relevant third party in compliance with the applicable data privacy policy.<br><br>
+
+<br><br><ul><li><b>Google Analytics</b><br>
+This CASIO website uses Google Analytics, a web analysis service. This service is provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("Google"). Google Analytics uses cookies. The information created by the cookie about the way you use our CASIO website is sent to and stored on a Google server in the USA.<br><br>
+
+IP addresses are actively anonymised on the CASIO website and your IP address is truncated by Google within Member States of the European Union or in other countries which are parties to the European Economic Area agreement. The full IP address is only sent to and truncated on a Google server in the USA in exceptional circumstances. IP anonymisation is activated on the CASIO website.<br><br>
+
+Google uses this information on behalf of CASIO’s website operator to evaluate the way you use our online services, to collate reports for the website operator on website activities and to offer the operator other services connected with use of the website and the Internet. <br><br>
+
+Personal data collected using Google Analytics cookies are processed on the lawful grounds provided by Article 6 (1) f) GDPR. We haves a legitimate interest in the analysis of user behaviour for the purpose of optimising our web services and our marketing. We will be glad to provide the information on which our balance of interests is based. Google is subject to the EU-US Privacy Shield <a class="a-check-link" href="https://www.privacyshield.gov/EU-US-Framework." target="_blank">https://www.privacyshield.gov/EU-US-Framework.</a><br><br>
+
+Further information about Google Analytics and the use to which data generated by it are put is available in the Google data privacy policy: <a class="a-check-link" href="https://policies.google.com/privacy." target="_blank">https://policies.google.com/privacy.</a>
+<br></li><br></ul></li><li><b>Newsletter </b><br>
 On the CASIO website you have the opportunity to subscribe to a free newsletter. The data you enter on the input screen when registering for the newsletter are transmitted to us. These are usually:<br>
 <ul>
 <li>Your e-mail address</li>
@@ -470,7 +499,52 @@ After your confirmation we store your e-mail address and the further details in 
 	You can cancel the newsletter subscription at any time by withdrawing your consent. Each newsletter we send you contains a link which, when clicked, automatically unsubscribes you from the newsletter. You also have the opportunity to send an e-mail to <a href="mailto:newsletter@casio.de">newsletter@casio.de</a> or a message to the controller mentioned above in this Data Privacy Policy.
 
 
-</li><li>
+</li><li><b>Product servicing and repairs</b><br>
+You are able to obtain services for your CASIO products from us. Please note that our employees or employees of our service partners may have access to the data stored on your device within the scope of performing the supplied services. Data stored on the products you send in will not be processed by CASIO or our service partners.
+</li><li><b>Product registration</b><br>
+You can register one or more of your CASIO products on our website. Please note that we will store the personal data entered in the registration form. This relates to the following personal data:
+<br><br>
+Product information<br>
+• Model *<br>
+• Serial number *<br>
+• Place of purchase<br>
+• Retailer<br>
+• Date of purchase/warranty start date *<br>
+• Ownership status (bought/hired) <br><br>
+
+Personal information<br>
+• Title<br>
+• First name/surname<br>
+• Company <br>
+• Street/house number
+• Post code/city
+• Country<br>
+• Email address *<br>
+• Telephone no.<br><br>
+
+Data categories marked with * are mandatory.<br><br>
+
+The personal data entered in the mandatory fields is processed for the purpose of carrying out the registration and sending information regarding safety-related matters that concern the registered products. The legal basis for processing the personal data is Article 6(1)(b) GDPR.<br><br>
+
+The product registration period lasts two years (or five years in the case of GP-500, GP-400, GP-300 and AP-700 digital pianos) from the date of purchase. If you register within this period, your product registration will automatically end upon expiry of this period. After this period has expired, your personal data collected for the purpose of product registration will be deleted.  This does not affect the data for which you have given consent separately, if applicable, (e.g. participation in a prize draw, sending of newsletters, creation of user profiles for controlling the level of advertising, participation in surveys under the "Additional options" item).<br><br>
+
+<b>Security of information technology systems</b><br>
+The following additional data will be saved when the form is submitted:<br>
+• Your IP address<br>
+• The date and time when the form is submitted<br><br>
+
+This personal data processed during submission is processed in order to prevent the registration form being misused and to ensure the security of our information technology systems. The additional personal data collected during the submission process will be deleted after a period of no more than seven days. The legal basis for processing the data is Article 6(1)(b) GDPR.<br><br>
+
+<b>Additional options</b><br>
+As well as product registration, CASIO offers additional options. We will use the personal data provided at the time of registration (mandatory data and any other personal data provided) for the relevant purposes selected by you (e.g. participation in a prize draw, sending of newsletters, creation of user profiles for controlling the level of advertising, participation in surveys).<br><br>
+
+<b>a. Participation in a prize draw</b><br>
+Participation in the prize draw is based on the [participation terms and conditions link] available here, which you have accepted. After the prize draw is complete, the personal data collected will be deleted unless it is still required for other purposes. The legal basis for processing the personal data is Article 6(1)(b) GDPR.<br><br>
+
+<b>b. Newsletter subscription</b><br>
+Information about the processing of your personal data in relation to the newsletter subscription can be found in the "Newsletter" section of this privacy policy.  
+</li>
+<li>
 <b>Disclosure of data to third parties</b>
 <ul>
 <li>Principles<br>
@@ -536,13 +610,13 @@ We may update this Data Privacy Policy from time to time. This Data Privacy Poli
     <div class="column anchor">
       <dl>
         <dt><a href="//www.casio-europe.com/euro/products/"><em>Products</em></a></dt>
-                <dd><a href="//www.casio-europe.com/euro/products/watches/">Watches</a></dd>
+                <dd><a href="//www.casio-europe.com/euro/products/watches/">Watches and Smartwatches</a></dd>
         		        <dd><a href="//www.casio-europe.com/euro/products/musical-instruments/">Musical instruments</a></dd>
         		        <dd><a href="//www.casio-europe.com/euro/products/school-and-graphic-calculators/">School and graphic calculators</a></dd>
                         <dd><a href="//www.casio-europe.com/euro/products/consumer-calculators/">Consumer Calculators</a></dd>
                         <dd><a href="//www.casio-europe.com/euro/products/labeling-systems/">Labeling Systems</a></dd>
                         <dd><a href="http://www.exilim.eu/euro/" target="_blank">EXILIM Digital Cameras</a></dd>
-                                <dd><a href="//www.casio-europe.com/euro/products/electronic-cash-register/">Electronic Cash Register</a></dd>
+                                 <dd><a href="//www.casio-europe.com/euro/products/electronic-cash-register/">Electronic Cash Register</a></dd>
                         <dd><a href="//www.casio-europe.com/euro/products/projectors/">Projectors</a></dd>
                         <dd><a href="//www.casio-europe.com/euro/products/mobile-industrial-solutions/">Mobile Industrial Solutions</a></dd>
                
@@ -592,7 +666,7 @@ We may update this Data Privacy Policy from time to time. This Data Privacy Poli
 <footer id="footer">
   <div class="grid-1 grid--1">
     <div class="column">
-      <div class="elements"> <span class="casio-logo"> <img class="svg" src="//www.casio-europe.com/resource/assets/logos/casio-logo.svg" alt="CASIO"> <img src="//www.casio-europe.com/resource/assets/logos/casio-logo.png" alt="CASIO"> </span> <small class="copyright bg-ultra-light-grey bg--white txt-grey">© 2018 CASIO Europe GmbH</small> <a href="//www.casio-europe.com/euro/imprint/" class="link"><em>Imprint</em></a> <a href="//www.casio-europe.com/euro/privacy-policy/" class="link"><em>Data protection</em></a> <a href="//www.casio-europe.com/euro/terms-of-use/" class="link"><em>Terms of use</em></a> <a href="//www.casio-europe.com/euro/sitemap/" class="link"><em>Site Map</em></a> &nbsp;<em>
+      <div class="elements"> <span class="casio-logo"> <img class="svg" src="//www.casio-europe.com/resource/assets/logos/casio-logo.svg" alt="CASIO"> <img src="//www.casio-europe.com/resource/assets/logos/casio-logo.png" alt="CASIO"> </span> <small class="copyright bg-ultra-light-grey bg--white txt-grey">© 2019 CASIO Europe GmbH</small> <a href="//www.casio-europe.com/euro/imprint/" class="link"><em>Imprint</em></a> <a href="//www.casio-europe.com/euro/privacy-policy/" class="link"><em>Data protection</em></a> <a href="//www.casio-europe.com/euro/terms-of-use/" class="link"><em>Terms of use</em></a> <a href="//www.casio-europe.com/euro/sitemap/" class="link"><em>Site Map</em></a> &nbsp;<em>
 <a href="#" class="ccc-another-link-to-ccclayer link"><nobr>Cookie settings</nobr></a>
 &nbsp;
 <a href="#" class="ccc-link-to-ccclayer-cookiepolicy link"><nobr>Cookie policy</nobr></a>
@@ -622,17 +696,21 @@ We may update this Data Privacy Policy from time to time. This Data Privacy Poli
 <script src="//www.casio-europe.com/resource/assets/scripts/products/lib/backbone-min.js"></script> 
 <script src="//www.casio-europe.com/resource/assets/scripts/products/lib/jquery.nouislider.all.min.js"></script>
 <script src="//www.casio-europe.com/resource/theme/scripts/functions.js"></script>
-<script src="//www.casio-europe.com/resource/assets/scripts/products/yt_tracking.js"></script>	<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<script src="//www.casio-europe.com/resource/assets/scripts/products/yt_tracking.js"></script>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-49548521-1"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
 
-  ga('create', 'UA-49548521-1', 'casio-europe.com');
-  ga('require', 'displayfeatures');
-  ga('set', 'anonymizeIp', true);
-  ga('send', 'pageview');
+  	gtag('config', 'UA-49548521-1', { 'anonymize_ip': true });
 	</script>
+
+
+
+
 
 
 
@@ -640,7 +718,7 @@ We may update this Data Privacy Policy from time to time. This Data Privacy Poli
 
 	
 
-
+<!-- CONTENT_END -->
 
 
 
