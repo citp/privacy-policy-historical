@@ -1,132 +1,141 @@
-<!--The following is the downloaded HTML source of the trustcobank.com privacy policy that was archived on 2016-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160419082734id_/https%3A//www.trustcobank.com/page/privacy-policy-49.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trustcobank.com privacy policy that was archived on 2019-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190617201048id_/https%3A//www.trustcobank.com/page/privacy-policy-49.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Privacy Policy</title>
+    <!-- Google Tag Manager -->
+    <script type="text/javascript" async="" src="//siteimproveanalytics.com/js/siteanalyze_50166.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TJV5TBV"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TJV5TBV');</script>
+    <!-- End Google Tag Manager -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Trustco Bank-Privacy Policy</title>
 <meta name="keywords" content="Privacy Policy">
 <meta name="description" content="Thank you for visiting the Trustco Bank. This website is designed to make it easier and more efficient for Trustco Bank customers to interact with us. Like all online resources, we recognize that visitors to this website are concerned about their privacy. Trustco Bank is committed to preserving your privacy when visiting this website.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="google-site-verification" content="ZzlgEPkwQI7JUugI1bGXp-CaAovFCYiNLz8AHrftS-A">
     <link rel="shortcut icon" type="image/x-icon" href="https://www.trustcobank.com/favicon.ico">
-    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css-new/main.css">
-    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css-new/navigation.css">
-    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css-new/forms.css">
-    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css-new/tables.css">
-    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css-new/rates.css">
-    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css-new/custom_styles.php">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.trustcobank.com/js/jquery-1.8.2.min.js"></script>
+    <script type="text/javascript" src="https://www.trustcobank.com/js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="https://www.trustcobank.com/js/jquery.cookie.js"></script>
     <script type="text/javascript" src="https://www.trustcobank.com/js/jquery.touchSwipe.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css-new/shadowbox.css">
-    <script type="text/javascript" src="https://www.trustcobank.com/js/shadowbox.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css/main.css?v=2017">
+    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css/grid.css?v=2017">
+    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css/tables.css?v=2017">
+    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css/font-awesome.min.css?v=2017">
+    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css/forms.css?v=2017">
+    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css/navigation.css?v=2017">
+    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css/calendar.css?v=2017">
+    <script type="text/javascript" src="https://www.trustcobank.com/js/event-calendar.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css/custom_styles.php">
     <script type="text/javascript">
-      Shadowbox.init({
-        overlayOpacity: 0.7,
-        onFinish: function() {
-          $("#sb-body img").swipe({
-            swipeLeft: function() { Shadowbox.next(); },
-            swipeRight: function() { Shadowbox.previous(); }
-          });
-        }
-      });
-    </script>
-    <script type="text/javascript">
-      $(document).ready(function() {
+      $(function() {
+        // Function for delaying drop-downs on hover off
+        $('ul#main-navigation > li').hover(function() {
+          $('ul#main-navigation > li').removeClass('over');
+          var timer = $(this).data('timer');
+          if(timer) { clearTimeout(timer); }
+          $(this).addClass('over');
+        }, function() {
+          var li = $(this);
+          li.data('timer', setTimeout(function() { li.removeClass('over'); }, 500));
+        });
+
         // Pop-up for external links
         $('a.link-external').click(function() {
           return confirm('You are about to leave ' + window.location.hostname + '.  Press "OK" to leave, or "Cancel" to stay.');
         });
+
         // Pop-up for external credit card links
         $('a.link-external-credit').click(function() {
           return confirm('You are about to leave ' + window.location.hostname + '.  Press "OK" to leave, or "Cancel" to stay.' + "\n\n" + 'This is a secure website to apply for the specific product you have chosen.');
         });
       });
     </script>
-          <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css-new/interior.css">
-      <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css-new/landing.css">
-      <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css-new/ribbons.css">
-      <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css-new/locator.css">
-      <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css-new/gallery.css">
+          <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css/interior.css?v=2017">
+      <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css/gallery.css?v=2017">
               <script src="https://www.google.com/recaptcha/api.js"></script>
-              <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css-new/responsive.css">
-        <script>
+        <link type="text/css" rel="stylesheet" href="https://www.trustcobank.com/css/jquery.fancybox.css?v=2.1.5" media="screen">
+    <script type="text/javascript" src="https://www.trustcobank.com/js/jquery.fancybox.pack.js?v=2.1.5"></script>
+    <script type="text/javascript">
+      $(function() {
+        $(".fancybox").fancybox({
+          helpers : {
+            title: {
+              type: 'inside',
+              position: 'bottom'
+            }
+          },
+        });
+      });
+    </script>
+    <link rel="stylesheet" type="text/css" href="https://www.trustcobank.com/css/responsive.css?v=2017">
+  </head>
+  <body class="body-interior section-49 page-49">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJV5TBV"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <script>
 
  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-
  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-
  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-
  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
- 
-
  ga('create', 'UA-28305925-1', 'auto', {'allowLinker': true});
-
  ga('require', 'linker');
-
  ga('linker:autoLink', ['trustcomortgages.com/'] );
-
  ga('send', 'pageview');
 
- 
-
-</script>  </head>
-  <body class="body-interior">
-                <div id="wrapper">
+</script>            <div id="wrapper">
       <div id="container">
         <div id="inner">
           <div id="header">
             <div id="header-outer" class="div-outer">
               <div id="header-inner" class="div-inner">
-                <div id="header-top">
-                  <div id="header-left">
-                    <a href="https://www.trustcobank.com/index.php" id="link-home"><img src="https://www.trustcobank.com/images/logo.jpg" border="0" alt="Logo"></a>
-                  </div> <!-- end header-left -->
-                  <div id="header-right">
-                    <div id="header-right-top">
-                      <div id="top-links">
-                        <!--sphider_noindex-->
-                        <a href="https://www.trustcobank.com/page/online-banking-5.html">Online Banking</a>&nbsp;&nbsp;|&nbsp;
-                        <a href="https://www.trustcobank.com/locator">Find ATM / Branches</a>&nbsp;&nbsp;|&nbsp;
-                        <a href="https://www.trustcobank.com/page/employment-listings-22.html">Careers</a>&nbsp;&nbsp;|&nbsp;
-                        <a href="https://www.snl.com/irweblinkx/corporateprofile.aspx?iid=100465" class="link-external">Investor Relations</a>&nbsp;&nbsp;|&nbsp;
-                        <a href="https://www.trustcobank.com/page/contact-us-27.html">Contact Us</a>
-                        <!--/sphider_noindex-->
-                      </div> <!-- end top-links -->
-                      <div id="top-links-mobile">
-                        <a class="button-silver" href="https://www.trustcobank.com/index.php#onlinebanking"><span>Online Banking Login</span></a>
-                        <a class="button-silver" href="https://www.trustcobank.com/locator#search"><span>Find ATM / Branches</span></a>
-                      </div> <!-- end top-links-mobile -->
-                      <div class="clearfloats"></div>
-                    </div> <!-- end header-right-top -->
-                    <div id="header-right-bottom">
-                      <div id="site-search">
-                                                <form action="/search/search.php" method="get">
-                          <input type="hidden" name="search" value="1">
-                          <input type="text" class="input-text" name="query" id="query" value="" placeholder="enter keyword(s)">
-                          <input type="image" src="https://www.trustcobank.com/images/button-search.jpg">
-                        </form>
-                      </div> <!-- end site-search -->
-                      <div id="zip-code-search">
-                                                  <form action="/page/privacy-policy-49.html" method="post">
-                            <strong>Set Your Location:</strong>&nbsp;&nbsp;
-                            <input type="text" class="input-text" name="location-zip" value="" placeholder="enter zip code">
-                            <input type="image" src="https://www.trustcobank.com/images/button-go.jpg">
-                                                      </form>
-                                              </div> <!-- end zip-code-search -->
-                      <div class="clearfloats"></div>
-                    </div> <!-- end header-right-bottom -->
-                  </div> <!-- end header-right -->
+                <div id="header-left">
+                  <a href="https://www.trustcobank.com/index.php" id="link-home"><img src="https://www.trustcobank.com/images/logo.png" alt="Trustco Bank"></a>
+                </div> <!-- end header-left -->
+                <div id="header-right">
+                  <div id="header-buttons">
+                    <a href="/page/online-banking-5.html" class="button-green button-round"><span class="fa fa-lock"></span> Online Banking</a>
+                  </div> <!-- end header-buttons -->
+                  <div id="header-links">
+                    <a href="/page/contact-us-27.html">Contact Us</a> |
+                    <a href="https://www.trustcobank.com/locator">Find ATMs / Branches</a> |
+                    <a href="https://www.trustcobank.com/employmentlistings">Careers</a>
+                    <span id="header-phone">800-670-3110</span>
+                  </div> <!-- end header-links -->
+                  <div id="header-search">
+                                        <label for="query">Search Site:</label>
+                    <form action="/search.php" method="get">
+                      <input type="search" class="input-text" name="query" id="query" value="" placeholder="">
+                      <button type="submit" id="" style="width: 24px; height: 24px; vertical-align: middle; background: url('/images/button-search-go.png'); border: 0px; cursor: pointer;">
+                        <span style="display: none;">Submit</span>
+                      </button>
+                    </form>
+                  </div> <!-- end header-search -->
                   <div class="clearfloats"></div>
-                </div> <!-- end header-top -->
-                <div id="header-bottom">
-                  <div id="navigation">
-                    <div id="navigation-desktop">
+                </div> <!-- end header-right -->
+                <div class="clearfloats"></div>
+              </div> <!-- end header-inner -->
+            </div> <!-- end header-outer -->
+          </div> <!-- end header -->
+          <div id="navigation">
+            <div id="navigation-outer" class="div-outer">
+              <div id="navigation-inner" class="div-inner">
+                <div id="navigation-mobile">
+            <div id="navigation-mobile-label">Menu</div>
+            <a id="navigation-mobile-link"><span></span></a>
+            <div class="clearfloats"></div>
+          </div> <!-- end navigation-mobile -->
+<div id="navigation-main">
 <ul id="main-navigation">
 <li><a id="nav-0" class="" href="/index.php"><span>Home</span></a></li>
 <li><span class="divider"></span></li>
-<li><a id="nav-1" class="nav-parent" href="/page/personal-1.html"><span>Personal</span></a>
+<li id="nav-1"><a class="nav-parent" href="/page/personal-1.html"><span>Personal</span></a>
 
 <ul>
 <li><a href="/page/deposit-accounts-8.html"><strong>Deposit Accounts »</strong></a>
@@ -142,6 +151,8 @@
 </li>
 <li><a href="/page/retirement-accounts-39.html">Retirement Accounts</a>
 </li>
+<li><a href="/page/health-savings-accounts-74.html">Health Savings Accounts</a>
+</li>
 </ul>
 </li>
 <li><a href="/page/loan-products-9.html"><strong>Loan Products »</strong></a>
@@ -151,6 +162,10 @@
 
 <ul>
 <li><a href="/page/hometown-first-time-home-buyers-program-78.html">Hometown First Time Home Buyers Program</a>
+</li>
+<li><a href="/page/trustcos-mortgage-process-106.html">Trustco's Mortgage Process</a>
+</li>
+<li><a href="/page/closing-on-your-loan-what-to-expect-after-approval-105.html">Closing On Your Loan: What To Expect After Approval</a>
 </li>
 </ul>
 </li>
@@ -164,7 +179,7 @@
 </li>
 <li><a href="/page/auto-loan-calculator-45.html">Auto Loan Calculator</a>
 </li>
-<li><a href="http://www.salliemae.com/smartoption/trustcobank" class="link-external" target="_blank">Student Loans</a>
+<li><a href="/page/student-loans-46.html">Student Loans</a>
 </li>
 <li><a href="/page/building-loans-55.html">Building Loans</a>
 </li>
@@ -179,22 +194,26 @@
 </li>
 </ul>
 </li>
+<li><a href="https://www.trustcobank.com/vs-uploads/pdf/1545848327_SWITCH-ASSIST-KIT-2.pdf" target="_blank">Switch Assist</a>
+</li>
 </ul>
 </li>
 <li><span class="divider"></span></li>
-<li><a id="nav-2" class="nav-parent" href="/page/commercial-2.html"><span>Commercial</span></a>
+<li id="nav-2"><a class="nav-parent" href="/page/business-2.html"><span>Business</span></a>
 
 <ul>
-<li><a href="/page/commercial-mortgages-11.html">Commercial Mortgages</a>
+<li><a href="/page/business-lending-11.html">Business Lending</a>
 </li>
 <li><a href="/page/employee-benefits-12.html">Employee Benefits</a>
 </li>
 <li><a href="/page/home-town-business-checking-13.html">Home Town Business Checking</a>
 </li>
+<li><a href="/page/business-customer-internet-banking-awareness--education-program-120.html">Business Customer Internet Banking Awareness &amp; Education Program</a>
+</li>
 </ul>
 </li>
 <li><span class="divider"></span></li>
-<li><a id="nav-3" class="nav-parent" href="/page/trustco-financial-services-3.html"><span>Trustco Financial Services</span></a>
+<li id="nav-3"><a class="nav-parent" href="/page/trustco-financial-services-3.html"><span>Trustco Financial Services</span></a>
 
 <ul>
 <li><a href="/page/estate-settlement-14.html">Estate Settlement</a>
@@ -213,15 +232,17 @@
 </li>
 <li><a href="https://www.trustcobank.com/calculators.php">Calculators</a>
 </li>
+<li><a href="/page/2018-year-in-review-117.html">2018 Year in Review</a>
+</li>
 </ul>
 </li>
 <li><span class="divider"></span></li>
-<li><a id="nav-4" class="nav-parent" href="/page/about-trustco-4.html"><span>About Trustco</span></a>
+<li id="nav-4"><a class="nav-parent" href="/page/about-trustco-4.html"><span>About Trustco</span></a>
 
 <ul>
 <li><a href="/page/employment-opportunities-21.html">Employment Opportunities</a>
 </li>
-<li><a href="/page/employment-listings-22.html">Employment Listings</a>
+<li><a href="/employmentlistings">Employment Listings</a>
 </li>
 <li><a href="/page/we-are-trustco-bank-60.html">We Are Trustco Bank</a>
 </li>
@@ -229,12 +250,12 @@
 </li>
 <li><a href="/page/the-history-of-trustco-bank-57.html">The History of Trustco Bank</a>
 </li>
-<li><a href="/page/trustco-banks-home-town-heroes-62.html">Trustco Bank's Home Town Heroes</a>
+<li><a href="https://www.snl.com/irweblinkx/corporateprofile.aspx?iid=100465" class="link-external" target="_blank">Investor Relations</a>
 </li>
 </ul>
 </li>
 <li><span class="divider"></span></li>
-<li><a id="nav-5" class="nav-parent" href="/page/online-banking-5.html"><span>Online Banking</span></a>
+<li id="nav-5"><a class="nav-parent" href="/page/online-banking-5.html"><span>Online Banking</span></a>
 
 <ul>
 <li><a href="https://www.trustcobank.com/page/online-banking-5.html">Online Banking Login</a>
@@ -250,7 +271,7 @@
 </ul>
 </li>
 <li><span class="divider"></span></li>
-<li><a id="nav-6" class="nav-parent" href="/page/customer-service-6.html"><span>Customer Service</span></a>
+<li id="nav-6"><a class="nav-parent" href="/page/customer-service-6.html"><span>Customer Service</span></a>
 
 <ul>
 <li><a href="/locator">Branch / ATM Locator</a>
@@ -260,7 +281,7 @@
 </ul>
 </li>
 <li><span class="divider"></span></li>
-<li><a id="nav-7" class="nav-parent" href="/page/faqs-7.html"><span>FAQs</span></a>
+<li id="nav-7"><a class="nav-parent" href="/page/faqs-7.html"><span>FAQs</span></a>
 
 <ul>
 <li><a href="/page/general-banking-faqs-28.html">General Banking FAQ's</a>
@@ -279,111 +300,63 @@
 </li>
 <li><a href="/page/mobile-banking-faqs-71.html">Mobile Banking FAQs</a>
 </li>
+<li><a href="/page/mobile-wallet-faqs-87.html">Mobile Wallet FAQ's</a>
+</li>
+<li><a href="/page/mobile-deposit-faqs-90.html">Mobile Deposit FAQ's</a>
+</li>
+<li><a href="/page/mobi-money-faqs-102.html">Mobi Money FAQ's</a>
+</li>
 </ul>
 </li>
 </ul>
-</div> <!-- end navigation-desktop -->
-<div id="navigation-mobile"><select id="mobile-navigation-items" class="mobile-display">
-<option value="/index.php">Home</option>
-<option value="/page/personal-1.html">Personal</option>
-<option value="/page/deposit-accounts-8.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deposit Accounts</option>
-<option value="/page/home-town-checking-35.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home Town Checking</option>
-<option value="/page/savings-accounts-36.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Savings Accounts</option>
-<option value="/page/money-market-accounts-37.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Money Market Accounts</option>
-<option value="/page/certificates-of-deposit-cds-38.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certificates of Deposit (CDs)</option>
-<option value="/page/retirement-accounts-39.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retirement Accounts</option>
-<option value="/page/loan-products-9.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loan Products</option>
-<option value="/page/mortgages-40.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mortgages</option>
-<option value="/page/mortgage-application-documentation-checklist-75.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mortgage Application Documentation Checklist</option>
-<option value="/page/online-mortgage-inquiry-83.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online Mortgage Inquiry</option>
-<option value="/page/mortgage-loan-calculator-41.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mortgage Loan Calculator</option>
-<option value="/page/home-equity-loans-and-credit-lines-42.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home Equity Loans and Credit Lines</option>
-<option value="/page/consumer-loans-43.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consumer Loans</option>
-<option value="/page/auto-loans-44.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auto Loans</option>
-<option value="/page/auto-loan-calculator-45.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auto Loan Calculator</option>
-<option value="http://www.salliemae.com/smartoption/trustcobank" class="link-external" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Loans</option>
-<option value="/page/building-loans-55.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building Loans</option>
-<option value="/page/trustco-home-town-credit-card-65.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trustco Home Town Credit Card</option>
-<option value="/page/helpful-links-10.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Helpful Links</option>
-<option value="/page/atmdebit-card-47.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ATM/Debit Card</option>
-<option value="/page/commercial-2.html">Commercial</option>
-<option value="/page/commercial-mortgages-11.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Commercial Mortgages</option>
-<option value="/page/employee-benefits-12.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Employee Benefits</option>
-<option value="/page/home-town-business-checking-13.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home Town Business Checking</option>
-<option value="/page/trustco-financial-services-3.html">Trustco Financial Services</option>
-<option value="/page/estate-settlement-14.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estate Settlement</option>
-<option value="/page/investment-management-account-15.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Investment Management Account</option>
-<option value="/page/retirement-plans--rollovers-16.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Retirement Plans &amp; Rollovers</option>
-<option value="/page/trust-under-your-will-17.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trust Under Your Will</option>
-<option value="/page/financial-planning-18.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Planning</option>
-<option value="/page/living-trust-19.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Living Trust</option>
-<option value="/page/fixed-annuities-20.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fixed Annuities</option>
-<option value="/page/financial-services-seminars-77.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Services Seminars</option>
-<option value="https://www.trustcobank.com/calculators.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Calculators</option>
-<option value="/page/about-trustco-4.html">About Trustco</option>
-<option value="/page/employment-opportunities-21.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Employment Opportunities</option>
-<option value="/page/employment-listings-22.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Employment Listings</option>
-<option value="/page/we-are-trustco-bank-60.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We Are Trustco Bank</option>
-<option value="/page/a-letter-from-our-president--ceo-59.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Letter from our President &amp; CEO</option>
-<option value="/page/the-history-of-trustco-bank-57.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The History of Trustco Bank</option>
-<option value="/page/trustco-banks-home-town-heroes-62.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trustco Bank's Home Town Heroes</option>
-<option value="/page/online-banking-5.html">Online Banking</option>
-<option value="https://www.trustcobank.com/page/online-banking-5.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online Banking Login</option>
-<option value="/page/e-statements-23.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-Statements</option>
-<option value="/page/security-and-fraud-prevention-24.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Security and Fraud Prevention</option>
-<option value="/page/fraud-prevention-alerts-25.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fraud Prevention: ALERTS</option>
-<option value="/page/mobile-banking-information-70.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile Banking Information</option>
-<option value="/page/customer-service-6.html">Customer Service</option>
-<option value="/locator">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Branch / ATM Locator</option>
-<option value="/page/contact-us-27.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact Us</option>
-<option value="/page/faqs-7.html">FAQs</option>
-<option value="/page/general-banking-faqs-28.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;General Banking FAQ's</option>
-<option value="/page/atmdebit-card-faqs-29.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ATM/Debit Card FAQ's</option>
-<option value="/page/customer-alerts-e-mailtext-alerts-faqs-30.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Customer Alerts E-mail/Text Alerts FAQ's</option>
-<option value="/page/customer-service-faqs-31.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Customer Service FAQ's</option>
-<option value="/page/e-statements-faqs-32.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e-Statements FAQ's</option>
-<option value="/page/online-banking-faqs-33.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online Banking FAQ's</option>
-<option value="/page/security-faqs-34.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Security FAQ's</option>
-<option value="/page/mobile-banking-faqs-71.html">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile Banking FAQs</option>
-<option value="/page/current-interest-rates-52.html">Current Interest Rates</option>
-<option value="/page/privacy-policy-49.html" selected="">Privacy Policy</option>
-<option value="/page/site-map-50.html">Site Map</option>
-</select>
+</div> <!-- end navigation-main -->
 <script type="text/javascript">
-            $(document).ready(function() {
-              $("#mobile-navigation-items").on("change", function() {
-                window.location = $(this).val();
+            // Function for toggling mobile menu
+            $(function() {
+              $("#navigation-mobile").click(function() {
+                $("#navigation-main").slideToggle();
               });
             });
+
+            // Handling window resizing
+            $(window).on("resize", function() {
+              if($(window).width() > 1024) {
+                $("#navigation-main").css("display", "");
+              }
+            }).resize();
           </script>
-</div> <!-- end navigation-mobile -->
-                  </div> <!-- end navigation -->
-                </div> <!-- end header-bottom -->
-              </div> <!-- end header-inner -->
-            </div> <!-- end header-outer -->
-          </div> <!-- end header -->
-                    <div id="content">
+                <div class="clearfloats"></div>
+              </div> <!-- end navigation-inner -->
+            </div> <!-- end navigation-outer -->
+          </div> <!-- end navigation -->
+          <div id="content">
             <div id="content-outer" class="div-outer">
               <div id="content-inner" class="div-inner">
+                <div id="content-main">
 <div id="left">
   <div id="left-side">
-    	<div id="left-navigation">
-	  <h2><span><a href="/page/privacy-policy-49.html" class="current">Privacy Policy</a></span></h2>
-	</div> <!-- end left-navigation -->
+      <div id="left-navigation">
+    <p class="left-navigation-top"><a href="/page/privacy-policy-49.html" class="current">Privacy Policy</a></p>
+  </div> <!-- end left-navigation -->
 <div id="left-modules">
   <div class="modulebox">
     <div class="modulebox-title">Quick Links</div>
     <div class="modulebox-content">
       <ul id="quick-links">
-<li><a id="link-warning-high" style="color: #e61b01;" href="/page/security-and-fraud-prevention-24.html">Fraud ALERT (New)</a></li>
-<li><a id="link-help" href="/page/online-banking-5.html">Online Banking Help</a></li>
-<li><a id="link-faqs" href="/page/online-banking-faqs-33.html">Online Banking FAQs</a></li>
-<li><a id="link-contact" href="/page/contact-us-27.html">Contact Us</a></li>
-<li><a id="link-money" href="/locator">Branch/ATM Locator</a></li>
-<li><a id="link-mobile" href="/page/customer-alerts-e-mailtext-alerts-faqs-30.html">Mobile Alerts</a></li>
-<li><a id="link-checks" href="/page/customer-service-faqs-31.html">Reorder Checks</a></li>
-<li><a id="link-customer" href="/page/customer-service-6.html">Customer Service</a></li>
-<li><a id="link-warning" href="/page/security-and-fraud-prevention-24.html">Security/Fraud Prevention</a></li>
+<li><a id="link-mortgage-start" class="link-external" href="https://trustcobank.mortgage-application.net/" target="_blank" rel="noopener">Start Mortgage Application</a></li>
+<li><a id="link-mortgage-submit" href="https://www.trustcobank.com/page/online-mortgage-inquiry-83.html">Submit Mortgage Inquiry</a></li>
+<li><a id="link-rates" href="https://www.trustcobank.com/page/current-interest-rates-52.html">Current Rates</a></li>
+<li><a id="link-warning-high" href="https://www.trustcobank.com/page/fraud-prevention-alerts-25.html">Fraud ALERT (New)</a></li>
+<li><a id="link-accessibility" href="https://www.trustcobank.com/website_accessibility.php">Accessibility Statement</a></li>
+<li><a id="link-help" href="https://www.trustcobank.com/page/online-banking-5.html">Online Banking Help</a></li>
+<li><a id="link-faqs" href="https://www.trustcobank.com/page/online-banking-faqs-33.html">Online Banking FAQs</a></li>
+<li><a id="link-money" href="https://www.trustcobank.com/page/my-money-progam-110.html">My Money Program</a></li>
+<li><a id="link-contact" href="https://www.trustcobank.com/page/contact-us-27.html">Contact Us</a></li>
+<li><a id="link-locator" href="https://www.trustcobank.com/locator">Branch/ATM Locator</a></li>
+<li><a id="link-mobile" href="https://www.trustcobank.com/page/customer-alerts-e-mailtext-alerts-faqs-30.html">Mobile Alerts</a></li>
+<li><a id="link-events" href="https://www.trustcobank.com/rsvp">Trustco Events</a></li>
+<li><a id="link-customer" href="https://www.trustcobank.com/page/customer-service-6.html">Customer Service</a></li>
+<li><a id="link-warning" href="https://www.trustcobank.com/page/security-and-fraud-prevention-24.html">Security/Fraud Prevention</a></li>
 </ul>    </div>
   </div>
 </div> <!-- end left-modules -->  </div> <!-- end left-side -->
@@ -392,7 +365,7 @@
     <p><span style="text-decoration: underline;">Generally</span></p>
 <p>Thank you for visiting the Trustco Bank (also referred to in this privacy statement as "we," "our," or "us") website (the "Site"). The Site is designed to make it easier and more efficient for Trustco Bank customers to interact with us. Like all online resources, we recognize that visitors to this Site are concerned about their privacy. Trustco Bank is committed to preserving your privacy when visiting this Site.</p>
 <p>This Online Privacy Policy describes our privacy practices regarding information collected from visitors to this Site. It describes what data is collected, how that information is used, and how the information may be shared. Trustco Bank may, at its sole discretion, change modify, add, or delete portions of this Online Privacy Policy. Because this Online Privacy Policy only applies to this Site, you should examine the privacy policy of any third party website ("Third Party Sites") you access through this Site.</p>
-<p>If you have a financial product with Trustco Bank for personal, family, or household purposes the sharing of your personally-identifiable information will be governed by our customer privacy policy.&nbsp; Our current customer privacy policy may be <a href="/uploads/pdf/1450889055_Privacy Policy 9.2015.pdf" target="_blank">accessed by clicking here</a>.</p>
+<p>If you have a financial product with Trustco Bank for personal, family, or household purposes the sharing of your personally-identifiable information will be governed by our customer privacy policy.&nbsp; Our current customer privacy policy may be <a href="/vs-uploads/pdf/1527799968_PrivacyNotice6-2018.pdf" target="_blank" rel="noopener">accessed by clicking here</a>.</p>
 <p><br><span style="text-decoration: underline;">Information Collected When You Visit this Site And How We Use It</span></p>
 <p>When you visit this Site we automatically collect and store the following non-personally-identifiable information about your visit:</p>
 <ul>
@@ -426,7 +399,7 @@
 <p><br><span style="text-decoration: underline;">Your Options</span></p>
 <ul>
 <li>To stop receiving promotional emails, follow the instructions in any promotional message you receive from Trustco Bank. Even if you opt out of getting marketing messages, we may still send you transactional messages, including responses to your questions or information about your accounts with us.</li>
-<li><a class="link-external" href="http://www.networkadvertising.org/choices/#completed" target="_blank">To opt out of online behavioral advertising click here</a>.&nbsp; This opt-out is browser- and computer-specific because the opt-out is stored as a cookie.&nbsp; If you delete cookies after you opt out, you will need to opt out again.&nbsp; Please note that you may still continue to see our generic advertising even if you opt out of online behavioral advertising.</li>
+<li><a class="link-external" href="http://www.networkadvertising.org/choices/#completed" target="_blank" rel="noopener">To opt out of online behavioral advertising click here</a>.&nbsp; This opt-out is browser- and computer-specific because the opt-out is stored as a cookie.&nbsp; If you delete cookies after you opt out, you will need to opt out again.&nbsp; Please note that you may still continue to see our generic advertising even if you opt out of online behavioral advertising.</li>
 </ul>
 <p><br><span style="text-decoration: underline;">Changes To The Online Privacy Policy</span></p>
 <p>We may make changes to this Online Privacy Policy at any time and without notice to you.&nbsp; It is your responsibility to review this Online Privacy Policy from time to time understand whether any changes have been made.&nbsp; If you use the Site following any update to this Online Privacy Policy it constitutes your acceptance of the modifications.</p>
@@ -436,12 +409,20 @@
 </div> <!-- end left -->
 <div id="right">
   <div class="modulebox">
-	<div class="modulebox-title">Current Interest Rates</div>
-	<div class="modulebox-content">
-		<p><a href="https://www.trustcobank.com/page/current-interest-rates-52.html" class="button-silver"><span>View Rates</span></a></p>	</div>
+  <div class="modulebox-title">Current Interest Rates</div>
+  <div class="modulebox-content">
+    <p><a href="/page/current-interest-rates-52.html" class="button-green button-round">View Rates&nbsp;&nbsp;&nbsp;<em class="fa fa-arrow-right"></em></a></p>  </div>
 </div>
-	</div> <!-- end right -->
+<div class="modulebox">
+  <div class="modulebox-title">Contact Information</div>
+  <div class="modulebox-content">
+  	<p><a class="button-green button-round" href="/locator">Find A Branch Location&nbsp;&nbsp;&nbsp;</a></p>
+<p><strong style="font-size: 14px;">Customer Service</strong><br>Monday - Friday - 8am - 8pm<br>Saturday - 8am - 5pm<br>1-800-670-3110</p>  </div>
+</div>
+</div> <!-- end right -->
 
+                  <div class="clearfloats"></div>
+                </div> <!-- end content-main -->
                 <div class="clearfloats"></div>
               </div> <!-- end content-inner -->
             </div> <!-- end content-outer -->
@@ -449,33 +430,97 @@
         </div> <!-- end inner -->
       </div> <!-- end container -->
     </div> <!-- end wrapper -->
-    <div id="footer">
-      <div id="footer-outer" class="div-outer">
-        <div id="footer-inner" class="div-inner">
-          <div id="footer-left">
-            © Copyright 2016 Trustco Bank                        	<img src="https://www.trustcobank.com/images/logo-equal-housing.jpg" style="vertical-align: top;" border="0" alt="Equal Housing Lender">
-            	Member FDIC, Equal Housing Lender, NMLS Identifier 474376, All Rights Reserved
-                        <br>
-            <a href="/index.php">Home</a> | <a href="/page/personal-1.html">Personal</a> | <a href="/page/commercial-2.html">Commercial</a> | <a href="/page/trustco-financial-services-3.html">Trustco Financial Services</a> | <a href="/page/about-trustco-4.html">About Trustco</a> | <a href="/page/online-banking-5.html">Online Banking</a> | <a href="/page/customer-service-6.html">Customer Service</a> | <a href="/page/faqs-7.html">FAQs</a>            <br>
-            <span class="powered-by">Website Development and VSite<sup>™</sup> Content Management by: <a href="http://www.es11.com" target="_blank">ES11</a></span>
-          </div> <!-- end footer-left -->
-          <div id="footer-right">
-            <!--sphider_noindex-->
-            <a href="https://www.trustcobank.com/page/contact-us-27.html">Contact Us</a>&nbsp;&nbsp;|&nbsp;
-            <a href="https://www.trustcobank.com/page/employment-listings-22.html">Careers</a>&nbsp;&nbsp;|&nbsp;
-            <a href="https://www.snl.com/irweblinkx/corporateprofile.aspx?iid=100465" target="_blank" class="link-external">Investor Relations</a>&nbsp;&nbsp;|&nbsp;
-            <a href="https://www.trustcobank.com/locator">Find ATM / Branches</a>
-            <br>
-            <a href="https://www.trustcobank.com/page/privacy-policy-49.html">Privacy &amp; Security</a>&nbsp;&nbsp;|&nbsp;
-            <a href="https://www.trustcobank.com/page/faqs-7.html">FAQs</a>&nbsp;&nbsp;|&nbsp;
-            <a href="https://www.trustcobank.com/page/site-map-50.html">Site Map</a>
-            <br>
-                        <span class="view-site-link"><a href="https://www.trustcobank.com/site.php?view=desktop&amp;from=L3BhZ2UvcHJpdmFjeS1wb2xpY3ktNDkuaHRtbA==">View Desktop Site</a></span>
-            <!--/sphider_noindex-->
-          </div> <!-- end footer-right -->
-          <div class="clearfloats"></div>
-        </div> <!-- end footer-inner -->
-      </div> <!-- end footer-outer -->
-    </div> <!-- end footer -->
+    <div id="footer-top">
+      <div id="footer-top-outer" class="div-outer">
+        <div id="footer-top-inner" class="div-inner">
+          <div class="column-row">
+            <div class="column column-two">
+              <p class="footer-heading">About Us</p>
+              <ul class="list-plain">
+                <li><a href="/page/employment-opportunities-21.html">Employment Opportunities</a></li>
+                <li><a href="/employmentlistings">Employment Listings</a></li>
+                <li><a href="/page/we-are-trustco-bank-60.html">We Are Trustco Bank</a></li>
+                <li><a href="/page/a-letter-from-our-president--ceo-59.html">A Letter from our President &amp; CEO</a></li>
+                <li><a href="/page/the-history-of-trustco-bank-57.html">The History of Trustco Bank</a></li>
+                <li><a href="/page/2017-trustco-bank-hall-of-fame-inductees-107.html">Trustco Bank's Home Town Heroes</a></li>
+                <li><a href="https://www.snl.com/irweblinkx/corporateprofile.aspx?iid=100465" class="link-external">Investor Relations</a></li>
+              </ul>
+            </div> <!-- end column -->
+            <div class="column column-two">
+              <p class="footer-heading">Checking &amp; Savings</p>
+              <ul class="list-plain">
+                <li><a href="/page/home-town-checking-35.html">Home Town Checking</a></li>
+                <li><a href="/page/savings-accounts-36.html">Savings Accounts</a></li>
+                <li><a href="/page/money-market-accounts-37.html">Money Market Accounts</a></li>
+                <li><a href="/page/certificates-of-deposit-cds-38.html">Certificates of Deposit (CDs)</a></li>
+                <li><a href="/page/retirement-accounts-39.html">Retirement Accounts</a></li>
+              </ul>
+            </div> <!-- end column -->
+            <div class="column column-two">
+              <p class="footer-heading">Mortgages</p>
+              <ul class="list-plain">
+                <li><a href="/page/1st-mortgage-purchase-54.html">Purchase</a></li>
+                <li><a href="/page/1st-mortgage-refinance-53.html">Refinance</a></li>
+                <li><a href="/page/new-construction-loans-56.html">New Construction</a></li>
+                <li><a href="/page/home-equity-loans-and-credit-lines-42.html">Home Equity</a></li>
+                <li><a href="https://trustcobank.mortgage-application.net/" class="link-external" target="_blank">Start Mortgage Application</a></li>
+                <li><a href="/page/online-mortgage-inquiry-83.html">Submit Mortgage Inquiry</a></li>
+                <li><a href="https://mortgage.trustcobankmortgages.com/index.php?s=members&amp;a=login" class="link-external" target="_blank">Pending Web App Login</a></li>
+              </ul>
+            </div> <!-- end column -->
+            <div class="column column-two">
+              <p class="footer-heading">Online Banking</p>
+              <ul class="list-plain">
+                <li><a href="/page/online-banking-5.html">Online Banking Login</a></li>
+                <li><a href="/page/e-statements-23.html">E-Statements</a></li>
+                <li><a href="/page/security-and-fraud-prevention-24.html">Security and Fraud Prevention</a></li>
+                <li><a href="/page/fraud-prevention-alerts-25.html">Fraud Prevention: ALERTS</a></li>
+                <li><a href="/page/mobile-banking-information-70.html">Mobile Banking Information</a></li>
+              </ul>
+            </div> <!-- end column -->
+            <div class="column column-two">
+              <p class="footer-heading">Financial Services</p>
+              <ul class="list-plain">
+                <li><a href="/page/estate-settlement-14.html">Estate Settlement</a></li>
+                <li><a href="/page/investment-management-account-15.html">Investment Management Account</a></li>
+                <li><a href="/page/retirement-plans--rollovers-16.html">Retirement Plans &amp; Rollovers</a></li>
+                <li><a href="/page/trust-under-your-will-17.html">Trust Under Your Will</a></li>
+                <li><a href="/page/financial-planning-18.html">Financial Planning</a></li>
+                <li><a href="/page/living-trust-19.html">Living Trust</a></li>
+                <li><a href="/page/fixed-annuities-20.html">Fixed Annuities</a></li>
+                <li><a href="/calculators.php">Calculators</a></li>
+              </ul>
+            </div> <!-- end column -->
+            <div class="column column-two">
+              <p class="footer-heading">Customer Service</p>
+              <ul class="list-plain">
+                <li><a href="/locator">Branch / ATM Locator</a></li>
+                <li><a href="/page/contact-us-27.html">Contact Us</a></li>
+                <li><a href="/page/privacy-policy-49.html">Privacy Policy</a></li>
+                <li><a href="/sitemap.php">Sitemap</a></li>
+              </ul>
+            </div> <!-- end column -->
+          </div> <!-- end column-row -->
+        </div> <!-- end footer-top-inner -->
+      </div> <!-- end footer-top-outer -->
+    </div> <!-- end footer-top -->
+    <div id="footer-bottom">
+      <div id="footer-bottom-outer" class="div-outer">
+        <div id="footer-bottom-inner" class="div-inner">
+          <p>© Copyright 2019 Trustco Bank, All Rights Reserved</p>
+                                <p><img src="/images/logo-equal-housing-lender.png" alt="" role="presentation" style="margin-right: 10px; vertical-align: middle;"> Equal Housing Lender Member FDIC, NMLS Identifier 474376, NMLS Consumer Access - <a class="link-external" href="http://nmlsconsumeraccess.org" target="_blank">Verify a Financial Service Provider here</a> »</p>
+                    <span class="powered-by">Website Development and VSite Content Management by: <a href="http://www.es11.com" target="_blank" class="link-external">ES11</a></span>
+        </div> <!-- end footer-bottom-inner -->
+      </div> <!-- end footer-bottom-outer -->
+    </div> <!-- end footer-bottom -->
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_50166.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+    </script>
   
 </body></html>
