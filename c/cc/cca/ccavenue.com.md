@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccavenue.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106224531id_/https%3A//www.ccavenue.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccavenue.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617041245id_/https%3A//www.ccavenue.com/privacy.jsp) for the most accurate reproduction.*
 
 # CCAvenue®: Privacy Policy - India's Top Payment Gateway
 
@@ -40,7 +40,7 @@ Please be aware that CCAvenue.com does not control the acts of its Sub-Merchants
 If you feel that CCAvenue.com has violated this Statement on Privacy in any way, please contact us at [contact@ccavenue.com](mailto:contact@ccavenue.com) that we may address this issue.
 
 **FOR CUSTOMERS:  
-** CCAvenue a brand operating under Infibeam Avenues Limited (we/us/our) take privacy and data protection issues seriously. We have designed this Privacy Policy to explain how we handle personally identifiable information collected from Customers/Users (you/ your) who use services of CCAvenue directly or through any third party, submit information to CCAvenue through the Internet. As CCAvenue services evolve, we may revise this policy, so please check back frequently. If you have questions about CCAvenue privacy practices, please contact us at [service@ccavenue.com](mailto:service@ccavenue.com "service@ccavenue.com").
+** CCAvenue a brand operating under Infibeam Avenues Limited (we/us/our) take privacy and data protection issues seriously. We have designed this Privacy Policy to explain how we handle personally identifiable information collected from Customers/Users (you/ your) who use services of CCAvenue directly or through any third party, submit information to CCAvenue through the Internet. As CCAvenue services evolve, we may revise this policy, so please check back frequently. If you have questions about CCAvenue privacy practices, please contact us at **service@ccavenue.com**.
 
 CCAvenue being a responsible organisation acknowledge the Importance of right to privacy. Customers all across the globe place their trust on us by transacting though CCAvenue and we at CCAvenue values that trust. And we are committed to protect and safeguard your personal data.
 
@@ -104,7 +104,7 @@ CCAvenue want customers to be in control of how personal data is used by us. Cus
 
 Where we are using personal data on the basis of individual’s consent, He/she is entitled to withdraw that consent at any time subject to applicable law. Moreover, where we process personal data based on legitimate interest or the public interest, individual have the right to object at any time to that use of personal data subject to applicable law.
 
-If you wish to object to the processing of your personal data on the basis of legitimate interest and no opt-out mechanism is available, please contact us at [service@ccavenue.com](mailto:service@ccavenue.com "service@ccavenue.com").
+If you wish to object to the processing of your personal data on the basis of legitimate interest and no opt-out mechanism is available, please contact us at **service@ccavenue.com**.
 
 **6\. Personal Data of Children**  
 CCAvenue services are only allowed to be use by people over 16 years of age. We only process information about children with the consent of the parents or legal guardians or when the information is provided to us by the parents or legal guardian.
@@ -118,7 +118,7 @@ We reserve the right to transfer information (including your personal data) to a
 **9\. Cookies**  
 What is a Cookie? A cookie is a small text file of letters and numbers that is stored by the browser on your computer when you visit certain websites. A cookie allows a website to distinguish your computer from other users’ computers. Cookies do not contain Personal Data unless you have already given this information to the Website. You may delete or block the cookies, if that is what you choose to do. Note that this may make it less convenient for you to use our websites.
 
-If you would like to view the information that we have collected from you or you want to correct your information or the billing/shipping details, you can mail us at [service@ccavenue.com](mailto:service@ccavenue.com "service@ccavenue.com") or write to us at:  
+If you would like to view the information that we have collected from you or you want to correct your information or the billing/shipping details, you can mail us at **service@ccavenue.com** or write to us at:  
 **Infibeam Avenues Limited.** ,  
 Plaza Asiad, Level Two  
 Station Road, Santa Cruz (West),  
@@ -127,4 +127,4 @@ Mumbai 400 054. India.
 We respond to subpoenas, warrants, or other court orders regarding information that is contained within our access logs concerning any Merchant, customer or visitor. We reserve the right to release that information concerning any -Merchant/customer who we believe is in violation of our content guidelines, even without a subpoena, warrant, or other court order. We cooperate with law enforcement agencies in identifying those who use our services for illegal activities.  
 We also reserve the right to report any illegal activity by any customers to law enforcement for prosecution.
 
-Please be aware that CCAvenue does not warrant the acts of its Merchants or customers or visitors. All customers and visitors should be aware that, when they disclose personal information such as their actual name, stores’ name, e-mail address, etc. to third parties, the information may be collected and used by others to send that person unsolicited e-mail from other parties, outside of CCAvenue. In the event that you encounter any CCAvenue Merchant who is improperly collecting or using information about users or customers, please contact us by emailing at [service@ccavenue.com](mailto:service@ccavenue.com "service@ccavenue.com").
+Please be aware that CCAvenue does not warrant the acts of its Merchants or customers or visitors. All customers and visitors should be aware that, when they disclose personal information such as their actual name, stores’ name, e-mail address, etc. to third parties, the information may be collected and used by others to send that person unsolicited e-mail from other parties, outside of CCAvenue. In the event that you encounter any CCAvenue Merchant who is improperly collecting or using information about users or customers, please contact us by emailing at **service@ccavenue.com**.
