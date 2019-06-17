@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the websitesubmissiondirectory.info privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725161643id_/http%3A//www.websitesubmissiondirectory.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitesubmissiondirectory.info privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617034131id_/http%3A//www.websitesubmissiondirectory.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Website Submission Directory
+# Privacy Policy – Website Submission Directory
 
 Last updated: March 09, 2017
 
