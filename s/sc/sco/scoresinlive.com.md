@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoresinlive.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229104325id_/http%3A//www.scoresinlive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoresinlive.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618010641id_/http%3A//www.scoresinlive.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Privacy Policy
 
@@ -336,4 +336,4 @@ MODIFICATIONS AND CONTACT
 
 We will, on occasion need to adapt these statements. For instance, if we modify our website or if the rules governing cookies or privacy change. We or our partners may always modify the content of the statements and the cookies that are stated without prior warning. Please refer back to this web page to see the latest version. 
 
-In case you have any questions and/or comments, or wish to make a complaint, please contact us by e-mail [here](http://www.scoresinlive.com/feedback.php). 
+In case you have any questions and/or comments, or wish to make a complaint, please contact us by e-mail [here](http://www.scoresinlive.com/feedback.php).
