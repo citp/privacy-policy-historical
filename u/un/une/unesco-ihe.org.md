@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unesco-ihe.org privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216092241id_/http%3A//www.un-ihe.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unesco-ihe.org privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617135209id_/https%3A//www.un-ihe.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | IHE Delft Institute for Water Education
 
