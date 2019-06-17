@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trackitt.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001005500id_/http%3A//www.trackitt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackitt.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617235745id_/https%3A//www.trackitt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the privacy terms of our Website, www.trackitt.com, as owned and operated by Path2USA.com, Inc. (“Trackitt”) and the Service we provide.
+This Privacy Policy governs the privacy terms of our Website, www.trackitt.com, as owned and operated by Path2USA.com, Inc. (â€œTrackittâ€) and the Service we provide.
 
 **Your Privacy  
 **Trackitt is committed to your privacy and takes it very seriously. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section at the end of our Privacy Policy.
