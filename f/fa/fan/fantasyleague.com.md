@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216051942id_/http%3A//www.fantasyleague.com/Pro/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617131455id_/http%3A//www.fantasyleague.com/Pro/Privacy.aspx) for the most accurate reproduction.*
 
-# Auction - 2018/19 - Fantasy League
+# Fantasy League - The Original Game
 
 This document refers to privacy and personal information relating to www.fantasyleague.com and associated properties and services. At Fantasy League we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.
 
