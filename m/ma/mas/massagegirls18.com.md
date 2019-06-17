@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagegirls18.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203204954id_/http%3A//vipsitesupport.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagegirls18.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618005011id_/http%3A//vipsitesupport.com/privacy.php) for the most accurate reproduction.*
 
 # VIP Site Support
 
