@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the svg.com privacy policy that was archived on 2018-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181220180942id_/https%3A//www.svg.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the svg.com privacy policy that was archived on 2019-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190618012905id_/http%3A//www.svg.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -27,14 +27,12 @@
     <link rel="shortcut icon" href="//img.svg.com/img/svg.ico" type="image/x-icon">
     <link rel="icon" href="//img.svg.com/img/svg.ico" type="image/x-icon">
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aldrich">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aldrich&amp;display=swap">
 
 <link rel="canonical" href="https://www.svg.com/privacy-policy/">
 
-<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" rel="stylesheet" type="text/css">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link href="/wp-content/themes/unified/css/style.min.css?v=1543592495" rel="stylesheet" type="text/css">
-<link href="/wp-content/themes/unified/css/style.svg.min.css?v=1540835696" rel="stylesheet" type="text/css">
+<link href="/wp-content/themes/unified/css/style.svg.min.css?v=1560519445" rel="stylesheet" type="text/css">
 
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://www.svg.com/feed/">
 <link rel="alternate" type="text/xml" title="RSS .92" href="https://www.svg.com/feed/rss/">
@@ -142,7 +140,7 @@
                     </nav>
                 </div>
                 <div class="nav-bottom">
-                    <span class="copyright-info"><i class="fa fa-copyright" aria-hidden="true"></i> 2018                                                    SVG.com.
+                    <span class="copyright-info"><i class="fa fa-copyright" aria-hidden="true"></i> 2019                                                    SVG.com.
                                                 All rights reserved
                     </span>
                 </div>
@@ -276,13 +274,50 @@
 	   	   <div class="holder">
             <div id="footer-bottom">
                 <div id="footer-link-container"><a href="/about/">About</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="/privacy-policy/">Privacy Policy</a></div>
-                <div id="footer-detail-container">Copyright © 2018&nbsp;&nbsp;/&nbsp;&nbsp;SVG.com&nbsp;&nbsp;/&nbsp;&nbsp;All Rights Reserved</div>
+                <div id="footer-detail-container">Copyright © 2019&nbsp;&nbsp;/&nbsp;&nbsp;SVG.com&nbsp;&nbsp;/&nbsp;&nbsp;All Rights Reserved</div>
 	                            <img src="//img.svg.com/img/svgdotcom_logo_black.svg" alt="SVG">
                             </div>
         </div>
    </footer>
    </div>
 </div>
+
+	<script>
+		if (typeof( ZERG ) === "undefined") {
+			ZERG = {};
+		}
+		(function(){
+			var cookieValue = document.cookie.replace(/(?:(?:^|.*;\s*)eu_cookie\s*\=\s*([^;]*).*$)|^.*$/, "$1");
+			if ( !cookieValue ) {
+				ZERG.zg = function (r) {
+					if (r == "GO") {
+						var n = document.getElementById("gdpr");
+						n.style.display = "block";
+					} else {
+						document.cookie = "eu_cookie=1";
+					}
+				};
+				var s = document.createElement("SCRIPT");
+				s.src = "https://zergnet.com/zg";
+				document.body.appendChild( s );
+
+				var acceptGDPR = function( e ) {
+					e.preventDefault();
+					e.stopPropagation();
+
+					//SET COOKIE - agreement version 1
+					document.cookie = "eu_cookie=1";
+
+					jQuery("#gdpr").hide();
+
+					return false;
+				};
+
+				jQuery("#gdpr form").submit(acceptGDPR);
+				jQuery(".EUCookieNotice__close .icon").click(acceptGDPR);
+			}
+		})();
+	</script><script src="https://zergnet.com/zg"></script>
 
 <script>
    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -291,7 +326,7 @@
    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
       ga('create', 'UA-46354000-16', 'auto');
-      ga('send', 'pageview');
+         ga('send', 'pageview');
 
    var totalWidgets = jQuery(".zergnet-widget").length;
    if ( totalWidgets && jQuery( ".zergnet-widget:visible" ).length == 0 && document.location.href.indexOf( "/s/" ) ===  -1) {
