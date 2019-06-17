@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluegolf.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825185733id_/https%3A//www.bluegolf.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluegolf.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617104752id_/https%3A//www.bluegolf.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,4 +31,4 @@ In compliance with the Privacy Shield Principles, BlueGolf commits to resolve co
 
 BlueGolf has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU. 
 
-[Privacy Shield Policy](https://web.archive.org/web/20180825185733id_/https%3A//www.bluegolf.com/legal/privacyshieldpolicy.html)
+[Privacy Shield Policy](https://web.archive.org/web/20190617104752id_/https%3A//www.bluegolf.com/legal/privacyshieldpolicy.html)
