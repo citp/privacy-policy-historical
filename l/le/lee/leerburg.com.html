@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leerburg.com privacy policy that was archived on 2018-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229164137id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leerburg.com privacy policy that was archived on 2019-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190617233739id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -45,7 +45,7 @@
 		padding:5px;
 	}
 </style>
-<meta name="viewport" content="initial-scale=1.0,width=device-width"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,400italic" rel="stylesheet" type="text/css"><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NR8TW9"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="https://leerburg.com/js/jquery-1.12.4.min.js"></script><script type="text/javascript" src="https://leerburg.com/js/jquery-migrate-1.4.1.min.js"></script><script type="text/javascript" src="https://leerburg.com/js/jquery-ui-1.12.1.min.js"></script><script type="text/javascript" src="https://leerburg.com/js/jquery.ui.touch-punch.min.js"></script><script type="text/javascript" src="https://leerburg.com/js/jquery.hoverIntent.minified.js"></script><script type="text/javascript" src="https://leerburg.com/js/svg4everybody.min.js"></script><script>svg4everybody();</script><script type="text/javascript" src="https://leerburg.com/js/jquery.aw-showcase.min.js"></script><script>
+<meta name="viewport" content="initial-scale=1.0,width=device-width"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link rel="shortcut icon" href="//leerburg.com/Photos/favicon.ico" type="image/x-icon"><link rel="stylesheet" type="text/css" href="//leerburg.com/css/ultimate.css?v=03"><link rel="stylesheet" type="text/css" href="https://leerburg.com/css/styles.css?v=01"><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NR8TW9"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="//leerburg.com/js/jquery-1.12.4.min.js"></script><script type="text/javascript" src="//leerburg.com/js/jquery-migrate-1.4.1.min.js"></script><script type="text/javascript" src="//leerburg.com/js/jquery-ui-1.12.1.min.js"></script><script type="text/javascript" src="//leerburg.com/js/jquery.ui.touch-punch.min.js"></script><script type="text/javascript" src="//leerburg.com/js/jquery.hoverIntent.minified.js"></script><script type="text/javascript" src="//leerburg.com/js/jquery.touchSwipe.min.js"></script><script type="text/javascript" src="//leerburg.com/js/svg4everybody.min.js"></script><script>svg4everybody();</script><script>
 // 	Ajax - call to get and display the wish list dropdown every time it is opened
 //	We check this each time because another wish list on the page might have added or modified the wish lists
 function showListDropdown(itemID)
@@ -134,7 +134,7 @@ var supermodal = (function(){
    $overlay = $('<div id="supermodal-overlay" class="smOverlay"></div>');
    $modal = $('<div id="supermodal-modal" class="smModal box-size-fix">');
    $content = $('<div id="supermodal-content"></div>');
-   $close = $('<div id="supermodal-close" class="smClose"><svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-exMark"></use></svg></div>');
+   $close = $('<div id="supermodal-close" class="smClose"><svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-exMark"></use></svg></div>');
 
    $modal.hide();
    $overlay.hide();
@@ -319,238 +319,14 @@ var supermodal = (function(){
 }());
 
 
-</script><script type="text/javascript">
-	function checkOptions(i, numOptions){
-		okToSubmit=true;
-		if(document.getElementById("option1_"+i).value=="select") okToSubmit=false;
-		if(numOptions==2){if(document.getElementById("option2_"+i).value=="select") okToSubmit=false;}
-		if(okToSubmit==false) alert("Please select an option.");
-		return okToSubmit;
-	}
-
- 	// Shows the selected add-on for products with groups (e.g. patches)
-  	function showChild(productGroupID,choice){$.post('ajax/showChild.php?action=update&choice='+choice,$("#form_group_"+productGroupID).serialize(),function(data){$('#child_'+choice).html(data);});	}
-	
-	// For buybutton_group - calls checkOptions() and then checks to make sure add-ons have been selected if needed
-	function checkAll(parentModel,numOptions,numChoices){
-		if(numOptions>0 && !(checkOptions(parentModel,numOptions))) return false;
-		for(i=0;i<numChoices;i++){
-			var choice=document.getElementById("choice_"+i).value;
-			if(choice==""){
-				alert("Please make a selection for Choice "+(i+1)+"!");
-				return false;
-			}
-		}
-	}
-
-  // Updates the header to display the current number of items in the cart without reloading the page
-  function updateNumCartItems(){$("#items-in-cart-number").load('//leerburg.com/cart/ajax/cartActions.php?action=updateNumItemsInCart&time=10:41:30');}
-</script><script type="text/javascript">
-$(document).ready(function() {
-	// toggle search on small screens
-	$("#toggleSearch a").click(function() {
-
-		$("#dropdown-wrapper").hide(); // hide in case open		
-
-		$("#search-field").toggle(); // show hidden search bar
-
-		// written ugly because we have v. OLD jquery:
-		if($('#search-field').is(":hidden")) $("#toggleSearch .arrow").attr("class", "arrow standard");	// update search arrow
-		else $("#toggleSearch .arrow").attr("class", "arrow standard rotate180");	// update search arrow
-
-		return false; // don't follow href
-	});
-
-	// toggle dropdown
-	$("#shop-toggle a").click(function() {
-
-		$("#search-field").hide(); // hide in case open	
-
-		if($('#search-field').is(":hidden")) $("#toggleSearch .arrow").attr("class", "arrow standard");	/// update search arrow
-
-		$("#dropdown-wrapper").toggle(); // show hidden dropdown
-
-		return false; // don't follow href		
-	});
-
-	// dont follow these links
-	$('.category-list a' ).click(function() {
-		return false;
-	});
-
-	// Convert dropdown divs simple list
-	// Create the list base
-	$("<div id='mobile-categories' />").appendTo("#dropdown-wrapper");
-
-	// Populate lis with links
-	$(".category-list a").each(function() {
-		var el = $(this);
-
-		$("<a />", {
-			"href"	: el.attr("href"),
-			"text"   : el.text(),
-			"class"  : "full-link"
-		}).appendTo("#mobile-categories");
-	});
-
-	// for hovering links in dropdown
-	$('.category-list a' ).hoverIntent(function() {
-		$('.hovered-link').removeClass('hovered-link'); // remove .hovered-link from any a that has it
-		$(this).addClass('hovered-link'); // add .hovered-link to the current one
-		$('div.dropdown-category-sections').hide(); // hides the divs that were visible
-		$('#'+$(this).attr('id')+'-div').show(); // show this div instead
-	});
-
-});
-
-// closes dropdown when user clicks elements outside of it
-$(document).click(function(e) {
-    // check that your clicked
-    // element has no #dropdown-wrapper
-    // and is not child of #dropdown-wrapper
-    if (e.target.id != '#dropdown-wrapper' && !$('#dropdown-wrapper').find(e.target).length) {
-        $("#dropdown-wrapper").hide();
-    }
-});
-
-
-</script><script type="text/javascript" src="//leerburg.com/js/jquery.bxslider.min.js"></script><script type="text/javascript"> 
-$(document).ready(function(){ 
-   
-   // every slider should have this class
-   $(".product-slider").each(function() {
-
-      // get unique ids
-      $sliderID = $(this).find('.product-list').attr('id');       // the list
-      $sliderPrev = $(this).find('.slider-prev').attr('id');      // previous arrow
-      $sliderNext = $(this).find('.slider-next').attr('id');      // next arrow
-      $sliderCircle = $(this).find('.slider-circle').attr('id');  // circle (resets slider to start)
-
-      $("#"+$sliderID).bxSlider({
-         
-         // unique ids that change slider to slider
-         pagerCustom: "#"+$sliderCircle,
-         nextSelector: "#"+$sliderNext,
-         prevSelector: "#"+$sliderPrev,
-
-         // unique icons for prev and next
-         nextText: '<span title="Next"><svg class="standard rotate90"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-caret"></use></svg></span>',
-         prevText: '<span title="Previous"><svg class="standard rotate270"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-caret"></use></svg></span>',
-
-         // standard settings for product sliders
-         auto: false,
-         speed: 500,
-         autoControls: false,
-         pager:true,
-         mode:'horizontal',
-         maxSlides:4, 
-         minSlides:1,
-         slideWidth:223, 
-         slideMargin:12,
-         infiniteLoop:false,
-         adaptiveHeight:false
-      });
-   });
-});
-</script><link rel="stylesheet" type="text/css" href="//leerburg.com/css/global.css?v=06"><script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '762907097223515'); // Insert your pixel ID here.
-fbq('track', 'PageView');
-</script></head>
-
-<!-- =====================================
-Super Header - One Header to Rule them all 
-====================================== -->
-
-
-
-
-<!-- Google Font Includes -->
-
-
-
-
-<!-- jquery links -->
-<!-- main library, the latest of 1x -->
-
-<!-- migration for deprecating jquery versions prior to 1.9 -->
-
-<!-- extra ui stuff for things like sortable -->
-
-<!-- makes jquery-ui behave with touch -->
-
-<!-- hover intent primarily for header shop dropdown department names, may be utilized elsewhere -->
-
-<!-- for forcing IE to play nice and show external svgs linking -->
-
-
-
-
-<!-- 
-Old Product Pages showcase link, remove once all old product pages have been converted or redirected 
--->
-  
-
-
-
-<!-- ============================================================ 
-script written by Bobbie for some global functions, wishlists -->
-
-<!-- jQuery for select box errors -->
- 
-
-
-<!-- ============================================= 
-script written by Caitlin for header functions -->
-
-<!-- jQuery for new header, updated 03/2015 -->
-<!-- accordion (mobile dropdown)  -->
-
-
-<!-- ============================================================
-script written by Caitlin for global product slider functions -->
-
-
-
-<!-- for analytics, internal link tracking -->
-
-
-<!-- style sheet links -->
-
-
-<!-- if tactical page, include theme -->
-
-<!-- Facebook Pixel Code -->
-
-<body><noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=762907097223515&ev=PageView&noscript=1"
-/></noscript>
-<!-- DO NOT MODIFY -->
-<!-- End Facebook Pixel Code -->
-
-
-
-
-	<!-- ========================
-    exit modal for newsletter -->
-    <script type="text/javascript" src="//leerburg.com/js/jquery.cookie.js"></script>
-<!--
-<textarea name="mtest" id="mtest" cols="100" rows="10"></textarea>
-<input type="button" name="button" id="button" value="Clear Session" onclick="parent.location='mtest.php?action=clear'"/>
-<input type="button" name="button2" id="button2" value="Clear Cookie" onclick="clearCookie()" />-->
-<script>
+</script><script type="text/javascript" src="//leerburg.com/js/jquery.cookie.js"></script><script>
 function clearCookie()
 {
 	$.removeCookie(modalID);
 	$.removeCookie(modalID,{ path:'/' });
 	
 }
-</script>
-<script>
+</script><script>
 $(document).ready( function(){
 	
 	 checkStorage();
@@ -562,7 +338,7 @@ var modalID='exit-modal-news';
 function TBC(days)
 {
 	debug("tbc "+days+" days\n");
-	$.cookie(modalID,'2018-12-29',{ expires: days, path:'/' });
+	$.cookie(modalID,'2019-06-17',{ expires: days, path:'/' });
 	supermodal.close();
 
 	return false;
@@ -613,929 +389,1978 @@ function debug(stuff)
 }
 
 
-</script>
+</script><script type="text/javascript">
+	// ==========================
+	// some legacy global scripts
 
+	// Checks options are selected in optioned items (can appear on various pages)
+	function checkOptions(i, numOptions){
+		okToSubmit=true;
+		if(document.getElementById("option1_"+i).value=="select") okToSubmit=false;
+		if(numOptions==2){if(document.getElementById("option2_"+i).value=="select") okToSubmit=false;}
+		if(okToSubmit==false) alert("Please select an option.");
+		return okToSubmit;
+	}
+
+ 	// Shows the selected add-on for products with groups (e.g. patches)
+  	function showChild(productGroupID,choice){$.post('ajax/showChild.php?action=update&choice='+choice,$("#form_group_"+productGroupID).serialize(),function(data){$('#child_'+choice).html(data);});	}
 	
-    <!-- ================= 
-	Google Tag Manager -->
-	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NR8TW9"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-NR8TW9');</script>
-	<!-- End Google Tag Manager -->
+	// For buybutton_group - calls checkOptions() and then checks to make sure add-ons have been selected if needed
+	function checkAll(parentModel,numOptions,numChoices){
+		if(numOptions>0 && !(checkOptions(parentModel,numOptions))) return false;
+		for(i=0;i<numChoices;i++){
+			var choice=document.getElementById("choice_"+i).value;
+			if(choice==""){
+				alert("Please make a selection for Choice "+(i+1)+"!");
+				return false;
+			}
+		}
+	}
 
-	<!-- [if lte IE 9]>
-		<div class="oldBrowsers box-size-fix">
-			<h2>Does this page look messed up? This website doesn't support browsers IE9 or lower. Please update your 
-			Internet browser <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">here</a>. If 
-			you are on IE8+, you may have accidentally enabled compatibility mode. Click 
-			<a href="http://windows.microsoft.com/en-us/internet-explorer/use-compatibility-view#ie=ie-10">here</a> 
-			to learn how to fix it.</h2>
+  // Updates the header to display the current number of items in the cart without reloading the page
+  function updateNumCartItems(){$("#items-in-cart-number").load('//leerburg.com/cart/ajax/cartActions.php?action=updateNumItemsInCartJustNum&time=06:37:15');}
+</script><script type="text/javascript" src="//leerburg.com/js/jquery.bxslider.min.js"></script><script type="text/javascript" src="//leerburg.com/js/custom.global-product-slider.js"></script><script type="text/javascript" src="//leerburg.com/js/custom.header-functions.js?v=11"></script><script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '762907097223515'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script></head>
+
+
+
+
+
+
+
+
+
+
+
+<!-- main library, the latest of 1x -->
+
+<!-- migration for deprecating jquery versions prior to 1.9 -->
+
+<!-- extra ui stuff for things like sortable -->
+
+<!-- makes jquery-ui behave with touch -->
+
+<!-- hover intent primarily for header shop dropdown department names, may be utilized elsewhere -->
+
+<!-- enable swiping open/close sidebars on touch screens -->
+
+
+
+
+
+
+
+<!--
+<textarea name="mtest" id="mtest" cols="100" rows="10"></textarea>
+<input type="button" name="button" id="button" value="Clear Session" onclick="parent.location='mtest.php?action=clear'"/>
+<input type="button" name="button2" id="button2" value="Clear Cookie" onclick="clearCookie()" />-->
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+<body><noscript><img height="1" width="1" style="display:none"
+src="//www.facebook.com/tr?id=762907097223515&ev=PageView&noscript=1"
+/></noscript>
+
+
+
+
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NR8TW9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NR8TW9');</script>
+
+
+<!-- [if lte IE 9]>
+	<div class="browser-warning">This website doesn't support Internet Explorer 9 or lower. Please update your browser <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">here</a>. If you are on IE8+, you may have accidentally enabled compatibility mode. Click <a href="http://windows.microsoft.com/en-us/internet-explorer/use-compatibility-view#ie=ie-10">here</a> to learn how to fix it.</div>
+<![endif]-->
+
+
+<noscript class="browser-warning">For full functionality of this website it is necessary to enable JavaScript. Here are the <a href="http://www.enable-javascript.com" target="_blank"> instructions how to enable JavaScript in your web browser</a>.</noscript>
+
+
+
+
+<!-- -->
+<!-- unique value proposition -->
+<!-- ** examples best suited for products; if able, create alternate for vod -->
+<!-- ** if statements change, adjust css for graphic filler, possibly media query numbers -->
+<div id="header-uvp">
+	<div class="header-wrapper">
+
+		<!-- social proof statement (rotate different kinds) -->
+		<div id="years-n-customers" class="uvp-item">
+			<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-users"></use></svg>
+			
+			<p>For 40+ years we've helped over 300,000 dog trainers just like you!</p>
+
+			<a href="//leerburg.com/aboutus.htm">Learn more about Leerburg</a>
 		</div>
-	<![endif]-->
 
-	<!-- for back to top arrow -->
-	<a name="top"></a>
+		<!-- flat rate shipping -->
+		<div id="flat-rate" class="uvp-item">
+			<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-truck"></use></svg>
 
-	<!-- ======================
-	login portion of header -->
+			
+			<p>$6.99 Flat Rate Shipping</p>
 
-	<div id="header-wrapper" class="box-size-fix">
-		<div id="account-header">
-			<div id="content-container"> 
-				<!-- for mobile -->
-				<div id="small-logo">
-					<a href="//leerburg.com?utm_campaign=header_logo-Mobile_03082017" class="full-link reset-color"><svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-box-wordmark"></use></svg></a>
+			<a href="//leerburg.com/coupon3.htm">Learn more</a>
+		</div>
+
+		<!-- graphic filler -->
+		<div id="uvp-filler"></div>
+
+	</div>
+</div>
+
+<!-- -->
+<!-- secondary navigation (mobile menu, branding, various links, account links, cart icon, wishlist icon)-->
+<div id="header-secondary-nav">
+	<div class="header-wrapper">
+
+		<!-- menu button, logo, secondary links -->
+		<div id="left-secondary-nav">
+
+			<!-- mobile menu button -->
+			<button type="button" id="secondary-menu-button" class="button-reset" title="Open navigation">
+				<svg class="fill-svg">
+					<use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-hamburger"></use>
+				</svg>
+			</button>
+
+			<!-- logo -->
+			<a href="//leerburg.com/" id="header-logo" alt=""><svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-wordmark"></use></svg></a>
+
+			<!-- secondary links list -->
+			<ul id="secondary-links">
+				<li><a href="//leerburg.com/">home</a></li>
+				<li><a href="//leerburg.com/blog/">blog</a></li>
+				<li><a href="//leerburg.com/training-articles.htm">articles</a></li>
+				<li><a href="//leerburg.com/qa/index.php">q &amp; a</a></li>
+				<li><a href="//leerburg.com/category-events.htm">in-person training</a></li>
+				<li><a href="//leerburg.com/catalog.htm">free catalog</a></li>
+				<li><a href="//leerburg.com/newcontact.php?cat=QA">ask cindy</a></li>
+			</ul>
+		</div>
+
+
+		<!-- wishlist icon, cart icon, login/sign up, account quick links & log out -->
+		<div id="right-secondary-nav">
+
+			<!-- wishlists -->
+						<a class="user-icon-links" href="//leerburg.com/cart/GuestWishList.php" title="Wishlists">
+								<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-heartOnSheet"></use></svg>
+			</a>
+
+			<!-- cart -->
+			<a class="user-icon-links" href="//leerburg.com/cart/viewcart.php" title="My Cart">
+								<div class="notify-box">
+					<div class="notify-num" id="items-in-cart-number">0</div>
 				</div>
+								<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-cart"></use></svg>
+			</a>
 
-				<!-- all screens -->
-				<div id="login-section">
-					
-										<a href="https://leerburg.com/cart/login.php">Log In</a> <span class="link-spacer">|</span>
-					<a href="https://leerburg.com/cart/register.php">Sign Up</a>
-										<span class="link-spacer hide365">|</span>
-					<a href="https://leerburg.com/cart/mywishlist.php?nav=header&amp;content=wishlist_03122018" class="hide365">Wish List</a>
-				</div>
-				
-				<!-- for mobile -->
-				<div class="checkout-button"><a href="https://leerburg.com/cart/viewcart.php?nav=header&amp;content=cartMobile_05022017" class="full-link">CART</a></div> 
-				
-				<!-- desktop only -->
-				<div id="payment-options">
-					<span title="We accept PayPal.">
-						<svg width="31" height="20">
-							<image xlink:href="//leerburg.com/Photos/header-icons-logos/payment-ops/paypal.svg" src="//leerburg.com/Photos/header-icons-logos/payment-ops/paypal.png" width="31" height="20"></image>
-						</svg>						
-					</span>
-					<span title="We accept Discover.">
-						<svg width="31" height="20">
-							<image xlink:href="//leerburg.com/Photos/header-icons-logos/payment-ops/discover.svg" src="//leerburg.com/Photos/header-icons-logos/payment-ops/discover.png" width="31" height="20"></image>
-						</svg>						
-					</span>	
-					<span title="We accept Mastercard.">
-						<svg width="31" height="20">
-							<image xlink:href="//leerburg.com/Photos/header-icons-logos/payment-ops/mastercard.svg" src="//leerburg.com/Photos/header-icons-logos/payment-ops/mastercard.png" width="31" height="20"></image>
-						</svg>						
-					</span>	
-					<span title="We accept Visa.">
-						<svg width="31" height="20">
-							<image xlink:href="//leerburg.com/Photos/header-icons-logos/payment-ops/visa.svg" src="//leerburg.com/Photos/header-icons-logos/payment-ops/visa.png" width="31" height="20"></image>
-						</svg>						
-					</span>															
-				</div><!-- /payment-options -->
+			<!-- account navigation/actions -->
+						<ul id="access-account-links">
+				<!-- log in link -->
+				<li><a href="//leerburg.com/cart/login.php" id="login-link">Log In</a></li>
+				<!-- sign up link -->
+				<li><a href="//leerburg.com/cart/register.php" id="signup-link">Sign Up</a></li>
+			</ul>
+			
+		</div>
 
+	</div>
+</div>
+
+<div id="searchbar-anchor"></div>
+
+<!-- -->
+<!-- primary navigation (desktop dropdowns, search bar)-->
+<div id="header-primary-nav">
+	<div class="header-wrapper">
+
+		<!-- three major sections links -->
+		<div id="left-primary-nav">
+			<div id="dropdown-buttons">
+				<button type="button" id="product-dropdown-toggle" class="main-link-dropdown button-reset">
+					PRODUCTS
+					<span class="inlineIcon"><svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-caret"></use></svg></span>
+				</button>
+
+				<button type="button" id="vod-dropdown-toggle" class="main-link-dropdown button-reset">
+					VIDEO ON DEMAND
+					<span class="inlineIcon"><svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-caret"></use></svg></span>
+				</button>
+
+				<button type="button" id="lou-dropdown-toggle" class="main-link-dropdown button-reset">
+					ONLINE UNIVERSITY
+					<span class="inlineIcon"><svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-caret"></use></svg></span>
+				</button>				
 			</div>
 		</div>
-		<!-- ends login portion -->
 
-		<!-- ======================
-		main navigation portion -->
+		<!-- search bar -->
+		<!-- search section fixed on small screens as the user scrolls past the header -->
+		<!-- fixed search will conflict with other pages at certain screen sizes, must do less than 900px width -->
+		<!-- ** if possible, if searching within VOD, maybe default to stream and dvd results? -->
+		<div id="right-primary-nav">
+			<form name="form-fsearch" id="form-fsearch" class="header-search" method="post" action="">
+				<input type="text" name="FSTerms" id="FSTerms" value="" placeholder="Find what your dog needs...">
+				<button name="Submit" title="Submit Search" onclick="submitFSearch()" class="button-reset">
+					<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-search"></use></svg>
+				</button>
+			</form>
+		</div>
 
-	   <div class="main-nav-bg"> 
+	</div>
+</div>
 
-			<!-- Logo, Support Nav, and 6.99 Shipping --> 
-			<div class="support-nav">
-
-				<!-- Logo (desktop) -->
-				<div class="leerburg-logo">
-					<a href="//leerburg.com/index.htm?nav=header&amp;content=logoDesktop_05022017" class="full-link reset-color">
-						<svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-wordmark"></use></svg>
-					</a>
-				</div>
-
-				<!-- $6.99 Shipping Deal (desktop) -->
-				<div class="nav-ship-container">
-					<a href="//leerburg.com/coupon3.htm?nav=header&amp;content=flatRateShip_05022017" class="full-link reset-color">
-												<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-ship-deal-699"></use></svg>
-											</a>
-				</div>
-
-				<!-- Support Navigation (Articles, Webboard, etc) -->
-				<ul id="section-links">
-					<li><a href="//leerburg.com/index.htm?nav=header&amp;content=home_05022017">Home</a></li>
-					<li><a href="//leerburg.com/blog/?nav=header&amp;content=blog_05022017">Blog</a></li>
-					<li><a href="//leerburg.com/training-articles.htm?nav=header&amp;content=articles_05022017">Articles</a></li>
-					<li><a href="//leerburg.com/qa/index.php?nav=header&amp;content=qna_05022017">Q &amp; A</a></li>
-					<li><a href="//leerburg.com/catalog.htm?nav=header&amp;content=catalog_05022017"><span class="hide400">Free </span>Catalog</a></li>
-					<!--
-					<li><a href="//leerburg.com/aboutus.htmaboutus">About<span class="hide400"> Us</span></a></li>
-					-->
-					<li><a href="//leerburg.com/newcontact.php?nav=header&amp;content=contact_05022017">Contact</a></li>
-				</ul>
-
-			</div> 
-			<!-- ends .support-nav -->
-
-			<!-- Main Nav: Shop, LOU, VOD, Search, Cart -->
-			<div class="main-container">
-				<ul id="primary-links">
-					<li id="shop-toggle" class="bright left">
-						<a class="full-link" href="#">
-							<svg id="category-icon" class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-shop-panel"></use></svg>
-							<svg id="mobile-category-icon" class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-shop-grid"></use></svg>
-							<p>SHOP</p>
-						</a>
-					</li>
-					<li class="darkLinks" id="link-onlineU">
-						<a href="//university.leerburg.com/?utm_source=leerburg&amp;utm_campaign=header_LOU_03082017" class="full-link"><span class="hide550">Online </span>Courses</a>
-					</li>
-					<li class="darkLinks" id="link-dvds">
-						<a href="http://leerburg.com/dvd_new.htm?nav=header&amp;content=DVD_05022017" class="full-link">New DVDs</a>
-					</li>
-					<li class="darkLinks" id="link-vod">
-						<a href="//leerburg.com/flix/index.php?nav=header&amp;content=VOD_05022017" class="full-link">
-							<span class="hide550">Video On Demand</span>
-							<span id="mobileVOD-link">Streaming</span>
-						</a>
-					</li>
-					<li class="darkLinks" id="toggleSearch">
-						<a href="#" class="full-link">
-							<svg width="22" height="22" id="spyglass">
-		                  <image xmlns:xlink="//www.w3.org/1999/xlink" xlink:href="//leerburg.com/Photos/search-results/spyglass.svg" src="//leerburg.com/Photos/search-results/spyglass.png" width="22" height="22"></image>
-		               </svg>
-							<svg class="arrow standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-arrow"></use></svg>
-						</a>
-					</li>					
-					<li id="cart-link" class="bright right">
-						<a href="https://leerburg.com/cart/viewcart.php?nav=header&amp;content=cartDesktop_05022017" class="full-link">
-							<svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-cart"></use></svg>
-							<p id="items-in-cart-number">CART (0)</p>
-						</a>
-					</li>
-					<li class="darkLinks" id="search-field">
-						<div id="main-search">
-							<form name="form-fsearch" id="form-fsearch" method="post" action="">
-                         		<button name="Submit" title="Submit Search" onclick="submitFSearch()">Search</button>
-                            	<span class="responsive-input"><input type="text" name="FSTerms" id="FSTerms" value="" placeholder="Find what your dog needs..."></span>
-                            </form>
-						</div>
-					</li>					
-				</ul> 
-				<!-- ends #primary-links -->
 <script>
-$(function() {
+$(function() 
+{
 	$("#FSTerms").keypress(function(e){ if(e.which==13){ submitFSearch(); } });
 });
+
 function submitFSearch()
 {
 	var terms=document.getElementById("FSTerms").value;
 	var url='https://leerburg.com/fsearch/results.php?terms='+terms;
-	
+	/*$('<input>').attr({
+		type: 'hidden',
+		name: 'terms',
+		value: terms
+	}).appendTo('#form-fsearch');
+	$("#form-fsearch").attr("method","get");*/
 	$("#form-fsearch").attr("action",url);
 }
 </script>
-				<!-- Main Dropdown - Desktop and Wide Screen Version; hidden by default -->
-				<div id="dropdown-wrapper">
 
-					<div id="panels-version">
-					
-						<!-- Category List -->
-						<ul class="category-list">
-							<li><a href="//leerburg.com/dvd.htm?nav=dropdown&amp;content=shop_05022017" id="dvds" class="hovered-link">DVDs &amp; CDs</a></li>
-							<li><a href="//leerburg.com/leashes.htm?nav=dropdown&amp;content=shop_05022017" id="leashes">Leashes</a></li>
-							<li><a href="//leerburg.com/collars.htm?nav=dropdown&amp;content=shop_05022017" id="collars">Collars</a></li>
-							<li><a href="//leerburg.com/harnessesvests.htm?nav=dropdown&amp;content=shop_05022017" id="HarnAndVests">Harnesses &amp; Vests</a></li>
-							<li><a href="//leerburg.com/electric.htm?nav=dropdown&amp;content=shop_05022017" id="e-collars">Electric Collars</a></li>
-							<li><a href="//leerburg.com/muzzle.htm?nav=dropdown&amp;content=shop_05022017" id="muzzles">Muzzles</a></li>
-							<li><a href="//leerburg.com/toy.htm?nav=dropdown&amp;content=shop_05022017" id="toys">Toys</a></li>
-							<li><a href="//leerburg.com/inthehouse.htm?nav=dropdown&amp;content=shop_05022017" id="houseSupplies">In The Home</a></li>
-							<li><a href="//leerburg.com/firstaid-travel.htm?nav=dropdown&amp;content=shop_05022017" id="first-travel">First Aid &amp; Travel</a></li>
-							<li><a href="//leerburg.com/newpupequip.htm?nav=dropdown&amp;content=shop_05022017" id="puppies">Puppy Supplies</a></li>
-							<li><a href="//leerburg.com/obedienceequip.htm?nav=dropdown&amp;content=shop_05022017" id="obedTraining">Obedience Training</a></li>
-							<li><a href="//leerburg.com/bitetrainequip.htm?nav=dropdown&amp;content=shop_05022017" id="protectSports">Protection Sports</a></li>
-							<li><a href="//leerburg.com/tactical/index.htm?nav=dropdown&amp;content=shop_05022017" id="policeK9">Police K9</a></li>
-							<li><a href="//leerburg.com/healthnutrition.htm?nav=dropdown&amp;content=shop_05022017" id="healthcare">Healthcare</a></li>
-							<li><a href="//leerburg.com/dogfood.htm?nav=dropdown&amp;content=shop_05022017" id="dogFood">All-Natural Dog Food</a></li>
-							<li><a href="//leerburg.com/treat.htm?nav=dropdown&amp;content=shop_05022017" id="treats">Treats</a></li>
-							<li><a href="//leerburg.com/grooming.htm?nav=dropdown&amp;content=shop_05022017" id="grooming">Grooming</a></li>
-							<li><a href="//leerburg.com/apparel.htm?nav=dropdown&amp;content=shop_05022017" id="apparel">Apparel</a></li>
-							<li><a href="//leerburg.com/sportdog.htm?nav=dropdown&amp;content=shop_05022017" id="dogSports">Dog Sports</a></li>
-							<li><a href="//leerburg.com/books.htm?nav=dropdown&amp;content=shop_05022017" id="books">Books</a></li>
-							<li><a href="//leerburg.com/category-events.htm?nav=dropdown&amp;content=shop_05022017" id="events">On-site Dog Training</a></li> 
-							<li><a href="//leerburg.com/new-and-sales.htm?nav=dropdown&amp;content=shop_05022017" id="newNsales">New &amp; Sales</a></li>          
-							<li><a href="//university.leerburg.com/Catalog/categories/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017" id="onlineCourses">Online Courses</a></li>
-						</ul>
+<!-- -->
+<!-- desktop header dropdowns -->
+<div id="header-dropdowns">
 
-						<!-- Category Sections -->
-						<div class="dropdown-category-sections" id="dvds-div">
-							
-							<!-- DVDS -->
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/dvds-30.jpg">
-							</div>
-						
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li class="standAloneCats"><a href="//leerburg.com/dvd_new.htm?nav=dropdown&amp;content=shop_05022017">New Leerburg DVDs</a></li> 
-									<li class="standAloneCats"><a href="//leerburg.com/combo.htm?nav=dropdown&amp;content=shop_05022017">DVD Sets</a></li>	
-									<li class="standAloneCats"><a href="//leerburg.com/miscdvds.htm?nav=dropdown&amp;content=shop_05022017">Miscellaneous</a></li>  		
-								</ul>
+	<!-- -->
+<!-- Old Main Dropdown - Desktop and Wide Screen Version; hidden by default -->
+<div id="product-dropdown" class="main-dropdown original">
 
-								<ul class="sub-categories">
-									<!-- big label/link --><li class="non-link-name">Dog Training</li>
-									<li><a href="//leerburg.com/obediencedvds.htm?nav=dropdown&amp;content=shop_05022017">Obedience Training</a></li>						
-									<li><a href="//leerburg.com/ecollardvds.htm?nav=dropdown&amp;content=shop_05022017">Electric Collar</a></li>
-									<li><a href="//leerburg.com/dominantdvds.htm?nav=dropdown&amp;content=shop_05022017">Dominant Dog</a></li>
-									<li><a href="//leerburg.com/manageSocialize.htm?nav=dropdown&amp;content=shop_05022017">Management &amp; Socialization</a></li>
-									<li><a href="//leerburg.com/puppydvds.htm?nav=dropdown&amp;content=shop_05022017">Puppy Training</a></li>
-								</ul> 
-
-								<ul class="sub-categories">
-									<!-- big label/link --><li class="non-link-name">Dog Sports</li>
-									<li><a href="//leerburg.com/flyballdvds.htm?nav=dropdown&amp;content=shop_05022017">Flyball</a></li>	
-									<li><a href="//leerburg.com/agilitydvds.htm?nav=dropdown&amp;content=shop_05022017">Agility</a></li>
-									<li><a href="//leerburg.com/schutzhunddvds.htm?nav=dropdown&amp;content=shop_05022017">Schutzhund</a></li>
-									<li><a href="//leerburg.com/noseworkdvds.htm?nav=dropdown&amp;content=shop_05022017">Scent Work</a></li>
-								</ul>
-                                             
-							</div>
-							<!-- end Column 1 -->
-							<!-- Column 2 -->
-							<div class="section-column">
-
-								<ul class="sub-categories">
-									<!-- big label/link --><li class="non-link-name">DVDs by Trainer</li>
-									<li><a href="//leerburg.com/frawleydvds.htm?nav=dropdown&amp;content=shop_05022017">Ed Frawley</a></li>
-									<li><a href="//leerburg.com/ellisdvds.htm?nav=dropdown&amp;content=shop_05022017">Michael Ellis</a></li>
-									<li><a href="//leerburg.com/keatingdvds.htm?nav=dropdown&amp;content=shop_05022017">Mark Keating</a></li>
-									<li><a href="//leerburg.com/tyler-muto-dvds.php?nav=dropdown&amp;content=shop_05022017">Tyler Muto</a></li>
-									<!--<li><a href="//leerburg.com/mickedvds.htm?nav=dropdown&content=shop_05022017">Forrest Micke</a></li>-->
-									<li><a href="//leerburg.com/gunndvds.htm?nav=dropdown&amp;content=shop_05022017">Janice Gunn</a></li>
-								</ul>    
-
+	<div id="panels-version">
 	
-								<ul class="sub-categories">
-									<!-- big label/link --><li class="non-link-name">Working Dogs</li>
-									<li><a href="//leerburg.com/policedvds.htm?nav=dropdown&amp;content=shop_05022017">Police Service</a></li>
-									<li><a href="//leerburg.com/servicedogdvds.htm?nav=dropdown&amp;content=shop_05022017">Service Dogs</a></li>
-									<li><a href="//leerburg.com/trackingdvds.htm?nav=dropdown&amp;content=shop_05022017">Tracking S&amp;R</a></li>
-									<li><a href="//leerburg.com/protectiondvds.htm?nav=dropdown&amp;content=shop_05022017">Protection Dog Training</a></li>
-								</ul>
-								<ul class="sub-categories">
-									<!-- big label/link --><li class="non-link-name">Raising Dogs</li>
-									<li><a href="//leerburg.com/healthcaredvds.htm?nav=dropdown&amp;content=shop_05022017">Nutrition &amp; Healthcare</a></li>
-									<li><a href="//leerburg.com/breedingdvds.htm?nav=dropdown&amp;content=shop_05022017">Breeding &amp; Whelping</a></li>
-								</ul>     								  
+		<!-- Category List -->
+		<ul class="category-list">
+			<li><a href="//leerburg.com/new-and-sales.htm" id="newNsales" class="hovered-link">New &amp; Sales</a></li>        
+			<li><a href="//leerburg.com/dvd.htm" id="dvds">DVDs &amp; CDs</a></li>
+			<li><a href="//leerburg.com/leashes.htm" id="leashes">Leashes</a></li>
+			<li><a href="//leerburg.com/collars.htm" id="collars">Collars</a></li>
+			<li><a href="//leerburg.com/harnessesvests.htm" id="HarnAndVests">Harnesses &amp; Vests</a></li>
+			<li><a href="//leerburg.com/electric.htm" id="e-collars">Electric Collars</a></li>
+			<li><a href="//leerburg.com/muzzle.htm" id="muzzles">Muzzles</a></li>
+			<li><a href="//leerburg.com/toy.htm" id="toys">Toys</a></li>
+			<li><a href="//leerburg.com/inthehouse.htm" id="houseSupplies">In The Home</a></li>
+			<li><a href="//leerburg.com/firstaid-travel.htm" id="first-travel">First Aid &amp; Travel</a></li>
+			<li><a href="//leerburg.com/newpupequip.htm" id="puppies">Puppy Supplies</a></li>
+			<li><a href="//leerburg.com/obedienceequip.htm" id="obedTraining">Obedience Training</a></li>
+			<li><a href="//leerburg.com/bitetrainequip.htm" id="protectSports">Protection Sports</a></li>
+			<li><a href="//leerburg.com/tactical/index.htm" id="policeK9">Police K9</a></li>
+			<li><a href="//leerburg.com/healthnutrition.htm" id="healthcare">Healthcare</a></li>
+			<li><a href="//leerburg.com/dogfood.htm" id="dogFood">All-Natural Dog Food</a></li>
+			<li><a href="//leerburg.com/treat.htm" id="treats">Treats</a></li>
+			<li><a href="//leerburg.com/grooming.htm" id="grooming">Grooming</a></li>
+			<li><a href="//leerburg.com/apparel.htm" id="apparel">Apparel</a></li>
+			<li><a href="//leerburg.com/sportdog.htm" id="dogSports">Dog Sports</a></li>
+			<li><a href="//leerburg.com/books.htm" id="books">Books</a></li>
+			<li><a href="//leerburg.com/category-events.htm" id="events">In-person Training</a></li> 
+					</ul>
 
-							</div> <!-- end Column 2 -->
-						</div>
-						<!-- ends dvds -->
 
-						<!-- Leashes -->
-						<div class="dropdown-category-sections" id="leashes-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/leashes-20.jpg">
-							</div>
+		<!-- Category Sections -->
 
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/leashes.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Leashes</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/amishleashes.htm?nav=dropdown&amp;content=shop_05022017">Amish Leather Leashes</a></li>
-									<li><a href="//leerburg.com/diy-leash.php?nav=dropdown&amp;content=shop_05022017">DIY Leather Leash</a></li>
-									<li><a href="//leerburg.com/allbiothaneleashes.php?nav=dropdown&amp;content=shop_05022017">BioThane Leashes</a></li>
-									<li><a href="//leerburg.com/longlines.htm?nav=dropdown&amp;content=shop_05022017">Long Lines</a></li>
-									<li><a href="//leerburg.com/shortleash.htm?nav=dropdown&amp;content=shop_05022017">Short Leashes</a></li>
-									<li><a href="//leerburg.com/lcone.htm?nav=dropdown&amp;content=shop_05022017">Leash Collar Combos</a></li>
-									<li><a href="//leerburg.com/lcone.htm?nav=dropdown&amp;content=shop_05022017">Martingale Leads</a></li>
-									<li><a href="//leerburg.com/lightleash.htm?nav=dropdown&amp;content=shop_05022017">Light Weight Leash</a></li>
-									<li><a href="//leerburg.com/prongleashes.htm?nav=dropdown&amp;content=shop_05022017">Prong Collar Leashes</a></li>
-									<li><a href="//leerburg.com/specialleashes.htm?nav=dropdown&amp;content=shop_05022017">Specialty Leashes</a></li>
-									<li><a href="//leerburg.com/l-accessories.htm?nav=dropdown&amp;content=shop_05022017">Leash Accessories</a></li>
-								</ul>
-							</div>
-							<!-- end Column 1 -->
-						</div>
-						<!-- ends leashes -->
-
-						<!-- Collars -->
-						<div class="dropdown-category-sections" id="collars-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/collars-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/collars.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Collars</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/leathercollars.htm?nav=dropdown&amp;content=shop_05022017">Amish Leather</a></li>
-									<li><a href="//leerburg.com/diy-collar.php?nav=dropdown&amp;content=shop_05022017">DIY Leather Collar</a></li>
-									<li><a href="//leerburg.com/flatcollars.htm?nav=dropdown&amp;content=shop_05022017">Flat Collars</a></li>
-									<li><a href="//leerburg.com/prongcollars.htm?nav=dropdown&amp;content=shop_05022017">Prong Collars</a></li>
-									<li><a href="//leerburg.com/keepercollars.php?nav=dropdown&amp;content=shop_05022017">Keeper Collars</a></li>
-									<li><a href="//leerburg.com/slipcollars.htm?nav=dropdown&amp;content=shop_05022017">Slip Collars</a></li>
-									<li><a href="//leerburg.com/fur-saver-collars.htm?nav=dropdown&amp;content=shop_05022017">Fur Savers</a></li>
-									<li><a href="//leerburg.com/lcone.htm?nav=dropdown&amp;content=shop_05022017">Leash Collar Combos</a></li>
-									<li><a href="//leerburg.com/specialcollars.htm?nav=dropdown&amp;content=shop_05022017">Specialty Collars</a></li>
-									<li><a href="//leerburg.com/electric.htm?nav=dropdown&amp;content=shop_05022017">Electric Collars</a></li>
-									<li><a href="//leerburg.com/c-accessories.htm?nav=dropdown&amp;content=shop_05022017">Collar Accessories</a></li>
-								</ul>
-							</div>
-							<!-- end Column 1 -->
-						</div>
-						<!-- End Collars -->
-
-						<!-- Harnesses and Vests -->
-						<div class="dropdown-category-sections" id="HarnAndVests-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/hnv-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/harnessesvests.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Harnesses &amp; Vests</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/amishharnesses.htm?nav=dropdown&amp;content=shop_05022017">Amish Leather Harnesses</a></li>
-									<li><a href="//leerburg.com/servicevests.htm?nav=dropdown&amp;content=shop_05022017">Service Dog Vests</a></li>
-									<li><a href="//leerburg.com/safety-hnv.htm?nav=dropdown&amp;content=shop_05022017">Safety Vests &amp; Harnesses</a></li>
-									<li><a href="//leerburg.com/padded-harnesses.htm?nav=dropdown&amp;content=shop_05022017">Padded &amp; Nylon Harnesses</a></li>
-									<li><a href="//leerburg.com/tactical/harnessesvests.htm?nav=dropdown&amp;content=shop_05022017">Police K9 Harnesses &amp; Vests</a></li>
-									<li><a href="//leerburg.com/tactical/molle.htm?nav=dropdown&amp;content=shop_05022017">MOLLE Harnesses &amp; Vests</a></li>
-									<li><a href="//leerburg.com/tracking-harnesses.htm?nav=dropdown&amp;content=shop_05022017">Tracking Harnesses</a></li>
-									<li><a href="//leerburg.com/searchandrescue-harnesses.htm?nav=dropdown&amp;content=shop_05022017">Search &amp; Rescue Gear</a></li>
-									<li><a href="//leerburg.com/protect-harnesses.htm?nav=dropdown&amp;content=shop_05022017">Protection Sport Harnesses</a></li>
-									<li><a href="//leerburg.com/dogvests.htm?nav=dropdown&amp;content=shop_05022017">Temperature Control Vests</a></li>
-									<li><a href="//leerburg.com/backpack-exercise.htm?nav=dropdown&amp;content=shop_05022017">Backpack &amp; Exercise Vests</a></li>
-									<li><a href="//leerburg.com/trainersvests.htm?nav=dropdown&amp;content=shop_05022017">Trainer Vests</a></li>
-									<li><a href="//leerburg.com/harnessvestacessories.htm?nav=dropdown&amp;content=shop_05022017">Harness &amp; Vest Accessories</a></li>
-								</ul>
-							</div>
-							<!-- end Column 1 -->
-						</div>
-						<!-- End Harnesses and Vests -->
-						
-						<!-- E-Collars -->
-						<div class="dropdown-category-sections" id="e-collars-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/ecollars-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/electric.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Electric Collars</a>
-							</div>	
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/electric_dogtra.htm?nav=dropdown&amp;content=shop_05022017">Dogtra</a></li>
-									<li><a href="//leerburg.com/electric_garmin.htm?nav=dropdown&amp;content=shop_05022017">Garmin</a></li>				
-									<li><a href="//leerburg.com/electric_educator.htm?nav=dropdown&amp;content=shop_05022017">Educator</a></li>														
-									<li><a href="//leerburg.com/electric_smdog.htm?nav=dropdown&amp;content=shop_05022017">Small Dog E-collars</a></li>
-									<li><a href="//leerburg.com/barkcollars.htm?nav=dropdown&amp;content=shop_05022017">Bark Collars</a></li>
-									<li><a href="//leerburg.com/ingroundfence.htm?nav=dropdown&amp;content=shop_05022017">Electric Fencing</a></li>
-									<li><a href="//leerburg.com/e-col-accessories.htm?nav=dropdown&amp;content=shop_05022017">Electric Collar Accessories</a></li>
-								</ul>
-							</div>
-							<!-- end Column 1 -->
-						</div>
-						<!-- Ends E-Collars -->
-					
-						<!-- Muzzles -->
-						<div class="dropdown-category-sections" id="muzzles-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/muzzles-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/muzzle.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Muzzles</a>
-							</div>	
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/plasticmuzzles.htm?nav=dropdown&amp;content=shop_05022017">Jafco Plastic Muzzles</a></li>
-									<li><a href="//leerburg.com/wirebasketmuzzles.htm?nav=dropdown&amp;content=shop_05022017">Wire Basket Muzzles</a></li>
-									<li><a href="//leerburg.com/clothmuzzle.htm?nav=dropdown&amp;content=shop_05022017">Cloth Muzzles</a></li>
-									<li><a href="//leerburg.com/1395.htm?nav=dropdown&amp;content=shop_05022017">Baskerville Muzzles</a></li>
-									<li><a href="//leerburg.com/leathermuzzles.htm?nav=dropdown&amp;content=shop_05022017">Leather Muzzles</a></li>
-									<li><a href="//leerburg.com/syntheticmuzzles.htm?nav=dropdown&amp;content=shop_05022017">Synthetic Muzzles</a></li>
-								</ul>
-							</div>
-							<!-- end Column 1 -->
-						</div>
-						<!-- Ends Muzzles -->
-						
-						<!-- Toys -->
-						<div class="dropdown-category-sections" id="toys-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/toys-30.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/toy.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Toys</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/puppytug.htm?nav=dropdown&amp;content=shop_05022017">Tugs</a></li>
-									<li><a href="//leerburg.com/balls.htm?nav=dropdown&amp;content=shop_05022017">Balls</a></li>
-									<li><a href="//leerburg.com/sticks.htm?nav=dropdown&amp;content=shop_05022017">Sticks &amp; Bones</a></li>
-									<li><a href="//leerburg.com/ropetoys.htm?nav=dropdown&amp;content=shop_05022017">Rope Toys</a></li>
-									<li><a href="//leerburg.com/flyingdiscs.htm?nav=dropdown&amp;content=shop_05022017">Flying Discs</a></li>
-									<li><a href="//leerburg.com/tosstoys.htm?nav=dropdown&amp;content=shop_05022017">Toss &amp; Retrieve</a></li>
-									<li><a href="//leerburg.com/treattoys.htm?nav=dropdown&amp;content=shop_05022017">Treat Toys</a></li>
-									<li><a href="//leerburg.com/plushtoys.htm?nav=dropdown&amp;content=shop_05022017">Plush &amp; Soft Toys</a></li>
-									<li><a href="//leerburg.com/fleecetugs.htm?nav=dropdown&amp;content=shop_05022017">Fleece Tugs</a></li>
-									<li><a href="//leerburg.com/lighttoys.htm?nav=dropdown&amp;content=shop_05022017">Lighted &amp; Glowing Toys</a></li>
-								</ul>
-							</div>
-							<!-- end Column 1 -->
-							
-							<!-- Column 2 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/launchertoys.htm?nav=dropdown&amp;content=shop_05022017">Launcher Toys</a></li>
-									<li><a href="//leerburg.com/top-matic.htm?nav=dropdown&amp;content=shop_05022017">Top-Matic</a></li>
-									<li><a href="//leerburg.com/zogoflex.htm?nav=dropdown&amp;content=shop_05022017">Zogoflex</a></li>
-									<li><a href="//leerburg.com/goughnutstoys.htm?nav=dropdown&amp;content=shop_05022017">GoughNuts</a></li>
-									<li><a href="//leerburg.com/orbeetoys.htm?nav=dropdown&amp;content=shop_05022017">Orbee</a></li>
-									<li><a href="//leerburg.com/alldumbbells.htm?nav=dropdown&amp;content=shop_05022017">Dumbbells</a></li>
-									<li><a href="//leerburg.com/bitebars.htm?nav=dropdown&amp;content=shop_05022017">Bite Wedges</a></li>
-									<li><a href="//leerburg.com/category-chewtoys.htm?nav=dropdown&amp;content=shop_05022017">Chew Toys</a></li>
-									<li><a href="//leerburg.com/durability.htm?nav=dropdown&amp;content=shop_05022017">Guaranteed Durability</a></li>
-									<li><a href="//leerburg.com/puppytoy.htm?nav=dropdown&amp;content=shop_05022017">Puppy Toys</a></li>
-								</ul>
-							</div>
-							<!-- end Column 2 -->
-						</div>
-						<!-- Ends Toys -->
-						
-						<!-- In the Home -->
-						<div class="dropdown-category-sections" id="houseSupplies-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/inthehome-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/inthehouse.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">In The Home</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/dogbeds.htm?nav=dropdown&amp;content=shop_05022017">Beds &amp; Mats</a></li>
-									<li><a href="//leerburg.com/crate.htm?nav=dropdown&amp;content=shop_05022017">Crates</a></li>
-									<li><a href="//leerburg.com/doggates.htm?nav=dropdown&amp;content=shop_05022017">Gates &amp; Pens</a></li>
-									<li><a href="//leerburg.com/dogdishes.htm?nav=dropdown&amp;content=shop_05022017">Dishes &amp; Bowls</a></li>
-									<li><a href="//leerburg.com/grooming.htm?nav=dropdown&amp;content=shop_05022017">Grooming</a></li>
-									<li><a href="//leerburg.com/clean-up.htm?nav=dropdown&amp;content=shop_05022017">Clean Up</a></li>
-									<li><a href="//leerburg.com/ingroundfence.htm?nav=dropdown&amp;content=shop_05022017">Electric Fencing</a></li>
-								</ul>
-							</div>
-							<!-- end Column 1 -->
-						</div>
-						<!-- ends In the House -->
-
-						<!-- First Aid and Travel -->
-						<div class="dropdown-category-sections" id="first-travel-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/firstntravel-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/firstaid-travel.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">First Aid &amp; Travel</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">         
-									<li><a href="//leerburg.com/firstaid.htm?nav=dropdown&amp;content=shop_05022017">First Aid</a></li>
-									<li><a href="//leerburg.com/crate.htm?nav=dropdown&amp;content=shop_05022017">Crates</a></li>
-									<li><a href="//leerburg.com/travelaccessories.htm?nav=dropdown&amp;content=shop_05022017">Travel Accessories</a></li>
-									<li><a href="//leerburg.com/temperature.htm?nav=dropdown&amp;content=shop_05022017">Shade &amp; Temperature Control</a></li>
-									<li><a href="//leerburg.com/nighttime.htm?nav=dropdown&amp;content=shop_05022017">Night Time Safety &amp; Fun</a></li>
-								</ul>
-							</div> 
-						<!-- end Column 1 -->
-						</div> 
-						<!-- ends First Aid and Travel -->   
-
-						<!-- Puppies -->
-						<div class="dropdown-category-sections" id="puppies-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/puppy-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/newpupequip.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Puppy Supplies</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/puppycollars.htm?nav=dropdown&amp;content=shop_05022017">Leashes, Collars, &amp; Harnesses</a></li>
-									<li><a href="//leerburg.com/puppypens.htm?nav=dropdown&amp;content=shop_05022017">Puppy Gates &amp; Pens</a></li>
-									<li><a href="//leerburg.com/puppytoy.htm?nav=dropdown&amp;content=shop_05022017">Puppy Toys</a></li>
-									<li><a href="//leerburg.com/whelpingequip.htm?nav=dropdown&amp;content=shop_05022017">Whelping Equipment</a></li>
-									<li><a href="//leerburg.com/aiequip.htm?nav=dropdown&amp;content=shop_05022017">Artificial Insemination Equipment</a></li>
-								</ul>
-							</div> 
-							<!-- end Column 1 -->
-						</div> 
-						<!-- ends Puppies -->
-
-						<!-- Obedience Training -->
-						<div class="dropdown-category-sections" id="obedTraining-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/obed-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/obedienceequip.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Obedience Training</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/baitbag.htm?nav=dropdown&amp;content=shop_05022017">Bait Bags</a></li>
-									<li><a href="//leerburg.com/clickertraining.htm?nav=dropdown&amp;content=shop_05022017">Clicker Training</a></li>
-									<li><a href="//leerburg.com/bellswhistles.htm?nav=dropdown&amp;content=shop_05022017">Bells &amp; Whistles</a></li>
-									<li><a href="//leerburg.com/alldumbbells.htm?nav=dropdown&amp;content=shop_05022017">Dumbbells</a></li>
-									<li><a href="//leerburg.com/trainersvests.htm?nav=dropdown&amp;content=shop_05022017">Trainer Vests</a></li>
-								</ul>
-							</div> 
-							<!-- end Column 1 -->
-						</div> 
-						<!-- ends Obedience Training -->
-
-						<!-- Protect Sports -->
-						<div class="dropdown-category-sections" id="protectSports-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/protectsports-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/bitetrainequip.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Protection Sports</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/bitesuits.htm?nav=dropdown&amp;content=shop_05022017">Bite Suits</a></li>
-									<li><a href="//leerburg.com/scratchpants.php?nav=dropdown&amp;content=shop_05022017">Scratch Pants</a></li>
-									<li><a href="//leerburg.com/bitesleeves.htm?nav=dropdown&amp;content=shop_05022017">Arm Sleeves</a></li>
-									<li><a href="//leerburg.com/legsleeve.htm?nav=dropdown&amp;content=shop_05022017">Leg Sleeves</a></li>
-									<li><a href="//leerburg.com/bitebars.htm?nav=dropdown&amp;content=shop_05022017">Bite Wedges</a></li>
-									<li><a href="//leerburg.com/puppytug.htm?nav=dropdown&amp;content=shop_05022017">Tugs</a></li>
-									<li><a href="//leerburg.com/whips.htm?nav=dropdown&amp;content=shop_05022017">Whips &amp; Sticks</a></li>
-									<li><a href="//leerburg.com/harnesses.htm?nav=dropdown&amp;content=shop_05022017">Dog Harnesses</a></li>
-								</ul>
-							</div> 
-							<!-- end Column 1 -->
-						</div>  
-						<!-- ends Protect Sports -->
-
-						<!-- Police K9 -->
-						<div class="dropdown-category-sections" id="policeK9-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/police-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/tactical/index.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Police K9</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/tactical/molle.htm?nav=dropdown&amp;content=shop_05022017">MOLLE Gear</a></li>
-									<li><a href="//leerburg.com/tactical/harnessesvests.htm?nav=dropdown&amp;content=shop_05022017">Harnesses &amp; Vests</a></li>
-									<li><a href="//leerburg.com/tactical/leashes.htm?nav=dropdown&amp;content=shop_05022017">Police Leashes</a></li>
-									<li><a href="//leerburg.com/tactical/collars.htm?nav=dropdown&amp;content=shop_05022017">Police K9 Collars</a></li>
-									<li><a href="//leerburg.com/tactical/muzzles.htm?nav=dropdown&amp;content=shop_05022017">Muzzles</a></li>
-									<li><a href="//leerburg.com/tactical/remotecollars.htm?nav=dropdown&amp;content=shop_05022017">E-Collars</a></li>
-									<li><a href="//leerburg.com/tactical/tracking.htm?nav=dropdown&amp;content=shop_05022017">Tracking Gear</a></li>
-									<li><a href="//leerburg.com/tactical/detectordog.htm?nav=dropdown&amp;content=shop_05022017">Detector Dog Gear</a></li>
-									<li><a href="//leerburg.com/tactical/medical.htm?nav=dropdown&amp;content=shop_05022017">First Aid</a></li>
-									<li><a href="//leerburg.com/tactical/biteequip.htm?nav=dropdown&amp;content=shop_05022017">Protection Equipment</a></li>
-								</ul>
-							</div> 
-							<!-- end Column 1 -->
-						</div> 
-						<!-- ends Police K9 -->
-
-						<!-- Healthcare -->
-						<div class="dropdown-category-sections" id="healthcare-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/healthcare-30.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/healthnutrition.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Healthcare</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/digest.htm?nav=dropdown&amp;content=shop_05022017">Digestive Health</a></li>
-									<li><a href="//leerburg.com/fleas.htm?nav=dropdown&amp;content=shop_05022017">Flea, Fly &amp; Tick Prevention</a></li>
-									<li><a href="//leerburg.com/dentalcare.php?nav=dropdown&amp;content=shop_05022017">Dental Care</a></li>
-									<li><a href="//leerburg.com/immune.htm?nav=dropdown&amp;content=shop_05022017">Immune System Support</a></li>
-									<li><a href="//leerburg.com/joint.htm?nav=dropdown&amp;content=shop_05022017">Joint Pain &amp; Arthritic Relief</a></li>
-									<li><a href="//leerburg.com/panocare.htm?nav=dropdown&amp;content=shop_05022017">Pano Care</a></li>
-									<li><a href="//leerburg.com/parvocare.htm?nav=dropdown&amp;content=shop_05022017">Parvovirus Care</a></li>
-									<li><a href="//leerburg.com/skin.htm?nav=dropdown&amp;content=shop_05022017">Skin &amp; Coat</a></li>
-									<li><a href="//leerburg.com/stress.htm?nav=dropdown&amp;content=shop_05022017">Stress Relief for Dogs</a></li>
-									<li><a href="//leerburg.com/firstaid.htm?nav=dropdown&amp;content=shop_05022017">First Aid</a></li>
-									<li><a href="//leerburg.com/workingandperf.htm?nav=dropdown&amp;content=shop_05022017">Performance Supplements</a></li>									
-								</ul>
-							</div> 
-							<!-- end Column 1 -->
-
-							<!-- Column 2 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/herbsmith.htm?nav=dropdown&amp;content=shop_05022017">Herbsmith</a></li>
-									<li><a href="//leerburg.com/koda.htm?nav=dropdown&amp;content=shop_05022017">Koda for Dogs</a></li>
-									<li><a href="//leerburg.com/legendary-canine.php?nav=dropdown&amp;content=shop_05022017">Legendary Canine</a></li>									
-								</ul>
-							</div> 
-							<!-- end Column 2 -->
-						</div> 
-						<!-- ends Healthcare -->
-
-						<!-- Dog Food -->
-						<div class="dropdown-category-sections" id="dogFood-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/dogfood-20.jpg">
-							</div>
-							
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/dogfood.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">All-Natural Dog Food</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									
-									<li><a href="//leerburg.com/kibble.php?nav=dropdown&amp;content=shop_05022017">Kibble</a></li>
-									<li><a href="//leerburg.com/meatrolls.htm?nav=dropdown&amp;content=shop_05022017?nav=dropdown&amp;content=shop_05022017">Meat Rolls</a></li>
-
-									<li><a href="//leerburg.com/rawfood.php?nav=dropdown&amp;content=shop_05022017">Raw Food</a></li>
-									<li><a href="//leerburg.com/grainfreefood.php?nav=dropdown&amp;content=shop_05022017">Grain Free Food</a></li>
-									<li><a href="//leerburg.com/treat.htm?nav=dropdown&amp;content=shop_05022017">Treats</a></li>
-									<li><a href="//leerburg.com/dogdishes.htm?nav=dropdown&amp;content=shop_05022017">Dishes &amp; Bowls</a></li>
-								</ul>
-							</div> 
-							<!-- end Column 1 -->
-						</div> 
-						<!-- ends Dog Food -->
-
-						<!-- Treats -->
-						<div class="dropdown-category-sections" id="treats-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/treats-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/treat.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Treats</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/trainingtreat.htm?nav=dropdown&amp;content=shop_05022017">Training Treats</a></li>
-									<li><a href="//leerburg.com/meatrolls.htm?nav=dropdown&amp;content=shop_05022017">Meat Rolls</a></li>
-									<li><a href="//leerburg.com/dentalchews.php?nav=dropdown&amp;content=shop_05022017">Dental Chews</a></li>
-									<li><a href="//leerburg.com/grainfreetreats.php?nav=dropdown&amp;content=shop_05022017">Grain Free Treats</a></li>
-									<li><a href="//leerburg.com/treattoys.htm?nav=dropdown&amp;content=shop_05022017">Treat Toys</a></li>
-									<li><a href="//leerburg.com/baitbag.htm?nav=dropdown&amp;content=shop_05022017">Bait Bags</a></li>
-									
-								</ul>
-							</div> 
-							<!-- end Column 1 -->
-						</div> 
-						<!-- ends Treats -->
-
-						<!-- Grooming --> 
-						<div class="dropdown-category-sections" id="grooming-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/grooming-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/grooming.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Grooming</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/brushes.htm?nav=dropdown&amp;content=shop_05022017">Brushes &amp; Rakes</a></li>
-									<li><a href="//leerburg.com/shampoo.htm?nav=dropdown&amp;content=shop_05022017">Shampoo</a></li>
-									<li><a href="//leerburg.com/clippers.htm?nav=dropdown&amp;content=shop_05022017">Nail Clippers</a></li>
-									<li><a href="//leerburg.com/dryers.htm?nav=dropdown&amp;content=shop_05022017">Dryers</a></li>
-								</ul>
-							</div> 
-							<!-- end Column 1 -->
-						</div> 
-						<!-- ends Grooming --> 
-
-						<!-- Apparel -->
-						<div class="dropdown-category-sections" id="apparel-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/apparel-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/apparel.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Apparel</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/trainersvests.htm?nav=dropdown&amp;content=shop_05022017">Trainer Vests</a></li>
-									<li><a href="//leerburg.com/baitbag.htm?nav=dropdown&amp;content=shop_05022017">Bait Bags</a></li>
-									<li><a href="//leerburg.com/tshirts.htm?nav=dropdown&amp;content=shop_05022017">T-Shirts</a></li>
-									<li><a href="//leerburg.com/longsleeves.htm?nav=dropdown&amp;content=shop_05022017">Long Sleeve Tops</a></li><li><a href="//leerburg.com/headgear.php?nav=dropdown&amp;content=shop_05022017">Headgear</a></li>
-								</ul>
-							</div> 
-							<!-- end Column 1 -->
-						</div> 
-						<!-- ends Apparel -->
-
-						<!-- Dog Sports -->
-						<div class="dropdown-category-sections" id="dogSports-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/dogsports-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/sportdog.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Dog Sports</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/dockdiving.htm?nav=dropdown&amp;content=shop_05022017">Dock Diving</a></li>
-									<li><a href="//leerburg.com/noseworkequip.htm?nav=dropdown&amp;content=shop_05022017">Nosework/Scent Work</a></li>
-									<li><a href="//leerburg.com/flyball.php?nav=dropdown&amp;content=shop_05022017">Flyball</a></li>
-									<li><a href="//leerburg.com/blinds.htm?nav=dropdown&amp;content=shop_05022017">Blinds, Jumps &amp; Hurdles</a></li>
-									<li><a href="//leerburg.com/alldumbbells.htm?nav=dropdown&amp;content=shop_05022017">Dumbbells</a></li>
-									<li><a href="//leerburg.com/trackequip.htm?nav=dropdown&amp;content=shop_05022017">Tracking Gear</a></li>
-									<li><a href="//leerburg.com/fitness.php?nav=dropdown&amp;content=shop_05022017">Fitness and Rehab</a></li>
-								</ul>
-							</div> 
-						<!-- end Column 1 -->
-						</div> 
-						<!-- ends Dog Sports -->
-
-						<!-- Books -->
-						<div class="dropdown-category-sections" id="books-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/books-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/books.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">Books</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//leerburg.com/agilitybooks.htm?nav=dropdown&amp;content=shop_05022017">Agility</a></li>
-									<li><a href="//leerburg.com/behaviorbooks.htm?nav=dropdown&amp;content=shop_05022017">Training Behavior</a></li>
-									<li><a href="//leerburg.com/clickerbooks.htm?nav=dropdown&amp;content=shop_05022017">Clicker Training</a></li>
-									<li><a href="//leerburg.com/electronicbooks.htm?nav=dropdown&amp;content=shop_05022017">eBooks</a></li>
-									<li><a href="//leerburg.com/dogbusiness.htm?nav=dropdown&amp;content=shop_05022017">Dog Business</a></li>
-									<li><a href="//leerburg.com/noseworkbooks.htm?nav=dropdown&amp;content=shop_05022017">Scent Training</a></li>
-									<li><a href="//leerburg.com/nutritionbooks.htm?nav=dropdown&amp;content=shop_05022017">Nutrition &amp; Health</a></li>
-									<li><a href="//leerburg.com/protbooks.htm?nav=dropdown&amp;content=shop_05022017">Protection Dog Training</a></li>
-									<li><a href="//leerburg.com/workingbooks.htm?nav=dropdown&amp;content=shop_05022017">Police K9</a></li>
-									<li><a href="//leerburg.com/srbooks.htm?nav=dropdown&amp;content=shop_05022017">Search &amp; Rescue</a></li>
-									<li><a href="//leerburg.com/posteritems.htm?nav=dropdown&amp;content=shop_05022017">Posters</a></li>
-								</ul>
-							</div> 
-							<!-- end Column 1 -->
-						</div> 
-						<!-- ends Books -->
-
-						<!-- New and Sales -->
-						<div class="dropdown-category-sections" id="newNsales-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/newnsale-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//leerburg.com/new-and-sales.htm?nav=dropdown&amp;content=shop_05022017" class="sub-category-title">New &amp; Sales</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="http://leerburg.com/dvd_new.htm?nav=dropdown&amp;content=shop_05022017">New Leerburg DVDs</a></li>
-									<li><a href="//leerburg.com/new.htm?nav=dropdown&amp;content=shop_05022017">New Products</a></li>
-									<li><a href="//leerburg.com/kitcombos.php?nav=dropdown&amp;content=shop_05022017">Deals &amp; Steals Combo Sets</a></li>
-									<li><a href="//leerburg.com/clearance.htm?nav=dropdown&amp;content=shop_05022017">Clearance</a></li>
-									<li><a href="//leerburg.com/sls.php?nav=dropdown&amp;content=shop_05022017">Warehouse Sale</a></li>
-									<!--<li><a href="//leerburg.com/daily-deal.php?nav=dropdown&content=shop_05022017">Weekly Deals</a></li>-->
-								</ul>
-							</div> 
-							<!-- end Column 1 -->
-						</div> 
-						<!-- ends New and Sales -->		
-
-						<div class="dropdown-category-sections full-image" id="events-div">
-							<a href="//leerburg.com/category-events.htm?nav=dropdown&amp;content=shop_05022017" class="full-link"><img src="//leerburg.com/photos/dropdown-navigation-imgs/onsite-30.jpg"></a>
-						</div>  
-						
-						<!-- Online Courses -->
-						<div class="dropdown-category-sections" id="onlineCourses-div">
-							<div class="dept-img">
-								<img src="//leerburg.com/photos/dropdown-navigation-imgs/courses-20.jpg">
-							</div>
-
-							<!-- ALL label/link -->
-							<div class="category-title">
-								<a href="//university.leerburg.com/Catalog/categories/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017" class="sub-category-title">Leerburg Online</a>
-							</div>
-
-							<!-- Column 1 -->
-							<div class="section-column">
-								<ul class="sub-categories">
-									<li><a href="//university.leerburg.com/Catalog/viewCategory/catid/9/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017">New Courses</a></li>
-									<li><a href="//university.leerburg.com/Catalog/viewCategory/catid/2/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017">Obedience Training</a></li>
-									<li><a href="//university.leerburg.com/Catalog/viewCategory/catid/14/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017">Management and Everyday Life</a></li>
-									<li><a href="//university.leerburg.com/Catalog/viewCategory/catid/10/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017">Relationship Building and Engagement</a></li>
-									<li><a href="//university.leerburg.com/Catalog/viewCategory/catid/5/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017">Puppy Development</a></li>
-									<li><a href="//university.leerburg.com/Catalog/viewCategory/catid/11/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017">Leash Handling</a></li>
-									<li><a href="//university.leerburg.com/Catalog/viewCategory/catid/12/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017">Remote Collars</a></li>
-									<li><a href="//university.leerburg.com/Catalog/viewCategory/catid/13/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017">Advanced Training Concepts</a></li>
-									<li><a href="//university.leerburg.com/Catalog/viewCategory/catid/3/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017">Dog Sports</a></li>
-									<li><a href="//university.leerburg.com/Catalog/viewCategory/catid/15/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017">Rescue and Shelter Dogs</a></li>
-									<li><a href="//university.leerburg.com/Catalog/viewCategory/catid/7/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017">Free Courses</a></li>	
-									<li><a href="//university.leerburg.com/Catalog/viewCategory/catid/8/?utm_source=leerburg&amp;utm_campaign=dropdown_shop_05022017">Coming Soon</a></li>									
-								</ul>
-							</div>
-							<!-- end Column 1 -->						
-						</div> 
-						<!-- ends Online Courses  -->	
-
-					</div>
-					<!-- ends panels version -->
-			   </div>
-				<!-- ends hidden dropdown -->
+		<!-- New and Sales -->
+		<div class="dropdown-category-sections" id="newNsales-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/newnsale-20.jpg">
 			</div>
-			<!-- ends main container -->
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/new-and-sales.htm" class="sub-category-title">New &amp; Sales</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="http://leerburg.com/dvd_new.htm">New Leerburg DVDs</a></li>
+					<li><a href="//leerburg.com/new.htm">New Products</a></li>
+					<li><a href="//leerburg.com/view-category.php?categoryid=695">Spring Cleaning</a></li>
+					<li><a href="//leerburg.com/kitcombos.php">Deals &amp; Steals Combo Sets</a></li>
+					<li><a href="//leerburg.com/clearance.htm">Clearance</a></li>
+					<li><a href="//leerburg.com/sls.php">Warehouse Sale</a></li>
+					<!--<li><a href="//leerburg.com/daily-deal.php">Weekly Deals</a></li>-->
+				</ul>
+			</div> 
+			<!-- end Column 1 -->
+		</div> 
+		<!-- ends New and Sales -->	
+
+		<div class="dropdown-category-sections" id="dvds-div">
+
+			<!-- DVDS -->
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/dvds-30.jpg">
+			</div>
+		
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li class="standAloneCats"><a href="//leerburg.com/dvd_new.htm">New Leerburg DVDs</a></li> 
+					<li class="standAloneCats"><a href="//leerburg.com/combo.htm">DVD Sets</a></li>	
+					<li class="standAloneCats"><a href="//leerburg.com/miscdvds.htm">Miscellaneous</a></li>
+				</ul>
+
+				<ul class="sub-categories">
+					<!-- big label/link --><li class="non-link-name">Dog Training</li>
+					<li><a href="//leerburg.com/obediencedvds.htm">Obedience Training</a></li>						
+					<li><a href="//leerburg.com/ecollardvds.htm">Electric Collar</a></li>
+					<li><a href="//leerburg.com/dominantdvds.htm">Dominant Dog</a></li>
+					<li><a href="//leerburg.com/manageSocialize.htm">Management &amp; Socialization</a></li>
+					<li><a href="//leerburg.com/puppydvds.htm">Puppy Training</a></li>
+				</ul> 
+
+				<ul class="sub-categories">
+					<!-- big label/link --><li class="non-link-name">Dog Sports</li>
+					<li><a href="//leerburg.com/flyballdvds.htm">Flyball</a></li>	
+					<li><a href="//leerburg.com/agilitydvds.htm">Agility</a></li>
+					<li><a href="//leerburg.com/schutzhunddvds.htm">Schutzhund</a></li>
+					<li><a href="//leerburg.com/noseworkdvds.htm">Scent Work</a></li>
+				</ul>
+                                 
+			</div>
+			<!-- end Column 1 -->
+			<!-- Column 2 -->
+			<div class="section-column">
+
+				<ul class="sub-categories">
+					<!-- big label/link --><li class="non-link-name">DVDs by Trainer</li>
+					<li><a href="//leerburg.com/frawleydvds.htm">Ed Frawley</a></li>
+					<li><a href="//leerburg.com/ellisdvds.htm">Michael Ellis</a></li>
+					<li><a href="//leerburg.com/keatingdvds.htm">Mark Keating</a></li>
+					<li><a href="//leerburg.com/tyler-muto-dvds.php">Tyler Muto</a></li>
+					<li><a href="//leerburg.com/gunndvds.htm">Janice Gunn</a></li>
+				</ul>    
+
+
+				<ul class="sub-categories">
+					<!-- big label/link --><li class="non-link-name">Working Dogs</li>
+					<li><a href="//leerburg.com/policedvds.htm">Police Service</a></li>
+					<li><a href="//leerburg.com/servicedogdvds.htm">Service Dogs</a></li>
+					<li><a href="//leerburg.com/trackingdvds.htm">Tracking S&amp;R</a></li>
+					<li><a href="//leerburg.com/protectiondvds.htm">Protection Dog Training</a></li>
+				</ul>
+				<ul class="sub-categories">
+					<!-- big label/link --><li class="non-link-name">Raising Dogs</li>
+					<li><a href="//leerburg.com/healthcaredvds.htm">Nutrition &amp; Healthcare</a></li>
+					<li><a href="//leerburg.com/breedingdvds.htm">Breeding &amp; Whelping</a></li>
+				</ul>     								  
+
+			</div> <!-- end Column 2 -->
 		</div>
-		<!-- ends background -->
+		<!-- ends dvds -->
 
-		<div class="clearfloats"></div>
-	</div>
-	<!-- ends header-wrapper -->
+		<!-- Leashes -->
+		<div class="dropdown-category-sections" id="leashes-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/leashes-20.jpg">
+			</div>
 
-	<!-- =============================
-	side buttons for large screens -->
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/leashes.htm" class="sub-category-title">Leashes</a>
+			</div>
 
-	<div id="desktop-tabs">
-		<!--<a href="//leerburg.com/giveaway.htm?nav=desktopTabs&content=giveaway_05022017" id="tab-giveaway" class="theme-gradient"><span>Weekly Giveaway</span></a>-->
-		<a href="//leerburg.com/newcontact.php?cat=QA&amp;nav=desktopTabs&amp;content=askCindy_05022017" id="tab-contact" class="black-bg">
-			<svg width="21" height="21">
-				<image xlink:href="//leerburg.com/Photos/header-icons-logos/question-mark.svg" src="//leerburg.com/Photos/header-icons-logos/question-mark.png" width="21" height="21"></image>
-			</svg>
-			<span>Ask Cindy</span>
-		</a>
-		<a href="//leerburg.com/newsletter.htm?nav=desktopTabs&amp;content=newsletter_05022017" id="tab-newsletter" class="theme-gradient"><span>Subscribe</span></a>
-		<a href="//leerburg.com/catalog.htm?nav=desktopTabs&amp;content=catalog_11282018" id="tab-catalog" class="black-bg"><span>Free Catalog</span></a>
-	</div>
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/amishleashes.htm">Amish Leather Leashes</a></li>
+					<li><a href="//leerburg.com/diy-leash.php">DIY Leather Leash</a></li>
+					<li><a href="//leerburg.com/allbiothaneleashes.php">BioThane Leashes</a></li>
+					<li><a href="//leerburg.com/longlines.htm">Long Lines</a></li>
+					<li><a href="//leerburg.com/shortleash.htm">Short Leashes</a></li>
+					<li><a href="//leerburg.com/lcone.htm">Leash Collar Combos</a></li>
+					<li><a href="//leerburg.com/lcone.htm">Martingale Leads</a></li>
+					<li><a href="//leerburg.com/lightleash.htm">Light Weight Leash</a></li>
+					<li><a href="//leerburg.com/prongleashes.htm">Prong Collar Leashes</a></li>
+					<li><a href="//leerburg.com/specialleashes.htm">Specialty Leashes</a></li>
+					<li><a href="//leerburg.com/l-accessories.htm">Leash Accessories</a></li>
+				</ul>
+			</div>
+			<!-- end Column 1 -->
+		</div>
+		<!-- ends leashes -->
 
-	<!-- ====================================
-	begin wrappers for the pages' content -->	
+		<!-- Collars -->
+		<div class="dropdown-category-sections" id="collars-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/collars-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/collars.htm" class="sub-category-title">Collars</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/leathercollars.htm">Amish Leather</a></li>
+					<li><a href="//leerburg.com/diy-collar.php">DIY Leather Collar</a></li>
+					<li><a href="//leerburg.com/flatcollars.htm">Flat Collars</a></li>
+					<li><a href="//leerburg.com/prongcollars.htm">Prong Collars</a></li>
+					<li><a href="//leerburg.com/keepercollars.php">Keeper Collars</a></li>
+					<li><a href="//leerburg.com/slipcollars.htm">Slip Collars</a></li>
+					<li><a href="//leerburg.com/fur-saver-collars.htm">Fur Savers</a></li>
+					<li><a href="//leerburg.com/lcone.htm">Leash Collar Combos</a></li>
+					<li><a href="//leerburg.com/specialcollars.htm">Specialty Collars</a></li>
+					<li><a href="//leerburg.com/electric.htm">Electric Collars</a></li>
+					<li><a href="//leerburg.com/c-accessories.htm">Collar Accessories</a></li>
+				</ul>
+			</div>
+			<!-- end Column 1 -->
+		</div>
+		<!-- End Collars -->
+
+		<!-- Harnesses and Vests -->
+		<div class="dropdown-category-sections" id="HarnAndVests-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/hnv-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/harnessesvests.htm" class="sub-category-title">Harnesses &amp; Vests</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/amishharnesses.htm">Amish Leather Harnesses</a></li>
+					<li><a href="//leerburg.com/servicevests.htm">Service Dog Vests</a></li>
+					<li><a href="//leerburg.com/safety-hnv.htm">Safety Vests &amp; Harnesses</a></li>
+					<li><a href="//leerburg.com/padded-harnesses.htm">Padded &amp; Nylon Harnesses</a></li>
+					<li><a href="//leerburg.com/tactical/harnessesvests.htm">Police K9 Harnesses &amp; Vests</a></li>
+					<li><a href="//leerburg.com/tactical/molle.htm">MOLLE Harnesses &amp; Vests</a></li>
+					<li><a href="//leerburg.com/tracking-harnesses.htm">Tracking Harnesses</a></li>
+					<li><a href="//leerburg.com/searchandrescue-harnesses.htm">Search &amp; Rescue Gear</a></li>
+					<li><a href="//leerburg.com/protect-harnesses.htm">Protection Sport Harnesses</a></li>
+					<li><a href="//leerburg.com/dogvests.htm">Temperature Control Vests</a></li>
+					<li><a href="//leerburg.com/backpack-exercise.htm">Backpack &amp; Exercise Vests</a></li>
+					<li><a href="//leerburg.com/trainersvests.htm">Trainer Vests</a></li>
+					<li><a href="//leerburg.com/harnessvestacessories.htm">Harness &amp; Vest Accessories</a></li>
+				</ul>
+			</div>
+			<!-- end Column 1 -->
+		</div>
+		<!-- End Harnesses and Vests -->
+		
+		<!-- E-Collars -->
+		<div class="dropdown-category-sections" id="e-collars-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/ecollars-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/electric.htm" class="sub-category-title">Electric Collars</a>
+			</div>	
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/electric_dogtra.htm">Dogtra</a></li>
+					<li><a href="//leerburg.com/electric_garmin.htm">Garmin</a></li>				
+					<li><a href="//leerburg.com/electric_educator.htm">Educator</a></li>														
+					<li><a href="//leerburg.com/electric_smdog.htm">Small Dog E-collars</a></li>
+					<li><a href="//leerburg.com/barkcollars.htm">Bark Collars</a></li>
+					<li><a href="//leerburg.com/ingroundfence.htm">Electric Fencing</a></li>
+					<li><a href="//leerburg.com/e-col-accessories.htm">Electric Collar Accessories</a></li>
+				</ul>
+			</div>
+			<!-- end Column 1 -->
+		</div>
+		<!-- Ends E-Collars -->
 	
-	<div id="container">	
+		<!-- Muzzles -->
+		<div class="dropdown-category-sections" id="muzzles-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/muzzles-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/muzzle.htm" class="sub-category-title">Muzzles</a>
+			</div>	
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/plasticmuzzles.htm">Jafco Plastic Muzzles</a></li>
+					<li><a href="//leerburg.com/wirebasketmuzzles.htm">Wire Basket Muzzles</a></li>
+					<li><a href="//leerburg.com/clothmuzzle.htm">Cloth Muzzles</a></li>
+					<li><a href="//leerburg.com/1395.htm">Baskerville Muzzles</a></li>
+					<li><a href="//leerburg.com/leathermuzzles.htm">Leather Muzzles</a></li>
+					<li><a href="//leerburg.com/syntheticmuzzles.htm">Synthetic Muzzles</a></li>
+				</ul>
+			</div>
+			<!-- end Column 1 -->
+		</div>
+		<!-- Ends Muzzles -->
+		
+		<!-- Toys -->
+		<div class="dropdown-category-sections" id="toys-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/toys-30.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/toy.htm" class="sub-category-title">Toys</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/puppytug.htm">Tugs</a></li>
+					<li><a href="//leerburg.com/balls.htm">Balls</a></li>
+					<li><a href="//leerburg.com/sticks.htm">Sticks &amp; Bones</a></li>
+					<li><a href="//leerburg.com/ropetoys.htm">Rope Toys</a></li>
+					<li><a href="//leerburg.com/flyingdiscs.htm">Flying Discs</a></li>
+					<li><a href="//leerburg.com/tosstoys.htm">Toss &amp; Retrieve</a></li>
+					<li><a href="//leerburg.com/treattoys.htm">Treat Toys</a></li>
+					<li><a href="//leerburg.com/plushtoys.htm">Plush &amp; Soft Toys</a></li>
+					<li><a href="//leerburg.com/fleecetugs.htm">Fleece Tugs</a></li>
+					<li><a href="//leerburg.com/lighttoys.htm">Lighted &amp; Glowing Toys</a></li>
+				</ul>
+			</div>
+			<!-- end Column 1 -->
+			
+			<!-- Column 2 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/launchertoys.htm">Launcher Toys</a></li>
+					<li><a href="//leerburg.com/top-matic.htm">Top-Matic</a></li>
+					<li><a href="//leerburg.com/zogoflex.htm">Zogoflex</a></li>
+					<li><a href="//leerburg.com/goughnutstoys.htm">GoughNuts</a></li>
+					<li><a href="//leerburg.com/orbeetoys.htm">Orbee</a></li>
+					<li><a href="//leerburg.com/alldumbbells.htm">Dumbbells</a></li>
+					<li><a href="//leerburg.com/bitebars.htm">Bite Wedges</a></li>
+					<li><a href="//leerburg.com/category-chewtoys.htm">Chew Toys</a></li>
+					<li><a href="//leerburg.com/durability.htm">Guaranteed Durability</a></li>
+					<li><a href="//leerburg.com/puppytoy.htm">Puppy Toys</a></li>
+				</ul>
+			</div>
+			<!-- end Column 2 -->
+		</div>
+		<!-- Ends Toys -->
+		
+		<!-- In the Home -->
+		<div class="dropdown-category-sections" id="houseSupplies-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/inthehome-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/inthehouse.htm" class="sub-category-title">In The Home</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/dogbeds.htm">Beds &amp; Mats</a></li>
+					<li><a href="//leerburg.com/crate.htm">Crates</a></li>
+					<li><a href="//leerburg.com/doggates.htm">Gates &amp; Pens</a></li>
+					<li><a href="//leerburg.com/dogdishes.htm">Dishes &amp; Bowls</a></li>
+					<li><a href="//leerburg.com/grooming.htm">Grooming</a></li>
+					<li><a href="//leerburg.com/clean-up.htm">Clean Up</a></li>
+					<li><a href="//leerburg.com/ingroundfence.htm">Electric Fencing</a></li>
+				</ul>
+			</div>
+			<!-- end Column 1 -->
+		</div>
+		<!-- ends In the House -->
+
+		<!-- First Aid and Travel -->
+		<div class="dropdown-category-sections" id="first-travel-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/firstntravel-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/firstaid-travel.htm" class="sub-category-title">First Aid &amp; Travel</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">         
+					<li><a href="//leerburg.com/firstaid.htm">First Aid</a></li>
+					<li><a href="//leerburg.com/crate.htm">Crates</a></li>
+					<li><a href="//leerburg.com/travelaccessories.htm">Travel Accessories</a></li>
+					<li><a href="//leerburg.com/temperature.htm">Shade &amp; Temperature Control</a></li>
+					<li><a href="//leerburg.com/nighttime.htm">Night Time Safety &amp; Fun</a></li>
+				</ul>
+			</div> 
+		<!-- end Column 1 -->
+		</div> 
+		<!-- ends First Aid and Travel -->   
+
+		<!-- Puppies -->
+		<div class="dropdown-category-sections" id="puppies-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/puppy-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/newpupequip.htm" class="sub-category-title">Puppy Supplies</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/puppycollars.htm">Leashes, Collars, &amp; Harnesses</a></li>
+					<li><a href="//leerburg.com/puppypens.htm">Puppy Gates &amp; Pens</a></li>
+					<li><a href="//leerburg.com/puppytoy.htm">Puppy Toys</a></li>
+					<li><a href="//leerburg.com/whelpingequip.htm">Whelping Equipment</a></li>
+					<li><a href="//leerburg.com/aiequip.htm">Artificial Insemination Equipment</a></li>
+				</ul>
+			</div> 
+			<!-- end Column 1 -->
+		</div> 
+		<!-- ends Puppies -->
+
+		<!-- Obedience Training -->
+		<div class="dropdown-category-sections" id="obedTraining-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/obed-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/obedienceequip.htm" class="sub-category-title">Obedience Training</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/baitbag.htm">Bait Bags</a></li>
+					<li><a href="//leerburg.com/clickertraining.htm">Clicker Training</a></li>
+					<li><a href="//leerburg.com/bellswhistles.htm">Bells &amp; Whistles</a></li>
+					<li><a href="//leerburg.com/alldumbbells.htm">Dumbbells</a></li>
+					<li><a href="//leerburg.com/trainersvests.htm">Trainer Vests</a></li>
+				</ul>
+			</div> 
+			<!-- end Column 1 -->
+		</div> 
+		<!-- ends Obedience Training -->
+
+		<!-- Protect Sports -->
+		<div class="dropdown-category-sections" id="protectSports-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/protectsports-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/bitetrainequip.htm" class="sub-category-title">Protection Sports</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/bitesuits.htm">Bite Suits</a></li>
+					<li><a href="//leerburg.com/scratchpants.php">Scratch Pants</a></li>
+					<li><a href="//leerburg.com/bitesleeves.htm">Arm Sleeves</a></li>
+					<li><a href="//leerburg.com/legsleeve.htm">Leg Sleeves</a></li>
+					<li><a href="//leerburg.com/bitebars.htm">Bite Wedges</a></li>
+					<li><a href="//leerburg.com/puppytug.htm">Tugs</a></li>
+					<li><a href="//leerburg.com/whips.htm">Whips &amp; Sticks</a></li>
+					<li><a href="//leerburg.com/harnesses.htm">Dog Harnesses</a></li>
+				</ul>
+			</div> 
+			<!-- end Column 1 -->
+		</div>  
+		<!-- ends Protect Sports -->
+
+		<!-- Police K9 -->
+		<div class="dropdown-category-sections" id="policeK9-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/police-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/tactical/index.htm" class="sub-category-title">Police K9</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/tactical/molle.htm">MOLLE Gear</a></li>
+					<li><a href="//leerburg.com/tactical/harnessesvests.htm">Harnesses &amp; Vests</a></li>
+					<li><a href="//leerburg.com/tactical/leashes.htm">Police Leashes</a></li>
+					<li><a href="//leerburg.com/tactical/collars.htm">Police K9 Collars</a></li>
+					<li><a href="//leerburg.com/tactical/muzzles.htm">Muzzles</a></li>
+					<li><a href="//leerburg.com/tactical/remotecollars.htm">E-Collars</a></li>
+					<li><a href="//leerburg.com/tactical/tracking.htm">Tracking Gear</a></li>
+					<li><a href="//leerburg.com/tactical/detectordog.htm">Detector Dog Gear</a></li>
+					<li><a href="//leerburg.com/tactical/medical.htm">First Aid</a></li>
+					<li><a href="//leerburg.com/tactical/biteequip.htm">Protection Equipment</a></li>
+				</ul>
+			</div> 
+			<!-- end Column 1 -->
+		</div> 
+		<!-- ends Police K9 -->
+
+		<!-- Healthcare -->
+		<div class="dropdown-category-sections" id="healthcare-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/healthcare-30.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/healthnutrition.htm" class="sub-category-title">Healthcare</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/digest.htm">Digestive Health</a></li>
+					<li><a href="//leerburg.com/fleas.htm">Flea, Fly &amp; Tick Prevention</a></li>
+					<li><a href="//leerburg.com/dentalcare.php">Dental Care</a></li>
+					<li><a href="//leerburg.com/immune.htm">Immune System Support</a></li>
+					<li><a href="//leerburg.com/joint.htm">Joint Pain &amp; Arthritic Relief</a></li>
+					<li><a href="//leerburg.com/panocare.htm">Pano Care</a></li>
+					<li><a href="//leerburg.com/parvocare.htm">Parvovirus Care</a></li>
+					<li><a href="//leerburg.com/skin.htm">Skin &amp; Coat</a></li>
+					<li><a href="//leerburg.com/stress.htm">Stress Relief for Dogs</a></li>
+					<li><a href="//leerburg.com/firstaid.htm">First Aid</a></li>
+					<li><a href="//leerburg.com/workingandperf.htm">Performance Supplements</a></li>									
+				</ul>
+			</div> 
+			<!-- end Column 1 -->
+
+			<!-- Column 2 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/herbsmith.htm">Herbsmith</a></li>
+					<li><a href="//leerburg.com/koda.htm">Koda for Dogs</a></li>
+					<li><a href="//leerburg.com/legendary-canine.php">Legendary Canine</a></li>									
+				</ul>
+			</div> 
+			<!-- end Column 2 -->
+		</div> 
+		<!-- ends Healthcare -->
+
+		<!-- Dog Food -->
+		<div class="dropdown-category-sections" id="dogFood-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/dogfood-20.jpg">
+			</div>
+			
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/dogfood.htm" class="sub-category-title">All-Natural Dog Food</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					
+					<li><a href="//leerburg.com/kibble.php">Kibble</a></li>
+					<li><a href="//leerburg.com/meatrolls.htm">Meat Rolls</a></li>
+
+					<li><a href="//leerburg.com/rawfood.php">Raw Food</a></li>
+					<li><a href="//leerburg.com/grainfreefood.php">Grain Free Food</a></li>
+					<li><a href="//leerburg.com/treat.htm">Treats</a></li>
+					<li><a href="//leerburg.com/dogdishes.htm">Dishes &amp; Bowls</a></li>
+				</ul>
+			</div> 
+			<!-- end Column 1 -->
+		</div> 
+		<!-- ends Dog Food -->
+
+		<!-- Treats -->
+		<div class="dropdown-category-sections" id="treats-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/treats-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/treat.htm" class="sub-category-title">Treats</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/trainingtreat.htm">Training Treats</a></li>
+					<li><a href="//leerburg.com/meatrolls.htm">Meat Rolls</a></li>
+					<li><a href="//leerburg.com/dentalchews.php">Dental Chews</a></li>
+					<li><a href="//leerburg.com/grainfreetreats.php">Grain Free Treats</a></li>
+					<li><a href="//leerburg.com/treattoys.htm">Treat Toys</a></li>
+					<li><a href="//leerburg.com/baitbag.htm">Bait Bags</a></li>
+					
+				</ul>
+			</div> 
+			<!-- end Column 1 -->
+		</div> 
+		<!-- ends Treats -->
+
+		<!-- Grooming --> 
+		<div class="dropdown-category-sections" id="grooming-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/grooming-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/grooming.htm" class="sub-category-title">Grooming</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/brushes.htm">Brushes &amp; Rakes</a></li>
+					<li><a href="//leerburg.com/shampoo.htm">Shampoo</a></li>
+					<li><a href="//leerburg.com/kin-kind.php">kin + kind</a></li>
+					<li><a href="//leerburg.com/clippers.htm">Nail Clippers</a></li>
+					<li><a href="//leerburg.com/dryers.htm">Dryers</a></li>
+				</ul>
+			</div> 
+			<!-- end Column 1 -->
+		</div> 
+		<!-- ends Grooming --> 
+
+		<!-- Apparel -->
+		<div class="dropdown-category-sections" id="apparel-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/apparel-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/apparel.htm" class="sub-category-title">Apparel</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/trainersvests.htm">Trainer Vests</a></li>
+					<li><a href="//leerburg.com/baitbag.htm">Bait Bags</a></li>
+					<li><a href="//leerburg.com/tshirts.htm">T-Shirts</a></li>
+					<li><a href="//leerburg.com/longsleeves.htm">Long Sleeve Tops</a></li><li><a href="//leerburg.com/headgear.php">Headgear</a></li>
+				</ul>
+			</div> 
+			<!-- end Column 1 -->
+		</div> 
+		<!-- ends Apparel -->
+
+		<!-- Dog Sports -->
+		<div class="dropdown-category-sections" id="dogSports-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/dogsports-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/sportdog.htm" class="sub-category-title">Dog Sports</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/dockdiving.htm">Dock Diving</a></li>
+					<li><a href="//leerburg.com/noseworkequip.htm">Nosework/Scent Work</a></li>
+					<li><a href="//leerburg.com/flyball.php">Flyball</a></li>
+					<li><a href="//leerburg.com/blinds.htm">Blinds, Jumps &amp; Hurdles</a></li>
+					<li><a href="//leerburg.com/alldumbbells.htm">Dumbbells</a></li>
+					<li><a href="//leerburg.com/trackequip.htm">Tracking Gear</a></li>
+					<li><a href="//leerburg.com/fitness.php">Fitness and Rehab</a></li>
+				</ul>
+			</div> 
+		<!-- end Column 1 -->
+		</div> 
+		<!-- ends Dog Sports -->
+
+		<!-- Books -->
+		<div class="dropdown-category-sections" id="books-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/books-20.jpg">
+			</div>
+
+			<!-- ALL label/link -->
+			<div class="category-title">
+				<a href="//leerburg.com/books.htm" class="sub-category-title">Books</a>
+			</div>
+
+			<!-- Column 1 -->
+			<div class="section-column">
+				<ul class="sub-categories">
+					<li><a href="//leerburg.com/agilitybooks.htm">Agility</a></li>
+					<li><a href="//leerburg.com/behaviorbooks.htm">Training Behavior</a></li>
+					<li><a href="//leerburg.com/clickerbooks.htm">Clicker Training</a></li>
+					<li><a href="//leerburg.com/electronicbooks.htm">eBooks</a></li>
+					<li><a href="//leerburg.com/dogbusiness.htm">Dog Business</a></li>
+					<li><a href="//leerburg.com/noseworkbooks.htm">Scent Training</a></li>
+					<li><a href="//leerburg.com/nutritionbooks.htm">Nutrition &amp; Health</a></li>
+					<li><a href="//leerburg.com/protbooks.htm">Protection Dog Training</a></li>
+					<li><a href="//leerburg.com/workingbooks.htm">Police K9</a></li>
+					<li><a href="//leerburg.com/srbooks.htm">Search &amp; Rescue</a></li>
+					<li><a href="//leerburg.com/posteritems.htm">Posters</a></li>
+				</ul>
+			</div> 
+			<!-- end Column 1 -->
+		</div> 
+		<!-- ends Books -->	
+
+		<div class="dropdown-category-sections" id="events-div">
+			<div class="dept-img">
+				<img src="//leerburg.com/photos/dropdown-navigation-imgs/in-person.jpg">
+			</div>
+			<ul class="sub-categories">
+				<!-- big label/link --><li class="non-link-name">In-Person Training</li>
+				<li><a href="//leerburg.com/road-to-leerburg.php">Michael Ellis On the Road</a></li>
+				<li><a href="//leerburg.com/privatelessons.htm#cindy">Lessons with Cindy Rhodes</a></li>
+				<li><a href="//leerburg.com/privatelessons.htm#sharon">Lessons with Sharon Wuollet</a></li>
+			</ul>
+					</div>  
+		
+		
+	</div>
+	<!-- ends panels version -->
+</div>
+<!-- ends hidden dropdown -->
+	<!-- -->
+<!-- vod dropdown -->
+<div id="vod-dropdown" class="main-dropdown">
+	
+	<!-- vod account links & prompt -->
+	<div id="vod-account">	
+		<div class="dropdown-section-heading">my account</div>
+
+		<!-- vod account links -->
+		<ul>
+			<li><a href="//leerburg.com/flix/boughtvideos.php">My Library</a></li>
+			<li><a href="//leerburg.com/flix/favoritevideos.php">My Favorites</a></li>
+			<li><a href="//leerburg.com/flix/recentlyviewed.php">My Recently Viewed</a></li>
+			<!--<li><a href="//leerburg.com/">My Notes (new!)</a></li>-->
+		</ul>
+
+		<!-- sign up prompt -->
+				<div id="signup-nudge">Don't have an account? <a href="//leerburg.com/cart/register.php">Sign up</a> and get access to the features listed above and more!</div>
+			</div>
+
+	<!-- main vod section -->
+	<div id="vod-main">
+
+		<!-- title area -->
+		<div id="vod-title-area" class="dropdown-title-area">
+			
+			<!-- title -->
+			<div class="dropdown-title">Leerburg Video On Demand (VOD)</div>
+
+			<!-- help links -->
+			<ul class="dropdown-quick-links">
+				<!-- vod home -->
+				<li><a href="//leerburg.com/flix/">VOD Home</a></li>
+				<!-- faq -->
+				<li><a href="//leerburg.com/flix/faq.php">FAQ</a></li>
+				<!-- need help? -->
+				<li><a href="//leerburg.com/newcontact.php?cat=Streaming">Need help?</a></li>
+			</ul>
+		</div>
+
+		<!-- content -->
+		<div id="vod-content">
+			<!-- training categories -->
+			<div id="video-categories">
+				<div class="dropdown-section-heading">dog training videos by topic</div>
+				<div id="categories">
+					<!-- department labels -->
+					<ul id="vod-departments">
+						<li id="obed"><button type="button" class="button-reset open">Obedience</button></li>
+						<li id="behave"><button type="button" class="button-reset">Behavioral Problems</button></li>
+						<li id="sports"><button type="button" class="button-reset">Dog Sports &amp; Events</button></li>
+						<li id="social"><button type="button" class="button-reset">Relationship Building</button></li>
+						<li id="raising"><button type="button" class="button-reset">Raising Dogs &amp; Puppies</button></li>
+						<li id="working"><button type="button" class="button-reset">Working Dogs</button></li>
+					</ul>
+
+					<!-- hidden category divs -->
+					<div id="vod-dept-obed" class="video-department-list open">
+						<ul>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=1">Basic Obedience</a></li>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=2">Advanced Obedience</a></li>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=5">Reward Based/Marker Training</a></li>
+						</ul>
+					</div>
+					<div id="vod-dept-behave" class="video-department-list">
+						<ul>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=11">Aggression</a></li>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=6">Corrections</a></li>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=3">Management</a></li>
+
+							<!--
+							saved for example later
+							<li class="viewall"><a href="//leerburg.com">view all*</a></li>-->
+						</ul>
+					</div>
+					<div id="vod-dept-sports" class="video-department-list">
+						<ul>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=19">Dog Sports</a></li>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=39">Leerburg Classics</a></li>
+						</ul>
+					</div>
+					<div id="vod-dept-social" class="video-department-list">
+						<ul>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=4">Socialization</a></li>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=38">Relationship Games</a></li>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=26">Puppies</a></li>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=28">Play</a></li>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=20">Rescue Dogs</a></li>
+						</ul>
+					</div>
+					<div id="vod-dept-raising" class="video-department-list">
+						<ul>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=13">Healthcare &amp; Feeding</a></li>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=27">Breeding</a></li>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=14">Grooming</a></li>
+						</ul>
+					</div>
+					<div id="vod-dept-working" class="video-department-list">
+						<ul>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=18">Police &amp; Military K9</a></li>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=9">Protection Work</a></li>
+							<li><a href="//leerburg.com/flix/category.php?categoryid=21">Service Dogs</a></li>
+						</ul>
+					</div>	
+				</div>
+			</div>
+			
+			<!-- our trainers -->
+			<div id="video-trainers" class="vod-mini-section">
+				<div class="dropdown-section-heading">by trainer</div>
+				<ul>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=40">Ed Frawley</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=25">Cindy Rhodes</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=22">Michael Ellis</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=41">Tyler Muto</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=23">Mark Keating</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=24">Forrest Micke</a></li>
+				</ul>
+			</div>
+
+			<!-- newest releases -->
+			<div class="vod-mini-section">
+				<div class="dropdown-section-heading">newest releases</div>
+				<ul>
+					<li><a href="//leerburg.com/flix/player.php/1644/">Foundation of Sport Detection with Ericka Duggan</a></li>
+					<li><a href="//leerburg.com/flix/player.php/1643/">Problem Solving in the Foundation of Sport Detection</a></li>
+					<li><a href="//leerburg.com/flix/player.php/1617/">Intermediate Dog Obedience with Ed Frawley</a></li>
+				</ul>
+
+				<a href="//leerburg.com/flix/newestvideos.php" class="vod-view-all">
+					View all new streams
+					<span class="inlineIcon"><svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-arrow-box"></use></svg></span>
+				</a>
+
+			</div>
+		</div>
+	</div>
+</div>	
+	<!-- -->
+<!-- lou dropdown -->
+<div id="lou-dropdown" class="main-dropdown">
+
+	<!-- free course -->
+	<div class="dropdown-free-course">
+		<img src="//leerburg.com/Photos/header/lou/free-course.jpg" alt="">
+		
+		<div class="about-free-course">
+			<!-- title -->
+			<div class="terminating-line-heading">
+				<div class="heading-text">Free Course</div>
+				<div class="line"><div class="content"></div></div>
+			</div>
+			<!-- name/link -->
+			<a href="//university.leerburg.com/Catalog/viewCourse/cid/14">
+				How We Manage Dogs in Our Home
+				<span class="inlineIcon"><svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-arrow-box"></use></svg></span>
+			</a>
+			<!-- desciption -->
+			<p>Get access to great lessons on how to manage a multi-dog home, participate in discussions, and earn a certificate of completion <strong>RISK FREE</strong>.</p>
+		</div>
+	</div>
+
+	<!-- main content -->
+	<div id="lou-main">
+
+		<!-- title area -->
+		<div id="lou-title-area" class="dropdown-title-area">
+			
+			<!-- title -->
+			<div class="dropdown-title">Leerburg Online University (LOU)</div>
+
+			<!-- help links -->
+			<ul class="dropdown-quick-links">
+				<!-- lou home -->
+				<li><a href="//university.leerburg.com">LOU Home</a></li>
+				<!-- faq -->
+				<li><a href="//university.leerburg.com/Pages/faq">FAQ</a></li>
+			</ul>
+		</div>
+
+		<!-- columns -->
+		<div class="lou-column" id="courses">
+			<div class="dropdown-section-heading">newest courses</div>
+
+			<div class="lou-course-list">
+							<div class="lou-course">
+					<!--<div class="test-img"></div>-->
+					 <img src="//university.leerburg.com/web/img/course/94.jpg" alt=""> 
+					<!--<img src="//leerburg.com/Photos/header/lou/testing/course.jpg" alt="//university.leerburg.com/web/img/course/94.jpg">-->
+					<a href="//university.leerburg.com/Catalog/viewCourse/cid/94">Remote Collar Training for the Pet Owner</a>
+				</div>
+							<div class="lou-course">
+					<!--<div class="test-img"></div>-->
+					 <img src="//university.leerburg.com/web/img/course/89.jpg" alt=""> 
+					<!--<img src="//leerburg.com/Photos/header/lou/testing/course.jpg" alt="//university.leerburg.com/web/img/course/89.jpg">-->
+					<a href="//university.leerburg.com/Catalog/viewCourse/cid/89">Leash Skills</a>
+				</div>
+							<div class="lou-course">
+					<!--<div class="test-img"></div>-->
+					 <img src="//university.leerburg.com/web/img/course/88.jpg" alt=""> 
+					<!--<img src="//leerburg.com/Photos/header/lou/testing/course.jpg" alt="//university.leerburg.com/web/img/course/88.jpg">-->
+					<a href="//university.leerburg.com/Catalog/viewCourse/cid/88">The Power of Playing Tug with Your Dog</a>
+				</div>
+						</div>
+
+			<a href="//university.leerburg.com/Catalog/courseList" class="lou-all-link">
+				View course catalog
+				<span class="inlineIcon"><svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-arrow-box"></use></svg></span>
+			</a>
+		</div>
+
+		<div class="lou-column" id="trainers">
+			<div class="dropdown-section-heading">our instructors</div>
+
+			<div class="lou-trainer-list">
+							<div class="lou-trainer">
+					<!-- <div class="test-img"></div> -->
+					 <img src="//university.leerburg.com/web/img/instructors/avatars/ed-frawley.png" alt=""> 
+					<!--<img src="//leerburg.com/Photos/header/lou/testing/avatar.png" alt="//university.leerburg.com/web/img/instructors/avatars/ed-frawley.png">-->
+					<a href="//university.leerburg.com/Instructor/view/instructorid/54">Ed Frawley</a>
+				</div>
+							<div class="lou-trainer">
+					<!-- <div class="test-img"></div> -->
+					 <img src="//university.leerburg.com/web/img/instructors/avatars/michael-ellis.png" alt=""> 
+					<!--<img src="//leerburg.com/Photos/header/lou/testing/avatar.png" alt="//university.leerburg.com/web/img/instructors/avatars/michael-ellis.png">-->
+					<a href="//university.leerburg.com/Instructor/view/instructorid/58">Michael Ellis</a>
+				</div>
+							<div class="lou-trainer">
+					<!-- <div class="test-img"></div> -->
+					 <img src="//university.leerburg.com/web/img/instructors/avatars/jj-belcher.png" alt=""> 
+					<!--<img src="//leerburg.com/Photos/header/lou/testing/avatar.png" alt="//university.leerburg.com/web/img/instructors/avatars/jj-belcher.png">-->
+					<a href="//university.leerburg.com/Instructor/view/instructorid/6914">JJ Belcher</a>
+				</div>
+							<div class="lou-trainer">
+					<!-- <div class="test-img"></div> -->
+					 <img src="//university.leerburg.com/web/img/instructors/avatars/tyler-muto.png" alt=""> 
+					<!--<img src="//leerburg.com/Photos/header/lou/testing/avatar.png" alt="//university.leerburg.com/web/img/instructors/avatars/tyler-muto.png">-->
+					<a href="//university.leerburg.com/Instructor/view/instructorid/3637">Tyler Muto</a>
+				</div>
+						</div>
+
+			<a href="//university.leerburg.com/Instructor/viewall" class="lou-all-link">
+				View all instructors
+				<span class="inlineIcon"><svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-arrow-box"></use></svg></span>
+			</a>			
+		</div>
+
+		<div class="lou-column" id="benefits">
+			<div class="dropdown-section-heading">key benefits</div>
+
+			<div class="lou-benefits-list">
+							<div class="lou-benefit">
+					<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-upload"></use></svg>
+					<p>Upload videos of your training</p>
+				</div>
+							<div class="lou-benefit">
+					<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-eReader"></use></svg>
+					<p>Mobile-friendly learning site</p>
+				</div>
+							<div class="lou-benefit">
+					<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-videoChat"></use></svg>
+					<p>Class live chats</p>
+				</div>
+							<div class="lou-benefit">
+					<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-users"></use></svg>
+					<p>Class discus­sion boards</p>
+				</div>
+							<div class="lou-benefit">
+					<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-ribbon"></use></svg>
+					<p>Earn Certifi­cates of Comple­tion</p>
+				</div>
+						</div>
+		</div>
+
+	</div>
+
+</div>	</div>
+
+
+<!-- -->
+<!-- mobile header sidebar -->
+<div id="header-sidebar">
+	<!-- sidebar overlay -->
+	<div id="sidebar-overlay"></div>
+
+	<!-- sidebar content -->
+	<div id="sidebar-content">
+		<!-- logo, close button (fix to top) -->
+		<div id="sidebar-heading">
+			<a href="//leerburg.com/" id="sidebar-logo" alt=""><svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-wordmark"></use></svg></a>
+
+			<!-- close mobile menu button -->
+			<button type="button" id="close-menu-button" class="button-reset" title="Close navigation">
+				<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-exMark"></use></svg>
+			</button>
+		</div>
+
+		<!-- content (scrollable) -->
+		<div id="main-content">
+
+			<!-- main section list -->
+			<div id="branch_start" class="sidebar-branches">
+				
+				<div class="non-scrollable">
+					<ul class="branch-triggers">
+						<!-- product section tab -->
+						<li class="down" destination="products" direction="down">
+							products
+							<svg class="fill-svg rotate90"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+						</li>
+						<!-- vod section tab -->
+						<li class="down" destination="vod" direction="down">
+							video on demand
+							<svg class="fill-svg rotate90"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+						</li>
+						<!-- lou section tab -->
+						<li class="down" destination="lou" direction="down">
+							online university
+							<svg class="fill-svg rotate90"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+						</li>
+					</ul>
+				</div>
+
+				<div class="scrollable">
+					<!-- secondary navigation -->
+					<ul class="links">
+						<li><a href="//leerburg.com/">home</a></li>
+						<li><a href="//leerburg.com/blog/">blog</a></li>
+						<li><a href="//leerburg.com/training-articles.htm">articles</a></li>
+						<li><a href="//leerburg.com/qa/index.php">q &amp; a</a></li>
+						<li><a href="//leerburg.com/category-events.htm">in-person training</a></li>
+						<li><a href="//leerburg.com/catalog.htm">free catalog</a></li>
+						<li><a href="//leerburg.com/newcontact.php?cat=QA">ask cindy</a></li>
+					</ul>
+				
+					<div class="overflow-indicator-bottom"></div>
+				</div>
+
+			</div>
+
+			<div id="branch_products" class="sidebar-branches">
+	
+	<div class="non-scrollable">
+		<ul class="branch-triggers">
+			<li class="return" destination="start" direction="up">
+				<svg class="fill-svg rotate270"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				back to main menu
+			</li>
+		</ul>
+		<div class="branch-title">Products</div>
+	</div>
+
+	<div class="scrollable">
+		
+		<!-- the content of this branch -->
+				<ul class="links">
+			<li><a href="//leerburg.com/new-and-sales.htm">New &amp; Sales</a></li>
+			<li><a href="//leerburg.com/dvd.htm">DVDs &amp; CDs</a></li>
+			<li><a href="//leerburg.com/leashes.htm">Leashes</a></li>
+			<li><a href="//leerburg.com/collars.htm">Collars</a></li>
+			<li><a href="//leerburg.com/harnessesvests.htm">Harnesses &amp; Vests</a></li>
+			<li><a href="//leerburg.com/electric.htm">Electric Collars</a></li>
+			<li><a href="//leerburg.com/muzzle.htm">Muzzles</a></li>
+			<li><a href="//leerburg.com/toy.htm">Toys</a></li>
+			<li><a href="//leerburg.com/inthehouse.htm">In The Home</a></li>
+			<li><a href="//leerburg.com/firstaid-travel.htm">First Aid &amp; Travel</a></li>
+			<li><a href="//leerburg.com/newpupequip.htm">Puppy Supplies</a></li>
+			<li><a href="//leerburg.com/obedienceequip.htm">Obedience Training</a></li>
+			<li><a href="//leerburg.com/bitetrainequip.htm">Protection Sports</a></li>
+			<li><a href="//leerburg.com/tactical/index.htm">Police K9</a></li>
+			<li><a href="//leerburg.com/healthnutrition.htm">Healthcare</a></li>
+			<li><a href="//leerburg.com/dogfood.htm">All-Natural Dog Food</a></li>
+			<li><a href="//leerburg.com/treat.htm">Treats</a></li>
+			<li><a href="//leerburg.com/grooming.htm">Grooming</a></li>
+			<li><a href="//leerburg.com/apparel.htm">Apparel</a></li>
+			<li><a href="//leerburg.com/sportdog.htm">Dog Sports</a></li>
+			<li><a href="//leerburg.com/books.htm">Books</a></li>
+			<li><a href="//leerburg.com/category-events.htm">In-Person Training</a></li>
+		</ul>
+
+				<!-- end branch content -->
+		
+		<div class="overflow-indicator-bottom"></div>
+	</div>
+</div>
+
+<!-- mini branches -->
+<!-- dvds -->
+<div id="branch_products_dvds" class="sidebar-branches">
+	
+	<div class="non-scrollable">
+		<ul class="branch-triggers">
+			<li class="return" destination="products" direction="up">
+				<svg class="fill-svg rotate270"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				back to products
+			</li>
+		</ul>
+		<div class="branch-title">Training DVDs</div>
+	</div>
+
+	<div class="scrollable">
+		
+		<ul class="links">
+			<li><a href="">View All DVDs</a></li>
+			<li><a href="">New Leerburg DVDs</a></li>
+			<li><a href="">DVD Sets</a></li>
+		</ul>
+
+		<ul class="branch-accordians">
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Browse by Topic</span>
+					<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links default-open">
+					<li><a href="">Obedience Training</a></li>
+					<li><a href="">Marker Training</a></li>
+					<li><a href="">Heeling</a></li>
+					<li><a href="">Electric Collar</a></li>
+					<li><a href="">Dominance &amp; Aggression</a></li>
+					<li><a href="">Management &amp; Socialization</a></li>
+					<li><a href="">Puppy Training</a></li>
+				</ul>
+			</li>
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Browse by Dog Sport</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Scent Work</a></li>
+					<li><a href="">Dock Diving</a></li>
+					<li><a href="">Agility</a></li>
+					<li><a href="">Mondio/Schutzhund</a></li>
+				</ul>
+			</li>
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Browse by Working Dog</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Protection</a></li>
+					<li><a href="">Police/Military K9</a></li>
+					<li><a href="">Service Dogs</a></li>
+					<li><a href="">Tracking, Search &amp; Rescue</a></li>
+				</ul>
+			</li>
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Browse by Instructor</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Michael Ellis</a></li>
+					<li><a href="">Ed Frawley</a></li>
+					<li><a href="">Mark Keating</a></li>
+					<li><a href="">Tyler Muto</a></li>
+					<li><a href="">Forrest Micke</a></li>
+					<li><a href="">Janice Gunn</a></li>
+				</ul>
+			</li>		
+		</ul>
+		<!-- end branch content -->
+		
+		<div class="overflow-indicator-bottom"></div>
+	</div>
+</div>
+
+<!-- equipment -->
+<div id="branch_products_equip" class="sidebar-branches">
+	
+	<div class="non-scrollable">
+		<ul class="branch-triggers">
+			<li class="return" destination="products" direction="up">
+				<svg class="fill-svg rotate270"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				back to products
+			</li>
+		</ul>
+		<div class="branch-title">Canine Equipment &amp; Apparel</div>
+	</div>
+
+	<div class="scrollable">
+
+		<ul class="branch-accordians">
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Leashes</span>
+					<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links default-open">
+					<li><a href="">Amish Leather</a></li>
+					<li><a href="">Leash Collar Combos</a></li>
+					<li><a href="">Prong Collar Leash</a></li>
+					<li><a href="">View all Leashes</a></li>					
+				</ul>
+			</li>
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Collars</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Amish Leather</a></li>
+					<li><a href="">Prong Collars</a></li>
+					<li><a href="">Keeper Collars</a></li>
+					<li><a href="">Fur Savers</a></li>
+					<li><a href="">View all Collars</a></li>					
+				</ul>
+			</li>
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Electric Collars</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Dogtra</a></li>
+					<li><a href="">Garmin</a></li>
+					<li><a href="">Educator</a></li>
+					<li><a href="">Bark Collars</a></li>
+					<li><a href="">View all Electric Collars</a></li>					
+				</ul>
+			</li>
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Muzzles</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Jafco Plastic</a></li>
+					<li><a href="">Wire Basket</a></li>
+					<li><a href="">Cloth</a></li>
+					<li><a href="">Baskerville</a></li>
+					<li><a href="">View all Muzzles</a></li>					
+				</ul>
+			</li>
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Harnesses &amp; Vests</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Service Dog Vests</a></li>
+					<li><a href="">Safety</a></li>
+					<li><a href="">Cooling</a></li>
+					<li><a href="">Warming</a></li>
+					<li><a href="">View all Harnesses &amp; Vests</a></li>					
+				</ul>
+			</li>
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Accessories &amp; Apparel</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Leash Accessories</a></li>
+					<li><a href="">Collar Accessories</a></li>
+					<li><a href="">Electric Collar Accessories</a></li>
+					<li><a href="">Muzzles Accessories</a></li>
+					<li><a href="">Harnesses &amp; Vest Accessories</a></li>
+					<li><a href="">Boots, Hats, Bandanas</a></li>
+				</ul>
+			</li>
+		</ul>
+		<!-- end branch content -->
+		
+		<div class="overflow-indicator-bottom"></div>
+	</div>
+</div>
+
+<!-- gear and play -->
+<div id="branch_products_gear" class="sidebar-branches">
+	
+	<div class="non-scrollable">
+		<ul class="branch-triggers">
+			<li class="return" destination="products" direction="up">
+				<svg class="fill-svg rotate270"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				back to products
+			</li>
+		</ul>
+		<div class="branch-title">Training Gear &amp; Play</div>
+	</div>
+
+	<div class="scrollable">
+
+		<ul class="branch-accordians">
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Various Gear</span>
+					<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links default-open">
+					<li><a href="">Noisemakers</a></li>
+					<li><a href="">Dumbbells</a></li>
+					<li><a href="">Jumps, Hurdles, Blinds</a></li>			
+				</ul>
+			</li>
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Toys</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Balls</a></li>
+					<li><a href="">Sticks &amp; Bones</a></li>
+					<li><a href="">Rope Toys</a></li>
+					<li><a href="">Discs</a></li>
+					<li><a href="">Launcher Toys</a></li>
+					<li><a href="">Treat Toys</a></li>
+					<li><a href="">Plush &amp; Soft Toys</a></li>
+					<li><a href="">View all Toys</a></li>					
+				</ul>
+			</li>
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Scent Work</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Scent Work Kits</a></li>
+					<li><a href="">Scent Refills</a></li>
+					<li><a href="">View all Scent Work</a></li>					
+				</ul>
+			</li>
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Tugs</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Fleece</a></li>
+					<li><a href="">Leather</a></li>
+					<li><a href="">Synthetic</a></li>
+					<li><a href="">View all Tugs</a></li>					
+				</ul>
+			</li>
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Bite Work</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Bite Suits</a></li>
+					<li><a href="">Bars, Pillows, &amp; Wedges</a></li>
+					<li><a href="">Leg Sleeves</a></li>
+					<li><a href="">Arm Sleeves</a></li>
+					<li><a href="">Sticks</a></li>
+					<li><a href="">Whips</a></li>
+					<li><a href="">View all Bite Work</a></li>					
+				</ul>
+			</li>
+		</ul>	
+		<!-- end branch content -->
+		
+		<div class="overflow-indicator-bottom"></div>
+	</div>
+</div>
+
+<!-- general supplies -->
+<div id="branch_products_supplies" class="sidebar-branches">
+	
+	<div class="non-scrollable">
+		<ul class="branch-triggers">
+			<li class="return" destination="products" direction="up">
+				<svg class="fill-svg rotate270"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				back to products
+			</li>
+		</ul>
+		<div class="branch-title">General Supplies</div>
+	</div>
+
+	<div class="scrollable">
+
+		<ul class="branch-accordians">
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Various Supplies</span>
+					<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links default-open">
+					<li><a href="">Bed, Blankets, Mats</a></li>
+					<li><a href="">Crates, Gates, Pens</a></li>
+					<li><a href="">Bowls, Bottles, Vessels</a></li>
+					<li><a href="">Clean Up</a></li>
+					<li><a href="">Cat Food &amp; Accessories</a></li>
+					<li><a href="">Electric Fencing</a></li>
+					<li><a href="">Travel Accessories</a></li>
+					<li><a href="">Grooming</a></li>
+				</ul>
+			</li>	
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Dog Food &amp; Treats</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Kibble</a></li>
+					<li><a href="">Meat Rolls</a></li>
+					<li><a href="">Raw</a></li>
+					<li><a href="">Grain Free</a></li>
+					<li><a href="">Crunchy</a></li>
+					<li><a href="">Soft</a></li>
+					<li><a href="">Chews</a></li>
+					<li><a href="">View all Dog Food &amp; Treats</a></li>
+				</ul>
+			</li>	
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Healthcare</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">First Aid</a></li>
+					<li><a href="">Digestive Health</a></li>
+					<li><a href="">Flea &amp; Tick Prevention</a></li>
+
+					<li><a href="">Dental Care</a></li>
+					<li><a href="">Immune System</a></li>
+					<li><a href="">Joint Pain &amp; Arthritic Relief</a></li>
+
+					<li><a href="">Skin &amp; Coat</a></li>
+					<li><a href="">Stress Relief</a></li>
+					<li><a href="">Performance Supplements</a></li>
+
+					<li><a href="">View all Healthcare</a></li>
+				</ul>
+			</li>
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Multi-purpose Accessories</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Fans</a></li>
+					<li><a href="">Tarps</a></li>
+					<li><a href="">S-biners</a></li>
+					<li><a href="">View all Multi-purpose Accessories</a></li>
+				</ul>
+			</li>	
+
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Breeding</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="">Whelping Equipment</a></li>
+					<li><a href="">Artificial Insemination Equipment</a></li>
+					<li><a href="">View all Breeding</a></li>
+				</ul>
+			</li>							
+		</ul>
+		<!-- end branch content -->
+		
+		<div class="overflow-indicator-bottom"></div>
+	</div>
+</div><div id="branch_vod" class="sidebar-branches">
+	
+	<div class="non-scrollable">
+		<ul class="branch-triggers">
+			<li class="return" destination="start" direction="up">
+				<svg class="fill-svg rotate270"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				back to main menu
+			</li>
+		</ul>
+		<div class="branch-title">Video On Demand</div>
+	</div>
+
+	<div class="scrollable">
+		<!-- quick links: faq, need help? -->
+		<ul class="links">
+			<!-- vod home -->
+			<li><a href="//leerburg.com/flix/">VOD Home</a></li>
+			<!-- faq -->
+			<li><a href="//leerburg.com/flix/faq.php">FAQ</a></li>
+			<!-- need help? -->
+			<li><a href="//leerburg.com/newcontact.php?cat=Streaming">Need help?</a></li>
+		</ul>
+
+		<!-- 
+			accordian lists 
+			default, expand user account list
+		-->
+		<ul class="branch-accordians">			
+			<!-- key user account links -->
+			
+			<!-- category list -->
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Newest Releases</span>
+					<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links default-open">
+					<li><a href="//leerburg.com/flix/player.php/1644/">Foundation of Sport Detection with Ericka Duggan</a></li>
+					<li><a href="//leerburg.com/flix/player.php/1643/">Problem Solving in the Foundation of Sport Detection</a></li>
+					<li><a href="//leerburg.com/flix/player.php/1617/">Intermediate Dog Obedience with Ed Frawley</a></li>
+					<li><a href="//leerburg.com/flix/newestvideos.php">View all new streams</a></li>
+				</ul>
+			</li>
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Obedience</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="//leerburg.com/flix/category.php?categoryid=1">Basic Obedience</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=2">Advanced Obedience</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=5">Reward Based/Marker Training</a></li>
+
+					<!--
+					saved example for later
+					<li><a href="">View all Obedience videos*</a></li>-->
+				</ul>
+			</li>
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Behavior Problems</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="//leerburg.com/flix/category.php?categoryid=11">Aggression</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=6">Corrections</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=3">Management</a></li>
+				</ul>
+			</li>
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Dog Sports</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="//leerburg.com/flix/category.php?categoryid=19">Dog Sports</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=39">Leerburg Classics</a></li>
+				</ul>
+			</li>	
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Relationship Building</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="//leerburg.com/flix/category.php?categoryid=4">Socialization</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=38">Relationship Games</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=26">Puppies</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=28">Play</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=20">Rescue Dogs</a></li>
+				</ul>
+			</li>	
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Raising Dogs &amp; Puppies</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="//leerburg.com/flix/category.php?categoryid=13">Healthcare &amp; Feeding</a>
+					</li><li><a href="//leerburg.com/flix/category.php?categoryid=27">Breeding</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=14">Grooming</a></li>
+				</ul>
+			</li>
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Working Dogs</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="//leerburg.com/flix/category.php?categoryid=18">Police &amp; Military K9</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=9">Protection Work</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=21">Service Dogs</a></li>
+				</ul>
+			</li>												
+		
+			<!-- trainers -->
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Videos by Trainer</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="links">
+					<li><a href="//leerburg.com/flix/category.php?categoryid=40">Ed Frawley</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=25">Cindy Rhodes</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=22">Michael Ellis</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=41">Tyler Muto</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=23">Mark Keating</a></li>
+					<li><a href="//leerburg.com/flix/category.php?categoryid=24">Forrest Micke</a></li>
+				</ul>
+			</li>
+
+		<div class="overflow-indicator-bottom"></div>		
+	</ul></div>
+</div><div id="branch_lou" class="sidebar-branches">
+	
+	<div class="non-scrollable">
+		<ul class="branch-triggers">
+			<li class="return" destination="start" direction="up">
+				<svg class="fill-svg rotate270"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				back to main menu
+			</li>
+		</ul>
+		<div class="branch-title">Online University</div>
+	</div>
+
+	<div class="scrollable">
+		<!-- quick links: faq, need help? -->
+		<ul class="links">
+			<!-- vod home -->
+			<li><a href="//university.leerburg.com/">LOU Home</a></li>
+			<!-- faq -->
+			<li><a href="//university.leerburg.com/Pages/faq">FAQ</a></li>
+		</ul>
+
+		<ul class="branch-accordians">		
+			<!-- newest courses, default open -->
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Newest Courses</span>
+					<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul class="default-open">
+					<ul class="links">
+											<li>
+							<a href="//university.leerburg.com/Catalog/viewCourse/cid/94">Remote Collar Training for the Pet Owner</a>
+						</li>
+											<li>
+							<a href="//university.leerburg.com/Catalog/viewCourse/cid/89">Leash Skills</a>
+						</li>
+											<li>
+							<a href="//university.leerburg.com/Catalog/viewCourse/cid/88">The Power of Playing Tug with Your Dog</a>
+						</li>
+										</ul>
+					<a href="//university.leerburg.com/Catalog/courseList" class="lou-all-link-mobile">
+						View course catalog
+						<span class="inlineIcon"><svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-arrow-box"></use></svg></span>
+					</a>
+				</ul>
+			</li>
+
+			<!-- select trainers -->
+			<li>
+				<div class="accordian-trigger">
+					<span class="truncate">Our Instructors</span>
+					<svg class="fill-svg rotate180"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-caret"></use></svg>
+				</div>
+				<ul>
+					<ul class="links">
+													<li>
+								<a href="//university.leerburg.com/Instructor/view/instructorid/54">Ed Frawley</a>
+							</li>
+													<li>
+								<a href="//university.leerburg.com/Instructor/view/instructorid/58">Michael Ellis</a>
+							</li>
+													<li>
+								<a href="//university.leerburg.com/Instructor/view/instructorid/6914">JJ Belcher</a>
+							</li>
+													<li>
+								<a href="//university.leerburg.com/Instructor/view/instructorid/3637">Tyler Muto</a>
+							</li>
+											</ul>
+
+					<a href="//university.leerburg.com/Instructor/viewall" class="lou-all-link-mobile">
+						View all instructors
+						<span class="inlineIcon"><svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-arrow-box"></use></svg></span>
+					</a>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+		</div>
+	</div>
+</div>
+
+
+<div id="desktop-tabs">
+	<!--<a href="//leerburg.com/giveaway.htm?nav=desktopTabs&content=giveaway_05022017" id="tab-giveaway" class="theme-gradient"><span class="label">Weekly Giveaway</span></a>-->
+	<a href="//leerburg.com/newcontact.php?cat=QA&amp;nav=desktopTabs&amp;content=askCindy_05022017" id="tab-contact" class="theme-gradient">
+		<span id="desktop-tabs-cindy-icon" class="inlineIcon"><svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-hint"></use></svg></span>
+		<span class="label">Ask Cindy</span>
+	</a>
+	<a href="//leerburg.com/newsletter.htm?nav=desktopTabs&amp;content=newsletter_05022017" id="tab-newsletter" class="theme-gradient"><span class="label">Our Newsletter</span></a>
+	<a href="//leerburg.com/catalog.htm?nav=desktopTabs&amp;content=catalog_11282018" id="tab-catalog" class="theme-gradient"><span class="label">Free Catalog</span></a>
+</div>
+
+
+<div id="container">
+
+<link rel="stylesheet" type="text/css" href="https://leerburg.com/css/nitro-reversals.css?v=02">
+	
    
 			   
 <div id="main2">
@@ -1828,17 +2653,16 @@ function submitFSearch()
 	<!-- First thing, clear the floated elements -->
 	<div class="clear-floats"></div>
     
-<!-- Then, close the div started in the header include -->    
 </div><!--/container --> 
 
 <!-- -->
 <!-- Bottom Ad-->
-<!-- pages exluding this have custom css on the page itself before the footer include -->
+
 <div class="bottom-ad">
 	<div>
-		<a href="//leerburg.com/302-set.php?nav=banner&amp;content=obed-dvd-set_12242018" target="_blank"><img src="//leerburg.com/photos/banner-ads/11072018_newsletter.png" alt="New Dog Obedience with Ed Frawley dvd set now available"></a>
-		<a href="#" class="closead" style="background-color: #540e28;">
-			<svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-exMark"></use></svg>
+		<a href="//leerburg.com/view-category.php?categoryid=698&amp;nav=banner&amp;content=banner_shop-now" target="_blank"><img src="//leerburg.com/photos/banner-ads/06172019_ForrestSale.png" alt="Get a free Forrest Micke DVD when you buy a D-Town shirt!"></a>
+		<a href="#" class="closead" style="background-color: #ae8bcd;">
+			<svg class="standard"><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-exMark"></use></svg>
 		</a>
 	</div>
 </div>
@@ -1847,12 +2671,12 @@ function submitFSearch()
 
 $(function() {
     if (localStorage) { //if local storage
-        if (!localStorage.getItem('12242018_obed-dvd-set')) { // if not site is visited before
+        if (!localStorage.getItem('06172019-forrestmickedeal')) { // if not site is visited before
             $('.bottom-ad').show(); //show element
 			$( "a.closead" ).click(function( event ) { 
 				event.preventDefault();
 				$( ".bottom-ad" ).slideUp();
-				localStorage.setItem('12242018_obed-dvd-set', true); //set flag, site now visited
+				localStorage.setItem('06172019-forrestmickedeal', true); //set flag, site now visited
 				}); 		           
         }
 		else {
@@ -1863,14 +2687,13 @@ $(function() {
     }
 });
 </script>
-
 <!-- End Bottom Ad --> 
 <!-- -->
 
 <!-- back to top -->
 <div id="back-top">
 	<div id="link-box"><div><a href="#top">
-		<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-arrowCircle"></use></svg>
+		<svg class="fill-svg"><use xlink:href="//leerburg.com/svgs/core-icons.svg?v=04#icon-caret"></use></svg>
    </a></div></div>
 </div>
 <!-- -->
@@ -1924,21 +2747,21 @@ $(function() {
          </div><!-- /.list-box -->
          <div id="social-box">
             <p class="list-title">Follow Us</p>
-				<div id="social-contain">
+				<div id="social-contain" class="cf">
 					<div title="Leerburg on Facebook" class="social-box"><a href="https://www.facebook.com/leerburg/" class="full-link">
-						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-facebook"></use></svg>
+						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-facebook"></use></svg>
 					</a></div>
 					<div title="Leerburg on Twitter" class="social-box"><a href="https://twitter.com/leerburg" class="full-link">
-						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-twitter"></use></svg> 
+						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-twitter"></use></svg> 
 					</a></div>
 					<div title="Leerburg on YouTube" class="social-box"><a href="https://www.youtube.com/user/leerburg" class="full-link">
-						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-youtube"></use></svg>
+						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-youtube"></use></svg>
 					</a></div>
 					<div title="Leerburg on Google+" class="social-box"><a href="https://plus.google.com/+LeerburgDogTraining/posts" class="full-link">
-						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-googlePlus"></use></svg> 
+						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-googlePlus"></use></svg> 
 					</a></div>
 					<div title="Leerburg on Instagram" class="social-box"><a href="https://instagram.com/leerburg/" class="full-link">
-						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=01#icon-instagram"></use></svg> 
+						<svg><use xlink:href="//leerburg.com/svgs/icon-library.svg?v=02#icon-instagram"></use></svg> 
 					</a></div>                    
 				</div>
         	</div><!-- /social-box -->
@@ -1946,21 +2769,63 @@ $(function() {
    </div><!-- /.footer -->
 </div><!-- /.footer-box-dark -->
 
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit" async="" defer=""></script>
+<script type="text/javascript">
+	var onloadCallback = function() {
+
+	grecaptcha.render('recaptcha', {
+		'sitekey' : '6LdIxF8UAAAAAB4hZS0gIhEsw3vM3x3IJ4e0Qq2d',
+		'callback' : verifyCallback,
+		// 'theme' : 'dark'
+		// 'size' : 'compact'
+	});
+	};
+	var verifyCallback = function(response) {
+	//console.log(response);
+	$("#reCaptchaResponse").val(response);
+	checkSubmit();
+
+	};
+</script>   
+    
+<script>
+function checkSubmit()
+{
+	$.post('https://leerburg.com/ajax/subscribeSubmit_checkbox.php?action=validate', $("#form-subscribe").serialize(), function(data) {
+		$('#vresults').html(data);
+	});
+}
+</script>
+
 <!-- Block two -->
 <div class="footer-box-light" id="block-two">
    <div class="footer-box">
-   	    	<div id="subscribe-padding">
-         <div id="text-box">
-             <div class="call-subscribe" id="call-big"><h3>Stay In Touch!</h3></div>
-             <div class="call-subscribe" id="call-little"><p>Get the latest news on products, sales, and online courses by signing up for our email newsletter</p></div>
+   	    	<div id="subscribe-padding" class="cf">
+
+         <div class="footer-subscribe-prompt">
+				<h3>Stay In Touch!</h3>
+				<p>Get the latest news on products, sales, and online courses by signing up for our email newsletter</p>
          </div>
-         <div id="subscribe-footer" class="call-subscribe subscribe-form box-size-fix">            
-            <form name="form-subscribe" id="form-subscribe" action="https://leerburg.com/ajax/subscribeSubmit.php" method="POST" accept-charset="utf-8">
-            <input class="fields" type="text" name="email" placeholder="Your email"><!--
-			--><button type="submit">Subscribe</button>
-            </form>            
-         </div>
-         <div id="status" class="response"></div>
+
+			<div class="footer-subscribe-form max-width-300 center-content">
+			 	<form name="form-subscribe" id="form-subscribe" action="https://leerburg.com/ajax/subscribeSubmit_checkbox.php" method="POST" accept-charset="utf-8" class="gray-flat">         
+	            <input type="hidden" name="reCaptchaResponse" id="reCaptchaResponse" value="">
+
+					<input type="text" name="email" placeholder="Your email" class="mBottom-10" style="width: 100%;">
+					<!-- <input style="display:none" type="text" name="email_confirm" placeholder="Confirm email" value="" /> -->
+					<div id="recaptcha" class="footer-subscribe-recaptcha mBottom-10"></div>
+					<div id="vresults"></div>
+
+					<div class="center-btns">
+						<button id="subscribe-submit-button" type="submit" class="btnText btnDullColor">Subscribe</button>
+					</div>
+	                       
+	         </form> 
+	         
+	         <div id="status" class="response"></div>
+        		<!-- <div id="vresults"></div> -->
+        	</div>
+         
 			<script type="text/javascript">
 			$(document).ready(function(){
 				$("#form-subscribe").submit(function(e){
@@ -1980,6 +2845,10 @@ $(function() {
 							$("#status").html("Invalid email address!");
 							$("#status").addClass("error");
 							$("#status").removeClass("success");
+						}
+						else if(document.getElementById("reCaptchaResponse").value=="")	// Can't bypass checkbox with "enter"
+						{
+							alert("You must check the box before submitting the form!");
 						}
 						else
 						{					
@@ -2010,13 +2879,13 @@ $(function() {
     <div class="footer-box">
     	<div class="footer-padding">
         	<!-- contact -->
-            <div id="contact">
+            <div id="contact" class="cf">
             	<div id="address">406 Technology Dr W, Menomonie, WI 54751</div>
-                <div id="phone">(715) 235-6502</div>
+               <div id="phone">(715) 235-6502</div>
             </div><!-- /#copyright -->	            
             <!-- Copyrights -->
-            <div id="copyright">
-            	<div id="copy">©1994 - 2018 Leerburg® Enterprises, Inc.</div>
+            <div id="copyright" class="cf">
+            	<div id="copy">©1994 - 2019 Leerburg® Enterprises, Inc.</div>
                 <div id="links">
                 	<div id="align-links">
                         <a href="http://leerburg.com/privacy.htm" target="_blank">Privacy Policy</a> 
@@ -2086,11 +2955,12 @@ $(document).ready(function(){
 	/* ]]> */
 </script>
 <style>#googleStuff iframe{display:none;}</style>
+
 <div id="googleStuff">
 	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
 </div>
 <noscript>
-    <div style="display:inline;">
+    <div style="display:none;">
     	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1031756521/?value=0&amp;guid=ON&amp;script=0"/>
     </div>
 </noscript>
@@ -2100,7 +2970,7 @@ $(document).ready(function(){
 
 <script>
 /*$(function() {
-	$.post('/ajax/jTracker.php?visitid=0&uid=', $("#jtrackerform").serialize(), function(data) {
+	$.post('/ajax/jTracker.php?visitid=13681707&uid=2019061718353034.207.98.73', $("#jtrackerform").serialize(), function(data) {
 					//$('#'+type+'Values').html(data);
 			});
 });*/
