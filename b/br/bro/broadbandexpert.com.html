@@ -1,1091 +1,385 @@
-<!--The following is the downloaded HTML source of the broadbandexpert.com privacy policy that was archived on 2017-07-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170727150530id_/http%3A//www.broadbandexpert.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the broadbandexpert.com privacy policy that was archived on 2019-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190618001108id_/https%3A//www.highspeedinternet.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+        <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MNVCC3"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <script type="application/ld+json">{
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "url": "https://www.highspeedinternet.com/",
+      "name": "HighspeedInternet.com",
+      "description": "Compare internet service providers in your area. Find speeds, prices, customer satisfaction scores, and reviews for ISPs near you.",
+      "about": "Internet Providers",
+      "dateModified": "2019-06-17T15:09:30+00:00",
+      "thumbnailUrl": "https://www.highspeedinternet.com/app/themes/coolwhip-child/dist/images/hsi_logo.svg",
+       "author": {
+          "@type": "Person",
+          "name": "John Dilley"
+        },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.highspeedinternet.com/in-your-area?zip={zip}",
+        "query-input": "name=zip"
+      }
+    }</script>
+
+      
+      <title>Privacy Policy | HighSpeedInternet.com</title>
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v7.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,nofollow">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | HighSpeedInternet.com">
+<meta property="og:url" content="https://www.highspeedinternet.com/privacy-policy">
+<meta property="og:site_name" content="HighSpeedInternet.com">
+<meta property="article:publisher" content="https://www.facebook.com/HighSpeedInternetdotcom/">
+<meta property="og:image" content="https://www.highspeedinternet.com/app/uploads/hsi-icon.png">
+<meta property="og:image:secure_url" content="https://www.highspeedinternet.com/app/uploads/hsi-icon.png">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.highspeedinternet.com\/","sameAs":["https:\/\/www.facebook.com\/HighSpeedInternetdotcom\/","https:\/\/twitter.com\/teamHSI"],"@id":"https:\/\/www.highspeedinternet.com\/#organization","name":"Highspeedinternet.com","logo":"https:\/\/www.highspeedinternet.com\/app\/uploads\/hsi-logo-wide.png"}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//www.highspeedinternet.com">
+<link rel="dns-prefetch" href="//cdn.polyfill.io">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//use.typekit.net">
+<link rel="stylesheet" id="font-css" href="https://use.typekit.net/vdr0ltg.css?ver=1560790750" type="text/css" media="all">
+<link rel="stylesheet" id="main-css-css" href="https://www.highspeedinternet.com/app/themes/coolwhip-child/dist/css/main.css?ver=1560790750" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_custom_css-css" href="//www.highspeedinternet.com/app/uploads/js_composer/custom.css?ver=5.4.7" type="text/css" media="all">
+<link rel="stylesheet" id="slick-slider-core-css" href="https://www.highspeedinternet.com/app/plugins/slick-slider/bower_components/slick-carousel/slick/slick.css?ver=1.8.0" type="text/css" media="all">
+<link rel="stylesheet" id="slick-slider-core-theme-css" href="https://www.highspeedinternet.com/app/plugins/slick-slider/bower_components/slick-carousel/slick/slick-theme.css?ver=1.8.0" type="text/css" media="all">
+<style id="slick-slider-core-theme-inline-css" type="text/css">
+.slick-slider-wrapper .slick-slider .slick-arrow{z-index:1}.slick-slider-wrapper .slick-slider .slick-arrow.slick-prev{left:10px}.slick-slider-wrapper .slick-slider .slick-arrow.slick-next{right:10px}
 
-<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
-<title>The Broadband Expert Privacy Policy</title>
-<meta name="description" content="See how Broadband Expert is committed to protecting you and your data through our privacy policy.">
-<meta name="msvalidate.01" content="899F7186023DC40BFED6D6927DA3088A">
-<meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1; minimum-scale=1; user-scalable=no;">
-<link rel="canonical" href="http://www.broadbandexpert.com/privacy-policy/">
-<style type="text/css">
-@font-face {  font-family: 'Roboto';  font-style: normal;  font-weight: 100;  src: local('Roboto Thin'), local('Roboto-Thin'), url(https://fonts.gstatic.com/s/roboto/v16/Jzo62I39jc0gQRrbndN6nfesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');}@font-face {  font-family: 'Roboto';  font-style: normal;  font-weight: 300;  src: local('Roboto Light'), local('Roboto-Light'), url(https://fonts.gstatic.com/s/roboto/v16/Hgo13k-tfSpn0qi1SFdUfaCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');}@font-face {  font-family: 'Roboto';  font-style: normal;  font-weight: 400;  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v16/zN7GBFwfMP4uA6AR0HCoLQ.ttf) format('truetype');}@font-face {  font-family: 'Roboto';  font-style: normal;  font-weight: 700;  src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v16/d-6IYplOFocCacKzxwXSOKCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');}
-@charset "utf-8";
-
-@font-face{
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 400;
-src:url("/res/fonts/Montserrat-Regular/Montserrat-Regular.eot");
-src:url("/res/fonts/Montserrat-Regular/Montserrat-Regular.eot?#iefix") format("embedded-opentype"),
-url("/res/fonts/Montserrat-Regular/Montserrat-Regular.woff2") format("woff2"),
-url("/res/fonts/Montserrat-Regular/Montserrat-Regular.woff") format("woff"),
-url("/res/fonts/Montserrat-Regular/Montserrat-Regular.ttf") format("truetype");
-unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-
-@font-face {
-font-family:'Montserrat';
-font-style: normal;
-font-weight: 700;
-src:url("/res/fonts/Montserrat-Bold/Montserrat-Bold.eot");
-src:url("/res/fonts/Montserrat-Bold/Montserrat-Bold.eot?#iefix") format("embedded-opentype"),
-url("/res/fonts/Montserrat-Bold/Montserrat-Bold.woff2") format("woff2"),
-url("/res/fonts/Montserrat-Bold/Montserrat-Bold.woff") format("woff"),
-url("/res/fonts/Montserrat-Bold/Montserrat-Bold.ttf") format("truetype");
-unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
-}
-
-*{margin:0; padding:0; position:relative; outline-width:0;}
-html,body{margin:0; padding:0; width:100%;}
-body{font-family:'niveau-grotesk', Helvetica, Arial, san-serif; font-size:14px; background:#fff; color:#464646; text-rendering:optimizeLegibility;}
-a{text-decoration:none; transition:all 0.25s ease 0s;}
-a img{border:0;}
-a:hover{transition:all 0.25s ease 0s;}
-table{border-collapse:collapse; width:100%;}
-input::-moz-focus-inner{border:0; padding:0; margin-top:-1px;  margin-bottom:-1px;}
-
-.con{width:1170px; height:100%; margin:0 auto; text-align:left; padding:0 15px;}
-.clear{clear:both; height:1px; display:block;}
-.clearfix{clear:both;}
-.alignleft{float:left; margin:0 10px 10px 0;}
-.alignright{float:right; margin:0 0 10px 10px;}
-.aligncenter{display:block; margin:0 auto 10px auto; text-align:center;}
-.hidden,.hide{display:none;}
-.stretch{width:100%; min-width:1200px;}
-.main{width:855px; float:left;}
-
-.btn{border:0; display:inline-block; color:#fff!important; text-transform:uppercase; font-size:16px; line-height:20px; text-align:center; padding:20px 35px; cursor:pointer; font-weight:700;}
-.btn.green{background-color:#24d1c3;}
-.btn.green:hover{background-color:#2fc0b3;}
-.btn.blue{background-color:#00a7e5;}
-.btn.blue:hover{background-color:#189bd0;}
-
-.star-rating{display:block; background:url(/images/star-rating.png) no-repeat;}
-.star-rating.lg{width:162px; height:26px; background-position:0 0;}
-.star-rating.lg.r0{background-position:0 0;}
-.star-rating.lg.r1{background-position:0 -26px;}
-.star-rating.lg.r2{background-position:0 -52px;}
-.star-rating.lg.r3{background-position:0 -78px;}
-.star-rating.lg.r4{background-position:0 -104px;}
-.star-rating.lg.r5{background-position:0 -130px;}
-.star-rating.lg.r6{background-position:0 -156px;}
-.star-rating.lg.r7{background-position:0 -182px;}
-.star-rating.lg.r8{background-position:0 -208px;}
-.star-rating.lg.r9{background-position:0 -234px;}
-.star-rating.lg.r10{background-position:0 -260px;}
-.star-rating.sm{width:93px; height:15px; background-position:0 -286px;}
-.star-rating.sm.r0{background-position:0 -286px;}
-.star-rating.sm.r1{background-position:0 -301px;}
-.star-rating.sm.r2{background-position:0 -316px;}
-.star-rating.sm.r3{background-position:0 -331px;}
-.star-rating.sm.r4{background-position:0 -346px;}
-.star-rating.sm.r5{background-position:0 -361px;}
-.star-rating.sm.r6{background-position:0 -376px;}
-.star-rating.sm.r7{background-position:0 -391px;}
-.star-rating.sm.r8{background-position:0 -406px;}
-.star-rating.sm.r9{background-position:0 -421px;}
-.star-rating.sm.r10{background-position:0 -436px;}
-
-
-.frm-zipcode{}
-.frm-zipcode .input{width:100px; padding:20px 33px; border:1px solid #fff; font-size:16px; line-height:16px; font-family:inherit; float:left; font-weight:700; vertical-align:top;}
-.frm-zipcode .input:focus{}
-.frm-zipcode .input.error{border-color:#c00000;}
-.frm-zipcode .btn{float:left; vertical-align:top;}
-
-.page-title{background-color:#00a7e5; padding:50px 0; color:#fff;}
-.page-title h1{font-family:'Montserrat'; font-size:55px; line-height:75px; font-weight:700;}
-.page-title .frm-zipcode{margin-top:35px;}
-.page-title .frm-zipcode .title{font-size:20px; margin-bottom:15px;}
-
-.header{background:rgba(255,255,255,1); height:100px; box-shadow:0 0 6px rgba(0, 0, 0, 0.2); z-index:10;} 
-.header .logo{float:left; margin:32px 0 0 20px; display:inline-block;}
-.header .nav{}
-.header .nav .menu{list-style:none; float:right; margin:45px 20px 0 0;}
-.header .nav .menu li{float:left; padding:0 16px;}
-.header .nav .menu li.first{padding-left:0;}
-.header .nav .menu li.last{padding-right:0;}
-.header .nav .menu a{font-size:15px; color:#505050; text-transform:uppercase;}
-.header .nav .menu a:hover{color:#00a7e5;}
-.header .ico-menu{display:none; width:22px; height:17px; position:absolute; top:11px; left:20px;}
-.header .ico-menu .bar{display:block; height:3px; margin-bottom:4px; background-color:#3880c3;}
-.header .ico-menu .bar.b{magin-bottom:0;}
-
-.footer{background-color:#2e3742; color:#fff; padding-bottom:40px; clear:both;}
-.footer .share{background-color:#262d36; padding:35px 0; margin-bottom:40px;}
-.footer .share .logo{float:left;}
-.footer .share .social{float:right; list-style:none; width:125px;}
-.footer .share .social .ico{display:block; width:35px; height:35px; background:url(/images/social.png) no-repeat; float:left;}
-.footer .share .social .ico.fb{background-position:0 0;}
-.footer .share .social .ico.tw{background-position:-35px 0; margin:0 10px;}
-.footer .share .social .ico.gp{background-position:-70px 0;}
-.footer .internal-links{}
-.footer .internal-links .title{font-size:19px; font-weight:700; margin-bottom:10px;}
-.footer .internal-links .bio{width:275px; float:left; margin:0 125px 65px 0;}
-.footer .internal-links .bio .title{font-weight:normal;}
-.footer .internal-links .bio .txt{font-size:14px; line-height:19px;}
-.footer .internal-links .resources-wrap{float:left;}
-.footer .internal-links .resources{width:190px; float:left;}
-.footer .internal-links .resources .menu{list-style:none;}
-.footer .internal-links .resources .menu li{line-height:23px;}
-.footer .internal-links .resources .menu li a{color:inherit;}
-.footer .internal-links .resources .menu li a:hover{text-decoration:underline;}
-.footer .internal-links .copy{clear:both;}
-
-.footer-call{clear:both;}
-
-.home{}
-.home .splash{background:url(/images/home-splash-bg.jpg) center center no-repeat; background-size:cover; height:525px; margin-bottom:43px;}
-.home .splash h1{font-size:55px; line-height:65px; font-family:'Montserrat'; font-weight:700; color:#fff; width:600px; padding:90px 0 45px;}
-.home .splash .ico{display:block; width:567px; height:403px; background:url(/images/home-splash-ico.png) 0 0 no-repeat; position:absolute; bottom:0; right:0;}
-.home .splash .providers{display:block; background-color:#fff; width:1170px; height:85px; box-shadow:0 1px 3px rgba(0,0,0,.14); position:absolute; bottom:-42px; left:-20px; font-size:0; text-align:center;}
-.home .splash .providers .provider{display:inline-block; height:45px; background:url(/images/providers-bar.png) no-repeat; margin:20px 13px;}
-.home .splash .providers .provider.att{width:109px; background-position:0 0;}
-.home .splash .providers .provider.charter{width:114px; background-position:-127px 0;}
-.home .splash .providers .provider.xfinity{width:128px; background-position:-275px 0;}
-.home .splash .providers .provider.cox{width:80px; background-position:-439px 0;}
-.home .splash .providers .provider.directv{width:117px; background-position:-553px 0;}
-.home .splash .providers .provider.dish{width:68px; background-position:-697px 0;}
-.home .splash .providers .provider.centurylink{width:108px; background-position:-792px 0;}
-.home .splash .providers .provider.twc{width:128px; background-position:-926px 0;}
-.home .splash .providers .provider.verizon{width:76px; background-position:-1093px 0;}
-.home .section{padding:80px 0;}
-.home .section .main-title{font-family:'Montserrat'; font-weight:700; font-size:35px; text-align:center; margin-bottom:50px;}
-
-.home .section.states{}
-.home .section.states .con{text-align:center;}
-.home .section.states .map{max-width:775px; min-height:477px; margin:0 auto;}
-.home .section.states .map ul{list-style-type:square;}
-.home .section.states .map li{line-height:26px;}
-.home .section.states .map a{font-size:16px; color:#464646;}
-.home .section.states .map a:hover{color:#00a7e5;}
-
-.home .section.read-reviews{background-color:#f1f1f1;}
-.home .section.read-reviews .intro{font-size:20px; line-height:30px; font-style:italic; text-align:center; padding:0 100px; margin-bottom:60px;}
-
-.home .section.latest-guides{}
-.home .section.latest-guides .guide{display:block; width:285px; height:285px; background-size:cover; background-repeat:no-repeat; background-position:center center; margin-left:10px; float:left; margin-bottom:50px;}
-.home .section.latest-guides .guide.l{margin-left:0;}
-.home .section.latest-guides .guide.r{margin-left:0; float:right;}
-.home .section.latest-guides .guide .cover{display:block; width:100%; height:100%; position:absolute; top:0; left:0; background:rgba(0,0,0,.55);}
-.home .section.latest-guides .guide h3{position:absolute; bottom:55px; left:0; color:#fff; font-size:25px; font-weight:500; text-align:center; z-index:1; padding:0 25px;}
-.home .section.latest-guides .guide:hover .cover{background:rgba(0,0,0,.25);}
-
-.home .section.latest-guides .sub-title{font-size:25px; text-align:center; font-weight:500; margin-bottom:15px;}
-.home .section.latest-guides .more{text-align:center; margin-bottom:50px;}
-.home .section.latest-guides .more a{color:#00a7e5; font-size:18px; font-weight:300;}
-.home .section.latest-guides .categories{width:806px; margin:0 auto 80px;}
-.home .section.latest-guides .categories .category{border:2px solid #e3e3e3; border-width:0 0 2px 2px; float:left; width:200px; height:155px; padding-top:25px; text-align:center; text-decoration:none;  color:#464646;}
-.home .section.latest-guides .categories .category.l{border-left:0; clear:both;}
-.home .section.latest-guides .categories .category.r{}
-.home .section.latest-guides .categories .category.t{}
-.home .section.latest-guides .categories .category.b{border-bottom-width:0;}
-.home .section.latest-guides .categories .category:hover{color:#00a7e5;}
-.home .section.latest-guides .categories .category .txt{font-size:18px; line-height:28px; display:block; padding:30px 25px 0 25px; font-weight:500;}
-.home .section.latest-guides .categories .category .ico{display:block; background:url(/images/home-icos.png) no-repeat; margin:0 auto;}
-.home .section.latest-guides .categories .category .ico.ico67{width:40px; height:54px; background-position:0 0; margin:0 auto;}/*satellite tv*/
-.home .section.latest-guides .categories .category .ico.ico63{width:57px; height:49px; background-position:-40px 0; margin:2px auto 3px;}/*internet advice*/
-.home .section.latest-guides .categories .category .ico.ico64{width:59px; height:54px; background-position:-97px 0; margin:0 auto;}/*internet security*/
-.home .section.latest-guides .categories .category .ico.ico65{width:48px; height:43px; background-position:-156px 0; margin:6px auto 5px;}/*internet speed tips*/
-.home .section.latest-guides .categories .category .ico.ico62{width:56px; height:37px; background-position:0 -54px; margin:9px auto 8px;}/*internet beginners*/
-.home .section.latest-guides .categories .category .ico.ico41{width:27px; height:45px; background-position:-56px -54px; margin:5px auto 4px;}/*mobile broadband*/
-.home .section.latest-guides .categories .category .ico.ico156{width:51px; height:51px; background-position:-83px -54px; margin:2px auto 1px;}/*networking advice*/
-.home .section.latest-guides .categories .category .ico.ico66{width:55px; height:38px; background-position:-134px -54px; margin:8px auto;}/*online gaming*/
-
-.home .testimonial{background-color:#00a7e5; font-family:'Montserrat'; padding:75px 0;}
-.home .testimonial .con{text-align:center;}
-.home .testimonial .ico{width:110px; height:110px; border-radius:55px; color:#61d4fe; font-size:185px; background-color:#0086cc; position:absolute; top:-130px; left:50%; margin-left:-55px; line-height:207px;}
-.home .testimonial .txt{color:#fff; font-size:25px; line-height:35px; margin-bottom:50px; padding-top:40px;}
-.home .testimonial .meta{color:#61d4fe; font-size:20px;}
-.home .testimonial .meta .author{display:block; margin-bottom:10px;}
-.home .testimonial .meta .location{display:block;}
-
-.review-types{width:970px; margin:0 auto;}
-.review-types .review-type{width:270px; box-shadow:1px 1px 2px rgba(0,0,0,.20); background-color:#fff; float:left; text-align:center;}
-.review-types .review-type.l{}
-.review-types .review-type.m{margin-left:80px;}
-.review-types .review-type.r{float:right;}
-.review-types .review-type .img{width:100%; height:125px;}
-.review-types .review-type .ico-wrap{width:68px; height:68px; background-color:#fff; position:absolute; top:91px; left:50%; margin-left:-34px; border-radius:34px;}
-.review-types .review-type .ico-wrap .ico{display:block; background:url(/images/services-icos.png) no-repeat; position:absolute; top:50%; left:50%;}
-.review-types .review-type .ico-wrap .ico.int{background-position:0 0; width:36px; height:24px; margin:-12px 0 0 -18px;}
-.review-types .review-type .ico-wrap .ico.tv{background-position:-36px 0; width:32px; height:25px; margin:-12px 0 0 -16px;}
-.review-types .review-type .ico-wrap .ico.mbb{background-position:-68px 0; width:17px; height:28px; margin:-14px 0 0 -9px;}
-.review-types .review-type .title{display:block; font-size:20px; font-weight:700; padding-top:40px;}
-.review-types .review-type .bar{display:block; height:2px; background-color:#d0d5d6; margin:25px 40px;}
-.review-types .review-type .txt{display:block; font-size:16px; line-height:25px; margin:0 25px 25px;}
-.review-types .review-type .btn{margin-bottom:20px;}
-
-.contact{padding:50px 0;}
-.contact .frm-contact{}
-.contact .frm-contact .info{width:480px; float:left;}
-.contact .frm-contact .input{border:1px solid #ccc; color:inherit; font-family:inherit; font-size:inherit; font-weight:400; padding:15px 30px; margin-bottom:30px; width:418px;}
-.contact .frm-contact .input:focus{border-color:#00a7e5;}
-.contact .frm-contact .input.l{float:left; width:163px;}
-.contact .frm-contact .input.r{float:right; width:163px;}
-.contact .frm-contact .input.textarea{height:100px; resize:vertical;}
-.contact .frm-contact .input.error{border-color:#c00000;}
-.contact .frm-contact .verify-submit{width:300px; float:left; margin-left:30px;}
-.contact .frm-contact .verify{clear:both; width:202px; float:left; margin-bottom:20px;}
-.contact .contact-complete{border:2px solid; color:#060; padding:10px; background:#effee7; font-weight:700;}
-
-.article{font-size:18px;}
-.article.provider-description{-moz-column-count:2; -webkit-column-count:2; column-count:2; -moz-column-gap:100px; -webkit-column-gap:100px; column-gap:100px; margin-bottom:65px;}
-.article h1{margin-bottom:30px;}
-.article h2{font-size:25px; font-weight:400; margin-bottom:30px;}
-.article h3{margin-bottom:30px;}
-.article p{line-height:28px; margin-bottom:50px;}
-.article ul{list-style:square; margin:0 0 10px 15px;}
-.article ol{margin:0 0 10px 15px;}
-.article li{line-height:28px;}
-.article a{color:#00a7e5;}
-.article hr{margin-bottom:50px;}
-.article img{max-width:100%;}
-.article .verdict{border:2px solid #24d1c3; padding:25px 50px; margin-top:25px;}
-.article .frm-zipcode{margin:20px 0 30px;}
-.article .frm-zipcode .input{background-color:#dedede; border-color:#dedede;}
-.article .frm-zipcode .input.error{border-color:#c00000;}
-
-
-.article.not-found{text-align:center;}
-.article.not-found img{float:none; margin:0;}
-
-.no-brand-offers{background-color:#ff9999; padding:25px 0;}
-
-.results{padding-top:20px;}
-.results .location-title{background:#317cc1; background:linear-gradient(to right, #317cc1 0%,#00b478 100%); margin-bottom:20px;}
-.results .location-title h1{color:#fff; font-size:40px; font-weight:300; padding:45px 0 45px 65px;}
-.results .location-title .promo{float:right; margin:20px 65px 0 0; color:#2ac4b3; border:2px solid; padding:20px 50px; font-size:32px; font-weight:300;}
-.results .frm-zipcode{background:#505050; padding:25px; margin-bottom:15px;}
-.results .frm-zipcode .lbl{display:block; color:#fff; font-weight:700; text-align:center; margin-bottom:7px;}
-.results .frm-zipcode .input{float:left; width:43px;  width:calc(50% - 32px); height:33px; padding:0 15px; line-height:33px; border:1px solid #fff; color:#666; font-weight:400; -webkit-appearance:none; border-radius:0;}
-.results .frm-zipcode .input.error{border-color:#c00000;}
-.results .frm-zipcode .submit{width:50%; height:35px; line-height:35px; float:right; color:#fff; text-align:center; font-weight:700; border:0; cursor:pointer; background:#00b478;  -webkit-appearance:none;  border-radius:0;}
-.results .frm-zipcode .submit:hover{background:#4ccba0;}
-.results .tabs{display:none; height:50px; margin:0 20px;}
-.results .tabs .tab{display:inline-block; padding:18px 0; width:50%; height:14px; line-height:14px; float:left; text-align:center; color:#505050; font-weight:700;}
-.results .tabs .tab .ico{display:inline-block; height:14px; line-height:14px; background:url(/images/results.png) no-repeat; margin-right:10px;}
-.results .tabs .tab.first{border-right:1px solid #ddd; width:calc(50% - 1px);}
-.results .tabs .tab.active{background:#f1f1f1;}
-.results .tabs .tab .ico.zipcode{width:11px; background-position:-168px -18px;}
-.results .tabs .tab .ico.filters{width:14px; background-position:-154px -18px;}
-.results .filter{float:left; width:200px; padding:0 20px;}
-.results .filter.pad{padding-bottom:50px;}
-.results .filter .block{padding-bottom:15px; margin-bottom:15px; border-bottom:1px solid #ddd;}
-.results .filter .sm-lbl{font-size:12px; color:#555; font-weight:700; display:block; margin-bottom:15px;}
-.results .filter .lg-lbl{font-size:21px; color:#555; font-weight:400; display:block; margin-bottom:15px;}
-.results .filter .filter-item{display:block; height:16px; font-size:14px; color:#666; margin-bottom:15px; float:left; clear:both;}
-.results .filter .filter-item a{color:inherit; overflow-x:hidden; white-space:nowrap; text-overflow:ellipsis; display:inline-block;}
-.results .filter .filter-item .box{display:block; width:10px; height:10px; border:2px solid #505050; float:left; margin:2px 20px 0 0; z-index:1;}
-.results .filter .filter-item .box .chk{display:none; width:16px; height:14px; background:url(/images/results.png) -109px -18px no-repeat; position:absolute; bottom:0; left:0;}
-.results .filter .filter-item .cnt{color:#999;}
-.results .filter .filter-item input{opacity:0; position:absolute; top:0; left:0; z-index:0;}
-.results .filter .filter-item.checked a{font-weight:700;}
-.results .filter .filter-item.checked .box .chk{display:block;}
-.results .filter .clear-filter-options{clear:both;}
-.results .filter .clear-filter-options a{color:inherit; font-size:12px; text-decoration:underline;}
-.results .filter .zipcode{background:#505050; padding:25px; margin-bottom:15px;}
-.results .filter .zipcode .lbl{display:block; color:#fff; font-weight:700; text-align:center; margin-bottom:7px;}
-.results .filter .zipcode .input{float:left; width:43px;  width:calc(50% - 32px); height:33px; padding:0 15px; line-height:33px; border:1px solid #fff; color:#666; font-weight:400; -webkit-appearance:none; border-radius:0;}
-.results .filter .zipcode .input.error{border-color:#c00000;}
-.results .filter .zipcode .submit{width:50%; height:35px; line-height:35px; float:right; color:#fff; text-align:center; font-weight:700; border:0; cursor:pointer; background:#24d1c3;  -webkit-appearance:none;  border-radius:0;}
-.results .filter .zipcode .submit:hover{background:#2fc0b3;}
-.results .filter .nearby-zipcodes{}
-.results .filter .nearby-zipcodes a{color:#0458a5; font-weight:700; display:inline-block; margin:0 25px 15px 0;}
-.results .filter .nearby-zipcodes a.last{margin-right:0;}
-.results .filter .nearby-zipcodes a.bot{margin-bottom:0;}
-.results .filter .other-package-types{display:none; clear:both;}
-.results .filter .show-other-package-types{color:#fff; margin:0 auto; display:inline-block; background:#55b0e2; padding:3px 10px; font-weight:700; float:left; clear:both;}
-.results .filter .apply-filters{display:none; width:100%; height:30px; padding:10px 0; background:#fff; position:fixed; bottom:0; left:0; text-align:center; z-index:1;}
-.results .filter .apply-filters.stick{position:absolute;}
-.results .filter .apply-filters .btn-apply-filters{width:35%; height:100%; line-height:30px; display:inline-block; color:#fff; text-align:center; font-weight:700; border:0; cursor:pointer; background:#00b478;  -webkit-appearance:none;  border-radius:0; margin:0 10px;}
-.results .filter .apply-filters .btn-cancel{width:35%; height:100%; line-height:30px; display:inline-block; color:#aaa; text-align:center; font-weight:700; border:0; cursor:pointer; background:#ddd;  -webkit-appearance:none;  border-radius:0; margin:0 10px;}
-.results .filter .filter-option.active{display:block;}
-.results .filter .filter-option.apply-filters.active{display:none;}
-.results .filter .zipcode.active{display:block;}
-.results .filter .nearby-zipcodes.active{display:block;}
-.results .offers{float:left; width:calc(100% - 241px); border-left:1px solid #ddd;}
-.results .offers .brand-image{display:block; margin-bottom:40px;}
-.results .offers .offers-inner{max-width:1200px; margin:0 auto;}
-.results .offers .page-description{float:left; margin-bottom:20px;}
-.results .offers .page-description p{line-height:19px;}
-.results .offers .sort-options{float:right; margin-bottom:20px;}
-.results .offers .sort-options .lbl{color:#444; font-weight:700; font-size:14px; line-height:46px; vertical-align:top; display:inline-block; margin-right:10px;}
-.results .offers .sort-options .selcon{display:inline-block; width:165px; border:2px solid #00a7e5; overflow:hidden; background:#fff;}
-.results .offers .sort-options .selcon select{width:100%; z-index:1; border:0; padding:10px 15px; color:#00a7e5; font-size:14px; -webkit-appearance:none; -moz-appearance:none; appearance:none; backface-visibility:hidden; background:none; cursor:pointer;}
-.results .offers .sort-options .selcon select::-ms-expand{display:none;}
-.results .offers .sort-options .selcon .arr{display:block; width:8px; height:7px; background:url(/images/results.png) -146px -18px no-repeat; position:absolute; top:18px; right:10px;}
-.results .no-results{}
-.results .no-results .title{font-size:32px; font-weight:300;}
-.results .no-results p{margin-bottom:15px;}
-.results .no-results .btn-clear{line-height:30px; display:inline-block; color:#fff; text-align:center; font-weight:700; border:0; cursor:pointer; background:#00b478;  -webkit-appearance:none;  border-radius:0; padding:5px 10px;}
-
-.pagination{clear:both;}
-.pagination ul{list-style:none; display:block; padding:0; margin:15px 0 10px 0; height:29px;}
-.pagination ul li{display:inline;}
-.pagination ul li a,
-.pagination ul li span{display:block; float:left; height:25px; line-height:26px; margin:0 2px; padding:2px 9px; text-align:center; color:#00a7e5; text-decoration:none; font-weight:700;}
-.pagination ul li a:hover{color:#1f96c8;}
-.pagination ul li span{border:2px solid #00a7e5; padding-top:0; padding-bottom:0;}
-
-.slider-wrap{width:100%; height:224px; overflow:hidden; clear:both; margin-bottom:20px;}
-.slider-wrap .arr{position:absolute; top:0; background:#fff; width:35px; height:142px; font-size:27px; line-height:142px; opacity:.3; text-align:center; display:block; color:#444; font-weight:700;}
-.slider-wrap .arr.l{left:0; display:none;}
-.slider-wrap .arr.r{right:0;}
-.slider-wrap:hover .arr{opacity:.8; background:#6fb9ff;}
-.slider{position:absolute; top:0; left:0; width:100%; height:100%;}
-.slider .guide{width:208px; height:224px; display:block; margin-right:18px; float:left;}
-.slider .guide .img{border:3px solid #fff; display:block; box-shadow:0 0 4px rgba(0,0,0,.5); margin:1px 1px 20px; overflow:hidden; height:135px;}
-.slider .guide .img img{width:100%; min-height:100%;}
-.slider .guide .title{color:#317cc1; display:block; font-size:17px; font-weight:400;}
-.slider .guide.more .img .txt{font-size:34px; color:#aaa; font-weight:700; text-align:center; line-height:135px; display:block;}
-
-.page{padding:50px 0;}
-
-.guides-category{padding:50px 0;}
-.guides-category .guide{background:#f5f5f5; border:1px solid #e9e9e9; padding:12px; margin-bottom:20px; height:140px;}
-.guides-category .guide .img{float:left; display:block; width:204px; height:134px; margin-right:12px; border:3px solid #fff; border-radius:2px; box-shadow:0 2px 1px rgba(0, 0, 0, 0.22);}
-.guides-category .guide .img img{width:100%; min-height:100%;}
-.guides-category .guide .title{font-size:18px; font-weight:400; color:#317cc1;}
-.guides-category .guide .author{font-size:12px; display:block; margin:10px 0;}
-.guides-category .guide .excerpt{line-height:17px;}
-
-.offer-card{clear:both; margin-bottom:35px; border:2px solid #ddd;}
-.offer-card .title{background:#41484a; margin:-2px 0 0 -2px; width:calc(100% + 4px); height:34px; line-height:34px; color:#fff;}
-.offer-card .title .name{font-size:21px; font-weight:400; padding:0 20px;}
-.offer-card .title .name a{color:inherit;}
-.offer-card .title .tag{float:left; margin:0 15px 0 -30px; fill:#55b0e2;}
-.offer-card .title .tag.first{margin-left:0;}
-.offer-card .title .tag.popular-package{fill:#6f7b80; z-index:3;}
-.offer-card .title .tag.fastest-download{fill:#606a6e; z-index:2;}
-.offer-card .title .tag.cheapest-internet{fill:#51595c; z-index:1;}
-.offer-card .title .tag .txt{font-size:12px; fill:#fff; text-transform:uppercase;}
-.offer-card .details{height:175px; border-bottom:1px dashed #ddd; margin-bottom:20px;}
-.offer-card .details .offer-specs{width:calc(100% - 580px); height:100%; float:left;}
-.offer-card .details .block{width:154px; width:calc(25% - 1px); height:100%; float:left; border:1px solid #ddd; border-width:0 1px 0 0; text-align:center;}
-.offer-card .details .logo-icons{width:279px; text-align:left;}
-.offer-card .details .price-cta{width:300px; border-right:0;}
-.offer-card .details .txt{padding:0 10px; width:134px; width:calc(100% - 20px); display:block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; position:absolute; left:0;}
-.offer-card .details .val{font-size:25px; bottom:50px; font-weight:500;}
-.offer-card .details .lbl{font-size:13px; bottom:34px; color:#929292;}
-.offer-card .details .not-available{color:#999;}
-.offer-card .details .not-available .service{display:block;}
-.offer-card .details .price{margin:15px 0 10px;}
-.offer-card .details .price .txt{position:relative; bottom:auto; width:auto;}
-.offer-card .details .price .val{bottom:auto; font-size:45px; font-weight:300;}
-.offer-card .details .price .lbl{bottom:auto; margin-top:-5px; color:#929292;}
-.offer-card .details .icons{height:25px; padding:35px 0 35px 15px;}
-.offer-card .details .icons .plus{display:inline-block; padding:0 8px; font-size:16px; font-weight:700; line-height:25px; color:#444; vertical-align:top;}
-.offer-card .details .icons .ico{display:inline-block; height:25px; background:url(/images/results.png) no-repeat; vertical-align:top;}
-.offer-card .details .icons .ico.internet{background-position:0 -18px; width:39px;}
-.offer-card .details .icons .ico.television{background-position:-39px -18px; width:32px;}
-.offer-card .details .icons .ico.telephone{background-position:-71px -18px; width:25px;}
-.offer-card .details .logo{}
-.offer-card .details .logo .img{margin-left:15px; width:100%; max-width:140px;}
-.offer-card .details .wheel{display:block; width:50px; height:50px; margin:35px auto 0;}
-.offer-card .details .wheel .outer{fill:#e8e8e8; display:block; width:100%; height:100%;}
-.offer-card .details .wheel .inner{fill:#fff;}
-.offer-card .details .wheel .arc{fill:#ffba5e;}
-.offer-card .details .cta{text-align:center;}
-.offer-card .details .cta .link{display:block; width:175px; height:50px; line-height:50px; background:#24d1c3; color:#fff; text-align:center; font-size:20px; font-weight:700; margin:0 auto 5px;}
-.offer-card .details .cta .link .ico{display:inline-block; width:13px; height:13px; background:url(/images/results.png) -96px -18px no-repeat; margin-right:10px;}
-.offer-card .details .cta .phone{color:#00a7e5; text-decoration:underline; font-size:12px; font-weight:700;}
-.offer-card .details .cta .phone:hover{color:#1f96c8;}
-.offer-card .extras{text-align:right; padding:0 20px;}
-.offer-card .extras .extra{display:inline-block; max-width:350px; text-align:left; vertical-align:top; margin:0 0 5px 25px;}
-.offer-card .extras .extra .ico{display:block; width:10px; height:8px; background:url(/images/results.png) -125px -18px no-repeat; float:left; margin-top:3px;}
-.offer-card .extras .extra p{font-weight:700; color:#000; font-size:13px; padding-left:15px;}
-.offer-card .extras .extra .txt{vertical-align:top;}
-.offer-card .extras .extra .premium-channels{display:inline-block; width:196px; height:18px; background:url(/images/results.png) 0 0 no-repeat; margin-left:5px;}
-.offer-card .terms{padding:0 15px; color:#555;}
-.offer-card .terms .see-terms{margin-bottom:10px;}
-.offer-card .terms .show-terms{color:#929292; font-size:12px; font-weight:300; padding-right:15px;}
-.offer-card .terms .show-terms .txt{text-decoration:underline;}
-.offer-card .terms .show-terms .ico{display:block; width:4px; height:7px; background:url(/images/results.png) -135px -18px no-repeat; position:absolute; top:5px; right:3px;}
-.offer-card .terms .terms-txt{display:none;}
-.offer-card .terms .terms-txt.open{display:block;}
-.offer-card .terms .terms-txt p{color:#929292; font-size:11px; font-weight:300; margin-bottom:10px;}
-.offer-card .terms.showing .show-terms .ico{background-position:-139px -18px; width:7px; height:4px; top:7px; right:0;}
-
-.state{}
-.state .top-providers{padding:40px 0;}
-.state .top-providers .strip{width:50%; height:100%; position:absolute; top:0;}
-.state .top-providers .strip.l{left:0; background-color:#f4f4f4;}
-.state .top-providers .strip.r{right:0; background-color:#ededed;}
-.state .top-providers .con{z-index:1;}
-.state .top-providers .col{width:50%;}
-.state .top-providers .col.l{float:left; background-color:#f4f4f4;}
-.state .top-providers .col.r{float:right; background-color:#ededed;}
-.state .top-providers .col .top-tv-providers{padding-left:25px;}
-.state .top-providers .title{font-size:20px; margin-bottom:50px;}
-.state .top-providers .title .ico{display:block; background:url(/images/services-icos.png) no-repeat; float:left;}
-.state .top-providers .title .ico.int{background-position:0 0; width:36px; height:24px;}
-.state .top-providers .title .ico.tv{background-position:-36px 0; width:32px; height:25px;}
-.state .top-providers .title .txt{display:block;}
-.state .top-providers .title .txt.int{padding-left:46px;}
-.state .top-providers .title .txt.tv{padding-left:42px;}
-.state .top-providers .logo{width:140px; float:left; margin-left:60px;}
-.state .top-providers .logo.f{margin-left:0;}
-.state .top-providers .divider{width:50px; height:100%; position:absolute; top:0; left:50%; margin-left:-49px; z-index:1;}
-.state .zipcodes .title{font-family:'Montserrat'; font-size:35px; font-weight:700; text-align:center; margin:100px 0 80px;}
-.state .zipcodes .title::after{content:''; display:block; width:200px; height:2px; background-color:#464646; margin:30px auto 0;}
-.state .zipcodes .list{color:#00a7e5; -moz-column-count:6; -webkit-column-count:6; column-count:6;}
-.state .zipcodes .city{font-size:25px;}
-.state .zipcodes .zipcode{display:block; line-height:34px;}
-.state .zipcodes .zipcode.last{margin-bottom:50px;}
-.state .zipcodes .zipcode a{color:inherit; font-size:16px;}
-.state .zipcodes .zipcode a:hover{text-decoration:underline;}
-
- 
-.industry-review{padding-top:20px;}
-.expert-reviews{padding:50px 0 160px;}
-
-.expert-review-list{float:right; margin:0 0 2px 10px; z-index:1;}
-.expert-review-list .title{background:#f0f0f0; font-size:18px; font-weight:400; padding:7px; margin-bottom:8px;}
-.expert-review-list .provider{border-bottom:1px solid #e0e0e0; margin-bottom:8px; padding:0 8px 8px; height:20px;}
-.expert-review-list .provider .num{font-weight:400; padding-right:7px; display:block; float:left; line-height:20px;}
-.expert-review-list .provider .name{display:block; float:left; line-height:20px;}
-.expert-review-list .provider .rating{float:right; line-height:20px; margin:3px 0 0 10px;}
-
-.provider-overview{background-color:#f0f0f0; margin-bottom:50px; max-width:670px; font-size:16px; clear:both;}
-.provider-overview .main-title{background-color:#41484a; padding:30px 40px; color:#fff; font-size:20px;}
-.provider-overview .main-title .num{vertical-align:top;}
-.provider-overview .main-title .name{display:inline-block; max-width:200px;}
-.provider-overview .frm-zipcode{position:absolute; top:12px; right:12px; margin:0;}
-.provider-overview .frm-zipcode .btn{padding-left:15px; padding-right:15px;}
-.provider-overview .frm-zipcode .input{padding-left:15px; padding-right:15px;}
-.provider-overview .logo{float:left; padding:30px; width:200px;}
-.provider-overview .logo .img{display:block; max-width:140px; margin-bottom:10px;}
-.provider-overview .logo .read{color:#00a7e5;}
-.provider-overview .ratings{width:350px; float:right; padding:30px;}
-.provider-overview .ratings .rating{clear:both; margin-bottom:20px;}
-.provider-overview .ratings .rating.last{margin-bottom:0;}
-.provider-overview .ratings .rating .star-rating{float:left;}
-.provider-overview .ratings .rating .txt{float:left; margin-left:18px;}
-.provider-overview .ratings .rating .txt.lg{font-size:25px;}
-.provider-overview .ratings .overall{border-bottom:2px dotted #888; margin-bottom:20px;}
-.provider-overview .ratings .overall .rating .txt{font-size:25px;}
- 
-.primary-image{height:340px; overflow:hidden; margin-bottom:15px;}
-.primary-image img{min-height:100%; float:none; margin:0;}
-
-ol.page-breadcrumbs{list-style:none; margin:0 0 10px 0; font-size:16px;}
-ol.page-breadcrumbs li{display:inline}
-ol.page-breadcrumbs .arr{font-size:20px; padding:0 10px; font-weight:400;}
-ol.page-breadcrumbs a{color:#00a7e5;}
-
-.provider-review{padding:20px 0 70px;}
-.provider-review .review-card{max-width:770px;}
-.provider-review .review-card .main-title{background-color:#41484a; padding:30px 40px; color:#fff; font-size:20px;}
-.provider-review .review-card .main-title .num{}
-.provider-review .review-card .main-title .name{}
-.provider-review .review-card .logo-ratings{padding:10px 40px; background-color:#f4f4f4;}
-.provider-review .review-card .logo-ratings .logo{width:140px; float:left; margin-right:120px;}
-.provider-review .review-card .logo-ratings .ratings{float:left; height:100%;}
-.provider-review .review-card .logo-ratings .ratings .rating{height:100%; float:left;}
-.provider-review .review-card .logo-ratings .ratings .rating.l{padding-right:25px; margin-right:25px; border-right:2px dotted #888;}
-.provider-review .review-card .logo-ratings .ratings .rating .txt{font-size:20px; line-height:20px; display:block; margin-bottom:10px; padding-top:10px;}
-.provider-review .review-card .logo-ratings .ratings .rating .star-rating{margin-bottom:10px;}
-.provider-review .review-card .pros-cons{padding:35px 0 20px; border-bottom:2px dotted #888; margin-bottom:35px;}
-.provider-review .review-card .pros-cons .col{width:50%;}
-.provider-review .review-card .pros-cons .col.l{float:left;}
-.provider-review .review-card .pros-cons .col.r{float:right;}
-.provider-review .review-card .pros-cons .title{font-family:'Montserrat'; font-size:35px; font-weight:700; margin-bottom:30px;}
-.provider-review .review-card .pros-cons .title .ico{display:block; height:20px; background:url(/images/pro-con-icos.png) no-repeat; float:left; margin:11px 0 0 0;}
-.provider-review .review-card .pros-cons .title .ico.pros{width:27px; background-position:0 0; margin-right:20px;}
-.provider-review .review-card .pros-cons .title .ico.cons{width:20px; background-position:-27px 0; margin-right:27px;}
-.provider-review .review-card .pros-cons .list{margin-left:47px;}
-.provider-review .review-card .pros-cons .list li{font-size:16px; line-height:16px; margin-bottom:15px;}
-.provider-review .article{margin-bottom:75px;}
-.provider-review .offers-title{font-family:'Montserrat'; font-size:35px; font-weight:700; margin-bottom:30px;}
-
-.single-offer{padding:50px 0;}
-.single-offer .article{margin-bottom:40px;}
-
-.user-reviews-overview{padding:50px 0;}
-
-.guides-landing{padding:50px 0;}
-.guides-landing .main-title{font-family:'Montserrat'; font-size:35px; font-weight:700; color:inherit; margin-bottom:40px;}
-.guides-landing .main-title a{color:inherit;}
-
-.user-reviews{padding:50px 0;}
-.user-reviews .provider-overview{margin-bottom:50px;}
-.user-reviews .user-review{background-color:#fff; margin-bottom:50px; padding:30px;}
-.user-reviews .user-review .ratings{width:350px; float:left;}
-.user-reviews .user-review .ratings .rating{clear:both; margin-bottom:20px;}
-.user-reviews .user-review .ratings .rating.last{margin-bottom:0;}
-.user-reviews .user-review .ratings .rating .star-rating{float:left;}
-.user-reviews .user-review .ratings .rating .txt{float:left; margin-left:18px;}
-.user-reviews .user-review .ratings .overall{border-bottom:2px dotted #888; margin-bottom:20px;}
-.user-reviews .user-review .ratings .overall .rating .txt{font-size:25px;}
-.user-reviews .user-review .review{float:right; width:698px; padding-left:30px; border-left:2px dotted #888;}
-.user-reviews .user-review .review .date{color:#dedede;float:right;}
-.user-reviews .user-review .review .quick{clear:both; margin-bottom:10px;}
-.user-reviews .user-review .review .quick .ico{display:block; height:20px; background:url(/images/pro-con-icos.png) no-repeat; float:left; margin-top:2px;}
-.user-reviews .user-review .review .quick .ico.pro{width:27px; background-position:0 0; margin-right:15px;}
-.user-reviews .user-review .review .quick .ico.con{width:20px; background-position:-27px 0; padding:0; margin-right:22px;}
-
-.user-reviews .pagination ul{margin:0;}
-.user-reviews .article.info{background-color:#fff; padding:30px; margin-bottom:50px;}
-
-.user-reviews .frm-user-review{clear:both; margin:50px 0; background-color:#fff; padding:30px; display:inline-block;}
-.user-reviews .frm-user-review .title{font-size:25px; margin-bottom:10px;}
-.user-reviews .frm-user-review .info{width:480px; float:left;}
-.user-reviews .frm-user-review .input{border:1px solid #ccc; color:inherit; font-family:inherit; font-size:inherit; font-weight:400; padding:15px 30px; margin-bottom:30px; width:418px;}
-.user-reviews .frm-user-review .input.l{float:left; width:163px;}
-.user-reviews .frm-user-review .input.r{float:right; width:163px;}
-.user-reviews .frm-user-review .input:focus{border-color:#00a7e5;}
-.user-reviews .frm-user-review .input.error{border-color:#c00000;}
-.user-reviews .frm-user-review .textarea{height:100px; resize:vertical;}
-.user-reviews .frm-user-review .stats{width:300px; float:left; margin-left:30px;}
-.user-reviews .frm-user-review .stats .stat{height:24px; margin-bottom:20px;}
-.user-reviews .frm-user-review .stats .stat .lbl{font-weight:400; display:inline-block; line-height:24px;}
-.user-reviews .frm-user-review .stats .stat .lbl.error{color:#c00000;}
-.user-reviews .frm-user-review .stats .stat .stars{width:134px; float:left;}
-.user-reviews .frm-user-review .stats .stat .stars img{float:left;}
-.user-reviews .frm-user-review .stats .verify{width:202px; margin:20px auto; text-align:center;}
-.user-reviews .frm-user-review .stats .verify .title-text{font-weight:500;}
-.user-reviews .frm-user-review .stats .btn{display:block; width:100%;}
-.user-reviews .frm-user-review .complete{border:2px solid; color:#060; padding:10px; background:#effee7; font-weight:700; display:none;}
-
-.qaptcha{width:252px; position:relative;}
-.qaptcha .clr{clear:both;}
-.qaptcha .bgSlider{width:202px; height:22px; background:transparent url(/images/qaptcha.png) no-repeat 0 -22px; float:left;}
-.qaptcha .Slider{width:48px; height:22px; background:transparent url(/images/qaptcha.png) no-repeat -32px 0; cursor:e-resize; position:absolute; left:0;}
-.qaptcha #Icons{float:left; width:16px; height:16px; background:transparent url(/images/qaptcha.png) no-repeat 0 0; margin-top:3px; margin-left:10px;}
-.qaptcha .TxtStatus{width:210px; padding-top:5px; text-align:center; font-size:10px; clear:both; font-weight:700;}
-.qaptcha .dropSuccess{color:#24d1c3;}
-.qaptcha .dropError{color:#bb2828;}
-
-.sidebar{width:300px; float:right;}
-.sidebar .item{margin-bottom:20px; padding:10px;}
-.sidebar .color-block .title{text-align:right; color:#fff; font-size:28px; text-shadow:0 1px 0 rgba(0, 0, 0, 0.2); position:absolute; top:10px; right:15px;}
-.sidebar .color-block .ico{display:block; background:url(/images/sidebar.png) no-repeat; position:absolute;}
-.sidebar .color-block .select{position:absolute; bottom:20px; right:15px; width:204px; height:30px; font-weight:400; outline-width:0; box-shadow:0 2px 3px rgba(0, 0, 0, 0.2); border:0; color:inherit; font-size:inherit;}
-
-.sidebar .expert-reviews{background:#3b83b3; box-shadow:0 0 0 6px #4d92c0 inset, 0 3px 3px rgba(0, 0, 0, 0.2); height:77px;}
-.sidebar .expert-reviews .ico{width:89px; height:106px; background-position:-86px 0; top:-11px; left:-12px;}
-
-.sidebar .guides-and-advice{background:#f19349; box-shadow:0 0 0 6px #f8a665 inset, 0 3px 3px rgba(0, 0, 0, 0.2); height:77px;}
-.sidebar .guides-and-advice .ico{width:86px; height:83px; background-position:0 0; top:7px; left:-10px;}
-
-.sidebar .frm-zipcode{background:#cddee2; box-shadow:0 0 0 6px #d8e3e5 inset, 0 3px 3px rgba(0, 0, 0, 0.2); height:155px;}
-.sidebar .frm-zipcode .ico{width:98px; height:96px; background-position:-175px 0; top:7px; left:-6px;}
-.sidebar .frm-zipcode .title{color:#206a89; width:185px;}
-.sidebar .frm-zipcode .input{width:188px; height:40px; padding:0 10px; border:1px solid #fff; font-size:inherit; color:inherit; position:absolute; bottom:15px; left:15px;}
-.sidebar .frm-zipcode .input.error{border-color:#c00000;}
-.sidebar .frm-zipcode .btn{width:56px; height:42px; font-size:20px; line-height:42px; position:absolute; bottom:15px; right:15px; padding:0;}
-
-.sidebar .contact-address{border:1px solid #e0e0e0; background:#f4f4f4;}
-.sidebar .contact-address p{line-height:24px; font-size:16px;}
-.sidebar .contact-address p.company{color:#007aff; font-weight:400;}
-
-.sidebar .fb{text-align:center;}
- 
-@media all and (max-width:1200px){
-*{-webkit-appearance:none;}
-select{-webkit-appearance:menulist-button; background:#fff;}
-.con{width:auto;}
-.stretch{width:auto; min-width:0;}
-.main{width:auto; float:none;}
-
-.header{height:auto; padding:30px 0;}
-.header .con{text-align:center;}
-.header .ico-menu{display:block;}
-.header .logo{float:none; margin:0 50px;}
-.header .logo img{max-width:100%;}
-
-.header .nav{display:none; text-align:left; top:100%;}
-.header .nav .menu{float:none; margin:0;}
-.header .nav .menu li{float:none; display:block; margin:0; font-size:18px; border-bottom:1px solid #e0e0e0;; padding:5px 0;}
-.header .nav .menu li.last{border-bottom:0;}
-
-.footer .internal-links .bio{width:calc(50% - 25px); margin:0;}
-.footer .internal-links .resources-wrap{width:50%; float:right;}
-.footer .internal-links .resources{width:50%;}
-.footer .internal-links .resources:nth-child(-n+2){margin-bottom:25px;}
-
-.page-title{padding:25px 0;}
-.page-title h1{font-size:35px; line-height:45px;}
-.page-title .frm-zipcode{margin-top:25px;}
-
-.primary-image{margin:0 auto 15px; text-align:center; height:auto;}
-.primary-image img{width:auto; max-width:100%;}
-
-.home .splash{height:320px;}
-.home .splash .ico{display:none;}
-.home .splash h1{font-size:35px; line-height:45px; padding:65px 0 30px 0; text-align:center; width:500px; margin:0 auto;}
-.home .splash .frm-zipcode{margin:0 auto; font-size:0; text-align:center;}
-.home .splash .frm-zipcode .input{float:none;}
-.home .splash .frm-zipcode .btn{float:none;}
-.home .splash .providers{width:calc(100% - 20px); left:10px; background-position:20px center; overflow-x:scroll;}
-.home .splash .providers .scroll{width:1162px;}
-.home .section{padding:60px 0;}
-.home .section .main-title{margin-bottom:40px;}
-.home .section.states .map{width:auto; height:auto; min-height:0;}
-.home .section.read-reviews .intro{padding:0;}
-.home .section.latest-guides{font-size:0;}
-.home .section.latest-guides .con{text-align:center;}
-.home .section.latest-guides .guide{float:none; display:inline-block; margin-left:30px; margin-bottom:45px;}
-.home .section.latest-guides .guide:nth-child(n+4){display:none;}
-.home .section.latest-guides .categories{width:auto;}
-.home .section.latest-guides .categories .category{width:calc(25% - 2px);}
-.home .section.latest-guides .categories .category.l{width:25%;}
-.home .section.latest-guides .categories .category .txt{padding:30px 15px 0;}
-
-.review-types{width:auto;}
-.review-types .review-type{width:calc(33% - 20px);}
-.review-types .review-type.m{margin-left:30px;}
-.review-types .review-type .txt{margin:0 15px 25px;}
-
-.user-reviews .user-review .ratings{width:300px;}
-.user-reviews .user-review .review{width:calc(100% - 362px);}
-
-.results .location-title{margin-bottom:0; height:auto;}
-.results .location-title .promo{display:none;}
-.results .location-title h1{padding-left:0; text-align:center;}
-.results .tabs{display:block;}
-.results .filter{float:none; width:auto;}
-.results .filter .filter-option{display:none;}
-.results .filter .zipcode{display:none;}
-.results .filter .nearby-zipcodes{display:none;}
-.results .filter .nearby-zipcodes a.last{margin-right:25px;}
-.results .filter .nearby-zipcodes a.bot.last{margin-right:0;}
-.results .filter .filter-option.apply-filters.active{display:block;}
-.results .offers{float:none; width:auto; padding:30px 20px; background:#f2f2f2; border-top:1px solid #ddd;}
-.results .offers .page-description{float:none; text-align:center;}
-.results .offers .sort-options{float:none; text-align:center;}
-.results .offers .sort-options .lbl{display:block; line-height:normal; margin-bottom:15px;}
-.results .offers .sort-options .selcon{width:50%;}
-.results .no-results{padding:20px;}
-.offer-card{ background:#fff; height:auto;}
-.offer-card .title{height:auto;}
-.offer-card .details{height:auto;}
-.offer-card .details .offer-specs{float:none; width:auto; height:100px; border:1px solid #ddd; border-width:1px 0;}
-.offer-card .details .block{}
-.offer-card .details .block.telephone{border:0;}
-.offer-card .details .val{bottom:45px;}
-.offer-card .details .lbl{bottom:30px;}
-.offer-card .details .logo-icons{width:auto; float:none; text-align:center; padding:25px 0; border:0;}
-.offer-card .details .price-cta{width:auto; clear:both; float:none; text-align:center; padding:25px 0;}
-.offer-card .details .icons{padding:0; margin-bottom:25px;}
-.offer-card .details .logo .img{margin:0 auto;}
-.offer-card .details.download{clear:both;}
-.offer-card .details .wheel{display:none;}
-.offer-card .details .price{margin-top:0;}
-
-.slider-wrap{height:auto;}
-.slider-wrap .arr{display:none;}
-.slider{position:static; top:auto; left:auto; text-align:center;}
-.slider .guide{float:none; max-width:320px; margin:0 10px 20px; height:auto; display:inline-block; vertical-align:top;}
-.slider .guide .title{text-align:center;}
-.slider .guide.more{display:none;}
-
-.state .top-providers .con{text-align:center;}
-.state .top-providers .title{text-align:left;}
-.state .top-providers .logo{margin:0 10px!important; float:none;}
-.state .top-providers .divider{display:none;}
-.state .zipcodes .list{-moz-column-count:4; -webkit-column-count:4; column-count:4;}
-}
-
-@media (max-width:680px){
-
-.home .splash{height:auto; padding-bottom:43px;}
-.home .splash h1{width:auto; padding:30px 0;}
-.home .splash .frm-zipcode{margin-bottom:25px;}
-.home .splash .providers{bottom:-85px;}
-.home .section.latest-guides .guide{margin-left:0;}
-
-.provider-overview .main-title{padding:10px;}
-.provider-overview .main-title .name{max-width:none;}
-.provider-overview .frm-zipcode{position:relative; top:auto; right:auto; margin-top:10px; margin-bottom:0;}
-.provider-overview .logo{float:none; padding:15px; width:auto; text-align:center;}
-.provider-overview .logo .img{margin:0 auto 10px;}
-.provider-overview .ratings{float:none; width:auto; padding:0 25px 25px;}
-.provider-overview .ratings .rating{width:275px; margin:0 auto 15px;}
-.provider-overview .ratings .rating .star-rating{float:none; display:inline-block;}
-.provider-overview .ratings .rating .txt{float:none; display:inline-block;}
-
-.user-reviews .user-review .ratings{width:auto; float:none; margin-bottom:25px;}
-.user-reviews .user-review .review{width:auto; float:none; border:0; padding:0;}
-
-.user-reviews .frm-user-review .info{width:auto; float:none;}
-.user-reviews .frm-user-review .input{width:calc(100% - 62px)!important;}
-.user-reviews .frm-user-review .input.l{float:none;}
-.user-reviews .frm-user-review .input.r{float:none;}
-.user-reviews .frm-user-review .stats{float:none; margin:0; width:auto;}
-
-.results{padding:0;}
-.results .offers .sort-options .selcon{width:calc(100% - 4px);}
-.offer-card .title .tag{display:none;}
-.offer-card .title .name{max-width:calc(100% - 40px)!important;}
-.offer-card .details .offer-specs{height:201px;}
-.offer-card .details .offer-specs .block{width:calc(50%); height:calc(50% - 1px);}
-.offer-card .details .block.download{width:calc(50% - 1px); border-width:0 1px 1px 0;}
-.offer-card .details .block.upload{border-width:0 0 1px 0;}
-.offer-card .details .block.television{width:calc(50% - 1px); border-width:0 1px 0 0;}
-.offer-card .details .block.telephone{}
-.offer-card .extras{text-align:right;}
-.offer-card .extras .extra{max-widith:none; margin-left:0; margin-bottom:10px; display:block;}
-
-.industry-review .provider-overview .logo .img{display:inline-block;}
-.industry-review .provider-overview .logo .btn{vertical-align:top; margin-left:50px;}
-.industry-review .provider-overview .ratings{padding:0; font-size:0;}
-.industry-review .provider-overview .ratings .rating{font-size:0; text-align:center; width:50%; display:inline-block;}
-.industry-review .provider-overview .ratings .rating .txt{display:block; margin:0;}
-.industry-review .provider-overview .ratings .rating .star-rating{margin:0 auto;}
-.industry-review .provider-overview .ratings .overall{padding-bottom:0; border-bottom:0; display:inline-block; width:50%;}
-.industry-review .provider-overview .ratings .overall .rating{width:100%;}
-
-.review-types .review-type{width:calc(33% - 7px);}
-.review-types .review-type.m{margin-left:15px;}
-.review-types .review-type .txt{margin:0 5px 25px 0;}
-
-.review-types .review-type .btn{padding-left:0; padding-right:0; display:block; margin:0 10px 10px;}
-
-.article.provider-description{-moz-column-count:auto; -webkit-column-count:auto; column-count:auto;}
-.article img{max-width:100%; height:auto;}
-
-}
-
-@media (max-width:480px){
-
-.frm-zipcode .input{padding-left:12px; padding-right:12px;}
-.frm-zipcode .btn{padding-left:12px; padding-right:12px;}
-
-.footer .internal-links .bio{width:auto; float:none; margin-bottom:25px;}
-.footer .internal-links .resources-wrap{width:auto; float:none; margin-bottom:25px;}
-.footer .share .con{text-align:center;}
-.footer .share .logo{float:none; margin:0 auto 10px;}
-.footer .share .social{float:none; margin:0 auto;}
-
-.home .splash h1{font-size:28px; line-height:38px;}
-.home .section{padding:40px 0;}
-.home .section.latest-guides .categories .category{width:calc(50% - 2px);}
-.home .section.latest-guides .categories .category:nth-child(2n+1){border-left:0; width:50%;}
-.home .section.latest-guides .categories .category.l{width:50%;}
-.home .section.latest-guides .categories .category.b{border-bottom-width:2px;}
-.home .section.latest-guides .categories .category .txt{padding:30px 5px;}
-
-.industry-review .provider-overview .logo .img{display:block;}
-.industry-review .provider-overview .logo .btn{margin:0 auto;}
-.industry-review .provider-overview .ratings .overall{width:100%; margin-bottom:0;}
-.industry-review .provider-overview .ratings .rating{width:100%;}
-
-.provider-review .review-card .logo-ratings .ratings .rating{display:block; float:none;}
-.provider-review .review-card .logo-ratings .ratings .rating.l{padding-right:0; margin-right:0; border:0;}
-.provider-review .review-card .pros-cons .col{width:100%;}
-.provider-review .review-card .pros-cons .col.l{float:none; margin-bottom:25px;}
-.provider-review .review-card .pros-cons .col.r{float:none;}
-.provider-review .review-card .pros-cons .title{margin-bottom:15px;}
-
-.provider-overview .frm-zipcode .input{padding-left:7px; padding-right:7px;}
-.provider-overview .frm-zipcode .btn{padding-left:7px; padding-right:7px;}
-
-.review-types .review-type{width:100%; margin:0 0 25px 0!important;}
-
-.expert-review-list{float:none; margin:0 0 10px 0;}
-
-.state .top-providers .col{width:auto; float:none!important;}
-.state .top-providers .strip{display:none;}
-.state .zipcodes .list{-moz-column-count:2; -webkit-column-count:2; column-count:2;}
-}
-
-@media (max-width:320px){
-
-.frm-zipcode .input{padding-left:8px; padding-right:8px;}
-.frm-zipcode .btn{padding-left:8px; padding-right:8px;}
-
-.user-reviews .user-review{padding:10px;}
-.user-reviews .frm-user-review{padding:10px;}
-.provider-overview .frm-zipcode .input{padding-left:5px; padding-right:5px; font-size:14px;}
-.provider-overview .frm-zipcode .btn{padding-left:5px; padding-right:5px; font-size:14px; line-height:18px;}
-
-.page-title h1{font-size:30px; line-height:40px;}
-.article .verdict{padding:15px 30px; margin-bottom:15px;}
-.state .zipcodes .list{-moz-column-count:auto; -webkit-column-count:auto; column-count:auto;}
-}
 </style>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js?ver=2.1.0"></script>
+<script type="text/javascript" src="https://www.highspeedinternet.com/app/plugins/wpmapi/js/wpmapi.min.js?ver=2019-05-28T15:07:24.849Z"></script>
 
-<!--[if lt IE 9]><script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WV9NCH"></script><script src="https://use.typekit.net/yoo5mty.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<!-- This site is optimized with the Schema plugin v1.7.5 - https://schema.press -->
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.highspeedinternet.com\/privacy-policy"},"url":"https:\/\/www.highspeedinternet.com\/privacy-policy","headline":"","datePublished":"2018-10-25T14:15:46+00:00","dateModified":"2019-05-06T10:46:48+00:00","publisher":{"@type":"Organization","@id":"https:\/\/www.highspeedinternet.com\/#organization","name":"HighSpeedInternet.com","logo":{"@type":"ImageObject","url":"https:\/\/www.highspeedinternet.com\/app\/uploads\/hsi-logo-wide.png","width":600,"height":60}},"description":"","author":{"@type":"Person","name":"Milo","url":"https:\/\/www.highspeedinternet.com\/resources\/author\/milo","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/172d1cf557974fe8a9ccb831329cdd1e?s=96&d=mm&r=g","height":96,"width":96}},"image":"https:\/\/www.highspeedinternet.com\/app\/uploads\/hsi-logo-wide.png"}</script>
 
-</head>
-<body>
+<style type="text/css" id="et-social-custom-css">
+				 
+			</style>
+                            <script type="text/javascript" src="https://cdn.clear.link/mapi/latest/mapi-full.min.js"></script>
+                        <!--suppress JSUnusedAssignment -->
+            <script type="text/javascript">
+                window.mapiEvents = window.mapiEvents || {
+                    ev: {},
+                    on: function(e, cb) {
+                        if(!this.ev[e]) this.ev[e] = [];
+                        this.ev[e].push(cb);
+                    }
+                };
 
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WV9NCH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WV9NCH');</script>
-<!-- End Google Tag Manager -->
+                (function() {
+                    var data = {"mapiAjaxUrl":"https:\/\/www.highspeedinternet.com\/wp\/wp-admin\/admin-ajax.php","mapiDefaultPromo":"88451","mapiPagePromo":"","nonces":{"mapi_hb":"94d4dbc3d9","mapi_token_numbers":"baa06c096b","mapi_set_request_id":"46e7a22b61"},"mapiBaseUrl":"https:\/\/mapi.clearlink.com","mapiLeadEndpoint":null,"rewriteExternalLinks":true};
 
-<header class="header stretch">
-	<div class="con">
-        <a class="logo" href="http://www.broadbandexpert.com"><img src="http://www.broadbandexpert.com/images/logo.png" alt="BroadbandExpert"></a>
-        <nav class="nav">
-            <ul class="menu">
-            	<li class="first"><a href="http://www.broadbandexpert.com/high-speed-internet/">Internet</a></li><li><a href="http://www.broadbandexpert.com/cable/">TV</a></li><li><a href="http://www.broadbandexpert.com/tv-and-internet-bundles/">Bundles</a></li><li><a href="http://www.broadbandexpert.com/reviews/">Broadband Expert Reviews</a></li><li><a href="http://www.broadbandexpert.com/high-speed-internet-reviews/">User Reviews</a></li><li class="last"><a href="http://www.broadbandexpert.com/guides/">Guides</a></li>            </ul>
-        </nav>
-        <a class="ico-menu" href="javascript:void(0)">
-        	<span class="bar t"></span>
-        	<span class="bar m"></span>
-        	<span class="bar b"></span>
-        </a>
+                    window.mapiAjaxUrl      = data.mapiAjaxUrl;
+                    window.mapiDefaultPromo = data.mapiDefaultPromo;
+                    window.mapiPagePromo    = data.postPromo;
+                    window.mapiNonces       = data.nonces;
+                    window.mapiBaseUrl      = data.mapiBaseUrl;
+                    window.mapiRewriteExternalLinks = data.rewriteExternalLinks;
+                    window.mapiLeadEndpoint = data.mapiLeadEndpoint;
+                })();
+            </script>
+
+            
+
+            <link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet">  <script>
+    if("undefined" === typeof window.SITE){
+      window.SITE = {};
+    }
+    window.SITE = {
+      postID: 59680    };
+  </script>
+    <script>
+    if(undefined === typeof window.SITE){
+      window.SITE = {};
+    }
+    window.SITE = {
+      siteURL: 'https://www.highspeedinternet.com',
+      stylesheetUri: 'https://www.highspeedinternet.com/app/themes/coolwhip-child',
+      templateUri: 'https://www.highspeedinternet.com/app/themes/coolwhip',
+      adminAjax: 'https://www.highspeedinternet.com/wp/wp-admin/admin-ajax.php',
+      postID: 59680,
+      termID: false    };
+  </script>
+  <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.highspeedinternet.com/app/plugins/visual-composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="https://www.highspeedinternet.com/app/uploads/cropped-hsi-icon-5-32x32.png" sizes="32x32">
+<link rel="icon" href="https://www.highspeedinternet.com/app/uploads/cropped-hsi-icon-5-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://www.highspeedinternet.com/app/uploads/cropped-hsi-icon-5-180x180.png">
+<meta name="msapplication-TileImage" content="https://www.highspeedinternet.com/app/uploads/cropped-hsi-icon-5-270x270.png">
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+      <script>!function(a,b,c,d,e){a[d]=a[d]||[],a[d].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var f=b.getElementsByTagName(c)[0],g=b.createElement(c),h="dataLayer"!=d?"&l="+d:"";g.async=!0,g.src="//www.googletagmanager.com/gtm.js?id="+e+h,f.parentNode.insertBefore(g,f)}(window,document,"script","dataLayer","GTM-MNVCC3");</script>
+    </head>
+    <body class="page-template-default page page-id-59680 et_monarch wpb-js-composer js-comp-ver-5.4.7 vc_responsive" data-component="body">
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MNVCC3" height=0 width=0 style=display:none;visibility:hidden></iframe></noscript>
+    
+    
+
+<header role="banner">
+  <div class="row">
+    <div class="columns small-6 medium-4">
+      <a href="https://www.highspeedinternet.com/" rel="home" title="High Speed Internet Providers" class="hsi-logo">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 50"><g fill="none"><path fill="#0E3851" d="M259.696 32.6a3.1 3.1 0 0 0-.28 1.29 3.1 3.1 0 0 0 .39 1.508c-.155.068-.39.136-.705.204-.317.069-.724.103-1.222.103-1.235 0-2.213-.343-2.933-1.029-.72-.686-1.08-1.647-1.08-2.882v-5.892h-2.29v-3.036h.643c.669 0 1.162-.193 1.479-.58.317-.385.476-.861.476-1.427v-1.776h3.088v3.783h2.547v3.036h-2.547v5.3c0 .55.124.931.373 1.145.249.215.622.322 1.12.322.205 0 .41-.008.617-.026.133-.01.241-.025.324-.044zM58.828 35.524V27.96h-7.95v7.565h-3.551V17.282h3.55v7.333h7.951v-7.333h3.577v18.243h-3.577zm6.716 0v-12.66h3.422v12.66h-3.422zm-.412-16.802c0-.6.206-1.106.618-1.518a2.032 2.032 0 0 1 1.492-.617c.6 0 1.102.205 1.505.617.404.412.605.918.605 1.518 0 .566-.201 1.055-.605 1.467-.403.412-.904.617-1.505.617-.583 0-1.08-.205-1.492-.617a2.004 2.004 0 0 1-.618-1.467zm8.903 16.674c.12.703.438 1.277.952 1.723.515.446 1.184.67 2.007.67 1.08 0 1.913-.28 2.496-.837.583-.557.875-1.454.875-2.689v-.926c-.258.412-.678.785-1.261 1.12-.583.334-1.338.501-2.264.501a5.88 5.88 0 0 1-2.342-.463 5.585 5.585 0 0 1-1.865-1.287 6.062 6.062 0 0 1-1.235-1.942c-.3-.746-.45-1.565-.45-2.457 0-.841.145-1.634.437-2.38a6.31 6.31 0 0 1 1.21-1.969 5.581 5.581 0 0 1 1.852-1.338c.72-.326 1.518-.489 2.393-.489 1.012 0 1.81.18 2.393.54.583.36.986.755 1.209 1.184v-1.492h3.293V34.16a8.38 8.38 0 0 1-.373 2.51 5.787 5.787 0 0 1-1.17 2.11c-.532.608-1.218 1.097-2.059 1.466-.84.369-1.852.553-3.036.553-.875 0-1.668-.124-2.38-.373a6.367 6.367 0 0 1-1.865-1.004 5.219 5.219 0 0 1-1.287-1.466 4.75 4.75 0 0 1-.618-1.737l3.088-.823zm3.397-3.371c.874 0 1.59-.292 2.148-.875s.836-1.364.836-2.341c0-.978-.291-1.754-.875-2.33a2.897 2.897 0 0 0-2.11-.861c-.428 0-.827.073-1.196.219-.369.145-.69.36-.965.643a3.023 3.023 0 0 0-.643 1.016 3.573 3.573 0 0 0-.232 1.313c0 .994.283 1.78.85 2.354.566.575 1.295.862 2.187.862zm12.427 3.5h-3.422v-18.63h3.422v7.025a3.409 3.409 0 0 1 1.57-1.068 5.772 5.772 0 0 1 1.852-.322c.807 0 1.506.133 2.098.4a4.16 4.16 0 0 1 1.466 1.067c.386.446.673.978.862 1.595.189.618.283 1.27.283 1.956v7.976h-3.422V28.14c0-.72-.184-1.321-.553-1.802-.369-.48-.965-.72-1.788-.72-.72 0-1.287.236-1.699.708-.411.471-.634 1.059-.669 1.762v7.436zm20.173-12.918a4.27 4.27 0 0 0-.27-.836 2.671 2.671 0 0 0-.58-.836 3.094 3.094 0 0 0-.99-.643c-.403-.172-.896-.258-1.48-.258-.428 0-.818.065-1.17.193-.352.13-.652.3-.9.515a2.356 2.356 0 0 0-.58.733 1.93 1.93 0 0 0-.205.875c0 .498.163.93.489 1.3.326.368.823.621 1.492.759l2.547.489c.824.154 1.553.403 2.187.746a5.96 5.96 0 0 1 1.596 1.222c.428.472.754 1 .977 1.582.223.584.335 1.192.335 1.827 0 .703-.146 1.394-.438 2.071a5.354 5.354 0 0 1-1.273 1.802c-.558.523-1.244.947-2.059 1.273-.814.326-1.754.49-2.817.49-1.218 0-2.264-.177-3.14-.528-.874-.352-1.607-.802-2.2-1.351a5.761 5.761 0 0 1-1.35-1.84 6.43 6.43 0 0 1-.566-1.994l3.293-.875c.035.446.142.875.322 1.287.18.411.433.776.76 1.093.325.318.728.57 1.208.76.48.188 1.047.282 1.699.282.96 0 1.694-.21 2.2-.63.506-.42.759-.956.759-1.608 0-.532-.19-.99-.566-1.377-.378-.386-.927-.647-1.647-.785l-2.547-.514c-1.459-.292-2.62-.888-3.487-1.788-.866-.901-1.3-2.046-1.3-3.436 0-.806.168-1.556.502-2.25.335-.696.794-1.3 1.377-1.815a6.525 6.525 0 0 1 2.033-1.21 6.859 6.859 0 0 1 2.444-.437c1.098 0 2.037.15 2.818.45.78.3 1.428.682 1.942 1.146.515.463.914.973 1.197 1.53.283.558.476 1.094.579 1.609l-3.191.977zm5.043 17.806V22.866h3.32v1.544c.291-.498.771-.927 1.44-1.287.67-.36 1.484-.54 2.445-.54.926 0 1.75.167 2.47.502.72.334 1.334.797 1.84 1.389a6.001 6.001 0 0 1 1.145 2.084c.257.798.386 1.668.386 2.612a8.07 8.07 0 0 1-.425 2.663 6.232 6.232 0 0 1-1.21 2.11 5.553 5.553 0 0 1-1.89 1.39c-.738.334-1.553.501-2.445.501-.875 0-1.625-.15-2.251-.45-.626-.3-1.094-.665-1.403-1.094v6.124h-3.422zm9.675-11.219c0-1.132-.305-2.006-.914-2.624a3.008 3.008 0 0 0-2.225-.926 3.08 3.08 0 0 0-1.235.244 3.102 3.102 0 0 0-1.004.695c-.291.3-.519.669-.682 1.106-.163.438-.244.94-.244 1.505 0 .567.081 1.068.244 1.506.163.437.39.81.682 1.119a3.01 3.01 0 0 0 1.004.708 3.08 3.08 0 0 0 1.235.244c.875 0 1.616-.313 2.225-.94.61-.625.914-1.504.914-2.637zm13.457-1.44a3.105 3.105 0 0 0-.193-.914 2.2 2.2 0 0 0-.515-.797 2.659 2.659 0 0 0-.875-.567c-.351-.145-.767-.218-1.247-.218-.446 0-.841.077-1.184.231a2.911 2.911 0 0 0-.875.592 2.619 2.619 0 0 0-.772 1.673h5.66zm3.19 4.142a5.383 5.383 0 0 1-1.956 2.83c-.48.36-1.041.648-1.684.863a6.68 6.68 0 0 1-2.123.321 6.96 6.96 0 0 1-2.496-.45 6.042 6.042 0 0 1-2.084-1.325A6.352 6.352 0 0 1 129.626 32c-.352-.84-.528-1.792-.528-2.856 0-1.012.172-1.93.515-2.753a6.413 6.413 0 0 1 1.376-2.097 6.18 6.18 0 0 1 1.995-1.338 5.984 5.984 0 0 1 2.341-.476c1.973 0 3.508.583 4.606 1.75 1.098 1.166 1.647 2.77 1.647 4.811 0 .24-.009.468-.026.682a8.577 8.577 0 0 0-.026.373h-9.057c.017.412.116.793.296 1.145s.412.656.695.913c.283.258.613.46.99.605.378.146.78.219 1.21.219.806 0 1.436-.18 1.89-.54.455-.36.786-.824.991-1.39l2.856.85zm10.267-4.142a3.106 3.106 0 0 0-.193-.914 2.2 2.2 0 0 0-.515-.797 2.659 2.659 0 0 0-.875-.567c-.351-.145-.767-.218-1.247-.218-.446 0-.841.077-1.184.231a2.911 2.911 0 0 0-.875.592 2.619 2.619 0 0 0-.772 1.673h5.66zm3.19 4.142a5.383 5.383 0 0 1-1.956 2.83c-.48.36-1.041.648-1.684.863a6.68 6.68 0 0 1-2.123.321 6.96 6.96 0 0 1-2.496-.45 6.042 6.042 0 0 1-2.084-1.325A6.352 6.352 0 0 1 143.083 32c-.352-.84-.528-1.792-.528-2.856 0-1.012.172-1.93.515-2.753a6.413 6.413 0 0 1 1.377-2.097 6.18 6.18 0 0 1 1.994-1.338 5.984 5.984 0 0 1 2.341-.476c1.973 0 3.508.583 4.606 1.75 1.098 1.166 1.647 2.77 1.647 4.811 0 .24-.009.468-.026.682a8.577 8.577 0 0 0-.026.373h-9.057c.017.412.116.793.296 1.145s.412.656.695.913c.283.258.613.46.99.605.378.146.78.219 1.21.219.806 0 1.436-.18 1.89-.54.455-.36.786-.824.991-1.39l2.856.85zm14.435 1.338c0 .429.009.854.026 1.274.017.42.043.759.077 1.016h-3.268a4.474 4.474 0 0 1-.09-.617 9.097 9.097 0 0 1-.038-.85c-.292.498-.742.918-1.351 1.261-.609.343-1.342.515-2.2.515-.91 0-1.741-.167-2.496-.502a5.755 5.755 0 0 1-1.943-1.39 6.514 6.514 0 0 1-1.273-2.11c-.309-.814-.463-1.702-.463-2.662 0-.927.15-1.793.45-2.599.3-.806.716-1.505 1.248-2.097a5.805 5.805 0 0 1 1.917-1.402 5.81 5.81 0 0 1 2.457-.515c.549 0 1.025.051 1.428.154.403.103.75.232 1.042.386.292.155.528.322.708.502.18.18.313.356.399.528v-7.23h3.37v16.338zm-9.571-4.065c0 1.132.295 2.015.887 2.65.592.635 1.343.952 2.252.952.874 0 1.612-.317 2.212-.952.6-.635.901-1.527.901-2.676 0-1.132-.3-2.003-.9-2.612-.6-.609-1.339-.913-2.213-.913a3.01 3.01 0 0 0-2.226.926c-.609.618-.913 1.493-.913 2.625zm12.762 6.355V17.282h3.602v18.243h-3.602zm10.163 0h-3.422v-12.66h3.32v1.57a3.58 3.58 0 0 1 1.608-1.44 4.893 4.893 0 0 1 2.045-.464c.79 0 1.471.133 2.046.4.574.265 1.05.62 1.428 1.067.377.446.656.978.836 1.595.18.618.27 1.27.27 1.956v7.976h-3.422V28.14c0-.72-.184-1.321-.553-1.802-.369-.48-.965-.72-1.788-.72-.755 0-1.338.253-1.75.759-.412.506-.618 1.128-.618 1.865v7.282zm15.053-12.66h2.547v3.037h-2.547v5.3c0 .55.124.931.373 1.145.249.215.622.322 1.12.322.205 0 .41-.008.617-.026.205-.017.351-.043.437-.077v2.83a3.71 3.71 0 0 1-.708.206c-.317.069-.724.103-1.222.103-1.235 0-2.213-.343-2.933-1.029-.72-.686-1.08-1.647-1.08-2.882v-5.892h-2.29v-3.036h.643c.669 0 1.162-.193 1.479-.58.317-.385.476-.861.476-1.427v-1.776h3.088v3.783zm12.71 4.89a3.105 3.105 0 0 0-.192-.914 2.2 2.2 0 0 0-.515-.797 2.659 2.659 0 0 0-.875-.567c-.352-.145-.768-.218-1.248-.218-.446 0-.84.077-1.183.231a2.911 2.911 0 0 0-.875.592 2.619 2.619 0 0 0-.772 1.673h5.66zm3.191 4.142a5.382 5.382 0 0 1-1.956 2.83c-.48.36-1.041.648-1.685.863a6.68 6.68 0 0 1-2.123.321 6.96 6.96 0 0 1-2.495-.45 6.042 6.042 0 0 1-2.085-1.325A6.352 6.352 0 0 1 201.825 32c-.351-.84-.527-1.792-.527-2.856 0-1.012.171-1.93.515-2.753a6.413 6.413 0 0 1 1.376-2.097 6.18 6.18 0 0 1 1.994-1.338 5.984 5.984 0 0 1 2.342-.476c1.972 0 3.508.583 4.605 1.75 1.098 1.166 1.647 2.77 1.647 4.811 0 .24-.008.468-.025.682a8.576 8.576 0 0 0-.026.373h-9.057c.017.412.115.793.296 1.145a3.123 3.123 0 0 0 1.684 1.518c.378.146.781.219 1.21.219.806 0 1.437-.18 1.891-.54.455-.36.785-.824.991-1.39l2.856.85zm9.83-5.635a5.236 5.236 0 0 0-1.03-.103c-.446 0-.866.06-1.26.18a2.58 2.58 0 0 0-1.03.592c-.292.275-.528.64-.708 1.094-.18.454-.27 1.025-.27 1.71v5.79h-3.422v-12.66h3.32v1.88a3.01 3.01 0 0 1 .733-1.017c.3-.266.617-.468.952-.605a4.404 4.404 0 0 1 1.003-.283c.335-.051.639-.077.914-.077a5.998 5.998 0 0 1 .797.051v3.448zm5.068 9.263h-3.422v-12.66h3.32v1.57a3.58 3.58 0 0 1 1.607-1.44 4.893 4.893 0 0 1 2.046-.464c.789 0 1.47.133 2.045.4.575.265 1.051.62 1.428 1.067.378.446.657.978.837 1.595.18.618.27 1.27.27 1.956v7.976h-3.422V28.14c0-.72-.185-1.321-.553-1.802-.37-.48-.965-.72-1.789-.72-.755 0-1.338.253-1.75.759-.411.506-.617 1.128-.617 1.865v7.282zm18.99-7.77a3.105 3.105 0 0 0-.194-.914 2.2 2.2 0 0 0-.514-.797 2.659 2.659 0 0 0-.875-.567c-.352-.145-.768-.218-1.248-.218-.446 0-.84.077-1.184.231a2.911 2.911 0 0 0-.875.592 2.619 2.619 0 0 0-.772 1.673h5.661zm3.19 4.142a5.383 5.383 0 0 1-1.956 2.83c-.48.36-1.042.648-1.685.863a6.68 6.68 0 0 1-2.123.321 6.96 6.96 0 0 1-2.496-.45 6.042 6.042 0 0 1-2.084-1.325A6.352 6.352 0 0 1 238.903 32c-.352-.84-.527-1.792-.527-2.856 0-1.012.171-1.93.514-2.753a6.413 6.413 0 0 1 1.377-2.097 6.18 6.18 0 0 1 1.994-1.338 5.984 5.984 0 0 1 2.341-.476c1.973 0 3.508.583 4.606 1.75 1.098 1.166 1.647 2.77 1.647 4.811 0 .24-.009.468-.026.682a8.577 8.577 0 0 0-.026.373h-9.057c.017.412.116.793.296 1.145s.412.656.695.913c.283.258.613.46.99.605.378.146.781.219 1.21.219.806 0 1.436-.18 1.891-.54.455-.36.785-.824.99-1.39l2.857.85z"></path><path fill="#07A6CD" d="M265.64 33.987a3.104 3.104 0 0 0-1.037-2.418 5.75 5.75 0 0 1-.053-.791c0-.733.125-1.409.376-2.026a4.75 4.75 0 0 1 1.042-1.592 4.824 4.824 0 0 1 1.563-1.043 4.964 4.964 0 0 1 1.94-.376c.643 0 1.219.093 1.727.28.508.187.949.428 1.322.724.373.296.675.636.907 1.022.231.386.399.779.502 1.178l-2.297.772a2.602 2.602 0 0 0-.666-1.1c-.328-.335-.807-.502-1.437-.502-.335 0-.647.058-.936.173-.29.116-.544.287-.763.512a2.447 2.447 0 0 0-.52.84 3.154 3.154 0 0 0-.194 1.138c0 .424.065.804.193 1.138.13.335.306.618.531.85.225.231.483.405.772.52.29.116.602.174.936.174.322 0 .608-.048.859-.144.25-.097.466-.222.646-.377.18-.154.325-.328.434-.52.11-.194.19-.38.242-.56l2.258.752a4.142 4.142 0 0 1-.512 1.168 4.16 4.16 0 0 1-.917 1.023c-.373.302-.81.546-1.312.733a4.861 4.861 0 0 1-1.698.28 5.107 5.107 0 0 1-1.959-.377 4.806 4.806 0 0 1-1.95-1.45zm13.634-.507c.309 0 .611-.058.907-.174.296-.116.553-.286.772-.511a2.55 2.55 0 0 0 .53-.84c.136-.334.203-.727.203-1.177 0-.45-.067-.843-.202-1.177a2.567 2.567 0 0 0-.531-.84 2.161 2.161 0 0 0-.772-.511 2.47 2.47 0 0 0-1.814 0 2.161 2.161 0 0 0-.772.511 2.567 2.567 0 0 0-.53.84c-.136.334-.203.727-.203 1.177 0 .45.067.843.203 1.177.135.335.311.614.53.84.219.225.476.395.772.51.296.117.598.175.907.175zm0-7.739c.708 0 1.367.126 1.978.376a4.78 4.78 0 0 1 1.583 1.043 4.75 4.75 0 0 1 1.042 1.592c.25.617.376 1.293.376 2.026a5.26 5.26 0 0 1-.376 2.017 4.883 4.883 0 0 1-1.042 1.592 4.7 4.7 0 0 1-1.583 1.051 5.154 5.154 0 0 1-1.978.377 5.158 5.158 0 0 1-1.978-.377 4.7 4.7 0 0 1-1.582-1.051 4.883 4.883 0 0 1-1.042-1.592 5.26 5.26 0 0 1-.377-2.017c0-.733.126-1.409.377-2.026a4.75 4.75 0 0 1 1.042-1.592 4.774 4.774 0 0 1 1.582-1.043 5.158 5.158 0 0 1 1.978-.376zm6.233 9.784v-9.494h2.451v1.158a2.3 2.3 0 0 1 .502-.618c.206-.18.434-.328.685-.444.25-.116.515-.206.791-.27.277-.064.544-.097.801-.097.656 0 1.229.136 1.718.406.488.27.855.662 1.1 1.177.373-.579.81-.988 1.312-1.226s1.068-.357 1.698-.357c.437 0 .862.068 1.274.203.411.135.778.35 1.1.647.321.295.579.672.772 1.129.193.456.289 1 .289 1.63v6.156h-2.49V29.89c0-.514-.131-.942-.395-1.283-.264-.341-.692-.511-1.283-.511-.554 0-.985.183-1.293.55-.31.366-.463.807-.463 1.321v5.558h-2.548V29.89c0-.514-.135-.942-.405-1.283-.27-.341-.695-.511-1.274-.511-.566 0-1.003.18-1.312.54-.309.36-.463.804-.463 1.331v5.558h-2.567zm-24.746-1.62c0-.49.17-.905.511-1.246.341-.34.756-.51 1.245-.51.245 0 .476.044.695.134a1.724 1.724 0 0 1 .945.936c.09.212.136.44.136.685a1.736 1.736 0 0 1-1.081 1.621c-.219.09-.45.135-.695.135-.489 0-.904-.17-1.245-.511a1.694 1.694 0 0 1-.51-1.245z"></path><path fill="#0E3851" d="M29.485 29.417l4.507 7.8-5.536-1.483L32.018 50 20.054 29.292l5.536 1.482-1.639-2.837a20.249 20.249 0 0 0 3.498-2.044 20.254 20.254 0 0 0 7.943-12.33h4.122c-1.098 6.54-4.812 12.195-10.029 15.854zm9.661-23.21l14.888 3.306H35.798a4.054 4.054 0 1 0-7.859-1.393l-3.537-2.04a8.107 8.107 0 0 1 7.343-4.667 8.107 8.107 0 0 1 7.401 4.794z"></path><path fill="#07A6CD" d="M0 12.824h25.666c4.053 2.025 1.351 8.1-8.105 8.1-4.728 0-11.257-1.8-17.561-8.1z" opacity=".72"></path><path fill="#07A6CD" d="M.39 8.37l25.276 4.454c3.64 2.697-.077 8.21-9.39 6.57C11.622 18.574 5.504 15.668.39 8.37z" opacity=".56"></path><path fill="#07A6CD" d="M1.548 4.052l24.118 8.772c3.115 3.288-1.503 8.073-10.388 4.84-4.443-1.615-9.962-5.538-13.73-13.612z" opacity=".4"></path><path fill="#07A6CD" d="M3.439 0l22.227 12.824c2.497 3.779-2.883 7.69-11.072 2.965C10.5 13.426 5.746 8.605 3.44 0z" opacity=".24"></path></g></svg> <span class="show-for-sr">Highspeedinternet.com</span>
+      </a>
     </div>
+    <div class="columns small-6 medium-8 relative">
+      <nav class="site-navigation" role="navigation">
+        <button class="toggle-lang-nav" aria-controls="menu-lang-menu" title="Toggle Language Menu">
+          EN          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20 20" style="max-width:30px"><image width="20" height="20" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAALoAAAC5AgMAAADi9M3MAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACVBMVEUAAAApweYAAACEoWKxAAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAAXEYAAFxGARSUQ0EAAAAHdElNRQfgCRYNOisjP296AAAETElEQVRo3u2Za47kKAyA4YeP4PuwN2AkfP+r7FTALzAJ6e0ZzUiL1N3V8MX4FYdyUgoG0GfUdDY6/RnlHX50gcUPLsjkxxM/4dTucZz5e40yreOd+NswWPENnzdQ5GPo4wYivlw8R6I9i794c/m971vn7f/RACPvgh4sth6/eBEQWpzt9tfvfKsQsNeF/+z4Y2txXxi7d/7nxRU2CuW+8RAmfA9b26hT8vBGRz5z3UuxOldMm/LX1TlUaMx6vmuHkULQd8UhyvIQKTSE4PDd4PvlkUclDwIeVwOy5AElw4PEeTIASFYsnyXOkwHYFcksSHnS1Ul92V/5JNPeANYQeN7wJTCABeDMD//iZAAryO63fB3yrAHsAJr5oWD2vOgn20588gZn0mnPZw20MXhES92/8D5ifEusfJIFy/M9Le6fefQpykVjy/sqlLmsBTzKHaMGA1cxCdfEU8hTxP9cK7Ju3TOKW8BX2vBmzvJdlnHQR3fc8FxzuVByMsEDr6k+ks/7YOa1ko0qOYxYeFbH5IoWDVryh2RWSgfnKtoLtN5ybiXLV7sovPhZa6n9YJfJDV72fHQ4MSpyMqohsOHLS14iYWvqMQ+PvM9ZkMR45Mm4v3/6Z/ENCI/C60SZ9riesGZ55qco1LTyFGxoHOPMc3nEvKR4Wvi64TX/P/pV+0nD9Zqn13y74+WQ9sS7dZiu/0YeT/g0+U/j/QW+PvN4zoPn83fxJvWKSZo/g6dzPi98CXj8r3z7hXz9Dfyb8T//9/FBJZ6kbPOnvsy3I55+IX9QH9DfIG95POfhN/Hly/z98+stj8vz5ez5WL/GHz9/n3hdf8sfnGdu+dvz1Vs+T99jzs5v5+dJ2PH4qSF3fLE8+LqjTykIztvFt1hbCs/nVSccvjvPq4LLMN8XSA7sp99fDnlxFNm/L75/HfFg+MIKbh4SJlwaMC++mUiUZP3IEqxDtO8muSFxRe1RyfbKyAZkeCus2PwE2cC7RcWz6T4mZeFxiuW+/3A5VPoYMU+m43V1x+CBL+jqUFtyK+jPGL7P4Z43stTLMV9nXpysOrr+1WSb+hhifu53Zf53x4PnpR2nMfH9umzSWvhka+l9PxDJ9NcdP2bA80DaAlp4bv6Y/uS+Xwp6IzTPzz0kzztzdTsMeFa0GB5p338e867/DLTpb6Pcu83y3J+VgK39cKu+vC7Y8LDww4Cg/x/382EqGtp7ItV2NqAs7y9A3lM1z6eRgCiBNmHFRX1pca98lb0XA/qd0QzPlWp9X5P7HQRk3zdp53VWn++ZvPJAgfrDgMqJNb/PKgvf72lOXH1flilSnxWqyA+D8UhoGKs/td0k2j8oVmd6LS5xpZ065nlXw37vXqE2+KUw7xTqfL5Xx8njWE+FcLNBS/3nXrxVgMxoO96f3R6s9RsciY83KDd8fic+OmKl+zHj9YHPb7RZNXrE/QUH+GPab20I1/4FOa75Z3FvhK8AAAAASUVORK5CYII="></image></svg>        </button>
+          <ul id="menu-lang-menu"><li id="menu-item-61188-en" class="lang-item lang-item-7856 lang-item-en lang-item-first current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-61188-en"><a href="https://www.highspeedinternet.com/privacy-policy" hreflang="en-US" lang="en-US">English</a></li>
+<li id="menu-item-61188-es" class="lang-item lang-item-8621 lang-item-es no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-61188-es"><a href="https://www.highspeedinternet.com/es/" hreflang="es-ES" lang="es-ES">Español</a></li>
+</ul>        <button class="toggle-mobile-nav" aria-controls="menu-hsi-menu" title="Toggle Menu"><span class="bars"></span></button>
+          <ul id="menu-hsi-menu"><li id="menu-item-59736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59736"><a href="https://www.highspeedinternet.com/providers">Find Providers</a></li>
+<li id="menu-item-59737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59737"><a href="https://www.highspeedinternet.com/provider-review">Review Providers</a></li>
+<li id="menu-item-59738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59738"><a href="https://www.highspeedinternet.com/resources">Resources</a></li>
+</ul>      </nav>
+    </div>
+  </div>
 </header>
-<div class="page-title">
-	<div class="con">
-        <h1>Privacy Policy</h1>
-            </div>
-</div>
 
-<div class="page">
+    <section class="container">
 
-    <div class="con">
+          <div class="main-wrap" role="main">
+    <article class="main-content">
         
-        <ol class="page-breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="http://www.broadbandexpert.com" itemprop="item"><span itemprop="name">Home</span></a><span class="arr">»</span><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><span class="current"><span itemprop="name">Privacy Policy</span></span><meta itemprop="position" content="2"></li></ol>        
-        <article class="article main" itemscope="" itemtype="http://schema.org/CreativeWork">
-            <meta itemprop="name" content="Privacy Policy">
-            <meta itemprop="description" content="See how Broadband Expert is committed to protecting you and your data through our privacy policy.">
-                
-            <span itemprop="text">        	            
-                <p>The purpose of this Privacy Policy is to give you a summary of the ways in which Clearlink Technologies, LLC, a wholly owned subsidiary of Sykes Enterprises, Inc., d/b/a SITENAME collects, maintains, and uses your information. Please feel free to contact us by email at <a href="mailto:privacy@clearlink.com">privacy@clearlink.com</a>&nbsp;or by mail at Clearlink Technologies, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116 with any questions or concerns about this Privacy Policy or the information we gather about you.</p>
-<p><strong>How We Collect Your Information</strong></p>
-<p>We gather information about you as you use our websites, contact our customer service representatives, fill out online order forms or information request sheets, and provide your information to our sales agents. We use cookies and pixel tags to track your usage of our websites. We also use online order forms and information request sheets to obtain information from you necessary to process your orders and provide you with requested information. When you call the numbers on our websites and speak with our customer service representatives, we collect information provided during the call to ensure the best quality of service and the correct processing of your orders.</p>
-<p><strong>Information We Collect</strong></p>
+                                    
+            
+                <div class="grid-container"><div class="row gen-padding "><div class="columns small-12 medium-12 large-12 ">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h1>Privacy Policy</h1>
+<p>The purpose of this Privacy Policy is to summarize the ways in which HighSpeedInternet.com collects, maintains, and uses your information. Please feel free to contact us by email at privacy@highspeedinternet.com&nbsp;or by mail at HighspeedInternet.com, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116 with any questions or concerns about this Privacy Policy or the information we gather about you.</p>
+<h4>How We Collect Your Information</h4>
+<p>We gather information about you as you use our websites, contact our customer service representatives, fill out online order forms or information request sheets, and provide your information to our sales agents. We use cookies and pixel tags to track your usage of our websites.</p>
+<p>We also use online order forms and information request sheets to obtain information from you necessary to process your orders and provide you with requested information. When you call the numbers on our websites and speak with our customer service representatives, we collect information provided during the call to ensure the best quality of service and the correct processing of your orders.</p>
+<h4>Information We Collect</h4>
 <p>We collect various types of Customer Information. A summary of the types of information that we collect is set forth below:</p>
 <p>-Customer Contact Information. Your Customer Contact Information is any information needed to contact you and fulfill your orders and requests such as your name, address, phone number, fax number, and email address.</p>
 <p>-Private Customer Information. Private Customer Information is that information that may be necessary to check credit and process payments. Such information includes your Social Security Number, credit card information, and banking and wiring information.</p>
 <p>-Customer Order Information. Customer Order Information is that information necessary to complete your orders and requests for information. Such information may include your Customer Contact Information, programming and packaging selections, your billing and shipping information, as well as other details pertaining to your order of products and services through us.</p>
-<p>-Demographical Information. Demographical Information is publicly available information that we may learn about you regarding such things as your age, income, home ownership, household size, etc. that helps us to provide you with better offers for products and services.</p>
+<p>-Demographic Information. Demographic Information is publicly available information that we may learn about you regarding such things as your age, income, home ownership, household size, etc. that helps us to provide you with better offers for products and services.</p>
 <p>-Website Usage Information. Website Usage Information is information that we collect, via anonymous third-party cookies, that tells us about the way you use and navigate through our websites.</p>
-<p>– This site uses proprietary analytics systems to help improve usability and the customer experience. We may record mouse clicks, mouse movements, scrolling activity,&nbsp;user agent, browser version, operating system, browser extensions installed, browser features enabled,&nbsp;and other non-personally identifiable behavioral&nbsp;and non-behavioral&nbsp;information. You can choose to disable these features by electing to use the private browser setting&nbsp;and/or disabling javascript. Note, that doing so will disable other features that this site may employ.</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;Security Measures</strong></p>
-<p>Clearlink Technologies, LLC has implemented a variety of encryption and security technologies and procedures to protect information stored in our computer systems from unauthorized access. We also maintain procedural safeguards that restrict access to your Customer Information to employees (or people working on our behalf and under confidentiality agreements) who need to know your Customer Information in order to provide the products and services that you request.</p>
-<p><strong>Use and sharing of customer information</strong></p>
-<p>All of your Customer Information is used in an effort to process your orders and requests and to provide you with the products and services you desire. We may share your Customer Information with third parties in order to complete your purchases of products and services as described below. In addition, your Customer Information may be used and shared in an effort to present to you other special offers and promotions that may become available. The extent to which we use and share your Customer Information depends upon the nature of and purpose for which we use and share it. A summary of how we share your Customer Information with third parties is set forth as follows:</p>
-<p>-With Third Party Product and Service Providers. We share your Customer Information, as needed, to the third parties who actually provide the products and services you request. We frequently act as a third party marketer and seller of various brand name products and services, and we provide these companies with the information necessary to carry out your orders. How these companies use your Customer Information, once we have passed it on to them, is governed by their respective privacy policies and procedures.</p>
-<p>-With Third Party Advertisers. Although we never share your Private Customer Information with any third parties, except with the Third Party Product and Service Providers described above, we may share other types of your Customer Information with third party advertisers who are able to use that information to provide you with special offers or promotions. The ways in which such advertisers may subsequently use your Customer Information is governed by their own privacy policies and procedures. You may opt out from having us share your Customer Information with Third Party Advertisers by following the steps in the next section.</p>
-<p>-With Third Party Cookies. We allow third-parties to collect anonymous information when you visit our website and to use that information to serve ads for our products or services when you visit the other websites. These third-parties may use anonymous information (e.g., navigational, non-personally identifiable information, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.) during your visits to our website in order to provide advertisements about our goods and services likely to be of interest to you. These parties may use a cookie or a third party web beacon, or other technologies, to collect this information.</p>
-<p><strong>Opt-out Procedures</strong></p>
-<p>-Email Promotions. To opt out from receiving further email communications from us regarding other offers and promotions, you may email us at privacy@clearlink.com or write to Clearlink Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. Additionally, you may opt-out by visiting the website at http://clearlink.com/unsubscribe.</p>
-<p>-Third Party Cookies. To opt-out of anonymous third-party advertising cookies, visit the Network Advertising Initiative website, click here http://www.networkadvertising.org/choices/.</p>
-<p><strong>Telemarketing </strong></p>
-<p>IMPORTANT – PLEASE READ: By providing your contact information, including your telephone number, on this Web site, you are expressly granting us permission to contact you even though you may have previously chosen to have your telephone number added to any Do-Not-Call List including lists maintained by us, or any local, state or federal government agency. In addition, your state may have laws that prevent us from calling you on your mobile/cellular telephone. If you use a mobile/cellular telephone as your primary means of communication, please call us toll-free in the U.S. and Canada at 1-800-580-5494.</p>
-<p><strong>Changes to This Privacy Policy</strong></p>
+<p>-Proprietary Analytics. This site uses proprietary analytics systems to help improve usability and the customer</p>
+<p>experience. We may record mouse clicks, mouse movements, scrolling activity,&nbsp;user agent, browser version, operating system, browser extensions installed, browser features enabled,&nbsp;and other non-personally identifiable behavioral&nbsp;and non-behavioral&nbsp;information. You can choose to disable these features by electing to use the private browser setting&nbsp;and/or disabling javascript. Note, that doing so will disable other features that this site may employ.</p>
+<h4>Security Measures</h4>
+<p>HighSpeedInternet.com has implemented a variety of encryption and security technologies and procedures to protect information stored in our computer systems from unauthorized access. We also maintain procedural safeguards that restrict access to your Customer Information to employees (or people working on our behalf and under confidentiality agreements) who need to know your Customer Information to provide the products and services that you request.</p>
+<p><strong>Additional PCI Requirement as a Service Provider:</strong> We acknowledge to our customers that we are responsible for the security of cardholder data we possess or otherwise store, process, or transmit on behalf of the customer, or to the extent that we could impact the security of the customer’s cardholder data environment.</p>
+<h4>Use and Sharing of Customer Information</h4>
+<p>All your Customer Information is used in an effort to process your orders and requests and to provide you with the products and services you desire. We may share your Customer Information with third parties to complete your purchases of products and services as described below. In addition, your Customer Information may be used and shared in an effort to present to you other special offers and promotions that may become available. The extent to which we use and share your Customer Information depends upon the nature of and purpose for which we use and share it. A summary of how we share your Customer Information with third parties is set forth as follows:</p>
+<p>-With Third-Party Product and Service Providers. We share your Customer Information, as needed, to the third parties who provide the products and services you request. We frequently act as a third-party marketer and seller of various brand name products and services, and we provide these companies with the information necessary to carry out your orders. How these companies use your Customer Information, once we have passed it on to them, is governed by their respective privacy policies and procedures.</p>
+<p>-With Third-Party Advertisers. Although we never share your Private Customer Information with any third parties, except with the Third-Party Product and Service Providers described above, we may share other types of your Customer Information with third-party advertisers who are able to use that information to provide you with special offers or promotions. The ways in which such advertisers may subsequently use your Customer Information is governed by their own privacy policies and procedures. You may opt out from having us share your Customer Information with third-party advertisers by following the steps in the next section. Additionally, we may share information with third parties for the purpose of preventing fraud and scams.</p>
+<p>-With Third-Party Cookies. We allow third parties to collect anonymous information when you visit our website and to use that information to serve ads for our products or services when you visit the other websites. These third parties may use anonymous information (e.g., navigational, non-personally identifiable information, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.) during your visits to our website to provide advertisements about our goods and services likely to be of interest to you. These parties may use a cookie or a third-party web beacon, or other technologies, to collect this information.</p>
+<h4>Opt-out Procedures</h4>
+<p><strong>-Email Promotions.</strong> To opt out from receiving further email communications from us regarding other offers and promotions, you may email us at privacy@highspeedinternet.com or write to HighSpeedInternet.com, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116.</p>
+<p><strong>-Third-Party Cookies.</strong> To opt out of anonymous third-party advertising cookies, visit the Network Advertising Initiative website, click <a href="http://www.networkadvertising.org/choices/">here</a>.</p>
+<h4 class="text-upper">Telemarketing</h4>
+<p class="text-upper">IMPORTANT – PLEASE READ: By providing your contact information, including your telephone number, on</p>
+<p>this Website, you are expressly granting us permission to contact you even though you may have previously chosen to have your telephone number added to any Do-Not-Call List including lists maintained by us, or any local, state or federal government agency. In addition, your state may have laws that prevent us from calling you on your mobile/cellular telephone. If you use a mobile/cellular telephone as your primary means of communication, please call us toll-free in the U.S. and Canada at 855-586-5399. YOU GIVE US AND OUR REPRESENTATIVES PERMISSION TO CALL OR TEXT YOU AT THE NUMBER PROVIDED USING AUTOMATIC DIALING TECHNOLOGY AND/OR A PRERECORDED MESSAGE. YOUR CONSENT IS NOT A REQUIREMENT TO MAKE A PURCHASE FROM US.</p>
+<h4>ARBITRATION AGREEMENT</h4>
+<p><strong>ARBITRATION.</strong> TO THE EXTENT PERMITTED BY LAW, ANY DISPUTE OR CLAIM RELATING IN ANY WAY TO YOUR USE OF THE WEBSITE(S), INCLUDING BUT NOT LIMITED TO THE TELEPHONE CONSUMER PROTECTION ACT (TCPA), WILL BE RESOLVED BY BINDING ARBITRATION, RATHER THAN IN COURT.</p>
+<p><strong>SEVERABILITY.</strong> ANY PROVISION OF THIS AGREEMENT THAT IS PROHIBITED OR UNENFORCEABLE IN ANY JURISDICTION SHALL, AS TO SUCH JURISDICTION, BE INEFFECTIVE TO THE EXTENT OF SUCH PROHIBITION OR UNENFORCEABILITY WITHOUT INVALIDATING THE REMAINING PROVISIONS HEREOF, AND ANY SUCH PROHIBITION OR UNENFORCEABILITY IN ANY JURISDICTION SHALL NOT INVALIDATE OR RENDER UNENFORCEABLE SUCH PROVISION IN ANY OTHER JURISDICTION.</p>
+<h4>Changes to This Privacy Policy</h4>
 <p>We will update this Privacy Policy from time to time to reflect changes in our business. If we change how we use your Customer Information or the purposes or entities for and to which we disclose your Customer Information we will post the policy change notification on our web site.</p>
-<p><strong>Access to information</strong></p>
-<p>Should you have any questions about the Customer Information we have about you or to access your information that we have on file, you may email us at privacy@clearlink.com or write to Clearlink Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the Customer Information about you that we have collected is incomplete or inaccurate, Clearlink Technologies will correct the information upon verification of the omission or error and that the person requesting the change is the person about whom the Customer Information relates.</p>
-<p><strong>If You Are a Resident of California or Delaware</strong></p>
-<p>If you are a California or Delaware resident, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of your Customer Information with third parties, for the third parties’ direct marketing purposes. California and Delaware law provides that you have the right to submit a request to us at the designated address and receive the following information:</p>
+<h4>Access to Information</h4>
+<p>Should you have any questions about the Customer Information we have about you or to access your information that we have on file, you may email us at <a href="mailto:privacy@highspeedinternet.com">privacy@highspeedinternet.com</a> or write to HighSpeedInternet.com, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. We may ask you to pay an administrative fee for accessing or copying your information but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the Customer Information about you that we have collected is incomplete or inaccurate, HighSpeedInternet.com will correct the information upon verification of the omission or error and that the person requesting the change is the person about whom the Customer Information relates.</p>
+<h4>If You Are a Resident of California or Delaware</h4>
+<p>If you are a California or Delaware resident, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of your Customer Information with third parties, for the third parties’ direct marketing purposes.</p>
+<p>California and Delaware law provides that you have the right to submit a request to us at the designated address and receive the following information:</p>
 <ol>
-<li>The categories of information we disclosed to third parties for the third parties direct marketing purposes during the preceding calendar year
-<p>The names and addresses of third parties that received such information: and</p>
-<p>3. If the nature of a third party’s business cannot be reasonably determined from the third party’s name, examples of the products or services marketed.</p>
-<p>4. You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@clearlink.com.</p></li>
+<li>The categories of information we disclosed to third parties for the third parties direct marketing purposes during the preceding calendar year</li>
+<li>The names and addresses of third parties that received such information: and</li>
+<li>If the nature of a third party’s business cannot be reasonably determined from the third party’s name, examples of the products or services marketed.</li>
+<li>You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is <a href="mailto:privacy@highspeedinternet.com">privacy@highspeedinternet.com</a>.</li>
 </ol>
-<p>The Effective Date hereto shall be August 25, 2016.</p>
-            </span>
-            
-        </article>
-        
-        <div class="clear"></div>
-            
-    </div>
-</div>
+<h4>If you are a Purchaser in Washington State</h4>
+<p>Washington State requires that sales or use tax is due on certain purchases. The seller may or may not collect and remit retail sales tax on a purchase. Washington state requires the purchaser to file a use tax return if retail sales tax is not assessed at the time of a taxable sale. If the seller to whom the purchaser is referred does not collect retail sales tax on a subsequent purchase, the seller may be required to provide information to the purchaser and the department about the potential sales or use tax liability.</p>
+<p>This notice is provided under the requirements of L. 2017 Section 205(3). For additional information regarding whether and how to remit sales or use tax consumers may visit the Washington State Department of Revenue website at <a href="https://dor.wa.gov/" target="_blank" rel="noopener">https://dor.wa.gov/</a>.</p>
+<p>The Effective Date hereto shall be November 15, 2018.</p>
 
-<footer class="footer stretch">
-    <div class="share">
-    	<div class="con">
-        	<a href="/"><img class="logo" src="/images/logo-footer.png" alt="BroadbandExpert"></a>
-            <ul class="social">
-            	<li><a target="_blank" class="ico fb" href="https://www.facebook.com/BroadbandExpert"></a></li>
-            	<li><a target="_blank" class="ico tw" href="https://twitter.com/BroadbandExpUS"></a></li>
-            	<li><a target="_blank" class="ico gp" href="https://plus.google.com/+BroadbandexpertUS/"></a></li>
-            </ul>
-            <div class="clear"></div>
-        </div>
-    </div>
-    <div class="internal-links">
-    	<div class="con">
-        
-            <div class="bio">
-                <p class="title">Who we are</p>
-                <p class="txt">Broadband Expert is independent of all internet providers, satellite, cable and mobile broadband providers and aims to give a no nonsense guide to choosing the right service for your internet needs at the lowest price.</p>
+		</div>
+	</div>
+</div></div></div><span class="et_social_bottom_trigger"></span>
+                </article>
+
+  </div>
+
+
+    </section>
+    <div class="footer-container">
+        <footer class="footer" data-component="footer">
+
+          <div class="footer-row1 color-medium-gray">
+            <div class="row large-padding">
+              <div class="columns small-12 medium-4 large-2 left text-center">
+                <a href="https://www.highspeedinternet.com/" rel="home" class="footer-logo" title="High Speed Internet Providers">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 60"><g fill="none"><path fill="#0E3851" d="M134.543 56.688a3.1 3.1 0 0 0-.28 1.291 3.1 3.1 0 0 0 .39 1.508c-.155.068-.39.136-.705.204-.317.069-.724.103-1.222.103-1.235 0-2.213-.343-2.933-1.03-.72-.685-1.08-1.646-1.08-2.88V49.99h-2.29v-3.036h.643c.669 0 1.162-.193 1.48-.58.316-.385.475-.861.475-1.427v-1.776h3.088v3.783h2.547v3.036h-2.547v5.3c0 .55.124.93.373 1.145.249.215.622.322 1.12.322.205 0 .41-.009.617-.026.133-.01.241-.026.324-.044zM58.828 35.525V27.96h-7.95v7.565h-3.551V17.282h3.55v7.333h7.951v-7.333h3.577v18.243h-3.577zm6.716 0v-12.66h3.422v12.66h-3.422zm-.412-16.802c0-.6.206-1.106.618-1.518a2.032 2.032 0 0 1 1.492-.617c.6 0 1.102.205 1.505.617.404.412.605.918.605 1.518 0 .566-.201 1.055-.605 1.467-.403.412-.904.617-1.505.617-.583 0-1.08-.205-1.492-.617a2.004 2.004 0 0 1-.618-1.467zm8.903 16.674c.12.703.438 1.277.952 1.723.515.446 1.184.67 2.007.67 1.08 0 1.913-.28 2.496-.837.583-.557.875-1.454.875-2.689v-.926c-.258.412-.678.785-1.261 1.12-.583.334-1.338.501-2.264.501a5.88 5.88 0 0 1-2.342-.463 5.585 5.585 0 0 1-1.865-1.287 6.062 6.062 0 0 1-1.235-1.942c-.3-.746-.45-1.565-.45-2.457 0-.841.145-1.634.437-2.38a6.31 6.31 0 0 1 1.21-1.969 5.581 5.581 0 0 1 1.852-1.338c.72-.326 1.518-.489 2.393-.489 1.012 0 1.81.18 2.393.54.583.36.986.755 1.209 1.184v-1.492h3.293V34.16a8.38 8.38 0 0 1-.373 2.51 5.787 5.787 0 0 1-1.17 2.11c-.532.608-1.218 1.097-2.059 1.466-.84.369-1.852.553-3.036.553-.875 0-1.668-.124-2.38-.373a6.367 6.367 0 0 1-1.865-1.004 5.219 5.219 0 0 1-1.287-1.466 4.75 4.75 0 0 1-.618-1.737l3.088-.823zm3.397-3.371c.874 0 1.59-.292 2.148-.875s.836-1.364.836-2.341c0-.978-.291-1.754-.875-2.33a2.897 2.897 0 0 0-2.11-.861c-.428 0-.827.073-1.196.219-.369.145-.69.36-.965.643a3.023 3.023 0 0 0-.643 1.016 3.573 3.573 0 0 0-.232 1.313c0 .994.283 1.78.85 2.354.566.575 1.295.862 2.187.862zm12.427 3.5h-3.422v-18.63h3.422v7.025a3.409 3.409 0 0 1 1.57-1.068 5.772 5.772 0 0 1 1.852-.322c.807 0 1.506.133 2.098.4a4.16 4.16 0 0 1 1.466 1.067c.386.446.673.978.862 1.595.189.618.283 1.27.283 1.956v7.976h-3.422v-7.384c0-.72-.184-1.321-.553-1.802-.369-.48-.965-.72-1.788-.72-.72 0-1.287.236-1.699.708-.411.471-.634 1.059-.669 1.762v7.436zm20.173-12.918a4.27 4.27 0 0 0-.27-.836 2.671 2.671 0 0 0-.58-.836 3.094 3.094 0 0 0-.99-.643c-.403-.172-.896-.258-1.48-.258-.428 0-.818.065-1.17.193-.352.13-.652.3-.9.515a2.356 2.356 0 0 0-.58.733 1.93 1.93 0 0 0-.205.875c0 .498.163.93.489 1.3.326.368.823.621 1.492.759l2.547.489c.824.154 1.553.403 2.187.746a5.96 5.96 0 0 1 1.596 1.222c.428.472.754 1 .977 1.582.223.584.335 1.192.335 1.827 0 .703-.146 1.394-.438 2.071a5.354 5.354 0 0 1-1.273 1.802c-.558.523-1.244.947-2.059 1.273-.814.326-1.754.49-2.817.49-1.218 0-2.264-.177-3.14-.528-.874-.352-1.607-.802-2.2-1.351a5.761 5.761 0 0 1-1.35-1.84 6.43 6.43 0 0 1-.566-1.994l3.293-.875c.035.446.142.875.322 1.287.18.411.433.776.76 1.093.325.318.728.57 1.208.76.48.188 1.047.282 1.699.282.96 0 1.694-.21 2.2-.63.506-.42.759-.956.759-1.608 0-.532-.19-.99-.566-1.377-.378-.386-.927-.647-1.647-.785l-2.547-.514c-1.459-.292-2.62-.888-3.487-1.788-.866-.901-1.3-2.046-1.3-3.436 0-.806.168-1.556.502-2.25.335-.696.794-1.3 1.377-1.815a6.525 6.525 0 0 1 2.033-1.21 6.859 6.859 0 0 1 2.444-.437c1.098 0 2.037.15 2.818.45.78.3 1.428.682 1.942 1.146.515.463.914.973 1.197 1.53.283.558.476 1.094.579 1.609l-3.191.977zm5.043 17.806V22.866h3.32v1.544c.291-.498.771-.927 1.44-1.287.67-.36 1.484-.54 2.445-.54.926 0 1.75.167 2.47.502.72.334 1.334.797 1.84 1.389a6.001 6.001 0 0 1 1.145 2.084c.257.798.386 1.668.386 2.612a8.07 8.07 0 0 1-.425 2.663 6.232 6.232 0 0 1-1.21 2.11 5.553 5.553 0 0 1-1.89 1.39c-.738.334-1.553.501-2.445.501-.875 0-1.625-.15-2.251-.45-.626-.3-1.094-.665-1.403-1.094v6.124h-3.422zm9.675-11.219c0-1.132-.305-2.006-.914-2.624a3.008 3.008 0 0 0-2.225-.926 3.08 3.08 0 0 0-1.235.244 3.102 3.102 0 0 0-1.004.695c-.291.3-.519.669-.682 1.106-.163.438-.244.94-.244 1.505 0 .567.081 1.068.244 1.506.163.437.39.81.682 1.119a3.01 3.01 0 0 0 1.004.708 3.08 3.08 0 0 0 1.235.244c.875 0 1.616-.313 2.225-.94.61-.625.914-1.504.914-2.637zm13.457-1.44a3.105 3.105 0 0 0-.193-.914 2.2 2.2 0 0 0-.515-.797 2.659 2.659 0 0 0-.875-.567c-.351-.145-.767-.218-1.247-.218-.446 0-.841.077-1.184.231a2.911 2.911 0 0 0-.875.592 2.619 2.619 0 0 0-.772 1.673h5.66zm3.19 4.142a5.383 5.383 0 0 1-1.956 2.83c-.48.36-1.041.648-1.684.863a6.68 6.68 0 0 1-2.123.321 6.96 6.96 0 0 1-2.496-.45 6.042 6.042 0 0 1-2.084-1.325A6.352 6.352 0 0 1 129.626 32c-.352-.84-.528-1.792-.528-2.856 0-1.012.172-1.93.515-2.753a6.413 6.413 0 0 1 1.376-2.097 6.18 6.18 0 0 1 1.995-1.338 5.984 5.984 0 0 1 2.341-.476c1.973 0 3.508.583 4.606 1.75 1.098 1.166 1.647 2.77 1.647 4.811 0 .24-.009.468-.026.682a8.577 8.577 0 0 0-.026.373h-9.057c.017.412.116.793.296 1.145s.412.656.695.913c.283.258.613.46.99.605.378.146.78.219 1.21.219.806 0 1.436-.18 1.89-.54.455-.36.786-.824.991-1.39l2.856.85zm10.267-4.142a3.106 3.106 0 0 0-.193-.914 2.2 2.2 0 0 0-.515-.797 2.659 2.659 0 0 0-.875-.567c-.351-.145-.767-.218-1.247-.218-.446 0-.841.077-1.184.231a2.911 2.911 0 0 0-.875.592 2.619 2.619 0 0 0-.772 1.673h5.66zm3.19 4.142a5.383 5.383 0 0 1-1.956 2.83c-.48.36-1.041.648-1.684.863a6.68 6.68 0 0 1-2.123.321 6.96 6.96 0 0 1-2.496-.45 6.042 6.042 0 0 1-2.084-1.325A6.352 6.352 0 0 1 143.083 32c-.352-.84-.528-1.792-.528-2.856 0-1.012.172-1.93.515-2.753a6.413 6.413 0 0 1 1.377-2.097 6.18 6.18 0 0 1 1.994-1.338 5.984 5.984 0 0 1 2.341-.476c1.973 0 3.508.583 4.606 1.75 1.098 1.166 1.647 2.77 1.647 4.811 0 .24-.009.468-.026.682a8.577 8.577 0 0 0-.026.373h-9.057c.017.412.116.793.296 1.145s.412.656.695.913c.283.258.613.46.99.605.378.146.78.219 1.21.219.806 0 1.436-.18 1.89-.54.455-.36.786-.824.991-1.39l2.856.85zm14.435 1.338c0 .429.009.854.026 1.274.017.42.043.759.077 1.016h-3.268a4.474 4.474 0 0 1-.09-.617 9.097 9.097 0 0 1-.038-.85c-.292.498-.742.918-1.351 1.261-.609.343-1.342.515-2.2.515-.91 0-1.741-.167-2.496-.502a5.755 5.755 0 0 1-1.943-1.39 6.514 6.514 0 0 1-1.273-2.11c-.309-.814-.463-1.702-.463-2.662 0-.927.15-1.793.45-2.599.3-.806.716-1.505 1.248-2.097a5.805 5.805 0 0 1 1.917-1.402 5.81 5.81 0 0 1 2.457-.515c.549 0 1.025.051 1.428.154.403.103.75.232 1.042.386.292.155.528.322.708.502.18.18.313.356.399.528v-7.23h3.37v16.338zm-9.571-4.065c0 1.132.295 2.015.887 2.65.592.635 1.343.952 2.252.952.874 0 1.612-.317 2.212-.952.6-.635.901-1.527.901-2.676 0-1.132-.3-2.003-.9-2.612-.6-.609-1.339-.913-2.213-.913a3.01 3.01 0 0 0-2.226.926c-.609.618-.913 1.493-.913 2.625zM47.327 59.614V41.371h3.602v18.243h-3.602zm10.163 0h-3.422v-12.66h3.32v1.57a3.58 3.58 0 0 1 1.608-1.44 4.893 4.893 0 0 1 2.045-.464c.79 0 1.471.133 2.046.399a4.1 4.1 0 0 1 1.428 1.068c.377.446.656.978.836 1.595.18.618.27 1.27.27 1.956v7.976H62.2v-7.385c0-.72-.184-1.32-.553-1.8-.369-.481-.965-.721-1.788-.721-.755 0-1.338.253-1.75.759-.412.506-.618 1.128-.618 1.865v7.282zm15.053-12.66h2.547v3.037h-2.547v5.3c0 .55.124.93.373 1.145.249.215.622.322 1.12.322.205 0 .41-.009.617-.026.205-.017.351-.043.437-.077v2.83c-.154.069-.39.138-.708.206-.317.069-.724.103-1.222.103-1.235 0-2.213-.343-2.933-1.03-.72-.685-1.08-1.646-1.08-2.88V49.99h-2.29v-3.036h.643c.669 0 1.162-.193 1.48-.58.316-.385.475-.861.475-1.427v-1.776h3.088v3.783zm12.71 4.89a3.106 3.106 0 0 0-.192-.914 2.2 2.2 0 0 0-.515-.798 2.659 2.659 0 0 0-.875-.566c-.351-.146-.767-.218-1.248-.218-.446 0-.84.077-1.183.231a2.911 2.911 0 0 0-.875.592 2.619 2.619 0 0 0-.772 1.672h5.66zm3.191 4.142a5.383 5.383 0 0 1-1.956 2.83c-.48.36-1.041.648-1.685.862a6.68 6.68 0 0 1-2.122.322 6.96 6.96 0 0 1-2.496-.45 6.042 6.042 0 0 1-2.084-1.325 6.352 6.352 0 0 1-1.429-2.136c-.351-.84-.527-1.793-.527-2.856 0-1.012.172-1.93.515-2.753a6.413 6.413 0 0 1 1.376-2.097 6.18 6.18 0 0 1 1.994-1.338 5.984 5.984 0 0 1 2.342-.476c1.972 0 3.508.583 4.606 1.75 1.097 1.166 1.646 2.77 1.646 4.811 0 .24-.008.467-.025.682a8.577 8.577 0 0 0-.026.373h-9.057c.017.412.115.793.296 1.145a3.123 3.123 0 0 0 1.684 1.518c.378.146.781.219 1.21.219.806 0 1.437-.18 1.891-.54.455-.36.785-.824.991-1.39l2.856.849zm9.83-5.635a5.236 5.236 0 0 0-1.03-.103c-.446 0-.866.06-1.26.18a2.58 2.58 0 0 0-1.03.592c-.292.275-.528.639-.708 1.094-.18.454-.27 1.025-.27 1.71v5.79h-3.422v-12.66h3.32v1.879a3.01 3.01 0 0 1 .733-1.016c.3-.266.617-.468.952-.605a4.404 4.404 0 0 1 1.003-.283c.335-.052.64-.077.914-.077a5.998 5.998 0 0 1 .797.051v3.448zm5.068 9.263H99.92v-12.66h3.32v1.57a3.58 3.58 0 0 1 1.607-1.44 4.893 4.893 0 0 1 2.046-.464c.789 0 1.47.133 2.045.399s1.051.622 1.429 1.068c.377.446.656.978.836 1.595.18.618.27 1.27.27 1.956v7.976h-3.422v-7.385c0-.72-.185-1.32-.553-1.8-.37-.481-.965-.721-1.789-.721-.754 0-1.338.253-1.75.759-.411.506-.617 1.128-.617 1.865v7.282zm18.99-7.77a3.106 3.106 0 0 0-.194-.914 2.2 2.2 0 0 0-.514-.798 2.659 2.659 0 0 0-.875-.566c-.352-.146-.768-.218-1.248-.218-.446 0-.84.077-1.184.231a2.911 2.911 0 0 0-.875.592 2.619 2.619 0 0 0-.772 1.672h5.661zm3.19 4.142a5.383 5.383 0 0 1-1.956 2.83 5.88 5.88 0 0 1-1.685.862 6.68 6.68 0 0 1-2.123.322 6.96 6.96 0 0 1-2.496-.45 6.042 6.042 0 0 1-2.084-1.325 6.352 6.352 0 0 1-1.428-2.136c-.352-.84-.527-1.793-.527-2.856 0-1.012.171-1.93.514-2.753a6.413 6.413 0 0 1 1.377-2.097 6.18 6.18 0 0 1 1.994-1.338 5.984 5.984 0 0 1 2.341-.476c1.973 0 3.508.583 4.606 1.75 1.098 1.166 1.647 2.77 1.647 4.811 0 .24-.009.467-.026.682a8.578 8.578 0 0 0-.026.373h-9.057c.017.412.116.793.296 1.145s.412.656.695.913c.283.258.613.46.99.605.378.146.781.219 1.21.219.806 0 1.436-.18 1.891-.54.455-.36.785-.824.99-1.39l2.857.849z"></path><path fill="#07A6CD" d="M140.645 58.005l.002-.097c0-.922-.401-1.75-1.038-2.32a5.75 5.75 0 0 1-.054-.792c0-.734.126-1.41.377-2.027a4.75 4.75 0 0 1 1.042-1.592 4.824 4.824 0 0 1 1.563-1.042 4.964 4.964 0 0 1 1.94-.376c.642 0 1.218.093 1.726.28.509.186.95.427 1.322.723.373.296.676.637.907 1.023.232.386.4.779.502 1.177l-2.296.772a2.602 2.602 0 0 0-.666-1.1c-.328-.334-.807-.501-1.438-.501-.334 0-.646.057-.936.173a2.17 2.17 0 0 0-.762.512 2.447 2.447 0 0 0-.521.84 3.154 3.154 0 0 0-.193 1.138c0 .424.064.804.193 1.138.129.335.305.618.53.85.226.23.483.405.772.52.29.116.602.174.936.174.322 0 .608-.048.86-.145.25-.096.466-.222.646-.376s.324-.328.434-.521c.11-.193.19-.38.241-.56l2.258.753a4.142 4.142 0 0 1-.511 1.167 4.16 4.16 0 0 1-.917 1.023c-.373.303-.81.547-1.312.734a4.863 4.863 0 0 1-1.699.28 5.107 5.107 0 0 1-1.958-.377 4.806 4.806 0 0 1-1.95-1.451zm13.635-.508c.308 0 .61-.058.907-.173.295-.116.553-.287.771-.512.22-.225.396-.505.531-.84.135-.334.203-.726.203-1.176 0-.45-.068-.843-.203-1.178a2.567 2.567 0 0 0-.53-.839 2.161 2.161 0 0 0-.772-.511 2.47 2.47 0 0 0-1.814 0 2.161 2.161 0 0 0-.772.511 2.567 2.567 0 0 0-.531.84c-.135.334-.203.726-.203 1.177 0 .45.068.842.203 1.177.135.334.312.614.53.84.22.224.477.395.773.51.295.116.598.174.907.174zm0-7.738a5.16 5.16 0 0 1 1.978.376c.61.251 1.138.598 1.582 1.042a4.75 4.75 0 0 1 1.042 1.592c.25.618.376 1.293.376 2.027a5.26 5.26 0 0 1-.376 2.016 4.883 4.883 0 0 1-1.042 1.592 4.7 4.7 0 0 1-1.582 1.052c-.612.25-1.27.376-1.978.376a5.158 5.158 0 0 1-1.979-.376 4.7 4.7 0 0 1-1.582-1.052 4.883 4.883 0 0 1-1.042-1.592 5.26 5.26 0 0 1-.376-2.016c0-.734.125-1.41.376-2.027a4.75 4.75 0 0 1 1.042-1.592 4.774 4.774 0 0 1 1.582-1.042 5.158 5.158 0 0 1 1.979-.376zm6.233 9.784v-9.495h2.45v1.158c.13-.231.296-.437.502-.617.206-.18.434-.328.685-.444.251-.116.515-.206.792-.27.276-.065.543-.097.8-.097.657 0 1.23.135 1.718.405.489.27.855.663 1.1 1.178.373-.58.81-.988 1.312-1.226s1.068-.357 1.698-.357c.438 0 .862.068 1.274.203.412.135.778.35 1.1.646.322.296.579.673.772 1.13.193.456.29 1 .29 1.63v6.156h-2.49v-5.635c0-.515-.132-.942-.396-1.283-.263-.341-.691-.512-1.283-.512-.553 0-.984.184-1.293.55-.309.367-.463.808-.463 1.322v5.558h-2.547v-5.635c0-.515-.135-.942-.406-1.283-.27-.341-.694-.512-1.273-.512-.566 0-1.004.18-1.313.54-.308.36-.463.805-.463 1.332v5.558h-2.566zm-24.747-1.621c0-.489.17-.904.512-1.245.34-.34.756-.511 1.245-.511.244 0 .476.045.694.135a1.724 1.724 0 0 1 .946.936c.09.212.135.44.135.685a1.736 1.736 0 0 1-1.08 1.62c-.22.091-.451.136-.695.136-.49 0-.904-.17-1.245-.511a1.694 1.694 0 0 1-.512-1.245z"></path><path fill="#0E3851" d="M29.485 29.417l4.507 7.8-5.536-1.483L32.018 50 20.054 29.292l5.536 1.482-1.639-2.837a20.249 20.249 0 0 0 3.498-2.044 20.254 20.254 0 0 0 7.943-12.33h4.122c-1.098 6.54-4.812 12.195-10.029 15.854zm9.661-23.21l14.888 3.306H35.798a4.054 4.054 0 1 0-7.859-1.393l-3.537-2.04a8.107 8.107 0 0 1 7.343-4.667 8.107 8.107 0 0 1 7.401 4.794z"></path><path fill="#07A6CD" d="M0 12.824h25.666c4.053 2.025 1.351 8.1-8.105 8.1-4.728 0-11.257-1.8-17.561-8.1z" opacity=".72"></path><path fill="#07A6CD" d="M.39 8.37l25.276 4.454c3.64 2.697-.077 8.21-9.39 6.57C11.622 18.574 5.504 15.668.39 8.37z" opacity=".56"></path><path fill="#07A6CD" d="M1.548 4.052l24.118 8.772c3.115 3.288-1.503 8.073-10.388 4.84-4.443-1.615-9.962-5.538-13.73-13.612z" opacity=".4"></path><path fill="#07A6CD" d="M3.439 0l22.227 12.824c2.497 3.779-2.883 7.69-11.072 2.965C10.5 13.426 5.746 8.605 3.44 0z" opacity=".24"></path></g></svg><span class="show-for-sr">Highspeedinternet.com</span>
+                </a>
+                <p>
+                  <a href="https://www.facebook.com/HighSpeedInternetdotcom/" class="social-link facebook" title="Highspeedinternet.com on Facebook" target="_blank">
+                      <svg viewBox="0 0 19 39" xmlns="http://www.w3.org/2000/svg"><path class="icon_facebook" d="M18.613.443h-6.166c-3.662 0-7.732 1.535-7.732 6.835.02 1.845 0 3.613 0 5.603H.48v6.73h4.367v19.37h8.02v-19.5h5.296l.48-6.618h-5.914s.015-2.946 0-3.8c0-2.093 2.183-1.974 2.31-1.974 1.043 0 3.06.003 3.58 0V.442h-.007z"></path></svg><span class="show-for-sr">Highspeedinternet.com on Facebook</span>
+                  </a>
+                  <a href="https://twitter.com/teamHSI" class="social-link twitter" title="Highspeedinternet.com on Twitter" target="_blank">
+                      <svg viewBox="0 0 32 26" xmlns="http://www.w3.org/2000/svg"><path class="icon_twitter" d="M31.23 3.74a12.47 12.47 0 0 1-3.587.983 6.265 6.265 0 0 0 2.747-3.456 12.48 12.48 0 0 1-3.968 1.516A6.238 6.238 0 0 0 21.862.81a6.246 6.246 0 0 0-6.246 6.248c0 .49.055.966.16 1.424A17.738 17.738 0 0 1 2.902 1.955a6.217 6.217 0 0 0-.845 3.14 6.244 6.244 0 0 0 2.78 5.2 6.22 6.22 0 0 1-2.83-.78v.078a6.25 6.25 0 0 0 5.01 6.125 6.328 6.328 0 0 1-2.822.11 6.255 6.255 0 0 0 5.834 4.337 12.532 12.532 0 0 1-9.25 2.586 17.68 17.68 0 0 0 9.577 2.81c11.49 0 17.774-9.52 17.774-17.775 0-.27-.007-.54-.02-.808a12.725 12.725 0 0 0 3.12-3.238z"></path></svg><span class="show-for-sr">Highspeedinternet.com on Twitter</span>
+                  </a>
+                                  </p>
+              </div>
+              <div class="columns hide-for-small-only medium-8 large-10 right">
+                <p><a href="/about">About HighSpeedInternet.com</a></p>
+                <p><em>HSI helps consumers make informed decisions when selecting an Internet Service Provider.</em></p>
+                <p><em>Our helpful tools, real customer reviews, and insightful editorials provide valuable information that's delivered to you on one convenient site.</em></p>
+              </div>
             </div>
-    
-        	<div class="resources-wrap">
-				                    <div class="resources">
-                        <p class="title"> Compare</p>
-                        <ul class="menu">
-                            <li><a href="http://www.broadbandexpert.com/high-speed-internet/">High Speed Internet</a></li><li><a href="http://www.broadbandexpert.com/cable/">Cable &amp; Satellite TV</a></li><li><a href="http://www.broadbandexpert.com/tv-and-internet-bundles/">TV &amp; Internet Bundles</a></li><li><a href="http://www.broadbandexpert.com/internet-tv-phone/">Triple Play</a></li><li><a href="http://www.broadbandexpert.com/satellite-tv/">Satellite TV</a></li>                        </ul>
+          </div>
+
+          <div class="bg-secondary-xdark color-white">
+            <div class="row">
+              <div class="columns small-12 large-8 large-order-1 large-padding">
+                <div class="row">
+                  <div class="columns small-6">
+                                        <a href="/tools/speed-test" class="font-medium color-white">
+                                            <strong><svg width="68" height="40" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M67.5 34C67.5 14.946 53.054.5 34 .5a2.5 2.5 0 0 0 0 5c16.292 0 28.5 12.208 28.5 28.5a2.5 2.5 0 0 0 5 0zM12.476 8.552C3.69 14.592.5 21.75.5 34a2.5 2.5 0 0 0 5 0c0-10.707 2.49-16.296 9.81-21.328a2.5 2.5 0 1 0-2.834-4.12z" fill="#A1E8FE"></path><path d="M35.585 38.986a6.5 6.5 0 0 0 4.03-8.262C38.445 27.33 24.12 2.08 24.12 2.08c-1.76-3.116-2.754-2.765-2.217.786 0 0 4.25 28.696 5.42 32.09a6.5 6.5 0 0 0 8.262 4.03z" fill="#FFF"></path></g></svg><br>
+                          Test your current<br> internet speed.</strong>
+                    </a>
+                  </div>
+                  <div class="columns small-6">
+                                            <a href="/how-much-internet-speed-do-i-need" class="font-medium color-white">
+                                                <strong><span class="flip"><svg width="68" height="40" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M67.5 34C67.5 14.946 53.054.5 34 .5a2.5 2.5 0 0 0 0 5c16.292 0 28.5 12.208 28.5 28.5a2.5 2.5 0 0 0 5 0zM12.476 8.552C3.69 14.592.5 21.75.5 34a2.5 2.5 0 0 0 5 0c0-10.707 2.49-16.296 9.81-21.328a2.5 2.5 0 1 0-2.834-4.12z" fill="#A1E8FE"></path><path d="M35.585 38.986a6.5 6.5 0 0 0 4.03-8.262C38.445 27.33 24.12 2.08 24.12 2.08c-1.76-3.116-2.754-2.765-2.217.786 0 0 4.25 28.696 5.42 32.09a6.5 6.5 0 0 0 8.262 4.03z" fill="#FFF"></path></g></svg></span><br>
+                          Discover how much internet <br>speed you need.</strong>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="columns small-12 large-8 large-order-3 footer-menu large-padding">
+                  <a href="https://www.highspeedinternet.com/providers">Find Providers</a>
+<a href="https://www.highspeedinternet.com/resources">Resources</a>
+<a href="https://www.highspeedinternet.com/free-internet">Free Internet</a>
+<a href="https://www.highspeedinternet.com/provider-review">Review Providers</a>
+<a href="https://www.highspeedinternet.com/tools">Tools</a>
+<a href="https://www.highspeedinternet.com/contact">Feedback</a>
+              </div>
+              <div class="columns large-4 large-order-4">
+                <div class="large-float-right">
+                  
+    <form class="zip-finder " method="post" accept-charset="UTF-8">
+     <label for="footerZip" class="color-white ">Search by ZIP Code</label>
+      <div class="input-group">
+        <input type="tel" name="zip" id="footerZip" placeholder="ZIP Code" maxlength="5" minlength="5" required="">
+        <button type="submit" class="button square small">Search&nbsp;Providers</button>
+        <label class="error hidden" for="footerZip"></label>
+      </div>
+    </form>
                     </div>
-                                    <div class="resources">
-                        <p class="title"> Expert Reviews</p>
-                        <ul class="menu">
-                            <li><a href="http://www.broadbandexpert.com/internet-providers/">Internet Providers</a></li><li><a href="http://www.broadbandexpert.com/mobile-broadband/">Mobile Broadband</a></li><li><a href="http://www.broadbandexpert.com/satellite-internet/">Satellite Internet</a></li><li><a href="http://www.broadbandexpert.com/tv-providers/">TV Providers</a></li><li><a href="http://www.broadbandexpert.com/high-speed-internet-reviews/centurylink/">CenturyLink User Reviews</a></li>                        </ul>
-                    </div>
-                                    <div class="resources">
-                        <p class="title"> Tools</p>
-                        <ul class="menu">
-                            <li><a href="http://www.broadbandexpert.com/high-speed-internet/">Availability Checker</a></li><li><a href="http://www.broadbandexpert.com/reviews/">Broadband Expert Reviews</a></li><li><a href="http://www.broadbandexpert.com/guides/">Guides &amp; Advice</a></li><li><a href="http://www.broadbandexpert.com/high-speed-internet-reviews/">User Reviews</a></li><li><a href="http://www.broadbandexpert.com/survey-data/">Survey Data</a></li>                        </ul>
-                    </div>
-                                    <div class="resources last">
-                        <p class="title"> Company</p>
-                        <ul class="menu">
-                            <li><a href="http://www.broadbandexpert.com/about-us/">About Us</a></li><li><a href="http://www.broadbandexpert.com/contact-us/">Contact Us</a></li><li><a href="http://www.broadbandexpert.com/terms-and-conditions/">Terms &amp; Conditions</a></li><li><a href="http://www.broadbandexpert.com/privacy-policy/">Privacy Policy</a></li><li><a href="http://www.broadbandexpert.com/ranking-reviews/">Rankings &amp; Reviews</a></li>                        </ul>
-                    </div>
-                                <div class="clear"></div>
+              </div>
+              <div class="columns small-12 medium-6 large-4 align-self-bottom large-order-2 align-items-bottom small-only-margin-top">
+                <div class="large-float-right">
+                  <span class="color-white">Browse by State</span><br>
+                  <div class="state-select">
+<a href="#">Select State</a><a href="/al">Alabama</a><a href="/ak">Alaska</a><a href="/az">Arizona</a><a href="/ar">Arkansas</a><a href="/ca">California</a><a href="/co">Colorado</a><a href="/ct">Connecticut</a><a href="/de">Delaware</a><a href="/dc">District of Columbia</a><a href="/fl">Florida</a><a href="/ga">Georgia</a><a href="/hi">Hawaii</a><a href="/id">Idaho</a><a href="/il">Illinois</a><a href="/in">Indiana</a><a href="/ia">Iowa</a><a href="/ks">Kansas</a><a href="/ky">Kentucky</a><a href="/la">Louisiana</a><a href="/me">Maine</a><a href="/md">Maryland</a><a href="/ma">Massachusetts</a><a href="/mi">Michigan</a><a href="/mn">Minnesota</a><a href="/ms">Mississippi</a><a href="/mo">Missouri</a><a href="/mt">Montana</a><a href="/ne">Nebraska</a><a href="/nv">Nevada</a><a href="/nh">New Hampshire</a><a href="/nj">New Jersey</a><a href="/nm">New Mexico</a><a href="/ny">New York</a><a href="/nc">North Carolina</a><a href="/nd">North Dakota</a><a href="/oh">Ohio</a><a href="/ok">Oklahoma</a><a href="/or">Oregon</a><a href="/pa">Pennsylvania</a><a href="/ri">Rhode Island</a><a href="/sc">South Carolina</a><a href="/sd">South Dakota</a><a href="/tn">Tennessee</a><a href="/tx">Texas</a><a href="/ut">Utah</a><a href="/vt">Vermont</a><a href="/va">Virginia</a><a href="/wa">Washington</a><a href="/wv">West Virginia</a><a href="/wi">Wisconsin</a><a href="/wy">Wyoming</a></div>                </div>
+              </div>
             </div>
-            
-            <div class="clear"></div>
-            
-            <p class="copy">2017 © BroadbandExpert.com | All Rights Reserved</p>
-        </div>
+          </div>
+
+          <div class="footer-row3 color-bluegray font-small">
+            <div class="row small-padding">
+              <div class="columns small-12 medium-6">
+                © Copyright 2019 HighSpeedInternet.com. <nobr>All rights reserved.</nobr>
+              </div>
+              <div class="columns small-12 medium-6 medium-up-text-right footer-menu2 small-only-margin-top">
+                  <a href="https://www.highspeedinternet.com/compensation-methodology">Compensation &amp; Methodology</a>
+<a href="https://www.highspeedinternet.com/terms">Terms &amp; Conditions</a>
+<a href="https://www.highspeedinternet.com/privacy-policy">Privacy Policy</a>
+              </div>
+            </div>
+          </div>
+
+                                            </footer>
     </div>
-</footer>
+<a href="#" class="back-to-top"><img src="https://www.highspeedinternet.com/app/themes/coolwhip-child/dist/images/svg/back_to_top_circle.svg" alt="Back to top" title="Back to top"></a>
 
 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript">
-$(function(){
-$('a.check-availability').click(function(){
-if( $('.sidebar .frm-zipcode').length ){
-$('html, body').animate({scrollTop:$('.sidebar .frm-zipcode').offset().top},300,function(){
-$('.sidebar .frm-zipcode').submit();
-});
-}
-});
-
-$('.nav .submenu-ico').click(function(){
-var id=$(this).data('id');
-
-if( $('.nav #submenu'+id).hasClass('open') ){
-$('.nav #submenu'+id).removeClass('open');
-$(this).removeClass('open');
-}else{
-$('.nav #submenu'+id).addClass('open');
-$(this).addClass('open');
-}
-
-$('.nav #submenu'+id).animate({height:'toggle'});
-
-});
-
-$('.header .ico-menu').click(function(){
-$('.nav').animate({height:'toggle'});
-});
-
-$('.frm-zipcode').submit(function(){
-if($(this).find('#zipcode').val() == '' || $(this).find('#zipcode').val().replace(/[^0-9]/g,'').length != 5){
-return form_error( $(this).find('#zipcode') );
-}
-
-if( this.action.match(/\/zip-code\//) ){
-this.action = this.action + $(this).find('#zipcode').val() + '/';
-$(this).find('#zipcode').prop('disabled',true);
-}
-
-
-});
-
-if( $('.slider').length ){
-$('.slider-wrap .arr').click(function(){
-if( $(this).hasClass('l') ){
-slide('l',$(this).data('slider'));
-}else{
-slide('r',$(this).data('slider'));
-}
-});
-
-$(window).resize(function(){
-if( $(window).width() < 767 ){
-$('.slider').css({width:''});
-}else{
-$('.slider').each(function(){
-var width = $(this).find('.guide:eq(0)').outerWidth(true) * $(this).find('.guide').length;
-$(this).css({width:width});
-});
-}
-});
-
-$(window).resize();
-
-}
-
-
-});
-
-function slide(dir,target){
-var left = $('.slider').css('left');
-left = parseInt(left.replace(/px/,''));
-
-var width = $('.slider').css('width');
-width = parseInt(width.replace(/px/,''));
-
-var amt = $('.slider-wrap').width() + ($('.slider .guide:eq(0)').outerWidth(true) - $('.slider .guide:eq(0)').outerWidth());
-
-
-if( dir == 'r' ){
-left -= amt;
-}else if( dir == 'l' ){
-left += amt;
-}
-
-$('#slider-'+target+' .slider').animate({left:left});
-
-if(dir == 'l' && left >= 0){
-$('#slider-'+target+' .arr.l').hide();
-}else if(left < 0){
-$('#slider-'+target+' .arr.l').show();
-}
-
-if(dir == 'r' && Math.abs(left - amt) >= width ){
-$('#slider-'+target+' .arr.r').hide();
-}else if(left <= 0){
-$('#slider-'+target+' .arr.r').show();
-}
-
-}
-
-function share(url){
-window.open( url, "shareWindow", "height=380,width=660,resizable=0,toolbar=0,menubar=0,status=0,location=0,scrollbars=0")
-}
-
-function form_error(el){
-if( $(el).is('select') && $(el).parent().hasClass('selcon') ){
-$(el).parent('.selcon').addClass('error');
-}else{
-$(el).addClass('error').focus();
-}
-
-setTimeout(function(){
-if( $(el).is('select') ){
-$(el).parent('.selcon').removeClass('error');
-}else{
-$(el).removeClass('error');
-}
-},3000);
-return false;
-}
-
-var filters = [];
-
-$(function(){
-	if( filters ){
-		for( key in filters){
-			for( var x=0; x<filters[key].length; x++ ){
-				var filter = $('<input>',{name:key+'[]',type:'hidden',value:filters[key][x]});
-				$('.frm-zipcode').append(filter);
-			}
-		}
+	<style>
+	.cl_gdpr_banner {
+		display: none;
+		position: fixed;
+		bottom: -100%;
+		left: 0;
+		right: 0;
+		color: #fff;
+		text-align: center;
+		background-color: gray;
+		z-index: 9999;
+		transition: 0.5s;
 	}
-});
-
+	.cl_gdpr_banner__inner {
+		position: relative;
+		padding: 30px;
+		max-width: 98%;
+		margin: 0 auto;
+	}
+	.cl_gdpr_banner__inner__x {
+		position: absolute;
+		top: 0.75rem;
+		right: 0;
+		font-size: 1rem;
+		width: 1rem;
+		height: 1rem;
+		line-height: 1rem;
+		background-color: transparent;
+		padding: 0;
+		margin: 0;
+		border: 0;
+	}
+	.cl_gdpr_banner p {
+		margin-bottom: 0;
+	}
+	.cl_gdpr_banner a {
+		color: #fff;
+		text-decoration: underline;
+	}
+	.cl_gdpr_banner a:hover {
+		text-decoration: none;
+	}
+	.cl_gdpr_banner--visible {
+		display: block;
+		bottom: 0;
+	}
+	</style>
+	
+<div class="cl_gdpr_banner">
+	<div class="cl_gdpr_banner__inner">
+		<button type="button" class="cl_gdpr_banner__inner__x">
+			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 21.9 21.9" enable-background="new 0 0 21.9 21.9" width="16px" height="16px"><path d="M14.1,11.3c-0.2-0.2-0.2-0.5,0-0.7l7.5-7.5c0.2-0.2,0.3-0.5,0.3-0.7s-0.1-0.5-0.3-0.7l-1.4-1.4C20,0.1,19.7,0,19.5,0  c-0.3,0-0.5,0.1-0.7,0.3l-7.5,7.5c-0.2,0.2-0.5,0.2-0.7,0L3.1,0.3C2.9,0.1,2.6,0,2.4,0S1.9,0.1,1.7,0.3L0.3,1.7C0.1,1.9,0,2.2,0,2.4  s0.1,0.5,0.3,0.7l7.5,7.5c0.2,0.2,0.2,0.5,0,0.7l-7.5,7.5C0.1,19,0,19.3,0,19.5s0.1,0.5,0.3,0.7l1.4,1.4c0.2,0.2,0.5,0.3,0.7,0.3  s0.5-0.1,0.7-0.3l7.5-7.5c0.2-0.2,0.5-0.2,0.7,0l7.5,7.5c0.2,0.2,0.5,0.3,0.7,0.3s0.5-0.1,0.7-0.3l1.4-1.4c0.2-0.2,0.3-0.5,0.3-0.7  s-0.1-0.5-0.3-0.7L14.1,11.3z" fill="#FFFFFF"></path></svg>		</button>
+		<p>This site is a U.S. Consumer site. You can learn more about our site and privacy policy <a href="https://www.highspeedinternet.com/privacy-policy">here</a>.</p>
+	</div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"highspeedinternet"};
+/* ]]> */
 </script>
-
-
+<script type="text/javascript">
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"https:\/\/www.highspeedinternet.com\/wp\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/www.highspeedinternet.com\/privacy-policy","stats_nonce":"c436b36d32","share_counts":"ca8ec28415","follow_counts":"4a99ba1ec0","total_counts":"11e5d90a75","media_single":"4cdf5776fe","media_total":"31835f432a","generate_all_window_nonce":"c3fc5ee1b0","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.highspeedinternet.com/app/themes/coolwhip-child/dist/js/main.js?ver=1560790750"></script>
+<script type="text/javascript" async="false" src="//cdn.polyfill.io/v2/polyfill.min.js?features=default%2CArray.prototype.includes&amp;ver=1.0"></script>
+<script type="text/javascript" src="https://www.highspeedinternet.com/app/plugins/slick-slider/bower_components/slick-carousel/slick/slick.min.js?ver=1.8.0"></script>
+<script type="text/javascript">
+jQuery( document ).ready( function() {
+	jQuery( '.slick-slider-wrapper .slick-slider' ).slick();
+} );
+</script>
+<script type="text/javascript" src="https://www.highspeedinternet.com/app/plugins/visual-composer/assets/js/dist/js_composer_front.min.js?ver=5.4.7"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e0fbb65468","applicationID":"238263302","transactionName":"MQZaN0tVWhEFAkVfWAhMeQBNXVsMSxFQUVI=","queueTime":0,"applicationTime":320,"atts":"HUFZQQNPSR8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
