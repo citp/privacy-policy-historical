@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geekofreak.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130023619id_/http%3A//realwebgeeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekofreak.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617054031id_/https%3A//andowmac.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Computer FrEaKs
+# Privacy Policy -
 
 ## Privacy Policy:
 
@@ -14,7 +14,7 @@ GeekoFreak also collects potentially personally-identifying information like Int
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to GeekoFreak's websites choose to interact with GeekoFreak in ways that require GeekoFreak to gather personally-identifying information. The amount and type of information that GeekoFreak gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [GeekoFreak.com](http://realwebgeeks.com/) to provide a username and email address. Those who engage in transactions with GeekoFreak are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, GeekoFreak collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with GeekoFreak. GeekoFreak does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to GeekoFreak's websites choose to interact with GeekoFreak in ways that require GeekoFreak to gather personally-identifying information. The amount and type of information that GeekoFreak gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [GeekoFreak.com](https://andowmac.com/) to provide a username and email address. Those who engage in transactions with GeekoFreak are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, GeekoFreak collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with GeekoFreak. GeekoFreak does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
