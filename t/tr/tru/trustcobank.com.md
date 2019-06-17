@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trustcobank.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419082734id_/https%3A//www.trustcobank.com/page/privacy-policy-49.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustcobank.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617201048id_/https%3A//www.trustcobank.com/page/privacy-policy-49.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Trustco Bank-Privacy Policy
 
 Generally
 
@@ -8,7 +8,7 @@ Thank you for visiting the Trustco Bank (also referred to in this privacy statem
 
 This Online Privacy Policy describes our privacy practices regarding information collected from visitors to this Site. It describes what data is collected, how that information is used, and how the information may be shared. Trustco Bank may, at its sole discretion, change modify, add, or delete portions of this Online Privacy Policy. Because this Online Privacy Policy only applies to this Site, you should examine the privacy policy of any third party website ("Third Party Sites") you access through this Site.
 
-If you have a financial product with Trustco Bank for personal, family, or household purposes the sharing of your personally-identifiable information will be governed by our customer privacy policy.  Our current customer privacy policy may be [accessed by clicking here](https://web.archive.org/uploads/pdf/1450889055_Privacy%20Policy%209.2015.pdf).
+If you have a financial product with Trustco Bank for personal, family, or household purposes the sharing of your personally-identifiable information will be governed by our customer privacy policy.  Our current customer privacy policy may be [accessed by clicking here](https://web.archive.org/vs-uploads/pdf/1527799968_PrivacyNotice6-2018.pdf).
 
   
 Information Collected When You Visit this Site And How We Use It
