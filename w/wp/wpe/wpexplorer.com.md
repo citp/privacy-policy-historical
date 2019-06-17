@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpexplorer.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023104id_/https%3A//www.wpexplorer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpexplorer.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617173747id_/https%3A//www.wpexplorer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,18 +33,20 @@ If you wish to disable cookies, you may do so through your individual browser op
 
   * [Disable Cookies in Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=en)
   * [Disable Cookies in Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
-  * [Disable Cookies in Safari](https://support.apple.com/kb/ph21411?locale=en_US)
+  * [Disable Cookies in Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
   * [Disable Cookies in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
 
 
 
 ### Newsletter
 
-WPExplorer does maintain a newsletter which visitors may signup for voluntarily using the subscription form in out footer and at the end of blog posts. To subscribe you must provide your email address via the MailChimp subscription form and confirm subscription using the double-optin form. WPExplorer does not share this information.
+WPExplorer does maintain a newsletter which visitors may signup for voluntarily using the subscription form in out footer and at the end of blog posts. To subscribe you must provide your email address via the MailChimp subscription form and confirm subscription using the double-optin form. By subscribing to the WPExplorer.com newsletter you consent to receiving occasional emails from WPExplorer. WPExplorer does not share your information.
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. Please see the [Gravatar service privacy policy](https://automattic.com/privacy/) for more information. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
 We use Akismet on WPExplorer to help prevent spam. Any comments submitted through this service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives. [Click here](https://automattic.com/privacy-notice/) to learn how your comment data is processed by the Akismet service.
+
+WPExplorer also uses Subscribe to Comments Reloaded to manage comment subscriptions. By providing your email address you consent to receiving new comment or comment reply notifications for the post based on your selection. Your email will only be used for these notifications.
 
 ### Protection of Information
 
@@ -53,6 +55,8 @@ WPExplorer.com takes all measures reasonably necessary to protect against the un
 ### Your Data Rights
 
 If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+To cancel a comment subscription or to remove your information please refer to your original Subscribe to Comments Reloaded subscription email, click the link to view your subscription, then check the subscription(s) you would like to remove and select the “Unsubscribe” action. Your subscription (and associated information) will be removed from WPExplorer. If you cannot locate this email, please fee free to contact us at hello[at]wpexplorer(dot)com with the subject “Comments Subscription Data Removal Request” and we will manually delete your information from our site.
 
 ### Privacy Policy Changes
 
