@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the andrerieu.com privacy policy that was archived on 2017-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171113203053id_/https%3A//www.andrerieu.com/en/terms-and-conditions-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the andrerieu.com privacy policy that was archived on 2019-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190617072901id_/https%3A//www.andrerieu.com/en/terms-and-conditions-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="nl"><head>
+<!DOCTYPE html><html lang="en"><head>
             <title>Terms and conditions / privacy policy</title>
         <meta charset="utf-8">
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,user-scalable=1">
+        <meta property="fb:pages" content="135537777424">
+        <meta name="google-site-verification" content="kxrTOg6GC1Yc0KFpFqB4NrXXTutYOoc3LhQVBF29C_s">
         <link href="https://fonts.googleapis.com/css?family=Cinzel|Source+Sans+Pro:300,400,700" rel="stylesheet">
         <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
         <link rel="icon" type="image/png" href="/img/favicon/favicon-32x32.png" sizes="32x32">
@@ -27,7 +29,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-W54RS87');</script>
 <!-- End Google Tag Manager -->
         
-    </head><body class="basic-page" id="js_basic-page"><div id="langredirect-loader" class=" hidden"></div>
+    <style>
+        #langredirect-loader span {
+            opacity: 1;
+            transition: opacity .3s;
+            transition-delay: 1s;
+        }
+
+        #langredirect-loader.faded span {
+            opacity: 0;
+            transition: opacity .3s;
+            transition-delay: 1s;
+        }
+    </style>
+    </head><body class="basic-page" id="js_basic-page"><div id="langredirect-loader" class="faded hidden"><span></span></div>
     <script>
         if (true || sessionStorage.getItem("forcedLanguageChoice") == null) {
             var browserLanguage = navigator.language || navigator.userLanguage;
@@ -35,16 +50,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 browserLanguage = browserLanguage.substr(0, 2);
             }
 
+            setTimeout(function(){
+                document.getElementById("langredirect-loader").classList.remove("faded");
+            }, 2000);
+
             var languageRedirects = ["en\/terms-and-conditions-privacy-policy","nl\/gebruikersvoorwaarden-en-privacy-informatie","de\/terms-and-conditions-privacy-policy","fr\/terms-and-conditions-privacy-policy","es\/terms-and-conditions-privacy-policy","pt\/terms-and-conditions-privacy-policy"];
 
                         var urlParameters = '';
             
             // Recheck whether the desired language is available
-            if (languageRedirects.indexOf(browserLanguage) !== -1) {
+            if (languageRedirects.indexOf(browserLanguage) !== -1 && !window.location.pathname.startsWith('/'+browserLanguage) ) {
                 dataLayer.push({
                     'event': 'fireTags',
                     'eventCallback': function () {
-                        if (window.location.href != browserLanguage + urlParameters) {
+			if (window.location.href != browserLanguage + urlParameters && !window.location.pathname.startsWith('/'+browserLanguage) ) {
                             window.location = '/' + browserLanguage + urlParameters;
                         }
                     },
@@ -59,14 +78,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         <script type="text/javascript">
             var webshopConfig = new Object();
-            webshopConfig.shopPath = 'http://webshop.andrerieu.com/public/ajax/2.0';
-            webshopConfig.active = false;
+            webshopConfig.shopPath = 'https://webshop.andrerieu.com/public/ajax/2.0';
+            webshopConfig.active = true;
 
             webshopConfig.pages = new Object();
             webshopConfig.pages.homePage = '/en';
             webshopConfig.pages.registerPage = '/en/register/';
-            webshopConfig.pages.cartPage = '/en/new-webshop/cart/';
-            webshopConfig.pages.checkoutPage = '/en/new-webshop/checkout/';
+            webshopConfig.pages.registerDonePage = '/en/register/complete';
+            webshopConfig.pages.cartPage = '/en/webshop/cart/';
+            webshopConfig.pages.checkoutPage = '/en/webshop/checkout/';
 
             webshopConfig.translations = new Object();
             webshopConfig.translations.noImage = 'No Image Available';
@@ -77,18 +97,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<meta name="description" content="">
 	<meta name="image" content="https://www.andrerieu.com/site/assets/files/1552/slider_solisten_juli2017.-slideshow.jpg">
 	<meta name="robots" content="">
-	<link rel="canonical" href="https://www.andrerieu.com/en/terms-and-conditions-privacy-policy">
+	<link rel="canonical" href="http://www.andrerieu.com/en/terms-and-conditions-privacy-policy">
 	<meta name="generator" content="ProcessWire 3.0.42">
 	<meta property="og:site_name" content="">
 	<meta property="og:title" content="André Rieu">
-	<meta property="og:url" content="https://www.andrerieu.com/en/terms-and-conditions-privacy-policy">
+	<meta property="og:url" content="http://www.andrerieu.com/en/terms-and-conditions-privacy-policy">
 	<meta property="og:description" content="">
 	<meta property="og:type" content="website">
 	<meta property="og:image" content="https://www.andrerieu.com/site/assets/files/1552/slider_solisten_juli2017.-slideshow.jpg">
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@">
 	<meta name="twitter:title" content="André Rieu">
-	<meta name="twitter:url" content="https://www.andrerieu.com/en/terms-and-conditions-privacy-policy">
+	<meta name="twitter:url" content="http://www.andrerieu.com/en/terms-and-conditions-privacy-policy">
 	<meta name="twitter:description" content="">
 	<meta name="twitter:image" content="https://www.andrerieu.com/site/assets/files/1552/slider_solisten_juli2017.-slideshow.jpg">
 	
@@ -106,17 +126,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="off-canvas-wrap" data-offcanvas="">
         <div class="inner-wrap">
             <aside class="left-off-canvas-menu">
-    <ul class="menu"><li><a href="/en">Home</a></li><li><a href="/en/tour">Tour</a></li><li><a href="/en/about-andre">About André</a></li><li><a href="/en/travel">Travel</a></li><li><a href="http://webshop.andrerieu.com/en" target="_blank">Webshop</a></li><li><a href="/en/media">Media</a></li><li><a href="http://www.andreincinemas.com" target="_blank">Cinema</a></li><li><a href="/en/news">News</a></li></ul>
+    <ul class="menu"><li><a href="/en">Home</a></li><li><a href="/en/tour">Tour</a></li><li><a href="/en/about-andre">About André</a></li><li><a href="/en/travel">Travel</a></li><li><a href="/en/webshop/">Webshop</a></li><li><a href="/en/media">Media</a></li><li><a href="http://www.andreincinemas.com" target="_blank">Cinema</a></li><li><a href="/en/news">News</a></li></ul>
 
+        <div class="account-block">
+        <a href="/en/register/" class="register account-offcanvas js_hide_when_loggedin" title="join">
+            Join
+        </a>
+
+        <a href="javascript:;" data-role="userLogout" class="logout js_show_when_loggedin" title="Log out">
+            Log out
+        </a>
+    </div>
     </aside>
             <div class="header js_header">
     <div class="row">
         <div class="small-12 large-6 columns">
-            <a href="/" title="Home" class="logo"><img src="/img/andre-rieu.svg" alt="André Rieu"></a>
+            <a href="/en" title="Home" class="logo"><img src="/img/andre-rieu.svg" alt="André Rieu"></a>
         </div>
 
         <div class="small-12 large-6 columns">
-            <div class="social-holder ">
+            <div class="social-holder has-webshop">
             <ul class="social-list">
                             <li><a href="https://www.youtube.com/andrerieu" target="_blank" class="social"><i class="fa fa-youtube-square"></i></a></li>
                             <li><a href="https://www.facebook.com/andrerieu" target="_blank" class="social"><i class="fa fa-facebook"></i></a></li>
@@ -127,6 +156,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
         </div>
 
+                    <div class="small-12 large-6 columns">
+                <div class="account">
+
+    <a href="#modal-login" class="login js_fancybox js_hide_when_loggedin" title="Log in">
+        Log in
+    </a>
+
+    <a href="/en/account/" class="my-account js_show_when_loggedin" title="My account">
+        My account
+    </a>
+
+    <a href="/en/register/" class="register js_hide_when_loggedin" title="join">
+        Join
+    </a>
+
+    <a href="javascript:;" data-role="userLogout" class="logout js_show_when_loggedin" title="Log out">
+        Log out
+    </a>
+
+    <a href="/en/webshop/cart/" class="to-cart" title="Shoppingcart">
+        Shoppingcart<span class="amount" data-role="cartAmount">0</span>
+    </a>
+
+</div>
+
+            </div>
             </div>
 </div>
 
@@ -134,10 +189,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="menu-bar js_fixed">
     <div class="row">
             <div class="small-12 columns">
-                <ul class="menu"><li><a href="/en">Home</a></li><li><a href="/en/tour">Tour</a></li><li><a href="/en/about-andre">About André</a></li><li><a href="/en/travel">Travel</a></li><li><a href="http://webshop.andrerieu.com/en" target="_blank">Webshop</a></li><li><a href="/en/media">Media</a></li><li><a href="http://www.andreincinemas.com" target="_blank">Cinema</a></li><li><a href="/en/news">News</a></li></ul>
+                <ul class="menu"><li><a href="/en">Home</a></li><li><a href="/en/tour">Tour</a></li><li><a href="/en/about-andre">About André</a></li><li><a href="/en/travel">Travel</a></li><li><a href="/en/webshop/">Webshop</a></li><li><a href="/en/media">Media</a></li><li><a href="http://www.andreincinemas.com" target="_blank">Cinema</a></li><li><a href="/en/news">News</a></li></ul>
                 <a href="#" class="left-off-canvas-toggle js_scrolltop"><span>Menu</span></a>
 
-                
+                                                        <a href="#modal-login" class="login mobile-account js_fancybox js_hide_when_loggedin" title="Log in"></a>
+                    <a href="/en/account/" class="my-account mobile-account js_show_when_loggedin" title="My account"></a>
+                    <a href="/en/webshop/cart/" class="to-cart mobile-account" title="Shoppingcart"><span class="amount" data-role="cartAmount">0</span></a>
+                                    
                 <div class="languagemenu-holder">
     <select class="selectpicker js-language" data-width="100%" title="English">
                     <option value="/en/terms-and-conditions-privacy-policy">English</option>
@@ -152,7 +210,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </div>
 
-                            <div class="main-holder" data-stellar-background-ratio="0.2">
+                            <div class="main-holder" data-stellar-background-ratio="0.1">
+
                                     <div class="breadcrumbs-holder">
     <div class="row">
         <div class="small-12 columns breadcrumbs-column">
@@ -184,6 +243,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     <span class="heading">Terms and conditions / privacy policy</span>
                         
                         
+                        
                                             </div>
                     <div class="content-block">
                                                     <h1>PRIVACY POLICY ANDRÉ RIEU PRODUCTIONS B.V.</h1>
@@ -193,7 +253,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <h3>1.&nbsp;&nbsp;Administration and purposes data processing</h3>
 
 <p><strong>1.1.</strong><br>
-André Rieu Productions BV (hereafter: "ARP") - also trading as André Rieu Travel - respects the privacy of the visitors of its websites &nbsp;and &nbsp;(hereafter jointly and separately: "the website") and ensures that personal information you submit to us will be treated confidentially. Processing of personal data is carried out in agreement with the requirements set by the Dutch Personal Data Protection Act. ARP is the 'responsible party' for processing personal data, as meant in the applicable European or non-European regulatory framework.</p>
+André Rieu Productions BV (hereafter: "ARP") - also trading as André Rieu Travel - respects the privacy of the visitors of its websites &nbsp;and &nbsp;(hereafter jointly and separately: "the website") and ensures that personal information you submit to us will be treated confidentially. Processing of personal data is carried out in agreement with the requirements set by the <em>General Data Protection Regulation (GDPR).</em> ARP is the 'responsible party' for processing personal data, as meant in the applicable European or non-European regulatory framework.</p>
 
 <p><strong>1.2. USE</strong><br>
 ARP uses the information gathered for the following purposes:<br>
@@ -287,9 +347,28 @@ ARP reserves the right to make amendments to the Privacy Policy described in thi
 ARP advises you to regularly check our Privacy Policy for any amendments.</p>
 
 <p><strong>7.3. &nbsp;</strong> &nbsp; &nbsp;<br>
-This Privacy Policy was last amended in October 2013.<br>
+This Privacy Policy was last amended in May 2018.<br>
 &nbsp;<br>
-For any questions regarding our Privacy Policy, click here to contact us.</p>
+For any questions regarding our Privacy Policy, <a href="mailto:customerservice@andrerieugroup.com">click here</a> to contact us.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+
+        <div class="content2">
+        <div class="row">
+            <div class="content-holder">
+                <div class="small-12 columns">
+                    <div class="content-header gold"><h2></h2></div>
+                    <div class="content-block">
+                        <h3></h3>
+                        <div data-columns="1">
+                            <script id="CookieDeclaration" data-culture="EN" src="https://consent.cookiebot.com/23b87ed8-86ed-4426-99b6-1039d8a04c49/cd.js" type="text/javascript" async=""></script>
                         </div>
                     </div>
                 </div>
@@ -298,12 +377,10 @@ For any questions regarding our Privacy Policy, click here to contact us.</p>
     </div>
 
     
-
     
-    
-    
+            
         
-    
+        
 
             </div>
 
@@ -319,7 +396,7 @@ For any questions regarding our Privacy Policy, click here to contact us.</p>
                 </div>
                 <div class="row">
                     <div class="small-12 xlarge-4 columns right">
-                        <div class="social-holder ">
+                        <div class="social-holder has-webshop">
             <ul class="social-list">
                             <li><a href="https://www.youtube.com/andrerieu" target="_blank" class="social"><i class="fa fa-youtube-square"></i></a></li>
                             <li><a href="https://www.facebook.com/andrerieu" target="_blank" class="social"><i class="fa fa-facebook"></i></a></li>
@@ -331,7 +408,7 @@ For any questions regarding our Privacy Policy, click here to contact us.</p>
                     </div>
                     <div class="small-12 xlarge-8 columns left">
                         <div class="privacy">Copyright © 1999 -
-                            2017 André Rieu Productions BV - All Rights Reserved<span>|</span>
+                            2019 André Rieu Productions BV - All Rights Reserved<span>|</span>
                             <p><a href="/en/terms-and-conditions-privacy-policy">Terms of Use and privacy statement</a></p>
                         </div>
                     </div>
@@ -347,7 +424,95 @@ For any questions regarding our Privacy Policy, click here to contact us.</p>
     </div>
 
     <script src="/js/site.js"></script>
+    <script src="https://my.hellobar.com/64fc8a7e5820c323b391f44711b75e5c49614331.js" type="text/javascript" charset="utf-8" async="async"></script>\
 
+            
+<div id="modal-login" class="modal login" style="display: none">
+
+            <span class="heading">Log in</span>
     
+    <div class="FormBuilder FormBuilder-loginform">
+
+<!-- ProcessWire Form Builder - Copyright 2016 by Ryan Cramer Design, LLC -->
+<form id="FormBuilder_loginform" class=" FormBuilderFrameworkBasic FormBuilder InputfieldNoFocus InputfieldFormWidths InputfieldForm" name="loginform" method="post" action="./" data-colspacing="0"><div class="Inputfields"><div class="Inputfield Inputfield_username InputfieldText" id="wrap_Inputfield_username"><label class="InputfieldHeader" for="Inputfield_username">E-mail</label><div class="InputfieldContent "><input id="Inputfield_username" class="InputfieldMaxWidth" name="username" type="text" maxlength="2048" placeholder="E-mail"></div></div><div class="Inputfield Inputfield_password InputfieldText" id="wrap_Inputfield_password"><label class="InputfieldHeader" for="Inputfield_password">Password</label><div class="InputfieldContent "><input id="Inputfield_password" name="password" type="text" size="30" maxlength="256" placeholder="Password" data-minlength="6"></div></div><div class="Inputfield Inputfield_remember InputfieldCheckbox" id="wrap_Inputfield_remember"><label class="InputfieldHeader"><span>Remember login details</span></label><div class="InputfieldContent "><label><input type="checkbox" id="Inputfield_remember" name="remember" value="1"><span class="pw-no-select">Remember login details</span></label></div></div><div class="Inputfield Inputfield_loginform_submit InputfieldSubmit" id="wrap_loginform_submit"><div class="InputfieldContent "><button type="submit" name="loginform_submit" value="Login">Login</button></div></div></div>
+	<input type="hidden" name="_submitKey" value="4:loginform:0">
+</form>
+</div><!--/.FormBuilder-->
+<script type="text/javascript">
+    var ajaxCustomloginformSubmitForm = function(event) {
+        $('.FormBuilderErrors').remove();
+
+        var ajaxSuccess = function(data) {
+            var form = $(event.target);
+            var formID = form.attr('id');
+            if( $(data).closest('.FormBuilderErrors').length > 0 || $(data).find('.FormBuilderErrors').length > 0 ) {
+                // error
+            } else {
+                // success
+                window.dataLayer = window.dataLayer || [];
+                window.dataLayer.push({
+                    'event' : 'formulierVerstuurd',
+                    'formuliernaam' : formID
+                });
+                $(document).trigger('FormBuilderAjax__success');
+            }
+            // rename existing form so we don't have id conflict with replacement form
+            form.attr('id', 'to-be-removed');
+            // put in new content (whether success message or replacement error form)
+            form.before(data);
+            // remove existing form
+            form.remove();
+
+            // reassign event in case error occurred we can do this all again
+            form = $('#' + formID);
+            form.submit(ajaxCustomloginformSubmitForm);
+        };
+
+        event.preventDefault();
+        event.stopImmediatePropagation();
+        var fd = new FormData(document.getElementById('FormBuilder_loginform')); 
+        $.ajax({
+            url: '',
+            data: fd,
+            processData: false,
+            contentType: false,
+            dataType: 'html',
+            type: 'POST',
+            success: ajaxSuccess
+        });
+        return false;
+    };
+
+    function ajaxCustomloginformAddListener() {
+        if (!window.jQuery) {
+            setTimeout( ajaxCustomloginformAddListener, 100 );
+            return;
+        }
+        
+        var formEvents = $._data( $('#FormBuilder_loginform').get(0), 'events' );
+        var script = document.createElement('script');
+        script.src = '/wire/templates-admin/scripts/inputfields.js';
+        document.head.appendChild(script);
+        
+        if(typeof formEvents !== 'undefined' && formEvents.submit.length > 0 ) {
+            console.log('XcomFormBuilderExtensions: Form submit for #FormBuilder_loginform already has a submit event handler, not attaching our own');
+        }
+        else {
+            var formBuilderCustomloginform = $('#FormBuilder_loginform');
+            formBuilderCustomloginform.submit(ajaxCustomloginformSubmitForm);
+        }
+    }
+
+    setTimeout( ajaxCustomloginformAddListener, 100);
+</script>
+				
+
+    <a href="#" data-role="userForgotPassword" class="forgotten-password">Forgotten password</a>
+
+    <p>If you don't have an account yet, please register.</p>
+
+    <a href="/en/register/" class="button register">Register</a>
+</div>
+
 
 </body></html>
