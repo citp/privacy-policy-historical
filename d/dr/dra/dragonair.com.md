@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragonair.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117170809id_/https%3A//www.cathaypacific.com/cx/en_GB/legal-and-privacy/data-privacy-and-security-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonair.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617225207id_/https%3A//www.cathaypacific.com/cx/en_HK/legal-and-privacy/customer-privacy-policy.html) for the most accurate reproduction.*
 
 # Customer Privacy Policy | Legal and privacy | Cathay Pacific
 
@@ -8,7 +8,7 @@ When you use Cathay Pacific’s1 services, you entrust us with personal informat
 
 This Privacy Policy also applies when you buy travel packages from us or from Cathay Holidays Limited (or its subsidiaries).
 
-Cathay Pacific also offers the [Marco Polo Club](https://web.archive.org/cx/en_GB/frequent-flyers.html), our loyalty programme. If you are a Marco Polo Club member or a Registered Account holder, this Privacy Policy also explains how Cathay Pacific uses and shares any Personal Data in connection with your membership.
+Cathay Pacific also offers the [Marco Polo Club](https://web.archive.org/cx/en_HK/frequent-flyers.html), our loyalty programme. If you are a Marco Polo Club member or a Registered Account holder, this Privacy Policy also explains how Cathay Pacific uses and shares any Personal Data in connection with your membership.
 
 The Asia Miles programme has its own privacy policy, so if you provide any Personal Data as part of the Asia Miles loyalty programme, we recommend you take the time to read that policy as well.
 
@@ -80,7 +80,7 @@ You have the right to ask us not to process your Personal Data for direct market
 
 (a) following the opt-out instructions contained in the relevant communications; or
 
-(b) updating your email subscriptions for [Cathay Pacific newsletter](https://web.archive.org/cx/en_GB/latest-offers/subscribe-offers/newsletter-subscription.html) OR for [Marco Polo Club newsletter](https://web.archive.org/cx/en_GB/frequent-flyers/my-account/manage-account/update-profile/subscription-to-email-updates.html).
+(b) updating your email subscriptions for [Cathay Pacific newsletter](https://web.archive.org/cx/en_HK/latest-offers/subscribe-offers/newsletter-subscription.html) OR for [Marco Polo Club newsletter](https://web.archive.org/cx/en_HK/frequent-flyers/my-account/manage-account/update-profile/subscription-to-email-updates.html).
 
 #### 8.3 Updating information
 
@@ -107,7 +107,7 @@ Hong Kong
 
 ### 9\. Use of Cookies on Cathay Pacific Group Sites
 
-The websites of the Cathay Pacific group companies, including cathaypacific.com use cookies which, among other things, help us to improve your experience of our websites and to ensure that they perform as you expect them to.  For detailed information on how we use cookies and the purposes for which we use then, please see our [Cookies Policy](https://web.archive.org/cx/en_GB/legal-and-privacy/cookies-policy.html).
+The websites of the Cathay Pacific group companies, including cathaypacific.com use cookies which, among other things, help us to improve your experience of our websites and to ensure that they perform as you expect them to.  For detailed information on how we use cookies and the purposes for which we use then, please see our [Cookies Policy](https://web.archive.org/cx/en_HK/legal-and-privacy/cookies-policy.html).
 
 ### 10\. Links to Other Sites
 
