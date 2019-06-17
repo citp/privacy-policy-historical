@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the datorama.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125101228id_/https%3A//datorama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datorama.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617120549id_/https%3A//datorama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Datorama
 
-**Last Updated** : November 13, 2018
+**Last Updated** : February 5, 2019
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=c4e93b5b-f002-44f6-86ac-2cdb22d2beeb)
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=0a5802d6-2a9a-4865-9fe9-70e1140cf3b6)
 
 Datorama has become a part of the Salesforce family, and as part of that transition, please stay tuned for additional information about how we are aligning with our new corporate parent. Datorama continues to be committed to treating data entrusted to us in a manner consistent with principles described in this statement and with the [Salesforce Privacy Statement](https://www.salesforce.com/company/privacy). We will announce updates to this Privacy Statement here. If you have any questions about our efforts or privacy practices from now until we announce an updated Privacy Statement, please contact [privacy@datorama.com](mailto:privacy@datorama.com).
 
 Datorama, Inc. (“Datorama”) is committed to protecting the privacy of your information. This privacy policy explains how we collect, use, share and otherwise process information relating to individuals (“Personal Data”), and your rights and choices regarding our processing of your Personal Data. This privacy policy applies if you visit Datorama’s corporate websites or social media or other webpages that we operate in which we post a direct link to this privacy policy.
+
+Datorama is the controller of your Personal Data and responsible for the collection, processing and disclosure of your Personal Data as described in this Privacy Statement unless expressly specified otherwise. For detailed privacy information related to where the Datorama customer is the controller, please reach out to the customer directly. We are not responsible for the privacy or data security practices of our customers, which may differ from those set forth in this Privacy Statement. Information regarding our privacy and data security practices as a processor of Personal Data on behalf of our customers can be found in the Salesforce Data Processing Addendum, available [here](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/data-processing-addendum.pdf).
 
 ### **What does Datorama do?**
 
@@ -85,11 +91,11 @@ Our website, apps, and services may use the following types of cookies:
 
 **Web Beacons/Usage Analytics**
 
-Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. Web beacons, unlike cookies, are **not** stored on a computer’s hard drive. Web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.
+Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. Web beacons, unlike cookies, are **not  **stored on a computer’s hard drive. Web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.
 
 Yes – Datorama uses, or our third-party advertising partners use, web beacons and usage analytics software that help us better manage content on a Datorama site by informing us what content is effective.
 
-Datorama does **not** tie the information gathered by our web beacons to your Personal Data.
+Datorama does **not  **tie the information gathered by our web beacons to your Personal Data.
 
 **Third Party Cookies**
 
@@ -151,18 +157,6 @@ We will take steps to ensure that your data is subject to appropriate safeguards
 For residents of the European Economic Area and Switzerland, Datorama will executed standard contractual clauses among Datorama affiliates for the purpose of its lawful transfers of personal data to the United States.
 
 We will only transfer Personal Data to cloud service providers such as Amazon Web Services, who need the information in order to provide services to or perform activities on behalf of Datorama.
-
-Datorama complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries. Datorama has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit www.privacyshield.gov.
-
-### **Privacy Shield Independent Recourse Mechanism, Federal Trade Commission Jurisdiction**
-
-In compliance with the EU-U.S. Privacy Shield Principles and the Swiss-U.S. Privacy Shield Principles, Datorama commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Datorama at: [privacy@datorama.com](mailto:privacy@datorama.com).
-
-Datorama has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield Principles and the Swiss-U.S. Privacy Shield Principles to JAMS, a non-profit alternative dispute resolution provider located in the United States to assist with the complaint resolution process. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield%20)for more information and to file a complaint.
-
-Datorama is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) to ensure compliance with the EU-U.S. Privacy Shield Principles and the Swiss U.S. Privacy Shield Principles outlined in this Privacy Policy.
-
-Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 ### **Changes to our Policy**
 
