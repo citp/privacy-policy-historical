@@ -1,51 +1,402 @@
-> *The following text is extracted and transformed from the cbpassiveincome30.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606092635id_/http%3A//cbpassiveincome30.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbpassiveincome30.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617152317id_/https%3A//cbpassiveincome30.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-CBPassiveIncome.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.” 
+This section summarises how we obtain, store and use information about you.  **It is intended to provide a very general overview only. It is not complete in and of itself and it must be read in conjunction with the corresponding full sections of this Privacy Policy.**
 
-How we gather information from users 
+If you have any questions about this Privacy Policy, please contact the data controller.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, CBPassiveIncome.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences. 
+The data controller in respect of our website is;
 
-What we do with the information we collect 
+Internet Mastermind Sdn Bhd
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
+1-3-22, 
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
+eGate Commercial Complex, 
 
-We may use Personally Identifiable Information collected on CBPassiveIncome.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by CBPassiveIncome.com and other topics we think you might find of interest. 
+Lebuh Tunku Kudin 2, 
 
-Personally Identifiable Information collected by CBPassiveIncome.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
+11700 Gelugor, 
 
-Affiliated sites, linked sites and advertisements 
+Penang Malaysia.
 
-CBPassiveIncome.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a CBPassiveIncome.com page, certain content that is actually created or hosted by a third party. Also, through CBPassiveIncome.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. CBPassiveIncome.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
+You can contact the data controller by writing to our data protection officer at the address above or by sending an email to http://www.helpdeskcare.com
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. CBPassiveIncome.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. 
+**When you visit our website**
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of CBPassiveIncome.com and this policy. 
+We collect and use information from website visitors in accordance with this section and the section entitled 
 
-Children 
+ _Disclosure and additional uses of your information_
 
-CBPassiveIncome.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe CBPassiveIncome.com has any information from or about anyone under 13, please contact us at the address listed below. 
+.
 
-Contacting Us. 
+**Web server log information**
 
-We can be reached by contacting: 
+Our website server automatically logs the IP address you use to access our website as well as other information about your visit such as the pages accessed, information requested, the date and time of the request, the source of your access to our website (e.g. the website or URL (link) which referred you to our website), and your browser version and operating system.
 
-CBPassiveIncome.com 
+**Use of website server log information for IT security purposes**
 
-Email: www.helpdeskcare.com 
+We collect and store server logs to ensure network and IT security and so that the server and website remain uncompromised. This includes analysing log files to help identify and prevent unauthorised access to our network, the distribution of malicious code, denial of services attacks and other cyber attacks, by detecting unusual or suspicious activity.
 
-Changes to this Policy 
+Unless we are investigating suspicious or potential criminal activity, we do not make, nor do we allow our hosting provider to make, any attempt to identify you from the information collected via server logs.
 
-CBPassiveIncome.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+**Legal basis for processing:**  compliance with a legal obligation to which we are subject (Article 6(1)(c) of the General Data Protection Regulation).
 
-Governing law 
+**Legal obligation:**  we have a legal obligation to implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk of our processing of information about individuals. Recording access to our website using server log files is such a measure.
 
-This policy and the use of this Site are governed by Penang, Malaysia law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Penang, Malaysia. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
+**Legal basis for processing:**  our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Penang, Malaysia, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
+**Legitimate interests:**  we have a legitimate interest in using your information for the purposes of ensuring network and information security.
 
-CBPassiveIncome.com is controlled, operated and administered entirely within Penang, Malaysia. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+**Use of website server log information to analyse website use and improve our website**
+
+We use the information collected by our website server logs to analyse how our website users interact with our website and its features. For example, we analyse the number of visits and unique visitors we receive, the time and date of the visit, the location of the visit and the operating system and browser use.
+
+We use the information gathered from the analysis of this information to improve our website. For example, we use the information gathered to change the information, content and structure of our website and individual pages based according to what users are engaging most with and the duration of time spent on particular pages on our website.
+
+**Legal basis for processing:**  our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).
+
+**Legitimate interest:**  improving our website for our website users and getting to know our website users’ preferences so our website can better meet their needs and desires.
+
+Cookies are data files which are sent from a website to a browser to record information about users for various purposes.
+
+We use cookies on our website, including essential, functional, analytical and targeting cookies. For further information on how we use cookies, please see our cookies policy which is available https://cbpassiveincome30.com/cookiepolicy
+
+You can reject some or all of the cookies we use on or via our website by changing your browser settings or non-essential cookies by using a cookie control tool, but doing so can impair your ability to use our website or some or all of its features. For further information about cookies, including how to change your browser settings, please visit www.allaboutcookies.org or see our cookies policy.
+
+We collect and use information from individuals who contact us in accordance with this section and the section entitled 
+
+ _Disclosure and additional uses of your information_
+
+.
+
+When you send an email to the email address displayed on our website we collect your email address and any other information you provide in that email (such as your name, telephone number and the information contained in any signature block in your email).
+
+**Legal basis for processing:**  our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).
+
+**Legitimate interest(s):**  responding to enquiries and messages we receive and keeping records of correspondence.
+
+**Legal basis for processing:**  necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).
+
+**Reason why necessary to perform a contract:**  where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
+
+When you contact us using an enquiry form, we collect your personal details and match this to any information we hold about you on record. Typical personal information collected will include your name and contact details. We will also record the time, date and the specific form you completed.
+
+If you do not provide the mandatory information required by our contact form, you will not be able to submit the contact form and we will not receive your enquiry.
+
+**Legal basis for processing:**  our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).
+
+**Legitimate interest(s):**  responding to enquiries and messages we receive and keeping records of correspondence.
+
+We will also use this information to tailor any follow up sales and marketing communications with you. For further information, see the section of this privacy policy titled ‘Marketing Communications’.
+
+Messages you send to us via our contact form will be stored outside the European Economic Area on our contact form provider’s servers in the United States.
+
+For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled 
+
+ _Transfers of your information outside the European Economic Area_
+
+.
+
+When you contact us by phone, we collect your phone number and any information provide to us during your conversation with us.
+
+We record customer-facing phone calls for training and customer service purposes.
+
+**Legal basis for processing:**  our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation)
+
+**Legitimate interest(s):**  responding to enquiries and messages we receive and keeping records of correspondence.
+
+**Legal basis for processing:**  necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).
+
+**Reason why necessary to perform a contract:**  where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
+
+If you contact us by post, we will collect any information you provide to us in any postal communications you send us.
+
+**Legal basis for processing:**  our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation)
+
+**Legitimate interest(s):**  responding to enquiries and messages we receive and keeping records of correspondence.
+
+**Legal basis for processing:**  necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).
+
+**Reason why necessary to perform a contract:**  where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
+
+We collect and use information from individuals who interact with particular features of our website in accordance with this section and the section entitled 
+
+ _Disclosure and additional uses of your information_
+
+.
+
+When you sign up for any of our newsletters from us by completing the newsletter sign up form, we collect your email address. We will also record the time and date of completion.
+
+**Legal basis for processing:**  your consent (Article 6(1)(a) of the General Data Protection Regulation). Consent: you give your consent to us sending you our newsletters by signing up to receive them using the steps described above.
+
+We will also use this information to tailor any follow up sales and marketing communications with you. For further information, see the section of this privacy policy titled ‘Marketing Communications’.
+
+_Transfer and storage of your information_
+
+Information you submit to subscribe for our e-newsletter will be stored outside the European Economic Area on our third-party mailing list provider’s servers in the United States.
+
+For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled 
+
+ _Transfers of your information outside the European Economic Area_
+
+.
+
+_Use of tracking in emails_
+
+We use technologies such as tracking pixels (small graphic files) and tracked links in the emails we send to allow us to assess the level of engagement our emails receive by measuring information such as the delivery rates, open rates, click through rates and content engagement which our emails achieve.
+
+For more information on how we use tracking our newsletter emails, see our cookies policy which is available https://cbpassiveincome30.com/cookiepolicy
+
+**Registering on our website**
+
+We collect and use information from individuals who place an order on our website in accordance with this section and the section entitled 
+
+ _Disclosure and additional uses of your information_
+
+.
+
+**Information collected when you place an order**
+
+After you place an order on our website you will need to make payment for the goods or services you have ordered. 
+
+**Legal basis for processing:**  necessary to perform a contract (Article 6(1)(b) of the General Data Protection Regulation).
+
+**Reason why necessary to perform a contract:**  to fulfil your contractual obligation to pay for the goods or services you have ordered from us.
+
+**Our content, goods and services**
+
+When signing up for content, registering on our website or making a payment, we will use the information you provide in order to contact you regarding related content, products and services.
+
+We will continue to send you marketing communications in relation to similar goods and services if you do not opt out from receiving them.
+
+You can opt-out from receiving marketing communications at any time by emailing http://www.helpdeskcare.com
+
+**Legal basis for processing:**  our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).
+
+**Legitimate interests:**  Sharing relevant, timely and industry-specific information on related business services, in order to assist your organisation grow, or to further develop you as a professional.
+
+_Transfer and storage of your information_
+
+Information for marketing campaigns will be stored outside the European Economic Area on our servers located in the United States.
+
+For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled 
+
+ _Transfers of your information outside the European Economic Area_
+
+.
+
+Use of tracking in emails
+
+We use technologies such as tracking pixels (small graphic files) and tracked links in the emails we send to allow us to assess the level of engagement our emails receive by measuring information such as the delivery rates, open rates, click through rates and content engagement that our emails achieve.
+
+For more information on how we use tracking in our marketing emails, see our cookies policy which is https://cbpassiveincome30.com/cookiepolicy
+
+**Third party goods and services**
+
+**Information obtained from third parties**
+
+This section sets out how we obtain or collect information about you from third parties.
+
+**Information received from third parties**
+
+**Information obtained by us from third parties**
+
+In certain circumstances (for example, to verify the information we hold about you or obtain missing information we require to provide you with a service) we will obtain information about you from certain publicly accessible sources, both EU and non-EU, such as Companies House, online customer databases, business directories, media publications, social media, and websites (including your own website if you have one.
+
+In certain circumstances will also obtain information about you from private sources, both EU and non-EU, such as marketing data services.
+
+We will continue to send you marketing communications in relation to similar goods and services if you do not opt out from receiving them.
+
+You can opt-out from receiving marketing communications at any time by emailing http://www.helpdeskcare.com
+
+**Legal basis for processing:**  our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).
+
+**Legitimate interests:**  Sharing relevant, timely and industry-specific information on related business services, in order to assist your organisation grow, or to further develop you as a professional.
+
+**Where we receive information about you in error**
+
+If we receive information about you from a third party in error and/or we do not have a legal basis for processing that information, we will delete your information.
+
+**Disclosure and additional uses of your information**
+
+This section sets out the circumstances in which will disclose information about you to third parties and any additional purposes for which we use your information.
+
+**Disclosure of your information to service providers**
+
+We use a number of third parties and affiliates to provide us with services which are necessary to run our business or to assist us with running our business
+
+These include the following: Internet services, IT service providers and web developers.
+
+Our third party service providers are located both inside and outside of the European Economic Area.
+
+Your information will be shared with these service providers where necessary to provide you with the service you have requested, whether that is accessing our website or ordering goods and services from us.
+
+We do not display the identities of our service providers publicly by name for security and competitive reasons. If you would like further information about the identities of our service providers, however, please contact us directly by email and we will provide you with such information where you have a legitimate reason for requesting it (where we have shared your information with such service providers, for example).
+
+**Legal basis for processing:**  legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).
+
+**Legitimate interest relied on:**  where we share your information with these third parties in a context other than where is necessary to perform a contract (or take steps at your request to do so), we will share your information with such third parties in order to allow us to run and manage our business efficiently.
+
+**Legal basis for processing:**  necessary to perform a contract and/or to take steps at your request prior to entering into a contract (Article 6(1)(b) of the General Data Protection Regulation).
+
+**Reason why necessary to perform a contract:**  we may need to share information with our service providers to enable us to perform our obligations under that contract or to take the steps you have requested before we enter into a contract with you.
+
+**Disclosure and use of your information for legal reasons**
+
+_Indicating possible criminal acts or threats to public security to a competent authority_
+
+If we suspect that criminal or potential criminal conduct has been occurred, we will in certain circumstances need to contact an appropriate authority, such as the police. This could be the case, for instance, if we suspect that we fraud or a cyber crime has been committed or if we receive threats or malicious communications towards us or third parties.
+
+We will generally only need to process your information for this purpose if you were involved or affected by such an incident in some way.
+
+**Legal basis for processing:**  our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).
+
+**Legitimate interests:**  preventing crime or suspected criminal activity (such as fraud).
+
+_In connection with the enforcement or potential enforcement our legal rights_
+
+We will use your information in connection with the enforcement or potential enforcement of our legal rights, including, for example, sharing information with debt collection agencies if you do not pay amounts owed to us when you are contractually obliged to do so. Our legal rights may be contractual (where we have entered into a contract with you) or non-contractual (such as legal rights that we have under copyright law or tort law).
+
+**Legal basis for processing:**  our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).
+
+**Legitimate interest:**  enforcing our legal rights and taking steps to enforce our legal rights.
+
+_In connection with a legal or potential legal dispute or proceedings_
+
+We may need to use your information if we are involved in a dispute with you or a third party for example, either to resolve the dispute or as part of any mediation, arbitration or court resolution or similar process.
+
+**Legal basis for processing:**  our legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).
+
+**Legitimate interest(s):**  resolving disputes and potential disputes.
+
+**How long we retain your information**
+
+This section sets out how long we retain your information. We have set out specific retention periods where possible. Where that has not been possible, we have set out the criteria we use to determine the retention period.
+
+_Server log information:_
+
+ we retain information on our server logs for 3 months.
+
+_Order information:_
+
+ when you place an order for goods and services, we retain that information for seven years following the end of the financial year in which you placed your order, in accordance with our legal obligation to keep records for tax purposes.
+
+_Correspondence and enquiries:_
+
+ when you make an enquiry or correspond with us for any reason, whether by email or via our contact form or by phone, we will retain your information for as long as it takes to respond to and resolve your enquiry, and for 36 further month(s), after which point we will archive your information.
+
+_Newsletter:_
+
+ we retain the information you used to sign up for our newsletter for as long as you remain subscribed (i.e. you do not unsubscribe).
+
+_Membership:_
+
+ we retain the information you used to sign up for our memberships for as long as you remain subscribed (i.e. you do not unsubscribe).
+
+**Criteria for determining retention periods**
+
+**How we secure your information**
+
+We take appropriate technical and organisational measures to secure your information and to protect it against unauthorised or unlawful use and accidental loss or destruction, including:
+
+\- only sharing and providing access to your information to the minimum extent necessary, subject to confidentiality restrictions 
+
+\- where appropriate, and on an anonymised basis wherever possible;  
+
+
+\- using secure servers to store your information;
+
+\- verifying the identity of any individual who requests access to information prior to granting them access to information;
+
+\- using Secure Sockets Layer (SSL) software to encrypt any payment transactions you make on or via our website;
+
+\- only transferring your information via closed system or encrypted data transfers;
+
+**Transmission of information to us by email**
+
+Transmission of information over the internet is not entirely secure, and if you submit any information to us over the internet (whether by email, via our website or any other means), you do so entirely at your own risk.
+
+We cannot be responsible for any costs, expenses, loss of profits, harm to reputation, damages, liabilities or any other form of loss or damage suffered by you as a result of your decision to transmit information to us by such means.
+
+**Transfers of your information outside the European Economic Area**
+
+Your information may be transferred and stored outside the European Economic Area (EEA) in the circumstances set out earlier in this policy.
+
+We will also transfer your information outside the EEA or to an international organisation in order to comply with legal obligations to which we are subject (compliance with a court order, for example). Where we are required to do so, we will ensure appropriate safeguards and protections are in place.
+
+**Your rights in relation to your information**
+
+Subject to certain limitations on certain rights, you have the following rights in relation to your information, which you can exercise by writing to the data controller using the details provided at the top of this policy.
+
+\- **to request access to your information**  and information related to our use and processing of your information;
+
+\- **to request the correction or deletion**  of your information;
+
+\- **to request that we restrict our use**  of your information;
+
+\- **to receive information which you have provided to us in a structured, commonly used and machine-readable format**  (e.g. a CSV file) and the right to have that information transferred to another data controller (including a third party data controller);
+
+\- **to object to the processing of your information for certain purposes**  (for further information, see the section below entitled Your right to object to the processing of your information for certain purposes); and
+
+\- to withdraw your consent to our use of your information at any time where we rely on your consent to use or process that information. Please note that if you withdraw your consent, this will not affect the lawfulness of our use and processing of your information on the basis of your consent before the point in time when you withdraw your consent.
+
+In accordance with Article 77 of the General Data Protection Regulation, you also have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or of an alleged infringement of the General Data Protection Regulation.
+
+**Further information on your rights in relation to your personal data as an individual**
+
+You can find out further information about your rights, as well as information on any limitations which apply to those rights, by reading the underlying legislation contained in Articles 12 to 22 and 34 of the General Data Protection Regulation, which is available here: http://ec.europa.eu/justice/data-protection/reform/files/regulation_oj_en.pdf
+
+**Verifying your identity where you request access to your information**
+
+Where you request access to your information, we are required by law to use all reasonable measures to verify your identity before doing so.
+
+These measures are designed to protect your information and to reduce the risk of identity fraud, identity theft or general unauthorised access to your information.
+
+**How we verify your identity**
+
+Where we possess appropriate information about you on file, we will attempt to verify your identity using that information.
+
+If it is not possible to identity you from such information, or if we have insufficient information about you, we may require original or certified copies of certain documentation in order to be able to verify your identity before we are able to provide you with access to your information.
+
+We will be able to confirm the precise information we require to verify your identity in your specific circumstances if and when you make such a request.
+
+You have the following rights in relation to your information, which you may exercise in the same way as you may exercise by writing to the data controller using the details provided at the top of this policy.
+
+\- to object to us using or processing your information where we use or process it in order to  **carry out a task in the public interest or for our legitimate interests** , including ‘profiling’ (i.e. analysing or predicting your behaviour based on your information) based on any of these purposes; and
+
+\- to object to us using or processing your information for  **direct marketing purposes**  (including any profiling we engage in that is related to such direct marketing).
+
+You may also exercise your right to object to us using or processing your information for direct marketing purposes by:
+
+\- **clicking the unsubscribe link**  contained at the bottom of any marketing email we send to you and following the instructions which appear in your browser following your clicking on that link;
+
+\- **sending an email**  to http://www.helpdeskcare.com, asking that we stop sending you marketing communications or by including the words “OPT OUT”.
+
+**Sensitive Personal Information**
+
+‘Sensitive personal information’ is information about an individual that reveals their racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic information, biometric information for the purpose of uniquely identifying an individual, information concerning health or information concerning a natural person’s sex life or sexual orientation.
+
+We do not knowingly or intentionally collect sensitive personal information from individuals, and you must not submit sensitive personal information to us.
+
+If, however, you inadvertently or intentionally transmit sensitive personal information to us, you will be considered to have explicitly consented to us processing that sensitive personal information under Article 9(2)(a) of the General Data Protection Regulation. We will use and process your sensitive personal information for the purposes of deleting it.
+
+**Changes to our Privacy Policy**
+
+We update and amend our Privacy Policy from time to time.
+
+_Minor changes to our Privacy Policy_
+
+Where we make minor changes to our Privacy Policy, we will update our Privacy Policy with a new effective date stated at the beginning of it. Our processing of your information will be governed by the practices set out in that new version of the Privacy Policy from its effective date onwards.
+
+_Major changes to our Privacy Policy or the purposes for which we process your information_
+
+Where we make major changes to our Privacy Policy or intend to use your information for a new purpose or a different purpose than the purposes for which we originally collected it, we will notify you by email (where possible) or by posting a notice on our website.
+
+We will provide you with the information about the change in question and the purpose and any other relevant information before we use your information for that new purpose.
+
+Wherever required, we will obtain your prior consent before using your information for a purpose that is different from the purposes for which we originally collected it.
+
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations protect the privacy of children using the internet. We do not knowingly contact or collect information from persons under the age of 18. The website is not intended to solicit information of any kind from persons under the age of 18.
+
+It is possible that we could receive information pertaining to persons under the age of 18 by the fraud or deception of a third party. If we are notified of this, as soon as we verify the information, we will, where required by law to do so, immediately obtain the appropriate parental consent to use that information or, if we are unable to obtain such parental consent, we will delete the information from our servers. If you would like to notify us of our receipt of information about persons under the age of 18, please do so by contacting us by using the details at the top of this policy.
