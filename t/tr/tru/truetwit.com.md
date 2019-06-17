@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truetwit.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029141135id_/http%3A//www.truetwit.com/truetwit/home/privacy.form) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truetwit.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617110614id_/http%3A//www.truetwit.com/truetwit/home/privacy.form) for the most accurate reproduction.*
 
 # TrueTwit Validation
 
