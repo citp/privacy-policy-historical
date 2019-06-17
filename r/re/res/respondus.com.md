@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213001936id_/http%3A//www.respondus.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617193514id_/http%3A//www.respondus.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Respondus Privacy Policy
 
 RESPONDUS  
 PRIVACY POLICY  
-Last Revised: August 24, 2018
+Last Revised: February 28, 2019
 
 This Privacy Notice is effective as of May 25, 2018.
 
