@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the songfacts.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923165307id_/https%3A//www.songfacts.com/blog/pages/songfacts-privacy-policy-and-legal-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songfacts.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617110356id_/https%3A//www.songfacts.com/blog/pages/songfacts-privacy-policy-and-legal-notice) for the most accurate reproduction.*
 
 # Songfacts Privacy Policy and Legal Notice : Songfacts Pages
 
 This website is maintained by Songfacts, LLC, of Canton, Connecticut. No part of the site may be reproduced without written permission from  
-Songfacts, LLC. For more on who we are and how the site works, please see the [SongFAQ](http://www.songfacts.com/blog/pages/about_us/).
+Songfacts, LLC. For more on who we are and how the site works, please see the [SongFAQ](https://www.songfacts.com/blog/pages/about-us).
 
 All information on this site is the copyright of Songfacts, LLC.
 
@@ -41,7 +41,7 @@ If you are located in Europe, some of the data that we process may be protected 
 
 **Use of the Site**
 
-Use of Songfacts is governed by our [Terms of Service](http://www.songfacts.com/blog/pages/terms_of_service/).
+Use of Songfacts is governed by our [Terms of Service](https://www.songfacts.com/blog/pages/terms-of-service).
 
  **Children's Privacy**
 
@@ -74,3 +74,7 @@ To get anonymous demographic data so we can better understand the interests of o
  **Public Areas, Message Boards**
 
 Please remember that any information you share in public areas, such as message boards or comments, becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public. Please be careful about what you disclose and do not post any Personal Information that you expect to keep private.
+
+* * *
+
+[More Songfacts Pages](https://web.archive.org/blog/pages)
