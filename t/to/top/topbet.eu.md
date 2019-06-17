@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topbet.eu privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130140725id_/https%3A//topbet.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbet.eu privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617091825id_/https%3A//topbet.eu/privacy) for the most accurate reproduction.*
 
 # Online Sports Betting Terms & Conditions - TopBet Sportsbook
 
