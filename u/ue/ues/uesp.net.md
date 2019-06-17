@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the uesp.net privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224060048id_/http%3A//en.uesp.net/wiki/UESPWiki%3APrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uesp.net privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617093935id_/https%3A//en.uesp.net/wiki/UESPWiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # UESPWiki:Privacy Policy - The Unofficial Elder Scrolls Pages (UESP)
-
-[](https://web.archive.org/wiki/UESPWiki:Full_Protection "Full Protection")
 
 ## Summary
 
@@ -20,7 +18,7 @@ This policy may be regularly updated to encompass new aspects of the site, or su
 
 ## Publishing on the UESP
 
-The act of editing any portion of the website, regardless of size, is considered an act of publication. All publications made on the UESP will openly display the username of the publisher (for registered members) or the IP (Internet Protocol) address of the published (for non-registered members).
+The act of editing any portion of the website, regardless of size, is considered an act of publication. All publications made on the UESP will openly display the username of the publisher (for registered members) or the IP (Internet Protocol) address of the publisher (for non-registered members).
 
 ### Identity
 
@@ -109,7 +107,7 @@ The UESP [blog](http://blog.uesp.net/). The terms of this policy apply to said b
 
 ### Discord
 
-The UESP Discord server for text chatting. The terms of this policy apply to Discord , insofar as applicable.
+The UESP Discord server for text chatting. The terms of this policy apply to Discord, insofar as applicable.
 
 ## Advertising
 
