@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xnxx.tv privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229142908id_/https%3A//info.xnxx.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xnxx.tv privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617115934id_/https%3A//info.xnxx.com/privacy_policy) for the most accurate reproduction.*
 
-# XNXX Privacybeleid - INFO.XNXX.COM
+# XNXX privacy policy - INFO.XNXX.COM
 
 Last Updated: May 25, 2018
 
