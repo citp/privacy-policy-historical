@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mkcl.org privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217001439id_/http%3A//mkcl.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mkcl.org privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617155712id_/https%3A//www.mkcl.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MKCL
 
@@ -23,6 +23,7 @@ This Policy is subject to modification based on changes in the business, legal a
     6. Improving your experience while using our services by presenting advertising, products and offers tailored to you;
     7. Completing your purchase;
     8. Support to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law or anti-fraud activities/systems.
+  * The email id shall be stored and will be used to send notification / information.
   * We will strive to keep your personal information confidential and will place reasonable security controls to protect it. Your Personal Information will be kept confidential as required under applicable laws.
   * However, any comments, messages, blogs, scribbles etc. posted / uploaded / conveyed / communicated by you on the public sections of the apps/website becomes published content and is not considered personal information subject to this Policy. You may request that such information be taken down and, we may attempt to remove any such information if it is technically feasible to do so and as per the applicable laws.
   * Further, with respect to Non-Personal Information automatically collected and stored in files, we shall use this information to understand and analyze trends, to administer our services, to learn about user behavior on the apps and while using our services, to gather demographic information about the user base as a whole and to measure traffic patterns on our network and apps. As Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information at our discretion.
