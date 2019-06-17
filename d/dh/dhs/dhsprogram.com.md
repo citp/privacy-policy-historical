@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhsprogram.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216192451id_/https%3A//dhsprogram.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhsprogram.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617105729id_/https%3A//www.dhsprogram.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # The DHS Program - Privacy Policy
 
