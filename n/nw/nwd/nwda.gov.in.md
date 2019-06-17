@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwda.gov.in privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224204730id_/http%3A//www.nwda.gov.in/content/innerpage/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwda.gov.in privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617171359id_/http%3A//www.nwda.gov.in/content/innerpage/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: National Water Development Agency
 
