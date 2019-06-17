@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytheresa.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123053057id_/https%3A//www.mytheresa.com/en-de/service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytheresa.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617150300id_/https%3A//www.mytheresa.com/en-de/service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mytheresa
 
@@ -19,11 +19,10 @@ The ongoing further development of technology, changes in our services or the le
 
 The data protection officer responsible is:
 
-IfDuS - Institut für Datenschutz und -Sicherheit GmbH  
-Lars Beitlich  
+Wolfgang Steger  
 [privacy@mytheresa.com](mailto:privacy@mytheresa.com)  
-Landsberger Str. 396  
-81241 München
+Am neuen Weg 21  
+82041 Oberhaching
 
 ## 1 Basic Information on Data Handling
 
@@ -246,21 +245,39 @@ You can inform us of your revocation of consent as well as your objection to sto
 
 In this case all personal data stored during the establishment of the contact is deleted.
 
-## 5 Individualised Newsletters
+## 5 Newsletter
 
-You can consent to subscribe to our newsletter which we use to notify customers about our current offers of interest.
+We use the so-called double opt-in procedure and the confirmed opt-in procedure for registration to our newsletter. The double opt-in procedure means that we send you a confirmation email to the email address you provide, in which we ask you to confirm that you wish to receive the newsletter. If you do not confirm within a period of 72 hours, the data will be deleted automatically. If you confirm your wish to receive the newsletter, we will store your email address until you unsubscribe from the newsletter. The storage serves the sole purpose of being able to send you the newsletter. In addition, we also store your IP addresses when you register and confirm as well as the times, in order to prevent misuse of your personal information.
 
-We employ the so-called double-opt-in-procedure for our newsletter subscription process. This means that once you have supplied us with your email address we send an email confirmation to this email address asking you to confirm that you wish to have the newsletter sent to you. If we do not receive acknowledgement of this email within 72 hours, the data you have given will be automatically deleted. If you confirm the request to receive newsletters, we store your email address until you decide to unsubscribe to the newsletter. The only reason we store the data is so that we can send you the newsletter. Furthermore, we store the IP addresses you use and the times of subscribing and acknowledging so that we can prevent misuse of your personal data.
+Email Service Provider: The newsletter will be sent by Emarsys interactive services GmbH, Stralauer Allee 6, 10245 Berlin, Germany, hereinafter referred to as the "Email Service Provider". You can view the privacy policy of the email service provider here: <https://www.emarsys.com/en/privacy-policy/>
 
-The only mandatory piece of information required for receipt of the newsletter is the email address. The providing of any other, specifically marked, details is on a purely voluntary basis and is solely used to personalise the newsletter. This data is also deleted in its entirety upon your revocation. In addition, we always store the IP addresses you use and times during subscribing and acknowledging. The purpose of the procedure is to prove that you have subscribed and, if applicable, to be able to resolve any misuse of your personal data. After receipt of your acknowledgement we store your subscription data for the purposes of sending the newsletter. Legal basis is Art. 6 paragraph 1 sentence1 lit. a GDPR.
+The email address is the only required information for sending the newsletter. The provision of additional, specially marked information is voluntary, and it will be used solely for the purpose of personalising the newsletter. This data will also be completely deleted if you revoke consent. In addition, we store the IP addresses you use for registration and confirmation, as well as the times these events take place. The purpose of this procedure is to have evidence of your registration and, if necessary, to clarify any possible misuse of your personal data. After your confirmation, we save your registration data for the purpose of sending you the newsletter. The legal basis for this is Art. 6(1)(1)(a) GDPR.
 
-You can revoke your consent to the sending of the newsletter at any time. You can unsubscribe all newsletters at any time and without the need to give any reasons or unsubscribe only special newsletters. The unsubscribe link can be found in every newsletter sent by us under "Unsubscribe".  You can also send your revocation by clicking on the line provided in every email link by email to [**privacy@mytheresa.com**](mailto:privacy@mytheresa.com) **.** The data you have provided is not forwarded to third parties. We would like to point out that we evaluate your user behaviour when we send you the newsletter. For this evaluation the emails sent contain so-called web beacons, also called tracking pixels. These are one pixel image files that link to our website and thus enable us to evaluate your user behaviour. This is effected by collecting web beacons assigned to your email address and are linked with a unique ID. Links contained in the newsletter also have them. We use the data obtained in this way to devise a user profile in order to make available the newsletter tailored to your interests. When you read our newsletter we record which links you click on and conclude from this your personal interests. We link this data with the actions made by you on our website.
+If we have received your email address in connection with your order and you have not objected to this, we reserve the right to send you regular offers by email for products similar to those you have already purchased from our product range.
 
-The information obtained in this way is stored on a server in the European Union.
+You can object to the use of your email address and the processing and use of data to create user profiles at any time without giving reasons, simply by sending a message to [privacy@mytheresa.com](mailto:privacy@mytheresa.com) or via the unsubscribe link in the email newsletter, without incurring any costs other than the transmission costs according to the basic tariffs defined in, for example, your existing Internet service contract.
 
-You can object to this tracking at any time by clicking on the specific link provided in every email or by notifying us via the cited contact channels. Such tracking is also not possible if you have disabled in your standard settings the display of images in your email program. In this case, however, the newsletter is not displayed in its entirety and you may not be able to use all the functions. If you have the images displayed manually, the above-mentioned tracking is activated.
+We would like to point out that we evaluate your user behaviour when sending the newsletter. For this evaluation, the emails we send contain so-called web beacons, also known as tracking pixels. These are one-pixel image files that link to our website, enabling us to evaluate your user behaviour. This is done by collecting web beacons, which are assigned to your email address and linked to your own ID. Links contained in the newsletter also contain these beacons.
 
-Should you have registered in our web shop and added products to your wish list, you will receive emails about rebates, re-availability as well as low stock levels concerning the products on the wish list. You can also unsubscribe from these messages at the end of the wish list by removing the tick.
+The email service provider also stores cookies on your computer through your web browser. The cookies and the identification numbers stored in them will not be associated with your name, address, email address or other personally identifiable information unless you have expressly permitted us to send you information specifically tailored to your interests. The email service provider uses these cookies to recognize your browser, so that we can track your movements on our website as well as recording and measuring the success of certain marketing actions. We use this information to improve our website and email newsletters, in particular by adapting our information and offers to the individual interests and needs of users.
+
+The storage of cookies by the email service provider is carried out on the basis of Art. 6(1)(f) GDPR. The website operator has a justified interest in the anonymous analysis of user behaviour in order to optimise both their website and their advertising.
+
+With the data obtained in this way, we create a pseudonymous user profile in order to be able to provide you with a newsletter tailored to your interests. The following data will be collected:
+
+  * Have you opened the newsletter? And what did you click on in it?
+  * When and how long did you visit our website? What products and categories did you look at?
+  * When and what did you purchase? What category, and in what amount? And: Did you cancel the order?
+
+
+
+We associate this data with your user account, if you have logged in.
+
+The information we collect is stored on a server located within the European Union.
+
+You can opt out of the cookie-based collection and analysis of online data described above by clicking the opt-out button below. If you exercise this option, an anonymous "opt-out" cookie will be stored in your web browser, informing the Emarsys web servers of your opting out and preventing the collection of data. The opt-out cookie will remain in effect in the browser you are using until you delete it using that browser. However, if you delete the cookie or use a different browser or computer, the email service provider will no longer be able to recognise that you have declared your objection. Alternatively, you can configure your browser so that it does not accept cookies.
+
+If you have registered in our webshop and placed products on your wish list, you will receive emails informing you about discounts, availability and the last available unit of the products on the wish list. You can unsubscribe from these notifications by unchecking the box at the end of the wish list.
 
 ## 6 Your Order in our Online shop
 
@@ -407,7 +424,7 @@ The legal basis for the processing of the data using Criteo is Art. 6 paragraph 
 
 Our aim is to display products that are as relevant as possible for you and thus also to constantly improve our advertising content and our advertising efficiency. These purposes are also our legitimate interest in the sense of Art. 6 paragraph 1 sentence1 lit. f GDPR.
 
-You can find more information concerning Criteo data protection here: <https://www.google.com/policies/privacy/>.
+You can find more information concerning Criteo data protection here: <https://www.criteo.com/privacy/>
 
 Should you no longer wish to be shown any personalised advertising material, you can unsubscribe from Criteo advertising [her](https://www.criteo.com/de/privacy/)[e.](https://www.criteo.com/de/privacy/)
 
@@ -485,7 +502,7 @@ For more information regarding Monetate data protection, please consult the [Da
 
 12.5 Localytics 
 
-In the mytheresa.com app we use the services of Localytics (Char Software, Inc. d/b/a Localytics, 2 Centre Plaza Boston, MA 021058, United States) Localytics is a  Marketing und Analyse Service app. The service enables us to understand the function and use of our mobile content on your device. Furthermore, we use Localytics in order to send you tailored promotions and information on our products per push notification or in-app message. 
+In the mytheresa.com app we use the services of Localytics (Char Software, Inc. d/b/a Localytics, 2 Centre Plaza Boston, MA 021058, United States) Localytics is a  Marketing und Analyse Service app. The service enables us to understand the function and use of our mobile content on your device. Furthermore, we use Localytics in order to send you tailored promotions and information on our products per push notification or in-app message. We also inform you via Localytics about items you have forgotten in your shopping bag.
 
 Localytics uses the following personal data 
 
@@ -506,11 +523,33 @@ There is data transfer to the USA. Guarantees pursuant to Art 44ff GDPR exist by
 
 If you want to object to the transfer of the data, please send us an email to [privacy@mytheresa.com](mailto:info@mytheresa.com)[.](mailto:privacy@mytheresa.com)
 
-12.6 Adobe Tracker
+12.6 Certona
+
+We use the Certona Product Recommendations analysis and advertising service provided by Certona Corporation, 10431 Wateridge Circle, Suite 200, San Diego, CA 92121, USA ("Certona"). Certona Product Recommendations uses cookies stored on your computer to help us analyse and optimise the use of our website, as well as to personalise your visit to our website and improve our advertising. The information generated by the cookie about your use of this website is generally transmitted to a Certona server in the United States and stored and processed there on our behalf.
+
+The following data will be transmitted:
+
+  * IP address without assignment to a specific user profile
+  * Device-related data such as device type and model, operating system and browser type and version.
+  * Usage-related information such as time of use, length of stay, place of origin
+  * Information about purchasing behaviour such as purchases, placement of items into the shopping cart, deletion from the shopping cart, inclusion on the wish list, deletion from the wish list, product search, product reviews
+  * Certona tracking ID (anonymised)
+  * Order list, order ID, product ID (all pseudonymized), prices
+  * Email hash
+
+
+
+A data transfer to the USA takes place. Guarantees pursuant to Articles 44 et seq. GDPR are provided by means of an order data processing contract between us and Certona, which contains standard EU contract clauses. To view the standard contractual clauses, please send us an email to _[privacy](mailto:privacy@mytheresa.com)[@mytheresa.com](mailto:info@mytheresa.com)_.
+
+The legal basis for processing of data is Article 6 (1) sentence 1f of the GDPR. Our justified interest lies in usage analysis and the related continuous optimisation of our website as well as in the offer of personalised web content.
+
+If you want to avoid the transmission of your data, please click the following link (Note: If you use opt-out, an opt-out cookie is stored on your device. If you delete the cookies in this browser, then you must make the selection again. Furthermore, the opt-out only applies within the browser you are using, and only within our web domain where the box was unchecked):
+
+12.7 Adobe Tracker
 
 We use the following technology of Adobe Systems Software Ireland Limited (4-6 Riverwalk, Citywest Business Campus, Dublin 24,Republic of Ireland):
 
-12.6.1 Adobe Audience Manager
+12.7.1 Adobe Audience Manager
 
 Everest Tech (AdobeSystem Ireland Ltd.) is an advertising solution that enables companies to optimise their online advertising in search engines. Therefore, Adobe sets a cookie as soon as you have bought something on mytheresa.com after clicking in the Google search engine or have placed something in the shopping cart. 
 
@@ -526,11 +565,11 @@ We use the service provider Adobe in order to optimise our search engine campaig
 
 We hand over no personal data. If you would not like Adobe to receive anonymised data, you can unsubscribe here <http://www.adobe.com/de/privacy/opt-out.html>. If you would like to find out more information on Adobe, you can find all data protection topics here: <https://www.adobe.com/de/privacy/marketing-cloud.html>
 
-12.7 Google Tracker
+12.8 Google Tracker
 
 We use the following technology of Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, which is a part of Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; "Google“.
 
-12.7.1 Google AdWords and Conversion Tracking
+12.8.1 Google AdWords and Conversion Tracking
 
 In order to attract attention to our services, we place Google Adwords adverts and use as part of this the Google conversion tracking for the purpose of providing personalised online advertising that takes into consideration interest and location. The option to anonymise the IP addresses is regulated at Google Tag Manager via an internal setting that is not visible in the source of this page. This internal setting is set so that the anonymisation of the IP address required by the Federal Data Protection Act is achieved.
 
@@ -555,7 +594,7 @@ Alternatively, you can visit the website of the Network Advertising Initiative (
 
 Nevertheless, we and Google continue to receive the statistical information regarding how many users visited the site and when they did this. If you would not like to be included in these statistics, you can prevent this with the aid of additional programs for your browser (for example with the Add-on Ghostery).
 
-12.7.2 Google AdWords and Conversion Tracking
+12.8.2 Google AdWords and Conversion Tracking
 
 This website uses Google Analytics, an advertising analysis service of Google Inc. ("Google"). Use takes place based on Art. 6 paragraph 1 sentence 1 lit. f. GDPR Google Analytics uses so-called "cookies", text files that are stored on your computer and enable an analysis of the use of the website by you.
 
@@ -583,7 +622,7 @@ This website additionally uses Google Analytics for a cross-device analysis of v
 
 User terms: <http://www.google.com/analytics/terms/de.html>, data protection overview: [http://www.google.com/intl/de/analytics/learn/privacy.html](http://www.google.com/analytics/terms/de.html), as well as the data protection declaration: [https://www.google.com/policies/privacy/](http://www.google.com/analytics/terms/de.html).
 
-12.7.3 Google AdWords and Google Analytics Remarketing Lists for Search Ads (RLSA)
+12.8.3 Google AdWords and Google Analytics Remarketing Lists for Search Ads (RLSA)
 
 mytheresa.com uses Google AdWords and Google Analytics Remarketing Lists for Search Ads (RLSA) Users that visit mytheresa.com via are collected via a Google tag and the behaviour recorded. You appear on the list for a standard period of 30 days and for a maximum period of 540 days.
 
@@ -607,7 +646,7 @@ Legal basis for the processing of the data is Art. 6 paragraph  1 sentence 1 li
 
 If you want to object to the use of the data, please click [here](https://myaccount.google.com/not-supported).
 
-12.7.4 Google Dynamic Remarketing
+12.8.4 Google Dynamic Remarketing
 
 We use on our website the dynamic remarketing function of Google AdWords. The technology enables us to place automatically created, target group-orientated advertising after your visit to our website. The adverts are orientated towards the products and services that you have clicked on during your last visit to our website.
 
@@ -621,7 +660,7 @@ For those exceptional cases in which personal data is transferred to the USA, Go
 
 Legal basis for the processing of the data is Art. 6 paragraph  1 sentence 1 lit. f GDPR. Our legitimate interest here is in offering personalised advertising and the resulting increase in advertising efficiency that this brings.
 
-12.7.5 Google Shopping Reviews
+12.8.5 Google Shopping Reviews
 
 Mytheresa.com uses Google Shopping Reviews, which allows shoppers to write a review of mytheresa.com after they have placed an order. These reviews are visible to potential future customers.
 
@@ -640,7 +679,7 @@ Our legitimate interest lies in your consent to participate in the survey. This 
 
 Your data will be stored for a 12-month period.
 
-2.7.6 Crashlytics
+12.8.6 Crashlytics
 
 We use Crashlytics (a service of Google Ireland Ltd., Gordon House, Barrow St, Dublin 4, Ireland) in the mytheresa.com app for the purpose of measuring quality as well as evaluating the use behaviour of our app user. Crashlytics focuses on measuring technical crashes of the app with the intention of making the app more stable and to avoid errors in the app source code for improved user friendliness. Furthermore, we can use Crashlytics to track which app version the user has and whether a user regularly updates the app. The information collected by us in the analysis software is not linked to personal data.
 
@@ -658,7 +697,7 @@ There is data transfer to the USA. Guarantees pursuant to Art. 44ff GDPR exist a
 
 If you want to object to the transfer of the data, please send us an email to [privacy@mytheresa.com](mailto:privacy@mytheresa.com).
 
-12.7.7 Firebase Cloud Messaging Server
+12.8.7 Firebase Cloud Messaging Server
 
 In the Android app we likewise use the services of Firebase Cloud Messaging Server (a service of Google Ireland Ltd., Gordon House, Barrow St, Dublin 4, Ireland). The Firebase Cloud Messaging Server allows us to ascertain whether you agree to the receipt of push notifications or not. This enables us to ascertain whether you want to receive push notifications via the app or not. 
 
@@ -670,17 +709,74 @@ The Firebase Cloud Messaging Server uses the following personal data:
 
 Legal basis for the processing of the data is Art. 6 paragraph  1 sentence 1 lit. f GDPR. Our legitimate interest resides in the sending of advertising messages only if consent has been forthcoming.
 
-There is data transfer to the USA. Guarantees pursuant to Art. 44ff GDPR exist as Firebase is subject to the Privacy Shield, which you can find [here.](https://www.privacyshield.gov/EU-US-Framework) 
+There is data transfer to the USA. Guarantees pursuant to Art. 44ff GDPR exist as Firebase is subject to the Privacy Shield, which you can find [here.](https://www.privacyshield.gov/EU-US-Framework) 
 
 If you want to object to the transfer of the data, please send us an email to [privacy@mytheresa.com](mailto:privacy@mytheresa.com).
 
-12.8 Microsoft Bing Tracker
+12.9 Customer satisfaction surveys
+
+We conduct customer satisfaction surveys to continuously optimise our products and services. You can participate in the customer satisfaction survey by clicking on the corresponding link, which we will send you by email as a selected customer. We use SurveyGizmo LLC, a service provider based in the USA, to conduct the customer satisfaction survey. The following data will be provided to SurveyGizmo LLC when you participate in the customer satisfaction survey:
+
+  * Email address
+
+  * Email hash
+
+  * Language, such as German de-de
+
+
+
+
+SurveyGizmo LLC themselves store the following data:
+
+  * Email address
+
+  * IP address
+
+  * Email hash
+
+  * Survey results
+
+  * A response ID
+
+  * Language, such as German de-de
+
+  * Participant's country
+
+
+
+
+SurveyGizmo LLC stores the data for 6 months. A data transfer to the USA takes place. The guarantees under Articles 44 et seq. GDPR are ensured by means of EU standard contracts.
+
+The legal basis for processing of data is Article 6 (1) sentence 1f of the GDPR. Our legitimate interest lies in the optimisation of our products and services.
+
+12.10 Return Path
+
+We use Return Path, a service from Return Path, Inc. 3 Park Avenue, 41st Floor, New York, NY 10016, to optimise our email delivery and increase the profitability of email channels. Return Path used web beacons to track user behaviour.
+
+The following data is processed:
+
+  * IP address
+  * Email address
+  * Telephone number 
+  * Possibly first and last names
+
+
+
+Return Path has not communicated to us that the data is stored. A data transfer to the USA takes place. The guarantees required by Articles 44 et seq. GDPR exist because Return Path is subject to Privacy Shield, which you can find [here](https://www.privacyshield.gov/participant?id=a2zt0000000TNAlAAO&status=Active).
+
+The legal basis for processing of data is Article 6 (1) sentence 1f of the GDPR. Our legitimate interest is to maximise the response and conversion rates of our marketing campaigns using optimised, customised emails.
+
+If you wish to object to the transmission of the data, please send us an email at [privacy@mytheresa.com](mailto:privacy@mytheresa.com).
+
+You can find more information about the privacy policy of Return Path in the [Data Protection Information](https://returnpath.com/privacy-policy/) provided by Return Path.
+
+12.11 Microsoft Bing Tracker
 
 We use the following technology of Microsoft Corporation (One Microsoft Way
 
 Redmond, WA 98052-6399, USA):
 
-12.8.1 Bing Conversion Tracking
+12.11.1 Bing Conversion Tracking
 
 We also use Bing Ads Conversion Tracking. A Bing Ads cookie is set on your computer as soon as you visit our website via a Bing search ad. Using Bing Conversion Tracking, campaigns for search machine advertising are directed to Bing on a frequency basis, i.e. ads are placed more frequently for search queries that often lead to a purchase, whereas search queries that are less relevant see fewer ads. 
 
@@ -700,7 +796,7 @@ For the exceptional cases in which personal data is transferred to the USA, Micr
 
 Legal basis for the processing of the data is Art. 6 paragraph  1 sentence 1 lit. f GDPR. We use Bing Conversion Tracking in order to optimise our search engine campaigns on Bing and thus to improve our advertising efficiency. These purposes are also our legitimate interest in the sense of Art. 6 paragraph 1 sentence 1 lit. f GDPR.
 
-12.8.2 Bing Ads Remarketing Lists for Search Ads (RLSA)
+12.11.2 Bing Ads Remarketing Lists for Search Ads (RLSA)
 
 We also use Microsoft Bing Ads Remarketing Lists for Search Ads. Here, the users that visit our website are detected by means of a general website tag and optional event snippets and their behaviour recorded. The recorded behaviour pattern such as, for example, the dwell time on the site, concluded or aborted shopping cart operations, direct abort of the visit (bounce) can be used to adapt the advertising to the Bing search results page. This means that users that have a great interest in our website see more ads in a higher position, while visitors that have less interest in our website see fewer ads in the search engine or even none at all. For more information on Bing Ads Remarkting Lists for Search Ads data protection, please consult https://advertise.bingads.microsoft.com/de-de/ressourcen/richtlinien/richtlinien-zur-datensicherheit-und-datnschutzerklaerung.
 
@@ -718,6 +814,44 @@ For the exceptional cases in which personal data is transferred to the USA, Micr
 Legal basis for the processing of the data is Art. 6 paragraph  1 sentence 1 lit. f GDPR. Our legitimate interest are the evaluation of the statistics obtained from the findings on user behaviour and the efficacy of our advertising. This in turn serves to continually improve our web content and our web presence.
 
 If you would not like this, you can unsubscribe at any time on  <https://account.microsoft.com/privacy/ad-settings>. For more information on Bing Ads Conversion Data Protection, please consult <https://privacy.microsoft.com/de-de/privacystatement>.
+
+12.11.3 Facebook Custom Audiences
+
+(1) This website uses Facebook Custom Audience with the so-called pixel function ("Facebook Pixel") provided by Facebook Ireland Ltd. ("Facebook"). This allows users of the site to view interest-based advertisements ("Facebook Ads") when visiting the Facebook social network or other sites that also use the process. Our interest in pursuing this route is to show you advertisements which are of interest to you in order to make our website more interesting for you.
+
+(2) We do not actively transmit personally identifiable information to Facebook. However, due to the use of Facebook Pixel, your browser automatically establishes a direct connection to the Facebook server. We have no influence on the extent and further use of the data collected through the use of this tool by Facebook and therefore inform you according to our state of knowledge: Through the integration of Facebook Custom Audiences, Facebook receives the information that you have accessed the corresponding website of our website or clicked on an advertisement from us. If you are registered with a Facebook service, Facebook can assign the visit to your account. Even if you are not registered on Facebook or have not logged in, the provider may collect and store your IP address and other identifiers.
+
+(3) The legal basis for the processing of personal data using cookies is Article 6(1) sentence 1f GDPR.
+
+(4) Using Facebook Pixel, Facebook can on the one hand determine the visitors to our online offering as a target group for the presentation of ads (so-called "Facebook ads"). Accordingly, we use Facebook Pixel to display Facebook ads placed by us only to Facebook users who have shown an interest in our online offering or who have certain features (for example, interests in certain topics or products that are determined on the basis of the websites visited) that we transmit to Facebook (so-called "custom audiences"). Using Facebook Pixel, we also want to ensure that our Facebook ads correspond to the potential interest of users and do not have an annoying effect. Facebook Pixel also enables us to track the effectiveness of Facebook ads for statistical and market research purposes by seeing if users were referred to our site after clicking on a Facebook ad (known as "conversion"). These purposes also constitute our legitimate interest within the meaning of Article 6(1) sentence 1f GDPR.
+
+(5) In the event that Facebook transmits data to the USA, Facebook is certified under the Privacy Shield Agreement and thus guarantees a level of data protection comparable to European law (Articles 44 et seq. GDPR). ([https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active)).
+
+(6)  Information about the third-party provider: Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland; Board of Directors: Gareth Lambe, Shane Crehan; registered with the Companies Registration Office of the Republic of Ireland; company number 462932.
+
+For more information about Facebook data processing, please visit <https://www.facebook.com/about/privacy>.
+
+(7) You may opt out of data collection via Facebook Pixel and the use of your information to display Facebook ads by using the opt-out below. To set what types of ads you see within Facebook, you can go to the following page set up by Facebook and follow the instructions there about the settings for usage-based ads: <https://www.facebook.com/settings?tab=ads>. The settings are platform-independent, that is, they are adopted for all devices, such as desktop computers or mobile devices.
+
+Note: If you use opt-out, an opt-out cookie is stored on your device. If you delete the cookies in this browser, then you must make the selection again. Furthermore, the opt-out only applies within the browser you are using, and only within our web domain where the box was unchecked.
+
+You can find a corresponding opt-out for Facebook Pixel here:
+
+12.11.4 Pinterest
+
+On our site we use Pinterest (Pinterest Inc., 808 Brannan Street San Francisco, CA 94103-490, USA). Due to our legitimate interests in the analysis and optimisation of our online services and the requirements-appropriate use of our Pinterest campaigns, the so-called "Pinterest Tag" (custom code snippet) is integrated into our website by Pinterest on the basis of Article 6(1)(f) GDPR. If a Pinterest user looks at or clicks on the advertisement, further actions and target groups that have shown interest will be tracked. Using this allows us to ensure that Pinterest advertisements are only displayed to Pinterest users who have already shown an interest in our offering and if they correspond to the potential interest of the user. This data helps us measure the conversion of each campaign. It is used for statistical and market research-related purposes and help optimise the campaigns.
+
+All collected data is anonymous for us and does not provide any conclusions about the identity of the respective user. Data is collected on the device information (e.g. type, brand), the operating system used, the IP address of the device used, the time of the retrieval, the type and content of the campaign, the reaction to the respective campaign (e.g. conclusion of purchase, newsletter registration) and device IDs consisting of individual characteristics of the terminal device. This allows us to recognise your device on our website.
+
+If you do not want Pinterest to use the information collected through our web site to assign you to your profile on Pinterest, then before visiting our website you must log out of Pinterest.
+
+Further information on the purpose, scope and further processing and use of the data by Pinterest as well as your rights and possibilities to protect your privacy in this regard can be found in the Pinterest data protection information: <https://about.pinterest.com/en/privacy-policy>.
+
+You may opt out of data collection via Pinterest Pixel and the use of your information to display Pinterest ads by using the opt-out below. The settings are platform-independent, that is, they are adopted for all devices, such as desktop computers or mobile devices.
+
+Note: If you use opt-out, an opt-out cookie is stored on your device. If you delete the cookies in this browser, then you must make the selection again. Furthermore, the opt-out only applies within the browser you are using, and only within our web domain where the box was unchecked.
+
+You can find a corresponding opt-out for the Pinterest Pixel here:
 
 ## 13 AFFILIATE NETWORKS
 
@@ -775,21 +909,21 @@ Personal data are transferred to the USA. There are guarantees pursuant to Art. 
 
 ## 18 Use of Whitepages
 
-To help to combat credit card fraud, we occasionally share data with Whitepages (Whitepages Inc., 1301 Fifth Avenue, Suite 1600, Seattle, WA 98101, USA), which is processed for this purpose only.
+To combat credit card fraud, we occasionally share information with Whitepages (Whitepages, Inc., 1301 Fifth Avenue, Suite 1600, Seattle, WA 98101, USA) that is processed solely for this purpose.
 
-Whitepages uses the data transmitted only in suspicious cases to compare it with that held in its database, and to then give an assessment of the fraud risk.
+Whitepages uses the provided data only in suspicious cases, to check it against their database and then to make an assessment of the risk of fraud.
 
-The following data is transferred:
+The following data will be transmitted:
 
-First name and last name  
-Complete address (shipping as well as billing address, if different)  
+First and last name  
+Complete address (shipping and billing addresses, if different)  
 Telephone number  
 IP address  
 Email address
 
-The legal basis for the use of the data for fighting fraud is Art. 6, Para.1, P. 1, lit. f, GDPR.
+The legal basis for processing of data is Article 6 (1) sentence 1f of the GDPR. As part of the weighing of interests pursuant to Art. 6(1)(f) GDPR, we have considered and weighed our interest in the service of Whitepages and your interest in processing your personal data in compliance with data protection regulations, and have come to the conclusion that our legitimate interests prevail, namely the intention to make a profit, the reduction of our default rate and protection against credit risks.
 
-There is data transfer to the USA. Guarantees pursuant to Art 44ff GDPR exist by means of the EU standard contractual clauses with Localytics. If you would like to view these clauses, please send an email to privacy@mytheresa.com.
+Personal data will be transmitted to the United States. Guarantees pursuant to Articles 44 et seq. GDPR are provided by standard EU contractual clauses. If you would like to view these standard contractual clauses, please send us an email at [privacy@mytheresa.com.](mailto:privacy@mytheresa.com). Whitepages does not provide precise information about the duration of data storage. You can find the [Whitepages Pro privacy policy here](https://urldefense.proofpoint.com/v2/url?u=https-3A__pro.whitepages.com_privacy_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=zBVcddMcOHXdl-UbJUq6zg_lbHHND5j-m4VoFzV1Ftw&m=g4hIZpkirnWECNLRDqAvBcDHi1EXj9KVdcizYelOHr4&s=9ABLxXi_IaDEHXka-fVtNs0OY5BIMWMEKBLW3eI2yd8&e=).
 
 ## 19 DISCLOSING DATA
 
