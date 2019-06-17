@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casio-intl.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203130727id_/https%3A//world.casio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casio-intl.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617110053id_/https%3A//world.casio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Home | CASIO
 
@@ -76,6 +76,8 @@ The manufacture and sale of Timepieces, Electronic Dictionaries, Calculators, La
     2. Providing recruitment information and the like to applicants for employment and communications, etc., required for recruitment activities
   5. Personal data received from other companies and the like for outsourcing, etc. 
     1. Accepting commissions to develop and operate information systems
+  6. Other Personal information that is open to the public 
+    1. Research and development, planning, marketing
 
 
 
@@ -139,6 +141,6 @@ Customers may disable "cookies" in browsers; however this may restrict the use o
 
 
 
-Most recent amendment: May 9, 2016
+Most recent amendment: March 8, 2018
 
 [](https://privacymark.org/)
