@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpfox.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226022759id_/https%3A//www.phpfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpfox.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617181459id_/https%3A//www.phpfox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - phpFox Social Network
 
