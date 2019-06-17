@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the peoplesearchnow.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722112550id_/https%3A//www.peoplesearchnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesearchnow.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617211726id_/https%3A//www.peoplesearchnow.com/privacy) for the most accurate reproduction.*
 
-# Find more information on PEOPLESEARCHNOW PRIVACY POLICY
-
-### **PEOPLESEARCHNOW PRIVACY POLICY**
+# Privacy Policy for People Search Now
 
 For record removal requests please [click here to start the removal process](https://web.archive.org/opt-out).
 
