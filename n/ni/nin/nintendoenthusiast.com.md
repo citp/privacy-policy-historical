@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804154327id_/https%3A//www.nintendoenthusiast.com/us/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617041912id_/https%3A//www.nintendoenthusiast.com/us/privacy-terms) for the most accurate reproduction.*
 
 # Terms of Use, Privacy Policy & GDPR Compliance statement - Nintendo Enthusiast
 
@@ -42,7 +42,7 @@ We use third-party advertising companies to serve ads and collect information wh
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, check out:
 
-<http://www.networkadvertising.org/managing/opt_out.asp>
+[http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 In layman’s terms: many advertisers use cookies for stuff like “hey you saw this ad already” or “ok, he clicked on a banner ad for leather pants, lets show this guy more of those as they travel around the web.” That’s all coming through Google’s Ad software – Destructoid doesn’t pass any behavioral data directly, period. We don’t share any information from your personal account with advertisers.
 
@@ -56,6 +56,6 @@ Be sure that you only disclose your e-mail address in circumstances in which it 
 
  **Contacting the Webmaster**
 
-If you have any questions about this privacy statement, the practices of this site please [contact us](https://web.archive.org/web/20180804154327id_/https://www.nintendoenthusiast.com/us/privacy-terms/hello@enthusiastgaming.com) at any time; our moderators will usually respond with a few hours (sans weekends).
+If you have any questions about this privacy statement, the practices of this site please [contact us](https://web.archive.org/web/20190617041912id_/https://www.nintendoenthusiast.com/us/privacy-terms/hello@enthusiastgaming.com) at any time; our moderators will usually respond with a few hours (sans weekends).
 
  _Thanks for reading us!_
