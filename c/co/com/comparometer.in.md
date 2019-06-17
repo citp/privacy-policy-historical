@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparometer.in privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229013543id_/http%3A//comparometer.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparometer.in privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617140849id_/http%3A//www.comparometer.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
