@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnamerica.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909211709id_/https%3A//fnamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnamerica.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617041412id_/https%3A//fnamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FN®
 
