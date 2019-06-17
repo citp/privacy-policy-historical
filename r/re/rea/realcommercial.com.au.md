@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realcommercial.com.au privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312234101id_/https%3A//www.realcommercial.com.au/static/rca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcommercial.com.au privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617112614id_/https%3A//www.realcommercial.com.au/static/rca/privacy) for the most accurate reproduction.*
 
 # Privacy
 
