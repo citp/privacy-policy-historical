@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027193426id_/https%3A//www.birst.com/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617095922id_/https%3A//www.birst.com/website/privacy-policy) for the most accurate reproduction.*
 
-# Birst Business Intelligence & Analytics - Privacy Policy
+# Privacy
 
 ## Personal Data Infor Collects
 
@@ -49,9 +49,11 @@ You may control the use of your data for advertising from Infor by visiting our 
 ## International Transfers of Data  
 
 
-Infor is a global organization with its headquarters in the United States. We may share your personal information among Infor, our affiliates, our service providers, and other third parties that may be outside the country in which you reside. We have put in place appropriate safeguards to handle the transfers of data to ensure that your personal information is handled as described in this policy.   
-Infor (US) is Privacy Shield certified and adheres to the Privacy Shield Principles. To learn more about the EU-U.S. Privacy Shield and the Swiss-US Privacy Shield, please visit the Privacy Shield website at [https://www.privacyshield.gov](https://www.privacyshield.gov/).  
-If you have an unresolved privacy or data security concern that we have not addressed satisfactorily, please contact our third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+Infor is a global organization with its headquarters in the United States. We may share your personal information among Infor, our affiliates, our service providers, and other third parties that may be outside the country in which you reside. We have put in place appropriate safeguards to handle the transfers of data to ensure that your personal information is handled as described in this policy. 
+
+Infor complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom and/or Switzerland to the United States in reliance on Privacy Shield. Infor (US) has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). The Federal Trade Commission has jurisdiction over Infor’s compliance with Privacy Shield.
+
+If you have an unresolved privacy or data security concern that we have not addressed satisfactorily, please contact our third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, an individual may invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms: <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>. Infor has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. Infor shall remain liable under the Principles if its agent processes such personal information in a manner inconsistent with the Principles, unless Infor proves that it is not responsible for the event giving rise to the damage. 
 
 ## Cookies  
 
