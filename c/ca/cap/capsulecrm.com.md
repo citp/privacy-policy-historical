@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226023843id_/https%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617234604id_/https%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Capsule CRM
 
 Zestia Limited (" **We** ") are committed to protecting and respecting your privacy.
 
-This privacy policy (“ **Privacy Policy** ”), together with our [Customer Terms](https://web.archive.org/terms) and any other documents referred to in this Privacy Policy, sets out the basis on which any personally identifiable information (“ **Personal Data** ”) we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your Personal Data and how we will treat it in respect of your use of capsulecrm.com (“ **the Service** ”). 
+This privacy policy (“ **Privacy Policy** ”), together with our [Customer Terms](https://web.archive.org/terms/) and any other documents referred to in this Privacy Policy, sets out the basis on which any personally identifiable information (“ **Personal Data** ”) we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your Personal Data and how we will treat it in respect of your use of capsulecrm.com (“ **the Service** ”). 
 
 By using the Service, you are accepting the terms of this Privacy Policy. In the event of a conflict between the terms of this Privacy Policy and the Customer Terms, the Customer Terms will prevail. 
 
