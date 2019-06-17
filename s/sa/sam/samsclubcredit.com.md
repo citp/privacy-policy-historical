@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsclubcredit.com privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321050406id_/http%3A//corporate.samsclub.com/sams-club-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsclubcredit.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617055957id_/http%3A//corporate.samsclub.com/sams-club-privacy-policy%3Fxid%3Dftr%3Aprivacy-policy) for the most accurate reproduction.*
 
 # Sam's Club Privacy Policy - Sam's Club Corporate
 
@@ -36,7 +36,7 @@ __More
 
 For example, when you purchase a membership or place an order online, we collect personal information, such as name, address, phone number, and credit or debit card information.
 
-We have additional, specific privacy notices related to some of our specialized operations. For example, our Health & Wellness operations (pharmacy and optical) have a specific Notice of Privacy Practices for their personal information practices. Our specialized notices can be found [here](http://corporate.walmart.com/privacy-security/notices/).  
+We have additional, [specific privacy notices](https://corporate.walmart.com/privacy-security/notices/) related to some of our specialized operations. For example, our Health & Wellness operations (pharmacy and optical) have a specific [Notice of Privacy Practices](https://corporate.walmart.com/privacy-security/notices/) for their personal information practices. Our specialized notices can be found [here](http://corporate.walmart.com/privacy-security/notices/).  
 
 
 ## What Is Our Pledge of Accountability?
@@ -239,7 +239,7 @@ To learn more about measures you can take to protect the security of your person
 
 ## What Are Your Privacy Protections for Specific Types of Personal Information?
 
-In addition to this Policy, we have specific privacy notices for some of our specialized operations, including a specific Notice of Privacy Practices for our Health & Wellness operations.  
+In addition to this Policy, we have [specific privacy notices](https://corporate.walmart.com/privacy-security/notices/) for some of our specialized operations, including a specific [Notice of Privacy Practices](https://corporate.walmart.com/privacy-security/notices/) for our Health & Wellness operations.  
 
 
 __More
@@ -289,9 +289,4 @@ Please “Contact Us” with any questions, or to request a list of third partie
 
 ## How will I know if this Policy changes?
 
-We will provide additional notice of significant updates. We will post the date our Policy was last updated at the bottom of the Privacy Policy.
-
-__More
-
-  
-Please check our Privacy Policy periodically for changes.
+Please check our Privacy Policy periodically for changes. We will provide additional notice of significant updates. We will post the date our Policy was last updated at the top of the Privacy Policy.
