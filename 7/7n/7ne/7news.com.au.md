@@ -1,103 +1,301 @@
-> *The following text is extracted and transformed from the 7news.com.au privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103204855id_/https%3A//info.yahoo.com/privacy/au/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7news.com.au privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617054949id_/http%3A//www.sevenwestmedia.com.au/privacy-policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Seven West Media Privacy Policy (Updated March 2019) » Sevenwest
 
-_Yahoo is now part of Oath, a digital and mobile media company with more than 50[brands](https://www.oath.com/our-brands/) globally, and a member of the [Verizon family of companies](http://www.verizon.com/about/privacy/). The way we handle your information hasn’t changed, so Yahoo’s Privacy Policy still governs when you are on a Yahoo site, using a Yahoo app or interacting with our products, services or technologies. We may share non-personal information with our family companies for purposes such as product improvements, research and analysis, and to help them provide you with more relevant experience. We will notify you of any significant changes to the way in which we treat your information by sending a notice to the primary email address specified in your Yahoo account or by placing a prominent notice on our site._
+**About this Privacy Policy**
 
-* * *
+(Last updated March 2019)
 
-## **What This Privacy Policy Covers**
+  
+This Privacy Policy has been published to provide a clear and concise outline of how and when personal information and other data is collected, disclosed, used, stored and otherwise handled by Seven West Media Limited and its related companies and associated entities ("Group"), including but not limited to Seven Network (Operations) Limited, Pacific Magazines Pty Limited (“Pacific”), West Australian Newspapers Limited (“WAN”) and Channel 7 Telethon Trust (“Telethon”). The Policy relates to personal information and other data collected by any means and by any technology and assumes that you are an Australian or European resident.
 
-**Yahoo!7 takes your privacy seriously. Please read the following to learn more about our Privacy Policy.**
+  
+By using the Group’s websites, products or services, you acknowledge that the Group uses your personal information and other data as set out in this Privacy Policy.  If you are under the age of 15, please provide this Privacy Policy to your parent or guardian before providing us with your personal information.
 
-**How Yahoo!7 Uses Your Personal Information**
+  
+The Group also has a policy (Seven West Media’s Print and Print (Online) Privacy Policy) which applies to Pacific’s and WAN’s print and online journalism activities, and a policy (Seven West Media’s Credit Policy – Privacy) which outlines how credit information and credit eligibility information is managed by the Group Information regarding how the Group handles the personal information of staff is available through Human Resources. The Group treats the handling of your personal information very seriously. To that end, the Group has systems and procedures in place to protect your privacy in relation to the handling of your personal information.
 
-Yahoo!7 complies with the Australian Privacy Principles (“APPs”). This Privacy Policy covers how Yahoo!7 treats personal information that Yahoo!7 collects and receives, including information related to your past use of Yahoo!7 products and services. Personal information is information or opinion about an individual, or an individual who is reasonably identifiable (whether the information or opinion is true or not, and whether the information or opinion is recorded in a material form) and includes (but is not limited to) the following kinds of information: your name, address, email address, phone number and so on.
+The Group abides by the Australian Privacy Principles (“APPs”), which provide a scheme in relation to the collection, disclosure, use and storage of personal information. The Group's objective is to handle information responsibly and provide you with some control over the way information about you is handled.  
 
-**This Privacy Policy only applies to Yahoo!7**
+  
+The Privacy Act provides for exemptions:
 
-This Privacy Policy does not apply to the practices of companies that Yahoo!7 does not own or control, or to people that Yahoo!7 does not employ or manage. In addition, some companies that Yahoo!7 is affiliated with have their own privacy policies which may be viewed on our [acquired companies page](https://policies.yahoo.com/us/en/yahoo/privacy/topics/acquiredcompanies/index.html).
+        a. in relation to employee records (being records relating to a current or former employment relationship between the Group and the individual); and   
+        b. from coverage in relation to the journalism activities of the Group (as explained further at section 3).  
+Where these exemptions apply, they will take precedence over this Policy.
 
-By using Yahoo!7’s products and services, you consent to Yahoo!7 using your personal information as set out in this Privacy Policy.
+ **1\. Collection of Personal Information and other data**
 
-## **Information Collection And Use**
+  
+Personal information is information or opinion about an individual, or an individual who is reasonably identifiable (whether the information or opinion is true or not, and whether the information or opinion is recorded in a material form).  The nature of personal information collected by the Group comprises information such as an individual's name, address, phone number, fax, e-mail address, birth date and gender, as well as interests and information about your viewing of our programs and services, your transactions with us and with some of our business partners.
 
-**General**
+  
+The purposes for collecting such information include to arrange, conduct and promote the Group’s media activities (including but not limited to production, broadcasting and publishing), understand our audiences and provide you with requested products and services.  You may object to us using your personal information for any of these purposes at any time by emailing privacy@seven.com.au
 
-Yahoo!7 collects personal information when you register with Yahoo!7, when you use Yahoo or Yahoo!7’s [products or services](https://policies.yahoo.com/au/en/yahoo/privacy/products/), when you visit Yahoo!7 pages or the pages of certain Yahoo!7 partners, and when you enter [promotions or competitions](https://policies.yahoo.com/au/en/yahoo/privacy/products/promotions/index.htm). Yahoo!7 may combine information about you that we have with information we obtain from business partners or other companies.
+  
+The Group may collect personal information about you in a number of ways.  These include, but are not limited to situations in which you set up an account with a company within the Group (for example a magazine or newspaper subscription), request to receive products or services from the Group, provide products or services to the Group, enter a competition or voting forum, utilise the Group’s services (including, but not limited to IPTV services, websites, mobile phone apps, blogs and online forums), complete a survey or questionnaire, or when you communicate with the Group by telephone, fax, writing, email, or any other electronic means.
 
-When you register we ask for information such as your name, email address, birth date, gender, post code, occupation, industry, and personal interests. When you register with Yahoo!7 and sign in to our services, you are not anonymous to us.
+   
+When you are using a service we provide to you over the internet (for example a website, mobile phone app or digital edition of one of the Group’s publications), we may use technology (including third party technology such as Google Analytics) to collect information as to your activities on such services associated with the Group including your IP Address and/or the type of operating system you use and/or the domain name of your Internet Service Provider, software and hardware attributes and the web-page you request.  
 
-Yahoo!7 collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
+  
+In addition, the Group may set and access cookies and other similar technologies (collectively “Cookies”) on your computer or other internet-enabled device and may let other companies (such as third party tracking service providers, third party advertisers and ad network companies including data management platforms, demand side platforms and server side platforms) set and access their Cookies on your device (subject to their own privacy policies).  Cookies are used to improve and personalise your experience of particular products and services, measure your use of those products and services and show you relevant advertising.  If you wish to learn more about what types of Cookies we use and for what purpose, or if do not wish for data to be collected through the use of Cookies, see [here](http://www.sevenwestmedia.com.au/assets/Uploads/privacy-doc6b.pdf).
 
-Yahoo!7 automatically receives and records information from your computer and browser, including your [IP address](https://web.archive.org/web/20171011205230id_/https://policies.yahoo.com/au/en/yahoo/privacy/topics/ipaddress/index.htm), Yahoo [cookie](https://policies.yahoo.com/au/en/yahoo/privacy/topics/cookies/index.html) information, software and hardware attributes, and the page you request.
+  
+The Group also uses third party proprietary measurement software (such as OzTAM, Nielsen and Google Analytics) on our websites and apps which enables us to collect audience ratings information and anonymous viewing data which assists us to understand how visitors engage with our websites and apps.   To learn more and for information on how to opt out of such activities see [here](http://www.sevenwestmedia.com.au/assets/Uploads/privacy-doc6b.pdf).
 
-Yahoo!7 uses information for the following general purposes: to customise the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients
+  
+The Group or its agents will generally collect personal information from you directly. For example, the Group may collect personal information when you subscribe to one of the Group’s publications, log on to a website or service by providing us with your email address and password, complete a survey, become a member, attend a function or event, enter a competition, make a purchase, provide a resume or enter an agreement.  There may be other occasions when the Group sources personal information from third parties, such as from Facebook or Google when you log on to a website or service using your Facebook ID or Google ID, or from recruitment agencies when you apply for a position with us via a recruitment agency.  
 
-You may choose to deal with Yahoo!7 anonymously or under a pseudonym where lawful and practicable.
+  
+You may choose to deal with the Group anonymously or under a pseudonym where lawful and practicable (i.e. provided we are still able to provide the relevant service or do business with you without that information).  For example, it might not be practical to deal with you anonymously if we need to process a payment, delivery goods or services or send personalised communications to you.
 
-## **Information Sharing And Disclosure**
+  
+ **2\. Use & Disclosure of Personal Information and other data**
 
-Yahoo!7 does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you have requested, when we have your permission, or under the following circumstances:
+  
+The Group may use your personal information and other data for the purpose for which it was initially collected, namely to arrange, conduct and promote the Group’s media activities (including but not limited to production, broadcasting and publishing), establish and administer your access to our websites and services, provide you with requested products and services (and renewals thereof), as well as all purposes necessary and incidental to the provision of goods or services by the Group or by anyone on behalf of the Group.
 
-  * We provide the information, in compliance with the Australian Privacy Principles, to trusted partners who work on behalf of or with Yahoo!7 under confidentiality agreements. These companies may use your personal information to help Yahoo!7 communicate with you about offers from Yahoo!7 and our marketing partners. However, these companies do not have any independent right to share this information, except to the extent required by law.
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!7’s terms of use, or as otherwise required by law.
-  * We transfer information about you if Yahoo!7 is acquired by or merged with another company. In this event, Yahoo!7 will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  
+In addition, the Group may use your personal information and other data for purposes related to the initial purpose of collection if that other purpose would be within your reasonable expectations.  Related purposes include analysing your personal information for the purpose of identifying and displaying content which may be of interest to you,  referring you to products and services and/or production and broadcast activities and/or media activities that may be of benefit or interest to you, displaying targeted advertising based on those interests, improving our services, conducting research, contacting you, internal auditing and administration, adding your name to a guest list or invitation list, assisting the Group to carry out auditing, administration, or product enhancement, or providing marketing information to you (as explained further in section 6 below).
 
+  
+Without limiting the foregoing, this may involve matching data with third party data held by our business partners using the safe haven environment of a data service provider), or using data to create an anonymous link to third party data held by our business partners and ad network companies and placing that link in  Cookies for the purpose of the Group and its business partners and ad network companies tailoring information you may be more interested in and sending you targeted advertising when you use websites or other services over the internet, including those supplied to you by the Group as well as by third parties unaffiliated with the Group.  This is known as online behavioural advertising or interest-based advertising and information on how to opt out of such activities can be found [here](http://www.sevenwestmedia.com.au/assets/Uploads/privacy-doc6b.pdf).
 
+  
+We may share your personal information with and disclose your personal information to the following categories of recipients:
 
-Yahoo!7 displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area.
+  
+        a. related companies within the Group;
 
-  * Yahoo!7 does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
-  * Yahoo!7 advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
+  
+        b. a regulatory authority, government agency or law enforcement body with jurisdiction over our activities;
 
+  
+        c. professional advisors (such as our legal advisors and accountants) or auditors for the purpose of providing professional services to us;
 
+  
+        d. a third party, if any member of the Group sells all or part of its business or makes a sale or transfer of a substantial part of its assets or is otherwise involved in a re-organization or merger or transfer of all or a material part of its business to that third party, or where a member of the Group ceases to be the licensed distributor of particular products and such distribution is to be taken over by that third party; or  
 
-Yahoo!7 works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you have requested please read our detailed [reference links](https://policies.yahoo.com/au/en/yahoo/privacy/products/index.html).
+  
+        e. third party service providers providing services on our behalf, including:  
+            • marketing agencies, but only to facilitate advertising campaigns for their clients on Seven and its Associated Entities properties, including online banner advertisements and in-app advertisements. These third parties may use your personal information for the purpose of matching with other information to display targeted advertising based upon your interests, location, demographics, purchase intents and lifestyle; and  
+            • suppliers who conduct specialised activities such as website management, share registry services, mail out services, call centre services, data analysis and processing services, insurance broking, vehicle and petrol supply, supply of equipment, engineering services, security services, financial services, credit reporting services and travel and hospitality services.  Personal information may be provided to these parties (where contractually required) and to these suppliers in order to enable them to perform the agreed tasks.
 
-On some occasions your personal information may need to be transferred to overseas countries including the United States, Ireland, Singapore, Korea, United Kingdom, Austria, and Taiwan in order to perform one or more of Yahoo!7’s functions or activities and you consent to such transfer and acknowledge that Section 8.1 of the Australian Privacy Principles will not apply to such transfer.
+  
+The Group may further disclose your personal information without your consent if the disclosure is:
 
-## **Cookies**
+  
+        a. required or authorised by law;
 
-Yahoo!7 may set and access Yahoo!7 [cookies](https://policies.yahoo.com/au/en/yahoo/privacy/topics/cookies/index.html) on your computer.
+  
+        b. required in order to investigate an unlawful activity;
 
-Yahoo!7 lets [other companies](https://policies.yahoo.com/au/en/yahoo/privacy/topics/thirdparties/index.html) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!7’s cookies.
+  
+        c. required by an enforcement body for investigative activities; or
 
-Yahoo!7 uses [web beacons](https://policies.yahoo.com/au/en/yahoo/privacy/topics/webbeacons/index.html) to access Yahoo!7 cookies inside and outside our network of websites and in connection with Yahoo!7 products and services.
+  
+        d. necessary to prevent a serious and imminent threat to a person's life, health or safety, or to public health or safety.
 
-## **Your Ability To Access, Edit And Delete Your Personal Information And Preferences**
+  
+Some companies that the Group is affiliated with have their own privacy policies and where they collect personal information from you for their own business, your personal information will be handled in accordance with their Privacy Policy.
 
-You can access and edit/correct your [Yahoo!7 Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](https://subs.communications.yahoo.com/unsubscribe_all.html?c=1111?), at any time.
+  
+ **3\. Collection, Use and Disclosure of records collected in the course of journalism**
 
-New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
+  
+As a media organization involved in the collection, preparation and dissemination of news, current affairs and information, the journalistic activities and practices of the Group are exempt from the APPs, however the Group is committed to observing standards in relation to privacy in the context of its journalism activities as set out in the following:
 
-We reserve the right to send you certain communications relating to the Yahoo!7 service, such as service announcements, administrative messages and the Yahoo!7 Newsletter, that are considered part of your Yahoo!7 account, without offering you the opportunity to opt out of receiving them.
+  
+        a. the Commercial Television Industry Code of Practice, which applies to the Group’s television broadcasting activities; and 
 
-You may also request access to and correction of the personal information Yahoo!7 holds about you by writing to the Privacy Officer. Additionally, you may delete your Yahoo!7 account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](https://policies.yahoo.com/au/en/yahoo/privacy/topics/datastorage/index.html) to read about information that might possibly remain in our archived records after your account has been deleted.
+  
+        b. Seven West Media’s Print and Print (Online) Privacy Policy, which applies to WAN’s and Pacific’s print and online journalism activities (in addition to this Privacy Policy applying generally to WAN’s and Pacific’s handling of personal information outside of their journalism activities).
 
-## **Confidentiality And Security**
+  
+ **4\. Legal bases for using your personal information**
 
-We limit access to personal information about you to our employees or those of our related bodies corporate who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+  
+If you are located in the EU, the General Data Protection Regulation (“GDPR”) requires us to inform you of the legal bases that we rely on to process your personal information. These bases are as follows:
 
-We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+  
+ _Legitimate interests_
 
-To learn more about security, including the security steps Yahoo!7 has taken and security steps you can take, please read [Security at Yahoo!7](https://policies.yahoo.com/au/en/yahoo/privacy/topics/security/index.html).
+  
+We are allowed to use your personal information where it is in our interests to do so, and these interests are not outweighed by any potential prejudice to you. We believe that we have a legitimate interest in using your personal information in the ways referred to in this Privacy Policy, including but not limited to the following:
 
-## **Changes To This Privacy Policy**
+  
+        a. to conduct and promote our media activities;
 
-Yahoo!7 may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo!7 account or by placing a prominent notice on our site.
+  
+        b. to understand our audiences;
 
-## **Questions, Complaints And Suggestions**
+  
+        c. to provide you with our products and services;
 
-If you have questions or suggestions, please complete a [feedback form](https://io.help.yahoo.com/contact/index?page=contactform&locale=en_TH&token=Zh%2FBBVqXzLHlIbokbUqVWTUbuuQeXGkGnZzhKR2JQ4O6mMQdy9JSWfJCJWvc4C3%2F4ml2UKrHQ0nko7rLtSR524MJxCBJKi0QupzNgfCBznvn27xUEp0LLP5v6N84OyIWfjF0v%2BzoPso6e%2F64KJ%2FpFyU2mT99MquR&selectedChannel=email-icon). Complaints about a breach of the APPs must be addressed in writing to:
+  
+        d. to improve and personalise your experience of our products and services (eg: by displaying content which we think might interest you);
 
-Privacy Officer c/- Legal Department  
-Yahoo!7 Pty Limited  
-PO Box R1469  
-ROYAL EXCHANGE  
-NSW 1225 Australia
+  
+        e. to show you advertising we think might be relevant to you;
 
-We will notify you within 14 working days of the Privacy Officer receiving your complaint and will try to resolve the complaint within 30 working days. When this is not possible we will contact you to provide an estimate of the time it will take to resolve the complaint.
+  
+        f. to provide marketing information to you (regarding our products and services and those of our business partners);
 
-_Last updated: 13 June 2017_
+  
+        g. to ensure that our systems run smoothly;
+
+  
+        h. to keep our systems secure; and
+
+  
+        i. to protect against improper or unauthorised use of our systems.
+
+  
+We don't think that any of the activities set out above will prejudice you in any way. However, you do have the right to object to us processing your personal data on this basis.
+
+  
+ _Contractual obligations_
+
+  
+We are allowed to use your personal information when it is necessary to do so for the performance of a contract that we have with you. For example, if you have ordered certain services from us, we may need to collect and use your personal information in order to satisfy your order.
+
+  
+ _Other legal obligations_
+
+  
+As well as any obligations to you under a contract, we have other legal obligations that we need to comply with, and are allowed to use your personal information when we need to in order to comply with those other legal obligations.
+
+  
+ _Consent_
+
+  
+We are allowed to use your personal information where you have specifically consented. When we seek your consent we will provide you with a full explanation of what we will be doing with your data. You will also have the right to withdraw your consent at any time.
+
+  
+ **5\. International transfers of personal information**
+
+  
+In general, your personal information will be stored in Australia.
+
+  
+On some occasions your personal information and other data may be transferred to or processed by  service providers  in overseas countries including but not limited to the US, or even in ‘the cloud’ (which may involve processing in more than one country) in order for such service providers to perform services on our behalf.  The most current list of those countries can be found [here. ](http://www.sevenwestmedia.com.au/assets/Uploads/privacy-doc4.pdf)
+
+  
+If there is an international transfer of personal information we will take appropriate steps to ensure that it is carried out in accordance with the applicable privacy laws. The protection of such personal information will be subject to the legal requirements of the jurisdictions where the information is transferred, including lawful requirements to disclose information to government authorities in those countries. If you have any questions about the collection, use, disclosure or storage of personal information, please contact us using the details in section 12 below.
+
+  
+ **6\. Direct marketing**
+
+  
+From time to time the Group may use your personal information and other data to identify programs, products and services that may be of interest to you.  The Group may use your personal information to send you information regarding the Group's programs, products and services, and those available through the Group's business partners.
+
+  
+From time to time, the Group may also provide your personal information to carefully selected third parties for the purpose of them providing you with information regarding products and services specific to your needs (in which case they will use youre personal information in accordance with their own privacy policies), and to help the Group conduct product enhancement activities.
+
+  
+If you receive a direct marketing communication from a member of the Group and wish to unsubscribe, you may use the unsubscribe function in the communication you receive, or alternatively by contacting privacy@seven.com.au. We will take prompt steps to ensure that you do not receive any such direct marketing information in future.
+
+  
+ **7\. Personal Information Quality**
+
+  
+The Group's objective is to ensure that all personal information collected by the Group is accurate, complete and up-to-date. To assist the Group in achieving its objective, please contact the Privacy Officer if any of your details change. Further, if you believe that the information the Group holds is not accurate, complete or up-to-date, please contact the Privacy Officer on privacy@seven.com.au in order to have the information corrected.
+
+ **8\. Personal Information Security**
+
+  
+The Group is committed to keeping your personal information secure, and we will take reasonable precautions to protect your personal information from unauthorised access, loss, release, misuse or alteration.
+
+  
+We will not keep your personal information for longer than is necessary for the purposes for which we collect it unless we believe that the law or other regulation requires us to preserve it.
+
+  
+In general, we will retain your data for a period of 5 years following our last contact with you, in order, for example, for us to be able to deal with any questions or complaints you may have, even after your relationship with us has ended.  Following this period, we will delete or de-identify the personal information that we hold about you from our systems, or put it beyond use.
+
+  
+Your personal information and other data may be stored in hard copy documents, but is generally stored electronically on the Group's software or systems or on those of our third party service providers.
+
+  
+The Group maintains physical security over its paper and electronic data stores, such as locks and security systems. The Group also uses computer and network security technologies such as firewalls, intrusion prevention software, antivirus software, external email filtering and passwords to control and restrict access to authorised staff for approved purposes and to secure personal information from unauthorised access, modification, disclosure, misuse and loss.
+
+  
+Whilst the Group takes all reasonable steps to secure your personal information from loss, misuse and unauthorised access, you acknowledge that all activities in which you intentionally or unintentionally supply information to the Group carries an inherent risk of loss of, misuse of, or unauthorised access to such information.  The Group cannot be held responsible for such actions where the security of the personal information is not within the control of the Group, or where the Group cannot reasonably prevent such incident.  
+
+  
+Additionally, you acknowledge that the collection and use of your personal information by third parties may be subject to separate privacy policies and/or the laws of other jurisdictions.
+
+  
+ **9\. Access to Personal Information**
+
+  
+You may request access to the personal information the Group holds about you.
+
+  
+The procedure for gaining access is as follows:
+
+  
+        a. All requests for access to your personal information should be made in writing and addressed to the Privacy Officer.   
+        b. You should provide as much detail as possible regarding the business entity, department or person to whom you believe your personal information has been provided, and when, as well as detail regarding the type of information to which you are seeking access. This will allow the Group to process your request faster.   
+        c. The Group will acknowledge your request within 14 days, and access will usually be granted within 14 days, or if it is more complicated, 30 days. The Group will inform you if this timeframe is not achievable.   
+        d. You will be asked to verify your identity.   
+        e. A fee may apply to such access in the event that a request for access is onerous or time consuming. Such a fee will cover staff costs involved in locating and collating information, and reproduction costs.   
+        f. Depending on the circumstances, you may be forwarded the information by mail or email, or you may be required to personally inspect your records at the appropriate place.   
+        g. You will be given the opportunity to correct any personal information that is no longer accurate.
+
+  
+In some circumstances, the Group may not be in a position to provide access. Such circumstances include the following:
+
+  
+        a. access would create a serious threat to safety;  
+        b. providing access will have an unreasonable impact upon the privacy of other individuals;  
+        c. denying access is required or authorised by law;  
+        d. the request is frivolous or vexatious;  
+        e. legal proceedings are underway or anticipated, and the information would not be accessible through the process of discovery in the proceedings;  
+        f. negotiations may be prejudiced by such access;   
+        g. providing access is likely to prejudice law enforcement;   
+        h. providing access is likely to prejudice action being taken or to be taken with respect to suspected unlawful activity or serious misconduct relating to the Group’s functions or activities; or  
+        i. access would reveal a commercially sensitive decision making process.
+
+  
+If the Group denies access to your personal information, it will provide you with reasons in writing.
+
+ **10\. Your other rights**
+
+In addition to your right to request access to your personal information and to correct it, you also have the right to:  
+    a. request the erasure of any or all of your personal information;  
+    b. restrict or object to the processing of any or all of your personal information;  
+    c. request the porting or transfer of any or all of your information to another organisation; and  
+    d. (as set out elsewhere) withdraw any consent to processing that you have previously given in respect of any or all of your personal information;  
+    e. lodge a complaint with your local regulatory authority.
+
+  
+Please contact privacy@seven.com.au with any of these requests and we will respond to your request as soon as practicable.
+
+  
+ **11\. Changes to this Policy**
+
+The Group may, without notice, change this Policy from time to time for any reason and will update the Policy accordingly.  We ask that you visit our website periodically in order to remain up to date with such changes.
+
+ **12\. Complaints**
+
+  
+If you believe that your privacy has been infringed or a breach of the APPs has occurred, you are entitled to complain. All complaints should initially be in writing and directed to the Privacy Officer. The Group will respond to your complaint as soon as possible, within 14 working days, to let you know who is responsible for managing your query. The Group will try to resolve the complaint within 30 working days. When this is not possible the Group will contact you to provide an estimate of how long it will take to handle the complaint.
+
+  
+If you believe the Group has not adequately dealt with your complaint, you may complain to the Privacy Commissioner whose contact details are as follows:
+
+  
+Officer of the Australian Information Commissioner (OAIC)  
+Phone: 1300 363 992  
+Email: enquiries@oaic.gov.au  
+GPO Box 5218 Sydney NSW 2001  
+Contact details for data protection authorities in the EU are available at: http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+
+  
+ **13\. Privacy Officer's Contact Detail**  
+Please address all written correspondence to:  
+Privacy Officer, c/- Legal Department  
+Seven West Media Limited  
+PO Box 777, Pyrmont NSW 2009  
+Email: privacy@seven.com.au
