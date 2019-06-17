@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230215635id_/https%3A//www.nvidia.com/en-us/about-nvidia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617140837id_/https%3A//www.nvidia.com/en-us/about-nvidia/privacy-policy) for the most accurate reproduction.*
 
 # NVIDIA PRIVACY POLICY
 
