@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushsquare.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230160602id_/http%3A//www.pushsquare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushsquare.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617104103id_/http%3A//www.pushsquare.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Push Square
 
@@ -82,13 +82,13 @@ You may choose to restrict the collection or use of your personal information in
 
   * Don't enter information you do not wish to share with us
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * If you have previously agreed to us using your personal information for newsletter purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](http://www.pushsquare.com/cdn-cgi/l/email-protection#84e0e5f0e5c4eae8ede2e1aae7ebe9) or by updating your account preferences.
+  * If you have previously agreed to us using your personal information for newsletter purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](http://www.pushsquare.com/cdn-cgi/l/email-protection#4a2e2b3e2b0a2426232c2f64292527) or by updating your account preferences.
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your explicit permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998 / General Data Protection Regulation (GDPR) (EU) 2016/679. If you would like a copy of the information held on you please write to Nlife Ltd, Unit 18-19, Loughborough Technology Centre, LE11 3GE, United Kingdom or emails us [[email protected]](http://www.pushsquare.com/cdn-cgi/l/email-protection#9afefbeefbdaf4f6f3fcffb4f9f5f7).
+You may request details of personal information which we hold about you under the Data Protection Act 1998 / General Data Protection Regulation (GDPR) (EU) 2016/679. If you would like a copy of the information held on you please write to Nlife Ltd, Unit 18-19, Loughborough Technology Centre, LE11 3GE, United Kingdom or emails us [[email protected]](http://www.pushsquare.com/cdn-cgi/l/email-protection#1f7b7e6b7e5f717376797a317c7072).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
