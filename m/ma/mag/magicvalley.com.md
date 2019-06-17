@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicvalley.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029234432id_/https%3A//magicvalley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicvalley.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617022150id_/https%3A//magicvalley.com/privacy) for the most accurate reproduction.*
 
 # Privacy | magicvalley.com
 
