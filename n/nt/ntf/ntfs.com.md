@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntfs.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202103025id_/http%3A//ntfs.com/privacy_terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntfs.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617213517id_/http%3A//www.ntfs.com/privacy_terms.htm) for the most accurate reproduction.*
 
 # NTFS.com: Privacy Policy and Terms of Use
 
@@ -51,11 +51,11 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 LSoft Technologies Inc.  
 <http://www.lsoft.net/>  
-2550 Argentia Road, Suite 218  
+7177 Danton Promenade  
 Mississauga, Ontario  
-L5N 5R1  
+L5N 5P3  
 Canada  
-+1 (877) 477-3553  
++1 (877) 403-8082  
 +1 (905) 812-8434  
 
 
