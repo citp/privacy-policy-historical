@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128024503id_/http%3A//www.oasis-stores.com/gb/privacy-policy-2018.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617143242id_/https%3A//www.oasis-stores.com/us/privacy-policy.html) for the most accurate reproduction.*
 
-# Oasis - United Kingdom
+# Privacy Policy
 
 (A) This Notice
 
