@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spiritofchennai.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627163352id_/http%3A//spiritofchennai.com/statutory/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritofchennai.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617052543id_/https%3A//spiritofchennai.com/statutory/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy »
 
 Protecting the individual’s privacy on the Internet is crucial to the future of Internet-based business and the move toward a true Internet environment. SpiritOfChennai.com has created this privacy statement in close resemblance to Fortune 500 companies that have shown and demonstrated their commitment to privacy protection on the web.
 
@@ -8,7 +8,7 @@ Protecting the individual’s privacy on the Internet is crucial to the future o
 
 By using this Web site, you consent to the collection and use of the information as described here. If we decide to make changes to this privacy policy, we will post the changes on this page so that you will always know what information we collect, and how we use it.
 
- **Use and Purpose of Collected Personal Data**
+ **Use and Purpose of Collected Personal[Data](https://spiritofchennai.com/category/data/ "Data")**
 
 On our Web sites, we only store personal information relating to you with your permission. You may choose to reveal information to us if, for example, you register or complete a survey. Companies in the SpiritOfChennai.com group may use the information internationally in connection with processing your inquiries and orders or to help improve our products and services.
 
@@ -22,7 +22,7 @@ We bind our employees to observe your privacy and confidentiality rights.
 
  **Online Security**
 
-SpiritOfChennai.com supports secure online shopping using secure server technology because we want your shopping experience to be simple and safe. There are state-of-the art security arrangements and facilities on SpiritOfChennai.com sites to prevent security abuse. (Coming Soon Feature of SpiritOfChennai.com)
+SpiritOfChennai.com supports secure online [shopping](https://spiritofchennai.com/category/shopping/ "shopping") using secure server technology because we want your shopping experience to be simple and safe. There are state-of-the art security arrangements and facilities on SpiritOfChennai.com sites to prevent security abuse. (Coming Soon Feature of SpiritOfChennai.com)
 
  **Details**
 
@@ -35,7 +35,7 @@ We use IP addresses to help diagnose problems, to administer our Web site, and t
 We use cookies to deliver personalized content, to save you having to re-enter your password repeatedly, to keep track of your shopping cart, and to tailor our information offerings to how you and others use the site. (Yet to be Instantiated)
 
  **User Registration**  
-If you choose to register, we can send you requested information or products, other product information, news, or promotions.
+If you choose to register, we can send you requested information or products, other product information, [news](https://spiritofchennai.com/category/news/ "news"), or promotions.
 
  **E-mail Addresses**  
 If you choose to give us your e-mail address, we will communicate with you via e-mail. We do not share your e-mail address with others outside the SpiritOfChennai.com group of companies. You can choose not to receive any more e-mail at any time.
