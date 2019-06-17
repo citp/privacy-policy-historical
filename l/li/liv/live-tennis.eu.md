@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live-tennis.eu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020052id_/http%3A//live-tennis.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live-tennis.eu privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617121005id_/https%3A//live-tennis.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ Our website is scanned on a regular basis for security holes and known vulnerabi
 
 ### Do we use 'cookies'?
 
-Yes. See our [Cookie Policy](http://live-tennis.eu/cookie-policy).
+Yes. See our [Cookie Policy](https://live-tennis.eu/cookie-policy).
 
 ### Third Party Disclosure
 
@@ -39,11 +39,15 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ### Advertising
 
-We use Google AdSense Advertising and Criteo Advertising on our website. As a third party vendors, they use cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+We use Google AdSense, Criteo and Ezoic Advertising on our website. As a third party vendors, they use cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+[Google Privacy Terms](https://policies.google.com/technologies/partner-sites)
+
+[Ezoic Privacy Policy](https://g.ezoic.net/privacy/live-tennis.eu)
 
 ### Does our site allow third party behavioral tracking?
 
 It's important to note that we allow third party behavioral tracking for advertising purpose and internal analytics reporting.
 
 #####   
-Last Edited on 2015-09-14
+Last Edited on June 5, 2018
