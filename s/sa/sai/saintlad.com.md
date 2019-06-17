@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the saintlad.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116195119id_/http%3A//saintlad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saintlad.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617210906id_/https%3A//www.saintlad.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Saint - Saint
+# Privacy Policy
 
-#### The Saint Privacy Policy was updated on July 14, 2017.
+#### The Saint Privacy Policy was updated on 8th August, 2018.
 
 The privacy of registered and unregistered users (“users” or “you”) is very important to us. This Privacy Policy intends to describe: what type of information we collect; how we use, share, and guard the information and your choices regarding your use of the Saintlad.com website and services (the “Website”).
 
@@ -50,4 +50,4 @@ By using the Website, you are accepting the then-current Privacy Policy, which m
 
 ### Questions
 
-If you have any questions about our Privacy Policy, please contact us at thesaintlad@gmail.com.
+If you have any questions about our Privacy Policy, please contact us **[here](https://www.saintlad.com/contact-saint/)**.
