@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightningsource.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013215315id_/https%3A//www.ingramcontent.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightningsource.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617184314id_/https%3A//www.ingramcontent.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Details | Ingram Content Group
 
