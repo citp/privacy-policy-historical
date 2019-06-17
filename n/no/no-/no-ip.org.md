@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the no-ip.org privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125092357id_/https%3A//www.noip.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no-ip.org privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617080840id_/https%3A//www.noip.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - No-IP
+
+* Plus Managed DNS $5.00/yr  __
+
+domianexample.com
+* An error has occured ×
+
+
+[Continue to Checkout](https://www.noip.com/plan-builder/configure)
+
+Loading
+
+Your cart is empty
+
+Check out all the services you can purchase on [No-IP](https://www.noip.com). [Start Shopping](https://www.noip.com)
 
 ## Privacy Policy
 
@@ -8,7 +22,7 @@ No-IP.com takes your privacy seriously. By visiting No-IP.com or using our Servi
 
 ## What Does This Policy Cover?
 
-This Policy covers how No-IP.com treats personal information that No-IP.com collects and receives, including via , all related websites, networks, embeddable widgets, downloadable software, mobile applications (including tablet applications), DNS Hosting, dynamic DNS, URL Redirection, email hosting, domain name registration, server monitoring, SSL certificates and software utilities provided by us and on which a link to this Policy is displayed (each a "Service" and collectively "Services"). This includes information related to your use of No-IP.com products and services, and information about you that is personally identifiable - such as your name, address, email address, IP address and phone number. 
+This Policy covers how No-IP.com treats personal information that No-IP.com collects and receives, including via www.No-IP.com, all related websites, networks, embeddable widgets, downloadable software, mobile applications (including tablet applications), DNS Hosting, dynamic DNS, URL Redirection, email hosting, domain name registration, server monitoring, SSL certificates and software utilities provided by us and on which a link to this Policy is displayed (each a "Service" and collectively "Services"). This includes information related to your use of No-IP.com products and services, and information about you that is personally identifiable - such as your name, address, email address, IP address and phone number. 
 
 The website contains links to other sites. No-IP.com is not responsible for the content or privacy practices of these sites and this Policy does not apply to the practices of those companies that are not affiliated with No-IP.com. 
 
