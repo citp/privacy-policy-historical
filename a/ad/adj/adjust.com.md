@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the adjust.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212054735id_/https%3A//www.adjust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjust.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617084131id_/https%3A//www.adjust.com/terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Mobile Measurement Company | Adjust
+# Privacy Policy | Adjust
 
-Last modified: December 6, 2018
+Last modified: January 18, 2019
 
-Adjust GmbH, adjust Inc. and adjust KK (collectively, “adjust” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy. With this privacy policy, We would like to inform you how we process your personal data whilst using this website.
+Adjust GmbH, adjust Inc., adjust KK, adjust Korea Ltd., adjust (Beijing) Co Ltd., and adjust Ltd. (collectively, “adjust” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy. With this privacy policy, We would like to inform you how we process your personal data whilst using this website.
+
+For the privacy policy describing the data processing of our subsidiary Acquired IO LLC, please refer to <https://app.acquired.io/legal/privacy/>.
 
 The responsible body according to art. 4 European General Data Protection Regulation (“GDPR”) is Adjust GmbH, Saarbrücker Str. 37a, 10405 Berlin, managing directors are Christian Henschel and Paul Müller.
 
@@ -28,7 +30,7 @@ It does not apply to information collected by:
 
 
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
 ### 1\. Collection and Use of Data on the Website
 
@@ -42,7 +44,7 @@ Legal basis for the processing of this personal data is Art. 6 para. 1 (f) GDPR,
 
   * to present and improve our website.
   * to estimate the size of our target group and their user pattern.
-  * to save information about your preferences so that we may adapt our website to your individual interests. 
+  * to save information about your preferences so that we may adapt our website to your individual interests.
   * to speed up your search.
   * to recognize you when you return to our website.
 
@@ -68,7 +70,7 @@ We may also use your information to contact you about goods and services that ma
 
 ### Children Under the Age of 13
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at Adjust GmbH, Saarbrücker Str. 37a, 10405 Berlin, Germany, via email at [privacy@adjust.com](mailto:privacy@adjust.com) or per phone at +49 172 153 501 1. 
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at Adjust GmbH, Saarbrücker Str. 37a, 10405 Berlin, Germany, via email at [privacy@adjust.com](mailto:privacy@adjust.com) or per phone at +49 172 153 501 1.
 
 ### Information We Collect About You When You Visit Our Website
 
@@ -190,9 +192,9 @@ California Civil Code Section § 1798.83 permits users of our Website that are C
 
 ### Commitment to the EU-US Privacy Shield
 
-Adjust Inc. complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Adjust has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+Adjust Inc. and Acquired IO LLC comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Adjust has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-In compliance with the Privacy Shield Principles, Adjust commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Adjust at: 
+In compliance with the Privacy Shield Principles, Adjust commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Adjust at:
 
 Adjust GmbH, Saarbrücker Str. 37A, 10405 Berlin, Germany
 
@@ -222,7 +224,7 @@ The LinkedIn Insight Tag is a piece of lightweight JavaScript code that we have 
 
 ##### Marketo
 
-Marketo Inc. is a marketing automation platform focused on account-based marketing, including e-mail, mobile devices, social media, digital ads, web management and analytics. O this platform, cookies are used in order to recognize you as a customer when you visit the website again; to track different data when using the website and to provide better content. The cookies placed by Marketo Inc. are read only by Marketo Inc. For more information about Marketo Cookies and Marketo's privacy policy, please click [here](https://documents.marketo.com/legal/privacy/). 
+Marketo Inc. is a marketing automation platform focused on account-based marketing, including e-mail, mobile devices, social media, digital ads, web management and analytics. O this platform, cookies are used in order to recognize you as a customer when you visit the website again; to track different data when using the website and to provide better content. The cookies placed by Marketo Inc. are read only by Marketo Inc. For more information about Marketo Cookies and Marketo's privacy policy, please click [here](https://documents.marketo.com/legal/privacy/).
 
 ##### Pardot
 
@@ -230,7 +232,7 @@ Pardot is a B2B marketing automation by Salesforce which we use to keep customer
 
 ##### Bizible
 
-Bizible offers an integrated marketing analysis platform for marketers in order to optimize their advertising campaigns. Bizible collects your name, e-mail address and (if applicable) your address (only if you have explicitly provided us with this), as well as IP address, browser type and marketing source. You can do a Bizible Cookie-Opt-Out [here](https://www.bizible.com/cookie-opt-out). For more information, please klick[ here](https://www.bizible.com/privacy-policy).
+Bizible offers an integrated marketing analysis platform for marketers in order to optimize their advertising campaigns. Bizible collects your name, e-mail address and (if applicable) your address (only if you have explicitly provided us with this), as well as IP address, browser type and marketing source. You can do a Bizible Cookie-Opt-Out [here](https://www.bizible.com/cookie-opt-out). For more information, please klick [here](https://www.bizible.com/privacy-policy).
 
 ##### Clearbit
 
@@ -238,7 +240,7 @@ Clearbit is operated by APIHub Inc. Clearbit has developed a business intelligen
 
 ##### Hotjar
 
-Hotjat Ltd. provides a service which analyses the online behavior of website users by combining analytics and feedback tools. Hotjar will collect and processe your IP address when you navigate through and interact with the contents of our website. The sole purpose for passively collecting this information is to improve your experience when using our website. You may opt-out from having Hotjar collect Your information when visiting our website at any time by visiting their [Opt-out](https://www.hotjar.com/opt-out) page and clicking 'Disable Hotjar'.
+Hotjar Ltd. provides a service which analyses the online behavior of website users by combining analytics and feedback tools. Hotjar will collect and processe your IP address when you navigate through and interact with the contents of our website. The sole purpose for passively collecting this information is to improve your experience when using our website. You may opt-out from having Hotjar collect Your information when visiting our website at any time by visiting their [Opt-out](https://www.hotjar.com/opt-out) page and clicking 'Disable Hotjar'.
 
 ##### VWO
 
@@ -246,17 +248,17 @@ VWO is operated by Wingfify Software Private Limited. VWO is a test and optimiza
 
 ##### Drift
 
-Drift.com Inc. is a conversation-driven marketing platform. With its rapidly evolving tools, Drift unlocks the hidden insights to accelerate business success. Drift records the email address you enter in our forms. For more information on how drift data is collected and processed please click [here](https://www.drift.com/privacy-policy/). To unsubscribe from drift tracking, please email [privacy@drift.com](mailto:privacy@drift.com).
+Drift Inc. is a conversation-driven marketing platform. With its rapidly evolving tools, Drift unlocks the hidden insights to accelerate business success. Drift records the email address you enter in our forms. For more information on how drift data is collected and processed please click [here](https://www.drift.com/privacy-policy/). To unsubscribe from drift tracking, please email [privacy@drift.com](mailto:privacy@drift.com).
 
 ##### Raygun
 
 Raygun is operated by Raygun Limited and is an online service providing us with error tracking and performance analytics for our Adjust Dashboard.  
-The only data that is shared with Raygun is the IP address of a Dashboard user. This information is used to compute geographic performance metrics limited to only the country of origin, that we use to improve the quality of our service. Raygun does not share data with any other third party.   
+The only data that is shared with Raygun is the IP address of a Dashboard user. This information is used to compute geographic performance metrics limited to only the country of origin, that we use to improve the quality of our service. Raygun does not share data with any other third party.  
 If you would like to opt-out from our performance analysis and not to be tracked by Raygun please send a request to [dashboard+raygun@adjust.com](mailto:dashboard+raygun@adjust.com) specifying the email address associated with your Adjust Dashboard user.
 
-### 3\. Processing of data through the Adjust Technology 
+### 3\. Processing of data through the Adjust Technology
 
-Adjust GmbH, Adjust Inc. and Adjust KK (collectively, “Adjust” or “We”) provide mobile analytics and attribution services to mobile app providers (our “Customers”). In connection with these services, we may process certain data from the users of these mobile apps (collectively the “End User” or “You”), as further described hereafter. We process the data upon instructions from our Customers and do not have any kind of direct relationship with the You as the End User.
+Adjust GmbH, adjust Inc., adjust KK, adjust Korea Ltd., adjust (Beijing) Co Ltd., and adjust Ltd. (collectively, “Adjust” or “We”) provide mobile analytics and attribution services to mobile app providers (our “Customers”). In connection with these services, we may process certain data from the users of these mobile apps (collectively the “End User” or “You”), as further described hereafter. We process the data upon instructions from our Customers and do not have any kind of direct relationship with the You as the End User.
 
 Customers who have [child-directed apps](https://www.adjust.com/terms/#child-directed) must choose the appropriate product settings and must not share any personal data with Partners or any third parties. Customers must agree to the section in our Terms and Conditions accordingly.
 
@@ -272,15 +274,10 @@ Our SDK and APIs (collectively the “adjust technology”) may process some of 
 
 We use the aforementioned data for providing mobile analytics and attribution services to our Customers, and thereby allow our customers to track their marketing performance, to match You to their campaigns and to understand how You engage with our Customer’s app. Furthermore, we enable our Customers to track Your interactions in their apps in real time in order to see how You engage over their full lifetime. The aforementioned data is therefore processed in order to analyze the performance of marketing campaigns and to provide performance reports to our Customers. We do not combine the data with any other data that would enable us to personally identify You. Any information processed via the adjust technology is owned and controlled by our Customer who has implemented the adjust technology into their mobile app.
 
-We do not share or disclose the user data with anyone else except with our server providers and in response to lawful requests by public authorities, including national security or law enforcement requirements. We store the data as long as our Customers are using the adjust technology because we need it to provide our services to our Customers, if not requested otherwise by our Customers.  
-
+We do not share or disclose the user data with anyone else except with our server providers and in response to lawful requests by public authorities, including national security or law enforcement requirements. We store the data as long as our Customers are using the adjust technology because we need it to provide our services to our Customers, if not requested otherwise by our Customers.
 
 In some cases, there is a transfer of data to third countries outside the European Union. This is done on the basis of statutory provisions that are intended to ensure an adequate level of protection for Your personal data.
 
 ### Changes to Our Privacy Policy
 
 It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our website and this privacy policy to check for any changes.
-
-## Cookie Preferences
-
-You can edit your cookie preferences by clicking here. Alternatively, you can remove all non-functional cookies by clicking here.
