@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the enago.com privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809123638id_/https%3A//www.enago.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enago.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617085638id_/https%3A//www.enago.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Enago English Editing Services: Privacy & Security Policy
 
 ## Effective Date: 25th May, 2018
 
-Crimson Interactive Inc. ( _hereafter_  CII) along with its group companies, including without limitation to, [Enago](https://www.enago.com/), [Ulatus](https://www.ulatus.com/), [Voxtab](https://www.voxtab.com/), and [Enago Academy](https://www.enago.com/academy/) (collectively “CII”, “we”, “our”, “ours”, “us”), is a company federally incorporated in the US. The services provided by CII (hereafter Services) require your personal information for providing you the services we offer. This Privacy Notice gives you details of the information CII collects when you visit our websites or use our services and how we collect it. It also explains how we use your data.
+Crimson Interactive Inc. ( _hereafter_ CII) along with its group companies, including without limitation to, [Enago](https://www.enago.com/), [Ulatus](https://www.ulatus.com/), [Voxtab](https://www.voxtab.com/), and [Enago Academy](https://www.enago.com/academy/) (collectively “CII”, “we”, “our”, “ours”, “us”), is a company federally incorporated in the US. The services provided by CII (hereafter Services) require your personal information for providing you the services we offer. This Privacy Notice gives you details of the information CII collects when you visit our websites or use our services and how we collect it. It also explains how we use your data. 
 
-We take your privacy very seriously. This Privacy Notice sets out your rights and answers any queries you may have about your personal data. If you need more information, please contact us at [kaizen@enago.com](mailto:kaizen@enago.com).
+We take your privacy very seriously. This Privacy Notice sets out your rights and answers any queries you may have about your personal data. If you need more information, please contact us at [kaizen@enago.com](mailto:kaizen@enago.com).
 
 If you have entered into a contract with us, we will be the controller of your data as stated in the contract.
 
@@ -45,7 +45,7 @@ We collect and process personal data about you when you interact with us and our
 
 
 
-**Information collected automatically**  (hereafter Usage Data)
+**Information collected automatically** (hereafter Usage Data)
 
   * Electronic identification data, such as IP address, cookies, device model
   * Browsing activity, such as your visit(s) to our websites, your operating system, browser type, internet service provider (ISP)
@@ -66,7 +66,7 @@ We will use Usage Data, including without limitation, to
 
 
 
-**Information from our public blogs and newsletters**  (also Usage Data)
+**Information from our public blogs and newsletters** (also Usage Data)
 
 When you visit our publicly accessible blogs or subscribe to our newsletters, we may collect the following information.
 
@@ -83,7 +83,7 @@ We will use such Usage Data, including without limitation, to
 
 
 
-**Information from CII Careers**  (also Usage Data)
+**Information from CII Careers** (also Usage Data)
 
 When you apply for employment at CII by filling out a job application form, we may collect the following information.
 
