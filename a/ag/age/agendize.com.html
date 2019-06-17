@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the agendize.com privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624193201id_/https%3A//www.agendize.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the agendize.com privacy policy that was archived on 2019-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190617171543id_/https%3A//www.agendize.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -8,38 +8,22 @@
     <meta name="description" content="Protecting your privacy is very important to us. We treat your personal information with the utmost respect and in accordance with this Privacy Policy. ">
     <meta name="generator" content="HubSpot">
     <title>Privacy Policy - Agendize</title>
-    <link rel="shortcut icon" href="https://www.agendize.com/hubfs/favicon-agendize.png?t=1529683885299">
+    <link rel="shortcut icon" href="https://www.agendize.com/hubfs/favicon-agendize.png">
     
 
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/hs/hsstatic/jquery-libs/static-1.4/jquery/jquery-1.11.2.js"></script>
+    <script src="/hs/hsstatic/jquery-libs/static-1.4/jquery/jquery-1.11.2.js"></script>
 <script>hsjQuery = window['jQuery'];</script>
-    <link href="/hs/hsstatic/content_shared_assets/static-1.4076/css/public_common.css" rel="stylesheet">
+    <link href="/hs/hsstatic/content_shared_assets/static-1.4091/css/public_common.css" rel="stylesheet">
     <meta property="og:description" content="Protecting your privacy is very important to us. We treat your personal information with the utmost respect and in accordance with this Privacy Policy. ">
     <meta property="og:title" content="Privacy Policy - Agendize">
     <meta name="twitter:description" content="Protecting your privacy is very important to us. We treat your personal information with the utmost respect and in accordance with this Privacy Policy. ">
     <meta name="twitter:title" content="Privacy Policy - Agendize">
 
 
-    <link rel="stylesheet" href="https://static.hsstatic.net/cos-LanguageSwitcher/static-1.1/sass/LanguageSwitcher.css">
-<link rel="stylesheet" href="https://www.agendize.com/hs-fs/hub/4138767/hub_generated/module_assets/1526394154186/module_5669350556.min.css">
-<link rel="stylesheet" href="https://www.agendize.com/hs-fs/hub/4138767/hub_generated/module_assets/1527801056491/module_5780593588.min.css">
+    <link rel="stylesheet" href="https://www.agendize.com/hs-fs/hub/4138767/hub_generated/module_assets/1544609849125/module_6756356268.min.css">
     
 
     
-<!--  Added by GoogleAnalytics integration -->
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-2540324-14', 'auto');
-  ga('send', 'pageview');
-</script>
-
-<!-- /Added by GoogleAnalytics integration -->
-
     
     <link rel="canonical" href="https://www.agendize.com/privacy-policy">
 
@@ -63,7 +47,102 @@
 </script>
 
 
+<script>
 
+function testDoRedirect() {
+    var actualUrl = window.location.href;
+    if (actualUrl.startsWith('https://www.agendize.com/en-us/') === false
+        && actualUrl.startsWith('https://www.agendize.com/fr/') === false
+        && actualUrl.startsWith('https://www.agendize.com/es-mx/') === false
+        && actualUrl === 'https://www.agendize.com/') {
+            return true;
+    }
+    return false;
+}
+
+function setCookie(cname, cvalue) {
+    var d = new Date();
+    d.setTime(d.getTime() + (3 * 60 * 1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+
+function redirectFR()
+  {
+      if (testDoRedirect() === true && getCookie('alreadyRedirected') === '') {
+          window.location.href = 'https://www.agendize.com/fr/';
+          setCookie('alreadyRedirected', '1');
+      }
+  }
+function redirectMX()
+  {
+      if (testDoRedirect() === true && getCookie('alreadyRedirected') === '') {
+          window.location.href = 'https://www.agendize.com/es-mx/';
+          setCookie('alreadyRedirected', '1');
+      }
+  }
+function redirectUS()
+  {
+      //if (testDoRedirect() === true && getCookie('alreadyRedirected') === '') {
+      //    window.location.href = 'https://www.agendize.com/en-us/';
+          setCookie('alreadyRedirected', '1');
+      //}
+  }
+function redirectEN()
+  {
+      // do nothing
+  }
+
+function geoRedirect(a) {
+  console.log(a);
+  if (a.country_code === 'FR' || a.country_code === 'BE' || (a.country_code === 'CA' && a.country_name === 'Quebec')) {
+    redirectFR();
+  } else if (a.country_code === 'US' || (a.country_code === 'CA' && a.country_code !== 'Quebec')) {
+    redirectUS();
+  } else if (a.country_code === 'ES'
+            || a.country_code === 'AR'
+            || a.country_code === 'BO'
+            || a.country_code === 'BR'
+            || a.country_code === 'CL'
+            || a.country_code === 'CO'
+            || a.country_code === 'CR'
+            || a.country_code === 'CU'
+            || a.country_code === 'EC'
+            || a.country_code === 'GT'
+            || a.country_code === 'HN'
+            || a.country_code === 'MX'
+            || a.country_code === 'NI'
+            || a.country_code === 'PA'
+            || a.country_code === 'PY'
+            || a.country_code === 'PE'
+            || a.country_code === 'DO'
+            || a.country_code === 'SV'
+            || a.country_code === 'UY'
+            || a.country_code === 'VE') {
+    redirectMX();
+  } else {
+    redirectEN();
+  }
+}
+</script>
+<script src="http://api.ipapi.com/api/check?access_key=22923772dfc07d88dfa29c3bd4df5d29&amp;callback=geoRedirect"></script>
+
+<meta name="google-site-verification" content="zfIQU6C1zoIYVUOyLxaBxpI4evufm_tQKv0tD5OkDt8">
 
 <meta property="og:url" content="https://www.agendize.com/privacy-policy">
 <meta name="twitter:card" content="summary">
@@ -73,8 +152,8 @@
 <link rel="alternate" hreflang="fr" href="https://www.agendize.com/fr/notre-politique-de-confidentialite">
 <link href="//cdn2.hubspot.net/hub/-1/hub_generated/template_assets/1495141902003/hubspot_default/shared/responsive/layout.min.css" rel="stylesheet">
 
-<link rel="stylesheet" href="https://www.agendize.com/hs-fs/hub/4138767/hub_generated/template_assets/1529576061441/Custom/blog/DW-Agendize/styles.min.css">
-<link rel="stylesheet" href="https://www.agendize.com/hs-fs/hub/4138767/hub_generated/template_assets/1529676881173/Custom/page/DW-Agendize/DW-style.min.css">
+<link rel="stylesheet" href="https://www.agendize.com/hs-fs/hub/4138767/hub_generated/template_assets/1556198648755/Custom/blog/DW-Agendize/styles.min.css">
+<link rel="stylesheet" href="https://www.agendize.com/hs-fs/hub/4138767/hub_generated/template_assets/1558960407100/Fichiers_cods/Custom/page/DW-Agendize/DW-style.min.css">
 
 
 
@@ -89,7 +168,7 @@
 </script>
 
 
-</head>
+<script type="text/javascript" src="/_hcms/forms/embed/v3/form/4138767/3d9bc330-dcc6-4772-a831-1b963a4b1c9d?callback=hs_reqwest_0&amp;hutk=" async=""></script></head>
 <body class="   hs-content-id-5769140279 hs-site-page page " style="">
     <div class="header-container-wrapper">
     <div class="header-container container-fluid">
@@ -106,45 +185,53 @@
 
 
 
-  <span id="hs_cos_wrapper_hs_logo_widget" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="https://www.agendize.com/?hsLang=en" id="hs-link-hs_logo_widget" style="border-width:0px;border:0px;"><img src="https://www.agendize.com/hubfs/logoagendize-31.svg?t=1529683885299" class="hs-image-widget " style="width:300px;border-width:0px;border:0px;" width="300" alt="logo_agendize-medium.png" title="logo_agendize-medium.png"></a></span>
+  <span id="hs_cos_wrapper_module_15224115693761747_hs_logo_widget" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="https://www.agendize.com/" id="hs-link-module_15224115693761747_hs_logo_widget" style="border-width:0px;border:0px;"><img src="https://www.agendize.com/hubfs/logoagendize-31.svg" class="hs-image-widget " style="width:300px;border-width:0px;border:0px;" width="300" alt="logo_agendize-medium.png" title="logo_agendize-medium.png"></a></span>
 </div>
 
 </div><!--end widget-span -->
-<div class="span9 widget-span widget-type-custom_widget custom-menu-primary" style="" data-widget-type="custom_widget" data-x="2" data-w="9">
+<div class="span10 widget-span widget-type-custom_widget custom-menu-primary menu-us-agendize-mai-19" style="" data-widget-type="custom_widget" data-x="2" data-w="10">
 <div id="hs_cos_wrapper_module_15224115620311745" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-<span id="hs_cos_wrapper_menu_5734531442" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_menu_5734531442" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" aria-label="Navigation Menu">
+<span id="hs_cos_wrapper_module_15224115620311745_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_15224115620311745_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="9858752068" aria-label="Navigation Menu">
  <ul>
-  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="menu"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Your profile</a>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="menu"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Platform</a>
    <ul class="hs-menu-children-wrapper">
-    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/enterprises" role="menuitem">Enterprise</a></li>
-    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/public-sector" role="menuitem">Public Sector</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/online-appointment-booking" role="menuitem">Online Appointment Booking</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/synchronization" role="menuitem">Synchronization</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/web-presence" role="menuitem">Web Presence</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/crm-and-marketing-automation" role="menuitem">CRM and Marketing Automation</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/integration" role="menuitem">Integration</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/promotions-and-payments" role="menuitem">Promotions and Payments</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/other-features" role="menuitem">Other Features</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="menu"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Customers</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/enterprise" role="menuitem">Enterprise</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/public-sector" role="menuitem">Public</a></li>
     <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/partners" role="menuitem">Partners</a></li>
    </ul></li>
-  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/who-are-we" role="menuitem">Who are we?</a></li>
-  <li class="hs-menu-item hs-menu-depth-1"><a href="https://blog.agendize.com/us" role="menuitem">Blog</a></li>
-  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/contact-us" role="menuitem">Contact</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="menu"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Resources</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/tutorial-video" role="menuitem">Tutorial</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://blog.agendize.com/us" role="menuitem" target="_blank">Blog</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="http://developers.agendize.com/" role="menuitem" target="_blank">API</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://agendize.freshdesk.com/en/support/home" role="menuitem" target="_blank">Help</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="menu"><a href="https://www.agendize.com/the-company" aria-haspopup="true" aria-expanded="false" role="menuitem">About</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/the-company" role="menuitem">The Company</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/values" role="menuitem">Our Values</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/meet-the-team" role="menuitem">Meet the Team</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/contact-us" role="menuitem">Contact us</a></li>
+   </ul></li>
   <li class="hs-menu-item hs-menu-depth-1"><a href="https://app.agendize.com/login" role="menuitem" target="_blank">Login</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://blog.agendize.com/trial-us" role="menuitem">Free trial</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="menu"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">US</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/fr/" role="menuitem">FR</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.agendize.com/es-mx/" role="menuitem">MX</a></li>
+   </ul></li>
  </ul>
 </div></span></div>
-
-</div><!--end widget-span -->
-<div class="span1 widget-span widget-type-custom_widget langueSwitch" style="" data-widget-type="custom_widget" data-x="11" data-w="1">
-<div id="hs_cos_wrapper_module_15224115831451748" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-language_switcher" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_language_switcher" style="" data-hs-cos-general-type="widget" data-hs-cos-type="language_switcher"><div class="lang_switcher_class">
-   <div class="globe_class" onclick="">
-       <ul class="lang_list_class">
-           <li>
-               <a class="lang_switcher_link" data-language="en" href="https://www.agendize.com/privacy-policy">English</a>
-           </li>
-           <li>
-               <a class="lang_switcher_link" data-language="es-mx" href="https://www.agendize.com/es-mx/nuestra-politica-de-privacidad">Spanish - Mexico</a>
-           </li>
-           <li>
-               <a class="lang_switcher_link" data-language="fr" href="https://www.agendize.com/fr/notre-politique-de-confidentialite">French</a>
-           </li>
-       </ul>
-   </div>
-</div></span>
-</div>
 
 </div><!--end widget-span -->
 </div><!--end row-->
@@ -162,103 +249,51 @@
 
 <div class="row-fluid-wrapper row-depth-1 row-number-1 ">
 <div class="row-fluid ">
-<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
-<div id="hs_cos_wrapper_module_152336606432995" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="container-fluid">
-	<div class="row">
-    <div class="container-header parallax" style="background-image: url('https://www.agendize.com/hubfs/image-mentions-legales-min.jpg?t=1529683885299'); background-size:cover; background-position: center;">
-      <div class="container content">
-        <h1 class="title_header"><center><font style="color:white;">PRIVACY POLICY</font></center></h1>
-        <div class="subheader"></div>
-        
-        
-        	  
-				
-        
-        <div class="cta col-md-12">
-          <span id="hs_cos_wrapper_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_cta" style="" data-hs-cos-general-type="widget" data-hs-cos-type="cta"></span>
-          
-        </div>
-            
-      </div>
-    </div>
-  </div>
-</div></div>
-
-</div><!--end widget-span -->
-</div><!--end row-->
-</div><!--end row-wrapper -->
+<div class="span12 widget-span widget-type-cell container" style="text-align: center;max-width: 960px;margin: 0 auto 30px!important;float: none !important;" data-widget-type="cell" data-x="0" data-w="12">
 
 <div class="row-fluid-wrapper row-depth-1 row-number-2 ">
 <div class="row-fluid ">
-<div class="span12 widget-span widget-type-cell container" style="text-align: center;max-width: 960px;margin: 0 auto 30px!important;float: none !important;" data-widget-type="cell" data-x="0" data-w="12">
-
-<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
-<div class="row-fluid ">
 <div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
-<div id="hs_cos_wrapper_module_152336608454598" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h2 style="text-align: left;"><span style="font-family: inherit; background-color: transparent;">SCOPE</span></h2>
-<div class="sub-section">
-<p style="text-align: left;">At Agendize (“Agendize”), protecting your privacy is very important to us. We treat your personal information with the utmost respect and in accordance with this Privacy Policy. This Privacy Policy explains how personal information about you may be collected, used, and or disclosed as a consequence of your activities on a website using Agendize technology. We urge you to read it carefully and to print a copy for your records.</p>
-<p style="text-align: left;">By submitting any information through the use of a website which uses Agendize technology (an “Agendize website &amp; services”) or by otherwise accessing our site, you agree to the terms of this Privacy Policy and consent to the policies and practices described for the collection, use and or disclosure of personal information and you expressly consent to the collection, storage, use and or disclosure of your personal information as described in this Privacy Policy.</p>
-</div>
-<div class="sub-section" style="text-align: left;">
-<h2 class="aLeft">DATA COLLECTION</h2>
-<p>The type of personal information that is protected varies from one jurisdiction to another but generally includes any information concerning an identifiable individual, such as name, address, telephone number, age, sex, marital status and nationality, etc.&nbsp;</p>
-<p>You may visit an Agendize website at any time without submitting personal information. When you visit such website, or when you visit third-party websites providing content that uses Agendize services, data is saved on our servers in an anonymous format, such as, for example, connection information, statistics on page views, traffic to and from the Agendize website &amp; services, and ad data. Also saved is the identification of the website that you arrive from, the website that you proceed to from our site, and your IP address. In collecting this information, no personal data is associated with you. We may share such data in an anonymous format with third parties, including, but not limited to, vendors that support the operation of our website and services, and entities involved in the delivery of advertisements.</p>
-<p>We do, however, require some information, which may include personal information, so that you can actively use the features of the Agendize website &amp; services. Once you provide Agendize or the owner of the Agendize website (hereinafter “us” or “we”) with your required personal information, you are no longer anonymous. In providing us with your personal information, you consent to the transfer and storage of such information on our servers, in order to serve you.</p>
-<p>Once you are registered, we may some or all of the following personal information:</p>
-<ul>
-<li>email address and physical contact information, including but not limited to your name, address, date of birth and telephone number;</li>
-<li>all transactional information based on your activities on the Agendize website;</li>
-<li>any correspondence sent to us; and</li>
-<li>other supplemental information from third parties who are permitted to communicate such information to us.</li>
+<div id="hs_cos_wrapper_module_152336608454598" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_152336608454598_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1 style="text-align: left; color: #4609a8; margin-top: 60px;"><strong>PRIVACY POLICY</strong></h1>
+<h2 style="text-align: left; margin-top: 40px !important; font-weight: normal !important;"><span style="color: #000000;">SCOPE</span></h2>
+<p style="text-align: left;"><span style="color: #000000;">At Agendize (“Agendize”), protecting your privacy is very important to us. We treat your personal information with the utmost respect and in accordance with this Privacy Policy. This Privacy Policy explains how personal information about you may be collected, used, and or disclosed as a consequence of your activities on a website using Agendize technology. We urge you to read it carefully and to print a copy for your records.</span></p>
+<p style="text-align: left;"><span style="color: #000000;">By submitting any information through the use of a website which uses Agendize technology (an “Agendize website &amp; services”) or by otherwise accessing our site, you agree to the terms of this Privacy Policy and consent to the policies and practices described for the collection, use and or disclosure of personal information and you expressly consent to the collection, storage, use and or disclosure of your personal information as described in this Privacy Policy.</span></p>
+<h2 style="text-align: left; margin-top: 40px !important; font-weight: normal !important;"><span style="color: #000000;">DATA COLLECTION</span></h2>
+<p style="text-align: left;"><span style="color: #000000;">The type of personal information that is protected varies from one jurisdiction to another but generally includes any information concerning an identifiable individual, such as name, address, telephone number, age, sex, marital status and nationality, etc.&nbsp;</span></p>
+<p style="text-align: left;"><span style="color: #000000;">You may visit an Agendize website at any time without submitting personal information. When you visit such website, or when you visit third-party websites providing content that uses Agendize services, data is saved on our servers in an anonymous format, such as, for example, connection information, statistics on page views, traffic to and from the Agendize website &amp; services, and ad data. Also saved is the identification of the website that you arrive from, the website that you proceed to from our site, and your IP address. In collecting this information, no personal data is associated with you. We may share such data in an anonymous format with third parties, including, but not limited to, vendors that support the operation of our website and services, and entities involved in the delivery of advertisements.</span></p>
+<p style="text-align: left;"><span style="color: #000000;">We do, however, require some information, which may include personal information, so that you can actively use the features of the Agendize website &amp; services. Once you provide Agendize or the owner of the Agendize website (hereinafter “us” or “we”) with your required personal information, you are no longer anonymous. In providing us with your personal information, you consent to the transfer and storage of such information on our servers, in order to serve you.</span></p>
+<p style="text-align: left;"><span style="color: #000000;">Once you are registered, we may some or all of the following personal information:</span></p>
+<ul style="text-align: left;">
+<li><span style="color: #000000;">email address and physical contact information, including but not limited to your name, address, date of birth and telephone number;</span></li>
+<li><span style="color: #000000;">all transactional information based on your activities on the Agendize website;</span></li>
+<li><span style="color: #000000;">any correspondence sent to us; and</span></li>
+<li><span style="color: #000000;">other supplemental information from third parties who are permitted to communicate such information to us.</span></li>
 </ul>
-<p>The database containing your personal information will be assigned to the owner of the Agendize website &amp; services.</p>
-<p>Apart from the preceding, we do not collect, use or disclose your personal information without your consent except where required or allowed by law. We do not knowingly solicit information from children and we do not knowingly market our services to minors. Your personal information is located on a server situated in Montréal, Québec, Canada. We will take reasonable steps to ensure that your personal information is as accurate, complete and up-to-date as is appropriate for its purpose.</p>
-</div>
-<div class="sub-section" style="text-align: left;">
-<h2 class="aLeft">DISCLOSURE</h2>
-<p>We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims content violates the rights of others, or protect third party rights, property or safety. Such information will be disclosed in accordance with applicable laws and regulations in the province of Quebec and Canada.</p>
-<p>We may also share your personal information with third parties assisting our business operations under contract or seeking our co-operation, including but not limited to: vendors that support the operation of our website and services such as billing and payment systems, fraud investigators and debt collection agencies and personnel; law enforcement or other governmental officials if required by law; and, other business entities, should we plan to merge with or be acquired by those business entities, provided such business entities have signed a non-disclosure agreement.</p>
-<p>Without limiting the above, in an effort to respect your privacy, we will not otherwise disclose your personal information to law enforcement, government officials or other third parties without a subpoena, court order or substantially similar legal procedure, except where we believe, in good faith, that the disclosure of such information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.</p>
-</div>
-<div class="sub-section" style="text-align: left;">
-<h2 class="aLeft">PUBLIC COMPUTER</h2>
-<p>When visiting an Agendize website &amp; services from a public or shared computer, certain information about you may be visible to others who use such computer after you.</p>
-</div>
-<div class="sub-section" style="text-align: left;">
-<h2 class="aLeft">ACCESS</h2>
-<p>Your information, which may include your personal information, can only be modified by contacting the AgendiZe customer service department. Such department may require additional information from you in order to verify your identity following an access request. Such personal information will only be used for the purpose of identity verification and will itself be subject to protection under the terms of this Privacy Policy. You are required to promptly update your personal information if changes occur or if any information is inaccurate.</p>
-</div>
-<div class="sub-section" style="text-align: left;">
-<h2 class="aLeft">REVOKING CONSENT</h2>
-<p>You may withdraw your consent to the collection, use, and disclosure of your personal information at any time by contacting the customer service department of the relevant Agendize website &amp; services. Upon such request, we will remove your personal information from our systems as soon as reasonably possible, in accordance with applicable law. We do retain certain personal information from closed files, separately from the information relative to active files, in order to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Service, and take other actions otherwise required and or permitted by law.</p>
-</div>
-<div class="sub-section" style="text-align: left;">
-<h2 class="aLeft">COOKIES</h2>
-<p>We use so-called “cookies” which are files that are stored on your computer that can be retrieved to assist in customizing your experience with the online service. They are used to help us measure the number of visits, average time spent, page views, and other statistics relating to your use of this site. This cookie, by itself, does not tell us your email address or who you are. You are free to prevent cookies from being saved on your hard drive by adjusting the corresponding settings in your browser. However, turning off these settings may result in limited functionality.</p>
-</div>
-<div class="sub-section" style="text-align: left;">
-<h2 class="aLeft">SECURITY MEASURES</h2>
-<p>Please remember to log out of your account and to close your internet browser window when you leave an Agendize website &amp; services; this is especially important if you use a computer in public locations (You may also wish to delete your browsing history after each visit to an Agendize website &amp; services; again, this is critical if you use a computer in public locations. At present, this is the safest way to ensure that no one has access to your personal information. We assume no liability for the abuse of any information remaining on a computer that is used by a third party.</p>
-<p>We treat data as an asset that must be protected. Although we use all reasonable means to ensure that the information you provide to us is not used by third parties for purposes other than those described in this Privacy Policy, we are not responsible for any improper use of your personal information that is beyond our reasonable control.</p>
-</div>
-<div class="sub-section" style="text-align: left;">
-<h2 class="aLeft">UNSOLICITED INFORMATION</h2>
-<p>In addition to your username, any comments or submissions (“Unsolicited Information”) that you post on our website or services will be publicly available. All such Unsolicited Information will be deemed to be non-confidential and AgendiZe will be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution. You should be aware that, if you voluntarily disclose Unsolicited Information online, that Unsolicited Information can be collected and used by others. For example, if you post your email address in comments sections or online forums, you may receive unsolicited messages from others. AgendiZe has no control over the use of personally identifiable information that you voluntarily post in public forums or otherwise disclose while interacting with other users. Any such personally identifiable information you choose to disclose should reflect how much you want other users to know about you. We encourage our clients and visitors to think carefully about what information they disclose in their comments or submissions.</p>
-</div>
-<div class="sub-section" style="text-align: left;">
-<h2 class="aLeft">SPAM</h2>
-<p>Should we obtain your e-mail address, mobile phone number, fax number, instant messaging and or social media accounts, we will not rent or sell any such information to third parties, and we will endeavour to prevent your e-mail address from being recorded by “web crawlers” or “web spiders” to the best of our ability. If you believe that your e-mail address has been recorded in this way, please let us know immediately.</p>
-</div>
-<div class="sub-section" style="text-align: left;">
-<h2 class="aLeft">OUR CLIENTS</h2>
-<p>The various owners of Agendize website &amp; services have agreed to abide by this Privacy Policy, in the same manner as Agendize. While we can monitor our sites and our clients’ sites, we have no control over third party websites; however, we make efforts to require our clients to ensure that any third party website post adequate privacy policies and otherwise protect the privacy rights of their visitors. Check the privacy policies of such third party websites using our services for information regarding their applicable privacy practices.</p>
-</div>
-<div class="sub-section">
-<h2 class="aLeft" style="text-align: left;">GENERAL</h2>
-<p style="text-align: left;">We may amend this Privacy Policy at any time by posting the amended terms herein. All amended terms take effect immediately once they are posted on the Agendize website.</p>
-</div>
-<p style="text-align: left;">&nbsp;</p></span></div>
+<p style="text-align: left;"><span style="color: #000000;">The database containing your personal information will be assigned to the owner of the Agendize website &amp; services.</span></p>
+<p style="text-align: left;"><span style="color: #000000;">Apart from the preceding, we do not collect, use or disclose your personal information without your consent except where required or allowed by law. We do not knowingly solicit information from children and we do not knowingly market our services to minors. Your personal information is located on a server situated in Montréal, Québec, Canada. We will take reasonable steps to ensure that your personal information is as accurate, complete and up-to-date as is appropriate for its purpose.</span></p>
+<h2 style="text-align: left; margin-top: 40px !important; font-weight: normal !important;"><span style="color: #000000;">DISCLOSURE</span></h2>
+<p style="text-align: left;"><span style="color: #000000;">We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims content violates the rights of others, or protect third party rights, property or safety. Such information will be disclosed in accordance with applicable laws and regulations in the province of Quebec and Canada.</span></p>
+<p style="text-align: left;"><span style="color: #000000;">We may also share your personal information with third parties assisting our business operations under contract or seeking our co-operation, including but not limited to: vendors that support the operation of our website and services such as billing and payment systems, fraud investigators and debt collection agencies and personnel; law enforcement or other governmental officials if required by law; and, other business entities, should we plan to merge with or be acquired by those business entities, provided such business entities have signed a non-disclosure agreement.</span></p>
+<p style="text-align: left;"><span style="color: #000000;">Without limiting the above, in an effort to respect your privacy, we will not otherwise disclose your personal information to law enforcement, government officials or other third parties without a subpoena, court order or substantially similar legal procedure, except where we believe, in good faith, that the disclosure of such information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.</span></p>
+<h2 style="text-align: left; margin-top: 40px !important; font-weight: normal !important;"><span style="color: #000000;">PUBLIC COMPUTER</span></h2>
+<p style="text-align: left;"><span style="color: #000000;">When visiting an Agendize website &amp; services from a public or shared computer, certain information about you may be visible to others who use such computer after you.</span></p>
+<h2 style="text-align: left; margin-top: 40px !important; font-weight: normal !important;"><span style="color: #000000;">ACCESS</span></h2>
+<p style="text-align: left;"><span style="color: #000000;">Your information, which may include your personal information, can only be modified by contacting the AgendiZe customer service department. Such department may require additional information from you in order to verify your identity following an access request. Such personal information will only be used for the purpose of identity verification and will itself be subject to protection under the terms of this Privacy Policy. You are required to promptly update your personal information if changes occur or if any information is inaccurate.</span></p>
+<h2 style="text-align: left; margin-top: 40px !important; font-weight: normal !important;"><span style="color: #000000;">REVOKING CONSENT</span></h2>
+<p style="text-align: left;"><span style="color: #000000;">You may withdraw your consent to the collection, use, and disclosure of your personal information at any time by contacting the customer service department of the relevant Agendize website &amp; services. Upon such request, we will remove your personal information from our systems as soon as reasonably possible, in accordance with applicable law. We do retain certain personal information from closed files, separately from the information relative to active files, in order to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Service, and take other actions otherwise required and or permitted by law.</span></p>
+<h2 style="text-align: left; margin-top: 40px !important; font-weight: normal !important;"><span style="color: #000000;">COOKIES</span></h2>
+<p style="text-align: left;"><span style="color: #000000;">We use so-called “cookies” which are files that are stored on your computer that can be retrieved to assist in customizing your experience with the online service. They are used to help us measure the number of visits, average time spent, page views, and other statistics relating to your use of this site. This cookie, by itself, does not tell us your email address or who you are. You are free to prevent cookies from being saved on your hard drive by adjusting the corresponding settings in your browser. However, turning off these settings may result in limited functionality.</span></p>
+<h2 style="text-align: left; margin-top: 40px !important; font-weight: normal !important;"><span style="color: #000000;">SECURITY MEASURES</span></h2>
+<p style="text-align: left;"><span style="color: #000000;">Please remember to log out of your account and to close your internet browser window when you leave an Agendize website &amp; services; this is especially important if you use a computer in public locations (You may also wish to delete your browsing history after each visit to an Agendize website &amp; services; again, this is critical if you use a computer in public locations. At present, this is the safest way to ensure that no one has access to your personal information. We assume no liability for the abuse of any information remaining on a computer that is used by a third party.</span></p>
+<p style="text-align: left;"><span style="color: #000000;">We treat data as an asset that must be protected. Although we use all reasonable means to ensure that the information you provide to us is not used by third parties for purposes other than those described in this Privacy Policy, we are not responsible for any improper use of your personal information that is beyond our reasonable control.</span></p>
+<h2 style="text-align: left; margin-top: 40px !important; font-weight: normal !important;"><span style="color: #000000;">UNSOLICITED INFORMATION</span></h2>
+<p style="text-align: left;"><span style="color: #000000;">In addition to your username, any comments or submissions (“Unsolicited Information”) that you post on our website or services will be publicly available. All such Unsolicited Information will be deemed to be non-confidential and AgendiZe will be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution. You should be aware that, if you voluntarily disclose Unsolicited Information online, that Unsolicited Information can be collected and used by others. For example, if you post your email address in comments sections or online forums, you may receive unsolicited messages from others. AgendiZe has no control over the use of personally identifiable information that you voluntarily post in public forums or otherwise disclose while interacting with other users. Any such personally identifiable information you choose to disclose should reflect how much you want other users to know about you. We encourage our clients and visitors to think carefully about what information they disclose in their comments or submissions.</span></p>
+<h2 style="text-align: left; margin-top: 40px !important; font-weight: normal !important;"><span style="color: #000000;">SPAM</span></h2>
+<p style="text-align: left;"><span style="color: #000000;">Should we obtain your e-mail address, mobile phone number, fax number, instant messaging and or social media accounts, we will not rent or sell any such information to third parties, and we will endeavour to prevent your e-mail address from being recorded by “web crawlers” or “web spiders” to the best of our ability. If you believe that your e-mail address has been recorded in this way, please let us know immediately.</span></p>
+<h2 style="text-align: left; margin-top: 40px !important; font-weight: normal !important;"><span style="color: #000000;">OUR CLIENTS</span></h2>
+<p style="text-align: left;"><span style="color: #000000;">The various owners of Agendize website &amp; services have agreed to abide by this Privacy Policy, in the same manner as Agendize. While we can monitor our sites and our clients’ sites, we have no control over third party websites; however, we make efforts to require our clients to ensure that any third party website post adequate privacy policies and otherwise protect the privacy rights of their visitors. Check the privacy policies of such third party websites using our services for information regarding their applicable privacy practices.</span></p>
+<h2 style="text-align: left; margin-top: 40px !important; font-weight: normal !important;"><span style="color: #000000;">GENERAL</span></h2>
+<p style="text-align: left;"><span style="color: #000000;">We may amend this Privacy Policy at any time by posting the amended terms herein. All amended terms take effect immediately once they are posted on the Agendize website.</span></p></span></div>
 
 </div><!--end widget-span -->
 </div><!--end row-->
@@ -277,21 +312,21 @@
 <div class="row-fluid-wrapper row-depth-1 row-number-1 ">
 <div class="row-fluid ">
 <div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
-<div id="hs_cos_wrapper_module_15264004902782655" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="container-footer-1" style="background-color:#323232">
+<div id="hs_cos_wrapper_module_156017475957536" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="container-footer-1" style="background-color:#323232">
   <div class="container">
     <div class="row" style="margin:0;">
 
       <div class="col-xs-12 col-sm-12 col-md-3 column column-1">
         
         <!--<img src="https://cdn2.hubspot.net/hubfs/4138767/DW-images/logo_agendize%20-%20icone%20copie.png" alt="logo_agendize - icone copie" width="1782" height="407">-->
-        <span id="hs_cos_wrapper_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="https://www.agendize.com/?hsLang=en" id="hs-link-" style="border-width:0px;border:0px;"><img src="https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?t=1529683885299&amp;width=1782&amp;name=logo_agendize%20-%20icone%20copie.png" class="hs-image-widget " style="width:1782px;border-width:0px;border:0px;" width="1782" alt="logo_agendize - icone copie" title="logo_agendize - icone copie" srcset="https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?t=1529683885299&amp;width=891&amp;name=logo_agendize%20-%20icone%20copie.png 891w, https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?t=1529683885299&amp;width=1782&amp;name=logo_agendize%20-%20icone%20copie.png 1782w, https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?t=1529683885299&amp;width=2673&amp;name=logo_agendize%20-%20icone%20copie.png 2673w, https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?t=1529683885299&amp;width=3564&amp;name=logo_agendize%20-%20icone%20copie.png 3564w, https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?t=1529683885299&amp;width=4455&amp;name=logo_agendize%20-%20icone%20copie.png 4455w, https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?t=1529683885299&amp;width=5346&amp;name=logo_agendize%20-%20icone%20copie.png 5346w" sizes="(max-width: 1782px) 100vw, 1782px"></a></span>
+        <span id="hs_cos_wrapper_module_156017475957536_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="https://www.agendize.com/" id="hs-link-module_156017475957536_" style="border-width:0px;border:0px;"><img src="https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?width=1782&amp;name=logo_agendize%20-%20icone%20copie.png" class="hs-image-widget " style="width:1782px;border-width:0px;border:0px;" width="1782" alt="logo_agendize - icone copie" title="logo_agendize - icone copie" srcset="https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?width=891&amp;name=logo_agendize%20-%20icone%20copie.png 891w, https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?width=1782&amp;name=logo_agendize%20-%20icone%20copie.png 1782w, https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?width=2673&amp;name=logo_agendize%20-%20icone%20copie.png 2673w, https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?width=3564&amp;name=logo_agendize%20-%20icone%20copie.png 3564w, https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?width=4455&amp;name=logo_agendize%20-%20icone%20copie.png 4455w, https://www.agendize.com/hs-fs/hubfs/DW-images/logo_agendize%20-%20icone%20copie.png?width=5346&amp;name=logo_agendize%20-%20icone%20copie.png 5346w" sizes="(max-width: 1782px) 100vw, 1782px"></a></span>
         
 
         <div class="formulaire-newsletter">    
           <!-- <h3>Title</h3> -->
-          <span id="hs_cos_wrapper_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_form" style="" data-hs-cos-general-type="widget" data-hs-cos-type="form"><h3 id="hs_cos_wrapper_form_676795736_title" class="hs_cos_wrapper form-title" data-hs-cos-general-type="widget_field" data-hs-cos-type="text"></h3>
+          <span id="hs_cos_wrapper_module_156017475957536_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_form" style="" data-hs-cos-general-type="widget" data-hs-cos-type="form"><h3 id="hs_cos_wrapper_form_424995967_title" class="hs_cos_wrapper form-title" data-hs-cos-general-type="widget_field" data-hs-cos-type="text"></h3>
 
-<div id="hs_form_target_form_676795736"></div>
+<div id="hs_form_target_form_424995967"></div>
 
 
 
@@ -304,62 +339,71 @@
         </div>   
       </div>
 
-      <div class="col-xs-12 col-sm-6 col-md-3 column column-2">
+      <div class="col-xs-12 col-sm-4 col-md-3 column column-2">
         
-        <p class="title_footer_function">Features</p>
-        <span id="hs_cos_wrapper_menu_5747597998" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_menu_5747597998" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" aria-label="Navigation Menu">
+        <p class="title_footer_function">Our Platform</p>
+        <span id="hs_cos_wrapper_module_156017475957536_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_156017475957536_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="7469371417" aria-label="Navigation Menu">
  <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/online-appointment-booking" role="menuitem">Online Appointment Booking</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/crm-and-marketing-automation" role="menuitem">CRM and marketing automation</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/other-features" role="menuitem">Promotions and payments</a></li>
   <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/other-features" role="menuitem">Other features</a></li>
-  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/agendize-for-salesforce" role="menuitem">Agendize for Salesforce</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/synchronization" role="menuitem">Synchronize</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/integration" role="menuitem">Integration</a></li>
  </ul>
 </div></span>
         
       </div>
 
-      <div class="col-xs-12 col-sm-6 col-md-4 column column-3">
+      <div class="col-xs-12 col-sm-4 col-md-3 column column-3">
         
-        <p class="title_footer_resource">Ressources</p>
-        <span id="hs_cos_wrapper_menu_5746292446" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_menu_5746292446" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" aria-label="Navigation Menu">
+        <p class="title_footer_resource">Resources</p>
+        <span id="hs_cos_wrapper_module_156017475957536_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_156017475957536_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="7469372372" aria-label="Navigation Menu">
  <ul class="active-branch">
-  <li class="hs-menu-item hs-menu-depth-1"><a href="http://support.agendize.com/support/home" role="menuitem" target="_blank">Support </a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://blog.agendize.com/us" role="menuitem">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://developers.agendize.com/" role="menuitem" target="_blank">Developers API</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://agendize.freshdesk.com/en/support/home" role="menuitem" target="_blank">Help</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://blog.agendize.com/us/tag/product-updates" role="menuitem">Product updates</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/agendize-for-salesforce" role="menuitem">Agendize for Salesforce</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/gdpr" role="menuitem">GDPR</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 active active-branch"><a href="https://www.agendize.com/privacy-policy" role="menuitem">Privacy policy</a></li>
   <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/your-security" role="menuitem">Security</a></li>
   <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/terms-of-service" role="menuitem">Terms of service</a></li>
-  <li class="hs-menu-item hs-menu-depth-1 active active-branch"><a href="https://www.agendize.com/privacy-policy" role="menuitem">Privacy policy</a></li>
-  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/gdpr" role="menuitem">GDPR</a></li>
-  <li class="hs-menu-item hs-menu-depth-1"><a href="https://blog.agendize.com/productupdates" role="menuitem">Product updates</a></li>
  </ul>
 </div></span>
         
       </div>
 
-      <div class="col-xs-12 col-sm-12 col-md-2 column column-4">
+      <div class="col-xs-12 col-sm-4 col-md-3 column column-4">
         <div class="content_column_4">
           
           <p class="title_footer_about">About us</p>
-          <span id="hs_cos_wrapper_menu_5747601856" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_menu_5747601856" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" aria-label="Navigation Menu">
+          <span id="hs_cos_wrapper_module_156017475957536_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_156017475957536_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="7469500599" aria-label="Navigation Menu">
  <ul>
-  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/who-are-we" role="menuitem">Who are we ?</a></li>
-  <li class="hs-menu-item hs-menu-depth-1"><a href="https://blog.agendize.com/jobs" role="menuitem" target="_blank">Jobs</a></li>
-  <li class="hs-menu-item hs-menu-depth-1"><a href="https://blog.agendize.com/us" role="menuitem">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/the-company" role="menuitem">The Company</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/values" role="menuitem">Our Values</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/meet-the-team" role="menuitem">Meet the Team</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://blog.agendize.com/jobs" role="menuitem" target="_blank">Careers</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.agendize.com/contact-us" role="menuitem">Contact us</a></li>
  </ul>
 </div></span>
           
           <p class="title_footer_about">Follow us</p>
           <ul class="social-icons">
             
-            <li class="linkedin" style="background:url(https://www.agendize.com/hubfs/LogoReseaux/linkedin-blanc.svg?t=1529683885299);">
-              <a href="https://www.linkedin.com/company/agendize/" target="_blank">Linkedin</a>
+            <li class="linkedin" style="background:url(https://www.agendize.com/hubfs/LogoReseaux/linkedin-blanc.svg);">
+              <a href="https://www.linkedin.com/company/57805/" target="_blank">Linkedin</a>
             </li>
             
-            <li class="facebook" style="background:url(https://www.agendize.com/hubfs/LogoReseaux/facebook-blanc-2.svg?t=1529683885299);">
+            <li class="facebook" style="background:url(https://www.agendize.com/hubfs/LogoReseaux/linkedin-blanc.svg);">
               <a href="https://www.facebook.com/agendize/" target="_blank">Facebook</a>
             </li>
             
-            <li class="twitter" style="background:url(https://www.agendize.com/hubfs/LogoReseaux/twitter-blanc-2.svg?t=1529683885299);">
+            <li class="twitter" style="background:url(https://www.agendize.com/hubfs/LogoReseaux/linkedin-blanc.svg);">
               <a href="https://twitter.com/agendize" target="_blank">Twitter</a>
             </li>
             
-            <li class="youtube" style="background:url(https://www.agendize.com/hubfs/LogoReseaux/youtube-blanc-2.svg?t=1529683885299);">
+            <li class="youtube" style="background:url(https://www.agendize.com/hubfs/LogoReseaux/linkedin-blanc.svg);">
               <a href="https://www.youtube.com/user/agendize" target="_blank">YouTube</a>
             </li>
             
@@ -375,7 +419,7 @@
     
     <div class="row" style="margin:0;">
       <div class="col-xs-12 col-sm-12 col-md-12 copyright">
-        ©2003-2018 AGENDIZE 
+        ©2003-2019 AGENDIZE
       </div>
     </div>
     
@@ -390,7 +434,7 @@
 </div><!--end footer wrapper -->
 
     
-<script type="text/javascript" src="/hs/hsstatic/content_shared_assets/static-1.4076/js/public_common.js"></script>
+<script type="text/javascript" src="/hs/hsstatic/HubspotToolsMenu/static-1.34/js/index.js"></script>
 <script>
 (function () {
     window.addEventListener('load', function () {
@@ -432,20 +476,21 @@ if (typeof hsVars !== 'undefined') { hsVars['language'] = 'en'; }
 </script>
 
 <script src="/hs/hsstatic/cos-i18n/static-1.10/bundles/project.js"></script>
-<script src="/hs/hsstatic/keyboard-accessible-menu-flyouts/static-1.2/bundles/project.js"></script>
+<script src="/hs/hsstatic/keyboard-accessible-menu-flyouts/static-1.3/bundles/project.js"></script>
 
     <!--[if lte IE 8]>
     <script charset="utf-8" src="https://js.hsforms.net/forms/v2-legacy.js"></script>
     <![endif]-->
 
-<script src="https://js.hsforms.net/forms/v2.js"></script>
+<script src="/_hcms/forms/v2.js"></script>
 
     <script>
-        hbspt.forms.create({
+        var options = {
+            formsBaseUrl: '/_hcms/forms/',
             portalId: '4138767',
             formId: '3d9bc330-dcc6-4772-a831-1b963a4b1c9d',
-            formInstanceId: '2654',
-            pageId: 5769140279,
+            formInstanceId: '9489',
+            pageId: '5769140279',
             
             
             
@@ -454,17 +499,17 @@ if (typeof hsVars !== 'undefined') { hsVars['language'] = 'en'; }
             
             
             
-            inlineMessage: "Thank you!",
+            inlineMessage: "Thanks for submitting the form.",
             
             
-            rawInlineMessage: "Thank you!",
+            rawInlineMessage: "Thanks for submitting the form.",
             
             
-            hsFormKey: "862f1b7fa8e19d857fad2ba36b988c1c",
+            hsFormKey: "2998d0c7e84559eeabba0692cf1bbfbc",
             
             
             css: '',
-            target: '#hs_form_target_form_676795736',
+            target: '#hs_form_target_form_424995967',
             
             
             
@@ -473,9 +518,35 @@ if (typeof hsVars !== 'undefined') { hsVars['language'] = 'en'; }
             contentType: "standard-page",
             
             formData: {
-            cssClass: 'hs-form stacked hs-custom-form'
+                cssClass: 'hs-form stacked hs-custom-form'
             }
-        });
+        };
+
+        options.getExtraMetaDataBeforeSubmit = function() {
+            var metadata = {};
+            
+
+            if (hbspt.targetedContentMetadata) {
+                var count = hbspt.targetedContentMetadata.length;
+                var targetedContentData = [];
+                for (var i = 0; i < count; i++) {
+                    var tc = hbspt.targetedContentMetadata[i];
+                     if ( tc.length !== 3) {
+                        continue;
+                     }
+                     targetedContentData.push({
+                        definitionId: tc[0],
+                        criterionId: tc[1],
+                        smartTypeId: tc[2]
+                     });
+                }
+                metadata["targetedContentMetadata"] = JSON.stringify(targetedContentData);
+            }
+
+            return metadata;
+        };
+
+        hbspt.forms.create(options);
     </script>
 
 
@@ -492,7 +563,8 @@ _hsq.push(["setContentMetadata", {
     "contentGroupId": null,
     "abTestId": null,
     "languageVariantId": 5769140279,
-    "languageCode": "en"
+    "languageCode": "en",
+    
 }]);
 </script>
 
@@ -502,7 +574,7 @@ _hsq.push(["setContentMetadata", {
 
 <script type="text/javascript">
 var hsVars = {
-    ticks: 1529868721793,
+    ticks: 1560175024898,
     page_id: 5769140279,
     content_group_id: 0,
     portal_id: 4138767,
@@ -510,7 +582,8 @@ var hsVars = {
     language: "en",
     analytics_page_type: "standard-page",
     category_id: 1,
-    folder_id: 0
+    folder_id: 0,
+    is_hubspot_user: false
 }
 </script>
 
@@ -523,12 +596,15 @@ var hsVars = {
 
 
 <!-- menu.js -->    
-    <script src="https://www.agendize.com/hs-fs/hub/4138767/hub_generated/template_assets/1524593611893/Custom/page/DW-Agendize/menu.min.js"></script>
+    <script src=""></script>
 
+<!-- badge mcafeesecure -->
+<!-- <script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async></script> -->
+<script src="https://www.agendize.com/hs-fs/hub/4138767/hub_generated/template_assets/1524593611893/Custom/page/DW-Agendize/menu.min.js"></script>
 
     
     <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
 
 
-<!-- end coded_template: id:5692160668 path:generated_layouts/5692160667.html -->
+<!-- end coded_template: id:9960899591 path:generated_layouts/9960899590.html -->
 </body></html>
