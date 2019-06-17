@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentvip.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903172521id_/https%3A//studentvip.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentvip.com.au privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617135612id_/https%3A//studentvip.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – StudentVIP
 
