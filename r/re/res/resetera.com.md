@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the resetera.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104144004id_/https%3A//www.resetera.com/index.php%3Fhelp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resetera.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617145036id_/https%3A//www.resetera.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ResetEra
+# Privacy policy | ResetEra
 
-[ ](https://web.archive.org/index.php)
-
-  *   * 
+  * 
 
 
 ## **ResetEra Privacy Policy**
@@ -121,9 +119,4 @@ We may update our Privacy Policy from time to time.  Thus, we advise you to rev
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#debdb1b0aabfbdaa9eacbbadbbaabbacbff0bdb1b3).
-
-  *   * 
-
-
-__
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#492a26273d282a3d093b2c3a2c3d2c3b28672a2624).
