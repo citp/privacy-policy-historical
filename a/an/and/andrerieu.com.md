@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andrerieu.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113203053id_/https%3A//www.andrerieu.com/en/terms-and-conditions-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrerieu.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617072901id_/https%3A//www.andrerieu.com/en/terms-and-conditions-privacy-policy) for the most accurate reproduction.*
 
 # Terms and conditions / privacy policy
 
@@ -7,7 +7,7 @@ Please read our Privacy Policy carefully, as it states in which way and for whic
 ### 1.  Administration and purposes data processing
 
 **1.1.**  
-André Rieu Productions BV (hereafter: "ARP") - also trading as André Rieu Travel - respects the privacy of the visitors of its websites  and  (hereafter jointly and separately: "the website") and ensures that personal information you submit to us will be treated confidentially. Processing of personal data is carried out in agreement with the requirements set by the Dutch Personal Data Protection Act. ARP is the 'responsible party' for processing personal data, as meant in the applicable European or non-European regulatory framework.
+André Rieu Productions BV (hereafter: "ARP") - also trading as André Rieu Travel - respects the privacy of the visitors of its websites  and  (hereafter jointly and separately: "the website") and ensures that personal information you submit to us will be treated confidentially. Processing of personal data is carried out in agreement with the requirements set by the _General Data Protection Regulation (GDPR)._ ARP is the 'responsible party' for processing personal data, as meant in the applicable European or non-European regulatory framework.
 
 **1.2. USE**  
 ARP uses the information gathered for the following purposes:  
@@ -89,6 +89,6 @@ ARP reserves the right to make amendments to the Privacy Policy described in thi
 ARP advises you to regularly check our Privacy Policy for any amendments.
 
 **7.3.  **      
-This Privacy Policy was last amended in October 2013.
+This Privacy Policy was last amended in May 2018.
 
-  For any questions regarding our Privacy Policy, click here to contact us.
+  For any questions regarding our Privacy Policy, [click here](mailto:customerservice@andrerieugroup.com) to contact us.
