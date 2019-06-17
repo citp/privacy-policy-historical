@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215222606id_/https%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617170511id_/https%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
 
 # Software Advice Privacy Policy
 
-We've helped **633,198** companies choose the right software  
-by sharing our extensive research on over 3,035 systems.
+We've helped **679,548** companies choose the right software  
+by sharing our extensive research on over 3,542 systems.
 
 ### WELCOME TO SOFTWARE ADVICE! PLEASE TAKE TIME TO READ OUR PRIVACY POLICY!
 
