@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the e-healthcaresolutions.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227013452id_/http%3A//www.ehealthcaresolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-healthcaresolutions.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617133453id_/http%3A//www.ehealthcaresolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # eHealthcare Solutions Privacy Policy
 
-Last Updated: 5/24/2017
+Last Updated: 4/19/2019
 
 eHealthcare Solutions, LLC (“ **EHS** ”, “ **EHSX** ”, “ **we** ”, “ **us** ” or “ **our** ”) is a digital advertising network (“EHS”) and Exchange (sometimes referred to as EHSX) specializing in the healthcare and pharmaceutical industries.  EHS collects information in connection with the advertising management services it provides through its relationships with third party healthcare advertisers, publishers, medical societies and associations (the **“Services”** ).  This privacy policy (“ **Privacy Policy** ”) explains how EHS collects, uses, and discloses information on our website, located at [www.ehealthcaresolutions.com](http://www.ehealthcaresolutions.com/), as well as through our third party advertising networks and exchange (together, the “ **Websites** ”).  It is important to be aware that the Websites each have their own privacy policies which govern which information they do and do not collect and how they handle such information.  Therefore, we recommend that you review the privacy policy on each Website you visit.  EHS is not responsible for information gathered from or about you from any of the Websites.
 
@@ -142,6 +142,11 @@ We believe in providing a safe and secure experience for all of our online visit
 While we use the foregoing security measures to protect your information, please note that no data transmitted over the Internet or stored and utilized for business purposes can be guaranteed to be completely secure.  No security measures are perfect or impenetrable.  We cannot guarantee that only authorized persons will view your information. We cannot ensure that information you share on the Website will not become publicly available. You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up to date antivirus software.
 
 **Please note that while we attempt to limit access to the information we obtain about you to those with whom we have agreed to share such information, we cannot guarantee that other parties will not gain access to our information and we cannot control their use of any information accessed via the Services or Websites.**
+
+**DMD Healthcare Communications NetworkSM Privacy Statement**  
+This digital service participates in the DMD Healthcare Communication NetworkSM (the “Network”), and as such has implemented various technologies for universal registration/login among all Network member websites. These technologies are managed by DMD Marketing Corp. (“DMD”), and may involve the collection, receipt, and sharing of information with DMD, its clients and other Network members. If you would like to understand how this digital service’s participation in the Network affects your privacy, please click here:
+
+<http://usersupport.dmdconnects.com/PrivacyPolicy.htm>
 
 **Questions / Changes in Notice**
 
