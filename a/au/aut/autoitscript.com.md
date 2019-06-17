@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoitscript.com privacy policy that was archived on 2018-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180803203550id_/https%3A//www.autoitconsulting.com/site/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoitscript.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617094052id_/https%3A//www.autoitconsulting.com/site/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AutoIt Consulting
 
@@ -28,12 +28,12 @@ AutoIt Consulting may collect, process and use your personal data (including you
 
 We collect this data in a number of ways, including through:
 
-  * **Direct interactions**. You may give us your identity, and contact details, by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you: 
+  *  **Direct interactions**. You may give us your identity, and contact details, by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:
     * create an account on our Website;
     * subscribe to our publications;
     * give us some feedback.
-  * **Automated technologies or interactions**. As you interact with our Website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our [cookie policy](https://www.autoitconsulting.com/site/about/cookie-policy/) for further details.
-  * **Third parties**. We may receive personal data about your from various third parties, for example, Technical Data from analytics providers such as Google based outside the EU.
+  *  **Automated technologies or interactions**. As you interact with our Website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our [cookie policy](https://www.autoitconsulting.com/site/about/cookie-policy/) for further details.
+  *  **Third parties**. We may receive personal data about your from various third parties, for example, Technical Data from analytics providers such as Google based outside the EU.
 
 
 
