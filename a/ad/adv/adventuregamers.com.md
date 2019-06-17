@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the adventuregamers.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701011202id_/https%3A//adventuregamers.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuregamers.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617051733id_/https%3A//adventuregamers.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Adventure Gamers
 
-### What information do we collect?
+For more detailed and up to date information on our Privacy Policy, please click here: [Privacy Policy](https://www.iubenda.com/privacy-policy/60839761 "Privacy Policy")
+
+### Additional information
 
 We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
-
-Google Doubleclick, as a third party vendor, uses cookies to serve ads on this site. Google's use of cookies enables it to serve ads to your users based on their visit to this site and other sites on the Internet. 
 
 ### What do we use your information for?
 
@@ -18,7 +18,7 @@ Any of the information we collect from you may be used in one of the following w
 
 ; To administer a contest, promotion, survey or other site feature
 
-; To send periodic emails
+; To send periodic emails (if you provide explicit consent)
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -32,6 +32,10 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences in the future.
 
+Renew or change your cookie consent
+
+For a full overview, view the [Cookie Consent Declaration page](https://web.archive.org/about/cookie-declaration)
+
 ### Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. We may release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
@@ -42,7 +46,11 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ### Your Consent
 
-By using our site, you consent to our websites privacy policy.
+By using our site, you consent to our websites privacy policy. You can manage your cookie consent below:
+
+Renew or change your cookie consent
+
+For more detailed and up to date information, please refer to our [Privacy Policy](https://www.iubenda.com/privacy-policy/60839761 "Privacy Policy")
 
 ### Changes to our Privacy Policy
 
