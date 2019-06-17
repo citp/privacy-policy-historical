@@ -1,69 +1,65 @@
-> *The following text is extracted and transformed from the ibpsguide.com privacy policy that was archived on 2014-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141124043208id_/http%3A//www.ibpsguide.com/p/privacypolicy-ibps-guide-was-always.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibpsguide.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617095624id_/https%3A//www.ibpsguide.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy
 
-IBPS Guide was always committed for preserving and security for the privacy of our visitors. This Privacy Policy provides you the information regarding the usage of personal data that user’s provide to us.
+**IBPSGUIDE** , a product of IG ACADEMY, is committed to maintaining the confidentiality, integrity and security of all personal identifiable information about our users. This Privacy Policy explains how we protect personally identifiable information provided through our website. The term “IBPSGUIDE”, “us”,”we”,or “our” refer to IBPSGUIDE.COM. The term “you”, “your” refers to users and viewers of this site.
 
-_About the information we collect from users_
+### We do not share any of your information with third parties.
 
-:  
-  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. None of your information including your performance on tests will be shared with any third party.
 
+Some of your performance information may be shown anonymously to other registered users of the site if you are in the topper’s list (or similar) of a defined category. We may release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
 
-While using our blog we will collect the following information from the users.
+### You are responsible for maintaining the confidentiality of your Username, Registered email and password
 
-v 
+You are responsible for maintaining the security of your Username and Password. You may not provide these credentials to any third party. If you believe that they have been stolen or been made known to others, you must contact us immediately at  **support@ibsguide.com** , but in any event you should change your password immediately. We are not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Privacy Policy.
 
-Information about the pages viewed, resources accessed by you, which provide us the traffic data, location data, and other communication data.
+A feature of the site allows a user to access another user’s (or friend’s) score by entering both the other user’s (or friend’s) username and registered email. Hence it is your responsibility to ensure that you do not reveal both your username and registered email on the site with anyone else apart from those with whom you are willing to share your performance data. IBPSGUIDE does not take any responsibility for the loss in confidentiality of your username and registered email through actions that are out of IBPSGUIDE’s control.
 
-v 
+### Information we collect
 
-Information of the users while they communicate with us.
+We collect information from you when you register on our site or fill out a form. When registering on our site or buying a product/service, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, location. You may, however, also visit our site anonymously but to use any features, you will need to register. If a particular feature requires a fee, then we collect credit card and other payment related information.
 
-Cookies will provide information about user’s computer, which includes general internet usage of the visitors. These are all static data so, it will not identify you personally, and if you wish you can disable cookies using settings of your browser.
+We may also collect technical and navigational information, such as computer browser type, Internet protocol address along with other data that browsers send when you land on our site, pages visited, and average time spent on the site.
 
-_Usage of your information_
+### Uses of Collected Information
 
-:  
-  
+Any of the information we collect from you may be used in one of the following ways:
 
+1) To personalize your experience.
 
-We use the data that collect from you only to improve our services.
+Your information helps us to better respond to your individual needs
 
-v 
+2) To improve our website.
 
-To provide notification regarding that you requested from us related to our services.
+Technical and navigational information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our Web design and functionality. We continually strive to improve our website offerings and service based on the information and feedback we receive from you
 
-v 
+3) To send periodic emails & Promotional SMS.
 
-To send alerts if any modifications or updating occurs in our site.
+The email address & Mobile Number you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, promotional information, user research surveys etc.
 
-In order to provide you with better services, we allow third party site to use your data, which will provide notifications about topics that you are interested. And in those cases you may unsubscribe it any time for any reasons.
+### How do we protect your information?
 
-_Storage of your personal data_
+We use a combination of firewall barriers, encryption techniques and authentication procedures, among others, to maintain the security of your online session and to protect IBPSGUIDE accounts and systems from unauthorized access. We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-:  
-  
+### Use of Cookies
 
+Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-While operating our blog, it may become necessity to transfer your personal data outside of the European Union for the purpose of processing and storage. While providing your personal data you are agree with this processing, transferring, and storing of your data. We do our best to ensure security of your data in the above handled steps.
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-Perhaps, transferring data via internet will not be fully secure, sometimes interception may occur. We can’t guarantee for the security for the data that you provide electronically, sending those information will be entirely on your own risk.
+### Online Privacy Policy Only
 
-We hide your information that you provide to the other third party site, those whose privacy policy mismatches and for the below circumstances.
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-v 
+### Your Consent
 
-Places where we are legally what to hide your personal information.
+By registering on our site, you consent to our privacy policy.
 
-v 
+### Changes to our Privacy Policy
 
-To the fraud products in order to reduce risk factors.
+If we decide to change our privacy policy, we will post those changes on this page.
 
-Occasionally we will direct you to the third party site which was related to your interested topics, in those cases we are not ensuring that those site are matching our privacy policies, you have to go through their policy before submitting your personal information.
+### Contacting Us
 
-Kindly contact us any time to know additional details regarding our Privacy Policy.
-
-_Email ID_
-
-: guideibps@gmail.com
+If you have any questions regarding the Privacy Policy, do drop an email at  **support@ibpsguide.com**  with “Privacy” in the subject line.
