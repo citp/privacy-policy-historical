@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the competitor.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230100204id_/https%3A//pocketoutdoormedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competitor.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618133828id_/https%3A//pocketoutdoormedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Pocket Outdoor MediaPrivacy Policy |
 
@@ -106,7 +106,7 @@ Your information may be required in order for us to deliver the good or service 
 
 We keep your information for as long as is necessary to continue providing you with our goods or services or for as long as we believe that you may wish to receive our goods or services in the future. We may delete your information at any time at our discretion and without notice.
 
-Our data protection officer is Felix Magowan. Through our data protection officer, EU citizens may request a record of their information, change or update their information, or request the deletion of their information. We will respond to your request within one month of receiving your request.
+Our data protection officer is Andrew Pemberton. Through our data protection officer, EU citizens may request a record of their information, change or update their information, or request the deletion of their information. We will respond to your request within one month of receiving your request.
 
 **Contact Information**
 
@@ -116,6 +116,6 @@ Pocket Outdoor Media, LLC
 3002 Sterling Circle, Suite 100  
 Boulder, Colorado 80301
 
-Email Address: fmagowan@pocketoutdoormedia.com
+Email Address: apemberton@pocketoutdoormedia.com
 
-Effective as of October 26, 2017. Updated on July 19, 2018.
+Effective as of October 26, 2017. Updated on January 23, 2019.
