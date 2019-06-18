@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justmeans.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205211752id_/https%3A//3blmedia.com/sites/www.3blmedia.com/files/pdf/3BL_Media_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmeans.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618175516id_/https%3A//3blmedia.com/sites/www.3blmedia.com/files/pdf/3BL_Media_privacy_policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
