@@ -1,136 +1,91 @@
-> *The following text is extracted and transformed from the xojane.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926224710id_/https%3A//www.xojane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xojane.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618162349id_/https%3A//hellogiggles.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy - HelloGiggles
 
-Table of Contents
+**Hello Giggles Privacy Policy**
 
-  * [How We Use the Information](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E#use)
-  * [Privacy Options](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E#options)
-  * [Your California Privacy Rights: Notice to California Customers](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E#california)
-  * [Collection of Information by Third-Party Sites and Sponsors](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E#3party)
-  * [Cookies](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E#cookies)
-  * [Our Commitment to Security](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E#security)
-  * [Accessing, Correcting, and Deleting Your Personal Information](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E#access)
-  * [Retention of Personal Information](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E#retention)
-  * [Special Note for Parents](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E#parents)
-  * [Changes to this Privacy Policy](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E#changes)
-  * [How to Contact Us](https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E#contact)
+Welcome to Hello Giggles! HelloGiggles.com Inc. (“Hello Giggles”, “we”, “us”, or “our”) has prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our website, located at www.HelloGiggles.com (the “Site”) and online services (“Services”).
 
+**A Note to Users Outside of the United States.** If you are a non U.S. user of the Site or Services, by visiting the Site and/or providing us with information, you acknowledge and agree that your Personal Information may be processed for the purposes identified in the Privacy Policy. In addition, your Personal Information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Information may be less stringent than the laws in your country. By providing your information, you consent to such transfer.
 
+So we are clear about the terminology we are using, when we use the phrase “Personal Information” in this Privacy Policy, we mean information that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing information. When we use the phrase “Anonymous Information” in this Privacy Policy, we mean information that is not associated with or linked to your Personal Information. Anonymous Information does not enable identification of or contact with individual persons.
 
-For citizens of member countries of the European Union, and Switzerland, Norway, Lichtenstein, Iceland, Australia, and New Zealand
+**Children.**  
+Our Services and Site are not directed to children and children are not eligible to use our Services. Protecting the privacy of children is very important to us. We do not collect or maintain Personal Information from people we actually know are under 13 years of age, and no part of our Site or Services is designed to attract people under 13 years of age. If we later learn that a user is under 13 years of age, we will take steps to remove that user’s Personal Information from our databases and to prevent the user from utilizing the Site and the Services.
 
-This is the Privacy Policy which applies to you if you live outside the , Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and .
+**How We Collect Information.**  
+_Personal Information_  
+In general, the Personal Information we gather enables us to provide the Services to you and helps us learn more about the use of the Site and/or Services. We collect Personal Information that you submit to us voluntarily in the course of your use of the Site and/or Services. When you communicate with us by sending us an email, we will collect and store any information that is contained in your communications with us. Any information you choose to provide for our use should reflect how much you want other Users to know about you. You can choose not to provide us with certain information, but this may limit the features of the Site or Services you are able to use.
 
-Thank you for visiting xojane.com (the “Site”) or using our mobile device applications (the "Apps") or other services (together with the Apps and the Site, the "Services"), which are services within the network of Time Inc. and its subsidiaries, each of which have adopted this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice.
+We may also require you to create an “Account” to use certain features of the Site. You may register with us through a third party social networking website (“SNS”), such as Facebook, using your existing account and log-in credentials on such site. When you click on “Connect with us,” or a similar connection on the Services, you will be prompted to enter your SNS credentials for the SNS. By proceeding, you are granting us and our Services access to your information and you are agreeing to the Facebook or other SNS’s Terms of Use in your use of the Services. In this case, we receive information from Facebook or another SNS to make it easier for you to create an Account with us. Any information that we collect from your Facebook or other SNS account may depend on the privacy settings you have with that SNS, so please consult the SNS’s privacy and data practices. You have the option to disable Facebook Connect at any time by logging into your Account or reviewing the appropriate settings from within your account settings on the applicable SNS.
 
-The Information We Collect
+If you wish to provide comments for content on the Site, we may use a third party service provider (including an SNS) to provide you and other users with that functionality. In such event, any Personal Information you provide will not be collected by us even though it may appear on our Site, as it will be collected by our third party service provider. Please review the privacy policy of our service providers prior to providing any Personal Information, and please be careful when disclosing Personal Information about yourself.
 
-Through Time Inc. publications, websites, and other media, you can order publications and products; engage in various activities like entering contests or sweepstakes, playing games, taking quizzes, voting in polls or otherwise expressing an opinion; subscribe to one of our services, such as newsletters; or participate in one of our online forums or communities. Your personally identifiable information may be required to engage in these activities as well as to receive products and services that you may have requested. The types of personally identifiable information that may be collected at these pages and elsewhere include but are not limited to: name, address, gender, e-mail address, telephone number, fax number and credit or debit card information.
+When you contribute to our Site or Services, other users will be able to see it, including anonymous visitors to the Site. Please remember this and be thoughtful about what you transmit. Most of the information you provide us is information you are asking us to make public.
 
-We may also collect information about your personal or professional interests and use of or opinions about various products, programs and services. For instance, we may ask you to identify your job or industry to qualify you for free business magazines.
+_Anonymous Information_  
+We collect the following types of Anonymous Information:
 
-At some Time Inc. sites and through certain promotions, you can submit information about other people. For example, you might submit a person's name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address and telephone number.
+Information Collected by Our Servers. To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (“IP”) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.
 
-We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, and location-based information.
+Log Files. As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Site, track users’ movements around the Site, gather demographic information about our user base as a whole, and better tailor our Services to our users’ needs. For example, some of the information may be collected so that when you visit the Site or the Services again, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests. Except as noted in this Privacy Policy, we do not link this automatically-collected data to Personal Information.
 
-How We Use the Information
+Cookies. Like many online services, we use cookies to collect information. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing the website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs. If you decide at any time that you no longer wish to accept cookies from our Service for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Consult your browser’s technical information. If you do not accept cookies, however, you may not be able to use all portions of the Service or all functionality of the Service. If you have any questions about how to disable or modify cookies, please let us know at the contact information provided below.
 
-We may use the information you provide about yourself or others to fulfill requests for our publications, products or services, to respond to inquiries about offerings and to offer other products, programs or services that may be of interest.
+Collection of Information by Advertisers. We may use third parties to serve ads on the Site. Certain third parties may automatically collect information about your visits to this and other websites, your IP address, your ISP, the browser you use to visit our Site (but not your name, address, e-mail address or telephone number). They do this by using Cookies or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, Cookies or pixel tags in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of Cookies and other technologies. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://www.aboutads.info/choices.
 
-We may combine information we receive with outside records and share such information with third parties for use on our behalf to enhance our ability to market to you those products or services that may be of interest to you.
+Disclosure – Google Analytics and other Third Party Cookies  
+We use Google Analytics and other third party services to help analyze how users use the Site and for other business purposes. Such third party services use Cookies to collect information such as how often users visit the Site, what pages they visit, and what other sites they used prior to coming to the Site. We use the information we get from those third parties to improve our Site and Services. For example, Google Analytics collects only the IP address assigned to you on the date you visit the Site, rather than your name or other personally identifying information. We do not combine the information generated through the use of Google Analytics with your Personal Information. Although Google Analytics plants a persistent Cookie on your web browser to identify you as a unique user the next time you visit the Site, the Cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to the Site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy.
 
-We may disclose personally identifiable information that we receive from you and from third party sources to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.
+**How We Use Information.**  
+_Personal Information_  
+We will use your Personal Information to:  
+• Provide you with Services, including personalizing the Services for you;  
+• Market our products and services to you that we believe may be of interest to you. For example, we allow advertisers to choose the characteristics of users who will see their advertisements and we may use the attributes we have collected to select the appropriate audience for those advertisements;  
+• Respond to your requests, resolve disputes and/or troubleshoot problems;  
+• Improve the quality of the Site and the Services; and  
+• Communicate with you about the Site and the Services.
 
-When you request a magazine, service, or other product, we will forward the information you give us to the publisher or provider to the extent necessary to fulfill your request. They may contact you with special offers of possible interest.
+We may also use your Personal Information to create Anonymous Information records by excluding information that makes the information personally identifiable to you.
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or sweepstakes, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account.
+We will communicate with you primarily in the form of emails. You can manage the frequency and/or opt out of receiving these communications by changing your settings on the Site and/or clicking the “Unsubscribe” link at the bottom of each email. Please note that even if you unsubscribe or opt-out, we may still send you Site and Services related communications (e.g., emails related to your account or the Site).
 
-If you choose to submit content (e.g., a "letter to our editors" or an online review), we may publish your name, screen name and other information you have provided to us. You hereby consent to this.
+_Anonymous Information_  
+We may use Cookies to keep track of logins and personalize your experience (including by tailoring content to you). We may use other Anonymous Information for our business purposes, including to enhance the Site or Services, improve the content of our software, and customize the Site or Services to you. We may also use your Anonymous Information to contact you, notify you of new content, and/or market our products and services to you on our Site or through our Services.
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
+**How We Disclose Information.**  
+_Personal Information_  
+We also disclose certain Personal Information:  
+• To third party vendors who help us provide the Services or the Site;  
+• To third parties to whom you ask us to send Personal Information;  
+• To a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy;  
+• In connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy; or  
+• If we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our Terms and Conditions; (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties.
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites, and to enable us to customize your Internet experience. We also may use this information to analyze site usage, as well as to offer you products, programs, or services.
+When you submit information to us for public areas of our Services, we may make it publicly available on our Site, through our Services or on other media and services for our business purposes.
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+Some of our Services may enable you to post content to SNSs (e.g., Facebook or Twitter). If you choose to do this, we will provide information to such SNSs in accordance with your elections. You acknowledge and agree that you are solely responsible for your use of those websites and that it is your responsibility to review the terms of use and privacy policy of the third party provider of such SNSs. We will not be responsible or liable for: (i) the availability or accuracy of such SNSs; (ii) the content, products or services on or availability of such SNSs; or (iii) your use of any such SNSs.
 
-Agents and contractors of Time Inc. that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Inc.
+_Anonymous Information_  
+We reserve the right to disclose Anonymous Information publicly without restriction.
 
-We may transfer your personally identifiable information to other Time Inc. offices for internal management and administrative purposes on our behalf. Your personal data will be transferred to other Time Inc. offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. To the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of Time Inc., our agents, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
+**Controlling Your Information.**  
+You may be able to review and/or change certain of your Personal Information by logging into the Site and accessing your Account. You authorize us to use and disclose any new or modified information that you provide in accordance with this Privacy Policy, and you agree that we are under no obligation to delete or modify information that you have previously chosen to provide us. Please know, however, that if we receive information from an SNS, you may not be able to change this information through our Site. You must change this information through the SNS. We will correct any inaccuracies in any Personal Information that we have in our possession once notified of the requested change. We try to process these requested changes as soon as is possible, but it may take up to thirty (30) days to make requested changes.
 
-Please note that if Time Inc. or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
+Upon your request, we will close your Account. We may retain your Personal Information to comply with laws, prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms and Conditions, and take other actions otherwise permitted by law.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
+**Information Disclosed to Third Parties**  
+This Privacy Policy addresses only our use and disclosure of information we collect from and/or about you on the Site and Services. If you disclose information to others, or authorize us to do the same under this Privacy Policy, the use and disclosure restrictions contained in this Privacy Policy will not apply to any third party. We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable.
 
-Privacy Options
+The Site may contain content or links to other websites that are not owned or controlled by us. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other websites. When you click on such a link, you will leave our Site and go to another site. During this process, another entity may collect Personal Information or Anonymous Information from you. The Site may also contain links to other websites controlled by us but which operates under different privacy policies. Please review the privacy policy of any new site you visit.
 
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Time Inc., please .
+**Changes to this Privacy Policy.**  
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here http://hellogiggles.com/privacy and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes.
 
-If you prefer not to receive e-mail marketing from this or any other Time Inc. property, or if you want to opt-out of any sharing of your email address with third parties not owned by Time Inc., please .
+Questions: Please email us at legal@hellogiggles.com
 
-Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+This Policy was last revised: February 3, 2014.
 
-Your California Privacy Rights: Notice to California Customers
+## Disclaimer
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: Time Inc. sites do not recognize the “do not track signals” that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please , or for email please . To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
-
-Collection of Information by Third-Party Sites and Sponsors
-
-Some of our sites contain links to other sites whose information practices may be different than ours. Time Inc. also allows you to connect with other sites and services in order to share content and information. You should consult the other sites' and services' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties or their use of your information.
-
-Time Inc. sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the Time Inc. site and the third parties. Time Inc. has no control over the third parties' use of this information.
-
-Time Inc. sites may use reputable third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
-
-For more information on advertisements and your behavioral advertising options, visit our [About Ads page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html) and our [Network Advertising Initiatives page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html).
-
-Cookies
-
-To enhance your experience on our Services, we may place "cookies" on your computer or device. Cookies are small text files that we place in your computer or device to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information unless you choose to provide this information to us by, for example, registering with one of our Services. Once you choose to provide us with personal information, this information may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Services, and relate your use of the Services to other information about you, such as your usage information and personal information.
-
-We use cookies (and Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below) to understand usage of the Services and to improve our content and offerings and to deliver advertisements that you might be interested in. For example, we may use cookies to personalize your experience on our Services (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings).
-
-Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content. However, your viewing of editorial content may be hampered. If you wish to block cookies, go to to find out how, or check your browser's instructions.
-
-Local Shared Objects: Local shared objects, such as .Flash cookies,. also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see .
-
-HTML 5: HTML5, the language some Web sites are coded in, may be used to store information on your computer or device about your Service usage activities. This information may be retrieved by us to help us manage our Services, such as by giving us information about how our Services are being used by our visitors, how they can be improved, and to customize them for our users.
-
-Cache Cookies: Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited a Service or Services in the past.
-
-Web Beacons: Our websites may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. A web beacon is an electronic image called a single-pixel or clear GIF. Web beacons can recognize certain types of information, such as a user's cookie number, time and date of a page view, and description of the page where the web beacon is placed. These web beacons may be used to deliver cookies that conform to our cookie policy above.
-
-These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Service usage information to other information about you, including your personal information. We may match information collected from you through different means or at different times, including both personal information and Service usage information, and use such information along with offline and online information obtained from other sources (including third parties) such as demographic information and updated contact information (where that information has been lawfully disclosed to us) for the purposes of learning more about you so we can provide you with relevant content.
-
-Our Commitment to Security
-
-We have put in place appropriate administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.
-
-Accessing, Correcting, and Deleting Your Personal Information
-
-We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates.
-
-We encourage you to review, update, and correct the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements, by contacting us as set out in the "How to Contact Us" section below. At our election, instead of deleting such information, we may retain it with your comment or correction noted in our records. By contacting us, you may also object to our further use of your personal information if you have compelling legitimate grounds (this may involve closing your account). We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to review, update, correct, and delete your personal information may be limited, subject to the law or your jurisdiction: (i) if your requests are abusive or unreasonably excessive, (ii) where the rights or safety of another person or persons would be encroached upon, or (iii) if the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity. Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
-
-Retention of Personal Information
-
-We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in the **"Accessing, Correcting, and Deleting Your Personal Information"** section above.
-
-Special Note for Parents
-
-The site you are visiting is one of the Time Inc. general audience sites and is not intended for use by children. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
-
-Changes to this Privacy Policy
-
-This Privacy Policy may be changed by Time Inc. The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
-
-How to Contact Us
-
-If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by or by writing to:
-
-Time Customer Service  
-Attention: Consumer Affairs  
-3000 University Center Drive  
-Tampa, Florida 33612-6408
-
-This Privacy Policy was revised August 18, 2016
+HelloGiggles.com contains strictly opinion-based information. The content of the site is fact-checked to the best of our abilities but will, no doubt, contain errors of typing, spelling, intent, rumor, presumption, but never errors of style (we think). You might disagree with our choices and that’s fine with the editors/owners of HelloGiggles.com.
