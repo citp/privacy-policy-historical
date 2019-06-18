@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgrmn.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213230054id_/https%3A//www.tgrmn.com/web/popup/definitions.htm%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgrmn.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618093101id_/https%3A//www.tgrmn.com/web/popup/definitions.htm%23privacypolicy) for the most accurate reproduction.*
 
 # TGRMN Software
 
@@ -8,7 +8,7 @@
 
 Effective Date: January 1, 2015
 
-[TGRMN Software](https://www.tgrmn.com/) is committed to protecting your privacy. Customer information is considered confidential and will not be shared or distributed to any third party. TGRMN Software will not use your email address for bulk mailings. TGRMN Software will not pass, disclose, sell or rent your email address to third parties, except to SWREG, our payment processor. SWREG will use your E-Mail address to send you product registration information. TGRMN Software will use your e-mail address to send you product registration information and provide technical and sales support.
+[TGRMN Software](https://www.tgrmn.com/) is committed to protecting your privacy. Customer information is considered confidential and will not be shared or distributed to any third party. TGRMN Software will not use your email address for bulk mailings. TGRMN Software will not pass, disclose, sell or rent your email address to third parties, except to Digital River MyCommerce, our payment processor. Digital River MyCommerce will use your E-Mail address to send you product registration information. TGRMN Software will use your e-mail address to send you product registration information and provide technical and sales support.
 
 To be able to use certain areas and features of our website, specifically requested by you, we may require you to provide us with information that identifies you personally. This information may include your name, company name, e-mail address, address, credit card, account number, telephone number. We will not sell or share your personal information to any persons or organizations except when required by law for the investigation of illegal or criminal actives, the exercise of legal rights or in defense against any legal claims, or otherwise. 
 
