@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitcomsonline.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815081439id_/http%3A//www.sitcomsonline.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitcomsonline.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618032637id_/http%3A//sitcomsonline.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Sitcoms Online
 
