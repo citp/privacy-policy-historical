@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontflood.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817223536id_/http%3A//fontflood.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontflood.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618034039id_/https%3A//www.fontspace.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FontSpace
 
@@ -15,7 +15,7 @@ www.fontspace.com uses cookies to store information about visitors' preferences,
 **DoubleClick DART Cookie**  
 → Google, as a third party vendor, uses cookies to serve ads on www.fontspace.com.  
 → Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.fontspace.com and other sites on the Internet.   
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 **Our Advertising Partners**  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
