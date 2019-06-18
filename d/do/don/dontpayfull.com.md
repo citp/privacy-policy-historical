@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dontpayfull.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005135635id_/https%3A//www.dontpayfull.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dontpayfull.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618190153id_/https%3A//www.dontpayfull.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
