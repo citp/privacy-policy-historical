@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hackingloops.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004224123id_/http%3A//www.hackingloops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackingloops.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618205724id_/https%3A//www.hackingloops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information [**security**](http://www.hackingloops.com/10-most-important-security-tips-to-enhance-your-pc-security.html/ "10 Most Important Security Tips to Enhance your PC Security"), is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
@@ -26,9 +26,9 @@ We may use the information we collect from you when you register, make a purchas
 
 Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-We use regular [**Malware**](http://www.hackingloops.com/how-hackers-spread-java-drive-by-malware-online.html/ "How Hackers Spread Java Drive by Malware online") [**Scanning**](http://www.hackingloops.com/ack-flag-scanning-attack.html/ "What is ACK scanning - Port Scanning Tutorials").
+We use regular Malware Scanning.
 
-We do not use an [**SSL**](http://www.hackingloops.com/secure-sockets-layer-tutorial-what-is-ssl-ssl-hackers-guide.html/ "Secure Sockets Layer Tutorial | What is SSL | SSL Hackers Guide") certificate
+We do not use an SSL certificate
 
 **•** We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
 
