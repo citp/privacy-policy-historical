@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southeastbymidwest.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205013841id_/http%3A//southeastbymidwest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southeastbymidwest.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618072840id_/http%3A//southeastbymidwest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Southeast by Midwest
 
