@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiantoday.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915001224id_/https%3A//www.christiantoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiantoday.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618183515id_/https%3A//www.christiantoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Christian News on Christian Today
 
