@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the playcombo.com privacy policy that was archived on 2018-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181212171058id_/http%3A//www.playcombo.com/service/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playcombo.com privacy policy that was archived on 2019-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190618121742id_/http%3A//www.playcombo.com/service/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="UTF-8">
@@ -44,9 +44,9 @@
         })();
     </script>
     
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="/css/site.css" rel="stylesheet">
+    <link rel="stylesheet" href="/fonts/font-awesome-5-7-2/css/all.css">
+    <link rel="stylesheet" href="/css/flickity.css">
+    <link rel="stylesheet" href="/css/site.css">
 </head>
 <body>
 <div id="fb-root"></div>
@@ -60,56 +60,39 @@
 </script>
 
 <!-- Start header -->
-<nav class="navbar navbar-default navbar-fixed-top">
-    <div class="container-fluid">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="/">
-                <img id="logoPic" alt="Brand" src="/img/minLogo.png">
-            </a>
-
-        </div>
-
-        <div class="collapse navbar-collapse" id="navbar">
-            <ul class="nav navbar-nav">
-                <li><a href="/games/new"><i class="fa fa-certificate"></i><strong> New</strong></a></li>
-                <li><a href="/games/best"><i class="fa fa-star"></i><strong> Best</strong></a></li>
-                <li><a href="/games/hot"><i class="fa fa-fire"></i><strong> Hot</strong></a></li>
-                <li><a href="/games/our"><i class="fa fa-trophy"></i><strong> Our</strong></a></li>
-                <li><a href="/games/tags"><i class="fa fa-tags"></i><strong> Tags</strong></a></li>
-            </ul>
-
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <form class="navbar-form navbar-left" role="search" action="/games/search" method="POST">
-                        <div class="form-group">
-                            <input type="text" name="game" class="form-control" placeholder="Search">
-                        </div>
-                        <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
-                    </form>
-                </li>
-            </ul>
-        </div>
+<div class="navShell navbarFixed">
+    <div class="navbarTop" id="myNavbarTop">
+        <a class="siteLogo" href="/"><img id="logoPic" alt="Brand" src="/img/minLogo.png"></a>
+        <a class="navbarItemTop" href="/games/new"><i class="fa fa-certificate"></i> New</a>
+        <a class="navbarItemTop" href="/games/best"><i class="fa fa-star"></i> Best</a>
+        <a class="navbarItemTop" href="/games/hot"><i class="fa fa-fire"></i> Hot</a>
+        <a class="navbarItemTop" href="/games/our"><i class="fa fa-trophy"></i> Our</a>
+        <a class="navbarItemTop" href="/games/tags"><i class="fa fa-tags"></i> Tags</a>
+        <a class="navbarItemTop" href="javascript:void(0);" onclick="expandSearch()"><i class="fa fa-search"></i>
+            Search</a>
+        <a class="navbarItemTop icon" href="javascript:void(0);" onclick="expandMenu()">
+            <i class="fa fa-bars"></i>
+        </a>
     </div>
-</nav>
+    <div class="searchPanel">
+        <form class="searchForm" role="search" action="/games/search" method="POST">
+            <input type="text" name="game" class="searchInput" placeholder="Search">
+            <button type="submit" class="searchButton"><i class="fa fa-search"></i></button>
+        </form>
+    </div>
+</div>
 <!-- End header -->
 
+<div class="mainContent">
+    
 <!-- Begin page content -->
-<div class="container-icons">
-    <div class="container-fluid">
-        <div class="panel panel-primary">
-            <div class="panel-heading">
-                <strong class="panel-title">Privacy Policy</strong>
-            </div>
-            <div id="homePageGreed noAddThumb" class="panel-body">
-                
-                <p>Privacy Policy Playcombo Games ("Playcombo") is committed to ensuring our websites (www.playcombo.com;
-                    www.playcombo.*;www.*.playcombo.*) and any published apps (under the publisher name: Playcombo or
+<div class="panel-topPage panel-title">
+    <strong>Privacy Policy</strong>
+</div>
+<div class="panel panel-bottomPage">
+    
+                <p>Privacy Policy Playcombo Games ("Playcombo") is committed to ensuring our websites (www.playcombo.com; 
+                    www.playcombo.*; www.*.playcombo.*) and any published apps (under the publisher name: Playcombo or
                     Playcombo Games) are fun and safe environments. Playcombo does not actively run a user registration
                     system, forum, chat or instant messaging function and thereby does not directly collect any
                     personally identifiable information about our users unless they directly contact us or respond to a
@@ -207,34 +190,29 @@
                     <a href="mailto:contact@playcombo.com" class="btn btn-success btn-sm">
                         contact@playcombo.com</a>. We hope you continue to enjoy your experience on Playcombo.</p>
                 
-            </div>
-        </div>
-    </div>
 </div>
 <!-- End page content -->   
         
+</div>
+
 <!-- Begin page footer -->
-<div class="footer">
-    <footer class="panel-footer navbar-fixed-bottom">
-        <div class="row">
-            <div class="col-xs-5 hidden-xs">
-                <div class="btn-group" role="group">
-                    <button type="button" class="btn btn-link btn-xs"><a href="/service/contact">Contact Us</a></button>
-                    <button type="button" class="btn btn-link btn-xs"><a href="/service/submit">Submit Game</a></button>
-                    <button type="button" class="btn btn-link btn-xs"><a href="/service/privacy">Privacy Policy</a></button>
-                </div>
-            </div>
-            <div class="col-sm-3">Playcombo.com©2018</div>
-            <div class="col-xs-4 hidden-xs text-right">
-                <div class="fb-like" data-href="http://www.playcombo.com/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true">
-                </div>
-            </div>
-        </div>
-    </footer>
+<div class="navShellBottom navbarFixed">
+    <div class="navbar navbarBottom">
+        <a class="navbarItemBottom" href="/service/contact">Contact Us</a>
+        <a class="navbarItemBottom" href="/service/submit">Submit Game</a>
+        <a class="navbarItemBottom" href="/service/privacy">Privacy Policy</a>
+        <div class="navbarItemRightBottom">Playcombo.com © 2019</div>
+        <div class="navbarItemRightBottom">
+        <div class="fb-like" data-href="http://www.playcombo.com/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+    </div>
+    </div>
 </div>
 <!-- End page footer -->
+
 <script src="/lib/jquery-3.2.1.js"></script>
-<script src="/lib/bootstrap.js"></script>
+<script src="/lib/isotope.pkgd.js"></script>
+<script src="/lib/flickity.pkgd.js"></script>
+<script src="/lib/infinite-scroll.pkgd.js"></script>
 <script src="/src/site.js"></script>
 <script type="text/javascript">
     window.cookieconsent_options = {'message':'This website uses cookies to ensure you get the best experience on our website','dismiss':'Got it!','learnMore':'More info','link':'/service/privacy','theme':'dark-bottom'};
