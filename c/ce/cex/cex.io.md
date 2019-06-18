@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cex.io privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120040522id_/https%3A//cex.io/privacy%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cex.io privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618183159id_/https%3A//cex.io/privacy%23cookies) for the most accurate reproduction.*
 
 # Privacy - CEX.IO
 
 * * *
 
-Last update: 15 November 2018 
+Last update: 11 April 2019 
 
 ### General
 
@@ -67,7 +67,8 @@ The types of Personal Information which we collect may include:
   9. your date of birth;
   10. your employment details;
   11. your trades; and
-  12. information on sources of your funds.
+  12. information on sources of your funds; and
+  13. video footage identifying you.
 
 
 
@@ -80,10 +81,12 @@ We may use your Personal Information for the following purposes:
   1. to allow you to open and operate an Account on the Platform;
   2. to enable you to complete Transactions on the Platform;
   3. if you contact us, to reply to your queries;
-  4. to analyse use of our Sites;
-  5. as required for regulatory purposes such as Tax, prevention of Money Laundering, prevention of Fraud, adherence to Company statistical reporting obligations etc.;
-  6. to provide you with information about products and promotions that may be of interest to you, from ourselves and third parties, although only if you have specifically agreed to receive such information;
-  7. for market research e.g. surveying our Users' needs and opinions on issues, such as our performance etc. Unless consented, your data for this purpose would be anonymised.
+  4. to contact you _via_ email or calls;
+  5. to ensure security of your Account (for instance, if you make a request to [disable 2-factor authentication](https://support.cex.io/hc/en-us/articles/203400697-How-do-I-recover-access-to-my-account-) on your account we can ask you to provide additional Personal Information to confirm your identity);
+  6. to analyse use of our Sites;
+  7. as required for regulatory purposes such as Tax, prevention of Money Laundering, prevention of Fraud, adherence to Company statistical reporting obligations etc.;
+  8. to provide you with information about products and promotions that may be of interest to you, from ourselves and third parties, although only if you have specifically agreed to receive such information;
+  9. for market research e.g. surveying our Users' needs and opinions on issues, such as our performance etc. Unless consented, your data for this purpose would be anonymised.
 
 
 
@@ -101,9 +104,15 @@ We use a browser feature known as a "cookie", which assigns a unique identificat
 
 We use third party service provider(s), to assist us in better understanding the use of our Sites. Our service provider(s) will place cookies on the hard drive of your computer and will receive information that we select that will educate us on such things as how visitors navigate around our Sites, what products are browsed, and general Transaction information. Our service provider(s) analyses this information and provides us with aggregate reports. The information and analysis provided by our service provider(s) will be used to assist us in better understanding our visitors' interests in our Sites and how to better serve those interests. The information collected by our service provider(s) may be linked to and combined with information that we collect about you while you are using the Platform. Our service provider(s) is/are contractually restricted from using information they receive from our Sites other than to assist us.
 
-By using our Sites you are agreeing that we may use cookies for the purposes set out above.
+You may control the cookies through the browser settings. Find out how to manage cookies on browsers:
 
-The company will keep records of all transfers of Personal Information to third parties and this information, where possible, can be provided to you.
+  * [Google Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=en)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Opera](https://help.opera.com/ru/latest/)
+  * [Apple Safari](https://support.apple.com/en-gb/safari)
+
+
 
 ### Disclosure of Personal Information
 
@@ -145,7 +154,9 @@ You have the right to access your Personal Information and to require the correc
 
 Upon your written request at [support@cex.io](mailto:support@cex.io), we will inform you of the Personal Information relating to you that we hold and the use and general disclosure of your Personal Information. We will also give you a copy of the Personal Information we have retained. There may be a minimal charge for providing you additional copies of your Personal Information to cover administrative costs.
 
-You may also request the deletion or destruction of both the Account and Personal Information by sending an email to us at: [support@cex.io](mailto:support@cex.io). CEX.IO will action your request immediately, except, where this is not consistent with its legal and regulatory obligations.
+You may also request the erasure of both the Account and Personal Information by sending an email to us at: [support@cex.io](mailto:support@cex.io). CEX.IO will action your request, unless we have a legal or regulatory obligation or overriding legitimate interest to store your Personal Information (for instance, in cases you have performed transactions).
+
+You have the right to ask us to rectify information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete. Moreover, you have the right to restrict and object to the processing of your personal data in certain circumstances.
 
 You may also ask us to transfer your Personal Information to another controller of your choice.
 
@@ -157,11 +168,14 @@ In the carrying out of our services we may use automated processing and profilin
 
 We may not able to provide you with some or all our services if you do not wish this automated processing to be carried out. If you feel that this processing might be detrimental to you, please contact us on [support@cex.io](mailto:support@cex.io), and our compliance officer will review your application.
 
+Please note, if you make a request, we have one month to respond to you.
+
 ### Security
 
 We have implemented technical and organisational security measures to ensure the confidentiality, integrity and accountability of your Personal Information and to protect your Personal Information from loss, misuse, alteration or destruction. Such measures include:
 
   * the pseudonymisation and TLS 1.2 encryption of personal data;
+  * 2-factor authentication; 
   * the access control;
   * the ability to ensure the ongoing confidentiality, integrity, availability and resilience of our processing systems and services;
   * the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident.
@@ -178,7 +192,7 @@ In the event of a personal data breach or the failure of the measures of protect
 
 ### Security Capabilities and Policy for Transmission of Payment Card Details
 
-CEX.IO Ltd is fully compliant with PCI DSS Level 2. PCI DSS (Payment Card Industry Data Security Standard) is an information security standard designated for merchants, financial institutions and payment service providers in order to ensure the safety of cardholders' data.
+CEX.IO Ltd is fully compliant with PCI DSS (Level 1 Service Provider). PCI DSS (Payment Card Industry Data Security Standard) is an information security standard designated for merchants, financial institutions and payment service providers in order to ensure the safety of cardholders' data.
 
 You can check our Certificate of compliance [here](https://cex.io/promo/img/legal/pci.pdf).
 
@@ -226,7 +240,7 @@ Our Sites policies, content, information, promotions, disclosures, disclaimers a
 
 If we consider that your rights may be affected by any such changes, we will request you to confirm your consideration and acceptance prior to continue our relationship with you.
 
-This current version of the Privacy Policy has last been amended on the 15 of November 2018.
+This current version of the Privacy Policy has last been amended on the 11 of April 2019.
 
 ### Fraud, Phishing and Email scams disclaimer
 
