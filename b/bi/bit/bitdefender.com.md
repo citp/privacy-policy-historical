@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitdefender.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222033531id_/https%3A//www.bitdefender.com/site/view/legal-privacy-policy-for-bitdefender-websites.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitdefender.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618090942id_/https%3A//www.bitdefender.com/site/view/legal-privacy-policy-for-bitdefender-websites.html) for the most accurate reproduction.*
 
 # Legal Privacy Policy For Bitdefender Websites
 
