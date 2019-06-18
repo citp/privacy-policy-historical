@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dontpayfull.com privacy policy that was archived on 2018-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181005135635id_/https%3A//www.dontpayfull.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dontpayfull.com privacy policy that was archived on 2019-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190618190153id_/https%3A//www.dontpayfull.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 <meta http-equiv="X-UA-Compatible" content="IE=edge;">
@@ -10,7 +10,7 @@
 <meta name="robots" content="noarchive">
 <link rel="canonical" href="https://www.dontpayfull.com/page/privacy-policy">
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700" rel="stylesheet">
-<link rel="stylesheet" href="https://static.dontpayfull.com/static/dist/css/bundle.min.css?v=41788b8">
+<link rel="stylesheet" href="https://static.dontpayfull.com/static/dist/css/bundle.min.css?v=327806d">
 <link rel="apple-touch-icon" type="image/png" sizes="57x57" href="https://static.dontpayfull.com/static/images/favicons/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" type="image/png" sizes="60x60" href="https://static.dontpayfull.com/static/images/favicons/apple-touch-icon-60x60.png">
 <link rel="apple-touch-icon" type="image/png" sizes="72x72" href="https://static.dontpayfull.com/static/images/favicons/apple-touch-icon-72x72.png">
@@ -39,13 +39,14 @@
 <meta property="fb:app_id" content="432359283485393">
 <meta property="fb:admins" content="100000298265628,100001150173296">
 <meta property="STORE_URL" content="https://www.dontpayfull.com/">
-<meta name="dpfVerifyId" content="MTAvMDUvMTggMDY6NTY6MzU=">
+<meta name="dpfVerifyId" content="MDYvMTgvMTkgMTk6MDE6NTM=">
 <meta property="twitter:account_id" content="1436985428">
 <meta name="alexaVerifyID" content="a18pTcovmcREuW8xs0ZHER7T3yY">
 <!-- Zanox, Impact Radius, Admitad -->
 <meta name="verification" content="8fdb27f6dd0e17a660c63e1a18b9e875">
 <meta name="lhverifycode" content="32dc01246faccb7f5b3cad5016dd5033">
 <meta name="profitshareid" content="b83f1b1ec241d0bd9a1c548235e819b3">
+<meta name="ahrefs-site-verification" content="7d8e9d666fb048ff9a165ed5bc2a5981733f8997634ee4b252011110764dace0">
 <link rel="dns-prefetch" href="//forum.dontpayfull.com">
 <link rel="dns-prefetch" href="//static.dontpayfull.com/">
 <link rel="dns-prefetch" href="//media.dontpayfull.com/">
@@ -64,7 +65,6 @@
 <link rel="dns-prefetch" href="//twitter.com">
 <link rel="dns-prefetch" href="//plus.google.com">
 <link rel="dns-prefetch" href="//www.pinterest.com">
-<link rel="dns-prefetch" href="//m.dontpayfull.com/">
 <link rel="dns-prefetch" href="//help.dontpayfull.com">
 <!-- OneSignal - not compatible with Tag Manager-->
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W39QSQ"></script><script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
@@ -81,7 +81,7 @@ enable: false /* Set to false to hide */
 OneSignal.push(function() { OneSignal.registerForPushNotifications(); });
 </script>
 </head>
-<body class="body-site body-site-page">
+<body class="body-site body-site-page guest">
 <noscript>
 <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W39QSQ"
 height="0" width="0" style="display:none;visibility:hidden"></iframe>
@@ -111,30 +111,51 @@ f.parentNode.insertBefore(j, f);
 <div id="layout">
 <div class="header__top-bar" id="header">
 <div class="container">
+<div class="header-container">
 <div class="logo pull-left text-left">
 <a href="/" title="DontPayFull">
-<img src="https://static.dontpayfull.com/static/images/logo-dpf.svg" srcset="https://static.dontpayfull.com/static/images/logo-dpf.svg" class="img-responsive" alt="DontPayFull">
+<i class="df df-dontpayfull-logo"></i>
 <p>DontPayFull</p>
 </a>
 </div>
 <div class="search">
 <form action="/search/" id="top-search-form" class="store-search text-left">
 <div class="input-group input-group-lg search-wrap">
-<button type="button" class="search-close"><i class="close-action"></i></button>
-<button type="submit" class="input-group-addon"><span class="nc-zoom-2"></span></button>
-<input type="text" class="form-control" id="top-search" name="q" placeholder="Search for stores, offers or brands">
-<button class="btn" style="position: absolute;left: 0;opacity: 0;"></button>
+<button type="submit" class="input-group-addon"><i class="df df-search"></i>
+</button>
+<input type="text" class="form-control" id="top-search" name="q" required="" placeholder="Search for stores, offers or brands" autocomplete="top-search">
 </div>
 </form>
 </div>
 <div class="top-links pull-right">
 <div class="pull-right header__top-links-wrap">
 <ul class="header__top-links">
-<li class="forum"><a class="dpf-link" href="https://forum.dontpayfull.com" target="_BLANK">Forum</a></li>
-<li class="blog"><a class="dpf-link" href="https://www.dontpayfull.com/blog/" target="_BLANK">Blog</a>
+<li>
+<a href="/users/account/#user-sfollowed" onclick="changeProfileTab('#user-sfollowed')" class="header__counter follows">
+<i class="df df-follow-o"></i>
+<span class="header__counter-box" data-count="">
+</span>
+</a>
 </li>
-<li class="signin"><a class="loginbox" data-ref="/page/privacy-policy">Log in</a></li>
-<li class="signup"><a class="signupbox" data-ref="/page/privacy-policy">Sign up</a></li>
+<li>
+<a href="/users/account/#user-csaved" onclick="changeProfileTab('#user-csaved')" class="header__counter coupons">
+<i class="df df-save-o"></i>
+<span class="header__counter-box" data-count="">
+</span>
+</a>
+</li>
+<li class="forum">
+<a href="https://forum.dontpayfull.com" target="_BLANK" rel="noopener">Forum</a>
+</li>
+<li class="blog">
+<a href="https://www.dontpayfull.com/blog/" target="_BLANK">Blog</a>
+</li>
+<li class="signin">
+<a class="loginbox" data-ref="/page/privacy-policy">Log in</a>
+</li>
+<li class="signup">
+<a class="signupbox" data-ref="/page/privacy-policy">Sign up</a>
+</li>
 </ul>
 </div>
 </div>
@@ -142,36 +163,35 @@ f.parentNode.insertBefore(j, f);
 <span class="nav-mobile"></span>
 </div>
 <div class="search-mobile-handle pull-right">
-<span class="nc-zoom-2"></span>
+<span class="df df-search"></span>
 </div>
 </div>
 </div>
-<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="follow-container">
-<div class="row">
+</div>
+<div id="follow-container">
 <div class="alert alert-warning" id="follow-alert">
-<div class="container text-center" style="position: relative;">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 <a class="signupbox" data-ref="/page/privacy-policy">
 Sign up
 </a> or
 <a class="loginbox" data-ref="/page/privacy-policy">
-Login
+Log In
 </a> to permanently save your favorite stores in your account.
-<span class="fancybox-close follow-close"><i class="df-cancel-circle"></i></span>
+<span class="fancybox-close follow-close"><i class="df-close"></i></span>
 </div>
 </div>
 </div>
-</div>
-<div class="subheader tags-subheader">
-<div class="container">
-<h1 class="category-title" style="top: 0;">
-Privacy Policy
-</h1>
 </div>
 </div>
 <div class="container main-container">
 <div class="row">
 <div class="col-lg-12 col-md-12 col-sm-12 main clearfix">
 <div class="static-page-wrap">
+<h1>
+Privacy Policy
+</h1>
 <div class="static-page">
 <h3>Who we are</h3>
 <p>We are DontPayFull, a trading name of DontPayFull SRL. If you need it, our company number is RO35294618 and our registered office is at Str. Zece mese no 9. DontPayFull SRL is the controller and responsible for your personal information. All references in this policy to "DontPayFull", "our", "us" or "we" refer to DontPayFull SRL, or our group companies, as appropriate. All references in this policy to "our website", refer to the website owned by DontPayFull at <a href="https://www.DontPayFull.com. ">www.DontPayFull.com.</a></p>
@@ -311,10 +331,10 @@ Privacy Policy
 </div>
 </div>
 </div>
-<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-<div class="row">
 <div class="breadcrumb">
 <div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 <ul>
 <li><a href="https://www.dontpayfull.com/">Home</a></li>
 <li>Privacy Policy</li>
@@ -323,72 +343,78 @@ Privacy Policy
 </div>
 </div>
 </div>
-<div class="bottom clearfix">
+<div class="footer clearfix">
 <div class="newsletter clearfix">
-<div class="container text--center form-group">
-<h2>Get Coupon Codes and Online Deals delivered straight to your inbox</h2>
+<div class="container text-center form-group">
+<h4>Get coupon codes and online deals delivered straight to your inbox</h4>
 <form method="post" action="/newsletter/subscribe" id="users_news_store_first" _lpchecked="1" class="newsletter-form-footer clearfix">
-<label for="email">E-mail Address</label>
 <input type="hidden" name="token" value="8ab87d4fb3600cc53fc0c5c958a250b1">
-<input type="text" class="email label-effect-type form-control" autocomplete="off" name="email" value="Enter your email address" onfocus="if (this.value == 'Enter your email address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter your email address';}">
+<div class="form-group">
+<input type="text" class="email label-effect-type form-control" autocomplete="off" name="email" placeholder="Enter your email address">
+</div>
 <button type="submit">Subscribe</button>
 </form>
-<ul class="social-icons">
-<li>
-<a class="social-icon dpf-link" href="https://www.facebook.com/DontPayFull" target="_BLANK" rel="nofollow">
-<span class="nc-icon nc-logo-facebook"></span>
-<span class="number">34,331</span>
-</a>
-</li>
-<li>
-<a class="social-icon dpf-link" href="https://twitter.com/DontPayFull" target="_BLANK" rel="nofollow">
-<span class="nc-icon nc-logo-twitter"></span>
-<span class="number">312,825</span></a>
-</li>
-<li>
-<a class="social-icon dpf-link" href="https://plus.google.com/+Dontpayfull-com" target="_BLANK" rel="nofollow">
-<span class="nc-icon nc-logo-google-plus"></span>
-<span class="number">1,718</span></a>
-</li>
-<li>
-<a class="social-icon dpf-link" href="https://www.pinterest.com/dontpayfull/" target="_BLANK" rel="nofollow">
-<span class="nc-icon nc-logo-pinterest"></span>
-<span class="number">80,586</span></a>
-</li>
-</ul>
 </div>
 </div>
 <footer class="site-footer">
-<div class="container text--center">
+<div class="container text-center">
 <nav class="footer-navigation">
 <ul>
 <li>
-<a class="dpf-link" href="/page/terms-of-use">Terms Of Use</a>
+<a href="/page/about-us">About Us</a>
 </li>
 <li>
-<a class="dpf-link" href="/page/privacy-policy">Privacy Policy</a>
+<a href="/page/retailer-benefits">Retailer Benefits</a>
 </li>
 <li>
-<a class="dpf-link" href="/page/about-us">About Us</a>
+<a href="/browse">Categories</a>
 </li>
 <li>
-<a class="dpf-link" href="/browse">Categories</a>
+<a href="https://help.dontpayfull.com" rel="noopener">Help</a>
 </li>
 <li>
-<a class="dpf-link" href="/sitemap/">Sitemap</a>
+<a href="/page/contact-us">Contact Us</a>
+</li>
+</ul>
+</nav>
+<ul class="social-icons">
+<li>
+<a class="social-icon" href="https://www.facebook.com/DontPayFull" target="_BLANK" rel="noopener nofollow">
+<i class="df df-facebook-logo"></i>
+</a>
 </li>
 <li>
-<a class="dpf-link" href="http://help.dontpayfull.com">Help</a>
+<a class="social-icon" href="https://twitter.com/DontPayFull" target="_BLANK" rel="noopener nofollow">
+<i class="df df-twitter-logo"></i>
+</a>
 </li>
 <li>
-<a class="dpf-link" href="/page/contact-us">Contact Us</a>
+<a class="social-icon" href="https://www.pinterest.com/dontpayfull/" target="_BLANK" rel="noopener nofollow">
+<i class="df df-pinterest-logo"></i>
+</a>
+</li>
+<li>
+<a class="social-icon" href="https://www.instagram.com/dontpayfull/" target="_BLANK" rel="noopener nofollow">
+<i class="df df-instagram-logo"></i>
+</a>
+</li>
+</ul>
+<nav class="footer-useful-links">
+<ul>
+<li>
+<a href="/page/terms-of-use">Terms of Use</a>
+</li>
+<li>
+<a href="/sitemap/">Sitemap</a>
+</li>
+<li>
+<a href="/page/privacy-policy">Privacy Policy</a>
 </li>
 </ul>
 </nav>
 <p class="copyright">
-<span>Designated trademarks and brands are property of their respective owners. Use of this Web site constitutes acceptance of the DontPayFull.com.</span>
-Copyright @ 2018 DontPayFull.com - Friends Don't Let Friends Pay Full. All
-Rights Reserved.
+© 2019 DontPayFull.com
+<span class="copyright-extra">&nbsp;- Friends Don't Let Friends Pay Full</span>
 </p>
 </div>
 </footer>
@@ -402,7 +428,7 @@ Rights Reserved.
 </div>
 </div>
 </div>
-<script type="text/javascript" src="https://static.dontpayfull.com/static/dist/js/bundle.min.js?v=41788b8"></script>
+<script type="text/javascript" src="https://static.dontpayfull.com/static/dist/js/bundle.min.js?v=327806d"></script>
 <script src="//cdn.ravenjs.com/3.16.0/raven.min.js" crossorigin="anonymous"></script>
 <script>
 var options = {
@@ -411,7 +437,8 @@ whitelistUrls: [
 ],
 ignoreErrors: [
 'fb_xd_fragment', /ReferenceError:.*/
-]
+],
+release: '327806d'
 };
 Raven.config('https://6bf43432a6944796aebd7755da87806b@app-sentry.dontpayfull.com/3', options).install();
 </script>
