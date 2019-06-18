@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the parchment.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923024631id_/https%3A//www.parchment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parchment.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618183920id_/https%3A//www.parchment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Parchment
 
 At Parchment Inc. (“Parchment”) we take your privacy seriously. We have developed this Privacy Policy to clearly describe how we collect, use, and disclose your personal information as we provide our services and tools on or via this website, [www.parchment.com](http://www.parchment.com/), and its affiliated websites (“the Site”), collectively referred to herein as “Services.” The Services include the electronic ordering, fulfillment, and delivery of academic credentials and data, including without limitation, transcripts and related admissions documents, diplomas, test score reports, certificates and certifications (collectively, “Credentials”) and the electronic awarding of Credentials. 
+
+**By accessing and using our Site or by clicking “I accept” prior to your registration on the Parchment Site, you consent to the collection, use and disclosure of your information and personal data by Parchment as described in this Privacy Policy.**
 
 **Automatic collection of information**. Like many websites on the Internet, we automatically gather certain non-personally identifiable information and store it in log files. This information may include, for example, your IP address, browser type, and Internet connection speed. In addition, we may employ the use of “cookies” in certain areas of our Site. We use this information, which does not identify individual users through such users’ personally-identifiable information (PII) defined as data that we collect that could identify a single individual (including names, email addresses, postal addresses, and phone numbers), but does differentiate between users (as described in greater detail below) to analyze trends, to administer the site, to track users’ movements around the site, and to gather demographic information about our user base as a whole. We may link this automatically collected data to other information we collect about you. 
 
@@ -22,9 +24,12 @@ Our Site uses the following types of cookies for the purposes set out below:
 ---|---  
 _Essential Cookies_ | These cookies are essential to provide you with services available through the Parchment Site and to enable you to use some of its features. Without these cookies, the services that you have asked for cannot be provided, and we only use these cookies to provide you with those services.  
 _Functionality Cookies_ | These cookies allow our Site to remember choices you make when you use the Site. The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you visit the Site.   
-_Analytics and Performance Cookies_ | These cookies are used to collect information about traffic to the Parchment Site and how users use our Site and Services. The information gathered may include the number of visitors to our Site, the websites that referred them to our Site, the pages they visited on our Site, what time of day they visited our Site, whether they have visited our Site before, and other similar information.  We use this information to help operate our Site more efficiently, to gather broad demographic information, monitor the level of activity on our Site, and improve the Site. The information gathered does not identify any individual visitor. The information is aggregated and anonymous.   
+_Analytics and Performance Cookies_ | These cookies are used to collect information about traffic to the Parchment Site and how users use our Site and Services. The information gathered may include the number of visitors to our Site, the websites that referred them to our Site, the pages they visited on our Site, what time of day they visited our Site, whether they have visited our Site before, and other similar information.  We use this information to help operate our Site more efficiently, to gather broad demographic information, monitor the level of activity on our Site, and improve the Site. The information gathered does not identify any individual visitor. The information is aggregated and anonymous. 
+
 We use Google Analytics for this purpose. Google Analytics uses its own cookies. You can find out more information about Google Analytics cookies[ here](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies) and about how Google protects your data[ here](http://www.google.com/analytics/learn/privacy.html).  You can prevent the use of Google Analytics relating to your use of our Site by downloading and installing the browser plugin available[ here](http://tools.google.com/dlpage/gaoptout?hl=en-GB).   
-_Advertising or Marketing Cookies_ | These cookies are used to identify Site visitors that are either known or unknown to enhance the experience they have on our Site. These cookies allow us to provide content that is personalized to match visitors’ browsing or user history.   
+  
+_Advertising or Marketing Cookies_ | These cookies are used to identify Site visitors that are either known or unknown to enhance the experience they have on our Site. These cookies allow us to provide content that is personalized to match visitors’ browsing or user history. 
+
 We use Marketo for marketing automation. You can find out more about their privacy policy and cookie policy here: [https://www.marketo.com/company/legal/](https://www.marketo.com/company/legal/).  You can prevent the use of Marketo relating to your use of our Site by disabling this cookie here: [https://documents.marketo.com/legal/cookies/](https://documents.marketo.com/legal/cookies/).  
   
 Disabling cookies. 
@@ -34,8 +39,6 @@ You can typically remove or reject cookies via your browser settings. In order t
 Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit[ www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 If you do not accept our cookies, you may experience some inconvenience in your use of our Site. For example, we may not be able to recognize your computer or mobile device and you may need to log in every time you visit our Site.
-
-**Do Not Track Signals.**
 
 Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We do not currently respond to do not track signals. To find out more about “Do Not Track,” please visit[ http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
@@ -91,7 +94,7 @@ In addition, we use that anonymous data for our lawful business purposes.
 
 Our business hinges on security and the trust you place in us. We take great care to ensure that your personally identifiable information is only shared in the following limited circumstances:
 
-    * **Designated Institutions or Third Parties.** When a student, academic institution, or other user uses our Services, we will access certain data, including personal information, and may transmit, fulfill, or otherwise disclose Credentials and related data to such other academic institutions or third parties as authorized by such user. The consent of a student-user’s parent may be required to submit a Credential request for non-postsecondary students under the age of 18. We will share certain information with the institutions from which we obtain your Credentials in order to fulfill your order.
+  *     * **Designated Institutions or Third Parties.** When a student, academic institution, or other user uses our Services, we will access certain data, including personal information, and may transmit, fulfill, or otherwise disclose Credentials and related data to such other academic institutions or third parties as authorized by such user. The consent of a student-user’s parent may be required to submit a Credential request for non-postsecondary students under the age of 18. We will share certain information with the institutions from which we obtain your Credentials in order to fulfill your order.
     * **Service providers.** We may also use other companies and individuals to perform supporting functions on our behalf for the institutions that we work with or for the various Services offered through the Site, such as account billing and processing. They handle data only in compliance with the terms of this Privacy Policy, and will not be permitted to use the information collected from you for any purpose other than performing the support functions for Parchment.
     * **Affiliates.** We may disclose your personal information to our subsidiaries and corporate affiliates or business partners for purposes consistent with this Privacy Policy.
 
@@ -163,7 +166,7 @@ At Parchment, protecting your privacy is important to us. By accessing and using
 
 Any modifications to this Privacy Policy will be effective upon our posting of the new terms and/or upon implementation of the new changes on the Services (or as otherwise indicated at the time of posting). In all cases, your continued use of the Services after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.
 
-Parchment complies or will comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the EU to the United States, upon our self-certification approval and certification to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, the Privacy Shield Principles, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
+Parchment complies or will comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce, and subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC), regarding the collection, use, and retention of personal data transferred from the EU and the United Kingdom to the United States, upon our self-certification approval and certification to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, the Privacy Shield Principles, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
 
 As described in the Privacy Shield Principles, Parchment is accountable for personal data that it receives and subsequently transfers to third parties. If third parties that process personal data on our behalf as an authorized agent of Parchment, do so in a manner that does not comply with this Privacy Policy, we are accountable, unless we prove that we are not responsible for the event giving rise to the damage.
 
@@ -173,10 +176,9 @@ Parchment commits to cooperate with the panel established by the EU data protect
 
 If you have any questions or concerns at all about our Privacy Policy, please feel free to email us at [privacy@parchment.com](mailto:privacy@parchment.com) or write to us at: 
 
-Parchment Inc.
-
-7001 N. Scottsdale Road, Suite 1050
-
-Scottsdale, AZ 85253
-
+Parchment Inc.  
+7001 N. Scottsdale Road, Suite 1050  
+Scottsdale, AZ 85253  
 Attn: General Counsel 
+
+This website uses cookies to improve your experience. [Learn More](https://web.archive.org/privacy-policy/) more about those cookies.      Accept
