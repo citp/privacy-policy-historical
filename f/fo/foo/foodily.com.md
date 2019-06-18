@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodily.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212151702id_/http%3A//blog.foodily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodily.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618111842id_/http%3A//blog.foodily.com/privacy) for the most accurate reproduction.*
 
 # Foodily Blog
 
