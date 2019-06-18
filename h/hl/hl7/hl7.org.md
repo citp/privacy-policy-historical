@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hl7.org privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206120613id_/http%3A//www.hl7.org/legal/privacy.cfm%3Fref%3Dnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hl7.org privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618140003id_/http%3A//www.hl7.org/legal/privacy.cfm%3Fref%3Dnav) for the most accurate reproduction.*
 
 # Privacy Policy | HL7 International
 
