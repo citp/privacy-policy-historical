@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltaww.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218011508id_/http%3A//www.deltaww.com/information/privacy.aspx%3FsecID%3D6%26pid%3D1%26tid%3D0%26hl%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltaww.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618192154id_/http%3A//www.deltaww.com/information/privacy.aspx%3FsecID%3D6%26pid%3D1%26tid%3D0%26hl%3Den-US) for the most accurate reproduction.*
 
 # Information - Privacy Policy - Delta Group
 
@@ -112,11 +112,11 @@ Effective Date: May 25, 2018
   
    
   
-|     
+|    
 ---  
-  |  |  |  |   
----|---|---  
+  |  |  |    |  |   
+---|---|---|---  
 Our Mission  
 To provide innovative, clean and energy-efficient solutions  
 for a better tomorrow.  
-© 2018 Delta Electronics, Inc. All Rights Reserved. 
+© 2019 Delta Electronics, Inc. All Rights Reserved. 
