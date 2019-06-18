@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10vpn.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217215500id_/https%3A//www.top10vpn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10vpn.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618150559id_/https%3A//www.top10vpn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top10VPN.com
 
@@ -32,12 +32,12 @@ We give our visitors the option to leave us reviews of the VPN providers listed 
 
 Personal data collection
 
-Once you submit your review, the following personal information will be collected (exactly as submitted by the User):
+Once you submit your review, the following personal information will be collected (exactly as submitted):
 
 – Name  
 – Email address
 
-A copy of all the data you submit will be stored securely.
+We ask for your email address to avoid bogus reviews being submitted. We will never share your data with any third-party, unless it is with the VPN provider you are subscribed to but only if you have entered into a prize draw they are running with us (see 'Data use and transfer' for more details). We will never contact you using the email address you provide us.
 
 Data use and transfer
 
@@ -97,9 +97,9 @@ We also sometimes use other third-party analytics tools, such as Hotjar, that co
 
 We use this information to better understand our customers and their needs in order to improve our service.
 
-This information is anonymized and cannot be tied back to any individual. Nevertheless, we never share it with anyone outside of Metric Labs Ltd unless specifically required to by law.
+This information is anonymized and cannot be tied back to any individual. Nevertheless, we never share it with anyone outside of PrivacyCo unless specifically required to by law.
 
-This anonymized analytics information is stored behind secure log-ins that can only be accessed by Metric Labs employees using their official credentials.
+This anonymized analytics information is stored behind secure log-ins that can only be accessed by PrivacyCo employees using their official credentials.
 
 ###  **Cookies and similar technologies**
 
@@ -129,11 +129,11 @@ We may, from time to time, update this Privacy Policy to reflect any changes to 
 
 ##  **HOW TO CONTACT US**
 
-Top10VPN.com is owned and operated by Metric Labs Ltd. If you have any questions about our cookies or this policy, please contact us at [hello@top10vpn.com](mailto:hello@top10vpn.com) and we will get back to you within two working days.
+Top10VPN.com is owned and operated by PrivacyCo. If you have any questions about our cookies or this policy, please contact us at [hello@top10vpn.com](mailto:hello@top10vpn.com) and we will get back to you within two working days.
 
-Metric Labs Ltd  
+PrivacyCo  
 Fourth Floor  
 33 Great Sutton Street  
 London EC1V 0DX
 
- **Last updated:  21/05/2018**
+ **Last updated:  30/04/2019**
