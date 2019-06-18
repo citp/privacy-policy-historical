@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the einnews.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215161121id_/https%3A//www.einnews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einnews.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619014820id_/https%3A//www.einnews.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
@@ -226,6 +226,23 @@ We may use third-party Service Providers to show advertisements to you to help s
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
 
 You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+
+
+
+
+### Behavioral Remarketing
+
+Internet Product Development Group Inc. uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service. 
+
+  * **Google AdWords Google**
+
+AdWords remarketing service is provided by Google Inc. 
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <https://www.google.com/settings/ads>
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics. 
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy>
 
 
 
