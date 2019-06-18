@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyaustralia.com.au privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005162349id_/https%3A//www.energyaustralia.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyaustralia.com.au privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618071234id_/https%3A//www.energyaustralia.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy | EnergyAustralia
 
@@ -277,7 +277,7 @@ Periodically we will update this privacy policy to reflect changes to privacy le
 
 ## What if you have a complaint?
 
-Please contact the Privacy Officer using the details below if you have any concerns or complaints about the way we have collected or handled your personal information (including in relation to credit). We will investigate your complaint and respond to you in writing within 30 days. For complaints specifically related to credit, we will also provide you in writing, within 7 days, an acknowledgement that your complaint has been received, setting out how it will be dealt with by us. If you are not satisfied with our response, you can contact us to discuss your concerns or lodge a complaint with the Australian Information Commissioner ([www.oaic.gov.au](https://web.archive.org/web/20181005162349id_/https%3A//www.energyaustralia.com.au/www.oaic.gov.au)).
+Please contact the Privacy Officer using the details below if you have any concerns or complaints about the way we have collected or handled your personal information (including in relation to credit). We will investigate your complaint and respond to you in writing within 30 days. For complaints specifically related to credit, we will also provide you in writing, within 7 days, an acknowledgement that your complaint has been received, setting out how it will be dealt with by us. If you are not satisfied with our response, you can contact us to discuss your concerns or lodge a complaint with the Australian Information Commissioner ([www.oaic.gov.au](https://web.archive.org/web/20190618071234id_/https%3A//www.energyaustralia.com.au/www.oaic.gov.au)).
 
 ## How to contact us
 
