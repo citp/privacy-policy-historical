@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedsavers.org privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010101143id_/http%3A//www.seedsavers.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedsavers.org privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618181145id_/https%3A//www.seedsavers.org/privacy) for the most accurate reproduction.*
 
 # Privacy - Seed Savers Exchange
 
@@ -9,6 +9,10 @@ In order to access certain materials or services on this site, you may be asked 
 ## Browsing our website
 
 You can browse www.seedsavers.org without telling us who you are (but please don't be a stranger). The information we collect from a typical web site visit (one that does not involve a form submission or online store checkout) is your IP address, the pages you view and the date and time you view them. We use this information to measure site and store activity in order to improve the usefulness of our website to our visitors. We also use Google Analytics Demographics and Interest Reports to better understand who is visiting our site in order to improve its features and functions for you. This information is based on Google Advertising cookies and anonymous identifiers and is only used in aggregate (we don't tie this to an individual). To learn more about the use of this information and to opt-out, please visit <https://support.google.com/ads/?hl=en#topic=2971788> or <https://tools.google.com/dlpage/gaoptout/>
+
+## Email Subscriptions
+
+If you’ve given us your express consent, we also send our email newsletter to your email address. This consent can be withdrawn or modified at any time by following the Manage Preferences link at the bottom of every marketing email. Please note that even if you update your consent, you will continue to receive transaction-based emails about orders you place. Please [contact us](https://web.archive.org/contact) if you wish to remove your email address or any other information completely from our system. If you place future orders on our site, you are agreeing to our terms and privacy policy. 
 
 ## Collection of personally identifiable information
 
