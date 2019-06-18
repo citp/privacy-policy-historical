@@ -1,86 +1,53 @@
-> *The following text is extracted and transformed from the virtualfestivals.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007212603id_/http%3A//www.virtualfestivals.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualfestivals.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618082312id_/https%3A//festivalflyer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy | Festival Flyer
 
-### We will not collect any personal or business information, nor store or share that information with any third party without your express permission. 
+## Who we are
 
-**Why we need Information  
-**    
-When you visit our site you will receive explicit advice when we seek to gather information about you. The information you provide is used to produce your web page and any information you supply is displayed to the public on this page, unless otherwise stated. 
+Our website address is: https://festivalflyer.com.
 
-**The Registration Process**
+## What personal data we collect and why we collect it
 
- The information harvested during the registration process is used to create your own unique identification as a site visitor/services user and enable us to undertake the various administration processes necessary. 
+### Comments
 
-**Your Unique Identification**
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
- This identification is provided in the form of a member name and password. It is important that you keep this identification secret to avoid unauthorized use of your account. 
+An anonymised string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-**How we use your Information**
+### Media
 
- The information we collect about you or your business enables us to:
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
--    understand your needs  
--    improve our service to you  
--    stay in touch with you through other media as you require  
--    deliver goods and services to the addresses you have provided   
--    enhance and refine existing information we may have acquired from other sources  
--    complete the internal administration necessary to register you and maintain our service to you 
+### Cookies
 
-**How do you know if we are gathering Information?**
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
- Detailed information about you is only collected when you are advised explicitly that is what we are doing and you supply it voluntarily. 
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-**Sharing Information**
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
- We may share the information with sub-contractors and partners but only on condition that they comply strictly with our own Supplier Confidentiality Agreement, the Customer Privacy Promise you are currently reading and the EU Directive on Data Protection and the Data Protection Act 1998. 
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-**Checking Information**
+### Embedded content from other websites
 
- You can check the accuracy of our records and make modifications at any time in the 'My Account' settings area. 
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-**Deleting Information**
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
- You can immediately delete any information we hold about you by using the facilities in My Account. But please remember that deletion of key information may affect your status as a registered user. 
+## How long we retain your data
 
-**Sale of Information  
-**    
-If you have agreed explicitly to allow us to do so, information about you may be sold or provided to third parties. However, no information will be provided to any other party without your express permission. 
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognise and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-**Legal Disclosure**
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
- When approached by the appropriate authorities, information about you, your business or account usage may be disclosed but only when legally required under European Law. 
+## What rights you have over your data
 
-**Security**
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
- We take all reasonable precautions to protect information about you from loss, misuse and alteration. Agents, partners and sub-contractors who have access to your information have a duty of care as detailed in our contracts with them and are not permitted to use it for any other purpose unless you have given your explicit permission in detail that they may do so. 
+## Where we send your data
 
-**Hackers and Viruses  
-**    
-Your registration details are very important - please keep your password and member name secret. It is better for other users to register separately than to share your account access information. We will never write to ask for your login details - be cautious of anyone asking for this information. 
+Visitor comments may be checked through an automated spam detection service.
 
-**Automated Collection of Other Information**
+## Your contact information
 
- Some non-personal information may be collected automatically, such as the computer operating system and the type of browser software you are using, along with special codes that tell us which pages you have visited. Some information is stored in the form of a 'cookie', a small file which remains on your computer but which acts as a reminder about any preferences you have selected when visiting our sites. We only use 'cookies' to improve our service to you. We may occasionally allow this non-personal data to be used by third party content suppliers, to help us serve you with more relevant content. We may also store your log in details on your computer, but only if you explicitly request us to do so. Remember that if you opt for us to do this, any other user of the same computer can access your account. You can delete this 'cookie' by clicking the Log Out link at the top of any page. 
-
-**Switching Cookies Off**
-
- Cookies are required in order to become a member of Virtual Festivals, or to use the Virtual Festivals Services. 
-
-**Linked Sites**
-
- This Privacy Promise does not apply to any third parties over whom we have no control. 
-
-**Aquisition or Merger of Our Company**
-
-It is possible that Virtual-Festivals.com Ltd. could merge or be acquired by another business. If this happens, we may share the information that relates to you. You will be sent notice of such an event. 
-
-**Changes to our Privacy Promise**
-
- We reserve the right to change this statement at any time without warning to meet any statutory requirements or changes in the nature of our activities and services. This privacy statement does not form the basis of any contract between any party. 
-
-**Protect your Privacy  
-**    
-We caution you against giving out personally identifiable information (such as social security numbers, credit card numbers, names and addresses, driver license numbers, passwords) to strangers online, which may be used for illegal or harmful purposes.
-
-Some personal information you provide to Virtual Festivals may be stored outside of the country in which you reside.
+hello@festivalflyer.com
