@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcpowerspeed.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030183215id_/http%3A//www.pcpowerspeed.com/Legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpowerspeed.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618071647id_/http%3A//pcpowerspeed.com/Legal/Privacy.aspx) for the most accurate reproduction.*
 
 # PCPowerSpeed.com
 
@@ -195,4 +195,8 @@ If we propose to use personal information for any purposes other than those desc
 
 This Privacy Policy may change from time to time and an updated Privacy Policy will be available and accessible on our website. You are responsible for periodically reviewing this Privacy Policy for any applicable changes.
 
-**Last Updated:** July 17, 2014
+## GOVERNING LAW AND JURISDICTION
+
+Worklio s.r.o. operates under the regulatory guidelines of the United States of America.
+
+**Last Updated:** January 26, 2017
