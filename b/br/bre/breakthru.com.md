@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakthru.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031160733id_/http%3A//breakthru.com/go/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakthru.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618133311id_/http%3A//breakthru.com/go/page/privacy.html) for the most accurate reproduction.*
 
 # BreakThru.com PRIVACY POLICY
 
