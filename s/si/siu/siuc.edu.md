@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siuc.edu privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104231830id_/https%3A//policies.siu.edu/policies/webprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siuc.edu privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618201710id_/https%3A//policies.siu.edu/policies/webprivacy.php) for the most accurate reproduction.*
 
 # SIU Web Privacy Policy | Policies | SIU
 
@@ -26,8 +26,8 @@ If you have any questions or concerns about our privacy policies, send an e-mail
 
 University Communications  
 Southern Illinois University Carbondale  
-1220 Douglas Drive M/C 6819  
+900 S. Normal Ave M/C 6819  
 Carbondale, IL 62901  
-Phone: (618) 453-2276
+Phone: (618) 453-2518
 
-If you wish to review or change information gathered about you through an official SIU Web site, you may contact the SIU Webmaster who will assist you in locating the person responsible for that site so that you may make your request for that review or change directly with them.
+If you wish to review or change information gathered about you through an official SIU Web site, you may contact the [SIU Webmaster](mailto:webmaster@siu.edu) who will assist you in locating the person responsible for that site so that you may make your request for that review or change directly with them.
