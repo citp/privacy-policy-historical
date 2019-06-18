@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineclock.net privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811175825id_/https%3A//onlineclock.net/about/privacy.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineclock.net privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618111525id_/https%3A//onlineclock.net/about/privacy.html%23privacy) for the most accurate reproduction.*
 
 # OnlineClock.net Contact, Imprint & Privacy Policy
 
@@ -50,7 +50,7 @@ Email address: **info [at] onlineclock.net**
 
 Postal address: **Hagelberger Strasse 45, 10965 Berlin, Germany**
 
-If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([ _www.ico.org.uk_](https://www.ico.org.uk/)). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
+If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([ _www.ico.org.uk_](https://www.ico.org.uk/)). We would be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
 
 It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at **info [at] onlineclock.net**
 
@@ -85,6 +85,7 @@ We collect data about you through a variety of different methods including:
   * **Third parties or publicly available sources:** We may receive personal data about you from various third parties and public sources as set out below:
   * Cloudflare, Inc. (our Web Security and Peformance provider)
   * Google / Google Plus / YouTube / Google's DART & AdSense
+  * Instagram (via embedded Posts)
   * Analytics providers such as Google based outside the EU   
 **Please note: we have anonymized IP collection in Google Analytics for all visitors. You can see this via the line of code "ga('set', 'anonymizeIp', true);" visible in our site's source code.**
   * Advertising networks such as Google AdSense and its partner networks based inside and outside the EU   
@@ -315,9 +316,10 @@ There is no way to prevent these cookies being set other than to not use our sit
 Our site, like most websites, includes functionality provided by third parties. A common example is an embedded YouTube video. Our site uses 3rd party functions from the following companies which use cookies:
 
   * YouTube - [Privacy Policy](https://www.youtube.com/static?template=privacy_guidelines) powers the videos on our site
-  * Google - [Privacy Policy](https://policies.google.com/technologies/partner-sites) provides the ads and other functions on our site
+  * Google - [Privacy Policy](https://policies.google.com/technologies/partner-sites) provides the ads, web analytics and other functions on our site
   * DART / DoubleClick - [Privacy Policy](https://policies.google.com/technologies/ads) provides the ads on our site
   * Cloudflare - [Privacy Policy](https://www.cloudflare.com/privacypolicy/) provides security and performance-enhancing functions for our website
+  * Instagram (part of Facebook) - [Privacy Policy](https://help.instagram.com/519522125107875) provides embedded Posts (memes) functionality for our website
 
 
 
