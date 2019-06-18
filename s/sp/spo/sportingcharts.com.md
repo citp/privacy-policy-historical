@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingcharts.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231114645id_/https%3A//www.sportingcharts.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingcharts.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618063721id_/https%3A//www.sportingcharts.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # SportingCharts.com | Privacy Policy
 
@@ -46,7 +46,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. In addition, the servers that we store personally identifiable information on are kept in a secure environment.
 
-If you have any questions about the security at our Web site, you can send an e-mail to [admin@SportingCharts.com](mailto:admin@SportingCharts.com).
+If you have any questions about the security at our Web site, you can send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#09686d646067495a79667b7d60676e4a61687b7d7a276a6664).
 
 ### Supplementation of Information
 
@@ -60,6 +60,6 @@ If a user's personally identifiable information changes (such as your zip code),
 
 If we decide to change our privacy policy, we will post a notification of such change on our home page. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users of such intentions via e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-If you feel that this company is not abiding by its posted privacy policy, please send an e-mail to [admin@sportingcharts.com](mailto:admin@sportingcharts.com)
+If you feel that this company is not abiding by its posted privacy policy, please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#99f8fdf4f0f7d9eae9f6ebedf0f7fefaf1f8ebedeab7faf6f4)
 
 Last updated on November 1st, 2011
