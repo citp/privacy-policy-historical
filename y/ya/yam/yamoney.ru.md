@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yamoney.ru privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109074438id_/https%3A//money.yandex.ru/page%3Fid%3D525698) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yamoney.ru privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618151124id_/https%3A//money.yandex.ru/page%3Fid%3D525698) for the most accurate reproduction.*
 
 # Yandex.Money
 
@@ -52,9 +52,9 @@ All terms and definitions not defined but used in the text of the Policy are pro
 
 ## 2\. The Purpose of Collecting and Processing the Client’s Personal Information
 
- **2.1.** The NBCO shall collect and hold only this personal information which is necessary for provision of the NBCO Services or execution of agreements with the Client, with the exception of the cases where storing of personal information for certain period is prescribed by law.
+ **2.1.** The NBCO shall collect and hold only this personal information which is necessary for provision of the NBCO Services or execution of agreements with the Client, with the exception of the cases where gathering and storing of certain personal information is prescribed by law. The personal information shall be stored no longer than it is required by the processing purposes, unless the storing period is determined by the law of Russian Federation, agreement on the use of Services by the Client of NBCO. 
 
- **2.2.** The NBCO may use the Client’s personal information for the following purposes:   
+**2.2.** The NBCO may use the Client’s personal information for the following purposes:   
 2.2.1. **To execute the NBCO's agreement** including those for the purposes of completing identification/simplified identification of the Client, providing the Client with a wallet, executing the Client's orders about transfers of funds and/or balance refunds;   
 2.2.2. **Communication**. To contact the Client including by sending notifications, requests, and information that relates to using the NBCO's Services, the rendering of services, as well as processing the Client’s requests and applications;   
 2.2.3. **To improve the Service’s quality** and ease of use, as well as to develop new services, offer the Client the personalized NBCO Services;   
@@ -73,9 +73,9 @@ All terms and definitions not defined but used in the text of the Policy are pro
 3.3.2. When disclosing information is necessary for the use of a certain service provided by the NBCO or a partner of the NBCO, including carrying out the Client’s order.   
 Personal information can be passed on to third parties of the following categories in particular:   
 3.3.2.1. **Credit organizations** or other organizations partaking in the process of making money transfers.   
-For example, in order to maintain a proper level of security of online payments made from bank cards, the Operator can transfer information established in form of a list by the security protocols of payment systems, acquiring / issuing banks, payment systems.   
+For example, in order to maintain a proper level of security of online payments made from bank cards, the NBCO can transfer information established in form of a list by the security protocols of payment systems, acquiring / issuing banks, payment systems.   
 The transfer of information can be mandatory, for example, in regards of the information concerning user equipment such as the IP address, OS, geographic data, ID/type of equipment, used channel: browser/app, payment authorization, identification/verification, or optional, for example, in regards of the information concerning the account in the supplier's system, address match indicators, e-mail address, mobile phone number, payment amount, risk level established by the supplier, MCC.   
-3.3.2.2. **Marketing partners and other NBCO counterparties**.   
+3.3.2.2. **Marketing partners and other NBCO counterparties.**  
 (a) NBCO can provide access to some data (for example, statistics) for conducting marketing and other studies, as well as to other data allowing to provide the Client with advertising of third parties that is relevant and may be of interest to the Client;   
 (b) NBCO can provide access to some of the information regarding the Client’s transactions which the partner of the NBCO can use as the basis for determining whether to provide such a Client with discounts (bonuses), incentives due to the fulfillment of certain conditions set by the partner of the NBCO, as well as regarding the Bonus Account of a Client partaking in the Yandex.Money Loyalty Program, when such access can be given due to the possibility of providing the Client with additional terms of use for Privileges;  
 (c) NBCO might provide access to the Client's email address allowing the partner of the NBCO to transfer a fiscal or other document as provided for by the legislation of the Russian Federation;  
@@ -136,6 +136,6 @@ The transfer of information can be mandatory, for example, in regards of the inf
 
  **7.2.** NBCO reserves the right not to answer any questions that are not related to the provisions of the Policy which does not deprive the Client of the opportunity to forward such questions to the NBCO at the addresses provided at the NBCO's website on the Internet in the “Contact information of NBCO Yandex.Money LLC” section.
 
- **Date of publication:** 02 October 2018
+ **Date of publication:** 04 December 2018
 
-[Previous version of the document from 20.08.2018](https://web.archive.org/page?id=532350)
+[Previous version of the document from 02.10.2018](https://web.archive.org/page?id=533266)
