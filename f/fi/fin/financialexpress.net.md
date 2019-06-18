@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205062552id_/http%3A//www.financialexpress.net/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialexpress.net privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618052121id_/https%3A//www.financialexpress.net/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | FE Financial Express
 
@@ -87,7 +87,7 @@ We want to ensure that the personal information we hold about you is accurate an
 
 You can update your contact preferences using the **FE’s preference centre** on the website. Alternatively, to see what personal information we have collected from you, you may correct, update, amend, delete/remove, deactivate it by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-You have the right to access information held about you. If you wish to receive a copy of any personal information we hold, please email your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82e4e7e6e3f6e3f2f0edf6e7e1f6ebedecc2e4ebece3ece1ebe3eee7faf2f0e7f1f1acece7f6).
+You have the right to access information held about you. If you wish to receive a copy of any personal information we hold, please email your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0167646560756071736e75646275686e6f4167686f606f6268606d647971736472722f6f6475).
 
 ### **WHERE AND HOW WE STORE YOUR PERSONAL INFORMATION**
 
@@ -168,6 +168,6 @@ If you want more information or have any questions or comments relating to our p
 
 Address: Data Protection Officer, FAO Sorin Pop, 3rd Floor, Hollywood House, Church Street East, Woking, Surrey, GU21 6HJ, United Kingdom
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5f393a3b3e2b3e2f2d302b3a3c2b3630311f3936313e313c363e333a272f2d3a2c2c71313a2b)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#81e7e4e5e0f5e0f1f3eef5e4e2f5e8eeefc1e7e8efe0efe2e8e0ede4f9f1f3e4f2f2afefe4f5)
 
 Telephone: 01483-783940
