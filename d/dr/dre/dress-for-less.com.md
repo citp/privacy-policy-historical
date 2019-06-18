@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dress-for-less.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130184159id_/https%3A//www.dress-for-less.com/help%23Privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dress-for-less.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618082724id_/https%3A//www.dress-for-less.com/help%23Privacy%2520policy) for the most accurate reproduction.*
 
 # Help at DFL
 
@@ -361,6 +361,22 @@ The information produced by cookies and pixel tags on the use of this website an
 You can opt out of data processing by TradeDoubler by clicking on this [link](http://publisher.tradedoubler.com/include/functions/optout.html) on the interface "No tracking please". An opt-out cookie will be placed, which prevents the future collection of your data when visiting this website. The opt-out cookie is only valid in this browser and only for our website, and is placed on your device. If you delete the cookies in this browser, you will need to place the opt-out cookie again.
 
 Further information on the use of data can be obtained from the [privacy policy of TradeDoubler](https://www.tradedoubler.com/de/privacy-policy/).
+
+#### 11\. RTB House
+
+Our website uses technology from RTB House GmbH, Kurfürstendamm 226, 10719 Berlin, Germany, an affiliated company of RTB House S.A., 61/101 Złota Street, 00-819 Warsaw, Poland. This technology uses pixel tags and cookies to notify you of further content that may also be of interest you within our website or on third-party websites (retargeting). Pixel tags and cookies are used for this purpose. The recommendations integrated by RTB House are determined based on the content you have previously viewed. The content is automatically controlled and delivered by RTB House. The advertisement is displayed on a pseudonymous basis. The data stored in the cookie regarding your use of this website, such as cookie IDs, advertiser IDs, browser type/version, device information, referrer URL (the previously visited website) and time of the server request, as well as data relating to your activities (such as products or product category IDs visited by you) is transferred to an RTB House server in the EEA and stored there. Data will not be transmitted to third countries.
+
+You can object to the processing of data by RTB House in order to display interest-based recommendations by clicking [here](https://www.rtbhouse.com/en/optout-page/). An opt-out cookie will be set, which prevents the future collection of your data when visiting this website. The opt-out cookie only applies to this browser and only for our website and will be stored on your device. If you delete the cookies in this browser, you will need to set the opt-out cookie again. Please note that you have to set the opt-out cookie in each device that you use to access our website separately. After making an objection, further interesting content will still be presented to you; however, this is no longer based on your previous usage behaviour on our website.
+
+You can find more information on the RTB House privacy policy [here](https://www.rtbhouse.com/privacy-center/services-privacy-policy/).
+
+#### 12\. Use of trbo
+
+Our website uses technology from trbo GmbH, Leopoldstraße 41, 80802 Munich, Germany. With the help of this technology, data about the browsing behaviour of website visitors is collected and stored on a pseudonymous basis for marketing purposes. This data is saved on your computer with the help of “cookie” text files (see section 4 IV.1 for a description of the function of cookies/pixels and the data they collect). The cookies collect data such as the categories that you have visited, the products that you have viewed or information on which articles you have placed in your shopping basket. Using an algorithm, trbo analyses browsing behaviour so that you are shown personalised advertisements on our website including targeted product recommendations or promotions specific to your interests and your browsing behaviour. Under no circumstances can this data be used to identify visitors to this website. The data is not used for any other purpose or passed on to third parties.
+
+You can object to the pseudonymous analysis of your browsing behaviour on this website. By clicking on the following link for opting out <https://www.trbo.com/opt-out/> and clicking the “opt-out” button, a new cookie (an opt-out cookie) will be placed in your browser. This cookie lets trbo know that no data about your usage behaviour can be collected and processed. You have the option to reactivate this function. This setting has to be changed in each browser separately. If you have set your browser to not allow any cookies, this also applies to the opt-out cookie.
+
+You can find more information about the technology from trbo in the trbo [privacy policy](https://www.trbo.com/datenschutz/).
 
 ### VI. Data subject rights
 
