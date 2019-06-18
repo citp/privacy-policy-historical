@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidresult.in privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211100043id_/http%3A//rapidresult.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidresult.in privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618051807id_/http%3A//rapidresult.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rapid Result
 
@@ -16,16 +16,16 @@ We assure you that the personal information which you will provide to us will be
 
 (3) as may be specified therein.
 
-**Disclaimer**
+ **Disclaimer**
 
 rapidresult.in have been providing the latest information from various sources ‘as is’ and the content is particularly use as informative purpose and specifically not responsible for  any lack and inaccuracy of the said information. rapidresult.in have the rights, as its own will, to make changes and alterations on the provided information.
 
 rapidresult.in may also contain official links of some other sites on Internet as well. In a process of providing most suitable information to the readers, and while trying linking only those sites who share our benchmark set for quality standard and respecting our privacy policy, if by chance other sites failed to do so, rapidresult.in would not be responsible for those information.
 
-**Cookies**  
+ **Cookies**  
 This website together with some other website might making use of “cookie” technology in order to measure the activity of Website and creating a customization as per your personal interest. A Cookie is that element of data which is send by an internet site to your browser, followed by storing cookies in Hard drive. This process aims to serve for better results as and when visiting our website, it also saves time together with providing optimum website experience.
 
-**DoubleClick DART Cookie  **  
+ **DoubleClick DART Cookie  **  
 Google, as third party vendor, will use cookies to Deliver ads on www.rapidresult.in  
 Google’s use of this DART cookie permits for serving Ads to the behold visitors. These Ads will be based on their interest and visit on www.rapidresult.in and also the other sites they visit over a particular period of time on the Internet. Moreover, if the users wishes to opt out of using DART cookie, they may visit the URL – http://www.google.com/privacy/ads/ for that so.
 
@@ -39,7 +39,7 @@ You may also consult to third-party ad servers regarding their privacy policy if
 
 In order to disable cookies, you can also proceed through the web browser you use. More information about disabling cookies can be found at browsers’ respective websites.
 
-**Copyright**
+ **Copyright**
 
 If any website wishes to link with our articles or might wish to quote on it, following are the guidelines provided there under, which they needs to follow.
 
@@ -49,7 +49,7 @@ You are not allowed to publish the complete article without our permission.
 
 rapidresult.in™  is the trademark for the website.
 
-**Miscellaneous**
+ **Miscellaneous**
 
 This is to be informed that the agreement mentioned above is legally governed and made with respect to Indian laws and also applicable to all the agreement which are liable to be performed in India. Any dispute between rapidresult.in and any user shall be according to Jurisdiction for this agreement brought up in state court or any other competent authority sitting shall be in India only. Any claim or any disagreement shall be commenced within a span of one year only. After that such claims shall be dismissed. No party shall be allowed to modify this agreement.  
 Provided that, rapidresult.in is free from any obligation and duties which restrict it for assigning its rights to any party.
