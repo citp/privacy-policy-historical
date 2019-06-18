@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the zopim.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214185226id_/https%3A//www.zendesk.com/company/customers-partners/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopim.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618211930id_/https%3A//www.zendesk.com/company/customers-partners/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zendesk
 
-Effective as of November 1, 2018, Zendesk, Inc., (“ **Zendesk** ”) and its subsidiaries, (collectively, the “ **Zendesk Group** ” or “ **we** ” or “ **us** ” or “ **our** ”) have updated our Privacy Policy (“ **Policy** ”). For a prior version of our Privacy Policy, click [here](https://web.archive.org/company/customers-partners/privacy-policy-retro/). 
+Effective as of June 3, 2019, Zendesk, Inc., (“Zendesk”) and its subsidiaries, (collectively, the “Zendesk Group” or “we” or “us” or “our”) have updated our Privacy Policy (“Policy”). For a prior version of our Privacy Policy, click [here](https://web.archive.org/company/customers-partners/privacy-policy-2018-11-01/).
 
 **1\. Introduction**
 
-This Policy details our commitment to protecting the privacy of individuals who visit our Websites (defined below) (“ **Website Visitors** ”), who register to use the products and services which we market for subscription (available at www.zendesk.com (the **“Service(s)”** , or who attend or register to attend sponsored events or other events at which the Zendesk Group participates ( **“Attendees”** )). For the purposes of this Policy, the term, “Websites”, shall refer collectively to [www.zendesk.com](https://web.archive.org/) as well as the other websites that the Zendesk Group operates and that link to this Policy. This Privacy Policy describes how the Zendesk Group collects, uses, shares and secures the personal information that you provide. It also describes your choices regarding use, access and correction of your personal information. 
+This Policy details our commitment to protecting the privacy of individuals who:
+
+  1. visit our Websites (defined below) (“Website Visitors”) or individuals who request us to contact them via our online web forms
+  2. who register to use the products and services which we market for subscription (available at www.zendesk.com (the “Service(s)”), or
+  3. attend or register to attend sponsored events or other events at which the Zendesk Group participates (“Attendees”).
+
+
+
+For the purposes of this Policy, the term, “Websites”, shall refer collectively to [www.zendesk.com](https://web.archive.org/) as well as the other websites that the Zendesk Group operates and that link to this Policy. This Privacy Policy describes how the Zendesk Group collects, uses, shares and secures the personal information that you provide. It also describes your choices regarding use, access and correction of your personal information.
 
 **2\. Scope Of This Policy**
 
@@ -25,33 +33,33 @@ Our Websites may contain links to other websites. The information practices and 
 
 _When this Policy does not apply – Service Data:_
 
-With the exception of Account Information (as defined below) and other information we collect in connection with your registration or authentication into our Services, this Policy does not apply to our security and privacy practices in connection with your access to and use of the products and services which we market for subscription on our Websites (our “ **Services** “). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. These security and privacy practices, including how we protect, collect, and use electronic data, text, messages, communications or other materials submitted to and stored within the Services by You (“ **Service Data** ”), are detailed in and governed by our Master Subscription Agreement, available [here](https://web.archive.org/company/customers-partners/master-subscription-agreement/?cta=msa), or such other applicable agreement between you and any member of the Zendesk Group relating to Your access to and Your use of such Services (collectively referred to as the “ **Service Agreement** ”).
+With the exception of Account Information (as defined below) and other information we collect in connection with your registration or authentication into our Services, this Policy does not apply to our security and privacy practices in connection with your access to and use of the products and services which we market for subscription on our Websites (our “Services”). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. These security and privacy practices, including how we protect, collect, and use electronic data, text, messages, communications or other materials submitted to and stored within the Services by You (“Service Data”), are detailed in and governed by our Master Subscription Agreement, available [here](https://web.archive.org/company/customers-partners/master-subscription-agreement/?cta=msa), or such other applicable agreement between you and any member of the Zendesk Group relating to Your access to and Your use of such Services (collectively referred to as the “Service Agreement”).
 
 Subscribers to our Services are solely responsible for establishing policies for and ensuring compliance with all applicable laws and regulations, as well as any and all privacy policies, agreements or other obligations, relating to the collection of personal information in connection with the use of our Services by individuals (also referred to as “data subjects”) with whom our Subscribers interact. If you are an individual who interacts with a Subscriber using our Services, then you will be directed to contact our Subscriber for assistance with any requests or questions relating to your personal information.
 
-We collect information under the direction of our Subscribers, and have no direct relationship with individuals whose personal information we process in connection with our Subscriber’s use of our Services. The use of information collected through our Services shall be limited to the purpose of providing the service for which Subscribers have engaged the Zendesk Group. If you are an individual who interacts with a Subscriber using our Services (such as a customer of one of our Subscribers) and would either like to amend your contact information or no longer wish to be contacted by one of our Subscribers that use our Services, please contact the Subscriber that you interact with directly.
+We collect information under the direction of our Subscribers, and have no direct relationship with individuals whose personal information we process in connection with our Subscriber’s use of our Services. The use of information collected through our Services shall be limited to the purpose of providing the service for which Subscribers have engaged a member of the Zendesk Group. If you are an individual who interacts with a Subscriber using our Services (such as a customer or user of one of our Subscribers) and would either like to amend your contact information or no longer wish to be contacted by one of our Subscribers that use our Services, please contact the Subscriber that you interact with directly.
 
 **3\. Information That You Provide To Us**
 
 _Account and Registration Information:_
 
-We ask for and may collect personal information about you such as your name, address, phone number, email address, instant messaging ID, and credit card information, as well as certain related information like your company name and website name, when you register for an account to access or utilize one or more of our Services (an “ **Account** ”). We also ask for and collect personal information such as an email address and a name or alias from any individual that you authorize to log into and utilize our Services in connection with Your Account.
+We ask for and may collect personal information about you such as your name, address, phone number, email address, instant messaging ID, and credit card information, as well as certain related information like your company name and website name, when you register for an account to access or utilize one or more of our Services (an “Account”). We also ask for and collect personal information such as an email address and a name or alias from any individual that you authorize to log into and utilize our Services in connection with Your Account (an “Agent” or “End-User” as defined in the Service Agreement). We base the processing of your personal information on our legitimate interest to provide you with the necessary functionality required during your use of our Service(s);
 
 If you sign-up for a free trial Account, you are not required to enter your credit card information unless and until you decide to continue with a paid subscription to our Services. A third-party intermediary is used to manage credit card processing. This intermediary is not permitted to store, retain, or use your billing information for any purpose except for credit card processing on our behalf. 
 
-We refer to any information described above as “ **Account Information** ” for the purposes of this Policy. By voluntarily providing us with Account Information, you represent that you are the owner of such personal information or otherwise have the requisite consent to provide it to us.
+We refer to any information described above as “Account Information” for the purposes of this Policy. By voluntarily providing us with Account Information, you represent that you are the owner of such personal information or otherwise have the requisite consent to provide it to us.
 
 _Other Submissions:_
 
-We ask for and may collect personal information from you when you submit web forms on our Websites or as you use interactive features of the Websites, including: participation in surveys, contests, promotions, sweepstakes, requesting customer support, or otherwise communicating with us.
+We ask for and may collect personal information from you when you submit web forms on our Websites or as you use interactive features of the Websites, including: participation in surveys, contests, promotions, sweepstakes, requesting customer support, or otherwise communicating with us. We process your personal information to perform our contract with you for the use of our websites and the Service(s) and to fulfill our obligations under the Master Subscription Agreement to You; where we have not entered into the Master Subscription Agreement with you, we base the processing of your personal information on our legitimate interest to operate and administer our websites and to provide you with the content you access and request.
 
 _Attendee Information:_
 
-We ask for and may collect personal information such as your name, address, phone number and email address when you register for or attend a sponsored event or other events at which any member of the Zendesk Group participates.
+We ask for and may collect personal information such as your name, address, phone number and email address when you register for or attend a sponsored event or other events at which any member of the Zendesk Group participates, in order to faciliate your registration or attendance at an event, including sending related communications to you.
 
 _Mobile Application:_
 
-When you download and use our Services, we automatically collect information on the type of device you use, and operating system version.
+When you download and use our Services, we automatically collect information on the type of device you use, and the operating system version, to perform our Agreement with you.
 
 **4\. Information That We Collect From You on our Websites**
 
@@ -63,11 +71,11 @@ We partner with third parties to either display advertising on the Websites or t
 
 Web beacons, tags and scripts may be used on our Websites or in email or other electronic communications we send to you. These assist us in delivering cookies, counting visits to our Websites, understanding usage and campaign effectiveness and determining whether an email has been opened and acted upon. We may receive reports based on the use of these technologies by our third-party service providers on an individual and aggregated basis. 
 
-We use Local Storage Objects (“ **LSOs** ”) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. Third parties with whom we partner to provide certain features on our Websites or to display advertising based upon your Web browsing activity use LSOs such as HTML5 and Flash to collect and store information. For further information on how to manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+We use Local Storage Objects (“LSOs”) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. Third parties with whom we partner to provide certain features on our Websites or to display advertising based upon your Web browsing activity use LSOs such as HTML5 and Flash to collect and store information. For further information on how to manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 _Logs:_
 
-As is true with most websites and services delivered over the Internet, we gather certain information and store it in log files when you interact with our Websites and Services. This information includes internet protocol (IP) addresses as well as browser type, internet service provider, URLs of referring/exit pages, operating system, date/time stamp, information you search for, locale and language preferences, identification numbers associated with your devices, your mobile carrier, and system configuration information. Occasionally, we connect personal information to information gathered in our log files as necessary to improve our Websites and Services. In such a case, we would treat the combined information in accordance with this Policy should be changed to As is true with most websites and services delivered over the Internet, We gather certain information and store it in log files when you interact with our Websites and Services. This information includes internet protocol (IP) addresses as well as browser type, internet service provider, URLs of referring/exit pages, operating system, date/time stamp, information you search for, locale and language preferences, identification numbers associated with your devices, your mobile carrier, and system configuration information. Occasionally, We connect personal information to information gathered in our log files as necessary to improve our Websites and Services. In such a case, We would treat the combined information in accordance with this Policy.
+As is true with most websites and services delivered over the Internet, we gather certain information and store it in log files when you interact with our Websites and Services. This information includes internet protocol (IP) addresses as well as browser type, internet service provider, URLs of referring/exit pages, operating system, date/time stamp, information you search for, locale and language preferences, identification numbers associated with your devices, your mobile carrier, and system configuration information. Occasionally, we connect personal information to information gathered in our log files as necessary to improve our Websites and Services. In such a case, we would treat the combined information in accordance with this Policy.
 
 _Analytics:_
 
@@ -77,7 +85,7 @@ We collect analytics information when you use the Websites to help us improve th
 
 _Social Media Widgets:_
 
-The Websites include social media features, such as the Facebook Like button, and widgets, such as the Share This button or interactive mini-programs that run on our Websites. These features may collect your Internet protocol address, which page you are visiting on the Websites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on the Websites. Your interactions with these features are governed by the privacy statement of the companies that provide them.
+The Websites include social media features, such as the “Facebook Like” button, and widgets, such as the “Share This” button or interactive mini-programs that run on our Websites. These features may collect your Internet protocol address, which page you are visiting on the Websites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on the Websites. Your interactions with these features are governed by the privacy statement of the companies that provide them.
 
 _Information From Third Party Services:_
 
@@ -89,11 +97,11 @@ These single sign-on services will authenticate your identity, provide you with 
 
 _General Uses:_
 
-We may use the information we collect about you (including personal information, to the extent applicable) for a variety of purposes, including to (a) provide, operate, maintain, improve, and promote the Websites and the Services; (b) enable you to access and use the Websites and the Services; (c) process and complete transactions, and send you related information, including purchase confirmations and invoices; (d) send transactional messages, including responses to your comments, questions, and requests; provide customer service and support; and send you technical notices, updates, security alerts, and support and administrative messages; (e) send promotional communications, such as providing you with information about products and services, features, surveys, newsletters, offers, promotions, contests, and events; and provide other news or information about us and our partners (you can opt-out of receiving marketing communications from us by contacting us at [privacy@zendesk.com](mailto:privacy@zendesk.com) or following the unsubscribe instructions included in our marketing communications); (f) process and deliver contest or sweepstakes entries and rewards; (g) monitor and analyze trends, usage, and activities in connection with the Websites and Services and for marketing or advertising purposes; (h) investigate and prevent fraudulent transactions, unauthorized access to the Websites and the Services, and other illegal activities; (i) personalize the Websites and Services, including by providing features or advertisements that match your interests and preferences; and (j) for other purposes for which we obtain your consent.
+We may use the information we collect about you (including personal information, to the extent applicable) in order to perform our obligations under our Agreement with you and on the basis of our legitimate interest including to (a) provide, operate, maintain, improve, and promote the Websites and the Services; (b) enable you to access and use the Websites and the Services; (c) process and complete transactions, and send you related information, including purchase confirmations and invoices; (d) send transactional messages, including responses to your comments, questions, and requests; provide customer service and support; and send you technical notices, updates, security alerts, and support and administrative messages; (e) send promotional communications, such as providing you with information about products and services, features, surveys, newsletters, offers, promotions, contests, and events; and provide other news or information about us and our partners (you can opt-out of receiving marketing communications from us by providing us with name(s) and email address(es) you want opted out via an email to us at [privacy@zendesk.com](mailto:privacy@zendesk.com) or following the unsubscribe instructions included in our marketing communications); (f) process and deliver contest or sweepstakes entries and rewards; (g) monitor and analyze trends, usage, and activities in connection with the Websites and Services and for marketing or advertising purposes; (h) investigate and prevent fraudulent transactions, unauthorized access to the Websites and the Services, and other illegal activities; (i) personalize the Websites and Services, including by providing features or advertisements that match your interests and preferences; and (j) for other purposes for which we obtain your consent.
 
 _Legal basis for processing (EEA visitors only):_
 
-If you are a visitor from the European Economic Area, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
+If you are a visitor from the European Economic Area (“EEA”), our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
 
 However, we will normally collect personal information from you only where we need the personal information to perform a contract with you (e.g. to provide you with our Services), where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms, or where we have your consent. In some cases, we may also have a legal obligation to collect personal information from you.
 
@@ -123,7 +131,7 @@ If you choose to use our referral service to tell a friend about our products an
 
 _Community Forums:_
 
-The Websites may offer publicly accessible blogs, community forums, comments sections, discussion forums, or other interactive features (“ **Interactive Areas** “). You should be aware that any information that you post in an Interactive Area might be read, collected, and used by others who access it. To request removal of your personal information from an Interactive Area, contact us at [privacy@zendesk.com](mailto:privacy@zendesk.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+The Websites may offer publicly accessible blogs, community forums, comments sections, discussion forums, or other interactive features (“Interactive Areas”). You should be aware that any information that you post in an Interactive Area might be read, collected, and used by others who access it. To request removal of your personal information from an Interactive Area, contact us at [privacy@zendesk.com](mailto:privacy@zendesk.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 _Zendesk Group Sharing:_
 
@@ -147,11 +155,11 @@ We have implemented safeguards to ensure an adequate level of data protection wh
 
 (b) the European Commission’s Standard Contractual Clauses for the transfer of personal information;
 
-(c) Zendesk participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Where a the recipient is located in the United States., it may be a certified member of the EU-US Privacy Shield scheme; or
+(c) Zendesk participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Where the recipient is located in the United States, it may be a certified member of the EU-US Privacy Shield scheme; or
 
 (d) Zendesk has Binding Corporate Rules in place which guarantee an adequate level of data protection wherever your data is physically kept.
 
-You can obtain more details of the protection given to your personal information when it is transferred outside Europe (including a sample copy of the model contractual clauses) by contacting us using the details set out at clause 15 below.
+You can obtain more details of the protection given to your personal information when it is transferred outside Europe (including a sample copy of the model contractual clauses) by contacting us using the details set out at Clause 15 below.
 
 _Binding Corporate Rules:_
 
@@ -176,7 +184,7 @@ Zendesk’s Subscribers are able to:
   * restrict, suspend or terminate your access to the Services;
   * access and describe your personal information that you provided to them;
   * access and export your personal information processed by them; and
-  * amend your personal information, including your end-user profile. 
+  * amend your personal information, including your end-user profile.
 
 
 
@@ -198,15 +206,15 @@ An individual who seeks to exercise their data protection rights in respect of p
 
 _Accessing and updating or deleting your information:_
 
-Our Services and related documentation on our [EU Data Protection site](https://web.archive.org/company/customers-partners/eu-data-protection/) give agent and end-users the ability to access, update and delete certain personal information from within the Service. For example, you can access your Agent or End-User profile and make updates to your personal information. In cases where we act as the data controller of your personal information, we will provide you with information about whether we hold any of your personal information upon request. We will respond to such requests within a reasonable timeframe. Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations.
+Our Services and related documentation on our [EU Data Protection site](https://web.archive.org/company/customers-partners/eu-data-protection/) give Agent and End-Users the ability to access, update and delete certain personal information from within the Service. For example, you can access your Agent or End-User profile and make updates to your personal information. In cases where we act as the data controller of your personal information, we will provide you with information about whether we hold any of your personal information upon request. We will respond to such requests within a reasonable timeframe. Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations.
 
 _Deactivating your user profile:_
 
-If you no longer wish to use our Services, Zendesk’s Subscriber may be able to deactivate your end-user account. First, please contact Zendesk’s Subscriber with your request. If you are a Zendesk Subscriber and are unable to deactivate an end-user account through your administrator settings, please email [support@zendesk.com](mailto:support@zendesk.com). Please be aware that deactivating your account does not delete your information; your information remains visible to other Service users based on your past participation within the Services. For more information on how to delete your information, visit our [EU Data Protection site](https://web.archive.org/company/customers-partners/eu-data-protection/).
+If you no longer wish to use our Services, Zendesk’s Subscriber may be able to deactivate your End-User account. First, please contact Zendesk’s Subscriber with your request. If you are a Zendesk Subscriber and are unable to deactivate an end-user account through your administrator settings, please email [support@zendesk.com](mailto:support@zendesk.com). Please be aware that deactivating your account does not delete your information; your information remains visible to other Service users based on your past participation within the Services. For more information on how to delete your information, visit our [EU Data Protection site](https://web.archive.org/company/customers-partners/eu-data-protection/).
 
 _Request that we stop using your information:_
 
-You may request that your personal information no longer be accessed, stored, used and otherwise processed where you believe that a Zendesk Subscriber or we do not have the appropriate rights to do so. For example, if you believe a Services account was created for you without your permission or you are no longer an active user, you can request that we delete your account as provided in this Policy. Where you gave us consent to use your personal information for a limited purpose, you can contact us to withdraw that consent. You can also opt-out of our use of your personal information for marketing purposes by contacting us, as provided below. When you make such requests, we may need time to investigate and facilitate your request. Please note that an end-user of a Zendesk Subscriber should first contact Zendesk’s Subscriber with a request to stop access, storage, use of personal information. If there is delay or dispute as to whether we have the right to continue using your personal information, we will restrict any further use of your personal information until the request is honored or the dispute is resolved, provided the Zendesk Subscriber does not object (where applicable).
+You may request that your personal information no longer be accessed, stored, used and otherwise processed where you believe that a Zendesk Subscriber or we do not have the appropriate rights to do so. For example, if you believe a Services account was created for you without your permission or you are no longer an active user, you can request that we delete your account as provided in this Policy. Where you gave us consent to use your personal information for a limited purpose, you can contact us to withdraw that consent. You can also opt-out of our use of your personal information for marketing purposes by contacting us, as provided below. When you make such requests, we may need time to investigate and facilitate your request. Please note that an End-User of a Zendesk Subscriber should first contact Zendesk’s Subscriber with a request to stop access, storage, use of personal information. If there is delay or dispute as to whether we have the right to continue using your personal information, we will restrict any further use of your personal information until the request is honored or the dispute is resolved, provided the Zendesk Subscriber does not object (where applicable).
 
 _Opt-out of communications:_
 
@@ -214,7 +222,7 @@ We offer those who provide personal contact information a means to choose how we
 
 _Other data protection rights:_
 
-If you wish to exercise any other data protection rights that are available to you under your local data protection laws (such as the right to data portability or to data restriction) then please send your request to [privacy@zendesk.com](https://web.archive.org/web/20181214185226id_/https://www.zendesk.com/company/customers-partners/privacy-policy/privacy@zendesk.com) and we will action your request in accordance with applicable data protection laws.
+If you wish to exercise any other data protection rights that are available to you under your local data protection laws (such as the right to data portability or to data restriction) then please send your request to [privacy@zendesk.com](https://web.archive.org/web/20190618211930id_/https://www.zendesk.com/company/customers-partners/privacy-policy/privacy@zendesk.com) and we will action your request in accordance with applicable data protection laws.
 
 You have the right to complain to your local data protection authority if you are unhappy with our data protection practices. Contact details for data protection authorities in the European Economic Area are available [here](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061).
 
@@ -268,15 +276,15 @@ If you have questions regarding this Policy or about the Zendesk Group’s priva
 
 Zendesk’s United States Representative:  
 Zendesk, Inc.   
-Attn: Hasani Caraway, Chief Privacy Officer  
+Attn: Hasani Caraway, General Counsel & Chief Privacy Officer  
 1019 Market Street  
 San Francisco, CA 94103, United States  
 [privacy@zendesk.com](mailto:privacy@zendesk.com)
 
 Zendesk’s European Representative:  
 Zendesk International Ltd  
-Attn: Rachel Tobin, Senior Corporate Counsel  
-1 Grand Parade Dublin 6 D06 R9X8 Ireland  
+Attn: Rachel Tobin, AGC, EMEA & Global Privacy Counsel  
+55 Charlemont Place, Saint Kevin’s, Dublin, D02 F985 Ireland  
 [privacy@zendesk.com](mailto:privacy@zendesk.com)
 
 **16\. English Version Controls**
