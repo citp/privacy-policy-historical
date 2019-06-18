@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the pleasanthillgrain.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401161621id_/http%3A//pleasanthillgrain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleasanthillgrain.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618035724id_/https%3A//pleasanthillgrain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pleasant Hill Grain
 
-**Pleasant Hill Grain** [ ](http://pleasanthillgrain.com/ "Pleasant Hill Grain")
+**Pleasant Hill Grain**
 
-"With twenty years experience in customer service with Fortune 500 companies, I find positive and memorable customer service experiences almost non-existence these days. It’s refreshing to deal with a company like yours!"  
-— Randy Lutterman, WY
+[ ](https://pleasanthillgrain.com/ "Pleasant Hill Grain")
+
+### HELPING YOU ACHIEVE YOUR CULINARY DREAMS
+
+"This was a great experience from beginning to end, items were exactly as advertised and they were shipped very quickly. Will definitely purchase from Pleasant Hill Grain again. Perfect!"  
+— Mike T., ID
 
 ### What personal information do we collect from people visiting our website or blog?
 
@@ -58,5 +62,9 @@ Hampton, Nebraska 68843, USA 
 
 Last Edited on 2014-10-08
 
-"Your company provides the sort of service I thought did not exist anymore. I'll purchase more things from you in the future because of your great service and your honesty."  
-— Greg Ortega, AZ
+Return to top
+
+Back to top
+
+"I have never before received such prompt service when ordering any item from a company. I placed my order late in the afternoon and had exactly what I ordered in my mailbox less than 48 hours later. It was a pleasure doing business with you."  
+— Sue Belair, WI
