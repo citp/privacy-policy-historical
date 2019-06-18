@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108150027id_/https%3A//www.mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysummercamps.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618052635id_/https%3A//www.mysummercamps.com/camps/privacy.html) for the most accurate reproduction.*
 
 # Summer Camps 2011 - MySummerCamps.com
 
@@ -50,7 +50,7 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement or the practices of the site you can contact:
 
 **MySummerCamps.com**  
-c/o Internet Brands, Inc.  
+c/o MH Sub I, LLC dba Internet Brands  
 909 Sepulveda Blvd.  
 El Segundo, 90245  
 **Phone:** 310-280-4105  
