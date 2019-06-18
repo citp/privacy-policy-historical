@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koimoi.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918171358id_/https%3A//www.koimoi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koimoi.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618122555id_/https%3A//www.koimoi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Koimoi
 
