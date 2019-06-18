@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontheflix.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204131209id_/http%3A//ontheflix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontheflix.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618074025id_/http%3A//ontheflix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OnTheFlix
 
@@ -8,20 +8,26 @@ OnTheFlix.Com is serious about protecting your online privacy. This Privacy Stat
 
 Section 1. Collected Information  
 We automatically collect and/or track the following:  
-1\. web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);  
+1\. web page http headers (home server domain names, IP address, type of client computer, and type of Web browser).  
 2\. information knowingly provided by you through on-line forms, registration forms, surveys, and or other entries, such as e-mail addresses, personal, financial or demographic information;  
 3\. information, user specific or aggregate, on what pages our visitors access and  
-4\. the e-mail addresses of visitors that communicate with TopStuf.Com via e-mail.
+4\. the e-mail addresses of visitors that communicate with OnTheFlix.Com via e-mail.
 
 Section 2. Use of Data Collected  
-We use your personal, demographic and profile data to enhance your experience at our site, enabling us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for marketing and promotional purposes, for statistical analysis, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online.
+We use your personal, demographic and profile data to enhance your experience at our site, enabling us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. 
+
+We may also use your personal, demographic and profile data to improve our site, for marketing and promotional purposes, for statistical analysis, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online.
 
 Section 3. Disclosure of Data to Third Parties  
-We will only disclose to third parties information knowingly and voluntarily disclosed by you, or aggregate demographic and profile data. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be carefully prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.  
+We will only disclose to third parties information knowingly and voluntarily disclosed by you, or aggregate demographic and profile data. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. 
+
+Any third party we share, rent, sell, or otherwise disclose data to will be carefully prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.  
 This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites.
 
 Section 4. Your Opt-Out Rights  
-You may opt-out of receiving communications from us and or our partners when we request your information. We also allow you to remove your information from our database. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondences to you. You can remove your information by writing to us via postal mail at the address below, by sending an e-mail requesting removal to andreflash1@gmail.com, by visiting OnTheFlix.Com and requesting your profile be deleted through our opt out procedures or by clicking here.
+You may opt-out of receiving communications from us and or our partners when we request your information. We also allow you to remove your information from our database. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondences to you. 
+
+You can remove your information by writing to us via postal mail at the address below, by sending an e-mail requesting removal to andreflash1@gmail.com, by visiting OnTheFlix.Com and requesting your profile be deleted through our opt out procedures or by clicking here.
 
 Section 5. Your Rights To Your Personal Data  
 Upon request via postal mail or e-mail, we will provide you a summary of personal information retained by us. We will only send your personal records to your e-mail address or postal address we have on file for you. You may modify, correct, change, or update your personal record or remove your personal record from our database by contacting OnTheFlix.Com via postal mail at the address below, via e-mail to andreflash1@gmail.com.
@@ -34,10 +40,26 @@ We reserve the right to contact you regarding your account status and changes to
 
 Section 8. Our Right To Change  
 We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: andreflash1@gmail.com
 
-Section 9. We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp.  
+Section 9. We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the NAI (National Advertising Initiative) Opt-Out page at: [ http://optout.networkadvertising.org/?c=1](http://optout.networkadvertising.org/?c=1)
+
+To opt out of DAA (Digital Advertising Alliance), please visit their opt-out page at:  
+[ http://optout.aboutads.info/?c=2&lang=EN](http://optout.aboutads.info/?c=2&lang=EN)
+
+You may also visit the DAA homepage at: [ https://digitaladvertisingalliance.org/](https://digitaladvertisingalliance.org/)
+
+To opt out of Adblade advertising, please visit: [ https://www.adblade.com/doc/opt-out-in](https://www.adblade.com/doc/opt-out-in)
+
+Google Analytics – we use Google Analytics to collect data about website usage. This data does not include personally identifiable information. You can view the Google Privacy Policy here: [ https://policies.google.com/privacy ](https://policies.google.com/privacy)
+
+To opt out of Google Analytics, please visit their opt-out page at: [ https://tools.google.com/dlpage/gaoptout ](https://tools.google.com/dlpage/gaoptout)
+
+To opt out of Quantcast analytics, please visit their opt-out page at: [ https://www.quantcast.com/opt-out/](https://www.quantcast.com/opt-out/)
+
 OnTheFlix.Com  
-3847 Timberglen Rd #3016  
+18809 Lina Street #4309  
 Dallas,Texas 75287  
 (972)672-5369
