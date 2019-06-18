@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webnovel.com privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231195547id_/https%3A//www.webnovel.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webnovel.com privacy policy that was archived on 2019-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190618050058id_/https%3A//www.webnovel.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>		
 		
@@ -42,11 +42,11 @@
 			} else {
                 matchedUrl = defaultUrl + location.pathname;
             }
-		} else if(/^\/giftcard$/.test(curUrl)){
+		} else if(/^\/giftcard$/.test(curUrl)){ // 礼品卡
 		    matchedUrl = defaultUrl + location.pathname;
         } else if(curUrl == '/'){
             matchedUrl = defaultUrl;
-        }else if(/^\/comic\/\d+$/.test(curUrl) || /^\/comic\/\d+\/[^\/]+$/.test(curUrl)){
+        }else if(/^\/comic\/\d+$/.test(curUrl) || /^\/comic\/\d+\/[^\/]+$/.test(curUrl)){ // 漫画
             matchedUrl = defaultUrl + location.pathname;
         }else if(!/^\/events\//.test(curUrl) && !/^\/email\/validate/.test(curUrl) && !/^\/57880040\/invite/.test(curUrl)){//events等活动页也不做跳转 && 以及邮箱验证页面也不做跳转
             matchedUrl = defaultUrl;
@@ -63,7 +63,11 @@
 	document.domain = 'webnovel.com';
 </script>
 
-		<link data-ignore="true" rel="stylesheet" href="//www.yueimg.com/en/css/common/global.cc096.css">
+		<link data-ignore="true" rel="stylesheet" href="//www.yueimg.com/en/css/common/global.4aae5.css">
+
+<link rel="stylesheet" data-ignore="true" href="//www.yueimg.com/c/=/en/css/common/utils/tabNav.95617.css,/en/css/task/index2.4a651.css,/en/css/common/utils/app.2c775.css">
+
+
 		
 <link rel="stylesheet" data-ignore="true" href="//www.yueimg.com/c/=/en/css/terms/index.5ebd9.css">
 
@@ -437,13 +441,12 @@
 			<p class="g_ft_links">
 				<a href="//www.qidian.com/" title="QiDian">QiDian</a>
 				<a href="//www.yuewen.com/" title="Yuewen">Yuewen</a>
-				<a href="https://www.dramafever.com" title="DramaFever" target="_blank">DramaFever</a>
 			</p>
 		</div>
 	</div>
 </div>
 <script>;</script>
-<script defer="defer" type="text/javascript" src="//www.yueimg.com/en/js/common/utils/iconfont.1292b.js" data-ignore="true"></script>
+<script defer="defer" type="text/javascript" src="//www.yueimg.com/en/js/common/utils/iconfont.14abb.js" data-ignore="true"></script>
 
 
 
@@ -609,17 +612,17 @@
 <a class="g_hd_link" href="/library" data-report-eid="qi_A03"><span>Library</span></a>
 <a class="g_hd_link g_hd_msg j_message" href="/message" title="Inbox" data-report-eid="qi_A04"><span>Inbox</span></a>
 <span tabindex="8" class="g_user g_dropdown _hover <%if(data.user.isCheckIn){ %>_stone_plus<% } %>">
-    <img class="g_drop_hd _hd" src="<%= getUserAvatar(env, data.user.guid, 200, data.user.UUT) || defaultAvatar%>" alt="<%= data.user.userName%>">
+    <img class="g_drop_hd _hd" src="<%= getUserAvatar(env, data.user.guid, 200, data.user.UUT, 10) || defaultAvatar%>" alt="<%= data.user.userName%>">
     <div class="g_drop_bd _dark _bd">
         <ul>
             <li class="g_drop_item">
                 <div class="g_user_info">
-                    <a href="<%= getUserHomeUrl(data.user.guid)%>" title="My Profile" class="_avatar" data-report-eid="qi_A10">
-                        <img class="fl mr8" src="<%= getUserAvatar(env, data.user.guid, 200, data.user.UUT) || defaultAvatar%>" alt="<%= data.user.userName%>">
+                    <a href="<%= getUserHomeUrl(data.user.guid, 10)%>" title="My Profile" class="_avatar" data-report-eid="qi_A10">
+                        <img class="fl mr8" src="<%= getUserAvatar(env, data.user.guid, 200, data.user.UUT, 10) || defaultAvatar%>" alt="<%= data.user.userName%>">
                     </a>
                     <div class="_info">
                         <div class="j_user_name mb4">
-                            <a href="<%= getUserHomeUrl(data.user.guid)%>" title="My Profile" class="_name ell fs16 fw700 vam" data-report-eid="qi_A10"><%= getUserName(data.user.role, data.user.userName, data.user.penName)%></a>
+                            <a href="<%= getUserHomeUrl(data.user.guid, 10)%>" title="My Profile" class="_name ell fs16 fw700 vam" data-report-eid="qi_A10"><%= getUserName(data.user.role, data.user.userName, data.user.penName)%></a>
                             <a href="/level" title="My level" class="<%= getLevelClass(data.user.grade)%> ml4" data-report-eid="qi_A11"><span><%= getLevel(data.user.grade)%></span></a>
                         </div>                    
                         <a href="/bill/power" title="Power & Energy Stones" data-report-eid="qi_A12"><i class="i_stone _power"></i><em class="vam fw700 j_ps_num"><%= data.user.PS != null ? data.user.PS : '--' %></em><i class="i_stone _energy"></i><em class="vam fw700 j_es_num"><%= data.user.ES != null ? data.user.ES : '--' %></em></a>
@@ -632,11 +635,15 @@
                 <a href="javascript:;" class="j_showChargeMethodMod bt" title="Get More" data-report-eid="qi_A14">Get More</a>
             </li>
             <li class="g_drop_item">
-                Check-in
-                <% var checkInClass = data.user.isCheckIn ? '_checked':''; %>
-                <a class="bt bt_ghost g_bt_checkin <%= checkInClass %> <%if(!data.user.isCheckIn){ %>j_check_in<% } %>" href="javascript:;" title="Check-in" data-report-eid="qi_A15"></a>
+               <a href="javascript:;" class="_check_in dib j_show_task_mod" data-active-type="1">
+                   <div class="text-wrap">
+                       <h2>Earn Rewards</h2>
+                       <p>by check-in and more</p>
+                   </div>
+                   <i class="_gift"></i>
+               </a>
             </li>
-            <li class="g_drop_item g_drop_link"><a href="<%= getUserHomeUrl(data.user.guid)%>" title="My Profile" data-report-eid="qi_A16">My Profile</a></li>
+            <li class="g_drop_item g_drop_link"><a href="<%= getUserHomeUrl(data.user.guid, 10)%>" title="My Profile" data-report-eid="qi_A16">My Profile</a></li>
             <li class="g_drop_item g_drop_link"><a href="/settings" data-report-eid="qi_A17">Settings</a></li>
             <li class="g_drop_item g_drop_link"><a href="/invite" data-report-eid="qi_A18">Invite Friends</a></li>
             <li class="g_drop_item g_drop_link"><a class="j_logout" href="javascript:" title="Log out" data-report-eid="qi_A19">Sign Out</a></li>
@@ -646,6 +653,7 @@
 <% } %>
 </script>
 <script id="registerUser.html" type="text/ejs-template">
+<% var data = typeof data !== 'undefined' && data && data.user ? data : { user: {}}; %>
 <div class="g_mod">
 	<a title="close" href="javascript:;" class="_close"><svg><use xlink:href="#i-times"></use></svg></a>
 	<div class="m-main">
@@ -678,13 +686,468 @@
 			<div class="_tags j_userSelectedTags fs0 tac mb16">
 				<% tags.forEach(function(item) { %>
 					<label><input type="checkbox" data-id="<%= item.tagId %>"><strong><span><%= item.tagName %></span></strong></label>
-				<% }) %>	
+				<% }) %>
 			</div>
 			<div class="_ft">
 				<button type="submit" class="bt bt_block j_submitTags" disabled>Start Reading</button>
 			</div>
 		</div>
 	</div>
+</script>
+
+
+
+<div class="taskEntryWrap">
+    
+
+
+
+
+
+<a href="#taskMod" class="task-entry j_taskEntry dn" data-active-type="1" data-report-eid="qi_B05" data-report-l1="1">
+    <span>
+        <img src="//www.yueimg.com/en/images/task/taskEntry2x.241b7.png">
+        <p class="task-entry-text">Earn Rewards</p>
+    </span>
+</a>
+</div>
+<div id="taskMod" class="g_mod_wrap g_mod_task">
+    <div class="g_mod _small">
+        <a title="close" class="_close"><svg><use xlink:href="#i-times"></use></svg></a>
+        <div class="_hd bannner">
+            <div class="bg oh">
+                <i class="pic_right"></i>
+            </div>
+            <div class="slogan">
+                <h4>Earn rewards</h4>
+                <h4>by completing the missions</h4>
+            </div>
+            <p class="mb8">Complete the daily and EXP missions, as well as every week’s reading missions to obtain EXP and SS as rewards.</p>
+            <strong class="fs0">
+                <span class="learn-more">Learn more about the rules</span>
+                <i class="det-hd-help g_dropdown _hover j_learn_more">
+                    <svg><use xlink:href="#i-help"></use></svg>
+                    <span class="g_drop_bd _c _dark tal">
+                    <span class="db pt8 pl16 pr16 pb8">
+                      <span class="db">1. You can obtain the corresponding EXP and Bonus SS as rewards by completing daily missions and EXP missions, as well as weekly reading missions.</span>
+                      <span class="db">2. The obtained EXP can raise your user level. </span>
+                      <span class="db">3. Bonus SS can be used to unlock chapters, gift authors, etc. They are effective for 30 days.</span>
+                      <span class="db">4. Daily Tasks and corresponding rewards renew daily at 00:00 UTC+8. Don't forget to claim your rewards in time.</span>
+                      <span class="db">5. Weekly Reading Missions refer to the time you spend reading novels and comics on Webnovel every week.</span>
+                      <span class="db">6. The weekly reading time is calculated while your device is connected to the Internet. This might result in a delay of several minutes.</span>
+                    </span>
+                </span>
+                </i>
+            </strong>
+        </div>
+        <div class="_bd tab-container">
+           <div class="tab-wrap" data-report-l1="1">
+               <span class="j_task_nav g_tab_nav dib _slide">
+                    <a href="javascript:;" title="daily" class="_on" data-type="1" data-report-eid="qi_K02">daily</a>
+                    <a href="javascript:;" title="upgrade" data-type="2" data-report-eid="qi_K03">upgrade</a>
+                    <a href="javascript:;" title="reading" data-type="3" data-report-eid="qi_K04">reading</a>
+                    <i class="_line" style="width: 136px; left: 0px;"></i>
+                </span>
+           </div>
+            <div class="tab-content">
+                <div class="_task_list _daily j_daily_task _on" data-type="1">
+                    
+
+
+
+
+
+
+
+
+<div class="g_loading">
+    <i></i>
+</div>
+
+                </div>
+                <div class="_task_list _upgrade j_upgrade_task " data-type="2">
+                    
+
+
+
+
+
+
+
+
+<div class="g_loading">
+    <i></i>
+</div>
+
+                </div>
+                <div class="_task_list _reading j_reading_task " data-type="3">
+                   
+
+
+
+<div class="desc">
+    <h2 class="mt24 mb8">Read longer, Earn bigger</h2>
+    <p>Read on the app and claim your rewards!</p>
+    <i class="right-img"></i>
+</div>
+
+<div class="g_loading">
+    <i></i>
+</div>
+
+<div class="task-op" data-report-l1="2">
+    <a href="#getAppMod" class="bt task-btn _primary j_getApp fs14" data-report-eid="qi_K34">Download app to read</a>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="getAppMod" class="g_mod_wrap">
+	<div class="g_mod g_app_mod">
+		<a title="close" class="_close"><svg><use xlink:href="#i-times"></use></svg></a>
+		<div class="g_mod_hd">
+			<h3>Get the App</h3>
+			<p class="fs16 lh1d5 c_s fw400">Read anywhere, anytime</p>
+		</div>
+		<form id="getAppForm" class="g_app_form pr g_mod_bd" action="/ajax/mail/SendAppLink">
+			<fieldset class="pr">
+				<label class="hide">Email</label>
+				<input required="" placeholder="Enter email get the app in seconds" name="addr" pattern="^[a-z0-9._%-]+@([a-z0-9-]+\.)+[a-z]{2,4}$" type="Email" class="g_int g_int_block">
+				<button type="submit" disabled="" class="_bt pa r0 t50p">Send</button>
+			</fieldset>
+		</form>
+		<div class="g_app_bts clearfix g_mod_ft">
+			<a href="https://itunes.apple.com/us/app/qidian-the-best-webnovels-reading-app/id1234939196?ls=1&amp;mt=8" target="_blank" class="bt _icon bt_ghost fl" title="App Store">
+				<svg><use xlink:href="#i-app-apple"></use></svg><span>App Store</span>
+			</a>
+			<a href="https://play.google.com/store/apps/details?id=com.qidian.Int.reader" class="bt bt_ghost fr" target="_blank" title="Google Play">
+				<svg><use xlink:href="#i-app-gp"></use></svg><span>Google play</span>
+			</a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="//www.yueimg.com/en/js/task/iconfont.3e494.js" data-ignore="true"></script>
+<script id="dailyTaskTpl" type="text/ejs-template">
+    <% var LOADING_STATUS = 'loading'; %>
+<% var status = typeof status !== 'undefined' ? status : LOADING_STATUS; %>
+<% var msg = typeof msg !== 'undefined' ? msg: 'Something wrong, please retry.';%>
+<% var taskList = typeof data !== 'undefined' ? data.taskList : [];%>
+<% var dailyTaskMap = typeof dailyTaskMap !== 'undefined' ? dailyTaskMap : {};%>
+<% var showTip = false; %>
+<% var tips = {};%>
+<% tips['gift'] = ["Gift any 2 works. No limitations on amount.", "Click the ‘Send Gift’ button on the detailed page of the work you wish to gift.", "Choose the corresponding gift and you can support your favorite work’s author/translator by gifting."]; %>
+<% if(status == 'success'){ %>
+<% if(taskList && taskList.length){ %>
+    <ul>
+        <% for(var i = 0; i < taskList.length; i++){ %>
+        <% var task = taskList[i];%>
+        <% var needGoApp = +task.taskId === BULLET || +task.taskId === COMPLETE_DETAIL || +task.taskId === READ_THREE_CHAPTER || +task.taskId === READ_SEVEN_CHAPTER || +task.taskId === WATCH_ADS || +task.taskId === MONTH_SUBSCRIBE; %>
+        <% if(task.taskId == GIFT_TWO_BOOK){ %>
+        <% showTip = true;%>
+        <% }else{ %>
+        <% showTip = false;%>
+        <% } %>
+        <li class="task-list-item">
+            <div class="task-desc">
+                <div class="task-title mt12 mb4">
+                    <h4><%= dailyTaskMap[task.taskId] || '--'%></h4>
+                    <% if(showTip){ %>
+                    <i class="det-hd-help g_dropdown _hover j_task_rules">
+                        <svg><use xlink:href="#i-help"></use></svg>
+                        <span class="g_drop_bd _c _dark tal">
+                        <span class="db pt8 pl16 pr16 pb8">
+                            <% if(task.taskId == GIFT_TWO_BOOK){ %>
+                            <span class="db"><%= tips.gift[0]%></span>
+                            <span class="db"><%= tips.gift[1]%></span>
+                            <span class="db"><%= tips.gift[2]%></span>
+                            <% } %>
+                        </span>
+                    </span>
+                    </i>
+                    <% } %>
+                </div>
+                <% var gainArr = [];%>
+                <% if(task.ss == -1){ %>
+                <% gainArr.push('? ' + 'SS')%>
+                <% }else if(task.ss){ %>
+                <% gainArr.push(task.ss + ' ' + 'SS')%>
+                <% } %>
+                <% if(task.exp == -1){ %>
+                <% gainArr.push('? ' + 'EXP')%>
+                <% }else if(task.exp){ %>
+                <% gainArr.push(task.exp + ' ' + 'EXP')%>
+                <% } %>
+                <% if(gainArr.length){ %>
+                <p class="mb12"><%= needGoApp ? 'Complete it on app to get ' + gainArr.join(' + ') : gainArr.join(' + ') %></p>
+                <% } %>
+            </div>
+            <div class="task-op j_task_btn_wrap" data-report-l1="1">
+               <% var NOT_COMPLETE = 1; %>
+<% var NOT_CLAIM = 2; %>
+<% var CLAIMED = 3; %>
+<% var user = typeof user !== 'undefined' ? user : {};%>
+<% var status = +user.status; %>
+<% var needGoApp = +task.taskId === BULLET || +task.taskId === COMPLETE_DETAIL || +task.taskId === READ_THREE_CHAPTER || +task.taskId === READ_SEVEN_CHAPTER || +task.taskId === WATCH_ADS || +task.taskId === MONTH_SUBSCRIBE; %>
+<% var hasProgress = false; %>
+<% if(+task.taskId === COMPLETE_DETAIL || +task.taskId === GIFT_TWO_BOOK){ %>
+    <% if(+task.completeStatus === NOT_COMPLETE && task.completePercentage < 100){ %>
+        <% hasProgress = true; %>
+    <% } %>
+<% } %>
+<% if(status !== 0){ %>
+    <a href="javascript:" class="bt task-btn _primary j_login">complete</a>
+<% }else{ %>
+    <% if(+task.taskId === CHECK_IN && +task.completeStatus === 1){ %>
+    <% task.completeStatus = NOT_CLAIM; %>
+    <% } %>
+    <% if(needGoApp){ %>
+    <a href="#getAppMod" class="bt task-btn _primary j_getApp <% if(hasProgress){ %>mt12<% } %>" data-task-id="<%= task.taskId%>" data-report-eid="<%= taskEidMap[task.taskId].complete%>">get the app</a>
+    <% }else if(+task.completeStatus === NOT_COMPLETE){ %>
+    <a href="javascript:" class="bt task-btn _primary j_complete_task <% if(hasProgress){ %>mt12<% } %>" data-task-id="<%= task.taskId%>" data-report-eid="<%= taskEidMap[task.taskId].complete%>">complete</a>
+    <% }else if(+task.completeStatus === NOT_CLAIM){ %>
+    <a href="javascript:" class="bt task-btn _warning j_claim_task" data-task-id="<%= task.taskId%>" data-report-eid="<%= taskEidMap[task.taskId].claim%>">claim</a>
+    <% }else if(+task.completeStatus === CLAIMED){ %>
+    <a href="javascript:" class="bt task-btn _success" disabled>claimed</a>
+    <% }else{ %>
+    <a href="javascript:" class="bt task-btn _primary j_complete_task">complete</a>
+    <% } %>
+<% } %>
+<% if(hasProgress){ %>
+<div class="task-progress tac">
+                <span class="complete-progress-bar dib vam">
+                        <i class="on-progress" style="width: <%= task.completePercentage%>%"></i>
+                    </span>
+    <span class="progress-text dib vam"><%= task.completePercentage%>%</span>
+</div>
+<% } %>
+            </div>
+        </li>
+        <% } %>
+    </ul>
+    <% }else{ %>
+    <div class="tac mt24 mb24">No tasks here.</div>
+    <% } %>
+<% }else if(status === LOADING_STATUS){ %>
+<div class="g_loading">
+    <i></i>
+</div>
+<% }else{ %>
+<div class="tac mt24"><%= msg%></div>
+<% } %>
+</script>
+<script id="upgradeTaskTpl" type="text/ejs-template">
+    <% var LOADING_STATUS = 'loading'; %>
+<% var status = typeof status !== 'undefined' ? status : LOADING_STATUS; %>
+<% var msg = typeof msg !== 'undefined' ? msg: 'Something wrong, please retry.';%>
+<% var taskList = typeof data !== 'undefined' ? data.taskList : [];%>
+<% var upgradeTaskMap = typeof upgradeTaskMap !== 'undefined' ? upgradeTaskMap : {};%>
+<% var showTip = false; %>
+<% var tips = {};%>
+<% tips['bullet'] = "Comment on any comic you like by firing a BulleTag. You can find it on the toolbar when you read."; %>
+<% if(status == 'success'){ %>
+    <% if(taskList && taskList.length){ %>
+    <ul>
+        <% for(var i = 0; i < taskList.length; i++){ %>
+        <% var task = taskList[i];%>
+        <% var needGoApp = +task.taskId === BULLET || +task.taskId === COMPLETE_DETAIL || +task.taskId === READ_THREE_CHAPTER || +task.taskId === READ_SEVEN_CHAPTER || +task.taskId === WATCH_ADS || +task.taskId === MONTH_SUBSCRIBE; %>
+        <% if(task.taskId == BULLET){ %>
+        <% showTip = true;%>
+        <% }else{ %>
+        <% showTip = false;%>
+        <% } %>
+        <li class="task-list-item">
+            <div class="task-desc">
+                <div class="task-title mt12 mb4">
+                    <h4><%= upgradeTaskMap[task.taskId] || '--'%></h4>
+                    <% if(showTip){ %>
+                    <i class="det-hd-help g_dropdown _hover j_task_rules">
+                        <svg><use xlink:href="#i-help"></use></svg>
+                        <span class="g_drop_bd _c _dark tal">
+                        <span class="db pt8 pl16 pr16 pb8">
+                            <% if(task.taskId == BULLET){ %>
+                            <span class="db"><%= tips.bullet%></span>
+                            <% } %>
+                        </span>
+                    </span>
+                    </i>
+                    <% } %>
+                </div>
+                <% var gainArr = [];%>
+                <% if(task.ss == -1){ %>
+                <% gainArr.push('? ' + 'SS')%>
+                <% }else if(task.ss){ %>
+                <% gainArr.push(task.ss + ' ' + 'SS')%>
+                <% } %>
+                <% if(task.exp == -1){ %>
+                <% gainArr.push('? ' + 'EXP')%>
+                <% }else if(task.exp){ %>
+                <% gainArr.push(task.exp + ' ' + 'EXP')%>
+                <% } %>
+                <% if(gainArr.length){ %>
+                <p class="mb12"><%= needGoApp ? 'Complete it on app to get ' + gainArr.join(' + ') : gainArr.join(' + ') %></p>
+                <% } %>
+            </div>
+            <div class="task-op j_task_btn_wrap" data-report-l1="2">
+                <% var NOT_COMPLETE = 1; %>
+<% var NOT_CLAIM = 2; %>
+<% var CLAIMED = 3; %>
+<% var user = typeof user !== 'undefined' ? user : {};%>
+<% var status = +user.status; %>
+<% var needGoApp = +task.taskId === BULLET || +task.taskId === COMPLETE_DETAIL || +task.taskId === READ_THREE_CHAPTER || +task.taskId === READ_SEVEN_CHAPTER || +task.taskId === WATCH_ADS || +task.taskId === MONTH_SUBSCRIBE; %>
+<% var hasProgress = false; %>
+<% if(+task.taskId === COMPLETE_DETAIL || +task.taskId === GIFT_TWO_BOOK){ %>
+    <% if(+task.completeStatus === NOT_COMPLETE && task.completePercentage < 100){ %>
+        <% hasProgress = true; %>
+    <% } %>
+<% } %>
+<% if(status !== 0){ %>
+    <a href="javascript:" class="bt task-btn _primary j_login">complete</a>
+<% }else{ %>
+    <% if(+task.taskId === CHECK_IN && +task.completeStatus === 1){ %>
+    <% task.completeStatus = NOT_CLAIM; %>
+    <% } %>
+    <% if(needGoApp){ %>
+    <a href="#getAppMod" class="bt task-btn _primary j_getApp <% if(hasProgress){ %>mt12<% } %>" data-task-id="<%= task.taskId%>" data-report-eid="<%= taskEidMap[task.taskId].complete%>">get the app</a>
+    <% }else if(+task.completeStatus === NOT_COMPLETE){ %>
+    <a href="javascript:" class="bt task-btn _primary j_complete_task <% if(hasProgress){ %>mt12<% } %>" data-task-id="<%= task.taskId%>" data-report-eid="<%= taskEidMap[task.taskId].complete%>">complete</a>
+    <% }else if(+task.completeStatus === NOT_CLAIM){ %>
+    <a href="javascript:" class="bt task-btn _warning j_claim_task" data-task-id="<%= task.taskId%>" data-report-eid="<%= taskEidMap[task.taskId].claim%>">claim</a>
+    <% }else if(+task.completeStatus === CLAIMED){ %>
+    <a href="javascript:" class="bt task-btn _success" disabled>claimed</a>
+    <% }else{ %>
+    <a href="javascript:" class="bt task-btn _primary j_complete_task">complete</a>
+    <% } %>
+<% } %>
+<% if(hasProgress){ %>
+<div class="task-progress tac">
+                <span class="complete-progress-bar dib vam">
+                        <i class="on-progress" style="width: <%= task.completePercentage%>%"></i>
+                    </span>
+    <span class="progress-text dib vam"><%= task.completePercentage%>%</span>
+</div>
+<% } %>
+            </div>
+        </li>
+        <% } %>
+    </ul>
+    <% }else{ %>
+    <div class="tac mt24 mb24">No tasks here.</div>
+    <% } %>
+<% }else if(status == LOADING_STATUS){ %>
+<div class="g_loading">
+    <i></i>
+</div>
+<% }else{ %>
+<div class="tac mt24"><%= msg%></div>
+<% } %>
+</script>
+<script id="readingTaskTpl" type="text/ejs-template">
+    <% var LOADING_STATUS = 'loading'; %>
+<% var msg = typeof msg !== 'undefined' ? msg: 'Something wrong, please retry.';%>
+<% var status = typeof status !== 'undefined' ? status : LOADING_STATUS; %>
+<% var readingTaskMap = typeof readingTaskMap !== 'undefined' ? readingTaskMap : [];%>
+<div class="desc">
+    <h2 class="mt24 mb8">Read longer, Earn bigger</h2>
+    <p>Read on the app and claim your rewards!</p>
+    <i class="right-img"></i>
+</div>
+<% if(status == 'success'){ %>
+<div class="tasks">
+    <i class="mask"></i>
+    <div class="progress-wrap tac fs0">
+        <% for(var i = 0; i < 6; i++){ %>
+        <span class="progress-bar dib vam">
+            <i class="circle <% if(i === 5){ %>_big<% } %>"></i>
+        </span>
+        <% } %>
+        <i class="pointer"></i>
+        <i class="marker"></i>
+    </div>
+    <ul class="mt18">
+        <% for(var i = 0 ; i < readingTaskMap.length; i++){ %>
+        <% var task = readingTaskMap[i];%>
+        <li class="fl mr16">
+            <div class="time-box">
+                <div class="box-top">
+                    <h4 class="ml16"><%= task.time || '--'%></h4>
+                    <span class="ml16">mins read</span>
+                </div>
+                <div class="box-bottom">
+                    <svg class="dib vam"><use xlink:href="#i-gift"></use></svg>
+                    <span class="dib vam"><%= task.ss || '--'%> SS</span>
+                </div>
+            </div>
+        </li>
+        <% } %>
+    </ul>
+</div>
+<% }else if(status === LOADING_STATUS){ %>
+<div class="g_loading">
+    <i></i>
+</div>
+<% }else{ %>
+<div class="tac mt24 mb24"><%= msg%></div>
+<% } %>
+<div class="task-op" data-report-l1="2">
+    <a href="#getAppMod" class="bt task-btn _primary j_getApp fs14" data-report-eid="qi_K34">Download app to read</a>
+</div>
+</script>
+<script id="taskBtnTpl" type="text/ejs-template">
+    <% var NOT_COMPLETE = 1; %>
+<% var NOT_CLAIM = 2; %>
+<% var CLAIMED = 3; %>
+<% var user = typeof user !== 'undefined' ? user : {};%>
+<% var status = +user.status; %>
+<% var needGoApp = +task.taskId === BULLET || +task.taskId === COMPLETE_DETAIL || +task.taskId === READ_THREE_CHAPTER || +task.taskId === READ_SEVEN_CHAPTER || +task.taskId === WATCH_ADS || +task.taskId === MONTH_SUBSCRIBE; %>
+<% var hasProgress = false; %>
+<% if(+task.taskId === COMPLETE_DETAIL || +task.taskId === GIFT_TWO_BOOK){ %>
+    <% if(+task.completeStatus === NOT_COMPLETE && task.completePercentage < 100){ %>
+        <% hasProgress = true; %>
+    <% } %>
+<% } %>
+<% if(status !== 0){ %>
+    <a href="javascript:" class="bt task-btn _primary j_login">complete</a>
+<% }else{ %>
+    <% if(+task.taskId === CHECK_IN && +task.completeStatus === 1){ %>
+    <% task.completeStatus = NOT_CLAIM; %>
+    <% } %>
+    <% if(needGoApp){ %>
+    <a href="#getAppMod" class="bt task-btn _primary j_getApp <% if(hasProgress){ %>mt12<% } %>" data-task-id="<%= task.taskId%>" data-report-eid="<%= taskEidMap[task.taskId].complete%>">get the app</a>
+    <% }else if(+task.completeStatus === NOT_COMPLETE){ %>
+    <a href="javascript:" class="bt task-btn _primary j_complete_task <% if(hasProgress){ %>mt12<% } %>" data-task-id="<%= task.taskId%>" data-report-eid="<%= taskEidMap[task.taskId].complete%>">complete</a>
+    <% }else if(+task.completeStatus === NOT_CLAIM){ %>
+    <a href="javascript:" class="bt task-btn _warning j_claim_task" data-task-id="<%= task.taskId%>" data-report-eid="<%= taskEidMap[task.taskId].claim%>">claim</a>
+    <% }else if(+task.completeStatus === CLAIMED){ %>
+    <a href="javascript:" class="bt task-btn _success" disabled>claimed</a>
+    <% }else{ %>
+    <a href="javascript:" class="bt task-btn _primary j_complete_task">complete</a>
+    <% } %>
+<% } %>
+<% if(hasProgress){ %>
+<div class="task-progress tac">
+                <span class="complete-progress-bar dib vam">
+                        <i class="on-progress" style="width: <%= task.completePercentage%>%"></i>
+                    </span>
+    <span class="progress-text dib vam"><%= task.completePercentage%>%</span>
+</div>
+<% } %>
+</script>
+<script id="taskEntryTpl" type="text/ejs-template">
+    <% var defaultActiveTab = 1;%>
+<% var taskText = typeof data !== 'undefined' && data.adv && data.adv.text; %>
+<% var taskImg = typeof data !== 'undefined' && data.adv && data.adv.imageUrl; %>
+<% var taskActionUrl = typeof data !== 'undefined'&& data.adv && data.adv.actionUrl; %>
+<% var isGoingTask = true; %>
+<% if(taskActionUrl && taskActionUrl.indexOf('task') == -1){ %>
+<% isGoingTask = false;%>
+<% } %>
+<a href="<%= isGoingTask ? '#taskMod' : taskActionUrl%>" class="task-entry <% if(isGoingTask){ %>j_taskEntry<% } %> dn" data-active-type="<%= defaultActiveTab%>" data-report-eid="qi_B05" data-report-l1="1">
+    <span>
+        <img src="<%= taskImg || defaultTaskImg %>" />
+        <p class="task-entry-text"><%= taskText || 'Earn Rewards'%></p>
+    </span>
+</a>
 </script>
 
 <script data-ignore="true" src="//www.yueimg.com/en/js/common/utils/raven.62118.js" crossorigin="anonymous"></script>
@@ -812,11 +1275,11 @@
 </p>
 <% } %>
 </script>
-<script id="LBFnode" data-ignore="true" src="//www.yueimg.com/lbf/2.0.1.5/LBF.js?max_age=31536000"></script>
+<script id="LBFnode" data-ignore="true" src="//www.yueimg.com/lbf/2.0.2.1/LBF.js?max_age=31536000"></script>
 <script>
     LBF.config({"paths":{"site":"//www.yueimg.com/en/js","en":"//www.yueimg.com/en"},"vars":{"theme":"//www.yueimg.com/en/css"},"combo":true,"debug":false});
     setTimeout(function(){
-        LBF.use(['lib.jQuery', 'en/js/common/index.59031.js'], function ($, Index) {
+        LBF.use(['lib.jQuery', 'en/js/common/index.f5650.js'], function ($, Index) {
             // 页面逻辑入口
             if(Index && typeof Index === 'function'){
                 new Index();
