@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ocs.ca privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017173642id_/https%3A//ocs.ca/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocs.ca privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618185502id_/https%3A//ocs.ca/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ontario Cannabis Store
 
 **Policy Statement**
 
-The Ontario Cannabis Retail Corporation, doing business as the Ontario Cannabis Store (“OCS”) is committed to protecting the privacy of its customers, in accordance with Ontario’s _Freedom of Information and Protection of Privacy Act_ (“FIPPA”).
+The Ontario Cannabis Retail Corporation, doing business as the Ontario Cannabis Store (“OCS”) is committed to protecting the privacy of its customers, in accordance with Ontario’s [_Freedom of Information and Protection of Privacy Act_](https://www.ontario.ca/laws/statute/90f31 "Freedom of Information and Protection of Privacy Act") (“FIPPA”).
 
 OCS is responsible for protection of personal information in its custody or under its control.  This Policy describes key principles and practices followed by OCS with respect to its collection, use, disclosure, retention and disposal of personal information.
 
@@ -14,7 +14,7 @@ Personal information is information about an identifiable individual in their pe
 
 **Statutory Authority for Collecting Personal Information**
 
-The Ontario government has established OCS as the province’s exclusive legal online retailer for the sale of recreational cannabis under the _Ontario Cannabis Retail Corporation Act_ , 2017, S.O. 2017.
+The Ontario government has established OCS as the province’s exclusive legal online retailer for the sale of recreational cannabis under the [_Ontario Cannabis Retail Corporation Act_ , 2017, S.O. 2017](https://www.ontario.ca/laws/statute/17o26 "Ontario Cannabis Retail Corporation Act 2017, S.O. 2017").
 
 **What Personal Information Do We Collect and Why?**
 
@@ -49,7 +49,7 @@ At delivery, you may be asked to present valid government photo identification t
 
 All returns are subject to the OCS return policy.  If you contact us for a refund, or to register a complaint about a product you purchased from OCS, the personal information from your original order will be used.
 
-OCS will need to collect details of your reason for return, for product quality assurance and customer care purposes, and to protect against fraud.  Certain product quality issues are subject to Health Canada’s cannabis or consumer product regulations, which require us to report complaint details to suppliers and/or Health Canada.  In these cases, OCS does not share your personal information with Health Canadaunless Health Canada specifically requests it from us for the purpose of following up directly with you.  OCS will not share your personal information with a supplier unless you give us your express consent to do so. Your consent, if given, will allow the supplier to contact you in the event they need more information to investigate the issue.  Alternatively, you may choose to contact the supplier yourself.
+OCS will need to collect details of your reason for return, for product quality assurance and customer care purposes, and to protect against fraud.  Certain product quality issues are subject to Health Canada’s cannabis or consumer product regulations, which require us to report complaint details to suppliers and/or Health Canada.  In these cases, OCS does not share your personal information with Health Canada unless Health Canada specifically requests it from us for the purpose of following up directly with you.  OCS will not share your personal information with a supplier unless you give us your express consent to do so. Your consent, if given, will allow the supplier to contact you in the event they need more information to investigate the issue.  Alternatively, you may choose to contact the supplier yourself.
 
 **Public Enquiries and Customer Care**
 
@@ -134,16 +134,4 @@ OCS has the discretion to update this Policy at any time. When we do, we will po
 
 **Contacting Us**
 
-If you have any questions or concerns about the privacy of your personal information or this Policy, or wish to file a formal request for access or correction to your personal information under FIPPA, you may contact the OCS Senior FOI and Privacy Advisor at:
-
-1 Yonge Street
-
-Toronto, Ontario
-
-M5E 1E5
-
-Telephone 1-888-910-0627. 
-
-E-mail: foi.privacy@ocs.ca
-
-Last Updated:  October 1, 2018
+If you have any questions or concerns about the privacy of your personal information, or wish to make a request for general records, one’s own personal information, or a correction to one’s own personal information, held by us, [click here](https://ocs.ca/pages/freedom-of-information "Freedom of Information").
