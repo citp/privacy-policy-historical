@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oberlo.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214161827id_/https%3A//www.oberlo.com/legal%231487148755752-279b9c5c-d9af) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oberlo.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618024625id_/https%3A//www.oberlo.com/legal%231487148755752-279b9c5c-d9af) for the most accurate reproduction.*
 
-# Legal - Oberlo
+# Legal
 
 Last updated May 24, 2018
 
