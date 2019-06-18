@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dayoneapp.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227074923id_/http%3A//dayoneapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayoneapp.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618090959id_/https%3A//dayoneapp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Day One
+# Privacy Policy - Day One
 
 The Day One app and its accompanying services are designed to maintain the private nature of your personal journal. This privacy policy outlines what information is collected and stored by Day One.
 
