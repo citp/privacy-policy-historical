@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thewirecutter.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231204957id_/https%3A//thewirecutter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewirecutter.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618103216id_/https%3A//thewirecutter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Reviews by Wirecutter | A New York Times Company
 
-_Last updated: May 23, 2018_
+_Last updated: January 4, 2019_
 
 The operator of this website, Wirecutter, Inc. (“ **Wirecutter** ,” “ **we** ” or “ **us** ”) cares about your privacy and the security of your information. We want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through this website (the “ **Site** ”), social media pages (“ **Social Media Pages** ”), HTML-formatted email message that we send to you (“ **Emails** ”), our offline contacts and any other services that display this Privacy Policy (“ **Other Services** ”) (collectively referenced in this Privacy Policy as the “ **Services** ”). 
 
@@ -44,15 +44,16 @@ From time to time, we may change the Privacy Policy. When we do, the “Last Upd
 
 ### PERSONAL INFORMATION THAT WE COLLECT
 
-When you use our Services by, among other actions, subscribing to our newsletter, browsing our Site or otherwise interacting with our Services, we gather personal information. This information is necessary for delivering you the Services or enhancing your customer experience.
+When you use our Services by, among other actions, creating an account, subscribing to our newsletter, browsing our Site or otherwise interacting with our Services, we gather personal information. This information is necessary for delivering you the Services or enhancing your customer experience. 
 
 Personal information is information that identifies you as an individual or relates to an identifiable individual. Several types of personal information can be are gathered when you interact with the Services. Examples of such personal information include your name, email address, demographic data (such as age, gender and zip code) and interests. 
 
 ### COLLECTION OF PERSONAL INFORMATION
 
-We and our service providers collect personal information in a variety of ways including when you:
+We and our service providers collect personal information in a variety of ways including when you: 
 
-  * Use the Services
+  * Use the Services;
+  * Create an account to have access to particular features or components of the Services;
   * Sign up to receive emails, newsletters or other communications;
   * Participate in surveys, contests, sweepstakes or other promotions offered via the Services;
   * Request customer service or other assistance; 
@@ -68,15 +69,15 @@ If you disclose any personal information relating to other people to us or to ou
 We collect, use or otherwise process personal information as allowed under applicable law, including where based on one or more of the following:
 
   * The performance of the contract we have with you; 
-  * The legitimate interests of Wirecutter, a third party or yourself. “Legitimate interest” is a technical term under the regulation. It means that there are good reasons for the processing of your personal information and measures are taken to minimize the impact on your privacy rights and interests. “Legitimate interest” also references our use of your data in ways you would reasonably expect and that have a minimal privacy impact. We have a legitimate interest in collecting and processing personal information, for example: (1) to ensure that our networks and information are secure; (2) to administer and generally conduct business within Wirecutter; and (3) to prevent fraud; 
+  * The legitimate interests of Wirecutter, a third party or yourself. "Legitimate interest" is a technical term under the regulation. It means that there are good reasons for the processing of your personal information and measures are taken to minimize the impact on your privacy rights and interests. "Legitimate interest" also references our use of your data in ways you would reasonably expect and that have a minimal privacy impact. We have a legitimate interest in collecting and processing personal information, for example: (1) to ensure that our networks and information are secure, (2) to administer and generally conduct business within Wirecutter, and (3) to prevent fraud; 
   * The compliance of a legal obligation to which we are subject; or
   * The consent you provide to us at the point of collection of your personal information.
 
 
 
-We use personal information to:
+We use personal information to: 
 
-  * Provide you with content and services that you request;
+  * Provide you with content and services that you request or that we think is relevant to you;
   * Communicate with you about changes to our policies;
   * Send you newsletters and emails;
   * Provide you with advertising, including advertising based on your activity on our Services or activity on third-party sites and applications;
@@ -117,7 +118,7 @@ Please remember that any information you share in public areas, such as comment 
 
 ### OTHER INFORMATION 
 
-Other information is any information that does not specifically identify you and is collected through technology includes tracking information collected by us as well as third parties. Other information includes:
+Other information is any information that does not specifically identify you and is collected through technology includes tracking information collected by us as well as third parties. Other information includes: 
 
   * Information about your computer, mobile device, or other device that you use to access the Services such as your device type and brand, operating system, unique device identifiers, browser type, browser client ID, browser language, Internet Service Provider;
   * Usage information about your use of our Services, such as a reading history of the pages you view;
@@ -137,11 +138,11 @@ We and our service providers may collect other information in a variety of ways,
 
 Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Mac), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and the name and version of the Services you are using. We use this information to ensure that the Services function properly.
 
-#### Using cookies, pixel tags and other similar technologies
+#### Using cookies, pixel tags and other similar technologies:
 
 Like many websites, our Services may use “cookies”, which are small text files that are stored on your computer or equipment when you visit certain online pages and that record your preferences and actions. We use cookies to track use of our Services. We may also use cookies to monitor traffic, improve the Services and make it easier and/or relevant for your use.
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. If you delete your cookies or if you set your web browser to decline cookies, some features of the Services may not work or may not work as designed. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. If you delete your cookies or if you set your web browser to decline cookies, some features of the Services may not work or may not work as designed. For more information on cookies and how to disable them, you can consult the information provided at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends.  This service may also collect information regarding the use of other websites, apps and online resources.  You can learn about Google’s practices by going to [www.google.com/policies/privacy/‌partners/](http://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>. 
 
@@ -149,7 +150,9 @@ Pixel tags (also known as web beacons and clear GIFs) are used to, among other t
 
 We may also use web beacons. A web beacon (also known as an “action tag”, “tracer tag” or “single-pixel gif”) is an invisible graphic on a web page that is programmed to collect information about your use of a given website and deliver cookies.
 
-#### IP address
+To learn more, please check our [Cookie Policy](https://thewirecutter.com/cookie-policy/).
+
+#### IP address:
 
 As noted above, we collect and store your device’s source IP address. Your IP address is automatically assigned to your computer by your internet service provider. An IP address discloses the general location (i.e. city, state, country and continent) of your device at the time you access the Services. We may use your device’s IP address to:
 
@@ -172,7 +175,7 @@ Unless we specifically request it (for example, in connection with a particular 
 
 ### INFORMATION SECURITY
 
-We use reasonable efforts to safeguard personal information. However, no data storage system or transmission method can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information (including personal information) that we obtain. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contacting Us” section above.
+We use reasonable efforts to safeguard personal information. However, no data storage system or transmission method can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information (including personal information) that we obtain. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contacting Us” section below.
 
 ### OPT-OUT INSTRUCTIONS
 
@@ -220,7 +223,7 @@ In addition, we are not responsible for the information collection, use, disclos
 
 The Services is not directed to children and we do not knowingly collect or store any personal information from children except as permitted by applicable law.
 
-If you are a resident of California, USA, under 18 years old and a registered user of the NYT Services, please see above “How do I access, change or update my personal information?”
+If you are a resident of California, USA, under 18 years old and a registered user of the Services, please see above “How You Can Access, Change or Delete Your Personal Information.”
 
 ### YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -228,7 +231,7 @@ Under the California “Shine The Light” law, California residents may opt out
 
 ### INTERNATIONAL TRANSFERS
 
-Wirecutter, Inc. is headquartered in the United States. The information you provide to us or that we obtain as a result of your use of the Services is collected in your country and subsequently transferred to the United States or to another country where we have facilities or our affiliates operate or in which we engage service providers.
+Wirecutter is headquartered in the United States. The information you provide to us or that we obtain as a result of your use of the Services is collected in your country and subsequently transferred to the United States or to another country where we have facilities or our affiliates operate or in which we engage service providers.
 
 Some countries that are not located in the European Economic Area (EEA) are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available [here](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm)). For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, including by ensuring that the recipient is bound by EU Standard Contractual Clauses, to protect your personal data.  To obtain a copy of these measures click [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en).
 
@@ -238,4 +241,4 @@ In certain circumstances, courts, law enforcement agencies, regulatory agencies 
 
 If you are located in the EEA, you also may lodge a complaint with a data protection authority for your country or region or where an alleged infringement of applicable data protection law occurs. A list of data protection authorities is available at [http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080](https://protect-us.mimecast.com/s/GVKtCmZM8ki2Bq0BH312ig). 
 
-_Copyright 2018 Wirecutter, Inc. All rights reserved._
+_Copyright 2019 Wirecutter, Inc. All rights reserved._
