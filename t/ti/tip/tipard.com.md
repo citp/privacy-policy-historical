@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipard.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226042831id_/https%3A//www.tipard.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipard.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618175941id_/https%3A//www.tipard.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Tipard
 
