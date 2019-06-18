@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the cashroadster.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202190221id_/http%3A//cashroadster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashroadster.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618165721id_/http%3A//cashroadster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cash Roadster
 
-Last updated: May,2018
+Last updated: March, 2019
 
-CashRoadster LTD (“us”, “we”, or “our”) operates the [http://www.CashRoadster.com](http://www.omgstudios.com/) website (the “Service”).  
+CashRoadster LTD (“us”, “we”, or “our”) operates the http://www.CashRoadster.com website (the “Service”).  
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
 We will not use or share your information with anyone except as described in this Privacy Policy.  
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://www](http://www/).CashRoadster.com
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.CashRoadster.com
 
 **Information Collection And Use**
 
