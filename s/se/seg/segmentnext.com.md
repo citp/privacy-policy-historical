@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segmentnext.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229123229id_/https%3A//segmentnext.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segmentnext.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618225626id_/https%3A//segmentnext.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SegmentNext
 
