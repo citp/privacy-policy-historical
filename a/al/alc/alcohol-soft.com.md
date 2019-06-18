@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alcohol-soft.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211223315id_/http%3A//www.alcohol-soft.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcohol-soft.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618135330id_/http%3A//www.alcohol-soft.com/en/privacy.php) for the most accurate reproduction.*
 
 # DVD Burning Software Alcohol 120% - Privacy policy
 
@@ -19,8 +19,9 @@ We have security measures in place intended to assist in preventing unauthorized
 
 You can review, edit, or delete the personally identifiable information that we have collected about you online that we maintain log in to your profile and edit accordingly. However, please understand that although this information, once deleted, is not available on the Sites, that information may remain stored indefinitely in our backup and archival records. 
 
-**Advertising**  
-We may use [third-party advertising companies](http://dc670wim3h8x4.cloudfront.net/pp.html) to serve ads when you visit our website. 
+**Advertising**
+
+In return for some of the premium features of Alcohol Software, you may choose to be a peer on the Luminati network. By doing so you agree to have read and accepted the term of service of the [Luminati SDK EULA.](https://luminati.io/legal/sdk-sla) You may opt out of the network from settings. Your use of Alcohol Software is free of charge in exchange for safely using some of your device's resources, and only when you are not using your device. You may turn this off from the settings menu. Please see our TOS for further information. We may use [third-party advertising companies](http://dc670wim3h8x4.cloudfront.net/pp.html) to serve ads when you visit our website. 
 
 **More Information**  
 If you have any comments or questions about your privacy or, please contact us via the form available on our website. 
@@ -32,4 +33,4 @@ Dundonald Enterprise Park
 Dundonald   
 Belfast BT16 1QT   
 UK   
-+44(0)2890 484622 
++44(0)7801332131 
