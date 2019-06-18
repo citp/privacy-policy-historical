@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the turbomagazine.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526053730id_/https%3A//www.motortrendgroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbomagazine.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618083040id_/https%3A//www.motortrendgroup.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Motor Trend Group
+# Privacy - MotorTrend Group
 
 This privacy policy applies only to the websites and applications controlled by Motor Trend Group, LLC, and/or their subsidiary and affiliated entities (collectively, “MTG,” “we” or “us”) where this privacy policy is posted (collectively, the “Sites”).
 
-#### 
+####   
+**OVERVIEW**  
 
-**OVERVIEW**
 
 **A. Who We Are:**
 
@@ -14,7 +14,7 @@ We are Motor Trend Group. We provide a range of free and paid-for content servic
 
 We are based in the United States. Our company details are in WHO WE ARE section below.
 
-If you have any questions or need any help in relation to our privacy policy, please contact our Data Protection Officer at privacy_policy@discovery.com.
+If you have any questions or need any help in relation to our privacy policy, please contact our Data Protection Officer at dpo@discovery.com.
 
 **B. Our Values And What This Privacy Policy Is For:**
 
@@ -23,9 +23,13 @@ In line with these values, this privacy policy tells you what to expect when we 
 
 We are always looking to improve the information we provide to our customers and contacts so if you have any feedback on this privacy policy, please let us know using our contact details in the CONTACT section.
 
-**C. Who This Privacy Policy Applies To:** This privacy policy applies to all users of our Services.
+**C. Who This Privacy Policy Applies To:**
 
-**D. What This Privacy Policy Contains:** This privacy policy describes the following important topics relating to your information:
+This privacy policy applies to all users of our Services.
+
+**D. What This Privacy Policy Contains:**
+
+This privacy policy describes the following important topics relating to your information:
 
 WHO WE ARE
 
@@ -64,8 +68,6 @@ CONTACT, COMPLAINTS, QUESTIONS AND SUGGESTIONS
 1\. Ask us to stop using your personal information for direct marketing purposes. If you exercise this right, we will stop using your personal information for this purpose; and  
 2\. Ask us to consider any valid objections which you have to our use of your personal information where we process your personal information on the basis of our, or another person’s, legitimate interest.  
 You can find out more information in YOUR RIGHTS section 0.  
-
-
 **F. What You Need To Do And Your Confirmation To Us:** Please read this privacy policy carefully to understand how we handle your personal information.
 
 **THE DETAIL**
@@ -74,13 +76,11 @@ You can find out more information in YOUR RIGHTS section 0.
 
 We are Motor Trend Group, LLC, registered in the United States of America with company number 6453648 whose registered office is at 1 Discovery Place, Silver Spring, MD 20910, United States of America (“MTG”) and we are the data controller of the personal information that we collect from you.
 
-You can contact us in relation to this privacy policy by e-mail to our Data Protection Officer at privacy_policy@discovery.com.  
-
+You can contact us in relation to this privacy policy by e-mail to our Data Protection Officer at dpo@discovery.com.
 
 **CHILDREN**
 
-We do not and will not knowingly collect information from any unsupervised child under the age of 13. If you are under the age of 13, you may not use the Services unless your parent or guardian has provided us with their consent for your use of the Services.  
-
+We do not and will not knowingly collect information from any unsupervised child under the age of 13. If you are under the age of 13, you may not use the Services unless your parent or guardian has provided us with their consent for your use of the Services.
 
 **THE PERSONAL INFORMATION WE COLLECT ABOUT YOU**
 
@@ -112,14 +112,12 @@ We collect the following information from your interaction with the Services:
 
 How you access our Services and the devices that you use to access our Services. This includes collecting unique online identifiers such as IP address and your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this Services; and
 
-Information about how you use the Services, including but not limited to your video consumption and playback, sign-in and sign-out, playback error and browsing information.
-
+Information about how you use the Services, including but not limited to your video consumption and playback, sign-in and sign-out, playback error and browsing information.  
 **Third Parties Or Publicly Available Sources**
 
 We may receive personal information about you from various third parties as set out below:
 
-If you log into the Services through a third-party account such as Facebook, we will collect certain information relating to your account with those third parties (including your name, profile image, age group, gender and other information available on your public profile), your date of birth and your e-mail address. You can manage the information data which is shared by such third parties with us by amending your preferences through using the privacy settings which these third parties provide on their platforms;
-
+If you log into the Services through a third-party account such as Facebook, we will collect certain information relating to your account with those third parties (including your name, profile image, age group, gender and other information available on your public profile), your date of birth and your e-mail address. You can manage the information data which is shared by such third parties with us by amending your preferences through using the privacy settings which these third parties provide on their platforms;  
 **Technical data from the following parties:**
 
 • Analytics providers based inside and outside the US and EU, such as [e.g. Adobe Analytics and Google Analytics];
@@ -134,9 +132,9 @@ Contact, financial and transaction data from providers of technical, payment and
 
 Identity and contact data from data brokers, aggregators and publicly availably sources; and
 
-Third parties that provide certain services to us within the Services, for example, facilitating and administering customer feedback forms, newsletter subscriptions and competitions.  
+Third parties that provide certain services to us within the Services, for example, facilitating and administering customer feedback forms, newsletter subscriptions and competitions.
 
-
+  
 **HOW WE STORE AND USE YOUR PERSONAL INFORMATION**
 
 We store and use your personal information for the following reasons:
@@ -149,8 +147,7 @@ We store and use your personal information for the following reasons:
 
 • It is permitted because you have provided your consent to us.
 
-Where we need to collect personal information by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (in this case, to provide you with the Services). In this case, we may have to cancel the Services but we will notify you if this is the case at the time.
-
+Where we need to collect personal information by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (in this case, to provide you with the Services). In this case, we may have to cancel the Services but we will notify you if this is the case at the time.  
 **Necessary For Us To Fulfil Our Contract With You**
 
 We collect, store and use your personal information including your name, e-mail address, payment details, postal address and information about how you use and access the Services because it is necessary in order to provide the Services requested by you pursuant to the contract made between you and us when you agreed to our Terms of Use. This includes:
@@ -167,8 +164,7 @@ We collect, store and use your personal information including your name, e-mail 
 
 • Where you are purchasing Services from us, process your payment (including but not limited to using third party service providers to process such payment).
 
-If you have entered into a promotion or competition on the Services, then, pursuant to the promotion and/or competition terms and conditions provided to you at the time of entry, we will use your contact details (such as e-mail address or postal address) to administer your entry and inform you if you have won a prize.
-
+If you have entered into a promotion or competition on the Services, then, pursuant to the promotion and/or competition terms and conditions provided to you at the time of entry, we will use your contact details (such as e-mail address or postal address) to administer your entry and inform you if you have won a prize.  
 **Our Legitimate Interests**
 
 Sometimes, our use of your personal information is for purposes which are ancillary to the provision of the Services. In those circumstances, we believe we have a legitimate interest in handling your personal information, and believe that the benefits of this storage and use of your personal information will outweigh any potential impact on you and not unduly prejudice your rights or freedoms. The relevant circumstances are:
@@ -195,14 +191,12 @@ Sometimes, our use of your personal information is for purposes which are ancill
 
 • Where you have opted out of our marketing or objected to receiving e-mails from us, then we need to keep records of your preferences to ensure that we do not contact you if you have asked us not to.
 
-If we rely on our (or another person’s) legitimate interests for using your personal information, we will undertake a balancing test to ensure that our (or the other person’s) legitimate interests are not outweighed by your interests or fundamental rights and freedoms which require protection of the personal information. You can ask us for information on this balancing test by using the contact details in the CONTACT section.
-
+If we rely on our (or another person’s) legitimate interests for using your personal information, we will undertake a balancing test to ensure that our (or the other person’s) legitimate interests are not outweighed by your interests or fundamental rights and freedoms which require protection of the personal information. You can ask us for information on this balancing test by using the contact details in the CONTACT section.  
 **When You Have Provided Consent To Us**
 
 Where you have given us your consent (either by paying for use of a Service and/or providing consent otherwise), we will contact you by e-mail and/or text message with products and Services which we think may interest you. For more information, please see the MARKETING section below.
 
-If we rely on your consent for us to use your personal information in a particular way, but you later change your mind, you may withdraw your consent by contacting our Data Protection Officer at privacy_policy@discovery.com and we will stop doing so.
-
+If we rely on your consent for us to use your personal information in a particular way, but you later change your mind, you may withdraw your consent by contacting our Data Protection Officer at dpo@discovery.com and we will stop doing so.  
 **For Legal Reasons**
 
 We will use your personal information in order to comply with our legal obligations. These obligations include:
@@ -215,8 +209,7 @@ We will use your personal information in order to comply with our legal obligati
 
 **Anonymous Data**
 
-We collect anonymised details about visitors to our website for the purposes of aggregate statistics or reporting purposes. However, no single individual will be identifiable from the anonymised details we collect for these purposes.
-
+We collect anonymised details about visitors to our website for the purposes of aggregate statistics or reporting purposes. However, no single individual will be identifiable from the anonymised details we collect for these purposes.  
 **Marketing**
 
 **Marketing From Us**
@@ -227,16 +220,14 @@ You will receive marketing communications from us if you have requested informat
 
 **Third-Party Marketing**
 
-For those EU-based users only, we will get your express opt-in consent before we share your personal information with any company outside our group of companies for marketing purposes.
-
+For those EU-based users only, we will get your express opt-in consent before we share your personal information with any company outside our group of companies for marketing purposes.  
 **Opting Out**
 
-We want to provide you with choices regarding certain personal information uses, particularly around marketing and advertising. You can change your choices at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences in your settings. Depending on the type of user experience, we have established certain personal information control mechanisms such as accessing and adjusting account settings, or by following the opt-out links on any marketing message sent to you, or by contacting us at any time, or by emailing our Data Protection Officer at privacy_policy@discovery.com.
+We want to provide you with choices regarding certain personal information uses, particularly around marketing and advertising. You can change your choices at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences in your settings. Depending on the type of user experience, we have established certain personal information control mechanisms such as accessing and adjusting account settings, or by following the opt-out links on any marketing message sent to you, or by contacting us at any time, or by emailing our Data Protection Officer at dpo@discovery.com.
 
-You can ask us or third parties to stop sending you marketing messages at any time. You can change your choices at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences in your settings. Depending on the type of user experience, we have established certain personal information control mechanisms such as accessing and adjusting account settings, or by following the opt-out links on any marketing message sent to you, or by contacting us at any time, or by emailing our Data Protection Officer at privacy_policy@discovery.com.
+You can ask us or third parties to stop sending you marketing messages at any time. You can change your choices at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences in your settings. Depending on the type of user experience, we have established certain personal information control mechanisms such as accessing and adjusting account settings, or by following the opt-out links on any marketing message sent to you, or by contacting us at any time, or by emailing our Data Protection Officer at dpo@discovery.com.
 
-Where you opt out of receiving these marketing messages, this will not apply to personal information provided to us as a result of a product/service purchase, product/service experience or other transactions. Therefore, you will continue to receive essential messages about the functionality and/or administration of our Services (for example, as mentioned above, where we need to send you a password reminder, to notify you about Services updates or amendments to legal terms).
-
+Where you opt out of receiving these marketing messages, this will not apply to personal information provided to us as a result of a product/service purchase, product/service experience or other transactions. Therefore, you will continue to receive essential messages about the functionality and/or administration of our Services (for example, as mentioned above, where we need to send you a password reminder, to notify you about Services updates or amendments to legal terms).  
 **Third-Party Advertising Companies**
 
 We want to make sure that our advertising and marketing is relevant and interesting to you and our other users. To achieve this, we use third-party advertising and technology companies to serve ads and/or provide aggregated data to assist in serving ads when you visit or use our Services. This includes third party technology companies which collect data about you in order to build a profile of your preferences based on your activities when you visit or use our Services. We also use these companies to automatically collect data from you when you use our Services in order to help us identify the ads that are served to you and what you do after seeing those ads. In addition, we also share data with providers of web analytics tools, such as Google Analytics, to which we use to analyse your use of the Services.
@@ -245,8 +236,7 @@ These third party advertising companies collect, store and use data by integrati
 
 Please see our Cookie Policy for more information on the third party advertising companies which collect, use and store data about you, and the use of cookies and other tracking technologies on our Services. From our Cookie Policy you can also find out how to exercise control over this collection and use of data. If you choose to restrict or prevent tracking for these purposes then the advertising you see when you visit or use our Services will no longer be tailored to your preferences.
 
-We might also share your data with social media or other similar platforms, so that you and other people can see relevant content on that platform. For example, we may use the Facebook Custom Audiences service and share your email address in a protected format with Facebook so that we can: include you in a custom audience that we will serve relevant advertising content to on Facebook; or create an audience of other Facebook users based on the information in your Facebook profile.  
-
+We might also share your data with social media or other similar platforms, so that you and other people can see relevant content on that platform. For example, we may use the Facebook Custom Audiences service and share your email address in a protected format with Facebook so that we can: include you in a custom audience that we will serve relevant advertising content to on Facebook; or create an audience of other Facebook users based on the information in your Facebook profile.
 
 **HOW WE SHARE YOUR PERSONAL INFORMATION AND WHO WE SHARE IT WITH**
 
@@ -266,8 +256,7 @@ These companies are authorised to use your personal information only as necessar
 
 **Compliance with laws and legal proceedings:** When we respond to court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. When we believe in our sole discretion it is necessary to share information in order to investigate, prevent or take actions against illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use, or as otherwise required by law.
 
-**Merger or acquisition:** When we need to transfer information about you if we are acquired by or merged with another company. If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified afterwards via e-mail and/or a prominent notice on our Services of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.  
-
+**Merger or acquisition:** When we need to transfer information about you if we are acquired by or merged with another company. If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified afterwards via e-mail and/or a prominent notice on our Services of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 **INTERNATIONAL TRANSFERS**
 
@@ -281,8 +270,7 @@ When transferring personal information of an EU resident outside the EEA, we wil
 
 • (where appropriate when we are transferring your personal information to a recipient in the US) ensure that the recipient is part of the Privacy Shield which requires them to provide similar protection to any personal information shared between Europe and the US.
 
-You can find out further information about the rules on data transfers outside the EEA, including the mechanisms that we rely upon, on the European Commission website here.  
-
+You can find out further information about the rules on data transfers outside the EEA, including the mechanisms that we rely upon, on the European Commission website here.
 
 **COOKIE AND SIMILAR TECHNOLOGIES**
 
@@ -292,15 +280,13 @@ We use cookies, for example, to remember users’ settings (e.g. language prefer
 
 Please read more about how we use cookies and what information is collected using cookies in our Cookie Policy here.
 
-PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.  
-
+PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
 
 **SECURITY**
 
 Whilst we take appropriate technical and organisational measures to safeguard the personal information that you provide to us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal information that you transfer over the Internet to us.
 
-We are committed to protecting your personal information using appropriate technical and operational measures such as access controls that restrict and manage the ways in which your personal information is stored and handled.  
-
+We are committed to protecting your personal information using appropriate technical and operational measures such as access controls that restrict and manage the ways in which your personal information is stored and handled.
 
 **DATA RETENTION**
 
@@ -308,12 +294,11 @@ We will retain information (including personal information) for as long as we ne
 
 We may delete your personal information (including any account that you set up to use on the Services) if you do not use the Services in a certain time period pursuant to the specific Service.
 
-In some circumstances, we may anonymise your personal information (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.  
-
+In some circumstances, we may anonymise your personal information (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
 **YOUR RIGHTS**
 
-You have certain rights in relation to your personal information. If you would like further information in relation to these or would like to exercise any of them, please contact our Data Protection Officer at privacy_policy@discovery.com at any time. You have the right to request that we:
+You have certain rights in relation to your personal information. If you would like further information in relation to these or would like to exercise any of them, please contact our Data Protection Officer at dpo@discovery.com at any time. You have the right to request that we:
 
 • Provide access to any personal information we hold about you;
 
@@ -335,13 +320,11 @@ You have certain rights in relation to your personal information. If you would l
 
 If an exception applies, we will tell you this when responding to your request. We may request you provide us with information necessary to confirm your identity before responding to any request you make.
 
-If we delete any personal information which we are holding about you, this deletion may only relate to the Services and not any other service provided by us in other jurisdictions. You should make requests for each account that you may have set up to access the Services or any other service provided by us.  
-
+If we delete any personal information which we are holding about you, this deletion may only relate to the Services and not any other service provided by us in other jurisdictions. You should make requests for each account that you may have set up to access the Services or any other service provided by us.
 
 **THIRD PARTY SITES**
 
-The Services contain links and pages to other websites operated by third parties. Please note that this privacy policy applies only to the personal information that we collect through the Services and we cannot be responsible for personal information that third parties may collect, store and use through their website. You should always read the privacy policy of each website you visit carefully.  
-
+The Services contain links and pages to other websites operated by third parties. Please note that this privacy policy applies only to the personal information that we collect through the Services and we cannot be responsible for personal information that third parties may collect, store and use through their website. You should always read the privacy policy of each website you visit carefully.
 
 **DISPUTE RESOLUTION**
 
@@ -351,8 +334,7 @@ In the event of any controversy, claim or dispute (“dispute”) related to or 
 
 • If the parties are unable to resolve the dispute through informal negotiation, you and MTG agree that exclusive jurisdiction for the dispute shall be binding arbitration before one arbitrator to be mutually agreed upon by both parties. If the parties cannot agree on the selection of an Arbitrator, they shall each select one Arbitrator from the list of qualified JAMS arbitrators and those two Arbitrators shall select the person who shall serve as the Arbitrator for such dispute. Arbitration shall be initiated in the New York, N.Y., area and shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures. Judgment on any potential award may be entered in any court having jurisdiction. BY USING THE SITES, YOU ARE HEREBY GIVING UP YOUR RIGHT TO LITIGATE A DISPUTE IN COURT BEFORE A JUDGE OR JURY. Unless the arbitrator concludes that the arbitration was frivolous or brought for an improper purpose, we will pay all filing, JAMS, and arbitrator’s fees and expenses.
 
-• ALL DISPUTES SHALL BE RESOLVED ON AN INDIVIDUAL BASIS. Neither party shall have the right to have a dispute heard as a class action and no arbitration or proceeding can be combined with another without the prior written consent of all parties to the proceeding.  
-
+• ALL DISPUTES SHALL BE RESOLVED ON AN INDIVIDUAL BASIS. Neither party shall have the right to have a dispute heard as a class action and no arbitration or proceeding can be combined with another without the prior written consent of all parties to the proceeding.
 
 **CHOICE OF LAW; CHOICE OF FORUM**
 
@@ -360,28 +342,25 @@ This privacy policy has been made in and shall be construed in accordance with t
 
 The parties acknowledge that this policy evidences a transaction involving interstate commerce. Notwithstanding the provision in the preceding paragraph with respect to applicable substantive law, any arbitration conducted pursuant to the terms of this Policy shall be governed by the Federal Arbitration Act (9 U.S.C. §§ 1-16).
 
-By using the Sites, you agree that the exclusive jurisdiction for any dispute not subject to the arbitration provision discussed above shall be the state and federal courts located in Maryland.  
-
+By using the Sites, you agree that the exclusive jurisdiction for any dispute not subject to the arbitration provision discussed above shall be the state and federal courts located in Maryland.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. To make such a request, please contact us: MOTOR TREND GROUP | 1 Discovery Place, Silver Spring, MD 20910 | Phone: (240) 662-2000 | Email: privacy_policy@discovery.com.
+Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. To make such a request, please contact us: MOTOR TREND GROUP | 1 Discovery Place, Silver Spring, MD 20910 | Phone: (240) 662-2000 | Email: dpo@discovery.com.
 
-We do not support Do Not Track browser settings and do not currently participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information.  
-
+We do not support Do Not Track browser settings and do not currently participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information.
 
 **CHANGES TO THIS PRIVACY POLICY**
 
-Please check back regularly to keep informed of updates to this privacy policy. Where we make significant changes to this privacy policy, and we have your e-mail address, we will send you notification of the changes.  
-
+Please check back regularly to keep informed of updates to this privacy policy. Where we make significant changes to this privacy policy, and we have your e-mail address, we will send you notification of the changes.
 
 **CONTACT, COMPLAINTS, QUESTIONS AND SUGGESTIONS**
 
-We have a Data Protection Officer that can assist with all queries regarding our processing of personal information. Our Data Protection Officer can be contacted by e-mailing privacy_policy@discovery.com.
+We have a Data Protection Officer that can assist with all queries regarding our processing of personal information. Our Data Protection Officer can be contacted by e-mailing dpo@discovery.com.
 
 If you have any complaints about our Services, please contact us at:
 
-1 Discovery Place, Silver Spring, MD 20910 | Phone: 240-662-2000 | Email: privacy_policy@discovery.com
+1 Discovery Place, Silver Spring, MD 20910 | Phone: 240-662-2000 | Email: dpo@discovery.com
 
 In the EEA, you may also make a complaint to the supervisory body for data protection matters (the Information Commissioner’s Office in the UK) or seek a remedy through local courts if you believe your rights have been breached.
 
@@ -389,8 +368,7 @@ You have the right to lodge a complaint with local data protection authorities i
 
 All information you provide in any written communication will also be covered by this policy.
 
-Effective: May 25, 2018. © Motor Trend Group, LLC. All Rights Reserved.
-
+Effective: May 25, 2018. © Motor Trend Group, LLC. All Rights Reserved.  
 **Annex**
 
 List of Data Protection Authorities (EEA Countries)
