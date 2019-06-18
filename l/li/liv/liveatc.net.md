@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveatc.net privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811150217id_/https%3A//www.liveatc.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveatc.net privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618210501id_/https%3A//www.liveatc.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LiveATC.net
 
@@ -97,7 +97,7 @@ NOTICE: [Click here](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec13.shtm) f
 
 If you have questions or suggestions, you can contact us at: 
 
-LiveATC.net   
+LiveATC.net LLC   
 P.O. Box 178   
 Amherst, NH 03031   
 Or send an electronic message via the [site contact form](http://www.liveatc.net/ct/contact.php)
@@ -132,7 +132,7 @@ As a general reminder: Children should always ask a parent for permission before
 
 If you have any questions about this Notice or about the collection or maintenance of your child's personal information anywhere on LiveATC.net, please contact: 
 
-LiveATC.net   
+LiveATC.net LLC   
 P.O. Box 178   
 Amherst, NH 03031   
 Or send an electronic message via the [site contact form](http://www.liveatc.net/ct/contact.php)
