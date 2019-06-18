@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flash-gear.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204000845id_/http%3A//www.flash-gear.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flash-gear.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618203529id_/http%3A//www.flash-gear.com/privacy.php) for the most accurate reproduction.*
 
 # flash-gear.com - Privacy Policy
 
