@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the invoca.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626020949id_/http%3A//www.invoca.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invoca.net privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618072133id_/http%3A//www.invoca.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Invoca
-
-### Privacy Policy
 
 ### Privacy Policy
 
@@ -14,19 +12,19 @@ Throughout this Policy “personal information” means user and/or Client name,
 
 **EU – U.S. Privacy Shield**
 
-Invoca participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Invoca is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List: <https://www.privacyshield.gov/list>
+Invoca participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Invoca is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List: <https://www.privacyshield.gov/list>
 
 Invoca is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf in accordance with Invoca’s contractual obligations with its customers.. Invoca complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Invoca is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Invoca may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 **CONSUMER PRIVACY:**
 
-**What information does Invoca collect from consumers?**
+What information does Invoca collect from consumers?
 
 **Web Services:**  
 In general, when a consumer accesses the Invoca website or interfaces with the Invoca
@@ -83,9 +81,9 @@ As mentioned above, we may use web beacons. Web beacons are tiny graphics with a
 
 **Can a consumer access the personal information acquired by Invoca?**
 
-Upon request Invoca will provide you with information about whether we hold or process on behalf of a third party, any of your personal information. To request this information please, contact us at [legal@invoca.com](mailto:legal@invoca.com).
+Upon request Invoca will provide you with information about whether we hold or process on behalf of a third party, any of your personal information. To request this information please, contact us at [legal@invoca.com](mailto:legal@invoca.com).
 
-Invoca’s Services are not directed toward individual consumers however if a consumer would like the personal information Invoca holds about him/her corrected, updated or deleted, please contact [legal@invoca.com](mailto:legal@invoca.com). We will respond to your request within a reasonable timeframe.
+Invoca’s Services are not directed toward individual consumers however if a consumer would like the personal information Invoca holds about him/her corrected, updated or deleted, please contact [legal@invoca.com](mailto:legal@invoca.com). We will respond to your request within a reasonable timeframe.
 
 **CLIENT PRIVACY**
 
@@ -121,11 +119,11 @@ If you are a Client and would like the personal information Invoca holds about y
 
 **Information Related to Data Collected through the Service**
 
-Information Related to Data Collected for our Clients:
+**Information Related to Data Collected for our Clients:**
 
 Invoca collects personal information only on behalf of its Clients to provide them a service. Invoca may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients. If you are a customer of one of Invoca’s Clients and would no longer like to be contacted by a Client that uses the Invoca Services, please contact that Client directly as that Client controls such data.
 
-Access and Retention of Data Controlled by our Clients:
+**Access and Retention of Data Controlled by our Clients:**
 
 Invoca acknowledges that you have the right to access your personal information.  Invoca has no direct relationship with the individuals whose personal information it processes on behalf of Client. An individual who seeks access to or otherwise seeks to correct, amend or delete inaccurate personal information should direct such inquiry to Invoca’s Client. If you do contact Invoca regarding such a request, Invoca will respond within a reasonable timeframe.
 
@@ -138,11 +136,11 @@ Invoca’s website offers publicly accessible blogs or community forums. Any use
 
 **Testimonials:**
 
-Invoca will only post Client testimonials with the Client’s consent to do so. If you wish to update or delete your testimonial, you can contact us at [legal@invoca.com](mailto:legal@invoca.com).
+Invoca will only post Client testimonials with the Client’s consent to do so. If you wish to update or delete your testimonial, you can contact us at [legal@invoca.com](mailto:legal@invoca.com).
 
 **Frame:**
 
-Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to [www.invoca.com](https://www.invoca.com/).
+Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to [www.invoca.com](https://www.invoca.com/).
 
 **Links to other websites:**
 
@@ -156,12 +154,12 @@ Invoca’s corporate website ([www.invoca.com](https://www.invoca.com/)) include
 
 Invoca takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. When a user enters sensitive information (such as login information), Invoca encrypts the transmission of that information using secure socket layer technology (SSL). Any data stored on Invoca’s servers is treated as proprietary and confidential and is not available to the public. Invoca restricts access to personal information to those employees or third parties who have a need to know such information for the purpose of effectively delivering Invoca products and Services by means of user login and password requirements. Invoca routinely evaluates its data security practices to identify security threats or opportunities for improvement.
 
-No transmission of data over the Internet or the phones is guaranteed to be completely secure. It may be possible for third parties not under the control of Invoca to intercept or access transmissions or private communications unlawfully. While Invoca strives to protect users’ personal information, it cannot ensure or warrant the security of any information a user transmits. If you have any questions about the security of your personal information, you can contact us at [legal@invoca.com](mailto:legal@invoca.com).
+No transmission of data over the Internet or the phones is guaranteed to be completely secure. It may be possible for third parties not under the control of Invoca to intercept or access transmissions or private communications unlawfully. While Invoca strives to protect users’ personal information, it cannot ensure or warrant the security of any information a user transmits. If you have any questions about the security of your personal information, you can contact us at [legal@invoca.com](mailto:legal@invoca.com).
 
-**_Clients and Consumers in the European Union_**
+_Clients and Consumers in the European Union_
 
-**Location of Systems  
-**Invoca’s systems are based in the United States, so personal data entered in the Invoca websites or platform, or collected through the use of the services (i) will not be processed in the European Economic Area (EEA) and (ii) will be processed by Invoca and its service providers in the United States.  By using the services, data subjects (a) agree to and accept the terms stated in this Privacy Policy and (b) expressly consent to the processing of personal data on equipment and by service providers outside the European Economic Area.  Invoca offers a Data Processing Addendum to Clients upon request to legal@invoca.com.
+Location of Systems  
+Invoca’s systems are based in the United States, so personal data entered in the Invoca websites or platform, or collected through the use of the services (i) will not be processed in the European Economic Area (EEA) and (ii) will be processed by Invoca and its service providers in the United States.  By using the services, data subjects (a) agree to and accept the terms stated in this Privacy Policy and (b) expressly consent to the processing of personal data on equipment and by service providers outside the European Economic Area.  Invoca offers a Data Processing Addendum to Clients upon request to legal@invoca.com.
 
 **Controller and Processor**
 
@@ -185,7 +183,7 @@ EU data subjects have additional rights under the General Data Protection Regula
 
 
 
-Where Invoca is the Controller of the data, the data subject may withdraw consent or exercise any of these rights by contacting Invoca at legal@invoca.com **.   **Where Invoca is the Processor of the data, the data subject should contact the appropriate data Controller to exercise these rights.
+Where Invoca is the Controller of the data, the data subject may withdraw consent or exercise any of these rights by contacting Invoca at legal@invoca.com.  Where Invoca is the Processor of the data, the data subject should contact the appropriate data Controller to exercise these rights.
 
 **Right to Review, Delete and Control Use of Information**
 
@@ -209,6 +207,6 @@ The Invoca Services are not developed for or directed at children. Children (per
 
 **Contact Invoca:**
 
-For more information or if you have questions or concerns regarding the Invoca Privacy Policy, please contact legal@invoca.com or send correspondence to the following address: Invoca, Inc. Attn: Privacy, 1025 Chapala Street, Santa Barbara, CA 93101.
+For more information or if you have questions or concerns regarding the Invoca Privacy Policy, please contact legal@invoca.com or send correspondence to the following address: Invoca, Inc. Attn: Privacy, 419 State Street, Santa Barbara, CA 93101.
 
-Policy Updated: May 25, 2018
+Policy Updated: March 28, 2019
