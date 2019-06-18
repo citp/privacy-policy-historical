@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educateinspirechange.org privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122200602id_/https%3A//educateinspirechange.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educateinspirechange.org privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618120100id_/https%3A//educateinspirechange.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
