@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malakye.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119001800id_/https%3A//www.malakye.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malakye.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618073417id_/https%3A//www.malakye.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,3 +79,5 @@ Please be aware that your Personal Information and communications may be transfe
 We may change this Privacy Policy from time to time. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will go into effect on the "Revised" date shown in the revised Privacy Policy. By continuing to use the Site or Services, you are consenting to the revised Privacy Policy.
 
 **PLEASE PRINT A COPY OF THIS PRIVACY POLICY FOR YOU RECORDS AND PLEASE CHECK THE SITE FREQUENTLY FOR ANY CHANGES.**
+
+Click here to change your privacy settings. 
