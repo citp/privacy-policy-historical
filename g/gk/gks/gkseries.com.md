@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gkseries.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323230719id_/http%3A//www.gkseries.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gkseries.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619001315id_/https%3A//www.gkseries.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - www.gkseries.com
 
@@ -31,5 +31,3 @@ From time to time we may make changes to this privacy policy. If we make any sub
 ### How you can contact us
 
 If you would like to contact Gkseries.com about our privacy policy, please mail us at **utpal@gkseries.com**
-
-[](http://www.gkseries.com/ebooks)
