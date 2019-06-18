@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adonit.net privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008081607id_/http%3A//www.adonit.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonit.net privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618041917id_/https%3A//www.adonit.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -103,6 +103,14 @@ Cookies are small digital signature files that are stored by your web browser th
 This is our entire Privacy Policy and it replaces any earlier version. We may change this Privacy Policy by posting a new version on the Website or distributing a new version via the App, and it is your responsibility to review this Privacy Policy periodically. If we make material changes to our practices regarding the collection, use and sharing of your Personal Information, we will notify you via e-mail to the email address you provide to us and/or through a notice in the App or on the Website home page.
 
 When we do change the Privacy Policy, we will also revise the “revised” date. Your continued use of the Website, the App or the SDK after such date constitutes your agreement to this Privacy Policy and any updates. 
+
+****Shipping Policy****
+
+Because we ship from multiple warehouses, outside the US, CA, EU, ETA is 9 -15 working days for any items that may ship from international warehouses.If you are shipping an item outside the US, CA, you should consider using a trackable shipping service. EU or worldwide, please choose Royal Mail Tracked(Tracking Number Available).
+
+****Lithium Batteries for International Shipment****
+
+The carrier will restrict lithium Batteries for international shipping; It may take longer to delivery or cancel.
 
 **Contacting Adonit**
 
