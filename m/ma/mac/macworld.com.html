@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the macworld.com privacy policy that was archived on 2018-09-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180924184102id_/https%3A//www.macworld.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macworld.com privacy policy that was archived on 2019-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190619144721id_/https%3A//www.macworld.com/about/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-	
+<!DOCTYPE html><html lang="en"><head><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://cdn.permutive.com/f5b3be27-f789-4ef1-8867-37c67da5b361-web.js"></script>
+		
 	<meta charset="utf-8">
 	<title>Privacy Policy | Macworld</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	
-	<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WHLJC4"></script><script async="" type="text/javascript" src="https://web.archive.org/web/20180330175545/https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://spiffymachine.com/v2/0/soz43Z90Ya301tyXyaiysf_JwIN8WL9UxveYtEOn-A78Mt4sBMUH2bEz8dxDyNRTgqcdA"></script><script>
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WR6LD2P"></script><script async="" type="text/javascript" src="https://web.archive.org/web/20190307045600/https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://spiffymachine.com/v2/0/soz43Z90Ya301tyXyaiysf_JwIN8WL9UxveYtEOn-A78Mt4sBMUH2bEz8dxDyNRTgqcdA"></script><script>
 	function getQueryVariable(variable) {
 		var query = window.location.search.substring(1);
 		var vars = query.split("&");
@@ -26,6 +26,8 @@
 	
 	<script type="text/javascript" src="/www/js/jquery/jquery_cookie.js"></script>
 	
+	
+	<script type="text/javascript" src="/www/js/apollo-locales.js"></script>
 	
 	
 
@@ -46,29 +48,7 @@
 
 <script>
 window.admiral = window.admiral || function() {(admiral.q = admiral.q || []).push(arguments)};
-/*
-var checkIfInEU = new Promise((resolve, reject) => {
-    var promiseResolved = false;
-    setTimeout(function(){
-        console.log('GDPR checkIfInEU timeout reached promiseResolved',promiseResolved);
-        if (!promiseResolved){
-            promiseResolved=true;
-            resolve();//in eu
-            console.log('too slow; assuming you are EU');
-        }
-    },10000);
 
-    window.admiral('after', 'cmp.loaded', function(e){
-        if(promiseResolved)return;//timeout reached            
-        promiseResolved = true;
-        
-        console.log('GDPR checkIfInEU - cmp.loaded',e);
-        var isEuVisitor = e.euVisitor || false;             
-        if (isEuVisitor)resolve();
-        else reject();    
-    });
-});
-*/
 
 var consent = consent || {};
 consent.isEU = consent.isEU || null;
@@ -88,6 +68,12 @@ consent.contentsel.queue = consent.contentsel.queue || [];
 consent.socmedia = consent.socmedia || {};
 consent.socmedia.queue = consent.socmedia.queue || [];
 
+consent.tealium = consent.tealium || {};
+consent.tealium.queue = consent.tealium.queue || [];
+
+consent.digitalelement = consent.digitalelement || {};
+consent.digitalelement.queue = consent.digitalelement.queue || [];
+
 window.admiral('addEventListener', 'cmp.loaded', function(e){
 	console.log('*****GDPR: EU user?', e);
 	consent.isEU = e.euVisitor;
@@ -99,15 +85,20 @@ window.admiral('addEventListener', 'cmp.loaded', function(e){
 		$(window).trigger("runConsent", [consent.adsel.queue]);
 		$(window).trigger("runConsent", [consent.contentsel.queue]);
 		$(window).trigger("runConsent", [consent.socmedia.queue]);
+		$(window).trigger("runConsent", [consent.digitalelement.queue]);
+		console.log('running digitalelement queue');
+		$(window).trigger("runConsent", [consent.tealium.queue]);
+		//console.log ('running tealium queue');
 	}
 	else if (e.consentKnown == true) { // else if.. visitor is from EU and consent is known...
 		window.admiral('get', 'cmp.consent', function(e) {
+			consent.personalization = e.publisherPurposes['2'];
+
 			//console.log('*****GDPR: we know your personalization setting (' + e.publisherPurposes['2'] + '), running ad queue.');
-			//consent.personalization = e.publisherPurposes['2'];
 			//console.log('*****GDPR: we know your info storage setting (' + e.publisherPurposes['1'] + '), running queue if TRUE.');
 			//console.log('*****GDPR: we know your ad selection setting (' + e.publisherPurposes['3'] + '), running queue if TRUE.');
 			//console.log('*****GDPR: we know your content selection setting (' + e.publisherPurposes['4'] + '), running queue if TRUE.');
-			console.log('*****GDPR: we know your social media setting. It is (' + e.publisherCustomPurposes['25'] + '), running queue if TRUE.');
+			//console.log('*****GDPR: we know your social media setting. It is (' + e.publisherCustomPurposes['25'] + '), running queue if TRUE.');
 			
 			$(window).trigger("runConsent", [consent.ads.queue]);
 			if (e.publisherPurposes['1']) { // if information storage consent is TRUE run queue
@@ -123,17 +114,31 @@ window.admiral('addEventListener', 'cmp.loaded', function(e){
 				$(window).trigger("runConsent", [consent.contentsel.queue]);
 			}
 			if (e.publisherCustomPurposes['25']) { // if social media consent is TRUE run queue
-				console.log('***** Known consent and true - run social media queue');
+				//console.log('***** Known consent and true - run social media queue');
 				$(window).trigger("runConsent", [consent.socmedia.queue]);
 			}
+			
+			//special case for Tealium
+			if (e.publisherPurposes['1'] && e.publisherPurposes['2'] && e.publisherPurposes['3'] && e.publisherPurposes['4'] && e.publisherPurposes['5'] && e.vendors['522']) {
+				//console.log('***** Known consent and true - run tealium queue');
+				$(window).trigger("runConsent", [consent.tealium.queue]);
+			}
+			
+			//special case for Digital Element
+			if (e.publisherPurposes['2'] && e.publisherPurposes['3'] && e.publisherPurposes['4'] && e.publisherPurposes['5']) {
+				console.log('***** Known consent and true - run digitalelement queue');
+				$(window).trigger("runConsent", [consent.digitalelement.queue]);
+			}
+				
 			bindReshowCmp();
 		});
 	}
 	else {//else consent is not known
 		try {
+			var tealiumConsent;
 	    	__cmp('getPublisherConsents',[],function(publisherConsents,success){
 	    		if (typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2']) {
-	    			//console.log('*****GDPR: personalization allowed, start running personalized ads');	
+	    			console.log('*****GDPR: personalization allowed, start running personalized ads');	
 	    		}
 	    		else if (typeof publisherConsents.standardPurposes['2'] !== 'undefined' && !publisherConsents.standardPurposes['2']) {
 	    			console.log('*****GDPR: personalization not allowed, start running non-personalized ads');
@@ -165,8 +170,44 @@ window.admiral('addEventListener', 'cmp.loaded', function(e){
 	    		} else if (typeof publisherConsents.customPurposes['25'] !== 'undefined' && !publisherConsents.customPurposes['25']) {
 	    			console.log('*****GDPR: getPublishersConsent - social media NOT allowed, do not run socmedia queue');
 	    		}
+	    		
+	    		//checking for Tealium purpose
+	    		if (typeof publisherConsents.standardPurposes['1'] !== 'undefined' && publisherConsents.standardPurposes['1'] &&
+	    				typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2'] &&
+	    				typeof publisherConsents.standardPurposes['3'] !== 'undefined' && publisherConsents.standardPurposes['3'] &&
+	    				typeof publisherConsents.standardPurposes['4'] !== 'undefined' && publisherConsents.standardPurposes['4'] &&
+	    				typeof publisherConsents.standardPurposes['5'] !== 'undefined' && publisherConsents.standardPurposes['5']) {
+	    			tealiumConsent = true;
+    				//console.log('consent for Tealium\'s purposes'); 
+    				
+    				//checking for Tealium consent
+    		    	__cmp('getVendorConsents',[],function(vendorConsents,success){ 
+    		    			if (typeof vendorConsents.vendorConsents['522'] === 'undefined' || vendorConsents.vendorConsents['522'] === false) {
+    		    				tealiumConsent = false;
+    		    				//console.log('no consent for Tealium the vendor'); 
+    		    			}
+    		    	});
+	    		}
+	    		else {
+	    			tealiumConsent = false; 
+	    			//console.log('no consent for Tealium\'s purposes');
+	    		}
+	    		
+	    		if (typeof tealiumConsent !== 'undefined' && tealiumConsent) {
+		    		$(window).trigger("runConsent", [consent.tealium.queue]);
+		    		//console.log ('running tealium queue');
+		    	}
+	    		
+	    		if (typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2'] &&
+	    				typeof publisherConsents.standardPurposes['3'] !== 'undefined' && publisherConsents.standardPurposes['3'] &&
+	    				typeof publisherConsents.standardPurposes['4'] !== 'undefined' && publisherConsents.standardPurposes['4'] &&
+	    				typeof publisherConsents.standardPurposes['5'] !== 'undefined' && publisherConsents.standardPurposes['5']) {
+	    			$(window).trigger("runConsent", [consent.digitalelement.queue]);
+	    			console.log ('running digitalelement queue');
+	    		}
 			});
-	    		bindReshowCmp();
+	    	
+	    	bindReshowCmp();
 	    }
 	    catch (e) {
 	    	console.log(e);
@@ -175,6 +216,7 @@ window.admiral('addEventListener', 'cmp.loaded', function(e){
 });
 
 window.admiral('addEventListener', 'cmp.updated', function(e){
+	var tConsent;
 	__cmp('getPublisherConsents',[],function(publisherConsents,success){	
 		//console.log('*****GDPR: Consent updated (cmp.updated fired). personalization ok? ',typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2']);
 		//console.log('*****GDPR: Consent updated (cmp.updated fired). information storage ok? ',typeof publisherConsents.standardPurposes['1'] !== 'undefined' && publisherConsents.standardPurposes['1']);
@@ -193,6 +235,41 @@ window.admiral('addEventListener', 'cmp.updated', function(e){
 		if (typeof publisherConsents.customPurposes['25'] !== 'undefined' && publisherConsents.customPurposes['25']) {
 			$(window).trigger("runConsent", [consent.socmedia.queue]);
 		}
+		
+		//checking for Tealium purpose
+		if (typeof publisherConsents.standardPurposes['1'] !== 'undefined' && publisherConsents.standardPurposes['1'] &&
+				typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2'] &&
+				typeof publisherConsents.standardPurposes['3'] !== 'undefined' && publisherConsents.standardPurposes['3'] &&
+				typeof publisherConsents.standardPurposes['4'] !== 'undefined' && publisherConsents.standardPurposes['4'] &&
+				typeof publisherConsents.standardPurposes['5'] !== 'undefined' && publisherConsents.standardPurposes['5']) {
+			tealiumConsent = true;
+			//console.log('consent for Tealium\'s purposes'); 
+			
+			//checking for Tealium consent
+	    	__cmp('getVendorConsents',[],function(vendorConsents,success){ 
+	    			if (typeof vendorConsents.vendorConsents['522'] === 'undefined' || vendorConsents.vendorConsents['522'] === false) {
+	    				tealiumConsent = false;
+	    				//console.log('no consent for Tealium the vendor'); 
+	    			}
+	    	});
+		}
+		else {
+			tealiumConsent = false; 
+			//console.log('no consent for Tealium\'s purposes');
+		}
+		
+		if (typeof tealiumConsent !== 'undefined' && tealiumConsent) {
+    		$(window).trigger("runConsent", [consent.tealium.queue]);
+    		//console.log ('running tealium queue');
+    	}
+		
+		if (typeof publisherConsents.standardPurposes['2'] !== 'undefined' && publisherConsents.standardPurposes['2'] &&
+				typeof publisherConsents.standardPurposes['3'] !== 'undefined' && publisherConsents.standardPurposes['3'] &&
+				typeof publisherConsents.standardPurposes['4'] !== 'undefined' && publisherConsents.standardPurposes['4'] &&
+				typeof publisherConsents.standardPurposes['5'] !== 'undefined' && publisherConsents.standardPurposes['5']) {
+			$(window).trigger("runConsent", [consent.digitalelement.queue]);
+			console.log ('running digitalelement queue');
+		}
 	});	
 	$(window).trigger("runConsent", [consent.ads.queue]);	
 });
@@ -205,7 +282,7 @@ function runQueue(queue){
 	for (var x=0;x<queue.length;x++) {
 		var nextFn = queue.shift();
 		nextFn();
-		console.log('*****GDPR: running queue');
+		//console.log('*****GDPR: running queue');
 	}	
 }
 
@@ -226,6 +303,78 @@ function bindReshowCmp() {
 
 
 
+	
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+<script>
+// this javascript is for retrieving locale-specific ad units for DFP - see mapping in apollo-locales.js
+// getting locale and editions for the site the reader is viewing
+let brandAbbrev = "mw";
+let brandConfigBrandId = "1";
+//let myLocale = getLocale(); // getting locale on page load from URL, IP, geolocation - this will always be something. If 0, it's the global/default/core view.
+let countryCode = "";
+let getSlugFromId = getApolloLocaleIdMap();
+let getIdFromSlug = getApolloLocaleSlugMap();
+
+// if selectedLocale cookie exists, get locale
+if (typeof getSelectedLocale() !== 'undefined'  && getSelectedLocale() === getLocale()) { // get locale from cookie if available otherwise, use another locale source (from geolocation, url slug, etc.)
+ 	countryCode = getSlugFromId[getSelectedLocale()];
+} else {
+	countryCode = getSlugFromId[getLocale()];
+}
+//console.log("+++ 1) in locales.editions.jsp - COUNTRY CODE IS DEFINED AS: "+countryCode+"+++");
+// if countryCode is empty string at this point, it means localeId = 0 which is global (default/core)...
+if (countryCode == "") {
+	countryCode = "us"; // country code for default global is currently US
+}
+//console.log("====INSIDE locales-editions.jsp - getSelectedLocale() = " + getSelectedLocale() + " and getLocale() = " + getLocale() + " and countryCode = " + countryCode);
+//US social media accounts are the default if locale cannot be determined
+var twitterUrl = "https://twitter.com/macworld";
+var linkedInUrl = "";
+var facebookUrl = "http://www.facebook.com/Macworld";
+var twitterHandle = "macworld";
+if (countryCode === 'asean') {
+	twitterUrl = "";
+	linkedInUrl = "";
+	facebookUrl = "";
+	twitterHandle = "";
+}
+if (countryCode === 'uk') {
+	twitterUrl = "";
+	linkedInUrl = "";
+	facebookUrl = "";
+	twitterHandle = "";
+}
+
+//US business unit is the default if locale cannot be determined
+var busUnit = "";
+//cookie policy page
+var localeEdition = "";
+var busUnitAddress = "";
+if (countryCode === 'asean') {
+	busUnit = "";
+	localeEdition = "";
+	busUnitAddress = "";
+}
+if (countryCode === 'uk') {
+	busUnit = "";
+	localeEdition = "";
+	busUnitAddress = "";
+}
+</script>
+
+	
 
 	
     <script src="/www/js/init_device.js"></script>    
@@ -247,7 +396,11 @@ function bindReshowCmp() {
 
 
 
-<script type="text/javascript" src="/www/js/ads/gpt_includes.js?v=20180920113919"></script>
+
+	<script async="async" src="//cdn.adsafeprotected.com/iasPET.1.js"></script>
+
+
+<script type="text/javascript" src="/www/js/ads/gpt_includes.js?v=20190617113432"></script>
 
 <script type="text/javascript">
 	if (adLayer==null || adLayer=='undefined') {
@@ -352,58 +505,40 @@ function bindReshowCmp() {
 		
 		
 	
+	
+	
+	
 </script>
   
-<script src="/www.idgcsmb/js/thm_pre.js?v=20180920113919"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<script src="/www.idgcsmb/js/thm_pre.js?v=20190617113432"></script>
 
 
 	
 	
-	
-		
-	
-
-
-
-	
-		<script type="text/javascript">
-			//console.log("PROXIMIC RESPONSE: PAGE-LEVEL");
-			(function () {
-			    try {
-                    var proximic_data = {"data":["300003","121100","131100","131123","240000","240002","240003","240004","240001","240005","240006","240007","240008","240009","240011","240012","240013","240014","240017","240015","240016","20f4sh","enwcef","bkwp85","bsuu95","kfzmve","x8eev1","e8urcc","9v0tiu","s9o5po","qh9ovz","33csbv","e2co9k","r03wnl","folvaf","44ywyv","2ew8ed","9vsomj","xks7sj","ejqk9n","fxbc1d","agtqg7","njkqk2","7grvv1","agt9m3","pcz604","le330e","500136","500144","500133","500001","500002","500007","500187","500189","500235","500234","500242","500220","500247","500218","500239","500238","500229","500246","500230","500241"]};
-                    IDG.GPT.addTarget("proximic", proximic_data.data);
-                }
-                catch (e){
-			        console.log("Error: " + e);
-                }
-			})();
+		<script>
+		// IDGMPM-16419 - moved out of adsel queue for IDGMPM-16933
+		googletag.cmd.push(function() {
+		  if (googletag.pubads().getTargeting('permutive').length == 0) {
+		    var kvs = localStorage.getItem('_pdfps');
+		    googletag.pubads().setTargeting('permutive', kvs ? JSON.parse(kvs) : []);
+		    console.log('ad targeting permutive kvs: ', kvs);
+		  }
+		});
 		</script>
-	
-	
-
-
-
-	
 	
 
 <script type="text/javascript" src="/www/js/ads/gpt_starter.js?1234"></script>
 	<script>
 		loadGPT();
 	</script>
-<script type="text/javascript" src="/www/js/ads/gpt_launcher.js"></script>
+
+	
+		<script type="text/javascript" src="/www/js/ads/ias_gpt_launcher.js?v=20190617113432"></script>
+	
+
+	
+
+
 
 	
 
@@ -419,7 +554,7 @@ function bindReshowCmp() {
 	
 	
 	
-	
+		
 		
 		
 		 
@@ -462,23 +597,6 @@ function bindReshowCmp() {
     <meta property="og:description" content="Macworld Privacy Policy">
     
     
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
 
 	
 	
@@ -493,13 +611,13 @@ function bindReshowCmp() {
 	
 	
 	
-		<link id="mobile-size" rel="stylesheet" href="/www.idgcsmb/css/inline-header-mobile.css?v=20180920113919"><link id="desktop-size" rel="stylesheet" href="/www.idgcsmb/css/inline-header.css?v=20180920113919">
+		<link id="mobile-size" rel="stylesheet" href="/www.idgcsmb/css/inline-header-mobile.css?v=20190617113432"><link id="desktop-size" rel="stylesheet" href="/www.idgcsmb/css/inline-header.css?v=20190617113432">
 		<script>
 			if (window.matchMedia("(min-width: 768px)").matches) {
-				document.getElementById('mobile-size').insertAdjacentHTML('afterend', '<link id="desktop-size" rel="stylesheet" href="/www.idgcsmb/css/inline-header.css?v=20180920113919" />');
+				document.getElementById('mobile-size').insertAdjacentHTML('afterend', '<link id="desktop-size" rel="stylesheet" href="/www.idgcsmb/css/inline-header.css?v=20190617113432" />');
 			}
 		</script>
-		<link rel="stylesheet" href="/www.idgcsmb.mw/css/inline-header.css?v=20180920113919">
+		<link rel="stylesheet" href="/www.idgcsmb.mw/css/inline-header.css?v=20190617113432">
 	 
 	
 	
@@ -510,12 +628,12 @@ function bindReshowCmp() {
 	<!-- this must be first -->
 	<link href="/www.idgcsmb/css/colorbox.css" rel="stylesheet">
 	<!-- <link href="/www.idgcsmb/css/equalizer.css" rel="stylesheet" /> -->
-	<link href="/www.idgcsmb/css/global-layout.css?v=20180920113919" rel="stylesheet">
-	<link href="/www.idgcsmb.mw/css/global-layout.css?v=20180920113919" rel="stylesheet">
-	<link href="/www.idgcsmb/css/global-colors.css?v=20180920113919" rel="stylesheet">
-	<link href="/www.idgcsmb.mw/css/global-colors.css?v=20180920113919" rel="stylesheet">
-	<link href="/www.idgcsmb/css/global-typography.css?v=20180920113919" rel="stylesheet">
-	<link href="/www.idgcsmb.mw/css/global-typography.css?v=20180920113919" rel="stylesheet">
+	<link href="/www.idgcsmb/css/global-layout.css?v=20190617113432" rel="stylesheet">
+	<link href="/www.idgcsmb.mw/css/global-layout.css?v=20190617113432" rel="stylesheet">
+	<link href="/www.idgcsmb/css/global-colors.css?v=20190617113432" rel="stylesheet">
+	<link href="/www.idgcsmb.mw/css/global-colors.css?v=20190617113432" rel="stylesheet">
+	<link href="/www.idgcsmb/css/global-typography.css?v=20190617113432" rel="stylesheet">
+	<link href="/www.idgcsmb.mw/css/global-typography.css?v=20190617113432" rel="stylesheet">
 	
 	
 		<link rel="stylesheet" href="/www.idgcsmb/css/static.css">
@@ -523,7 +641,10 @@ function bindReshowCmp() {
 	
 	
 	
-	<link href="/www.idgcsmb/css/video.player.css?v=20180920113919" rel="stylesheet" media="all">
+	<link href="/www.idgcsmb/css/video.player.css?v=20190617113432" rel="stylesheet" media="all">
+	
+	
+	
 	
 	
 	
@@ -627,9 +748,6 @@ function bindReshowCmp() {
 		
 	
 	
-	
-	
-	
 
 
 
@@ -656,7 +774,6 @@ function bindReshowCmp() {
 </script>
 	
 	
-	<script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
 	
 	
 	<script src="/www/js/ads/ads.js"></script>
@@ -684,6 +801,8 @@ function bindReshowCmp() {
 	
 	
 	
+	
+	
 	 
 	
 	
@@ -693,14 +812,28 @@ function bindReshowCmp() {
 	
 	
 	
+	<script>
+	var supMontMods = false;
+	</script>
+	
+
+
 	
 	
+			
+			
+	
+	
+	
+	
+	
 
 
 
 
 
 
+	
 	
 	
 	
@@ -720,16 +853,51 @@ function bindReshowCmp() {
 	
 	
 	
+	 
+	 
+		<script>
+		window.ntvConfig = window.ntvConfig || {} ;
+		window.ntvConfig.keyValues = window.ntvConfig.keyValues || {};
+		var segs = localStorage.getItem('_pnativo');
+		if (segs) {
+		  window.ntvConfig.keyValues.permutive = JSON.parse(segs).join(",");
+		}
+		</script>
+	
+	 
+	 
+	
+		<script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
+	
+	
+	
+	<script type="text/javascript">
+		var prodNames = '';
+		var prodManufacturers = '';
+		var prodCategories = '';
+		var prodVendors = '';
+	</script>
+		
 	
 	
 	<script>
-	var sincePublished = '';
-	sincePublished = sincePublished.split(" ")[0];
 	var idg_uuid = $.cookie('idg_uuid') || "";
+	
+	//get edition from countryCode
+	var edition = '';
+	if (typeof countryCode !== 'undefined') {//should be defined in locales-editions.jsp if brand has editions
+		edition = countryCode;
+	}
+
+	var dlJobFunction = '';
+	var dlJobPosition = '';
+	var dlIndustry = '';
 	
 	dataLayer=[{
 		'articleId': '',
 		'articleDisplayId':'',
+		'articleHasVideo':'',
+		'articleLocale': '',
 		'articleTitle': '',
 		'articleType': '',
 		'audience':'consumer',
@@ -742,9 +910,10 @@ function bindReshowCmp() {
 		'contentType':'resource',
 		'datePublished':'',
 		'dateUpdated':'',
-		'daysSincePublished':sincePublished,
+		'daysSincePublished':'',
 		'daysSinceUpdated':'',
 		'displayType':'resource',
+		'edition':edition,
 		'environment':'production',
 		'ga_enabled':'true',
 		'gaTrackingId':'UA-870741-1',
@@ -759,23 +928,27 @@ function bindReshowCmp() {
 		'platform':'Web',
 		'podcastSponsored': 'false',
 		'primaryCategory': '',
+		'prodCategories':prodCategories.slice('|', -1),
+		'prodManufacturers':prodManufacturers.slice('|', -1),
+		'prodNames':prodNames.slice('|', -1),
+		'prodVendors':prodVendors.slice('|', -1),
+		'ancestorGoldenCategories': '',
 		'primaryCategoryList': '',
+		'primaryAncestorCategoryList': '',
 		'property': 'macworld',
 		'propertyCountry':'US',
 		'purchaseIntent':'',
-		'sailthruCustomerId':'9de878b098a17dda2203b4d71c6eeac1',
 		'skimlinksId':'111346X1569486',
 		'source':'',
 		'sponsorName':'',
+		'suppressMonetization': supMontMods.toString(),
 		'tags': '',
 		'userId':idg_uuid,
 		'videoAutoplay':'false',
-		'articleHasVideo':''	
+		'youtubeId':''
 	}];
 	</script>
 	 
-	
-	
 	
 	
 	
@@ -830,14 +1003,15 @@ function bindReshowCmp() {
 
 
 
+
 	<!-- Google Tag Manager -->
-	<noscript><iframe src="//www.googletagmanager.com/ns.html?GTM-WHLJC4"
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?GTM-WR6LD2P"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-WHLJC4');</script>
+	})(window,document,'script','dataLayer','GTM-WR6LD2P');</script>
 	<!-- End Google Tag Manager -->
 
 	
@@ -849,8 +1023,107 @@ function bindReshowCmp() {
 	
 	
 	
-		<script async="" src="//js-sec.indexww.com/ht/p/187051-274202188545692.js"></script>
+		<script async="" src="//js-sec.indexww.com/ht/p/183980-23539077446987.js"></script>
 	
+	
+	
+	
+		<script>
+			var numberFromDataLayer = function(property) {
+			  if (window.dataLayer && dataLayer[0] && typeof dataLayer[0][property] == "number") {
+			    return dataLayer[0][property];
+			  }
+			  return null;
+			};
+			
+			var stringFromDataLayer = function(property) {
+			  if (window.dataLayer && dataLayer[0] && typeof dataLayer[0][property] == "string") {
+			    return dataLayer[0][property];
+			  }
+			  return "";
+			};
+		</script>
+	
+	
+	
+	
+	
+	
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+<script>
+// IDGMPM-16419 - updated in IDGMPM-16933
+	!function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"f5b3be27-f789-4ef1-8867-37c67da5b361","84c7e805-5ce9-41f4-b988-3529488bab1c",{});
+	  permutive.addon('web', {
+	    page: {
+	      type: stringFromDataLayer('displayType'),
+	      language: 'en',
+	      tags: stringFromDataLayer('tags').split(","),
+	      audience: stringFromDataLayer('audience'),
+	      description: 'Macworld Privacy Policy',
+	      
+	      ads: {
+	        adblocker: (adBlockStatus == "true"), //detected further up the page
+	        enabled: true
+	      },
+	      gTax: {
+	        primaryIds: [,],
+	        secondaryIds: [,]
+	      },
+	      tax: {
+	    	  primaryCategories: stringFromDataLayer('ancestorGoldenCategories').length > 0 ? stringFromDataLayer('ancestorGoldenCategories').split(",").concat(stringFromDataLayer('primaryCategory')) : [stringFromDataLayer('primaryCategory')] ,
+	          secondaryCategories: stringFromDataLayer('primaryAncestorCategoryList').length > 0 ? stringFromDataLayer('primaryCategoryList').split(",").concat(stringFromDataLayer('primaryAncestorCategoryList').split(",")) : stringFromDataLayer('primaryCategoryList').split(",")
+	      }
+	    }
+	  });
+
+	  dlJobPosition = dlJobPosition || null;
+	  dlIndustry = dlIndustry || null;
+
+	  if (dlJobPosition !== '' || dlIndustry !== '' || stringFromDataLayer('userId') !== '') {
+		  window.permutive.track('User', {
+			  companySize: null,
+			  country: null,
+			  id: (stringFromDataLayer('userId') !== "" ? stringFromDataLayer('userId') : null),
+			  jobIndustry: (dlIndustry !== "" ? dlIndustry : null),
+			  jobPosition: (dlJobPosition !== "" ? dlJobPosition : null),
+			  loggedIn: (stringFromDataLayer('insiderSignedIn') == 'true')
+			})
+	  }
+	
+	  //product js vars defined in document-head	  
+	  if (prodNames !== '' || prodManufacturers !== '' || prodCategories !== '' || prodVendors !== '') {
+		  window.permutive.track('Product', {
+			  names: stringFromDataLayer('prodNames').split("|"),
+			  categories: stringFromDataLayer('prodCategories').split("|"),
+			  manufacturers: stringFromDataLayer('prodManufacturers').split("|"),
+			  vendors: stringFromDataLayer('prodVendors').split("|")
+		});
+
+	  }
+		 
+
+</script>
+
+<script>
+	$.ajax({
+		url: "https://cdn.permutive.com/f5b3be27-f789-4ef1-8867-37c67da5b361-web.js",
+	  	dataType: "script",
+	  	cache: true, // default is false
+	  	async: true // default is true
+	});
+</script>
 	
 	
 	
@@ -938,115 +1211,116 @@ function bindReshowCmp() {
 
 
 
-
-
-
-
 	
-
+	
+		
+		
+		
+		
 		
 			
 		
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="page-top">
-		<div class="page-top-inner" itemscope="" itemtype="http://schema.org/Organization">
-		<link itemprop="url" href="http://www.macworld.com"> 
-	    
-
-
-
-
-<div class="network-header">
-		<div class="network-header-inner">
-			<div id="network-tools">
-
-				<div id="saved-comparisons"></div>				
-				<ul class="hmenu" id="heroLogin">				
-					
-					<li class="subscribeHeader"><a href="https://ssl.palmcoastd.com/31401/apps/MCWDIGITAL?ikey=I**A02">Subscribe</a><div class="subscribe-hover" style="">
-                        <div class="pointer">▲</div>
-                        <span>Learn more about Macworld's Digital Edition</span>
-                        <img alt="Macworld Magazine Cover" src="//alt.idgesg.net/images/furniture/macworld/footer-subscribe-mag-mw.png">
-                      </div></li>
-				</ul>
-			</div><!-- /#network-tools -->
-
-				<div id="network-social">					
-                  
-					
-					<a href="http://www.facebook.com/Macworld" class="network-fb ss-icon ss-social-circle banner-social banner-fb" alt="Facebook" itemprop="sameAs" rel="nofollow">
-						
-					</a>
-					<a href="https://twitter.com/macworld" class="network-tw ss-icon ss-social-circle banner-social banner-tw" alt="Twitter" itemprop="sameAs" rel="nofollow">
-						
-					</a>
-					<a href="https://plus.google.com/+macworld/posts" class="network-google ss-icon ss-social-circle banner-social banner-google" alt="Google+" itemprop="sameAs" rel="publisher">
-						
-					</a>
-					<a href="https://www.youtube.com/user/macworld" class="network-youtube ss-icon ss-social-circle banner-social banner-youtube" alt="YouTube">
-						
-					</a>
-
-				<form id="search-form" action="/search">
-					<input type="search" name="query" id="banner-search-term" class="inactive searchbox-input-class" value="">
-					<input type="submit" name="submit" id="banner-search-submit" value="search">
-					<a id="magGlassClick" class="ss-icon ss-standard" type="submit">🔎</a>
-				</form>
-
-				</div><!-- /#network-social -->
-			
 				
-		</div>
-	</div><!-- /.network-header -->
+					
+				
 
 
-	<header id="banner">
-		<a id="mobile-offscreen-toggle" class="ss-standard ss-rows" href="javascript://"></a>
-		<div id="logo">
-			<a href="/" class="ir banner-logo" id="logoImage">Home</a>		
-		</div>
-		<div id="mobile-search-toggle" class="ss-standard ss-search"></div>
-	</header>
+
+
+
+
+
+
+
 
 
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<div id="page-top">
+				<div class="page-top-inner" itemscope="" itemtype="http://schema.org/Organization">
+				<link itemprop="url" href="http://www.macworld.com"> 
+			    
+		
+		
+		
+		
+		<div class="network-header">
+				<div class="network-header-inner">
+					<div id="network-tools">
+		
+						<div id="saved-comparisons"></div>				
+						<ul class="hmenu" id="heroLogin">				
+							
+							<li class="subscribeHeader"><a href="https://mcw.pcdfusion.com/pcd/Order?iKey=I**A02">Subscribe</a><div class="subscribe-hover" style="">
+		                        <div class="pointer">▲</div>
+		                        <span>Learn more about Macworld's Digital Edition</span>
+		                        <img alt="Macworld Magazine Cover" src="//alt.idgesg.net/images/furniture/macworld/footer-subscribe-mag-mw.png">
+		                      </div></li>
+						</ul>
+					</div><!-- /#network-tools -->
+		
+						<div id="network-social">					
+		                  
+							
+							<a href="http://www.facebook.com/Macworld" class="network-fb ss-icon ss-social-circle banner-social banner-fb" alt="Facebook" itemprop="sameAs" rel="nofollow">
+								
+							</a>
+							<a href="https://twitter.com/macworld" class="network-tw ss-icon ss-social-circle banner-social banner-tw" alt="Twitter" itemprop="sameAs" rel="nofollow">
+								
+							</a>
+							<a href="https://www.youtube.com/user/macworld" class="network-youtube ss-icon ss-social-circle banner-social banner-youtube" alt="YouTube">
+								
+							</a>
+		
+						<form id="search-form" action="/search">
+							<input type="search" name="query" id="banner-search-term" class="inactive searchbox-input-class" value="">
+							<input type="submit" name="submit" id="banner-search-submit" value="search">
+							<a id="magGlassClick" class="ss-icon ss-standard" type="submit">🔎</a>
+						</form>
+		
+						</div><!-- /#network-social -->
+					
+						
+				</div>
+			</div><!-- /.network-header -->
+		
+		
+			<header id="banner">
+				<a id="mobile-offscreen-toggle" class="ss-standard ss-rows" href="javascript://"></a>
+				<div id="logo">
+					<a href="/" class="ir banner-logo" id="logoImage">Home</a>		
+				</div>
+				<div id="mobile-search-toggle" class="ss-standard ss-search"></div>
+			</header>
+		
+		
+			
 
 
 
@@ -1073,6 +1347,9 @@ function bindReshowCmp() {
 			<li class="reviewsNav"><a href="/reviews/" id="reviewsNav">Reviews</a></li>
 			<li class="howtoNav"><a href="/howto/" id="howtoNav">How-To</a></li>
 			<li class="videoNav"><a href="/video/" id="videoNav">Video</a></li>
+			<li class="dealsNav"><a href="/deals" id="dealsNav">Deals</a></li>
+			
+
 		</ul>
 
 		<ul class="fmenu" id="site-nav">
@@ -1081,27 +1358,23 @@ function bindReshowCmp() {
 					
 				</li>
 			
-				<li><a href="/category/iphone-ipad/">iPhone/iPad</a>
+				<li><a href="/category/apple-phone/">iPhones</a>
 					
 				</li>
 			
-				<li><a href="/category/os-x/">macOS</a>
+				<li><a href="/category/ipad/">iPads</a>
 					
 				</li>
 			
-				<li><a href="/category/ios-apps/">iOS</a>
+				<li><a href="/category/ios/">iOS</a>
 					
 				</li>
 			
-				<li><a href="/category/mac-apps/">Apps</a>
+				<li><a href="/category/wearables/">Wearables</a>
 					
 				</li>
 			
-				<li><a href="/category/computers-accessories/">Accessories</a>
-					
-				</li>
-			
-				<li><a href="/category/entertainment/">Entertainment</a>
+				<li><a href="/category/home-tech/">Home Tech</a>
 					
 				</li>
 			
@@ -1110,8 +1383,7 @@ function bindReshowCmp() {
 				</li>
 			
 			
-					
-					<li class="displayMobileOnly"><a href="/subscribe/">Subscribe</a></li>
+			<li class="displayMobileOnly"><a href="/subscribe/">Subscribe</a></li>
 		</ul>
 		
 			<div id="extra-nav-toggle"><a href="#extra-nav" class="ss-dropdown"></a></div>
@@ -1135,9 +1407,9 @@ function bindReshowCmp() {
 					
 						<li><a href="/category/ipad/">iPads</a></li>
 					
-						<li><a href="/category/computers-accessories/">Accessories</a></li>
+						<li><a href="/category/computers-accessories/">Computer Accessories</a></li>
 					
-						<li><a href="/category/mac-apps/">Apps</a></li>
+						<li><a href="/category/desktop-apps/">Desktop Software</a></li>
 					
 						<li><a href="/category/software-music/">Audio</a></li>
 					
@@ -1147,7 +1419,7 @@ function bindReshowCmp() {
 					
 						<li><a href="/category/components/">Components</a></li>
 					
-						<li><a href="/category/software-development/">Development Software</a></li>
+						<li><a href="/category/development-tools/">Development Tools</a></li>
 					
 				</ul>
 				<ul>
@@ -1158,15 +1430,15 @@ function bindReshowCmp() {
 					
 						<li><a href="/category/home-theater/">Home Theater</a></li>
 					
-						<li><a href="/category/ios-apps/">iOS</a></li>
+						<li><a href="/category/mobile-apps/">Mobile Apps</a></li>
 					
-						<li><a href="/category/phone-accessories/">iPhone Accessories</a></li>
+						<li><a href="/category/phone-accessories/">Phone Accessories</a></li>
 					
-						<li><a href="/category/ipad-accessories/">iPad Accessories</a></li>
+						<li><a href="/category/tablet-accessories/">Tablet Accessories</a></li>
 					
-						<li><a href="/category/ipods/">iPods</a></li>
+						<li><a href="/category/mp3-players/">MP3 Players</a></li>
 					
-						<li><a href="/category/os-x/">macOS</a></li>
+						<li><a href="/category/mac-os-x/">MacOS</a></li>
 					
 				</ul>
 				<ul>
@@ -1197,79 +1469,81 @@ function bindReshowCmp() {
 
 
 
-
-
-		</div> 
-	</div> 
-
-
-
-
-			<!-- Events Header -->
 		
-			
-				
-				 
-					
-					
-					
-					
-					
-				
-				 
-				 
-				 
-				 
-				  
-				  
-				 
-				 
-			
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
 		
+				</div> 
+			</div> 
+		
+		
+		
+		
+					<!-- Events Header -->
+				
+					
+						
+						 
+							
+							
+							
+							
+							
+						
+						 
+						 
+						 
+						 
+						  
+						  
+						 
+						 
+					
 
 
 
 
-<script>
-$(document).ready(function(){
-	$('.searchbox-input-class').each(function(){
-	    $(this).change(function(){
-	    	var qStr=$(this).val();
-	    	if($(this).val().indexOf('@')!=-1){
-	    		qStr=qStr.replace(/@/g,' ');
-	    		$(this).val(qStr);
-	    	}
-	    });
-	});
-});
-</script>
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+				
+		
+		<iframe name="__cmpLocator" style="display: none;"></iframe>
+		
+		
+		<script>
+		$(document).ready(function(){
+			$('.searchbox-input-class').each(function(){
+			    $(this).change(function(){
+			    	var qStr=$(this).val();
+			    	if($(this).val().indexOf('@')!=-1){
+			    		qStr=qStr.replace(/@/g,' ');
+			    		$(this).val(qStr);
+			    	}
+			    });
+			});
+		});
+		</script>
+	
 
 
 
@@ -1341,6 +1615,7 @@ $(document).ready(function(){
 	
 	
 	
+	
 		<!-- blx4 #2658 blox4.html  -->
 			
 
@@ -1358,6 +1633,9 @@ $(document).ready(function(){
 					
 					
 					
+					
+					
+						
 					
 				
 				
@@ -1625,7 +1903,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-<link rel="stylesheet" href="/www.idgcsmb/css/tso-links.css?v=20180920113919">
+<link rel="stylesheet" href="/www.idgcsmb/css/tso-links.css?v=20190617113432">
 
 	<div id="tso-wrapper"><div id="tso" style="display:none"></div></div>
 	<script type="text/javascript">
@@ -1638,7 +1916,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 				html += "<ul>";
 				for (var i=0; i<selectedAds.length;i++) {
 					html += "<li>";
-					html += "<a href='"+selectedAds[i].url+" "+selectedAds[i].title+"</a>";
+					html += "<a href='"+selectedAds[i].url+"'> "+selectedAds[i].title+"</a>";
 					html += "<span>"+selectedAds[i].body+"</span>";
 					if (null != selectedAds[i].pixel && selectedAds[i].pixel.length > 0 && selectedAds[i].pixel.indexOf('http') == 0) {
 						if(!requireHttps || selectedAds[i].pixel.indexOf('https://') == 0){
@@ -1682,7 +1960,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-		</div><iframe name="__cmpLocator" style="display: none;"></iframe>
+		</div>
 	
 		
 
@@ -1695,8 +1973,8 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-<link rel="stylesheet" href="/www.idgcsmb/css/footer.css?v=20180920113919">
-<link rel="stylesheet" href="/www.idgcsmb.mw/css/footer.css?v=20180920113919">
+<link rel="stylesheet" href="/www.idgcsmb/css/footer.css?v=20190617113432">
+<link rel="stylesheet" href="/www.idgcsmb.mw/css/footer.css?v=20190617113432">
 <div id="network"></div>
 
 	
@@ -1725,13 +2003,27 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 				<li><a href="/faq" rel="nofollow">Digital Magazines</a></li>
 				<li><a href="/newsletters/signup.html">Newsletters</a></li>
 				<li><a href="/about/cookie-policy.html">Cookie Policy</a></li>
-			</ul>
-			<ul class="right">
 				<li><a href="/about/member-preferences.html">Member Preferences</a></li>
 				<li><a href="/about/privacy.html" rel="nofollow">Privacy Policy</a></li>
 				<li><a href="/index.rss">RSS</a></li>
-				<li><a href="https://www.idg.com/terms-of-service-agreement/" rel="nofollow">Terms of Service Agreement</a></li>
-				<li><a href="/about/affiliates.html">E-commerce Affiliate Relationships</a></li>
+				<li><a href="https://www.idg.com/terms-of-service-agreement/" rel="nofollow">Terms of Service Agreement</a></li>			
+			</ul>
+			<ul class="right">
+				<li><a href="https://shop.macworld.com">Shop</a></li>
+				<li><a href="https://www.pcworld.com/couponcodes">Coupon Codes</a>
+					<ul>
+						<li><a href="https://www.pcworld.com/couponcodes/aliexpress">Aliexpress</a></li>
+						<li><a href="https://www.pcworld.com/couponcodes/ebay">Ebay</a></li>
+						<li><a href="https://www.pcworld.com/couponcodes/home-depot">Home Depot</a></li>
+						<li><a href="https://www.pcworld.com/couponcodes/hp">HP</a></li>
+						<li><a href="https://www.pcworld.com/couponcodes/jcpenney">jcpenney</a></li>
+						<li><a href="https://www.pcworld.com/couponcodes/oneplus">OnePlus</a></li>
+						<li><a href="https://www.pcworld.com/couponcodes/walmart">Walmart</a></li>
+						<li><a href="https://www.pcworld.com/couponcodes/target">Target</a></li>
+						<li><a href="https://www.pcworld.com/couponcodes/6pm-com">6PM</a></li>
+					</ul>
+				</li>
+				<li><a href="/about/affiliates.html">E-commerce Affiliate Relationships</a></li>				
 			</ul>
     	</div>
     	<div class="footer-col">
@@ -1750,10 +2042,11 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 				<li><a href="/category/os-x/">OS X</a></li>
 				<li><a href="/column/mwpodcast">Podcasts</a></li>
 				<li><a href="/video/">Video</a></li>
+				<li><a href="/deals">Deals</a></li>
 			</ul>
 			<h3>IDG Network Sites</h3>
 			<ul>
-				<li><a href="http://resources.idg.com/contact/contact-idg" rel="nofollow">Advertise</a></li>
+				<li><a href="https://www.idg.com/advertise-with-us/macworld/" rel="nofollow">Advertise</a></li>
 				<li><a href="https://www.idg.com/technetwork/technetwork-permissions-guildelines/" rel="nofollow">Permissions</a></li>
 				<li><a href="http://www.pcworld.com/" rel="nofollow">PCWorld</a></li>
 				<li><a href="http://www.techadvisor.co.uk/">Tech Advisor</a></li>
@@ -1768,7 +2061,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
     	</div>
     	<div class="footer-col">
     		<div id="footer-subscribe" class="clearfix">
-	    		<a href="https://ssl.palmcoastd.com/31401/apps/MCWDIGITAL?ikey=I**A03" rel="nofollow">
+	    		<a href="https://mcw.pcdfusion.com/pcd/Order?iKey=I**A09" rel="nofollow">
 	    			<img src="//alt.idgesg.net/images/furniture/macworld/footer-subscribe-mag-mw.png" alt="Macworld Magazine Cover">
 	    			<h2>Try Macworld <span>Risk-Free</span></h2>
 	    			<span class="btn-link">Subscribe Now</span>
@@ -1780,9 +2073,6 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 					</a>
 					<a href="https://twitter.com/macworld" class="network-tw ss-icon ss-social-circle banner-social banner-tw" alt="Twitter" itemprop="sameAs" rel="nofollow">
 						
-					</a>
-					<a href="https://plus.google.com/+macworld/posts" class="network-google ss-icon ss-social-circle banner-social banner-google" alt="Google+" itemprop="sameAs" rel="publisher">
-						
 					</a> 
 					
 						<a href="https://www.youtube.com/user/macworld" class="network-youtube ss-icon ss-social-circle banner-social banner-youtube" alt="YouTube">
@@ -1813,49 +2103,26 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 	
-		<option value="https://www.cio.com">CIO</option>
-	
-		<option value="https://www.cio-asia.com">CIO Asia</option>
-	
-		<option value="https://www.computerworld.com">Computerworld</option>
-	
-		<option value="https://www.csoonline.com">CSO</option>
-	
-		<option value="https://www.gamestar.com">Gamestar</option>
+		<option value="https://www.gamestar.com">GameStar</option>
 	
 		<option value="https://www.greenbot.com">Greenbot</option>
 	
-		<option value="https://www.idgconnect.com">IDG Connect</option>
-	
-		<option value="https://www.idg.tv">IDG.tv</option>
-	
-		<option value="https://www.infoworld.com">InfoWorld</option>
-	
-		<option value="https://www.itnews.com">IT News</option>
-	
-		<option value="https://www.itworld.com">ITworld</option>
-	
-		<option value="https://www.javaworld.com">JavaWorld</option>
-	
 		<option value="https://www.macworld.com">Macworld</option>
-	
-		<option value="https://www.networkworld.com">Network World</option>
 	
 		<option value="https://www.pcworld.com">PCWorld</option>
 	
 		<option value="https://www.techhive.com">TechHive</option>
 	
-		<option value="https://www.thefullnerd.com/">The Full Nerd</option>
-	
 
 		            </select>
 		    </div>
 		    
-		        <p><small><a href="http://idgcsmb.com/terms-of-service-agreement/">Copyright</a> © 2018 IDG Communications, Inc.</small></p>
+		        <p><small><a href="http://idgcsmb.com/terms-of-service-agreement/">Copyright</a> © 2019 IDG Communications, Inc.</small></p>
     	</div>
     </div> 
 </footer>
- 
+
+
 
 
 		
@@ -1923,7 +2190,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-<script src="/www/js/analytics/mouse_down.js"></script> 
+
 
 
 
@@ -1955,7 +2222,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 		});
 	</script>
 
-<script src="/www.idgcsmb/js/thm_post.js?v=20180920113919"></script>
+<script src="/www.idgcsmb/js/thm_post.js?v=20190617113432"></script>
 
 <script src="/www.idgcsmb/js/jquery/plug-ins/jquery.md5.js"></script>
 
@@ -1983,8 +2250,8 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
+
 	<!-- LiveRamp Sources -->
-	<script type="text/javascript" src="//storage.googleapis.com/cdn.pippio.com/sdk/pippio.min.js" async=""></script>
 	<script src="/www/js/utils/liveRamp.js"></script>
 	<!-- End of LiveRamp -->
 
@@ -1994,22 +2261,35 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 	
 	$(document).ready(function(){
 
-	$('#extra-nav-toggle a').click(function(){
-		if($(this).hasClass('open')){
-			$('#extra-nav').hide();
-			$(this).removeClass('open');
-			$('#extra-nav-toggle a').removeClass('ss-delete');
-			$('#extra-nav-toggle a').addClass('ss-dropdown');		
-		} else {
-			$('#extra-nav').show();
-			$(this).addClass('open');
-			$('#extra-nav-toggle a').removeClass('ss-dropdown');
-			$('#extra-nav-toggle a').addClass('ss-delete');					
+		$('#extra-nav-toggle a').click(function(){
+			if($(this).hasClass('open')){
+				$('#extra-nav').hide();
+				$(this).removeClass('open');
+				$('#extra-nav-toggle a').removeClass('ss-delete');
+				$('#extra-nav-toggle a').addClass('ss-dropdown');		
+			} else {
+				$('#extra-nav').show();
+				$(this).addClass('open');
+				$('#extra-nav-toggle a').removeClass('ss-dropdown');
+				$('#extra-nav-toggle a').addClass('ss-delete');					
+			}
+			return false;
+		});
+		
+		var isMobile = window.matchMedia("only screen and (min-width: 60.625em)");
+
+    	if (isMobile.matches) {	
+    		
+			$('li.dealsNav').mouseenter(function(){
+			    $(".dealsList").css({ 'display':'block'});
+			});           
+		
+			$('ul.dealsList').mouseleave(function(){  
+			    $(".dealsList").css({ 'display':'none'});	    
+			});
+		
 		}
-		return false;
-	});
-		   
-						  
+		  				  
 	});//-- end document Ready
 		
 	
@@ -2090,114 +2370,10 @@ $("#homepageLeaderboardWrapper").remove();
 	
 	
 	
-
-
-
-
-
-<!-- Begin BlueKai Tag-->
-<iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>
-<script type="text/javascript" src="https://tags.bkrtx.com/js/bk-coretag.js"></script>
-<!-- CryptoJS -->
-<script src="/www/js/utils/md5.js"></script>
-<script type="text/javascript" src="/www/js/analytics/idg_bk_coreapi.js"></script>
-
-<script type="text/javascript">
-bk_allow_multiple_calls=true;
-var blueKaiId=13977;
-var blueKaiPort=10;
-var brandCode = "mw";
-var regUrl="https://regdev.idge.int/api/"
-var daysToRefresh=30;
-var bk_debug_log=false;
-
-
-regUrl="https://reg.idgenterprise.com/api/";
-
-
-
-daysToRefresh=30;
-
-
 	
 
 
 
-
-
-
-
-bk_addPageCtx("cmpy", "[]");
-
-bk_addPageCtx('tid', '');
-
-	
-
-
-
-
-
-
-
-
-
-
-try{
-	consent.adsel.queue.push(function(){
-		console.log('*****GDPR: running queue for bluekai ad selection');
-		IDG.bkCoreApi.start();
-	});
-}
-catch(e){
-	//alert("Triggering catch")
-	consent.adsel.queue.push(function(){
-		bk_doJSTag(blueKaiId ,blueKaiPort);
-	});
-	if (window.console && window.console.log){
-		window.console.log("Error Occured While Processing Profile Siubmission")
-	}
-}
-
-
-
-//bk_doJSTag(13977, 10);
-
-
-
-
-
-
-
-
-
-
-
-$('article, #slideshowCarousel').on('click', '.product-list-price, .btn-amazon, .productLink', function(e) {
-	var $linkEl = $(e.target);
-	var po = $linkEl.data('po');
-	if ($.inArray(po, ['amazon', 'vendor', 'other']) >= 0) {
-		if (po == 'amazon') {
-			var prCat = $linkEl.data('bkc');
-			if (typeof prCat != 'undefined') {
-				bk_addPageCtx('event', 'AmazonClick'+prCat);
-			}
-			
-		}
-		var prMfr = $linkEl.data('bkmfr');
-		if (typeof prMfr != 'undefined') {
-			bk_addPageCtx('event', 'eCommerceMFR'+prMfr);
-		}
-		var prVndr = $linkEl.data('bkvndr');
-		if (typeof prVndr != 'undefined') {
-			bk_addPageCtx('event', 'eCommerceClickVendor'+prVndr);
-		}
-		consent.adsel.queue.push(function(){
-			bk_doJSTag(34202, 1);
-		});
-	}
-});
-</script>
-<!-- End BlueKai Tag -->
 
  		
 		
@@ -2211,8 +2387,12 @@ $('article, #slideshowCarousel').on('click', '.product-list-price, .btn-amazon, 
 
 
 
-
-
+<script type="text/javascript">
+consent.digitalelement.queue.push(function(){
+	$thm.logPlEvent({"b":"mw","e":"view","t":"article","id":""});
+	
+});
+</script>
 
 		
 		
@@ -2251,7 +2431,7 @@ _comscore.push(
 		<div id="abuseModal"></div>
 
 		
-			<!-- rev: 20180920113919  -->
+			<!-- rev: 20190617113432  -->
 		
 		
 		
@@ -2301,6 +2481,54 @@ _comscore.push(
  
  
 			
+		
+		
+		
+			
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+			<div id="gpt_custom_promo_2" class=" ad-container"></div>
+    		<script type="text/javascript">
+    		consent.ads.queue.push(function(){	
+    			try {
+	    			IDG.GPT.addDisplayedAd("gpt_custom_promo_2", "true");
+	    			$('#gpt_custom_promo_2').responsiveAd({screenSize:'971 1115', scriptTags: []});
+	    			IDG.GPT.log("Creating ad: gpt_custom_promo_2 [971 1115]");
+	    		}
+				catch (exception) {
+					console.log("Error with IDG.GPT: " + exception);
+				}
+    		});
+    		</script>
+    	
+	
+ 
+ 
+	
 		
 	
 
