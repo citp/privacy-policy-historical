@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the argos.co.uk privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103042057id_/http%3A//www.argos.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argos.co.uk privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619212125id_/https%3A//www.argos.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Go Argos
 
@@ -166,13 +166,17 @@ We use cookies to help give you the best experience on our websites and to allow
 **_What we do with the information you supply to us as part of the application:_**
 
   * Information that is supplied to us will be sent to the credit reference agencies;
+
   * If you tell us that you have a spouse or (personal) partner, we will: 
 
   * Search, link and/or record information at credit reference agencies about you both;
 
   * Link joint applicants and/or any individual identified as your spouse or partner, in our own records;
+
   * Take both your personal information and your personal partner’s personal information (if you have one) into account in future applications by either or both of you; and
+
   * Continue this linking until the account closes, or is changed to a sole account and one of you notifies us that you are no longer linked, so you must be sure that they are aware you are disclosing personal information about them to us for this purpose. 
+
   * If you give us false or inaccurate information and we suspect fraud, we will record this and may also pass this information to financial and other organisations involved in fraud prevention to protect us, them and our respective customers from theft and fraud.
 
   * With the information that we obtain we will: 
@@ -180,13 +184,17 @@ We use cookies to help give you the best experience on our websites and to allow
   * Assess this application for credit; 
 
   * Verify your identity and the identity of your spouse/partner; 
+
   * Undertake checks for the prevention and detection of fraud and/or money laundering;
+
   * Manage your personal account with us; and
+
   * Undertake periodic statistical analysis or testing to ensure the accuracy of existing and future Services, any or all of these processes may be automated.
 
   * We may use scoring methods to assess this application and to verify your identity.
 
   * If you are applying for one of our insurance products, we will share your details with our chosen group of insurers for them to process your application and, if appropriate, offer you an insurance product. The insurers may hold your information for a reasonable period for record keeping purposes, and may be required to share your information either where required by law, with regulators or statutory bodies or with third parties where you have been notified or it is obvious that they will do so.
+
 
 
 
