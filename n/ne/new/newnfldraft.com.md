@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newnfldraft.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212050251id_/http%3A//newnfldraft.com/newnfldraft-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newnfldraft.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619032336id_/http%3A//newnfldraft.com/newnfldraft-privacy-policy) for the most accurate reproduction.*
 
 # Newnfldraft Privacy Policy | 2018 NFL Mock Draft | New NFL Draft
 
