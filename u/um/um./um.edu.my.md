@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the um.edu.my privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215171305id_/https%3A//www.um.edu.my/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the um.edu.my privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620002945id_/https%3A//um.edu.my/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
