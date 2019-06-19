@@ -1,69 +1,77 @@
-> *The following text is extracted and transformed from the jamesavery.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121044id_/http%3A//www.jamesavery.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesavery.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619205635id_/https%3A//www.jamesavery.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Security | James Avery
+# Privacy Policy - James Avery
 
-At James Avery, we value and protect our customer’s privacy.
+## Privacy Policy
 
-### What Personally Identifying Information and Other Data We Collect
+At James Avery, we value and protect our customers' privacy.
 
-For each visitor to our Website, we receive information concerning the usage of our Website by that visitor, including the visitor’s IP address, information concerning the visitor’s browser and/or operating systems, and other access-related information. In addition, we (or a third party acting on our behalf) may use “cookies” or other tools in order to learn such things as whether an email is opened, how a visitor uses our Website, which pages are viewed and for how long, and whether a visitor returns to our Website.
+### What personally identifying information and other data we collect
 
-We also collect data that you personally enter into the Website, and data that you provide to our sales associates in James Avery stores or our mail order customer service associates. We may collect this information in connection with inquiries, purchases, promotions, catalog orders, email correspondence, and online registration or catalog orders. We may also collect other information about you generated as a result of our interactions with you, information from third parties, and information that you may directly provide through any phone, mail, fax, and email interactions or any paper registrations that you submit. The information that may be collected includes your name, mailing address, email address, phone number, any personal preferences you choose to provide, and transaction details such as style, size, price, date, store, and payment information (e.g., credit card number and billing address). Information may also be collected when you interact with us on social media, such as when you "like" us or when you use one of our hashtags.
+For each visitor to our website, we receive information concerning the usage of our website by that visitor, including the visitor's IP address, information concerning the visitor’s browser and/or operating systems, and other access-related information. In addition, we (or a third party acting on our behalf) may use "cookies" or other tools in order to learn such things as whether an email is opened, how a visitor uses our website, which pages are viewed and for how long, and whether a visitor returns to our website. ****
 
-### How We Use Information and How You Can Control Such Use
+We also collect data that you personally enter into the Website, and data that you provide to our sales associates in James Avery stores or our mail order customer service associates. We may collect this information in connection with inquiries, purchases, promotions, catalog orders, email correspondence, and online registration or catalog orders. We may also collect other information about you generated as a result of our interactions with you, information from third parties, and information that you may directly provide through any phone, mail, fax, and email interactions or any paper registrations that you submit. The information that may be collected includes your name, mailing address, email address, phone number, any personal preferences you choose to provide, and transaction details such as style, size, price, date, store, and payment information (e.g., credit card number and billing address). Information may also be collected when you interact with us on social media, such as when you "like" us or when you use one of our hashtags.  
 
-The information we collect is used to process orders, to bill and collect payment, to resolve problems, to contact customers or prospective customers, to meet legal concerns or obligations, and to maintain or improve our products and services, including our email or other marketing, our Website, and any other of our Internet or other business activities.
+
+### How we use information and how you can control such use
+
+The information we collect is used to process orders, to bill and collect payment, to resolve problems, to contact customers or prospective customers, to meet legal concerns or obligations, and to maintain or improve our products and services, including our email or other marketing, our website, and any other of our Internet or other business activities. ****
 
 If you supply us with your postal address, you may receive mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, you may be removed from our postal mailing list by requesting to be removed using any of the Contact/Opt-Out Methods listed below.
 
-Within our Website you have the option to join our email list and receive emails containing promotional information about our products, services, and offers. In addition, if you provide us with your email address on any of our other Website pages, you may automatically be added to our email list and receive such emails. If you do not wish to receive our promotional emails, you may opt-out by clicking on the “unsubscribe” link found at the bottom of all promotional/advertising emails and following the related instructions, or by contacting us using any of the Contact/Opt-Out Methods listed below.
+Within our website you have the option to join our email list and receive emails containing promotional information about our products, services, and offers. In addition, if you provide us with your email address on any of our other website pages, you may automatically be added to our email list and receive such emails. If you do not wish to receive our promotional emails, you may opt-out by clicking on the “unsubscribe” link found at the bottom of all promotional/advertising emails and following the related instructions, or by contacting us using any of the Contact/Opt-Out Methods listed below.
 
-### Persons Who Supply Us With Their Telephone Numbers Will Only Receive Telephone Contact From Us Concerning Purchases or Direct Inquiries Made By Such Persons.
+  
 
-We provide to certain third party service providers such personally identifiable or other information as is necessary for those third party service providers to perform services for us, including credit card processing, shipping, database management, Internet services, and marketing or survey services. We require such third party service providers to confirm that their privacy practices are consistent with our privacy practices.
 
-The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other reputable marketers to bring you offers of interest. This would apply to information that we collect on our Website, information that you provide to our sales associates in James Avery stores or our mail order customer service associates. If you prefer that we do not share your name and address with other reputable marketers, please contact us at any of the Contact/Opt-Out Methods listed below and request that your name be marked as “do not share”. We recognize that each of our customers have their own preferences when it comes on-line data sharing. To learn more about the use of this information or to make choices about receiving personalized advertising provided by third parties, please visit the Network Advertising Initiative at <http://www.networkadvertising.org/choices>.
+**Persons who supply us with their telephone numbers will only receive telephone contact from us concerning purchases or direct inquiries made by such persons.**
+
+The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other reputable marketers to bring you offers of interest. This would apply to information that we collect on our website, information that you provide to our sales associates in James Avery stores or our mail order customer service associates. If you prefer that we do not share your name and address with other reputable marketers, please contact us at any of the Contact/Opt-Out Methods listed below and request that your name be marked as “do not share”.
 
 We may provide personally identifiable or other information, without notice to our customer, in response to a lawful request from a law enforcement or government agency or in response to a formal request in a civil action that on its face meets the requirements for such a request. In addition, we may provide personally identifiable information, without notice to our customer, to credit bureaus or collection agencies if we are permitted or required to do so by law.
 
-### Use of “CookIes” and Similar Tools
+#### Use of "Cookies" and Similar Tools
 
-“Cookies” and similar tools are essentially small pieces of information that are delivered and received by our Website (or, in some instances, by our emails or by banner ads that we may purchase for use on another organization’s website) and stored by your browser on your computer’s hard drive. We and our third party service providers may use “cookies” or similar tools to learn about visitors’ preferences and Internet session information, to record user-specific information including state of residence or the web pages that a visitor accesses and for how long (commonly referred to as "analytics"). Among other things, “cookies” and similar tools permit us to tailor offerings to Website visitor preferences, to improve our Website and email marketing, and to provide better service to return visitors to our Website. We do not use any information gathered using “cookies” or similar tools for any purpose other than our Internet service, internal business, and marketing objectives. For more information about our current third-party analytics provider, or to opt-out of the analytics features they offer us, please visit <https://tools.google.com/dlpage/gaoptout/>.
+“Cookies” and similar tools are essentially small pieces of information that are delivered and received by our website (or, in some instances, by our emails or by banner ads that we may purchase for use on another organization’s website) and stored by your browser on your computer’s hard drive. We and our third-party service providers may use “cookies” or similar tools to learn about visitors’ preferences and Internet session information, to record user-specific information including state of residence or the web pages that a visitor accesses and for how long (commonly referred to as "analytics"). Among other things, “cookies” and similar tools permit us to tailor offerings to website visitor preferences, to improve our website and email marketing, and to provide better service to return visitors to our website. We do not use any information gathered using “cookies” or similar tools for any purpose other than our Internet service, internal business, and marketing objectives. To opt out of our cookies used for these purposes , click [here](http://dtmc.jamesavery.com/adinfo/choice/prod/?type=fpc&cid=61240&cname=James%20Avery&cmagic=414e2c&clogo=61240.png&loc=us&lang=en-us). For more information about our current third-party analytics provider, or to opt-out of the analytics features they offer us, please visit <https://tools.google.com/dlpage/gaoptout/>
 
-### Our "Do Not Track" Policy
+You can also visit the Network Advertising Initiative, [www.networkadvertising.org/choices](http://optout.networkadvertising.org/#!/), or the Digital Advertising Alliance, <http://www.aboutads.info/>, to learn more about interest-based advertising, or to opt out of receiving advertisements tailored to your interests from their respective members and participants.
+
+#### Our "Do Not Track" Policy
 
 At this time, our Website does not recognize automated "Do Not Track" signals. However, you can change your privacy preferences regarding the use of cookies and similar tools through your browser settings. Adjusting your privacy preferences may prevent you from enjoying the full features offered at our Website.
 
-### Protection/Security
+#### Protection/Security
 
-We employ reasonable security measures to protect sensitive information, including personally identifiable information, in our possession. While such measures include encryption and authentication measures to protect against the loss, misuse, or alteration of information that we collect from customers or other visitors on our Website, no information transmissions on the Internet are completely secure. Consequently, while we strive to secure your personal information, we cannot guarantee such security, and you ultimately provide such information at your own risk.
+We employ reasonable security measures to protect sensitive information, including personally identifiable information, in our possession. While such measures include encryption and authentication measures to protect against the loss, misuse, or alteration of information that we collect from customers or other visitors on our website, no information transmissions on the Internet are completely secure. Consequently, while we strive to secure your personal information, we cannot guarantee such security, and you ultimately provide such information at your own risk.
 
-### Protecting Children
+#### Protecting Children
 
-We do not knowingly permit anyone under the age of 13 to purchase products on our Website without parental consent. We encourage parents to supervise and participate in their children’s Internet activities, and we urge children to exercise caution and consult their parents before providing any personally identifiable information on the Internet.
+We do not knowingly permit anyone under the age of 13 to purchase products on our website without parental consent. We encourage parents to supervise and participate in their children’s Internet activities, and we urge children to exercise caution and consult their parents before providing any personally identifiable information on the Internet.
 
-### Updates to Privacy Policy
+#### Updates To Privacy Policy
 
-This privacy policy supersedes and replaces all of our previous privacy policies. From time to time, we may update this privacy policy. Notice of any such updates which contain any material changes will be posted on our Website. You are encouraged to check our Website periodically for any material changes to this privacy policy.
+This privacy policy supersedes and replaces all of our previous privacy policies. From time to time, we may update this privacy policy. Notice of any such updates which contain any material changes will be posted on our website. You are encouraged to check our website periodically for any material changes to this privacy policy.
 
-### Contact/Opt-Out Methods
+#### Contact/Opt Out Methods
 
 Should you have any questions or concerns regarding your information or privacy related issues, please contact us via any of the methods listed directly below:
 
-Via Mail:
-
-James Avery – Attention: Internet/Privacy Customer Service
-
-P.O. Box 291367
-
+Via Mail:  
+James Avery – Attention: Internet/Privacy Customer Service  
+P.O. Box 291367  
 Kerrville, TX 78029-1367
 
-Via Telephone:
+Via Email:  
+[privacy@jamesavery.com](mailto:privacy@jamesavery.com)
 
-800-283-1770
+Via Telephone:  
+[800-283-1770](tel:800-283-1770)  
+Via Fax:  
+830-895-4044
 
-Upon your request, using any of these methods, we will happily correct any inaccurate information concerning you that we may have in reasonably obtainable form. You may also request to be removed from our email list using any of these methods, or by clicking on an unsubscribe link in one of our emails and following the related instructions.
+Upon your request, using any of these methods, we will happily correct any inaccurate information concerning you that we may have in reasonably obtainable form. You may also request to be removed from our email list using any of these methods, or by clicking on an unsubscribe link in one of our emails and following the related instructions.  
 
-### Material Updates
 
-November 8, 2016: To offer you the opportunity to learn more about on-line data sharing and our third-party service providers, we added web-links under the sections titled "How We Use Information and How You Can Control Such Use" and "Use of 'Cookies' and Similar Tools." These web-pages provide you an additional tool to opt-out of certain data sharing features at your discretion. We also added the section titled "Our 'Do Not Track' Policy" to highlight how we respond to automated "Do Not Track" signals.
+#### Material Updates
+
+March 5, 2018: To provide you additional tools to opt-out of certain online data sharing features at your discretion, we added two new web-links under the Section titled "Use of 'Cookies' and Similar Tools."
