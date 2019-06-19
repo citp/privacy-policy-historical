@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the bigtennetwork.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231171203id_/http%3A//btn.com/about/btn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtennetwork.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619211203id_/http%3A//btn.com/about/btn-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Big Ten Network
 
-_Effective Date: August 11, 2016_
+_Effective Date: March 20, 2019_
+
+**What’s Changed**
+
+As a result of a recent corporate transaction between 21st Century Fox and The Walt Disney Company, Big Ten Network, LLC has become part of the newly formed Fox Corporation. We have updated the information about our corporate affiliates in the privacy policy accordingly.
 
 Table of Contents:  
 **1. _SCOPE AND APPLICATION_ :  **What and who this Policy covers. **  
@@ -21,7 +25,7 @@ Table of Contents:
 
 Big Ten Network, LLC (“BTN”), which operates the website [http://www.BTN.com](http://www.btn.com/) (“BTN.com”), has developed this Privacy Policy to describe how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through the sports-related websites (the “BTN Sites”), mobile sites, applications (“apps”), widgets, and other content and services that are linked to this Privacy Policy (collectively, the “BTN Services”).
 
-By providing personal information to us and using the BTN Services, you agree to the terms and conditions of this Privacy Policy. To see a list of our affiliated companies (“BTN Affiliates”) click [here](http://www.21cf.com/).
+By providing personal information to us and using the BTN Services, you agree to the terms and conditions of this Privacy Policy. To see a list of our affiliated companies (“BTN Affiliates”) click [here](http://www.foxcorporation.com/).
 
 As set forth in our [Terms of Use](http://btn.com/about/btn-terms-of-use/), the BTN Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
@@ -123,7 +127,7 @@ You may request that we not share your personal information on a going-forward b
 
 We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by applicable law.
 
-Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with Other Services. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements. Because of the nature of caching technology, your account may not be instantly inaccessible to others, and there may be a delay in the removal of the content from elsewhere on the Internet and from search engines.
+Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with Other Services. We may also retain backup information related to your account on our servers for some time after cancellation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements. Because of the nature of caching technology, your account may not be instantly inaccessible to others, and there may be a delay in the removal of the content from elsewhere on the Internet and from search engines.
 
   8. **8\. SENSITIVE INFORMATION**
 
