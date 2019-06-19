@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-templates.lt privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218154621id_/http%3A//free-templates.lt/tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-templates.lt privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619083024id_/http%3A//free-templates.lt/tos.html) for the most accurate reproduction.*
 
 # Free Templates and Themes for popular CMS
 
