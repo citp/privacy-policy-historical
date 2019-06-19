@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231150223id_/https%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619174809id_/https%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Five Star Alliance
 
-Last Updated 05/25/2018
+Last Updated 10/31/2018
 
 [](https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.fivestaralliance.com&lang=en)     [](https://privacy.truste.com/privacy-seal/validation?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b)
 
@@ -58,7 +58,7 @@ As is true of most websites, we gather certain information automatically and sto
 
 ### Behavioral Targeting / Re-Targeting
 
-We partner with a third party to either display advertising on our web site or to manage our advertising on other sites. If you are outside of the EU, our partner may use technologies such as cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [CLICKING HERE](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served all advertising. You will still continue to receive generic ads.
+We partner with a third party to either display advertising on our web site or to manage our advertising on other sites. If you are outside of the EU, our partner may use technologies such as cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [CLICKING HERE](http://preferences-mgr.truste.com/) and [HERE](http://optout.networkadvertising.org/). Please note this does not opt you out of being served all advertising. You will still continue to receive generic ads.
 
 ### How we share information
 
@@ -99,6 +99,12 @@ Five Star Alliance
 Washington, DC 20036 USA  
 +1 (703) 836-0692  
 <https://www.fivestaralliance.com/>
+
+**See also:**
+
+[Five Star Alliance Terms](https://web.archive.org/luxury-hotel-experts/terms)
+
+[How Five Star Alliance Protects and Respects Your Data](https://web.archive.org/content/respecting-and-protecting-your-data)
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b)
 
