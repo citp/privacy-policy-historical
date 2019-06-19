@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the refinancegold.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215184307id_/http%3A//refinancegold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refinancegold.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620010459id_/http%3A//refinancegold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Refinance Gold
 
-Last updated: May,2018
+Last updated: March, 2019
 
-RefinanceGold LTD (“us”, “we”, or “our”) operates the [http://www.RefinanceGold.com](http://www.omgstudios.com/) website (the “Service”).  
+RefinanceGold LTD (“us”, “we”, or “our”) operates the http://www.RefinanceGold.com website (the “Service”).  
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
 We will not use or share your information with anyone except as described in this Privacy Policy.  
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://www](http://www/).RefinanceGold.com
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.RefinanceGold.com
 
 **Information Collection And Use**
 
@@ -35,7 +35,7 @@ We use “cookies” to collect information. You can instruct your browser to re
 **DoubleClick Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.  
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/)
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page:[http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/)
 
 
 
@@ -48,10 +48,10 @@ RefinanceGold uses remarketing services to advertise on third party web sites to
 **Facebook**
 
   * Facebook remarketing service is provided by Facebook Inc.  
-You can learn more about interest-based advertising from Facebook by visiting this page: [https://www.facebook.com/help/164968693837950](https://www.facebook.com/help/164968693837950)  
-To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: [https://www.facebook.com/about/ads/#568137493302217](https://www.facebook.com/about/ads/#568137493302217)  
-Facebook adheres the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/), the Digital Advertising Alliance of Canada in Canada [http://youradchoices.ca/](http://youradchoices.ca/) or the European Interactive Digital Advertising Alliance in Europe [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/), or opt-out using your mobile device settings.  
-For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)
+You can learn more about interest-based advertising from Facebook by visiting this page:[https://www.facebook.com/help/164968693837950](https://www.facebook.com/help/164968693837950)  
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook:[https://www.facebook.com/about/ads/#568137493302217](https://www.facebook.com/about/ads/#568137493302217)  
+Facebook adheres the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA[http://www.aboutads.info/choices/](http://www.aboutads.info/choices/), the Digital Advertising Alliance of Canada in Canada [http://youradchoices.ca/](http://youradchoices.ca/) or the European Interactive Digital Advertising Alliance in Europe [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/), or opt-out using your mobile device settings.  
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy:[https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)
 
 
 
@@ -59,8 +59,8 @@ For more information on the privacy practices of Facebook, please visit Facebook
 **AppNexus**
 
   * AppNexus remarketing service is provided by AppNexus Inc.  
-You can opt-out of AppNexus remarketing by visiting the Privacy & the AppNexus Platform web page: [http://www.appnexus.com/platform-policy#choices](http://www.appnexus.com/platform-policy#choices)  
-For more information on the privacy practices of AppNexus, please visit the AppNexus Platform Privacy Policy web page: [http://www.appnexus.com/platform-policy](http://www.appnexus.com/platform-policy)
+You can opt-out of AppNexus remarketing by visiting the Privacy & the AppNexus Platform web page:[http://www.appnexus.com/platform-policy#choices](http://www.appnexus.com/platform-policy#choices)  
+For more information on the privacy practices of AppNexus, please visit the AppNexus Platform Privacy Policy web page:[http://www.appnexus.com/platform-policy](http://www.appnexus.com/platform-policy)
 
 
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7e171018113e1113190d0a0b1a17110d501d1113)
+  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#741d1a121b341b1913070001101d1b075a171b19)
 
 
 
