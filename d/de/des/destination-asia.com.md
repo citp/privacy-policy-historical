@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destination-asia.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212225001id_/http%3A//destination-asia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destination-asia.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619162126id_/http%3A//destination-asia.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
