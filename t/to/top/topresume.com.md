@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topresume.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104100322id_/https%3A//www.topresume.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topresume.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620003840id_/https%3A//www.topresume.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TopResume
 
@@ -55,9 +55,9 @@ We will only retain your personal data for as long as necessary to fulfil the pu
 
 We have implemented measures and procedures that adequately protect the privacy of individuals and ensure that data protection is integral to all processing activities. This includes implementing measures such as:
 
-  * Data minimisation (e.g. not keeping data for longer than is necessary);
-  * Pseudonymisation;
-  * Anonymisation;
+  * Data minimization (e.g. not keeping data for longer than is necessary);
+  * Pseudonymization;
+  * Anonymization;
   * Cyber security; and
   * A data security policy.
 
@@ -65,7 +65,7 @@ We have implemented measures and procedures that adequately protect the privacy 
 
 ### Your rights – individuals in the European Union
 
-If you are an individual in the European Union, you have the right to access, correct, restrict, or erase your personal information stored on our platform at any time. You can also exercise any of these rights at any time by contacting us at [privacy@topcv.com.](mailto:privacy@topcv.com) Your rights include the following:
+If you are an individual in the European Union, you have the right to access, correct, restrict, or erase your personal information stored on our platform at any time. You can also exercise any of these rights at any time by contacting us at [privacy@topresume.com.](mailto:privacy@topresume.com) Your rights include the following:
 
   * _Accessing your data._ Upon request, we shall provide any information relating to your data and our processing of your data in a concise, transparent, intelligible, and easily accessible form using clear and plain language. The information shall be provided in writing or by other means, including, where appropriate, by electronic means within 30 days of a written request. 
   * _Correcting your data._ You have the right to ask us to rectify any inaccurate or incomplete personal data on our platform. If we have given your personal data to any third parties, we will notify those third parties that the Company has received a request to rectify your personal data, unless doing so proves impossible or involves disproportionate effort. Those third parties should also rectify the personal data they hold - however, we are not in a position to audit those third parties to ensure that the rectification has occurred. 
@@ -90,9 +90,9 @@ _Withdrawing your consent._ Where we are relying on consent to process your pers
 
 ### Your rights - individuals outside the European Union
 
-_Accessing Account Information._ We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant – [privacy@topcv.com.](mailto:privacy@topcv.com)
+_Accessing Account Information._ We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant – [privacy@topresume.com.](mailto:privacy@topresume.com)
 
-_A Record of Data Transfer._ TopResume will provide the right to request and receive, once a year and free of charge, information about third parties to whom we have disclosed certain types of personal information (if any) about you for our direct marketing purposes in the prior calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [privacy@topcv.com.](mailto:privacy@topcv.com) and please include the phrase "Personal Information Privacy Request" in the subject line, the domain name of the website you are inquiring about, along with your name, address and email address. At our option, we may respond to such requests by providing instructions about how our users can exercise their options to prevent our disclosure of personal information to third parties for their direct marketing purposes.
+_A Record of Data Transfer._ TopResume will provide the right to request and receive, once a year and free of charge, information about third parties to whom we have disclosed certain types of personal information (if any) about you for our direct marketing purposes in the prior calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [privacy@topresume.com.](mailto:privacy@topresume.com) and please include the phrase "Personal Information Privacy Request" in the subject line, the domain name of the website you are inquiring about, along with your name, address and email address. At our option, we may respond to such requests by providing instructions about how our users can exercise their options to prevent our disclosure of personal information to third parties for their direct marketing purposes.
 
 _California Online Privacy Protection Act._ As required by the California Online Privacy Protection Act ("California Act") and the California Business and Professions Code, this Privacy Policy identifies the categories of Personally Identifiable Information (as that term is defined above and in the California Act) that we collect through our website about individual consumers who use or visit our website and the categories of third-party persons or entities with whom such personally identifiable information may be shared. See more about the [California Act.](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf)
 
@@ -115,10 +115,10 @@ If you do not receive timely acknowledgement of your complaint, or if your compl
 
 ### Changes to our Company
 
-If we are involved in a reorganisation, merger, acquisition, or sale of our assets, your information may be transferred as part of that deal. We will notify you (e.g. via e-mail to the e-mail address associated with your account) of any such deal and outline your choices in that event.
+If we are involved in a reorganization, merger, acquisition, or sale of our assets, your information may be transferred as part of that deal. We will notify you (e.g. via e-mail to the e-mail address associated with your account) of any such deal and outline your choices in that event.
 
 We may revise this privacy policy from time to time and will post the most current version on our website. If a revision meaningfully reduces your rights, we will notify you.
 
 ### Contact
 
-Have questions or concerns about our Services or our privacy policy? Contact us at [privacy@topcv.com.](mailto:privacy@topcv.com)
+Have questions or concerns about our Services or our privacy policy? Contact us at [privacy@topresume.com.](mailto:privacy@topresume.com)
