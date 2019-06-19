@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pediped.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007013020id_/http%3A//www.pediped.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pediped.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620014528id_/https%3A//www.pediped.com/privacy) for the most accurate reproduction.*
 
 # Privacy | pediped footwear | comfortable shoes for kids | infant baby toddler youth shoes
 
