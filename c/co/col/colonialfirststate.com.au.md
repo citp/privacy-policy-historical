@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908014356id_/http%3A//www3.colonialfirststate.com.au/about-us/terms-and-disclosure/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colonialfirststate.com.au privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619054403id_/https%3A//www3.colonialfirststate.com.au/about-us/terms-and-disclosure/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -11,18 +11,12 @@ The Group’s Privacy Policy may be accessed at [commbank.com.au](https://www.co
 Our Privacy Statement covers:
 
   * Information we collect
-
   * How we use your information
-
   * Who we exchange information with
-
   * Keeping your information secure
-
   * Accessing, updating and correcting your information
-
   * Making a privacy complaint.  
  
-
 
 
 
