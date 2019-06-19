@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertix.io privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220002055id_/http%3A//vertix.io/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertix.io privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619234653id_/http%3A//www.vertix.io/privacy.txt) for the most accurate reproduction.*
 
 # 
 
