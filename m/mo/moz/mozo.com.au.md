@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozo.com.au privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229161413id_/https%3A//mozo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozo.com.au privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619042424id_/https%3A//mozo.com.au/privacy) for the most accurate reproduction.*
 
 # Mozo Privacy Policy | Mozo
 
@@ -14,20 +14,22 @@ We will only collect personal information that is necessary for us to provide yo
 
 The following are the main types of personal information we collect and the main purpose for which that information is collected: 
 
-### Registration information 
+### Personal information we collect 
 
-Registration information is the information that you provide to us when you: 
+The primary purpose for which we collect your personal information is to provide the services you request. This includes: 
 
-  * Use the Services that we offer 
   * Opt in to receive news, alerts, surveys and special offers from us 
   * Complete a customer review survey 
   * Provide us with feedback or complete one of our user surveys 
   * Complete inquiry forms requesting Mozo or third party providers, selected by you, contacting you 
   * Speak with us to discuss product information and request to be contacted by third party providers 
+  * Obtain your credit score for the purpose of providing you with tailored loan pricing at your request 
 
 
 
 This information, in most cases, will be your email address but may also be your name, phone number, postcode and information associated to your request. This information also includes other information that you may provide as part of your ongoing relationship with Mozo. 
+
+If you authorise us to obtain your credit score we will ask you for additional identity information for the purpose of obtaining that score from a credit agency. This is typically your full name, address, date of birth, sex, and driver’s licence number. 
 
 ### Public information, post and commentary 
 
@@ -58,6 +60,7 @@ We use the information we collect about you in order to provide the Services to 
   * To carry out research services provided to Mozo customers 
   * To respond to inquiries 
   * To undertake internal accounting and administration 
+  * To provide you with customised rate information based on your credit score, where you have asked us to do so 
 
 
 
@@ -99,7 +102,7 @@ By communicating with Mozo, including by submitting information through Mozo's w
 
 ### Updates to Privacy Policy 
 
-This Privacy Policy was last updated on 4 March 2015. 
+This Privacy Policy was last updated on 6 February 2019. 
 
 Mozo may update this Privacy Policy from time to time as it enhances the Mozo Service. Any changes that Mozo makes to this Privacy Policy will become effective when we post the Privacy Policy. You should periodically visit this page to review the current Privacy Policy. 
 
@@ -117,7 +120,7 @@ You have the right to anonymity, or to use a pseudonym when dealing with us, and
 
 ### Data Retention 
 
-We will retain any information collected for the period necessary for us to fulfil the purpose for which it was collected as outlined in this Privacy Policy. If the law requires a longer retention period then we will retain the information as dictated by law. We may also retain backup information of personal information we have collected from you under this Privacy Policy. This information may be retained for the purposes of complying with applicable laws or our own security policies. We do not always complete remove or delete all of your information due to technical and system constraints along with contractual, financial or legal requirements. 
+We will retain any information collected for the period necessary for us to fulfil the purpose for which it was collected as outlined in this Privacy Policy. If the law requires a longer retention period then we will retain the information as dictated by law. We may also retain backup information of personal information we have collected from you under this Privacy Policy. This information may be retained for the purposes of complying with applicable laws or our own security policies. We do not always complete remove or delete all of your information due to technical and system constraints along with contractual, financial or legal requirements. Identity information provided for the purpose of obtaining a credit score will only be used for the authorised purpose and not retained by Mozo. 
 
 ### Complaints 
 
@@ -143,7 +146,7 @@ Privacy Compliance Officer
 
 Mozo Pty Ltd 
 
-Level 11, 263 Clarence St 
+Level 10, 89 York St 
 
 Sydney NSW 2000   
   
@@ -155,6 +158,8 @@ Phone: 
   
 Mozo provides factual information in relation to financial products. While Mozo attempts to make a wide range of products and providers available via its site it may not cover all the options available to you. The information published on Mozo is general in nature only and does not consider your personal objectives, financial situation or particular needs and is not recommending any particular product to you. Mozo is paid by product issuers for clicks on, or applications for, products marked as "Promoted". If you decide to apply for a product you will be dealing directly with that provider and not with Mozo. Mozo recommends that you read the relevant PDS or offer documentation before taking up any financial product offer. For more information please see Mozo's FSG, General advice disclaimer or Terms of use.
 
-[General advice disclaimer](https://mozo.com.au/general-advice-disclaimer) [FSG](https://web.archive.org/PDFs/FSG-1-November-2018.pdf) [Terms of use](https://mozo.com.au/terms-and-conditions) [Privacy](https://mozo.com.au/privacy)
+[General advice disclaimer](https://mozo.com.au/general-advice-disclaimer) [FSG](https://stat.mozo.com.au/pdf/FSG-12-June-2019.pdf) [Terms of use](https://mozo.com.au/terms-and-conditions) [Privacy](https://mozo.com.au/privacy)
 
-_mozo.com.au_ © Copyright 2008-2018 Mozo Pty Ltd. All Rights Reserved. ABN: 68 128 199 208. AFSL & ACL 328141 
+_mozo.com.au_ © Copyright 2008-2019 Mozo Pty Ltd. All Rights Reserved. ABN: 68 128 199 208. AFSL & ACL 328141 
+
+[ ](https://www.facebook.com/Mozo.com.au) [ ](https://twitter.com/mozo_au) [ ](https://www.instagram.com/mozo.com.au/) [ ](https://www.linkedin.com/company/mozo-pty-ltd/)
