@@ -1,92 +1,71 @@
-> *The following text is extracted and transformed from the molteni.it privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024122805id_/http%3A//www.molteni.it/am/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the molteni.it privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619150814id_/https%3A//www.molteni.it/us/policy/privacy) for the most accurate reproduction.*
 
 # Molteni&C
 
-**Statement of information on processing of personal data - Information document pursuant to and due to the effects of Article 13, Law by Decree No. 196 of 30 June 2003**
+**PRIVACY POLICY  
+Information notice pursuant to Art. 13 of the Regulation (EU) 2016/679 (“GDPR”)**
 
-In observance of Law by Decree No. 196 of 30 June 2003 (Privacy Code) and subsequent amendments, herewith we provide you with the due information with regard to the processing of the personal data provided by you. The statement of information is not to be considered valid for other Websites that may be consultable through links present on Internet sites with the domain of the proprietor, which is not to be considered in any way responsible for the Internet sites of third parties. Involved is a statement of policy that is made also pursuant to [Art. 13 of Law by Decree No. 196/2003 - Code in the Matter of Protection of Personal Data](http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/1311248#articolo13).  Such information is also inspired by Recommendation No. 2/2001 that the European authorities for the protection of personal data, gathered in the Group instituted by [Art. 29 of Directive 95/46/EC](http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/432175), adopted on 17 May 2001 to single out some minimal requisites for the collection of personal data online, and, in particular, the modalities, the timeframe and the nature of the information that the those responsible for the processing must provide to users when they log onto Web pages, whatever the purposes of the connection, as well as the provisions contained in Directive 2002/58/EC, as updated by [Directive 2009/136/EC](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:337:0011:0036:it:PDF), in the matter of cookies
+According to art. 13 of the Regulation (EU) 2016/679 (General Data Protection Regulation) we provide you with the due information concerning the processing of your personal data carried out through this website. 
 
- **1.THE "PROPRIETOR" OF THE PROCESSING** , pursuant to [Article 28](http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/1311248#articolo28) of the Code in the matter of protection of personal data, is **Molteni & C S.p.A.**, Via Rossini 50, Giussano (MB), in the person of the legal representative pro-tempore.
+**JOINT CONTROLLERS** are **Molteni & C. S.p.A.**, Via Rossini 50, Giussano (MB), Italy, as represented by the pro-tempore legal representative and **Dada S.p.A.** , Strada Provinciale 31 - Mesero (MI) Italy, as represented by the pro-tempore legal representative (hereinafter each referred to as **“Controller”** and jointly **“Joint Controllers”** ). Joint Controllers jointly determine the purposes and means of processing and define in a transparent manner, by means of an arrangement between them, their respective roles and responsibilities. The essence of the arrangement is available at the Joint Controllers’ headquarters.  
+You can contact the Joint Controllers at any time at the following contacts: T +39 0362 3591, email: [privacy@molteni.it](mailto:privacy@molteni.it); T +39 02 972.079.1, email: [privacy@dada-kitchens.com](mailto:privacy@dada-kitchens.com)
 
- **PERSON IN CHARGE OF PROCESSING** , pursuant to [Article 29](http://www.garanteprivacy.it/garante/doc.jsp?ID=1311248#articolo29) of the Code in the matter of protection of personal data, the person in charge of the in-house processing is Dr. Marco Piscitelli
+ **PROCESSED PERSONAL DATA**
 
- **PLACE OF DATA PROCESSING**  
-The processing connected with the Web services of this site, (physically placed "in hosting" with a third party) is done at the office of the person in charge of the processing and attended to by his collaborators tasked with such processing, or by outsiders in the performance of maintenance or of the updating of the pages of the site, including at their offices.
+ **Personal data:** any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person (such as name, last name, date of birth, address, email, telephone number). 
 
- **2.TYPES OF DATA PROCESSED**  
- **Personal and identification data**  
-Personal data comprise any information concerning an individual, identified or identifiable, even indirectly, by reference to any other information, including a personal identification number, while identification data are personal data that allow the direct identification of the concerned party.  
- ** _Surfing data_**  
-In the course of their normal operation the IT systems and the  _software_  procedures used for the functioning of this Website acquire certain personal data the transmission of which is implicit in the use of the Internet communication protocols.  
-This involves information not gathered to be associated with identified concerned parties, but that by its very nature might, through processing and association with data held by a third party, make it possible to identify the users.  
-Falling under this category of data are IP addresses and names with domain of the computers utilized by users who log onto the site, the addresses in _URI (Uniform Resource Identifier)_  notation of the resources requested, the time of the request, the method utilized in submitting the request to the server, the size of the file obtained in reply, the numerical code indicating the status of the reply given by the server (successful, error, etc.) and other parameters pertaining to the operating system and the IT environment of the user.  
- ** _Data provided voluntarily by the user_**  
-The optional, explicit and voluntary sending of e-mail to the addresses indicated on this site and/or the filling in of data collection _forms_ , entails the subsequent acquisition of the address of the sender, necessary for replying to requests, as well as any other personal data entered. 
+**Browsing data**
 
-**_Cookies_**  
-See Cookies Policy at the following [link](http://molteni.it/furniture/policy/cookie/)
+During their ordinary course of operation, the IT systems and software procedures required to run this website acquire certain Personal Data, whose transmission is implicit in the use of Internet communication protocols. This information is not collected to be associated with identified Data Subjects but, by its very nature, it could enable identification of the users through the processing and matching of data held by third parties.  
+This data category includes IP addresses or domain names of computers used by the users who visit the site, as well as the URI addresses (Uniform Resource Identifier) of the requested resources, the time of the request, the method used to submit the request to the server, the size of the file received in reply, the numerical code indicating the status of the reply from the server (done, error, etc.) and other parameters related to the operating system and the IT environment of the user. 
 
- **3.PURPOSES OF PROCESSING**
+**Data provided voluntarily  by the user**
 
- **A)** Data of a personal nature voluntarily provided will form the object of processing for the following purposes:
+The optional and voluntarily disclosure of personal data (e.g.: dispatching of electronic mail to the addresses indicated on this website and/or the filling-in of a data collection form on this website) entails the collection and processing of the voluntary disclosed user’s data (e.g. sender’s address, name, last name), necessary to reply to the requests, as well as other personal data included in the email message (such as name, last name, address, telephone number, email address and possible further data provided in order to receive username and password for the access to Trade Area / Private Area / Download Area).
 
-  * surfing on the present Internet site;
-  * any request for contact, with sending of information at your request;
-  * administrative/accountancy activities in general. For purposes of the application of the instructions in the matter of protection of personal data, the processing done for administrative/accountancy purposes are those in connection with the carrying on of activities of an organizational, administrative, financial and accountancy nature, apart from the nature of the data processed. In particular, internal organizational activities, activities functional for the fulfilment of contractual and pre-contractual obligations, and informative activity pursue such aims.
+ **Cookies**
 
+To get more info on cookies used in this website please read our **[Cookie Policy](https://www.molteni.it/en/policy/cookies)**. 
 
+PURPOSES| LEGAL BASIS| DATA RETENTION PERIOD  
+---|---|---  
+Navigation of this website / obtaining anonymous statistical information on the use of the website and services / control of website’s correct functioning |  Art. 6 c. 1 lett. f) GDPR Controller’s legitimate interest: ensure the correct browsing and usage of the website |  Duration of the browsing session, (except for any need to ascertain criminal offenses by the judicial authorities)   
+Reply to users’ request of assistance / contacts / information |  Art. 6 c. 1 lett. f) GDPR Controller’s legitimate interest: reply to users’ requests |  1 year   
+Staff recruitment and evaluation of CVs provided through email contacts |  Art. 6 c. 1 lett. b) GDPR Necessary in order to take steps at the request of the data subject prior to entering into a contract |  2 years   
+Subscription to the newsletter by filling-in the relevant form |  Art. 6 par. 1 lett. a) GDPR User’s consent |  Until data subject’s withdrawal | objection (opt-out) | unsubscription from the mailing list   
+Direct marketing: direct sale, market researches, sending of newsletter and promotional, commercial and advertising communications through e-mail, telefax, SMS, MMS or messages of other kind, as well as phone calls / paper mails |  Art. 6 par. 1 lett. a) GDPR User’s consent |  Until data subject’s withdrawal | objection (opt-out) | unsubscription from the mailing list   
+Direct e-mailing marketing in order to promote Controller’s goods or services similar to those already purchased by the data subject (so called “soft spam”) |  Art. 6 c. 1 lett. f) GDPR Controller’s legitimate interest: promoting marketing activities towards its clients |  Until data subject’s objection (opt-out) | unsubscription from the mailing list   
+Communication of personal data to other companies of Molteni Group (controllers, subsidiaries, joint stock companies, affiliated companies) also located in Third Countries outside EU for direct marketing purposes |  Art. 6 par. 1 lett. a) GDPR User’s consent |  Until data subject’s withdrawal | objection (opt-out)   
+Organizational, administrative, financial and accounting activities and users management |  Art. 6 par. 1 lett. b) e c) GDPR Performance of a contract and compliance with a legal obligation |  10 years or different legal obligation   
+  
+**PERSONAL DATA RECIPIENTS**
 
- **B)** Pertinent data processing until opposition:
+Your personal data shall be processed by employees or collaborators processing your data as persons in charge of processing activities under the authority of the Controller for the above described purposes. Your personal data may be communicated to third parties recipients involved in a contractual relationship with the Controller, in order to comply with contractual obligations or related purposes, belonging to the following categories: Molteni Group’s companies; subjects part of the retail network (such as branches, distributors, importers, carriers etc.); service providers for the management of the information system and the telecommunications networks (including e-mail, newsletter and website management service) of the Controller; professionals, firms or consultancy companies; competent authorities for the fulfilment of obligations of law and/or regulations of public bodies, upon request. The above mentioned subjects will act as data processors or may carry out their processing activities as independent data controllers. The list of data processors is constantly updated and it is available at each Controller’s headquarters and by contacting the same at the contacts above.
 
-  * personal data provided will be utilized, by prior consent, for the sending of newsletters, direct _marketing_ activities, market research or other poll research and direct sale to receive - by automated e-mail, telefax, messages of the MMS (Multimedia Messaging Service) or SMS (Short Message Service) type or some other type, as well as by phone calls from a worker and via traditional paper mail - literature, for the survey of the degree of satisfaction, promotional, commercial and advertising matter, or matter pertaining to events and initiatives, by **Molteni & C S.p.A.**
+ **DATA TRANSFER TO THIRD COUNTRIES**
 
+Your personal data shall not be transferred to Third Countries outside EU. In case such data transfer becomes necessary in order to comply with contractual obligations or above said purposes, the data transfer outside EU shall be subject to the limits and conditions set forth by art. 44 and subsequent articles of the Regulation (EU) 2016/679. The data subject may obtain information on the appropriate safeguards provided by the Controller pursuant to Article 46 of the Regulation (EU) 2016/679 relating to the transfer of the personal data by writing to the contacts above.
 
+ **NATURE OF DATA PROVISION**
 
- **4.MANNER OF PROCESSING - PRESERVATION**  
-The processing will be performed in automated and manual form, with modalities and instrument aimed at guaranteeing the maximum security and confidentiality, done by specially assigned subjects in compliance with the provisions contained in Article 31 and following of Law by Decree 196/03. The data will be kept for a period no longer than required to fulfil the purpose for which they were gathered and subsequently processed.
+Except for what specified for navigation data which are necessary in order to allow navigation of the website, users are free to provide their personal data and their refusal may result only in the impossibility of obtaining the information or services requested and provided through this website.
 
- **5.SCOPE OF COMMUNICATION AND DIFFUSION**  
-Your data forming the object of processing will not necessarily, but may be communicated to companies contractually tied to **Molteni & C S.p.A.**, both inside and outside the European Union, in accordance with and within the limits of Art. 42 of Law by Decree No. 196/2003. The personal data may be transferred abroad to non-EU countries within the scope and limits as provided under articles 43 and 44b) of Law by Decree No. 196/2003, for the purpose of complying with the relevant contracts or ends. The data may be communicated to third parties belonging to the following categories:
+ **DATA SUBJECT’S RIGHTS | COMPLAINT TO SUPERVISORY AUTHORITY**
 
-  * subjects that provide services for the management of the information system used by **Molteni & C S.p.A.** and of the telecommunication systems (including e-mail);
-  * offices or firms in the ambit of dealings involving assistance or consulting services;
-  * companies part of the group;
-  * authorities competent for the fulfilment of legal obligations and/or of instructions of public organs, by request.
+You may exercise your rights pursuant to articles 15, 16, 17, 18, 19, 20, 21, 22 of the Regulation EU 2016/679, in respect of and against each of the Controllers, by contacting the Controllers at the contacts above.  
+You have the right, at any time, to request to access your personal data and receive the information concerning their processing. You have the right to rectify, erase your personal data or limit their processing.   
+Where appropriate, you have the right to object, at any time, to the processing of your data, including profiling, and you have the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal.   
+You have the right to the portability of your personal data; in such case the Controller shall provide you with your personal data in a structured, commonly used and machine-readable format. 
 
+Without prejudice to any other administrative or judicial remedy, if you consider that the processing of your personal data infringes the Regulation (EU) 2016/679, you have the right to lodge a complaint with the Data Protection Authority. 
 
+**CHANGES TO THIS PRIVACY POLICY**
 
-Subjects belonging to the aforesaid categories act as Responsible Party for such data processing, or else operate in total independence as distinct Proprietors of the processing. The list of the persons in charge is constantly updated and available at the office of **Molteni & C S.p.A.** Any further communication or diffusion shall take place only by your explicit consent.
+The Controllers reserve the right to amend, update, supplement or remove parts of this Privacy Policy at their own discretion and at any time. We encourage you to periodically  
+[https://www.molteni.it](https://www.molteni.it/)  
+<https://www.dada-kitchens.com/it/>  
+review our Privacy Policy. For your convenience, when we post changes, we will revise the “last updated date” at the bottom of this privacy policy. 
 
- **6.NATURE OF GRANT AND REFUSAL**  
-Apart from what is specified for surfing data, the user is free to provide personal data.  
-The grant of data is optional but necessary. Failure to grant such data may entail the impossibility of obtaining what is requested or of being able to take advantage of the services of the subject responsible for processing.  
-The grant of data for purposes as per point A) is optional but necessary. Any refusal to grant data necessary with regard to point A) entails the impossibility of closely connected and instrumental activities, e.g. to obtain what is requested or to take advantage of the services of the subject ultimately responsible for processing. The grant and the consent to processing for purposes as per point B) are optional. Refusal of consent for purposes specified in point B) above instead does not entail any negative consequence with regard to the purposes as per point A).
+Last update: May 25th 2018
 
- **7.RIGHTS OF CONCERNED PARTIES**  
-You may assert your rights as stated under articles 7, 8, 9 and 10 of Law by Decree No. 196 of 30 June 2003 by applying to the proprietor or to the subject responsible for processing by phoning our office at +39.0362.3591 or by sending an e-mail to [customer.service@molteni.it](mailto:customer.service@molteni.it) .You have the right, at any time, to obtain confirmation of the existence or not of the data and to know the content and origin thereof, to verify the accuracy thereof, or to request the supplement, updating or rectification thereof ([Article 7 of the Code in the Matter of Protection of Personal Data](http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/1311248#articolo7)).  
-Pursuant to the same article one has the right to request the deletion, the transformation into anonymous form or the blockage of data processed in violation of law, as well as to oppose in any case, for legitimate reasons, their processing.  
-In the event that you contact the proprietary holder you are asked to please provide your e-mail address, name, address and/or telephone numbers so as to be able to handle the request properly. 
-
-In order to no longer receive automated direct marketing communications (by e-mail, SMS, MMS or fax) it will suffice at any time to send an e-mail to [customer.service@molteni.it](mailto:customer.service@molteni.it) with subject “ _cancellation from automated_ ” or to utilize our automatic cancellation systems provided for e-mails only, and you will no longer be disturbed.  
-In order to no longer receive traditional direct marketing communications (phone calls with worker, paper mail) it will suffice at any time to send an e-mail to [customer.service@molteni.it](mailto:customer.service@molteni.it) with subject “ _cancellation from traditional_ ” and you will no longer be disturbed.  
-In order to no longer receive direct marketing communications it will suffice to send an e-mail to [customer.service@molteni.it](mailto:customer.service@molteni.it) with subject “ _cancellation marketing_ ” and you will no longer be disturbed.
-
- **8.CHANGES IN PRIVACY POLICY**  
-The proprietor reserves the right to change, to update, to add or to remove parts of this privacy statement at its discretion and at any time. The concerned person is obliged to verify periodically any changes. In order to facilitate such verification the policy statement will specify the date of updating of the same. Utilization of the site after the publication of changes will constitute acceptance of the same. 
-
-**9.FACEBOOK SOCIAL PLUG-INS AND OTHER SOCIAL NETWORKS**  
-Our Web pages and apps may contain social network plug-ins (e.g. Facebook, Twitter, Google+, Pinterest, etc.) If you access one of our Web pages provided with a like plug-in, the Internet browser directly links up with the social network servers and the plug-in is displayed on the screen thanks to the connection to the browser. If a concerned social- network user visits our Web pages while connected to his or her social account, the personal data of the same could be associated with the social account. In the case of utilization of the plug-in functions as well, the information will be associated with the social account. Further information about the collection and use of data by the social networks in general, as well as about the rights and modalities available for protecting the privacy of a concerned individual in such context, are found on the pages of the social networks of the account on the protection of data. If the concerned party does not want to associate the visit to our Web pages with his or her social account, log-off from the social network must be performed prior to visiting them.
-
- **Details about the processing of personal data and services provided by third parties**  
-Personal data are gathered for the following purposes and utilizing the following services: interaction with external social networks and platforms. These services make it possible to interact with social networks or with other external platforms. The interactions and the information acquired are in any case subject to the privacy settings of the user as regards any social network. If a service for interaction with social networks is installed, it is possible that even if the user does not utilize the service, the same may collect traffic data concerning the pages in which it is installed.  
-For illustrative purposes:  
- **+1 Button and social widgets of Google+ (Google)**  
-The +1 button and the social widgets of Google+ are services for interaction with the social network Google+ provided by Google Inc.  
-Personal data collected: cookies and surfing data and the utilization thereof. Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)  
- **Like Button and social widgets of Facebook (Facebook)**  
-The “Like” button and social widgets of Facebook are services for interaction with the Facebook social network provided by Facebook Inc. Personal data collected: cookies and surfing data and the utilization thereof. Place of processing: USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)  
- **Tweet Button and social widgets of Twitter (Twitter)**  
-The Tweet button and the social widgets of Twitter are services for interaction with the Twitter social network provided by Twitter Inc.  
-Personal data collected: cookies and surfing data and the utilization thereof. Place of processing: USA – [Privacy Policy](http://twitter.com/privacy)
-
-Date of updating: 26/05/2015
+ **Joint Controllers – Molteni & C. S.p.A. | Dada S.p.A.**
