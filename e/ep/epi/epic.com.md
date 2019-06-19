@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epic.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228065619id_/https%3A//www.epic.com/About/PrivacyPolicies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epic.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619144129id_/https%3A//www.epic.com/About/PrivacyPolicies) for the most accurate reproduction.*
 
 # Privacy Policies | Epic
 
@@ -50,6 +50,10 @@ Like many websites, we use Google Analytics to collect information about access 
 
 
 While you may adjust cookie usage in your browser settings, you consent to such use of your data by visiting our site. Google’s ability to share and use your information collected via Google Analytics is restricted by the [Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](https://policies.google.com/privacy?hl=en&gl=us).
+
+###### Do Not Track
+
+Our Website and the Careers Site do not respond to Do Not Track (DNT) signals.
 
 ##### Information You Provide to Our Careers Site
 
@@ -124,4 +128,4 @@ Our Website, including the Careers Site, contains links to other sites. Please b
 
 If you have any questions about this Privacy Policy or privacy concerns, you may contact Epic at 608-271-9000 or at [PrivacyInquiries@epic.com](mailto:PrivacyInquiries@epic.com). In any correspondence, please include the website or reason that led you to contact us.
 
-If you need to contact Epic’s Data Protection Officer or EU Representative as defined by the General Data Protection Regulation, (EU) 2016/679, please email [EUPrivacyInquiries@epic.com](mailto:EUPrivacyInquiries@epic.com) or call +1 608-271-9000.
+If you need to contact Epic's Data Protection Officer or EU Representative as defined by the General Data Protection Regulation, (EU) 2016/679, please email [EUPrivacyInquiries@epic.com](mailto:EUPrivacyInquiries@epic.com) or call +1 608-271-9000.
