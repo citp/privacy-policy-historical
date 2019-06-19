@@ -1,37 +1,104 @@
-> *The following text is extracted and transformed from the aam-us.org privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404022754id_/http%3A//www.aam-us.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aam-us.org privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619214131id_/https%3A//www.aam-us.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – American Alliance of Museums
 
-The American Alliance of Museums (“we”, “us,” or “AAM” or with “our”) has developed this policy (“Privacy Policy”) to assist end users (referenced herein with “you” or “user” or with “your”) of AAM’s Web site located at [http://www.aam-us.org](http://www.aam-us.org/) (“Site”) in understanding the personally identifiable information (“PII”) collection and use practices for AAM’s Site. PII (as such term is used in this Privacy Policy) describes information that can identify a specific individual, such as, without limitation, a name, address, phone number, and/or e-mail address.   AAM reserves the right to change this Privacy Policy at any time to address changes to its information collection, disclosure, or use practices or changes in law. If AAM makes changes to this Privacy Policy, AAM will post those changes at this location and provide notice of any material changes. Please review this Privacy Policy on a periodic basis. By using the Site, you signify your acknowledgement and acceptance of this Privacy Policy. 
+Effective Date: June 29, 2018
 
-## 1.    Data Collection
+American Alliance of Museums (“AAM,” “we,” “our,” or “us”) provides this privacy notice to describe how we collect and process the personal information of individuals who visit our website, [www.aam-us.org](http://www.aam-us.org/) (“Site”) or interact with us offline, such as through email or telephonic communications.
 
-AAM may request or require you to provide certain PII, including, without limitation, your name, e-mail address, date of birth, credit card information or certain demographic information ( _e.g._ , employment data such as organization, title and position) when you seek access to certain portions of the Site, apply for AAM membership, join an AAM online community, apply for certain job opportunities, and/or pay for anything available for purchase on the Site. We also use this information to improve the features, tools, functionality and content available on the Site or through AAM, which may include use of such information in certain transactions or sharing arrangements with AAM’s business partners. 
+**_Information Collection_**
 
-We also collect and maintain aggregate information about the transactions that occur on the Site ( _e.g._ , tool or feature utilization, registration information, and activity, navigation, or content selection data).
+We collect the information you provide us through the Site and offline, including your name, address, email address, phone number, date of birth, employment information, financial information, social media information, and any other information you choose to provide.  We collect this information when you create a profile on the Site, submit a membership application, apply for job opportunities, donate to AAM, complete online forms, or interact with us for any other purpose.  If you create an account on our Site, we collect the username and password associated with your account.
 
-Moreover, the Site utilizes “cookies” to record session information, such as items that consumers add to their shopping carts.  Cookies are generally pieces of information, which AAM uses for record-keeping purposes and which the Site may transfer to us and/or your computer’s Web-browser for storage on our server(s) or your computer’s hard drive.  Cookies enable AAM to manage and/or customize your experience on the Site.  Cookies also make Web-surfing or site review easier by automatically performing certain functions such as saving your personal preferences and by providing targeted content. AAM, however, will not use cookies to record passwords or credit card or other financial information. 
+We may also gather technical information including, but not limited to, browser type, IP address, pages visited and other activities on the Site, device type, and time and date of visit.  We may also receive information about your current location if permitted by your browser settings.  We may use cookies or similar technology to collect such information.
 
-In the event that AAM undergoes a business transaction or event involving the sale of all or a portion of its assets, please note that the PII collected and retained by AAM may be among the assets transferred or reviewed.  ****
+**_Information Use_**
 
-AAM may disclose PII when legally required to do so in accordance with subpoenas, government requests or regulations, or legal proceedings.  AAM may also disclose PII to protect against misuse or unauthorized use of the Site or as is otherwise required to limit legal liability, protect or defend our rights, property, or interests, or protect the safety, rights, or property of others.
+We process your personal information, including for the following purposes:
 
-## 2.      Contact With You and Opting-Out
+  * To communicate with our members;
+  * To fulfill member benefits and provide sponsorship opportunities;
+  * To confirm and process online transactions;
+  * To create mailing lists, including mailing lists for purchase;
+  * To improve the Site, including to improve the features, tools, functionality, and content available on the Site and through AAM;
+  * To comply with the law; and/or
+  * As otherwise disclosed at the time personal information is collected.
 
-The collection, use, and sharing of your PII is necessary for AAM membership. Use of PII may also be necessary for AAM to provide certain features, programs, events, resources and services made available on the Site, and to operate and/or improve the Site. For example, users who register for certain events or purchase resources available on the AAM Site will need to agree to AAM’s collection and use of PII. However, under other circumstances you can decide on your own if you wish to provide your PII or opt-out of doing so. For example, if AAM conducts a survey on the Site, you do not have to participate unless you agree to do so. 
 
-AAM also provides you with the opportunity to opt-out of certain AAM business practices that may involve the use of your PII.  For example, if you do not want to receive e-mail communications from us in the future, please let us know by contacting us through e-mail, telephone or written correspondence per the contact information provided in Section 5 below.  Moreover, you may contact AAM, per the contact information provided in Section 5, to opt-out of certain sharing arrangements with third parties.
 
-Moreover, if you supply us with your postal address on the Site, you may receive periodic mailings from us with information about new AAM products, services and/or upcoming events.  If you do not wish to receive such mailings in the future, please opt-out by contacting us through e-mail, telephone or written correspondence per the contact information provided in Section 5 below. 
+Where we intend to process your personal information for a purpose other than the purpose for which it was collected, we will provide you with information regarding the purpose for the processing, as well as other relevant information, prior to processing your personal information for the new purpose.
 
-## 3.      Your Access to Our Information
+**_Information Sharing_**
 
-At any time, you may go to the Site and access your account (using your username and password) to correct, modify, or delete the information stored in connection with your user profile.  In addition, upon request we will provide you with access to any unique identifier information ( _e.g._ , customer number or password), contact information _e.g._ , name, address and phone number), financial information or communications that we maintain about you.  You can request access to this information by contacting us through e-mail, telephone or written correspondence per the contact information provided in Section 5 below.  You may request that we correct any such information by (i) contacting us through e-mail, telephone or written correspondence per the contact information provided in Section 5 below, and (ii) explaining in reasonable detail the applicable inaccuracy(ies) and how they should be fixed.
+We share your personal information, including with the following parties:
 
-## 4.      Security
+  * Third parties that perform services on our behalf, including those that carry out activities related to our membership services and events, and those that assist with our business operations, including data storage providers, software providers, employment relations providers, insurers and banking partners, and publishers;
+  * Our business partners, including those that sponsor, host, or exhibit at our events, or other third parties for their own marketing purposes. Please visit the “Choices” section below for additional information;
+  * As part of a corporate sale, merger, or acquisition, or other transfer of all or part of our assets including as part of a bankruptcy proceeding;
+  * Pursuant to a subpoena, court order, governmental inquiry, or other legal process or as otherwise required by law, or to protect our rights or the rights of third parties; or
+  * With your consent or as otherwise disclosed at the time of data collection or sharing.
 
-We always use industry-standard encryption technologies such as Secure Sockets Layer (SSL) when transferring and receiving consumer data exchanged with our Site.With respect to stored data, AAM has appropriate security measures in place at our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our Site.  Although AAM has endeavored to create a secure and reliable Site, however, the confidentiality or integrity of any communication, data, or material transmitted via the Internet or stored with AAM cannot be 100% guaranteed.  Accordingly, you should consider carefully if you want to submit PII via the Internet. 
 
-## 5.      Questions and Contact Information
 
-If you believe that AAM may not be complying with this Privacy Policy, or you have any questions about this Privacy Policy or the PII collection and use practices of the Site, you may contact us at [membership@aam-us.org](mailto:membership@aam-us.org), (866) 226-2150, or Attn. Vice President, Finance & Operations **,** 2451 Crystal Drive, Suite 1005 Arlington, VA 22202. 
+We may share information that has been de-identified or aggregated without limitation.
+
+**_International Visitors_**
+
+This section applies to those that visit our Site from the European Economic Area or Switzerland.
+
+AAM processes personal information with your consent (e.g., when AAM processes personal information to provide goods and services you request, such as to process donations you make).
+
+On other occasions, AAM may process personal information when it needs to do this to fulfill a contract (e.g., to process membership applications) or where required to do this by law.
+
+If necessary, AAM may also process personal information when it is in AAM’s legitimate interests to do this (e.g., for customer service and fraud detection purposes) and when these interests are not overridden by your data protection rights.
+
+Please be aware that the personal information we collect may be transferred to and maintained on servers or databases located outside your state, province, country, or other jurisdiction, where the privacy laws may not be as protective as those in your location. If you are located outside of the United States, please be advised that we process and store personal information in the United States.
+
+You have a right to the following:
+
+  * To request access to the personal information we hold about you;
+  * To request that we rectify or erase your personal information;
+  * To request that we restrict or block the processing of your personal information;
+  * Under certain circumstances, to receive personal information about you that we store and transmit to another without hindrance from us, including requesting that we provide your personal information directly to another, i.e., a right to data portability; and
+  * Where we previously obtained your consent, to withdraw consent to processing your personal information.
+
+
+
+To exercise these rights, contact [gdprrequests@aam-us.org](mailto:gdprrequests@aam-us.org).  Please be aware that AAM may be unable to afford these rights to you under certain circumstances, such as if we are legally prevented from doing so.
+
+Additionally, you have the right to lodge a complaint against us.  To do so, contact the supervisory authority in your country of residence.
+
+**_Retention_**
+
+We will process and store your information only for the period necessary to achieve the purpose of the storage, or as permitted by law.  The criteria used to determine the period of storage of information is the respective statutory retention period or as provided in our record retention policy.  After expiration of that period, the corresponding information is routinely deleted, as long as it is no longer necessary for the fulfillment of a contract or the initiation of a contract.
+
+**_Third-Party Links and Tools_**
+
+We may work with third parties that collect data about your use of the Site and other sites or apps over time for non-advertising purposes.  AAM uses Google Analytics and other third-party services to improve the performance of the Site and for analytics and marketing purposes.  For more information about how Google Analytics collects and uses data when you use our Site, visit <https://www.google.com/policies/privacy/partners/>, and to opt out of Google Analytics, visit <https://tools.google.com/dlpage/gaoptout/>.
+
+The Site may provide links to third-party websites or apps, including our social media pages.  We do not control the privacy practices of those websites or apps, and they are not covered by this privacy notice.  You should review the privacy notices of other websites or apps that you use to learn about their data practices.
+
+The Site may also include integrated social media tools or “plug-ins,” such as social networking tools offered by third parties.  If you use these tools to share personal information or you otherwise interact with these features on the Site, those companies may collect information about you and may use and share such information in accordance with your account settings, including by sharing such information with the general public.  Your interactions with third-party companies and your use of their features are governed by the privacy notices of the companies that provide those features.  We encourage you to carefully read the privacy notices of any accounts you create and use.
+
+**_Choices_**
+
+To opt out of our e-mail marketing, you may use the link provided at the bottom of each marketing message.
+
+As described in this privacy notice, we may also make your personal information available to third parties for their direct marketing purposes.  Pursuant to California Civil Code § 1798.83, no more than once per calendar year, California residents may request that we send via mail or email: (1) the categories of personal information disclosed to those third parties; and (2) the names and addresses of those third parties.  To request this information, please contact us at [membership@aam-us.org](mailto:membership@aam-us.org).
+
+**_Updating Your Information_**
+
+You may review and update your communication preferences and information via the “Edit Profile” section of the Site or by contacting us through the information provided in the “Contact” section below.
+
+**_Changes to Our Privacy Notice_**
+
+If we decide to change our privacy notice, we will post these changes on this page.  We encourage you to visit this page periodically to learn of updates.
+
+**_Contact_**
+
+If you have questions, comments, or concerns about this privacy notice, please contact us, in our role as data controller, at:
+
+American Alliance of Museums  
+2451 Crystal Dr. Suite 1005  
+Arlington, VA 22202  
+[membership@aam-us.org](mailto:membership@aam-us.org)
