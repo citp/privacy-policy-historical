@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilstu.edu privacy policy that was archived on 2018-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180702231600id_/https%3A//illinoisstate.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilstu.edu privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619200151id_/https%3A//illinoisstate.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Illinois State
 
@@ -88,7 +88,7 @@ Any changes we may make to our Privacy Statement will be posted on this page and
 
 ## Contact
 
-The University Data Protection Officer has responsibility for overseeing the University’s compliance with EU GDPR responsibilities.  If you have question regarding obtaining access to, the processing of personal data, requesting that personal data be erased, or correcting information, please contact the Data Protection Officer. 
+The University Data Protection Officer has responsibility for overseeing the University’s compliance with EU GDPR responsibilities.  If you have a question regarding obtaining access to, the processing of personal data, requesting that personal data be erased, or correcting information, please contact the Data Protection Officer. 
 
 Any questions or concerns about privacy should be directed to the University Data Protection Officer, Kevin Crouse.
 
@@ -102,4 +102,4 @@ Normal, IL 61790-3380
 **Phone:**  (309)438-5533 or (309)438-9001  
 **Email:  ** [informationsecurityoffice@illinoisstate.edu](mailto:informationsecurityoffice@illinoisstate.edu)
 
-The University Data Protection Officer has responsibility for overseeing the University’s compliance with EU GDPR responsibilities.  If you have question regarding obtaining access to, the processing of personal data, requesting that personal data be erased, or correcting information, please contact the Data Protection Officer.
+[GDPR Compliance Form](https://forms.illinoisstate.edu/forms/eu_gdpr_complaint_form)
