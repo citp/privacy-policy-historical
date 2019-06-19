@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alpssocial.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119054331id_/https%3A//www.alpssocial.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpssocial.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619171018id_/https%3A//www.alpssocial.com/help/privacy) for the most accurate reproduction.*
 
-# AlpsSocial - Privacy Policy
+# Privacy Policy - AlpsSocial - The World's FREE Financial Opportunity Marketplace
 
 This Privacy Policy sets out how Alps Networks uses and protects any information that you give Alps Networks when you use this website. If you continue to browse or use this website you are agreeing to comply with and be bound by the following Privacy Policy, which together with our Terms and Conditions govern Alps Networks's relationship with you in relation to this website.
 
