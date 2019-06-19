@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wvgazette.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228212207id_/https%3A//www.wvgazettemail.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvgazette.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619152833id_/https%3A//www.wvgazettemail.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | wvgazettemail.com
 
