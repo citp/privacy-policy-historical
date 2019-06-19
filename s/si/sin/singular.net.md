@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singular.net privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602160750id_/https%3A//www.singular.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singular.net privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619040727id_/https%3A//www.singular.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Singular Respects Your Right to Privacy
 
@@ -62,7 +62,7 @@ We will fully cooperate with any law enforcement authorities or court order requ
 **Cookies and related technologies**
 
 Our website uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by us or third parties and stored on your device. They enable us to identify your device when you move between different websites and applications, and may be used to target ads to you on other websites.  
-Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent. Also, you are free to delete any existing cookies at any time. You may also choose to opt-out of such tracking by clicking here.
+Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent. Also, you are free to delete any existing cookies at any time. You may also choose to opt-out of such tracking by emailing [contact@singular.net](mailto:contact@singular.net).
 
 **Changes to this Privacy Policy**
 
