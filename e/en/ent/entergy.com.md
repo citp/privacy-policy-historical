@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231061605id_/http%3A//www.entergy.com/privacy_legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619141800id_/http%3A//www.entergy.com/privacy-policy) for the most accurate reproduction.*
 
-# Entergy - Legal
+# Entergy - Privacy Policy | Entergy | We Power Life
+
+**Entergy Corporation and Affiliates**
 
 **Privacy Policy**
-
-_Last Updated:  December 1, 2018_
 
 Entergy Corporation is a holding company for individual public utility companies, among other affiliates. Each of these public utility companies and other affiliates is a separate and distinct legal entity. Each public utility subsidiary of Entergy Corporation has its own service territory, federal and/or state utility regulatory regime(s), rate structure(s), and customers. Neither Entergy Corporation nor any subsidiary or other affiliate of Entergy Corporation shall be liable for the obligations, or entitled to the benefits of, any other subsidiary or affiliate of Entergy Corporation, except as may be expressly provided by a duly authorized and executed, legally enforceable written agreement. The public utility subsidiaries of Entergy Corporation that provide retail electric and/or gas utility services are the following:
 
@@ -25,7 +25,7 @@ Attention: Web Communications Manager
 
 Entergy can also be reached via email by [clicking here](https://secure.entergy.com/forms/Simple.aspx?FormId=232&RegionId=CORP).
 
-The term “Website” refers to this Entergy website, and the term “Web Services” refers to any and all services of any kind available through this Website, including but not limited to account access services, paperless bill delivery services, and one-time and repetitive bill payment services.   You can learn more about the terms, conditions, and policies for the use of the Website and Web Services by [clicking here](http://www.entergy.com/privacy_legal/legal.aspx).
+The term “Website” refers to this Entergy website, and the term “Web Services” refers to any and all services of any kind available through this Website, including but not limited to account access services, paperless bill delivery services, and one-time and repetitive bill payment services.   You can learn more about the terms, conditions, and policies for the use of the Website and Web Services by [clicking here](https://web.archive.org/terms-of-use/).
 
 We understand how important privacy is to you. We hope this Privacy Policy will answer your privacy questions.
 
@@ -121,11 +121,11 @@ Any information, suggestion, idea, graphic, remark, or other submission made by 
 
 We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
 
-**13.  Online Advertising**
+ **13.  Online Advertising**
 
 On our Websites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests.  You can choose whether to have your information collected for this purpose.  This section of our Privacy Policy provides details and explains how to exercise your choices.
 
-You may see certain ads on other Websites because we participate in advertising networks administered by vendors such as Quantcast and Google Adwords.  Ad networks allow us to target our messaging to users through demographic, behavioral and contextual means.  These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs, and web beacons.  The networks use this information to show you advertisements that are tailored to your individual interests.  The information our ad network vendors collect includes information about your visits to Websites that participate in the vendors’ advertising networks, such as the pages or advertisements you view and the actions you take on the Websites.  This data collection and ad-targeting takes place both on our Websites and on third-party Websites that participate in the ad networks, such as Websites that feature advertisements delivered by the ad networks.  This process also helps us track the effectiveness of our marketing efforts.  To learn more about Quantcast, including how to opt out of its collection of information for targeted advertising purposes, visit its privacy policy at <https://www.quantcast.com/privacy/>.  For more information on Google’s remarketing process, including how you can opt-out of Google’s use of cookies for ad targeting, visit Google’s Ad Settings at<https://www.google.com/ads/preferences/>.  To opt-out of Google Analytics’ use of cookies to tailor ads based on your activity on our website, visit<https://tools.google.com/dlpage/gaoptout/>.  Alternatively, you can learn how to opt-out of third-party vendors’ use of cookies at Network Advertising Initiative’s opt-out page: <http://www.networkadvertising.org/choices/>.
+You may see certain ads on other Websites because we participate in advertising networks administered by vendors such as Quantcast and Google Adwords.  Ad networks allow us to target our messaging to users through demographic, behavioral and contextual means.  These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs, and web beacons.  The networks use this information to show you advertisements that are tailored to your individual interests.  The information our ad network vendors collect includes information about your visits to Websites that participate in the vendors’ advertising networks, such as the pages or advertisements you view and the actions you take on the Websites.  This data collection and ad-targeting takes place both on our Websites and on third-party Websites that participate in the ad networks, such as Websites that feature advertisements delivered by the ad networks.  This process also helps us track the effectiveness of our marketing efforts.  To learn more about Quantcast, including how to opt out of its collection of information for targeted advertising purposes, visit its privacy policy at <https://www.quantcast.com/privacy/>.  For more information on Google’s remarketing process, including how you can opt-out of Google’s use of cookies for ad targeting, visit Google’s Ad Settings at <https://www.google.com/ads/preferences/>.  To opt-out of Google Analytics’ use of cookies to tailor ads based on your activity on our website, visit <https://tools.google.com/dlpage/gaoptout/>.  Alternatively, you can learn how to opt-out of third-party vendors’ use of cookies at Network Advertising Initiative’s opt-out page: <http://www.networkadvertising.org/choices/>.
 
 **14.  Links to Other Websites**
 
@@ -134,3 +134,5 @@ Our Websites may contain links to other sites for your convenience and informati
 **15.  Changes to this Privacy Policy**
 
 This privacy notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices.  We will include the date on which this privacy policy was last updated.  Prior versions of this Privacy Policy are available.  Please contact us at the address above.
+
+_Last Updated:  December 1, 2018_
