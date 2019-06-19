@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download.recipes privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231024653id_/http%3A//download.recipes/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download.recipes privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619050657id_/http%3A//download.recipes/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy Download.Recipes
 
