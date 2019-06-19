@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metrofax.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819185738id_/https%3A//www.metrofax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrofax.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619202629id_/https%3A//www.metrofax.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MetroFax - ..05-metrofaxMultisite
+# Privacy Policy - MetroFax
 
 ## A. This Policy 
 
