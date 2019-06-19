@@ -1,64 +1,107 @@
-> *The following text is extracted and transformed from the europeana.eu privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508020020id_/http%3A//www.europeana.eu/portal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeana.eu privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619104321id_/https%3A//www.europeana.eu/portal/rights/privacy.html) for the most accurate reproduction.*
 
-# Europeana - Privacy policy
+# Privacy policy - Europeana Collections
 
-#### What Information do we collect?
+Europeana Foundation collects, manages and uses your data so that we can run our services and share relevant content with you. This policy describes how we collect and use your data when you use our services through the website or in person, and the measures we take to ensure your data remains secure.
 
-In line with common practice, when you visit Europeana website and when you register with us, we record and store some information about you. In some cases we process this information in order to better understand our users and their needs. This is done to improve the content and the usability of our portal and the services we offer. However, Europeana.eu recognizes the importance of privacy to users of the Europeana.eu portal; consequently we handle such personal information with care. 
-
-Please read our Privacy Policy Statement to find out what information we log and how we use it. We collect the following: Log Files, cookies and information that we explicitly ask you to provide about yourself upon registration or upon using any electronic forms of communication with Europeana.eu staff. 
-
-#### Log Files and Cookies
-
-When you visit Europeana.eu, your requests and actions are automatically logged on our server. Log files contain information such as your IP address, the date and time you accessed the website, the pages you requested for viewing, etc. Log files do not contain any personal identifiable information about you. 
-
-Cookies are small amounts of information sent from a web server to your browser and stored on your computers hard-drive. They contain information about the internet sites that you have visited. Europeana.eu uses cookies to recognise you and your access privileges. Most web browsers automatically accept cookies but you can usually change your browser settings to prevent this (although you might not have access to the full functionality of the website, such as the language settings you might have chosen). 
-
-Europeana.eu collects or logs cookies and information about its users and processes this information to produce usage statistics. By processing such information we are trying to identify user profiles and usage habits to improve the content and services we offer according to users needs. Log files analysis are also used to inform Europeana.eu partner libraries about digitisation priorities based on user preferences. These aggregated data do not contain information from which individuals can be identified. They are used strictly for the following purposes: 
-
-  1. To monitor and to better administer traffic to the website.
-  2. To assess and improve usability, services and content.
-  3. To identify technical shortcomings and to troubleshoot.
-  4. To develop personalised services.
-  5. To develop efficient marketing tools.
+  
 
 
+## Keeping your data secure
 
-#### Registered users data and data from other online forms
+Your privacy is important to us. We take all steps necessary to ensure that your data is stored securely and used only in accordance with the preferences you have requested. We will not share your data unless you have given us permission to share it. We do not and will not sell your data. Where possible, we use services that are hosted within the European Union.
 
-When we ask you to register, we ask you to voluntarily supply some personal information about yourself. Identification of users allows us to provide personalised services on the portal. Currently the following options are offered: to save favorites or session query history for referencing at a later date. We intend to expand these services to offer more personalized possibilities to the users, such as: to save selected collections for use at a later date or to receive e-mail alerts about new collections added which might interest them. 
+## Collecting your data
 
-Through the use of any electronic form on our website (feedback form, newsletter subscription, report a link) you agree to supply some minimum personal information (namely name and e-mail address). We may use this information to reply to you about the issue involved. Your personal information will not be used for direct mailing or for other reasons than to answer your request. 
+### What we collect
 
-#### Data Protection
+When you use one of our online services, apply to join the Europeana Network Association, or attend an event, we may ask you to provide us with some information. 
 
-Europeana.eu respects your privacy and seeks to protect your personal data. We do not sell, trade or rent the information we get from you on this site to others. Sometimes, we collaborate with public organisations such as universities that conduct research on our behalf on usage patterns and behaviour to help us improve the content and the services we offer. In these cases we do not disclose to them personal information (e.g. names or addresses). 
+The information we collect or receive includes personal information such as your name, your email address, your profile picture, and any social media or third party services you have told us you would like to be associated with. We may also ask you to tell us information about your specific interests. 
 
-Europeana.eu takes all necessary measures to protect the data from un-authorised access and use in a way other than that stated in the Privacy Policy. Europeana.eu is hosted by SARA in The Netherlands and therefore uses the systems and security in place for this public institution. 
+### We collect information through forms
 
-The data are stored for as long as they are useful for administrative reasons. Non-personal data may be stored indefinitely as research material. 
+When you complete a form we have shared with you, you may be asked to submit your name and email address. 
 
-Please note: Under law, we may be required to disclose the information that we log to the appropriate legal authorities. 
+When you apply to join the Europeana Network Association you will be asked to submit information that includes your name, email and organization. You may choose to also submit photographs and other relevant information. 
 
-#### About this Privacy Policy Statement
+We may also collect information about your activities offline, such as when you attend an event, respond to surveys or speak to us by telephone. 
 
-This Site may contain links to other web sites that are beyond our control. This privacy policy applies solely to the information you provide while visiting this Site. Other web sites to which you link may contain privacy policies that are different from this privacy policy. 
+### We collect information through cookies
 
-The current privacy policy statement is in accordance with the Dutch Personal Data Protection Act (Wet Bescherming Persoonsgegevens). 
+When you use a Europeana website, we use [cookies](https://en.wikipedia.org/wiki/HTTP_cookie) to collect information about your settings and preferences so that these can be used each time you visit one of our websites. We also collect information that is not specific to your identity such as information collected automatically through cookies, e.g. your language preferences. 
 
-Any changes to Europeana.eu privacy policy will be published on this page. 
+## Managing your data 
 
-#### Questions, Complaints, and Dispute Resolution
+The first time you directly supply personal information, we create a record of your data and store that record in our internal systems. If you are a member of the Europeana Network Association, your record will be allocated a unique identification number. 
 
-By using our website you consent to the terms of the Privacy Statement hereby described. However, you have the right to prevent the use of your personal data for personalised services and marketing as well as to request not to be further contacted by us. If you wish to be informed about the personal data collected about you, or to have this data corrected or removed, or have any other question with regards to this statement, please contact [Europeana.eu](mailto:info@europeana.eu?subject=Privacy:%20questions,%20complains,%20and%20dispute%20resolution). 
+The records we store will be used to enable us to provide our services to you and send you communications that you may find useful, but only in accordance with your submitted preferences. 
 
-Date of creation of the Privacy Statement: 30 September 2008  
-Last amendment: 30 September 2008 
+The information collected automatically through cookies and log files is stored on our server. 
 
-#### Feedback Form
+You can manage cookies by checking the settings for each browser you use.
 
-If you encounter any problem using this site or wish to make general comments/suggestions, please use [this form](https://web.archive.org/web/20120508020020id_/http%3A//www.europeana.eu/portal/contact.html).
+We do not keep your data for any longer than necessary to fulfil the purposes for which we collected the data or the purposes for which data are reused. 
 
-All of our online forms that require you to enter personal information are designed to meet privacy requirements. This privacy policy provides further details.
+You may ask us whether we process data relating to you, and if so, which data this concerns. In that case, we can provide you with access to the data processed by us that relates to you. If you believe your personal data has been processed incorrectly or incompletely, you may request that we change or supplement the data (rectification). 
 
-The translations are made on a voluntary basis by our partners and are for information only. The legally valid text is in English only.
+You can contact us via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#80e9eee6efc0e5f5f2eff0e5e1eee1aee5f5). 
+
+If you have a complaint concerning the processing of your personal data by Europeana Foundation, please 
+
+  1. contact us via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#325b5c545d725747405d4257535c531c5747);
+  2. contact your local Data Protection Authority (DPA).
+
+
+
+##  Using your data
+
+There are a number of ways that we may use or share your data in order to provide our services. If we intend to use or share your data for purposes other than those described here, we will inform you when we request your data. We will only use your data upon your approval and/or if it is necessary to perform agreements. 
+
+### Europeana Network Association 
+
+When you are a member of the Association, your name and other non-personal information such as your organisation, country or sector, are published online. You may also publish additional personal information about yourself upon request. 
+
+### Delivering and improving our services 
+
+When you participate in a ticketed event, we will share your name, and sometimes your email address and other non-personal information with the other attendees at that event. 
+
+When you sign up to a newsletter or one of our other services, we will use your data to deliver these services. 
+
+The information we collect through cookies and log files is used to analyse the use of our services to help us improve them. We also use cookies to collect information that we can use to track performance and to make our services function better. 
+
+### Administration
+
+We use your contact details to send you information about the operation of our services, or changes to our policies, terms and conditions. 
+
+###  Analytics
+
+#### Hotjar
+
+We use Hotjar in order to better understand our users’ needs and to optimise our services. Hotjar is a technology service that helps us better understand our users’ experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behaviour and their devices (in particular a device's IP address (captured and stored only in anonymised form), screen size, type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymised user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy).
+
+You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this opt-out link. 
+
+#### Google Analytics
+
+We also use Google Analytics to understand our users’ needs and optimise our service (e.g. how many views each page receives, whether people return to our website, what routes people take through our web pages). Google Analytics only stores anonymised information, such as browser type, operating system, visit time, country of access and anonymised IP addresses. Google Analytics data is stored in accordance with their own privacy policy, which is available by [clicking here](https://policies.google.com/privacy). 
+
+##  Your privacy choices
+
+## Email
+
+We want to email you only if you want to hear from us. We try to keep the number of our emails to a minimum. We only email you according to the preferences you have submitted to us and we ensure that you can easily opt out of any emails you receive from us. 
+
+We may send you service-related announcements when it is necessary to do so. 
+
+### Accessing or editing your data
+
+If you wish to access or edit your data or withdrawing your consent, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2e474048416e4b5b5c415e4b4f404f004b5b).
+
+## What this policy applies to
+
+This privacy policy applies to the use of services provided by Europeana Foundation. It is in accordance with the General Data Protection Regulation (Algemene Verordening Gegevensbescherming). [Previous versions of this policy can be viewed here](https://docs.google.com/document/d/14EV29hgB3TDOR7rXPotTIGNgjC_lESxobfrtG843Jh8/edit). 
+
+## Updates
+
+This page was last updated 24 May 2018. If you have any questions for us or suggestions on how to improve the information on this page, please use our [contact form](http://www.europeana.eu/portal/en/contact.html) to get in touch. 
