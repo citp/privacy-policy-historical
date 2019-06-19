@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtmetrix.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207172110id_/https%3A//gtmetrix.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtmetrix.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619153332id_/https%3A//gtmetrix.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | GTmetrix
 
@@ -35,25 +35,38 @@ We also collect some information automatically:
 
 ### Information we receive from other sources
 
-The only third party source we collect information from is Google Analytics; a web analytics service provided by Google Inc. Google Analytics uses cookies to enable analysis of your use of the website. 
+We collect information from these third-party sources: 
 
-In using Google Analytics, GTmetrix employs the "anonymizeIp" feature which masks part of your IP address before storing or processing it. 
+  * **Google Analytics:** a web analytics service provided by Google Inc. 
+
+Google Analytics uses cookies to enable analysis of your use of the website. In using Google Analytics, GTmetrix employs the "anonymizeIp" feature which masks part of your IP address before storing or processing it. 
 
 Our Google Analytics is configured to disable all data sharing options (i.e. our Google Analytics data is not shared with other Google products and services). Google Analytics' advertising features are also disabled (i.e. Remarketing and Advertising Reporting features). 
 
-You can disable Google Analytics tracking completely by using the [Google Analytics Opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/). 
+  * **Clearbit:** a customer data enrichment service. 
+
+Clearbit is used to learn more about our users so that we can make better informed decisions on improving GTmetrix. 
+
+We achieve this by providing Clearbit a list of select e-mail addresses from our user database for them to enrich. Only e-mail addresses are used and Clearbit is not authorized to store or collect said data. 
+
+Resulting enriched data is mostly gathered from public sources (e.g. LinkedIn) and only contains professional details (e.g. company name, position). 
+
+You can update or delete your information from this service via [Clearbit's claim form](https://claim.clearbit.com/claim). 
+
+
+
 
 * * *
 
 ## How do we use this information?
 
-We use the information mentioned above: 
+We use the information mentioned above to: 
 
-  * **To provide and personalize GTmetrix:** We use your information to provide services to you (e.g. monitoring alerts) and to personalize your GTmetrix experience.
-  * **To communicate with you about GTmetrix:** We use your contact information to send you e-mail directly relating to GTmetrix (e.g. account validation, onboarding, PRO subscription, monitored page alerts). If you have opted-in, we also send you other non-essential GTmetrix e-mail (e.g. Newsletter, Tips and Insights, Promotions). You can change your communications settings from the [User Settings page](https://web.archive.org/dashboard/user_settings).
-  * **To resolve customer support issues:** When you contact us for support, we may use your information to help resolve your problem.
-  * **To improve GTmetrix:** We use usage information and customer feedback to identify issues with GTmetrix and make improvements to the service.
-  * **To monitor and prevent security issues with GTmetrix:** We use logs and usage information to monitor for suspicious or fraudulent activity.
+  * **Provide and personalize GTmetrix:** We use your information to provide services to you (e.g. monitoring alerts) and to personalize your GTmetrix experience.
+  * **Communicate with you about GTmetrix:** We use your contact information to send you e-mail directly relating to GTmetrix (e.g. account validation, onboarding, PRO subscription, monitored page alerts). If you have opted-in, we also send you other non-essential GTmetrix e-mail (e.g. Newsletter, Tips and Insights, Promotions). You can change your communications settings from the [User Settings page](https://web.archive.org/dashboard/user_settings).
+  * **Resolve customer support issues:** When you contact us for support, we may use your information to help resolve your problem.
+  * **Improve GTmetrix:** We use usage information and customer feedback to identify issues with GTmetrix and make improvements to the service.
+  * **Monitor and prevent security issues with GTmetrix:** We use logs and usage information to monitor for suspicious or fraudulent activity.
 
 
 
@@ -61,11 +74,12 @@ We use the information mentioned above:
 
 We do not share, sell, rent or trade your private personal information with third parties without your consent, except in the following circumstances: 
 
-  * **Service Providers working on our behalf (Sub-processors):** We use third-party Service Providers to provide specific services for GTmetrix. The following third-parties have limited access to your information: 
+  * **Service Providers working on our behalf (Sub-processors):** We use third-party Service Providers to provide specific services for GTmetrix. The following third-parties have limited access to specific information (as needed): 
     * **Recurly, Inc** (United States): Billing and subscriptions.
     * **Bambora, Inc** (Canada): Payment processing.
     * **Stripe, Inc** (United States): Payment processing.
     * **Zendesk, Inc** (United States): Customer support.
+    * **Clearbit** (United States): Customer data enrichment.
   * **To comply with Laws:** If we receive a request for information, we may disclose information if we reasonably believe disclosure is in accordance with or required by any applicable law, regulation or legal process.
 
 
@@ -91,12 +105,14 @@ We do not store credit card information or any other sensitive information on ou
 The following data can be accessed and updated: 
 
   * **General account information:** Your Name, E-mail and communication preferences can be accessed and updated from the [User Settings page](https://web.archive.org/dashboard/user_settings).
-  * **Payment information:** Your credit card details can be updated from the [Payment Update page](https://web.archive.org/pro/payment-update).
+  * **Payment information:** Your credit card details can be updated from the [Payment Update page](https://web.archive.org/pro/payment-update?s=privacy-policy).
   * **Test details:** Test options (e.g. Cookies, HTTP authentication) can be accessed and updated from the report's Page Settings menu.
 
 
 
-If you would like to update/delete specific data or completely delete your account, please [contact us](https://web.archive.org/contact.html?type=feedback;subject=Delete+my+account). Note that we may need to retain certain information for record keeping purposes. 
+You can delete your account and associated data by requesting an [account deletion](https://web.archive.org/dashboard/account_delete) (if you are a GTmetrix PRO user, you must cancel your plan first). If you would only like to update/delete specific data, please [contact us](https://web.archive.org/contact.html?type=feedback;subject=Data+deletion+request). 
+
+Note that we may need to retain certain information (e.g. logs) for record keeping purposes. Any data retained will be anonymized (except IP). 
 
 * * *
 
@@ -118,6 +134,11 @@ Canada
 
 ## Change log
 
-  * May 25th, 2018: First revision
+  * May 31st, 2019 
+    * Updates to data deletion section
+    * Updates to service providers
+    * Updates to information collected
+  * May 25th, 2018 
+    * First revision
 
 
