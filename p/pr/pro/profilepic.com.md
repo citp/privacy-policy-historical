@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profilepic.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819203910id_/https%3A//www.profilepic.com/page/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profilepic.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619031933id_/https%3A//www.profilepic.com/page/terms) for the most accurate reproduction.*
 
 # ProfilePic.com - No.1 UK Dating Site - 100% Free Dating
 
