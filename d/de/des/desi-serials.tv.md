@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desi-serials.tv privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004223230id_/http%3A//www.desi-serials.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desi-serials.tv privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619171506id_/http%3A//www.desi-serials.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DesiSerials.TV
+# Privacy Policy - Desi-Serials.ORG
 
 DesiSerials cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to and creating account at Desi-Serials.tv you are accepting the practices outlined in this Privacy Policy.
 
