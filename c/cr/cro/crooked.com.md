@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crooked.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309074833id_/https%3A//crooked.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crooked.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619200205id_/https%3A//crooked.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Crooked Media
 
@@ -26,7 +26,7 @@ In general you can use the Site and/or Service without telling Crooked who you a
 
 Crooked collects information about you in the following ways:
 
-**A. Information you voluntarily provide Crooked.**
+ **A. Information you voluntarily provide Crooked.**
 
 Crooked collects and maintains information that you voluntarily submit to Crooked during your use of the Site and Services. For example:
 
@@ -39,7 +39,7 @@ Crooked collects and maintains information that you voluntarily submit to Crooke
 
 
 
-**B. Information Crooked collects through your use of the Site.**
+ **B. Information Crooked collects through your use of the Site.**
 
 As you use the Site and Services, certain information may also be passively collected. Through cookies, pixels, beacons, log files and other technologies, Crooked may collect information about how you use the Site and the Services. For example Crooked may determine through an IP address that a particular computer or device is located in Los Angeles and Crooked may use this information to deliver advertisements promoting Los Angeles-based businesses. This information allows Crooked to deliver more helpful information, programs, tools and advertisements.
 
@@ -72,7 +72,7 @@ In general, Crooked and Third Parties use your Personal Information as necessary
 
 
 
-**A. Tracking Technologies (e.g., Cookies)**
+ **A. Tracking Technologies (e.g., Cookies)**
 
 Crooked and/or Third Parties may use tacking technologies to provide you with a more personal and interactive experience with the Site and Services. These technologies may also be used to collect and store information about your usage of the Services, such as pages you have visited, the video and other content you have viewed, search queries you have run and advertisements you have seen. For contests or sweepstakes, if any, Crooked may also use cookies in order to track your progress and the number of entries in some promotions.  For polls, Crooked may use cookies to help ensure that an individual can’t vote more than once on a particular question or issue. Crooked does not store Personal Information in any cookies on your computer.
 
@@ -82,7 +82,7 @@ Crooked may also use cookies, pixels, web beacons (which are usually small, tran
 
 An “Internet protocol address” or “IP Address” is a number that is automatically assigned to your computer when you use the Internet. Crooked, its partners or their respective service providers, may use your IP Address when you access the Site or Services or use other means to assist with delivering geographically targeted advertisements.
 
-**B. Targeted Advertising**
+ **B. Targeted Advertising**
 
 Crooked works with third party companies ( _e.g._ , ad networks) that may use cookies for purposes including, without limitation, understanding Web usage patterns of users who see advertisements on the Site, controlling the sequence of advertisements you see, making sure you don’t see the same advertisement too many times, determining your interests and tailoring advertisements and promotions based on those interests. The advertisement may appear when you are visiting a different section of this Site, another Site or any other website on the Internet if the website also has a relationship with Crooked’s vendor. You can choose to limit Behavioral Advertising on the Site by clicking [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) and opting-out of cookies placed by those vendors listed. After you opt-out, you will still see advertisements but the advertising may not be as relevant to your interests. If you change your computer, change your browser, or delete your cookies, you will need to renew your opt-out.
 
@@ -96,27 +96,27 @@ Advertisers or other third parties on the Site may also engage in Behavioral Adv
 
 Crooked may share your information with its parent companies, affiliates, and/or subsidiaries and with third parties under the circumstances described below. If you do not want Crooked to use or disclose information collected about you in the ways identified in this Policy, you should not use the Site or Services.
 
-**A. Government Agencies**
+ **A. Government Agencies**
 
 Crooked may disclose and release your Personal Information to government representatives: (a) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (b) in special cases, such as a physical threat to you or others, a threat to homeland security, a threat to Crooked’s system or network, or in any cases in which Crooked believes it is reasonably necessary to investigate or prevent harm, fraud, abuse, illegal conduct or a violation or alleged violation of this Policy or other agreement Crooked may have with you.
 
-**B. Service Providers**
+ **B. Service Providers**
 
 Crooked may provide your Personal Information to service providers who work on its behalf or help Crooked to operate Crooked’s business, the Site and the Services. Examples of such service providers include vendors and suppliers that provide Crooked with technology, services, and/or content for sending email, analyzing data, research, providing advertising and marketing assistance, processing payments (including credit card payments), and providing customer service. Access to your Personal Information by these service providers is limited to the information reasonably necessary to perform its limited function.
 
-**C. Third Parties**
+ **C. Third Parties**
 
 Crooked may share aggregated Anonymous Information about you with the Third Parties. Aggregated information is your Anonymous Information that is combined with the Anonymous Information of other users.
 
-**D. Promotional Partners**
+ **D. Promotional Partners**
 
 Some or all of the information collected during promotions, contest, polls, or sweepstakes (collectively, “Promotions”) may be disclosed publicly. It may also be shared with other third parties as disclosed at the time of collection or in the Promotion rules. These third parties may include providers of prizes in order to update you of your status of your prize if any, or other fulfillment needs or a co-sponsor who may use your Personal Information to administer the Promotion or for their marketing purposes, but only in conformance with their privacy policy as made available to you at the time of collection. Crooked is not responsible for their privacy policy or practices. When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional information about the specific privacy practices associated with the Promotion. Notwithstanding the foregoing, you acknowledge and agree that any voting in connection with the Site and/or Service by you shall not be deemed participation in and/or qualify as a Promotion under California law and/or for the purposes hereof, and Crooked shall have no obligation and/or liability to you whatsoever in connection therewith, including without limitation, the obligation to award any prizes, gifts, and/or the assurance of any specific outcome or result.
 
-**E. Affiliated Companies**
+ **E. Affiliated Companies**
 
 Crooked may share your Personal Information and/or any other information collected hereunder with its subsidiaries and affiliated companies. Additionally, in the event Crooked goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your Personal Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Policy.
 
-**F. Public**
+ **F. Public**
 
 Crooked may make message boards, chat rooms, blogs, product review forums and other interactive forums available as part of the Services. You should be aware that any information which you post to these interactive forums or otherwise choose to make publicly available, including your Personal Information, may be disclosed and available to all users who have access to that portion of the Site or Services. By using these interactive Services, you agree that Crooked is not responsible for any information that you disclose or communicate in such forums, and any disclosures you make are at your own risk.
 
