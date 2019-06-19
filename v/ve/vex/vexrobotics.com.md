@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vexrobotics.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106163001id_/https%3A//www.vexrobotics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vexrobotics.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620000001id_/https%3A//www.vexrobotics.com/privacy-policy) for the most accurate reproduction.*
 
 # VEX Robotics Privacy Policy - VEX Robotics
 
