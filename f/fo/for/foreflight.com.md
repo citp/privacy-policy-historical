@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreflight.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125073409id_/https%3A//foreflight.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreflight.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619221214id_/https%3A//foreflight.com/about/privacy) for the most accurate reproduction.*
 
 # ForeFlight - Privacy
 
