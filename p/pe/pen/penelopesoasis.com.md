@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penelopesoasis.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226050336id_/http%3A//penelopesoasis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penelopesoasis.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619024602id_/http%3A//penelopesoasis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Penelopes Oasis
 
