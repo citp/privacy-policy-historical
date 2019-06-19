@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motul.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629081737id_/http%3A//www.motul.com/us/en-US/information/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motul.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619151143id_/https%3A//www.motul.com/us/en-US/information/privacy_policy) for the most accurate reproduction.*
 
 # Company Information
 
