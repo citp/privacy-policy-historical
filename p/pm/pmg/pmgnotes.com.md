@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmgnotes.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214183722id_/https%3A//www.pmgnotes.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmgnotes.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619234123id_/https%3A//www.pmgnotes.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PMG
 
@@ -129,6 +129,6 @@ By Fax: +1 941 360 2553
 
 ### Terms of Service
 
-Please also visit our [Terms of Service](https://web.archive.org/legal/) section establishing the use, disclaimers, and limitations of liability governing the use of the website that is available in your location.
+Please also visit our [Terms of Service](https://web.archive.org/legal/terms-of-use/) section establishing the use, disclaimers, and limitations of liability governing the use of the website that is available in your location.
 
 Revised: 07/11/2018
