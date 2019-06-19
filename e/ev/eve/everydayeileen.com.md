@@ -1,67 +1,104 @@
-> *The following text is extracted and transformed from the everydayeileen.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203035951id_/http%3A//www.everydayeileen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayeileen.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620010652id_/https%3A//www.everydayeileen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Everyday Eileen
 
-PRIVACY POLICY
+Everyday Eileen found at https://www.everydayeileen.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
-This privacy policy sets out how Everyday Eileen uses and protects any information that you give while using this site.
+At Everyday Eileen, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Everyday Eileen and how it is used. This statement only applies to this Website.
 
-Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+### WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
-Everyday Eileen may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from  **September 30th, 2015**. If you require any more information or have any questions about our privacy policy, please feel free to contact me.
+ **Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
 
-At Everyday Eileen, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Everyday Eileen and how it is used.
+ **Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-**_What we collect:_**
+ **Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-We may collect the following information:
+HOW YOUR INFORMATION MAY BE USED
 
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+We may use the information collected in the following ways:
 
-
-
-**_What we do with the information:_**
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * improve our products and services
-  * we may periodically send promotional emails
-  * we may also use your information to contact you for market research purposes
+  * To operate and maintain the Website;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
 
 
-**_Log Files:_**
+THIRD-PARTY USE OF PERSONAL INFORMATION
 
-Like many other Web sites, Everyday Eileen makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-**_Cookies and Web Beacons:_**
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-Everyday Eileen does use cookies to store information about visitor’s preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+The Website currently uses the following third-party service providers:
 
-**_Advertising:_**
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Mail Chimp – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to  **[Mail Chimp’s privacy policy](https://mailchimp.com/legal/privacy/)**  for further information.
 
-Some of our advertising partners may use cookies and web beacons on our site.
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on Everyday Eileen send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-Everyday Eileen has no access to or control over these cookies that are used by third-party advertisers.
+ANONYMOUS DATA
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Everyday Eileen‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+PUBLICLY VISIBLE INFORMATION
 
-**_Controlling your personal information:_**
+Users may see your username, avatar, profile description and website information.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+COOKIES
 
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
-  * We will not sell, distribute or lease your personal information to third parties unless we have your permission, or are required by law to do so.
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
 
+ADVERTISING
 
-**_Everyday Eileen  is not responsible for republished content from this blog on other blogs or websites without permission._**
+ **Display Ads**
+
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
+
+ **Retargeting  Ads**
+
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+ **Affiliate Program Participation**
+
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+Everyday Eileen is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+Newsletters
+
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+RIGHTS RELATED TO YOUR PERSONAL INFORMATION
+
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at everydayeileen22@gmail.com to be removed from our mailing list.
+
+Access – You may access the personal information we have about you by submitting a request to everydayeileen22@gmail.com.
+
+Amend – You may contact us at everydayeileen22@gmail.com to amend or update your personal information.
+
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to everydayeileen22@gmail.com.
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+SENSITIVE PERSONAL INFORMATION
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+CHILDREN’S INFORMATION
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at everydayeileen22@gmail.com and we will use our best efforts to promptly remove such information from our records.
+
+CONTACT INFORMATION
+
+At any time, please contact us at everydayeileen22@gmail.com for questions related to this Privacy Policy.
+
+Last updated: September 1, 2018
