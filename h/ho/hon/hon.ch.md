@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hon.ch privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017035125id_/https%3A//www.hon.ch/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hon.ch privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619020655id_/https%3A//www.hon.ch/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Health On the Net Foundation's Privacy policy
 
@@ -18,7 +18,7 @@ Any personal information voluntarily provided to HON by users and visitors of HO
 
 You have the right to ask to have access to and verify any personal information HON may hold about you to ensure that it is accurate, as provided by law. To protect your privacy, we take reasonable steps to verify your identity before granting you access to, or making corrections to, your personal information. You may opt out altogether of having us collect, use, or disclose your personal information at any time, subject to reasonable notice and applicable laws. 
 
-If you wish to withdraw from any of our services, please contact us via [https://www.hon.ch/20-years/en/contact.html](https://www.hon.ch/en/contact.html)
+If you wish to withdraw from any of our services, please contact us [here](https://www.hon.ch/en/contact.html).[](https://www.hon.ch/en/contact.html)
 
 Please note that communication details cannot be completely deleted during HONcode certification. They can only be replaced and updated.
 
@@ -127,14 +127,28 @@ Default expiration time: _2 years_
 **Google Analytics**   
 `__utmb`   
 Type : _Performance_   
-Description : this cookie is used to check approximately how fast people leave: when a visit starts, and approximately ends (expires quickly).   
+Description : this cookie is used to check approximately how fast people leave: when a visit starts, and approximately ends (expires quickly).   
 Default expiration time: _30 min_  
 **Google Analytics**   
 `__utmc`   
 Type : _Performance_   
-Description : this cookie is used to check approximately how fast people leave: when a visit starts, and approximately ends (expires quickly).   
+Description : this cookie is used to check approximately how fast people leave: when a visit starts, and approximately ends (expires quickly).   
 Default expiration time: _when the browsing session ends._  
+**Tawk-to**  
+`__tawkUUID`   
+Type : _Functionality_    
+Description : This cookie is used to collect information about how the visitor interacts with the live chat function on the website.   
+Temps d'expiration : _180 days._  
   
+### Tawk.to Discussion Tool
+
+Our site offers the Tawk.to online chat tool, a live chat solution provided by Tawk.to Ltd, so you can instantly communicate with our team if you have any questions. Tawk.to uses cookies to help us identify and track visitors who communicate with us. All communications between us and our visitors in this chat are secured by an SSL connection. The conversation log can be saved with your personal profile.
+
+Its use implies the consent of their terms and conditions and their privacy policy, in addition to ours.
+
+  
+You can find all this information about Tawk.to on these pages:
+
 ### Links to third party websites
 
 This privacy policy applies to HON websites and services only. We do not exercise control over the sites listed in our search engines or sites that include HON applications, products or services, or links within our various services (e.g. HONcode certified sites). 
@@ -161,6 +175,7 @@ This privacy policy can be modified from time to time. We recommend checking thi
 
 ### Contact us
 
-If you have any questions or concerns relating to this Privacy Policy, please contact us via [https://www.hon.ch/20-years/en/contact.html  
+If you have any questions or concerns relating to this Privacy Policy, please contact us [here](https://www.hon.ch/en/contact.html).  
+[  
 ](https://www.hon.ch/en/contact.html)For any additional information about the confidentiality of your data, you can send us an email at dpo@healthonnet.org.[  
 ](https://www.hon.ch/en/contact.html)
