@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parsimonious.org privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210015242id_/http%3A//www.parsimonious.org/support/web-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parsimonious.org privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619111826id_/http%3A//www.parsimonious.org/support/web-privacy-policy.html) for the most accurate reproduction.*
 
 # Parsimonious Technical Support
 
