@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picstopin.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227222932id_/http%3A//www.pinsdaddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picstopin.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619075302id_/http%3A//www.picstopin.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PinsDaddy
 
@@ -70,5 +70,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.pinsdaddy.com  
+http://www.picstopin.com  
 
