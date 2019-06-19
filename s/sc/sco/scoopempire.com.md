@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoopempire.com privacy policy that was archived on 2018-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180101212534id_/https%3A//scoopempire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoopempire.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619193521id_/https%3A//scoopempire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Scoop Empire
 
@@ -116,4 +116,4 @@ Follow the instructions at the bottom of each email and we will promptly remove 
 
 
 **Contacting Us**  
-If there are any questions regarding this privacy policy, you may contact us using the information [here](http://scoopempire.com/contact/).
+If there are any questions regarding this privacy policy, you may contact us using the information [here](https://scoopempire.com/contact/).
