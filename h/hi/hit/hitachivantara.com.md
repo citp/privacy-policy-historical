@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitachivantara.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226165122id_/https%3A//www.hitachivantara.com/en-us/company/legal.privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitachivantara.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620013825id_/https%3A//www.hitachivantara.com/en-us/company/legal.privacy.html) for the most accurate reproduction.*
 
 # Legal Terms, Privacy, Cookie Policy, Ethics and Trademarks | Hitachi Vantara
 
@@ -159,14 +159,13 @@ We welcome your inquiries or comments about this Policy and any queries or conce
 Please contact HITACHI at privacy@hitachivantara.com or at the following address:
 
 Hitachi Vantara Corporation  
-2845 Lafayette Street  
-Santa Clara, California 95050  
-U.S.A.
+2535 Augustine Drive  
+Santa Clara, CA 95054 USA
 
-Attention: Privacy Officer
+Attention: Global Data Protection Officer
 
 ### IMPLEMENTATION DATE
 
 We review HITACHI'S Privacy Policy regularly to reflect changes introduced by the applicable legislation. If you continue using our Site after such revisions are in effect, you accept and agree to the revisions and to abide by them.
 
-This Policy was last updated on May 25, 2018.
+This Policy was last updated on May 21, 2019.
