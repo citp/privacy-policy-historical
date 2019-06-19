@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbome.org privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918175940id_/https%3A//www.nbome.org/who-we-are/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbome.org privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619112407id_/https%3A//www.nbome.org/who-we-are/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice — NBOME
 
