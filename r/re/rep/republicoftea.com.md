@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519042500id_/http%3A//www.republicoftea.com/privacy-policy/a/cs3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619191752id_/https%3A//www.republicoftea.com/privacy-policy/a/cs3) for the most accurate reproduction.*
 
 # Privacy Policy | The Republic of Tea
 
-  * [Tea](http://www.republicoftea.com/)
+  * [Tea](https://www.republicoftea.com/)
   * Privacy Policy
 
 
 
 **Effective March 1, 2018**
 
-[](http://privacy.truste.com/privacy-seal/validation?rid=ddb376b1-fe2f-4010-8409-60243ef46076)
+[](https://privacy.truste.com/privacy-seal/validation?rid=ddb376b1-fe2f-4010-8409-60243ef46076)
 
 This Privacy Statement applies to www.republicoftea.com, owned and operated by The Republic of Tea (“We”, “Us”, “Our”). This privacy policy describes how The Republic of Tea collects and uses the personal information you provide on our Web site: www.republicoftea.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
@@ -112,7 +112,7 @@ PLEASE NOTE: It can take up to 8 days to process this request so you may get ano
 
 **How to Unsubscribe from The Republic of Tea's Direct Mail (Physical Mail) Program:**
 
-Visit [our contact page](http://www.republicoftea.com/Contact-Us/a/CS2/) and send a message to our Minister of Citizen Satisfaction. Please include your name and mailing address. You may also request to be removed by calling 800-298-4832.
+Visit [our contact page](https://www.republicoftea.com/Contact-Us/a/CS2/) and send a message to our Minister of Citizen Satisfaction. Please include your name and mailing address. You may also request to be removed by calling 800-298-4832.
 
 **Data Retention**
 
