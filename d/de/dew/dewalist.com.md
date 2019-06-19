@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dewalist.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210085149id_/http%3A//www.dewalist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dewalist.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619072836id_/http%3A//www.dewalist.com/privacy.php) for the most accurate reproduction.*
 
-# Northern Africa, Africa - World Free Classified Ads Online | Community Classifieds | Dewalist
+# Northern Europe, Europe - World Free Classified Ads Online | Community Classifieds | Dewalist
 
 **Privacy Policy**
 
