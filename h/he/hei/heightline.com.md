@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heightline.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215221311id_/https%3A//heightline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heightline.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619202609id_/https%3A//heightline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Heightline - Celebrity Height, Weight, Measurements, Feet, Shoe Size
+# Privacy Policy - Heightline - Celebrity Biographies, Height, Weight, Bios of Famous People
 
 Heightline.com takes your privacy seriously. We have created this Privacy Policy to demonstrate our strong commitment to protecting your privacy. It outlines our information gathering, cookie policy, and privacy-related practices
 
