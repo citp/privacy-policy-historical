@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aferry.to privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816064213id_/https%3A//www.aferry.co.uk/privacypolicyuk.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aferry.to privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620000121id_/https%3A//www.aferry.co.uk/privacypolicyuk.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,6 +59,7 @@ We may disclose your information in the following cases:
   * if we have a legal obligation to do so, or in order to protect other people's property, safety or rights;
   * we can exchange information with others to protect against fraud or credit risks;
   * to any financial institution with whom we hold an account for the purpose of verifying credit status and / or validating financial transactions.
+  * When you make a booking we may need to share your personal information with the Ferry Operators, of the services you're purchasing. This information may also be shared with other third parties, including port authorities, customs, and passport offices, where this is necessary to fulfil the ferry service contract.
 
 
 
@@ -138,19 +139,19 @@ We use cookies to make sure our website performs as it needs to, and to make sur
 
 Optimisation cookies allow us to see and track anonymous use data such as click trends, so we can be certain the site offers you a consistently smooth, functional and pleasant experience.
 
-We use third party service providers to assist us with optimisation, such as Google Analytics. For information on these cookies, please follow [this link](https://www.google.com/policies/privacy/).
+We use third party service providers to assist us with optimisation, such as Google Analytics. For information on these cookies, please follow [this link](http://www.google.com/policies/privacy/).
 
 #### Why we use it and additional information
 
 Advertising cookies can be used by us to interact with you once you have left our website, to help you find the ferry or train that's right for you. We collect data related to your browser activity including the number of pages viewed, routes selected and searches made.
 
-We work with Criteo, a third party service to tailor advertisements for you once you have left our website. For more information, please read their [privacy policy](https://www.criteo.com/privacy/).
+We work with Criteo, a third party service to tailor advertisements for you once you have left our website. For more information, please read their [privacy policy](http://www.criteo.com/privacy/).
 
 #### Why we use it and additional information
 
 We also use cookies to monitor and understand more about how our websites and services are used and accessed, which in turn lets us optimise the user experience and build a website that suits the needs of our users and drive the direction of our business. We use Google Analytics who store cookies on your device to generate anonymous reports and statistics.
 
-Google stores this information in accordance with their [privacy policy](https://www.google.com/privacypolicy.html).
+Google stores this information in accordance with their [privacy policy](http://www.google.com/privacypolicy.html).
 
 ### Further information
 
