@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotspotsystem.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211094616id_/http%3A//hotspotsystem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotspotsystem.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619114614id_/http%3A//www.hotspotsystem.com/privacy) for the most accurate reproduction.*
 
 # Principals of data protection
 
