@@ -1,80 +1,122 @@
-> *The following text is extracted and transformed from the wpschema.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpschema.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619132433id_/https%3A//wpschema.com/privacy-policy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Privacy Policy - Schema Pro
 
-[Home](https://www.hugedomains.com/) _ _ Privacy Policy
+**Privacy Policy**
 
-**What information do we collect?**
+This Privacy Policy describes how your personal information is collected, used, and shared.
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+This privacy policy applies to all visitors, and our website users, members and customers using or accessing our websites including www.brainstormforce.com www.ultimatebeaver.com, www.uaelementor.com, convertplug.com, wpschema.com, wpportfolio.net, wpastra.com store.brainstormforce.com support.brainstormforce.com ultimate.brainstormforce.com (the “Site”).
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+**WHO WE ARE**
 
-**What do we use your information for?**
+We are Brainstorm Force. you can find more information about us, including our full address, [on our company website](https://www.brainstormforce.com/contact/)
 
-Any of the information we collect from you may be used in one of the following ways: 
+**WHAT PERSONAL INFORMATION WE COLLECT**
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+When you visit our website, we automatically collect non-personally-identifying information and personally-identifying information about your device, including information about your web browser, IP address, time zone. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+We don’t share your personal information with anyone, except to the response to a lawful request by public authorities, including to meet national security or law enforcement requirements or to protect our rights.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+**Cookies**
 
-• To process transactions
+“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. We use cookies across our sites to help identify and track visitors. Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using our websites, with the drawback that certain features may not function properly without the aid of cookies.
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+**Comments**
 
-• To send periodic emails
+When you leave comments on the site we collect the data shown in the comments form, and also your IP address and browser user agent string to help spam detection.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available [here](https://automattic.com/privacy/). After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+**Contact forms**
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+Information submitted through the contact forms on our Site are sent to our company email, hosted by Gmail. You can find more about Google policy [here](https://policies.google.com/privacy/frameworks).
 
-**How do we protect your information?**
+While we keep these submissions for customer service purposes and never share with any third parties.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+**Support**
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+To help our support debug our product related issue, we might ask you to share a license key, name, email address, copy of your website, or login details with us. Since this is your website, you are the one responsible for its data and we strongly encourage you to share a staging site and remove any personal information from the database before sharing it with us.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+Information submitted through the support forms on our Site is managed through Freshworks. You can find more about Freshworks policy [here](https://www.freshworks.com/privacy/).
 
-**Do we use cookies?**
+That being said, here are some important points about what happens with the site duplicates and data that is shared with our support:
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+  * When a debug or setting check is needed, we ask for access to the site or even a full copy of the site.
+  * We use that access/duplicates strictly for debugging.
+  * We do not share that data with anyone outside of the company.
+  * We cannot be held responsible for any loss of private information from databases and of your website if that should occur. We recommend that you should only share staging site or have fully working backup of whatever website you share with us.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
 
-**Do we disclose any information to outside parties?**
+**Purchase**
 
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+We do not store information of your credit cards and all payments are handled through payment gateways.
 
-**Online Privacy Policy Only**
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-**Terms and Conditions**
+Additionally, when you make a purchase or attempt to make a purchase through the Site we verify your credit card through a payment gateway, and we collect certain information from you, including your name, billing address, shipping address, payment information, email address, and phone number.
 
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+If you’ve purchased our products from Envato Marketplace - we may ask you to verify your purchase through Envato APIs. Envato APIs provide us your Envato account username, email address, profile details. We also ask access to download your purchased items so we can provide automatic updates directly on your server from Envato. You can find more about Envato policy [here](https://envato.com/privacy/)
 
-**Your Consent**
+**License Keys**
 
-By using our site, you consent to our web site privacy policy. 
+To validate the purchase and to unlock benefits such as automatic updates, support from our developers and extra resources for the product offered, a licenses key is required. While activating license key, we receive your website URL, name and email address. Also we keep records of all website URLs where license key activated.
 
-**Changes to our Privacy Policy**
+**WHO WE SHARE YOUR DATA WITH**
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+We don’t share, sell, trade or otherwise transfer your data with third-parties in a way as to reveal any of your personal information. However, some data is transferred and/or stored with third-party services we use to operate our websites, like Google Analytics, Google Adwords, Facebook, Easy Digital Downloads, Stripe, PayPal, Amazon SES, and Jilt.
 
-This policy was last modified on 1/10/2012 
+**HOW SECURE IS MY INFORMATION**
 
-**Contacting Us**
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
-If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-HugeDomains.com
+**WHAT RIGHTS YOU HAVE OVER YOUR DATA**
+
+If want to confirm what personal data we may have about you or wish to modify it or know the purpose of the collecting and processing or to stop data sharing and processing please contact us at support@bsf.io
+
+You can also request information about your personal data consent source (if you haven't provided it directly to us or use our products and services) or how long it will be stored. Also, you have right to erasure, if the data is not needed for the purpose you can ask to delete the data or cease processing it. You can also request to cease using your data for direct marketing purposes. You may withdraw your consent at any time by clicking the “unsubscribe” link that can be found in our emails.
+
+If you think we haven’t complied with data protection laws of your country, you have a right to lodge a complaint with your data protection authority. Within the technical limits, on your request, we will provide you your personal data or to your data protection authority.
+
+If we can not provide you the requested data in a reasonable timeframe we will let you know the date when the data will be provided and if we deny your request for data we will provide a reason why we have denied the request.
+
+**CHILDREN'S ONLINE PRIVACY PROTECTION ACT COMPLIANCE**
+
+We do not knowingly collect personal information from children under the age of 13. If we determine we have collected personal information from a child younger than 13 years of age, we will take reasonable measures to remove that information from our systems. If you are under the age of 13, please do not submit any personal information through the Site, service, and Software.
+
+**THIRD PARTY LINKS**
+
+We may include or offer third party products or services on our website, these third-party sites have separate and independent privacy policies and we do not hold any liability or responsibility for the content and activities of these linked sites.
+
+**REMARKETING OR TARGETED ADVERTISING**
+
+We share your Personal Information with third parties like Google Analytics, Google Adwords, Facebook, etc. to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
+
+You can opt out of targeted advertising by:
+
+  * [FACEBOOK ](https://www.facebook.com/settings/?tab=ads)
+  * [GOOGLE](https://www.google.com/settings/ads/anonymous)
+  * [BING ](https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads)
+
+
+
+**NEWSLETTER EMAILS**
+
+By becoming a Site user, member, customer of Brainstorm Force you acknowledge and agree to be signed up for our newsletter. From time to time, we may want to contact you with information about product announcements, software updates, and special offers. You may opt-out of such communications at any time by clicking the “unsubscribe” link found within the emails. We will only send marketing communications to users located in the EEA with their prior consent.
+
+**WILL THIS PRIVACY POLICY EVER CHANGE**
+
+We may need to update this Policy to keep pace with changes in our Site, Software, and Services, our business, and laws applicable to us and you. We will, however, always maintain our commitment to respect your privacy. we will notify you by revising the “Last Updated” date at the bottom of this Privacy Policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). Please note that your continued use our Site, software, and services, after any change of policy means that you agree with the new policy and consent to be bound to it.
+
+**CONTACT US**
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at support@bsf.io or by mail using the details provided below:
+
+Brainstorm Force, Vasant Utsav, Opp Shell Petrol, Rajiv Gandhi Infotech Park, Hinjewadi, Pune, MH, 411057, India
+
+**Last updated: 25 May 2018**
