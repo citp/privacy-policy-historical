@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipipi.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027021346id_/https%3A//www.ipipi.com/DisplayContent.do%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipipi.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619183113id_/https%3A//www.ipipi.com/DisplayContent.do%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Text Message - Send SMS - International Texting - ipipi.com
 
@@ -68,6 +68,6 @@ ipipi.com ("The Service") is a service provided by Upside Wireless Inc. ("Upside
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please [ contact us ](https://web.archive.org/web/20181027021346id_/https%3A//www.ipipi.com/ContactUs.do)
+  * If you have questions or suggestions, please [ contact us ](https://web.archive.org/web/20190619183113id_/https%3A//www.ipipi.com/ContactUs.do)
 
 
