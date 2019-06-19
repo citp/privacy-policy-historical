@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231122652id_/https%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619073831id_/https%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Drugs.com
 
-Effective date: October 2nd, 2018
+Effective date: March 14, 2019
 
 Drugsite Trust ("us", "we", or "our") operates the https://www.drugs.com website (the "Service").
 
@@ -137,7 +137,7 @@ Drugsite Trust will take all steps reasonably necessary to ensure that your data
 
 ### Disclosure for Law Enforcement
 
-Under certain circumstances, Drugsite Trust may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+Under certain circumstances, Drugsite Trust may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency), including to meet national security or law enforcement requirements.
 
 ### Legal Requirements
 
@@ -153,7 +153,7 @@ Drugsite Trust may disclose your Personal Data in the good faith belief that suc
 
 ## Security Of Data
 
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+The security of your data is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
 ## "Do Not Track" Signals
 
@@ -246,6 +246,6 @@ If you have any questions about this Privacy Policy, please contact us by visiti
 > Telephone: +64 9 476 8500  
 > By e-mail: 
 
-Reviewed: November 6th, 2018
+Reviewed: March 12th, 2019
 
 Historical changes can be [viewed here](https://web.archive.org/support/privacy-history.html).
