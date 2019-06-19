@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangordailynews.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231191257id_/https%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangordailynews.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619215330id_/https%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Bangor Daily News — BDN Maine
 
@@ -45,8 +45,8 @@ You can view your activity on web pages, video services, and mobile apps that us
 
 **Will I receive personalized ads if I’m accessing the site from the EEA?**
 
-If you are accessing the site from the European Economic Area (EEA), ads served through Google’s platform will not serve with audience targeting. We are taking efforts to remove all programmatic advertising and most advertising that is not part of a Bangor Daily News website sponsorship.
-
+If you are accessing the site from the European Economic Area (EEA), ads served through Google’s platform will not serve with audience targeting. We are taking efforts to remove all programmatic advertising and most advertising that is not part of a Bangor Daily News website sponsorship.  
+  
 **IP Addresses**
 
 Bangor Daily News logs  IP addresses (the location of your computer on the Internet) for systems administration and troubleshooting purposes and to determine site usage.
