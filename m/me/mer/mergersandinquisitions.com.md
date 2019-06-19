@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mergersandinquisitions.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001234522id_/https%3A//www.mergersandinquisitions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mergersandinquisitions.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619192642id_/https%3A//www.mergersandinquisitions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - M&I
 
@@ -18,49 +18,49 @@ If you are a resident of the European Economic Area (“ ** _EEA_** ”), you ha
 
 Personal data is information that can be used to identify you such as your name, IP address, and email address. As a business, we collect personal data from you in a number of ways, including:
 
- **1) Comments on the Sites.** When visitors leave comments on our sites, we collect the data shown in the comments form (name and email address), and also the visitor’s IP address and browser user agent string to assist with spam detection. Your profile picture will also be visible to the public in the context of your comment, if you have chosen a photo.
+**1) Comments on the Sites.** When visitors leave comments on our sites, we collect the data shown in the comments form (name and email address), and also the visitor’s IP address and browser user agent string to assist with spam detection. Your profile picture will also be visible to the public in the context of your comment, if you have chosen a photo.
 
- **2) Opt-In to Banker Blueprint or “Free Tutorials” Newsletters.** We collect the name and email address you enter if you sign up for one of our newsletters.
+**2) Opt-In to Banker Blueprint or “Free Tutorials” Newsletters.** We collect the name and email address you enter if you sign up for one of our newsletters.
 
- **3) Transactions.** If you purchase a product or service on either site, we collect your name, email address, billing information, and payment source.
+**3) Transactions.** If you purchase a product or service on either site, we collect your name, email address, billing information, and payment source.
 
- **4) Opt-In to Product-Specific Newsletters.** If, after purchasing a product or service here, you double opt-in to confirm that you want to receive additional information about the product/service, we collect your name and email address.
+**4) Opt-In to Product-Specific Newsletters.** If, after purchasing a product or service here, you double opt-in to confirm that you want to receive additional information about the product/service, we collect your name and email address.
 
- **5) BIWS Lesson Completion, Note, Quiz, and Certification Data.**  If you complete lessons within the courses offered on BIWS, or you enter notes on the lessons, take quizzes, or receive certificates there, we retain this data.
+**5) BIWS Lesson Completion, Note, Quiz, and Certification Data.**  If you complete lessons within the courses offered on BIWS, or you enter notes on the lessons, take quizzes, or receive certificates there, we retain this data.
 
- **6) BIWS Site Usage Data from FullStory.** We use a service called “FullStory” (https://www.fullstory.com/) to track your interactions with the BIWS site, such as the links you click on, the files you download, and your web browser and geographic location.
+**6) BIWS Site Usage Data from FullStory.** We use a service called “FullStory” (https://www.fullstory.com/) to track your interactions with the BIWS site, such as the links you click on, the files you download, and your web browser and geographic location.
 
 ### B) What is the Purpose of Processing Your Personal Data?
 
 We collect the information above for the following purposes:
 
- **1) Comments on the Sites.** To allow you to ask questions and receive answers.
+**1) Comments on the Sites.** To allow you to ask questions and receive answers.
 
- **2) Opt-In to Banker Blueprint or “Free Tutorials” Newsletters.** To provide you with information on our courses and services and to send promotions that are closely aligned with the topics in which you have indicated your interest.
+**2) Opt-In to Banker Blueprint or “Free Tutorials” Newsletters.** To provide you with information on our courses and services and to send promotions that are closely aligned with the topics in which you have indicated your interest.
 
- **3) Transactions.** To process a purchase you make with us.
+**3) Transactions.** To process a purchase you make with us.
 
- **4) Opt-In to Product-Specific Newsletters.** To provide you with information on how to best use the course you purchased and to send promotions that are closely aligned with this purchase.
+**4) Opt-In to Product-Specific Newsletters.** To provide you with information on how to best use the course you purchased and to send promotions that are closely aligned with this purchase.
 
- **5) BIWS Lesson Completion, Note, Quiz, and Certification Data.**  To help you complete the courses more efficiently, test your knowledge, and track your progress.
+**5) BIWS Lesson Completion, Note, Quiz, and Certification Data.**  To help you complete the courses more efficiently, test your knowledge, and track your progress.
 
- **6) BIWS Site Usage Data from FullStory.** We collect this data primarily to resolve technical problems with the site, such as browser bugs and parts of the site that do not work for certain users. We also use it to review how users, in aggregate, interact with our sales and promotional material (e.g., the percentage of users that read the entire page before purchasing).
+**6) BIWS Site Usage Data from FullStory.** We collect this data primarily to resolve technical problems with the site, such as browser bugs and parts of the site that do not work for certain users. We also use it to review how users, in aggregate, interact with our sales and promotional material (e.g., the percentage of users that read the entire page before purchasing).
 
 ### C) What Legal Basis Do We Have For Collecting and Processing Your Information?
 
 Websites must have a legal basis for collecting information from individuals located in the EEA. Our legal basis for each of the ways we collect information from you is as follows. Please note where consent forms the basis, you can withdraw consent at any time by contacting our support team at [accounts@breakingintowallstreet.com](mailto:accounts@breakingintowallstreet.com) or opting out of any email message using the “Unsubscribe” link.
 
- **1) Comments on the Sites.** We have an allowed legitimate interest in providing a response to your questions and need to use your data to do so. We will not use the data for other purposes.
+**1) Comments on the Sites.** We have an allowed legitimate interest in providing a response to your questions and need to use your data to do so. We will not use the data for other purposes.
 
- **2) Opt-In to Banker Blueprint or “Free Tutorials” Newsletters.** We will ask for your consent first.
+**2) Opt-In to Banker Blueprint or “Free Tutorials” Newsletters.** We will ask for your consent first.
 
- **3) Transactions.** We will collect your information as part of a legal contractual transaction.
+**3) Transactions.** We will collect your information as part of a legal contractual transaction.
 
- **4) Opt-In to Product-Specific Newsletters.** We will ask for your consent first.
+**4) Opt-In to Product-Specific Newsletters.** We will ask for your consent first.
 
- **5) BIWS Lesson Completion, Note, Quiz, and Certification Data.** We have an allowed legitimate interest in providing you with a way to track your course completion progress and test your knowledge along the way. We will not use the data for other purposes.
+**5) BIWS Lesson Completion, Note, Quiz, and Certification Data.** We have an allowed legitimate interest in providing you with a way to track your course completion progress and test your knowledge along the way. We will not use the data for other purposes.
 
- **6) BIWS Site Usage Data from FullStory.** We have an allowed legitimate interest in resolving technical problems and bugs on the site and reviewing user interactions to improve the overall site experience.
+**6) BIWS Site Usage Data from FullStory.** We have an allowed legitimate interest in resolving technical problems and bugs on the site and reviewing user interactions to improve the overall site experience.
 
 “Legitimate interests” for processing your personal information exist where you submit the information with an expectation that it will be processed and there is no undue impact on you.
 
@@ -101,17 +101,17 @@ You may block or delete cookies by adjusting your browser settings or by respond
 
 We keep your personal data for different periods of time depending on the reason it was gathered in the first place.
 
- **1) Comments on the Site.** As long as your account remains open and you do not request a cancellation or refund, we retain this data because it is intended to help you complete the courses more effectively and receive answers to your questions. We will not use the data for other purposes. We keep comments on M&I unless you have specifically made a request to delete them.
+**1) Comments on the Site.** As long as your account remains open and you do not request a cancellation or refund, we retain this data because it is intended to help you complete the courses more effectively and receive answers to your questions. We will not use the data for other purposes. We keep comments on M&I unless you have specifically made a request to delete them.
 
- **2) Opt-In to Banker Blueprint or “Free Tutorials” Newsletters.** 36 Months.
+**2) Opt-In to Banker Blueprint or “Free Tutorials” Newsletters.** 36 Months.
 
- **3) Transactions.** Due to U.S. tax/audit requirements, we must retain transaction data indefinitely.
+**3) Transactions.** Due to U.S. tax/audit requirements, we must retain transaction data indefinitely.
 
- **4) Opt-In to Product-Specific Newsletters.** 36 Months.
+**4) Opt-In to Product-Specific Newsletters.** 36 Months.
 
- **5) BIWS Lesson Completion, Note, Quiz, and Certification Data.** As long as your account remains open and you do not request a cancellation or refund, we retain this data because it is intended to help you complete the courses more effectively. We will not use the data for other purposes.
+**5) BIWS Lesson Completion, Note, Quiz, and Certification Data.** As long as your account remains open and you do not request a cancellation or refund, we retain this data because it is intended to help you complete the courses more effectively. We will not use the data for other purposes.
 
- **6) BIWS Site Usage Data from FullStory.** 2 Months.
+**6) BIWS Site Usage Data from FullStory.** 2 Months.
 
 If a legal claim arises involving your data, we will store and disclose that data until the matter has resolved.
 
@@ -154,13 +154,13 @@ If you are a resident of the EEA and have a concern about our processing of your
 
 Data Controller
 
- **Representative:**  Brian DeChesare
+**Representative:**  Brian DeChesare
 
- **Websites:**  https://breakingintowallstreet.com/ and https://www.mergersandinquisitions.com
+**Websites:**  https://breakingintowallstreet.com/ and https://www.mergersandinquisitions.com
 
- **Email:** [accounts@breakingintowallstreet.com](mailto:accounts@breakingintowallstreet.com)
+**Email:** [accounts@breakingintowallstreet.com](mailto:accounts@breakingintowallstreet.com)
 
- **Phone:** +1 (815) 550-2093
+**Phone:** +1 (815) 550-2093
 
 ## For Residents of the State of California:
 
