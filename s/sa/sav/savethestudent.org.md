@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226211554id_/https%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619151556id_/https%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Save the Student
 
