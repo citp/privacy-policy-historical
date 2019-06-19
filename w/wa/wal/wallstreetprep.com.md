@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallstreetprep.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219203719id_/https%3A//www.wallstreetprep.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetprep.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619230831id_/https%3A//www.wallstreetprep.com/terms/privacy) for the most accurate reproduction.*
 
 # Wall Street Prep Privacy Policy | Wall Street Prep - Wall Street Prep
 
@@ -8,7 +8,7 @@ We at Wall Street Prep, LLC ( **“Wall Street Prep”** ,  **“we”** ,  **
 
 Unless we link to a different policy or state otherwise, this Privacy Policy applies when you visit or use the Wall Street Prep website or related services (the  **“Services”** ).
 
- **By using the Services, you agree to the terms of this Privacy Policy.**  You should not use the Services if you don’t agree with this Privacy Policy or any other agreement that governs your use of the Services.
+**By using the Services, you agree to the terms of this Privacy Policy.**  You should not use the Services if you don’t agree with this Privacy Policy or any other agreement that governs your use of the Services.
 
 ## 1\. Data Protection Officer and Data Security
 
@@ -24,13 +24,13 @@ We may collect different data from you/about you depending on how you use the Se
 
 When you create an account and use the Services, we collect any data you provide directly, including:
 
- **Account Data**|  In order to use certain features (like an online course), you need to create a user account. When you create or update your account, we collect and store the data you provide, like your email address and password. In addition, we assign you a unique identifying number (User ID).  
+**Account Data** | In order to use certain features (like an online course), you need to create a user account. When you create or update your account, we collect and store the data you provide, like your email address and password. In addition, we assign you a unique identifying number (User ID).  
 ---|---  
- **Course Data**|  When you enroll in and take courses, we collect certain data including which courses, quizzes and exams you’ve started and completed as well as your exchanges with Wall Street Prep instructors and other users/students.  
- **Payment Data**|  If you make purchases, we collect certain data about your purchase (such as your name and zip code) as necessary to process your order. You must provide certain payment and billing data directly to our payment processing partners, including your name, credit card information, billing address, and zip code. For security, Wall Street Prep does not collect or store cardholder data, such as full credit card numbers or card authentication data.  
- **Comments and Questions to Instructors**|  You may contact Wall Street Prep instructors and interact with other users through our website commenting system, titled "Ask a Question" on online course pages and "Leave a Comment" on blog posts and articles. We collect and store the information you enter such as name, email address and question/comment content. We use this data to respond to you and research your question or concern, in accordance with this Privacy Policy. In addition, the first name and comment content will be posted and made available to the public/other website users. We will comply within 3 business days to any request to delete comment and question data completely from our systems.  
- **Product reviews and Promotions**|  We may invite you to complete a product/services review or participate in a promotion either through the Services or a third-party platform. If you participate, we will collect and store the data you provide as part of participating, such as your name and email address. That data is subject to this Privacy Policy unless otherwise stated in the official rules of the promotion or in another privacy policy. The data collected will be used to administer the promotion to you. Name and email data collected will not be posted on any publicly accessible page.  
- **Technical and Services Support**|  If you contact us for support or to report a problem or concern (regardless of whether you have created an account), we collect and store your contact information, messages, and other data about you like your name, email address, location, operating system, IP address, and any other data you provide or that we collect through automated means (which we cover below). We use this data to respond to you and research your question or concern, in accordance with this Privacy Policy.  
+**Course Data** | When you enroll in and take courses, we collect certain data including which courses, quizzes and exams you’ve started and completed as well as your exchanges with Wall Street Prep instructors and other users/students.  
+**Payment Data** | If you make purchases, we collect certain data about your purchase (such as your name and zip code) as necessary to process your order. You must provide certain payment and billing data directly to our payment processing partners, including your name, credit card information, billing address, and zip code. For security, Wall Street Prep does not collect or store cardholder data, such as full credit card numbers or card authentication data.  
+**Comments and Questions to Instructors** | You may contact Wall Street Prep instructors and interact with other users through our website commenting system, titled "Ask a Question" on online course pages and "Leave a Comment" on blog posts and articles. We collect and store the information you enter such as name, email address and question/comment content. We use this data to respond to you and research your question or concern, in accordance with this Privacy Policy. In addition, the first name and comment content will be posted and made available to the public/other website users. We will comply within 3 business days to any request to delete comment and question data completely from our systems.  
+**Product reviews and Promotions** | We may invite you to complete a product/services review or participate in a promotion either through the Services or a third-party platform. If you participate, we will collect and store the data you provide as part of participating, such as your name and email address. That data is subject to this Privacy Policy unless otherwise stated in the official rules of the promotion or in another privacy policy. The data collected will be used to administer the promotion to you. Name and email data collected will not be posted on any publicly accessible page.  
+**Technical and Services Support** | If you contact us for support or to report a problem or concern (regardless of whether you have created an account), we collect and store your contact information, messages, and other data about you like your name, email address, location, operating system, IP address, and any other data you provide or that we collect through automated means (which we cover below). We use this data to respond to you and research your question or concern, in accordance with this Privacy Policy.  
   
 The data listed above is stored by us and is associated with your account.
 
@@ -38,10 +38,10 @@ The data listed above is stored by us and is associated with your account.
 
 When you access the Services (including browsing courses), we collect certain data by automated means, including:
 
- **System Data**|  Technical data about your computer or device, like your IP address, device type, operating system type and version, unique device identifiers, browser, browser language, domain and other systems data, and platform types ( **“System Data”** ).  
+**System Data** | Technical data about your computer or device, like your IP address, device type, operating system type and version, unique device identifiers, browser, browser language, domain and other systems data, and platform types ( **“System Data”** ).  
 ---|---  
- **Usage Data**|  Usage statistics about your interactions with the Services, including courses accessed, time spent on pages or the Service, pages visited, features used, your search queries, click data, date and time, and other data regarding your use of the Services ( **“Usage Data”** ).  
- **Approximate Geographic Data**|  An approximate geographic location, including information like country, city, and geographic coordinates, calculated based on your IP address.  
+**Usage Data** | Usage statistics about your interactions with the Services, including courses accessed, time spent on pages or the Service, pages visited, features used, your search queries, click data, date and time, and other data regarding your use of the Services ( **“Usage Data”** ).  
+**Approximate Geographic Data** | An approximate geographic location, including information like country, city, and geographic coordinates, calculated based on your IP address.  
   
 The data listed above is collected through the use of server log files and tracking technologies, as detailed in the “Cookies and Data Collection Tools” section below. It is stored by us and associated with your account.
 
@@ -57,10 +57,10 @@ We use cookies (small files that websites send to your device to uniquely identi
 
 Wall Street Prep uses the following types of cookies:
 
-  *  _Preferences:_  cookies that remember data about your browser and preferred settings that affect the appearance and behavior of the Services (like your preferred language).
-  *  _Security:_  cookies used to enable you to log in and access the Services; protect against fraudulent logins; and help detect and prevent abuse or unauthorized use of your account.
-  *  _Functional:_  cookies that store functional settings (like the layout you've selected for viewing lessons or current promotions available to you).
-  *  _Session State:_  cookies that track your interactions with the Services to help us improve the Services and your browsing experience, remember your login details, and enable processing of your course purchases. These are strictly necessary for the Services to work properly.
+  * _Preferences:_  cookies that remember data about your browser and preferred settings that affect the appearance and behavior of the Services (like your preferred language).
+  * _Security:_  cookies used to enable you to log in and access the Services; protect against fraudulent logins; and help detect and prevent abuse or unauthorized use of your account.
+  * _Functional:_  cookies that store functional settings (like the layout you've selected for viewing lessons or current promotions available to you).
+  * _Session State:_  cookies that track your interactions with the Services to help us improve the Services and your browsing experience, remember your login details, and enable processing of your course purchases. These are strictly necessary for the Services to work properly.
 
 
 
@@ -103,13 +103,13 @@ We share certain data about you with training group leaders/instructors, adminis
 
 We may share your data with third parties under the following circumstances or as otherwise described in this Privacy Policy:
 
-  *  **With Your Employer or Training Group Administrator:**  As many employers and university instructors or organizations use Wall Street Prep for coursework and training, we share your course, quiz and exam data including course completion and exam/quiz scores with employers/training group administrators/instructors who have signed you up for a Wall Street Prep account through a Service Agreement.
-  *  **With Service Providers, Contractors, and Agents:**  We share your data with third-party companies who perform services on our behalf, like payment processing, data analysis, marketing services, email and hosting services, and customer services and support. These service providers may access your personal data and are required to use it solely as we direct, to provide our requested service.
-  *  **With Analytics and Data Enrichment Services:**  As part of our use of third-party analytics tools like Google Analytics, we share certain contact information, Account Data, System Data, Usage Data (as detailed in Section 1), or de-identified data as needed. De-identified data means data for which we’ve removed things like your name and email address and replaced it with a token ID. This allows these providers to provide analytics services or match your data with publicly-available database information (including contact and social information from other sources). We do this to communicate with you in a more effective and customized manner.
-  *  **To Power Social Media Features:  **The social media features in the Services (like the Facebook Like button) may allow the third-party social media provider to collect things like your IP address and which page of the Services you’re visiting, and to set a cookie to enable the feature. Your interactions with these features are governed by the third-party company’s privacy policy.
-  *  **To Administer Reviews and Surveys:  **We may share your data as necessary to administer, market, or sponsor promotions and solicit reviews of products you choose to participate in, as required by applicable law (like to provide a winners list or make required filings), or in accordance with the rules of the promotion or survey.
-  *  **For Advertising:**  If we decide to offer advertising in the future, we may use and share certain System Data and Usage Data with third-party advertisers and networks to show general demographic and preference information among our users. We may also allow advertisers to collect System Data through Data Collection Tools (as detailed in Section 2.1), and to use this data to offer you targeted ad delivery to personalize your user experience (through behavioral advertising) and undertake web analytics. Advertisers may also share with us the data they collect about you. To learn more or opt out from participating ad networks’ behavioral advertising, see Section 6.1 (Your Choices About the Use of Your Data) below. Note that if you opt out, you’ll continue to be served generic ads.
-  *  **For Security and Legal Compliance:  **We may disclose your data to third parties if we (in our sole discretion) have a good faith belief that the disclosure is:
+  * **With Your Employer or Training Group Administrator:**  As many employers and university instructors or organizations use Wall Street Prep for coursework and training, we share your course, quiz and exam data including course completion and exam/quiz scores with employers/training group administrators/instructors who have signed you up for a Wall Street Prep account through a Service Agreement.
+  * **With Service Providers, Contractors, and Agents:**  We share your data with third-party companies who perform services on our behalf, like payment processing, data analysis, marketing services, email and hosting services, and customer services and support. These service providers may access your personal data and are required to use it solely as we direct, to provide our requested service.
+  * **With Analytics and Data Enrichment Services:**  As part of our use of third-party analytics tools like Google Analytics, we share certain contact information, Account Data, System Data, Usage Data (as detailed in Section 1), or de-identified data as needed. De-identified data means data for which we’ve removed things like your name and email address and replaced it with a token ID. This allows these providers to provide analytics services or match your data with publicly-available database information (including contact and social information from other sources). We do this to communicate with you in a more effective and customized manner.
+  * **To Power Social Media Features:  **The social media features in the Services (like the Facebook Like button) may allow the third-party social media provider to collect things like your IP address and which page of the Services you’re visiting, and to set a cookie to enable the feature. Your interactions with these features are governed by the third-party company’s privacy policy.
+  * **To Administer Reviews and Surveys:  **We may share your data as necessary to administer, market, or sponsor promotions and solicit reviews of products you choose to participate in, as required by applicable law (like to provide a winners list or make required filings), or in accordance with the rules of the promotion or survey.
+  * **For Advertising:**  If we decide to offer advertising in the future, we may use and share certain System Data and Usage Data with third-party advertisers and networks to show general demographic and preference information among our users. We may also allow advertisers to collect System Data through Data Collection Tools (as detailed in Section 2.1), and to use this data to offer you targeted ad delivery to personalize your user experience (through behavioral advertising) and undertake web analytics. Advertisers may also share with us the data they collect about you. To learn more or opt out from participating ad networks’ behavioral advertising, see Section 6.1 (Your Choices About the Use of Your Data) below. Note that if you opt out, you’ll continue to be served generic ads.
+  * **For Security and Legal Compliance:  **We may disclose your data to third parties if we (in our sole discretion) have a good faith belief that the disclosure is: 
     * Permitted or required by law;
     * Requested as part of a judicial, governmental, or legal inquiry, order, or proceeding;
     * Reasonably necessary as part of a valid subpoena, warrant, or other legally-valid request;
@@ -117,9 +117,9 @@ We may share your data with third parties under the following circumstances or a
     * Required to detect, prevent, or address fraud, abuse, misuse, potential violations of law (or rule or regulation), or security or technical issues; or
     * Reasonably necessary in our discretion to protect against imminent harm to the rights, property, or safety of Wall Street Prep, our users, employees, members of the public, or our Services.
     * We may also disclose data about you to our auditors and legal advisors in order to assess our disclosure obligations and rights under this Privacy Policy.
-  *  **During a Change in Control:  **If Wall Street Prep undergoes a business transaction like a merger, acquisition, corporate divestiture, or dissolution (including bankruptcy), or a sale of all or some of its assets, we may share, disclose, or transfer all of your data to the successor organization during such transition or in contemplation of a transition (including during due diligence).
-  *  **After Aggregation/De-identification:**  we can disclose or use aggregate or de-identified data for any purpose.
-  *  **With Your Permission:**  with your consent, we may share data to third parties outside the scope of this Privacy Policy.
+  * **During a Change in Control:  **If Wall Street Prep undergoes a business transaction like a merger, acquisition, corporate divestiture, or dissolution (including bankruptcy), or a sale of all or some of its assets, we may share, disclose, or transfer all of your data to the successor organization during such transition or in contemplation of a transition (including during due diligence).
+  * **After Aggregation/De-identification:**  we can disclose or use aggregate or de-identified data for any purpose.
+  * **With Your Permission:**  with your consent, we may share data to third parties outside the scope of this Privacy Policy.
 
 
 
@@ -153,7 +153,7 @@ If you have any questions about your data, our use of it, or your rights, contac
 You can access and update your personal data that Wall Street Prep collects and maintains as follows:
 
   * To update data you provide directly, log into your account and update your account at any time.
-  * To terminate your account:
+  * To terminate your account: 
     * If a Wall Street Prep account has been set up for you by an employer, training administrator, academic organization or other organization, you must request account termination through that organization.
     * If you signed up to Wall Street Prep yourself through a form or a purchase, email us at [dpo@wallstreetprep.com](mailto:dpo@wallstreetprep.com) for account termination.
     * Please note: even after your account is terminated, some or all of your data may still be visible to others, including without limitation any data that has been (a) copied, stored, or disseminated by other users (including in course comment); (b) shared or disseminated by you or others (including in your shared content); or (c) posted to a third-party platform. Even after your account is terminated, we retain your data for as long as we have a legitimate purpose to do so (and in accordance with applicable law), including to assist with legal obligations, resolve disputes, and enforce our agreements. We may retain and disclose such data pursuant to this Privacy Policy after your account has been terminated.
@@ -193,9 +193,9 @@ If you have any questions, concerns, or disputes regarding our Privacy Policy, p
 
 ## Cookie Policy
 
- _This Cookie Policy was last updated on June 1, 2018_
+_This Cookie Policy was last updated on June 1, 2018_
 
-###  What are cookies?
+### What are cookies?
 
 Cookies are small text files stored by your browser as you browse the internet. They can be used to collect, store, and share data about your activities across websites, including on Wall Street Prep. Cookies also allow us to remember things about your visits to Wall Street Prep, like your preferred language, and to make the site easier to use.
 
@@ -207,7 +207,7 @@ We use cookies and similar technologies like web beacons, pixel tags, or local s
 
 We use cookies for the following purposes:
 
- **Authentication and security**| 
+**Authentication and security** | 
 
   * To log you into Wall Street Prep
   * To protect your security
@@ -218,7 +218,7 @@ We use cookies for the following purposes:
   
 For example, cookies help authenticate your access to Wall Street Prep and prevent unauthorized parties from accessing your accounts.
 
- **Preferences**| 
+**Preferences** | 
 
   * To remember data about your browser and your preferences
   * To remember your settings and other choices you’ve made
@@ -228,7 +228,7 @@ For example, cookies help authenticate your access to Wall Street Prep and preve
   
 For example, cookies help us remember your preferred language or the country you’re in, so we can provide content in your preferred language without asking each time you visit.
 
- **Analytics and research**| 
+**Analytics and research** | 
 
   * To help us improve and understand how people use Wall Street Prep
 
@@ -241,7 +241,7 @@ We also work with a number of analytics partners, including Google Analytics, wh
 
 You can opt out of some of these services through tools like the [Google Analytics Opt-out Browser Add-on.](https://tools.google.com/dlpage/gaoptout)
 
- **Personalized content**| 
+**Personalized content** | 
 
   * To customize Wall Street Prep with more relevant content
 
@@ -250,7 +250,7 @@ You can opt out of some of these services through tools like the [Google Analyt
   
 For example, cookies help us show a personalized list of recommended courses on the homepage.
 
- **Advertising**| 
+**Advertising** | 
 
   * To provide you with more relevant advertising
 
