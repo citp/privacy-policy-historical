@@ -1,163 +1,47 @@
-> *The following text is extracted and transformed from the starmusiq.com privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809065845id_/https%3A//www.hover.com/privacy%3Fsource%3Dexpired) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmusiq.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619193525id_/https%3A//www.starmusiq.fun/policies/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Hover.com
+# Privacy Policy | StarMusiQ
 
-## Our Privacy and Data Collection Practices
+#### Last Updated: December 12, 2016
 
-Like most online businesses, Hover collects and processes information on behalf of and about our customers. We want to help our customers understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
+At StarMusiQ, we take the privacy of our users very seriously. This policy spells out the information we collect and how we put it to use. Please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d9b8bdb4b0b79997bcae8db8b4b0b591b0adaaf7bab6b4e68aacbbb3bcbaade489abb0afb8baa0f989b6b5b0baa0) if you have any questions about this Policy.
 
-The purpose of this document is to share these details with our customers and anyone else interested in how we collect and process personal data.
+#### Terms Of Service
 
-Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with various domain registries to facilitate the registration and management of your domain names.
+Refer to our [Terms of Service](https://web.archive.org/terms.html) for explanation of all legal terms and provisions, limitations of liability, exclusions of warranties, etc.
 
-We've tried really hard to keep this document simple and readable and if you have any suggestions for how we can improve it, please let do us know.
+#### Information Collection & Use
 
-## Account Information
+StarMusiQ requires users to register for the service and provide personal information including but not limited to the user's name, zip code and email address. StarMusiQ uses this information to establish and deliver service to the individual. StarMusiQ may use this information to contact registered users to notify them of product and service updates, provide instruction, and to deliver other service related information. StarMusiQ may also contact users to request additional information and feedback. StarMusiQ may employ companies and people to perform tasks on its behalf, and will need to share personal information with these agents to establish and deliver service to the individual. StarMusiQ's agents do not receive any right to use personal information beyond what is necessary to perform these tasks.
 
-When you purchase services from Hover, we create an account for you. This account makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
+StarMusiQ will not disclose registration information to third parties, including, but not limited to, companies affiliated with StarMusiQ, without your consent or as otherwise stated in this privacy policy. If at some point StarMusiQ sells all or a portion of its assets, customer information is one of those assets that would be transferred or acquired by a third party; the third party would then have the right to continue using the personal information as set forth in this policy. For more information see StarMusiQ's Privacy Policy Changes section below.
 
-Account data includes:
+StarMusiQ may release or exchange personal information if required to do so to comply with applicable law or to enforce its rights or agreements or prevent fraud or reduce credit risk. In addition, StarMusiQ may contact you to inform you of updates or new features. If you wish to be removed from such secondary mailings you may do so by the means provided in the email.
 
-* the name of the account holder;   
-* the mailing address of the account holder;   
-* a primary and, optionally, a secondary email address, associated with the account holder and any other individual that the account holder wishes to designate;   
-* a credit card number, expiry, and verification code;
+StarMusiQ may automatically collect and analyze information regarding the use of StarMusiQ's services and StarMusiQ site activity. Information collected may include but is not limited to web site traffic volume, frequency of visits, type and time of transactions, type of browser and operating system, etc. This information is logged to help diagnose technical problems, administer the site, and improve the quality and types of service delivered. StarMusiQ may also collect, track and analyze information that does not personally identify a user in aggregate form. This aggregate data will be used at StarMusiQ's discretion and may be shared with third parties, but with no personally identifiable information attached. Registered users will be using the site to host relationship data. Relationship data sent to StarMusiQ servers by the user will remain the property of the user. StarMusiQ will not review, share, distribute or reference such data except as may be required to provide the requested StarMusiQ services, or as provided in the StarMusiQ Terms of Use Agreement, or as may be required by law.
 
-Registration contact data varies by top-level domain, but it may include up to:
+If a user elects to use StarMusiQ's invite service for reaching a person via the StarMusiQ site, we will generate an automatic email that is sent to them. We will automatically send this person an email inviting them to visit the site if they are not a user or if they are a user we will send that an email to ask them to visit the site or respond to the invite. If the individual does not respond we do not send any reminder emails. We do not store this information for public use. The emails are for the sole purpose of notifying individuals about upcoming sports events.
 
-* Name and postal address of the Registered Name Holder;   
-* Registered Domain Name;   
-* The primary and secondary nameserver(s) for the Registered Domain * Name;   
-* Email address, voice, and fax (if available) telephone numbers of the Registered Name Holder;
+If a user's personally identifiable information changes (such as zip code or email), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. If not easily available online, this can be done by emailing our customer support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dabbbeb7b3b49a94bfad8ebbb7b3b692b3aea9f4b9b5b7e589afb8b0bfb9aee78aa8b3acbbb9a3ffe8ea8ab5b6b3b9a3).
 
-Contact data: including name, postal address, email address, voice and fax (if available) telephone numbers for other persons that may have responsibility for your Registered Domain Name.
+#### Cookies & Beacons
 
-For your convenience, we may store this data at your direction as a default set of information for future domain purchases.
+StarMusiQ uses cookies and beacons to assist in delivering the service and to provide a positive and personalized user experience. Cookies are files sent to your browser from a web server and stored on your computer's hard drive. Our persistent and session ID Cookies are used to identify unique visitors and to provide a personalized user experience. Beacons are bits of code that function similar to cookies. Our beacons are embedded in outgoing emails and generate a call back to the StarMusiQ server when such emails are opened. StarMusiQ uses beacons to track the status of sent emails.
 
-## Our use of your account data
+**COOKIES & 3rd PARTY ADVERTISMENTS**
 
-Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-We share this data programmatically with Braintree, for the purpose of billing your credit card.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-Hover relies on tokens generated by Braintree to trigger billable events. Hover retains the industry-normal first six and last four digits of the credit card, the type of credit card, and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not usable for any billing or charging purposes. Braintree will never use your data for their own purposes without our explicit consent or notice to us.
+#### Security
 
-Hover may share your account data with law enforcement agencies on a case-by-case basis, if necessary as part of a legal investigation. We may notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. We evaluate these requests on a case-by-case basis and we will notify you as appropriate.
+StarMusiQ has implemented processes designed to protect user information and maintain security. Each registered user is assigned a unique user name and password which is required to access their account and relationship information. It is the user's responsibility to protect the security of their login information. StarMusiQ's servers are located in secure server environments. Firewalls and other advanced security technologies are employed to prevent interference or access from outside intruders. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data.
 
-We may use your account data to contact you concerning a dispute related to your account or for verification purposes to make sure no one else is accessing your account.
+#### Third Party Sites
 
-Hover does not share your account data with any other parties for any other reasons, with the exception of vendors, working under our instruction following levels of security at least as rigorous as those followed by Hover.
+StarMusiQ's sites may contain links to third party web sites not associated with StarMusiQ. StarMusiQ is not responsible for the privacy practices or content of such sites. Users will need to review the policy statements of these sites to understand their privacy policies.
 
-## Our use of your registration data
+#### Privacy Policy Changes
 
-Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the OpenSRS, our sister operating division, and, in turn, that data is shared with the registry that manages the TLD you are registering in, for example, Verisign, for .com; CIRA, for .ca; and Nominet, for .uk.. The information we gather for specific registries will be presented to you at the time of your registration.
-
-Hover is also required by ICANN to escrow your registration data with Iron Mountain. Iron Mountain is not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be able to register domains.
-
-ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Registered Name for this purpose. Tucows sends this email directly and does not use a third party service to facilitate this mailing.
-
-If your Registered Domain Name is the subject of a dispute under either ICANN’s [Uniform Domain Name Dispute Resolution Policy](https://www.icann.org/resources/pages/help/dndr/udrp-en) or its [Uniform Rapid Suspension Policy](https://www.icann.org/resources/pages/urs-2014-01-09-en), we will share your registration data with the arbitration provider that is adjudicating the dispute, who will share it with the other party to the dispute. We also may use your registration data to contact you concerning any dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
-
-We never sell this information.
-
-## Location of Data Collection and Processing
-
-Your account data and registration data are collected and processed by us in Ontario, Canada. When necessary for the services your have requested from us, your data may also be processed elsewhere, within or outside of Canada, in accord with legal regulations.
-
-## WHOIS
-
-Typically, Hover, through its sister operating division OpenSRS, will publish your registered domain name and your geographical territory in the Whois database. We also may provide a webform or pseudoanonymized email to allow users of the Internet to contact the registrant of the domain name. In some ccTLDs, you may be required to provide additional information which will be shown in the public whois database; if so, these additional data fields will be described to you at the time of registration.
-
-Many Registries allow for the use of Whois Privacy services, but many others do not. Support (or lack of support for) Whois Privacy is noted during the checkout process and also noted in the Hover dashboard when viewing the details for each domain you own.
-
-This tutorial can help you with controlling the publication of your information in Whois.
-
-It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
-
-Your personal information is still known to people at our company with a need to access account and registration data. It also may be available in the future should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way. We reserve the right to remove privacy and restore your contact data in the event of a dispute or a violation of our terms of service.
-
-## Domain Search Information
-
-Typically, Hover, through its sister operating division OpenSRS, will publish your registered domain name and your geographical territory in the Whois database. We also may provide a webform or pseudoanonymized email to allow users of the Internet to contact the registrant of the domain name. In some ccTLDs, you may be required to provide additional information which will be shown in the public whois database; if so, these additional data fields will be described to you at the time of registration.
-
-Many Registries allow for the use of Whois Privacy services, but many others do not. Support (or lack of support for) Whois Privacy is noted during the checkout process and also noted in the Hover dashboard when viewing the details for each domain you own.
-
-This tutorial can help you with controlling the publication of your information in Whois.
-
-It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
-
-Your personal information is still known to people at our company with a need to access account and registration data. It also may be available in the future should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way. We reserve the right to remove privacy and restore your contact data in the event of a dispute or a violation of our terms of service.
-
-## Customer Service Information
-
-We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
-
-When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
-
-## Electronic Newsletters and Unsubscribe Policy
-
-We only provide newsletters to you if you have opted in to receive them. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. 
-
-## Data Analytics
-
-We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). When you visit our websites, our web servers temporarily record the domain name or IP address of your computer, the file requested (file name and URL) by the client, the http response code, and the website from which you are visiting us. The recorded data is used for data security purposes, particularly to protect against attempted attacks on our server, and for statistical analysis. We do not use it to create individual user profiles nor do we share this information with third parties. Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to any third-party. We use a variety of third party services to help us collect and analyze this data, including Google Analytics.
-
-## Cookies
-
-We use cookies for certain services. These are small text files that are stored on your computer. They enable the system to tell if you repeatedly visit websites from the same computer.
-
-Session cookies are cookies that are only saved on your computer for the duration of a single Internet session. They do not contain any personal data. For some offerings we use persistent cookies that support the services for future sessions. These cookies remain valid until you delete them or until the deletion period configured in your client is reached. You can set your browser to prevent these cookies being stored or to delete the cookies at the end of your Internet session. Please remember that in this case you may not have access to the full range of functions offered by our website.
-
-##  Data Security and Retention
-
-We follow generally accepted standards to store and protect the personal data we collect, both during transmission and once received and stored. We use encryption where appropriate.
-
-We retain personal data only for as long as necessary to provide the services you have purchased from us, and we may retain that information for legal or business purposes after termination of the services. These post-services retention periods are either mandated by law or contract and are necessary for preserving, resolving, defending or enforcing our legal and contractual rights or needed to maintain accurate business and financial records.
-
-If you have any questions about the security or retention of your personal data, you can contact us by email at [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm).
-
-## Data Access and Correction
-
-You may view the personal information we have about you inside your account. You also may request, free of charge, information on the scope, origin, and recipients of any stored data as well as the purpose of storage. You may request that incorrect data be corrected at any time, or you may correct any data elements inside your account to which you have access.
-
-## Age restrictions
-
-We do not target our services to persons under the age of 18. If you know of, or have reason to believe, anyone under the age of 18 has provided us with any personal data, please contact us.
-
-## Changes in our Privacy Policy
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes here, among other places we think you are likely to visit. We will place a date on any new privacy policy with material changes, so you will be able to see the last revision date.
-
-## Data Protection Authority
-
-If you are a resident of the European Economic Area (EEA) and believe we maintain your personal data subject to the General Data Protection Regulation (GDPR), you may direct questions or complaints to our lead supervisory authority, responsible for the territory in which we maintain a subsidiary office in Germany. Our lead supervisory authority is:
-
-Landesbeauftragte für Datenschutz und Informationsfreiheit   
-Nordrhein-Westfalen   
-Postfach 20 04 44   
-40102 Düsseldor   
-Tel.: 0211/38424-0
-
-## Contact Us
-
-If you have any questions, concerns or complaints about our Privacy Policy, our practices or our Services, you may contact our Office of the DPO by email at [DPO@tucows.com](mailto:DPO@tucows.com). In the alternative, you may contact us by either of the following means:
-
-By Mail:
-
-Hover, a service of Tucows   
-96 Mowat Avenue   
-Toronto, Ontario   
-M6K 3M1   
-CANADA   
-(Attention: Office of the Data Protection Officer)
-
-or for customers established in the EEA
-
-Attn:   
-Tucows Data Protection Officer   
-Rickert Rechtsanwaltsgesellschaft m.b.H   
-Kaiserplatz 7 - 9   
-53113 Bonn   
-[DPO@tucows.com](mailto:DPO@tucows.com)
-
-We will respond to all requests, inquiries or concerns within thirty (30) days.
+StarMusiQ reserves the right to make changes to this privacy statement. Any material changes to this statement will be prominently posted online and accessible via the StarMusiQ user portal 30 days prior to taking effect.
