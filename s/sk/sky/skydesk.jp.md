@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skydesk.jp privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604071232id_/https%3A//www.fujixerox.com/eng/common/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skydesk.jp privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619172240id_/https%3A//www.fujixerox.com/eng/common/privacy_policy) for the most accurate reproduction.*
 
 # Fuji Xerox Privacy Policy (Handling of Personal Information) : FUJI XEROX
 
@@ -68,7 +68,7 @@ In those cases, in order to prevent unlawful acquisition or alteration of person
 
 [Handling of personal information at point of contact of Fuji Xerox](http://www.fujixerox.co.jp/common/privacy_policy/callcenter.html) (only available in Japanese)
 
-  * Please refer to the following Web site for request based on Personal Information Protection Act, such as notice of the purpose of usage of personal information, disclosure, correction, addition, deletion, suspension, or erasing of personal information. 
+  * Please refer to the following Web site for request based on Personal Information Protection Act, such as notice of the purpose of usage of personal information, disclosure, correction, addition, deletion, suspension, or erasing of personal information.
 
 [How to make request based on Personal Information Protection Act](http://www.fujixerox.co.jp/common/privacy_policy/request.html) (only available in Japanese)
 
@@ -150,5 +150,3 @@ Fuji Xerox will occasionally revise this Privacy Policy in accordance with revis
   * Note 7 “Specific Personal Information” means Individual Numbers based on “Act on the Use of Numbers to Identify a Specific Individual in The Administrative Procedure” and personal information that includes Individual Numbers.
 
 
-
-Go to top
