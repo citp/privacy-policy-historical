@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230114000id_/http%3A//www.mtv.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.tv privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620013543id_/http%3A//www.mtv.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MTV UK
 
