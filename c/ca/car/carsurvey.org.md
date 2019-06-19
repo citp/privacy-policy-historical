@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsurvey.org privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208155026id_/http%3A//carsurvey.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsurvey.org privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619063902id_/http%3A//www.carsurvey.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Carsurvey.org
 
