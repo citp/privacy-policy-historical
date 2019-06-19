@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diethood.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223155430id_/https%3A//diethood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diethood.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619204016id_/https%3A//diethood.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Diethood
 
@@ -8,10 +8,10 @@ We respect your privacy and are committed to protecting it. The purpose of this 
 
 **WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-  * **Information You Voluntarily Submit to the Website:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, we may ask you to create a user profile, which would allow you to create a username and password. We will store the username, but your password will not be visible in our records.
+  *  **Information You Voluntarily Submit to the Website:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, we may ask you to create a user profile, which would allow you to create a username and password. We will store the username, but your password will not be visible in our records.
 
 
-  * **Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment. 
+  *  **Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment. 
 
 
   * **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked. 
@@ -21,7 +21,7 @@ We respect your privacy and are committed to protecting it. The purpose of this 
 
 
 
-**HOW YOUR INFORMATION MAY BE USED**
+ **HOW YOUR INFORMATION MAY BE USED**
 
 We may use the information collected in the following ways: 
 
@@ -37,9 +37,9 @@ We may use the information collected in the following ways:
 
 
 
-**THIRD-PARTY USE OF PERSONAL INFORMATION**
+ **THIRD-PARTY USE OF PERSONAL INFORMATION**
 
-**We may share your information with third parties when you explicitly authorize us to share your information.**
+ **We may share your information with third parties when you explicitly authorize us to share your information.**
 
 Additionally, the Website may use third-party service providers service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies. The Website currently uses the following third-party service providers: 
 
@@ -53,13 +53,13 @@ At this time, your personal information is not shared with any other third-party
 
 Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-**ANONYMOUS DATA**
+ **ANONYMOUS DATA**
 
 From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies. 
 
 **PUBLICLY VISIBLE INFORMATION**
 
-**** If you create a user profile on the Website or leave a comment, certain information may be publicly visible. 
+ **** If you create a user profile on the Website or leave a comment, certain information may be publicly visible. 
 
 **COOKIES**
 
@@ -67,28 +67,28 @@ The Website uses cookies to store visitors’ preferences, record user-specific
 
 Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
 
-**ADVERTISING**
+ **ADVERTISING**
 
-**Display Ads  
+ **Display Ads  
 **We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personally identifiable information is shared with the Website’s ad providers.
 
-**Retargeting Ads  
+ **Retargeting Ads  
 **From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website. 
 
 **Sponsored Content Tracking Pixels  
 **This Website may engage in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
 
-**Affiliate Program Participation  
+ **Affiliate Program Participation  
 **The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions. 
 
 DIETHOOD, Inc. is a participant in the **Amazon Services LLC Associates Program** , an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
-**Newsletters**  
+ **Newsletters**  
 On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
-**RIGHTS RELATED TO YOUR PERSONAL INFORMATION**
+ **RIGHTS RELATED TO YOUR PERSONAL INFORMATION**
 
-**Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at katerina@diethood.com to be removed from our mailing list. 
+ **Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at katerina@diethood.com to be removed from our mailing list. 
 
 **Access** – You may access the personal information we have about you by submitting a request to katerina@diethood.com. 
 
@@ -106,7 +106,7 @@ At no time should you submit sensitive personal information to the Website. This
 
 The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at katerina@diethood.com and we will use our best efforts to promptly remove such information from our records.
 
-**CONTACT INFORMATION**
+ **CONTACT INFORMATION**
 
 At any time, please contact us at katerina@diethood.com for questions related to this Privacy Policy. 
 
