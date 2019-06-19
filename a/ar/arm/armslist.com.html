@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the armslist.com privacy policy that was archived on 2018-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181209160914id_/http%3A//www.armslist.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the armslist.com privacy policy that was archived on 2019-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190619103034id_/http%3A//www.armslist.com/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta charset="utf-8">
@@ -153,12 +153,14 @@ var zflag_nid="305"; var zflag_cid="56890/56889/1"; var zflag_sid="5734"; var zf
 
         </script>
         <!--End ALC script-->
+        <!-- OneTag Container: armslist-->
+        
     </head>
 
 
 
     <body style="-webkit-overflow-scrolling: touch;">
-        <div id="termsModal" class="modal fade" role="dialog" style="color: #655D5B !important;">
+        <div id="termsModal" class="modal fade" role="dialog" style="color: #655D5B !important; z-index: 100000 !important;">
             <div class="modal-dialog">
 
                 <!-- Modal content-->
@@ -176,7 +178,7 @@ var zflag_nid="305"; var zflag_cid="56890/56889/1"; var zflag_sid="5734"; var zf
 
             </div>
         </div>
-        <div id="promotionModal" class="modal fade" role="dialog" style="color: #655D5B !important;">
+        <div id="promotionModal" class="modal fade" role="dialog" style="color: #655D5B !important; z-index: 100000 !important;">
             <div class="modal-dialog">
 
                 <!-- Modal content-->
@@ -194,7 +196,7 @@ var zflag_nid="305"; var zflag_cid="56890/56889/1"; var zflag_sid="5734"; var zf
 
             </div>
         </div>
-        <div id="filterByModal" class="modal fade" role="dialog" style="color: #655D5B !important;">
+        <div id="filterByModal" class="modal fade" role="dialog" style="color: #655D5B !important; z-index: 100000 !important;">
             <div class="modal-dialog">
 
                 <!-- Modal content-->
@@ -213,7 +215,7 @@ var zflag_nid="305"; var zflag_cid="56890/56889/1"; var zflag_sid="5734"; var zf
 
             </div>
         </div>
-        <div id="dropinModal" class="modal fade" role="dialog" style="color: #655D5B !important;">
+        <div id="dropinModal" class="modal fade" role="dialog" style="color: #655D5B !important; z-index: 100000 !important;">
             <div class="modal-dialog">
 
                 <!-- Modal content-->
@@ -233,47 +235,46 @@ var zflag_nid="305"; var zflag_cid="56890/56889/1"; var zflag_sid="5734"; var zf
 
             </div>
         </div>
+        <div id="contactSellerEmailModal" class="modal fade" role="dialog" style="color: #655D5B !important; z-index: 100000 !important;">
+            <div class="modal-dialog">
 
-    <div id="contactSellerEmailModal" class="modal fade" role="dialog" style="color: #655D5B !important;">
-        <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">×</button>
+                        <h4 style="color: #655d5b">Contact Seller</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div id="messageSellerContainer"></div>
+                    </div>
+                    <div class="modal-footer">
+                        <button id="contactFormSubmitBtn" type="button" class="pull-left btn btn-default" onclick="doMessageSend()">Send</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                    </div>
+                </div>
 
-            <!-- Modal content-->
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal">×</button>
-                    <h4 style="color: #655d5b">Contact Seller</h4>
-                </div>
-                <div class="modal-body">
-                    <div id="messageSellerContainer"></div>
-                </div>
-                <div class="modal-footer">
-                    <button id="contactFormSubmitBtn" type="button" class="pull-left btn btn-default" onclick="doMessageSend()">Send</button>
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
-                </div>
             </div>
-
         </div>
-    </div>
-    <div id="searchAlertModal" class="modal fade" role="dialog" style="color: #655D5B !important;">
-        <div class="modal-dialog">
+        <div id="searchAlertModal" class="modal fade" role="dialog" style="color: #655D5B !important; z-index: 100000 !important;">
+            <div class="modal-dialog">
 
-            <!-- Modal content-->
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal">×</button>
-                    <h4 style="color: #655d5b">Search Alert</h4>
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">×</button>
+                        <h4 style="color: #655d5b">Search Alert</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div id="searchAlertContainer"></div>
+                    </div>
+                    <div class="modal-footer">
+                        <button id="searchAlertFormSubmitBtn" type="button" class="pull-left btn btn-default" onclick="createSearchAlert()">Create</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                    </div>
                 </div>
-                <div class="modal-body">
-                    <div id="searchAlertContainer"></div>
-                </div>
-                <div class="modal-footer">
-                    <button id="searchAlertFormSubmitBtn" type="button" class="pull-left btn btn-default" onclick="createSearchAlert()">Create</button>
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
-                </div>
+
             </div>
-
         </div>
-    </div>
     <div id="wrapper">
         <header id="header" class="navbar-default text-uppercase" role="navigation">
             <div class="top-holder">
@@ -388,7 +389,8 @@ var zflag_nid="305"; var zflag_cid="56890/56889/1"; var zflag_sid="5734"; var zf
                         </a>
                     </div>
                 </div>
-            </div><br><br>
+            </div>
+            <div class="hidden-xs"><br><br></div>
             <div class="alert " id="mainMessageContainer" style="display: none; margin-bottom: 0px;">
 
                 <div id="mainMessageContainer_Message" style="text-align: center;"></div>
@@ -616,7 +618,7 @@ information. Report Illegal Firearms Activity to 1-800-ATF-GUNS.  </p>
 
                         </div>
                         <span class="copy">
-                            Copyright © 2018 Armslist, LLC |
+                            Copyright © 2019 Armslist, LLC |
 
                             | Version: 15.0.2
                         </span>
