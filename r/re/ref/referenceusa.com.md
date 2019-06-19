@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the referenceusa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103705id_/http%3A//resource.referenceusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referenceusa.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619075402id_/http%3A//resource.referenceusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ReferenceUSA™
 
@@ -7,7 +7,7 @@ Infogroup and its various affiliates and subsidiaries provide to clients a wide 
 
 Most of the information that we handle is not collected on this website, but rather through relationships we have with other companies such as data suppliers, business partners (such as ad networks and other online partners), data services providers, agencies and our clients. We nonetheless provide this Privacy Policy as a service to consumers and others who want to learn more about the data we handle and how we use it. If you are interested particularly in the information we collect on this website, please go to the Section titled “ **Data Collected On Our Website**“.
 
-Infogroup is a member of the Direct Marketing Association (“DMA”), and we adhere to the principle that consumers should have choices regarding how marketers use their data and market to them. For information about how to opt out of our database, or out of certain services provided by our business partners, please go to our section titled “ **Your Choices and Opt Out Rights.**”
+Infogroup is a member of the Direct Marketing Association (“DMA”), and we adhere to the principle that consumers should have choices regarding how marketers use their data and market to them. For information about how to opt out of our database, or out of certain services provided by our business partners, please go to our section titled “ **Your Choices and Opt Out Rights**.”
 
 **2\. The Types of Data That We Obtain and Use**  
 Infogroup receives data from, and handles data on behalf of, a variety of consumer-facing companies, applications and services, business-facing companies, and data compilers and suppliers. We also may obtain data through public sources, such as census data and other public records. Some of the data we receive, use and make available is Personal Information (“PI”) or is linked to PI. PI includes, for instance, name, postal address, telephone number or email address. In addition, some of our services involve using and making available “business to business” data, which is obtained from a number of sources, including public directories, filings and publications, surveys and subscriptions.
@@ -26,7 +26,7 @@ We use and make available Personal Information for various purposes. For instanc
 
 Sometimes, we may use PI and Data Segments to help marketers and other data platforms perform “cross-channel” marketing – analyzing, locating and creating potential marketing “audiences” through multiple channels, e.g., web and mobile, or TV/radio.
 
-In addition, when we work with online marketing applications such as through web-based, mobile, or cable TV technologies, these marketing applications may de-identify Personal Information (such as by creating a “hashed” version of an email address, or another associated identifier) in order to reach consumers through online display media. These marketing applications use cookies and similar technologies, often associated with unique online identifiers. Similarly, when we interact with consumers online, such as through a website or online ad or an email, we may employ cookies and similar technologies, which also may contain unique online identifiers. To learn more about these technologies, please go to the below section titled “ **Cookies, Web Pixels and Similar Technologies**,” and to opt out of the use of these technologies by many marketing applications that employ them for third party behavioral tracking and similar types of ad targeting, please go to the below section titled “ **Your Choices and Opt-Out Rights**.”
+In addition, when we work with online marketing applications such as through web-based, mobile, or cable TV technologies, these marketing applications may de-identify Personal Information (such as by creating a “hashed” version of an email address, or another associated identifier) in order to reach consumers through online display media. These marketing applications use cookies and similar technologies, often associated with unique online identifiers. Similarly, when we interact with consumers online, such as through a website or online ad or an email, we may employ cookies and similar technologies, which also may contain unique online identifiers. To learn more about these technologies, please go to the below section titled “ **Cookies, Web Pixels and Similar Technologies**“, and to opt out of the use of these technologies by many marketing applications that employ them for third party behavioral tracking and similar types of ad targeting, please go to the below section titled “ **Your Choices and Opt-Out Rights**.”
 
 The above is not necessarily an exclusive description of the ways we may employ PI and other data. (You may learn more about our products and services by reviewing descriptions of our services on our website.) Generally, however, by permitting marketers to reference PI and other data when they send offers to their customers and others, we do so to help increase the likelihood that marketers will send relevant and desired, rather than unwanted offers, content, coupons and ads.
 
@@ -50,12 +50,12 @@ While we would be sorry to see you go, you can unsubscribe from our corporate em
 **5\. How We Work With and Share Data With Third Parties**  
 Infogroup may share data, including Personal Information and Data Segments, as follows:
 
-  * Agents and Service Providers: We may share data, including PI and Data Segments, with agents, business partners and service providers who work on our behalf, or to help us provide services requested by our customers, including to perform any of the services described in this Privacy Policy. We may do so, for instance, to help send or target advertising on behalf of our clients (or ourselves), for analytical purposes, to measure campaigns, or inform future campaigns. We may do so to facilitate the sending of display media, email, or other requested services.
-  * Partners: We may share data, including PI and Data Segments, with business and data partners (such as business partners who provide to marketers their own applications or data services) or with clients, to help provide more tailored advertising and for analytical purposes.
-  * Corporate transfers: If Infogroup or its significant assets are purchased by another entity, our data will likely be transferred to that entity, including for due diligence prior to any such potential purchase.
-  * Affiliates, Parents and Subsidiaries: We may share some or all of the data in our possession with affiliated or subsidiary companies. Our affiliates and subsidiaries include (but are not limited to): Direct Media Holdings, Inc.; Direct Media, LLC; GoTime Corporation; infoUSA Inc.; infoUSA Marketing, Inc.; Walter Karl, Inc.; Yesmail, Inc.; and Yesmail International Holdings, Inc. (You may learn more about several of these on this website.)
-  * As Required by Law or to Protect Any Party: Infogroup may disclose data if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) to protect or otherwise defend the rights, property or safety of Infogroup or any other party.
-  * Data We Collect on Our Website. We use data that you provide to us on our website to market, we may use this data for our business purposes. For instance, if you provide us with your name and email address, we may put your into our proprietary database and send you newsletters about our company, our services, and events. We will provide you a way to opt out of these emails, usually through a link in the email footer.
+  * **Agents and Service Providers:** We may share data, including PI and Data Segments, with agents, business partners and service providers who work on our behalf, or to help us provide services requested by our customers, including to perform any of the services described in this Privacy Policy. We may do so, for instance, to help send or target advertising on behalf of our clients (or ourselves), for analytical purposes, to measure campaigns, or inform future campaigns. We may do so to facilitate the sending of display media, email, or other requested services.
+  * **Partners:** We may share data, including PI and Data Segments, with business and data partners (such as business partners who provide to marketers their own applications or data services) or with clients, to help provide more tailored advertising and for analytical purposes.
+  * **Corporate transfers:** If Infogroup or its significant assets are purchased by another entity, our data will likely be transferred to that entity, including for due diligence prior to any such potential purchase.
+  * **Affiliates, Parents and Subsidiaries:** We may share some or all of the data in our possession with affiliated or subsidiary companies. Our affiliates and subsidiaries include (but are not limited to): Direct Media Holdings, Inc.; Direct Media, LLC; GoTime Corporation; infoUSA Inc.; infoUSA Marketing, Inc.; Walter Karl, Inc.; Yesmail, Inc.; and Yesmail International Holdings, Inc. (You may learn more about several of these on this website.)
+  * **As Required by Law or to Protect Any Party:** Infogroup may disclose data if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) to protect or otherwise defend the rights, property or safety of Infogroup or any other party.
+  * **Data We Collect on Our Website:** We use data that you provide to us on our website to market, we may use this data for our business purposes. For instance, if you provide us with your name and email address, we may put your into our proprietary database and send you newsletters about our company, our services, and events. We will provide you a way to opt out of these emails, usually through a link in the email footer.
 
 
 
@@ -67,7 +67,8 @@ This section provides more information about cookies and similar technologies th
 
 
 
-We sometimes work with third parties to enhance our services (e.g. for purposes of retargeting and tailoring ads, or placing browser cookies). These partners may set and access their own cookies, pixel tags and similar technologies on your device, which may have cookies with varying expiration period. Those partners may, likewise, collect various types of anonymous or de-identified information about your browser, device, or browsing activities through use of these cookies.  
+We sometimes work with third parties to enhance our services (e.g. for purposes of retargeting and tailoring ads, or placing browser cookies). These partners may set and access their own cookies, pixel tags and similar technologies on your device, which may have cookies with varying expiration period. Those partners may, likewise, collect various types of anonymous or de-identified information about your browser, device, or browsing activities through use of these cookies.
+
 We also may place cookies when you open an email that we send, in order to help understand how email recipients respond to email campaigns, or to learn more (or help our clients learn more) about those recipients.
 
 When you visit our website, we (or a partner we work with) may place cookies to help us target or re-target marketing to you when you visit other websites or web or mobile applications – for instance, to tell you about our services, events and other information about our company.
@@ -82,31 +83,26 @@ Please note that our business partners may also use cookies and pixels, which we
 
 
 
-For more consumer choice resources, please see our [**Infogroup Consumer Choice and Resource Center**](http://resource.referenceusa.com/infogroup-consumer-choice-and-resource-center/).
+For more consumer choice resources, please see our **Infogroup Consumer Choice and Resource Center**.
 
 **8\. Security and Data Integrity**  
 Infogroup takes steps to ensure that the data we possess is housed and transmitted securely. These steps may include various methods of physical and electronic security, firewall protections, encryption and hashing of data, and access controls to PI. However, neither we nor any platform can guarantee 100 percent safety from hacks or illegal intrusion, so this Privacy Policy does not guarantee against that possibility.
 
-**9\. International Users, EU-U.S. Privacy Shield Policy and U.S.-Swiss Safe Harbor Framework**
+**9\. International Users, EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Framework**  
+Infogroup and its Covered Entities participate in, and have an affirmative commitment to compliance with the EU-U.S. Privacy Shield and Swiss-US Privacy Shield Framework (collectively, “Privacy Shield Framework” ). As part of its self-certification to the Privacy Shield Framework, Infogroup has adopted a **EU-US and Swiss-US Privacy Shield Policy** in regards to human resource (“HR” ) and NON-HR EU and Swiss personal data, which policy with dispute resolution is incorporated into this Privacy Policy via the following link: <http://www.infogroup.com/privacy-shield-policy>.
 
-Infogroup and its Covered Entities participate in, and have certified their compliance with, the EU-U.S. Privacy Shield Framework (“Privacy Shield Framework”). As part of its self-certification to the Privacy Shield Framework, Infogroup has adopted a **EU-US Privacy Shield Policy** in regards to human resource (“HR”) and NON-HR EU personal data, which policy with dispute resolution is incorporated into this Privacy Policy via the following link: [www.infogroup.com/privacy-shield-policy](http://www.infogroup.com/privacy-shield-policy).
-
-Infogroup complies with the principles of the U.S.-Swiss Safe Harbor Framework regarding Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to the personal information we receive from Switzerland, effective as of the date our certification is posted to the U.S Department of Commerce website at http://safeharbor.export.gov/list.aspx. To exercise their rights under Safe Harbor or file a complaint, residents of Switzerland may contact us as described below.
-
-In the event we are unable to resolve a disagreement with a Switzerland resident regarding Safe Harbor, we agree to resolve the matter through the appropriate Swiss Federal Data Protection and Information Commissioner. To learn more about the U.S.-Swiss Safe Harbor Framework, please visit http://www.export.gov/safeharbor.
-
-**10\. Questions or Concerns**
-
+**10\. Questions or Concerns**  
 If you have questions or concerns about Infogroup’s privacy efforts or data products, please contact us at:
 
-Privacy and Data Security Officer
-
+Privacy and Data Security Officer  
 Infogroup Inc.  
-1020 E 1st Street  
+1020 East 1st Street  
 Papillion, NE 68046
 
 [privacyteam@infogroup.com](mailto:privacyteam@infogroup.com)  
-Phone: (402) 836-3377  
-Fax: (402) 836-7055
+Phone: [(402) 836-3377](tel:402.836.3377)  
+Fax: [(402) 836-7055](tel:402.836.7055)
 
-Last Updated: 9.30.16
+Effective Date: 1-1-2018  
+Last Updated: 12-1-2017  
+Previous Update: 9-30-16
