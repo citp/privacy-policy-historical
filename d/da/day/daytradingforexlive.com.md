@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytradingforexlive.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209205532id_/http%3A//www.daytradingforexlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytradingforexlive.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619044227id_/https%3A//www.daytradingforexlive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
