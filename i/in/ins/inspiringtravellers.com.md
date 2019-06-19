@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiringtravellers.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517203048id_/http%3A//inspiringtravellers.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiringtravellers.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619221137id_/https%3A//inspiringtravellers.com/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms and Conditions / Privacy Policy | InspiringTravellers.com
 
@@ -6,7 +6,7 @@
 
 Welcome to our website. **If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use** , which together with our privacy policy govern InspiringTravellers.com's relationship with you in relation to this website. The term 'InspiringTravellers.com' or 'us' or 'we' refers to the owner of the website. The term 'you' refers to the user or viewer of our website.
 
-###  **All content, photos and images on InspiringTravellers.com are copyright and the property of[Geert Leysen](http://about.me/gleysen)**. Their use is strictly prohibited unless a payment arrangement has been made with us. Should you wish to purchase a high-resolution image or smaller file sizes for editorial or commercial use, you must contact us via email: info [AT] inspiringtravellers [DOT] com
+###  **All content, photos and images on InspiringTravellers.com are copyright and the property of[Geert Leysen](https://about.me/gleysen)**. Their use is strictly prohibited unless a payment arrangement has been made with us. Should you wish to purchase a high-resolution image or smaller file sizes for editorial or commercial use, you must contact us via email: info [AT] inspiringtravellers [DOT] com
 
 ## The use of this website is subject to the following terms of use:
 
