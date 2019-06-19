@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotesideas.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212062435id_/http%3A//quotesideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotesideas.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619181623id_/http%3A//quotesideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - QuotesIdeas.com
 
