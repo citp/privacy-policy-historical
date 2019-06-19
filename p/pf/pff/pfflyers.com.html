@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the pfflyers.com privacy policy that was archived on 2018-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181027191709id_/https%3A//www.pfflyers.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pfflyers.com privacy policy that was archived on 2019-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190619034149id_/https%3A//www.pfflyers.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js gt-ie8" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head prefix="og: http://ogp.me/ns# object: http://ogp.me/ns/object#">
+
+
 
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,7 +22,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+
+
+
 
 
 
@@ -57,15 +62,15 @@ Privacy Policy
 
 	<link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/b647dbe6-44a7-4702-ac5d-11e77ca1b54b.css">
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/build/css/framework.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/css/framework.css">
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/build/css/core.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/build/css/secondary.css">
-
-
+<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/css/core.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/css/secondary.css">
 
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/build/css/main-pff.css">
+
+
+<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/css/main-pff.css">
 
 <!-- apple-touch-icon-114x114.png - iPhone (with 2x display) iOS = 6 -->
 <link rel="apple-touch-icon" sizes="114x114" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/default/dw8a4607db/images/apple-touch-icon-114x114.png">
@@ -103,18 +108,25 @@ Privacy Policy
 
 
 
-		<meta name="description" content="pfflyers.com site privacy and security information">
 
-
-	<meta name="keywords" content="Privacy Policy">
-
-
+	
+	<meta name="description" content="pfflyers.com site privacy and security information">
 
 
 
 
+	<meta name="keywords" content="Privacy Policy ">
 
-<script src="//tags.tiqcdn.com/utag/newbalance/pfflyer/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/build/lib/vendor/vendor-master.js"></script>
+
+
+
+
+
+
+
+
+
+<script src="//tags.tiqcdn.com/utag/newbalance/pfflyer/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/lib/vendor/vendor-master.js"></script>
 
 
 <script type="text/javascript">
@@ -158,7 +170,7 @@ Privacy Policy
 </script>
 
 <!--[if IE 8]>
-<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/build/lib/vendor/respond-1.4.2.min.js"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/lib/vendor/respond-1.4.2.min.js"></script>
 
 <link href="/on/demandware.static/Sites-pfflyers_us2-Site/-/default/dw7cd6e0ad/build/lib/vendor/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
 <link href="/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Respond-Proxy" id="respond-redirect" rel="respond-redirect" />
@@ -174,12 +186,14 @@ Privacy Policy
 		var originalConfig = requirejs.config;
 		requirejs.config = function (config) {
 			// Should be a CDN-based static URL.
-			config.baseUrl = '/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/build//';
+			config.baseUrl = '/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build//';
 			// Call original.
 			originalConfig.call(requirejs, config);
 		};
 	})();
-	requirejs.config({
+	/**/
+
+requirejs.config({
 	// Script loading timeout.
 	waitSeconds: 300,
 
@@ -320,15 +334,6 @@ Privacy Policy
 			}
 		},
 
-		// Chosen dropdowns.
-
-		'chosen': {
-			deps: [ 'jquery' ],
-			init: function () {
-				return this.jQuery;
-			}
-		},
-
 		// Facebook JavaScript SDK for US
 		'facebook': {
 			exports: 'FB'
@@ -366,7 +371,6 @@ Privacy Policy
 		'cookie': 'lib/vendor/jquery.cookie-1.4.0',
 		'lazyload': 'lib/vendor/jquery.lazy-1.7.7-custom',
 		'slider': 'lib/vendor/simple-slider',
-		'chosen': 'lib/vendor/chosen.jquery-1.1.0-nb',
 		'facebook': '//connect.facebook.net/en_US/all',
 		'hammer': 'lib/vendor/hammer',
 		'jqueryhammer': 'lib/vendor/jquery.hammer',
@@ -384,9 +388,17 @@ Privacy Policy
 
 		'velocity': 'lib/vendor/velocity-1.1.0',
 
-		'payment': 'lib/vendor/jquery.payment'
+		'payment': 'lib/vendor/jquery.payment',
+
+		'resonance': '//edge1.certona.net/cd/fdbaa091/pfflyers.com/scripts/resonance',
+
+		'powerreviews': '//ui.powerreviews.com/stable/4.0/ui',
+		
+		'prtracker': '//static.powerreviews.com/t/v1/tracker'
 	}
 });
+
+/**/
 </script>
 
 
@@ -738,9 +750,9 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 
 
 
-<section class="content-dev content-dev-styles" data-slot="content-dev-styles"><!-- dwMarker="content" dwContentID="34698faa456aeb32de9c7b8ad3" -->
+<div class="content-dev content-dev-styles" data-slot="content-dev-styles"><!-- dwMarker="content" dwContentID="34698faa456aeb32de9c7b8ad3" -->
 
-<link rel="stylesheet" type="text/css" href="https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1540617560869/css/cdev-main.css">
+<link rel="stylesheet" type="text/css" href="https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1560834585735/css/cdev-main.css">
 <!-- fix for promo details -->
 <style>
     .pushdown-metabar .pushdown-content {
@@ -750,13 +762,13 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 <!-- end fix for promo details -->
 <script>
 	function cdevGetStaticlink(str) {
-        var baseurl = "https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1540617560869/u";
+        var baseurl = "https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1560834585735/u";
         baseurl = baseurl.substring(0, baseurl.length - 1);
         return baseurl + str;
     }
 	var isZopimChatWidget = true;
 </script>
-</section><!-- End contentasset -->
+</div><!-- End contentasset -->
 
 
 
@@ -765,9 +777,6 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 <header id="header" class="sticky-header only-screen enhancedSearchEnabled" data-country-id="US">
 <div class="sticky-header-fixed">
 <div class="sticky-header-wrapper">
-
-
-
 
 
 
@@ -1139,9 +1148,6 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 
 
 
-
-
-
 <div class="metabar-ca-left metabar-left">
 	
 	 
@@ -1181,6 +1187,7 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 					<div class="pushdown-metabar dark promo-panel">
 						<div class="pushdown-content">
 							<div class="row">
+								<button class="nostyle close" tabindex="0"><span>Close Details</span></button>
 								<div class="small-12 columns">
 									
 	 
@@ -1210,7 +1217,6 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 	
 								</div>
 							</div>
-							<button class="nostyle close"><span>Close Details</span></button>
 						</div>
 					</div>
 				
@@ -1447,9 +1453,6 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 <a class="action" href="https://www.pfflyers.com/search"><span class="header-icon icon-search"><span>Search</span></span></a>
 </div>
 </div>
-
-
-
 
 
 
@@ -1843,32 +1846,6 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 													
 														<li>
 															
-															<a href="https://www.pfflyers.com/men/collections/ball-and-buck/" class="subCat">
-																<h5 class="no-h-style">
-																	Ball and Buck
-																</h5>
-																
-															</a>
-															
-														</li>
-													
-												
-													
-														<li>
-															
-															<a href="https://www.pfflyers.com/men/collections/universal-works/" class="subCat">
-																<h5 class="no-h-style">
-																	Universal Works
-																</h5>
-																
-															</a>
-															
-														</li>
-													
-												
-													
-														<li>
-															
 															<a href="https://www.pfflyers.com/men/collections/made-in-usa/" class="subCat">
 																<h5 class="no-h-style">
 																	Made in USA
@@ -1919,40 +1896,26 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 							<div class="newline-breaker"></div>
 								<div class="subnav-wrapper">
 									<div class="row row-subnavcontentslot small-collapse"> 
-										<div class="small-12 columns subcatcol subcatcol-slot">
-											
-	 
-
-
-	
-
-
-
-
-
-	
-		<div class="content-dev">
-			<a href="https://www.pfflyers.com/men/silhouettes/center/" class="cdev-subcat-powernav-slot">
-    <div style="background: url('https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/default/dw1899f022/banner/2018/powernav-new-ctr-hi-0711.jpg') no-repeat center center / auto 100%;" class="cdev-subcat-powernav-slot-image"></div>
-    <span>The New Center Hi</span>
-</a>
-		</div>
-	
- 
-	
-										</div>
-										<div class="small-12 columns subcatcol subcatcol-slot">
-											
+										
+											<div class="small-12 columns subcatcol subcatcol-slot">
+												
 	 
 
 	
-										</div>
-										<div class="small-12 columns subcatcol subcatcol-slot">
-											
+											</div>
+											<div class="small-12 columns subcatcol subcatcol-slot">
+												
 	 
 
 	
-										</div>
+											</div>
+											<div class="small-12 columns subcatcol subcatcol-slot">
+												
+	 
+
+	
+											</div>
+										
 									</div>
 								</div>
 
@@ -1961,17 +1924,19 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 				</div>
 			
 			
+				
+	 
+
+	
+				
+	 
+
+	
+				
 	 
 
 	
 			
-	 
-
-	
-			
-	 
-
-	
 		</div>
 	</div>
 
@@ -2316,40 +2281,26 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 							<div class="newline-breaker"></div>
 								<div class="subnav-wrapper">
 									<div class="row row-subnavcontentslot small-collapse"> 
-										<div class="small-12 columns subcatcol subcatcol-slot">
-											
-	 
-
-
-	
-
-
-
-
-
-	
-		<div class="content-dev">
-			<a href="https://www.pfflyers.com/women/collections/classics/" class="cdev-subcat-powernav-slot">
-    <div style="background: url('https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/default/dw50953b76/banner/2018/powernav-classic-ctr-w-0910.jpg') no-repeat center center / auto 100%;" class="cdev-subcat-powernav-slot-image"></div>
-    <span>The Classic Center</span>
-</a>
-		</div>
-	
- 
-	
-										</div>
-										<div class="small-12 columns subcatcol subcatcol-slot">
-											
+										
+											<div class="small-12 columns subcatcol subcatcol-slot">
+												
 	 
 
 	
-										</div>
-										<div class="small-12 columns subcatcol subcatcol-slot">
-											
+											</div>
+											<div class="small-12 columns subcatcol subcatcol-slot">
+												
 	 
 
 	
-										</div>
+											</div>
+											<div class="small-12 columns subcatcol subcatcol-slot">
+												
+	 
+
+	
+											</div>
+										
 									</div>
 								</div>
 
@@ -2358,17 +2309,19 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 				</div>
 			
 			
+				
+	 
+
+	
+				
+	 
+
+	
+				
 	 
 
 	
 			
-	 
-
-	
-			
-	 
-
-	
 		</div>
 	</div>
 
@@ -2508,8 +2461,9 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 							<div class="newline-breaker"></div>
 								<div class="subnav-wrapper">
 									<div class="row row-subnavcontentslot small-collapse"> 
-										<div class="small-12 columns subcatcol subcatcol-slot">
-											
+										
+											<div class="small-12 columns subcatcol subcatcol-slot">
+												
 	 
 
 
@@ -2519,29 +2473,23 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 
 
 
-	
-		<div class="content-dev">
-			<a href="https://www.pfflyers.com/kids-and-infant-sandlot-collection/" class="cdev-subcat-powernav-slot">
-    <div style="background: url('https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/default/dwe9c2abae/banner/2018/powernav-sandlot-kids-0910.jpg') no-repeat center center / auto 100%;" class="cdev-subcat-powernav-slot-image"></div>
-    <span>Sandlot</span>
-</a>
-		</div>
 	
  
 	
-										</div>
-										<div class="small-12 columns subcatcol subcatcol-slot">
-											
+											</div>
+											<div class="small-12 columns subcatcol subcatcol-slot">
+												
 	 
 
 	
-										</div>
-										<div class="small-12 columns subcatcol subcatcol-slot">
-											
+											</div>
+											<div class="small-12 columns subcatcol subcatcol-slot">
+												
 	 
 
 	
-										</div>
+											</div>
+										
 									</div>
 								</div>
 
@@ -2550,17 +2498,19 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 				</div>
 			
 			
+				
+	 
+
+	
+				
+	 
+
+	
+				
 	 
 
 	
 			
-	 
-
-	
-			
-	 
-
-	
 		</div>
 	</div>
 
@@ -2616,17 +2566,19 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 
 			
 			
+				
+	 
+
+	
+				
+	 
+
+	
+				
 	 
 
 	
 			
-	 
-
-	
-			
-	 
-
-	
 		</div>
 	</div>
 
@@ -2688,17 +2640,19 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 
 			
 			
+				
+	 
+
+	
+				
+	 
+
+	
+				
 	 
 
 	
 			
-	 
-
-	
-			
-	 
-
-	
 		</div>
 	</div>
 
@@ -2714,9 +2668,6 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 			
 
 			
-
-
-
 
 
 
@@ -2853,6 +2804,7 @@ CQuotient.trackViewProduct = function(/* Object */ productData){
 <form action="/search" method="get">
 <label for="top-nav-search" class="show-for-sr">Search</label>
 <input id="top-nav-search" class="fix-full-width" data-convertalpha="true" data-charcount="3" type="search" name="q" autocomplete="off" placeholder="Find your PF Style…">
+<label for="top-nav-search-autocomplete" class="show-for-sr">Search</label>
 <input id="top-nav-search-autocomplete" class="fix-full-width" type="search" disabled="" autocomplete="off">
 <button type="submit"><span class="header-icon icon-search"><span>Search</span></span></button>
 </form>
@@ -2882,9 +2834,6 @@ Loading...
 <div class="search-icon navblock">
 <a class="action" href="https://www.pfflyers.com/search"><span class="header-icon icon-search"><span>Search</span></span></a>
 </div>
-
-
-
 
 
 
@@ -3217,7 +3166,7 @@ Loading...
 
 
 
-<section class="content-dev privacy-policy" data-slot="privacy-policy"><!-- dwMarker="content" dwContentID="dc1f537023a59a88d4426fc9b7" -->
+<div class="content-dev privacy-policy" data-slot="privacy-policy"><!-- dwMarker="content" dwContentID="dc1f537023a59a88d4426fc9b7" -->
 
 <style>
 	#container .row .columns ul {
@@ -3373,7 +3322,7 @@ While PF Flyers’ policy prohibits children under 13 from registering with the 
 <h2>What if I have more questions about the PF Flyers Privacy Policy? </h2>
 
 <p>If you have any questions or concerns including a request to be added to or taken off a list, please contact Customer Care toll-free at 1-866-355-6227 or email <a href="mailto:customercare@pfflyers.com?subject=Question%20about%20Privacy%20Policy">CustomerCare@pfflyers.com</a>. </p>
-</div></div></section><!-- End contentasset -->
+</div><!-- End contentasset -->
 
 
 
@@ -3405,7 +3354,7 @@ While PF Flyers’ policy prohibits children under 13 from registering with the 
 	<div class="flag-container">
 		<button aria-label="Close" class="close-reveal-modal flag-btn" data-country-code="US"><span class="route-flag route-flag-US"></span></button>
 		
-			<a href="http://www.newbalance.com" class="flag-btn" data-country-code="US"><span class="route-flag route-flag-US"></span></a>
+			<a href="https://www.newbalance.com" class="flag-btn" data-country-code="US"><span class="route-flag route-flag-US"></span></a>
 		
 	</div>
 	<a href="/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Home-International" class="flrt">See All Countries</a>
@@ -3434,7 +3383,7 @@ While PF Flyers’ policy prohibits children under 13 from registering with the 
 
 
 
-<section class="content-dev global-footer-tools" data-slot="global-footer-tools"><!-- dwMarker="content" dwContentID="847eae45acdaae77a7eae5c1a9" -->
+<div class="content-dev global-footer-tools" data-slot="global-footer-tools"><!-- dwMarker="content" dwContentID="847eae45acdaae77a7eae5c1a9" -->
 
 <div class="contentasset"><div class="contentasset">
 	<div class="row collapse">
@@ -3462,13 +3411,13 @@ $('.category-4000 a').click(function(e) {
 	window.location=$(this).attr('href');
   });
 </script>
-</div></section><!-- End contentasset -->
+</div><!-- End contentasset -->
 
 
 
 
 
-	</section>
+	</div></section>
 
 	<section class="email-subscribe email-subscribe-footer only-screen">
 		<div class="overlay">
@@ -3500,7 +3449,7 @@ $('.category-4000 a').click(function(e) {
 
 
 
-<section class="content-dev global-footer-links" data-slot="global-footer-links"><!-- dwMarker="content" dwContentID="ec8e4ad147d5a673b675272db9" -->
+<div class="content-dev global-footer-links" data-slot="global-footer-links"><!-- dwMarker="content" dwContentID="ec8e4ad147d5a673b675272db9" -->
 
 <div class="content-links">
 	<div class="row collapse">
@@ -3527,7 +3476,7 @@ $('.category-4000 a').click(function(e) {
 					<li><a href="https://www.pfflyers.com/on/demandware.store/Sites-pfflyers_us2-Site/en_US/CustomerService-PrintReturnLabel">Returns</a></li>
 					<li><a href="https://www.pfflyers.com/wishlist">Wish List</a></li>
                                         <li><a href="https://pf-flyers.connect.studentbeans.com/" target="_blank">Student Discount</a></li>
-					<!--<li><a href="https://www.pfflyers.com/gift-certificate">Buy an eGift</a></li>-->
+					<!--<li><a href="https://www.pfflyers.com/on/demandware.store/Sites-pfflyers_us2-Site/en_US/GiftCert-PurchaseGiftCard">Buy an eGift</a></li>-->
 				</ul>
 			</div>
 		</div>
@@ -3566,7 +3515,7 @@ $('.category-4000 a').click(function(e) {
 		monetateData.addProducts = [];
 	}
 </script>
-</section><!-- End contentasset -->
+</div><!-- End contentasset -->
 
 
 
@@ -3604,7 +3553,7 @@ $('.category-4000 a').click(function(e) {
 
 
 
-<section class="content-dev global-footer-copyright-legal" data-slot="global-footer-copyright-legal"><!-- dwMarker="content" dwContentID="e95817dea716c7b4f13781de2d" -->
+<div class="content-dev global-footer-copyright-legal" data-slot="global-footer-copyright-legal"><!-- dwMarker="content" dwContentID="e95817dea716c7b4f13781de2d" -->
 
 <ul>
 <li class="break-after-mobile copyright">Copyright 2018, PF Flyers.</li>
@@ -3631,11 +3580,11 @@ $('.category-4000 a').click(function(e) {
 
 
 
-<section class="content-dev email-lightbox" data-slot="email-lightbox"><!-- dwMarker="content" dwContentID="5508404b8d53f6336ea6423ab9" -->
+<div class="content-dev email-lightbox" data-slot="email-lightbox"><!-- dwMarker="content" dwContentID="5508404b8d53f6336ea6423ab9" -->
 
-<link type="text/css" rel="stylesheet" href="https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1540617560869/modules/2017/custom/lightbox/lightbox-styles.css">
-<div class="requirejs" data-module="https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1540617560869/modules/2017/custom/lightbox/lightbox.min.js"></div>
-</section><!-- End contentasset -->
+<link type="text/css" rel="stylesheet" href="https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1560834585735/modules/2017/custom/lightbox/lightbox-styles.css">
+<div class="requirejs" data-module="https://www.pfflyers.com/on/demandware.static/-/Sites-pfflyers_us2-Library/en_US/v1560834585735/modules/2017/custom/lightbox/lightbox.min.js"></div>
+</div><!-- End contentasset -->
 
 
 
@@ -3669,7 +3618,7 @@ $('.category-4000 a').click(function(e) {
         }
     })();
 </script>
-</section><!-- End contentasset -->
+</div><!-- End contentasset -->
 
 
 
@@ -3683,7 +3632,7 @@ $('.category-4000 a').click(function(e) {
 
 
 
-	<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/lib/jquery/js/jquery/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/lib/jquery/js/jquery/jquery.cookie.js"></script>
 	
 	<script type="text/javascript">
 			function checkGeoLoc()
@@ -3809,35 +3758,40 @@ $('.category-4000 a').click(function(e) {
 <script language="JavaScript" type="text/javascript">var s_account="nbpfflyerslive";</script>
 
 
-<script language="javascript" type="text/javascript"><!--
-$(document).ready(function () {
-	$(window).load(function() {
-		$.getScript("/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/js/omniture_s_code.js", function () {
-			
-			s["eVar16"]="D=c25";
-			s["eVar24"]="D=c12";
-			s["channel"]="Company";
-			s["prop13"]="Guest";
-			s["currencyCode"]="USD";
-			s["prop12"]="";
-			s["pageName"]="Ordering Info:Privacy Policy";
-			s["linkInternalFilters"]="javascript:,newbalance.com,demandware.net";
-			s["prop25"]="Guest";
-			s["eVar60"]="Everyone;Everyone - Employee;Unregistered";
-			s["prop14"]="Unknown";
-			
-			
-			// *** DO NOT ALTER ANYTHING BELOW THIS LINE ! ***
-			s.prop40="Standard Website";
-			var s_code=s.t();if(s_code)document.write(s_code);
-			/*
-			if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-			*/
+	<script language="javascript" type="text/javascript"><!--
+	$(document).ready(function () {
+		$(window).load(function() {
+			$.getScript("/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/js/omniture_s_code.js", function () {
+				
+				s["eVar16"]="D=c25";
+				s["eVar24"]="D=c12";
+				s["channel"]="Company";
+				s["prop13"]="Guest";
+				s["currencyCode"]="USD";
+				s["prop12"]="";
+				s["pageName"]="Ordering Info:Privacy Policy";
+				s["linkInternalFilters"]="javascript:,newbalance.com,demandware.net";
+				s["prop25"]="Guest";
+				s["eVar60"]="Everyone;Everyone - Employee;Unregistered";
+				s["prop14"]="Unknown";
+				if (typeof window.utag !== 'undefined' && window.utag && window.utag.data) {
+					s["eVar93"]=window.utag.data['dom.viewport_height'] + 'x' + window.utag.data['dom.viewport_width'];
+				} else {
+					s["eVar93"]=window.innerHeight + 'x' + window.innerWidth;
+				}
+				
+				
+				// *** DO NOT ALTER ANYTHING BELOW THIS LINE ! ***
+				s.prop40="Standard Website";
+				var s_code=s.t();if(s_code)document.write(s_code);
+				/*
+				if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+				*/
+			});
 		});
 	});
-});
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="https://smetrics.newbalance.com/b/ss/nbglobalnojs/1/H.25.2--NS/0" height="1" width="1" border="0" alt="analytics" /></a></noscript><!--/DO NOT REMOVE/-->
+	//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+	src="https://smetrics.newbalance.com/b/ss/nbglobalnojs/1/H.25.2--NS/0" height="1" width="1" border="0" alt="analytics" /></a></noscript><!--/DO NOT REMOVE/-->
 
 </div>
 <!-- End SiteCatalyst code -->
@@ -3849,7 +3803,7 @@ src="https://smetrics.newbalance.com/b/ss/nbglobalnojs/1/H.25.2--NS/0" height="1
 
 
 
-
+	
 
 
 
@@ -3894,7 +3848,7 @@ src="https://smetrics.newbalance.com/b/ss/nbglobalnojs/1/H.25.2--NS/0" height="1
 <script type="text/javascript">
 var utag_data = {
   "heirarchy": "",
-  "ip_address": "207.241.229.237",
+  "ip_address": "207.241.232.120",
   "page_name": "privacy-policy",
   "page_type": "content",
   "page_context_type": "privacy-policy",
@@ -3918,7 +3872,7 @@ var utag_data = {
   "user_anonymous": "true",
   "user_authenticated": "false",
   "user_registered": "false",
-  "customer_id": "efbEHl6JW1q9ggwWacdKXaq0HZ",
+  "customer_id": "bdJDBjnQ3qiyX3qSG8a1Z8b7p6",
   "customer_type": ""
 };
 </script>
@@ -4040,13 +3994,6 @@ if (typeof define != 'undefined') {
 				robisInventory: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/ROBIS-Inventory",
 				robisReservation: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/ROBIS-Reservation",
 
-				bvSubmit: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/BVConversationsAPI-SubmitReview",
-				bvGet: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/BVConversationsAPI-GetReviews",
-				bvHelpfulness: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/BVConversationsAPI-SubmitHelpfulnessRating",
-				writeReview: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Reviews-Write",
-				loginPreReview: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Reviews-Login",
-				reviewSubmitted: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Reviews-Submitted",
-
 				certonaRender: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/CertonaUtil-RenderRecommendations",
 
 				productShow: "/product",
@@ -4057,8 +4004,6 @@ if (typeof define != 'undefined') {
 				productUpdateLineQuantity: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/CartUtil-UpdateLineQuantity",
 				productMiniCart: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Cart-MiniCart",
 				productShare: "https://www.pfflyers.com/on/demandware.store/Sites-pfflyers_us2-Site/en_US/SendToFriend-Start",
-				productReviewSubmit: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/ProductReviews-Submit",
-				productReadReviewsHtml: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/ProductReviews-ReadReviewsHtml",
 				productenhancedCartModal: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/CartUtil-EnhancedAddToCartModal",
 
 				cartShow: "/cart",
@@ -4084,6 +4029,8 @@ if (typeof define != 'undefined') {
 				cartMyBagSummary: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Cart-MyBagSummary",
 
 				cartShipEstimator: "https://www.pfflyers.com/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Cart-ShipEstimator",
+				cartTaxEstimator: "https://www.pfflyers.com/on/demandware.store/Sites-pfflyers_us2-Site/en_US/COBilling-UpdateTaxEstimate",
+				expressPaymentOptions: "https://www.pfflyers.com/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Cart-ExpressPaymentOptions",
 				cartApplyAgentDiscount: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Cart-AgentApplyDiscnt",
 				cartUpdateOrderTotals: "https://www.pfflyers.com/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Cart-UpdateCartOrderTotals",
 				cartUpdateApproachingDiscounts: "https://www.pfflyers.com/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Cart-UpdateApproachingDiscounts",
@@ -4126,15 +4073,8 @@ if (typeof define != 'undefined') {
 				loyaltyUnsubscribe: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Loyalty-UnsubscribeEmail",
 				loyaltyResubscribe: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Loyalty-ResubscribeEmail",
 				
-				loyaltyRewardsAvailable: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/NBLoyalty-PromoRewardsAvailable",
 				loyaltySortedRewardsAvailable: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/NBLoyalty-SortedRewardsAvailable",
 				loyaltyPointsExpireSchedule: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/NBLoyalty-PointsExpireSchedule",
-				loyaltyTestReward: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/NBLoyalty-TestPromoReward",
-				LoyaltyPromotionPDP: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/NBLoyalty-LoyaltyPromotionPDP",
-				loyaltyRedeemPromoRewards: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/NBLoyalty-RedeemPromoReward",
-
-				masterpassCheckoutInit: "https://www.pfflyers.com/on/demandware.store/Sites-pfflyers_us2-Site/en_US/MasterPass-Checkout",
-				masterpassCheckoutContinue: "https://www.pfflyers.com/on/demandware.store/Sites-pfflyers_us2-Site/en_US/MasterPass-CheckoutCallback",
 				
 			 	metabarShippingNotice: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/COShipping-MetabarNotice",
 
@@ -4142,18 +4082,7 @@ if (typeof define != 'undefined') {
 
 				beforeLocaleSwitch: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Session-BeforeLocaleChange",
 				
-				uploadReturnImage : "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/CustomerService-UploadImage",
-				sflMoveToList : "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/SaveForLater-MoveToList",
-				sflMoveToBasket : "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/SaveForLater-MoveToBasket",
-				sflRemoveFromList : "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/SaveForLater-RemoveFromList",
-				sflUpdateItem : "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/SaveForLater-UpdateItem",
-				sflView : "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/SaveForLater-View",
-				afterpaytoken : "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Afterpay-Token",
-				
-				getApplePaySession: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/ApplePayService-GetSession",
-				setAppleShippingContact: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/ApplePayService-SetShippingContact",
-				setApplePaymentDetails: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/ApplePayService-SetPaymentDetails",
-				getAppleBasket: "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/ApplePayService-GetBasketDetails"
+				afterpaytoken : "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/Afterpay-Token"
 			}, uncachedGlobalData.pipelines),
 			resources: $.extend({
 				INTERNATIONALCITY_LABEL: "Town",
@@ -4166,9 +4095,15 @@ if (typeof define != 'undefined') {
 				internationalRoutingPopup: false,
 				geoLocationAutoRoute: false,
 				isDeckIsShippingSvcTurnedOn: true,
+				ShippingMethodSource: 'Shipping API',
+				isShippingMethodSourceAPI: false,
+				isShippingMethodSourceSFCC: false,
+				shippingAPIPricing: false,
 				searchAsYouTypeEnabled: true,
 				setClosestStoreEnabled: false,
 				disableSizeSplitter: null,
+				enableMixedCart : false,
+				enhancedSearchResultLimitMobile: null,
 
 				// Null Search Page.
 				nullSearchPage: false,
@@ -4183,9 +4118,6 @@ if (typeof define != 'undefined') {
 				// Loyalty Enhanced Checkout Features
 				disableEnhancedLoyaltyCheckout: false,
 				hideEnhancedLoyaltyCheckoutBanner: false,
-				COLoyaltyBannerStartDate: "null",
-				COLoyaltyBannerEndDate: "null",
-				currentDate: "Sat Oct 27 17:29:59 GMT 2018",
 
 				// Afterpay
 				afterpayEnabled: false,
@@ -4243,7 +4175,6 @@ if (typeof define != 'undefined') {
 				formPostalCode: "Postal Code",
 				formDay: "Day",
 				formRequired: "This field is required.",
-				reviewCharMin: "Minimum reached",
 				formMinChar: "5 - 20 characters",
 
 				// Email sharing.
@@ -4256,27 +4187,8 @@ if (typeof define != 'undefined') {
 				emailRequired: "Please enter a valid email address",
 				emailConfirmationRequired: "Your email addresses do not match.",
 				
-				// Loyalty
-				loyaltyPromoOne: "MYNB10",
-				loyaltyPromoTwo: "MYNB20",
-
 				// Certona.
-
 				certonaEnabled: true,
-				certonaSilent: true,
-				certonaHost: "www.res-x.com",
-				certonaAppId: "NewBalanceUSA04",
-				certonaTop1: "100000",
-				certonaTop2: "100000",
-				certonaScript: "/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/certona/resxclsx.js",
-				certonaProductScheme: "product1_rr",
-				certonaNoSearch: "nosearch1_rr",
-				certonaNoSearch2: "nosearch2_rr",
-				certonaNoSearch3: "nosearch3_rr",
-				certonaNoSearch4: "nosearch4_rr",
-				certonaHomepage: "home_rr",
-				certonaEmptyCart: "emptycart1_rr",
-				certonaPostCart: "addtobag_rr",
 
 				// ShoeFitr
 
@@ -4291,8 +4203,6 @@ if (typeof define != 'undefined') {
 				productNoValue: "-",
 				productSelectAVariant: "Select a",
 				productLongDisplayCharacterLineBreak: "/",
-				productReviewsReadMore: "read more",
-				productReviewsReadLess: "read less",
 					
 				// sticky add to bag
 				productStickyatbAddtocartShort: "Add to Bag",
@@ -4358,6 +4268,7 @@ if (typeof define != 'undefined') {
 				billingPayByIdeal: "Continue to iDeal&reg;",
 				billingPayBySofort: "Continue to Sofort&reg;",
 				billingPayByGiropay: "Continue to Giropay&reg;",
+				billingPayByApplePay: "Continue to ApplePay&reg;",
 				billingDefaultPaymentMessage: "Review Your Order",
 
 				billingCardLoadError: "Sorry, we're having trouble loading your saved credit card information.",
@@ -4388,15 +4299,6 @@ if (typeof define != 'undefined') {
 				wechatPayResult : "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/WECHATPAY-PayResult",
 				wechatPayFailnp : "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/WECHATPAY-PayFailStatus?payreason=NOTPAY",
 				wechatPayFailpe : "/on/demandware.store/Sites-pfflyers_us2-Site/en_US/WECHATPAY-PayFailStatus?payreason=PAYERROR",
-
-
-				// MasterPass
-
-				masterpassError: "MasterPass is currently not available, try another payment method.",
-
-				// Reviews
-				submitReview: "https://api.us.apiconnect.ibmcloud.com/new-balance-dev/sb/w/product/review/v1/submitReview",
-				writeReview: "Write a review",
 				
 				// Summary.
 
@@ -4420,11 +4322,11 @@ if (typeof define != 'undefined') {
 				
 				// Store Locator
 				storelocatorNoContact: "No contact information",
-					
-				applepayTaxString: "Total Tax",
+
 				generalCheckoutError: "An error occurred during validation of your payment; please try again in a moment or use a different payment method."
 			}, uncachedGlobalData.strings),
 			objects: $.extend({
+				certonaMockCall: null
 			}, uncachedGlobalData.objects)
 		};
 	});
@@ -4434,14 +4336,10 @@ if (typeof define != 'undefined') {
 
 
 
-
-
-<div class="requirejs" data-module="js/certona/js/resonance-include-script"></div>
-
 		
 
 
-	<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/build/js/all.js"></script>
+	<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/js/all.js"></script>
 
 
 
@@ -4467,16 +4365,20 @@ if (typeof define != 'undefined') {
 
 
 
-<script type="application/ld+json">
-{
-	"@context": "http://schema.org",
-	"@type": "Organization",
-	"url": "https://www.pfflyers.com/",
-	"logo": "https://www.pfflyers.com/on/demandware.static/Sites-pfflyers_us2-Site/-/default/dw13fd8c00/images/nb-logo.png"
-}
-</script>
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/build/css/bottom.css">
+
+
+
+
+	<script type="application/ld+json">
+		{"@context":"http://schema.org","@type":"Organization","url":"https://www.pfflyers.com/","logo":"https://www.pfflyers.com/on/demandware.static/Sites-pfflyers_us2-Site/-/default/dw13fd8c00/images/nb-logo.png"}
+	</script>
+
+	<script type="application/ld+json">
+		{"@context":"http://schema.org","@type":"WebSite","name":"PF Flyers","url":"https://www.pfflyers.com/","potentialAction":{"@type":"SearchAction","target":"https://www.pfflyers.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}
+	</script>
+
+<link rel="stylesheet" href="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/build/css/bottom.css">
 <!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
 <script type="text/javascript">//<!--
 /* <![CDATA[ */
@@ -4494,10 +4396,10 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1540617560869/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-pfflyers_us2-Site/-/en_US/v1560834585735/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
-</body></html>
+</div></div></body></html>
