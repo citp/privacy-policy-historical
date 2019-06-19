@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wbls.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229212701id_/http%3A//www.emmis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbls.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619203413id_/http%3A//www.emmis.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Emmis Communications Emmis Communications
 
-English | **E _s_ pañol**
+English | **E _s_ paol**
 
 **Privacy Policy**
 
@@ -217,190 +217,198 @@ All feedback, comments, requests for technical support, and other communications
 To contact the Website, you may send communications to:
 
 Emmis Digital Support  
-401 North Franklin Street, Suite 5s  
-Chicago, Illinois 60654
+40 Monument Cir, #400  
+Indianapolis, IN 46204
 
 [support@emmisdigital.com](mailto:support@emmisdigital.com)
 
-**Política de Privacidad **
+**Poltica de Privacidad**
 
-Última modificación: 13 de junio de 2018 
+ltima modificacin: 13 de junio de 2018
 
-**1\. Introducción  
+**1\. Introduccin  
 **
 
-Emmis Operating Company y sus afilados (colectivamente Compañía, Nosotros, o Nos) respetan su privacidad y están comprometidos a protegerla mediante el cumplimiento con esta política (Política de Privacidad). 
+Emmis Operating Company y sus afilados (colectivamente Compaa, Nosotros, o Nos) respetan su privacidad y estn comprometidos a protegerla mediante el cumplimiento con esta poltica (Poltica de Privacidad).
 
-Esta política describe los tipos de información que podemos recopilar de usted o que usted puede proporcionar cuando visite este sitio web, a través del cual usted accedióa esta Política de Privacidad (Sitio Web) y nuestras prácticas para recopilar, usar, mantener, proteger y divulgar esa información. 
+Esta poltica describe los tipos de informacin que podemos recopilar de usted o que usted puede proporcionar cuando visite este sitio web, a travs del cual usted accedia esta Poltica de Privacidad (Sitio Web) y nuestras prcticas para recopilar, usar, mantener, proteger y divulgar esa informacin.
 
-Esta política se aplica a la información que recopilamos: 
+Esta poltica se aplica a la informacin que recopilamos:
 
-  * En este Sitio Web. 
-  * En el correo electrónico, mensajes de texto y otros mensajes electrónicos entre usted y este Sitio Web.
-
-
-
-La política no se aplica a la información recopilada por:
-
-  * Nosotros fuera de línea o a través de otros medios, incluyendo cualquier otro sitio web operado por la Compañía o cualquier tercero.
-  * Cualquier tercero, incluyendo cualquier aplicación o contenido que pueda enlazarse o ser accesible desde o en el Sitio Web.
+  * En este Sitio Web.
+  * En el correo electrnico, mensajes de texto y otros mensajes electrnicos entre usted y este Sitio Web.
 
 
 
-Por favor lea con detenimiento esta política para entender nuestras políticas y prácticas con respecto a su información y cómo la utilizaremos. Si no está de acuerdo con nuestras políticas y prácticas, su opción es no usar nuestro Sitio Web. Al acceder o usar este Sitio Web, usted acepta esta Política de Privacidad. Esta política puede cambiar de vez en cuando. Su uso continuo de este Sitio Web, después de que hagamos cambios, se considera una aceptación de esos cambios, de manera que debe revisar la política periódicamente para ver las actualizaciones.
+La poltica no se aplica a la informacin recopilada por:
 
-**2\. Niños menores de 13 años de edad**
+  * Nosotros fuera de lnea o a travs de otros medios, incluyendo cualquier otro sitio web operado por la Compaa o cualquier tercero.
+  * Cualquier tercero, incluyendo cualquier aplicacin o contenido que pueda enlazarse o ser accesible desde o en el Sitio Web.
 
-Nuestro Sitio Web no está diseñado para niños menores de 13 años de edad. Ninguna persona menor de 13 años de edad puede proporcionar ningún tipo de información personal al o en el Sitio Web. Nosotros no recopilamos intencionalmente la información personal de niños menores de 13 años de edad. Si usted es menor de 13 años de edad, no utilice ni proporcione información alguna en este Sitio Web o en o a través de sus funciones/registro en el Sitio Web, no efectúe ninguna compra a través del Sitio Web, no utilice ninguna de las funciones de comentarios públicos o interactivos de este Sitio Web ni suministre ninguna información sobre usted, incluyendo su nombre, dirección, número telefónico, correo electrónico o cualquier nombre de pantalla o de usuario que pueda utilizar. Si detectamos que hemos recopilado o recibido información personal de un niño menor de 13 años de edad, borraremos esa información (incluido cualquier perfil asociado) en la medida en que esté en un sistema que controlemos. Si cree que pudiéramos tener alguna información de o sobre un niño menor de 13 años de edad, contáctenos al correo electrónico que se indica al final de esta Política de Privacidad. 
 
-**3\. Información que recopilamos sobre usted y cómo la recopilamos  
+
+Por favor lea con detenimiento esta poltica para entender nuestras polticas y prcticas con respecto a su informacin y cmo la utilizaremos. Si no est de acuerdo con nuestras polticas y prcticas, su opcin es no usar nuestro Sitio Web. Al acceder o usar este Sitio Web, usted acepta esta Poltica de Privacidad. Esta poltica puede cambiar de vez en cuando. Su uso continuo de este Sitio Web, despus de que hagamos cambios, se considera una aceptacin de esos cambios, de manera que debe revisar la poltica peridicamente para ver las actualizaciones.
+
+**2\. Nios menores de 13 aos de edad**
+
+Nuestro Sitio Web no est diseado para nios menores de 13 aos de edad. Ninguna persona menor de 13 aos de edad puede proporcionar ningn tipo de informacin personal al o en el Sitio Web. Nosotros no recopilamos intencionalmente la informacin personal de nios menores de 13 aos de edad. Si usted es menor de 13 aos de edad, no utilice ni proporcione informacin alguna en este Sitio Web o en o a travs de sus funciones/registro en el Sitio Web, no efecte ninguna compra a travs del Sitio Web, no utilice ninguna de las funciones de comentarios pblicos o interactivos de este Sitio Web ni suministre ninguna informacin sobre usted, incluyendo su nombre, direccin, nmero telefnico, correo electrnico o cualquier nombre de pantalla o de usuario que pueda utilizar. Si detectamos que hemos recopilado o recibido informacin personal de un nio menor de 13 aos de edad, borraremos esa informacin (incluido cualquier perfil asociado) en la medida en que est en un sistema que controlemos. Si cree que pudiramos tener alguna informacin de o sobre un nio menor de 13 aos de edad, contctenos al correo electrnico que se indica al final de esta Poltica de Privacidad.
+
+**3\. Informacin que recopilamos sobre usted y cmo la recopilamos  
 **
 
-Recopilamos diversos tipos de información de y sobre los usuarios de nuestro Sitio Web, que incluye información: 
+Recopilamos diversos tipos de informacin de y sobre los usuarios de nuestro Sitio Web, que incluye informacin:
 
-  * Mediante la cual se le puede identificar personalmente, como el nombre, dirección postal, dirección de correo electrónico, nombre de usuario y contraseña, número telefónico y fecha de nacimiento (información personal).
-  * Sobre su conexión a internet, el equipo que usa para acceder a nuestro Sitio Web y datos de uso.
-
-
-
-Recopilamos esta información:
-
-* Directamente de usted cuando nos la suministra.
-* Automáticamente mientras navega en el sitio. La información recopilada automáticamente puede incluir datos de uso, direcciones IP e información recopilada a través de cookies, web beacons y otras tecnologías de seguimiento. 
-
-**4\. Información que usted nos proporciona**
-
-La información que recopilamos en o a través de nuestro Sitio Web puede incluir:
-
-  * Información que usted proporcione al registrarse en nuestro Sitio Web, incluyendo cualquier plataforma de redes sociales a través de la cual usted se registre. Esto incluye información suministrada al momento de registrarse para usar nuestro Sitio Web o la información que es designada como información pública en cualquier plataforma de redes sociales mediante la cual usted se registra para usar nuestro Sitio Web. También podemos pedirle información cuando ingrese a un concurso o promoción patrocinada por nosotros, llene una encuesta y cuando informe sobre un problema con nuestro Sitio Web.
-  * Registros y copias de su correspondencia (incluidos los correos electrónicos), si nos contacta.
-  * Sus términos de búsqueda en el Sitio Web.
-  * Cualquier otra información que usted le permita a una plataforma de redes social compartir con nuestro Sitio Web.
+  * Mediante la cual se le puede identificar personalmente, como el nombre, direccin postal, direccin de correo electrnico, nombre de usuario y contrasea, nmero telefnico y fecha de nacimiento (informacin personal).
+  * Sobre su conexin a internet, el equipo que usa para acceder a nuestro Sitio Web y datos de uso.
 
 
 
-En la medida permitida por el Sitio Web, usted también puede suministrar información que se publicará o exhibirá (en lo sucesivo, publicar) en áreas públicas del Sitio Web, o transmitidas a otros usuarios del Sitio Web o terceros (colectivamente, Contribuciones del Usuario). Sus Contribuciones de Usuario se publican en y se transmiten a otros a su propio riesgo. Tenga en cuenta que ninguna medida de seguridad es perfecta o impenetrable. Además, no podemos controlar las acciones de otros usuarios del Sitio Web con quienes usted elija compartir sus Contribuciones de Usuario. Por lo tanto, no podemos y no garantizamos que sus Contribuciones de Usuario no serán vistas por personas no autorizadas.
+Recopilamos esta informacin:
 
-**5\. Datos de uso, direcciones IP y Cookies/, Cookies y otras tecnologías**
-
-A medida que usted navegue e interactúe con nuestro Sitio Web, automáticamente podemos recopilar información sobre su equipo, acciones y patrones de navegación, que incluye: 
-
-  * Detalles de sus visitas a nuestro Sitio Web, incluyendo datos de tráfico, datos de ubicación y otros datos de comunicación y los recursos a los que accede y usa en el Sitio Web.
-  * Información sobre su computadora y conexión a internet, incluyendo su dirección IP, sistema operativo y tipo de navegador.
+  * Directamente de usted cuando nos la suministra.
+  * Automticamente mientras navega en el sitio. La informacin recopilada automticamente puede incluir datos de uso, direcciones IP e informacin recopilada a travs de cookies, web beacons y otras tecnologas de seguimiento.
 
 
 
-La información que recopilamos automáticamente son datos estadísticos y no identifican a ningún individuo. Nos ayuda a mejorar nuestro Sitio Web y a brindar mejores servicios y más personalizados al permitirnos:
+**4\. Informacin que usted nos proporciona**
 
-  * Estimar el tamaño de nuestra audiencia y patrones de uso.
-  * Almacenar información sobre sus preferencias, permitiéndonos personalizar nuestro Sitio Web de acuerdo a sus intereses individuales.
-  * Acelerar sus búsquedas.
+La informacin que recopilamos en o a travs de nuestro Sitio Web puede incluir:
+
+  * Informacin que usted proporcione al registrarse en nuestro Sitio Web, incluyendo cualquier plataforma de redes sociales a travs de la cual usted se registre. Esto incluye informacin suministrada al momento de registrarse para usar nuestro Sitio Web o la informacin que es designada como informacin pblica en cualquier plataforma de redes sociales mediante la cual usted se registra para usar nuestro Sitio Web. Tambin podemos pedirle informacin cuando ingrese a un concurso o promocin patrocinada por nosotros, llene una encuesta y cuando informe sobre un problema con nuestro Sitio Web.
+  * Registros y copias de su correspondencia (incluidos los correos electrnicos), si nos contacta.
+  * Sus trminos de bsqueda en el Sitio Web.
+  * Cualquier otra informacin que usted le permita a una plataforma de redes social compartir con nuestro Sitio Web.
+
+
+
+En la medida permitida por el Sitio Web, usted tambin puede suministrar informacin que se publicar o exhibir (en lo sucesivo, publicar) en reas pblicas del Sitio Web, o transmitidas a otros usuarios del Sitio Web o terceros (colectivamente, Contribuciones del Usuario). Sus Contribuciones de Usuario se publican en y se transmiten a otros a su propio riesgo. Tenga en cuenta que ninguna medida de seguridad es perfecta o impenetrable. Adems, no podemos controlar las acciones de otros usuarios del Sitio Web con quienes usted elija compartir sus Contribuciones de Usuario. Por lo tanto, no podemos y no garantizamos que sus Contribuciones de Usuario no sern vistas por personas no autorizadas.
+
+**5\. Datos de uso, direcciones IP y Cookies/, Cookies y otras tecnologas**
+
+A medida que usted navegue e interacte con nuestro Sitio Web, automticamente podemos recopilar informacin sobre su equipo, acciones y patrones de navegacin, que incluye:
+
+  * Detalles de sus visitas a nuestro Sitio Web, incluyendo datos de trfico, datos de ubicacin y otros datos de comunicacin y los recursos a los que accede y usa en el Sitio Web.
+  * Informacin sobre su computadora y conexin a internet, incluyendo su direccin IP, sistema operativo y tipo de navegador.
+
+
+
+La informacin que recopilamos automticamente son datos estadsticos y no identifican a ningn individuo. Nos ayuda a mejorar nuestro Sitio Web y a brindar mejores servicios y ms personalizados al permitirnos:
+
+  * Estimar el tamao de nuestra audiencia y patrones de uso.
+  * Almacenar informacin sobre sus preferencias, permitindonos personalizar nuestro Sitio Web de acuerdo a sus intereses individuales.
+  * Acelerar sus bsquedas.
   * Reconocerlo cuando regrese a nuestro Sitio Web.
-  * Entender qué partes optimizar del Sitio Web basado en el tráfico de usuario.
+  * Entender qu partes optimizar del Sitio Web basado en el trfico de usuario.
   * Proporcionar publicidad personalizada o contenido relevante.
-  * Proporcionar solo noticias e información relevantes a los datos de uso.
+  * Proporcionar solo noticias e informacin relevantes a los datos de uso.
 
 
 
-Las tecnologías que usamos para esta recopilación automática de datos pueden incluir:
+Las tecnologas que usamos para esta recopilacin automtica de datos pueden incluir:
 
-  * **Cookies (o cookies de navegador).** Una cookie es un archivo pequeño colocado en el disco duro de su computadora. Usted puede negarse a aceptar las cookies de navegador al activar la configuración correspondiente en su navegador. Sin embargo, si usted selecciona esta configuración, usted no podrá acceder a ciertas partes de nuestro Sitio Web. A menos que haya ajustado la configuración de su navegador de manera que rechace las cookies, nuestro sistema emitirá cookies cuando use su navegador para ingresar a nuestro Sitio Web. 
-  * **Cookies en Flash.** Ciertas funciones de nuestros Sitio Web pueden usar objetos almacenados localmente (o cookies en Flash) para recopilar y almacenar información sobre sus preferencias y navegación hacia, desde y en nuestro Sitio Web. Las Flash cookies no se administran con las mismas configuraciones de navegador que se utilizan para las cookies de navegador. 
-  * **Web Beacons.** Las páginas de nuestro Sitio Web pueden contener archivos electrónicos pequeños conocidos como web beacons (también se les conoce como clear gifs. pixel tags y single-pixel gifs) que le permiten a la Compañía, por ejemplo, contar los usuarios que han visitado esas páginas o para otras estadísticas relacionadas con el sitio web (por ejemplo, registrar la popularidad de cierto contenido del sitio web y verificar la integridad del sistema y el servidor). 
-  * **Google Informes de intereses y datos demográficos.**
+  * **Cookies (o cookies de navegador).** Una cookie es un archivo pequeo colocado en el disco duro de su computadora. Usted puede negarse a aceptar las cookies de navegador al activar la configuracin correspondiente en su navegador. Sin embargo, si usted selecciona esta configuracin, usted no podr acceder a ciertas partes de nuestro Sitio Web. A menos que haya ajustado la configuracin de su navegador de manera que rechace las cookies, nuestro sistema emitir cookies cuando use su navegador para ingresar a nuestro Sitio Web.
+  * **Cookies en Flash.** Ciertas funciones de nuestros Sitio Web pueden usar objetos almacenados localmente (o cookies en Flash) para recopilar y almacenar informacin sobre sus preferencias y navegacin hacia, desde y en nuestro Sitio Web. Las Flash cookies no se administran con las mismas configuraciones de navegador que se utilizan para las cookies de navegador.
+  * **Web Beacons.** Las pginas de nuestro Sitio Web pueden contener archivos electrnicos pequeos conocidos como web beacons (tambin se les conoce como clear gifs. pixel tags y single-pixel gifs) que le permiten a la Compaa, por ejemplo, contar los usuarios que han visitado esas pginas o para otras estadsticas relacionadas con el sitio web (por ejemplo, registrar la popularidad de cierto contenido del sitio web y verificar la integridad del sistema y el servidor).
+  * **Google Informes de intereses y datos demogrficos.**
 
 
 
-**6\. Uso de cookies y otras tecnologías de seguimiento para publicidad de terceros**
+**6\. Uso de cookies y otras tecnologas de seguimiento para publicidad de terceros**
 
-Alguna publicidad en el Sitio Web puede ser presentada por terceros publicistas, redes de publicidad y servidores de publicidad. Estos terceros pueden utilizar cookies solas o junto con web beacons u otras tecnologías de seguimiento para recopilar información sobre nuestros usuarios. Esto puede incluir información sobre la conducta de los usuarios en este y otros sitios web para prestar un servicio basado en la publicidad que les interesa (conductual). Nosotros no controlamos estas tecnologías de seguimiento de terceros o cómo pueden ser utilizadas. Si tiene preguntas sobre una publicidad, debe comunicarse directamente con el publicista responsable. 
+Alguna publicidad en el Sitio Web puede ser presentada por terceros publicistas, redes de publicidad y servidores de publicidad. Estos terceros pueden utilizar cookies solas o junto con web beacons u otras tecnologas de seguimiento para recopilar informacin sobre nuestros usuarios. Esto puede incluir informacin sobre la conducta de los usuarios en este y otros sitios web para prestar un servicio basado en la publicidad que les interesa (conductual). Nosotros no controlamos estas tecnologas de seguimiento de terceros o cmo pueden ser utilizadas. Si tiene preguntas sobre una publicidad, debe comunicarse directamente con el publicista responsable.
 
-**7\. Cómo usamos su información**
+**7\. Cmo usamos su informacin**
 
-Usamos la información que recopilamos sobre usted o que usted nos proporciona, incluyendo cualquier información personal, para: 
+Usamos la informacin que recopilamos sobre usted o que usted nos proporciona, incluyendo cualquier informacin personal, para:
 
   * Presentarle nuestro Sitio Web y su contenido a usted.
-  * Proporcionarle información, productos o servicios que usted nos solicite.
-  * Cumplir cualquier otro propósito para el cual usted la proporciona.
-  * Entregarle notificaciones sobre su cuenta/suscripción, incluyendo notificaciones.
-  * Cumplir con nuestras obligaciones y hacer cumplir nuestros derechos producto de cualquier contrato celebrado entre usted y nosotros, incluyendo la facturación y cobro.
-  * Notificarle sobre los cambios a nuestro Sitio Web o cualquier producto o servicio que ofrecemos o brindamos a través del sitio.
+  * Proporcionarle informacin, productos o servicios que usted nos solicite.
+  * Cumplir cualquier otro propsito para el cual usted la proporciona.
+  * Entregarle notificaciones sobre su cuenta/suscripcin, incluyendo notificaciones.
+  * Cumplir con nuestras obligaciones y hacer cumplir nuestros derechos producto de cualquier contrato celebrado entre usted y nosotros, incluyendo la facturacin y cobro.
+  * Notificarle sobre los cambios a nuestro Sitio Web o cualquier producto o servicio que ofrecemos o brindamos a travs del sitio.
   * Permitirle participar en las funciones interactivas de nuestro Sitio Web.
   * Procesar e ingresar entradas y premios de concursos.
-  * Poder describir de otra manera cuando usted proporciona la información.
+  * Poder describir de otra manera cuando usted proporciona la informacin.
   * Cualquier otro fin con su consentimiento.
 
 
 
-También podemos usar su información para comunicarnos con usted con respecto a nuestros propios bienes y servicios que puedan ser de su interés. Si no desea que usemos su información de esta manera, usted puede retirarse al (i) modificar su información de usuario registrada en el Sitio Web iniciando sesión, editando las preferencias de su perfil y siguiendo las instrucciones para retirarse, o (ii) siguiendo las instrucciones de retiro en la comunicación que usted recibe. Podemos usar la información que hemos recopilado de usted para permitirnos mostrar publicidad a nuestras audiencias objetivo de los anunciantes. Aunque nosotros no divulgamos su información personal para estos fines sin su consentimiento, si hace clic o de algún otro modo interactúa con una publicidad, el anunciante puede asumir que usted cumple con sus criterios de audiencia. 
+Tambin podemos usar su informacin para comunicarnos con usted con respecto a nuestros propios bienes y servicios que puedan ser de su inters. Si no desea que usemos su informacin de esta manera, usted puede retirarse al (i) modificar su informacin de usuario registrada en el Sitio Web iniciando sesin, editando las preferencias de su perfil y siguiendo las instrucciones para retirarse, o (ii) siguiendo las instrucciones de retiro en la comunicacin que usted recibe. Podemos usar la informacin que hemos recopilado de usted para permitirnos mostrar publicidad a nuestras audiencias objetivo de los anunciantes. Aunque nosotros no divulgamos su informacin personal para estos fines sin su consentimiento, si hace clic o de algn otro modo interacta con una publicidad, el anunciante puede asumir que usted cumple con sus criterios de audiencia.
 
-**8\. Divulgación de su información**
+**8\. Divulgacin de su informacin**
 
-Podemos divulgar información agregado sobre nuestros usuarios e información que no identifica a ningún individuo, sin restricción. 
+Podemos divulgar informacin agregado sobre nuestros usuarios e informacin que no identifica a ningn individuo, sin restriccin.
 
-Podemos divulgar información que recopilemos o que usted proporcione según lo descrito en esta Política de Privacidad: 
+Podemos divulgar informacin que recopilemos o que usted proporcione segn lo descrito en esta Poltica de Privacidad:
 
   * A nuestras subsidiarias y afiliados.
-  * A contratistas, proveedores de servicio y otros terceros que utilizamos para apoyar nuestro negocio y que están vinculados por obligaciones contractuales a mantener la confidencialidad de la información personal y usarla solo para los fines para los cuales se las revelamos a ellos.
-  * A un comprador u otro sucesor en caso de fusión, desinversión, reestructuración, reorganización, disolución u otra venta o transferencia de algunos o todos los activos de Emmis Operating Company, ya sea como una empresa en marcha o como parte de una quiebra, liquidación o similares en la que la información personal de la empresa Emmis sobre los usuarios de nuestro Sitio Web se encuentra entre los activos transferidos. 
-  * Para cumplir el propósito para el cual usted la proporciona. 
-  * Para cualquier otro fin divulgado por nosotros cuando usted proporciona la información.
+  * A contratistas, proveedores de servicio y otros terceros que utilizamos para apoyar nuestro negocio y que estn vinculados por obligaciones contractuales a mantener la confidencialidad de la informacin personal y usarla solo para los fines para los cuales se las revelamos a ellos.
+  * A un comprador u otro sucesor en caso de fusin, desinversin, reestructuracin, reorganizacin, disolucin u otra venta o transferencia de algunos o todos los activos de Emmis Operating Company, ya sea como una empresa en marcha o como parte de una quiebra, liquidacin o similares en la que la informacin personal de la empresa Emmis sobre los usuarios de nuestro Sitio Web se encuentra entre los activos transferidos.
+  * Para cumplir el propsito para el cual usted la proporciona.
+  * Para cualquier otro fin divulgado por nosotros cuando usted proporciona la informacin.
   * Con su consentimiento.
 
 
 
-También podemos divulgar su información personal:
+Tambin podemos divulgar su informacin personal:
 
   * Para cumplir con alguna orden judicial, la ley o proceso legal, incluso para responder a una solicitud gubernamental o regulatoria.
-  * Para cumplir o aplicar nuestros términos de uso y otros acuerdos, incluso para fines de facturación y cobranza.
-  * Si consideramos que la divulgación es necesaria o adecuada para proteger derechos, la propiedad o seguridad de Emmis Operating Company, nuestros clientes u otros. Esto incluye el intercambio de información con otras compañías y organizaciones con fines de protección contra el fraude y reducción de riesgo de crédito.
+  * Para cumplir o aplicar nuestros trminos de uso y otros acuerdos, incluso para fines de facturacin y cobranza.
+  * Si consideramos que la divulgacin es necesaria o adecuada para proteger derechos, la propiedad o seguridad de Emmis Operating Company, nuestros clientes u otros. Esto incluye el intercambio de informacin con otras compaas y organizaciones con fines de proteccin contra el fraude y reduccin de riesgo de crdito.
 
 
 
-**9\. Opciones sobre cómo usamos y divulgamos su información**
+**9\. Opciones sobre cmo usamos y divulgamos su informacin**
 
-Nos esforzamos por proporcionarle opciones con respecto a la información personal que nos proporcione. Hemos creado mecanismos para proporcionarle el siguiente control sobre su información: 
+Nos esforzamos por proporcionarle opciones con respecto a la informacin personal que nos proporcione. Hemos creado mecanismos para proporcionarle el siguiente control sobre su informacin:
 
-  * **Tecnologías de seguimiento y publicidad.** Puede configurar su navegador para rechazar todas o algunas cookies del navegador o para avisarle cuando se envían las cookies. Para obtener más información sobre cómo administrar la configuración de las cookies en Flash, visite la página de configuración de Flash Player en el sitio web de Adobe. Si desactiva o rechaza las cookies, tenga en cuenta que algunas partes de este sitio pueden ser inaccesibles o no funcionar correctamente.
-  * **Ofertas promocionales de la Compañía.** Si no desea que su dirección de correo electrónico sea utilizada por la Compañía para promocionar productos o servicios propios o de terceros, puede retirarse al modificar su información de usuario registrada en el Sitio Web iniciando sesión, editando sus preferencias de perfil y siguiendo las instrucciones para no participar. También puede retirar la suscripción mediante el enlace del mensaje de correo electrónico que recibió.
-  * **Publicidad dirigida.** Si no desea que utilicemos la información que recopilamos o que nos proporcione para publicar anuncios de acuerdo con las preferencias del público objetivo de nuestros anunciantes, puede retirarse al modificar su información de usuario registrada en el Sitio Web iniciando sesión, editando sus preferencias de perfil y siguiendo las instrucciones para retirarse. 
+  * **Tecnologas de seguimiento y publicidad.** Puede configurar su navegador para rechazar todas o algunas cookies del navegador o para avisarle cuando se envan las cookies. Para obtener ms informacin sobre cmo administrar la configuracin de las cookies en Flash, visite la pgina de configuracin de Flash Player en el sitio web de Adobe. Si desactiva o rechaza las cookies, tenga en cuenta que algunas partes de este sitio pueden ser inaccesibles o no funcionar correctamente.
+  * **Ofertas promocionales de la Compaa.** Si no desea que su direccin de correo electrnico sea utilizada por la Compaa para promocionar productos o servicios propios o de terceros, puede retirarse al modificar su informacin de usuario registrada en el Sitio Web iniciando sesin, editando sus preferencias de perfil y siguiendo las instrucciones para no participar. Tambin puede retirar la suscripcin mediante el enlace del mensaje de correo electrnico que recibi.
+  * **Publicidad dirigida.** Si no desea que utilicemos la informacin que recopilamos o que nos proporcione para publicar anuncios de acuerdo con las preferencias del pblico objetivo de nuestros anunciantes, puede retirarse al modificar su informacin de usuario registrada en el Sitio Web iniciando sesin, editando sus preferencias de perfil y siguiendo las instrucciones para retirarse. 
 
-No controlamos la recopilación o el uso de su información por terceros para publicar anuncios basados en intereses. Sin embargo, estos terceros pueden proporcionarle formas de elegir para que su información no sea recopilada o utilizada de esta manera. Usted puede optar por no recibir anuncios de los miembros de la Iniciativa de Publicidad en Red (Network Advertising Initiative, NAI) en el sitio web de NAI. 
+No controlamos la recopilacin o el uso de su informacin por terceros para publicar anuncios basados en intereses. Sin embargo, estos terceros pueden proporcionarle formas de elegir para que su informacin no sea recopilada o utilizada de esta manera. Usted puede optar por no recibir anuncios de los miembros de la Iniciativa de Publicidad en Red (Network Advertising Initiative, NAI) en el sitio web de NAI.
 
-  * **Ubicación geográfica.** Si no desea que recopilemos información sobre su ubicación geográfica, puede deshabilitar el seguimiento de ubicación geográfica ajustando la configuración de su dispositivo o rechazando dicho seguimiento cuando se le solicite. Tenga en cuenta que algunos servicios pueden dejar de funcionar como resultado de deshabilitar el seguimiento de ubicación. 
-  * **Opción del consumidor de la Alianza de Publicidad Digital.** Usted puede optar por no participar en publicidad de comportamiento entregada por la Alianza de Publicidad Digital (Digital Advertising Alliance, DAA) a través de la página de DAA Consumer Choice ubicada en <http://www.aboutads.info/choices/>. 
+  * **Ubicacin geogrfica.** Si no desea que recopilemos informacin sobre su ubicacin geogrfica, puede deshabilitar el seguimiento de ubicacin geogrfica ajustando la configuracin de su dispositivo o rechazando dicho seguimiento cuando se le solicite. Tenga en cuenta que algunos servicios pueden dejar de funcionar como resultado de deshabilitar el seguimiento de ubicacin.
+  * **Opcin del consumidor de la Alianza de Publicidad Digital.** Usted puede optar por no participar en publicidad de comportamiento entregada por la Alianza de Publicidad Digital (Digital Advertising Alliance, DAA) a travs de la pgina de DAA Consumer Choice ubicada en <http://www.aboutads.info/choices/>.
 
 
 
-**10\. Acceder a su información y corregirla**
+**10\. Acceder a su informacin y corregirla**
 
-Puede revisar y cambiar su información personal iniciando sesión en el Sitio Web y visitando su página del perfil de la cuenta. 
+Puede revisar y cambiar su informacin personal iniciando sesin en el Sitio Web y visitando su pgina del perfil de la cuenta.
 
-Puede enviarnos un correo electrónico a la dirección de correo electrónico que aparece al final de esta Política de Privacidad para solicitar acceso, corregir o eliminar cualquier información personal que nos haya proporcionado. No podemos eliminar su información personal, excepto que también borremos su cuenta de usuario. Es posible que no aceptemos una solicitud de cambio de información si creemos que el cambio violaría cualquier ley o requisito legal o hará que la información sea incorrecta. Cualquier cuenta de usuario que permanezca inactiva durante por lo menos un año puede ser eliminada por la Compañia. 
+Puede enviarnos un correo electrnico a la direccin de correo electrnico que aparece al final de esta Poltica de Privacidad para solicitar acceso, corregir o eliminar cualquier informacin personal que nos haya proporcionado. No podemos eliminar su informacin personal, excepto que tambin borremos su cuenta de usuario. Es posible que no aceptemos una solicitud de cambio de informacin si creemos que el cambio violara cualquier ley o requisito legal o har que la informacin sea incorrecta. Cualquier cuenta de usuario que permanezca inactiva durante por lo menos un ao puede ser eliminada por la Compaia.
 
-Si elimina las Contribuciones de Usuario del Sitio Web, las copias de sus Contribuciones de Usuario pueden permanecer visibles en páginas almacenadas en caché y archivadas, o pueden haber sido copiadas o almacenadas por otros usuarios del Sitio Web. El acceso adecuado y el uso de la información proporcionada en el Sitio web, incluyendo las Contribuciones del Usuario, se rigen por nuestros Términos de Uso. 
+Si elimina las Contribuciones de Usuario del Sitio Web, las copias de sus Contribuciones de Usuario pueden permanecer visibles en pginas almacenadas en cach y archivadas, o pueden haber sido copiadas o almacenadas por otros usuarios del Sitio Web. El acceso adecuado y el uso de la informacin proporcionada en el Sitio web, incluyendo las Contribuciones del Usuario, se rigen por nuestros Trminos de Uso.
 
 **11\. Derechos de Privacidad de California**
 
-La sección 1798.83 del Código Civil de California les permite a los usuarios de nuestro Sitio Web que sean residentes de California solicitar cierta información con respecto a nuestra divulgación de información personal a terceros para sus propósitos de marketing directo. Para hacer tal solicitud, envíe un correo electrónico a la dirección de correo electrónico que aparece al final de esta Política de Privacidad. No respondemos a las señales del navegador de No rastrear. 
+La seccin 1798.83 del Cdigo Civil de California les permite a los usuarios de nuestro Sitio Web que sean residentes de California solicitar cierta informacin con respecto a nuestra divulgacin de informacin personal a terceros para sus propsitos de marketing directo. Para hacer tal solicitud, enve un correo electrnico a la direccin de correo electrnico que aparece al final de esta Poltica de Privacidad. No respondemos a las seales del navegador de No rastrear.
 
 **12\. Seguridad de datos**
 
-Hemos implementado medidas diseñadas para proteger su información personal de pérdida accidental y de acceso, uso, alteración y divulgación no autorizados. Toda la información que nos proporciona se almacena en nuestros servidores seguros detrás de cortafuegos. 
+Hemos implementado medidas diseadas para proteger su informacin personal de prdida accidental y de acceso, uso, alteracin y divulgacin no autorizados. Toda la informacin que nos proporciona se almacena en nuestros servidores seguros detrs de cortafuegos.
 
-La seguridad de su información también depende de usted. Donde le hemos dado (o donde usted ha elegido) una contraseña para acceder a ciertas partes de nuestro Sitio Web, usted es responsable de mantener esta contraseña confidencial. Le pedimos que no comparta su contraseña con nadie. Le instamos a que sea cuidadoso en dar información en áreas públicas del Sitio Web como tableros de mensajes. La información que usted comparte en las áreas públicas puede ser vista por cualquier usuario del Sitio Web. 
+La seguridad de su informacin tambin depende de usted. Donde le hemos dado (o donde usted ha elegido) una contrasea para acceder a ciertas partes de nuestro Sitio Web, usted es responsable de mantener esta contrasea confidencial. Le pedimos que no comparta su contrasea con nadie. Le instamos a que sea cuidadoso en dar informacin en reas pblicas del Sitio Web como tableros de mensajes. La informacin que usted comparte en las reas pblicas puede ser vista por cualquier usuario del Sitio Web.
 
-Desafortunadamente, la transmisión de información a través de Internet no es completamente segura. Aunque hacemos todo lo posible para tomar las precauciones razonables para proteger su información personal, no podemos garantizar la seguridad de su información personal transmitida a nuestro Sitio Web. Cualquier transmisión de información personal es bajo su propio riesgo. No somos responsables de eludir cualquier configuración de privacidad o medidas de seguridad contenidas en el Sitio Web. 
+Desafortunadamente, la transmisin de informacin a travs de Internet no es completamente segura. Aunque hacemos todo lo posible para tomar las precauciones razonables para proteger su informacin personal, no podemos garantizar la seguridad de su informacin personal transmitida a nuestro Sitio Web. Cualquier transmisin de informacin personal es bajo su propio riesgo. No somos responsables de eludir cualquier configuracin de privacidad o medidas de seguridad contenidas en el Sitio Web.
 
-**13\. Cambios a nuestra Política de Privacidad**
+**13\. Cambios a nuestra Poltica de Privacidad**
 
-Es nuestra política publicar cualquier cambio que hagamos a nuestra Política de Privacidad en esta página. Si realizamos cambios materiales en la forma en que tratamos la información personal de nuestros usuarios, le notificaremos por correo electrónico a la dirección de correo electrónico especificada en su cuenta o a través de un aviso en la página principal del Sitio Web. La fecha en que se revisópor última vez la Política de Privacidad se encuentra en la parte superior de esta política. Usted es responsable de garantizar que tengamos una dirección de correo electrónico activa y entregable actualizada para usted, y de visitar periódicamente nuestro Sitio Web y esta Política de Privacidad para comprobar si hay algún cambio. 
+Es nuestra poltica publicar cualquier cambio que hagamos a nuestra Poltica de Privacidad en esta pgina. Si realizamos cambios materiales en la forma en que tratamos la informacin personal de nuestros usuarios, le notificaremos por correo electrnico a la direccin de correo electrnico especificada en su cuenta o a travs de un aviso en la pgina principal del Sitio Web. La fecha en que se revispor ltima vez la Poltica de Privacidad se encuentra en la parte superior de esta poltica. Usted es responsable de garantizar que tengamos una direccin de correo electrnico activa y entregable actualizada para usted, y de visitar peridicamente nuestro Sitio Web y esta Poltica de Privacidad para comprobar si hay algn cambio.
 
 **14\. Sus comentarios e inquietudes**
 
-Este Sitio Web es operado por Emmis Operating Company o sus afiliados, One EMMIS Plaza, 40 Monument Circle, Suite 700, Indianapolis, IN 46204. 
+Este Sitio Web es operado por Emmis Operating Company o sus afiliados, One EMMIS Plaza, 40 Monument Circle, Suite 700, Indianapolis, IN 46204.
 
-Todas las opiniones, comentarios, solicitudes de soporte técnico y otras comunicaciones relacionadas con el Sitio Web deben dirigirse a los contactos que se indican a continuación para este Sitio Web. 
+Todas las opiniones, comentarios, solicitudes de soporte tcnico y otras comunicaciones relacionadas con el Sitio Web deben dirigirse a los contactos que se indican a continuacin para este Sitio Web.
 
-**15\. Información de contacto del Sitio Web:**  
+**15\. Informacin de contacto del Sitio Web:**  
 Para contactar al Sitio Web, puede enviar comunicaciones a:
+
+Emmis Digital Support  
+40 Monument Cir, #400  
+Indianapolis, IN 46204
+
+[support@emmisdigital.com](mailto:support@emmisdigital.com?subject=PrivacyHelp)
