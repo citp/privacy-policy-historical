@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jumia.com.eg privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916124625id_/https%3A//www.jumia.com.eg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumia.com.eg privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619152056id_/https%3A//www.jumia.com.eg/privacy) for the most accurate reproduction.*
 
-# Jumia
+# Jumia Privacy Policy | Jumia Security Policy| Jumia Egypt
 
 1\. Data that we collect
 
@@ -22,6 +22,8 @@ We may use your personal information for opinion and market research. Your detai
 We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the 'unsubscribe' link in any email that we send to you. Within 7 working days (days which are neither (i) a Friday nor Saturday, nor (ii) a public holiday anywhere in Egypt) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification.
 
 We may further anonymize data about users of the Site generally and use it for various purposes, including ascertaining the general location of the users and usage of certain aspects of the Site or a link contained in an email to those registered to receive them, and supplying that anonymized data to third parties such as publishers. However, that anonymized data will not be capable of identifying you personally.
+
+By completing an order or signing up, you agree to receive a) emails associated with finalizing your order, which may contain relevant offers from third parties, and b) emails asking you to review Jumia and your purchase and c) promotional emails, SMS and push notifications from Jumia. You may unsubscribe from promotional emails via a link provided in each email. If you would like us to remove your personal information from our database, unsubscribe from emails and/or SMS, please email Customer Service email address by country.
 
 **Competitions**  
 For any competition we use the data to notify winners and advertise our offers. You can find more details where applicable in our participation terms for the respective competition.
