@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendosoup.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231145100id_/https%3A//nintendosoup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendosoup.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619194934id_/https%3A//nintendosoup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NintendoSoup
 
@@ -14,13 +14,13 @@
 
 1.4    In this policy, “we”, “us” and “our” refer to (NintendoSoup).
 
-  2.  **** ******Credit**
+  2. **********Credit**
 
 
 
 2.1    This document was created using a template from Docular (https://docular.net).
 
-  3.  **** ******How we use your personal data**
+  3. **********How we use your personal data**
 
 
 
@@ -52,7 +52,7 @@
 
 3.10    Please do not supply any other person’s personal data to us, unless we prompt you to do so.
 
-  4.  **** ******Providing your personal data to others**
+  4. **********Providing your personal data to others**
 
 
 
@@ -64,7 +64,7 @@
 
 4.4    In addition to the specific disclosures of personal data set out in this Section 4, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
 
-  5.  **** ******International transfers of your personal data**
+  5. **********International transfers of your personal data**
 
 
 
@@ -76,7 +76,7 @@
 
 5.4    You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.
 
-  6.  **** ******Retaining and deleting personal data**
+  6. **********Retaining and deleting personal data**
 
 
 
@@ -92,7 +92,7 @@
 
 6.4    Notwithstanding the other provisions of this Section 6, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
 
-  7.  **** ******Amendments**
+  7. **********Amendments**
 
 
 
@@ -102,7 +102,7 @@
 
 7.3    We may notify you of changes to this policy by email or through the private messaging system on our website.
 
-  8.  **** ******Your rights**
+  8. **********Your rights**
 
 
 
@@ -148,7 +148,7 @@
 
 8.11    You may exercise any of your rights in relation to your personal data by contacting us using the details outlined in section 13.
 
-  9.  **** ******About cookies**
+  9. **********About cookies**
 
 
 
@@ -158,7 +158,7 @@
 
 9.3    Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-  10.  **** ******Cookies that we use**
+  10. **********Cookies that we use**
 
 
 
@@ -176,7 +176,7 @@
 
 (f)    cookie consent – we use cookies to store your preferences in relation to the use of cookies more generally.
 
-  11.  **** ******Cookies used by our service providers**
+  11. **********Cookies used by our service providers**
 
 
 
