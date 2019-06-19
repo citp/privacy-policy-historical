@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talismanonline.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031073008id_/http%3A//www.talismanonline.com/support_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talismanonline.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619222956id_/http%3A//www.talismanonline.com/support_policy.html) for the most accurate reproduction.*
 
 # Talisman Online - Privacy Policy
 
