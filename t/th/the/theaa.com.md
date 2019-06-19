@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216121352id_/https%3A//www.theaa.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619121448id_/https%3A//www.theaa.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | AA
 
