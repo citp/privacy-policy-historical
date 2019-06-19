@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the members.shaw.ca privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224165538id_/http%3A//www.shaw.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the members.shaw.ca privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619132429id_/http%3A//www.shaw.ca/privacy-policy) for the most accurate reproduction.*
 
 # Shaw Privacy Policy | Online Policies - Shaw - Shaw.ca
 
@@ -27,7 +27,7 @@ Shaw relies on these ten principles to protect the Personal Information collecte
   2. ## 2\. Definitions
 
 _"Shaw", "we" or "our"_ :
-    Means Shaw Communications Inc. and each of its affiliates as they may exist from time to time including Shaw Cablesystems G.P., Shaw Satellite G.P. and Shaw Telecom G.P., but excluding Freedom Mobile Inc. which maintains its own separate Privacy Policy.
+    Means Shaw Communications Inc. and each of its subsidiaries and affiliates as they may exist from time to time.
 
  _Business Contact Information_ :
     Means any information that is used for the purpose of communicating or facilitating communication with an individual in relation to their employment, business or profession such as the individual’s name, position name or title, work address, work telephone number, work fax number or work electronic address
@@ -55,7 +55,7 @@ If you wish to obtain any of Shaw's products and/or services, Shaw will collect 
       *  **Collection and Use of Television Set-Top Box Data:**    
 Certain digital set-top boxes used by Customers who subscribe for video services, and the FREERANGE TV mobile app, automatically collect raw household tuning data (the "Tuning Data"). Tuning Data is used for billing purposes, diagnostic purposes, for the tuning of recommendation engines and to measure television viewership. Shaw creates a database of anonymized and/or aggregated viewing behaviour by pairing Tuning Data with non-sensitive information in Customer files. This helps Shaw understand Customer reactions to television content and advertising. The collection of Tuning Data is critical to operating our video services and cannot be disabled. However, you can choose to opt-out of Shaw's use of Tuning Data in an anonymized and aggregated database by using the process described in Subsection 3.3 below. You can also disable the delivery of recommendations via your set-top-box settings.
       *  **Collection and Use of Personal information in connection with Shaw Go WiFi:**    
-In order to access Shaw Go WiFi, you will be requested to provide your Shaw userid, password and certain other information that may be requested from time to time. Shaw will also automatically collect certain information such as device location, device type, and general usage information associated to the Media Access Control (“MAC”) address associated with your device (the “Device Information”). The Device Information is used to deliver the Shaw Go Wifi service, monitor and improve network traffic, improve your Shaw Go WiFi experience and for research and statistical purposes. Shaw may from time to time use the Device Information to deliver advertising to the browser you are using to access the Internet as outlined is our Terms of Use for Shaw Go WiFi. In certain instances, Shaw will rely on a third party to deliver Shaw Go WiFi services at a specified location (for example, certain airports, universities or other public buildings). The relationship with the third party is governed by strict privacy provisions, in compliance with PIPEDA. As part of the delivery of the Shaw Go WiFi services, the third party may have access to the Device Information, which can only be used for limited network monitoring and improvement purposes.
+In order to access Shaw Go WiFi, you will be requested to provide your Shaw userid, password and certain other information that may be requested from time to time. Shaw will also automatically collect certain information such as device location, device type, and general usage information associated to the Media Access Control (“MAC”) address associated with your device (the “Device Information”). The Device Information is used to deliver the Shaw Go Wifi service, monitor and improve network traffic, improve your Shaw Go WiFi experience and for research and statistical purposes. Shaw may from time to time use the Device Information to deliver advertising to the browser you are using to access the Internet as outlined is our Terms of Use for Shaw Go WiFi. In certain instances, Shaw will rely on a third party to deliver Shaw Go WiFi services at a specified location (for example, certain airports, universities or other locations). The relationship with the third party is governed by strict privacy provisions, in compliance with PIPEDA. As part of the delivery of the Shaw Go WiFi services, the third party may have access to the Device Information, which can only be used for limited network monitoring and improvement purposes.
 
 3.1.2 Employee's Personal Information  
 The personal Information most often collected and maintained in an Employee or applicant for employment file may include, as appropriate, (but is not limited to) Business Contact Information, home address, home phone number(s), emergency contact information, date of birth, Social Insurance Number, banking information, past employment information, resumes, reference letters, earnings information, performance reviews/letters, and dependant and beneficiary information. 
@@ -166,7 +166,7 @@ _Disclosure of Personal Information to government organizations, including law e
 Shaw routinely receives requests from government organizations, including law enforcement agencies. These requests are individually and carefully vetted internally by a team of experts. Shaw will only disclose Personal Information in response to these requests when permitted by law, in accordance with PIPEDA. 
 
 For more details and to view Shaw’s Transparency Report, please click on the following link:  
-[Transparency: Our Commitment and Approach](https://web.archive.org/uploadedFiles/Privacy_Policy/Shaw_Transparency_Report_2015-_FINAL.pdf).
+[Transparency: Our Commitment and Approach](https://web.archive.org/uploadedFiles/Privacy_Policy/SHAW_Transparency%20Report%202017_FINAL.pdf).
 
     * **3.5 Who does Shaw share Personal Information with?**
 
@@ -208,8 +208,8 @@ Shaw will investigate all complaints and respond to all questions asked by its C
 
 If Customers, Employees or Web Site Users are not satisfied with Shaw's response, they may contact the Office of the Privacy Commissioner of Canada, at:   
 Toll-free: 1-800-282-1376  
-Phone: (613) 995-8210  
-Fax: (613) 947-6850
+Phone: (819) 994-5444  
+Fax: (819) 994-5424
 
 Mailing Address:  
 Office of the Privacy Commissioner of Canada  
