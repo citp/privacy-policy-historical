@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterlyrics.blogspot.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215064552id_/http%3A//monsterlyrics.blogspot.com/2009/10/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterlyrics.blogspot.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619102703id_/http%3A//monsterlyrics.blogspot.com/2009/10/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
