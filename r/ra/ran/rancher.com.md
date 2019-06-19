@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the rancher.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030034332id_/https%3A//rancher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rancher.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619214453id_/https%3A//rancher.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Rancher Labs
-
-[](https://web.archive.org/)
-
-  * [Customers ](https://web.archive.org/customers/)
-  * [ ]()
-
-
-
-  *   * [Deploy](https://web.archive.org/quick-start)
-  *   * 
-
+# Privacy
 
 ## Thank you for visiting Rancher.com (“Site”), owned and operated by Rancher Labs, Inc. (“COMPANY”) This Privacy Policy describes how we treat information that we collect.
 
@@ -24,8 +13,6 @@ In general, you can visit rancher.com without telling us who you are or revealin
 ## Children’s Privacy
 
 This Site is not designed nor intended to be attractive to use by children under the age of 13 (“Minors”). We do not knowingly collect information from minors. If you are under the age of 13, please do not submit any information to us.
-
-* * *
 
 ## Cookies
 
@@ -43,6 +30,6 @@ We utilize reasonable administrative, physical and technical safeguards to prote
 
 ## Contacting Us
 
-This site is owned and operated by COMPANY . If you have any questions or suggestions with respect to this policy you can write to us at COMPANY, 20370 Town Center Lane, Suite 153, Cupertino, CA 95014 , or you can simply click on Contact Us to send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+This site is owned and operated by Rancher. If you have any questions or suggestions with respect to this policy you can write to us at Rancher, 10050 N Wolfe Rd, STE SW1-272, Cupertino, CA 95014, or you can simply send us an email at info@rancher.com.
 
 Effective Date: 11/3/2014
