@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009154941id_/https%3A//help.adverts.ie/hc/en-us/articles/360001288745-Privacy-Cookie-Policies%231) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619182615id_/https%3A//help.adverts.ie/hc/en-us/articles/360001288745-Privacy-Cookie-Policies%231) for the most accurate reproduction.*
 
 # Privacy & Cookie Policies – Adverts
 
-Last updated on 17th May, 2018
+Last updated on 4th April, 2019
 
 ### Contents
 
@@ -54,7 +54,7 @@ When you use our services, we collect information about what types of services y
 
 
 
-Using technical logs and other tools, we register information about the device you use, such as the device manufacturer, operating systems and browser version. We also collect information about the connection to our services, such as IP address, network ID, cookies and unique ID files. This information can help us to adapt the way content is displayed to you, based on your device and user profile.
+Using technical logs and other tools, we register information about the device you use, such as the device manufacturer, operating systems and browser version. We also collect information about the connection to our services, such as IP address, network ID, cookies and unique ID files. This information can help us to adapt the way content is displayed to you, based on your device and user profile. When you download our mobile App, we also share information between our partner sites ([Donedeal.ie](https://www.donedeal.ie/), [TheJournal.ie](https://www.thejournal.ie/)) regarding the existence of our partner apps on your device.
 
   * Information about how our services are used
 
@@ -244,7 +244,7 @@ We will only send you marketing information where you have opted in to receive t
 
 
 
-This statement will be updated when necessary to reflect changes that we make to our products. When this statement is updated, the “last updated” dated at the top of this statement will be changed. We will notify you of any changes to our privacy statement either by directly sending you a notification, or by posting a notification of the change on our site. We encourage you to review our Privacy Policy regularly so that you can stay informed about our use of your data.
+This statement will be updated when necessary to reflect changes that we make to our products. When this statement is updated, the “last updated” date will be revised at the top of this statement. We encourage you to review our Privacy Policy regularly so that you can stay informed about our use of your data.
 
   
 **Contact information**  
