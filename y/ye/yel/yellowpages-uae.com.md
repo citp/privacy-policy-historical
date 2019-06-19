@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yellowpages-uae.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229234948id_/http%3A//www.yellowpages-uae.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages-uae.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619115422id_/https%3A//www.yellowpages-uae.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policies of online business directory Yellow Pages UAE. yellowpages-uae.com
 
 ### Privacy & Policy
 
-This site is owned and operated by Lunad Media and Communication LLC. Your privacy on the Internet is of the utmost importance to us. At Lunad, we want to make your experience online satisfying and safe.
+This site is owned and operated by Lunad Digital Portal. Your privacy on the Internet is of the utmost importance to us. At Lunad, we want to make your experience online satisfying and safe.
 
 We reserve the right, at our discretion, to modify or remove portions of this Internet Privacy Policy at any time. This Internet Privacy Policy is in addition to any other terms and conditions applicable to the web site. We do not make any representations about third party web sites that may be linked to the web site.
 
