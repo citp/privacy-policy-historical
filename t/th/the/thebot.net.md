@@ -1,50 +1,66 @@
-> *The following text is extracted and transformed from the thebot.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081148id_/http%3A//thebot.net/announcements/235305-privacy-policy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebot.net privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620003540id_/https%3A//thebot.net/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Cookie Policy
+# Privacy policy | TBN
 
-In accordance with the Privacy and Electronic Communications (EC Directive) Regulations Act 2003 we (thebot.net) are required to have a legally-binding Privacy Policy, and Cookie Policy.
+We are TBN ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/misc/contact/).
 
-To make it easier for you (our visitors) we've combined both policies into this one-page.
+## What information we hold about you
 
-Please ensure you read all the information on this page, and by using 'thebot.net' you agree to the information provided in this legal document.
+The type of data that we collect and process includes:
 
-Information Collected by thebot.net  
-  
-To give you the best service possible at thebot.net we collect some personal information about you, your computer and your connection. This information is stored securely and we put restrictions in-place to protect this information.
+  * Your name or username.
+  * Your email address.
+  * Your IP address.
 
-The information that we store is:
 
--Generic Information, such as; username, e-mail address, contact details (such as Skype and AIM, optional), password, country (optional) and date of birth (optional)  
-_*Optional information is not stored once changed, all old copies are removed  
-_  
--Connection Data, such as: IP Address (including proxies and mobile connections)
 
--Computer Configuration Data, such as: Operating System and Operating System Version
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
 
-Generic Information can be modified by going to your [User Control Panel](http://thebot.net/usercp.php)
+We collect some or all of this information in the following cases:
 
-Connection Data is only obtainable through site administrators, Guides and Super-Moderators. This information is kept private, apart from the third-parties aforementioned. Any user found to be sharing your information without prior approval should be reported to staff members within 7-days of noticing the issue.
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile.
 
-Computer Configuration Data is sent when loading a web-page, and is not viewable by any user, including staff members.
 
-Cookies
 
-In order for thebot.net to function correctly we are required to store some small bits of information on your computer called 'cookies'. These cookies are tiny files pertaining to important information, which include:
+## How your personal information is used
 
--Access Information, if you're logged-in then we use a cookie to remember that you are logged-in, so you can be logged-in automatically and kept logged-in
+We may use your personal information in the following ways:
 
--Viewed Pages, this information is stored when you open a page, but is removed soon after, used to show the page you're viewing and to update view-count statistics
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
+  * We may use your email address to inform you of activity on our site.
+  * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
 
-\----
 
-Any issues regarding these policies and/or complaints (such as someone sharing your information) should be reported to a staff member immediately within 7-days of the issue being first noticed.
 
-If you fail to report it within 7-days we cannot guarantee any kind of outcome.
+## Other ways we may use your personal information.
 
-Staff reserve the right to discuss select, limited details with other members in private situations, such as sharing a users IP address. However, that right can only be used in situations where:
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
 
--The staff member is investigating a scam, potential fraud or other such issue which could disrupt normal operations of thebot.net.
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
 
--Details may be passed to law enforcement where necessary
+## Keeping your data secure
 
-To discuss this policy, go here ->[ Privacy and Cookie Policy Discussion](http://thebot.net/our-community/235304-privacy-and-cookie-policy-discussion)
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
+
+## Cookie policy
+
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
+
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/help/cookies).
+
+## Rights
+
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/misc/contact/). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/misc/contact/) to ask us to complete or correct that information.
+
+You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/misc/contact/) if you would like us to remove your personal data.
+
+## Acceptance of this policy
+
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
+
+## Changes to this policy
+
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
