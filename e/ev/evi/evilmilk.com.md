@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evilmilk.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030181844id_/http%3A//www.evilmilk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilmilk.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619160315id_/https%3A//www.evilmilk.com/privacy) for the most accurate reproduction.*
 
 # Funny Pictures | EvilMilk
 
@@ -57,4 +57,4 @@ Look for Web site privacy policies. Know how your child's information is treated
 
 Check out the FTC's site ([here](https://www.consumer.ftc.gov/topics/protecting-kids-online)) for more tips on protecting children's privacy online.
 
-Return to the latest [funny pictures](http://www.evilmilk.com/)
+Return to the latest [funny pictures](https://www.evilmilk.com/)
