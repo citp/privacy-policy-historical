@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebookaddicts.net privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216235636id_/http%3A//www.ebookaddicts.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookaddicts.net privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619070550id_/http%3A//ebookaddicts.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Ebook Addicts
+# Privacy Policy – eBook Addicts
 
 This privacy policy notice is for this website; www.ebookaddcits.net and served by Fee Kelly from eBook Addicts and governs the privacy of those who use it. You can contact me at ebookaddictsuk@gmail.com if you require any further information. The purpose of this policy is to explain to you how we receive, collect use and protect your personal information while browsing or using this website, including your rights under current laws and regulations. If you do not agree to the following policy you may wish to cease viewing / using this website.
 
@@ -61,7 +61,7 @@ If, as determined by us, the lawful basis upon which we process your personal in
 **_Your individual rights_**
 
 Under the GDPR your rights are as follows. You can read more about your rights in details here;  
-<https://www.eugdpr.org/>
+[https://www.eugdpr.org/](https://eugdpr.org/)
 
 the right to be informed;  
 the right of access;  
@@ -71,7 +71,7 @@ the right to restrict processing;
 the right to data portability;  
 the right to object; and  
 the right not to be subject to automated decision-making including profiling.  
-You also have the right to complain to the ICO [[www.ico.org.uk](http://www.ico.org.uk/)] if you feel there is a problem with the way we are handling your data.
+You also have the right to complain to the ICO [[www.ico.org.uk](https://ico.org.uk/)] if you feel there is a problem with the way we are handling your data.
 
 Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at ebookaddcitsuk@gmail.com to be removed from our mailing list.
 
@@ -96,7 +96,7 @@ We have provided some further explanations about user privacy and the way we use
 **Sponsored links, affiliate tracking & commissions**  
 Our website may contain adverts, sponsored and affiliate links on some pages. These are typically served through advertising partners such as; Google Adsense, eBay Partner Network, Amazon Affiliates, or are self served through our own means. We only use trusted advertising partners who each have high standards of user privacy and security. However we do not control the actual adverts seen / displayed by our advertising partners.
 
-Clickable sponsored or affiliate links may be displayed as a website URL like this; [www.ebookaddcits.net](http://www.ebookaddcits.net/) or as a titled text link like this: [eBook Addicts](http://www.ebookaddcits.net/).
+Clickable sponsored or affiliate links may be displayed as a website URL like this; www.ebookaddcits.net or as a titled text link like this: eBook Addicts.
 
 Clicking on any adverts, sponsored or affiliate links may track your actions by using a cookie saved to your device. You can read more about cookies on this website above. Your actions are usually recorded as a referral from our website by this cookie. In most cases we earn a very small commission from the advertiser or advertising partner, at no cost to you, whether you make a purchase on their website or not.
 
@@ -113,17 +113,19 @@ The security of your Personal Information is important to us, but remember that 
 
 #### Resources & further information
 
-  * [Overview of the GDPR – General Data Protection Regulation](https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/ "Overview of the GDPR")
+  * [Overview of the GDPR – General Data Protection Regulation](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/ "Overview of the GDPR")
   * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents "Data Protection Act 1998")
   * [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made "Privacy and Electronic Communications Regulations 2003")
   * [The Guide to the PECR 2003](https://ico.org.uk/for-organisations/guide-to-pecr/ "Privacy and Electronic Comms Regulations The Guide")
-  * [Twitter Privacy Policy](http://twitter.com/privacy "Twitter Privacy Policy")
-  * [Facebook Privacy Policy](http://www.facebook.com/about/privacy/ "Facebook Privacy Policy")
-  * [Google Privacy Policy](https://www.google.com/privacy.html "Google Privacy Policy")
-  * [Linkedin Privacy Policy](http://www.linkedin.com/static?key=privacy_policy "LinkedIn Privacy Policy")
-  * [Mailchimp Privacy Policy](http://mailchimp.com/legal/privacy/ "MailChimp Privacy Policy")
-  * [Small business GDPR policy template](http://www.jamieking.co.uk/blog/cyber-security/policies/free-sample-privacy-policy.php "Small business GDPR policy template")
+  * [Twitter Privacy Policy](https://twitter.com/en/privacy "Twitter Privacy Policy")
+  * [Facebook Privacy Policy](https://www.facebook.com/about/privacy/ "Facebook Privacy Policy")
+  * [Google Privacy Policy](https://www.google.com/policies/privacy/ "Google Privacy Policy")
+  * [Linkedin Privacy Policy](http://www.linkedin.com/ "LinkedIn Privacy Policy")
+  * [Mailchimp Privacy Policy](https://mailchimp.com/legal/privacy/ "MailChimp Privacy Policy")
+  * [Small business GDPR policy template](http://jamieking.co.uk/blog/cyber-security/policies/free-sample-privacy-policy.php "Small business GDPR policy template")
 
 
 
 Privacy Notice Policy Base: v.4.0 May 2018
+
+[](https://www.pinterest.com/pin/create/button/)
