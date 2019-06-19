@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nagpurtoday.in privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731042640id_/https%3A//www.nagpurtoday.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nagpurtoday.in privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619193448id_/https%3A//www.nagpurtoday.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nagpur Today : Nagpur News
+# Privacy Policy – Nagpur Today : Nagpur News
 
 **SM e-NEWS PVT LTD (SMeNPL)** respects the privacy of it’s users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it’s users SMeNPL offers a vast repository of Online Sites and variety of community services. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf ‘SMeNPL Channels’ in detail. The information about the user as collected by SMeNPL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
