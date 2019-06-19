@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herzing.edu privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929092921id_/https%3A//www.herzing.edu/web-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herzing.edu privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619092902id_/https%3A//www.herzing.edu/web-disclaimer) for the most accurate reproduction.*
 
 # Herzing University Policy Statement
 
@@ -8,13 +8,13 @@ Herzing University has created this privacy statement in order to demonstrate ou
 
 ### Our Privacy Pledge
 
-Herzing University will use your personal information solely for the purposes of enhancing your experience with our site and to answer any questions you may have concerning our campuses. We will not sell or rent your personal information to third parties.
+Herzing University will use your personal information for the purposes of enhancing your experience with our site and your investigation of an education with our institution. As well as to answer any questions you may have concerning our campuses and programs. We will not sell or rent your personal information to third parties. We may from time to time use your email or other contact information provided herein, to enhance our ability to attract similar students as you, that might be interested in Herzing University.
 
-Herzing University's inquiry form requests that users provide contact information (such as their name, mailing address, telephone number, and email address). We use this contact information to send the user additional information about our school. A user's contact information may also be used by us to contact the user directly. Users may choose not to receive future mailings or other communications from Herzing University at any time by going to [unsubscribe.herzing.edu](http://unsubscribe.herzing.edu/).
+Herzing University's inquiry form requests that users provide contact information (such as their name, mailing address, telephone number, and email address). We use this contact information to send the user additional information about our school. A user's contact information may also be used by us to contact the user directly. Users may choose not to receive future mailings or other communications from Herzing University at any time by going to [unsubscribe.herzing.edu](http://unsubscribe.herzing.edu/). 
 
 ### Information Regarding Contacting Our Prospective Students by Telephone
 
-Herzing University is in compliance with the FCC’s Amendments to the Telephone Consumer Protection Act which went into effect 10/16/2013. This act protects consumers by regulating the way in which companies can call consumer’s cell phones and send texts to those cell phones. Specifically, consumers must give a company, "prior express consent" (achieved by checking the box on the information request form page before form submission) to agree to allow that company to deliver information about their services via text messages, automatically dialed phone messages and/or pre-recorded voice information. While consent must be given to receive information via telephone, consent is not necessary to apply to or be admitted to the university.
+Herzing University is in compliance with the FCC’s Amendments to the Telephone Consumer Protection Act which went into effect 10/16/2013. This act protects consumers by regulating the way in which companies can call consumer’s cell phones and send texts to those cell phones. Specifically, consumers must give a company, "prior express consent" (achieved by submitting the information request form) to agree to allow that company to deliver information about their services via text messages, automatically dialed phone messages and/or pre-recorded voice information. While consent must be given to receive information via telephone, consent is not necessary to apply to or be admitted to the university.
 
 This website provides links to sites of other organizations solely as a convenience to our visitors; we do not endorse these organizations nor are we responsible for the privacy practices or the content of such websites.
 
