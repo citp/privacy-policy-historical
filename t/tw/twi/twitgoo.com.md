@@ -1,88 +1,145 @@
-> *The following text is extracted and transformed from the twitgoo.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217070832id_/http%3A//twitgoo.com/a/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitgoo.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620002654id_/https%3A//twitgoo.com/privacy) for the most accurate reproduction.*
 
-# Twitgoo - Privacy Policy
+# Privacy Policy - TWITGOO
 
-## Twitgoo Privacy Policy 
+## 1\. Introduction
 
-Effective as of March 1, 2009
+Welcome to TwitGoo! This Site is operated by TwitGoo.com and has been created for users to stay on top of technology trends, product reviews, and how-to tips. From the latest technology trends to augmented reality and reveals everyday tips and insider secrets to help you uncover your best look. This Privacy Policy sets forth TwitGoo’s policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from Site visitors.
 
-Photobucket, Inc. ("Twitgoo" or "we") operates Twitgoo.com (the "Site"), which allows users to upload images, and videos and associate them with a unique URL to create online access to the images and videos for themselves and others, both on the Site and on other websites where the user posts the URL ("quick link feature"). This Privacy Policy describes Twitgoo's use and sharing of personally identifiable information ("PII"-- your full name or email address,) that Members voluntarily provide to Twitgoo when they register or update the Settings part of their Profile (also known as "Registration PII"). The Term "User" refers to a Visitor or a Member. This Privacy Policy applies to the services offered by Twitgoo, which may include the Site, image and video sharing (including the quick link feature), other features (for example, image editor), and any other features, content, mobile services, Twitgoo branded URLs or applications offered from time to time by Twitgoo in connection with Twitgoo's business (collectively, the "Twitgoo Services"). 
+BY ACCESSING, USING AND/OR DOWNLOADING THE SITE, YOU SIGNIFY YOUR CONSENT TO THIS PRIVACY POLICY, AND ALSO SIGNIFY YOUR ACCEPTANCE OF OUR TERMS OF SERVICE. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS PRIVACY POLICY, YOU SHOULD NOT ACCESS, DOWNLOAD AND/OR USE THE SITE. We encourage you to review this Privacy Policy frequently, as it may change from time to time. If you do not agree with our policies and practices, your choice is not to use the Site.
 
-The Site is a general audience site and Twitgoo does not knowingly collect PII from children under 13 years of age. ****
+The Site is primarily operated from and hosted on servers located in the United States in accordance with laws of the United States. Users of the Site should be aware that the laws of the United States may differ from those of your country of residence. By using the Site, participating in any Site activities, and/or providing us with your personal information, you: (i) consent to the transfer and processing of any information you provide; (ii) acknowledge that U.S. law provides a lower standard of protection for personal data than the laws of various jurisdictions including, but not limited to, the European Union; and (iii) understand that we will treat your information in accordance with our Privacy Policy and U.S. law. Consequently, you hereby waive any claims that may arise under the laws and regulations that apply to you in any other jurisdiction.
 
-From time to time Twitgoo may modify this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of the Twitgoo Services, or technology, and such modifications shall be effective upon posting by Twitgoo on the Site. Your continued use of the Twitgoo Services after Twitgoo posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If Twitgoo materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of, and have not objected to, the change. ****
+## 2\. Personal Information We Collect
 
-COLLECTION OF PII BY Twitgoo 
+As you may have guessed, personal information is information that personally identifies you or allows us or others to contact you. In connection with your use of the Site, you may be asked to provide your name, email address, username, and password. Personal information also may include information that may not be personally identifiable standing alone, but which may become personally identifiable when combined with personal information. Some pages and features on our Site can be visited and used without providing any personal information. For other pages, functionalities and services, you may need to provide personal information. Personal information is only collected from you when you provide it.
 
-_General_. When Twitgoo collects PII from you it is because you are voluntarily submitting PII to us in order to register as a Member of Twitgoo. Twitgoo may also collect PII from you if you choose to participate in Twitgoo Services activities like sweepstakes, contests, games and surveys, or because you want us to furnish you with products, services, newsletters, or information, or in connection with content or suggestions you submit to Twitgoo for review. Other PII including first and last name and mobile telephone numbers may also be collected. We may also obtain PII from reputable third parties.
+Please do not share your life story (it’s not that we’re not interested, and we can’t stop you) when you submit a quote to us for consideration, create an account or otherwise use this Site. We will not disclose any personal information that you provide to us except in accordance with the provisions of this Privacy Policy.
 
-In addition, Twitgoo collects other non-PII including IP address, aggregate user data, and browser type. This data is used to manage and improve the Twitgoo Services, track usage, and for security purposes. 
+## 3\. Non-Personal Information We Collect
 
-Twitgoo Members may also choose to provide or store non-PII information in their profiles, including but not limited to groups with whom they are affiliated, videos and/or pictures, (collectively "Profile Information"). The Profile Information in a Member's profile is provided at his or her sole discretion.
+We may also collect information about you that is not personal information. When you access the Site, create an account and/or submit a quote, we may collect information such as your communication and other preferences, information about your computer, devices and Internet connection, IP address, browser, operating system, referring URL, metadata, specific pages that you access on the Site or prior to or after visiting the site, the length of time you spend at the site, and other general information about our visitors. This information, on its own, cannot usually be used to identify you. We may also collect non-personal information through the use of cookies, anonymous identifiers, pixel tags, web beacons, scripts, and other similar technologies, as further discussed below. We consider any non-personal information that has been combined with personal information to be personal information.
 
-Twitgoo Members can change their Registration PII and Profile Information at any time by controlling their account settings, available within the settings portion of their Twitgoo profile. 
+## 4\. Location Data
 
-_Cookies_. Cookies are small bits of information that Twitgoo places on your computer. Twitgoo uses cookies to identify your Internet browser, store Users' preferences, and to determine whether you have installed the enabling software needed to access certain material on the Twitgoo Services. Data in cookies may be read to authenticate user sessions or provide services.
+We may request access to or otherwise receive information about your device location when you access the Site. Your location data may be based on your IP address. We use location data in connection with providing the Site and to help improve user experience with the Site.
 
-Third-party advertisements displayed on Twitgoo Services may also contain cookies set by Internet advertising companies or advertisers. Twitgoo does not control these cookies and Users of the Twitgoo Services should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. See the "Notice" section below for more information on third-party advertising.
+## 5\. Use of Information
 
-You can program your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on the Twitgoo Services.
+We may freely use non-personal information or aggregate information for any lawful purpose. We also may use any information collected on or through our Site, including your personal information, (“Collected Information”) for various purposes, including printing physical paper copies of it and turning it into an origami hat (kidding again). All jokes aside, we and our third party service providers may use Collected Information to:
 
-NOTICE: Twitgoo WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES
+  * help administer the Site and the servers that provide the Site;
+  * generate statistical information;
+  * market, promote or advertise the Site, the Content or our subscription services;
+  * monitor and analyze Site traffic and usage patterns;
+  * improve the Site’s content and content delivery, including any online content, materials, and services that we
+  * describe or make available on the Site;
+  * register and administer your membership in our subscription service;
+  * provide customer service and support;
+  * verify communications from you, respond to your inquiries and otherwise communicate with you;
+  * enforce our Terms of Service and contracts with third parties;
+  * prevent fraud and other prohibited or illegal activities or to otherwise comply with applicable laws and regulations; and
+  * for any other purpose that is permissible or required under the law, that is disclosed to you at the point of collection of personal information, or for which you provide your prior consent.
 
-When you voluntarily provide PII to Twitgoo, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses Twitgoo will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy. 
 
-At the time you provide your PII, Twitgoo will notify you of your options regarding our use of your PII (See "Choice" below). Except as described in this Privacy Policy, Twitgoo will not share your PII with third parties unless you have given Twitgoo permission to do so (See "Use" below).
 
-Twitgoo Services may be linked to Internet sites operated by other companies. Twitgoo Services may also carry advertisements from other companies. Twitgoo is not responsible for the privacy practices of websites operated by third parties that are linked to or integrated with the Twitgoo Services or for the privacy practices of third-party Internet advertising companies. Once you leave Twitgoo Services via such a link, or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
+We may specifically use IP addresses to provide aggregated data to advertisers about the volume of useage on the Site, to determine your general (but not precise) geographic location, to create and segment audiences and otherwise to target advertising, and to help identify and log potential malicious use of our Site.
 
-Twitgoo Services may also be linked to sites operated by companies affiliated with Twitgoo (i.e., that are part of the News America Group: "Affiliated Companies"). Although all Affiliated Companies adhere to the [News America corporate Privacy Principles](http://www.newscorp.com/privacy.html), Users who visit those Affiliated Company sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy.
+We may also use Collected Information and the associated statistical data we and our third party service providers generate to deliver targeted advertisements to you and other visitors of the Site. We and our third party service providers may store Collected Information for as long as needed for the purposes indicated in this Privacy Policy, which may be indefinitely.
 
-Twitgoo may use cookies and similar tools to customize the content and advertising you receive based on the Profile Information you have provided. Profile Information you provide in structured profile fields or questions (multiple choice questions like "Language") and other non-PII about you may also be used to customize the online ads you encounter to those we believe are aligned with your interests. The information used for this feature does not provide your PII or identify you as an individual to third parties. ****
+## 6\. Disclosure of Your Information
 
-Some of the advertisements that appear on the Site are delivered to you by third party Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect non-PII about your visit to or use of Twitgoo Services, including information about the ads they display, via a cookie placed on your computer that reads your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit: [http:www.networkadvertising.org/managing/opt-out.asp](http://www.networkadvertising.org/managing/opt-out.asp)
+We may freely share and disclose aggregated and other non-personal information (including anonymized information and other non-personal information that is automatically collected as you navigate through and use the Site) without restriction as permitted by law. In particular, we may share Collected Information with certain of our third party service providers (e.g., our web hosting provider whose server logs collect the non-personal information described above) in order to provide the Site to you. We may also share Collected Information with some of our business and marketing partners in furthering our mission as an organization or delivering the content, materials, and services available on or through the Site to you. We and our third party service providers may also produce reports on Site traffic, usage patterns, and similar data generated from non-personal Collected Information, and we may share these reports with our business and marketing partners and others.
 
-Third party applications (such as widgets) created by third party developers may also be available on or in connection with the Twitgoo Services. Third party applications are small bits of software, often with interactivity, that users may be able to install into profiles, use to access the Twitgoo Services, or share with other Users. However, Twitgoo does not control the third party developers, and cannot dictate their actions. When a Member engages with a third party application, that Member is interacting with the third party developer, not with Twitgoo. Twitgoo encourages Members not to provide PII to the third party's application unless the Member knows the party with whom it is interacting. 
+We reserve the right to use IP addresses to identify you and we may use and disclose any information about or relating to you, including any personal information about you, to third parties without your consent if we reasonably believe that such action is necessary to: (1) comply with a court order, search warrant, subpoena, or other legal process; (2) to comply with legal, regulatory or administrative requirements of any governmental authorities; (3) otherwise fulfill a government or law enforcement request for information; (4) establish, defend or exercise our legal rights; (5) protect or defend the Site, users, or our subsidiaries and affiliates, and all of their respective officers, directors, employees, attorneys, agents, contractors, licensors, and partners, in connection with any actual or alleged legal action, claim or dispute; (6) respond to claims that any posting or other content of our Site violates the rights of third parties, including without limitation providing information necessary to satisfy the notice and counter-notice procedures pursuant to the Digital Millennium Copyright Act; (7) in an emergency, to protect the health and safety of our Site’s users or the general public; or (8) enforce compliance with our Terms of Service or other contractual obligations.
 
-CHOICE: Twitgoo WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII
+If all or part of our company is sold, merged, or otherwise transferred to another entity, we may transfer Collected Information to such entity as part of that transaction.
 
-Except as described in this Privacy Policy, Twitgoo will get your permission before we use the PII you provide to us in a way that is inconsistent with the purpose for which it was submitted or share your PII with third parties that are not affiliated with Twitgoo.
+Every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may contract for the purpose of operating, maintaining, repairing, or otherwise improving or preserving the Site or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you.
 
-USE: Twitgoo's USE OF PII
+## 7\. Cookies and Beacons
 
-Twitgoo will only use the PII you provide in a manner that is consistent with this Privacy Policy. If Twitgoo obtains PII from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy. 
+Cookies aren’t just delicious; they also apparently have something to do with computers. Cookies help to improve your user experience and allow us to analyze our Site and to analyze and manage our advertising. These Cookies are placed on your computer when your web browser accesses the Site. While some cookies are deleted when you close your browser (session cookies), others remain even after you close your browsing session (persistent cookies).
 
-In order to locate other Twitgoo Members that you may already know in the physical world, Twitgoo allows Users to search for Members using Members' email addresses). If you have consented to receive promotional materials from Twitgoo, Twitgoo may periodically use your email address to send you such notifications related to the Twitgoo Services. If you want to stop receiving such promotional materials from Twitgoo, click the unsubscribe link at the bottom of each promotional email. 
+We use cookies to save your preferences and to recognize you when you return to the Site. We also use analytics cookies to provide data about how users interact with our Site content and advertising campaigns, such as Site traffic. In addition, we use advertising cookies to manage, track, target and serve ads through our third-party service providers. You may not be able to access the full functionality of the Site if cookies are disabled on your browser.
 
-Twitgoo employees, agents and contractors must have a business reason to obtain access to your PII. Twitgoo may share your PII with outside contractors or agents who help us manage our information activities (i.e., message boards, sweepstakes administration, order fulfillment, statistical analyses, data processing), or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests, promotions and sweepstakes.
+Most web browsers are initially set to accept cookies. If you prefer, you can set your web browser to refuse cookies or to alert you when cookies are being sent. The “Help” feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. For more information on how to manage browser cookies, see http://www.allaboutcookies.org.
 
-These outside contractors, agents or sponsors may temporarily store some information on their servers, but they may only use your PII to provide Twitgoo with a specific service and not for any other purpose without your consent. Twitgoo may also provide your PII to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PII. Twitgoo also may share your PII with Affiliated Companies if it has a business reason to do so. ****
+We also use web beacons to monitor the traffic patterns of visitors from one TwitGoo.com page to another. A web beacon is an object that is embedded in a web page and is usually invisible to you but allows us to confirm that you have viewed the web page.
 
-As described in "Notice" above, Twitgoo may customize the advertising and marketing messages you receive on the Site, or may work with outside companies to do so. Your non-PII may be shared with these companies so this customization can be accomplished. Twitgoo prohibits these companies from sharing your information with any third party or from using it for any other purpose. Anonymous click stream, number of page views calculated by pixel tags, and aggregated demographic information may also be shared with Twitgoo's advertisers and business partners. ****
+We, our service providers and other third parties may analyze the information derived from cookies, pixel tags, web beacons, scripts and other technologies and match or combine that information with data provided by you or collected or received from public and commercial sources. Please note that to the extent that third parties are using pixel tags, cookies, beacons, scripts or other tracking technologies on our Site, we do not control the use of those technologies or the resulting information, the use of which are governed by the privacy policies of those third parties.
 
-There may be instances when Twitgoo may access or disclose PII or non-PII without providing you with a choice in order to: (i) protect or defend the legal rights or property of Twitgoo, our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of Users of the Twitgoo Services or members of the public, including acting in urgent circumstances; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law or legal process. In addition, if Twitgoo sells all or part of its business or makes a sale or transfer of all or a material part of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Twitgoo may transfer your PII to the party or parties involved in the transaction as part of that transaction.
+If you’re new to the Internet, please don’t try dunking your mouse in milk and eating it; this is the Number One complaint we get after users read our Privacy Policy.
 
-If you register to use the Site, you may designate your Profile as "Private". ** __** Profiles designated as "Private" will not be accessible to anyone but the Member although individual images or video may still be viewable by anyone with access to the URL associated with the image or video (whether on Twitgoo or as displayed elsewhere via the quick link feature). 
+## 8\. Online Tracking / “Do Not Track” Signals
 
-SECURITY: Twitgoo PROTECTS THE SECURITY OF PII
+Some web browsers may give you the ability to enable a “Do Not Track” setting that sends a special signal to the websites you encounter while web browsing that you do not want to have your online activities tracked. Our systems do not recognize browser “Do Not Track” signals. If we do so in the future, we will update this Privacy Policy to describe how we respond to such signals. We may work with third parties that use tracking technologies on the Site, including in order to serve tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These and other third parties may collect information about your activity on the Site over time, as well as your interaction with our advertising and other communications, and use this information to determine which ads you see on third-party websites and apps based on your apparent interests. This is known as interest-based advertising. For more information about this practice and to understand your options, please visit http://www.networkadvertising.org/ or http://www.aboutads.info. To learn more about Do Not Track, visit http://www.allaboutdnt.com/.
 
-Twitgoo uses commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and credit card information in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, Twitgoo uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. 
+## 9\. Our Third-Party Service Providers
 
-ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENCES REGARDING YOUR PII AND HOW TO CONTACT Twitgoo ABOUT PRIVACY CONCERNS
+Advertising agencies, advertising networks, and other companies may place advertisements on the Site, and on the Internet generally, and may use their own cookies, web beacons, and other technology to collect information about you. We do not control the use of such technology and have no responsibility for the use of such technology to gather information about you. Several of our service providers who utilize cookies and other tracking technologies on our Site enable you to opt out of their internet-based advertising.
 
-Whenever possible, Twitgoo Members may review the Registration PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member informs us is incorrect. If you are a Member, you can view and change your Registration PII, Member preferences and Profile Information by logging into the settings portion of your Twitgoo account.
+While the companies we work with may change from time to time, below is a list of our current third-party service providers, which we allow to collect and use information about you through our Site:
 
-If you would like to communicate with us about this Privacy Policy or Twitgoo's collection and use of your PII please contact Twitgoo at:
+  * Google Analytics, as a third party vendor, uses cookies to help us identify anonymous user interests, identify anonymous user demographics and to display advertising to previous visitors to this site. Google Analytics uses a cookie to provide analysis, anonymous interest data, and anonymous demographic data from visits to our sites and other sites on the Internet. Users may opt out of the use of the Google Analytics cookie by visiting the [Google Analytics Opt-out Browser Tool](https://tools.google.com/dlpage/gaoptout/). Tracking of users through the Google Analytics cookie mechanisms are subject to Google’s own privacy policies.
+  * We use Google DART to serve ads on the Site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our Site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html). Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+  * We use RadiumOne to identify and collect anonymous user interests on our Site and to display targeted ads to users on our Site. For more information about RadiumOne and how it collects and processes data, please see RadiumOne’s Privacy Policy. You can opt-out of RadiumOne targeted advertising based on data collected via your browser by visiting the [RadiumOne Preference Manager](http://www.radiumone.com/opt/).
+  * We use Sonobi to identify and collect anonymous user interests on our Site. For more information about Sonobi and how it collects and processes data, please visit its Privacy Policy. You may opt-out of Sonobi’s collection of data via your browser by visiting the [Sonobi Out-out page](https://sonobi.com/welcome/opt-out.php).
+  * We use Yieldbot to identify anonymous user interests on our Site (starting to notice a pattern here?). For information about Yieldbot and how it collects and processes data, please visit its Privacy Policy. You may opt-out of Yieldbot’s collection of data via your browser by using the [Yieldbot Privacy Policy Opt-out](http://yieldbot.com/privacy-policy.html#opt-out).
+  * We use Amazon to identify and collect anonymous user interests on our Site and to display ads to users on our Site. For information about Amazon and how it collects and processes data, please visit its Privacy Statement. You may opt-out of Amazon’s collection of data via your browser by visiting the [Amazon Advertising Preferences Opt-out](https://www.amazon.com/gp/dra/info).
 
-Email: 
 
-privacy@twitgoo.com
 
-Mail: 
+Some of our digital advertising service providers are members of the Network Advertising Initiative or the Digital Advertising Alliance, each of which offer a single location to opt-out of certain ad targeting from member companies. To learn more about interest-based advertising generally as well as your options for opting out, please visit [Network Advertising Initiative](https://www.networkadvertising.org/choices/) or [About Ads](http://www.aboutads.info/choices/). In addition, the Federal Trade Commission provides useful information about online privacy on its own website at [FTC Privacy Site](https://www.consumer.ftc.gov/topics/privacy-identity). Please keep in mind that even if you opt out of receiving ads tailored to your apparent interests, you will continue to see ads from online advertising networks. However, those networks will not be able to apply any of your apparent ad preferences and the ads that you see therefore may be less relevant to your interests.
 
-PO Box 13003 
+## 10\. Third Party Websites
 
-Denver, CO 80201 
+We may link to third party websites from our own Site. We have no control over, and are not responsible for, these third party websites or their use of your personally identifiable information. This Privacy Policy does not apply to those websites or ads and we are not responsible for the content found on or the actions or privacy practices employed by any other website or app.
 
-|   
----|---
+The Site may also offer you the ability to interact with social plugins from social media sites, such as Facebook (facebook.com), Google+ (plus.google.com), Twitter (twitter.com), and Pinterest (pinterest.com). The social media sites may receive data when you visit a website that has plugins. In some cases, we may know that you clicked on a social plugin such as a Facebook Like button, or receive other information from the social media sites. Similarly, if you have previously provided personally identifiable information to a third-party operating a plug-in on this website, then this third-party may recognize you on the Site. Your use of social media plugins is subject to each social media site’s privacy policy, which may be different from ours.
+
+We recommend that, if you have a ridiculous amount of free time (and nothing better to do), you review their privacy policies and other agreements governing your use of their website. Once you do, you should report back to us in a detailed and meticulously proofread memorandum explaining all of these websites, so we may immediately put it to use under that corner of the table that is lower than the rest.
+
+## 11\. Law Enforcement
+
+We may disclose your information to a third party where we believe, in good faith that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter. We may also use and disclose information about you to establish or exercise our legal rights, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person.
+
+In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. Chances are that if the police are looking into your activities on a quote website, you’ve really got issues.
+
+## 12\. Security of Information
+
+We make no guarantees as to the security or privacy of your information. It is in our interest to keep the Site secure, and we take reasonable steps to protect against the unauthorized access, disclosure, misuse, alteration and destruction of the personal information under our control. We recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats. If you become aware of any breach of Site security or this Privacy Policy, please notify us immediately. (Be the third pig, not one of the first two.)
+
+## 13\. California Online Privacy Protection Act
+
+Under Section 1798.83 of the California Civil Code, California residents that have an existing business relationship with us may request information about our disclosure of certain categories of personal information to third parties for the third parties’ direct marketing purposes. To make such a request, email us with the subject heading “California Privacy Rights.” In your request, please confirm that you are a California resident and provide a current California address for our response.
+
+Please be aware that not all information sharing is covered by the California privacy rights requirements and only information on covered sharing will be included in our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted to addresses other than the email address specified in this section.
+
+## 14\. Changes to this Privacy Policy
+
+We may change or update this Privacy Policy from time to time, and the amended version will be posted on the Site in place of the old version. You can identify the date that this Privacy Policy was last updated by looking at the date at the bottom of this Privacy Policy. Any changes to this Privacy Policy will take effect upon posting to the Site. Use of the Site following posted changes constitutes your acceptance of the revised Privacy Policy then in effect. If you do not agree to the new Privacy Policy, you must immediately cease using our service.
+
+## 15\. Location of this Site
+
+This Site is hosted and operated in the United States. However, we and our third party service providers may, in our effort to provide the Site, store Collected Information in the United States, or we may transfer it to, and store it within, other countries.
+
+## 16\. Communication With Children
+
+We encourage parents and guardians to spend time discussing with minors their online activity, so as to be fully familiar with the websites they visit and the apps they use. Our Site is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Site. If you are under 13, do not use this Site, register an Account, or provide any information about yourself to us, including your name, email address, user name, or password.
+
+It is possible, through fraud or deception, that we may receive personal information from an individual under the age of 13. If we are notified or otherwise become aware of this, we will take reasonable steps to delete that information in accordance with applicable law. If you are the parent or guardian of a child under the age of 13 and you believe your child has provided personal information on our Site without your consent that you would like us to delete, please email us.
+
+## 17\. Contact
+
+Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, please [contact us](https://twitgoo.com/contact/).
+
+## 18. Copyright Policy
+
+To review the TwitGoo Copyright policy, please [click here](https://twitgoo.com/copyright/).
+
+We hope you have enjoyed reading our fascinating Privacy Policy. We are not sure why you have so much time on your hands, but congratulations on your life of leisure.
+
+Last updated: September 28, 2018
+
+Copyright 2009 – 2018 TwitGoo.com All Rights Reserved.
