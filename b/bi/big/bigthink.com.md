@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the bigthink.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921125831id_/https%3A//bigthink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigthink.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619042940id_/https%3A//bigthink.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Big Think
 
-The Big Think, Inc. ("Big Think") knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Big Think's website at http://www.bigthink.com ("bigthink.com"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+_Last Updated: March 29, 2019_  
+
+
+The Big Think, Inc. ("Big Think") knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Big Think's website at [http://www.bigthink.com](http://www.bigthink.com/) ("bigthink.com"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 ### What Does This Privacy Policy Cover?
 
@@ -28,6 +31,10 @@ Most browsers have an option for turning off the cookie feature, which will prev
 
 Ads appearing on bigthink.com may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Big Think and does not cover the use of cookies by any advertisers.
 
+### Data Collected Via Tags
+
+Big Think may partner with third parties, such as Quantcast, to allow these partners to collect data via cookies and tags for the purpose of interest-based advertising. A tag is a snippet of code inserted into Big Think's website content that is used to collect data related to a website visit. Information collected by partners may include browser type, browser time, time of access, screen resolution, IP address, referring site URL, current site URL, and search strings. To opt-out of interest-based advertising, please visit <http://optout.networkadvertising.org/?c=1>.
+
 ### Will Big Think Share Any of the Personal Information it Receives?
 
 Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
@@ -52,6 +59,10 @@ Big Think endeavors to protect user information to ensure that user account info
 Bigthink.com contains links to other sites. Big Think is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on bigthink.com.
 
 Please be aware that whenever you voluntarily post information to public areas on bigthink.com or any other public forums, such information can be accessed by the public.
+
+### Do Not Track Disclosure
+
+Do Not Track is a privacy preference that users can set in their web browsers. When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user. At this time, we do not respond to Do Not Track browser settings or signals. For information about Do Not Track, please visit: [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
 ### What Personal Information Can I Access?
 
