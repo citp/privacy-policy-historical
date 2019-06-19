@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcrosswords.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212062019id_/http%3A//webcrosswords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcrosswords.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619174409id_/http%3A//webcrosswords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Crossword Puzzles | WebCrosswords.com
 
@@ -67,8 +67,8 @@ We reserve the right to change this Privacy Policy from time to time. Before usi
 If you have questions or comments about this privacy policy, please contact us. But note that whether or not you have questions or comments, use of our site indicates your agreement to the terms hereof as written.  
 
 
-Rating: 1.0/ **5** (1 vote cast)
+Rating: 1.8/ **5** (4 votes cast)
 
-Privacy Policy, 1.0 out of 5 based on 1 rating 
+Privacy Policy, 1.8 out of 5 based on 4 ratings 
 
 **Category** : [none](http://webcrosswords.com/puzzles/none/ "View all posts in none")
