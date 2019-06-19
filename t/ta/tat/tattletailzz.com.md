@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tattletailzz.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219120339id_/http%3A//tattletailzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattletailzz.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619193735id_/http%3A//tattletailzz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tattle Tailzz
+# Privacy Policy – Tattle Tailzz
 
 **Privacy Policy**
 
