@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angryduck.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111145334id_/http%3A//www.angryduck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angryduck.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619193916id_/https%3A//www.angryduck.com/privacy) for the most accurate reproduction.*
 
 # AngryDuck Privacy Policy
 
@@ -16,4 +16,4 @@ Know the sites your kids are visiting and which sites are appropriate.
 Look for Web site privacy policies. Know how your child's information is treated.   
 Check out the FTC's site (1) for more tips on protecting children's privacy online.
 
-[Click Here to Return to the home page](http://www.angryduck.com/)
+[Click Here to Return to the home page](https://www.angryduck.com/)
