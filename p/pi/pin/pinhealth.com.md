@@ -1,80 +1,53 @@
-> *The following text is extracted and transformed from the pinhealth.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinhealth.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620012107id_/https%3A//www.pinhealth.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Privacy Policy – Pin Health
 
-[Home](https://www.hugedomains.com/) _ _ Privacy Policy
+1\. In this policy, Pinhealth.com (a website managed and owned by Medlife International Private Limited) shall be collectively referred to as "we", "our", "us" or “Company” and the privacy mechanism outlined identify personally identifiable or personal information that may be collected, how such information is used, and the choices you have regarding our use of this information. The terms that are not otherwise defined herein shall have the same meanings as ascribed under Conditions of Use.
 
-**What information do we collect?**
+1.1.      In addition to the terms stated in Conditions of Use Agreement provided under this website [www.pinhealth.com](http://www.pinhealth.com/) (“Website”), we are committed to protecting your privacy. Authorized representatives of Company on a need to know basis only, shall use any information received from you for rendering services. We constantly review our systems and data to secure your personal and health information. We will investigate any complaint or such actions with a view to prosecuting and/or taking civil proceedings to recover damages against those responsible. Any user who does not agree with any provisions of the same is required to leave and exit the Website immediately and stop using the Services. Should you disagree with policy and still continue to use/access the Website and provide your personal information, Company disclaim all the liabilities arising therefrom.
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+**2\. Applicability:** This privacy policy applies to all users who access or use the Website and therefore are required to read and understand the privacy policy before submitting any Personal Information. If you have inadvertently submitted any such information to Company prior to reading the privacy statements set out herein, and you do not agree with the manner in which such information is collected, stored or used, then you may access, modify and delete all information stored about You by sending an email to contact@pinhealth.com. Company is keeping personal data of the user, and every user is also entitled to request Company to delete and destroy all such information (but not that of other users) submitted by him/her to the Company.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+**3\. Automatic Information Collection:**
 
-**What do we use your information for?**
+**3.1.       Cookies:** We use cookies and similar technologies to collect information. We use cookies and similar technologies, including Website identifiers, to help us recognize you, improve your experience, increase security, measure use and effectiveness of our Website. You can control cookies through your browser settings and other tools. By using our Website, you consent to the placement of cookies and beacons in your browser and HTML-based emails in accordance with this Privacy Policy.
 
-Any of the information we collect from you may be used in one of the following ways: 
+**3.2.       Log Files, IP Addresses, and Information about Mobile Device**: We collect information from the devices and networks that you use to access our services. We also receive the internet protocol (“IP”) address of mobile device (including your mobile device identifier provided by your mobile device operating system), your mobile operating system, and the name of your ISP or your mobile carrier. We may also receive location data passed to us from third-party service or GPS-enabled devices that you have set up, which we use to show your local information on our Websites and for fraud prevention and security purposes.
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+**3.3.       Other:** We are constantly innovating to improve our service, which means we may create new ways to collect information on our Website. We often introduce new features, some of which may result in the collection of new information. If we start collecting substantially new types of personal information and materially change how we handle your data, we will modify this Privacy Policy and the revised terms shall be automatically applicable to you.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+**4\. Information Collected:** User may be allowed to access the Website, place orders and avail services as a guest or a registered user, Company takes no responsibility to validate the information provided by you, except as otherwise required under any law, regulation or an order of competent authority. In order to have access to all the features and benefits on our Website, a user is/may be required to install and create an account on our Website. To create an account, a user is required to provide the Personal Information as may be required under the Application / Registration / Prescription Request Form. Other information requested on the registration page, including the ability to receive promotional offers from Company, is optional. Company may, in future, include other optional requests for information from the user to help Company to customize its Website to deliver personalized information to the user. Without your consent, Company will not share, rent or sell any personal information with third parties in any way other than what is disclosed in this privacy policy. Company may keep records of telephone calls received and made for making enquiries, orders, feedback or other purposes for the purpose of rendering services effectively and efficiently.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+**5\. Personal Information** : Personal Information shall mean the information which identifies the User, name, identification number email address, age, phone number, password, health record (including the name of the doctor) or any financial account information provided to Company at the time of registration or any time thereafter.
 
-• To process transactions
+5.1.      This privacy policy applies to this Website and services that are owned and operated by Company. Company has taken all reasonable precautions to treat Personal Information as confidential and that it has implemented security measures to protect from unauthorized access, improper use or disclosure, modification and unlawful destruction or accidental loss of the Personal Information.
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+5.2.      All information provide by you to the Company shall be used for generating reports and rendering additional services. Should you require access to the reports or such other information that is generated using the technology and other skills by Company, its employees or representatives, Company may at its sole discretion provide the same to you for a service fees, as may be applicable and amended from time to time.
 
-• To send periodic emails
+**6.1.       Use of your personal information:** While availing our services you or your authorised representative will provide access to Company with your personal information. If that information is wrong, you can request us to modify or delete the same. Company will take all reasonable measures to ensure that the information is modified and used for rendering services to you and as otherwise in compliance with laws. When editing or deleting personal information, we may ask you to verify your identity before we can act on your request. Company may at its discretion reject any request that is contrary to law, requires un-reasonable technical efforts. We do not assure that we will delete all residual copies and archives made by any third party without our knowledge and consent.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+6.2.      Use and Disclosure to Third Parties: Company may have to use Personal Information without reference to any person or identity, for research, statistical analysis and business intelligence purpose and may sell or otherwise transfer such research, statistical or intelligence data in an aggregated or non-personally identifiable form to third parties and affiliates. Company may also disclose or transfer your personal and other information which you provide to us, to another third party as part of reorganization or a sale of the assets of a Company corporation division or company. Any third party to which Company transfers or sells its assets will have the right to continue to use the personal and other information that you provide to us.
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+6.3.      All Company employees and data processors, who have access to, and are associated with the processing of sensitive personal data or information, are obliged to respect the confidentiality of every your sensitive personal data and information.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+6.4.      To the extent necessary to provide you the services on the Website, Company may provide their Personal Information to third party contractors who work on behalf of or with Company to provide you with such services. Generally these contractors do not have any independent right to share this information, however certain contractors who provide services on the Website, including the providers of online communications services, will have rights to use and disclose the personal information collected in connection with the provision of these services in accordance with their own privacy policies.
 
-**How do we protect your information?**
+**7\. Acknowledgement.** You authorise the Company to store all your personal information including the details of your orders in an electronic encrypted format as required under applicable laws by the Company or with a third party contractor / intermediary or technology partner. You understand that such personal information will not be disclosed to any third party without your express permission and you have option to access or request deletion of the same at any time.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+**8\. Exceptions.** Your Personal Information may be shared with third parties who have a need or authority to receive such information, if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to comply with (i) in response to any authority having to receive such information under law (ii) any order of court (iii) detect, prevent, or otherwise address fraud, security or technical issues (iv) protect against harm to the rights, property or safety of Company, our users or the public as required or permitted by law (v) information which is available in public domain.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+**9\. Other Terms** : You agree to provide us your Personal Information if you wish to avail any services as provided in Company and the same is used to identify yourself. Company Representative may request you either by email, phone or letter / courier certain Personal Information (such as full legal name, address, name of your doctor, Goods that are consumed etc.,) and such other information that may be required from time to time. Company may use the Personal Information and make any analysis or understand the trends of your Personal Information and lifestyle through a certified officer, you authorise us to share the same for a limited purpose of rendering services to you. Company will exclusively own such data and records, unless you opt to subscribe to receive the same from Company.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+9.1.      Company does not make any unsolicited calls or otherwise market any products or services, except for in relation to the Services, offers and other additional services for which such information has been provided or taking any feedback, sending transactional messages or addressing the complaints. At any time you can opt out to receive such communication from Company by contacting us. You shall not disclose any Personal Information to any third Parties not authorised by Company and verify the identity of such personal who seek information. Company will communicate with you through email and notices posted on the Website or through other means available through the service, including text and other forms of messaging. You can change your email and contact preferences at any time by logging into your account or by calling the customer support or such or mode available from time to time.
 
-**Do we use cookies?**
+9.2.      Company may, if you so choose, send direct mailers to you at the address given by you. You have the option to 'opt-out' of this direct mailer by way of links provided at the bottom of each mailer. We respect your privacy and to the extent that you choose not to receive such mailers, we will take all steps to remove you from the list. Any violation of our terms and policies may be brought our notice by writing to us at contact@pinhealth.com or call us on our customer support. You may be required to authenticate your identity by disclosing certain Personal Information to our executives, but you will not be required to disclose any sensitive personal information such as bank account details, you user id, passwords etc.,
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+9.3.      All the information provided to Company either by you directly or through your authorised representative, including sensitive personal information, is true, accurate and voluntary.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+9.4.      Right to withdraw: You have the right to withdraw information at any time, in accordance with the terms of this privacy policy and the Terms of Use by writing to us at contact@pinhealth.com.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+9.5.      Company may update or amend this privacy policy at any time, with or without advance notice. In the event there are significant changes in the way Company treats your personally identifiable information, Company will display a notice on the Website or send you an email. Company's current privacy policy applies to all information that Company has about you in your account. Notwithstanding the above, Company shall not be required to notify any changes made to the privacy policy.
 
-**Do we disclose any information to outside parties?**
+**10\. Complaints and Feedback** : Should you have any concern or reject the changes in the privacy policy you can refuse to accept the amendments and opt for withdrawing your Personal Information by writing to us at contact@pinhealth.com.
 
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Terms and Conditions**
-
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 1/10/2012 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
-
-HugeDomains.com
+If you have any complaint or grievance with respect to Website or this Privacy Policy please contact us at contact@pinhealth.com.
