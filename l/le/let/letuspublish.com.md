@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letuspublish.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214155329id_/http%3A//www.letuspublish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letuspublish.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619084300id_/http%3A//www.letuspublish.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Let Us Publish
 
