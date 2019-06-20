@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the merchantshares.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107185958id_/https%3A//www.merchantshares.com/privacy-spam-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantshares.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620091107id_/https%3A//www.merchantshares.com/privacy-spam-policy) for the most accurate reproduction.*
 
-# Privacy & Spam Policy - Merchant Shares — A Service Merchants Corp. company
+# Privacy & Spam Policy - Merchant Shares — Crypto Investment Business — A Service Merchants Corp. company
 
 ## Privacy Policy
 
@@ -60,3 +60,25 @@ Merchant Shares may undertake, at the sole discretion of its management team and
 Account Suspension: Upon the receipt of a credible complaint, Merchant Shares may immediately suspend the membership of the individual implicated in the abuse. Suspension is intended to prevent the abuser from benefiting from their abusive activities by prohibiting the offender from registering referrals. After a thorough investigation, if the spamming incident is verified, but does not rise to the level of a terminable offense, Edenloops may lift the suspension.
 
 Account Termination: Upon the receipt of a credible complaint, Merchant Shares may immediately terminate the membership of the individual implicated in the abuse. Termination results in the immediate closure of the account, the loss of all referrals, and a prohibition against any future membership.
+
+  
+
+
+## Cookies Policy
+
+We use persistent cookies to support a smooth user experience. This cookie remains on your computer after you close your browser and may be used by your browser on subsequent visits to our websites. We also use cookies to better understand how you interact with our websites and services and to improve our websites and services overall.
+
+### Cookies we use
+
+Cookie| Name| Purpose| More information  
+---|---|---|---  
+Site cookie acceptance| _cookies_accepted| This cookie is used to record if a user has accepted the use of cookies on our website.| To withdraw your consent after accepting this cookie, delete the _cookies_accepted cookie. Find out how at [www.aboutcookies.org](https://www.merchantshares.com/go/c83e8516/https://www.aboutcookies.org)  
+Manage User session| web.ms  
+auth| These cookie are used to track the visitor activity and identify the authenticated user.| These cookies are used to identify returnng visitor and authenticated user to show the personalized details and statistics about individual user.  
+Cloudflare| __cfduid| This cookie is strictly necessary for site security operations and can't be turned off.| Find out more about Cloudflare's cookie `__cfduid` please visit [What does the Cloudflare cfduid cookie do?](https://www.merchantshares.com/go/f124b34d/https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-)  
+Tawk| TawkConnectionTime  
+__tawkuuid  
+Tawk_[0-9a-z]{24}| These cookies are used by tawk.to (live chat service provider) to identify and track visitors to help chat agents to communicate with users.| Find out more about Tawk's privacy policy please visit [www.tawk.to/privacy-policy/](https://www.merchantshares.com/go/c792259c/https://www.tawk.to/privacy-policy/)  
+  
+If you do not wish to have cookies placed on your computers, please set your browsers to refuse cookies before visiting our websites and using our services.
+  *[[0-9a-z]{24}]: Alphanumeric characters of length 24.
