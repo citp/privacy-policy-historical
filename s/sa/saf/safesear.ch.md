@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safesear.ch privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215212242id_/http%3A//www.safesear.ch/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safesear.ch privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620043051id_/http%3A//www.safesear.ch/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
