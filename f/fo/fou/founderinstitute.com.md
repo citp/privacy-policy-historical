@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the founderinstitute.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922002402id_/https%3A//fi.co/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the founderinstitute.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620145306id_/https%3A//fi.co/policy) for the most accurate reproduction.*
 
-# Founder Institute: World's premier idea-stage accelerator and startup launch program.
+# Founder Institute: World's premier idea-stage accelerator & startup launch program.
 
 Effective date: May 25, 2018
 
