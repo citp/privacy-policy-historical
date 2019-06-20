@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poughkeepsiejournal.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619085503id_/http%3A//static.poughkeepsiejournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poughkeepsiejournal.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620222430id_/https%3A//cm.poughkeepsiejournal.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | Poughkeepsie Journal
+# static.poughkeepsiejournal.com
 
 Last Updated: May 14, 2018
 
