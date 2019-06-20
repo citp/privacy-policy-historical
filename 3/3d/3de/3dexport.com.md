@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dexport.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004071724id_/https%3A//help.3dexport.com/item/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dexport.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620150723id_/https%3A//help.3dexport.com/item/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – 3DExport Help Center
 
@@ -181,6 +181,6 @@ Thank you!
 
 ### Rate This Article
 
-(230 out of 380 people found this article helpful) 
+(251 out of 432 people found this article helpful) 
 
 ### Related Articles
