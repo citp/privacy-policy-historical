@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vampirefreaks.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220034229id_/https%3A//vampirefreaks.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vampirefreaks.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620182500id_/https%3A//vampirefreaks.com/site/privacy) for the most accurate reproduction.*
 
 # VampireFreaks
 
