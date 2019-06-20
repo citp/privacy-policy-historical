@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apics.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230044011id_/http%3A//www.apics.org/about/contact/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apics.org privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620211732id_/http%3A//www.apics.org/about/contact/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # APICS - Online Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Effective November 20, 2018
 
-APICS respects your privacy as a visitor to its website and has developed the following privacy policy to inform you about how APICS handles your personal information after receiving it. This Privacy Policy governs APICS use of your information both on the APICS website (http://[www.apics.org](http://www.apics.org/)), and on the APICS Membership App, as well as by APICS Supply Chain Council, Inc., as well as APICS d/b/a “Association for Supply Chain Management”, and APICS d/b/a “ASCM”.
+APICS respects your privacy as a visitor to its website and has developed the following privacy policy to inform you about how APICS handles your personal information after receiving it. This Privacy Policy governs APICS use of your information both on the APICS website (http://[www.apics.org](http://www.apics.org/)), and on the ASCM Membership App, as well as by APICS Supply Chain Council, Inc., as well as APICS d/b/a “Association for Supply Chain Management”, and APICS d/b/a “ASCM”.
 
 Please read this Online Privacy Policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this Policy. This Policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the Policy periodically for updates. 
 
@@ -36,7 +36,7 @@ By using the APICS website, you agree to allow APICS and its agents to gather, s
     2. Specific types of data we collect about you. We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows: 
       1. Identity Data includes first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender.
       2. Contact Data includes billing address, delivery address, email address and telephone numbers.
-      3. Financial Data. When you use APICS website to shop for or to purchase APICS memberships, certification courses, certification testing, or other materials, APICS utilizes third-party payment processors as its agents (“Payment Agents”) to process your payment and provide payment verification to APICS concerning your payment. APICS and its Payment Agents utilize systems whereby we substitute a proxy set of identifying information for your real financial information. Our Payment Agents, which do handle your credit cards and other payment information, are PCI Data Security Standard (“PCI DSS”) compliant. As a result, APICS does not collect or store your credit card numbers or other similar financially-related Personal Information and it isn’t exposed more than necessary. For more information about PCI DSS please visit <https://www.pcisecuritystandards.org/about_us/>. 
+      3. Financial Data. When you use APICS website to shop for or to purchase ASCM Memberships, certification courses, certification testing, or other materials, APICS utilizes third-party payment processors as its agents (“Payment Agents”) to process your payment and provide payment verification to APICS concerning your payment. APICS and its Payment Agents utilize systems whereby we substitute a proxy set of identifying information for your real financial information. Our Payment Agents, which do handle your credit cards and other payment information, are PCI Data Security Standard (“PCI DSS”) compliant. As a result, APICS does not collect or store your credit card numbers or other similar financially-related Personal Information and it isn’t exposed more than necessary. For more information about PCI DSS please visit <https://www.pcisecuritystandards.org/about_us/>. 
       4. Transaction Data includes details about payments to and from you and other details of APICS products and services you have purchased from us.
       5. Technical Data includes internet protocol (IP) address, your APICS login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access this website.
       6. Profile Data includes your APICS username and password, APICS purchases or orders made by you, your interests, preferences, feedback and survey responses.
@@ -62,7 +62,7 @@ It is important that the personal information we hold about you is accurate and 
 
   3. Security of Personal Information
 
-APICS takes the security of your Personal Information very seriously. When your Personal Information is stored by APICS, we use reasonable and appropriate measures to protect it from loss, misuse and unauthorized access, disclosure, alteration and destruction. Unfortunately, data transmission over public networks cannot be guaranteed to be one hundred percent secure. While APICS will use all reasonable means to protect your Personal Information, APICS cannot guarantee the security of your transmissions of such Personal Information, and you use the APICS website at your own risk. If you suspect your Personal Information has been compromised, please notify APICS Customer Service using the contact information provided below. 
+APICS takes the security of your Personal Information very seriously. When your Personal Information is stored by APICS, we use reasonable and appropriate measures to protect it from loss, misuse and unauthorized access, disclosure, alteration and destruction. Unfortunately, data transmission over public networks cannot be guaranteed to be one hundred percent secure. While APICS will use all reasonable means to protect your Personal Information, APICS cannot guarantee the security of your transmissions of such Personal Information, and you use the APICS website at your own risk. If you suspect your Personal Information has been compromised, please notify ASCM Customer Relations using the contact information provided below. 
 
   4. How we Collect Your Personal Information. We use different methods to collect data from and about you including through the following methods. 
     1. Direct interactions. You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you: 
@@ -97,13 +97,13 @@ Based on the information we gather, we may use targeted advertising from third p
 
 In creating an APICS ID, and as a condition of having an APICS ID, you expressly consent to APICS’ use of your Personal Information and non-personally identifiable information as described in this section. Moreover, in using an APICS ID you expressly acknowledge and agree to our collection and use of such information as described in this section.
 
-You can opt-out of the use of your Personal Information as described in this section by deleting your APICS ID. To delete your APICS ID, please contact APICS Customer Service using the contact information provided below. 
+You can opt-out of the use of your Personal Information as described in this section by deleting your APICS ID. To delete your APICS ID, please contact ASCM Customer Relations using the contact information provided below. 
 
     3. Other APICS Services.
 
 APICS may use your Personal Information to provide services to you upon your request. Such services may include sending you newsletters and publications, responding to your questions and comments, communicating with you concerning your purchases on the APICS website, emailing you updates concerning APICS products and services, and personalizing your visits to APICS website. 
 
-You may opt-out of the use of your Personal Information as described in this Section by contacting APICS Customer Service using the contact information provided below.
+You may opt-out of the use of your Personal Information as described in this Section by contacting ASCM Customer Relations using the contact information provided below.
 
     4. Certification Verification. 
 
@@ -122,7 +122,7 @@ APICS may also share your Personal Information with other APICS offices or APICS
       4. APICS may share aggregated demographic information with our partners and advertisers. This is not linked to any Personal Information that can identify any individual person.
       5. APICS uses outside third parties to ship orders and financial service-oriented third parties to bill users for goods and services. All parties with which APICS shares your Personal Information are bound by confidentiality and data transfer agreements consistent with this Online Privacy Policy and the Privacy Shield Principles.
       6. APICS may partner with third parties to provide other specific services, including, but not limited to registration for APICS conferences, APICS certifications, Trainer the Trainer classes, and other APICS program and educational materials. When the user signs up for these services, we may share names, or other contact information that is necessary for the third party to provide these services. APICS may auto-populate forms utilized by these third parties with data contained in APICS managed cookies. These third parties are not allowed to use your Personal Information except for the purpose of providing these services. All parties with which APICS shares your Personal Information are bound by confidentiality and data transfer agreements consistent with this Online Privacy Policy and the Privacy Shield Principles.
-      7. APICS may share email information with third parties who provide a pay-per-use list rental service in order to allow APICS members to provide mailed content to other APICS’ members.
+      7. APICS may share email information with third parties who provide a pay-per-use list rental service in order to allow ASCM Members to provide mailed content to other APICS’ members.
     7. Other Possible Disclosures. 
 
 In addition to the other disclosures stated herein, APICS may share your information in the following ways:
@@ -219,7 +219,7 @@ To manage our relationship with you which will include:
 
 (b) Asking you to leave a review or take a survey
 
-(c) Managing APICS member services.
+(c) Managing ASCM Member services.
 
 (d) Administering, maintaining monitoring, and managing APICS certifications, and related examinations and programs.
 
@@ -338,10 +338,10 @@ Necessary for our legitimate interests (to develop our products/services and gro
     2. To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.
   9. APICS Email Uses 
     1. APICS never rents or sells email addresses to outside parties without your consent. Occasionally, you may wish to receive information or communication from an APICS client. In that instance, you will be asked for permission to share your email address.
-    2. After you create an online account with APICS, you will receive information about APICS products, services, and educational offerings that relate to your areas of interest unless you choose to opt-out. If you have questions or concerns about APICS' Online Privacy Policy or wish to no longer receive such offers (opt-out), please contact APICS Customer Service using the contact information provided below.
+    2. After you create an online account with APICS, you will receive information about APICS products, services, and educational offerings that relate to your areas of interest unless you choose to opt-out. If you have questions or concerns about APICS' Online Privacy Policy or wish to no longer receive such offers (opt-out), please contact ASCM Customer Relations using the contact information provided below.
     3. In your use of the website, you may have opportunity to send emails to recipients who are not APICS employees. In such cases, the website will trigger an html [mailto:](mailto:) link, which will open the email client program resident on your computer. You bear the risk of sending email to such non-APICS email addresses through your email client program, and APICS has no control related to emails sent to non-APICS personnel. 
   10. How to Access or Change Your Personal Information
-    1. To review or make changes to the content of your Personal Information, or to request that we limit the use of your Personal Information, you may make changes and updates by logging into your user profile and making such changes. Alternatively, you may request such changes by contacting APICS Customer Service using the contact information provided below. 
+    1. To review or make changes to the content of your Personal Information, or to request that we limit the use of your Personal Information, you may make changes and updates by logging into your user profile and making such changes. Alternatively, you may request such changes by contacting ASCM Customer Relations using the contact information provided below. 
     2. In your request, clearly state what information you would like to have changed or updated. APICS will try to comply with your request as soon possible.
     3. The deletion of Personal Information and other changes to the data retained by APICS as described above may result in the deletion or limitation of other services APICS provides, including, but not limited to, maintaining and making accessible APICS certification records. APICS may retain certain Personal Information to pursue legitimate business interests, conduct audits, comply with (and demonstrate compliance with) legal obligations, resolve disputes, and enforce agreements.
   11. Your Legal Rights. You have the right to: 
@@ -372,8 +372,8 @@ In the event of any change to the APICS Online Privacy Policy, notice of such ch
 
 For any questions, comments, or further information concerning the terms of this Online Privacy Policy, or to request changes to your Personal Information, subject to such limitations as provided herein, please contact:
 
-APICS Customer Service  
-[service@apics.org](mailto:service@apics.org)  
+ASCM Customer Relations  
+[support@ascm.org](mailto:support@ascm.org)  
 1-800-444-2742   
 1-773-867-1777 
 
