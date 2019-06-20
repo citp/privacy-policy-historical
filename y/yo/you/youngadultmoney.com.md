@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngadultmoney.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214024321id_/http%3A//www.youngadultmoney.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngadultmoney.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620021253id_/https%3A//www.youngadultmoney.com/terms-of-use) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy | Young Adult Money
 
@@ -244,7 +244,7 @@ Any references to third party products, rates, or websites are subject to change
 
 Young Adult Money LLC is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-If you have any questions at all about advertising on YoungAdultMoney.com please do not hesitate to [contact us](http://www.youngadultmoney.com/contact/).
+If you have any questions at all about advertising on YoungAdultMoney.com please do not hesitate to [contact us](https://www.youngadultmoney.com/contact/).
 
 ## Comments, Reviews, and Emails
 
