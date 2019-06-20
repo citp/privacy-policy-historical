@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soyentrepreneur.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229045545id_/https%3A//www.entrepreneur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soyentrepreneur.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620144715id_/https%3A//www.entrepreneur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Entrepreneur Media, Inc.
 
@@ -16,7 +16,7 @@ Maintaining the privacy of our website visitors and mobile application users is 
 
 
 
-This privacy policy ("Privacy Policy") describes how Entrepreneur Media, Inc. ("EMI") with registered address at 18061 Fitch, Irvine CA, 92614 may collect, use and share information you provide when using our Service, including your personal information. The term "Service" includes the websites [www.entrepreneur.com](http://www.entrepreneur.com/) and [www.entrepreneur.com](http://www.entrepreneur.com/) together with any related subsites, sub-domains, mobile and software applications, services, features and/or content associated therewith (collectively, "our Websites"). For purposes of this Privacy Policy, the terms "we," "us" and "our" refer to EMI and "you" refers to you, as a user of our Service.
+This privacy policy ("Privacy Policy") describes how Entrepreneur Media, Inc. ("EMI") with registered address at 18061 Fitch, Irvine CA, 92614 may collect, use and share information you provide when using our Service, including your personal information. The term "Service" includes the websites [www.entrepreneur.com](http://www.entrepreneur.com/) and [www.greenentrepreneur.com](http://www.greenentrepreneur.com/) together with any related subsites, sub-domains, mobile and software applications, services, features and/or content associated therewith (collectively, "our Websites"). For purposes of this Privacy Policy, the terms "we," "us" and "our" refer to EMI and "you" refers to you, as a user of our Service.
 
 We've tried to keep this Privacy Policy simple, but if you're not familiar with any of the terms used or have any questions, contact us at _[legal@entrepreneur.com](mailto:legal@entrepreneur.com)_. Your privacy matters to us at EMI, so whether you are new to our Service or are a regular or longtime user, it is important that you take the time to carefully read our Privacy Policy, so you can understand our practices as relates to your information.
 
