@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doulos.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827092550id_/https%3A//www.doulos.com/content/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doulos.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620065744id_/https%3A//www.doulos.com/content/privacy_policy.php) for the most accurate reproduction.*
 
 # Doulos Privacy Policy
 
