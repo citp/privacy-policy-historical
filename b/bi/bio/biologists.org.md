@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biologists.org privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220010900id_/http%3A//www.biologists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biologists.org privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620142538id_/https%3A//www.biologists.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Company of Biologists
 
@@ -29,7 +29,7 @@ Please click on the section below that applies to you in order to understand wha
 
 **If you are a Website User:**  
 Browsing and viewing publicly accessible areas of the website does not require you to submit personal information to us. However, in order to have access to a user account or to access certain features, services, and parts of the website, you may be required to submit certain personal information that relates to and identifies you (e.g. your name, postal address, email/social media address, telephone number, job title, qualifications, areas of scientific interest, and any personal data contained in log-in/user account details and contained in any submissions/postings you make to the website and in any further correspondence with us). We may collect aggregated website analytics/usage information and provide that information to third parties, but this will not include your personal data.  
-In addition to any information that you provide, we may collect cookies and website analytics information about visits to our website. Please see our [Cookies Policy](http://www.biologists.com/cookies/) forfurther details. We collect this information in order to enhance your website experience, identify you when you re-visit the website and to improve the performance and impact of our websites and (subject to any necessary consents) to market our products and services.  
+In addition to any information that you provide, we may collect cookies and website analytics information about visits to our website. Please see our [Cookies Policy](https://www.biologists.com/cookies/) forfurther details. We collect this information in order to enhance your website experience, identify you when you re-visit the website and to improve the performance and impact of our websites and (subject to any necessary consents) to market our products and services.  
 Our lawful basis for holding and using this personal data is the legitimate interests of The Company as a not-for-profit publishing organisation dedicated to supporting and inspiring the biological community.
 
 [**If you are an Author or Reviewer:**](https://web.archive.org/privacy-policy-if-you-are-an-author-or-reviewer/)
