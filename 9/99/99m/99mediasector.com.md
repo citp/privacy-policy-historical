@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99mediasector.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215064048id_/http%3A//www.99mediasector.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99mediasector.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620054248id_/http%3A//www.99mediasector.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 99Media Sector
 
@@ -18,9 +18,9 @@
 
 ### Copyright Notices – Terms of Use
 
-99mediasector © 2018 All Rights Reserved. All Content on [99mediasector](https://web.archive.org/web/20181215064048id_/http%3A//www.99mediasector.com/99mediasector.com)  is Protected By Copyright. Do Not Copy or Republish.
+99mediasector © 2018 All Rights Reserved. All Content on [99mediasector](https://web.archive.org/web/20190620054248id_/http%3A//www.99mediasector.com/99mediasector.com)  is Protected By Copyright. Do Not Copy or Republish.
 
-you may not redistribute and modify, publish, reproduce, sell, create derivative works or commercially exploit our content without prior written consent. If wanting to feature an article, you may quote a short snippet form the post which must link back to the original post on [99mediasector](https://web.archive.org/web/20181215064048id_/http%3A//www.99mediasector.com/99mediasector.com). You may not post the entire blog post and tutorials, code or any written material, without prior permission.
+you may not redistribute and modify, publish, reproduce, sell, create derivative works or commercially exploit our content without prior written consent. If wanting to feature an article, you may quote a short snippet form the post which must link back to the original post on [99mediasector](https://web.archive.org/web/20190620054248id_/http%3A//www.99mediasector.com/99mediasector.com). You may not post the entire blog post and tutorials, code or any written material, without prior permission.
 
 **Use of Cookies**
 
