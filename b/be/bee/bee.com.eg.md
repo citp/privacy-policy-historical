@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bee.com.eg privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214084727id_/http%3A//bee.com.eg/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bee.com.eg privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620232516id_/http%3A//www.bee.com.eg/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Bee Smart Payment Solutions | www.bee.com.eg - Privacy Policy
 
 Your privacy is important to TBE Egypt Bee. This privacy statement provides information about the personal information that TBE Egypt Bee collects, and the ways in which TBE Egypt Bee uses that personal information.
 
