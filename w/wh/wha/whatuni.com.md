@@ -1,105 +1,243 @@
-> *The following text is extracted and transformed from the whatuni.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423010822id_/http%3A//www.whatuni.com/degrees/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatuni.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620225718id_/https%3A//www.whatuni.com/wu-cont/privacy.htm) for the most accurate reproduction.*
 
-# Whatuni privacy policy
+# Whatuni privacy notice
 
-## WHATUNI (HOTCOURSES) PRIVACY NOTICE
+## Privacy Notice
 
-This privacy notice has been compiled to help you understand why we ask you for your personal information when you use one of our websites and how we will use this information.
+Last update 9th April 2019
 
-This policy applies to all our website visitors whether registered or not, including people responding to surveys, competitions and writing reviews. In addition we may ask you for your personal details at one of the Hotcourses sponsored events, students fairs etc. We will always explain the purpose of our data collection before we ask you for your personal details.
+This privacy notice has been compiled to help you understand why we ask you for your personal information when you use one of our websites and how we will store and use this information.
 
-## What information do we collect about you on Whatuni?
+IDP Connect Limited, an IDP Education owned company, is the principle company and the Data Controller in the IDP Connect Group of companies (Hotcourses India PVT, Hotcourses Pty Ltd (Australia), Hotcourses Inc (North America) and Complete University Guide).
 
-You can browse our websites without providing any personal information, however if you would like the enhanced website experience and thus make an enquiry to a course provider, you will need to register with us.
+At the heart of our work is helping you and other users find suitable courses and learning providers. This is defined as our Legitimate Business Interest. We process your personal data to help you make informative decisions when selecting courses and learning providers. We do that by:
 
-When you contact an institution, download prospectuses or a pdf help pack, you will need to supply your email address and other information. This action will automatically register you as a member of the Whatuni community.
-
-When you register as a Member, we may collect some or all of the following information about you:
-
-  * a)   your name, username, email address, password.
-  * b)   your postcode and address.
-  * c)   information about your current educational status.
-  * d)   your course, subject area and institution of interest.
-  * e)   your grades or predicted grades.
-  * f)   your phone number.
-  * g)   your date of birth.
-  * h)   your nationality and country of residence.
-  * i)   your current school or college
+  *   Providing extensive educational information
+  *   Providing advertising and promotional opportunities for education providers
+  *   Providing features to enable users to directly contact education providers
+  *   Recommending things which we think you'll like, such as courses and learning providers
+  *   Notifying you about things you've told us you like, such as a new course in your local area
+  *   Personalising sections of our websites to your preferences
+  *   Dealing with any requests you make or content you submit
+  *   Getting in touch if we need to tell you about something, like a change to our policies or issues with our service
+  *   Monitoring usage and performance in order to improve the services we offer.
 
 
 
-In this Privacy Policy, we refer to the information above and any other personally identifiable information that we may request from you and that you may provide to us (including your Profile) as "Personal Information".
+This privacy notice applies to all our website and app users whether registered or not, including people responding to surveys, competitions and writing reviews.
 
-Hotcourses Ltd also collects potentially personally-identifying information that is collected by Google Analytics. The analytics feature Hotcourses has implemented is based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the Doubleclick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Visitors can opt-out of Google Analytics for Display Advertising and customer Display Network ads using [Ads Settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjJn1o4MBMtGs7PuGXmQTMXL1pKVlmTP-2gwgG7JDIXKXAdxnVqfVu1qAPwqBTgFOLPWtZBuC830QOJwMIdYYTR-9x_pN9uU0zvFdBY8xQYI05RFBDjDa8NwXTHvGR27PKZxHQI5fcvYS8pECbbDN7o0bFWRKqSeLSTs7Tgqkxu4zxF3Og/).
+Keeping your information safe and private is very important to us. All our services are designed with privacy and security in mind.
 
-## How we use your information?
+## Collecting and using your personal data
 
-1.  When someone visits our website we use cookies to collect standard internet log information and details of visitor behaviour patterns.
+You can browse our websites without providing any personal information. However, to use some of our enhanced functionality will sometimes ask for additional information in order to process your request. Examples include:
 
-Cookies are used to help us:
-
-  * a)  Understand and save user's preferences for future personalised user experience and to allow us to deliver the type of content and products in which you are most interested.
-  * b)  Keep track of advertisements.
-  * c)  Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future.
+  *   Providing your name, email, and contact details to request a prospectus or make an enquiry to an education provider.
+  *   Providing your name, email address, and preferences to create an account to receive email newsletters and save your preferences.
+  *   Providing your name, contact details, and education history to engage with offline education counselling services.
 
 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your internet browser (such as like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+The details we request for each piece of enhanced functionality will depend on what is required to perform the action. For example:
 
-If you disable cookies, some features that make your site experience more efficient will be disabled and some of our services will not function properly.
+  *   If we need to contact you by email, we will request your email address.
+  *   If we tailor your experience by displaying available courses, we will ask for your preferred start date.
 
-You can read more about how we use cookies on our [](https://web.archive.org/degrees/cookies.html)cookies policy.
 
-2.  To send periodic emails about competitions, promotions, surveys or other site features.
 
-3.  To follow up an enquiry you have made to any institutions, or chase progress on a course you are interested in.
+Details of why we collect each piece of information is displayed clearly next to the field used to enter the data.
 
-4.  You can change your communication preference with us at any point, by logging in to our website or by following the instructions at the bottom of each email you receive from us. You can also update your contact details by logging in to our website. These contact details are used to respond to your enquiries or, put you in touch with the course provider you are interested in.
+A full list of the data collected by each website is available on the site-specific data collection notice.
 
-You can [email us](mailto:support.team@whatuni.com) if you have any questions regarding the search criteria on Whatuni. When you find a course you like on one of our websites, you can either request more details from the course provider or, if the option is available, book the course directly.
+We also collect some technical information while you use our websites. For example, information on the type of browser you use and your IP address. This information is used to maintain and monitor the performance of our websites.
 
-## Disclosure of personal information
+## Cookies
 
-In many circumstances we will not disclose personal data without your consent unless required by law.
+We use cookies on our websites to provide login and preferences functions, and to collect anonymised data on user interactions. For example, we use cookies to:
 
-Hotcourses Limited is the principle company and the Data Controller in the Hotcourses Group of companies (Hotcourses India PVT, Hotcourses Pty Ltd (Australia), Hotcourses Inc (North America) and Complete University Guide). We may share your personal information with organisations that are part of the same group as the data controller as those companies may provide services to you over our websites.). To ensure your details are protected to the same level as in the United Kingdom, we have put agreements in place to ensure these companies comply with the Hotcourses Privacy Policy and the Data Protection Act 1998.
+  *   Keep you logged into the website.
+  *   Understand and save your user preferences for future personalised experience and to allow us to deliver the type of content and products in which you are most interested.
+  *   Compile anonymised data about site traffic and site interactions in order to offer better site experiences and tools in the future. We use tools such as Google Analytics, IDP Connect Insights, and the IDP Connect Enrolment Matcher Tool to do this.
+  *   To provide targeted content and advertising based on your preferences and previous interactions. We work with third-party companies to provide targeted advertising. Personal data is not shared with these companies. Further details of the companies we work with are available within our Cookie Policy.
 
-Another instance when we may share your personal information is when you make an enquiry to a course provider and/or download a pdf help pack or prospectus. In these circumstances we pass on your contact details to the course provider so that they can contact you directly.
+
+
+Personal information is never held on any of our first-party cookies.
+
+You can choose to have your computer block some or all cookies for you. You do this through your browser settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+
+If you disable cookies, some advanced features will be disabled and some of our services may not function as intended.
+
+You can read more about how we use cookies on our Cookie Policy.
+
+## Anonymised analytics and insights
+
+Occasionally, we will ask for additional information to help us monitor the reach and effectiveness of our services. For example, when creating an account, we may ask for your country of residence or postcode. This data will only ever be used in an anonymised format to help us demonstrate the effectiveness and improve the products and services we offer.
+
+We use Google Analytics to log review aggregated use data across all of our websites. No personal data is shared with Google Analytics.
+
+## Geographical data and geotargeting
+
+As with all websites, your IP address is sent to us each time a webpage is viewed. For some functionality we use this, along with geo-location information provided by your browser to provide location-specific content within our websites and apps. Your IP address and location information is stored anonymously, and not associated with any other personal details. You can stop sharing this information by changing your browser settings.
+
+## Mobile app specific settings
+
+We offer push notifications, location based services, and targeting advertising through our apps. When you first use one of our apps, you will be asked whether or not you want to turn-on these services. You can opt-out of these services at any time using the changing the permissions through your device settings.
+
+## Storing your data
+
+The personal data you provide is stored in a secure hosting environment based in the UK. We employ a range of technology and procedures to ensure that this data is secure, including encryption, anti-virus and anti-malware software, intrusion detection, company-wide data usage policies, and mandatory security and privacy staff training.
+
+Your data is not stored outside EU however it may be accessed by one of our principal companies based in USA, India or Australia if they need to provide you with a service on our behalf. To ensure your data is secure and we comply with our privacy obligation, we have data sharing agreements and security operational and technical measures in place with these companies.
+
+## How long will you keep my information for?
+
+We will keep your data for as long as we are required to, either:
+
+  *   By law, for example to meet financial regulations relating to payments
+  *   For as long as we require the data to provide a service to you
+
+
+
+Personal data is deleted in accordance with our internal retention policy. All identifiable personal data is deleted three years following your last interaction with this website, for users registering from within the UK, and after two years for international markets.
+
+## Your rights
+
+**Reviewing and updating your data**
+
+You can update the information we store on your behalf by logging into your website account and updating your profile. If you were not assigned a password when creating your account, you can request a new password online by selecting the 'forgotten password' option. If you do not have access to this account, you can request a data update by contacting the Privacy Manager.
+
+In line with the GDPR regulations, you have the following rights:
+
+**The right to be informed**
+
+You have the right to be informed why and how we collect your personal data, how we will use this information, who we share it with, what are the security measures we take to protect this information and what are your individual rights. We will publish this information in this Privacy Notice.
+
+**The right of access**
+
+You have the right to access the information we hold for you by logging into your online profile, if you require a permanent record you can download this information in PDF format from our website. Alternatively you can make an offline Subject Access Request by contacting the Privacy Manager.
+
+**The right to rectification**
+
+You have the right for inaccurate or incomplete data we hold to be updated. You can make a request to have your data updated through the Privacy Manager.
+
+**The right to erasure**
+
+You have the right to be forgotten at any point by contacting the Privacy Manager or emailing [delete@idp-connect.com](mailto:delete@idp-connect.com). At your request, we will remove all the data we have for you which we are not required legally to retain.
+
+**The right to restrict processing**
+
+You have the right to restrict processing when you have exercised one of the above rights and it may take some time to process that request. For example: when you contact us to update your details you have the right to request restriction until your details are updated.
+
+**Right to withdraw consent**
+
+For the processing activities where we have asked you for consent, you have the right to withdraw this consent at any point by clicking on the unsubscribe link in any email we send you, or by updating your profile in the application or by contacting the Privacy Manager.
+
+**The right to object**
+
+You can object to the processing of your personal data at any point by contacting the Privacy Manager. There may be instances where we may not be able to fulfil those requests, but we will provide you with explanation when replying back to you.
+
+**Right to not be subject to automated decisions and profiling**
+
+None of our processing activities are purely automated. There are instances where we process data to analyse or predict behaviour but we will ask you for explicit consent when this processing will involve your personal data.
+
+**Right to data portability**
+
+If you have provided us with your personal data with consent or under the contact obligations, you have the right to request the data you have provided to us in a machine-readable format should you decide to move to another data controller.
+
+## Sharing your data with partners
+
+We work with range of learning providers that advertise courses on our platforms and have agreements and procedures in place to ensure your personal data is protected through the service you receive from us.
+
+Your personal data will only be shared with learning providers you have chosen to engage with via our websites. For example, when you make an enquiry or a prospectus request to an institution, your details relating to that enquiry will be provided to the institution so that they may answer your enquiry directly.
+
+We also provide anonymised site usage data to providers to enable them to monitor enrolment from users who use our websites.
+
+We have data sharing agreements in place with these learning providers to make sure they apply security operational and technical measures when processing your personal information.
 
 ## Links to other websites
 
-On our website there are lots of links to course provider websites. This privacy notice does not cover these links. We encourage you to read the privacy statements on the other websites you visit.
+On our website there are lots of links to course provider websites.This privacy notice does not cover these links. We encourage you to read the privacy statements on the other websites you visit.
 
-## Changes to our Privacy Notice
+## Changes to the Privacy Notice
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 22nd March 2016.
+The date of the most recent version will appear on the top of this page.From time to time we may be updating this Privacy Notice, please review it each time you are to submit personal information. If we make any significant changes to this notice we will send you an email informing you of these amendments. If you do not agree with these changes please do not use our websites to provide personal information. You can also delete your account at any time - please see your rights section.
 
-## Access to your personal Information 
+## Further questions
 
-We would like to be as transparent as possible in terms of giving you access to your personal information. You find out if we hold any personal information by making a ‘subject access request’ under the Data Protection Act 1998. If we do hold information about you we will:
+If you have any questions or complaints regarding your personal data, please contact the Privacy Manager at the address below:
 
-  * \-   give you a description of it;
-  * \-   tell you why we are holding it;
-  * \-   tell you who it could be disclosed to; and
-  * \-   let you have a copy of the information in an intelligible form.
-
-
-
-To make a request for any personal information we may hold you need to put the request in writing addressing it to our Data Protection Officer, or, by writing to us on the below address.
-
-If we do hold information about you, you can ask us to correct any mistakes by contacting the Data Protection Officer or by logging in to our website and updating your information.
-
-If you wish to stop receiving regular course updates, please email us at [unsubscribe@hotcourses.com](mailto:unsubscribe@hotcourses.com) or you can unsubscribe by clicking on the unsubscribe link in each email you receive from us.
-
-If you wish to delete your details completely, please email us at [delete@hotcourses.com.](mailto:delete@hotcourses.com)
-
-## How to contact us
-
-If you want to request more information about our privacy policy you can email us or write to:
-
-Data Protection Officer  
-Hotcourses Ltd  
+Privacy Manager  
+IDP Connect Ltd  
 First Floor, Bedford House, Fulham Green  
 69-79 Fulham High Street  
-London SW6 3JW  
-privacy@hotcourses.com 
+London   
+SW6 3JW  
+[privacy@idp-connect.com](mailto:privacy@idp-connect.com)
+
+If you feel the Privacy Manager has not dealt with your enquiry promptly or correctly, you have the right to complain to the ICO <https://ico.org.uk/make-a-complaint/>
+
+## Site Specific Privacy Notice
+
+The following section provides information on the collection and processing of personal data specific to the Whatuni website.
+
+This site is available at [https://www.whatuni.com.](https://www.whatuni.com/)
+
+The site is intended for use by users aged 13 years and over. Users under this age are not allowed to create an account on the website. If you are under 16 years of age and want to register with Whatuni services, you must obtain consent from a parent or guardian. You may also discuss this privacy policy with them.
+
+## What personal data do we collect?
+
+The following items of personal data are collected as part of the registration process:
+
+  *   First name
+  *   Last name
+  *   Email
+  *   Postcode (optional)
+  *   Postal Address Information
+  *   School/College (optional)
+  *   Expected or received grades (optional)
+  *   Nationality (optional)
+  *   Expected year of entry to university 
+
+
+
+If you use or connect to the Whatuni website through a 3rd party platform, you allow us to access and / or collect certain information from that 3rd party platform profile. Our application allows you to connect via Facebook, where we will collect your avatar and friends list, and Google +
+
+Your Whatuni user account can also be used to log into the Whatuni mobile app which you can download for free.
+
+## How we process your data
+
+While using the Whatuni applications, you can carry out the following interactions where we process your personal data:
+
+  *   Creating a user account
+  *   Adding a university review
+  *   Requesting a prospectus or making an enquiry to a university
+  *   Booking a place at an open day
+  *   Contacting the Whatuni team
+
+
+
+## Consent options
+
+As part of the registration process you have the choice to opt-in to the following:
+
+  *   Newsletters from Whatuni
+  *   University updates from third-party partners
+  *   Market research, surveys and Competitions
+  *   When using Facebook to login to Whatuni you have the option to share your activity on Whatuni with others at your school and with your Facebook friends.
+
+
+
+## Contacting institutions by telephone
+
+At certain times, we offer the ability for you to contact institutions directly by telephone, using a dedicated 0333 number provided by our telecommunications partner, Telecoms World. The telephone number you are calling from and the duration of the call are recorded with Telecoms World. Anonymised data on the number and duration of calls may be shared with the relevant institution in order to measure the effectiveness of their campaigns. Your actual telephone number will not be shared or used for any other purposes beyond statistical analysis.
+
+## Market Research, Surveys and Competitions
+
+We run surveys using a 3rd party platform called Typeform. The data collection, use and storage vary depending on the focus of the research. Please read the privacy notice on each survey for more details.
+
+For market research, we may engage a specialist company to conduct the research on our behalf and they may have access to your personal data. We will take all steps necessary to protect your personal data throughout the research period and either randomize it or delete it when it is no longer required. Please read the privacy notice on each market research for more details.
+
+## Data sharing
+
+Your contact details are shared with education institutions where you have made an enquiry or prospectus request to that institution.
