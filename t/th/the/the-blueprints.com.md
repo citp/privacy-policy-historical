@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-blueprints.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823120520id_/https%3A//www.the-blueprints.com/information/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-blueprints.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620105412id_/https%3A//www.the-blueprints.com/information/privacystatement) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,4 +76,4 @@ In accordance with applicable regulation, EVOlution Graphics holds a register of
 
 If you have any questions or complaints regarding the processing of your personal data and/or this Privacy Statement and use of your personal data, you are able to contact us at: <https://www.the-blueprints.com/information/contact/>. We aim to respond to your questions within four weeks. We take the utmost care in protecting and processing your personal data. If, however, you would like to leave a formal complaint, EVOlution Graphics refers you to the Dutch DPA. 
 
-**2000 - 2018 EVOlution Graphics B.V., Hilversum, The Netherlands**
+**2000 - 2019 EVOlution Graphics B.V., Hilversum, The Netherlands**
