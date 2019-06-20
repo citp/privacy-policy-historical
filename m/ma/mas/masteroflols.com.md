@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the masteroflols.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211230047id_/http%3A//www.masteroflols.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masteroflols.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620042559id_/https%3A//www.masteroflols.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Masteroflols
+
+Skip to content
 
 **Cookies & 3rd Party Advertisements**
 
