@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ecards.co.uk privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212204114id_/http%3A//www.ecards.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecards.co.uk privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620102852id_/http%3A//www.ecards.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-After its recent aquisition, eCards.co.uk is now owned and managed by Web-Clubs Ltd - eCards.co.uk is therefore used in accordance with the group privacy policy which can be found here :
+After its recent aquisition, eCards.co.uk is now owned and managed by Web-Clubs Digital Ltd - eCards.co.uk is therefore used in accordance with the group privacy policy which can be found here :
 
 In addition to our group privacy policy, eCards.co.uk [Terms of Use](http://www.ecards.co.uk/termsAndConditions.php) set out some important terms that apply to your use of the eCards website at www.ecards.co.uk. 
 
@@ -43,4 +43,4 @@ Our web beacons do not store additional information on your computer but,by comm
 Third party cookies   
 Please be aware that when you leave the Website via a link to a third party website,that third party website may use cookies and you will need to refer to the third party's privacy or cookie policy. 
 
-Web Clubs Limited is a company incorporated in England and Wales with Company number:3840325. 
+Web Clubs Digital Limited is a company incorporated in England and Wales with Company number: 11832568. 
