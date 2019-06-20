@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidsky.tv privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828071942id_/https%3A//cdn.liquidsky.com/assets/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidsky.tv privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620233820id_/https%3A//cdn.liquidsky.com/assets/privacy.pdf) for the most accurate reproduction.*
 
 # LiquidSky
 
