@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sportswallah.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630172324id_/https%3A//www.sportswallah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportswallah.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620210647id_/https%3A//www.sportswallah.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sportswallah
 
-This Privacy Policy governs the manner in which Sportswallah collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.sportswallah.com](http://www.sportswallah.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Sportswallah.
+This Privacy Policy governs the manner in which Sportswallah collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.sportswallah.com](https://www.sportswallah.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Sportswallah.
 
 **What personal information do we collect from the people that isit our blog, website or app?**
 
@@ -20,7 +20,6 @@ We may use the information we collect from you when you register, make a purchas
 
 
 
-
 **How do we protect your information?**
 
 We do not use vulnerability scanning and/or scanning to PCI standards.We only provide articles and information. We never ask for credit card numbers. We do not use Malware Scanning.
@@ -29,7 +28,7 @@ Your personal information is contained behind secured networks and is only acces
 
 We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-**Do we use 'cookies'?**
+**Do we use ‘cookies’?**
 
 We do not use cookies for tracking purposes
 
@@ -51,19 +50,16 @@ We do not include or offer third-party products or services on our website.
 
 **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
 
 We use Google AdSense Advertising on our website.
 
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
-We have implemented the following:  
-
+We have implemented the following:
 
   * Google Display Network Impression Reporting
-
   * Demographics and Interests Reporting
-
 
 
 
@@ -79,11 +75,9 @@ You will be notified of any Privacy Policy changes:
 
 
 
-
 Can change your personal information:
 
   * By logging in to your account
-
 
 
 
@@ -99,16 +93,16 @@ We do not specifically market to children under the age of 13 years old.
 
 If at any time you would like to unsubscribe from receiving future emails :
 
-\- Follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
+– Follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-Email ID: [contactus@sportswallah.com](mailto:contactus@sportswallah.com)
+Email ID: [contactus@sportswallah.com](mailto:contactus@sportswallah.com)
 
-396/11 Amardeep,  
-17th North Avenue Road,  
-Near Rajesh Khanna Garden. Santacruz (West).  
-Mumbai, Maharashtra 400054  
-India 
+Digiosmosis LLP  
+3rd Floor, Gitaneel Arcade,  
+Hill Road, Bandra West  
+Mumbai 400050  
+Maharadshtra, India
