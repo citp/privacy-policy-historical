@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725231635id_/https%3A//www.knex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knex.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620104852id_/https%3A//www.knex.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | KNEX.com - Where Creativity Clicks™
+# Privacy Policy | Creative Building Toys for Kids | K’NEX | www.knex.com
 
 ### General Privacy Policy
 
@@ -190,29 +190,11 @@ Unless as set out above, never do we sell or distribute information gathered to 
 
 It is important for you to make sure your child knows that it is inappropriate to send any personal information to anyone, including K'NEX, unless you have given your explicit approval.
 
-### Secure Online Purchasing from K'NEX
-
-Only those 18 years or older can make an online purchase from K'NEX. The online form requires the purchaser's full name, billing and shipping addresses, telephone number, email address and credit card information in order to complete the order. We accept only valid MASTERCARD or VISA credit cards in the name of the purchaser. We submit this information to the credit card company for verification. That credit card information is used only to process and ship the order, and is not retained online after the order has been submitted. The shipping and order addresses and names, telephone numbers, email addresses, and items ordered are kept in a secure off-line database for documentation purposes.
-
-The K'NEX SECURE SERVER connection safely protects Credit Card information via the VeriSign™ system. This information is deleted from your browser after you complete your order. Completion of your order can be done by one of the following: (a) Complete the Credit Card Processing page; or (b) Closing your Web Browser.
-
-K'NEX requires that online orders are submitted by an adult 18 years or older. Any customer younger than 18 years old who wishes to submit an order must have the order submitted by a parent or legal guardian. These orders are the responsibility of the parent(s) or guardian(s) who own the valid credit card used in the transaction. If you have any questions regarding a purchase, please see our Ordering and Shipping Policies section on this page or contact our Consumer Relations Department at 1-800- KID-KNEX (1-800-543-5639), Monday through Friday, 8:30 a.m. to 5:00 p.m. EST (U.S. and Canadian callers only. Please see [http://www.knex.com/international-contact](https://web.archive.org/international-contact) to find the Consumer Relations contact information for other countries.).
-
 ### Submission Policy - Submitting an Idea or Picture to K'NEX
 
-K'NEX only accepts photos of models for contests, promotions and posting to our Photo Gallery. We do not solicit or accept models or ideas for new products or suggested new models or components. The reason is definitely not hubris in thinking only we can come up with new and exciting ideas: clearly, that would be a ridiculous point of view. Rather, it has to do with conflicts that arise as to the derivation of K'NEX ideas. From time to time, we have people who claim to have invented just about everything we do, including having come up with K'NEX before we did, or they claim that they submitted a concept that was the “inspiration” for something we've later marketed. None of these claims have been even remotely true, but that didn't lessen the aggravation and time that was required to deal with the claims. So, to prevent possible misunderstandings about who owns the rights to products K'NEX sells, anything you send to us will be considered by us as non-confidential and nonproprietary, meaning that you recognize and agree that you are freely giving us the right to use it any way we wish. This may include making and selling products based upon such material, licensing the material to others or posting your ideas/photos on our website and owning the intellectual property rights in and to such ideas.
+We do not solicit or accept models or ideas for new products or suggested new models or components. The reason is definitely not hubris in thinking only we can come up with new and exciting ideas: clearly, that would be a ridiculous point of view. Rather, it has to do with conflicts that arise as to the derivation of K'NEX ideas. From time to time, we have people who claim to have invented just about everything we do, including having come up with K'NEX before we did, or they claim that they submitted a concept that was the “inspiration” for something we've later marketed. None of these claims have been even remotely true, but that didn't lessen the aggravation and time that was required to deal with the claims. So, to prevent possible misunderstandings about who owns the rights to products K'NEX sells, anything you send to us will be considered by us as non-confidential and nonproprietary, meaning that you recognize and agree that you are freely giving us the right to use it any way we wish. This may include making and selling products based upon such material, licensing the material to others or posting your ideas/photos on our website and owning the intellectual property rights in and to such ideas.
 
-Kids: If you wish to send any photographs or other materials to K'NEX, you must follow these simple instructions:
-
-  * Discuss this with your parents. They will need to fully read, understand what we've said above, and complete and sign a Permission Form.
-  * Photos, pictures or other materials sent to us without a parent's or legal guardian's signature will not be accepted.
-  * If you still want to send us pictures, etc., [click here](http://media.knex.com/pdf/photo-gallery/gallery_permission.pdf) for the Permission Form.
-  * Send the Permission Form, fully completed and signed by a parent or legal guardian, and the picture, to: 
-
-  
-K'NEX Consumer Relations Department   
-P.O. Box 700  
-Hatfield, PA 19440
+Kids: If you wish to share a model please discuss with your parents and then share your pictures on our Facebook page so other fans can see what you have created.  
 
 ### Review and Update of Personal Information
 
