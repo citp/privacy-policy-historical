@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epyk.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217094027id_/http%3A//www.epyk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epyk.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620233427id_/http%3A//epyk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Epyk – Health and Fitness, from Exercise to Food
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@www.www.epyk.com. 
 
