@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rttnews.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104203412id_/http%3A//www.rttnews.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rttnews.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620105904id_/https%3A//www.rttnews.com/Privacy.aspx) for the most accurate reproduction.*
 
 # RTTNews - Privacy Policy
 
@@ -65,13 +65,13 @@ Your use of our Website is subject to this privacy policy. **BY USING OUR WEBSIT
   
 ### Your Rights/How to Contact Us  
   
-####  Opt out of receiving promotional materials from our advertisers or messages from [http://www.rttnews.com](http://www.rttnews.com/).   
+####  Opt out of receiving promotional materials from our advertisers or messages from [https://www.rttnews.com](https://www.rttnews.com/).   
   
-You may opt-out during the registration process or after registering by visiting us at http://www.rttnews.com and using the contact us link to contact us. Every e-mail we send to you will provide you with instructions on how to unsubscribe so that you will not receive any future e-mails.   
+You may opt-out during the registration process or after registering by visiting us at https://www.rttnews.com and using the contact us link to contact us. Every e-mail we send to you will provide you with instructions on how to unsubscribe so that you will not receive any future e-mails.   
   
 #### Correct or Update Your Information  
   
-You may correct or update any information previously provided to us by visiting us at [ http://www.rttnews.com ](http://www.rttnews.com/)and using the contact us link to contact us.  
+You may correct or update any information previously provided to us by visiting us at [ https://www.rttnews.com ](https://www.rttnews.com/)and using the contact us link to contact us.  
   
 ####  European Users  
   
@@ -83,7 +83,7 @@ You have the right to raise the objection in the processing of the information, 
 
 You have the right to withdraw the consent on information that you have given us for marketing or other purposes. You can specify if you are not interested in using your information for direct marketing purpose and also can opt out of emails, newsletters, or other marketing communications by choosing opt-out options provides in those emails. 
 
-To exercise any of these rights, you can get in touch with us using our [Contact Us](https://web.archive.org/web/20181104203412id_/http%3A//www.rttnews.com/Contactus.aspx) page. Please include your registration Information such as first name, last name and e-mail address in the request. We may ask you to provide additional Information for identity verification purposes or to verify that you are in possession of an applicable email account.   
+To exercise any of these rights, you can get in touch with us using our [Contact Us](https://web.archive.org/web/20190620105904id_/https%3A//www.rttnews.com/Contactus.aspx) page. Please include your registration Information such as first name, last name and e-mail address in the request. We may ask you to provide additional Information for identity verification purposes or to verify that you are in possession of an applicable email account.   
   
 ### Additional Information  
   
