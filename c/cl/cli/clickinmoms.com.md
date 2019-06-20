@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the clickinmoms.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110091925id_/https%3A//clickandcompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickinmoms.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620193132id_/https%3A//clickandcompany.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Click & Company
 
 **PRIVACY POLICY**
 
-_Updated 20 May 2018_
+_Updated 30 April 2019_
 
 **About Us  
 **
 
-Click & Company (“we,” “us,” “Click & Co”) is a media, membership, and education company comprised of six daughter brands that collectively empower photographers of all levels to capture life beautifully in both their personal and professional endeavors, to make flexible, quality photography education and mentoring accessible, and to maintain a supportive community for continuous learning, sharing, and growth.  These brands include Clickin Moms, Click Magazine (home to the Click Pro membership), Click Photo School, Click Away, Click & Co Store, and Let the Kids. Click & Company is located on the web at clickandcompany.com, clickinmoms.com, and letthekids.com. This privacy policy provides details about how your personal information is collected, shared, and used by us.
+Click & Company (“we,” “us,” “Click & Co”) is a media, membership, and education company comprised of six daughter brands that collectively empower photographers of all levels to capture life beautifully in both their personal and professional endeavors, to make flexible, quality photography education and mentoring accessible, and to maintain a supportive community for continuous learning, sharing, and growth.  These brands include Clickin Moms, Click Magazine, Click Pro, Click Photo School, Click Away, Click & Co Store, and Let the Kids. Click & Company is located on the web at clickandcompany.com, clickinmoms.com, myclickmagazine.com, clickprophotographers.com, clickphotoschool.com, clickawayconference.com, and letthekids.com. This privacy policy provides details about how your personal information is collected, shared, and used by us.
 
 **Information We Collect From You**
 
