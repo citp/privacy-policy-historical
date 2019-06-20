@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leoweekly.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230213353id_/https%3A//www.leoweekly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leoweekly.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620032642id_/https%3A//www.leoweekly.com/privacy) for the most accurate reproduction.*
 
 # Privacy - LEO Weekly
 
@@ -8,4 +8,4 @@ LEO Weekly will not obtain personal identifying information about you when you v
 
 Please direct specific questions concerning privacy to leo@leoweekly.com. We will respond in a timely manner.
 
-All material ©2018 LEO Weekly, Louisville, KY. All rights reserved.
+All material ©2019 LEO Weekly, Louisville, KY. All rights reserved.
