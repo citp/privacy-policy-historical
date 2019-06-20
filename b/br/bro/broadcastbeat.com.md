@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2018-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180803153458id_/https%3A//www.broadcastbeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620123231id_/https%3A//www.broadcastbeat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – NAB Show News by Broadcast Beat. Official Broadcaster of NAB Show, Producer of NAB Show LIVE
+# Privacy Policy – NAB Show News by Broadcast Beat, Official Broadcaster of NAB Show – NAB Show LIVE
 
 Broadcast Beat – Privacy Policy
 
@@ -10,7 +10,7 @@ Your privacy is important to us, so we have developed a Privacy Policy that cont
 
 Who are We
 
-Broadcast Beat is a digital media property designed to provide technology news-and-information to the broadcast, motion picture and post production industry. We’re located at 4028 NE 6th Avenue, Fort Lauderdale, FL 33334. Our contact number is 954-233-1978. Access to our platform is available directly through our website [www.broadcastbeat.com](http://www.broadcastbeat.com/). Broadcast Beat is committed to protecting the privacy and data of those who follow our content. 
+Broadcast Beat is a digital media property designed to provide technology news-and-information to the broadcast, motion picture and post production industry. We’re located at 4028 NE 6th Avenue, Fort Lauderdale, FL 33334. Our contact number is 954-233-1978. Access to our platform is available directly through our website [www.broadcastbeat.com](https://www.broadcastbeat.com/). Broadcast Beat is committed to protecting the privacy and data of those who follow our content. 
 
 Your Personal Information
 
@@ -32,7 +32,7 @@ When using our website and apps, and submitting personal data to us, you may hav
   6. The right to data portability – You have the right to request and get your personal data that you provided to us and use it for your own purposes. We will provide your data to you within 30 days of your request. To request your personal data, please contact us using the information at the top of this privacy notice.
   7. The right to object – You have the right to object to us processing your personal data for the following reasons: Processing was based on legitimate interests or the performance of a task in the public interest/exercise of official authority (including profiling); Direct marketing (including profiling); and Processing for purposes of scientific/historical research and statistics. Rights in relation to automated decision-making and profiling. 
   8. Automated individual decision-making and profiling – You will have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you. 
-  9. Filing a complaint with authorities – You have the right to file a complaint with supervisory authorities if your information has not been processed in compliance with the General Data Protection Regulation. If the supervisory authorities fail to address your complaint properly, you may have the right to a judicial remedy. For details about your rights under the law, visit  [](https://www.privacyshield.gov/)[www.privacyshield.gov/](https://www.privacyshield.gov/)
+  9. Filing a complaint with authorities – You have the right to file a complaint with supervisory authorities if your information has not been processed in compliance with the General Data Protection Regulation. If the supervisory authorities fail to address your complaint properly, you may have the right to a judicial remedy. For details about your rights under the law, visit  [www.privacyshield.gov/](https://www.privacyshield.gov/)
 
 
 
