@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenakedscientists.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910140139id_/https%3A//www.thenakedscientists.com/privacy-and-copyright-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenakedscientists.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620121053id_/https%3A//www.thenakedscientists.com/privacy-cookie-and-copyright-policies) for the most accurate reproduction.*
 
 # Privacy and Copyright Policies | The Naked Scientists
 
@@ -6,15 +6,15 @@
 
 The information you submit to us is held on secure, password-protected servers to which only members of the Naked Scientists team, or individuals and groups directly santioned by us, have access. We will not release your personal data to any other parties except those involved in the running of the Naked Scientists such as our moderators, producers and consultants, without your permission. We will never release or sell your information to a third party without seeking your permission first, and we will restrict our contact with you to information and updates relevant to the Naked Scientists and the material we publish. However, please note that we do make use of certain Google services to help us to improve the performance of this website, and we use Google Adsense technology to provide tailored advertising relevant to visitors. This may include placing a "cookie" your web-browser. More details about our use of cookies is included below. From [this page](https://www.google.com/policies/privacy/partners/) you can learn how Google uses your data and what to do if you wish to opt out.
 
-**EMAILS AND CONTENT FROM OTHER FEEDBACK FORMS**
+ **EMAILS AND CONTENT FROM OTHER FEEDBACK FORMS**
 
 Please note that, _unless you explicitly state otherwise_ , we will regard any content that you submit to us, including your name, as suitable for inclusion in our output, which can include published webpages, posts in our [online forum](https://www.thenakedscientists.com/forum), radio broadcasts or [podcasts](https://www.thenakedscientists.com/podcasts). For instance, if you send us a question, we may include that question, alongside your name as the submitter, in a future programme. If you would prefer us not to do this, or to answer your question anonymously, please state this preference clearly at the start of your communication with us. Please note that we cannot remove material from programmes or content that have already been broadcast or published.
 
-**NAKED SCIENTISTS COPYRIGHT POLICY**
+ **NAKED SCIENTISTS COPYRIGHT POLICY**
 
 All content published on this website including any contributions you make, except if stated otherwise, will be regarded as owned by the Naked Scientists. You are free to view and download the material for personal use, and you may link to the content from external websites. Short written quotations of up to 50 words taken from a page on the site are acceptable, provided these are accompanied by a clear, visible and active link to the source page on the Naked Scientists website. Lengthier texts, and all audiovisual media made available via this site, including via RSS feeds and third party platforms utilised for content distribution by the Naked Scientists, must not be reproduced, re-published, re-distributed or re-used in any form or on any medium, including online and offline, without the prior permission of the Naked Scientists. Applications for such use should be made to the Managing Editor.
 
-**NAKED SCIENTISTS COOKIES**
+ **NAKED SCIENTISTS COOKIES**
 
 This website makes use of "cookies" to help provide you with the best experience we can. Cookies are small text files that are placed on your computer or mobile phone when you browse websites.
 
@@ -87,7 +87,7 @@ If the settings on your software that you are using to view this website (your b
 
 The cookie information on this site is derived from content provided by Attacat Internet Marketing ([http://www.attacat.co.uk](http://www.attacat.co.uk/)), a marketing agency based in Edinburgh. If you need similar information for your own website you can use their free cookie audit tool.
 
-**Additional Privacy Information relevant to the Naked Science Forum:**
+ **Additional Privacy Information relevant to the Naked Science Forum:**
 
 The Naked Science Forum is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. The present policy is effective from May 25, 2018.
 
