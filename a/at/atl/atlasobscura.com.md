@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlasobscura.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029210952id_/https%3A//www.atlasobscura.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlasobscura.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620073033id_/https%3A//www.atlasobscura.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Atlas Obscura
 
@@ -45,7 +45,7 @@ In addition, Atlas Obscura may release personally identifiable information: (i) 
 
 Atlas Obscura may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. This Privacy Policy does not apply to them, and Atlas Obscura cannot control their activities. 
 
-We may use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads via [Google Ads Settings](https://www.google.com/settings/ads). You may also be interested in the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/). 
+We may use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads via [Google Ads Settings](https://www.google.com/settings/ads), or opt out of general interested-based advertising via the [NAI Consumer Opt Out](http://optout.networkadvertising.org/?c=1). You may also be interested in the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/). 
 
 **Is My Information Secure?**
 
