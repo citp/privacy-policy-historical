@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mindtickle.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925032303id_/https%3A//www.mindtickle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtickle.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620065938id_/https%3A//www.mindtickle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MindTickle
 
 ## **Privacy Statement**
 
-**Effective Date : 1st February 2018**
+**Effective Date : 13th February 2019**
 
 MindTickle Inc. (“MindTickle” or “we”, “us” or “our”) is committed to ensure that your privacy is protected and wants you to understand how we collect, use, and disclose your information. This Privacy Statement describes MindTickle’s data collection, processing, and usage practices across our web applications deployed as a part of our subscription services (the “Web Apps”) and associated mobile applications (the “Mobile Apps”) and other services provided by us both online and offline (collectively, including Web Apps & Mobile Apps, the “Services”) and our marketing website located at [www.mindtickle.com](http://www.mindtickle.com/) (the “Website”, collectively including Services, the “Sites”) both owned and operated by MindTickle. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your Personal Information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Customer has engaged MindTickle.
 
@@ -171,9 +171,9 @@ MindTickle Inc.
 
 Attn: Chief Information Security Officer
 
-55 2nd Street, Suite 550
+115 Sansome Street, Suite 700
 
-San Francisco, CA 94105
+San Francisco, CA 94104
 
 [privacy@mindtickle.com](mailto:legal@mindtickle.com)
 
@@ -244,8 +244,8 @@ MindTickle complies with the Principles with respect to processing Personal Data
 
 MindTickle, Inc.  
 Chief Information Security Officer  
-55 2nd Street, Suite 550  
-San Francisco, CA 94105  
+115 Sansome Street, Suite 700  
+San Francisco, CA 94104  
 E-mail: privacy@mindtickle.com
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
