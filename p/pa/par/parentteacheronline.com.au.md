@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the parentteacheronline.com.au privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218214731id_/http%3A//parentteacheronline.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentteacheronline.com.au privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620090251id_/http%3A//parentteacheronline.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Parent Teacher Online
 
 Country Net Software Pty Ltd, owners of Parent Teacher Online provide the following Privacy Statement
 
 **SERVER AND DATA LOCATION**  
-**We own all our own servers and do not rely on third party hosted solutions. Our servers are co-located  ** **at: Equnix Data Centres, Sydney NSW**  
+**We own all our own servers and do not rely on third party hosted solutions. Our servers are co-located  ** **at: Macquarie Datacentre 17-23 Talavera Rd, Macquarie Park NSW 2113.**  
 Our structure meets all privacy policy at federal and individual state and territory levels in Australia with 128 bit encryption at industry standards.
 
 **COLLECTING ANONYMOUS INFORMATION**  
