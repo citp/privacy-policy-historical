@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keralahousedesigns.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313163239id_/http%3A//www.keralahousedesigns.com/2009/02/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralahousedesigns.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620193802id_/http%3A//www.keralahousedesigns.com/2009/02/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kerala home design and floor plans
 
@@ -15,7 +15,7 @@ www.keralahousedesigns.com does use cookies to store information about visitors 
 
   * Google, as a third party vendor, uses cookies to serve ads on www.keralahousedesigns.com.
   * Google's use of the DART cookie enables it to serve ads to users based on their visit to www.keralahousedesigns.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 
 
@@ -35,21 +35,21 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ## Popular Posts - All Time
 
-  * [ ](http://www.keralahousedesigns.com/2009/05/beautiful-house-elevation-designs.html)
+  * [ ](https://www.keralahousedesigns.com/2009/05/beautiful-house-elevation-designs.html)
 
 An orthographic view of some vertical feature of a house. (Front, rear, side, interior elevation)in other words exterior face of a building ...
 
-  * [ ](http://www.keralahousedesigns.com/2010/07/kerala-style-single-floor-house-plan.html)
+  * [ ](https://www.keralahousedesigns.com/2010/07/kerala-style-single-floor-house-plan.html)
 
 Ground Floor Plan - 1155.51 Sq. Feet Total Built Uo Area - 1155.51 Sq. Feet Designer:Shiju Kottathazha EIDC Muscat / Calicut Click on e...
 
-  * [ ](http://www.keralahousedesigns.com/2010/01/9-beautiful-home-interior-designs.html)
+  * [ ](https://www.keralahousedesigns.com/2010/01/9-beautiful-home-interior-designs.html)
 
 These Beautiful Home interior designs got as email. So don't know the sources. 
 
-  * [ ](http://www.keralahousedesigns.com/2009/03/some-beautiful-house-designs.html)
+  * [ ](https://www.keralahousedesigns.com/2009/03/some-beautiful-house-designs.html)
 
-  * [ ](http://www.keralahousedesigns.com/2009/03/some-unique-house-designs.html)
+  * [ ](https://www.keralahousedesigns.com/2009/03/some-unique-house-designs.html)
 
 Some Western Style House Exterior Design 
 
