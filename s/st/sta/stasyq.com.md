@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the stasyq.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621102328id_/http%3A//stasyq.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stasyq.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620183608id_/https%3A//www.stasyq.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - StasyQ
 
-  * ###  General
+  * ### General
 
-    * The operative parties referred to in this policy are COMPANY and you, the user of these sites. 1. **StasyQ Ltd.** , is the publisher and operator of the following websites:
+    * The operative parties referred to in this policy are COMPANY and you, the user of these sites. StasyQ INC., is the publisher and operator of the following websites:
 
       1. stasyq.com
 
-Hereinafter **StasyQ Ltd.** , shall be referred to as "COMPANY". When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to **StasyQ Ltd.** , d/b/a any one of the above sites, or as any other site that we may choose to publish in the future. Additionally, when the terms "The SITES" or "SITES" are used, these terms refer to any site published by us, unless a site is specifically exempt from this policy.
+Hereinafter StasyQ INC., shall be referred to as "COMPANY". When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to StasyQ INC., d/b/a any one of the above sites, or as any other site that we may choose to publish in the future. Additionally, when the terms "The SITES" or "SITES" are used, these terms refer to any site published by us, unless a site is specifically exempt from this policy.
 
       2. You, the User – As the user of these sites, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the sites shall be referred to in applicable second-person pronouns.
 
     * This Privacy Policy describes how we use information received about you when you visit our SITES or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the SITES.
 
-  * ###  Revisions to this Policy
+  * ### Revisions to this Policy
 
 We reserve the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the "refresh" button on your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the "last modified" date remains unchanged after you have clicked the "refresh" button on your browser, you may presume that no changes have been made since the last reading of the policy. A changed "last modified" dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
 
-  * ###  Personal information that we collect
+  * ### Personal information that we collect
 
 Visitors to our sites and services will have multiple manners of interactivity with us. Depending upon your level of interaction, we will collect different information about you. The type of information collected is as follows:
 
@@ -26,15 +26,15 @@ Visitors to our sites and services will have multiple manners of interactivity w
 
     * Browsers - Browsers are visitors to the sites who never enter into any active data collection pages. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devises (explained below).
 
-  * ###  How we collect information from you
+  * ### How we collect information from you
 
 Active Collection – we collect information from you when you complete registration forms to sign up for your membership on our Sites. Locations for such collection are on clearly marked registration pages. Such pages will ask for active entry of information, and such pages will not be disguised. We reserve the right to add additional information collection portals at any time, but will never create information collection portals that are not clearly disclosed to the user.
 
-  * ###  How we use your information
+  * ### How we use your information
 
 The primary use for your information is to provide you with services you have requested and/or paid for. We do not provide your information to any third parties, additionally, we do not use your information for statistical purposes. We do intend to and reserve the right to use any and all of your information in order to contact existing users and previous users. Such uses may include e-mails to prior customers inviting them to return to the site and to re-establish a business relationship with us. We will also use your information to e-mail customers for help with support issues, including anticipating support issues that existing customers or past customers my encounter. We will have an opt out or a "do not contact" process. You may contact us at support@stasyq.com in order to opt out of any and all e-mail communications with you. We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services.
 
-  * ###  Special Cases.
+  * ### Special Cases.
 
 It is our policy not to use or share the personal information about Visitors or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Websites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including:
 
@@ -52,13 +52,13 @@ It is our policy not to use or share the personal information about Visitors or 
 
     7. We will not provide any information to reporters or journalists, nor anyone else unless we are served with a lawful court order requiring us to provide such information to a third party.
 
-  * ###  Transmittals from Us
+  * ### Transmittals from Us
 
 We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting support@stasyq.com or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account.
 
 If you provide your information to us, use the Sites, or subscribe to any of our services, you will have created a commercial relationship with us. In having done so, you understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law.
 
-  * ###  Public Forums, Member Directories, and Internal Messaging:
+  * ### Public Forums, Member Directories, and Internal Messaging:
 
     * Our sites make chat rooms, message boards, forums, and/or newsgroups available to its users. You will not be required to provide personal information in order to use these services, however, please remember that any information you may disclose in our Member Directory, or other public areas of our Websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. We specifically disclaim any liability for use, misuse, or consequences of any information that you may voluntarily choose to post in any public areas.
 
@@ -66,17 +66,17 @@ If you provide your information to us, use the Sites, or subscribe to any of our
 
     * Internal Messaging – We provide an internal messaging system for use between members of our Sites. Any information that you send via this internal messaging system is not secure, and is not considered to be private information. You should use caution when sending any personal information over the internal messaging system, and you should not transmit any information that you would not wish to see disclosed to the general public.
 
-  * ###  Our Commitment to Data Security.
+  * ### Our Commitment to Data Security.
 
 We take measures, including data encryption, to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures.
 
-  * ###  How to Access or Modify Your Information.
+  * ### How to Access or Modify Your Information.
 
-We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at info@stasyq.com.
+We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at info@stasyq.com
 
-  * ###  Where to Direct Questions About Our Privacy Policy.
+  * ### Where to Direct Questions About Our Privacy Policy.
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at info@stasyq.com.
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at info@stasyq.com
 
 
 
