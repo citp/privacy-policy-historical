@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uk.gov.in privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220044136id_/http%3A//uk.gov.in/pages/display/147-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk.gov.in privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620034756id_/http%3A//uk.gov.in/pages/display/147-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Uttarakhand Government Portal, India
 
