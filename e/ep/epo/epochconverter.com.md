@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epochconverter.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904064111id_/https%3A//www.epochconverter.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epochconverter.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620102612id_/https%3A//www.epochconverter.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ At EpochConverter.com, the privacy of our visitors is of extreme importance to u
 
 ## Cookies and Web Beacons
 
-Like many websites, EpochConverter.com uses cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize web page content based on visitors browser type or other information that the visitor sends via their browser.
+Like many websites, EpochConverter.com uses [cookies](https://en.wikipedia.org/wiki/HTTP_cookie) and [web storage](https://en.wikipedia.org/wiki/Web_storage) to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 Some of our performance, advertising, social media and analytics partners may use cookies and web beacons on our site.   
 Our partners include Cloudflare (performance), Google (AdSense advertising, Analytics) and Disqus (comments).
@@ -28,4 +28,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Like many websites, EpochConverter.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-_Last modified: August 15, 2018_
+_Last modified: June 09, 2019_
