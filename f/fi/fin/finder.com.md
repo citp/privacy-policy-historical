@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finder.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929015253id_/https%3A//www.finder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finder.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620184815id_/https%3A//www.finder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | finder.com
 
