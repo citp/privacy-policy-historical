@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npu.edu privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110111444id_/http%3A//www.npu.edu/npu-website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npu.edu privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620191841id_/http%3A//www.npu.edu/npu-website-privacy-policy) for the most accurate reproduction.*
 
 # NPU Website Privacy Policy | Northwestern Polytechnic University
 
