@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emeraldinsight.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629224540id_/http%3A//www.emeraldgrouppublishing.com/about/policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emeraldinsight.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620054628id_/http%3A//www.emeraldgrouppublishing.com/about/policies/privacy.htm) for the most accurate reproduction.*
 
 # Emerald | Privacy notice
 
@@ -64,6 +64,14 @@ Emerald will only keep data for as long as is reasonable, based on the nature of
 We may disclose and exchange information with our group companies, service providers, representatives and agents, as well as with law enforcement agencies and regulatory bodies for the above reasons.
 
 Information may be held at our offices and those of our group companies, service providers, representatives and agents as described above. Information may be transferred to other countries around the world, including those without data protection laws equivalent to those in the UK, where required for our processing activities. We have security measures in place to seek to ensure that there are adequate safeguards in place to protect the data we hold.
+
+If you are an author, when you submit your article or book manuscript to Emerald, your name, email address, affiliation and other contact details will be used for dissemination of your published article or book and for delivery of Emerald Publishing services. This involves sharing data with third party partners involved in the production and publication process. By way of example, this includes editors and reviewers. We may use third party providers to verify personal and other information you have provided to us in connection with any manuscript you submit to us for publication.
+
+It is usual for your name and contact details to be included in the published content. Your published article or book will be made available on our website, www.emeraldinsight.com, and, for maximum discoverability, will be distributed to a number of third parties including abstracting and indexing service providers, content repositories, content aggregators and library discovery tools. We may also share your contact details with third party providers of author services to allow you to make use of their services.
+
+As an author, you must ensure that all co-authors and all significant contributors consent to publication of the article or book and to being named as a co-author or contributor to the article or book. If you are a co-author or significant contributor, we will process your personal information on the basis that the author has obtained your consent for us to do so.
+
+If you are a reviewer, your name will appear as a reviewer in the published journal you reviewed. If you object to your name being published, please contact [support@emeraldinsight.com](mailto:support@emeraldinsight.com "Email us.").
 
 We do not knowingly collect personal data relating to children under the age of 16. If you are a parent or guardian of a child under the age of 16 and think that we may have information relating to that child, please contact us at [support@emeraldinsight.com](mailto:support@emeraldinsight.com "Email us.").
 
