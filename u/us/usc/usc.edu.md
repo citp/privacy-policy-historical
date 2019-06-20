@@ -1,120 +1,49 @@
-> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622062611id_/https%3A//policy.usc.edu/info-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620051809id_/https%3A//www.usc.edu/privacy-notice) for the most accurate reproduction.*
 
-# Protection of Social Security Numbers and Other Restricted Information | Policy | USC
+# USC Privacy Notice - University of Southern California
 
-January 31, 2017
+University of Southern California (“USC”) is committed to delivering information services that recognize and respect users’ privacy concerns. This Privacy Notice is intended to inform you of our general policies and practices regarding our collection, use, and disclosure of the information that you submit to us and that we collect from you during your use of the [www.usc.edu](https://www.usc.edu/) website.
 
-USC receives and collects Restricted Information, as defined below, from and about students, faculty and staff employees, patients, and business partners, among others, in order to provide academic and clinical services and/or to conduct business operations. USC will use, store and transmit “Restricted Information” responsibly and in compliance with federal and state laws and regulations.
+The types of information we collect may vary depending on the specific USC site you visit or application you use. Accordingly, this Privacy Notice is intended to be a general statement and may be supplemented by more specific privacy notices that pertain to personal information exclusively associated with a specific department, unit or function.
 
-For purposes of this policy, “Restricted Information” is defined as in USC’s Information Security Policy as: “Information or data in this classification is typically regulated or would cause a significant business impact if it were disclosed. Data protected by Health Insurance Portability and Protection Act (HIPAA), Gramm-Leach Bliley Act (GLBA), Payment Card Industry Data Security Standard (PCI DSS), the Family Education Rights Privacy Act (FERPA), California Financial Information Privacy Act  (CFIPA), personal information and personally identifiable information . . . Other data and information may be classified as restricted if it is in the best interest of the university.”
+## Our Information Collection and Use Practices
 
-This policy applies to Restricted Information collected by any means and in any medium. It applies to all university faculty members (including part-time and visiting faculty), staff and other employees (such as postdoctoral scholars), students (including postdoctoral fellows and graduate students) and iVIP (guests with electronic access). In addition, all third parties, including vendors, consultants, and contractors who have access to or control of Restricted Information, described in this policy, must agree in writing to maintain such information in accordance with the policies of the university and in accordance with federal and state laws.
+Information you submit voluntarily through our websites, such as your name, email, or other contact information, may be collected by USC to respond to your inquiries, as well as for internal marketing and development purposes.
 
-### Reduce collection and storage of Restricted Information
+USC websites may use online data entry forms to collect personally identifiable information, including your name and contact information (email, address, telephone number) and other identifiers in order to allow you to provide website feedback, register for events, or use USC’s online applications and services.
 
-The university only should collect or store Restricted Information as necessary to (a) to meet legal and regulatory requirements; or (b) to provide services or conduct business that require Restricted Information, such as for provision of clinical care, administration of financial aid, tax purposes, and collections, among other things.
+We may reveal personally identifiable information about you to unaffiliated third parties:
 
-### Limit access to Restricted Information
-
-Only the minimum amount of Restricted Information necessary to fulfill a particular function or purpose should be shared or released. In particular, access to Restricted Information is limited to:
-
-  * the individual whose information is produced or displayed, upon verification,
-  * a university official or agent of the university with authorized access,
-  * a legitimate academic or business interest and a need to know,
-  * an organization or person authorized in writing by the individual to receive the information,
-  * a legally authorized government entity or representative, or other circumstances in which the university is legally compelled to provide access to personal information, or
-  * other individuals or entities, as permitted or required by law or regulation.
+  * if you request or authorize it;
+  * if the information is provided to help complete a transaction for you;
+  * if the information is provided to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders or subpoenas, to enforce our Terms of Use or other agreements, or to protect our rights, property or safety or the rights, property or safety of our users or others (e.g., to a consumer reporting agency for fraud protection etc.);
+  * if the information is provided to our agents, outside vendors or service providers to perform functions on our behalf (e.g., analyzing data, providing marketing assistance, providing customer service, processing orders, etc.); or
+  * as otherwise described in this Privacy Notice or in a more specific privacy notice associated with a particular department, unit or function.
 
 
 
-### Secure Restricted Information
+We may share information that does not personally identify you without restriction.
 
-Appropriate administrative, physical and technical safeguards must be implemented and maintained to secure Restricted Information, which include the following:
+## Cookies and Website Analytics
 
-  * Restricted Information involving personally identifiable information maintained in electronic format should be encrypted at rest and in transit, as feasible.
-  * Restricted Information involving personally identifiable information may not be stored on mobile devices unless proper access controls and encryption are maintained on the mobile devices.
-  * All systems storing Restricted Information must comply with the university’s Network Infrastructure Use Policy and the Information Security policy.
-  * Dual-factor authentication must be implemented, as technically feasible, on servers, systems and/or applications that contain Restricted Information.
-  * Restricted Information maintained in paper records must be stored with appropriate physical safeguards, such as in locked cabinets and/or in restricted areas limited only to those who need access to that information.
-  * Restricted Information must be destroyed (e.g., shredded) as soon as no longer needed for the legal or business purposes described above and/or in compliance with the university’s record management policy.
-  * All servers and workstations with access to Restricted Information must be scanned regularly, as determined by ITS Security, and findings must be fully remediated.
-  * All servers and third party systems that generate, store or transmit Restricted Information must meet the USC hardening checklist requirements, as applicable.
-  * Employees with access to Restricted Information are not permitted to directly access their workstations or laptops remotely unless they use VPN or the Keckcare Portal.
-  * Third parties may not access Restricted Information except as required by law or as necessary to carry out a business function and only if the third party has signed the university’s Business Associate Agreement or Data Security Addendum or other appropriate agreement as approved by Purchasing.
-  * Restricted Information must be secured in compliance with any other legal or regulatory requirements.
+We use cookies and similar technology to collect aggregate (non-personal) information about website usage by all of our visitors and to help us remember you and your preferences when you revisit the websites. These cookies may stay on your browser into the future until they expire or you delete them. We also use technology to remember you the next time you log in. Some of these cookies are erased when you close your browser window and some persist for a period of time. Further general information about cookies and how they work is available at [www.allaboutcookies.org](https://www.allaboutcookies.org/). You can decline cookies by adjusting your browser settings but some features of the websites may not function.
 
+We may allow selected third parties to place cookies through the website to provide us with better insights into the use of the website or user demographics or to provide relevant advertising to you. These third parties may collect information about a user’s online activities over time and across different websites when he or she uses our website.
 
+Many USC.edu websites use Google Analytics (or other similar web analytics tools) to collect information about visitor traffic and behavior. This allows us to identify usage trends and to improve the performance and content of our websites.
 
-### Approval
+We do not use this tool to collect or store your personal information, and it cannot be used to identify who you are.
 
-Any additional uses of Restricted Information or exceptions to the security safeguards described above must be reviewed and approved in writing by the Information Risk Committee.
+You can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout) to disable tracking by Google Analytics.
 
-### Notify school IT administrator if using Restricted Information
+We currently do not use technology that responds to do-not-track signals from your browser.
 
-__Faculty, staff and other employees will advise their school’s IT administrator if they are collecting, generating, transmitting or storing Restricted Information so that the information can be properly secured. The IT Administrator should consult with ITS Security and the Office of Compliance for assistance with requirements to secure the Restricted Information.
+## Access and Choice
 
-### Online collection of personally identifiable information
+USC students can manage privacy settings for their directory information by following the instructions in <https://arr.usc.edu/forms/RestrictDirectoryInformation.pdf>. Faculty and staff can manage their directory information in Workday.
 
-University departments that collect personally identifiable information on their webpages must post a link to this privacy policy and inform consumers about any persons or entities outside the university with whom they may share personal information collected online. If the department has a process for the consumer to change such information, that process must be described and available to the consumer on the department webpages. Complaints about online collection of personally identifiable information or compliance with the California Online Privacy Protection Act should be referred to the Information Security office at (213) 740-5555.
+You can choose not to receive certain emails from us by “unsubscribing” using the instructions in any email you receive from us. This will not stop us from sending emails about your account or education with us.
 
-### Special privacy rights of students relating to personal social media
+## Updates to Privacy Notice
 
-Pursuant to state law, USC is prohibited from requiring or requesting students, prospective students or student groups to disclose, access or divulge personal social media. Social media is defined as an electronic service or account, or electronic content, including but not limited to, video or still photographs, blogs, video blogs, podcasts, instant and text messages, email, online services or accounts or internet website profiles or locations.
-
-## Additional Requirements Regarding Social Security Numbers
-
-### Permitted use of Social Security numbers
-
-Social Security numbers may only be collected in the following circumstances or as otherwise required by law:  ** **
-
-  * IRS-related purposes
-  * For awards of financial aid and collected via the FAFSA
-  * Identification for unincorporated independent contractors
-  * Medicare patient identification
-  * Certain billing collection functions for students and patients
-
-
-
-Any additional uses of social security numbers must be approved by the Information Risk Committee.
-
-### Additional security standards for Social Security numbers
-
-Social Security numbers stored on USC systems must be encrypted or masked at rest and in transit. Exceptions to this requirement must be approved by the Information Risk Committee.
-
-### Restricted use of Social Security numbers
-
-It is against state law to:
-
-  * Publicly post or display the Social Security number in any manner;
-  * Print the Social Security number on any card required to access service;
-  * Require an individual to transmit his or her Social Security number over the internet unless the connection is secure or the number is encrypted;
-  * Require an individual to use his or her Social Security number to access an internet site unless a unique password or PIN is also required; or
-  * Print a Social Security number on any materials that are mailed unless required by a state or federal agency, unless state or federal law requires the Social Security number to be on the document to be mailed. Also, Social Security numbers may be included in applications and forms sent by mail, including documents sent as part of an application or enrollment process, or to establish, amend or terminate an account, contract or policy, or to confirm the accuracy of the Social Security number.
-
-
-
-## Additional References
-
-_California Civil Code Section 1798.85_  
-_California Civil Code Section 1798.81.5-82_  
-_California Labor Code Section 226_  
-_California Education Code Section 99120, et seq._
-
-## Responsible Office
-
-### Information Technology Services
-
-[consult@usc.edu](mailto:consult@usc.edu)  
-(213) 740-5555
-
-### Office of Compliance
-
-[ooc.usc.edu](http://ooc.usc.edu/)  
-[complian@usc.edu](mailto:complian@usc.edu)  
-(213) 740-8258
-
-## Issued by
-
-**Michael Quick, Provost and  Senior Vice President, Academic Affairs**  
-**Todd R. Dickey, Senior Vice President, Administration**  
-University of Southern California
+USC reserves the right to modify this privacy notice at any time. We encourage visitors to frequently check this page for any changes to this Privacy Notice. If we make changes, we will post an updated effective date below. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
