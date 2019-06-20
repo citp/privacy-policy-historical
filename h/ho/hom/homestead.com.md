@@ -1,76 +1,335 @@
-> *The following text is extracted and transformed from the homestead.com privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726205440id_/http%3A//www.homestead.com/legal/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestead.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620160255id_/https%3A//www.homestead.com/legal/legal_privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Homestead
+# Privacy Policy | Endurance International Group
 
-  
-**Homestead Technologies, Inc.**  
+This Privacy Notice, which was formerly referred to by us as a Privacy Policy, was last modified on May 16, 2019. Your continued use of our products and services will be subject to the practices set forth herein.
+
+## Table of Contents
+
+## About Us
+
+[The Endurance International Group, Inc.](https://web.archive.org/our-brands/) and our subsidiaries (“we,” “us” or “Endurance”) are a leading provider of online tools for small businesses to establish and build their web presence, get found in online search, and connect with customers through email marketing, social media, and more. Our brands include Constant Contact, Bluehost, HostGator, Domain.com, iPage, and others found at [https://www.endurance.com/our-brands/](https://web.archive.org/our-brands/). We care about protecting the personal information of our customers and visitors who use our websites, products or services (collectively, our “Users”). This privacy notice provides details about how your personal information is collected, shared and used by us. To learn more about the Endurance corporate family, visit: [https://www.endurance.com](https://web.archive.org/).  
+For the purposes of the European Union’s General Data Protection Regulation 2016/679, or GDPR, The Endurance International Group, Inc. and each of the brands from which you have signed up for a product or service are the data controller, and our European local representative is AppMachine B.V., located at Sophialaan 32, 8911 AE Leeuwarden, Nederland.
+
+## Information Covered by this Privacy notice
+
+This privacy notice, which may also be referred to as a “privacy policy” on some of our websites, covers personal information, including any information we collect, use and share from you, as described further below. This privacy notice applies to all websites and brands in the Endurance corporate family, our products and services, and our mobile applications (collectively, the “Services”). This privacy notice does not cover how our Users may use or share data that they collect using our services.
+
+When you purchase a Service from us, your personal information will be collected, used, and shared consistent with the provisions of this privacy notice. In addition, the following addendums related to particular Services offered by Endurance also apply to your purchase or use of those Services. These addendums are a part of this privacy notice:
+
+  * [Addendum for Users who purchased services from Constant Contact](https://web.archive.org/privacy/constant-contact-addendum/)
+  * [Addendum for Users who purchased Domain Registration services, including from Domain.com](https://web.archive.org/privacy/domains-addendum/)
+  * [Addendum for Users who purchased services from SinglePlatform](https://web.archive.org/privacy/single-platform-addendum/)
+
+
+
+## Information We Collect From You
+
+In the course of your use of the Services, we obtain the following information about you as described below. We collect this data for the purposes described under “How We Use Your Information”.
+
+### Information you voluntarily provide to us
+
+We collect the following information from you when you provide it to us:
+
+  * Information you provide prior to any registration process, such as your email when you provide it to us;
+  * Information that you provide during any registration process, including in connection with a co-branded offer (such as your name, company name, email address, phone number, billing address or credit card information, geographic location and industry);
+  * Information you provide, when you call or email us (for support or otherwise) or when you use our products or services; and
+  * Payment information, including credit card data that you provide to us (by way of our Services or otherwise) when you purchase some of our products and services.
+
+
+
+### Information we collect about your usage and devices
+
+  * We collect data relating to your online activity on our websites, including the following:
+    *       * IP address;
+      * Browser type and version;
+      * Type of device you use, operating system version, and device identifier;
+      * Geographic location;
+      * Pages you view;
+      * How you got to our Services and any links you click on to leave our Services;
+      * When you update your information, communicate with us, or order new Services;
+      * Metadata about your use of our Services and emails we send to you (including clicks and opens);
+      * Metadata about how your customers, contacts, and users interact with the Services we provide you;
+      * Your interactions with any videos we offer;
+      * Issues you encounter requiring our support or assistance; and
+      * Any device or other method of communication you use to interact with the Services.
+
+We store the data we collect in a variety of places within our infrastructure, including system log files, back end databases and analytics systems.
+
+
+
+  * We collect information from third party social networking sites, including information that they provide to us if you use your credentials at such social networking sites to log into some of our Services (such as your name and email address to pre-populate our sign-up form).
+  * The information you allow us to access varies by social networking site, and depends on the level of privacy settings you have in place at the social networking site. You can control and find out more about these privacy settings at the applicable social networking site.
+
+
+
+### Information We Aquire From Other Sources
+
+We also collect the following information from other sources:
+
+  * Information you provide to us at seminars or to our partners;
+  * Information you provide to us in surveys;
+  * Information that is publicly available; and
+  * Information you consent to us receiving from third parties.
+
+
+
+We also collect information that you may provide during your telephone conversations with us, which we may monitor or record.
+
+We may combine any information we collect about you with other information we have about you to help us update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+## How We Use Your Information
+
+We use the information we collect, both on its own and combined with any other information we collect about you, for the following purposes:
+
+  * To provide the requested Services to you;
+  * To provide you with useful content;
+  * To ensure the proper functioning of our Services
+  * To offer and improve our Services;
+  * To provide you with requested information or technical support
+  * To facilitate your movement through our websites or your use of our Services;
+  * To do a better job of advertising and marketing our Services (subject to your consent where required by applicable law);
+  * To advertise and market third party products and services (subject to your consent where required by applicable law)
+  * To diagnose problems with our servers or our Services;
+  * In connection with our security and compliance programs;
+  * To administer our websites;
+  * To communicate with you;
+  * To target prospective customers with our products or services (subject to your consent where required by applicable law);
+  * To assist us in offering you a personalized experience or otherwise tailor our Services to you; and
+  * As otherwise described in this privacy notice.
+
+
+
+We also use the information we receive to produce reports on trends and statistics, such as mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our websites or evaluated or purchased our products or services.
+
+Payment information that you provide to us, including credit card data, will only be used to facilitate payment for the Services.
+
+We also use recorded telephone conversations for quality control purposes, to train our employees and for our own protection.
+
+## Sharing of Information
+
+As further described below, we will only share certain personal information with:
+
+  * Other members of the Endurance corporate family;
+  * Our partners;
+  * Third party service providers and vendors;
+  * In connection with a sale, merger, acquisition or corporate reorganization;
+  * Authorized users within your organization; and
+  * For legal reasons.
+
+
+
+Further information about the third parties with whom we share personal information is available [here](https://web.archive.org/privacy/third-party-data/).
+
+### Sharing within the Endurance Corporate Family
+
+We share personal information with other members of the Endurance corporate family to allow our corporate affiliates to contact you with offers, services or products that may be of interest to you and to provide you with their products and services. Any such corporate affiliate may use your information only according to the terms of this privacy notice. If you are located in a jurisdiction where such sharing requires your permission, we will only do so with your consent.
+
+### Sharing with Partners
+
+When we share your personal information with certain third-party partners, including marketing and advertising partners, that information includes your name, email address and other information enabling partners to:
+
+  * Assist you in using our Services,
+  * Contact you with offers, services or products that may be of interest to you, and
+  * Provide you with their products or services.
+
+
+
+Our partners may use cookies and similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising [click here](http://preferences-mgr.truste.com/), or if you are located in the European Union, [click here](http://www.youronlinechoices.com/). Please note you will continue to receive generic ads. [Click here](https://www.endurance.com/privacy/cookie-policy) to access our Cookie Notice.
+
+If you are located in a jurisdiction where such sharing requires your permission, we will only do so with your consent. Please note that if you access our services through a tool that hides your location, such as through a virtual private network, you may not receive our request for permission because we were not able to identify you as being located in a jurisdiction where your permission is required.
+
+Further, our partners are prohibited from using your contact information for any purpose beyond those set forth above without your consent. We will not provide our partners with your credit card information. Further information about certain partners we share personal information with is available [here](https://web.archive.org/privacy/third-party-data/).
+
+In the event we collect information from you in connection with an offer that is jointly presented by us and a partner, we will let you know who is collecting the information and whose privacy notice applies, as well as any options you may have regarding use of your information.
+
+### Sharing with Third Party Service Providers and Vendors
+
+Occasionally, we enter into contracts with carefully selected third parties to assist us in servicing you (for example, providing you with customer service, fraud detection and deterrence or access to advertising assets and providing us with information technology and storage services) or to assist us in our own marketing and advertising activities (including providing us with analytic information and search engine optimization services). Additional information about certain third-party service providers we share personal information with is available [here](https://web.archive.org/privacy/third-party-data/). Our contracts with such third parties prohibit them from using any of your personal information for any purpose beyond the purpose for which it was shared.
+
+If you purchase a product or service from a third party through one of our brands, we will pass your personal information to such third party in order for them to fulfill your order.
+
+We also share non-personal information with certain third parties, including the media, industry observers, marketing and advertising partners, vendors, customers, potential customers or partners. For example, we disclose mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our websites or evaluated or purchased our products and services.
+
+### Corporate Reorganizations
+
+If we are involved in a merger, acquisition, a sale of all or a substantial portion of our assets, or other similar sale transaction, your information will be transferred as part of that transaction. We will notify you by email and/or a prominent notice on our website of any such transfer and any choices you may have regarding your information.
+
+All users authorized by you to have access to your account can view personal information stored in the account. A primary account holder can view personal information saved in subaccounts to which they have authorized access. We share information about authorized users only for legitimate purposes consistent with this privacy notice, including servicing your account and marketing products and services to you.
+
+### Legal Process
+
+If legally required to do so, or if we have a good faith belief that such disclosure is reasonably necessary, we may disclose your personal information to courts of law, public authorities (including to meet national security or law enforcement requirements), and other relevant third parties, such as internet service providers, to conduct an investigation, respond to a third party or law enforcement subpoena or court order, to bring legal action, prevent harm to others or pursue other relief when you or a third party are or may be:
+
+  * Violating our terms and conditions of use;
+  * Causing injury or other harm to, or otherwise violating the property or other legal rights, of us, other users, or third parties; or
+  * Violating federal, state, local, or other applicable law.
+
+
+
+This disclosure can include transferring your information to the U.S. and other countries outside the European Economic Area. To the extent we are legally permitted to do so, we will notify you in the event that we are required to provide your personal information to third parties in connection with a subpoena.
+
+## Security
+
+The transmission of information via the internet, email or text message is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted through the Services or over email; any transmission is at your own risk. Once we have received your information, we will take appropriate technical and organizational measures to safeguard your personal information against loss, theft and unauthorized use, access or modification.
+
+When we collect financial account information, such as credit card numbers, we protect its transmission through the use of encryption such as the Transport Layer Security (TLS) protocol.
+
+## Tracking Technologies and Online Advertising
+
+We use cookies, web beacons, pixels, tags, scripts and other similar technologies in the course of our business. Information about the technologies we use, why we use them (for example, in connection with online advertising), and how you can control them can be found in our [Cookie Notice](https://web.archive.org/privacy/cookie-policy/).
+
+## Choice/Opt-out
+
+### Marketing Communications from Us
+
+#### Email
+
+You always have the opportunity to opt out of our marketing communications with you or change your preferences by following a link in the footer of all non-transactional email messages from us or by emailing us at [optout@endurance.com](mailto:optout@endurance.com). Some communications from us are considered transactional or service communications (for example, important account notifications and billing information). You agree to receive these transactional and service communications as a condition of the Services that we provide to you. You must cancel your accounts for all Services, if you do not wish to receive any transactional or service communications from us. To cancel your account, please follow the instructions found in the terms of service for the applicable Service. You may still receive marketing communications from us even after you cancel your account unless you also opt-out of our marketing communications, as described above.
+
+#### Phone
+
+If you do not want to receive marketing calls by phone, you may contact customer support at the brand from which you purchased your Services and indicate your preference to us. Contact information for specific brands can be found on the homepage of each brand.
+
+Note that we may use automated dialing technology to place marketing calls. In the event we do use such technology for marketing calls, we will do so with your consent as required to comply with applicable law. You do not need to agree to receive automated marketing phone calls or texts from us in order to use the Services.
+
+### Cookies
+
+For information about how to manage and opt out from cookies, please visit our [Cookie Notice](https://web.archive.org/privacy/cookie-policy/).
+
+### Information from Third Parties
+
+To manage the information we receive about you from a social networking site or other third party (if applicable), you will need to follow the instructions from that party for updating your information and changing your privacy settings, where available. The information we collect is covered by this privacy notice and the information the third party collects is subject to such third party’s privacy practices. Privacy choices you have made on any third party site will not apply to our use of the information we have collected directly through our Services.
+
+### Unauthorized Accounts
+
+If an account or profile was created without your knowledge or authorization, please contact customer support at the brand on which the account or profile is located to request removal of the account or profile.
+
+## Retention of Personal Information
+
+We retain your personal information to provide services to you and as otherwise necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We will retain your personal information for no more than seven years following the later of (i) the date on which you terminate your use of the Services or (ii) May 25, 2018, unless we are otherwise required by law or regulation to retain your personal information for longer.
+
+## Legal Basis for Processing Your Information
+
+Depending on what information we collect from you and how we collect it, we rely on various grounds for processing your information under the GDPR, including the following:
+
+  * In order to administer our contractual relationship, including setting up your requested Services, payments, renewals and processes;
+  * Because it is in our legitimate interest to run a successful and efficient business and provide you with the Services and other useful content;
+  * In order to fulfill any legal obligations we may have to collect this information from you; and/or
+  * Because you have provided your consent for us to do so.
+
+
+
+## Your Rights
+
+Where the GDPR applies, in certain circumstances and subject to data processing agreements, you have rights in relation to the personal information we hold about you. We set out below an outline of those rights and how to exercise those rights. Please note that we will require you to verify your identity before responding to any requests to exercise your rights by providing details only known to the account holder. To exercise any of your rights, please send an email to [privacy@endurance.com](mailto:privacy@endurance.com) or visit the [Privacy Center](https://web.archive.org/privacy/). We will respond to your request within a reasonable timeframe. Please note that for each of the rights below we may have valid legal reasons to refuse your request, in such instances we will let you know if that is the case.
+
+Please note that if we have obtained or received personal information about you from a third party for the purpose of processing that data, any requests to exercise your rights with respect to that data should be directed to that third party. We will honor and support any instructions they provide us with respect to your personal information.
+
+### Access
+
+You have the right to know whether we process personal information about you, and if we do, to access data we hold about you and certain information about how we use it and who we share it with.
+
+### Portability
+
+You have the right to receive a subset of the personal information you provide us if we process it on the legal bases of our contract with you or with your consent in a structured, commonly used and machine-readable format and a right to request that we transfer such personal information to another party. If you wish for us to transfer the personal information to another party, please ensure you detail that party and note that we can only do so where it is technically feasible. We are not responsible for the security of the personal information or its processing once received by the third party.
+
+### Correction
+
+You have the right to require us to correct any personal information held about you that is inaccurate and have incomplete data completed. Where you request correction, please explain in detail why you believe the personal information we hold about you to be inaccurate or incomplete so that we can assess whether a correction is required. Please note that while we assess whether the personal information we hold about you is inaccurate or incomplete, you may exercise your right to restrict our processing of the applicable data as described below.
+
+### Erasure
+
+You may request that we erase the personal information we hold about you in the following circumstances:
+
+  * where you believe it is no longer necessary for us to hold the personal information;
+  * we are processing it on the basis of your consent and you wish to withdraw your consent;
+  * we are processing your data on the basis of our legitimate interest and you object to such processing;
+  * you no longer wish us to use your data to send you marketing; or
+  * you believe we are unlawfully processing your data.
+
+
+
+Please provide as much detail as possible on your reasons for the request to assist us in determining whether you have a valid basis for erasure.
+
+### Restriction of Processing to Storage Only
+
+You have a right to require us to stop processing the personal information we hold about you other than for storage purposes in the following circumstances:
+
+  * You believe the personal information is not accurate for the period it takes for us to verify whether the data is accurate;
+  * We wish to erase the personal information as the processing we are doing is unlawful but you want us to simply restrict the use of that data;
+  * We no longer need the personal information for the purposes of the processing but you require us to retain the data for the establishment, exercise or defense of legal claims; or
+  * You have objected to us processing personal information we hold about you on the basis of our legitimate interest and you wish us to stop processing the personal information while we determine whether there is an overriding interest in us retaining such personal information.
+
+
+
+### Objection
+
+You have the right to object to our processing of data about you and we will consider your request. Please provide us with detail as to your reasoning so that we can assess whether there is a compelling overriding interest in us continuing to process such data or we need to process it in relation to legal claims.
+
+You also have the right, at any time, to object to our processing of data about you in order to send you marketing, including where we build profiles for such purposes and we will stop processing the data for that purpose.
+
+### Withdrawal of Consent
+
+Where you have provided your consent to us processing your personal data, you can withdraw your consent at any time by visiting the [Privacy Center](https://web.archive.org/privacy/).
+
+## Third Party Links and Information Collection and Use by Our Users
+
+Some of our Services provide links to other websites. Because we do not control the information policies or practices of these third party sites, you should review their privacy policies to learn about how they collect and use personal information.
+
+You may also log in to some of our Services using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you with the option to share certain personal information with us, such as your name and email address to pre-populate our sign up form. For example, if you take advantage of certain of our social media features, such as the Facebook Like button, and widgets, such as the “Share This” button or interactive mini-programs that run on our site, the applicable social networking sites may collect your IP address, which page you are visiting on our websites, and may set a cookie to enable it to function properly.
+
+## Children
+
+Our Services are not directed to persons under 18. We do not knowingly collect personal information from children under 18. If you are a parent or guardian of such a child and become aware that your child has provided personal information to us, please contact us as described in this Privacy Notice and we will take reasonable steps immediately to remove any such information.
+
+## Data Transfer
+
+In order for us to provide the Services to you, your personal information will be transferred to, and stored at/processed in the United States. Your personal data is also processed by staff operating outside the European Economic Area (EEA), such as in India and the Philippines, who work for us or for one of our suppliers. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this notice.
+
+For transfers of personal information within the Endurance corporate family, such transfer will be under the Commission’s model contracts for the transfer of personal data to third countries (i.e., the standard contractual clauses), pursuant to Decision 2004/915/EC and 2010/87/EU.
+
+For transfers of data to third parties, such transfers will either (i) be under the Commission’s model contracts for the transfer of personal data to third countries (i.e., the standard contractual clauses), pursuant to Decision 2004/915/EC and 2010/87/EU; or (ii) rely on the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework.
+
+Endurance’s Constant Contact, Bluehost, Fast Domain, Host Monster and Just Host brands (together known as “Covered Entities”) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (together, the “Frameworks”). The Covered Entities are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, and to view our certifications, visit the U.S. Department of Commerce at <https://www.privacyshield.gov/list>
+
+The Covered Entities are responsible for the processing of personal data they receive, under each Privacy Shield Framework, and subsequently transfer to a third party acting as an agent on its behalf. The Covered Entities comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, the Covered Entities are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+You can contact the Data Protection Officer listed below to obtain a copy of the data transfer agreement or more information regarding the relevant safeguard we put in place. For more information about the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework, please visit the U.S. Department of Commerce’s Privacy Shield website.
+
+You may click on the seal to check Constant Contact’s privacy verification status.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=e295bdb8-2205-4b5d-bdb2-78ff2021f349)
+
+You may click on the seal to check Bluehost, Fast Domain, Host Monster and Just Host’s privacy verification status.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=740dce47-5416-4fd0-80ab-75137f09c05f)
+
+## Notification of Changes
+
+We reserve the right to modify this privacy notice at any time, so please review it frequently. If we decide to change this privacy notice in any material way, we will notify you here, by email, or by means of a notice on [www.endurance.com](https://web.archive.org/) or the website of the Endurance product or service you use prior to the change becoming effective. In all cases, your continued use of any Services constitutes acceptance to any such changes.
+
+## Complaints
+
+If you have any questions about this privacy notice or our data handling practices, or you wish to make a complaint, you may contact our Data Protection Officer at privacy@endurance.com or by regular mail at:
+
+Data Protection Officer  
 10 Corporate Drive  
-Burlington, MA 01803
+Burlington, MA 01803  
+U.S.A.
 
-This Privacy Policy applies to all users before May 23, 2018.  Beginning on May 23, 2018, our [new Privacy Policy ](https://endurance.com/privacy/privacy)will apply to all new users and all users in the EU/EEA member countries.  The new Privacy Policy will be effective on June 23, 2018 for users outside the EU/EEA member countries who signed up for services before May 23, 2018.  The legacy version of the Privacy Policy will remain posted here until July 23, 2018 for your reference.
+We will address your request. In addition, you may raise a complaint with the Dutch Supervisory Authority (Autoriteit Persoonsgegevens) by contacting:
 
- **PRIVACY POLICY**
+Autoriteit Persoonsgegevens  
+Postbus 93374  
+2509 AJ DEN HAAG  
+THE NETHERLANDS  
+Telephone: (+31) – (0)70 – 888 85 00  
+Fax: (+31) – (0)70 – 888 85 01
 
-  
-Your privacy is very important to Homestead Technologies, Inc. and its parent company Endurance International Group - West, Inc. (collectively referred to as "Homestead"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
-
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how Homestead collects information from all end users of Homestead's Internet services (the "Services") including those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a service fee to subscribe to the Services ("Users"). We also describe what we do with the information we collect and the choices Visitors and Users have concerning the collection and use of such information. Homestead requests that you read this Privacy Policy carefully.
-
-The information that Homestead Technologies, Inc. collects in connection with the Services is hosted on servers located in the United States (U.S.), unless otherwise provided.
-
-By using the Services, you freely and expressly give Homestead Technologies, Inc. your consent to export your information and data to the U.S.
-
-  1.  **INTRODUCTION**. Homestead collects information in different ways from Visitors and Users who access the various parts of our Services and the network of websites accessible through our Services. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required or permitted by law or other special cases described below.
-
-  2.  **REGISTRATION AND ACCOUNT INFORMATION**. Users are asked to provide certain personal information when they sign up for our Services including name, postal address, email address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. In addition, for domain registrations, Users may be asked to submit the above listed personal information for the registrant, administrative, technical and billing contacts of a domain name for submission to the appropriate domain registry or registration database (collectively, "Domain Name Registration Information"). Users may be asked to complete an online form that collects information about demographics, product usage and preferences, along with other information that will help us improve our products and services. The personal information collected from Users through these forms is used to manage each User's account (such as for billing purposes) and provide Users with information about services that may be of interest to them. This information is not shared with third parties, unless specifically stated otherwise or in special circumstances. However, in instances where Homestead and a partner jointly promote the Services, Homestead may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion. In this instance, personal information may not be used by the partner for any other purpose. Homestead may also generate non-identifying and aggregate profiles from personal information Users provide during registration (such as the total number, but not the names, of Users). As explained in more detail below, we may in certain instances use this aggregated and non-identifying information to sell advertisements that appear on the Services.
-
-  3.  **DOMAIN REGISTRATION**. In certain jurisdictions or pursuant to the rules of the Internet Corporation for Assigned Names and Numbers ("ICANN") or certain registries, Domain Name Registration Information legally has to be available to the public. Where Domain Name Registration Information is available to the public, anyone can access it through "WHOIS" searches. The WHOIS database is a publicly accessible database that lists the domain name and contact information of the registrant, administrative, and technical contacts for the domain name, the nameserver(s), and the domain name's creation and expiration date. The Domain Name Registration Information you provide is hosted by us and provided to the public. At times, our Users may receive solicitations that result from searches of the publicly available WHOIS database conducted by other companies or individuals. However, the solicitation and/or SPAM they receive do not in any way come from Homestead and Homestead does not control the use of WHOIS information by third parties. Further, pursuant to ICANN rules, Homestead is required to make WHOIS data available to a third party that enters into a bulk access agreement. ICANN allows individuals to opt-out (using the account management panel, domain management console or similar service) of their WHOIS information being made available to third parties through bulk access; however, companies, businesses, and other organizations do not have the option to choose not to have their information made available to such a third party under a bulk access agreement. We may also deposit your Domain Name Registration Information with a third-party escrow provider to comply with ICANN requirements.
-
-  4.  **HOMESTEAD PARTNERS AND SPONSORS**. Some products and services are offered to Visitors and Users in conjunction with a partner (e.g., domain registration and for joint promotions, as described in paragraph 2 above). To provide Visitors and Users with some of these products and services, the partner may need to collect and maintain personal information. In these instances, we will provide such data collected or transferred to our Partners and Sponsors. Additionally, many Homestead Users have co-branded pages that are co-sponsored by non-affiliated partners. Homestead will share non-identifying and aggregate information (except as described above), but not personally identifiable information of individual Users, with such partners in order to administer the co-branded products or services offered.
-
-  5.  **ONLINE SHOPPING**. At some websites that you access through links on Homestead, you can purchase products and services or register to receive materials, such as a catalog or new product updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for a Web site or service that is not provided by Homestead, Homestead has no control over the third parties' use of any personal information you provide when placing such an order and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information. Except as provided herein, we will not provide any of your personal information to these third parties without your consent. We provide links to these websites as a convenience to the User. Please exercise care when visiting linked websites. The linked websites have separate and independent privacy statements, notices and terms of use, which we recommend you read carefully. If you order products directly from Homestead, we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
-
-  6.  **ONLINE ADVERTISEMENTS**. Homestead does not share personally identifiable information about its individual Visitors or Users with advertisers. Homestead may display online advertisements and may share aggregated and non-identifying information about our Visitors and Users collected through the registration process, as well as through online surveys and promotions with these advertisers. Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements. For instance, an advertiser tells us the audience they want to reach (for example, males between 25 and 55 years of age) and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display the advertisement to the intended audience.
-
-  7.  **RESPONSES TO EMAIL INQUIRIES**. When Visitors or Users send email inquiries to Homestead, the return email address (and other personal information provided in the inquiry) is used to answer the email inquiry we receive. Homestead does not use the return email address for any other purpose and does not share the return email address with any third party.
-
-  8.  **VOLUNTARY CUSTOMER SURVEYS**. We may periodically conduct both business and individual customer surveys. We encourage our Users to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. We take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other Homestead Users to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information, may be shared with third parties. Unless otherwise noted in the survey invitation or the survey itself, Users have the option of completing surveys anonymously or providing us with contact information. We may use the contact information to follow up with Users based on the answers they provide. We may also contact you to highlight the changes we have made in response to feedback.
-
-  9.  **SERVICE PROVIDERS**. We may transfer (or otherwise make available) your personal information to our affiliates and other third parties who provide services on our behalf. For example, as discussed above, we may use service providers to authorize and process payments, administer surveys, and run our promotions. Your personal information may be maintained and processed by our affiliates and other third party service providers in the US or other jurisdictions. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes.
-
-  10.  **SALE OF BUSINESS**. We may transfer your personal information as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Homestead as part of a corporate reorganization or stock sale or other change in corporate control. Homestead may share personally identifiable information with other entities that are owned by Homestead or that own Homestead or that have some sort of corporate ownership relationship with Homestead.
-
-  11.  **SPECIAL CASES**. It is Homestead's policy not to use or share the personal information about Visitors of Users in ways unrelated to the ones described above without your consent. However, Homestead, or our service providers, may disclose personal information about Visitors or Users, or information regarding your use of the Services or websites accessible through our Services, for any reason, in our sole discretion to comply with US, Canadian or other laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests or demands for such information; in response to a search warrant or other legally valid inquiry or order; to an investigative body in the case of a breach of an agreement or contravention of law; to disclose information that is necessary to identify, contact, or bring legal action against someone who, for example, may be violating our Acceptable Use Policy or other user policies; to operate the Services properly; to protect Homestead and our Users; or as otherwise permitted or required by law.
-
-  12.  **"COOKIES" AND HOW HOMESTEAD USES THEM**. A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. Homestead may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. These cookies do not enable third parties to access any of your User information. You may set your Web browser to notify you when you receive a cookie. However, if you decide not to accept cookies, you may not be able to take advantage of all of the features of our Web site. Additionally, be aware that if you visit non-Homestead websites where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. In addition, Homestead utilizes cookies to track referrals from internal and external affiliates, as well as advertising campaigns.
-
-  13.  **HOMESTEAD STATISTICS**. We use information gathered from our site statistics (for example, User IP addresses) to help diagnose problems with our servers, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable.
-
-  14.  **PUBLIC FORUMS AND SOCIAL MEDIA**. Please remember that any information you may disclose in our User Directory, Spotlights/case studies, testimonials, Forums, Social Media account or other public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
-
-  15.  **HOMESTEAD'S COMMITMENT TO DATA SECURITY**. We have implemented measures designed to protect personal information in our custody and control. We maintain reasonable administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party, despite our best efforts.
-
-Your online access to certain personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls or email messages).
-
-Data related to the services will be maintained in the US. We have personal information retention processes designed to retain personal information of our customers for no longer than necessary for the purposes stated above or to otherwise meet legal requirements.
-
-  16.  **HOW TO ACCESS OR MODIFY YOUR INFORMATION**. You have the right to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information we have in our custody or control by accessing your personal information in your account or by contacting support via email, phone or online chat. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records.
-
-To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly by logging into your account and clicking on the "Account" drop-down menu and selecting "Contact Info & Security".
-
-  17.  **UNSUBSCRIBE FROM HOMESTEAD MESSAGING**. Except as otherwise contemplated in this Privacy Policy, as a paying Homestead Member, if you do not want to receive messages from Homestead about new features or products, tips on product use, and promotions, you can indicate your preference by clicking the respective box of your choice. You can unsubscribe from receiving such information by logging into your account and clicking on the "Account" drop-down menu and selecting "Contact Info & Security". If you would ever like to start receiving messages, you can always update your profile accordingly.
-
-If you are using Homestead's free trial service for thirty (30) days and wish to unsubscribe from receiving promotional messages, you must call our service line at 1-800-710-1998. A Homestead representative will ask you for your email address at which point you may request to decline the promotional messages.
-
-If you have been contacted by Homestead as a result of information you entered on any of our web sites or if you provided your personal information to Homestead for the purposes of receiving more information about a Homestead Service before choosing to sign up as a Member, and you no longer want to be contacted by Homestead, you can click on the "unsubscribe" link at the bottom of any email you receive and Homestead will remove you from the list of those who will be contacted with more information about the Homestead service.
-
-Please note: Homestead reserves the right to send you email communications that relate directly to your account.
-
-  18.  **HOW DO I UPDATE OR DEACTIVATE MY ACCOUNT?** As a paying Homestead Member, you can control and update your contact information for Homestead Services by logging into your account and clicking on the "Account" drop-down menu and selecting "Contact Info & Security". If you wish to deactivate your Homestead Service, please log into your account and click on the "Help" drop-down menu and select "Account and Billing" and then select "Cancel Services".
-
-Free trial users, may access and update their personal information by calling 1-800-710-1998. Please provide the customer support representative your email address and identify the information that you wish to access and update. For free trial users who may wish to terminate the account, please call the service number above.
-
-  19.  **REVISIONS TO THIS POLICY**. Homestead reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
-
-
-
+ **Last modified May 16, 2019**
