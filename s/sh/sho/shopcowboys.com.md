@@ -1,137 +1,211 @@
-> *The following text is extracted and transformed from the shopcowboys.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609082553id_/http%3A//shop.dallascowboys.com/customer-service-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopcowboys.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620052937id_/https%3A//shop.dallascowboys.com/customer-service-privacy.html) for the most accurate reproduction.*
 
-# Dallas Cowboys Pro Shop
+# Privacy Policy
 
-This privacy policy applies to the Dallas Cowboys’ website located at www.dallascowboys.com (the “Website”). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
+_Last Updated: October 30, 2018_
 
-Please [click here](https://web.archive.org/privacy-policy-kid-users) for Cowboys Crew/Kid User Privacy Policy.
+## 1\. Introduction.
 
-  
-The Website is operated by the Dallas Cowboys.
+Welcome to the Official Pro Shop of the Dallas Cowboys (“ **Pro Shop** ,” “ **Site** ,” or “ **it** ”), a Web-based software toolset operated by Dallas Cowboys Pro Shops, LP (“ **Provider** ”). This page explains the privacy policies that govern the use of our online and/or mobile services, website, and software and any other content provided on or in connection with the service (collectively the “ **Service** ” or “ **Services** ”). Provider and all other related entities respect users’ privacy and value their trust and confidence. This privacy policy (the " **Privacy Policy** ") applies to our websites and online services that link to or post this Privacy Policy (collectively, the " **Services** "), and explains how Provider collects, uses, and discloses information through the Services. This Privacy Policy incorporates by reference Site’s General Terms of Use Agreement which can be viewed by using the following [link](https://web.archive.org/web/20190620052937id_/https%3A//shop.dallascowboys.com/terms.html). By using the Services, you agree to the terms of this Privacy Policy. 
 
-When this privacy policy uses the term “personally identifiable information” or “personal information,” we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
+This Privacy Policy does not apply to Provider websites that do not link to this Privacy Policy. In some instances, it may direct you to a site that is operated by a third party service provider. Even though the page where you provide information may have the look and feel of the Services, a different privacy policy may govern that information collection by our third party service provider. 
 
-Please read the information below to learn more about our data collection policies and practices. 
+## 2\. Information Collection.
 
-  
-1\. Types Of Information That May Be Collected   
-2\. How Information May Be Collected   
-3\. How We Use The Information Collected   
-4\. With Whom The Information May Be Shared   
-5\. Security   
-6\. Blogs   
-7\. Links To Other Websites   
-8\. A Special Note For Parents Concerning Privacy   
-9\. Notification Of Changes And Your Acceptance Of The Privacy Policy   
-10\. Correcting/Updating Personal Information   
-11\. Your California Privacy Rights   
-12\. Questions About This Privacy Policy
+You generally are not required to provide information about yourself when you visit the Services. However, it may ask you for some or all of the following types of information when you register with our Services, sign up for contests or sweepstakes, participate in surveys, access various content or features, submit comments or content, use a send-to-a-friend feature, or directly contact us with questions or feedback: 
 
-**TYPES OF INFORMATION THAT MAY BE COLLECTED  **
+1\. Contact information, such as name, e-mail address, postal address, and telephone number;   
+2\. Unique identifiers, such as a user name or password;   
+3\. Demographic information, such as gender; device type, operating system version and mobile carrier   
+4\. Financial information, such as credit card or other payment information;   
+5\. Geolocation information;   
+6\. Device Information, such as activity on the device, which applications are running, browsing history, and bookmarks. It also collects device carrier, operating system type and version; This is to help us ensure you have the best browsing experience possible.   
+7\. Communications preferences;   
+8\. Search queries;   
+9\. Comments and other information posted in our interactive online forums;   
+10\. Correspondence and other information that you send to us; and   
+11\. Additional information as otherwise described to you at the point of collection or pursuant to your consent.   
+Site may also collect certain information automatically when you visit the Services, including: 
 
-**  
-** The following are the types of information we may collect:   
-Information You Provide Us: In the course of using the website, we may ask you to provide us with certain information, including contact information, such as your name, mailing address, email address, phone number, fax number, unique identifiers, such as your user password, demographic information, such as your age range, gender, education, household income, marital status, financial information, such as your credit card number or similar information.
+1\. Your Internet Protocol address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;   
+2\. Other unique identifiers, including mobile device identification numbers;   
+3\. Your browser type and operating system;   
+4\. Sites you visited before and after visiting the Services;   
+5\. Pages you view and links you click on within the Services;   
+6\. Information collected through cookies, web beacons, Local Shared Objects, and other technologies;   
+7\. Information about your interactions with e-mail messages, such as the links clicked on and whether the messages web received, opened, or forwarded; and   
+8\. Standard Server Log Information 
 
-Site Usage Information: We may receive and store certain types of internet usage information whenever you visit the Website, such as your click-stream data and your IP address. See “IP Addresses and Click Stream Data” section below.   
-Email Communications: When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have opted to receive or not to receive.
+## 3\. Use of Information.
 
-**HOW INFORMATION MAY BE COLLECTED  **
+Site may use information that it collects through the Services for a variety of purposes, including to: 
 
-**  
-** We may collect information from you in several different areas on the Website, including but not limited to those described below:
+1\. Provide you with the products, promotions, services, newsletters, and information you request and respond to correspondence that it receive from you;   
+2\. Contact you via email and otherwise about your account, products, services, contests, and events that it thinks might be of interest to you;   
+3\. Send you promotional material or special offers on our behalf or on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties;   
+4\. Maintain or administer the Services, perform business analyses, or for other internal purposes to improve the quality of our business, the Services, and other products and services it offers;   
+5\. Publish stories, comments, photos, and other information posted in our interactive online features;   
+6\. Process employment applications and inquiries;   
+7\. Customize and personalize your use of the Services; and   
+8\. As otherwise described to you at the point of collection or pursuant to your consent. 
 
-Registration: You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
+## 4\. Sharing of Information.
 
-Newsletters and Website Emails: We may offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter, if produced, either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or email. Visit www.dallascowboys.com/contact_us.cfm?cat=Privacy to opt-out. We do not share your email address with any third parties for marketing purposes.
+Site is committed to maintaining your trust, and it wants you to understand when and with whom it may share the information it collects. At times, as described below, it may share your personal information with others for various purposes: 
 
-Contests or Sweepstakes: We periodically operate contests and sweepstakes through the Website that may require registration or the submission of personal information. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes, (see the rules of each contest for details about how your personal information will be used). We may also ask your permission to allow us to publicly post some of your information on the Website, such as on a winner’s page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Website, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we do not collect your information and we have no control over the information collected from you. Accordingly, we urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
+1\. **Service Providers** : Site may share your information with service providers that perform certain functions or services on our behalf (such as to host the Services, fulfill orders, provide products and services, manage databases; perform analyses, process credit card payments, provide customer service, or send communications for us). These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
-Surveys or Voting: From time-to-time we may request personally identifiable information from you in conjunction with a survey or voting poll. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
+2\. **Subsidiaries and Affiliates** : Site may share your information with all members of the NFL Family, including, without limitation, our subsidiaries and affiliates (e.g., NFL Properties LLC, NFL International LLC, NFL Enterprises LLC, NFL Ventures, L.P., and NFL Ventures, Inc.). 
 
-Games: When you register to play games on our Website, you may be asked to provide personally identifiable information.
+3\. **Member Clubs** : Site may share your information with the thirty-two individual NFL Member Clubs, each of whom has its own privacy policy, which is available on the Member Clubs’ respective websites. 
 
-Cookies: As with many Websites, our Website uses a technology called "cookies." A cookie is a unique, random number that is stored in the browser on your computer. The cookie doesn't actually identify you, just the computer that is used to visit the site. Cookies automatically identify your browser to the Website whenever your computer is used to visit the Website. Cookies also let us know how many people visit our website and where visitors go on the site. In addition, cookies can let us know non-personally identifiable information, like what web browser is being used to access the website. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Website, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. Cookies may also allow the Website to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies.
+4\. **Select Business Partners** : With your prior permission, it may share your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. For example, you may be presented with an opportunity to have certain information shared with our third party business partners when you enter a contest or sweepstakes or elect to receive marketing offers or other information. If you do not elect to have your information shared, it will not be shared with such third parties. Site takes measures to help ensure that our partners protect the confidentiality, integrity, and security of any information it share with them. However, Site is not responsible for the privacy practices of our business partners, which may use your information for their own purposes. 
 
-IP Addresses and Click-Stream Data: We may collect IP addresses and/or click-stream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses for purposes of system administration and to report aggregate information to our advertisers and sponsors, for example regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information. Click-stream data is information collected by our computers when you request Web pages from the Website. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Website, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
+5\. **Contests and Sweepstakes** : In some cases, a third party may operate or host a contest or sweepstakes on the Services and collect your information. In those cases, Site urges you to review the third party's privacy policy for that contest or sweepstakes before participating. Site takes measures to help ensure that our partners protect the confidentiality, integrity, and security of any information it share with them. However, Site is not responsible for the privacy practices of our business partners, which may use your information for their own purposes. Site recommends you read their respective privacy policies in advance. 
 
-Transaction Information: If you conduct a financial transaction with our Website, such as joining the Extra Point Club, we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and financial information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. For your protection, such information is collected and stored through encrypted means.
+6\. **Surveys** : Site may provide you the opportunity to participate in contests or surveys. If you participate, it will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). It may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users’ personally identifiable information for any other purpose. Site will not share the personally identifiable information you provide through a contest or survey with other third parties unless it gives you prior notice and choice. 
 
-**HOW WE USE THE INFORMATION COLLECTED**    
+7\. **Third-Party Ad Serving and Audience and Traffic Measurement Services** : Site may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users’ online activities over time and across different websites. You may manage your preferences by using the following link: [https://preferences-mgr.truste.com](https://preferences-mgr.truste.com/). 
 
+8\. **Business Transfer** : If Site sells all or part of its business, or makes a sale or transfer of assets, or is otherwise involved in a merger or business transfer, or in the unlikely event of bankruptcy, a business reorganization, or similar event, Site may transfer your information as part of such transaction. 
 
-As applicable, the information you provide to us may be used to:   
-contact you about the Website;   
-contact you relating to your membership status;   
-confirm or fulfill an order you have made;   
-inform you of a prize you have won;   
-monitor or improve the use of the Website;   
-customize the advertising and content you see;   
-monitor compliance with our terms and conditions of use of the Website; and   
-send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
+9\. **Administrative or Legal Process** : Site may disclose your information to third parties in order to protect the legal rights, safety, and security of Provider, the NFL, its corporate affiliates, subsidiaries, business partners, and the users of our Services; enforce its Terms of Use; respond to and resolve claims or complaints; prevent fraud or for risk management purposes; and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required. 
 
-**WITH WHOM THE INFORMATION MAY BE SHARED  ** **  
-**
+10\. **Interactive Features** : Site may share information with third parties when you post information to a user profile or account, or a public area of the Services, such as a chat room, forum, blog, or other community tool. If you post to these interactive features, it will be publicly available and you may receive unsolicited messages from other parties. Site cannot ensure that parties who have access to such information will respect your privacy. Please exercise caution when using these features. 
 
-At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
+11\. **Other Parties with Your Express Consent** : Site may share information with third parties when you consent to such sharing. For example, if you win a contest or sweepstakes, Site may ask your permission to publicly post certain information on the Services identifying you as the winner. 
 
-Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products.   
-When purchasing tickets online, visitors will be linked to ticketmaster.com. Please refer to their privacy policy for more information.
+12\. **Aggregate Information** : Site may share aggregate information, such as demographics and usage statistics, with advertisers, sponsors or other organizations. 
 
-Aggregate Information: We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
+13\. **Geo-Location Data and Services Providers** : Site may share your geo-location data with service providers that perform certain functions or services on our behalf (such as to host the Services, fulfill orders, provide products and services, manage databases, perform analyses, process credit card payments, provide customer service, or send communications for us). These companies are authorized to use your geo-location data only as necessary to provide these services to us. 
 
-Other Promotional Offers: We may send offers to you on behalf of our marketing partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may click the opt-out link at the bottom of the email.
+14\. **Geo-Location Data and Third Parties** : Site may share your geo-location data with third parties for the purpose of them serving you ads for places in your area. 
 
-Business Transfers: In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer. Please see “Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy” section below. 
+## 5\. Tracking Technologies & Cookies.
 
-Administrative or Legal Process: Your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this website. 
+Technologies such as: cookies, beacons, tags, and scripts are used by the Provider and its marketing partners, affiliates, and other service providers such as analytics providers and e-commerce providers. These technologies are used in analyzing trends, administering the Site, tracking users’ movements around the Site and gathering demographic information about our user base as a whole. Site may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. Site uses cookies for various purposes as described above and in addition to remember users’ settings (e.g., language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Site, but your ability to use some features or areas of our Site may be limited. 
 
-**BLOGS, FORUMS, AND MESSAGE BOARDS**    
+As is true of most websites, Site gathers information automatically and store it in log files. This information may include Internet Protocol address, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and or clickstream data. Site may combine this automatically collected log information with other information it collects about you. It does this to improve services it offers to you, and to improve marketing, analytics and Site functionality. 
 
+Site uses Local Storage Objects (“ **LSO** ”) such as HTML5 of Flash to store content information and preferences. Third parties with whom Site partners to provide certain features or to display advertising based upon your web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs, please [click here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
 
-The Website may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.   
+Site uses mobile analytics software to allow it to better understand the functionality of its Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and the source from which the application was downloaded. Site does not link the information it stores within the analytics software to any personally identifiable information you submit within the mobile app. 
 
+By using the Services, you consent to Site’s use of cookies and similar technologies. You can decide if and how your computer will accept a cookie by configuring your preferences or options in your browser. However, if you choose to reject cookies and similar technologies, you may not be able to use certain online products, services or features on the Services. 
 
-  
-**LINKS TO OTHER WEBSITES**    
+## 6\. Behavioral/ Re-Targeting.
 
+Site partners with a third party ad network to either display advertising on its website or to manage its advertising on other sites. Our ad network partner uses cookies and web beacons to collect personal information about your activities on this and other websites. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [https://preferences-mgr.truste.com](https://preferences-mgr.truste.com/) or if located in the European Union [https://www.youronlinechoices.eu](https://www.youronlinechoices.eu/). Please note that this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
-You should be aware that when you are on the Website you could be directed to other Websites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Website onto a different Website. This includes links from advertisers, sponsors and marketing partners that may use the Website's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Website, you should consult that Website's privacy policy before providing any personal information.  
+## 7\. Social Networking.
 
-This Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required. 
+Provider works with certain third-party social media providers to offer you their social networking services through our Services. For example, you can use third-party social networking services, including but not limited to Facebook, Google+, and others to share information about your experience on our Services with your friends and followers on those social networking services. These social networking services may be able to collect information about you, including your activity on our Services. These third-party social networking services also may notify your friends, both on our Services and on the social networking services themselves, that you are a user of our Services or about your use of our Services, in accordance with applicable law and their own privacy policies. If you choose to access or make use of third-party social networking services, it may receive information about you that you have made available to those social networking services, including information about your contacts on those social networking services. Your interactions with those social networking services are governed by the privacy policy of the company providing it. 
 
-The Website is a general audience Website. We do not currently collect any personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent. For more information about the privacy practices for our affiliated children's Website, NFLPlayFootball.com, please consult the privacy policy at the children's Website. There is limited information collected about children under the age of 13.  Limited information is also collected about children under the age of 13 in the Dallas Cowboys Cheerleaders section. Parents register their kids for Camp DCC, which is a three day instructional camp held by the Dallas Cowboys Cheerleaders during the summer. The childs name is stored along with the parents name and their parents contact information in the database. Parents can request to delete their child's information from the database by sending the request to the following email address: dcc_opt-out@dallascowboys.net.
+You also may be able to link an account from a social networking service (e.g., Facebook, Google+, Yahoo!, etc.) to an account through our Services. This may allow you to use your credentials from the other websites or services to sign in to certain features on our Services. If you link your account from a third-party site or service, it may collect information from those third-party accounts, and any information that Site collects will be governed by this Privacy Policy. 
 
-The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the Direct Marketing Association's Web Website (www.the-dma.org) and explore the Get CyberSavvy! Program as well as the GetNetWise Website (www.getnetwise.org) to learn more about parental control tools.
+## 8\. Public Profile.
 
-**YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE POLICY  ** **  
-**
+The profile or account that you create on the Site will be publicly accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal. 
 
-By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
+## 9\. Links to Other Websites.
 
-**CORRECTING/UPDATING PERSONAL INFORMATION  ** **  
-**
+The Services may contain links to other websites or online services that are operated and maintained by third parties and that are not under our control or maintained by us. Such links do not constitute an endorsement by us of those other websites, the content displayed therein, or the persons or entities associated therewith. This Privacy Policy does not apply to this third-party content. Site encourages you to review the privacy policies of these third-party websites or services. 
 
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. 
+## 10\. Security.
 
-**YOUR CALIFORNIA PRIVACY RIGHTS** ** **
+Site has adopted generally accepted standards to help protect against loss, misuse, and unauthorized access to the information you provide to us. When you enter sensitive information (such as a credit card number) and geo-location, it encrypts the transmission of that information using secure socket layer technology. 
 
-**  
-** A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business’s privacy practices if it shares information with other companies for those companies’ direct marketing purposes.   
-As explained in this privacy policy, whenever you agree to let us collect personal information about you, we will always provide you with an option to prevent this information from being shared for non-administrative purposes with third parties. You can exercise this option at any time by following the steps outlined above. 
+Please note that no data transmission or storage can be guaranteed to be 100% secure. As a result, while Site strives to protect your information and privacy, it cannot guarantee or warrant the security of any information you disclose or transmit to the Services. Therefore, Site cannot be responsible for the theft, destruction, or inadvertent disclosure of your information. 
 
-  
-Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.
+## 11\. Data Retention.
 
-If you are a California resident and have questions about our compliance with this law, please visit www.dallascowboys.com/contact_us.cfm?cat=Privacy or write to us at CA Privacy Rights, Attn: Alan Larkin, One Cowboys Pkwy, Irving, TX 75063.   
+Site will retain your information for as long as your account is active, as needed to provide you the Services, comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
+## 12\. Children’s Privacy.
 
-**QUESTIONS ABOUT THIS PRIVACY POLICY  **
+### 12A. Scope.
 
-**  
-** If you have any questions about this privacy policy or the privacy practices of this Website, contact www.dallascowboys.com/contact_us.cfm?cat=Privacy.   
-Questions regarding this statement should be directed to:   
-Dallas Cowboys   
-Attn: Website Privacy Policy   
-One Cowboys Pkwy   
-Irving , TX 75063
+Site may collect personal information from users who are under the age of thirteen (13) through their use of the Services. To the extent that this type of personal information is collected, Site does so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.). 
+
+COPPA requires Site to inform parents and legal guardians about how we collect, use, and disclose personal information from Site users under the age of 13. It also requires that Site obtains parental consent before it allows Children under the age of 13 to use certain features of the Site. By using the Services, you agree to the terms of this section of Site’s Privacy Policy (individually, the “ **Children’s Privacy Policy** ”). 
+
+This Children’s Privacy Policy incorporates by reference Site’s General Terms of Use Agreement which can be viewed by using the following [link](https://web.archive.org/web/20190620052937id_/https%3A//shop.dallascowboys.com/terms.html). As used in this Children’s Privacy Policy, the following terms have the following meanings: 
+
+“ **Parent** ” includes legal guardians. 
+
+“ **Child** ” or “ **Children** ” means a user or users that are under the age of 13. 
+
+“ **Personal Information** ” or “ **Profile Information** ” means individually identifiable information including personal information such as a username, first and last name, birthdate, phone number, email address, and other contact information collected through Child user’s use of the Site’s Services or when Child user registers for an account. Depending on the specific Service accessed, additional information may be collected if the Child user creates a player profile, including but not limited to, height, weight, photograph and/or video and other biographical or personal information, and information about the Child user’s performance or information relating to the Child user’s team, league, or organization. 
+
+“ **Organization** ” means any association of which the Child user is a member or intends to apply for membership by registering online or authorizing to enter the Child user’s information into their website. 
+
+For more information about COPPA, use the following link:   
+<https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule>
+
+### 12B. Parental Consent.
+
+Site is required by COPPA to use reasonable efforts to ensure that, before it collects any personal information from a Child, the Child user’s parent receives notice of and consents to Site’s information collection and disclosure practices. Parents should know that through use of the Site Services, Child users under the age of 13 may participate in activities that involve the collection or use of personal information. However, Child users may not participate in any Site activities without a parent’s permission. 
+
+If a user is under age 13, Site must have “verifiable parental consent” before it collects and uses the Child user’s personal information. Site accomplishes this by requiring parents to provide their name and e-mail address to Site prior to the collection of the Child user’s information, together with an acknowledgement of the fact that their Child is under 13. 
+
+### 12C. Information Site Collects & How Site Collects It.
+
+Site’s General Terms of Use Agreement and this Privacy Policy set forth the information that Site collects from both Children and users who are over the age of 13. This information is collected in the same manner regardless of a user’s age but in the instance of a Child under 13, only with the Parent’s consent. 
+
+A Parent has many tools to monitor and supervise the Child’s activities on the Site. For example, Site requires that Parent provides his or her e-mail address as a prerequisite of the Child user’s account creation. Therefore, a Parent can edit his or her Child’s account profile, turn on and off notifications, and monitor all postings to the Site by their Child or other Users using the Service. Site encourages Parents to always closely monitor their Children’s use of the Services. 
+
+### 12D. Tracking Child Users’ Activities on the Site.
+
+When a Child user is logged into his or her account, Site may track the Child’s activities within the Site. For example, Site may track the pages visited, the length of time spent logged in, the information submitted about preferences, and comments posted via the Service. This information is associated with the Child’s account and may be combined with the personally identifiable information Site collects from him or her. 
+
+Site may partner with third parties to provide content and/or to display targeted advertisements. Site will not share a Child user’s personally identifiable information with these third parties. However, some of these third parties may use tracking technologies, such as cookies and Web beacons, in order to track user activity. We do not exercise control over or have access to these tracking technologies or the information practices of these parties, which are subject to the privacy policies of these third parties. 
+
+Parents may request information from Site on the type of data being collected, view their Child’s information, and, if they choose, prohibit us from making further use of their Child’s information. For more information on how to do this, see the section below entitled “How to Review, Delete or Alter the Information Collected from Child Users.” 
+
+### 12E. How to Review, Delete or Alter the Information Collected from Child Users.
+
+Parents can review their Child’s personal information at any time by accessing their account or profile. Parents may remove access for their Child or delete their Child’s account entirely. Parents can also have their Child’s personal information deleted and refuse to permit further collection of such information by Site. 
+
+If Parents wish to view, delete or modify the information that Site collected about their Child, or if Parents want to delete their Child’s account or profile, Parents may do this by directly accessing the Child user’s account or profile, or by e-mailing Provider at [DMCAgroup@dallascowboys.net](mailto:DMCAgroup@dallascowboys.net). However, Parents should understand that even after removal, Child users’ content may remain viewable in cached and archived pages, or by other users if they previously copied or stored such content. 
+
+### 12F. Data Security.
+
+Site cares about the security of Child users’ information, and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through the Site Services. However, no security system is impenetrable and Site cannot guarantee the security of its systems or privacy protection mechanisms. In the event that any information under Site’s control is compromised as a result of a breach of security, Site will take reasonable steps to investigate the situation and where appropriate, notify those users whose information may have been compromised. Site warrants that it will take other steps, in accordance with any applicable laws and regulations in response to such events. 
+
+### 12G. Changes to this Children’s Privacy Policy.
+
+Site reserves the right to amend this Children’s Privacy Policy at any time. Site encourages Parents to check this page periodically for changes. Site will post the date on which this Children’s Privacy Policy were made to alert users that an updated policy is in place. 
+
+## 13\. Communications Preferences & Access.
+
+You may choose to receive promotional emails, newsletters, push notifications, and similar communications from Site. You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive or by turning off push notifications at the device level. Please note that opt-out requests may take some time to be effective. Your opt-out request will not apply to messages that you request or that are not commercial in nature. For example, Site may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages. 
+
+If your information changes, or if you no longer desire to use the Services, you may request that it update or remove certain information by signing into your account and making the required changes or by contacting us by postal mail at the contact information listed below. Site will respond to your request within a commercially reasonable timeframe. 
+
+## 14\. Your California Privacy Rights.
+
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes As explained in this Privacy Policy, whenever you agree to let us collect personal information about you, it will always provide you with an option to prevent this information from being shared for non-administrative purposes with third parties. You can exercise this option at any time by following the steps outlined above. 
+
+Because this website has a comprehensive Privacy Policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, Site is not required to provide you with this information. If you are a California resident and have questions about our compliance with this law, please send us an email at [DMCAgroup@dallascowboys.net](mailto:DMCAgroup@dallascowboys.net) or write to Site at the following address: 
+
+Provider   
+Attn: California Privacy Rights   
+One Cowboys Way, Suite 100   
+Frisco, Texas 75034 
+
+## 15\. Changes to this Privacy Policy.
+
+Site may update this Privacy Policy to reflect changes to its information practices. If Site makes any material changes, it will notify you by means of a notice on the Services prior to the change becoming effective. Site encourages you to periodically review this page for the latest information on our privacy practices. 
+
+## 16\. International Users.
+
+Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. While some of these countries may not offer the same level of privacy protection as your own, Site commits to uphold the privacy protections as explained in this Policy. 
+
+## 17\. Contact Us.
+
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [DMCAgroup@dallascowboys.net](mailto:DMCAgroup@dallascowboys.net) or write to Site at the following address: 
+
+Provider   
+Attn: Website Privacy Policy   
+One Cowboys Way, Suite 100   
+Frisco, Texas 75034 
