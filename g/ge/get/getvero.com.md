@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getvero.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721123951id_/https%3A//www.getvero.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getvero.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620025316id_/https%3A//www.getvero.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice - Vero
+# Privacy Policy - Vero
 
 **Last updated:** 16 May 2018  
  **Effective date:** 25 May 2018
@@ -37,11 +37,11 @@ However, to make it easier for you to review those parts of this Notice which ap
 
 ## Definitions
 
-  * **“Website”** means veropublic.wpengine.com.
-  * **“** **Services”** means the software product that Vero provides website operators and other individuals encompassing a variety of tools and resources (including some elements of our Website) to enable them to collect user and usage data and send email and other messages efficiently to consumers based on their behavior.
-  * **“End User”** means any of our Customers’ customers.
-  * **“End User Data”** means data relating to our customers’ customers.
-  * **“Personal Information”** means personally identifiable information as defined by applicable data protection laws, including where applicable, EU data protection law.
+  *  **“Website”** means veropublic.wpengine.com.
+  *  **“** **Services”** means the software product that Vero provides website operators and other individuals encompassing a variety of tools and resources (including some elements of our Website) to enable them to collect user and usage data and send email and other messages efficiently to consumers based on their behavior.
+  *  **“End User”** means any of our Customers’ customers.
+  *  **“End User Data”** means data relating to our customers’ customers.
+  *  **“Personal Information”** means personally identifiable information as defined by applicable data protection laws, including where applicable, EU data protection law.
 
 
 
@@ -73,7 +73,7 @@ Usage Data: When you visit the Website, whether as a Vero customer or a non-regi
 
 Cookies: “Cookies” are identifiers we transfer to your computer or mobile device that allow us to recognize your browser or mobile device and tell us how and when pages in our Website are visited by you. You may be able to change the preferences on your browser or mobile device to prevent or limit your computer or device’s acceptance of cookies, but this may prevent you from taking advantage of some of our Website’s features. If you click on a link to a third party website, such third party may also transmit cookies to you. This Privacy Policy does not cover the use of cookies by any third parties.
 
-## 3\. Privacy for our Services 
+## 3\. Privacy for our Services
 
 This section describes how we collect and use information we receive when you use our Services.
 
@@ -169,7 +169,7 @@ If you are a resident of the EEA you have the following data protection rights:
   * If you wish to **access, correct, update or request deletion** of your Personal Information, you can do so at any time.
   * You can **object to processing** of your Personal Information, ask us to **restrict processing** of your Personal Information or **request portability** of your Personal Information.
   * If we have collected and process your Personal Information with your consent, then you can **withdraw your consent** at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent.
-  * You have the **right to complain** to a data protection authority about our collection and use of your Personal Information. Contact details for data protection authorities in the EEA are available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
+  * You have the **right to complain** to a data protection authority about our collection and use of your Personal Information. Contact details for data protection authorities in the EEA are available [here](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
 
 
 
