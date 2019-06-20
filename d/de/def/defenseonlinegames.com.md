@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defenseonlinegames.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218011332id_/http%3A//www.defenseonlinegames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenseonlinegames.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620063629id_/http%3A//www.defenseonlinegames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
