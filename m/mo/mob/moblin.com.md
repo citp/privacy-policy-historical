@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moblin.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219135154id_/http%3A//moblin.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moblin.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620224700id_/http%3A//www.moblin.com/pp.php) for the most accurate reproduction.*
 
 # Moblin - PRIVACY POLICY
 
@@ -52,7 +52,7 @@ If you decide at any time that you no longer wish to receive such communications
 
   * **Use of Cookies and Other Tracking Technologies**
 
-Moblin may use cookies, or other technology (collectively " **Cookies** ") to collect certain information about you when you are visiting the Site. Cookies is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. The purpose of Cookies is to provide a convenience feature to save your time. By using the Site, you consent to the use of these Cookies. If you do not accept these Cookies, you can change your browser's settings to delete cookies that have already been set and to not accept new Cookies. Please however note, that, if you delete Cookies or do not accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly. To find out more about Cookies, including how to see what cookies have been set and how to manage and delete them, please visit [www.allaboutcookies.org](https://web.archive.org/web/20181219135154id_/http%3A//moblin.com/www.allaboutcookies.org). 
+Moblin may use cookies, or other technology (collectively " **Cookies** ") to collect certain information about you when you are visiting the Site. Cookies is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. The purpose of Cookies is to provide a convenience feature to save your time. By using the Site, you consent to the use of these Cookies. If you do not accept these Cookies, you can change your browser's settings to delete cookies that have already been set and to not accept new Cookies. Please however note, that, if you delete Cookies or do not accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly. To find out more about Cookies, including how to see what cookies have been set and how to manage and delete them, please visit [www.allaboutcookies.org](https://web.archive.org/web/20190620224700id_/http%3A//www.moblin.com/www.allaboutcookies.org). 
 
   * **Outside Sites and Linking**
 
