@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonious.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826044923id_/http%3A//www.fonious.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonious.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620034453id_/http%3A//www.fonious.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
